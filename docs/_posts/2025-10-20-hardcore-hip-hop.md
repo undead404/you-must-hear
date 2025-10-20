@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2025-10-20T08:06:59.299Z
+permalink: tags/hardcore-hip-hop
+title: hardcore hip hop
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 10 | ![Cover](https://i.discogs.com/_f3MnAkftCRDdb4GcDJpoQtjWj-_RP3DDvX0B7Z2JtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODk4/NjQtMTQzMTEzMjM5/MS04NDU5LmpwZWc.jpeg) | 1987 | Ice-T | Rhyme Pays (Explicit Version) |
+| 19 |  | 1992 | Public Enemy | Greatest Misses |
+| 2 |  | 1994-11-15 | Method Man | Tical |
+| 8 |  | 1995-03-28 | Ol' Dirty Bastard | Return To The 36 Chambers: The Dirty Version |
+| 34 |  | 1995-04-18 | Mobb Deep | The Infamous |
+| 6 | ![Cover](https://i.discogs.com/sZueU4qnsX6BzrHWXl94mcNtepcIL9cdBDRKyMjyxls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ0/NTQtMTU3MjU1MzU2/My0yMjQ2LmpwZWc.jpeg) | 1997 | Elcamino | ElCamino 2 |
+| 11 | ![Cover](https://i.discogs.com/sZueU4qnsX6BzrHWXl94mcNtepcIL9cdBDRKyMjyxls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ0/NTQtMTU3MjU1MzU2/My0yMjQ2LmpwZWc.jpeg) | 1997 | Elcamino | Don't Eat the Fruit |
+| 25 |  | 1999-02-23 | Eminem | The Slim Shady LP |
+| 47 |  | 2000-05-22 | Eminem | The Marshall Mathers LP |
+| 5 | ![Cover](https://i.discogs.com/Zl2kxW_ZCWFC7oSJu03Vnc9cnW0WJXuv_nckU1SKEqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODAy/Ni0xNTk5MzE5Nzc2/LTUzNjUuanBlZw.jpeg) | 2002 | The Coup | Steal This Double Album |
+| 12 | ![Cover](https://i.discogs.com/LZFzN31YEFO4JYSoGHnTiKKEkQs-u_pMA60JVUPzzaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDAy/LTEzMTA1NDE4Mzku/anBlZw.jpeg) | 2002-08-05 | Dälek | From Filthy Tongue of Gods and |
+| 16 |  | 2002-08-05 | Dälek | From Filthy Tongue of Gods and Griots |
+| 21 |  | 2003-09-15 | Viktor Vaughn | Vaudeville Villain |
+| 3 | ![Cover](https://i.discogs.com/LsIaG-Q8Bj8h76ZSQPplFN_yv5GfGjs16kS4vZXqyQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTU3/MS0xNjM0MDUzNjI1/LTczODkuanBlZw.jpeg) | 2004-10-21 | D12 | Devil's Night |
+| 50 | ![Cover](https://i.discogs.com/oagYMawz7YwT3aZzvBwOI7rSPwS8cyDvnx6EZJMEBw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMy/NDEtMTI3ODAzNzI2/NS5qcGVn.jpeg) | 2007-05-11 | Black Milk | Black and brown |
+| 9 |  | 2007-08-07 | Public Enemy | How You Sell Soul To A Soulless People Who Sold Their Soul??? |
+| 13 |  | 2009-12-25 | Tyler, the Creator | Bastard |
+| 37 |  | 2010-03-03 | Earl Sweatshirt | EARL |
+| 41 |  | 2010-03-16 | Danny Brown | The Hybrid |
+| 20 |  | 2010-11-09 | Lil B | Red Flame |
+| 22 | ![Cover](https://i.discogs.com/noeaax4s4fxMlZB60NrlUAzlTAvVNssdXqnlZBg3AbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzE0/MTgzLTE2MDcwMTAx/OTYtNDIzOC5qcGVn.jpeg) | 2011 | The Notorious B.I.G. | Life After Death (2014 Remaster) |
+| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c4d82e6c5e63474aa9b6eacf2ccc87f8.png) | 2011-03-08 | Death Grips | Death Grips |
+| 14 |  | 2011-05-10 | Tyler, the Creator | Goblin |
+| 30 |  | 2012-03-20 | OFWGKTA | The OF Tape, Vol. 2 |
+| 40 | ![Cover](https://i.discogs.com/ag1Ca1MB7Uw6-GfCSF_YTWUU_cJCwr2TFoZej3WW3Q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODA5/NjQzLTE2Mjg1ODkx/NjMtMTEwNi5qcGVn.jpeg) | 2012-04 | Machete | MACHETE MIXTAPE 4 |
+| 17 |  | 2012-05-15 | Killer Mike | R.A.P. Music |
+| 49 |  | 2013-04-01 | Tyler, the Creator | Wolf |
+| 24 | ![Cover](https://i.discogs.com/czPnH8b37TIgeIXgyDaatFgaJsV6EHmEM-Xgd7TAhLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzM4/NjQtMTM3Njk2MDE3/NS02NjI5LmpwZWc.jpeg) | 2013-08-20 | JJ DOOM | Key to the Kuffs (Butter Edition) |
+| 1 |  | 2013-10-22 | Armand Hammer | RACE MUSIC |
+| 44 |  | 2014-12-09 | PRhyme | PRhyme |
+| 33 | ![Cover](https://i.discogs.com/DLLwBajeE5HO1FICW8LDkw5OVdP2_v0yDI1k9VtajXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODEy/ODYtMTU4NjA5MTU4/OC04ODQ5LmpwZWc.jpeg) | 2015-03-16 | Kendrick Lamar | To Pimp a Butterfly |
+| 38 | ![Cover](https://i.discogs.com/tRjk1MW44GzTrwUdMqvGqvd1seKyxU-AI-1vZoj5mNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ1/NTAwLTE0OTc1OTI3/MDEtNTMxNS5qcGVn.jpeg) | 2017-06-09 | BROCKHAMPTON | SATURATION |
+| 26 | ![Cover](https://i.discogs.com/qbXtFfC1ZJJYg49eXRn_dE55oqnDc-_akF9CHkkSebM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ3/NjgwLTE1ODc1MDA1/OTktNzQwNC5qcGVn.jpeg) | 2018-05-25 | Pusha T | DAYTONA |
+| 45 | ![Cover](https://i.discogs.com/ZWKEbn8XxrLgIQS17W6Dkhtg5O2q2VhKQSTr9Oh6mpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkz/MTc3LTE1MzAxODE3/NjQtMjQzMS5qcGVn.jpeg) | 2018-06-22 | Westside Gunn | SUPREME BLIENTELE |
+| 4 | ![Cover](https://i.discogs.com/jBBtd9yj-Vdky0na3cwrjCUCws1lxjP1yBtsI5CWRJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTUy/MTYzLTE1Mzc0Njk5/NDAtMzkzNy5qcGVn.jpeg) | 2018-09-21 | BROCKHAMPTON | iridescence |
+| 48 | ![Cover](https://i.discogs.com/vsXoBy1QXPd4vrT6ClYFpzPcFwXTsvPwFu7Mw5yqIuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIz/NDY1LTE0OTUzMTk0/MDAtNDUzOS5qcGVn.jpeg) | 2018-11-04 | Westside Gunn | Hitler Wears Hermes 6 |
+| 39 | ![Cover](https://i.discogs.com/o-C-LHvRxGKf6xEKDmDBRKcvzInbL5KZrrHOlClAREk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE0/OTI1LTE1NTU2NjUw/NjItNzE5My5qcGVn.jpeg) | 2019-04-19 | Your Old Droog | It Wasn't Even Close |
+| 46 | ![Cover](https://i.discogs.com/2KEI_GkIGtSYL_bbKnYKDl5Aej-X60LwIANJRT4-ufc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTI3/NjczLTE2NDAzNTIx/NzAtOTYyMC5qcGVn.jpeg) | 2019-09-13 | JPEGMAFIA | All My Heroes Are Cornballs |
+| 27 | ![Cover](https://i.discogs.com/J0og1BX-c7UTQBnP28Rn_0onnQOrYGl4rwCNFfVeSmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTE4/NjUtMTM2MzY2ODcw/NS03NDYwLmpwZWc.jpeg) | 2020-02-28 | Roc Marciano | Marcielago |
+| 42 | ![Cover](https://i.discogs.com/_Kz6BYLHH6lmN3IpEeZ-TM-gfWmf3kEKPHxHwids69s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDgz/MDQxLTE2MDgwMjMw/NjYtNjgzOS5qcGVn.jpeg) | 2020-09-18 | Armani Caesar | THE LIZ 2 |
+| 35 | ![Cover](https://i.discogs.com/f4wUaaM_Pl4iunqVYd0gkPhSxts7NyeFPr9Ur0sUWpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjE4/MzE3LTE2MTAyODEy/NzUtODcyMy5qcGVn.jpeg) | 2020-12-25 | Playboi Carti | Whole Lotta Red |
+| 28 | ![Cover](https://i.discogs.com/-5Q4JCdFJALL8kM8KQjuGaqmNqI-oSSzP7zaDZiEXck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc2/NTI5LTE1MzYwNTMz/MjQtNjM1OS5qcGVn.jpeg) | 2021 | Mach-Hommy | Dollar Menu 4 |
+| 29 | ![Cover](https://i.discogs.com/pw8Dl_WsUkbMwIkyaJRVHLBAz-NryOffrNXasHKhSxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzc2/MzY2LTE2MTg5MDY2/MjgtNjQwNS5qcGVn.jpeg) | 2021-02-12 | JPEGMAFIA | VETERAN |
+| 15 | ![Cover](https://i.discogs.com/8ZSRc8fvkdkhEUjtrB_Xsl7XFP_l5WOkJpOQt_gKS7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDMz/MjIwLTE3MDQ3Njc3/NTktOTY0Ny5qcGVn.jpeg) | 2021-05-14 | Bruiser Brigade | TV62 |
+| 31 | ![Cover](https://i.discogs.com/4AZBmUwmxGSQ762ACTamT39sbcaiYLK8tkaD5X5eGs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTY3/MjMwLTE2MzQwNjQ3/NTMtMTQ4Ny5qcGVn.jpeg) | 2021-09-24 | Blu | The Color Blu(e) |
+| 43 | ![Cover](https://i.discogs.com/HApYKJT_Q09Q8C1PkEIyYI-AreQzL_Hl0pezMGQqnpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTEw/NzEtMTQ1Njg0NTEw/OC03ODU3LmpwZWc.jpeg) | 2022 | Westside Gunn | FlyGod |
+| 32 | ![Cover](https://i.discogs.com/lazDYRn7fPp0dwXFwdqQkGP4BmL0MC_LRJ-0k6133KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjAw/ODc2LTE2NjA0OTUx/MTEtNzI5My5qcGVn.jpeg) | 2022-07-21 | Ghais Guevara | There Will Be No Super-Slave |
+| 23 | ![Cover](https://i.discogs.com/Wpai6bWcmZiYMCFMkFfjtVm-wyqt52s4qxH0pEKPBWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjYx/Nzc2LTE2NjEwMjE4/MDctNjQxMi5qcGVn.jpeg) | 2022-08-05 | Anonymous Club | Screensavers Vol 1 |
+| 7 | ![Cover](https://i.discogs.com/AAj2R_Z5PQpJzMxK-e_RidPCpn0MMb2P52RvEkFzY34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM1/MjUxLTE2OTM1NjQw/NDAtOTY2MS5qcGVn.jpeg) | 2023-03-24 | JPEGMAFIA, Danny Brown | Scaring The Hoes |
+| 18 |  | null | $ilkMoney | I Don't Give a Fuck About This Rap Shit, Imma Just Drop Until I Don't Feel Like It Anymore |
+| 76 | ![Cover](https://i.discogs.com/EI0bkTrspTLPDfwI7v2ASN4JGp4SK1_sqFPuiUZdAX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTI5/Ny0xNjkwNTI3OTk3/LTc5NzYuanBlZw.jpeg) | 2004 | D12 | D-12 World |
+| 77 |  | 2004-04-26 | D12 | D12 World |
+| 64 |  | 2011-04-25 | Death Grips | Exmilitary |
+| 100 | ![Cover](https://i.discogs.com/CaCo-5NZ2JJ2mZRllTaQVJFNVTzcn2Rv6uNomVe_kLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDA4/OTMtMTM3NzUwMDEz/OS0xMDM1LmpwZWc.jpeg) | 2011-05-10 | Tyler, the Creator | OKRA |
+| 85 |  | 2011-06-28 | Death Grips | Live From Death Valley |
+| 60 |  | 2011-08-03 | Death Grips | Guillotine |
+| 56 |  | 2011-08-15 | Danny Brown | XXX |
+| 70 | ![Cover](https://i.discogs.com/UR-SXITYQmu4GZKdatY-0EIJiDotzBUPVi80tc2t8Nk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjEy/MjEtMTM5ODE5ODg1/OC0zODgyLmpwZWc.jpeg) | 2012-03-13 | Danny Brown | XXX (Deluxe Version) |
+| 91 |  | 2012-04-13 | Death Grips | The Money Store |
+| 68 |  | 2012-10-01 | Death Grips | No Love Deep Web |
+| 51 |  | 2012-10-09 | MellowHype | Numbers |
+| 95 | ![Cover](https://i.discogs.com/N4Qhuw8XPp_-QUC8Bkw_g0mphTJ8bzBTzWNO-SFPFsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjM0/NDItMTM4MzkxNjc1/Ni02MDQyLmpwZWc.jpeg) | 2013 | Kendrick Lamar | good kid, m.A.A.d city (Deluxe) |
+| 57 |  | 2013-06-18 | Kanye West | Yeezus |
+| 52 |  | 2013-06-26 | Run the Jewels | Run the Jewels |
+| 81 |  | 2013-10-08 | Danny Brown | Old |
+| 92 |  | 2014-10-24 | Run the Jewels | Run the Jewels 2 |
+| 71 | ![Cover](https://i.discogs.com/KavZx-vh6THT4qBD8cnR5-X8VbGmH4JW_BE5WYR7egM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTc5/NzQtMTQyOTAzNzgy/MC03MjM4LmpwZWc.jpeg) | 2015 | Tyler, the Creator | Cherry Bomb |
+| 89 | ![Cover](https://i.discogs.com/70t1JAqkqskhQvRU5qXAV9-gDxWRQwaK5WuT7SGNjTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTUy/MDAwLTE0OTI1MjQy/NTUtMjIzNi5qcGVn.jpeg) | 2015-02-12 | Xavier Wulf | Tundra Boy Season One |
+| 55 | ![Cover](https://i.discogs.com/sNYQOqYW62YMjhkBSRI8yRMbzrlbdxcroylZ5NgwSY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTY2/OTctMTQyNzIyODIx/OS02MjkxLmpwZWc.jpeg) | 2015-03-30 | Death Grips | the powers that b |
+| 90 | ![Cover](https://i.discogs.com/9BSf9JVrkPZSgnBvW8Ljc8abzDltrA_wihNxgSYrQOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTEz/OTMtMTQzNTc4MDYy/NC04MTQ4LnBuZw.jpeg) | 2015-06-30 | Vince Staples | Summertime '06 |
+| 72 | ![Cover](https://i.discogs.com/m7PBmAFEIj5SZFdUFi1My44q1SPONBKlahhjUyWCBX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTctMTY5NTQyNjUz/OC00MjMxLmpwZWc.jpeg) | 2016-02-15 | JPEGMAFIA | Black Ben Carson |
+| 62 | ![Cover](https://i.discogs.com/5FYz-ujhloG-VbBB_AjBB4TXbkvGvtG_d-7LeYmM2cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTM5/NTMtMTQ3NTAwNjk0/Ny00ODY5LmpwZWc.jpeg) | 2016-09-30 | Danny Brown | Atrocity Exhibition |
+| 93 | ![Cover](https://i.discogs.com/jTrCYBrpa2Ot_v7wiuU1SCmvmtFRXX2aBqNV0NXzpRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MDk3LTE0OTU1MDIy/ODAtMTE2OC5qcGVn.jpeg) | 2017-05-22 | Death Grips | Steroids (Crouching Tiger Hidden Gabber) |
+| 87 | ![Cover](https://i.discogs.com/gYIaSM85UkBDRtfCH0kX5uweLaZjuT-6g9QFWGzxclY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDU0/OTY4LTE1MDAwMzIx/NDMtNjQwNS5qcGVn.jpeg) | 2017-06-23 | Vince Staples | Big Fish Theory |
+| 97 | ![Cover](https://i.discogs.com/jOmL5ZbX5bWsREp9sSeC1zULBhguuQG1G21viXxGYuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjYy/OTUzLTE2NDc4MTgz/NTctNzg2MS5qcGVn.jpeg) | 2017-12-11 | Tyler, the Creator | CALL ME IF YOU GET LOST |
+| 66 | ![Cover](https://i.discogs.com/6sjkRQaiGMbv5_YUc1FpNGBhzgPUPRD5dnhqBklDSA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMw/NDA2LTE1MzMwNjE2/NjctMzA0My5qcGVn.jpeg) | 2018-07-27 | Denzel Curry | TA13OO |
+| 78 | ![Cover](https://i.discogs.com/iIwd-afZAkvwa2QtqQvCEjX6LnbXv7988A50IvYhmfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjE1/Mzg5LTE2MTg5OTkx/NTUtMzY4OS5qcGVn.jpeg) | 2019 | BROCKHAMPTON | ROADRUNNER: NEW LIGHT, NEW MACHINE |
+| 84 | ![Cover](https://i.discogs.com/XaeoayS9wkPBMdnYwES6IyX8ojabNua7rROJiTE-R00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI5/NTIyLTE1NzAzMDY2/ODAtMjkxMS5qcGVn.jpeg) | 2019 | Danny Brown | uknowhatimsayin¿ |
+| 99 | ![Cover](https://i.discogs.com/9EBO0iX4m8FK202ZfJgqb95iqfgj1AsKR50wI9QWDXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzYz/OTc2LTE1OTczNTIw/MDEtOTM1OC5qcGVn.jpeg) | 2019 | BROCKHAMPTON | 1998 TRUMAN |
+| 63 | ![Cover](https://i.discogs.com/sV0rVIG_EotY6pTRlYuA7XIGf6L-0D0ia04xbqFByjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM5/NzM1LTE1NjIzMDQ5/NzktNTI4OS5qcGVn.jpeg) | 2019-07-20 | Westside Gunn | Flygod Is An Awesome God |
+| 94 | ![Cover](https://i.discogs.com/SejFC3dP0zsp8T8Rz9-nSjfugD43MWowo2Pd9ABTM-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg2/ODQ3LTE1OTU5MTEz/MjUtNzU1My5qcGVn.jpeg) | 2020 | JPEGMAFIA | scaring the hoes |
+| 74 | ![Cover](https://i.discogs.com/eTvsC00v3eDD1D4SJSGb-9uosnYJV2p9J5MqvpAVAFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA0/Njk2LTE1OTI2NTEw/MTAtNjg2Mi5qcGVn.jpeg) | 2020-01-01 | Lil Darkie | THIS DOES NOT EXIST |
+| 75 | ![Cover](https://i.discogs.com/8QheY_w8eZE7_29FeJ7Tcj17rZqKEGQcIHIh0US1bXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQ0/OTgxLTE1ODcyNTM3/OTMtODkyNi5qcGVn.jpeg) | 2020-06-01 | Westside Gunn | Pray For Paris |
+| 86 | ![Cover](https://i.discogs.com/dTArALahsZXo1gIHPUDv75jq6bUXA4kGh6uEbTD3lDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjk1/MTM4LTE2MzQ5NTU1/MDQtMTg1MC5qcGVn.jpeg) | 2021 | JPEGMAFIA | LP! |
+| 98 | ![Cover](https://i.discogs.com/68TYCbqkzs7O4xSXmvbuL-45pOg5DnnRePJHPOaj59M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODIz/MjMyLTE2NjU3Njcy/NzItNDI0Ni5qcGVn.jpeg) | 2021 | JPEGMAFIA | OFFLINE! |
+| 80 | ![Cover](https://i.discogs.com/xXyT95_v-mmkNeCu84MmC4EhMSA5sMR8RfBJlP9FskA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDMw/OTc0LTE2NTM2Njkx/NDQtOTc5NS5qcGVn.jpeg) | 2021-08-27 | Baby Keem &amp; Kendrick Lamar | Family Ties - Single |
+| 88 | ![Cover](https://i.discogs.com/DoxMAay-QIgOkLBqBenaW6o8_-GBz0GF3uNDyW5SiII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTgz/OTkyLTE2Mzg5Njk0/OTEtMTUwNi5qcGVn.jpeg) | 2021-09-10 | Baby Keem | The Melodic Blue (Deluxe) |
+| 67 | ![Cover](https://i.discogs.com/bakoD0QjTiFerv5BguVrzswmnRo5LFi2IrqIppEHYhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjY2/MjUwLTE2Nzc2NzI0/NjYtNTY5NC5wbmc.jpeg) | 2021-12-01 | Dillom | Post Mortem |
+| 96 | ![Cover](https://i.discogs.com/LT7-LCK-AnB3m10wdH4EYVd6tdkuOxUejiRTT16bI0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTg2/MTA3LTE2NjAzNzA3/NzMtOTY1MS5qcGVn.jpeg) | 2022-04-15 | Joey Valence &amp; Brae | Punk Tactics |
+| 59 | ![Cover](https://i.discogs.com/jKpC9x8SR1wxgPirLHmWXp8BZ1JTBFKQzl_IfJyNe3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzU1/NTQ0LTE2NjE4MjIy/NjUtODk4OS5qcGVn.jpeg) | 2022-04-17 | Ghais Guevara | BlackBolshevik |
+| 61 | ![Cover](https://i.discogs.com/pOj-OKPgtA4DuKTH6Q0mkeYIjn2vPwbpJWLM5fKUrtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODE0/MTA3LTE2NjYyMTAx/MTctOTA0OC5wbmc.jpeg) | 2022-07-08 | Westside Gunn | PEACE "FLY" GOD |
+| 58 | ![Cover](https://i.discogs.com/UAgKkT5wnDfCWAjCs0k2JTLlxdA5c4ZIzmkViBtu_As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODE2/NzYxLTE2NjU3MjM2/NjItNTY0NS5qcGVn.jpeg) | 2022-08-12 | Hackle | Gunsmith tha Mixtape |
+| 83 | ![Cover](https://i.discogs.com/6XJrYwwvButb17b325FlKs1TnSjAlXnzYFSTlpOj-R0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTM2/MTMxLTE1OTMyMDE1/NjUtMjk1Ni5qcGVn.jpeg) | 2022-11-25 | Chief Keef | 4NEM |
+| 54 | ![Cover](https://i.discogs.com/PFO970ybmBBCiZz0VhyAD9bZOcZz4ZV8ramTEsgAGcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU2/Mjk2LTE2MDk2MzYz/MDctODc3Ni5qcGVn.jpeg) | 2023 | MF DOOM | BORN LIKE THIS (Redux) |
+| 82 | ![Cover](https://i.discogs.com/TGXH3Vn117miRv-Ch9-I2Ei8Qx6kdPc9XfBiLzRYs5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjI4/NjY4LTE2OTc2MjQy/MzYtNzk3Ni5qcGVn.jpeg) | 2023-10-13 | Ken Carson | A Great Chaos |
+| 73 | ![Cover](https://i.discogs.com/vhECo0xMe6rBeG4g-x6KaHXq7Lb7qwMc8kLq_PMRHmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQw/MTI4LTE3MDAyMTM4/NzYtMTExMC5qcGVn.jpeg) | 2023-11-17 | Danny Brown | Quaranta |
+| 79 |  | 2023-12-22 | OsamaSon | Flex Musix |
+| 69 | ![Cover](https://i.discogs.com/nfDuvOIcIpp1cCLEIpnDRfPWdHMCiXDt0dODmFVIYKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjUx/MzczLTE3MTYxMzQz/MTctMzA2NC5qcGVn.jpeg) | 2024-05-10 | Chief Keef | Almighty So 2 |
+| 53 | ![Cover](https://i.discogs.com/nbcAHmRJrigH79UgJ7zsfzTubDYzp9ga7woZAkxSud0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzM3/MTk1LTE2MTUxMzYw/MTEtMjE4Ni5qcGVn.jpeg) | 2024-07-19 | Denzel Curry | King Of The Mischievous South Vol. 2 |
+| 65 | ![Cover](https://i.discogs.com/KiqGpfX2oaqs00mVxcmSCmlES7JzbXhK-lkORGyPpy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzc4/OTI4LTE3MjI2MjEz/ODItOTAzOS5qcGVn.jpeg) | 2024-08-01 | JPEGMAFIA | I LAY DOWN MY LIFE FOR YOU |
