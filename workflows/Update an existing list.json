@@ -1,0 +1,159 @@
+{
+  "name": "Update an existing list",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "minutes",
+              "minutesInterval": 1
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        0
+      ],
+      "id": "8bb43f52-1660-4f42-9fa3-48b6d968c2dd",
+      "name": "Schedule Trigger"
+    },
+    {
+      "parameters": {
+        "workflowId": {
+          "__rl": true,
+          "value": "8yEqxKAOkd9EsU7B",
+          "mode": "list",
+          "cachedResultUrl": "/workflow/8yEqxKAOkd9EsU7B",
+          "cachedResultName": "Generate list"
+        },
+        "workflowInputs": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "tagName": "={{ $json.name }}"
+          },
+          "matchingColumns": [
+            "tagName"
+          ],
+          "schema": [
+            {
+              "id": "tagName",
+              "displayName": "tagName",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "canBeUsedToMatch": true,
+              "type": "string",
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": true
+        },
+        "mode": "each",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.executeWorkflow",
+      "typeVersion": 1.3,
+      "position": [
+        416,
+        0
+      ],
+      "id": "4f5ef127-8b91-4d2e-a73b-13cf2fd5f29a",
+      "name": "Call 'Generate list'"
+    },
+    {
+      "parameters": {
+        "operation": "select",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "value": "Tag",
+          "mode": "list",
+          "cachedResultName": "Tag"
+        },
+        "limit": 1,
+        "where": {
+          "values": [
+            {
+              "column": "albumsScrapedAt",
+              "condition": "IS NOT NULL"
+            },
+            {
+              "column": "listUpdatedAt",
+              "condition": "IS NOT NULL"
+            }
+          ]
+        },
+        "sort": {
+          "values": [
+            {
+              "column": "listCheckedAt"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        208,
+        0
+      ],
+      "id": "ea2d97b0-29a1-4572-a0dd-0ddf57bfb0c3",
+      "name": "Select a known listful tag",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "Select a known listful tag",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Select a known listful tag": {
+      "main": [
+        [
+          {
+            "node": "Call 'Generate list'",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": false,
+    "errorWorkflow": "7HrDrsQKECTlnEFk"
+  },
+  "versionId": "6e86effb-71b2-43de-9077-36e430cd8bc9",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"
+  },
+  "id": "jpSFi0D7RTDll7Yz",
+  "tags": []
+}

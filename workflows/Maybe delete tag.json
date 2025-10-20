@@ -1,0 +1,386 @@
+{
+  "name": "Maybe delete tag",
+  "nodes": [
+    {
+      "parameters": {
+        "workflowInputs": {
+          "values": [
+            {
+              "name": "tagName"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.executeWorkflowTrigger",
+      "typeVersion": 1.1,
+      "position": [
+        0,
+        32
+      ],
+      "id": "6cd88b4f-cefe-4bda-afb6-1a0008d3a164",
+      "name": "Begin"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "66a82233-6e6c-49ef-8e6a-d08cca6ce788",
+              "leftValue": "={{ $json.primaryName }}",
+              "rightValue": "={{ $('Begin').item.json.tagName }}",
+              "operator": {
+                "type": "string",
+                "operation": "equals",
+                "name": "filter.operator.equals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        1520,
+        112
+      ],
+      "id": "7ac3ee52-c308-46b2-b9ca-9aac3910b8e5",
+      "name": "If matches primary spelling",
+      "alwaysOutputData": true
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "4cea6ce0-455d-43e6-9c3b-40dfc3958b76",
+              "name": "tagName",
+              "value": "={{ $('Begin').item.json.tagName }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        1744,
+        160
+      ],
+      "id": "69cfc51d-3660-45a9-9ebf-ac1535af066a",
+      "name": "Pass"
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT \"weighted_tags\".\"name\" AS \"primaryName\"\n    FROM (\n      SELECT\n        \"Tag\".\"name\",\n        SUM(\n          \"AlbumTag\".\"count\" :: FLOAT * COALESCE(\"Album\".\"playcount\", 0) / 1000000 * COALESCE(\"Album\".\"listeners\", 0) / 1000\n        ) AS \"weight\"\n      FROM \"Tag\"\n      JOIN \"AlbumTag\" ON \"AlbumTag\".\"tagName\" = \"Tag\".\"name\"\n      JOIN \"Album\" ON \"Album\".\"artist\" = \"AlbumTag\".\"albumArtist\"\n      AND \"Album\".\"name\" = \"AlbumTag\".\"albumName\"\n      WHERE\n        REGEXP_REPLACE(\"Tag\".\"name\", '[^[:alnum:]]', '', 'g') = '{{ \n          $json.tagName.replace(\n            /[^\\da-z]/gi,\n            '',\n          )\n      }}'\n      GROUP BY \"Tag\".\"name\"\n      ORDER BY \"weight\" DESC\n    ) AS \"weighted_tags\" LIMIT 1",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        1296,
+        112
+      ],
+      "id": "3326be3d-22c6-4f2b-aa8c-f9c3b26bb52f",
+      "name": "Get primary spelling",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "ea88e4f7-c03e-48e5-b000-b5d487a62f5c",
+              "leftValue": "={{ $json.isBlacklisted }}",
+              "rightValue": "",
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        1072,
+        32
+      ],
+      "id": "2e7aae10-3221-4056-b12a-6cce84f8aec1",
+      "name": "If tag blacklisted"
+    },
+    {
+      "parameters": {
+        "operation": "deleteTable",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "value": "Tag",
+          "mode": "list",
+          "cachedResultName": "Tag"
+        },
+        "deleteCommand": "delete",
+        "where": {
+          "values": [
+            {
+              "column": "name",
+              "value": "={{ $('Begin').item.json.tagName }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        1744,
+        -64
+      ],
+      "id": "f0e10a6c-f7d7-47cf-b9e0-86869ebd5c8d",
+      "name": "Delete table or rows",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const BLACKLISTED_TAGS = new Set($input.first().json.data.split('\\n'));\n\nconst BLACKLISTED_TAG_STARTS = [\n  ' ',\n  '-',\n  '00s ',\n  '10s ',\n  '19th century ',\n  '1st ',\n  '2010s ',\n  '2015 ',\n  '2016 ',\n  '2017 ',\n  '20s ',\n  '20th century ',\n  '30s ',\n  '40s ',\n  '50s ',\n  '60s ',\n  '70s ',\n  '80s ',\n  '90s ',\n  'album of ',\n  'albums ',\n  'albuns ',\n  'all time favorite ',\n  'altar of the metal gods',\n  'anal ',\n  'approved by',\n  'argeu',\n  'awesome ',\n  'bbc ',\n  'best ',\n  'better than ',\n  'brc blues band ',\n  'c20 ',\n  'cd ',\n  'cds ',\n  'cmj',\n  'conforms to ',\n  'excellent',\n  'exists ',\n  'fart',\n  'favorite',\n  'favourite',\n  'for ',\n  'free ',\n  'from ',\n  'fuck ',\n  'fuckin ',\n  'fucking ',\n  'general ',\n  'good ',\n  'harukaex',\n  'i ',\n  'incest',\n  'intrumental',\n  'jpoptrasher',\n  'killer ',\n  'listen to ',\n  'lounge at ',\n  'lyrics ',\n  'meine ',\n  'music from ',\n  'music i ',\n  'music to ',\n  'musica ',\n  'my ',\n  'nice ',\n  'not ',\n  'perfect',\n  'playlist',\n  'post-post-',\n  'purchased',\n  'radio ',\n  'records ',\n  'shit ',\n  'sick ',\n  'similar to ',\n  'stand out ',\n  'streamable',\n  'the best ',\n  'thebest',\n  'title is ',\n  'to jest ',\n  'too much',\n  'top ',\n  'ugly ',\n  'under the radar',\n  'valkyeriex',\n  'valkyreiex',\n  'valkyriex',\n  'without ',\n  'wiz khalifa',\n  'worse than ',\n  'worst ',\n  'you can listen ',\n];\n\nconst BLACKLISTED_TAG_ENDS = [\n  ' 2016',\n  ' 2020',\n  ' 60s',\n  ' aesthetics',\n  ' af',\n  ' album',\n  ' album cover',\n  ' album covers',\n  ' albums',\n  ' artist',\n  ' artists',\n  ' as fuck',\n  ' brilliance',\n  ' classics',\n  ' collection',\n  ' concerto',\n  ' does not approve',\n  ' etc',\n  ' fathers',\n  ' favorites',\n  ' favourites',\n  ' flavoured',\n  ' gods',\n  ' group',\n  ' groups',\n  ' i own',\n  ' influence',\n  ' influences',\n  ' instrument',\n  ' like this',\n  ' likes this album',\n  ' lovers',\n  ' lyrics',\n  ' minutes',\n  ' music',\n  ' musician',\n  ' musicians',\n  ' my ass',\n  ' of the 21st century',\n  ' on cover',\n  ' owns',\n  ' owns this',\n  ' performance',\n  ' productions',\n  ' ram',\n  ' radiostation',\n  ' rare',\n  ' recommends',\n  ' records',\n  ' releases',\n  ' selection',\n  ' song',\n  ' songs',\n  ' soundtrack',\n  ' stars',\n  ' streamable',\n  ' tag',\n  ' to hear before you die',\n  ' vibe',\n  ' vibes',\n  '-esque',\n  '-inch',\n  '-y',\n  'buttcore',\n  'cunt',\n  'fanatics',\n  'fecalomatateus',\n  'fm',\n  'genius',\n  'kircore',\n  'owner',\n  'peniscore',\n  'radio',\n  'recs',\n  'rpm',\n  'scum',\n  'scumcore',\n  'sexy sounding',\n  'shit',\n];\n\nconst BLACKLISTED_SUBSTRINGS = [' - ', '  ', 'lastfm'];\n\nconst MIN_TAG_NAME_LENGTH = 2;\nconst MAX_TAG_NAME_LENGTH = 40;\nconst TAG_RE = /^\\w[\\w -]*[a-z][\\w -]*\\w$/;\n\nfunction isTagBlacklisted(tagName) {\n  if (!tagName) {\n    throw new Error('Tag not supplied');\n  }\n  let result = false;\n\n  if (tagName.length < MIN_TAG_NAME_LENGTH) {\n    result = true;\n  } else if (tagName.length > MAX_TAG_NAME_LENGTH) {\n    result = true;\n  } else if (!TAG_RE.test(tagName)) {\n    return true;  \n  } else if (BLACKLISTED_TAGS.has(tagName)) {\n    result = true;\n  } else if (\n    BLACKLISTED_TAG_STARTS.some((blacklistedTagStart) =>\n      tagName.startsWith(blacklistedTagStart),\n    )\n  ) {\n    result = true;\n  } else if (\n    BLACKLISTED_TAG_ENDS.some(blacklistedTagEnd =>\n      tagName.endsWith(blacklistedTagEnd),\n    )\n  ) {\n    result = true;\n  } else if (\n    BLACKLISTED_SUBSTRINGS.some((blacklistedSubstring) =>\n      tagName.includes(blacklistedSubstring),\n    )\n  ) {\n    result = true;\n  }\n\n  return result;\n}\n\nreturn $('Begin').all().map(item => ({\n  ...item,\n  json: {\n    ...item.json,\n    isBlacklisted: isTagBlacklisted(item.json.tagName)\n  }\n}));"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        848,
+        32
+      ],
+      "id": "765deb49-6418-4819-bd87-8a97ce930e4c",
+      "name": "Mark blacklisted"
+    },
+    {
+      "parameters": {
+        "jsCode": "return [];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1968,
+        -64
+      ],
+      "id": "494b72e3-a644-473b-b1a0-680936ca12ad",
+      "name": "Deleted; exit"
+    },
+    {
+      "parameters": {
+        "fileSelector": "/Users/Vitalii_Perehonchuk/Projects/ymh7/blacklisted-tags.txt",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1,
+      "position": [
+        208,
+        32
+      ],
+      "id": "39064fbf-38d7-429d-9f46-8530fd2d1495",
+      "name": "Read/Write Files from Disk"
+    },
+    {
+      "parameters": {
+        "operation": "text",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.extractFromFile",
+      "typeVersion": 1,
+      "position": [
+        416,
+        32
+      ],
+      "id": "3c601874-c9c1-48ac-aee0-ee9cb145c4f4",
+      "name": "Extract from File"
+    },
+    {
+      "parameters": {
+        "mode": "combine",
+        "combineBy": "combineByPosition",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        624,
+        32
+      ],
+      "id": "b4e106a7-840c-4156-9793-1095ed581847",
+      "name": "Merge"
+    }
+  ],
+  "pinData": {
+    "Begin": [
+      {
+        "json": {
+          "tagName": "scat"
+        }
+      }
+    ]
+  },
+  "connections": {
+    "Begin": {
+      "main": [
+        [
+          {
+            "node": "Read/Write Files from Disk",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If matches primary spelling": {
+      "main": [
+        [
+          {
+            "node": "Pass",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Delete table or rows",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get primary spelling": {
+      "main": [
+        [
+          {
+            "node": "If matches primary spelling",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If tag blacklisted": {
+      "main": [
+        [
+          {
+            "node": "Delete table or rows",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Get primary spelling",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Mark blacklisted": {
+      "main": [
+        [
+          {
+            "node": "If tag blacklisted",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Delete table or rows": {
+      "main": [
+        [
+          {
+            "node": "Deleted; exit",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read/Write Files from Disk": {
+      "main": [
+        [
+          {
+            "node": "Extract from File",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract from File": {
+      "main": [
+        [
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Merge": {
+      "main": [
+        [
+          {
+            "node": "Mark blacklisted",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "f8727e5c-50b2-4c6a-9375-1735657aa0ad",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"
+  },
+  "id": "0JXZTPomOwz2sJee",
+  "tags": []
+}

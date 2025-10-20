@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2025-01-07T10:04:21.581Z
+permalink: tags/technical-thrash-metal
+title: technical thrash metal
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 49 | ![Cover](https://i.discogs.com/zdeJJ0aMW0PTgJCE0tXzKnxB76jwhG4btzy-ZKhunRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjM0/MDEtMTMwMjQ1MzU3/OS5qcGVn.jpeg) | 1985 | Watchtower | Energetic Disassembly |
+| 76 | ![Cover](https://i.discogs.com/HyF-G2vQc7Wb3tjAUEvXYGlwFpAj0RakQoIPa-smsK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjcy/MzktMTQ4ODY4Mzgw/MC00NTgzLmpwZWc.jpeg) | 1986-10 | Toxik | Wasteland |
+| 31 | ![Cover](http://coverartarchive.org/release/15a6d12b-1b3a-4723-a9fc-e7a6ecb2a7f7/36725423792-250.jpg) | 1987 | Toxik | World Circus |
+| 65 | ![Cover](http://coverartarchive.org/release/c4d49030-d9bb-4c13-a9f4-a6b1a8857873/8715956750-250.jpg) | 1987 | Artillery | Terror Squad |
+| 20 | ![Cover](http://coverartarchive.org/release/a8829fe8-1bbf-4f0d-b286-76573962a3c3/17664709593-250.jpg) | 1987-06-01 | Coroner | R.I.P. |
+| 44 | ![Cover](https://i.discogs.com/-_tosq4OpHbmkWZwaP_KTBz0JVWKvGyoZdtWX2KgwFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mjg0/NS0xMjE2MTY0MTU1/LmpwZWc.jpeg) | 1988 | Blind Illusion | The Sane Asylum |
+| 45 | ![Cover](http://coverartarchive.org/release/04453ece-8297-425b-ab1b-339318f55155/27712121596-250.jpg) | 1988 | Despair | History Of Hate |
+| 51 | ![Cover](http://coverartarchive.org/release/bd7e6b0a-6d37-4d99-8d09-fe66ed333c62/19374766863-250.jpg) | 1988 | Deathrow | Deception Ignored |
+| 57 | ![Cover](https://i.discogs.com/vWd71C6LYLzqxZC573xkswlG4g_1ieBBF_eJnRUS0tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjU5/NjktMTU2MDg4MzA0/MS0yMjcwLmpwZWc.jpeg) | 1988 | Airdash | Thank God It's Monday |
+| 69 | ![Cover](https://i.discogs.com/mLjvbtYAQYFv61Mww3s5iDpeFQC8v8CZYucH4uk9ibw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTY4/MS0xMjg1NzUxNzk4/LmpwZWc.jpeg) | 1988 | Voivod | Dimension Hatröss |
+| 67 | ![Cover](http://coverartarchive.org/release/9fe7442d-c44a-4d99-92db-c9a098ee391c/14058546319-250.jpg) | 1988-04-10 | Atheist | Beyond |
+| 23 | ![Cover](https://i.discogs.com/-gl6d39GGLlk3onlo4K6FcUXksqdS5Q0JGi7jUx71p4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk1/NDMtMTYwOTEyNDg4/OC0xNzM0LmpwZWc.jpeg) | 1988-08-01 | Coroner | Punishment for Decadence |
+| 92 | ![Cover](https://i.discogs.com/TXMxBNtbxLs15zfrn9r5QyAwOTJfCUDXY4DXusMbKxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjky/OTQtMTI0NjIwODQ4/OC5qcGVn.jpeg) | 1988-10-24 | Target | Master Project Genesis |
+| 50 | ![Cover](https://i.discogs.com/bqyNt99U0fLCxnO91SyYotzs4lEp9dnpbnNSFl8Y9X8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQ3/ODEtMTQyMzU3MTQ1/NS00Nzg3LmpwZWc.jpeg) | 1988-11-08 | Realm | Endless War |
+| 24 | ![Cover](https://i.discogs.com/M_tl7QnX_o0mXf6xk4MpqngYXOcGswqo2QhlyCaoITw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQ3/NzktMTQ2ODA3MzQy/Ny05NDk4LmpwZWc.jpeg) | 1989 | Watchtower | Control And Resistance |
+| 53 | ![Cover](https://i.discogs.com/1qemXu3t9NTlf7nvHL0h7sUv3Qshh7SqVMf_CHEDVDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0ODE5/NzItMTU0MzcwNTU2/My0zODEwLmpwZWc.jpeg) | 1989 | Turbo | Epidemic |
+| 71 | ![Cover](https://i.discogs.com/2tGhSCtoRVxc0VhCe1Fld--u7hRlsTmrZ-vUl2pPo6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjYx/MDMtMTI5NzQzNjU3/MC5qcGVn.jpeg) | 1989 | Destruction | Live Without Sense |
+| 75 | ![Cover](https://i.discogs.com/xRBLN1NJN-MVdl7NNqJUdpzE0q5WReDZQo7UjKGQusI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODU4/NzYtMTM5NzUxMzQ5/My02MTU3LmpwZWc.jpeg) | 1989 | Toxik | Think This |
+| 87 | ![Cover](https://i.discogs.com/Vo16FjT06ZixRzzcLZtTz4qdAo_GbhIJQKBub1uTc3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzg1/MzkzLTE2ODM1MDc4/ODAtMjA1NC5qcGVn.jpeg) | 1989 | Deathrow | Deception Ignored (2018 Remaster) |
+| 96 |  | 1989 | Accu§er | Who Dominates Who? |
+| 70 | ![Cover](https://i.discogs.com/Ud4NBFeLQ-nhy77klVKBaDXOwBeWVNnMT21tlHw4TXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njcy/NjgtMTYzMTU0NzU5/Ni0zODkyLmpwZWc.jpeg) | 1989-05 | Destruction | Live - Without Sense |
+| 8 | ![Cover](https://i.discogs.com/uLjYCHOMmBwIQg_I0Bwzqq_gKW-mGZD2ozb-6umCHzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTYx/MC0xMzI2MjMxODU5/LmpwZWc.jpeg) | 1989-09-18 | Coroner | No More Color |
+| 18 | ![Cover](https://i.discogs.com/KRAJziiG9LdIyvH-qNv59ZFvpcgknMVyCESbm0KHM4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/NjUtMTI3MTczMzk0/Ni5qcGVn.jpeg) | 1990 | Hellwitch | Syzygial Miscreancy |
+| 19 | ![Cover](http://coverartarchive.org/release/33c62801-a8af-4a9a-8d92-0699d6db0742/14326963412-250.jpg) | 1990 | Obliveon | From This Day Forward |
+| 47 | ![Cover](https://i.discogs.com/zgD7ZxC7C0-8TEE5OFVmvN6Vlj9QgdkbeZ5v70rnT-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY2/NzMtMTU0ODM0Mzk5/My00NDMzLmpwZWc.jpeg) | 1990 | Wolf Spider | Kingdom of paranoia |
+| 90 | ![Cover](https://i.discogs.com/BXNq0DAzB0RDf4wGq0aKGmxSyKXb5AnCl-dhmGavrmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDIx/ODgtMTQ4MTAxODky/Mi04NzY4LmpwZWc.jpeg) | 1990 | Arcane | Destination Unknown |
+| 100 | ![Cover](https://i.discogs.com/SHf9Iab9k7NwkDgMLG0-bj_bGaoGCbTj9UMCYoOi6Oc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzA1/MTktMTMwNDE5NTA0/OC5qcGVn.jpeg) | 1990 | Mekong Delta | Dances Of Death (And Other Walking Shadows) |
+| 39 | ![Cover](https://i.discogs.com/kCxT9ovJNcGxmFklx_6Lsx8yorwSstqG11LYhwrAUjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDQy/My0xMjY5MjE1NTE5/LmpwZWc.jpeg) | 1990-03-30 | Forbidden | Twisted Into Form |
+| 77 | ![Cover](https://i.discogs.com/wxyIEEWPRqlab98csorN_6HNclHxC8pklD0SMWSQDkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzg2/NTMtMTMzODIzNTk5/MC00NzU1LmpwZWc.jpeg) | 1990-04-05 | Atrophy | Violent By Nature |
+| 15 | ![Cover](http://coverartarchive.org/release/6b277562-fff8-41ae-b9cf-1ba86027388a/10758466942-250.jpg) | 1990-06-18 | Artillery | By Inheritance |
+| 35 | ![Cover](https://i.discogs.com/AXdkv-y7wQdR41JV0TWUt3Yh6y1DPq51d7nm96USMX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTIz/MS0xNDU1NjUwMjAz/LTc4MDcuanBlZw.jpeg) | 1991 | Invocator | Excursion Demise |
+| 61 | ![Cover](https://i.discogs.com/PkeAvLzIQGkeSTVxMrIWLMpeistv4vlNFCTbklqfvLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODg2/NTgtMTU0ODc1NDQ3/NS0yMTQ1LmpwZWc.jpeg) | 1991 | Airdash | Both Ends Of The Path |
+| 68 | ![Cover](https://i.discogs.com/IqPzg9rCKF7nVJPW6WRoNGKc06KB1vwEc9zH4wE5s2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjE0/NTEtMTMwOTI4OTI0/OS5qcGVn.jpeg) | 1991 | Wolf Spider | Drifting In The Sullen Sea |
+| 91 | ![Cover](http://coverartarchive.org/release/fe4b34d1-e682-478b-a5a0-8ae29a7f50ea/3680047947-250.jpg) | 1991 | Ravenous | Book of Covetous Souls |
+| 4 | ![Cover](http://coverartarchive.org/release/0e333de1-e0f4-33dc-bcc1-6da0819fd884/15506988272-250.jpg) | 1991-08-13 | Coroner | Mental Vortex |
+| 81 | ![Cover](https://i.discogs.com/sZmielBDqTEIeVwalQ7VYW-dyLoUuKwIhy4TQHliYe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDgy/ODEtMTMzNzE5NzI3/MC00Mzc3LmpwZWc.jpeg) | 1992 | Sacrament | Haunts of Violence |
+| 94 | ![Cover](https://i.discogs.com/SmuMQ9RrwshEqj_BGfL1zYQfx_LWMYUfOkQYsCXHTNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzI4/OC0xMTcwNDk4Nzk0/LmpwZWc.jpeg) | 1992 | Mekong Delta | Kaleidoscope |
+| 36 | ![Cover](http://coverartarchive.org/release/bd3f82fb-7a36-4d1e-9210-e1b17dc2070a/23413489481-250.jpg) | 1992-05-05 | Sadus | A Vision of Misery |
+| 88 | ![Cover](https://i.discogs.com/h5uc585VGVX9jDwRMKChV3XuW6gBZUW5zFsZ86sQmXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTI3/NDktMTMyMjQ0NDQ3/MS5qcGVn.jpeg) | 1993 | Obliveon | Nemesis |
+| 38 | ![Cover](http://coverartarchive.org/release/e07a42bd-6f2f-4ad2-bfeb-825316ee3e60/36673213272-250.jpg) | 1993-05 | Аспид | Кровоизлияние |
+| 10 | ![Cover](http://coverartarchive.org/release/8cb71d41-60db-4034-8fe5-47d044f6b449/18901377053-250.jpg) | 1995-03-21 | Coroner | Coroner |
+| 64 | ![Cover](https://i.discogs.com/Howjex3g4iMBTQfb6rMVksVD4xlO5GI0j4H43UCwj8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDQ0/OTMtMTUzMjYyNjc5/MC02MjM5LmpwZWc.jpeg) | 1997-05 | Hexenhaus | Dejavoodoo |
+| 34 | ![Cover](http://coverartarchive.org/release/46a520c7-993c-36a7-8f8f-640d0e32bb1d/14569129902-250.jpg) | 1998-01-26 | Meshuggah | Contradictions Collapse |
+| 52 | ![Cover](http://coverartarchive.org/release/30f4359e-3158-4676-9fc7-dd121d388e4f/34938385911-250.jpg) | 2000 | Acid Death | Random's Manifest |
+| 28 | ![Cover](https://i.discogs.com/xX3UtqjlvXXeIqLnL-QmZT5-ObwxCT_hC2RrULdliHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjMw/MTctMTMwNzQ3MTI3/OS5qcGVn.jpeg) | 2001-01-22 | Carnal Forge | Please... Die! |
+| 86 | ![Cover](https://i.discogs.com/TjYlnnOYqAVyfROfoTN7DScX5McaMB2twgItUNdec0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTM3/MDYtMTQ4MzM1Mzkw/Ni0yNDUyLmpwZWc.jpeg) | 2004 | Vektor | Nucleus (2002 Remastered Demo) |
+| 21 | ![Cover](https://i.discogs.com/YFJgoHPvcAn3-DBv2KGyP_WU6MegZuwmM2F5UTuWxD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTkw/NTMwLTE2MTUxMjM1/MTUtNjczMC5qcGVn.jpeg) | 2005 | Coroner | R.I.P |
+| 72 | ![Cover](http://coverartarchive.org/release/44a056d3-7b4a-4b4a-8500-420526c6c113/24744654426-250.jpg) | 2005-09-01 | Assacre | Fantastic Illusions Worth Dying For |
+| 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ad8e7e346a514e61833a708c118d81e6.png) | 2006-05-10 | Stam1na | Uudet kymmenen käskyä |
+| 83 | ![Cover](https://i.discogs.com/8b8IqxL9TMvPDQel88OAQqIVCJVJN0YMlIAZjYVeoBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODE5/NTctMTQ1NDc4Njg1/My01MDA0LmpwZWc.jpeg) | 2007-06-11 | Negligence | Options Of A Trapped Mind |
+| 7 | ![Cover](http://coverartarchive.org/release/4b567f95-5f7d-407d-8214-1738184be351/11500693013-250.jpg) | 2008-02-12 | Revocation | Empire Of The Obscene |
+| 17 | ![Cover](http://coverartarchive.org/release/f36f14c4-c87e-4d4c-828f-95b39a9f2147/33097090730-250.jpg) | 2008-07-29 | Exmortus | In Hatred's Flame |
+| 99 | ![Cover](https://i.discogs.com/YcNWMfOZxjPaq7ZZH1tWhZ86Z8DenjJX-7J1qarJ3no/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTI3/NzQtMTUyODIwNTE5/OC0zMTU0LmpwZWc.jpeg) | 2009 | Death Over Threat | Sangre |
+| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/863118e91ab76fc8b00978f1f126e06d.png) | 2009-06-05 | Cautiva | Human |
+| 62 | ![Cover](http://coverartarchive.org/release/813d8710-f188-34b0-86c2-2db89becbb02/23508159175-250.jpg) | 2009-09-29 | Revocation | Existence Is Futile |
+| 3 | ![Cover](http://coverartarchive.org/release/73727a5d-8751-4782-bf97-ebbd3563ffc6/22445954133-250.jpg) | 2009-11-17 | Vektor | Black Future |
+| 16 | ![Cover](https://i.discogs.com/JnP6dw3wwh6hFNZ_tS2pfoH4VYE2ROSKxEuY9PvgisY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg2/MTUwLTE0OTY0OTc1/MzAtMjM1OC5qcGVn.jpeg) | 2011 | Meshuggah | Contradictions Collapse &amp; None |
+| 60 | ![Cover](http://coverartarchive.org/release/d3ad7288-3e48-4fec-b68e-c399de55bdc7/23508399190-250.jpg) | 2011-08-16 | Revocation | Chaos of Forms |
+| 1 | ![Cover](https://i.discogs.com/qKNHPsYKxMPovpnY9IH2_ppQ54nlQ6r8aKvEApCQ2Uc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTA0/OTItMTMyODU1MDEz/NS5qcGVn.jpeg) | 2011-11-22 | Vektor | Outer Isolation |
+| 12 | ![Cover](https://i.discogs.com/tJ2rTyC6yCmleUBlIsXbRdmlEdCo1mq4iyweru2IYeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjQ4/MTQtMTI3OTc0MTQ5/MS5qcGVn.jpeg) | 2012 | Meshuggah | Psykisk Testbild |
+| 5 | ![Cover](https://i.discogs.com/qwb5Qgcra3zv-v21GqJd0No3s6L1rUXT_-Fq-RuyNaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDUw/OTYtMTM0ODc0NTQ2/MC04OTU2LmpwZWc.jpeg) | 2012-09-25 | Revocation | Scion Av Presents: Revocation "Teratogensis" |
+| 98 | ![Cover](https://i.discogs.com/pKXrm9Q_3EXrN-cHO_9vlEFL52vCc_rOEklFtPJKBPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDYx/NzgtMTM3OTA1ODA0/My01MzEwLmpwZWc.jpeg) | 2012-12-25 | Eruption | Tenses Collide |
+| 80 | ![Cover](https://i.discogs.com/ETlVeuJIUGRVco97OPR-iHg_GyoX1nO37CsGWAS_TT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDIx/ODAtMTUxMDU1MjY0/Ny0zNDY1LmpwZWc.jpeg) | 2013-01-18 | Voivod | Target Earth |
+| 63 | ![Cover](https://i.discogs.com/8s3VtrxnRe15x58QnBVuO4ODX1T2TelIz_OGVSs6yrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDA1/ODgtMTQ3OTE1NTQz/Ni03MDA1LmpwZWc.jpeg) | 2013-05-25 | Distillator | Split 2018 |
+| 66 | ![Cover](http://coverartarchive.org/release/a1c3e5c0-52c7-474c-b0eb-c923613d64d0/23508552518-250.jpg) | 2013-08-06 | Revocation | Revocation |
+| 26 | ![Cover](http://coverartarchive.org/release/2ca03787-7512-43a3-bf5e-7c21a050034e/11534497189-250.jpg) | 2013-08-16 | Black Fast | Starving Out The Light |
+| 82 | ![Cover](https://i.discogs.com/dnYO3msh4KDE9UCWTPSXBKVOhrDD9j_xECC-7nMulls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTk3/MjQ2LTE1Nzg4MjAz/MjItNTg5Ny5qcGVn.jpeg) | 2014-02-11 | Paranorm | The Edge of Existence |
+| 93 | ![Cover](https://i.discogs.com/5Iwzc2tPdCflZ3YgzSqzcrIHBLLNfBhunz116a190kg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODQ0/NzMtMTQxNzkxNDIy/Ny05ODE1LmpwZWc.jpeg) | 2014-03-22 | Expain | Just The Tip |
+| 79 | ![Cover](https://i.discogs.com/DI6gyeGj7rVk_9ArQlGeFeNfcX3n7IqDYb-NQV7--1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjU5/MDgtMTQyNDE4NzIz/NS05ODM0LmpwZWc.jpeg) | 2014-08-28 | Alitor | Eternal Depression |
+| 42 | ![Cover](http://coverartarchive.org/release/38d48b87-8d15-40fe-af28-7fa6fae0954d/8532552844-250.jpg) | 2014-10-13 | Revocation | Deathless |
+| 9 | ![Cover](https://i.discogs.com/kjw-A17Q1Gp6r7mwJseQ-0ZpahWT8hRx672EmZtR5Cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDEz/NTEtMTY2NDM3NTA2/OC00MDIzLmpwZWc.jpeg) | 2016 | Revocation | Great Is Our Sin |
+| 32 | ![Cover](https://i.discogs.com/1CkSuQE9KTtGQIFOyElFzAqTy6r7zLBs_CxLTQAUZwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTQw/MzAtMTY4ODkwNzI5/My02NTEzLmpwZWc.jpeg) | 2016-02 | Ripper | Experiment Of Existence |
+| 89 | ![Cover](https://i.discogs.com/7tQu0amMB0HMjWuIDdshSsIKcUO0lTc25W2NQS-b9ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjI3/NzUtMTQ2MDEzNzgx/NC0yNzU4LmpwZWc.jpeg) | 2016-04-15 | Hemotoxin | Biological Enslavement |
+| 2 | ![Cover](https://i.discogs.com/6525FcTOARvFXRAX_lIAbH7A1TX6JDItbt6vYSBZD7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODI3/OTUtMTQ2MjQ4MTMy/Ni01MzIzLmpwZWc.jpeg) | 2016-05 | Vektor | Terminal Redux |
+| 6 | ![Cover](https://i.discogs.com/6525FcTOARvFXRAX_lIAbH7A1TX6JDItbt6vYSBZD7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODI3/OTUtMTQ2MjQ4MTMy/Ni01MzIzLmpwZWc.jpeg) | 2016-05 | Vektor | Transmissions of Chaos |
+| 55 | ![Cover](https://i.discogs.com/gCH6nNZg709wusWUeinMan1xQfbXy-zgg80qPTSl28Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODQ2/NzQtMTU5MTgwMTc4/Ni02MTEzLmpwZWc.jpeg) | 2016-08-08 | Cryptic Shift | Beyond The Celestial Realms |
+| 22 | ![Cover](https://i.discogs.com/XKnnRVkSiiujcY7XpyeuRRWe57wYEPlpL17CKlss3Mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjIy/MDQtMTU4NTg3OTE5/NC00MDM5LmpwZWc.jpeg) | 2016-10-07 | Watchtower | Concepts Of Math: Book One |
+| 84 | ![Cover](https://i.discogs.com/fr7MTODKQGpzKk1jET7BSLMZNnMBrxc4i2Z_Gm3kHIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTY3/NTctMTQ4MTU4NTMy/MS02MDc5LmpwZWc.jpeg) | 2016-11-10 | Xoth | Invasion of the Tentacube |
+| 41 | ![Cover](https://i.discogs.com/qM9qqDTnUI8u8YhAXX7NwVmFnJo7SZh4QBjXhsaq6SQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTg5/Nzg4LTE0OTMxMTY3/OTUtNDg1Mi5qcGVn.jpeg) | 2017-04-27 | Droid | Terrestrial Mutations |
+| 78 | ![Cover](https://i.discogs.com/upOAiN5prkJl9tkPJ-dnXZwc02bD1dO4POteAMdnIaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ2/MzgyLTE1MTk5ODU2/MzYtOTEzMi5qcGVn.jpeg) | 2017-04-28 | Cryptic Shift | Cosmic Dreams |
+| 95 | ![Cover](https://i.discogs.com/Pv2qFSSYD9j2dNpYFAWfmq0moE9tf7Ogp8SoTgJIElc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA0/NDAzLTE1MDYyNjg5/ODUtMTk5MS5qcGVn.jpeg) | 2017-06-27 | Madrost | The Essence of Time Matches No Flesh |
+| 59 | ![Cover](https://i.discogs.com/grrLUl0Z7EWJTG1L1sEpY3b9BHDVOB3eKr5XYuRG96A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTkz/Mzg0LTE1MDc4MzQ0/MjMtOTE0MC5qcGVn.jpeg) | 2017-10-12 | Expander | Endless Computer |
+| 40 | ![Cover](https://i.discogs.com/95aMuPViPaBwYs5yvdQ9t1Hb7CatHPPcQzObRiOpm8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg0/MTI1LTE1MTM0MTU0/MTQtODAxMS5qcGVn.jpeg) | 2017-12-11 | Vexovoid | Call Of The Starforger |
+| 48 | ![Cover](https://i.discogs.com/_FDJaTC7sHLj8T08WcHKOOr7HJ_cqSVhP8CwlTsDfW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjcw/MDU5LTE1Mzk4ODAy/NjMtMzMyNy5qcGVn.jpeg) | 2018 | Sacral Rage | Beyond Celestial Echoes |
+| 54 | ![Cover](https://i.discogs.com/FRTwlwl65VblWX0ikqKWh-40M9yEJNEhh9TLf-5mzQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTUw/NjQyLTE1MjUzMzAw/MTgtNDgwNC5qcGVn.jpeg) | 2018-04-13 | Vorbid | Mind |
+| 37 | ![Cover](https://i.discogs.com/FJ98BMq_WNRqlOEkw0-iKmFr3CM9M9xWUatjidzy16g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTM3/MTA2LTE1MzcxOTc4/OTAtMTE0OS5wbmc.jpeg) | 2018-09-15 | Teleport | The Expansion |
+| 97 | ![Cover](https://i.discogs.com/idca11dg1BlzdZuABoE88MYWL-5gTgL3Dj2vq-7R8C4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc5/NjczLTE1NTY4ODE5/OTgtMjA3OC5qcGVn.jpeg) | 2019-02-19 | Blind Illusion | 2018 |
+| 25 | ![Cover](https://i.discogs.com/2ysfWAFEGxzR8td9SJ4Jq9sn9pZi1pf10vHezswpOzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc1/NjMwLTE1ODkwNDU0/NjgtMzEyNC5qcGVn.jpeg) | 2020-05-05 | Cryptic Shift | Visitations From Enceladus |
+| 85 | ![Cover](https://i.discogs.com/lZmfyEYQ3UM3aV26ggABxDjLdml_7-HFPrnKdiTJY9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDky/MjIxLTE2MTM3NTcw/MjUtNzIyMC5qcGVn.jpeg) | 2021-02-25 | Cryptosis | Transmissions of Chaos |
+| 11 | ![Cover](https://i.discogs.com/nAfbp5bTx_4FQaexQh-dG7CN2iKStts7XnQoM_gfXGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDE5/NDgwLTE2MjIyNTM1/MzgtMTA5My5qcGVn.jpeg) | 2021-03-26 | Cryptosis | Bionic Swarm |
+| 74 | ![Cover](https://i.discogs.com/pLTdBfaPSrsNe2iRcaErDbJJ-fgihzgfMDs_zAKk4Cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDc3/MzA3LTE2MTk0ODc2/OTItNjg3Ni5qcGVn.jpeg) | 2021-04-19 | Obsolete | Animate//Isolate |
+| 56 | ![Cover](https://i.discogs.com/1pGhOykpsOno84Fgz_TenDKynh9XeozI4_SUOu_3ROc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjM5/Njg4LTE2MjA0Njk3/MDktNDcxMy5qcGVn.jpeg) | 2021-05-07 | terminalist | The Great Acceleration |
+| 73 | ![Cover](https://i.discogs.com/vzxRcYbcxErcF1dJ9JgGp7XOZpb3XIm5gxnyEJjncDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTcy/OTU1LTE2NTc0MTQ4/MDUtNjgwMy5qcGVn.jpeg) | 2021-12-07 | Ὁπλίτης | Τρωθησομένη |
+| 33 |  | 2022-08-05 | Toxik | Dis Morta |
+| 13 | ![Cover](https://i.discogs.com/rWLqVG2jdk_BoC-Wt23fe0oJaQTPgK3U2DX81oWyDHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDIy/NjgwLTE2NjczNDU2/NTItMzc2OS5qcGVn.jpeg) | 2022-11-18 | Autonoesis | Moon of Foul Magics |
+| 29 | ![Cover](https://i.discogs.com/LkUcs2zTwf3KNvJKVVgWucXGzqVbTw4fWKuFeV2CCcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDU5/MjU1LTE2OTI4NDAz/NDgtNzU1Ni5qcGVn.jpeg) | 2023-08-25 | Exmortus | Necrophony |
+| 46 | ![Cover](https://i.discogs.com/vz9l6AcChcZyagNeH0TXaqanusCoiwZ3zgNjJVRdpW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDky/NjQxLTE3MDU3Mjgx/MDAtODc5MS5qcGVn.jpeg) | 2024-01-12 | Ὁπλίτης | Π​α​ρ​α​μ​α​ι​ν​ο​μ​έ​ν​η |
+| 14 |  | 2024-01-26 | dissimulator | Lower Form Resistance |
+| 43 | ![Cover](https://i.discogs.com/baqb8JQn3_5rGVLbDFAZ4y0PKyrBKRH9J48REVd2PO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjY3/MjM3LTE3MTU2MDQ3/NDMtMzA3NS5qcGVn.jpeg) | 2024-05-17 | Hemotoxin | When Time Becomes Loss |
+| 58 | ![Cover](https://i.discogs.com/Ki9gKlfeSmUUdYIuXPmbJQ73yHBYWLLdPiPi2DLYnSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODMy/MDc3LTE3MTcxNTg1/NjktODE3My5qcGVn.jpeg) | 2024-05-31 | Witherfall | Sounds of the Forgotten |

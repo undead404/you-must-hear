@@ -1,0 +1,190 @@
+{
+  "name": "Scrape for a known tag",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "minutes",
+              "minutesInterval": 1
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        48,
+        48
+      ],
+      "id": "ae942f8b-fdf6-478d-bd52-5edc6623a73a",
+      "name": "Schedule Trigger"
+    },
+    {
+      "parameters": {
+        "chatId": "-1001699039876",
+        "text": "=Зібрано альбоми для знайомого тега: {{ $json.name }}",
+        "additionalFields": {}
+      },
+      "type": "n8n-nodes-base.telegram",
+      "typeVersion": 1.2,
+      "position": [
+        720,
+        48
+      ],
+      "id": "c11c73a6-bcf7-440c-a2b9-2d58046758c5",
+      "name": "Send a text message",
+      "webhookId": "7b03bef7-2d5c-4e25-82fb-993b404a9317",
+      "credentials": {
+        "telegramApi": {
+          "id": "eGEk4dS2hDuvw99B",
+          "name": "Telegram account"
+        }
+      },
+      "disabled": true
+    },
+    {
+      "parameters": {
+        "workflowId": {
+          "__rl": true,
+          "value": "bln38gbNOEEqGBe8",
+          "mode": "list",
+          "cachedResultUrl": "/workflow/bln38gbNOEEqGBe8",
+          "cachedResultName": "Scrape for a tag"
+        },
+        "workflowInputs": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "tagName": "={{ $json.name }}"
+          },
+          "matchingColumns": [
+            "tagName"
+          ],
+          "schema": [
+            {
+              "id": "tagName",
+              "displayName": "tagName",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "canBeUsedToMatch": true,
+              "type": "string",
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": true
+        },
+        "options": {
+          "waitForSubWorkflow": false
+        }
+      },
+      "type": "n8n-nodes-base.executeWorkflow",
+      "typeVersion": 1.3,
+      "position": [
+        496,
+        48
+      ],
+      "id": "57a4022b-2812-4509-812a-0fbef52aef13",
+      "name": "Call 'Scrape for a tag'"
+    },
+    {
+      "parameters": {
+        "operation": "select",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "value": "Tag",
+          "mode": "list",
+          "cachedResultName": "Tag"
+        },
+        "limit": 1,
+        "where": {
+          "values": [
+            {
+              "column": "albumsScrapedAt",
+              "condition": "IS NOT NULL"
+            }
+          ]
+        },
+        "sort": {
+          "values": [
+            {
+              "column": "albumsScrapedAt"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        272,
+        48
+      ],
+      "id": "0d76fedf-557a-4bd8-ac72-092c242af824",
+      "name": "Pick a known tag",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "Pick a known tag",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Call 'Scrape for a tag'": {
+      "main": [
+        [
+          {
+            "node": "Send a text message",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Pick a known tag": {
+      "main": [
+        [
+          {
+            "node": "Call 'Scrape for a tag'",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": false,
+    "errorWorkflow": "7HrDrsQKECTlnEFk"
+  },
+  "versionId": "bb6c59b2-1795-4d68-a7f3-eca8c14bb5d6",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"
+  },
+  "id": "mPcy5p3LX00iy9SB",
+  "tags": []
+}

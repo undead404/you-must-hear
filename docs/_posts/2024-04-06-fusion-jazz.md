@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2024-04-06T23:52:15.638Z
+permalink: tags/fusion-jazz
+title: fusion jazz
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 20 | ![Cover](http://coverartarchive.org/release/aba49550-d2ac-4b9b-8c90-dbd6d3092942/8612792809-250.jpg) | 1969 | John McLaughlin | Extrapolation |
+| 79 | ![Cover](https://i.discogs.com/1fT1JBuAEsnuLwPQmkKrTRpCg9lP3C481YYfMWo0HWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDEy/Mi0xNDkzMjE0Mjc2/LTk3ODAuanBlZw.jpeg) | 1970 | Demon Fuzz | Afreaka! [Bonus Tracks] |
+| 7 | ![Cover](https://i.discogs.com/NsU2zwF7vtD7jIWLbyZjt0BnZ3BiERIpsDlQ6j3eUPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDMy/MS0xNDgwNTUxODYw/LTkwNDguanBlZw.jpeg) | 1971 | Vesa-Matti Loiri | 4 + 20 |
+| 26 | ![Cover](http://coverartarchive.org/release/901a3877-a0ed-44bb-a3d4-87fcded5cf9e/14741915528-250.jpg) | 1971 | Herbie Hancock | Mwandishi |
+| 4 | ![Cover](https://i.discogs.com/NV0NuYE0hSfsfm-YKw2k1Vw0GgnhFkk2aEyfh0o0pwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY0/MzgtMTQ1MTM4NTU4/NC01OTExLnBuZw.jpeg) | 1971-11 | Gato Barbieri | Fenix |
+| 3 | ![Cover](https://i.discogs.com/HRbBET30E8ksjeJcAZyvFRhFftyeHhTWhY2zABgjzc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjAz/MTQtMTM0MDUzNTU3/Ni04NzIzLmpwZWc.jpeg) | 1972 | Oregon | Music Of Another Present Era |
+| 22 | ![Cover](https://i.discogs.com/8A9H8ooeDFcrhhrH98lSrv6S0st5OUdTUxHKohTm1NQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzMy/MDAtMTE5MzEyNTY1/OS5qcGVn.jpeg) | 1972 | Bobby Hutcherson | Natural Illusions |
+| 40 | ![Cover](http://coverartarchive.org/release/15ba2534-0275-4833-b23b-255aabdd6868/2441400256-250.jpg) | 1972-11 | Frank Zappa | The Grand Wazoo |
+| 60 | ![Cover](https://i.discogs.com/Nuq3C1IGfcRkVXu2ZfuDEoE046kzNoUSm8fbVSN_UeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjg3/NS0xNTE4NTM4NTA5/LTM0NDEuanBlZw.jpeg) | 1973 | Volker Kriegel | Lift! |
+| 9 | ![Cover](http://coverartarchive.org/release/a5c2a6ea-53b1-48a6-8857-436634906f99/1972978367-250.jpg) | 1973-07-20 | Carlos Santana &amp; Mahavishnu John McLaughlin | Love Devotion Surrender |
+| 33 | ![Cover](http://coverartarchive.org/release/c5caeea7-7b96-39ef-8306-032f1f4776f1/8728957198-250.jpg) | 1974-09-06 | Herbie Hancock | Thrust |
+| 78 | ![Cover](http://coverartarchive.org/release/89daddd1-15aa-373e-8998-03ddb16092b4/8714236235-250.jpg) | 1975 | Herbie Hancock | Man-Child |
+| 15 | ![Cover](http://coverartarchive.org/release/13ebc438-ee7f-464e-94d7-a4eff7378c8a/33699870283-250.jpg) | 1977 | The Brecker Brothers | Don't Stop The Music |
+| 56 | ![Cover](http://coverartarchive.org/release/a1dd2224-95f1-4928-9686-c7cdb8da5afa/5165285855-250.jpg) | 1978 | Al Di Meola | Casino |
+| 64 | ![Cover](http://coverartarchive.org/release/91e186a9-ba5e-4103-8be3-6e0a30f3fb74/7742192118-250.jpg) | 1978 | Bobby Hutcherson | Highway One |
+| 19 | ![Cover](https://i.discogs.com/rx8ut8z1sLxZ83weCNSV80A2yIXFxH1evqdHMGN9Zws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTc0/MTQtMTUyODIwNTQy/NC03NzI4LmpwZWc.jpeg) | 1979 | George Adams | Sound Suggestions |
+| 67 | ![Cover](https://i.discogs.com/jsQNnz5eZL_F4ZDE0ZtKuANZ5JY6WkeZi9ml13n3fec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzMz/My0xNTg3MTA0MTIw/LTY4MTUuanBlZw.jpeg) | 1979-09-14 | Brand X | Product |
+| 48 | ![Cover](http://coverartarchive.org/release/469de062-1152-4e6d-be21-fdc17e4ff42b/17062089768-250.jpg) | 1980 | Osamu Kitajima | Masterless Samurai |
+| 45 | ![Cover](https://i.discogs.com/_uK5_6ieZHNG6S12Z-GhkIe9gLaTW8IMFk2b4I7zTWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTU3/OTktMTY5MDM1MzUw/MS02Mzc4LmpwZWc.jpeg) | 1981 | Naoya Matsuoka &amp; Wesing | The September Wind |
+| 91 | ![Cover](https://i.discogs.com/_ZxM1WE_R--TzUb8CguEc91OTfK-69u3GGUMlHxsm9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDE4/NDUtMTI4NjA0NTU1/My5qcGVn.jpeg) | 1981 | Terje Rypdal, Miroslav Vitous, Jack DeJohnette | Rypdal, Vitous, DeJohnette |
+| 92 | ![Cover](https://i.discogs.com/_ZxM1WE_R--TzUb8CguEc91OTfK-69u3GGUMlHxsm9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDE4/NDUtMTI4NjA0NTU1/My5qcGVn.jpeg) | 1981 | Terje Rypdal, Miroslav Vitous &amp; Jack DeJohnette | Rypdal/Vitous/DeJohnette |
+| 51 | ![Cover](https://i.discogs.com/PKfBqWfRtSjAB3s_k9CTUXWUIGRB78SlRnZ5AlWlHZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTIw/NjgtMTUwMTc4OTY1/Ny01ODY1LmpwZWc.jpeg) | 1982 | John Scofield | Überjam |
+| 16 | ![Cover](https://i.discogs.com/qDEPjnMWI75owu9UlGuEFHn7E-p9Qiy3HM5GRNWwTm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzcz/MDYtMTM5NTkzNzE1/Ni02NTA3LmpwZWc.jpeg) | 1984 | Pat Metheny | Kin |
+| 28 | ![Cover](https://i.discogs.com/E5ZDJ3JeRWLRTS-VSVr7eP6Aq2HLWJ3V35wBB9Y2rAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDYz/MS0xNjAxMjM3MDI4/LTQ4NDcuanBlZw.jpeg) | 1984 | Andreas Vollenweider | Behind The Gardens |
+| 46 | ![Cover](https://i.discogs.com/HP7A9GkON4lv2CYUKcL4fQcXv0uAp2uG1B9sLJ7-rHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc2/NjAtMTM2OTMwNTUz/NC0zNTM1LmpwZWc.jpeg) | 1984 | Steve Gadd | Gaddabout |
+| 63 | ![Cover](https://i.discogs.com/v0eHS-9EScspDWB9RRQ0efznXB_1ZddQXDf7WX2AvyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQx/NzktMTUwMzk2NTM5/NS0xMzkzLmpwZWc.jpeg) | 1985 | Jeff Beck | Frankie's House |
+| 8 | ![Cover](https://i.discogs.com/9QOsqwAowG5-AUK7gIb1vIKdTef6Z-LwOCkn8KEGrTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzYw/NjMtMTI3NzIzOTA3/MC5qcGVn.jpeg) | 1986 | Bill Bruford | Master Strokes 1978 - 1985 |
+| 66 | ![Cover](https://i.discogs.com/nXTzbRGtKQmWlVjjCzGJfsweCttYw3ZQbN64ITSb0Fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTAy/MDctMTIyMDYzNzcx/Mi5qcGVn.jpeg) | 1986 | Kevin Eubanks | Face to Face |
+| 88 | ![Cover](https://i.discogs.com/27DMTjFwH3cUegvGapISuwHzmE0ViBnH2CT77I99RIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzU0/OTktMTYxMTg0ODE4/NC0zMjAwLmpwZWc.jpeg) | 1986 | Saturday Night Live Band | Live From New York! |
+| 95 | ![Cover](https://i.discogs.com/27DMTjFwH3cUegvGapISuwHzmE0ViBnH2CT77I99RIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzU0/OTktMTYxMTg0ODE4/NC0zMjAwLmpwZWc.jpeg) | 1986 | The Saturday Night Live Band | Live from New York! |
+| 68 | ![Cover](http://coverartarchive.org/release/b4edee54-6109-4197-abba-cfc709387d11/5377002583-250.jpg) | 1987 | Spyro Gyra | Stories Without Words |
+| 73 | ![Cover](https://i.discogs.com/ccjB81qhJw1T0f0sV-oM_VHMS_sLHZoz5eKSUdM3t-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTA0/MS0xMjYxMzY0NTY2/LmpwZWc.jpeg) | 1987-07-07 | Pat Metheny Group | Still Life (Talking) |
+| 14 | ![Cover](https://i.discogs.com/SDB9WfLllhTFV5_yLoNVbK74GcCo2wakRlr0Lfuu29Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzY4/MDYtMTIzMzY5NDQw/OC5qcGVn.jpeg) | 1987-09-21 | Bob Berg | Short Stories |
+| 29 | ![Cover](https://i.discogs.com/Bv4xJwIEgwksjBe7OK3j-Na245d8g_mHwLsQauc6xak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTk1/MjUtMTYwMjEzNzEw/MS04ODkxLmpwZWc.jpeg) | 1988-02 | John Abercrombie | Getting There |
+| 27 | ![Cover](https://i.discogs.com/HnjRqUbqYmxj-4YyeGa-2eE_ffuDvMIj1Cypy6Rugqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTY2/OTctMTQ3NDAxNzY0/OS02MjY4Lm1wbw.jpeg) | 1988-12-04 | Tony Williams | Angel Street |
+| 34 | ![Cover](http://coverartarchive.org/release/15798d7f-6145-4613-94b0-3b8a7d34379f/2577049362-250.jpg) | 1989 | Andy Summers | The Golden Wire |
+| 72 | ![Cover](http://coverartarchive.org/release/d3a6dd7d-7880-452f-8606-a3006be2680a/35525272740-250.jpg) | 1989 | Mike Stern | Jigsaw |
+| 36 | ![Cover](http://coverartarchive.org/release/5927f564-1ddb-4a42-9e8d-1265beb6c065/2577027420-250.jpg) | 1990-08-21 | Andy Summers | Charming Snakes |
+| 69 | ![Cover](https://i.discogs.com/LYCKsb6pUwgTeeEgqGguB4IZTthsVYoXplegfiY58hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk1/ODA3LTE1MDk3ODU4/MjktODA5OC5qcGVn.jpeg) | 1991 | Karimata | Jezz |
+| 74 | ![Cover](https://i.discogs.com/GBSKSxN2UZf87oeaDkgVoKt4CexG02MXCBM8x_qmJd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzU1/NjQtMTM3Njg3NTMz/My0yNjcxLmpwZWc.jpeg) | 1991 | Antoine Smith | Shoulder's &amp; Arms |
+| 97 | ![Cover](https://i.discogs.com/GBSKSxN2UZf87oeaDkgVoKt4CexG02MXCBM8x_qmJd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzU1/NjQtMTM3Njg3NTMz/My0yNjcxLmpwZWc.jpeg) | 1991 | Antoine Smith | Daydream |
+| 80 | ![Cover](https://i.discogs.com/oFDz8nfq17H2_P2Nue-OZ6r671H_H7lIUnZXqQjdAJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQx/MzIxLTE1ODcyMTc5/NDMtMjg2NC5qcGVn.jpeg) | 1992-06-21 | Horii Katsumi Project | Views Collection |
+| 58 | ![Cover](https://i.discogs.com/uczVyabz2rlrSyuwdlyzR8RBOYgvVKe4ywn584DeL7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTA2/NzYtMTU0ODYzMjAx/Ny05MTgyLmpwZWc.jpeg) | 1994 | Charlie Mariano | Reflections |
+| 25 | ![Cover](http://coverartarchive.org/release/0d0e7d13-edf1-4bbd-8a39-59ce3cd91ea0/28056067680-250.jpg) | 1994-08-16 | Tribal Tech | Primal Tracks |
+| 94 | ![Cover](https://i.discogs.com/i5bDYSu5QvT_dUyjt9NT7TyfWEL5230dRofvo_jxlwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjMy/NjQtMTM0NzI5MTYz/OS05NDA2LmpwZWc.jpeg) | 1994-10 | Toni Moretti | Easy way |
+| 84 | ![Cover](https://i.discogs.com/YfDEufm9QhLLNxlD2jmP8-wGovE2vo7eYDybsC_gufI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjQx/LTEyMDM3NzAzODQu/anBlZw.jpeg) | 1995 | Fiasco | Arson |
+| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c0b158c9c58a9212dd5216c6629454f7.png) | 1996-02-27 | Frank Zappa | The Lost Episodes |
+| 77 | ![Cover](https://i.discogs.com/l1XV3Y2yrBptU69Of-XdTSCHoZwyKfGNIXLKKNxP2dU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODU2/OC0xNjM2NjQ1NzM3/LTUyNzMuanBlZw.jpeg) | 1996-06-18 | Al Di Meola | Anthology (Disc 1) |
+| 99 | ![Cover](https://i.discogs.com/lUDJNLgQZMGos0w8ZAW6rFyc9TblJ5IiNvMUHUz63iU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjU4/NS0xMjIzODA2MDgx/LmpwZWc.jpeg) | 1996-09-24 | Wayne Shorter | Jazz Moments Present (Hard-Bop, Vol. 7) |
+| 82 | ![Cover](https://i.discogs.com/7uuyB81-FXHGdE1VSDaIAhEcrcyFTp3RGWbqTwBMg2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDk5/NTQtMTQ3NTY0OTQz/NC0xNDczLmpwZWc.jpeg) | 1997 | Cosmosquad | Best of Cosmosquad |
+| 24 | ![Cover](https://i.discogs.com/eo2WaAEJtMP0uWwTgW0qrOqXn7pFTkJUOgTYm-ZmiPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDky/MDAtMTM4NTkyODM5/NS02MTE3LmpwZWc.jpeg) | 1997-10-14 | Andy Summers | The Last Dance of Mr. X |
+| 2 | ![Cover](http://coverartarchive.org/release/095a2499-858e-4288-9b92-93faa7aef876/19101780499-250.jpg) | 1998-06 | Stanton Moore | All Kooked Out! |
+| 30 | ![Cover](http://coverartarchive.org/release/7291d58c-fbe1-458b-a2bf-7c6a027c67e5/16465879469-250.jpg) | 1998-07-14 | Attention Deficit | Attention Deficit |
+| 17 | ![Cover](http://coverartarchive.org/release/52409817-f8eb-4e08-8e6e-8a1f8504228b/12321581692-250.jpg) | 1999-11-16 | Béla Fleck and the Flecktones | Greatest Hits of the 20th Century |
+| 11 | ![Cover](https://i.discogs.com/WD7KkyAlBnnIxu_VL6xlC_c30g-W3gZSUQc57bKuAow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzk2/NC0xMTk4MzAyNTA5/LmpwZWc.jpeg) | 2000-11-07 | Tribal Tech | Rocket Science |
+| 21 | ![Cover](https://i.discogs.com/AgBqGvC22_EBdLmwo5qrnemSpX0Dbzw5wiuCPBSSrhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMx/MjU3LTE1MzMwNzc0/NDEtNTI5NC5qcGVn.jpeg) | 2001 | Sam Aliano | Emalgamation |
+| 37 | ![Cover](https://i.discogs.com/mHWQJY3RCZA5DvXy92L3S2UePzFrIR3i_juR3flH7xA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODA5/ODMtMTYwMTMyMjYz/My05MTQzLmpwZWc.jpeg) | 2001 | Al Kooper | Rare &amp; Well Done: The Greatest And Most Obscure Recordings 1964-2001 |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b5fe29eda12205ebcd86cb5692a3dfe8.png) | 2001-02-16 | Soulive | Doin' Something |
+| 71 | ![Cover](https://i.discogs.com/Ao6baiEiRGWE6KkDuo4QoU24-jAiMie7AhcVfUUDx6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODU3/MjMwLTE2NDI5NDcz/MzUtNzM1MC5qcGVn.jpeg) | 2001-03 | L. Subramaniam | Subramaniam in Moscow |
+| 32 | ![Cover](http://coverartarchive.org/release/7c75bf74-d42f-4475-98ef-965d2a6b636b/34104147309-250.jpg) | 2001-08-21 | Jean-Luc Ponty | Life Enigma |
+| 44 | ![Cover](http://coverartarchive.org/release/1c992ccc-b2a2-4aba-bf35-70234d859ff2/35379877419-250.jpg) | 2002 | Matt Penman | The Unquiet |
+| 50 | ![Cover](https://i.discogs.com/6HyhlfOoAs6aDABxZ3-DAOW2_b7utwh1V6pOD_AWB3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzA4/MzYtMTQ1OTUxMTQ3/MC03MDQyLmpwZWc.jpeg) | 2002 | Isotope | Perception of the Beholder |
+| 54 | ![Cover](https://i.discogs.com/OPwWrNHkP9zE6oGRLFevOUBxBlGoDtSHVPPuBTyxXt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTc2/NDUtMTMxNzY1Mzky/OS5qcGVn.jpeg) | 2002 | Dennis Chambers | Extraction |
+| 55 | ![Cover](http://coverartarchive.org/release/82b954f7-1b55-41f5-a4ab-1c776d6a50f8/10389820553-250.jpg) | 2002-02-28 | Soulive | Next |
+| 47 | ![Cover](https://i.discogs.com/G0kHPYZK9feyvg400BGxfBe_H-AVQuB6IrhApx1CbfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTQx/NzktMTQ2NTk5MzA5/Ny04MDA5LmpwZWc.jpeg) | 2003 | Tore Morten Andreassen | Fusive Illusions |
+| 35 | ![Cover](https://i.discogs.com/8pzxfQw2eF5d-OzAY4xb-BbjqdH2DY26_c98wxKaADQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzYy/NTMtMTU1MDY2MTM3/NC0xOTY4LmpwZWc.jpeg) | 2003-04-01 | Spaced Out | Slow Gin |
+| 49 | ![Cover](https://i.discogs.com/7_k9tfuATVeSrxEcxUsnXu9yzokCUgNbv2n3j8Skbwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDYz/NTEtMTMzNDc0NTYz/Ni5qcGVn.jpeg) | 2004 | Nils Gessinger | Jam It Up! |
+| 61 | ![Cover](https://i.discogs.com/Y1djX7bXG-cxpvdSBvi3D0JTenA4ju2DsKzAdznCKmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjc1/MDgtMTMxNDE4OTE0/MC5qcGVn.jpeg) | 2004 | Go By Train | Go By Train |
+| 75 | ![Cover](http://coverartarchive.org/release/4d076aaf-c22e-4796-afaa-1b9f4cbacab1/27486170532-250.jpg) | 2004 | Mike Stern | These Times |
+| 96 | ![Cover](http://coverartarchive.org/release/b0dc882d-015f-47c2-b4e8-097ab0766754/27976427214-250.jpg) | 2005 | Christian McBride | Live At Tonic |
+| 10 | ![Cover](http://coverartarchive.org/release/67ec78f6-b739-41be-b1e2-f1c99a0999b2/6284900914-250.jpg) | 2005-06-14 | Eric Johnson | Bloom |
+| 12 | ![Cover](http://coverartarchive.org/release/01376788-a3ab-42a8-8ade-9eed67b390f0/29721102304-250.jpg) | 2005-09-20 | Kyle Eastwood | Paris Blue |
+| 53 | ![Cover](https://i.discogs.com/HrEdCI-WDfAbYH64uwaNP6oa6c5NZQ_Z9L1BkUh8hvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTUz/OS0xMjIzMjI0NTAw/LmpwZWc.jpeg) | 2005-11-01 | Lovespirals | Free &amp; Easy |
+| 38 | ![Cover](https://i.discogs.com/hZHjnaiueNtoURGJk6Zx94Q5fiLCUpO6qbGjdvBDumQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTkx/OTUtMTM0NzE1OTg5/OC04MDMxLmpwZWc.jpeg) | 2006 | Spaced Out | Unstable Matter |
+| 86 | ![Cover](http://coverartarchive.org/release/32356980-5e9d-47c2-9374-91f06c119491/13158347763-250.jpg) | 2006-02-07 | Chick Corea | The Ultimate Adventure |
+| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b50be943fd4144ccad98917a4940530d.png) | 2007-01-07 | Christian Scott | Anthem |
+| 23 | ![Cover](http://coverartarchive.org/release/9a428af8-3ab4-47dc-b72e-f904875487fc/6329212908-250.jpg) | 2007-02 | Will Bernard | Party Hats |
+| 18 | ![Cover](https://i.discogs.com/xZ61uKLsPYD_YzhDU8WZYVQ56AG2cV3jXySkWLZPwiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzMx/ODgtMTM4MjY3NTYy/MC02MjA4LmpwZWc.jpeg) | 2007-09-09 | School of the Arts | School of the Arts |
+| 13 | ![Cover](http://coverartarchive.org/release/22e0a858-299e-47ca-bc65-e466bb698a75/7938672325-250.jpg) | 2008 | Garaj Mahal | w00t |
+| 98 | ![Cover](https://i.discogs.com/O5uQ9-NWQOqw2s-4GgeP7IpB-GpL2ut3uNFTIXU6Q54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDAw/MTUtMTQ4MzQ1Mjkw/My01MjY4LmpwZWc.jpeg) | 2008 | Andy Susemihl | Supermihl &amp; Superfriends |
+| 93 | ![Cover](https://i.discogs.com/uXYDoM5O16Eb4I86SmQCGFh06m1OSmAMpcoZydVzaHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTk5/OTktMTU0Njg3Mzgy/OC00NzIyLmpwZWc.jpeg) | 2008-10-24 | Terje Rypdal, Miroslav Vitous, Jack DeJohnette | Rypdal - Vitous - DeJohnette |
+| 70 | ![Cover](https://i.discogs.com/jqc763OoWUdJt7BSjksDGtOjRGuU2oHGwNc8DLFFmpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzE2/MDctMTUwODg3OTA0/NC00MTIwLmpwZWc.jpeg) | 2009 | Vasil Hadzimanov Band | Zivota mi |
+| 57 | ![Cover](https://i.discogs.com/y8ZARyiDjoFoFwhlpiJOj_3vD-upbmV_P8xViWQY4zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/NTYyLTE0OTMzODE4/NDYtMjgzNS5qcGVn.jpeg) | 2009-06-06 | Very Cool People | Very Cool People |
+| 41 | ![Cover](https://i.discogs.com/rfPkW02NzDdlRmF6t9LWFnCYu4XWmYmIn3lg5qqvY3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDEy/MjktMTY0ODM5ODY4/NC05OTcyLmpwZWc.jpeg) | 2009-08-11 | Mike Stern | Big Neighborhood |
+| 85 | ![Cover](https://i.discogs.com/zz7i_CNjsT_Fp0wHNvMRekF5CWd0QlQWgm68BOSOX9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQ3/MzY1LTE1NDUxMDY1/NTQtMTYxMC5wbmc.jpeg) | 2010 | Groove Razors | Groove Razors |
+| 87 | ![Cover](https://i.discogs.com/jEtM6CnReTcV3XlDcWi1R-u2t-pfOAhZ4HI6TkaT-Zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzI3/MjQ0LTE2MDk0ODY0/NDItMTM3Ni5qcGVn.jpeg) | 2010 | Sean Mackenzie | Brasil |
+| 31 | ![Cover](https://i.discogs.com/Q924OODQK2RX2yfLxc7IWJb_6TB212NX77LKIZa6fjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODQx/MzEtMTQ1NDgzMDc3/My01MzE5LmpwZWc.jpeg) | 2011-03-07 | Kit Downes Trio | Quiet Tiger |
+| 6 | ![Cover](http://coverartarchive.org/release/87b91735-b24a-4de9-b744-8db6e140768a/5332822448-250.jpg) | 2011-03-15 | Al Di Meola | Pursuit of Radical Rhapsody |
+| 76 | ![Cover](http://coverartarchive.org/release/c2b4e990-d206-47bf-973b-6ec4109a7a6a/4163857195-250.jpg) | 2011-03-20 | Jussi Fredriksson | Tidewaters |
+| 52 | ![Cover](https://i.discogs.com/sSwH1gzAEI16L3O6bQdNcKlCoxeAITsEMfG8kguOdiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDQy/OTktMTY3NjMwMTM2/Ny05Mjg4LmpwZWc.jpeg) | 2011-06-10 | Marilyn Mazur | Celestial Circle |
+| 65 | ![Cover](https://i.discogs.com/Ru9d8z1YCX4m9LmlSiksQQWvX_pYgCD2WkBpcZmxU7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDA0/NjUtMTYxOTM4MzMw/Mi04MjI3LnBuZw.jpeg) | 2012 | the keys project | Open Mind |
+| 43 | ![Cover](https://i.discogs.com/_C1xsE4JtQ15I4KYy6xm2_ajaXk_fam9v4HU-Uo65dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MzAw/NTItMTQ4MjE3MzA1/MS0xMjEyLmpwZWc.jpeg) | 2012-04-02 | The Cheebacabra | Pass the Information |
+| 89 | ![Cover](https://i.discogs.com/Pnjj0eseNqxl-YXjp2UtjAfblZvAH7cgYPKSSChmPqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODkz/NzktMTQzODA5OTcz/OC03NjczLmpwZWc.jpeg) | 2013 | Allen Weber | Hot Shock |
+| 83 | ![Cover](https://i.discogs.com/TXF3AnDQ13_X_AuOB3pQylX4Xqsbtw7paJZ6JjclzS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mjg5/MjItMTQ0OTY2NjM1/Mi0zNTkwLmpwZWc.jpeg) | 2013-10-13 | Solid Ground | Open Silence |
+| 39 | ![Cover](https://i.discogs.com/GenXW6nweLHLQBe9CzWIYDKBPYD_muvK5bHsvKCy6e4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA4/NjkyLTE1OTYzMjQz/MjMtNTY0My5wbmc.jpeg) | 2014 | Pat Metheny Unity Group | Kin (&lt;--&gt;) |
+| 59 | ![Cover](https://i.discogs.com/bI5bs0MUsq89cLSE-N9wNqp1RdU7vyn7xO0qPxbKolo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODAw/NjAtMTM5MTk0ODc2/Ny0xMzI4LmpwZWc.jpeg) | 2014 | Pat Metheny Unity Group | Kin |
+| 100 | ![Cover](https://i.discogs.com/WYsE7dZbG3zXCVYLn6p206z3zgOChGVDjr5lO2l2MJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzg4/MTUtMTU1ODI3NjE2/MC0yMTYyLmpwZWc.jpeg) | 2014-12-05 | Julian &amp; Roman Wasserfuhr | Relax. Jazzed |
+| 62 | ![Cover](https://i.discogs.com/k6V1LQMDhbouqnG5vj06SOQ0y3TEweBV5ph6FlEWvqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY1/NDA4LTE1NTY2MjA3/NjUtNjQ4My5qcGVn.jpeg) | 2016-02-03 | Hiromi | Beyond Standard |
+| 42 | ![Cover](https://i.discogs.com/MORCBlTAroQLO-4W72Wteaq4NYa0bpifabwaD1DTBtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzEz/NzMtMTQ4NjA5ODMy/Ni00MTg2LmpwZWc.jpeg) | 2017 | Baast | Bazaar |
+| 90 | ![Cover](https://i.discogs.com/8fj8rxBjS6Y1qBHsz8B-N3zWV2lOG4mL0fYwywkd0Ys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzQx/NTI0LTE2MzUyNzU2/NDMtODQ0NS5qcGVn.jpeg) | 2021 | Jeff Link | Child's Play |

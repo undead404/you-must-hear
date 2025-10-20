@@ -1,0 +1,176 @@
+{
+  "name": "Save markdown list",
+  "nodes": [
+    {
+      "parameters": {
+        "fileSelector": "/Users/Vitalii_Perehonchuk/Projects/ymh7/lists/*",
+        "options": {
+          "fileExtension": ".md"
+        }
+      },
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1,
+      "position": [
+        224,
+        32
+      ],
+      "id": "fe18dca9-8834-4bf5-90bd-19fd6bba05ce",
+      "name": "Read/Write Files from Disk",
+      "alwaysOutputData": true
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT \"name\",\"listUpdatedAt\"\nFROM \"Tag\"\nWHERE \"listUpdatedAt\" IS NOT NULL\nAND \"name\" NOT IN ({{ $input.all()[0].json.fileName ? $input.all().map(item => `'${item.json.fileName.split('.').at(0)}'`).join(',') :`''` }})\nLIMIT 1",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        448,
+        32
+      ],
+      "id": "d96f2677-92fc-40ea-aa2a-e99ad289d573",
+      "name": "Pick a listful tag",
+      "executeOnce": true,
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "minutes",
+              "minutesInterval": 1
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        32
+      ],
+      "id": "1d200080-0a80-4147-8017-d0521e55cd6c",
+      "name": "Schedule Trigger"
+    },
+    {
+      "parameters": {
+        "workflowId": {
+          "__rl": true,
+          "value": "AMToWGJ4IZ3WqfBx",
+          "mode": "list"
+        },
+        "workflowInputs": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "name": "={{ $json.name }}",
+            "listUpdatedAt_firstItem": "={{ $('Pick a listful tag').first().json.listUpdatedAt }}",
+            "name_firstItem": "={{ $('Pick a listful tag').first().json.name }}"
+          },
+          "matchingColumns": [
+            "name",
+            "listUpdatedAt_firstItem",
+            "name_firstItem"
+          ],
+          "schema": [
+            {
+              "id": "name",
+              "displayName": "name",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "listUpdatedAt_firstItem",
+              "displayName": "listUpdatedAt_firstItem",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "name_firstItem",
+              "displayName": "name_firstItem",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "canBeUsedToMatch": true,
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": true
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.executeWorkflow",
+      "typeVersion": 1.2,
+      "position": [
+        672,
+        32
+      ],
+      "name": "Call Save tag list markdown",
+      "id": "359e9b8b-9c10-40f8-94d1-aa56da81505f"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Read/Write Files from Disk": {
+      "main": [
+        [
+          {
+            "node": "Pick a listful tag",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Pick a listful tag": {
+      "main": [
+        [
+          {
+            "node": "Call Save tag list markdown",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "Read/Write Files from Disk",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": false,
+    "errorWorkflow": "7HrDrsQKECTlnEFk"
+  },
+  "versionId": "0dce6964-6a5f-42c1-86dd-656203f3bae0",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"
+  },
+  "id": "RV0e5SJE7YxU51F7",
+  "tags": []
+}

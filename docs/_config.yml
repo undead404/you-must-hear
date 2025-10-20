@@ -1,0 +1,10 @@
+baseurl: "/you-must-hear"
+domain: undead404.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+permalink: /:categories/:title/
+# plugins:
+  # - jekyll-remote-theme
+# remote_theme: tajacks/lightspeed
+repository: undead404/you-must-hear
+title: You Must Hear 7
+url: https://undead404.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+# If this repo is a project site (username.github.io/repo-name), set:

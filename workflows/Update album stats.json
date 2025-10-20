@@ -1,0 +1,649 @@
+{
+  "name": "Update album stats",
+  "nodes": [
+    {
+      "parameters": {
+        "workflowInputs": {
+          "values": [
+            {
+              "name": "artistName"
+            },
+            {
+              "name": "albumName"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.executeWorkflowTrigger",
+      "typeVersion": 1.1,
+      "position": [
+        0,
+        -208
+      ],
+      "id": "3e1650f0-6a9c-46dd-9c64-2fb523a6861a",
+      "name": "Begin"
+    },
+    {
+      "parameters": {
+        "url": "http://ws.audioscrobbler.com/2.0/",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpQueryAuth",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "format",
+              "value": "json"
+            },
+            {
+              "name": "method",
+              "value": "album.getInfo"
+            },
+            {
+              "name": "artist",
+              "value": "={{ $json.artistName }}"
+            },
+            {
+              "name": "album",
+              "value": "={{ $json.albumName }}"
+            },
+            {
+              "name": "autocorrect",
+              "value": "0"
+            }
+          ]
+        },
+        "options": {
+          "batching": {
+            "batch": {
+              "batchSize": 1,
+              "batchInterval": 500
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        224,
+        -208
+      ],
+      "id": "979bfa90-985d-4da9-9f04-b8c2ff43a3c0",
+      "name": "Get stats",
+      "credentials": {
+        "httpQueryAuth": {
+          "id": "bOArY5n2xETWvnHD",
+          "name": "LastFM"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "88c6cf50-bf4a-40ff-87ad-f4f45ffd309f",
+              "name": "playcount",
+              "value": "={{ $json.album.playcount }}",
+              "type": "string"
+            },
+            {
+              "id": "a1e90bb7-3dd3-4c46-ba7e-6203b388907f",
+              "name": "listeners",
+              "value": "={{ $json.album.listeners }}",
+              "type": "string"
+            },
+            {
+              "id": "a5e2d723-4a27-4ea0-a26a-d66ded01f3f1",
+              "name": "numberOfTracks",
+              "value": "={{ $json.album.tracks.track.filter(track => track.duration && track.duration > 30).length }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        448,
+        -208
+      ],
+      "id": "b3732adf-54c9-47d9-ada0-d1aea189001b",
+      "name": "Edit Fields"
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "value": "Album",
+          "mode": "list",
+          "cachedResultName": "Album"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "artist": "={{ $('Begin').item.json.artistName }}",
+            "name": "={{ $('Begin').item.json.albumName }}",
+            "listeners": "={{ $json.listeners }}",
+            "playcount": "={{ $json.playcount }}",
+            "statsUpdatedAt": "={{ $now }}"
+          },
+          "matchingColumns": [
+            "artist",
+            "name"
+          ],
+          "schema": [
+            {
+              "id": "artist",
+              "displayName": "artist",
+              "required": true,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "cover",
+              "displayName": "cover",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "date",
+              "displayName": "date",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "duration",
+              "displayName": "duration",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "hidden",
+              "displayName": "hidden",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "boolean",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "listeners",
+              "displayName": "listeners",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "mbid",
+              "displayName": "mbid",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "name",
+              "displayName": "name",
+              "required": true,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "numberOfTracks",
+              "displayName": "numberOfTracks",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "playcount",
+              "displayName": "playcount",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "registeredAt",
+              "displayName": "registeredAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "statsUpdatedAt",
+              "displayName": "statsUpdatedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "tagsUpdatedAt",
+              "displayName": "tagsUpdatedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "thumbnail",
+              "displayName": "thumbnail",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        672,
+        -112
+      ],
+      "id": "4ee0473c-32ee-4cc0-92dc-c6e741a22ac9",
+      "name": "Update rows in a table",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "select",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "value": "Album",
+          "mode": "list",
+          "cachedResultName": "Album"
+        },
+        "limit": 1,
+        "where": {
+          "values": [
+            {
+              "column": "artist",
+              "value": "={{ $('Begin').item.json.artistName }}"
+            },
+            {
+              "column": "name",
+              "value": "={{ $('Begin').item.json.albumName }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        672,
+        -304
+      ],
+      "id": "165e105d-3158-4829-a500-162a110df838",
+      "name": "Select rows from a table",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "d5fe51d2-6b80-46b6-a169-9b2a104c9f1e",
+              "leftValue": "={{ $json.numberOfTracks }}",
+              "rightValue": "",
+              "operator": {
+                "type": "number",
+                "operation": "empty",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        896,
+        -304
+      ],
+      "id": "0ee8f4e9-bd12-4d5e-aa63-d5cd26a305bd",
+      "name": "If"
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "value": "Album",
+          "mode": "list",
+          "cachedResultName": "Album"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "artist": "={{ $('Begin').item.json.artistName }}",
+            "name": "={{ $('Begin').item.json.albumName }}",
+            "numberOfTracks": "={{ $('Edit Fields').item.json.numberOfTracks }}"
+          },
+          "matchingColumns": [
+            "artist",
+            "name"
+          ],
+          "schema": [
+            {
+              "id": "artist",
+              "displayName": "artist",
+              "required": true,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "cover",
+              "displayName": "cover",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "date",
+              "displayName": "date",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "duration",
+              "displayName": "duration",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "hidden",
+              "displayName": "hidden",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "boolean",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "listeners",
+              "displayName": "listeners",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "mbid",
+              "displayName": "mbid",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "name",
+              "displayName": "name",
+              "required": true,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "numberOfTracks",
+              "displayName": "numberOfTracks",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "playcount",
+              "displayName": "playcount",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "registeredAt",
+              "displayName": "registeredAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "statsUpdatedAt",
+              "displayName": "statsUpdatedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "tagsUpdatedAt",
+              "displayName": "tagsUpdatedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "thumbnail",
+              "displayName": "thumbnail",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        1120,
+        -304
+      ],
+      "id": "95165ceb-4af1-414e-b177-039616e765ff",
+      "name": "Update rows in a table1",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    }
+  ],
+  "pinData": {
+    "Begin": [
+      {
+        "json": {
+          "artistName": "Iron Maiden",
+          "albumName": "Iron Maiden"
+        }
+      }
+    ]
+  },
+  "connections": {
+    "Begin": {
+      "main": [
+        [
+          {
+            "node": "Get stats",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get stats": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "node": "Update rows in a table",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Select rows from a table",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Select rows from a table": {
+      "main": [
+        [
+          {
+            "node": "If",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If": {
+      "main": [
+        [
+          {
+            "node": "Update rows in a table1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "7023e198-160d-49e5-aaed-e853559fb8bf",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"
+  },
+  "id": "8HXyxdJLGH6NolFD",
+  "tags": []
+}

@@ -1,0 +1,901 @@
+{
+  "name": "Scrape for a tag",
+  "nodes": [
+    {
+      "parameters": {
+        "fieldToSplitOut": "albums.album",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.splitOut",
+      "typeVersion": 1,
+      "position": [
+        672,
+        -704
+      ],
+      "id": "a3491c6f-215f-4c86-84e5-3a33a4523c75",
+      "name": "Split Out",
+      "alwaysOutputData": true
+    },
+    {
+      "parameters": {
+        "url": "https://ws.audioscrobbler.com/2.0/",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpQueryAuth",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "method",
+              "value": "tag.gettopalbums"
+            },
+            {
+              "name": "tag",
+              "value": "={{ $json.tagName }}"
+            },
+            {
+              "name": "format",
+              "value": "json"
+            }
+          ]
+        },
+        "options": {
+          "pagination": {
+            "pagination": {
+              "parameters": {
+                "parameters": [
+                  {
+                    "name": "page",
+                    "value": "={{$pageCount + 1}}"
+                  }
+                ]
+              },
+              "paginationCompleteWhen": "other",
+              "completeExpression": "={{ $response.body.albums['@attr'].totalPages <= $pageCount }}",
+              "limitPagesFetched": true,
+              "maxRequests": 200,
+              "requestInterval": 500
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        224,
+        -800
+      ],
+      "id": "a49423a2-33e8-48fe-9a27-9c299a2b0225",
+      "name": "Get albums",
+      "alwaysOutputData": false,
+      "credentials": {
+        "httpQueryAuth": {
+          "id": "bOArY5n2xETWvnHD",
+          "name": "LastFM"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "ee7a0435-52e3-4a61-adb1-f17a59a9dae2",
+              "name": "name",
+              "value": "={{ $json.name }}",
+              "type": "string"
+            },
+            {
+              "id": "fa9aba93-8dd4-487f-a52b-4f11c803f347",
+              "name": "artistName",
+              "value": "={{ $json.artist.name }}",
+              "type": "string"
+            },
+            {
+              "id": "ddfbcd62-db6a-4da4-b1f5-e807dfa30c8e",
+              "name": "cover",
+              "value": "={{ $json.image.at(-1)['#text'] }}",
+              "type": "string"
+            },
+            {
+              "id": "90905255-c0c9-4edb-98f3-6b387ed4d98d",
+              "name": "thumbnail",
+              "value": "={{ $json.image[0]['#text'] }}",
+              "type": "string"
+            },
+            {
+              "id": "10164d6d-ee64-4f11-bf67-030f66368485",
+              "name": "mbid",
+              "value": "={{ $json.mbid }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        1120,
+        -608
+      ],
+      "id": "d52e2835-769e-4cb6-979a-738772835b3e",
+      "name": "Transform albums"
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "value": "Tag",
+          "mode": "list",
+          "cachedResultName": "Tag"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "albumsScrapedAt": "={{ $now }}",
+            "name": "={{ $('Begin').item.json.tagName }}"
+          },
+          "matchingColumns": [
+            "name"
+          ],
+          "schema": [
+            {
+              "id": "albumsScrapedAt",
+              "displayName": "albumsScrapedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "listCheckedAt",
+              "displayName": "listCheckedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "listUpdatedAt",
+              "displayName": "listUpdatedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "name",
+              "displayName": "name",
+              "required": true,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "registeredAt",
+              "displayName": "registeredAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "description",
+              "displayName": "description",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        2016,
+        -608
+      ],
+      "id": "34535172-ef8a-464b-8e56-399ea328116a",
+      "name": "Save success",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "upsert",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "value": "Album",
+          "mode": "list",
+          "cachedResultName": "Album"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "artist": "={{ $json.artistName }}",
+            "name": "={{ $json.name }}",
+            "cover": "={{ $json.cover }}",
+            "mbid": "={{ $json.mbid }}",
+            "thumbnail": "={{ $json.thumbnail }}"
+          },
+          "matchingColumns": [
+            "artist",
+            "name"
+          ],
+          "schema": [
+            {
+              "id": "artist",
+              "displayName": "artist",
+              "required": true,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "cover",
+              "displayName": "cover",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": false
+            },
+            {
+              "id": "date",
+              "displayName": "date",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": false,
+              "removed": true
+            },
+            {
+              "id": "duration",
+              "displayName": "duration",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": false,
+              "removed": true
+            },
+            {
+              "id": "hidden",
+              "displayName": "hidden",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "boolean",
+              "canBeUsedToMatch": false,
+              "removed": true
+            },
+            {
+              "id": "listeners",
+              "displayName": "listeners",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": false,
+              "removed": true
+            },
+            {
+              "id": "mbid",
+              "displayName": "mbid",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": false
+            },
+            {
+              "id": "name",
+              "displayName": "name",
+              "required": true,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "numberOfTracks",
+              "displayName": "numberOfTracks",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": false,
+              "removed": true
+            },
+            {
+              "id": "playcount",
+              "displayName": "playcount",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": false,
+              "removed": true
+            },
+            {
+              "id": "registeredAt",
+              "displayName": "registeredAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": false,
+              "removed": true
+            },
+            {
+              "id": "statsUpdatedAt",
+              "displayName": "statsUpdatedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": false,
+              "removed": true
+            },
+            {
+              "id": "tagsUpdatedAt",
+              "displayName": "tagsUpdatedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": false,
+              "removed": true
+            },
+            {
+              "id": "thumbnail",
+              "displayName": "thumbnail",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        1344,
+        -608
+      ],
+      "id": "0fdd3070-608f-4c57-bbb2-61e0f38ff191",
+      "name": "Save albums",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "c8c44130-b950-46fc-8e97-1f0be0b5f470",
+              "leftValue": "={{ $json }}",
+              "rightValue": "",
+              "operator": {
+                "type": "object",
+                "operation": "empty",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        896,
+        -704
+      ],
+      "id": "a82fad90-9c12-4db0-9c02-c5dc6762a4b8",
+      "name": "If no albums"
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "value": "Tag",
+          "mode": "list",
+          "cachedResultName": "Tag"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "albumsScrapedAt": "={{ $now }}",
+            "name": "={{ $('Begin').item.json.tagName }}"
+          },
+          "matchingColumns": [
+            "name"
+          ],
+          "schema": [
+            {
+              "id": "albumsScrapedAt",
+              "displayName": "albumsScrapedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "listCheckedAt",
+              "displayName": "listCheckedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "listUpdatedAt",
+              "displayName": "listUpdatedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "name",
+              "displayName": "name",
+              "required": true,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "registeredAt",
+              "displayName": "registeredAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "description",
+              "displayName": "description",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        1120,
+        -800
+      ],
+      "id": "eb270db2-4dc0-426d-bbe2-059545107226",
+      "name": "Save empty success",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "3da7c1d9-6ea4-4577-b8fb-216d78171d34",
+              "leftValue": "={{ $json.error }}",
+              "rightValue": "",
+              "operator": {
+                "type": "number",
+                "operation": "notEmpty",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        448,
+        -800
+      ],
+      "id": "f5f89a32-91e4-43a4-b963-576dc4cb0819",
+      "name": "If"
+    },
+    {
+      "parameters": {
+        "errorMessage": "={{ $json.message }}"
+      },
+      "type": "n8n-nodes-base.stopAndError",
+      "typeVersion": 1,
+      "position": [
+        672,
+        -896
+      ],
+      "id": "a680cd4e-8805-4100-8d34-15e0004f8661",
+      "name": "Stop and Error"
+    },
+    {
+      "parameters": {
+        "workflowInputs": {
+          "values": [
+            {
+              "name": "tagName"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.executeWorkflowTrigger",
+      "typeVersion": 1.1,
+      "position": [
+        0,
+        -800
+      ],
+      "id": "0b54b0ac-998e-4a41-a907-a3fbff673427",
+      "name": "Begin"
+    },
+    {
+      "parameters": {
+        "workflowId": {
+          "__rl": true,
+          "value": "8HXyxdJLGH6NolFD",
+          "mode": "list",
+          "cachedResultUrl": "/workflow/8HXyxdJLGH6NolFD",
+          "cachedResultName": "Update album stats"
+        },
+        "workflowInputs": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "artistName": "={{ $json.artist }}",
+            "albumName": "={{ $json.name }}"
+          },
+          "matchingColumns": [],
+          "schema": [
+            {
+              "id": "artistName",
+              "displayName": "artistName",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "canBeUsedToMatch": true,
+              "type": "string",
+              "removed": false
+            },
+            {
+              "id": "albumName",
+              "displayName": "albumName",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "canBeUsedToMatch": true,
+              "type": "string",
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": true
+        },
+        "mode": "each",
+        "options": {
+          "waitForSubWorkflow": true
+        }
+      },
+      "type": "n8n-nodes-base.executeWorkflow",
+      "typeVersion": 1.3,
+      "position": [
+        1568,
+        -512
+      ],
+      "id": "226c2c08-1e61-48f4-87e6-2542fddf99ee",
+      "name": "Call 'Update album stats'"
+    },
+    {
+      "parameters": {
+        "workflowId": {
+          "__rl": true,
+          "value": "NRG7R8WHauwmER9t",
+          "mode": "list",
+          "cachedResultUrl": "/workflow/NRG7R8WHauwmER9t",
+          "cachedResultName": "Update album tags"
+        },
+        "workflowInputs": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "artistName": "={{ $json.artist }}",
+            "name": "={{ $json.name }}"
+          },
+          "matchingColumns": [
+            "artistName",
+            "name"
+          ],
+          "schema": [
+            {
+              "id": "artistName",
+              "displayName": "artistName",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "name",
+              "displayName": "name",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "canBeUsedToMatch": true,
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": true
+        },
+        "mode": "each",
+        "options": {
+          "waitForSubWorkflow": true
+        }
+      },
+      "type": "n8n-nodes-base.executeWorkflow",
+      "typeVersion": 1.2,
+      "position": [
+        1568,
+        -704
+      ],
+      "name": "Call Update album tags",
+      "id": "21e48e15-a450-4f74-94db-e6c5a047ecf8"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        1792,
+        -608
+      ],
+      "id": "f9c7632e-1ec9-4373-995e-2fd05362acf2",
+      "name": "Merge"
+    }
+  ],
+  "pinData": {
+    "Begin": [
+      {
+        "json": {
+          "tagName": "ukrainian"
+        }
+      }
+    ]
+  },
+  "connections": {
+    "Split Out": {
+      "main": [
+        [
+          {
+            "node": "If no albums",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get albums": {
+      "main": [
+        [
+          {
+            "node": "If",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Transform albums": {
+      "main": [
+        [
+          {
+            "node": "Save albums",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Save albums": {
+      "main": [
+        [
+          {
+            "node": "Call 'Update album stats'",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Call Update album tags",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Save success": {
+      "main": [
+        []
+      ]
+    },
+    "If no albums": {
+      "main": [
+        [
+          {
+            "node": "Save empty success",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Transform albums",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If": {
+      "main": [
+        [
+          {
+            "node": "Stop and Error",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Split Out",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Begin": {
+      "main": [
+        [
+          {
+            "node": "Get albums",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Call 'Update album stats'": {
+      "main": [
+        [
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Call Update album tags": {
+      "main": [
+        [
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge": {
+      "main": [
+        [
+          {
+            "node": "Save success",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "timezone": "Europe/Kyiv",
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": false,
+    "errorWorkflow": "7HrDrsQKECTlnEFk"
+  },
+  "versionId": "655e9987-248e-4bb9-a471-9cb4e9233413",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"
+  },
+  "id": "bln38gbNOEEqGBe8",
+  "tags": []
+}

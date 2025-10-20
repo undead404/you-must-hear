@@ -1,0 +1,686 @@
+{
+  "name": "Enrich from Discogs",
+  "nodes": [
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "7b63897f-5204-4b68-b4cc-49b5c206808f",
+              "leftValue": "={{ $json.date }}",
+              "rightValue": "",
+              "operator": {
+                "type": "string",
+                "operation": "notEmpty",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        2240,
+        -784
+      ],
+      "id": "d17ed369-9204-46d8-b939-f314a18b75ee",
+      "name": "If has date1"
+    },
+    {
+      "parameters": {
+        "url": "https://api.discogs.com/database/search",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpCustomAuth",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "type",
+              "value": "release"
+            },
+            {
+              "name": "release_title",
+              "value": "={{ $json.albumName }}"
+            },
+            {
+              "name": "artist",
+              "value": "={{ $json.albumArtist }}"
+            }
+          ]
+        },
+        "options": {
+          "batching": {
+            "batch": {
+              "batchSize": 1,
+              "batchInterval": 3000
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        2464,
+        -592
+      ],
+      "id": "a71a4351-0312-414a-8d2e-e8bfff84aed8",
+      "name": "Search in Discogs1",
+      "credentials": {
+        "httpQueryAuth": {
+          "id": "bOArY5n2xETWvnHD",
+          "name": "LastFM"
+        },
+        "httpCustomAuth": {
+          "id": "sug1ZHtI1bpmPtSs",
+          "name": "Discogs API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForEachItem",
+        "jsCode": "const requested = $('If has date1').item;\nconsole.log(requested);\nconst matches = $input.item.json.results.filter(result => {\n  const requestedTitleLowercased = `${requested.json.artistName} - ${requested.json.albumName}`.toLowerCase();\n  return requestedTitleLowercased === result.title.toLowerCase();\n});\nlet minimalYear = '9999';\n\nfor (const match of matches) {\n  if (match.year < minimalYear) {\n    minimalYear = match.year;\n  }\n}\n// if (matches.length === 0)\n// {console.log(requested, $input.item.json.results);}\n\nconst match = matches.find(match => match.year === minimalYear);\n\nreturn {\n  ...requested,\n  json: {\n    ...requested.json,\n    discogsId: match?.id,\n  }\n}"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        2688,
+        -592
+      ],
+      "id": "45c08698-89c4-46ed-8ac7-99499c878691",
+      "name": "Find match1",
+      "alwaysOutputData": true
+    },
+    {
+      "parameters": {
+        "url": "=https://api.discogs.com/releases/{{ $json.discogsId }}",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpCustomAuth",
+        "options": {
+          "batching": {
+            "batch": {
+              "batchSize": 1,
+              "batchInterval": 1100
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        3136,
+        -528
+      ],
+      "id": "d155534a-3c19-463d-afd6-56546911d86d",
+      "name": "Get details from Discogs1",
+      "credentials": {
+        "httpCustomAuth": {
+          "id": "sug1ZHtI1bpmPtSs",
+          "name": "Discogs API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "7f1bec95-d29b-4ca1-b1f1-4b2b626c95d2",
+              "name": "artistLowercased",
+              "value": "={{ $json.artists_sort.toLowerCase() }}",
+              "type": "string"
+            },
+            {
+              "id": "e3dc0b87-fb20-4640-b7d7-c38910845c90",
+              "name": "nameLowercased",
+              "value": "={{ $json.title.toLowerCase() }}",
+              "type": "string"
+            },
+            {
+              "id": "a8cf07ef-2619-4a72-9f76-c98eb93653cf",
+              "name": "released",
+              "value": "={{ $json.released }}",
+              "type": "string"
+            },
+            {
+              "id": "3fafcf19-5733-4d67-96c0-e0a9a207068a",
+              "name": "numberOfTracksDiscogs",
+              "value": "={{ $json.tracklist.length }}",
+              "type": "number"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        3360,
+        -528
+      ],
+      "id": "ad203b98-fc84-414a-92a5-ce7e1d804a05",
+      "name": "Edit Fields2"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "e305fd8f-0e60-4922-8ca9-92acfb3b0eef",
+              "name": "artistLowercased",
+              "value": "={{ $json.artistName.toLowerCase() }}",
+              "type": "string"
+            },
+            {
+              "id": "0223c7b4-a8a8-49fb-940b-f51b45225215",
+              "name": "nameLowercased",
+              "value": "={{ $json.albumName.toLowerCase() }}",
+              "type": "string"
+            }
+          ]
+        },
+        "includeOtherFields": true,
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        3360,
+        -928
+      ],
+      "id": "52903492-1203-4936-b1f8-acf63ab39095",
+      "name": "Edit Fields3"
+    },
+    {
+      "parameters": {
+        "mode": "combine",
+        "fieldsToMatchString": "artistLowercased,nameLowercased",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        3584,
+        -928
+      ],
+      "id": "3f034670-618f-4679-9fa1-42043b4e4c2a",
+      "name": "Merge7"
+    },
+    {
+      "parameters": {
+        "numberInputs": 3
+      },
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        3808,
+        -800
+      ],
+      "id": "70de7fe9-9c43-4a82-9ab8-f5088c56f6fa",
+      "name": "Merge8"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "fa6599b3-2dad-4734-b16c-05a02f82304a",
+              "leftValue": "={{ $json.discogsId }}",
+              "rightValue": "",
+              "operator": {
+                "type": "number",
+                "operation": "notEmpty",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        2912,
+        -592
+      ],
+      "id": "348e2c62-db9c-4bd5-b930-6c611b7808cf",
+      "name": "If found match"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "2900db8e-e51f-4612-a0a2-9b2e66634d93",
+              "name": "albumArtist",
+              "value": "={{ $('Begin').item.json.albumArtist }}",
+              "type": "string"
+            },
+            {
+              "id": "e2e52e58-48ae-49fe-b0a6-e441764b1951",
+              "name": "albumName",
+              "value": "={{ $('Begin').item.json.albumName }}",
+              "type": "string"
+            },
+            {
+              "id": "527ed3e0-1170-43da-8b60-2dcd57f3811f",
+              "name": "date",
+              "value": "={{ $json.date }}",
+              "type": "string"
+            },
+            {
+              "id": "877e9b5c-1ca8-4b9a-bf90-dd1f31822724",
+              "name": "numberOfTracks",
+              "value": "={{ $json.numberOfTracks }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        4432,
+        -640
+      ],
+      "id": "d66f295f-7b2c-49a2-bd29-c4a12a3c8274",
+      "name": "Return"
+    },
+    {
+      "parameters": {
+        "workflowInputs": {
+          "values": [
+            {
+              "name": "date"
+            },
+            {
+              "name": "albumName"
+            },
+            {
+              "name": "albumArtist"
+            },
+            {
+              "name": "numberOfTracks",
+              "type": "number"
+            }
+          ]
+        }
+      },
+      "id": "2239d672-04c8-4217-aeca-80ec7d97ec86",
+      "typeVersion": 1.1,
+      "name": "Begin",
+      "type": "n8n-nodes-base.executeWorkflowTrigger",
+      "position": [
+        2016,
+        -784
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "value": "Album",
+          "mode": "list",
+          "cachedResultName": "Album"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "name": "={{ $json.albumName }}",
+            "artist": "={{ $json.artistName || $json.albumArtist }}",
+            "numberOfTracks": "={{ $('Begin').item.json.numberOfTracks ? $('Begin').item.json.numberOfTracks : $json.numberOfTracksDiscogs }}",
+            "date": "={{ $('Begin').item.json.date ? $('Begin').item.json.date : $json.released }}"
+          },
+          "matchingColumns": [
+            "artist",
+            "name"
+          ],
+          "schema": [
+            {
+              "id": "artist",
+              "displayName": "artist",
+              "required": true,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "cover",
+              "displayName": "cover",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "date",
+              "displayName": "date",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "duration",
+              "displayName": "duration",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "hidden",
+              "displayName": "hidden",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "boolean",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "listeners",
+              "displayName": "listeners",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "mbid",
+              "displayName": "mbid",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "name",
+              "displayName": "name",
+              "required": true,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "numberOfTracks",
+              "displayName": "numberOfTracks",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "playcount",
+              "displayName": "playcount",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "number",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "registeredAt",
+              "displayName": "registeredAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "statsUpdatedAt",
+              "displayName": "statsUpdatedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "tagsUpdatedAt",
+              "displayName": "tagsUpdatedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "thumbnail",
+              "displayName": "thumbnail",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        4192,
+        -640
+      ],
+      "id": "3748fee8-7b88-482a-aa7f-ab5961b7d095",
+      "name": "Update rows in a table",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    }
+  ],
+  "pinData": {
+    "Begin": [
+      {
+        "json": {
+          "albumName": "Cowboys From Hell",
+          "artistName": "Pantera",
+          "date": null,
+          "numberOfTracks": 12
+        }
+      }
+    ]
+  },
+  "connections": {
+    "If has date1": {
+      "main": [
+        [
+          {
+            "node": "Merge8",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Search in Discogs1",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Edit Fields3",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Search in Discogs1": {
+      "main": [
+        [
+          {
+            "node": "Find match1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Find match1": {
+      "main": [
+        [
+          {
+            "node": "If found match",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get details from Discogs1": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields2",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields2": {
+      "main": [
+        [
+          {
+            "node": "Merge7",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields3": {
+      "main": [
+        [
+          {
+            "node": "Merge7",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Merge7": {
+      "main": [
+        [
+          {
+            "node": "Merge8",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "If found match": {
+      "main": [
+        [
+          {
+            "node": "Get details from Discogs1",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Merge8",
+            "type": "main",
+            "index": 2
+          }
+        ]
+      ]
+    },
+    "Merge8": {
+      "main": [
+        [
+          {
+            "node": "Update rows in a table",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Begin": {
+      "main": [
+        [
+          {
+            "node": "If has date1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Update rows in a table": {
+      "main": [
+        [
+          {
+            "node": "Return",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "4bc3f5b6-76c8-4e67-912d-6dfbee5a4e61",
+  "meta": {
+    "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"
+  },
+  "id": "DjDCQ2YNGopdvYKq",
+  "tags": []
+}

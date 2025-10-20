@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2024-12-15T12:00:56.414Z
+permalink: tags/solo-piano
+title: solo piano
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 87 | ![Cover](https://i.discogs.com/0n9ywH7OYQrPzpzHe_IkMwYlrSj6jt9fVAlzYuOmjcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg1/NDExLTE1MDIzNzMx/OTAtMTI2Ni5qcGVn.jpeg) | 1963 | Béla Bartók | Harmonien: Mikrokosmos - Jeno Jando |
+| 48 | ![Cover](http://coverartarchive.org/release/a79609ba-bc9a-4d37-8ebc-7d9bc490ecaa/8660560345-250.jpg) | 1969 | Bill Evans | Alone |
+| 45 | ![Cover](https://i.discogs.com/XyqZSEmVIpCDXRumLOStfQBTrj35xAg51tL_NvuJz0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDM0/MTQtMTI5OTE1MTI2/Mi5qcGVn.jpeg) | 1970 | Dollar Brand | African Piano |
+| 60 | ![Cover](https://i.discogs.com/wTjVBlx83HDgKpxlH3qF1-X1AqQfla4Yl_QbJnDQE5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njk5/NzgtMTQ5MDgyNDkw/MC05MTUxLmpwZWc.jpeg) | 1979 | McCoy Tyner | Warsaw Concert 1991 |
+| 6 | ![Cover](http://coverartarchive.org/release/ce5ca649-3bf7-458c-99a8-b4523b3143d3/18169002430-250.jpg) | 1980 | George Winston | Autumn |
+| 1 | ![Cover](http://coverartarchive.org/release/817db1fb-c7d4-4e20-9297-ebb49dbe13eb/9553263290-250.jpg) | 1982 | George Winston | December |
+| 3 | ![Cover](https://i.discogs.com/HZhnGmSnCgwZFYXLjGWMseuV5aqLWJZj1zDQmsfSAnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM1/NzctMTM1OTkxNjEy/Mi00ODU0LmpwZWc.jpeg) | 1982 | George Winston | Winter Into Spring |
+| 29 | ![Cover](https://i.discogs.com/6n9l4tB7nZu5Z8oc9mxMD7iktaYmesFzgtRFSkjWm4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzUx/NDAtMTQ2NjE1MTM0/NC00NjU4LmpwZWc.jpeg) | 1982 | Keith Jarrett | Concerts |
+| 27 | ![Cover](https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg) | 1983 | Various Artists | Vapor Trails: The Echoes Living Room Concerts, Vol. 14 |
+| 53 | ![Cover](https://i.discogs.com/NqTrL8lsshqUJlldTRHfdNFjL-fL9vtviZqKfcNeZiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDM0/NDgtMTI1NDk5Mzk0/OC5qcGVn.jpeg) | 1983 | Spencer Brewer | Where Angels Dance |
+| 8 | ![Cover](http://coverartarchive.org/release/761d65a4-40fd-41fc-8c04-23a2b17c03a6/33535115916-250.jpg) | 1985 | Philip Aaberg | High Plains |
+| 99 | ![Cover](https://i.discogs.com/8d4oA02MiR1IafOUjD2qwb5gIk0zXgv9jFYXPbUow24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTYz/ODYtMTYzNTk3MzQ5/Ny00NzUxLmpwZWc.jpeg) | 1989 | Jasper Van't Hof | Solo Piano |
+| 41 | ![Cover](https://i.discogs.com/VzX3M0Z_aKQhnqhC1zmFdB1PQA_HjZTMh5-m7HgIJto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDkx/MzUtMTMxMzMzNDE3/NC5qcGVn.jpeg) | 1989-11 | Rick Wakeman | Sea Airs |
+| 11 | ![Cover](http://coverartarchive.org/release/c44b1b58-0e55-4d35-8969-c8ffc8d92459/33626677540-250.jpg) | 1991 | George Winston | Summer |
+| 68 | ![Cover](https://i.discogs.com/WGMXNiM1ACdGF7C2tNPuk40p6xFzDiGo9f0NNg6dtGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTY4/ODAtMTMwMTQzNTA4/My5qcGVn.jpeg) | 1991 | Starr Parodi | Common Places |
+| 61 | ![Cover](https://i.discogs.com/l5ySkNVSHDjty7wNP7WOOesMj3Qu-PQR1jfl202M9CM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTcz/NjctMTQ1MTYyNzM0/OS05MTI3LmpwZWc.jpeg) | 1992 | David Nevue | In the Soft Light of Grace |
+| 100 | ![Cover](http://coverartarchive.org/release/af514041-d09c-40e6-b679-3f5fcfe184fd/7579699768-250.jpg) | 1992-09-01 | Keith Jarrett | Vienna Concert |
+| 47 | ![Cover](https://i.discogs.com/Zy4UvHZ1WNJBcBpd33Z9OLewEOWQ8jjtYvs21EhsMS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTAw/MjUwLTE2NDMyMTc2/MTEtNDkxOS5qcGVn.jpeg) | 1993 | Tim Callicrate | Serenade From Tahoe II |
+| 21 | ![Cover](https://i.discogs.com/_GeXG6KkPlg7Xhv_aZeDH57cWDzQGKykwXZTqhMCRzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDA3/MC0xNTEwNDI5ODc5/LTI2NDMuanBlZw.jpeg) | 1994-10-11 | George Winston | Forest |
+| 73 | ![Cover](https://i.discogs.com/tGo06PLYQiA6NH3-VMLUfDIHqrUfnkkmzdfXZMA7ueA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjc2/NTU1LTE1MjA0ODQ1/MzAtMzcxNC5qcGVn.jpeg) | 1995 | Stan Whitmire | Piano On Broadway |
+| 79 | ![Cover](https://i.discogs.com/DUUx2cIjfu7rcxAbuxp4rwUUJjWdxW5mS2tPxMqK7fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTcy/NzktMTQ1MTYyMTY5/Mi0yNjI0LmpwZWc.jpeg) | 1995 | David Nevue | Whisperings (1985 - 2000) |
+| 18 | ![Cover](http://coverartarchive.org/release/d47d4c8c-33d4-4c96-9d71-974b76f4a3d7/14117484252-250.jpg) | 1996-09-07 | George Winston | Linus &amp; Lucy: The Music of Vince Guaraldi |
+| 17 | ![Cover](https://i.discogs.com/WiBPpc-vi3jlGUk-qTu9iXVJ9zotyICxY3qoboMfRVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc5/OTQ1LTE1NTEyODIx/MDQtOTkyNi5qcGVn.jpeg) | 1996-09-16 | George Winston | Linus &amp; Lucy - The Music Of Vince Guaraldi |
+| 78 | ![Cover](https://i.discogs.com/WrYUyJZKdiXswYc5iyPd6KoL5dC3xmqMtGzoKf7qmAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODg1/NDc4LTE2MjIwMDIz/MzUtNzk5My5qcGVn.jpeg) | 1997 | Wayne Gratz | Whisperings: Solo Piano Volume 1 |
+| 84 | ![Cover](https://i.discogs.com/ouIo-WeOmSsUqwPqPc8vRhPEyH7aPeULvM8EtE4D3UA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg4/NDA4LTE1NzIzNzIw/ODktNjg5Ni5qcGVn.jpeg) | 1997 | Jim Brickman | From The Heart |
+| 88 | ![Cover](http://coverartarchive.org/release/61571503-ce9f-42ae-ae7f-e4b0a2b855f7/5845800966-250.jpg) | 1997 | Lisa Hilton | Seduction |
+| 16 | ![Cover](https://i.discogs.com/7d1Tnom__eLsaRUxzY7Ya4WVOeX6D_KB8T2TTF5zFGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzM4/OTctMTQ3NTM1MzM4/My0zOTAyLmpwZWc.jpeg) | 1999 | Fernando Ortega | Meditations of the Heart |
+| 22 | ![Cover](https://i.discogs.com/8_KZJjW4vrU18-dMZsLHa3tN1dJKVgTN3WE_TfrdYMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTg3/ODUtMTQwMjk3Njkz/Ni05NDgzLmpwZWc.jpeg) | 1999 | David Lanz | Christmas Eve |
+| 69 | ![Cover](http://coverartarchive.org/release/96aedd99-3e56-423b-a5d7-b9d813b160fd/9237060116-250.jpg) | 1999 | Ludovico Einaudi | Eden Roc |
+| 82 | ![Cover](http://coverartarchive.org/release/7b3dd9d6-fffa-4cdb-984c-e5c7a9dd2e5a/32580061203-250.jpg) | 1999-10-18 | Bradley Joseph | Solo Journey |
+| 12 |  | 2000 | Jon Dahlander | Piano Landscapes v.3 |
+| 33 | ![Cover](http://coverartarchive.org/release/f28df9dc-8b0c-49c6-bdf9-406e0fe7d250/12018147006-250.jpg) | 2000 | Zola Van | River To River Trail: The Hike through Shawnee National Forest in Southern Illinois |
+| 43 | ![Cover](https://i.discogs.com/l0DXK7Gn_d5kDfEsGc22p_w96MeV0OVGSfUU9KyH0iA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Njk0/MjUtMTM4Njk1MjE3/Ny0zMjk5LmpwZWc.jpeg) | 2000 | Daniel Ketchum | Poems of Notes |
+| 54 | ![Cover](https://i.discogs.com/VBDNE3Q2xVhUCKlj7HS810d4NVfDuJDzJSkFypik-jk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODM5/MDItMTMzNjIzNDEy/My5qcGVn.jpeg) | 2000 | Ray Bryant | Somewhere in France |
+| 89 | ![Cover](http://coverartarchive.org/release/ecc7a71b-4daa-4f19-a6f0-1ba4f1d034c9/13762507287-250.jpg) | 2000-03-14 | Rick Wakeman | Preludes to a Century |
+| 50 | ![Cover](https://i.discogs.com/vp1vjf8PLak42Tl96dlEb_ChxArJ9S_qdNao1MzMMDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDkz/OTMzLTE1NDc5NDEx/OTEtMjAzMS5qcGVn.jpeg) | 2000-11 | George Gershwin | Gershwin Plays Gershwin - The Piano Rolls |
+| 30 |  | 2001 | Edvard Grieg | Peer Gynt Suites 1 &amp; 2, Lyric Suite etc. |
+| 66 | ![Cover](https://i.discogs.com/GDrRyvAzQ_toHoFCHMa0sunfk5Cm23sMHtgkcuwUiLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDc1/NTczLTE3MjM2MDg1/NzAtNDYxMi5qcGVn.jpeg) | 2001 | Kris Baines | All She Left Behind |
+| 74 | ![Cover](https://i.discogs.com/5PqFbsKTPfO61hB7AVYYuUBimSOjXKV36hIhZJaOpVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjUw/MjAtMTM2MDEyOTA0/OS02MTUyLmpwZWc.jpeg) | 2001 | Liz Story | Welcome Home: The Best Of Liz Story |
+| 5 | ![Cover](https://i.discogs.com/tzdBD2caaKrdyjrCkJqZ4yL8yW3SIJ9cKppZuO4oJxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTcx/NjA5LTE2NDEwOTYz/MzktMTgxNy5qcGVn.jpeg) | 2002 | Joe Bongiorno | At Peace - solo piano |
+| 52 | ![Cover](https://i.discogs.com/tzdBD2caaKrdyjrCkJqZ4yL8yW3SIJ9cKppZuO4oJxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTcx/NjA5LTE2NDEwOTYz/MzktMTgxNy5qcGVn.jpeg) | 2002 | Joe Bongiorno | Into the Wind - solo piano |
+| 13 | ![Cover](http://coverartarchive.org/release/ada60f39-8c10-4f2a-82c9-b00f00fed178/13988981451-250.jpg) | 2002-09-09 | George Winston | Night Divides the Day: The Music of the Doors |
+| 67 | ![Cover](https://i.discogs.com/sBaMyqp-5CEPHxv5D9wRy6rN60qP9-nR2-E6AtIp4G0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Nzky/MDAtMTQyOTAxNzU4/MC0xODI2LmpwZWc.jpeg) | 2003 | Cyrille Verdeaux | Piano For The Third Ear |
+| 81 | ![Cover](http://coverartarchive.org/release/1c0688b6-e8cb-42ea-992a-59f4e8daeb54/3113776874-250.jpg) | 2003 | Dr. John | All by Hisself: Live at the Lonestar |
+| 70 | ![Cover](http://coverartarchive.org/release/41efe873-9a17-4f31-8ccb-e648eb89c603/32580077834-250.jpg) | 2003-11-01 | Bradley Joseph | The Journey Continues |
+| 10 | ![Cover](http://coverartarchive.org/release/8dc3c1f0-2910-42bb-a415-5532a7f62919/11944294642-250.jpg) | 2004 | David Nevue | Sweet Dreams &amp; Starlight |
+| 34 | ![Cover](https://i.discogs.com/awRBUaCPKocQZwSpVm0JpEEnrqF1EeYslQmfgBr_5Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDkx/OS0xNTI1NDgyODY5/LTIwMTguanBlZw.jpeg) | 2004-09-14 | Brad Mehldau | Live In Tokyo |
+| 28 | ![Cover](https://i.discogs.com/1HlKkOcdkceDbEE2zDyeeElp5g7YejQejaNWXcJAA-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDc2/MzQ4LTE3MDUxNTg2/NDYtOTk0Mi5wbmc.jpeg) | 2004-12-04 | Piano Love Songs | Piano Love Songs: Classic Easy Listening Instrumental Piano Music |
+| 7 | ![Cover](http://coverartarchive.org/release/73d2e81d-1e72-4d23-ba9b-b57e9ebea164/29133868482-250.jpg) | 2005 | Giovanni Allevi | No Concept |
+| 37 | ![Cover](http://coverartarchive.org/release/d937b6ce-b95b-419a-bb6c-10ec2fce0bf0/4368080774-250.jpg) | 2005-03-15 | Ellis Marsalis | Ruminations in New York |
+| 25 | ![Cover](https://i.discogs.com/8K0TmCo-mg9Gu4O9XHqEsXlEZzpLiQ6bvcV8OayEYSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI3/NjMtMTM4MDg5NjY4/MC01NTI3LmpwZWc.jpeg) | 2005-10-25 | Baptiste Trotignon | Solo II |
+| 80 | ![Cover](http://coverartarchive.org/release/77da5f05-32fd-4421-a7e5-31a8df6f0ddf/5844709499-250.jpg) | 2005-11-15 | Fariborz Lachini | Sepidar |
+| 49 | ![Cover](http://coverartarchive.org/release/0539edbb-d535-4795-a903-8ff9b0cd4a50/11997801991-250.jpg) | 2006 | Rick Seaton | Such Dreams |
+| 56 | ![Cover](https://i.discogs.com/CcB1dgmjN6Ztxa_sQnH0uOvMp48Ao7-ubccqPzu8kng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk4/OTU3LTE1ODUzMTc1/NTEtMzI0My5qcGVn.jpeg) | 2006 | Beegie Adair | Quiet Romance |
+| 92 | ![Cover](https://i.discogs.com/cXrE3SJxsQGbhuwNxkkinqBr9qiyKsJbZjtZjLGio-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDE0/NTgtMTQ3MzA2NjAx/My01MTMzLmpwZWc.jpeg) | 2006 | Murray Perahia | Schubert: Late Piano Sonatas |
+| 15 | ![Cover](https://i.discogs.com/WY57HbGu0GYun66-9lInmN9qdeqaWcxQVY9dbpI3c1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjQz/NTAtMTMxODY4Njk2/OS5qcGVn.jpeg) | 2006-04-11 | Christopher O'Riley | Home To Oblivion: An Elliott Smith Tribute |
+| 38 | ![Cover](http://coverartarchive.org/release/833eca57-040d-363e-ad0a-ced9218c7431/4842875365-250.jpg) | 2006-09-13 | Max Richter | From "The Art of Mirrors" |
+| 39 | ![Cover](http://coverartarchive.org/release/e0363398-c9e9-48b0-90a7-dfb22d404a0f/10690461360-250.jpg) | 2006-11-14 | Fariborz Lachini | Golden Autumn 3 |
+| 9 | ![Cover](http://coverartarchive.org/release/139fd09e-4849-477e-9fa2-f3195796dd98/33943183432-250.jpg) | 2007 | Jennifer Haines | Thoughts and Dreams: Solo Piano |
+| 46 | ![Cover](http://coverartarchive.org/release/16c8ccf0-f23c-4448-af0a-ab7cabd8e51d/12001545798-250.jpg) | 2007 | Steven C. | Signature |
+| 83 | ![Cover](http://coverartarchive.org/release/d51bf6ba-3a54-4591-857f-78fde764b55a/5929465445-250.jpg) | 2007 | David Shenton | Sunnyside Blues |
+| 75 | ![Cover](https://i.discogs.com/KMP9IlEgZKdnRLoyrHzn0Ts0p13dvduPzg7f2bytH4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc2/Njc0LTE0OTgyMzU3/ODUtNjY2Ni5qcGVn.jpeg) | 2007-11-05 | Ludovico Einaudi | Ludovico Einaudi: Divenire |
+| 36 | ![Cover](http://coverartarchive.org/release/40053f5e-4220-4a4f-971b-48b225b2de6c/3574176798-250.jpg) | 2008 | Lebensessenz | Tu, deorum hominumque tyranne, Amor |
+| 72 | ![Cover](https://i.discogs.com/nrn1Tn8M-zPVVeGyR1qo0IB97xXfJXcocssyTT2GlGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk4/OTE3LTE2ODg2NjM4/MzUtODI2MS5qcGVn.jpeg) | 2008 | Derek Paravicini | Echoes of the Sounds to Be |
+| 94 |  | 2008 | Michael Samson | A Still Motion |
+| 90 |  | 2008-08-21 | Fariborz Lachini | Golden Autumn 4 |
+| 14 | ![Cover](https://i.discogs.com/yuor-SUJ6Kiq4Wvju1TLLAjWMzpgF8nQWQSqRULwIo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzEx/MzQtMTI4MDEzNDY0/OS5qcGVn.jpeg) | 2008-12-19 | Frozen Silence | Sky |
+| 35 | ![Cover](https://i.discogs.com/ht5Je4h7aXUNHxtcNznvoertl3XMz3-UZ90ml_Ma0tI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTcz/MjEtMTQ1MTYyNDQx/MC03Njk1LmpwZWc.jpeg) | 2009 | David Nevue | Revelation: Solo Piano for Prayer &amp; Worship |
+| 76 | ![Cover](https://i.discogs.com/SN0rxTB_qmDEWRdHcICUqil2OSFdPXIfzBjm9zWbD3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDU0/NTQtMTI2NjQ3MjMx/OC5wbmc.jpeg) | 2009 | Goldmund | Live At The Triple Door |
+| 77 | ![Cover](https://i.discogs.com/rw-_u_HGDwxHlcnV2eyVlbSm8MCs9m6950lWe83-47c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzEx/ODgtMTI4MDEzNjM0/NC5qcGVn.jpeg) | 2009-07-22 | Frozen Silence | Homecoming |
+| 93 | ![Cover](http://coverartarchive.org/release/f0dd6d1e-b09c-4b5e-a0af-2729991726e6/5844709665-250.jpg) | 2009-07-27 | Fariborz Lachini | Piano Adagios |
+| 19 | ![Cover](https://i.discogs.com/yBGH-S-N8ntDvsCh11Eo1QHmVOJ12L234UxNdZCn1x4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjUx/MjQzLTE1OTUyNTYy/NjgtNTUwNi5qcGVn.jpeg) | 2009-09-17 | Jose Travieso | A Retrospective: The Early Years - 1994-2003 |
+| 44 | ![Cover](https://i.discogs.com/yBGH-S-N8ntDvsCh11Eo1QHmVOJ12L234UxNdZCn1x4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjUx/MjQzLTE1OTUyNTYy/NjgtNTUwNi5qcGVn.jpeg) | 2009-09-17 | Jose Travieso | De Luces y de Sombras |
+| 58 | ![Cover](https://i.discogs.com/yBGH-S-N8ntDvsCh11Eo1QHmVOJ12L234UxNdZCn1x4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjUx/MjQzLTE1OTUyNTYy/NjgtNTUwNi5qcGVn.jpeg) | 2009-09-17 | Jose Travieso | Lluvia de Mayo |
+| 65 | ![Cover](https://i.discogs.com/yBGH-S-N8ntDvsCh11Eo1QHmVOJ12L234UxNdZCn1x4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjUx/MjQzLTE1OTUyNTYy/NjgtNTUwNi5qcGVn.jpeg) | 2009-09-17 | Jose Travieso | Música para una Guitarra sin Voz |
+| 98 | ![Cover](https://i.discogs.com/yBGH-S-N8ntDvsCh11Eo1QHmVOJ12L234UxNdZCn1x4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjUx/MjQzLTE1OTUyNTYy/NjgtNTUwNi5qcGVn.jpeg) | 2009-09-17 | Jose Travieso | Tres Piezas para Oídos Distintos |
+| 40 | ![Cover](https://i.discogs.com/eNOYwf1whLHfT6sH9R8FBIVY3ERdPP0xVLRWi6SBU1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzI2/MDYtMTY3NDEwOTA3/OS0yMzQxLnBuZw.jpeg) | 2009-11-11 | Lebensessenz | Tu, Deorum Hominumque Tyranne, Amor! |
+| 86 | ![Cover](https://i.discogs.com/XoVJZZ_dosUs3E5JjLd0Up5GKyfJnROI-lz1J_Yx0F4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDY2/NTEtMTMyNTAwNzM1/NS5qcGVn.jpeg) | 2010-03-30 | Geri Allen | Flying Toward the Sound |
+| 32 | ![Cover](https://i.discogs.com/sIG6oHuvaL8bhmsWeKsgNkp7EsTFVGsjaqDA1BWkPTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTc2/OTAtMTI4ODM2MTg3/NC5qcGVn.jpeg) | 2010-09 | Clem Leek | Holly Lane |
+| 85 | ![Cover](https://i.discogs.com/tqKa4iSw88VxY7122cDZiDprBtcPOud535QoO1sFX44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ0/OTc2LTE1MjkyMDQ3/ODEtNjEwNi5qcGVn.jpeg) | 2011 | Ann Sweeten | In the Wake |
+| 4 | ![Cover](https://i.discogs.com/GFgllYuTPPERQbshQ9ooTUXewcyzSbpMz6Qda1RLVjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM5/ODc0LTE1NTQyMzg5/NjAtNDU3OC5qcGVn.jpeg) | 2011-02-08 | Christopher Ferreira | The Piano Pieces |
+| 71 | ![Cover](https://i.discogs.com/sRKJhgi3TTnD-014GeksMMFm1kHCmfSkSc_oOjRN2zo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTE0/MjQtMTM4MDc5NDEx/NC05OTYzLmpwZWc.jpeg) | 2011-11-04 | Keith Jarrett | Rio |
+| 2 | ![Cover](http://coverartarchive.org/release/0d13ad13-aa76-4a05-aa5f-3a9288c85bcb/3031321807-250.jpg) | 2011-12-09 | Yiruma | The Best - Reminiscent 10th Anniversary |
+| 96 | ![Cover](https://i.discogs.com/uJw8OKnk_6bNdFojIWb7B3TJm8yKtv7ZxSQgNcUIiNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTIy/MDgtMTM2NDE5MDk5/OC02NTU3LmpwZWc.jpeg) | 2012 | Beegie Adair | Solo Sessions - EP |
+| 26 | ![Cover](https://i.discogs.com/kG5XyLcStMkR9TLypIN6Ne-cc78EugLDhc1AimhIDIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDU0/OTAtMTQ3ODk3NzAx/Mi05MjQxLmpwZWc.jpeg) | 2014 | Raul Di Blasio | Grandes Exitos |
+| 97 | ![Cover](https://i.discogs.com/qMsJAFJLGmTLKtmySyl_UAsOVYOHH4ajLjvlTX3gTZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzgx/OTAyLTE2NTY5NjA2/NTYtNDE1My5qcGVn.jpeg) | 2014 | Tim Glemser | Boundless |
+| 24 | ![Cover](https://i.discogs.com/UrEW8c65P-kCFbYhVpoTli1RG6A6RsGQdWFlgh0py28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDY4/MDUtMTQxMjI0NzU2/NC0xMTc1LmpwZWc.jpeg) | 2014-10-21 | Endless Melancholy | Fragile |
+| 55 | ![Cover](https://i.discogs.com/SKJ316fKJGZF1nMOV2m9PtIxQcFgc2nU801tzxyL7RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTY2/MDEtMTQ0ODE4MzQ5/MC05Mjk5LmpwZWc.jpeg) | 2015 | Benjamin Richter | The Grand Momentum |
+| 63 | ![Cover](https://i.discogs.com/DUUx2cIjfu7rcxAbuxp4rwUUJjWdxW5mS2tPxMqK7fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTcy/NzktMTQ1MTYyMTY5/Mi0yNjI0LmpwZWc.jpeg) | 2015 | David Nevue | Winding Down |
+| 91 | ![Cover](https://i.discogs.com/jpYSTiClqPNnqz-En6RKnT_Rz0N2o7FcUua3mmuApIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTIw/MjYtMTQyMTgzNjUy/NC04OTYwLmpwZWc.jpeg) | 2015-01-21 | Endless Melancholy | Ambermixes |
+| 57 | ![Cover](https://i.discogs.com/I8R5GVldqSWuvaGan8OTe2nAMLYD5qb03NVmbbdz8-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTQ2/NzItMTU4NDY2MzEw/MS0yNjkzLnBuZw.jpeg) | 2015-08-28 | Iiro Rantala | My Working Class Hero |
+| 23 | ![Cover](https://i.discogs.com/UxLOkLook_23TD-yZ39bQ5Rz_V8IeEyifOv4lHBK45g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODMw/MDEtMTUyNjkwNjgz/MC01OTc2LnBuZw.jpeg) | 2016 | Martin Jacoby | The Blue Lines |
+| 95 | ![Cover](https://i.discogs.com/--iIPcdapgdheepR1ruF6aQ3NBHiSgJbRYVHUcNPThI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTE1/NzUwLTE2NTI0NDM5/MzYtMzQwOS5qcGVn.jpeg) | 2018 | Louis Landon | Healing Hearts 4 - Solo Piano |
+| 51 | ![Cover](https://i.discogs.com/Dtth4k18aJ3x-zvv4gtvjBD3mM6-i00oGq6potaS-IQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTEz/MzEtMTI2Njk3MTIw/Ni5qcGVn.jpeg) | 2019 | Roberto Cacciapaglia | Atlas - Roberto Cacciapaglia Collection |
+| 64 |  | 2019 | Holly Jones | Art on the Piano |
+| 42 | ![Cover](https://i.discogs.com/1l2wVqIzJd5P02R3A9HEMUxf1C2-Ku-sAhgr5diVdwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTY1/ODA3LTE2MTA4NTk5/MDYtNjgzNS5qcGVn.jpeg) | 2019-02-22 | Dalal | The Einaudi Sound |
+| 62 | ![Cover](https://i.discogs.com/qf5HwvCuvTvl4iHhvFP6kIagiS5gW82_ev_YQenc6Ys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYx/NTgxLTE1NzUwMDU2/NTAtMTI0OS5qcGVn.jpeg) | 2019-03-07 | George Winston | Restless Wind |
+| 31 | ![Cover](https://i.discogs.com/JkSR_ip0YTn0BpYU8XRdNSB2M5e_I0wGGXEkhjTt8r8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTAw/OTg4LTE2NzczNjA4/MDYtOTEyNy5qcGVn.jpeg) | 2020 | Louis Landon | Classic Pop Rock Solo Piano |
+| 59 | ![Cover](https://i.discogs.com/kISNgvUh_4nu_M71rZP8aX6Z0zVpV64Puos93v0sF44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIw/MDIyLTE2ODA3NDk2/MTQtNDUzOC5qcGVn.jpeg) | 2024 | Billy Joel | Billy Joel Opus 1-10 Fantasies &amp; Delusions Music for Solo Piano |
+| 20 | ![Cover](https://i.discogs.com/MtAF5OrUWmP_bJfbe5R7it9Uo9Z1N53020D_0Sn_kGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI2/OTItMTQ4NDA4NjQw/NS03MTg3LmpwZWc.jpeg) | 2024-08-30 | Benjamin Ann | Tide |

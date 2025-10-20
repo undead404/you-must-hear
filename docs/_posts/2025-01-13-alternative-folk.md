@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2025-01-13T03:02:09.981Z
+permalink: tags/alternative-folk
+title: alternative folk
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 90 | ![Cover](http://coverartarchive.org/release/cb5bdd6c-bda2-41ac-a4d9-feba3f65f4e0/5796154672-250.jpg) | 1993 | Beck | Fresh Meat and Old Slabs |
+| 62 | ![Cover](http://coverartarchive.org/release/bdebb98c-035e-450d-89e1-02d80a4ac6ed/1500936218-250.jpg) | 1994-01 | Beck | A Western Harvest Field by Moonlight |
+| 88 | ![Cover](https://coverartarchive.org/release/31d08b91-8580-4bf9-b28f-44d9793ab5d1/38561573923-250.jpg) | 1994-06-27 | Beck | One Foot In The Grave |
+| 32 | ![Cover](https://i.discogs.com/WHbsZuI1n0ouQcgVopY5cW9wv2FPiy2ViysH_Cocgv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjA5/OTMtMTU5MDgzODAw/MC03MTk0LmpwZWc.jpeg) | 1995 | THE BARNS | Engine |
+| 45 | ![Cover](http://coverartarchive.org/release/9d6a2037-a291-4cfb-a91c-4f62c8d3781e/35991540248-250.jpg) | 1997 | Tuomari Nurmio | Luuta ja nahkaa |
+| 79 | ![Cover](http://coverartarchive.org/release/0d4d5d1c-28f1-418b-aea4-7458ac91c119/1137989959-250.jpg) | 1997 | Lucinda Williams | Dark Side of Life: Loose Ends &amp; Scattered Songs |
+| 6 | ![Cover](http://coverartarchive.org/release/27d99673-cdc9-4172-bdf6-d3bd0620c0ee/15960021076-250.jpg) | 1997-05-20 | Smog | Red Apple Falls |
+| 67 | ![Cover](https://i.discogs.com/eCW7-26XPVIkiQLPegaQbMG0EvZsELQNlv4HBiHDx8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MjEy/ODUtMTQ0OTQ5NjU0/NS05MjE3LmpwZWc.jpeg) | 1998 | Bamboo | Prince Pansori Priestess |
+| 85 | ![Cover](https://i.discogs.com/nJjbZb5Q4zKgkca_GggvZaMDnMOOlC10xvy1FC_6Q8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg2/MjEtMTI0NDY5MzAw/NC5qcGVn.jpeg) | 1998 | nahe | nahe |
+| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9d179bb39f3e7f77c12cd97464a53394.png) | 2000-09-19 | Damien Jurado | Ghost of David |
+| 37 | ![Cover](https://i.discogs.com/aDIqfD_CB9PIe9wsTU5-627GpcNXV694slllEPB_aeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/LTE2MDQyNzM5OTQt/MTk0OS5qcGVn.jpeg) | 2001-05-21 | Dido | Thank You |
+| 49 | ![Cover](http://coverartarchive.org/release/6df66af1-00d1-42b8-bfb7-46e6c055875a/3764951105-250.jpg) | 2001-08-13 | Emma Forman | Glasgow 2001 |
+| 30 | ![Cover](https://i.discogs.com/KItehpguXGqwV-d1bNGsrKahG_Zo0TOLFES5HvaWMEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTg3/NTU4LTE2MDg2NTc1/NTYtOTE2My5qcGVn.jpeg) | 2003 | Christina Antipa | Goodbye Different Oceans |
+| 69 | ![Cover](https://i.discogs.com/m4HfnXcr8knWpRe14vOHSX4TAEqgH1jVEsdN0RPQ2Qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDA1/MS0xMTMwMzQ5NjA1/LmpwZWc.jpeg) | 2003 | Alaska sover | Feedback From a Lazy Body |
+| 96 | ![Cover](https://i.discogs.com/Sm0ijFXKTc0nmS97WnqrGf6n-IYIWMJcTPQD3M9S0xE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQz/OTAtMTI2NzQ3NjUy/NS5qcGVn.jpeg) | 2003 | Xavier Baumaxa | Fenkam |
+| 98 | ![Cover](https://i.discogs.com/-LBtWacGtx7PR_FcLpicqGbtFYI6TfJ8jw03GHvqS1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTU3/MjItMTcxMDg3MTEz/NC0zNzIwLnBuZw.jpeg) | 2003-01-21 | Marianne Nowottny | Illusions Of The Sun |
+| 86 | ![Cover](http://coverartarchive.org/release/d67b5fe1-212c-4a0d-b9cd-95dc03eb42db/10619437616-250.jpg) | 2003-08-24 | 志方あきこ | 廃墟と楽園 |
+| 10 | ![Cover](https://i.discogs.com/jN71kucqUVo7dlMIk2NxQGP7GanE9XYUI5FNUJn9oQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTMz/MzQtMTI0MzE1MzA0/Mi5qcGVn.jpeg) | 2004-08-17 | Little Wings | Magic Wand |
+| 21 | ![Cover](http://coverartarchive.org/release/fed28e2c-49ee-4b8d-859a-104cf4536389/27813782373-250.jpg) | 2004-09-07 | Julie Doiron | Goodnight Nobody |
+| 3 | ![Cover](https://i.discogs.com/0mT4QUYNNXfZKeQTVu-vjVfyiMx7os5LD8c0JaLDpAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Njg1/MC0xNjI4MDA5NzQ5/LTU4ODguanBlZw.jpeg) | 2005 | Nizlopi | JCB |
+| 13 | ![Cover](https://i.discogs.com/mok1bCKAbF1D4Z2SflN0yF6r2SQDvmPuBkoQCvGh8jU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzky/ODctMTY4Mzg2OTI4/OC0yNDM0LmpwZWc.jpeg) | 2005 | Beirut | Gulag Orkestar |
+| 59 | ![Cover](https://i.discogs.com/_g4jSEPVpZfmY4fYICpWdZda8h-mphKnyyTS4ifTOxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjUz/NjEtMTM1NzUzMDA1/Mi05MjI2LmpwZWc.jpeg) | 2005 | Pure Horsehair | Aubade |
+| 68 | ![Cover](https://i.discogs.com/cSJ08LI5O723IP-epZPW_o9E9zZ2jAMGFnKVxvNuxhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU2/ODAzLTE1ODc0MDg1/NTgtMTYzNC5qcGVn.jpeg) | 2006 | Emma Forman | Why are you still here? |
+| 82 | ![Cover](https://i.discogs.com/TOIDAIDdioyKNE7gIMtMUzJxKdSotICBWHGl62SlwPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzcy/MDM0LTE1OTc1MDk1/MzAtMzczMS5qcGVn.jpeg) | 2006 | Tangleweed | Where You Been So Long |
+| 58 | ![Cover](https://i.discogs.com/noEmI1q8GnOcrvbB_bZcz0QcMwZ-6YtAAd61XvL_K9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc2/MzItMTIwOTk2Nzk4/NS5qcGVn.jpeg) | 2006-04-19 | Flowers From the Man Who Shot Your Cousin | Hapless |
+| 28 | ![Cover](http://coverartarchive.org/release/45ed6ea4-84b5-4441-8e71-eda75c55c868/23218379498-250.jpg) | 2006-05-22 | Tunng | Comments of the Inner Chorus |
+| 55 | ![Cover](https://i.discogs.com/XVdiqUiqpl4IF-G3507EQOQhyFlj4d9fS2goQO-4RFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjgz/ODctMTQzNTI0NTE0/My05MTA5LmpwZWc.jpeg) | 2006-06-05 | Pokett | Crumble |
+| 7 | ![Cover](http://coverartarchive.org/release/a3be0b9b-874e-44ff-8054-d4dc6ec189d0/10720411555-250.jpg) | 2006-08-22 | Jason Molina | Let Me Go, Let Me Go, Let Me Go |
+| 8 | ![Cover](http://coverartarchive.org/release/6477df3d-e390-4bec-849c-1a45cd73039b/25010408029-250.jpg) | 2006-10-10 | Damien Jurado | And Now That I'm In Your Shadow |
+| 23 | ![Cover](https://i.discogs.com/6P_VzTdnunEEbZP2pLtqXrOiA8PZZlaGRmvlT639ew0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTI0/Mi0xMTY3MzkyNTE1/LmpwZWc.jpeg) | 2006-10-24 | Norfolk &amp; Western | The Unsung Colony |
+| 9 | ![Cover](https://i.discogs.com/IxZs1W-fmsgrm1_DhIp8H6h6YIHb1xGNfiS1EVfShns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU0/MjktMTYxMjIxNTQx/MS05NDEzLmpwZWc.jpeg) | 2007 | Bonnie 'Prince' Billy | I See a Darkness |
+| 15 | ![Cover](https://i.discogs.com/LOHXxF14N-K9YzNe52mMxW9yRY5URdlJDgq-leDL86w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjQ4/NzgtMTM3OTkzOTE2/Ny05MTk2LmpwZWc.jpeg) | 2007 | Thao  | A Man Alive |
+| 50 | ![Cover](http://coverartarchive.org/release/59c49c41-5230-4d84-a8a5-47a55fcd1359/3764804396-250.jpg) | 2007 | Emma Forman | Chocolate and Red Wine |
+| 64 | ![Cover](https://i.discogs.com/2XYAGwTZlUjB1mCs5UlzaLKco4FfIdOBoY3s4QK9QyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDg2/MjQtMTQyMDg4NzU0/Ni05OTg5LmpwZWc.jpeg) | 2007 | Hoax Funeral | Pour Away the Ocean |
+| 33 | ![Cover](https://i.discogs.com/F7Lp6kzwrySfdiArzPiQCmsrKGHuZX_MCeRnPif_Yqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkw/NzM4LTE1MDk2OTA4/NjUtMjUwMC5qcGVn.jpeg) | 2007-03-12 | Novi Split | Pink In The Sink |
+| 61 | ![Cover](https://i.discogs.com/cfDIbUQpZErwBSy13-tN62ndEbAQ5Os8CBKvK8Y3fj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjQ4/Ny0xMTc1NTE1MDgy/LmpwZWc.jpeg) | 2007-05-14 | My Broken Frame | Chapel Hill |
+| 72 | ![Cover](https://i.discogs.com/cKddnO4HYm1-hyZtiBOnDe6h_2zGFWybSYQfjgQiaeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODgy/NS0xMTgyNDQ1MTIx/LmpwZWc.jpeg) | 2007-06-17 | June Madrona | A Long And Ugly Road (European edition) |
+| 42 | ![Cover](https://i.discogs.com/nysi9L0DHMqSNb5rwzNvRJPiVGmwZ4pnSrubgltYv9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODgz/Ni0xMTgyNDQ1NzQ3/LmpwZWc.jpeg) | 2007-06-30 | El Boy Die | How the way is long... |
+| 35 | ![Cover](http://coverartarchive.org/release/c557fc0a-6ec3-4880-a970-5ee3c451194b/1110243247-250.jpg) | 2007-07-05 | Fresh Body Shop | Orgamilk |
+| 14 | ![Cover](http://coverartarchive.org/release/210c485e-b200-4af0-a3c8-9bd09eef92cc/33078162593-250.jpg) | 2007-08-06 | Monkey Swallows the Universe | The Casket Letters |
+| 51 | ![Cover](https://i.discogs.com/iOBDV52zyQoeCTk_r-ZOi7dNntggksMjiD49SgHtUQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODky/OTAwLTE2NDMxNzgx/OTMtMTMyOS5qcGVn.jpeg) | 2007-11-21 | Noa Babayof | From a Window to a Wall |
+| 4 | ![Cover](http://coverartarchive.org/release/4b16363d-02fe-498e-8c0b-98b7509a87be/16717106099-250.jpg) | 2008 | J. Tillman | Cancer And Delirium |
+| 41 | ![Cover](https://i.discogs.com/5IKMA9q2eXznSyJFWCzuyowL6JFga1o1bYLEcvWGxp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIx/MTMtMTI4ODEyNjc2/OS5qcGVn.jpeg) | 2008 | M. Ward | Transfiguration of Vincent |
+| 52 | ![Cover](https://i.discogs.com/uUxblfD3-fKQNcAi1_fDf_pYfn9MwaG1xSKB23AN3ZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzc4/NzQtMTIyNjg4NTc4/OS5qcGVn.jpeg) | 2008 | Broken Records | EP |
+| 54 | ![Cover](https://i.discogs.com/qW_9TUueGCKSAn7zrHHoje-7fyFd4Ojf0GWlogU4_LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM3/ODQ1LTE2ODA1MzI2/MDktOTI1Ny5qcGVn.jpeg) | 2008 | June Madrona | The Winged Life (European edition) |
+| 93 | ![Cover](https://i.discogs.com/ExreuRlNazzX4YXQvVI3ALDbbXvw7J9XqnU3t_wA4dU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDQ4/MjczLTE2ODM4MzI5/OTktNjY0My5qcGVn.jpeg) | 2008-01-01 | Dao Strom | Everything That Blooms Wrecks Me |
+| 77 |  | 2008-04-13 | 三村京子 | 東京では少女歌手なんて |
+| 24 | ![Cover](http://coverartarchive.org/release/df3540b3-fed2-4361-b9c0-b0c44a33ccc6/4843029262-250.jpg) | 2008-07-25 | Big Blood | Big Blood &amp; the Bleedin' Hearts |
+| 25 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 2009 | Various Artists | Folks Pop In at the Waterhouse |
+| 53 | ![Cover](https://i.discogs.com/1PmpclwH3zaz2qjsKgzNWryr3gBhjRCLUzUE0SvkujY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODM4/NzctMTI1NjczMzkw/OC5qcGVn.jpeg) | 2009 | Devendra Banhart | 2004-11-09: Philadelphia, PA, USA |
+| 43 | ![Cover](https://i.discogs.com/EUZWckDRC_DHNYD7QfaI1gIq3boZBXl-r9S6JYqedmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTY0/NzMtMTQ3MzMyODIz/MC05NDQ0LmpwZWc.jpeg) | 2009-02-10 | Fresh Body Shop | The Ugly Army |
+| 39 | ![Cover](https://i.discogs.com/5vErm23l-PbjkPSTMToTskJDm9_KNmP4H-OwGp1TB5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTM1/MTAtMTQ5Mjg3Nzk5/Ny03MzQzLmpwZWc.jpeg) | 2009-06-08 | Tigers That Talked | Black Heart, Blue Eyes EP |
+| 63 | ![Cover](https://i.discogs.com/1uiCqq5bKjIhrQH33NjA9ZcHDNjWusAnENjTXXsQtzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTc3/MzEtMTM2MTA1Mjg5/OS03MzE3LmpwZWc.jpeg) | 2010 | Split Tongue Crow | Split Tongue Crow |
+| 84 | ![Cover](https://i.discogs.com/3f7EyZ1fV8EJ9jNyzeBXDMgyrLOwcnl01YB9sDT1OwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDc4/Nzc4LTE1OTIyMDg0/NjEtMTU4Mi5qcGVn.jpeg) | 2010-03-03 | Bamboo | Hexagonal / Diamond Springs |
+| 75 |  | 2010-08-21 | Ben Rusch | Architects of Time |
+| 80 | ![Cover](http://coverartarchive.org/release/cfcfbbcb-0ad5-48fc-838f-2821570bdb17/1242910961-250.jpg) | 2010-12-02 | Ainjel Emme | Everyone Is Beautiful |
+| 95 |  | 2010-12-24 | Ben Rusch | The Truth of all Love |
+| 78 | ![Cover](https://i.discogs.com/QEF2q4BlEV_HCvflpzHRU4QfjXt7UjC2QLzgJ0V5FUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTYw/MTctMTM1OTg4MjY1/Ni05NzEwLmpwZWc.jpeg) | 2011-08-17 | üka | Lullaby For The Evil |
+| 71 | ![Cover](http://coverartarchive.org/release/140d9a7c-da8c-4fe2-a295-52315bfde718/17763024684-250.jpg) | 2011-12-31 | 志方あきこ | Istoria~Kalliope~ |
+| 83 | ![Cover](https://i.discogs.com/9NtXmVsTfrORzWPm0t3tLbfKiwuZUpEKAlUkIOph_Ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTQ4/NTg2LTE2NTA3OTI3/ODYtNDA2NC5qcGVn.jpeg) | 2012-06-20 | Madonna | American Life Demos |
+| 97 | ![Cover](https://i.discogs.com/Ax7dGHG78HH8gxCBrQcFBv0D5IL_y4Xc3tyaxK-ZFJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzIx/MDA0LTE1NzIxODMy/MTMtMzI5My5qcGVn.jpeg) | 2013 | Neko At Stella | Neko At Stella |
+| 73 | ![Cover](https://i.discogs.com/LO-qy0kJLG23ep0wNXCXDuWWxfUQ5y_UTOrWbg49crM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA0/MTg4LTE1MDk5MTIz/MDAtOTYxNS5qcGVn.jpeg) | 2014 | Shireen | So Human of You |
+| 76 | ![Cover](https://i.discogs.com/1hwppRLchTSeTlBRClMzkqSoKXfj627YRWGEi1ZzIRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NzA3/MjMtMTUwNjA4NDg5/OC01OTI2LmpwZWc.jpeg) | 2014 | Shireen | Values in Blood |
+| 81 | ![Cover](https://i.discogs.com/1hwppRLchTSeTlBRClMzkqSoKXfj627YRWGEi1ZzIRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NzA3/MjMtMTUwNjA4NDg5/OC01OTI2LmpwZWc.jpeg) | 2014 | Shireen | Tiny Boxes |
+| 31 | ![Cover](http://coverartarchive.org/release/8d2964ea-9415-44d4-9614-1cb6cee4947f/6045910612-250.jpg) | 2014-01-01 | Iamthemorning | Miscellany |
+| 36 | ![Cover](https://i.discogs.com/naDLJcqlHSh624GfdbfZyzPUbWoP1hGfWv7azn6_9zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjEz/OC0xMDg1ODU0MDM4/LmpwZw.jpeg) | 2014-02-03 | Current 93 | Sleep Has Its house |
+| 65 | ![Cover](http://coverartarchive.org/release/1c10ba34-278b-48fc-9ab6-0c2a74340383/6567257508-250.jpg) | 2014-02-04 | Marissa Nadler | July |
+| 26 | ![Cover](http://coverartarchive.org/release/f2b88459-c825-43d8-b5d4-df35317b72cb/32572928823-250.jpg) | 2014-04-26 | Pyrates! | Uncharted Lands |
+| 18 | ![Cover](https://i.discogs.com/798dvDUHOrDgdGSouvwUYiH5L5HfAfieWeVWyEk0i9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTUy/NzUtMTU1MTgxNDIz/OC03NDc0LmpwZWc.jpeg) | 2015-09-04 | Joan Shelley | Over And Even |
+| 34 | ![Cover](https://i.discogs.com/INTrNEsHzKbbmfl1VtWV0bf1VlXNAQPGCNuqTlrIunU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzI5/MTk3LTE2MzkzNTE3/NDEtOTQxOS5qcGVn.jpeg) | 2016 | Graeme James | Play One We All Know, Vol. II |
+| 89 | ![Cover](https://i.discogs.com/yI5Y-EKiUZ1DyuvP5dJ4z6NJYTDsHmW3QeJfFuYGAO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTIy/MTMtMTQ2MzEwNTkx/OC00OTM3LmpwZWc.jpeg) | 2016-05-11 | Sandtimer | 209 |
+| 92 | ![Cover](https://i.discogs.com/Q4rzRyIoKOFPM9SI7FR710kBtVcd0XPW53oxADDFpJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODA5/NTYtMTQ3MDY5NDY0/MS05NDAzLnBuZw.jpeg) | 2016-08-08 | Sandtimer | Mackerel - Single |
+| 22 | ![Cover](https://i.discogs.com/3Ht_7ndDJf4vb2l1pPykpZBu_qYbFKKtycsJWPVH_Lk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTM2/NjAtMTQ3MTM1NTc0/Ny0yMjQwLmpwZWc.jpeg) | 2016-08-19 | ajj | The Baby Panda |
+| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0ce41c90f9b1b6ff68027bacba86d0c8.png) | 2016-10-07 | OneRepublic | Oh My My (Deluxe) |
+| 5 | ![Cover](https://i.discogs.com/XCpD891OH8dHsvvqE9fV-wTnhzlfyq41aU4QZLQmTTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjcx/MjMtMTQ3NzAxMDc4/MC0zOTU5LmpwZWc.jpeg) | 2016-10-21 | Kadhja Bonet | The Visitor |
+| 16 | ![Cover](https://i.discogs.com/XzmNxisPM-PmDJUSZrYxU2l_XsMNzV1nR1BGNdwcqW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzE4LTE1NzYwMjg5/MjUtNzgzNy5qcGVn.jpeg) | 2017 | The Last Revel | Hazard &amp; Fate |
+| 47 | ![Cover](https://i.discogs.com/8xM-YyFNY7xQo0lT8XhJDQM5Sg0r8-Wr4Es1TRzmivs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzY1/NjE1LTE1MjE5OTgz/NDktOTM2OS5qcGVn.jpeg) | 2017 | Railroad Earth | Captain Nowhere |
+| 91 | ![Cover](https://i.discogs.com/0107x3Vgp7yO2Ip8dD1XPxVSPH01FWR0olYF6nJZNL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTk3/NzYzLTE1MjYyNTQ5/NTgtMzgxNS5qcGVn.jpeg) | 2017-02-27 | Alyson McNamara | We All Heard Nothing |
+| 1 | ![Cover](https://i.discogs.com/mIKpJAGEmdJLvAq-nj1N2n7ZxL-GKaNyZfjwBHr0ziY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzU4/ODI4LTE0OTU5NTE0/MzctNTk1OC5qcGVn.jpeg) | 2017-03-12 | Faye Webster | Faye Webster |
+| 46 | ![Cover](https://i.discogs.com/p7iZnu9MVpbmXVjQFtfI_hyWL6zL-PpDOn0HIUOOEdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU5/ODI1LTE1MDkxMDk2/MDUtMTUzMS5qcGVn.jpeg) | 2017-10-01 | American Murder Song | II. Providence |
+| 12 | ![Cover](https://i.discogs.com/LO-qy0kJLG23ep0wNXCXDuWWxfUQ5y_UTOrWbg49crM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA0/MTg4LTE1MDk5MTIz/MDAtOTYxNS5qcGVn.jpeg) | 2017-11-03 | Shireen | Matriarch |
+| 94 | ![Cover](https://i.discogs.com/xrdF5Nrd9tra1ogBywu0T-ZUh1UM7Re_-_Aqec2-has/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY1/Mzg5LTE1NzEwNDY0/NDEtMTczMS5qcGVn.jpeg) | 2018-02-13 | Andy Billington | Mercy Mercia |
+| 44 | ![Cover](https://i.discogs.com/8dXii0yc3tkukF_MMTIJ5lnET0dnnvJ9GrM4yHQ3UZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc5/NDgzLTE1NDE4MDY3/NzItNTMzMS5qcGVn.jpeg) | 2018-11-09 | Saez | Varsovie |
+| 48 | ![Cover](https://i.discogs.com/yIhqOie687KjqJHrht9cKNO2gSJt2ydj-d-MUibuc2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQ3/MzY0LTE1NTYzOTE5/NjctOTA0NS5qcGVn.jpeg) | 2019-02-01 | Rustin Man | Drift Code |
+| 87 | ![Cover](https://i.discogs.com/5Nllo1Y8oSmOVF7XokNqxlxv09jIo-rujmzMpJh2S9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDc2/MTk1LTE2MTM2NjYy/ODQtNzgxNi5qcGVn.jpeg) | 2019-08-08 | Sandtimer | everything is on hold |
+| 57 | ![Cover](https://i.discogs.com/kiTVa__DFa5zW4y6a_f9vnUGJiuE4Sa3n9SSj2W7cKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU0/MTM0LTE1NjY5Mjc3/NjEtNzc2NS5qcGVn.jpeg) | 2019-08-23 | Gliss | In Utopia |
+| 38 | ![Cover](https://i.discogs.com/I7eLg508ZdqEbDHbdPos7oJOy3DpcURSGJmTaLZspPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njc4/MjQ5LTE2Mjc2NDc1/NjgtOTEwMi5wbmc.jpeg) | 2020-01-17 | Tsunaina | Waterways |
+| 100 | ![Cover](https://i.discogs.com/I7eLg508ZdqEbDHbdPos7oJOy3DpcURSGJmTaLZspPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njc4/MjQ5LTE2Mjc2NDc1/NjgtOTEwMi5wbmc.jpeg) | 2020-01-17 | Tsunaina | Waterways - Single |
+| 70 |  | 2020-01-19 | Alltide | Vrchy |
+| 66 |  | 2020-02-10 | Alltide | Vlnám |
+| 19 | ![Cover](https://i.discogs.com/ZuDDpUglGYrirj114yah-trnwmAsdNTCOx0SuU-fKqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDUx/NzE4LTE2MzczOTc1/NjQtNTY1OS5qcGVn.jpeg) | 2020-03-13 | IAMX | Echo Echo |
+| 99 | ![Cover](https://i.discogs.com/uIaV89tm1zbur7T17C_GeLe-UPfhNBjACf1jY7Q4hYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY3/NzEzLTE1OTU1NjYz/NzctMzU0My5qcGVn.jpeg) | 2020-05-08 | Terry Blade | Misery (Mastered for Headphones) |
+| 56 | ![Cover](https://i.discogs.com/o_rCVO-_hadiCpa9COHxwk4cswo4_gApldYVNwiwPrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzEx/NDQxLTE2Mjc4OTcz/OTUtODkzNS5wbmc.jpeg) | 2020-07-28 | Tsunaina | Unearth |
+| 60 | ![Cover](https://i.discogs.com/RN_kGw091k9IEN3qyLgB27GVGhzdTvCFN9wJI2vMmsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzEx/NTgyLTE2Mjc5MTEx/MDctNDI2Mi5wbmc.jpeg) | 2020-08-28 | Tsunaina | A Dam on the Eve of Breaking |
+| 74 | ![Cover](https://i.discogs.com/iL0Q6EAYdPeeV5fW2wJOpoKdBN5FE5tL3SYDgXeasas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTQ1/ODQwLTE2MzgwNDQ5/MTEtNTM0OC5qcGVn.jpeg) | 2021 | Cold Weather Company | Reclamation |
+| 40 | ![Cover](https://i.discogs.com/2gcW4Ci2eWAyBirzrwNRS3QS2f_yxfa6jj8-0KCVy14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzYz/NjYxLTE2MTUzMDEz/MDUtNTI2OS5tcG8.jpeg) | 2021-03-12 | The Underground Youth | The Falling |
+| 20 | ![Cover](https://i.discogs.com/hupvGE980g5YD-6Fu8uoSZN6ZEPYBPrPXZzvM4DuFgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzc2/MTE3LTE2MzU2Mjkz/OTEtNDczMS5qcGVn.jpeg) | 2022-02-04 | Marissa Nadler | The Wrath of the Clouds |
+| 11 | ![Cover](https://i.discogs.com/1StUhAi-ONhqIgrZx9XJb4t2MXHQIcVwLMAbXe6yB9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjQz/MDYzLTE2NDgyMzQ4/MzEtMzQ4NS5qcGVn.jpeg) | 2022-03-25 | Emma Ruth Rundle | Orpheus Looking Back |
+| 17 | ![Cover](https://i.discogs.com/Rmib6X0TpI0TPCS--Uzz_hz1TjfLoPMEQD6gzDHk4Bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTI3/MTkxLTE2NTE3OTc2/MzEtMTgzOS5qcGVn.jpeg) | 2022-04-29 | Graeme James | Play One We All Know |
+| 27 | ![Cover](https://i.discogs.com/Rmib6X0TpI0TPCS--Uzz_hz1TjfLoPMEQD6gzDHk4Bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTI3/MTkxLTE2NTE3OTc2/MzEtMTgzOS5qcGVn.jpeg) | 2022-04-29 | Graeme James | One + One |

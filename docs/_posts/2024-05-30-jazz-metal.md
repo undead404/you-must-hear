@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2024-05-30T22:26:14.944Z
+permalink: tags/jazz-metal
+title: jazz metal
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 95 | ![Cover](https://i.discogs.com/xeNzH15mR2C56AsNfuJeY3PuZC4VWaYbyAiSVp9-xLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjA3/MTQtMTI1MjUzNzcw/Mi5qcGVn.jpeg) | 1985-10-07 | Kalashnikov | BANG BANG |
+| 46 | ![Cover](http://coverartarchive.org/release/bab30367-ea0c-45aa-a8fb-24fa6bef14aa/33027241924-250.jpg) | 1988 | Cynic | 1988 Demo |
+| 86 | ![Cover](http://coverartarchive.org/release/aba86cdc-fee5-4e91-ad59-834397ac8feb/24239934856-250.jpg) | 1990 | Cynic | 1990 Demo |
+| 56 | ![Cover](http://coverartarchive.org/release/dfcf342a-e8c0-3e6a-848c-28dcbbfc594a/13513483649-250.jpg) | 1991 | Painkiller | Guts Of A Virgin |
+| 72 | ![Cover](http://coverartarchive.org/release/e4521532-6392-45eb-92a8-784033de7509/2571993471-250.jpg) | 1991-08-30 | Atheist | Unquestionable Presence |
+| 32 | ![Cover](http://coverartarchive.org/release/4dfe9bfd-a570-4e62-963a-9bf23fe6540b/4308935002-250.jpg) | 1992-04-17 | God | Possession |
+| 96 | ![Cover](https://i.discogs.com/PR2A2BKqwzq_YkNXfUIgWC6CVd8Vd71LbsE3SFPZ7Aw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAy/NzQ1LTE1NDQzMDg0/NjktNzQ3MS5qcGVn.jpeg) | 1993 | Cynic | 1989 Demo: Reflections of a Dying World |
+| 18 | ![Cover](http://coverartarchive.org/release/2a3dab5a-2d3b-4c07-aef6-d806d6ea920d/23415824129-250.jpg) | 1993-08-30 | Atheist | Elements |
+| 23 | ![Cover](https://i.discogs.com/0i9so85ZrpkFlu4FYyFxdQTOVPqjliIg2oilzW5Ckxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTU4/Ni0xMTQzOTg5MDk3/LmpwZWc.jpeg) | 1993-09-14 | Cynic | Focus |
+| 47 | ![Cover](http://coverartarchive.org/release/a0ce83a1-0646-4fba-995f-e1b3f5ae7c6f/13513410857-250.jpg) | 1994 | Jonas Hellborg Group | E |
+| 83 | ![Cover](https://i.discogs.com/DgIX4Xr2wc48bDapTqKzVtK9Dtima-qJ8VQucBl6lOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTYx/NzMtMTQ4MzM4NTUw/OS02NDU2LmpwZWc.jpeg) | 1997 | Echosilence | ...And Sorrow |
+| 49 | ![Cover](https://i.discogs.com/Wv8slA_Ao7tnZpNH-xwZ_348Jy6rRGXeAvF1Qy0-N00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTg5/OC0xMzM5MTU2MjU1/LTQ4NjMuanBlZw.jpeg) | 1998 | Echosilence | Eclectic Collaborations |
+| 14 | ![Cover](http://coverartarchive.org/release/118bc60b-9c40-31db-a0b9-b0540de7cfd1/10844366147-250.jpg) | 1999 | On the Virg | Serious Young Insects |
+| 21 | ![Cover](http://coverartarchive.org/release/c265fe49-0872-4fa4-bfbf-92294c6381bc/14347511435-250.jpg) | 1999 | Fleurety | Last-minute Lies |
+| 57 | ![Cover](https://i.discogs.com/M06XeZjEF-iCjRxvbRy438c8IGY5ZL6JDd14_d8lRQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzY2/ODgtMTIwMjc2MDQ1/NS5qcGVn.jpeg) | 1999 | American Heritage | Why Everyone Gets Cancer |
+| 88 | ![Cover](http://coverartarchive.org/release/9c4ebf15-02b2-45cd-b89b-134bcfb2a46f/33397155894-250.jpg) | 1999 | Aghora | Aghora |
+| 44 | ![Cover](http://coverartarchive.org/release/fe3674e7-7136-40ea-a71d-f58b6471d14d/4891325432-250.jpg) | 1999-01 | Carnival in Coal | Vivalavida |
+| 48 | ![Cover](http://coverartarchive.org/release/9e3e8cc0-a184-419c-b69c-ef7763978be0/4825147818-250.jpg) | 1999-03-05 | Gordian Knot | Gordian Knot |
+| 67 | ![Cover](http://coverartarchive.org/release/c8ff4084-51cd-41e9-aff6-eb641714f6b4/20423275593-250.jpg) | 1999-06-07 | Ministry | Dark Side of the Spoon |
+| 24 | ![Cover](https://i.discogs.com/5hXU1JZkuf6qeJ1N7-XDP82dg7TQHLUezA7Z98UeDYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDk3/MDYtMTM1NTU0NjM2/MS03MjM2LmpwZWc.jpeg) | 2000 | Anomaly | Anomaly |
+| 80 | ![Cover](https://i.discogs.com/k6zYvlTiuA2qdO8xIkkw0FBe_GVBQvKp4gMX8-YyGCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDI1/MzQtMTQ2MzMzMzk0/MS00NzA5LmpwZWc.jpeg) | 2000 | Red Tide | Type II |
+| 79 | ![Cover](http://coverartarchive.org/release/a067762b-18ef-454f-b4d1-0e6d33d33882/32985489743-250.jpg) | 2000-05 | Ephel Duath | Rephormula |
+| 33 | ![Cover](https://i.discogs.com/WgJDUYJ7Io0-AAOPQvcUj-aFuD3F6kQlF-0iCs-Fhck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTUz/MjMtMTUwMjQ4MjAy/MS0xOTUyLmpwZWc.jpeg) | 2001 | Haji's Kitchen | Sucker Punch |
+| 11 | ![Cover](https://i.discogs.com/GIr_JLKCoxMOcBrrBnQ46k8nFFaQWpGqWbOnJ6tsYAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTcy/MjYtMTYwNzA0MjM4/OS00OTk4LmpwZWc.jpeg) | 2002 | Coprofago | Genesis |
+| 68 | ![Cover](https://i.discogs.com/bAZQFoM1TUQMKoqeHVgdk9ln-0QUA2zSkbiq4yTBsB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQz/OTEtMTYwMjE3MDAx/OC00MTM1LmpwZWc.jpeg) | 2002 | Planet X | Live From Oz |
+| 42 | ![Cover](https://i.discogs.com/4_d1iENMMWdWHFnjD0KrOZOW7MS171XUPDvxG_r_YnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDM4/NjAtMTM1MjAxMDg0/MC02ODA5LmpwZWc.jpeg) | 2002-03-20 | Joey Tafolla | Plastic |
+| 6 | ![Cover](https://i.discogs.com/J9G_oSftg9LLmpx1d03P3y4fLzfUCnHkWij9ENooa5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDQ2/NC0xMTY1MjU1NDA3/LmpwZWc.jpeg) | 2003 | Ephel Duath | The Painter`s Palette |
+| 25 | ![Cover](https://i.discogs.com/J9G_oSftg9LLmpx1d03P3y4fLzfUCnHkWij9ENooa5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDQ2/NC0xMTY1MjU1NDA3/LmpwZWc.jpeg) | 2003 | Ephel Duath | Painter's Palette |
+| 97 | ![Cover](https://i.discogs.com/RM2__mIfPd2TslQWqIcd5OLb_WFnMD2Vtj_rzeyFC3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDIy/MS0xNzEyMDkxNzU2/LTIzODYuanBlZw.jpeg) | 2003 | Mr Black | Ascension Muthafuckas!! The Mr Black Bootleg Series Vol. 1 |
+| 5 | ![Cover](http://coverartarchive.org/release/967404d8-716d-4d06-a7e5-9c4ceb7fd8a3/19427627667-250.jpg) | 2003-05-19 | Ephel Duath | The Painter's Palette |
+| 19 | ![Cover](http://coverartarchive.org/release/90687b3b-aa38-440c-8710-e42bde0d875c/990331632-250.jpg) | 2003-08-18 | Darth Vegas | Darth Vegas |
+| 22 | ![Cover](https://i.discogs.com/OEvZ_och5L7VHqGZBkiY455iAMrrY7NQ-wkPtShkcOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ0/NDEtMTM2MzE4Nzkw/Mi04MDYyLmpwZWc.jpeg) | 2004 | Le Scrawl | Eager to Please |
+| 10 | ![Cover](http://coverartarchive.org/release/49a75866-e04b-4884-8cca-602fc5eae754/30887545312-250.jpg) | 2004-07-27 | Trevor Dunn's Trio-Convulsant | Sister Phantom Owl Fish |
+| 9 | ![Cover](http://coverartarchive.org/release/a6a568d2-5a1c-44a3-b116-ed5a11c09613/11903199021-250.jpg) | 2005 | Panzerballett | Panzerballett |
+| 35 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6d492ed04efa4e6a9ec8a9ffc0fe2d98.png) | 2005-01-24 | Shining | In the Kingdom of Kitsch You Will Be a Monster |
+| 12 | ![Cover](http://coverartarchive.org/release/54af904c-0a60-4f55-b3ac-db8c962dce41/18376350671-250.jpg) | 2005-02-13 | Continuo Renacer | Continuo Renacer |
+| 13 | ![Cover](https://i.discogs.com/ZnRJ2a4hgD2qNxHnZI9h5HuSUQDfiqXnV-mr45C9XBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDc5/MS0xNjIzMjI3NzIy/LTIwNzQuanBlZw.jpeg) | 2005-03-22 | Ultralyd | Chromosome Gun |
+| 66 | ![Cover](https://i.discogs.com/Beq9YFiSMIrVuJrQNYpVj7ku7nX9c7Gg3zen2AXJl7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxODAz/MS0xMzkwNTE2ODQ5/LTY2MjQuanBlZw.jpeg) | 2005-08-15 | Echosilence | Distorted Horizon |
+| 3 | ![Cover](http://coverartarchive.org/release/1b4389ad-d198-4272-b9da-cf01666be10e/19427644119-250.jpg) | 2005-11-07 | Ephel Duath | Pain Necessary To Know |
+| 63 | ![Cover](https://i.discogs.com/ukPNsrJAR89OX_ZMOlnIavRXoxwFJppyXR8Lkmeep2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjQ0/OTktMTMzMzg0OTUz/OC5qcGVn.jpeg) | 2006 | Citriniti | Between the Music and Latitude |
+| 100 | ![Cover](https://i.discogs.com/9FYlD5lc6svzW51s0L2nWlVlAVnWMWp_lG7tz4xMS_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTEz/NDktMTM1MDQ2NDg0/Ni0zODE4LmpwZWc.jpeg) | 2006 | On the Virg | Serious young insect |
+| 76 | ![Cover](http://coverartarchive.org/release/cd45f8f1-a0e8-4225-b864-c2ff58e4f54c/16110213518-250.jpg) | 2006-05-16 | Don Caballero | World Class Listening Problem |
+| 37 | ![Cover](http://coverartarchive.org/release/35b41b77-c4f8-3c1f-8041-901565f9f45d/1111418808-250.jpg) | 2006-08-17 | Diablo Swing Orchestra | The Butcher's Ballroom |
+| 7 | ![Cover](http://coverartarchive.org/release/35c5a371-44d7-43cb-a246-b7eb2135d674/4224751801-250.jpg) | 2007 | 1980 | 1980 |
+| 34 | ![Cover](https://i.discogs.com/_2gwHYj20UgbVlnQ1PA1jiNeQHTJp63iDDiH4K4-V6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA4/NzI4LTE1MTM4OTY1/NzgtODAyNy5qcGVn.jpeg) | 2007 | Kids Eat Crayons | Kids Eat Crayons is for Lovers |
+| 94 | ![Cover](http://coverartarchive.org/release/f096f6e2-2f24-4d8e-8067-b8f8b5a42cf9/4023434798-250.jpg) | 2007-01-29 | Shining | Grindstone |
+| 30 | ![Cover](https://i.discogs.com/T_dc7bnc_u5KIPub2dPEAsMfDz_sk3nLWtKiKnXFt6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODY2/ODQtMTQxMDcxNTYx/Ni02MjkzLmpwZWc.jpeg) | 2008 | A Fashionable Disease | A Fashionable Disease |
+| 59 | ![Cover](https://i.discogs.com/T_dc7bnc_u5KIPub2dPEAsMfDz_sk3nLWtKiKnXFt6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODY2/ODQtMTQxMDcxNTYx/Ni02MjkzLmpwZWc.jpeg) | 2008 | A Fashionable Disease | Untitled Album |
+| 61 | ![Cover](https://i.discogs.com/dehYUmnZza7Jp1aaaHDeSRgYDmagv_ambzIWpjkHk-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTg1/NzItMTQyMTk2NjEw/Ny0yNDczLmpwZWc.jpeg) | 2008 | Citriniti | Hydra Odd World |
+| 92 | ![Cover](https://i.discogs.com/S1HugZCL5hvZnoPXspe3VkeO6hBUf60XbmpcNqoZuBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc2/OTQtMTUyOTE4MDQ4/OS03NzI2LmpwZWc.jpeg) | 2008-09-12 | Dog Fashion Disco | Beating A Dead Horse To Death... Again |
+| 93 | ![Cover](https://i.discogs.com/S1HugZCL5hvZnoPXspe3VkeO6hBUf60XbmpcNqoZuBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc2/OTQtMTUyOTE4MDQ4/OS03NzI2LmpwZWc.jpeg) | 2008-09-12 | Dog Fashion Disco | Beating a Dead Horse to Death... Again |
+| 50 | ![Cover](https://i.discogs.com/UNUuQLAC4Y323xcIRVzzEPL5-VDEQ_n-4GGLgcOUHK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzQ2/ODQtMTMxNzM3NzU4/NS5qcGVn.jpeg) | 2009 | Counter-World Experience | Metronomicon |
+| 17 | ![Cover](http://coverartarchive.org/release/14a1847e-271c-43da-80a6-582e34f44f0a/15238083863-250.jpg) | 2009-02-17 | Zu | Carboniferous |
+| 52 | ![Cover](https://i.discogs.com/EdY410gTx245ByVWY1qeAhZyRatQXo1_NsvALR1rZUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDkw/NjAtMTI3MDU4MTc0/Ny5qcGVn.jpeg) | 2009-05-11 | Exivious | Exivious |
+| 84 | ![Cover](https://i.discogs.com/J9PM3DhHedidTTrccXsvJDqmWDgoI_K-AcK7Eox2vmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTUz/MjAwLTE2NjAwOTI2/OTAtNjI5Ni5qcGVn.jpeg) | 2010 | Horeja | La Mas Desechable De Todas Las Maquinas |
+| 1 | ![Cover](http://coverartarchive.org/release/09607242-9d17-3800-99f9-dd1933b49121/4023323401-250.jpg) | 2010-01-18 | Shining | Blackjazz |
+| 27 | ![Cover](http://coverartarchive.org/release/840b3529-e374-4e8a-9bd4-69d440d493e2/20395858094-250.jpg) | 2010-03-18 | Kathaarsys | Intuition |
+| 28 | ![Cover](https://i.discogs.com/GIBopPwMQx2JrTNDsesnax0pz4PoSRvezlaROM-A9xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODM2/MzgtMTM2OTA3NzQw/My05NDU0LmpwZWc.jpeg) | 2010-11-10 | Acrania | Unbreakable Fury |
+| 58 | ![Cover](https://i.discogs.com/JXFi4tyUAZVNDlH5XGUHraoEHFbiM11E4BEjNge6_Ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzY0/MTMtMTMzMDMzMDYz/NC5qcGVn.jpeg) | 2011 | The Dr. Orphyus Project | Death Jazz |
+| 82 | ![Cover](https://i.discogs.com/jX4y_9R5tCtjZs0NbQiVYUZ97573ZIqvht4qN5PQ_uk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTQ1/MDUtMTUxNTkzOTU1/NS0zNzcyLmpwZWc.jpeg) | 2011 | White Walls | Mad Man Circus |
+| 26 | ![Cover](https://i.discogs.com/zvvxl5FsiU9O-Gq9BldxaXLjSR_hOQN5Q8CbOC9Grp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDM4/OTktMTYzODE4MzA2/NS05MTEyLmpwZWc.jpeg) | 2011-01-12 | Korekyojinn | Tundra |
+| 78 | ![Cover](https://i.discogs.com/YuF6ucK9gwG5674iB3jY3a7SlR95CKnu5KszGL44N4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDM5/MTktMTU5NTE3OTcy/NS0zMTE3LmpwZWc.jpeg) | 2011-12-20 | Akkolyte | Clues in the Chaospile |
+| 64 | ![Cover](https://i.discogs.com/_rDgALbA3DPJvmPDYDqXaJelHJmKcAjWeWA2l3AureA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDUw/NzAtMTM3MzQzNjQ0/OC0yNjIyLmpwZWc.jpeg) | 2012-08-01 | Jerseyband | Forever Hammer |
+| 8 | ![Cover](https://i.discogs.com/-O4A-gAd4T89Wjhy1uYP0Rz3zr1y9d5sIRVbj6IPzfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjQ5/MjgtMTM0OTQzNDUw/MC0zNTc3LmpwZWc.jpeg) | 2012-09-27 | Panzerballett | Tank Goodness |
+| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/86ee4da713b18b17497aa5c9d7146aae.png) | 2012-10-23 | Connor Engstrom | The Final Countdown (Swing Metal Cover) |
+| 43 | ![Cover](http://coverartarchive.org/release/1ae855f7-d228-44bc-843b-d29dc5e5e90c/33458275077-250.jpg) | 2013 | Zevious | Passing Through the Wall |
+| 74 | ![Cover](https://i.discogs.com/JFLpikIGmu2AeVl3nrA3KikMaKwRDA_OVkxbSJXymCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTc3/ODYtMTM5NDkxNDAx/NS0xNjQ1LmpwZWc.jpeg) | 2013 | Mindwork | Eterea |
+| 31 | ![Cover](http://coverartarchive.org/release/d668196f-0053-4faa-a844-4732943e03c9/4171250258-250.jpg) | 2013-04-06 | Shining | One One One |
+| 99 | ![Cover](https://i.discogs.com/bNdrTP4KdUpYzfpt5pRR1rAzLI557wl7npmWx-ITAXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTcx/MjQtMTMzNTE2ODQ0/MS5qcGVn.jpeg) | 2013-05 | Tectum | Jingle Bell Rock |
+| 51 | ![Cover](https://i.discogs.com/E7SiWpJnnPpLGUpKaJEj6IjYM7SM_ZOIUsJOsj25XkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjUx/MzktMTYyNTkyOTY4/NC01MDkxLmpwZWc.jpeg) | 2013-10-01 | Hyrrokkin | Pristine Origin |
+| 65 | ![Cover](http://coverartarchive.org/release/c0a5d23a-157e-4f87-a007-5cecf5810d22/9232114501-250.jpg) | 2013-11-08 | Exivious | Liminal |
+| 85 | ![Cover](https://i.discogs.com/wqRQ-mKQvJrmblzE4Sl2fgWKlfWsDchZT2as66jtenk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkz/NjE5LTE1OTYwMzYw/NDUtNTQ3Mi5qcGVn.jpeg) | 2014-02-01 | Uzumaki | Knowledge of a Language One Has Never Learned |
+| 71 | ![Cover](https://i.discogs.com/KOzUJSNnHOHkiVH1FLecjoiJDKnNZ_m1rhN1Gtkn4NI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA1/MDE3LTE1MTM4MjU2/OTEtMTE4Ny5qcGVn.jpeg) | 2014-02-15 | Kids Eat Crayons | Dogs at Play Among the Ruins |
+| 15 | ![Cover](https://i.discogs.com/K8sex0exeHtJILV8c0X4VmLznHFn9GkqAz-diy4RTaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTgy/NjctMTU5NTgwMzYz/OC00MzY1LmpwZWc.jpeg) | 2015-03-24 | Zu | Cortar Todo |
+| 91 | ![Cover](https://i.discogs.com/3Y7ugpCMkt1FrQGzPzJt7Ge6MalWvNVRF66XYreAb1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkz/NjUyLTE1OTYwMzY0/NDUtODk4Ni5qcGVn.jpeg) | 2015-05-20 | Uzumaki | Glottology |
+| 90 | ![Cover](https://i.discogs.com/qMHSUw49ZvVlaiFnPxIgbZK1hJsX_2-GLBz-dG8Fg0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTA4/MTYtMTQ4NDgzMTU4/Mi04NTkxLmpwZWc.jpeg) | 2015-08-16 | The Blessed Beat | MiV |
+| 29 | ![Cover](https://i.discogs.com/nTzln1IzLY1lpDiUH24ITNW6SW31ryOSdTp7wHUN9y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTkz/OTYtMTQ2MDg1NDQ2/MC05NzgwLmpwZWc.jpeg) | 2015-09-25 | Sound Struggle | Rise |
+| 16 | ![Cover](https://i.discogs.com/QK5ZStD_stx6eClnoGzxO-hBqVsLptJYyc-r2b8hgvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTI2/MTEtMTQ3NDk4NzIx/MS05ODAwLmpwZWc.jpeg) | 2016-09-30 | Brain Tentacles | Brain Tentacles |
+| 73 | ![Cover](https://i.discogs.com/tz7i-AoQb3seJ1dPSsNf-QILj4uTZitX2v9wc2OCTko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDg4/Nzk0LTE1MTcyMjg0/NDAtNzU3NC5qcGVn.jpeg) | 2016-10-10 | Li'ed | The Mist Within |
+| 87 | ![Cover](https://i.discogs.com/qKMCrpZpc-oaGqy2uXRx0u2TWMUeH_bVyTYCrFdqJRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk5/MjAxLTE1MTU2Mjg5/MjktOTczMi5qcGVn.jpeg) | 2017-01-01 | Utopianisti | Brutopianisti |
+| 55 | ![Cover](https://i.discogs.com/xOJ-9B0ZYimJEIeiV3AZSFdJxRD0WE6vt8-XuQTKdVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU2/NTgxLTE1MDkwNDAx/OTUtNTcyOS5qcGVn.jpeg) | 2017-08-03 | Traun | The Lilac Moon |
+| 62 | ![Cover](https://i.discogs.com/kwYDmtNghqxJMqc43pEIKH3BDSSKZ3xcujM6GGvFCPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk4/ODg3LTE1MDk4MjU5/MzUtOTc5OC5qcGVn.jpeg) | 2017-11-03 | Traun | Escape From Spa 9 |
+| 2 | ![Cover](https://i.discogs.com/AwAak-n2MqTHsZTklF-e79vNhqQrP2F2zaAqkXg5IaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjUy/OTc0LTE2NDA3MDA3/MjctOTg1OC5qcGVn.jpeg) | 2017-12-08 | Diablo Swing Orchestra | Pacifisticuffs |
+| 36 | ![Cover](https://i.discogs.com/4TUqb0IWPdLWL4EZzJDWCcjyuk1H9hTUdvOLVtmkrVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDUw/NTAtMTMzNDY4MTU0/NC5qcGVn.jpeg) | 2018 | Cynic | 1991 Demo (Roadrunner) |
+| 54 | ![Cover](https://i.discogs.com/xNufx7Qt3PMLGpu1yE5lLcJYhHUHm36TIPLjlz_qMwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI4/MDc3LTE1NTc5MzMw/NTEtNzc0My5qcGVn.jpeg) | 2018 | STEORRAH | The Altstadt Abyss |
+| 20 | ![Cover](https://i.discogs.com/h6tu6U8UBLAi_CGbYaXpFQhWMZSRHmMnvulYZ89099Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI4/OTA0LTE1MjMwOTA3/MTAtOTM4My5qcGVn.jpeg) | 2018-04-06 | Messa | Feast for Water |
+| 53 | ![Cover](https://i.discogs.com/SoDXUEJcBUbwr4dXsXd9YoWRemubublknDxUcp1wylg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcx/NTgzLTE1NDE2MjY1/NDEtNzYxNi5qcGVn.jpeg) | 2018-10-12 | DRH | Thin Ice |
+| 60 | ![Cover](https://i.discogs.com/gbIBGNkE59nFLy1D9uBFKHqBCUGzi6XmDWAyJQWNJhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc0/ODA2LTE1NTExODM4/OTEtMjgxNS5qcGVn.jpeg) | 2018-11-09 | Thoren | Gwarth I |
+| 89 | ![Cover](https://i.discogs.com/YSGJmaQ4faeNfTDCFXRUnNkfPpz1lh7KklqEkVKHxAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDc5/MDA5LTE1OTYxNTA5/MTctNzYxMC5qcGVn.jpeg) | 2019-07-15 | Uzumaki | Spoken in Tongues |
+| 38 | ![Cover](https://i.discogs.com/cX7tz-zOpRb0vNFrWr4p_yJ0dlXY4za97tY_NaPW2e8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDE3/ODMxLTE2MDE5Njgy/ODAtNzM4MC5qcGVn.jpeg) | 2020 | Kilter | Axiom |
+| 70 | ![Cover](https://i.discogs.com/8WJAov1SXBlCoi4DNnl1xjxhXzPPO4xt_Adxt8xiUoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQx/MTgzLTE1ODY5ODE0/NTctODcwOS5qcGVn.jpeg) | 2020 | Phonon | Alloy |
+| 75 | ![Cover](https://i.discogs.com/5BmBImEzum-8W_7F2SSfgyuYE2BUHGF2Y8jPM3OGKWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI1/NDYwLTE2MDIwOTc0/NTMtNzgyNC5qcGVn.jpeg) | 2020-06-16 | Echidna | Escape from Civilization |
+| 98 | ![Cover](https://i.discogs.com/uQBnLpaEGjhFfLfqY7OxaqVOcTTAKC_OtVOY1VH6OEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjI2/NDcyLTE2MDU1OTMw/MjQtMTI2My5qcGVn.jpeg) | 2020-10-31 | Nahr Alhumam | Transmogrification |
+| 40 | ![Cover](https://i.discogs.com/zjhCqGj2J_DcN6NAq0XhdQYl250F0JxkbcgbidtsCE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE2/NDc4LTE2Mjk4ODcw/MTktMjg3Ni5qcGVn.jpeg) | 2020-12-11 | Le Grand Sbam | Furvent |
+| 69 | ![Cover](https://i.discogs.com/pw2oV84eCCQ3By5eZ5-mN1duPtuPr30dSx8P8fW9Ifc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjM0/NTY3LTE2NDUzNjcy/ODItNTcxNC5qcGVn.jpeg) | 2021-06-18 | SISSY XO | Keep Staring at Me Like that and Ill Fuck Your Dad. |
+| 4 | ![Cover](https://i.discogs.com/lWzDW4679YaSeHA0tXjBJdWCvXHAET7aS5JDOe0R-vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTIw/NDk4LTE2NDc5Nzgx/ODctNjc3NS5qcGVn.jpeg) | 2021-11-05 | Diablo Swing Orchestra | Swagger &amp; Stroll Down the Rabbit Hole |
+| 81 | ![Cover](https://i.discogs.com/CPqba2glOSyJ8luVni5Asg28cPCLYRXpTs2L6WDKzX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjQy/MDI4LTE2NDgyMzAw/MDYtNDAxNi5qcGVn.jpeg) | 2022-04-08 | Abhorrent Expanse | Gateways To Resplendence |
+| 39 | ![Cover](https://i.discogs.com/AX4OCvNrCKl92OsOOUQJ4vVEZHQQamMH3dEjQ1Xe23Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDM4/ODk5LTE2NjI1MzYw/NDAtNTk4Ni5qcGVn.jpeg) | 2022-06-03 | CKRAFT | Epic Discordant Vision |
+| 77 | ![Cover](https://i.discogs.com/AX4OCvNrCKl92OsOOUQJ4vVEZHQQamMH3dEjQ1Xe23Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDM4/ODk5LTE2NjI1MzYw/NDAtNTk4Ni5qcGVn.jpeg) | 2022-06-03 | CKRAFT | Drowning Tree |
+| 41 | ![Cover](https://i.discogs.com/5J8VEHvQ1BNzRV4Z7WprVaw6b9tYNR2tefGtSXitRhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQy/Mjk4LTE2ODgxNjk3/MTQtNjkwNS5qcGVn.jpeg) | 2023-06-16 | Sarmat | Determined To Strike |

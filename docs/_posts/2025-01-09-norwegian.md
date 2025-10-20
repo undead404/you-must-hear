@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2025-01-09T13:56:38.380Z
+permalink: tags/norwegian
+title: norwegian
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 60 | ![Cover](https://i.discogs.com/zVygLdzrFaQQ57Pp77d39iwv80-MLL6T1eOIAMZxubc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzQx/OTgtMTQzODU0MzAw/OC00ODg3LmpwZWc.jpeg) | 1974 | Madrugada | Madrugada |
+| 61 | ![Cover](http://coverartarchive.org/release/d487421f-4c2e-4f92-9d62-4002d2f0c5c2/14720742398-250.jpg) | 1984 | a-ha | Take on me |
+| 51 | ![Cover](http://coverartarchive.org/release/c8435939-e321-4eae-926d-5ce1b501aafd/32963361492-250.jpg) | 1985-06-01 | a-ha | Hunting High and Low |
+| 40 | ![Cover](http://coverartarchive.org/release/1920db8c-1d80-43e5-805e-8b1e0a95d8be/10955415640-250.jpg) | 1988-03-14 | a-ha | Stay on These Roads |
+| 89 | ![Cover](https://i.discogs.com/Z27sulEbvVtbEzOICQYiHX_S8hULv82hBqQ5gfxGmz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzE3/LTE0NDI2MjQ0NzEt/MzcwNS5qcGVn.jpeg) | 1993 | Gabrielle | 5 fine frøkner |
+| 32 | ![Cover](https://i.discogs.com/Fd6XhQzexy8D1xfvskfVNYSXPXqEz95aqN97N-Olrfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjgx/LTExNTk3NDYxMDQu/anBlZw.jpeg) | 1998 | Sigrid | Burning Bridges |
+| 43 | ![Cover](https://i.discogs.com/xFyjf7MGoBwsGFwN5LXJH27ydFmCVegHgsW0HHEHsEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzQ5/Ni0xMzAwMDI5NDkz/LmpwZWc.jpeg) | 1998-04 | Burzum | Burzum/Aske |
+| 86 | ![Cover](https://i.discogs.com/4fNvNL_WLSDnndsjNoECa9zsK3-2-acy9vVKbeZAouw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTQ3/NC0xMTE2OTY1NzA2/LmpwZw.jpeg) | 2000 | Aurora | I Went Too Far (MK Remix) |
+| 37 | ![Cover](https://i.discogs.com/WddkySPWPhftlqU2mNuq5mJJzpsrVCvPRUwkEAw56Qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODk0/LTEyMjU2Njc2MjIu/anBlZw.jpeg) | 2000-07-10 | a-ha | Minor Earth | Major Sky |
+| 29 | ![Cover](https://i.discogs.com/WYQVAZi5UcceKLtlUCoZaCG2NrsGVDpoQ1Eyj_sjZII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTcy/Njg5LTE1OTM5NzYy/NDYtMzE0OC5wbmc.jpeg) | 2001 | Aurora | Scarborough Fair |
+| 87 | ![Cover](https://i.discogs.com/JO0zdzfahcuneXWj_MGj0-aVNYzx4axXLq_OOanF9YM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTkw/MTM3LTE3MjA2ODcy/NzItOTUyNS5qcGVn.jpeg) | 2001 | Aurora | Animal Soul |
+| 36 | ![Cover](https://i.discogs.com/nsHvGtI17Zfv6BnlOC-vjOzrg4s5AqFF5Bd_vuvvStg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NzQ1/LTE2NjUzMzI2NzEt/NDgzNC5qcGVn.jpeg) | 2001-01-29 | Kings of Convenience | Quiet Is the New Loud |
+| 77 | ![Cover](https://i.discogs.com/akoXgwuFKOrSEH0Nd3s55UMpGeDQ2_5pTQFTpoMR9tY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjY3/NS0xMTc2MDQ0MTU1/LmpwZWc.jpeg) | 2001-03-01 | Madrugada | The Nightly Disease |
+| 50 | ![Cover](http://coverartarchive.org/release/62b6186a-845d-4b39-be26-e2c5ef762fb5/14681498497-250.jpg) | 2001-09-01 | Kaizers Orchestra | Ompa til du dør |
+| 99 | ![Cover](http://coverartarchive.org/release/5c523455-26fd-434d-873c-c4039606d0c3/24357097154-250.jpg) | 2001-09-10 | Sondre Lerche | Faces Down |
+| 94 | ![Cover](http://coverartarchive.org/release/ad3244de-1c41-4eb2-a090-7ac797ed4b0a/20032202540-250.jpg) | 2001-10 | Thomas Dybdahl | That great october sound |
+| 5 | ![Cover](https://i.discogs.com/7JhIO-REkJRzLcdPLzbMTc6tRPVgc0elPGi0jLGvT6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTcw/Ny0xMTgzMjQ0OTYy/LmpwZWc.jpeg) | 2002 | Aurora | Cure For Me |
+| 18 | ![Cover](https://i.discogs.com/niXEIKOEyy3UvCX7RTwpD0znQ7SRgZV0Vpk_pWzGLHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTA4/OTk3LTE2Mzc3ODI3/MjEtNzQ5My5qcGVn.jpeg) | 2002 | Aurora | Midas Touch |
+| 22 | ![Cover](https://i.discogs.com/Zrm-JlCeGUrt7ad2awTOJI3GVFWfSxF45yDct1cWqWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzIw/NS0xMzcyMjIyMjc3/LTc2NTAuanBlZw.jpeg) | 2002 | Aurora | Runaway |
+| 25 | ![Cover](https://i.discogs.com/kZEx5IQ4mFcj6oLsPbsWKB__jJABPlKkkyS0Bo-khPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzY2/ODcwLTE2NDkxMTY0/MTAtNDg1Ni5qcGVn.jpeg) | 2002 | Aurora | The Woman I Am |
+| 31 | ![Cover](https://i.discogs.com/2O9W3m-d55ORsyRIazX4VLmwAjl3dU0H0miDrX-vBSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTU5/NTEtMTQ1MzU0Njgx/Ni05MDYxLnBuZw.jpeg) | 2002 | Aurora | Conqueror |
+| 13 | ![Cover](https://i.discogs.com/9IniugbC-kcbqr-6xtToGXCWqXQwZCznbQkIhXJKyn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTA3/NzY5LTE1NTU1MTYx/MDEtOTMzNi5qcGVn.jpeg) | 2002-05-01 | Aurora | Under Stars |
+| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d2d8b0a2cda046dbc66b293491aeb1ac.png) | 2003 | Madrugada | Grit |
+| 82 | ![Cover](http://coverartarchive.org/release/79e7d819-e3fc-4df0-89ff-4bb732b443c1/20839334016-250.jpg) | 2003 | Thomas Dybdahl | Stray Dogs |
+| 78 | ![Cover](http://coverartarchive.org/release/50527efa-4879-4418-8d86-4fffe01c29ad/14081022150-250.jpg) | 2003-03-07 | Kaizers Orchestra | Evig pint |
+| 95 | ![Cover](http://coverartarchive.org/release/ef4db55b-e485-4279-bcbf-cd624db295dd/9167065307-250.jpg) | 2003-06-06 | Ugress | Resound |
+| 8 | ![Cover](https://i.discogs.com/O3yuwaGMnbJWBUGqhpN5CwiP-8MyY_2RXqkHZSz3z9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTU5/NC0xMzI1ODc2ODU0/LmpwZWc.jpeg) | 2004-06-21 | Kings of Convenience | Riot on an Empty Steet |
+| 10 | ![Cover](https://i.discogs.com/O3yuwaGMnbJWBUGqhpN5CwiP-8MyY_2RXqkHZSz3z9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTU5/NC0xMzI1ODc2ODU0/LmpwZWc.jpeg) | 2004-06-21 | Kings of Convenience | Riot On an Empty Steet |
+| 11 | ![Cover](https://i.discogs.com/O3yuwaGMnbJWBUGqhpN5CwiP-8MyY_2RXqkHZSz3z9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTU5/NC0xMzI1ODc2ODU0/LmpwZWc.jpeg) | 2004-06-21 | Kings of Convenience | Riot on an Empty Street |
+| 92 | ![Cover](http://coverartarchive.org/release/9f88c35d-37d6-4f18-a869-94fa0f18afc5/35403610043-250.jpg) | 2004-08-16 | The National Bank | The National Bank |
+| 53 | ![Cover](http://coverartarchive.org/release/912971e6-7c55-447c-bd99-42033294eef3/9479740370-250.jpg) | 2005-02-07 | Ane Brun | A Temporary Dive |
+| 28 | ![Cover](http://coverartarchive.org/release/4c86af92-4f02-4223-bfae-85d613acd078/8650256385-250.jpg) | 2005-07-19 | a-ha | Rhino Hi-Five: A-Ha |
+| 64 | ![Cover](https://i.discogs.com/8VXIxGZaTBrvn0vXCvs0EozCsz-9z6OssJ1XzdAcgQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxODYz/NC0xNDMyNjc2NTc5/LTk5MjMucG5n.jpeg) | 2005-08-15 | Kaizers Orchestra | Maestro |
+| 44 | ![Cover](http://coverartarchive.org/release/c5272ece-c9ef-4b59-93e9-86933928e900/7826835304-250.jpg) | 2005-09-26 | Anja Garbarek | Briefly Shaking |
+| 49 | ![Cover](https://i.discogs.com/SgIV61fLwu9opPOhYHn2ku6HcF8xVL4p5ZOE_M0RQb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzM1/MTItMTQ1NzYzNDIx/My00MDczLmpwZWc.jpeg) | 2006-08-28 | Sondre Lerche | Phantom Punch |
+| 56 | ![Cover](https://i.discogs.com/4Tzx8yX2LohcOeg3vs2bv6aTpaqCrC4uZlaNrvt7hzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDk1/NjItMTI0MDkwNDUx/Mi5qcGVn.jpeg) | 2009 | Kaizers Orchestra | Hjerteknuser |
+| 62 | ![Cover](http://coverartarchive.org/release/14b6ef82-a25f-3698-b1d1-4c2a53133685/27492842731-250.jpg) | 2009-10 | Kings of Convenience | Declaration of Dependence |
+| 69 | ![Cover](http://coverartarchive.org/release/d8c3e1d2-cfce-44a8-9e08-a5a242cea399/8871548519-250.jpg) | 2009-10-19 | Donkeyboy | Caught In A Life |
+| 93 | ![Cover](http://coverartarchive.org/release/3c0ee85d-f641-30c8-98f3-942a18aac1ca/3464785017-250.jpg) | 2010-09-08 | Röyksopp | Senior |
+| 65 | ![Cover](http://coverartarchive.org/release/19b63828-8a7b-44d8-8c02-380706bb9f9b/1575337542-250.jpg) | 2010-11-01 | Madcon | Contraband |
+| 85 | ![Cover](https://i.discogs.com/LnhmOmwi3WeUZNYGMAWHbqFzm7GbBNNwA3TP8otl0DA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzgy/MDktMTMwODMyMzEy/Mi5qcGVn.jpeg) | 2011-01-31 | Kaizers Orchestra | Violeta Violeta Volume I |
+| 91 | ![Cover](https://i.discogs.com/LnhmOmwi3WeUZNYGMAWHbqFzm7GbBNNwA3TP8otl0DA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzgy/MDktMTMwODMyMzEy/Mi5qcGVn.jpeg) | 2011-01-31 | Kaizers Orchestra | Violeta Violeta Vol. 1 |
+| 74 | ![Cover](http://coverartarchive.org/release/acf5734d-ee32-4fdb-9e4c-4863c02b3977/6892654592-250.jpg) | 2011-09-09 | Katzenjammer | A Kiss Before You Go |
+| 100 | ![Cover](http://coverartarchive.org/release/6008e7e9-7b5d-4ebf-8699-a6a208b2a093/2116315328-250.jpg) | 2011-10-11 | Team Me | To The Treetops! |
+| 15 | ![Cover](https://i.discogs.com/tkthXrOHUhti14eYlAddNiffrJgLy2pxhOzoLMibDWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzU4/NDYtMTQ3ODk3Mjk5/OC00NDI1LmpwZWc.jpeg) | 2013 | Ylvis | The Fox (What Does The Fox Say?) |
+| 83 | ![Cover](http://coverartarchive.org/release/b20edb01-2408-4d2e-bb8f-aa234e7fa9d9/24892778444-250.jpg) | 2013-01-14 | Lindstrøm &amp; Todd Terje | Lanzarote |
+| 63 | ![Cover](http://coverartarchive.org/release/6f9dc0ce-3139-48c9-9d90-a9c5592baddc/10099907545-250.jpg) | 2013-01-30 | Adelén | Bombo |
+| 34 | ![Cover](https://i.discogs.com/RrAhsYiVZIBUedikSzBTo-iWSneBqG-9Lz3i-74Sf6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDk2/MTktMTM3OTE2MjU0/Ny04ODQ2LmpwZWc.jpeg) | 2013-09-02 | Ylvis | The Fox |
+| 39 | ![Cover](https://i.discogs.com/HFI7WzyzMYLF-BQyg6xbnmQcv9oYEvGz8oyOjOk-zEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODcy/MzMtMTM5MjExNjIz/Mi05OTg2LmpwZWc.jpeg) | 2013-09-27 | Tom Odell | Butterflies (feat. AURORA) |
+| 58 | ![Cover](https://i.discogs.com/ccnbRwKjH2kfds3aEUwPT8f_7Xs5xQ8FBoiBtcrLzX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjcx/MTItMTQxNjU2MzMz/Mi05ODgwLmpwZWc.jpeg) | 2014 | Anders Nilsen | Salsa Tequila |
+| 57 | ![Cover](https://i.discogs.com/s-YZ3uGDIYSQtApAvRF3IuP6KwvxBqnFYuXfAFjLnJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDQ4/NzYtMTQyMDgwNzM5/NC0xOTU5LmpwZWc.jpeg) | 2014-05-04 | Aurora | Running With The Wolves |
+| 21 | ![Cover](http://coverartarchive.org/release/a9c5605d-d526-4222-86b9-c3adb2719d13/7037161308-250.jpg) | 2014-05-23 | Röyksopp &amp; Robyn | Do It Again |
+| 97 | ![Cover](http://coverartarchive.org/release/6c311ba6-8c3f-4495-946c-1d47992f308e/8593176191-250.jpg) | 2014-08-19 | Emilie Nicolas | Like I'm A Warrior |
+| 26 | ![Cover](http://coverartarchive.org/release/90c40569-5bc4-4577-8609-2934f5eb1b9d/11602582677-250.jpg) | 2014-10-03 | Nico &amp; Vinz | Black Star Elephant |
+| 27 | ![Cover](http://coverartarchive.org/release/7704bdf5-5fcd-4f80-a759-30fba880bfe6/8762633349-250.jpg) | 2014-11-04 | Röyksopp | The Inevitable End |
+| 19 | ![Cover](https://i.discogs.com/afQtETKUvLgX27D1-ACEHvT2HhlAfpHE19XQ5HdFOz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzQ5/ODEtMTQ3ODc5NDQ2/MC00MDMxLmpwZWc.jpeg) | 2014-11-19 | Alan Walker | On My Way |
+| 2 | ![Cover](https://i.discogs.com/j3LpdcynBBkbjxHnjQAVl_pvqylkncIKWLOOTer0lTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTgx/NTctMTQyMTk2MjM2/OC01NDAyLmpwZWc.jpeg) | 2014-12-02 | Kygo | Firestone |
+| 4 | ![Cover](https://i.discogs.com/IBmzvXmWV9EuMVWh7B6MKr_LoxCMTTbdbz1oMFgQRBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjk0/NDYtMTQ1Mzc3MDM3/Ni0xNjc5LmpwZWc.jpeg) | 2015 | Alan Walker | Faded |
+| 42 | ![Cover](https://i.discogs.com/H7kdTnRmqwC5noTxv2IcpsX1Ff7442fQAvDsCy0idMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgx/MjA3LTE1OTM5ODA4/NTktNzc2My5qcGVn.jpeg) | 2015-09-04 | Aurora | Murder Song (5, 4, 3, 2, 1) |
+| 68 | ![Cover](https://i.discogs.com/X-_dgKK0hTWlrYwoicgufmBROASNpCM1XtKkFmD96Lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODY2/OTgtMTQ5NTczMTc5/NS0xMDMzLmpwZWc.jpeg) | 2015-09-04 | a-ha | Cast In Steel |
+| 16 | ![Cover](https://i.discogs.com/DGj-6z6nFPHA4Erlz30aWIZuK9PGboKuHqdzJ6JwQ3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTg4/MDM1LTE2MzQyMjQz/OTktNjkzOC5qcGVn.jpeg) | 2015-12-21 | Aurora | Giving In To The Love |
+| 20 | ![Cover](https://i.discogs.com/D1kRvAWFgewCRCRcjx3dcWN4BU9W613d8m29ZpKpcMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTEw/MTI0LTE2NjY0NTg2/MTAtOTQ2Ni5qcGVn.jpeg) | 2016 | Aurora | All My Demons Greeting Me As A Friend (Deluxe) |
+| 75 | ![Cover](https://i.discogs.com/azUJSL1XMjZOO6iGfwdGD8rxvq6yv2LbqdrI15En_QU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzAz/NjMtMTQ2NDI2MDQ1/NC04ODQyLmpwZWc.jpeg) | 2016 | Dagny | Backbeat |
+| 81 | ![Cover](https://i.discogs.com/IXHx8jWlvmtYa0ZhlUisssPUamlY7WyWVLNgTuId_GM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTkx/MDYtMTQ2NDAyNjA5/NS01Nzg0LmpwZWc.jpeg) | 2016 | Highasakite | Camp Echo |
+| 88 |  | 2016 | Kygo | Kygo |
+| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e13b9ad075f491f5e1c87eb805ed0d81.png) | 2016-02-26 | High Priest of Saturn | Son of Earth and Sky |
+| 76 | ![Cover](https://i.discogs.com/D1kRvAWFgewCRCRcjx3dcWN4BU9W613d8m29ZpKpcMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTEw/MTI0LTE2NjY0NTg2/MTAtOTQ2Ni5qcGVn.jpeg) | 2016-03-11 | Aurora | All My Demons Greeting Me As A Friend - Deluxe |
+| 17 | ![Cover](https://i.discogs.com/MUJe4NCUm6H5tbBZyhwOcxuViT2iFJIJvVjvs2WQhlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjM1/MjktMTQ2NDExMjU3/Ni03MDUyLmpwZWc.jpeg) | 2016-05-20 | Astrid S | Astrid S |
+| 67 | ![Cover](https://i.discogs.com/vIyz5QtV8xg_RGjiPQTn9fwrJTycTsSFOqc6El6klYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTg3/MTQtMTQ4MDkzODY0/MS0zMDI2LmpwZWc.jpeg) | 2016-11-04 | Marcus &amp; Martinus | Unforgettable |
+| 14 | ![Cover](https://i.discogs.com/seXYooRKkp8vbiXLp2i7YbCtc5JHL3CyzLiKzE7twBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mzg3/NjMtMTQ4MjMzNjY1/OC04MzY2LmpwZWc.jpeg) | 2016-12 | Alan Walker | Alone |
+| 23 | ![Cover](https://i.discogs.com/WdPORfE6f7HWUuOKrCkMgPY93UHUOjIuA1wFmvcQNf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg5/NDU5LTE1MDI0NTg0/OTktMTIyMi5qcGVn.jpeg) | 2017 | Sigrid | Don't Kill My Vibe - EP |
+| 54 | ![Cover](https://i.discogs.com/brDS4AQjEsEZZZDhnWhDtVWNbfif2nARZyXCPNYgB_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQz/OTEyLTE1MTA2NjQx/NzctNjQ1NS5qcGVn.jpeg) | 2017 | Dagny | Love You Like That |
+| 7 | ![Cover](https://i.discogs.com/KkLk9-7f4kQGAN6Vs3gO1g8_uHW9ieMNHLWrGxxWG8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzkw/NzQ5LTE1MTU0NjI4/NjktNjgxNi5qcGVn.jpeg) | 2017-05-19 | boy pablo | Roy Pablo |
+| 45 | ![Cover](https://i.discogs.com/OnqmNtA1g4lgWPoHTqZe22LYkKMfgiOQd3pJbUHT8nU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUw/NTE0LTE0OTc2OTYz/OTAtMjUyNS5qcGVn.jpeg) | 2017-05-19 | Astrid S | Party's Over |
+| 35 | ![Cover](https://i.discogs.com/M0j1HCRvo4FbpFliRLOXcuYoGsx8ELbG9Ap6iR1uPMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzYw/MTg1LTE1MDM4Mjkz/MzktNzg1Mi5qcGVn.jpeg) | 2017-08-25 | Astrid S | Think Before I Talk |
+| 41 | ![Cover](https://i.discogs.com/8Z7nW49Lo_lRV0WwijWyWTfW-4c3B9I-LzE_XUOYSvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDIw/OTY0LTE1MTYwMzIx/NTktNjUxOC5qcGVn.jpeg) | 2017-11-10 | Sigrid | Strangers |
+| 55 |  | 2018 | Ruben | Melancholic |
+| 70 | ![Cover](https://i.discogs.com/frFCIS7jO_ox8KzmiuAvjnxUU5NyBhFo8qmHakI0PZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzkz/Mzk1LTE1MjI1Nzcy/OTktODIwNC5qcGVn.jpeg) | 2018-04-13 | Carpathian Forest | Likeim |
+| 12 | ![Cover](https://i.discogs.com/6QGddIFqVN--MJ-kM025C2k1ERKFbG02ODh55i5xAok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDQw/NTgzLTE2NTkxNDM1/NTEtNTIyNC5qcGVn.jpeg) | 2018-08-17 | Aurora | A Potion For Love |
+| 84 | ![Cover](https://i.discogs.com/seeYIt0_D04dMFAyQxWk3xrT7F7HVA0kKzsO7I62a30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjY0/NTI2LTE2MzQ3MzU1/OTMtNDA0Ny5qcGVn.jpeg) | 2018-09-21 | Skaar | Higher Ground (From the Original Motion Picture "Battle") |
+| 9 | ![Cover](https://i.discogs.com/ttAC5gS5qKFZG3j2UNeBkf9-NVtpd1B_tYowF-2q-RM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjEy/OTgxLTE1Mzg1OTYy/ODItOTEyNi5qcGVn.jpeg) | 2018-10-05 | boy pablo | Soy Pablo |
+| 1 | ![Cover](https://i.discogs.com/Dkl8XSKIxz485ph_FjMnw5KZOVXcNAwoIHCB5PRlB9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDk4/MTg1LTE1Njc4MDUw/MDMtOTQzNi5qcGVn.jpeg) | 2018-11-21 | Girl In Red | we fell in love in october / forget her |
+| 24 | ![Cover](https://i.discogs.com/tqk-Of2Ue2uKzpCCWF5cAwEx1hfC18sDAsXJKymT2_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE5/MjE4LTE1NTk4MTI3/NjctMzg2MS5qcGVn.jpeg) | 2019 | Aurora | A Different Kind Of Human – Step 2 |
+| 66 | ![Cover](https://i.discogs.com/swhR5MpvIvh2gsWU7B_U0CMyyVtXIxr-dUQkz-ofvpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTAw/NjM5LTE1NDgwNjU3/MjUtOTgwMC5qcGVn.jpeg) | 2019 | Sigrid | Don't Feel Like Crying |
+| 30 | ![Cover](https://i.discogs.com/GDwyWOor8ffKKhiAXSNXA-dpetMC5xGkBiIwi5vIyGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM2/NDk4LTE1NzQ1MDcw/MTktMTQ4NC5qcGVn.jpeg) | 2019-04-05 | Aurora | The Seed |
+| 59 | ![Cover](https://i.discogs.com/FtRBYKsdcrb2abcLLvkIYkRRKj7tKZNVxSDHKDBUdT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjc0/NDIwLTE1NTg3Nzc0/OTktOTgxMi5qcGVn.jpeg) | 2019-05-24 | Astrid S | It's Ok If You Forget Me |
+| 6 | ![Cover](https://i.discogs.com/LZH5AV9X-C_rbDSx4mS2dcmks8ZXFh73EOfgpRpvmWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTA2/NDY4LTE1Njc5NTY1/NTUtNjkwNC5qcGVn.jpeg) | 2019-09-06 | Girl In Red | i wanna be your girlfriend |
+| 52 | ![Cover](https://i.discogs.com/F2SmGqVDglxXHr-SmwoeP0vV5kuvMAjQJZ_HDNdOwRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjQ2/Mzk3LTE2MDkwNDE1/NzAtNjg3OS5wbmc.jpeg) | 2019-09-24 | Askjell | To Be Loved |
+| 3 | ![Cover](https://i.discogs.com/RngtQY6boGZ_xQPcVQJMftmYkNJ6nQvS6DPc_lIU6oc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDUz/OTMzLTE1OTE3OTI5/ODYtMzU2Ny5qcGVn.jpeg) | 2020-05-29 | Kygo | Stole The Show |
+| 79 | ![Cover](https://i.discogs.com/RngtQY6boGZ_xQPcVQJMftmYkNJ6nQvS6DPc_lIU6oc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDUz/OTMzLTE1OTE3OTI5/ODYtMzU2Ny5qcGVn.jpeg) | 2020-05-29 | Kygo | Nothing Left |
+| 71 | ![Cover](https://i.discogs.com/iT_1ptlnrJxxrl6PPUtfI6s088cKR7DYt2GZ_px_d5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgx/NjI5LTE2MDM0MDc1/NTQtMzc5NC5qcGVn.jpeg) | 2020-10-16 | Astrid S | Leave It Beautiful (Complete) |
+| 98 | ![Cover](https://i.discogs.com/iT_1ptlnrJxxrl6PPUtfI6s088cKR7DYt2GZ_px_d5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgx/NjI5LTE2MDM0MDc1/NTQtMzc5NC5qcGVn.jpeg) | 2020-10-16 | Astrid S | felt cute might delete later |
+| 33 | ![Cover](https://i.discogs.com/TLp-cY1Z2xSCvO5k0BK3ca3Rc48iqIqKlTt4qdY2D60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTEy/NDQwLTE2MTYxNTc3/NTUtMTU1Ni5qcGVn.jpeg) | 2021-01-08 | Girl In Red | two queens in a king sized bed |
+| 47 | ![Cover](https://i.discogs.com/gUCuG98WIVdUcDxgwwJ0CWZN29P46cq295p0L8TRkTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc3/MDg0LTE2MjM5NTU1/MzQtMzY3NS5qcGVn.jpeg) | 2021-05-26 | Sigrid | Mirror |
+| 38 | ![Cover](https://i.discogs.com/YLNA76L3llBKRH4NO5jr-13t3n3k_DCTCiEq3QXe1oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMz/MTUwLTE2Mzc5NTYw/MjgtNTc4My5qcGVn.jpeg) | 2021-11-26 | Alan Walker | World of Walker |
+| 96 | ![Cover](https://i.discogs.com/Z5bOkZ1S9haWnlzi8Rd6QTRhIUv8qzGzPgHoc_58nhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDQ5/NTQyLTE2NDAxOTgx/MTYtOTgzNy5qcGVn.jpeg) | 2021-12-10 | Astrid S | Pretty |
+| 46 | ![Cover](https://i.discogs.com/ZBGeg6-tdio6e0Cea8qtzr0EjlDdkIslud1KLr0MkEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE5/NTY4LTE2NTE3NTAy/MjctMTI5My5qcGVn.jpeg) | 2022-05-06 | Sigrid | How To Let Go |
+| 72 | ![Cover](https://i.discogs.com/_zphvxR8LkdjBzqsOO72jEi-fAYEsHvS4zjPX4_Jgto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTY2/ODI4LTE2NTk3MzA3/NTUtNTg5OS5qcGVn.jpeg) | 2022-07 | KarPe | Omar Sheriff |
+| 90 | ![Cover](https://i.discogs.com/O8o7014dMOTeQ9QejLNh9N2oufBfI9dftZJdBPkSGrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDA2/NDY5LTE3MTMxOTkx/NDYtODU0OS5qcGVn.jpeg) | 2024-05-10 | Aurora | Some Type Of Skin (Acoustic) |
+| 48 | ![Cover](https://i.discogs.com/FRas78e9uNsSXXtZpVmVja7SnqjzLVxpdYIPZtp7WPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTEz/NjUwLTE3MTc5Mjc1/NjEtMTgxMi5qcGVn.jpeg) | 2024-06-07 | Aurora | What Happened To The Heart? |

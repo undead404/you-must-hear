@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2025-10-18T10:14:35.265Z
+permalink: tags/dark-cabaret
+title: dark cabaret
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 2 | ![Cover](http://coverartarchive.org/release/39efd792-0365-39eb-84e9-f9f0a87d8afa/3441065641-250.jpg) | 1992-01-31 | Tuomari Nurmio | Hullu Puutarhuri |
+| 4 |  | null | Le Phonographe | le Phonographe (demo) |
+| 43 | ![Cover](https://i.discogs.com/n-vpcAJRHUNYUKm028Hi96DXQN5YbHhQYmmQ5pPBepM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjMx/MC0xNDU4NDQyOTkz/LTkwNTEuanBlZw.jpeg) | 1987 | Marianne Faithfull | Strange Weather |
+| 24 | ![Cover](https://i.discogs.com/0dGDE3ppWJ0XHm5TGoAaMY27kilfYzvZomkXmduvNlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTg1/NjYtMTM4NjE0Nzg0/Ni04NTA2LmpwZWc.jpeg) | 1988-08 | The Young Gods | Play Kurt Weill |
+| 50 | ![Cover](https://i.discogs.com/vEzwQ983zsd1IEi5d7Gjt4p9sHexMtqZEL93uZJ1cH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTI1/MC0xMjUyMjkyNzEz/LmpwZWc.jpeg) | 1988-09-19 | Nick Cave &amp; The Bad Seeds | Tender Prey (2010 - Remaster) |
+| 48 | ![Cover](http://coverartarchive.org/release/9574ab70-6e0e-46d0-89d7-3622323ffb29/4268248209-250.jpg) | 1994 | The Tiger Lillies | Births, Marriages and Deaths |
+| 16 | ![Cover](https://i.discogs.com/YFVs44P_jzW-QmPYu3FeoS76SG7psiQNAHX0XE7wTmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mzc3/MC0xNTk2ODM1ODMy/LTM1NzEuanBlZw.jpeg) | 1995 | Jill Tracy | Quintessentially Unreal |
+| 42 | ![Cover](http://coverartarchive.org/release/73fd89b8-8e04-401c-a61d-5ea6f39cb976/9605191619-250.jpg) | 1995 | Rozz Williams &amp; Gitane Demone | Dream Home Heartache |
+| 8 | ![Cover](http://coverartarchive.org/release/50ead46a-ce80-43fb-8817-5cdbc3982e3b/15566159178-250.jpg) | 1998 | Shadow Project | From The Heart |
+| 39 | ![Cover](https://i.discogs.com/qdGzc9q5kUCnzgK6ng7hq6wm557YJ6c8Zpwj_aDrNwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzE5/NS0xMjMxMDQyNDk1/LmpwZWc.jpeg) | 1998-07-07 | Voltaire | Devil's Bris |
+| 23 | ![Cover](http://coverartarchive.org/release/22f9521a-2d6d-4b61-8e8e-ab47033a2eca/20843377897-250.jpg) | 1999-08-03 | Jill Tracy | Diabolical Streak |
+| 26 | ![Cover](http://coverartarchive.org/release/4d57c167-32e3-4dce-8c8a-caa765465add/11199446913-250.jpg) | 2001 | Circus Contraption | Our Latest Catalogue |
+| 31 | ![Cover](https://i.discogs.com/FwEnfFBSPxeMKGoBewH4HanxWtwmdRqF_DKPxOjKOdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODY1/MDYtMTMxOTYyOTI1/Ny5qcGVn.jpeg) | 2001 | The Denver Gentlemen | Introducing... |
+| 47 | ![Cover](https://i.discogs.com/E4phqCT6ssqrd48JcLsXjXSgYB0YWZV6XDQr70TRI7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDIy/MjktMTY3ODk1OTc2/Ny0yMDkzLmpwZWc.jpeg) | 2001 | The Tiger Lillies | Births, Marriages &amp; Deaths |
+| 33 | ![Cover](http://coverartarchive.org/release/62b6186a-845d-4b39-be26-e2c5ef762fb5/14681498497-250.jpg) | 2001-09-01 | Kaizers Orchestra | Ompa til du dør |
+| 13 | ![Cover](http://coverartarchive.org/release/c697e5fa-81da-4f68-abc1-fdc6c4ebad60/24210996588-250.jpg) | 2002-04-09 | Rasputina | Cabin Fever! |
+| 6 | ![Cover](https://i.discogs.com/fe9RNhMksflV1BYDwp-qpw5ztZMYPGNSSMi7GwYpYqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDkz/MTItMTM4NDU0Mzk0/My0xMjI0LmpwZWc.jpeg) | 2004 | Nora Keyes | Songs to Cry by for the Golden Age of Nothing |
+| 9 | ![Cover](https://i.discogs.com/RaMLWQ1rIwSK8P1sOV6WrsV68e1JhXvsLkjcBKLEmQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDIz/MTAtMTE4NzI5OTI2/Ni5qcGVn.jpeg) | 2004 | Angizia | Ein Toter fährt gern Ringelspiel |
+| 18 | ![Cover](https://i.discogs.com/9-JiCjTHEQ5qRZpAXULF_PPE6XXQUUaEKCHUb3PsMx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDky/MS0xNDIzNjg5MDI1/LTUyNDcuanBlZw.jpeg) | 2004 | The World/Inferno Friendship Society | Speak of Brave Men |
+| 5 | ![Cover](http://coverartarchive.org/release/bff9287c-3266-424a-954d-1e20438c828e/24211004394-250.jpg) | 2004-03-16 | Rasputina | Frustration Plantation |
+| 32 | ![Cover](http://coverartarchive.org/release/ac85a855-8df3-4a02-b500-467589408fbc/11858609426-250.jpg) | 2004-10-26 | Voltaire | Then And Again |
+| 27 | ![Cover](https://i.discogs.com/TGbC3Hu1Y174t6x4y6SBXIoxOzsoynRmbHLBgVoSfV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTgy/OTEtMTY3NTYyNzU0/OC04NzcyLmpwZWc.jpeg) | 2005 | The World/Inferno Friendship Society | Me V. Angry Mob - EP |
+| 35 | ![Cover](http://coverartarchive.org/release/88c9b590-0731-45e8-af4f-32c68e777b91/17569572923-250.jpg) | 2005-02-11 | Matt Elliott | Drinking songs |
+| 28 | ![Cover](http://coverartarchive.org/release/47225573-d24c-48aa-8432-406f60ca895e/11493130015-250.jpg) | 2005-05-02 | The World/Inferno Friendship Society | Me V. Angry Mob |
+| 15 | ![Cover](https://i.discogs.com/8VXIxGZaTBrvn0vXCvs0EozCsz-9z6OssJ1XzdAcgQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxODYz/NC0xNDMyNjc2NTc5/LTk5MjMucG5n.jpeg) | 2005-08-15 | Kaizers Orchestra | Maestro |
+| 1 | ![Cover](https://i.discogs.com/8E6OUeUb4T-bRZeu69hFzpCnqiJ4O9XvsDdOQ60vBL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/MjcwLTE1NDI0MDcz/MjgtMzA4Mi5qcGVn.jpeg) | 2006 | The Peculiar Pretzelmen | God's Anger/The Devil's Influence |
+| 10 | ![Cover](http://coverartarchive.org/release/db7a53e9-8865-4756-9d26-157e4f50d165/19887853784-250.jpg) | 2006-09-01 | Emilie Autumn | Opheliac |
+| 7 | ![Cover](https://i.discogs.com/vLMaKN3SqfpXjpUWcTyyATZRTR2o5ewlkjkMHka0__o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjIy/OTUtMTUzODIyOTU3/Mi01NTIxLmpwZWc.jpeg) | 2007-02-07 | Kiss Kiss | Reality vs. the Optimist |
+| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0e7f6642833fce66799ab97b62fa623c.png) | null | Will Wood and the Tapeworms | The Real Will Wood (Live) |
+| 89 | ![Cover](https://i.discogs.com/gb4q2OMbzJ47zruZCraJGuLpGc9mAQVzATpeBAkZhH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg3/OTE4LTE0OTEzOTc5/NzItMTU2OC5qcGVn.jpeg) | 1988 | Nick Cave &amp; The Bad Seeds | Tender Prey (2010 Remastered Version) |
+| 55 | ![Cover](https://i.discogs.com/lKWx6DiUIeVco03KxnR3zvH13wtYrTULthg7B3XSNTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDE2/MzUtMTMwMjc4Nzcy/Mi5qcGVn.jpeg) | 1990 | Nick Cave &amp; The Bad Seeds | The Good Son (2010 - Remaster) |
+| 94 | ![Cover](https://i.discogs.com/VFFjqK3A2P-QUfLqzOnRMKLoDg6jJ9F_aoOHWlhLzfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTQy/NDUtMTMwMjIyODY2/NS5qcGVn.jpeg) | 1990-04-17 | Nick Cave &amp; The Bad Seeds | The Good Son (2010 Remastered Version) |
+| 61 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4438994675c1ce24f0b42b672d4e8644.png) | 1993-10-25 | Tom Waits | The Black Rider |
+| 54 | ![Cover](https://i.discogs.com/Y4WIWn6-uo648hDa1ZkPgZpHs3r39gSX1rnwbPWQG_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDAz/NC0xNDI2NjA4MjM4/LTI2MjAuanBlZw.jpeg) | 1997-05-26 | Dream City Film Club | Dream City Film Club |
+| 83 | ![Cover](http://coverartarchive.org/release/eefb7776-c295-4bd3-adfe-e2b5b45bb275/11858629809-250.jpg) | 1998-06-09 | Voltaire | The Devil's Bris |
+| 51 | ![Cover](https://i.discogs.com/NcSUJ9QwQQfWCETIcHWETVqfmQqjsMhihu1t_mq_VHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDI1/NTItMTYwODA0NDEx/MC0xNTM4LmpwZWc.jpeg) | 1999 | The Tiger Lillies | Shockheaded Peter |
+| 86 | ![Cover](http://coverartarchive.org/release/61c9297c-dba1-4d29-aca9-1e6e0791dccb/11858621444-250.jpg) | 2000-08-01 | Voltaire | Almost Human |
+| 58 | ![Cover](http://coverartarchive.org/release/2c36350d-9b7f-4329-9a18-4661d2eec200/11858686307-250.jpg) | 2002-05-14 | Voltaire | BOO HOO |
+| 84 | ![Cover](http://coverartarchive.org/release/e82a7f38-4857-4dd3-bf63-3aed67e9f2ab/12933712889-250.jpg) | 2003-09-26 | The Dresden Dolls | The Dresden Dolls |
+| 64 | ![Cover](https://i.discogs.com/cM2-sKp1lwFzizKid9uOatBgUgnOACXIuDrVzdM-XTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk5/ODQtMTI4NTg3NzUx/MS5qcGVn.jpeg) | 2004-06-08 | The pAper chAse | God Bless Your Black Heart |
+| 57 | ![Cover](https://i.discogs.com/4pDJgqjj7fNeWzu55LGSq0cQUioWB-BN866MaRrngCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODk0/Mi0xNDg0MTE2MDI4/LTE5MzMuanBlZw.jpeg) | 2005 | Antioch Arrow | Gems of Masochism |
+| 62 | ![Cover](https://i.discogs.com/e7u7CwlPBKJReJYhUO7CIbtQbhDyxA8xQgxSRQyZpEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjUy/MjQtMTI5NTYzNzQy/Ni5qcGVn.jpeg) | 2005 | Reverend Glasseye | Our Lady of the Broken Spine |
+| 69 | ![Cover](https://i.discogs.com/-G91SYvC4DC7DcAqzW-IFDdqIg1XK7cNrvqUCr0SkY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTE1/MTQtMTQ4ODQwMDEw/NC01NDczLmpwZWc.jpeg) | 2005 | Harlequin Jones | EP |
+| 36 | ![Cover](http://coverartarchive.org/release/e0d5fa27-5143-44aa-a3e5-a61d84ab1af0/13208283430-250.jpg) | 2006-04-21 | Pretty Balanced | Icicle Bicycle |
+| 72 | ![Cover](http://coverartarchive.org/release/8f1fa011-d38c-43ab-903c-76f90c0fda53/30682434282-250.jpg) | 2006-04-23 | Stolen Babies | There Be Squabbles Ahead |
+| 65 | ![Cover](http://coverartarchive.org/release/99676136-1b6b-4f9a-bebf-a35667beb93e/27269278115-250.jpg) | 2006-06-06 | The pAper chAse | Now You Are One of Us |
+| 30 | ![Cover](https://i.discogs.com/jST1rG6xTczcBPu2WTN3q-MV7q9e59LEm1pzbr5JqfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDIz/NTMtMTE4Mjc5Mzg5/My5qcGVn.jpeg) | 2006-09-01 | Emilie Autumn | Opheliac (Double Disc) |
+| 40 | ![Cover](http://coverartarchive.org/release/df4cbfd0-1c74-4e8e-be51-22980cc6e736/1828496180-250.jpg) | 2006-11 | Ataraxia | Paris Spleen |
+| 76 | ![Cover](http://coverartarchive.org/release/c17ad20c-440c-4389-a1b8-741719ff1e32/5825247863-250.jpg) | 2007 | The Peculiar Pretzelmen | Uncanny Eyes |
+| 71 | ![Cover](https://i.discogs.com/3XDLb-2mkjhvA50uiYuS15trO-oGthLdxE_8mTyxHpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcz/NDItMTIwMjEyMTk2/My5qcGVn.jpeg) | 2007-02 | Creature Feature | The Greatest Show Unearthed |
+| 82 | ![Cover](http://coverartarchive.org/release/62186d8a-3a70-4a4c-b54f-c1b8d0dfc175/11858572802-250.jpg) | 2007-07-31 | Voltaire | Ooky Spooky |
+| 12 | ![Cover](http://coverartarchive.org/release/eadc07a5-18a5-40dc-a5e8-27183690743e/15299384849-250.jpg) | 2008 | Dirty Granny Tales | Inversed World |
+| 73 | ![Cover](https://i.discogs.com/7SOjBJ1N4BedNdQycKn-maqSwkJHZ0-aJbTspbeVmBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODA1/MDctMTQ4ODQwMDUz/Ni00NjIyLmpwZWc.jpeg) | 2008 | Vermillion Lies | What's in the Box |
+| 74 | ![Cover](https://i.discogs.com/7SOjBJ1N4BedNdQycKn-maqSwkJHZ0-aJbTspbeVmBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODA1/MDctMTQ4ODQwMDUz/Ni00NjIyLmpwZWc.jpeg) | 2008 | Vermillion Lies | What's In The Box |
+| 79 | ![Cover](https://i.discogs.com/UywOhX61dwaACypgX2tzOHjV5ZeCHM-4elbbYWpwL10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzI4/ODctMTQ1ODYzMjAz/NS03OTY0LmpwZWc.jpeg) | 2008-01-22 | Alina Orlova | Laukinis Šuo Dingo |
+| 46 | ![Cover](http://coverartarchive.org/release/ec28995c-1592-44c4-97b0-bcc11799ba73/2045060345-250.jpg) | 2008-01-29 | Beat Circus | Dreamland |
+| 75 | ![Cover](http://coverartarchive.org/release/f284d2a4-59ad-4210-ba2f-fd4b0c1ccb5f/5798485292-250.jpg) | 2008-03-11 | Vermillion Lies | What's in the Box? |
+| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9aa0ab239bf3424c81503d1ae3bcc391.png) | 2008-09-13 | Amanda Palmer | Who Killed Amanda Palmer |
+| 20 | ![Cover](https://i.discogs.com/BHqEIfwr9EaIayRvWa8YKcv0LoWZ_B96dp4vimGRAg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjIz/OTctMTI3MjQzNjg0/NS5qcGVn.jpeg) | 2008-09-16 | Amanda Palmer | Who Killed Amanda Palmer? |
+| 78 | ![Cover](http://coverartarchive.org/release/afc520c8-e7da-4af5-9c38-49d4244181db/11858790220-250.jpg) | 2008-09-23 | Voltaire | To the Bottom of the Sea |
+| 60 | ![Cover](http://coverartarchive.org/release/e99e43f8-db76-47be-9113-1a1e5373a002/6216520885-250.jpg) | 2008-11-13 | Bitter Ruin | We're Not Dancing |
+| 11 | ![Cover](https://i.discogs.com/brOcHu2QWQB5xG-C_khGBl4lX6zZcFIvU3CU2hvKiL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjM1/NzQtMTM2NDQ5MDI0/My05NzE0LmpwZWc.jpeg) | 2009 | Birdeatsbaby | Here She Comes a Tumblin' |
+| 77 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 2009 | Various Artists | Natasha, Pierre &amp; the Great Comet of 1812 (Original Broadway Cast Recording) |
+| 49 | ![Cover](https://i.discogs.com/Jh5Pw2EdjAiAiTcHNlu1LWtzCbFhaQOsihUYxO_FOaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzQx/MzktMTM5MDgwNzAy/Ni02ODA5LmpwZWc.jpeg) | 2009-06-12 | The Venetia Fair | The Circus |
+| 34 | ![Cover](https://i.discogs.com/6FpkeB0VQKoRoiK8036l1egiWbaN9HaqTbFlZuqN4ZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjQ0/ODktMTQ5NjQyNzQ0/Ni0zNzMxLmpwZWc.jpeg) | 2009-07-27 | Black Tape for a Blue Girl | 10 Neurotics |
+| 97 | ![Cover](http://coverartarchive.org/release/729871ea-4ac9-3140-953c-b8861c47c9e3/13189984972-250.jpg) | 2010-03-30 | Evelyn Evelyn | Evelyn Evelyn |
+| 68 | ![Cover](http://coverartarchive.org/release/5feed609-9054-410f-8bf4-029567d7a847/12126656429-250.jpg) | 2010-06-15 | Rasputina | Sister Kinderhook |
+| 22 | ![Cover](https://i.discogs.com/mfo9x2jlUU7tmc2X_tlToffwA0JH5JfiN9uzJ1_cssQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTg2/NTAtMTQxMzExNzM5/NC00NjU1LmpwZWc.jpeg) | 2011-09-02 | Voltaire | Riding a Black Unicorn... |
+| 29 | ![Cover](http://coverartarchive.org/release/7bfff6f7-bef9-48e7-a5ed-ce419444b2b6/35459764364-250.jpg) | 2011-10-11 | RUFUS REX | Dead Beat |
+| 63 | ![Cover](http://coverartarchive.org/release/8fd239aa-e209-4817-bbf7-d545b323a005/2783447087-250.jpg) | 2011-10-28 | Creature Feature | It Was A Dark And Stormy Night... |
+| 25 | ![Cover](http://coverartarchive.org/release/a54dd638-3831-4c2c-a31b-219eb5cb143c/14452062737-250.jpg) | 2011-11-08 | Lonesome Wyatt and the Holy Spooks | Heartsick |
+| 17 | ![Cover](https://i.discogs.com/BNtsfMDz5pyMBs7FXsucSHwWmp0NdiNYBb_g8BFiKN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTE3/NDUtMTQ4ODQwMTc4/OS00MTg4LmpwZWc.jpeg) | 2012-01-01 | Harlequin Jones | Bare Bones Demos |
+| 19 | ![Cover](http://coverartarchive.org/release/06ae772f-352c-4081-ad42-6cf93516e537/31629116300-250.jpg) | 2012-02-01 | Harlequin Jones | The Bad Beginning |
+| 92 | ![Cover](https://i.discogs.com/LvA77MMj_VYFLaE14-9qqfXGIbfpPVvWDnFI8xl48YE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkx/MDQtMTMzOTc1MzY5/OS02NzQxLmpwZWc.jpeg) | 2012-06-19 | Fiona Apple | The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition) |
+| 44 | ![Cover](https://i.discogs.com/vriZv7rxkPLWLxNNK4CHWKY47xlCCRGsvcDFoQWI5DQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDA0/OTktMTQ3NTQ3Njcz/Ny0zMDUxLmpwZWc.jpeg) | 2013 | Cem Adrian | Şeker Prens ve Tuz Kral |
+| 56 | ![Cover](https://i.discogs.com/81d1cDTdNi0tXk01EKL5GBiqWLX5Ak_CyPuIDCH5yv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODY3/ODYtMTM5MjEwMTIy/MS03MTg3LnBuZw.jpeg) | 2013 | Emilie Autumn | Girls Just Wanna Have Fun &amp; Bohemian Rhapsody EP |
+| 59 | ![Cover](http://coverartarchive.org/release/045e40a9-73ad-4a8a-8c49-a693d46899fa/6517693426-250.jpg) | 2014-01-21 | Johnny Hollow | A Collection of Creatures |
+| 87 | ![Cover](https://i.discogs.com/k5e9iHIboQKu42RVhg4R66bE3o5WtoZAtyTge_HkarU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjA2/ODQtMTQ0MTE4MTE1/OC0zNzQ4LmpwZWc.jpeg) | 2014-09-08 | Adamlar | Eski Dostum Tankla Gelmiş |
+| 3 | ![Cover](https://i.discogs.com/Kzfbz5IJ4YglESaCgN-rEACmPo_u_F51qdyIOO3dgro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTcy/MDUtMTQ3NTA2MTEw/My00Nzk3LmpwZWc.jpeg) | 2016 | Birdeatsbaby | Tanta Furia |
+| 67 | ![Cover](https://i.discogs.com/bzUKfdtleF9MVWgaAOwCiXBkwboDVG7Nb41dUYBNCzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ1/ODUtMTI0MTIxMDk4/NC5qcGVn.jpeg) | 2016-09-02 | IAMX | Everything Is Burning (Metanoia Addendum) |
+| 91 | ![Cover](https://i.discogs.com/NUOTPBKIOiKQgMpzZkSzjasCoL_pf4m3ldZLgxDvTv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjA5/OTY0LTE2NDc5OTg1/NzMtMzgxNC5qcGVn.jpeg) | 2016-11-15 | Lola Blanc | The Magic |
+| 88 | ![Cover](https://i.discogs.com/CaCr28B5nKHw6X2RGuTGL4qkyQaCPgPbcrG-mywC5hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTA0/MjQ4LTE1MTkyNDAy/NTMtMTU5NC5qcGVn.jpeg) | 2018-02-22 | IAMX | Alive In New Light |
+| 53 | ![Cover](https://i.discogs.com/TXaMkPbutivJKLf_8jXw2VquQgIPECkyDcvXcm_0ThA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUx/MzEwLTE1NjQ3NTkz/NzMtNzkwMy5qcGVn.jpeg) | 2018-03-01 | Amanda Palmer | Sketches For the Musical JIB |
+| 52 | ![Cover](https://i.discogs.com/SYhlJnrhBmsf9ltHnUr4xhHvcDqu59Hckdvjp4r9JJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzU0/ODAyLTE1NDE0NTY3/MDMtMTY4MC5qcGVn.jpeg) | 2018-03-23 | Spiritual Front | Amour braque |
+| 66 | ![Cover](https://i.discogs.com/txxw8LKBydCLME0kP9Yc_0BWpEk8GmfcmFXgWsNjjxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQy/MTczLTE1NDQ5OTQy/OTctODc0NS5qcGVn.jpeg) | 2018-10-05 | Mon Laferte | Mon Laferte (Vol. 1/ Edicion Especial) |
+| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ac3634deca7b4b22e7668584b522e7dd.png) | 2020-02-07 | Will Wood and the Tapeworms | The Real Will Wood (Music from the Award-Winning Concert Film) [Live] |
+| 41 | ![Cover](https://i.discogs.com/ZuDDpUglGYrirj114yah-trnwmAsdNTCOx0SuU-fKqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDUx/NzE4LTE2MzczOTc1/NjQtNTY1OS5qcGVn.jpeg) | 2020-03-13 | IAMX | Echo Echo |
+| 98 | ![Cover](https://i.discogs.com/pQqwR8RtPcUXGadq2Kka1t27AZNIvh4-PnMftzDBX64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQ2/ODI4LTE2NDE2MDM4/NTEtMjM1Mi5qcGVn.jpeg) | 2021-02-28 | Will Wood and the Tapeworms | Everything Is a Lot |
+| 93 | ![Cover](https://i.discogs.com/MuGTdY6hIWammJ390FmQDpMH9m5f0iGH6OtlehjwkUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODE5/MzUwLTE2MzU4MjY0/NDAtMjE3NC5qcGVn.jpeg) | 2021-10-08 | STOMACH BOOK | STOMACH BOOK |
+| 90 | ![Cover](https://i.discogs.com/JAwncbEi8MPzBCstrlL9Ack6RE992-emG9N6nM-C4-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzgw/NzQyLTE2OTc1NzIx/MDAtNTA0Ni5qcGVn.jpeg) | 2022 | Will Wood and the Tapeworms | Everything is a Lot (2020 Remastered Version) |
+| 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/55bb158a45f9b5abecd3b52ced725676.png) | 2022 | Will Wood and the Tapeworms | SELF-iSH (2020 Remastered Version) |
+| 100 | ![Cover](https://i.discogs.com/NJ6-HOqIGniXwz0E4cBrPHaT2efA5BP67g2lEIjBor0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjI0/MjA0LTE2OTc1NzUy/MTQtNzgyOS5qcGVn.jpeg) | 2022 | Will Wood | The Normal Album |
+| 95 | ![Cover](https://i.discogs.com/EgXccdRIN38U5ZqcPAB1gUQRSdRKP2vTrU98QLNKFPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTgy/NjQzLTE2NzcwMjMx/MTMtMTkzMy5qcGVn.jpeg) | 2022-04-08 | Will Wood | Camp Here &amp; There: Campfire Songs Edition |
+| 38 | ![Cover](https://i.discogs.com/DBpnXDTDW-3dkhU_3l-5W0qJOnRdVdXJCOMxLhuPULw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODEz/NjkzLTE2NTc4MDQz/OTQtMjkxNi5qcGVn.jpeg) | 2022-07-15 | BLACK MIDI | Hellfire |
+| 45 | ![Cover](https://i.discogs.com/I7C_cxiz22ig2tacK4gfiShPs1egxsSizBSdw5DLZlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU5/ODUxLTE2MDk2Njc5/NzgtMTQzNC5qcGVn.jpeg) | 2023 | Tom Waits | Frank’s Wild Years (2023 Remaster) |
+| 99 | ![Cover](https://i.discogs.com/zDXEuXQjyPUxW8pFlbs2VviYFURgvwopgZTEcqXmn_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDM0/MTkzLTE2OTMwNTg0/OTEtMTc5MS5qcGVn.jpeg) | 2023 | Will Wood and the Tapeworms | Self-ish |
+| 70 | ![Cover](https://i.discogs.com/4hIFyT6AYzRmOzBrA2vjZ7r1f5ZCgC7xN3gOn0IIxPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzI2/Mjk0LTE2ODEyMjY5/OTktMTk2MS5qcGVn.jpeg) | 2023-01-13 | Will Wood | IN CASE I DIE (Live) |
+| 85 | ![Cover](https://i.discogs.com/ANMXWJvm-MLRMjhsYy6RNAr4BjZWMgFsUsoHi1D6FRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTQ3/MTI3LTE2MDg0MTAz/NzktNzY0Ny5qcGVn.jpeg) | 2023-10-27 | Sarah and the Safe Word | Good Gracious! Bad People. |
+| 37 | ![Cover](https://i.discogs.com/wMn2fUDvMAb4L-PCQWfafBx63R7pHepL3xXNi-dhKkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjEz/MTU2LTE3MjA4OTgz/MDctMzc3Ni5qcGVn.jpeg) | 2024-02-28 | STOMACH BOOK | SOPHOMORE SLUMP CALLITHUMP |
+| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c8a34e3e3ede8b4c4f3f9359d6c583cf.png) | 2024-08-09 | Will Wood | The New Normal! (The Normal Album 2024 Edit) |

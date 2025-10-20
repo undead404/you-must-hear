@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2025-10-18T09:30:38.258Z
+permalink: tags/electropunk
+title: electropunk
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 43 | ![Cover](https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg) | 1977 | Various Artists | The Castbreeder |
+| 7 | ![Cover](http://coverartarchive.org/release/01775a20-7029-38e1-a933-38d82f127547/14154396631-250.jpg) | 1980 | Suicide | Suicide (The Second Album) |
+| 38 | ![Cover](http://coverartarchive.org/release/c80e5a51-bdc9-4780-a7e6-3fbd78d09de0/12266085365-250.jpg) | 1994-05-10 | Devo | Duty Now for the Future / New Traditionalists |
+| 36 | ![Cover](http://coverartarchive.org/release/75b4cd7e-19a8-4a21-8f95-0923821a33d3/14990425256-250.jpg) | 1995-01-02 | Atom and His Package | Atom and His Package |
+| 37 | ![Cover](http://coverartarchive.org/release/f80aac8c-32cc-4a2c-ae2b-658628f505f2/21372046654-250.jpg) | 1997-06-30 | The Prodigy | The Fat Of The Land |
+| 22 | ![Cover](https://i.discogs.com/21gOeGv-jamnKsOtzAkooevpdjdTH9jw8mWEPQMTeys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjAx/MTAtMTIzMDIzMzYy/OC5qcGVn.jpeg) | 1999 | Deutsch Amerikanische Freundschaft | Das Beste Von DAF (20 Lieder der Deutsch Amerikanischen Freundschaft) |
+| 27 | ![Cover](http://coverartarchive.org/release/2b5817c8-c0a3-4d42-a755-33b845e1eaea/9518742705-250.jpg) | 1999-04-06 | Mindless Self Indulgence | Tight |
+| 12 | ![Cover](http://coverartarchive.org/release/91f4c81e-3dfe-4bca-b073-d53ad7885d8c/17637956453-250.jpg) | 2000 | Retard-O-Bot | 8-Track |
+| 35 | ![Cover](https://i.discogs.com/aPNVLxkXzaiP8-9yyr6xaoT6IHbFkea_RiU75MsqhYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDky/NjMtMTE5MjcxNTg0/MC5qcGVn.jpeg) | 2000 | Mindless Self Indulgence | Alienating Our Audience: Live |
+| 16 | ![Cover](http://coverartarchive.org/release/c3f10585-9d96-4f2c-b091-006c2b0b7ea1/35266612645-250.jpg) | 2001 | The Nazis from Mars | The Nazis From Mars |
+| 29 | ![Cover](https://i.discogs.com/xdClMUbUYZzF-fX1rrIA12NNxVQqtsrNmpPAc8Wfjfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzgy/LTExNDA2MTg3NDYu/anBlZw.jpeg) | 2001 | Barto | Barto |
+| 5 | ![Cover](https://i.discogs.com/zgvdSkRAtmXDgOKD83QS2u3MT_BPQxcRF9OXaX8JQ6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzA3/LTExNDM1NTgzODIu/anBlZw.jpeg) | 2002 | Alec Empire | Addicted to You |
+| 24 | ![Cover](https://i.discogs.com/YgFaQfAhWsCdu7juLhFdun7nNZ-wjwVC5RQI7RXA3y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzI3/NS0xNjE4NjExNTIx/LTExMTMuanBlZw.jpeg) | 2002 | The $hit | Get With The Program... Before The Program Gets You! |
+| 46 | ![Cover](http://coverartarchive.org/release/b6a01d02-4440-4184-99cb-a3cd4356654b/6747228847-250.jpg) | 2004-04-06 | Atom and His Package | Hair: Debatable |
+| 44 | ![Cover](https://i.discogs.com/MD3-OITCng2teS63eUOXm1Qua2sOxQrmo0EmYfFLhJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc5/MzYwLTE2MDY0ODQ0/MzUtNDIzNi5qcGVn.jpeg) | 2006 | Robot Goes Here | Mechanical Advantage |
+| 40 | ![Cover](https://i.discogs.com/MD3-OITCng2teS63eUOXm1Qua2sOxQrmo0EmYfFLhJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc5/MzYwLTE2MDY0ODQ0/MzUtNDIzNi5qcGVn.jpeg) | 2006-09-19 | Robot Goes Here | The Byte Is In My Blood |
+| 10 | ![Cover](http://coverartarchive.org/release/db2e6b7e-dcc0-42f2-85a4-efbf88c19533/26645895796-250.jpg) | 2007 | The Emotron | The Decemberwrist |
+| 11 | ![Cover](https://i.discogs.com/cYvZWHYTTOL2ea_SaHxOn_mL4KxDgzciuu_WFo0RPIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTEx/MDgtMTQwNjEwMzcw/My0zODQ2LmpwZWc.jpeg) | 2007 | The Emotron | in the Decemberwrist |
+| 20 | ![Cover](https://i.discogs.com/QGgxEi26P3Eba9COceO3uI4vnB82e5pHyF3-oJjCv90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTkw/OTQyLTE2NDYyNDQ5/NjYtNzc1OS5qcGVn.jpeg) | 2007 | Math the Band | Covers EP |
+| 42 | ![Cover](https://i.discogs.com/gkMmypzclJOhFKefrHr-ke5PDGZmC6jow30ckViSNR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTc4/Nzc5LTE2MTY1Mjc0/NjEtOTEwMy5qcGVn.jpeg) | 2007 | Math the Band | The Album |
+| 50 | ![Cover](https://i.discogs.com/DOs0jbdwvkqydJ4SzitvbUXxmRj2cmgYXx1ByWPSpFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc0/NzEtMTU4NjI3NTc4/My0zOTQ2LmpwZWc.jpeg) | 2008-04-29 | Mindless Self Indulgence | If (2CD) |
+| 41 | ![Cover](http://coverartarchive.org/release/942859fa-cb66-48ef-9c53-ee2d1e5e7d5e/16422332541-250.jpg) | 2008-05-12 | Mass Kotki | Miau Miau Miau |
+| 15 | ![Cover](https://i.discogs.com/4O7Jd32mFh2Fkb7Y6BSZ4-sChgAXQkFaF-8T3GJOn74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDgz/NTAtMTIzMDQ5OTA1/Ni5qcGVn.jpeg) | 2008-10-10 | Deichkind | Arbeit nervt |
+| 25 | ![Cover](https://i.discogs.com/jAR_Qgd_4d4ixhHmdFd2cWdikjTH-moXCbbxHNBYpJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA3/OTAtMTIyNzczNzc4/Ny5qcGVn.jpeg) | 2008-11-11 | The Thought Criminals | Die Young : Stay Pretty |
+| 1 | ![Cover](http://coverartarchive.org/release/af34cca2-f8b6-4530-894b-40bd8fed68ad/7179590370-250.jpg) | 2008-12-04 | Anamanaguchi | Dawn Metropolis Preview EP |
+| 21 | ![Cover](http://coverartarchive.org/release/51516989-3483-4a00-8cb4-3fc5d1335c62/8789557165-250.jpg) | 2009-04-01 | Alec Empire | Shivers |
+| 48 | ![Cover](https://i.discogs.com/FQuwpY_oL65x1IrNbWbn7VgD2__pc8_PtD2VHDml9rs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTkt/MTY1ODI1ODM4Ny00/NDE1LmpwZWc.jpeg) | 2009-05 | The Prodigy | World's on Fire (Live at Milton Keynes Bowl) [2020 Remaster] |
+| 45 | ![Cover](https://i.discogs.com/_kDwRuV9-KHnb-DP3mMYTm4QqdS6hgB8ZY_E0GPrCc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjU2/MzQtMTY4NTg5NDUw/NS05NzI5LmpwZWc.jpeg) | 2009-05-15 | Angelspit | Black Kingdom Red Kingdom |
+| 14 | ![Cover](https://i.discogs.com/NX-x5-WOHE1lQDxJAREUTm-y2_51IwDJlbKnBic9trc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjU5/NjItMTMwNzYyNjAy/OC5qcGVn.jpeg) | 2009-10-03 | The Thought Criminals | All The Freaks |
+| 49 | ![Cover](https://i.discogs.com/sQfZYA4EGpqERvzMj7InHdusyiDVZz-fO-L_XpBHdOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM4/MzItMTYwMjAwNjUy/My0xMTA2LmpwZWc.jpeg) | 2010 | Frittenbude | Frittenbude RMXs |
+| 4 | ![Cover](http://coverartarchive.org/release/31921c91-8fe7-4470-bce4-e1fb02f2e48d/3375554056-250.jpg) | 2010-03-19 | Bratze | Korrektur Nach Unten &amp; Die Notwendigkeit einer Übersetzung |
+| 8 | ![Cover](https://i.discogs.com/Hisagn0oYXh1JUfp2gbAHFF4cgsZbwlZCeKX_e-G2ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODkz/NjEtMTI5MTk3NjQ2/NC5qcGVn.jpeg) | 2010-04-16 | Kafkas | Paula |
+| 31 | ![Cover](https://i.discogs.com/UeckZFQZ1AWR_2t4fekfimUtcAK2RP4mPIIg8TRo-7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTE4/OTUtMTI4ODAzNTQx/OC5qcGVn.jpeg) | 2010-08-17 | Anamanaguchi | Aurora |
+| 6 | ![Cover](https://i.discogs.com/VvEzCPnDI5ExkKFJUV8fKsN2OeoswCX8EM2ysHntu2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTQx/NzItMTMxNjQzNzI5/Ny5qcGVn.jpeg) | 2011 | Atari Teenage Riot | Black Flags |
+| 3 |  | 2011-04-12 | The Ready Set | Cherryland (Deluxe) |
+| 34 | ![Cover](http://coverartarchive.org/release/917f70bd-f247-475d-9c1e-79ce746ea666/6683109881-250.jpg) | 2014-02-04 | Math the Band | Stupid and Weird |
+| 18 | ![Cover](https://i.discogs.com/_f9Zpgs0qhSUIZSt7UE-HOssPv-I8f1UMQuyAjEH4hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTIy/OTAtMTQ1MjMxMTgx/NC05MDE4LmpwZWc.jpeg) | 2014-02-26 | Радость моя | Волчок |
+| 2 | ![Cover](https://i.discogs.com/_9NPrKnFzGaYs_LmVhDMXZ2EVvY0-Twvn-HfLd-s1M0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDA2/NDItMTQyMTU4NzI1/NC00MDQ5LmpwZWc.jpeg) | 2014-10-17 | Horskh | Dawn |
+| 28 | ![Cover](https://i.discogs.com/RQyQfe_c4T87XK0ClL8iwX--4DMEojkOjxiYEcbmmfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk2/NDgtMTI0MDUwNDI0/MS5qcGVn.jpeg) | 2015 | Egotronic | Egotronic C’est Moi! |
+| 26 | ![Cover](https://i.discogs.com/EHok27jskaXD73Vxzjs8ceanHiSPnXLv5Ug_fidobdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQw/MDkyLTE0OTIzMzU1/NDQtNzY5NC5qcGVn.jpeg) | 2017-04-10 | Horskh | Gate |
+| 23 | ![Cover](https://i.discogs.com/r5WLvaWkWBUihOHqxG1qFB6VkKDj9PrNmzYwuql1GLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc0/MzEyLTE1MjIxNTYw/NjAtMjc2NC5qcGVn.jpeg) | 2017-11-10 | Dick4Dick | Dick Back In Town |
+| 17 | ![Cover](https://i.discogs.com/lxgV0wKV55oPBrQ7_nlvdvGbX9oyP_xb7vy9byOx7kM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA0/MTA1LTE1OTYyMzA3/OTMtODQ3OS5qcGVn.jpeg) | 2018-10-06 | Goo Munday | Goo Munday |
+| 32 | ![Cover](https://i.discogs.com/M1KhlnPvhHe_ae1tVfhjKsS2vjY4YKKWNJjISqeI2Dk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjM2/MjE5LTE1NTA0NzAw/OTgtMTQzNC5qcGVn.jpeg) | 2019-02-15 | ADULT. | Shari Vari / 122 Hours of Fear |
+| 9 | ![Cover](https://i.discogs.com/ItuHnFPHJu9x8_rfkUxyuztbwJn8JdblY7O6Txi8uNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ5/NDE1LTE1NTQ0MTk2/NjEtNzM1Ni5qcGVn.jpeg) | 2019-03-19 | N8NOFACE | Synth up the Punx |
+| 47 | ![Cover](https://i.discogs.com/ROB0fHs-vBoiidOmhBH8WXrxLYCd7o3tX1IRLq7J4UA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE1/NDU1LTE1ODY4NzQz/NTQtMzM4OC5qcGVn.jpeg) | 2020-04-10 | ADULT. | Perception is/as/of Deception |
+| 13 | ![Cover](https://i.discogs.com/CQCtbDCzBaITYVW32pMbLNSRW_ZADev1bt3tcU-rVvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzk2/MzE0LTE2MTM3Mzg4/MjAtNDE3Ny5qcGVn.jpeg) | 2021-01-20 | cuir | Album |
+| 30 | ![Cover](https://i.discogs.com/0cHoO1uPPjlc27xirvKPzReo2gcG6LNSIWWzFIuM3uI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjk0/NzM5LTE2MzkxMjQx/OTctMjMxOS5qcGVn.jpeg) | 2021-12-10 | Grossstadtgeflüster | Bis Einer Heult !!! |
+| 39 | ![Cover](https://i.discogs.com/L0t0zEFGP5e1ZWJKULtZU7CTIb09NjJ6P19qRJEyyeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzMy/MTc1LTE2NzgxNzIy/NzctNTM3NC5wbmc.jpeg) | 2022 | шумные и угрожающие выходки | РАЗГОВОРЫ С БОМЖИХАМИ |
+| 19 | ![Cover](https://i.discogs.com/tFmOxR65WedeTpX337Gkf4Oo0G3Gva4cMjoU6_4iNLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzI0/Mjg5LTE2NjQ5NTMx/ODktNDg2NC5qcGVn.jpeg) | 2022-09-23 | Kochkraft durch KMA | Alle Kinder sind tot |
+| 33 |  | null | Totally Radd!! | Shark Attack Day Camp |
+| 53 |  | 1977 | Various Artists | Up End Atom |
+| 98 | ![Cover](http://coverartarchive.org/release/b1eb1417-9ba7-4579-8767-f97576021c37/14840216501-250.jpg) | 1977-12 | Suicide | Suicide |
+| 85 | ![Cover](https://i.discogs.com/8B9YQ58tCKsHOE1YIM9sBqXiz0z3eroeHqwXKPsyVNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzA5/Ni0xMzU5OTk4MDUx/LTkzMTIuanBlZw.jpeg) | 1980 | Suicide | Suicide (1998 Remastered Version) |
+| 59 | ![Cover](http://coverartarchive.org/release/cc22ec44-bd0f-341e-8366-bd852f2284b1/15833399379-250.jpg) | 1981-03 | Deutsch Amerikanische Freundschaft | Alles Ist Gut |
+| 70 | ![Cover](http://coverartarchive.org/release/f5dee8bc-994a-4c92-b153-d741331cfa6a/5783319777-250.jpg) | 1997-10 | Atom and His Package | A Society of People Named Elihu |
+| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a24ecf29664e7ab517880acddc69391c.png) | 1999-04-20 | Wesley Willis | Greatest Hits Volume 1 |
+| 61 | ![Cover](https://i.discogs.com/hyvM4ONS2l2txkvf46g37gYYTOEJ3H4lmMmL0SX-rqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTM3/OC0xMzI3MjY2NDc1/LmpwZWc.jpeg) | 1999-06 | Atom and His Package | Making Love |
+| 63 |  | null | GO! With Fourteen O | The End Is Close. Almost No Need For Money. |
+| 79 | ![Cover](http://coverartarchive.org/release/b15fb707-0728-46f4-ba26-f3961e5c3bd4/14990407419-250.jpg) | 2001-04-03 | Atom and His Package | Redefining Music |
+| 60 | ![Cover](https://i.discogs.com/P7Pu4ursrh69jonwY7Hjc8PUI043dTfHGf7t2w6BAGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEx/NjQtMTM5NTQzNDQ5/NC0xOTU1LmpwZWc.jpeg) | 2002 | Frivolous | C: My Consciousness |
+| 88 | ![Cover](http://coverartarchive.org/release/b8f1990a-de9f-4344-adae-e67f681451be/7081508350-250.jpg) | 2004-09 | Björk | Who Is It |
+| 72 | ![Cover](https://i.discogs.com/6KEKvJ7uS0hAYHXhrWVpUtq-xeXptDNR19Li0taUQN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzg4/My0xMTU0ODk3OTQx/LmpwZWc.jpeg) | 2005-04-12 | Mindless Self Indulgence | You'll Rebel To Anything |
+| 99 | ![Cover](https://i.discogs.com/Evznj-2k9OAKAkRCGhP3jzrHyF0iLBoTZxOqFTgNLiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTA3/MS0xNjMxNDgyNzY1/LTk5NjAuanBlZw.jpeg) | 2005-04-12 | Mindless Self Indulgence | You'll Rebel to Anything (Expanded and Remastered 2008) |
+| 100 | ![Cover](https://i.discogs.com/Evznj-2k9OAKAkRCGhP3jzrHyF0iLBoTZxOqFTgNLiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTA3/MS0xNjMxNDgyNzY1/LTk5NjAuanBlZw.jpeg) | 2005-04-12 | Mindless Self Indulgence | You'll Rebel To Anything (Expanded and Remastered) |
+| 86 | ![Cover](http://coverartarchive.org/release/3fb3a0f3-f1a4-47d3-be79-3bd3d22d7d08/31514002046-250.jpg) | 2006-05-05 | Mediengruppe Telekommander | Näher Am Menschen |
+| 90 | ![Cover](http://coverartarchive.org/release/5be4a07f-6ad6-426a-a03f-f77ada0581b0/15101352098-250.jpg) | 2007-10-26 | Egotronic | Lustprinzip |
+| 67 | ![Cover](http://coverartarchive.org/release/a0f7c1a4-5db5-4448-aa12-bcce088638f7/3193474984-250.jpg) | 2008-10-17 | Egotronic | Kotzen / Raven gegen Deutschland |
+| 96 | ![Cover](http://coverartarchive.org/release/cf4d115f-d3ba-49e4-9213-fae979d22722/32208422242-250.jpg) | 2008-11-14 | Frittenbude | Nachtigall |
+| 94 | ![Cover](http://coverartarchive.org/release/26ab559a-bafe-43fe-a1d4-5ecc60897606/1977793972-250.jpg) | 2009-03-03 | Call the Cops | Motion Sickness EP |
+| 89 | ![Cover](http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-250.jpg) | 2009-06-01 | Patrick Wolf | The Bachelor |
+| 82 | ![Cover](http://coverartarchive.org/release/c249c3a0-f8d6-4069-aa66-00ff1680bbd4/26461839805-250.jpg) | 2009-06-30 | eleventyseven | Adventures In Eville |
+| 83 | ![Cover](http://coverartarchive.org/release/49ec31d8-d05f-4545-826f-2e5b00059b2e/18304648114-250.jpg) | 2009-07-10 | Jennifer Rostock | Der Film |
+| 75 | ![Cover](https://i.discogs.com/umVUYmlOLPSLl-pwg6yiKc_yWWmXflymD7S8m6rjYdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDM3/MjgtMTMwODQ0Nzg0/Ny5wbmc.jpeg) | 2010 | FUCKING WEREWOLF ASSO | Kid, Just Letting You Know We Are Doing It Again |
+| 58 | ![Cover](https://i.discogs.com/5Kr2c19VCMl6Epd0A_SVdzKgomU88P3_2xVY37wt7TE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzA1/NzctMTM4NTMyNDY0/OS00MTgwLmpwZWc.jpeg) | 2010-06-21 | Call the Cops | Call The Cops! |
+| 97 | ![Cover](http://coverartarchive.org/release/25dac7c3-4f4f-49bd-af82-13b4091edce9/4735403281-250.jpg) | 2010-07-15 | Anamanaguchi | Airbrushed |
+| 95 | ![Cover](http://coverartarchive.org/release/b48b8b50-05d7-4d52-863b-02d901112d7e/8693504879-250.jpg) | 2010-07-30 | Anamanaguchi | My Skateboard Will Go On |
+| 87 | ![Cover](http://coverartarchive.org/release/217d1d13-f463-41e8-b0b1-afe3d3bedc65/2932401977-250.jpg) | 2011-07-11 | FUCKING WEREWOLF ASSO | NITTIOTREMO |
+| 57 | ![Cover](http://coverartarchive.org/release/f2e49898-089d-4dd7-b018-803658555e06/31668626214-250.jpg) | 2011-10-25 | Mustard Pimp | No Title Or Purpose |
+| 65 | ![Cover](http://coverartarchive.org/release/0749f6c1-554e-4649-ad1c-27eaedd30f16/14649318426-250.jpg) | 2012-11-20 | Math the Band | Get Real |
+| 73 | ![Cover](https://i.discogs.com/zx4jHzJlvlWmUdXWEOGfCbo1doghz2E4CO2M1YmdRSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODU3/OTYtMTM2ODc2NjQ1/MC05MDAwLmpwZWc.jpeg) | 2013-05-14 | Mindless Self Indulgence | How I Learned To Stop Giving A Shit And Love Mindless Self Indulgence (Deluxe Edition) |
+| 62 | ![Cover](https://i.discogs.com/a5qdotkhZ6zZT6TW1W7ZjEJGHUpFX8tqdeUA2daEA-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTkz/OTQtMTQ2MTI0MzQ5/Ni03MTk3LmpwZWc.jpeg) | 2015 | Math the Band | Math the Band the Band The Album |
+| 66 | ![Cover](https://i.discogs.com/82E7VrSgK4uwKtv27s21s9yrdi5c6GRoUvknoHs5Fic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTc0/Ni0xNDE0NTk4OTcz/LTMwMTYuanBlZw.jpeg) | 2015-01 | Anamanaguchi | Meow - Single |
+| 71 | ![Cover](https://i.discogs.com/lWaIIZkNfSc360Rt9g0kUb6wnyveKtE5Jf9P86drh4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDIw/OTAyLTE2MzcxODY1/NDMtOTk2MC5qcGVn.jpeg) | 2015-01 | Anamanaguchi | Hopes and Dreams |
+| 76 | ![Cover](https://i.discogs.com/HXTKZy5RzLQg3Epvh9ernDxrnjkrdmPPbMwDyCuH8nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEx/NS0xMjgyODA1MTgz/LmpwZWc.jpeg) | 2015-03-16 | The Prodigy | World's On Fire (Live) |
+| 92 | ![Cover](https://i.discogs.com/cIZrhGrfvcC5wcr2Jyb0jIL1qfmFKG4kbmoKOPTJXB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzIx/NTI0LTE1MDMwNzIw/MDAtNjQyOC5qcGVn.jpeg) | 2015-07-15 | Alice Glass | CEASE AND DESIST |
+| 74 | ![Cover](https://i.discogs.com/0CJ-ojvYvkZbNg5CiuME15QIdlqZwOMZbd_Tf-rvEDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTU1/MjM2LTE2MzgxMTQ0/MjctODgzNy5wbmc.jpeg) | 2015-11-13 | Grossstadtgeflüster | Fickt-Euch-Allee (Episode 1) |
+| 81 | ![Cover](https://i.discogs.com/0CJ-ojvYvkZbNg5CiuME15QIdlqZwOMZbd_Tf-rvEDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTU1/MjM2LTE2MzgxMTQ0/MjctODgzNy5wbmc.jpeg) | 2015-11-13 | Grossstadtgeflüster | Fickt-Euch-Allee EP (Bonus Track Version) |
+| 51 | ![Cover](https://i.discogs.com/ETFGSQKMlja3_DEh4Rm0IB3kWFlPZ_v94TiNvEbRfTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU3/ODY3LTE0OTI2MjQw/NTctMzE4MS5qcGVn.jpeg) | 2017-04-18 | Youth Code | A Skeleton Key in the Doors of Depression |
+| 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dd969534be0dbcc26b71e3c66c88f8d7.png) | 2018-01-12 | ПОШЛАЯ МОЛЛИ | Грустная девчонка с глазами как у собаки |
+| 54 | ![Cover](https://i.discogs.com/rGpkc2RS6OokffHpwjL1c1AQLZFQdBs8MRbPhe1nfi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/NjM4LTE1MzYzNDMw/NDAtNzI1OS5qcGVn.jpeg) | 2018-09-07 | ADULT. | This Behavior |
+| 68 | ![Cover](https://i.discogs.com/bTXd3lXOlTCwit7XzUDJEY_Qn-t_vuZ4wg8gVhkfhJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODA2/OTYzLTE1OTgxNTQ5/MzctMjk4NS5qcGVn.jpeg) | 2020-08-21 | Rein | Reincarnated |
+| 64 | ![Cover](https://i.discogs.com/Qy-ZX-WgUBcnhxjh1OBu_Nkg6FXFu-X2iKfG6dArUYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM4/OTI2LTE2MDU3OTk2/NjMtNTAwMC5qcGVn.jpeg) | 2020-11-20 | The Network | Trans Am |
+| 78 | ![Cover](https://i.discogs.com/UvYIcHlIcL7phHIbeI4us4g0L-2wGkRpJ13f84FOwxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTI0/NTQ1LTE2MTA2Mzgx/MzctODExMi5qcGVn.jpeg) | 2021-01-22 | Horskh | Wire |
+| 91 | ![Cover](https://i.discogs.com/Zjib4vITWi00Al8_lTq6YrkxOqE-rscgrEKCJrBJ8-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/NTg3LTE2MjI5OTgx/OTItMzUyOC5wbmc.jpeg) | 2021-06-04 | NEUPINK | SEAWEED JESUS |
+| 56 | ![Cover](https://i.discogs.com/HaO-QfsC43wNXCl9TSUpmZdibv19o1l5i7TMxa-bxUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDkz/NzEzLTE2NTk1ODA5/NzUtODk5Mi5qcGVn.jpeg) | 2022-07-13 | Lynks | ABOMINATION |
+| 69 | ![Cover](https://i.discogs.com/HcMkUNQ5oZUL9PPd1SV_cHnWiuCoFwp5flLsIxWKz-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTE4/NzI0LTE2NzE1NDQ1/ODktMzEwMS5qcGVn.jpeg) | 2022-12 | Salò | Rabatt |
+| 93 | ![Cover](https://i.discogs.com/SIIlVtjhiSrvZhlnyhRiqTEGygLyMjSetKXUhj9n1_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzcy/ODU1LTE2Nzg0Njk0/OTctMzYyMC5qcGVn.jpeg) | 2023-03-09 | Alice Longyu Gao | Let's Hope Heteros Fail, Learn and Retire |
+| 77 | ![Cover](https://i.discogs.com/NFZ5FnU_ctYDtsuPvEI2ygho50lje15M1B9rUGD_BPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjI2/ODc1LTE2OTQzNzg4/ODgtODk2NC5qcGVn.jpeg) | 2023-09-15 | Sextile | Push |
+| 55 | ![Cover](https://i.discogs.com/1o-993RDCOD8_NhwKmtEGZHQ-xsu4n6mnPcP0rziGNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzc2/NjkxLTE2OTg5MzY3/NTgtNDc2NC5qcGVn.jpeg) | 2023-11-03 | Tränen | Haare eines Hundes |
+| 84 |  | null | WARGASM (UK) | Venom |

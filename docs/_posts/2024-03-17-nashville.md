@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2024-03-17T02:08:07.154Z
+permalink: tags/nashville
+title: nashville
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 47 | ![Cover](http://coverartarchive.org/release/80090b3a-6acd-4748-9365-78e1bf502757/34609430375-250.jpg) | 1959-07 | Chet Atkins | Chet Atkins in Hollywood |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d8e722cd272149e4c9b42aa16cad06e9.png) | 1963 | Roy Orbison | In Dreams |
+| 78 | ![Cover](https://i.discogs.com/Iz_Q3H7tHN4eFzPa8IsYGMWJws0bj83Z7dqyWqVe7M0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/MTU1LTE1NjAxODk5/NzAtNjI2Ni5qcGVn.jpeg) | 1966 | MONA (The Band) | Basement Demo |
+| 8 | ![Cover](http://coverartarchive.org/release/00a0a637-22a1-4918-b84e-ae45b8fc422f/7679939625-250.jpg) | 1970 | Tony Joe White | Tony Joe |
+| 11 | ![Cover](http://coverartarchive.org/release/8e04e5d7-ed79-3e2e-8558-6df68bab5f6d/19688294474-250.jpg) | 1971 | John Prine | John Prine |
+| 23 | ![Cover](https://i.discogs.com/PrPaxJV6WZMAOZKyBlZIgXU84Odzrjp8ChYkd2c2VKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTky/NTgtMTQ3Nzg1NjI0/NC00NTg1LmpwZWc.jpeg) | 1976 | Tony Joe White | Best Of |
+| 96 | ![Cover](https://i.discogs.com/ytguesrXo7vBq9DZurSN8TfWXddlkYLsc_S7PXx9Yk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzY0/OTUtMTQ1MDI3NzQ1/MC05NjgwLmpwZWc.jpeg) | 1979 | Bobby Smith | This Little Light Of Mine |
+| 34 | ![Cover](https://i.discogs.com/E79R7CNksI6kneyLrEFXMYYnbPkTFsipxvccswn_FWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTUw/NDctMTM2MzcyNzk5/My0xMTY4LmpwZWc.jpeg) | 1984 | John Prine | Aimless Love |
+| 17 | ![Cover](https://i.discogs.com/b1qDa69R3ygN1ZpoXBQMb6-oP6WwdsdboD8cQlcKJeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzU5/NTktMTU3OTAzOTk2/MS0yNjMxLmpwZWc.jpeg) | 1986 | John Prine | German Afternoons |
+| 91 | ![Cover](https://i.discogs.com/fSmMoqc0oLST9ZuyEpgKvd31l2APObGhxItScIusHn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTU5/OTYtMTM4MDUwMDk5/MS0yMzg1LmpwZWc.jpeg) | 1987 | Moseley | Moseley EP |
+| 15 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 1988 | Various Artists | A Working Stiff Christmas: 15 Years At Springwater |
+| 67 | ![Cover](https://i.discogs.com/ZNm6SCwP6gaxuljQzLDa9Bo7VTpZo1S_rRMagWanxkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjc0/NS0xMTI4NDIyNDU5/LmpwZWc.jpeg) | 1989 | Intruder | A Higher Form Of Killing |
+| 55 | ![Cover](http://coverartarchive.org/release/49292aa0-1dfc-4c05-8806-259cb29ee89e/7516981773-250.jpg) | 1991 | Marshall Chapman | Inside Job |
+| 24 | ![Cover](https://i.discogs.com/AsYj9kVSQ0nSJXRiNFIRKx4ACWfIliT7IPAbk7JLC_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU0/MDg0LTE1Mzk0Njk5/NjgtNjIxMi5qcGVn.jpeg) | 1992 | Lovelife | Lovelife |
+| 52 | ![Cover](http://coverartarchive.org/release/0ca90085-8db4-45b7-82ba-d72ca3c084d6/19031678937-250.jpg) | 1992 | Woody Guthrie | The Very Best of Woody Guthrie |
+| 76 | ![Cover](https://i.discogs.com/CDIOCqewBM9xE82lktZPtmnXhx7XdHLMbzhfRbonol4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Njg4/ODctMTQ4MTExNjM4/Mi0xMTQxLmpwZWc.jpeg) | 1994 | Willie Pearl | Paint Me In |
+| 33 | ![Cover](http://coverartarchive.org/release/0bb4a31c-86d4-41ff-bc7b-36611bccabfd/4363846705-250.jpg) | 1995-04-04 | John Prine | Lost Dogs and Mixed Blessings |
+| 56 | ![Cover](https://i.discogs.com/-I6SpudHxJFJh5x8-pBQP-RjoI7ECn-uzdLw7gsyb68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTYx/MzI1LTE1NjQ5Nzg4/NzEtNzIyOS5qcGVn.jpeg) | 1997 | Woody Guthrie | This Land Is Your Land: The Asch Recordings Vol. 1 |
+| 71 | ![Cover](https://i.discogs.com/-I6SpudHxJFJh5x8-pBQP-RjoI7ECn-uzdLw7gsyb68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTYx/MzI1LTE1NjQ5Nzg4/NzEtNzIyOS5qcGVn.jpeg) | 1997 | Woody Guthrie | This Land Is Your Land: The Asch Recordings, Vol. 1 |
+| 41 | ![Cover](http://coverartarchive.org/release/cfc7bc24-0b62-4340-ac26-742692a5df93/5709356147-250.jpg) | 1997-02-11 | Bobby Bare | The Essential Bobby Bare |
+| 93 |  | 1998 | Mickey Cash | Victory |
+| 65 | ![Cover](http://coverartarchive.org/release/28dc6cb2-2da0-460a-a6f2-3caf147b73b6/5719391618-250.jpg) | 1998-09-17 | Hank Williams | The Complete Hank Williams |
+| 13 | ![Cover](https://i.discogs.com/jcjEN_8GiMlAB16hgd3Xo0h10WTZg_H4RFuYc2UL7Mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODE2/Mi0xMTA0NDk3MDcy/LmpwZw.jpeg) | 1998-10-20 | Silver Jews | American Water |
+| 95 | ![Cover](https://i.discogs.com/Zs1vOS4u1N1q9MphtYOc3boY7xcZu8jwAnKbwWtEceE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY5/NzQyLTE1OTkzMDEz/MzQtOTM2Ny5qcGVn.jpeg) | 2002 | SmallTown | Whats All The Hatin Bout |
+| 31 | ![Cover](http://coverartarchive.org/release/1c5745b0-6f1d-3598-a1db-8d6aa1ae9bc4/17377781071-250.jpg) | 2002-02-19 | Lambchop | Is A Woman |
+| 38 | ![Cover](https://i.discogs.com/KiUIjkFJ-i7P6y8_OE_5s0K_1tcAwJ1xGDw8junA-z8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTM5/NTY0LTE0OTIzMjQw/OTItMzQ2NS5qcGVn.jpeg) | 2003 | Rose Falcon | How Bad Are You |
+| 69 | ![Cover](https://i.discogs.com/Q9TKjLwCW3sDG89UUSVkOaBQQf1qOhYU74-13qP45b8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTM0/MTEtMTI4OTI1MTA3/OS5qcGVn.jpeg) | 2003 | Lambchop | Awcmon - Noyoucmon |
+| 63 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 2004 | Various Artists | Give Hope This Christmas - A Gift from Blood:Water Mission |
+| 98 | ![Cover](https://i.discogs.com/vJsZMOxv_ACivsFzCQD2jH1gPA--v6g9_9eTgIV5Fw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODE3/MzE5LTE2NjU3MzEy/NTYtNDA3MC5qcGVn.jpeg) | 2004 | WAYNE PERRY | Sea Of Time |
+| 6 | ![Cover](https://i.discogs.com/52IsvI-OYtcTi1-5ArnTqwmfPB77V7TgQt4paibbUfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMx/MDctMTMyMzc1NzI4/Ni5qcGVn.jpeg) | 2004-02-09 | Lambchop | No You C'mon |
+| 73 | ![Cover](https://i.discogs.com/rUxwn66VepWy4PpTk25CpFMSF1FSTD5I4Qv91sIeqFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzA0/OTAtMTQ2ODQxMzk2/Ny02NTkwLmpwZWc.jpeg) | 2005 | Chris Milam | Young Avenue |
+| 30 | ![Cover](http://coverartarchive.org/release/db3b83dc-b975-49ce-a300-fa01b678d955/10799413817-250.jpg) | 2005-04-26 | John Prine | Fair &amp; Square |
+| 39 | ![Cover](http://coverartarchive.org/release/7c219b6a-11b6-4f7e-a305-47c90982d7a0/18568193679-250.jpg) | 2005-04-26 | The Clutters | T&amp;C |
+| 5 | ![Cover](https://i.discogs.com/HGCIm9xMQbb2uHkeN1re4rloyr6U-z7fmgvkFrF8iO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzIw/Ni0xMzk1NTE0MDc0/LTU3MzMuanBlZw.jpeg) | 2006-08-11 | Lambchop | Damaged |
+| 74 | ![Cover](https://i.discogs.com/jzIqCSKXCdnBVZC5FxWxpNxhnheJzfqwisLwdSOyUuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgx/NzM5LTE1MTUzMDc4/OTQtNTMxNy5qcGVn.jpeg) | 2007 | We Were Pirates | This American Life |
+| 87 | ![Cover](https://i.discogs.com/wSmFdDF7UoMLWp8wF5as6dgeCdR-L_NUQENkZFPaDWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ1/NjcwLTE1NDcwNjc4/NTgtMjE4Ni5qcGVn.jpeg) | 2007 | Matt Martino | Remember Me |
+| 100 | ![Cover](https://i.discogs.com/mingFBpbk27_pQ5sxPXHIhvzpCXZhq3Dh-wdS859kCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI0/OTM1LTE1NDIxMDQy/NjUtMTk4MS5wbmc.jpeg) | 2007 | Maggie Smith | Change. Love. Surrender. |
+| 97 | ![Cover](https://i.discogs.com/QkO5R8KmPFh_SeDUJw-WmoWe5ddgNq30ST8wDBGAMZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzAz/MzA1LTE1ODk0NTMy/NzEtNDIxMy5qcGVn.jpeg) | 2007-01-30 | j malem | Beginnings End |
+| 62 | ![Cover](https://i.discogs.com/uImtE5bp5bsmToRy2O64T4S4ntup3pK_YWkfMKCnVE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTYw/MzUtMTQwMjkzNzky/Ny05NDczLmpwZWc.jpeg) | 2007-03-20 | Haystak | Crackavelli |
+| 35 | ![Cover](http://coverartarchive.org/release/8c474158-1f7e-4295-a308-4bca37e4f1b0/20392401512-250.jpg) | 2007-04-24 | The Clutters | Don't Believe A Word |
+| 60 | ![Cover](https://i.discogs.com/Jy88gWKrQArUK9pzBNjTncHvZvGbehHoBIzYR_hgGog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDA4/ODYtMTQ1ODkyNjc5/NS0zNzU5LmpwZWc.jpeg) | 2007-05-08 | Rachel Pearl | Love Extravagantly |
+| 22 | ![Cover](https://i.discogs.com/_IBHz_3BC0IdN69jRgmxoK9CX0yQi8nkfKHleDEjy80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzg3/OTctMTIyMjcyMzI4/My5qcGVn.jpeg) | 2007-06-19 | Worldwide Groove Corporation | Chillodesiac Lounge vol. 1: FEVER |
+| 20 | ![Cover](http://coverartarchive.org/release/9801d8a4-d020-42da-b795-4eb0c2ba405e/3086289101-250.jpg) | 2008 | Jypsi | Jypsi |
+| 37 | ![Cover](https://i.discogs.com/nagX8aJiO3CLSpr15WKMo7z8DI3Tmywngbpz-XM8K2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzcx/MzQtMTM3NTgzNzc1/My00NzI5LmpwZWc.jpeg) | 2008 | Canon Blue | Treehouse &amp; Mother Tongue (Robjn Remixes) |
+| 40 | ![Cover](https://i.discogs.com/AvBFFDmKvae2RHzDBYGz0cyUk9YV8WuG1Dhb4ShOtTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjkx/MDUyLTE0OTQ3NjAy/NjYtODIwNC5qcGVn.jpeg) | 2008 | Mando Saenz | Bucket |
+| 14 |  | 2009 | Out of Ether | Out of Ether and Friends |
+| 81 | ![Cover](https://i.discogs.com/_paRhSmV5ahSjwHZReIlIoPDbMraMm0sUZspC1-1UoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjQ1/MDktMTQ0MTI0NzYy/Mi0yNDgwLmpwZWc.jpeg) | 2009 | Paramore | Bonnaroo Music &amp; Arts Festival, USA, 08-06-2018 |
+| 9 | ![Cover](http://coverartarchive.org/release/a9a797ae-1d7c-44ea-b2c4-8e75c36619f1/5227626872-250.jpg) | 2009-06 | Cortney Tidwell | Boys |
+| 59 | ![Cover](https://i.discogs.com/HOXp1xINud4_Z-ueMGG2xawB-Au7FceQFVOuJRFL81s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc4/ODQ2LTE2MDEyNzIz/NTEtMjE0Mi5qcGVn.jpeg) | 2009-12 | Brother Henry | God Is Alive |
+| 16 | ![Cover](http://coverartarchive.org/release/d56fe411-6198-4534-99ab-55846d2f1574/34034197117-250.jpg) | 2010-01-25 | Beth Nielsen Chapman | Back To Love |
+| 92 | ![Cover](https://i.discogs.com/pHxpfTIYzjZyBfV4u5aMFGR353WFMO_DbwdvVzBjxtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk1/MTg5LTE1MTU1NDky/NzEtNzMyNy5qcGVn.jpeg) | 2010-03-01 | Goofy Guys | Why But Of Chaos |
+| 27 | ![Cover](https://i.discogs.com/9Fen3Y-1f_az6aQ-jAXYpkQVC_yJalI52GbesjJIdQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjk2/MDUtMTM1NjI3OTEy/MC05MDYxLmpwZWc.jpeg) | 2010-04-06 | The Black Cadillacs | All Them Witches |
+| 19 | ![Cover](https://i.discogs.com/xGY75xVMbsMCbG-t-r163ttsxAB4d6RpF9joUuSPCOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk1/NDI5LTE1MzQ0MTM1/NjMtMjE5Ny5qcGVn.jpeg) | 2010-07-04 | Girls In The Eighties | Faceless Sonic Boom |
+| 25 | ![Cover](http://coverartarchive.org/release/85042fd9-2d87-4ad2-a46e-56627bc2c426/8765265500-250.jpg) | 2011 | The Delta Saints | The Delta Saints |
+| 51 | ![Cover](https://i.discogs.com/0ytWNRgLgvhUEL1slvYblTRZzXqzzaneqPkoiR9Gq4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTQ4/NzYtMTQ1MzUwOTA0/MS0yMzkyLmpwZWc.jpeg) | 2011 | Billy Falcon | Made Man |
+| 89 | ![Cover](https://i.discogs.com/HxDS-l7KidUwsozhCaTE7XCgcanMLLkAc23XVCRf6d0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzU5/MzktMTMxMjc0Mjg4/MC5qcGVn.jpeg) | 2011-07-12 | M.I.T. | Sounds Like Money |
+| 68 | ![Cover](http://coverartarchive.org/release/db46affa-316d-4018-8b73-23380de471ba/2843918591-250.jpg) | 2011-10-29 | Awake! Awake! | New Prime: Episode 5 Soundtrack |
+| 21 | ![Cover](http://coverartarchive.org/release/4d1a56f5-59e8-4b9b-86a4-198d6242993c/5310691678-250.jpg) | 2012 | The Sufis | The Sufis |
+| 90 |  | 2012 | We Were Pirates | Mp3 |
+| 45 | ![Cover](https://i.discogs.com/PQkmOgFPQmUOu-sz4KKU4dZLLLdD9nFlFo2H_mt6CHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjQ4/NjgtMTQwOTExMDQ3/OS05Njg0LmpwZWc.jpeg) | 2012-03-11 | Auto Defiance | Damiana's Dream |
+| 48 | ![Cover](https://i.discogs.com/tyowx_ICHowu-S46ICQ1VV9g5g4OjQN40BAARac9l-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDYy/MDEtMTQ3MTE5OTIy/MC0xMTQzLmpwZWc.jpeg) | 2012-04-03 | Awake! Awake! | Mega Man X Soundtrack |
+| 83 | ![Cover](https://i.discogs.com/_k2j5__FN445q8cAOPlMw587J9qU94W7jATCjiNvo9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI3/NjUzLTE1ODA0ODQy/MjgtNDA4Ny5qcGVn.jpeg) | 2012-05-10 | Dawson James | Our Country |
+| 32 | ![Cover](http://coverartarchive.org/release/2c6de50d-894b-4a72-8587-c3ffbbafb60d/6046642317-250.jpg) | 2012-10-05 | Tom Beck | Americanized |
+| 49 | ![Cover](http://coverartarchive.org/release/e6ad9fd2-ae4d-435e-b075-e9f6c67d3c8e/8399856845-250.jpg) | 2012-10-16 | Kelsey Waldon | Fixin' It Up |
+| 66 | ![Cover](http://coverartarchive.org/release/968e5bb3-50ed-47a7-a4c0-647faf7d0cbb/16978854351-250.jpg) | 2012-12-11 | Nashville Cast | The Music of Nashville: Original Soundtrack, Season 1, Volume 1 |
+| 36 | ![Cover](https://i.discogs.com/BHNvwqZj72O9ux13PgqWj2up0TLEFGb7T4_i7jK7RD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTAz/MjE0LTE1MjQ0Mjkx/NjktNDk3OS5qcGVn.jpeg) | 2013 | Brett Young | On Fire |
+| 43 | ![Cover](https://i.discogs.com/QlFO3d48KoKRrXwjU5CaSp1Xk89kGQKrVMFhqOJl-vY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDc3/MzkxLTE1OTIxNzI4/NzUtMzE1MS5qcGVn.jpeg) | 2013 | Carly Jamison | Everything Happens For A Reason |
+| 44 | ![Cover](https://i.discogs.com/JSvZGM0j4XpkIw2281oMmyx5sieKhTMvK-vqoN1zV60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDQx/MjktMTQwOTYyNDYy/OC0zNzk2LmpwZWc.jpeg) | 2013 | Black Tar Prophet | Deafen |
+| 61 | ![Cover](https://i.discogs.com/I2WwjGYZpoVsCfx5JaMxNEXN6hGnmDBScleFKRCDTlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTQ0/NjQtMTQyMDk5Mjky/MS01MDUyLmpwZWc.jpeg) | 2013 | Nashville Cast | The Music of Nashville: Original Soundtrack, Season 1, Volume 2 |
+| 85 | ![Cover](https://i.discogs.com/ZzbGk18Gr55ljMA6nsmyAuuTatnL21D393ek132G510/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAx/ODAtMTM3NDYyODQy/NS0xMjYxLmpwZWc.jpeg) | 2013 | Sarah Siskind | Living Room |
+| 10 | ![Cover](http://coverartarchive.org/release/3640479c-7dfa-46f2-b56a-160de2912ee9/3429010691-250.jpg) | 2013-01-22 | Torres | Torres |
+| 2 | ![Cover](https://i.discogs.com/kg1gMI0_QqyHtuWBU5aUzYApR0P_iDAgFNdy0dCHmYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjU3/NjktMTM2OTkwNjI3/MS01NzQ0LmpwZWc.jpeg) | 2013-04-02 | Bombino | Nomad |
+| 28 | ![Cover](https://i.discogs.com/kssFt9O-OSNbahoHPL21zoGEDXVB0pkV-poH-SpP7fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzI0/OTItMTM5MDc2MDgx/OS02MjM2LmpwZWc.jpeg) | 2013-08-27 | MODOC | MODOC |
+| 84 | ![Cover](https://i.discogs.com/Zb4ZHHx_Lx7WXrUT6BAp6rQCraspNgGlqleTIBuaiqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODU4/Mjg4LTE2NTc1OTM2/MDItODY0Mi5qcGVn.jpeg) | 2013-09-06 | Danae | O Come |
+| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/38f6076528ce22a7ba32a5400c804a0b.png) | 2013-09-24 | Wild Cub | Youth |
+| 99 | ![Cover](https://i.discogs.com/_vCUjD6iQlUY6SPJskG2BZa6Nc02d65dePwuBKYB9yE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MzU2/MTEtMTM3OTkyMTg5/MS04NTg5LnBuZw.jpeg) | 2013-10-04 | Blaq Dot | Blaq Dot - Live &amp; Recorded DJ mixes |
+| 57 | ![Cover](https://i.discogs.com/XbWDXhCkzwT_sGIgjN72rkspRXgJ0sJXlfv18mXzrKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTM2/ODk0LTE1ODcxNTQ1/MTYtNjM4Ni5qcGVn.jpeg) | 2014 | Lauren Strange | Say Yes |
+| 79 | ![Cover](https://i.discogs.com/g5T-TtI7v4qaGw2GqONJ1DPR1r85HNQ1rFohvFJpjOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzA3/NjItMTQyMzQ1Mzkz/Mi0yNTMwLmpwZWc.jpeg) | 2014 | Forteana | Dream Cellar |
+| 86 | ![Cover](https://i.discogs.com/YW1P42t64zk1nlEMcgvDNjxUNFJErAw_oG9cUSLkSnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE0/OTk0LTE1OTgzNjQ4/MTEtMzQ4OS5qcGVn.jpeg) | 2014 | Adam Foster And The Phantoms | Adam Foster And The Phantoms |
+| 75 |  | 2014-01-03 | Kelly Pettit | Every Sunrise |
+| 94 | ![Cover](http://coverartarchive.org/release/f942c9cf-c42c-48b0-b56e-d79671a48751/7749423469-250.jpg) | 2014-05-01 | Juanita du Plessis | From Nashville |
+| 50 |  | 2016 | Monica Ramey | Make Someone Happy |
+| 80 | ![Cover](https://i.discogs.com/7rR7rMdpctrGibYl28scygWdEU52cj2RPJGc5qxW3gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTcy/NzcxLTE2NjM2NzI4/NjEtMTk1My5qcGVn.jpeg) | 2017 | You Knew Me When | You, Me, and the Rest of the World |
+| 12 | ![Cover](https://i.discogs.com/4JThP6XVKgdQPzcTpmTEi6iXR5LcCl2n-XmSAT71_Zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDEw/OTE0LTE0OTkwNjk2/MjAtMTUwNi5qcGVn.jpeg) | 2017-06-09 | Rise Against | Wolves |
+| 46 | ![Cover](https://i.discogs.com/O6ZmtTQT-nP14RSasoKXwYEUSwRwwTOvX-IvnIdzvrI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM1/MTc2LTE1MjMzODA1/NDktOTAzMC5qcGVn.jpeg) | 2018-01-19 | Ron Gallo | Really Nice Guys |
+| 88 | ![Cover](https://i.discogs.com/Rtf_R0GN2vx0pbtaAWuCR_EkY2sowms6GS6WUvX8XlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/ODAyLTE1MjQyNzA4/ODMtOTgzNS5qcGVn.jpeg) | 2018-04-10 | Rodger Coleman | Real Gone |
+| 18 | ![Cover](https://i.discogs.com/nE8GYBcgBF0Nv2_v0yOeBdb-KyBnvXj_xpa8uAGAJvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzE2/NzAxLTE1MzI3OTc0/MzktNjIwOC5qcGVn.jpeg) | 2018-07-27 | Hammock | Chasing After Shadows... Livin |
+| 42 | ![Cover](https://i.discogs.com/hCV09lFYghPvHumHapZAQvL5UpsweG57FuWZmQVSvFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTA2/MzYzLTE2MDgxNTc2/MjYtMzU1OS5qcGVn.jpeg) | 2020-10-16 | Sturgill Simpson | Cuttin' Grass - Vol. 1 (Butcher Shoppe Sessions) |
+| 58 | ![Cover](https://i.discogs.com/empDkZ9w-rMl50jSswKG4I12FsaCjqEdqyhjA-fZ4Yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI4/MDI2LTE2MDIxNTI2/NDAtMzQxMy5qcGVn.jpeg) | 2020-10-16 | Philip White | the Alpha &amp; Omega Suite - the Seasons: Spring Omega |
+| 64 | ![Cover](https://i.discogs.com/empDkZ9w-rMl50jSswKG4I12FsaCjqEdqyhjA-fZ4Yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI4/MDI2LTE2MDIxNTI2/NDAtMzQxMy5qcGVn.jpeg) | 2020-10-16 | Philip White | the Alpha &amp; Omega Suite - the Seasons: Spring Alpha |
+| 53 | ![Cover](https://i.discogs.com/eBrkSHn3dXeCz9ycmGJKYeNNONelvlcfI5riJAMCrUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY2/Mjk2LTE2Njg1OTQ1/MDAtNzAxNy5qcGVn.jpeg) | 2022-01-14 | Foggy Bottom | Late Night Transistor |
+| 70 | ![Cover](https://i.discogs.com/aZIrNrzYfdGFDaO_LlRSLkgygn0kP4lPCTjNWxuaz4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/OTYwLTE2NjIxMjM2/MDMtNDQ2NS5qcGVn.jpeg) | 2022-02-06 | Skin Tension | Observe / Mimic / mutate |
+| 72 | ![Cover](https://i.discogs.com/aZIrNrzYfdGFDaO_LlRSLkgygn0kP4lPCTjNWxuaz4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/OTYwLTE2NjIxMjM2/MDMtNDQ2NS5qcGVn.jpeg) | 2022-02-06 | Skin Tension | Skin Vision |
+| 77 | ![Cover](https://i.discogs.com/aZIrNrzYfdGFDaO_LlRSLkgygn0kP4lPCTjNWxuaz4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/OTYwLTE2NjIxMjM2/MDMtNDQ2NS5qcGVn.jpeg) | 2022-02-06 | Skin Tension | SKIN VISION |
+| 82 | ![Cover](https://i.discogs.com/HKeIbPrvjjjm5BEHV-Q8cu6Do_CjTc4ehK6Diwou9OI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjk5/MjY1LTE2NDg2NTI2/MjctMjAxMi5qcGVn.jpeg) | 2022-03-30 | Hazardous | Wavelength | Instrumentals, Vol. 7 |
+| 29 | ![Cover](https://i.discogs.com/MzgByD5VLqzXJJiSup5d0jVqjiOhNMCPrLVekAROYmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODkx/ODkyLTE2ODk2OTAz/MjYtMzk2NS5qcGVn.jpeg) | 2022-04-15 | Saidan | Onryō II: Her Spirit Eternal |
+| 4 | ![Cover](https://i.discogs.com/t8DhJ-ZsnxZ8OBBiH84u8HQhTa-wtoUu11T4eU57jKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE5/NzAwLTE2NDI3MDkx/NTItNjQ4MC5qcGVn.jpeg) | 2022-04-29 | Billy Talent | Crisis Of Faith |
+| 26 | ![Cover](https://i.discogs.com/Ka-vzTsFQNv4jw25vZxGBahYzkmPeJm6MfyKnbl3WWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODIx/NDUwLTE2MTU2NDIw/NTItNzA4NS5qcGVn.jpeg) | 2023-07-07 | Saidan | Split w/ Klanen |
+| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fdf4dfc98d783361004182b2c318e0e6.png) | 2023-10-13 | Mali Velasquez | I'm Green |
+| 54 | ![Cover](https://i.discogs.com/aZIrNrzYfdGFDaO_LlRSLkgygn0kP4lPCTjNWxuaz4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/OTYwLTE2NjIxMjM2/MDMtNDQ2NS5qcGVn.jpeg) | 2024-07-19 | Skin Tension | Machinic Impulses of the Hyperreal |

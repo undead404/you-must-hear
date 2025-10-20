@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2025-01-11T10:49:41.574Z
+permalink: tags/experimental-noise
+title: experimental noise
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 3 | ![Cover](https://i.discogs.com/S3GunzBxFX_ODvb-K8pS4zQr39vGB6W2Zivvo6Il5_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjYy/Ni0xNDgwODU3Njg0/LTM3MTYuanBlZw.jpeg) | 1982-04-01 | Non | Physical Evidence |
+| 6 | ![Cover](https://i.discogs.com/vTVbgNZPGLSS4t9pR8cAciqEvqp03e0YlEZP_VK5scw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDg3/Ny0xNTA5NzIxNDAz/LTUxOTcuanBlZw.jpeg) | 1983-10 | P'o | Whilst Climbing Thieves Vie for Attention |
+| 8 | ![Cover](http://coverartarchive.org/release/499482f7-3817-481e-b8a0-f9e07ac39723/11441305283-250.jpg) | 1990 | Vladimir Ussachevsky | Film Music |
+| 12 | ![Cover](https://i.discogs.com/X-eCBxs0q4PzsN2d32YJazGwJ0lhY7JH_nbjqaLYalc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjQ4/Ny0xMDkzNzE4MjE1/LmpwZw.jpeg) | 1990 | John Watermann | Ambiguity |
+| 9 | ![Cover](https://i.discogs.com/4VM2mcA11QM13I2o16v4IJKMbEC4K3PqLnxD7Drbaog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjIx/ODgtMTY3NjY4OTA5/Ni02OTA2LmpwZWc.jpeg) | 1991 | Stretchheads | Pish In Your Sleazebag |
+| 17 | ![Cover](https://i.discogs.com/kZYo1UrHbUR3tKXismcSrL-34yp4QsKWOF3Vqcf5y88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDM3/NC0xNTYzMTU0MzE5/LTQzOTkuanBlZw.jpeg) | 1991 | Solmania | Metamorphor Chorus |
+| 44 | ![Cover](https://i.discogs.com/gvTGjh53FX5sMn4LUqT_hEf2QcI4D_sABfVbsoG4_sE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjYz/OC0xMTA0MzYxNjI4/LmpwZw.jpeg) | 1991 | Spinal Machine | Scraping It Hard |
+| 60 | ![Cover](https://i.discogs.com/LAiLaqWxPyKJt-c4M4IN2gLHYOC-AaWF1MYYSlSZnS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTI3/Mi0xMTA5Nzg2MzIy/LmpwZw.jpeg) | 1991 | Dark Alceste de Socaï Vômie | Tristesse Psychotronique |
+| 52 | ![Cover](https://i.discogs.com/n1bYglpvduJoAEP_Y_uFocfQdFQYMCs85nrfB1vhOO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjQ3/Ni0xMTc2MDA1NDg0/LmpwZWc.jpeg) | 1993 | Dark Alceste de Socaï Vômie | Ondes Neuronales |
+| 39 | ![Cover](https://i.discogs.com/C_OX2mwhbnmmJ3LSuF4gb7vWb1ib75a53iJruoPBCho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDMx/My0xMjY3NTUzMTk4/LmpwZWc.jpeg) | 2002 | (brain) | Katabasis |
+| 33 |  | 2003 | Big Sexy Shaq | My Autobiography: Cowboy Kirk Roughin's Puts On A Show |
+| 41 |  | 2003 | Big Sexy Shaq | 50 Songs from the Perspective of LOVE |
+| 61 | ![Cover](https://i.discogs.com/pjqBmyrkn91T0JqMJIopXtlKS7j_d7m8raCPjpmHvrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODMz/MTEtMTE5OTAzMDc2/NS5qcGVn.jpeg) | 2003 | The Tleilaxu Music Machine | A Flow of Code |
+| 72 |  | 2003 | Big Sexy Shaq | My Response + Your Response + A Bunch of Silly Noises |
+| 89 |  | 2003 | Big Sexy Shaq | Mozsex: A Pop Music Experiment |
+| 56 | ![Cover](https://i.discogs.com/eNvH6OSISEEFFN5aFXPTVA-FCcQPwSn9J-MjjW2GyUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA2/NTgtMTE4ODE2OTUw/OC5qcGVn.jpeg) | 2003-07-19 | La Plume | Untitled |
+| 13 | ![Cover](https://i.discogs.com/qt5ekSvrIQ3iPuki9a1TongjoTBqKdkSphYnSpCLK7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDIx/OS0xMTY2MjAxMzQz/LmpwZWc.jpeg) | 2004 | Nautical Almanac | Rooting for the Microbes |
+| 27 | ![Cover](https://i.discogs.com/gNnG5kl30SXvP9aNnZM8E9vpKk4eAAi1V8rZvjDzx9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTQy/My0xMjkyMTM3OTIz/LmpwZWc.jpeg) | 2004 | Atarix | sadoru state |
+| 82 | ![Cover](https://i.discogs.com/LHtl0Ik62M2vLwGcBOOLH_yrj9XYSD3Acav-P6OygHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjMw/NTMtMTI1NTI5ODIy/OS5qcGVn.jpeg) | 2004-04 | Pneumogaastriq | Hietaniemi‏ |
+| 19 | ![Cover](https://i.discogs.com/1CQ9xRp7PlRplN3S37fSWr3C9BG15tMPtNr2PuygmPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTUy/MDQtMTI0NTE2MTAy/MC5qcGVn.jpeg) | 2005 | F.M.G | No Talking |
+| 14 | ![Cover](http://coverartarchive.org/release/6755f4ae-0a72-44f2-924c-17da4e0f2ca3/35746818366-250.jpg) | 2005-05 | Control | The Means To An End |
+| 55 | ![Cover](https://i.discogs.com/B30dw_piUZWZLJYlRHMJhzYxAagrpcxaY-q_G0w5CNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Nzcz/NC0xMTU0NzI3Mjc4/LmdpZg.jpeg) | 2005-05-04 | Overthruster | original pcm resynthesis |
+| 25 | ![Cover](https://i.discogs.com/OZoO5lYDtqHD0LxNfySE6utZH_nPTh3MpvipH-n88Ys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzUz/MC0xMTQ4ODE4NzU4/LmpwZWc.jpeg) | 2006-03-23 | John Watermann | To Be Taken Seriously It Has To Be Long |
+| 5 | ![Cover](https://i.discogs.com/nePhnTy3ESbAcp9WndgAlFfwSfENrdiaHzld7A4AcZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjUy/MjYtMTE4NTM5MzUz/My5qcGVn.jpeg) | 2007 | Eva|3 | The Great Divide |
+| 20 | ![Cover](https://i.discogs.com/rpAOqOYZFbCnicAZXliQam0tr_EV6gWjCc4FsTvBeO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc5/MzMtMTE5NDI5NDMz/NS5naWY.jpeg) | 2007-06-09 | Mammoth's Nest | evil mouse |
+| 38 | ![Cover](https://i.discogs.com/FLmX6ZADGtoBJNpBgOggmgtO_em3X9qzwih1aEdZaGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAx/NTEtMTE4ODEzNTAy/NC5naWY.jpeg) | 2007-07-08 | Morgen Mittag | Astroglitch |
+| 51 | ![Cover](https://i.discogs.com/Tb2SdsFpy7k5rFiWDYY3PMcuSK-pBRdhXLSRK2oN7_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTcw/MDYtMTE5MzM1NDky/Mi5qcGVn.jpeg) | 2007-10-24 | Fuck, The Retarded Girl | Oh Fuck! (Another Shitty Internet Compilation) |
+| 24 | ![Cover](https://i.discogs.com/-U61wgXUj15Z3Ckoy2Dw1nOGgo4jOyjXlLBupxj3l60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI5/OTktMTQ2NDU2ODI1/MC00MDgzLmpwZWc.jpeg) | 2007-12-03 | Morgen Mittag | Digiwatt Lydt |
+| 2 | ![Cover](https://i.discogs.com/A_LvwNT2qhGPuHT72PgjJ3xWYsFckNUldD8fXr1Tek8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc4/NzUtMTIyNjM3MTMw/OC5qcGVn.jpeg) | 2008 | Aaron Dilloway | Modern Jester |
+| 7 | ![Cover](http://coverartarchive.org/release/5cc1e51c-8983-461b-a771-4017d0c8bdb3/3314213038-250.jpg) | 2008 | Prurient | And Still, Wanting |
+| 31 | ![Cover](https://i.discogs.com/mnH-5aaVfDc1w2IzxI6iO3znIlnla3UPMpeTDYVz_w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTM4/NzAtMTIyNjQwNTU0/Mi5qcGVn.jpeg) | 2008 | Fuck, The Retarded Girl | The Dead Horse Tapes |
+| 40 | ![Cover](https://i.discogs.com/mnH-5aaVfDc1w2IzxI6iO3znIlnla3UPMpeTDYVz_w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTM4/NzAtMTIyNjQwNTU0/Mi5qcGVn.jpeg) | 2008 | Fuck, The Retarded Girl | Split With Wolverine Carcass |
+| 54 |  | 2008 | ___dREàgänN|||||| | Veterinarian No More |
+| 62 |  | 2008 | Fuck, The Retarded Girl | Material For Electric Guitar Performance |
+| 66 | ![Cover](https://i.discogs.com/mnH-5aaVfDc1w2IzxI6iO3znIlnla3UPMpeTDYVz_w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTM4/NzAtMTIyNjQwNTU0/Mi5qcGVn.jpeg) | 2008 | Fuck, The Retarded Girl | Split With Abortus Fever |
+| 85 | ![Cover](https://i.discogs.com/8gqIJT8KItnT6GszEO3h_L6TxXQ-dEh1Qvclmwu8RM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY1/NzctMTIzMzA0NTk4/OS5qcGVn.jpeg) | 2008 | Fuck, The Retarded Girl | Split With Ecoute La Merde |
+| 47 |  | 2008-01 | ___dREàgänN|||||| | Vertebrae |
+| 68 |  | 2008-03 | ___dREàgänN|||||| | spb28686 |
+| 46 | ![Cover](https://i.discogs.com/LkkJotooP-xgLTRpetxlNf1LwC7TRa1iDR9xFh7phjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA5/NzItMTIwNTI5MjQ5/Ni5qcGVn.jpeg) | 2008-03-12 | It's Hard It's Hard | Untitled EP |
+| 96 | ![Cover](https://i.discogs.com/qQSRa39BmQZtxcJNn3nqxdX8BapK1LddrdggcH53n8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTc0/MzEtMTM4NTEyNDM3/OS01MzgyLmpwZWc.jpeg) | 2008-04 | Elliott Sharp | Blackburst Psycho-Acoustic |
+| 63 |  | 2008-04-16 | ___dREàgänN|||||| | Spring Mechanical Bird |
+| 32 | ![Cover](https://i.discogs.com/3lmGUol1368vqrkpYvt-J61oqeaE92eELiAYGQ5IrUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDIz/MzQtMTMyODk5ODAy/NS5qcGVn.jpeg) | 2008-05-16 | Oh Yes, By All Means | A Granma (incomplete) |
+| 67 | ![Cover](https://i.discogs.com/3lmGUol1368vqrkpYvt-J61oqeaE92eELiAYGQ5IrUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDIz/MzQtMTMyODk5ODAy/NS5qcGVn.jpeg) | 2008-05-16 | Oh Yes, By All Means | A Granma |
+| 77 | ![Cover](https://i.discogs.com/3lmGUol1368vqrkpYvt-J61oqeaE92eELiAYGQ5IrUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDIz/MzQtMTMyODk5ODAy/NS5qcGVn.jpeg) | 2008-05-16 | Oh Yes, By All Means | A Thrilling Publication |
+| 30 | ![Cover](https://i.discogs.com/uzb9k3K0PDDinJA6FrNwOReh7SqV6v8kBwq9jw4-bLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODEw/NjEtMTIyNDg5MTAx/MC5qcGVn.jpeg) | 2008-06-24 | God Generator | Electrocatalysts |
+| 76 | ![Cover](https://i.discogs.com/QRgpsUn0tvOkzVXJn9gCq4QCpSN1hocC0IvxbB6dY2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQx/MjMtMTIyODc0MjU5/NS5qcGVn.jpeg) | 2008-07-07 | God Generator | Heroic Dose |
+| 84 | ![Cover](https://i.discogs.com/QRgpsUn0tvOkzVXJn9gCq4QCpSN1hocC0IvxbB6dY2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQx/MjMtMTIyODc0MjU5/NS5qcGVn.jpeg) | 2008-07-07 | God Generator | Antimatter Drive |
+| 93 | ![Cover](https://i.discogs.com/QRgpsUn0tvOkzVXJn9gCq4QCpSN1hocC0IvxbB6dY2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQx/MjMtMTIyODc0MjU5/NS5qcGVn.jpeg) | 2008-07-07 | God Generator | Future Shock |
+| 94 | ![Cover](https://i.discogs.com/QRgpsUn0tvOkzVXJn9gCq4QCpSN1hocC0IvxbB6dY2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQx/MjMtMTIyODc0MjU5/NS5qcGVn.jpeg) | 2008-07-07 | God Generator | Spectral |
+| 48 |  | 2008-07-10 | ___dREàgänN|||||| | The Great White Snail |
+| 35 | ![Cover](https://i.discogs.com/JlaBQ-ijdnOnzSy9kkCAWk2M0ILulZhlQK_812nVLn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzU1/NTItMTIyMjQ4MzAz/Mi5qcGVn.jpeg) | 2008-09-26 | Fuck, The Retarded Girl | Shostakovich Violin Concertos Nos. 1 &amp; 2 |
+| 43 | ![Cover](https://i.discogs.com/JlaBQ-ijdnOnzSy9kkCAWk2M0ILulZhlQK_812nVLn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzU1/NTItMTIyMjQ4MzAz/Mi5qcGVn.jpeg) | 2008-09-26 | Fuck, The Retarded Girl | Amplitude Modulation Concerto No. 3 |
+| 45 |  | 2008-10-06 | ___dREàgänN|||||| | Tree Splitting Sword |
+| 36 | ![Cover](https://i.discogs.com/qdJamVJ2x66AmdEkZsg5CCUo0I9xHOPE28ss-ZZqPwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIy/OTYtMTI2NjI4MzYy/MC5naWY.jpeg) | 2008-11-10 | Dotåbåtå | Inaccurate Representation |
+| 16 |  | 2008-11-19 | ___dREàgänN|||||| | The Uvtopobos Djinn |
+| 57 | ![Cover](https://i.discogs.com/ExQi1NdkXm6HaKDfrfVzYmQCBwqEeetCxJm7303TqVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI2/NjktMTIyNzIyMTgw/Mi5qcGVn.jpeg) | 2008-11-22 | Dotåbåtå | Failed Forestry |
+| 69 | ![Cover](https://i.discogs.com/WtizjHfnyvVlZ8U9l3FGToSiSIuERWnd6EOldNYg3fI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI2/OTktMTI5NzY3NDQ3/NS5qcGVn.jpeg) | 2008-12-01 | Dotåbåtå | Necropolis ( In Rotting Swamp Bog ) |
+| 70 |  | 2008-12-01 | Cacogen | 6000 Glowing Fingers |
+| 18 | ![Cover](https://i.discogs.com/LO2VN54Gvke9FIOFxYLpEjOBEXM5cbxDrAi4tzwH81s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjE5/NTItMTIyODU3NjMw/NC5wbmc.jpeg) | 2008-12-07 | Fuck, The Retarded Girl | Bondage Circa 1953 |
+| 23 | ![Cover](https://i.discogs.com/aN1ZrGdHwOZlMthwgvIdJ_BAzhsGiM_2nED0QZMWWws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTgz/MzItMTMwNjI2Njcw/NS5qcGVn.jpeg) | 2009 | Maximum Terrorem | Tenebrae |
+| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5b7fd8874e9a4817b216d2371a0dd793.png) | 2009 | Dannii Minoise | Dannii Minoise |
+| 49 | ![Cover](https://i.discogs.com/8gqIJT8KItnT6GszEO3h_L6TxXQ-dEh1Qvclmwu8RM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY1/NzctMTIzMzA0NTk4/OS5qcGVn.jpeg) | 2009 | Fuck, The Retarded Girl | Shitcore Cunt! |
+| 53 | ![Cover](https://i.discogs.com/q0qRwedAhJA2c9w3eUqlebnphB5yR1XjHtAlIPS45Eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk0/MjItMTIzMTk0NDUw/MS5qcGVn.jpeg) | 2009 | Rainbosws | Rainbosws |
+| 59 | ![Cover](https://i.discogs.com/yVRNswC5_79nGCftssyDy1wkdS7omkkwWTFhEZ0Pjgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEz/ODItMTI1MTE5NTE1/OC5qcGVn.jpeg) | 2009 | Juan Matos Capote | Jabal |
+| 64 | ![Cover](https://i.discogs.com/vi2vx_3XWU4bX9xkFZ-u_40Fs3mXetWJXQG11r7c5T8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTY2/NDEtMTI2MTY0MTQ4/My5qcGVn.jpeg) | 2009 | Dotåbåtå | Dotåbåtå &amp; Zebra Mu Split |
+| 74 | ![Cover](https://i.discogs.com/_XD0rD6-yyjvnGJMsloKJCkj_zVw_q2RtcvbIDZwano/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTQ1/NzAtMTMwNzA1MDQx/My5qcGVn.jpeg) | 2009 | Dotåbåtå | Dotåbåtå |
+| 50 | ![Cover](https://i.discogs.com/qes1ASt0rBVtNlXtuyV0aTcFka0Nx3d29RLiH_39Wto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTE0/OTYtMTUzOTk0MTY3/Ni04NDA3LmpwZWc.jpeg) | 2009-01-14 | F.M.G | Shearing Pinx F.M.G Split |
+| 28 |  | 2009-02-22 | ___dREàgänN|||||| | Eviltricity |
+| 37 |  | 2009-06-18 | ___dREàgänN|||||| | Transgenic Contamination |
+| 10 | ![Cover](https://i.discogs.com/mDjcH2UDA4wftoeV3ac6LlgHcgseYRmSEyA009trpIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDY0/ODUtMTI3MjEyNDI3/My5wbmc.jpeg) | 2009-07-17 | Fuck, The Retarded Girl | Foot Worship and Fellatio |
+| 42 | ![Cover](https://i.discogs.com/mDjcH2UDA4wftoeV3ac6LlgHcgseYRmSEyA009trpIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDY0/ODUtMTI3MjEyNDI3/My5wbmc.jpeg) | 2009-07-17 | Fuck, The Retarded Girl | Tomb Whacker / Fuck, The Retarded Girl - Split |
+| 34 | ![Cover](https://i.discogs.com/K_8HlQgmFbWaWPP6NHiKZQ-4VBlmd1B1pGGSVa7fK90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODE1/NTgtMTI1NjUxODM5/MS5wbmc.jpeg) | 2009-09-02 | Fuck, The Retarded Girl | Axem Rangers |
+| 22 | ![Cover](https://i.discogs.com/YtfOhpyEwQuzFOLnyuEh97571yRH8vAQB3C1Vpc-M_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTk0/NS0xMTM2OTE3MTgz/LmpwZWc.jpeg) | 2010 | Maurizio Bianchi | Mokushi XVI, XVI |
+| 21 | ![Cover](https://i.discogs.com/tN_0qZlW6b9Soqpb5_sgxRvsARDapuwtiXH76Nu2Tvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTQ2/MDMtMTI4ODE4Nzg0/Ny5qcGVn.jpeg) | 2010-09-28 | Smegma | Mirage |
+| 73 | ![Cover](https://i.discogs.com/0bBjHA2dQKbPOKISKuF76x9hv03Ebz5vKK1L3E0QR1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTE4/MjMtMTI5MjA5ODk1/Ny5qcGVn.jpeg) | 2010-12-28 | Vziel Projet | live improvisation 2011-01-08 |
+| 87 | ![Cover](https://i.discogs.com/EdC74Du_GHCuu-Cj9Fvl1u9sLdpiK3MKNUh7TxG9CAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTQz/OTMtMTI5NTE0NTg3/NS5qcGVn.jpeg) | 2011-01-15 | Marasmatronics Projet | 20 |
+| 75 | ![Cover](https://i.discogs.com/_pZdEoOb5ctUshNoxf_NuGGaZNddXO0zAcXI-HoNikI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODUw/NDItMTQ1MDg5NTU4/Ny02ODQwLmpwZWc.jpeg) | 2011-03-14 | Dau Unge | Kveldskråke |
+| 81 | ![Cover](https://i.discogs.com/-5_6Lc76zw7S-I8vMNMoj5nLy6Nx8850dOhoF-wEeGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODQ5/OTMtMTQ1MDg5NDY0/MS04NDcyLmpwZWc.jpeg) | 2011-03-14 | Dau Unge | Tarmkors |
+| 79 | ![Cover](https://i.discogs.com/qe5E7wbnkYjdYe44fHYrHBR66Nu2GHJSPFMjssKP2gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTg3/ODEtMTMwNjI4NzQ1/NC5qcGVn.jpeg) | 2011-05-25 | Morpheus Lunae | Rauschen |
+| 97 | ![Cover](https://i.discogs.com/ma36KZWQoPMJEBUT1IOG5XKY-2mLzWW5iTnQIkWQlyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTY3/MzctMTM0NDc4NTg2/NC0zMjcwLmpwZWc.jpeg) | 2011-08-29 | Cacogen | n.d-r |
+| 98 | ![Cover](https://i.discogs.com/ma36KZWQoPMJEBUT1IOG5XKY-2mLzWW5iTnQIkWQlyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTY3/MzctMTM0NDc4NTg2/NC0zMjcwLmpwZWc.jpeg) | 2011-08-29 | Cacogen | aPokélypse Now |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ec38e88aba2a44f9bdbaf355ec520c39.png) | 2011-09-11 | Noothgrush | Live for Nothing |
+| 90 | ![Cover](https://i.discogs.com/PDLQl1glVt5A0wDaN1bOIkwPLB_4h8-q2e5CEnSKOPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTQ3/NzA5LTE1MTgyODc0/NTYtNzM3NS5qcGVn.jpeg) | 2011-09-26 | Static Goat | tnepreStaoG rof sregnomezioN |
+| 80 | ![Cover](https://i.discogs.com/WT-jtp02yNLGn8QocYWCB-xw9RV9UcLHcxPfddJjDN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODUw/ODAtMTQ1MDg5NjIw/NC04MzMwLmpwZWc.jpeg) | 2011-11-06 | Dau Unge | Sivil Ulyd |
+| 78 |  | 2012-05-29 | Onetwotwo | Jazz Funk |
+| 65 | ![Cover](https://i.discogs.com/s9iWtG3BdtFe4KTn3DHnZo74ZE7RFyJ-k0Wc-8Ch4hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjUw/MDUtMTM2NTYyNDA4/Ny0yNzAwLmpwZWc.jpeg) | 2013-01-19 | Nihilist Waves | Il Primo Attentato |
+| 58 | ![Cover](https://i.discogs.com/LXwyZZrZl8CK6fVn2oErKv4DuY4PHiBIOhjpvZ_1fsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTU0/NzktMTM2NjUyNTkz/OC05OTY0LmpwZWc.jpeg) | 2013-04-20 | Cinchel | diamond in the rough |
+| 71 | ![Cover](https://i.discogs.com/fQ3VulKcUCUlZ2Xh9kMZ_lXIXVBr7WQOo1MYFvGCX90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzQw/ODMtMTQ3NzEwNjMx/OC0yMzExLmpwZWc.jpeg) | 2014-07-19 | The Terrorist Collective | Intercosmopolitan Sex (With Depressed Women) |
+| 4 | ![Cover](https://i.discogs.com/KFsTL83RONvjiA6UnC0yPZELoFoolVEBXY81884wCss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDU0/OTgtMTU4NTExMTkx/NC0xOTIyLmpwZWc.jpeg) | 2016 | The Trees &amp; The Wild | Zaman, Zaman |
+| 83 | ![Cover](https://i.discogs.com/gh6VKPGAN0bCB6uw6oDWkodvwLskQPoPgSYYQaUEycw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDMw/NzQ4LTE1MjY5MDQ3/NjctNTgxNS5qcGVn.jpeg) | 2016-02-26 | Static Goat | Signs of The End |
+| 15 | ![Cover](https://i.discogs.com/qgR28bcFZxnSFoFdA2xVzL3FUySIUFEPGBYmQWCCNeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzg5/MzctMTQ2MDMzMTYz/Ni04NTY4LmpwZWc.jpeg) | 2016-05-03 | Sissy Spacek | Reversed Normalization |
+| 11 | ![Cover](https://i.discogs.com/8NKyo7t_JAPcTS6Fav439gHPbvq2vp8d217YUfNOLgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Nzg1/MDctMTQ4NDYzMzI0/My04MTMyLmpwZWc.jpeg) | 2016-11-11 | Spiked Punch | Guinea Pig |
+| 100 | ![Cover](https://i.discogs.com/oy4ETE9kqNSuPF17rFSIlOeQ0gtH_FytvM9JFwiVl-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE1/MTUyLTE2NDI2ODY1/MTQtODMxNC5qcGVn.jpeg) | 2017-02-17 | Fredrik Falk | Galleritt II: Oslo Open Blandhoel |
+| 91 | ![Cover](https://i.discogs.com/d5XeUm_cUbGs0jOOing1V-QmzlDsbgoMUnFoEwo-dBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE1/Mjc4LTE2NDI2ODcx/NTUtNzMzMy5qcGVn.jpeg) | 2017-04-03 | Fredrik Falk | droner i mono |
+| 99 | ![Cover](https://i.discogs.com/d5XeUm_cUbGs0jOOing1V-QmzlDsbgoMUnFoEwo-dBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE1/Mjc4LTE2NDI2ODcx/NTUtNzMzMy5qcGVn.jpeg) | 2017-04-03 | Fredrik Falk | døde for deg |
+| 92 | ![Cover](https://i.discogs.com/Hha_geEEBs1VpiByBeYbq1fZ33kTRP6RuXKeoNi70K8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzgz/ODQ1LTE1MjIzMjI0/MDAtMTQxMy5qcGVn.jpeg) | 2018-03-29 | DJ Purble Place &amp; DJ Discord_ | SLUSH TAPE 1 |
+| 86 | ![Cover](https://i.discogs.com/dJwzDWhN_lY7pXsTB5Cvdo6b4RDTo5OnvAFEtlKUErg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDAw/MzIzLTE1MjYzMTQz/NTQtMTk5NC5wbmc.jpeg) | 2018-05-14 | Soul Assault | Feedback of Shudders |
+| 88 | ![Cover](https://i.discogs.com/MRywjUExpUllxHCMP3MctOaPHvBG85kynLjzepQC_q8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTQx/MjEzLTE2ODQ2MTY0/NzUtOTI2Ni5qcGVn.jpeg) | 2018-11-02 | Noise Against Fascism | Fuck Off Piss Off Go to Hell Eat Shit Die |
+| 26 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 2023 | Various Artists | The ABC's of Internet Noise |
+| 95 | ![Cover](https://i.discogs.com/kfIRMGLBInJIrsJST2FvMCEdGNwNEc2BQgI8c-Ey7yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA4/MzU2LTE3MjA4NjA1/ODctNTM1Mi5qcGVn.jpeg) | 2024-07-11 | Noise Against Fascism | Escapessimism |

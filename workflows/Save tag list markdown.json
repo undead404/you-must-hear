@@ -1,0 +1,336 @@
+{
+  "name": "Save tag list markdown",
+  "nodes": [
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "d8f86dce-72ae-4219-9b5a-7bb74839e0bd",
+              "name": "artist",
+              "value": "={{ $json.artist }}",
+              "type": "string"
+            },
+            {
+              "id": "62c3be7a-3f93-4bda-8fe3-30694a9331c3",
+              "name": "cover",
+              "value": "={{ $json.cover }}",
+              "type": "string"
+            },
+            {
+              "id": "e1b68e2d-69cd-477b-a1e4-28501ed2601b",
+              "name": "date",
+              "value": "={{ $json.date }}",
+              "type": "string"
+            },
+            {
+              "id": "4b3f0040-5843-41d4-a57a-6b32b50785c6",
+              "name": "name",
+              "value": "={{ $json.name }}",
+              "type": "string"
+            },
+            {
+              "id": "c946ab81-ffff-4f40-98ce-9c373cdef16b",
+              "name": "thumbnail",
+              "value": "={{ $json.thumbnail }}",
+              "type": "string"
+            },
+            {
+              "id": "94538fc8-d5cd-4c7c-84a6-6434f4cb4d3a",
+              "name": "place",
+              "value": "={{ $json.place }}",
+              "type": "number"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        1344,
+        32
+      ],
+      "id": "cb2a621f-35c3-476b-b121-86fa4fcfd580",
+      "name": "Edit Fields"
+    },
+    {
+      "parameters": {
+        "operation": "select",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "value": "TagListItem",
+          "mode": "list",
+          "cachedResultName": "TagListItem"
+        },
+        "limit": 100,
+        "where": {
+          "values": [
+            {
+              "column": "tagName",
+              "value": "={{ $json.name }}"
+            }
+          ]
+        },
+        "sort": {
+          "values": [
+            {
+              "column": "place"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        672,
+        32
+      ],
+      "id": "2c12fe05-2283-4371-9fd0-c46eb6ab0277",
+      "name": "Get the list",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "mode": "combine",
+        "combineBy": "combineByPosition",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        1120,
+        32
+      ],
+      "id": "d15abc5c-e3c9-469f-98b6-8776a5368f42",
+      "name": "Merge places with albums"
+    },
+    {
+      "parameters": {
+        "jsCode": "const title = $('Begin').first().json.name;\n/**\n * @type {Record<string,string>}\n */\nconst tagsToReplace = {\n    '&': '&amp;',\n    '<': '&lt;',\n    '>': '&gt;'\n};\n\nfunction replaceTag(tag) {\n    return tagsToReplace[tag] || tag;\n}\n\nfunction escape(str) {\n    return str.replace(/[&<>]/g, replaceTag);\n}\nlet markdown = `---\\ncategory: genre\\ndate: ${$('Begin').first().json.listUpdatedAt}\\npermalink: tags/${title.replaceAll(' ', '-')}\\ntitle: ${$('Begin').first().json.name}\\n---\\n\\n| Place | Cover | Date | Artist | Album |\\n|---|---|---|---|---|`;\nconst items = $input.all().toSorted((item1, item2) => {\n  if (item1.json.date === item2.json.date) {\n    return 0;\n  }\n  if (item1.json.date < item2.json.date) {\n    return -1;\n  }\n  return 1;\n})\nfor (const item of items) {\n  markdown += `\\n| ${item.json.place} | ${item.json.thumbnail ? `![Cover](${item.json.thumbnail})` : ''} | ${item.json.date} | ${escape(item.json.artist)} | ${escape(item.json.name)} |`\n}\n\nreturn {markdown};"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1568,
+        32
+      ],
+      "id": "ba94333d-8213-4f82-bdbb-77b4a82fc3a6",
+      "name": "Create Markdown",
+      "executeOnce": false
+    },
+    {
+      "parameters": {
+        "operation": "write",
+        "fileName": "=/Users/Vitalii_Perehonchuk/Projects/ymh7/_posts/{{ $('Begin').first().json.listUpdatedAt.slice(0,4) }}-{{ $('Begin').first().json.listUpdatedAt.slice(5,7) }}-{{ $('Begin').first().json.listUpdatedAt.slice(8,10) }}-{{ $('Begin').first().json.name.replaceAll(' ', '-') }}.md",
+        "options": {
+          "append": false
+        }
+      },
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1,
+      "position": [
+        2016,
+        32
+      ],
+      "id": "e451c400-f4db-4c43-9e25-2c459d3740b9",
+      "name": "Read/Write Files from Disk1"
+    },
+    {
+      "parameters": {
+        "operation": "toText",
+        "sourceProperty": "markdown",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.convertToFile",
+      "typeVersion": 1.1,
+      "position": [
+        1792,
+        32
+      ],
+      "id": "1b006f98-3b62-4505-8964-612c52acbab9",
+      "name": "Convert to File"
+    },
+    {
+      "parameters": {
+        "operation": "select",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "value": "Album",
+          "mode": "list",
+          "cachedResultName": "Album"
+        },
+        "limit": 1,
+        "where": {
+          "values": [
+            {
+              "column": "artist",
+              "value": "={{ $json.albumArtist }}"
+            },
+            {
+              "column": "name",
+              "value": "={{ $json.albumName }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        896,
+        -48
+      ],
+      "id": "cbea5287-d513-45e1-9182-b9e548b77cbb",
+      "name": "Get the albums",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "workflowInputs": {
+          "values": [
+            {
+              "name": "name"
+            },
+            {
+              "name": "listUpdatedAt"
+            }
+          ]
+        }
+      },
+      "id": "ccc5d4ab-26a5-4a86-8845-34f2e57499b0",
+      "typeVersion": 1.1,
+      "name": "Begin",
+      "type": "n8n-nodes-base.executeWorkflowTrigger",
+      "position": [
+        464,
+        32
+      ]
+    }
+  ],
+  "pinData": {
+    "Begin": [
+      {
+        "json": {
+          "name": "78 revival",
+          "listUpdatedAt": "2025-01-03T20:57:00.143Z"
+        }
+      }
+    ]
+  },
+  "connections": {
+    "Get the list": {
+      "main": [
+        [
+          {
+            "node": "Get the albums",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Merge places with albums",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Get the albums": {
+      "main": [
+        [
+          {
+            "node": "Merge places with albums",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge places with albums": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "node": "Create Markdown",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Markdown": {
+      "main": [
+        [
+          {
+            "node": "Convert to File",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Convert to File": {
+      "main": [
+        [
+          {
+            "node": "Read/Write Files from Disk1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Begin": {
+      "main": [
+        [
+          {
+            "node": "Get the list",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "448b0e65-443d-4b56-bd69-958f6162601f",
+  "meta": {
+    "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"
+  },
+  "id": "AMToWGJ4IZ3WqfBx",
+  "tags": []
+}

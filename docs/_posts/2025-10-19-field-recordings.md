@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2025-10-19T01:47:26.992Z
+permalink: tags/field-recordings
+title: field recordings
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 43 | ![Cover](https://i.discogs.com/TMdAnXd9tXs1dIQHKC9ywcMDwGaEjU4lpTOe2ZGkBDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDYx/Mi0xMTYxOTgxNTY5/LmpwZWc.jpeg) | 1992 | Peter Sotos | Buyer's Market |
+| 39 | ![Cover](https://i.discogs.com/DZQInZTZ9uLRiCQzmb_f5rXpE9GP-4fUUMFFJ5gGzmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDg4/My0xNjgzMjAxMTM1/LTkzNDYucG5n.jpeg) | 1995-10-20 | Doopees | Doopee Time |
+| 41 | ![Cover](http://coverartarchive.org/release/56fc07a8-a7c5-4ac4-9ef7-7e763299da94/10159484387-250.jpg) | 1999-06-11 | Muslimgauze | Hand Of Fatima |
+| 15 | ![Cover](https://i.discogs.com/V0-s3gIXNHcVDtVFmRAouflZD0lyZFOObHP9W4kpcsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc5/OC0xMTc5NDA5NDE5/LmpwZWc.jpeg) | 2000 | Andrew Chalk | Crescent |
+| 28 | ![Cover](http://coverartarchive.org/release/682507dc-4ecb-4b7c-ad69-8c9518a7d209/29719190648-250.jpg) | 2003-04-07 | Set Fire to Flames | Telegraphs in Negative / Mouths Trapped in Static |
+| 29 | ![Cover](http://coverartarchive.org/release/48e426a1-ce4e-455c-84c7-9d367e5a9d51/26590257305-250.jpg) | 2006 | Peter Wright | Pariahs Sing Om |
+| 1 |  | 2006-11-13 | chris watson &amp; bj nilsen | Storm |
+| 26 | ![Cover](http://coverartarchive.org/release/06d01ca3-9f66-49b3-8db5-47f63a7a9da4/9259827129-250.jpg) | 2008-02 | Olhon | Underwater Passage |
+| 24 | ![Cover](http://coverartarchive.org/release/23466525-7530-4733-acf0-ae7e5468ecab/6943845921-250.jpg) | 2012-05-11 | Bruno Sanfilippo | Urbs |
+| 2 | ![Cover](https://i.discogs.com/AOVgAWm73ChYHn1Z8x3bFLh_Q9O7_faCI-Pm4JmVmu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQz/NzAyLTE1NzI2MjUx/MDMtNzI0Mi5qcGVn.jpeg) | 2021-10-28 | Underworld | Drift Episode 1 |
+| 3 |  | null | Taylor Swift, Phoebe Bridgers | Red (Taylor's Version) |
+| 44 | ![Cover](https://i.discogs.com/WRofE49qT5DHqr912Lr-rkVGJObw2i_-O6GMsTnXHiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjIy/My0xMTc1ODc2MDk5/LmpwZWc.jpeg) | 1996 | Chris Watson | Stepping Into the Dark |
+| 32 | ![Cover](https://i.discogs.com/oG_1iE3z01_rfP-YuId28zVFCRtevFXsYzEFA3D8EoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTI5/MS0xMTY5MDIyOTg0/LmpwZWc.jpeg) | 1998 | Chris Watson | Outside the Circle of Fire |
+| 49 | ![Cover](http://coverartarchive.org/release/37f44aba-b5b9-4639-b099-430ba81dc815/29069924571-250.jpg) | 2005-03 | Jacob Kirkegaard | Eldfjall |
+| 45 | ![Cover](http://coverartarchive.org/release/803f003c-9f5e-4a53-8b7d-2832606d7bf4/3165117800-250.jpg) | 2006-03 | Olhon | Sinkhole |
+| 35 | ![Cover](https://i.discogs.com/K0F-qLYDt1Tsj1kVJ4zvpfUrB9dTGwrV-mPmQO_sAc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjMy/Ni0xMTkzNDQ1MDg1/LmpwZWc.jpeg) | 2006-06 | Stephan Mathieu &amp; Janek Schaefer | Hidden Name |
+| 4 | ![Cover](https://i.discogs.com/siEW7aLmHZBagx2mUfbdDf5hTJfYtKNEw1Fnz2iSKJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDcw/MC0xNTE3NzYyNTA0/LTgxMjIuanBlZw.jpeg) | 2006-11-20 | Geir Jenssen | Cho Oyu 8201m: Field Recordings from Tibet |
+| 42 | ![Cover](https://i.discogs.com/UBDqftclfqjatHBped2evSlJb-qo7fK15AYK137-8yE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njgy/OTAtMTIzNzMyODU3/OC5qcGVn.jpeg) | 2009-04-22 | Jana Winderen | The Noisiest Guys On The Planet |
+| 47 | ![Cover](https://i.discogs.com/ZlnSDepc1azHhGTus_ZXnMDrxMY-k01FnzCfSvx4-XM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mzc1/MDAtMTM2NzcxNDgw/MC00NzgzLmpwZWc.jpeg) | 2011-12-17 | The Eternal Twilight | Another Quiet Day |
+| 31 | ![Cover](https://i.discogs.com/L9C141EuJoCPT60_NOOc0t9DVO991GYian_a7EH94mI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzA4/MTgtMTM1NDgwMzQ3/NC00MTM0LmpwZWc.jpeg) | 2012-10-24 | Saåad | Confluences |
+| 16 | ![Cover](https://i.discogs.com/NmpkVAFdU4FnecwfQL_5E0rZMVMoOOtE1p71a8oo1T0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTQ0/NDUtMTM2NjQ5MDcz/Ni03MTUyLmpwZWc.jpeg) | 2013-03-21 | Lights Dim &amp; Endless Melancholy | Soft Steps EP |
+| 7 | ![Cover](https://i.discogs.com/ZOeCeDcPhl_WBItlxoR_2SGQHzKtvYV6JgIAXi7KK_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA4/MjU3LTE1MjI3MzU5/MjQtOTkwMC5qcGVn.jpeg) | 2013-06-07 | Taylor Swift, Ed Sheeran | Red (Taylor's Version) |
+| 25 | ![Cover](https://i.discogs.com/POgouMd8t3dVMWReWPA_ZbKuEE5v4eTxVSWcyFo_d50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTE4/NTMtMTM4NzAzMjQ1/NC0yNDYxLmpwZWc.jpeg) | 2013-06-15 | Foresteppe | No Time To Hurry |
+| 34 | ![Cover](https://i.discogs.com/l3Lcdio4ZftnnqqnmFSydeVqy70lNQZeSUAYE164B1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjQ4/MDktMTM3MzIwMjk1/NS0yODY3LmpwZWc.jpeg) | 2013-07-01 | Chris Watson | In St Cuthbert's Time |
+| 18 | ![Cover](https://i.discogs.com/x5g4_rHS81_oXQF6TYb9fJU2hvYaPZmkUz0EJvqOqPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDgw/MzQtMTQ4MDc2MDk2/NC0yMzgxLmpwZWc.jpeg) | 2013-08-05 | Deerhunter | Double Dream of Spring |
+| 5 | ![Cover](https://i.discogs.com/sGuxMJOMgdQd_pxDQDm1G9az2fJs4Yiq8bxwkLtcGM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDUx/NjItMTM4MDIwMjg0/NC05NTA5LmpwZWc.jpeg) | 2013-09-10 | Marek Brandt | fieldz and towns |
+| 21 | ![Cover](https://i.discogs.com/2YhcmEpYf-aaEOot1bHgyeK9bnXBW-BZ5JZ5r2jd4Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzE4/OTktMTU4OTc0NDY1/OC0yNzk1LmpwZWc.jpeg) | 2014-08-06 | Cremation Lily | Christening Summer |
+| 48 | ![Cover](https://i.discogs.com/LqKt3Mj-kwNCaDc2Rjb4X_W5dmpgJkOJwAwqiJDyNsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDI0/NjEtMTQxOTI0MTM1/Ni0zOTkxLmpwZWc.jpeg) | 2015-02-10 | Hecq | Mare Nostrum |
+| 51 | ![Cover](https://i.discogs.com/fdlTWkICFvVVWy7jnMP3lwXfKCVKxbdiWUAbAWNLDEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjM2/MjUtMTQ4MTA0OTEy/OC0xMDEwLmpwZWc.jpeg) | 2016-02-24 | Hotel Neon | Remnants |
+| 10 | ![Cover](https://i.discogs.com/Vg0P1IbNbm38UyVm5fwr0WE4qfnaXXV48cNbgV-kj14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzc3/MzEtMTQ3NjEzMDQw/Mi0zNTc5LmpwZWc.jpeg) | 2016-10-08 | Padang Food Tigers &amp; Sigbjørn Apeland | Bumblin' Creed |
+| 9 | ![Cover](https://i.discogs.com/V3dN74jTTo2Ia4fhGSTGg1z-MS88_BlfO_9RX8SMqgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU2/ODMwLTE1MjAxNDY3/OTQtODc4OC5wbmc.jpeg) | 2017-10-24 | Dj Lostboi | GOT LOST |
+| 8 | ![Cover](https://i.discogs.com/8DEUuXqlOPVNzZoWLh8rhuB7AZHpucdEXYC8PTbLK6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjIy/MDc4LTE2NTI1MjQ3/ODItMTg2OC5qcGVn.jpeg) | 2018-03-23 | Félix Blume | Death In Haiti: Funeral Brass Bands &amp; Sounds from Port Au Prince |
+| 6 | ![Cover](https://i.discogs.com/UB-wjfabWKFFFn0w9R_9phe-K9moBQyojx0lv8dezvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjE1/NjU1LTE2NzcyNzg1/MTItOTI1MS5qcGVn.jpeg) | 2018-03-27 | Shum | Levegő |
+| 27 | ![Cover](https://i.discogs.com/B05IupdFTKCJ2HaN2sUbLC2pvXFkk8Ng9LrSt5wrook/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ1/NTQ1LTE1NjAyMTQw/OTYtOTY0Mi5qcGVn.jpeg) | 2018-08-03 | laura les | hello kitty skates to the fuckin CEMETARY |
+| 13 | ![Cover](https://i.discogs.com/wPFfmS0aoYgd9dwFgDKWdr7tItpOg-8MDXITf8iOjG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzk4/MDAyLTE1ODE3OTg5/NzctNDc2OS5qcGVn.jpeg) | 2020-01-28 | Lindsheaven Virtual Plaza | Rainforest Hill, Vol. I + II |
+| 20 |  | null | Ora Dell Graham | A Treasury of Library of Congress Field Recordings |
+| 22 |  | null | Godspeed You! Black Emperor | G_d’s Pee AT STATE’S END! |
+| 36 | ![Cover](https://i.discogs.com/bngKMjxc8fgsTUin-f-DRvUoInE9fzEuhqZPVMifaNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjU2/NDAtMTQ0MDAzMzEw/NC0yMjAzLnBuZw.jpeg) | 2015-08-12 | Remember | ルートバックホーム |
+| 50 | ![Cover](https://i.discogs.com/yuy1hxoqNbGa0TXXJ3n4bQo14jwBJl7O9Oac6J_ahaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEy/NTQyLTE1NDA1NjQw/MjYtNjYzOS5qcGVn.jpeg) | 2018-10-26 | Penelope Trappes | Penelope Two |
+| 37 | ![Cover](https://i.discogs.com/bc8eWbwvjPlhfz5OXjit4QknpzQQfZjDh1MJ-zy2124/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDg5/NDQ5LTE1ODUyNTEy/OTctMTI4MS5qcGVn.jpeg) | 2019-09-06 | Melanie Martinez | K–12 |
+| 23 | ![Cover](https://i.discogs.com/UmIPzwaAaRpQHBvHEBa7djNt_Y2-j6pde02HYSDYwxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQx/ODcyLTE1ODQ0NjY2/NjEtNTU0Ny5qcGVn.jpeg) | 2020-04-17 | Claire Rousay | a heavenly touch |
+| 19 | ![Cover](https://i.discogs.com/WoxbNiVQLrMXZXivDqVg4-dd9AL7U7Z8VuNjoOdOoi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjcw/NjExLTE2MTM2MzU0/OTUtNTA4My5qcGVn.jpeg) | 2021 | The Gerogerigegege | &gt;(decrescendo) |
+| 12 | ![Cover](https://i.discogs.com/l9wQNE-o2PxmXSE77LaTTFcxR7sbUCVPBXU7cyiGGXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTky/MDYzLTE1ODMwMTA5/MDItNDU1MS5qcGVn.jpeg) | 2022-03-13 | Cosmic Cycler | City Lights Forever |
+| 17 |  | null | Steve Chana | Guided Meditation: Anxiety Relief |
+| 40 |  | null | Seaworth + Taylor Deupree | Wood, Winter, Hollow |
+| 33 | ![Cover](https://i.discogs.com/SejFC3dP0zsp8T8Rz9-nSjfugD43MWowo2Pd9ABTM-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg2/ODQ3LTE1OTU5MTEz/MjUtNzU1My5qcGVn.jpeg) | 2020 | JPEGMAFIA | Call Me Maybe - Single |
+| 46 | ![Cover](https://i.discogs.com/1fDSib8edPB8t4uEcTF0KEAqPaB5nkchqvN0HPN_xz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjA2/MTM0LTE2MzQzNTQ5/NDMtODA2Ny5qcGVn.jpeg) | 2021-11-30 | Celer | Tempelhof |
+| 38 | ![Cover](https://i.discogs.com/Qq7-PuLb8W7EdVdn6R80RuUmdulL3M9BHCtuNbSuLsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mjc4/NDQtMTQxODk3Njk3/MC05NzU1LmpwZWc.jpeg) | 2022-09-30 | Deepchord | Functional Extraits 1 |
+| 11 |  | 2023 | Various Artists | Songs of the Humpback Whale |
+| 30 | ![Cover](https://i.discogs.com/DTaqWxCJ45WYSLlJS0v9Olo3poGCkgknrl9fUHsQTjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODI3/MTA5LTE3MDE0MDgy/MzAtOTE0MS5qcGVn.jpeg) | 2023-10-27 | Flora Yin-Wong | Cold Reading |
+| 14 | ![Cover](https://i.discogs.com/T5JfZNEfF-6Hq5j8MTxYh8CE1Mfywoppt4UysUprBUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTY3/NDYxLTE3MzA0NzE0/NzItODk3NS5qcGVn.jpeg) | 2024-11-01 | Mount Eerie | Night Palace |
+| 52 |  | null | Godspeed You! Black Emperor | f#a# (infinity) |
+| 54 |  | null | カヒミ・カリィ | Trapeziste |
+| 64 |  | 1973 | Various Artists | World Library Of Folk And Primitive Music - Ireland |
+| 57 | ![Cover](https://i.discogs.com/ltu5Jr7Mlr33U_Wj9hAa8q1_kidWYPsm_hyq8XE_amw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTc4/NTMtMTE4ODc3NjA2/OC5naWY.jpeg) | 1975 | John Fahey | Days Have Gone By |
+| 53 | ![Cover](https://i.discogs.com/WHbsZuI1n0ouQcgVopY5cW9wv2FPiy2ViysH_Cocgv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjA5/OTMtMTU5MDgzODAw/MC03MTk0LmpwZWc.jpeg) | 1995 | THE BARNS | Engine |
+| 82 | ![Cover](http://coverartarchive.org/release/cf7ebcaa-cfab-4dfd-a9b5-75b6cc548c04/33822489606-250.jpg) | 1995 | Luc Ferrari | Presque Rien |
+| 70 | ![Cover](http://coverartarchive.org/release/fa6e9328-1600-451d-bbdd-4654f16cf4d4/6835172865-250.jpg) | 1996-08-07 | Muslimgauze | Return Of Black September |
+| 67 | ![Cover](https://i.discogs.com/pxRU-hzZSB8ixh1W8_CQ_o9JpLy_GY_gTMYunSGLkYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkz/NTctMTM5OTM0Njgx/NS0yMzkyLmpwZWc.jpeg) | 1998 | Jaime Sin Tierra | El Avión Ya Se Estrelló Y Yo Sigo Volando |
+| 99 | ![Cover](https://i.discogs.com/CRgNL2ukskpQ2ANULMHP_LWj0kBSsuLBaNbVNaPOdNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTI0/NjItMTM0Mjg4MjY3/MC00OTgwLmpwZWc.jpeg) | 2001-05-25 | Pink Floyd | Atom Heart Mother (2011 Remastered Version) |
+| 61 | ![Cover](http://coverartarchive.org/release/f8ccde5d-fd86-4ee4-9726-f8cbd508012b/22785928254-250.jpg) | 2003-03-25 | Roscoe Holcomb | An Untamed Sense Of Control |
+| 75 | ![Cover](https://i.discogs.com/dI-h3RTJhm5iD2d09dAD9do93knxp1OnbCqtq9A5iq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDI4/MS0xNTA3NTU5NDU2/LTU2MTEuanBlZw.jpeg) | 2003-06 | Chris Watson | Weather Report |
+| 58 | ![Cover](https://i.discogs.com/xzlljobqEYjb9BSxumIkbHuo2VU-dspA4smRFvNOSk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODg0/NjgwLTE2MjIzMzUw/NjUtNDE0My5qcGVn.jpeg) | 2005 | Hiroshi Yoshimura | Wet Land |
+| 81 | ![Cover](https://i.discogs.com/j3lnJIu98jgjfTxBGZTjl47t8ygVml35xgfWy2B7ubg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA0/MjM0LTE0OTY3NjUx/ODItMzMzMC5qcGVn.jpeg) | 2007-01-08 | Jefre Cantu-Ledesma | You Can See Your Own Way Out |
+| 62 | ![Cover](https://i.discogs.com/lZE1-zFMdo06kimbqnGnQl3ggq9-knxfOFRgIXPD19E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg2/MDAtMTE5ODMxNjIz/My5qcGVn.jpeg) | 2007-09-17 | BJ Nilsen | The Short Night |
+| 56 | ![Cover](https://i.discogs.com/v1UVvQeqBgugvtopXXc770xSdUicEZPGQssAwW-Mi-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA4/NDMtMTIxMzcyMDE1/NC5qcGVn.jpeg) | 2008-07 | Chris Watson | Cima Verde |
+| 66 | ![Cover](http://coverartarchive.org/release/bf376a3d-145f-4af0-9576-ee0c5a061cf4/33107193427-250.jpg) | 2009-02-03 | Tenniscoats | Temporacha |
+| 71 | ![Cover](https://i.discogs.com/EHtSWHWype5q7ZQTHO-QbsxIZqC-PraMqpEjQus2lkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTcy/NjMtMTIzNzYzMzc1/NS5qcGVn.jpeg) | 2009-02-24 | Musette | Datum |
+| 60 | ![Cover](https://i.discogs.com/12Gy1UDsMKKiKxcoFhskX55vEYgj-qZsBF5T7gpGI5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzk4/MDktMTI1NjQxNjU3/MC5qcGVn.jpeg) | 2009-10-20 | Celer | Close Proximity and the Unhindered Care-All |
+| 76 | ![Cover](http://coverartarchive.org/release/55486cd9-56d7-4fbe-977d-41b57206bb83/21192617833-250.jpg) | 2010-04-06 | Jana Winderen | Energy Field |
+| 89 | ![Cover](https://i.discogs.com/hG3ul3phUladqr7T9Mr7-t3cPO5yTyNWgx423AsEm5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzA1/Nzc3LTE1MzI1Njcw/MDUtNDYyMC5qcGVn.jpeg) | 2010-05-21 | Ricky Eat Acid | summer made me blue; summer gave me sky |
+| 73 | ![Cover](http://coverartarchive.org/release/1d98c74e-f16b-495d-8510-e1857db4bc05/4808867537-250.jpg) | 2011 | Graham Lambkin | Amateur Doubles |
+| 92 | ![Cover](https://i.discogs.com/N36-EFOBhI-v95UkRnm7DH-WrX9wd0nAL9Mgycz7Pg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDYw/NzktMTMxMTM4Mzg3/OC5qcGVn.jpeg) | 2011-04-22 | Celer | Landmarks |
+| 59 | ![Cover](https://i.discogs.com/FI6XqcYuJd6FhjLOQwcvtYUgEdOUQU0n-45_3LVJxvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTI3/OTktMTUzNjM0NzQ5/NC02MTUwLmpwZWc.jpeg) | 2012-03 | Grouper | Violet Replacement | Pt. I: Rolling Gate |
+| 97 | ![Cover](https://i.discogs.com/GGR4Mzk1JU7w3Hl5Q7G-b5UsPU9NMykblmJwJGFm6lk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzg3/NjktMTM0NzgyNjU5/OC05ODgwLmpwZWc.jpeg) | 2012-08-29 | The Echelon Effect | Field Recordings |
+| 79 | ![Cover](https://i.discogs.com/aR47IDAa4Ckdcohzv9N3kLCdpDlitTwkaeIoQevGr5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTc1/NzktMTY1MzE2NDMw/NC04MjUxLmpwZWc.jpeg) | 2013-08-01 | Oh, Yoko | I Love You... |
+| 93 | ![Cover](http://coverartarchive.org/release/53680561-b8c5-4de7-8822-cca519c92a0a/5674043845-250.jpg) | 2013-11-11 | Recondite | Hinterland |
+| 98 | ![Cover](http://coverartarchive.org/release/c96b95e6-8664-4033-87f6-184048292381/6435109865-250.jpg) | 2014-01-01 | Ricky Eat Acid | Three Love Songs |
+| 69 | ![Cover](https://i.discogs.com/R9xDMEK87yIsuh2F5NUwSKBLh8P0aRvxLSqZVKQXc78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MzYz/MzQtMTQyOTkwMTg5/MC0xNjk1LmpwZWc.jpeg) | 2014-06-07 | Subaeris | The City In Rain |
+| 100 | ![Cover](https://i.discogs.com/tdhyJ-P4Covtg6ee7YE0KW939FWupHoEcCcPnU81DAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcx/ODQ2LTE0OTI4NTMw/MDMtMjc2NS5qcGVn.jpeg) | 2016-02-19 | Animal Collective | Meeting of the Waters |
+| 83 | ![Cover](https://i.discogs.com/3DccpTFFsBXUR2HbNg4NBr6PkdCfGjQbVsZvUlesX_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjE0/NDUtMTQ2NjExOTI0/Mi0yODgxLmpwZWc.jpeg) | 2016-05 | 36 | Stasis Sounds for Long-Distance Space Travel |
+| 74 | ![Cover](https://i.discogs.com/LyGSqRf6J_wt3cY2PKWikF6s_Dyu1ouUVKYz0YDDzwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjY1/MDY0LTE2NzI4NjA1/OTQtNjUzNi5qcGVn.jpeg) | 2017-02-27 | Sangam | Distance Amongst Us |
+| 65 | ![Cover](https://i.discogs.com/bH2OmejU-MISQ909St33o1EDM00Le_tvtwX2IgV90Ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQx/NzI2LTE2NjQ1MzM0/NDAtNTY0MC5qcGVn.jpeg) | 2017-10-20 | Deepchord | Functional Designs |
+| 55 | ![Cover](https://i.discogs.com/tCfBLWCCYgs9HPfvrpcOMGXP4PVZE1Gxq8iM22z06F4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjgx/MTMxLTE2NDM5NDYx/MDktNTc1MS5qcGVn.jpeg) | 2017-10-27 | Dim | The Holy Crag |
+| 84 | ![Cover](https://i.discogs.com/8ePgbxAdzoOVgPv4TaF1dhyAWkrgcb_n70VPL3G8tP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU0/NDg3LTE1Mzk2MDcy/MTMtMTUyMS5qcGVn.jpeg) | 2018-10-12 | Eli Keszler | Stadium |
+| 77 | ![Cover](https://i.discogs.com/GPKoEo7nYiciFfr3ZDllabOdUEK3ytMGPx0lbPBmvBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY5/NDYwLTE1NDM1MjE4/NjItNzkwNC5qcGVn.jpeg) | 2018-11-21 | Masakatsu Takagi | Kagayaki |
+| 88 | ![Cover](https://i.discogs.com/mU2pm2pGEvPNCMOlmN_SJ4FgbTL9gomTHNyKlNFYM0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMz/MDQ4LTE1OTY4MDM0/MDYtMTc2OC5qcGVn.jpeg) | 2020-07-31 | Hiroshi Yoshimura | Green (SFX Version) |
+| 95 | ![Cover](https://i.discogs.com/isU-gQyRls1b3_2IJmy4CGDnSi6mijvXr6qYBvaVNTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODM1/MzYtMTM2MDYzNzQ4/NS04ODQwLmpwZWc.jpeg) | 2020-08-21 | Matmos | The Consuming Flame: Open Exercises in Group Form |
+| 80 | ![Cover](https://i.discogs.com/qE5uJFXl0_KAVg-xDeWw7vWDvW4-v2A2nykfDVtFn2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDAz/Nzc5LTE2MDU4OTA3/ODktODA1Mi5qcGVn.jpeg) | 2020-10-02 | Dj Lostboi | The Flash |
+| 85 | ![Cover](https://i.discogs.com/TOsWLJAT0lel0X1lDxrE2bcTUbucJq7sFHVjgGggODA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg4/NTc5LTE2MDU0OTUz/NzEtNjAyMC5qcGVn.jpeg) | 2020-10-23 | clipping. | Visions of Bodies Being Burned |
+| 87 | ![Cover](https://i.discogs.com/bmMuc1J4axU6UDQHKcnVJw_Um4-Spb1emw7hAJee1j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDk1/MDExLTE2MTM3Njky/ODEtMzE1Mi5qcGVn.jpeg) | 2021-02-26 | Blanck Mass | In Ferneaux |
+| 96 | ![Cover](https://i.discogs.com/jNEwLo6ZpAXlIkQvFlSL-dtScm9a0K2d27sCy6EpArA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzcx/ODQ1LTE2MTkwOTcy/NzctMzk3MC5qcGVn.jpeg) | 2021-04-19 | Meitei | Komachi |
+| 72 | ![Cover](https://i.discogs.com/T3y8nk1kXhA_mtqjGDhiqnXQgWv5rV5dQAZzgWFyrds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTI5/NTY5LTE2MjIyNzk5/OTQtNDEyNi5qcGVn.jpeg) | 2021-05-28 | Penelope Trappes | Penelope Three |
+| 68 | ![Cover](https://i.discogs.com/QzeuIoaatPqLA_85jkGNn352-eIniBe9EzMkXgMFFYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzE4/NjgyLTE1NTE5OTA2/MjAtODcxNS5qcGVn.jpeg) | 2021-10-28 | Underworld | DRIFT Episode 1 "DUST" |
+| 94 | ![Cover](https://i.discogs.com/iRMI2LmoIV5y6gKQcMfMJRpPGp8vcuil9uK5Q9ujcio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/ODAzLTE2NTU0MjM5/ODQtNzc2OC5qcGVn.jpeg) | 2022-06-14 | Taylor Deupree | Small Winters |
+| 78 | ![Cover](https://i.discogs.com/dDA5oMYk4TKyECwTGrdWSq8_iAbRqt47ExdwvheR_Bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzI3/MDI2LTE2NjE1NjQz/MzgtNzM2Ny5qcGVn.jpeg) | 2022-08-26 | Pantha du Prince | Garden Gaia |
+| 63 | ![Cover](https://i.discogs.com/u6Ghgi_rPNcuXmGr_wnrxnaInN9RaG2ruwE2klzwRwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njg1/NDcyLTE2ODgyMjYx/NjctMzgyNy5qcGVn.jpeg) | 2022-10-01 | Roméo Poirier | Living Room |
+| 86 |  | null | 輕描淡寫 | 小圈子 |
+| 90 |  | null | The Loners With Parentheses | I Wish Shit Would Stop Spinning |
+| 91 | ![Cover](https://i.discogs.com/VBi5Eup6Phu5ECfMmg_hm5-CPI-Z8T9efOmuVzZ0VPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM5/ODI0LTE2NDY5MzQ5/MDEtMTcwMy5qcGVn.jpeg) | 2022-03-11 | Jeremiah Chiu | Recordings from the Åland Islands |

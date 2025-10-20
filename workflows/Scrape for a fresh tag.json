@@ -1,0 +1,221 @@
+{
+  "name": "Scrape for a fresh tag",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "minutes",
+              "minutesInterval": 1
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        48,
+        48
+      ],
+      "id": "ab5e1ace-0a0d-4779-ad85-783cd30fa83d",
+      "name": "Schedule Trigger"
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT\n      \"Tag\".\"albumsScrapedAt\",\n      \"Tag\".\"listCheckedAt\",\n      \"Tag\".\"listUpdatedAt\",\n      \"Tag\".\"name\",\n      \"Tag\".\"registeredAt\",\n      SUM(\"AlbumTag\".\"count\"::FLOAT * COALESCE(\"Album\".\"playcount\", 0) / 1000000 * COALESCE(\"Album\".\"listeners\", 0) / 1000)\n      AS \"weight\"\n    FROM \"Tag\"\n    JOIN \"AlbumTag\"\n    ON \"AlbumTag\".\"tagName\" = \"Tag\".\"name\"\n    JOIN \"Album\"\n    ON \"Album\".\"artist\" = \"AlbumTag\".\"albumArtist\" AND\n      \"Album\".\"name\" = \"AlbumTag\".\"albumName\"\n    WHERE \"albumsScrapedAt\" IS NOT NULL AND\n      \"listCheckedAt\" IS NULL AND\n      \"listUpdatedAt\" IS NULL AND\n      \"Album\".\"hidden\" <> true\n    GROUP BY \"Tag\".\"name\"\n    ORDER BY \"weight\" DESC\n    LIMIT 1",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        272,
+        48
+      ],
+      "id": "4b3c54e3-e94c-4f4c-8205-6f20408e428a",
+      "name": "Pick a fresh tag",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "chatId": "-1001699039876",
+        "text": "=Зібрано альбоми для нового тега: {{ $json.name }}",
+        "additionalFields": {}
+      },
+      "type": "n8n-nodes-base.telegram",
+      "typeVersion": 1.2,
+      "position": [
+        928,
+        48
+      ],
+      "id": "928ea2b7-d57b-4c69-827b-ea07c881d603",
+      "name": "Send a text message",
+      "webhookId": "df24651b-83e6-4760-9f69-a52d766cd2a5",
+      "credentials": {
+        "telegramApi": {
+          "id": "eGEk4dS2hDuvw99B",
+          "name": "Telegram account"
+        }
+      },
+      "disabled": true
+    },
+    {
+      "parameters": {
+        "workflowId": {
+          "__rl": true,
+          "value": "bln38gbNOEEqGBe8",
+          "mode": "list",
+          "cachedResultUrl": "/workflow/bln38gbNOEEqGBe8",
+          "cachedResultName": "Scrape for a tag"
+        },
+        "workflowInputs": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "tagName": "={{ $json.tagName }}"
+          },
+          "matchingColumns": [
+            "tagName"
+          ],
+          "schema": [
+            {
+              "id": "tagName",
+              "displayName": "tagName",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "canBeUsedToMatch": true,
+              "type": "string",
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": true
+        },
+        "options": {
+          "waitForSubWorkflow": true
+        }
+      },
+      "type": "n8n-nodes-base.executeWorkflow",
+      "typeVersion": 1.3,
+      "position": [
+        704,
+        48
+      ],
+      "id": "92f13f2e-ef86-4e55-b1de-440e3c6e172a",
+      "name": "Call 'Scrape for a tag'"
+    },
+    {
+      "parameters": {
+        "workflowId": {
+          "__rl": true,
+          "value": "0JXZTPomOwz2sJee",
+          "mode": "list",
+          "cachedResultUrl": "/workflow/0JXZTPomOwz2sJee",
+          "cachedResultName": "Maybe delete tag"
+        },
+        "workflowInputs": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "tagName": "={{ $json.name }}"
+          },
+          "matchingColumns": [
+            "tagName"
+          ],
+          "schema": [
+            {
+              "id": "tagName",
+              "displayName": "tagName",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "canBeUsedToMatch": true,
+              "type": "string",
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": true
+        },
+        "mode": "each",
+        "options": {
+          "waitForSubWorkflow": true
+        }
+      },
+      "type": "n8n-nodes-base.executeWorkflow",
+      "typeVersion": 1.3,
+      "position": [
+        480,
+        48
+      ],
+      "id": "606c7d06-6f9a-4700-ab77-ae32f93f5ce6",
+      "name": "Call 'Maybe delete tag'"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "Pick a fresh tag",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Pick a fresh tag": {
+      "main": [
+        [
+          {
+            "node": "Call 'Maybe delete tag'",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Call 'Scrape for a tag'": {
+      "main": [
+        [
+          {
+            "node": "Send a text message",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Call 'Maybe delete tag'": {
+      "main": [
+        [
+          {
+            "node": "Call 'Scrape for a tag'",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": false,
+    "errorWorkflow": "7HrDrsQKECTlnEFk"
+  },
+  "versionId": "13f2a0d8-fc39-4296-a156-ec39fcacbc5d",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"
+  },
+  "id": "oBQTmOQzXlWZk5Fp",
+  "tags": []
+}

@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2025-01-07T18:42:48.374Z
+permalink: tags/new-age-electronica
+title: new age electronica
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 53 | ![Cover](https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg) | 1984 | Various Artists | Bossa Lounge Collection, Vol. 3 (Latin Bossa Music Selected By Enrico Donner) |
+| 46 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1987 | Various Artists | Pure Moods IV |
+| 94 | ![Cover](https://i.discogs.com/sKsBOvP1QOKvwNHsd6ZhxBbrfStJZ30Mms_PYfCZxmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzUy/MjktMTMwOTk2Nzgw/MS5qcGVn.jpeg) | 1992 | Sine | cross that line EP |
+| 59 | ![Cover](https://i.discogs.com/b9UnF2bqcCaShT95PT4pjgDVeL1EzOln0Hz5IgOQWp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzYy/NS0xMTczMDYxMTgz/LmpwZWc.jpeg) | 1993 | Sine | Cosmic Chill Lounge Vol.2 |
+| 74 | ![Cover](https://i.discogs.com/b9UnF2bqcCaShT95PT4pjgDVeL1EzOln0Hz5IgOQWp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzYy/NS0xMTczMDYxMTgz/LmpwZWc.jpeg) | 1993 | Sine | Cosmic Chill Lounge Vol.3 |
+| 85 | ![Cover](https://i.discogs.com/pug0oS0L640vp-8W-nXH_Ter3Tbgi45kwBz6rY4zPr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg2/NjE3LTE3MjU4MTYz/MDAtODYzMS5qcGVn.jpeg) | 1996 | Various Artists | Ibiza Chillhouse Deluxe, Vol. 2 (A Great Selection of the Finest Chillhouse Music) |
+| 87 | ![Cover](https://i.discogs.com/pug0oS0L640vp-8W-nXH_Ter3Tbgi45kwBz6rY4zPr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg2/NjE3LTE3MjU4MTYz/MDAtODYzMS5qcGVn.jpeg) | 1996 | Various Artists | Suntheca Music presents: SPA Collection Vol. 3 (A Selection Of Finest Lounge &amp; Chillout Music) |
+| 6 | ![Cover](https://i.discogs.com/E7QxlzAZf6_N1_B6HknqEf9TNkpaozEHLGfBOa0VL1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjQz/NDYtMTQzMjc0NDQ0/NS0yMDgyLmpwZWc.jpeg) | 1999 | Ypey | After Now |
+| 81 | ![Cover](https://i.discogs.com/5hHrJEcvL32YNC-tvmw2CyPmNiDybqel6RZNVj9Gsg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzAz/LTE2Njg0MTY2NzQt/Mzk1OC5qcGVn.jpeg) | 1999-09-27 | Polished Chrome | Cool Off Chillout |
+| 60 | ![Cover](http://coverartarchive.org/release/4466c9b7-3575-4f5a-a0a2-00080ce7b4c9/17926454066-250.jpg) | 2000-11-21 | Delerium | Poem |
+| 5 | ![Cover](http://coverartarchive.org/release/cfb6d0ea-d074-474e-a88e-7480ffbd9f82/4607479685-250.jpg) | 2001-11-20 | Delerium | Odyssey: The Remix Collection |
+| 11 | ![Cover](https://i.discogs.com/Vda5QyqYOt5KxegHP2hm2jQXnySu1zFRw_vfEwiNHKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDIw/MS0xNTI4OTUwNzg4/LTM0MTYuanBlZw.jpeg) | 2002 | Balligomingo | Purify Remixes |
+| 12 | ![Cover](http://coverartarchive.org/release/d191264d-ffdc-4816-9564-fc2b149eab14/1496309090-250.jpg) | 2002-06-11 | Balligomingo | Beneath The Surface |
+| 19 | ![Cover](https://i.discogs.com/lgYJfCRFSoEJqp-82PTVPf3pY3FxrwiKtz3K9bKlZ1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDky/MzMtMTM0MzQyNDcy/MC03ODg5LmpwZWc.jpeg) | 2002-07-01 | Eccodek | More Africa in Us |
+| 54 | ![Cover](http://coverartarchive.org/release/fe5195c9-d122-452c-b995-81fbcc6e1aaf/1907822620-250.jpg) | 2003 | Dab | The Best |
+| 86 |  | 2003 | Various Artists | SPA Collection, Vol. 5 (A Selection of the Finest Lounge &amp; Chillout Sounds) |
+| 92 | ![Cover](https://i.discogs.com/IVyWhKp5Wr70xONCuT0acfcYOL4wQ1NxH7gH6QwA3B4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODAx/OC0xMTY3Nzc3MTgy/LmpwZWc.jpeg) | 2003 | Zorg | Zorg's Private Life |
+| 95 |  | 2003-04-29 | Various Artists | Suntheca Music Presents: SPA Collection Vol. 2 (A Selection Of Finest Lounge &amp; Chillout Music) |
+| 15 | ![Cover](http://coverartarchive.org/release/9f3cab1a-ae2c-4a68-bbc3-a61a9b7222c2/33634047881-250.jpg) | 2003-06-02 | Max Melvin | Satellite |
+| 79 | ![Cover](https://i.discogs.com/dmb3mARFfbB1OIOCq3T36QIeJOlNesnmY1xXfbE1kJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjEx/MC0xNDk4MDgxNzA4/LTM3ODguanBlZw.jpeg) | 2003-06-13 | Delerium | Chimera |
+| 35 | ![Cover](https://i.discogs.com/IycqllBrJVS0tZBE91SYgiViGsltSe4l5E-fe-kuiqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODI3/OS0xMTc3NTE0OTQ1/LmpwZWc.jpeg) | 2004 | Jasmon | Gentle Flowers |
+| 49 |  | 2004 | Various Artists | Zen Connection (disc 2: To the West) |
+| 58 | ![Cover](https://i.discogs.com/12jkWnXzG9qpTFTtAKY6aUU9bnCesLa_e8QgLfq3odc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDIx/OS0xNDE3MTA3NzIw/LTQ0ODQuanBlZw.jpeg) | 2004 | Vargo | Beauty |
+| 22 | ![Cover](https://i.discogs.com/vc4HV9x77EAEbbkAh2uy2VIos9Lt0dc9IsB98kWb7tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mjcx/MzMtMTQ4MTE0MDcz/Ni05NDQ4LmpwZWc.jpeg) | 2004-04-20 | Balligomingo | Sweet Allure Remixes |
+| 14 | ![Cover](https://i.discogs.com/YW9TwE_olgQ7spXqLRJpjbQqxJiZ5k_Zk2zC9gGI3Fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTk4/OTktMTM3NjUxMjk4/OS04NzEyLmpwZWc.jpeg) | 2004-09-06 | Delerium | The Best of Delerium |
+| 13 | ![Cover](http://coverartarchive.org/release/93a2d59e-fc2e-4727-aa4d-0955cc49e2f8/29584519152-250.jpg) | 2005 | Darshan Ambient | re:Karma |
+| 64 | ![Cover](https://i.discogs.com/lgYJfCRFSoEJqp-82PTVPf3pY3FxrwiKtz3K9bKlZ1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDky/MzMtMTM0MzQyNDcy/MC03ODg5LmpwZWc.jpeg) | 2005 | Eccodek | Voices Have Eyes |
+| 83 | ![Cover](https://i.discogs.com/ocDcXaQwsSpJgeD8SzpNFdJ3Y00_bqaEErYymVVAfGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzM5/Mi0xMjMzMTM1MzE4/LmpwZWc.jpeg) | 2005 | Dubdiver | Floating Beats |
+| 98 | ![Cover](https://i.discogs.com/ocDcXaQwsSpJgeD8SzpNFdJ3Y00_bqaEErYymVVAfGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzM5/Mi0xMjMzMTM1MzE4/LmpwZWc.jpeg) | 2005 | Dubdiver | Liquid Meditations (Ambient Reworks) |
+| 9 | ![Cover](https://i.discogs.com/q7WdwdvCSOnt4iaoan15S7U1nIsf-WQ5pzL03LkMSG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODc3/MzY1LTE1ODMzMDUy/ODgtNjA5MC5qcGVn.jpeg) | 2005-03-29 | Luminous | Essence |
+| 55 | ![Cover](https://i.discogs.com/9iVnyn875pQ2motpz4BoA3iiFLgKSf0o3wmwHOm0jgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNDc3/OS0xNjUyMDI5Mzkw/LTc5NzkuanBlZw.jpeg) | 2005-09 | Kirsty Hawkshaw | Reach for Me - EP |
+| 41 | ![Cover](http://coverartarchive.org/release/f8d349b4-3deb-40a6-a31f-2a2d2f72ef15/20409852155-250.jpg) | 2005-09-27 | Carmen Rizzo | The Lost Art of the Idle Moment |
+| 37 | ![Cover](http://coverartarchive.org/release/0b31e40d-4cb4-488c-a462-6c6b52948cd5/6640030644-250.jpg) | 2005-10-04 | Rue du Soleil | Essential Feelings |
+| 3 | ![Cover](http://coverartarchive.org/release/21f62a21-a60c-48bf-847a-173131985f91/36098471386-250.jpg) | 2005-10-10 | Kirsty Hawkshaw | Meta-Message |
+| 26 | ![Cover](https://i.discogs.com/Jhp7UGMxjyiTTAR6gX0tVELYcn1PZxRBoQ8t8nVkIH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDM4/MC0xNDQ4NjE4NzA2/LTkwOTIuanBlZw.jpeg) | 2005-10-10 | Kirsty Hawkshaw | Meta Message |
+| 51 | ![Cover](https://i.discogs.com/Jhp7UGMxjyiTTAR6gX0tVELYcn1PZxRBoQ8t8nVkIH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDM4/MC0xNDQ4NjE4NzA2/LTkwOTIuanBlZw.jpeg) | 2005-10-10 | Kirsty Hawkshaw | The Meta Message (Full Length Release) |
+| 7 | ![Cover](http://coverartarchive.org/release/5688ba0b-90d3-4090-892c-5bcbdc1b8203/7262995581-250.jpg) | 2005-10-14 | Aural Float | Beautiful Someday |
+| 40 | ![Cover](https://i.discogs.com/GM6OGKvovGKqqpS9MG1dPZpA54c0maDOwY7l1Me9xng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTQ5/MS0xMTU5ODA3MjY3/LmpwZWc.jpeg) | 2006-05-10 | Vargo | Get Back to Serenity: The Mixed Up - EP |
+| 2 | ![Cover](https://i.discogs.com/NduHMMciOEB9BDER_jkAcan6LBdF0xKC2g4awoGzWLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTMy/MjQxLTE2MTM5ODg3/MjUtMzIyNS5qcGVn.jpeg) | 2006-10-26 | Luminous | equilibrium |
+| 21 | ![Cover](https://i.discogs.com/uUXEjUJJNkZ5SDwaH72LeYjyt7w2KAMzOXJKgogw-IA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc0/MzAtMTIwNjYwOTk2/Mi5qcGVn.jpeg) | 2007 | Gary B | A Taste of Ibiza: The Best of Gary B |
+| 27 | ![Cover](https://i.discogs.com/MLPP_WK-O-rSYb9-JVmHbb32ReOXN8DluFKNmyrT_JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk2/NTktMTIxOTAxMTA2/NC5qcGVn.jpeg) | 2007 | David Starfire | Bombay Beatz |
+| 84 | ![Cover](https://i.discogs.com/fNz1UiogaMd82VWNsl8LlupbVD__wtPjxo1AZuhuQqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzY0/NC0xMTgwNjQ1MDg0/LmpwZWc.jpeg) | 2007-05-30 | Sleepthief | The Chauffeur: Remixes (feat. Kirsty Hawkshaw) |
+| 8 | ![Cover](http://coverartarchive.org/release/23442b73-4928-45a8-9625-f325b5f490cc/12269689168-250.jpg) | 2007-11-20 | Govinda | Sound Sutras |
+| 32 | ![Cover](http://coverartarchive.org/release/114b9815-2a5a-48d8-a97f-2ff3da32ad27/33634037549-250.jpg) | 2008 | Max Melvin | Seasons |
+| 34 | ![Cover](https://i.discogs.com/ONWn5Uxwq1MR57sRLHXV9mtO-FniBAJXh3l-La-e0wY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjM3/NDAtMTQwNzUzMDMx/OC01ODQ0LmpwZWc.jpeg) | 2008 | Eccodek | Shivaboom |
+| 48 | ![Cover](http://coverartarchive.org/release/f812b99e-5270-4da6-ade5-aac95b34801d/4437250776-250.jpg) | 2008 | Gary B | Step into the sunshine |
+| 57 | ![Cover](https://i.discogs.com/D25eFiP9GS2QvWNQ0M4qzTduTd266k6Sm0LY8-HgVVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDAy/MzgtMTIzMzI1NTA3/OC5naWY.jpeg) | 2008 | Gary B | The Best of Gary B On Cafe Del Mar |
+| 72 | ![Cover](http://coverartarchive.org/release/6f2e62ec-2a32-4b97-86ee-e77450847705/1201117993-250.jpg) | 2008-02-05 | Kirsty Hawkshaw | The Ice Castle |
+| 100 | ![Cover](https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg) | 2008-02-19 | Various Artists | Chillbar |
+| 30 | ![Cover](http://coverartarchive.org/release/34f2c05a-4150-4e29-a9d4-714d1f547556/10626789035-250.jpg) | 2008-04 | Rue du Soleil | Emotions |
+| 4 | ![Cover](http://coverartarchive.org/release/c5d3dc7a-55bc-4683-b88f-df9ade1ed28b/8162633048-250.jpg) | 2008-08-01 | Sunlounger | Sunny Tales |
+| 10 | ![Cover](https://i.discogs.com/2nKSVKjTg3CH29Qa4Ou7Lu6Y2--ehRYNNeTGFhmBoag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA4/NjgzLTE1MzY2NzE4/ODMtMzU3Ny5qcGVn.jpeg) | 2009 | Triangle Sun | Iris |
+| 18 | ![Cover](http://coverartarchive.org/release/90a01aa4-3b5d-4ec5-9c58-a995c8da3735/11810700163-250.jpg) | 2009 | Merge Of Equals | Intoxicating |
+| 20 | ![Cover](http://coverartarchive.org/release/9e91c6d2-a056-4017-877b-e0acf635b186/1467783033-250.jpg) | 2009-02-14 | Balligomingo | Under an Endless Sky |
+| 89 | ![Cover](https://i.discogs.com/rF58Wl_lk9zJ2xOLeuoQUA3v__9rq6dFY8P0oor4Jfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDE0/NzEtMTQxNjg3NjE3/NS0xNDU0LmpwZWc.jpeg) | 2009-03-06 | Vargo | Chillout Session Vol 4 |
+| 67 | ![Cover](https://i.discogs.com/erGKCe_M3b_em5B__O5xGeolWgrPLkmNPJx-tTNYNpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDUw/MDQtMTM4OTAxNjA4/MS03MDM0LmpwZWc.jpeg) | 2009-05-22 | Dubdiver | Box of Secrets |
+| 93 |  | 2009-10-02 | Sonic Adventure Project | A New Morning EP |
+| 73 | ![Cover](https://i.discogs.com/TulKzJk53zEjvgPBLJi0YiIjPwJZjk74wEAqM23-4vI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTI5/ODktMTI2Njg3Mzk5/OS5qcGVn.jpeg) | 2009-12-11 | Mirage of Deep | Deep Flow |
+| 56 | ![Cover](https://i.discogs.com/tyw3Dq0eGhaYWosDGDxwEqU9yDzHELrgHRp6QikYQyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzIx/MDYtMTI5MTA2Mjcx/OC5qcGVn.jpeg) | 2010 | Triangle Sun | Iris 2010 |
+| 90 | ![Cover](https://i.discogs.com/jTvmviw01KZFMgUrBtyZaui0d23sx4lUYp8JwR6NSBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjkx/NTI4LTE1MzIyODMz/MzUtODA2Ny5qcGVn.jpeg) | 2010-01-07 | Pianochocolate | The Best Lounge of Pianochocolate (Emotional Lounge Music for Hotels and Bars) |
+| 17 | ![Cover](http://coverartarchive.org/release/341cb783-79e0-442d-82de-084d02a12fb7/19369382210-250.jpg) | 2010-01-22 | Edelis | Time's Wheel |
+| 1 | ![Cover](https://i.discogs.com/iwwsFFevoSw3qDDhH8hqIeQywAK-SrxlH-BvfjgVxYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA1/MzAtMTQxNjc2NDM1/Ni04NzY4LmpwZWc.jpeg) | 2010-02-26 | Vargo | Precious |
+| 47 | ![Cover](http://coverartarchive.org/release/7cae753e-66d5-47ed-854a-f9d9629bb034/8722482225-250.jpg) | 2010-05-11 | Carmen Rizzo | Looking Through Leaves |
+| 28 | ![Cover](http://coverartarchive.org/release/0ea8234d-3b52-4cc8-8836-c8a82c4d1e35/18731569284-250.jpg) | 2010-05-25 | Erik Wøllo | Gateway |
+| 36 | ![Cover](https://i.discogs.com/dzNjwmFS0nVDSrK8kLL-pBAeayviZx6Ih8FIPqbb-Bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTY1/ODctMTI3MjcxODMw/OS5qcGVn.jpeg) | 2010-06-22 | David Starfire | Bollyhood Bass |
+| 52 | ![Cover](http://coverartarchive.org/release/0daddc2f-52dc-476f-81fb-54a8525447dc/2819956700-250.jpg) | 2010-10-01 | Balligomingo | uaes Origins |
+| 63 | ![Cover](https://i.discogs.com/HltYiiNZ_k9jV-hPuy2s6kieCRoTUKbbHp6adOXs4v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/Njk0LTE1NTQ0NjUw/NTItODQ3Ni5qcGVn.jpeg) | 2010-11-20 | Michael E | Shangri-La |
+| 44 | ![Cover](https://i.discogs.com/3FWRST3q8-9xlgl17WQ3013tXwqYTkdUHyoMx_3GFac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjAz/MDItMTI3MzY3MTc5/NC5qcGVn.jpeg) | 2010-11-29 | Cantoma | North Shore (Idjut boys Remixes) |
+| 31 | ![Cover](https://i.discogs.com/btVDy8bRtjMhOdFe8Cp8wmIEy8M65pZFQZ948RVL-nU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDMx/MTAtMTMyNDgyNDcw/Ny5qcGVn.jpeg) | 2011 | Jasmon | Hammock Dreams |
+| 61 | ![Cover](https://i.discogs.com/TX8N1mA61ebzdcBj7i16mSMhxQrAZCx0YjqWxSYnvSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTEw/MTYtMTQ1MDgxMjIz/Mi0xMDQ1LmpwZWc.jpeg) | 2011 | Balligomingo | Remix, Vol. 1 |
+| 33 | ![Cover](https://i.discogs.com/mM7tmwBab7fwmAM61oYTQ4wFELCfWMRfUf499kXqXJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTQw/NDQtMTQ0MDU0NzEx/Mi05OTY2LmpwZWc.jpeg) | 2011-05-13 | Mirage of Deep | The Garden Of Gaia |
+| 68 | ![Cover](https://i.discogs.com/mM7tmwBab7fwmAM61oYTQ4wFELCfWMRfUf499kXqXJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTQw/NDQtMTQ0MDU0NzEx/Mi05OTY2LmpwZWc.jpeg) | 2011-05-13 | Mirage of Deep | Talking Earth |
+| 66 | ![Cover](https://i.discogs.com/-6r5FTtFWrSc3cPjH4-wsMDEtU7CEdgqs_0aoefbCuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTkx/NzAzLTE1MzgyMjg4/NzAtMjc5NC5qcGVn.jpeg) | 2011-06-15 | Michael E | Departures &amp; Arrivals |
+| 38 | ![Cover](https://i.discogs.com/SXfo-Vsbs-3enx7ym-STxbo69iAHuQMo2mnKcN49gGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzUx/ODAtMTMwOTk2NjE5/NC5qcGVn.jpeg) | 2011-06-17 | Merge Of Equals | Submerge |
+| 96 | ![Cover](https://i.discogs.com/23EtWeC5tkVMo2cbwQSM4URe1yHJtMqhhsnekSi0Opw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDQx/OTktMTMyMDM2MjQy/NC5qcGVn.jpeg) | 2011-06-17 | Pianochocolate | Pianochocolate - Time to Meet 2009 |
+| 70 | ![Cover](https://i.discogs.com/fC4-L3jb4MvVar3RANUN6U6Dmvur3NEDGlDSj1KrXGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTk0/MzgzLTE2OTIyMjQ3/NzQtMjcwMi5qcGVn.jpeg) | 2011-07-29 | Merge Of Equals | Remerge |
+| 97 | ![Cover](https://i.discogs.com/NQqmhba7_epmZXXOfCiwJNavuGjuxNd1OwgAk27smzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjM3/MzQtMTQxNjk1ODc4/OS03ODI5LmpwZWc.jpeg) | 2011-08-11 | Vargo | VARGO LOUNGE - 10 Years Of Chill Out |
+| 50 | ![Cover](http://coverartarchive.org/release/127d2e29-e324-4ca3-8918-0f960367ed09/11553817364-250.jpg) | 2011-08-15 | Tigerforest | The Electric Tree |
+| 78 | ![Cover](https://i.discogs.com/jz_CnmdLEpTNCLn2csz4IgUD1p-8sCy8doHVdFizeYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzc1/NjEtMTUwMzU5Mjcw/My0zNTQ2LmpwZWc.jpeg) | 2011-09-16 | Eccodek | Remixtasy |
+| 69 | ![Cover](https://i.discogs.com/CE0NAG-fSWru9rHxstgwU7z93ffITgXhdmQfsNbZP0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODY5/MzEtMTQ2MDYyNDkx/NS02Njc4LmpwZWc.jpeg) | 2012 | Jasmon | Shangri-La |
+| 91 | ![Cover](http://coverartarchive.org/release/f255550d-fa58-43fa-b6f7-85a842735040/5833984193-250.jpg) | 2012-04-04 | Marcomé | Yeku Remixed |
+| 29 | ![Cover](http://coverartarchive.org/release/e4935c4d-56ad-4015-9568-e7ba3bf7b3d3/8173031995-250.jpg) | 2012-04-17 | Asonat | Love in Times of Repetition |
+| 23 | ![Cover](https://i.discogs.com/ANVXb1ydG76-mdyiTW62FDSBOheTVQAlZTJQmxeKuEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQ0/MDEtMTMzNzgxOTQ2/My04NjEyLmpwZWc.jpeg) | 2012-05-23 | Mystical Sun | 26000 |
+| 80 | ![Cover](https://i.discogs.com/57ayzJGiP9Lnp8ZsNTvO4dgRUcEKanQWFQTqU6OoAws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTU5/ODgtMTM2NTM1NzU2/NS02MzUzLnBuZw.jpeg) | 2012-11-07 | Dream Lab | Flax |
+| 24 | ![Cover](http://coverartarchive.org/release/89d4cd9b-ed69-4af2-9d6d-97514762b1ea/11164844974-250.jpg) | 2012-12-04 | Ryan Farish | Life in Stereo |
+| 99 | ![Cover](https://i.discogs.com/44d3h3aJtkMmlAnAoJL40-AUGtvl1Txq_xrcFSj5PzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODM4/NTAtMTQ1NjY5NTkz/OC03ODEzLmpwZWc.jpeg) | 2013 | Eccodek | Living for Live |
+| 62 | ![Cover](https://i.discogs.com/JpnBZk50ZSYK-G_T_8AA0_FMwv2Au2W9UNV-zTIMbW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzc0/NjMtMTM2NDg0OTUw/MC02OTUwLmpwZWc.jpeg) | 2013-01-30 | David Starfire | Ascend |
+| 42 | ![Cover](http://coverartarchive.org/release/8cf2403e-6b83-432d-8f3f-82be9bbbad8a/22356660519-250.jpg) | 2013-05-01 | Mythos | Journey |
+| 75 | ![Cover](https://i.discogs.com/iOtyrcSRlwrVcWmO_ZvmJatKPjvTpGSAvhUinweru0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/NTItMTQxMDgwNjc4/MS00NTk2LmpwZWc.jpeg) | 2013-11-11 | Sleepthief | This Means War: Remixes (feat. Joanna Stevens) |
+| 76 | ![Cover](https://i.discogs.com/uLDDP1dZRszt4yAqlhUllyck1VyNPhvnV6YeFGi3NwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDc1/NDEtMTQwNzA4NjY0/MS00NDc3LmpwZWc.jpeg) | 2013-12-03 | Ryan Farish | Destiny |
+| 39 | ![Cover](https://i.discogs.com/lgQzA4tj_OJ9TwMdr4yAryMLG3bMF_WouwGCvicDPzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTcx/OTYtMTQzODczNDgw/My0yNDQ1LmpwZWc.jpeg) | 2014 | Gary B | Turn This Around |
+| 45 | ![Cover](https://i.discogs.com/ekiUtS5rG_UesGBSA6hytAUMCo2dw2xW8Ii6rrVY_Ao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjU4/NjctMTQxNjUyMjI3/Mi02NTM5LmpwZWc.jpeg) | 2014-11-21 | Vargo | Goodbye Is a New Beginning |
+| 43 | ![Cover](https://i.discogs.com/4VWDr05pwPHvdrduRez3amh9zyVCzwlWSDgKt-mStNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzIy/NDQtMTQ4NjIwMzc5/OC01NTI1LmpwZWc.jpeg) | 2017-02-06 | Cantoma | Back To Life |
+| 65 | ![Cover](https://i.discogs.com/Uh-czjxeoY3nSAEe-qXnd2JqTZsk-u9vyl6vwFYa3-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY4/NjA0LTE2NjYxMzIx/ODAtODU5OC5wbmc.jpeg) | 2017-03-03 | Various Artists | Suntheca Music Pres. BOSSA LOUNGE Collection Vol. 1 |
+| 71 | ![Cover](https://i.discogs.com/B1zpd31arE-9a00IqLTgDJq2PsQpWBPOnKvwUzdBXog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg2/OTQ2LTE1MzgxMjgw/MDItODQxOS5qcGVn.jpeg) | 2017-10-26 | Michael E | Late At Night |
+| 25 | ![Cover](https://i.discogs.com/A9KQRJ93pPDBRr3bFUWzHQMNkDdL8hQfkkACuTtEElw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjMy/MTctMTQ4NDU3MTI3/Ni0yNDcyLnBuZw.jpeg) | 2019-11-04 | Gary B | Live It Now |
+| 88 | ![Cover](https://i.discogs.com/L58d6s5GG76wa-TcJAxhdq0Qm9JH3orfiV8m0FzTMsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDEw/MjU2LTE2NzU2ODEy/MjEtMjE1NC5qcGVn.jpeg) | 2019-12-16 | Gary B | So Lost in Your Love |
+| 77 |  | 2022-04-14 | Various Artists | Chillhouse Café Vol. 2 |
+| 16 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2023 | Various Artists | Lemongrass Garden Vol.2 |
+| 82 | ![Cover](https://i.discogs.com/Uh-czjxeoY3nSAEe-qXnd2JqTZsk-u9vyl6vwFYa3-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY4/NjA0LTE2NjYxMzIx/ODAtODU5OC5wbmc.jpeg) | 2024-08-15 | Various Artists | Spa Collection, Vol. 4 (An Inspiring Collection of Lounge Music Selected By the Sura Quintet) |

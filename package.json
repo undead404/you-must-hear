@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "dependencies": {
+    "date-fns": "2",
+    "n8n": "~1.115.3",
+    "sqlite3": "~5.1.7"
+  },
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "ymh7",
+  "scripts": {
+    "n8n": "DB_SQLITE_VACUUM_ON_STARTUP=true EXECUTIONS_DATA_MAX_AGE=24 EXECUTIONS_DATA_PRUNE_MAX_COUNT=10 EXECUTIONS_DATA_PRUNE=true EXECUTIONS_DATA_PRUNE_HARD_DELETE_INTERVAL=5 EXECUTIONS_DATA_SAVE_ON_ERROR=all EXECUTIONS_DATA_SAVE_ON_SUCCESS=none EXECUTIONS_DATA_SAVE_MANUAL_EXECUTIONS=false N8N_BLOCK_ENV_ACCESS_IN_NODE=true N8N_GIT_NODE_DISABLE_BARE_REPOS=true N8N_RUNNERS_ENABLED=true DB_SQLITE_POOL_SIZE=20 N8N_CONCURRENCY_PRODUCTION_LIMIT=1 n8n",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2024-03-19T18:08:25.947Z
+permalink: tags/ambient-electronica
+title: ambient electronica
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 56 | ![Cover](https://i.discogs.com/lpKbq3PuPJpfAlNU8ip60bGlvvkh_jsQgxgZAX3T2OY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE5/MTMtMTM1NjY4NzM0/NC00NDYxLmpwZWc.jpeg) | 1976 | Inga | Riding the Wind |
+| 2 |  | 1977 | Various Artists | Hiiro |
+| 73 | ![Cover](https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg) | 1977 | Various Artists | Place Language |
+| 7 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1980 | Various Artists | Pingipung Blows: The Brass |
+| 14 | ![Cover](https://i.discogs.com/VqrJYtwqiG0ZHHUwUwa08LGvG044hWpKeWfDOm96nag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU5/NjctMTI2NTQ1Mjkw/My5qcGVn.jpeg) | 1981 | Modus | Modus |
+| 58 | ![Cover](https://i.discogs.com/92xItmuQnfQHrlQSWyIn17YqGTlSYBrTmlNPltHWjww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQx/NDItMTI5MTk4MDE3/My5qcGVn.jpeg) | 1985-03-21 | Steve Jansen &amp; Richard Barbieri | Worlds In A Small Room |
+| 19 | ![Cover](https://i.discogs.com/ikdqovoJP1wJf554wUztZT-qAzuV4Z4L0cZOpB3fx_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjYw/ODUtMTMxNDE3NDk5/My5qcGVn.jpeg) | 1986 | Sam Rosenthal | Before the Buildings Fell |
+| 8 | ![Cover](https://i.discogs.com/tOvevwE8RnsbNXsYP_np9JbUw9pu1dW7b9bCgSd9ylg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjMw/LTEyODkzMDU4NDcu/anBlZw.jpeg) | 1994 | Reagenz | Reagenz |
+| 78 | ![Cover](https://i.discogs.com/0mphY6CnwsIg22mws9PvVYma6ajgSGFo83kvxUhUv90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzQt/MTE3Nzg0NzUyNS5q/cGVn.jpeg) | 1995 | Alec Empire | Low on Ice (The Iceland Sessions) |
+| 32 | ![Cover](http://coverartarchive.org/release/702579a7-c9eb-47bb-a0d4-a29a7d4be0eb/6961300668-250.jpg) | 1995-03-20 | Seefeel | Succour |
+| 37 | ![Cover](https://i.discogs.com/txRost4T89TH8mRbY1rdaOGzIFWk8TlqGicW0s9i-RE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTct/MTIyODgzNDE3Ni5q/cGVn.jpeg) | 1995-03-20 | Seefeel | Succor |
+| 24 | ![Cover](http://coverartarchive.org/release/5e28935f-9b86-4695-ad3b-6f694de35c68/1878160973-250.jpg) | 1996 | Larry Heard | Alien |
+| 57 | ![Cover](http://coverartarchive.org/release/c4223466-95c5-430a-aa04-22bde1d1917d/8102809911-250.jpg) | 1996 | Boards of Canada | Old Tunes, Volume 2 |
+| 9 | ![Cover](http://coverartarchive.org/release/b6e35175-8428-4c77-ba32-df21749bd2b3/33467147201-250.jpg) | 1997 | Michael Brook | Albino Alligator |
+| 20 | ![Cover](https://i.discogs.com/ZfBPD6rVzotaVC909K1mrGbT4FJDtslNgnU7_AMJd_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAw/LTE1MTQ2Njk3MjAt/NDA5Ny5qcGVn.jpeg) | 1997-05 | Björk | Jóga |
+| 38 | ![Cover](http://coverartarchive.org/release/caedc3d1-f977-4a92-a3b2-2e550d5a38f5/31895771754-250.jpg) | 1998-03 | Sven Väth | fusion |
+| 88 | ![Cover](https://i.discogs.com/ReDH5uDfm6hRsedX8LNsh0H0jy-E7NPJyk3VAPl0jSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzM3/NDYtMTU3NjE4NTIy/Mi02MTMxLmpwZWc.jpeg) | 1999 | Alec Empire | Rauschgold: Alec Empire Plays Staubgold |
+| 44 | ![Cover](https://i.discogs.com/-2NwAbgrUmgreVPRWlqfIq54A9-F9naaUOP3BkQRaX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njkx/NTItMTU3NjY1OTA2/MC0xOTQ4LmpwZWc.jpeg) | 2000 | Overlap | FADED |
+| 89 | ![Cover](https://i.discogs.com/-2NwAbgrUmgreVPRWlqfIq54A9-F9naaUOP3BkQRaX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njkx/NTItMTU3NjY1OTA2/MC0xOTQ4LmpwZWc.jpeg) | 2000 | Overlap | Repaint EP |
+| 80 | ![Cover](http://coverartarchive.org/release/5e4df9cd-8d47-30ee-8dd0-ac9bf6222ddf/10342361630-250.jpg) | 2000-02-18 | Vladislav Delay | Multila |
+| 30 | ![Cover](https://i.discogs.com/bpKabQd4YVk3vp-yjhZxqcsjqedbXzfGRMhKsldFczE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTU4/Ny0xMTI5Mzc0NTU2/LmpwZWc.jpeg) | 2000-07-24 | Chroma Key | You Go Now |
+| 17 | ![Cover](https://i.discogs.com/63KZxdx2vY6Ku89pk68l_wFuQDUgT0q_U6PH3azcZBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTk1/LTEzMzM4MDEzNjYu/anBlZw.jpeg) | 2001 | The Bionaut | Lubricate Your Living Room |
+| 68 | ![Cover](http://coverartarchive.org/release/1704269f-6866-389f-aa8c-51ed2476be3c/5678858162-250.jpg) | 2001-10-08 | Enigma | Love Sensuality Devotion: The Greatest Hits |
+| 23 | ![Cover](https://i.discogs.com/DhjlQdVtYSX-dlnevytntYLYKAclfjMqlr1vWXYvv80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzQy/LTExMjY0NTI0MzEu/Z2lm.jpeg) | 2002-09 | Arovane | Cycliph |
+| 16 | ![Cover](http://coverartarchive.org/release/6186b4a0-1e9c-408b-9a90-bf0d91e44ff8/1325423359-250.jpg) | 2002-09-07 | Sabi | Four Thousand Years EP |
+| 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/372d9534544a4f56ae6fda12bb4c05ba.png) | 2003-04-07 | Mew | Frengers |
+| 49 | ![Cover](https://i.discogs.com/CVoz7mlzPNYx3XtoalI61PJBPoStbNPbVvTJ8QhsVI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA2/MjItMTE4ODE2Njg3/NS5qcGVn.jpeg) | 2003-06-21 | Restposten | Aufgeräumt |
+| 36 | ![Cover](https://i.discogs.com/xlU_RaCY721SeLCZCNcG3SKG9wfQvIQxOc-66FUhgc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzc4/Ny0xMTg0NDk5MjY2/LmpwZWc.jpeg) | 2004 | Polaris | Moo'n'Sequences |
+| 40 | ![Cover](https://i.discogs.com/wTPs7bojJmRt9jIkkEpW7jJ877XsoVG5cbLZwN0KuXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ5/ODg5LTE2MDU5Nzc1/NTMtODU4MS5qcGVn.jpeg) | 2004 | Aetherius | The Inevitability of Pain (and the stupidity of those who don't expect it) |
+| 42 | ![Cover](https://i.discogs.com/0VQc_G1DO1ZQxrxAGy7CenOB0DcewIejPAGqGvaGYo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjE1/My0xMjgxNjUzODI1/LmpwZWc.jpeg) | 2004 | Remote Spaces | Silos |
+| 92 | ![Cover](https://i.discogs.com/P_uQT44jLVTWfsDxgHuXhPqZ_bSS84SkC1o1ED8DFWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTcy/MS0xMjkyMDY2OTA1/LmdpZg.jpeg) | 2004 | Atarix | :: smooth taste remedy EP :: |
+| 21 | ![Cover](https://i.discogs.com/Ht-Atcgc4XXNICiUlxRSP1VNHwvUGBdxRTr53rONTec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjE4/Ny0xNDY0ODU4MDg1/LTQ4MjUucG5n.jpeg) | 2004-04 | Gultskra Artikler | Golova |
+| 72 | ![Cover](https://i.discogs.com/rz4_VWukLDhgoxmRw12JqiKTiNyPdSH5dc2H4Fl5wNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjIw/OS0xMjQzNDQxNzgx/LmpwZWc.jpeg) | 2004-04 | Phobode | Sogur |
+| 13 | ![Cover](http://coverartarchive.org/release/15671114-c871-44a3-aead-5bea1b95fe7f/19358563670-250.jpg) | 2004-05-18 | Takashi Wada | Meguro |
+| 43 | ![Cover](https://i.discogs.com/3xTvyxomvpYfxGF4yq4-OaECIrBR7da-p7QcmbHeRk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjA3/NzEtMTE4OTAyMDA1/NS5qcGVn.jpeg) | 2004-06-20 | Talvel | Otsos |
+| 77 | ![Cover](https://i.discogs.com/SZ4ZIXgkVwc2TkOVVpIgJpOokr6fjpXPWgn0FQUzW9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDA0/NDItMTIwNzY4MTgw/OC5qcGVn.jpeg) | 2004-11-06 | Sunburn In Cyprus | Raw &amp; Mixed |
+| 12 | ![Cover](https://i.discogs.com/l06cmHerBhwU1k34gRNk4ScS7HRL7u3Fap7YlLuwx9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTkz/NTQtMTQxOTc3NjQ4/Mi04NjY5LmpwZWc.jpeg) | 2005 | PolyGroovers | Moods For Take Out |
+| 34 | ![Cover](http://coverartarchive.org/release/c29bced3-b9d7-4835-b0ba-fd8c3a2b6268/1538160551-250.jpg) | 2005 | Formication | Pieces For A Condemned Piano |
+| 50 | ![Cover](https://i.discogs.com/efUS-NfDyjNDLMES4prH3z0fyzchjNQM6vSZ1_7Ls4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTcy/Ni0xMTgwODY4ODA4/LmpwZWc.jpeg) | 2005 | Polaris | Re:Transmission |
+| 96 | ![Cover](https://i.discogs.com/h5YobcSkULRlc93uj-CzprHJsrDz7ER1yI1BNr3fk9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg3/NjI4LTE2MTcxNzkx/ODktMjUwMi5qcGVn.jpeg) | 2005 | Gultskra Artikler | Golova / Online Bonus Track |
+| 48 | ![Cover](https://i.discogs.com/Ytjf52T78iWX8k3cnkJEoShRfeINb3uIaPHKXWHL7Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjEw/NC0xMTU0NTU0NjI1/LmpwZWc.jpeg) | 2005-01-27 | serjio hakinen | Jive EP |
+| 26 | ![Cover](https://i.discogs.com/6hhclc3USL0EKMVQHGpUmZbKrRORByc_Ce8ULrNPvdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjEx/MjMtMTE5MzY5Mzc2/Ny5qcGVn.jpeg) | 2005-02-17 | Holden | ten |
+| 5 | ![Cover](https://i.discogs.com/h_dY2hrMFZwvav9s6aCuXYg36ntpKLKrIUpjqCr6tFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTEx/OC0xMTUxNjkyNjY1/LmpwZWc.jpeg) | 2005-06-25 | Mind Necrosis Factor | Entropy |
+| 66 | ![Cover](https://i.discogs.com/HFyQ9LUC47lIR3lEjjMwg768RZWupHxLsAr1HKGwtfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUy/NzAtMTIwNDg0NDI1/MS5qcGVn.jpeg) | 2005-09-09 | Northcape | Letter To Nowhere |
+| 67 | ![Cover](https://i.discogs.com/PCT6JA7pEKMsHAooBK7sAkQObi56GTGqLPy1DQk83Ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzY4/MS0xNTExNDc0MTI2/LTIyMzcuanBlZw.jpeg) | 2005-10 | The Orb | okie dokie its the orb on kompakt |
+| 74 | ![Cover](https://i.discogs.com/PCT6JA7pEKMsHAooBK7sAkQObi56GTGqLPy1DQk83Ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzY4/MS0xNTExNDc0MTI2/LTIyMzcuanBlZw.jpeg) | 2005-10-26 | The Orb | Okie Dokie It's The Orb on Kompakt |
+| 86 | ![Cover](https://i.discogs.com/6C1NxkQsTC18oXXIHuN_bb5chcjAkBLDxjNGim_ex0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQw/MzgtMTE5Mzk1MDM5/MS5qcGVn.jpeg) | 2005-11-04 | deemage | nothing happens, everything changes |
+| 3 | ![Cover](https://i.discogs.com/7eIMAQcOZTkrwuAz5l4tpisOVfM7-u8Rsxc_zxivVpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjAx/MTItMTQ2NjA5NTc0/OS02NDM4LmpwZWc.jpeg) | 2005-12-09 | Ambient Generation | Passive Aggressive |
+| 11 | ![Cover](http://coverartarchive.org/release/011c9284-d3f0-4bde-9d91-2884fe81d154/1322240442-250.jpg) | 2006-03-05 | Sabi | Unsui EP |
+| 45 | ![Cover](https://i.discogs.com/5wLF0lkwVt1yRxtcrg8JADVtuVNdSkx0CL8AScQrsz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzc1/NS0xMTQxNzQ5Nzc1/LmpwZWc.jpeg) | 2006-03-05 | Sabi | Linedrop Remix EP |
+| 55 | ![Cover](https://i.discogs.com/nerQ5xAAUXD8mkcBxKUigaqMJR3gyCi_nac1DMvINRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTYz/NC0xMTQ0NDg3Nzg1/LmpwZWc.jpeg) | 2006-04-07 | Sabi | Streamable Tracks |
+| 84 | ![Cover](http://coverartarchive.org/release/0033c9f5-c32a-32ea-a726-664c99d06347/22510847182-250.jpg) | 2006-04-21 | OSI | Free |
+| 18 | ![Cover](http://coverartarchive.org/release/d085e544-0483-458e-875f-3d0eec00a7d3/6123430973-250.jpg) | 2006-05-02 | Cibelle | The Shine Of Dried Electric Leaves |
+| 52 | ![Cover](https://i.discogs.com/8kKqE3lZZbMZB93vJLxmCs0thN8C91SwOlvhy5MF5z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MzE0/Mi0xMTUyNDI4NzI5/LmpwZWc.jpeg) | 2006-05-22 | Takashi Wada | Araki |
+| 46 | ![Cover](http://coverartarchive.org/release/653da618-c28c-416e-8f21-9ba29cb86de7/23444049225-250.jpg) | 2006-07-01 | Jette-Ives | In the Deep |
+| 31 | ![Cover](https://i.discogs.com/PB5VosSde7UiFfA7ivcJl5E1Hqi9BzLnk3uoz8kPVqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTUw/NzktMTE5MTQ1NjQx/MC5qcGVn.jpeg) | 2007 | Iëlo | Calm Before Dawn |
+| 61 | ![Cover](https://i.discogs.com/QpFtB-8DSjXK7fgnhhLgT34gkFrKcimmAbtNQM8vc1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUy/ODItMTIwNzUwODY3/Mi5qcGVn.jpeg) | 2007-01-31 | Northcape | New Tracks |
+| 60 | ![Cover](https://i.discogs.com/tBbFllYaOCrfKCJE4vVMlbcWmBPhLTHprhd6LZP7nYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ0/NDEtMTE5Mzk5MzY0/NC5naWY.jpeg) | 2007-04-27 | old oldman | the tender ass ep |
+| 76 | ![Cover](https://i.discogs.com/FLmX6ZADGtoBJNpBgOggmgtO_em3X9qzwih1aEdZaGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAx/NTEtMTE4ODEzNTAy/NC5naWY.jpeg) | 2007-07-08 | Morgen Mittag | Astroglitch |
+| 53 | ![Cover](https://i.discogs.com/-U61wgXUj15Z3Ckoy2Dw1nOGgo4jOyjXlLBupxj3l60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI5/OTktMTQ2NDU2ODI1/MC00MDgzLmpwZWc.jpeg) | 2007-12-03 | Morgen Mittag | Digiwatt Lydt |
+| 98 | ![Cover](https://i.discogs.com/-U61wgXUj15Z3Ckoy2Dw1nOGgo4jOyjXlLBupxj3l60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI5/OTktMTQ2NDU2ODI1/MC00MDgzLmpwZWc.jpeg) | 2007-12-03 | Morgen Mittag | Glitch Village Vol. 1 |
+| 87 | ![Cover](https://i.discogs.com/_Q7Y0qrx92tEzsdNEwDHTJ2CCUsd9RLk19GHSOVy6Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMz/MjctMTIwMjUyMjE3/NC5qcGVn.jpeg) | 2007-12-27 | Lee Rosevere | Devils Tower |
+| 62 | ![Cover](http://coverartarchive.org/release/0faf2315-889a-4d45-aa80-203df4886364/8722452001-250.jpg) | 2008 | Carmen Rizzo | Ornament of an Imposter |
+| 15 | ![Cover](http://coverartarchive.org/release/183ed343-723f-4b34-99c2-d641a3b840c1/3414289707-250.jpg) | 2008-03-25 | Robert Rich &amp; Ian Boddy | React |
+| 64 | ![Cover](https://i.discogs.com/3lmGUol1368vqrkpYvt-J61oqeaE92eELiAYGQ5IrUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDIz/MzQtMTMyODk5ODAy/NS5qcGVn.jpeg) | 2008-05-16 | Oh Yes, By All Means | A Granma (incomplete) |
+| 99 | ![Cover](https://i.discogs.com/3lmGUol1368vqrkpYvt-J61oqeaE92eELiAYGQ5IrUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDIz/MzQtMTMyODk5ODAy/NS5qcGVn.jpeg) | 2008-05-16 | Oh Yes, By All Means | A Granma |
+| 82 | ![Cover](https://i.discogs.com/CsYFDrobXVg5oPm7jpXtrdTSfp5tjx3byUBTz34GB1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg0/MDQtMTYxNjc0Mjg1/NS01MTE1LmpwZWc.jpeg) | 2008-05-17 | FPRFproject | 2.5-D sketch |
+| 10 | ![Cover](https://i.discogs.com/7cmWmUwD0mMiSKij3di_LLDqV35d0Fsb6vIrGqPd6-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU1/NTUtMTIxMjMzNzc3/MS5qcGVn.jpeg) | 2008-05-26 | Mind Necrosis Factor | Morphogenesis |
+| 79 | ![Cover](http://coverartarchive.org/release/0f90ef4e-8251-49fd-b616-a0ffc53adff0/24717883415-250.jpg) | 2008-05-26 | Northcape | Some Bright Valley |
+| 51 | ![Cover](https://i.discogs.com/ftebJRptogQkrLYz6Q0QswgdFRqTWPfEDu3Dz02AFvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM2/NzMtMTIyMDg5MTA3/MC5qcGVn.jpeg) | 2008-09-08 | Apecis | Ao |
+| 41 |  | 2008-09-10 | Jewish Funerals Burial and Mourning | Espér and Man Theo |
+| 22 | ![Cover](http://coverartarchive.org/release/6c1d940d-3222-4eb8-a7b4-3786cb20f1a5/11947829482-250.jpg) | 2009 | PolyGroovers | Trips and Ticks |
+| 35 | ![Cover](https://i.discogs.com/gM_ze8MOIHv0Ng9s-Brkj7YdqoWa3FrvXKOTQvY0nxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTkz/NjAtMTI2MTUxMjE4/OC5qcGVn.jpeg) | 2009 | Herr Twiggs | Baumkuchen und Bombensplitter |
+| 91 | ![Cover](https://i.discogs.com/K_5UP6zQCHsR4RfdscttW8Uy8WkF8jeQOkpFJX0kDnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTcy/NDEtMTIzODg4MTQ4/OC5qcGVn.jpeg) | 2009 | Stray Theories | Drift |
+| 90 | ![Cover](https://i.discogs.com/ve0DW5brL3qPW1Kf7NWy2b5X0ngvc35Axy4iy-yijI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzg3/MDItMTI0Mjc0MTA2/OS5qcGVn.jpeg) | 2009-05-12 | Apecis | Songs Sung to a Harp |
+| 65 | ![Cover](https://i.discogs.com/xaIWjgN1M7QtkPyaQnjNZiWghZmI81-UIqHebNX8dG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTkx/NTctMTMzNzYyMDE4/NS05NjMyLnBuZw.jpeg) | 2009-05-24 | Count Greglache | Crypto-Phantom |
+| 39 | ![Cover](http://coverartarchive.org/release/9dbaa6ab-666f-4959-8937-94c73ffdb7e1/4467722864-250.jpg) | 2009-07-20 | Ochre | Like Dust of the Balance |
+| 25 | ![Cover](https://i.discogs.com/kIc28jnZ_h2GlYkhe_tvXII1BxAVfRD3PKVM1q9G4IY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYw/ODktMTI1OTMxNzU0/Ny5qcGVn.jpeg) | 2009-11-18 | AquaFur | Fuzzy Emotions |
+| 69 | ![Cover](https://i.discogs.com/CG3VGh5cKcZVWHp-db5fHEGzFCICbAamgUTOVUSqEyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDU3/MDMtMTMwNjYwNjky/Mi5qcGVn.jpeg) | 2010 | Subterrestrial | Subterrestrial |
+| 70 | ![Cover](https://i.discogs.com/CG3VGh5cKcZVWHp-db5fHEGzFCICbAamgUTOVUSqEyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDU3/MDMtMTMwNjYwNjky/Mi5qcGVn.jpeg) | 2010 | Subterrestrial | Event Horizon |
+| 59 | ![Cover](https://i.discogs.com/5DC99AFZhtXKsS0ZGXOmHhjlqJR3Ot3KUXvTWIj88SA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTc1/MTctMTQxNjMyMTky/NC05OTk4LmpwZWc.jpeg) | 2010-01-01 | Viking Trance | Viking Trance 2 |
+| 83 | ![Cover](https://i.discogs.com/dq39H9mx6V01swg-s1BiJoarZvkReSM4Jpr48fDTDw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODIz/NDgtMTI4NjYxNTg2/OS5qcGVn.jpeg) | 2010-10-05 | Northcape | Red Panda Remixed |
+| 28 | ![Cover](https://i.discogs.com/ZmdAjk8jB18-wlphiQYQxHBj-l3653UYCwxZub_D7Yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzQx/MzItMTI4MDI5OTM1/Mi5qcGVn.jpeg) | 2010-11-16 | TOKiMONSTA | Midnight Menu |
+| 95 | ![Cover](https://i.discogs.com/CUvJgSyQUnM4KTQ_1WEep674No-GJj6tSWeTpmOn-js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MjQ2/NDItMTQwNjQ4MzYx/Mi01ODMxLmpwZWc.jpeg) | 2011 | Byrd/Thompson | Twilight Tipi |
+| 85 |  | 2011-04-27 | Twilight Tipi | Twilight Tipi |
+| 94 | ![Cover](https://i.discogs.com/wO5l0crmYja7uRT4yszoDqaeQy-ea01HAz2BpSIEmY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDcz/NzctMTMwNjY5MTM4/Ni5qcGVn.jpeg) | 2011-05-29 | Pollux | Music Is My 0² |
+| 81 | ![Cover](http://coverartarchive.org/release/92a14218-9876-4cef-9a7a-f4915793b865/15724083069-250.jpg) | 2011-06-03 | Subterrestrial | Plasma Weapon |
+| 54 | ![Cover](https://i.discogs.com/oCNgXq_WP1rSD0YT0bACtcevZnypLC1pvLCNvWlnH9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkx/NjY4LTE1ODY1NzY5/NTMtNjczNi5qcGVn.jpeg) | 2011-06-07 | ElectricOkra | ClaireRocket |
+| 93 | ![Cover](https://i.discogs.com/DyyW6ku5H2AqZS19zb01kUL_ExczvEFHbFs_F1EBb-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzUw/NjMtMTMxNzM5Mzgw/NC5qcGVn.jpeg) | 2011-09-08 | Krzysztof Horn | Kinematic Air |
+| 100 | ![Cover](https://i.discogs.com/DyyW6ku5H2AqZS19zb01kUL_ExczvEFHbFs_F1EBb-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzUw/NjMtMTMxNzM5Mzgw/NC5qcGVn.jpeg) | 2011-09-08 | Krzysztof Horn | Live Act Night 5 |
+| 1 | ![Cover](https://i.discogs.com/mUWnqLr4EG6KnZHTOsFR1AfXTnqV3y-W4SheeRCElZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjA0/OTgtMTMyMTA0NTE5/OC5qcGVn.jpeg) | 2011-11-14 | Steve Hauschildt | Tragedy &amp; Geometry |
+| 97 | ![Cover](https://i.discogs.com/mY55hJ0vdmWjFUdeIjX346CsDbQDtyRm-ZWZ5r0Ec4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTE1/MzQtMTMyNjEwNDE4/NS5qcGVn.jpeg) | 2011-12-18 | Noisesurfer | Old Autumn Tales EP |
+| 47 | ![Cover](https://i.discogs.com/LPx1MbcO-U0lVaLptUCV56AZ8g1DJUCdRmwzwe7KyhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTQ4/ODktMTM2NDI1NTMx/Mi03NDc1LmpwZWc.jpeg) | 2012-05-31 | Harmful Logic | Lies and Distrust EP |
+| 63 | ![Cover](https://i.discogs.com/kG1bHWOQMQjzhTfVM9SGRjQCDdy0xJcj_XsKKuEXrDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDcx/NTQtMTQwMTU0NjA5/NS05MjExLmpwZWc.jpeg) | 2012-06-25 | Viking Trance | Viking Trance |
+| 71 | ![Cover](https://i.discogs.com/t_M4gvedmDJ4x65JgXdesEordylWj3JQE1yIoPi0DV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDQ2/OTktMTQyMTY3MzM5/MC00MzI2LmpwZWc.jpeg) | 2012-06-25 | Viking Trance | Viking Trance 4 |
+| 27 | ![Cover](https://i.discogs.com/RAy8pOirkZueJBa8ulAcLlpCoQtdqBE8MYOxBogrJ24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzgz/OTktMTM4OTQzMDgw/Ni0yMzE4LmpwZWc.jpeg) | 2014 | Flaer Smin | Collapse |
+| 75 | ![Cover](http://coverartarchive.org/release/d236bfc1-0648-403f-b934-31bde301d824/6998461931-250.jpg) | 2014-05-26 | Sébastien Tellier | L'aventura |
+| 29 | ![Cover](https://i.discogs.com/vqSRUbaNbBbyh9MwhAP2dR0r2ac6ZDjW-zTGTSUMzKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDYy/LTEyOTEwNjIyMTku/anBlZw.jpeg) | 2014-10-06 | Sven Väth | The Harlequin, The Robot And The Ballet-Dancer |
+| 6 | ![Cover](https://i.discogs.com/IjvyG6Sxdc2mZNRm7W-LsdE5Lj8qIt0msvIM8_wdjEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzc0/MjAxLTE2MzI2NTcy/OTktOTU2MS5qcGVn.jpeg) | 2020-02-14 | Sabi | Free Tracks |
+| 4 | ![Cover](https://i.discogs.com/XRK-GaULJzG7OMCjTcL-zPKB56LNid8XxSHIO7Ejh_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTcx/NTM5LTE1ODc2Mjkz/NzMtNTk3My5qcGVn.jpeg) | 2020-03-14 | Voyage Futur | Inner Sphere |

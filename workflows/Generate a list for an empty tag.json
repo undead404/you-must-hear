@@ -1,0 +1,163 @@
+{
+  "name": "Generate a list for an empty tag",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "minutes",
+              "minutesInterval": 1
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        0
+      ],
+      "id": "861b3b2d-4b82-485c-bfa7-f8d4db2d0ba8",
+      "name": "Schedule Trigger"
+    },
+    {
+      "parameters": {
+        "workflowId": {
+          "__rl": true,
+          "value": "8yEqxKAOkd9EsU7B",
+          "mode": "list",
+          "cachedResultUrl": "/workflow/8yEqxKAOkd9EsU7B",
+          "cachedResultName": "Generate list"
+        },
+        "workflowInputs": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "tagName": "={{ $json.name }}"
+          },
+          "matchingColumns": [
+            "tagName"
+          ],
+          "schema": [
+            {
+              "id": "tagName",
+              "displayName": "tagName",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "canBeUsedToMatch": true,
+              "type": "string",
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": true
+        },
+        "mode": "each",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.executeWorkflow",
+      "typeVersion": 1.3,
+      "position": [
+        416,
+        0
+      ],
+      "id": "d297729d-eb41-4cea-93bb-d5fe5e82620c",
+      "name": "Call 'Generate list'"
+    },
+    {
+      "parameters": {
+        "operation": "select",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "value": "Tag",
+          "mode": "list",
+          "cachedResultName": "Tag"
+        },
+        "limit": 1,
+        "where": {
+          "values": [
+            {
+              "column": "albumsScrapedAt",
+              "condition": "IS NOT NULL"
+            },
+            {
+              "column": "listCheckedAt",
+              "condition": "IS NOT NULL"
+            },
+            {
+              "column": "listUpdatedAt",
+              "condition": "IS NULL"
+            }
+          ]
+        },
+        "sort": {
+          "values": [
+            {
+              "column": "listCheckedAt"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        208,
+        0
+      ],
+      "id": "26219244-ceb7-4129-a913-d361a259514f",
+      "name": "Select an empty known tag",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "Select an empty known tag",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Select an empty known tag": {
+      "main": [
+        [
+          {
+            "node": "Call 'Generate list'",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": false,
+    "errorWorkflow": "7HrDrsQKECTlnEFk"
+  },
+  "versionId": "8fddea0b-ad86-49b6-9a51-f83710a8869d",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"
+  },
+  "id": "Xnz7MF2hSn8hhWvc",
+  "tags": []
+}
