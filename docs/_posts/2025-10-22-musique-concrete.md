@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2025-10-22T16:53:34.258Z
+permalink: tags/musique-concrete
+title: musique concrete
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 10 |  | null | ki††y c▲t | hold on |
+| 32 |  | 1972 | Pekka Airaksinen | One Point Music |
+| 19 | ![Cover](https://i.discogs.com/fZhq1Y0quwrJXyDjuyCiCOLb1db-EE_R51k0BtntBR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjAz/MS0xMTc3MTY5OTc2/LmpwZWc.jpeg) | 1976 | Andrew Gold | Halloween Howls - Fun &amp; Scary Music |
+| 16 | ![Cover](https://i.discogs.com/Q8G_qHiyFL18CAwomveMMQ77ENCr5mqEVkW2xmxSqhE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODAz/Mi0xMjQ0MDQyNzMy/LmpwZWc.jpeg) | 1982 | Iannis Xenakis | Alpha &amp; Omega |
+| 8 | ![Cover](https://i.discogs.com/NqMkRwlLIx-zF6_oyg0gyQXbS822sGZIs77Rq1n4XGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjIw/MS0xMzEyNDIyNzA0/LmpwZWc.jpeg) | 1983 | Merzbow | Material Action For 2 Microphones |
+| 29 | ![Cover](https://i.discogs.com/q-sz3S7ixyde6I05cJQkLO7YYp6VaNcJC8MKm7NIhXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDA4/MC0xNTEzNTY1MjU1/LTU3MzcuanBlZw.jpeg) | 1990 | Z'EV | Opus 3.1 |
+| 37 | ![Cover](https://i.discogs.com/Flr997Gr8HwYD8C7a3PzE5GmpBd6IOrq90DYaUI6Ic8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDYz/OC0xNTQ3MTMwNTU5/LTk3NjIuanBlZw.jpeg) | 1990 | Current 93 | Invocations of Almost |
+| 42 |  | 1991 | The Gerogerigegege | Live Greatest Hits |
+| 45 | ![Cover](https://i.discogs.com/d7hc5Be3QHAuRE45lA-jjZaziRW4PpPY0xDZ43mb-Kw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDUw/Ni0xNDMxNzQ2OTUz/LTI4ODkucG5n.jpeg) | 1993 | The Gerogerigegege | Showa |
+| 7 | ![Cover](https://i.discogs.com/P_8CrWePybea5m5W9OaX82UaxXgbpmYwY-GpzyVAnD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzY5/MC0xMjM5NDgyMTEy/LmpwZWc.jpeg) | 1996 | Francis Dhomont | Cycle De L`errance |
+| 43 | ![Cover](https://i.discogs.com/gfiwX6Gp3phePqNKWqKBhrmVEVu24BU6QMAW6sJU4zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjY2/NjYtMTM4NjU3Nzgy/Ny04ODIwLmpwZWc.jpeg) | 1996 | Коммунизм | Родина Слышит |
+| 46 | ![Cover](https://i.discogs.com/-_8-2fv3UiGSVmgvFpFu2Psqi91UhsuNjbBBT0ZuIWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDg0/MS0xMjM5NTM4NTIy/LmpwZWc.jpeg) | 1996 | Francis Dhomont | Les Derives du Signe |
+| 47 |  | 1996 | Spectrum &amp; Jessamine | A Pox On You |
+| 23 | ![Cover](https://i.discogs.com/hOaCD5mgP8YEJqAzLezsJMbZALdIg1omwuCc0_FBhs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDc2/LTEyNjU1NzY1OTgu/anBlZw.jpeg) | 1998-01-16 | Terre Thaemlitz | Means From An End |
+| 24 | ![Cover](https://i.discogs.com/DuAI9qxIuQj0x3rXrSJg3mnEvGKjamQ7X63Rq4_yuNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDQz/Ni0xMTc5NzQ4NzUx/LmpwZWc.jpeg) | 1999 | Autopoieses | La Vie à Noir |
+| 30 |  | 1999 | The Shadow Ring | Lighthouse |
+| 21 | ![Cover](https://i.discogs.com/SiThPUk5ueXLKQ8nIRnYgfW3oS3b3YYI-UjCn0qFAFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQx/Ni0xMjQ1NTcxOTc3/LmpwZWc.jpeg) | 1999-11 | Eric La Casa | The Stones Of The Threshold |
+| 34 | ![Cover](https://i.discogs.com/P9xdGkINCTvYb05FjvoA1s1VO00S5LJaFxx2lBjvNko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjQ1/NS0xMTgwMTkzMzk2/LmpwZWc.jpeg) | 2000 | Hank &amp; Slim | The World Turned Gingham |
+| 3 | ![Cover](https://i.discogs.com/T1qIrDrD6cXlJTGgF0sBrDxNj1avktWvvXLKqDs65vM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTIw/Ny0xMjc2MzQyMTgw/LmpwZWc.jpeg) | 2001 | Henri Pousseur | Paysages Planétaires |
+| 14 |  | 2002 | [The User] | Symphony #2 for Dot Matrix Printers |
+| 9 | ![Cover](https://i.discogs.com/kHx0PLpT3Y57u0JPcyydflijP6Q5OxZYhyyKUwLmxhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQx/MS0xMzE0MDAyODk2/LmpwZWc.jpeg) | 2003-03-18 | Xerophonics | Copying Machine Music |
+| 13 | ![Cover](https://i.discogs.com/lpWERUrntWaibazb_lDHoaALDapS8J8Dl-h9d24TXpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODQx/NTUtMTU3NTExMjA4/OS0zNDE3LmpwZWc.jpeg) | 2004-10-10 | Naing Naing | Toothbrush fever |
+| 15 | ![Cover](https://i.discogs.com/KLtGcQZiWsCi2v-8WVpMrAbjHmY5UL0m6nUWDzwyCN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODEz/MzYtMTM0NzkxNzA1/Ny05Njk0LmpwZWc.jpeg) | 2004-10-24 | Naing Naing | Toad Fever (Limited edition) |
+| 49 | ![Cover](https://i.discogs.com/8C1w70gJrcCl8KAtNv9lZ_c-6FSJHhOxh_207nbcbdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODUy/OC0xNjc1MDMzNTYy/LTk3OTMuanBlZw.jpeg) | 2005-07-00 | Merzbow | Storage |
+| 33 |  | 2006-07-16 | Kukkiva Kunnas | Grand poodles |
+| 20 | ![Cover](https://i.discogs.com/FEKrGIotpNh1sjFRw47b8OSDatVOl_89pxgpsP9ZqDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzg2/OS0xMzI5Mjk0NzQw/LmpwZWc.jpeg) | 2007-03 | Edward Ka-Spel | Melancholics Anonymous |
+| 5 |  | 2008 | Baudouin Oosterlynck | 1975-1978 |
+| 22 | ![Cover](https://i.discogs.com/kAFgEHkIUhshjD1iqUJ7UBthrvYD-Sw9R6K3d9vM8ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTkx/LTE0Mjg1ODkyMDUt/MTg0MC5qcGVn.jpeg) | 2008 | Aube | Metal de Metal |
+| 6 | ![Cover](https://i.discogs.com/cyETBVmt_4jn_b846AkWCP4txpsWaU6yCHQfN9o9unQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDc0/NzItMTIyNzUyMTk4/NS5qcGVn.jpeg) | 2008-04 | Oskar Hallbert | Sids Appartment |
+| 50 | ![Cover](https://i.discogs.com/cZj2k4uE8UFLR0bix5CSBdkKtTQbQlh49tWbaNft5Fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIz/MTctMTQ0ODM2NDcy/MS0zOTgwLmpwZWc.jpeg) | 2009 | Blood Stereo | Your Snakelike King |
+| 38 | ![Cover](https://i.discogs.com/OLfQXWkE1gFTAex3aPXskJcFzwX7CkvPbMr8ZsXmf9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzE1/MjctMTU5MTkyODMw/MC03NTA4LmpwZWc.jpeg) | 2009-04 | Evan Parker &amp; John Wiese | C-Section |
+| 18 | ![Cover](https://i.discogs.com/mDjcH2UDA4wftoeV3ac6LlgHcgseYRmSEyA009trpIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDY0/ODUtMTI3MjEyNDI3/My5wbmc.jpeg) | 2009-07-17 | Fuck, The Retarded Girl | Foot Worship and Fellatio |
+| 2 | ![Cover](https://i.discogs.com/Xp72saXtwSuGCXTUNHBi_RASjoDkxkEHJnpjx1Wg38A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTA4/NjAtMTI2MzQ3NTQ4/NC5qcGVn.jpeg) | 2010-01-10 | Gillicuddy | ca350 - gillicuddy - the yaouhl! mashups |
+| 26 | ![Cover](https://i.discogs.com/OE7GOtWPjkxDH7zY_ItixlI02Y49_ILu3WEJuV8paxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTY0/MDUtMTMwNjE3NTc3/Ni5wbmc.jpeg) | 2010-01-15 | yomby | Glimpses |
+| 1 |  | 2010-03-12 | Elektrolandmusik | automat |
+| 25 | ![Cover](https://i.discogs.com/y4ICppol_xfg_-KWVK11zY-uxMEjsfjhGb-V35Eqi_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzI4/NzAtMTMwMzA3Njgw/MC5qcGVn.jpeg) | 2011-04-18 | Lizard Kisses | Sleeping In |
+| 4 | ![Cover](https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg) | 2012 | Various Artists | avant-unlistenable |
+| 17 | ![Cover](https://i.discogs.com/_dut5uHC4lQpt-0YOLaPFGQEi3FNQLrRDfCEXEqpUmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTM5/NTAtMTYxODkzMDUx/OC0zMzM5LmpwZWc.jpeg) | 2012-05-30 | Pauline Oliveros | New Music for Electronic and Recorded Media: Women in Electronic Music - 1977 |
+| 28 | ![Cover](https://i.discogs.com/gPpsqSlDPkCuwMEvHDpsVQZwF4PMEipZcxUYyZ5fPro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjM3/MjctMTQ3OTI4OTAw/Mi05OTcyLmpwZWc.jpeg) | 2016 | Pit Piccinelli, Fred Gales &amp; Walter Maioli | Amazonia 6891: Sounds From Jungle, Natural Objects, Echo and Electronic Waves |
+| 40 | ![Cover](https://i.discogs.com/oRpAIoGIa9H3Tc5gfEbdAsot3jT31hPFpz8i34-wMH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzkx/NzAtMTQ1NDc0MDcy/My03OTI1LmpwZWc.jpeg) | 2016-02-05 | /F | The Fourth Bully |
+| 39 | ![Cover](https://i.discogs.com/ke7Ag-TfaZZZLJqNWIf2XpqKFR2Z39t65WuR6nLi8Q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQy/NzQ5LTE1MDQ3MzA2/NDUtMzg3MS5qcGVn.jpeg) | 2017-06-15 | Maria Teresa Luciani | Sounds of the City |
+| 36 | ![Cover](https://i.discogs.com/C3GPYCC6N3m890A3-IyzFUEbX7VmWesaBwf4Bse1H2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQx/OTI2LTE1NTA1Nzky/NjYtOTMyNS5qcGVn.jpeg) | 2019-02 | Michael Pisaro | Nature Denatured and Found Again |
+| 35 | ![Cover](https://i.discogs.com/NTb0JLGsEixy8Au7SRVlNzydR4ZA67TB0oGTq4Feoyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzM1/MDE5LTE2MjEwNjkz/MjktNzIwNC5qcGVn.jpeg) | 2021-04-20 | FITNESSS | SCHINDLER HOUSE HAUNTING |
+| 44 | ![Cover](https://i.discogs.com/H1qD_eLKKbVWkGA-EPH2esTpiyFIq9ipbteVog2ynIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjcw/MzU5LTE2NjEwOTY4/MjUtMzUyOS5qcGVn.jpeg) | 2022-07-12 | The Gerogerigegege | Singles 1985-1993 |
+| 11 | ![Cover](https://i.discogs.com/8twYo2fTBF5_JXxVqD0gs7Y3sXd25HEaRvP6RdPri80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDgy/MjAxLTE3MDUyMDU0/ODAtMTkxNC5qcGVn.jpeg) | 2024-01-13 | Vektroid | cRASH 2: Mac +/- |
+| 12 | ![Cover](https://i.discogs.com/CdIRT-TuyhqHljuQzUspG5UdKBY7AT47NPPbPrb9_Ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTky/NS0xMTc2MTM5MjE1/LmpwZWc.jpeg) | 2024-03-01 | Cousin Silas | Relic Once Lost |
+| 27 |  | null | INADRM | Adaptation |
+| 31 |  | null | Basic House | Government |
+| 41 | ![Cover](https://i.discogs.com/ofKF1bv3fhvU9D1MMUAYd8Tm2jTKiW4zErsymV5seiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjE2/MjQxLTE2MzQ0MjM3/NjMtNDUxNC5qcGVn.jpeg) | 2021-07-29 | Philip Jeck | The Sinking Of The Titanic (1969- ) |
+| 48 |  | null | Karl Rossmann | FRAGMENTS |
+| 54 | ![Cover](https://i.discogs.com/92dLvhrmu1udoQ3uHGhEkabUdGcjIRH6tkbWaAQdY1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODY2/NTMtMTQ1Mjg3NzI3/Ni0xOTU0Lm1wbw.jpeg) | 1957-10 | Karlheinz Stockhausen | CE: #3: Elektronische Musik 1952-1960: Etude-Studie I-Studie II-Gesang Der Jünglinge |
+| 79 | ![Cover](https://i.discogs.com/EaSnZkOcg4pvpUHGGcrDmhGOy46ZLDiZq8OsgtIi9OU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTM5/NjQtMTMzOTA2NTk2/My0xMDExLmpwZWc.jpeg) | 1961 | Tod Dockstader | Eight Electronic Pieces |
+| 58 | ![Cover](https://i.discogs.com/YlQTWcwje--ZLrbVqvZilvbpkC75w_WhLrpgBDQwO3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTYz/NjQtMTQzMDM5NjM1/My05NTA5LmpwZWc.jpeg) | 1967 | Pierre Henry | "Symphonie Pour Un Homme Seul" &amp; "Le Voyage" |
+| 85 |  | 1967-05-26 | The Mothers of Invention | We're Only In It For The Money |
+| 84 | ![Cover](https://i.discogs.com/55jJUtdj_uSpsoLiZDzsWi6mKXPN0qgaWWGM0xQhLzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzgy/NzMtMTQxNTk4ODI0/Ni00MzA4LmpwZWc.jpeg) | 1970-05 | Pierre Henry | Messe Pour Les Temps Present |
+| 57 | ![Cover](https://i.discogs.com/6gozFqtJDXBJ3wSvvNLQZuD1Rm3nh0EM94JbhsfFGoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI3/ODktMTIzOTM3MDkx/Ni5qcGVn.jpeg) | 1972 | Edgard Varèse | VARESE: Arcana / Integrales / Deserts |
+| 92 |  | 1974 | The Residents | Meet The Residents |
+| 87 |  | 1975 | Bernard Parmegiani | De Natura Sonorum |
+| 60 | ![Cover](https://i.discogs.com/gxnZimLpnCA3xCTWmrXXapUPfUiF2_tvV6_2HX6eE1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTU1/MDgtMTI4NTAxNDg4/OS5qcGVn.jpeg) | 1976 | Pierre Henry | Panorama of Musique Concrete, No. 2 |
+| 66 | ![Cover](https://i.discogs.com/_c1cMEoH_Ad16HPY2V-ZePUw9w03oY_1in5zAJWXzMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTQw/Mi0xMzIyMDg1MDU1/LmpwZWc.jpeg) | 1978 | Pierre Schaeffer | Early Gurus Of Electronics |
+| 83 |  | 1978 | Michel Chion | Requiem |
+| 59 |  | 1978-08 | Alvin Curran | Fiori Chiari, Fiori Oscuri |
+| 86 |  | 1979 | Ghédalia Tazartès | Diasporas |
+| 88 |  | 1979-09 | This Heat | This Heat |
+| 81 |  | 1983-03-04 | Orchestral Manoeuvres in the Dark | Dazzle Ships |
+| 56 | ![Cover](https://i.discogs.com/T71ZuWYhLKv-HrCEeUAbDcrYgTDYmo5uVjxZycL7x8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQ3/NzgtMTUxNTAyNDMy/MS0zNDYzLmpwZWc.jpeg) | 1987 | Nurse With Wound | Dark Fat |
+| 55 | ![Cover](https://i.discogs.com/dG-5T_wPX4JKhu3bX2NpS8nT9q1yreOFn4sA9a59Xac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzEz/MzAtMTY5Nzk4ODA2/My0yMDEwLmpwZWc.jpeg) | 1996 | Bizarre | café de flor |
+| 72 | ![Cover](https://i.discogs.com/PvmyZ8KlSew0rDEIGbBBOGJU9vOISZEpIaZITAnJYHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODEy/MS0xMTc1Nzg5ODM0/LmpwZWc.jpeg) | 1997-09-29 | Pierre Henry | Messe pour le temps présent |
+| 73 | ![Cover](https://i.discogs.com/S3SO2_UJ3piUAXkudxmDyXLO6R5R8YHVhaCuJCPzyKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjYy/MDIyLTE2Mjc1MjE2/MzgtMzIxNy5qcGVn.jpeg) | 1999 | The Gerogerigegege | Hell Driver |
+| 51 | ![Cover](https://i.discogs.com/-kho5MVWqroXMwkc4sBsU7ZkvFbJuuun0Kxu8t-vBl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODQy/NS0xMDc5NjAwNjgx/LmpwZw.jpeg) | 2002 | Hildegard Westerkamp | Into India |
+| 53 |  | 2003-02-01 | Position Normal | Goodly Time |
+| 80 | ![Cover](https://i.discogs.com/pyWvfU609kyRYQh6WqtB5KPGsliKgob5hA9M1v-APLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTEy/MC0wMDEuanBn.jpeg) | 2003-11-17 | Dean Roberts | Be Mine Tonight |
+| 52 | ![Cover](https://i.discogs.com/uv9TBffd4KwHmSNpBiGlCIoKaBhGGdNSndWOeA6_gbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjIw/MDQtMTQxODgyMzc0/NS0zNjA0LmpwZWc.jpeg) | 2005-07-29 | David Schombert | Quiet Life vol.1 |
+| 76 | ![Cover](https://i.discogs.com/FGAbTYnriPZISvaaYvT6dUFjanXzwTGizA8uOFI84g4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzUy/NS0xMTYyMTkzNTUw/LmpwZWc.jpeg) | 2005-10 | Jan Jelinek | SEASCAPE - polyptych |
+| 71 |  | 2006 | laugan evil | Aeon Blend |
+| 89 |  | 2007 | Abandoned Toys | The Witch's Garden |
+| 90 |  | 2007 | Graham Lambkin | Salmon Run |
+| 82 |  | 2007-03-25 | The Focus Group | We Are All Pan's People |
+| 77 |  | 2008-03 | Graham Lambkin &amp; Jason Lescalleet | The Breadwinner |
+| 93 |  | 2011 | Graham Lambkin | Amateur Doubles |
+| 95 | ![Cover](https://i.discogs.com/NgAnOXE_Th5F4uDexyq8z2YEwDxAebKGFsNBHuFVXDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDUx/MzEtMTMyMzc5NTUx/OC5qcGVn.jpeg) | 2011-03-22 | Ocelote Rojo | Pacarina |
+| 78 | ![Cover](https://i.discogs.com/0hb5n7GGB_QDPOowCuqSf_AxxApfgAD3C6lhUws3z9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzI5/NDktMTMwNzk2MTgz/OC5qcGVn.jpeg) | 2011-06-13 | 2muchachos | teplaja EP |
+| 67 | ![Cover](https://i.discogs.com/zjX5frBh4EHwUh1fgVGPHjRVYqmn582Qz93TyYGr6K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjQ2/NTEtMTMyNzE2NTYy/OC5qcGVn.jpeg) | 2011-08 | Coum Transmissions | Sugarmorphoses |
+| 91 | ![Cover](https://i.discogs.com/yl1eWZaJoR3dT3aH3Nk-LPfpt18vwQ1vlN1aMMLivSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzM4/MTktMTMyMzQyNDM5/NC5qcGVn.jpeg) | 2011-12-08 | Felicia Atkinson | Un Hiver En Plein Été |
+| 62 | ![Cover](https://i.discogs.com/O02wnxEpzt9mdC4xTzkI69tfOa9e6fnQU3gXGZfAp24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTQx/Mi0xNjg5NjEzMjM1/LTQ4MDUuanBlZw.jpeg) | 2012-05-29 | Karlheinz Stockhausen | Tierkreis |
+| 68 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c92b6cbe349f4d27931561bfcea9dc23.png) | 2012-10-30 | Frank Zappa | We're Only in It for the Money |
+| 61 | ![Cover](https://i.discogs.com/xTZWw-re6BBxNio9eQY3pQd2Y63nAOGZgTHXSz6NBTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI0/NzAtMTI1NzI2NDA0/MS5qcGVn.jpeg) | 2013-12-05 | Коммунизм | Чудо-музыка |
+| 64 | ![Cover](https://i.discogs.com/8BtYpsSbxti2F_6VxgfuaMItRqzrLLzJ-uF0JafuD6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjYx/OTEtMTQyMDc1ODM5/NC0zNzU3LmpwZWc.jpeg) | 2014-10-01 | Michael Pisaro | Continuum Unbound |
+| 99 | ![Cover](https://i.discogs.com/OXhYc3IYGj4HA-TP_nRYlFowEPa5-5Gm-nYGq1zsdbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDU2/MTAtMTQ1NTU2MDcy/Ny01NTk0LmpwZWc.jpeg) | 2016-02-10 | Matmos | Ultimate Care II |
+| 96 | ![Cover](https://i.discogs.com/Ca3WQl3QkE30TVO14UflhB-RQbtwq4-D9tFajxOJeoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Nzkx/MDEtMTQ4OTc2NTky/MC0xOTI3LmpwZWc.jpeg) | 2017-02-24 | Children of Alice | Children of Alice |
+| 75 | ![Cover](https://i.discogs.com/UWX6QqkQkOFBS3oEb69pu6MLtAHTjF5xgdumoyoSy0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkx/Nzg5LTE1MDk4Nzk0/NTEtNDg1NS5qcGVn.jpeg) | 2017-11-03 | Rabit | Les Fleurs Du Mal |
+| 69 | ![Cover](https://i.discogs.com/2YMfufiOcS2vK415RTYNhClCJQsiYNrB5Y31_gSE3MY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDYw/MTQzLTE1MzU3MjA5/ODktNDQ4MS5qcGVn.jpeg) | 2018-08-31 | Anja Garbarek | The Road Is Just a Surface |
+| 98 | ![Cover](https://i.discogs.com/b-kxc9vK0WMLMdK0AlaGvKGuwg8n2dlAZqaYtIxn42o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA3/MTg0LTE1NTk0NDM5/MzctMTg1MC5qcGVn.jpeg) | 2019-02-14 | Uboa | The Origin of My Depression |
+| 94 | ![Cover](https://i.discogs.com/YEoDR8YlRO-dO4rQ7AOA1Ph-VeaVst4AmFunSt78Gog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgx/NDg4LTE1NTE0NTk1/MzQtNTc5My5qcGVn.jpeg) | 2019-03-15 | Matmos | Plastic Anniversary |
+| 100 | ![Cover](https://i.discogs.com/bc8eWbwvjPlhfz5OXjit4QknpzQQfZjDh1MJ-zy2124/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDg5/NDQ5LTE1ODUyNTEy/OTctMTI4MS5qcGVn.jpeg) | 2019-09-06 | Melanie Martinez | K-12 |
+| 63 | ![Cover](https://i.discogs.com/o4SONxImVysVSlGZBM9FSit3mSLRxJOvst0WPnqOzHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI1/NjYyLTE1NzIyNzIz/MTQtODM0MS5qcGVn.jpeg) | 2019-10-22 | Claire Rousay | t4t |
+| 70 | ![Cover](https://i.discogs.com/UmIPzwaAaRpQHBvHEBa7djNt_Y2-j6pde02HYSDYwxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQx/ODcyLTE1ODQ0NjY2/NjEtNTU0Ny5qcGVn.jpeg) | 2020-04-17 | Claire Rousay | a heavenly touch |
+| 65 | ![Cover](https://i.discogs.com/d7hc5Be3QHAuRE45lA-jjZaziRW4PpPY0xDZ43mb-Kw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDUw/Ni0xNDMxNzQ2OTUz/LTI4ODkucG5n.jpeg) | 2020-10-02 | The Gerogerigegege | 燃えない灰 |
+| 74 | ![Cover](https://i.discogs.com/DTaqWxCJ45WYSLlJS0v9Olo3poGCkgknrl9fUHsQTjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODI3/MTA5LTE3MDE0MDgy/MzAtOTE0MS5qcGVn.jpeg) | 2023-10-27 | Flora Yin-Wong | Cold Reading |
+| 97 | ![Cover](https://i.discogs.com/NYf0GapxkWBKfruk6H0LCiQ8fDqumBLX9hWSVYbgjMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTk0/NTk1LTE3MTQ5Mjky/OTMtMjIzMi5qcGVn.jpeg) | 2024-03-21 | Broadcast | Broadcast and the Focus Group Investigate Witch Cults of the Radio Age |
