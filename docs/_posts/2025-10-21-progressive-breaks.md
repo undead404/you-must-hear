@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2025-10-21T05:20:00.065Z
+permalink: tags/progressive-breaks
+title: progressive breaks
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 3 |  | 1977 | Various Artists | DigiBliss 02 |
+| 17 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1977 | Various Artists | DigiBliss 01 |
+| 27 | ![Cover](https://i.discogs.com/L8tWwtqKs5dI51qmy0q_a1c8CXcICF0TOOglwdVgno0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODkz/NTYtMTQwODIwNzM5/NS0zMjc3LmpwZWc.jpeg) | 1987 | Various Artists | United States of Trance |
+| 1 |  | 1988 | Various Artists | FreQ Nasty Presents: Y4K - Next Level Breaks |
+| 10 |  | 1988 | Various Artists | Fear 3 mixed by Chris Salt |
+| 52 |  | 1989 | Various Artists | Way Out West: Don't Look Now (disc 2: bonus mix) |
+| 9 | ![Cover](https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg) | 1997 | Various Artists | Soul of Man Presents: Y4K - Breakin' in the House |
+| 38 | ![Cover](https://i.discogs.com/3i3Hpr7pJLqkKhP114qyRogpEkguLsRFStOlvmZK_t0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzU0/LTE2MDM5MTQxNTkt/MzYxNC5qcGVn.jpeg) | 1997-07-22 | Sasha &amp; John Digweed | Northern Exposure, Vol. 1 |
+| 14 |  | 1997-09-08 | BT | ESCM |
+| 53 |  | 1999-07-16 | Hybrid | Wide Angle |
+| 8 | ![Cover](https://i.discogs.com/MYggBFfXIFGDOtFxAV8yqRjkq3K-wMYXmVBHRVTW1r0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjc2/ODE3LTE2MzQ5MTQy/NjMtMzU1OC5qcGVn.jpeg) | 1999-08-01 | Dream Dolphin | Angel 13: From The Hyper Speed Forest |
+| 2 | ![Cover](https://i.discogs.com/g4GnhHDb04zqAN6PpnXHMEnfdTyn18scmTFPdwiY0CY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDIw/LTEyMjQwOTcwMDQu/anBlZw.jpeg) | 2000-03-13 | Anthony Pappa | Global Underground: Nubreed 001 |
+| 28 | ![Cover](https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg) | 2000-06 | Various Artists | ILS Presents: Y4K |
+| 49 | ![Cover](https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg) | 2000-06 | Various Artists | Ali B Presents: Y4K |
+| 61 | ![Cover](https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg) | 2000-06 | Various Artists | Hybrid Present: Y4K |
+| 31 | ![Cover](https://i.discogs.com/KdSiDTyAxvfRWgn7-ZG2C5DveO63IwwWLOU2Se7rxt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjkt/MTU5OTAxODgxNy0y/MTE0LmpwZWc.jpeg) | 2001 | Torus | YEAR0001 - RIFT One |
+| 35 | ![Cover](https://i.discogs.com/nGbdN27FOFiBdbFu5FeGdJu0CbgDnoxFehCOgMwQgyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjMy/NS0xNDMxMDk5Mzk4/LTU3OTEuanBlZw.jpeg) | 2001 | The Future Sound of London | Papua New Guinea - Mix Anthology - CD2 |
+| 65 | ![Cover](https://i.discogs.com/Cw8GuQQbGMWBjsLrzjbwfxjGTTRdbP_sTC07gCQQt6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTY1/LTE1ODM4NDc0MDEt/NzkzMy5qcGVn.jpeg) | 2001-03-05 | Tayo | Y4K: Further Still |
+| 76 | ![Cover](https://i.discogs.com/-UaqSCeMpg1v9Qu5osab2f6q-c4mR8SG-4C-lbZWhhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgw/LTE0MDQ1MDI2ODEt/NTU5MC5qcGVn.jpeg) | 2001-08-20 | Way Out West | Intensify |
+| 19 | ![Cover](https://i.discogs.com/uf8vLnUMW6CB9u35q35CAxXw6Bg0HG_eLZitf9aGvBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjg3/LTExMzE0MDQwNDMu/anBlZw.jpeg) | 2002 | Ali B | Fabriclive.02 |
+| 83 |  | 2002-06-04 | John Digweed | MMII |
+| 71 | ![Cover](https://i.discogs.com/orIXe13XY75aDkrfRAEYmRb4b8rOGdG3ggMbrCZ-2iA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzUx/MC0xNDI1NjA4MDY2/LTEwNjIuanBlZw.jpeg) | 2002-09-10 | BT | 10 Years in the Life |
+| 47 | ![Cover](https://i.discogs.com/QFZjtrEz591hMOiaWEnwZnrzLQkDUOZymLnGRY7wdtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM2/Mi0wMDEuanBn.jpeg) | 2003-07-18 | Jono Fernandez | Colours Of Conscience |
+| 29 | ![Cover](https://i.discogs.com/cVRPBd341VnNGjSSnGB_hKxYt5M88kgdq9qv_8rccB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA1/OC0xMTY1MzI1ODIx/LmpwZWc.jpeg) | 2003-08 | Silencer | Signals |
+| 68 | ![Cover](https://i.discogs.com/hOJOxnEacwodZG8LmdkqtmCvDBeyiX_PDbHulvG2EOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg0/MS0xMjg2OTg2MDYy/LmpwZWc.jpeg) | 2003-11-03 | Nubreed | The Original |
+| 79 | ![Cover](https://i.discogs.com/5wrFeIO1pfEX4Ml-IxYJmUDzCzBufpmFDakXI--pI_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTkw/MS0xMjMyMzY4Njky/LmpwZWc.jpeg) | 2004 | Jono Fernandez | Deliver Me |
+| 6 | ![Cover](https://i.discogs.com/xYdepR5rJt_0m31neh0J2g3FB3HVeuW3i60IQdR65VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTg0/My0xNDM5NDkyOTQx/LTk2NTguanBlZw.jpeg) | 2004-03-01 | James Lavelle | Romania |
+| 20 | ![Cover](https://i.discogs.com/OHH2R8H020TRioEGOCiyozDTHi67hQh5mvUyRByQwuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTIz/MC0xMzg0MDM3NDgx/LTkwODYuanBlZw.jpeg) | 2004-03-01 | James Lavelle | Global Underground: Romania |
+| 30 | ![Cover](https://i.discogs.com/45O2cgEQTxHdsUnkiNcNja8mwu35Hq5kyeYC_PT5m5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEx/OS0xMTk3NzY1MDg5/LmpwZWc.jpeg) | 2004-08-30 | Way Out West | Don't Look Now |
+| 66 | ![Cover](https://i.discogs.com/lj3s7TMO_QAAvL1rBFHLcDiM392FzziIFa21mWRSd38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjUy/My0xMDk2NDczMjI4/LmpwZw.jpeg) | 2004-09-12 | Fretwell | Silky Dirty |
+| 88 | ![Cover](https://i.discogs.com/MGdmsEJkYislCrrDMHB1vIcox9SoVsoGg3gn899jYuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTAx/NS0xNjU0MjgwNTU4/LTgxNDguanBlZw.jpeg) | 2004-09-16 | Derek Howell | Might As Well Have A Gasoline Fight Ep |
+| 40 |  | 2004-09-20 | Hybrid | Hybrid Present: Y4K |
+| 44 |  | null | hisboyelroy | proton radio remixes |
+| 48 |  | 2004-09-15 | hisboyelroy | 9 |
+| 74 | ![Cover](https://i.discogs.com/v7-9YNCdNk7CaoPJy9rQjaeqDWOAEYZNcmoLuKg6WV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjk4/MC0xNTI5MzUxNzIw/LTY4OTcuanBlZw.jpeg) | 2004-09-20 | Ficta | Eli |
+| 70 | ![Cover](https://i.discogs.com/109FuvA4yggZooCUUDdfPRlKTLm7jQHPCIO_cYFQEXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTAy/MC0xNTYwOTAxODU1/LTczMDcuanBlZw.jpeg) | 2004-10-04 | Trafik | Bullet |
+| 85 | ![Cover](https://i.discogs.com/eNuo0xu8jLxnggfFnASHhl0M8X6b4qh29aau2gugmpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzE3/MC0xNjYxMzU3MTYx/LTE0NDEuanBlZw.jpeg) | 2004-11-26 | Kosmas Epsilon | All Is Heaven |
+| 25 | ![Cover](https://i.discogs.com/TZ-Wok2m-RFmWUg6utX6FsGgXPl-VMfPKUpLQ6buCZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzUx/Ni0xNDc0NjI3MjM2/LTg1MTUuanBlZw.jpeg) | 2005 | James Zabiela | Utilities EP |
+| 75 | ![Cover](https://i.discogs.com/OU6_-8hmtFnoaJkoMgDj1-bzLDXioS0EN7eZHRaH_XI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTQ0/Ny0xMTEzMzMzMTg3/LmpwZw.jpeg) | 2005-02-28 | Jono Fernandez | Northern Lights |
+| 77 | ![Cover](https://i.discogs.com/IT9LauGOVkZPiom1Muo6aRVMLFhwIOvaYtrvP9Gav24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ5/NDEtMTIwMzM2Mzc5/OS5qcGVn.jpeg) | 2005-07 | Alex Stealthy | Deploring |
+| 62 | ![Cover](https://i.discogs.com/F7MJzkOf7Cff16FZh-ZEtv88XYxkRD-eyfUIC7nFfPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDA0/My0xMTY0NjE5NDk3/LmpwZWc.jpeg) | 2006 | Future Funk Squad | Future Funk Squad - Towards The Sun |
+| 69 | ![Cover](https://i.discogs.com/EnyLhKsZRaocWJJ0akjcf_C8YU-q2x2P0DXhfJa_x9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Nzc0/MC0xMzQwMDg2NjU0/LTUzNjAuanBlZw.jpeg) | 2006 | Future Funk Squad | De-mystified |
+| 16 |  | 2006-02-06 | Nubreed | Y4K |
+| 51 | ![Cover](https://i.discogs.com/eHDQXT2UZJgdc6hKHkTQoHnbq0yyl-Zs1blDAaa5qcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDIz/NS0xNjEyOTc1NjM5/LTYyOTYuanBlZw.jpeg) | 2006-02-28 | Momu | Momu |
+| 87 |  | 2006-08-08 | Hybrid | I Choose Noise |
+| 7 |  | 2007 | Shiloh | Elements |
+| 55 | ![Cover](https://i.discogs.com/aTBV6fA-m03oio_1TKikzQKHTqKyI3EmsNHGHaE3jLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk3/MzctMTQ0NjgyNzMz/MS02MDc3LmpwZWc.jpeg) | 2007 | Burufunk | Burufunk - Outsider (2007 Remixes) |
+| 54 |  | 2007-03-24 | General Midi | The DigiBox |
+| 11 | ![Cover](https://i.discogs.com/ktdzGnvkBLwfg0ZDYEAcXr-tQnsxmA85HliFoHcf5Go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA4/MzYtMTIwMTgxMTE1/NS5qcGVn.jpeg) | 2007-05-18 | Neo | Mistery Galaxy WEB |
+| 96 | ![Cover](https://i.discogs.com/6jh0CnPq6TDnU9z3ND0zob8ALdMmp9RMMuNhD1J8oFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYz/NzQtMTE4NDcxNDM4/Ny5qcGVn.jpeg) | 2007-06-25 | General Midi | General Midi Presents Y4K |
+| 24 | ![Cover](https://i.discogs.com/uHMTS1Z-FHpZjhoR4IxfIhNaKITzlCdsw2EX1YNLoTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODEtMTIzNjI4OTQ3/Mi5qcGVn.jpeg) | 2007-10-20 | bambaat | Obscured Rays 001 - 012 on ETN.fm |
+| 26 | ![Cover](https://i.discogs.com/uHMTS1Z-FHpZjhoR4IxfIhNaKITzlCdsw2EX1YNLoTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODEtMTIzNjI4OTQ3/Mi5qcGVn.jpeg) | 2007-10-20 | bambaat | Flights and Reflections EP |
+| 86 | ![Cover](https://i.discogs.com/1vK_MbeIfj1W1OXOrF0rl1XVt8r3WfU5Os1rRMVvndE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg2/MDYtMTI1NjEzOTE4/Ni5qcGVn.jpeg) | 2008 | Chris Lake | One too many |
+| 63 | ![Cover](https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg) | 2008-02-22 | Various Artists | Remix and Additional Production By... |
+| 67 | ![Cover](https://i.discogs.com/vGSdglUMkF6RhBM2GXQz2s0P_fXmttc_9LWDC_ORBdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUw/MDItMTUxNTQwOTY0/MC0zNDYzLmpwZWc.jpeg) | 2008-03-01 | Arthur Deep | Friends |
+| 46 | ![Cover](https://i.discogs.com/5QTd7WymNlzOmAYl_tAGTYIWL5IY_CMdQ1z42jvxqEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg0/MjUtMTM1NzA1ODI0/MC03MzYyLmpwZWc.jpeg) | 2008-03-15 | Morphonix | Off The Grid |
+| 36 |  | 2008-10-06 | StrangeZero | The NeverLands |
+| 22 |  | 2008-11-06 | Steve Foulds | live your life - dusk free download |
+| 45 | ![Cover](https://i.discogs.com/cEAPTP7k9Ky7wuvu7D8vpQJeIDbbvsrP_nRE6OOzXkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDc2/NTAtMTM5NTE2NjUx/Ny00Njc3LmpwZWc.jpeg) | 2008-12-17 | Steve Foulds | Some new tracks |
+| 4 |  | 2009 | Various Artists | Global Underground: Nubreed 001 (disc 1) (Mixed by Anthony Pappa) |
+| 32 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 2009 | Various Artists | Y3K: Deep Progressive Breaks |
+| 34 | ![Cover](https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg) | 2009 | Various Artists | General Midi Presents Y4K |
+| 15 | ![Cover](https://i.discogs.com/mvUoruXtpnVSRER0o52apa0UKoOlZ1GlfMyMFijARnQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzAy/MTUtMTUxNTQ0MzM3/OC02NDgzLmpwZWc.jpeg) | 2009-02-28 | Aeron Aether | Aeron Is Coming |
+| 89 |  | 2009-06-29 | General Midi | Operation Overdrive |
+| 81 | ![Cover](https://i.discogs.com/jkz6OfodvILIupTsyUsBOiubbrLMjehfQoDUeos9874/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDI0/ODctMTI0NzgxNzA2/Mi5qcGVn.jpeg) | 2009-07-03 | Future Funk Squad | Disorders of Skill |
+| 82 | ![Cover](https://i.discogs.com/YAW80fQ5f-AhDGg96lcZsCoI8UnyQAp9M6LDGpZB1co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODY3/MDQtMTMwMDk5MjIz/Ny5qcGVn.jpeg) | 2009-11 | The Silk Demise | Music For A Film |
+| 57 | ![Cover](https://i.discogs.com/FnAXdR4-30xl9gjGxOoZHTg03z6LgPCB0O_7qOWBqFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTYy/MzAtMTI5ODI0MzQ0/NS5qcGVn.jpeg) | 2010 | Kekal | 8 |
+| 94 | ![Cover](https://i.discogs.com/FvezVc7CSGomLwIMDpUZ7eGWWHTPFmyt5C60tPOzp8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTQz/NjctMTI2NDgwMzg4/NS5qcGVn.jpeg) | 2010-01-31 | BT | These Hopeful Machines |
+| 80 | ![Cover](https://i.discogs.com/5lECMQQszjSwJsXJVuVQ2WqpoVJffFIDMmGp9a0ox9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTQw/MTYtMTM1NzA4NjM1/MS0xOTAzLmpwZWc.jpeg) | 2010-02-04 | Future Funk Squad | Re-Orders of Skill |
+| 42 | ![Cover](https://i.discogs.com/MiKCUISL3XvYETjKTlARBbFpx30yVOd99Qag0MLcOdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjc1/OTktMTI2OTQ5MjY4/OC5qcGVn.jpeg) | 2010-03 | James Ferraro | Live at Primavera Sound 2012 (James Ferraro) |
+| 39 | ![Cover](https://i.discogs.com/NXwbfcFOs6tcbbOTOOaifDRWKVzwhOoyEeiT3_O1bQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzYw/NjctMTUxNjIxNTgx/MS0xMDYwLmpwZWc.jpeg) | 2010-06-29 | Aeron Aether | Synthanelia |
+| 12 | ![Cover](https://i.discogs.com/qLF5BJdKOw9QV7HK_k9LnFbzS8vQSaNxZPioEyrav3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjMy/MTMzLTE3MTE2MzM2/NjEtODQ5Mi5qcGVn.jpeg) | 2010-12-01 | Various Artists | Koma &amp; Bones Present: Y4K - Next Level Breaks |
+| 64 | ![Cover](https://i.discogs.com/zKyjMvJdHvsH7hjvRbK1Sa47pkKZ8VvPtKIN7OadRxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjI2/ODYtMTMwMjYxNzcz/OC5qcGVn.jpeg) | 2011-04-11 | Reii | Ghostly Sea EP |
+| 92 | ![Cover](https://i.discogs.com/vKWatnsVvmAhvF7Dn7orqqYx24A_S3DBoIZMm2j-Acs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTY0/NTItMTMxNjU0MDA2/NC5qcGVn.jpeg) | 2011-09-26 | Miguel Campbell | Baby I Got It |
+| 5 | ![Cover](https://i.discogs.com/tkBYClCI9nAE0pwVaZKjQ5RnRMU_SAsEliZmPdT3tRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDA0/MzktMTMzMjg3NjI2/Ni5qcGVn.jpeg) | 2012-01-15 | Rory Gallagher | Never Coming Down / Remember Me |
+| 18 | ![Cover](https://i.discogs.com/T7mfnIPjYO0fyzNtL3o--Z77ovEG-Mx6O_rx6gXq3UE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjMx/NTQtMTMzOTM3NTI3/NS00NzQ1LmpwZWc.jpeg) | 2012-05-17 | Mr. Bill | Meaningful Ambience |
+| 41 | ![Cover](https://i.discogs.com/R__9OrDsLZNUeP1oXWHHpb73ie_4OI20K25ulOEeRGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzIw/MjUtMTMzOTc2NDU4/Mi0xOTE3LmpwZWc.jpeg) | 2012-05-29 | Tarac | Botenstoff |
+| 59 | ![Cover](https://i.discogs.com/gJk_dwaF8nDy3hBpcbhzLuS50pRpLcX6xmm08RflceE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTU5/MTgtMTM0MzEwNTc1/MC04MjI0LmpwZWc.jpeg) | 2012-06-19 | Timewave | War |
+| 90 | ![Cover](https://i.discogs.com/EI0VWdT2X930Ky401gCU2rzzLHIeaZkB_awzjF41ODw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzY3/NzQtMTM2MjEzNDM3/OC0zMzIwLmpwZWc.jpeg) | 2012-09-07 | Hybrid | Cinematic Soundscape |
+| 37 |  | 2012-10-29 | Airwave | Bright Lines |
+| 73 | ![Cover](https://i.discogs.com/Am6ckRQDOmZQa6NkI5XnzITm7xVM1ssCIart6rGn2LM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTIw/MzktMTQwNDQ3NTk2/NS0yMzgxLmpwZWc.jpeg) | 2013-04-08 | Tinlicker | Remember the Future |
+| 50 | ![Cover](https://i.discogs.com/4H0dapsvZjcHHzvdLHe5d5n0Wsy8_DAaWnX2wVMeGmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTc0/NjgtMTM5OTQ0ODMy/OC01NjYwLmpwZWc.jpeg) | 2014-04-21 | John 00 Fleming | The 10th life |
+| 33 | ![Cover](https://i.discogs.com/a_X52iwNP6bUeawGXC7hixPtjzRTTPeN_9lB-SnDHKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTQ3/OTAtMTQxNjI1NDg0/Mi0yMDUxLmpwZWc.jpeg) | 2014-10-10 | Plu-Ton | Stalker Zone EP |
+| 23 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 2016 | Various Artists | Global Underground: Nubreed 001 (disc 2) (Mixed by Anthony Pappa) |
+| 58 | ![Cover](https://i.discogs.com/GEH4R7r8YpNM7Iop8I3AZ1kAaN7jWZvVsc0v4hOy_Z8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjQy/MTMtMTQ3NTE4NjIw/My05NTM0LmpwZWc.jpeg) | 2016-09-19 | Omauha | Work Out |
+| 97 | ![Cover](https://i.discogs.com/-L8UAL9FjIdvPbAaAZ9rgZZqEuXfRNXcv8fqnO6GSz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDQ4/NDMtMTQ4NjU4MTUy/Mi0xNzg5LmpwZWc.jpeg) | 2017-08-01 | Dreamweaver | blue garden |
+| 93 | ![Cover](https://i.discogs.com/yOoYS-l8Q-XaV5eE_-FZA6-1oDJg_2_WV09mtm7O--k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzE5/ODczLTE1MjEyMjcz/NjYtNTA1My5qcGVn.jpeg) | 2017-12-07 | Monrroe | Falling Apart EP |
+| 95 | ![Cover](https://i.discogs.com/59Umxs2yRk3wLHOyJGzCrOgipAF0BVok8J4Qu2UetjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIy/NjQ3LTE1MjQ4MTc2/NjktMTMwNi5qcGVn.jpeg) | 2018-04-27 | ilan Bluestone | Scars |
+| 60 | ![Cover](https://i.discogs.com/xE3AePooIhCn8wcHlHhO-vZuu48SaAOwHpbtdscweJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ1/NjkwLTE1MzkyNTM1/MjQtMzAxNy5qcGVn.jpeg) | 2018-10 | Toke | Mind Motion |
+| 72 | ![Cover](https://i.discogs.com/xm_aZ2G57S1rnP04gxjQ81FknFQr_O4yc80H08oePJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDU4/Mjg4LTE2MTEzODIw/ODUtODE5OC5qcGVn.jpeg) | 2020-05-01 | GLACCI | PURE |
+| 56 | ![Cover](https://i.discogs.com/iFgjz0fOQSHVvZvQUxbRKSV2JvnOmHCMt7pPhoPad3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDIz/Njc3LTE1OTEzMDU3/NDktMjg0My5qcGVn.jpeg) | 2020-06-01 | Quivver | Controlled Substance Vol. 1 |
+| 100 | ![Cover](https://i.discogs.com/NV05C_W-uMUPAFds7HgcqBPtL2j9nRzJHCUEIvB210c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgz/MTUzLTE2MDcwNTA0/NzUtMTA5OC5qcGVn.jpeg) | 2020-12-02 | sewerslvt | Newlove |
+| 99 | ![Cover](https://i.discogs.com/YQzzfXABuyTsUkywtwN0WQjVL_9lchcjLbu986Yf3k4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzE2/OTc5LTE2MTI3ODQ5/OTctMjQyMi5qcGVn.jpeg) | 2021-01-27 | disctr4k | progression breaks |
+| 91 | ![Cover](https://i.discogs.com/_OD5ILI2Iu2Q3_BE_SEvbeGPi3UqMA0NREZd8VY67CA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMw/ODI1LTE2NjMzMjU3/MjAtNDExNC5qcGVn.jpeg) | 2022-09-16 | KAI WHISTON | Quiet As Kept, F.O.G. |
+| 78 | ![Cover](https://i.discogs.com/5SyZwpHMmQcd8Stk8Q3CGOt0QDAoBXvn2ZZZt-i5CWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQ3/MjU5LTE2Njc1NTQ3/NTQtNzE3OS5qcGVn.jpeg) | 2022-11-04 | Daniel Avery | Ultra Truth |
+| 98 | ![Cover](https://i.discogs.com/CEBPAr9gFm0inXDAwiAdcl3V1RrYXcV-L65V-oIzDVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzUz/MzA3LTE2NzAwMzYz/MDMtNDQ5OS5qcGVn.jpeg) | 2022-11-21 | bye2 | Metamorphose |
+| 21 | ![Cover](https://i.discogs.com/4GC_FiAca9gevZ9xeRAOmbjjCWv5_25GTW76L_UMuaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDMx/NTAtMTMxMTI0NjQz/MS5qcGVn.jpeg) | 2023 | Various Artists | Northern Exposure 0° North |
+| 43 | ![Cover](https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg) | 2023 | Various Artists | Nubreed presents Y4K |
+| 13 | ![Cover](https://i.discogs.com/Y6Y_0sBIsy5BVGozOtLQGMHQXhiEVfmJtASa8_H9eB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzQx/OTYwLTE2ODEzNDIw/MDItODYxOC5qcGVn.jpeg) | 2023-07-04 | Various Artists | Ministry of Sound: Clubbers Guide to Breaks, Volume 2 (Mixed by Kid Kenobi) (disc 2: Chill Breaks) |
+| 84 | ![Cover](https://i.discogs.com/ZPGOp-awvhaF1TZaUbymtnhZD8sMtpAcCZ8vwEsfh6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjA0/ODUzLTE3MzA4MjEw/MjEtMzE5OS5qcGVn.jpeg) | 2024-10-11 | TURQUOISEDEATH | Kaleidoscope |
