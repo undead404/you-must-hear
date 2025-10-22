@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2025-10-22T06:42:31.272Z
+permalink: tags/rechtsrock
+title: rechtsrock
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 57 |  | null | Вандал | The Fate Of My Race |
+| 10 | ![Cover](https://i.discogs.com/MhC9nKFY_mSvTjdk5Op0xyfz92KzKveb6mtoCG8x3r4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTg1/MDctMTQ0ODgwOTM0/MC0xMDA0LmpwZWc.jpeg) | 1987 | Saccara | Ketchup Metal |
+| 2 | ![Cover](https://i.discogs.com/eFrUXQMpnpkwRujwGeuKpVOhdNLWrJ941n4Uh9bzqgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTk4/NDItMTI4NzIxNzgy/NC5qcGVn.jpeg) | 1991 | White Diamond | Fetch the Rope |
+| 5 | ![Cover](https://i.discogs.com/a6rjWOLsn-W6fjsoGDaT7q4aHYQPPbnsZPwm5vaJK2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTE5/MTctMTI5MzE0NTI1/Ny5qcGVn.jpeg) | 1991 | Bomber | Das Böse lebt |
+| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cc1f53a9b6314a85bf9b363c9cccb190.png) | 1991 | Bomber | Das Böse Lebt! |
+| 17 | ![Cover](https://i.discogs.com/CF6NjLRIp5Og5FOhoH1U_z4UtkCohdpWp7DagMYm614/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTQ1/NjMtMTQ3MTM3NDM3/Ny0xNjA5LmpwZWc.jpeg) | 1992 | Triebtäter | Demo 92 |
+| 33 | ![Cover](https://i.discogs.com/lhZXqXj23QtGEsPxSCZ1s8Yt52WmFHAA91W7i9yRUmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzY4/NDYtMTQyODYxNzM4/My03MDE1LmpwZWc.jpeg) | 1992 | White Diamond | The Power and the Glory |
+| 42 | ![Cover](https://i.discogs.com/rTlu-PX5T63iN27eyDlkJp2YbpW2dWfSG43VPwY_20Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTYx/MzYtMTIwMTM2NjQ1/NC5qcGVn.jpeg) | 1992 | Wotan | Die letzten Helden |
+| 80 |  | 1992 | Landser | Das Reich kommt wieder |
+| 16 | ![Cover](https://i.discogs.com/o1OwpzcaYE51MCFN7Mc-TUjOUGqvF5Y0iLOsFWhNeHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDg3/MDgtMTM2NjA4MzYx/OC04MjkxLmpwZWc.jpeg) | 1993 | STURMGESANG | Feuer Der Reinheit |
+| 51 | ![Cover](https://i.discogs.com/gA0gx6DVLGOHyNxQ6ogKsX0DYqrErVP7goqdmM8oKCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTk0/MzctMTI5NTEzMjIw/My5qcGVn.jpeg) | 1993 | Sturmtrupp | Kraft Und Einigkeit |
+| 65 | ![Cover](https://i.discogs.com/shZ0TVpjMfra_VOX1y1e7CLBJrzubYP4u4aiJgP2tVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Njc2/NjUtMTY0ODY0NjQ0/NS0xMjI5LmpwZWc.jpeg) | 1993 | Odins Erben | Helden sterben einsam |
+| 71 | ![Cover](https://i.discogs.com/DT2Mlu-kdTR4Nge8Mjwovqm1itOf1N4BkLnEF4T09sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjUx/NDItMTI5Nzg0OTU0/OC5qcGVn.jpeg) | 1994 | Nahkampf | Schutt Und Asche |
+| 1 | ![Cover](https://i.discogs.com/bkwn-lf3bhBvOcOUuvkwFmj2UqFEsImFgGERNmuvXBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjM0/MjQtMTM0OTM3NDQ2/MS04NzYwLmpwZWc.jpeg) | 1995 | STURMGESANG | Apokalypse |
+| 67 | ![Cover](https://i.discogs.com/FoTQA2FZCJRejaO-qehS1gY54MSQuaY_i33DOYu6wFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDUz/MjItMTMxMDY1MzMy/Ni5qcGVn.jpeg) | 1995 | Saccara | Sturmfest und Erdverwachsen |
+| 72 |  | 1995 | Landser | Republik der Strolche |
+| 6 | ![Cover](https://i.discogs.com/3i7JF7dpwLpHzYy9AxQAn0D0Sh8XKIjHYnQAIgrJskg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzgw/MzQtMTM0OTg1ODMy/OS04MzM4LmpwZWc.jpeg) | 1996 | Nordlicht | Solang das Blut ... |
+| 8 | ![Cover](https://i.discogs.com/GNvPpxjzmglX9q8i3qofAqUSBNQ5qZyjg-mo3kbsT5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzM5/NjktMTM1NjQzNjg0/NS0xMzYzLmpwZWc.jpeg) | 1996 | STURMGESANG | Mein letzter Sturmgesang |
+| 21 | ![Cover](https://i.discogs.com/CDIpDanVRMoPhIGj4BLYtK9DbfkKS7TjQsyZq2HEDmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY5/NzQtMTM4MDU0NjQ3/OC0yNDk3LmpwZWc.jpeg) | 1996 | Division Wiking | Strum brich los! |
+| 29 | ![Cover](https://i.discogs.com/GEUBHbzn38swMD72t-LjHloFoyQIn0bhzYjDJy26Hog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODU4/OTUtMTI5NjUxNzEy/MC5qcGVn.jpeg) | 1996 | Radikahl | Wach Auf! |
+| 46 | ![Cover](https://i.discogs.com/VdY5eJlzilET0C-yJTSp7Y_sR4Iyi3KPBI_NunoV4B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjM1/MTgtMTU0MjE5MjE5/NC0yMDA4LmpwZWc.jpeg) | 1996 | Sleipnir | Meine bester kamerad |
+| 73 | ![Cover](https://i.discogs.com/JDoaqznPflbpZVrqqnRLZNCIe2Z2fwNKlmAbJggMGfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODky/MS0xMzkxMzM0NjUw/LTEyNjAuanBlZw.jpeg) | 1996 | Sturmwehr | Stimme unserer Ahnen |
+| 20 | ![Cover](https://i.discogs.com/JhGBS8tsVC5RrL-4JT_2mxyPni9J2s2H5Nrc7WKgrCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzAx/NjItMTM5OTk2OTg4/My02MzUxLmpwZWc.jpeg) | 1997 | STURMGESANG | Brecht euer Schweigen |
+| 26 | ![Cover](https://i.discogs.com/YUwf5PCtLyVK-OZ4kU2zPco41HoTCNtxj-wLdmnK6GA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDU1/MjktMTM1NjgxMDA0/Ny05MDAyLmpwZWc.jpeg) | 1997 | Kraftschlag | Alle beisammen |
+| 47 | ![Cover](https://i.discogs.com/G_kn4Z3-k1-Cie-9IlQ8WubBGqbQulKtvp49UKceoLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODU4/ODItMTI5NjUxNjc2/Ni5qcGVn.jpeg) | 1997 | Radikahl | Wir geben niemals auf |
+| 61 | ![Cover](https://i.discogs.com/HYinJmzwQJmJOlagAvt8eE4tDkk9Er2CGqZzZCExOao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTcy/MjMtMTMwMjk0NzU3/MS5qcGVn.jpeg) | 1997 | Oidoxie | Kann Denn Glatze Sünde Sein? |
+| 89 |  | 1997 | Landser | Rock gegen Oben |
+| 94 |  | 1997 | Pazuzu | The Urilia Text |
+| 4 | ![Cover](https://i.discogs.com/o9-Sd2iVGYky7H1EePW8b0m1xZ4z1GqUq_izcyzoGPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjQ2/ODEtMTM0OTQyNDM5/OC05Njk4LmpwZWc.jpeg) | 1998 | STURMGESANG | Kameraden |
+| 18 | ![Cover](https://i.discogs.com/rD9QRbtxVsFoH6xfqPpt2OQ_BXJnBTUxLKKnp3lACuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODc3/NjAtMTM0NDQyNDQz/MS03NzYyLmpwZWc.jpeg) | 1998 | Notwehr | Helden der Zeit |
+| 35 | ![Cover](https://i.discogs.com/CRGHhhXGt0ZB_BgtyxPqlWId4NQuWhRs03crfLNQWH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc3/MjEtMTM3NzUyMDI5/NS03NTg3LmpwZWc.jpeg) | 1998 | Leitwolf | Verrecke! |
+| 36 | ![Cover](https://i.discogs.com/CRGHhhXGt0ZB_BgtyxPqlWId4NQuWhRs03crfLNQWH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc3/MjEtMTM3NzUyMDI5/NS03NTg3LmpwZWc.jpeg) | 1998 | Leitwolf | Verrecke |
+| 59 |  | 1998 | Landser | Guess who's coming to Dinner? |
+| 62 | ![Cover](https://i.discogs.com/ETYeJ1_0myVtAr_5IdicAilUOAfLE88ZTQeKLoml4bM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODM2/OTAtMTM0Nzk5OTgw/OC02MjQ2LmpwZWc.jpeg) | 1998 | Sturmwehr | Triumphzug |
+| 69 | ![Cover](https://i.discogs.com/wPA6XhYZPI0d0UVu1xJD8k57oVe8XpcWEby1XicKbaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTgw/NTQtMTM4NjA3NTYw/OS04MTQ2LmpwZWc.jpeg) | 1998 | gestapo | Heil dem Führer |
+| 98 |  | 1998-02 | Dark Sanctuary | Funeral Cry |
+| 45 | ![Cover](https://i.discogs.com/4pcDKlu1luQ7OksdMcHaOGd20FECQRVFQOLbgd7i6r0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ3/NzEtMTIwMTI3MzMx/OS5qcGVn.jpeg) | 1999 | Faustrecht | Sozialismus oder Tod |
+| 11 | ![Cover](https://i.discogs.com/GTEG8TrtDYiH99r_QtCKADzQlSWUEZ2MhJXWg3a510s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgy/NDUtMTI0NzU4ODEz/OC5qcGVn.jpeg) | 2000 | Freikorps | Unser Sieg! |
+| 39 | ![Cover](https://i.discogs.com/3YSVTMI0b8glBef81xFQpYHT8ELvykNrqjgj2gpsMM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTM1/OC0xMjk4MzAyMjMz/LmpwZWc.jpeg) | 2000 | Вандал | Песни крови и почвы |
+| 40 | ![Cover](https://i.discogs.com/xizfRHOyIpj2nB3bO2FjPIkDHCQf-O6bFtd-tAwdVLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDQ3/NTMtMTI5NzMxMDg5/Mi5qcGVn.jpeg) | 2000 | Radikahl | Wilde Horden |
+| 92 | ![Cover](https://i.discogs.com/1WmYTsXzi4-EAxPOO457o0UFi0EJuRTZPIUWWZVn0U0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTAy/ODYtMTI5ODk0MDkz/Ni5qcGVn.jpeg) | 2000 | Landser | Ran An Den Fiend |
+| 93 | ![Cover](https://i.discogs.com/jtK_neWlvlxTXlFIBtlTjVGR_6SKJep0aYQIepjqFEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTQy/NzUtMTMwMjk0NzQ1/NC5qcGVn.jpeg) | 2000 | Nordfront | Werft sie raus! |
+| 24 | ![Cover](https://i.discogs.com/PvDfo2OV2AT6-JgRfg-Jx1BtjhNywsQ5me_Hj5kL-74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzA4/OTQtMTY5NDQzNTMx/MC0zNzI0LmpwZWc.jpeg) | 2001 | Вандал | Окружен, Но Не Сломлен |
+| 34 | ![Cover](https://i.discogs.com/7fG2PSnmstuyPCRk6WMwI0NjRVJ5IRSx_XBaqNavrwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzY4/NzEtMTU4MzA4NDE1/NS0xOTc5LmpwZWc.jpeg) | 2001 | Sturmangriff | Sie Waren Die Besten |
+| 43 | ![Cover](https://i.discogs.com/lqIr332ynQUlaAgLDCMrb8a6kjpVO_RoRLDoOSWtNoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODc3/OTMtMTYyNTk5Mzkz/MC0yMTU2LmpwZWc.jpeg) | 2001 | Blutrausch | Land Meiner Träume |
+| 66 | ![Cover](https://i.discogs.com/ZoCoYVhdJozGLzYHrVo22iUT2fYb9AVgX60M9YRsDCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDkw/MjUtMTI5ODk0MDgx/MS5qcGVn.jpeg) | 2001 | Landser | Best Of Landser |
+| 82 | ![Cover](https://i.discogs.com/QVNRqmzjvTktmMKHBPkqFxXeL_DtMMb22NdtnwDhDlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTQy/MTMtMTYzODU2MTY5/Mi0yMzUxLmpwZWc.jpeg) | 2001 | Oidoxie | Weiß &amp; Rein |
+| 83 | ![Cover](https://i.discogs.com/bHlCRmFHQRoVpdBnQM2M9fN0vcjN_UpOknF4_M3_cDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTM0/ODYtMTMwMjk0ODMx/MS5qcGVn.jpeg) | 2001 | Race War | The White Race Will Prevail |
+| 84 | ![Cover](https://i.discogs.com/yLF6_XKI2FYKs4Gy0zC1ML4JRJDR6dBOTenoQcXzlOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjYx/OC0xMTc4MTkyMjAz/LmpwZWc.jpeg) | 2001 | Вандал | Европа |
+| 87 | ![Cover](https://i.discogs.com/GUlA7JOOAS0_U0FUbhtNbP5TblgtxIwE-FsH7U3_-Rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/NzEyLTE1ODYzNDUx/ODEtMzk4NC5qcGVn.jpeg) | 2001 | Вандал | Судьба Моей Расы |
+| 9 |  | 2002 | Landser | Final Solution - Endlösung (The Early Years) |
+| 15 | ![Cover](https://i.discogs.com/854u-W3G3_H0Tap0Rr2wW-Q67svCKwoNynNFoxtvn9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzQ1/NTYtMTQxMDM4MzU0/OC01OTIxLmpwZWc.jpeg) | 2002 | White Resistance | Demo |
+| 79 | ![Cover](https://i.discogs.com/urmIQshDqgzFTW2AmWdIoMaXUwjOXncDaC_30MUKVB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjM3/NjUtMTQzODgyOTEz/MC0xNzg4LmpwZWc.jpeg) | 2002 | Faustrecht | Klassenkampf |
+| 96 |  | 2002 | Sleipnir | Wunderbare Jahre |
+| 13 | ![Cover](https://i.discogs.com/RxA9y90dMaxE-mW6Jl8RlXFFS-5v1FoBk_WU0t4Lbks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTYx/MS0xMTQ2ODU4NTA2/LmpwZWc.jpeg) | 2003 | Wolfsschanze | Der Kampf geht weiter ! |
+| 27 | ![Cover](https://i.discogs.com/TPFichfY8LhlwrKd3MGYSjr7pZuHCwtO9sZU3Q1p2hM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDg5/MTItMTQwNDE5ODkz/MC0xOTI0LmpwZWc.jpeg) | 2003 | Kraft durch Froide | Sturm auf Berlin |
+| 38 | ![Cover](https://i.discogs.com/t8gt5F76SVqSsnq_7bWKajZ3EQD-y3rYTuyQJRGaIwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDg4/ODQtMTM5NjI1MjY4/My0xMjgwLmpwZWc.jpeg) | 2003 | Reichswehr | Irgendwann einmal |
+| 74 | ![Cover](https://i.discogs.com/b_j_wAIzNpzHHgAtdmZvSfBjm33Aaf4UZIk8yfAo7dE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTM1/MzgtMTM5MTMzMzgw/Ny0xNDA3LmpwZWc.jpeg) | 2003 | Sturmwehr | Mit festem Schritt |
+| 44 |  | 2004 | Sleipnir | Exitus ...Bis Ganz Europa Fällt |
+| 52 | ![Cover](https://i.discogs.com/wGyzljgj0g7Jro5PFYY3KYI_KQCwjjAnRhChlJc67gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTk1/MDktMTM1NTkyOTQx/Ny05MDQwLmpwZWc.jpeg) | 2004 | Blitzkrieg | Wir sind zurück |
+| 68 | ![Cover](https://i.discogs.com/va3U-n-43gOpHparPhkgAXfFzkPjeBjkaRZOLE7qu8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTQ4/MzgtMTQ5MTI5Mjgy/OC00NzU5LmpwZWc.jpeg) | 2004 | Race War | Kingdom of Hate |
+| 77 | ![Cover](https://i.discogs.com/I4T8134Mi1yv7-VwsV9UW0MlovIt0sCelRfrcRSxyoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTcw/MDUtMTM1NTg3NTEy/NS0xODAyLmpwZWc.jpeg) | 2004 | Landser | Landser in English |
+| 88 | ![Cover](https://i.discogs.com/LT9QVskag9YjxxSfsti933gZdPsrj_fx-BWieAsoM0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzk2/ODAtMTM5MjA1NTkx/Ny02ODkzLmpwZWc.jpeg) | 2004 | Sturmwehr | Ewiges Deutschland |
+| 23 | ![Cover](https://i.discogs.com/RWFAbObqel1HTeZbVYytHxI6dBA1BgqrKJAbdctwbHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDg5/MTEtMTM1NTUxMzUz/NC05OTc4LmpwZWc.jpeg) | 2005 | Faustrecht | Niemals Verrat - Die frühen Jahre |
+| 32 | ![Cover](https://i.discogs.com/3gn7DxHtE89wFfB21m9oONV098ZqK6DBghWOOleEtF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDA5/NzgtMTM1MzI2Mjk0/My04NDgzLmpwZWc.jpeg) | 2005 | Einherjer | Auf in den Krieg |
+| 60 | ![Cover](https://i.discogs.com/jqAr4-pS39gNpmY3Caqz3Ar2ty9baRLpOy9GPlPmDks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTQw/MTAtMTU1NDU3ODA5/MC05NTA1LmpwZWc.jpeg) | 2005 | Wölfe Solo | Die Würfel sind gefallen |
+| 70 | ![Cover](https://i.discogs.com/qKhG4KaxWO4rtPQfPYvUJbIVA6wa-vrZCJUNQTwaCg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njgz/ODQtMTMwMjk1NjU5/My5qcGVn.jpeg) | 2005 | Weisse Wölfe | Ragnarök |
+| 78 | ![Cover](https://i.discogs.com/3OyxMJCaXFbJQu5FkklN6JU17Rc7lhErQCghFd9irBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTM1/MTEtMTMwMjk0ODI3/OS5qcGVn.jpeg) | 2005 | Race War | Stimme Des Blutes |
+| 95 |  | 2005 | Sleipnir | Das Ende |
+| 37 | ![Cover](https://i.discogs.com/JUDrK2A-hBYDSNh5-JvIMKiOw-ejx-HOFfe0fPNjX7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjM0/NjEtMTUxNzA2NTM3/NC01Mjg5LmpwZWc.jpeg) | 2006 | Sleipnir | Auslese - 15 Jahre zwischen 6 &amp; 12 Saiten Teil 1 |
+| 41 | ![Cover](https://i.discogs.com/7_Z338K59osDjnkXcEmv78Kf_fHBEIcg6N9rFWwb6to/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzM1/OTQtMTI5MTE0NDY0/MC5qcGVn.jpeg) | 2006 | Faustrecht | Ein Blick Zurück Im Zorn |
+| 56 | ![Cover](https://i.discogs.com/ORVl9s_9wm0iO7D8bh-0OonjrYPZIB609yjfDn201nI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTk1/NjEtMTQ0MDYzODI0/MS0yMjY2LmpwZWc.jpeg) | 2006 | Radikahl | Um die Freyheit |
+| 58 | ![Cover](https://i.discogs.com/-i3lgbBefiIZv8nhnqGa18bQkNU_vuL95RqG6KwcjZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTEz/MzctMTM4MzE2NjA5/MS0xMDQwLmpwZWc.jpeg) | 2006 | Sachsonia | ...Unvergessen |
+| 63 | ![Cover](https://i.discogs.com/SGyncYj7trkPSgAWDEb0Skm7pI4qz32Ky7u3DIKb64E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkz/MjQzLTE1NTMzNTkw/OTMtMjAwNC5qcGVn.jpeg) | 2006-12-07 | T.N.F. | ÂÎ ÈÌß ÏÀÂØÈÕ ÃÅÐÎÅÂ |
+| 12 | ![Cover](https://i.discogs.com/PY1IEPYVcCCDnXmZ0lMwGSIvYY5uUFW3VmxDCUiAmsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTcx/NTQtMTUzMzA3MzEx/NC0zMTkxLmpwZWc.jpeg) | 2007 | Weisse Wölfe | Weiße Wut |
+| 30 | ![Cover](https://i.discogs.com/ARQDbN0SDPC2RHVfy2ojZZpEKOo4UY6RN2flWgRANKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzM0/ODQtMTUyNTI4NjM4/My03MzE5LmpwZWc.jpeg) | 2007 | Nordfront | X CD1 |
+| 55 | ![Cover](https://i.discogs.com/xgvin9LpQS7OKqm2C8gm782e095B3qmAzyjJFW-b8BE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjcz/NjMtMTMzNDAwNDg5/NC5qcGVn.jpeg) | 2007 | Sturmtrupp | Die Letzten Patrioten |
+| 85 | ![Cover](https://i.discogs.com/PY1IEPYVcCCDnXmZ0lMwGSIvYY5uUFW3VmxDCUiAmsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTcx/NTQtMTUzMzA3MzEx/NC0zMTkxLmpwZWc.jpeg) | 2007 | Weisse Wölfe | Weisse Wut |
+| 86 | ![Cover](https://i.discogs.com/-URDza_qgwzobIryVhbbRLUccrqkSGqbrY9RGVFvbaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTQy/MjMtMTU3ODIxNjI3/NS03ODg4LmpwZWc.jpeg) | 2007 | Weisse Wölfe | Soundtrack zur Revolution |
+| 64 | ![Cover](https://i.discogs.com/FyH4d6ndL-s953SwBVJDzaF-RdDagf7LasPSoaRPO_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDc5/MzItMTM3NjE1NDcw/NS02MDc5LmpwZWc.jpeg) | 2008 | Wölfe Solo | Gib Niemals Auf |
+| 3 | ![Cover](https://i.discogs.com/s6-tURqt6XWti3INOVMBtic-AtMocHa1ZgiClq8jmJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTg3/ODEtMTM3NDU5NDE0/My03NjE4LmpwZWc.jpeg) | 2009 | Sturm 5 | In den Pharussälen |
+| 91 | ![Cover](https://i.discogs.com/TjTUuHszZ2uTlnt3AzuJGj7c5Cmao_LFQw6O1sQ2rk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDY3/MDktMTM5NjE5MDI4/NC01OTYyLmpwZWc.jpeg) | 2009 | Diam's | Enfants Du Désert |
+| 25 | ![Cover](https://i.discogs.com/yeoMgm49gBFSV6-s4-iFn6V7-mApjqdsasG_nyr7UzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MjU4/MzEtMTM3NjY5MzUw/MS02NjczLmpwZWc.jpeg) | 2010 | Wölfe Solo | Rock'n'Roll |
+| 75 | ![Cover](https://i.discogs.com/TVEQYJJbY6PAsDLsrmACE2gGDtDEux2V6q6fzKZqjyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE1/MjQtMTI5OTg2MTg1/Mi5qcGVn.jpeg) | 2010 | Faustrecht | Das Recht Zu Hassen |
+| 76 | ![Cover](https://i.discogs.com/shTM6_K94ti9aKwLjlZLqBSTuLhtVRVEpUc3uvGnVco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDkx/MTUtMTM1NjkwNzY2/OC0zODk4LmpwZWc.jpeg) | 2010 | White Rebel Boys | White Songs - full of Hate |
+| 28 | ![Cover](https://i.discogs.com/GwbU9mDmHgqy7MKtuumThBWjf6RYZ1L5KQ_eTc-a0lE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NzMy/NzgtMTQ0NjQyMjY5/NC00NDc0Lm1wbw.jpeg) | 2011 | Landser | Tanzorchester Immervoll... Jetzt erst recht |
+| 54 |  | 2011 | Gigi in Musica | 25 Jahre |
+| 81 | ![Cover](https://i.discogs.com/Pnxo0vKQISWoAspTDEgwlI3wQ0zItFVIeMrng49TGSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTE3/MjgtMTMzMDg5NDkw/My5qcGVn.jpeg) | 2011 | Aleister Crowley | Satanic Verses |
+| 97 | ![Cover](https://i.discogs.com/w73rml1rTzqZLKwAZQQXsmcLRyNeFTjlGlwatNe-GP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzU4/MjQtMTY1MDc0NjIy/NC03MTc5LmpwZWc.jpeg) | 2013 | The Men | Devil Music |
+| 100 |  | 2014-12-01 | Marissa Nadler | Before July: Demos &amp; Unreleased Songs |
+| 99 | ![Cover](https://i.discogs.com/rb7W3F4SJTVzWrJaQc81a2Td3MT1k5hnKoslEm_5SvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjY3/NzMtMTYwMjYyMjgy/Ni01NjgyLmpwZWc.jpeg) | 2015-12-18 | Alligatoah | Musik ist keine Lösung |
+| 14 | ![Cover](https://i.discogs.com/6bPfWPpv1vpqlbGPLrwnEfIBEqVc0JhwtZFoN9wGz84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDk0/OTgtMTUwNDM1ODQz/OC02MDAxLnBuZw.jpeg) | 2016 | ERSCHIESSUNGSKOMMANDO | Blut &amp; Ehre |
+| 50 | ![Cover](https://i.discogs.com/4t1LllxCXQneRg9A1cv1wfVrBB6TonTu5ZE00dH4o4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTI2/NTMtMTQ3NTY5NTk2/OC03ODUzLmpwZWc.jpeg) | 2016 | Sturmwehr | Büßersyndrom |
+| 53 | ![Cover](https://i.discogs.com/J2xIPFMr91EmpiaP4SzhnvSGLWUC3b0C5_kAdSntxxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODM2/NjktMTQ3Mjc0Nzc5/MC05MDA0LmpwZWc.jpeg) | 2016 | Kraftschlag | Music Attacke |
+| 90 | ![Cover](https://i.discogs.com/4hAy4n7xfgPM092UjfQ2t8sQvGKp8dtRgqCYpXevdTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTQ3/MjAtMTM5MTI1NzEy/My05MDAwLmpwZWc.jpeg) | 2016 | Sturmwehr | Nationale Solidaritat |
+| 48 | ![Cover](https://i.discogs.com/gYQECK5spabpTT4KBoO0k8I6qVFQkTfiHEACdaowEH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDc4/ODAtMTQ4OTA1NzYx/MS0xMjUzLmpwZWc.jpeg) | 2017-03-03 | Brigade 88 | Flamme der Freiheit |
+| 49 | ![Cover](https://i.discogs.com/Ybg6YU6dAAohSmVa-zPmH6tRPO1D_5PontHU2Pkuv8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjc5/Mzg3LTE0OTQ1ODE0/MzctNjk5OC5qcGVn.jpeg) | 2017-05-08 | Heldenschwert | Vorwärts Germania |
+| 22 | ![Cover](https://i.discogs.com/e8KngBOlD7y_4MFf5KZCJRgu0YJMMRtwjjdgsaQZyMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODYz/ODczLTE1MDU1NzQ2/OTktODgwMS5qcGVn.jpeg) | 2017-09-01 | Randgruppe Deutsch | Toleranz ist Heilbar |
+| 19 | ![Cover](https://i.discogs.com/N-9Vy9X9cAZVV-w0777YUIFCoKw7tt6dDUI04DhN0qY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTU4/Mjc2LTE2MTYwNzkw/MTUtNjE3My5qcGVn.jpeg) | 2017-09-29 | Porno | Elend und Zerfall |
+| 31 | ![Cover](https://i.discogs.com/bNI4JvjDMjgsE_w7fzNNmp6faja6-U3xFaZIhtCeAvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM0/NjUzLTE1OTcyNDMz/NzctMjE4OC5qcGVn.jpeg) | 2020 | Asgard | Sieg Des Glaubens |
