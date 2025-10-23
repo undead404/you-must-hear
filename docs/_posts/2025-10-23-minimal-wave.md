@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2025-10-23T10:21:49.044Z
+permalink: tags/minimal-wave
+title: minimal wave
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 28 | ![Cover](https://i.discogs.com/xCXWBfLTpWh2Y8jJMcu9h5h3o22lyejBL2cz2Dt1kIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODAz/NjE5LTE3MTY5MTA1/NTktNTQxNC5qcGVn.jpeg) | 1972 | Various Artists | Classic Electro |
+| 31 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1977 | Various Artists | The Hidden Tapes |
+| 4 | ![Cover](https://i.discogs.com/6zCfCHSd5hkN2GGHNWThUMlAX-s-G6c_ymcOvnml_yI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDc5/OS0xMzUyNjcxNzkx/LTU0MTEuanBlZw.jpeg) | 1982 | Baard | Life In A Goldfish Bowl |
+| 5 |  | 1982 | The Actor | Exploded view |
+| 82 |  | 1982 | Solid Space | space museum |
+| 95 | ![Cover](https://i.discogs.com/Yf7N_RpAx0bb9e3ELaK5eFippWTAHFfS5VSwbmwmql4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mzg2/ODYtMTQyNzIxODA2/My03NTc4LmpwZWc.jpeg) | 1982 | Oppenheimer Analysis | New Mexico |
+| 10 | ![Cover](https://i.discogs.com/v6Fwn1QQu95NwNSXK6weA_csXTwo7qZNlJ0-rBR7tJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjYy/My0xNTk1NTE1Mjc2/LTc3NTYuanBlZw.jpeg) | 1983 | Duet Emmo | Or So It Seems |
+| 20 | ![Cover](https://i.discogs.com/h1LJAAudYcsoB80SO3t24z5EsB8M_gogVX0KbbHdBHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODg5/OTktMTI2MzY2NzUx/My5qcGVn.jpeg) | 1984 | Pale Cocoon | Mayu |
+| 45 |  | 1984 | Martin Dupont | Just Because |
+| 86 |  | 1984-03-01 | Severed Heads | Dead Eyes Opened |
+| 13 |  | 1985 | Martin Dupont | Sleep is a Luxury |
+| 76 | ![Cover](https://i.discogs.com/Jc45qXmsGf6mKLRgMFc7YrF-90MktQwMAC7QADBW68o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTk3/Ni0xMTk2NzA1OTI2/LmpwZWc.jpeg) | 1985 | Ruth | Polaroïd/Roman/Photo |
+| 11 | ![Cover](https://i.discogs.com/o2R0SmCseI0E9IqdvQsTZ6DMo-MHKhU_mQk22IU05uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQw/MzQtMTQ3MjY0ODg5/Ni0xMzI4LmpwZWc.jpeg) | 1986 | Nagamatzu | Sacred Islands Of The Mad |
+| 68 | ![Cover](https://i.discogs.com/NqGMvcCE4Koqlvg11yQcH25Ji34jZ36URlR7gl4InZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTg0/Ni0xMTc1ODE1MzEy/LmpwZWc.jpeg) | 1986 | Lives Of Angels | Elevator To Eden |
+| 70 |  | 1986-10-10 | Eleven Pond | Bas Relief |
+| 32 | ![Cover](https://i.discogs.com/rbQMjlcinCm4hOSQA1Jw3S4DwrDLUpb9cjC83Wa8yk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjY3/MzEtMTM3MTU4OTk4/MS02Mjk0LmpwZWc.jpeg) | 1987-11-11 | Eleven Pond | Assemblage |
+| 78 | ![Cover](https://i.discogs.com/UmdMPEXIJ-_9LpYSnkbz2HABLgPTEGJG8IeheR7Ic-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/MDgtMTQxMzE1NzI0/NS0zMjE0LmpwZWc.jpeg) | 1989 | Woo | It's Cosy Inside (Remastered) |
+| 19 | ![Cover](https://i.discogs.com/wz2sAIkwTshbR2fJoH9h0_ppgu-8gxpxcVPhddYBhnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjcx/Mi0xMzg2ODU2MzA3/LTM4MDYuanBlZw.jpeg) | 2002 | Minny Pops | Sparks in a Dark Room |
+| 50 | ![Cover](https://i.discogs.com/QRTxJ4ww3pnYHLq0XbN-dMmVNhx_utnoxF7VA_BtK7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjk1/MDAxLTE2NTYyMjA0/MTYtMTE1OS5qcGVn.jpeg) | 2003 | Various Artists | The Minimal Wave Tapes: Volume One |
+| 8 | ![Cover](https://i.discogs.com/B4VZwwk5qhVWH6Ih-sXDHfbtkk4dPgDZs8qlrBLLook/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM0/ODI0LTE1MTI0MTk1/NTYtMjQ0OC5qcGVn.jpeg) | 2004 | Eye | Sabine |
+| 16 | ![Cover](https://i.discogs.com/8BUGcZrztRln_Uv4XrCNQntMQYgAiPaDnJ4z2A_41Ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDcy/MS0xNjA3NTg2ODgw/LTQzMzcuanBlZw.jpeg) | 2004-01-24 | Celluloide | Words once said |
+| 35 | ![Cover](https://i.discogs.com/M6gC5yEeVkkJUw1nX8z-GDVwI4nCKzpZovdRnaSb6uU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzMy/Mi0xNTkwODYyNzQ5/LTg1MzQuanBlZw.jpeg) | 2005-03-01 | Martial Canterel | Confusing Outsides |
+| 43 | ![Cover](https://i.discogs.com/HgnCCSceLq85FIVrHo-HTaPvurgXiIwi_I3S3XRowjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjA3/NS0xMTQ1MzM5MDQw/LmpwZWc.jpeg) | 2005-09-19 | Broadcast | Tender Buttons |
+| 81 |  | 2008-09 | Molly Nilsson | These Things Take Time |
+| 84 |  | 2009 | Turquoise Days | Alternative Strategies |
+| 66 |  | 2009-01-09 | Linear Movement | On the Screen |
+| 72 | ![Cover](https://i.discogs.com/PPVaSCG05sOIjXHiCf5QjoilYBpPbrOPxDvfPLDH9Ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI1/MDEtMTI1NzI2NTQx/Mi5qcGVn.jpeg) | 2009-10-20 | Former Ghosts | Fleurs |
+| 46 |  | 2009-12-08 | Circuit 7 | Video Boys |
+| 69 | ![Cover](https://i.discogs.com/jVtEuTJwwIDgNuvZXcxYkpimGMyutXT5e44is9onT4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODcy/MDktMTI2ODcwMDUw/OC5qcGVn.jpeg) | 2010-03-13 | Sixth June | Everytime |
+| 17 | ![Cover](https://i.discogs.com/_ihsZ7teTesxAAhtnEKbLu2CuB-hgUKpv_prrabDQkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM0/NjctMTQ1MzIyMjI5/OS04NDg1LnBuZw.jpeg) | 2010-10-16 | Daybed | Preludes |
+| 67 |  | 2011 | Xeno &amp; Oaklander | Sets &amp; Lights |
+| 90 | ![Cover](https://i.discogs.com/1hAoa0dVaLaqWe1nH8FdY2OIpOfHjcXjzTfVMU4jCx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODUy/MzQtMTQ0OTc4ODg3/OS00NjI3LmpwZWc.jpeg) | 2011-11-24 | Throbbing Gristle | 20 Jazz Funk Greats (Remastered) |
+| 39 |  | 2011-12-01 | In Trance 95 | Cities Of Steel And Neon |
+| 75 | ![Cover](https://i.discogs.com/RrtuxaRJItseGM9IGbh7_8AFFO3rb5_Z0EUO04SxCg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjE1/OTctMTMzMDI5NjQ5/Ny5qcGVn.jpeg) | 2012-02-17 | Lebanon Hanover | The World Is Getting Colder |
+| 88 | ![Cover](https://i.discogs.com/xrpnTIwDkjvt54SZybw9ws1syfefUV4AzdwcfmeItOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODY5/MzUtMTMzNjM1NDUw/NC5qcGVn.jpeg) | 2012-05-28 | Tropic of Cancer | Permissions Of Love |
+| 37 |  | 2012-08-23 | November Növelet | Heart Of Stone |
+| 38 | ![Cover](https://i.discogs.com/2RXckBm104BLowNs4BFdE5tca0cMddK1OCBLX8XV9Ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjY1/NjUtMTM0OTQ4NDY5/OS02NTQwLmpwZWc.jpeg) | 2012-09-27 | Tropic of Cancer | I Feel Nothing |
+| 85 | ![Cover](https://i.discogs.com/ZIAEiAwNkh_wU26RTkYLTgBNO-1D8BDRpo90ScwCNiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzcy/OTktMTQxNzczNDky/NC05NzczLmpwZWc.jpeg) | 2013 | Prayers | SD Killwave |
+| 21 | ![Cover](https://i.discogs.com/IIu_QgN6z4tsKdRh_6qZJ3pCQMaavW5okanlYFkyUhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTk0/MjItMTM2MTgxODYy/Ni02ODExLmpwZWc.jpeg) | 2013-02-11 | Blablarism | Fugue |
+| 92 | ![Cover](https://i.discogs.com/FVvo5c0l2LtYwTBbiBegjbRLsrLb-nqssRiSwtWdtg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE4/NTAxLTE2MTkxNTYw/NjYtMjYzOC5qcGVn.jpeg) | 2013-10-24 | Minuit Machine | Basic Needs |
+| 64 |  | 2013-11-12 | Figure Study | Figure Study |
+| 18 | ![Cover](https://i.discogs.com/NSyrzl2z7kt2BJmrL8hmJ0MRmPmmou7V5Q9u0itsPog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDY0/NDYtMTMzODcyNjcz/Ny03MDA1LmpwZWc.jpeg) | 2013-12-18 | Кобыла и трупоглазые жабы искали цезию, нашли поздно утром свистящего хна | Рептильки |
+| 89 | ![Cover](https://i.discogs.com/-VDxhFALA7E8PQWKiSWnJ1IAwhKcsU5pZgIQHic30NU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDU2/MzctMTQzMjc0ODEx/My0zMTQ1LmpwZWc.jpeg) | 2014 | Prayers | Gothic Summer |
+| 100 | ![Cover](https://i.discogs.com/_6es4SpRP5GPgoSYD1X_O5QzVfLe4795uqM7F9zL8SI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MjM1/NjItMTQyNzM4MzM3/MS0yMTk3LmpwZWc.jpeg) | 2014 | Boy Harsher | Lesser Man EP |
+| 7 |  | 2014-08-04 | Stephon Alexander &amp; Rioux | Here Comes Now |
+| 62 |  | 2014-11-03 | Dean Blunt | Black Metal |
+| 60 | ![Cover](https://i.discogs.com/CUdMsQhnAgSPIx_qfP3xKL3iCrluDjOb3GOdwAJ8bK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDA0/MjAtMTQxNDg0ODYw/NC0xNDI2LmpwZWc.jpeg) | 2014-11-04 | Dean Blunt | Black Is Beautiful |
+| 34 | ![Cover](https://i.discogs.com/XVZ9am-oW6SmrtPbOQiwYnKmYleQDhA_axVYojAwJX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjE0/OTItMTQxNDA3MTc4/Mi0zMzk3LmpwZWc.jpeg) | 2014-11-07 | Veil Of Light | Ξ |
+| 24 | ![Cover](https://i.discogs.com/viwkI4SUWq24al3B8hz_1FUKfaKk3iauW7zv9yZVd5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjUw/NjMtMTQzMDU2NDgy/Ny00MzQ3LmpwZWc.jpeg) | 2015-04-29 | Lil Ugly Mane | THIRD SIDE OF TAPE |
+| 54 | ![Cover](https://i.discogs.com/U-D7VRiKg_9-j4vf79wEThZuQKXTQ0zDlLn5IhoXK0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDMx/NDgtMTQzNjA3Mjcz/My04NjEyLnBuZw.jpeg) | 2015-06-23 | Prayers | Young Gods |
+| 9 | ![Cover](https://i.discogs.com/NYQ7nnXTdui9fEiM4UcUrNRP5SUMk3KvgEANopejXbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc3/MzQxLTE0OTEyMTQ0/OTctNzk3My5qcGVn.jpeg) | 2015-07-24 | Xeno &amp; Oaklander | Movements II |
+| 99 | ![Cover](https://i.discogs.com/RsrL8WXvsE1oHB9A3lLIXqW51qZ4uCWbNtseK7NL_aU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTg3/NjUtMTQ2NDgxOTQ3/NS02NzU0LmpwZWc.jpeg) | 2016-02-09 | Puzzle | Soaring |
+| 49 | ![Cover](https://i.discogs.com/3e4pIKLBGuWCzVwfr9vR68MTX0Wj3FSR_5ZQgfimX50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjcw/MzMtMTYxMzE3MDI3/MC0zNzQ5LmpwZWc.jpeg) | 2016-02-11 | Heimat | Heimat |
+| 98 | ![Cover](https://i.discogs.com/DhzutPn2wnK4etFwd-C--OuF1NKkOt2whzdVu2E_Qmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTIy/NTItMTQ4MzY0MDEw/MC02ODQ1LmpwZWc.jpeg) | 2016-06-20 | Boy Harsher | Yr Body Is Nothing |
+| 14 | ![Cover](https://i.discogs.com/PlKwXusDIR5DKlbECrpPOIqZfSXdg5xIhIQqlqao8sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjIx/NjgtMTU5ODUxNTU1/Ni05NjEyLmpwZWc.jpeg) | 2016-09-02 | Veil Of Light | Ursprung |
+| 97 | ![Cover](https://i.discogs.com/Avq2FVTRFCcwtNFUVExBqyHZ_OywPtCj5s58qz5lNDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDUx/OTEtMTQ3NjM4Njg1/Ni0zNzcyLmpwZWc.jpeg) | 2016-11-15 | Lebanon Hanover | Babes of the 80's |
+| 53 | ![Cover](https://i.discogs.com/PQ7P-W5v5E6Mv2D5Kq1rVrMB5yKvnWhY7-Qqj1l47-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzY1/NjUtMTQ4ODY0OTM4/OS02MjE0LmpwZWc.jpeg) | 2017-04-21 | Selofan | Cine Romance |
+| 6 | ![Cover](https://i.discogs.com/z21itp6nMUK1BhyKqZWlfSaS3eHpjHKMFIWFiTHW_ic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg1/NjIxLTE1NTY3MzE0/NTAtMjc2My5wbmc.jpeg) | 2017-07-18 | Poison Point | Imaginary Veil |
+| 63 | ![Cover](https://i.discogs.com/i9wDzDHp_QomNRiNir-YeOt2UqaF-nVBtwoU8wheiqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM3/OTU0LTE1MjU2Mjgw/MTktNDY4OC5qcGVn.jpeg) | 2017-11-24 | Boy Harsher | Country Girl (extended version) |
+| 29 | ![Cover](https://i.discogs.com/jSEF0amDOZ15jgF_Ht_GrW9Kl0m2o5BB4tvdgW2c5a8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ5/NjczLTE1MzUzMDcx/MzgtNTQxMi5qcGVn.jpeg) | 2018 | Ash Code | Perspektive |
+| 1 | ![Cover](https://i.discogs.com/G5j2LcW1N5tGpgwstD_ojzy7TOdjboXTAKPsBvOHNKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTUy/NjU2LTE1MTgzNzI2/MTAtMzc4Mi5qcGVn.jpeg) | 2018-01-19 | Soho Rezanejad | Six Archetypes |
+| 65 | ![Cover](https://i.discogs.com/InFoFlDT6JqV0eTpqV2FXdzG4U-C4pOOM7iL3SeTPIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcz/MjM3LTE1MjM5OTU5/MzgtNzEyOC5qcGVn.jpeg) | 2018-04-16 | Kontravoid | Undone |
+| 74 | ![Cover](https://i.discogs.com/9teVPhHACcIoZhWNhqpBlPQwenaFnPhiSui8grJouKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA4/ODI5LTE1MjY0Nzcz/MDMtNzU3Mi5qcGVn.jpeg) | 2018-04-27 | Cold Cave | You &amp; Me &amp; Infinity |
+| 23 | ![Cover](https://i.discogs.com/QJO9617cgYqLLg53TJ5sqhWq0dmdDGbUo-McSuFSGWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTAx/OTQ4LTE2MTQ1MDIz/NTMtMzAwOC5qcGVn.jpeg) | 2018-09-14 | HøRD | Parallels |
+| 2 | ![Cover](https://i.discogs.com/nN0oqzvmpI1dGKQyfGe6HUiHwzwRMd52_Lkulj2QgOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU2/NTQzLTE1NDUyOTY1/MzAtMzA3Mi5qcGVn.jpeg) | 2018-11-20 | Black Nail Cabaret | Pseudopop |
+| 51 | ![Cover](https://i.discogs.com/nGnI3JuE9-v9AX2Mni02RGozgIGlnsAvuT-vQeg8SK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/MDA5LTE1NzY2Mjcy/NTQtNTkwNy5qcGVn.jpeg) | 2019 | The Serfs | Sounds of Serfdom |
+| 56 |  | 2019-01-26 | S Y Z Y G Y X | Is That All There Is |
+| 52 | ![Cover](https://i.discogs.com/S7PxqoN20x9Jw5MoAmI-8XRHdlolqxeTPuRtqfiTZb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjU3/NzY1LTE1NTA4NjQ5/MzItMzc3NS5qcGVn.jpeg) | 2019-02-22 | Fragrance | Now That I'm Real |
+| 3 | ![Cover](https://i.discogs.com/oY4ekxo__KyK86aOQkBEy5SGGYpkgQlwljNXWR3ci-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU5/MzM4LTE1OTc2MjA2/OTUtNDA1MS5qcGVn.jpeg) | 2019-09-03 | Boy Harsher | Country Girl EP |
+| 12 |  | null | Gótia | Antes Que Eu Morra |
+| 41 | ![Cover](https://i.discogs.com/ccTC7S9JsvG7S7GbehY8dcAYrqmjWmDREtnigmQkt4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQz/OTY5LTE1NDcwNDY1/NDctMzMwMS5qcGVn.jpeg) | 2018-12-03 | Zanias | Into the All |
+| 15 | ![Cover](https://i.discogs.com/M1KhlnPvhHe_ae1tVfhjKsS2vjY4YKKWNJjISqeI2Dk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjM2/MjE5LTE1NTA0NzAw/OTgtMTQzNC5qcGVn.jpeg) | 2019-02-15 | ADULT. | Shari Vari / 122 Hours of Fear |
+| 71 | ![Cover](https://i.discogs.com/iEf9CVzukF8i3PLKq8qzH8DwgwuvCnqGZZSmKupLDsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc0/MTg0LTE1MTI5Mjc0/ODEtODA3Ny5qcGVn.jpeg) | 2019-09-03 | Boy Harsher | Country Girl |
+| 22 |  | 2019-10-11 | S Y Z Y G Y X | Fading Bodies |
+| 42 | ![Cover](https://i.discogs.com/z_NB-rU7QNHDalTooGGGFJMoAUGP4XOq77QGu_Hgdxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAw/ODY3LTE1NzM3Njcx/NDktMjc0NC5qcGVn.jpeg) | 2019-11-04 | Years Of Denial | Suicide Disco |
+| 30 | ![Cover](https://i.discogs.com/P_86Ajr4qU9MBocU75Eq_5XNOndd1yoUDxhF1WuWxbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODc0/ODM3LTE2MjE5NDAz/NTQtMTQ0OS5qcGVn.jpeg) | 2020-02-21 | Где Фантом? | Иллюзия любви |
+| 33 | ![Cover](https://i.discogs.com/HTyvSKIwE_re3GyukDK89b1JgQUEYFRJEGQe0yP_SUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTM1/NTc3LTE1ODQzNjI3/NTMtNDE2OC5qcGVn.jpeg) | 2020-03-16 | Zanias | Harmaline |
+| 55 | ![Cover](https://i.discogs.com/7d_fm2PTD73ByBeE_Iy3vgftuI4xtFbmDnAJtkVZ6Vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY2/NTczLTE1ODg5MjU2/NDctNTAxMS5qcGVn.jpeg) | 2020-05-08 | Black Nail Cabaret | Gods Verging On Sanity |
+| 25 | ![Cover](https://i.discogs.com/aGujqHGujvYx9wLCkaCx7iWQ8ceSy84nGcPHeT0bljI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQx/ODg2LTE2MTAxNTE3/NDAtMzYzOS5qcGVn.jpeg) | 2021-01-15 | konstantin unwohl | Im Institut Für Strömungstechnik |
+| 48 | ![Cover](https://i.discogs.com/cOsoFbbbcmclZ7tgB15ZkvXcqS_AAhcL_JggjPGmzbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjk2/MjI1LTE2MTI2NzEz/NTMtNjgxMy5tcG8.jpeg) | 2021-01-22 | Balvanera | Courses of Action |
+| 26 | ![Cover](https://i.discogs.com/ne4ZUEZL6l9XSLcvPK0CwDd4cBoHbH4dAKiyj3NJLQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODY3/NjY4LTE2MzYxNTAz/NzMtODA5MS5qcGVn.jpeg) | 2021-11-05 | Fragrance | Salt Water |
+| 27 |  | null | Gótia | Estava Apenas Amando |
+| 36 |  | null | SDH (Semiotics Department of Heteronyms) | Semiotics Department Of Heteronyms |
+| 40 | ![Cover](https://i.discogs.com/ROB0fHs-vBoiidOmhBH8WXrxLYCd7o3tX1IRLq7J4UA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE1/NDU1LTE1ODY4NzQz/NTQtMzM4OC5qcGVn.jpeg) | 2020-04-10 | ADULT. | Perception is/as/of Deception |
+| 47 | ![Cover](https://i.discogs.com/SNRgKreceW62oRAw7af6oH-HUd0_MkeiTeVH_eeEODQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDA2/ODU0LTE2NzA1MjIw/OTktNjY5NS5qcGVn.jpeg) | 2022-10-05 | Voice actor | Sent From My Telephone |
+| 57 |  | null | SDH (Semiotics Department of Heteronyms) | Against Strong Thinking |
+| 58 |  | null | Various Artists | Cold Waves And Minimal Electronics Vol. 1 |
+| 91 | ![Cover](https://i.discogs.com/ArLnokQNIWUgYDE4_AuCaGK0pk14I2t41sDuspAPD40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYx/OTIxLTE1MjU1NTIx/MTQtMjgzMS5qcGVn.jpeg) | 2018 | Zanias | To The Core |
+| 93 | ![Cover](https://i.discogs.com/CM7EIvf51JF_91WS7Cz2Jx7OVolXsWp55vEe9vtyckU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAz/MDgxLTE1MjQ0MTA0/NDgtNDc0OS5qcGVn.jpeg) | 2018-04-13 | Selofan | Vitrioli |
+| 94 | ![Cover](https://i.discogs.com/6vs1YN04NGXmSRVROR7lxnZdR5A7xPFrw0nFcsigxIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODEw/NzA0LTE2ODE2Njg2/NDMtNjYzOS5qcGVn.jpeg) | 2018-04-27 | Boy Harsher | Lesser Man (extended version) |
+| 80 | ![Cover](https://i.discogs.com/xSWjRjKyy91AnY67P_SIFPuIwpmvTlYF1Fgb1P21IhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/MjgwLTE1NDgzMzYx/NzEtMjQ0MC5qcGVn.jpeg) | 2019-01-18 | Lealani | Fantastic Planet |
+| 61 | ![Cover](https://i.discogs.com/9WhTz-G95iXPtfSDT7jt8DvwVW8mvECQnkR0KVvMhuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE5/OTM1LTE2NTM1NTYz/ODctNzg2Ni5qcGVn.jpeg) | 2019-10-04 | Rue Oberkampf | Christophe-Philippe |
+| 87 | ![Cover](https://i.discogs.com/yKQRkoPMs7i5G-V1rAsSKPeN_x6xCq80RSjWYPL-SNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ1/Mjk0LTE1ODI2ODg4/MTYtMTA2NC5qcGVn.jpeg) | 2020-02-20 | The Mall | Zone |
+| 83 | ![Cover](https://i.discogs.com/syUfGpJDaGOyiUzHPqqJ_89W-zC8B6ZH55Z9ZB5loqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY2/ODE3LTE2MTE2NjM3/NjktNTcxNi5qcGVn.jpeg) | 2020-10-16 | Minuit Machine | Don't Run From The Fire |
+| 77 | ![Cover](https://i.discogs.com/S4qzBokQqN6esMAQGfSWussUBu1kYEW0QFrQdFEXTIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDkz/MzczLTE2MTE1NjMy/MzQtODA1MC5qcGVn.jpeg) | 2021-02-01 | Reymour | Leviosa |
+| 79 | ![Cover](https://i.discogs.com/cFAFH1FieVuqHZuIzKlL9SzJxIpxxdSgA7Ud-b2l2DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDc1/MTQwLTE2NzY3MDUx/NDYtMTA1OS5qcGVn.jpeg) | 2021-06-30 | Nuovo Testamento | New Earth |
+| 96 | ![Cover](https://i.discogs.com/PoK_B0NswvU-zPM4k6cFfAnR3sgfxiftyum3BF8_dtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYy/MTAyLTE2MjgyNTgx/NDYtMTEyNy5qcGVn.jpeg) | 2021-08-06 | SOFT BLADE | Softic |
+| 73 | ![Cover](https://i.discogs.com/6Ku435Vb1uL8FZOKw40fKYg-gGUgI3Wym9WHEcn_w-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgz/MDYyLTE1MjI2Njcw/MjEtNTczOS5qcGVn.jpeg) | 2022-07-21 | Deca | The Way Through |
+| 44 | ![Cover](https://i.discogs.com/4w3ExUByhtn0FN76esMaHVRGLhC2uJeYZmydK0FeqD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQ1/NzQ4LTE2NjkyODEz/OTctMzMyOS5qcGVn.jpeg) | 2022-11-25 | Buzz Kull | Fascination |
+| 59 | ![Cover](https://i.discogs.com/HcMkUNQ5oZUL9PPd1SV_cHnWiuCoFwp5flLsIxWKz-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTE4/NzI0LTE2NzE1NDQ1/ODktMzEwMS5qcGVn.jpeg) | 2022-12 | Salò | Rabatt |
