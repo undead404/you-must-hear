@@ -1,0 +1,109 @@
+---
+category: genre
+date: 2025-10-22T23:47:00.147Z
+permalink: tags/industrial-hip-hop
+title: industrial hip hop
+---
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 44 | ![Cover](https://i.discogs.com/382wg0o_KGiAhPMV2rhMtxo9YV85E6vr-9_t2g91jxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTAw/LTEyNzQ0NzM0MDgu/anBlZw.jpeg) | 1992 | Ize | This Is Not a Drill |
+| 13 |  | 1992-03-17 | The Disposable Heroes Of Hiphoprisy | Hypocrisy Is The Greatest Luxury |
+| 4 | ![Cover](https://i.discogs.com/cRCDzCSoaQ2UtVHItjElyJS1WHgYgDhoCuJvpKRIG2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzgw/My0xMzE4ODY5MzI1/LmpwZWc.jpeg) | 2001 | Faust | Derbe Respect, Alder |
+| 19 |  | 2001-02-20 | 2nd Gen | Irony Is |
+| 39 | ![Cover](https://i.discogs.com/kt6LYbmS5ySO8aHZe5mZ3SLg0oPBnbzDGfjUjlvCij0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTIt/MTE0MjIzNDMwNC5n/aWY.jpeg) | 2003-09-29 | M.I.A. | /\/\ /\ Y /\ |
+| 2 | ![Cover](https://i.discogs.com/bvHih_y8cpRxh43cJBOqNxwRpsJviP3D6TMUOQoATOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzAx/NTQtMTQxNjYyNzQ3/MC03MDkwLmpwZWc.jpeg) | 2004-01-01 | Eric North | DEFCON_6 |
+| 34 | ![Cover](https://i.discogs.com/iv1ueqRHgM_jLf1l9UQdC6tCkoNT7Z-jNLWztQ-sGpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjk5/ODgtMTQ1NzU2MDQ3/Mi0yNzAxLmpwZWc.jpeg) | 2005 | XXX | Kyomi |
+| 30 | ![Cover](https://i.discogs.com/EvYmfyp0C4ww8tjHt2NI7VZ6kXl0gk0orRBbPgoPVIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzI3/NC0xMjM4ODc5ODY5/LmpwZWc.jpeg) | 2006 | Food For Animals | Scavengers |
+| 21 | ![Cover](https://i.discogs.com/poA0T5suvRkjfer5d8VA2OlxBrRJ2xoE_ZCLMYwD6cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDc0/Ny0xNzA5MDUzNTE4/LTM3MjkuanBlZw.jpeg) | 2007 | El-P | I'll Sleep When You're Dead |
+| 27 | ![Cover](https://i.discogs.com/hnUkKEZtM9gI0szTjpJSrGJ26U267mmQAxuDnGNOGaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI3/NTctMTIwMjQ5MjU4/NC5qcGVn.jpeg) | 2008 | Food For Animals | Belly |
+| 33 |  | 2009-01-27 | Dälek | Gutter Tactics |
+| 49 | ![Cover](https://i.discogs.com/WCpZuFJEeHBuvrPWRPZT0o3GWLGRO9ojXy8eKOgtjCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQw/NTg4LTE1MjkxMDg4/MzEtNDE4MS5qcGVn.jpeg) | 2011-09-19 | Death Grips | Jenny Death |
+| 29 | ![Cover](https://i.discogs.com/4ttPkP3rUDqAZuW0w1bSuZfRlz-MqGk92hWwKryB8Gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTEw/MzQtMTQ1MzM3MDky/OS04NTA0LmpwZWc.jpeg) | 2015 | Lil Ugly Mane | Oblivion Access |
+| 26 | ![Cover](https://i.discogs.com/m7PBmAFEIj5SZFdUFi1My44q1SPONBKlahhjUyWCBX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTctMTY5NTQyNjUz/OC00MjMxLmpwZWc.jpeg) | 2016-02-15 | JPEGMAFIA | Black Ben Carson + Instrumentals |
+| 3 | ![Cover](https://i.discogs.com/JQYvkwUKdSlQEIMajX_D2zc3eia-YmDZs94359F0ClY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY4/MDM0LTE2MDQ2MDY0/NzQtODYzNy5qcGVn.jpeg) | 2020-10-30 | Small Bills | Don't Play It Straight |
+| 1 | ![Cover](https://i.discogs.com/yDiQ7Cff-QiEMmOJmphl6TQBkOJEnodNRLNO7IWrNYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDkx/Mjk0LTE2Mzc2Njcz/OTMtODUyOS5wbmc.jpeg) | 2021-10-13 | Andy Morin | Dig Yourself a Grave |
+| 5 |  | null | ilysm | no matter how i look at it .. |
+| 10 | ![Cover](https://i.discogs.com/bvHih_y8cpRxh43cJBOqNxwRpsJviP3D6TMUOQoATOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzAx/NTQtMTQxNjYyNzQ3/MC03MDkwLmpwZWc.jpeg) | 2004-01-01 | Eric North | DEATH OF ME |
+| 9 | ![Cover](https://i.discogs.com/DTEMLDLTC_3-dEti4Dl90gWA5uhHid3ozNP87eYRJzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mjk5/Ni0xMTc2Nzg3OTcw/LmpwZWc.jpeg) | 2006 | Saskia | PQ |
+| 11 |  | 2007-11-01 | Saul Williams | The Inevitable Rise and Liberation of Niggy Tardust |
+| 15 | ![Cover](https://i.discogs.com/viwkI4SUWq24al3B8hz_1FUKfaKk3iauW7zv9yZVd5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjUw/NjMtMTQzMDU2NDgy/Ny00MzQ3LmpwZWc.jpeg) | 2015-04-29 | Lil Ugly Mane | THIRD SIDE OF TAPE |
+| 46 | ![Cover](https://i.discogs.com/p_Rpz7g42-VcjbAmWMRRnVwhkJEwmqtqbNgM5QIYJoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjEy/NDQwLTE2MTc5MTg1/NTctOTc4MC5qcGVn.jpeg) | 2016-03-04 | KFC Murder Chicks | Cortex Rampage |
+| 42 | ![Cover](https://i.discogs.com/M267omzlnrRi1ANrd3BFACbddgKvo88byHEBerhbkZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjMw/ODAtMTQ3NTE3MDI5/My01OTU0LmpwZWc.jpeg) | 2016-09-16 | Moor Mother | Fetish Bones |
+| 37 | ![Cover](https://i.discogs.com/F5u3_nK2vNmqte_e3k-y06kIJ-apf6sC4MR6uJuI4QQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc3/OTkzLTE1MjU4ODE5/NTUtMTQxOS5qcGVn.jpeg) | 2017-01-25 | DØVES | 333 |
+| 16 | ![Cover](https://i.discogs.com/TTST25CctXxxaO2osJ1Bp7C3OwZ0agdnMN_FuIMEVn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY3/NDU5LTE1Mjc2MjQ2/ODUtNTY5NS5qcGVn.jpeg) | 2018-05-25 | ShyGirl | Cruel Practice - EP |
+| 43 | ![Cover](https://i.discogs.com/hq1ZTFRBoa4EaffTs3mBSzwjpFryHzP8hS7-3sC6mM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/MzMxLTE2NDk2NjU3/MDItMzc0Ni5wbmc.jpeg) | 2018-07-28 | Shamana | God and I Worked Things Out |
+| 45 | ![Cover](https://i.discogs.com/qXTlxMz1X68vc2xHJZYoOEY6HFu_APgiB9Buavi8e9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkw/MjI0LTE1MzYzMjE4/MTAtODE4My5qcGVn.jpeg) | 2018-09-07 | Caparezza | Prisoner 709 |
+| 35 | ![Cover](https://i.discogs.com/jBBtd9yj-Vdky0na3cwrjCUCws1lxjP1yBtsI5CWRJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTUy/MTYzLTE1Mzc0Njk5/NDAtMzkzNy5qcGVn.jpeg) | 2018-09-21 | BROCKHAMPTON | iridescence |
+| 17 | ![Cover](https://i.discogs.com/r35jgOtlOUBUNm9Kxjy1ZTFPeoxMO6nwllmXis6SM9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODA1/NTYwLTE2NDAzNTI5/MDQtNTU2OS5qcGVn.jpeg) | 2018-11-07 | JPEGMAFIA &amp; Kenny Beats | Puff Daddy - Single |
+| 14 | ![Cover](https://i.discogs.com/QnsnO_nUxfex8TlpXX0OPgoQdR-_VRXftpbwg-QuR5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDE2/NjM4LTE2MDE5MzM2/NjAtNDg0MC5wbmc.jpeg) | 2018-11-28 | XXX | Language |
+| 32 | ![Cover](https://i.discogs.com/gZB6VPNCHI8U2wWGiBFeppE0oivr14T40bs8e0kiJiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU5/OTg1LTE1NzA5MjI4/ODgtOTk0OC5qcGVn.jpeg) | 2019-10-18 | clipping. | There Existed An Addiction To Blood |
+| 24 | ![Cover](https://i.discogs.com/1SVDhYQhq6AJz2kBLWYU6aphk3WqWKt4OndkKUkDM20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzAy/OTkyLTE1OTYyMTI3/ODYtNzM0Mi5qcGVn.jpeg) | 2020-04-10 | nascar aloe | Speed |
+| 41 | ![Cover](https://i.discogs.com/RgkzLWqTf0C-bOlO2JbqSaJknF8bc9wTAVl4-KoMfZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc3/NTQxLTE2MTI1NzI1/MTctOTQ1My5wbmc.jpeg) | 2020-06-12 | SCARLXRD | HXW THEY JUDGE |
+| 31 | ![Cover](https://i.discogs.com/eDztAocuww-LpHCYZPqgpq83_nht0M2rSsIKImH8NVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTIy/ODM1LTE2MjM1NjY4/ODAtNDY4Ni5qcGVn.jpeg) | 2020-08-15 | JOHNNASCUS | (Untitled_0007-0020&amp;0001) |
+| 8 | ![Cover](https://i.discogs.com/iYbHm61vAuXy7Zz0453A8qadeZYKVxFjuMzP7LXealo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODIz/MTc1LTE2NjU3Njcx/MDQtOTMxNy5qcGVn.jpeg) | 2022-02-01 | JPEGMAFIA | NOT ON VETERAN! |
+| 25 | ![Cover](https://i.discogs.com/a5SHD2zM2lpVNn-ZPGoavQCDDNCWyuhfKfRd1phgNXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQy/NjYyLTE2NDk3MTA1/ODktODA5MS5qcGVn.jpeg) | 2022-04-15 | Cremation Lily | Dreams Drenched in Static |
+| 28 | ![Cover](https://i.discogs.com/DAJvXw881JizVzVtw_2-rT6s2pcSgHVyf2eUv3kPNEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Nzcy/NDEtMTU5OTA5MTcz/MS03ODg5LmpwZWc.jpeg) | 2022-07-11 | Death Grips | Live from Death Valley - Single |
+| 50 | ![Cover](https://i.discogs.com/4sgwj9HcLW27g1YS4BO8JiuC07vHePXLsWhEQuQVLrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTIw/NjIxLTE2ODUwMzk4/MjUtNjk2Mi5qcGVn.jpeg) | 2023 | JASIAH | 3 |
+| 7 | ![Cover](https://i.discogs.com/T3kP5T2GcX6K_QGcoAAt0Worb72QwesWke42Ow_8NVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTc1/MTQyLTE2ODg0NjA1/MDQtOTg0OS5wbmc.jpeg) | 2023-09-09 | 23wa | RORSCHACH |
+| 23 | ![Cover](https://i.discogs.com/pLq4cvulQoIDXt_YRaZi6nAnNKN7sKewUkR4qgQXUxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzQ3/NDQwLTE3MDc0OTM2/NjUtOTc5My5qcGVn.jpeg) | 2024-01-26 | Angry Blackmen | The Legend of ABM |
+| 12 | ![Cover](https://i.discogs.com/uO2X7RUsrikk8_1m-9OAUckQVqa7aOLmhJS8eM-jLsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/NDExLTE3MTYzMDc3/MjMtODQxNS5qcGVn.jpeg) | 2024-05-20 | Black Dresses | LAUGHINGFISH |
+| 6 | ![Cover](https://i.discogs.com/CRAbMcV4OJ5xuOnft71Rm1j3W7AYSKCnSP6jNyBbKUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI2/MTc4LTE3MjkxNjQ1/OTgtOTczMy5qcGVn.jpeg) | 2024-10-11 | Babii | Daredeviil2000 |
+| 18 |  | null | Buy Muy Drugs | Buy Muy Drugs |
+| 20 |  | null | JPEGMAFIA x Freaky | The 2nd Amendment |
+| 22 |  | null | Kid Lucilfer | Rip |
+| 36 |  | null | Crizin da Z.O. | Acelero |
+| 51 |  | null | Death Tour | Blood Pact |
+| 75 | ![Cover](https://i.discogs.com/LZFzN31YEFO4JYSoGHnTiKKEkQs-u_pMA60JVUPzzaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDAy/LTEzMTA1NDE4Mzku/anBlZw.jpeg) | 2002-08-05 | Dälek | From Filthy Tongue of Gods and |
+| 77 |  | 2002-08-05 | Dälek | From Filthy Tongue of Gods and Griots |
+| 62 |  | 2011-04-25 | Death Grips | Exmilitary |
+| 100 | ![Cover](https://i.discogs.com/CaCo-5NZ2JJ2mZRllTaQVJFNVTzcn2Rv6uNomVe_kLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDA4/OTMtMTM3NzUwMDEz/OS0xMDM1LmpwZWc.jpeg) | 2011-05-10 | Tyler, the Creator | OKRA |
+| 92 |  | 2011-06-28 | Death Grips | Live From Death Valley |
+| 78 |  | 2011-08-03 | Death Grips | Guillotine |
+| 81 | ![Cover](https://i.discogs.com/iq9o4u68Jsgmm1Ilc9KnbVJQ6kd4QE6-Cfd5VAYJ1qE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDM4/ODYtMTQ2OTY5MDgx/NC0xNzk4LnBuZw.jpeg) | 2011-08-03 | Death Grips | Guillotine - Single |
+| 52 | ![Cover](https://i.discogs.com/B_QfGKwLiaEQ5qBw6wthu3Ve5yQ1teY-vev75688YhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTQw/NTUtMTM0MDk2OTY0/My01Nzc4LmpwZWc.jpeg) | 2012-04 | Björk | Biophilia Remix Series II |
+| 99 |  | 2012-04-13 | Death Grips | The Money Store |
+| 74 |  | 2012-10-01 | Death Grips | No Love Deep Web |
+| 95 |  | 2013-06-18 | Kanye West | Yeezus |
+| 90 |  | 2013-11-13 | Death Grips | Government Plates |
+| 76 | ![Cover](https://i.discogs.com/WSAXjXdrHiL0GxWf1rwaEY0mmGfHB-vV61JMrbFP9KY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDU5/MzU3LTE2ODc0NDQx/NjEtMzYzOC5qcGVn.jpeg) | 2013-12-10 | Yung Lean | Hoover |
+| 70 | ![Cover](https://i.discogs.com/upVDCc_FWV_EH9yOXf6F7T-qR61CaonGzNthuenId78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzQx/OTItMTQwMjI4NjE3/My0zMDk0LmpwZWc.jpeg) | 2014-06-08 | Death Grips | Niggas on the Moon |
+| 85 | ![Cover](https://i.discogs.com/KavZx-vh6THT4qBD8cnR5-X8VbGmH4JW_BE5WYR7egM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTc5/NzQtMTQyOTAzNzgy/MC03MjM4LmpwZWc.jpeg) | 2015 | Tyler, the Creator | Cherry Bomb |
+| 91 | ![Cover](https://i.discogs.com/sNYQOqYW62YMjhkBSRI8yRMbzrlbdxcroylZ5NgwSY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTY2/OTctMTQyNzIyODIx/OS02MjkxLmpwZWc.jpeg) | 2015-03-30 | Death Grips | the powers that b |
+| 86 | ![Cover](https://i.discogs.com/m7PBmAFEIj5SZFdUFi1My44q1SPONBKlahhjUyWCBX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTctMTY5NTQyNjUz/OC00MjMxLmpwZWc.jpeg) | 2016-02-15 | JPEGMAFIA | Black Ben Carson |
+| 64 | ![Cover](https://i.discogs.com/9STt_4FXjHyITqFVwvwb6i6xsHLdVUioRV-LExnxU1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjgz/NzktMTQ1NjQyNDI3/NC04ODY0LnBuZw.jpeg) | 2016-02-25 | Yung Lean | Warlord |
+| 94 | ![Cover](https://i.discogs.com/4AHOZFry48iXvkzD70JiGDoupX74xm3mPeucZBMil9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODQx/NDgtMTQ2MjUyMTU0/MC04NTcxLmpwZWc.jpeg) | 2016-07-29 | Death Grips | Bottomless Pit |
+| 60 | ![Cover](https://i.discogs.com/5FYz-ujhloG-VbBB_AjBB4TXbkvGvtG_d-7LeYmM2cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTM5/NTMtMTQ3NTAwNjk0/Ny00ODY5LmpwZWc.jpeg) | 2016-09-30 | Danny Brown | Atrocity Exhibition |
+| 96 | ![Cover](https://i.discogs.com/jTrCYBrpa2Ot_v7wiuU1SCmvmtFRXX2aBqNV0NXzpRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MDk3LTE0OTU1MDIy/ODAtMTE2OC5qcGVn.jpeg) | 2017-05-22 | Death Grips | Steroids (Crouching Tiger Hidden Gabber) |
+| 66 | ![Cover](https://i.discogs.com/Qlsbma_leN3QOY_ohnRSgGneCg2Qe0wU7AWt6XrSRw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc2/OTQxLTE1MjU4NjU3/ODktMzY5MS5qcGVn.jpeg) | 2017-11-29 | SCARLXRD | Lxrdszn |
+| 87 |  | 2018-06-22 | Death Grips | Year of the Snitch |
+| 73 | ![Cover](https://i.discogs.com/2KEI_GkIGtSYL_bbKnYKDl5Aej-X60LwIANJRT4-ufc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTI3/NjczLTE2NDAzNTIx/NzAtOTYyMC5qcGVn.jpeg) | 2019-09-13 | JPEGMAFIA | All My Heroes Are Cornballs |
+| 59 | ![Cover](https://i.discogs.com/IT5xu2v-SX7R0gAHYDSuiAEK29U7h0PmYpFnBfbjexI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDky/NzkxLTE2Mzc2Nzc3/MjktNDI4MC5qcGVn.jpeg) | 2019-11-22 | KFC Murder Chicks | The Shape of a Burning Credit Card |
+| 58 | ![Cover](https://i.discogs.com/BRGuI5971HzfVUURHhmj4Nerw3-iYLPTLtyP110PhzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg2/OTUxLTE2MDMxOTg3/MTctNDYzOS5qcGVn.jpeg) | 2020 | GhosteMane | ANTI-ICON |
+| 97 | ![Cover](https://i.discogs.com/SejFC3dP0zsp8T8Rz9-nSjfugD43MWowo2Pd9ABTM-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg2/ODQ3LTE1OTU5MTEz/MjUtNzU1My5qcGVn.jpeg) | 2020 | JPEGMAFIA | scaring the hoes |
+| 71 | ![Cover](https://i.discogs.com/-lAZ0dgtjXc2NKgLaSkh4sL6lh_2habp-t_xbsvoOnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzU5/ODgtMTM4MTQ5MzE4/OS02NjcwLmpwZWc.jpeg) | 2020-03-27 | Kanye West | Yeezus [Explicit Version] |
+| 84 | ![Cover](https://i.discogs.com/1SVDhYQhq6AJz2kBLWYU6aphk3WqWKt4OndkKUkDM20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzAy/OTkyLTE1OTYyMTI3/ODYtNzM0Mi5qcGVn.jpeg) | 2020-04-10 | nascar aloe | AMERICAN WASTELAND |
+| 82 | ![Cover](https://i.discogs.com/w7Cykhw4TPKZ30RtMLKj_mZUGyqe3PLJiEZJZDN2kI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTgz/NjQyLTE2MDQ4NjUw/NzMtMTQ5MC5qcGVn.jpeg) | 2020-09-11 | 1 800 PAIN | BEST HOUSE ON A BAD BLOCK |
+| 69 | ![Cover](https://i.discogs.com/9HoqaT30PKOBGnzYL9DcYYEZzT6Kuwl5_Z7Upiyb_0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg0/ODEyLTE1MDQyNzY1/NjAtMzY0OS5qcGVn.jpeg) | 2020-10-02 | Casper | Lang Lebe Der Tod |
+| 65 | ![Cover](https://i.discogs.com/TOsWLJAT0lel0X1lDxrE2bcTUbucJq7sFHVjgGggODA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg4/NTc5LTE2MDU0OTUz/NzEtNjAyMC5qcGVn.jpeg) | 2020-10-23 | clipping. | Visions of Bodies Being Burned |
+| 93 | ![Cover](https://i.discogs.com/NsI84f3PtS7ND2wmfWdB4jPW4HOPTbXRUC_6QYy6c5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQx/NzUxLTE2MDU4NTAx/NTAtNzA5NS5qcGVn.jpeg) | 2020-11-20 | ShyGirl | Alias |
+| 68 | ![Cover](https://i.discogs.com/pw8Dl_WsUkbMwIkyaJRVHLBAz-NryOffrNXasHKhSxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzc2/MzY2LTE2MTg5MDY2/MjgtNjQwNS5qcGVn.jpeg) | 2021-02-12 | JPEGMAFIA | VETERAN |
+| 63 | ![Cover](https://i.discogs.com/43IGCA1ov4FMvr6Vy4dfcY68C6X5vEcjqms7Sm-j6ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzQw/MTA4LTE2MzUyNjg2/MDAtMzI4OC5qcGVn.jpeg) | 2021-06-20 | BACKxWASH | I LIE HERE BURIED WITH MY RINGS AND MY DRESSES |
+| 53 | ![Cover](https://i.discogs.com/-9sTia7iBS2t_0IoVADyAUkwkbSpYnFsSL0KPzBMScg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzI5/OTMzLTE2MzIzMzYy/NDktNDU2MC5wbmc.jpeg) | 2021-09-01 | Injury Reserve | By the Time I Get to Phoenix |
+| 54 | ![Cover](https://i.discogs.com/JT6WB04R23PlxF989D8nfYUsNG5wbJ6nBUI59hYAdUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc1/NDE1LTE2Mzc1NTEx/OTMtMjYyOC5wbmc.jpeg) | 2021-11-03 | Quadeca | From Me To You (Deluxe) |
+| 57 | ![Cover](https://i.discogs.com/y9gRuJhWLTvRivoPd4eFaTky05hvD-SAvMwwYkF5bO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc5/MTIxLTE2NTAwMzQ5/NDItNzY5NS5qcGVn.jpeg) | 2021-12-01 | Arca | KicK iii |
+| 80 | ![Cover](https://i.discogs.com/bakoD0QjTiFerv5BguVrzswmnRo5LFi2IrqIppEHYhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjY2/MjUwLTE2Nzc2NzI0/NjYtNTY5NC5wbmc.jpeg) | 2021-12-01 | Dillom | Post Mortem |
+| 72 | ![Cover](https://i.discogs.com/i1o4QLPXRdipvANagJ_R9CPe2DogZid3oZThQqVR9MQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzEz/NjgyLTE2MzIyMjQx/MTctMzM0Ny5qcGVn.jpeg) | 2022-01-21 | LustSickPuppy | AS HARD AS YOU CAN |
+| 83 | ![Cover](https://i.discogs.com/c3_EAqL9vxb5wqmi9mMG3UtzXEwCOVBopwfxOoaM2X4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY4/OTYwLTE2MTMwNzE5/NzEtODczNi5qcGVn.jpeg) | 2022-02-24 | JPEGMAFIA | Puff Daddy |
+| 89 | ![Cover](https://i.discogs.com/58sIKX2H0eZ8YLUpbP5ZXJA0dwalLuuG0C0mJLhd4PY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTg5/NTU4LTE2NTIyNzMz/ODAtNzYxNS5qcGVn.jpeg) | 2022-04-29 | Scene Queen | Bimbocore |
+| 40 | ![Cover](https://i.discogs.com/mvpEOtA8iH9Z6tJ-NFD6yByl7pp7zF2C2p4dMj4gdWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDA0/Mzc5LTE2NzA1MDcy/MDctNDAzMS5qcGVn.jpeg) | 2022-08-16 | JOHNNASCUS | Sitting At The End Of The World |
+| 67 | ![Cover](https://i.discogs.com/9STt_4FXjHyITqFVwvwb6i6xsHLdVUioRV-LExnxU1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjgz/NzktMTQ1NjQyNDI3/NC04ODY0LnBuZw.jpeg) | 2022-09-28 | Yung Lean | Warlord (Deluxe) |
+| 55 | ![Cover](https://i.discogs.com/2rgWoOqZyiIZ3u3xN0KjOmC6KqrxrzooWcS0XDgc0tQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzkz/MjQyLTE1OTA3OTY3/NDktNzY1MC5qcGVn.jpeg) | 2022-10-05 | JPEGMAFIA | Beta Male Strategies |
+| 56 | ![Cover](https://i.discogs.com/L6f3iBofNcMWBVuq-YTVz70IAD8z0rMyeiNHyyZIs_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MDI1LTE2NjYzNTMx/NzctMjMzNS5qcGVn.jpeg) | 2022-10-21 | Planet Hemp | Jardineiros |
+| 47 | ![Cover](https://i.discogs.com/DpVSfhkWbESP58aRYEQCfJUIoHhMAS3HDyMrI70Arsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM2/NzA3LTE2NjgyMzAw/MjYtMTUzNi5qcGVn.jpeg) | 2022-10-31 | BACKxWASH | HIS HAPPINESS SHALL COME FIRST EVEN THOUGH WE ARE SUFFERING |
+| 61 | ![Cover](https://i.discogs.com/j-O5Wj479PK4_2Z4p25u3alpjv2IZVY0TdX6y14_3bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAy/NTYzLTE2OTA1NDY2/MTEtOTY4OS5qcGVn.jpeg) | 2023-07-31 | Travis Scott | Utopia |
+| 98 | ![Cover](https://i.discogs.com/TrzW-9SPqrv_LLiV-Z8PckPuq13mz63mvpqpeuF4vqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/NTI0LTE2NjQ5Njgx/NjctNzI0Ni5qcGVn.jpeg) | 2024-02-16 | yeat | 2093 |
+| 88 | ![Cover](https://i.discogs.com/weoOtjcwaYUFu6-iMzkHTPWNCqV-tzmPuEgb9tfAH6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYy/NjIyLTE3MDg0Mzgx/OTktMjk0OS5qcGVn.jpeg) | 2024-02-17 | yeat | 2093 (P2) |
+| 38 | ![Cover](https://i.discogs.com/SScFJKsZh8RWpX8yUAJadXEMrUhi17SopONFNsdGoA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDM1/MTU1LTE3MTAxNjMx/NTUtMTY1OC5qcGVn.jpeg) | 2024-03-08 | Kim Gordon | The Collective |
+| 48 | ![Cover](https://i.discogs.com/Oo0ZWXzOQ-_zjyy9ludRIftPO0x2lgaW1bqSOG1Uufs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTM2/MjU3LTE3MTQzODQ0/MjQtODE3NS5qcGVn.jpeg) | 2024-04-26 | LustSickPuppy | Carousel From Hell |
+| 79 | ![Cover](https://i.discogs.com/KiqGpfX2oaqs00mVxcmSCmlES7JzbXhK-lkORGyPpy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzc4/OTI4LTE3MjI2MjEz/ODItOTAzOS5qcGVn.jpeg) | 2024-08-01 | JPEGMAFIA | I LAY DOWN MY LIFE FOR YOU |
