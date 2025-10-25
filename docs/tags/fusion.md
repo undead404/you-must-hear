@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T10:29:54.265Z
+permalink: tags/fusion
+title: fusion
+---
+
+## fusion
+
+Last updated: <time datetime="2025-10-22T10:29:54.265Z">Wed Oct 22 2025 13:29:54 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 23 | ![Cover](https://i.discogs.com/bTY5z-ArB7ngbxOtpI6gS8pO5cQzGlsmwfu395nlPGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjIx/OTEzLTE2MjA3NjYw/MjQtMjEwNi5qcGVn.jpeg) | 1961 | Tony Williams | Lifetime: The Collection |
+| 60 |  | 1969 | Herbie Hancock | Fat Albert Rotunda |
+| 5 | ![Cover](https://i.discogs.com/G56ehuha3B0VkNlmCCrOmkRcNF26HTnfLeNFaJr5ngc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTIw/OTAtMTMyNTA2NDU2/NC5qcGVn.jpeg) | 1970 | John McLaughlin | Devotion |
+| 73 |  | 1970 | Miles Davis | Bitches Brew |
+| 95 |  | 1971 | Miles Davis | A Tribute to Jack Johnson |
+| 30 |  | 1972-05 | Weather Report | I Sing the Body Electric |
+| 61 |  | 1972-07-01 | Chick Corea | Return To Forever |
+| 75 |  | 1972-10-11 | Miles Davis | On the Corner |
+| 11 |  | 1973 | Return to Forever | Hymn Of The Seventh Galaxy |
+| 50 |  | 1973 | Herbie Hancock | Sextant |
+| 52 | ![Cover](https://i.discogs.com/LQwb-aBLeumcA0bv5zs1hI6Gd5qjektakWum1fm7Yl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjY1/Ni0xNTkxNjA2NTI1/LTgxNzYuanBlZw.jpeg) | 1973 | Mahavishnu Orchestra | Inner Mountain Flame |
+| 96 |  | 1973 | Mahavishnu Orchestra | Birds Of Fire |
+| 86 | ![Cover](https://i.discogs.com/vUrF30bpcBF7VvZEKndWdbVSsk6gcbIvSB_cQztPOiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTI4/NDAtMTI2MzU4MTI4/My5qcGVn.jpeg) | 1973-10-01 | Billy Cobham | Spectrum |
+| 8 |  | 1974 | Miles Davis | Get Up With It |
+| 59 |  | 1974 | Billy Cobham | Total Eclipse |
+| 74 |  | 1974 | Weather Report | Mysterious Traveller |
+| 89 |  | 1974-04 | Billy Cobham | Crosswinds |
+| 34 | ![Cover](https://i.discogs.com/AouS-jdEueLhaiDGqMVrSm_eFavzu7LEj7IjjRxEBHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzYy/MzAtMTM0OTcxNDgx/NS02MzYxLmpwZWc.jpeg) | 1975 | Return to Forever | No Mystery |
+| 47 |  | 1975 | John Abercrombie | Timeless |
+| 48 |  | 1975-02 | Mahavishnu Orchestra | Visions of the Emerald Beyond |
+| 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3014bbba0862c41df203917ca81035ee.png) | 1975-03 | Jeff Beck | Blow by Blow |
+| 54 |  | 1976 | Return to Forever | Romantic Warrior |
+| 63 |  | 1976 | Al Di Meola | Land of the Midnight Sun |
+| 72 |  | 1976 | Herbie Hancock | Secrets |
+| 76 | ![Cover](https://i.discogs.com/72gguKqGU_Z6hBDG9IVi5imKMrsESI3-hrfnc2DpVU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjcx/NTktMTE4NTYyMjIy/Ni5qcGVn.jpeg) | 1976 | September | Zadnja avantura |
+| 84 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/38e50d460f4c920d29f2fb09e4934213.png) | 1976 | Jeff Beck | Wired |
+| 77 | ![Cover](https://i.discogs.com/dXn0_11ppinI9HBCeT7qS6pxjRlOZSK78lrfqAc-CfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODMz/Mi0xMTA0NTAzNjQ5/LmpwZw.jpeg) | 1976-04 | Weather Report | Black Market |
+| 58 |  | 1976-06-18 | Brand X | Unorthodox Behaviour |
+| 43 |  | 1976-11-02 | Miles Davis | Water Babies |
+| 39 |  | 1977 | Jan Hammer Group | Melodies |
+| 81 | ![Cover](https://i.discogs.com/4_rA1TNoU4aviJtc0tm5rWOeRiPDLiJF9OfkzFzQpgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDcz/MC0xNDY5NjQ5ODQ4/LTgxNzMuanBlZw.jpeg) | 1977 | Al Di Meola | Elegant Gypsy |
+| 92 |  | 1977 | Jean-Luc Ponty | Enigmatic Ocean |
+| 97 |  | 1977 | Weather Report | Heavy Weather |
+| 4 |  | 1977-01 | Santana | Festival |
+| 51 | ![Cover](https://i.discogs.com/2p-7e7F5nwTVcluKOpB0A0cHbtC5Dxl__wUoYzU-jvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjM4/NjgtMTQ2MTgzOTQ5/My05MTUyLmpwZWc.jpeg) | 1978 | John McLaughlin | Electric Guitarist |
+| 62 |  | 1978 | Al Di Meola | Casino |
+| 71 | ![Cover](https://i.discogs.com/0LD9FRhdbHFvtHUqnyxhljcySOBK88WikkmNujUowL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTE4/Ny0xMzk5NDc5NjE1/LTg3NTQuanBlZw.jpeg) | 1978 | Jean-Luc Ponty | Cosmic Messenger |
+| 82 |  | 1979-05-25 | Casiopea | Casiopea |
+| 21 | ![Cover](https://i.discogs.com/wjrBGaDOG1oHe1KAQT05Vc-apSsTdgUCL_qji73AAg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ4/NTgtMTI4NTAwMzg1/Ni5qcGVn.jpeg) | 1980 | Pino Daniele | Nero A Metà |
+| 42 |  | 1982 | Al Di Meola | Electric Rendezvous |
+| 44 | ![Cover](https://i.discogs.com/1uMVc8w5Pz4z7TpJPl14dTpTQFbCxZrd1wIqnJks9BA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDI5/NjUtMTU5MDA4OTc2/NS05MjUzLmpwZWc.jpeg) | 1985-03-25 | Allan Holdsworth | Metal Fatigue |
+| 67 | ![Cover](https://i.discogs.com/K4G7IprE-GHmzbiGl3eP5mvwIUEHC1recSsS7L-iSII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDU5/OC0xMTg4NjQ4NTIw/LmpwZWc.jpeg) | 1987 | Mahavishnu Orchestra | Inner Mounting Flame |
+| 36 | ![Cover](https://i.discogs.com/5nvk5k2D7NyVPETLOTKINXksVWn2ipSkSZePrvZ5aJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDY5/Ni0xMjYxMzMyMTc1/LmpwZWc.jpeg) | 1989-06-29 | Pat Metheny Group | Letter From Home |
+| 87 | ![Cover](https://i.discogs.com/k_DXj3GJpjTbgzC-M12pzCV3ag_N58Ed1UFOYQ841KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzQ1/MzMtMTUzMzA2NzEz/MS02MTAyLmpwZWc.jpeg) | 1990 | Mahavishnu Orchestra | Birds Of Fire &amp; Lost Trident |
+| 27 |  | 1990-08-21 | Dave Weckl | Master Plan |
+| 7 |  | 1991 | Weather Report | Weather Report |
+| 31 | ![Cover](https://i.discogs.com/kdvkC_dVyny8ifsYX4UdEekdOQGEMNXe3TWPSMbI0as/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDc1/MjktMTQzNzA1Mzk4/MC05NjA1LmpwZWc.jpeg) | 1991-03-21 | T-SQUARE | PARADISE |
+| 29 |  | 1992 | Сектор Газа | Колхозный панк |
+| 18 |  | 1994 | Shakti | The Best of Shakti |
+| 55 |  | 1994 | Body Count | Born Dead |
+| 49 | ![Cover](https://i.discogs.com/fyGwx-MrncWMLk5GsZCTfEulCt-D2Q1GEPYJ1-XL-yI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTc1/OTMtMTM1MzgxODMw/Ni0yOTMxLmpwZWc.jpeg) | 1997 | The String Cheese Incident | Live at Austin City Limits Music Festival 2006: The String Cheese Incident |
+| 94 | ![Cover](https://i.discogs.com/xamX9jpoSg69-oO2myhJ8WoYWp-buRwN3dnza7X6hZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0ODcw/MjQtMTM5NDYzNzcz/NS0xMzAwLmpwZWc.jpeg) | 1997 | Jaco Pastorius | Jaco Pastorius |
+| 38 |  | 1999 | Mahavishnu Orchestra | The Lost Trident Sessions |
+| 70 | ![Cover](https://i.discogs.com/-Yic6hCBAV0M8SMqnSgyWl9mun2tqYXqPLk2N7Z4QC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDI0/NDItMTM5MjQ4NjE4/Ni02NTIyLmpwZWc.jpeg) | 1999 | Mahavishnu Orchestra | The Inner Mounting Flame |
+| 6 |  | 1999-03-05 | Gordian Knot | Gordian Knot |
+| 28 | ![Cover](https://i.discogs.com/lnNc2VVjtaaq2uusNx-Srt5IoLWbKWVWy5QH--5-_P8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzQy/NTQtMTM3MTg0MjEw/MC0yMDgwLmpwZWc.jpeg) | 2000 | Frank Gambale | Coming to Your Senses |
+| 56 | ![Cover](https://i.discogs.com/pVLPIuTwXNdIYwuXH6YsIKljGkQFyvGPWLXjt9u43OQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTQz/NzMtMTYyODY5NTIx/OC01MjkzLmpwZWc.jpeg) | 2000-03-24 | Al Di Meola | Elegant Gypsy - EP |
+| 9 |  | 2000-08-22 | Jeff Kashiwa | Another Door Opens |
+| 10 | ![Cover](https://i.discogs.com/5QbtHmNW9LHNWgMBgu9wPQDrkmZ0TtPmZtKdvWOPOP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjQ0/MjgtMTI0MTk1OTYz/NC5qcGVn.jpeg) | 2002 | Béla Fleck and the Flecktones | Live at the Quick |
+| 12 | ![Cover](https://i.discogs.com/368CuELG_IERjam6O--qO3yyPtO3rjgujmEJM9c2hMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODg4/NzYtMTMyNDgyNDgz/Ni5qcGVn.jpeg) | 2002-10-23 | Freak Kitchen | Move |
+| 20 | ![Cover](https://i.discogs.com/RXZPw5q-A8Luv9Lag2noCAyDavSXbS6rP1IukQt3XC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTg5/MzktMTI4MTQwNDU3/My5qcGVn.jpeg) | 2003 | Amparanoia | Enchilao |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/43e841cda112cbe9df53ca3269b8179f.png) | 2004 | No Te Va Gustar | Aunque Cueste Ver el Sol |
+| 13 | ![Cover](https://i.discogs.com/BBkKJXERljRivFcA25pXo1D10LgiGmFNUs1ANSjbqKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTg2/MTgtMTUzODgwNzA5/NS03ODc1LmpwZWc.jpeg) | 2005 | Richard Bona | Tiki |
+| 35 |  | 2005 | Muchachito Bombo Infierno | Vamos que nos vamos |
+| 90 | ![Cover](https://i.discogs.com/7J1OnFfny_v7U_RO4HBrC8gmQM13C8gNGS602GdIW2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzAz/MC0xNjg4NTc2ODE1/LTQ0MzIuanBlZw.jpeg) | 2005-01-24 | Pat Metheny Group | The Way Up |
+| 46 | ![Cover](https://i.discogs.com/_Tk2bse742pm1vjPfanvjQSHJgzAKCzietTZcIOktw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTY3/NjctMTMyNzE2NjA4/Ni5qcGVn.jpeg) | 2006 | Muchachito Bombo Infierno | Vamos Que Nos Vamos - Extras |
+| 65 |  | 2006-02-05 | The RH Factor | Distractions |
+| 93 | ![Cover](https://i.discogs.com/-cs3C_JommH6qYZLzsoRZ7GR-rW_DliAnM3zwyE674M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE5/MjEtMTE4NjIxODM2/Ni5qcGVn.jpeg) | 2006-02-27 | Orson | No Tomorrow |
+| 66 |  | 2006-03-31 | Umphrey&#39;s McGee | Safety in Numbers |
+| 45 |  | 2006-11-23 | Kiko Loureiro | Universo Inverso |
+| 80 |  | 2006-12-06 | toe | New Sentimentality |
+| 26 | ![Cover](https://i.discogs.com/Ydr6oexNl9WilC-kSfS9C1RHaBw8VdPXSwZxBvmuyZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzI2/NTItMTMyNjE0NDQz/Ni5qcGVn.jpeg) | 2007 | Everette Harp | My Inspiration |
+| 3 |  | 2007-03 | Kplecraft | Multi-Boxer |
+| 17 | ![Cover](https://i.discogs.com/MkB_FKFJqjezeIA9yOffBISWIcdwGGrmRZgAEVA-W0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzY1/MDgtMTI2ODEzMzU1/NS5qcGVn.jpeg) | 2007-05-14 | Tal Wilkenfeld | Transformation |
+| 68 |  | 2009-04-07 | Anjulie | Boom |
+| 98 | ![Cover](https://i.discogs.com/CjJEXeoBnWW1Z3A13-hIVUgt_bTnkebLZFKgWF2vljU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTg4/ODktMTM1ODM3Mjk4/OS03NDcyLmpwZWc.jpeg) | 2009-05-19 | Mat Kearney | City Of Black &amp; White |
+| 88 |  | 2010-06-28 | Herbie Hancock | Head Hunters |
+| 37 |  | 2010-09-21 | Snarky Puppy | Tell Your Friends |
+| 24 |  | 2011-11-07 | Hidden Orchestra | Flight EP |
+| 91 |  | 2012-01-23 | C2C | Down The Road |
+| 15 |  | 2012-02-28 | T.R.A.M. | Lingua Franca |
+| 57 | ![Cover](https://i.discogs.com/7QisKZC5ID5JzwmzPq7pGWASMYIwwRpD6k6NTXiKYYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDI5/MTgtMTM2NjcxNzQ0/Mi00NTEzLmpwZWc.jpeg) | 2012-10-26 | Snarky Puppy | GroundUP |
+| 32 | ![Cover](https://i.discogs.com/aXCeWJ0ayWWJ-cv_xb5Hm59HgCl9c99MCwP7w1baXRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDk0/MjUtMTM4NTgxMjM4/Mi02NTU3LmpwZWc.jpeg) | 2013 | toe | new sentimentality e.p. |
+| 2 |  | 2013-07-16 | The Aristocrats | Culture Clash |
+| 69 |  | 2014-02-25 | Snarky Puppy | We Like It Here |
+| 19 | ![Cover](https://i.discogs.com/WenSkJ8srWjX6SNLqdZdB0jGXCEyL3Nf4rZIE7ssZPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDY1/Mi0xMzc4MzAwOTM4/LTQ4NzAuanBlZw.jpeg) | 2014-04-22 | Sun Ra | Lanquidity (Definitive Edition) |
+| 22 | ![Cover](https://i.discogs.com/D6TPM1S9uFXbHcSQFRQT_tePDdxouNPNwWFkSBDTs5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDA4/NDAtMTQzODYzODI3/NC03NjE1LmpwZWc.jpeg) | 2015-07-30 | Owane | Greatest Hits (EP) |
+| 41 | ![Cover](https://i.discogs.com/LKbU9d97iUJP73BlZmPeo2J_j9XwPL3eQ_Dl073iT_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTU3/MjAtMTQ1MTE2MzY3/Mi0xMjc0LmpwZWc.jpeg) | 2015-11-06 | Mestís | Polysemy |
+| 40 | ![Cover](https://i.discogs.com/nlL5u57ql4-sbNARFhggbzzU032pcQhYbRontQFK4kw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDUy/ODctMTQ1OTc4NzEy/OS00NzU5LmpwZWc.jpeg) | 2016-04-01 | Terrace Martin | Velvet Portraits |
+| 64 | ![Cover](https://i.discogs.com/7ZmWrXvMuX5HC9IwPwp_Ie72dWFMgBI70QNfNSgApoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTM1/MzctMTQ3MjkyNTI0/OC0zNTUwLmpwZWc.jpeg) | 2016-08-26 | Plini | Handmade Cities |
+| 33 | ![Cover](https://i.discogs.com/nJzvFpmhVA0JJAlWtU_sg0Rrtm3Qb-cx1wWF7i7vFG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzY0/NDg2LTE1MjE5ODM4/NjUtNTg4NC5qcGVn.jpeg) | 2016-12-19 | Owane | Dunno |
+| 53 | ![Cover](https://i.discogs.com/FXVOa1u9cOhgCdlew8uq57u-AXlp3GVNTo5V5lP4XcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTAw/NTI4LTE1MjQzOTM3/MTAtNTQxNy5qcGVn.jpeg) | 2018-03-25 | Owane | Yeah Whatever |
+| 83 | ![Cover](https://i.discogs.com/42__nhNFKr5sighpeQTLz6cuVBQbj0TaZhdNIgoHkwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU2/NjgzLTE1MzM4MTky/MzQtOTc0OS5qcGVn.jpeg) | 2018-07-27 | Plini | Sunhead |
+| 99 | ![Cover](https://i.discogs.com/rtihv29ZuxQg8gKbHs15gBr1AH3p7owMgHWiu1woPfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDAy/MTIxLTE1NDYyMjI1/NjgtNDQ0MS5qcGVn.jpeg) | 2018-11-05 | Jack Stauber&#39;s Micropop | The Ballad of Hamantha &#x2F; Today Today &#x2F; Al Dente |
+| 14 | ![Cover](https://i.discogs.com/NW7oIQrarps_hX5sy5iCo6EYMSUPxUTtWfsgJQ0Oick/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzMy/MzA4LTE2NjUyMTkw/OTYtNjAxNy5qcGVn.jpeg) | 2020 | Snarky Puppy | Empire Central |
+| 16 | ![Cover](https://i.discogs.com/-bMrkfFvibBVlqA5dIjVMoHda79U5v_jkR8zAMaLHOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgy/MDkyLTE2MTkyMjkz/NTEtMTYxNC5qcGVn.jpeg) | 2020 | Cory Wong | Turbo |
+| 25 | ![Cover](https://i.discogs.com/MifGvwD5eGZgLCoNliL8BZGeQ_a8tKw8ELrCPEr2zCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDA2/MjgwLTE2MTEwODQw/MDAtMzM0NC5qcGVn.jpeg) | 2020 | Cory Wong | The Striped Album |
+| 85 | ![Cover](https://i.discogs.com/PVGoZyKomcZrm23fhBwyAcK-jquJU_tQX5YLWm4hvqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA0/NDg3LTE2MDcwMTQw/NTQtODE5Ny5qcGVn.jpeg) | 2020-11-27 | Plini | Impulse Voices |
+| 78 | ![Cover](https://i.discogs.com/y6swxRLDrBlqlmgTH8DKxJWrw5GszKMk-K1kw6fD048/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDM4/MjY3LTE2NzU4OTYw/OTUtMzYzMC5qcGVn.jpeg) | 2024 | Mark William Lewis | Pleasure is Everything |
+| 79 | ![Cover](https://i.discogs.com/CpIsudSLFWZ7BywsjkwiQCIRqWvyPVsTAMjMFr_t6kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzA1/NDQ4LTE2ODYwNjU5/OTAtMzU0OS5qcGVn.jpeg) | 2024-04-17 | Piero Piccioni | Colpo Rovente - Red Hot Shot (Original Motion Picture Soundtrack) |
+
+### Related genres
+
+- [jazz]({{ "/tags/jazz" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})
+- [progressive rock]({{ "/tags/progressive-rock" | relative_url }})
+- [contemporary jazz]({{ "/tags/contemporary-jazz" | relative_url }})
+- [jazz fusion]({{ "/tags/jazz-fusion" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [funk]({{ "/tags/funk" | relative_url }})
+- [jazz rock]({{ "/tags/jazz-rock" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [japanese]({{ "/tags/japanese" | relative_url }})

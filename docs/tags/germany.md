@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-23T08:56:56.447Z
+permalink: tags/germany
+title: germany
+---
+
+## germany
+
+Last updated: <time datetime="2025-10-23T08:56:56.447Z">Thu Oct 23 2025 11:56:56 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 11 | ![Cover](https://i.discogs.com/sPeWxAOASxPWKrB11YgbEdLVDxgiUD7OkPXd-Xy3_Os/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDA5/MDIxLTE2MTUwNDEz/NzktMTI4NC5qcGVn.jpeg) | 1969 | Robert Schumann | Horowitz plays Schumann |
+| 60 | ![Cover](https://i.discogs.com/Dol5dP1gA0PmBUJzSfnAFBXDXSECjgVBvE_Jyz8JQU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM3/MjM5LTE1MjMyMTgw/MjAtNTMwOS5qcGVn.jpeg) | 1979 | Alban Berg Quartett | Beethoven: The Late String Quartets |
+| 94 | ![Cover](https://i.discogs.com/25n7IQG_7Mx-6_zpdbSofea4zEQGoPkM5ZHfZc8gOvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTY4/ODEtMTQxMzk2Mzg4/My05MTA1LmpwZWc.jpeg) | 1987 | Modern Talking | In The Garden Of Venus |
+| 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1b1b1f04f47ac3adf834fab82d0e3e37.png) | 1987-09-29 | Warlock | Triumph And Agony |
+| 7 | ![Cover](https://i.discogs.com/7uB3ORSio8Jcn2TMiwxGH7eWoMaqVEoGXr_OYCUgcF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjkz/MjY0LTE1MjA3NzI0/MzctNjM4Ni5qcGVn.jpeg) | 1989-05-10 | Helloween | Keepers Live |
+| 16 |  |  | Faolan | At World&#39;s End |
+| 18 | ![Cover](https://i.discogs.com/MbA9n4oTLcUeKvTG0A7ObRbvFnaWaH40K8pkvz6uTfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTQx/Mi0xMjUxNjAyNTQ1/LmpwZWc.jpeg) | 1969 | Karlheinz Stockhausen | Hymnen |
+| 23 | ![Cover](https://i.discogs.com/CP32gh3yxtCNpzLAcfagrEQ3LqnmDITg4QLBj-p17-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDQ0/LTE1ODc4MjM0MDUt/MTE5NS5wbmc.jpeg) | 1991-10 | Kraftwerk | Mini Calculateur |
+| 13 |  | 1992 | Landser | Das Reich kommt wieder |
+| 52 | ![Cover](https://i.discogs.com/k0Wpdmvee1BtNxAMxq2ZB7KHTF_5I8HbE0vwz_IGbAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjM1/MzM4LTE1ODg1MTQ5/ODMtMjA5NS5qcGVn.jpeg) | 1992 | Paul Hindemith | HINDEMITH: Mathis der Maler &#x2F; Symphonic Metamorphosis |
+| 85 |  | 1992 | Wizo | Bleib tapfer |
+| 82 |  | 1996 | Absurd | Facta Loquuntur |
+| 27 | ![Cover](https://i.discogs.com/wQ51U3j8YlXvnnO6euWbC6DYl10pdbMwfR1aGJOFfqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDEx/MjQ3LTE2MTQ3OTMw/MzUtODYwOC5qcGVn.jpeg) | 1997 | DLG | Anal Scrapings |
+| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5238876bb8f54dd7a9efda3db270e411.png) | 1997-04-14 | Brainstorm | Hungry |
+| 32 |  | 1997-10-22 | 新居昭乃 | そらの庭 |
+| 24 | ![Cover](https://i.discogs.com/OaFMsNCSurNKDUWpXpztn2hrSgvui5LddfdN5sFxu7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzM0/NTAtMTMyMzU0Mzc3/NS5qcGVn.jpeg) | 1998 | Honor | Ogień ostatniej bitwy |
+| 76 |  | 1998-11-05 | Meret Becker | Nachtmahr |
+| 51 | ![Cover](https://i.discogs.com/8BVjVSI5Mijdt11ZLNK2_g4tyIKQZDXBeL9UBnDknWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDU4/NTQtMTQ5MjQ0MjAz/OC03NjkzLmpwZWc.jpeg) | 1999-03-09 | Motörhead | Everything Louder Than Everyone Else |
+| 97 | ![Cover](https://i.discogs.com/zXmQHicneNVBeg_vXtWot5KGTqSYxNZZdHGIBFdddeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg0/MjYtMTYwNTE2MjYy/MS05MDM5LmpwZWc.jpeg) | 1999-08-31 | Rammstein | Liebe Ist Für Alle Da [Deluxe Edition] |
+| 26 |  | 1999-09-06 | Onkel Tom Angelripper | Das blaueste Album der Welt! |
+| 1 | ![Cover](https://i.discogs.com/LKGOO8SzLO5eIJS9TZnvsZZm8PT92IdMQ-AaAPWWeG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ4/ODM2LTE1MDUzMTM2/NzQtODM2OC5qcGVn.jpeg) | 2000 | Jens Buchert | ICE LOUNGE |
+| 56 |  | 2000-05-24 | 新居昭乃 | 降るプラチナ |
+| 43 |  | 2001-10-22 | Rage | Best Of All G.U.N. Years |
+| 8 | ![Cover](https://i.discogs.com/9_cozUeoZh0i8Gce8DYDl7phZmAr-q9A3Ake6p4rEGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjk1/MC0xMjg1MDYyMzk4/LmpwZWc.jpeg) | 2001-12-03 | Project Pitchfork | Project Pitchfork Live 2003 &#x2F; 2001 |
+| 59 |  |  | Welle:Erdball | Wunderwelt der Technik |
+| 71 | ![Cover](https://i.discogs.com/kXkTk66-pUNwMTPL46x_VtxxDd90h5RSx5lj8jR7rUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDAw/NC0xMTk4ODIyMzkw/LmpwZWc.jpeg) | 1999 | Jasper | Neidlos |
+| 66 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d7a3e396f0fd42c6be1e48d99d8448db.png) | 2000 | sub7even | Subseven |
+| 86 | ![Cover](https://i.discogs.com/vcM6bKOcQ1i0ywaCrHhdehHOlCx3EMcId5QPAjoAPfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDgw/LTEyMzYwNjY4MjYu/anBlZw.jpeg) | 2000 | Hacienda | 3rd Door Left |
+| 62 |  | 2000-07-11 | Brainstorm | Ambiguity |
+| 67 |  | 2000-10-30 | sub7even | Sub7even |
+| 72 | ![Cover](https://i.discogs.com/LFnN67JXHYeQWINonatGRWcGYEM_y6xaQ65aPKGM3Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDIz/NTQ5LTE1NTM5MzI4/MDEtNDg2Ny5qcGVn.jpeg) | 2001 | Brainstorm | Ravenous Minds |
+| 78 | ![Cover](https://i.discogs.com/y28-NplmZGuE1wipJ1ADZTg8kF5HC5jQJVySjaRobIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjA1/MC0xMjMyMDQ1NjAy/LmpwZWc.jpeg) | 2001-09-17 | Böhse Onkelz | 20 Jahre - Live in Frankfurt |
+| 83 |  | 2002-01-14 | The Notwist | Neon Golden |
+| 9 | ![Cover](https://i.discogs.com/J52mx1V-ql7Xuzco0uXuCrOEZAklUknCvkn8ARjyLTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTgz/OTEtMTQ0MjcxODk5/MS01MTg0LmpwZWc.jpeg) | 2003 | Fleshgore | Killing Absorption |
+| 36 |  | 2003-02-17 | Tele | Tele |
+| 33 |  | 2003-04-07 | Tanzwut | Ihr wolltet Spaß |
+| 3 |  | 2004 | Totenburg | Pestpogrom |
+| 49 | ![Cover](https://i.discogs.com/zjDwSTdiLNFUQ4SUTTJPm0p8ogBBJh5FOaNvsZbsv2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQ4/OTMtMTQ2OTI5OTI2/MS0xNzgyLmpwZWc.jpeg) | 2004 | Bilskirnir | Hyperborea |
+| 55 | ![Cover](https://i.discogs.com/pNET4Upp9YiwSZFfHLxdFaUVl5Ea-I-ajLWCWV01tZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDEz/ODktMTM4MDM4Mjc2/MS02Nzg5LmpwZWc.jpeg) | 2004 | Bosse | Kraft |
+| 29 |  | 2004-02 | Naoki Kenji | Ecoustic |
+| 12 | ![Cover](https://i.discogs.com/dzzPtyt3bfnKvKRhNZmmmly4-kN9J20yZ1uuRx61_Lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODM3/NS0xMTA5NDMyOTQ5/LmpwZw.jpeg) | 2005 | Sestatee | Bohomasys Ep LC 13360 |
+| 57 |  | 2005 | Museum | exit wounds ep |
+| 70 |  | 2005-03-28 | X-Fusion | Demons of Hate |
+| 28 |  | 2005-04-05 | Absurd | Blutgericht |
+| 98 | ![Cover](https://i.discogs.com/8wws31tAr-uZDeUrTF1E-z-tsDngstw5_SL0ifPkH9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzQ5/MzQtMTI2MjU0OTI3/MS5qcGVn.jpeg) | 2005-04-22 | Bosse | Kamikazeherz |
+| 37 |  | 2005-11-23 | 新居昭乃 | Sora No Uta |
+| 95 |  | 2006-07-27 | Bosse | Guten Morgen Spinner |
+| 96 |  | 2006-09-01 | International Pony | mit dir sind wir vier |
+| 25 | ![Cover](https://i.discogs.com/6Vts1a9KNRkJUv11DRq34VMugQSNOmING5GYxcHzZiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTky/NDAtMTMyODg5MzU4/Mi5qcGVn.jpeg) | 2006-10-10 | Force of Change | The Fire Still Burns |
+| 47 |  | 2007 | The Parachutes | The Working Horse |
+| 77 | ![Cover](https://i.discogs.com/GEWXg9MJ8R8prtUxqooN8x7Rauh76Rc8pfL4qBEXW8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTM0/MjY2LTE2NzUwNzgw/OTEtMzk5My5qcGVn.jpeg) | 2007 | Clara Schumann | Schumann, C.: Piano Concerto, Op. 7 &#x2F; Piano Trio, Op. 17 &#x2F; 3 Romanzen |
+| 21 | ![Cover](https://i.discogs.com/p6KOH5qkfhTKA8_aQ90EXzHYk31VNCJft3ZUiQ8JSts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODkx/My0xMzU3ODAwOTE4/LTk3MzEuanBlZw.jpeg) | 2007-02 | Guardner | Ready For Take Off |
+| 5 |  | 2007-02-26 | Onetwo | Instead |
+| 19 |  | 2007-05-05 | Trist | Hin-Fort |
+| 74 | ![Cover](https://i.discogs.com/FM5D6W0bqeV5eXhhBvGoAoC24K8ZRXoRyz0qXuJRY2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgw/MTAtMTE5MjYwMTQx/MS5qcGVn.jpeg) | 2007-07-24 | My First Trumpet | Frerk (aer009) |
+| 80 |  | 2007-08-30 | Chris Zippel | Genuine Horizon |
+| 64 | ![Cover](https://i.discogs.com/JQmgQ81cp-2rsiYN4u9U_YwptrA490Qzk6q2HnUkmdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjQ1/MS0xMTc2MDI1NTYx/LmpwZWc.jpeg) | 2007-11-10 | Talvekoidik | Silent Reflections |
+| 4 | ![Cover](https://i.discogs.com/JKO6u2L8fcCqyf75krSULdqq4j_7Wyvhd6Q0cmkgWqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTc0/OTktMTMyNzE4NzA4/MS5qcGVn.jpeg) | 2008 | Moshpit | Mirror Of An Unbroken Faith |
+| 88 |  | 2008-02-01 | Jennifer Rostock | Kopf Oder Zahl |
+| 35 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c0a4860813e14baa4daa46a6c5a932d5.png) | 2008-02-15 | Jennifer Rostock | Ins offene Messer |
+| 39 |  | 2008-04-21 | Juli Holz | Tränen auf dem Dancefloor |
+| 73 |  | 2008-05-02 | The Notwist | The Devil, You + Me |
+| 46 |  | 2008-05-23 | Jens Buchert | Fata Morgana |
+| 61 |  | 2008-09-23 | Pea Sized | In My Mind |
+| 38 |  | 2008-12 | Robert Henke | Atom &#x2F; Document |
+| 79 |  | 2009-04-17 | Blank &amp; Jones | Relax Edition Four |
+| 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/86ed6a5a39717dfc5e7ad00943874b40.png) | 2009-07-10 | Jennifer Rostock | Der Film |
+| 42 |  | 2010 | Edgar Wasser | Stockholm-Syndrom EP |
+| 87 | ![Cover](https://i.discogs.com/iwwsFFevoSw3qDDhH8hqIeQywAK-SrxlH-BvfjgVxYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA1/MzAtMTQxNjc2NDM1/Ni04NzY4LmpwZWc.jpeg) | 2010-02-26 | Vargo | Precious |
+| 90 | ![Cover](https://i.discogs.com/9Zy0yeBrZO-v95wRziwow6qxr5iPynYo23TaRO_WrxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzA5/MDEtMTY3MTgxMjYw/OC03NTAzLmpwZWc.jpeg) | 2010-03-13 | Lena | Satellite |
+| 45 |  | 2010-03-26 | Stereo Total | Baby ouh! |
+| 58 |  | 2010-05-31 | Truppensturm | Salute To The Iron Emperors |
+| 34 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/75f7db92b5bb44bbb2a7df1e7359cb21.png) | 2010-06-04 | Primal Fear | Live in the USA |
+| 63 |  | 2010-06-18 | Light Leak | Thoughts Of Mirth |
+| 10 |  | 2010-07-02 | Jens Buchert | Aeon In Motion |
+| 2 |  | 2010-08-13 | Micha Maat | Nur mit Dir |
+| 53 |  | 2011 | Edgar Wasser | The Edgar Wasser Freetrack Collection |
+| 22 | ![Cover](https://i.discogs.com/wb98I-1IH9PA36etqRlOl8_Yfg8w8XWdH0dKgsUoL0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzMx/NDYtMTY1OTcxMzU4/MS00MjM0LmpwZWc.jpeg) | 2011-04-29 | EMMA6 | Soundtrack für dieses Jahr |
+| 15 |  | 2011-05-22 | Minitimer Katzenposter | Pläne Für Gestern |
+| 40 | ![Cover](https://i.discogs.com/OC7A8b_5WmUxEUzY32hg7b0HUs6Ix1mgQxOAI2GyRS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTI1/MjYtMTMxMTY4MjQw/Ni5qcGVn.jpeg) | 2011-07-22 | Laserkraft 3D | Weightless |
+| 100 | ![Cover](https://i.discogs.com/VqP3Qz4WHk2v9nuwVrB8fyJHiqEuc3NAy9S_hGjcvzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzIy/MS0xNTUxMTAzMjEy/LTczOTAuanBlZw.jpeg) | 2011-09-26 | Laurent Wolf | Calinda |
+| 41 | ![Cover](https://i.discogs.com/cXKJ44c9jDo2grKCPVToKp6CZrnw7ue9NOvJ1KxP26U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTk3/NTAtMTMzMzY3Nzkw/NS5qcGVn.jpeg) | 2011-09-30 | Brainstorm | On the Spur of the Moment |
+| 20 |  | 2011-12-02 | Jens Buchert | Interstellar |
+| 30 | ![Cover](https://i.discogs.com/ZlnSDepc1azHhGTus_ZXnMDrxMY-k01FnzCfSvx4-XM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mzc1/MDAtMTM2NzcxNDgw/MC00NzgzLmpwZWc.jpeg) | 2011-12-17 | The Eternal Twilight | Another Quiet Day |
+| 50 |  | 2012-05 | Zodiac | A Bit of Devil |
+| 91 |  | 2012-12-23 | C418 | one |
+| 89 |  | 2013-05-03 | Maxim | Meine Soldaten |
+| 68 |  | 2013-05-31 | Maxim | Staub |
+| 93 | ![Cover](https://i.discogs.com/zAdHvFT7fIh7YDrWRcID_n2MWERvlIWWhl3ZUDsBJEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzIx/NTYtMTQ5NzE3NDkw/MC01NDIxLmpwZWc.jpeg) | 2014-03-24 | Elaiza | Is It Right &#x2F; Fight Against Myself |
+| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/92ffec92b38e4c6ccc9abe544b833416.png) | 2014-04-04 | Brainstorm | Firesoul |
+| 48 | ![Cover](https://i.discogs.com/0oHU01JYcF39zgu0U1Z4BWCwJmt8MLfgiUZBiWb2AlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mjcz/NjEtMTQyNzgwNjY3/OS00MTU2LmpwZWc.jpeg) | 2015-03-30 | Marsen Jules | The Empire of Silence |
+| 99 | ![Cover](https://i.discogs.com/iwFiIvzZz633r1twQ8LJGsHFKTZnY_iBu3G--Ws2nC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzY1/NDgtMTQ0MDE2NDU5/Mi0zNjIwLmpwZWc.jpeg) | 2015-08-21 | Boy | We Were Here |
+| 75 | ![Cover](https://i.discogs.com/cIXXceAYf2jyWGOADPERoTsmXEd400dTvuEpbV9tB_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzk4/NzAtMTM4MzkzOTU5/NS0xOTMxLmpwZWc.jpeg) | 2015-08-28 | Die Krupps | Metall Maschinen Musik |
+| 84 | ![Cover](https://i.discogs.com/7fSsR2uHRbgvUAyVkIlbVxTt8RnCqvr1HdeTbgXRpso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDY4/NDAtMTQ1MDUzMzE4/Ni00MzQzLmpwZWc.jpeg) | 2015-09-04 | Schnipo Schranke | Satt |
+| 44 | ![Cover](https://i.discogs.com/gVH_GSG_1DnSmx77ggeDuz7NWXQAdA-AgT1kkpHmv6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDEy/NTQtMTMwNjQwMjMx/My5qcGVn.jpeg) | 2015-10 | Roman Flügel | Monday Brain |
+| 69 | ![Cover](https://i.discogs.com/cZSRdkwE3dbCS5oaXLd70COMttXeIU9EASOMlhcTLmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTEw/MTEtMTQyNTQ3MjU5/OS0yNjMxLmpwZWc.jpeg) | 2017-03-02 | Roman Flügel | Sliced Africa |
+| 6 | ![Cover](https://i.discogs.com/yxl9LzEaDOiarBjiqAnFv4fzjDU7lCQEhf2ZSj28YYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTkw/NjEtMTQ4ODU1MDgx/My03ODE5LmpwZWc.jpeg) | 2017-05-19 | Dark | Endless Dream Of Sadness |
+| 81 | ![Cover](https://i.discogs.com/PkuOgJjk7qY-pbTq5P2brYXrnUmtjvGkwgL1eYaikF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTAw/Mjg5LTE1MTc0Mjk3/MDQtMjEwMC5qcGVn.jpeg) | 2018 | Mental Cruelty | Purgatorium |
+| 54 | ![Cover](https://i.discogs.com/G7pP1ZcUAmbSOk5te6sCXGmAz5nDQF0-Pc3CJoLWxV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQx/MDEyLTE2NDExMTk0/MDgtOTA0MC5qcGVn.jpeg) | 2021 | Heldmaschine | Weichen und Zunder |
+| 17 | ![Cover](https://i.discogs.com/Zr-z6glgIrdPW5rZnKBTOxZ1pJDqqKSQFaLIxsxcw_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzY3/OTkxLTE2NzYyNTM3/MjAtMTI3Ny5qcGVn.jpeg) | 2021-12-20 | Paul van Dyk | Wir sind Wir |
+
+### Related genres
+
+- [rac]({{ "/tags/rac" | relative_url }})
+- [german]({{ "/tags/german" | relative_url }})
+- [deutschland]({{ "/tags/deutschland" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [berlin]({{ "/tags/berlin" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
+- [electro]({{ "/tags/electro" | relative_url }})

@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T01:04:29.949Z
+permalink: tags/algeria
+title: algeria
+---
+
+## algeria
+
+Last updated: <time datetime="2025-10-22T01:04:29.949Z">Wed Oct 22 2025 04:04:29 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 1 |  |  | Reinette L&#39;oranaise | Chansons d&#39;exils d&#39;Afrique du Nord |
+| 2 |  |  | Djouher | Ghouyoum - Single |
+| 5 |  |  | Djouher | Kingdom - EP |
+| 7 |  |  | Cheb Khaled | Anajit Anajit |
+| 42 |  |  | Djurdjura | Asirem |
+| 43 |  |  | Line Monty | Trésors de la Chanson Judéo-Arabe - Line Monty |
+| 46 |  |  | Amel Zen | Amel Zen |
+| 47 |  |  | Noura | Algérie, voix de femmes |
+| 30 | ![Cover](https://i.discogs.com/05bbyr6Qi_GRcPz4JaMgs4eHyYP7W68gSi60K49ut-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYz/NTQ4LTE2Mzc0ODgx/MjYtODcyNy5qcGVn.jpeg) | 1980 | Noura | Chansons d&#39;exils d&#39;Afrique du Nord |
+| 3 | ![Cover](https://i.discogs.com/nbKIsBCTN9XyfCmv1fyBhDX6AFqYKNVpEzYzI7FvzkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzM4/NjctMTQwNTA4MTMx/NC05NjgxLmpwZWc.jpeg) | 1986 | Zahouania | Cheba Zahouania |
+| 14 | ![Cover](https://i.discogs.com/nbKIsBCTN9XyfCmv1fyBhDX6AFqYKNVpEzYzI7FvzkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzM4/NjctMTQwNTA4MTMx/NC05NjgxLmpwZWc.jpeg) | 1986 | Zahouania | Rah wala lya |
+| 19 | ![Cover](https://i.discogs.com/nbKIsBCTN9XyfCmv1fyBhDX6AFqYKNVpEzYzI7FvzkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzM4/NjctMTQwNTA4MTMx/NC05NjgxLmpwZWc.jpeg) | 1986 | Zahouania | Zahouania Sghira |
+| 21 | ![Cover](https://i.discogs.com/nbKIsBCTN9XyfCmv1fyBhDX6AFqYKNVpEzYzI7FvzkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzM4/NjctMTQwNTA4MTMx/NC05NjgxLmpwZWc.jpeg) | 1986 | Zahouania | Hawam Hawam |
+| 29 | ![Cover](https://i.discogs.com/nbKIsBCTN9XyfCmv1fyBhDX6AFqYKNVpEzYzI7FvzkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzM4/NjctMTQwNTA4MTMx/NC05NjgxLmpwZWc.jpeg) | 1986 | Zahouania | Raï Algérie |
+| 12 | ![Cover](https://i.discogs.com/EDdYbKAJjsyXeEb7q-Gs0gG6FXV5zf3asElqA61Um2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcx/NTUxLTE1ODYyOTk5/NDktNDQ4MS5qcGVn.jpeg) | 1989 | Zahouania | Mahrahba Yarijel (Remasterisé) |
+| 6 | ![Cover](https://i.discogs.com/Tncxd1YWe1NjDyZo5aWFFiWfdSAA7PPLaPDBU37zvuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MzY4/MC0xMTU1MzUxMjEz/LmpwZWc.jpeg) | 1989-06-01 | Zahouania | Nights Without Sleeping |
+| 8 |  |  | Zahouania | The Best of Collection |
+| 28 | ![Cover](https://i.discogs.com/H0UO_M_9K6bXwlJ-0mqoGx8dzD0D9UNltbqn0iAC3yI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc5/MDctMTIyNTI3MzIx/Ni5qcGVn.jpeg) | 1990 | Cheb Zahouani | L&#39;heureux |
+| 4 | ![Cover](https://i.discogs.com/j4EuQ3FGwsXRsdyrs52r7KFSTx8O6iEnwDSqR23RYYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTUyLTE2NDYwNjEy/MTMtOTU0OS5qcGVn.jpeg) | 1994 | Zahouania | La diva du Raï |
+| 9 | ![Cover](https://i.discogs.com/_MT7XdWYHTmRz2zN9ffmgXhxCR4D0iTsWfFHR1crTqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MzY5/OC0xNDM4MDI3NTg4/LTg5ODAuanBlZw.jpeg) | 1999-03-09 | Zohra | Habibi Funk |
+| 10 | ![Cover](https://i.discogs.com/QwA07HbpJZiaPmMesXxMywEEgrdnuLFVZ7TrPMtADMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTg3/OTUtMTM3NTg3Mzk2/NS02MjI1LmpwZWc.jpeg) | 2007-07-16 | Faudel | L&#39;Essentiel Faudel |
+| 11 |  |  | Zahouania | La reine de la chanson raï |
+| 16 |  |  | Zahouania | The Sheltering Sky (Original Soundtrack) |
+| 37 |  |  | Zahouania | Dueto |
+| 48 |  |  | Houari Manar | Waslt El Mout Mahasit Biya |
+| 49 |  |  | Cheba Djenet | Cheba Djenet, Best Of |
+| 50 |  |  | Cheb Zahouani | Zid serbi |
+| 56 |  |  | SAMIRA BRAHMIA | Naïliya |
+| 55 | ![Cover](https://i.discogs.com/AIAffjmtOmLDrVwXC3OSXOiSaNorJ90dArvaqFe5chA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDIy/NzAtMTQ1OTg1OTM2/OS04NTgwLmpwZWc.jpeg) | 1974 | Mazouni | ched med |
+| 39 | ![Cover](https://i.discogs.com/JeZ-sLnCR9GlqQBgKi1zJe3yWSnqoDyBC67GwBf69Cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU1/OTAxLTE1MTI4NDM2/NDgtOTEwNC5qcGVn.jpeg) | 1978 | Noura | Biladi Djazaîr |
+| 53 | ![Cover](https://i.discogs.com/nbKIsBCTN9XyfCmv1fyBhDX6AFqYKNVpEzYzI7FvzkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzM4/NjctMTQwNTA4MTMx/NC05NjgxLmpwZWc.jpeg) | 1986 | Zahouania | Hta Ngoul Ana Menah |
+| 57 | ![Cover](https://i.discogs.com/7_9DcNwSl5UJ2nJ0Lew6VMGDk_YUAtWmdKQLRXwMZho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTA4/ODEtMTUxNjU1NzU4/Mi02NDk3LmpwZWc.jpeg) | 1996-05-07 | Alla | Tanakoul |
+| 58 |  |  | Djouher | Stories |
+| 65 |  |  | Line Monty | Trésors de la chanson Judéo-Arabe, Line Monty |
+| 68 |  |  | Djouher | Kingdom |
+| 69 |  |  | Zahouania | Entre sacré et profane |
+| 70 |  |  | Cheikh Hamada | North Africa &#x2F; Ethnic Music in 78 RPM &#x2F; Recordings 1920 - 1940 |
+| 71 |  |  | Djouher | 111 |
+| 72 |  |  | Djouher | So Blue |
+| 76 |  |  | Djouher | Ghouyoum |
+| 77 |  |  | Cheb Nasro | Nasro CD22 |
+| 78 |  |  | Djouher | Lonely Nights |
+| 60 | ![Cover](https://i.discogs.com/bWIkYzABaQcRN3mHYkbJcXV2R4tsgesizeR7QV-AlgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzc2/MTYtMTY0NTE3OTM5/NS0zMzg2LmpwZWc.jpeg) | 1977 | Zohra | Badala Zamana - Single |
+| 93 | ![Cover](https://i.discogs.com/bWIkYzABaQcRN3mHYkbJcXV2R4tsgesizeR7QV-AlgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzc2/MTYtMTY0NTE3OTM5/NS0zMzg2LmpwZWc.jpeg) | 1977 | Zohra | Badala Zamana |
+| 61 | ![Cover](https://i.discogs.com/nbKIsBCTN9XyfCmv1fyBhDX6AFqYKNVpEzYzI7FvzkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzM4/NjctMTQwNTA4MTMx/NC05NjgxLmpwZWc.jpeg) | 1986 | Zahouania | Zahouania |
+| 67 | ![Cover](https://i.discogs.com/nbKIsBCTN9XyfCmv1fyBhDX6AFqYKNVpEzYzI7FvzkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzM4/NjctMTQwNTA4MTMx/NC05NjgxLmpwZWc.jpeg) | 1986 | Zahouania | Zahouania CD8 |
+| 59 | ![Cover](https://i.discogs.com/j4EuQ3FGwsXRsdyrs52r7KFSTx8O6iEnwDSqR23RYYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTUyLTE2NDYwNjEy/MTMtOTU0OS5qcGVn.jpeg) | 1994 | Zahouania | La Reine du Raï |
+| 82 |  | 1995 | Abdelli | New Moon |
+| 62 | ![Cover](https://i.discogs.com/BJLxoDfuOfKF0N3B2rY0B3RkJ70sCYiNEnZ2pknefrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTIw/OTgwLTE2NTAyNjYy/ODItMzE5My5qcGVn.jpeg) | 1996-02 | Zohra | Habibi Funk: An Eclectic Selection of Music from the Arab World (Part 2) (Habibi Funk 015) |
+| 23 | ![Cover](https://i.discogs.com/jBnlx4SR2FtRU0kD3C4tZ69x1AwHdJ80w6521b-UG2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjIx/NDEtMTM3NDY5MTAy/Mi01NDUxLmpwZWc.jpeg) | 1998 | Faudel | Brel |
+| 81 |  | 1999 | Orchestre National De Barbès | Poulina |
+| 20 | ![Cover](https://i.discogs.com/TDYH8YDXG710A4Cr9V1A2rzWNRj5ysJd9ZCB8EseLdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDI1/MzUtMTUwMDkxMDA3/NC02MTk2LmpwZWc.jpeg) | 2000 | Faudel | HABIBI Lo mejor de la música árabe |
+| 31 | ![Cover](https://i.discogs.com/CUJZ5QIcf_EtQH2tUL8t2Maheexs8lJK9VaE2mErdCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mzcz/Ny0xMzM0OTE3MTc2/LmpwZWc.jpeg) | 2000 | Zohra | Surrounded by a dream |
+| 32 | ![Cover](https://i.discogs.com/TDYH8YDXG710A4Cr9V1A2rzWNRj5ysJd9ZCB8EseLdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDI1/MzUtMTUwMDkxMDA3/NC02MTk2LmpwZWc.jpeg) | 2000 | Faudel | Lo mejor de la música árabe |
+| 99 | ![Cover](https://i.discogs.com/c5i-bA_FUyk0MmhasuiLaLgNwbSE6JVtA2LCVMv2Wj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDc5/OC0xMTczNDI2ODg0/LmpwZWc.jpeg) | 2000-11-07 | Rachid Taha | Made In Medina |
+| 87 | ![Cover](https://i.discogs.com/tks65vkLIY2gUw4eskEDCxldWwAiywoAxd7u5Pm2OOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDE3/NTItMTM0ODYxMTQ4/Ni0yOTk5LmpwZWc.jpeg) | 2001-02 | Faudel | Samra |
+| 17 | ![Cover](https://i.discogs.com/_3U8bdnmNnK3x9ks01YSt4Fj8OKvJk5P98DufT86ASY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzg4/NjgtMTM1NDUyNDY4/NS0yMDI4LmpwZWc.jpeg) | 2003 | Faudel | Re:Orient Club |
+| 38 | ![Cover](https://i.discogs.com/n9EoPLwubIbEyS0PHLlE50PL7ZWVtaVV8vUTWfrR6f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDUz/MTYtMTM3NDEzOTIz/Mi0xMDg2LmpwZWc.jpeg) | 2003 | Faudel | Raï&#39;n&#39;B Fever |
+| 66 |  | 2003 | Tinariwen | Amassakoul |
+| 86 | ![Cover](https://i.discogs.com/_3U8bdnmNnK3x9ks01YSt4Fj8OKvJk5P98DufT86ASY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzg4/NjgtMTM1NDUyNDY4/NS0yMDI4LmpwZWc.jpeg) | 2003 | Faudel | Another Sun |
+| 25 | ![Cover](https://i.discogs.com/WOAIaT0rgcKAGSvebebt3WY96r2bwHb1aOEgQXBX7Qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDcw/OTYtMTM3NDIyMTI2/MC0xMDU5LmpwZWc.jpeg) | 2003-10-18 | Faudel | The Very Best Of North Africa |
+| 91 |  | 2004 | Rachid Taha | Tekitoi? |
+| 54 | ![Cover](https://i.discogs.com/B2IqsBaDwNeNt0l-VbTWbCNWatIP766maMgUEwLzkH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ4/NDU3LTE1NjQ5Mjg5/NjgtNDAyNy5qcGVn.jpeg) | 2005 | Cheba Maria | Manabrache |
+| 73 | ![Cover](https://i.discogs.com/B2IqsBaDwNeNt0l-VbTWbCNWatIP766maMgUEwLzkH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ4/NDU3LTE1NjQ5Mjg5/NjgtNDAyNy5qcGVn.jpeg) | 2005 | Cheba Maria | Mon amour |
+| 79 | ![Cover](https://i.discogs.com/5fgREFsO6XsHHqtROwLO7uIy8rjnb6z7Egt0IGvJwq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTU1/NjgtMTM5NzU0NzI5/Ni00NTc0LmpwZWc.jpeg) | 2006 | Tinariwen | Aman Iman: Water Is Life |
+| 95 |  | 2006-10-16 | Rachid Taha | Diwan 2 |
+| 90 | ![Cover](https://i.discogs.com/_DRM2E7gwNIs4NxvQEotMF0o6P2l_L7j12cjpnk7f3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM2/OTI5LTE1MzExNDA2/NzQtNjM2My5qcGVn.jpeg) | 2007 | L&#39;Algérino | Va Bene (Extrait de la BOF de &quot;Taxi 5&quot;) |
+| 18 | ![Cover](https://i.discogs.com/QwA07HbpJZiaPmMesXxMywEEgrdnuLFVZ7TrPMtADMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTg3/OTUtMTM3NTg3Mzk2/NS02MjI1LmpwZWc.jpeg) | 2007-07-16 | Faudel | Aux suivant(s) : Jacques Brel |
+| 26 |  |  | Djouher | So Blue (feat. Yxnwr) |
+| 40 | ![Cover](https://i.discogs.com/nbKIsBCTN9XyfCmv1fyBhDX6AFqYKNVpEzYzI7FvzkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzM4/NjctMTQwNTA4MTMx/NC05NjgxLmpwZWc.jpeg) | 1986 | Zahouania | K7 Collection : Zahouania |
+| 44 | ![Cover](https://i.discogs.com/nbKIsBCTN9XyfCmv1fyBhDX6AFqYKNVpEzYzI7FvzkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzM4/NjctMTQwNTA4MTMx/NC05NjgxLmpwZWc.jpeg) | 1986 | Zahouania | Zahouania CD9 |
+| 41 | ![Cover](https://i.discogs.com/SC46FXnlMD7iNkzxjoCsu07XMgB03q-cwx3g04ITyfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDc1/MTU1LTE2NzYyMDAz/MTgtODk5My5qcGVn.jpeg) | 1992 | Zahouania | Malakch trad alia (feat. Youness) - Single |
+| 45 | ![Cover](https://i.discogs.com/_MT7XdWYHTmRz2zN9ffmgXhxCR4D0iTsWfFHR1crTqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MzY5/OC0xNDM4MDI3NTg4/LTg5ODAuanBlZw.jpeg) | 1999-03-09 | Zohra | Sehlu |
+| 35 | ![Cover](https://i.discogs.com/nbKIsBCTN9XyfCmv1fyBhDX6AFqYKNVpEzYzI7FvzkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzM4/NjctMTQwNTA4MTMx/NC05NjgxLmpwZWc.jpeg) | 2004 | Zahouania | Hna Djina Ziyar |
+| 80 | ![Cover](https://i.discogs.com/ncjkLzIVC_tbME3WUB7EanU319J93NCuU1f0C2ON4f4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjM1/MTAtMTMxNDAxMDUw/OC5qcGVn.jpeg) | 2008-02-04 | Orchestre National De Barbès | Alik |
+| 27 | ![Cover](https://i.discogs.com/TElJdR8EbNm3maNj0pMIbHIVSn2OkBVX-GQHF2IGQzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTg4/MjMtMTM2NDA5ODMw/MC02NTk5LmpwZWc.jpeg) | 2009-10-17 | Amazigh Kateb | Michel Choukrane - Single |
+| 74 | ![Cover](https://i.discogs.com/TElJdR8EbNm3maNj0pMIbHIVSn2OkBVX-GQHF2IGQzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTg4/MjMtMTM2NDA5ODMw/MC02NTk5LmpwZWc.jpeg) | 2009-10-17 | Amazigh Kateb | Marchez noir |
+| 33 | ![Cover](https://i.discogs.com/QfjYf4CMiCaLLbuwbi_COYrxsN2eUU4IcXZsShWFtdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzE0/MzktMTYyMzgzNTky/NS00ODQyLmpwZWc.jpeg) | 2010 | Faudel | 1,2,3, Soleils (Live at Bercy) |
+| 34 | ![Cover](https://i.discogs.com/QfjYf4CMiCaLLbuwbi_COYrxsN2eUU4IcXZsShWFtdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzE0/MzktMTYyMzgzNTky/NS00ODQyLmpwZWc.jpeg) | 2010 | Faudel | Success Raï Story |
+| 22 | ![Cover](https://i.discogs.com/5bCClNoq2CcgHt8lB8I-6qesK6315gwyQ63zX6P38Zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTMx/NTQ4LTE2MTM5ODQ3/MjQtODU4NC5qcGVn.jpeg) | 2011 | Faudel | Desert Roses and Arabian Rhythms, Vol. 1 |
+| 24 | ![Cover](https://i.discogs.com/5bCClNoq2CcgHt8lB8I-6qesK6315gwyQ63zX6P38Zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTMx/NTQ4LTE2MTM5ODQ3/MjQtODU4NC5qcGVn.jpeg) | 2011 | Faudel | Desert Rose &amp; Arabian Rhythms |
+| 75 | ![Cover](https://i.discogs.com/xH5zLLPlhN7ZGPgn-pgo4Xfektvqo1IZrCku3SBtsCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDMz/MzA5LTE2NDQwNjA0/NDMtMjM3Ny5wbmc.jpeg) | 2012 | DJ Hamida | A la bien Mix Party 2014 |
+| 64 | ![Cover](https://i.discogs.com/LPSyZ30uP6fGNkPQb_wGIq_ejsallykG7UGPIBKYw-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTM0/NzctMTM0MTQwMjE2/Mi05Mjc2LmpwZWc.jpeg) | 2012-03-26 | Orchestre National De Barbès | 15 ans de scène |
+| 94 | ![Cover](https://i.discogs.com/xK0FUqAdeI1fq72LV2PG-bhbMHTlnvYAO0yNVLrrmos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODc4/NTMtMTU5MzEzMTMz/OS03NDkzLmpwZWc.jpeg) | 2012-11-30 | Zaho | Contagieuse |
+| 13 | ![Cover](https://i.discogs.com/_2g8FS0pzwx7fm2aBrYmusOHJDn876zhg-nOZqn0hKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjA0/MTI1LTE1ODgwNzAw/NjgtODkwNC5qcGVn.jpeg) | 2013 | Houria Aïchi | Chants De L&#39;aurés |
+| 15 | ![Cover](https://i.discogs.com/APzsYSSbcsQdJIHCqXdtb09_TUDYiZlX71YJ9xwKoaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU4/MTAxLTE1MzU2Njc1/MDktNjYyNy5qcGVn.jpeg) | 2013 | Houria Aïchi | Songs Of The Aures |
+| 85 |  | 2013-02-04 | Idir | Idir |
+| 84 | ![Cover](https://i.discogs.com/GgJd01C9UhVH9BT-IoGDW2PgLjaC7IZN4AebNBhsulU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDQ1/NjgtMTQ2NTgwNDQ0/NS05NzE5LmpwZWc.jpeg) | 2013-07-12 | Zaho | Dima (Edition Spéciale) |
+| 63 | ![Cover](https://i.discogs.com/1rYUPt9lhhKWUm-dwsaIUP6OKjzSMMfd7Jfq51nTGpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTI1/ODItMTYwNjMxMDk5/My0xNTIyLmpwZWc.jpeg) | 2014-03-03 | Orchestre National De Barbès | Dame De Cœur |
+| 51 | ![Cover](https://i.discogs.com/FrcG9dN5SLmWL0_FXHdwFNhccX-UotOusMMW0BA6w_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTEy/NDQxLTE3MjgxMDE1/ODgtNTgwNi5qcGVn.jpeg) | 2015 | Cheb Rayan | Bayna |
+| 89 | ![Cover](https://i.discogs.com/UYOdyd6x2Xref8WB5vmx6V_hfcKh5UcNtfL4XqKxLQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjc5/MTEwLTE1NTg4NzI3/MDktODcyMy5qcGVn.jpeg) | 2016 | L&#39;Algérino | Banderas |
+| 100 | ![Cover](https://i.discogs.com/Sn6fM1grJ1Yryht_Vd3TtUdFVwXd34TxfCSt22iIldo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MDA2/MDItMTQ4NTAwMzUx/OC05NjkyLmpwZWc.jpeg) | 2017 | Tinariwen | Elwan |
+| 88 | ![Cover](https://i.discogs.com/COfH897dpC91w10MLfgpU9XCJZLKOC4s6VrVK7j69ZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ1/MzY5LTE1MjkyMTky/NDctODAwOC5qcGVn.jpeg) | 2018-06-15 | AMMAR 808 | Maghreb United |
+| 92 | ![Cover](https://i.discogs.com/PjnKn5fHHDm8tznF_9Dovq_6-DCKimi-mvumbCH7sX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjE1/NTU1LTE1NTc1Nzgw/MjEtNzE4MS5qcGVn.jpeg) | 2018-06-22 | L&#39;Algérino | International |
+| 98 | ![Cover](https://i.discogs.com/4YV-A6dfvwAoNJEfugb_bEw-h9jVVhF0yKSM218Zz24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzUx/MTY0LTE2NTYwMDg3/MDEtNTQ2My5qcGVn.jpeg) | 2018-11-02 | Soolking | Fruit du démon |
+| 96 | ![Cover](https://i.discogs.com/mpxo5qFupV5b5AH0XxwHGJbJJiHn06gzVzK1MhlWujI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTAy/MTUxLTE1NDgwOTEx/MjQtNDA4Ni5qcGVn.jpeg) | 2018-12-19 | Zohra | Badala Zamana (Habibi Funk 015) |
+| 83 | ![Cover](https://i.discogs.com/UYOdyd6x2Xref8WB5vmx6V_hfcKh5UcNtfL4XqKxLQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjc5/MTEwLTE1NTg4NzI3/MDktODcyMy5qcGVn.jpeg) | 2021-06-18 | L&#39;Algérino | Moonlight |
+| 97 | ![Cover](https://i.discogs.com/DLtGF2QJFLSUW1smG6_k9dbaCu-MTO5MWb6Hq5sjYmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDIz/ODE5LTE2NTQwMjg4/MzgtOTQ5NS5qcGVn.jpeg) | 2022 | DJ Snake | Disco Maghreb |
+| 36 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2023 | Various Artists | Chansons d&#39;exils d&#39;Afrique du Nord |
+| 52 | ![Cover](https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg) | 2023 | Various Artists | Algerian Berber Music |
+
+### Related genres
+
+- [north africa]({{ "/tags/north-africa" | relative_url }})
+- [arabic]({{ "/tags/arabic" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [rai]({{ "/tags/rai" | relative_url }})
+- [africa]({{ "/tags/africa" | relative_url }})
+- [maghreb]({{ "/tags/maghreb" | relative_url }})
+- [african]({{ "/tags/african" | relative_url }})
+- [folk]({{ "/tags/folk" | relative_url }})
+- [world]({{ "/tags/world" | relative_url }})

@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-20T02:54:24.260Z
+permalink: tags/concert
+title: concert
+---
+
+## concert
+
+Last updated: <time datetime="2025-10-20T02:54:24.260Z">Mon Oct 20 2025 05:54:24 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 1 |  |  | Abracadaband | 15 juillet 2005 |
+| 6 |  |  | Crocodile Mansion | Rock, Scissors, Gun |
+| 8 |  |  | Gospel Joy | Gospel Joy Live - To ON |
+| 15 |  |  | Van Nispen t.P. Bros | Live Recordings Compilations |
+| 20 |  |  | Orchestra de Blonde | Twenty15 |
+| 21 |  |  | 志方あきこ | 志方あきこコンサート2009～Harmonia～ パンフレットCD |
+| 26 |  |  | Prahphet | Mixed Record |
+| 31 |  |  | Hipgnosis Polish band | Still Ummadelling (Live) |
+| 35 |  |  | Van Nispen t.P. Bros | Eindexamen Compositie Concert van Matthias van Nispen tot Pannerden |
+| 41 |  |  | Volodja Balžalorsky | Live in Maribor |
+| 19 | ![Cover](https://i.discogs.com/-psVVeQJcA7rIcaf6-2vnFTmGr8UcjalK7n1hENxi1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzEz/ODktMTMzOTczMTI5/NS04NDI3LmpwZWc.jpeg) | 1969 | Aquarian Age | Live (2006) |
+| 4 | ![Cover](https://i.discogs.com/qvDrt6z-Do4DS7ThxE40bqAWjrvIBkwOP3M7R4NiBSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzM4/MDYtMTI1MzQzMjY5/Ny5qcGVn.jpeg) | 1976 | Led Zeppelin | One For The M6 |
+| 50 | ![Cover](https://i.discogs.com/cB6Zrh2k0Ebl6_rOm2mreAkqQqKkLbthlQ56LuyPeZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjI0/OTEtMTM5MDUxNDUy/MS04OTcxLmpwZWc.jpeg) | 1981 | Johann Sebastian Bach | Concertos for Oboe and Oboe d&#39;Amore |
+| 49 | ![Cover](https://i.discogs.com/NtT63Ry6tC9EF5Ri8sgS5crnyznRG87VBOqoFOFQKlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODgx/MjUtMTYwMTc3MTEz/Ni02NDA4LmpwZWc.jpeg) | 1983-04-15 | Slime | Live Punk Club |
+| 53 | ![Cover](https://i.discogs.com/tTQeGimTa3WQJbN4hHEI05iH5y7Qh281Os_2aRdJNNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDE1/NDItMTQyMzc0MTg4/Mi03NTk4LmpwZWc.jpeg) | 1984-12-21 | Duran Duran | BBC In Concert (4th November 1982, recorded at Hammersmith Odeon 4&#x2F;11&#x2F;82 tx 11&#x2F;12&#x2F;82) |
+| 38 | ![Cover](https://i.discogs.com/R3tKQVvIWlq328vzIyxm8AsJZhg7BT00VBbmUbjnUjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTEz/LTExNjQ2NjU3MTgu/anBlZw.jpeg) | 1985-03 | Depeche Mode | Recording The Universe: Live In Düsseldorf 27&#x2F;02&#x2F;2010 |
+| 56 |  |  | Castrobydidge | Castrobydidge |
+| 27 | ![Cover](https://i.discogs.com/IZfuKB0MGsFUB72VQDJsbJlRDaTEmJeWbn7BnBUev_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTgw/NjYtMTM3NjQ2NzE2/NS01NDM3LmpwZWc.jpeg) | 1987 | Bob Marley | Uprising Live! |
+| 79 | ![Cover](https://i.discogs.com/U07i90hkQEbEavcYKX9nDmX_2URqM6jyf8Z9aN4n004/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDI4/MzMtMTM5MzQ5MTc1/Ni02MDkyLmpwZWc.jpeg) | 1987 | Public Enemy | Live From Metropolis Studios |
+| 65 | ![Cover](https://i.discogs.com/VblrTw1rSCRzEN5K5nNJgE9KsG_HYJunXV3NgcH8BYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDk5/My0xMjQ4NDc2Nzg0/LmpwZWc.jpeg) | 1987-03 | Overkill | Live in Overhausen |
+| 18 | ![Cover](https://i.discogs.com/Bs378yoDAU9QtTg5qnSPlSYXVp7ZJAe5x3DghSkQer8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTY2/LTE2NTk5OTgzNDEt/MTcyNC5qcGVn.jpeg) | 1988 | Jean Michel Jarre | Live In Monaco |
+| 2 | ![Cover](https://i.discogs.com/sB9IuF954HXEwFuhkEvi5agl2FaK4T3DqN-0Tn3pLec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzg3/MjgtMTQ0OTM3ODU4/Ni00ODE5LmpwZWc.jpeg) | 1989 | The Only Ones | Live in London |
+| 69 | ![Cover](https://i.discogs.com/digP7Ht2XJiqJNcna0zLSH6dckhy924Nbf0QUz8fneQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjg1/MS0xNDU4MzIxNDk2/LTI4NjguanBlZw.jpeg) | 1989-08-30 | The Beach Boys | Concert&#x2F;Live In London |
+| 71 |  | 1993 | New Order | Electronic Ecstasy |
+| 12 | ![Cover](https://i.discogs.com/jnqGASLcCnZZZVd_9ymplBh0EvQDimz5N3f59bPijtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzYw/ODktMTU0MDczMzA0/MC00MTM5LmpwZWc.jpeg) | 1995 | Tankard | Live At The Rock Hard Festival 2016 |
+| 47 |  | 1995 | Overkill | Wrecking Your Neck - Live |
+| 11 | ![Cover](https://i.discogs.com/yKyzCXGVGWzC_2nFnw85XjDM79J1Fj47viJk7VzbcUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTg4/NzktMTY4Mzg4NTMy/MS04NzQxLmpwZWc.jpeg) | 1997 | Ludwig van Beethoven | Beethoven: Complete Works For Violin And Orchestra |
+| 33 | ![Cover](https://i.discogs.com/AR4rcD6HdgoK5B7GT8EfCtbV2yD5t4CAHJH9Lm8kWAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzc5/MDctMTQ0MDg1OTI4/NS00MTY4LmpwZWc.jpeg) | 1998 | Slime | Live,Pankehallen 21.1.1984 |
+| 45 | ![Cover](https://i.discogs.com/aTD3Kp2w91weP5AyTTqyFJZSQkXd2YefH6GGldHLnms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODkz/ODItMTQxNjkwMjE1/MS0xNzY1LmpwZWc.jpeg) | 1998 | Taha, Khaled, Faudel | 1, 2, 3 Soleils |
+| 66 |  | 1998-10-20 | The Mighty Mighty Bosstones | Live From The Middle East |
+| 36 | ![Cover](https://i.discogs.com/XE2t9D5AbcWNlkYcYWspWbAnl3NlUCPvqWId345u4U0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjU5/NDAtMTM1MTY4NDAz/Ni03MjgwLmpwZWc.jpeg) | 2000-03-14 | Slipknot | (sic)nesses: Live At The Download Festival, 2009 |
+| 61 | ![Cover](https://i.discogs.com/dfZrLwIN7ALRp4_5NdmuFtmYwCueQ5dodJFRaKRvbXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTgx/OTUtMTM3NzE3NTI3/MC0yMzAzLmpwZWc.jpeg) | 2000-10-16 | Kylie Minogue | Showgirl (The Greatest Hits Tour Live) |
+| 59 | ![Cover](https://i.discogs.com/LCQtob1RmB-bur3LmrvRFGOaGAcQfcj1zxT1rkm1sGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDkw/NzMtMTU1MjU2Njkz/Ni04OTE0LmpwZWc.jpeg) | 2000-11 | Gentle Giant | Prologue |
+| 28 | ![Cover](https://i.discogs.com/a_d4Qqi8EYaIzWmfvRQWBfZi6cJ1bBEJ68f7RHoYrfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzYy/OTItMTMyMTczNjk2/NS5qcGVn.jpeg) | 2001-10-29 | S Club 7 | S Club Party Live |
+| 44 |  | 2002-05-09 | 植松伸夫 | 20020220: Music From Final Fantasy |
+| 60 |  |  | Sharareh | First Love |
+| 89 | ![Cover](https://i.discogs.com/KTAaJWY6Si2kGn-adiT5u-O-2vzHWPCdr6rIqwHX26w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjUz/ODEtMTM2MDE0NDM3/Ny0xNTMxLmpwZWc.jpeg) | 1968 | Joan Baez | Joan Baez 75th Birthday Celebration |
+| 94 |  | 1968-12 | Elvis Presley | NBC-TV Special |
+| 91 | ![Cover](https://i.discogs.com/yTdw9_Td_BAKE9neWtn7CHn2dn4a2SqNygiRomJeOgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMy/MjUtMTM2NTU4ODg4/Ny00NjI4LmpwZWc.jpeg) | 1979 | Tom Petty and The Heartbreakers | Mary Jane&#x60;s Last Dance |
+| 98 | ![Cover](https://i.discogs.com/4Buu1cm2fYKzYPkeukZJ-mK6Ol1xuirtExAZJotZ5R4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTYy/MDItMTMxNzc1MzE5/NC5qcGVn.jpeg) | 1985 | Y&amp;T | Open Fire |
+| 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1484ad8b303226151ab0f9cae181abf7.png) | 1991-05 | NoMeansNo | Live + Cuddly |
+| 80 | ![Cover](https://i.discogs.com/AxzA5aRHk_OIawVO1x22lhjMwro3PQkZa6hb4-o53Oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjE5/MzMtMTQ1MDM4MzA2/OS0yOTY3LmpwZWc.jpeg) | 2001 | Cowboy Junkies | 200 More Miles |
+| 86 | ![Cover](https://i.discogs.com/VSv_doOtbdXc3u_JJN_KK3fRqnx9_QyPdeqBnzvFdaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTM1/Ni0xNjc2MzE1NDIz/LTI5NjEuanBlZw.jpeg) | 2001 | Pennywise | Live @ The Key Club |
+| 51 |  | 2002 | Broadside Electric | Live: Do Not Immerse |
+| 16 | ![Cover](https://i.discogs.com/Wkvc913abmIX7AZIJq0cCJbonWcP_fHeLN0gXVNu3wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDU2/OS0xMTIyNDE4Mzg3/LmpwZw.jpeg) | 2003 | The Fred Hersch Trio | Live At The Village Vanguard |
+| 78 | ![Cover](https://i.discogs.com/62DsRROjmuHVP8GC-t-tIv_k671bVSFSBxR_A5MjApI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQ2/OTk5LTE1MDM1NzEz/MTQtNDY5OS5qcGVn.jpeg) | 2003 | John Mayer | As&#x2F;Is: Volume 3 (Live Houston, TX - 7&#x2F;24&#x2F;04) |
+| 90 | ![Cover](https://i.discogs.com/meuK1kO7yhHDTDB_mLaTxO98eUP0K6Vvi0S-3EeuxME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDk1/NDYtMTQ1NDU4MTYx/Mi01MDEwLmpwZWc.jpeg) | 2003 | Dave Matthews Band | Live Volume 2 - Golden Gate Park, San Fransisco |
+| 29 | ![Cover](https://i.discogs.com/DWO4e3Pgi_eHVVD5EM1AM23Dd7N1thGn55hGPiQopB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjA3/MjQtMTU5NzUwMTM5/NS04ODk1LmpwZWc.jpeg) | 2003-11-19 | Linkin Park | Live In Texas (Japan) |
+| 75 | ![Cover](https://i.discogs.com/CLgBxvPQL0Po8nKCt6OM-Esip7CjrPmvjfTPZJALrpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDA1/MzktMTI3MjM4Nzc2/MS5qcGVn.jpeg) | 2004 | Kanye West | Free Larry Hoover Benefit Concert |
+| 62 |  | 2004-02-10 | Yo-Yo Ma | Obrigado Brazil - Live In Concert |
+| 17 | ![Cover](https://i.discogs.com/Wvxvv5TcSUgyPhBgm6bu8N0XdkJuPuT9TIGEm-Jfplg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjM0/NjktMTM3OTU1MDU4/Ni02OTMxLmpwZWc.jpeg) | 2004-05-05 | Allison Crowe | Heirs + Grievances |
+| 88 |  | 2004-07-13 | Blues Traveler | On the Rocks (live) |
+| 52 | ![Cover](https://i.discogs.com/aNFrtT1BC6KD7ZzXJHxZczJvkqag0OuzeeNV2bjSyRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTE2/My0xMTY1MzI5NTE2/LmdpZg.jpeg) | 2006 | Puyo Puyo | Orphan Tunes from the Mono Times |
+| 24 | ![Cover](https://i.discogs.com/Wz_oYoubF9Ps6xfHN8Y8o2cSinY5OdeQ2NqHksxd9p4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjA4/NDEtMTM5OTIyMjI4/OC0xMjI4LmpwZWc.jpeg) | 2007 | Justin Timberlake | Futuresex&#x2F;Loveshow Live from Madison Square Garden |
+| 54 | ![Cover](https://i.discogs.com/WIhU86f7KwJ6UHCq5-husHcW1LWRXsmPKWM7UUsIDJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc5/NjUtMTI4MjU4NzY0/My5qcGVn.jpeg) | 2007-10-19 | Coheed &amp; Cambria | Neverender - Good Apollo I&#39;m Burning Star IV, Vol. II - No Word for Tomorrow (Night IV) |
+| 100 | ![Cover](https://i.discogs.com/WyyOfIisS2KTd7zG0CTS0g7nVhIp-rqJCQ_Ubb9g1Gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc3/MDgtMTI4MTgwNzE5/MS5qcGVn.jpeg) | 2008-04-01 | Delirious? | Kingdom Of Comfort |
+| 93 | ![Cover](https://i.discogs.com/5Gq19u-YH7dTh1NFIklyAKzcpPTyoFZnOcA6Ku3lwZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzU3/NzEtMTUzNDkyNTgz/Ny05MzY1LmpwZWc.jpeg) | 2008-06-13 | K.I.Z. | Hahnenkampf Live |
+| 77 | ![Cover](https://i.discogs.com/3tZCO52iG9kXEDNJ4RYtbLrsmwW6bIFoTolfMrBTkRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDUz/MjEtMTQ4NjU4NzU2/OC0zNjQwLmpwZWc.jpeg) | 2009 | Kreator | Live at Dynamo Open Air 1998 |
+| 95 | ![Cover](https://i.discogs.com/JBRuND_1gUzttAcVyTmTOCDiaOWSVJUQxJ_n9pXInZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM4/ODQtMTI4OTkzODQ4/Ni5qcGVn.jpeg) | 2009 | Neil Young | Live At The Fillmore East |
+| 30 | ![Cover](https://i.discogs.com/9B-Om4GJArQsfacS1ab240OBzkQBKh4t6AJz530a9Ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzUz/MTAtMTQ3MjkwNDEy/NS01OTg1LmpwZWc.jpeg) | 2009-03-16 | Pet Shop Boys | Discovery (Live in Rio 1994) [2021 Remaster] |
+| 85 |  | 2009-12-15 | Kylie Minogue | Kylie: Live in New York |
+| 10 | ![Cover](https://i.discogs.com/eFqM31T5djc5pXrc50slJf54OhxJJzNZRFRx--_KLOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MjEx/NzEtMTM3NjU2MDE5/OC03ODQ2LmpwZWc.jpeg) | 2010 | Lizzy Ling | No simili |
+| 39 | ![Cover](https://i.discogs.com/riDsXv9or0ziLGsvyzJlsNlA8mKbrUiKFjhOCu-ZvUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDk3/MjUtMTMxNjIzMTg5/OS5qcGVn.jpeg) | 2010 | Black Sabbath | The End: Live in Birmingham |
+| 97 |  | 2010-03-30 | G-Dragon | Shine A Light |
+| 25 | ![Cover](https://i.discogs.com/iE5xsa-WSRIxwqnJ1p-cU60IHhNy1FoZiN3NIvtx7Gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzE1/NTUtMTQ1NDc2MDE1/Mi01NDMyLmpwZWc.jpeg) | 2010-04-08 | John Mayer | 2008-07-12 - Comcast Center |
+| 70 | ![Cover](https://i.discogs.com/Xn4fxPZF3N6EmNUUnofsj-B-t3naajX3Q4jgzYeTfMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkz/NTMtMTI0NTQ3OTEw/MC5qcGVn.jpeg) | 2010-06-15 | Гражданская оборона | Апельсин. Электричество |
+| 57 | ![Cover](https://i.discogs.com/tQ74iYphvMtRbirSNVquF1PM_AYBNoLtjS1-OJTzQ5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTc3/MC0xNjU4Mzc5MzE1/LTU0NDAuanBlZw.jpeg) | 2010-07 | Kylie Minogue | Aphrodite: Les Folies Tour |
+| 63 | ![Cover](https://i.discogs.com/DAkaWgPhNNTTYw3MVeGWTRYEetxgXUcm90Flf-amIGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjYy/OTAtMTMyNTg4NzU5/Ni5qcGVn.jpeg) | 2010-10-05 | John Mayer | 2008-08-02 - Cynthia Woods Mitchell Pavilion |
+| 72 | ![Cover](https://i.discogs.com/DAkaWgPhNNTTYw3MVeGWTRYEetxgXUcm90Flf-amIGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjYy/OTAtMTMyNTg4NzU5/Ni5qcGVn.jpeg) | 2010-10-05 | John Mayer | As&#x2F;Is: Volume 4 (Cleveland &#x2F; Cincinnati, OH - 8&#x2F;03&#x2F;04-8&#x2F;04&#x2F;04) |
+| 22 | ![Cover](https://i.discogs.com/J4rMeptruZReUxUuD73a-NNIsKhX9IBXlVG_OHFSBjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTY3/NTEtMTQ4MDE5NDkz/MS0xMTUyLmpwZWc.jpeg) | 2010-11-22 | NoRMAhl | Live in Switzerland |
+| 9 | ![Cover](https://i.discogs.com/1fpfqf54GonMLm-3EM0NAXpC35rXhU-t0DCHKaVDg4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDE2/NjUwLTE1MzQ4NTc3/MzYtNDkyNS5qcGVn.jpeg) | 2011 | Dubtari | Live in Altona |
+| 99 | ![Cover](https://i.discogs.com/6DI_chc6wpfFyTzFPoHbPkzcUFq9L1DdNUwvfTwho7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDAw/MzYtMTM0NDkwNjg5/OC03Mjk4LmpwZWc.jpeg) | 2012 | John Mayer | As&#x2F;Is: Volume 5 (Live Philadelphia, PA&#x2F;Hartford, CT - 8&#x2F;14&#x2F;04-8&#x2F;15&#x2F;04) |
+| 42 | ![Cover](https://i.discogs.com/nIkoGAHcpQSTGc-nOMWGSSE0fyWYGdBecpDXJzgvwjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODA2/OTMtMTM0MDEyMDk5/Ny0zMzI5LmpwZWc.jpeg) | 2012-06-18 | Ignite | Our Darkest Days Live |
+| 58 | ![Cover](https://i.discogs.com/_xUcfOoR_bduK8GNFz1UslCSTuchQBPXc2UZiuzvYuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzQ4/NzktMTQ1MTk1MjA3/Ni05Mjc2LmpwZWc.jpeg) | 2012-06-30 | American Standards | Still Life |
+| 73 | ![Cover](https://i.discogs.com/DAkaWgPhNNTTYw3MVeGWTRYEetxgXUcm90Flf-amIGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjYy/OTAtMTMyNTg4NzU5/Ni5qcGVn.jpeg) | 2012-08-03 | John Mayer | As&#x2F;Is: Volume 2 (Live @ Mountain View, CA - 7&#x2F;16&#x2F;04) |
+| 96 | ![Cover](https://i.discogs.com/ou-HZenLU-E_ElTc7yQ0WBb4x3vdKBbuVsFos9Ix3hM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDY3/MzItMTM2NjgyMzg2/Mi0yNjMwLmpwZWc.jpeg) | 2013-04-20 | Eric Church | Caught In the Act: Live |
+| 81 | ![Cover](https://i.discogs.com/jLgioDgyOy4V2-B4eYcDrUCGOESEK6ljmyiin6itxcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzQw/ODMzLTE2OTUyMTcx/NDAtMjIyNS5qcGVn.jpeg) | 2013-05-24 | Garbage | One Mile High...Live |
+| 74 | ![Cover](https://i.discogs.com/b25mvWtmWEqLbOzqPRnWQoo6W3WLXvLwxXNwyq2Qjgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTAy/MjQtMTM3NjIyOTk2/My03MjI4LmpwZWc.jpeg) | 2013-08-15 | John Mayer | As&#x2F;Is: Volume 1 |
+| 40 | ![Cover](https://i.discogs.com/jrTuhEPmxiZO-R60IXf3CaGhEfFnc8qaAjHj4CKHCC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzQz/ODUtMTU5MjgzODIz/Ny0yMDgzLmpwZWc.jpeg) | 2013-09-27 | D.O.A. | Welcome to Chinatown: D.O.A. Live |
+| 14 | ![Cover](https://i.discogs.com/OISCuJFde0Y87TN-yueRdnHmyDTRB0KjQ_n-Wr20rIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDY4/MDgtMTQxNjA4MjY5/OC00MzkxLmpwZWc.jpeg) | 2014 | Sepultura &amp; Les Tambours du Bronx | Metal Veins - Alive At Rock In Rio |
+| 76 | ![Cover](https://i.discogs.com/wAc1HySLIZ5kRdFeF3cvlPucj1OUlyr0kCH3SAG-63Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzI3/ODUtMTQyNDM0MDU5/NS05NDA1LmpwZWc.jpeg) | 2014 | The Nerves | SUPERNOVA |
+| 64 | ![Cover](https://i.discogs.com/a4EKyYrQUUBb70NY1TYJIbXLrcE961h8oKRlNM6EXQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDE3/NTItMTQyOTEyNTQ2/Ny02ODczLmpwZWc.jpeg) | 2015 | Ikon | iKON JAPAN TOUR 2019 |
+| 68 | ![Cover](https://i.discogs.com/w4PJKRGEXwfio1cuQmW_vmo_dyGL03V3Qw3f4ryoS8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjM1/OTctMTQ2NDExMzYy/My04Mzc0LmpwZWc.jpeg) | 2016-04-29 | Ska-P | Live In Woodstock Festival |
+| 67 | ![Cover](https://i.discogs.com/X-vAqrq-7Yk_0zdoCOQ3OzOf7G8r3U1blxcpORGKT5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzk1/ODktMTQ3NjE3MjE5/NS0yMjA1LmpwZWc.jpeg) | 2016-08-13 | Porter Robinson &amp; Madeon | Shelter Live |
+| 7 | ![Cover](https://i.discogs.com/ncelLyI59s3OotHdkLd8yMSQTh8X9JkO_b1e76s5Fbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjU0/NzgtMTQ3NDE2NDAz/MC03MzQ1LmpwZWc.jpeg) | 2016-09-16 | Ariana Grande | Ariana Grande: BBC Live In London |
+| 37 | ![Cover](https://i.discogs.com/Epre0eBR9ioMqOXkDP6zG4lTYjBW788Za0A8XF7QBOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxODc2/NjYtMTQ3NjMxMzE4/Ni01Mzc2LmpwZWc.jpeg) | 2016-10-04 | Claudio Sanchez | Neverender London |
+| 13 | ![Cover](https://i.discogs.com/-1prdaBt1v7Ub5qkfqrUBMhZEgG4pjmWRyH_-P5Rntc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njg3/NjMtMTIzNTc0MDE3/MS5qcGVn.jpeg) | 2016-11-04 | Bon Jovi | This House is not for Sale: Live from the London Palladium |
+| 3 | ![Cover](https://i.discogs.com/xZryDUPiiQx1_wa5dogcCqjixSYq8pgkAr99zI7QHgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE4/LTE2NzE5NjU4NTEt/NzUyOC5qcGVn.jpeg) | 2017 | Jean Michel Jarre | Water for Life |
+| 48 | ![Cover](https://i.discogs.com/w-Q4xPMZbqTD0P1PMHzKOtH5BCNGFEX4c5d4hcfnIzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIx/OTA1LTE1MDg0OTkz/MDMtNDMwOC5qcGVn.jpeg) | 2017-10-06 | Slipknot | Day of the Gusano: Live in Mexico |
+| 84 | ![Cover](https://i.discogs.com/z0LU0kLfnBbYdet5e48tXRPGqsfufP8M7BbNWUjXF6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUx/Mjg0LTE2MTgxNDk0/MjMtNTgxMS5qcGVn.jpeg) | 2017-12-08 | Fettes Brot | Gebäck in the Days - Live in Hamburg |
+| 82 | ![Cover](https://i.discogs.com/2_aEWUFREOBb0re2wl8sQ7oJqyvn7bkeltP-N5TSEik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjcz/NTE5LTE2NDE3NjI0/NTAtODUwMy5qcGVn.jpeg) | 2018-03-14 | SHINee | The 2nd Concert Album &#x60;SHINee WORLD Ⅱ in Seoul&#x60; |
+| 55 | ![Cover](https://i.discogs.com/AyCN_HuIaYzpJtJSTugscSmru7Mt1lWus9FiNX6Bzug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/MTk2LTE1ODYzMzk0/OTgtNjAwMy5qcGVn.jpeg) | 2018-06-22 | Liedfett | Meine Damen und Herren (Live) |
+| 32 | ![Cover](https://i.discogs.com/cBmp4cFjAwttrXV-tiiTKK7owFLZ7pTk_ZjcrWz4yoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzUx/MTY5LTE1NTI5ODI0/ODUtMzc4NC5qcGVn.jpeg) | 2019-01-24 | Joël Bons | Joël Bons: Nomaden |
+| 23 | ![Cover](https://i.discogs.com/P0XgrLRR30eJN87hXQST9nqEZnj4GqMoVh9q_Hddxwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzM0/NjE0LTE1ODA1NjQy/MjAtMTYzNC5qcGVn.jpeg) | 2020-01-31 | Nathan Gray | Live at Ringkirche Wiesbaden |
+| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/976dd02153494209ac435d441ea2b3c7.png) | 2021-11-12 | Coldplay | Coldplay Live 2003 |
+| 43 | ![Cover](https://i.discogs.com/HaESmF8HTn3I9BMlgDT27GcTupREl1FEQ9hOAaOD8AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njc5/NDkyLTE1Nzk0NzE3/NzAtMzEyMC5qcGVn.jpeg) | 2021-12-03 | Green Day | Live @ 2010.10.24 Estadio Municipal de La Florida; Santiago, CL |
+| 46 |  |  | Marzia Gaggioli | Classica n.10 |
+| 83 |  |  | 椎名林檎 | Electric Mole |
+| 87 | ![Cover](https://i.discogs.com/UW6_VmiU-XsQkMlVTS8qRWS0w3MFb4PxSWC0Il0HuRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDk4/MDUtMTYwMDYxODMw/My05OTAwLmpwZWc.jpeg) | 2020-05-22 | Soulfly | Live at Dynamo Open Air 1998 |
+| 34 | ![Cover](https://i.discogs.com/WnxsNEGWtyMJXSmjRt7X42ZNI8qTejtLlGlKOMFKczo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODM2/NTg2LTE1ODMzNTAx/NzUtNjk3Ni5qcGVn.jpeg) | 2022 | Nathan Gray | Live at Dechenhöhle Iserlohn |
+
+### Related genres
+
+- [rock]({{ "/tags/rock" | relative_url }})
+- [live recording]({{ "/tags/live-recording" | relative_url }})
+- [german]({{ "/tags/german" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [punk rock]({{ "/tags/punk-rock" | relative_url }})
+- [folk]({{ "/tags/folk" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})
+- [acoustic]({{ "/tags/acoustic" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [classical]({{ "/tags/classical" | relative_url }})

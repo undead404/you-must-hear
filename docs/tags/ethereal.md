@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-24T18:50:52.172Z
+permalink: tags/ethereal
+title: ethereal
+---
+
+## ethereal
+
+Last updated: <time datetime="2025-10-24T18:50:52.172Z">Fri Oct 24 2025 21:50:52 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 3 | ![Cover](https://i.discogs.com/fR8UaYJauvVHjL_so4RlrYTFfEBGKKxZC8klFYM6pp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDEy/NzQtMTQzMDQ4Nzk2/Ny0yMjc1LmpwZWc.jpeg) | 1978 | Marjorie -W.C. Sinclair | 22nd Chances |
+| 26 | ![Cover](https://i.discogs.com/PU-c8n-cevub62i4iIubgZZtTmeSEIIsq5ogllXA0f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjc2/MDktMTUyMzQ5OTI3/OC0xNzM5LnBuZw.jpeg) | 1983 | Piper | Summer Breeze |
+| 77 |  | 1984-10-01 | Cocteau Twins | Treasure |
+| 67 |  | 1986-02 | Cocteau Twins | Victorialand |
+| 63 |  | 1987-07-27 | Dead Can Dance | Within the Realm of a Dying Sun |
+| 61 |  | 1990-07-02 | Dead Can Dance | Aion |
+| 66 | ![Cover](https://i.discogs.com/8VLcSnilnj1K8XOG6SFk-nYFlvpHz_GF3YLZKxT7uLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTE0/LTE1ODI2NTUyOTMt/NTQwMC5qcGVn.jpeg) | 1990-08-21 | Cocteau Twins | Heaven or Las Vegas |
+| 42 |  | 1992 | Bel Canto | Shimmering, Warm &amp; Bright |
+| 50 |  | 1993-09-13 | Dead Can Dance | Into the Labyrinth |
+| 11 |  | 1993-11-02 | Cocteau Twins | Four-Calendar Cafe |
+| 43 | ![Cover](https://i.discogs.com/0sPDfb7RFqV3vrCZf5k8HnyCjzZMSLQm_lWAzeijOU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI3/LTEyMTc3MDY1Nzcu/anBlZw.jpeg) | 1996 | Cocteau Twins | Milk &amp; Kisses |
+| 2 |  | 1996-06-03 | Dead Can Dance | Spiritchaser |
+| 15 | ![Cover](https://i.discogs.com/LRHz3MMcq32UgrJo42jwAoZSXMv-7zlWM4iudhQ9lyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTA1/OS0xMTU3NzQ4MzIx/LmpwZWc.jpeg) | 1997-09-30 | Loreena McKennitt | The Book Of Secrets |
+| 54 | ![Cover](https://i.discogs.com/9FAFdyfPiZUPrIemwrQ3T5ObYRMhJhe35Augko_En3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjc4/OTMtMTY4MDQyOTU1/NS05MDYyLnBuZw.jpeg) | 1998 | Dead Can Dance | Within The Realm Of A Dying Su |
+| 24 |  | 1999-05-20 | All Natural Lemon &amp; Lime Flavors | Turning Into Small |
+| 13 |  | 2003 | Irfan | IRFAN |
+| 71 | ![Cover](https://i.discogs.com/sdRhMDAngpVOLlKFkrlySBH6v9qPdIo9plOJa1AqSqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQ3/NzUzLTE1NjI0ODU0/MTctNzIyOC5qcGVn.jpeg) | 2003 | Hi-C | LSD on My Tongue |
+| 68 |  | 2003-02-26 | Emilie Autumn | Enchant |
+| 17 |  | 2004-05-18 | Vas | Feast Of Silence |
+| 8 |  | 2004-10 | Narsilion | Nerbeleth |
+| 65 | ![Cover](https://i.discogs.com/yU3L5ZGccWBRoT56WZKlo5isq6jrEIRBXxWo8NFMYHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTMw/Ny0xMTc4NTM1ODE2/LmpwZWc.jpeg) | 2006 | Mediavolo | A Secret Sound |
+| 75 |  | 2006-11-21 | The Shins | Phantom Limb |
+| 36 |  | 2007 | Irfan | Seraphim |
+| 27 | ![Cover](https://i.discogs.com/c0iRx3Bvw34JDAeyhoVW0iQz8RRa4XOk6ICBMTdVbCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDU1/NDAtMTQ0NTgyMzMx/OS05NjIyLnBuZw.jpeg) | 2007-01-01 | X-Patriate (Alan J. Lipman) | Greetings From Lafayette Park |
+| 1 |  | 2007-08-07 | Hannah Fury | Through The Gash |
+| 41 | ![Cover](https://i.discogs.com/P55phhfBlp500lcoDrLvUx3oFmdMptp9JGuVG2BM2OU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzYz/ODEtMTE5MDMwMjk2/My5qcGVn.jpeg) | 2008-06-25 | Dead Can Dance | Toward the Within |
+| 16 | ![Cover](https://i.discogs.com/KI8R84DHLPgisz_nVC1KWzBifby9WQR6WutbYk6-MEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzEy/Mi0xNDg2NzM5Nzkw/LTIzODMucG5n.jpeg) | 2008-12-22 | Dead Can Dance | The Serpent&#39;s Egg |
+| 23 |  | 2009-03-04 | Kalafina | Seventh Heaven |
+| 38 | ![Cover](https://i.discogs.com/bs5SRO8CV0SHU-Ha1w60olGQKIr84V5LsbAB2KhLTCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjA1/NDMtMTI0MTYwNDc2/My5qcGVn.jpeg) | 2009-04-27 | Julianna Barwick | Florine |
+| 9 |  | 2009-09-04 | Valravn | Koder på snor |
+| 47 |  | 2010-06-07 | Brendan Perry | Ark |
+| 31 | ![Cover](https://i.discogs.com/vKd5AANXEkOBviOSKc9x1yEg8OtlA2v9RhIBqoPcMNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzEx/NzgtMTI4NjAzMTUz/MC5qcGVn.jpeg) | 2010-10-04 | oOoOO | oOoOO EP |
+| 7 | ![Cover](https://i.discogs.com/5xgm5mIgLp3RgEr-tHPnFLYTfYMzkz_Uh25fU3W6YgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDA0/MDMtMTI5NjE2MjA4/Ny5qcGVn.jpeg) | 2011-01-28 | Esben and the Witch | Violet Cries |
+| 37 |  | 2011-02-27 | Florence + the Machine | Lungs: The B-Sides |
+| 49 | ![Cover](https://i.discogs.com/rRsYmeC_NwcilYbtsISElOVp5ZsbPOY-QUKsLUcCUMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjU3/NzEtMTY4MzkxMjU1/My0zMzM5LmpwZWc.jpeg) | 2012-07-17 | Frank Ocean | Chanel - Single |
+| 62 |  | 2012-08-09 | Dead Can Dance | Anastasis |
+| 6 | ![Cover](https://i.discogs.com/judnx93kI7zj-4T7M8X4OcVQtPWNhYwZPiPNoZqoaks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjQ3/NzQtMTM4MzUzMTU1/MS05MTEzLmpwZWc.jpeg) | 2013 | Cocteau Twins | Four Calender Cafe |
+| 56 | ![Cover](https://i.discogs.com/rNgZhZxNakVvmNLb0f_k8hpiBPrhWLWpq7ezOg5GkvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTEy/NjgtMTMwNjg0NTk0/Ni5qcGVn.jpeg) | 2015 | My Bloody Valentine | ep’s 1988-1991 and rare tracks |
+| 20 | ![Cover](https://i.discogs.com/SYVvWcFXw5zA7yzbfG_NPRVu0gtzTSQiqi8MMw9fjeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM4/ODU2LTE2MzU5NTgx/OTItMjM0Mi5qcGVn.jpeg) | 2015-07-04 | Yung Bruh | e m o c e a n |
+| 46 | ![Cover](https://i.discogs.com/EBEAhgFU9vUfZzJ-xcHOEVoe1PL4F5C8aNSLB--OPbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjM0/MTctMTQ0NTM2NDk4/Ni0yODE3LmpwZWc.jpeg) | 2015-10-16 | Majical Cloudz | Are You Alone? |
+| 84 | ![Cover](https://i.discogs.com/D1kRvAWFgewCRCRcjx3dcWN4BU9W613d8m29ZpKpcMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTEw/MTI0LTE2NjY0NTg2/MTAtOTQ2Ni5qcGVn.jpeg) | 2016 | Aurora | All My Demons Greeting Me As A Friend (Deluxe) |
+| 100 | ![Cover](https://i.discogs.com/R9mQF5vW7xYDtcA7aP9Nev7Hg00cbxYIkkRLRNSh_74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjI4/ODUtMTQ4OTMxMTcw/NS01MTU5LmpwZWc.jpeg) | 2016 | Frank Ocean | Chanel |
+| 5 |  | 2016-01-29 | A$AP Mob | Yamborghini High (feat. Juicy J) - Single |
+| 4 | ![Cover](https://i.discogs.com/9STt_4FXjHyITqFVwvwb6i6xsHLdVUioRV-LExnxU1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjgz/NzktMTQ1NjQyNDI3/NC04ODY0LnBuZw.jpeg) | 2016-02-25 | Yung Lean | King Cobra |
+| 21 | ![Cover](https://i.discogs.com/SYVvWcFXw5zA7yzbfG_NPRVu0gtzTSQiqi8MMw9fjeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM4/ODU2LTE2MzU5NTgx/OTItMjM0Mi5qcGVn.jpeg) | 2016-06-26 | Yung Bruh | MOON STONES |
+| 87 | ![Cover](https://i.discogs.com/Nhu9U4PQ9aCRUxwpYRhijl-pCqrgtmUxsLX1LsDpTaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTk5/NzUyLTE1NjU4MTY1/NjUtOTI3Ny5qcGVn.jpeg) | 2016-07-18 | Thaiboy Digital | Yin &amp; Yang |
+| 85 | ![Cover](https://i.discogs.com/lx5OsXjMSypTrp6RHkfOFIeZiqgELkh_O0Z_JD_Cq4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI1/MzIzLTE2MDMxOTcx/NzYtNTk0Ni5qcGVn.jpeg) | 2016-08-15 | LUCKI | Leave Her |
+| 59 | ![Cover](https://i.discogs.com/lrqjPxdPdkh59ZgRRJ9hYiSRdezaTx9eHKKNQKiPhI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc5/NjY1LTE1NTY4ODIw/MzktMzU0MC5qcGVn.jpeg) | 2016-11-15 | Dreamweaver | cloud9 |
+| 72 | ![Cover](https://i.discogs.com/yKn0enBGu8p0P8agMDHAmbxqcB-yeRr7A6iQFZRNC6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTg4/OTUyLTE1NDk2MzM2/MTYtMTcyNi5qcGVn.jpeg) | 2017-03-01 | Chris Travis | Side Effects EP |
+| 51 | ![Cover](https://i.discogs.com/GomE--eTgVKT7TiVdSiZhQXa23jDjzUTfrreTuz9pnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ1/OTY5LTE1NjAyMjc0/NjUtOTUxOC5qcGVn.jpeg) | 2017-03-09 | Yung Sherman | Innocence |
+| 52 | ![Cover](https://i.discogs.com/Ut2KEo1pKSnO4-oZIq4pybd0WeuzpI-C9L_2pCC7TyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTk3/MzM5LTE2MDUxMDk0/NTItNTIyMi5qcGVn.jpeg) | 2017-06-09 | SahBabii | S.A.N.D.A.S. |
+| 39 | ![Cover](https://i.discogs.com/tnYfI9r8KV4aRPeTjv8zeZSsHzeGJkAKV5JCwIA4VEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ5/MTk2LTE1NjAyOTAz/NTAtOTM0My5qcGVn.jpeg) | 2017-08-02 | ECCO2k | Black Boy |
+| 76 | ![Cover](https://i.discogs.com/Ua65xUct08ZmsOeYnw4x3RAPa1PzNkbfEatjEeXy3Dg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTcy/MDg0LTE1MDc0NTg4/NjgtMzE1NC5qcGVn.jpeg) | 2017-09-26 | Yung Sherman | Innocence v2 |
+| 81 | ![Cover](https://i.discogs.com/RxHZMYbBucHOGUqnGsj86eXreXNwCJ_0nVe9JESDzWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjkw/MzAwLTE1NTkwODc0/MjEtNDMwMS5qcGVn.jpeg) | 2018 | Bladee | Into Dust |
+| 58 | ![Cover](https://i.discogs.com/mjJReYmn_Nc2SQxdZuy3gsecJ1fCH8fjJB8EkMOLU6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzUz/NTkwLTE1NjAzNzk1/MzMtMTk0OS5qcGVn.jpeg) | 2018-05-02 | Bladee | Destroy Me |
+| 10 | ![Cover](https://i.discogs.com/Pj_B57MCqRv72Zk0mGdiuCXjCMADXYxba3qTLaWh9x0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTgz/NTQ3LTE1Nzc2MDkz/NjgtNjE2NC5qcGVn.jpeg) | 2018-10-03 | SICKBOYRARI | Thug Angel |
+| 12 |  |  | Drain Gang Archive | My Magic Is Strong |
+| 33 | ![Cover](https://i.discogs.com/xjjTLKckwigqaBd7QW3F1Sd_VVe4hcr_jX2C_U-9I4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Njc4/MzQtMTQ2ODM0OTc2/MS01NTgyLmpwZWc.jpeg) | 2016-07-15 | Clams Casino | 32 Levels (Deluxe) |
+| 18 | ![Cover](https://i.discogs.com/WynNnKcFfsTDob38WvX9KDn_Gqis9AiJ8tmpRHO3pUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjky/ODY2LTE1MDI1MjM5/NzItODI3My5qcGVn.jpeg) | 2017-08-11 | Photay | Onism |
+| 74 | ![Cover](https://i.discogs.com/KdGUcWB5lcnAu4HYeYGfIq2TsG3uIFs2-Z0FTvu37xw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzQx/MjYxLTE2ODk5NTU4/OTMtNDE1MS5qcGVn.jpeg) | 2018-10-03 | SICKBOYRARI | Tearful |
+| 22 | ![Cover](https://i.discogs.com/XI-w966H2KxJ8Z_vAg-8gmR7p_Oxbv4dpD-eaAQIGUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzEx/MDE1LTE1NTk1MTY3/MjEtNzE5My5qcGVn.jpeg) | 2018-10-25 | Yung Lean | Opium Dreams |
+| 78 | ![Cover](https://i.discogs.com/kBEqRaF8HVrN8KMkAcrgkKo7bBb7YeC0yufFAaGzoUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjkw/MzE0LTE1NTkwODc4/MzMtNDM2NC5qcGVn.jpeg) | 2019-02-06 | Bladee | Trash Star |
+| 88 | ![Cover](https://i.discogs.com/i3DaequyaY4ZbtOkb4ysXsE9CXYKgt4L5k5mN02r8ZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njc2/Mjk1LTE2NjQ1NDMx/MDMtNjQ0My5qcGVn.jpeg) | 2019-02-06 | Bladee | Drain Story |
+| 89 | ![Cover](https://i.discogs.com/SVqZxRdvppZrR7ZyNO6VMXgL-iCG2KjhktnjxcBnZkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzEw/OTk2LTE1NTk1MTYx/ODEtNTU2MS5qcGVn.jpeg) | 2019-03-06 | Yung Lean | Total Eclipse |
+| 29 | ![Cover](https://i.discogs.com/ke5RZureuO7kI4pcaAmoKhk31_13IYyU3dk11a9s4Zc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzg3/MjczLTE1ODE2MDA5/MjktNTAyOS5wbmc.jpeg) | 2019-04-03 | Yung Lean | First Class |
+| 80 | ![Cover](https://i.discogs.com/rkdV7FX9WFWmP-6YrlNxzWWFVR2J_TjPZ4rIKx7oX-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg2/NjE4LTE1NTkwMTMz/MzktMjU4MS5qcGVn.jpeg) | 2019-04-11 | Bladee | Apple |
+| 95 | ![Cover](https://i.discogs.com/7styLzEskosUt3Df01UnhrfUI8l89epZPg-FoMHbdTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDMy/Mzk0LTE2MjI5Mzk4/NDktMTI3OC5wbmc.jpeg) | 2019-07-25 | Vierre Cloud | moment |
+| 96 | ![Cover](https://i.discogs.com/7styLzEskosUt3Df01UnhrfUI8l89epZPg-FoMHbdTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDMy/Mzk0LTE2MjI5Mzk4/NDktMTI3OC5wbmc.jpeg) | 2019-07-25 | vierre cloud | moment |
+| 94 | ![Cover](https://i.discogs.com/Iwj9zSOdwc5iF8mKtd22zzxe4IqTYVNnxED9h3n7hTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIx/OTQ3LTE1NjQxMzQ1/ODUtMjQ4Ny5qcGVn.jpeg) | 2019-07-26 | Bladee | Vanilla Sky |
+| 73 | ![Cover](https://i.discogs.com/jBZOhwYRsTDrKXAKPtW6ctRY2IPsTs317AfzgFKMIgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU5/MTMwLTE1NzA5MDc2/ODItNTExMy5qcGVn.jpeg) | 2019-08-23 | Cartier God | Let Me Go |
+| 97 | ![Cover](https://i.discogs.com/qlbCOqRaPwmCVmbtcvaAnE1h8sO8h_9Hn-pv4E9Hs9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTU1/MzQ0LTE1Njg4NjYy/MzctODczMS5qcGVn.jpeg) | 2019-09-19 | Thaiboy Digital | I&#39;m Fresh |
+| 92 | ![Cover](https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg) | 2019-12-21 | YABUJIN | 8888EACH DIVINITY |
+| 98 | ![Cover](https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg) | 2019-12-21 | YABUJIN | FLASH CASANOVA |
+| 44 | ![Cover](https://i.discogs.com/EOzDY4OK1fY_GB6W7ytESF_jZUq7rwNEIpDdhUCQveg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI4/NDA2LTE1ODQ0ODg5/MjUtNTA4MC5qcGVn.jpeg) | 2020 | Golden Boy | Prince of the Cyber Rave |
+| 64 | ![Cover](https://i.discogs.com/1X_ZuQKZqs4ADP_S5q-3igDtq_rx_xGm5s44bLRrIps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE0/MjUzLTE1ODM5ODU3/MjktMTE1Ni5qcGVn.jpeg) | 2020 | Hailu Mergia | Wede Harer Guzo |
+| 48 | ![Cover](https://i.discogs.com/PCppIRdNjrxCiTnQe4sPeWqChBFO0kdpCHWYnW2yyZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg3/MzQ1LTE2OTE3NzE4/OTAtMjA2Ny5qcGVn.jpeg) | 2020-01-31 | draag me | I Am Gambling With My Life |
+| 93 | ![Cover](https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg) | 2020-04-30 | YABUJIN | HARDSTYLE DRILL 2009 NOKIA ANGELZ 1.6 |
+| 99 | ![Cover](https://i.discogs.com/R9zcEH0DPgaSKsE-o9s8vI6HNCqUoi9jWALiMwDjgsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjcy/MzM2LTE2NTYwMTM3/MzktMjgwMS5wbmc.jpeg) | 2020-06-26 | Destroy Lonely | Bane |
+| 91 | ![Cover](https://i.discogs.com/aHxYpn2uti2Cl76eODK9OM7g6cuVVkLi-bP_w3YwHqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM4/MDI3LTE2MDA1NDM0/NTUtMTgzNC5qcGVn.jpeg) | 2020-09-17 | ECCO2k | Pollen |
+| 55 | ![Cover](https://i.discogs.com/zVjcyJHU5ZFhfuEChQTeedgm9K3RKx-eWhP2ezC4OGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI1/MzM3LTE2MDQ2ODkw/NzMtMjkwMC5qcGVn.jpeg) | 2020-10-09 | Mary Lattimore | Silver Ladders |
+| 35 | ![Cover](https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg) | 2020-11-15 | YABUJIN | SURGEON DOGMA |
+| 34 | ![Cover](https://i.discogs.com/pLaXWJUXQDC-1HyHzm7L-1vZglqN_B334wBLjmTDFBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDYy/NzU0LTE2ODM5NjU1/OTktNDkxOC5wbmc.jpeg) | 2020-11-29 | eightiesheadachetape | for a while |
+| 45 | ![Cover](https://i.discogs.com/TNV95Y7KjZOQ2ME1zdSKD7PgiRCMcUe4YLkya3IDZDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTY5/MzY2LTE2MDg1NTAy/OTYtODc3Mi5qcGVn.jpeg) | 2020-12-21 | Jonatan Leandoer96 | Blodhundar &amp; Lullabies |
+| 30 | ![Cover](https://i.discogs.com/XumiMWGUFOE9JON34ox5UVWSyEwmaghmwxVYeyUPTYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkz/MDgyLTE2MjcwMjg4/MzMtODMyMS5qcGVn.jpeg) | 2021-07-22 | Ssaliva | 5ever &#x2F; The Stars Up Above |
+| 60 | ![Cover](https://i.discogs.com/ZgxPrNUVQqNl1AmrUco728TIfkasy9HxHbxmYNpP4Ro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE2/NzMzLTE2NDI2OTQz/MTMtMzQwNS5qcGVn.jpeg) | 2022-01-21 | Aurora | The Gods We Can Touch |
+| 32 | ![Cover](https://i.discogs.com/SYVvWcFXw5zA7yzbfG_NPRVu0gtzTSQiqi8MMw9fjeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM4/ODU2LTE2MzU5NTgx/OTItMjM0Mi5qcGVn.jpeg) | 2022-09-21 | Yung Bruh | HEAVENS WITCH *eternal spells* |
+| 19 | ![Cover](https://i.discogs.com/FKEUdDYvQ1GUKuS3jSahs4RDuQiD0YInLhE3u_w3luY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTA2/ODI4LTE2OTE0MzM0/MjQtMjQ5Ni5qcGVn.jpeg) | 2022-12-08 | SICKBOYRARI | City of Doves |
+| 53 | ![Cover](https://i.discogs.com/X0nvbLGH2Yp8vH3G97muDvVO3e6UP73GMEc8x8XZNXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTU3/ODAxLTE2ODMwNzM2/ODgtMjU4NS5qcGVn.jpeg) | 2023-02-23 | Marina Sena | Tudo Pra Amar Você |
+| 14 |  | 2023-08-18 | David Shawty | Die by Fire |
+| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bdf383e465ad4d4f9a805f69a315d8e7.png) |  | Flёur | Эйфория |
+| 28 |  |  | 1017 ALYX 9SM | Famous Last Words (An Ode to Eaters) |
+| 57 |  |  | Drain Gang Archive | BLEACH |
+| 69 |  |  | A$AP Mob | Yamborghini High (feat. Juicy J) |
+| 82 |  | 2020-08-14 | Ken Car$on | Teen X |
+| 70 | ![Cover](https://i.discogs.com/NV05C_W-uMUPAFds7HgcqBPtL2j9nRzJHCUEIvB210c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgz/MTUzLTE2MDcwNTA0/NzUtMTA5OC5qcGVn.jpeg) | 2020-12-02 | sewerslvt | Newlove |
+| 79 | ![Cover](https://i.discogs.com/eapxrUOyo1lB9HY7SNSJY7nWPSHJW8yf9o3TUbUsVCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDA5/MjE0LTE2MDc1NjAw/NzctODU5MS5qcGVn.jpeg) | 2020-12-09 | Caroline Polachek | Hey Big Eyes (George Clanton Remix) |
+| 86 |  | 2022-02-12 | Drain Gang Archive | Rain Check |
+| 90 |  | 2022-02-12 | Drain Gang Archive | HOLD ME DOWN LIKE GRAVITY |
+| 40 | ![Cover](https://i.discogs.com/-GJ5DHsfa3Cg71Up6Ju0VGZkqXz_xPgrSwb_olyg-c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjg0/NjA3LTE3MTU3NzIy/NzQtNjM1NS5qcGVn.jpeg) | 2022-09-23 | death&#39;s dynamic shroud | Messe de E-102 |
+| 83 | ![Cover](https://i.discogs.com/RmrVvDsrgI8og8MED6cYWECwyG8qad59GeoGguUhWCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTU3/MzY0LTE2ODMxNzgw/MzAtNDUxMy5qcGVn.jpeg) | 2023-04-14 | LUCKI | Don&#39;t You Love Me |
+
+### Related genres
+
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [dream pop]({{ "/tags/dream-pop" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})
+- [new age]({{ "/tags/new-age" | relative_url }})
+- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [darkwave]({{ "/tags/darkwave" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [chillout]({{ "/tags/chillout" | relative_url }})
+- [shoegaze]({{ "/tags/shoegaze" | relative_url }})

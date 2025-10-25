@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T08:56:44.626Z
+permalink: tags/clarinet
+title: clarinet
+---
+
+## clarinet
+
+Last updated: <time datetime="2025-10-22T08:56:44.626Z">Wed Oct 22 2025 11:56:44 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 1 | ![Cover](https://i.discogs.com/Fe0B4hs7RWhBTud8MD1YHdGygp0mYXhqhnynvFBOZxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODU4/MjgyLTE1NDMzMDkz/OTctOTM5NC5qcGVn.jpeg) | 1947-08 | Benny Goodman | Benny Goodman : Still Treasures |
+| 2 |  |  | Domenico Cimarosa | Portraits - The Clarinet Album |
+| 11 |  |  | Wouter Bruys | Igor |
+| 12 |  |  | Bryan Crumpler | Bryan Crumpler, Clarinet |
+| 15 |  |  | Jimmie Noone | Complete Jazz Series 1934 - 1940 |
+| 20 |  |  | Wouter Bruys | Dokter de Ramlaan |
+| 27 |  |  | Wouter Bruys | Taiga |
+| 29 |  |  | Vassilis Saleas | Litany - Vassilis Saleas plays Mikis Theodorakis |
+| 43 |  |  | Biltone | Through the invisible landscape |
+| 72 |  |  | Vassilis Saleas | Orama - Vassilis Saleas plays Vangelis |
+| 14 | ![Cover](https://i.discogs.com/8xv3fjhWA1x4x8pzAVbTrj9QFlLkwg38bunSOlj379Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY0/ODU1LTE0OTEwMDg0/NTctNTIxNC5qcGVn.jpeg) | 1940 | Buster Bailey | Buster Bailey&#39;s Seems Like A Month Of Sundays (Since I Saw You Saturday Night) |
+| 45 | ![Cover](https://i.discogs.com/PfN1UP67JcuCPjsgrb51S-cYgI4hYHhj7h10zGkii3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDkw/NTYtMTQ0Nzc1OTg0/Ni0xMTg4LmpwZWc.jpeg) | 1945 | Johnny Dodds | King of the New-Orleans Clarinet (1926-1938) |
+| 30 | ![Cover](https://i.discogs.com/MZVMFu6xKfDNWPsW1Ng0FzL5_M85eD23_pyAat6SJs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzkw/NTI3LTE2MDc1MTM4/NDctNjE5MS5qcGVn.jpeg) | 1952 | Carl Maria von Weber | WEBER: Clarinet Concertos Nos. 1 and 2 |
+| 73 | ![Cover](https://i.discogs.com/B4weeKFPMqniLvWoDCNW_JQ0FqUl4g1XJKgKYTxUGPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzgx/NjAtMTQwNjgxOTgz/Mi04NDU1LmpwZWc.jpeg) | 1955 | Benny Goodman | B.G. In Hi-Fi |
+| 17 | ![Cover](https://i.discogs.com/EjMhCgmn7XpzK4VUf7X5w7eyZxCGPFusjuc3WrxJtZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDYx/MTUtMTYzMDA0MTI4/NS0xNjk3LmpwZWc.jpeg) | 1958 | Buster Bailey | Jazz Foundations Vol. 10 |
+| 42 | ![Cover](https://i.discogs.com/O8-97DXeGvlYMWTD-ZiisiCf5r6lYcmbHEMgXMjORMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIy/ODY2LTE2NjMyNTQy/ODMtNzg2NC5qcGVn.jpeg) | 1958 | Benny Goodman | Benny Rides Again |
+| 62 | ![Cover](https://i.discogs.com/HAvL72aJ7qjJOwzG02xawVvZvmn4EWOrFQYpDnsPLTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE0/MjItMTI3ODg4MDA2/MS5qcGVn.jpeg) | 1961 | Benny Goodman | Benny Goodman &amp; His Orchestra (Giants of Jazz) |
+| 96 | ![Cover](https://i.discogs.com/A3zwRNGShLXe7CAIA-BuycZ69w268_eUboGZhSfIb_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjUx/MTc1LTE1OTUyNjEy/NDgtNjkzOS5qcGVn.jpeg) | 1963 | Artie Shaw | The Essential Artie Shaw |
+| 40 | ![Cover](https://i.discogs.com/SNJhNHDtQIrnHJklOfmsDdhFF8uiaryeHuYyFdgqq1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ4/MDctMTU0MDM2NjMw/NC03MDAzLmpwZWc.jpeg) | 1968 | Johnny Dodds | Johnny Dodds |
+| 84 | ![Cover](https://i.discogs.com/nyQ8i-YFrGPliENI4NsxZL15uHjvWTnk6xKaghTY4Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Nzcw/NzUtMTQxODY4MDYy/My01NTU4LmpwZWc.jpeg) | 1971 | Benny Goodman | The Best Of Benny Goodman |
+| 3 | ![Cover](https://i.discogs.com/KgiW5zdFGpq7J7MIR_v4CFCaOR2JlNMnTvtE0UE3FW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTE3/NjktMTY4MjM2NDcz/Ny03MTcyLmpwZWc.jpeg) | 1974 | Sidney Bechet | Jam Session |
+| 93 | ![Cover](https://i.discogs.com/0WMzbp4YLszLqgRW-0_lDVoSXGlwhSshQy-QDbRsDrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzI4/NzgtMTQxMTMzODEz/NS04OTY5LmpwZWc.jpeg) | 1975 | Benny Goodman | Runnin&#39; Wild |
+| 70 | ![Cover](https://i.discogs.com/JRF92j55IILjx6L27hX9nC0PcWjrM2jKVsq0iJyVzkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQw/MTE1LTE1OTE1NTIz/OTgtNzc2Ny5qcGVn.jpeg) | 1976 | Acker Bilk | The Best Of |
+| 83 | ![Cover](https://i.discogs.com/3pQEkkM6FoaNceUQEUvm_-Uk7vBkOjHWWdDvgKMP5a4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTAz/MjAtMTM5MjE4MTg5/MC0yMzkyLmpwZWc.jpeg) | 1976 | Johannes Brahms | Clarinet Quintet B Minor Op. 115, String Quartet B flat Major Op.67 |
+| 21 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1977 | Various Artists | Kings of Clarinet |
+| 71 | ![Cover](https://i.discogs.com/kXicO-wT6sQoZV7-iuKZM4Bg_TYzinTj6i0HgSdNvho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY4/NjU1LTE2ODMxNzY0/MDYtNDgzMS5qcGVn.jpeg) | 1977 | Johannes Brahms | Brahms: Clarinet Trio in A Minor, Op. 114: I. Allegro |
+| 65 | ![Cover](https://i.discogs.com/iO0aYK8qCy21bAeBYeRj-4GY2skTCqb75DMivc-MbDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTg3/NjAtMTM5OTM4MDIw/NS0yMTI2LmpwZWc.jpeg) | 1978 | Duke Ellington | Ring Dem Bells |
+| 86 | ![Cover](https://i.discogs.com/tzDMxZ4UtTH1v9MVjdosntu0B-JeXBagTsIlleBOXRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzAx/OTEtMTY4NTg3NzIw/OS0xMjkzLmpwZWc.jpeg) | 1978 | Fausto Papetti | Bonjour France |
+| 58 | ![Cover](https://i.discogs.com/j4R4uignQTZMEJSUT890tMlIfEMHmsiUSYFOdIPlY0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzQy/MTAtMTQxOTczNzky/My00MzU0LmpwZWc.jpeg) | 1980 | Sidney Bechet | Ken Burns Jazz Series: Sidney Bechet |
+| 51 | ![Cover](https://i.discogs.com/Q5WMJzKvp40s35XXHgoinqNijCjklfC52pZA2gGSg_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTI0/NjgtMTQ1NTA5OTg0/OC05MDMyLmpwZWc.jpeg) | 1982 | Andrew Marriner | MOZART: Clarinet Concerto K. 622 &#x2F; Clarinet Quintet, K. 581 |
+| 75 | ![Cover](https://i.discogs.com/XSZUyWAKjtBS2XW3WKRWVpRyjDIEuG9amh0_cXG9qJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Njgx/NzQtMTQ5ODUxNTA1/Ny02MTQzLmpwZWc.jpeg) | 1983 | Johannes Brahms | Brahms: Clarinet Sonatas |
+| 66 | ![Cover](https://i.discogs.com/ZLXN0tbkzR8bhtrjn_pEnhBbbCx-wPmNWhCALQlMYzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTEz/MzktMTYxMzgyODkw/Mi05OTUxLmpwZWc.jpeg) | 1984 | Benny Goodman | Together Again |
+| 63 | ![Cover](https://i.discogs.com/HWw_Zl6jbzEhf5eVmdYnNKsI9SMvNqAfUC9FUdN7fzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDI3/OTA2LTE1NjYzODU4/NjgtMjU2NC5qcGVn.jpeg) | 1985 | Wolfgang Amadeus Mozart | Mozart: Klarinettenkonzert &amp; Sinfonia Concertante |
+| 9 | ![Cover](https://i.discogs.com/C6dct_kMF4jDm9atTDLs_j3Z0ZwTXt2VJT-CXSslMVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTcx/OTQtMTM4OTc1MDg5/NC04NTEzLmpwZWc.jpeg) | 1986 | Richard Stoltzman | Music for Wind Instruments |
+| 23 | ![Cover](https://i.discogs.com/4v6Aj0PVqksOn3VOVefJmSvudjkcZv0hl9UnkEbybrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjQ1/NjgtMTYzMjc2NzEz/MC04NTMzLmpwZWc.jpeg) | 1986 | Glenn Miller | Greatest Hits |
+| 52 | ![Cover](https://i.discogs.com/mY6ibAHt46yseARmCQFF9RB6SlAEYa7q2u9vidQFj6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzU1/MTMtMTM2MDQzMjg5/NC03NTU5LmpwZWc.jpeg) | 1988 | Sidney Bechet | SIdney Bechet 1932 - 1952 Original Recordings |
+| 91 |  | 1988 | John Surman | Private City |
+| 22 |  | 1990-01-15 | Giora Feidman | The Magic Of The Klezmer |
+| 32 |  |  | Basavilbaso Cesar Lerner&#x2F;Marcelo Moguilevsky | Klezmer en Buenos Aires |
+| 34 |  | 1989-07-25 | Peter Bastian &amp; Stig Møller | Forest Walk |
+| 35 |  |  | Benny Goodman &amp; His Orchestra | Ridin&#39; High |
+| 46 | ![Cover](https://i.discogs.com/fPRGG6GmL-ya4jGpLZirR_iItq6PlFBpsGQdum9SVv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTg3/ODgtMTQ1MTcxNTcx/MC04ODAwLmpwZWc.jpeg) | 1962 | Johnny Dodds | New Orleans Stomp: 1926-1927 |
+| 44 | ![Cover](https://i.discogs.com/C4VlFfLK5R2qxw9AOD-zTgg5yTCwn6Ls1dk4gMh2-QA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTc2/NTAtMTQwNzE3ODU3/My01MjYzLmpwZWc.jpeg) | 1963 | Jimmy Giuffre | Free Fall |
+| 89 | ![Cover](https://i.discogs.com/EBgiMmjdlBmA6l2z0p6lOq1XqxshK7iNWifWmotMs3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjk1/NDItMTU1MzgzNDY5/Ni0zMzQwLmpwZWc.jpeg) | 1991 | Johnny Dodds | Myth of New Orleans |
+| 10 | ![Cover](https://i.discogs.com/TLQlWXdvQ3gNhnKTiSC7b6N2_qVQqZinqUqCCeRMcD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjU0/NzItMTIzOTQwMDU3/NC5qcGVn.jpeg) | 1992 | Johnny Dodds | 1923-1929 |
+| 18 | ![Cover](https://i.discogs.com/kCiMd9X4Dhe9oD7m93LRtY33yhHDndlOKeaiR8c5L-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU4/MjU5LTE1MDkwNzA5/NTItNzY0MC5qcGVn.jpeg) | 1992 | Johnny Dodds | 1926 - 1940, Part One CD 2 |
+| 36 | ![Cover](https://i.discogs.com/RwPEqAxE-hCLSzo2_85Cdi0vIeGbIMpsmaD-VsiSC7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY1/ODk1LTE1NTg1OTY5/NDUtNDYyNS5qcGVn.jpeg) | 1992 | Wolfgang Amadeus Mozart | MOZART: Clarinet Quintets |
+| 54 | ![Cover](https://i.discogs.com/RQNsr5RASTOWEA9Ei-FGu8StedtwoPvrWFwkrI_vLtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTk0/NTMwLTE1MjYzMTU2/MzgtMjI4Ni5qcGVn.jpeg) | 1992 | Benny Goodman | The Greatest Jazz Clarinet |
+| 78 |  | 1992 | Don Byron | Tuskegee Experiments |
+| 79 |  | 1992 | Sidney Bechet | The Collection |
+| 13 | ![Cover](https://i.discogs.com/f4f-IZvsPUnz6fzqkncw6QsI_6qC-dLbk-8n8XnHBNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzcx/NzIyLTE1NTI5NDI5/MzUtMzY4MS5qcGVn.jpeg) | 1993 | Bernhard Henrik Crusell | Crusell, B.H.: Clarinet Concertos Nos. 1-3 |
+| 24 | ![Cover](https://i.discogs.com/f4f-IZvsPUnz6fzqkncw6QsI_6qC-dLbk-8n8XnHBNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzcx/NzIyLTE1NTI5NDI5/MzUtMzY4MS5qcGVn.jpeg) | 1993 | Bernhard Henrik Crusell | CRUSELL: Clarinet Concertos |
+| 26 | ![Cover](https://i.discogs.com/_TSBVjWPhPw-3gB1nmA-Wvx6Ob55gPqTGmOsooQayfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzY5/NDItMTMxNzQ4NzY4/NC5qcGVn.jpeg) | 1993 | Charlie Christian | Guitar &amp; Bass |
+| 31 | ![Cover](https://i.discogs.com/hLnUETaxcrGEXLjS_8wZ5O7Pdm8MFjCrDRJzShnLzY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTk4/NTUtMTQwNzc4MzU3/Ny01NTQwLmpwZWc.jpeg) | 1993 | Giora Feidman | Magic of the Klezmer |
+| 67 | ![Cover](https://i.discogs.com/LE1e87WySC5cM8UcsaJly8Fzj8qGQ0SAvUA2FNPT6cU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjQ2/MjktMTQwOTA2Nzk5/OS05MzE4LmpwZWc.jpeg) | 1993 | Acker Bilk | Reflections |
+| 48 |  | 1994 | Acker Bilk | Songbook |
+| 64 |  | 1995 | Don Byron | Music for Six Musicians |
+| 33 | ![Cover](https://i.discogs.com/6kcnwzVu_2pW7axr3oO704lQEbc9-Q3CW5GkISpyBho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjk4/MTYtMTM1OTE2Mjg1/OC05NTQ3LmpwZWc.jpeg) | 1997 | Jimmie Noone | Apex of New Orleans Jazz |
+| 92 | ![Cover](https://i.discogs.com/ZZg5mmd7L1E5KlO4mOLj_O0FzOjX1uKxXkgD7vLGSDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTE0/NDEtMTQxODU2Mzg5/Ny05OTc3LmpwZWc.jpeg) | 1997-01-27 | Acker Bilk | Stranger on the Shore: The Best of Acker Bilk |
+| 19 | ![Cover](https://i.discogs.com/Owu_cl2-7RgjRLgT5HjU8y1h8Zs4ieVXUGb16SAo6Uk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgx/NjY2LTE0OTgzMzg0/MzItMzA1MS5qcGVn.jpeg) | 1998 | Richard Stoltzman | Danza Latina |
+| 60 | ![Cover](https://i.discogs.com/ix0eGf3bOdQ68ekVdXltdqCJt1VhYnHBEz3W4uRXn-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDY0/MDUtMTQzNjE1ODMy/OS0zOTA5LmpwZWc.jpeg) | 1999 | Richard Stoltzman | WorldBeat Bach |
+| 85 | ![Cover](https://i.discogs.com/K8kJ0OOW5I8YhfwhO_vfms0WUOJtFTSpidC4OP8KkpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDA0/NDYtMTQ1NzAyMDky/Mi0zNjU0LmpwZWc.jpeg) | 1999 | Peggy Lee &amp; Benny Goodman | The Complete Recordings 1941-1947 |
+| 50 | ![Cover](https://i.discogs.com/3dZEqtNk_dSNPQI8i3xlkHBfp7KhzRAQkOWZdpgJWMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTU4/ODIzLTE2MTA4MjA4/MjEtMTcwNC5qcGVn.jpeg) | 2000 | Fausto Papetti | In a Sentimental Mood |
+| 76 | ![Cover](https://i.discogs.com/u30VeRmNimKvn_by5S8BW8ZyjlF8gvnEk573IozBSQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDg4/NjItMTYwOTQwODY0/My01NDMwLmpwZWc.jpeg) | 2000 | Krzysztof Penderecki | Sextet &amp; Clarinet Quartet etc. |
+| 80 | ![Cover](https://i.discogs.com/nGTZjRKnw8HmUGOtmkhEd7SrAO5xnJZqeI1Y5gPOGEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTAy/NzUtMTQ2Mzg1OTUz/MS05MzkzLnBuZw.jpeg) | 2000 | Ot Azoj | Klezmer For Kishinev |
+| 61 | ![Cover](https://i.discogs.com/XSZUyWAKjtBS2XW3WKRWVpRyjDIEuG9amh0_cXG9qJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Njgx/NzQtMTQ5ODUxNTA1/Ny02MTQzLmpwZWc.jpeg) | 2001 | Johannes Brahms | Brahms: Sonatas for clarinet and piano Op. 120 |
+| 55 | ![Cover](https://i.discogs.com/cWPPRBLAMT1yMR5yQ4VY-1McpC-BmneMLvBDUmkec9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk5/MTQyLTE1ODM2OTUy/MTAtNzU4NC5qcGVn.jpeg) | 2002 | Paquito D&#39;Rivera | Historia Del Soldado |
+| 99 | ![Cover](https://i.discogs.com/EfF7a2aSQu1wzgX_x7xAPvSDTBST3lgYntiHmBw7zhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMz/OTg3LTE1NjAwMDI0/NDQtMjQ1Ni5qcGVn.jpeg) | 2002 | Benny Goodman | Benny Goodman |
+| 56 | ![Cover](https://i.discogs.com/h2twP_KxoeEPwuqZ17Wj0BA8mmiJKq97CJcItE1y_YI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDY4/Mi0xMzc3ODc2NTIz/LTQ0OTEuanBlZw.jpeg) | 2002-02-19 | Louis Sclavis | Dans La Nuit |
+| 4 | ![Cover](https://i.discogs.com/gdMgWCZn7V5NOqL4wkt0dni0JzN9v02PAFSkwZJX4B4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDE0/OTk4LTE2MTExNDQx/MjUtNjQwMy5qcGVn.jpeg) | 2003 | Acker Bilk | Boaters, Bowlers and Bowties |
+| 68 |  | 2003-10-07 | Louis Sclavis | Napoli&#39;s Walls |
+| 25 |  | 2004-07 | Gianluigi Trovesi &amp; Gianni Coscia | Round About Weill |
+| 74 | ![Cover](https://i.discogs.com/o2dl2pm2nooN9e8Uenmn2_w8vm8NuiEFZkxe8ndKPd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzEw/MDktMTM3NDE5NTkw/OS04NDIzLmpwZWc.jpeg) | 2005 | Paquito D&#39;Rivera | Portraits of Cuba |
+| 97 | ![Cover](https://i.discogs.com/6UhEO5d5y4lzNt5ObVaPLGoYGzJauN4smUyli0WkoXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTM1/NC0xNDA1NjI3ODkx/LTM3MjAuanBlZw.jpeg) | 2005 | Tony Scott | Music For Zen Meditation And Other Joys |
+| 57 | ![Cover](https://i.discogs.com/LbVDRlmy2Pzl7-6xz7UytZM3MvzNZeYZ2P9rIiUfkCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ1/MTcyLTE2MDU5MDAw/MTktOTEzNC5qcGVn.jpeg) | 2006 | Robert Schumann | Schumann: Works for Clarinet and Piano |
+| 8 | ![Cover](https://i.discogs.com/6tl9b_h9Wh0jEemccKGZU37NAfe-ht5edep02KJGqOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzEy/ODEtMTMyMDY3MjAx/My5qcGVn.jpeg) | 2006-04-18 | Tango Saloon | Tango Saloon |
+| 53 | ![Cover](https://i.discogs.com/UYKwdHSOn5hTgg9YcIHLGgyyjouyzdld74kSx04Glnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjE5/NjItMTUwOTIxNzM4/OC0yNzcyLmpwZWc.jpeg) | 2006-05-22 | Eddie Daniels | The Five Seasons |
+| 7 | ![Cover](https://i.discogs.com/NPGEauMR8C8U_72NCh1E-qtGCHHfJ5tkaXoTPbqWDIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjA1/MzI3LTE2MDUyNTM4/ODctMTA4My5qcGVn.jpeg) | 2007 | Buddy DeFranco | Wholly Cats |
+| 41 | ![Cover](https://i.discogs.com/haSdivCfrRA478yInr3UJBcKHAyQxkFnzP41wXDonNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTM0/OTAtMTQ0MDUzMzQz/MS04MTY4LmpwZWc.jpeg) | 2007 | Alvin Batiste | Marsalis Music Honors Alvin Batiste |
+| 81 | ![Cover](https://i.discogs.com/cKddnO4HYm1-hyZtiBOnDe6h_2zGFWybSYQfjgQiaeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODgy/NS0xMTgyNDQ1MTIx/LmpwZWc.jpeg) | 2007-06-17 | June Madrona | A Long And Ugly Road (European edition) |
+| 16 | ![Cover](https://i.discogs.com/tji7ZncJOPCcHQLGZuwcS6OjVNwP4-QC7DLMCRbOqwk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzMz/MjM2LTE2MjE5NTcw/NjctNDI1NC5qcGVn.jpeg) | 2007-10-25 | Walter Boeykens | Wolfgang Amadeus Mozart, Clarinet Concerto in A KV 622 &amp; Clarinet Quintet in A KV 5 |
+| 87 |  | 2007-11-13 | Cars &amp; Trains | Rusty String |
+| 88 |  | 2008 | The Tango Saloon | Transylvania |
+| 38 |  | 2008-03-25 | Randy Newman | Leatherheads |
+| 59 |  | 2009 | Vandermark 5 | Annular Gift |
+| 77 | ![Cover](https://i.discogs.com/_Yzm87v8kg0pdz90cJCJrxR2PhC_bJT4Jj-Pc7oQ5hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTE0/OTMtMTQyNjcwNjEw/Mi02OTQ5LmpwZWc.jpeg) | 2009 | Yom | Prière |
+| 90 |  | 2009 | Various Artists | THE ART OF THE CLARINET |
+| 49 |  | 2010-04-13 | Anat Cohen | Clarinetwork: Live at the Village Vanguard |
+| 39 | ![Cover](https://i.discogs.com/8vc24WVgZH9fnZUzjHXvR3Hdee7skF8r2W84aUZ8Yrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjM2/OTMtMTM0OTk3ODI4/MC00Mjg5LmpwZWc.jpeg) | 2011 | Wilful Missing | Molehills out of Mountains |
+| 47 |  | 2011-10-11 | 3 Cohens | Family |
+| 37 | ![Cover](https://i.discogs.com/Eu2RSP2zVjcSt_yL8e2yQc6OqoaK-P42tyv6BKVMPws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDM4/MjUtMTQ2Mzc0MDkw/NS04MTUyLmpwZWc.jpeg) | 2011-11-21 | Golfam Khayam | Narrante |
+| 6 | ![Cover](https://i.discogs.com/A8xaZJaoOtHkuaraZpJFBD2wafZaOVIj0osk1XnT8TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjUw/NTg1LTE2OTk0Mzc4/MDUtNzU5MC5qcGVn.jpeg) | 2013 | Sabine Meyer | Mozart: Serenades, Quintets, etc. |
+| 5 | ![Cover](https://i.discogs.com/HAEvXuC5HpPH2CAF1DfUmvYmKcl7Gqt-JLTcU07fg1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA1/MTU1LTE1NjcwOTA0/MzItNjcwOS5qcGVn.jpeg) | 2013-02-13 | Hans Mortelmans &amp; Groep | Zand |
+| 69 | ![Cover](https://i.discogs.com/GQWchJo6qJGPd5nRCxd55oB9qoz4PjruGV8aPGudcf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTg5/ODktMTQ2NzI4NTUx/MC04ODg1LmpwZWc.jpeg) | 2013-06-02 | Alban Berg | The Art of the CLARINET |
+| 28 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/411865e329d0fb5d4c9bc4696073abe7.png) | 2015 | Louis Spohr | SPOHR: Clarinet Concertos Nos. 1 and 3 &#x2F; Potpourri, Op. 80 |
+| 94 | ![Cover](https://i.discogs.com/Ey3W7sPUNwWn_rfV-aw6xugef_Hm75f7VcO85vUWgEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU1/NTQtMTQ1OTc5MTY0/MC0yOTM1LmpwZWc.jpeg) | 2016 | wacław zimpel | Lines |
+| 98 | ![Cover](https://i.discogs.com/8UFZnE__H203dpmUu1EX5mZSI0fyyxpXDBzy6eEkMnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODM1/NDMtMTQ4OTY2NTk1/OC03NzY5LmpwZWc.jpeg) | 2017 | The Most | At Once |
+| 82 | ![Cover](https://i.discogs.com/4zafAbKbQm1J6Dj3z7fD9rkGxCVInZaS1v0haljNW8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg4/NDA5LTE2NjY1NDE5/ODgtOTk0My5qcGVn.jpeg) | 2020-10-09 | The Most | Of What We Have |
+| 100 | ![Cover](https://i.discogs.com/Z1Bqn6LoJF8sPAXNZio0M_YcvdtA-5vqJ2hW8-vnT4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTY2/MTQ2LTE2MTY0ODUx/OTktOTM0NC5qcGVn.jpeg) | 2021-03-12 | Pino Palladino | Notes With Attachments |
+| 95 | ![Cover](https://i.discogs.com/0BJC0Q6DlN2ZioPwOx9O98kbz50EMHRoVXlFVqX1Gvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTE0/MjcxLTE2MTczNDc0/MzktNjYyNy5qcGVn.jpeg) | 2021-04-02 | BRUIT ≤ | The Machine is burning and now everyone knows it could happen again |
+
+### Related genres
+
+- [jazz]({{ "/tags/jazz" | relative_url }})
+- [classical]({{ "/tags/classical" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})
+- [piano]({{ "/tags/piano" | relative_url }})
+- [oldies]({{ "/tags/oldies" | relative_url }})
+- [swing]({{ "/tags/swing" | relative_url }})
+- [easy listening]({{ "/tags/easy-listening" | relative_url }})
+- [trombone]({{ "/tags/trombone" | relative_url }})
+- [bass]({{ "/tags/bass" | relative_url }})
+- [folk]({{ "/tags/folk" | relative_url }})

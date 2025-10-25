@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-23T11:44:30.053Z
+permalink: tags/grunge
+title: grunge
+---
+
+## grunge
+
+Last updated: <time datetime="2025-10-23T11:44:30.053Z">Thu Oct 23 2025 14:44:30 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 67 | ![Cover](https://i.discogs.com/tryat2cpONHCNndsxvDze-VFt9nYzV58HwVmNvzSkyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTU3/NTctMTQzMzA4MDMy/MC05NjExLmpwZWc.jpeg) | 1979 | Julie | flutter |
+| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b673c7e172bb47c99fe20104a1c6518e.png) | 1988-10-01 | Mudhoney | Superfuzz Bigmuff plus Early Singles |
+| 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/be6c0c1bed5a460e7d74b114935a26d6.png) | 1989-06-01 | Nirvana | Bleach |
+| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3efe7734ad166f95afb829a297e82573.png) | 1989-09-05 | Soundgarden | Louder Than Love |
+| 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0698a59a0b874793a11d3f081b14d48a.png) | 1990-08-28 | Alice in Chains | Facelift |
+| 17 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4874aada7d1653194665bce225194b3c.png) | 1990-09-13 | Green River | Dry As A Bone&#x2F;Rehab Doll |
+| 4 |  | 1991 | Melvins | Bullhead |
+| 46 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d0c650e7f12684cd3dae5b865f9d1832.png) | 1991 | Pearl Jam | Jeremy |
+| 76 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3864284905b70443ea6ba6f47ab899ae.png) | 1991-03 | Temple of the Dog | Temple of the Dog |
+| 34 | ![Cover](https://i.discogs.com/dCnpBSfWFLEhSTaGrlABdKvctXyHHH0r5VoPlIOIOFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDEy/Mi0xMzAzODY1NDQ4/LmpwZWc.jpeg) | 1991-07-01 | Hole | Pretty On The Inside |
+| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4dfa0959e9534f8dcfd24d5dc5110589.png) | 1991-08-27 | Pearl Jam | Ten |
+| 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e8693de0a153e609b3eaebb42d62e8be.png) | 1991-09-24 | Nirvana | Nevermind |
+| 66 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d1ebdbac3445a7922feeccee2c718291.png) | 1991-10-08 | Soundgarden | Badmotorfinger |
+| 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ea2010be57a0c2d1544746e90ea0cd29.png) | 1992 | Pearl Jam | MTV Unplugged |
+| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/671b3011eabb474c9e41c001cc24d569.png) | 1992-01 | Nirvana | Come as You Are |
+| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a78bbd5ff0184115902f403212f04976.png) | 1992-01-01 | Nirvana | Incesticide |
+| 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d7c7273112f64bb999c0e099ae52f41e.png) | 1992-02-04 | Alice in Chains | Sap |
+| 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ffa75f10eb7c119cd98ebebe1f564556.png) | 1992-04-14 | L7 | Bricks Are Heavy |
+| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/877177b7affb4f5a065539413b8633a8.png) | 1992-09-08 | Screaming Trees | Sweet Oblivion |
+| 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bc5bbe4aef79d70617e2e9ee8a701221.png) | 1992-09-14 | Blind Melon | Blind Melon |
+| 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b3d01be823cd4d25a1994f476f186adf.png) | 1992-09-21 | Radiohead | Creep |
+| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c1dd25f6e16c6b047675a816bdc323cb.png) | 1992-09-29 | Stone Temple Pilots | Core |
+| 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/35bc4e8dc7345bed22e3763b4ac98efe.png) | 1992-09-29 | Alice in Chains | Dirt |
+| 20 |  | 1992-11-10 | Mother Love Bone | Mother Love Bone |
+| 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5a5f6501a4adc337a9bdcb7e8575e6b5.png) | 1993 | Nirvana | Bleach: Deluxe Edition |
+| 69 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d56592ca7b754d8b0160774fb603eaa1.png) | 1993 | The Smashing Pumpkins | Siamese Dream (2011 - Remaster) |
+| 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5c4b6583f6112eaa243f12ca00527068.png) | 1993 | Alice in Chains | Dirt (2022 Remaster) |
+| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ab3d7a2fb12094e5cd4515701333547f.png) | 1993-02-08 | Hey | Fire |
+| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e6b38ee9858b906470ba6826825b9354.png) | 1993-02-22 | Radiohead | Pablo Honey |
+| 58 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7fdce7b9c7aac2ae8fe2a2a8defaa29c.png) | 1993-07-16 | Candlebox | Candlebox |
+| 41 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4c7673e1167f9ce165ee1df772510636.png) | 1993-09-21 | Melvins | Houdini |
+| 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f8b772fdce8284a7c20cc254c7b32796.png) | 1993-09-21 | Nirvana | In Utero |
+| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6f53d65d4e24e20462e38bb682196154.png) | 1993-10-08 | Pearl Jam | Vs. |
+| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1397dc507209cbdbe5b8575fbafa9878.png) | 1994 | Soundgarden | Superunknown (20th Anniversary) |
+| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/052b875cb32ac1953a152b4122e16a76.png) | 1994 | Bush | Sixteen Stone (Remastered) |
+| 83 | ![Cover](https://i.discogs.com/g7ngApOHZ8NNhXqo6UuvfZxWiJrgo2OJ-aaxfa2NFpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzgx/MS0xNDg5OTc3NTc3/LTM3MzkuanBlZw.jpeg) | 1994 | Alice in Chains | Jar of flies&#x2F;Sap |
+| 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1548e6e04cec4c7acc36e82bb1ed8533.png) | 1994-01-18 | Alice in Chains | Jar of Flies |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5d6d49f2da6f4ca3afdad5d8cd3a4016.png) | 1994-01-25 | Meat Puppets | Too High To Die |
+| 88 | ![Cover](https://i.discogs.com/g7ngApOHZ8NNhXqo6UuvfZxWiJrgo2OJ-aaxfa2NFpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzgx/MS0xNDg5OTc3NTc3/LTM3MzkuanBlZw.jpeg) | 1994-01-25 | Alice in Chains | Jar Of Flies &amp; Sap |
+| 89 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ba46062e0b094a889ac06447fd5714f8.png) | 1994-03-07 | Soundgarden | Superunknown |
+| 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6373e00a55bdbd68fe24369d2d05b2ee.png) | 1994-04-08 | Hole | Live Through This |
+| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4d326702e781905527b259632316bf05.png) | 1994-06-06 | Stone Temple Pilots | Purple |
+| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2a07a915e9e9e4bec93bdbf47189b290.png) | 1994-08-23 | Toadies | Rubberneck |
+| 31 |  | 1994-10-28 | Melvins | Stoner Witch |
+| 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8e4304de63b44d6ca8f9d3df2576ac8f.png) | 1994-10-31 | Nirvana | MTV Unplugged in New York |
+| 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/aa9a8b1bfead46a4c697629a7d16d8f5.png) | 1994-11-22 | Pearl Jam | Vitalogy |
+| 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d1a4d1232be8326184b7d1cc0f391a61.png) | 1994-12-06 | Bush | Sixteen Stone |
+| 72 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4526c6a7d73143b7812e3831aa38bda2.png) | 1995-03-14 | Mad Season | Above |
+| 47 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8e7bc63047df4a5b9f5a5bc1f48abdc6.png) | 1995-03-27 | Silverchair | Frogstomp |
+| 85 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/80cebe520d504911bd24d1daaba6b167.png) | 1995-06-26 | Foo Fighters | Foo Fighters |
+| 75 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/71163a63e67a30c97209c394c66b559c.png) | 1995-11-07 | Alice in Chains | Alice in Chains |
+| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ca9a32eb130ed1554ef03d87c5ce190c.png) | 1996 | Nirvana | In Utero - 20th Anniversary - Deluxe Edition |
+| 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/404284b94d716c4c830f151ca8c12060.png) | 1996 | Silverchair | Freak Show |
+| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/28bebb6b3c89913145039c541c6019ca.png) | 1996-03-26 | Stone Temple Pilots | Tiny Music...Songs From The Vatican Gift Shop |
+| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c461cbe9d491414986f8c77fe91d32a3.png) | 1996-04-10 | Alice in Chains | MTV Unplugged |
+| 64 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/58cbe1d4cc2b4077abf97c2c6f7b1a7b.png) | 1996-05-13 | Soundgarden | Down on the Upside |
+| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0f0f8cd1d2cca69620a2d264b2897968.png) | 1996-06-25 | Screaming Trees | Dust |
+| 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bb4c815f04bab7a1ab2bd888f7a9b33c.png) | 1996-08-14 | Pearl Jam | No Code |
+| 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5c2c58c7008e472ec7fb0c438ba111cf.png) | 1996-09-30 | Nirvana | From the Muddy Banks of the Wishkah |
+| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3d32d5452a72b1e7db186287697d3162.png) | 1996-11-19 | Bush | Razorblade Suitcase |
+| 26 |  | 1997-06-03 | Days of the New | Days Of The New |
+| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0b4a78e2aa35fac124ed2e20a0d5cd54.png) | 1997-11-04 | Soundgarden | A-Sides |
+| 71 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9fff59c4549146c6c6111b508b47c555.png) | 1998-01-28 | Pearl Jam | Yield |
+| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bfe6b5c34f8742b0985037025d915c63.png) | 1998-04-07 | Jerry Cantrell | Boggy Depot |
+| 84 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/27e69382f1a0e7a50e06f4edc50c66f9.png) | 1998-09-02 | Hole | Celebrity Skin |
+| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dc7978c66ee5d347a69a7589d79df9ea.png) | 1998-11-20 | Pearl Jam | Live On Two Legs |
+| 61 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/683f9de0a04d4e6282cb9ec2ff0b1cd2.png) | 1999-03-05 | Silverchair | Neon Ballroom |
+| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3f24d769245e8c79ca5aea15364879fb.png) | 1999-10-26 | Alice in Chains | Music Bank |
+| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b85c62ed8320002d5279779085d7e640.png) | 1999-10-26 | Stone Temple Pilots | No. 4 |
+| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a7d88fb03f4f4847b7038a143c0bce19.png) | 2000-05-16 | Pearl Jam | Binaural |
+| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3894a6eb4054cfd51178cc2f8c32c1f4.png) | 2001-07-24 | Alice in Chains | Greatest Hits |
+| 19 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b7b1719d7718400fc0e8565a59545bb1.png) | 2001-10-23 | Bush | Golden State |
+| 59 |  | 2002-08-20 | Seether | Disclaimer |
+| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/573899052466479da97b9207a780d06f.png) | 2002-10-18 | Nirvana | Nirvana |
+| 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/81eaded3977e15c717f1552c64bf757c.png) | 2003-11-10 | Stone Temple Pilots | Thank You |
+| 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d9d503d11af105587eb785c9302910bc.png) | 2004 | Nirvana | Nevermind (Deluxe Edition) |
+| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6b44c10a9d354ac79f6b62dc389c1f20.png) | 2004-02-10 | Courtney Love | America&#39;s Sweetheart |
+| 13 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dd1b381dd5be4a51bbef511bcbc087c4.png) | 2004-03-30 | Alice in Chains | The Essential Alice In Chains |
+| 60 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/72863af9a98630bf09c596e347b1670b.png) | 2004-11-16 | Pearl Jam | rearviewmirror (greatest hits 1991-2003) |
+| 28 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/83222b653ba5456dbd61cde3a9a108fc.png) | 2004-11-23 | Nirvana | With the Lights Out |
+| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bd323dd72702474f9efdf3efc5541d3c.png) | 2006-04-28 | Pearl Jam | Pearl Jam |
+| 99 | ![Cover](https://i.discogs.com/xt2rqzeM8ushfqDwoiwGP0e_cQTlb4ML4SdAD-QBRmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzY4/MjM1LTE2OTU0NTE1/MzktODcyMy5qcGVn.jpeg) | 2006-06-30 | Wisp | Your face |
+| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3c2c7235d48443e1a84338030ca6e0d9.png) | 2009-09-18 | Pearl Jam | Backspacer |
+| 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1fd4ea2f6f3448bd9365cb63c8cb2aa3.png) | 2009-09-25 | Alice in Chains | Black Gives Way to Blue |
+| 37 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e80525237ce584f30a43cf0e984d861b.png) | 2009-10-30 | Nirvana | Live at Reading |
+| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4a6e03d6baf0b969889009dcbe6f16a5.png) | 2010-09-23 | Soundgarden | Telephantasm |
+| 35 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d15e8f1110eb49f8b40ded85ca881f10.png) | 2011 | Nirvana | Nervermind |
+| 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d97d21d3884088e85785eb471f3c431b.png) | 2011 | Nirvana | Nevermind (Remastered) |
+| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d3553672826d4e72b61fdd89d9478276.png) | 2012-11-09 | Soundgarden | King Animal |
+| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/053e076d94934bcba4bcb620cdd97915.png) | 2013-05-24 | Alice in Chains | The Devil Put Dinosaurs Here |
+| 68 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/567fdac721d344b0c4316bd836ffb272.png) | 2014-09 | Superheaven | Jar |
+| 36 |  | 2014-09-30 | Three Days Grace | I Am Machine |
+| 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/09b3cd69a1c34a768c4cd1fb9ad37ffe.png) | 2015-11-13 | Kurt Cobain | Montage Of Heck: The Home Recordings |
+| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dcbc31f7a485c789677be256f7ce741d.png) | 2020 | Sorry | 925 |
+| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8dd374b985a13be971caf32a2a5f174f.png) | 2021 | ZillaKami | Dog Boy |
+| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/111ad8a71e8f19d4ccbe85689f3492d3.png) | 2022-01-14 | Red Vox | Visions |
+| 82 | ![Cover](https://i.discogs.com/BogQkGc9jkDfxWX44YjO68kVWtpGMK88-DJrVdwSHa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjE1/MDYxLTE3MzQ2Njc0/NDktMTMzMS5qcGVn.jpeg) | 2022-02-24 | Isabel LaRosa | HAUNTED |
+| 63 | ![Cover](https://i.discogs.com/w2xWqsDD25HJ5zZdIZKSKnYiSIS0pgpoOylW8E8aKJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQ5/NzUxLTE2NzU5OTQy/OTYtMzgxNy5wbmc.jpeg) | 2023-02-10 | Pierce The Veil | The Jaws Of Life |
+| 57 | ![Cover](https://i.discogs.com/GeOsekGgmlXvzNbuwFF2LjV3l1-G3k5vUa-h3-2IAkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTcw/MTUzLTE2NjAyMzU1/NjgtMTY1NS5qcGVn.jpeg) | 2023-02-17 | Julie | pg.4 a picture of three hedges&#x2F;through your window |
+| 49 | ![Cover](https://i.discogs.com/UGGHhiKp16UtV-cbk4dR3fhDClM8jwwYV7yST4We6e0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTU2/OTMwLTE3MjA3NDk3/NzktNTYzNS5qcGVn.jpeg) | 2023-08-18 | J-Hope | Jack In The Box (HOPE Edition) |
+
+### Related genres
+
+- [rock]({{ "/tags/rock" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [alternative rock]({{ "/tags/alternative-rock" | relative_url }})
+- [hard rock]({{ "/tags/hard-rock" | relative_url }})
+- [indie rock]({{ "/tags/indie-rock" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
+- [post-grunge]({{ "/tags/post-grunge" | relative_url }})
+- [stoner rock]({{ "/tags/stoner-rock" | relative_url }})
+- [shoegaze]({{ "/tags/shoegaze" | relative_url }})
+- [heavy metal]({{ "/tags/heavy-metal" | relative_url }})

@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T16:50:16.197Z
+permalink: tags/beat
+title: beat
+---
+
+## beat
+
+Last updated: <time datetime="2025-10-22T16:50:16.197Z">Wed Oct 22 2025 19:50:16 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 1 |  |  | Knitting Turtle | The Four EP |
+| 21 | ![Cover](https://i.discogs.com/ZwY39GTgCGcsGTYoyzDaYSw4jXU0y0U6OFp2RIZX8vk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODE2/NjUtMTQ3MDcxNzUw/Ny05NTMzLmpwZWc.jpeg) | 1965-03-15 | The Beatles | Please Please Me&#x2F;With The Beatles&#x2F;From Me To You&#x2F;She Loves You |
+| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/abcda5930d4a41659da76a6285c1b469.png) | 1965-07-23 | The Moody Blues | The Magnificent Moodies |
+| 49 | ![Cover](https://i.discogs.com/CyCHztqOzY8fmD1fq1A9Fd5P_RIqJge77b5xs8_EBXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkw/NjQtMTUzNTk1NDIz/NC04MDM4LmpwZWc.jpeg) | 1966 | The Cryan&#39; Shames | Sugar And Spice |
+| 24 | ![Cover](https://i.discogs.com/XqVxMB3WimD9KgSzBM8S8fFy6Ul8ju6nbpsdru4YPoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjYz/NTItMTQyMTIzNDY0/NS00NjY0LmpwZWc.jpeg) | 1967 | Dave Dee, Dozy, Beaky, Mick &amp; Tich | The Legend Of Dave Dee, Dozy, Beaky, Mick &amp; Tich |
+| 28 | ![Cover](https://i.discogs.com/5L0Ls5DonSUiSI1jXLMo3OAuAHzU-vsPL3dLHklGWDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzI3/MTAtMTM1NDMxMTg5/NS0xNzAzLmpwZWc.jpeg) | 1974 | Olympic | Jedeme jedeme |
+| 18 | ![Cover](https://i.discogs.com/mxy6MI-YpWDU2IgBEbcLevJOflsUTWAHBvSX9ZtJVnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODM5/OC0xMjcwNjY4NjA4/LmpwZWc.jpeg) | 1977 | Idris Muhammad | Louie Vega - Choice , A Collection Of Classics |
+| 23 | ![Cover](https://i.discogs.com/kX1IO9A1O60gu5cXu_phTiFHF7bSF8Sf7_Yz6J0Ghck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTM5/ODQtMTYwODIwNDQ4/MS03MTA3LmpwZWc.jpeg) | 1985 | Eric Burdon | We Gotta Get Out Of This Place |
+| 22 |  | 1994-03-21 | Ohio Express | Golden Classics |
+| 20 |  | 1995 | The Matadors | The Matadors |
+| 33 | ![Cover](https://i.discogs.com/uwwZar7er8DsGwH4rEWcOjUugcSQt3_upw2BcoDnq38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjA5/MzgtMTQyNTMwNzA2/Ny00OTY0LmpwZWc.jpeg) | 1995 | Drafi Deutscher | Star Festival |
+| 29 |  | 1997 | Dežo Ursiny | Pevniny a vrchy |
+| 26 |  | 1999 | The Kaisers | Twist with The Kaisers |
+| 42 | ![Cover](https://i.discogs.com/L9Fw39C80is8JpZt_O2PLdX5Wy6iRLYRQS3GM6DQyxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzA1/MjY5LTE2MzkxODg2/MTAtODA5My5qcGVn.jpeg) | 2002 | The Beatles | Abbey Road [Remastered] |
+| 30 | ![Cover](https://i.discogs.com/37d3Clt3mvngGMR5ctw34RHEKICuHouCwI15NEF8HT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODE4/NjktMTM0MDUzNjQ0/NS0zMzY5LmpwZWc.jpeg) | 2003 | Montesas | Midnight Beat |
+| 5 | ![Cover](https://i.discogs.com/OWCDr7zFuPZFbnb19Bl26vlN-LiLWx6Ef54resn9RqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM4/ODctMTIwMTQ2MTky/OS5qcGVn.jpeg) | 2004-04-20 | Penelope Houston | The Pale Green Girl |
+| 31 |  | 2004-11 | Abuse | The Great Outdoors |
+| 16 | ![Cover](https://i.discogs.com/lCH2qJaEYSP1Dg7qUIB5PpXP3IqAXe8i0l2nGbDUw2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODA0/NzMtMTQwMTQxNTQ2/Ni03NDcxLmpwZWc.jpeg) | 2005 | Los Yetis | Historia Músical - 40 Éxitos del Festival de Ancón |
+| 41 | ![Cover](https://i.discogs.com/1yW_H6n5RnXr2ytVKXQisRUvCp5_nYvwhLpKvGObmA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjEz/OC0xNTIxMTY5MDI4/LTI1NzkuanBlZw.jpeg) | 2005 | The Star And Key Of The Indian Ocean | Vintage Soup ... |
+| 43 | ![Cover](https://i.discogs.com/TttDgyLaXX2PPwosK-NRFjWGSx6Kz5WGrRulezrwp_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODE4/ODEtMTM4MTI2OTky/MC04OTI2LmpwZWc.jpeg) | 2006 | SK123 | ...and at the end of it you get a bike |
+| 32 | ![Cover](https://i.discogs.com/KZ7kOhD_59n2mK8iVKW9IFH6Ehdcr0o1kz7BAe9GYes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzI2/Ni0xMTQzMzA5MDcw/LmpwZWc.jpeg) | 2006-01 | Chicken Lips | White Dwarf |
+| 47 | ![Cover](https://i.discogs.com/1tzb7ALYdeg9Ts8Si1Crc7TgbcY8eGr5dtG0K6_icAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ5/MzQtMTU1NTMzOTI0/NC0zODg0LmpwZWc.jpeg) | 2008 | Beat Assailant | Hard Twelve + Bonus Imperial Pressure 2008 |
+| 48 | ![Cover](https://i.discogs.com/dp-f5UM4D_rDc80s3grrys8_qgdPqIXG78NqNWz10ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkw/NTI5LTE2MzEzNTYw/NTgtOTkyNC5qcGVn.jpeg) | 2008 | Bob Dylan | The Cutting Edge 1965-1966: The Bootleg Series, Vol.12 (Deluxe Edition) |
+| 4 |  | 2008-03-26 | KatazTrophee | Inside the Shell |
+| 27 | ![Cover](https://i.discogs.com/rbgc0odAJLSj9_1azzkeRSupZq7SQS56yxyQeX6IAy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzA3/NDQtMTI5MDk5NDI2/NS5qcGVn.jpeg) | 2009-04-20 | Kooqla | Forecast EP |
+| 6 | ![Cover](https://i.discogs.com/bKstc56Pf2AjJTldrY0yFJedWPBXdi3XujbUoBexSlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzA3/NjAtMTI5MDk5NjEz/MC5qcGVn.jpeg) | 2009-10-12 | Kooqla | Leave me now |
+| 11 | ![Cover](https://i.discogs.com/osEuTd78A4FdOX4tsYylRVd4KcyrnHby4RtK2340Pp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzE4/MDktMTQ0NzYyMjE0/NS04ODg1LmpwZWc.jpeg) | 2010-04-28 | Wharmton Rise | Contrary Emotion |
+| 3 | ![Cover](https://i.discogs.com/6pmaWRa_B91LvGLW15R7ylRBUuab8ATaJ4AxFD0c_iY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzc1/NDAtMTMwODE1NjAz/Ni5qcGVn.jpeg) | 2010-09-27 | Polar Bear &amp; Jyager | Common Ground |
+| 7 | ![Cover](https://i.discogs.com/qeS7MwuanNRXn9T_RTElAZ8l4jy-YJMcUQv7aSB4p7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTEy/ODAtMTMyNjYzNTQ1/MC5qcGVn.jpeg) | 2011-05-27 | vlooper | COPYCAT (a Dilla Tribute) [GNL014] |
+| 15 | ![Cover](https://i.discogs.com/qeS7MwuanNRXn9T_RTElAZ8l4jy-YJMcUQv7aSB4p7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTEy/ODAtMTMyNjYzNTQ1/MC5qcGVn.jpeg) | 2011-05-27 | vlooper | COPYCAT (a Dilla Tribute) |
+| 2 | ![Cover](https://i.discogs.com/IZGFhjq83OueFjgVsCEoE516npVbuT8fRcJxVTpa6Jo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTk4/MjAxLTE2MzcwNDc0/ODItNDM3Ni5qcGVn.jpeg) | 2014-09-09 | Moment | Only Us |
+| 8 |  |  | luis lancaster | AD2005 |
+| 9 |  |  | Instrumental Hip Hop Beat Makers | Instrumental Hip Hop Beats |
+| 10 |  |  | VLooper &amp; KenLo | BULLESBUBBLES II2II |
+| 12 |  |  | qsb | mini LP |
+| 13 |  |  | Metricks | Unminimal |
+| 14 | ![Cover](https://i.discogs.com/XERpcaWSScu1PUhzenu8REZkRNgFYnrm1XNKwFSgsls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTc3/MzEtMTQ0NDk4ODIw/Ny05ODUwLmpwZWc.jpeg) | 2012-07-25 | Melodiesinfonie | In Your Mood EP |
+| 17 |  |  | PT Loren | The PT Loren ep |
+| 19 |  |  | PT Loren | Demos |
+| 25 |  |  | INADRM | Adaptation |
+| 34 |  |  | Alan Webster | you can&#39;t see what&#39;s hidden behind |
+| 35 | ![Cover](https://i.discogs.com/rm6ATPU7PP3-qAnt5rs8bpSlx88jFg_dfLQmQyEZmLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzAx/ODAtMTQ1NzU2MzY0/MC03NDA2LmpwZWc.jpeg) | 2009-06-09 | Veell | Overflower |
+| 36 |  |  | Despacito y Buenaletra | umilda (2007) |
+| 37 |  |  | The Beat feat. Ranking Roger | Bounce |
+| 40 |  | 2010-05-25 | Dara Puspita | 1966-1968 |
+| 44 | ![Cover](https://i.discogs.com/HWupRooG-7PttdymFNdAFwGHJF3PGTIlAzwm08T4nvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTYy/NDE0LTE1NjkwMDcx/OTUtMjk2MC5qcGVn.jpeg) | 2011-08-18 | Brock Berrigan | April&#39;s Neck Brace |
+| 45 | ![Cover](https://i.discogs.com/cICbRRR3F_dY23P_WlNKH7aqapFtoLmJrMP1oN6KLxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTEz/MjctMTQwMTY0NjQx/Ny05MjE0LmpwZWc.jpeg) | 2014-05-30 | Soulpete | SoSoulSynergy |
+| 39 | ![Cover](https://i.discogs.com/lzoTO19FXxUQwRbcu1iw3v_uECT-_SgzxEwwrbxQ48A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODQ0/MzItMTQ4NDcyODQ3/NS05MjQ4LmpwZWc.jpeg) | 2016-12-31 | Today is Tomorrow | Forecast Infinite |
+| 46 |  |  | Kill Hikari | heartsick |
+| 50 |  |  | Miroma | Chroma2002 |
+| 69 |  |  | Blake McKibben | Haze |
+| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4a2309f41df99879766214f57dc31c91.png) |  | Paul Revere &amp; The Raiders | Midnight Ride |
+| 95 | ![Cover](https://i.discogs.com/sAB1g0XIE0vH4UybSXzO51MDi-QIqU_g8_bwi5HNOUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzQ1/ODItMTM2NDYyODMy/Ny0xNjQ2LmpwZWc.jpeg) | 1963-08-23 | The Beatles | She Loves You |
+| 98 | ![Cover](https://i.discogs.com/BM7ULIgGq8EC0YCCxYHSvlzvLZr56YdEahqPWX_M0c8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQ2/ODQ5LTE1MDM1Njc0/NjctMzUwMy5qcGVn.jpeg) | 1963-11-29 | The Beatles | I Want to Hold Your Hand |
+| 100 | ![Cover](https://i.discogs.com/heql4yJZfKpZmJ1TqN4gimNmrJuFoI4_QqIXRZFati4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUx/OTEtMTM2NDYwMDU2/OC03NDA3LmpwZWc.jpeg) | 1967-05 | The Easybeats | Friday on My Mind |
+| 52 |  | 1968 | Omega | Trombitás Frédi És A Rettenetes Emberek |
+| 80 |  | 1969 | Metro | Metro |
+| 88 | ![Cover](https://i.discogs.com/2n775_hbUBV9w2c9PX8q7fsQBJyyEWVvM2y4AhKE-ac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTQ0/NTAtMTQ1NjYzNTc1/MC05MDc1LmpwZWc.jpeg) | 1969 | Skaldowie | Cała Jesteś W Skowronkach |
+| 64 | ![Cover](https://i.discogs.com/L9Fw39C80is8JpZt_O2PLdX5Wy6iRLYRQS3GM6DQyxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzA1/MjY5LTE2MzkxODg2/MTAtODA5My5qcGVn.jpeg) | 1973 | The Beatles | Live At The BBC - CD 1 |
+| 65 | ![Cover](https://i.discogs.com/Kq42A6FoZb_6xq81-AHmGpjv9CFJnwt9AkJ23HU2zfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI4/NjE4LTE1OTMwNzIx/MzktODM3Ny5qcGVn.jpeg) | 1973 | The Beatles | Live At The BBC - CD 2 |
+| 67 | ![Cover](https://i.discogs.com/E6_5WAc6xsgDlzKhIdXbGSy58ECLJH2TH1mzB_cLLdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDg1/NjAyLTE1Njc1NjY4/NDYtNDU4NS5qcGVn.jpeg) | 1977 | The Beatles | 1962-1966 (Red Album) |
+| 99 |  | 1977 | Idris Muhammad | Turn This Mutha Out |
+| 86 | ![Cover](https://i.discogs.com/Ol5MN5yHQ1aGnCRh5MJudW8YOFKrt2ntwUUfeyGIMHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODU3/MzktMTU4NDg5NjQy/OS01NTM4LmpwZWc.jpeg) | 1989 | Edison Lighthouse | Edison Lighthouse |
+| 84 | ![Cover](https://i.discogs.com/wvU77uBGOAZKBUu72e27YiIOC3qoj50VdhaPysXnek8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDA2/OTktMTQ1NTU4OTgw/Mi0yMDcyLmpwZWc.jpeg) | 1989-08-30 | The Beach Boys | Smiley Smile&#x2F;Wild Honey |
+| 82 | ![Cover](https://i.discogs.com/GZD-m2a3rQ_qrnNcONjb3fhShR8uo7bkHYN97b6Xauw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzUz/MzYtMTMwODA1NzAz/My5qcGVn.jpeg) | 1990 | The Swinging Blue Jeans | Live Shakin&#39; |
+| 94 |  | 1992-09-17 | Daniela Mercury | O Canto Da Cidade |
+| 71 |  | 1993-10-26 | Philip Glass | Hydrogen Jukebox |
+| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/219777c149c940afbfddcfda51b7eb85.png) | 1994-11-30 | The Beatles | Live at the BBC |
+| 62 |  | 1998 | Stan Freberg | The Very Best Of Stan Freberg |
+| 53 | ![Cover](https://i.discogs.com/9Flu8oZjvliPQ4cu6N9L4gerV49Wn29A8i5KgO0Kffk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjE0/MjQtMTQ2NzMyNzE4/OC00OTA1LmpwZWc.jpeg) | 2000 | Harmonia Do Samba | O Rodo |
+| 56 |  | 2001-11-20 | Beatfabrik | Wortshots |
+| 92 | ![Cover](https://i.discogs.com/lwt6qK2ouLQkVxiNYxAL9KHCVjFEmh393-4jZMtnhHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg3/NjctMTYyNzY4MzE4/Ny02OTg4LmpwZWc.jpeg) | 2003-11-11 | Nick Lachey | Soulo |
+| 59 | ![Cover](https://i.discogs.com/XGuY0OvSmH_cEjX22GkOAQuVGZanYdGyCHsYviaUMmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzk3/MzgtMTIyNzAyNDU0/Mi5qcGVn.jpeg) | 2004-02-17 | Charles Bukowski | Poems And Insults |
+| 73 |  |  | Petrol Presents | Petrol Presents The Greatest Songs Ever: North Africa |
+| 74 |  |  | Murillo Zyess | No Recinto |
+| 68 |  | 2005 | Smoove | Dead Men&#39;s Shirts |
+| 79 |  | 2005-02-25 | Ils | Bohemia |
+| 89 | ![Cover](https://i.discogs.com/l2ULzwfOVs3iZdFUqmsZXPh1-yluUQyvb1Nbk-Ph7ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjMy/NC0xNTczNjU5Nzk2/LTUxMTkuanBlZw.jpeg) | 2005-03-14 | Basement Jaxx | Oh My Gosh |
+| 66 |  | 2006 | Filastine | Burn It |
+| 85 | ![Cover](https://i.discogs.com/Uo8ZOHhZGq73kkaVIDVSg5BsmJvD78c96jokkWZq37g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODQy/MTQtMTUxMDQ4NTcy/Ni02NjUzLmpwZWc.jpeg) | 2006-01-20 | The Animals | Animals |
+| 55 |  | 2006-02-01 | Depth Affect | Arche-lymb |
+| 87 | ![Cover](https://i.discogs.com/wKNw38Hm6vL5UCW6yPWMOFfb0wL9vZjpCI1UTrs0ZBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODcx/Ni0xMTU5MjIwMTQ4/LmpwZWc.jpeg) | 2006-09-18 | Lack of Afro | Wait A Minute |
+| 76 |  | 2006-11-28 | Public Enemy | Beats And Places |
+| 51 | ![Cover](https://i.discogs.com/JvK939RPTRNQp7wvopGFFKMtLL7ZF7DddFMKC0x-MFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzU2/NS0xMzg1ODQxOTI5/LTI0MTMuanBlZw.jpeg) | 2006-12-01 | Monrose | Monrose Shame |
+| 57 |  | 2008-02-25 | Natalia | Pretty Like Me |
+| 54 |  | 2008-08-13 | Kroakers | Ruined and Going Downhill |
+| 58 |  |  | Alan Webster | alan webster |
+| 77 | ![Cover](https://i.discogs.com/6DDaFoBkCQYm6IDJFBR_2fXTastki37OGs2OFzvdtA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDU4/MzUtMTI4OTc5MDMx/My5qcGVn.jpeg) | 2009-11-16 | Kooqla | Paranormal |
+| 60 | ![Cover](https://i.discogs.com/Hqn_dy65dHsoRA2LgCBdpgpfan_R47_yVGtYrhjRuWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTkz/MTctMTQ3MzM2OTQ3/Ni0xMzQ0LmpwZWc.jpeg) | 2010 | Parangolé | Rebolation |
+| 61 | ![Cover](https://i.discogs.com/FUrAEG3kwo2HEkpm1i0N1QNZbw-9fOnM-MHUFXh33GI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTEy/OTItMTI2Njc4NTEy/Ni5qcGVn.jpeg) | 2010-02-08 | Riva Starr | If Life Gives You Lemons, Make Lemonade |
+| 63 |  |  | The Missing Teens | Music for Young Adults... |
+| 91 | ![Cover](https://i.discogs.com/Jzr_s1RhQUQKeaQ5ry6xHiT9TFvoBKqhcBjLCur9zDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDEx/OTI1LTE2MTkxMTI2/MjUtMjgxMS5qcGVn.jpeg) | 2011 | Cráneo | Música para Lagartos |
+| 75 | ![Cover](https://i.discogs.com/JBFnA9D9Qskh3bhwxuu5A-BZF9IyTm_v3yf-8WsneN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDA2/OTItMTM5NjY4ODA1/MC00NTgzLmpwZWc.jpeg) | 2012-03 | Dark Sky | Black Rainbows |
+| 96 | ![Cover](https://i.discogs.com/H3QuuSs5ewqyvSRj_o56zhcqSgpNCOT4TQ_d6sIcxkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY2/MzMzLTE0OTQzNjM5/ODQtNTkwMS5qcGVn.jpeg) | 2017-06-30 | Machine Gun Kelly | PRESSURE |
+| 97 | ![Cover](https://i.discogs.com/e0GdDT3v6ZtjJ-NyGL4G7VR9yCBkArVbfX7ldyOjJtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk5/NzM4LTE1MzQ1MDY2/MDctODk1Ny5qcGVn.jpeg) | 2018 | Aretuza Lovi | Mercadinho |
+| 70 | ![Cover](https://i.discogs.com/YRpCyJBbz4SHGtJN3RItVQluQzC6_WKknL4TdVbbA-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ2/MDA5LTE1ODQ1Mzkx/NTUtNjQyNi5qcGVn.jpeg) | 2018-07-06 | Future | Covered N Money |
+| 78 | ![Cover](https://i.discogs.com/H3i0nPZufHTESufjt3nOfoCj_bDor304GToRD_e4SRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY0/NjE4LTE1NDc0MTI1/NDktNTE4OC5qcGVn.jpeg) | 2018-07-26 | Aretuza Lovi | Movimento (feat. IZA) |
+| 72 | ![Cover](https://i.discogs.com/ut_FWrMxDjEbWPK6h770ubd1QBS18cZHEJNyhyXBFRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU3/Njk1LTE1NDkxMTAz/MDUtMzk5MS5qcGVn.jpeg) | 2019-02 | B-Side | Oranges |
+| 83 | ![Cover](https://i.discogs.com/OdnFLpkHMeBy8gnvjNi5WUYd8_pgqCdS97ftp40UizU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDY1/NzIwLTE2NTkzNTUz/OTktNTcyNy5qcGVn.jpeg) | 2021-03-29 | MGK | Pressure |
+| 90 |  |  | The BPA | Toe Jam |
+
+### Related genres
+
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})
+- [rap]({{ "/tags/rap" | relative_url }})
+- [electronica]({{ "/tags/electronica" | relative_url }})
+- [dance]({{ "/tags/dance" | relative_url }})
+- [techno]({{ "/tags/techno" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [hip-hop]({{ "/tags/hip-hop" | relative_url }})
+- [bass]({{ "/tags/bass" | relative_url }})

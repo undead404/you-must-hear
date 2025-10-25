@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T02:12:36.317Z
+permalink: tags/8-bit
+title: 8-bit
+---
+
+## 8-bit
+
+Last updated: <time datetime="2025-10-22T02:12:36.317Z">Wed Oct 22 2025 05:12:36 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 82 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1987 | Various Artists | 8-Bit Operators |
+| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2986b5de7a7e4a768d1d9430b624adcb.png) | 1996 | Beck | GameBoy Variations (Hell Yes remix EP) |
+| 60 |  | 1998 | Neutral Milk Hotel | Holland, 1945 |
+| 43 |  | 1999 | Yuppster | The Okinawa Campaign 1 |
+| 2 | ![Cover](https://i.discogs.com/zzxMl6XlGoU4d_KGPzvIH54_QrrU5tVMXLvFGkP3EaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTg2/NzItMTU5MzU5MTgz/NC0zMzcyLnBuZw.jpeg) | 2001-09 | HORSE the band | I Am a Small Wooden Statue on a Patch of Crabgrass Next to a Dried Up Riverbed |
+| 24 |  | 2001-12-03 | Puss | We Are Puss |
+| 41 |  | 2002-08-09 | HORSE the band | Beautiful Songs by Men |
+| 16 |  | 2004-01 | 777minus111 | children of DOS |
+| 90 |  | 2004-11-03 | YMCK | Family Music |
+| 19 |  | 2005 | Divag | Gameboy tunes |
+| 87 |  | 2005 | Sabrepulse | Famicom Connection |
+| 37 | ![Cover](https://i.discogs.com/5yPoT_XJ04pp67VzGZ_Cei2JqT7Nlc0qO6a1R3M_UqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjE4/OS0xMTkzNTc0NzY4/LmpwZWc.jpeg) | 2005-04-25 | Desert Planet | Mario Built My Hot Rod |
+| 5 |  | 2005-12 | Kola Kid | (9 013 248 bytes) |
+| 1 |  | 2005-12-27 | 8bit bEtty | Too Bleep to Blop |
+| 53 |  | 2006 | Sabrepulse | Chipbreak Wars |
+| 86 | ![Cover](https://i.discogs.com/IlDnigc_XAfHj5JCoI9hOfJxZh-VL83NVYOCYw6rjRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTA5/MC0xMTQ3OTY2MzUy/LmpwZWc.jpeg) | 2006-01-20 | Bondage Fairies | What You Didnt Know When You Hired Me |
+| 72 |  | 2006-02 | hai! Robotto | Attack, Clap and Roll |
+| 11 | ![Cover](https://i.discogs.com/Q8x0c6Hsu9_tJh9AYI78wyaAvwgCTYRmfERKaRT6UZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcz/MjUtMTM5MzY3NjMy/NC0yMDk1LmpwZWc.jpeg) | 2006-06-28 | 047 | Robopop-Vi Tar Cdn Dit Vi Kommer |
+| 55 | ![Cover](https://i.discogs.com/6g_GeA5PwRISKpCSLUupQRpDxVVUt2O0U3M842OGOC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzEw/My0xNTgzMTA1ODIz/LTU3MzMuanBlZw.jpeg) | 2006-07-26 | Mouse on Mars | Varcharz |
+| 74 |  | 2006-08-26 | Anamanaguchi | Power Supply |
+| 4 |  | 2006-10-05 | Disasterpeace | Atebite and the Warring Nations |
+| 15 | ![Cover](https://i.discogs.com/Rxc9RUwKxSP1hSnSQNtCvS2rbjNff-gfsdEXGip9Zs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzk2/NjAtMTQ3Nzg0OTMy/Ni00OTU0LnBuZw.jpeg) | 2007 | Karate High School | League Of Tomorrow |
+| 59 | ![Cover](https://i.discogs.com/pVrDDUJ_99qq2E2HXOQovVqU46nkMu_LB0o8PmhQBHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjU3/MjUtMTQ4NzYxMDcz/Ny0zODU0LmpwZWc.jpeg) | 2007 | Sabrepulse | Verão |
+| 25 |  | 2007-01-23 | virt | FX3 |
+| 70 |  | 2007-03 | Kplecraft | Multi-Boxer |
+| 67 |  | 2007-07-11 | Random | Bad Joke EP |
+| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/205df34ad6ff4fba878292bc5aa9d759.png) | 2007-08-21 | Karate High School | The League Of Tomorrow |
+| 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4c2118ee2db0462c965dd352869ac1ec.png) | 2007-08-31 | pornophonique | 8-bit lagerfeuer |
+| 88 |  | 2007-12-31 | Stu | GreateST HITs |
+| 80 |  | 2008 | Sabrepulse | Turbo City |
+| 62 |  | 2008-03-13 | Amy can flyy | Dinosaurs Go Rawr |
+| 77 |  | 2008-03-16 | Machinae Supremacy | Arcade |
+| 71 |  | 2008-04-18 | Yerzmyey | FREAKuencies |
+| 27 | ![Cover](https://i.discogs.com/9oMBJPt_Zt3XrV--maKM6gzHdsnibMonyzctQ8Ck2H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODIw/MjctMTIxNDc3NTg2/OS5qcGVn.jpeg) | 2008-05-05 | Uoki-Toki | Porno Game |
+| 52 | ![Cover](https://i.discogs.com/3Hoin0RDo16-vypM2uUTQmU43Y80E2bCoF8vok52gWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY0/NDItMTIxMTU0NTMw/Ny5naWY.jpeg) | 2008-05-22 | Trash80 | Icarus EP |
+| 66 | ![Cover](https://i.discogs.com/HdzeTnPfu46d3X9sefUKUrgMhfBWzzzQXffZ1ReFr0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc2/ODAtMTIyNjIyNTcw/Mi5qcGVn.jpeg) | 2008-06 | You Love Her | Kitsuné: Inner City Angst |
+| 98 | ![Cover](https://i.discogs.com/HdzeTnPfu46d3X9sefUKUrgMhfBWzzzQXffZ1ReFr0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc2/ODAtMTIyNjIyNTcw/Mi5qcGVn.jpeg) | 2008-06 | You Love Her Coz She&#39;s Dead | Inner City Angst EP |
+| 93 | ![Cover](https://i.discogs.com/HdzeTnPfu46d3X9sefUKUrgMhfBWzzzQXffZ1ReFr0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc2/ODAtMTIyNjIyNTcw/Mi5qcGVn.jpeg) | 2008-06-00 | You Love Her Coz She&#39;s Dead | Inner City Angst |
+| 3 |  | 2008-07-27 | Henry Homesweet | Palm Trance |
+| 28 |  |  | GO! With Fourteen O | The End Is Close. Almost No Need For Money. |
+| 30 | ![Cover](https://i.discogs.com/bqCAPdJuI4I_CaPfX7ntclABkUfsb-zdAd-EYVCm3WE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQy/ODAtMTQwMjAyNDE0/MC0xNjI2LmpwZWc.jpeg) | 2008-01-31 | Disasterpeace | Level |
+| 33 |  |  | 100DEADRABBITS!!! | Teeth |
+| 34 | ![Cover](https://i.discogs.com/VxKEAn6K7cwONxhzga793OkmS7TCoz0HR3yWU8PBazA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODA3/OS0xMTQzNTYzMDMz/LmpwZWc.jpeg) | 1995-11-22 | Yellow Magic Orchestra | イエロー・マジック・オーケストラ(US版) |
+| 36 |  | 2007-07-24 | Makeup and Vanity Set | Presents: The Protomen |
+| 38 |  | 2007-08-01 | Disasterpeace | Neutralite |
+| 35 |  | 2007-08-09 | iamerror | Demo &#39;06 |
+| 45 |  | 2008-01-16 | YMCK | FAMILY GENESIS |
+| 63 |  | 2008-11-01 | She | chiptek |
+| 39 |  | 2008-12-10 | She | 2008 |
+| 6 | ![Cover](https://i.discogs.com/n-u6o-3Qi2L3jNwQ9L2jdXFchg_ZGmfm6wR58Xy7rds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDQ5/NjctMTQ0MDc5NTM5/NC04MjgyLmpwZWc.jpeg) | 2009 | 047 | General Error EP |
+| 51 |  | 2009 | 64Revolt | What a Horrible Night to Have a Curse |
+| 61 |  | 2009 | Unicorn Kid | Lion Hat |
+| 76 | ![Cover](https://i.discogs.com/ZSxmhlQiYymWdnB-6biJWc8dUZDGCBxqr2djkxN551Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTg4/MDQtMTM5NDk0NTAz/Mi0yNzAyLnBuZw.jpeg) | 2009 | iamerror | Demo &#39;09 |
+| 68 |  | 2009-03-03 | Anamanaguchi | Dawn Metropolis |
+| 56 |  | 2009-03-23 | Glomag | DaMaGe |
+| 64 |  | 2009-06-01 | Math the Band | Don&#39;t Worry |
+| 91 | ![Cover](https://i.discogs.com/lHBUhjcBboGt1ZyEb8Xid4ODncEXtM_Ie1N7zx3-nUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg0/NzEtMTI0NDY3OTgy/NS5qcGVn.jpeg) | 2009-06-22 | Bibio | Ambivalence Avenue |
+| 26 | ![Cover](https://i.discogs.com/RIHeVgKBP64yvku0M0erADRJ00Fxb6qAsX1GKFqXFA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ5/MjQtMTQxNDYyOTg2/OC0zODc0LmpwZWc.jpeg) | 2009-12-25 | Glomag | Roland &amp; The Lamprey |
+| 57 | ![Cover](https://i.discogs.com/umVUYmlOLPSLl-pwg6yiKc_yWWmXflymD7S8m6rjYdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDM3/MjgtMTMwODQ0Nzg0/Ny5wbmc.jpeg) | 2010 | FUCKING WEREWOLF ASSO | Kid, Just Letting You Know We Are Doing It Again |
+| 22 | ![Cover](https://i.discogs.com/AP16CcsHvRHTAwTrOiCJP7IDYlu1ujq9FHAn5k27lfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQw/OTYtMTM3MTMyMTcz/Ny0zMzIxLmpwZWc.jpeg) | 2010-02-26 | mind.in.a.box | R.E.T.R.O |
+| 89 |  | 2010-02-26 | mind.in.a.box | R.E.T.R.O. |
+| 100 |  | 2010-05-18 | Crystal Castles | Crystal Castles |
+| 97 |  | 2010-07-15 | Anamanaguchi | Airbrushed |
+| 95 |  | 2010-07-30 | Anamanaguchi | My Skateboard Will Go On |
+| 84 | ![Cover](https://i.discogs.com/3RljXRmpwVatFKQDorTofftVS1O1PANp_Yt5SboBjMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzM4/NzAtMTI4NjA5NjMz/MS5qcGVn.jpeg) | 2010-10-04 | Rustie | Sunburst EP |
+| 75 |  | 2011-01-01 | Disasterpeace | Rise of the Obsidian Interstellar |
+| 96 | ![Cover](https://i.discogs.com/e_3vCZ_afLLQLfUtbPmJaGV3k_gGrsQECtwIhH68lps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDgx/OTEtMTM0Njc1OTUx/Ny01NDMwLmpwZWc.jpeg) | 2011-11-08 | Zedd | Shave It - The Aftershave |
+| 9 | ![Cover](https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg) | 2012 | Various Artists | The X-Dump: Filesystems |
+| 69 | ![Cover](https://i.discogs.com/NdpKg49I_yix-CYmDR0mM7uGa-Qz1-jysFiMII4zK1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTgz/MzYtMTM2NzE2MTE2/Ni01MDg5LmpwZWc.jpeg) | 2012-09-13 | Waka Flocka Flame | Game On (feat. Good Charlotte) [from &quot;Pixels - The Movie&quot;] |
+| 65 | ![Cover](https://i.discogs.com/m_kFRyRY_HeAyt8HtqAYvNWMTV20KunUr3RMHZQnBPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk0/MjA0LTE1MjI1MDM2/OTEtMTAzNC5qcGVn.jpeg) | 2013-01-18 | Kubbi | Gas Powered - EP |
+| 54 |  | 2013-11-19 | Disasterpeace | Somewhere |
+| 8 | ![Cover](https://i.discogs.com/EYM9_RADFRBUx9zVUAljzsf8fvOjzMbpFbUY5SuJFh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTc5/NjYtMTQzNjQxMzkw/NC01MjAzLmpwZWc.jpeg) | 2014-10-23 | FrankJavCee | 8-BIT |
+| 7 | ![Cover](https://i.discogs.com/hYnmW7bsFBXCIl6Onv4IDknWSkrR8xn9MV3SAk60jzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTU3/MTUtMTQ3ODEyNjM0/My0xMjYwLmpwZWc.jpeg) | 2015-02-10 | Sabrepulse | Realization |
+| 10 |  |  | 100DEADRABBITS!!! | Teeth EP |
+| 14 |  | 2009 | N# | Hello World |
+| 40 |  | 2010-01-11 | Shirobon | Golden Apples E.p |
+| 17 |  | 2012-09-09 | Bossfight | Caps On, Hats Off |
+| 42 |  | 2012-11-20 | Math the Band | Get Real |
+| 32 |  | 2013-08-29 | Crying | Get Olde |
+| 44 | ![Cover](https://i.discogs.com/hRIb1yhb89uDwK68TLwlb8vDWS6l95i3SMLgKBsCYNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTgx/MzctMTQyODgyMjI3/OS04NjkyLmpwZWc.jpeg) | 2014-08-08 | Rainbowdragoneyes | The Secret Mirror |
+| 23 |  | 2014-11-25 | Slime Girls | Heart On Wave |
+| 46 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0e906f6f79db4c7dcc561221fb87d9da.png) | 2014-12-09 | I Fight Dragons | The Near Future |
+| 47 | ![Cover](https://i.discogs.com/6LHpMkV0irvc82nG77OSEUOaQTJsfmhxLSGP7JKvsnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTUw/NjktMTQ4OTE3Mzkz/NC02NDYxLmpwZWc.jpeg) | 2015-01 | Random | Happy Ending After All (8BP051) |
+| 49 | ![Cover](https://i.discogs.com/82E7VrSgK4uwKtv27s21s9yrdi5c6GRoUvknoHs5Fic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTc0/Ni0xNDE0NTk4OTcz/LTMwMTYuanBlZw.jpeg) | 2015-01 | Anamanaguchi | Meow - Single |
+| 73 | ![Cover](https://i.discogs.com/SSUjJ6hcc-q-q768gAe2-cbLciY7i2yIljDjcjmVYCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjM4/MzUtMTQzMjg3NDI3/MC0zMzAxLnBuZw.jpeg) | 2015-05-11 | You Love Her Coz She&#39;s Dead | New Superheroes &amp; Demos |
+| 81 | ![Cover](https://i.discogs.com/LWAMpmEXi3zUfr5nKPuFhwpFz5vbv1zAPKT5E7EUAP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE4/NDY0LTE1MTk1MDkw/OTQtOTkzNS5qcGVn.jpeg) | 2016-04-24 | Error37 | Error37 |
+| 58 | ![Cover](https://i.discogs.com/GchKcuqZyNrveGxOgT7ub7AXF6v-e6rEK7TiGOnkXU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg1/NDg4LTE1MzAwMTU3/NDEtODQzOS5qcGVn.jpeg) | 2016-07-01 | daniwellP | I Nyaned for Hours ( &#39; w&#39;)‼ [feat. 初音ミク] |
+| 85 | ![Cover](https://i.discogs.com/5MNhG1y9F4vf7lWhmFz_8isCGNmvMfxX_91wci7-Dsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/Mjg1LTE1MzYzMzgy/NjgtMjE1Mi5qcGVn.jpeg) | 2016-09-19 | GIRLi | Girl I Met On The Internet |
+| 20 | ![Cover](https://i.discogs.com/7xp0UowGLQcD_BsskBjjSUQKUJ-mtYKei0B_J0NZgjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDA2/MzMtMTQ4ODIwNjM2/Ni00NzY2LmpwZWc.jpeg) | 2016-11-15 | Shirobon | Special Selection, Vol.1 (2006-2019) |
+| 78 | ![Cover](https://i.discogs.com/DX-fPbvXvhs8NHPSWxBtNDHxqdVxXrja62uLbjOKvIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjAx/NTQ1LTE1MDA3Mzc0/MjgtNDM2MS5qcGVn.jpeg) | 2017-07-21 | Bondage Fairies | Alfa Gaga Cp Wifi |
+| 48 | ![Cover](https://i.discogs.com/GYTdy_F1NDOzOerFu3nGxYFLmJ8h4c3kfras92Fzla0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI0/MTAxLTE1MTk1OTEx/MjYtMTgwNy5qcGVn.jpeg) | 2018-04-25 | Hyper Potions | Gameboy Luke Commissions |
+| 21 | ![Cover](https://i.discogs.com/w7Bo6di2mbWXwzSQb3msSzx1aZr-L6X0k_oCEQWTuTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/NzE3LTE1Mzk0Nzgw/MDMtODQ5OS5qcGVn.jpeg) | 2018-08-24 | Abandoned By Bears | Bear-sides |
+| 83 | ![Cover](https://i.discogs.com/CpdRzxGUVLoFiuxhAKFLqPQ0ucbbf4lwTDHJ2kOn8f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzgz/NDc0LTE1NDE4Njgx/NjQtNDE5MC5wbmc.jpeg) | 2018-11-02 | The Algorithm | Compiler Optimization Techniques |
+| 99 | ![Cover](https://i.discogs.com/qZApha-FoMcCOsOJ-YtYkxKF8THXH9nm6W6OTnq9zKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDcx/NzIyLTE2MTM2NDc2/NjYtNzEzMC5qcGVn.jpeg) | 2018-11-08 | Дайте танк (!) | На вырост |
+| 92 | ![Cover](https://i.discogs.com/Vbiorwra_l4-J0z85a4mVAp8W4YfkIfUX0QNyc2xSgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA3/NjAyLTE1NTE3OTU3/MjMtMjI4OC5qcGVn.jpeg) | 2019-02-23 | Snail&#39;s house | Snailchan Adventure |
+| 79 |  | 2020-07-04 | Cyriak Harris | Animation Mix |
+| 12 | ![Cover](https://i.discogs.com/O26xHMZ-_p9W45nM9MzkNeCJtTI8BWjJjhjTNLn8OR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDkz/ODQ3LTE2MDMzMDg4/ODEtNDAzMS5qcGVn.jpeg) | 2020-09-25 | Makeup and Vanity Set | Presents... The Protomen |
+| 50 |  |  | 100DEADRABBITS!!! | Guardians |
+| 13 | ![Cover](https://i.discogs.com/m0x59uyGfjQHqPj9oegTPgcS7JyCa-_ucnL7EvMkLIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/Mjk3LTE1OTkyNDA0/OTQtMzU4MS5qcGVn.jpeg) | 2022 | Capcom Sound Team | Mega Man 6 Sound Collection |
+| 31 | ![Cover](https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg) | 2023 | Various Artists | AY Riders- ZX Spectrum is Alive |
+
+### Related genres
+
+- [chiptune]({{ "/tags/chiptune" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [bitcore]({{ "/tags/bitcore" | relative_url }})
+- [metalcore]({{ "/tags/metalcore" | relative_url }})
+- [electronica]({{ "/tags/electronica" | relative_url }})
+- [post-hardcore]({{ "/tags/post-hardcore" | relative_url }})
+- [electronicore]({{ "/tags/electronicore" | relative_url }})
+- [bitpop]({{ "/tags/bitpop" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})
+- [idm]({{ "/tags/idm" | relative_url }})

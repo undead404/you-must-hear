@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-01-02T15:22:06.925Z
+permalink: tags/death-thrash-metal
+title: death-thrash metal
+---
+
+## death-thrash metal
+
+Last updated: <time datetime="2025-01-02T15:22:06.925Z">Thu Jan 02 2025 17:22:06 GMT+0200 (Eastern European Standard Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 99 | ![Cover](https://i.discogs.com/hc_ruFVxJT82BlIDeSGZGvDSUlNjryu-VG6wwc7cE1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTkx/NDEtMTcxMjA3NjE2/MC04MzA4LmpwZWc.jpeg) | 1984 | Laxative | Follow me |
+| 85 | ![Cover](https://i.discogs.com/XeRVAQI-irufEmlgNV8K-ETICxMxUgfiSAGoHptiBkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzEz/OTc1LTE1NzIxODk4/NTUtNzc1MS5qcGVn.jpeg) | 1988 | Mayhem | Warfare Noise II |
+| 86 | ![Cover](https://i.discogs.com/JzyMywoEoiGgzVq8skqdEndzvZRTYBz6qqCzQtQeakM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODQ2/MDctMTM3MDU4NzM0/OC01NDcxLmpwZWc.jpeg) | 1990 | Vacant Grave | Life Or Death |
+| 78 |  | 1991 | No Return | Contamination Rises |
+| 50 | ![Cover](https://i.discogs.com/CiBO7sRYUJu_6OZXhPf6i9HlhnyoNpglcUV3FwW5Cj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjM2/NjAwLTE3MTMyMDIy/ODQtNjAzMS5qcGVn.jpeg) | 1992 | Massacra | Signs of the Decline (Reissue + Bonus) |
+| 100 | ![Cover](https://i.discogs.com/-pirn5uip_AhWNB0xi4SI9ADHY9kqKT6B7ST4vuIyqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjE2/ODMtMTM3NDcxOTE5/NC04NjgwLmpwZWc.jpeg) | 1992 | Silent Death | Before The Sunrise |
+| 82 | ![Cover](https://i.discogs.com/ORSX32BcJKpR7G2HKFi-nUO756XQXLO67Z4adVVmsJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk5/ODYtMTUyOTIyMDg0/NC05MDMwLmpwZWc.jpeg) | 1992-10 | Bluuurgh... | In My Embrace |
+| 88 | ![Cover](https://i.discogs.com/MMQKEgTAFhzUl4HOA88i7IHITNDCGdb0mKl8MmgpoVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjEw/MjctMTM5OTMyNTM0/My04NTAzLmpwZWc.jpeg) | 1993 | Agressor | Satan&#39;S Sodomy |
+| 98 | ![Cover](https://i.discogs.com/rjVkAZc1rVPsKrGQIjRQOc3s6YsO-aLAZ1xueebzoM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDE1/ODQtMTI5MjcwNzg1/Ni5qcGVn.jpeg) | 1993 | Vicious Circle | Cryptic Void |
+| 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8c1daf8ebd9edc44b6223afddc9eea60.png) | 1994 | Nile | Nile |
+| 72 |  | 1994 | Mortification | Break the Curse |
+| 81 | ![Cover](https://i.discogs.com/OvHuVqLTB4TWvt6mqCmc_dRV71jaqVK3Rc25eQV8zOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjkz/MTctMTI4ODk3NzI2/NC5qcGVn.jpeg) | 1994 | Baphomet | Trust |
+| 7 | ![Cover](https://i.discogs.com/fCayzlyMPGP9Iw5NSA6gIl690SU2QuCK5R0bkKKFHKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTI2/My0xNTMyODc3OTcz/LTYwNDAuanBlZw.jpeg) | 1994-03-14 | Merciless | Unbound |
+| 25 | ![Cover](https://i.discogs.com/o3jrd6n3y_xQPvItFkUEC9qZQuY1NmT1YXn6x8sjLMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDk2/OTYtMTYyMjMzNDg2/MS02NTQxLmpwZWc.jpeg) | 1997 | Criminal | Dead Soul |
+| 43 |  | 1998 | Torture Squad | Shivering |
+| 70 | ![Cover](https://i.discogs.com/GqoOHMVjA7e6blwIGjWSlpJ62uPy0J8lcZdQKEG1F-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzE0/MTUtMTU3ODMyOTM0/My0xMDMyLnBuZw.jpeg) | 1998-07-06 | Impious | Evilized |
+| 30 |  | 1999 | Torture Squad | Asylum Of Shadows |
+| 75 | ![Cover](https://i.discogs.com/scSvrflJAUO09JeUydKvuIjZyDmIrJJCEnpChr252Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njg5/ODItMTI4MDQ5Njcz/MS5qcGVn.jpeg) | 1999 | Corporation 187 | Subliminal Fear |
+| 17 | ![Cover](https://i.discogs.com/wXZwdthzIUZEkMnVHsL3mWj15mAYobW1R69fN8k4OYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTc3/OC0xMjk0MTQ2ODM1/LmpwZWc.jpeg) | 1999-11-07 | Defleshed | Fast Forward |
+| 36 | ![Cover](https://i.discogs.com/C5Xq57LWcGJ4ZRf5r2DKigzb-5ytiJPsZmg1U4yUOT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY3/NTM2LTE1NzEwODMw/NTItMjE3My5qcGVn.jpeg) | 2000 | Claustrofobia | Claustrofobia |
+| 22 | ![Cover](https://i.discogs.com/CkTDdaqlaM51oMhuobXnXl83TJmak5zotYUXMTkOAG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjIx/NzgtMTM4NjE4NTY5/NS00ODAwLmpwZWc.jpeg) | 2001 | Кувалда | Деликатесы |
+| 63 | ![Cover](https://i.discogs.com/WaBW4Hr3yxLe1GHJFF0mSLrBdlqS-yLw6UvBiMEkHr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTQz/OTctMTM2MzcxNzc2/My02Njc0LmpwZWc.jpeg) | 2001 | Occult | Rage to Revenge |
+| 90 | ![Cover](https://i.discogs.com/xa2rBVldvrJ8FKwEBbyFrxIgvXWmhk5O9s9q0QRi02c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTk4/MTgtMTMzMzY4MTQ4/Ni5qcGVn.jpeg) | 2001 | Master | Follow Your Savior |
+| 29 |  | 2001-08 | Torture Squad | THE UNHOLY SPELL |
+| 18 | ![Cover](https://i.discogs.com/_ZVt4v4lErxRgpkVX_qYcJumib6B8K9TdUGiXvXbOuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTY3/NTgtMTM4NDM4NTUw/MS02MTAxLmpwZWc.jpeg) | 2002 | Claustrofobia | Thrasher |
+| 94 | ![Cover](https://i.discogs.com/xwIHvekRhQCn9aZYxOnXLfEeBqSV71-K8anLRTX17lI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIy/MDYtMTE4NDAwMjkw/NC5qcGVn.jpeg) | 2002 | Nocturnal Fear | Sterilize And Exterminate |
+| 35 | ![Cover](https://i.discogs.com/ra5NnH-yWkVxkaIifkbRRleER4L1hrDm6KRf3ahDM9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTA3/MC0xMzEwNjY2ODA3/LmpwZWc.jpeg) | 2002-09-09 | Impious | The Killer |
+| 87 | ![Cover](https://i.discogs.com/LozfjSQv7mE_u0mb3-fQJAmxqHo4hxVbrWA8xC7ZXUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTIz/ODEtMTQ2MDc0NDUx/NC0zMjg1LmpwZWc.jpeg) | 2002-11 | Soulless | Agony&#39;s Lament |
+| 34 | ![Cover](https://i.discogs.com/ReAJ_Tqezi2Hezg2QiB7l9ij6DEGd2Dddn-9e_Bk5wU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU3/NTMtMTIzNzUwMjA3/MC5qcGVn.jpeg) | 2002-11-04 | Corporation 187 | Perfection In Pain |
+| 32 |  | 2002-12-27 | Merciless | Merciless |
+| 28 |  | 2003 | Konkhra | Reality Check |
+| 84 | ![Cover](https://i.discogs.com/fsk5iKbtcSNGCJ5QKguenkMYtrsjqyFO5ry855QU-4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDA0/OS0xNjgyMTYyMTQ0/LTY0NDQuanBlZw.jpeg) | 2003 | Katafalk | Storm of the horde |
+| 77 | ![Cover](https://i.discogs.com/BAXuPxwN2mVRv1kFZVJ5U_ir2rbIklLlLMW1K9LUsXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjk2/ODEtMTUyMjQwMzIz/MC04NjcwLmpwZWc.jpeg) | 2003-01-28 | Hellwitch | Final Approach |
+| 97 | ![Cover](https://i.discogs.com/WSwi-a54OZT4x44NcvnNVpavellNFff3FqbjIYyNPPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ1/MDcwLTE1Njg2NjQw/MTAtNDQzNy5qcGVn.jpeg) | 2003-09-18 | Youthquake | EVOLUTION OF NEW ORIENTAL METAL |
+| 16 | ![Cover](https://i.discogs.com/xY78TNQyCjeGYh0hswcqqGwL9Mnnrm9ezlGr0aktxdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzQy/Ny0xMzQyNDEyNTEz/LTk3NzEuanBlZw.jpeg) | 2003-09-22 | Grimfist | Ghouls Of Grandeur |
+| 11 |  | 2003-10-01 | Deathchain | Deadmeat Disciples |
+| 42 |  | 2003-12-08 | Hatesphere | Something Old, Something New, Something Borrowed and Something Black |
+| 47 |  | 2004 | Кувалда | Спаси И Сохрани |
+| 74 |  | 2004-03 | NODe | Das Kapital |
+| 51 | ![Cover](https://i.discogs.com/tR8zmgv9_B5MoWc5zOVb30Jwzgasc_v_T4ufXSt1-eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Njc3/NS0xNTIwNTIwNTYy/LTkxMjYuanBlZw.jpeg) | 2004-06-07 | Hatesphere | Ballet of the Brute |
+| 59 |  | 2004-08-09 | The Crown | Crowned Unholy |
+| 39 | ![Cover](https://i.discogs.com/MZOI8_qWrTfXQFn3WDQvfZa7uwgPUb_0MgCLQcYZMHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjk0/NDEtMTIzOTYyMzM3/MC5qcGVn.jpeg) | 2004-10-25 | Final Breath | Let Me Be Your Tank |
+| 73 | ![Cover](https://i.discogs.com/pahzZplZPGp3gqB7i1Y8iPXaYs8h0_YkOtAtN7WsbMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTMw/Ny0xMTA4MjE3MDM3/LmpwZw.jpeg) | 2004-11-15 | Flesh Made Sin | Dawn of the Stillborn |
+| 92 |  | 2005 | Nocturnal Fear | Fog of War |
+| 8 |  | 2005-01-31 | Hatesphere | The Killing Ep |
+| 68 | ![Cover](https://i.discogs.com/13No9AqeFh2KmOoSoJnjcetco9Sdp9T0p4P_5-h3q4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzk0/MjAtMTMyMDYyMTE5/Ny5qcGVn.jpeg) | 2005-03-29 | Maze Of Torment | Hammers of Mayhem |
+| 21 |  | 2005-04-04 | Defleshed | Reclaim the Beat |
+| 56 | ![Cover](https://i.discogs.com/yshW_pwnSjZWSv8QrQMUGgdLs7qmG1GoissMbSCo1X4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDY1/MDQtMTQ4MDAxMDcy/MS0yNTA1LmpwZWc.jpeg) | 2005-05-14 | Hallows Eve | Evil Never Dies |
+| 89 | ![Cover](https://i.discogs.com/CIn66bJ5qm-aQafN5SAe0lWJMdI25qzAb2_nfjhvvgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODc0/NzYtMTQzNzU3MTIz/Mi00NzAzLmpwZWc.jpeg) | 2005-09 | Evildoer | Terror Audio |
+| 33 |  | 2005-09-05 | Criminal | Sicario |
+| 60 |  | 2005-10-12 | Deathchain | Deathrash Assault |
+| 4 | ![Cover](https://i.discogs.com/jszWiHjQyCPdOUOSdvf8ai-DGVQZKdaBnkcgmSJOz74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTg1/NzEtMTQ4MTYyODk0/MS04NDcwLmpwZWc.jpeg) | 2005-11-23 | Legion of the Damned | Malevolent Rapture |
+| 23 | ![Cover](https://i.discogs.com/sy_om9FZKI_ZCUVLU1z7n8HRnmjruHtgzU-Ef_em9_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDY0/MzctMTM1MDEzOTk3/NC04Mjc0LmpwZWc.jpeg) | 2006 | Necrodeath | 100% Hell |
+| 76 | ![Cover](https://i.discogs.com/fVyhRUQdwTxK8ltf6QTjtGxruhD8cy93fiKTPYsUD9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTkx/NDEtMTIyNDI2OTQ3/Mi5qcGVn.jpeg) | 2006 | Laxative | United Havoc |
+| 93 | ![Cover](https://i.discogs.com/VMOu7mtdsobCYTsYktDIckYQI3X-FMVOjj0LLwJtZlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDg3/MzAtMTQxNzA1MjEw/Mi0xMTgyLmpwZWc.jpeg) | 2006 | Infernäl Mäjesty | Demon God |
+| 58 | ![Cover](https://i.discogs.com/pq9TVtV0-opHDgNd5hShE5jwXJq0M-U8ntjHRbfGOLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODg4/MTAtMTY2NDU2MzAy/NS00NzA1LmpwZWc.jpeg) | 2006-02-27 | Submission | Failure to perfection |
+| 57 | ![Cover](https://i.discogs.com/ixBZooIIgkK59Fo4NcCV4VlLJCGmrXE-PBeyiNKX7cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcx/NDYtMTI4OTg1MjE1/Ni5qcGVn.jpeg) | 2006-05-28 | Abominator | The Eternal Conflagration |
+| 5 |  | 2006-10-18 | Rytmihäiriö | Seitsemän surman siunausliitto |
+| 67 | ![Cover](https://i.discogs.com/d_MLykKFQf-uKFeYkvTTwBJVNeI9ptCoUTf9SzatwKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU3/OTQtMTIwNTM0MTAz/NC5qcGVn.jpeg) | 2007-01-05 | Legion of the Damned | Sons of the Jackal |
+| 3 |  | 2007-05-23 | Deathchain | Cult of Death |
+| 66 | ![Cover](https://i.discogs.com/RLe6VQqHz46amnf4hGU45aE1J55MJjgAtNWdHO3esOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzM0/MzQtMTQ2MjU2ODc3/NC0xNTk0LmpwZWc.jpeg) | 2007-10-08 | Vader | Future Of The Past II - Hell In The East |
+| 49 | ![Cover](https://i.discogs.com/VkC4NqaZ8KJCSXN43oO9lcZF5gg_ShljyDcTMdf2Bjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ4/NjktMTQ2NTI5MDAw/OS0xNjI0LmpwZWc.jpeg) | 2007-10-17 | Discard | Carrion |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9d820bc3111848b9c89cfc5669e2e811.png) | 2007-11-28 | Mokoma | Luihin ja ytimiin |
+| 79 | ![Cover](https://i.discogs.com/vFXSvb42OxWmdVGoj_Le7XmriUVB714g8OFtKAs0IPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzk4/MjAtMTI4MTY0OTE1/My5qcGVn.jpeg) | 2008 | Nocturnal Fear | Code Of Violence |
+| 31 |  | 2008-01-02 | Legion of the Damned | Feel The Blade |
+| 14 |  | 2008-04-25 | Torture Squad | Hellbound |
+| 37 | ![Cover](https://i.discogs.com/XL6BIGJdHLd_EfGFfm3j-284qC4cEVnBqWPBOtJ0pi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA0/NzktMTQ3MDI1NTI1/OC0xMTc5LmpwZWc.jpeg) | 2009 | Claustrofobia | I See Red |
+| 38 | ![Cover](https://i.discogs.com/J8AC5ukcrHsDJbtvqyws4OOpAwNXfJDOPLZ4al1EhbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzk1/MjUtMTI3NDA5NzE0/My5qcGVn.jpeg) | 2009-02-27 | Criminal | White Hell |
+| 15 | ![Cover](https://i.discogs.com/f4CE7A8w49E9EvNWrz6_BdNvYKrcodM1pbWLo-Pvnk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTIz/NDgtMTU0NjE5NzU4/MS00NTAwLmpwZWc.jpeg) | 2009-09-01 | Amon Amarth | The Crusher - Reissue |
+| 91 |  | 2009-09-11 | The Black Dahlia Murder | Deflorate |
+| 83 | ![Cover](https://i.discogs.com/HbgmqhWhnIK0lGTREGHYKIm-2Juu71tU5d7rHiplM0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzA1/MDMtMTI3MzU0MDAz/My5qcGVn.jpeg) | 2009-11-03 | Nocturnal Fear | Metal Of Honor |
+| 61 | ![Cover](https://i.discogs.com/c9rCY_WQyHcaIuzBrDfSIjX1qVkGoErU4APwWiJXKTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njg2/ODktMTMzNTYzMzA0/Mi5qcGVn.jpeg) | 2009-11-06 | Pitbull Terrorist | C.I.A. |
+| 55 | ![Cover](https://i.discogs.com/sLh-X_bt53blbucagJxxLxOD1HnQQ2dftmltwKMwXAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk4/OTIzLTE1MjA4NjQ1/MDktMTIwMC5qcGVn.jpeg) | 2010 | Feared | Feared |
+| 96 | ![Cover](https://i.discogs.com/UPHO0yadjVZbXoODUYVCymsfoMiJV8yqd_zB_FxwiUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDcx/NTctMTUwMjk3Mjg2/Mi05MDMwLmpwZWc.jpeg) | 2010-01-08 | Deadly Remains | Before The Nothing |
+| 9 | ![Cover](https://i.discogs.com/yoW2TXMyZRdP02XH6_xQBoPTTPZHC4NI23ZNNxOFHTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Mjk4/MzctMTM3MDQ0MzY1/MS0yOTg4LmpwZWc.jpeg) | 2010-08-20 | Torture Squad | AEquilibrium |
+| 26 | ![Cover](https://i.discogs.com/vNmQ2W_hCc3-jfIyLZNI52O4PzTE_w3y-VnEmAfz4wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDQw/MjAtMTMyNjY0MzY4/MC5qcGVn.jpeg) | 2011 | Feared | Rejects |
+| 80 | ![Cover](https://i.discogs.com/wbfxiFZJWwbgGliESg14faOTS1uomZ-BNUIPEPm4cFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODAz/NjItMTQyNTk5OTgx/MS03ODczLmpwZWc.jpeg) | 2011 | Nocturnal Fear | Excessive Cruelty |
+| 71 | ![Cover](https://i.discogs.com/4AjU7cd6yXLch4jMEK3PyJMjCSGIv5pH0-Zrmb-cjWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDAx/MzctMTMwMzQyODU3/NS5qcGVn.jpeg) | 2011-01-17 | Repuked | Pervertopia |
+| 54 |  | 2011-03-13 | Thousand Leaves | END OF ENDLESS NIGHT |
+| 12 |  | 2011-09-27 | Hatesphere | The Great Bludgeoning |
+| 46 | ![Cover](https://i.discogs.com/oo8yqeAiXLIisAslaMq6vyBNrPKdU0QQUhjX4mK69LE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTQ2/MjMtMTQwNTYyODQx/MS00NzgzLmpwZWc.jpeg) | 2012 | Feared | Refeared |
+| 69 | ![Cover](https://i.discogs.com/teX_g9r4AR3qCGhMMgUzqxL_HlBBSLWk7FLvGPiKjWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDk0/MTMtMTM3MTA0NzM2/MS0zOTcxLmpwZWc.jpeg) | 2012-03 | Mortad | The Myth Of Purity |
+| 10 | ![Cover](https://i.discogs.com/a_enqqXg5GU4yQZHbzM5JSsUkf-z3BhYRd1ZFbfj7qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTQ2/NDAtMTYxNzUwNjMw/My01Njg2LmpwZWc.jpeg) | 2013-02-17 | Feared | Furor Incarnatus |
+| 19 | ![Cover](https://i.discogs.com/spz35L7vPfPXkzrt5fYOTZTfTpV-0tKLk3SrMrA2XHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDU4/NjQtMTM4MzAyOTQ0/Mi03Nzg3LmpwZWc.jpeg) | 2013-09-27 | Hatesphere | Murderlust |
+| 27 | ![Cover](https://i.discogs.com/ORWFjm94RsXYCFasomgArBqDotBAreHqgsuVzzIx7Mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc1/NzItMTQ4NjgwMzY5/Mi02ODU0LmpwZWc.jpeg) | 2015-11-20 | Hatesphere | New Hell |
+| 95 | ![Cover](https://i.discogs.com/yWB0OTMtix02eDSFcY8eHhZ75g7Wx5wqq8VlmM_ooK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTE3/NTUtMTUwNTMwNjEz/OS03MjE1LmpwZWc.jpeg) | 2016 | Avenger of Blood | On Slaying Grounds |
+| 41 | ![Cover](https://i.discogs.com/fX6F7pvp4mpTIyZU20aJmHzpGTLd1we8z-RPjmQkCfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjg1/MzgtMTQ1NjQyNjcz/Ni04NDE3LmpwZWc.jpeg) | 2016-02-26 | Protector | Cursed And Coronated |
+| 13 | ![Cover](https://i.discogs.com/HLfvooZTyyN3Ncr8GEckwStDHg8IPwlVgSB7L76uMWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQ1/NTQ3LTE2MTc1MDU3/NDMtNjU2NC5qcGVn.jpeg) | 2016-03 | Feared | Reborn |
+| 65 | ![Cover](https://i.discogs.com/NB98sLGN6S5eLKlDnyADUeMSkSU25PnEgfnLSRl1mSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTkw/NTctMTQ1NzM2NjIw/Mi01MzcxLmpwZWc.jpeg) | 2016-03-11 | Criminal | Fear Itself |
+| 2 | ![Cover](https://i.discogs.com/iv-ecHlwG4BacxF-8Kk1vTriVMx22vhBN_CPOE72KOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTk1/ODktMTY0MTYzNTI0/Ni0xMDU0LmpwZWc.jpeg) | 2016-08-05 | Vader | Iron Times |
+| 6 | ![Cover](https://i.discogs.com/Pw6bKZj0VIGs2F56NmBRujnS7Td_dnYKr77uEuCDJ28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjIx/MzI5LTE2MTc1MDU1/MTQtOTA5NC5qcGVn.jpeg) | 2017-12 | Feared | Svart |
+| 40 | ![Cover](https://i.discogs.com/-1Z4qUJibvGdGsww2xORsdm75kuVZQaUaKe3pLKfZGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE0/MTAxLTE1NDA5MTM2/NTItNjM0MS5qcGVn.jpeg) | 2018 | Hatesphere | Reduced to Flesh |
+| 24 | ![Cover](https://i.discogs.com/qKHyUKp3FlwwS9TKbIm1EM0MkGnT-CBaFJ6bm-DLNPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDMw/MjgxLTE2MDIxODI5/NTctMTcwMy5qcGVn.jpeg) | 2020-10-09 | The Troops of Doom | The Rise of Heresy |
+| 62 | ![Cover](https://i.discogs.com/HlY30iHYeGhWZoniQSMQhiuDb1CaQUlbRbsgCrdPzIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjUw/MjQ0LTE2MzE5MTI5/NzgtMTMxNS5wbmc.jpeg) | 2021 | The Troops of Doom | The Absence Of Light |
+| 64 | ![Cover](https://i.discogs.com/uvaTvso47QzEqA9_Q_kl2GXEV3fmya62YGXT3-k1jvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYy/MzUyLTE2MzQzNDMw/NjEtMzM2MS5qcGVn.jpeg) | 2021-09-17 | Criminal | Sacrificio |
+| 53 | ![Cover](https://i.discogs.com/0aGbG4AOsZPzcENeB2aNdaCp_XbWnI3vILW4MHI5CaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDE2/MDYtMTI5NzE5MDc5/NC5qcGVn.jpeg) | 2023-03-24 | Hatesphere | Hatred Reborn |
+| 44 | ![Cover](https://i.discogs.com/UhLbI9_3dzZl7bx-SnFjKmlOQoWXImTMguDNYtJJK2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzYw/Njc3LTE2ODE0OTc3/MjMtMjg1MC5qcGVn.jpeg) | 2023-04-14 | Holy Moses | Invisible Queen |
+| 45 | ![Cover](https://i.discogs.com/baqb8JQn3_5rGVLbDFAZ4y0PKyrBKRH9J48REVd2PO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjY3/MjM3LTE3MTU2MDQ3/NDMtMzA3NS5qcGVn.jpeg) | 2024-05-17 | Hemotoxin | When Time Becomes Loss |
+| 48 | ![Cover](https://i.discogs.com/I9kayZgxqUiYo-ueh5uwFCOyOoyWLtxgxTW78pV6glo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzI2/MjUxLTE3MTk0NzA4/MzctOTU4NS5qcGVn.jpeg) | 2024-05-31 | The Troops of Doom | A Mass To The Grotesque |
+| 20 | ![Cover](https://i.discogs.com/gK_bbv_ezuiW8_elWqp6a3sNo4eTT-rX9cyQW62nFEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDg4/MTM3LTE3MjM3NTE4/NTctNjM5My5qcGVn.jpeg) | 2024-08-09 | oxygen destroyer | Guardian of the Universe |
+
+### Related genres
+
+- [thrash metal]({{ "/tags/thrash-metal" | relative_url }})
+- [death metal]({{ "/tags/death-metal" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
+- [melodic death metal]({{ "/tags/melodic-death-metal" | relative_url }})
+- [old school death metal]({{ "/tags/old-school-death-metal" | relative_url }})
+- [heavy metal]({{ "/tags/heavy-metal" | relative_url }})
+- [speed metal]({{ "/tags/speed-metal" | relative_url }})
+- [grindcore]({{ "/tags/grindcore" | relative_url }})
+- [groove metal]({{ "/tags/groove-metal" | relative_url }})
+- [hardcore]({{ "/tags/hardcore" | relative_url }})

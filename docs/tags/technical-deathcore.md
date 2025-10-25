@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-01-07T09:17:20.811Z
+permalink: tags/technical-deathcore
+title: technical deathcore
+---
+
+## technical deathcore
+
+Last updated: <time datetime="2025-01-07T09:17:20.811Z">Tue Jan 07 2025 11:17:20 GMT+0200 (Eastern European Standard Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 92 | ![Cover](https://i.discogs.com/JjR8L4don77e6cgS3LVHzurhhw7k0OFXDPBme9nhMFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTM2/MjItMTMwNDA1NDU1/NS5qcGVn.jpeg) | 2002-10-02 | Despised Icon | Consumed by Your Poison |
+| 100 |  | 2005-04-05 | Despised Icon | The Healing Process |
+| 26 |  | 2006 | Angelmaker | Eclipse |
+| 98 | ![Cover](https://i.discogs.com/upUH-pb5IyKxgh7uOQ8dhiRUvv7_DehjFY3FwZI8dU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDU1/MDAtMTQ1MDAyNjgy/NC02MDM2LmpwZWc.jpeg) | 2006-02-07 | Lokyata | Purified by Anger |
+| 15 |  | 2006-11-14 | The Faceless | Akeldama |
+| 73 |  | 2007 | Here Comes the Kraken | Demo 2008 |
+| 58 |  | 2007-04-24 | Thy Art Is Murder | Infinite Death |
+| 70 | ![Cover](https://i.discogs.com/xvhasNAfdAA34mDtD9Wnu1R6tVBfVbO_TwvkSJNNv7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzE3/NjMtMTI2MjM3NDQ1/Ny5qcGVn.jpeg) | 2007-05-22 | Despised Icon | The Ills of Modern Man |
+| 67 |  | 2007-10-02 | Born of Osiris | The New Reign |
+| 27 | ![Cover](https://i.discogs.com/J0lGA6asSIxbq3NeVaAxXhaLsn2gbJuXhGJ3VZ4Kq0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzIw/NTUtMTI1NTkwNDA5/MS5qcGVn.jpeg) | 2008 | The Red Shore | Unconsecrated |
+| 89 | ![Cover](https://i.discogs.com/qgNNyJjqMt9sq7JkVprfLCe---rrblcCpUUC4r5lEMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEy/MDItMTIxODMwMjg2/NS5qcGVn.jpeg) | 2008 | Plague Of Ashitaka | Taking Lives On Ancient Tides CDEP |
+| 39 | ![Cover](https://i.discogs.com/VUlHDVPlMRThN_2r-UqqHQoA-MkBr51NQBebKiq1Kg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDU2/OTYtMTM5MDEyMTI2/NC02NDEyLmpwZWc.jpeg) | 2008-06-20 | Drown My Day | One Step Away From Silence |
+| 87 |  | 2008-07-22 | A Breath Before Surfacing | Death Is Swallowed In Victory |
+| 99 | ![Cover](https://i.discogs.com/8rJPgdqmTjgXbc6RLqDLZ7KBE53ytaYiEbOqjthEy0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDIw/NDctMTI5NzE5MTYw/Ni5qcGVn.jpeg) | 2008-08-18 | Hybrid | The 8th Plague |
+| 72 | ![Cover](https://i.discogs.com/RNR6JXhBHXYLoLkptNaXd4iF2Km0may3zfM8N5TT1DI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTYz/NTktMTIyODE0MTM0/OS5qcGVn.jpeg) | 2008-10-14 | The Plasmarifle | While You Were Sleeping, The World Forever Changed In An Instant |
+| 94 |  | 2008-11-22 | Burning the Masses | Mind Control |
+| 64 | ![Cover](https://i.discogs.com/W3MPXK3tUbt7SiYLdPy_A-9-BoJyS_YWFTyIqjG7vkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODcx/ODItMTI3NjI3OTYx/My5qcGVn.jpeg) | 2009 | Neverending War | Muted |
+| 42 |  | 2009-02-28 | Here Comes the Kraken | Here Comes The Kraken |
+| 47 | ![Cover](https://i.discogs.com/pUmDPGQNlAZ0HLwKDIO49ZqN5_78LNHDE2KLMzX4lR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzM5/MDItMTM4NjUxOTUz/My0yOTkyLmdpZg.jpeg) | 2009-05-25 | Genocide of Prescription | Corporal Violence |
+| 80 | ![Cover](https://i.discogs.com/urnjXcyapQ6DBxHPUKReTd2uZd3bSRbz_4LjnCRvDuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTE2/NTYtMTQ1OTg5NDgy/MS01MTY4LmpwZWc.jpeg) | 2009-06-01 | The Crimson Armada | Guardians |
+| 22 |  | 2009-06-16 | The Boy Will Drown | Fetish |
+| 35 |  | 2009-07-13 | Despised Icon | Day Of Mourning |
+| 65 |  | 2009-10-12 | Those Who Lie Beneath | An Awakening |
+| 48 |  | 2009-11-03 | Sumatra | Heliocratic Infinity |
+| 55 | ![Cover](https://i.discogs.com/zFpo7prfFpOEALILBuYDslHRuK8YUaHIXljZFgQRetU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzEx/MTMtMTU0NjA2NTMz/Mi05MTE5LmpwZWc.jpeg) | 2010 | Signal The Firing Squad | Earth Harvest |
+| 85 | ![Cover](https://i.discogs.com/y2gESUirZB5dBHOol3ozvbG49EOd84eK1VWP-5b0J4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTY0/MTItMTI5NzgzNjQy/NC5qcGVn.jpeg) | 2010 | Here Comes the Kraken | The Omen |
+| 19 |  | 2010-05-25 | Rings of Saturn | Embryonic Anomaly |
+| 18 |  | 2010-07-16 | Thy Art Is Murder | The Adversary |
+| 52 | ![Cover](https://i.discogs.com/q8nol2Nr6jOzuj761a84huUY61BMJV2GHzGOLmv15LU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjc3/OTMtMTQ4MzUzNjU4/OC0yMzU0LmpwZWc.jpeg) | 2010-08-17 | The Last Felony | Too Many Humans |
+| 66 |  | 2010-10-04 | Diskreet | Engage The Mechanicality |
+| 90 | ![Cover](https://i.discogs.com/5BhLBAab8pizqIYR4DHz-wCfXQ8plRPhG0sTsXSBnbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Mjkx/NzgtMTYwMDEzODc4/Ni00MDYxLmpwZWc.jpeg) | 2010-11-23 | Applaud The Impaler | Anthropophagi |
+| 53 | ![Cover](https://i.discogs.com/hzMKtZH7cavQ4rdNZBNrjLocKF_uVsylUFeLrNZKTfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjc2/MjYtMTM5MDY1ODQw/Ni02NDYyLmpwZWc.jpeg) | 2011 | Boris the Blade | Tides Of Damnation |
+| 79 |  | 2011-04-05 | Cytotoxin | Plutonium Heaven |
+| 54 |  | 2011-07-26 | All Shall Perish | This Is Where It Ends |
+| 44 |  | 2011-12-02 | Aversions Crown | Servitude |
+| 24 | ![Cover](https://i.discogs.com/mGOyPMtOfVojAuvBSR_e5CBeJlt3QJOHIJiMZ6fvBeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTA1/OTItMTQyMzA1MTc2/MC0zNzgyLmpwZWc.jpeg) | 2012 | Angelmaker | Decay |
+| 9 | ![Cover](https://i.discogs.com/fXeoQX7x8dadychSw69QRcxb7Et31CxU2w0b8Ij3oJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTI0/NjgtMTU3NjQwODky/MC02Nzk5LnBuZw.jpeg) | 2012-06-19 | Chelsea Grin | Hostage |
+| 50 |  | 2012-06-19 | Chelsea Grin | Evolve |
+| 46 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3ab2aed8c5b20a330852debb1ce0295a.png) | 2012-10-19 | Thy Art Is Murder | Hate |
+| 60 |  | 2012-10-23 | Abiotic | Symbiosis |
+| 13 |  | 2012-10-28 | Rings of Saturn | Dingir |
+| 81 | ![Cover](https://i.discogs.com/MVVqR4aFOlJ0MTpM3WY4m1dwGR_tIWQmg67Y_dL8e_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzE0/OTYtMTM1NzYwNTM2/My02ODA5LmpwZWc.jpeg) | 2012-12-11 | So This Is Suffering | A Deathscene On Delay |
+| 10 |  | 2012-12-12 | Infant Annihilator | The Palpable Leprosy of Pollution |
+| 95 | ![Cover](https://i.discogs.com/srfHYxFid9L3BquFIwj7EElPmWn6FoNLFVJKWpIUVeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzEz/OTEtMTM4MzcyMjk1/Ny0xNjUxLmpwZWc.jpeg) | 2013 | Science of Sleep | Exhaust |
+| 96 | ![Cover](https://i.discogs.com/2dS-M9yDnmh-06I1wE_kLxYMscEzC3UHTjuR0I7SwHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODc5/NjQtMTQ5ODg2NzQz/MC0xNTA5LnBuZw.jpeg) | 2013 | Dissonance in Design | Sentient |
+| 97 |  | 2013 | The Raven Autarchy | Kaonashi |
+| 63 |  | 2013-01-07 | The Holy Guile | FSU |
+| 6 | ![Cover](https://i.discogs.com/5hBgeqI82XsKLOTj1Q7aHJGlA5Qlg5rtxWQxYT2I-qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDA4/MjItMTU5Mzc3NTYy/Mi04NjU4LmpwZWc.jpeg) | 2013-01-28 | Acrania | Exterminate the Liberated |
+| 93 | ![Cover](https://i.discogs.com/7DZZm8ARkx-7gpoI2rC6aAlbXUSjj-rOs5-QLuCHESg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDUw/NzEtMTQ0Nzg5Mzk0/NC05OTE1LmpwZWc.jpeg) | 2013-06-07 | I Shall Devour | Manipunation - EP |
+| 43 |  | 2014-04-29 | Martyr Defiled | No Hope No Morality |
+| 14 | ![Cover](https://i.discogs.com/ey_KqI0W9jtHoVtuDB9StEf2MFTmGtwMC1XzayoqoTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDA0/MzAtMTY4NTk5Mzgy/My04NDI3LmpwZWc.jpeg) | 2014-08-19 | Acrania | Totalitarian Dystopia |
+| 83 | ![Cover](https://i.discogs.com/Fo-o3LnZQZok3yOLWoO7qyybV4BGuOfrcPFYyB6LSAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ5/MDctMTU5MjMzMjQw/MS0zMDUxLmpwZWc.jpeg) | 2014-10-07 | The Holy Guile | OG |
+| 17 |  | 2014-10-14 | Rings of Saturn | Lugal Ki En |
+| 57 | ![Cover](https://i.discogs.com/4JGUz0xYovmTbYMoPg1daHwgoHG5hjZNxkCjOqTYBwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTkw/MDY2LTE1MDA0OTUy/NjUtMTM2NC5qcGVn.jpeg) | 2014-10-14 | Rings of Saturn | Parallel Shift |
+| 71 | ![Cover](https://i.discogs.com/qaO762B2Q3EN_UtT6Imn2CnydwWL3bhEFKLOckHz2wM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzUy/MjItMTQxNjc0ODcz/Ni01MTg2LmpwZWc.jpeg) | 2014-11-21 | Aversions Crown | Tyrant |
+| 21 | ![Cover](https://i.discogs.com/pMZUqn9FLZOk9QY03E4CBhhh7g8YiOINbuF8KXkYcQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTcx/NDMtMTQ4NTI1NDU5/NS0zNTE0LnBuZw.jpeg) | 2015 | Thy Art Is Murder | The Son of Misery |
+| 37 | ![Cover](https://i.discogs.com/vUKxbVRG5fLB2jXH8y5SCaN9_DVWUZgcMd9sgX4BCyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjk3/NDItMTQzNjI1ODU4/OC04MzAwLmpwZWc.jpeg) | 2015 | Thy Art Is Murder | Holy War |
+| 51 | ![Cover](https://i.discogs.com/2r6FleawQFL9KsbMXzcSgZYFVJCgYIPvVWmsSOvOMfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk3/MTYwLTE1NzMyMTc3/NDMtMjQwNC5qcGVn.jpeg) | 2015 | Thy Art Is Murder | Light Bearer |
+| 45 | ![Cover](https://i.discogs.com/fvpJpttCdvjUsZE4nj5MSbRofFSA__HzeE8OGpc-YFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTg5/NTEtMTQyNDAzNDY0/Ny00MjE4LmpwZWc.jpeg) | 2015-02-13 | A Night In Texas | The God Delusion |
+| 16 | ![Cover](https://i.discogs.com/kv9dLm4U0Mz7wAvg6t96MrVN2cBT_7cY24bgrTREV8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDAx/NTAtMTQ0NDg3ODAx/Ny05MTA2LmpwZWc.jpeg) | 2015-02-25 | Angelmaker | Dissentient |
+| 69 | ![Cover](https://i.discogs.com/Eku9eqv_ja56ZMJZ9UdI9evMwoQsy8uy5Os8ITpiVRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjI2/NDUtMTQzOTgzMzAy/Ni02MzE2LmpwZWc.jpeg) | 2015-04-21 | Abiotic | Casuistry |
+| 25 | ![Cover](https://i.discogs.com/qCu4Q5mPy9uTrKwGjBnh_9r9fV5G3tkd69wKEK84mDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzYw/NTk4LTE1OTAyODkz/NzUtOTI3OC5qcGVn.jpeg) | 2015-12-11 | Chelsea Grin | Skin Deep |
+| 68 | ![Cover](https://i.discogs.com/Xe-F-WIUkcawBuaQyLg4HzJ4-wvd7gFGIqIekgT8noU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTgy/ODkzLTE1MTg5MDM3/MTUtMzgzNy5qcGVn.jpeg) | 2016-03-17 | Aeons of Corruption | Rotten |
+| 2 | ![Cover](https://i.discogs.com/ZjrdbWOBFpONSOijG7BTYZY10tDwORsD-5jVtoqinLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjY4/NzItMTU2ODU2MzU5/Mi01NDk4LmpwZWc.jpeg) | 2016-07-29 | Infant Annihilator | The Elysian Grandeval Galèriarch |
+| 91 | ![Cover](https://i.discogs.com/KO7D7cVmjmI7Aea-P-37afRAnR4GsjeDFNn73FgKk7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTg1/MDktMTQ4NDI3MDE1/MS0yMjY4LmpwZWc.jpeg) | 2017 | Until We Die | Before The Decay Of Time |
+| 28 | ![Cover](https://i.discogs.com/VuCo2W-VcJc6-I8s6qnholSxguz4yD-2ucd7szMB9yo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDY3/MDk0LTE1OTIwMDE0/NjctOTc3NC5qcGVn.jpeg) | 2017-02-21 | Jared Dines | But Does It Djent |
+| 30 | ![Cover](https://i.discogs.com/nBveTC7mlLxChIpk1aaI_rj3O7FWpXpePNbtO9_cOjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA2/NjI3LTE1MDc1Nzk4/NzYtNDg2My5qcGVn.jpeg) | 2017-04-28 | Shadow Of Intent | Reclaimer |
+| 36 | ![Cover](https://i.discogs.com/gWi2RvI0QZ8ZOBZuWRSe4IlIWomsG5efW5h_M9fPUr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTkw/MDU2LTE1MDA0OTUw/MjUtMjY3NS5qcGVn.jpeg) | 2017-06-02 | Rings of Saturn | Inadequate |
+| 8 | ![Cover](https://i.discogs.com/-TgjwSkC7X8-XPNWsH3mKkG_rcxWx2dffcbqx6z6xUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE3/MzI2LTE2MDk1MDEw/MTQtNjQ2NC5qcGVn.jpeg) | 2017-07-28 | Rings of Saturn | Ultu Ulla |
+| 3 | ![Cover](https://i.discogs.com/pMZUqn9FLZOk9QY03E4CBhhh7g8YiOINbuF8KXkYcQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTcx/NDMtMTQ4NTI1NDU5/NS0zNTE0LnBuZw.jpeg) | 2017-08-18 | Thy Art Is Murder | No Absolution |
+| 78 | ![Cover](https://i.discogs.com/OqP7AjaCe5AR_o1GQlBkaCTLuE3B_RDVOxkaiXitRM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODgw/NTU2LTE1MDU4NDk3/OTQtNDgyMS5qcGVn.jpeg) | 2017-09-15 | Cannibal Grandpa | Septum Signa Inferno |
+| 40 |  | 2017-11-03 | Signs Of The Swarm | The Disfigurement of Existence |
+| 74 | ![Cover](https://i.discogs.com/ogDovf7dVSOuC0uZhp8DnFBRJK05AVbjPYmPqtTKdNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI4/Mjk5LTE1MzU0MTg1/MDYtNzI3NS5qcGVn.jpeg) | 2018 | Boris the Blade | Infernum |
+| 1 | ![Cover](https://i.discogs.com/qe5RNfnUCK_48wGnNhw7sxXaXarHKVt4BfLfCactcGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEx/MzUwLTE2OTQ3Njg5/NTUtNDc0OC5qcGVn.jpeg) | 2018-05-19 | Brand of Sacrifice | The Interstice |
+| 33 | ![Cover](https://i.discogs.com/kzZq_UFroUue79mCI41Kd58tXRedvoaGq29ithvr8o4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDMz/NzU3LTE1NTQxMjY1/NTMtOTMxNC5qcGVn.jpeg) | 2019-03-28 | Enterprise Earth | Luciferous |
+| 56 | ![Cover](https://i.discogs.com/kzZq_UFroUue79mCI41Kd58tXRedvoaGq29ithvr8o4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDMz/NzU3LTE1NTQxMjY1/NTMtOTMxNC5qcGVn.jpeg) | 2019-03-28 | Enterprise Earth | Foundation of Bones |
+| 11 | ![Cover](https://i.discogs.com/JlwJB5RoGLyVSOoHUFDgDCupvn6UtuMDaXOwe8LjDFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMy/NzkwLTE1NTk5ODA0/NjUtNzgyOS5qcGVn.jpeg) | 2019-05-31 | Angelmaker | Angelmaker |
+| 12 | ![Cover](https://i.discogs.com/ke9lyO_ezzhPJixj88Cjrgoz1e3JXpKTX7xxmXpo15g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQ0/Mjc3LTE1NjM3MDY5/NTItNTQ1NS5wbmc.jpeg) | 2019-07-05 | Brand of Sacrifice | God hand |
+| 5 | ![Cover](https://i.discogs.com/ETLN7P0cQjzUrrHugAhum7WVtBxuKco_kdkOJN1am6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTk2/MDQ1LTE1NjU3MTc4/ODgtNDQ0MS5qcGVn.jpeg) | 2019-08-16 | Shadow Of Intent | Melancholy |
+| 41 | ![Cover](https://i.discogs.com/bUiYefYCZUtyqNrqLwobRFWXV-WeBgzTdHUaSdl6txE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI5/NTQxLTE1NzAzMDY5/MDktNzc2My5qcGVn.jpeg) | 2019-10-11 | Signs Of The Swarm | Vital Deprivation |
+| 23 | ![Cover](https://i.discogs.com/fuTf_oRDTVjm6v3fl13a5Zg0qibT63R-5tSYAfR4OxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjcx/MTgxLTE1NzExNjE5/MDUtNzYyMi5qcGVn.jpeg) | 2019-10-25 | Rings of Saturn | Gidim |
+| 75 | ![Cover](https://i.discogs.com/HjGcUxVl4-PVUBq1ahsCaYKF2nH8IkrvsEO1Y0tT61w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzQ1/NTAtMTQ4MDUyMjU4/MS00ODI1LmpwZWc.jpeg) | 2020 | The Raven Autarchy | The Obscene Deliverance |
+| 38 | ![Cover](https://i.discogs.com/i7q1IVXufthFjeLjLpMXtT1zM6YSNa5ViW2eSrHFK7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQw/MDQ5LTE1NTQ4OTcw/MzktNjM0MC5qcGVn.jpeg) | 2020-05-04 | Veil of Maya | Doublespeak |
+| 34 | ![Cover](https://i.discogs.com/fejDrSRejlzFRFxRKZ9yfXe09n1WQhSRbmGTqgwlj6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDUx/NzA4LTE1OTI2MTEz/MTUtNTUwNS5qcGVn.jpeg) | 2020-06-12 | Aversions Crown | Hell Will Come for Us All |
+| 7 | ![Cover](https://i.discogs.com/uFz39-1e9fm7R-VU2WcxO_1b_TPOtWDP9Mk3RISvzI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDI4/NDEwLTE2NDAxNTA1/NDAtNzI5Mi5qcGVn.jpeg) | 2021 | Brand of Sacrifice | Enemy |
+| 31 | ![Cover](https://i.discogs.com/uFz39-1e9fm7R-VU2WcxO_1b_TPOtWDP9Mk3RISvzI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDI4/NDEwLTE2NDAxNTA1/NDAtNzI5Mi5qcGVn.jpeg) | 2021 | Brand of Sacrifice | Dynasty |
+| 49 | ![Cover](https://i.discogs.com/Wkk-wqWwXpbFfCkbndi-T_Oqcney3r3q_S2spW2Zw0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgy/Nzc2LTE2MzQxOTAx/NjYtNjc4Ny5wbmc.jpeg) | 2021 | DISEMBODIED TYRANT | The Divine Stigmata |
+| 62 | ![Cover](https://i.discogs.com/7v7dka0KPiQWykeQNd-OGJErED1UiiLZi0WXT74wvoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzg0/NzE5LTE2NTEzMTg3/MjEtMzU3Ni5qcGVn.jpeg) | 2021-02-12 | Humanity&#39;s Last Breath | Välde |
+| 4 |  | 2021-03-05 | Brand of Sacrifice | Lifeblood |
+| 82 | ![Cover](https://i.discogs.com/M2PjpXiw2kuatpd36RqXyo9ZbS3JTzgLIgWqj0exVe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjMw/NDE4LTE2MjExMjQz/MDMtMjM4OC5qcGVn.jpeg) | 2021-05-07 | osiah | Loss |
+| 77 | ![Cover](https://i.discogs.com/Q_wiTm-F5JBjkWuJjz4VWpyq9k3SJw35QJNCV1hEUJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTE0/MTI1LTE2MjY0NDAy/MDctMjM2My5qcGVn.jpeg) | 2021-07-16 | A Night In Texas | The Divine Dichotomy - Chapter I |
+| 32 | ![Cover](https://i.discogs.com/OlOU0s6f2OJT2BNjYthvy8BokuiYkomCcfKICUVu3ZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzM2/MTYxLTE2MzIzODk1/ODgtNzg4MC5qcGVn.jpeg) | 2021-09-16 | Angelmaker | Dawn |
+| 29 | ![Cover](https://i.discogs.com/t1wdBqi0xsHEp8FmPLKpKskZU2Zq0mQnIQ6_AA0GZPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzM3/MTEwLTE2NDIxODY2/MTUtMzk2OC5qcGVn.jpeg) | 2022-01-14 | Shadow Of Intent | The Migrant |
+| 76 | ![Cover](https://i.discogs.com/hOeHqJusFCrRwhePcbq7Hjym3d-vE8hB-8hfaGq2SsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQz/MzU3LTE2NjUzMzY5/NTYtNzgyMi5qcGVn.jpeg) | 2022-01-14 | Enterprise Earth | The Chosen |
+| 86 | ![Cover](https://i.discogs.com/Jqlw_QJfZW2A7U0etKJvpN38ZZwaWML7BqiJOvOtKhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTA4/NDUwLTE2NDcyNzI3/MzctNjA4My5qcGVn.jpeg) | 2022-03-11 | Arkaik | Labyrinth of Hungry Ghosts |
+| 59 | ![Cover](https://i.discogs.com/R_kWiqeruE9o-VuxXKIVb40xFmvIbdc79XtN-Fhishw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjE2/MS0xMTc0MjUwMjE5/LmpwZWc.jpeg) | 2022-06-08 | Viscera | Sungazer |
+| 88 | ![Cover](https://i.discogs.com/nWIokPlPksW9bWZq2fD1UfWMrO5fb1TQ7i9CvWY96YE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTY2/NjI3LTE2NTg1MTIz/ODgtNjgzNi5qcGVn.jpeg) | 2022-07-08 | Greylotus | Dawnfall |
+| 61 | ![Cover](https://i.discogs.com/2AGMvAX_K_ZUcmC5Jlp_CuNPFm-SYzUdUtMmbv9WMNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDk5/ODgzLTE2ODMzNDEy/NzUtOTUwOS5qcGVn.jpeg) | 2022-09-01 | SPIRE OF LAZARUS | Soaked in the Sands |
+| 20 | ![Cover](https://i.discogs.com/KTpo9gu2iR18Tamx5fHdCN3Iazb3eM-EOCwcGjzlx1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzQ5/NDctMTQzMjE3MzEx/MS0zOTQ2LmpwZWc.jpeg) | 2023-05-12 | Veil of Maya | Overthrow |
+| 84 | ![Cover](https://i.discogs.com/poX3rxz0-Kv3niYWy0SvKWa3EeT_BHCSFK2HPcgAMZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTg0/NzUyLTE2ODk4MDgz/NTEtNDIyNS5qcGVn.jpeg) | 2023-05-19 | Blindfolded and Led to the Woods | Rejecting Obliteration |
+
+### Related genres
+
+- [deathcore]({{ "/tags/deathcore" | relative_url }})
+- [death metal]({{ "/tags/death-metal" | relative_url }})
+- [technical death metal]({{ "/tags/technical-death-metal" | relative_url }})
+- [progressive deathcore]({{ "/tags/progressive-deathcore" | relative_url }})
+- [brutal deathcore]({{ "/tags/brutal-deathcore" | relative_url }})
+- [metalcore]({{ "/tags/metalcore" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
+- [hardcore]({{ "/tags/hardcore" | relative_url }})
+- [djent]({{ "/tags/djent" | relative_url }})
+- [grindcore]({{ "/tags/grindcore" | relative_url }})

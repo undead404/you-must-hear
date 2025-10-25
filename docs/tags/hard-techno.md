@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T09:13:38.997Z
+permalink: tags/hard-techno
+title: hard techno
+---
+
+## hard techno
+
+Last updated: <time datetime="2025-10-22T09:13:38.997Z">Wed Oct 22 2025 12:13:38 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 1 |  | 1977 | Various Artists | AKRONYM 006 |
+| 7 | ![Cover](https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg) | 1977 | Various Artists | The Gomboc Stone |
+| 12 | ![Cover](https://i.discogs.com/YDbAZLUw9bYF49OyefODenSmY9TKHtYw-7KVpDFMzbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTIw/MDI2LTE2NTQ3OTc4/MTgtNDA4NC5qcGVn.jpeg) | 1977 | Various Artists | Unity152 |
+| 37 |  | 1977 | Various Artists | Yin-Yang |
+| 10 | ![Cover](https://i.discogs.com/ADOhnsChU7pjVUJxEONEPNzof5W1_Iych1gqMCADsF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzg3/NTEtMTQxNzc4Nzg5/MS05MDM4LmpwZWc.jpeg) | 1986-02-23 | Swart | Everything Will Be Better |
+| 19 | ![Cover](https://i.discogs.com/ImLi-ZlwMfFwoxe5HZoqDMpi5mde85DtdAWm3N4jddo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njgt/MTM5OTMyOTQwOS05/MTczLmpwZWc.jpeg) | 1997 | Chris Liebing | Dandu Groove |
+| 2 | ![Cover](https://i.discogs.com/P87YmeWBGCIAHJumOja_E9mJEwk558sT2P_bKv0MapU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTEz/LTEyMjE1NzMyODgu/anBlZw.jpeg) | 2001-06-28 | Kate Mosh | Dynamo |
+| 39 | ![Cover](https://i.discogs.com/ZnKJ_JqcaPePD0sO8QCZaCNx-6eHVDOapn2Jb6chL_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE5/Ni0xNTI3OTc3NzA5/LTI2MTcuanBlZw.jpeg) | 2002 | Milky | In My Mind |
+| 33 |  | 2003-06-10 | Chris Liebing | Evolution |
+| 41 | ![Cover](https://i.discogs.com/p5uuZPWvBBplPVq1V5ON1ot0nGSno2XjF0_PAelhfwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTM1/My0xMTU0MzUxNjc3/LmpwZWc.jpeg) | 2005-12-12 | NOIRDEGOUT | FIRST ASSAULT E.P |
+| 18 | ![Cover](https://i.discogs.com/2_cMmrRZCwm-lEaKGYqVkqYXFEI5NtZUSsOrXyy89eI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQx/MjUtMTIyMjM4MDAw/OC5qcGVn.jpeg) | 2008-09 | Miss DJax | Inferno |
+| 45 | ![Cover](https://i.discogs.com/gtATIen0C5LWVt-9Nkk8HYl0PVQ1kFo3-rhCvqvoNDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTg3/NTAtMTMxNDUzOTUx/NC5qcGVn.jpeg) | 2009 | Waldhaus | The Waldhaus Doctrine EP |
+| 54 |  | 2009 | Various Artists | WIXAPOL, VOL. 2: SORY WIRUS |
+| 56 | ![Cover](https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg) | 2009 | Various Artists | Gomboc Satellite Transmission |
+| 35 |  | 2009-09-28 | Satronica | Life Blood Pain Death |
+| 38 | ![Cover](https://i.discogs.com/42hkAuwnW5v3f9cPG6LgGNgPP_2Maq1tvdV8oZlor6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzgw/MzQwLTE3MjY4MzAx/OTMtMjkyOC5qcGVn.jpeg) | 2012 | Lana Del Rey | Blue Jeans (Remixes) |
+| 50 |  | 2012 | Regis | Death Head Said |
+| 62 | ![Cover](https://i.discogs.com/ilGaMojkTpF7JsgbgcXfrEPYo_tSKoKycqJ40FJZIhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjcw/MDYtMTMzNzkzODIw/NC04MTgzLmpwZWc.jpeg) | 2012-01 | USH | Cluster Bomb |
+| 15 | ![Cover](https://i.discogs.com/H6GBToaa1uwp2_vTIJ_sWsOpfV0DLK5Ymue7ZZtoBF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzM0/MDMtMTQ2MTY5NzQ4/NC0yNDkxLmpwZWc.jpeg) | 2013 | PLVS VLTRA | LOVE WILL TEAR US APART |
+| 27 | ![Cover](https://i.discogs.com/G0qetzPFvyAY_LP-k5k0AP4vKIuf75VKQaooXna8JDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQy/MDg2LTE2NDI5NjAx/MjAtNTA0Ny5qcGVn.jpeg) | 2013-01-03 | Ryuji Takeuchi | BRV003 |
+| 14 | ![Cover](https://i.discogs.com/bFCKaEBpKjJkUlfm9xZrD2JgNcMvHbSmSU38O5EhsTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Njcz/MjgtMTM2ODYwMjYw/Mi0yNDYyLmpwZWc.jpeg) | 2013-03-22 | 2Loud | Elements |
+| 22 | ![Cover](https://i.discogs.com/wDqbKIWaOKhcNW87AesqPK6N0_VO6k4PRt-F9YWLqn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTUw/NjYtMTQ1NTAzOTg2/NC00NTAxLmpwZWc.jpeg) | 2016-02-12 | Perc | Dirt |
+| 72 | ![Cover](https://i.discogs.com/BJc7-64XW1LuKcPXra6D_oxhj-PqKIkDB7Gn9oBuoeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njgz/NzUtMTQ2NjI1NzE5/OC0yODAzLmpwZWc.jpeg) | 2016-05-30 | Cirez D | IN THE REDS |
+| 59 | ![Cover](https://i.discogs.com/hlcsEYkSmly82L4SdP-Y8Oa_H1jFT43tFsSUNc0cKT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjk0/OTIzLTE1MDI1NTc5/MzctNzU0Ni5qcGVn.jpeg) | 2016-08-19 | Amelie Lens | Let It Go |
+| 76 | ![Cover](https://i.discogs.com/amaGmAE_cqhO1CvCwCHKK2ZbWwCxqiTxm1TN3vJUkgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzUz/NDgxLTE1MzQ4MzQ4/ODEtNzY0NS5qcGVn.jpeg) | 2017-03-06 | Lilly Palmer | Excess EP |
+| 83 | ![Cover](https://i.discogs.com/gEBMt0pSZ7dH4WGCpQX-Prt2So4CqklFxmgfxsMVtXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjgz/MDI2LTE1MDIzMjAz/MjYtNzg5Ny5qcGVn.jpeg) | 2017-04-14 | Amelie Lens | Contradiction |
+| 98 | ![Cover](https://i.discogs.com/2tgLgt84vl0mjVefJwZ4s8_lWK9XPqIGPhAYBIP8jWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjE1/MzQ2LTE1ODgwODQ2/NzAtNDEwOS5qcGVn.jpeg) | 2017-11 | Amelie Lens | Stay With Me |
+| 3 | ![Cover](https://i.discogs.com/yvhs8QigNllQDOBQBknPKYKxCaDbEaN2QIWN6ll2FbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc2/OTUxLTE1NTY4MjM5/NjAtNDYyMC5qcGVn.jpeg) | 2018-02-12 | Sara Landry | Value |
+| 61 | ![Cover](https://i.discogs.com/yvhs8QigNllQDOBQBknPKYKxCaDbEaN2QIWN6ll2FbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc2/OTUxLTE1NTY4MjM5/NjAtNDYyMC5qcGVn.jpeg) | 2018-02-12 | Sara Landry | Riot |
+| 71 | ![Cover](https://i.discogs.com/yvhs8QigNllQDOBQBknPKYKxCaDbEaN2QIWN6ll2FbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc2/OTUxLTE1NTY4MjM5/NjAtNDYyMC5qcGVn.jpeg) | 2018-02-12 | Sara Landry | Chasm |
+| 88 | ![Cover](https://i.discogs.com/yvhs8QigNllQDOBQBknPKYKxCaDbEaN2QIWN6ll2FbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc2/OTUxLTE1NTY4MjM5/NjAtNDYyMC5qcGVn.jpeg) | 2018-02-12 | Sara Landry | Incoming |
+| 100 | ![Cover](https://i.discogs.com/yvhs8QigNllQDOBQBknPKYKxCaDbEaN2QIWN6ll2FbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc2/OTUxLTE1NTY4MjM5/NjAtNDYyMC5qcGVn.jpeg) | 2018-02-12 | Sara Landry | Legacy |
+| 66 | ![Cover](https://i.discogs.com/hxPi-Rm7HtqNmx-huPySm1xWdwuhN8s_DsIn0nVTc74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc2/OTYzLTE1NTY4MjQx/MTgtMzEzMS5qcGVn.jpeg) | 2018-03-26 | Sara Landry | No Sleep |
+| 24 | ![Cover](https://i.discogs.com/mfm4Y7seKeRj33dgYyF-i9SmltN9BlIC967SK4uPvrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzQ0/NTYyLTE2NDIyNDI2/OTgtNzM0Ni5qcGVn.jpeg) | 2018-04-20 | Von Bikräv | 200% Bibi |
+| 84 | ![Cover](https://i.discogs.com/DyWIBAXOI956xl7IAjtQPwbHxkAhLP7tTw0V0BnBt04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc3/MjU5LTE1NTY4Mjc5/OTEtNTA0NC5qcGVn.jpeg) | 2018-10-29 | Sara Landry | Rebirth |
+| 89 | ![Cover](https://i.discogs.com/7lRc34WYYNESjFN4PPV6_JV6fOuCycXIBeqRtS1fAX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY5/NTkzLTE1NDM1MjIw/OTAtNDI2NC5qcGVn.jpeg) | 2018-11-23 | Amelie Lens | Basiel EP |
+| 63 | ![Cover](https://i.discogs.com/w9zF1oiw9kF2v4k4dXOO7ZR1G4x_aUSGyOftc_DbT-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjMy/NzI4LTE1NTc5Mjgy/MTAtMjI3OC5qcGVn.jpeg) | 2019-01-25 | Lilly Palmer | My Fantasy |
+| 44 | ![Cover](https://i.discogs.com/EX5o8d6P6jTXnU3_L_qo5So1DwPFsdzCZ4PUpLtYHs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzU0/MTE5LTE1ODA5MzM3/NDktODEzNS5qcGVn.jpeg) | 2019-01-28 | Flug | The Hedonist EP |
+| 92 | ![Cover](https://i.discogs.com/4ETsHrysESpewOzaKtsNJjb0qt6FiRwnyR_Dii8wg98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU3/NTMzLTE1ODY1MDM2/ODAtODY2OC5qcGVn.jpeg) | 2019-07-12 | Amelie Lens | Hypnotized |
+| 82 | ![Cover](https://i.discogs.com/kfIzzPH9CEnBOkTieHWL2hbtQ79hcacQTdeFojC1I6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE3/MTEyLTE1ODY4ODk2/NzItOTU5MC5qcGVn.jpeg) | 2019-09-13 | Amelie Lens | Little Robot EP |
+| 6 | ![Cover](https://i.discogs.com/1Vbj0k5WFAxVSYvEK1AGfcD4ANwVchhDYUaQpBWIJPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzk3/Njk3LTE1ODE3OTM4/NzctNDgxMy5qcGVn.jpeg) | 2019-10-31 | Gijensu | Need For Lead |
+| 43 | ![Cover](https://i.discogs.com/fdSTv0IZmmLKmA58Ka1t-3y1FyDiOmXNlQksRK-eAI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzU3/ODExLTE1NzI4OTYw/MTktNDE1OC5qcGVn.jpeg) | 2019-11-01 | Sara Landry | Delirium - EP |
+| 91 | ![Cover](https://i.discogs.com/fdSTv0IZmmLKmA58Ka1t-3y1FyDiOmXNlQksRK-eAI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzU3/ODExLTE1NzI4OTYw/MTktNDE1OC5qcGVn.jpeg) | 2019-11-01 | Sara Landry | Sacrifice EP |
+| 29 | ![Cover](https://i.discogs.com/PeQ1Tlu-K4V3oBB4LktTlO87-Ae47DZ312kZMN6F9nM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjQy/NTE1LTE2MTQ2MTA1/NTctNDgwMS5qcGVn.jpeg) | 2020-03-30 | Illiya Korniyenko | Race Wars |
+| 99 | ![Cover](https://i.discogs.com/DjWES1h01Jbh92sXyGO4yY1NvhK1rj7a_JVP1Gs9zHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA0/MDYwLTE2Nzc4ODM4/NDUtNzU5Ny5qcGVn.jpeg) | 2020-04-24 | Brutalismus 3000 | Amore Hardcore |
+| 31 | ![Cover](https://i.discogs.com/x4Xt3V4O3vDWyh7dLEA2MGGMglfsnE3PH_bVgGOAB7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTEy/MDE0LTE2MTA1NTc1/ODEtNTg1OS5qcGVn.jpeg) | 2020-07-13 | achiever | Sacred Oath |
+| 5 |  | 2020-07-28 | KUSP (UK) | Infernus EP |
+| 90 | ![Cover](https://i.discogs.com/h0FGW2KEEQ3jygxgA7NrWeyf9u6MUoT9M9QYSD9obq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAy/NzM2LTE1OTgwODA0/MjEtNTM2OS5qcGVn.jpeg) | 2020-08-21 | Amelie Lens | Weight Of The Land |
+| 94 | ![Cover](https://i.discogs.com/h0FGW2KEEQ3jygxgA7NrWeyf9u6MUoT9M9QYSD9obq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAy/NzM2LTE1OTgwODA0/MjEtNTM2OS5qcGVn.jpeg) | 2020-08-21 | Amelie Lens | Higher EP |
+| 13 | ![Cover](https://i.discogs.com/eUry57PxwMRT_5DwJ5m1x1KbIs6vMrETq6FxNiLUda0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQ0/NjgxLTE1OTY5OTM5/MjktNjY0NS5qcGVn.jpeg) | 2020-11-06 | Disruption | Ukiyo |
+| 95 | ![Cover](https://i.discogs.com/MYj4kqJT4NwuBrwTKpnx-AAtnw6Aaj1YS4X8YFk_4s8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTAz/OTA3LTE2NTAxMzE0/NzItMTM4Mi5qcGVn.jpeg) | 2021-01-18 | Sara Landry | Queen of the Banshees |
+| 23 | ![Cover](https://i.discogs.com/Ozirkeayl-l5z_wQBAQWYlHxae6vjh2BddAld3VsPEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTcx/Mjc0LTE2MDg1NTky/NTAtMjE0OC5qcGVn.jpeg) | 2021-02-21 | tred | Realities &amp; Fictions |
+| 52 | ![Cover](https://i.discogs.com/n8b2LE0sOzoinT_v5fCAMemlcaZ28PePpr9FH9LX-8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzg3/NjIyLTE2MTU0NDg2/NTItMTk2My5qcGVn.jpeg) | 2021-03-05 | reece cox | Emotion 1 |
+| 49 | ![Cover](https://i.discogs.com/aodRPMTRR1i6aBoZNLnwennypB4ePbG2H4rmns0W3aA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDI3/MTc2LTE2NDY2OTE5/NTctMjI1MC5qcGVn.jpeg) | 2021-03-15 | Lukas Firtzer | Retaliation |
+| 42 | ![Cover](https://i.discogs.com/Q5dX0GxSoaFEJgHJoN5PtQBlldQST5dSshN4f77kk-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTcz/MDY0LTE2NDQ5NjQ4/NzktNDIzOS5qcGVn.jpeg) | 2021-05-26 | Amazingblaze | Speed Tracks vol.2 |
+| 48 | ![Cover](https://i.discogs.com/dT1nChA1afizQ5ObzAU9wdUE87L7hKh60-UO0tfgCBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTc0/NTg3LTE2MjI3NTg1/MTItNzQ5Mi5qcGVn.jpeg) | 2021-06-04 | Lucinee | We Trip And Roll (Remixed) |
+| 32 | ![Cover](https://i.discogs.com/SNed2CFJuyHb-8gE4tIE_9IxJkg4E4GAV4YLVmwaBZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjU4/MzMwLTE2MjQ1Mzcx/NTEtMjI0Mi5qcGVn.jpeg) | 2021-06-25 | New Frames | Burn Rate |
+| 21 | ![Cover](https://i.discogs.com/doiW8lylNdPg4eC_TRMlCcnHLxL8MnyoetAEb3vR_DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTg0/OTg1LTE2MjcxMjcx/OTUtOTc1Ni5qcGVn.jpeg) | 2021-07-23 | CRAVO | Eternal Paradox |
+| 25 | ![Cover](https://i.discogs.com/X4BQOAzisEtrD3t3fsFhP0uxwJsFaH9pouIB-_wChzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTc2/Nzc1LTE2NzY5ODM5/MjMtMjYzMC5qcGVn.jpeg) | 2021-07-28 | Vendex | The Lord Of Terror EP |
+| 40 |  | 2021-07-30 | Lilly Palmer | Aether |
+| 86 | ![Cover](https://i.discogs.com/TXL5Af5mRkSaZqj6c4o1mr5Geq7JBuvTXEmUhh8_lXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTE0/MjIyLTE1OTI4MTQz/NTItMjExMi5qcGVn.jpeg) | 2021-08-03 | WNDRLST | Two Steps From Hell |
+| 26 | ![Cover](https://i.discogs.com/YX4ezPwjYK8gNuvr2GH76WfpWv1m010aiCA7-bwB3MU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTM5/ODQ4LTE2NDQ3NDk3/NTAtODM1NS5qcGVn.jpeg) | 2021-11-05 | Geerson | Undoing Time |
+| 57 | ![Cover](https://i.discogs.com/-F5-Zssug-2hj98kYpKTqrAr0PD93ygzgc3HL16hCpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTI1/MTA2LTE2MzcyNDM3/MDAtNjA3MS5qcGVn.jpeg) | 2021-11-12 | Jacidorex | Mindset |
+| 58 |  | 2021-11-12 | Lilly Palmer | Temptation |
+| 4 | ![Cover](https://i.discogs.com/Htgq-g3IY1SwBGPLV35tE-4lcWPjA__cprnimfkiIhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTY4/MzE0LTE2NDM2NDQ3/NTEtOTM1MC5qcGVn.jpeg) | 2021-11-21 | Mython | No Room for Doubt |
+| 64 | ![Cover](https://i.discogs.com/aMv_uWRDUH2geo_XOjc7vN6ZjiGwUsiUw8mhhCuhCB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzgz/NTI0LTE2Mzk5MTQw/MjEtNTM3MS5qcGVn.jpeg) | 2021-12-17 | Sara Landry | ABOUT LAST NIGHT EP |
+| 11 | ![Cover](https://i.discogs.com/_RT9g-TgUwhpAHkPGx6k8F8H9WFWg-4JRpAp0_DK8O8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDMw/MDU3LTE2NDAwNzQ4/MTAtMjgxMC5qcGVn.jpeg) | 2021-12-21 | Ben Reymann | Straight Sight EP |
+| 53 | ![Cover](https://i.discogs.com/h9WJs8wrrRkSQRxK-7qWH5iE8i5Dw2JvvDyg05SSOt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODEy/MzYyLTE2NDI3NzE3/NDctNzA3NC5qcGVn.jpeg) | 2022-01 | Valerie Ace | Glitzer Vs Hass |
+| 9 | ![Cover](https://i.discogs.com/Di3naP7fffSSFdbgbsmHLYTWX_llIO6sxKoPnXiVOe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTg5/OTY4LTE2NjMxNTk5/OTQtMjc2Ni5qcGVn.jpeg) | 2022-02-16 | REPHATE | Every Dog Has His Day |
+| 16 | ![Cover](https://i.discogs.com/E47VX9HwYL1kQOqcYbCnEXXmJ60iiwsGtSJyH9bGtyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg3/Mzk0LTE3MjU4MjI0/MTktNTEzMC5qcGVn.jpeg) | 2022-04-06 | FLUCC | HS09 |
+| 51 | ![Cover](https://i.discogs.com/E47VX9HwYL1kQOqcYbCnEXXmJ60iiwsGtSJyH9bGtyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg3/Mzk0LTE3MjU4MjI0/MTktNTEzMC5qcGVn.jpeg) | 2022-04-06 | FLUCC | Bonne Soirée (Anthem 4 My Berlin Gabbers) |
+| 8 | ![Cover](https://i.discogs.com/CDAzmY15BUyGunMCmKnucUVWC-JAHJbGPezPqdDpYpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzM5/NzMwLTE3MzIxMjc1/MjgtNjcxNi5qcGVn.jpeg) | 2022-06-09 | sLime Coca | Уральский Сквирт |
+| 34 | ![Cover](https://i.discogs.com/bRpMUXBWsULA22pj4ieZ5FhFZX4t8Igo62yIttZpDpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY5/NjcwLTE2NjMwODQ2/OTUtMTgzMC5qcGVn.jpeg) | 2022-08-15 | Schacke | Apocalyptic Decadence |
+| 20 | ![Cover](https://i.discogs.com/JdIWHog8f5DgkhBXF8R5RgUlEV-UhMNXDoFpWY8xQVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTY4/MzM5LTE2NzY5MTE3/NzMtMjAxMS5qcGVn.jpeg) | 2022-10-03 | Vendex | Talisman Of Aranoch |
+| 47 | ![Cover](https://i.discogs.com/R8uUfHg3rZvWv183QddmIoE78APhyjs_7PaVfKOzXqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDY2/NDU1LTE2NzkxODIx/OTctNjk5Ni5qcGVn.jpeg) | 2022-12-31 | maniken05 | 777 |
+| 36 | ![Cover](https://i.discogs.com/3b_FJwVnviX0wb26KZhtiNog6Yex-kBMxK7tKXvpOUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc3/NDMwLTE2NzU0Mjk5/ODAtMzg5Ni5qcGVn.jpeg) | 2023-01-20 | Von Bikräv | Tape dans la tête |
+| 17 | ![Cover](https://i.discogs.com/fUYaoAgzxOFDr4qzxDgiHR2w2ZFi4sJ4kR2xti-GFJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTYx/NDAxLTE2NjM1NzQ5/ODEtNzY1OC5qcGVn.jpeg) | 2023-06-07 | gartex | XO |
+| 46 | ![Cover](https://i.discogs.com/pxTaiRKvsXWUkXNsvgCBlEyBWDywBt4lUyXoD5pQfLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njc0/NDE1LTE2ODkzNTM5/NjItNDU1Ny5qcGVn.jpeg) | 2023-07-14 | Lilly Palmer | You Are My Guide |
+| 28 | ![Cover](https://i.discogs.com/oOr6mJ9FjfybU8cL9LBoQveZxkA3CP6J6Otnro744Os/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDM1/ODY4LTE3MjkyNTMz/NzMtNjU4Mi5qcGVn.jpeg) | 2023-10-25 | Noise Not War | Beat Your Brain |
+| 55 |  |  | latex fruit | #fantasya |
+| 75 | ![Cover](https://i.discogs.com/Q7D5Rn_UyClWpSAr4gyFDyR1wiPwCcGrSFD6N3rcQ3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzg2/OTg1LTE2NTkwMjA0/MTUtOTcyMC5qcGVn.jpeg) | 2022-03 | CAIVA | Fatigue |
+| 77 | ![Cover](https://i.discogs.com/fDIwU0OvFOk0YMGzkzOA7OS5AReTelOoo1CVVgYwRL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg5/MTMxLTE2NzQ3MjA4/NjgtOTcwMi5qcGVn.jpeg) | 2022-07-13 | Doruksen | Rave Killa EP |
+| 70 | ![Cover](https://i.discogs.com/lVCCx7_FJl7MD22xgkDf7tv3FPdS9aNhwgAiAgocpEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODMw/MDc1LTE2NjU4MzA4/MzQtOTM0OS5qcGVn.jpeg) | 2022-07-15 | Amelie Lens | In My Mind EP |
+| 69 | ![Cover](https://i.discogs.com/SRsXn1gJs9BKyrPNDSJiwW-r539daikpuErRxhRp5Us/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDUz/MTI0LTE2Njc1ODY0/OTktNDM4NC5qcGVn.jpeg) | 2022-11-04 | Will Sparks | HARD |
+| 67 | ![Cover](https://i.discogs.com/vQCfpAlvHD2vN1KknwDY-PYYVbHuiECLZeTNASMsuqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk5/MjM2LTE2Njg3MzI1/OTEtMjEwNC5qcGVn.jpeg) | 2022-11-11 | Lilly Palmer | Fall In Love |
+| 68 | ![Cover](https://i.discogs.com/-1QOZdsx6NxAEvPRJmV74SRokdfMsR9DrfPRKP-fGPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDQ3/ODU4LTE2NzA4ODcz/OTMtOTY3MC5qcGVn.jpeg) | 2022-11-11 | Franck | Numbaz EP |
+| 73 | ![Cover](https://i.discogs.com/vQCfpAlvHD2vN1KknwDY-PYYVbHuiECLZeTNASMsuqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk5/MjM2LTE2Njg3MzI1/OTEtMjEwNC5qcGVn.jpeg) | 2022-11-11 | Lilly Palmer | The Violator |
+| 60 | ![Cover](https://i.discogs.com/tyir75x7ulCzsIrNJL4V96_UKSls-8_QOEayoVpuPLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTMy/OTMyLTE2Nzk2OTIx/NTgtOTcwNi5qcGVn.jpeg) | 2023-02-07 | WNDRLST | End of an Era |
+| 85 | ![Cover](https://i.discogs.com/x21q_yFnkdUVkpfVgSlT0gv9EHH2HtsvLnzuuhb4ou4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTA2/MDU4LTE2Nzk0OTcz/MjAtNzE5OC5qcGVn.jpeg) | 2023-02-17 | Trym | Trinity |
+| 87 | ![Cover](https://i.discogs.com/3pV43unz_BJa-F4-DMrZnkCYcDnOPSwb1992t2og6_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTIw/OTA1LTE3MDA5OTE0/NTUtNDEwMC5qcGVn.jpeg) | 2023-06-16 | Amelie Lens | Feel It |
+| 80 | ![Cover](https://i.discogs.com/NSscPAL316D4BqZA2AfEU2-_xq-AZ9UYujSozPuyKfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTIw/ODc1LTE2OTY2NjQ2/MTgtODEzMy5qcGVn.jpeg) | 2023-07-14 | Amelie Lens | Radiance |
+| 74 | ![Cover](https://i.discogs.com/iBsI9Q5KOTgrRXrSV8WiVZKJEKh-TWsG3-pCRpZDzXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDUy/MzYtMTQzNzA0NTM5/OS0zMDk2LmpwZWc.jpeg) | 2023-09-15 | Sierra | A Story of Anger |
+| 93 | ![Cover](https://i.discogs.com/xGRnsyOss4FuAQk-axft6zw9m0Yf6p5NZwDYYismGHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDIz/OTUxLTE3MDA5OTMy/NDAtMzg1Ny5qcGVn.jpeg) | 2023-11-17 | Amelie Lens | You and Me |
+| 79 | ![Cover](https://i.discogs.com/8zjvLBgLeEbDOBPacnUfFxTFJ88__jtm9zj94ay5r-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYy/NjM3LTE3MDg0Mzgz/MjYtMjUxMy5qcGVn.jpeg) | 2024-02-16 | Lilly Palmer | Hare Ram |
+| 81 | ![Cover](https://i.discogs.com/NP569lU0XTMTXVh9pPoeXi_uVGtwPfEtrp9iZJQNzrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTg3/MTU0LTE3MTEyNDI5/MzktNTcwMC5qcGVn.jpeg) | 2024-03-22 | Amelie Lens | Breathe |
+| 78 | ![Cover](https://i.discogs.com/gkTg-7NwgrrJbzAEcSXJ9qClxIgcHJElO-Kg1Uuqkgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MjY3LTE3MTYzMDYy/OTctNzk1Mi5qcGVn.jpeg) | 2024-05-17 | Lilly Palmer | New Generation |
+| 65 | ![Cover](https://i.discogs.com/0BnznTZhThIW7ZW0IeBOSJhX2KqOuDenznw9Z4YZGtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDk4/OTQ5LTE3MjM4Njcz/NTEtMzgzNy5qcGVn.jpeg) | 2024-08-16 | Lilly Palmer | All You Got To Do |
+| 30 | ![Cover](https://i.discogs.com/epjGwvWoxMbYUQPGEAZgw0GM7oEnZ3sfDyTBnSXoR9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTc2/MjM0LTE3Mjg3MDIz/NTUtOTYzNi5qcGVn.jpeg) | 2024-10-11 | Lilly Palmer | Hype Boy |
+| 97 | ![Cover](https://i.discogs.com/_f6_MgEaR_MI4lLa--o6G9e3wvoQB7KLngK6ksNVxWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDI0/NzA1LTE3MjkxNTA4/ODYtMjY2Mi5qcGVn.jpeg) | 2024-10-11 | Amelie Lens | Falling For You |
+| 96 | ![Cover](https://i.discogs.com/l2E2-E1RoGy21YqAP4MCOGG8Fbiw8gzZgxIvYYJFyoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjgz/NjkzLTE3MzE1NDkx/OTAtNTAyNy5wbmc.jpeg) | 2024-11-13 | Sara Landry | Spiritual Driveby |
+
+### Related genres
+
+- [industrial techno]({{ "/tags/industrial-techno" | relative_url }})
+- [rave]({{ "/tags/rave" | relative_url }})
+- [techno]({{ "/tags/techno" | relative_url }})
+- [hard trance]({{ "/tags/hard-trance" | relative_url }})
+- [industrial]({{ "/tags/industrial" | relative_url }})
+- [acid techno]({{ "/tags/acid-techno" | relative_url }})
+- [trance]({{ "/tags/trance" | relative_url }})
+- [hardcore]({{ "/tags/hardcore" | relative_url }})
+- [ebm]({{ "/tags/ebm" | relative_url }})
+- [dark techno]({{ "/tags/dark-techno" | relative_url }})

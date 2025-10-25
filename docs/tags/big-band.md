@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-23T06:55:35.819Z
+permalink: tags/big-band
+title: big band
+---
+
+## big band
+
+Last updated: <time datetime="2025-10-23T06:55:35.819Z">Thu Oct 23 2025 09:55:35 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 6 |  |  | Various Big Band | Big Band instrumentals: 16 Most Requested Songs |
+| 51 |  |  | G.M.Orchestra | The First |
+| 53 | ![Cover](https://i.discogs.com/70me3s5dUTxJc-e2wTxqUul_xqmsVwKHIBboGmkzIEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTAz/OTc3LTE1ODM3ODM4/NTItOTIwOS5qcGVn.jpeg) | 1944 | Count Basie &amp; His Orchestra | April In Paris |
+| 40 |  | 1950 | Benny Goodman | Live at Carnegie Hall |
+| 90 |  | 1955-08 | Benny Goodman | The Benny Goodman Story |
+| 47 | ![Cover](https://i.discogs.com/M5IVO17kAmREUIbUwGMoPE0NQrSO3aOswFbJIVCjcfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDIx/MDctMTQyMDYyNzM2/OC03NjQzLmpwZWc.jpeg) | 1956 | Thad Jones | CENTRAL PARK NORTH |
+| 65 | ![Cover](https://i.discogs.com/-llUpYjK5o00zTgc6bh2zPPuzHKlejqMAxMStc0Sr4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTM5/NC0xNTQ3MDQzNzM0/LTIwNjAuanBlZw.jpeg) | 1956 | Chris Connor | Chris |
+| 77 | ![Cover](https://i.discogs.com/rDXXcldDmhBEjUqiXx2Y21BqtnSXOlGrzqX0LCjBWQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTA4/MzYtMTQ1MDk4Nzgz/Ny0zMzA5LmpwZWc.jpeg) | 1956-11 | Louis Prima | The Wildest! |
+| 76 | ![Cover](https://i.discogs.com/TWr_PTSz3pffcTXe2MhxBDv6nrRS7UZYvFxMZ3XBddw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/MDEtMTM1MjA1ODky/Ni0xOTY2LmpwZWc.jpeg) | 1957 | Louis Prima | The Wildest |
+| 94 |  | 1958-03 | Count Basie | The Complete Atomic Basie |
+| 99 |  | 1960 | Benny Goodman | Sing, Sing, Sing |
+| 23 | ![Cover](https://i.discogs.com/HIE7Q-WJbwpq2aUFwV-e_vquTxm_4bjV4RD9QJMYCBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODgx/NTE2LTE2MTAzODMw/OTAtMjMwNi5qcGVn.jpeg) | 1961 | Les Brown | Live 12 May 1957 |
+| 72 | ![Cover](https://i.discogs.com/XGSZz4gI2BIa_SztC5YFYNGkYnB00n9rr-c-2VETXHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njc3/MDc4LTE1Nzk0NDE1/MjAtNjcyNy5qcGVn.jpeg) | 1961 | The Gil Evans Orchestra | Out of the Cool |
+| 85 |  | 1961 | John Coltrane Quartet | Africa&#x2F;Brass |
+| 97 |  | 1961 | Harry Belafonte | Jump Up Calypso |
+| 46 | ![Cover](https://i.discogs.com/vNkeiK-QI_SWnpZn1eLNuBOtEj9rEZ4WDcqyygGNarw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgz/NDkyLTE1MzAyODIz/NjUtNjI2Ny5qcGVn.jpeg) | 1962 | Frank Sinatra &amp; Count Basie | Sinatra - Basie |
+| 100 | ![Cover](https://i.discogs.com/sjoJyr3pFVef1HfrMaxIhow8NsdbDu5UNrw-M28Y6kE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTEz/NjctMTM2NTI1MjU1/Mi03MzYxLmpwZWc.jpeg) | 1962 | Quincy Jones | Big Band Bossa Nova |
+| 22 | ![Cover](https://i.discogs.com/Qk78L3d-1HTwxbT2x6mRrNPp53nfI3JF0ayaaHLz8s4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDYw/MjAtMTQ1NjAwMDEy/Mi0xODk4LmpwZWc.jpeg) | 1962-02 | Dizzy Gillespie | Night In Tunisia: The Very Best Of Dizzy Gillespie |
+| 29 | ![Cover](https://i.discogs.com/A3zwRNGShLXe7CAIA-BuycZ69w268_eUboGZhSfIb_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjUx/MTc1LTE1OTUyNjEy/NDgtNjkzOS5qcGVn.jpeg) | 1963 | Artie Shaw | The Essential Artie Shaw |
+| 35 | ![Cover](https://i.discogs.com/acOYSRDNGon0TcPoQ2ZmU7lY7hWHU-0QmRxmUwuQYMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMw/NDkxLTE1MTYxOTY2/MDQtMTMxOC5qcGVn.jpeg) | 1963 | Buddy Greco | 16 Most Requested Songs |
+| 32 | ![Cover](https://i.discogs.com/Nt9sY4vIuCqlnMBkDRq_xuSEtdkLrX9zGRj7LW_z_BA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQw/ODY2LTE2MTAxNDU1/OTgtNDk3Ny5qcGVn.jpeg) | 1965 | Glenn Miller | 100 Success De Glenn Miller |
+| 38 |  | 1966 | Buddy Rich | Swingin&#39; New Big Band |
+| 84 |  | 1966 | Frank Sinatra | Sinatra at the Sands |
+| 15 |  | 1969 | Gary McFarland | Today |
+| 50 | ![Cover](https://i.discogs.com/6kbkDxbyxLMJo5gSSw6fOOujMNddY6gsKb4fgqGU-TQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTg3/Ny0xMTYxODYzMzY2/LmpwZWc.jpeg) | 1969 | Quincy Jones | Walking in Space |
+| 88 |  | 1969 | Yusef Lateef | Yusef Lateef&#39;s Detroit Latitude 42º 30º Longitude 83º |
+| 30 | ![Cover](https://i.discogs.com/oE4XW5H_wXz2dggaiqj25z13MgKShNq-pl35zgFchV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTE2/ODc4LTE1NDQ0Njg4/MTQtNzYzNC5qcGVn.jpeg) | 1970 | Fletcher Henderson | Fletcher Henderson - Ken Burns&#39; Jazz |
+| 68 | ![Cover](https://i.discogs.com/67lx-tqfzUGRDa8blSRh_EgIAaDk_dyQ455q2uG5sDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjI5/MTUtMTI5MDYwMzk4/NC5qcGVn.jpeg) | 1970 | Johnny Harris | Movements |
+| 70 | ![Cover](https://i.discogs.com/Y3hOLR43SkS7cPYmc5x0PtUH8G8_hf5dEbRz7UFL0D8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDU2/NzAtMTQ1MzU3MDM3/OS00MzQzLmpwZWc.jpeg) | 1970 | Fletcher Henderson | The Fletcher Henderson Story |
+| 87 | ![Cover](https://i.discogs.com/nyQ8i-YFrGPliENI4NsxZL15uHjvWTnk6xKaghTY4Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Nzcw/NzUtMTQxODY4MDYy/My01NTU4LmpwZWc.jpeg) | 1971 | Benny Goodman | The Best Of Benny Goodman |
+| 1 | ![Cover](https://i.discogs.com/O2a9adFL_hqsvRCdRFM-1NTtwNiqV3mb13zr7YLGjoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDA5/NzctMTU1NTQ0NjI3/OS0xMTU4LmpwZWc.jpeg) | 1974 | Louis Prima | Just A Gigolo The Best Of Louis Prima |
+| 39 | ![Cover](https://i.discogs.com/1tjNv4DoFjO-0rKu5OKZVjfeKrEekeVglUeJkKYKPpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDA1/NjEwLTE1OTIxNTk4/ODctOTM2OC5qcGVn.jpeg) | 1974 | Salah Ragab | Egyptian Jazz |
+| 61 |  | 1974 | Buddy Rich | The Roar of &#39;74 |
+| 71 | ![Cover](https://i.discogs.com/SIp2ukmB6Nj8KobGTjhpzr2OUdc38C2jvMj4wemsios/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjkx/NDktMTMxMjQyMzMz/NS5qcGVn.jpeg) | 1974 | Maynard Ferguson | Chameleon |
+| 42 | ![Cover](https://i.discogs.com/72QOJm33iU73XW5M-xUm1NyednGl7oBVMIxyPbxj5HA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTU5/NjgtMTQ2MjUyNDcz/NS02NjUwLmpwZWc.jpeg) | 1976 | Duke Ellington | The Ellington Suites |
+| 98 | ![Cover](https://i.discogs.com/M5qWaF7rFrhpGroxjd35riiCo7pHeiv-0NQdCB3BU3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjIw/NTkyLTE0OTM2MjQw/NzktMTkyMy5qcGVn.jpeg) | 1977 | Count Basie | The Atomic Mr Basie |
+| 7 |  | 1979 | Charles Mingus | Me, Myself an Eye |
+| 5 | ![Cover](https://i.discogs.com/nKLar-obdVjDPwq6nkpvcR3X02qvkL4l0eXe384iy18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDEy/NjctMTY1NzczNzc2/OS0xMTM1LmpwZWc.jpeg) | 1980 | Louis Prima | Jump &#39;N&#39; Boogie |
+| 63 |  | 1981 | Harry James | Big Band |
+| 67 | ![Cover](https://i.discogs.com/hcQRrYzyQDBYLQD3gQOTOf4fEvOTRJqV8R6WW6F_3Y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDgw/Mjg5LTE2NDQzNDg4/NzgtNDc1NC5qcGVn.jpeg) | 1981 | Benny Goodman | The Original Benny Goodman Trio and Quartet Sessions, Vol. 1: After You&#39;ve Gone |
+| 18 | ![Cover](https://i.discogs.com/Vte1gKUWbyaxc9HillWMvRHbxCILFpRaudvlj2RAhZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjI2/MTY0LTE2MjAzOTAw/OTYtNjgwMC5qcGVn.jpeg) | 1981-07 | Woody Herman | Woody Herman Presents, Volume 2... Four Others |
+| 59 | ![Cover](https://i.discogs.com/R3SkSOLpTJdv0OTBrLx8Bn6aTGPAgXYHEs2Eq2TYAL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM4/NjEtMTMwMTI3NzE3/MS5qcGVn.jpeg) | 1983 | Glenn Miller Orchestra | In The Digital Mood |
+| 8 | ![Cover](https://i.discogs.com/7ULf3oqYtrdbX0X6K8LOxJd3Rp2X9uar3scL5gPmCLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE0/NzIyLTE1NDY1MjIx/ODMtOTYzOC5qcGVn.jpeg) | 1984 | Woody Herman | Jazz Masters 54 |
+| 14 | ![Cover](https://i.discogs.com/FdKQxbXjm40HuNRkolTzLF0KZoOcaM6AZg5tX_bWZYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzQy/OTI4LTE2MTUxNjA4/MjctODM3My5qcGVn.jpeg) | 1984 | Duke Ellington | Recollections of the Big Band Era |
+| 4 | ![Cover](https://i.discogs.com/1KcCxqi4ALwBKbyWMCWiwe6ZSnEo4Oo2qs-wRccQuCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzgz/NjctMTM2MjU4ODc2/NS01NzAxLmpwZWc.jpeg) | 1985 | Gerhard Trede | Archive Selection 1 |
+| 96 | ![Cover](https://i.discogs.com/4v6Aj0PVqksOn3VOVefJmSvudjkcZv0hl9UnkEbybrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjQ1/NjgtMTYzMjc2NzEz/MC04NTMzLmpwZWc.jpeg) | 1986 | Glenn Miller | Greatest Hits |
+| 12 | ![Cover](https://i.discogs.com/eA77sEg2axxQNig9nQpzC7j3gEC5pavlHGOwvMVw30Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjUy/Mi0xMTYxNzU3NjAz/LmpwZWc.jpeg) | 1988 | Fire! Orchestra | Ritual |
+| 44 | ![Cover](https://i.discogs.com/khpnN_xnihmPhpdw_yY1tp-UvLshLRjZw507POIL8sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc4/ODMxLTE1NTE2MTY1/NTEtOTk4MC5qcGVn.jpeg) | 1988 | Duke Ellington | Duke the Complete Works 1924-1947 |
+| 56 | ![Cover](https://i.discogs.com/eA77sEg2axxQNig9nQpzC7j3gEC5pavlHGOwvMVw30Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjUy/Mi0xMTYxNzU3NjAz/LmpwZWc.jpeg) | 1988 | Fire! Orchestra | Enter |
+| 92 | ![Cover](https://i.discogs.com/MIjMLVPiBJckbs7zyEr04blDPYEdq4QyrD7K9a9vMNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE1/NzQtMTQyNjA1NzA5/NS0yNTQ2LmpwZWc.jpeg) | 1990 | Harry Connick, Jr. | When Harry Met Sally... Music From The Motion Picture |
+| 43 |  | 1991 | Royal Crown Revue | Kings of Gangster Bop |
+| 25 |  | 1992-11-03 | Frank Sinatra | The Best of the Capitol Years |
+| 69 | ![Cover](https://i.discogs.com/kNBDGkv8sc7fjjQCtylNxhRgLDskcSkXY8IA4yX7z48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzYz/NTItMTQxNzU0Nzk2/OS0xNjI1LmpwZWc.jpeg) | 1993 | Count Basie | Gold |
+| 93 | ![Cover](https://i.discogs.com/71-79dlgqUz_LsLJdMIxi3Z_8jJhKiwBLkaRlyfH8bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTI4/NDQtMTY0ODI5MDAw/NC02MjU2LmpwZWc.jpeg) | 1993 | Artie Shaw | Begin The Beguine |
+| 45 | ![Cover](https://i.discogs.com/Mo3aEisb7qPvT4OF3t688_eO-zbFqsMSuri2XT8lWq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDAz/NzUwLTE2OTI1Njc5/MzAtMTI2NS5qcGVn.jpeg) | 1994 | Artie Shaw | The Essence of Artie Shaw |
+| 54 | ![Cover](https://i.discogs.com/UKR2rC6YqYqcKqx-hHSCMSsPGIlsuI_nvqEkmzzPEj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTAz/ODMtMTUwNzIwNzc1/MS04OTQxLmpwZWc.jpeg) | 1994 | Lionel Hampton | All Star Sessions: Hot Mallets, Vol. 2 |
+| 66 |  | 1994 | Big Bad Voodoo Daddy | Big Bad Voodoo Daddy |
+| 16 | ![Cover](https://i.discogs.com/2fefEaD9YJcS-r5cNnq2yNW-c1IU6_f0T_9L_hZpsdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQ3/MDQ3LTE2NjAwNTAy/NzUtNTM1Mi5qcGVn.jpeg) | 1994-03-22 | The Brian Setzer Orchestra | The Brian Setzer Orchestra |
+| 36 | ![Cover](https://i.discogs.com/5zbyKouYK1HN2he0Fl3qWr-O3cl0gQCkqkrWDaNdBHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDUx/NTctMTM0NjY2MDEy/OS05MDI2LmpwZWc.jpeg) | 1995 | Sammy Davis, Jr. | My Greatest Songs |
+| 27 |  | 1995-03-07 | Stan Kenton | The Best of Stan Kenton |
+| 20 | ![Cover](https://i.discogs.com/1UPLOCTD2sg9P8tnr3OSXFKQ9o7vTPbhdJzuxNQ5Pr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzU0/NzktMTU2OTU5ODgy/OS0yNTA2LmpwZWc.jpeg) | 1995-07 | Charlie Parker | Charlie Parker Memorial, Vol. 2 |
+| 3 |  | 1996-03-19 | Woody Herman | Verve Jazz Masters 54 |
+| 86 | ![Cover](https://i.discogs.com/PiX4zlTenJw6HizmWrBbt_jF55xtJnZ-GKyl3xdDm_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg5/NTk1LTE1NTcwNjY2/ODItNjM0OC5qcGVn.jpeg) | 1997-07-21 | Frank Sinatra | New York, New York |
+| 95 |  | 1998-06-23 | The Brian Setzer Orchestra | The Dirty Boogie |
+| 17 | ![Cover](https://i.discogs.com/XiczRW0XhXcelQDl-Crutja3ep3CY2j2VFn9qgYRqpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE2/NDYtMTQzOTQxNTQ1/Mi04NTQ1LmpwZWc.jpeg) | 1999 | The Andrews Sisters | 50th Anniversary Collection |
+| 57 | ![Cover](https://i.discogs.com/pwVD4K_b05zPRjyk6OoD1QKRpY4heGmrbeTXGYU_MHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTgw/MjctMTM5NDkxOTUz/MC0yNTkzLmpwZWc.jpeg) | 1999 | Thad Jones | Consummation |
+| 62 | ![Cover](https://i.discogs.com/lfIxUiwt6Ei6hnpwsBPjxyPDgi8As4YHt2w53wG_9rA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg2/NTU3LTE1Njk0OTAw/MDAtODg0MC5qcGVn.jpeg) | 1999 | Chick Webb | Strictly Jive |
+| 58 |  | 1999-10-19 | Big Bad Voodoo Daddy | This Beautiful Life |
+| 49 | ![Cover](https://i.discogs.com/9Vn8uy_CUKRkB2mmsluO_eit-U_qy8EIF7WAG3Xvkr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTg2/NDE1LTE1NDU5MzYz/MjgtODgwMi5qcGVn.jpeg) | 2000 | Count Basie | April In Paris |
+| 60 | ![Cover](https://i.discogs.com/geRx_2cs6BTlB1xOnEdu5dqNP_ZW0Ux3fRnHTWkbKkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY5/NjU5LTE1MDAwNzg1/NDEtMjM2MC5qcGVn.jpeg) | 2000 | Gene Krupa | Drum Boogie |
+| 83 | ![Cover](https://i.discogs.com/JBLhQeVpigVlwH5VV--K7Suj-_6AfaXGlitkY2l-mqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzMx/NjItMTIzOTk0NTgz/Ny5qcGVn.jpeg) | 2000 | The Andrews Sisters | The Magic Of The Andrew Sisters |
+| 79 | ![Cover](https://i.discogs.com/RQNsr5RASTOWEA9Ei-FGu8StedtwoPvrWFwkrI_vLtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTk0/NTMwLTE1MjYzMTU2/MzgtMjI4Ni5qcGVn.jpeg) | 2001 | Benny Goodman | Sometimes I&#39;m Happy |
+| 41 |  | 2001-10-19 | Harry Connick, Jr. | Songs I Heard |
+| 19 | ![Cover](https://i.discogs.com/GYL4d5KqpYakfxCiI5A7Mz6u2ZgAxKW4FPMONaN0PUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTgy/MjMtMTQ3MzM1Mzk1/Ny04ODIxLmpwZWc.jpeg) | 2002 | Woody Herman | Blue Flame |
+| 55 | ![Cover](https://i.discogs.com/LBZm9HULJNgLHZrl16GpI9BLaKo3v6Ye1wLFOgXo7tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjcw/NzY4LTE2Nzc2OTk5/MjEtMTIxNi5qcGVn.jpeg) | 2002-10-21 | The Brian Setzer Orchestra | Boogie Woogie Christmas |
+| 24 | ![Cover](https://i.discogs.com/p1I_fDBTCZQaDg_4en2Wza1KH5gxK_0t37O0xC3WuGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODM1/NzE1LTE1MDUwODgx/NTEtMzk3Mi5qcGVn.jpeg) | 2003 | Erskine Hawkins | Jukebox Hits 1940-1950 |
+| 34 | ![Cover](https://i.discogs.com/Hc3o3BI76NQ2d6itIHabjZoxuMtOhb6_q_q25jfoVI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk3/MzE4LTE1NDgwMDQ1/MTctNjg4My5wbmc.jpeg) | 2003 | Benny Carter | Further Definitions |
+| 64 | ![Cover](https://i.discogs.com/xc1g9_9yJUdTD-8NVy-oKLr-ES7znpW2N5EEU_BX6cc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTM2/NDMtMTU3MzgxMjM0/OC0yNTkyLmpwZWc.jpeg) | 2003 | Kurt Rosenwinkel | Our Secret World |
+| 13 | ![Cover](https://i.discogs.com/ccjXzE-v5wq_ruC_KSojulApvt9_05B83sex5ZqcRUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTE1/ODUtMTM4NDgwMTcy/Mi0xMDM2LmpwZWc.jpeg) | 2003-03-04 | Cab Calloway | The Early Years 1930-1934 |
+| 73 |  | 2004-05-11 | The Dirty Dozen Brass Band | Funeral for a Friend |
+| 33 | ![Cover](https://i.discogs.com/RkkjBrfTEY09qVDX2QppygbwL0JIRT_IWQaJYUngyrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzc0/MDMtMTMzMTk3NTA0/MS5qcGVn.jpeg) | 2005 | Woody Herman | The Very Best Of |
+| 48 | ![Cover](https://i.discogs.com/b4kqxTj6QTAa-LFUO7fFkeX4bY01j1DXwDjBb7xYS2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjQ2/NS0xNDU2NjkyODM5/LTc0NjcuanBlZw.jpeg) | 2005 | Quincy Jones And His Orchestra | Big Band Bossa Nova |
+| 75 |  | 2005 | Glenn Miller | The Essential Glenn Miller |
+| 82 | ![Cover](https://i.discogs.com/46ac84q1kY9YH50VwfoCVacGoHwhJQ-BT0b5OEO1A7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM0/MTIxLTE0OTczNTQ3/MzgtNjQyNy5qcGVn.jpeg) | 2006 | Glenn Miller | Glenn Miller |
+| 52 |  | 2007-02-21 | 椎名林檎×斎藤ネコ | 平成風俗 |
+| 2 |  | 2007-09-07 | Maceo Parker | Roots &amp; Grooves |
+| 37 |  | 2009-09-22 | Harry Connick, Jr. | Your Songs |
+| 26 | ![Cover](https://i.discogs.com/2fefEaD9YJcS-r5cNnq2yNW-c1IU6_f0T_9L_hZpsdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQ3/MDQ3LTE2NjAwNTAy/NzUtNTM1Mi5qcGVn.jpeg) | 2009-10-13 | The Brian Setzer Orchestra | Songs From Lonely Avenue |
+| 21 |  | 2010-06-28 | Duke Ellington &amp; Count Basie | First Time! The Count Meets the Duke |
+| 89 | ![Cover](https://i.discogs.com/h9Z6YdXY7RTSuN7jdEA13WLFjNenx7NNGWeBekRRr8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTky/NjctMTQwNjMyMzMz/Ny04OTY2LmpwZWc.jpeg) | 2011 | Bobby Darin | Hello Dolly To Goodbye Charlie |
+| 78 |  | 2012-01-27 | Robbie Williams | Beyond The Sea |
+| 9 |  | 2013-11-11 | Jamie Lenman | Muscle Memory |
+| 11 | ![Cover](https://i.discogs.com/IaRhgUHk8XXFE5mZKMbfo-cUNhBAZQl3qfhLUjaATjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzgy/NDktMTQ4MzgwOTYy/OS0xMjc0LnBuZw.jpeg) | 2016-09-02 | Peter McConnell | Grim Fandango |
+| 80 | ![Cover](https://i.discogs.com/7xcn5wnXsaj_FMnrfBAKKDR2YtNn7NGrCuPaLYy4t-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDIy/NDQ0LTE2MTExNzU3/MzktMzYzMS5qcGVn.jpeg) | 2017-06-24 | The 8-Bit Big Band | Press Start! |
+| 10 |  | 2017-09-29 | Kristofer Maddigan | Cuphead (Original Soundtrack) |
+| 91 | ![Cover](https://i.discogs.com/L9OTgFh2NAFoeJbmbUlywOXPP-U5enuSY1VPKWYQB_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzc4/NTEtMTQzMjk4OTQw/MC0xNTkwLmpwZWc.jpeg) | 2017-12 | Sun Ra | A Fireside Chat With Lucifer |
+| 81 | ![Cover](https://i.discogs.com/7xcn5wnXsaj_FMnrfBAKKDR2YtNn7NGrCuPaLYy4t-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDIy/NDQ0LTE2MTExNzU3/MzktMzYzMS5qcGVn.jpeg) | 2019-06-17 | The 8-Bit Big Band | Choose Your Character! |
+| 74 | ![Cover](https://i.discogs.com/7xcn5wnXsaj_FMnrfBAKKDR2YtNn7NGrCuPaLYy4t-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDIy/NDQ0LTE2MTExNzU3/MzktMzYzMS5qcGVn.jpeg) | 2021 | The 8-Bit Big Band | Backwards Compatible |
+| 28 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 2023 | Various Artists | Come And Get It - The Best Of Apple Records |
+| 31 | ![Cover](https://i.discogs.com/7ymbMCx4PER6l9jEq22bjvSCxbZLv8VbM07Ho53unxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTkw/Mzc5LTE2ODMzNTkz/NTAtOTUyOC5qcGVn.jpeg) | 2023-05-05 | Monika Roscher Bigband | Witchy Activities and the Maple Death |
+
+### Related genres
+
+- [jazz]({{ "/tags/jazz" | relative_url }})
+- [swing]({{ "/tags/swing" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})
+- [oldies]({{ "/tags/oldies" | relative_url }})
+- [vocal jazz]({{ "/tags/vocal-jazz" | relative_url }})
+- [easy listening]({{ "/tags/easy-listening" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [vibraphone]({{ "/tags/vibraphone" | relative_url }})
+- [modern jazz]({{ "/tags/modern-jazz" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})

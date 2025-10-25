@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T08:59:05.378Z
+permalink: tags/rai
+title: rai
+---
+
+## rai
+
+Last updated: <time datetime="2025-10-22T08:59:05.378Z">Wed Oct 22 2025 11:59:05 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 1 | ![Cover](https://i.discogs.com/ZbiMEbtpi4dU-JpBkTPctL52zNecV7fAXPPup68XDvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjI5/MDg3LTE2MzQ1MTI4/OTMtMjg1Mi5qcGVn.jpeg) | 2016-12-03 | FELLA | Singin Rai |
+| 2 |  |  | Cheba Kheira | Cheba Kheira &amp; Cheb Toufik |
+| 3 |  |  | Mohammed Junior | Bomba Ra? vol 7 |
+| 4 |  |  | Chaba Zahouania | Formule Ra? |
+| 6 | ![Cover](https://i.discogs.com/Tncxd1YWe1NjDyZo5aWFFiWfdSAA7PPLaPDBU37zvuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MzY4/MC0xMTU1MzUxMjEz/LmpwZWc.jpeg) | 1989-06-01 | Chaba Zahouania | Nights without Sleeping |
+| 9 |  |  | Cheika Rimitti | Hina ou Hina |
+| 10 |  |  | Hagda | Hagda |
+| 12 |  |  | Senhaji | 100% Cha?bi Ban ?ybek yal l&#39;?doua |
+| 13 |  |  | Nadia Ben Youssef | Best of Maxi Cha?bi Alg?rien (maxi 4 cd&#39;s) Vol 1 of 4 |
+| 14 |  |  | Boutaïba Seghir | Bab El Ra? City, Mixed by DJ Cheik |
+| 17 |  |  | Cheb Zahouani | Zid serbi |
+| 20 |  |  | Cheb Abbes | Nesmah Neskout |
+| 21 |  |  | Rai&#39;n&#39;B Fever | Rai &#39;N&#39; B Fever |
+| 23 |  |  | Cheb Lektab | Bomba Ray vol1 |
+| 24 |  |  | Cheb Bello | Mamnoua |
+| 25 |  |  | Houari Manar | Houari Manar |
+| 36 |  |  | Cheikha Remitti | Trab Music |
+| 39 |  |  | Cheb Billal | Cheb Billal |
+| 40 |  |  | Amine Titi | Rai 100% Live |
+| 43 |  |  | Abbes | Raï Mix Club Volume 1 |
+| 45 |  |  | Jeloul | Disco Raï |
+| 47 |  |  | Boutaiba Sghir | Boutaiba Sghir |
+| 50 |  |  | Ramazzo | Sensation Raï - 100% Remix Explosif |
+| 56 |  |  | Cheb Mourad | Chira cheba (Remix) |
+| 60 |  |  | Cheb Khaled | Kutché |
+| 61 |  |  | Abdel Kader | Algerian Mix |
+| 63 |  |  | Julean and the Rai | Alexandria, Falling (EP)(2007) |
+| 66 |  |  | Cheb Amar | Generation Raï 2008 |
+| 71 |  |  | Cheb Khaled | Anajit Anajit |
+| 82 |  |  | Raïna Raï | Cairo to Casablanca |
+| 86 |  |  | Dina Hayek | Ta&#39;Ala Albi |
+| 95 |  |  | عمر دياب | The Very Best Of |
+| 58 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1977 | Various Artists | Raï Fever |
+| 87 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1977 | Various Artists | Rai Superstars |
+| 16 | ![Cover](https://i.discogs.com/eaqkV0S4FrNqDKkLATmDoZWbfk6pp1RpYzcVC1MH2bQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjMz/MTYtMTQ4OTY4NjQ3/MC03MTIyLmpwZWc.jpeg) | 1979 | Nani | Ma Jitchi Bach Nkhaserlak El Aârss |
+| 35 | ![Cover](https://i.discogs.com/FXfS5SbJ9oN2emJ8Q5plThqdFVzLBY3XaKD7Mp0xs0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTc4/MzMtMTM4NjA2ODgy/NS00OTI4LmpwZWc.jpeg) | 1985 | Cheb Khaled | Hada Raykoum |
+| 53 | ![Cover](https://i.discogs.com/kD5dJZkJL8Qvr6BTEDDAHG3dRtc5-b_M2Ysno_x_DR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjA1/OTA1LTE1Njk4NDMx/NDAtNjEwMC5qcGVn.jpeg) | 1985 | Cheb Tahar | Algerie |
+| 15 | ![Cover](https://i.discogs.com/nbKIsBCTN9XyfCmv1fyBhDX6AFqYKNVpEzYzI7FvzkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzM4/NjctMTQwNTA4MTMx/NC05NjgxLmpwZWc.jpeg) | 1986 | Zahouania | Nta Meftah Ghbinti |
+| 64 | ![Cover](https://i.discogs.com/sB4Iq_5Qxno11PgoZMpr-8tHUu16okFSb4fr_UpilrA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTgy/MTUtMTMwMjQyNTA4/Ni5qcGVn.jpeg) | 1986 | Various. | Raï&#39;n&#39;B Fever |
+| 52 | ![Cover](https://i.discogs.com/dlVN7JZl-lhpsrNBsN3jwa8bJI7RQDdRkzuP6WS9zqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ5/NDMtMTI5NTk2NDA1/Ni5qcGVn.jpeg) | 1988 | Cheb Mami | Les grandes voix du ra? |
+| 79 |  | 1988-08-10 | Various Artists | Rai Rebels |
+| 55 | ![Cover](https://i.discogs.com/0v-i8ocMTEVo0e0ETup3pYHbGr5HfCPT8_RRsxeZXEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjIz/NTctMTM0OTM0Njcx/NC00NTEwLmpwZWc.jpeg) | 1989 | Chaba Fadela &amp; Cheb Sahraoui | Arabic Groove |
+| 8 | ![Cover](https://i.discogs.com/1VT9hGGIoy7PCXuuolLBxwmn39zC8_0wBcwqHLfYneg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQ4/NTk4LTE1Nzg4NjY3/MjctNTY1MC5qcGVn.jpeg) | 1990 | Nasro | Aadabtni oulach |
+| 33 | ![Cover](https://i.discogs.com/K5-thwDGr-ztqN2MXry6b1nTVXo0xc3MraX9f12uD-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTIw/MjQtMTQ3NDk3OTE1/MC04ODA4LmpwZWc.jpeg) | 1990 | La Strana Società | I Grandi Successi della TV - Vol. 2 |
+| 67 | ![Cover](https://i.discogs.com/MeZJmDVIWMj5t4uOZLgEVBl3-SJykmvwDXBsOBQq1kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQ2/NDg5LTE1Nzg4NDAx/NzItOTU0Ni5qcGVn.jpeg) | 1990 | Cheb Hasni | Club Rai-North African Grooves |
+| 99 |  | 1991-08 | Khaled | Khaled |
+| 68 | ![Cover](https://i.discogs.com/e9j2bOZJcRm69dSL5dtN1BWNkvz7I-96FTS19Ejfkx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzkw/OTctMTI0Njk1NDI0/My5qcGVn.jpeg) | 1992 | Cheb Hasni | Compilation Hour Ra? Vol 2 |
+| 27 | ![Cover](https://i.discogs.com/yCGBBTT4gbUm4eHTqZKg-S-LE-2X2kr6vUqV0pXVzGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEy/MTM4LTE2MjI4MTk0/MjktODMzMC5qcGVn.jpeg) | 1993 | Cheb Aziz | Âlache Kayna Diwana |
+| 29 | ![Cover](https://i.discogs.com/yCGBBTT4gbUm4eHTqZKg-S-LE-2X2kr6vUqV0pXVzGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEy/MTM4LTE2MjI4MTk0/MjktODMzMC5qcGVn.jpeg) | 1993 | Cheb Aziz | Chata Mata |
+| 62 | ![Cover](https://i.discogs.com/mYZoVWdXPFXO0ljlMbx1aJfrrSJvdsc1Px1gNu-HiKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIx/MzgxLTE2NDM5ODM2/NDktMjc4OC5qcGVn.jpeg) | 1993 | Mohamed Lamine | Mohamed Lamine &amp; Cheb Nasro |
+| 5 | ![Cover](https://i.discogs.com/UPRtWxTTqf76E7EqRVBeDRW_ka-koUYX1BoMShy8eFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjEy/NTA2LTE1NzgxNjkz/MTItMTY3Mi5qcGVn.jpeg) | 1994 | Cheb Hasni | Allah bina |
+| 85 | ![Cover](https://i.discogs.com/tGfySiZzDhfMwIqUwz5WD0_mVK7-x3mrW_W-Xg-bTjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTg1/Nzk5LTE2NDc4MjIw/MzItNDE0MS5qcGVn.jpeg) | 1994 | Cheb Hasni | The Very Best Of |
+| 22 | ![Cover](https://i.discogs.com/_TXFsO7YdiTDEO9Y5pofDCn-ZEisPNWo6jCRKFCE23w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODgy/MzAtMTM5MjI4NjYw/NC05NTE5LmpwZWc.jpeg) | 1995 | Kadda Cherif Hadria | Cairo to Casablanca |
+| 34 | ![Cover](https://i.discogs.com/2nWoHJ41Y2zKz4LfGcLioN8d6tNyMsKhqmAPtMVSh8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE3/MDkzLTE1NDA3NDA0/OTktNjE4Ny5qcGVn.jpeg) | 1996 | Dahmane El Harrachi | Arabian Travels |
+| 91 | ![Cover](https://i.discogs.com/uoFauGHDVUiX3clajA_pMCjtKlS0aFmprUjVi9V1wXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MjI3/MC0xMjYwMDk1NTMx/LmpwZWc.jpeg) | 1996-02-23 | Abdel Ali Slimani | Mraya |
+| 19 | ![Cover](https://i.discogs.com/Ki64vCAy5_VuSnihHI6oID3E5QJHSUfjMtw_9sjgz4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjgy/MTgtMTQ1ODg2MTg3/NS00OTE0LmpwZWc.jpeg) | 1997 | Hamid Baroudi | North African Groove |
+| 7 | ![Cover](https://i.discogs.com/DQwHkGjw_2cUzoSNJOJujcR4nqqRuZJBazN6NQFyvXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjQz/MTMtMTQ2OTU0NjEy/Mi05NTM2LmpwZWc.jpeg) | 1998 | Cheb Mimoun | Moroccan Rai |
+| 51 | ![Cover](https://i.discogs.com/aTD3Kp2w91weP5AyTTqyFJZSQkXd2YefH6GGldHLnms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODkz/ODItMTQxNjkwMjE1/MS0xNzY1LmpwZWc.jpeg) | 1998 | Taha, Khaled, Faudel | 1, 2, 3 Soleils |
+| 54 | ![Cover](https://i.discogs.com/6KVY0vSnTEIxx89yUe3Oc3glyDl2bnvuDn2s2sEDcQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjg4/NjgtMTQ3OTM3MjA3/OS0xMzUxLmpwZWc.jpeg) | 1998 | CHABA FADELA &amp; CHEB SAHRAOUI | Arabic Groove |
+| 70 | ![Cover](https://i.discogs.com/lPTdtHVJaGogrW5mk0E7mrYu-G0V_aawlr0sDArbOO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQ5/NzQtMTQ2MzkxMTEx/Ny03NjI5LmpwZWc.jpeg) | 1998 | Rachid Taha | Diwân |
+| 90 | ![Cover](https://i.discogs.com/zN0OTc0d0RRBLoLgDd75KWU8iTXiHQUTaxKNj_ksn4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDc5/MDktMTY1Mjc3Njk2/MC01MDk2LmpwZWc.jpeg) | 1998-02 | Cheb Mami | Saïda &#x2F; Meli Meli |
+| 49 | ![Cover](https://i.discogs.com/knK3Yk2csbITQAc415dVxiVl7XMs64FaC7X_AoktCOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjMy/ODgtMTQ4MzkxMjA2/OC0yODc5LmpwZWc.jpeg) | 1999 | Cheba Nouria | N&#39;zor Nebra |
+| 65 |  | 1999 | Rachid Taha, Khaled &amp; Faudel | 1, 2, 3 Soleils [Live] |
+| 83 | ![Cover](https://i.discogs.com/z6bO05eov7N-Vs6QCn7nAJbzSl9BqI4LEbyZSM_psMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjg4/MDA4LTE2NjEyNTA3/NTItNjY5NC5qcGVn.jpeg) | 1999 | Cheb Bilal | Best Of Billal |
+| 94 |  | 1999-12-07 | Khaled | Kenza |
+| 69 | ![Cover](https://i.discogs.com/_X13gUMVYUFSkGYdPPmNUVnZ02V9a3U39biK-xfMVlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM1/NDEzLTE1NDQ4NzM1/NTUtMTc5Mi5qcGVn.jpeg) | 2000 | Raïna Raï | Club Rai-North African Grooves |
+| 100 | ![Cover](https://i.discogs.com/c5i-bA_FUyk0MmhasuiLaLgNwbSE6JVtA2LCVMv2Wj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDc5/OC0xMTczNDI2ODg0/LmpwZWc.jpeg) | 2000-11-07 | Rachid Taha | Made In Medina |
+| 11 | ![Cover](https://i.discogs.com/-SRhTn-YTC-wz5Me29J5hikngWCUG2g0RVMZlIFTNus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjQ0/NjMtMTQ4MDMzOTM3/NC0xMTYwLmpwZWc.jpeg) | 2001 | Chaba Zahouania | Medahates |
+| 31 | ![Cover](https://i.discogs.com/g2MrUx4QAVqW74SomM_p4hJlqIxs-Yxq2umx_hmy7-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjE5/NTktMTMyMjg2Mjgx/NC5qcGVn.jpeg) | 2001 | Atlas Soul | Maktoub |
+| 37 | ![Cover](https://i.discogs.com/oVwVOgmFXIvYzfHFTyQJFaj5fYIXi0xdOzkiNIbqz_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjg4/OTktMTQ3OTM3MzY2/NC05MDI2LmpwZWc.jpeg) | 2001 | Cheb Hamid | Best of Ra?, Aladin Vol |
+| 38 | ![Cover](https://i.discogs.com/MFXcwZ5TEA5vAjPtVJi_46LL577eHWkGma7W9bcXVCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTcx/OTEzLTE2ODMyMDI0/MzgtNTQ2My5qcGVn.jpeg) | 2001 | Cheb Hasni | Album No. 3 |
+| 41 | ![Cover](https://i.discogs.com/QPpF0fHh3-zTakQvzyvJFXRAgNCncJwKALRbtGJuSiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDQz/MTAtMTY4OTQxNzI1/Ny04OTUyLmpwZWc.jpeg) | 2001 | Jalal | Bomba Rai Vol 4 |
+| 93 | ![Cover](https://i.discogs.com/t9C7_RFZOJ6sS7ae1SgeKVwhWBoLccpT_1TPMTDhCI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjEy/NzYzLTE2NDUyMTgy/ODItMTg0Ni5qcGVn.jpeg) | 2001 | Raïna Raï | Zina |
+| 96 |  | 2001 | Cheb Mami | Dellali |
+| 59 | ![Cover](https://i.discogs.com/dy5T3Ld0QjVczYTbzc2RiNLdtq5lEFQkegFzqBADur0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTY1/ODA3LTE2MzY4MjQ0/OTQtMzg5MC5qcGVn.jpeg) | 2002 | Cheb Nasro | Departures |
+| 18 | ![Cover](https://i.discogs.com/tXM_o62vLIbfX5vQe7ayqzL2j6ADb5j05PafFG6OQcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk3/NTY5LTE1NDgwMDYy/MzUtMzQ5MC5qcGVn.jpeg) | 2003 | Chaba Zahouania | Ha La La ! |
+| 42 | ![Cover](https://i.discogs.com/tXM_o62vLIbfX5vQe7ayqzL2j6ADb5j05PafFG6OQcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk3/NTY5LTE1NDgwMDYy/MzUtMzQ5MC5qcGVn.jpeg) | 2003 | Chaba Zahouania | Kingoul ana |
+| 72 | ![Cover](https://i.discogs.com/uXasJSjuAnLFzg9ia-Cluz_l-mVlh9X8AKXj4GKIKSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjIw/NDAtMTU1NDY1Mjk0/MC05NTgxLmpwZWc.jpeg) | 2003 | Cheb Mami | Du Sud Au Nord |
+| 73 | ![Cover](https://i.discogs.com/ChE7wuh7a7vqNSzca22ToOIeOHxHR__GkzmCbGSOYLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Njg0/MDAtMTQyODM0NDMx/MC00MDc5LmpwZWc.jpeg) | 2003 | Cheb Kader | Mani |
+| 78 | ![Cover](https://i.discogs.com/_3U8bdnmNnK3x9ks01YSt4Fj8OKvJk5P98DufT86ASY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzg4/NjgtMTM1NDUyNDY4/NS0yMDI4LmpwZWc.jpeg) | 2003 | Faudel | Another Sun |
+| 75 |  | 2004 | Azzddine With Bill Laswell | Massafat |
+| 81 |  | 2004-06-01 | Khaled | YA-RAYI |
+| 28 | ![Cover](https://i.discogs.com/MrkNZLWvdpUf8joHTlPhnrRZRSi7vUzQr0Tfpi5w0Fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTc1/NDctMTM0ODQ4NjQ0/MC03MTM5LmpwZWc.jpeg) | 2005 | MC Rai | Raivolution |
+| 57 | ![Cover](https://i.discogs.com/OsZJ0nGlNc2ljtaP6rlFXyxZFTyWC4p1JAX1FE_DR6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTk4/NTAtMTQ1MzU0NzI3/NS0yMTgzLmpwZWc.jpeg) | 2005 | Aziz | Top Raï |
+| 77 | ![Cover](https://i.discogs.com/UfvbX3aqAy0Gn4qM_VJSgsajv0CQJr97MzU8c11Cr6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTY1/Mzg4LTE2MDg1MTI4/NDktODkwMC5qcGVn.jpeg) | 2005 | Nabyla Maan | D&#39;nya |
+| 74 | ![Cover](https://i.discogs.com/IUA3OQ_xKe5lPqDq38MfcPrq--JHRnRyxAppdYzGldM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTgx/ODUtMTI5MzUzNDQ3/NS5qcGVn.jpeg) | 2005-01-01 | Cheikha Rimitti | N&#39;ta goudami |
+| 92 |  | 2005-10-20 | Souad Massi | Honeysuckle (Mesk Elil) |
+| 32 | ![Cover](https://i.discogs.com/8tESYDpqKC-SiRb8HLCgSu1LzcTlnpyCOBby4ZoCU5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ5/OTA1LTE2MDU5Nzc2/OTQtODQ4NS5qcGVn.jpeg) | 2006 | DJ Mom&#39;s | Raï (Remixed By DJ Mom&#39;s) |
+| 84 |  | 2006 | Cheb Youcef | Cheb Youcef |
+| 88 | ![Cover](https://i.discogs.com/IUA3OQ_xKe5lPqDq38MfcPrq--JHRnRyxAppdYzGldM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTgx/ODUtMTI5MzUzNDQ3/NS5qcGVn.jpeg) | 2006 | Cheikha Rimitti | Nouar |
+| 97 |  | 2006-10-16 | Rachid Taha | Diwan 2 |
+| 76 | ![Cover](https://i.discogs.com/6J4EhhBgUrbQTH5h78trtp7PS6KEtb3yjY3rFUBa_HM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjMx/NzAtMTM5NjY0MDA5/OS0xNDE4LmpwZWc.jpeg) | 2007-04-02 | Rachid Taha | The Definitive Collection |
+| 80 | ![Cover](https://i.discogs.com/QwA07HbpJZiaPmMesXxMywEEgrdnuLFVZ7TrPMtADMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTg3/OTUtMTM3NTg3Mzk2/NS02MjI1LmpwZWc.jpeg) | 2007-07-16 | Faudel | L&#39;Essentiel Faudel |
+| 30 | ![Cover](https://i.discogs.com/F23q-04mg0BIZ81pDDPyk0We9hbySd9auKn0rkD-hyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDMx/MDEtMTQ2NzgwNzI3/MC00OTY1LmpwZWc.jpeg) | 2009 | Khaled | Le roi du Raï [Original Masters] |
+| 48 | ![Cover](https://i.discogs.com/3Z4RlMNrT1Z99kXSklNlzPLEfAufJ8wiGho2hbB0aGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzE1/OS0xNjQ2ODQ2NTYy/LTU3NTUuanBlZw.jpeg) | 2009 | Various Artists | DJ Goldfingers présente Raï&#39;nb Hits |
+| 26 | ![Cover](https://i.discogs.com/GYXP8LPEv19SLdddgzT1_IecKVlf_fd3e4Yy1IUI46c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTk4/OTQ5LTE1MDgwMDYy/NjMtNTg5NS5qcGVn.jpeg) | 2009-05-01 | sahra | sahra |
+| 89 | ![Cover](https://i.discogs.com/r4Te2DmbVEqWEUSazE3qelp-zT1CquLjmbQsW9Q82vY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzUz/MzQtMTMzOTg5MDc5/Ny01NDE2LmpwZWc.jpeg) | 2009-10-26 | Rachid Taha | Bonjour |
+| 46 | ![Cover](https://i.discogs.com/LPSyZ30uP6fGNkPQb_wGIq_ejsallykG7UGPIBKYw-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTM0/NzctMTM0MTQwMjE2/Mi05Mjc2LmpwZWc.jpeg) | 2012-03-26 | Orchestre National De Barbès | 15 ans de scène |
+| 44 | ![Cover](https://i.discogs.com/1rYUPt9lhhKWUm-dwsaIUP6OKjzSMMfd7Jfq51nTGpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTI1/ODItMTYwNjMxMDk5/My0xNTIyLmpwZWc.jpeg) | 2014-03-03 | Orchestre National De Barbès | Dame De Cœur |
+| 98 | ![Cover](https://i.discogs.com/DLtGF2QJFLSUW1smG6_k9dbaCu-MTO5MWb6Hq5sjYmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDIz/ODE5LTE2NTQwMjg4/MzgtOTQ5NS5qcGVn.jpeg) | 2022 | DJ Snake | Disco Maghreb |
+
+### Related genres
+
+- [north africa]({{ "/tags/north-africa" | relative_url }})
+- [africa]({{ "/tags/africa" | relative_url }})
+- [maghreb]({{ "/tags/maghreb" | relative_url }})
+- [african]({{ "/tags/african" | relative_url }})
+- [arabic]({{ "/tags/arabic" | relative_url }})
+- [morocco]({{ "/tags/morocco" | relative_url }})
+- [algeria]({{ "/tags/algeria" | relative_url }})
+- [tunisia]({{ "/tags/tunisia" | relative_url }})
+- [world]({{ "/tags/world" | relative_url }})
+- [oriental]({{ "/tags/oriental" | relative_url }})

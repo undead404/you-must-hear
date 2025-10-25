@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T00:40:05.641Z
+permalink: tags/pagan
+title: pagan
+---
+
+## pagan
+
+Last updated: <time datetime="2025-10-22T00:40:05.641Z">Wed Oct 22 2025 03:40:05 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 21 |  | 1992 | Mark Heard | Satellite Sky |
+| 43 |  | 1992-01 | Absurd | God&#39;s Death |
+| 12 |  | 1996-06 | Wendy Rule | Zero |
+| 45 |  |  | Claudiney Prieto | Ritual - Cânticos Sagrados da Antiga Religião |
+| 46 |  | 1997 | Alan Lamb | Night Passage |
+| 4 | ![Cover](https://i.discogs.com/8wZ42QPP8KXpqtd6p6oYokIndl_NPEaH3TTkkXy_sUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzcw/NjMtMTI3MDMyNTY0/Mi5qcGVn.jpeg) | 1999 | Sequentia | Edda - Myths from Medieval Iceland |
+| 30 |  | 1999 | Percival Schuttenbach | Moribuka |
+| 48 | ![Cover](https://i.discogs.com/P1yF0Rnh-NKa3A0kRCo-3GcalWpz4nVuwN9_vA2nLzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTA2/NzM1LTE2NTgwMDMx/MDAtMzE0Ny5qcGVn.jpeg) | 1999 | Gaia Consort | Gaia Circles |
+| 41 | ![Cover](https://i.discogs.com/eI2Rrc81ZLEuCDfGvJKLCRusqCQJuhDZmtsu86bvV9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY1/ODAtMTI1NzU0MTE4/OS5qcGVn.jpeg) | 2000 | Северные Врата | Отчизна |
+| 31 | ![Cover](https://i.discogs.com/wvC4Fg5ris55nbCdOLW5_QYZ-1m8eC2HXsLrwb6NKZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDE1/NTItMTY5NzgwMjg0/Ni0zMTA0LmpwZWc.jpeg) | 2001 | Three Weird Sisters | Rite the First Time |
+| 42 | ![Cover](https://i.discogs.com/LUKjnySULhsLr6QT4Gp4MFm2spZP9wO05PuMR743eQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE0/MTU2LTE2Nzg3NjU1/MjQtODMyMS5qcGVn.jpeg) | 2001 | Gaia Consort | Secret Voices |
+| 19 | ![Cover](https://i.discogs.com/WGIVh21vDVr2gi-_VlE29Np1DhGwJqBE2riq6O5ES0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODYz/NTAtMTQ2NjYwNDU4/MS00NDc3Lm1wbw.jpeg) | 2003 | Ruth Barrett | The Year Is A Dancing Woman, Vol. 1 |
+| 32 |  | 2003-09-03 | Nydvind | Eternal Winter Domain |
+| 6 | ![Cover](https://i.discogs.com/UqX2SXgnf57hcLcjH5AOB0dWdRK6VSVcGO1wdH_OoGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTIz/MS0xMzc4Mjk0NzM2/LTM5NjkuanBlZw.jpeg) | 2004 | Wojnar | When the Spirit of War Will Rise Above Me |
+| 25 | ![Cover](https://i.discogs.com/89z2qH2nLOvXCbTXwR0VMAwgpBHpFl29bdOtzuaDupo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODEw/Mi0xNTIwNjIwNDQy/LTYzMDQuanBlZw.jpeg) | 2004 | Nebelhexë | Laguz - Within the Lake |
+| 10 |  | 2004-01-01 | S.J. Tucker | Haphazard |
+| 8 | ![Cover](https://i.discogs.com/hO0CXGim9kxC_hx9nUHJbXx7gbTEDib_PzMvEgor2ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzU2/MzQtMTM2NTk0MzM5/MC0xNDk1LmdpZg.jpeg) | 2005-06-21 | Torment | Tormentation |
+| 9 |  |  | Revel Moon | Revel Moon |
+| 18 |  |  | 志方あきこ | Istoria ～Musa～ |
+| 40 |  |  | Alexia Evellyn | Hold On |
+| 44 |  | 2004-12 | Волколак | Слава Яриле |
+| 13 | ![Cover](https://i.discogs.com/kw9dDwwZstw-iH0ak1fxzxd_8eEuaaiRc-c6RDRjpr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjI4/MTEtMTQ4NTk2ODg3/Ni01ODk2LmpwZWc.jpeg) | 2005 | Holdaar | Противление |
+| 20 | ![Cover](http://coverartarchive.org/release/eed8a036-2a54-4f72-9d77-e522245be88f/4541781199-250.jpg) | 2005 | Arkona | Raw Years 1993-95 |
+| 24 | ![Cover](https://i.discogs.com/hRuVVPqnUNOpFhDcfNyj98s3MxmNaDWmmHGhNVcEUDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzU5/MjAtMTMzNDUxOTg0/Ni5qcGVn.jpeg) | 2005 | НЕЖЕГОЛЬ | От Сердца к Солнцу |
+| 37 | ![Cover](https://i.discogs.com/S-vmjIGqdUyCBpVxozXafCqd3ePjsleF5KspAnCWDUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTQw/NDMtMTI5ODE0Njk4/NS5qcGVn.jpeg) | 2005-01-05 | Северные Врата | Равновесие |
+| 3 | ![Cover](https://i.discogs.com/IwY8cMCfpXFHtsZCm6awhrFQVLh0lBfpHA_VcFoKmYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgz/MjgtMTIxODE5Mjk0/OS5qcGVn.jpeg) | 2006 | Saltus | Symbols of Forefathers &amp; Inexploratus Saltus |
+| 11 |  | 2006 | Варяг | Память |
+| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/02a1925687746c2e16aba4d01bd0227c.png) | 2006 | Nebelhexë | Essensual |
+| 49 | ![Cover](https://i.discogs.com/P7gIPY7iOBn85mKWiqoUvvY6nlCqMIXzSG-SABVgqCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODE1/My0xNDI2Mjg5MTg4/LTE4MzkuanBlZw.jpeg) | 2006-01-24 | Donis | Bite Lingo |
+| 17 |  | 2006-01-25 | 黒色すみれ | アンデルメルヘン歌曲集 |
+| 50 | ![Cover](https://i.discogs.com/cPYcKpbP_ZtoYjI9KEs_tX_jOf3saa1L5FrGH_45jF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDk3/MzY4LTE2NDA1NzE1/MTEtODc2Ny5qcGVn.jpeg) | 2006-10-31 | S.J. Tucker | Sirens |
+| 35 | ![Cover](https://i.discogs.com/z8rz_FErqcbjSlIgp7LfhX2eULBEal7btz_OfCANyUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzM3/NTI0LTE1ODA2MDcx/NzQtOTQ0Ny5qcGVn.jpeg) | 2007 | Kellianna | I Walk with the Goddess |
+| 27 |  | 2007-04-15 | Xyla | Esoterica |
+| 22 | ![Cover](https://i.discogs.com/CHLrwwPBhczhhQwy9VitpyGGvSSxJk4CRLd9Fls9aq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE0/MTMyLTE2Nzg3NjUy/MTctMjQyMS5qcGVn.jpeg) | 2007-06 | Gaia Consort | Vitus Dance |
+| 26 |  | 2007-10-09 | Изморозь | Церковь, Что Горит Под Горой |
+| 23 |  | 2007-12-29 | 志方あきこ | Istoria～Musa～ |
+| 33 | ![Cover](https://i.discogs.com/3_g5f_kKeDBQEszhzq-XHSuqSZJbVq1P7fO6385o_Ks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTQw/MzItMTQyMTc2NjIw/Mi02NDU5LmpwZWc.jpeg) | 2008 | крада | Ступени |
+| 34 | ![Cover](https://i.discogs.com/LG7fbFcZN0psL_GNyfvBy5Ct5uLg754RObJxsJ66g1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njkw/MDUtMTQ5NzEzMTY3/NS05OTYyLmpwZWc.jpeg) | 2008 | Dantesco | Pagano |
+| 29 |  | 2008-02-29 | Agalloch | The White EP |
+| 16 |  | 2008-03-19 | Stigmatic Chorus | Gedonist |
+| 36 | ![Cover](https://i.discogs.com/GDnJ9gkMAhSNhXTyWOr41FN1h1_B9rcTf9Y4rb-sG34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg1/OTAtMTU5ODI2MDEy/NS0yNTkzLmpwZWc.jpeg) | 2008-06 | Pagan Hellfire | Solidarity |
+| 15 | ![Cover](https://i.discogs.com/DntteQAuA5cOZZmdX9k4HQ1zY_pjFOXBLZw29jb-1VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTY4/NzktMTU2OTE3OTAx/OS03MDc0LmpwZWc.jpeg) | 2009 | Изморозь | Происки Богов |
+| 39 | ![Cover](https://i.discogs.com/GSWe50DPmqL35sVQpdaPckXkqcJkMAB7G1MeUfNsmZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTEw/MjUtMTIzNzIzMTAx/Mi5qcGVn.jpeg) | 2009-09-23 | ManMadeMan | Children Of The Light |
+| 1 | ![Cover](https://i.discogs.com/lKW54G7l18Oe2GFXkCvm-qiuKnsyeveRSDnx3q2HPXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTky/NTctMTMxNjY4NTQz/MS5qcGVn.jpeg) | 2010 | roberto DELIRA &amp; Kompany | Zabobon |
+| 5 | ![Cover](https://i.discogs.com/7L827gRZhj4PhYHglJ_xIkLqMuKcG6tXG4tUfABERUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzQ3/NDgtMTM2MzE5NDYz/NC05NzI2LmpwZWc.jpeg) | 2011-12 | Asmund | Воля |
+| 28 | ![Cover](https://i.discogs.com/JDMenZvgzDtpHv71sqo_9AhRI7KA-BfMHfAHKNI9HNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTc0/OTAtMTM4NzE5MDI5/Ny04NjMzLmpwZWc.jpeg) | 2013-12-16 | ASKII | Tie |
+| 14 | ![Cover](https://i.discogs.com/Z7pzHcFaxdVgLsTjTRm8QQ179j50LM5MXCa3MXTgYyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/MDYyLTE1MjA2MTQ2/NzEtNDkyNy5qcGVn.jpeg) | 2014-03-26 | An Danzza | Tierra de Andanzas |
+| 47 |  |  | KelThuzzaR | Zew Triumfującej Potęgi |
+| 99 | ![Cover](https://i.discogs.com/57M6N-UMRPTc_PGKpLEqdn3lDp0XrtB9mqCoYMzgphE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzA1/NS0xMjk2MjAxMDcx/LmpwZWc.jpeg) | 1978 | Moondog | H&#39;art Songs |
+| 55 | ![Cover](https://i.discogs.com/8XlEHF4F0HaCMSGEZ4C8nHicyBqoCrjOmIACY0hGXP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTE0/NjktMTM4NDc5OTU4/Ny0zOTI4LmpwZWc.jpeg) | 1986 | Libana | A Circle is Cast |
+| 54 | ![Cover](https://i.discogs.com/GoCoUROtHUe4HCbgQTEcXludPuGf9RFjjV3a7nykIbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcz/MjUtMTYxNzYyMTg0/NC03MDI3LmpwZWc.jpeg) | 1994 | Kiva | Mother Wisdom |
+| 72 | ![Cover](https://i.discogs.com/axMUARTSRMyrNJRBGvB2iKjaDRtkcoDSkH3dwsBQyuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTY3/MTItMTMyMTA0NjA4/Ni5qcGVn.jpeg) | 1994-04 | Inkubus Sukkubus | Wytches |
+| 95 | ![Cover](https://i.discogs.com/hQyR_T7kMFeVaUBJX-EJXNWtcioZUsffRGC3xbqiGrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDE2/Mi0xMTUzNzc2Njkx/LmpwZWc.jpeg) | 1995-10 | Inkubus Sukkubus | Heartbeat of the Earth |
+| 63 | ![Cover](https://i.discogs.com/G35eQ4MLgx5c0YE0G-y0Kxo7hi5ImOTpzEWUNROUQ6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjM1/NzgwLTE2Mzg3MDAz/ODAtOTUyNy5qcGVn.jpeg) | 1996 | Spiral Dance | Woman of the Earth |
+| 93 |  | 1996 | Psychic TV | Trip Reset |
+| 78 |  | 1997-09-22 | Inkubus Sukkubus | Vampyre Erotica |
+| 84 | ![Cover](https://i.discogs.com/lz6K3PCp8P-XewhBOYsup9bAcCPNmLseIzA-dx_Vb1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTk1/LTEyMDIyMjIzMTAu/anBlZw.jpeg) | 1998-10-01 | Shpongle | Are You Shpongled |
+| 87 | ![Cover](https://i.discogs.com/lt43MXwxYMHTwS4CkDrSVvdYZKzvsJZrkkuaxshV8l4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDI3/Ny0xMTI5MjI5NDM4/LmpwZWc.jpeg) | 1999 | Inkubus Sukkubus | Wild |
+| 69 | ![Cover](https://i.discogs.com/Z54F24yekVlzshQUuWosush_um5b_i-OIDN2i1BXzGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcw/NTMxLTE1Mjk3MTAx/NjktNjUyOC5qcGVn.jpeg) | 2000 | Emerald Rose | Bending Tradition |
+| 97 |  | 2000 | Hagalaz&#39; Runedance | Volven |
+| 62 | ![Cover](https://i.discogs.com/56tqHKkhwLaXoogKoGF36Dk1XLgQ21jSB0mGY7FcZhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzIy/NjctMTM5ODEwMTY2/OS03OTIzLmpwZWc.jpeg) | 2001 | Северные Врата | На Войну |
+| 71 | ![Cover](https://i.discogs.com/fpte9ns2LdjDsOUcNhHCDRuQbT9aCGPm3AmpS39vg_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDI4/OC0xMTI5MjMwNDE0/LmpwZWc.jpeg) | 2001 | Inkubus Sukkubus | Supernature |
+| 100 | ![Cover](https://i.discogs.com/WYQVAZi5UcceKLtlUCoZaCG2NrsGVDpoQ1Eyj_sjZII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTcy/Njg5LTE1OTM5NzYy/NDYtMzE0OC5wbmc.jpeg) | 2001 | Aurora | Scarborough Fair |
+| 88 |  | 2002-09 | Daemonia Nymphe | Daemonia Nymphe |
+| 51 | ![Cover](https://i.discogs.com/Z1dKGBAMY20P1-qemPhv1F2-z22xjDHH2AQj4vxq6sQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTUw/NDAtMTI4MTU2MTc4/NS5qcGVn.jpeg) | 2003 | Северные Врата | Правь |
+| 67 |  | 2003-04 | Wendy Rule | The Lotus Eaters |
+| 64 |  | 2003-07-01 | Damh the Bard | The Hills they are Hollow |
+| 59 |  | 2004 | Carved in Stone | Hear the Voice |
+| 74 | ![Cover](https://i.discogs.com/z8rz_FErqcbjSlIgp7LfhX2eULBEal7btz_OfCANyUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzM3/NTI0LTE1ODA2MDcx/NzQtOTQ0Ny5qcGVn.jpeg) | 2004 | Kellianna | Lady Moon |
+| 86 |  | 2004 | Inkubus Sukkubus | The Beast With Two Backs |
+| 90 |  | 2004 | Daemonia Nymphe | The Bacchic Dance of the Nymphs - Tyrvasia |
+| 96 |  | 2004-12 | Omnia | Live Religion |
+| 66 | ![Cover](https://i.discogs.com/RW8h5FQgzeXC9N8zMAih-eCTowycwwgfY9G1RZgwQZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTI4/MTExLTE2NTAzMDk3/OTYtODY1Ni5qcGVn.jpeg) | 2005 | Lisa Thiel | Circle of the Seasons |
+| 75 |  | 2006 | Damh the Bard | Spirit of Albion |
+| 77 |  | 2007-03 | Daemonia Nymphe | Krataia Asterope |
+| 68 | ![Cover](https://i.discogs.com/42YUsMLs9tssgRNBdJTB2n8aiuaFw6CeUsqNYsL2Fy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY5/Mjg5LTE1MTMwNTk3/OTYtOTA2MC5qcGVn.jpeg) | 2008 | Kat Edmonson | Be The Change |
+| 79 |  | 2008 | Damh the Bard | The Cauldron Born |
+| 65 |  | 2008-03-21 | Lindie Lila | Return of the Goddess |
+| 56 | ![Cover](https://i.discogs.com/AOnvf2uIGt0JeQzmJcODvHmZZLpMNAdaOxbHVWHb2EE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODY5/NzctMTI4ODgwNTQz/My5qcGVn.jpeg) | 2009 | Arckanum | Fran Marder (2009 Reissue) |
+| 98 | ![Cover](https://i.discogs.com/U7hw7y65bSHARX9WdyTgJVkd9aMS4ZUWWx7TvQtAFYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI3/ODgtMTI2OTA0MjE0/Mi5qcGVn.jpeg) | 2009 | Eluveitie | Omnos |
+| 85 |  | 2009-01-29 | Kat Edmonson | Lucky |
+| 58 | ![Cover](https://i.discogs.com/MeONsUEUKejJV1Q8XcEZlELGwC_2YX0hVPEEzRvcZAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTA0/OTAtMTM1MTU5MDQ0/MC03NDI3LmpwZWc.jpeg) | 2009-12-09 | Невидь | Янтарное сердце Арктиды |
+| 60 | ![Cover](https://i.discogs.com/OR8Y3IZt4vMKfB5Rj9IP-bfoHteaegftmahdhaktaMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTUw/Mjg5LTE1ODc5Njgx/MjItOTI5MC5qcGVn.jpeg) | 2010 | Burzum | Thulêan Mysteries |
+| 53 | ![Cover](https://i.discogs.com/Z7pzHcFaxdVgLsTjTRm8QQ179j50LM5MXCa3MXTgYyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/MDYyLTE1MjA2MTQ2/NzEtNDkyNy5qcGVn.jpeg) | 2010-06-30 | An Danzza | Last Autumn tears |
+| 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3a55090871c1439986b0c57778e3c5bb.png) | 2010-09-14 | Sully Erna | Avalon |
+| 89 |  | 2010-11-12 | Obscurity | Tenkterra |
+| 57 | ![Cover](https://i.discogs.com/_r8B9Xkw5OAlrmmzRCVtM5GXBsURxjcvfk_BgfORZzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzkz/MzgtMTMyNjQ2NDUw/MS5qcGVn.jpeg) | 2012-02-01 | Monica Richards | Naiades |
+| 52 | ![Cover](https://i.discogs.com/6aA3xsxb3P43_5s250GfIM5gqh6lBfv0sbYuuLRSNyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzQ5/OTEtMTQzNTQwNjQx/OC05OTIxLmpwZWc.jpeg) | 2013 | Eliwagar | Gryningen |
+| 94 |  | 2013-05 | Daemonia Nymphe | Psychostasia |
+| 70 | ![Cover](https://i.discogs.com/pKcFn2NjBtYGdZ-V5ITGudNt_h0Tu-PIagrXAXCJ8GA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTU4/MDMtMTQzMDA5ODYy/NC0xMjc5LmpwZWc.jpeg) | 2014-09-12 | Nothgard | Age of Pandora |
+| 80 | ![Cover](https://i.discogs.com/XjxEJw-71JmMklbXb6qmiAQSPyCjHt4jQqYUIPtqSHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTcw/NzQtMTQ2OTM5MTU4/My00MjA5LmpwZWc.jpeg) | 2016-07-15 | Omnia | Prayer |
+| 82 | ![Cover](https://i.discogs.com/zivKl23mYgDBFB-58IRQaveXdnJMq1yVe11nZvaMl2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDM0/NjctMTQ0OTk5NDA1/OC04MTQ3LmpwZWc.jpeg) | 2016-07-15 | Omnia | Naked Harp |
+| 76 | ![Cover](https://i.discogs.com/bRclYCDCpCv8FfC2vMy847Vqt9b4xaKSt2SG0rI6RNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjM2/OTktMTQ3NTE3ODg2/OS00NjMxLmpwZWc.jpeg) | 2016-09-30 | Skálmöld | Vögguvísur Yggdrasils |
+| 83 | ![Cover](https://i.discogs.com/myk34ugiqcWVeCcnSikq4HVJXw38WpFqxp2JYH1wWEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDkz/NTYtMTU3Mjk3MTYz/MS00MzE2LmpwZWc.jpeg) | 2016-11-11 | Enslaved | The Sleeping Gods - Thorn |
+| 61 | ![Cover](https://i.discogs.com/dKvJrcsynjOn13EF7s85kJOLrUT5vbKpO1Mm-heMo64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjUw/NzM2LTE1MTI3NDk1/ODctMzcwNy5qcGVn.jpeg) | 2017 | Arkona | Zeta Reticuli |
+| 2 | ![Cover](https://i.discogs.com/6Ovl9w8DIcgp3FfioIeWFSvLofl8td4mxu_0lzM3RTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODM3/NzMtMTI4NjU0ODYw/NS5qcGVn.jpeg) | 2018 | Omnia | Sine Missione II |
+| 92 | ![Cover](https://i.discogs.com/kmdGhYIIsLMW2TwUt9sE85sFMMTJCfdhL8womp6jgsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTM0/MDI1LTE1MjUwMTg2/MjMtMTM3MS5qcGVn.jpeg) | 2018 | Omnia | Reflexions |
+| 7 | ![Cover](https://i.discogs.com/0Wv8W-GLsqZVLW5zQr9HbN0WFjl1XhThRtYJaoFXkPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAx/NDc0LTE1ODgwMTky/NDMtMzczOC5qcGVn.jpeg) | 2020 | Дрыгва | Вайдэлот |
+| 73 | ![Cover](https://i.discogs.com/nK3w3Rqgo54Vqmmrjz4YdqbAuzBjTZ-8CDAN9MQ0CRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTgy/NDEtMTM0MDgwMDg0/OC01MzcyLmpwZWc.jpeg) | 2020-09-18 | Varg | Schildfront |
+| 81 | ![Cover](https://i.discogs.com/xZePdMkv66V-yJ8nARf1Ozh9JD_VovFVwTOYquWQWs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDI3/ODUtMTQ3OTkzNDk0/Ny01NDg2LmpwZWc.jpeg) | 2022-09-15 | Arkona | Lunaris |
+
+### Related genres
+
+- [folk]({{ "/tags/folk" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
+- [black metal]({{ "/tags/black-metal" | relative_url }})
+- [pagan metal]({{ "/tags/pagan-metal" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [folk metal]({{ "/tags/folk-metal" | relative_url }})
+- [celtic]({{ "/tags/celtic" | relative_url }})
+- [neofolk]({{ "/tags/neofolk" | relative_url }})
+- [pagan folk]({{ "/tags/pagan-folk" | relative_url }})
+- [russian]({{ "/tags/russian" | relative_url }})

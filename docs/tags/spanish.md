@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-24T00:54:42.089Z
+permalink: tags/spanish
+title: spanish
+---
+
+## spanish
+
+Last updated: <time datetime="2025-10-24T00:54:42.089Z">Fri Oct 24 2025 03:54:42 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 37 | ![Cover](https://i.discogs.com/UEzv2ix2KE5PHdvbGz8aiwmhrynsF0cpHP_8k_LYdzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ1/NDgyLTE2NDc3Nzg5/NDctMjQ5OS5qcGVn.jpeg) | 1967 | Rosalía | MOTOMAMI |
+| 75 | ![Cover](https://i.discogs.com/2cl547cpmSX5_EbULlka-obU8yNsiY_T_vSuBNHJ50A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTI5/NDktMTM0NDYyMzE5/NC00NjQ5LmpwZWc.jpeg) | 1984-10-15 | La Unión | Mil Siluetas |
+| 3 | ![Cover](https://i.discogs.com/q5c6-6Ra1RbCMQK3DfCEI42vQ--3dOLG-TDrQVc8vHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ5/MTEtMTUxODg4ODQz/Ny05ODQ4LmpwZWc.jpeg) | 1986 | Duncan Dhu | Canciones |
+| 38 |  | 1991-05-28 | Pixies | Planet of Sound |
+| 22 |  | 1992-10-19 | Mikel Erentxun | Naufragios |
+| 25 | ![Cover](https://i.discogs.com/ONOtUsbgcEmF6RlRac9IeOVSmONmYbP9yQprM8p0MiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjEw/MTQ1LTE1ODgxNTE0/MDMtMjY5OS5qcGVn.jpeg) | 1993 | Laura Pausini | Laura Pausini - Spanish Version |
+| 36 | ![Cover](https://i.discogs.com/L7Dhu8vDzEJYjsIQ_M-63t6a8f0RUi0G6OaSLArWRFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQ2/ODM0LTE1OTE2NTg5/ODgtNjc5Ni5qcGVn.jpeg) | 1994 | Maná | Cama Incendiada |
+| 84 | ![Cover](https://i.discogs.com/vtOdDuQF70ZgRjIYL2f35wCHuCoqPANE2RET7xw9gLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzg3/MjAtMTY1OTA3NDMz/My02MTA4LmpwZWc.jpeg) | 1994 | Caifanes | El Nervio Del Volcan |
+| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/24234d51a73540a09c6b6d8f5bb42d29.png) | 1994-04-21 | Ricardo Arjona | Historias |
+| 85 | ![Cover](https://i.discogs.com/W9lmw69_zQX9cJioU6LqazvBGxWHeRas7MEeNYYNbWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTg4/NTUtMTYwMDA4NjAw/Mi05Mjk4LmpwZWc.jpeg) | 1994-06-28 | Caifanes | El Nervio Del Volcán |
+| 20 | ![Cover](https://i.discogs.com/0pUXxvJtPW_2dQGO6atI66cZ1eSDOe1OSgKUsLM729E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODMw/ODQtMTM3NjYyMjI3/Ni0zOTk1LmpwZWc.jpeg) | 1995-04-18 | Armik | Gypsy Flame |
+| 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ad19d05177d1ec58acd56c259d29a1e0.png) | 1995-10-06 | Shakira | Pies Descalzos |
+| 47 | ![Cover](https://i.discogs.com/JpHS3MHEMbumLhNZUWViWl85ootK06Cbi5RWUqplXxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODc4/NS0xMTU2ODQ3NzEy/LmpwZWc.jpeg) | 1996 | Los Del Rio | Fiesta Macarena |
+| 62 | ![Cover](https://i.discogs.com/VqfuzEhoCNE8XBQt1k3yIBPs0fLC2zXE-S1SzEvpQXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzI4/NzctMTI4MDIyNjcx/NC5qcGVn.jpeg) | 1996 | Enrique Iglesias | Subeme La Radio |
+| 69 |  | 1996 | Rosana | Lunas Rotas |
+| 97 |  | 1996 | Jarabe de Palo | La Flaca |
+| 74 |  | 1997-02 | Lhasa | La Llorona |
+| 95 | ![Cover](https://i.discogs.com/CoRD8njMbvH4-yPa_u1Lj6GYcukqZTh1HPRuK6ZLEf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjUw/NzctMTYwMTQ1NTAz/NS01NjAxLmpwZWc.jpeg) | 1998 | Jarabe de Palo | Depende |
+| 70 |  | 1998-05-18 | La Oreja de Van Gogh | Dile al sol |
+| 91 |  | 1999 | Estopa | Estopa |
+| 40 |  | 1999-09-14 | Luis Miguel | Amarte es un Placer |
+| 81 | ![Cover](https://i.discogs.com/Caf_ci7UEH4xzb1_UHUFLt24fsWy9VGJ3iP0U36dgJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzMy/My0xMzQ4MjM0NDky/LTI1MzguanBlZw.jpeg) | 2000 | King Africa | La Bomba |
+| 67 |  | 2000-02-28 | Shakira | MTV Unplugged |
+| 18 |  | 2000-03-17 | Amaral | Una pequeña parte del mundo |
+| 94 |  | 2000-09-11 | La Oreja de Van Gogh | El viaje de Copperpot |
+| 71 |  | 2000-09-12 | Christina Aguilera | Mi Reflejo |
+| 27 |  | 2000-10 | La casa azul | El Sonido Efervescente de La Casa Azul |
+| 56 |  | 2001-09-04 | Elefante | El que busca encuentra |
+| 80 |  | 2001-10-11 | Estopa | Destrangis |
+| 64 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/784fbec7c11418d5aa4c6406734416fd.png) | 2002 | Marea | Besos De Perro |
+| 66 | ![Cover](https://i.discogs.com/JlhKrP_C6WG9J7TlyeK2bbe0KTodiD31YFh-no94jvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzE4/OTYtMTQ1MzgyNjQ3/Ny02MDkzLmpwZWc.jpeg) | 2002 | Shakira | Shakira MTV Unplugged |
+| 11 |  | 2002-07-23 | Ivete Sangalo | Se Eu Não Te Amasse Tanto Assim |
+| 34 |  | 2002-08-26 | Los Planetas | Encuentros con entidades |
+| 43 | ![Cover](https://i.discogs.com/YeylSaJF3om09Xv-m3kw6wVh0CI6QmwhmnTW7QvnzL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDMw/ODU4LTE2MTkyMTMx/MjItMjU0My5qcGVn.jpeg) | 2003 | Melendi | Sin Noticias De Holanda |
+| 52 |  | 2003-04-28 | La Oreja de Van Gogh | Lo que te conté mientras te hacías la dormida |
+| 76 |  | 2003-08-05 | Belinda | Belinda |
+| 9 |  | 2004 | The Sunday Drivers | Little Heart Attacks |
+| 32 |  | 2004 | Estopa | ¿la Calle Es Tuya? |
+| 54 | ![Cover](https://i.discogs.com/M2DXphH8JB51kDVRuFdGhd2G_PNAQ2OsRFXbM5XkpJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjI1/MjMtMTYyNjA0Nzc4/Ni05ODE1LmpwZWc.jpeg) | 2004 | Ely Guerra | Sweet &amp; Sour - Hot &amp; Spicy |
+| 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2c133e2d6c96b221433801870efc0d43.png) | 2004 | La Vela Puerca | A Contraluz |
+| 55 |  | 2004-07-28 | Ely Guerra | Sweet &amp; Sour, Hot Y Spicy |
+| 87 |  | 2004-09-28 | Juanes | Mi Sangre |
+| 4 | ![Cover](https://i.discogs.com/xgZe_3ERenRWbi5Z9teZhn71zJrDPa3FG6_F-t-ZqiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzYz/OTM0LTE1MzM3NDk5/MTktODU2Ny5qcGVn.jpeg) | 2005 | Gipsy Kings | The Best Of |
+| 48 |  | 2005 | Muchachito Bombo Infierno | Vamos que nos vamos |
+| 88 |  | 2005 | Pereza | Animales |
+| 10 |  | 2005-03-07 | El Sueño de Morfeo | El Sueño de Morfeo |
+| 79 |  | 2005-05-10 | Amaral | Pájaros en la cabeza |
+| 82 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2d9923b34e9e45979e174b2d4a4f8ece.png) | 2005-06-21 | El Canto del Loco | Zapatillas |
+| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fee204d425050f049d89ed9271eee47b.png) | 2005-09-08 | Los Bunkers | Vida de Perros |
+| 17 | ![Cover](https://i.discogs.com/sY_YlQcswNOvr04ymPcBqI0g7YancwXdnPfqO3q0pO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYx/NDUxLTE1NTA5Mzgy/NTItMzc1My5qcGVn.jpeg) | 2005-09-20 | Jenni Rivera | Parrandera, Rebelde Y Atrevida |
+| 42 |  | 2005-11-22 | Estopa | Voces De Ultrarumba |
+| 23 | ![Cover](https://i.discogs.com/I8O_OBYWExw1D5Wr1SQnT_bKG9l2KoAleDNfAH6OeZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTY0/NzktMTQ0ODIwMjY1/OC0zNDQzLmpwZWc.jpeg) | 2006 | David Bisbal | Premonicion |
+| 63 | ![Cover](https://i.discogs.com/_Tk2bse742pm1vjPfanvjQSHJgzAKCzietTZcIOktw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTY3/NjctMTMyNzE2NjA4/Ni5qcGVn.jpeg) | 2006 | Muchachito Bombo Infierno | Vamos Que Nos Vamos - Extras |
+| 1 |  | 2006-01-30 | Amparanoia | La Vida Te Da |
+| 60 |  | 2006-02 | Ojos de Brujo | Techari |
+| 33 |  | 2006-02-21 | Niña Pastori | Joyas Prestadas |
+| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a8551e31c6054a4c81b1e81d73bfeaa5.png) | 2006-04-23 | La Oreja de Van Gogh | Guapa |
+| 26 |  | 2006-06 | Kudai | Sobrevive |
+| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/22d5c88af78448f8b384b6d7c5ae3903.png) | 2006-06-06 | Julieta Venegas | Limon Y Sal |
+| 59 |  | 2006-11-13 | Melendi | Mientras No Cueste Trabajo |
+| 7 |  | 2007-03-20 | Jennifer Lopez | Como Ama Una Mujer |
+| 19 | ![Cover](https://i.discogs.com/5tyc5kh1UsXwdlBQE_2-SEnjbRNj-Si3d3HlnOiDpHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Nzc0/MjgtMTM5OTY2ODI5/Ni04MjU4LmpwZWc.jpeg) | 2007-03-26 | Deluxe | Fin De Un Viaje Infinito |
+| 65 |  | 2007-04 | The Sunday Drivers | Tiny Telephone |
+| 39 |  | 2007-04-10 | Jarabe de Palo | Adelantando |
+| 61 |  | 2007-06-19 | Sidonie | Costa Azul |
+| 13 | ![Cover](https://i.discogs.com/ZyR2_ymS4Hz1KVCUICT3BmROxlCPgMwHLmdSUdbpdic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjgz/NzktMTQ4NjQxMzQy/Mi05MzMxLmpwZWc.jpeg) | 2007-10-07 | Chenoa | Absurda Cenicienta |
+| 8 | ![Cover](https://i.discogs.com/GYan_gluXbDM_wrobuBKiAjpJTnUFF12WXS_gTjgtZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzQz/NTYtMTI5ODYyODk2/NC5qcGVn.jpeg) | 2008 | Giulia y Los Tellarini | Eusebio |
+| 72 |  | 2008-04-01 | El Canto del Loco | Personas |
+| 41 |  | 2008-09-30 | Nena Daconte | Retales De Carnaval |
+| 14 |  | 2009-03-03 | Macaco | Puerto Presente |
+| 68 | ![Cover](https://i.discogs.com/ezWXEVPWEn4kfDIFWnPCfmk7mV4Zx8cZwFpoacKZ9bs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTgx/MDQtMTI4OTc2ODE3/Mi5qcGVn.jpeg) | 2009-03-17 | Ojos de Brujo | Aocana |
+| 53 | ![Cover](https://i.discogs.com/CvYKJucva5dMdHbXMO-qzJNp2t8ni1b1eskXkQizaEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTgw/MjUtMTMxOTMwODk0/Ny5qcGVn.jpeg) | 2010-03-16 | Julieta Venegas | Otra Cosa |
+| 35 |  | 2010-05-04 | Lori Meyers | Cuando El Destino Nos Alcance |
+| 58 |  | 2010-07-12 | Loona | Vamos a la Playa |
+| 2 |  | 2010-09-01 | Javiera Mena | Mena |
+| 89 | ![Cover](https://i.discogs.com/7ZEDQRcyW7HdtF4xBs50eJ_cX7rRbT3M-DVjix3S__A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDMw/NDQtMTMwNjQ5NDg2/My5qcGVn.jpeg) | 2011-05-10 | Russian Red | Fuerteventura |
+| 30 | ![Cover](https://i.discogs.com/yQHg9q_hS6RLsn7YipFSAOwacay6uzE3t41TQm5WoS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzEy/ODItMTYzMDcwMTM5/OS0zNzM5LmpwZWc.jpeg) | 2011-09-13 | La Oreja de Van Gogh | Cometas por el cielo |
+| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/009aa96d199c486bb02f013b6458a898.png) | 2011-11-01 | Shakira | Live From Paris |
+| 16 |  | 2012-05-22 | Love of Lesbian | La noche eterna. Los días no vividos |
+| 28 | ![Cover](https://i.discogs.com/CFuMNCFPrkYWM-QRrsXHjXRSYPFnStOyT8zNIBl7bto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM3/NjI5LTE1NjY1ODA5/NTctNTQ5NC5qcGVn.jpeg) | 2013-09-03 | Chelsea Wolfe | Carrion Flowers - Single |
+| 46 |  | 2013-11-08 | Fifth Harmony | Juntos |
+| 12 | ![Cover](https://i.discogs.com/BhTKJrjCTHmdxIjftMvzaZcOjJT5JmvJU-58P1QSNpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODU1/NDY1LTE2ODIyNTYy/NjAtNTc0MC5wbmc.jpeg) | 2014 | Lali | N5 |
+| 29 | ![Cover](https://i.discogs.com/UvFGBPn28KYAZOxmillagONlOdF-VMzcT5slC6XHpoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDk3/NzYtMTM1MjIwNTc1/OS02NzE1LmpwZWc.jpeg) | 2014-11-10 | Pablo Alborán | Terral |
+| 6 | ![Cover](https://i.discogs.com/2lzFkmb81VMYMTeU9xa49OsSP3FZPq1_VvhXAMUziQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDA4/OTEtMTM5MDkxMzI1/Ny04NTcyLmpwZWc.jpeg) | 2015 | Pablo Alborán | Pablo Alboran (Deluxe) |
+| 90 | ![Cover](https://i.discogs.com/XcUy0sHmbvn_-CVT6kc2G1WdoVe5_wDFVQzemrvxkGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTM4/NDctMTQzNTg0NTQ5/Ny01MTU2LmpwZWc.jpeg) | 2015-07-03 | Monsieur Periné | Caja de Música |
+| 50 | ![Cover](https://i.discogs.com/6bVEb-I_Gp-sfGuYpe1rDSE0M6QAgywlk6kxb7kGbz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjk3/MDUtMTQzOTA0NTI4/MC0yNjU4LmpwZWc.jpeg) | 2015-07-24 | Prince Royce | Five (Deluxe Edition) |
+| 96 | ![Cover](https://i.discogs.com/Zzri_CRoUKQ3uWFGV36OI6bQU6RDBVfpfHzcVbJEHvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTY2/NDkyLTE2MzAzNDg2/NDItNDMxMy5qcGVn.jpeg) | 2017-11-17 | Pablo Alborán | Prometo |
+| 15 | ![Cover](https://i.discogs.com/Liu7nHke2sD0-GI5TEuooP146Wxcj319RRLdnom9xd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY1/NjE3LTE1NTQ3MzM0/MTYtNzE2OC5qcGVn.jpeg) | 2018-02-01 | YUNG BEEF | A.D.R.O.M.I.C.F.M.S. 2 |
+| 99 | ![Cover](https://i.discogs.com/9A0vBwhCzd-32aLZfo_vhjF4U-y6_5Kd-JpOwqAF53s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk5/MTczLTE1NDIxNjg1/OTQtOTkwMy5qcGVn.jpeg) | 2018-05-30 | omar apollo | Stereo |
+| 92 | ![Cover](https://i.discogs.com/WFYwzA5bPPElD5XBrLwSw1Q-tM0dDQVqS8LTFgpJ-RA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTcz/MTg0LTE1NjkxMDU3/MTYtNjMwMy5qcGVn.jpeg) | 2018-12-24 | Bad Bunny | X 100PRE |
+| 86 | ![Cover](https://i.discogs.com/5uE514egEaTmhvPotu0rH2Het2QIsdgu2dFCKLAdJfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ4/NjEzLTE1NjkwMDIx/MjItMjcyNy5qcGVn.jpeg) | 2019-09-20 | Amaia | Pero No Pasa Nada |
+| 98 | ![Cover](https://i.discogs.com/TMVD5rHK7-8ZVB0qy7zMmohJCEfvsNo60XfZOieo3gg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzY5/MTk5LTE1NzMxNTE0/NDMtMzE3OC5qcGVn.jpeg) | 2019-11-07 | Rosalía | A Palé |
+| 93 | ![Cover](https://i.discogs.com/83HecHa3v7q3TmAv7RPUEmPauh0nd20-uMsaVYT7MHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODM3/NzcxLTE1OTAwNzQ2/MzQtOTUwNy5qcGVn.jpeg) | 2020 | Selena Gomez | REVELACIÓN - EP |
+| 100 | ![Cover](https://i.discogs.com/7Jkz59Ttn-m-kxTQDrJ88ZI7TSbJZ-Xbb4CO5_Z-nSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI5/NjUyLTE2ODYzNzU4/ODUtODM3MS5qcGVn.jpeg) | 2020-05-28 | Rosalía | RR |
+| 44 | ![Cover](https://i.discogs.com/Upt7o-H-cxncqXkVdDf1rY3epq9hq_AtdQSIt2IUlKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTYw/MDQ5LTE2OTE5NTEy/NjYtMjUyMy5qcGVn.jpeg) | 2020-08-27 | Alaina Castillo | the voicenotes |
+| 21 | ![Cover](https://i.discogs.com/GUPLh2qKTfot_708BmTX3DNTSmrWWepWWvd02g-M3r4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDg1/ODM3LTE2MDgwMzg5/ODgtNjk0Ny5qcGVn.jpeg) | 2020-11-24 | Alaina Castillo | antisocial butterfly |
+| 83 | ![Cover](https://i.discogs.com/GUPLh2qKTfot_708BmTX3DNTSmrWWepWWvd02g-M3r4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDg1/ODM3LTE2MDgwMzg5/ODgtNjk0Ny5qcGVn.jpeg) | 2020-11-24 | Alaina Castillo | just a boy |
+| 78 | ![Cover](https://i.discogs.com/fmork5iqrE8J5qOvfvojru6-lozl6PArgoU2gHAOPic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc3/ODUxLTE2Mzc1NzYz/MDMtNDc0Ny5qcGVn.jpeg) | 2021-10-15 | Eurielle | The Bridge Of Khazad-Dum (from &quot;The Lord Of The Rings&quot;) |
+| 24 | ![Cover](https://i.discogs.com/ZUo2CV_InMXIHWcI_4cHEtTd0tOX4YVz_LveusTe7yE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQz/MDE0LTE2MzU5ODE0/MTQtMjA0My5qcGVn.jpeg) | 2021-10-29 | Mon Laferte | 1940 Carmen |
+| 51 | ![Cover](https://i.discogs.com/6woVMRF91ZzyRZ4NVpCJejheltThxtdvliREMyE_pRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQ2/OTYtMTIyMTczMTEz/NC5qcGVn.jpeg) | 2022-01-21 | Christina Aguilera | La Fuerza |
+
+### Related genres
+
+- [pop]({{ "/tags/pop" | relative_url }})
+- [latin]({{ "/tags/latin" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [spain]({{ "/tags/spain" | relative_url }})
+- [dance]({{ "/tags/dance" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
+- [latin pop]({{ "/tags/latin-pop" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})

@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T06:39:47.216Z
+permalink: tags/turkey
+title: turkey
+---
+
+## turkey
+
+Last updated: <time datetime="2025-10-22T06:39:47.216Z">Wed Oct 22 2025 09:39:47 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 2 | ![Cover](https://i.discogs.com/Dn7uYVpHyocPazowEtf-JXzN4Wcgw9LtZDf5jdsZwJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQz/MDI2LTE2Nzc4MDM1/NDctNzQ0My5qcGVn.jpeg) | 1973 | Various Artists | Traditional Music of the World, Vol. 6: Song Creators in Eastern Turkey |
+| 45 |  | 1980-08 | Various Artists | Hava Narghile: Turkish Rock Music 1966 To 1975 |
+| 5 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1987 | Various Artists | Songs and Dances of Turkey |
+| 32 | ![Cover](https://i.discogs.com/55I3WvPV1MZepKemu3IO9LIRGEiHdX4Uetz072GMU1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTQy/MTQwLTE1MTgxOTMx/ODMtMzczMC5tcG8.jpeg) | 1991 | The Erkose Ensemble | Tzigane - The Gypsy Music Of Turkey |
+| 29 | ![Cover](https://i.discogs.com/F_NRIBCiCsJm2Cjq2VXnJ1WAAvoKku_7HfjQ7M4AIhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTA5/NzEtMTQyMjY2NDM4/NC04MDY5LmpwZWc.jpeg) | 1997 | Şebnem Paker | Eurovision Song Contest 1996 Oslo |
+| 50 | ![Cover](https://i.discogs.com/bBFwWq-4wfobf75Izc-2QEkxuZbs0iWTo-FekcDhwE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTc0/NzItMTMyMDkxODU2/Ny5qcGVn.jpeg) | 1999 | Hakan Yesilyurt | Ates Hirsizi |
+| 42 | ![Cover](https://i.discogs.com/x4VwD0DsxTOUGUkEPDXafFF948ag6PY9EDMtPKBXJWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzY1/ODgtMTI5MTMwNDY0/Ny5qcGVn.jpeg) | 1999-11 | Murat Kekilli | Bu Aksam Ölürüm |
+| 11 | ![Cover](https://i.discogs.com/rGKHRWS6URHk3V7T__5NtZNxPVZcw5RG4wHlxaJOkao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAw/NTU2LTE3MzE5NzA3/ODQtMjcxNy5qcGVn.jpeg) | 2000 | Neset Ertas | Gönül Dagi |
+| 39 | ![Cover](https://i.discogs.com/H-qwK8vd-Ds_RA6SxO4kZ73f0IZ_9DqDvRAn4vs76Pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDM5/NzctMTQ4MjQzMDg0/Mi04ODY2LmpwZWc.jpeg) | 2000 | Acrimony | Burning Lives |
+| 43 | ![Cover](https://i.discogs.com/7yGJiW4hZovx7-rX3nrijywtrIp_7EGLLZivtdgGLsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDMw/MjItMTQzODA5NDMx/OS00NDMwLmpwZWc.jpeg) | 2002-04-19 | Mazhar Alanson | Turk Lokumuyla Tatli Ruyalar |
+| 37 | ![Cover](https://i.discogs.com/0Yx3UuBDGXGS4wZkQyir9sraIonvsWrzdbX9Jc0b3H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDkz/NDEtMTMzMDgxMDc5/NC5qcGVn.jpeg) | 2003 | SOLITUDE | Stands For The Void |
+| 18 | ![Cover](https://i.discogs.com/m3fwyIdz0Xgf6fqVU-DRDYPNqdWOJC3cqOtSdWDUfFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzkz/NjYtMTQwOTUwMjA3/Mi03OTAxLmpwZWc.jpeg) | 2004 | Baris Akarsu | Islak Islak |
+| 22 | ![Cover](https://i.discogs.com/SBhFG48ZYvHqorFJcLQNYDQx1113WUayygp_uV5-LM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzM2/OTItMTQzMzA4OTUz/MS05NDkzLmpwZWc.jpeg) | 2004-05-31 | Aykut Ilter | ESKi DEFTER - KÜÇÜK HIRSIZIM Aykut ilteR |
+| 3 | ![Cover](https://i.discogs.com/fnh3kk-D6SXoqpJaMeEtCsAHC4zHnn0kUtcc-SjMOkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTAw/MTktMTQxNjE1NzIw/MC05MDU5LmpwZWc.jpeg) | 2006-08-17 | Baris Akarsu | Düşmeden Bulutlarda Koşmam Gerek |
+| 26 | ![Cover](https://i.discogs.com/o1Ksx-lSMNmbEzZPW2CynCDYfPM7gcWW1VnBaksaS5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTgw/NDYtMTQ3MzM1MTkz/NC0xMTMwLmpwZWc.jpeg) | 2006-08-31 | Burcu Güneş | Ben Ateş - Ben Su |
+| 1 | ![Cover](https://i.discogs.com/1wR1Gprigosqtzw2Pr2GuxjQetieyn7o1TE2vCYhfTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDYw/MTgtMTI4OTgxMTk4/NC5qcGVn.jpeg) | 2008-04-30 | Ferhat Göçer | Çok Sevdim Ikimizi |
+| 9 |  |  | Ali Ekbar Cicek | Turkish Sufi Music |
+| 13 |  |  | Zeleia &amp; Golem | There&#39;s Nothing |
+| 15 |  |  | Neopol | Covers |
+| 19 |  |  | Utopian Semantics | Misreporting the Arbitrary Condition |
+| 24 |  |  | BalkanDzukbokS | BalkanDzukbokS - Live Demo |
+| 27 |  |  | Turku Folk Group | The Best Turkish Folk Dances |
+| 36 | ![Cover](https://i.discogs.com/SWzT6nd4O3FGWRwYRCVu7OBytpbM2AHRgPPizVnlqoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzU4/NzYtMTQwNjc0OTU4/NS05MTIzLmpwZWc.jpeg) | 2010 | Since Yesterday | The Art Of Eremophobia |
+| 38 |  | 2010-10 | Deggial | Upon The Path Of Damnation |
+| 31 | ![Cover](https://i.discogs.com/FHubosza9TWjI9c-oPCkKiLb74LjGJAeZ_kCzD6ZJu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDk4/MDUtMTM4NDcxNjI2/OS04MjYwLmpwZWc.jpeg) | 2013-02-21 | Deggial | Confronted With Deggial&#39;s Wrath |
+| 6 | ![Cover](https://i.discogs.com/-Wflf8zocbrC2h-YIohHlLCxxEpFGnktucuyQX-6-0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzM2/NzQtMTQ4ODc5NzYw/Mi03MTU4LmpwZWc.jpeg) | 2015 | Gevende | Igloo Remix |
+| 7 | ![Cover](https://i.discogs.com/GznMszk_0Qxfb0_jo-WxSX07YFR1QU84tVRbSlSJqJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODY3/MDktMTQ4NjMxMDE4/OC05NzQ2LmpwZWc.jpeg) | 2018-01-13 | ZULMET | Satans Nunnor |
+| 4 | ![Cover](https://i.discogs.com/AAgflokTg-WvIebIeoI-sWIlAeU6tzzMKkMLgSgHafs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgy/NTM2LTE1NTMxNjYy/OTgtMTkwOS5qcGVn.jpeg) | 2018-03-16 | Melis Güven | Hiç Olmuşsun - Single |
+| 8 |  |  | The Deefons | Sunset |
+| 10 |  |  | The Deefons | Clippings From the Edge of the Road |
+| 12 | ![Cover](https://i.discogs.com/AAgflokTg-WvIebIeoI-sWIlAeU6tzzMKkMLgSgHafs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgy/NTM2LTE1NTMxNjYy/OTgtMTkwOS5qcGVn.jpeg) | 2018-03-16 | Melis Guven | Hiç Olmuşsun |
+| 14 |  |  | DJHASSUN | PASSION |
+| 16 |  |  | Gergin Bekleyiş | Güneş Etkisi |
+| 40 | ![Cover](https://i.discogs.com/sENNqxKzrl9dLvdzKiYoEjFT_SAfMo9JvjU28mt0ncc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU1/NTA2LTE1MTA4Nzc5/NzYtMTIzNC5qcGVn.jpeg) | 2013 | Tamer Temel | Töz |
+| 17 |  | 2023-10-16 | Cazu | төрөлт |
+| 20 |  |  | Baristik Mi Gostembil Project | ca445 - Baristik Mi Gostembil Project - Gostembil Sessions |
+| 28 |  |  | Cengiz Özkan | Ah Istanbul |
+| 30 | ![Cover](https://i.discogs.com/bqfgj5X4LEO3ih2H_m-ZNzwERl4SNo1ztZHsxEBQDXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDAy/NDYtMTU2Njc1MTc3/Ni03OTc3LmpwZWc.jpeg) | 2006-12-18 | Kazım Koyuncu | Auf der anderen Seite - The Edge of Heaven (Soundtrack zum Film von Fatih Akin) |
+| 33 | ![Cover](https://i.discogs.com/GmC-DIx9Fd7DzojTd1F4ylBSXHVl8XUwWfuCi9f97h4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjU4/MzQtMTQ0MTQ0ODE1/OS03NjExLmpwZWc.jpeg) | 2014-04-14 | Hellsodomy | Masochistic Molestation |
+| 35 | ![Cover](https://i.discogs.com/dDThIu2x0_DDpCHm_M0t-tcFpqvnCiVJ_uFGsbDOv-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTAw/ODMtMTQ2MTA2NTQ5/MS04Njc2LmpwZWc.jpeg) | 2015-04-23 | KARATAŞ | Dağlara Çıkacağım |
+| 44 |  |  | Bestial Strike | Legacy |
+| 47 | ![Cover](https://i.discogs.com/tmYczh0D0E0th51twlNofPhxdmIiWD6lwn92R2cfZ1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDk5/MjItMTQ0MTcyODM2/MC01Njk5LmpwZWc.jpeg) | 2015-08-28 | Hellsodomy | Sodomy is Nigh |
+| 48 |  |  | Farfara | Farfara |
+| 25 | ![Cover](https://i.discogs.com/3V-Sb-alihxU5SRC-EggCMSopXQ18_Gz6ya_PuxuoEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTkx/ODgtMTQ1MzIwODgw/MC0zMjQ1LnBuZw.jpeg) | 2016 | Suzy | Estos Y Munchos (2: Remix) |
+| 23 | ![Cover](https://i.discogs.com/YATZy5ltmqLGcmBBGsyN9whOkjiioapvfPtlgroy5VU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc3/MjM2LTE2NDM3MDQx/NTktNjYwMi5qcGVn.jpeg) | 2021-12-03 | Cihan Özdemir | AH BIR BILSEM MAXI SINGLE |
+| 21 |  | 2023-12-01 | Cazu | The Valse That Shall Never End |
+| 34 |  |  | Mercan Erzincan | Seyir |
+| 41 |  |  | Burhan Öçal &amp; Trakya All Stars featuring Smadj | Trakya Dance Party |
+| 54 | ![Cover](https://i.discogs.com/F_NRIBCiCsJm2Cjq2VXnJ1WAAvoKku_7HfjQ7M4AIhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTA5/NzEtMTQyMjY2NDM4/NC04MDY5LmpwZWc.jpeg) | 1997 | Şebnem Paker | Eurovisiong Contest 1997 Dublin |
+| 80 |  | 1998 | Zara | Avuntu |
+| 90 |  | 1999 | Omar Faruk Tekbilek | One Truth |
+| 89 | ![Cover](https://i.discogs.com/xgEV6M-bg3BfKUBYTYqRlWX0d3OqT8MkVRl2iN9K280/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDY2/MDUtMTI3NTgwNjUx/MS5qcGVn.jpeg) | 2002 | Yurdal Tokcan | Passion |
+| 56 | ![Cover](https://i.discogs.com/FdHYY18JH5D29mJNWbr8P4tHBYhMVV8W4pzzhG8JVpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjEz/MjI5LTE1NzgxODEy/NDgtODY0My5qcGVn.jpeg) | 2004-02-11 | Hakan Yesilyurt | Çökertme |
+| 72 | ![Cover](https://i.discogs.com/rcQdQ3joBMm21kTjWRUzCYRHEwj2p1jQw870NXxpJ_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzM0/NDItMTMwMDM5NDc3/NS5qcGVn.jpeg) | 2008-08-06 | Malefic Order | Raging Evil Desekration |
+| 69 |  | 2009-03-27 | Siddhartha | A Trip To Innerself |
+| 52 | ![Cover](https://i.discogs.com/8r29NHIqUTGaZ4jRB7lPLWVAKwRsVrnyAQeYK8EoWO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzQ3/OTctMTQxNTM3NDAz/MS04MDAyLmpwZWc.jpeg) | 2011-08-08 | Sirannon | Semper Caliga |
+| 57 |  |  | Mete Cantekin | Izmist |
+| 73 | ![Cover](https://i.discogs.com/29UOTV2V_qiKjBtZ8kw2OV5Q_RIYmd1H0HdwejGbvVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQ0/NjktMTYxNzUwNDQy/NS01NTUxLmpwZWc.jpeg) | 1990 | Kudsi &amp; Süleyman Erguner | Sufi Music of Turkey |
+| 77 |  | 2002 | Zara | Misafir |
+| 91 | ![Cover](https://i.discogs.com/Gonri7QBuGEN9AeojtAkdP59kv_JUB8ln_TocX-DPuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjQ5/NDMtMTYxNjAyNDU2/MS0zNjczLmpwZWc.jpeg) | 2007 | Noisy Sins of the Insect | Discography |
+| 97 | ![Cover](https://i.discogs.com/Gonri7QBuGEN9AeojtAkdP59kv_JUB8ln_TocX-DPuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjQ5/NDMtMTYxNjAyNDU2/MS0zNjczLmpwZWc.jpeg) | 2007 | Noisy Sins of the Insect | Discography CDr |
+| 95 | ![Cover](https://i.discogs.com/Gonri7QBuGEN9AeojtAkdP59kv_JUB8ln_TocX-DPuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjQ5/NDMtMTYxNjAyNDU2/MS0zNjczLmpwZWc.jpeg) | 2007-00-00 | Noisy Sins of the Insect | discography cdr |
+| 79 |  | 2008 | Zara | Bahar |
+| 84 | ![Cover](https://i.discogs.com/oEQdq2jUHwNfgl1qCmrlAfmRuassKJPqyhMSz9mMhhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjQ4/NzQtMTU0MzA3ODkx/My0xODU4LmpwZWc.jpeg) | 2008 | Ebru Yaşar | Seviyorum Seni |
+| 85 | ![Cover](https://i.discogs.com/YTGOdZDb8w-9WxSaHVaHmKZVni3b015uxjB2U6vwosU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTY0/MTEtMTczMDM5ODIx/MC0zMDUwLnBuZw.jpeg) | 2008-02-06 | Padma | Padma |
+| 100 | ![Cover](https://i.discogs.com/3aw44BNsqku4YfijwDRxGQ5vqc28Qztv85bPs5kETTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQx/MDUzLTE2NTQxMTUz/NDQtMzI4Mi5qcGVn.jpeg) | 2008-08-28 | Volbeat | Guitar Gangsters And Cadillac Blood (Danish Limited Edition) |
+| 81 |  | 2011-03-08 | KIRMIZI | İsyan |
+| 67 | ![Cover](https://i.discogs.com/XmhmXgEmL11tAlb1uJozHwY2P5aJvJbhsYKpPcrfwBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDkw/MzUtMTQyMTI1MjAx/NC03MzQzLmpwZWc.jpeg) | 2012 | SHOOM | Shoom |
+| 58 | ![Cover](https://i.discogs.com/s0zcAkwEmcsH5KA8YQuz8hu8tlpVPp_MXWgl68-HF38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ5/Mjg4LTE1OTAxMzQx/ODgtMTA4MS5qcGVn.jpeg) | 2012-07-13 | Uç Uç | The Constant Fear of Being Judged (By You) |
+| 55 | ![Cover](https://i.discogs.com/ydqApCwyw84QLuib8vuqKSzaj8qiQoPNRttkkrWV8Ks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzA5/NDUtMTQ1MDU5NjEx/NS0zNzQzLmpwZWc.jpeg) | 2013 | Ödland | Galaktoboureko |
+| 94 | ![Cover](https://i.discogs.com/VDiWrnGdC141fK3JL2ZZY9oAQBbxSumWMh_O-IHej5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzA5/MTIyLTE1ODAwNjcz/NzUtOTg3Ny5qcGVn.jpeg) | 2014 | Yaşru | Börübay |
+| 51 | ![Cover](https://i.discogs.com/eyNeDfAgY8UcwrVZUXdGxRf0Aq1hi_7bI73d9_kZ8dQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODgz/Nzc3LTE1MjQwNzIz/MzAtMzYwNC5qcGVn.jpeg) | 2017-12-27 | Cataclysmic | Death Begins |
+| 53 |  |  | Cow&#39;s Eye | Your Cows |
+| 99 |  | 2014-08-04 | Hadise | Tavsiye |
+| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6efe096297aa1ff0b1029b7a91dab0f1.png) | 2017-08-04 | Sena Şener | Teni Tenime |
+| 59 | ![Cover](https://i.discogs.com/S71wjVSXNJG0tUo5SNGmPoF5ZrqPFwUFkoGMtLEZ-2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzM3/MTA2LTE2MTI4OTE5/MzAtOTQzMS5qcGVn.jpeg) | 2020-03-06 | Apartmanlar | AŞKAŞKSEVGİSEVGİAŞKAŞK |
+| 61 | ![Cover](https://i.discogs.com/WKlyaFbNTza_KwXhtV_ab6kovhJcnxY6EHDIYLMiiok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzM4/OTA2LTE2MTI4OTg4/NTctMjkzMi5qcGVn.jpeg) | 2020-12-25 | Kana Kana | Düğüm |
+| 60 | ![Cover](https://i.discogs.com/z2Vo7dfa3GVIThmVvnN87jHWf7Z2GqFbbLrKYO_vclw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk5/NDEyLTE2MzU2OTcz/OTItMjU4MS5qcGVn.jpeg) | 2021-10-22 | YANGIN | Hepsi Bu Kadar Mı? |
+| 63 |  |  | hayaleTTren | Yalniz |
+| 64 |  |  | Ajda Pekkan | Cool Kadin 06 |
+| 65 |  |  | Niyazi Koyuncu | Muço Pa |
+| 92 | ![Cover](https://i.discogs.com/UVwbtIo1rCDnAcZnCGzF6l8g-nrCh3X40OcRsj804P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDE4/MjUwLTE2MDc2MjI4/NTUtNjI1Mi5qcGVn.jpeg) | 1986 | Zara | When the Rain Stops |
+| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1914ad847850d878b519843e91b86173.png) | 1991 | Barış Manço | Sözüm Meclisten Dışarı |
+| 96 |  | 2002-05-15 | Nil Karaibrahimgil | Nil Dunyasi |
+| 70 |  | 2003-08-06 | Loop Junktion | Turkey |
+| 98 | ![Cover](https://i.discogs.com/JVLm0Xm_Nwb5QBfx9rtfiaIXKMuChLt1Is72FW5U0EU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDQ4/Mi0xMzMzODc3MTU1/LmpwZWc.jpeg) | 2003-12 | Tarkan | Dudu |
+| 82 | ![Cover](https://i.discogs.com/SGyidCtdgkAX1mjZWFCSYnu90xQaDAbLzUbKe5gClKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjMz/OTQtMTMzNzc4ODEy/MC00NzI3LmpwZWc.jpeg) | 2007-02 | İbrahim Tatlıses | Bulamadım |
+| 74 | ![Cover](https://i.discogs.com/rXbVTcXFPyiqYRO5YDBbdJxsTwCJLN3Nf8J2riA_NWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDE4/MTctMTQyNjkzNzIw/NC02MzI4LmpwZWc.jpeg) | 2012-11-30 | Diabolizer | Shadows Of Impending Decimation |
+| 88 | ![Cover](https://i.discogs.com/AAgflokTg-WvIebIeoI-sWIlAeU6tzzMKkMLgSgHafs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgy/NTM2LTE1NTMxNjYy/OTgtMTkwOS5qcGVn.jpeg) | 2018-03-16 | Melis Güven | Hiç Olmuşsun |
+| 49 | ![Cover](https://i.discogs.com/Z78Qi1LBQrMKcKEEievuSE3vDh41nCZ5IasEffpR-bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzI0/MzY4LTE2Nzk4NzI1/MzktMTMzNy5wbmc.jpeg) | 2020 | Gargoyle | March of the heores |
+| 75 | ![Cover](https://i.discogs.com/C_NQdfY-Mul3JScaKCj3BEvgAFCPvtnpPvUGmYVuKn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTM4/NjM1LTE1OTMyNTU1/MTMtOTU0Mi5qcGVn.jpeg) | 2020-06-17 | Murat Övüç | Hazır Edin Kınaları |
+| 46 | ![Cover](https://i.discogs.com/aRjMKGiQnnHfCkat8vMiVxJV9suSTWfgEelyewQgcBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU3/MzM4LTE2NzAxMzc3/MDMtMzQ1NS5qcGVn.jpeg) | 2020-09-28 | Taurwen | A Wind Blows from the Mountain of Death |
+| 68 | ![Cover](https://i.discogs.com/3Xa0AiAfu1N18Madb6MS_YcEAvA5rFlejbj8amiqhWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDAy/MDk5LTE2Mjk5ODk5/MTEtNDk3Ni5qcGVn.jpeg) | 2021-02-19 | Kana Kana | Yalan Lisan |
+| 66 | ![Cover](https://i.discogs.com/XFTY0URMaYTHze1JnRCU4cN6tiURgwzZgXmyAERUhGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDkx/NjkwLTE2Mzc2NzA0/MjgtMTE3Ny5qcGVn.jpeg) | 2021-11-23 | FOX PROJECT | FOX HOUND PROJECT VOL.I |
+| 71 |  |  | Keskin Viraj | Platonik |
+| 76 | ![Cover](https://i.discogs.com/fyhpTg2K6FkAZb0yuJYYNvdx827q4HuiAYG9Mo32sBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDA1/NDE0LTE2MzAwMDcx/NjItMjM2MC5qcGVn.jpeg) | 2021-08-13 | Kana Kana | Güneşin Sesi |
+| 78 |  |  | In Revel of Seduce | In Revel of Seduce |
+| 93 | ![Cover](https://i.discogs.com/R2V8IH6wNjHgrbtKZZqNGknUEt9yiUV5bR8FdjVNnS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODU5/ODI1LTE2NDI5NTc0/MTctNDU4Mi5qcGVn.jpeg) | 2022-01-21 | Kana Kana | Ölüler Hariç |
+| 83 | ![Cover](https://i.discogs.com/_e9T8O2iBnH5KLb2dcb37Cectxgg-kTOnCwsuevddpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDA5/NzY0LTE2NzU2Nzc1/NzktNjMyMC5qcGVn.jpeg) | 2023 | Ata Demirer | Bursa Bülbülü (Orijinal Film Müzikleri) |
+| 87 | ![Cover](https://i.discogs.com/U-liyrTVvZI-4Cw0RuV4mDmZ6HjWkk1IYyr0ovRrTh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTIy/MzctMTI4MjcxOTI5/Ni5qcGVn.jpeg) | 2024 | Altan | Aynalar |
+
+### Related genres
+
+- [turkish]({{ "/tags/turkish" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [black metal]({{ "/tags/black-metal" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [folk]({{ "/tags/folk" | relative_url }})
+- [darkwave]({{ "/tags/darkwave" | relative_url }})
+- [synthpop]({{ "/tags/synthpop" | relative_url }})
+- [post-punk]({{ "/tags/post-punk" | relative_url }})
+- [world]({{ "/tags/world" | relative_url }})
+- [gothic rock]({{ "/tags/gothic-rock" | relative_url }})

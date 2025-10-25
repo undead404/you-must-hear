@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T16:49:33.351Z
+permalink: tags/goat
+title: goat
+---
+
+## goat
+
+Last updated: <time datetime="2025-10-22T16:49:33.351Z">Wed Oct 22 2025 19:49:33 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 4 | ![Cover](https://i.discogs.com/CdooLZ3e4ccymwyIX4dD4Ivz0uIxelA6f8JzSopPWzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTA1/NzI3LTE1NjM3NTY1/MDgtNTc4OC5qcGVn.jpeg) | 1985-10-21 | Madonna | Nothing Fails (The Remixes) |
+| 12 |  |  | Madonna | Live on air 1984 - 1995 (live) |
+| 32 |  |  | 放課後ティータイム | 放課後ティータイム II |
+| 44 | ![Cover](https://i.discogs.com/lzZkyerqTbirtHXyKnB35CZpqfdhnw8wvammKUhVUWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzg2/NTUtMTUxODM0MTgz/MS01NDEwLmpwZWc.jpeg) | 1986-03-10 | Madonna | Love Don&#39;t Live Here Anymore (Remixes) |
+| 5 | ![Cover](https://i.discogs.com/DsiHcNAWBq3oIkTt5PGC3q-E6vEqskLOgmKGC3dN6fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODk3/NDMtMTYwMzUyMjI0/My00MzUzLmpwZWc.jpeg) | 1987 | Madonna | Finally Enough Love: 50 Number Ones (2022 Remasters) |
+| 47 |  | 1990-01-30 | Madonna | Keep It Together |
+| 25 | ![Cover](https://i.discogs.com/_ysI7jGzVOR7xPh6Com3H93w0tvoRdw0Q4NkHRjqFRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzAw/MzgtMTQxMDc5MjMy/NC00NjQ3LmpwZWc.jpeg) | 1991 | Madonna | Gambler - Single |
+| 31 | ![Cover](https://i.discogs.com/Oiqa2LrUfKz-3LrkAoFHD3pGDkZ3iIZGboP8harQtIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTU3/OTUtMTUzMjU0MjAx/OC0yNTA4LmpwZWc.jpeg) | 1991 | Madonna | Music (remixes) |
+| 33 | ![Cover](https://i.discogs.com/CdooLZ3e4ccymwyIX4dD4Ivz0uIxelA6f8JzSopPWzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTA1/NzI3LTE1NjM3NTY1/MDgtNTc4OC5qcGVn.jpeg) | 1991 | Madonna | Miles Away - The Remixes |
+| 41 | ![Cover](https://i.discogs.com/4Pq-GnyyLv_gKbv3ZBTQIDgHOcLKxrV01porQwFQO7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzYw/MTA2LTE2MDk2Njky/ODktNzgxNS5qcGVn.jpeg) | 1991 | Madonna | I Rise (Remixes) |
+| 6 | ![Cover](https://i.discogs.com/f4UVlJrHypagFSTBMJAZBny66hiBS7sCQRFhaw6JOQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM0/MjU0LTE0OTczNTg5/MDYtNDg2NS5qcGVn.jpeg) | 1992 | Madonna | Sorry [DJ Version] (DMD Maxi) |
+| 23 | ![Cover](https://i.discogs.com/CdooLZ3e4ccymwyIX4dD4Ivz0uIxelA6f8JzSopPWzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTA1/NzI3LTE1NjM3NTY1/MDgtNTc4OC5qcGVn.jpeg) | 1992 | Madonna | The Power Of Good-Bye (Remixes) |
+| 30 | ![Cover](https://i.discogs.com/YKJG_xByoJ7BMhE44bytSVhR--UqtWQdN3Z-7NaLpho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTg1/NTktMTQzNDEyNjg5/OC02MzU5LmpwZWc.jpeg) | 1995 | Madonna | Give Me All Your Luvin&#39; (Remixes) |
+| 15 |  | 1998-07-14 | Big Bear | Doin Thangs |
+| 27 | ![Cover](https://i.discogs.com/qYeRLWRFs6ha2EgdKMEvviYBfbC6ffSfD7kBY2ymngw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODU0/NTEtMTQ0NTk1MjEx/MS00NDkwLmpwZWc.jpeg) | 2000-09-25 | Lewis Taylor | Lewis II |
+| 10 | ![Cover](https://i.discogs.com/fZV-0GsfXANi95r-O7D0tMMDmTwMr3IM0gmx_mjw--o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDEw/NTgxLTE1NjYwMzQy/MTgtMzIwOC5qcGVn.jpeg) | 2001 | Madonna | Crave (Remixes Pt. 2) |
+| 11 | ![Cover](https://i.discogs.com/rjoqGN0nx3VYXkNcVLlrWJmSzI8P6NMJdhT-P2PYqEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjMy/Mi0xNjA0MDYyNTc2/LTI3ODcuanBlZw.jpeg) | 2001 | Madonna | Who&#39;s That Girl (Original Motion Picture Soundtrack) |
+| 22 | ![Cover](https://i.discogs.com/7so_fYlVNj0zFB-lkKOaY8cWagutZguSEoA9cSrhSfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzc2/MzMtMTQwMjk5MTY2/Mi02NTU2LmpwZWc.jpeg) | 2001 | Madonna | Like a Virgin (2024 Remaster) |
+| 29 | ![Cover](https://i.discogs.com/Q-sWL9UL-dy-HFGT97baOsTGSBS54lcK5B13h6dlJdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDMy/MTctMTQyMzc5NzU0/MS0yODk5LmpwZWc.jpeg) | 2001 | Madonna | You&#39;ll See (The Remixes) |
+| 8 | ![Cover](https://i.discogs.com/Jl6ZbfQwDujf_yk3c7tnOb83W4G24L1VPEG51WsUfLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTYz/OS0xMjI0Njc0MjM5/LmpwZWc.jpeg) | 2002 | Lauryn Hill | M T V Unplugged 2.0 [Disc 1] |
+| 19 | ![Cover](https://i.discogs.com/ssttpLNTVE7naOK_AZDqHiLb0-5VtNfbdXrfuZ2GuNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzkw/MDI1LTE1MDQzNjQz/NTMtODAzOC5qcGVn.jpeg) | 2005 | Madonna | Deadpool &amp; Wolverine: Madonna&#39;s &quot;Like a Prayer&quot; - EP |
+| 48 | ![Cover](https://i.discogs.com/7RPN2VcZRiJRJeWx6M5-IOFIr2GmWk44fVkaa_aRGr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODc3/NTMzLTE1MTk0NTEy/NTMtNDM5OS5qcGVn.jpeg) | 2005 | Madonna | Deeper And Deeper (David&#39;s Radio Edit) [2022 Remaster] |
+| 45 |  | 2005-11-11 | Madonna | Confessions On A Dance Floor (Non-Stop Mix) |
+| 14 |  | 2006-08-25 | Marc Mac | It&#39;s Right To Be Civil |
+| 46 |  | 2007-01 | Madonna | The Confessions Tour (Int&#39;l Only DMD) |
+| 50 |  | 2007-05-16 | Madonna | Hey You |
+| 39 | ![Cover](https://i.discogs.com/DhEmndVbJTwX_tasdCDYm7A1qS052ZIw4PJ3JwxZdaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODUy/OTYtMTI2Njk1Nzkw/NC5qcGVn.jpeg) | 2008-03 | Eric Lau | New Territories |
+| 28 | ![Cover](https://i.discogs.com/CdooLZ3e4ccymwyIX4dD4Ivz0uIxelA6f8JzSopPWzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTA1/NzI3LTE1NjM3NTY1/MDgtNTc4OC5qcGVn.jpeg) | 2009 | Madonna | Give It 2 Me - The Remixes |
+| 34 |  | 2009 | Madonna | Music From The Motion Picture &quot;Evita&quot; |
+| 35 | ![Cover](https://i.discogs.com/DsiHcNAWBq3oIkTt5PGC3q-E6vEqskLOgmKGC3dN6fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODk3/NDMtMTYwMzUyMjI0/My00MzUzLmpwZWc.jpeg) | 2009 | Madonna | Drowned World &#x2F; Substitute For Love (Remixes) |
+| 37 | ![Cover](https://i.discogs.com/Us1vTJDl7SED3HWZLmOmhRR6Lfo237W04avWUaMG0h8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDYx/MjctMTU4ODg1MTQ4/OS0yOTY0LmpwZWc.jpeg) | 2009 | Madonna | Crave (Remixes Pt. 1) |
+| 49 | ![Cover](https://i.discogs.com/CdooLZ3e4ccymwyIX4dD4Ivz0uIxelA6f8JzSopPWzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTA1/NzI3LTE1NjM3NTY1/MDgtNTc4OC5qcGVn.jpeg) | 2009 | Madonna | American Life (The Remixes) |
+| 16 | ![Cover](https://i.discogs.com/rAwdTskVHnhY_7Ywk0dfDkLSbju9ZKPgupSZ455UQpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDEw/NzQtMTI5ODkxODgx/Mi5qcGVn.jpeg) | 2010 | Madonna | Love Profusion (The Remixes) |
+| 36 | ![Cover](https://i.discogs.com/CdooLZ3e4ccymwyIX4dD4Ivz0uIxelA6f8JzSopPWzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTA1/NzI3LTE1NjM3NTY1/MDgtNTc4OC5qcGVn.jpeg) | 2010 | Madonna | Don&#39;t Tell Me (The Remixes) |
+| 1 | ![Cover](https://i.discogs.com/Wtnledkw-001_ZtIoW4sQp4KHRLMkeSEGjSXOUwB118/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzM0/MTgtMTM5MDc1MDgy/Ni04OTY4LmpwZWc.jpeg) | 2012-06-20 | Madonna | Angel - EP |
+| 13 | ![Cover](https://i.discogs.com/4XyZhiocdhZ7XZ2c6_dfhFiAWdODH-uO4Ldqy8_a6pQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTg1/OTUtMTM2MTYyMzQ4/OS05NTY3LmpwZWc.jpeg) | 2012-06-20 | Madonna | Tokyo 1987 |
+| 42 | ![Cover](https://i.discogs.com/PEq5O9UxV7_BAsquXi12Hl-kUYlIVgMw1VVahII6_V4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTg4/NzgtMTUwNzM1MzUz/OS00MTMzLmpwZWc.jpeg) | 2012-06-20 | Madonna | Sorry (DJ Version) |
+| 2 | ![Cover](https://i.discogs.com/KvDKmzxvuvW0FN7Hk44etVBtvvITBg99gtKPtc0J0ag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDk0/NzItMTQyNzkyNjA4/OS00NjQ1LmpwZWc.jpeg) | 2015-04-01 | Sicko Mobb | Super Saiyan Vol. 2 |
+| 38 | ![Cover](https://i.discogs.com/FU9zzKlGGrJMQaYCauF5_b7bqUnMGz6aN1RJq1iSVtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDE5/MTc4LTE1OTEyMzQ5/MDMtMjY2MS5qcGVn.jpeg) | 2017-04-14 | Kendrick Lamar | DAMN. |
+| 18 | ![Cover](https://i.discogs.com/28ZdkxNdpajQ4GHA93oqm-faxO6ewwd8IuuHj0u0H-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODA5/OTA0LTE2Mjg1ODg4/MjgtNzI4MS5qcGVn.jpeg) | 2019-06-14 | Madonna | MDNA (Nightlife Edition) |
+| 3 | ![Cover](https://i.discogs.com/qiw76Fw99MkLJ2MBn0LU1JSp3V64dE1gSyWfVX0J-Bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTI3/NjE4LTE2MTc0MDUz/ODQtNjkzOC5qcGVn.jpeg) | 2020-08-07 | Juice WRLD | Girl With The Blonde Hair |
+| 43 | ![Cover](https://i.discogs.com/_zpwbiSDj6ciAXzPr5mwTT_p3zsTsWdzgJYVCLFnJGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTMy/NjIwLTE2OTIxODkz/OTYtNjEyMy5qcGVn.jpeg) | 2020-12-24 | Shawny Binladen | Merry Wickmas (Deluxe) |
+| 17 | ![Cover](https://i.discogs.com/j9EPhhhbF9AMO3vmFe7gPCZ2MPPD2ZtftJEAjUSCLr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTky/NDUzLTE3MzQ0NTY2/MzQtMzgzMy5wbmc.jpeg) | 2021-09-01 | SoFaygo | Unreleased &amp; Loose Tracks |
+| 7 | ![Cover](https://i.discogs.com/F1UeSclhK0yDusvYf0J8GjevkrnIDgAtekF_L9-ozFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA1/NDc5LTE2ODc2MjU3/OTQtMzIzNC5qcGVn.jpeg) | 2022-08-05 | Madonna &amp; Saucy Santana | MATERIAL GWORRLLLLLLLL! - Single |
+| 9 |  |  | Ken Car$on | x |
+| 24 | ![Cover](https://i.discogs.com/ljLkKrLtkLGeGw6QvhQqhLRfGRni1K7H2PGniXb4kqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjg3/NDQyLTE2NTMwMjEx/MzctOTU1OC5qcGVn.jpeg) | 2022-05-19 | Madonna &amp; Sickick | Frozen - Single |
+| 21 | ![Cover](https://i.discogs.com/cORKMk_wIO9MnR87t93xYEKnBKJLFFMthnjIxbtdbQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE1/NTE0LTE2NzQ4NDA0/ODYtNTE2NC5qcGVn.jpeg) | 2022-08-06 | Beyoncé &amp; Madonna | BREAK MY SOUL (THE QUEENS REMIX) |
+| 20 | ![Cover](https://i.discogs.com/lDlZsuZwzDyzAfhf1y8E5dj-xbTBgYa5gyuuGXeQbYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTM3/MDUzLTE2NjM0Mjc1/NjYtODUwNS5qcGVn.jpeg) | 2022-09-16 | Madonna &amp; Tokischa | Hung Up on Tokischa - Single |
+| 26 | ![Cover](https://i.discogs.com/p_jPB2dw5uTL3svkpc76WRavTSo0TGqAGLb_wvQrnnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODE2/NTgwLTE3MjcxOTI2/NzQtNzg1NC5qcGVn.jpeg) | 2024-03-11 | AdriAnne Lenker | i won’t let go of your hand |
+| 40 |  |  | Dj Piekarz | Welcome To Piekarnia |
+| 51 |  |  | Jeremy Fragrance | How to Fragrance |
+| 56 | ![Cover](https://i.discogs.com/McEiDEowI2mpkolwtVl5EU1A_WYRkzhUrpsFksIeJSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQx/NDk2LTE1NzI4NTQy/OTctNjI4Ny5qcGVn.jpeg) | 1972 | Ella Fitzgerald | Miss Ella&#39;s Playhouse |
+| 57 | ![Cover](https://i.discogs.com/VF-SIusOeEj4VeX00wQJjRJa8mtyRZ1UGECSSky7EWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzM1/NDUtMTQ2NTU3NDk4/NC0yMjk2LmpwZWc.jpeg) | 1984-05-25 | Madonna | I Don’t Search I Find (Remixes) |
+| 66 | ![Cover](https://i.discogs.com/523MHUKgDEXhUPmmx9VXk76CAmeXSkDuo6JOstsMIug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTc1/OTQtMTMzMzgxODk4/MS5qcGVn.jpeg) | 1984-08-25 | Madonna | Lucky Star (Remixes) |
+| 96 | ![Cover](https://i.discogs.com/KJ89lUD46Gc5QxuGVMyHiddsLRE3XiC70cup4UzhE1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI4/NzgtMTI5NzYyMzcx/MC5qcGVn.jpeg) | 1985-03-10 | Madonna | Material Girl (2024 Remaster) |
+| 59 | ![Cover](https://i.discogs.com/S_5rpx-uWFfL80zW3-czCSzurXNZx4uzuN2GsE9uCag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTE3/MC0xNTg2NzcyMzM5/LTQwMzMuanBlZw.jpeg) | 1987 | Madonna | Evita (Music from the Motion Picture) |
+| 87 | ![Cover](https://i.discogs.com/DtbrdE7zio4hA6YssQUjVCPxwYavcu7_wh3J54LpUmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzY5/NDctMTI0NjgwMjMy/MS5qcGVn.jpeg) | 1989-05-09 | Madonna | Express Yourself |
+| 68 |  | 1989-09-04 | Madonna | Cherish |
+| 64 | ![Cover](https://i.discogs.com/bkE4XZ_uQCrUBcfDM5NjmRdq2Rc7CJBHyNOOOCqPDck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzc3/OC0xNjE2NzU0MDU1/LTQ5MTcuanBlZw.jpeg) | 1991 | Madonna | Hollywood (Remixes) |
+| 88 | ![Cover](https://i.discogs.com/JdszE7-ml6nJ7ha3gA8FR_5arXMYG1DurCLeo8etbG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjc0/OTktMTM3NjA3MzA2/OC00Nzk4LmpwZWc.jpeg) | 1991 | Madonna | Hung Up on Tokischa |
+| 93 | ![Cover](https://i.discogs.com/_ysI7jGzVOR7xPh6Com3H93w0tvoRdw0Q4NkHRjqFRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzAw/MzgtMTQxMDc5MjMy/NC00NjQ3LmpwZWc.jpeg) | 1991 | Madonna | Madonna (reissue) |
+| 73 | ![Cover](https://i.discogs.com/CdooLZ3e4ccymwyIX4dD4Ivz0uIxelA6f8JzSopPWzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTA1/NzI3LTE1NjM3NTY1/MDgtNTc4OC5qcGVn.jpeg) | 1993 | Madonna | Justify My Love (Remixes) |
+| 81 | ![Cover](https://i.discogs.com/7EZmAr5HwN5AwA0jc6z48qjRhaycwIBbbiMExNrF-Fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYw/OTYzLTE1MDQ0ODgz/ODktMTU2MS5qcGVn.jpeg) | 1993 | Madonna | Burning Up &#x2F; Physical Attraction |
+| 53 | ![Cover](https://i.discogs.com/6D0iGkCPIn0wHxKCFB143eHlKLxEKbr-fjrTbAkOt1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjY4/NTQtMTQyNjE4OTIw/MS03MTQ0LmpwZWc.jpeg) | 1995 | Madonna | Celebration (Bonus Track Version) |
+| 60 | ![Cover](https://i.discogs.com/s_Ca5vg9RHP4BVkFHYWUmdeputmBCjOPSO9E__2f9k4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzAz/NzktMTI0NTYwNDg2/MC5qcGVn.jpeg) | 1995 | Madonna | You Can Dance (Single Edits) |
+| 84 | ![Cover](https://i.discogs.com/6pIBeTgVdFmy2uTkTSw14yNzxVHqiTau_Ib7BWzS-pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzk3/MjktMTM4NjAwMTc0/OC00MTgzLmpwZWc.jpeg) | 1996-07-19 | The Roots | Home Grown! The Beginner&#39;s Guide To Understanding The Roots Volume 1 |
+| 69 | ![Cover](https://i.discogs.com/h39sLGW8k0013qAQT_XGyrUSRSTNgzdUao6dSJ5kYa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDk4/NC0xMTYwNDA3MTg1/LmpwZWc.jpeg) | 1997-04-22 | Marvin Gaye | Vulnerable |
+| 52 | ![Cover](https://i.discogs.com/VF-SIusOeEj4VeX00wQJjRJa8mtyRZ1UGECSSky7EWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzM1/NDUtMTQ2NTU3NDk4/NC0yMjk2LmpwZWc.jpeg) | 2001 | Madonna | Bitch i&#39;m Madonna (The Remixes) |
+| 76 | ![Cover](https://i.discogs.com/iZ98EEIz6qlBpxBBgSyEX8CIgC_82kO9l7OgxyfNbwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc3/MzMyLTE1NDU3Mzc5/NTgtNzYwMS5qcGVn.jpeg) | 2001 | Madonna | Rebel Heart Tour (Live) |
+| 77 | ![Cover](https://i.discogs.com/c72FvYP5aaOMn3vCL7-vsMwA0mrJ9bRSjScFfDLKaiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU0/ODY1LTE1NDUyNTQy/ODItNTczOC5qcGVn.jpeg) | 2001 | Madonna | MATERIAL GWORRLLLLLLLL! |
+| 99 | ![Cover](https://i.discogs.com/IXNy_0aLJlvY2wb-NLLrw0LPg3kuK6GeiREMjs4G_Cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzYy/MTI0LTE1NjA1NjU5/MzQtMTcxOC5qcGVn.jpeg) | 2001 | Madonna | Back That Up To The Beat |
+| 63 |  | 2003-02-06 | GO!GO!7188 | 鬣 |
+| 91 | ![Cover](https://i.discogs.com/xlSDks92RehM2aBBK-A-s6SVMlDC2xdRTZUcu0B71-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTMw/ODYtMTY3ODk4OTAx/My00MTc0LmpwZWc.jpeg) | 2005 | Shakira | Fijación Oral Volumen 1 |
+| 83 | ![Cover](https://i.discogs.com/i8KS-USLAazdD-vM2wTqsCQ_PQa4V1ZFk0GNv6h-xKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDcx/OC0xNjc2ODAwNTk5/LTgxNDMuanBlZw.jpeg) | 2005-11-15 | The Roots | Home Grown! The Beginners Guide To Understanding The Roots Volume 1 |
+| 80 | ![Cover](https://i.discogs.com/aAUpj3gUmR4qoM-lZNy68t7vHjggioiwAe6iBJW1wLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODgw/NzAtMTUyODgzNDk5/OS03NjEwLmpwZWc.jpeg) | 2007-01 | Madonna | Evita: The Complete Motion Picture Music Soundtrack |
+| 82 | ![Cover](https://i.discogs.com/PErr1BEQ9U-MwSkMLdu2WXlfKyi6aG7go4_mIjYLY5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTUy/ODAtMTIyMzk5NTIx/Ni5qcGVn.jpeg) | 2007-10 | Fulcrum | My Way Out |
+| 100 | ![Cover](https://i.discogs.com/Sri3wrgQG-G4FcllK1f-VR0Y35aV-k7VKiLjTxrmy1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDY5/MzAtMTI2MDY1ODYw/Ni5naWY.jpeg) | 2008-01-23 | Sulli | Goblin |
+| 58 | ![Cover](https://i.discogs.com/AOenbdA5fIJh_dDrwT4V5A_Q1qJcemiMq9hkNPmuBk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDIz/MzE1LTE2NDY2Nzcz/NDQtNzc3Ny5qcGVn.jpeg) | 2009 | Madonna | Back That Up To The Beat - Single |
+| 65 | ![Cover](https://i.discogs.com/YKJG_xByoJ7BMhE44bytSVhR--UqtWQdN3Z-7NaLpho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTg1/NTktMTQzNDEyNjg5/OC02MzU5LmpwZWc.jpeg) | 2009 | Madonna | Ray of Light (Single Remixes) |
+| 72 | ![Cover](https://i.discogs.com/SHI6RmU7GvQd5HHGUhBxA9uhC9_vTD9I54hM494s4RU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTIz/MjAtMTQ5MDY2NzI1/MC0zMTA5LmpwZWc.jpeg) | 2009 | Madonna | Finally Enough Love: 50 Number Ones |
+| 75 | ![Cover](https://i.discogs.com/EcdQR_0NZdKbHZK-xHg5YmWtAerUg5GhjiEcZVKKt0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTM0/MjAtMTQxOTk5OTg2/Mi00NTA3LmpwZWc.jpeg) | 2009 | Madonna | Like A Prayer (30th Anniversary) |
+| 71 | ![Cover](https://i.discogs.com/ljCgWoBxkxflrExELV3YZ16j1z6_749pmgdwjszaJts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTA2/MzgtMTQzMzgyNjM2/OC01MDgyLmpwZWc.jpeg) | 2009-11-10 | Georgia Anne Muldrow | Early |
+| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/88b646daa5e6626399ccd002ba67e50d.png) | 2010-10-25 | Taylor Swift | Speak Now (Deluxe Edition) |
+| 98 |  | 2012-03-09 | Santigold | Disparate Youth |
+| 67 | ![Cover](https://i.discogs.com/P09J0Jcuk7NU6mS1R0ZUZrJiKRa_NwRjlNiyX4Y4mDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzU3/OTAtMTQyNTU4MzI3/NS03NTMzLmpwZWc.jpeg) | 2015-03-06 | Madonna | Rebel Heart (Super Deluxe) |
+| 74 | ![Cover](https://i.discogs.com/qTXeAxeIhuwg8tJbUSpcUsSY0GeJTiv3okULyvrESG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjY1/MzgtMTQ4NzYxOTgx/NC0zMDkwLmpwZWc.jpeg) | 2015-03-06 | Madonna | True Blue (35th Anniversary Edition) |
+| 70 | ![Cover](https://i.discogs.com/Q-sWL9UL-dy-HFGT97baOsTGSBS54lcK5B13h6dlJdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDMy/MTctMTQyMzc5NzU0/MS0yODk5LmpwZWc.jpeg) | 2015-03-18 | Madonna | Nothing Really Matters (Remixes) |
+| 55 | ![Cover](https://i.discogs.com/wkuRm_PRgmxfSNfJ9ynEISxEj5EKga5VLtOLczQt0iQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTc1/MDgtMTQ2NzI0MzQy/My00NDY3LmpwZWc.jpeg) | 2016-12 | Pain of Salvation | Remedy Lane Re:mixed |
+| 86 | ![Cover](https://i.discogs.com/JC3lAqfpp0seO6j_mrgNX4ZD_NZw3ohB5ZkMZ0Voyc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzcy/NzI5LTE2NjEyNjQz/MzctMzEwNC5qcGVn.jpeg) | 2017-06-09 | LIL PUMP | flex like ouu |
+| 90 | ![Cover](https://i.discogs.com/BjP6LxRy5qgLiUVBWG7YgUaSkughNEqkKwXsFza-Hz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTcy/MjQ5LTE1MTExOTE5/MDEtODEyOS5qcGVn.jpeg) | 2017-11-10 | LIL PUMP | Gucci Gang |
+| 78 | ![Cover](https://i.discogs.com/t5-Bx3p6yZLzyPeIE70dNFsSB9rMxpxuodJFo4Sl7wQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzE5/OTQ0LTE1MjE2NTQx/NDAtMzc5NS5wbmc.jpeg) | 2018-03 | Kevin Penkin | Florence (Original Soundtrack) |
+| 61 | ![Cover](https://i.discogs.com/ZhUGYthOPrVYwGrcxnjqkTjwoCcl8qKSFkGdL1jZcf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM0/MjE3LTE2MDU3MTg2/MDgtNTkyOC5qcGVn.jpeg) | 2020 | Afourteen | AUDIBLE HEROIN |
+| 85 | ![Cover](https://i.discogs.com/LmOav_O-TQaFYWV01Qq82GlNh5IXFBhcoYg_pYvylbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzIx/MzkwLTE1OTY1NjM1/NzMtNjAyMy5qcGVn.jpeg) | 2020 | Raffa Moreira | Beleza Exótica |
+| 92 | ![Cover](https://i.discogs.com/5v8f-KLCScQsMgeOOhUlRCcrmZnVOXeWnx9KAgXL5cM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI0/MTY4LTE2Mjk4NjQ4/NTYtMzY4NS5wbmc.jpeg) | 2021-08 | xaviersobased | install |
+| 95 | ![Cover](https://i.discogs.com/wrWrXDOS40hrkaMj--MfkN9LzCjEcpVHnmm6u4seejQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzQ5/MzQ1LTE2Mzk2OTE1/NjAtNTQ1Ny5qcGVn.jpeg) | 2021-11-12 | D. Savage | BPL |
+| 94 | ![Cover](https://i.discogs.com/cGwcCZstXYU7UBMLQlEAhh1RZJWiIxpkLQtlsXG9rXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzUy/MzU0LTE2NjUxNzMz/NTYtNjI0Mi5wbmc.jpeg) | 2022 | YoungBoy Never Broke Again | Realer 2 |
+| 62 | ![Cover](https://i.discogs.com/cORKMk_wIO9MnR87t93xYEKnBKJLFFMthnjIxbtdbQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE1/NTE0LTE2NzQ4NDA0/ODYtNTE2NC5qcGVn.jpeg) | 2022-08-06 | Beyoncé &amp; Madonna | BREAK MY SOUL (THE QUEENS REMIX) - Single |
+| 89 | ![Cover](https://i.discogs.com/kEHZZ4DgOEsMm0vZWLucD6Y-JMNBP_0ZKJIkIvnK7c0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjUy/Njg1LTE2NjQzMzQx/MzctNzg4MC5qcGVn.jpeg) | 2022-10-05 | JPEGMAFIA | don&#39;t rely on other men |
+| 97 |  | 2023 | The Weeknd | Starboy (Deluxe) |
+| 79 | ![Cover](https://i.discogs.com/PT4mw6EpNsVKuZIlHL387bjrwIZohyQXo7Q6BGzRlnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODE3/MTQ3LTE3MjcxOTYy/NTgtMTA0MS5qcGVn.jpeg) | 2024-08-23 | Lucy Bedroque | SISTERHOOD |
+
+### Related genres
+
+- [mother]({{ "/tags/mother" | relative_url }})
+- [remixes]({{ "/tags/remixes" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [rap]({{ "/tags/rap" | relative_url }})
+- [hip-hop]({{ "/tags/hip-hop" | relative_url }})
+- [trap]({{ "/tags/trap" | relative_url }})
+- [musical]({{ "/tags/musical" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})

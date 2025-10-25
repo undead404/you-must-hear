@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T17:22:11.267Z
+permalink: tags/england
+title: england
+---
+
+## england
+
+Last updated: <time datetime="2025-10-22T17:22:11.267Z">Wed Oct 22 2025 20:22:11 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 31 | ![Cover](https://i.discogs.com/6ApsMJJn8cpQSqkWVV3-AiWM8b3vz1ENAxqnALhlrzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTc1/NjAtMTYxMzY5ODA4/Mi04NzI3LmpwZWc.jpeg) | 1954-10 | Billie Anthony | UK - 1954 - Top 50 |
+| 98 |  | 1966 | Dusty Springfield | You Don&#39;t Have To Say You Love Me |
+| 2 | ![Cover](https://i.discogs.com/Zz0hHJvdXnuhZdWZCLpDgt_WnS-xWuavHjz0wqzYk3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MjQx/NTgtMTQwNjQ2NTMw/Ny01NjU0LmpwZWc.jpeg) | 1969 | Benjamin Britten | BRITTEN: The Young Person&#39;s Guide to the Orchestra &#x2F; Variations on a Theme of Frank Bridge |
+| 13 |  | 1969 | Pentangle | Light Flight |
+| 89 | ![Cover](https://i.discogs.com/Ck-F9rbOUZJMZMxkxNmwW3vmQMItSPbgXeZsLSVG_js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDM3/MDI1LTE2MDU2NTMz/NjUtNjE5OC5qcGVn.jpeg) | 1970 | The Beatles | Sgt. Pepper&#39;s Lonely Hearts Club Band [2009 Stereo Remaster] |
+| 18 | ![Cover](https://i.discogs.com/l2HycqLpbY7hDZAZIf08V_MlR6-mfVzakZWY3KcXl3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTIw/NTYtMTU4NDY5MDA0/OC0zNjY4LmpwZWc.jpeg) | 1973 | Badger | One Live Badger |
+| 23 | ![Cover](https://i.discogs.com/6m7bw5ww5P7voCgAuJ1a1ZoTNmxcvu-mdW9kN6jv98I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjI1/ODAtMTQ5OTE5MjQw/My00MDc0LmpwZWc.jpeg) | 1973 | Fusion Orchestra | Skeleton In Armour |
+| 37 |  | 1974-02-14 | Roy Harper | Valentine |
+| 43 | ![Cover](https://i.discogs.com/pFP5T3ly7JnXfVTte3Ys-pxx0uv_6DGkllzsLJThF-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzgx/MjAtMTIzNjM0NDMw/NS5qcGVn.jpeg) | 1976-03 | Maddy Prior &amp; June Tabor | Silly Sisters |
+| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/79c76169f38306a56502024b724cf6e6.png) | 1978 | The Motors | Approved By The Motors |
+| 71 | ![Cover](https://i.discogs.com/eLfK4gHTqZ5TwFWZlpuN1eaCd1zB4wIN05Ao6g4ocTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk2/NzktMTU0Njc5Mjk3/Mi0zNzM0LmpwZWc.jpeg) | 1978-08 | Rich Kids | Ghosts of Princes in Towers |
+| 58 |  | 1979 | Judie Tzuke | Welcome To The Cruise |
+| 10 |  | 1980 | Hollywood Brats | Hollywood Brats |
+| 27 | ![Cover](https://i.discogs.com/431so3CIRHQLwH1bGk0dXaSGefPVsczsnXFbMCj_Vsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDAw/NDYtMTI0MDMwODcz/MS5naWY.jpeg) | 1985-10-01 | Depeche Mode | The Songs Of Martin L. Gore |
+| 9 | ![Cover](https://i.discogs.com/OJqqzQDwEf9RQUWd2CEcTwfxiSrZ-WiXBE5WusQQyr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODY3/NjEtMTQyNjMyNzI2/OS0zNzY1LmpwZWc.jpeg) | 1986-02-17 | Kate Bush | Aerial - A Sea Of Honey |
+| 29 | ![Cover](https://i.discogs.com/zkzRkBbfq1PVLiKNCsExBvNzKgw2DMI2EOOfTIZud-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQ3/NjctMTI1MDczNTI0/MS5qcGVn.jpeg) | 1986-04-21 | T. Rex | Left Hand Luke |
+| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d46708fc43544eb592248dd76c8be80e.png) | 1986-09-29 | The Fall | Bend Sinister |
+| 5 | ![Cover](https://i.discogs.com/RgxQYMJErRZt6ZF7Yfiw2wC_uA9CJDMOSseMNOu0b78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTU1/NTItMTM5Mzc5NDkw/Ny01NDA4LmpwZWc.jpeg) | 1987 | The Jam | Direction Reaction Creation (2 of 5) |
+| 60 | ![Cover](https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg) | 1987 | Various Artists | Earth Vol. 7 |
+| 49 | ![Cover](https://i.discogs.com/13T2Vd7ZVmfNRoGQrR6OzC0MQ-ZbNFm-Kx6N973R2Bs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTk0/MS0xNDgwMTM5MjU2/LTI3MDguanBlZw.jpeg) | 1988 | The Stranglers | All Live And All Of The Night |
+| 57 |  | 1988-01 | Sting | Englishman in New York |
+| 24 | ![Cover](https://i.discogs.com/y04_jtzQHMQmhsK5OnVuoDp0opFBcRceEVq5kPYDX70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE4/NDYtMTIwMDM1OTc4/Mi5qcGVn.jpeg) | 1989 | Shelleyan Orphan | Century Flower |
+| 86 | ![Cover](https://i.discogs.com/66taWuucRR3e8OZ4eZeyD0wa4mwQK4TfnP-lo1wiCfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTc2/Ni0xNTA0MTMyNzM0/LTEwNzguanBlZw.jpeg) | 1989-02-11 | Morrissey | The Last of the Famous International Playboys |
+| 6 |  | 1990 | The Clash | Return to Brixton |
+| 42 | ![Cover](https://i.discogs.com/EaMrQgURQnoHkOt_FijGOAfBeqMmGgwMWhdftIgMY1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTQ0/Mi0xNjUzMTE2NTMz/LTI2MTUuanBlZw.jpeg) | 1990-02-12 | The Blue Aeroplanes | Swagger |
+| 53 |  | 1993 | Th&#39; Faith Healers | Imaginary Friend |
+| 91 |  | 1993-02-15 | Pulp | Razzmatazz |
+| 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a7d1645999984c73becc80741a15e2ed.png) | 1993-10-07 | Tindersticks | Tindersticks |
+| 12 | ![Cover](https://i.discogs.com/0BWMfdHJgrmlzHKxq9UvmXsyGjc8KUcAmCqwu6L98dQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODIw/NDUtMTI2OTA5NjM4/OS5qcGVn.jpeg) | 1995 | The Melons | Strictly Melonhead EP |
+| 22 |  | 1995-03-06 | Pop Will Eat Itself | Two Fingers My Friends! |
+| 77 | ![Cover](https://i.discogs.com/UKmfHaaGQ4Ng2GkSwln_EVxqpGxJKK_x0hmTuhoR6fY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjU3/My0xMTU1NDkwMzE2/LmpwZWc.jpeg) | 1995-05-31 | UB40 | The Very Best Of 1980 - 2000 |
+| 51 | ![Cover](https://i.discogs.com/qJclgyDJdFHeoOabmb3jd5aIVBvoYE2s8lEUeHwWVdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTU0/NS0xMzkxOTMxOTc5/LTQxMTUuanBlZw.jpeg) | 1995-07 | Cornershop | Woman&#39;s Gotta Have It |
+| 25 |  | 1996 | Mark Morrison | Horny |
+| 69 | ![Cover](https://i.discogs.com/d8Q7zM9k4fkoSo5mxmDTXc0QFW1p3zs6yWAcAwP4q_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTEy/NzktMTQ1NDQ0MjA0/OS01NDM4LmpwZWc.jpeg) | 1996 | The Adicts | The Very Best of the Adicts |
+| 33 |  | 1996-04-22 | Sleeper | Sale Of The Century |
+| 32 | ![Cover](https://i.discogs.com/TWDf3bXupUmsWpL1YgFDAuTxBX2nPygdJxq8vOX6PFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Mjgt/MTM1NTc0MDYwMS0x/NzM5LmpwZWc.jpeg) | 1997 | Artemis | Elysian Fields &#x2F; Desideradi |
+| 54 | ![Cover](https://i.discogs.com/lHgf7Ib5JNnLPdqJPCs1TI-HJwQNLd6-vHp53KGAknI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzQx/MTItMTM5NTk1MTA3/MC04NjE5LmpwZWc.jpeg) | 1997 | Choir of King&#39;s College, Cambridge | Christmas At King&#39;s |
+| 66 | ![Cover](https://i.discogs.com/YlprgZmfCzFOyb60NorkM1RLjmrhGBEHzl75W5CapS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIy/MDIzLTE0OTIyODk1/NjMtODQ3Ny5qcGVn.jpeg) | 1997 | Depeche Mode | The Best Of, Vol. 1 |
+| 48 |  | 1997-01-27 | The Stranglers | Written In Red |
+| 47 | ![Cover](https://i.discogs.com/CIaHBSdZdxnLmNVHp806I1THN8TECavgy55vWJ0LPDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTM0/NjUtMTI1NDcyNTEy/My5qcGVn.jpeg) | 1998 | The Black Dog | Babylon |
+| 95 | ![Cover](https://i.discogs.com/nhrBUb5psa0c0CR5OQmoq36qT-8-1TaO5vp6R2DY_J8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE1/MzMtMTMyNzY5MDM5/OS5qcGVn.jpeg) | 1998-07-28 | Consumed | Breakfast At Pappa&#39;s |
+| 14 | ![Cover](https://i.discogs.com/DyLcgRCZ3nQuKFq_scrzz_JFBv-8qMzNkGQofAxd8w0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc1/NC0xMjM1NzI5MDU4/LmpwZWc.jpeg) | 1999-04-27 | Prolapse | Ghosts Of Dead Aeroplanes |
+| 78 |  | 1999-11-02 | Consumed | Hit For Six |
+| 84 |  | 2000 | The Rolling Stones | Classic Hits |
+| 30 |  | 2000-06-26 | Daphne &amp; Celeste | We Didn&#39;t Say That! |
+| 67 | ![Cover](https://i.discogs.com/ifnlrlPhWoPYnXzbFmrPqkZzhKC031zMfl8dgJPd-Co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDUz/MS0xNDQ0NzQ0NDE0/LTg1ODUuanBlZw.jpeg) | 2002 | Peter Gabriel | Shaking The Tree: 16 Golden Greats |
+| 73 | ![Cover](https://i.discogs.com/J5EHztGck4hSEJMAuNV9htjmK4FTsMkhqwn7mJRKqUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTYx/Ni0xMjIwMDQzNDQy/LmpwZWc.jpeg) | 2002-10-25 | Air Formation | Ends In Light |
+| 75 | ![Cover](https://i.discogs.com/HvV_Qo8CZWU7phQsF_5EXi-D7_BaX37HCWtM08eMuh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDI3/Mi0wMDEuanBn.jpeg) | 2003-10 | Goldfrapp | Twist |
+| 4 | ![Cover](https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg) | 2004 | Various Artists | Electric Ballroom Presents Full Tilt |
+| 8 | ![Cover](https://i.discogs.com/CV3fBxBkRW4u02el1jniVUXqkr0HtsFfaSsU6-52SPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTg5/Mi0xMTM5NjM0MjQ5/LmpwZWc.jpeg) | 2004 | LTJ Bukem | Some Blue Notes Of Drum N Bass |
+| 19 |  | 2004-04 | Bitstream | One Third Standard Lux |
+| 16 |  | 2004-06-07 | LTJ Bukem | Some Blue Notes Of Drum&#39;n&#39;Bass |
+| 59 | ![Cover](https://i.discogs.com/5iWlFsGOVJFMwhuN0-4tFJazdoChrljUa5MaVre6TJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDM3/OC0xMTQ2OTQyMTc0/LmpwZWc.jpeg) | 2004-09-21 | Monster Movie | To the Moon |
+| 41 | ![Cover](https://i.discogs.com/KP3vGGSI6M7H8vFJjB08LD7QawLWa4xSKtLh_xCXo8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjU0/OTQ4LTE2MTI0NTcw/MzktNzgxNi5wbmc.jpeg) | 2005 | Stone From Delphi | All Else Can Wait |
+| 39 | ![Cover](https://i.discogs.com/elx6D5iW2h7gNez-3sKSXx65ULORlR-6Mb5x0ueB2w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjEz/My0xMTMxODEyMTE0/LmpwZWc.jpeg) | 2005-03-21 | Cities of Foam | A Great Day For The Race |
+| 56 |  | 2005-07-25 | Soft Cell | The Bedsit Tapes |
+| 44 | ![Cover](https://i.discogs.com/HpQpllNeDqQGfLGYgAOkPVvyNt2uhGpNS_CF4PyMiMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjg1/NTMtMTMwMjg4Mjc5/NS5qcGVn.jpeg) | 2005-09-26 | David Ford | State Of The Union |
+| 79 | ![Cover](https://i.discogs.com/P4D8RTFiGnc1kzEJy3MDzWn5g3ofgtbU3ntg7L0DRvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcz/MjUtMTIwOTE1Mzg0/Ny5qcGVn.jpeg) | 2006 | Towers Of London | Blood Sweat And Towers |
+| 81 | ![Cover](https://i.discogs.com/P4D8RTFiGnc1kzEJy3MDzWn5g3ofgtbU3ntg7L0DRvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcz/MjUtMTIwOTE1Mzg0/Ny5qcGVn.jpeg) | 2006 | Towers Of London | Blood, Sweat &amp; Towers |
+| 83 | ![Cover](https://i.discogs.com/P4D8RTFiGnc1kzEJy3MDzWn5g3ofgtbU3ntg7L0DRvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcz/MjUtMTIwOTE1Mzg0/Ny5qcGVn.jpeg) | 2006 | Towers Of London | Blood, Sweat And Towers |
+| 87 |  | 2006-04-07 | The Streets | The Hardest Way To Make An Easy Living |
+| 94 | ![Cover](https://i.discogs.com/P4D8RTFiGnc1kzEJy3MDzWn5g3ofgtbU3ntg7L0DRvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcz/MjUtMTIwOTE1Mzg0/Ny5qcGVn.jpeg) | 2006-06-06 | Towers Of London | Blood Sweat &amp; Towers |
+| 76 |  | 2006-07-17 | Air Traffic | Just Abuse Me &#x2F; Charlotte |
+| 28 | ![Cover](https://i.discogs.com/YWFmNsS1Qrf__QAhAHJ2oRXrZoqtCGVMaiG8umj8qrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzUw/MTItMTMzNTg3NDQ4/NC5qcGVn.jpeg) | 2006-08-07 | frank | Devil&#39;s Got Your Gold |
+| 46 | ![Cover](https://i.discogs.com/RwXJjEzvACBGLK96OohpWJYKNQg6Gi4T4maD2d1CXPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTI5/NTktMTM4MDg4ODMz/My03OTcwLmpwZWc.jpeg) | 2007 | Apologies, I Have None | 7 |
+| 35 | ![Cover](https://i.discogs.com/mFtz6EWrv1Z-cw8dJu9pVDz1hamR8mbQGKpExo__wQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NTctMTE4NTc1NTUw/Ny5qcGVn.jpeg) | 2007-03-13 | Keston and Westdal | Truth is Stranger |
+| 74 | ![Cover](https://i.discogs.com/OK12Yn4MZD9PrW_UhBw5W3RXzU-M5EFThpeMW50PAgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDEz/MTQtMTQzMDAxODk0/NS05NDM4LmpwZWc.jpeg) | 2007-06-12 | Furthest Drive Home | The Complete First Series |
+| 34 | ![Cover](https://i.discogs.com/ZP2SP-dQR9Rm8Kpl2jK9kcr8g0n3Myr2QRFRQEr0MF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ3/MjItMTE5MTIyODQz/Ny5qcGVn.jpeg) | 2007-10-01 | Lodekka | ZESTEP016 |
+| 40 |  | 2007-10-01 | Shine | the common station |
+| 7 | ![Cover](https://i.discogs.com/nH5YtRTRoszhMk3w5SyGyaecT-rbM8HZj2l-qAH97mU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODIy/NDUtMTQ1Mjg4NTQw/My0zNjI1LmpwZWc.jpeg) | 2008 | Keston and Westdal | One Day to Save All Life |
+| 15 | ![Cover](https://i.discogs.com/802UkOKIrF687unoSlo6Vjxt0q2rdT_3UMqWKAVi-uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzQw/NTMtMTQ0ODQ4MzUx/Ny0yOTEwLmpwZWc.jpeg) | 2008 | Adele | 1988 |
+| 72 | ![Cover](https://i.discogs.com/HixdComHv5k19DFSq0b_xnGvqrRUtIzCE976NP8yZXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODYw/MDctMTI2ODY1NDQ0/OC5qcGVn.jpeg) | 2008-09-10 | Led Zeppelin | Forever Gold II |
+| 21 | ![Cover](https://i.discogs.com/O6NijaY11n8wuN4UpS0NcosUBgaTvRPzNgs1Z_vCHrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTc4/NzctMTI2MjY4NzMx/MC5qcGVn.jpeg) | 2009 | Animal Kingdom | Sings and Wonders |
+| 68 | ![Cover](https://i.discogs.com/oL2gWK7uweLRXgMzngvu83MNI_atdIPFzSkdo02oCmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTgx/MjctMTMzMzE4Njg5/Mi5qcGVn.jpeg) | 2009-01-11 | Aydio | Deltitnu EP |
+| 62 |  | 2009-04-01 | Apologies, I Have None | Two Sticks &amp; Six Strings |
+| 85 |  | 2009-09-18 | Richard Hawley | Truelove&#39;s Gutter |
+| 64 | ![Cover](https://i.discogs.com/ae8YG7woefGOV6ppXiHKPCqs7QNb9OVIH3RWGR0iQNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDk4/LTExODUyOTc4MDEu/anBlZw.jpeg) | 2009-10-04 | Massive Attack | Singles 90-98 (Disc 10) [Box Set] |
+| 11 | ![Cover](https://i.discogs.com/fv1ZbgAnnTlPYnO6ovJ02VkfDaUZKkVPxISzHGHRMvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTkz/ODgtMTM5MTQzNzY3/Ni0yNzg5LmpwZWc.jpeg) | 2010 | Lahannya | Scavenger |
+| 55 |  | 2011-02-14 | The Lovely Eggs | Cob Dominos |
+| 45 |  | 2011-03-26 | Disko-ions | Clumberkicks EP |
+| 96 | ![Cover](https://i.discogs.com/vDpQl5nj3HcoW5TyXsK9cGeBwCcvYNiOVfPpXZUQEQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzIz/OTE0LTE1OTY2MTY1/MDctNTA1Mi5qcGVn.jpeg) | 2012 | Adele | 21 (Deluxe Edition) |
+| 26 |  | 2012-02-06 | O&#39;Hooley &amp; Tidow | The Fragile |
+| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8fd582c6f343456a9a5e7aec115ce200.png) | 2012-03-19 | Apologies, I Have None | London |
+| 90 |  | 2012-03-19 | Gentleman&#39;s Dub Club | Open Your Eyes |
+| 3 | ![Cover](https://i.discogs.com/izonXMoo7XNtumU8F8Knu-yQ1zrz5jN_KWupMHdSRbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTk4/MTItMTM5MDQ1ODE5/My0yNzkxLmpwZWc.jpeg) | 2012-07-10 | Pandr Eyez | Eyes On You EP |
+| 88 |  | 2013-04-28 | The Pigeon Detectives | We Met At Sea |
+| 65 |  | 2013-11-15 | Gabrielle | Now and Always: 20 Years of Dreaming |
+| 20 | ![Cover](https://i.discogs.com/4Yr-et9N9oRjitiVmA_xek8tbGpvu3heew1j3mh_QPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzQ4/MzUzLTE2OTAwMjMz/NzAtNjc2OC5qcGVn.jpeg) | 2014 | The Oxford Trinity Choir | Christmas Carols - The Very Best Traditional Xmas Carols &amp; Hymns |
+| 92 | ![Cover](https://i.discogs.com/01F-60YpLz4oF1ieW_492xVhoxdeKXCXsXRavzWjjKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzMx/MzItMTY4NjUwMDk0/Ni00OTM4LmpwZWc.jpeg) | 2015-07-27 | J Hus | THE 15th DAY |
+| 100 | ![Cover](https://i.discogs.com/zw2Sr_Rr9-XNwqjT8lraGALDAm76OIHYgVn47YrbgKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDgw/MzYtMTQ2MjMxMjQ1/Ni05NDU3LmpwZWc.jpeg) | 2016-02-19 | FKA twigs | Good to Love |
+| 63 | ![Cover](https://i.discogs.com/4QqlTdsD8HBCJogR0RH9Q5ky9DkCSw4d2S7YGCOaq8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTM4/OTctMTQ3MDE1MTk0/NC0zNzM1LmpwZWc.jpeg) | 2016-08-26 | Apologies, I Have None | Pharmacie |
+| 1 | ![Cover](https://i.discogs.com/sfBNpT5OehORi499O4h68oWRU3PqeYFWMgLt2qPgzoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTg1/MTMtMTQ4NDk2MzAy/NS0zODQxLmpwZWc.jpeg) | 2016-10-20 | As Lions | White Flags |
+| 93 | ![Cover](https://i.discogs.com/WBS8CXQYQ1Q1L2Ef7XSKvwt-aryMwRv7AVrGuVhsx8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTI0/NzUtMTQ4MDgzMTU4/Ny0xMjU0LmpwZWc.jpeg) | 2016-12-02 | Clint Mansell | Black Mirror: San Junipero (Original Score) |
+| 52 | ![Cover](https://i.discogs.com/EduaWdAI1CKRHnXEsMyedfRiuaDTI-OwewYYGHLSY2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzg4/NDE1LTE2MTMxODAz/ODgtNzIyOS5qcGVn.jpeg) | 2017-09-17 | Youthmovies | Live at All Tomorrows Parties 2007 |
+| 99 | ![Cover](https://i.discogs.com/VWgcQU6ZvbJhJBCZn7OyysG7Po9WZg50c5RDrJgp2Ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA3/NjgyLTE1ODk1MDM3/NTEtMTI5Ni5qcGVn.jpeg) | 2018 | Charli XCX | Girl, so confusing featuring lorde |
+| 17 | ![Cover](https://i.discogs.com/8vAmJWXcj5s8Uwlq6uOSfcJPcfb2RJUSDspMxNI-iFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY2/MTAwLTE1MzE3NTY0/NzAtNjMxOC5qcGVn.jpeg) | 2018-07-13 | Consumed | Live Fat, Die Young |
+| 61 |  | 2018-12-07 | Paul McCartney &amp; Wings | Wings at the Speed of Sound |
+| 50 | ![Cover](https://i.discogs.com/Us4TBx6kYfQVRgMiYvvWvhyBLCvFMGJCqSXEVfvZZAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTM1/NzYwLTE1Njg0OTM1/NTEtMTY1OC5qcGVn.jpeg) | 2019-09-20 | Keane | Cause And Effect |
+| 70 | ![Cover](https://i.discogs.com/zMmjDWjhRujcDRyGsWCdryvBPgaLtXoIJIovph5L2hA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjI3/ODIwLTE2Njg5NjI3/MjItMzAxMi5qcGVn.jpeg) | 2022-11-18 | Baddiel, Skinner &amp; Lightning Seeds | Three Lions (It&#39;s Coming Home for Christmas) |
+| 82 | ![Cover](https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg) | 2023 | Various Artists | On The Bone - Compilation One |
+
+### Related genres
+
+- [british]({{ "/tags/british" | relative_url }})
+- [english]({{ "/tags/english" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [britain]({{ "/tags/britain" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [london]({{ "/tags/london" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [electronica]({{ "/tags/electronica" | relative_url }})
+- [europe]({{ "/tags/europe" | relative_url }})

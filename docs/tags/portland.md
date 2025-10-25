@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-23T07:29:08.825Z
+permalink: tags/portland
+title: portland
+---
+
+## portland
+
+Last updated: <time datetime="2025-10-23T07:29:08.825Z">Thu Oct 23 2025 10:29:08 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 1 | ![Cover](https://i.discogs.com/fN8BcrvEwHaCpLc41halPhUu21arNc0oe4jGTp-_eR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTIw/MTczLTE2NDMzMzM4/NzUtNjM3NC5qcGVn.jpeg) | 2006-11-28 | Sheers | Sheers |
+| 2 |  |  | Rabbits without Spleens | Promo release |
+| 3 |  |  | The Young Immortals | When History Meets Fiction |
+| 16 | ![Cover](https://i.discogs.com/AmOcYR36pw4fwmfwqQmsQXlB_y6Mey-cx3c7qLYe4So/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDY3/Mi0xMTYwOTg2MDY2/LmpwZWc.jpeg) | 1993 | Incendiary | Unrestrained split 7&quot; |
+| 5 | ![Cover](https://i.discogs.com/5E_JXRYn0vk7h7db3pKa3tr31jhqqhN84krV_zqg724/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE0/NTcxLTE1NDY0ODA2/NDEtNjIzOC5qcGVn.jpeg) | 1997 | JonnyX and the Groadies | I |
+| 24 |  | 2000 | David Rovics | Live at Club Passim |
+| 39 |  | 2001-03-06 | Plastiq Phantom | Enjoy The Art Of Lying Down |
+| 27 |  | 2001-10-16 | Wipers | Wipers Box Set |
+| 49 |  | 2002 | I Can Lick Any Sonofabitch in the House | Creepy Little Noises |
+| 42 | ![Cover](https://i.discogs.com/MBJndYmV8Akpy2FvioX5hG1HMrNqkZpn0qzhsOMpH9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDcy/OTAtMTQ4MzU2MzE0/Mi0yOTYxLmpwZWc.jpeg) | 2003 | I Can Lick Any Sonofabitch in the House | Put Here To Bleed |
+| 41 | ![Cover](https://i.discogs.com/mYmHeeXOycb82pHpAbxWOfdhMjkjFF218NIKTYZxR4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTUx/MTUtMTQ4NDkwOTkw/NC0zMzY2LmpwZWc.jpeg) | 2004 | Kasey Anderson | Way Out West |
+| 50 | ![Cover](https://i.discogs.com/e4qcdNlQAq2ys1ruyuf08Ulz7DkR2nUHtMeqBPS4J7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDI4/NS0xMDk1NDM4MzE4/LmdpZg.jpeg) | 2004-09-07 | Vells | Flight From Echo Falls |
+| 37 |  | 2004-10-12 | Kasey Anderson | Dead Roses |
+| 43 | ![Cover](https://i.discogs.com/W05Br0UdZnEnCtWG51NXP4cTJrgqxh_TQV0xzxsu-GM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjYx/NC0xMTQyMzA3ODkz/LmpwZWc.jpeg) | 2004-10-19 | Plastiq Phantom | Plastiq Phantom |
+| 18 | ![Cover](https://i.discogs.com/YWoTnJI88xFUTfbzJkew_IdF9uz75Y5DQEQIovEiA6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTkw/Mi0xMTU5MjE0NTEy/LmpwZWc.jpeg) | 2004-12 | bonus | Bonus |
+| 35 | ![Cover](https://i.discogs.com/WS2CKuhHtpZLdGyQp6nMe2O7-0ycJiIPAdZUQznOKqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDUz/OS0xMTA3MDQ5NzU0/LmpwZw.jpeg) | 2004-12-17 | Psychic Emperor | Psychic Emperor |
+| 47 |  |  | jakob battick &amp; friends | Heavy The Mountains, Heavy Are The Seas |
+| 9 | ![Cover](https://i.discogs.com/_4HtXFZFA6pW1bgoQPq0Ib9xarjaZGCxL7H2_AQtX6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzY0/ODYtMTQxNjc2Njgz/OC03MTQ1LmpwZWc.jpeg) | 2006 | Hello Damascus | Harvest Dolls |
+| 11 | ![Cover](https://i.discogs.com/n8ciz7rvZkTJrlYOWzr8UFe9YFnuhkTjp9EyEeUMikI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Mzc5/NDItMTQ0MzY4MDg3/NS0zNjU2LmpwZWc.jpeg) | 2006 | Iretsu | The Moon And Stars Remain In The Morning Sky |
+| 25 | ![Cover](https://i.discogs.com/1Zwpk6OFfVGX77brK7EtkD4_njHBEw3ZjvutXdwMn1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODA3/ODctMTY2MDk3NDgx/My01NTk5LmpwZWc.jpeg) | 2006 | Dirty Martini | Tea and Revenge |
+| 31 | ![Cover](https://i.discogs.com/n8ciz7rvZkTJrlYOWzr8UFe9YFnuhkTjp9EyEeUMikI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Mzc5/NDItMTQ0MzY4MDg3/NS0zNjU2LmpwZWc.jpeg) | 2006 | Iretsu | Name our Numbers, Numbers |
+| 6 | ![Cover](https://i.discogs.com/C0TauwNinJTgDfOHTLXG876jQY4HXoLNVYFYqP9ZahQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDE1/NjgxLTE3MjkwNjg4/MzQtNjY0NC5qcGVn.jpeg) | 2007 | Luxxx | cunt 4 ever |
+| 45 | ![Cover](https://i.discogs.com/oAXbbdCzoh08vMdEtKt0NKWqRCey0tqpiEr1kvd2N6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgx/NzAtMTIyOTQ5NTUw/Mi5naWY.jpeg) | 2007 | Visitations | Visitations |
+| 10 | ![Cover](https://i.discogs.com/jTU3UG-0AU4knT-PaZ3Bfw3k9XUepUvRpONDcY3rQPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgx/NzQ2LTE1OTg1MDg3/OTUtODIxNC5wbmc.jpeg) | 2007-05-28 | Tragedy Andy | Real Love Is Permanent |
+| 14 | ![Cover](https://i.discogs.com/0N4_sq14NPZoD-Q-8gq1-UdH8fA2V66070sZ8WWNIWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTc1/NzgtMTM4ODkwMjQ5/OC00NDEzLnBuZw.jpeg) | 2007-09-18 | Vells | Integretron |
+| 8 | ![Cover](https://i.discogs.com/4V48iSzT_mCn75Kr11CAxUs-7KILLAQfO7Xgjjbb1To/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM2/MTAxLTE1OTQ5Njcw/MjctMjE2OC5qcGVn.jpeg) | 2007-11-07 | Chris Robley | The Drunken Dance of Modern Man in Love |
+| 33 | ![Cover](https://i.discogs.com/4W9TeD4iBkI89vL3A68lsjYW0lI-CKa6RkLUXEMxap4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTkw/NDgtMTQ4MzczNTQy/NC00NDgyLmpwZWc.jpeg) | 2008 | Catfight | In Stereo |
+| 26 |  | 2008-05 | Mt. Moon | Bless Those Sleepy Sleepy Lights |
+| 13 | ![Cover](https://i.discogs.com/9hhklTcYuyN8vnRcO-SvO5ag6HCRurFSj7JmzqKdwEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTU1/NjUyLTE3Mjk3NDQy/ODUtOTQwNS5qcGVn.jpeg) | 2010-02-01 | Ellie Fortune | Matriarch |
+| 15 |  |  | Truckstop Darlin&#39; | Self Titled |
+| 28 | ![Cover](https://i.discogs.com/7XF9cOpII1uLHEuHqe2RNR1pPOSh8GAlewdX8ohkLes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjY5/OTUtMTI4ODgzMjQ3/Ni5qcGVn.jpeg) | 2010 | pEACEFANg | pEACEFANg EP |
+| 34 | ![Cover](https://i.discogs.com/Bnbx6Yep2zFgMC0sGQpSADu6ki8sZZoGvRdhjprUPDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQ1/OTYtMTI3Njk5NTUz/NS5qcGVn.jpeg) | 2010 | Plankton Wat | shadows |
+| 46 | ![Cover](https://i.discogs.com/7AVsjQgS2dj_wbhADN9tTXXjT6OccPqfsXStUMQZ_fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTU4/MzMtMTM3MjUzNTg4/My04MDU0LmpwZWc.jpeg) | 2010 | Four Quartets | Four Quartets |
+| 32 | ![Cover](https://i.discogs.com/Fu1FoTpEzdaL8CvnEcUSbRUhH3-9oW911SRbXyCOGME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTk3/NTEtMTMwMjQ3NDA1/MS5qcGVn.jpeg) | 2010-05-11 | Hosannas | Then &amp; Now &amp; Then |
+| 20 |  | 2010-11-22 | Thy Courage Quail | goblin&#39;s gate |
+| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6e162c0f712f4e3487b216835d19bb77.png) | 2011 | Napalm Beach | Rock &amp; Roll Hell |
+| 48 | ![Cover](https://i.discogs.com/IGY53m6z9IhGUwUWO57rR3idPxBE5tnkuYi7OE9N1yw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjQ4/MDYtMTQwMDk2MjEy/MC02NjA2LmpwZWc.jpeg) | 2011 | Kasey Anderson and the Honkies | Heart of a Dog |
+| 4 | ![Cover](https://i.discogs.com/kr6Tz9X5cfQw1d8B0fOxxbYvMYVZhI_A0CoB50TayJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjUx/MzYyLTE1Nzg5MzIz/MTYtNjk4Ni5qcGVn.jpeg) | 2012-05-18 | Vinnie Dewayne | The St. Johns Scholar |
+| 21 | ![Cover](https://i.discogs.com/mfuE0KJWes4wW1PXx5oM_ta0DFYNZPAg5-dE4oF6pLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzg1/NzctMTM5NTk2NDEw/MS0xNjEzLmpwZWc.jpeg) | 2012-07-31 | AVOXBLUE | A Place Without Time |
+| 19 | ![Cover](https://i.discogs.com/hKpeH00hG8fbYDlee3HAljQQAvPRXZxm60vArT0Sh_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTc2/MzYtMTM3MzI1Mzgx/OS02MTMxLmpwZWc.jpeg) | 2013-07-15 | Lunch | Quinn Touched the Sun |
+| 38 | ![Cover](https://i.discogs.com/kOfdXP-jJrWQdV4f3L6rkFjHuziyJMVvdXVB52bprOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjc0/MDMtMTM4NTI0MDk2/OC02MjgyLmpwZWc.jpeg) | 2013-08-30 | Blackwitch Pudding | Taste the Pudding |
+| 44 | ![Cover](https://i.discogs.com/w4R13o4D1tbF7uQY9YRwgnhDJag0OKov8pqZsVGaRFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTQz/OTQtMTQ1OTE3OTY5/MC0yNzU1LmpwZWc.jpeg) | 2015 | Coastlands | Come Morning, a Radiant Light |
+| 36 | ![Cover](https://i.discogs.com/ROPqlGR0iQgIvoNPwNgNlpHq03IG1rC3fZo7v4a6IGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDAx/MTE4LTE1NTgwMzE5/MDItNjQ1My5qcGVn.jpeg) | 2018-12-14 | Bed. | Replay |
+| 12 |  | 2022-02-04 | Autosarcophagy | Dolor |
+| 17 |  |  | How to Build a Fire | An Open Mouth Hears No Words |
+| 22 | ![Cover](https://i.discogs.com/PgCwBhUfvF2tKnIfLvPnAUrYs0LUtO4yA-oMaWIl2W8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDkz/NjE1LTE2ODQyMjg3/MjUtMjg1OC5qcGVn.jpeg) | 2023-02-24 | Jetlagged | depart, be lost, but climb |
+| 23 |  |  | Kevin Burke and Mícheál O&#39;Domhnaill | Portland |
+| 29 |  |  | Bone Blanket | Drown |
+| 30 |  |  | 1800s Sea Monster | Soundtrack Tapes For Crazy Red |
+| 90 | ![Cover](https://i.discogs.com/Sq5Kb6QN0hnurcSH0EXNq8qlERd9iaeWOB9pTL---A4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI4/MzE5LTE2NzQ2ODkz/NTgtOTAwNy5qcGVn.jpeg) | 1968 | Paul Revere &amp; The Raiders | 12 Classic Tracks |
+| 85 | ![Cover](https://i.discogs.com/-1E7v6UJK835vgGTCcnu8RUzE0WC9dPvIQ6MxzDvETY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAz/MjAtMTE5NDUzMjA1/OC5qcGVn.jpeg) | 1980 | Wipers | Box Set -- Is This Real? |
+| 65 | ![Cover](https://i.discogs.com/Yu0X-jgEWhPMbhTdkMfY7U3isKm9JxS6kWGnD1li9cA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI4/MDctMTM4MTMwMjQ2/My04MDEyLmpwZWc.jpeg) | 1985-05-14 | Black Flag | Who&#39;s Got the 10½? |
+| 70 | ![Cover](https://i.discogs.com/NBoGzRndMzXfIKz1zIAkIDPSkwf1dfPgsjlq2X5uyCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzk4/MC0xNjA0Njg4MDY1/LTc1MTcuanBlZw.jpeg) | 1986-05 | Black Flag | Who&#39;s got the 10½ |
+| 62 | ![Cover](https://i.discogs.com/vtgxJZCvCFrxlmscNvb-36EEjurKye8UproOSAK-CII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjA5/OS0xNjc1NDA2NzAw/LTMzOTcuanBlZw.jpeg) | 1995-02-14 | Hazel | Are You Going to Eat That? |
+| 60 | ![Cover](https://i.discogs.com/c7EOprsHWj6pJV-CR2462PFQR4O1U60_p0ZByzV-my8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzU3/MjItMTU2MDUzNTcy/MC01NzY5LmpwZWc.jpeg) | 2001 | David Rovics | Living In These Times |
+| 57 |  | 2001-10-16 | Dahlia | Emotion Cycles |
+| 89 |  | 2003 | Haley Bonar | The Size of Planets |
+| 58 |  | 2004 | David Rovics | Songs for Mahmud |
+| 79 | ![Cover](https://i.discogs.com/T4RPpSWwIOILM4wof8ZwME7V46ZjxhluUx56p54prEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTYy/MTMtMTM1MjQzNTI0/Ni00OTYyLmpwZWc.jpeg) | 2004 | Tracy Grammer | The Verdant Mile |
+| 95 |  | 2004 | Todd Snider | East Nashville Skyline |
+| 75 |  | 2005 | Tracy Grammer | Flower of Avalon |
+| 56 |  | 2005-01-01 | Derby | This is the New You |
+| 74 | ![Cover](https://i.discogs.com/DS6krh0_sLPIhl2QcxwxyExJFCznjfqcYfLzVQBEF8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTU5/Ni0xMzg2NjQzNTcz/LTY4NTkuanBlZw.jpeg) | 2005-09 | The Decemberists | Present &#39;Picaresque&#39; |
+| 77 | ![Cover](https://i.discogs.com/a7BOOyF0hfmbzYAlUk8lXm6GAQ-qm1tu0e1uMMRp6kE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzYx/OTYtMTIzMzY2ODcw/NS5qcGVn.jpeg) | 2006 | Richmond Fontaine | Live at the Doug Fir Lounge |
+| 83 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/10ab9b018741402f969564b2f1b3ac0c.png) | 2006-09-15 | The Blow | Paper Television |
+| 100 |  | 2006-09-29 | Wild Flag | Wild Flag |
+| 73 |  | 2007-09-11 | Kasey Anderson | The Reckoning |
+| 86 | ![Cover](https://i.discogs.com/vHfiGdSEb_Urmyj8yShlg7t3B235sGbSQa0RomvxUek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM5/MTU3LTE2NDgyMTUx/MzEtNzE1NC5qcGVn.jpeg) | 2008-01-15 | Tracy Grammer | Book of Sparrows |
+| 53 |  | 2008-12-14 | Hemmit | RocketRide |
+| 64 | ![Cover](https://i.discogs.com/LqBPYjqajbPhDb4oTo3b4WiB1WRfGOfLMRWhhPpfjB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzM2/NjUtMTQ1OTU1OTAz/MC00MjgyLmpwZWc.jpeg) | 2009 | Attica! Attica! | Napalm &amp; Nitrogen |
+| 88 | ![Cover](https://i.discogs.com/hv1C421sWSVCOzZRODMF9UxnYbEu1dvcpSl7qZCfgHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODc1/MjAtMTI0MzMxNDM3/Ni5qcGVn.jpeg) | 2009-04-21 | Weinland | Breaks In The Sun |
+| 84 |  | 2009-06-09 | Todd Snider | The Excitement Plan |
+| 98 | ![Cover](https://i.discogs.com/a6cIql8lI4CpMkxxO4zM2NHFznVz9BJV5g20ZKxb-fA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTMw/NzktMTUxOTQ3NjY3/MS0xOTg5LmpwZWc.jpeg) | 2009-06-16 | The Builders and the Butchers | Salvation Is A Deep Dark Well |
+| 63 |  | 2009-10-13 | Shelley Short | A Cave, A Canoo |
+| 82 | ![Cover](https://i.discogs.com/2yjd64hlu5GL7MAJblyWXogUEFCWpfx5gGIhVg6JxK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjEx/NTgtMTI1OTE4MTEx/My5qcGVn.jpeg) | 2009-10-21 | Laura Gibson &amp; Ethan Rose | Bridge Carols |
+| 55 | ![Cover](https://i.discogs.com/u83WB0KFa36HcfepdWp9UL4AaBs72rwEvDPTCmgCGeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjk2/MTgtMTI2OTY4NTIx/My5qcGVn.jpeg) | 2009-11-14 | Marc Broude | Medicine |
+| 59 |  | 2010 | Richmond Fontaine | Postcard from Portland: Live at Dante&#39;s |
+| 78 | ![Cover](https://i.discogs.com/VA8hblMRVwWFJ7bPhBzfti9jpRY41dduG05UzzRNFGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjYz/OTctMTY4NDE4MzA1/Ni01MTA1LmpwZWc.jpeg) | 2010 | Kasey Anderson | Nowhere Nights |
+| 66 | ![Cover](https://i.discogs.com/H2XpMMtUnBNFnu1rgEIOEVSMrutTB7IT5KlZcnFzu5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM0/NzItMTI3MzEyNDIw/MC5qcGVn.jpeg) | 2010-04-20 | Guidance Counselor | Guidance Counselor |
+| 71 | ![Cover](https://i.discogs.com/fdFZYzNJCtGRaSx8lgIQFpmVGJidfpqocT7ynxA__VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgw/MzIyLTE1MDc1ODgz/MTctMTEzNC5qcGVn.jpeg) | 2010-06-22 | Spirituals | Spirituals |
+| 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/982978b608134c26bc7db5dd3e335b4d.png) | 2011 | Sallie Ford &amp; The Sound Outside | Dirty Radio |
+| 94 |  | 2011-01-18 | Dolorean | The Unfazed |
+| 93 | ![Cover](https://i.discogs.com/kygW2xXMn6j5s5MYbgDjsIVUtE3Z1hbokYHv0bJBcWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzkw/MzAtMTUzNDYxMjM4/MC00ODAxLmpwZWc.jpeg) | 2011-02-15 | AgesandAges | Alright You Restless |
+| 80 |  | 2011-04-23 | Shook Twins | Window |
+| 52 |  | 2011-09-24 | Monomate | Negative Emotions |
+| 92 |  | 2012-03-06 | Todd Snider | Agnostic Hymns &amp; Stoner Fables |
+| 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b2b9e316d0911998ca47da500bdcbb14.png) | 2012-09-11 | The Helio Sequence | Negotiations |
+| 51 | ![Cover](https://i.discogs.com/MgykvHeSu2bcmsf-NoIOa0kkNXOVzoFpSkxYFygvo9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODcw/NTQ4LTE2MTU5MTEy/MzEtNjI3NS5qcGVn.jpeg) | 2012-10-05 | Coastlands | Home, Again |
+| 81 |  | 2013-01-17 | Menomena | Toomer |
+| 67 |  | 2013-02-02 | Agalloch | The Weight Of Darkness |
+| 69 |  | 2014-01-21 | Young Thug &amp; Bloody Jay | Black Portland |
+| 54 | ![Cover](https://i.discogs.com/oVwYQl3VGu-pdLHC7v1rSPZvA0OrWnbeTX2QfIDNUNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDg2/NDctMTQxNDcyODY5/NC04MzAzLmpwZWc.jpeg) | 2014-10-14 | Eyelids | 854 |
+| 68 | ![Cover](https://i.discogs.com/nw7NbKBGuzbwQHyvjGjfG6YVakkz4C4hz74xUbr7sM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDIw/MTU0LTE0OTcyOTUw/NjQtNDUyNC5qcGVn.jpeg) | 2017-01-29 | Fried Rice | The Perfect Nut |
+| 40 | ![Cover](https://i.discogs.com/QBuea2vAK34KFYDol-or8aHwuNsFVKit1TlN4zZJhOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcx/MjU4LTE1MDU2ODUy/NjEtOTQ4MC5wbmc.jpeg) | 2017-09-17 | Graveflowers | The Hyacinth Garden |
+| 72 | ![Cover](https://i.discogs.com/VUw2cs95qi_st-Tq30R6sXS2YLniVaWEMM99RRW-5qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgy/MTM2LTE2MjAxMDYz/NDEtMjgzNy5qcGVn.jpeg) | 2021-02-12 | Rainmaking | rainmaking |
+| 61 | ![Cover](https://i.discogs.com/kvqmyfA6pcb9lLTCwFO1Wj_gfa16gAqI-CPKiOMcGmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzA2/NjEtMTU3OTc0MzUx/OS01MzQ2LmpwZWc.jpeg) | 2022-09-23 | Todd Snider | Todd Snider Live-The Storyteller |
+| 76 |  |  | Blake McKibben | Haze |
+| 99 | ![Cover](https://i.discogs.com/ivbHWgVw8z82VQecC-SR2u5t8O1uhDbyu6rZ38CjYXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDk1/NDQ2LTE1ODY2MjA0/ODEtMzY3NS5qcGVn.jpeg) | 2020-04-03 | Ezra Bell | Don&#39;t All Look Up At Once |
+| 97 | ![Cover](https://i.discogs.com/pPS_v_CvZESe4hue90pUma9j-V5NKiDGp9g9Bx3-Ab8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM3/MTQwLTE2MjczMzc4/MjItMjk2Mi5qcGVn.jpeg) | 2020-05-29 | Charmer &amp; Klay | Quiet Night |
+| 96 |  | 2023 | Various Artists | To: Elliott, From: Portland |
+
+### Related genres
+
+- [oregon]({{ "/tags/oregon" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
+- [americana]({{ "/tags/americana" | relative_url }})
+- [noise]({{ "/tags/noise" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [folk]({{ "/tags/folk" | relative_url }})
+- [alt-country]({{ "/tags/alt-country" | relative_url }})

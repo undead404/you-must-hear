@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T10:13:37.578Z
+permalink: tags/pipe-organ
+title: pipe organ
+---
+
+## pipe organ
+
+Last updated: <time datetime="2025-10-22T10:13:37.578Z">Wed Oct 22 2025 13:13:37 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 24 |  |  | Frank Kaman | Populair orgelconcert |
+| 27 |  |  | Leo Sowerby | Sowerby: Works for Organ and Orchestra |
+| 28 |  |  | Jon Kristian Fjellestad | David M. Patrick plays the Gloucester Cathedral Organ |
+| 33 |  |  | Faithful Fathers | Pipe Organ Hymns |
+| 34 |  |  | Dieterich Buxtehude | Buxtehude: Organ Works (Complete), Vol. 1 |
+| 59 |  |  | Stephen Cleobury | The Organ Music of Herbert Howells Vol 1 - The Organ of King&#39;s College, Cambridge |
+| 61 |  |  | Stephen Cleobury | British Organ Music from King&#39;s &#x2F; Organ of King&#39;s College, Cambridge |
+| 63 |  |  | Karl Richter | BACH: Toccata &amp; Fugue |
+| 96 |  |  | Karl Richter | Bach: Organ Works |
+| 51 | ![Cover](https://i.discogs.com/rVn3dotc4RaqsAaa45eab3J_3WoX0RAxNVy3t0GVGDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODcw/MDI0LTE1ODMxNjM4/NzItOTI1NS5qcGVn.jpeg) | 1956 | Dieterich Buxtehude | Buxtehude: Complete Organ Works, Vol. 1 |
+| 58 | ![Cover](https://i.discogs.com/rVn3dotc4RaqsAaa45eab3J_3WoX0RAxNVy3t0GVGDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODcw/MDI0LTE1ODMxNjM4/NzItOTI1NS5qcGVn.jpeg) | 1956 | Dieterich Buxtehude | Buxtehude: Complete Organ Works |
+| 89 | ![Cover](https://i.discogs.com/rVn3dotc4RaqsAaa45eab3J_3WoX0RAxNVy3t0GVGDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODcw/MDI0LTE1ODMxNjM4/NzItOTI1NS5qcGVn.jpeg) | 1956 | Dieterich Buxtehude | Buxtehude: Complete Organ Works, Vol. 6 |
+| 13 | ![Cover](https://i.discogs.com/AsBJZFoiZpnR0ghnKMd3PZyraLHYnGhtwmYG66opiT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTI0/NzktMTQxNDMzNTY0/OC0zMTcyLmpwZWc.jpeg) | 1965 | Johannes Brahms | BRAHMS: Organ Works (Complete) |
+| 23 | ![Cover](https://i.discogs.com/cSC2XSGdPJqNTaF1AhvNWF189WVnHfMrYpdWoWvxsiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTA1/NTE5LTE2MTk2NTM0/MDItODU1My5qcGVn.jpeg) | 1966 | Max Reger | REGER: Introduction, Passacaglia and Fugue in E Minor &#x2F; 9 Organ Pieces, Op. 129 |
+| 31 | ![Cover](https://i.discogs.com/-EpDTzDSV1Kls0GGYQImTAb-BoR6m_7bVt8OLxxa4Ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTQ1/MzUtMTQyNDc4NTEw/NC0xNjg2LmpwZWc.jpeg) | 1966 | Alois Hába | Organ Works |
+| 42 | ![Cover](https://i.discogs.com/rGlWTrUph8MUjvAElaC5F9o0HT5fPth6soOW7blBNCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgx/MzI0LTE2NjcyNjE4/MDYtNTE5My5qcGVn.jpeg) | 1966 | Felix Mendelssohn | Mendelssohn: Organ Works |
+| 82 | ![Cover](https://i.discogs.com/XVUBS3YPNV1cg8QvGAG7e35QztvqfIbmt1pQ4WMDMMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc5/NzgwLTE0OTYzMjE3/NDktODU3NC5qcGVn.jpeg) | 1967 | Johann Sebastian Bach | Toccata &amp; Fugue - Orgelwerke |
+| 70 | ![Cover](https://i.discogs.com/cYxZOAM-i-6xVLrp0PCDcwJwgBxNreoZRPwHdUBUxpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODgz/OTgtMTQ0NDY0MTQ1/Mi05ODM4LmpwZWc.jpeg) | 1967-09-13 | Wolfgang Amadeus Mozart | MOZART: Organ Music |
+| 71 | ![Cover](https://i.discogs.com/Wj42ZtRjL0iSzo2P9UOT4m1sYrgFszgdDKOtqLKb3Uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg3/NDk1LTE1NTQ1MzQ4/OTgtODE1My5qcGVn.jpeg) | 1967-11-15 | Johann Sebastian Bach | BACH, J.S.: Das Orgelbuchlein, Vol. 1 |
+| 73 | ![Cover](https://i.discogs.com/qp2GZJO4k0817wU2SGEm0W7FuPaJKxtK2UfxnTlA3SI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODMy/OTAtMTQ0ODY4OTA2/NC0yOTUxLmpwZWc.jpeg) | 1967-11-15 | Johann Sebastian Bach | BACH, J.S.: Das Orgelbuchlein, Vol. 2 |
+| 54 | ![Cover](https://i.discogs.com/QTVn1Su4Z33rodhlcrvP-g9vIB2DT7deRnmusDwJ0Pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTU2/MTYtMTUwNTE1OTg5/NC00MDk5LmpwZWc.jpeg) | 1969 | Johann Sebastian Bach | BACH, J.S.: Schubler Chorales &#x2F; Toccata and Fugue in D Minor |
+| 69 | ![Cover](https://i.discogs.com/FEszff3FZ29iczzK4pG_ut-NZlQPEhSolKS_8SC9wSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ1/OTgxLTE1MzU0NDY1/OTgtMzI2NC5qcGVn.jpeg) | 1972 | Max Reger | REGER: 6 Trios, Op. 47 &#x2F; Introduction, Variations and Fugue, Op. 73 |
+| 66 | ![Cover](https://i.discogs.com/Tk_s0sJhhf1OU9LGHhrj5awm-_oUpt98K2NW77zmN8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjcy/MDEwLTE2NTM5NDYx/NjQtNTE1Ny5qcGVn.jpeg) | 1973 | Johann Sebastian Bach | BACH, J.S.: Kirnberger Chorales and other Organ Works, Vol. 2 |
+| 68 | ![Cover](https://i.discogs.com/qqeeCcL9QaTo5KJdm_ONPiHVBkhr5L3qREuj0mPOn2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjM2/ODQtMTMwMDExODM2/Mi5qcGVn.jpeg) | 1973 | Virgil Fox | Heavy Organ At Carnegie Hall |
+| 85 | ![Cover](https://i.discogs.com/S3P33nwWoJr6Uh4nhl6Fm-AwGIfmyx6rJlM1fQ3aq_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTI2/Njg3LTE1NjQyMzIw/MDEtNDE1NS5qcGVn.jpeg) | 1973 | Gustav Leonhardt | J. S. Bach: Orgelwerke |
+| 40 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1974 | Various Artists | Dialogue for Two Organs |
+| 90 | ![Cover](https://i.discogs.com/AniTIPOtRjnR9Wz_-DxX7uFE8cJeCHufZLFbvmWHMNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTI2/MTg2LTE2MzY2MzU2/MjUtNTMxNi5qcGVn.jpeg) | 1974 | Johann Sebastian Bach | Bach, J.S.: Organ Favourites |
+| 20 | ![Cover](https://i.discogs.com/xN_YBaIouYC-nbE1_vgixGsfs3iAH8jPnA51USyD0IU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI5/ODQ1LTE1NDg1OTU3/NjMtNjQ1NS5qcGVn.jpeg) | 1975 | Jan Pieterszoon Sweelinck | Sweelinck: Works for Organ |
+| 4 | ![Cover](https://i.discogs.com/Lw-ZSmJXE9YO41-Iert_OZydx6mRTXmrFs-S1IqFE_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Nzg4/OTMtMTQ2MjQxMDQy/Mi0xMDk5LmpwZWc.jpeg) | 1976 | Anthony Newman | Bach: Favorite Organ Works |
+| 21 | ![Cover](https://i.discogs.com/jQmXFq_N6KpHuQJEc819dr6kalrGc8sdedLtUXms16Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTcx/MzQ1LTE1MDc0NDU5/NzEtNTM0Ny5qcGVn.jpeg) | 1976 | Lionel Rogg | Buxtehude: Organ Works |
+| 25 | ![Cover](https://i.discogs.com/jQmXFq_N6KpHuQJEc819dr6kalrGc8sdedLtUXms16Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTcx/MzQ1LTE1MDc0NDU5/NzEtNTM0Ny5qcGVn.jpeg) | 1976 | Lionel Rogg | Bach: Favorite Organ Works |
+| 48 | ![Cover](https://i.discogs.com/Tipg6f9opMMvwh0TK3aGid6dXst-B0xOnr_2vekg0_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTA3/MjAtMTY1MDk5NDE5/OS02MzUwLmpwZWc.jpeg) | 1976 | Jean Langlais | LANGLAIS: Suite Medievale &#x2F; Cinq Meditations sur l&#39;Apocalypse |
+| 97 | ![Cover](https://i.discogs.com/5Vlspxk4tG5Wrxlxa9wUgw05cUxKFctNlw_1iy581Bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTk5/ODEtMTYyOTMxNDUw/Ni03MTQ1LmpwZWc.jpeg) | 1976 | Johann Sebastian Bach | Bach, J.S.: Organ Works |
+| 98 | ![Cover](https://i.discogs.com/28QceqYOvUMK08vtxwRoAP9ZOHC_PiuPCPfgmpxFzII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODM0/MTUtMTQ4ODk3OTM1/Ny01NzcwLmpwZWc.jpeg) | 1976 | Johann Sebastian Bach | Famous Organ Works |
+| 75 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1977 | Various Artists | Old Swedish Organs |
+| 17 | ![Cover](https://i.discogs.com/GvYucZA0qLATuqyroD0eITgJWY5QJb-ec_w8hLAU-aY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDM0/OTUtMTM1MzM0ODI0/MC05MjU2LmpwZWc.jpeg) | 1978 | Franz Liszt | Liszt: Organ Music |
+| 76 | ![Cover](https://i.discogs.com/28QceqYOvUMK08vtxwRoAP9ZOHC_PiuPCPfgmpxFzII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODM0/MTUtMTQ4ODk3OTM1/Ny01NzcwLmpwZWc.jpeg) | 1979 | Johann Sebastian Bach | Bach, J.S.: Great Organ Works |
+| 56 | ![Cover](https://i.discogs.com/YKgyCL6GeZNFcyLewLn4sVUfxT7CPBZdIS_nhc58kvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTIz/MC0xMjk3NjA3MzQ0/LmpwZWc.jpeg) | 1979-11 | John Surman | Rain On The Window |
+| 60 | ![Cover](https://i.discogs.com/siT29YPXpDfWVwoemZ-X83C1vC6DuWBFc4u2-aRfpcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzcw/MTYwLTE1ODEyNTgy/NDQtMzcxMi5qcGVn.jpeg) | 1980 | Christopher Herrick | Popular Organ Music From Westminster Abbey |
+| 77 | ![Cover](https://i.discogs.com/YteusnABRusYXjTGlN5BzI1jJOPWi0iPgtjec0Ioi0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjU3/NzgtMTQ5OTk3NjM2/Mi00NDM1LmpwZWc.jpeg) | 1980 | Jan Garbarek | Aftenland |
+| 84 | ![Cover](https://i.discogs.com/CbnPzbxe0bYmjWpfHRWsi7vAgq48FOyBUSfsrTn8xQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDY3/MDc3LTE2NDAzMzcx/NDEtNzk4OC5qcGVn.jpeg) | 1984 | Camille Saint-Saëns | SAINT-SAENS: Organ Music |
+| 8 | ![Cover](https://i.discogs.com/S-eZAAwvUzaNrsucObPdUznbf8mhWOdijBlkwQAIEGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzI5/NDc1LTE2NTMzMjYy/NDAtODAyOC5qcGVn.jpeg) | 1985 | Johann Sebastian Bach | Great Organs of Japan, Vol. 1: Bach at Ferris University |
+| 87 | ![Cover](https://i.discogs.com/x3Jt1rzM-FrjYiu_27jAah23J9dwqKqk7Oe-QGcIFEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTkz/ODUtMTQ1MDMyODk2/OC02NzM1LmpwZWc.jpeg) | 1986 | John Scott | Mathias: Organ Music - Organ Of St. Paul&#39;s Cathedral |
+| 12 | ![Cover](https://i.discogs.com/8q1A4YW0KoCHX9xzo8dfoe9xRX2vhefRENDE10YxgjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzEz/MjczLTE2MDk0MDEw/MTktMzY5MS5qcGVn.jpeg) | 1987 | Johann Sebastian Bach | Bach, J.S.: Organ Music (Complete), Vol. 5 |
+| 99 | ![Cover](https://i.discogs.com/8ivwbsKG-11eecgz0Wiuux755ItM3w4PA5Ibgbpcalk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzA2/NzEzLTE2ODEwNzUy/NTUtNzMwMS5qcGVn.jpeg) | 1987 | Peter Hurford | Saint-Saens: Organ Symphony; Poulenc: Organ Concerto |
+| 32 | ![Cover](https://i.discogs.com/uCiI2DixpcC6Szsb5qL1jlF6xXSYF0R2QL8gvln17KA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTUw/MzItMTI5MDIxNTY1/My5qcGVn.jpeg) | 1988 | Olivier Messiaen | Organ Works |
+| 52 | ![Cover](https://i.discogs.com/5001wCRtkhLtOse_nFBkUujyoxIeUB7fD4oGgYo9-Z0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDc5/MzktMTQ0NzE1ODY0/NS0xMTM1LmdpZg.jpeg) | 1988 | Maurice Duruflé | DURUFLE: Organ Music (Complete) |
+| 1 | ![Cover](https://i.discogs.com/HdVU21HUj4zzyZdAhiGqZclUC8xi9peSDXG4TnYL_GQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg2/MTE4LTE1NTY5OTI4/MDctOTI5My5qcGVn.jpeg) | 1989 | Hans Helmut Tillmanns | J.S. Bach: Orgelwerke |
+| 62 | ![Cover](https://i.discogs.com/fLiwXIG4KFVmnbzD9H67wZKCrBknRjmDn7EZ9TbW97A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MzIy/NDAtMTM3OTgwNjI2/MC0zMzg3LmpwZWc.jpeg) | 1989 | Ian Tracey | Organ Recital |
+| 65 | ![Cover](https://i.discogs.com/QxHyVR0wxpgrOBV2KFvkuXcEd7ldkwG3pGGek2g_-Hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDYw/NjgtMTQ1MzM0MTQw/My0zMDM2LmpwZWc.jpeg) | 1989 | Johann Sebastian Bach | BACH, J.S.: Organ Chorales from the Leipzig Manuscript, Vol. 2 |
+| 67 | ![Cover](https://i.discogs.com/6j9mDACfMpDfxl1nF1IBtRKb1CATOphfeO9oH7Zf0IM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODA1/NDctMTUwODczODQ0/MS04ODMzLmpwZWc.jpeg) | 1989 | Johann Sebastian Bach | BACH, J.S.: Organ Chorales from the Leipzig Manuscript, Vol. 1 |
+| 35 | ![Cover](https://i.discogs.com/idgfc7YyYQSGTLFI8SdWQgmGS0nwHEUeBVpSHQcfzlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTAy/MTM1LTE2MTk2Mzcz/NzEtNjA1OC5qcGVn.jpeg) | 1990 | Johannes Brahms | Brahms: Complete Organ Works |
+| 93 | ![Cover](https://i.discogs.com/zmVWWnzmtwE6zM_hX8ZXGRNYqXBt-RWY3FILqzjl0h4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY5/MDgxLTE2Mjk3NDMx/ODYtMzMyOS5qcGVn.jpeg) | 1990 | Carl Philipp Emanuel Bach | C.Ph.E.Bach: Organ Sonata in A Minor, H. 85, Wq. 70&#x2F;4 &#x2F; Orgelsonate in a-moll (Wq 70:4) |
+| 37 | ![Cover](https://i.discogs.com/FIlJHdT8lRGas65q9xq51CTAoFBzk5C8w-F7Bn0ViyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAw/MTk4LTE2MDgwNzgy/OTEtNDA3Mi5qcGVn.jpeg) | 1991 | Johann Pachelbel | Pachelbel, J.: Organ Music (Complete), Vol. 2 |
+| 83 | ![Cover](https://i.discogs.com/lmS1EWvlMLPY-YEqYYT7o0tpuVeAgak-RjKJYqbQ3xs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjgw/NzE2LTE1ODkxMjEz/NzUtNTA1OS5qcGVn.jpeg) | 1991 | Donald Joyce | Glass:Organ Works |
+| 79 | ![Cover](https://i.discogs.com/kEl4ZHM8ptMBxhNKmlgFHKrqXN1ohE1IyaGrRYTc1LM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTIy/NzIyLTE2Mjk0MTE2/MTQtNDI1NC5qcGVn.jpeg) | 1992 | Charles-Marie Widor | Widor: Organ Symphonies Nos. 1, 3 and 6 |
+| 15 | ![Cover](https://i.discogs.com/72X_C_t7z96RSdzG_j_vNRVDloSOblGmzEpl83uAsI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTE4/NTUtMTQ5NDE3NzE0/NC04NTEyLmpwZWc.jpeg) | 1993 | Virgil Fox | Encores |
+| 43 |  | 1993-06 | Hans-Ola Ericsson | Baltic Organ Music |
+| 72 |  | 1993-09-14 | Philip Glass | Glass Organ Works |
+| 9 | ![Cover](https://i.discogs.com/M_5O5hFjHi3wzYrs1pXYfDsArm5uRialbOs3VSnboqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTEz/MjY4LTE1MTc2NzY3/MDYtMjQ4My5qcGVn.jpeg) | 1994 | Kevin Bowyer | Phillip Glass&#x2F;Christopher Bowers-Broadbent - Music for Organ |
+| 22 | ![Cover](https://i.discogs.com/aWWVCB4ZGrek2iSn8aB8kIPd-UtSdctQvzn4fv_apV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzUx/MTE3LTE1MTQ3NDc0/NDgtODgzOC5qcGVn.jpeg) | 1995 | Maurice Duruflé | Durufle: Complete Choral Works |
+| 53 | ![Cover](https://i.discogs.com/28QceqYOvUMK08vtxwRoAP9ZOHC_PiuPCPfgmpxFzII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODM0/MTUtMTQ4ODk3OTM1/Ny01NzcwLmpwZWc.jpeg) | 1995 | Johann Sebastian Bach | Bach: Organ Works, Vol. 3 |
+| 94 | ![Cover](https://i.discogs.com/28QceqYOvUMK08vtxwRoAP9ZOHC_PiuPCPfgmpxFzII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODM0/MTUtMTQ4ODk3OTM1/Ny01NzcwLmpwZWc.jpeg) | 1995 | Johann Sebastian Bach | Bach: Organ Works, Vol. 2 |
+| 95 | ![Cover](https://i.discogs.com/28QceqYOvUMK08vtxwRoAP9ZOHC_PiuPCPfgmpxFzII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODM0/MTUtMTQ4ODk3OTM1/Ny01NzcwLmpwZWc.jpeg) | 1995 | Johann Sebastian Bach | Bach: Favorite Organ Works (Anthony Newman) |
+| 46 | ![Cover](https://i.discogs.com/1bV-rGcxvyiKMmevLnmmCG_0UtijevAhTCEfCLQZCqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODUw/ODUtMTY4NDA3ODUy/My0zOTU2LmpwZWc.jpeg) | 1996 | Louis Vierne | VIERNE: Organ Symphonies Nos. 3 and 6 |
+| 38 | ![Cover](https://i.discogs.com/hw5ThB99KdNudMuXxKWgwCQw6D8RQuJCGUTJ9F3RibM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjk3/MzkyLTE1NTE2MTM0/NjMtNjQ2Mi5qcGVn.jpeg) | 1999 | Johann Sebastian Bach | BACH, J.S.: Organ Works, BWV 535, 550, 584, 588-589, 736, 740 |
+| 19 | ![Cover](https://i.discogs.com/XLNk42bHgKP5igFDaRSfe9za3WRI9jRp6p2DYG0j43c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTEy/OTMtMTQxNTcxOTU3/Ni0zMTk3LmpwZWc.jpeg) | 2000 | Dietrich Buxtehude | Complete Organ Music (organ: Walter Kraft) |
+| 55 | ![Cover](https://i.discogs.com/QFhTBhYVuyajF2z60WSAhDxJz6N7pwYP7vl28zaOMVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc3/MjkxLTE1Mzk4NzM3/NTctMTEzOC5qcGVn.jpeg) | 2000 | Ian Ball | Sounds Symphonic - French Masterworks for Organ |
+| 50 | ![Cover](https://i.discogs.com/wDMRz-vmlkS_rJj8658JNoHi8YMYZ9nXZ1zBiyb3JmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTAw/MjItMTM1MTI3NDA0/Ni03NzMzLmpwZWc.jpeg) | 2002 | Werner Jacob | Bach: Favourite Organ Works |
+| 74 | ![Cover](https://i.discogs.com/wDMRz-vmlkS_rJj8658JNoHi8YMYZ9nXZ1zBiyb3JmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTAw/MjItMTM1MTI3NDA0/Ni03NzMzLmpwZWc.jpeg) | 2002 | Werner Jacob | Pachelbel - Organ Works |
+| 80 | ![Cover](https://i.discogs.com/wDMRz-vmlkS_rJj8658JNoHi8YMYZ9nXZ1zBiyb3JmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTAw/MjItMTM1MTI3NDA0/Ni03NzMzLmpwZWc.jpeg) | 2002 | Werner Jacob | Bach:Organ Works |
+| 91 | ![Cover](https://i.discogs.com/XLNk42bHgKP5igFDaRSfe9za3WRI9jRp6p2DYG0j43c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTEy/OTMtMTQxNTcxOTU3/Ni0zMTk3LmpwZWc.jpeg) | 2002-01 | Dietrich Buxtehude | Organ Music, Volume 2 (Julia Brown) |
+| 2 | ![Cover](https://i.discogs.com/taJDc5fixUXmAvYTPiWiBj_t5qFm8yAAKEZvxlgho20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQx/ODcwLTE1Njg3MzM1/MjAtNjA1OS5qcGVn.jpeg) | 2002-02-01 | Gunnar Idenstam | Idenstam: Cathedral Music |
+| 5 | ![Cover](https://i.discogs.com/WgswCIELcN2qLUjtU5rTd9Rc3tXmTZXBV9gzfrESjYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUw/MzM5LTE1OTAxNDky/ODQtODI0My5qcGVn.jpeg) | 2002-05-22 | Olivier Messiaen | Messiaen: Complete Organ Music, Vol. 3 |
+| 10 | ![Cover](https://i.discogs.com/sEjtJk-d4S3xxqucDNkjcmDzhgkIiGmzi1neKGmlHTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Mjg3/OTQtMTQ4NTQ0NTI3/Mi01MzEwLmpwZWc.jpeg) | 2002-05-22 | Olivier Messiaen | Messiaen: Les corps glorieux |
+| 11 |  |  | Franz Lehrndorfer | BACH &#x2F; REGER: Organ Music |
+| 49 | ![Cover](https://i.discogs.com/sEjtJk-d4S3xxqucDNkjcmDzhgkIiGmzi1neKGmlHTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Mjg3/OTQtMTQ4NTQ0NTI3/Mi01MzEwLmpwZWc.jpeg) | 2002-05-22 | Olivier Messiaen | Messiaen Oeuvres Orgue |
+| 57 | ![Cover](https://i.discogs.com/WgswCIELcN2qLUjtU5rTd9Rc3tXmTZXBV9gzfrESjYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUw/MzM5LTE1OTAxNDky/ODQtODI0My5qcGVn.jpeg) | 2002-05-22 | Olivier Messiaen | Messiaen: Complete Organ Music, Vol. 1 |
+| 86 | ![Cover](https://i.discogs.com/HkTMvM2TrQ2eACTshC2d4wGCaIVqNbyGx8l61dmJAww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDc5/MjAtMTU1MzkxMjI3/Ny00MDUwLmpwZWc.jpeg) | 2002-05-22 | Olivier Messiaen | Organ Registration |
+| 88 | ![Cover](https://i.discogs.com/WgswCIELcN2qLUjtU5rTd9Rc3tXmTZXBV9gzfrESjYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUw/MzM5LTE1OTAxNDky/ODQtODI0My5qcGVn.jpeg) | 2002-05-22 | Olivier Messiaen | Messiaen, O: Organ Music (Complete) |
+| 6 | ![Cover](https://i.discogs.com/l2nglJuM3GZiTnfr5hBH_K74mVng3aY60ZX_nZl_Tec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzQz/MDMtMTM2NzYyNzk5/NC0yNzY4LmpwZWc.jpeg) | 2003 | Greg Morris | Sounds Inspirational - Organ Music for Pentecost |
+| 47 |  | 2003 | Felix Hell | Organ Sensation |
+| 92 | ![Cover](https://i.discogs.com/hl7YN4piZa71Kc5B08rVqUvcdXMETpso9SqRZ9gYMsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQy/MDY3LTE1MTY0MDMz/NTEtNzQ2NC5qcGVn.jpeg) | 2003 | Stephen Cleobury | Organ Favourites from King&#39;s College, Cambridge |
+| 7 | ![Cover](https://i.discogs.com/6-D3c27IybfAdkKxThTqQ5HyPO9g4zIw909ugUT9oO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE0/MDE0LTE2NDc5MDM3/OTQtNzUzMi5qcGVn.jpeg) | 2004 | Timothy Byram-Wigfield | The Kelvingrove Organ |
+| 14 | ![Cover](https://i.discogs.com/4SfnMIWGQHlt_Dw4X10dSlPy1OQkx6xi0lonFAilrNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODk0/MDgtMTQzMDk5NDUw/NC0yOTQwLmpwZWc.jpeg) | 2004 | Johan Hedin | Latar - Swedish Folk Tunes |
+| 26 | ![Cover](https://i.discogs.com/VuYycFzrw4vLG4qF9TGsXlqSDFkWpw7KYCJFmmeqFx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTIw/NzUtMTI4Njk4MTMw/Ny5qcGVn.jpeg) | 2004 | Arvo Pärt | The Music for Organ |
+| 16 | ![Cover](https://i.discogs.com/9z9fwriUnMByBJHeFFAHU_g9gc0OdCzEUSGlOVyo1wQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTUw/ODEtMTQxODE2MTgz/Ni01ODY5LmpwZWc.jpeg) | 2008-10-13 | Olivier Messiaen | Hommage a Messiaen |
+| 41 | ![Cover](https://i.discogs.com/9z9fwriUnMByBJHeFFAHU_g9gc0OdCzEUSGlOVyo1wQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTUw/ODEtMTQxODE2MTgz/Ni01ODY5LmpwZWc.jpeg) | 2008-10-13 | Olivier Messiaen | Complete Organ Works D2 |
+| 44 | ![Cover](https://i.discogs.com/YEuNrZ-3Oe3SDfvxEDRMixIKAdCFjLllXRsATUdTPr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjAz/MDUtMTUwNzA1ODY2/OS03NTcyLmpwZWc.jpeg) | 2008-10-13 | Olivier Messiaen | Complete Organ Works D4 |
+| 45 | ![Cover](https://i.discogs.com/MeIDuTcO2U48hcrQa3zrsiKwig55fu7hCWIBP_dUfis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzU4/OTc3LTE2NDU3MzIx/NDctMjcyMy5qcGVn.jpeg) | 2009 | Gerard Brooks | Abbey Spectacular! Organ Favourites from St. Ouen, Rouen |
+| 78 | ![Cover](https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg) | 2009 | Various Artists | Organ Recital: Timothy Olsen |
+| 36 | ![Cover](https://i.discogs.com/JyJE-7UMscS-lhTsx68O5x8fM8JGnZnKt0_RJPWyDJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTQ1/NDAtMTQwNTYyOTAw/MC0zOTQ0LmpwZWc.jpeg) | 2010 | Mats Norrefalk | Alain &#x2F; Durufle: Organ Works |
+| 39 | ![Cover](https://i.discogs.com/KMuA0KqYdk63GKtxl5JrwM0reX-DH7N8pphrOhR22AA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDg0/OTYtMTQ3NTYxNTAy/MS03MzM2LmpwZWc.jpeg) | 2010 | Gunnar Idenstam | CHRISTMAS Folkjul - A Swedish Folk Christmas |
+| 30 | ![Cover](https://i.discogs.com/EldahZfxyQ6nrnTyyJZ5eUB_4luz2yahMtpWlfRou9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ2/NTM1LTE1ODI3NjA5/MDYtNTA5NC5qcGVn.jpeg) | 2012 | Helmut Walcha | Bach: Prelude and Fugue; Fantasia |
+| 18 | ![Cover](https://i.discogs.com/fPU1-bNZixuI7XoCFpGHN1zevQllSmY63isAQHLAnKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI1/MTg0LTE2NDI1MjI3/NTQtNjY2OS5qcGVn.jpeg) | 2013 | Torvald Torén | Johann Sebastian Bach Organ Works, Vol. 1 – The Cahman Organ in Leufsta Bruk |
+| 29 | ![Cover](https://i.discogs.com/3DSv9d5XIe3DUrAzlNu5eZCAjHhUvKGtpmzxBHgomy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg0/NDkyLTE2MzM5NTg4/NTktNjcxMi5qcGVn.jpeg) | 2013 | Alexandre Guilmant | GUILMANT, Felix-Alexandre: Allegro assai from Sonata No. 1 D minor |
+| 64 | ![Cover](https://i.discogs.com/3PIPKpaLWINWSjcYpFts4t_FsbA5W58rYR6SIYJW_5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkz/NzkxLTE1MzA4MTUy/MTctODExMC5qcGVn.jpeg) | 2017 | Angèle David-Guillou | Mouvements Organiques |
+| 100 | ![Cover](https://i.discogs.com/P5FJyHXuL-E5OQUsvidB_1Ymf90yrCUZd_TTRxrrYkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODEz/Nzc0LTE1NjE3MDUz/NzAtMzg2My5qcGVn.jpeg) | 2019-06-27 | Kali Malone | The Sacrificial Code |
+| 3 | ![Cover](https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg) | 2023 | Various Artists | Baltic Organ Music |
+| 81 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2023 | Various Artists | Organ Showpieces from St. Paul&#39;s Cathedral |
+
+### Related genres
+
+- [organ]({{ "/tags/organ" | relative_url }})
+- [baroque]({{ "/tags/baroque" | relative_url }})
+- [classical]({{ "/tags/classical" | relative_url }})
+- [conductor]({{ "/tags/conductor" | relative_url }})
+- [musique francaise]({{ "/tags/musique-francaise" | relative_url }})
+- [baroque francais]({{ "/tags/baroque-francais" | relative_url }})
+- [choral]({{ "/tags/choral" | relative_url }})
+- [piano]({{ "/tags/piano" | relative_url }})
+- [easy listening]({{ "/tags/easy-listening" | relative_url }})
+- [hamburg]({{ "/tags/hamburg" | relative_url }})

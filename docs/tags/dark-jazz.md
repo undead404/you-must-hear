@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-18T16:10:17.221Z
+permalink: tags/dark-jazz
+title: dark jazz
+---
+
+## dark jazz
+
+Last updated: <time datetime="2025-10-18T16:10:17.221Z">Sat Oct 18 2025 19:10:17 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 36 |  | 1990-08-31 | Angelo Badalamenti | Soundtrack From Twin Peaks |
+| 77 | ![Cover](https://i.discogs.com/jITTaFefcEE3snZPEuMS3VSgB907M7C9cWcLhNnyCic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjQ3/NDEtMTQ4NzUzNzg2/NS01MTA0LmpwZWc.jpeg) | 1992 | Angelo Badalamenti | Twin Peaks: Season Two Music and More |
+| 82 |  | 1992-08-10 | Angelo Badalamenti | Twin Peaks: Fire Walk with Me |
+| 25 |  | 1994 | Bohren &amp; der Club of Gore | Gore Motel |
+| 21 |  | 1995 | Bohren &amp; der Club of Gore | Midnight Radio |
+| 76 | ![Cover](https://i.discogs.com/Zo661WTE9tYg7SsOqtiaCj1q8wf9bxDg3F4Vl55Xzfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTE0/Ny0xNDQzNDI5OTA3/LTMwNzkuanBlZw.jpeg) | 1995-03-13 | Morphine | Night |
+| 18 | ![Cover](https://i.discogs.com/trAyPCBO-KRG0dlhoVLWN4eW8h982GtHGS0-h4dLn_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzY1/NC0xMzAxMzU4MDgy/LmpwZWc.jpeg) | 1997-01 | Bohren &amp; der Club of Gore | Midnight Radio [Disc 2] |
+| 19 | ![Cover](https://i.discogs.com/trAyPCBO-KRG0dlhoVLWN4eW8h982GtHGS0-h4dLn_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzY1/NC0xMzAxMzU4MDgy/LmpwZWc.jpeg) | 1997-01 | Bohren &amp; der Club of Gore | Midnight Radio [Disc 1] |
+| 68 | ![Cover](https://i.discogs.com/NSphTKSpsSPXQKwAElPN-xivx0Ce1fc1eT2TqK_pZQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTgy/Ny0xMTY0MTk1NTQy/LmpwZWc.jpeg) | 1999 | Kammerflimmer Kollektief | Incommunicado |
+| 96 |  | 2000-02-25 | Bohren &amp; der Club of Gore | Sunset Mission |
+| 69 |  | 2001-03-25 | Kammerflimmer Kollektief | Hysteria |
+| 59 |  | 2002-10-28 | Bohren &amp; der Club of Gore | Black Earth |
+| 62 |  | 2005 | The Real Tuesday Weld | The Return Of The Clerkenwell Kid |
+| 72 | ![Cover](https://i.discogs.com/utOJGHH8n-LqGIEVK_6XaQRP2tGz1jbWWVCxKZOu4Cc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTcx/Ny0xMjQ4OTg2Mjkx/LmpwZWc.jpeg) | 2007-05-18 | Kammerflimmer Kollektief | Jinx |
+| 57 |  | 2007-06-05 | The Mount Fuji Doomjazz Corporation | Doomjazz Future Corpses! |
+| 87 |  |  | Twin Peaks (Limited Event Series Soundtrack) | Twin Peaks (Limited Event Series Soundtrack) |
+| 23 | ![Cover](https://i.discogs.com/iCNA2a2y7qpbUz4HO7K3eIPm7oZOqBgKpLbvNmFiQm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mzc0/LTExNjQxOTk3NTMu/anBlZw.jpeg) | 1999 | Kammerflimmer Kollektief | Maander |
+| 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/05fff0ec0d8786e4269f104abdd58dab.png) | 2000-01 | Morphine | The Night |
+| 6 |  | 2000-04-04 | The For Carnation | The For Carnation |
+| 11 |  | 2001-09-11 | The Real Tuesday Weld | Where Psyche Meets Cupid |
+| 92 |  | 2003-04-14 | Kammerflimmer Kollektief | Cicadidae |
+| 38 |  | 2004 | Microbunny | Dead Stars |
+| 94 |  | 2005-05-02 | Bohren &amp; der Club of Gore | Geisterfaust |
+| 89 |  | 2006 | Dale Cooper Quartet &amp; The Dictaphones | Parole de Navarre |
+| 100 |  | 2006-05-01 | The Kilimanjaro Darkjazz Ensemble | The Kilimanjaro Darkjazz Ensemble |
+| 1 | ![Cover](https://i.discogs.com/dNheStrM9defAiPNudv5UKCYVmOkqtZR6RwBdWJGfIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDk4/NTctMTIxOTY3NzMy/NC5qcGVn.jpeg) | 2007 | Marek Zebrowski &amp; David Lynch | Polish Night Music |
+| 49 | ![Cover](https://i.discogs.com/QPEnbzO1N1ybUVKxjQs8gt-2BTl0trdUIZJKDj58YKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTY0/NDMtMTM5NDI5NDg3/Ni03NzEyLmpwZWc.jpeg) | 2007-01-15 | Somewhere off Jazz Street | Stories from Midnight Streets |
+| 48 | ![Cover](https://i.discogs.com/xMg3HIm9pDGWRWvjwOpWHRPFBNgXWnF0RoXIlFrzs1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIw/ODczLTE1NzkzODgz/MzAtMTI5Ni5qcGVn.jpeg) | 2007-04-02 | Throbbing Gristle | Part Two - The Endless Not |
+| 2 | ![Cover](https://i.discogs.com/-BRUC9NV9Qld8_8qYRSDNmycI2sb_GuXAtFbOs0HXTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA4/NDAtMTI5NjczNDg4/NC5qcGVn.jpeg) | 2008 | Somnambulist Quintet | Somnambulist |
+| 24 | ![Cover](https://i.discogs.com/-MzCdZxL4E27VQ1fWTaalkRkSmB3FEoP5WscjBbfWUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzEx/OTQtMTIxOTE2NDcz/MS5qcGVn.jpeg) | 2008 | The Real Tuesday Weld | The End Of The World |
+| 44 |  | 2008 | Povarovo | Tchernovik |
+| 63 | ![Cover](https://i.discogs.com/ddE8WiAl3RzbO-K0t1T4rnp24LT3xwWXN95TRLpTD3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzI0/NjM3LTE2MTg1OTAz/MjEtNjE1NC5qcGVn.jpeg) | 2008 | Swami LatePlate | Doom Jazz |
+| 17 | ![Cover](https://i.discogs.com/BSsjrDX9hQsWb-0p6vjrqK9Icrq5Ti_ZoHOK4RnULgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTM2/ODQtMTMwMTMwMDIy/NS5qcGVn.jpeg) | 2008-08-01 | Bohren &amp; der Club of Gore | Midnight Radio (CD 2) |
+| 35 | ![Cover](https://i.discogs.com/_1E5fiU0LcF2vOIanKITAa3dXNIdKxqUmZ4tTYn6oq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTY1/NDYtMTM4ODg3MTUw/MS0yMDYxLmpwZWc.jpeg) | 2008-09-01 | Somewhere off Jazz Street | Road to Somewhere |
+| 97 |  | 2008-10-10 | Bohren &amp; der Club of Gore | Dolores |
+| 30 | ![Cover](https://i.discogs.com/hfFfQ6oNRkmxmdkhhbxQKIXCuiC_ICG9Au7IJ9FHJDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njcy/MDYtMTI1NTU5MjYy/MS5qcGVn.jpeg) | 2009 | The Kilimanjaro Darkjazz Ensemble | Tribute to Moondog |
+| 91 |  | 2009-01 | The Kilimanjaro Darkjazz Ensemble | Mutations EP |
+| 67 |  | 2009-04-15 | Heroin and Your Veins | Nausea |
+| 4 | ![Cover](https://i.discogs.com/xaIWjgN1M7QtkPyaQnjNZiWghZmI81-UIqHebNX8dG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTkx/NTctMTMzNzYyMDE4/NS05NjMyLnBuZw.jpeg) | 2009-05-24 | Count Greglache | Crypto-Phantom |
+| 56 |  | 2009-06 | The Mount Fuji Doomjazz Corporation | Succubus |
+| 39 |  | 2009-07-27 | Somewhere off Jazz Street | Beyond This |
+| 99 |  | 2009-10-30 | The Kilimanjaro Darkjazz Ensemble | Here Be Dragons |
+| 29 | ![Cover](https://i.discogs.com/yMcMIx-x7J4YPUBU2XIQjeS7UXxkbWKmRPbGFX5UVlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA4/NjEtMTI5NjczNTgz/MS5qcGVn.jpeg) | 2010 | Somnambulist Quintet | The Big Sleep |
+| 42 |  | 2010-02-04 | Homestuck | Midnight Crew: Drawing Dead |
+| 66 |  | 2010-02-26 | Kammerflimmer Kollektief | Wildling |
+| 3 | ![Cover](https://i.discogs.com/0MsMd4nKU-eQgSX_cAWVuldkofRcOkDg3E4vsvc4BIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTY2/MjMtMTM4ODg3MTI0/My0xMjYwLmpwZWc.jpeg) | 2010-03-29 | Somewhere off Jazz Street | Whispers of Empty Spaces II |
+| 14 |  | 2010-03-30 | Somewhere off Jazz Street | Whispers of Empty Spaces |
+| 95 |  | 2011-03-01 | The Kilimanjaro Darkjazz Ensemble | From the Stairwell |
+| 41 | ![Cover](https://i.discogs.com/gzoxFOpnTVU625Imb2nnqqYDV1Own9tzaofzLQOSlgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTYz/NjMtMTM4ODg2NzI0/Ny02NTcyLmpwZWc.jpeg) | 2011-03-11 | Somewhere off Jazz Street | A Quiet Light |
+| 7 | ![Cover](https://i.discogs.com/VKBe1zLs1rEQciauuXu8dam9yjd1N88uXoCqY8DYJf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDEw/NTQtMTQwMTAzMjM1/OS01OTg5LmpwZWc.jpeg) | 2011-04-22 | Côte Déserte | Dale Cooper&#39;s Case |
+| 84 | ![Cover](https://i.discogs.com/ByyS5qN6LEAsuAv-ecn9UjvDo3dxeDCb7hZx8YXwKF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjI4/MDgtMTQxNzUxNDgy/OS05NjE4LmpwZWc.jpeg) | 2011-07-12 | The Real Tuesday Weld | The Last Werewolf |
+| 13 | ![Cover](https://i.discogs.com/gsyCtt-LbdxuKYDWknG3Mo10RcNkkoDaR6wW-Vl1L6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODQ3/OTQtMTQxMDgwNTIy/Ni0zNjQ4LmpwZWc.jpeg) | 2011-08 | Splashgirl | Pressure |
+| 70 |  | 2011-12-16 | The Kilimanjaro Darkjazz Ensemble | I Forsee The Dark Ahead, If I Stay |
+| 26 |  | 2012-01-17 | Hypnobooster | Hypnobooster |
+| 15 |  | 2012-04-06 | Kaiti Kink Ensemble | Under the Iron Sky |
+| 31 |  | 2012-05-15 | Evan Caminiti | Night Dust |
+| 22 | ![Cover](https://i.discogs.com/POuBcM9rhF7a8IH8XgN4sJ1vCfwRwOvO8BxwfZoF_lY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTI0/NjUtMTM5NTk2MDMz/Mi0xMzgxLmpwZWc.jpeg) | 2013 | Splashgirl | Field Day Rituals |
+| 12 | ![Cover](https://i.discogs.com/fQHm0ghIYPbeew6Z9r5LYJdh_wNL1YYD2No-EUdQwvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NzI4/MTQtMTQyMDA3OTE3/Mi01NDM2LmpwZWc.jpeg) | 2013-02-26 | Manet | Dolomiten |
+| 64 |  | 2013-03-26 | The Mount Fuji Doomjazz Corporation | Roadburn |
+| 20 | ![Cover](https://i.discogs.com/pwHi0XPaAiD3qqrxaQmmvm-DN5RckKcu1Nzj1QIrSPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzA0/NTYtMTM3MDQ2MzUy/MC01MDkzLmpwZWc.jpeg) | 2013-05-17 | Witxes | A Fabric Of Beliefs |
+| 73 | ![Cover](https://i.discogs.com/FZU92K6bOdNjJPDXvPQBlSAYde3u7uCd6lMaB3AEO3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDY1/ODMtMTM3NDE5MDE4/Mi05NDc1LmpwZWc.jpeg) | 2013-05-21 | Trigg &amp; Gusset | Legacy of the Witty |
+| 61 |  | 2013-07-01 | Marsen Jules Trio | Présence Acousmatique |
+| 5 | ![Cover](https://i.discogs.com/ETQzaPobE148ngFODN25CiJHM1UFfTzMU3AJIiCiKmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDk2/ODktMTM4NDQwNDM3/Ny03NTk4LmpwZWc.jpeg) | 2013-09-10 | Gamardah Fungus | Night Walk With Me |
+| 40 |  | 2013-09-27 | Dale Cooper Quartet &amp; The Dictaphones | Quatorze Pièces de Menace |
+| 33 | ![Cover](https://i.discogs.com/xs4D9xKyblfnkugvjiJvkBCCVdC5Lmn0BHDtPM93OS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDAz/MDYtMTM4MTc3NTU0/OS00NDkzLmpwZWc.jpeg) | 2013-10 | Dale Cooper Quartet &amp; The Dictaphones | Quatorze Pieces De Menace |
+| 65 | ![Cover](https://i.discogs.com/x6joN8HX03KsH_G75mCd6lDBtCrUyW6It99_CgF0LJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzE4/MDctMTM5MzE5MjMx/Ny0yOTc1LmpwZWc.jpeg) | 2014 | Current 93 | I Am the Last of All the Field That Fell (A Channel) |
+| 98 |  | 2014-01-24 | Bohren &amp; der Club of Gore | Piano Nights |
+| 37 | ![Cover](https://i.discogs.com/jYR2NnpaMPpvGoeoiMKJjUE6ewRZHsb2nnRngXpMM2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDc2/MTAtMTQwMTU1Mzk2/My02ODc3LmpwZWc.jpeg) | 2014-05-05 | Триагрутрика | Базирование |
+| 80 | ![Cover](https://i.discogs.com/ftrhx2LTaAHfEpNQ8GHPz1RFxXtP4ALZI0IARlHO0G8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgx/OTk2LTE1Nzc1MzM4/NjQtMzYxOC5qcGVn.jpeg) | 2015 | Dale Cooper Quartet &amp; The Dictaphones | Metamanoir |
+| 52 | ![Cover](https://i.discogs.com/Z0jQ8QrHfVWw6kubnRgR1nMKDqmXS5ebGocB5CrEhw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTU2/ODUtMTQyNTIxNDA0/My00NTY4LmpwZWc.jpeg) | 2015-02-20 | Fogh Depot | Fogh Depot |
+| 79 | ![Cover](https://i.discogs.com/ZYC9nDoDxXpA0kZGCu84tEUZsegr0QdoBCWe9757ywQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTU5/NzUtMTQ0MjY3MzYx/MC02MDg4LmpwZWc.jpeg) | 2015-09-16 | Radare | Im Argen |
+| 78 | ![Cover](https://i.discogs.com/VrRyBRIU7dfuM9Co4vzVN3Wv9XOEu5EE6KC-UVejY2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDEy/NTQtMTQ1NDAwNzc1/OS0yMDgwLmpwZWc.jpeg) | 2015-11-09 | Trigg &amp; Gusset | Adagio for the Blue |
+| 85 | ![Cover](https://i.discogs.com/Xw8LNt956JWmMxjMyRenIEXPYi6SruKFtBC2Tj7gFqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTIy/NTUtMTQ1OTkzNjk3/OC05NzQyLmpwZWc.jpeg) | 2016-04 | Xiu Xiu | Plays the Music of Twin Peaks |
+| 47 | ![Cover](https://i.discogs.com/KiDfQxPRp_6DYBC2AWB98OIkVLxm9f9HW_s6u6ocTY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjIz/OTctMTQ2MTMwOTQx/My0zNzY2LnBuZw.jpeg) | 2016-04-20 | Manet | Dark side of the valley |
+| 81 | ![Cover](https://i.discogs.com/0_KrvBPvE9wcNgrvvbdrLSJEnTLMcB02_hSE3sWXceo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIz/NDkwLTE1ODQxNjQy/MDUtOTY3OC5qcGVn.jpeg) | 2016-07-15 | Lowering | Happiness |
+| 34 | ![Cover](https://i.discogs.com/-GiSCnhaJ8ikJg8AwPXJo8nD7wKBHqOpHrOsuodP3As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTY2/OTMtMTUyMzIxNzA3/Ny01MDExLmpwZWc.jpeg) | 2016-10-21 | Fogh Depot | Turmalinturm |
+| 83 | ![Cover](https://i.discogs.com/Iei5euy9BmWcGI5hrbhl-LdFn8tn_A60nh3GZKO_z5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/MDUyLTE0OTQ5NTEz/ODUtMzY5MC5qcGVn.jpeg) | 2017-05-20 | Manet | Devour |
+| 32 | ![Cover](https://i.discogs.com/vA8tZpaodOD0D2vaVaAHZzVdYsDJNTBCymUJ_VlHu74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzUy/OTgwLTE0OTgzMTUx/MjMtOTQ5NC5qcGVn.jpeg) | 2017-06 | Dale Cooper Quartet &amp; The Dictaphones | Astrild Astrild |
+| 60 | ![Cover](https://i.discogs.com/nxAED-jdGKf5GmVQTWPGQIMI8RDC0uE_R54bvbPVhSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjY1/ODU1LTE1MTMwMjUw/ODQtNjMzMS5qcGVn.jpeg) | 2017-12-12 | Wordclock | Heralds |
+| 46 | ![Cover](https://i.discogs.com/OgrgH4P4tkKp0tVHaiA21UPlEnJDv4uLYZnFTQQoCaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDI0/MzcyLTE1MTYwODkx/NzctMzU4MS5qcGVn.jpeg) | 2018-01-15 | The Thing With Five Eyes | Noirabesque |
+| 75 | ![Cover](https://i.discogs.com/Cx-neLJFmAJU-5UXRZU63ygS4hjdfKtPzjWQFM_NCO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU2/NjY3LTE1NTI2Njk3/MzEtMzU1OC5qcGVn.jpeg) | 2018-06-22 | Nine Inch Nails | Bad Witch |
+| 55 | ![Cover](https://i.discogs.com/QDYwW5fhfE3ZOzczOEY2CDNdtyu0cpH9rnazhpskr-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIz/NDc3LTE1ODQxNjM3/NjItNDg0MC5qcGVn.jpeg) | 2018-06-24 | Lowering | Brooklyn |
+| 45 | ![Cover](https://i.discogs.com/RZKRLweVrci4mxh90mS9cUmk4y9b6q6ar3uhBtfW4cU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDI5/NjQwLTE1MjY4ODA3/NjgtMzk4NC5qcGVn.jpeg) | 2018-06-29 | Johnny Jewel | Themes For Television |
+| 8 | ![Cover](https://i.discogs.com/PdYDP6gboAGXOIW74hhxtUQl_sMnKdCDcVywr1JtMd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzUy/NDAwLTE1NTI2MDI1/NzEtNzI2My5qcGVn.jpeg) | 2019-03-08 | Bong-Ra | Antediluvian |
+| 54 | ![Cover](https://i.discogs.com/ZDtOM76NoU4MumuJGs4EKl1InGFbG1YZqMzS79k-uVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM1/NTA4LTE1NTQxNTQw/MDEtNTQ0NC5qcGVn.jpeg) | 2019-03-29 | Radare | Der Endless Dream |
+| 27 | ![Cover](https://i.discogs.com/le2j_-F24ud0nm079tF8tFL7dvxd6oXa-5dmge3o5Gg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTMz/NDE2LTE1NjQzNjky/MDUtOTEyMC5qcGVn.jpeg) | 2019-07-28 | Jorja Chalmers | Human Again |
+| 93 | ![Cover](https://i.discogs.com/Vq2p4JgCA3GKmzy8w97uL_A049J3yXv89_G6m-zEhiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg0/MDg2LTE1ODA2NjE0/MTUtNjE3OS5qcGVn.jpeg) | 2020-01-24 | Bohren &amp; der Club of Gore | Patchouli Blue |
+| 86 | ![Cover](https://i.discogs.com/ayIjnFj9qCmTOXGSGb805LqtFwrUgNeaRx3869fhNBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTky/NzQ5LTE1ODUyMzA1/MDYtMjkxMS5qcGVn.jpeg) | 2020-03-27 | Nine Inch Nails | God Break Down the Door |
+| 16 | ![Cover](https://i.discogs.com/2Tm6H4_PMU0xGHLRQR11uURZxYp6O6IvMn8CC6JI9so/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjA0/OTUzLTE2NDg4NDA1/OTQtMzE2Ni5qcGVn.jpeg) | 2020-05-01 | aging | Sentenced To Love |
+| 53 | ![Cover](https://i.discogs.com/fzVSy5Yzc2s7ZB2VrUNUC3zFmws9fPGhjcmaeY1Smj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzI0/NDk1LTE1NDA3NTMw/NTctMzQxNC5qcGVn.jpeg) | 2020-06-26 | Junkyard Shaman | Silence, Then Pause |
+| 90 | ![Cover](https://i.discogs.com/s5ROKnTA7Ck9-ipeqIgf1oXq9qk3buUfAO7aMbCZtkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjAx/MzgtMTQ4MTA3NzI2/Ny0yNzYxLmpwZWc.jpeg) | 2021-03-10 | Bohren &amp; der Club of Gore | Bohren For Beginners |
+| 50 | ![Cover](https://i.discogs.com/jrAm_3y4E9JOTmYvps17RRD9kESgvcGdAcWk8K2gFo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTEz/MDQyLTE2MjIxNzg5/MTctNzk1OS5qcGVn.jpeg) | 2021-05-28 | Jorja Chalmers | Midnight Train |
+| 74 | ![Cover](https://i.discogs.com/97uUmcv63nAxVc1fcrUtkXpIr2jpS5aCpjR7yoxGZEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzE5/OTgxLTE2MzUxMjg0/MDQtMjc5OC5qcGVn.jpeg) | 2021-10-01 | Trigg &amp; Gusset | Black Ocean |
+| 10 | ![Cover](https://i.discogs.com/itn-kZZhhT9h3TDOmU21Vh7qaJ4Pq55P2YmnlP1smQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjI0/NzA5LTE2NDgxMTIy/NTktNDQzNi5qcGVn.jpeg) | 2022 | The Nest | Her True Nature |
+| 51 | ![Cover](https://i.discogs.com/FEOKOYAuxZQwPZpN9k-JrtNu8g-400ZT68JFwGJiNgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjI0/NjE5LTE2NTAyODc2/MDEtOTU4OC5qcGVn.jpeg) | 2022-04-01 | Niechęć | [self-titled] |
+| 28 | ![Cover](https://i.discogs.com/0ultD9f8Wy6PC5qT259uF7H-r9XULJQJIPha7bnk9j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODIx/NTExLTE2ODE5OTQ4/MjktOTY2NC5wbmc.jpeg) | 2022-08-12 | Куок | Decadance |
+| 43 | ![Cover](https://i.discogs.com/xNha1stp4Azz9bttSmnteVwpkMhtTxp8Ycl2XxCA-Vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDI5/MDY3LTE2NjgxODUy/MzMtOTk0MS5qcGVn.jpeg) | 2022-11-01 | Dead Melodies | Murken Hollow |
+| 9 | ![Cover](https://i.discogs.com/HWUxSEgWjWYpqIPdi2r4JUHhx6xsj2MRM0olZGAQefg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzU2/NzQ1LTE2NzgzNjYx/NTUtMjc3NS5qcGVn.jpeg) | 2023-03-10 | The Lovecraft Sextet | Black†White |
+| 58 | ![Cover](https://i.discogs.com/5yC37EOKHAdA71qkwvXWI3SmtK_nN6HXo3MSutZv0gA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTMx/NjY2LTE2OTY3NTg0/OTctOTA5NS5qcGVn.jpeg) | 2023-10-01 | Dated | The Cold Dark Somewhere |
+| 71 |  |  | Joel Fausto &amp; Illusion Orchestra | Illusion Orchestra At The Gloomy Club |
+
+### Related genres
+
+- [dark ambient]({{ "/tags/dark-ambient" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [jazz]({{ "/tags/jazz" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})
+- [post-rock]({{ "/tags/post-rock" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [soundtrack]({{ "/tags/soundtrack" | relative_url }})
+- [jazz fusion]({{ "/tags/jazz-fusion" | relative_url }})
+- [electronica]({{ "/tags/electronica" | relative_url }})
+- [drone]({{ "/tags/drone" | relative_url }})

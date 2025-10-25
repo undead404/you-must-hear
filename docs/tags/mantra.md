@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T02:06:13.237Z
+permalink: tags/mantra
+title: mantra
+---
+
+## mantra
+
+Last updated: <time datetime="2025-10-22T02:06:13.237Z">Wed Oct 22 2025 05:06:13 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 5 |  |  | Felix Maria Woschek &amp; Friends | Mystic Dance |
+| 6 |  |  | Apples From Mars | Apple Number One |
+| 7 |  |  | Donna DeLory | Bliss |
+| 11 |  |  | DKeny | Yoga X |
+| 21 |  |  | Madhumiita | Om Madhu |
+| 24 |  |  | Dakini- Sytra Serdtsa | MANTRA |
+| 26 |  |  | Madhumiita | Spiral of Love |
+| 32 |  |  | Subway Bhaktis | Sita Ram |
+| 42 |  |  | Shantanu Bhattacharyya | Durga Kirtan |
+| 8 | ![Cover](https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg) | 1972 | Various Artists | Aum42 Meditation Music |
+| 49 | ![Cover](https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg) | 1977 | Various Artists | Asana |
+| 2 | ![Cover](https://i.discogs.com/dpOqjyjoAGkNJtOwyjJkXIBW7-EDRS0dLga4OWcHxVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mjcw/MzktMTQ2OTYwODY2/My03Mjc3LmpwZWc.jpeg) | 1990 | Pandit Jasraj | Rattan Mohan Sharma&#x2F;Gayatri |
+| 47 | ![Cover](https://i.discogs.com/0xh8WcvcUege9Ogz29H-UbqtsT7p-gXeM9hbsgR43N4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjM5/ODUtMTQ0ODI4ODE4/OS0xODgzLmpwZWc.jpeg) | 1991 | Thomas Barquee | The Sound of Om |
+| 15 | ![Cover](https://i.discogs.com/i1bdnh7kKNqdyh1CYxXK47nW2BzCHknQdx8miIKamSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTM3/OTktMTMzMzQ1MDI5/NC5qcGVn.jpeg) | 1994 | On Wings Of Song &amp; Robert Gass | Heart of Perfect Wisdom - A Sufi Song of Love |
+| 10 | ![Cover](https://i.discogs.com/RqHOMlgEQInWfAhHL05uyv7dzEOMuqZPWvVxtA1gaLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTk4/MzYtMTYwMzE5Nzcw/My0xMjIzLmpwZWc.jpeg) | 1995 | Pandit Jasraj | Maheshwara Mantra |
+| 14 |  | 1997-08-19 | Jai Uttal And The Pagan Love Orchestra | Shiva Station |
+| 17 |  |  | Chandra Lacombe | Circle Songs vol.2 |
+| 54 |  |  | Amrit Kirtan | Sacred Circle |
+| 55 |  |  | Dave Grohl, Joshua Homme, Trent Reznor | Sound City - Real to Reel |
+| 58 |  |  | Georg Taraman | amb000 |
+| 59 |  |  | Mantrance | Mantra Lounge Vol.1 |
+| 61 |  |  | Bhakti Music | Medicine Buddha |
+| 67 |  |  | AtmAsfera | ...Forgotten Love |
+| 77 |  |  | Chandra Lacombe | Sounds Of Awakening - Healing Mantras |
+| 19 | ![Cover](https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg) | 1972 | Various Artists | Asana 2 - Moving Meditation |
+| 28 | ![Cover](https://i.discogs.com/wj0tf2jSXzVqAkXjBA8G8x3AVmXLzXmJni9bzEJa__s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzYx/MDQtMTUzMjIyMDA3/OS0yNjA2LmpwZWc.jpeg) | 1986 | Robert Gass | Om Namaha Shivaya |
+| 43 | ![Cover](https://i.discogs.com/5oKbLd1jJfTuzbGNXbnAMxbJOE_VpFdG7jr5P6mB5SQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTk1/NzgtMTYyMjY3OTk4/NS02OTk5LmpwZWc.jpeg) | 1990 | Nada Shakti &amp; Bruce Becvar | Samadhi |
+| 86 | ![Cover](https://i.discogs.com/0q3DMdXLZqcw6Zr9Ja9ReoK0lC_JAHj_W86JhqvWyf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQw/MzIxLTE1MzMyNzAz/ODktNzgxMi5qcGVn.jpeg) | 1993 | Bhagavan Das | Golden Voice |
+| 20 | ![Cover](https://i.discogs.com/Pqa7JlnvB5X3t8VD0WhqEanUbeEMm0emcN3bXS6LTd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODUy/MDk3LTE1ODI4Mjc1/MDAtMjE1OC5qcGVn.jpeg) | 1994 | Nada Shakti &amp; Bruce Becvar | Jiva Mukti |
+| 37 | ![Cover](https://i.discogs.com/_o4kp6b-lewUhF_cPdLwzt1CGy8l0GduAXZCppKMV6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzY3/NTEtMTUzMjE5NTk0/OC0xMDkxLmpwZWc.jpeg) | 1996 | Robert Gass &amp; On Wings Of Song | Om Namaha Shivaya |
+| 45 | ![Cover](https://i.discogs.com/-espb4niERv1Jdr24BWiAKBPS-rKg3X-s__K_Fa6sXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjkx/MTYtMTU3MDc3OTM2/MS0xMjQyLmpwZWc.jpeg) | 1996 | Chloe Goodchild | Devi |
+| 63 |  | 1996 | Krishna Das | One Track Heart |
+| 84 |  | 1997-05-06 | Ravi Shankar | Chants Of India |
+| 22 | ![Cover](https://i.discogs.com/BAcIQrQDLRdO-HXlf6CC6XO-auC9HDr7sAlYQj4WqdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDg5/NTcwLTE2NzA5MDEz/NzEtMjA2Ny5qcGVn.jpeg) | 1998 | Tomaz Lima | Haribol |
+| 100 | ![Cover](https://i.discogs.com/OXAmc_BOpTFNaqagvq0Vx2Ki_rCVXD4I3mX69OtTkWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzEz/OTEtMTMxODY4ODQx/OC5qcGVn.jpeg) | 1998-03-01 | Deva Premal | The Essence |
+| 97 | ![Cover](https://i.discogs.com/rG0oSaqIiYtIAdGqjz2L6EivbK4KwSUL25Tp9xWs7UY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTk4/MzYtMTQ3ODAyMjc5/OC00NDYyLmpwZWc.jpeg) | 1998-08-25 | Krishna Das | Pilgrim Heart |
+| 3 | ![Cover](https://i.discogs.com/zRJE1vUzJg4-2Nm5hZ2gfuRSqa_ci50GBAOlS3WPOOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTgy/MzE2LTE2MjQwMDA2/NTItMzAxMS5qcGVn.jpeg) | 1999 | Amritakripa | Mother&#39;s Grace |
+| 27 | ![Cover](https://i.discogs.com/YoG-3LgkHKl4db_bvz8c-l06t2P4W7eNkvvi0AoYK7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTI4/NjktMTMzNzM2Njkw/NS01OTYwLmpwZWc.jpeg) | 1999 | Runestone | Swirling Dreams |
+| 62 | ![Cover](https://i.discogs.com/PkoYHTCsDpq-Cj_EeRi_ddKYBetTuSRAWtvAvuu4pT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTIz/NDItMTY1ODc0NTQ3/NS01MTgzLmpwZWc.jpeg) | 1999 | Wah! | Love Holding Love (Full Length Release) |
+| 75 |  | 1999 | Namasté | Magical Healing Mantras |
+| 94 | ![Cover](https://i.discogs.com/lk-R1FSp2RkaT4GwD31FgfCPnfwA5Fmxeob68YCnM1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDk1/NTY2LTE1Njc3ODIy/ODctMTYyMy5qcGVn.jpeg) | 1999 | Craig Pruess | Sacred Chants of Buddha |
+| 16 | ![Cover](https://i.discogs.com/f9XO_UrPgbXXl4GMKhGCxAhJo0iuvzh-Fq7zm3wCil0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk0/MTc5LTE1NDc5NDU2/OTAtNzYxNy5qcGVn.jpeg) | 2000 | Philippe Saunier | Chant des bols tibétains |
+| 51 | ![Cover](https://i.discogs.com/GBPcRIUbhPedQtw7UOxPlpWlwcquX1s8-DtunWEEHis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODk3/ODktMTYxMTM2NjM5/NC04NDg5LmpwZWc.jpeg) | 2000 | Rattan Mohan Sharma | Maha Mrityunjay |
+| 60 | ![Cover](https://i.discogs.com/Cdsr-9i4JvbqRmye-yTZwfb_2neoNL2IL7Ze7BDQYRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDg1/MzYtMTMwMDQ2NjQ0/NS5qcGVn.jpeg) | 2000 | Lama Gyurme &amp; Jean-Philippe Rykiel | Rain of Blessings |
+| 69 | ![Cover](https://i.discogs.com/urSh3-jOE4ICszF3uH4ce1eBpclahbYAepxBF4ZoBY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDYw/OTQtMTM4MTY4NzIy/OC03NTE4LmpwZWc.jpeg) | 2000 | Lama Gyurme | Rain of Blessings - Vajra Chants |
+| 70 | ![Cover](https://i.discogs.com/NZPhyjvC-HOrOKkwoJa0uIRPVamZxqeTk0V4eBNbYLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc3/MDcxLTE1ODQ5ODky/NDMtMjU3NC5qcGVn.jpeg) | 2000 | Diana Rogers | Love Reigns |
+| 33 |  | 2000-02-15 | Deva Premal | Love Is Space |
+| 78 | ![Cover](https://i.discogs.com/VdV3_NyCf3kBn663O1GV0wPhoccLbqyc_xdjXAZeeSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwODYw/NDctMTQ3NDUzMDQ3/Ny0xNzE1LmpwZWc.jpeg) | 2000-04-04 | Russill Paul | Shakti Yoga |
+| 29 | ![Cover](https://i.discogs.com/y3WqJVM36h5krtpdkp8xm4egs6sjA_UUxa92qroPVd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjU3/NjQtMTUyODEwMzEz/Mi01MTY5LmpwZWc.jpeg) | 2001 | Ashit Desai | Chants for Shiva |
+| 72 |  | 2001 | Ashit Desai | Himalayan Chants |
+| 74 | ![Cover](https://i.discogs.com/rCFmdTxTheVvGVWmorlFdeZ30JZTSbS4Batfr8PBxVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTU0/MTctMTM0NTUwMDE2/MC02NjIyLmpwZWc.jpeg) | 2001-10-02 | Jonathan Goldman | Medicine Buddha |
+| 12 | ![Cover](https://i.discogs.com/BL7aYtsb42Ud5aYnquZGJPhslPuEKQkHb7Q600r0Cbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTk1/OTYtMTQ0MTcwNjQ5/My0zMzM3LmpwZWc.jpeg) | 2002 | Chloe Goodchild | Fierce Wisdom |
+| 13 | ![Cover](https://i.discogs.com/A44q75slXfROvtixBbZtdTrUHSnAmQ08Y3sQbfglw1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjgy/MDg3LTE2MjQ3MDM0/NjMtNjk0MS5qcGVn.jpeg) | 2002 | Mantra Girl | Mantra Girl |
+| 98 |  | 2002-05-07 | Deva Premal | Embrace |
+| 95 | ![Cover](https://i.discogs.com/Tiv5pACxpI8WcydSqtwnh7lOGzcT0X1oP-IiFF3p-4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODk1/Ni0xMTY5NTIyMDgz/LmpwZWc.jpeg) | 2002-07-09 | Bhagavan Das | Now |
+| 18 | ![Cover](https://i.discogs.com/7nT1oyOJw5B9SlDnrvsdvv5lKs2NAKQnVvqkbJWU2Zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Mjcz/NjYtMTQwMzk0NTI0/OS04MDYxLmpwZWc.jpeg) | 2003 | Sina Vodjani | Dancing dakini |
+| 25 | ![Cover](https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg) | 2003 | Various Artists | Sacred Movement: White Swan Yoga Masters Vol. 1 |
+| 41 | ![Cover](https://i.discogs.com/RAonR-V4dBbhQYan5Ac_OLX8JAXArGrYa02EOKLVXbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc1/OTA5LTE1MTg3OTI5/MjktNjUyMC5qcGVn.jpeg) | 2003 | Suresh Wadkar | Gayatri Mantra |
+| 68 | ![Cover](https://i.discogs.com/G9V31HG3uaqVsVqXprZbp-3QEZNgcSvCWO1SjoYFFqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjEy/NDktMTQzOTgwNTI5/Ni0zMzY4LmpwZWc.jpeg) | 2003 | Pandit Jasraj | Gayatri |
+| 96 | ![Cover](https://i.discogs.com/yHmYxoX6SFjvMwhnKaGfTpjQUX8E6PFp-LdcFn62xec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjI2/OTAtMTI1NTU1NjY4/Mi5qcGVn.jpeg) | 2003 | Manish Vyas | Sattva |
+| 91 |  | 2003-08-26 | Krishna Das | Door Of Faith |
+| 34 | ![Cover](https://i.discogs.com/JUySqzZy5IPJDLWqCUIl4EOzBKsH7ROEz98dUPJKJIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTgy/NTMyLTE2MjQwMDI5/MTYtODY0MS5qcGVn.jpeg) | 2004 | Amritakripa | Dancing Lotus |
+| 38 |  | 2004 | Ratnabali | India |
+| 48 | ![Cover](https://i.discogs.com/pdJb8RPXgNRbob9AULI2Ln11tLv8ofT7QHMFKsvyEGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzU3/MzEtMTQzNzI5NzEw/MS0xMzkwLmpwZWc.jpeg) | 2004 | Kevin James | One |
+| 66 | ![Cover](https://i.discogs.com/Xy33dYg_Rrz7HTRzAhOAdFAif3w07sthzgkCV3VTNSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzMy/OTQtMTYxNDUxMzU4/My02MzY1LmpwZWc.jpeg) | 2004 | Kamal | Papillon |
+| 76 | ![Cover](https://i.discogs.com/lE_c1KG-3305BbO8hNhVrVvzuARPQcF_6s6MnJp1zOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjYx/MDYtMTMzMTQ3NDM2/My5qcGVn.jpeg) | 2004 | Anant Jesse | Mantrica |
+| 79 |  | 2004 | Lama Tashi | Tibetan Master Chants |
+| 81 | ![Cover](https://i.discogs.com/wsLNYAEX55u96mrSqkAxRHwM5tcZZQBFwuMvyW_76X4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/NTEtMTMyNTI1NzUz/NC5qcGVn.jpeg) | 2004 | Lama Tashi | Tibetian Master Chants |
+| 82 | ![Cover](https://i.discogs.com/92kG9NK6sC1vVGhbfWVhUYFO7tUoQr1CshMDb4uXdHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODIx/NTAtMTM2ODM1NzA0/Mi0zNjE1LmpwZWc.jpeg) | 2004 | Masaladosa | Chill Aum |
+| 87 | ![Cover](https://i.discogs.com/PnvQEiIHZjGa14Z8E46BGLsmyQdOC9q8wVHxKWHr_pQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzkz/MTQtMTIzMzg2Mzkz/OS5qcGVn.jpeg) | 2004-02-16 | Wah! | Savasana |
+| 36 | ![Cover](https://i.discogs.com/wosVo-UipwseFluuEylhXV7c-apYnJCwhh3yXfs8lYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTUt/MTYxOTYyNDEzMC05/NTkwLmpwZWc.jpeg) | 2005 | Akasha | Yoga Spirit |
+| 57 |  | 2005 | Nawang Khechog | Music as Medicine |
+| 35 | ![Cover](https://i.discogs.com/YcI91zm8AVw5vA3n_fZl15bbIR5MqfLjlYiXkewz40o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTk4/NTctMTU4MDIxMjkw/OC05NjIyLmpwZWc.jpeg) | 2005-01-24 | Mind Over Matter | Indian Meditation |
+| 99 | ![Cover](https://i.discogs.com/veZf-Rx0et7HX6_twrvxlIT0apl0ajQH0Oxix8-1Quk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODkw/NjktMTM2MzU2ODM0/My0yNjg2LmpwZWc.jpeg) | 2005-03-11 | Deva Premal | Dakshina |
+| 31 | ![Cover](https://i.discogs.com/OKUXWbhnvQprGWucAL9SUdTQZ4JUV5j8DhUV8NgYu3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjA2/OTQwLTE2MjAyNjI1/NjMtMjM1Ni5wbmc.jpeg) | 2006 | Satkirin Kaur Khalsa | Blessings of a Woman |
+| 52 | ![Cover](https://i.discogs.com/x7cV4XP6nvzVqB4nrZ2uR0WGjzmgXJf-H-Lom5HlRMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjA4/MzctMTI5OTcxMTE5/OC5qcGVn.jpeg) | 2006 | DJ Vraj | Antimateria |
+| 56 | ![Cover](https://i.discogs.com/mRYeR9Ll0gkZfWj_NsIfCfzCHADtsDu8SIiScgsik48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTkw/NjI2LTE1NDk2NTUy/MTMtNTYyNS5qcGVn.jpeg) | 2006 | Padma Previ | Goddess Chants |
+| 64 | ![Cover](https://i.discogs.com/OKUXWbhnvQprGWucAL9SUdTQZ4JUV5j8DhUV8NgYu3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjA2/OTQwLTE2MjAyNjI1/NjMtMjM1Ni5wbmc.jpeg) | 2006 | Satkirin Kaur Khalsa | Universal Prayer |
+| 71 | ![Cover](https://i.discogs.com/FQOvlaLHvPt8nBza8Cwc346i1lMRsu5l9ktchQaZY6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAx/NjM5LTE2ODU4MTUw/NTEtNDg1My5qcGVn.jpeg) | 2006 | Sada Sat Kaur | Shashara |
+| 89 | ![Cover](https://i.discogs.com/AI3BA-yRXO24q6NiA-SGm_YFm2cToLKNPZnrLax52nY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NjE5/NjItMTQ0NDA2NTg0/NS0zMTMxLmpwZWc.jpeg) | 2006 | Benjy Wertheimer | Voice of the Esraj |
+| 93 | ![Cover](https://i.discogs.com/3W7aydcf1MinRFlFhGAZ9tyEJLEnOU8A4O4W0jrKXUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/MTc2LTE1NzkyMDAy/OTctNTQ0MS5qcGVn.jpeg) | 2006 | Ty Burhoe | Invocation |
+| 65 | ![Cover](https://i.discogs.com/DU_lUNgRcTEXRirh6sIv7Pnz7j2D7AsAlYfIZzXt_7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc2/NTI5LTE1MjU4NTgz/NDMtMjkxNy5qcGVn.jpeg) | 2006-08-22 | Shankar Mahadevan | Mantra Shakti II |
+| 4 | ![Cover](https://i.discogs.com/QgiCgGdsXm7fihXxnkHD7MWwWdtZhuqE5J99GWyz3qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU4/NDM4LTE1MTY2ODA3/OTUtNTYzOC5qcGVn.jpeg) | 2007 | Akasha | Om Shanti |
+| 83 | ![Cover](https://i.discogs.com/b3030DX-gotsZP4n7ZVjVKomPYH2ltUMTvpwgWTNLUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDg1/MzQtMTQ2MzMwODEy/Ny0zMzcwLmpwZWc.jpeg) | 2007 | Dave Stringer | Mala |
+| 92 | ![Cover](https://i.discogs.com/D3C1TGJxZsow9_rWtvSr9TlEhgRJ98YlvNzeJoU2SYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDE3/OTgtMTQ4ODIyMDcz/MC01NTAyLmpwZWc.jpeg) | 2007-03 | Krishna Das | Flow of Grace |
+| 40 | ![Cover](https://i.discogs.com/BC74CWK4htlge4UYXKPFLmCwCUz0uNcOjhqpTMRSUYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzk5/OTQ3LTE2MzI4NDA4/MzUtMzU4Ny5qcGVn.jpeg) | 2008 | Maya Fiennes | Kundalini Mantras |
+| 23 | ![Cover](https://i.discogs.com/sT4LOZU_q2ZARKtZsZmy1qzFYhQKFIQgBGsYPvwZkqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY0/MTItMTIyOTYzNTI5/Mi5qcGVn.jpeg) | 2008-11-20 | Pavel Ambiont | heartless e.p. |
+| 50 | ![Cover](https://i.discogs.com/61_ZlQoHF1HMbmTzRD8Mfcj3oIALWuzwGebtwtY6jQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODc5/OTQtMTYxODM4NzY5/Mi01NDU5LmpwZWc.jpeg) | 2009 | Steven Halpern | In the Om Zone |
+| 53 | ![Cover](https://i.discogs.com/qJfzaBiDK5geVpeiewOB6FpmkPzAVliZZIAfEZCJj4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzE3/Njk1LTE1ODk2NDY3/NzAtNzA4My5qcGVn.jpeg) | 2009 | Donna De Lory | Sanctuary (Full Length Release) |
+| 88 |  | 2009 | Deva Premal | Mantras for Precarious Times |
+| 90 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2009 | Various Artists | Urban Mantra - 2CDs |
+| 46 | ![Cover](https://i.discogs.com/GI1xrgT8hACTZ4ErCqVs-2nqZwHKX-DrVBfXgqYi4SI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTUw/ODU2LTE2NTgzODg1/OTAtNzE4OS5wbmc.jpeg) | 2011 | Temple Bhajan Band | Mantra Yoga |
+| 73 | ![Cover](https://i.discogs.com/vYIPPwZgyBCNr_2B3i_OXTxw76t-NI6DJmOLIAwqg48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU5/MDA3LTE1MTI5MDc5/OTMtNzQxMi5qcGVn.jpeg) | 2011 | Jai-Jagdeesh | I Am Thine |
+| 80 | ![Cover](https://i.discogs.com/FfVFTIO04plgSypTjwR0hGGJHuKJ35b_8rIOohSMKys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTg4/NzYtMTQzODc3OTYz/Ni02NDYwLmpwZWc.jpeg) | 2011-02-11 | Sina Vodjani | Sacred Buddha |
+| 9 |  | 2013-08-01 | Hidden Tribe | Sub Mira |
+| 85 | ![Cover](https://i.discogs.com/vDp2N1wXE2fdls5oki9_ABBTLwuugR-VitAsJN3tL3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODI1/MDMtMTQzMDMyMjQ5/NC05NzE5LmpwZWc.jpeg) | 2014 | Krishna Das | Kirtan Wallah (Bonus Version) |
+| 1 | ![Cover](https://i.discogs.com/7dpMd_YtzZ0X5ij97tEAznowotR__yNR8ZnpOOLc2V0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mjgy/NzMtMTQxODk5MzQz/MC00OTI4LmpwZWc.jpeg) | 2014-12-19 | Hidden Tribe | Bardo EP |
+| 39 | ![Cover](https://i.discogs.com/iD0LAa-pJzRz2rNGQkMBPyG3R6c8Nsko9vQPq_EVkyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODUx/MDc2LTE1OTg5NjIy/NjAtNDcxMC5qcGVn.jpeg) | 2015 | White Sun | White Sun |
+| 30 | ![Cover](https://i.discogs.com/pGLDdn3lmerrZGv5YTZ52-ztzyZLKXxryyqL3eTajo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzk1/MjYwLTE2MDk4Njg2/MTYtODE1MS5qcGVn.jpeg) | 2020-10-23 | AdriAnne Lenker | Ruined - Single |
+| 44 | ![Cover](https://i.discogs.com/6JICCY_f-zORP3sqGCvfKnKp7IpiNVpCBujP_Pe_2mA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIx/MTcwLTE0OTE5ODgz/MjUtMjQyMy5qcGVn.jpeg) | 2020-12-30 | Shanti People | Urban Mantras |
+
+### Related genres
+
+- [meditation]({{ "/tags/meditation" | relative_url }})
+- [new age]({{ "/tags/new-age" | relative_url }})
+- [yoga]({{ "/tags/yoga" | relative_url }})
+- [india]({{ "/tags/india" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [spiritual]({{ "/tags/spiritual" | relative_url }})
+- [world]({{ "/tags/world" | relative_url }})
+- [chillout]({{ "/tags/chillout" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [gospel]({{ "/tags/gospel" | relative_url }})

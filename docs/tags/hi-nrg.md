@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-18T14:08:20.965Z
+permalink: tags/hi-nrg
+title: hi-nrg
+---
+
+## hi-nrg
+
+Last updated: <time datetime="2025-10-18T14:08:20.965Z">Sat Oct 18 2025 17:08:20 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 4 |  |  | Blindfold Knobs | Funkamoog |
+| 5 |  |  | The Kinky Boyz | Almighty Presents: The Only Way Is Up |
+| 96 | ![Cover](https://i.discogs.com/fR8UaYJauvVHjL_so4RlrYTFfEBGKKxZC8klFYM6pp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDEy/NzQtMTQzMDQ4Nzk2/Ny0yMjc1LmpwZWc.jpeg) | 1978 | Marjorie -W.C. Sinclair | Position 2 (Extended) |
+| 97 | ![Cover](https://i.discogs.com/fR8UaYJauvVHjL_so4RlrYTFfEBGKKxZC8klFYM6pp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDEy/NzQtMTQzMDQ4Nzk2/Ny0yMjc1LmpwZWc.jpeg) | 1978 | Marjorie -W.C. Sinclair | 22nd Chances |
+| 7 | ![Cover](https://i.discogs.com/brhR6kfzx6WJNwW5wZ1sGPT5-WzrEAD_odAnwvMN7MU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzIz/OS0xNTg0ODgzMDc3/LTQ2NzcuanBlZw.jpeg) | 1979 | Jessica Williams | Queen of Fools |
+| 62 | ![Cover](https://i.discogs.com/vPEeZgZdmEmsc1Y8sK9ORsED8L62JRGBsNWJkq_3qRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjYx/MS0xMzg2NjkwODE1/LTk5NzMuanBlZw.jpeg) | 1979 | Kelly Marie | Feels Like I&#39;m In Love |
+| 64 | ![Cover](https://i.discogs.com/3v2nFdQHeGN_g957tFiWocybu5LvQKrzUx2QNRoetGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzUz/Ni0xMzU5NTI5OTMy/LTMyOTYuanBlZw.jpeg) | 1979-01-16 | Peter Jacques Band | Fire Night Dance |
+| 47 | ![Cover](https://i.discogs.com/UPE0EuvcDMHr6xIIjutZ68FPWLgtX7ISrcKbIuBbRYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAy/NS0xNTM1OTgwODMz/LTEwNTkuanBlZw.jpeg) | 1979-07-30 | Revanche | Music Man |
+| 31 | ![Cover](https://i.discogs.com/knfmt2qmY5HgnEtGOHywC71C1FD_dIgYn3DnVdUqpPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjQy/Ni0xMjM1MTE0MDYy/LmpwZWc.jpeg) | 1980 | Peter Jacques Band | Welcome Back |
+| 26 | ![Cover](https://i.discogs.com/PJ5QJPZbSwVVwU4NTI5cLuEXO0kUoJXZ1Gr_rVfQBEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzY1/NC0xMjgwNjMwMzEz/LmpwZWc.jpeg) | 1980-05-24 | France Joli | Tonight |
+| 43 | ![Cover](https://i.discogs.com/PI1AvHj-hJaaQPHFeWcI8VdAIzrDC21tw-I3pWEeYUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ5/MjktMTQzMDMxMjA3/Ni0xOTkzLmpwZWc.jpeg) | 1981 | Boys Town Gang | Cruisin&#39; The Streets |
+| 82 | ![Cover](https://i.discogs.com/Vg97ooKG0myQ-4IicAMyoimk_BaXUFfRWv7T5Xtmua4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjAx/MTQtMTQ0NTA4ODY1/OC0yNjgxLmpwZWc.jpeg) | 1982 | Olivia Newton-John | Xanadu |
+| 84 | ![Cover](https://i.discogs.com/hm8e4Rvx5kVtHATU6FzXET5aI33bHIbsqasogvHvPqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzc0/Mi0xMTA5Nzk2Njcw/LmpwZw.jpeg) | 1982 | France Joli | Now! |
+| 90 | ![Cover](https://i.discogs.com/ENQ1szpX4SH3l2EneAPR4HkWuJDCAmZDPPnvR0sH5pQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjk0/NjItMTMyNzkxNjUz/MS5qcGVn.jpeg) | 1982 | Go2 | Eurobeat Go2, Vol. 1 |
+| 87 |  | 1982-11-22 | Sylvester | Do Ya Wanna Funk |
+| 20 | ![Cover](https://i.discogs.com/s15Px8Ufx9-lBfkl8vXOQJ8pWV8o8obqhaKyHcTPKSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAw/NDMtMTM3NzcxNTUz/Ni0yNDcwLmpwZWc.jpeg) | 1983 | Claudja Barry | I Will Stand - The Single |
+| 72 | ![Cover](https://i.discogs.com/7rD5n6UtZn8hDalStp69lnwwG1HP4m82M2Bbix8XIas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzA0/LTE2MDcwMjg5ODMt/MjE1MC5qcGVn.jpeg) | 1983 | Divine | Love Reaction |
+| 68 |  | 1983-01-01 | The Flirts | Born to Flirt |
+| 48 |  | 1984 | Waterfront Home | New Breed of Mermaid |
+| 79 | ![Cover](https://i.discogs.com/-iXzv33vpaL3swygdIxhUXUj3RqsOlLSWbvGWMwDCyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjM0/MC0xNTU5OTIyMDM2/LTUyMDQuanBlZw.jpeg) | 1984 | The Flirts | Made in America |
+| 85 | ![Cover](https://i.discogs.com/9tOsLPjIqyOASXVFvWghv2em8dFnr08nN6GupJU_S4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTI5/OC0xMTcyMDg3NTg3/LmpwZWc.jpeg) | 1984 | Videosex | Videosex84 |
+| 86 |  | 1984 | Bronski Beat | The Age of Consent |
+| 91 | ![Cover](https://i.discogs.com/3VAKXI29SNVUXYdz_nNtAXR8lZKtExCO4fwRrYKxTDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU1/My0xMTYyMzY2ODI2/LmpwZWc.jpeg) | 1984 | Dead or Alive | &quot;Youthquake&quot; |
+| 92 | ![Cover](https://i.discogs.com/_NbU9v4czs8arHzUTEpIrCkHMxnyTNdlCnIR1d3YHOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk5/MDMtMTE4NTkxODI4/Mi5qcGVn.jpeg) | 1984-10-15 | Sylvester | Rock the Box |
+| 75 |  | 1984-10-29 | Frankie Goes to Hollywood | Welcome To The Pleasuredome |
+| 78 |  | 1984-12-24 | Hazell Dean | Heart First |
+| 2 | ![Cover](https://i.discogs.com/aO5iVXDC8RbO6wmMsxDgTBJs5KqYZROP8Y7NpPF7PHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTky/NC0xMjY4NjA5NDg4/LmpwZWc.jpeg) | 1985 | Oh Romeo | Best of Oh Romeo |
+| 18 | ![Cover](https://i.discogs.com/DB254N6AGHIhUqeMXh1a0bJSIDVk_z0F2tHeSMsApQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTEz/NDMtMTQ1NzMzNjY5/NC0xMDE5LmpwZWc.jpeg) | 1985 | Amanda Lear | Brand New Love Affair |
+| 28 |  | 1985 | Deutsch Amerikanische Freundschaft | Brothers |
+| 33 | ![Cover](https://i.discogs.com/sj7uXAec0UylUZJRbd-89YCCLMUX05X3vQVw32h-h8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTEy/NTItMTMxMTYxODE5/MS5qcGVn.jpeg) | 1985 | RuPaul | Theme From Drag U |
+| 37 | ![Cover](https://i.discogs.com/JXXqQX29ck5NI9vQyLYBcCI60kxenxpfVIbdFzuA3rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDM1/OC0xMjY3MzI2MDQ3/LmpwZWc.jpeg) | 1985 | The Flirts | Blondes, Brunettes &amp; Redheads |
+| 76 |  | 1985 | Village People | Sex Over The Phone |
+| 88 |  | 1985-06-21 | Dead or Alive | Youthquake |
+| 51 | ![Cover](https://i.discogs.com/yQgOuHSuGm8ZrcBfTfph6ZgrUtQHiG9JvyVwqiVJAFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzk1/OTQtMTYxMDM2MDA1/My0xMjM1LmpwZWc.jpeg) | 1986 | Deutsch Amerikanische Freundschaft | 1st Step to Heaven |
+| 89 | ![Cover](https://i.discogs.com/gefwaH54LaNsJb-lsJuxnRnrsyPPrTpBfQJklftzzKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjUx/MS0xMzg3MzA2NDcy/LTE2ODUuanBlZw.jpeg) | 1986-09-15 | Stacey Q | Better than Heaven |
+| 49 |  | 1986-11-17 | Sylvester | Mutual Attraction |
+| 9 | ![Cover](https://i.discogs.com/nMRYrDjI0sepxY-P1qEBCqyHLVEZUZihhW-1_v80SZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjU4/NzEtMTMxODc1MDIy/OS5qcGVn.jpeg) | 1986-11-21 | Girl Talk | Talk Crazy To Me |
+| 15 | ![Cover](https://i.discogs.com/wVUH00n2NA6KUWwbV5d6SQIiTqyJpA0WpPp8fWHsICE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDg0/OC0xNTQwMjgyMjAz/LTI5NTYuanBlZw.jpeg) | 1987 | Deutsch Amerikanische Freundschaft | The Gun |
+| 74 | ![Cover](https://i.discogs.com/hX0SZXoC2s-3_AT0wkYXnTXEh6JwNdq2empZXF6Pujs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODc1/OTYtMTY2MzY3MjUw/NS02Mjc1LmpwZWc.jpeg) | 1987 | Sinitta | Sinitta |
+| 25 | ![Cover](https://i.discogs.com/qD8YSjg-KPBTC95ohKqjeX8tq2IHrgHrDkkSPc-yV7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE5/MDg5LTE1MjMwMzIz/OTEtNDI1Ni5qcGVn.jpeg) | 1988 | Samantha Fox | Hot Boy |
+| 29 | ![Cover](https://i.discogs.com/fA6uoAiu60GDqYWU0X-vkeTUuMm96nhQulfQNTxBmf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYy/NTUwLTE2NjYwOTc2/MjQtMTIzNi5qcGVn.jpeg) | 1988 | Sabrina | Super Sabrina |
+| 38 | ![Cover](https://i.discogs.com/vBtdI_8q5hUW2akJs0PxchNoeZUzbAZY9gIMiROMeaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NjU2/LTE2MTE2ODMwMTEt/MjA0Ni5qcGVn.jpeg) | 1988-04 | Pet Shop Boys | Introspective |
+| 57 |  | 1988-04-25 | Bardeux | Bold As Love |
+| 10 |  | 1989 | Lime | Lime 3 &#x2F; Sensual Sensation |
+| 14 |  | 1989 | Deutsch Amerikanische Freundschaft | Hitz Blitz |
+| 73 |  | 1989 | France Joli | Greatest Hits |
+| 16 |  | 1989-03-16 | Kylie Minogue | Kylie&#39;s Remixes, Volume 1 |
+| 45 | ![Cover](https://i.discogs.com/79kWRbBsDxatqk3_mJp-zcuKgeikritQvcNClQlshXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjQ4/MS0xNTUzNzM5MzY3/LTg5OTMuanBlZw.jpeg) | 1990-09-04 | Paul Lekakis | Tattoo It |
+| 56 | ![Cover](https://i.discogs.com/1j4g75GNSl8UiMD6bnY3SjNpE7yRXsWsv78mTD8B_xE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM4/NDAtMTI0MDU1Mzkz/NC5qcGVn.jpeg) | 1990-11-12 | Kylie Minogue | Got To Be Certain |
+| 13 | ![Cover](https://i.discogs.com/pEYnxHO2gmQgz52gZabByH2B1m64QaUeJC6zv8Mvo4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzEz/NDctMTMwNDk1NDYz/MC5qcGVn.jpeg) | 1991 | Evelyn Thomas | The Best of Evelyn Thomas |
+| 66 | ![Cover](https://i.discogs.com/hPNgV-3oG0cdJP2Bpz9JnL8lbJVf3CbqiPSmLZinFMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjkx/Mi0xMTgyOTQ0NDUz/LmpwZWc.jpeg) | 1991 | The Flirts | The Best of The Flirts |
+| 65 | ![Cover](https://i.discogs.com/DGAKCJXYBn1o1PRQOc-NUiokffWS1Pu6SNLlgxkRMoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzA0/OTQtMTY0NjMzNjM4/My0xNjk2LmpwZWc.jpeg) | 1993 | France Joli | Come to Me |
+| 81 | ![Cover](https://i.discogs.com/lWLwBhhlQQqtFqBVnudxf1pddFz9VJ3gaivRs--hyRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODA0/NC0xMzEwNzI3OTE0/LmpwZWc.jpeg) | 1993 | Take That | Take That and Party (Expanded Edition) |
+| 99 |  | 1993 | RuPaul | Supermodel Of The World |
+| 27 |  | 1994 | Madleen Kane | 12 Inches And More |
+| 55 | ![Cover](https://i.discogs.com/OZNZGMGfKw2YfbGlmg0roU9h93o7ycojoEohfU0KXFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTgz/NC0xMDk0NDk4ODI2/LmpwZWc.jpeg) | 1994 | Lisa | Jump Shout |
+| 46 | ![Cover](https://i.discogs.com/uidi0W8fIqkj1uEL_HJLxGCSFIQqWxysKm7QSRwfIa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIw/NzEtMTI5MTI4OTI3/NS5qcGVn.jpeg) | 1996 | Modern Rocketry | Get Ready |
+| 60 |  | 1997-04-15 | Robin S | From Now On |
+| 21 |  | 1997-09-23 | Amber | One More Night |
+| 36 |  | 1998-05-04 | Corona | Walking on Music |
+| 30 | ![Cover](https://i.discogs.com/IQjV2UFEMsP-lGDp0ms2vja_S0j_Ws5J2JWWFCK3kJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY4/NjktMTUxMDA5MTM5/Mi04NDI1LmpwZWc.jpeg) | 1999 | Linda Jo Rizzo | Best Of Linda Jo Rizzo |
+| 23 |  | 2000 | Amber | Above the Clouds |
+| 67 | ![Cover](https://i.discogs.com/MR6mJ0HBISKnvt9hznx3C8BwJkmNebsEO_--NTzqp2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzA1/LTE2Njk2NTQ2MTAt/Mjk1OS5qcGVn.jpeg) | 2000 | Eartha Kitt | I Love Men |
+| 70 |  | 2000 | Greg Kihn | True Kihnfessions |
+| 61 |  | 2001-10-15 | Mel &amp; Kim | That&#39;s the Way It Is |
+| 54 | ![Cover](https://i.discogs.com/9y_JXKtHG5TN5fnZHjek_I8jllZMgYZi5h1gwo8naR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY0/MDAtMTI5Njk1NDQ4/Ny5qcGVn.jpeg) | 2002-12-24 | Amber | Voodoo |
+| 83 | ![Cover](https://i.discogs.com/pZyVReb1SzSlwcar3UU5oVspeVXXDh-xbVzCzfq4QPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTA4/Ny0xNjc1Mjk2OTA0/LTcxNDkuanBlZw.jpeg) | 2004 | Britney Spears | I Wanna Go Remixes |
+| 12 | ![Cover](https://i.discogs.com/QDnl2laA4UnBTVexbGjwmuRlnGCWo2GuCALGA7t7Xp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDIw/My0xNDc5Njc3NjM3/LTYyMzMuanBlZw.jpeg) | 2005 | Amanda Lear | Paris by Night |
+| 71 | ![Cover](https://i.discogs.com/qqxc8ATjhNQ9DBUsAKBxLWVXgGdXsEdao3TqBoqRfOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDI5/LTEzNDU4MzczODct/ODY2Ny5qcGVn.jpeg) | 2005 | The Flirts | Greatest Hits |
+| 58 | ![Cover](https://i.discogs.com/qNl3TtJsVSJMvLHXpfriosQB8tPBFqyzy0OzL236C6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzI0/NjgtMTM2MDM0MTQy/NS0xMDQ3LmpwZWc.jpeg) | 2005-02-22 | RuPaul | Responsitrannity: Remixes |
+| 53 | ![Cover](https://i.discogs.com/7venykGkGI4dlerA6q4KerQ9aAldpuZFicW_CWk2akc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTkx/Ny0xMTIxNjkwNzcy/LmpwZw.jpeg) | 2005-07-20 | Bimbo Boy | Je Suis Une Superstar |
+| 39 | ![Cover](https://i.discogs.com/J3U2_WiX2lzpoLbjzSzbPapCkAGlcqaxhKABM9XXH6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDUy/ODYtMTQ1NzExMjcy/MS05Mjk2LmpwZWc.jpeg) | 2005-11-11 | RuPaul | RuPaul.ReWorked |
+| 3 | ![Cover](https://i.discogs.com/rESm8i-12_7JgQltnExXC78GNTM0urerNVGxSn2Tc_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMDA2/Ny0xMTc0MDU4NzI5/LmpwZWc.jpeg) | 2006 | Massive Ego | Nite Klub Skewl |
+| 19 | ![Cover](https://i.discogs.com/g74yLG0KE7A3c0b5RWCL2HmNNUSwrGGMg5_qe9AKUbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzIz/NjYtMTQzMDcyNDIw/MC03NTQ2LmpwZWc.jpeg) | 2006 | PAMALA STANLEY | Looking Back The Disco Years 1979-1989 |
+| 52 | ![Cover](https://i.discogs.com/5bNU7ZQ-v-b6pm-zRGgMFiqnfm58d86No1qYe98mgqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODI5/Ni0xNTM3Njk3NTYx/LTIzNjEuanBlZw.jpeg) | 2006-03-01 | Bimbo Boy | Drama Queen |
+| 98 | ![Cover](https://i.discogs.com/IkBqcD6DEy4CSGyb9ZbCqNt9lAnbMFcoSPTCnsm8yqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM4/MDQtMTI2MzA2NzY3/MC5qcGVn.jpeg) | 2006-09 | Depeche Mode | Speak &amp; Spell (2006 Remaster) |
+| 44 |  | 2007-11-19 | Girls Aloud | Tangled Up |
+| 11 | ![Cover](https://i.discogs.com/9aHYK_xrcbxAwkzwS0zVvJX_Q4HSxH-oepYkaOeiVGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTMy/NjMtMTIxNTgzNzkw/OC5qcGVn.jpeg) | 2008 | ReDulce | Five Minute Love |
+| 42 | ![Cover](https://i.discogs.com/i0UAsHj8u-HV1dxKUe5RvB-ysQUGRlgR82VRD25_FtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk0/NDc2LTE1MTE2Mjc0/MjgtNTI0Ny5qcGVn.jpeg) | 2008-04-11 | Johnny Hazzard | Deeper Into You (Solar City Remix) |
+| 40 |  | 2009 | Various Artists | Initial D ~D Non-Stop Mega Mix~ |
+| 41 | ![Cover](https://i.discogs.com/fv7tIyo2IsQLw5aRqjVXaZdkaXekf2NEvizN4RzMSVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDYz/ODU4LTE1NDc0MDQ3/NjItOTI0NS5qcGVn.jpeg) | 2010 | Bobby Orlando | How to pick up girls |
+| 77 |  | 2010-03-23 | RuPaul | Drag Race |
+| 8 | ![Cover](https://i.discogs.com/VBCsuOvVvWwdxIjIdKhHW6PSJD8Q4g6okzgXn85NF2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ4/MzMtMTI5NDcwODM5/My5qcGVn.jpeg) | 2010-10-01 | Magnus Carlsson | Pop Galaxy (Bonus Version) |
+| 95 |  | 2010-10-24 | Dead or Alive | That&#39;s The Way I Like It: The Best of Dead Or Alive |
+| 80 | ![Cover](https://i.discogs.com/sj7uXAec0UylUZJRbd-89YCCLMUX05X3vQVw32h-h8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTEy/NTItMTMxMTYxODE5/MS5qcGVn.jpeg) | 2011-06-16 | RuPaul | SuperGlam DQ |
+| 24 | ![Cover](https://i.discogs.com/VIh_WKtMS9cCTNtFTSHGrvD2YpCuCH0oj1S9f5aLcPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDY5/OTAtMTMyMjIyNjg2/My5qcGVn.jpeg) | 2011-11-15 | Traci Lords | Last Drag - Dance Radio Remixes |
+| 22 |  | 2012-07-17 | Cyndi Lauper | Sex Is in the Heel (The Remixes) |
+| 50 | ![Cover](https://i.discogs.com/FA_APoApq9YRm60AJKQr9hmNnzKR5JOkyS4DcZz97dk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTc3/NDAtMTU2MTQ1OTk4/MS04OTI1LmpwZWc.jpeg) | 2013-05 | Hazell Dean | The EMI 12 Singles&#x2F;Mixes |
+| 32 | ![Cover](https://i.discogs.com/RZ9SPSu-gbbA0WJxZ_yWrzuKWLXxHj1JGvr8CQTePOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI5/Njk2LTE1NDg1ODQz/MDktODY2OS5qcGVn.jpeg) | 2014-04-02 | Kelly Marie | Feels Like I&#39;m In Love - The Best Of |
+| 17 | ![Cover](https://i.discogs.com/Pv3keUpb9DHhREkmElOMRg0-aVWvDwsvRwD_guXOq0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzI0/OTgtMTM2MDM0MjAx/Ny05NDgyLmpwZWc.jpeg) | 2016-04-15 | RuPaul | If I Dream: Remixes |
+| 35 | ![Cover](https://i.discogs.com/ebIAc5eSKEOaVCgEeeXGRmRa2fkjd9tsZZc8q9dAQFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzI1/MTktMTM2MDM0MjQ1/NC0yNDkzLmpwZWc.jpeg) | 2016-04-15 | RuPaul | Live Forever: Remixes |
+| 93 | ![Cover](https://i.discogs.com/pAj-ljBrX2o768r08i27qOnJxDXeMGq9pzz9Cym5RC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/MDk4LTE1NTc1ODcx/NjQtOTE3OS5qcGVn.jpeg) | 2019-03-07 | Ava Max | SPOT A FAKE |
+| 100 | ![Cover](https://i.discogs.com/VkOPeOBjUraNxoDWsrEPKoSPPz9vApZVkx8JaatvEfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA3/MjYwLTE1NjU5NjI4/NzYtODEyMS5qcGVn.jpeg) | 2020-02-10 | Rocket Punch | YELLOW PUNCH |
+| 1 | ![Cover](https://i.discogs.com/h00LfJmMwmSVtkhde9FIPArsMQyVzTPbyULv-OlXZhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODgz/Mjg1LTE1OTk1ODE5/MTAtNjM1MC5qcGVn.jpeg) | 2020-09-07 | Linea Aspera | LP II |
+| 94 | ![Cover](https://i.discogs.com/cFAFH1FieVuqHZuIzKlL9SzJxIpxxdSgA7Ud-b2l2DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDc1/MTQwLTE2NzY3MDUx/NDYtMTA1OS5qcGVn.jpeg) | 2021-06-30 | Nuovo Testamento | New Earth |
+| 59 | ![Cover](https://i.discogs.com/vh7kJuy2eaWYljskFMWBxZyiqJr8Xq_EiOf7zfbZfNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDA0/NjgzLTE2NDM4NzY2/MjYtNjkwNi5qcGVn.jpeg) | 2021-11-19 | Nuovo Testamento | New Earth Remixes |
+| 34 | ![Cover](https://i.discogs.com/HcEmpcKFusJcmVkg6QKm5cbQ_cKL8_RcYBGYb0y7RqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTk4/OTA1LTE2OTczNjI5/NTItNjg3Mi5qcGVn.jpeg) | 2022-08-29 | DJ Mantis | covercore |
+| 6 |  | 2023 | Various Artists | Definitive N-R-G - Volume One |
+| 69 | ![Cover](https://i.discogs.com/BYDKF-KFZe7gSBqDPxKJKlEpu5cdp8CaNLs2eHu7LNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzIz/NDIxLTE2NzgzMjAw/NDUtNDM5NC5qcGVn.jpeg) | 2023-03-03 | Nuovo Testamento | Love Lines |
+| 63 | ![Cover](https://i.discogs.com/C4BxNq0o4ZsSTK8It6GdlFss7lrBXsgw_HRkCq1J30w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODkx/MTk3LTE3MDg2NDU4/ODUtODMxNC5qcGVn.jpeg) | 2024-02-23 | Allie X | Girl with No Face |
+
+### Related genres
+
+- [dance]({{ "/tags/dance" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [male vocalists]({{ "/tags/male-vocalists" | relative_url }})
+- [synthpop]({{ "/tags/synthpop" | relative_url }})
+- [dance-pop]({{ "/tags/dance-pop" | relative_url }})
+- [disco]({{ "/tags/disco" | relative_url }})
+- [house]({{ "/tags/house" | relative_url }})
+- [italo disco]({{ "/tags/italo-disco" | relative_url }})
+- [eurodance]({{ "/tags/eurodance" | relative_url }})

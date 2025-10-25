@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T03:59:28.392Z
+permalink: tags/fiddle
+title: fiddle
+---
+
+## fiddle
+
+Last updated: <time datetime="2025-10-22T03:59:28.392Z">Wed Oct 22 2025 06:59:28 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 2 |  |  | divineMAGgees | love me like the roses (2005) |
+| 4 |  |  | Yo-Yo Ma, Edgar Meyer, Joshua Bell, Mark O&#39;Connor | Heartland: An Appalachian Anthology |
+| 13 |  |  | Fiddlers 3 | Volume 3: The Rhythm Chapter |
+| 19 |  |  | Cady Finlayson | Harp and Shamrock |
+| 24 |  |  | Cady Finlayson | Shines Like Silver |
+| 47 |  |  | The Raggle Taggle Gypsys | The Raggle Taggle Gypsys |
+| 74 | ![Cover](https://i.discogs.com/3QUVputBbHTva9u66wJVhfQhNf9QjcF5VXjPdZvruIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjQ3/NTQ5LTE2MzQ1OTcy/ODUtOTA3My5qcGVn.jpeg) | 1961 | Kenny Baker | Plays Bill Monroe |
+| 67 |  | 1964-04-20 | The Kentucky Colonels | Appalachian Swing! |
+| 12 | ![Cover](https://i.discogs.com/adbJaw7djdLlEMxdA9naLvUDAhyJ2QVA1tdV4_beWGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMy/MTYxLTE0OTY2Njg3/MTctNzgxNi5qcGVn.jpeg) | 1971 | Setanta | Traditional Irish Music |
+| 39 | ![Cover](https://i.discogs.com/9ueTfscVL4j58_BTAVfZVR3FA3lXwXwk4lPa6cntoBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjcx/NjkxLTE1MjA0MDA0/NTUtMTcyMC5qcGVn.jpeg) | 1971 | The Skillet Lickers | Volume 1 (1926-1927) |
+| 45 | ![Cover](https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg) | 1972 | Various Artists | Appalachian Picking Society |
+| 71 | ![Cover](https://i.discogs.com/FXeJ65Oi61tRVmf-X4iB2rJ82EcNu6Xxp4r1aW0bZBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDI5/ODMtMTYwNTYyOTY0/My0zNjc2LmpwZWc.jpeg) | 1972 | Farida | Sun of Iraq |
+| 42 |  | 1976 | Kathleen Collins | Traditional Music Of Ireland |
+| 68 | ![Cover](https://i.discogs.com/vQBGJ8MUcQK7APEGF4Uutd_Xkw-YldfDEdTaEHrJFeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDE2/MzAtMTU5ODIxMjY2/OS0xNzUxLmpwZWc.jpeg) | 1976 | Dave Swarbrick | Swarbrick |
+| 83 | ![Cover](https://i.discogs.com/5uDe9AVXKjLDKnZ5FSf_shzxlej3Q4gvHwHqGbbvJ10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjM0/NDUtMTQwMTU3MDM3/Ny0xODE2LmpwZWc.jpeg) | 1979 | Mark O&#39;Connor | Markology |
+| 96 |  | 1979 | The Tony Rice Unit | Manzanita |
+| 97 | ![Cover](https://i.discogs.com/2NUabi6ZSfcRNgXxRud3hGzy9l0i-QHYKocDRXbcTd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDk2/MjUtMTY0NTExNDY2/Mi0zODExLmpwZWc.jpeg) | 1979 | The Tony Rice Unit | Mazanita |
+| 7 | ![Cover](https://i.discogs.com/xvIxF6AdAtdY0GQYCqyTKlccLQo2V5jb9vSGINC0hOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjk3/OTEtMTYxOTk5Mzgw/Mi05Mjg2LmpwZWc.jpeg) | 1982 | Jehile Kirkhuff | Jehile Stands Alone |
+| 77 | ![Cover](https://i.discogs.com/kg-zjyMqHjqOfo5IgctgetaJKJTk4LqVLLu7mpJUNuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjMz/ODAtMTUzNjE1NDY4/My0xMzA0LmpwZWc.jpeg) | 1982 | The Tony Rice Unit | Backwaters |
+| 86 |  | 1986 | Boys Of The Lough | To Welcome Paddy Home |
+| 46 | ![Cover](https://i.discogs.com/DQNxs6Pw9FO6p_C7wuAKs7yqyz1Er-MyBjWywcmCCmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTM2/NzAtMTQ0MDUzNzQz/OC0yNDgwLmpwZWc.jpeg) | 1988 | Blowzabella | A Richer Dust |
+| 50 |  | 1988 | The Bothy Band | The Best of the Bothy Band |
+| 89 | ![Cover](https://i.discogs.com/odrTDNFZtMT2U-HVV4A-n4t2OHFAtpzc7tpRK45edz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjI0/ODEtMTQ4OTE0MjQx/Ny04OTE2LmpwZWc.jpeg) | 1988-12-06 | Jerry Garcia Acoustic Band | Almost Acoustic |
+| 22 | ![Cover](https://i.discogs.com/P151XdRCZPJwHhrvTAGv-dyIypQ7IJ0IEig-bfTdWos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjI5/NjEtMTI4NTQ0MTQw/MC5qcGVn.jpeg) | 1989 | Mark O&#39;Connor | In Full Swing |
+| 49 | ![Cover](https://i.discogs.com/Vw2CkQAyR1vAP9VQDubPxhn2pilIoYAbCPKJbqi37bM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI1/MS0xMzExODc0NDY5/LmpwZWc.jpeg) | 1989 | Sheena | Living Hands |
+| 32 |  | 1990 | Phoenyx | Keepers of the Flame |
+| 41 | ![Cover](https://i.discogs.com/-KABnMZHek1MV04PeADFTmZA8rQQuucOoJhcc9a0dAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDkx/NjEtMTM5MjI5NTk1/My0xNjYyLmpwZWc.jpeg) | 1990 | The Barra MacNeils | Timeframe |
+| 30 |  | 1991 | The Horse Flies | Gravity Dance |
+| 31 | ![Cover](https://i.discogs.com/GC3lwJruC8Y1FcxOeb9rPb8h9jymvpvg24FJKj1KRyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgz/NDAyLTE1Njg0MDU5/ODUtNTc5NC5qcGVn.jpeg) | 1991 | The Red Clay Ramblers | Twisted Laurel&#x2F;Merchants Lunch |
+| 79 | ![Cover](https://i.discogs.com/t5bxbaQSGoUrPFeL-DDI18prKOkILSREYvYGjeU2ajg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODY1/MjU1LTE1NjI4NjU5/NTAtOTA0MS5qcGVn.jpeg) | 1991 | Sven Nyhus | Traditional Norwegian Fiddle Music |
+| 36 | ![Cover](https://i.discogs.com/upCDtGlm-Fqaa4YwvPJPc0jynWJA5CRoA3AeokHqp_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDIw/MzYtMTQwMzA1Nzk2/MC0xNzE0LmpwZWc.jpeg) | 1992 | The Red Hots | Ready to Roll |
+| 40 | ![Cover](https://i.discogs.com/HW0oVJexePPM5xUFbeC8Pjxsff24JB9RFUdR6LtmZoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjky/NTgtMTQ5NjQxNTc2/Mi03MzE2LmpwZWc.jpeg) | 1992 | Kevin Burke | Open House |
+| 48 | ![Cover](https://i.discogs.com/vdUuGQfo2D3t6ubq7zq9WidPsTLFNQJ3kTwDwXAgqVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQz/MDg1LTE1OTM3NzA4/NDgtMzMxMS5qcGVn.jpeg) | 1992 | Michael Doucet &amp; Beausoleil | Parlez Nous A Boire |
+| 65 | ![Cover](https://i.discogs.com/ZlJPxI4mUgYDczCFDt-IUUD6wDnK1K8WKFg9HfQdA9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTI1/NjY2LTE1NjQyMTI3/ODEtNTE5Ny5qcGVn.jpeg) | 1993 | Natalie MacMaster | Fit as a Fiddle |
+| 72 | ![Cover](https://i.discogs.com/qcm0dETKRq9X8COLBvS0HcvqUR8zwYCs7QaO4YbhKUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDIw/ODEwLTE1MTYwMzAx/MTAtOTIyNi5qcGVn.jpeg) | 1994 | Athena Tergis &amp; Laura Risk | Journey Begun |
+| 93 |  | 1995 | Liz Carroll | A Friend Indeed |
+| 95 | ![Cover](https://i.discogs.com/ed9V5UwNT19avNCA6ALH9tJlgVw5TLrKk8wpqJ6klts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzE5/NzcxLTE1ODcxMzgx/NzctODkzMi5qcGVn.jpeg) | 1995 | Alasdair Fraser | Dawn Dance |
+| 94 |  | 1995-06-06 | Ashley MacIsaac | Hi™ How Are You Today? |
+| 23 |  | 1996 | John Carty | Last Night&#39;s Fun |
+| 25 | ![Cover](https://i.discogs.com/Bh6CVV5CmF20lsvtuk4fNY7J7r8vnzstyL1_k8srcAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njk2/ODUtMTU3NjUxOTcx/OS02Mjc4LmpwZWc.jpeg) | 1996 | Eko | Celtica |
+| 70 |  | 1996 | Natalie MacMaster | A Compilation |
+| 62 |  | 1996-05 | Natalie MacMaster | No Boundaries |
+| 20 | ![Cover](https://i.discogs.com/rXpmhZXw2AQekTXkwavEQ1R1ziFkEtV284G9TTzFl40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODA3/NTM5LTE1NDIzNDA0/NjAtMTgyNi5qcGVn.jpeg) | 1997 | John Doherty | The Celebrated Recordings |
+| 78 | ![Cover](https://i.discogs.com/Zr8wFxU6Unkxj-YUGtF67QNNMBWHaZcyPbJop1fv9WM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODgy/MTQtMTQyMjYyMDUw/MC05MTg0LmpwZWc.jpeg) | 1997 | Boys Of The Lough | Live at Passim |
+| 80 | ![Cover](https://i.discogs.com/ASN3QIr9gL7m5udBG3d6Q4JatqPLJU5cQxG3ojV4hcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzMy/NzMtMTU4NTQyNTA0/OC00OTY2LmpwZWc.jpeg) | 1998 | Natalie MacMaster | My Roots Are Showing |
+| 14 | ![Cover](https://i.discogs.com/d2SW6c16BE7Ea5FtI07kUZUZcmInj81TDDZiwqauvPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDUz/OTMtMTM3NjA3MDI1/Mi01MjE0LmpwZWc.jpeg) | 1999 | Frankie Gavin | Shamrocks &amp; Holly: An Irish Christmas Celebration |
+| 55 | ![Cover](https://i.discogs.com/weOqW_vVUNc2dNNtQ7RSyb5-nXunUzGFx_MhKByVH0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTE5/NzYtMTU4NTg2ODMz/NS0yNTY2LmpwZWc.jpeg) | 1999 | Natalie MacMaster | In My Hands |
+| 91 | ![Cover](https://i.discogs.com/d2OMdEecQpBclzBE7E6BCZ2Vb8uuEYbdIpX3bXrQbmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzA1/NTItMTcyMzQwNzM5/OS0zMTM1LmpwZWc.jpeg) | 1999 | Eileen Ivers | Crossing the Bridge |
+| 81 |  | 1999-06-22 | Béla Fleck | The Bluegrass Sessions: Tales from the Acoustic Planet, Volume 2 |
+| 88 | ![Cover](https://i.discogs.com/MuznqacUarHA9Mo5l0KC1sIHL9XKgepWAsZRBYMdKUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjMy/Ni0xMjQ0MTQ3NjQw/LmpwZWc.jpeg) | 1999-10 | Hollie Smith | Light From a Distant Shore |
+| 100 |  | 1999-11-16 | Béla Fleck and the Flecktones | Greatest Hits of the 20th Century |
+| 29 | ![Cover](https://i.discogs.com/xcckQj50fXfK-fV7zCJeFzPoK37xUJL0S54qWBFmAPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTc1/MDM5LTE1NDkzNjQ5/MjctNzEyMS5qcGVn.jpeg) | 2000 | The Gordons | Covered Bridge |
+| 73 | ![Cover](https://i.discogs.com/4y-tUf4VNPlPhUZFZ9_qzQdSZH2DlIvn7T0z5_Yl9sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTk2/NDY0LTE1MDgwMjAx/NTAtNzk0My5qcGVn.jpeg) | 2000 | Blazin&#39; Fiddles | Fire On! |
+| 87 |  | 2000 | Liz Carroll | Lost in the Loop |
+| 10 |  | 2001 | The Red Clay Ramblers | Yonder |
+| 43 |  | 2001 | Lissa Schneckenburger | Different Game |
+| 53 | ![Cover](https://i.discogs.com/ddpUIdj211Zhn__0D_WeXy9GtUpDoUQR8jzUkbo50ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzU0/NjEtMTQyNjM3Nzk4/NC0yNTAzLmpwZWc.jpeg) | 2001 | Fiddlers&#39; Bid | Da Farder Ben Da Welcomer |
+| 82 |  | 2002 | Liz Carroll | Lake Effect |
+| 90 |  | 2002 | Ashley MacIsaac | Ashley MacIsaac |
+| 63 | ![Cover](https://i.discogs.com/ob2tw5JNJYdzZGlMiEwZQXk_idFkm-lF8-aY3hE1y_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzA0/MDIxLTE1MjA5NTQx/NjctNzUwOS5qcGVn.jpeg) | 2003 | Fromseier Rose | Contradiction |
+| 85 | ![Cover](https://i.discogs.com/am8s3vEDOzmTUwscalOaMoz2o-r72TleFzMoVsEX_Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYy/OTk3LTE1MzE2ODU1/MzEtMzQ4Ny5qcGVn.jpeg) | 2003 | Tommy Peoples | Waiting for a Call |
+| 59 | ![Cover](https://i.discogs.com/95kB_D3ZfCD1Gy587EnpBM5x3GP0UmMZ87TcXNAGjNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDM3/NjItMTM5MzI3NzY1/MS05MzQ2LmpwZWc.jpeg) | 2003-07-28 | Dave Swarbrick | English Fiddler: Swarbrick Plays Swarbrick |
+| 27 | ![Cover](https://i.discogs.com/g_6KIopBP2_Av2heZVjHYkTpVjiXQP37njxGB20hmUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg0/MDkyLTE1MDIzNDg5/OTYtMTI2My5qcGVn.jpeg) | 2003-08-26 | John Carty | At It Again |
+| 92 | ![Cover](https://i.discogs.com/hBGX_t9djcUH6hAxW19KInlY67Rvle1O7AyCucd2lpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzc4/NzgtMTU4NDYwNzE5/OS0xNzk0LmpwZWc.jpeg) | 2003-11-04 | Natalie MacMaster | Blueprint |
+| 18 |  | 2005 | Kevin Burke &amp; Ged Foley | In Tandem |
+| 52 |  | 2005 | Fiddlers&#39; Bid | Naked &amp; Bare |
+| 75 |  | 2006 | The McDades | Bloom |
+| 99 |  | 2006-09-25 | Bellowhead | Burlesque |
+| 69 |  | 2007 | Sheelanagig | Baba Yaga&#39;s Ball |
+| 84 | ![Cover](https://i.discogs.com/bzqMnyEiN4zi1HpBq-41tVk13yzByuAcYP1wMOGBVA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjYz/ODg0LTE1ODg4Nzc1/MjctMTM1MC5qcGVn.jpeg) | 2007 | Caoimhín Ó Raghallaigh | Where The One-eyed Man Is King |
+| 66 |  | 2007-07-30 | Kevin Burke &amp; Cal Scott | Across the Black River |
+| 58 |  | 2008 | Lost Bayou Ramblers | Vermilionaire |
+| 33 | ![Cover](https://i.discogs.com/SmkPDutLByiJMeTe2XsUrRzW9UM2jC1tn2RWPETFGI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDg5/MjctMTQwMzI2NjIx/NC0yODI5LmpwZWc.jpeg) | 2008-03-24 | Luke Abbott | Take Me Home |
+| 26 | ![Cover](https://i.discogs.com/k8wKEn9-hy_mV_55fRlsLEG31XccE-6CY5558TlLIO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzQy/NDQtMTUwMTA4MDE0/NS0xNTgzLmpwZWc.jpeg) | 2008-06-10 | David Klinkenberg | The Carol Of Emmanuel |
+| 35 |  |  | Eimear Bradley | Eimear Bradley-Belfast+Irish Treats |
+| 64 |  | 2008-08-19 | Darrell Scott | Modern Hymns |
+| 76 |  |  | Frankie Gavin | The Best Of Frankie Gavin |
+| 16 | ![Cover](https://i.discogs.com/517ECzPEB5Lbpf3uyJReOYe3rF6WYjriNfbK2rKSLwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDMw/OTE1LTE2NTk3MTUz/OTYtNjU2MS5qcGVn.jpeg) | 2009 | The Red Clay Ramblers | Old North State |
+| 98 |  | 2009-04-03 | Sara Watkins | Sara Watkins |
+| 61 | ![Cover](https://i.discogs.com/Vcv7scwh_T8O6bgT0DRx76vCKv2NClX3GXy6fahpDyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NjAw/MjctMTM5MzkyNjAw/OS0zMTk0LmpwZWc.jpeg) | 2010 | Rapalje | Live Album 2 |
+| 1 | ![Cover](https://i.discogs.com/53AM6BH6hsFJhS84tE-kEr04_q-ll5I6zGMh5maCTb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU4/NzM2LTE1OTkwOTU4/MzktNjE4MS5qcGVn.jpeg) | 2011 | Michael Levy | The Klezmer Fiddle |
+| 5 | ![Cover](https://i.discogs.com/IPHwxUWCHxuZfgHPFkBymP8ha29DxPiTXLW4PehfBq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzYy/NjkwLTE3MTI3ODU0/MDYtNTgzOC5qcGVn.jpeg) | 2011 | Kevin Burke | Songs of Mirth |
+| 9 | ![Cover](https://i.discogs.com/7Rxk_wcrq3O6VkBuV5yqMgSOrQPcZ952FhYjIlmweE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzQx/NTktMTY4MDY0NjU2/OC0xNTU3LmpwZWc.jpeg) | 2011 | Mark O&#39;Connor | American Classics |
+| 28 | ![Cover](https://i.discogs.com/aAiRKv-CU0U4oUT9Pi1IlG3Gd97qCPDdu6ka3BnXKzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzY2/ODM5LTE2MDczMDMz/MjItNjMwNy5qcGVn.jpeg) | 2011 | haystax | Showdown in Motor City |
+| 34 | ![Cover](https://i.discogs.com/1qJLmGaaYPyY4PbG0-UHOVIOU6FSCc-aqFI4sENrA24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjI1/OTEtMTM3MTQ2Njc3/My02NDY4LmpwZWc.jpeg) | 2011 | Circa Paleo | Tideland |
+| 57 | ![Cover](https://i.discogs.com/XQ4GjUxg1xD92lKk_xqqHgj5J0PCCXU60fFQHNQh-3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjE5/NzMtMTMzNzcxOTQ3/OS04NTQxLmpwZWc.jpeg) | 2011 | Kevin Ridley | Flying In The Face Of Logic |
+| 54 | ![Cover](https://i.discogs.com/k4ZOCDOfKKXS5oCY0D7PZ-74ED1j9K04XvUIvQhwFuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTc2/MDUtMTM4MDcyOTc4/OS0yMTk3LmpwZWc.jpeg) | 2011-04-15 | Nils Okland &amp; Sigbjorn Apeland | Lysoen - Hommage a Ole Bull |
+| 60 |  | 2011-10-22 | Blackbeard&#39;s Tea Party | Tomorrow We&#39;ll Be Sober |
+| 56 | ![Cover](https://i.discogs.com/_OU4qFznRx_U_GvJayE02rsRxt3sGFPMAnXTotTeES4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQy/MDk5LTE2MDA2MTk2/MDQtNDczNy5qcGVn.jpeg) | 2011-11-01 | Natalie MacMaster | Cape Breton Girl |
+| 17 | ![Cover](https://i.discogs.com/c16yHc_tn0duK9BRiqngl4FE9pgeOU6xTMZhdOMuUBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDM3/MTctMTQ3NDgyNDQw/MC01MDI4LmpwZWc.jpeg) | 2013-08-14 | Øystein Sandbukt | Normør |
+| 11 | ![Cover](https://i.discogs.com/NMEpUXJSge992eo4wjCB973wxytxObBedxtLihXv7I4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MDg5/NTItMTQ4MTgzOTA3/NC0zNzA4LmpwZWc.jpeg) | 2014-06-10 | Còig | Five |
+| 3 |  | 2016 | Various Artists | Traditional Fiddle Music of Cape Breton, Volume 1: Mabou Coal Mines |
+| 6 | ![Cover](https://i.discogs.com/nKgfMv7zKBtkaGq7pHui6ju2tDOMzxrzE1juJ122pOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzg3/OTc2LTE2MzU2MTI2/NjItNjYwMy5qcGVn.jpeg) | 2016 | The Fitzgeralds | The Fitzgeralds |
+| 15 | ![Cover](https://i.discogs.com/9pNUFpf00rTfsNVzr7LYNKzZnAarzHw2SwUa9cUUgZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTg3/MzgtMTQ4MTYzMDk3/NS04MzU0LmpwZWc.jpeg) | 2016-12-12 | NAPAEA | Art Thou Lost At Sea |
+| 8 | ![Cover](https://i.discogs.com/TW2aogXSkJIKHhRI0TGliTKq2eAWlzR-ozue8Q9aJHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjkz/MTc3LTE1NzE2MDU3/NTItOTM1Ny5qcGVn.jpeg) | 2019-01-05 | John Mailander | Forecast |
+| 38 | ![Cover](https://i.discogs.com/4DZMJdhYhRURJRipV-BuL0tQH-5fRvA0lWDk_KI5858/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjEz/MzI1LTE2Mzg1NDYy/MDYtNjI4Mi5qcGVn.jpeg) | 2020-09-04 | Bronwyn Keith-Hynes | Fiddler&#39;s Pastime |
+| 51 | ![Cover](https://i.discogs.com/VnVMoNJqldo141DqEyN_wbSi5ar99JMBz5wLXepk-74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTg4/NTQ3LTE2MzY5ODQw/MzEtODM5OS5qcGVn.jpeg) | 2021-10-28 | Fiddlesticks | Cold Fusion (Celtic Christmas) |
+| 44 | ![Cover](https://i.discogs.com/2kc0WCfwk7NYyohmpiWjCE96A03NwqeDoJADjtN0lRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE5/OTU0LTE2MzcxODE1/ODItNTAyNi5qcGVn.jpeg) | 2021-11-17 | Fiddlesticks | Return to Nauvoo - Traditional and Old Time Hymns |
+| 37 | ![Cover](https://i.discogs.com/JEw1nFhzh3t3drGt8-oKy9l2pvPjDHLpZ_zQgLa_5F0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQ1/Mjk3LTE2NDQxMzAw/MzQtNDg2MS5qcGVn.jpeg) | 2021-12-29 | Courtney Granger | Un Bal Chez Balfa |
+| 21 | ![Cover](https://i.discogs.com/ieAth7t29san5KAz52DLM3NUMZJ_6-eE6U8_mHbmKlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjE1/MzgwLTE3MzA5MjI1/MDYtODQ3NC5qcGVn.jpeg) | 2023 | Various Artists | Old Time Music From West Virginia |
+
+### Related genres
+
+- [folk]({{ "/tags/folk" | relative_url }})
+- [celtic]({{ "/tags/celtic" | relative_url }})
+- [irish]({{ "/tags/irish" | relative_url }})
+- [bluegrass]({{ "/tags/bluegrass" | relative_url }})
+- [country]({{ "/tags/country" | relative_url }})
+- [acoustic]({{ "/tags/acoustic" | relative_url }})
+- [world]({{ "/tags/world" | relative_url }})
+- [traditional]({{ "/tags/traditional" | relative_url }})
+- [scottish]({{ "/tags/scottish" | relative_url }})
+- [banjo]({{ "/tags/banjo" | relative_url }})

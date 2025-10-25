@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-20T08:03:00.027Z
+permalink: tags/hardstyle
+title: hardstyle
+---
+
+## hardstyle
+
+Last updated: <time datetime="2025-10-20T08:03:00.027Z">Mon Oct 20 2025 11:03:00 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 2 | ![Cover](https://i.discogs.com/pISSvvKmcKwjeBvwuyqJ9Lo1jSM5RWBD6AyD1zbN_q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDA2/NDctMTUxNTI4NzA4/MS03MjQxLmpwZWc.jpeg) | 2009-09-25 | D-Block &amp; S-te-Fan | Music Made Addictz |
+| 1 | ![Cover](https://i.discogs.com/8p8Yn0cQqbEO6Evb-Ob8_qbfPZdesGX3YyWr2119MFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTEy/ODk0LTE1MjQ2MjAy/MTAtOTAyMS5qcGVn.jpeg) | 2018-04-25 | Unsenses | Take the Leap |
+| 3 |  |  | c0ncernn | GRAVE ROBBING |
+| 44 | ![Cover](https://i.discogs.com/vjkc6Mr3c6PzuTxAYluxB-DEU8YJfNGYG3wrVOL6zjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEw/ODYwLTE1NTU1ODQ5/MjktMTk5NC5qcGVn.jpeg) | 1987 | Bloodlust | Imma Boss |
+| 5 | ![Cover](https://i.discogs.com/RPI9kMZO6fKGquUI2eoL8nuG9ki41fR8xnlesfBB_3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjM3/LTExNzUxNzU1MDgu/anBlZw.jpeg) | 2001-12 | Nosferatu | The Best of Nosferatu Volume 1 The Hades Years |
+| 50 | ![Cover](https://i.discogs.com/mhYJz-LL6wfUUUU9ukFUcKRHj34SqNxBkSXyu839VXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzU3/Ni0xMjMxNDM5Nzk1/LmpwZWc.jpeg) | 2003-11 | Deepack | The Prophecy |
+| 36 | ![Cover](https://i.discogs.com/y9cFD07I1SFb-1BVpyBlmlCX0tzn3GMLUkEEA9x2WQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTU3/NC0xNjE1NjM5Mjcw/LTc4MTYuanBlZw.jpeg) | 2005-07-11 | Showtek | Brain Crackin&#39; |
+| 31 | ![Cover](https://i.discogs.com/RpHLwsePCnqDsC754bjz3agzZIrlGNWwPND7Ee_8lz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDU5/My0xNTUxNjA3MjYx/LTIwMTQuanBlZw.jpeg) | 2007 | Scooter | Devil&#39;s Symphony |
+| 12 | ![Cover](https://i.discogs.com/wUO1x02w3r2RVos3TXvUpl4VvO6nrc1B0HWQ5JE54Co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzUy/MjYtMTM2NzY2NTkx/MS0zOTA3LmpwZWc.jpeg) | 2007-01-07 | Showtek | Album Sampler |
+| 25 | ![Cover](https://i.discogs.com/KpwwHVjD8ho0Dtj3eWi54Gm8FqLT2Jwm3zRXDejtxqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTkx/OC0xMTc4MzQzMDEz/LmpwZWc.jpeg) | 2007-04 | Brennan Heart | Lose It All |
+| 38 | ![Cover](https://i.discogs.com/QDzWvHUnA1bnScuiWNrJ8zDaSK9CYOlfMvAl5BwQsbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE5/NjQtMTE4NjQ3Nzc0/My5qcGVn.jpeg) | 2007-07-20 | Wild Motherfuckers | Fother Mucker |
+| 11 |  | 2010-03-08 | Headhunterz | Studio Sessions |
+| 14 | ![Cover](https://i.discogs.com/PGlIM2PULSRGqxXEx3vjjCmZxislwYcDf6sTQ1WmwDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDY2/MjctMTYxMjYzMDI3/NC03NjUyLnBuZw.jpeg) | 2010-03-28 | Dutch Master | Recalled To Life &#x2F; Now Is The Time |
+| 9 | ![Cover](https://i.discogs.com/1_LbfoRLgiDe2cwnDqHY4CWG0j2yEJC23kdS90Dw48E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzQ1/MzUtMTM5NzU2NDY0/NC0yNjg3LmpwZWc.jpeg) | 2011-10-14 | Scooter | The Big Mash Up |
+| 28 |  | 2012-03-15 | Headhunterz | Sacrifice |
+| 48 | ![Cover](https://i.discogs.com/Rz5NABaHp9yfBn0XpE6a1PeXSwJ1VcQjKl2sMmuLrlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE5/Mzg1LTE0OTM1OTM5/MDUtMzMyMC5qcGVn.jpeg) | 2012-04-21 | Digital Punk | Circus Of Insanity (Official Intents Festival Anthem 2017) |
+| 6 |  | 2012-05-07 | Hardwell | Spaceman (Outer Space Remixes) |
+| 34 | ![Cover](https://i.discogs.com/2TmlKOYtYO6gelKlOusg6oTPpAp5Gk-ZGD8JX9vLdh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjky/MTYtMTM1NjI4NDk3/MC0yMzc0LmpwZWc.jpeg) | 2012-07-02 | Brennan Heart | We Can Escape (Intents Anthem 2012) |
+| 46 | ![Cover](https://i.discogs.com/WxOmCSBAIE6uDHVNjqfLEv_VTKsohTGcsWPQf6keU0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg4/MDc5LTE1MzQyNTM4/ODgtMTY1Mi5qcGVn.jpeg) | 2012-11-02 | D-Sturb | Drop &#39;Em Down |
+| 45 | ![Cover](https://i.discogs.com/Uh1daewTdea93k65Bkdi0F1yPasDqs58-MNyp78Q_KI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA5/OTE3LTE1MDYzODAz/NTctMjMwNi5qcGVn.jpeg) | 2013-01-29 | Dr Phunk | Give a Fxck |
+| 41 | ![Cover](https://i.discogs.com/Gkc7jyuGG6zzMvD5pE2vwKelMxpIqq3DHjeJ_mLg4p4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTk3/OTU2LTE1NjU3NjI1/OTAtNzc3Ni5qcGVn.jpeg) | 2014-02-07 | Noisecontrollers | Chapter One |
+| 15 | ![Cover](https://i.discogs.com/8DgW4VOf0Wz7LlzOhJKSnhFP9AMu9r3s7muYPX6ImTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDI3/ODgtMTQxODM3MjA4/OC05NzUyLmpwZWc.jpeg) | 2014-11-12 | Anguish | Malo Tebya |
+| 43 | ![Cover](https://i.discogs.com/J0v41Ghr03URpzCy3TaD_6zv43Sp3R2_G39rsZ5ZP9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTU5/NTctMTQzNDA1ODc4/Ny0zNjAxLmpwZWc.jpeg) | 2015-06-12 | Wildstylez | Lose Control |
+| 26 | ![Cover](https://i.discogs.com/tIMfuK7GrELZOB6ZBMtQD2DHYCJphw5SLCRm-tIowTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTMw/MzQtMTQzODYzOTkw/Ny0zNDAxLmpwZWc.jpeg) | 2015-08-04 | Da Tweekaz | Moskau |
+| 49 | ![Cover](https://i.discogs.com/uBDBovxFQ8AQqg1a8ik_cJedBTHNlJAj7iwVlfKJxJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI0/NzQ2LTE0OTAzMjY3/NzktNTMwMi5qcGVn.jpeg) | 2015-08-15 | Camellia | PLANET&#x2F;&#x2F;SHAPER |
+| 13 | ![Cover](https://i.discogs.com/bu6vH9nf7ekj7Ntwf3pFP2ZxBFt7DRtFEr4VgFPLcBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDQ5/MzYtMTQ1MTM0NDk5/Ni0zNjcyLmpwZWc.jpeg) | 2015-09-21 | Cyber | ILY |
+| 24 | ![Cover](https://i.discogs.com/FlCSpbitw5YTbtg5JGrVgS0fRgPgNLyPX1INfyfqN5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODAz/Mjg2LTE1MDQ1NjMz/NDUtMjA4OC5qcGVn.jpeg) | 2016-09-09 | The Prophet | Stampuhh!! (The Prophet&#39;s Stamp Remix) |
+| 33 | ![Cover](https://i.discogs.com/kgh8Tg8cRqU1NWzDdqna0SiF2_eZ3DhD_uM1iuTpqhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTU0/MzMtMTQ5MDI1OTc2/NC0zMDQ5LmpwZWc.jpeg) | 2016-11-28 | Wasted Penguinz | Clarity |
+| 37 | ![Cover](https://i.discogs.com/E5uZYYo4lz59AgmfnKd3aNKqeUH2ew3WQUkt3o92AWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjQ5/NDUtMTQ4NDQyMDQ1/NS0zMzc5LmpwZWc.jpeg) | 2016-12-19 | Timmy Trumpet | Oracle (TNT Remix) |
+| 22 | ![Cover](https://i.discogs.com/6MmHn34UC0RPBe1Tw6JwlEs7XysuZogPMECtgD_c8kE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDgx/Nzc3LTE0OTEyODUw/NDAtMzczNS5qcGVn.jpeg) | 2017-04-04 | Phuture Noize | Pursuit of Thunder |
+| 40 | ![Cover](https://i.discogs.com/LDPfYk2uHrnhncYjz_kPMvfRQR5vZEoX7raKn0yjP-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQx/NzA3LTE1MDY4OTYw/MjQtNzU2Ny5qcGVn.jpeg) | 2017-10-02 | Rebourne | FREE |
+| 47 | ![Cover](https://i.discogs.com/rzeO2NKks6NTxKpxUR_hR5NA5BPKEWKK7m_qZAsRzSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYw/NTg2LTE1MTEwOTQ3/NjAtODQ0MC5qcGVn.jpeg) | 2017-10-18 | Wildstylez | Temple Of Light (Qlimax Anthem 2017) |
+| 18 | ![Cover](https://i.discogs.com/Iq4Sp2Td57PW5f0p_Abva7cJhRvh5gDTQN9c7QJxwbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ1/ODUwLTE1MjUyMjUw/NDItMjU4NC5qcGVn.jpeg) | 2018-05-02 | Rejecta | Deserve To Die |
+| 27 | ![Cover](https://i.discogs.com/5FUavU6bvOqaLTD2921L5SEtTaOfx5x4HQcuHNiCsvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjE5/MjU0LTE1MzA3NDE5/OTgtOTU4MS5qcGVn.jpeg) | 2018-07-05 | Brennan Heart | Fuelled By Fanatics (Official Decibel Anthem 2018) |
+| 23 | ![Cover](https://i.discogs.com/rPTg1UqTt4faDJcgspr1p6e4t37vkyHFXCoYl7Bf16o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg2/NTM3LTE1MzQyMTg2/OTEtOTY1My5qcGVn.jpeg) | 2018-08-13 | Ran-D | Hurricane |
+| 21 | ![Cover](https://i.discogs.com/OIOMYG2acQJ3f0aLthh6hqa-lqXf2I5VFMztbUVtdGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcy/NjA4LTE1NzUyMjM5/MDAtMzAwNC5qcGVn.jpeg) | 2019 | Rebelion | Rampage |
+| 29 | ![Cover](https://i.discogs.com/kOKCuV5SkL859iUHoOWFvrd2Zi6kKAoD8A3tYatD16A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTIx/NjA1LTE1NTUxNjY3/MDktNjg2OC5qcGVn.jpeg) | 2019-01-25 | Dr Phunk | Down Down Down |
+| 17 | ![Cover](https://i.discogs.com/ga3sT96WmOiBoLcpBqu2Wk4e_tg5T9Qti_hIv_E1eIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTg2/ODg1LTE1NDk1ODU1/MTAtMTkxMS5qcGVn.jpeg) | 2019-02-08 | Minus Militia | The Holy Grounds |
+| 32 | ![Cover](https://i.discogs.com/2GaRGb6nvF0rLx3CHf3t29o9LNZ24lI767qHn6_C-jY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/OTU1LTE1NTY3Mzg1/MjktNzc3NS5qcGVn.jpeg) | 2019-05-01 | Regain | Bust Ya Head |
+| 39 | ![Cover](https://i.discogs.com/31rzm5smpA-IhW7YdQ1EZOIwWDxDXVh02zGUreJMwA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjgz/MDk3LTE1NTg5NTM5/NzItNjI3MS5qcGVn.jpeg) | 2019-05-27 | Malice | Fear |
+| 10 | ![Cover](https://i.discogs.com/SP-HHyPpKJBpvoZtIVBS_WqZRpyN_geYZcp4CLOP3Fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU3/NzE5LTE1NjI2OTY5/NTEtNTkzNy5qcGVn.jpeg) | 2019-07-09 | Headhunterz | Orange Heart (feat. Sian Evans) |
+| 42 | ![Cover](https://i.discogs.com/NuWQx2DU95CccVGJjHBoFpDj641StsfcuXhvlDaUtp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTUw/ODc0LTE2NTgzOTEy/MDAtNzEwMC5qcGVn.jpeg) | 2020-04-24 | Russian Village Boys | Kiss My Peace |
+| 19 | ![Cover](https://i.discogs.com/OGRs0apeOHcOLwvA5TNVuMdwezMA3scKPnSTr28kqWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjIx/NjUzLTE1ODgzMTM0/MjAtMzc3NC5qcGVn.jpeg) | 2020-05-01 | Ran-D | Dance With The Devil |
+| 20 | ![Cover](https://i.discogs.com/OpNmK4ktMqAaaDbLLpXeyKM0SpOMS4pn5wX5YWYjJi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjg5/NjA1LTE1ODkyMzU5/MDUtNDc4Mi5qcGVn.jpeg) | 2020-05-12 | Ghost Stories | The Enemy (You Cannot See) |
+| 7 | ![Cover](https://i.discogs.com/RQTr5TSRQpBl6-uef54lxwPm5Y9Wxq8QJnSfmivR6uY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM2/NzI0LTE1OTQ5ODA4/NjMtMzU1MC5wbmc.jpeg) | 2020-07-17 | aamourocean | Parmi Les Mortels |
+| 8 | ![Cover](https://i.discogs.com/aJuwUQL5DhuEtWtu922bby7Vz7VqnbLYsruhQVCpu_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTQx/ODEzLTE1MzcyODI3/MjktNzk4MC5qcGVn.jpeg) | 2020-09-17 | Radical Redemption | Danger Zone |
+| 35 | ![Cover](https://i.discogs.com/wp06WlYyLi5Lg3Cr4STg2HeeTQxJal7P0Lqu_lmCPT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY3/ODcyLTE2MDQ2MDMz/MTgtOTA4MC5qcGVn.jpeg) | 2020-11-05 | Atmozfears | Release |
+| 4 | ![Cover](https://i.discogs.com/3TwWZooYV9IT6n0n4B56dPTIgpG-8EzQrgw4mifMu4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDcy/MzExLTE1NTQ4NDk5/NzktODc4MC5qcGVn.jpeg) | 2021 | E-Force | Genesis |
+| 16 | ![Cover](https://i.discogs.com/RrbjdX8TsaJXAqusatFImmbH0xbBuOSNDV-KZJBbQOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzIz/ODktMTQ3NDI3ODUz/NC05OTg5LmpwZWc.jpeg) | 2021-08-19 | Adaro | For The Street (Regain Remix) |
+| 30 |  |  | T4T4NK4 | GTP |
+| 88 | ![Cover](https://i.discogs.com/hwsCJ6rJq2dmsfwNqXff5-DpIBrI0izL9aEomKWIBUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTIz/OTg3LTE1MTAyOTg1/MjMtNjc0Ny5qcGVn.jpeg) | 1994 | Project One | EP I |
+| 72 | ![Cover](https://i.discogs.com/n_dsH2y3yMwFa3NNY1vEyPUaX6_RMsyc94eKPntmra0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYy/NzQtMTQwMjA2MDc1/My03NTQ3LmpwZWc.jpeg) | 1996 | Scooter | 20 Years of Hardcore (Remastered) |
+| 99 | ![Cover](https://i.discogs.com/m_UyoiSU-1DhTRrd7cKMZ8p9XGiURnXpwXAFcJbqmrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODQ1/NS0xMjY0NDg5NTI3/LmpwZWc.jpeg) | 2006 | Cascada | Everytime We Touch (Sound Rush Remix) |
+| 67 | ![Cover](https://i.discogs.com/tx1qwGLY60NWZc2cEf0fbjDsJV4jWSiaSwjgx1pqQL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTQ4/Ny0xNjE1NjM5NTA2/LTcyNTIuanBlZw.jpeg) | 2006-08 | Lowriders | Don&#39;t Get Back&#x2F;Pimp My Ride |
+| 52 | ![Cover](https://i.discogs.com/JDRDB00aFcbEAlCTf3D3n9iNmaHPRABdeGeEZ5v8NE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjUz/MC0xMTc0OTM1ODEz/LmpwZWc.jpeg) | 2007-03-25 | MUST DIE! | CRISIS VISION |
+| 93 |  | 2007-11-16 | Headhunterz | The Power Of The Mind |
+| 71 | ![Cover](https://i.discogs.com/68xu8kS0pRJkmsNC3Z6du94SAL-kMwmvINovxEo35G0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjAx/MDQ0LTE1Nzc5NTc3/MzQtMzcwOC5qcGVn.jpeg) | 2007-12-01 | Coone | Toss A Coin To Your Witcher |
+| 79 | ![Cover](https://i.discogs.com/SYEx5xuFUGBL4jOc5Zd8teTfu2TJiI1P_f-2y-6XdyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQ3/NzM2LTE2MDI1Mjgz/MzQtMzE2Ni5qcGVn.jpeg) | 2008 | DJ Gollum | All the Things She Said 2020 (Sub Sonik Remix) |
+| 86 | ![Cover](https://i.discogs.com/NGvMdP33ZsRP2GDUqyvomotQVeD9ER0WVW3IcB8bteo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAz/ODU5LTE1MTk5MTIz/MzEtODg4OC5qcGVn.jpeg) | 2009-03-16 | Headhunterz | The Return Of Headhunterz |
+| 61 | ![Cover](https://i.discogs.com/4GqxinXTGsAqNg8T3tP1-05a_Qu09WhN4ue3bcF94mI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzk2/NC0xMTM2MTI4ODA0/LmpwZWc.jpeg) | 2010-03-01 | Showtek | Get loose |
+| 55 | ![Cover](https://i.discogs.com/O8YpdgvmS6MhXZheXJZpTX9Jama7CGeFtlfwOuk_Vz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEz/NzYzLTE1MTAwODkw/OTgtNDk3Ni5qcGVn.jpeg) | 2010-04-10 | Ephixa | Ephixa Old School |
+| 51 | ![Cover](https://i.discogs.com/i5dxSZhUVCv9rv5666m-W1oCgZSBWcK6gyelm_Vj7bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTU1/NTQ4LTE1MDcxNTQ5/MTAtMzgzNC5qcGVn.jpeg) | 2010-07-25 | Da Tweekaz | DRKNSS |
+| 83 | ![Cover](https://i.discogs.com/s9lg9fOk8HHIAcb_rrKurgVw6JJRAUAOXB58Y6lV4XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzUx/MjMtMTUzMTg0ODg5/Ny01Mjk5LmpwZWc.jpeg) | 2010-09-11 | Armin van Buuren | Balance |
+| 63 | ![Cover](https://i.discogs.com/wPnQ_kKrp5hVNp2NVpx1KXlfjb_sfDZqH6YvccgOYyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzU0/MzktMTMwNjQyMzcy/NC5qcGVn.jpeg) | 2011-05-12 | Wildstylez | Bad Habits |
+| 53 | ![Cover](https://i.discogs.com/EZvxs_N3OdT4fr8wcG1q1A394pOH27Ttye7mZBHGXTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTIx/MjY1LTE1NzEzNTAx/MjUtNTQ5Ni5qcGVn.jpeg) | 2012-07-27 | Zatox | Hard Bass (Ran-D Remix) |
+| 57 | ![Cover](https://i.discogs.com/ZV9eKJSWc3c6_frbchqYiLWqShOReUDkh18qIDCBvhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgw/NzQ4LTE0OTQ2MDM0/MDAtMjc1OC5qcGVn.jpeg) | 2012-08-12 | D-Sturb | Drown |
+| 64 | ![Cover](https://i.discogs.com/8DgW4VOf0Wz7LlzOhJKSnhFP9AMu9r3s7muYPX6ImTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDI3/ODgtMTQxODM3MjA4/OC05NzUyLmpwZWc.jpeg) | 2014-11-12 | Anguish | Гуляю |
+| 73 |  |  | TR3NVHN | the pump |
+| 74 | ![Cover](https://i.discogs.com/7WZ1HciM119wblNUc8lomsvRhkV-_ep1Hqg2Pijmudk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTIw/Ni0xMjIzMzYxMzM2/LmpwZWc.jpeg) | 2003-04-21 | Deepack | 100% &#x2F; Zero Crossing |
+| 60 | ![Cover](https://i.discogs.com/wkkOEMwTWtLEWXAffyR4PYLTsoNaHo6V9SxXn2qllO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Nzc0/NDUtMTQyMDIwMjg4/MS0zMTQzLmpwZWc.jpeg) | 2015 | Armin van Buuren | Great Spirit (Wildstylez Remix) |
+| 80 | ![Cover](https://i.discogs.com/5ZTEjztfJbX0yddcccwz3nn6sGXpeSGhYBux6vs3e2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTI1/NTE3LTE2MjYwNzk1/MTAtMTM2NC5qcGVn.jpeg) | 2015-10-13 | Scott Lloyd Shelly | Terraria, Vol. 4 (Original Soundtrack) |
+| 96 | ![Cover](https://i.discogs.com/S2GvAFIN6pl7efztyaT-sZf_rARYcYlNj70FERFGNAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Mzgw/MjYtMTQ3MTg0MjQw/NC01ODI4LnBuZw.jpeg) | 2016-08-22 | Refuzion | Don&#39;t Care |
+| 76 | ![Cover](https://i.discogs.com/k0yQ-fnWnFmnHagtw0bTJ6PdDaBIlYp_e3CTSGMrEWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjkz/NDk0LTE1NTE1NDE5/MzAtNjcxMy5qcGVn.jpeg) | 2017-01-06 | D-Attack | Stay Alive |
+| 84 | ![Cover](https://i.discogs.com/nFyKfwQ4wSTh7a6g8eVJA1NBJG69K-Ie_kgnMwUiMWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTk0/NzA5LTE0OTMyMDA0/MzAtMzYxMC5qcGVn.jpeg) | 2017-04-26 | Da Tweekaz | How Far I&#39;ll Go |
+| 94 | ![Cover](https://i.discogs.com/ffbtRvnGalnsPe-Z71lAlMagqGf43xcwDA6wfCNP8uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Nzcw/OC0xMjAyODYyMTcw/LmpwZWc.jpeg) | 2017-07-26 | Showtek | FTS |
+| 98 | ![Cover](https://i.discogs.com/EU6h6OiBtmOTTxJ9LUYUMUNcBH9Dn12LyTiUQx8nYPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTU4/NjktMTUyNzk0OTI2/Ny04OTYxLmpwZWc.jpeg) | 2017-09-01 | Headhunterz | Destiny |
+| 56 | ![Cover](https://i.discogs.com/JNIL9olphmnpVoxIWLRn2ZgUX7mmptknZK7CLTG5Tlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE2/MDg4LTE1NTAwOTk2/NTktNDA0Mi5qcGVn.jpeg) | 2017-09-12 | D-Block &amp; S-te-Fan | Forthenite |
+| 95 | ![Cover](https://i.discogs.com/UT7e2lBOYioUltRnFmUIDWiEskZCmPyJRSPnNTB6l1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzUx/NzY3LTE1MjE3NjE5/NDgtMzYwNi5qcGVn.jpeg) | 2017-09-12 | D-Block &amp; S-te-Fan | Twilight Zone |
+| 70 | ![Cover](https://i.discogs.com/Z4-tZY7b0BIjqYHFhRa3y3hlmDhdi2cAxYs7-ixaGlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjYy/Mjk2LTE1MTQ5MzQ1/NDItODIxOC5qcGVn.jpeg) | 2018-01-03 | Bass Modulators | Imagine |
+| 97 | ![Cover](https://i.discogs.com/aqOEqSgHvzQHWhay5ZuJjVAA-Uh7VDbQrDKZSRbs5kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NjYw/MDYtMTUyMTA0NzI0/Mi03OTQzLmpwZWc.jpeg) | 2018-03-15 | Keltek | Through The Night |
+| 75 | ![Cover](https://i.discogs.com/WfnJON4b8B3PnwxXi06gZ6HqWHsG6SfrIGMPbV-EcIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg1/OTQzLTE1MjgwMTM5/ODEtNjM0My5qcGVn.jpeg) | 2018-05-31 | Phuture Noize | My Beautiful Fantasy |
+| 100 | ![Cover](https://i.discogs.com/WKpvZwJCKYR9fLK_ZSwZCgEllAyyNNocRhve0j1oiFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTEx/NzMzLTE1MzExNzU4/NDUtNjMyNi5qcGVn.jpeg) | 2018-06-04 | Ran-D | Zombie |
+| 58 | ![Cover](https://i.discogs.com/hqWmbGKxSq1PfZHxW2fnMKd2liM1XyMlUNnQDHIOOYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTEy/MjM1LTE1Mjg1NTI1/NDgtODA3NS5qcGVn.jpeg) | 2018-06-08 | Phuture Noize | Black Mirror Society |
+| 85 | ![Cover](https://i.discogs.com/cAPnnq_p--BhymBPevQLg9a9h6ppfVzyI-RyXUFrSJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc3/OTQ4LTE1NTY4NDE5/NTUtODAwNC5qcGVn.jpeg) | 2018-10-30 | Sub Zero Project | Heroes of The Night (Official Intents Festival 2019 Anthem) |
+| 92 | ![Cover](https://i.discogs.com/bdXWX6R8ohEi6Wq3J_3ipJ_JQegYbITSa56T4Y-HBDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY5/NDU2LTE2MjczMzU4/NTQtNjUwNS5qcGVn.jpeg) | 2019-01-11 | Ran-D | Zombie (Remixes) |
+| 81 | ![Cover](https://i.discogs.com/2nVm8uJFoC8xVwsal3OLVaqBZdTi4fZaGETzQBeZehQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE2/MjQ5LTE1NTAxMDM2/MTItNTIxMS5qcGVn.jpeg) | 2019-02-14 | Uncaged | The Wave |
+| 59 | ![Cover](https://i.discogs.com/DmmSMPDLmStU0OoGEdsZ4s5nkvo3WB-ZCpuA4XIAj9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQ5/OTEzLTE1NTA3MTQ5/OTEtNjMzOC5qcGVn.jpeg) | 2019-02-21 | Psyko Punkz | Victorious |
+| 66 | ![Cover](https://i.discogs.com/Slqd0kgN9kuc8HhhLG2RHDfF3Onao_42MW2Z-Iwbbrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzI2/NTIxLTE1NTIxNDMx/MjUtNzE1NC5qcGVn.jpeg) | 2019-03-08 | Deetox | Fallen |
+| 89 | ![Cover](https://i.discogs.com/pfBmhwEC-hBDoV8eD4PjNY74ERPQHYSX9YaP4txHQQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ3/OTcyLTE1NTI1MTkz/MzEtOTM3MS5qcGVn.jpeg) | 2019-03-14 | Headhunterz | Oxygen |
+| 54 | ![Cover](https://i.discogs.com/OBLYU4DtsnMpP1MUL2gj--o2kPrqI6KVneL9KveA8vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUw/MTE1LTE1NTQ0NDU2/NjMtNTUxOS5qcGVn.jpeg) | 2019-04-05 | Sub Zero Project | Contagion |
+| 90 | ![Cover](https://i.discogs.com/luwlF99WU9wtKDAQKRdNBMCiFThsZidedhmrWFM9FFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM5/MTU5LTE1NTgwNTA3/MDktNzQ5OS5qcGVn.jpeg) | 2019-05-10 | Phuture Noize | One Tribe (Defqon.1 2019 Anthem) |
+| 65 | ![Cover](https://i.discogs.com/sYAUhTehGF49yDoof8eJG5sFXUdNA9R5VjFHuuud31Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzYy/MTU0LTE1NzkzMDI5/OTEtMTMyOC5qcGVn.jpeg) | 2019-05-31 | Jebroer | Jebroer 4 Life |
+| 69 | ![Cover](https://i.discogs.com/_ZRMm6IxF_Nnpgmy7WdNd4ZSRsXP9553RWyPxAB6IKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODUz/Mjc1LTE1ODI4NDQ5/ODctNTUyNy5qcGVn.jpeg) | 2019-07-22 | D-Block &amp; S-te-Fan | Primal Energy (Defqon.1 2020 Anthem) |
+| 82 | ![Cover](https://i.discogs.com/XcZLlD6ArqROpp_f8CqxMKc93cvALQHqsL-U3DN0_FM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA1/NzM1LTE1NjU5Mjg2/NzQtOTQzOS5wbmc.jpeg) | 2019-08-12 | Camellia | blackmagik blazing |
+| 91 | ![Cover](https://i.discogs.com/HnhyUURwXlZnurj4gcxq0_y2PoPEkclcbhg38m6cjns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODc3/OTY5LTE1MDU4MTMy/NDctNDYxMi5qcGVn.jpeg) | 2019-09-06 | Frequencerz | Renegades |
+| 77 | ![Cover](https://i.discogs.com/3Zfkqso9MnHpEShtqyCsa1LTfmlfNJaghxMrGV34j6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjU2/MDIyLTE2MDYwNzI0/MTItNzQ0My5qcGVn.jpeg) | 2020-11-20 | Subsonic | Need Me |
+| 87 | ![Cover](https://i.discogs.com/m3_AxgqtQyOHWhUvnI-UaHc43fgVDTVgzhsaH-oIASk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMy/MDY2LTE2MTA2Njc4/NjEtOTcxNC5qcGVn.jpeg) | 2021-01-15 | Myst | Life Eternal |
+| 78 | ![Cover](https://i.discogs.com/mEeveO182xtpmA-CoptwioEa4gj2dA54l0bNVhbFsyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAw/MTAtMTI5NTgyNTMz/NC5qcGVn.jpeg) | 2021-08-24 | D-Block &amp; S-te-Fan | Harder State Of Mind |
+| 62 | ![Cover](https://i.discogs.com/EtE-eUJcqXI0CYU63gMpzctmVTJWrvueUk7VR_HuizQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjM3/NDEtMTM2NzMxNzU3/Ny02MTg1LmpwZWc.jpeg) | 2022-09-01 | D-Block &amp; S-te-Fan | Darkest Hour (The Clock) |
+| 68 | ![Cover](https://i.discogs.com/fn235avgOT9du73v9T-_MNUZRUc6mHZQo3NN9HtDeaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI4/NzYwLTE1MTk2ODQw/MDYtNjg5Mi5qcGVn.jpeg) | 2023-11-16 | Tweekacore | Partystarter |
+
+### Related genres
+
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [hardcore]({{ "/tags/hardcore" | relative_url }})
+- [rawstyle]({{ "/tags/rawstyle" | relative_url }})
+- [gabber]({{ "/tags/gabber" | relative_url }})
+- [trance]({{ "/tags/trance" | relative_url }})
+- [techno]({{ "/tags/techno" | relative_url }})
+- [rave]({{ "/tags/rave" | relative_url }})
+- [hard dance]({{ "/tags/hard-dance" | relative_url }})
+- [dance]({{ "/tags/dance" | relative_url }})
+- [industrial]({{ "/tags/industrial" | relative_url }})

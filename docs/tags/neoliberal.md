@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-23T15:14:51.241Z
+permalink: tags/neoliberal
+title: neoliberal
+---
+
+## neoliberal
+
+Last updated: <time datetime="2025-10-23T15:14:51.241Z">Thu Oct 23 2025 18:14:51 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 35 | ![Cover](https://i.discogs.com/jJsNr6DxLzWtv77jMYPISoYvIyYhE-qMePx8_3Uy1Dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTY2/OTAtMTQzODcyMjE5/MS0zNTk4LmpwZWc.jpeg) | 1998 | LoCash | Today&#39;s Country Hits |
+| 44 | ![Cover](https://i.discogs.com/M7OAxT7sArHCZHgepJVqtMOq-zJDs7Dorh1kwdifSLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk4/NDAzLTE1MzQ0NzAz/OTktNzEzNS5qcGVn.jpeg) | 2007 | LoCash | Billboard # 1&#39;sTop 100 Country Songs 2011 |
+| 47 | ![Cover](https://i.discogs.com/M7OAxT7sArHCZHgepJVqtMOq-zJDs7Dorh1kwdifSLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk4/NDAzLTE1MzQ0NzAz/OTktNzEzNS5qcGVn.jpeg) | 2009 | LoCash | Billboard # 1&#39;sTop 100 Country Songs 2010 |
+| 1 | ![Cover](https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg) | 2014-12-07 | Joe Biden | We Are One Concert, Washington D.C., January 18, 2009 |
+| 13 | ![Cover](https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg) | 2014-12-07 | Joe Biden | On the Economy with Andrew Yang |
+| 16 | ![Cover](https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg) | 2014-12-07 | Joe Biden | We Are Once Concert, Washington D.C., January 18, 2009 |
+| 21 | ![Cover](https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg) | 2014-12-07 | Joe Biden | Promises to Keep - On Life and Politics (Unb) |
+| 22 | ![Cover](https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg) | 2014-12-07 | Joe Biden | Excellence Demands Sacrifice |
+| 30 | ![Cover](https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg) | 2014-12-07 | Joe Biden | We Are One Concert 2009-01-18 |
+| 33 | ![Cover](https://i.discogs.com/2xDefmEzNbRm66kNwvjXeee--G1HiI8N7CEhTsn0cGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzI3/NDU3LTE2MzUxODEz/NTgtMjIwNS5qcGVn.jpeg) | 2015 | LoCash | Don&#39;t Get Better Than That [Single] |
+| 46 | ![Cover](https://i.discogs.com/2xDefmEzNbRm66kNwvjXeee--G1HiI8N7CEhTsn0cGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzI3/NDU3LTE2MzUxODEz/NTgtMjIwNS5qcGVn.jpeg) | 2015 | LoCash | Don&#39;t Get Better Than That (Single) |
+| 49 | ![Cover](https://i.discogs.com/2xDefmEzNbRm66kNwvjXeee--G1HiI8N7CEhTsn0cGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzI3/NDU3LTE2MzUxODEz/NTgtMjIwNS5qcGVn.jpeg) | 2015 | LoCash | Feels Like a Party - Single |
+| 31 | ![Cover](https://i.discogs.com/VqPruihjMM0xPtw3iBZnS_vH1UCiIJP7sH1DNo6DToA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM4/NTI2LTE1MTQ1MTM2/NTEtMjI4MS5qcGVn.jpeg) | 2016 | LoCash | Mud Digger 5 |
+| 40 | ![Cover](https://i.discogs.com/VqPruihjMM0xPtw3iBZnS_vH1UCiIJP7sH1DNo6DToA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM4/NTI2LTE1MTQ1MTM2/NTEtMjI4MS5qcGVn.jpeg) | 2016 | LoCash | One Big Country Song |
+| 5 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | Lobotomized Trump Supporters |
+| 8 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | 2020-07-04 |
+| 15 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | Biden&#39;s Briefing |
+| 17 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | Team Joe Sings |
+| 20 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | Magatards On Teh Rag |
+| 24 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | S​&#x2F;​T |
+| 25 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | Here’s the Deal |
+| 26 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | Joe Biden |
+| 27 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | 187 On The Pigs |
+| 28 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | Isn&#39;t it a bitch? |
+| 42 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | Magatards |
+| 45 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | S&#x2F;T |
+| 6 | ![Cover](https://i.discogs.com/QRnWxde52k8yolxpwQlZ_g8gEY1oJOE3NAKi_frITUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTUyLTE1MzUwODY3/OTktMTU4My5qcGVn.jpeg) | 2018-01-18 | Joe Biden | The Good Ole Fashioned Hardcore Split |
+| 19 | ![Cover](https://i.discogs.com/QRnWxde52k8yolxpwQlZ_g8gEY1oJOE3NAKi_frITUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTUyLTE1MzUwODY3/OTktMTU4My5qcGVn.jpeg) | 2018-01-18 | Joe Biden | Promise Me, Dad: A Year of Hope, Hardship, and Purpose (Unabridged) |
+| 43 | ![Cover](https://i.discogs.com/NLSpgYuXnVH1XjXkggUPUcMTSC71kIJygsFiBI9lMFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzk1/OTQ4LTE1NzM2NzA0/OTQtNDYzMS5wbmc.jpeg) | 2019 | LoCash | Alll Day |
+| 32 | ![Cover](https://i.discogs.com/sYY5gUECxC_gWxF25iaJgCB-dmhhXbib-aWjP9W0ZGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDkw/MzIzLTE1NzU1OTc2/MDItNzY1NC5qcGVn.jpeg) | 2019-10-23 | 100 gecs | gec 2 Ü (Remix) (feat. Dorian Electra) |
+| 37 | ![Cover](https://i.discogs.com/QoQyQb8hhVQtsurcR7uLw3SrV3Z0h-G0zJBBBtgb9mI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDkw/MzI4LTE1NzU1OTc3/NzgtOTE3MC5qcGVn.jpeg) | 2019-11-06 | 100 gecs | 745 sticky (Injury Reserve Remix) - Single |
+| 34 | ![Cover](https://i.discogs.com/sIObhjvRNUitWo92Wa4TSDaJXBdek4VYVzSGQ2kPPZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY0/NjgyLTE1OTAzNDQ0/MTUtODc2MS5qcGVn.jpeg) | 2020-05-22 | 100 gecs | stupid horse (Remix) (feat. GFOTY &amp; Count Baldor) |
+| 39 | ![Cover](https://i.discogs.com/sIObhjvRNUitWo92Wa4TSDaJXBdek4VYVzSGQ2kPPZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY0/NjgyLTE1OTAzNDQ0/MTUtODc2MS5qcGVn.jpeg) | 2020-05-22 | 100 gecs | stupid horse (Remix) (feat. GFOTY &amp; Count Baldor) - Single |
+| 38 | ![Cover](https://i.discogs.com/bY7h4DjZaVJuXeMOVO9Y6meq4NjYri8MI9hACoAJTEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjk2/OTczLTE2NDE5MjU0/ODAtMzM1My5qcGVn.jpeg) | 2020-10-14 | LoCash | Promo Only: Country Radio Januar 17&#39; |
+| 2 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | The Way It Should Be (From &quot;Time Toys&quot;) [Rerecorded] - Single |
+| 3 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | Dalton Cyr (EP) |
+| 4 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | It&#39;s On the Track |
+| 7 |  |  | Elizabeth Warren | mslawmedia » Podcasts |
+| 9 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | Upside Down (2014) - Single |
+| 10 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | Fall into Place (Single) |
+| 11 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | Echo [Dalton Cyr, Single] |
+| 12 |  |  | Elizabeth Warren | All Your Worth |
+| 14 |  |  | Nancy Pelosi | 1 |
+| 18 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | Stay - Single |
+| 23 |  |  | Elizabeth Warren | A Fighting Chance (Unabridged) |
+| 29 |  |  | Elizabeth Warren | A Fighting Chance |
+| 64 | ![Cover](https://i.discogs.com/jJsNr6DxLzWtv77jMYPISoYvIyYhE-qMePx8_3Uy1Dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTY2/OTAtMTQzODcyMjE5/MS0zNTk4LmpwZWc.jpeg) | 1998 | LoCash | No Scrubs (Iconic Performance) |
+| 62 | ![Cover](https://i.discogs.com/jJsNr6DxLzWtv77jMYPISoYvIyYhE-qMePx8_3Uy1Dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTY2/OTAtMTQzODcyMjE5/MS0zNTk4LmpwZWc.jpeg) | 1998-05-08 | LoCash | COUNTRY VIDEO JUNE, 2018 |
+| 84 | ![Cover](https://i.discogs.com/jJsNr6DxLzWtv77jMYPISoYvIyYhE-qMePx8_3Uy1Dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTY2/OTAtMTQzODcyMjE5/MS0zNTk4LmpwZWc.jpeg) | 1998-05-08 | LoCash | It&#39;s Only Midnight |
+| 89 | ![Cover](https://i.discogs.com/Ep6QLUkvQP7I9hNmVEF6NX7Fol5txmURV-uS4ob2yOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc0/NzgyLTE0OTI4ODAz/MjEtNTgyOS5qcGVn.jpeg) | 2002 | Le Tigre | I&#39;m With Her |
+| 55 | ![Cover](https://i.discogs.com/M7OAxT7sArHCZHgepJVqtMOq-zJDs7Dorh1kwdifSLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk4/NDAzLTE1MzQ0NzAz/OTktNzEzNS5qcGVn.jpeg) | 2007 | LoCash | Billboard # 1&#39;sTop 100 Country Songs 2017 |
+| 60 | ![Cover](https://i.discogs.com/M7OAxT7sArHCZHgepJVqtMOq-zJDs7Dorh1kwdifSLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk4/NDAzLTE1MzQ0NzAz/OTktNzEzNS5qcGVn.jpeg) | 2007 | LoCash | Billboard # 1&#39;sTop 100 Country Songs 2019 |
+| 51 | ![Cover](https://i.discogs.com/2xDefmEzNbRm66kNwvjXeee--G1HiI8N7CEhTsn0cGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzI3/NDU3LTE2MzUxODEz/NTgtMjIwNS5qcGVn.jpeg) | 2015 | LoCash | Feels Like a Party (Single) |
+| 65 | ![Cover](https://i.discogs.com/2xDefmEzNbRm66kNwvjXeee--G1HiI8N7CEhTsn0cGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzI3/NDU3LTE2MzUxODEz/NTgtMjIwNS5qcGVn.jpeg) | 2015 | LoCash | Don&#39;t Get Better Than That - Single |
+| 91 | ![Cover](https://i.discogs.com/2xDefmEzNbRm66kNwvjXeee--G1HiI8N7CEhTsn0cGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzI3/NDU3LTE2MzUxODEz/NTgtMjIwNS5qcGVn.jpeg) | 2015 | LoCash | Don&#39;t Get Better Than That |
+| 79 | ![Cover](https://i.discogs.com/VqPruihjMM0xPtw3iBZnS_vH1UCiIJP7sH1DNo6DToA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM4/NTI2LTE1MTQ1MTM2/NTEtMjI4MS5qcGVn.jpeg) | 2016 | LoCash | Kissing A Girl |
+| 82 | ![Cover](https://i.discogs.com/VqPruihjMM0xPtw3iBZnS_vH1UCiIJP7sH1DNo6DToA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM4/NTI2LTE1MTQ1MTM2/NTEtMjI4MS5qcGVn.jpeg) | 2016 | LoCash | Feels Like a Party |
+| 52 | ![Cover](https://i.discogs.com/5SGizpe6LYji0SvnNx7pWBZdCo8YzQRvZ9wDvuFri_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgy/NzA3LTE1NjEwMTk3/NDMtMTM4Ny5qcGVn.jpeg) | 2017-01-02 | 100 gecs | stupid horse |
+| 56 | ![Cover](https://i.discogs.com/5SGizpe6LYji0SvnNx7pWBZdCo8YzQRvZ9wDvuFri_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgy/NzA3LTE1NjEwMTk3/NDMtMTM4Ny5qcGVn.jpeg) | 2017-01-02 | 100 gecs | Mine Gala |
+| 61 | ![Cover](https://i.discogs.com/5SGizpe6LYji0SvnNx7pWBZdCo8YzQRvZ9wDvuFri_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgy/NzA3LTE1NjEwMTk3/NDMtMTM4Ny5qcGVn.jpeg) | 2017-01-02 | 100 gecs | 745 sticky |
+| 63 | ![Cover](https://i.discogs.com/5SGizpe6LYji0SvnNx7pWBZdCo8YzQRvZ9wDvuFri_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgy/NzA3LTE1NjEwMTk3/NDMtMTM4Ny5qcGVn.jpeg) | 2017-01-02 | 100 gecs | REMIXES 2017 |
+| 75 | ![Cover](https://i.discogs.com/IXCHRU-3yVlYBD8LWrh_5c4tDUUW1xttlT3QK6D0aRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIw/OTI3LTE2MTk3NDA5/NjAtMjcyMS5qcGVn.jpeg) | 2019 | Jacob Sartorius | Party Goes Harder |
+| 76 | ![Cover](https://i.discogs.com/NLSpgYuXnVH1XjXkggUPUcMTSC71kIJygsFiBI9lMFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzk1/OTQ4LTE1NzM2NzA0/OTQtNDYzMS5wbmc.jpeg) | 2019 | LoCash | Beers to Catch Up On |
+| 90 | ![Cover](https://i.discogs.com/NLSpgYuXnVH1XjXkggUPUcMTSC71kIJygsFiBI9lMFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzk1/OTQ4LTE1NzM2NzA0/OTQtNDYzMS5wbmc.jpeg) | 2019 | LoCash | Brothers |
+| 86 | ![Cover](https://i.discogs.com/tBS3_PyXzE17s5hxJend2ZGkPUEnfMEP_yDG7OWP0TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQy/MzA3LTE2MzczMzYy/NjUtMzczNy5qcGVn.jpeg) | 2019-05-29 | 100 gecs | Mine Gala 2019 |
+| 94 | ![Cover](https://i.discogs.com/tBS3_PyXzE17s5hxJend2ZGkPUEnfMEP_yDG7OWP0TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQy/MzA3LTE2MzczMzYy/NjUtMzczNy5qcGVn.jpeg) | 2019-05-29 | 100 gecs | money machine |
+| 57 |  | 2019-05-31 | 100 gecs | 100 gecs live @ square garden |
+| 70 |  | 2019-05-31 | 100 gecs | 1000 gecs [Explicit] |
+| 72 |  | 2019-05-31 | 100 gecs | 100 gecs @ square garden |
+| 78 |  | 2019-05-31 | 100 gecs | 100 gecs @ mine gala 2019 |
+| 53 | ![Cover](https://i.discogs.com/sYY5gUECxC_gWxF25iaJgCB-dmhhXbib-aWjP9W0ZGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDkw/MzIzLTE1NzU1OTc2/MDItNzY1NC5qcGVn.jpeg) | 2019-10-23 | 100 gecs | money machine (A. G. Cook Remix) - Single |
+| 96 | ![Cover](https://i.discogs.com/sYY5gUECxC_gWxF25iaJgCB-dmhhXbib-aWjP9W0ZGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDkw/MzIzLTE1NzU1OTc2/MDItNzY1NC5qcGVn.jpeg) | 2019-10-23 | 100 gecs | money machine (A. G. Cook Remix) |
+| 95 | ![Cover](https://i.discogs.com/QoQyQb8hhVQtsurcR7uLw3SrV3Z0h-G0zJBBBtgb9mI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDkw/MzI4LTE1NzU1OTc3/NzgtOTE3MC5qcGVn.jpeg) | 2019-11-06 | 100 gecs | 745 sticky (Injury Reserve Remix) |
+| 41 | ![Cover](https://i.discogs.com/Yw8oxBkgAhEmpLJFPcLwTYGNxWkXG6TnxGI8rnxX_Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk4/NzQ2LTE1ODM2OTAx/ODctOTc0Mi5qcGVn.jpeg) | 2020-02-24 | 100 gecs | Bloodstains (Dynastic Remix) - Single |
+| 71 | ![Cover](https://i.discogs.com/Yw8oxBkgAhEmpLJFPcLwTYGNxWkXG6TnxGI8rnxX_Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk4/NzQ2LTE1ODM2OTAx/ODctOTc0Mi5qcGVn.jpeg) | 2020-02-24 | 100 gecs | gec 2 Ü (Remix) |
+| 88 | ![Cover](https://i.discogs.com/Yw8oxBkgAhEmpLJFPcLwTYGNxWkXG6TnxGI8rnxX_Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk4/NzQ2LTE1ODM2OTAx/ODctOTc0Mi5qcGVn.jpeg) | 2020-02-24 | 100 gecs | ringtone (Remix) |
+| 93 | ![Cover](https://i.discogs.com/2IceMl9SdIPPO-0XWANgI-PKbIfaSTgXpYKf1crJzCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjk3/MzI0LTE2MDY3ODY0/MTMtNDMyNC5qcGVn.jpeg) | 2020-02-24 | 100 gecs | xXXi_wud_nvrstøp_ÜXXx (Remix) [feat. Tommy Cash &amp; Hannah Diamond] |
+| 100 | ![Cover](https://i.discogs.com/Yw8oxBkgAhEmpLJFPcLwTYGNxWkXG6TnxGI8rnxX_Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk4/NzQ2LTE1ODM2OTAx/ODctOTc0Mi5qcGVn.jpeg) | 2020-02-24 | 100 gecs | ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito] |
+| 68 | ![Cover](https://i.discogs.com/sIObhjvRNUitWo92Wa4TSDaJXBdek4VYVzSGQ2kPPZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY0/NjgyLTE1OTAzNDQ0/MTUtODc2MS5qcGVn.jpeg) | 2020-05-22 | 100 gecs | stupid horse (Remix) |
+| 73 | ![Cover](https://i.discogs.com/sIObhjvRNUitWo92Wa4TSDaJXBdek4VYVzSGQ2kPPZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY0/NjgyLTE1OTAzNDQ0/MTUtODc2MS5qcGVn.jpeg) | 2020-05-22 | 100 gecs | stupid horse (Remix) [feat. GFOTY &amp; Count Baldor] - Single |
+| 97 | ![Cover](https://i.discogs.com/sIObhjvRNUitWo92Wa4TSDaJXBdek4VYVzSGQ2kPPZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY0/NjgyLTE1OTAzNDQ0/MTUtODc2MS5qcGVn.jpeg) | 2020-05-22 | 100 gecs | stupid horse (Remix) [feat. GFOTY &amp; Count Baldor] |
+| 69 | ![Cover](https://i.discogs.com/3HsrXWtEE6G41Iw0dg2V6-7oILqek0V9b31VCI3Ejl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjA1/MzI5LTE1OTQ0MDUx/OTYtODY3NC5wbmc.jpeg) | 2020-07-10 | 100 gecs | 1000 GECS AND TREE OF CLUES |
+| 83 | ![Cover](https://i.discogs.com/3HsrXWtEE6G41Iw0dg2V6-7oILqek0V9b31VCI3Ejl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjA1/MzI5LTE1OTQ0MDUx/OTYtODY3NC5wbmc.jpeg) | 2020-07-10 | 100 gecs | 100 gecs &amp; the chamber of secrets |
+| 98 | ![Cover](https://i.discogs.com/3HsrXWtEE6G41Iw0dg2V6-7oILqek0V9b31VCI3Ejl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjA1/MzI5LTE1OTQ0MDUx/OTYtODY3NC5wbmc.jpeg) | 2020-07-10 | 100 gecs | hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger] |
+| 54 | ![Cover](https://i.discogs.com/bY7h4DjZaVJuXeMOVO9Y6meq4NjYri8MI9hACoAJTEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjk2/OTczLTE2NDE5MjU0/ODAtMzM1My5qcGVn.jpeg) | 2020-10-14 | LoCash | Promo Only: Country Radio October 2018 |
+| 58 | ![Cover](https://i.discogs.com/bY7h4DjZaVJuXeMOVO9Y6meq4NjYri8MI9hACoAJTEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjk2/OTczLTE2NDE5MjU0/ODAtMzM1My5qcGVn.jpeg) | 2020-10-14 | LoCash | Promo Only: Country Radio March 2018 |
+| 36 | ![Cover](https://i.discogs.com/Q4e191ac9pWqvgXkHwZ_9h7qG5mQZ0LeXQHXt_gasy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTM4/MDQ3LTE2MTE3OTIy/ODctMTczNC5qcGVn.jpeg) | 2021 | 100 gecs | money machine - Single |
+| 80 | ![Cover](https://i.discogs.com/wn5tGQ2g47Nfj5IWahpjgspBDRLxwgYysfqE-WkTGPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzkw/MjIwLTE2NjU0OTY4/ODItODcyNy5qcGVn.jpeg) | 2021 | 100 gecs | gorilla vs. bear sunday mix 002 |
+| 81 | ![Cover](https://i.discogs.com/Yw8oxBkgAhEmpLJFPcLwTYGNxWkXG6TnxGI8rnxX_Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk4/NzQ2LTE1ODM2OTAx/ODctOTc0Mi5qcGVn.jpeg) | 2021 | 100 gecs | bloodstains (dynastic remix) |
+| 50 | ![Cover](https://i.discogs.com/8v_tSIL6zIc-iejIt10QUcs77LGNsWFxyfW2T8YKSwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM2/Njc2LTE2NjU0OTY4/NDAtNjk3Mi5qcGVn.jpeg) | 2021-11-19 | 100 gecs | gec 2 Ü |
+| 66 | ![Cover](https://i.discogs.com/8v_tSIL6zIc-iejIt10QUcs77LGNsWFxyfW2T8YKSwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM2/Njc2LTE2NjU0OTY4/NDAtNjk3Mi5qcGVn.jpeg) | 2021-11-19 | 100 gecs | ringtone |
+| 48 | ![Cover](https://i.discogs.com/sYY5gUECxC_gWxF25iaJgCB-dmhhXbib-aWjP9W0ZGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDkw/MzIzLTE1NzU1OTc2/MDItNzY1NC5qcGVn.jpeg) | 2021-12-30 | 100 gecs | ringtone (feat. Charli XCX, Rico Nasty, Kero Kero Bonito) [remix] |
+| 59 | ![Cover](https://i.discogs.com/R9UEEnbAxSblpwEuF7wGziMudOoq_a6HzUvLK6OxGnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg4/ODI1LTE2NDE4NjY4/NzYtNTk4Mi5qcGVn.jpeg) | 2021-12-30 | 100 gecs | ringtone (Remix) (feat. Charli XCX, Rico Nasty, Kero Kero Bonito) |
+| 85 | ![Cover](https://i.discogs.com/R9UEEnbAxSblpwEuF7wGziMudOoq_a6HzUvLK6OxGnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg4/ODI1LTE2NDE4NjY4/NzYtNTk4Mi5qcGVn.jpeg) | 2021-12-30 | 100 gecs | gec 2 Ü (Remix) [feat. Dorian Electra] - Single |
+| 92 | ![Cover](https://i.discogs.com/R9UEEnbAxSblpwEuF7wGziMudOoq_a6HzUvLK6OxGnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg4/ODI1LTE2NDE4NjY4/NzYtNTk4Mi5qcGVn.jpeg) | 2021-12-30 | 100 gecs | gecgecgec (Remix) [feat. Lil West and Tony Velour] |
+| 99 | ![Cover](https://i.discogs.com/R9UEEnbAxSblpwEuF7wGziMudOoq_a6HzUvLK6OxGnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjg4/ODI1LTE2NDE4NjY4/NzYtNTk4Mi5qcGVn.jpeg) | 2021-12-30 | 100 gecs | gec 2 Ü (Remix) [feat. Dorian Electra] |
+| 67 | ![Cover](https://i.discogs.com/tBS3_PyXzE17s5hxJend2ZGkPUEnfMEP_yDG7OWP0TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQy/MzA3LTE2MzczMzYy/NjUtMzczNy5qcGVn.jpeg) | 2022-12-02 | 100 gecs | Square Garden Set |
+| 74 | ![Cover](https://i.discogs.com/tBS3_PyXzE17s5hxJend2ZGkPUEnfMEP_yDG7OWP0TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQy/MzA3LTE2MzczMzYy/NjUtMzczNy5qcGVn.jpeg) | 2022-12-02 | 100 gecs | square garden |
+| 77 | ![Cover](https://i.discogs.com/tBS3_PyXzE17s5hxJend2ZGkPUEnfMEP_yDG7OWP0TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQy/MzA3LTE2MzczMzYy/NjUtMzczNy5qcGVn.jpeg) | 2022-12-02 | 100 gecs | Live @ Square Garden |
+| 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e0e1a74c3f3b1ccbbf8dc5b14031f23c.png) | 2023-03-17 | 100 gecs | 10000 gecs |
+
+### Related genres
+
+- [nsbm]({{ "/tags/nsbm" | relative_url }})
+- [racist country]({{ "/tags/racist-country" | relative_url }})
+- [kkk country]({{ "/tags/kkk-country" | relative_url }})
+- [sjw]({{ "/tags/sjw" | relative_url }})
+- [country rap]({{ "/tags/country-rap" | relative_url }})
+- [bro-country]({{ "/tags/bro-country" | relative_url }})
+- [genderqueer]({{ "/tags/genderqueer" | relative_url }})
+- [queercore]({{ "/tags/queercore" | relative_url }})
+- [queer metal]({{ "/tags/queer-metal" | relative_url }})
+- [non-binary]({{ "/tags/non-binary" | relative_url }})

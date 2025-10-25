@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-20T06:40:00.667Z
+permalink: tags/illbient
+title: illbient
+---
+
+## illbient
+
+Last updated: <time datetime="2025-10-20T06:40:00.667Z">Mon Oct 20 2025 09:40:00 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 49 | ![Cover](https://i.discogs.com/VqrJYtwqiG0ZHHUwUwa08LGvG044hWpKeWfDOm96nag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU5/NjctMTI2NTQ1Mjkw/My5qcGVn.jpeg) | 1981 | Modus | Modus |
+| 74 | ![Cover](https://i.discogs.com/V0H01o6p1a3GjW8vtpfuQV-ZYsyPlOP4x-K44XXJUxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDI0/LTExODg4ODkxNDEu/anBlZw.jpeg) | 1992 | Astralasia | The Politics of Ecstasy |
+| 45 | ![Cover](https://i.discogs.com/VmhUQuIPLGrq0b0Yrnvvyb6FeUR7GNRknfTFYWtfdVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTA1/LTE2NTc4MTE1OTIt/NzM1Mi5qcGVn.jpeg) | 1994 | Pan Sonic | Panasonic EP |
+| 34 | ![Cover](https://i.discogs.com/7whmnqJOZXo02EDqmAb7SjNXxFQcqnS4CkxIhm3hS5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4LTE2/NTA2MTE1ODMtNjM1/OS5qcGVn.jpeg) | 1994-05-09 | Wagon Christ | Sunset Boulevard EP |
+| 63 |  | 1994-06-06 | Black Lung | Silent Weapons for Silent Wars |
+| 1 | ![Cover](https://i.discogs.com/0mphY6CnwsIg22mws9PvVYma6ajgSGFo83kvxUhUv90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzQt/MTE3Nzg0NzUyNS5q/cGVn.jpeg) | 1995 | Alec Empire | Low on Ice (The Iceland Sessions) |
+| 16 |  | 1995 | Techno Animal | Re-Entry |
+| 52 |  | 1995 | Spectre | The Illness |
+| 3 | ![Cover](https://i.discogs.com/5uhl8zLbAuZenmfgOXyBoLwiYKUX6eN5mLmG--xvqPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTgz/OC0xNTM3ODE2NDQ4/LTY1NTAucG5n.jpeg) | 1996 | Prince Charming | Psychotropical Heatwave |
+| 6 | ![Cover](https://i.discogs.com/dLr14xR16GGF0OGTcWmiFjZa1BqzVitVCB_1eGUIMvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEx/MC0xMTk0MTA0MjI2/LmpwZWc.jpeg) | 1996 | Bomb 20 | Pigtronics |
+| 53 | ![Cover](https://i.discogs.com/MhWrpBbwPNYrVashxLC-d7DvmY4qRazl6FabYmL_-_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzUt/MTMxNDQxMDcxNi5q/cGVn.jpeg) | 1996-01-01 | Alec Empire | Hypermodern Jazz 2000.5 |
+| 26 | ![Cover](https://i.discogs.com/ikDJkLav_EqMiJ3KjZ7XiPxTOxWJwQe9_J5MS8Jrv1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk1/OS0xMjk4MDYyNjMw/LmpwZWc.jpeg) | 1996-01-25 | Dubadelic | 2000: A Bass Odyssey |
+| 56 |  |  | maybe I&#39;d be happier if I stabbed myself in the brain with a fork. James Call | Hubris: the lost sequences... |
+| 84 |  | 1992-09-29 | Meat Beat Manifesto | Satyricon |
+| 65 |  | 1993 | Scorn | White Irises Blind |
+| 97 |  | 1994-07-01 | Scorn | Evanescence |
+| 94 |  | 1995-11-01 | Ken Ishii | Jelly Tones |
+| 86 |  | 1996 | Scorn | Logghi Barogghi |
+| 79 |  | 1996-02-19 | The Third Eye Foundation | Semtex |
+| 95 |  | 1996-04-02 | DJ Spooky | Songs of a Dead Dreamer |
+| 77 | ![Cover](https://i.discogs.com/Tr3vuPvHDACAQOpWxucmn_RORLsuOb8MZERgy5Ihk4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTUx/LTEyMDkzMzY1MTQu/anBlZw.jpeg) | 1996-09 | DJ Vadim | USSR Repertoire - The Theory Of Verticality |
+| 90 | ![Cover](https://i.discogs.com/gTSlSkX3f0GG4W9cLbkvrYDirvPCAvCZnLqr8M15GWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzQt/MTQ5OTQ5ODkwMC0y/NDg4LmpwZWc.jpeg) | 1996-11-12 | Bowery Electric | Beat |
+| 22 |  | 1997 | Spectre | The Second Coming |
+| 31 |  | 1997 | Sub Dub | Dancehall Malfunction |
+| 68 | ![Cover](https://i.discogs.com/OHvStXmLW8mUjChlt0Z6bkz6KJg6SEt3z0Wc3aPkpMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MC0x/MjMyOTA3MzE1Lmpw/ZWc.jpeg) | 1997 | Scorn | Anamnesis |
+| 89 |  | 1997 | The Bug | Tapping The Conversation |
+| 44 |  | 1997-01 | Christoph De Babalon | If You&#39;re Into It, I&#39;m Out Of It |
+| 7 |  | 1997-03-11 | We™ | As Is. |
+| 91 | ![Cover](https://i.discogs.com/Vf-_vEQ0Oh5Xa15IdwKqqdhDwqAN27_p_mZ8FbDddUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQz/LTEyNDI3MjM1Mjcu/anBlZw.jpeg) | 1997-09 | Christoph De Babalon | If You&#39;re Into It I&#39;m Out of It |
+| 99 |  | 1997-12-01 | Björk | Bachelorette |
+| 43 |  | 1998 | The Weakener | What Do You Know About It |
+| 75 |  | 1998 | Carl Crack | Black Ark |
+| 78 |  | 1998 | Richard Devine | Richard Coleman Devine EP |
+| 80 | ![Cover](https://i.discogs.com/kg_HUEw1YMn8tb7qFA6LAQUUp2osojXphyawsT0RJhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMy/NTktMTQ0MjA0MDUz/OS05NzQ0LmpwZWc.jpeg) | 1998 | Dolphin | Серый Альбом |
+| 88 | ![Cover](https://i.discogs.com/3O8w3RvfxzCbbvfYdJu1MrS5VoYWR2dQ0H7fx3h2wHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTY4/LTE2Njg5ODI0Njct/NjkxMC5qcGVn.jpeg) | 1998 | Carl Crack | Black Arc |
+| 24 |  | 1998-03-30 | Techno Animal | Techno Animal Versus Reality |
+| 14 | ![Cover](https://i.discogs.com/qNHTlNnSNsvgq7ALV5ff7K8d10NW3ebfeO87jX6zPNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODAt/MTE0NDY5NDcxNi5q/cGVn.jpeg) | 1998-06-09 | The Curse Of The Golden Vampire | The Curse Of The Golden Vampire |
+| 66 |  | 1998-08-05 | Muslimgauze | Uzi Mahmood |
+| 93 |  | 1998-09-21 | DJ Spooky | Riddim Warfare |
+| 15 |  | 1999 | Spectre | The End |
+| 55 |  | 1999 | DJ Spooky vs. Scanner | The Quick and the Dead |
+| 46 | ![Cover](https://i.discogs.com/dpxsC3bJxEJiSkJN3tEZTTHfJNsi0reWKsm-IbnqojA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODM5/My0xNjA4ODg2NjU2/LTQ2MTkuanBlZw.jpeg) | 2000-01 | Mick Harris | Having It |
+| 10 | ![Cover](https://i.discogs.com/ML3-TXUNcdWjBl-585fYzqSldgtbh1x2JuKrxje42IE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTc0/LTE2NTk5MDkzMTAt/NTM4OS5qcGVn.jpeg) | 2001 | Fidel Villeneuve | Kill Life!!! |
+| 13 | ![Cover](https://i.discogs.com/UTuv6UwENbMTQelM4x5pCo2ba5aTdmYPkBdrmBkTQtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMx/OS0xMTE2NzU5NTQ4/LmpwZw.jpeg) | 2001 | Alec Empire &amp; El-P | Shards Of Pol Pottery |
+| 35 | ![Cover](https://i.discogs.com/8yjdtkeUd3wPz6pBdhhHPhzFwhmqD2RdA-9kPfM1_Ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzgz/MS0xMjA3ODQ3Mzc3/LmpwZWc.jpeg) | 2001 | Monolith | Labyrinth |
+| 50 |  | 2001-05-01 | cLOUDDEAD | cLOUDDEAD |
+| 25 | ![Cover](https://i.discogs.com/jkZ-votqp1rAHtz4EAfkBGqxv3BfOVo4bCeIbvTvK4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgx/OC0xMzI3MzA3Nzkx/LmpwZWc.jpeg) | 2003 | Spectre | Psychic Wars |
+| 59 | ![Cover](https://i.discogs.com/4ZN4RK54qDhTK06aSYb9GD5ocSS65U5GwwvDOUxfy4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY4/NDMtMTQzMTU0Nzk3/Ny04OTI1LmpwZWc.jpeg) | 2003 | Bones Domingo | Bones Domingo |
+| 20 | ![Cover](https://i.discogs.com/Ht-Atcgc4XXNICiUlxRSP1VNHwvUGBdxRTr53rONTec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjE4/Ny0xNDY0ODU4MDg1/LTQ4MjUucG5n.jpeg) | 2004-04 | Gultskra Artikler | Golova |
+| 30 | ![Cover](https://i.discogs.com/6uPXZ304y7gD6ELSrezZveBQ6Zojiv-M-fzYxI2tpnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTQz/MS0xMTQzMjQ5NjIy/LmdpZg.jpeg) | 2005 | Cardopusher | Fire Kola Nut |
+| 71 |  | 2006 | Filastine | Burn It |
+| 42 |  | 2006-05-18 | Takeshi Nakamura | Easy Listening |
+| 27 | ![Cover](https://i.discogs.com/yarS9URy4lMfYHAxbpGNOrhYshF1kM7xsOnYJI7Bfwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAz/MjUtMTUxMzI3NDM1/OS04OTA0LmpwZWc.jpeg) | 2007 | The Great Mundane | When Falls Arrive |
+| 51 |  | 2007-03-08 | Ten and Tracer | Baker&#39;s Blood |
+| 38 |  | 2007-11-28 | Porcelain in the Backpack | Sand and Loam |
+| 60 | ![Cover](https://i.discogs.com/Eo8tcIqkKlF6ytI89Z0oeuUSLqfz_S9bgPzyJxJtqeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTg3/MzktMTIwOTI2MjM3/MC5qcGVn.jpeg) | 2008-05-09 | Timonkey | Cerulea |
+| 17 | ![Cover](https://i.discogs.com/UhknNoFYjh0th9V-fp8D8d0q_-cW4rsXqVF-Pl8XAP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzk5/OTUtMTI3MTcxMTUy/Mi5qcGVn.jpeg) | 2009 | Chaos Royale | Lowrider EP |
+| 23 | ![Cover](https://i.discogs.com/GvWiywqm86MonYi4up_Df-mW3jgSii4WPfzBAi7iwE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjUz/NTI4LTE1OTUyOTA1/MDctNzYyOC5wbmc.jpeg) | 2009 | Brokenkites | The Envious Dead |
+| 41 |  | 2009-01 | The Kilimanjaro Darkjazz Ensemble | Mutations EP |
+| 92 | ![Cover](https://i.discogs.com/LflWDs4Wr3hfNeJDTbgxihUtihob0VIq1-KNnRQm00Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQx/MzUtMTI0NDUwMzgz/OC5qcGVn.jpeg) | 2009-05-25 | Worriedaboutsatan | Arrivals |
+| 73 |  | 2009-06-01 | Desiderii Marginis | Years Lend a Golden Charm |
+| 57 |  | 2009-10-06 | DJ Spooky | The Secret Song |
+| 81 | ![Cover](https://i.discogs.com/YAW80fQ5f-AhDGg96lcZsCoI8UnyQAp9M6LDGpZB1co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODY3/MDQtMTMwMDk5MjIz/Ny5qcGVn.jpeg) | 2009-11 | The Silk Demise | Music For A Film |
+| 37 | ![Cover](https://i.discogs.com/u83WB0KFa36HcfepdWp9UL4AaBs72rwEvDPTCmgCGeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjk2/MTgtMTI2OTY4NTIx/My5qcGVn.jpeg) | 2009-11-14 | Marc Broude | Medicine |
+| 47 | ![Cover](https://i.discogs.com/1Oi85TZHJTrePy-_eK8RyD87b8GVs94znbzPsqW7mh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc0/MzEtMTI4NDAwNjgy/Ny5qcGVn.jpeg) | 2010-01-14 | Akira Kiteshi | Cheyne Stokes |
+| 67 | ![Cover](https://i.discogs.com/HybbXEXDdmxgAVgexfkr4z3x43DaRrStjvJ_VY9r_H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzY0/NDItMTI2ODEyOTY3/Ny5qcGVn.jpeg) | 2010-02-23 | Dem Hunger | Caveman Smack |
+| 9 | ![Cover](https://i.discogs.com/__ZsugApLx5AF5_rfZy1AydCFWZEAAoSUb8gPldpU6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTM1/NC0xMjM4OTYyNTgz/LmpwZWc.jpeg) | 2010-08-17 | Aetherius | FallPast EP |
+| 96 |  | 2010-11-08 | The Third Eye Foundation | The Dark |
+| 62 | ![Cover](https://i.discogs.com/ofjzlBJZ4DjafApZ8T8CttE-sEr7ILu38sffXeeKxWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mjgx/OTktMTMwNzgxNjM0/My5qcGVn.jpeg) | 2011-04-20 | Party Trash | ALONE |
+| 76 | ![Cover](https://i.discogs.com/tE5VoaiQ7YF3Z23ZXJz6hd0e39Z3UcbzEyL7dEp4jNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjM2/NDctMTMxNjg4MzI3/Ny5qcGVn.jpeg) | 2011-08-25 | Supreme Cuts | Trouble |
+| 29 | ![Cover](https://i.discogs.com/pIF0gqTHivUJyTJboiiLdjA8O1UPvWt1RkwyT3-DI18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Nzc3/OTctMTQwMjM5MzE2/NS03MDY3LmpwZWc.jpeg) | 2012 | 4 Позиции Бруно | Шестая Позиция. Дедовы Транки |
+| 83 | ![Cover](https://i.discogs.com/pmzp3Knf4FjepsVqglmRPe0PtnNd32SX-QRkmEWMREc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjI3/NzYtMTMzNTM5NzQ2/Ni5qcGVn.jpeg) | 2012-04-03 | Filastine | LOOT |
+| 58 | ![Cover](https://i.discogs.com/_fRt2PJKt2fz6IL-D80kogfTFySzJKRKd_3aE-9m29s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDg5/MDctMTMzNjg0NDg5/Ny04NzA4LmpwZWc.jpeg) | 2012-04-12 | Larvae | Exit Strategy |
+| 18 |  | 2013-04-23 | Fausten | Fausten |
+| 69 |  | 2014 | Oake | Auferstehung |
+| 64 | ![Cover](https://i.discogs.com/2b6D5xSvgP8Ecsy9owgbFIiH5KZnPV_ShnPeiGnCliw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NzAy/OTktMTQyMDAxNjg3/MS04OTg0LmpwZWc.jpeg) | 2014-01-04 | DJ Rozwell | What Happens After the Death Is Recorded |
+| 82 |  | 2014-06-21 | In Slaughter Natives | Cannula Coma Legio |
+| 19 | ![Cover](https://i.discogs.com/4-Z4-mN4xXYJ2z0TEvfR7elxPR-IFfa3vJnnJ-iVA3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzA1/MTUtMTQxMDI4Mzkz/MC0xNDIzLmpwZWc.jpeg) | 2014-08-14 | DJ Rozwell | Sludge Dredd |
+| 72 | ![Cover](https://i.discogs.com/viwkI4SUWq24al3B8hz_1FUKfaKk3iauW7zv9yZVd5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjUw/NjMtMTQzMDU2NDgy/Ny00MzQ3LmpwZWc.jpeg) | 2015-04-29 | Lil Ugly Mane | THIRD SIDE OF TAPE |
+| 12 | ![Cover](https://i.discogs.com/B3vgIvRCdh8gu16CpvSusA1yHHppptt5kQwFOp_Btow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjc3/NDctMTQ1Mzc0MjA0/My03NzQ0LmpwZWc.jpeg) | 2016-01-25 | Norwell | Appendix |
+| 48 | ![Cover](https://i.discogs.com/Yb94kEXAVzisJCcgAEH2-swJVYNe8F-JWwvokYhhafM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mjkx/NDYtMTQ2OTY0MzM3/Mi05NDI0LmpwZWc.jpeg) | 2016-07-27 | Hype Williams | 10 &#x2F; 10 |
+| 85 | ![Cover](https://i.discogs.com/vAWerp8oNUxyzrCtgGM8GJ_2dG8lb0U-yOi3QPWKgN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE2/NzA2LTE1ODQ0ODc3/ODgtMTA3MC5qcGVn.jpeg) | 2018 | sewerslvt | Starving Slvts Always Get Their Fix |
+| 36 | ![Cover](https://i.discogs.com/ObDNNJWtz94Cdc7Br8zRvid0PTuYt8LGqzqVADXFOBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/MTI4LTE1Mzg0NjM4/MzgtMTgxMy5qcGVn.jpeg) | 2018-09-28 | Blackfilm | Zero One Seven |
+| 11 | ![Cover](https://i.discogs.com/K4A2_N5NoX--5Oa-K1UsFmyDhE1U0JhZrEl7DEX1zZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA2/MzQzLTE1NDA0MTU3/ODAtNTcxNS5qcGVn.jpeg) | 2018-11 | Best Available Technology | Enginetics &amp; Plasmalterations |
+| 40 | ![Cover](https://i.discogs.com/tkEJQj1tFMcQyVCC-dgjzb77m44qDMpmX2yxTq_DlbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg1/LTExODk5NTU1MDcu/anBlZw.jpeg) | 2019-08-12 | Ken Ishii | Möbius Strip |
+| 33 | ![Cover](https://i.discogs.com/-pZCZIXZUI9CxBl7fUeVfuujlq3IjEfBMvaj0DhlB24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE3/MzQwLTE1Njg1MzY1/NzAtMTIwMS5qcGVn.jpeg) | 2019-09 | Zoviet France | Gris |
+| 4 | ![Cover](https://i.discogs.com/Z3llQiAOCYEiM5fFs-WQn7VUK3dj1K8tAasbxJGgMpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzgz/NzkwLTE1OTc3MjE3/NDItODEyNy5qcGVn.jpeg) | 2020-07-27 | Kisewa | BULLET BALLET |
+| 87 | ![Cover](https://i.discogs.com/0OC7EQOTcaXjcPBELBPOsKTPSaDqoEBo2D3EDJaDdTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjI4/MTkyLTE2MjAzOTg0/MzYtNDMwNS5qcGVn.jpeg) | 2021-05-07 | DJ Rozwell | NONE OF THIS IS REAL |
+| 100 | ![Cover](https://i.discogs.com/06bqDmEYZeEQcmNbT4ylNc-OWmod0G824HzS8hyYq5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQz/MDExLTE1NDg4MDg1/NDAtMjkwNC5qcGVn.jpeg) | 2021-06-02 | Billie Eilish | bury a friend |
+| 61 | ![Cover](https://i.discogs.com/0bYAKuI7jmBxa9xBzzJEhYuPq_8K9E3PSul_PullEyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjE5/NDExLTE2MjQyNzI4/NzQtNTQ4NC5qcGVn.jpeg) | 2021-06-16 | Scorn | The Only Place |
+| 21 |  | 2022-04-14 | Various Artists | Zhark Compilation |
+| 28 |  |  | kk25 | dao of robot |
+| 8 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2023 | Various Artists | Electric Ladyland IV |
+| 32 | ![Cover](https://i.discogs.com/2rLM3bPR4NtV7ShNwRbBRVHZplDJF2k7ywaxdfucBE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzUy/MDQ2LTE2NzM2MDUw/NzktMjk5OS5qcGVn.jpeg) | 2023-01-11 | CrimeBoys | very dark past |
+| 2 | ![Cover](https://i.discogs.com/EPeE48KPqJhtTIl29l-p68FoUpnyPLeda9xFyZZzOaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjI1/MTA1LTE2ODU1NzQ2/OTYtNTA3MC5qcGVn.jpeg) | 2023-05-23 | Hajj | No Soul, No God, No Devil, No Existence |
+| 5 |  |  | Adlib, the Rabid Child | super pain machine |
+| 54 | ![Cover](https://i.discogs.com/iHA655pehhl6YY7fbeAe4jCed6zBVjHvaEnANeq1Vvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjAx/MzQwLTE3MDk1ODA3/NDItOTMyMy5qcGVn.jpeg) | 2024-01-24 | Armand Hammer | BLK LBL |
+| 70 |  |  | The Missing Teens | Music for Young Adults... |
+| 98 | ![Cover](https://i.discogs.com/yZKbbAuYMZule1VeTa5QdZJoVMOD6Kc7u36b735BvLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTYy/NDUwLTE2ODQ4MDcz/ODctOTIwMS5qcGVn.jpeg) | 2023 | Bedwetter | Vol. 1: Flick Your Tongue Against Your Teeth and Describe the Present |
+| 39 |  | 2024-11 | Painkiller | Samsara |
+
+### Related genres
+
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [industrial]({{ "/tags/industrial" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [dark ambient]({{ "/tags/dark-ambient" | relative_url }})
+- [idm]({{ "/tags/idm" | relative_url }})
+- [electronica]({{ "/tags/electronica" | relative_url }})
+- [downtempo]({{ "/tags/downtempo" | relative_url }})
+- [noise]({{ "/tags/noise" | relative_url }})
+- [trip-hop]({{ "/tags/trip-hop" | relative_url }})
+- [dub]({{ "/tags/dub" | relative_url }})

@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-20T06:54:59.707Z
+permalink: tags/gospel
+title: gospel
+---
+
+## gospel
+
+Last updated: <time datetime="2025-10-20T06:54:59.707Z">Mon Oct 20 2025 09:54:59 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 61 |  | 1959-11-16 | The Louvin Brothers | Satan Is Real |
+| 39 |  | 1960-11-10 | Elvis Presley | His Hand In Mine |
+| 68 | ![Cover](https://i.discogs.com/bLaJJVNk47xjxfm7NjNAAURPMv4oX51nlFux1tSyWFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTUx/Ny0xMjg3MTc5OTM1/LmpwZWc.jpeg) | 1967-02 | Elvis Presley | How Great Thou Art |
+| 88 |  | 1971 | Pastor T.L. Barrett and The Youth for Christ Choir | Like a Ship (Without a Sail) |
+| 11 | ![Cover](https://i.discogs.com/U6AvQ0TO8ynF6EZZoAuT1dBiRrkGJegjwxjgikOQW44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODY4/ODQtMTM0NDY3ODcz/NC0yNDQwLmpwZWc.jpeg) | 1972 | Aretha Franklin | Amazing Grace |
+| 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b04ef0d48beb7ef62c994e0b9b4d13c2.png) | 1978-06-15 | Bob Dylan | Street-Legal |
+| 89 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5475129987574d99cd8252a5d59dc39e.png) | 1979-08-20 | Bob Dylan | Slow Train Coming |
+| 60 | ![Cover](https://i.discogs.com/a1puPvIZWHUXI7R-SLGiXYIFhuN8qsvQQj7X_HFase8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjE4/MzYtMTU1NjMxNTgy/NC04ODUzLmpwZWc.jpeg) | 1980 | Supreme Jubilees | It&#39;ll All Be Over |
+| 71 |  | 1980-06-19 | Bob Dylan | Saved |
+| 56 | ![Cover](https://i.discogs.com/zCw2ugf7A3KAdZbzhtR_nvgOddj16CGV2oCOg8r--yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzk1/Ny0xMjQxMjcyMTA2/LmpwZWc.jpeg) | 1986 | Depeche Mode | songs of faith and devotion (2006 remaster) |
+| 96 | ![Cover](https://i.discogs.com/bWIs5SxYw8Fc-QU3QUSj0_H-b8lestOkoYztDONiShg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQy/NS0xMTg1NzUwODIx/LmpwZWc.jpeg) | 1987-08-31 | Michael Jackson | Bad (Remastered) |
+| 28 |  | 1991 | The Staple Singers | Freedom Highway |
+| 54 | ![Cover](https://i.discogs.com/9Kz1JVFqf_J_0t5uRy-jZEvE90fhomVs9LfJ6oV4jV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODQw/MDAtMTMwNDk2ODU5/MS5qcGVn.jpeg) | 1991-03-05 | Amy Grant | Heart In Motion |
+| 29 | ![Cover](https://i.discogs.com/W34_hPduafEGIdsLTql6F-F4cuDE74WL0GfMRHyv-bI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU3/NzMtMTE4OTQ1ODE1/Ni5qcGVn.jpeg) | 1992 | Lungfish | Talking Songs for Walking |
+| 77 |  | 1994-10-29 | Mariah Carey | Merry Christmas |
+| 4 | ![Cover](https://i.discogs.com/j505_bvmECZD3U0h7gUDCooSN5Yx-E8MiMFWuw63yOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDM3/MTMtMTQ4NzI0Mjc2/NC0zNjgyLmpwZWc.jpeg) | 1996 | James Morrison | James Morrison: Gospel Collection Volume One |
+| 32 |  | 1996 | Bebe &amp; Cece Winans | Greatest Hits |
+| 6 | ![Cover](https://i.discogs.com/ZKvvw1fhXix6DMljOI4P09gY5HHbcwWiRwh7UAjtH3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTcy/ODczLTE1NjUyODA4/NzItMjQ2MS5qcGVn.jpeg) | 1996-10-29 | Donnie McClurkin | Donnie McClurkin |
+| 69 |  | 1996-11-18 | Whitney Houston | The Preacher&#39;s Wife |
+| 27 | ![Cover](https://i.discogs.com/n1BqZLi8wENBx12iHC3oiazjYRqSe6gkIqtTnzVKhqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDI1/MzQtMTM4NjExODc3/MC02NDQ5LmpwZWc.jpeg) | 1997-02-04 | One King Down | Bloodlust Revenge |
+| 48 |  | 1998-09-29 | Kirk Franklin | The Nu Nation Project |
+| 79 | ![Cover](https://i.discogs.com/e0yjRQzZThaD-5xv0ufcAUIbFya0ZuSpFqj1sO4U210/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODA5/OS0xNTY3NTY4NDU1/LTQ5NzEuanBlZw.jpeg) | 2000-04-25 | Mary Mary | Thankful |
+| 43 |  | 2000-08-17 | Donnie McClurkin | Live in London and More... |
+| 67 |  | 2001-04-02 | The Blind Boys Of Alabama | Spirit of the Century |
+| 80 |  | 2001-10-23 | Destiny&#39;s Child | 8 Days of Christmas |
+| 24 |  | 2002-02-18 | Kirk Franklin | The Rebirth of Kirk Franklin |
+| 36 | ![Cover](https://i.discogs.com/QDg0QSW1NDv_UVdpueRsSkiaUdoBF3zUs05jdzZRSb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODcz/NjYtMTM1MTQ3NTEx/MC01MzA3LmpwZWc.jpeg) | 2002-06-06 | Smokie Norful | I Need You Now |
+| 9 |  | 2002-08-26 | The Blind Boys Of Alabama | Higher Ground |
+| 19 | ![Cover](https://i.discogs.com/ngSC3HT-yiHkGY4xuTt8_8x9x1dUCFaqRJOIJr3t-yw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzI2/Mi0xNjkyMjQ4NzY3/LTU2NDYuanBlZw.jpeg) | 2002-09-23 | Bon Jovi | Forever |
+| 12 |  | 2003-03-25 | Rebecca St. James | Wait for Me: The Best From Rebecca St. James |
+| 18 |  | 2003-05-06 | David Crowder Band | Illuminate |
+| 33 | ![Cover](https://i.discogs.com/zkvTV1GmU5RZRnSEU9e_pOdM-5hXw1Jd3HSncMUL2Uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODcz/OTItMTM1MTQ3NjI0/My03MjgwLmpwZWc.jpeg) | 2004 | Smokie Norful | Nothing Without You |
+| 5 | ![Cover](https://i.discogs.com/-gClPxVJN2qGSNGysX8Kj4H_XiuJs7HJUTtxo5xcaZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE4/ODkyLTE1MTk2MzY1/NzItNDQyMC5qcGVn.jpeg) | 2004-06-08 | Tye Tribbett &amp; G.A. | Life |
+| 21 |  | 2004-06-08 | Fred Hammond | somethin&#39; &#39;bout love |
+| 83 |  | 2004-09-21 | Ben Harper And The Blind Boys Of Alabama | There Will Be A Light |
+| 2 | ![Cover](https://i.discogs.com/iz6m9W3fA-JI6CO0dKlm5_vGn7UF2dLc1XKbdieIqVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI0/OTM4LTE1ODY3MzA2/MDYtOTQ0MC5qcGVn.jpeg) | 2005 | Micah Stampley | Songbook Of Micah |
+| 20 | ![Cover](https://i.discogs.com/BWUMU851787tNH38lUvQKQejXfDn5m0Z_L_cCVI413Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDU5/MDQ2LTE2MTk0ODIy/MjQtMzU5Ny5qcGVn.jpeg) | 2005 | Myron Butler &amp; Levi | Set Me Free |
+| 26 | ![Cover](https://i.discogs.com/vhzP0VxyQZ_riqvTsK3aVhBc5FMFakKP1XhVW4rBU0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDIz/MTgyLTE1MTYwNjcx/MDUtNDAyNi5qcGVn.jpeg) | 2005 | Kurt Carr | One Church |
+| 37 |  | 2005 | Darwin Hobbs | Worshipper |
+| 70 | ![Cover](https://i.discogs.com/0YNJNKE2xRwho76L5riQMi6WPQeZJd1xPo3ra4j7QIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTk2/MTAtMTQ5MTM4NTQw/OS03ODA1LmpwZWc.jpeg) | 2005 | Hillsong | United We Stand |
+| 72 | ![Cover](https://i.discogs.com/Yl2tSIaTFugHk7QNqRMV6iVs3mchDFQi4VmiRadl22U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTMz/MDUtMTIyMTAzMjUy/Mi5qcGVn.jpeg) | 2005 | Sam Cooke | The 2 Sides Of Sam Cooke |
+| 1 | ![Cover](https://i.discogs.com/9bNbAvLoKGxEtjUL5KfDNw3R7ooPqQtbVhDDHhKLUTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTU1/NDIzLTE2MDQzNzU2/MjEtNDkwNy5qcGVn.jpeg) | 2005-03-29 | Micah Stampley | The Songbook of Micah |
+| 10 |  | 2005-09-13 | CeCe Winans | Purified |
+| 65 |  | 2005-10-01 | Kirk Franklin | Hero |
+| 49 |  | 2005-10-11 | Aaron Shust | Anything Worth Saying |
+| 50 |  | 2006-02-28 | Alan Jackson | Precious Memories |
+| 3 | ![Cover](https://i.discogs.com/IBEP2cvrUh3399iW0jABCzj1-cch3QRTMIo3xC-61e4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODcz/NDktMTM1MTQ3NDE4/Ni02MTE2LmpwZWc.jpeg) | 2006-10-03 | Smokie Norful | Life Changing |
+| 45 |  | 2006-10-10 | Third Day | Christmas Offerings |
+| 16 | ![Cover](https://i.discogs.com/7XiqTq-L0_JFl50EdkB-jb0QxrL1SW4vycyIGy6DamM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODc1/NTMtMTM1MTQ4NjI5/NS02ODcxLmpwZWc.jpeg) | 2006-10-27 | Kelly Price | This Is Who I Am |
+| 17 |  | 2007 | Israel &amp; New Breed | A Deeper Level |
+| 40 | ![Cover](https://i.discogs.com/aaELlj-QCR2v49PnmdzdvnBDoku1lyrSxRA8E3qKF8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzI4/MTktMTM3NzI3NTgz/My01NTAzLmpwZWc.jpeg) | 2007-06-08 | Ghetto | Ghetto Gospel |
+| 74 |  | 2007-07-03 | Marvin Sapp | Thirsty |
+| 57 |  | 2007-09 | Fee | We Shine |
+| 34 | ![Cover](https://i.discogs.com/EXY7z8NlxocPt1ucR4JjiBuGnP7yGFmIWxMsgS8JV-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTIw/OTE2LTE2NDIxMjIx/MDYtMjA4OC5qcGVn.jpeg) | 2007-09-18 | Byron Cage | Byron Cage Live At The Apollo The Proclamation |
+| 51 |  | 2007-09-21 | The Low Anthem | What the Crow Brings |
+| 66 | ![Cover](https://i.discogs.com/KhSinZA0rCK1VzOWUQt3aP_RZG3E86rRydySGRDVPPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjQw/MzktMTQwOTA4MzQ3/NC0yMTI0LmpwZWc.jpeg) | 2007-10-20 | MercyMe | All That Is Within Me |
+| 30 |  | 2007-11-01 | Kirk Franklin | The Fight Of My Life |
+| 59 | ![Cover](https://i.discogs.com/BjoM_cHmutZXik1SLLK0gn799esnZiCeiHOdvCT8TBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk3/OTA1LTE0OTQ4NzI5/MzgtMzYzMy5qcGVn.jpeg) | 2008 | Brian Courtney Wilson | Just Love |
+| 64 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/907707524a7049928ee6626845635889.png) | 2008 | Oficina G3 | Depois da Guerra |
+| 14 | ![Cover](https://i.discogs.com/d56H537ZM81RDDoHS8lZIUTziOZ8h6KmyUQ_QSYeKJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODY5/ODcyLTE1NjI5NTk2/MzctNjA3MC5qcGVn.jpeg) | 2008-04-08 | Gateway Worship | Wake Up the World |
+| 81 | ![Cover](https://i.discogs.com/Q71WObfT4u_hqGHGCuXiPbzgvaBeQib-cw3foFdlosw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjAy/NjAtMTY0MDM0MTkz/Mi05ODQzLmpwZWc.jpeg) | 2008-04-15 | Mariah Carey | Merry Christmas (Deluxe Anniversary Edition) |
+| 46 |  | 2008-07-29 | Third Day | Revelation |
+| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8173821521e64c2482ee7fad50e82687.png) | 2008-08-19 | Matthew Perryman Jones | Swallow the Sea |
+| 42 |  | 2008-10-21 | Mary Mary | The Sound |
+| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0b0055f485574b47abecd7c2bf9e9533.png) | 2008-11 | Brian Eno &amp; David Byrne | Everything That Happens Will Happen Today |
+| 7 | ![Cover](https://i.discogs.com/X1Hc3UTejUQHHmpyR3ev2GrkyX-E8EOAG5OAf9r21C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTU1/MjQtMTQwNDg0MDQz/NC0zNTY1LmpwZWc.jpeg) | 2009 | Various | The Fighting Temptations (Music From The Motion Picture) |
+| 73 | ![Cover](https://i.discogs.com/S_u5ZxjuUUZr7Lua0wAmJ9gy9hkvz5xVDHK_2ohSeBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTI4/MzUtMTQxOTYxMzM3/Ni0zNjUxLmpwZWc.jpeg) | 2009 | Aretha Franklin | Aretha Franklin |
+| 25 |  | 2009-03-22 | Israel Houghton | The Power Of One |
+| 13 | ![Cover](https://i.discogs.com/uxYZxZsoxXFKiDqlmRPtkvlrDvaWSdCKzhs3Bvr5p9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc0/MzYwLTE2MDczMDc3/NjYtNDU4Ni5qcGVn.jpeg) | 2009-08-25 | J Moss | Just James |
+| 23 |  | 2010-01-25 | Patty Griffin | Downtown Church |
+| 44 | ![Cover](https://i.discogs.com/Ag7FI4bP4SSzg3-Qokr7l0j_raYgiR1FzR4S-blQm6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzE2/NTEtMTQ0MDM0NTMz/My0xMzIxLmpwZWc.jpeg) | 2010-05-18 | Reggie Watts | Why S*** So Crazy? |
+| 52 |  | 2011 | Aline Barros | Extraordinário Amor de Deus |
+| 62 | ![Cover](https://i.discogs.com/noXliAM_j2OIKmHj0JlQBgdAtcLq1Wx-0VB5FheNnJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg0/MDUxLTE1MzYxOTIy/NjAtMTIyNi5qcGVn.jpeg) | 2011 | Bruna Karla | Advogado Fiel |
+| 35 |  | 2011-04-05 | Mandisa | What If We Were Real |
+| 91 |  | 2011-04-11 | Sam Cooke | The Best Of Sam Cooke |
+| 76 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/508b7c3b4e4844d4aa7f187e78fcec51.png) | 2011-08-23 | Ashes Remain | What I&#39;ve Become |
+| 75 |  | 2012-05-08 | Mary Mary | Go Get It |
+| 8 |  | 2013-01-15 | Kim Walker-Smith | Still Believe (Live) |
+| 58 | ![Cover](https://i.discogs.com/XsJO_Ciar_Rxe_IhXo33Df-KzzNcmiBXybgRGyw4THI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAw/NzYxLTE2NDI3MjY4/ODktNTQxMi5qcGVn.jpeg) | 2013-03-25 | Anderson Freire | Raridade |
+| 41 | ![Cover](https://i.discogs.com/kd_nxRVsSk2wXvfsnwpugj6wve--oscMd_9uOk04vx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTUz/MjYtMTM3ODc0MjA4/NC04NTQ5LmpwZWc.jpeg) | 2013-09-09 | Willis Earl Beal | Nobody knows. |
+| 93 | ![Cover](https://i.discogs.com/i3u_NoYTqNkFa1QPQBPKXH9IBVmobvJ1KqW7YlHJPgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTcw/OC0xNTg3MjMzOTQ0/LTczNjIuanBlZw.jpeg) | 2014 | Nick Cave &amp; The Bad Seeds | Abattoir Blues &#x2F; The Lyre of Orpheus |
+| 99 |  | 2014-03-20 | Hozier | Take Me To Church |
+| 15 | ![Cover](https://i.discogs.com/K_frvZ449LVwMmkiVe9eGnp0_4GbcW0LYbng8eYaLEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTYw/NjktMTQyODA3OTM3/OS0yMTY1LmpwZWc.jpeg) | 2015 | Leon Bridges | Coming Home |
+| 53 | ![Cover](https://i.discogs.com/V1abIXjkVIXPUtAK6KRNfcDDwl6MCXWeB8_B9Ta2APs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjcx/ODItMTQzMjkzNTY3/MC0yNjA1LmpwZWc.jpeg) | 2015-06-02 | Algiers | Algiers |
+| 78 | ![Cover](https://i.discogs.com/-BywrP6adTezDNB8njv13_xhPrCNQvzannBiX85dwyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTMw/MjMtMTQ4MDEzMDEx/Mi02MjU1LmpwZWc.jpeg) | 2016 | Elevation Worship | Here as in Heaven |
+| 92 | ![Cover](https://i.discogs.com/37BQKo20YDyaEVIZUOKj9hY7pKYITXIOsYQEc4_uQ2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTU3/NzUtMTQ1NTQ0MjAz/Ni04ODY3LmpwZWc.jpeg) | 2016-02-14 | Kanye West | The Life Of Pablo |
+| 90 | ![Cover](https://i.discogs.com/s2LgbBGeAPgVtQ5YLUxlzJiCIugw4XI0L2iFg4AsXfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTM4/MjAtMTU4MzQyMjc2/NC03MDkwLmpwZWc.jpeg) | 2016-05-13 | Chance the Rapper | Coloring Book |
+| 82 |  | 2017-09-25 | Alessandro Vilas Boas | O Fogo Nunca Dorme |
+| 47 | ![Cover](https://i.discogs.com/6BrJpxbQF1C4NESoNOxkxfqlbG6TzV1hrVFVtNZC9cY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDY1/ODQ1LTE1MzU4MzM2/ODItMjc3MS5qcGVn.jpeg) | 2018 | Priscilla Alcantara | Gente |
+| 94 | ![Cover](https://i.discogs.com/86VIODssGbiyTs5XRmuKgLKdjp4jOCoXmDqWTQsH_og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTYx/NjY4LTE1Mzc2NDgz/NTAtOTU4Mi5qcGVn.jpeg) | 2018-09-07 | Lauren Daigle | Look Up Child |
+| 63 | ![Cover](https://i.discogs.com/2OSS7Gz5qEFIplnLydZ4sf0ZRpskAfaclK1xtwzw-q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTM3/OTg2LTE1MzcyMDkx/OTEtNDY3NS5qcGVn.jpeg) | 2018-09-14 | Tori Kelly | Hiding Place |
+| 100 | ![Cover](https://i.discogs.com/nexK_JiQEz4itUNpBGqTt7o7mF6RH0tf2dWtWq4qGKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzEz/MDU1LTE1ODQ5MTgy/MzYtODk0My5qcGVn.jpeg) | 2019-10-25 | Kanye West | Jesus Is King |
+| 86 | ![Cover](https://i.discogs.com/kTUADOtqBSEjQFGBfcLuYQ-I6SvNd4bE_82pBdYFMqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTcy/NTMxLTE1NzczODM4/ODAtMTEzNy5qcGVn.jpeg) | 2019-12-25 | Sunday Service Choir | Jesus Is Born |
+| 22 | ![Cover](https://i.discogs.com/dC7dCZAaOH4cX_Yi1moxxam6MpGij7GubK5rEMP8O3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTA3/ODQtMTQ2MDcwNzI4/NS02Nzg2LmpwZWc.jpeg) | 2020-12-13 | Budgie | Holy Ghost Zone |
+| 84 | ![Cover](https://i.discogs.com/D3TWoHIJJOwRL6OCYxw_tIGi5wgMjcHNZ4fZVThrWok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDI4/NDgtMTQ3NzU2NDQx/OC03ODM2LmpwZWc.jpeg) | 2021 | Nina Simone | Broadway-Blues-Ballads |
+| 85 | ![Cover](https://i.discogs.com/fbVW8Ub4PxShXHd3G1_iei4WrTgK42MEPFcyVKwpqsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM4/NDA4LTE2MzAyNDMz/MjktMjQxNS5qcGVn.jpeg) | 2021-08-29 | Kanye West | Donda 2 |
+| 95 | ![Cover](https://i.discogs.com/fbVW8Ub4PxShXHd3G1_iei4WrTgK42MEPFcyVKwpqsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM4/NDA4LTE2MzAyNDMz/MjktMjQxNS5qcGVn.jpeg) | 2021-08-29 | Kanye West | DONDA |
+| 97 | ![Cover](https://i.discogs.com/fbVW8Ub4PxShXHd3G1_iei4WrTgK42MEPFcyVKwpqsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM4/NDA4LTE2MzAyNDMz/MjktMjQxNS5qcGVn.jpeg) | 2022-02-11 | Kanye West | Donda (Deluxe) |
+| 98 | ![Cover](https://i.discogs.com/jWU9Dn_GEuBTz-8NKyJUND96sFHF8tqT5Uj0UCh1InY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDU0/NzE2LTE2NzA5NTUw/MzEtMjE5MC5qcGVn.jpeg) | 2023-06-16 | Little Simz | NO THANK YOU |
+| 87 | ![Cover](https://i.discogs.com/RXCv0L88vhSWTY58Tn2nt1ytPMrbnUI-zV3cNgkrL5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk0/OTgxLTE3MTgyMDg3/ODktMTg0Mi5wbmc.jpeg) | 2024-06-07 | Raye | Genesis. |
+
+### Related genres
+
+- [christian]({{ "/tags/christian" | relative_url }})
+- [soul]({{ "/tags/soul" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [worship]({{ "/tags/worship" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [folk]({{ "/tags/folk" | relative_url }})
+- [blues]({{ "/tags/blues" | relative_url }})
+- [contemporary christian]({{ "/tags/contemporary-christian" | relative_url }})
+- [country]({{ "/tags/country" | relative_url }})
+- [contemporary gospel]({{ "/tags/contemporary-gospel" | relative_url }})

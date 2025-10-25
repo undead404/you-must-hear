@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T23:50:08.384Z
+permalink: tags/baroque
+title: baroque
+---
+
+## baroque
+
+Last updated: <time datetime="2025-10-22T23:50:08.384Z">Thu Oct 23 2025 02:50:08 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 4 |  |  | Domenico Scarlatti | The Art of the Baroque Harpsichord |
+| 26 |  |  | Telemann, Purcell, Vivaldi, Handel | Soundtrack from the film &quot;Stradivari&quot; |
+| 31 |  |  | Jean-Philippe Rameau | RAMEAU: Pieces de Clavecin &#x2F; Cinq Pieces &#x2F; La Dauphine |
+| 34 | ![Cover](https://i.discogs.com/MXqQDA1882GlLE_Ng9GD2Qz-lxEgwRcVkqirFV5SSNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ5/NjYyLTE1NjYxOTQ3/MzgtMTMyNS5qcGVn.jpeg) | 1966-11 | Johann Sebastian Bach | Bach: Brandenburg Concertos |
+| 46 |  |  | Domenico Scarlatti | SCARLATTI, D.: Keyboard Sonatas, Vol. 6 |
+| 73 |  |  | Domenico Scarlatti | SCARLATTI, D.: Keyboard Sonatas, Vol. 3 |
+| 77 |  |  | Marc-Antoine Charpentier | Trois histoires sacrées |
+| 85 | ![Cover](https://i.discogs.com/E3nOtEtTOi7NHXxoMh9svPiBnhxFeBQRM2_dLi-h4ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTI2/ODU5LTE1NjgzMzUx/NzUtNjIzOS5qcGVn.jpeg) | 1954-12-00 | Georg Philipp Telemann | TELEMANN: La Changeante &#x2F; Les Nations Anciens et Modernes |
+| 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/be95333684bb4d4ccdd0d34dfed2c8a6.png) |  | Panic! at the Disco | Build God, Then We&#39;ll Talk |
+| 52 | ![Cover](https://i.discogs.com/TbfnXxvV8EXx8WP-qUd_QEJE0vJoJItIh_5_Qtq5QiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk0/MjE3LTE1MDYwOTQ2/OTktNzc5NC5qcGVn.jpeg) | 1955 | Arcangelo Corelli | CORELLI: Sonatas Op. 5 Nos. 7-12 |
+| 61 | ![Cover](https://i.discogs.com/a6mMhy9jyBomRGiYsRoYN5o7tyTYU4gAndbIjfKuL1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTA4/MzItMTQ3NTY2NzUz/OC01ODc5LmpwZWc.jpeg) | 1964 | Arcangelo Corelli | Corelli: Concerti Grossi, Op. 6, Nos. 1-6 |
+| 90 |  | 1964 | Various Artists | Pachelbel: Canon in D - Bach: Air on a G String - Handel: Largo from &#39;Xerxes&#39; - Hallelujah Chorus - Clarke: Trumpet Voluntary |
+| 30 | ![Cover](https://i.discogs.com/1lDxywU5WOBP8AYgfx5oXspnMhAnUxEUFH1_1176O7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzY1/NjEtMTQ4MzAzNjY0/Ni0xMDYyLmpwZWc.jpeg) | 1970 | Johann Sebastian Bach | Mass in B Minor |
+| 59 | ![Cover](https://i.discogs.com/-Ceal8C19ebCPTay8gfyaJ5qaTpdjA_JHevNRuFaRMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg3/NjAzLTE1NjEzODc5/MTUtOTU2Mi5tcG8.jpeg) | 1970 | François Couperin | La Musique au temps de Martin Marais |
+| 80 | ![Cover](https://i.discogs.com/V24kzP0ait7jFItOnAkMOUuPdf6WiITABJnkDvFCroY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njg0/OTUtMTU4OTgxMDgy/My0yOTE3LmpwZWc.jpeg) | 1970 | Johann Sebastian Bach | Baroque Favourites |
+| 17 | ![Cover](https://i.discogs.com/fNyW9EiE4hmVsAijQ3dwAElVpNlG5nYQaqyqRwV2i88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzA0/NjE5LTE2NjEzODEy/MDQtNjM5Ny5qcGVn.jpeg) | 1971 | Georg Friedrich Händel | Bryn Terfel sings Handel Arias |
+| 15 | ![Cover](https://i.discogs.com/zRFnA306dznkiZFOAQLDoxwbrhVQ8ocWLquptkNg8Ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Njc3/ODUtMTU3NTQ1MzY5/Ni0zMjA5LmpwZWc.jpeg) | 1974 | Julian Bream | Bream: Baroque Guitar; Bach, Sanz, Sor, Visee, Weiss |
+| 69 | ![Cover](https://i.discogs.com/HVxG8Cd0klCzUawFzZUCqhPdzOh8ebrW0ry-Ji0iEL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTYx/MjctMTQ1NTA3Mjk5/MS0yMjMzLmpwZWc.jpeg) | 1974 | Marin Marais | Viol Music for the Sun King |
+| 29 | ![Cover](https://i.discogs.com/VAd1V67XL-Kl_JtG-cNSyRqNs3Dx2tfCxkVMsCUlHts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDY4/ODItMTQyNzAzNjAx/MS01NzQ1LmpwZWc.jpeg) | 1977 | Domenico Scarlatti | SCARLATTI, D.: Piano Sonatas (Selection) |
+| 50 | ![Cover](https://i.discogs.com/Ro-xm7KbQdJJl8norUdinVReaqEbxKa2x0T_5u-gMag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTAx/NjY0LTE2NTE2MDc5/MzctOTMyMS5qcGVn.jpeg) | 1978 | Lazar Berman | Inedito (Unpublished) |
+| 33 | ![Cover](https://i.discogs.com/LP5Axlz_-JSoLQTC9TD0K8Ns8SnjKVT_c5jGCTHWK24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzUy/NzIxLTE1ODA5MjU0/NDAtOTc4Mi5qcGVn.jpeg) | 1979 | Johann Pachelbel | Summer Chillout |
+| 48 | ![Cover](https://i.discogs.com/dMx9Sy8oPsc1-aVU9hh0tG9jOfmddH_4sKknZTlVBLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTk4/MTM1LTE1MDc5Njk3/NDUtMTQxNC5qcGVn.jpeg) | 1981 | Georg Philipp Telemann | TELEMANN: Musique de Table (Tafelmusik), Vol. 4 |
+| 11 | ![Cover](https://i.discogs.com/jtWkkwc-QSVRlSmRdkIEgrjN8OLFfWQenZkRW7m-STE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzk3/Mzc2LTE2NzM5ODAy/ODQtNjQ4OS5qcGVn.jpeg) | 1983 | Johann Sebastian Bach | J.S. Bach: Solo &amp; Double Violin Concertos |
+| 91 | ![Cover](https://i.discogs.com/Iy28d5jquy26wtOyywuLaYCqJvD6fuZVGOinDO7vSi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjQ1/MDYtMTQ3NzYxMDI5/Ny0yNTk0LmpwZWc.jpeg) | 1983 | Johann Sebastian Bach | Bach: Violin Concertos |
+| 6 | ![Cover](https://i.discogs.com/dzpeeSjJFskrLUg66yxBPwfJ5Mwy836gSjMaQCIudho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzA0/MTUtMTQyMzQ0MTMx/MS0zMjQwLmpwZWc.jpeg) | 1988 | Wynton Marsalis | Baroque Music for Trumpets |
+| 7 | ![Cover](https://i.discogs.com/1Ymgw3OocvAewkVWtXimJQ48f1juKbJVd0IdWWQ7NT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODc0/NTQzLTE1OTk2ODUy/NzQtMTg1OC5qcGVn.jpeg) | 1988 | Antonio Vivaldi | VIVALDI: Favourite Concertos |
+| 18 | ![Cover](https://i.discogs.com/Dn7uYVpHyocPazowEtf-JXzN4Wcgw9LtZDf5jdsZwJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQz/MDI2LTE2Nzc4MDM1/NDctNzQ0My5qcGVn.jpeg) | 1989 | Various Artists | BEST OF BAROQUE MUSIC (COLOGNE CHAMBER ORCHESTRA) |
+| 67 | ![Cover](https://i.discogs.com/RjPqDsOBUzlHYCrg2t3rlpCRGd4rTZAzOGv7R2ZAsO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjIw/ODItMTQxNjQzMTE1/OC01MzI5LmpwZWc.jpeg) | 1993 | Giovanni Battista Pergolesi | Musica sacra |
+| 9 | ![Cover](https://i.discogs.com/Pjo1iFJ7nHtzqiod0fU66yM3szHLoNkNxiaGsBz1H-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NTU5LTE1MDgwNDAy/MjctODM4Mi5qcGVn.jpeg) | 1996 | Georg Friedrich Händel | Handel&#39;s Messiah |
+| 54 | ![Cover](https://i.discogs.com/VURhBL3hXxKIkUzd2jVa3aw4wSxx22Q6lIqXh0prPkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODgw/MjAxLTE1NjMxOTQy/ODAtNTI2Mi5qcGVn.jpeg) | 1999 | Luigi Boccherini | Luigi Boccherini: Symphonies |
+| 10 | ![Cover](https://i.discogs.com/f5xJdbvN9-JYPd676rXovxhcdEsATKjuR4GHhPqCEkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ1/NDc4LTE1MzU0MzQ2/NzQtNjIxMi5wbmc.jpeg) | 2000 | Bach | 150 Classical Masterpieces |
+| 12 | ![Cover](https://i.discogs.com/12gmrB6hAPkmerCKzl-5ffDfN0G24G1Cpj_mkAp2CyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTk0/NS0xMTY0MTQwODU1/LmpwZWc.jpeg) | 2001-10-29 | Helium Vola | Omnis Mundi Creatura |
+| 19 |  |  | Antonio Vivaldi | Le quattro stagioni |
+| 21 | ![Cover](https://i.discogs.com/XVUBS3YPNV1cg8QvGAG7e35QztvqfIbmt1pQ4WMDMMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc5/NzgwLTE0OTYzMjE3/NDktODU3NC5qcGVn.jpeg) | 1967 | Johann Sebastian Bach | Toccata &amp; Fugue - Orgelwerke |
+| 35 | ![Cover](https://i.discogs.com/QfK2YZt4uRJjb4WIi735zz2BHrES7lHZrARMNMIceoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/NjMwLTE1NTY5NjIy/NjEtMzgxOC5qcGVn.jpeg) | 1967 | Georg Friedrich Händel | HANDEL: Harpsichord Suites Nos. 6 - 8 |
+| 36 |  | 1974 | Giovanni Battista Pergolesi | PERGOLESI: Stabat Mater &#x2F; Salve Regina in C minor |
+| 37 | ![Cover](https://i.discogs.com/HVxG8Cd0klCzUawFzZUCqhPdzOh8ebrW0ry-Ji0iEL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTYx/MjctMTQ1NTA3Mjk5/MS0yMjMzLmpwZWc.jpeg) | 1974 | Marin Marais | La Musique au temps de Martin Marais |
+| 41 | ![Cover](https://i.discogs.com/_8V9UpoBTuquGGqwGxd_B72t00MOoBiDeaZpUeJx6_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIw/MDI0LTE1NjQwOTA1/NTctMjIxNi5qcGVn.jpeg) | 1981 | Georg Philipp Telemann | Matthaus - Passion 1746 (St. Matthew Passion) |
+| 22 | ![Cover](https://i.discogs.com/TF51A4cYzBLaIOoBbpP9c2lVWX4ZweoxR8MGmMT7cdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDQx/NDctMTQ1MDAwODQ3/MS02ODAxLmpwZWc.jpeg) | 1985 | Johann Sebastian Bach | BACH, J.S.: Favourite Piano Works |
+| 24 | ![Cover](https://i.discogs.com/1Ymgw3OocvAewkVWtXimJQ48f1juKbJVd0IdWWQ7NT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODc0/NTQzLTE1OTk2ODUy/NzQtMTg1OC5qcGVn.jpeg) | 1988 | Antonio Vivaldi | Four Seasons and Other F Concert |
+| 32 | ![Cover](https://i.discogs.com/0SzgkngN3l_YU0IxB6NxGJ3a1ZDoWAuuWu3shQFAbLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODYy/MTgtMTQ4OTkzODI2/My0yODIxLmpwZWc.jpeg) | 1991 | Jordi Savall | Tous Les Matins Du Monde |
+| 43 | ![Cover](https://i.discogs.com/XLNk42bHgKP5igFDaRSfe9za3WRI9jRp6p2DYG0j43c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTEy/OTMtMTQxNTcxOTU3/Ni0zMTk3LmpwZWc.jpeg) | 1991 | Dietrich Buxtehude | BUXTEHUDE: Organ Works, Vol. 5 |
+| 23 |  | 1991-03 | Antonio Vivaldi | The Best of Vivaldi |
+| 38 | ![Cover](https://i.discogs.com/DYiY0U_L0v3qTZInyNapWTSW7fqdGmGmz0WtFa-IY30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzkx/ODA1LTE3MDM0MTUx/MDItNzQzOS5qcGVn.jpeg) | 1998 | Jean-Philippe Rameau | RAMEAU: La naissance d&#39;Osiris &#x2F; Abaris ou les Boreades |
+| 42 | ![Cover](https://i.discogs.com/Y3IFtGFEzFzvPRlFM7lSkM-ZwfmpH1LyByeUmBe2zvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzQ1/MDEtMTQ5NzUxNTkx/Mi0xOTcwLmpwZWc.jpeg) | 1999 | Johann Sebastian Bach | BACH, J.S.: Orchestral Suites Nos. 1 and 2, BWV 1066-1067 |
+| 44 | ![Cover](https://i.discogs.com/jdC8jUXZTFt4t_XPAG9vaG_INYcgdxY6FLPni-k7i3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzcw/MTExLTE1MTUwOTg3/MDItNzkxNi5qcGVn.jpeg) | 1999 | Ralph Kirshbaum | Bach - Cello Suites |
+| 39 | ![Cover](https://i.discogs.com/eVk6VF5YuHh_G8LVz4GZIO1Tr_tFVIpjy_8Jn0WBtEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTE0/MzktMTI5MzAyNzQx/Ni5qcGVn.jpeg) | 2000 | Glenn Gould | The Gould Variations: The Best of Glenn Gould&#39;s Bach |
+| 45 | ![Cover](https://i.discogs.com/y8RncdRX1tVEB_Mk9yHq9VKIWsP2iTpxwZxGZvqvAdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIw/NDg1LTE1ODY5NDYx/MTQtOTI2MS5qcGVn.jpeg) | 2001 | Pablo Casals | Casals: Bach - Cello Suites 1-6 |
+| 20 | ![Cover](https://i.discogs.com/eokNZJgV7ItGDKV0ZhbtiZKsHDYX22Ka1aCoIrpZL1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMx/OTA1LTE1NTIyMzA5/NzQtNjc2Ny5qcGVn.jpeg) | 2003-05-21 | Les Filles de Sainte Colombe | German music for Viols and Harpsichord |
+| 25 | ![Cover](https://i.discogs.com/bSf0U_3NnHv0hRGIeimx6393kr19XBMDLWo3JFVZpcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjIw/OTU3LTE1NzgzMzIx/MzUtMzc4Ni5qcGVn.jpeg) | 2005 | Sonatori de la Gioiosa Marca | Vivaldi: 4 Seasons (The)(Sonatori De La Gioiosa Marca) |
+| 49 | ![Cover](https://i.discogs.com/_LxurO0wQoOkLpGewdG7-cdQABUhISHvgZWbGNuYoBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU0/MDktMTI0ODA3NTky/Mi5qcGVn.jpeg) | 2005 | Antonio Vivaldi | Antonio Vivaldi: The Four Seasons and Other String Favorites |
+| 53 |  | 2005-10 | Antonio Vivaldi | The Very Best of Vivaldi |
+| 56 |  |  | Tomaso Giovanni Albinoni | ALBINONI: Adagio |
+| 57 | ![Cover](https://i.discogs.com/60sUJW533We31yWac6PpOgXoiOJUcHmhOf0Eax53Y3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTcw/NDAtMTY2MzkwNzk1/My03NzcwLmpwZWc.jpeg) | 1978-05 | Henry Purcell | Dido and Aeneas |
+| 58 |  |  | Domenico Scarlatti | Scarlatti, D.: Keyboard Sonatas |
+| 70 | ![Cover](https://i.discogs.com/5Vlspxk4tG5Wrxlxa9wUgw05cUxKFctNlw_1iy581Bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTk5/ODEtMTYyOTMxNDUw/Ni03MTQ1LmpwZWc.jpeg) | 1970 | Johann Sebastian Bach | BACH, J.S.: Adagio |
+| 72 | ![Cover](https://i.discogs.com/gikZl1P8DPxWQ5hEuedh0QWk4mxm9_3_k-3mvDmPMLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQ4/MDgzLTE1OTg5MDAx/ODYtMTQwMS5qcGVn.jpeg) | 1970 | Georg Friedrich Händel | Concerti Grossi - Op. 6 Nos. 5-8 |
+| 75 | ![Cover](https://i.discogs.com/hFQ7EINpwBRiK9zzEqIiMB3EQYNnS-dxRat5LFJ7w9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTQ2/OTQtMTQyODk1MjA2/Ni0yMDI5LmpwZWc.jpeg) | 1978 | Georg Friedrich Händel | Música para los Reales Fuegos |
+| 71 | ![Cover](https://i.discogs.com/Dr7fQhzJoVOVZPSmufvFTQ5L42h0Tb4029ks95IKq14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTAz/ODgtMTQzODY4MjA0/MS03MTIzLmpwZWc.jpeg) | 1979 | Johann Sebastian Bach | Hilary Hahn Plays Bach |
+| 76 | ![Cover](https://i.discogs.com/-MVaR6bOC6aB0tEY3UDf6sFaAuoAzsqb9uTEF6FIGM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ1/NTUtMTM2MzIzNDAy/MC0xMDQ3LmpwZWc.jpeg) | 1979 | Itzhak Perlman | Vivaldi-The Four Seasons and Violin Concertos |
+| 92 | ![Cover](https://i.discogs.com/fXnTqN6mMOv6PwOSHRzSLTIxsRgQGbK8_6SYDTJFVbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE1/MzYyLTE1MDA5OTE5/NTktMTIxNC5qcGVn.jpeg) | 1984 | Berliner Philharmoniker | Albinoni: Adagio in G minor &#x2F; Pachelbel: Canon |
+| 74 | ![Cover](https://i.discogs.com/ZiICAUR0GrVYVX3HlFCEfCgN9pumEdBCVgLAfRgMAtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjA3/Mzc1LTE1Mjk3NjUz/MTctMTQzNC5qcGVn.jpeg) | 1985 | Johann Sebastian Bach | Goldberg Variations |
+| 93 | ![Cover](https://i.discogs.com/tbI7D3Bm8NEYD0isHmqdPyydgOzPutgHDQE75AnfmlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg0/MDE5LTE1OTQwNDI5/NTktMzgxMS5qcGVn.jpeg) | 1985 | Johann Sebastian Bach | Great Composers - JS Bach |
+| 87 | ![Cover](https://i.discogs.com/DvSuSB4AF9JoqEZGZrLYnTyBijg9B0880oaQPL5El9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTA2/ODUtMTU2ODMwNTg3/OS01NTIwLmpwZWc.jpeg) | 1989 | Johann Sebastian Bach | Sonates |
+| 84 |  | 1990 | Antonio Vivaldi | The Four Seasons |
+| 82 | ![Cover](https://i.discogs.com/QhMERxjQQGOZP_5MxM8XUGwP9jTqwbrFRam2XYiRSWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjE3/MzktMTM2ODQzMDg4/My05NDQwLmpwZWc.jpeg) | 1992 | Giuseppe Tartini | Tartini: Violin Concertos |
+| 79 | ![Cover](https://i.discogs.com/sxjcxpeMpORAd9ueT0_rdfF3JvJK4DEffI9DhT7uLnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI2/MzQ1LTE1MDExOTg5/NDYtNTk3NS5qcGVn.jpeg) | 1993 | Johann Pachelbel | Kanon &amp; Gigue; J.S. Bach, Handel, Vivaldi |
+| 99 | ![Cover](https://i.discogs.com/NcEuCAIlOUsrv1B4MU-Ge4SadzhXylRPvyMUAZ4sVxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTEw/OTEtMTMyNDIyNTQ4/MC5qcGVn.jpeg) | 1993 | Antonio Vivaldi | VIVALDI: Flute Concertos (Famous) |
+| 64 | ![Cover](https://i.discogs.com/LWkOlELX7L4p1PgEpgq2w6PBlZCrVzvPiYG-1oynTyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTgw/NS0xNDQ3MTAxMzQ0/LTE3MzEuanBlZw.jpeg) | 1994 | Claudio Monteverdi | MONTEVERDI: Madrigals, Book 1 |
+| 83 | ![Cover](https://i.discogs.com/RgvDXdKxDwTayC7g4iwntzm_L56A88V_MoHJrGf12nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTk4/OTgtMTMyNTYxMDI1/OS5qcGVn.jpeg) | 1994 | Georg Philipp Telemann | TELEMANN: Recorder Suite &#x2F; Recorder Concertos |
+| 62 | ![Cover](https://i.discogs.com/8gKiHqnSxjADGYRMIA410U_jaRu-fUVfj3XFEClsvDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE3/OTg4LTE1NTM4MTM2/NjAtMjkzMy5qcGVn.jpeg) | 1996 | Georg Friedrich Händel | Royal Fireworks Music |
+| 94 | ![Cover](https://i.discogs.com/8gKiHqnSxjADGYRMIA410U_jaRu-fUVfj3XFEClsvDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE3/OTg4LTE1NTM4MTM2/NjAtMjkzMy5qcGVn.jpeg) | 1997 | Georg Friedrich Händel | Baroque Favourites |
+| 100 | ![Cover](https://i.discogs.com/APDfpDdCFYqeanJpScPnuncwrTzhOJMnw8Bl6lCsmvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NzEwLTE2Nzk1OTAy/NjctMzc0Ny5qcGVn.jpeg) | 1998-01 | Henry Purcell | The Indian Queen |
+| 98 | ![Cover](https://i.discogs.com/l2leqpXZMEB4EQwW5gFb5iCWqkZHWe2hdml_26UcG3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDcw/NTgtMTQ0NzEzNDg5/NS00NjQxLmpwZWc.jpeg) | 1999 | Johann Sebastian Bach | Bach: Unaccompanied Cello Suites (Remastered) |
+| 81 | ![Cover](https://i.discogs.com/F4CCiydz5-FVbKRt6mVi7uDj-4MwRiNaLdSF3GbEyMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTg4/OTMtMTQ4MTYzMzk3/NS03OTU1LmpwZWc.jpeg) | 2001 | Marin Marais | MARAIS: Viol Music for the Sun King |
+| 95 | ![Cover](https://i.discogs.com/uUJyFs4NJZlyEYMT5kCqbN3nW1Gld2__vcty234-j4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEw/MDgzLTE2NTc3NTAx/NDAtNDI3NC5qcGVn.jpeg) | 2002 | Antonio Vivaldi | Vivaldi: Concertos for Strings |
+| 66 | ![Cover](https://i.discogs.com/sRiaEr69TP-Eqflh9xpZbubDuPEYMomfPNrRDV5_qak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU5/MTYtMTI5MjgzODQw/Ni5qcGVn.jpeg) | 2005 | Antonio Vivaldi | Las Cuatro Estaciones |
+| 27 |  | 2007 | George Frideric Handel | Handel: Organ Concertos, Op. 7 |
+| 88 |  | 2007 | George Frideric Handel | Handel: Messiah |
+| 86 | ![Cover](https://i.discogs.com/gALISiBVFbmIaqlMzZPy_32hcESZdKfo3JitJDxN4BM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ4/NTI4LTE1NDcxMzYz/NTYtODkxMi5qcGVn.jpeg) | 2007-09-19 | Glenn Gould | Bach: The Goldberg Variations |
+| 28 | ![Cover](https://i.discogs.com/22EF--zOcXkH7qv6V-U-LuGGvOC_OaaaCMgQwgcorp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODAx/NDU1LTE1MjI2MTYz/NjMtNzE1Mi5qcGVn.jpeg) | 2007-10-23 | Glenn Gould | J. S. Bach: Zweistimmige Inventionen und Dreistimmige Sinfonien |
+| 16 |  | 2008 | Johann Sebastian Bach | Baroque Masterpieces |
+| 55 | ![Cover](https://i.discogs.com/E5oZ2YJ9FgLjFv7jvuN5T1KfzDjsLfr1gmff6K3Rru0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTEy/NDgzLTE2NTgwNjM2/MjItMzEwMi5wbmc.jpeg) | 2008 | Jean-Baptiste Lully | LULLY: Ballet Music for the Sun King |
+| 60 | ![Cover](https://i.discogs.com/NcEuCAIlOUsrv1B4MU-Ge4SadzhXylRPvyMUAZ4sVxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTEw/OTEtMTMyNDIyNTQ4/MC5qcGVn.jpeg) | 2008 | Antonio Vivaldi | Six Cello Concertos |
+| 1 | ![Cover](https://i.discogs.com/1_aWxAnqd6QmcUblY_8uxDsRFLI_g2jPNXxVndlxB30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjkw/Mzk4LTE2MDY2Njgz/OTMtNDAyNi5qcGVn.jpeg) | 2009 | Pietro Antonio Locatelli | LOCATELLI: Concerti Grossi Op. 1, Nos. 1- 6 |
+| 2 | ![Cover](https://i.discogs.com/IPVt8MZsMA4i2a0G5InM3qHIonI1lvjoP8EN0SycT5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTcx/MzEtMTI2NzA5NDk2/OC5qcGVn.jpeg) | 2009 | Angela Hewitt | The Well-Tempered Clavier, Book 2, Disc 1 |
+| 8 | ![Cover](https://i.discogs.com/HMgVbV6lf1TQIDMoe_qPr9WhZwhf45eDpXyo_6SNMcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDM3/OTctMTMyNjgyOTAx/OC5qcGVn.jpeg) | 2009 | Johann Sebastian Bach | Bach: Mass in B Minor |
+| 13 | ![Cover](https://i.discogs.com/MDxJcuKUCBu5Cat_EOWgBGc0apoaLXxcmzMT5ZgBUfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjM1/NTcwLTE3MDY1NDE3/MTMtNTc2MC5qcGVn.jpeg) | 2009 | Various Artists | BAROQUE VIOLIN FAVOURITES |
+| 68 | ![Cover](https://i.discogs.com/1_aWxAnqd6QmcUblY_8uxDsRFLI_g2jPNXxVndlxB30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjkw/Mzk4LTE2MDY2Njgz/OTMtNDAyNi5qcGVn.jpeg) | 2009 | Pietro Antonio Locatelli | LOCATELLI: Concerti Grossi Op. 1, Nos. 7-12 |
+| 78 | ![Cover](https://i.discogs.com/LCla1fqZAqijBzmjVLPfZFuyI51aNzkOoDK_85LLL2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODAw/NTAtMTU3NjYwNTE2/OS04NjI5LmpwZWc.jpeg) | 2009 | Johann Sebastian Bach | Bach: Organ Works |
+| 63 |  | 2010-07-13 | Johann Sebastian Bach | Brandenburg Concertos |
+| 14 | ![Cover](https://i.discogs.com/WZZwhEvZr7Vp-DZLLuiWu2TOBh3sd1pEK09NkOlLFOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDc5/OTktMTQ3MTI0MDU4/MC01MzUwLmpwZWc.jpeg) | 2011 | Johann Sebastian Bach | Bach - Solo Violin Sonatas |
+| 51 | ![Cover](https://i.discogs.com/rb2tP9Q-qV7LZd41QEdzRBHgVP95MPLWdo983WP5B38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzUx/MTcwLTE2MjgxNzUy/NjUtMjgyMS5qcGVn.jpeg) | 2013 | Jan Pieterszoon Sweelinck | Sweelinck: Organ Works |
+| 47 | ![Cover](https://i.discogs.com/xFU1sUZN74vpTX--G1uaHWUYWA9v4zKya-Bxly7KZdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjY0/NTQzLTE2NDgzOTU5/OTYtNDA3Ni5qcGVn.jpeg) | 2014 | Henry Purcell | Purcell: The Fairy Queen |
+| 89 |  | 2014 | Antonio Vivaldi | The Essential Vivaldi |
+| 5 | ![Cover](https://i.discogs.com/vhCYTMBgtEMTLZqgEQsZowVe_eT9nbAORz1mPeaTtcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU2/MDg4LTE1NjY5NzU4/NDUtMzczNS5qcGVn.jpeg) | 2016-12-07 | Hilary Hahn | Hilary Hahn Plays Bach |
+| 3 | ![Cover](https://i.discogs.com/VERW1trKehXIjydjCyRgzpZLXvg-CL8vaYpdl4isAEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQ0/NTQ1LTE0OTU3MDIy/MzYtMTE3Ni5qcGVn.jpeg) | 2017 | Anne-Sophie Mutter | Violin Concertos |
+| 40 | ![Cover](https://i.discogs.com/EaCSmOdLc2y5zMrCY8_qaIPcnpU-wm1VW_SstC7HpT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE5/Mjc3LTE3MzM3NTU5/MzktNTk3Ni5qcGVn.jpeg) | 2017-03-03 | Various Artists | Roman Christmas: Italian Concertos and Cantatas |
+| 96 | ![Cover](https://i.discogs.com/JGMs_xVfP4wdPSHm7FJBcuA8zYXIvnqvdcHnxBclAgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDMx/NjQyLTE0OTcyOTc1/MDQtNTM4My5qcGVn.jpeg) | 2017-06-16 | Igorrr | Savage Sinusoid |
+| 65 | ![Cover](https://i.discogs.com/e5xSJv7yLLGDpTWtiv2b4iP208SNyi34CuNHJRwTSxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzEz/NTAyLTE2MzIyMjMw/NjYtMTU4My5qcGVn.jpeg) | 2021-09-24 | Momentum | Momentum |
+
+### Related genres
+
+- [classical]({{ "/tags/classical" | relative_url }})
+- [piano]({{ "/tags/piano" | relative_url }})
+- [flute]({{ "/tags/flute" | relative_url }})
+- [orchestral]({{ "/tags/orchestral" | relative_url }})
+- [opera]({{ "/tags/opera" | relative_url }})
+- [choral]({{ "/tags/choral" | relative_url }})
+- [harpsichord]({{ "/tags/harpsichord" | relative_url }})
+- [clavecin]({{ "/tags/clavecin" | relative_url }})
+- [viola da gamba]({{ "/tags/viola-da-gamba" | relative_url }})
+- [musique francaise]({{ "/tags/musique-francaise" | relative_url }})

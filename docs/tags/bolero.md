@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-23T03:23:18.910Z
+permalink: tags/bolero
+title: bolero
+---
+
+## bolero
+
+Last updated: <time datetime="2025-10-23T03:23:18.910Z">Thu Oct 23 2025 06:23:18 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 6 |  |  | Narváez | Volver a verte (single) |
+| 8 |  |  | Petrol Presents | Greatest Songs Ever: Chile |
+| 9 |  |  | El Negro Ojeda | Antología - 50 Años |
+| 12 |  |  | Los Tiranos Del Norte | Para Mi Reina |
+| 18 |  |  | Orquesta La Terrifica | Hinca La Yegua |
+| 28 |  |  | Gildardo Álvarez | Te reto a que me olvides |
+| 30 |  |  | La Familia de Ukeleles | El Lobo |
+| 37 |  |  | Rodolfo Aicardi | Rodolfo - El Insuperable |
+| 47 |  |  | Oscar Agudelo | Los 30 Mejores |
+| 48 |  |  | Fernando Valadez | 20 Exitos de Oro |
+| 91 |  |  | Germán Valdés &quot;Tin Tan&quot; | Germán Valdés TIN-TAN Canciones de Sus Películas |
+| 1 | ![Cover](https://i.discogs.com/lAYP7Ky8X4DRtq-NZoBYp3VOTHZLGKTbp724Ob6-0Yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODg1/OTUtMTQ1MjY2NzQ5/My0zODQxLmpwZWc.jpeg) | 1949 | Trio Los Panchos | Leyendas Solamente Los Mejores |
+| 71 | ![Cover](https://i.discogs.com/NWs5NJlM6bkMlRfSEb3vJENHFDUJOwe-HAholW5pzq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODg3/MDItMTQ0NDAyNDA1/Mi03NTQ2LmpwZWc.jpeg) | 1953 | Daniel Santos | Serie Inmortales - Daniel Santos Y Sus Amigos |
+| 2 | ![Cover](https://i.discogs.com/eZREe4xYiZc9adqE3waQaa3QvsdDX47HIJjdLZ_e91Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjc1/MDgtMTYzMTU2OTIz/MC0zMjg0LmpwZWc.jpeg) | 1958 | Los Dandy&#39;s | Exitos Originales |
+| 52 | ![Cover](https://i.discogs.com/mc8Sc3KY7Noaq6eyU01SLGQ1uaKE4JssLIipGvjKh3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg1/NTcyLTE0OTg0MTY3/MTktNTEwNS5qcGVn.jpeg) | 1958 | Beny Moré | Canciones de Amor |
+| 7 | ![Cover](https://i.discogs.com/7Le33Wbf6zxZE9kA0LjcmB62DBxz_0s5mcF4v1-h0is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQy/NTQtMTYxNTIzNzA1/Ny03MTExLmpwZWc.jpeg) | 1959 | Eydie Gormé | Love Is A Season |
+| 94 |  | 1959 | Nat King Cole | A Mis Amigos |
+| 29 | ![Cover](https://i.discogs.com/cwgkLDUwCxQo2kSCFJb-mLf8afk_5ty1kDDvRaYCkII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzUw/ODMtMTQ2NDM1NTQ3/Ni03ODg4LmpwZWc.jpeg) | 1966 | Chucho Avellanet | Boleros De Amor |
+| 5 | ![Cover](https://i.discogs.com/6JnMKvW5J1AJXlacah4-veAfaZ2sSqlgKPmyGJEdnCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQw/NzA5LTE1ODU4ODU4/OTQtMTE1Ni5qcGVn.jpeg) | 1967 | Javier Solis | ORO 20 Grandes Canciones Vol. I + II |
+| 39 | ![Cover](https://i.discogs.com/eIBO6bO2y9I2FtTb9CuAxBEhrddw7wZzUp0vM0DGXP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTA1/MDItMTQzMjU3OTAw/Mi03MTQyLmpwZWc.jpeg) | 1968 | Agustín Lara | Grandes Éxitos de Agustín Lara |
+| 24 | ![Cover](https://i.discogs.com/BJvS1P-mhqaIOfzBx8mRmF0GI8WJhXE2C0GLYpdhFWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTgw/OTgtMTM3OTM4MDcw/OC05NDgxLmpwZWc.jpeg) | 1971 | Sociedade da Grã-Ordem Kavernista | Sociedade da Grã-Ordem Kavernista Apresenta Sessão das 10 |
+| 43 | ![Cover](https://i.discogs.com/gH1nWWh9Z8DC1mlqQ98anC7oJ8rmeQqY3k6P8b5Rh28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDM4/ODQtMTUxNTA5MjA0/Mi05MDc4LmpwZWc.jpeg) | 1972 | Pedro Vargas | En Bellas Artes 50 Aniversario |
+| 50 | ![Cover](https://i.discogs.com/zUzQc5chD_Pvxw7quO-8vIQPd6BlgG4O_E6L0xER4Bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjU3/OTktMTM5MDYwMjQ0/OC0yNzg3LmpwZWc.jpeg) | 1972 | Ismael Quintana | Dos Imagenes |
+| 66 | ![Cover](https://i.discogs.com/t3rHIu_hVtSWsVI1CcKPqgTDd0G7I4RO8m6eZPvTogk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzI1/NTgwLTE1MjEzMjE5/NjQtMTAyOS5qcGVn.jpeg) | 1975 | Tommy Olivencia y Su Orquesta | Planté Bandera |
+| 68 | ![Cover](https://i.discogs.com/RjAOcAuaE_ximp80PSQXDtWs47arH37ZSkNLFoz7mDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NzI0/NzQtMTQyMjI3MjEz/Mi04OTM5LmpwZWc.jpeg) | 1976 | Armando Manzanero | Duetos lo mejor de Armando Manzanero |
+| 79 |  | 1977 | Various Artists | Mexican Boleros |
+| 23 | ![Cover](https://i.discogs.com/C8ZigQHAfXDd6kpcoG1j72UKj-NlEmhoErl2CECNi0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg2/MzgtMTUwODU0ODA4/OS03ODY4LmpwZWc.jpeg) | 1979 | Chamaco Ramirez | Alive And Kicking |
+| 75 | ![Cover](https://i.discogs.com/5yxSWuUbOlWO_609gDACZWYE49pskGJK42pjk41IrZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzgx/MTUtMTQ1NTg2Mjg3/Ny02ODk5LmpwZWc.jpeg) | 1979 | José José | 20 Triunfadoras De Jose Jose |
+| 56 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 1980 | Various Artists | Zamaan Ya Sukkar - Exotic Love Songs and Instrumentals from the Egyptian 60&#39;s |
+| 42 | ![Cover](https://i.discogs.com/ElPytkeD4otBXmhaY5CMqrXwY4Qj1qNysEjHAhz2w8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzU4/NDgwLTE2MTUyNjQ2/NjktNDExNC5qcGVn.jpeg) | 1981 | Los Tres Ases | Lo Mejor de lo Mejor |
+| 10 |  | 1982 | Eydie Gorme &amp; Trio Los Panchos | 18 Grandes Exitos |
+| 49 | ![Cover](https://i.discogs.com/OzqtJ84Gk6CiaNsAvdfYcayKgSjPKhG2qr62SskZcmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjk4/OS0xNDI2MDUzODA4/LTkzNTAuanBlZw.jpeg) | 1985 | Trafassi | Wasmasjien |
+| 13 | ![Cover](https://i.discogs.com/VxtEkRdISCA5g-Brho0dFM5VxKOm6t4czBn-ruqoWdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc4/ODMwLTE2MDY5NjE3/NTMtOTEzNy5qcGVn.jpeg) | 1986 | Toña la negra | Mexican Boleros |
+| 63 | ![Cover](https://i.discogs.com/rfIV2RK1VNGpbckLDB2aUElJumTbtGJ2n2iJwqTuyIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDYy/MTk2LTE1OTE5MTcw/ODgtMzEzMS5qcGVn.jpeg) | 1986 | Toña la negra | 15 Boleros |
+| 40 | ![Cover](https://i.discogs.com/ScyZ2dAT2F64G2BoGQ5arb3TM9So2YuztTgaMZPKrxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjY2/NzYtMTQ2MzM5Nzgx/My0xMDkwLmpwZWc.jpeg) | 1987 | Antonio Machin | Lo Mejor De Antonio Machin |
+| 34 | ![Cover](https://i.discogs.com/MKSLfNCg9LC5iR28WydWr3zITM11lagDLV6zsCH976s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDkw/NzIxLTE1Njc2NjY1/MzUtNzE0MC5qcGVn.jpeg) | 1988 | Javier Solis | Canta Javier |
+| 62 | ![Cover](https://i.discogs.com/AsJs3hO1myaFzKM2PB2gZ7sXgjQDYmvOs9DX-rQHfyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDkw/NzcwLTE1NjI5ODky/MjgtNzQwMy5qcGVn.jpeg) | 1988 | La Sonora Santanera | 15 EXITOS |
+| 57 | ![Cover](https://i.discogs.com/D9UGobIpumYL66RXR5YQyVlN8Ci8zrlvdXMRQbW4JTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTM1/MzgzLTE1ODcxMzk3/NDEtMzE4OS5qcGVn.jpeg) | 1989 | Trio Los Panchos | Grandes Exitos |
+| 69 | ![Cover](https://i.discogs.com/EkVjIUcsraXVDtnChbIn4fYRyTd_ljGYvvOw7_mckok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTc4/MDA2LTE1NDk0MDY1/MjYtMTI2MC5qcGVn.jpeg) | 1989 | Felipe Pirela | El Bolerista De América |
+| 44 | ![Cover](https://i.discogs.com/Erh4H5vjQ172jRtILVOPVFLi8MeV-8aQhDSUgBGnKEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODk1/MDgtMTQ1NDkzODM2/NS01MDM0LmpwZWc.jpeg) | 1990 | Los Panchos | Todo Panchos |
+| 26 | ![Cover](https://i.discogs.com/yi0bMZKeRK7eSKNB4zwf5GHa8wZRozwOcwYpef8Wh38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQy/NzQtMTM1MTcwNTY0/NS03NTE4LmpwZWc.jpeg) | 1991 | Lucero | Sólo Piens En Ti |
+| 84 | ![Cover](https://i.discogs.com/FN-PIDaYmV7NDx8_Of4_-MCnxNwNSYybZh7rjd-1ayM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU0/MTc1LTE2MDk2MjQ4/MjMtMzAxOC5qcGVn.jpeg) | 1991 | Armando Manzanero | 20 Exitos |
+| 31 | ![Cover](https://i.discogs.com/l_dTpsrAsfg8RqYLRlnnzQjvjkR--MJfoGkdfy_F6yk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzA1/MDc4LTE1Nzk5OTY3/MzYtMTk2Mi5qcGVn.jpeg) | 1992 | Javier Solis | Las Estrellas De La Hora Azul |
+| 38 | ![Cover](https://i.discogs.com/WtsnIYvYBUHm_3A392wygA0bkPGVRnCcnMUOscDqoXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE5/NDQxLTE2NDUzNTE4/NTgtNTYxNS5qcGVn.jpeg) | 1992 | Los Panchos | Eternamente...La Historia |
+| 81 | ![Cover](https://i.discogs.com/jq50a8d6g1pKDsB1VPfWvsqaLSYOa9un2OZjgyUqR1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTkw/Nzg1LTE2MDUwMDIz/NTQtNDY2My5qcGVn.jpeg) | 1992 | Los Panchos | Serie Inmortales - Grandes Éxitos |
+| 11 | ![Cover](https://i.discogs.com/xRGaFdI2yzSd6fL1ZUi3r_nuZaVF_u7ZXXRHGGk8dyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAz/NzE2LTE1NTczMzU5/MzgtNTA0OS5qcGVn.jpeg) | 1993 | Los Fronterizos | 20 Grandes Exitos |
+| 19 |  | 1993 | Linda Ronstadt | Boleros y Rancheras |
+| 76 | ![Cover](https://i.discogs.com/_msA90umjHhKJivN7Ak1iSGJmtPzPVjGjFX-SC13sXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjQ5/NS0xMTQ4NzE3NjE3/LmpwZWc.jpeg) | 1993 | Yanni | Yanni Voices |
+| 21 | ![Cover](https://i.discogs.com/YKyIhy7YTiAdqkd7SkILEcrZdVbufLiBp33Uev4hGEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTM1/MjUtMTUyNjMyOTQw/NC00Nzc5LmpwZWc.jpeg) | 1994 | Felipe Pirela | Felipe Pirela Interpreta A Rafael Hernández |
+| 53 | ![Cover](https://i.discogs.com/YKyIhy7YTiAdqkd7SkILEcrZdVbufLiBp33Uev4hGEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTM1/MjUtMTUyNjMyOTQw/NC00Nzc5LmpwZWc.jpeg) | 1994 | Felipe Pirela | Interpreta A Armando Manzanero |
+| 55 | ![Cover](https://i.discogs.com/Pv4xG2Rxw5ZGeEynFnL4I3bAL54SPbhoqXLwzq4ZmWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTY0/ODUtMTQ3Mzg1Nzc1/Ny0xNjk0LmpwZWc.jpeg) | 1994 | Alfredo Sadel | Sadel Canta a Los Panchos |
+| 65 | ![Cover](https://i.discogs.com/kQ2eSa2ECJq5MyXmUb5VnfKedzqB4MXfp7QYUbjQQBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDMx/OC0xMTU3MDc4MTQ2/LmpwZWc.jpeg) | 1994-02-15 | Stanley Jordan | Bolero |
+| 33 | ![Cover](https://i.discogs.com/pM6gYYQwZCMRmZ9QL3DsTYpXwk2UyYKeM8xv-QiJv6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjkx/MzQ5LTE1MzIyODA3/MDctODk5OS5qcGVn.jpeg) | 1995 | Lucero | Mi Secreto De Amor |
+| 35 | ![Cover](https://i.discogs.com/q8GNJG_f7s_SfZkLuOBbSaDwWLFIOCiGG1eNjwMmPiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk5/ODUwLTE0OTg3MTY2/MzItNTgwNy5qcGVn.jpeg) | 1995 | Jose Feliciano | Love Songs |
+| 60 |  | 1995-03-25 | Paulina Rubio | El Tiempo Es Oro |
+| 74 |  |  | Trmo Los Panchos | Todo Panchos |
+| 87 | ![Cover](https://i.discogs.com/HJn4Hq68R9LPuGC0uhfjtgxhv5dImJdylzJ4tFUkdjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Njkz/OTMtMTM5OTQ2MzA3/MC01Njc0LmpwZWc.jpeg) | 1971 | Javier Solis | Vida De Bohemio |
+| 88 | ![Cover](https://i.discogs.com/MabNPUCAEOKEoUv2iyi9tsi9VIYecw1m1DsFvmbMwJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDY1/NzEtMTU4MTAzMTk0/MS04NDEwLmpwZWc.jpeg) | 1993 | Lucero | Un Lu*Jo |
+| 17 | ![Cover](https://i.discogs.com/D1WI22zFUkjBbnjCDjj3fLAyNe_Q-rSfFNgJ9E6wzaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjE0/OTE0LTE2MjQyOTM1/MjUtNDY0NS5qcGVn.jpeg) | 1996 | Trio Los Panchos | Brillantes - Trio Los Panchos |
+| 41 | ![Cover](https://i.discogs.com/jzxDWoJfzNubv837NolxWoi-pVnkR5OW9auPV56VSVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODI5/NjUwLTE2Mjg3MjQ4/NzItMjMxOC5qcGVn.jpeg) | 1996 | Los Panchos | Canciones De Amor |
+| 67 | ![Cover](https://i.discogs.com/84ebH79i5MemNMj6aVMm4ebtg_85KZCtTDioY6eVqIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTA0/MjgtMTI4MTI3MjU5/My5qcGVn.jpeg) | 1996 | João Bosco | O Bebado E O Equilibrista |
+| 90 |  | 1996 | Chavela Vargas | Chavela Vargas |
+| 14 | ![Cover](https://i.discogs.com/2rP7Y9I_7u1Zcx3Sj9wfpn8gnqSBlo0oA4AhzYBajLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTY5/NTYtMTQzODcyNjQx/Ny01MTQyLmpwZWc.jpeg) | 1997 | Los Panchos | 30 Exitos |
+| 72 |  | 1997 | Agustín Lara | 20 Exitos |
+| 83 | ![Cover](https://i.discogs.com/0I3ob5WHR678IDVitHqilatMSXrOV7eel7kR0FGesIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODc0/ODMxLTE1NjMwNjYy/OTgtMzY2Ni5qcGVn.jpeg) | 1997 | Cristian Castro | Lo mejor de mi |
+| 78 |  | 1997-06-23 | Buena Vista Social Club | Buena Vista Social Club |
+| 64 | ![Cover](https://i.discogs.com/aQZgBsp6wCeTyh_FIfy73DmaVC9Sxt1zzyb5iRtFrnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDIz/NjEyLTE1OTEzMDQ5/MDctNjI4Mi5qcGVn.jpeg) | 1998 | Julio Jaramillo | Los Años De Oro - Lo Mejor |
+| 82 | ![Cover](https://i.discogs.com/0bioTJSeQpFjXh9kEYpVtzon54Wh0kcmOgbj8x3EzP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODU0/MzQtMTQ3Mjc3NTMy/Mi0xNjY3LmpwZWc.jpeg) | 1998 | Edith Márquez | Frente a ti |
+| 32 | ![Cover](https://i.discogs.com/iWSu1kVM3LET1vE7gMlZCwva23fSDlbVBnZzliofcyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY4/MzY0LTE1NzEwOTU1/MTktOTM2My5qcGVn.jpeg) | 1999 | Benny More | El Barbaro Del Ritmo |
+| 96 | ![Cover](https://i.discogs.com/tPfo_ss0oxZB31KjM3uOClpo5RlOiph8ErgSX238gdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE3/NDE3LTE2ODUxNjc3/NDYtNTY3NC5qcGVn.jpeg) | 2000 | Omara Portuondo | Omara Portuondo (Buena Vista Social Club Presents) |
+| 100 |  | 2000-05-23 | Paulina Rubio | Paulina |
+| 51 |  | 2001 | Tamara | Siempre |
+| 80 | ![Cover](https://i.discogs.com/fkf4p1IX1NGp1_YNBbGgllAe5WODe2wencELsNqnFa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzMx/MTA5LTE1NDE4MDA5/NjYtNTA4Ny5qcGVn.jpeg) | 2001 | Los Tres Ases | Epoca De Oro |
+| 46 | ![Cover](https://i.discogs.com/vcrFoZz76B0Is21JzRgqR1cnXPdnGeqaeVBXGqngMgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDY1/MDEtMTU3Njk3MTMz/Mi01MzU1LmpwZWc.jpeg) | 2002-10-08 | Luis Miguel | Mis Boleros Favoritos |
+| 4 | ![Cover](https://i.discogs.com/3VJcHwWe_WGBcWkUR7N_Jx6DDlW_8tfg7yhe9eZs3yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ4/MjEyLTE1ODcwNzk3/NTAtNTM4OS5qcGVn.jpeg) | 2003 | Rafael Cortijo | El Sueño del Maestro |
+| 54 | ![Cover](https://i.discogs.com/opGI96JLpZKlJkgDih8DZs29Q886aWke6Xt6-vPrxdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU2/ODQ3LTE1NjI2ODI4/NzgtMzI2Ny5wbmc.jpeg) | 2003 | Ilan Chester | Cancionero Del Amor Puerto Riqueño |
+| 70 | ![Cover](https://i.discogs.com/gC7JnLArLxBUG17Yq6n8DY3Bplnlp8ezjGaZPhpyhgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjMw/MTU1LTE2MTQ1MzQ0/OTMtOTcxNS5qcGVn.jpeg) | 2003 | Banda Calypso | Volume 4 |
+| 73 | ![Cover](https://i.discogs.com/SGQYvFx7OlUnTg5zHZh3vWlXEILB8gKYGcRl-eDIa84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzE1/OTkwLTE2NDg3NjYy/MDgtNjA5NS5qcGVn.jpeg) | 2003 | Jose Jose | El Principe con trio V2 |
+| 45 | ![Cover](https://i.discogs.com/FC7fKz_FqhBACqKiqdSeuKfWFe9Jtle6VRXdcT3PqrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTY0/NzItMTQzODcxODE1/OS0yNTE1LmpwZWc.jpeg) | 2005 | Los Tri-O | Parece Que Fue Ayer |
+| 15 |  | 2006 | Various Artists | Olimpo Cárdenas &amp; Julio Jaramillo - 30 Exitos Inmortales |
+| 95 |  | 2006 | Chico Trujillo | Cumbia Chilombiana |
+| 25 | ![Cover](https://i.discogs.com/x1SXroHi7FoKQrYL0573Y7r7jevfcxgXJTy-fDGCrjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg4/MzgtMTY3ODU0Mzgx/MC00NDY4LmpwZWc.jpeg) | 2006-12-04 | Andrea Bocelli | Amico mio |
+| 59 | ![Cover](https://i.discogs.com/EmeEWv47cUQUzyFfIIsrVhkXSPbvsh1gmZC4bMnhVGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTcz/NDA0LTE1MTg3Mzkw/ODctNTA4NC5qcGVn.jpeg) | 2007 | Lucho Gatica | The Originals - Lucho Gatica In Concert |
+| 99 | ![Cover](https://i.discogs.com/dQpQDiEjYLFAie9lFa8lm34y4mVG8lExlBlZslH-2p8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUy/NTYtMTIwOTgwNDMx/OC5qcGVn.jpeg) | 2007 | Héctor Lavoe | Vigilante |
+| 86 | ![Cover](https://i.discogs.com/mTV6FYZkI3DJML0u6KnTO2rcecnBaITcqAG1IbAXcQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTI0/MTYyLTE2NTgxNTg3/OTgtNDM3OS5wbmc.jpeg) | 2008 | Buena Vista Social Club | Buena Vista Social Club (25th Anniversary Edition) |
+| 16 | ![Cover](https://i.discogs.com/QEutnl5hcFx7uBHxI2IDMaT-PinfTXhixUinOSK16GU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDY2/OS0xNjAwMjk5Njk5/LTY0MjkuanBlZw.jpeg) | 2009 | Paulina Rubio | Ni Rosas, Ni Juguetes (feat. Jenni Rivera) [Versión Banda] - Single |
+| 20 |  | 2009 | Los Tres Caballeros | Escenciales |
+| 77 | ![Cover](https://i.discogs.com/4EU_-aDDNXN3Q7Pk893lZkMtEfZXD-PD8beg_ACCZyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjM5/MTEtMTI1MTg1MjU4/MC5qcGVn.jpeg) | 2009-03-24 | Yanni | Voices |
+| 3 | ![Cover](https://i.discogs.com/Z6ulbQlKRV_vPrb1CgJDwS_f2kVPj4vf5IqBmj_NzWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzA4/NDktMTM4MTY2MzM5/Ny05MTQ0LmpwZWc.jpeg) | 2009-06-23 | Paulina Rubio | Gran City Pop |
+| 36 | ![Cover](https://i.discogs.com/6eSC4meZCv8dtkN2Aa-K80TTAiF-betCQoOdobNvQCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjI0/NjItMTQxOTkxNTcw/MS0zMjIyLmpwZWc.jpeg) | 2010-04-27 | Paulina Rubio | Gran City Pop (International Regular Deluxe Version) |
+| 27 | ![Cover](https://i.discogs.com/t1pyIyoORB2JY3BtMZOmXS-sg-w-J74B4Ax7dHjJY4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTA5/NTEtMTMxNTI4MTU3/MS5naWY.jpeg) | 2011 | Los Macuanos | Ritmo de Amor | Remixes |
+| 89 | ![Cover](https://i.discogs.com/PNtk7JplhbP5MLNoRBEpW75wzFjH4-qC39l4ruqs3kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzUw/NjQtMTMyMzQ3NjY1/Ny5qcGVn.jpeg) | 2013-07-26 | Natalie Cole | Natalie Cole En Español |
+| 61 | ![Cover](https://i.discogs.com/-agETlwFXILBxuVO5UmEm8U51V2VKjyV9_dUGqlAB2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTE2/NzYxLTE3MzAwNDQw/MjctMjY4Mi5qcGVn.jpeg) | 2014 | Omar Chaparro | Como Caído del Cielo |
+| 85 | ![Cover](https://i.discogs.com/Ux7Myw2Yy_qcPxtOuLoVlTNyfdHJjLH2HmuXAUTPbQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTM4/NTg4LTE2MTYyOTI1/NjgtODk5NC5qcGVn.jpeg) | 2015-12-18 | Aymoréco | Aymoréco |
+| 93 | ![Cover](https://i.discogs.com/-n3StJY2L7m_ZIpuaW6UQUMJhzuRqWQOMaVxQ2OQjdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTYx/MTE3LTE1OTQ0OTU1/NTktODEwMi5qcGVn.jpeg) | 2018-10-12 | Natalia Lafourcade | Un Canto por México, Vol. II |
+| 97 | ![Cover](https://i.discogs.com/Bxsty0ZS1gKqCpzB5HQ_B5kE4lyC7MbE9Js39fjOn3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjE2/MTQxLTE2ODUyODc4/NDgtMzcwOS5qcGVn.jpeg) | 2019 | Daniel, Me Estás Matando | Suspiros |
+| 98 | ![Cover](https://i.discogs.com/VQIyFGFHGqmhqkXM6bOn9Q2y7DidvcC_4WjTAZNYFyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM1/ODQ5LTE2NTgzNjk5/NjctNjYyNy5qcGVn.jpeg) | 2020-11-18 | Kali Uchis | Sin Miedo (del Amor y Otros Demonios) ∞ |
+| 22 | ![Cover](https://i.discogs.com/iC4h9C3vrC7Kp662m2I5TuuukOGFNxbIBRztdXcUueY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTU0/ODUwLTE3MTA5NTk5/ODUtMTA1OS5wbmc.jpeg) | 2022 | Boleros | Boleros Inolvidables |
+| 92 | ![Cover](https://i.discogs.com/XLgBepPcYjpnWLeFRHfYEqx10MtPROyRrdfL8kl1_J8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjAy/NDAxLTE2ODUxNjI1/MDAtMzEzNC5qcGVn.jpeg) | 2022-10-28 | Natalia Lafourcade | De todas las flores |
+| 58 | ![Cover](https://i.discogs.com/vnCERyhVCAV08MgNIucqUjw28yIrcO9mt8Hz5OPWlRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzM4/NjUyLTE3MjYzNzYz/NTUtNTM0OS5qcGVn.jpeg) | 2023-08-01 | Enjambre | Torna Noches De Salón |
+
+### Related genres
+
+- [latin]({{ "/tags/latin" | relative_url }})
+- [salsa]({{ "/tags/salsa" | relative_url }})
+- [spanish]({{ "/tags/spanish" | relative_url }})
+- [mambo]({{ "/tags/mambo" | relative_url }})
+- [mexico]({{ "/tags/mexico" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [latino]({{ "/tags/latino" | relative_url }})
+- [latin pop]({{ "/tags/latin-pop" | relative_url }})
+- [mexican]({{ "/tags/mexican" | relative_url }})

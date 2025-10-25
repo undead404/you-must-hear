@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T06:44:32.031Z
+permalink: tags/plunderphonics
+title: plunderphonics
+---
+
+## plunderphonics
+
+Last updated: <time datetime="2025-10-22T06:44:32.031Z">Wed Oct 22 2025 09:44:32 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 37 | ![Cover](https://i.discogs.com/MKfyFRsUmZ_Itp57urwUR2GB3EWjZp4CxyWiU_uwrqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTc1/Nzg4LTE2OTM5MDQ0/NjctNzA1MS5qcGVn.jpeg) | 1986 | Beastie Boys | Paul&#39;s Boutique (20th Anniversary Remastered Edition)[Bonus B-Boy Bouillabaisse] |
+| 43 | ![Cover](https://i.discogs.com/9Gn_XM-do37k_65u0fTOkYqDl70yys1bjLIx1m7XmTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzUw/NS0xMTQzMjcwNjIx/LmpwZWc.jpeg) | 1989 | Shamana | Unhealthy |
+| 4 | ![Cover](https://i.discogs.com/RQ60vaJUHN-uEvS5TrDe0mTFs0QhTC3WL6I-anaB1AE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODc2/NzktMTU4Nzc4Nzcz/OC05MTkwLmpwZWc.jpeg) | 1991 | Grateful Dead | Grayfolded - Mirror Ashes |
+| 46 |  | 1991 | Negativland | U2 |
+| 1 | ![Cover](https://i.discogs.com/ootgT9JV8btY_7r8YrP5_E1g2blAig36jQaRhNYUXpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAx/OTIwLTE1NzE4NTM4/MjAtODM5MC5qcGVn.jpeg) | 1993 | Negativland | True False |
+| 48 |  | 1993 | John Oswald | Plexure |
+| 18 |  | 1995 | Les Joyaux de la Princesse | Douce France |
+| 15 | ![Cover](https://i.discogs.com/DZQInZTZ9uLRiCQzmb_f5rXpE9GP-4fUUMFFJ5gGzmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDg4/My0xNjgzMjAxMTM1/LTkzNDYucG5n.jpeg) | 1995-10-20 | Doopees | Doopee Time |
+| 13 |  | 1997-09-23 | Christian Marclay | Records |
+| 10 | ![Cover](https://i.discogs.com/9V4SYCE7VYF1odPyyGugk64YqIBtyWqyyju_ywyTrQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTA1/My0xNTMyNzgzMDk4/LTE2OTAucG5n.jpeg) | 1999-05-04 | El Stew | No Hesitation |
+| 40 | ![Cover](https://i.discogs.com/Az5L6LTll2N3BpNEdjG-l00U56SeRjZW336qFq5dEnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTE0/MjgtMTQ2ODA2ODcz/Ny00NjI5LmpwZWc.jpeg) | 2002-11 | DJ Shadow | Endtroducing... [Deluxe Edition] |
+| 3 | ![Cover](https://i.discogs.com/ootgT9JV8btY_7r8YrP5_E1g2blAig36jQaRhNYUXpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAx/OTIwLTE1NzE4NTM4/MjAtODM5MC5qcGVn.jpeg) | 2004 | Negativland | The World Will Decide |
+| 33 | ![Cover](https://i.discogs.com/_bl6ftKJEUGqrcgUywhN878K1y5dx7WlsgrScEzPpig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjk1/My0xMTcxMDU3NzY3/LmpwZWc.jpeg) | 2005-04-04 | Eric Zann | Ouroborindra |
+| 26 |  | 2007-03-25 | The Focus Group | We Are All Pan&#39;s People |
+| 12 | ![Cover](https://i.discogs.com/1bz0PyZMr9qZOIERd0hOxRhCF6nFMZTZkq5rlUhnRAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDc2/NTQtMTI2NzU2NjU3/NC5qcGVn.jpeg) | 2008 | DJ Yo-Yo Dieting | Dormant Mirrors &#x2F; Drum |
+| 11 |  | 2008-05-27 | Steinski | What Does It All Mean? - 1983-2006 Retrospective |
+| 35 |  | 2009-06-01 | Buckethead | Forensic Follies |
+| 20 | ![Cover](https://i.discogs.com/HybbXEXDdmxgAVgexfkr4z3x43DaRrStjvJ_VY9r_H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzY0/NDItMTI2ODEyOTY3/Ny5qcGVn.jpeg) | 2010-02-23 | Dem Hunger | Caveman Smack |
+| 50 |  | 2010-09-06 | A-1 | After School Special |
+| 34 | ![Cover](https://i.discogs.com/ivsoEHAzZXQZ9_86wLM2Qqle-3QB9NTOVJskWBd5gmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzI1/MDEtMTYyMDkxODQw/My04NzQ3LmpwZWc.jpeg) | 2011-04-11 | Monster Rally | Escape to the Cloud Forest |
+| 25 | ![Cover](https://i.discogs.com/YDbJVpMnCcFUYrFwPg6u8X05ZBzaGP7iiAAjyPBz2U4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTI0/NTEtMTM0Mjk1OTY1/OS01NDg0LmpwZWc.jpeg) | 2011-05-19 | Rimar | Higher Ground |
+| 38 |  | 2013-09-03 | Ahnnu | World Music |
+| 42 | ![Cover](https://i.discogs.com/fz3mNZ0drt6S6KdYFHpLP9Vc8M0aRDrKEkUKwhFQ7lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDU4/MTQtMTQyODUwMjg2/NS04NzMxLmpwZWc.jpeg) | 2013-09-21 | Oneohtrix Point Never | R Plus Seven |
+| 19 | ![Cover](https://i.discogs.com/2b6D5xSvgP8Ecsy9owgbFIiH5KZnPV_ShnPeiGnCliw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NzAy/OTktMTQyMDAxNjg3/MS04OTg0LmpwZWc.jpeg) | 2014-01-04 | DJ Rozwell | What Happens After the Death Is Recorded |
+| 23 |  | 2014-07-19 | Neil Cicierega | Mouth Silence |
+| 17 | ![Cover](https://i.discogs.com/NfgXOocaRwTkkph8BshqCjU9lDe3uLPk_eC01cFlEcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzU0/NTUtMTQ0OTgwNjk3/My05Mzk2LmpwZWc.jpeg) | 2015-05-29 | Future Girlfriend | Pink Dance EP ピンクのダンス |
+| 32 | ![Cover](https://i.discogs.com/LupX6ihza_LcoHCGA2tr-izL5LN9Caglno0TBXxcwgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI3/ODczLTE1NTk4NjMx/MzQtODkyNS5qcGVn.jpeg) | 2015-11-21 | Chipmunks On 16 Speed | Vol. 1 |
+| 5 | ![Cover](https://i.discogs.com/zNQV1_AEYo_tupc0CYesWvMM5PdUvzJ2ZSrGqt9Uwbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUw/NzMxLTE1MzEzNTA0/MDctNjc2My5wbmc.jpeg) | 2017-10-18 | 猫 シ Corp. | スタートキーを押し |
+| 14 |  |  | lexycat | Angelicide |
+| 16 |  | 2014-01-01 | New Dreams Ltd. | Initiation Tape: Isle of Avalon Edition |
+| 22 | ![Cover](https://i.discogs.com/Tu3KNowbpYEKb7a1jZ98JTliuVcOlhRw67WryJzrrmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzI3/ODMtMTU0OTk5NTU2/Mi03Mzk4LmpwZWc.jpeg) | 2015-04-07 | Ahnnu | Perception |
+| 21 | ![Cover](https://i.discogs.com/viwkI4SUWq24al3B8hz_1FUKfaKk3iauW7zv9yZVd5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjUw/NjMtMTQzMDU2NDgy/Ny00MzQ3LmpwZWc.jpeg) | 2015-04-29 | Lil Ugly Mane | THIRD SIDE OF TAPE |
+| 28 | ![Cover](https://i.discogs.com/ka5lgT2sVW9lCiEyimLw-ehpvkdcKqfxKvAad3uLfTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA4/OTA2LTE1MTM5MDA0/MTktOTgxMy5qcGVn.jpeg) | 2017 | Burqa Boyz | أسلحة ضخ جاف حدب |
+| 45 | ![Cover](https://i.discogs.com/-s3QYPq1YoGQypVR8ff9RuiVbsaU37ekWdNsgz29Zwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTY0/MjctMTQ4NTIzODI0/OC00NTYxLmpwZWc.jpeg) | 2017-01-23 | Neil Cicierega | Mouth Moods |
+| 36 | ![Cover](https://i.discogs.com/bmXxpgVgyYFDF1wsSfBdF0kX91FqJD42gQmjrxXdFW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/MjIzLTE2NDk2NjQ1/MTQtNjc4NS5wbmc.jpeg) | 2017-04-19 | Shamana | outdamud |
+| 27 | ![Cover](https://i.discogs.com/NZSX36xQQZcI9DbdX50koRe23UEQOtHmI7jh6NanyM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODI5/MTU1LTE1MDQ5ODU5/NTItNDk3OS5wbmc.jpeg) | 2017-09-08 | Giant Claw | Soft Channel |
+| 7 | ![Cover](https://i.discogs.com/ztlysdfdW2a2rPfsUjaM9h20ZOD2e-bLKo6bRukl8Fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjYy/OTgwLTE1Mzk1ODY3/NjUtODk0MC5qcGVn.jpeg) | 2018 | Jesus Belluci | Limp Pumpo |
+| 6 | ![Cover](https://i.discogs.com/bWcAH82irdw2iaJShEFYKStG42tTf3OXVBLWbEOIrpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY2/MzIwLTE1ODg5MjA3/MDItNzMzNC5qcGVn.jpeg) | 2018-09-08 | Heaven&#39;s Emperor | Teenage Poetry |
+| 41 | ![Cover](https://i.discogs.com/0GLE3rcbP2b6RWSMVI90Q3oaPmtYLM0iO5fecczQ608/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDI5/ODAtMTU0NzE3MDQw/NS03NDExLmpwZWc.jpeg) | 2018-11-25 | 猫 シ Corp. | Palm Mall |
+| 8 | ![Cover](https://i.discogs.com/mizL7ddmTV-H4gPgsMZfXenyypKkAXgnMBkOqWOFyhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODEx/ODgyLTE1NjM5MTQx/MzEtODM0My5qcGVn.jpeg) | 2019 | Blarf | Cease &amp; Desist |
+| 49 | ![Cover](https://i.discogs.com/iq4zOXj3B2iO_k450gU6MfI-KzskuWPy3HAX3E2wbVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTk4/MjcyLTE1NDk3OTQx/NjctNDg0My5wbmc.jpeg) | 2019-05-16 | FM Skyline | Advanced Memory Suite |
+| 29 | ![Cover](https://i.discogs.com/1kcd3kMIdC37NtZr7LwDVJuZ8onOOam8ujrRtaWWGDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTkt/MTY2NzI4MDEyOS0y/MDE2LnBuZw.jpeg) | 2019-11-15 | Boards of Canada | Old Tunes Vol. 1 |
+| 31 | ![Cover](https://i.discogs.com/IsRKD2R8bSqkIMHtheSxflNUEO0_LiW1OYCULK_0dAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYy/Mjg2LTE2MjY5Mzky/MDYtMjI2NS5qcGVn.jpeg) | 2019-11-15 | Boards of Canada | Old Tunes Vol. 2 |
+| 2 | ![Cover](https://i.discogs.com/bdCk4UVBNMSOsDIHbzl-rISejdk5UQsPQ_9wjGCXge0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU5/ODI5LTE1MDE4NzI5/MDYtMTgxNi5wbmc.jpeg) | 2020-07-03 | Nmesh | Pharma |
+| 30 | ![Cover](https://i.discogs.com/r9ceaW9ZvlygTgGl4EW94GePgJE45rFsgsmApnjqBGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTA2/NzI1LTE2MzY0MzAz/NDEtNjkzNy5qcGVn.jpeg) | 2021-09-11 | c678924 | Nymphlight |
+| 24 | ![Cover](https://i.discogs.com/o4wnpre8lXAs34W0DYKN3y9t34dV3gqOKIg7xS1dUFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODM2/ODk4LTE2NzQzMDY0/NzUtMzExMi5qcGVn.jpeg) | 2022 | THE DARKEST FUTURE | FLORAL SHOPPE 2 |
+| 39 | ![Cover](https://i.discogs.com/y_5A3sqGixdhuvoUBq6bZ8EczCrh1Ji4XqIczaSwRYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjEw/NzQzLTE2NTU1MTgz/MDItODQ0Ny5qcGVn.jpeg) | 2022-06-12 | Lil Ugly Mane | i believe the world would be a better place without you |
+| 44 | ![Cover](https://i.discogs.com/zt3GJfHoIXYYaWPw5tfRYr_T0J1rKcrq1buoW-CUYLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjYw/MjY2LTE2NjUwNzIx/NTItNTA2NC5qcGVn.jpeg) | 2022-08-30 | DJ Sabrina The Teenage DJ | Bewitched! |
+| 9 | ![Cover](https://i.discogs.com/ELHWNfeK1IO7SuhxDG0c20JWdKijIMm07kNaztezHCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTQ4/MjkxLTE2ODI5OTc1/ODAtNDkwMC5qcGVn.jpeg) | 2023-03-31 | argo nuff | dq |
+| 47 |  |  | lexycat | flowerfield |
+| 68 |  | 1987 | Negativland | Escape from Noise |
+| 51 | ![Cover](https://i.discogs.com/s61cjXQ6U1F-1YJ9JTJbHAkd4y4CWAnL59Qm9fsRcks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzA1/NDEtMTM5MDcyODQ2/My0xNjIwLmpwZWc.jpeg) | 1991-03-20 | Flipper&#39;s Guitar | Groove Tube |
+| 87 |  | 1996-09-16 | DJ Shadow | Endtroducing..... |
+| 71 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c378994800ba8ccee41b59a4602d03ac.png) | 1997-07-29 | Negativland | Dispepsi |
+| 64 |  | 1997-12-08 | The Avalanches | El Producto |
+| 98 |  | 2000-11-27 | The Avalanches | Since I Left You |
+| 61 |  | 2001-04 | Sissy Spacek | Sissy Spacek |
+| 91 | ![Cover](https://i.discogs.com/uK4GmTf_8pdeU60a5xdHbvuyBtxYziIvn6Sb5jHag3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDkw/OTQtMTQwMTU5MDY3/Mi01MTM2LmpwZWc.jpeg) | 2001-11 | The Avalanches | Since I Left You (20th Anniversary Deluxe Edition) |
+| 80 | ![Cover](https://i.discogs.com/Az5L6LTll2N3BpNEdjG-l00U56SeRjZW336qFq5dEnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTE0/MjgtMTQ2ODA2ODcz/Ny00NjI5LmpwZWc.jpeg) | 2002-11 | DJ Shadow | Endtroducing (Deluxe Edition) |
+| 52 |  | 2004-10-27 | Susumu Yokota | Symbol |
+| 83 | ![Cover](https://i.discogs.com/h-zwe7KMKGz8HdAHe4qKIMPthxNmOoUjcUXYBspXacc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTIz/Mi0xMjY2NDcyMjI3/LmpwZWc.jpeg) | 2004-11-16 | MF DOOM | MM..Food |
+| 67 |  | 2006-02-07 | J Dilla | Donuts |
+| 58 | ![Cover](https://i.discogs.com/vE8-B1JsFOedc5h1-ziKaR61omaiGQ44THvaSfDroWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTQw/Ni0xMTY2NDYwMTcx/LmpwZWc.jpeg) | 2006-12 | Equip | CURSEBREAKER X |
+| 59 |  | 2007-03-20 | Panda Bear | Person Pitch |
+| 78 |  | 2010-07-10 | The Books | The Way Out |
+| 65 | ![Cover](https://i.discogs.com/domf6QMYfhybzv0Snl28FxfZ-38WT44Kdv4_FWkwLKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTc1/NzItMTUxMzc3Njk3/Mi0yNjU0LmpwZWc.jpeg) | 2010-08 | Chuck Person | Chuck Person&#39;s Eccojams Vol. 1 |
+| 73 | ![Cover](https://i.discogs.com/domf6QMYfhybzv0Snl28FxfZ-38WT44Kdv4_FWkwLKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTc1/NzItMTUxMzc3Njk3/Mi0yNjU0LmpwZWc.jpeg) | 2010-08 | Chuck Person | Chuck Person&#39;s Eccojams Vol.1 |
+| 94 | ![Cover](https://i.discogs.com/5lE7kHBIkTzxfXWIxPpWYeTleic8-pYkiL1AfarJCDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ2/NzE1LTE3MDgyNTMw/ODMtNTkxNS5qcGVn.jpeg) | 2011-02-27 | DeVon Hendryx | DREAMCAST SUMMER SONGS |
+| 97 | ![Cover](https://i.discogs.com/LlqzzQJPN0Q-Q6CKW9YSeq8RENsVocihaSxgvstsPho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTUz/OTEtMTMyNjEwODE4/OS5qcGVn.jpeg) | 2011-11-07 | Oneohtrix Point Never | Replica |
+| 56 |  | 2013-04-30 | Dean Blunt | The Redeemer |
+| 81 |  | 2013-06-14 | architecture in tokyo | Summer Paradise |
+| 72 |  | 2014-03-20 | Oneohtrix Point Never | Garden of Delete |
+| 75 | ![Cover](https://i.discogs.com/p_Rpz7g42-VcjbAmWMRRnVwhkJEwmqtqbNgM5QIYJoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjEy/NDQwLTE2MTc5MTg1/NTctOTc4MC5qcGVn.jpeg) | 2016-03-04 | KFC Murder Chicks | Cortex Rampage |
+| 100 | ![Cover](https://i.discogs.com/uvkcjoFfdh_wIvAVeExogP3e9fqSjNuWMm7v8kM7XHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjEz/NzAtMTQ2ODA0ODYx/MC04MjYzLmpwZWc.jpeg) | 2016-06-16 | The Avalanches | Wildflower |
+| 57 | ![Cover](https://i.discogs.com/Ca3WQl3QkE30TVO14UflhB-RQbtwq4-D9tFajxOJeoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Nzkx/MDEtMTQ4OTc2NTky/MC0xOTI3LmpwZWc.jpeg) | 2017-02-24 | Children of Alice | Children of Alice |
+| 55 | ![Cover](https://i.discogs.com/Ur9GJSDj9pNpeSI1w_GfqDsk3bjCJHaEfW3lunokmLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjU4/ODItMTQ0ODMxNDcy/Ny02Nzc1LmpwZWc.jpeg) | 2017-12-12 | 猫 シ Corp. | Hi-Fi |
+| 63 | ![Cover](https://i.discogs.com/hq1ZTFRBoa4EaffTs3mBSzwjpFryHzP8hS7-3sC6mM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/MzMxLTE2NDk2NjU3/MDItMzc0Ni5wbmc.jpeg) | 2018-07-28 | Shamana | God and I Worked Things Out |
+| 66 |  | 2019 | Charlie toØ Human | wat. |
+| 60 | ![Cover](https://i.discogs.com/RP2ieXolOk2bMUuhryu9pO9CmREfnvMkignq8paxL_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/NzE0LTE1NTU4Nzgy/ODEtNzY4Ni5wbmc.jpeg) | 2019-04-19 | 3D Blast | Iconic Bitch |
+| 79 | ![Cover](https://i.discogs.com/IT5xu2v-SX7R0gAHYDSuiAEK29U7h0PmYpFnBfbjexI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDky/NzkxLTE2Mzc2Nzc3/MjktNDI4MC5qcGVn.jpeg) | 2019-11-22 | KFC Murder Chicks | The Shape of a Burning Credit Card |
+| 76 | ![Cover](https://i.discogs.com/pePJtM8EOuC3_oRMltCpZDA9ife2-v4jrA88f54MVRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ2/NzMxLTE1ODU5Njgy/MjctOTI0OS5qcGVn.jpeg) | 2020 | DeVon Hendryx | THE ROCKWOOD ESCAPE PLAN |
+| 92 | ![Cover](https://i.discogs.com/eSSBMgT2jms0z0aW9SI1VvjixK0jWUes_z2q2KYlNaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODM5/NzczLTE2NDk2NTg3/NzQtODQ1Mi5qcGVn.jpeg) | 2020 | slauson malone | A Quiet Farwell, 2016–2018 (Crater Speak) |
+| 99 | ![Cover](https://i.discogs.com/OZJMYgQOAo7-dHsI6Vm2tYsYJyfZ1ps_Ekcz_cht7xs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODIx/NzY1LTE1ODIyNjQ1/MjEtNDA2MC5qcGVn.jpeg) | 2020-02-20 | The Avalanches | We Will Always Love You |
+| 70 | ![Cover](https://i.discogs.com/o8yMu4rhQfIcSuYBXBGu6oGaRViNwdwyFXn2YlXPLk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzM1/MDEyLTE2MzIzODIy/OTEtNzQ1NS5qcGVn.jpeg) | 2020-05-22 | Cities Aviv | Gum |
+| 62 | ![Cover](https://i.discogs.com/MTEz2VmACwPhnL6Bx_CRSIFh1vJibC18_jcCr7Uu0bY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDcx/NTg4LTE1OTIwODE3/MTgtNDMzMS5qcGVn.jpeg) | 2020-06-12 | MATERIAL GIRL | Tangram |
+| 96 | ![Cover](https://i.discogs.com/SaLX894dxq0GzbbJh_3uBVOt0Mv0raLJyyrkySwFV9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzc0/NDg1LTE2MDk3NDMy/MjEtOTIzNS5qcGVn.jpeg) | 2020-07-31 | MIMIDEATH | FOAR EVERYWUN FRUM MIMI |
+| 85 | ![Cover](https://i.discogs.com/isU-gQyRls1b3_2IJmy4CGDnSi6mijvXr6qYBvaVNTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODM1/MzYtMTM2MDYzNzQ4/NS04ODQwLmpwZWc.jpeg) | 2020-08-21 | Matmos | The Consuming Flame: Open Exercises in Group Form |
+| 93 | ![Cover](https://i.discogs.com/t81xAK8RXYWCj4jhne6XO-efVTy4o2z_gW2WekjxHsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg3/ODcxLTE2MDY3Nzc0/MzYtNDM5OS5qcGVn.jpeg) | 2020-09-27 | Meitei | Kofū |
+| 86 | ![Cover](https://i.discogs.com/pLaXWJUXQDC-1HyHzm7L-1vZglqN_B334wBLjmTDFBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDYy/NzU0LTE2ODM5NjU1/OTktNDkxOC5wbmc.jpeg) | 2020-11-29 | eightiesheadachetape | for a while |
+| 69 | ![Cover](https://i.discogs.com/0OC7EQOTcaXjcPBELBPOsKTPSaDqoEBo2D3EDJaDdTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjI4/MTkyLTE2MjAzOTg0/MzYtNDMwNS5qcGVn.jpeg) | 2021-05-07 | DJ Rozwell | NONE OF THIS IS REAL |
+| 53 | ![Cover](https://i.discogs.com/70jL2C3sgMIimyLUKZTYJKq4AXK_tbnz08tLDJ6fzvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjY5/MDQyLTE2Mjc1NzUz/NjEtMzAzOC5qcGVn.jpeg) | 2021-06-26 | c678924 | End Sky |
+| 95 | ![Cover](https://i.discogs.com/Kzo72yDMzNuW09GnrXo8CG4LdF-ib7AT5n2xtj0dRbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODM4/NDM5LTE2Nzg3ODIz/ODktMTQ1My5qcGVn.jpeg) | 2021-08-05 | TOKYOPILL | VIRTUAL DEATH 9 5 |
+| 74 | ![Cover](https://i.discogs.com/OTSoGM9zlInxgxZyogAwpmho-X3R_FPfDTeFrD9OF_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU5/Njk3LTE2MzQwMTgz/MjctMjM3MS5qcGVn.jpeg) | 2021-11 | Lil Ugly Mane | VOLCANIC BIRD ENEMY AND THE VOICED CONCERN |
+| 54 | ![Cover](https://i.discogs.com/AxYf0WHrHvVH9k_x17sjWKDyv1Oy6sFSIFS0Zvaq2kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODE4/ODYzLTE2NDk1MDQ1/MjUtMjUwNC5qcGVn.jpeg) | 2022-03-11 | Fennec | a couple of good days |
+| 77 |  |  | Father2006 | White Death |
+| 82 | ![Cover](https://i.discogs.com/-GJ5DHsfa3Cg71Up6Ju0VGZkqXz_xPgrSwb_olyg-c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjg0/NjA3LTE3MTU3NzIy/NzQtNjM1NS5qcGVn.jpeg) | 2022-09-23 | death&#39;s dynamic shroud | Darklife |
+| 84 |  |  | Future Girlfriend Music | Pink Dance EP |
+| 89 | ![Cover](https://i.discogs.com/jNEwLo6ZpAXlIkQvFlSL-dtScm9a0K2d27sCy6EpArA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzcx/ODQ1LTE2MTkwOTcy/NzctMzk3MC5qcGVn.jpeg) | 2021-04-19 | Meitei | Komachi |
+| 88 | ![Cover](https://i.discogs.com/-GJ5DHsfa3Cg71Up6Ju0VGZkqXz_xPgrSwb_olyg-c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjg0/NjA3LTE3MTU3NzIy/NzQtNjM1NS5qcGVn.jpeg) | 2022-09-23 | death&#39;s dynamic shroud | I&#39;ll Try Living Like This |
+| 90 | ![Cover](https://i.discogs.com/-GJ5DHsfa3Cg71Up6Ju0VGZkqXz_xPgrSwb_olyg-c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjg0/NjA3LTE3MTU3NzIy/NzQtNjM1NS5qcGVn.jpeg) | 2022-09-23 | death&#39;s dynamic shroud | Faith in Persona |
+
+### Related genres
+
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [vaporwave]({{ "/tags/vaporwave" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [sound collage]({{ "/tags/sound-collage" | relative_url }})
+- [noise]({{ "/tags/noise" | relative_url }})
+- [idm]({{ "/tags/idm" | relative_url }})
+- [glitch]({{ "/tags/glitch" | relative_url }})
+- [mashup]({{ "/tags/mashup" | relative_url }})
+- [sampling]({{ "/tags/sampling" | relative_url }})
+- [lo-fi]({{ "/tags/lo-fi" | relative_url }})

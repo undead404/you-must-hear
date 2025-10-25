@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-23T10:17:37.230Z
+permalink: tags/indie-rock
+title: indie rock
+---
+
+## indie rock
+
+Last updated: <time datetime="2025-10-23T10:17:37.230Z">Thu Oct 23 2025 13:17:37 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a411383d74004cb08741ea399f9137e1.png) | 1996-03-26 | Neutral Milk Hotel | On Avery Island |
+| 13 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/79b6a429167c4514c58b8525bcc86bd0.png) | 2000-06-13 | Modest Mouse | The Moon &amp; Antarctica |
+| 25 |  | 2002-10-15 | Broken Social Scene | You Forgot It In People |
+| 24 |  | 2003-10-21 | The Shins | Chutes Too Narrow |
+| 35 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/00f23ac888454fd5bbaf843ce515bbbf.png) | 2004-07-23 | Kasabian | Kasabian |
+| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a55cd803b6846444eff119eb165ec7f9.png) | 2004-08-30 | The Libertines | The Libertines |
+| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2f50b634b8db4498b11f777232724466.png) | 2004-09-14 | Tegan and Sara | So Jealous |
+| 32 | ![Cover](https://i.discogs.com/U780-gXvX-CqkfJ6SKRjOAjFsvHQMOxKsKluGCTvW6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzE0/Mi0xMjY2OTM4NDg1/LmpwZWc.jpeg) | 2005-01-01 | Editors | The Back Room |
+| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/245b232cde684c23b6531acf5086a0db.png) | 2005-03-07 | Kaiser Chiefs | Employment |
+| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/abc7c1f027a4128b69487cca3be4b136.png) | 2006-01-01 | Yeah Yeah Yeahs | Show Your Bones |
+| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d8af5b14bdf74d15976056ad506ea4c8.png) | 2006-01-23 | The Kooks | Inside In &#x2F; Inside Out |
+| 47 |  | 2006-03-21 | Band of Horses | Everything All the Time |
+| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dc14f9bce48e430862cad26439a0056f.png) | 2006-08-25 | Kasabian | Empire |
+| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d241fee8375510f22a5a7aafa3723b95.png) | 2007 | Cold War Kids | Robbers And Cowards |
+| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c6af20449f74b678e4acf92217685d58.png) | 2007-02-23 | Kaiser Chiefs | Yours Truly, Angry Mob |
+| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/73a83265963f08e7fbb828a4b27e89f0.png) | 2007-03-20 | Modest Mouse | We Were Dead Before The Ship Even Sank |
+| 19 | ![Cover](https://i.discogs.com/UU4lj4DGIUTEkjEP08un25QIPReEk6vuRRadXOUjNLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDEz/NTQtMTE4MjcwMTMy/My5qcGVn.jpeg) | 2007-04-11 | Editors | An End Has A Start |
+| 33 |  | 2007-05-21 | The National | Boxer |
+| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5d0f664b35a64046c089a8dc6281861b.png) | 2007-07-08 | Arctic Monkeys | Fluorescent Adolescent |
+| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6cdffee4073d4859858256a103a75591.png) | 2007-10-09 | Band of Horses | Cease to Begin |
+| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c8a208b90f244c20cca7732f80edac97.png) | 2008-01-01 | Cage the Elephant | Cage the Elephant |
+| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/aba0fe52a686d388ae8c7e5073517f5b.png) | 2008-04-16 | The Last Shadow Puppets | The Age of the Understatement |
+| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a8ba5d91a7474ca69d6d08cc71d4829b.png) | 2008-05-13 | Death Cab for Cutie | Narrow Stairs |
+| 41 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2e89eb016a00f516b6bd2641a3ae838f.png) | 2008-09-19 | Kings of Leon | Only by the Night |
+| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6f76d535e0c2203430fdc5fa8d941f6a.png) | 2009-01-21 | Franz Ferdinand | Tonight: Franz Ferdinand |
+| 45 |  | 2009-05-22 | Grizzly Bear | Veckatimest |
+| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f60b0691b7294dbd8c300b36276576e7.png) | 2010-01-08 | Vampire Weekend | Contra |
+| 4 |  | 2010-05-07 | Foals | Total Life Forever |
+| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3a57d0017a28de64e1c97c7cdae300e9.png) | 2010-05-10 | The National | High Violet |
+| 44 |  | 2010-06-07 | The Naked and Famous | Young Blood |
+| 49 | ![Cover](https://i.discogs.com/sZZamsmiwlGLBC9hveSxYYZDeghZfqKkoRT1nG9oGQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzg1/NjEtMTMxMjE1OTc2/MC5qcGVn.jpeg) | 2010-08-02 | Arcade Fire | The Suburbs |
+| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dde3bc26f77f483bb520c6089c592ee1.png) | 2011-03-11 | The Vaccines | What Did You Expect from The Vaccines? |
+| 29 |  | 2011-09-02 | Grouplove | Never Trust A Happy Song |
+| 27 | ![Cover](https://i.discogs.com/vOu4DphcNFbne1DUvQ8wNS8fmjs3G5mM90eeASaaXqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTU2/MjAtMTQ3NjQ2NTA2/OC0zNTI0LmpwZWc.jpeg) | 2012 | Twenty One Pilots | overcompensATE |
+| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c34e1968d7e8082fa0f42a9960976e4f.png) | 2013-01-31 | Foals | Holy Fire |
+| 50 | ![Cover](https://i.discogs.com/xb2odo1ylus5RWim5Ed80wMg8wAk-az7s8jVp5OAApU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTI5/MTktMTQyMTM2Nzgy/Mi0yODMxLmpwZWc.jpeg) | 2013-03-22 | The Strokes | Comedown Machine |
+| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d787d7eb7324e25dfb03dd9c0220d818.png) | 2013-04-19 | The Neighbourhood | I Love You. |
+| 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/98ee8f307004ac47f938929a37755492.png) | 2013-04-20 | Whirr | Whirr &amp; Nothing (Split Version) |
+| 17 |  | 2013-08-30 | The 1975 | The 1975 |
+| 1 | ![Cover](https://i.discogs.com/K45Rs3Un4ISqeeLG4XLVwe2MEoNlIOVQWwolhQzWq-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ0/ODQwLTE1ODI2NzM2/OTgtMTE4NS5qcGVn.jpeg) | 2015-11-09 | Cavetown | Cavetown |
+| 28 | ![Cover](https://i.discogs.com/UXgp6rQ6emVS2YXwAUWzdK_fFZwKr-0m_TUOEYQU4MA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDQy/NTUtMTQ1NTk3ODY3/NS03NjU5LmpwZWc.jpeg) | 2016-02-26 | The 1975 | I Like It When You Sleep, For You Are So Beautiful Yet So Unaware Of It |
+| 46 | ![Cover](https://i.discogs.com/1CivQmayeFLBmoJSETvdHXdicPI6HcluSC9MX5ncyN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzE5/OTQwLTE2MDcwMzU3/MTItMTAyNC5qcGVn.jpeg) | 2016-04-01 | Ricky Montgomery | Montgomery Ricky |
+| 7 | ![Cover](https://i.discogs.com/lT-wUNFhlr5lCATA69LcBxwx7sVdpr41NqrAzBwlQsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTQ4/MjItMTQ2MzkzNDUw/Ny05MjE4LmpwZWc.jpeg) | 2016-07-08 | Car Seat Headrest | Teens Of Denial |
+| 37 | ![Cover](https://i.discogs.com/rEDoWKQl-i7a7yeh6PnPOcPvZSdxr8YLpUwVyj4WOdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjAx/NTcwLTE1NzU4MTU4/NjctNDQwNS5qcGVn.jpeg) | 2017-07-21 | Declan Mckenna | What Do You Think About The Car? |
+| 16 | ![Cover](https://i.discogs.com/F-yjv1_5MvMQFytlbf4OYRpnrGMT_Vkia5Dcglfmi5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY0/NTQ4LTE1MDU1ODEz/NjEtMTk0MS5wbmc.jpeg) | 2017-09-09 | Peach Pit | Being so Normal |
+| 51 | ![Cover](https://i.discogs.com/Ea_An-ds96PrMzORNsw0mXEQNo6yJOm82GpVsdR82zM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTM3/Mzc4LTE1Njg1MzYy/NTAtOTE3My5qcGVn.jpeg) | 2017-10-21 | Yungblud | 11 Minutes (with Halsey feat. Travis Barker) |
+| 21 | ![Cover](https://i.discogs.com/Y1g7FIiS83kvvtgcbM66Dk3wx0TT6QpFcPDocVU8lXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA0/NTI4LTE1NDI4NzAx/OTEtMjkyOC5qcGVn.jpeg) | 2018-11-09 | Boygenius | BoyGenius |
+| 30 | ![Cover](https://i.discogs.com/vfx9xxQJQO8JWAj-SMMEYZAXy1V7yDof4quWaAsRxxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDgz/MDQ5LTE2NDA5Njcw/MzMtMjIwOS5qcGVn.jpeg) | 2020-06-18 | Phoebe Bridgers | Punisher |
+| 34 | ![Cover](https://i.discogs.com/gIkmBFVPxl_bfMHAhkSz_XEY1HFydp1btEpgn-0dXjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjc1/MTU0LTE3MTU2ODAy/NTYtNDI5Ny5qcGVn.jpeg) | 2020-08-04 | wave to earth | summer flows 0.02 |
+| 18 | ![Cover](https://i.discogs.com/n-QFv-0VdHAbNV-Z-0qbVmUTuPA9Svvyf7VMuS6RTk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzA1/MjEzLTE2ODk2MjU0/MzAtNTgxMC5qcGVn.jpeg) | 2023-05-26 | d4vd | Petals to Thorns |
+| 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1d0c1e7089e24572bcd773d6ef1709f0.png) |  | Grouplove | Never Trust a Happy Song |
+| 88 |  | 1998-02-10 | Neutral Milk Hotel | In the Aeroplane Over the Sea |
+| 82 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ffab4f80f317e2385437514f99becc1b.png) | 2000-06-18 | Panchiko | D&gt;E&gt;A&gt;T&gt;H&gt;M&gt;E&gt;T&gt;A&gt;L |
+| 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/80f256e56b1043cdbb99da3ac4dd69a0.png) | 2001-01-27 | The Strokes | Is This It |
+| 65 |  | 2001-06-19 | The Shins | Oh, Inverted World |
+| 74 |  | 2002-08-19 | Interpol | Turn on the Bright Lights |
+| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fd7cd81468755c7320457d5fbac6cfb8.png) | 2003-04-28 | Yeah Yeah Yeahs | Fever To Tell |
+| 63 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1dbfd75d7b8941edbde5e1b58948f9c4.png) | 2003-09-01 | Death Cab for Cutie | Transatlanticism |
+| 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a9c961c8da0d4427b7d7a4018738f5df.png) | 2003-10-16 | The Strokes | Room on Fire |
+| 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/963d2fd230d9c9727797dca40098dd71.png) | 2004-02-09 | Franz Ferdinand | Franz Ferdinand |
+| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/63934c8eb75c4b649821ae02e564239a.png) | 2004-04-05 | Modest Mouse | Good News For People Who Love Bad News |
+| 90 |  | 2004-09-14 | Arcade Fire | Funeral |
+| 75 | ![Cover](https://i.discogs.com/Kp8y_OO24xbarz4ifbL9jI6kyor8Z6GI_IXD57loqz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzM1/NC0xMjgxNzkwMjEw/LmpwZWc.jpeg) | 2004-09-24 | Interpol | Antics |
+| 77 | ![Cover](https://i.discogs.com/MGDIwC6u_0i-rIc_9hPedELVSxNPvX-5R7-8qPqyq1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzQ5/Ni0xMzMyNzkyODE5/LmpwZWc.jpeg) | 2005-02-02 | Bloc Party | Silent Alarm |
+| 83 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e75c6fe7df0c4cefb230704cc1adb0ce.png) | 2005-08-29 | Death Cab for Cutie | Plans |
+| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/996a3f46b6494165b4cec60776509d15.png) | 2005-09-28 | Franz Ferdinand | You Could Have It So Much Better |
+| 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f41698e47228486ac81690028794f18d.png) | 2005-12-30 | The Strokes | First Impressions of Earth |
+| 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c60fc091b1a44a4b9363d1b8006b36ec.png) | 2006-01-12 | The Kooks | Inside In&#x2F;Inside Out |
+| 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5e1480805bdf29da606e0de2ac07b205.png) | 2006-01-23 | Arctic Monkeys | Whatever People Say I Am, That&#39;s What I&#39;m Not |
+| 58 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8ea4dad3c3614770bca41a29c2e53b3d.png) | 2006-09-11 | The Fratellis | Costello Music |
+| 64 |  | 2007-01-22 | The Shins | Wincing the Night Away |
+| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7f1ad2ef153d4280c21cebdf62f9e04f.png) | 2007-03-02 | Arcade Fire | Neon Bible |
+| 87 |  | 2007-04 | Vampire Weekend | Vampire Weekend |
+| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4debfeb504dc47779f0ff3df43fd9529.png) | 2007-04-18 | Arctic Monkeys | Favourite Worst Nightmare |
+| 66 |  | 2007-07-09 | Interpol | Our Love to Admire |
+| 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/981259785d6c6e48da9f85b5c3c69eaf.png) | 2008-04-09 | The Kooks | Konk |
+| 60 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/98939bf5d8dc0e59c89dbe7e303f5c6c.png) | 2009-03-31 | Metric | Fantasies |
+| 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b06defa449863fea6a78434c268dff47.png) | 2009-05-22 | Phoenix | Wolfgang Amadeus Phoenix |
+| 53 |  | 2009-06-19 | The Temper Trap | Conditions |
+| 59 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/70163676ea2e4c44959c3af0f71b30d8.png) | 2009-08-19 | Arctic Monkeys | Humbug |
+| 89 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/aa9e02325be944cab8e4392f1948f5e0.png) | 2010-02-17 | Two Door Cinema Club | Tourist History |
+| 76 |  | 2010-03-14 | ROAR | I Can&#39;t Handle Change |
+| 68 |  | 2011-03-18 | The Strokes | Angles |
+| 61 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e8faaf58a491491ea00e6d3b7ac5d7db.png) | 2011-10-31 | Arctic Monkeys | Suck It and See |
+| 56 |  | 2011-11-02 | Car Seat Headrest | Twin Fantasy |
+| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ecae82853b784726c7e2c4e2ba55a4fd.png) | 2012-09-04 | Imagine Dragons | Night Visions |
+| 100 |  | 2013-08-01 | Arctic Monkeys | AM |
+| 69 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d070e505cdab4b27cb39bfe28eb63343.png) | 2013-10-04 | Cage the Elephant | Melophobia |
+| 57 |  | 2014-04-01 | Mac DeMarco | Salad Days |
+| 92 |  | 2014-11-11 | Mitski | Bury Me at Makeout Creek |
+| 85 | ![Cover](https://i.discogs.com/9PWm8yWN42bm1BuqPFGFu-Hgc4GjOCCRFlbPkJkhIzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTI1/NzctMTQ0NjI3NTc4/Ni00OTk2LmpwZWc.jpeg) | 2015-10-30 | The Neighbourhood | Wiped Out! |
+| 80 | ![Cover](https://i.discogs.com/4XKEgx4yV0BGj4q5JTbllMUproiyqe-cBBNKIXGwDX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDk4/OTUtMTYyNTU2NDgz/OS05MzYwLmpwZWc.jpeg) | 2016-06-17 | Mitski | Puberty 2 |
+| 86 | ![Cover](https://i.discogs.com/DVorw-ATfRjKDujS-XMFHicbbb6sTSit9TiQeKAxp9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzM5/NTU3LTE1MzMzMTU0/ODMtNjc3NS5qcGVn.jpeg) | 2018-08-17 | Mitski | Be the Cowboy |
+| 72 | ![Cover](https://i.discogs.com/hXpuJuowi5JCJ6nuVy64fw-0M5nQxWkZGTLQuDuDI5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTYx/NjYyLTE1NDkxMjUw/NDAtMjQ1NS5qcGVn.jpeg) | 2019-03-22 | Wallows | Nothing Happens |
+| 93 | ![Cover](https://i.discogs.com/LmRicPfyTz5NfZyzP11NBNX9_n-6nQD5IaLMBdxuQQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTM4/Mzc3LTE1OTMyNTE2/MTAtNTk2NS5qcGVn.jpeg) | 2019-03-29 | Dominic Fike | Don&#39;t Forget About Me, Demos |
+| 84 | ![Cover](https://i.discogs.com/eG-o7bPdzQ922XHt9j7_HtEDB6NuJ5hyFaBPpb7jTb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ5/NTY0LTE1ODYwMTI1/MzMtNDM2MC5qcGVn.jpeg) | 2020-04-10 | The Strokes | The New Abnormal |
+| 67 | ![Cover](https://i.discogs.com/rwO1b9-gFzDSLK14I9CtC-ASP_bCmCVtEDV-NO7Rh7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk5/NzE4LTE2ODQ1MjM3/ODItNzAyNy5qcGVn.jpeg) | 2023-03-31 | Boygenius | The Record |
+| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e39eb31f874f4a5c4afa836845141437.png) | 2023-09-08 | Olivia Rodrigo | GUTS |
+| 71 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e68669788bdf8e102229b14ab3b64f15.png) |  | The Killers | Day &amp; Age |
+| 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a7645386e75e465b9a9b5335bc9115ba.png) |  | The Killers | Sam&#39;s Town |
+
+### Related genres
+
+- [rock]({{ "/tags/rock" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [alternative rock]({{ "/tags/alternative-rock" | relative_url }})
+- [indie pop]({{ "/tags/indie-pop" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
+- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [emo]({{ "/tags/emo" | relative_url }})
+- [shoegaze]({{ "/tags/shoegaze" | relative_url }})
+- [lo-fi]({{ "/tags/lo-fi" | relative_url }})

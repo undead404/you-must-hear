@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T09:04:20.347Z
+permalink: tags/martial
+title: martial
+---
+
+## martial
+
+Last updated: <time datetime="2025-10-22T09:04:20.347Z">Wed Oct 22 2025 12:04:20 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 62 |  | 1984-06 | Death in June | She Said Destroy |
+| 34 |  | 1985 | Women of the SS | Rigor Romance |
+| 46 |  | 1985 | Women of the SS | Woman Iz Beast |
+| 50 | ![Cover](https://i.discogs.com/QVhzDBZwfEV3ZwMcHuPU60PeESmxp4OXunVn_8Q4Yps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTc0/Ni0xNjM2NzUzODY1/LTY0MDUuanBlZw.jpeg) | 1985 | Death in June | Come Before Christ and Murder Love |
+| 73 | ![Cover](https://i.discogs.com/bH9Mmx2vn3kANf3T6QcSwxfZEx6QFWk34aQTVru4DOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjk2/NC0xNDcwNjc2Mzc2/LTIzNTUuanBlZw.jpeg) | 1985 | Death in June | Born Again |
+| 8 | ![Cover](https://i.discogs.com/IP3lHrnERT7J7xJEvYFsrAWm-IsLuQzALirW5RsNuXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ0/OC0xMjQ3ODM5NzU5/LmpwZWc.jpeg) | 1986 | Women of the SS | The Call To All Women... |
+| 67 | ![Cover](https://i.discogs.com/bLC2SECJTBKKhid-XMCDASbAgRXyqUGsRau49UEg5lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzc2/MC0xMTA1MTA5OTk0/LmpwZw.jpeg) | 1986 | Death in June | Lesson 1: Misanthropy |
+| 97 | ![Cover](https://i.discogs.com/hZXN93rUxFyu0Eweb7Km4Ua6REGKikzWdb7bdXK7mCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk3/MzkzLTE1MjQzMzQy/NDAtNzc3MS5qcGVn.jpeg) | 1986 | Erich-Weinert-Ensemble | Hymnes et marches de la République Démocratique Allemande |
+| 44 | ![Cover](https://i.discogs.com/qE0pTgXY6UTmW0w6C2zygu95pcmOORCPrhAnhVc-vbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU3/Ny0xMjI5NjEyOTkz/LmpwZWc.jpeg) | 1987 | Death in June | To Drown a Rose |
+| 98 |  | 1989 | Death in June | 93 Dead Sunwheels |
+| 100 | ![Cover](https://i.discogs.com/dpa3Fmu9qK3o8VFBXh9nKWGkIl4KsDLrxUQHeKHV8sM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM0/Mi0xMjUyNzAzMzMz/LmpwZWc.jpeg) | 1989 | Death in June | The Corn Years |
+| 20 | ![Cover](https://i.discogs.com/u-eXFCtSbiRQAyGmQzuTO6-t8M6IHAtMIOUvpyLvss8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzY3/NS0xNjE5NTQyMTEy/LTcyMjkuanBlZw.jpeg) | 1991 | Death in June | Flowers of autumn |
+| 90 |  | 1991 | Death in June | Night And Fog |
+| 38 | ![Cover](https://i.discogs.com/SsDM6E6XEK8cZhSyR6O6Dz5k3oqoQJ66mrlerLnZAY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTU2/LTExNzIwMDYzMTEu/anBlZw.jpeg) | 1992 | In Slaughter Natives | Sacrosancts Bleed |
+| 36 | ![Cover](https://i.discogs.com/MMuha2qDH1gl6VkwY8FWYEs-4nvxufDjxgSlCn31ia4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE5/OS0xMTk0NTQwMTg0/LmpwZWc.jpeg) | 1993 | Autopsia | The Silence of the Lamb |
+| 32 |  | 1994-10-18 | Camerata Mediolanense | Musica Reservata |
+| 11 |  | 1995 | Rosa†Crvx | Proficere |
+| 33 |  | 1995 | Consono | Hymn of Deceased Deities |
+| 39 | ![Cover](https://i.discogs.com/sQMMSYXFaFEGkyAcY3mAHyaalH-B1s46l1Rk7p19MU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTM0/LTEzODExOTE4OTkt/Njc1My5qcGVn.jpeg) | 1995 | Autopsia | Humanity Is The Devil 1604-1994 |
+| 83 |  | 1995 | Les Joyaux de la Princesse &amp; Regard Extrême | Die Weiße Rose |
+| 77 | ![Cover](https://i.discogs.com/7g31nkJwM3MPjLnXBUdNNIoWBqshBTAPzILwEIAzz0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTUz/Ny0xMTg3OTgzOTM4/LmpwZWc.jpeg) | 1996 | In Slaughter Natives | Purgate My Stain |
+| 82 | ![Cover](https://i.discogs.com/KQaCflwKPNDwB3fOksk4BJ8hTrhouAS29YjTNJ_SimA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDEy/MS0xMTQzNDU5OTk1/LmpwZWc.jpeg) | 1996 | Camerata Mediolanense | Campo di marte (Deluxe Edition) |
+| 96 |  | 1996-11-02 | Camerata Mediolanense | Campo di Marte |
+| 4 | ![Cover](https://i.discogs.com/IbKySpnXlhfZttSZ2zv9AwcL3_TLkGQoWfCQyVH2j2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjcy/OS0xMDk1MTE1MTU5/LmpwZw.jpeg) | 1997 | Skrol | Heretical Antiphony |
+| 72 |  | 1997 | Boogiemonsters | God Sound |
+| 69 | ![Cover](https://i.discogs.com/2IV5lF5fzq8-3zYLlsXPG5pBKjvp43lX8QzHWemxtA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjAw/NS0xMDgyMjQ2MjY4/LmpwZw.jpeg) | 1998 | Von Thronstahl | Schwanenspiel |
+| 99 | ![Cover](https://i.discogs.com/PaJIzwL1JjtPGHyy-uzQROgtmolzb4GVawxHFxMOzYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAy/My0xMjMwNzcwNTQ3/LmpwZWc.jpeg) | 1998 | Death in June | Kameradschaft |
+| 85 |  | 1998-12 | Camerata Mediolanense | Madrigali |
+| 17 |  | 1999 | Women of the SS | John Zewiss Presents His Infamous Women of the SS |
+| 30 | ![Cover](https://i.discogs.com/TVYg7VJ1Fg3tYpSptG72oGqBDYzhBqLhTQTvYPL8Eas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDMw/NS0xMjU3MDYyNTc5/LmpwZWc.jpeg) | 1999 | Bearer of the Inmost Sun | Destroyed Beauty |
+| 35 | ![Cover](https://i.discogs.com/u5OaIS77nnTti0Hf6J3vCleHHDZxNkhJJ8SBnVuxK_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mjky/NS0xMTMwNDEyNzM2/LmpwZWc.jpeg) | 1999 | Skrol | What The Eye Have Seen Have Not Seen |
+| 9 | ![Cover](https://i.discogs.com/RV4GyQOAy54lHQ_SS45yo60fiuTdfiEol7dA9Hrq4TM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTU1/OC0xMDk0NDIxNTUw/LmpwZw.jpeg) | 2000 | Lady Morphia | Recitals To Renewal |
+| 78 |  | 2000 | Dernière Volonté | Le Feu Sacré |
+| 84 | ![Cover](https://i.discogs.com/Qb-Hf4P4bEzds2IA6qwXpVLJzOVQub45b1zW8uB0Mvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjUz/MC0xMzM3MTE1Mjk0/LTQ4NzUuanBlZw.jpeg) | 2000 | Kreuzweg Ost | Iron Avantgarde |
+| 59 | ![Cover](https://i.discogs.com/WgbNn2bfXP3Ab5T7-9hKWzAuoSt88dCWCDxLql8j5pI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzI2/LTEwNzQ0MzA1Nzku/Z2lm.jpeg) | 2000-08 | Schizoid | All Things Are Connected |
+| 68 | ![Cover](https://i.discogs.com/gB4E0I8UKDbyZjLEJN-3sVF6TqAwk1lcitBKASkFnLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTE2/Ny0xMTIyNzE3MzAw/LmpwZw.jpeg) | 2001 | Von Thronstahl | E Pluribus Unum |
+| 70 |  | 2001 | Frank Klepacki | Emperor: Battle for Dune |
+| 2 | ![Cover](https://i.discogs.com/r3-RoW3vHB0F4TG8REGmHk5RBJNtrYCwazyPHkxVbdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjc5/OC0xMTY5Mjk2ODI5/LmpwZWc.jpeg) | 2001-05-23 | Karnnos | Bearer of Order, Bringer of Chaos |
+| 79 | ![Cover](https://i.discogs.com/2hyzrGI4daFSiqe-Wx0OLrQxuiWPH35rAoJshKQbobc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTA2/NS0xMjMzNTA1NTE4/LmpwZWc.jpeg) | 2001-11 | Sophia | Death, Dumb and Blind |
+| 26 | ![Cover](https://i.discogs.com/-cfP2t6HaceyBJntSmI5zs120QIRgIiA5s4k3uI7ejY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM0/MjEtMTIwNjk1NDUx/MC5qcGVn.jpeg) | 2002 | Gaë Bolg and the Church of Fand | La Vengeance De L&#39;Ankou |
+| 55 | ![Cover](https://i.discogs.com/3PNVKlRIZ7z4DYil0lQ3cbuG2N69e3ZIZoJ_351CiK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTE0/LTEzMDIxMTcxODYu/anBlZw.jpeg) | 2002 | Autopsia | Colonia |
+| 71 | ![Cover](https://i.discogs.com/Dn7uYVpHyocPazowEtf-JXzN4Wcgw9LtZDf5jdsZwJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQz/MDI2LTE2Nzc4MDM1/NDctNzQ0My5qcGVn.jpeg) | 2003 | Various Artists | Tribute to the dead soldiers (1914-1918) I |
+| 65 |  | 2003-10 | Arditi | Marching on to Victory |
+| 14 | ![Cover](https://i.discogs.com/2Prp5nDBm-rO05S2CpjpuYc-2UV-zrLSI9SOM2oZtQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDg1/Ni0xNTI0NzYzNDE4/LTIyOTIuanBlZw.jpeg) | 2003-11 | Sophia | Deconstruction of the World |
+| 3 | ![Cover](https://i.discogs.com/qNUVD-AcMj0d_6kNlSHuFdeFd1UJAT-3z2MqBTMZE9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTcw/Mi0xNTA2NDUyMTUw/LTgwMDQuanBlZw.jpeg) | 2004 | A Challenge of Honour | Monuments |
+| 56 | ![Cover](https://i.discogs.com/QFz8KmeYVqQ7W5NTYpJ0bKnxAchuLiduAzs9867F52o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njk1/OS0xNDI4NzIxNDI1/LTMyMDYuanBlZw.jpeg) | 2004 | Omnicore | Mass Murderer |
+| 47 |  | 2004-05 | Karjalan Sissit | Karjalasta kajahtaa |
+| 58 | ![Cover](https://i.discogs.com/F8TjH_qt2MqjCZiwHqmknhlezvtMGNJm-BI5-82fhg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjIx/MC0xNTIwMjM5OTk3/LTkxNjAuanBlZw.jpeg) | 2005 | Triarii | Ars Militaria |
+| 80 | ![Cover](https://i.discogs.com/h7LBbwPLndr7pxbUiiZIKc_HMBvOtL87iTw8ZruC6ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDUz/Ni0xNTg5NjU3OTky/LTUxNzAuanBlZw.jpeg) | 2005-06-10 | The Protagonist | Interim |
+| 53 | ![Cover](https://i.discogs.com/ScVR8ZeRlFmjE04FbuyvAw5wpgXYSEf6LaZ4tKiO_Po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzIw/ODktMTQ2MjU2Mzg3/Ni00MTA4LnBuZw.jpeg) | 2006 | Ordo Rosarius Equilibrio | Through Time And Space - Collected Gospels |
+| 6 | ![Cover](https://i.discogs.com/TdtSJsjiS3wWWFnyCSzz-kBZARJiGlembZsolHn5HlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTMy/NC0xMTM2MzAyNjAw/LmpwZWc.jpeg) | 2006-01-16 | IANVA | Disobbedisco! |
+| 13 |  | 2006-05-08 | Triarii | Pièce Héroique |
+| 51 | ![Cover](https://i.discogs.com/Bse5IJ4manQsic55gVfStgVWBCmirotyTtyGgiwSyK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzQx/My0xNDM0NTcxODMx/LTE2NTUuanBlZw.jpeg) | 2006-05-08 | Triarii | Piиce Hйroique |
+| 81 | ![Cover](https://i.discogs.com/k41rlcr6gh-eVTyZSuorGe0hClwgx1_2LfgLfY_zKKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTk5/OC0xNjcxNzExMDEy/LTk5NDEuanBlZw.jpeg) | 2006-08 | H.E.R.R. | Vondel&#39;s Lucifer - First Movement |
+| 5 |  | 2006-10-16 | Rome | Nera |
+| 57 | ![Cover](https://i.discogs.com/vudFqrR9zJA4hBG3I-TPL4JVTZOeHaw5Jt8WMgZ9K04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjMw/MC0xMTcyMDk1OTAx/LmpwZWc.jpeg) | 2007-03-12 | SnowW.Wwhite | Wonderland |
+| 66 |  |  | Тбилиси-89 | Продмагдистрой |
+| 74 |  | 2006-11-14 | Der Blaue Reiter | Le Paradise Funèbre, L&#39;Envers Du Tristesse |
+| 87 |  | 2007 | March of Heroes | March For Glory |
+| 28 |  | 2007-04 | Rome | Confessions D&#39;Un Voleur D&#39;Ames |
+| 76 |  | 2007-11 | Krepulec | New Radical |
+| 40 |  | 2007-12 | Across the Rubicon | Elegy |
+| 15 |  | 2008 | Vae Victus | Suffering To The Conquered (demo) |
+| 29 | ![Cover](https://i.discogs.com/QA9tKmKtUr2rlbbjIZx6dKfBiwFfABkKovE5B2TVSFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQ2/MzctMTIzMjkwMjIx/NS5qcGVn.jpeg) | 2008 | Kazeria | Discipline of the Shadows |
+| 52 | ![Cover](https://i.discogs.com/FN5wcCVg0Nu4kDf397goagk3HrtjSKiKgLzlybXd4uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTg0/MzEtMTIyMTkyMDg5/OS5qcGVn.jpeg) | 2008 | Kannonau | Initium |
+| 95 |  | 2008-09-02 | ЛихоЛесье | Беспредельная Жажда Иного |
+| 64 |  | 2008-09-08 | Vindensång | The Descent of Man EP |
+| 42 | ![Cover](https://i.discogs.com/7OaK-eOwVL1toG8GlGgl2b6cXz7OxGpqxJROTyPvmwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE5/OTEtMTIyMzkyOTgw/NS5qcGVn.jpeg) | 2008-10-10 | Leger Des Heils | Memoria |
+| 91 | ![Cover](https://i.discogs.com/h3g-Wi4Ub25119C309nDQ9vko3TIZifaFsAvX8f0kdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDA5/NjEtMTIzOTk4MjY2/Ny5qcGVn.jpeg) | 2008-12-01 | Triarii | Muse in Arms |
+| 19 | ![Cover](https://i.discogs.com/43HZ1ke3aROeoCUWgxE7XABkmdueinpy931_l5pNqS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjQ1/MDgtMTMwOTQ0Mjgz/OS5qcGVn.jpeg) | 2009 | SnowW.Wwhite | Death In June Challenge |
+| 49 | ![Cover](https://i.discogs.com/hWIdNvVAqth-FWeT68ruQCagvuLnBXcXauNyKxJrBok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjEy/ODItMTI3MDY2Mjg3/Ni5qcGVn.jpeg) | 2009 | Solstorm | Solstorm |
+| 94 | ![Cover](https://i.discogs.com/tftcQRz5KwVSsZZ3tqnN9rOSyC9SM0iwFEDuy6cTvpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjUw/MTYtMTI5MDg2MjE3/My5qcGVn.jpeg) | 2009-09 | Troum | Eald Ge Streon Abhijna |
+| 10 | ![Cover](https://i.discogs.com/siRLvNPedVvXBGIVkfs15KZ6CDvkMK8H7EJYqAnDSLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzEw/MDUtMTI2MDUzMTc0/NS5qcGVn.jpeg) | 2009-09-21 | Langemarck | Vom Rhein Bis An Die Trave |
+| 89 |  | 2009-10 | TriORE | Three Hours |
+| 48 | ![Cover](https://i.discogs.com/MtvGasGeU1I4HtbKRaOwL2fTjaLF_bXqiJNa5WJYFl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjU0/NC0xMjExOTY0MTgx/LmpwZWc.jpeg) | 2010 | Von Thronstahl | Return Your Revolt Into Style! |
+| 43 |  | 2010-02-01 | Le Silence des Ruines | Le Silence des Ruines |
+| 7 | ![Cover](https://i.discogs.com/-9trLYALIKkEBtaKuKZlzwv1wFaaBVyJ3rS664j9Mf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAw/NzktMTMwMDcwNTM4/OC5qcGVn.jpeg) | 2011-03-21 | Subterrestrial | We Live Inside |
+| 27 | ![Cover](https://i.discogs.com/J7Or6miNL3N850CV7GOCfQLWS_T5W_E0hSW2CXhwPYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjQy/MDAtMTMxMjIyMjQw/MS5qcGVn.jpeg) | 2011-05-21 | Stalag 328 | Kriegsfreiwilligen |
+| 86 | ![Cover](https://i.discogs.com/wgqPQ2OGVzW6-93PWpn9ye55iRW3XKVfR_n8yIR-dLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTYw/MDktMTMwODg5NTAy/NC5qcGVn.jpeg) | 2011-06-10 | Rome | Our Holy Rue &#x2F; The Merchant Fleet |
+| 1 | ![Cover](https://i.discogs.com/qrS01PS6uTAOUEV02LWUP88QXy1UxIvFydbp16txLAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjE5/NDMtMTM3Nzc4Mzcw/Ni0yNzM5LmpwZWc.jpeg) | 2011-08-20 | Subterrestrial | The Seven Deadly Sins - IRA |
+| 54 | ![Cover](https://i.discogs.com/JloajNmdu1eR9RlOIzD4TIpI-YA-1Rn14k1ThIj3u7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mjg1/MTYtMTQ2ODI1MjA4/NS05ODAzLmpwZWc.jpeg) | 2012 | Rukkanor | Deccarah |
+| 75 |  | 2012-01-09 | Kreuzweg Ost | Gott Mit Uns |
+| 12 |  | 2012-05-10 | Kazeria | Liber Corvus |
+| 18 | ![Cover](https://i.discogs.com/u2YymOlne4Fy5esajkXg6dtLw4e2PT1YrvH34iJUdMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTcw/MjMtMTMzNzUzMzA2/NC02NTg4LmpwZWc.jpeg) | 2012-05-22 | Lucario | Antibiotikx Misrepresentative |
+| 63 |  | 2012-10-29 | Parzival | Die Kulturnacht |
+| 60 |  | 2013-05-01 | Solstorm | Ex septentrione lux |
+| 45 |  | 2013-09-29 | Kriegshund | Arbeiterklasse |
+| 16 |  | 2013-12-18 | Wappenbund | A Way To The Empire Of Light |
+| 25 | ![Cover](https://i.discogs.com/0BAe-C28DzO9-15KK3kn1qX1xs1M2EokGaFW4APAFqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDAx/MDAtMTQ4NTUxOTUw/MS03MTUxLmpwZWc.jpeg) | 2014 | Awen | Grim King Of The Ghosts |
+| 22 |  | 2014-05-16 | Rose Croix | Silver Star |
+| 61 |  | 2014-09-01 | Der Blaue Reiter | Le Paradis Funèbre Ii - L&#39; Adieu Du Silence |
+| 41 | ![Cover](https://i.discogs.com/fU5i7sHaqYfo6CIOPEmg9FBYaebLjbSAB19GuX8dNm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTE5/NzItMTQzODc2MDA0/OS0zMjQ4LmpwZWc.jpeg) | 2015-04-01 | Waffenruhe | Demagogie |
+| 24 | ![Cover](https://i.discogs.com/0ozgQvwdYcYpqyBeWWK1zkL1d8h9km0drse538xhizQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjQx/NjUtMTQ0MzI2OTk0/Ni01MzEzLmpwZWc.jpeg) | 2015-10-15 | Der Blaue Reiter | Dies De Cendra |
+| 23 | ![Cover](https://i.discogs.com/57WZdRcjv7yb22WzHs-48GbI6Pbns7c6BW0u-2_C4DM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDMy/MzgtMTQ2NDkzMTk3/Ny0zNDEzLmpwZWc.jpeg) | 2016 | BloodSoil | Endtimes |
+| 88 | ![Cover](https://i.discogs.com/Vu52Jznu_B1TRSiizQOobeLG3Lgn29Lr3B08uhM5V5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NTMy/MC0xMTg2MjI3NTM2/LmpwZWc.jpeg) | 2016-02-18 | Dernière Volonté | Prie Pour Moi |
+| 21 | ![Cover](https://i.discogs.com/zfjiP9MRgbJmdyr9nUc3O0l2G3lOmEOL-7b6AVTDr1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjI1/MzctMTQ1NjMxMzg2/NC0yNzI5LmpwZWc.jpeg) | 2016-02-24 | Lupi Gladius | De Sideribus |
+| 93 | ![Cover](https://i.discogs.com/k9sR4B6VoV_DZA51OeOnOwCvQKQuZ8VgisA59Kcj-zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQx/NTQtMTI5MzE0NzQy/MC5qcGVn.jpeg) | 2020-07-24 | Death in June | The World That Summer - 20th Anniversary Extras |
+| 37 | ![Cover](https://i.discogs.com/LyuzntSg_VGlmPoJbKUkQlFRTELEq-lLDFEIPF06Vyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzU0/OTU0LTE2NzAwNjEw/NzMtNzU0MS5qcGVn.jpeg) | 2022-12-02 | Dernière Volonté | Cristal |
+| 31 | ![Cover](https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg) | 2023 | Various Artists | Where are you Europe? |
+| 92 | ![Cover](https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg) | 2023 | Various Artists | ... Where Tattered Clouds Are Stranding |
+
+### Related genres
+
+- [industrial]({{ "/tags/industrial" | relative_url }})
+- [martial industrial]({{ "/tags/martial-industrial" | relative_url }})
+- [neofolk]({{ "/tags/neofolk" | relative_url }})
+- [neoclassical]({{ "/tags/neoclassical" | relative_url }})
+- [dark ambient]({{ "/tags/dark-ambient" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [noise]({{ "/tags/noise" | relative_url }})
+- [dark folk]({{ "/tags/dark-folk" | relative_url }})
+- [martial neofolk]({{ "/tags/martial-neofolk" | relative_url }})
+- [darkwave]({{ "/tags/darkwave" | relative_url }})

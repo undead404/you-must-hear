@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T06:51:29.753Z
+permalink: tags/mashcore
+title: mashcore
+---
+
+## mashcore
+
+Last updated: <time datetime="2025-10-22T06:51:29.753Z">Wed Oct 22 2025 09:51:29 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 41 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1972 | Various Artists | Apocalypse Afterparty |
+| 48 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1972 | Various Artists | Masters of dubSTEB |
+| 19 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1987 | Various Artists | 新しいフォルダー (３) |
+| 49 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1987 | Various Artists | BISTRO &amp; HUEVO |
+| 30 | ![Cover](https://i.discogs.com/F3faeSqKokLdq6RQxhKQkF65s2DDStfCZbQKI2sEdt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk5/MjctMTU4OTY1NzA4/MS0zNTQwLmpwZWc.jpeg) | 1994 | Dance Corps | Dance Corps 6 - A Decade of Dancecore |
+| 10 | ![Cover](https://i.discogs.com/3O8w3RvfxzCbbvfYdJu1MrS5VoYWR2dQ0H7fx3h2wHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTY4/LTE2Njg5ODI0Njct/NjkxMC5qcGVn.jpeg) | 1998 | Carl Crack | Lion MC |
+| 57 | ![Cover](https://i.discogs.com/fqqNUQlLfSuypyuyi5L8WnjTuCpjRWTZ-y-64Lvh3Bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTYw/LTEyMDEzMDAwNjIu/anBlZw.jpeg) | 1999 | Alec Empire | Alec Empire VS Elvis Presley |
+| 69 | ![Cover](https://i.discogs.com/e3xlz2muu19beeuCl36204fqTvMnJ3LZYVSrpvMOxEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDM3/OTAtMTY4MDU2OTg1/NC0xMTU3LmpwZWc.jpeg) | 2001 | V.A | Favicon Vol. 2 - THIS IS DANCECORE! |
+| 45 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2003 | Various Artists | Favicon Vol. 1 |
+| 88 | ![Cover](https://i.discogs.com/7RlaOPtEcDB8Rli_yJqw1ByJnzX5gFpS9q_SVznDd90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTY3/Mi0xMTg2ODMyODU5/LmpwZWc.jpeg) | 2006-11-27 | Shitmat | Hang the DJ |
+| 37 | ![Cover](https://i.discogs.com/e7kXNvnQg8SPdeYepbzhm0aHT8xG2fOwhdB-dp_G_n4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzcy/ODUtMTIyNjg1NjU3/My5qcGVn.jpeg) | 2008 | XÄCKSECKS | Attack of da Jam-downmutant from Dimension Weed XXX |
+| 65 | ![Cover](https://i.discogs.com/2tFl9xkboNU-rs44ypRAe0Mc3ixGHmhSxCC7A4NmPyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTIw/MTkxLTE1NDg0MTY5/MTEtMzM5NC5qcGVn.jpeg) | 2008 | Alvaro | Untitled Album |
+| 75 | ![Cover](https://i.discogs.com/0qwrLQvwFWoZmAhmfwcUZI_MHOZQwcwd_tZZ0QHJvjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/NjYwLTE2MDAzNzA0/MzEtODIzMC5qcGVn.jpeg) | 2008 | dj 3.14159 | inaumadosexual vol. 2 |
+| 76 | ![Cover](https://i.discogs.com/-nTs1dp-MRCSRPCxTlzXU9QBAe__YnDAEMC5EbXwBwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjA1/MjItMTM2NTQ5NzM1/NS05Njg0LmpwZWc.jpeg) | 2008 | dj 3.14159 | inaumadosexual |
+| 47 | ![Cover](https://i.discogs.com/CJGqPLOvERxHIxgF7Dl8Xw26lct2Npywa1plJbSgwjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjA2/MzctMTIyODQ3Nzg2/OC5qcGVn.jpeg) | 2008-06-04 | Distonn | Nightclub Annihilator |
+| 39 | ![Cover](https://i.discogs.com/8fd8H_kqiDf2pHnLfd63k1apykg3Gm3J3ig2-Mi4QTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzE5/OTgtMTMwMzA0NjQ1/NC5qcGVn.jpeg) | 2008-09-14 | vaas62 | Breakstyle Freaking Out! |
+| 4 |  | 2009 | Various Artists | goreshit &#x2F; Annoying Ringtone Split |
+| 91 | ![Cover](https://i.discogs.com/TOFqYwrYNX7Gkl2zmgON8-hC6H2GOAQ_r5rUNmC1bVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDE3/ODAtMTQwNjkyMTIz/OS05NTQ5LmpwZWc.jpeg) | 2009 | Laser Imouto | lolicon ghetto mix |
+| 92 | ![Cover](https://i.discogs.com/7rXOVmssPTbdYkEFH7WLD_f_FUwD-OOZifJKX4vgRz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAx/NjEtMTI4MzYyMDYz/My5qcGVn.jpeg) | 2009-05-09 | Renard | This Place Will Grow EP |
+| 79 | ![Cover](https://i.discogs.com/l0JLgodhkr-1UqJrl89YSEy__5QJI5L2vE0f8Ccs4io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODI0/NzctMTI0OTkxNTY3/OS5qcGVn.jpeg) | 2009-07-02 | AleX Tune | Dream That I Saw EP |
+| 89 | ![Cover](https://i.discogs.com/2L8KfmdLA3UEb9iCWxYOKhCWr9aMwRqzKxAKzq-uPYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc5/MjUtMTI1MjM1NDA1/OC5qcGVn.jpeg) | 2009-07-18 | Annoying Ringtone | Club Jumping |
+| 80 | ![Cover](https://i.discogs.com/paRQuLfdTVA__DGNOOd5FHIii6PSk2IdjXIC2dkV_0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDc3/OTAtMTI1NDMzNDc0/MS5qcGVn.jpeg) | 2009-09-30 | AleX Tune | What is a Mashup? |
+| 56 | ![Cover](https://i.discogs.com/zOG7O-TRYtx1GGHChPTu2whH2DnHlTnTKWo_w9Y45pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDM2/MzQtMTI4MjA4MTM1/MC5qcGVn.jpeg) | 2010-01-02 | Annoying Ringtone | Granite City Dancecore |
+| 84 |  | 2010-07 | goreshit | mainstream muthafucka! |
+| 85 |  | 2010-09-14 | goreshit | dancefloor degrader |
+| 93 | ![Cover](https://i.discogs.com/RQz9KP87S62hVs1Zx9q2hipgnymH6Bak5hkAZgo500w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzI2/MDgtMTI2NTgwMDM4/NC5qcGVn.jpeg) | 2010-10-25 | Sickboy | Tweencore |
+| 77 | ![Cover](https://i.discogs.com/y3Taia2S4t_251y0h429cr7Nt159HjF0lhg2ruNA8eE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk4/MDktMTMxNTIzNDkz/MC5wbmc.jpeg) | 2010-11-12 | odaxelagnia | Party Warfare!!! |
+| 90 | ![Cover](https://i.discogs.com/y3Taia2S4t_251y0h429cr7Nt159HjF0lhg2ruNA8eE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk4/MDktMTMxNTIzNDkz/MC5wbmc.jpeg) | 2010-11-12 | odaxelagnia | PARTYCORE |
+| 62 |  | 2011-01-17 | McMaNGOS | I HOPE YOU DONT OWN A MACHETE NOTHING MORE SCAREY THAN A MEXICAN WITH A MACHETE |
+| 29 | ![Cover](https://i.discogs.com/Ew_DdQHh2NcZKwFjCFoyomrWqAEdllds-T8Yh3kCWBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjUz/NDktMTMyMTI1Mzcy/Ny5qcGVn.jpeg) | 2011-03-12 | Kvagga | Make mash not love |
+| 64 | ![Cover](https://i.discogs.com/ycFNsSYUVUWd5NwgTBLthsfltGB6mxhZpMfa258ex2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTg3/NzYtMTMxODQ0Mjk4/MC5wbmc.jpeg) | 2011-04-19 | Omyigacore | &#39;Potlahe! |
+| 82 | ![Cover](https://i.discogs.com/G0_JbLfIaXNNULhh1Qmc8BP6u4i7lxDh7-qksAL7jlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODcz/MjQtMTMxOTY1NDI3/NC5qcGVn.jpeg) | 2011-07-30 | Annoying Ringtone | Turborave EP |
+| 67 | ![Cover](https://i.discogs.com/cTyhzBr1hQpLs9HWEkQqHPniWuCLMzt3H9eFCrQJvtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTg3/NTYtMTMxODQ0MjU5/Mi5wbmc.jpeg) | 2011-08-15 | McMaNGOS | SUPER KAWAII LOLICORE PARTY RAVING FUN-TIME |
+| 86 | ![Cover](https://i.discogs.com/SUmYoxtcbEuRcPHjaEVHUr3izFddHj2f8-iTD_P63rA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk1/MjUtMTMxNTIyNTUx/NC5wbmc.jpeg) | 2011-08-31 | Ecchi-chan | Seizure Rave !! |
+| 70 | ![Cover](https://i.discogs.com/lSmkBH4dHA4LljgWczzjHoxxPi30bfUJ3uhw4qVLlJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjQ4/NzktMTM2NzM0Mzk1/NC04MDU3LmpwZWc.jpeg) | 2012-01-13 | DJKurara | Bashful Geek Dance Party |
+| 40 | ![Cover](https://i.discogs.com/Xh2S2DlMVPvsteiK7MqVP9ZxEpSvQIs_xqLjccPUGKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODMy/OTEtMTM2NjE1NDI0/Mi02NTczLmpwZWc.jpeg) | 2012-02-19 | DJKurara | Sampling Parade EP |
+| 63 | ![Cover](https://i.discogs.com/vmiNxPRUsCoT-f0hHN7GQuvPEOGzriweTg3rPwTMZZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDg0/NTgtMTYwMzAzNDk1/Mi04NjgxLmpwZWc.jpeg) | 2012-03-01 | sHimaU | three way split |
+| 24 | ![Cover](https://i.discogs.com/d_7jN7r_nKmKdtEdP2FNPSx7E4GX2xzRkssltEqpMIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc5/NDk2LTE1MTMzNTM5/ODYtNjA5OC5qcGVn.jpeg) | 2012-05-07 | Artie&#39;s Kryptonite | Hyper Celebrity Throwdown &#39;96 |
+| 55 | ![Cover](https://i.discogs.com/c-VMpvIRlnLos4Zw89Im1AZTpekmeYCaAl7Kz_24lDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTc1/ODctMTM0MTU3NDIx/Ni02OTA3LmpwZWc.jpeg) | 2012-07-05 | Negrobeat | Absolute Rave Vol. 2: What&#39;s Wrong With My Dancecore (Swag)? |
+| 11 | ![Cover](https://i.discogs.com/icd1cWl1Axvt4bx5RIhENR5M2kwW4cJddjNTPdzvY6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjI5/NzktMTQ3MzQ0MTI5/Ny04NjkzLmpwZWc.jpeg) | 2012-08-22 | Stantekk | Beatless |
+| 35 | ![Cover](https://i.discogs.com/jkFpwuWeDBHIB2SmYU-67z-cF9ux8mC5iboPEcvQYFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDg4/NjQtMTQxOTUwNjIz/NC03MDYyLmpwZWc.jpeg) | 2013-01-26 | Drobochёs | Raving Dead |
+| 44 | ![Cover](https://i.discogs.com/By74izYWjET4k3izvQTdgZvrt8Nx06zELVt1NTVMrXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODI3/MjItMTM3ODM4NDMz/OS01ODQ0LmpwZWc.jpeg) | 2013-07-21 | AleX Tune | Remix &#39;Em All! |
+| 53 | ![Cover](https://i.discogs.com/-oK7hPsK3ThRlGO8nz-kKHAGUhJMUoBMGLgwQNHOVGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTA5/OTEtMTUyNjg1NDk3/MS03MTgwLmpwZWc.jpeg) | 2013-08-04 | DJKurara | Pop Teen Mashcore Paradise |
+| 12 | ![Cover](https://i.discogs.com/JR_tshhmVsQzXCSu2R9aczlocTai0Qs0MRCZ7g9IFbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTE5/NDgtMTM5MzcxMTky/OC0yNTcwLnBuZw.jpeg) | 2014-03-01 | CHEKM8 | The Internet Invaded My Computer |
+| 83 | ![Cover](https://i.discogs.com/0jbAavAibKt5_P0lQLQjua-rwmcMGqo5-iuNy1neoFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDg5/MjktMTQxOTUwNzI1/Ny00ODU2LmpwZWc.jpeg) | 2014-04-24 | LOLI NURSE | LOLI NURSE EP |
+| 36 | ![Cover](https://i.discogs.com/h1LloHEjfk2gsfe0ZiHCXSWLwY5e0kQykYNgWVhOay4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTAz/NzgtMTQwMDAxNjUy/MC0yMDcyLnBuZw.jpeg) | 2014-05-13 | DCIM | 18 |
+| 61 | ![Cover](https://i.discogs.com/AYrz0xN_L5mOHrLBlogCLp7ywP0H8uDCaOmX4L_6_AU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDg5/NDAtMTQxOTUwNzQ0/OC0yOTA0LmpwZWc.jpeg) | 2014-07-05 | IllegallyEmbezzleMp3 | Raznitsa mezhdu dlinoy krayney |
+| 68 | ![Cover](https://i.discogs.com/FAKSUQJNYOTR6Q7bSwtQ0l7s0POG6o6hXv5aKme4Mf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDUz/NzUtMTQxODQyNDk4/OS04ODk0LmpwZWc.jpeg) | 2014-08-26 | Graz | The Infinite Raddness |
+| 100 |  | 2014-08-30 | goreshit | copyright infringement ep |
+| 74 | ![Cover](https://i.discogs.com/58q8GZYSffw4WC5DIZeVClQItHsjoFelzfI8IRDMCls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzIw/ODQtMTQxNjY3NDY2/MS0xNzIzLmpwZWc.jpeg) | 2014-09-20 | Annoying Ringtone | DIY Brain Surgery |
+| 9 | ![Cover](https://i.discogs.com/kER72p2MBHyjVFpYiJJKI-qAcJdcLXkrfnajurDs_SY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTY5/NzQtMTQyNDgyNDAz/My0yNDg3LmpwZWc.jpeg) | 2015-02-17 | Nargorra | Rainbow_Dash.exe Has Stopped Working |
+| 73 | ![Cover](https://i.discogs.com/Zi6TSywT8EWA5JysXjQ4ukhkIaz2Jg54eGzxXry3A4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjA5/NzItMTQyNTMwNzky/OC02ODI0LmpwZWc.jpeg) | 2015-02-28 | odaxelagnia | Shitmusic Strong |
+| 3 | ![Cover](https://i.discogs.com/nTXvplhFukeFRaYz6bzZEB-4mJIoLnWsiKjjllaRW1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTY2/MzMtMTQ4Njc3ODU4/OC03MjQ0LmpwZWc.jpeg) | 2015-07-13 | The Cloudfags Union | MUSHROOMS |
+| 20 | ![Cover](https://i.discogs.com/8qcMCUeU3oHutNQ1ri6qE9SZv0M61KWhgLz5ss-Vb-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTY4/MTYtMTQ4Njc4NDU4/MC02MzAwLmpwZWc.jpeg) | 2015-09-29 | The Cloudfags Union | lolicore ruined my life |
+| 13 | ![Cover](https://i.discogs.com/SCjB71JbCM-tcvb6S1WU5dUClaRq4Iunks3zqmwSb_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzkw/MzctMTQ1NjYxMzU4/Ni0xNzY5LmpwZWc.jpeg) | 2016 | The Cloudfags Union | anime sucks mmmkay |
+| 23 | ![Cover](https://i.discogs.com/8qcMCUeU3oHutNQ1ri6qE9SZv0M61KWhgLz5ss-Vb-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTY4/MTYtMTQ4Njc4NDU4/MC02MzAwLmpwZWc.jpeg) | 2016-01-21 | The Cloudfags Union | lolicore saved my life |
+| 54 | ![Cover](https://i.discogs.com/lSHrAR-TrxdjzlLiHe05D24Ap9ycZCYp7EX7UMolubI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODg3/MDAtMTQ1Njc4ODY5/OS04NzY5LnBuZw.jpeg) | 2016-02-28 | odaxelagnia | Shitmusic Stronger |
+| 5 | ![Cover](https://i.discogs.com/kaiC1REnnesPzXAXjwA-YNOsUdF7SFBN9YpjzGyraRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjE2/MzktMTQ4ODU4NDk5/Mi03ODY3LmpwZWc.jpeg) | 2017-02-03 | odaxelagnia | [NKCDP003] V.A. - Untitled |
+| 17 | ![Cover](https://i.discogs.com/91-zFQDzXGXJyllUThds2mOed27zi9Dc69L96LpUlX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQ5/OTMwLTE0OTU3OTI3/MjctNjIzOS5qcGVn.jpeg) | 2017-03-08 | The Cloudfags Union | droppin&#39; shit to the beat |
+| 1 | ![Cover](https://i.discogs.com/Q_BjXlMUKCQ4p6SDr02JuRznvjJ4ds22F7hZtqXO5Tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE4/MzUwLTE0OTM1Nzk3/MjEtOTAxMy5qcGVn.jpeg) | 2017-04-30 | The Cloudfags Union | ohana means family |
+| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/341412ef5aedaa062dc26f2309c82a63.png) | 2018-01-17 | Sonnie | wancore |
+| 51 | ![Cover](https://i.discogs.com/7z87YvSLX3I6k20w8mYX_u_nFCiWsQE0DBmErhK70ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjE0/MTYwLTE2MTIyMDc3/NDEtMTc1Mi5qcGVn.jpeg) | 2018-05-04 | Bukiko | ろりすぺるまむ |
+| 33 | ![Cover](https://i.discogs.com/mLG1c6Lm36X50IJ35-NsqE6daNSjRt_Mlf1ZSLjMhmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDI5/Njc0LTE2MTEyMzAw/NTAtODUxOC5qcGVn.jpeg) | 2020-02-19 | Audiotist | Gene Pool |
+| 18 | ![Cover](https://i.discogs.com/BWSSwyKLAFXItiC03MDHTn_4VCOHmzgFEyUAnzHOyYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDcw/OTU1LTE2NTkzODY5/MzEtMzA2NC5qcGVn.jpeg) | 2020-12-25 | wenton | Post-alfred Post-collapsism Feedback 100pism |
+| 21 | ![Cover](https://i.discogs.com/BWSSwyKLAFXItiC03MDHTn_4VCOHmzgFEyUAnzHOyYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDcw/OTU1LTE2NTkzODY5/MzEtMzA2NC5qcGVn.jpeg) | 2020-12-25 | Wenton | Post-alfred Post-collapsism Feedback 100pism |
+| 16 | ![Cover](https://i.discogs.com/F5md2IvN9AUrWPj2gUroeY83tNZkPVVssLR7F3sFX5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU3/ODA5LTE2MTk5NTgz/OTItMTYzNy5qcGVn.jpeg) | 2021-04-25 | Haizai Audio | THE HAIZAI ALBUM |
+| 14 | ![Cover](https://i.discogs.com/kDhc-Xyv2IeAeSiAwWPEZvSjfjOm16IRjEPiMXozAJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDY2/ODU2LTE2MzMzNDYx/NTgtNzk5OS5qcGVn.jpeg) | 2021-05-14 | Leroy | dariacore 3 |
+| 15 | ![Cover](https://i.discogs.com/P_6eE1Xd8uHVsSR_C6Rz2Qku7AErk-iTjvq0178R6Xg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjI3/NzY5LTE2NDUzMTMy/OTItMTkxMC5qcGVn.jpeg) | 2022-02-17 | swimswim | 4ngelic |
+| 27 |  |  | miso-nicomi records | Hack 2 The Break |
+| 32 |  | 2022-04-14 | Various Artists | DEXANDTHECITY COMPILATION II |
+| 34 |  |  | $44,000 | PRINCE OF PISSCORE |
+| 42 | ![Cover](https://i.discogs.com/xKAjAPyroOEZgXJct7OjYsUOu_8LORoAGcHQrevb3QE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTA3/ODU5LTE1MTc1ODUz/NTYtNjE0MS5qcGVn.jpeg) | 2018-02-02 | odaxelagnia | Cooler WC Music Strongest |
+| 43 | ![Cover](https://i.discogs.com/-UnrMzP6hKBaPeiUuvU0fma16FOWMVsAs5GIXRHt1ZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQ3/NzgxLTE2Njc1NTgz/MDctMzQ2Ni5qcGVn.jpeg) | 2022-11-04 | Ryo | 羅↓¡ng 楼77!qop |
+| 59 |  |  | $44,000 | PRINCE OF PISSCORE, Part II |
+| 97 | ![Cover](https://i.discogs.com/Ff_Br-9oJjgd88d9exnX-eAt_1QPzBjC6ldGOfNnU5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDEw/Mzk0LTE1NjYwMjkz/MTYtNDE3MS5wbmc.jpeg) | 2019-01-28 | evaboy | BANDCAMP MEGA COLLECTION |
+| 99 | ![Cover](https://i.discogs.com/SaLX894dxq0GzbbJh_3uBVOt0Mv0raLJyyrkySwFV9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzc0/NDg1LTE2MDk3NDMy/MjEtOTIzNS5qcGVn.jpeg) | 2020-07-31 | MIMIDEATH | FOAR EVERYWUN FRUM MIMI |
+| 94 | ![Cover](https://i.discogs.com/kDhc-Xyv2IeAeSiAwWPEZvSjfjOm16IRjEPiMXozAJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDY2/ODU2LTE2MzMzNDYx/NTgtNzk5OS5qcGVn.jpeg) | 2021-05-14 | Leroy | dariacore |
+| 72 | ![Cover](https://i.discogs.com/JgroldmhfQYMrYVg1KvZxKdfXIQDkmjfis4-kx2XuXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDg3/OTAyLTE2MzA1OTY5/NDgtNzY3Ny5qcGVn.jpeg) | 2021-09-01 | Bape Fiends | Bape Fiends Presents Bape Fiends |
+| 60 | ![Cover](https://i.discogs.com/Ad0tcDITPUy_2Uoq_f_XAV3JQULpramOUmKfegTzYX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTIz/NTk4LTE2NzQ5OTYw/NjMtODYzOS5qcGVn.jpeg) | 2022-11-19 | takahiro(FKS) | emotionless |
+| 66 |  |  | ADSD | x |
+| 71 | ![Cover](https://i.discogs.com/lhR2O46eeaREy-bfcD_U6Zf8kvdjQYwdbFt9JHXinec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTI1/NzgtMTM5NjM1NTY4/MC0yODgwLmpwZWc.jpeg) | 2014-03-31 | Alvaro | STUFF |
+| 98 |  | 2021-09-08 | c0ncernn | dariacore 2: enter here, hell to the left |
+| 78 | ![Cover](https://i.discogs.com/tg30KNPx3-qVAJjBpFmKKJVbE0uOyRLInyUYEpphOeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjI3/Nzk5LTE2NDUzMTM0/NjYtMTA2My5qcGVn.jpeg) | 2022-02-17 | swimswim | INTER-DIMENSIONAL DISSOCIATION |
+| 96 | ![Cover](https://i.discogs.com/1EHMTvKRc65HT9FZ2rEFp4CLDjdjt-jEhE6DQ0Bm_BE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDA2/NzMzLTE3MTMyMDA3/NDEtOTMwNy5qcGVn.jpeg) | 2022-04-07 | tdstr | internet brainrot |
+| 2 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 2023 | Various Artists | Remixes For Butthurt |
+| 28 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2023 | Various Artists | Absolute Dansband 3000 |
+| 58 |  | 2023 | Various Artists | Dance Corps 3 - What Is Dancecore? |
+| 6 | ![Cover](https://i.discogs.com/hf5EV87hGortpzJIYk7iWo4vsEC8v-wc__Wb_4U_irk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTMz/MzY4LTE2NzY2NDYx/MTctMjU0Ni5qcGVn.jpeg) | 2023-02-17 | QIREXX &amp; slippymudman | THINGS WE FOUND ON THE DARK WEB |
+| 7 |  |  | sabi, かたぎり | KEMOMIMI EDM SQUAD |
+| 46 | ![Cover](https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg) | 2023 | Various Artists | Dance Corps 2 - Hyperhappyhardcore |
+| 31 | ![Cover](https://i.discogs.com/QgT0kYpJ7Q9_kqYNNKibul60RidEmfuuuB6p3HdBY7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYz/OTYxLTE2ODIzMjUw/NDItMzMwNy5qcGVn.jpeg) | 2023-04-21 | daisyxkneesocks | jungle juice ♡ |
+| 52 | ![Cover](https://i.discogs.com/MmZ616SiN5eQDPTc77ROPdVwSIcANdtRmhrajASgz6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTIz/NTMwLTE2OTY2ODQ4/NDItMzgyMi5qcGVn.jpeg) | 2023-10-06 | riphyaku | rated N for nobody |
+| 22 | ![Cover](https://i.discogs.com/ZNdpsOsDRQbi9jDmdCXTr8Ci3KWSYyCXxcRtwAJmnsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDc4/ODgwLTE3MDUxNzc2/MDItNTEyOC5qcGVn.jpeg) | 2023-12-25 | unlucky wind | unlucky wind sampler vol. 1 |
+| 25 |  |  | miso-nicomi records | BACK 2 BxCx |
+| 38 |  |  | T€∆M M£K4NØ | 𝙲𝚕𝚊𝚜𝚜𝚒𝚌_𝙿𝚛𝚘𝚓𝚎𝚌𝚝_𝟸000.𝟹𝚐𝚙 |
+| 81 |  |  | ADSD | FEAROFTHEVOID |
+| 87 |  |  | bludwalk | Dariacore 2 |
+| 95 |  |  | BRN1NG BRAIN SOUND INDUSTRIES | Breakcore Is Not a Good Way to Get Laid |
+| 26 |  | 2023 | Various Artists | Casketkrusher&#x2F;NeroshaTE&#x2F;SekjeT Split |
+| 50 |  | 2023 | Various Artists | The Worst Compilation: Fourth Wave |
+
+### Related genres
+
+- [breakcore]({{ "/tags/breakcore" | relative_url }})
+- [dancecore]({{ "/tags/dancecore" | relative_url }})
+- [speedcore]({{ "/tags/speedcore" | relative_url }})
+- [gabber]({{ "/tags/gabber" | relative_url }})
+- [hardcore]({{ "/tags/hardcore" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [mashup]({{ "/tags/mashup" | relative_url }})
+- [noise]({{ "/tags/noise" | relative_url }})
+- [idm]({{ "/tags/idm" | relative_url }})
+- [rave]({{ "/tags/rave" | relative_url }})

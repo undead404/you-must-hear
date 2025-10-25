@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T11:37:13.394Z
+permalink: tags/serbia
+title: serbia
+---
+
+## serbia
+
+Last updated: <time datetime="2025-10-22T11:37:13.394Z">Wed Oct 22 2025 14:37:13 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 8 |  |  | Siempre Peligroso | Razor |
+| 10 |  |  | Splins | EP + Basement Tapes |
+| 13 |  |  | Blehmuzika | Svetozar Lazovic |
+| 14 |  |  | Neuspeh | Povracanje proslosti |
+| 20 |  |  | jetra | Zapisi iz podzemlja |
+| 29 |  |  | JAYUS JAZZ | Trial &amp; Error |
+| 32 |  |  | elmnt | Stara-Nova |
+| 40 |  |  | Goran Aleksic | Evil clown |
+| 47 |  |  | EJO | Ptica |
+| 51 |  |  | Orkestar Sesnaesta | Sesnaesta Krajiska |
+| 52 |  |  | Black Ark Crew | Jam Session |
+| 62 | ![Cover](https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg) | 1972 | Various Artists | V.A. - Fusion Mutation |
+| 56 | ![Cover](https://i.discogs.com/e47lblA7pcTm706RD0y-V6_J0CL0jDDGlQETbtWc-Jg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk1/MzMtMTIxMzYwMTc3/MS5qcGVn.jpeg) | 1976-03-26 | Dejan Petković | Povratak |
+| 5 |  | 1977 | Various Artists | Beovizija 2008 |
+| 6 |  | 1977 | Various Artists | Beosong 2013 |
+| 91 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1977 | Various Artists | Beovizija 2020 |
+| 39 | ![Cover](https://i.discogs.com/VZvh35rq0F0ihwiiojLLxD1vdYlAHF70qR-E75F4aUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg1/MzAtMTI5MTkzMDkx/OS5qcGVn.jpeg) | 1980 | TRUBACI | trubaci |
+| 4 | ![Cover](https://i.discogs.com/OjXBMVVzwmmn1LiNIA9-k9eUtC8xjITVhKObSMx9Wvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTI0/MC0xMTc4NTI3NTEy/LmpwZWc.jpeg) | 1983 | Via Talas | Demo Top 10 Ventilator 202 Vol.1 |
+| 2 | ![Cover](https://i.discogs.com/lzxZiDFar1nC-zZpWOZMTMmFskj961i02eIP99r7jdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY3/MDEtMTQzNDIyOTQ1/My0xNzc4LmpwZWc.jpeg) | 1985 | Numero | Srećno |
+| 16 | ![Cover](https://i.discogs.com/Vr2fATnEMAvbfEm1z9xdgEU_pskOLT2F6vC0DXXJQEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzg0/MDItMTQyNDQ1Mjk0/OS0yOTM1LmpwZWc.jpeg) | 1989 | Svetozar Lazovic | Zlatne Trube Guce |
+| 12 | ![Cover](https://i.discogs.com/eWiCGS13Cp5X2bmPQG-dNAhV_uSUQcvKn44zeYMV8k0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ4/MzM0LTE1NzQ3MTM3/NzMtMzMzNy5qcGVn.jpeg) | 1990 | Orkestar Svetozara Lazovica | Najbolje trube Srbije |
+| 15 | ![Cover](https://i.discogs.com/ZZT6glgXlRvXG6lmyspyIa5Q_JqYhaRfwPB45EjnOdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzQz/Mzg3LTE2MDk1ODIw/MTYtMTUxMy5qcGVn.jpeg) | 1991 | Milan Petrovic | Excursion |
+| 75 | ![Cover](https://i.discogs.com/K60Vo-zkwJpLU40Jy725TSZyPbmKEoyhj4blEFtV4Ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTUz/NzQtMTI1ODY1OTM5/NS5qcGVn.jpeg) | 1992 | Bloodbath | Traumatic Memories |
+| 21 | ![Cover](https://i.discogs.com/5nefiXj2-xLa32iqDg4rFEYLCqafSQPC9YuAHtiz43k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzQ0/Ny0xMTkxNDE1NzM1/LmpwZWc.jpeg) | 1995 | Prisoner | The Upcoming Devastation |
+| 7 | ![Cover](https://i.discogs.com/PDYjXk3F2BtbXA71r4sC5kITeSZWUrcxCvs32UXtK1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTUy/NzMtMTM0MzA3MDEw/My00ODQ3LmpwZWc.jpeg) | 1996 | Tongue | Who Fired The Workers Of Happiness Factory ? |
+| 61 | ![Cover](https://i.discogs.com/0v82RFfgZx6n9G0WOgCk5f6vOQqTTFlcBP7vOe4Cr7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTk5/My0xNTgyMDYwNzcy/LTI0NDUuanBlZw.jpeg) | 1996 | Bs | Najbolje |
+| 96 | ![Cover](https://i.discogs.com/teQFrAWA_QdA01fMry9aGUTkIlSGf5h6F97NS5NWuNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxODg4/MS0xMTc5MDg3MTcy/LmpwZWc.jpeg) | 1996 | Darkwood Dub | U Nedogled |
+| 99 |  | 1999 | Darkwood Dub | Elektro Pionir |
+| 26 | ![Cover](https://i.discogs.com/kFo4VRUzh8JoOQKldCVbtZMZKBaFj5G6AzgE4mvoLY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDg5/ODctMTQzNjIwNDcz/Ni05NDc0LmpwZWc.jpeg) | 2000 | Boban Markovic Orkestar | Srce Cigansko |
+| 65 | ![Cover](https://i.discogs.com/E82uA1haKcBv4TFQup4YwccTmjR8kwKUCH_wqcrmexU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjE3/NjEtMTYxMzQwMzEw/Mi02NDEwLmpwZWc.jpeg) | 2001 | Željko Joksimović | Vreteno |
+| 27 | ![Cover](https://i.discogs.com/EyzK66OHDD-Ch4lLN0Kfbtx8vtNihl14UymsmBq0FXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzc5/MTgtMTQwOTQ3Mjc5/NS0zMDkwLmpwZWc.jpeg) | 2002 | Bilja Krstić | Hand Made |
+| 100 | ![Cover](https://i.discogs.com/E9m8-_tczg0zbduiUGm5Q4dvSXWKltjywL9iNYgs_Yo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgw/NTE0LTE1NzEzNDk0/NzMtMjIwNy5qcGVn.jpeg) | 2002 | Slonovski Bal | Balkanska Rumba 2002 |
+| 48 |  | 2003 | Various Artists | Sabor trubaca Guca - Najlerse pesme |
+| 1 | ![Cover](https://i.discogs.com/nytWDWqGJ5kRgYCs9EUfwSH49DOUEu3h1Nq_BAr78rA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzA5/MDA0LTE2MzkyMjc5/OTYtMjk4My5wbmc.jpeg) | 2004 | Svetozar Lazovic | Trubaci-20 Legendarnih Kola |
+| 17 | ![Cover](https://i.discogs.com/nytWDWqGJ5kRgYCs9EUfwSH49DOUEu3h1Nq_BAr78rA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzA5/MDA0LTE2MzkyMjc5/OTYtMjk4My5wbmc.jpeg) | 2004 | Svetozar Lazovic | Stani , stani Ibar vodo |
+| 88 | ![Cover](https://i.discogs.com/Fy2hnqUZewWk_ITRifIa3c-klWWno4aRyCH2jv5ly-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzcw/NDYtMTMxMTEwNTQ3/OS5qcGVn.jpeg) | 2004-04-08 | Lira Vega | Lira Vega |
+| 45 | ![Cover](https://i.discogs.com/pAa59NgG4esVeHR2FiaQVGVEYcY6Kc8jDkPmgRYjvXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ3/MjAtMTY0MTQ0OTE3/OC04MDA5LmpwZWc.jpeg) | 2005 | Jelena Karleuša | Bankina |
+| 79 | ![Cover](https://i.discogs.com/nT1TYxPBisvU4E_LzZnh4LSrIfJx8JoskEEJ5-pGS2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzYz/OTEtMTQxMDQ0NDQ3/MS04OTg2LmpwZWc.jpeg) | 2006 | Infest | Anger Will Remain |
+| 38 | ![Cover](https://i.discogs.com/QKTy3miYtjNwHgDIiL-EdbcNuy1LWQnIAgT-NyBuJ1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDM4/ODktMTMzNzAyMjU3/MC01OTQ5LmpwZWc.jpeg) | 2007 | Duboka Ilegala | Untitled Album |
+| 95 |  | 2007 | Fishtank Ensemble | Samurai Over Serbia |
+| 86 |  | 2007-01-15 | Blame | Water |
+| 78 | ![Cover](https://i.discogs.com/jeIv_rJNyllDCCJQmQgxmco3geOxqB86mtu3LxiqyTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/NTMtMTI2NDEwMDUy/MC5qcGVn.jpeg) | 2009 | DAžD | Dažd |
+| 71 | ![Cover](https://i.discogs.com/BfRwCrg3ExC-fxaoLE0RvlVdnqf5-WnMuYRgAuNZ5r8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzM2/OTgtMTI0MzUwOTU4/OS5qcGVn.jpeg) | 2009-01-22 | Children Egoism | Eleven Axis |
+| 90 | ![Cover](https://i.discogs.com/8yqAni5R06gwjyKy_B-pEKnS9_C7OOccbsaiC72lRKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzY3/MDUtMTMxMDA0NDkz/Ni5qcGVn.jpeg) | 2010 | Zastranienie | Manifest za radio i TV |
+| 67 | ![Cover](https://i.discogs.com/Ck32puDuDiTIB4eDJaMhqIe0_486pUH5j_uTv_HEbJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDcy/NzAtMTI2NjU4MTY5/OC5qcGVn.jpeg) | 2010-02-18 | Children Egoism | Twelve |
+| 84 |  | 2010-03-19 | Pry | From Morph |
+| 59 | ![Cover](https://i.discogs.com/lc2woXTSStccbv1Rcea2MLphnDotNNdK-kj8NJElKKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mzkw/ODMtMTUyNjg0NjIw/My01Mjg5LmpwZWc.jpeg) | 2011 | Line Out | live album |
+| 81 | ![Cover](https://i.discogs.com/c1M3z9sre1XnbSV6ruyb5aoLOKH1f6d8A3T3plprdhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTIz/MTYtMTMxODE3NjQy/NS5qcGVn.jpeg) | 2011-08-25 | Infest | Everlasting Genocide |
+| 60 | ![Cover](https://i.discogs.com/HZ9fSuQUBk8jM2hihLjQuThxEFJRYV8vKojOlvZGF8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTQ2/NjQtMTMyMjUzMzkz/MC5qcGVn.jpeg) | 2011-11-28 | Stereolimit | Indikacije, kontraindikacije i neželjena dejstva |
+| 46 | ![Cover](https://i.discogs.com/rN-ki7Hcu_7xhq1mG8H81GJGo6nWJyVXkK8Sv7-ZxZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzUw/OTgtMTMyMzQ3ODk4/NC5qcGVn.jpeg) | 2011-12-09 | PLASTIC SUNDAY | Razum trazi razloge |
+| 50 | ![Cover](https://i.discogs.com/3zIbava000osGWXLxK8L8XWpxCa55-pK-oeORyDW6xg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM4/NDY4LTE1NjAwOTEz/OTctNTU2NC5qcGVn.jpeg) | 2011-12-11 | Violent Chapter | Inverse Midas |
+| 73 | ![Cover](https://i.discogs.com/zO1P8M2Sw9jLe9oVp1daZkXyorKI8Siz8YHH0AKktxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTEy/OTktMTQ2MDcxNjk3/MS02NjM5LmpwZWc.jpeg) | 2012-01-29 | Testet ölt | Untitled |
+| 9 | ![Cover](https://i.discogs.com/xq6VRnhxs87JBXSgOnbzJIBsHC14AdgILdYAVO2UArk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzcy/NDAtMTM1NjU1MDQ5/My04MDM0LmpwZWc.jpeg) | 2012-12-24 | Neonska Reklama | Od svega samo aut |
+| 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6b63a798b9624fa29a6d0d87e2d88e8c.png) | 2012-12-28 | Technicolor Lies | Eclectic Youth |
+| 49 | ![Cover](https://i.discogs.com/zN3eMeNUNwmx0ReXCwaY0e6Z1wJxPCDqc6MhugqMd0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NjA4/NTMtMTQwNDczMTM3/OC03OTc1LmpwZWc.jpeg) | 2013 | Horror Piknik | Speed Metal Je Živ |
+| 33 | ![Cover](https://i.discogs.com/V1e7Idg2gQW0Atvqyj4_LYkiaWxsqh7OjrvW2miN68c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDM5/ODM3LTE1ODU4NjYx/NzgtMzYxMS5qcGVn.jpeg) | 2014-01-07 | mother beth vs blondie | nihil ex nihilo |
+| 58 | ![Cover](https://i.discogs.com/cZ1Pft6uFLw_AxEpoXLfXNP4Z12JL5p6vC4TYjJ8bEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDMw/NjctMTQwMTQyODQ3/MS03OTQ1LmpwZWc.jpeg) | 2014-05-29 | Anguish Sublime | Unveiling the Origin |
+| 31 |  | 2015 | Jovana Nikolić | Najbolja |
+| 42 | ![Cover](https://i.discogs.com/FSFKZH9DC4BUZmNHNVbbrsliogoFQ7la9n50pi2MKvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Njkw/NzMtMTQ2MjIwOTcw/Mi01MDMxLmpwZWc.jpeg) | 2015 | Enemy Inside | One More Time |
+| 44 | ![Cover](https://i.discogs.com/TAHf0w3PU6nYvgo9aWxWYY1FXTsE8sb1joIIKflvm60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Njgx/MDUtMTQ2MjE5Njg1/Ni00OTQyLmpwZWc.jpeg) | 2015 | Northern Revival | Life Survival Tips |
+| 11 |  | 2015-03-25 | Andreana Čekić | Kraljica U Zlatu |
+| 53 | ![Cover](https://i.discogs.com/hyo5LywNGzeeYrCKbAF_SY-fIt2jyGSS5Ic-lm16cCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDg1/NDgtMTQ2OTU0MjQz/MC03OTQyLmpwZWc.jpeg) | 2015-07-01 | Claymorean | Demo 2014 |
+| 35 | ![Cover](https://i.discogs.com/YA9BUfggdU_hh_d-JwEamFwi4ZPAsIkuNP5ljdXnRHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDU2/NTEtMTM1OTU3ODM1/My04ODgyLmpwZWc.jpeg) | 2016-10-27 | Beogradski Sindikat | Oni su EP |
+| 36 | ![Cover](https://i.discogs.com/xSWcBkmkAnlRJpYF-1_hhqEjZsQddbJ13ltCnImtC1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ3/NDEwLTE1ODQ1NTU3/NDEtNjM0Ny5qcGVn.jpeg) | 2017-01-16 | Kaya | Ona Nekad |
+| 30 | ![Cover](https://i.discogs.com/2-LCRlieOU4adVKzrAE3GqQzTvU89Rnd6dtBbmUhG0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzQ1/NzQtMTQ5MTY0Nzg1/Ni0zOTE0LmpwZWc.jpeg) | 2017-03-06 | Marina Visković | Bensedini |
+| 54 |  |  | Cordovero | BALKAN BEAT EXPERIENCE |
+| 55 | ![Cover](https://i.discogs.com/CD8DoGufaqyVCOwtKqNkI2DxibQ0bgKeaY6310KrhAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM1/NTEtMTQ2MzUxNzE5/NC02NDgyLmpwZWc.jpeg) | 2012 | Drum&#39;n&#39;zez | Mi smo u parku |
+| 63 | ![Cover](https://i.discogs.com/-ZuUeFSSTlpGYaAsMD3eYaNCvjJ9orsLtAVG7Romlzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mjgy/MjItMTM3OTY5NzQy/Mi04MDcyLmpwZWc.jpeg) | 2013-09-20 | Sweeper | Anamneza |
+| 69 | ![Cover](https://i.discogs.com/jwzf2RV_OTEIq6gKuPNsbsguOzPUPeYR_ak-VlHCMwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjI2/NjgtMTQ0NzQ0NzE4/My00MjE5LmpwZWc.jpeg) | 2015-11-15 | Zloslut | U Transu Sa Nepoznatim Siluetama |
+| 82 | ![Cover](https://i.discogs.com/BTGK-d_wlV8KCaNUTvIk7H4uTGTOXrTYjSE7eda6bWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTcx/MDktMTQ4MzYyODQ4/NC0zODY4LmpwZWc.jpeg) | 2016 | Aleksandra Radović | Carstvo |
+| 98 | ![Cover](https://i.discogs.com/hIjE5y_jhiMaMghtAaIRk9ji5aeAZ81eSC2ni7qwQwQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTE0/NTktMTQ3NjczMTEy/Ny05MDY4LmpwZWc.jpeg) | 2016-10-18 | Repetitor | Gde ćeš |
+| 94 | ![Cover](https://i.discogs.com/YRqqgyVnRa55263DP698FlPo4dnqZbZCqQA17MssLrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODM2/NDktMTQ4MjI5MTU2/NS0xMDA5LmpwZWc.jpeg) | 2016-12-10 | Jelena Rozga | Moderna Žena |
+| 85 | ![Cover](https://i.discogs.com/zfj3UIUAa0CpRyZ-s6qK6if-DtUjf-5xsYgoXigOVqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODA1/ODQwLTE2NDI2MTg1/MzgtODIxOC5qcGVn.jpeg) | 2017 | Smoke Mardeljano | Ja Repujem |
+| 68 | ![Cover](https://i.discogs.com/DVDoOmxxera--cj456a-viZ1j0w0UQYM5ZM4PYQ29h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Njk5/NzYtMTYwOTE3OTQw/Mi0xODIxLmpwZWc.jpeg) | 2017-01-15 | All My Sins | Lunar &#x2F; Solar |
+| 57 | ![Cover](https://i.discogs.com/y-RYKZxV1zv1dzFwl1Lx2oWJkqaugaKhXMxQwZQrgWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQy/NTczLTE0OTk1NjAx/MzktNTE1Ny5qcGVn.jpeg) | 2017-06-12 | Dusan Jevtovic | No Answer |
+| 3 | ![Cover](https://i.discogs.com/LGWDb0KywOeJ3OHN9lLrDnxgSBqpcUGdGlkmfzcGdd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE1/MTA1LTE1MjMyOTk3/NDEtNTYzNC5qcGVn.jpeg) | 2018 | Nikolov-Ivanovic Undectet | Artistry in Broken Rhythm |
+| 19 | ![Cover](https://i.discogs.com/HKDm4XaoZDRwAtfvQyMUT0IXAZ6DjdFvieZpRWhxWpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTE0/ODU5LTE2NTgwODAw/MzQtNDgxNi5qcGVn.jpeg) | 2018 | Fish In Oil | Sve će biti u najboljem redu |
+| 23 | ![Cover](https://i.discogs.com/AOk8mL1E5iL27gb5qmMXWcTzoZulNQcf0UtrUWfx75Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM2/Nzc3LTE1MTk4MjI3/MDItNDgyOC5qcGVn.jpeg) | 2018 | Dusan Jevtovic | Live At Home |
+| 28 | ![Cover](https://i.discogs.com/2QPgNWhXoeBXxlgKfyXu3Nd0KWPMhPNuSfDNvxm5StE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjA4/MTA0LTE2MjQxODUy/MjAtNTU5MS5qcGVn.jpeg) | 2018-08-05 | Igor Simić | Dve Vatre |
+| 80 | ![Cover](https://i.discogs.com/6jm5Bj-yBQq8ppcpyi1LQzOjObLzsSERa5RYU8Gl-LQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU4/NzUyLTE1Mzc2MDQy/MTEtOTU5NC5qcGVn.jpeg) | 2018-09-23 | All My Sins | Pra Sila - Vukov Totem |
+| 25 | ![Cover](https://i.discogs.com/GqEmPnK9PwDC8fLNvlI-s1pDsZP4OVYfUl1940qulQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTcw/MDQwLTE1NjUxNjc4/MzYtNTg5MC5qcGVn.jpeg) | 2019 | Boban Markovic Orkestar | Srce cigansko |
+| 83 | ![Cover](https://i.discogs.com/FE16Z5gorJtju93t3-ps8iQ2cWHziV9P2fywWsHZ1-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODc2/NTQ5LTE1NjMxMDg3/NDUtMTM2NS5qcGVn.jpeg) | 2019-01-25 | Elon | Nikad Satisfied |
+| 34 | ![Cover](https://i.discogs.com/2-B8TDz4QnzNz0Dji7rWuocs3qOW84ScryPYwiYHKfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk0/MjE0LTE1Njg1Njc1/NjMtODI2OS5qcGVn.jpeg) | 2019-04-26 | Ana Stanić | Izgubljeno proleće |
+| 93 | ![Cover](https://i.discogs.com/STW0Xg-Z-ADLpGx7JfwEat_xANmovmyCOi1t6iOQkA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI2/MzE2LTE1NjE5OTAx/MzUtODE2OS5qcGVn.jpeg) | 2019-07-01 | Zicer Inc. | Najbolji svet |
+| 24 | ![Cover](https://i.discogs.com/RwBVJrdBoP2ekWz71LWtXXogPcFrC6vyDskU3odfPu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODUy/MzMzLTE1ODI4Mjk2/MzMtOTc3MC5qcGVn.jpeg) | 2019-12-05 | Bosque | Escape from Urumchi |
+| 77 | ![Cover](https://i.discogs.com/1fs5GR998l6p5OqloSTyF2Z5Clq-n7o-_Mf1Ebakc2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI1/NjIwLTE1Nzg0MjQ2/MTAtOTcxOC5qcGVn.jpeg) | 2019-12-21 | Shogun&#39;s Castle | The Eight Noble Virtues of a Samurai |
+| 92 | ![Cover](https://i.discogs.com/x4TI9TbYbPrJ96BqZBKY3FnugsmXoQ3jVdIDfSmg1lM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAw/MDk1LTE1Nzk5MDEy/NzEtNDM2My5qcGVn.jpeg) | 2020-01-23 | Sandra Afrika | Devojka Tvog Druga |
+| 41 | ![Cover](https://i.discogs.com/2xKCNzYfmIcVVfuQrJC-uWAYF9blJaokazzJkvJhuOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjM5/NzM5LTE2MjA0NzAx/MTEtNjIwMi5qcGVn.jpeg) | 2020-03-20 | the Root out | n&#x2F;a |
+| 74 | ![Cover](https://i.discogs.com/uYQwxFypG6yCi9gWx_uDHHAO2DOsM6Z9eWsPdx0cYFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDE5/MDEzLTE1ODU1Nzk5/NzYtNDYwOC5qcGVn.jpeg) | 2020-03-20 | Shogun&#39;s Castle | The Ancient Arts of Self-Discipline |
+| 76 | ![Cover](https://i.discogs.com/UJTAyNzuUjJYLr0wDGEQbdEZVu5toCX1GsXAaKRzuMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjA5/OTgtMTQ1MDM2ODk4/MS01NDgyLmpwZWc.jpeg) | 2020-10-11 | Indira Radić | Niko nije savršen |
+| 97 | ![Cover](https://i.discogs.com/B_ufsErDA3QblNo-2jYiV6XedS10xbWDEpnt112YbRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMz/MjMwLTE2NjgxOTY4/NjEtMTYwMS5qcGVn.jpeg) | 2020-12-24 | Monasterium Imperi | Dark Litanies of Terra |
+| 87 | ![Cover](https://i.discogs.com/B0MaSqgqmIp7MyJU6X_zAo7cB08i-KZ9TVBjJ9gKVj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjA5/NjIzLTE2Mzg1MjY5/NDgtMjY5NS5qcGVn.jpeg) | 2021-03-02 | Monasterium Imperi | Chants of Liberation |
+| 89 | ![Cover](https://i.discogs.com/wDW3HFXZGpW1VFCLRnrelLiObNX3jYlW-ke7ZFVv3TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTgw/NDI1LTE2NDM3MjQy/OTctNzIzNS5qcGVn.jpeg) | 2021-08-27 | Fantom | Noćne priče |
+| 22 | ![Cover](https://i.discogs.com/63y2HtX2xxMvhFGJwtHUP0VxPiq41OEnaerjaD9Iins/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjEx/NTEtMTM4NjE2Mjg3/My05MTY3LmpwZWc.jpeg) | 2022-05-19 | Ponor | Down the Blade, Down the Spiral |
+| 18 |  | 2023 | Various Artists | Winners of Guca trumpet festival - 50 years |
+| 64 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2023 | Various Artists | Pesma za Evroviziju 2022 |
+| 66 | ![Cover](https://i.discogs.com/mZhEZHoLMqn2wc_j1edhyMzn4vr2Z2X_toDe6qtNezo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIx/MzY5LTE1NzYyNTc1/NDctNDAzNS5qcGVn.jpeg) | 2023 | Gary Brunton | Second Trip |
+| 37 | ![Cover](https://i.discogs.com/tKj551Z7j8LqzCQXHPAmngByU7KKDUH65z5phTXOr3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzIx/MjMxLTE2NzgwODUy/MzYtNzQzOS5qcGVn.jpeg) | 2023-03-05 | Igor Simić | Sve ili ništa |
+| 72 | ![Cover](https://i.discogs.com/Oe56el5Ok9YMrjeG2qu6ni-3F6UBEKlneiX9CvXCnuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODc5/NjYtMTQ3MjgyODA5/Ny04ODYzLmpwZWc.jpeg) | 2023-04-14 | Šakal | Jav, Prav, Nav |
+| 43 | ![Cover](https://i.discogs.com/bFkOOmzqdnUZuUBAM6DSlgS3SsxP8dErpselB_TIBcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzY0/MTc3LTE1ODExNTkx/ODAtNTQ1OS5qcGVn.jpeg) | 2024-08-16 | Nikolov-Ivanovic Undectet | Frame and Curiosity |
+
+### Related genres
+
+- [balkan]({{ "/tags/balkan" | relative_url }})
+- [serbian]({{ "/tags/serbian" | relative_url }})
+- [folk]({{ "/tags/folk" | relative_url }})
+- [brass]({{ "/tags/brass" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [europe]({{ "/tags/europe" | relative_url }})

@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-20T09:43:26.425Z
+permalink: tags/indian
+title: indian
+---
+
+## indian
+
+Last updated: <time datetime="2025-10-20T09:43:26.425Z">Mon Oct 20 2025 12:43:26 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 2 |  |  | Shivkumar Sharma &amp; Zakir Hussain | The Flow Of Time |
+| 51 |  |  | A. R. Rahman | Slumdog Millionaire (Music From The Motion Picture) |
+| 71 | ![Cover](https://i.discogs.com/8M6cPjlIFW9HhP5Aiu7fjfXcJ5LQTVj51jFD5-rn2I4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTQ5/Mi0xNTY4Mzk1MTc3/LTY4NjEuanBlZw.jpeg) | 1970-04 | Ananda Shankar | A Life In Music |
+| 80 |  |  | Dylan Singh | Leaving Glevum Behind |
+| 94 |  | 1958 | Ravi Shankar | The Sounds of India |
+| 60 | ![Cover](https://i.discogs.com/YBB5TYwesjOdVvdTdOb-kVbBkvqgyLbBTIijJW-rDBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODI5/OTYtMTU1OTM4OTI0/My0zNjk5LmpwZWc.jpeg) | 1972 | Amjad Ali Khan | Maestro&#39;s Choice - Amjad Ali Khan |
+| 89 | ![Cover](https://i.discogs.com/tEbADNpnlzDd2H9fjOdAa5WusxMdC70aadbXPRmfN9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQx/OS0xNTIwMjU5MDYx/LTUyMzUuanBlZw.jpeg) | 1987-05 | Zakir Hussain | Making Music |
+| 76 | ![Cover](https://i.discogs.com/jXIuqEpkKB2k5y7dm1PET11iDMLI8doVXyqO_ZvF4Ng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTQ1/MjgtMTUyMTM0MTkz/Mi0xNzUyLmpwZWc.jpeg) | 1990 | Ali Akbar Khan | Traditional Music of India |
+| 57 |  | 1990-05 | Shankar | Pancha Nadai Pallavi |
+| 68 |  |  | A R Rahman ft. Alka Yagnik &amp; Ila Arun | Slumdog Millionaire Soundtrack |
+| 69 |  |  | Shivkumar Sharma | Raga Bhopali |
+| 41 | ![Cover](https://i.discogs.com/O8KKrocvXa1cmhPg9--ZUVPKHPe9F1MuBdnUujWiRSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODA4/NDA2LTE1NDIzNjcx/NjQtODEzOC5qcGVn.jpeg) | 1967 | Ravi Shankar | Live At The Monterey International Pop Festival |
+| 8 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1977 | Various Artists | Desi Nation |
+| 20 | ![Cover](https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg) | 1977 | Various Artists | Sholay |
+| 35 |  | 1977 | Various Artists | Asian Groove |
+| 36 | ![Cover](https://i.discogs.com/wyakkor6vBKrclDY6Wfrb3eo2LS22TUBwB2xZ_hrBBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDc0/MzUtMTUxNTU5OTQ3/NC02Mzc1LmpwZWc.jpeg) | 1980 | Ravi Shankar | The Spirit of India |
+| 40 | ![Cover](https://i.discogs.com/iEyetPmEDb1Jpt14zaGYnQHCL1gZnvcnd2bNwB9EPQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDkz/MzEtMTM0Njc5MDQ0/NS01OTAwLmpwZWc.jpeg) | 1983 | Ananda Shankar | Snow Flower |
+| 10 |  | 1984 | Sheila Chandra | Quiet |
+| 30 | ![Cover](https://i.discogs.com/WgFMtMcspIuXRUC3jMvPizJSZ9G9ljmBe6TqjF37Dr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjk5/MTUxLTE2NTMwOTc3/NTctNTQ1Mi5qcGVn.jpeg) | 1986 | Bhimsen Joshi | Sur Saaz aur Taal - Volume 1 |
+| 6 | ![Cover](https://i.discogs.com/fl-mWkFCXZ1OmULygaRb502qVRVGABA4UQ1gTOpw4Cc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM4/NDczLTE1MTI0OTc0/MjMtNDE1NC5qcGVn.jpeg) | 1988 | Nikhil Banerjee | Manomanjari, Berkeley 1968 |
+| 29 | ![Cover](https://i.discogs.com/eq9U79QCBGUsFnGor2lVc2XzNnwaGBiDOoqfiMIkYS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzY4/OTUtMTM2NTk2Mzcz/MC00MjU0LmpwZWc.jpeg) | 1988 | Ravi Shankar | Spirit of India |
+| 9 | ![Cover](https://i.discogs.com/fmN8bAodgHasTmvMC7EAWMNT24_KrXnZndqkGD9iV04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODI4/ODctMTUwNDAwOTEw/MS04OTgwLmpwZWc.jpeg) | 1990 | Amjad Ali Khan | The Best Of Amjad Ali Khan |
+| 16 | ![Cover](https://i.discogs.com/GO1L6S7nzOYwi706qiY1D3pK9EK4oUOj69dJnEqHzTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDEz/NzQtMTQwMDMzMzQz/OC02MjU1LmpwZWc.jpeg) | 1990 | Ali Akbar Khan | Then and Now |
+| 14 | ![Cover](https://i.discogs.com/3qwXo-bi7S6Et6f9TBTuP7swZy1uL0oyBf5-lqWLcTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjMx/MTctMTI3MTc4NjM2/MC5qcGVn.jpeg) | 1991 | Bally Sagoo | Star Crazy |
+| 61 | ![Cover](https://i.discogs.com/tiY-PJom9UXkUpmL05BJCKjxThmU90fexISjYzrqp5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjE5/MzQtMTMwMTcyMjI5/OC5qcGVn.jpeg) | 1991 | Ravi Shankar | Maestro&#39;s Choice - Ravi Shankar |
+| 12 | ![Cover](https://i.discogs.com/NtddclyUuVtPSuU_s8BholqzLNjkpqBlFO0477PQfu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Nzcy/MDUtMTQ0MjI2MzQ5/OC04MTkxLmpwZWc.jpeg) | 1992 | Shruti Sadolikar | Raga Miyan-ki-Todi &#x2F; Raga Bibhas &#x2F; Raga Bhairavi |
+| 95 |  | 1992-04-10 | Sheila Chandra | Weaving My Ancestors&#39; Voices |
+| 47 |  | 1992-08 | Jagjit Singh | In Search |
+| 26 |  | 1993 | Ry Cooder &amp; V.M. Bhatt | A Meeting by the River |
+| 15 | ![Cover](https://i.discogs.com/7lUt5ikDq8ZI8j_eSIp_rmj2np4vrwTd9jn_zDS4-wY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Njkw/MzQtMTM5NDE0NTU4/Mi0xODU3LmpwZWc.jpeg) | 1994 | Ali Akbar Khan | Morning Visions |
+| 88 | ![Cover](https://i.discogs.com/4_w0ky9msoUhsrDeOIV1uFR5g6E5D8-QiLLBNTmbZJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY2/MTMtMTMyNTE1ODg1/OC5qcGVn.jpeg) | 1994 | Sacred Spirit | Indian&#39;s Sacred Spirit |
+| 39 | ![Cover](https://i.discogs.com/T-SkaRIDCq9VJaWQFgMMOdMUYr-LYpcoY57epTdA0Ww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzcx/MDktMTIyOTcwMzM3/Ny5qcGVn.jpeg) | 1994-06 | U. Srinivas | Rama Sreerama |
+| 11 |  | 1995 | Makyo | Rasa Bhava |
+| 17 |  | 1995 | Robert Rich &amp; Lisa Moskow | Yearning |
+| 99 | ![Cover](https://i.discogs.com/5Y_abV-tsW3CM43HYvaRv71L7YCYN4eNE9iooJZnpnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTk2/OTctMTQ2Njg3MDgz/OS04NzA1LmpwZWc.jpeg) | 1995 | A.R. Rahman | Slumdog Millionaire Soundtrack |
+| 67 | ![Cover](https://i.discogs.com/jpbA06avWwM2IQ3ry6SsdLq9QC8WuRq4wnIgj6QRu5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzQz/ODMtMTQ1NTc5NDM4/Mi05NjM3LmpwZWc.jpeg) | 1996 | Ali Akbar Khan | Legacy |
+| 86 | ![Cover](https://i.discogs.com/Vm_f-8Y3cRxn-rW0UTqvNfHKnnvpB3rIbKLFwZxuSVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTI5/ODA2LTE1NjgzODU4/MjktNzM3MS5qcGVn.jpeg) | 1996-11 | A.R. Rahman | Slumdog Millionaire |
+| 72 | ![Cover](https://i.discogs.com/Q9zKMr7k-nWi18qTi7B8e7xDJfhdFehPlZ9J9tWXqUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzE3/Mi0xNjY0NjI0MTk0/LTQzMTIuanBlZw.jpeg) | 1996-11-05 | Bally Sagoo | Rising From the East |
+| 31 |  | 1997-02-27 | Daler Mehndi | Ho Jayegi Balle Balle |
+| 58 |  | 1997-09-23 | Ghazal | Lost Songs Of The Silk Road |
+| 33 | ![Cover](https://i.discogs.com/h_QmqDxcvqAVu8s5zM9jDbgiL6m9MmAL5GExw0UBGVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/MzE0LTE1ODI2NTE3/ODQtNTE5MS5wbmc.jpeg) | 1997-10-21 | Sur Sudha | Images of Nepal |
+| 56 |  | 1998 | Talvin Singh | OK |
+| 81 | ![Cover](https://i.discogs.com/xbXWf0ZGtacP2yPHaId88S6_HL0BGs892ELTUZH7rJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTMw/Ny0xMTY5MzIwNDc1/LmpwZWc.jpeg) | 1998 | Deepak Ram | Flute for Thought |
+| 100 |  | 1998-02-28 | Daler Mehndi | Tunak Tunak Tun |
+| 96 |  | 1998-09-15 | Ghazal | As Night Falls On The Silk Road |
+| 23 | ![Cover](https://i.discogs.com/KIX2BRl7zrA4WjeNrElUvAFgb7R9Z7NvLPpHEyhMcRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzc2/OTY4LTE1OTA1Mzg5/MjgtNDE2Ni5qcGVn.jpeg) | 1999 | Asha Bhosle | Barshar Gaan - Tagore&#x60;s Composition on Mansoon |
+| 73 |  | 1999 | L. Subramaniam | Global Fusion |
+| 91 |  | 1999 | Ravi Shankar &amp; Yehudi Menuhin | West Meets East: The Historic Shankar&#x2F;Menuhin Sessions |
+| 42 |  | 2000 | Lucky Ali | Aks |
+| 84 | ![Cover](https://i.discogs.com/isf5q2KI29C7lCugDu5YGQZgjRn8yCWU59kXLll0OPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDAx/NjItMTMxNTc0NDAz/OS5qcGVn.jpeg) | 2000 | Zakir Hussain | Music Of The Deserts |
+| 62 |  | 2000-08-15 | Anoushka Shankar | Anourag |
+| 5 |  | 2000-09-12 | Tabla Beat Science | Tala Matrix |
+| 4 |  | 2001 | Ravi Shankar | Bridges |
+| 7 |  | 2001-01-01 | Bally Jagpal | Untruly Yours |
+| 63 | ![Cover](https://i.discogs.com/vg1kpSFZZ7ECRBUf_g-aN3GbEnmYyFtXgid-GAr_-T4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjY0/NDc2LTE1ODg0MTE3/NjYtMzUzMi5qcGVn.jpeg) | 2003 | Dr. Zeus | Unda Da Influence |
+| 52 |  | 2003-09-01 | Anjali | The World Of Lady A |
+| 75 |  |  | HOYO-MiX | Genshin Impact - Forest of Jnana and Vidya (Original Game Soundtrack) |
+| 90 |  | 2003-09-20 | Shankar-Ehsaan-Loy | Kal Ho Naa Ho |
+| 59 |  | 2004 | Indian Ocean | Black Friday |
+| 82 |  | 2004 | Rabbi Shergill | Rabbi |
+| 70 |  | 2004-09-06 | Raghav | Storyteller |
+| 55 |  | 2004-12-07 | Bahramji &amp; Maneesh De Moor | Call of the Mystic |
+| 65 |  | 2005 | Jazzy B | Romeo |
+| 83 |  | 2007-01-01 | Anoushka Shankar &amp; Karsh Kale | Breathing Under Water |
+| 54 |  | 2009-03-31 | Midival Punditz | Hello Hello |
+| 64 |  |  | Shahid Parvez | Maestro&#39;s Choice |
+| 98 | ![Cover](https://i.discogs.com/SzYGAHwiYUhiXQnPtKNAafrg8n0AX5Gi-M0GDB5B36I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTY4/LTEyMjg4NDIxNDgu/anBlZw.jpeg) | 2001-03-14 | Talvin Singh | Ha |
+| 3 | ![Cover](https://i.discogs.com/O0CO2dkQYs-Hddz_w4j1BjIEkkoRRdHzyJo0ZgNJ8gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjMz/NDAtMTI1OTE0OTA2/NS5qcGVn.jpeg) | 2001-10-01 | Claude Chalhoub | Claude Chalhoub |
+| 22 |  | 2002 | dj Cheb i Sabbah | Krishna Lila |
+| 38 | ![Cover](https://i.discogs.com/jXIuqEpkKB2k5y7dm1PET11iDMLI8doVXyqO_ZvF4Ng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTQ1/MjgtMTUyMTM0MTkz/Mi0xNzUyLmpwZWc.jpeg) | 2002 | Ali Akbar Khan | Peerless |
+| 44 | ![Cover](https://i.discogs.com/19CMXffnBAabu58ppeE-ZJb-YgFtW3KwddVuUij325s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTkz/NDU3LTE1MTE2MTQ2/NjAtMjg1NS5qcGVn.jpeg) | 2002 | Ram Narayan | Sarangi |
+| 49 | ![Cover](https://i.discogs.com/k3IEzA1U9MFUhMfr3a5tiISduKBxZRvl4aNu_LNhClg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc3/NzgzLTE1MjIyMTc4/ODctNjU1NS5qcGVn.jpeg) | 2003 | Ali Akbar Khan | Swara Samrat |
+| 28 | ![Cover](https://i.discogs.com/rMXmDgSA9lhPHJii-gz0I9qeZeBrO-OT3-kNqgd3Ck4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDY3/OTAtMTM0ODkzNTYy/OC02NzU5LmpwZWc.jpeg) | 2004-05 | Sultan Khan | Sounds Of The Strings |
+| 24 |  | 2004-07-13 | Ravi Shankar | Homage to Mahatma Gandhi |
+| 1 | ![Cover](https://i.discogs.com/Xjc_XjJ5lgDlwK-Ifzj7jI6SOug3tJdMaJC7NV_G67E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc0/NTk0LTE1Mzk4MDg1/MDctNTYxOS5qcGVn.jpeg) | 2005 | Purbayan Chatterjee | New Horizons |
+| 25 | ![Cover](https://i.discogs.com/b7WOpUG656V93M7ApvtJ7EkQ_1L68exS6rlm4od5HyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjE1/OTYyLTE1MTIwNDcx/NjItNzk3NS5qcGVn.jpeg) | 2005 | Kushal Das | Lingering Emotions |
+| 18 |  | 2005-10-20 | Demonic Resurrection | A Darkness Descends |
+| 19 | ![Cover](https://i.discogs.com/dhKC6OEtI1qByWQLWffyRuzlROcpbTz4NKGwvRcb_Uk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTM4/MDktMTE4NDE4OTMx/MS5qcGVn.jpeg) | 2006 | Prem Joshua | Taranga (full) |
+| 21 | ![Cover](https://i.discogs.com/HT1AKSNLBl0ZszPvOmD8gkcZsGZ16joEsEljPt0wKig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTc2/NTE5LTE1NDkzODYz/MTEtMjgzMy5qcGVn.jpeg) | 2006 | Kartik Seshadri | Illuminations |
+| 37 | ![Cover](https://i.discogs.com/gKyqCoe11uVRDzmax_wh4O1VN1LxqL7m8EMnb85-bNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDY5/OTA2LTE2MzkzMTYw/MjYtODg2OS5qcGVn.jpeg) | 2006 | Kailash Kher | Kailaasa |
+| 46 |  | 2006 | Modus | The Colour of Love |
+| 13 | ![Cover](https://i.discogs.com/XpMkU5M1k05RGN2qDCkbzhsw1W0paPMU7MTJoBRFYmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA5/Nzk5LTE1ODU5NzA2/NDYtMzk5OS5qcGVn.jpeg) | 2007 | Raghu Dixit | Raghu Dixit |
+| 32 | ![Cover](https://i.discogs.com/WTAIXQN8YlfptfaUytihg6GjbKzeC0uknr2vObkF7tI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDcy/MTk5LTE0OTgxMzg0/NDItMjkyOC5qcGVn.jpeg) | 2007-05-05 | Indian Calling | Indian Calling |
+| 74 |  | 2007-11-20 | Govinda | Sound Sutras |
+| 45 | ![Cover](https://i.discogs.com/Gqg7naVykhp_zvoBT8osY7hCafTnKCtwxQFHM9sSikA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ4/MzktMTU1MTY1MTk2/OS05NDA4LmpwZWc.jpeg) | 2008 | Debashish Bhattacharya | Calcutta Chronicles: Indian Slide-Guitar Odyssey |
+| 34 |  | 2008-05-19 | Debashish Bhattacharya | Calcutta Chronicles: Indian Slide Guitar Odyssey |
+| 66 |  | 2008-06-08 | Pritam | Singh Is Kinng |
+| 97 |  | 2009-09-10 | A. R. Rahman | blue |
+| 92 | ![Cover](https://i.discogs.com/o-yiVMXr-Hoz_cAX9AOIqkqHIuxfuqPB_qI9-_CQCw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDUx/MjEtMTQzNzM0MzA4/MS0yODY4LmpwZWc.jpeg) | 2010 | Madlib | Beat Konducta Vol. 3 &amp; 4: In India |
+| 43 |  | 2010-09 | Ravi Shankar | The Very Best of Ravi Shankar |
+| 79 | ![Cover](https://i.discogs.com/gPJX3UHQ06StHYxV_wEnP7Emx9rLmlq-g8ZPnldm6qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjU1/OTItMTMzMzg5NTI2/My5qcGVn.jpeg) | 2011 | Anoushka Shankar | Breathing Under Water |
+| 48 | ![Cover](https://i.discogs.com/320AbwUFFSej7M9DqmolvQXBcjI8cHfeufvs47heWSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzE0/MTEtMTY0NDY5Njc2/My04NDc4LmpwZWc.jpeg) | 2012 | Priyanka Chopra | In My City |
+| 77 | ![Cover](https://i.discogs.com/-ZZvmyqnsNwryYDbI565_SKoL400azP1f2WeVNMQXrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzU1/NzEtMTM3MzgzMzQ2/OC04MjcwLmpwZWc.jpeg) | 2013-07-05 | Priyanka Chopra | Exotic |
+| 53 | ![Cover](https://i.discogs.com/gdn0W3z-2a52QgiYlVAN9usG6sI3oGCBOMr_4PHK0pQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDMz/MTctMTQ1MjEzMjU2/Mi04ODIzLmpwZWc.jpeg) | 2015 | Anoushka Shankar | Home |
+| 27 | ![Cover](https://i.discogs.com/iALg6SfHbBkWOi0kg7qjsJ2ImhEtvuz4IyNX3D911DI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzc5/NDU5LTE2NjU0MTA1/MjUtMTU2NS5wbmc.jpeg) | 2015-04 | A.R. Rahman | Bombay Dreams |
+| 50 | ![Cover](https://i.discogs.com/tn6cN7N0Ioe9XzOA-tEr1Q57bwu9L7FtprxZeoD1X5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI0/ODk5LTE0OTkyMTQ0/MjYtOTY5My5qcGVn.jpeg) | 2016-07-01 | A. R. Rahman | Slumdog Millionaire (Music From the Motion Picture) |
+| 78 | ![Cover](https://i.discogs.com/0iLaL3nX0EKMKEkof8WHjHJkhwUVblr5AcQkCN3xbyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjQ4/NDg3LTE2NDU0NTQ3/NDctNzA1MS5qcGVn.jpeg) | 2022-02-18 | bloodywood | Nu Delhi |
+| 87 | ![Cover](https://i.discogs.com/0iLaL3nX0EKMKEkof8WHjHJkhwUVblr5AcQkCN3xbyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjQ4/NDg3LTE2NDU0NTQ3/NDctNzA1MS5qcGVn.jpeg) | 2022-02-18 | bloodywood | Ari Ari |
+| 93 | ![Cover](https://i.discogs.com/bKJ4-eSEKToJwCCyB3oK5Os1_j-pwRZDfr3azBKFKiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjM0/NjIyLTE2MDg5Nzk5/NjEtNjY2My5qcGVn.jpeg) | 2023-04 | A.R. Rahman | Saathiya |
+| 85 | ![Cover](https://i.discogs.com/FSKraQULAXPiakoPgWm8dZi3gyhCU5_ZYu8Ww0baY0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjM0/MDA5LTE1MDUyMzI1/MDAtNzA5OC5qcGVn.jpeg) | 2023-11-07 | A.R. Rahman | O Kadhal Kanmani (Original Motion Picture Soundtrack) |
+
+### Related genres
+
+- [desi]({{ "/tags/desi" | relative_url }})
+- [bhangra]({{ "/tags/bhangra" | relative_url }})
+- [punjabi]({{ "/tags/punjabi" | relative_url }})
+- [punjabi bhangra]({{ "/tags/punjabi-bhangra" | relative_url }})
+- [world]({{ "/tags/world" | relative_url }})
+- [indian classical]({{ "/tags/indian-classical" | relative_url }})
+- [india]({{ "/tags/india" | relative_url }})
+- [punjabi folk]({{ "/tags/punjabi-folk" | relative_url }})
+- [sitar]({{ "/tags/sitar" | relative_url }})
+- [hindi]({{ "/tags/hindi" | relative_url }})

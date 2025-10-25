@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-23T10:17:12.800Z
+permalink: tags/chile
+title: chile
+---
+
+## chile
+
+Last updated: <time datetime="2025-10-23T10:17:12.800Z">Thu Oct 23 2025 13:17:12 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 50 | ![Cover](https://i.discogs.com/jPGbbEt6yHPGwrqUS58zI4RXmLfy7SD79_J2j6wLbIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA4/NTMtMTUyMTU5MTc1/Ni0xOTg5LmpwZWc.jpeg) | 1970 | Los Angeles Negros | Y Volvere |
+| 57 | ![Cover](https://i.discogs.com/0sYgoXx4mHRjkbP1V4LsHmNKiN-CXcubWsJscOGv0Mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTIy/OTMtMTMwMzk5NzI1/OS5qcGVn.jpeg) | 1972 | Los Jaivas | Todos Juntos |
+| 3 |  | 1973 | Inti-Illimani | Viva Chile |
+| 26 | ![Cover](https://i.discogs.com/cErVzuC5AQUdLM8HYItmN04ccep-pbJ4nCwtSsSdwnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDky/NTYtMTMyNzc2MzUy/NS5qcGVn.jpeg) | 1981 | Victor Jara | Canto Libre |
+| 11 | ![Cover](https://i.discogs.com/MRUvKF4MryBhVD4e0p_IedGusPQsSz8E1cy6hRXwf8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDEy/NjE0LTE1MzQ3NzU2/MTMtNDQ4NC5qcGVn.jpeg) | 1984 | Inti-Illimani | Imaginacion |
+| 27 |  | 1984 | Los Jaivas | Obras de Violeta Parra |
+| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0473df1441a19c0fc239f1f8c6371ad7.png) | 1984 | Los Prisioneros | La Voz de los &#39;80 (Edición 30 Años) |
+| 16 | ![Cover](https://i.discogs.com/27VT7mA3TRUpifQQe344y8CNfEtsX4OnEGEhr5X7I-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAw/MDgyLTE1NDIyMDEy/MTItMjU1OS5qcGVn.jpeg) | 1988 | Victor Jara | Victor Jara-Presente |
+| 62 | ![Cover](https://i.discogs.com/XaJFpYkXxF5kxxsl6Jb5QZNbbw5sIIxXlnvS6nZdwy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjY3/NDktMTU0OTk3MzQ2/OS01MzA5LmpwZWc.jpeg) | 1988 | La Ley | La ley |
+| 80 | ![Cover](https://i.discogs.com/u3UwEqri9NZVa5xoGxJLP4wI23HctwBC9EwCMq2m9-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDAz/OC0xNTQ5OTc0MjM1/LTM4OTYuanBlZw.jpeg) | 1990 | La Ley | Doble opuesto |
+| 97 | ![Cover](https://i.discogs.com/j4TMeEV8pSMtsnbEGPosru3Wun80AbMKl8OJo1eyUlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI1/NzEtMTU2NTI4MTg4/MS0zNTY3LmpwZWc.jpeg) | 1990 | Los Prisioneros | Coleccion Suprema |
+| 99 |  | 1990 | Los Prisioneros | Corazones |
+| 12 | ![Cover](https://i.discogs.com/hVXcYsrAR7dx86Yz2eOZ7D-pUQgeqAvsq6nHCs1cdsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTk3/MTktMTQ1MzU4NDEz/OC0yOTY0LmpwZWc.jpeg) | 1992 | Los Jaivas | Trilogia El Rencuentro |
+| 21 | ![Cover](https://i.discogs.com/0XjoC5EyD9ALUZHqDG5qs5g0kqwj6q4x5WK7C8bP_mM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDY2/OTEtMTI4MzI1MzE4/OC5qcGVn.jpeg) | 1993 | Inti-Illimani | Leyenda |
+| 47 | ![Cover](https://i.discogs.com/4nq-VhFpsbJzatFbg83n2950mcYMHv6ZMQ3pkSQEk2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjUx/MTgtMTM4MjY3MjYz/MS04OTA0LmpwZWc.jpeg) | 1993 | Jorge Gonzalez | Jorge Gonzalez |
+| 22 | ![Cover](https://i.discogs.com/PgdwkRdCdvxrXmlp7QF-ooYXl9U6Jd_6oXda-_-nVmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDY1/OTYtMTM5ODA0MTQx/MC0yMTgxLmpwZWc.jpeg) | 1994 | Los Prisioneros | Grandes Exitos |
+| 34 |  | 1994 | Violeta Parra | El Folklore Y La Pasión |
+| 85 |  | 1994 | Los Jaivas | Los Jaivas |
+| 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/318a8943455039ebe1ca9ec0da6ade3b.png) | 1995-03-17 | Los Tres | La Espada &amp; la Pared |
+| 71 |  | 1995-06 | Joe Vasconcellos | Toque |
+| 29 | ![Cover](https://i.discogs.com/ap0NH7v2asWsQb8qPV-Zm5TpGxAXuTRh0OoWopxaoz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDQw/NjUtMTQ2OTY0MDAw/Ny03NDE3LmpwZWc.jpeg) | 1997 | Inti-Illimani | Lugares comunes |
+| 44 |  | 1997 | Chancho En Piedra | La Dieta del lagarto |
+| 76 | ![Cover](https://i.discogs.com/M8PVM4bsE7tl_ZISsUl6ZjgkbJeYuTIQEOB-dzJf3bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTg5/MzItMTUzNjQzNDcw/OC03Mzg3LmpwZWc.jpeg) | 1997 | Tiro De Gracia | Ser Humano!! |
+| 2 |  | 1998 | Chancho En Piedra | Ríndanse Terrícolas |
+| 66 |  | 1999 | Joe Vasconcellos | Vivo |
+| 39 | ![Cover](https://i.discogs.com/j9j4Srs4OUrt6Nmc_x6T5yzPGJyxcQPtjZmwZkQYrhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjc2/ODQtMTUzMTkxNzM5/OC0yNjkwLnBuZw.jpeg) | 1999-11-03 | Saiko | Informe Saiko |
+| 28 |  | 2000 | Chancho En Piedra | Marca Chancho |
+| 74 |  | 2000 | Gondwana | Alabanza |
+| 68 |  | 2000-02-22 | La Ley | Uno |
+| 78 |  | 2001-04-03 | Los Bunkers | Los Bunkers |
+| 23 | ![Cover](https://i.discogs.com/o7Ezbq174fhijLTTFejs_KvaycKSxT5cNX0aNEh1wIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzA4/NDgtMTQxOTc2MzI1/Ni0zMDk2LmpwZWc.jpeg) | 2003 | Lucybell | Todos Sus Exitos |
+| 1 |  | 2003-10-23 | Los Bunkers | La Culpa |
+| 5 |  | 2004 | Gepe | 5x5 |
+| 77 |  | 2004-11-30 | La Ley | Historias E Histeria |
+| 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fee204d425050f049d89ed9271eee47b.png) | 2005-09-08 | Los Bunkers | Vida de Perros |
+| 69 |  | 2005-11-04 | Gepe | Gepinto |
+| 46 | ![Cover](https://i.discogs.com/GTQkne_vQfK3Z_FR5H9EC_DJHccvpkYImDy1FKsrwmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzY2/Ni0xMTU3MzQyMjQ0/LmpwZWc.jpeg) | 2006-04-11 | Bitman &amp; Roban | Musica para Despues de Almuerzo |
+| 30 | ![Cover](https://i.discogs.com/30kHp0_GjgR2hksaqS4X5lzb3OePG97geQwb4uTYNmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE5/MDEwLTE1OTMwMTc3/NDAtNDY5NC5qcGVn.jpeg) | 2006-06-30 | Melvin Crema | Melvin Crema |
+| 56 | ![Cover](https://i.discogs.com/Mtcxwb4mGlGofISkvTdRqm5PXzhi16J2qmhQEi_uYr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcy/OTY3LTE2NjU1Mjk0/MDAtODAzNi5qcGVn.jpeg) | 2007-09-04 | Ana Tijoux | Kaos |
+| 89 |  |  | VARRA | Varra II |
+| 90 |  | 2006-10-05 | Javiera Mena | Esquemas juveniles |
+| 7 |  | 2007 | Porta | No hay truco |
+| 14 | ![Cover](https://i.discogs.com/8mNa_3S2Y2NzfDLAL_AwpR59-Lm64g2zdVy0N1QG_5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTEy/NzQtMTM5NDc0NzQ3/NC02OTg4LmpwZWc.jpeg) | 2007 | Los Ex | Cocodrila |
+| 19 | ![Cover](https://i.discogs.com/nqjht9QT_ogRntYRDez7pYV_j0vIsRanuUmSobvGivo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzEy/OTUtMTQzMjA4NDIy/OS02OTI3LmpwZWc.jpeg) | 2007 | Primavera de Praga | Primavera de Praga |
+| 17 | ![Cover](https://i.discogs.com/vFqcN4tFvpQyEsTx4T3852udhpVlnr9oc47EbTNdnR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTgz/OTMtMTIzNzY5Nzcz/OS5qcGVn.jpeg) | 2007-07-31 | Los Mono | Somos Los Que Estamos |
+| 48 |  | 2008 | Manuel García | Témpera |
+| 60 |  | 2008 | Gepe | Hungría |
+| 65 |  | 2008 | Dënver | Totoral |
+| 67 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2b3cd5127d064400db0d953259e65961.png) | 2008-06-10 | Los Bunkers | Barrio Estación |
+| 58 |  | 2009 | Pedropiedra | Pedropiedra |
+| 64 |  | 2009 | Camila Moreno | Almismotiempo |
+| 96 |  | 2009-03-09 | Ana Tijoux | 1977 |
+| 36 | ![Cover](https://i.discogs.com/JS55BRDAF3d8_4sWZDApEf2XezTdHp5euEdzRTEx1A0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTg3/MDctMTI3OTM0OTk4/My5qcGVn.jpeg) | 2010 | Manuel García | S&#x2F;T |
+| 63 | ![Cover](https://i.discogs.com/M_ZGCu-5jgJsghU27f0-Gr3RUOOlwomwVlVQPG7Pefw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzUw/NTAtMTYzNDcwNTU1/MC0xOTUzLnBuZw.jpeg) | 2010 | Odisea | Odisea |
+| 75 | ![Cover](https://i.discogs.com/j4osREZXFY3XjbQ6QBV4GBrr3XASlpvaA0U0x-6hWO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njk3/NzUtMTI4NTgwMzY0/OS5qcGVn.jpeg) | 2010 | Gepe | Audiovision |
+| 6 | ![Cover](https://i.discogs.com/j6Vt2JEWZsslCxi6Vm-Y_JbUh1TbSnnDTwhJP7zvQSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Nzgy/NTYtMTM3NTIxNzMw/OC05NzkxLmpwZWc.jpeg) | 2011 | Matanza | Apolinar |
+| 10 | ![Cover](https://i.discogs.com/SwPQxBOrk3dh1rCLEKA96WTEMOrZgbyp7OcJNObxC-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTEw/NjY2LTE2NTk3MTcw/MDktODA2Mi5qcGVn.jpeg) | 2011 | ASPASIA | La extensión de tu silencio |
+| 61 | ![Cover](https://i.discogs.com/LIV4ZWrEbiYNgkVvbgahzg-azSYOtlnG0IH6J4S6Xok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMjg4/NjEtMTQzNjY0OTAy/MS03NDQyLmpwZWc.jpeg) | 2011-07-11 | Movimiento Original | TEOREMA |
+| 86 |  | 2012-01-24 | Ana Tijoux | La Bala |
+| 92 |  | 2012-10-24 | Gepe | GP |
+| 72 | ![Cover](https://i.discogs.com/hQSVJpHWQQ8YZqxk2NQ013P4X-loIhItWuijO07Yk54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkz/NjAxLTE1MTkwNzQy/ODAtODIzOC5qcGVn.jpeg) | 2013 | Tus Amigos Nuevos | NO SÍ SON |
+| 35 |  | 2013-11-27 | Javiera Mena | Espada |
+| 54 | ![Cover](https://i.discogs.com/Q634usq4HGF4HUh-NsYCZaC8j9VRhOvlwcs4g1KjnqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTcy/NTQtMTM2NjU2MDMx/MC05NzUxLmpwZWc.jpeg) | 2014 | Chancho En Piedra | Rindanse Terricolas |
+| 87 |  | 2014-03-18 | Ana Tijoux | Vengo |
+| 9 | ![Cover](https://i.discogs.com/HtXCa1LUjyehjT5bLlSmS_bqgZW9gtUio311qY74Jmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTk1/MTktMTQ0ODE5OTk2/MC0yMDUzLmpwZWc.jpeg) | 2015 | Tunacola | En el Centro de la Fiesta Está el Vacío, Pero en el Centro del Vacío Hay Otra Fiesta |
+| 98 | ![Cover](https://i.discogs.com/HnyQjCXOSF8NWDgZAyQA4uY3beXe4lAPWtLJioqYcKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDI0/MTQtMTQzMTQyODk2/Mi04MTkzLmpwZWc.jpeg) | 2015-05-12 | The Holydrug Couple | Moonlust |
+| 82 | ![Cover](https://i.discogs.com/x9TzcXSLTSmwsV9-H6G-TYl0EqwFUECaD4hUz_8cqOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDc1/OTMtMTUyMDU3NjEz/My00NzA2LmpwZWc.jpeg) | 2015-08-10 | Gepe | Estilo Libre |
+| 31 | ![Cover](https://i.discogs.com/UZBFqTcT-zkAiLjiLLmKJzLkAB3ynwIFas8VdbGZ4nM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDUz/MTEtMTQ4MzUzODk4/OC0zMjUwLmpwZWc.jpeg) | 2016 | We Are the Grand | Volver |
+| 55 | ![Cover](https://i.discogs.com/_vbKjw3xEZBcqxOy1p4DyU0dfLWxjkhUFjXi6yWze5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDcy/OTI1LTE2MzMzNzYw/MTQtNzg5OS5qcGVn.jpeg) | 2016 | ChysteMc | Techymuv |
+| 81 | ![Cover](https://i.discogs.com/F2DiBk9FaqSsowb1lnUH0WrIlnEPVbGrmdOtUGp1U_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA4/NTI5LTE2MzQwMDE4/MTMtNzcyNS5qcGVn.jpeg) | 2016-09-09 | El Cómodo Silencio De Los Que Hablan Poco | Run Run |
+| 79 | ![Cover](https://i.discogs.com/JpREMTJy_IErN0kshAfZsib97i8nuSGcue7WtTl_p8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjQ0/MTk3LTE2NDU0MjYw/MzAtNzQyMC5qcGVn.jpeg) | 2016-11-06 | Diego Lorenzini | Trenzas ad honorem |
+| 100 | ![Cover](https://i.discogs.com/8sCrb9e-NEDKx1rBvDJZYqn4sfe6ytoMbWruN7QqaE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE4/MzQ4LTE1MzM3NTk3/NDgtNzQ4MS5qcGVn.jpeg) | 2017 | Mon Laferte | La Trenza |
+| 15 | ![Cover](https://i.discogs.com/lKIskCp7u7ukwr0f9spGk9X0pxxoG-MLhOULxUJvA1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzU4/MjYtMTQ4OTUyMTky/MS0yNzI5LmpwZWc.jpeg) | 2017-03-24 | trementina | 810 |
+| 91 | ![Cover](https://i.discogs.com/Av6Zwda7xoCYtCAqqIXXhFNDGjkoF0aYivti2rvcg0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk2/Mzk2LTE0OTY2Mjcw/MDYtNzUzOS5qcGVn.jpeg) | 2017-05-26 | Gepe | Ciencia Exacta |
+| 52 | ![Cover](https://i.discogs.com/39MBgyCKcArgfTbmvm5sklDD-waN9kmN44cHj5JzHww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc1/OTgwLTE1MjU4NDcz/MzUtODQ2OS5qcGVn.jpeg) | 2018 | Javiera Mena | Espejo |
+| 73 | ![Cover](https://i.discogs.com/r53Crg02RpolM5qkqOZhP2HxHSiI03x_PCuNoyel_18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzE1/MjI3LTE1MjExNDI3/MjEtMjcxNS5qcGVn.jpeg) | 2018 | Iration | En Exilio &#x2F; In Exile |
+| 94 | ![Cover](https://i.discogs.com/O3wlXeKN1kpTr4SqhT8Gc8ri3M_QL-zIUSfvJqqPEac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY4/NTQzLTE1NDM1MDc1/NjctNDM0OS5wbmc.jpeg) | 2018 | Niños del Cerro | Lance |
+| 49 | ![Cover](https://i.discogs.com/YNL3PP-V5H3-pHndq6-vfFM5CATcItX7JsYs2GJUQNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg3/ODIwLTE1ODczNDE2/NzAtNTI0MS5qcGVn.jpeg) | 2018-04-03 | mitimitis | campos de amberries por siempre εїз |
+| 37 | ![Cover](https://i.discogs.com/wlqptdKxSoY3ohU-R6B6pX8bYZy4rot_9j_4OC5mIvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTI1/MzIxLTE1NjQxOTY2/MjUtNTYzNi5qcGVn.jpeg) | 2018-04-20 | Mon Laferte | Desechable |
+| 25 | ![Cover](https://i.discogs.com/M5t4Rpzq5t8-YSCSQ803_-SegbbjI_-ARSv47Qdg5Dk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTI1/NjQ0LTE2MTM5Mzk1/MDEtNDc0Ni5qcGVn.jpeg) | 2019 | Dulce Y Agraz | Trino |
+| 41 | ![Cover](https://i.discogs.com/rTdmmCIsPSN0NDS6rMU8qocTtXCf_2HmCLEYlDEtFZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTE1/MzMwLTE2MDgyMjM1/NzEtMjg5NS5qcGVn.jpeg) | 2020-11-15 | ataquemos | casi |
+| 4 | ![Cover](https://i.discogs.com/77l-_SMbh5ZO7f1Xcnq5e8uwul1JSd1pyUxWCN78YlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzcz/MDAyLTE2NzAyMTQ1/MzYtMTM3OS5qcGVn.jpeg) | 2020-12 | mitimitis | terror en el autocine |
+| 88 | ![Cover](https://i.discogs.com/DAm_qZO1CEZDvt3tk3v5i0HFpZWK8sfpJwfGf9SjOc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTM1/OTM4LTE2NTI5MzM0/MzktNjI0NC5qcGVn.jpeg) | 2021-04-08 | Mon Laferte | Seis |
+| 59 | ![Cover](https://i.discogs.com/pxA1yZiPheWQ4NNh-IwlMVGnX7BhIqUXGa9_Zf0vHAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTI5/Mjc4LTE2MjY1NDU1/OTItODg3NS5qcGVn.jpeg) | 2021-05-06 | Princesa Alba | Summer Love |
+| 38 | ![Cover](https://i.discogs.com/JTZt7liDqjZulkea_ZaIe5C3Lx0FQGIAVKx4NDg6uSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjE2/ODQtMTQ3NjkxNDA1/Ny00MzUyLmpwZWc.jpeg) | 2021-08-27 | Fármacos | Manual de una Pérdida |
+| 8 | ![Cover](https://i.discogs.com/nQ186wRueOZpmOFc5MIxY6dRR9NuLhPcjaNbeoA9wSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODQ0/MTM3LTE2NTc0ODIz/MTItNDI3Mi5qcGVn.jpeg) | 2022 | Silabario | Lo Malo Va a Pasar |
+| 84 | ![Cover](https://i.discogs.com/j-VF11lQc7RA_vltb_QgeFOjaeBW1wSlxquS-qoFw2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk0/MDI5LTE2NjYzNDYw/NzctMzQ5Mi5qcGVn.jpeg) | 2022-10-13 | Niños del Cerro | Suave Pendiente |
+| 18 | ![Cover](https://i.discogs.com/x7T9CrDc5xawn_IzsiXoqnfXmYU-6N7PEdzUPvDBwrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODkx/NjcyLTE3Mjc4OTU2/NDUtMjk0NS5qcGVn.jpeg) | 2023 | necesito el valor tanto como necesito el miedo | inocencia |
+| 24 | ![Cover](https://i.discogs.com/z3HUWqcGj8Gt9ZuoJGFQMjiIdxydba0tPPN3tbwkYMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/OTgwLTE2NzkxNTYz/MzYtNTM2MC5qcGVn.jpeg) | 2023 | Macha y el Bloque Depresivo | Lado B |
+| 40 | ![Cover](https://i.discogs.com/x7T9CrDc5xawn_IzsiXoqnfXmYU-6N7PEdzUPvDBwrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODkx/NjcyLTE3Mjc4OTU2/NDUtMjk0NS5qcGVn.jpeg) | 2023 | necesito el valor tanto como necesito el miedo | no será eterno |
+| 93 | ![Cover](https://i.discogs.com/2gitgRoXdPBuJSRE3EAIaKXPZEeb-0UbfdqfR4yjJAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDk5/NzY0LTE2OTY0NzU3/NTMtNDIxOS5qcGVn.jpeg) | 2023-07-27 | Easykid | Sorry, Estoy en Mi Darkera |
+| 32 |  | 2023-10-22 | Upa! | Upa! |
+| 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6a2055556fa36caf5b308241e7890c36.png) | 2023-11-10 | Los Bunkers | Noviembre |
+| 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5fe90797f3b72d8038f031784552965c.png) | 2023-11-11 | Candelabro | Ahora o Nunca |
+| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e01557334f76269b94a5bec4c68e8060.png) | 2023-11-24 | Estoy Bien | Apoyo Emocional |
+| 45 | ![Cover](https://i.discogs.com/lv7TWm9O-CZDiS48NYBHnGcZSKBL7XnvBZ3V3ybtssc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTYz/MDMtMTQ4MzcwMDY2/MC00MzMxLmpwZWc.jpeg) | 2023-11-24 | Violeta Parra | Las Ultimas Composiciones de Violeta Parra |
+| 13 | ![Cover](https://i.discogs.com/QJDS7ZCXXEYHTTLocqON47Xp9Rs-BiUTOZ6WdIhi-Yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODkx/NzExLTE3Mjc4OTU3/NTYtOTI0NS5qcGVn.jpeg) | 2024 | necesito el valor tanto como necesito el miedo | te guardo en que fuiste la parte más linda de mi adolescencia |
+| 20 | ![Cover](https://i.discogs.com/LrLbMmHce9uMrdkPxZjvXdWKQgUr6-vsSiCZCmZ8EAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDg4/NTAzLTE3MjM3NTM5/OTUtNzAyNC5qcGVn.jpeg) | 2024 | Inundaremos | Inundaremos |
+| 70 | ![Cover](https://i.discogs.com/FRu-XVVe8m9XUT1VHFKyA8Bt6vI_vd1Fk2fhx0BaIrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTM5/NjQyLTE3MjgzNDk2/OTQtNDQ0OC5qcGVn.jpeg) | 2024-08-22 | AKRIILA | 001 |
+| 83 | ![Cover](https://i.discogs.com/FRu-XVVe8m9XUT1VHFKyA8Bt6vI_vd1Fk2fhx0BaIrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTM5/NjQyLTE3MjgzNDk2/OTQtNDQ0OC5qcGVn.jpeg) | 2024-08-22 | AKRIILA | epistolares |
+
+### Related genres
+
+- [chilean]({{ "/tags/chilean" | relative_url }})
+- [rock chileno]({{ "/tags/rock-chileno" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [folk]({{ "/tags/folk" | relative_url }})
+- [latin]({{ "/tags/latin" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [rock en espanol]({{ "/tags/rock-en-espanol" | relative_url }})
+- [electronica]({{ "/tags/electronica" | relative_url }})

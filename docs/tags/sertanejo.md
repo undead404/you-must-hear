@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-18T13:16:32.534Z
+permalink: tags/sertanejo
+title: sertanejo
+---
+
+## sertanejo
+
+Last updated: <time datetime="2025-10-18T13:16:32.534Z">Sat Oct 18 2025 16:16:32 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 1 |  |  | Chitãozinho E Xororó | Os Grandes Sucessos |
+| 6 |  |  | Bruno E Marrone | Acústico Ii - Vol. 2 |
+| 10 |  |  | Bruno E Marrone | Paixão Demais |
+| 15 |  |  | Loubet | Ao Vivo em Campo Grande |
+| 16 |  |  | Day e Lara | Day e Lara (...) [Ao Vivo] |
+| 18 |  |  | Vários intérpretes | Barretos 60 Anos |
+| 35 |  |  | Loubet | Made in Roça (Ao Vivo) |
+| 53 | ![Cover](https://i.discogs.com/eh_GGYGQkqKvjg5ok21ZbCK3Oq-1HHidZD5lGQDDZP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Nzg1/NjItMTQwMjQwOTM2/Mi04NjM2LmpwZWc.jpeg) | 1973 | Dominguinhos | Chegando de Mansinho |
+| 13 |  | 1977 | Various Artists | Reis do Rodeio |
+| 56 | ![Cover](https://i.discogs.com/HcsZHtMqYqbZ-xpAof0FlAC9FUAYk7fEA5ihNLy2748/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk0/NjcyLTE1NDgyNjcw/OTktNjQ0My5qcGVn.jpeg) | 1987 | João Mineiro &amp; Marciano | Selecao De Ouro - 20 Sucessos |
+| 3 | ![Cover](https://i.discogs.com/k5rgujWnLOotZP_192i_5kHGKX4_AuZ3c2XhiLLJZqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjE3/NjctMTU0MDQwNDEx/NS00OTEzLmpwZWc.jpeg) | 1988 | Trio Parada Dura | Trio Parada Dura - EP (Ao Vivo) |
+| 20 | ![Cover](https://i.discogs.com/leNYJJt-WEr2RgLfwHGM7K7m8HdiGahYDnj54St0NPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjY1/MS0xMzk0MDUwNjA4/LTcxMzAuanBlZw.jpeg) | 1991 | Zezé Di Camargo &amp; Luciano | Zeze Di Camargo &amp; Luciano |
+| 32 | ![Cover](https://i.discogs.com/PNWp7L3JTHTTbPafpdz2h6h6SyzCYQSCcGbAl-S2zzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDA4/MTg2LTE2OTU3NjE4/NzQtNDIxMy5qcGVn.jpeg) | 1991 | Gino &amp; Geno | Gino &amp; Geno (Ao Vivo) |
+| 44 | ![Cover](https://i.discogs.com/Ndzu4TKGpMp5lNRKgprsgvz0MHfdPzSoJk0ZL8mW3LM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjY3/OC0xNTU3ODkzMDE4/LTg4MjUuanBlZw.jpeg) | 1991 | Zezé Di Camargo &amp; Luciano | Zezé Di Camargo &amp; Luciano (2000) |
+| 2 | ![Cover](https://i.discogs.com/6iCfrkyFX90aFp7M3Ioy1-k1Q7dqdPpAPb1z7Z663KE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTcy/NjAtMTQ0MDYxNTU4/NC00NTczLmpwZWc.jpeg) | 1992 | Almir Sater | Pantanal Music |
+| 11 | ![Cover](https://i.discogs.com/mXXE8K-_czcdOuJpq1Rzf9RQ6-vPYykR_HfPhlZdDTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODg5/MDctMTQ3OTY4OTk1/MC05NjAwLmpwZWc.jpeg) | 1993 | Paula Fernandes | Paula Fernandes (Ao Vivo) |
+| 34 | ![Cover](https://i.discogs.com/Ndzu4TKGpMp5lNRKgprsgvz0MHfdPzSoJk0ZL8mW3LM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjY3/OC0xNTU3ODkzMDE4/LTg4MjUuanBlZw.jpeg) | 1996 | Zezé Di Camargo &amp; Luciano | Zezé Di Camargo &amp; Luciano 2003 |
+| 46 | ![Cover](https://i.discogs.com/dFfpSb_q7e1L8ZS7IDL2lcrkIHrkPfnTYf7L_5qtE4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzg5/NzctMTMyODA2MjU4/OC5qcGVn.jpeg) | 1996 | Almir Sater | AR |
+| 26 | ![Cover](https://i.discogs.com/rjYQ6dFrZWrLBySb3B6yz20K4a9_XoizSAYZS36OYJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Mjg0/NzgtMTQ4NTQzODAy/OS04MDQwLmpwZWc.jpeg) | 1996-08-20 | Sérgio Reis | Boiadeiro |
+| 28 | ![Cover](https://i.discogs.com/6Ldj6VQvy_ameX-x3zRuRWz6WyIaZYxNpqEdL_E0qTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTk3/NzgtMTQ4NzUxNjI0/NC04MTgzLmpwZWc.jpeg) | 1998 | Chrystian &amp; Ralf | Acústico |
+| 4 | ![Cover](https://i.discogs.com/r1Ffh-z81oZqSuhgpAmQijYsLUdvBMTRey_CquZxkrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzAx/NTgtMTM1OTE3ODQ4/Ni00ODI4LmpwZWc.jpeg) | 1999 | Leonardo | Tempo |
+| 7 | ![Cover](https://i.discogs.com/5adNwVIWcftU_e8kR2BCktfKNeiC4XmmiHKu3x5cesc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzQ3/MjQzLTE2NzM1NTE5/NDgtNTU0MS5qcGVn.jpeg) | 1999 | Gian &amp; Giovani | Gian &amp; Giovani Ao Vivo |
+| 30 | ![Cover](https://i.discogs.com/7yo_RS4LuJYxj-FG49gsqJ26S7X06bTMJCkHOW0JjrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY5/ODA0LTE1NDM1MjQ5/MjgtNTczMS5qcGVn.jpeg) | 2000 | Sérgio Reis | Sérgio Reis, 40 Anos De Estrada |
+| 62 |  | 2000 | Bruno &amp; Marrone | Acústico |
+| 61 | ![Cover](https://i.discogs.com/W_uHZhZBclUJJFsaM8BlzHrQMXSr_t_nvLt6seLC7UA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE2/OTU1LTE0OTM1NjIw/NTgtODE2OS5qcGVn.jpeg) | 2002 | Guilherme &amp; Santiago | Casa Amarela |
+| 69 |  | 2003 | Bruno &amp; Marrone | Inevitável |
+| 21 | ![Cover](https://i.discogs.com/wxI-Ho-1HXZFkyMxzUsIHzarM3yDGj4VBEx3kMGDp5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDAw/NDktMTM1OTQyMDQy/Ny0zOTk4LmpwZWc.jpeg) | 2004 | Leonardo | Leonardo Canta Grandes Sucessos |
+| 24 | ![Cover](https://i.discogs.com/nQYprnry-lJxyP--h81pWa0Bx5_a723bGQgCZS5ylv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgw/NzQzLTE0OTQ2MDMy/OTktOTczNS5qcGVn.jpeg) | 2004 | Gino &amp; Geno | Só As Melhores |
+| 80 |  | 2004 | Chitãozinho &amp; Xororó | Aqui o sistema é bruto |
+| 82 | ![Cover](https://i.discogs.com/2gTHM-VNF8jtl2Ur72QkwOLDuqqwJB9M6o2G1ja3JX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzE3/MTQ3LTE1NzIxMDQ0/ODMtNzk2NC5qcGVn.jpeg) | 2004 | Simone &amp; Simaria | Simone &amp; Simaria (Ao Vivo) |
+| 65 |  | 2005 | Bruno &amp; Marrone | Meu Presente É Você |
+| 50 | ![Cover](https://i.discogs.com/oR2ohiet1qXZo2TIIetk8AREhy_ljFUM7cUXSvgszmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDMz/ODEtMTQyNzc5OTM3/MS02MjAyLmpwZWc.jpeg) | 2005-08-10 | Wanessa | Fragmentos, Pt. I |
+| 58 | ![Cover](https://i.discogs.com/6zkv4r3V-7ZgEYecT4pfLv0g1C7j6b_cm3jheOEk6Rw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzcw/MjktMTQ3NTQxNDg4/OS0zMDU0LmpwZWc.jpeg) | 2006-04-25 | Eduardo Costa | Eduardo Costa - Acustico |
+| 39 | ![Cover](https://i.discogs.com/iE7UiS8h1ffxucIaMDMUE73_qS9sgQ-PcfHrkvnajo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzg2/NzQtMTQ3NzgzODI3/MC0xNzM2LmpwZWc.jpeg) | 2006-07-25 | Edson &amp; Hudson | Duas Vidas Dois Amores |
+| 38 | ![Cover](https://i.discogs.com/ZdSDV8ar1vhJER9n1k7s9oLs6X4bjeSFwNQyiqZy2IE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDU2/OTktMTM2NjgwMTkw/Mi0xMDUwLmpwZWc.jpeg) | 2006-08-15 | Pete Droge | Under The Waves |
+| 77 | ![Cover](https://i.discogs.com/T7RITMYOMRSdL0qBq5_SjYLcSXNhdnWSqgavvxATQPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTY0/NjU3LTE1MTEwNDk2/MjItMzIwMC5qcGVn.jpeg) | 2007 | Jorge &amp; Mateus | Jorge &amp; Mateus Ao Vivo Em Goiânia (Ao Vivo Em Goiânia &#x2F; 2007) |
+| 31 |  | 2007-05-08 | Jorge &amp; Mateus | Ao Vivo Em Goiânia |
+| 27 | ![Cover](https://i.discogs.com/rGjdiQZH5Uv_VdPPa3K2Yuyc5ilfHW4NhXUvuqef8bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTEx/NTE4LTE1ODM5Mzg0/ODgtMzc0Ny5qcGVn.jpeg) | 2008 | Fernando &amp; Sorocaba | Bola De Cristal |
+| 54 |  | 2008-12-09 | Victor &amp; Leo | Nada Es Normal |
+| 23 | ![Cover](https://i.discogs.com/0niFmulDC9uc-MgOv5GZ5H3G4HusO1knGtoFKzdmZW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ5/MTMyLTE0OTk3MDA1/MjMtNzkyNC5qcGVn.jpeg) | 2009 | Zé Henrique &amp; Gabriel | Ao Vivo |
+| 49 | ![Cover](https://i.discogs.com/YiJz8fojFvwWLMf5H_fffoq-B8jdonmUj_u9HyW46iQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzE3/MDMtMTQ3ODYyNTEz/MC02NDQ4LmpwZWc.jpeg) | 2009-02-01 | Luan Santana | Tô de Cara |
+| 17 | ![Cover](https://i.discogs.com/Rf3fpp7k858HNeLQ5A9h8JOWhOsBagfnZZ3RKhNX5Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTA4/ODUtMTQwNTg3NDcz/Ni01ODU1LmpwZWc.jpeg) | 2010 | Paula Fernandes | Pássaros de Fogo |
+| 40 | ![Cover](https://i.discogs.com/bC23qLsBkdBjp6s8TBYInkNOSSZ_SOMN7LmIml_EfK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTIw/NTUtMTQ2NzEzNTky/Ni05NzUyLmpwZWc.jpeg) | 2010 | César Menotti &amp; Fabiano | Sertanejo |
+| 48 | ![Cover](https://i.discogs.com/s7jins0xIsslb31H6wnQWYXoRw34hS41OIxDYLeDiMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk3/MjAyLTE0OTQ4NjM2/ODUtNDc1NC5qcGVn.jpeg) | 2010 | Jorge &amp; Mateus | Aí já era |
+| 57 |  | 2010-01-01 | Paula Fernandes | Ao Vivo |
+| 51 |  | 2010-09-25 | Gusttavo Lima | Inventor dos Amores |
+| 59 |  | 2010-11-01 | Victor &amp; Leo | Boa Sorte Pra Você |
+| 42 | ![Cover](https://i.discogs.com/uNHdC7NEdLTJEKH53UirM_1qD8GWGDbKeF2jlbUseZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTcw/NTgtMTM3MzIyOTQ2/My0zMDE1LmpwZWc.jpeg) | 2011-07-28 | Wanessa | 33 |
+| 37 | ![Cover](https://i.discogs.com/vMiil8CYPzaVnX-53aXRcIp9Iv-mZ5EGvkYkzxzh-aQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTE5/MTEtMTMzNzM0MDU5/MC04NDkxLmpwZWc.jpeg) | 2011-09-20 | Gusttavo Lima | Gusttavo Lima e Você |
+| 12 |  | 2011-11-03 | Luan Santana | Nega |
+| 76 |  | 2012-02-03 | Michel Teló | Na Balada |
+| 29 | ![Cover](https://i.discogs.com/Bzt3NmS9RpRH5jgd15nlP9Y35JHtrC7Esd-FNB-F_t4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzg1/OTMtMTQ3NzgzNzMx/My00MjA1LmpwZWc.jpeg) | 2012-06-29 | Edson &amp; Hudson | O Chão Vai Tremer |
+| 14 | ![Cover](https://i.discogs.com/6zkv4r3V-7ZgEYecT4pfLv0g1C7j6b_cm3jheOEk6Rw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzcw/MjktMTQ3NTQxNDg4/OS0zMDU0LmpwZWc.jpeg) | 2013 | Eduardo Costa | No Boteco |
+| 22 | ![Cover](https://i.discogs.com/xm7I2XFkrtfVV9JYYNJKhXpvDUISI9WVHmOcuHFuNtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODg0/MjgtMTQ2ODc4MTE5/OC00NTc1LmpwZWc.jpeg) | 2013-04-01 | Henrique &amp; Diego | Ao Vivo in Rio, Vol. 1 |
+| 73 | ![Cover](https://i.discogs.com/xcqsFxr8KIgLXtdVONa5YUQydXYH2AClJ7dBptynvNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzY2/MzEtMTQxNDQzMDgz/Mi02MzUwLmpwZWc.jpeg) | 2014-08-19 | Nego do Borel | Você Partiu Meu Coração |
+| 41 | ![Cover](https://i.discogs.com/7e8jpNb4s_zFsIFKxjPiM57EA8z3zAIVdCQaVfE_0gQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODAz/MDEtMTQ4Nzg2NDc1/NC01NTYxLmpwZWc.jpeg) | 2015 | Israel Novaes | Forró Do Israel (Live) |
+| 75 | ![Cover](https://i.discogs.com/JmEtb8svjQAOg8gZzYhHozt6HGhwwtxvn8iLYTmyMn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDUy/NjctMTQ0MTkxMDky/OC05Njg5LmpwZWc.jpeg) | 2015 | Gusttavo Lima | Buteco In Boston (Ao Vivo) |
+| 52 | ![Cover](https://i.discogs.com/s9kQwsHfZ5_fmT5H3YkE3xYGEYZClABfSOAr2ONkKzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQy/OTQ0LTE1MDE1MjU3/NTctMTc1Ny5wbmc.jpeg) | 2015-11-13 | Paula Mattos | Acústico Paula Mattos |
+| 33 | ![Cover](https://i.discogs.com/_6PVDUIJMh__X21LTVPILGpL_f3eH4x46SSDsF0YVxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTQy/MDktMTQ3MDk1NzEz/NC05ODY5LmpwZWc.jpeg) | 2015-11-27 | Bruninho &amp; Davi | Depois das 3 |
+| 55 |  |  | ALDAIR PLAYBOY | Baile Transa Reggae |
+| 60 |  |  | Dom Vittor &amp; Gustavo | Do Zero |
+| 64 |  |  | Bruno E Marrone | Meu Presente É Você |
+| 67 | ![Cover](https://i.discogs.com/EueBvmtL3msoGo127s6pxLM22LqYHuD9HQTlAau608Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDIy/MDUtMTQ2OTA3MTE4/Ny00MDE4LmpwZWc.jpeg) | 2012-10-15 | Munhoz &amp; Mariano | Ao Vivo Em Campo Grande - Vol. II |
+| 68 |  |  | Victor e Leo | Ao Vivo em Uberlandia |
+| 72 |  |  | Jorge &amp; Mateus | Se o Amor Tiver Lugar |
+| 88 |  |  | Israel &amp; Rodolffo | Aqui e Agora, Vol.1 (Ao Vivo) |
+| 66 | ![Cover](https://i.discogs.com/B_ctA-3FfM5FfqW6JL2gcHSWpucFZxJipCjNdfhVeSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTU1/NzctMTQzODI0NDgw/MS0zNjk4LmpwZWc.jpeg) | 2014 | Gusttavo Lima | Do Outro Lado da Moeda |
+| 90 | ![Cover](https://i.discogs.com/TcZrRtMF6MkTobVHrtnRXuahbrWEfnKEoXeWg31t7ZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE5/MjUwLTE2NDI3MDYw/OTUtODE0NC5wbmc.jpeg) | 2014-12-08 | Luan Santana | 1977 |
+| 5 | ![Cover](https://i.discogs.com/PfJfVNMLUaUtH8DPg4kZLw5iCyAKjCIznjg-mhX0i5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAx/MjA5LTE1MDc5OTQ2/NzctMjA3Mi5qcGVn.jpeg) | 2016 | Renato Vianna | Açúcar - EP |
+| 36 | ![Cover](https://i.discogs.com/MCtiTzUBIQGRCfqxYTLB8yVvOVrjskojqtiR84XpaZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQw/ODEtMTQ4MDE1NTE4/Mi0yMzEwLmpwZWc.jpeg) | 2016 | Marília Mendonça | Todos os Cantos (Ao Vivo) |
+| 63 | ![Cover](https://i.discogs.com/SQSMJpnZgdoV7zsak7bHEQ-pobELimbyPq1KoToizvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NzQz/NTAtMTQ4NDU3MDM1/NC05NTc5LmpwZWc.jpeg) | 2016 | Zé Neto &amp; Cristiano | Ao vivo em São José do Rio Preto |
+| 78 | ![Cover](https://i.discogs.com/MCtiTzUBIQGRCfqxYTLB8yVvOVrjskojqtiR84XpaZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQw/ODEtMTQ4MDE1NTE4/Mi0yMzEwLmpwZWc.jpeg) | 2016 | Marília Mendonça | Patroas |
+| 81 | ![Cover](https://i.discogs.com/uVCHl5C-G34q4K11HgbKI8_GNCmUVnlXaGZ5QPxh-BA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODE0/OTE0LTE1MDQ3NjA5/MTktNzQzMi5qcGVn.jpeg) | 2016 | Marília Mendonça | Marília Mendonça (Ao Vivo) |
+| 84 | ![Cover](https://i.discogs.com/uVCHl5C-G34q4K11HgbKI8_GNCmUVnlXaGZ5QPxh-BA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODE0/OTE0LTE1MDQ3NjA5/MTktNzQzMi5qcGVn.jpeg) | 2016 | Marília Mendonça | Marília Mendonça - Perfil (Ao Vivo) |
+| 95 | ![Cover](https://i.discogs.com/CYielTk94kOZmEWhVsFdYLuB48kSXGRWvl50tnifrvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODE0/OTIxLTE1MDQ3NjA5/NjUtNDQ3NS5qcGVn.jpeg) | 2016 | Marília Mendonça | Troca de Calçada |
+| 96 | ![Cover](https://i.discogs.com/MCtiTzUBIQGRCfqxYTLB8yVvOVrjskojqtiR84XpaZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQw/ODEtMTQ4MDE1NTE4/Mi0yMzEwLmpwZWc.jpeg) | 2016 | Marília Mendonça | Graveto (Ao Vivo) |
+| 97 | ![Cover](https://i.discogs.com/MCtiTzUBIQGRCfqxYTLB8yVvOVrjskojqtiR84XpaZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQw/ODEtMTQ4MDE1NTE4/Mi0yMzEwLmpwZWc.jpeg) | 2016 | Marília Mendonça | Patroas 35% |
+| 98 | ![Cover](https://i.discogs.com/MCtiTzUBIQGRCfqxYTLB8yVvOVrjskojqtiR84XpaZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQw/ODEtMTQ4MDE1NTE4/Mi0yMzEwLmpwZWc.jpeg) | 2016 | Marília Mendonça | Todos Os Cantos, Vol. 1 (Ao Vivo) |
+| 100 | ![Cover](https://i.discogs.com/MCtiTzUBIQGRCfqxYTLB8yVvOVrjskojqtiR84XpaZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQw/ODEtMTQ4MDE1NTE4/Mi0yMzEwLmpwZWc.jpeg) | 2016 | Marília Mendonça | Todos Os Cantos, Vol. 2 (Ao Vivo) |
+| 91 | ![Cover](https://i.discogs.com/p4R6l6PXo41vSWmFoo45r9xf9KmXTWAi5FQV_dNPTdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAw/MzY2LTE1MTE3Mjc5/NDYtMzY4NC5qcGVn.jpeg) | 2016-02-12 | Jorge &amp; Mateus | Como. Sempre Feito. Nunca (Ao Vivo) |
+| 47 | ![Cover](https://i.discogs.com/JP6Di-77rQdsGNkSmwJfV74vMaDCn0fKdrKbGkOPh_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTQz/MTgtMTQ4NDI3MjQ2/MS03NzI2LmpwZWc.jpeg) | 2016-03-04 | Maiara &amp; Maraisa | Ao Vivo Em Portugal |
+| 25 | ![Cover](https://i.discogs.com/reCHkCFOp_Lvp7zmMtuEhkoTw2YqHShBvACJViWysLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjE0/MjctMTQ3MzQxOTk4/Ni02MDQwLmpwZWc.jpeg) | 2016-06-17 | Zé Felipe | Proibido é Mais Gostoso |
+| 45 | ![Cover](https://i.discogs.com/qXnv19aufRXO2QCpDX3dp3-v918AvGdHU5CAhSfZJE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mjk2/MzYtMTQyNzUxMzAx/Ny0zOTg0LmpwZWc.jpeg) | 2016-12-02 | Zezé Di Camargo &amp; Luciano | Teorias de Raul |
+| 74 | ![Cover](https://i.discogs.com/8FHJKakSPebm2ZIDfV3uhkpn82qdz3E4on-jL86ssLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODE0/OTU3LTE1MDQ3NjE3/NzQtOTEyOS5qcGVn.jpeg) | 2017 | Maiara &amp; Maraisa | Ao Vivo em Campo Grande |
+| 19 | ![Cover](https://i.discogs.com/4QwgTOgJXdFYQ_ftphWG9-gMDSzt78NL6gDA3I6vab0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTEx/ODI0LTE2Nzk5NzA0/NzYtOTc3NC5wbmc.jpeg) | 2017-03-10 | Wanessa Camargo | 33 |
+| 9 | ![Cover](https://i.discogs.com/mQ-Dl1yVmep2mIkKvsC6y6JUST_A0rkHvcDYl-vHODI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjI4/NTE5LTE2MDU2Mjc5/NDktODg5Mi5qcGVn.jpeg) | 2017-07-28 | Naiara Azevedo | Sim (Ao Vivo) |
+| 8 | ![Cover](https://i.discogs.com/gCBgaPl6WtpyzRJrWQhmoKZwanv7lOzxJPJ3YGCZ8WQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTgx/OTU3LTE1Mjk5NDI0/MjItNDE3OS5qcGVn.jpeg) | 2018 | Matheus &amp; Kauan | Intensamente Hoje! (Ao Vivo &#x2F; Vol. 3) |
+| 70 | ![Cover](https://i.discogs.com/Vkta0TdEgMLvIl1IMoCi9AqnceR8XmV6ZseDUXhbn_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk2/MTczLTE1NDAyMjU3/MzYtMTM2OC5qcGVn.jpeg) | 2018 | George Henrique &amp; Rodrigo | Bagunça Minha Vida (Ao Vivo Em Goiânia &#x2F; 2019) |
+| 71 |  | 2018 | Mc Bruninho | Jogo Do Amor |
+| 79 | ![Cover](https://i.discogs.com/6fBadkxXN-NQPOanxpVhuvIr2McVdWKU1W-YyqlPR1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY3/MTgzLTE2NjI3NzI5/MjctNzI5My5qcGVn.jpeg) | 2018 | Zé Neto &amp; Cristiano | Esquece o Mundo Lá Fora (Ao Vivo) |
+| 89 | ![Cover](https://i.discogs.com/SQSMJpnZgdoV7zsak7bHEQ-pobELimbyPq1KoToizvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NzQz/NTAtMTQ4NDU3MDM1/NC05NTc5LmpwZWc.jpeg) | 2018 | Zé Neto &amp; Cristiano | Acústico de Novo |
+| 94 | ![Cover](https://i.discogs.com/2WfFFSs3cgGKOkHjCJIWbdIGZi5oqgN_Wq1ocARr15M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTgy/ODQyLTE1MjU5NzMw/ODktODg4MS5qcGVn.jpeg) | 2018 | Marília Mendonça | Realidade - Ao Vivo em Manaus |
+| 85 | ![Cover](https://i.discogs.com/agI5wk_6qhSVfdTjpsTyZfl7ZRzIBBjbRX-LhB0DGPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTc1/MjI2LTE2MjI1NzEy/NjItMTY2OC5qcGVn.jpeg) | 2018-02-23 | Jorge &amp; Mateus | Terra Sem CEP (Ao Vivo) |
+| 83 | ![Cover](https://i.discogs.com/nkNY4sEH16sfF99wLJXhlSm_igSIXF8H7pkOdTAbwN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI2/NDI5LTE1ODA0NDUy/NzMtNjk3OC5qcGVn.jpeg) | 2019-10-18 | Lauana Prado | Lauana Prado |
+| 92 | ![Cover](https://i.discogs.com/-CAnk78xLEKlyNXx5VAhXrefbBY8stHeg-rO_C5D_VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzc4/NDIzLTE2MjU0MTk4/NjUtNDI3Ny5qcGVn.jpeg) | 2021-05-06 | Pabllo Vittar | Ama Sofre Chora |
+| 86 | ![Cover](https://i.discogs.com/SYZnXtNWwGQipwzSxlhssRIp1TOd-1pyc6bXPeS-KtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzY1/MjQ3LTE2Nzg0MTM5/NjItNzcwNi5qcGVn.jpeg) | 2022-11-17 | Luan Pereira | ELA PIROU NA DODGE RAM |
+| 93 | ![Cover](https://i.discogs.com/jXN7t9asVKn7hbUBGgWIRNulBw_uCAu9eYgdiBUM1rE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjYz/ODgtMTQzOTkyMDA4/OS0zNDM0LmpwZWc.jpeg) | 2022-11-30 | Anitta | À Procura da Anitta Perfeita |
+| 87 | ![Cover](https://i.discogs.com/myyssPZrFa9aYpkWYwCdtNVwyiP989ws182aIElHSM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQx/NTQyLTE2MzczMzI5/MDQtNjc0OC5qcGVn.jpeg) | 2022-12-16 | ANAVITÓRIA | Fica |
+| 99 | ![Cover](https://i.discogs.com/kp739h9SZYLRpOxMEJOuPFoT1tAEgM8XRWwptoGzqfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI1/MjU3LTE2NzgxMTc0/OTEtODA2OS5qcGVn.jpeg) | 2023-01-27 | Simone Mendes | Cintilante (Ao Vivo) |
+| 43 | ![Cover](https://i.discogs.com/-1lZi0WJRpAPGscO7EJkpPdp07RfSdUTJf6rCrrF-mA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzY4/NDIzLTE2ODE1NjQz/NTktMTk5OC5qcGVn.jpeg) | 2023-03-24 | Simone Mendes | Mesa Vermelha |
+
+### Related genres
+
+- [brazilian]({{ "/tags/brazilian" | relative_url }})
+- [country]({{ "/tags/country" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [brazil]({{ "/tags/brazil" | relative_url }})
+- [viola]({{ "/tags/viola" | relative_url }})
+- [mpb]({{ "/tags/mpb" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [male vocalists]({{ "/tags/male-vocalists" | relative_url }})
+- [romantica]({{ "/tags/romantica" | relative_url }})

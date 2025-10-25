@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T20:46:41.217Z
+permalink: tags/funk
+title: funk
+---
+
+## funk
+
+Last updated: <time datetime="2025-10-22T20:46:41.217Z">Wed Oct 22 2025 23:46:41 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 3 |  | 1965 | James Brown | Out of Sight |
+| 5 |  | 1969-04 | Sly &amp; The Family Stone | Stand! |
+| 21 |  | 1971 | The Beginning Of The End | Funky Nassau |
+| 91 |  | 1971-07-12 | Funkadelic | Maggot Brain |
+| 43 | ![Cover](https://i.discogs.com/j7LqAZ2GVEoWJDGFyJ-hXQ5SbEQJWf-11zTbh9Ip9v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzY3/OS0xMzMxMjIwODQz/LmpwZWc.jpeg) | 1971-11-20 | Sly &amp; The Family Stone | There&#39;s A Riot Goin&#39; On |
+| 24 |  | 1972 | Cymande | Cymande |
+| 17 |  | 1972-10-27 | Stevie Wonder | Talking Book |
+| 40 |  | 1973 | Sly &amp; The Family Stone | Fresh |
+| 56 | ![Cover](https://i.discogs.com/M4ibOBpiFnBXW9T3KmcXBAK89xhx1HSA_W9cXBJArjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzA3/NS0xMTYzNDMxNDY5/LmpwZWc.jpeg) | 1973 | Incredible Bongo Band | Bongo Rock |
+| 32 |  | 1973-09-09 | Kool &amp; The Gang | Wild And Peaceful |
+| 23 |  | 1974 | Kool &amp; The Gang | Light Of Worlds |
+| 9 |  | 1974-09 | Funkadelic | Standing on the Verge of Getting It On |
+| 47 |  | 1975-03 | Earth, Wind &amp; Fire | That&#39;s The Way Of The World |
+| 50 | ![Cover](https://i.discogs.com/oHf5igvpOMzfb1SP-Tm3RlDAOdPU0wbp7rQUROhO1P8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTQ4/MC0xMjg0NDgzMjQy/LmpwZWc.jpeg) | 1975-06 | War | Why Can&#39;t We Be Friends? |
+| 63 |  | 1975-12-15 | Parliament | Mothership Connection |
+| 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/07b4c46010944aeeca2d3b09c2a69955.png) | 1976 | Wild Cherry | Wild Cherry |
+| 11 | ![Cover](https://i.discogs.com/0lWOmIIOvwsN_YqXFZ9lEr9qp1Xv0QHi6kMpilx3sCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjM0/NTktMTM4ODQ1ODIz/OC02MTA0LmpwZWc.jpeg) | 1977 | Earth, Wind &amp; Fire | All &#39;N All |
+| 37 |  | 1977-12 | Parliament | Funkentelechy Vs. The Placebo Syndrome |
+| 19 |  | 1978-11-08 | Chic | C&#39;est Chic |
+| 55 |  | 1979 | Prince | Prince |
+| 76 | ![Cover](https://i.discogs.com/mvYyUjsdJ5dUkR0P54vzxyQcAVcqHjmcJUTM4a4BXcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTg0/Ni0xMjQ4MjAzMDYw/LmpwZWc.jpeg) | 1979-07-16 | Earth, Wind &amp; Fire | I Am |
+| 31 | ![Cover](https://i.discogs.com/ln1c476ArdqEoRocLaMwQiILDclHmacAESC4dgGi8Bs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjUy/MC0xMjM0MDAzNjk3/LmpwZWc.jpeg) | 1979-07-30 | Chic | Risqué |
+| 86 | ![Cover](https://i.discogs.com/wPlYDh5obPe3O6-kNAVWPE_kiha1mRTzNDfnFR3LB9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzEx/MDgtMTE4OTkxOTUx/Ni5qcGVn.jpeg) | 1980 | Queen | Jazz (2011 Remaster) |
+| 33 |  | 1980-09-20 | Kool &amp; The Gang | Celebrate! |
+| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4c2fc946064e41dfb44fed3eac7321dc.png) | 1980-10-08 | Prince | Dirty Mind |
+| 80 | ![Cover](https://i.discogs.com/bViOnDHBsR5RlMIikFQUgAMYdxSr6NnpXbDtNDr79Og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzMw/My0xNjkwODM1OTY4/LTk5MDkuanBlZw.jpeg) | 1981 | Earth, Wind &amp; Fire | Raise!! |
+| 22 |  | 1981-04-07 | Rick James | Street Songs |
+| 15 |  | 1981-09-02 | Prince | Controversy |
+| 29 |  | 1981-09-24 | Kool &amp; The Gang | Something Special |
+| 79 |  | 1981-11 | Earth, Wind &amp; Fire | Raise! |
+| 60 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7ec21e17d7987a7b54f0ba243d73d41f.png) | 1982-10-27 | Prince | 1999 |
+| 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2a783d64b0ea6d133eb7f6258ec1b6b0.png) | 1982-12-04 | Prince | Purple Rain |
+| 7 | ![Cover](https://i.discogs.com/69pxgQ3A5WYYGpmPkEhBPc_xNKnuqtWFkrF2vT_ua9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTU3/MzUtMTMzMjY3MzQz/NS5qcGVn.jpeg) | 1984-07 | Talking Heads | Fear Of Music (Deluxe Version) |
+| 58 | ![Cover](https://i.discogs.com/fixgbX_RJo4tb8wWBi6tqr2kL06T1Krq4DZCySJs_RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTAw/MzQtMTQzMDIyMjA3/NS01MzA3LmpwZWc.jpeg) | 1985-04-22 | Prince | Around The World In A Day |
+| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ef3cb45a924ef4383f4ee2a3989f2d6a.png) | 1985-08-16 | Red Hot Chili Peppers | Freaky Styley |
+| 39 | ![Cover](https://i.discogs.com/bWIs5SxYw8Fc-QU3QUSj0_H-b8lestOkoYztDONiShg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQy/NS0xMTg1NzUwODIx/LmpwZWc.jpeg) | 1987-08-31 | Michael Jackson | Bad (Remastered) |
+| 65 | ![Cover](https://i.discogs.com/6_NudES4e4MShIKdMCikCLs_D0rD4GPCq4Dlt_jJReg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzc0/NjQ4LTE2MTMxMTYx/MTktNDI3MS5qcGVn.jpeg) | 1988 | Ali | LOST IN PARADISE |
+| 1 | ![Cover](https://i.discogs.com/q_NX2FYb56TPvpiT4mGMpzdiOLXKZDqaRyxUHSMUKas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTgz/MTEtMTQ2NTA1MzM0/My03MDkzLmpwZWc.jpeg) | 1990 | Red Hot Chili Peppers | Blood Sugar Sex Magik (Deluxe Version) |
+| 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2a1fb244765c5bccae41764a4f6b1fb1.png) | 1990 | Red Hot Chili Peppers | Californication (Deluxe Version) |
+| 25 | ![Cover](https://i.discogs.com/iBmoMjT-KAhr2AeeTRfqaHA2AZF-bDdlpT0OqSTW2QQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjQ3/NzE0LTE2MTU3NTM4/ODktNjI4Ni5qcGVn.jpeg) | 1994 | Pedro Sampaio | CHAMA MEU NOME |
+| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/98de1f5cf9594bc35bdbead4d8fc2dd2.png) | 1995 | D&#39;Angelo | Black Messiah |
+| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5c9ba94ccc7c457bc57d84f2e1f28382.png) | 1996-02-20 | Fun Lovin&#39; Criminals | Come Find Yourself |
+| 75 |  | 1996-08-28 | Jamiroquai | Travelling Without Moving |
+| 71 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3178b5958f3c20f5d8a312161b085f00.png) | 1998-04-29 | Lenny Kravitz | 5 |
+| 26 |  | 1998-11-17 | Earth, Wind &amp; Fire | Greatest Hits |
+| 81 |  | 1999-06-07 | Jamiroquai | Synkronized |
+| 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/458760ad7889b0019bee0403fce9629f.png) | 1999-11-20 | Beck | Midnite Vultures |
+| 53 |  | 2001-07-30 | Prince | The Very Best of Prince |
+| 84 |  | 2001-08-29 | Jamiroquai | A Funk Odyssey |
+| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0cf21de2eafd4326c3400f761cace533.png) | 2002 | Red Hot Chili Peppers | By The Way (Deluxe Version) |
+| 27 | ![Cover](https://i.discogs.com/76U9vtoCQJNTGE_PXdz8CyG-eqLoo8u08LW1R_qwH5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTY0/OS0xNDk5NDY1NTcx/LTE3OTkuanBlZw.jpeg) | 2003-09-29 | OutKast | Speakerboxxx&#x2F;The Love Below |
+| 73 |  | 2005-05-20 | Jamiroquai | Dynamite |
+| 12 |  | 2005-11-29 | The Budos Band | The Budos Band |
+| 94 |  | 2006-04-24 | Gnarls Barkley | St. Elsewhere |
+| 46 |  | 2006-11-03 | Jamiroquai | High Times: Singles 1992-2006 |
+| 44 |  | 2007-02-03 | Angus &amp; Julia Stone | Heart Full of Wine |
+| 83 |  | 2007-04-14 | Mark Ronson | Version |
+| 77 |  | 2008-01-01 | Cee Lo Green | Kung Fu Fighting |
+| 67 |  | 2008-03-18 | Gnarls Barkley | The Odd Couple |
+| 28 | ![Cover](https://i.discogs.com/a0z97StmRIyw-_H71Cb2RmQIi2fVnz8PaNogBFhCeyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU2/OTgtMTIyNzgwMDM0/MC5qcGVn.jpeg) | 2008-10-14 | Menahan Street Band | Make the Road by Walking |
+| 14 | ![Cover](https://i.discogs.com/3WiA2gKnnbH6d-YDssfoK5w6Mb872Yh92GgqyKcA1tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjc1/NTM4LTE1NzEyNTMy/MDYtNjA2MC5wbmc.jpeg) | 2009-10-12 | Booker T. &amp; the MG&#39;s | Green Onions &#x2F; Behave Yourself [Digital 45] |
+| 82 |  | 2010-05-17 | Janelle Monáe | The ArchAndroid |
+| 72 |  | 2010-06-28 | Herbie Hancock | Head Hunters |
+| 42 | ![Cover](https://i.discogs.com/TGI4EQL3O64XoiKGm2l7ObuYKTrZPAGgL3dcVWjP5oI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDgy/MjEtMTMxNjQzNjg3/NC5qcGVn.jpeg) | 2010-09-14 | Chromeo | Business Casual |
+| 66 |  | 2010-11-05 | CeeLo Green | The Lady Killer |
+| 48 | ![Cover](https://i.discogs.com/SIzKMG2mjezcD07lqpRfpwRunSQG0OjDbngAXNbVwlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODMw/NTMtMTQ1MjgxMTQ2/Ny04MjA3LmpwZWc.jpeg) | 2012-09-17 | Breakbot | By Your Side |
+| 96 | ![Cover](https://i.discogs.com/ESf9AoW-WnF_i1tUy3iedNT5Y53TD1DPWMU4eHo4iFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzU0/MDA4LTE1OTcxNzIw/NjYtODA3OC5qcGVn.jpeg) | 2012-12-03 | Bruno Mars | An Evening With Silk Sonic |
+| 92 |  | 2013-05-17 | Daft Punk | Random Access Memories |
+| 100 | ![Cover](https://i.discogs.com/5k2mTpkMQOsartQid6FSRft9IJtCPEfGsuUYlcp1rLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzQ5/OTg4LTE2NzM1NzUy/NTUtMjk3My5qcGVn.jpeg) | 2013-10-04 | Miley Cyrus | Flowers |
+| 88 | ![Cover](https://i.discogs.com/FutvXTQj5o-WSweAIhOdIr_ZpKDfoUvvy9k4TPYn3k0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTk2/NzItMTQwNjU2ODcx/OS03MjY4LmpwZWc.jpeg) | 2014-03-04 | Pharrell Williams | G I R L |
+| 36 |  | 2014-04-11 | Paolo Nutini | Caustic Love |
+| 45 |  | 2014-08-26 | Vulfpeck | Fugue State |
+| 95 |  | 2014-11-10 | Mark Ronson | Uptown Funk |
+| 90 |  | 2015-01-12 | Mark Ronson | Uptown Special |
+| 69 | ![Cover](https://i.discogs.com/DLLwBajeE5HO1FICW8LDkw5OVdP2_v0yDI1k9VtajXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODEy/ODYtMTU4NjA5MTU4/OC04ODQ5LmpwZWc.jpeg) | 2015-03-16 | Kendrick Lamar | To Pimp a Butterfly |
+| 49 | ![Cover](https://i.discogs.com/wRQMKTok2OY21D9SGnJjtnw9hQLgnUBHPllJIkKuMyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzc4/OTQtMTQ0NDQxNzI1/MC0yNjIyLmpwZWc.jpeg) | 2015-10-09 | Vulfpeck | Thrill of the Arts |
+| 38 | ![Cover](https://i.discogs.com/p4IxbucY8C-zPvemOgc2BrnXxsJNGdXS4NKzWbIOTCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDg2/MzgtMTQ3NjY5MDU1/My04MjczLmpwZWc.jpeg) | 2016-10-17 | Vulfpeck | The Beautiful Game |
+| 97 | ![Cover](https://i.discogs.com/4hoce4vk-WR_3l4TI-yZKC2bdPEuNEx3aOwUVD6obG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzEz/MTMtMTUzMTY0MDMz/Ni02OTgyLmpwZWc.jpeg) | 2016-12-02 | Childish Gambino | &quot;Awaken, My Love!&quot; |
+| 93 | ![Cover](https://i.discogs.com/hkiLCymgZ5bWU_vyaZ7Ffy1LBBoIHeTLVIqa91DFJJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDIw/OTA1LTE2NjU4MzYx/NjgtNTM5Ny5qcGVn.jpeg) | 2017-06-30 | Calvin Harris | Funk Wav Bounces Vol.1 |
+| 13 | ![Cover](https://i.discogs.com/zD3zoJ7cVopf8QDcGIQFMVX7q-mFFKw8QUXjqHy-ezM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI5/NDk3LTE1NTQwNDIy/NTEtOTQxNi5qcGVn.jpeg) | 2017-11-13 | LAY | Honey |
+| 10 | ![Cover](https://i.discogs.com/qad77JQCX-g33MjQkR3p2PzsgtrltvcRSysdQaoUrDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzM3/NzkxLTE1ODA3MDM2/MDMtODg1Ny5qcGVn.jpeg) | 2018-02-10 | Mc Hariel | Avisa que é o Funk |
+| 8 | ![Cover](https://i.discogs.com/an6jS3mI3FTmOJJD1lgF35I4DFshwWhQ81pj-RzBuAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTEy/MjMwLTE2ODQ0MDQ2/MDctMjYyOS5qcGVn.jpeg) | 2018-04-27 | Janelle Monáe | Dirty Computer |
+| 6 |  | 2018-09-17 | Bonde R300 | Oh Nanana |
+| 52 | ![Cover](https://i.discogs.com/jKjZArsweYIJV33kmzifU_fLC3lmtU6CgWmUA0ZbUkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUz/Nzg2LTE1NTQ1MDk0/MTctNTU3NC5qcGVn.jpeg) | 2018-11-09 | Anitta | KiSsES |
+| 78 | ![Cover](https://i.discogs.com/Ile5yhdrs1o3WppNx3ACwVrD9wcCfqBdrJAuIJivOwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc5/MjIzLTE1NDE3ODUw/MzAtMzYzMy5qcGVn.jpeg) | 2018-11-09 | Anitta | Solo |
+| 64 | ![Cover](https://i.discogs.com/Ogiojf58rF-tISzjQ8STXs8L0c7iPnwpIQ3RgFDZMPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEw/MjUyLTE1NDU4NjU4/ODItNjAzMC5qcGVn.jpeg) | 2018-11-16 | Anderson .Paak | Oxnard |
+| 61 | ![Cover](https://i.discogs.com/5wyZMCdHqEUy0fl9Iyek_r2gbi-MTbqleWNXFXGCMXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcy/ODc1LTE1NTY4ODkx/NzYtOTU3MC5qcGVn.jpeg) | 2019-01-19 | Toro y Moi | Outer Peace |
+| 99 | ![Cover](https://i.discogs.com/G6ubNUQqt5KmqzV97ls3jxB6z-7wp8MSUBYVQ-GJm5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTE4/NDgyLTE2MTEyNjM2/NjUtOTAwOS5qcGVn.jpeg) | 2020 | BTS | Dynamite |
+| 74 | ![Cover](https://i.discogs.com/BqQBl4FGrdq7VsCtEgxavEaYTix-kj4wNt3l4oqMUrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY4/NzI1LTE1ODQ4Nzk1/NDctNDIzNC5qcGVn.jpeg) | 2020-03-22 | Childish Gambino | 3.15.20 |
+| 89 | ![Cover](https://i.discogs.com/fjFXDgnmuuYeXCSi_z5yYC4z0-NMFf_9ISM8BmG_n9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDI0/NTc2LTE1ODU2NjIw/OTYtMjU4NS5qcGVn.jpeg) | 2020-04-03 | Thundercat | It Is What It Is |
+| 59 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/81ff9e231e5852e054a97e6a3e86bf57.png) | 2020-06-26 | Khruangbin | Mordechai |
+| 35 | ![Cover](https://i.discogs.com/JLBQo77WOK7B-j_gGqHjq4C-UXOGsFKVjpaxtfif7PY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzYw/MjAxLTE2NzgzODE3/MDctMjQzMC5qcGVn.jpeg) | 2021-06-18 | Felipe Amorim | Cadê o After? Pt. 1 |
+| 62 | ![Cover](https://i.discogs.com/sfaBzXIBaDoxOjhxT4fLJspZxcB0lCRG06fVqqTb1tU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTIx/NTMwLTE2NDQ2MjA4/OTYtNTg5MC5qcGVn.jpeg) | 2022-02-10 | Gloria Groove | Lady Leste |
+| 34 | ![Cover](https://i.discogs.com/WHKQjyippw76lY8xCgFuqSbp21pD4nzsCVMxyM9722o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzA3/Mzg2LTE2NDIwMDY3/MjgtODA3NS5qcGVn.jpeg) | 2022-03-15 | The Weeknd | Dawn FM (Alternate World) |
+| 98 | ![Cover](https://i.discogs.com/4VfVdB_DZvvoB5RqiRGRzS7sFnu0BkmAdHOA1tCLv1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTYz/MDYyLTE2NTIwNzU5/NzQtNzI2OS5qcGVn.jpeg) | 2022-05-08 | Kendrick Lamar | The Heart Part 5 |
+| 18 | ![Cover](https://i.discogs.com/WjsxSUNG22X8Ryfj806_bXrivmzlSewOZal0GzHJP8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzYx/MjAwLTE2NzgzODYy/NzktNjc2MC5qcGVn.jpeg) | 2022-10-18 | Priscilla | Quer Dançar |
+| 41 | ![Cover](https://i.discogs.com/7ss-os5VyWJUBIfRAW8JmW37kexnq8qHyOKLyAANcKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTEx/NDMtMTM5Nzk1MDEy/Mi0xNzk3LmpwZWc.jpeg) | 2023-08-24 | BADBADNOTGOOD | The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist) |
+| 68 | ![Cover](https://i.discogs.com/IeVi22AeP6_83Dys0ot62H0BHauxBaED9uPQg88SUxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTI1/NTc0LTE2OTM0Mjg3/OTMtMjUzNS5qcGVn.jpeg) | 2023-08-24 | Anitta | Funk Generation: A Favela Love Story |
+| 30 | ![Cover](https://i.discogs.com/k2Zjy3vfFR1igkcx5ql0LouLfMErLv1ggX1M8vtmUQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQ1/NDIzLTE2OTc3Njk4/NjYtODcyOC5wbmc.jpeg) | 2023-10-20 | Ana Frango elétrico | Me Chama De Gato Que Eu Sou Sua |
+| 85 | ![Cover](https://i.discogs.com/cM520WT5kYeOM-4qPA_JGAbkIuy98d9pWSxUWNDmqQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQx/ODg5LTE3MDAyMjgx/NjAtNDE3Ny5qcGVn.jpeg) | 2023-11-17 | ENHYPEN | ORANGE BLOOD |
+
+### Related genres
+
+- [soul]({{ "/tags/soul" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [jazz]({{ "/tags/jazz" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [acoustic]({{ "/tags/acoustic" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [disco]({{ "/tags/disco" | relative_url }})
+- [dance]({{ "/tags/dance" | relative_url }})
+- [acid jazz]({{ "/tags/acid-jazz" | relative_url }})

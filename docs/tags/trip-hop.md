@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-24T22:45:20.397Z
+permalink: tags/trip-hop
+title: trip-hop
+---
+
+## trip-hop
+
+Last updated: <time datetime="2025-10-24T22:45:20.397Z">Sat Oct 25 2025 01:45:20 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 70 | ![Cover](https://i.discogs.com/LirGtS8NJkrQGcfqvLj3ZOl7meEARupQQaauijyPyQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDY1/NjQtMTM1MzQ0NTc3/OS0zNDM3LmpwZWc.jpeg) | 1991 | Massive Attack | Blue Lines (2012 Mix&#x2F;Master) |
+| 92 |  | 1991-04-08 | Massive Attack | Blue Lines |
+| 99 |  | 1994-08-22 | Portishead | Dummy |
+| 91 | ![Cover](https://i.discogs.com/Z5Z5Ucw0XVtcmfRwf0Kk_L_4nZfwrm0OxhpvPLmKWBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc5/LTEyMjI1Mjk2OTku/anBlZw.jpeg) | 1994-09-26 | Massive Attack | Protection |
+| 86 |  | 1995-02-20 | Tricky | Maxinquaye |
+| 14 | ![Cover](https://i.discogs.com/4Qp22xjrLdavuJlgxRZQI_-7djMbXJFVnyBGtmIGsFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAz/OS0xMTkwMTE3MTA1/LmpwZWc.jpeg) | 1995-09 | Moloko | Do You Like My Tight Sweater? |
+| 24 |  | 1996 | Hooverphonic | A New Stereophonic Sound Spectacular |
+| 37 |  | 1996-04-08 | Morcheeba | Who Can You Trust? |
+| 45 |  | 1996-05-20 | Archive | Londinium |
+| 84 |  | 1996-08-07 | Sneaker Pimps | Becoming X |
+| 60 |  | 1996-09-16 | DJ Shadow | Endtroducing..... |
+| 68 |  | 1996-09-30 | Lamb | Lamb |
+| 6 |  | 1996-10-28 | Tricky | Pre-Millennium Tension |
+| 7 | ![Cover](https://i.discogs.com/MYZ7frOaPAL2020EoRAg5LOzKYdA031S81S_Kcp23Lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjAy/LTEyNTE4MzQwNTEu/anBlZw.jpeg) | 1996-11-11 | Tricky | Pre-Millenium Tension |
+| 51 | ![Cover](https://i.discogs.com/51YATZzKi7Y3buu71Jfb8GhJIRcPZvf2xoBjcGrP3hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzgz/LTEyNzA1NTYyNTQu/anBlZw.jpeg) | 1997-04-14 | Faithless | Reverence |
+| 62 |  | 1997-06-24 | Smoke City | Flying Away |
+| 93 |  | 1997-09-29 | Portishead | Portishead |
+| 2 |  | 1997-11-25 | Kid Loco | A Grand Love Story |
+| 50 |  | 1998 | Esthero | Breath From Another |
+| 88 |  | 1998-03-16 | Morcheeba | Big Calm |
+| 100 |  | 1998-04-17 | Massive Attack | Mezzanine |
+| 57 |  | 1998-05-11 | Hooverphonic | Blue Wonder Power Milk |
+| 39 | ![Cover](https://i.discogs.com/QTIQd9n7SGAtooL2YCW-9vKIN6Lg-UM4ZFEE8vRhrtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTEt/MTU3Mjg2NTQ0OC0x/ODEzLmpwZWc.jpeg) | 1998-06-01 | Moloko | I&#39;m Not A Doctor |
+| 13 |  | 1998-07-27 | Moloko | I Am Not a Doctor |
+| 82 |  | 1998-08-21 | UNKLE | Psyence Fiction |
+| 69 |  | 1998-11-02 | Portishead | Roseland NYC Live |
+| 16 | ![Cover](https://i.discogs.com/ig8s1xHNWG1_KnTHrCUVhaK848GhVfqAlD81HQ-DBqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODUt/MTIzMTEwODIxNy5q/cGVn.jpeg) | 1999-05-17 | Lamb | Fear Of Fours |
+| 44 |  | 1999-10-25 | Sneaker Pimps | Splinter |
+| 35 |  | 2000 | Supreme Beings of Leisure | Supreme Beings of Leisure |
+| 77 | ![Cover](https://i.discogs.com/QfNKyXk1wNNH9dK9ihJZsSCNOxEtka_X2M5uDRzybXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTM1/LTE0NzYyNjQxOTAt/Mjc2Ny5qcGVn.jpeg) | 2000 | Hooverphonic | Magnificent Tree |
+| 33 |  | 2000-03-29 | Moloko | Things to Make and Do |
+| 43 |  | 2000-07-10 | Morcheeba | Fragments of Freedom |
+| 55 |  | 2000-07-24 | Bonobo | Animal Magic |
+| 9 | ![Cover](https://i.discogs.com/G2M-tB70EZo0Hm6H-OJ0G908mSuPDKfOuSnFC3uEkvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzct/MTQ0ODE1MjQzMC0y/OTgwLmpwZWc.jpeg) | 2000-08-21 | Thievery Corporation | The Mirror Conspiracy |
+| 80 |  | 2000-08-23 | Hooverphonic | The Magnificent Tree |
+| 85 |  | 2000-09-11 | Goldfrapp | Felt Mountain |
+| 18 | ![Cover](https://i.discogs.com/m7auA_Thfr9Jt-I_N3-FSl7zggHJJ7YgUPPDPKoBKKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM3/Mjk2LTE1OTQ5OTA5/MjItNTUxMy5qcGVn.jpeg) | 2001 | DJ Krush | Jaku |
+| 41 | ![Cover](https://i.discogs.com/3obiwPTr3lJuR4zaEamiElsBVE07DBKW03L1rTKeEdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjE2/MzI1LTE2Mzg1NjI0/NjMtNjE2NC5qcGVn.jpeg) | 2001 | Lovage | Music to Make Love to Your Old Lady By |
+| 34 |  | 2001-01-01 | Télépopmusik | Genetic World |
+| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/86fc45f14a789e9fee32a99ea9036d3d.png) | 2001-03-24 | Gorillaz | Gorillaz |
+| 10 |  | 2001-06-20 | Tricky | Blowback |
+| 26 | ![Cover](https://i.discogs.com/kdN1uEcXT_Q3fZIVUUSRvEDHsTjHbk9gQULzzStAOMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDEx/LTE0NjQ4NzYzMDAt/Mzk1OC5qcGVn.jpeg) | 2001-06-25 | Kosheen | Resist |
+| 71 |  | 2001-10-08 | Lamb | What Sound |
+| 56 |  | 2002-01-22 | Sneaker Pimps | Bloodsport |
+| 63 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cfc8ad4402d34f18a38ab597acee9b34.png) | 2002-03-12 | Archive | You All Look the Same to Me |
+| 59 | ![Cover](https://i.discogs.com/HMA1FWjztck8JPNczHQsUiqZDuqOp_B7bGq2CbDTaEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE2/MS0xNDMwNzk3MzM4/LTY1ODAuanBlZw.jpeg) | 2002-05-22 | DJ Shadow | The Private Press |
+| 72 | ![Cover](https://i.discogs.com/-MWKDPS5CIYffMmy8nTIV-_y75m3zgfnzU5Diz8_IwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODUy/OC0xNTA1MTYwNzc4/LTczMDMuanBlZw.jpeg) | 2002-07-01 | Morcheeba | Charango |
+| 38 |  | 2002-10-28 | Beth Gibbons &amp; Rustin Man | Out of Season |
+| 90 |  | 2002-12 | Massive Attack | 100th Window |
+| 4 |  | 2003 | Bang Gang | Something Wrong |
+| 58 |  | 2003-01-06 | Moloko | Statues |
+| 46 | ![Cover](https://i.discogs.com/lPJIAVLltf-9-zJhlitmOR9C1xlcQ3xid2VczTklhIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg4/My0xNTQ4MDI5NTU0/LTUxMjEuanBlZw.jpeg) | 2003-02-24 | Massive Attack | Special Cases |
+| 47 |  | 2003-06 | Martina Topley-Bird | Quixotic |
+| 64 |  | 2003-09-22 | UNKLE | Never, Never, Land |
+| 61 |  | 2003-11-03 | Lamb | Between Darkness And Wonder |
+| 25 | ![Cover](https://i.discogs.com/twQ7qXpt_le9UhVZm7te2J7sLEDLmoszhyY6sw6irAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTYz/Ni0xMTQwMzI2ODY4/LmpwZWc.jpeg) | 2004-03-23 | Blockhead | Music By Cavelight |
+| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0448d56a755444faa77d0c1b8d77f60e.png) | 2004-03-23 | Archive | Noise |
+| 3 |  | 2005-02-22 | Wax Tailor | Tales of the Forgotten Melodies |
+| 48 |  | 2005-02-22 | Télépopmusik | Angel Milk |
+| 17 | ![Cover](https://i.discogs.com/DIzSTwHMsNgfsLV8pqlkettUEXJF3CnH7_x9gEja7b4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NzE5/Ni0xMTc4MTg1MDYx/LmpwZWc.jpeg) | 2005-10-01 | Pati Yang | Silent Treatment |
+| 1 |  | 2005-10-17 | Blockhead | Downtown Science |
+| 20 |  | 2005-10-21 | Yonderboi | SPLENDID ISOLATION |
+| 53 |  | 2005-12-17 | Gorillaz | Dirty Harry |
+| 36 | ![Cover](https://i.discogs.com/PX27gu2dHjTJIy_Ux4c6012CPvw4OFpskJGvCwqZvF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTMw/NC0xMjc4Mjg2MjA4/LmpwZWc.jpeg) | 2006 | Bitter:Sweet | The Mating Game |
+| 81 |  | 2006-03-23 | Massive Attack | Collected |
+| 8 |  | 2006-05-23 | Halou | Wholeness &amp; Separation |
+| 22 | ![Cover](https://i.discogs.com/wIzdDDGLbyIDUKClvW7GH9KlXVvRyllVPpbOLwfI2g0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODQy/ODUtMTQxMDI1MDg2/NC02NTE1LmpwZWc.jpeg) | 2006-06-01 | Saltillo | Ganglion |
+| 23 |  | 2006-06-17 | Moloko | Catalogue |
+| 74 |  | 2006-10-02 | Bonobo | Days to Come |
+| 29 |  | 2007 | Martina Topley-Bird | The Blue God |
+| 54 |  | 2007-04-07 | Elsiane | Hybrid |
+| 65 |  | 2007-06-20 | UNKLE | War Stories |
+| 21 |  | 2007-06-22 | Stateless | Stateless |
+| 73 |  | 2007-08-15 | Little Dragon | Little Dragon |
+| 32 | ![Cover](https://i.discogs.com/HZCH9noEcLXz6spSfnRnMv_mzmCk-l1UJ6FU0lK1WRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjU1/OS0xMTY3NDAxNjE2/LmpwZWc.jpeg) | 2008 | Morcheeba | The Antidote |
+| 52 |  | 2008-02-04 | Morcheeba | Dive Deep |
+| 67 | ![Cover](https://i.discogs.com/A_NYgHUtATaZGgaLvAGNBVr4WdxcFy6YIXCumSrkn08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTMz/MjgtMTIwNDI0MjM0/MC5qcGVn.jpeg) | 2008-02-06 | Goldfrapp | Seventh Tree |
+| 95 | ![Cover](https://i.discogs.com/yxtmTBf8VD0v6ZVR8S83Sz_b-_ESjAqY0Mq4ZPZ8wf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcz/MTQtMTQ2MTYwNzQx/Mi01ODk1LmpwZWc.jpeg) | 2008-04-08 | Portishead | Third |
+| 30 | ![Cover](https://i.discogs.com/ly5OWhjf7cxVe5p6P7BH_W9RhwVaKyV8_sGbt5iLlTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTAy/ODItMTY2ODg1ODgy/NC02MzMwLmpwZWc.jpeg) | 2009-08-17 | Little Dragon | Machine Dreams |
+| 5 | ![Cover](https://i.discogs.com/B1RHEiDlA9n_-b1KEM98y1E2obgVFUX-2vRUhVZhjvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTE0/MjQtMTMzODkyMDE1/MS0yOTgyLmpwZWc.jpeg) | 2009-09 | Massive Attack | Splitting the Atom |
+| 15 |  | 2009-09 | Blockhead | The Music Scene |
+| 89 |  | 2009-09-15 | Phantogram | Eyelid Movies |
+| 94 |  | 2010-02-03 | Massive Attack | Heligoland |
+| 76 |  | 2010-03-13 | Bonobo | Black Sands |
+| 75 | ![Cover](https://i.discogs.com/z2lDYVa8FIS1ejW69qNGu-qCWFRkP8qKyfJVgbAswIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODk1/MzMtMTM5MTUxNzMx/NC0xNTE0LmpwZWc.jpeg) | 2011-05-13 | Little Dragon | Ritual Union |
+| 11 |  | 2011-10-04 | Mayer Hawthorne | How Do You Do |
+| 97 |  | 2012-01-24 | Lana Del Rey | Born to Die - The Paradise Edition |
+| 98 |  | 2012-01-24 | Lana Del Rey | Born to Die |
+| 66 | ![Cover](https://i.discogs.com/k5nd4aqulEV3e5dZ8Rpzum1eQcqla_9KXYbnofiwHkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODg4/MDgtMTQ2MDA1NTU0/My04OTk0LmpwZWc.jpeg) | 2012-12-04 | FKA twigs | EP1 |
+| 19 |  | 2013-09-06 | Goldfrapp | Tales of Us |
+| 87 |  | 2013-09-17 | FKA twigs | EP2 |
+| 12 |  | 2014-01-17 | Warpaint | Warpaint |
+| 42 |  | 2014-02-18 | Phantogram | Voices |
+| 49 | ![Cover](https://i.discogs.com/-vb7N8-3OcUTA75FJHpq4T_GN2ZrGN1363IyrmbiPHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTAz/MTktMTQwNDQxNzI0/MS0yMzg3LmpwZWc.jpeg) | 2014-07-07 | Sia | 1000 Forms of Fear (Deluxe Version) |
+| 96 | ![Cover](https://i.discogs.com/_0HjMrOzNb1qH49W34K8f7BgoikRGk1GGG-7zheWaZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDQ2/MzItMTQ0MDc5MDM0/My04NTQ2LmpwZWc.jpeg) | 2015-09-17 | Lana Del Rey | Honeymoon |
+| 83 | ![Cover](https://i.discogs.com/zw2Sr_Rr9-XNwqjT8lraGALDAm76OIHYgVn47YrbgKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDgw/MzYtMTQ2MjMxMjQ1/Ni05NDU3LmpwZWc.jpeg) | 2016-02-19 | FKA twigs | Good to Love |
+| 28 | ![Cover](https://i.discogs.com/8CyAVXIYViE5H1WurkWjDD2wtZbE_FZfNW4N2igqxXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODg0/NTMwLTE1NjE0MTIz/MzItMzU0NC5qcGVn.jpeg) | 2018-11-30 | Skinshape | Filoxiny |
+| 27 | ![Cover](https://i.discogs.com/PSpiqCzzB2jOW5hC27pNnAF34Fm5oDC_uqlqQJR5Qag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDc0/NDg5LTE1NjY0MDcw/OTgtODIxMy5qcGVn.jpeg) | 2019-04-12 | Fontaines D.C. | Starburster |
+| 78 | ![Cover](https://i.discogs.com/CbGTwmZ-ooKKLf74VA88yn2VC91x9r5tyuZY1k4nRMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzM1/MDM2LTE2MTQ2MzIx/NTItNjk0NS5qcGVn.jpeg) | 2021-02-26 | Madison Beer | Life Support |
+| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/44592187ade17dafe3531db1b7cafbe1.png) |  | twenty one pilots | Clancy |
+
+### Related genres
+
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [downtempo]({{ "/tags/downtempo" | relative_url }})
+- [electronica]({{ "/tags/electronica" | relative_url }})
+- [chillout]({{ "/tags/chillout" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [hip-hop]({{ "/tags/hip-hop" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [idm]({{ "/tags/idm" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})

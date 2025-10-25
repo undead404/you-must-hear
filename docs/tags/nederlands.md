@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T06:23:36.799Z
+permalink: tags/nederlands
+title: nederlands
+---
+
+## nederlands
+
+Last updated: <time datetime="2025-10-22T06:23:36.799Z">Wed Oct 22 2025 09:23:36 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 8 |  |  | Gëinst | Mantra |
+| 12 |  |  | Matthijs Kouw | The Great Image Has No Form |
+| 65 |  |  | VC-118A | Vaxna |
+| 87 | ![Cover](https://i.discogs.com/cVvEQvwUI-PHeQOnDi3XAO8oYAD-Vqw_n3n8ZRCp5gE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTk2/MTItMTYzNTM2MTIx/OS0xODU0LmpwZWc.jpeg) | 1968 | Herman van Veen | Nu En Dan - 30 Jaar Herman Van Veen |
+| 78 |  | 1977 | Various Artists | Groningse Vonk |
+| 7 | ![Cover](https://i.discogs.com/FOFUGM0XHjh9c3AuYm1TF-d1FJ0OVqO2lbvfyLgtMy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTU2/NC0xMTc2NDg4MDkx/LmpwZWc.jpeg) | 1981 | Fred Piek | Vroeger Is Terug |
+| 21 | ![Cover](https://i.discogs.com/ub1wd-JVKrBqDivsu9IZH7rjlwHyabIDe7mi3HYglU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTQw/MTItMTQyOTQ1ODQ2/MC0xODE3LmpwZWc.jpeg) | 1982 | Boudewijn de Groot | Wonderkind Aan Het Strand - 30 Jaar Boudewijn De Groot |
+| 45 | ![Cover](https://i.discogs.com/QLvoGFGDK9gdpr9aJD5jqEboz3SAxN0YZTa-2IjBOuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzU5/NzItMTUxNDE5MjM3/NC05NTExLmpwZWc.jpeg) | 1986 | Ruth Jacott | Live In Carre |
+| 63 | ![Cover](https://i.discogs.com/bgLJQCacOQ1xYJjYUirqWShDNiRnGZB1gmeuK2FDGB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQx/NTgtMTIxMjIyNTQx/NC5qcGVn.jpeg) | 1989 | Guido Belcanto | Op Zoek Naar Romantiek |
+| 68 | ![Cover](https://i.discogs.com/r1w_N3gYCy9uPpHo-_En0C0nV43sFxHhIFxxmt0kamY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg3/NTUtMTE5OTQ1NDUy/NC5qcGVn.jpeg) | 1989 | Wannes Van de Velde | Het Beste Van Wannes Van De Velde (Master Serie) |
+| 18 |  | 1990 | C&#39;hantal | The Realm |
+| 64 | ![Cover](https://i.discogs.com/BYw8Z8BU3OkTPmWQUohhE4BDKHM66zheaLrB5EUenuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjIx/MTAtMTM1ODcyMjMz/NC00NzE1LmpwZWc.jpeg) | 1990 | Guido Belcanto | Plastic rozen verwelken niet |
+| 11 | ![Cover](https://i.discogs.com/m_hAXlxfRwlbvkxfQTqNX2Tl9PcwOX7vXlVHVxiocm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTE2/LTExNzM5MTM3MTcu/anBlZw.jpeg) | 1992 | Phenomania | Strings of Love |
+| 14 | ![Cover](https://i.discogs.com/ahkKcrHgm7WYQF8UB5U12qyyfrNa8zQ4zCOMlxrq2pI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzAt/MTI5MTUxMTU2Mi5q/cGVn.jpeg) | 1992 | Mike Dearborn | Intense Muzik |
+| 27 | ![Cover](https://i.discogs.com/Pno7NfbFBVRVrjr5u2GW40tzJHF2inHJxmzu3WYxi6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDg3/NjgtMTM1MDIxNjM5/Mi0xMTcyLmpwZWc.jpeg) | 1992 | VOF de Kunst | Suzanne |
+| 82 | ![Cover](https://i.discogs.com/iu8yKvlnApGnTQQ2cTb6Hxs-mY35a_nWp1FYDw2iXoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDgt/MTQ3ODQ1MDk0OC04/ODUyLmpwZWc.jpeg) | 1992 | Random XS | Give Your Body |
+| 5 | ![Cover](https://i.discogs.com/I5xa2B5JrKypPITpr0cGhhmcKZ4cfXE-d6Ua4miJ1vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDEx/MzYtMTE5MjA4NDYy/NC5qcGVn.jpeg) | 1993 | Psychick Warriors Ov Gaia | Psychick Warriors Ov Gaia |
+| 17 | ![Cover](https://i.discogs.com/54FlgfA5EBc1PkPir-rgjZhuwv1QbNnWBmaz0kf_1ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgt/MTE1Mjk2ODU5NC5q/cGVn.jpeg) | 1993 | Glenn Underground | Future Shock |
+| 35 | ![Cover](https://i.discogs.com/qV3NPTk9_3xXCmufTX3j2HHnRA1xg5YK9yTq_BKPWFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTUt/MTI5MTUxMjUzNi5q/cGVn.jpeg) | 1993 | Mike Dearborn | Strictly Underground |
+| 61 | ![Cover](https://i.discogs.com/DBYu8ttX5AO5sPVez34HGfOdELqItEphJn2abRPsYTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjU0/LTExOTYwNDQwODku/anBlZw.jpeg) | 1993 | Acid Junkies | Part 2 |
+| 79 | ![Cover](https://i.discogs.com/SlkZrTdVz5TQMpb5uYOFH6oej8EEvrw2QmcD_LNGO0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDIw/LTEzMzAyNjc1NjMu/anBlZw.jpeg) | 1993 | DJ Buzz Fuzz | Dreamgirl |
+| 83 | ![Cover](https://i.discogs.com/p2lz6VUJ_lOnTuK0hwYMV6NHtniRg63Jbvozt7jW-po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjQy/LTEyMjMzNjMxNTMu/anBlZw.jpeg) | 1993-04-01 | Undercover Anarchist | Kingdom |
+| 80 | ![Cover](https://i.discogs.com/Zgm4OlAHbEBHx2Ny5-HrqLOXpUaxYjr2woJL5OyfvqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTEz/LTE1MzkxMjY1NTUt/Mjc0MC5qcGVn.jpeg) | 1993-06-01 | Juggernaut | The World Of The LSD-User |
+| 36 | ![Cover](https://i.discogs.com/P8-Ns8p19Uh9nrcwiC8RVx86laRSp8eY7aohPMd36zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjQz/LTEzNDg0MjcyMTct/NjYzNS5qcGVn.jpeg) | 1993-08-01 | Pinhead | Slammin Beatz |
+| 89 |  |  | Frans Fr A M Halsema | Frans Halsema 1939-1984 |
+| 96 | ![Cover](https://i.discogs.com/cVvEQvwUI-PHeQOnDi3XAO8oYAD-Vqw_n3n8ZRCp5gE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTk2/MTItMTYzNTM2MTIx/OS0xODU0LmpwZWc.jpeg) | 1970 | Herman van Veen | 20 Jaar Herman Van Veen - In Vogelvlucht |
+| 15 | ![Cover](https://i.discogs.com/JtjzlVFFVHE0ROruoP7WUYMH_t_Se6gQbwopOzTVnII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAt/MTE1NzEwNzk2MS5q/cGVn.jpeg) | 1994 | Paul Johnson | Psycho Kong |
+| 26 |  | 1994 | Drukwerk | Het allerbeste van |
+| 33 | ![Cover](https://i.discogs.com/VwJ37CFpqRCNpyfmg-a-a-k_Xks3a6Eaixwv-yHvIpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njcx/LTEyOTE1MTU4Nzku/anBlZw.jpeg) | 1994 | Hexagone | burning trash floor |
+| 42 | ![Cover](https://i.discogs.com/h8UEB7eOAxCNtMdcbJBfIckuAICH-jHyD7jhV5JcSM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTA0/LTExNTcxMzQwMTUu/anBlZw.jpeg) | 1994 | Wedlock | Acid Rain |
+| 56 | ![Cover](https://i.discogs.com/VPVHQzQxXWzPtO757y4eUguYun_f5c6QzckrGPm_O44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTUw/LTE1MzkxMjY5MjEt/ODYxMS5qcGVn.jpeg) | 1994 | Undercover Anarchist | Amman |
+| 67 |  | 1994 | Acid Junkies | Paranoid Experience |
+| 84 | ![Cover](https://i.discogs.com/__ArfXoNLGpBAhUjr1jhnJKG9iKu22PajaBjuTZ_qDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODk5/MTctMTM3MjMzMzI4/NC02MDAwLmpwZWc.jpeg) | 1994 | Juggernaut | Don&#39;t Fuck With A Ruffneck |
+| 28 | ![Cover](https://i.discogs.com/eeKqto3q7Ilsln1OLinFRPpoEqFDf78ruEGupWRlJG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjIt/MTE0NTgzMDEzNy5q/cGVn.jpeg) | 1994-05 | 2000 and One | Belongings EP |
+| 24 | ![Cover](https://i.discogs.com/VxFDwd8S2Zm0bt156Wo4Dg5RI6V2uVPD13c1exGm1T8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODA5/LTEzODE5NzI0NTgt/ODk3OS5qcGVn.jpeg) | 1995 | Mike Dearborn | Razorsharp |
+| 66 | ![Cover](https://i.discogs.com/PUsMQsTjqX6TIJL2iLnRFZqoD-LGuu27G3csXNXjvSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTAt/MTQ3ODQ1MTEwMy00/OTM2LmpwZWc.jpeg) | 1995 | Mike Dearborn | moments |
+| 73 |  | 1995 | O Yuki Conjugate | Sunchemical |
+| 86 |  | 1995-10-16 | Charly Lownoise &amp; Mental Theo | Charlottenburg |
+| 16 |  | 1996 | 3 Steps Ahead | Hakkûh |
+| 85 | ![Cover](https://i.discogs.com/y8aC5WZktVMh80ZjGKkMA9lEmGSw1FytV_VQsIkEYxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQw/OC0xNjMzNzU3ODI5/LTY1MzMuanBlZw.jpeg) | 1996 | DJ Isaac | We Like Marihuana |
+| 3 | ![Cover](https://i.discogs.com/Fiz0EtkguFZfk0G1-ddFf4RgvkJStPEhh-Sv6lPYrvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NzQy/Ni0xMzE5OTAzNjMw/LmpwZWc.jpeg) | 1997 | Ome Henk | en de tovenaar van Salsa Borenco |
+| 4 |  | 1997 | Ome Henk | Ome Henk en de tovenaar van Salsa Borenco |
+| 6 | ![Cover](https://i.discogs.com/Cx9UPF9DzWfCybPVou7ASfCi15l5qfb3q8bG5BwyC2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTct/MTE1ODAwNTk4MS5q/cGVn.jpeg) | 1997 | Clementine | Passage One |
+| 23 |  | 1997 | Random XS | Braincloud |
+| 34 | ![Cover](https://i.discogs.com/b5iAOucoPvIRVn0tiy6Pw5iKJWlQBP8WyoEkjCkPiOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzUw/LTExNTg4NjQzMTgu/anBlZw.jpeg) | 1997 | Hardcore Brothers | Smoke Motherfuckers |
+| 50 | ![Cover](https://i.discogs.com/xkm9vcVK4574BMiPOufyVGKDqb3Pfa0ey1pP_Ss4ggM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI5/LTEzMDc2MzY1MTIu/anBlZw.jpeg) | 1997 | Acid Junkies | UNSEQUENCED EXTRACTS REMIXED |
+| 72 | ![Cover](https://i.discogs.com/Ex8Fh5HIE3MJ7HeYVLEHEAlurGurgtd8LHP9IQOkl3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjk3/Ni0xMzkzNjE4Mjc0/LTM5OTguanBlZw.jpeg) | 1997 | Bald Terror | 2 Seconds To Live |
+| 98 |  | 1997-01-15 | Marco Borsato | De Waarheid |
+| 93 |  | 1998-07-06 | Storm | Storm |
+| 43 | ![Cover](https://i.discogs.com/NlkAjOT-oYCAE-0krUDva8cIrPlQkBd3CfsxWkJXpTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzU3/MTgtMTMyMzk1MjIz/My5qcGVn.jpeg) | 1998-11-26 | De Kast | Live |
+| 29 | ![Cover](https://i.discogs.com/NnO8e494uqs5qAG1f4AjHxIGo7LjO-wKhy8_kBHB6zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQ2/OS0xMjMxNDQwMjg5/LmpwZWc.jpeg) | 1999 | DJ Isaac | Day One |
+| 32 | ![Cover](https://i.discogs.com/yOvx9FHWQpLyEU2jsaqs43Bafpynled9a5CamicFjRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODU4/My0xNTkyMDY1NTkw/LTkwMzYuanBlZw.jpeg) | 1999 | [The User] | Symphony #1 for Dot Matrix Printers |
+| 37 |  | 1999 | Acid Junkies | Jackpot |
+| 69 |  | 1999 | Maarten van Roozendaal | Kerstmis in April |
+| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ab191db5d7ddf39802c567710b91fe96.png) | 2000 | 3 Steps Ahead | Junkie |
+| 62 |  | 2000 | André Hazes | Want ik hou van jou |
+| 76 |  | 2000 | Abel | Onderweg |
+| 100 |  | 2000 | Abel | De stilte voorbij |
+| 97 |  | 2000-04-14 | Doe Maar | Klaar |
+| 40 |  | 2002 | Abel | Doen &amp; laten |
+| 99 | ![Cover](https://i.discogs.com/YIESFOA7Z9NgQ1aQcgXhMkI7AsYHud7_nnZpxFS3MWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NTQ0/My0xNTE2MDExMzkw/LTk4NjcuanBlZw.jpeg) | 2002 | Marco Borsato | Onderweg |
+| 9 |  | 2003 | Ome Henk | Kerstfeest met Ome Henk |
+| 81 | ![Cover](https://i.discogs.com/KHrfDBLTfT37QoLWNEPaZxnN6sHNz1x8gVPD2q6iIhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/MzgtMTQ1Mzc0NjQ5/OS04MDcxLmpwZWc.jpeg) | 2004 | Armand | Armand |
+| 74 | ![Cover](https://i.discogs.com/98MQkdja3PTq97_IZRS4hyBmvY_bcRGk67fcSDfGSL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzgy/Mi0xMTk2MTA2ODU2/LmpwZWc.jpeg) | 2004-09-03 | Project Omeaga | Prednison Attack VIP |
+| 38 | ![Cover](https://i.discogs.com/R3VNJolDtRFrGqulpLrOUk7J_CizSwca2WPeQD_uXSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTcz/Mi0xMTU1NTc4NjQ4/LmpwZWc.jpeg) | 2005 | Ome Henk | De beste liedjes van Ome Henk |
+| 92 | ![Cover](https://i.discogs.com/a1O5M41owBKcBTAsuFq12e8oxIWIq98rZRPicSO0rUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjQ0/NC0xNjIyODMzNTkz/LTc0ODMucG5n.jpeg) | 2005 | André Hazes | Het Complete Hitoverzicht [Disc 2] |
+| 44 | ![Cover](https://i.discogs.com/fm4e5oC0gVquLbDBmmWCQMawpdG-gfVUeJv4tAfUpBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODYx/NzUtMTM3MjE5ODM3/My05NTQxLmpwZWc.jpeg) | 2005-03-11 | Juggernaut | XTC Motherf... |
+| 77 |  | 2005-09-08 | André Hazes | Het Complete Hitoverzicht |
+| 54 | ![Cover](https://i.discogs.com/VKg-t61B0BYW_3igxMgN1lNdUWFbqyPRIvL22xuxzbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg3/ODA1LTE1NTkwNDU2/OTEtMjUxNy5wbmc.jpeg) | 2006 | Fono &amp; Serafina | Bathtub |
+| 31 |  | 2006-12-22 | Meindert Talma &amp; the Negroes | Nu Geloof Ik Wat Er In De Bijbel Staat |
+| 52 | ![Cover](https://i.discogs.com/Q_SJ6d-B6e4Bmyx4zovFKZMov9UhswC1s-20bnBWe0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjIy/NDEtMTQxNjQyOTUy/My05MTIwLmpwZWc.jpeg) | 2008 | Jeffrey Heesen | Intens |
+| 2 | ![Cover](https://i.discogs.com/OhSMs4X9TcXx9DWCnLrkpSwqxYOIkr4DjqzokjRD7Bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzAz/NjUtMTIwMjM0Njk1/MC5qcGVn.jpeg) | 2008-01-31 | Search &amp; Destroy | Bullet-Time |
+| 94 | ![Cover](https://i.discogs.com/Qh-V3WMRznM1I5Wbg5cR1D20VESpgGkYobeQ3Ct38e8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjU1/NjctMTQ0Njk5MTQ0/My00MTE0LmpwZWc.jpeg) | 2008-12-15 | Roosbeef | Ze willen wel je hond aaien, maar niet met je praten |
+| 55 | ![Cover](https://i.discogs.com/047IE06tRrbWg5Q3Z5AIBz9biImBQRk6fg2R1cUG_e4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjcw/Njk5LTE1ODA2NTc3/NTQtMjY2Mi5qcGVn.jpeg) | 2009 | STriCat | Jab |
+| 71 |  | 2010 | 3JS | Dromers en Dwazen |
+| 75 |  | 2010-02 | Rob Ronalds | Het Beste Van |
+| 88 | ![Cover](https://i.discogs.com/dLu5B6x0Cn-a8mAxzGplPZIObc7shHU9UXoG0WRXz3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzUy/ODMyLTE1MTQ4MDE3/MjMtNTI4MC5qcGVn.jpeg) | 2011 | Pecheur | Haarlem Centraal |
+| 53 | ![Cover](https://i.discogs.com/5pCNdeQjicGb1543rciRNzp6-4OKB2_7yQFChDf9nX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDU5/MzQtMTMzNDcxMDQz/Mi5qcGVn.jpeg) | 2012-04-23 | The Peoples Republic of Europe | Military Industrial Complex |
+| 47 | ![Cover](https://i.discogs.com/9jVst5tbBIAxrUEGpKabMoJxmUOUHt8u-_i4KN8pR2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTc3/NzAtMTM4NDQyNDAx/NC0zODgyLmpwZWc.jpeg) | 2013-08-21 | Drvg Cvltvre | American Psychosis |
+| 49 | ![Cover](https://i.discogs.com/n6-xKrI78U1L09d2EbIwAZuwpGhPzQBDZCBXw6qPjJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTUz/MjktMTM5MjMwNDgw/OC0xODQxLmpwZWc.jpeg) | 2014-02-10 | Dasha Rush | Timid Ocean Drawings |
+| 70 | ![Cover](https://i.discogs.com/8pKmzY1rBlp8mZVPSlflPB_IEb9-vKGb0XWemgVcO-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDA5/MDQtMTQyMzY2NzEw/Mi04NTc4LmpwZWc.jpeg) | 2014-05-26 | Drvg Cvltvre | Telepathic Warfare |
+| 95 |  | 2014-08-06 | Ansome | Penny &amp; Pound EP |
+| 58 |  | 2014-09 | D. Carbone | Anomalies EP |
+| 60 | ![Cover](https://i.discogs.com/g7eko1bhxXFUhHGzb99mGT2lTQPKhAJPBuR6Q2KZLFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjM3/ODUtMTQ2MDE1MzEy/OC03MTY2LmpwZWc.jpeg) | 2015 | Spinal | Verloren Zaad |
+| 39 | ![Cover](https://i.discogs.com/Slf_O6UXmB29F9PN5qczupoL2zufIrBa0eq2q0RsC5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzI4/OTQ1LTE0OTU0MTI5/MTctNzI0OS5qcGVn.jpeg) | 2015-05-08 | Sjors van der Panne | Klassiekers in Het Concertgebouw |
+| 19 | ![Cover](https://i.discogs.com/UCtEQw5oA-IlG7144v8b-GYespnPSPMfSGGk3vSENts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDQ2/NjQtMTQzMzgzMjkx/Mi03MzQyLmpwZWc.jpeg) | 2015-06-08 | Marcos Cabral | The Conversation |
+| 48 | ![Cover](https://i.discogs.com/m2FwUruRYuZIs0iYaEEJxhqgjkLSQ3n6xxmGfGF88o4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTgy/OTAtMTQ0NTI2MzMx/OS03ODU2LmpwZWc.jpeg) | 2015-10-19 | Ekman | Synaptic Feedback Loops |
+| 22 | ![Cover](https://i.discogs.com/zBSoi7hIO-cEm9Yxa9vguRPgIRwnqMhHpl1wPW_CnEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTk3/NTctMTQ2MTI0ODIy/MC02NjUwLmpwZWc.jpeg) | 2016-04-15 | Bells Of Youth | Dreamers |
+| 51 | ![Cover](https://i.discogs.com/qN6dOZqXtA00a79m2eRLBwaKolaZGljqwJUi4cIHAL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjkz/NTEtMTQ3NzY5MjY4/OC05NzA5LmpwZWc.jpeg) | 2016-04-28 | I Hate Models | The Lost Tapes |
+| 59 | ![Cover](https://i.discogs.com/Wemxhv4Vg3RtBtIoE28YcgeTdcyTK60de0QwT2q-Rpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDQy/NDAtMTQ2MjkzODI1/OC05NTUyLmpwZWc.jpeg) | 2016-05-09 | D. Carbone | Black Block EP |
+| 13 | ![Cover](https://i.discogs.com/ks0tlwLsKHZGZUcEm3jRv2YyVir0WRqBGH2e0z5ZXvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDMx/MjY3LTE0OTcyOTAy/MjItNzUzNC5qcGVn.jpeg) | 2017 | Ekman | Sturm Und Drang &#x2F; First Mover |
+| 57 | ![Cover](https://i.discogs.com/FeFgHUHQXol1zI4ltLawNFdfBJBAo61VjqtX6P4-AKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgy/MzUyLTE1NDc2NTE2/MDAtNjM1Ny5wbmc.jpeg) | 2017 | Niels Destadsbader | Speeltijd (Niels &amp; Wiels Editie) |
+| 25 | ![Cover](https://i.discogs.com/40HLPkanEOyFSM8vXeArXsvGLjc77airJ3s82HIV4Es/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA3/ODc0LTE0OTM0MTEw/NzQtNjExNS5qcGVn.jpeg) | 2017-06 | Smersh | M Appeal |
+| 10 | ![Cover](https://i.discogs.com/Tk-_Wa6-IPhSC2I7m2SYI2JvQ-jN97C8aB-jqdnWuPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM0/NjQ1LTE0OTk0MTI3/MDQtMzk1OC5qcGVn.jpeg) | 2017-07-07 | Ekman | Doomsday Argument EP |
+| 30 | ![Cover](https://i.discogs.com/LwLBcb7c6i3TknotKgfjQSPak9uXFHVJnUvZPe-Vj9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA1/OTk1LTE1NDA0MTEy/OTktOTU1Mi5qcGVn.jpeg) | 2018-10-07 | Nehuen | Intenso EP |
+| 1 | ![Cover](https://i.discogs.com/qUQ0xdU2iRqfTBUHKDSF5Pp6DlMQ-xiZQ3johX4BJNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTgy/ODg5LTE1ODg2MjQ0/MzgtOTUzMi5qcGVn.jpeg) | 2020-04-23 | Ekman | Kronkel |
+| 90 | ![Cover](https://i.discogs.com/IlBVdbL_80e2HsaNTk2WaS3FMHPtHYgu5qUjYYbNNxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDk5/MTk1LTE2MTI1NzMw/MTgtNDcxNi5qcGVn.jpeg) | 2020-05-15 | Jensen Interceptor | Strings Of Fear |
+| 41 | ![Cover](https://i.discogs.com/by_ykIrrpxzffTpqeoTSi_cYcYkMK_a0dIXdr3HTqYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTAw/NjMwLTE2NTc5NjE5/ODgtMzk5Ni5wbmc.jpeg) | 2022-12-30 | Drvg Cvltvre | Into The Endless Night |
+| 46 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2023 | Various Artists | Nieuw Nederlands Peil 4 |
+| 91 | ![Cover](https://i.discogs.com/bvt0wRWqKVnAJwkR6RcHOEYM1iG2l-_UaOcvCCEz4Hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc3/MjEwLTE1MTEyODY2/MDgtODExNC5qcGVn.jpeg) | 2023 | André Hazes | Het Complete Hitoverzicht [Disc 1] |
+
+### Related genres
+
+- [techno]({{ "/tags/techno" | relative_url }})
+- [hardcore techno]({{ "/tags/hardcore-techno" | relative_url }})
+- [gabber]({{ "/tags/gabber" | relative_url }})
+- [industrial]({{ "/tags/industrial" | relative_url }})
+- [dutch]({{ "/tags/dutch" | relative_url }})
+- [electro]({{ "/tags/electro" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [acid house]({{ "/tags/acid-house" | relative_url }})
+- [nederlandstalig]({{ "/tags/nederlandstalig" | relative_url }})
+- [darkcore]({{ "/tags/darkcore" | relative_url }})

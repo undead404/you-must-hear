@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T10:12:53.532Z
+permalink: tags/technoid
+title: technoid
+---
+
+## technoid
+
+Last updated: <time datetime="2025-10-22T10:12:53.532Z">Wed Oct 22 2025 13:12:53 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 9 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1972 | Various Artists | Telekompilation vol. 3 |
+| 20 |  | 1977 | Various Artists | Zhark |
+| 43 |  | 1977 | Various Artists | New Life |
+| 56 | ![Cover](https://i.discogs.com/MC-O7N9KH_zJ2aCQgob1uN__ealmhIkpO3d-7Vq36gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzU0/ODYtMTI4NTc2NDE3/My5qcGVn.jpeg) | 1982 | Merzbow | Ikebana: Merzbow&#39;s Amlux Rebuilt, Reused and Recycled |
+| 25 | ![Cover](https://i.discogs.com/PTOBYaEO5Wyt8Fq6c_re0B0jxbnIumkN1yxjTvwr9MQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAz/OTMtMTU5MzM4MjU5/Ni03ODQzLmpwZWc.jpeg) | 1984 | Propaganda | Heart Attack EP-WEB |
+| 49 | ![Cover](https://i.discogs.com/VDu9vF8NvkGZCZCA5uh9AeWN3wMJiFF2Pnqdzy_Xr7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzIt/MTE2NzM1MjMxMy5q/cGVn.jpeg) | 1994 | Alec Empire | Limited Editions 1990-94 |
+| 88 | ![Cover](https://i.discogs.com/kdJXX1l_C0Zao30NUc2dbC-cws3majx77f4quDbS2gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzMt/MTE3MzgyODYxMi5q/cGVn.jpeg) | 1994 | Alec Empire | Generation Star Wars |
+| 34 | ![Cover](https://i.discogs.com/V8YCU_Oc2M3YTj8e9Uvy5aDH_VKpMaz37nB932O5hK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjE2/LTE0ODYwMjc1NDAt/OTYzMi5qcGVn.jpeg) | 1994-01 | Alec Empire | The CD2 Sessions |
+| 83 |  | 1995-06-12 | Muslimgauze | Silknoose |
+| 40 |  | 1995-11 | Muslimgauze | Izlamaphobia |
+| 61 | ![Cover](https://i.discogs.com/dLr14xR16GGF0OGTcWmiFjZa1BqzVitVCB_1eGUIMvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEx/MC0xMTk0MTA0MjI2/LmpwZWc.jpeg) | 1996 | Bomb 20 | Pigtronics |
+| 52 |  | 1997 | Alec Empire | The Geist of Alec Empire |
+| 86 |  | 1997-04-22 | Black Lung | The Disinformation Plague |
+| 99 | ![Cover](https://i.discogs.com/ZfBPD6rVzotaVC909K1mrGbT4FJDtslNgnU7_AMJd_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAw/LTE1MTQ2Njk3MjAt/NDA5Ny5qcGVn.jpeg) | 1997-05 | Björk | Jóga |
+| 16 | ![Cover](https://i.discogs.com/snonstB6gCe9D2a6F-1aiuYDxb7wATH1LCW3cp_yfQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDYw/NC0xMzY0NDQ3NDc4/LTU3NTguanBlZw.jpeg) | 1997-08-18 | Machine Code | Back To Tresor |
+| 48 | ![Cover](https://i.discogs.com/2jh-zzkN3w2xuxtTirxRi4r-kaszrtkYn09mS91fP2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDQx/LTE1ODQ3Nzk1MTEt/ODM4My5qcGVn.jpeg) | 1997-10 | Audio Active | Apollo Choco Remixed |
+| 100 |  | 1997-12-01 | Björk | Bachelorette |
+| 13 | ![Cover](https://i.discogs.com/S4HpL3ls9afAFCsGkyqNO9bz75r8d_EBRhO7Ou-YvKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTMx/LTE1NDY1Njk3NTMt/NzU5NS5qcGVn.jpeg) | 1998 | Hecate | Hate Cats E.P. |
+| 85 |  | 1998-05-18 | Mogwai | Kicking A Dead Pig: Mogwai Songs Remixed |
+| 65 | ![Cover](https://i.discogs.com/qNHTlNnSNsvgq7ALV5ff7K8d10NW3ebfeO87jX6zPNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODAt/MTE0NDY5NDcxNi5q/cGVn.jpeg) | 1998-06-09 | The Curse Of The Golden Vampire | The Curse Of The Golden Vampire |
+| 33 | ![Cover](https://i.discogs.com/mCx_S3MdN-3D7YN0OKQG-UbujzLMdaaKImRbQFbeMMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTU5/LTEyODY2MDQwMzYu/anBlZw.jpeg) | 1999 | 16-17 | Mechanophobia |
+| 41 | ![Cover](https://i.discogs.com/MAbKKmpY5aS4xStsPQbv3hkTR9LVYnXExC5rF1R_LL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjUz/LTE1Mjk5ODE4OTQt/NzIzMS5qcGVn.jpeg) | 1999 | Nintendo Teenage Robots | We Punk Einheit! |
+| 50 | ![Cover](https://i.discogs.com/dB6vUiUerKTQexxIHcZ8a_24U0X9CVMK8e3fjymECDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTg0/LTEzMTYzNDExMTku/anBlZw.jpeg) | 1999 | Zan Lyons | Warring Factions |
+| 60 |  | 1999 | Hecate | Negative World Status |
+| 98 |  | 1999-04-06 | Gridlock | Further |
+| 6 | ![Cover](https://i.discogs.com/ndb2juFydBJSKv7wECB6jnKRigV86wPOLdvpubgtGzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDMx/LTE2MTc0NjE1MDMt/NTYyOC5qcGVn.jpeg) | 2000 | Rotator | He Who Makes A Beast Of Himself Gets Rid Of The Pain Being A Man ! |
+| 55 | ![Cover](https://i.discogs.com/SFZBwqXqourclzPUhoSEkLdzbAHHYxzxxR6QJ1r2iQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTk3/Ny0xMTI5ODI5MDk4/LmpwZWc.jpeg) | 2000 | Echorausch | Different Waves |
+| 78 | ![Cover](https://i.discogs.com/04qiJDEyt_jcYwQG1ioypTzsVj3hFErQfuXKjHKZ6yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc1/MC0xMzEwNTE4ODcw/LmpwZWc.jpeg) | 2000 | Dryft | Cell |
+| 5 | ![Cover](https://i.discogs.com/mnbX-ksO-DQQ1TPLQQ95flLKBpTLFVH3jyQP1YG1ZY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTg1/My0xNTQyMDgyMzY4/LTQ2NjMuanBlZw.jpeg) | 2001 | Supernal | Light As Night |
+| 70 | ![Cover](https://i.discogs.com/I72otB-SseOxAhFOXN51reC5WBLwkxmXO8Crjdo7liY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODk3/LTEwOTYxNzY5NzMu/anBn.jpeg) | 2001 | Nic Endo | Cold Metal Perfection |
+| 53 | ![Cover](https://i.discogs.com/c66WZZyA6zBahlwstMuNSezf7u8LvPT-7tLLnjwbbcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODY3/LTEyNjk0MDQ3OTEu/anBlZw.jpeg) | 2002-02-19 | Gridlock | Trace |
+| 26 | ![Cover](https://i.discogs.com/Kau4nGZFbwC0LefzeRwzTOb4q1KiXUcUEJWnP467-Is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODc1/MC0xNDk2MjQxMDI1/LTQzNTkucG5n.jpeg) | 2002-04-22 | Alec Empire | Intelligence &amp; Sacrifice (2 of 2) |
+| 31 | ![Cover](https://i.discogs.com/QIMNH6L2iguwkanqC-GVty8CvDaMqr19_6TAryZly-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDkw/My0xMTQ2MTEyOTcy/LmpwZWc.jpeg) | 2003 | Raquel De Grimstone | FreeMansonicYouth |
+| 68 |  | 2003 | Synapscape | Hands On Centrozoon |
+| 82 |  | 2003-01 | Displacer | moon_phase |
+| 58 | ![Cover](https://i.discogs.com/DEMnyaJDHbupZvtBqRSRU5aVKu50sMVElwdPI_Wo880/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUw/Ny0xNTIzODI1OTQx/LTM1NzkuanBlZw.jpeg) | 2003-02-25 | Hecate | At The Seven Gates |
+| 23 | ![Cover](https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg) | 2004 | Various Artists | These Sounds Will Have to Meet Somewhere in Between |
+| 69 |  | 2004-02 | Hecate | Ascension Chamber |
+| 21 | ![Cover](https://i.discogs.com/3Fv8X7oFfvteudpzZoMZ3x-nVbvp_f4LtTxQGUYjBeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzcx/MzItMTIxOTY1MTQ4/NS5qcGVn.jpeg) | 2005 | Alec Empire | Electric Ladyland IV |
+| 32 | ![Cover](https://i.discogs.com/b2LLQKdXCr8KkYh4A_qa5EDLaK-C_I2CEjt3tT-gPLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzUx/Ni0xMTQ0OTU4NTcy/LmdpZg.jpeg) | 2006-03 | Scrap.edx | Collect:Erase |
+| 37 | ![Cover](https://i.discogs.com/1rt6f8vE_m1VPoRnnDA84UJETWr1HrYI1sq7brKTtks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc0/MDI0LTE1MDkzNjY2/OTAtMTI2Ny5qcGVn.jpeg) | 2006-04-14 | This Morn&#39; Omina | Les Passages Jumeaux : Le 25ième Degré ~ Le 33ième Degré |
+| 3 | ![Cover](https://i.discogs.com/X63JCWDC05hakVTzrfGFcR-b4whFNrNsD8SjBiI_Fyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Nzgw/OC0xMTQ4OTcwMTM2/LmpwZWc.jpeg) | 2006-05-29 | Gasmask 71 | Black Hoe (BH023EP) |
+| 11 | ![Cover](https://i.discogs.com/qTINBGWJG-Nip6OkwYF6zG86AtQi24N6ez3s8wan8jY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODU0/OC0xMTYzOTk5Njc2/LmpwZWc.jpeg) | 2006-08-28 | Lorcscyric | Black Hoe (BH023EP) |
+| 59 |  | 2006-09-04 | Silk Saw | 8 Reports |
+| 80 |  | 2006-10-06 | S:cage | Madness Turns To Glass |
+| 54 |  | 2007 | Stendeck | Faces |
+| 51 | ![Cover](https://i.discogs.com/R5F59i9QTxPoMDGhLY0gnNoev2ywUXQdPUZeN3zCmeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjc1/Mi0xMTc0ODQ1OTk5/LmpwZWc.jpeg) | 2007-02-23 | Architect | Lower Lip Interface |
+| 45 |  | 2007-05-20 | Sy9 | Senses |
+| 64 |  | 2007-08-19 | Sy9 | Visions |
+| 84 | ![Cover](https://i.discogs.com/3zZpRd7TN0PX9w3Jd9Um4bJwCBtOIqfzdOMHWPaNn9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE3/ODktMTE4NjQ3Mjg5/Ni5qcGVn.jpeg) | 2007-09-06 | Synapscape | Now |
+| 29 | ![Cover](https://i.discogs.com/wYddHcAsYsWTt6Ms_3V3D3AigQuxKpkI_l8GkR8almI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk1/NDQtMTE5MTIzMjU4/MC5qcGVn.jpeg) | 2007-09-16 | Geprogrammeerde Celdood | The Great Conflict |
+| 90 | ![Cover](https://i.discogs.com/a_AwJLInvhlOuO3kTRFzEUlnKEyxH2CSbFTPdFY-YpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODYw/Ni0xMTY3NTIwMzQy/LmpwZWc.jpeg) | 2007-10-02 | Enduser | Caustic Pulse EP |
+| 47 | ![Cover](https://i.discogs.com/0c9pgcHCMX9-vxv9WJnQgD0zw4OZCDaFb_2ofYk1LQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODc1/MTgtMTQxNTc5NDU5/NC0yNjUzLmpwZWc.jpeg) | 2008 | MKDELTA | Experiment |
+| 77 | ![Cover](https://i.discogs.com/7sYUEx6Ew0PridMKMBBzKa09c1l0UH3Pn6uGlrl5IA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE3/NzctMTIzMDczNzQ3/MS5qcGVn.jpeg) | 2008-04 | Pan Sonic | Kuvaputki |
+| 4 |  | 2008-04-10 | Exorcist | Black Hoe (BH050LPA) |
+| 2 | ![Cover](https://i.discogs.com/eseBKeaSJY75Oyr9bfvXJVoaVJcFBzYmDxXXuO16rvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzY3/NjMtMTIxOTYwODA0/Mi5qcGVn.jpeg) | 2008-08-08 | Hemoglobin | Black Hoe (BH023EP) |
+| 97 |  | 2008-10-16 | klangstabil | math &amp; emotion |
+| 8 | ![Cover](https://i.discogs.com/zcgQFplnA3clTIECplRjzLI-XxmoZlYhEQF3G-C1D8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTUz/NDgtMTE5MTY3OTY2/MC5qcGVn.jpeg) | 2009-02-02 | Zero Method | Black Hoe (BH050LPA) |
+| 12 | ![Cover](https://i.discogs.com/_-JKWHr6r6QhVEMGlA3srkmUsDc_uo3KMzqCzqbETjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTcx/MDctMTMzNzUzNTEz/Mi0zNDIwLmpwZWc.jpeg) | 2009-03-04 | Tails | Schmozzle That Egg |
+| 14 | ![Cover](https://i.discogs.com/IRO0q_910AEfU2hmyGLooBDo6ZJYhAML1xXkB7NRwVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTcx/MjItMTMzNzUzNTUy/MC04NzMyLmpwZWc.jpeg) | 2009-03-04 | Tails | Spaffing Greg Greg |
+| 17 |  |  | Central Nervous Sound System | Sane EP |
+| 38 | ![Cover](https://i.discogs.com/t5MtREdlQMcJFUrT4UR6Y_IoJBvu0jjvXp8raOUYqjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTEx/MDEtMTI4MDU5NjMy/NC5qcGVn.jpeg) | 2008-05-02 | Taxim | Psychologenfutter |
+| 62 | ![Cover](https://i.discogs.com/fZXk0e4z8mVE1bdylVzIlq-tt_SG4sTZUsinoyMwG6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTI5/MTQtMTM1MTkxOTYz/OC0zNTM0LmpwZWc.jpeg) | 2009-09 | Machinecode | Neodymium |
+| 63 | ![Cover](https://i.discogs.com/fZXk0e4z8mVE1bdylVzIlq-tt_SG4sTZUsinoyMwG6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTI5/MTQtMTM1MTkxOTYz/OC0zNTM0LmpwZWc.jpeg) | 2009-09 | MachineCode | Neodymium |
+| 46 |  | 2009-09-08 | Access to Arasaka | Oppidan |
+| 57 | ![Cover](https://i.discogs.com/-CzTEdcst9rRtG2nbM5JRhXb2y_bKEF2szFnJBIpAzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjMw/MzAtMTI2NTI4MTU5/Mi5qcGVn.jpeg) | 2010-01-08 | Temper D | Chessboxer |
+| 27 | ![Cover](https://i.discogs.com/oGQScV2Rf9nKC8_uZOYOHxKpHm_UqG0nxt_HtKVTG8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjcw/NzcwLTE1NzExNTM3/MDctMjU3NC5qcGVn.jpeg) | 2010-02 | The Sect | Natural Selection Part 2 |
+| 18 | ![Cover](https://i.discogs.com/q5XLgarpNVbPIT2f2dQRnA9siDKsbVHuzJUYP-uhkYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDcy/MjctMTI5Mjg4OTA1/OC5qcGVn.jpeg) | 2010-12-21 | Incentive | Sonnenfinsternis |
+| 66 |  |  | Ancient Methods Vs Adam X | Cardiac Dysrhythmia |
+| 76 | ![Cover](https://i.discogs.com/_6LqIu4X8a3eBy6Dh63J_RmcMY1LJfy1cF0SdiFUaPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQz/NTMtMTI1NTQxNDU5/OS5qcGVn.jpeg) | 2009-10-30 | imminent | cask strength |
+| 71 | ![Cover](https://i.discogs.com/bGejoqGirxxJC1onuQspaRWC5g3SSl3L9xc7rMrMhRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTUw/MjItMTI1NzQzNDM5/My5qcGVn.jpeg) | 2009-11-14 | klyxn | points that matter |
+| 74 | ![Cover](https://i.discogs.com/YEsF5eNbipWWg1g0zb6oqJ62WWY4hmm7LNDRVLz5irw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDEx/OTUtMTM4Mjc3ODY1/Mi0xNTQ3LmpwZWc.jpeg) | 2010-02-08 | Machinecode | Recoded &#x2F; Silicon Base |
+| 75 | ![Cover](https://i.discogs.com/YEsF5eNbipWWg1g0zb6oqJ62WWY4hmm7LNDRVLz5irw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDEx/OTUtMTM4Mjc3ODY1/Mi0xNTQ3LmpwZWc.jpeg) | 2010-02-08 | MachineCode | Recoded &#x2F; Silicon Base |
+| 81 | ![Cover](https://i.discogs.com/ipl65Cx2UvMemliBDFWnzdWVMgRZ2isx1q5KD7OZmH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTQ5/MjktMTI2MzM5NDc5/OC5qcGVn.jpeg) | 2010-02-12 | Somatic Responses | neon |
+| 95 |  | 2010-04-19 | Current Value | Back to the Machine |
+| 79 |  | 2010-04-21 | Asche | the easter island phenomenon |
+| 96 | ![Cover](https://i.discogs.com/Dwx1Dy90CTarFh327syQkenqM_38l6FMqyIVUf32lqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTQ5/NDEtMTI2Njk2NjIy/NC5qcGVn.jpeg) | 2010-06-10 | The Synthetic Dream Foundation | Mechanical Serpent |
+| 72 |  | 2010-11-26 | 5F-X | Flight Recorder 5.0 |
+| 7 | ![Cover](https://i.discogs.com/A-rkiNGwT20AzBiuk7AjOiSNT58QuOFrZfaASMdtaz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTM0/Mjc1LTE2Mjk0OTE0/NjYtNTUyNy5qcGVn.jpeg) | 2011 | Oilygear | Black Hoe (BH050LPA) |
+| 15 | ![Cover](https://i.discogs.com/8p_DUxjUScW5u2H2U1HtbF9fF062n7tY1F5P49ANQf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzcx/ODU3LTE2MTUzNDE4/MjItODU1OC5qcGVn.jpeg) | 2011-06 | Ricky Rabbit | Strictly Ricky |
+| 22 | ![Cover](https://i.discogs.com/JHfyWDWKL1SUiNw5Ptuq9SnjDX_4QkZTvp2m0yF4Fzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODM5/OTQtMTMxOTUxMzk0/Ni5wbmc.jpeg) | 2011-10-24 | Incentive | Incentive |
+| 42 | ![Cover](https://i.discogs.com/9WQgRi9VPW5KDaBdyYVR6NkS7PUo5DKzv--AObCfAkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTg5/MjEtMTMyMjc0MDc5/NC5qcGVn.jpeg) | 2011-11-17 | Death Abyss | Dominate Through Will |
+| 92 |  | 2012-04 | Talvekoidik | Negotiate The Distance |
+| 24 | ![Cover](https://i.discogs.com/nwNBt8M54UmXE40ulDW-CsOEGLDILMiJpOkLp9aVFGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTQ4/NDAtMTMzNzUzMzk4/My02OTEyLmpwZWc.jpeg) | 2012-05-22 | Tails | Glaud &#39;neath the Railings of the Lumid Wickerrain |
+| 94 |  | 2012-08-23 | Tommy Four Seven | Monad XIII |
+| 91 |  | 2012-09-12 | Tonikom | Found And Lost |
+| 89 |  | 2013-08 | Lakker | Monad XIV |
+| 87 |  | 2013-08-19 | Plaster | Monad XV |
+| 1 | ![Cover](https://i.discogs.com/ugS8DP-AwL-ma_JkkEp-zuhqvKWYoO6fmviOJ0pNMGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzIx/MDYtMTM4NTM3NzIy/MS0xNDcyLmpwZWc.jpeg) | 2013-11-24 | Incentive | Eschatology |
+| 93 |  | 2014 | Oake | Auferstehung |
+| 28 | ![Cover](https://i.discogs.com/_V5dSur3AX2v5Qna0zI0n9whGVTWcOEmI9TlyHSIzgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTIy/NDYtMTQzMzUzNDY1/Mi0xNTcyLmpwZWc.jpeg) | 2015-05-27 | Technoid | Relic |
+| 19 | ![Cover](https://i.discogs.com/QzY7hg1B_I9334_PqAPcuCWm8cu3k2iKVrPYoSakuRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjM1/NTQtMTQ3MjM1Mzg1/OC02ODIzLmpwZWc.jpeg) | 2016-08-13 | Gancher &amp; Ruin | Arsenal |
+| 10 | ![Cover](https://i.discogs.com/ywcZD0mpy4CIaHlwutg-IJUzTZchjT-efIninSaSYUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTIy/NTEtMTQ4NjcxNjU1/OS0xMjYwLmpwZWc.jpeg) | 2017-02-10 | Alec Empire | ...It Just Is (In Memoriam: Jhonn Balance) |
+| 36 |  |  | ampersanded | Recompense |
+| 39 |  |  | SilverlagE | Communication is Futile |
+| 44 |  |  | ampersanded | ENi80XLu1P EP |
+| 73 | ![Cover](https://i.discogs.com/juwIBVwtwXpMSGciLv8kdCYQB4o314ZeiHZNGq5EGqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjUy/OS0xMzA2MzI3OTI0/LmpwZWc.jpeg) | 2020-05-25 | Muslimgauze | Uzbekistani Bizzare And Souk |
+| 67 |  | 2022-04-14 | Various Artists | Zhark Compilation |
+| 35 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2023 | Various Artists | Electric Ladyland IV |
+| 30 | ![Cover](https://i.discogs.com/lLr3aXBG05SU_zapL2_l46Wb5DJ4PatGn8Y7ylSNF4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTE0/MTMtMTQxMzE4NDky/Mi0zMzA0LmpwZWc.jpeg) | 2023-11-30 | Implant | The Addict |
+
+### Related genres
+
+- [idm]({{ "/tags/idm" | relative_url }})
+- [rhythmic noise]({{ "/tags/rhythmic-noise" | relative_url }})
+- [industrial]({{ "/tags/industrial" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [electronica]({{ "/tags/electronica" | relative_url }})
+- [techno-industrial]({{ "/tags/techno-industrial" | relative_url }})
+- [breakcore]({{ "/tags/breakcore" | relative_url }})
+- [illbient]({{ "/tags/illbient" | relative_url }})
+- [industrial techno]({{ "/tags/industrial-techno" | relative_url }})
+- [glitch]({{ "/tags/glitch" | relative_url }})

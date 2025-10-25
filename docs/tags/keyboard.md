@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-21T01:04:11.309Z
+permalink: tags/keyboard
+title: keyboard
+---
+
+## keyboard
+
+Last updated: <time datetime="2025-10-21T01:04:11.309Z">Tue Oct 21 2025 04:04:11 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 1 |  |  | Jesper Moonen | 1 |
+| 2 | ![Cover](https://i.discogs.com/9cxqM1ifJNacyUS0zIO8wG5w0FOoUdcLpi1RZikFQP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDY3/MDEtMTQ1NjAwODU3/Mi0xOTc4LmpwZWc.jpeg) | 2016-02-05 | OVVLs | I Buy Keyboards With Rainbows |
+| 3 |  |  | Metmass | Dreams EP |
+| 5 |  |  | Stansh | Attrocified |
+| 11 |  |  | Explorer2000 | Weed &amp; Demos |
+| 15 |  |  | At Risk Reset | Starmouth |
+| 18 |  |  | 3rd July Of August | Silence Of Emotions |
+| 12 | ![Cover](https://i.discogs.com/o1PEPUMs9iLLja-MUTUK1_oHvgsl4VzdxAmNtUT_jd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODYz/Mi0xNTYzMTk5Njgx/LTk2NDEuanBlZw.jpeg) | 1979 | Blue Gene Tyranny | Just for the Record |
+| 14 | ![Cover](https://i.discogs.com/bpweTHmyiFrTg2c0splGecWOsSZ1U4Qy8sEz6e_aTh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzI0/MzktMTUxNTQ3NDc3/OC05NDY3LmpwZWc.jpeg) | 1986 | Domenico Scarlatti | The Portuguese Scarlatti: Keyboard Sonatas by Domenico Scarlatti |
+| 4 | ![Cover](https://i.discogs.com/ewSPpH8Y9mtEl3oBp3S-CZBqMl7v8aNzoNcXfJTDWfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjM1/OS0xNjU2MDk3ODgy/LTI1MzcucG5n.jpeg) | 1990 | Blue Gene Tyranny | Free Delivery |
+| 19 | ![Cover](https://i.discogs.com/GhtxJbdsOYfw8RZnSICFLKQKPGPJN4yP0d9HLow250o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDUx/MTctMTQ2MDUyMzg5/Mi00OTQ0LmpwZWc.jpeg) | 1992-12-01 | Keith Emerson | The Manhattan Collection |
+| 21 |  |  | balænidæ | Mors Vocavit |
+| 23 |  |  | Wasted Elk | Other Origin |
+| 25 |  |  | Indinera Falls | Laxius Power III OST |
+| 26 |  |  | Twilight of the Idols | Twilight Of The Idols |
+| 27 |  |  | Bryan Dechter | Sketches and Scratches: Rough Cuts |
+| 29 |  |  | The Bastard Child | Welcome To My World |
+| 30 |  |  | the durians | Music Is A Problem For Everyone |
+| 32 |  |  | Ash- Blaize | Letters To Andrea |
+| 33 |  |  | Nadia Lucie Pacey | A Jealous Butterfly |
+| 34 |  |  | Ricky Bennett | Shadows Reborn |
+| 35 |  |  | Ricky Bennett | Frozen Feelings |
+| 36 |  |  | At Risk Reset | Merry Andrew |
+| 37 |  |  | First Monument | MONUMENTAL |
+| 38 |  |  | Keith Jarrett [Harpsichord] | Bach: Goldberg Variations |
+| 40 |  |  | Explorer2000 | Weed &amp; Rainbows |
+| 45 |  |  | Andrew and Carla Thomas | Prodigal Songs |
+| 47 |  |  | Glynzilla | White &amp; Black |
+| 48 |  |  | MetaQuorum | Midnight Sun |
+| 49 |  |  | Tom Rule | Almost Real |
+| 41 | ![Cover](https://i.discogs.com/iY4lsAKgkK6_OSP0Ldg1jWiUrNuzQ79UX013PG_99BY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDIx/NDktMTQ2MDkwODgy/OS0yMDQyLmpwZWc.jpeg) | 1969 | Johann Sebastian Bach | Bach, J.S.: Clavier-Buchlein for Anna Magdalena Bach 1722 |
+| 31 | ![Cover](https://i.discogs.com/0ZzdK6-UvvYVqqFZxkQeJ_Mse7DkP_X66RYyYbAOGe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDk2/MjMtMTYxMDc5NDM4/MS0zOTc1LmpwZWc.jpeg) | 1988 | Dave &amp; Don Grusin | Sticks and Stones |
+| 9 | ![Cover](https://i.discogs.com/Qf6I7JkpmktTRbmdjYi3T59hw9bgAkU1QEXwMUK8Fuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzU0/MDEzLTE1NjAzOTQ5/ODAtODgyMi5qcGVn.jpeg) | 1993 | Abel Quintero | Instrumental Shake |
+| 16 | ![Cover](https://i.discogs.com/Qf6I7JkpmktTRbmdjYi3T59hw9bgAkU1QEXwMUK8Fuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzU0/MDEzLTE1NjAzOTQ5/ODAtODgyMi5qcGVn.jpeg) | 1993 | Abel Quintero | It Must Be Love(I Guess)- Single |
+| 17 | ![Cover](https://i.discogs.com/Qf6I7JkpmktTRbmdjYi3T59hw9bgAkU1QEXwMUK8Fuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzU0/MDEzLTE1NjAzOTQ5/ODAtODgyMi5qcGVn.jpeg) | 1993 | Abel Quintero | Rios Sin Mar (Rivers Without A Sea) |
+| 22 | ![Cover](https://i.discogs.com/U8CYNxUc4fwp0uvc-QzwO_D_MOGF8HWMSq4qaqXq0bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDE0/NTMtMTQxNTk2OTYx/MC00OTEwLmpwZWc.jpeg) | 1997 | György Ligeti | Ligeti: Keyboard Works, Vol. 6 |
+| 50 | ![Cover](https://i.discogs.com/5PCaVGLBXcaDWpWz8S6EO_-KFUuPrDysYoNm4ahS7xs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg0/NjktMTI3NTkxODQw/OC5qcGVn.jpeg) | 2004 | Domenico Scarlatti | Scarlatti: Complete Keyboard Sonatas, Vol. 1 |
+| 24 | ![Cover](https://i.discogs.com/MiwTlvvNvogrPJFACVyWRoXmHOca0F44LNT1Qhf-TA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzEx/OTUtMTQxNTQ5ODM1/MC0zNzE1LmpwZWc.jpeg) | 2005 | Breakup Breakdown | She Went Black EP |
+| 43 | ![Cover](https://i.discogs.com/RCschZ4HW79cvywHwzeBezAe8zOb6sf-48K46ouUg70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODY2/NzYtMTI3NDU0NjQ0/NC5qcGVn.jpeg) | 2005 | her highness | Major Keez Joined by her highness - In the Neither Land |
+| 28 | ![Cover](https://i.discogs.com/OGId8oR5YoBQqO6_1QS3MYNV6ZEud2avRQPSHCf4X2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg3/NDEzLTE1OTU5Mjcw/NTYtMjU2NS5qcGVn.jpeg) | 2006 | Danie Nel | Vortex One |
+| 13 | ![Cover](https://i.discogs.com/GtILZx9SxGnho2WARRIJN_S1Xd5STNq_hyuOP-kqlec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQ0/NTYyLTE0OTA2NDM3/NTktMzQ2My5qcGVn.jpeg) | 2007 | Jesse J. Smith | The Temple of Jhoom |
+| 8 | ![Cover](https://i.discogs.com/Gm_X1Q_6KReC1F6NN11qTzmnxGfDoKS_yWPefsL4ADQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU3/NjUxLTE1Mzc1Njky/OTYtNDgzNS5qcGVn.jpeg) | 2009 | Jesse J. Smith | Overdriver |
+| 10 | ![Cover](https://i.discogs.com/Gm_X1Q_6KReC1F6NN11qTzmnxGfDoKS_yWPefsL4ADQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU3/NjUxLTE1Mzc1Njky/OTYtNDgzNS5qcGVn.jpeg) | 2009 | Jesse J. Smith | On The Run |
+| 39 | ![Cover](https://i.discogs.com/qBvvjn93DSYhZrrGrstpV_cVmPiYL_Hcbmy8A8-L3Ts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcx/MzMtMTI2OTM4MTk3/OC5qcGVn.jpeg) | 2009 | Strömberg&#x2F;Granlund | After Flood |
+| 44 | ![Cover](https://i.discogs.com/Gm_X1Q_6KReC1F6NN11qTzmnxGfDoKS_yWPefsL4ADQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU3/NjUxLTE1Mzc1Njky/OTYtNDgzNS5qcGVn.jpeg) | 2009 | Jesse J. Smith | Organic Rock |
+| 46 | ![Cover](https://i.discogs.com/Gm_X1Q_6KReC1F6NN11qTzmnxGfDoKS_yWPefsL4ADQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU3/NjUxLTE1Mzc1Njky/OTYtNDgzNS5qcGVn.jpeg) | 2009 | Jesse J. Smith | Organic Rock Singles |
+| 42 | ![Cover](https://i.discogs.com/n7N43no6Rhspya9Vq4IpyrUZ01XuGRvChQIFompBpps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDQ4/NTAtMTM4MDE5NTQ3/OS01NDU4LmpwZWc.jpeg) | 2012-10-10 | Eddie Allamand | In The Middle Of Everything |
+| 20 | ![Cover](https://i.discogs.com/t02P1Za-ZzDOA9Ws3P5z5lw70EllN24iGO_CHsstjf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzE3/ODYxLTE1NzIxMTQ0/MzMtNDQxNS5qcGVn.jpeg) | 2013-01-13 | Mark Ward | Exposed To Infinity |
+| 6 | ![Cover](https://i.discogs.com/-fQZQmnKj3E1-N5yFyFG7ZZUiSnAlOI5eJaqCmR91lY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODc5/MTEwLTE1NjMxNjEw/MTItMTg4NC5qcGVn.jpeg) | 2019-07-14 | Brevyn | Gemstone Study Vol. 1 |
+| 7 |  |  | Sounds Like Words | Sounds Like Words |
+| 54 |  |  | Must Be Tuesday | Demo |
+| 59 |  |  | Wasted Elk | Wasted Elk |
+| 60 |  |  | Marzia Gaggioli | Classica N.13 |
+| 62 | ![Cover](https://i.discogs.com/iY4lsAKgkK6_OSP0Ldg1jWiUrNuzQ79UX013PG_99BY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDIx/NDktMTQ2MDkwODgy/OS0yMDQyLmpwZWc.jpeg) | 1957-04 | Johann Sebastian Bach | Bach, J.S.: Clavier-Buchlein for Anna Magdalena Bach, 1725 |
+| 63 |  |  | Marzia Gaggioli | Classica N.12 |
+| 67 |  |  | The Four Suns | the Art of War |
+| 68 |  |  | Aural Night | Voyage |
+| 73 |  |  | Newer Not | Indoor. Curtained. |
+| 75 |  |  | Sutton Hoo | Straight Moving - EP |
+| 76 |  |  | Poul Udbye Pock-Steen | El Arte de Tañer |
+| 79 |  |  | The Sneaky Mister | Milk and Cookies Room |
+| 87 |  |  | Basillios | Am I Human ? I am Robot |
+| 64 | ![Cover](https://i.discogs.com/eWatma6JbFMvkjRCJ0kDJVMyPwRc2717HM2nbtz8_ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODgy/Njc1LTE1MjQwNTY3/OTktMzEyNi5qcGVn.jpeg) | 1969 | Johann Sebastian Bach | Bach, J.S.: Well-Tempered Clavier, (The), Book 2, Bwv 870-893 |
+| 52 | ![Cover](https://i.discogs.com/Urvgp89vi2QQyKrlw2kBCgDcEfQVQDatcrcTcK0YEUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mzk5/MDQtMTM3Mzk4NTQ5/NS04OTA2LmpwZWc.jpeg) | 1972 | Tommy Jones | The Midtown Album |
+| 94 |  | 1979 | Bob James | Lucky Seven |
+| 66 | ![Cover](https://i.discogs.com/eWatma6JbFMvkjRCJ0kDJVMyPwRc2717HM2nbtz8_ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODgy/Njc1LTE1MjQwNTY3/OTktMzEyNi5qcGVn.jpeg) | 1983 | Johann Sebastian Bach | Bach, J.S.: Well-Tempered Clavier (The), Book 1, Bwv 846-869 |
+| 85 | ![Cover](https://i.discogs.com/rQL84IwpHdiSgo48h7iCq8YceodCNGbWV4eGdNudknM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcz/MTc0LTE1NDE2NzYz/MjctNzEyNy5qcGVn.jpeg) | 1983 | Johann Sebastian Bach | Keyboard Works Disc 23 |
+| 89 | ![Cover](https://i.discogs.com/ZaSkeO3B3moJzBb9WGWJN5Q4BOUbT6Y-FRPlwfWQnHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjY1/NDY3LTE1MTMwMjAy/NzgtNDM4OS5qcGVn.jpeg) | 1983-10 | Johann Sebastian Bach | Bach: Complete Keyboard Concertos |
+| 69 |  | 1992 | Laurie Z. | Window to the World |
+| 74 | ![Cover](https://i.discogs.com/Qf6I7JkpmktTRbmdjYi3T59hw9bgAkU1QEXwMUK8Fuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzU0/MDEzLTE1NjAzOTQ5/ODAtODgyMi5qcGVn.jpeg) | 1993 | Abel Quintero | Nueve Meses |
+| 98 |  | 1996 | Nacho Cano | El Lado Femenino |
+| 51 | ![Cover](https://i.discogs.com/Pfxo8bGTdnLP3rqXGXZygMSnsNRIbFCR6ANwG5ATfYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTk1/MDAtMTMwMjQ2NjYx/Ni5qcGVn.jpeg) | 1998 | Johann Sebastian Bach | Bach, J.S.: Keyboard Works; The Well-Tempered Clavier; 2- &amp; 3- Part Inventions; The Art Of Fugue; Chromatic Fantasy &amp; Fugue |
+| 83 |  | 2000 | Maria Schneider Orchestra | Allégresse |
+| 77 | ![Cover](https://i.discogs.com/fdFxtVSV-9Z-2Ax4GYxCcA0J1KqqyPkXkqxqXDCvzdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTA2/NTItMTQ2MDcwMjM5/Mi01OTQ0LmpwZWc.jpeg) | 2001 | Laurie Z. | Heart of the Holidays |
+| 88 | ![Cover](https://i.discogs.com/Wgpy-BGiBRg7jmbTB137UqNUV8U8ac2gwrm7ZFzJTEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTM5/ODUtMTM1OTUzNDk1/OS05NDc2LmpwZWc.jpeg) | 2001-10-23 | Jordan Rudess | Feeding the Wheel |
+| 93 |  | 2002 | Keith Emerson | Emerson Plays Emerson |
+| 97 |  | 2002-12-01 | Jordan Rudess | Christmas Sky |
+| 81 | ![Cover](https://i.discogs.com/IkElMGBijAKP6Cw_dulwfCujzGVUrs0rV3GoV8yanIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTUz/ODctMTQ4Njc1Nzgx/MC01Njg4LmpwZWc.jpeg) | 2004 | Jason Lindner | Now vs. Now |
+| 65 | ![Cover](https://i.discogs.com/UbWOtpR2hilUsXINoTqekAHyvK9okYd-Qdoqx8IjsRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTU3/Ny0xMjIxMjYwNDg3/LmpwZWc.jpeg) | 2005 | Meri von KleinSmid | Dirges |
+| 71 | ![Cover](https://i.discogs.com/M3yELYSLCDzyWfJ4Csher42ksVC00U_0AwaMyWyjgW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA4/NTQzLTE1NTk0Nzk5/ODItMjIxNy5qcGVn.jpeg) | 2006 | Jihad Jerry &amp; The Evildoers | Army Girls Gone Wild |
+| 99 |  | 2006 | Dangerous Muse | The Rejection |
+| 53 | ![Cover](https://i.discogs.com/GtILZx9SxGnho2WARRIJN_S1Xd5STNq_hyuOP-kqlec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQ0/NTYyLTE0OTA2NDM3/NTktMzQ2My5qcGVn.jpeg) | 2007 | Jesse J. Smith | Rhythm Cargo |
+| 55 | ![Cover](https://i.discogs.com/GtILZx9SxGnho2WARRIJN_S1Xd5STNq_hyuOP-kqlec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQ0/NTYyLTE0OTA2NDM3/NTktMzQ2My5qcGVn.jpeg) | 2007 | Jesse J. Smith | Rhythm Cargo Singles |
+| 56 | ![Cover](https://i.discogs.com/GtILZx9SxGnho2WARRIJN_S1Xd5STNq_hyuOP-kqlec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQ0/NTYyLTE0OTA2NDM3/NTktMzQ2My5qcGVn.jpeg) | 2007 | Jesse J. Smith | Royal Nights |
+| 91 | ![Cover](https://i.discogs.com/CssIUCFp0ZNASgW5EINBdH7Rq12tqVXOZhZSGiNp7xk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDA1/MTUxLTE1NTM1NjYy/ODAtMTQ5MC5qcGVn.jpeg) | 2008-05 | Marilyn Roxie | Dark Mist EP |
+| 92 | ![Cover](https://i.discogs.com/eEzXW0_jyfpo9gY5eTu_azfjK0JpiicG2BcrD2snIhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDA1/MjA3LTE1NTM1Njcx/NzAtNjY3OC5qcGVn.jpeg) | 2008-06 | Marilyn Roxie | Bits |
+| 57 | ![Cover](https://i.discogs.com/Gm_X1Q_6KReC1F6NN11qTzmnxGfDoKS_yWPefsL4ADQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU3/NjUxLTE1Mzc1Njky/OTYtNDgzNS5qcGVn.jpeg) | 2009 | Jesse J. Smith | Madrona |
+| 86 |  | 2009 | shpakOO | It&#39;s Time ... |
+| 95 |  | 2009-07-31 | Ronald Jenkees | Disorganized Fun |
+| 82 | ![Cover](https://i.discogs.com/rAazr8sw4iRiQYhUOjsSQqD-CDN1LrjffMsnoEmqF9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDEw/MDktMTM3MDc5MDU2/OS0yODkxLmpwZWc.jpeg) | 2010-12-10 | Ellylldan | Battlefields |
+| 61 | ![Cover](https://i.discogs.com/l_ISTTsWNXvsVBOujZqcQAUD1mHo5dYTuFVba0kRthg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjY5/ODktMTQ4ODY3Njk1/OS0zOTU5LmpwZWc.jpeg) | 2012 | Lara St. John &amp; Marie-Pierre Langlamet | Bach: Sonatas |
+| 72 | ![Cover](https://i.discogs.com/t4KhCdXkLA_u3VcmLQfO_qSrSTwqGBl_SDaYYkUpkJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTM3/NzE2LTE1MjkwNjM1/MTMtNTE2Mi5qcGVn.jpeg) | 2012 | Jordan Corey | Do Me Wrong |
+| 90 | ![Cover](https://i.discogs.com/fFNWv0Z3HtqRX1dYaNCF1ukO46cFy8pPe501RCJXdTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzU3/NDI0LTE1MjE4NTk5/NjAtNzQzMC5qcGVn.jpeg) | 2012 | Think Harder | Timelines &amp; Transitions |
+| 58 | ![Cover](https://i.discogs.com/xI65GYgzXfSF4NBAEpNMgNPq1ev8dM8S-mNWwmlqEO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTY3/MTI3LTE2NDEwNjYy/ODItMjQ2Ni5qcGVn.jpeg) | 2014 | Imbolg | Imbolg |
+| 96 | ![Cover](https://i.discogs.com/utypvAjTDNEv2l2hiu9xZjJIRKpwr-yefT3A9T8Nv-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU2/MTY2LTE1MTI4NDYz/NTEtNDAwNi5qcGVn.jpeg) | 2017 | Lynn Johnson | Timelike Infinity |
+| 84 | ![Cover](https://i.discogs.com/wetyH7W9GCjATyIboWjWCbfLhttxr68k_iQzytgIGkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMz/ODkyLTE1NTIyNTMz/ODAtNDQ4OC5wbmc.jpeg) | 2018-11-14 | Spencer Zahn | People of the Dawn |
+| 70 | ![Cover](https://i.discogs.com/yZFbwKBr2zYWRvXYt0TeBcXcpUYYlw2nJvnt-y_Rneo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDE3/NTI1LTE1OTEyMDY1/ODItNTY0Mi5qcGVn.jpeg) | 2019-04-19 | Xap | The early cut |
+| 78 | ![Cover](https://i.discogs.com/b6RA3QBK5Ldk3Oyl_6_JOEV7sFW-Y1crpA9LGhfwE3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgz/MDczLTE1OTA4MzM1/MjktOTI2MS5qcGVn.jpeg) | 2020-05-29 | Irmin Schmidt | Nocturne (Live at the Huddersfield Contemporary Music Festival) |
+| 100 | ![Cover](https://i.discogs.com/9ZQ8ZYvMOwaWZl410GULuOXWHriTGVpNPgGS0HROMeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjIy/MjY1LTE2MTMyNTg1/ODItMjYyNi5qcGVn.jpeg) | 2020-06-19 | Parcels | Live Vol. 1 |
+| 80 | ![Cover](https://i.discogs.com/PgCwBhUfvF2tKnIfLvPnAUrYs0LUtO4yA-oMaWIl2W8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDkz/NjE1LTE2ODQyMjg3/MjUtMjg1OC5qcGVn.jpeg) | 2023-02-24 | Jetlagged | depart, be lost, but climb |
+
+### Related genres
+
+- [instrumental]({{ "/tags/instrumental" | relative_url }})
+- [piano]({{ "/tags/piano" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [bass]({{ "/tags/bass" | relative_url }})
+- [jazz]({{ "/tags/jazz" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [electronica]({{ "/tags/electronica" | relative_url }})

@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T08:00:04.213Z
+permalink: tags/schranz
+title: schranz
+---
+
+## schranz
+
+Last updated: <time datetime="2025-10-22T08:00:04.213Z">Wed Oct 22 2025 11:00:04 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 2 |  |  | fractaleline | アカラドノクライスキ |
+| 3 |  |  | Stigmata | Stigmata 3&#x2F;10 |
+| 4 |  |  | BEYOND_LESS Records | CONCOR_DANCE |
+| 7 |  |  | Stigmata | Stigmata 7&#x2F;10 |
+| 9 |  |  | Stigmata | Stigmata 5&#x2F;10 |
+| 21 |  |  | Ian Pooley &amp; The Jaguar | Two Space Cowboys On a Bad Trip |
+| 33 | ![Cover](https://i.discogs.com/QqeY7IE1lLORW3fupvIn4qQdX4hbQEv2c-VmgHw3I_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzYw/MC0xMjI3NTU1NzIw/LmpwZWc.jpeg) | 1995 | Subsonic | Lost In Space |
+| 25 | ![Cover](https://i.discogs.com/xsiu_TxgI3zXOunW_5WaCIQ9I5NXsfCF0YRU_aTHOPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Nzg2/LTExNDI1OTY3NjIu/anBlZw.jpeg) | 1996-02-26 | Richard Benson | Rich In Paradise E.P. |
+| 31 |  |  | Hekatoncheir Beats | 東方酒乱集・弐 |
+| 37 |  |  | Kaamzs | Blissfully Unaware |
+| 45 |  |  | Flaming Blitzwurst Intruder | Filét |
+| 50 | ![Cover](https://i.discogs.com/H0cPJfqYjnehDIzdNK0wjg9oD4VOa3Rmq2DLNEq0UqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTgw/LTEzMzgwMzcxODUt/NTc4My5qcGVn.jpeg) | 1997 | Hardtrax | Necronomicon |
+| 13 |  | 2000 | Stigmata | stigmata 1&#x2F;10 |
+| 28 |  | 2000 | Stigmata | Stigmata 2&#x2F;10 |
+| 43 |  | 2000 | Chris Liebing | The Order Of Art |
+| 17 |  | 2002 | Stigmata | Stigmata 9&#x2F;10 |
+| 22 |  | 2002-04 | Stigmata | Stigmata 8&#x2F;10 |
+| 38 | ![Cover](https://i.discogs.com/gTSuxCHAvASp68SK2KOq0bkRbBh2h7wU6ELjw1CBnmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTAz/Ni0xMTIyOTAyODE3/LmpwZw.jpeg) | 2002-10-01 | Boris S. | Decibel 2008 |
+| 15 |  | 2003 | Stigmata | Stigmata 10&#x2F;10 |
+| 19 | ![Cover](https://i.discogs.com/PZGMROD6vgIoxDaFaDGe_fsbIPy8gVyniXdv4CkW__M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTM1/NzU3LTE0OTIyNTc1/NDQtODgwMS5qcGVn.jpeg) | 2003 | C9 | Connected Words |
+| 23 | ![Cover](https://i.discogs.com/T4qMpILvOLqcRzuEfV_RO6DqUKsMHNZ5HEyJ8u1qark/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ5/NjktMTE4ODUwODM3/My5qcGVn.jpeg) | 2003-11-05 | Pimuri | kitchenbeat |
+| 11 |  | 2004-10-18 | Stigmata | Chapter One - The Complete Collection |
+| 39 | ![Cover](https://i.discogs.com/wvgk_FSMrzGNcgwzxZEkBJG7gKscMdmJIpMdFW6i5A8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA3/NzQtMTIwMDI4ODgz/NS5qcGVn.jpeg) | 2008-01-07 | DJ L&#39;embrouille | Mixotic 115 - DJ L&#39;embrouille - World Web Trip 2007 |
+| 35 | ![Cover](https://i.discogs.com/ArWXGQrVE1jaDmT3Eg2fDKKIOTCabsoELlJsC56fffU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzEx/ODUtMTI0MjI5NTY5/OS5qcGVn.jpeg) | 2009-04-24 | Sven Wittekind | Fight for Techno LP WEB |
+| 1 | ![Cover](https://i.discogs.com/UZqZBmXbCEZJcZTcX_8wnpjDuoJ_gvjRP4mtnFkDOiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzM4/OTQ4LTE2MTI5MDAw/NzYtNjY2Ni5wbmc.jpeg) | 2011 | Exodia | SCHRANZER |
+| 5 | ![Cover](https://i.discogs.com/9DoQDacSX_UldKDq4G4Sq-EWGD43HGFf-J6ny1RGAAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTAx/Mzg2LTE2NDQyMTc3/NDEtNjM2NS5qcGVn.jpeg) | 2021-10-07 | DJ Bazootka | All &#39;Bout Vice |
+| 6 |  |  | Stigmata | Stigmata 4&#x2F;10 |
+| 8 |  |  | Stigmata | Stigmata 6&#x2F;10 |
+| 16 | ![Cover](https://i.discogs.com/uFo1cv7DScYP-rTunVU0zdCtlWgfOw0LJotBsskWPVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIy/MC0xMTQ0MTU5MjM2/LmpwZWc.jpeg) | 2006-05 | Xenex | Niederösterreich |
+| 34 | ![Cover](https://i.discogs.com/JC_Ro2EQHaIWx3pvgAiT20ZnIkvJfBGmuCoogOMEp6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg1/MTUtMTI5MjQ0NDMw/MC5qcGVn.jpeg) | 2010-05-11 | Space Djz | Decibel 2008 |
+| 36 |  | 2011-05-08 | kefy | アカラドノクライスキ |
+| 30 | ![Cover](https://i.discogs.com/tY4TULbB1C7HI5g3TcwUhkEw3n7eS_ZrqqsKMkWeo5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE4/MzQtMTMxNTgyNjk4/MS5qcGVn.jpeg) | 2011-09-01 | Spark Taberner | Decibel 2008 |
+| 40 | ![Cover](https://i.discogs.com/VatflmIZ3uNYdiCiheAOHj2UIcVbyGaoayLdDjX3vmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTg2/NjAtMTM3MzI5NDA5/MS0yNjIwLmpwZWc.jpeg) | 2012-01-29 | 13.c.Gilbert | Loop Box- 1tc |
+| 41 | ![Cover](https://i.discogs.com/9uqBFoW13HfsJWR_CHpomISig4nPjW_KKYg0u5gybEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDEy/NzMzLTE1ODU0OTUw/MzMtOTA1NC5qcGVn.jpeg) | 2013-11-18 | Kevin Wesp | Anxiety |
+| 26 | ![Cover](https://i.discogs.com/6fRnNKr1Ug9obI7uqA7TND9DMjaVvdMbq3MAkvawxJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzU4/NTgtMTU0ODYzNjQ1/MC04Mjk5LmpwZWc.jpeg) | 2016-08-07 | Alex TB | Places EP |
+| 12 | ![Cover](https://i.discogs.com/XOsF_gloBjiNCrHTjJOXqyu4RYQR4fdA8ViSK79DXsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjEz/MDQ1LTE1OTQ1NTIz/NjgtMTExOC5qcGVn.jpeg) | 2020-02-12 | sLime Coca | SELFALBUM I |
+| 47 | ![Cover](https://i.discogs.com/GW4-sOGPBxv0X33veO1skA2WWPzZMt74V204i_n8DEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDE4/MTA3LTE1ODU1NzA4/MjQtMjc2Ny5qcGVn.jpeg) | 2020-02-24 | Boris S. | I Am Different |
+| 10 | ![Cover](https://i.discogs.com/WYweC-egtoo4JzVCUXmHXyOWLG3YN46nJdrCKgzuDLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTU2/MjIzLTE2ODQ2NTc1/MzMtNDQ1NC5qcGVn.jpeg) | 2022-11-25 | DJ TEST.E | Channel Control |
+| 14 |  |  | Fluid Stance | Isolated Times |
+| 18 |  |  | Fluid Stance | LUNATIC EASTRONICA |
+| 20 | ![Cover](https://i.discogs.com/uRVUnRCQQUcXNLUYjsA0rTkVmxzB2hnj24rGyhUbQ2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTg5/MTYtMTIxNjE0OTQy/Ny5qcGVn.jpeg) | 2007-11-19 | KillSwitch &amp; Reset | NGoHT |
+| 24 | ![Cover](https://i.discogs.com/UFDVrs-zipPNqz6J-uoyOBQm9JKt1gn60fWql_xC6V8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTY1/NjYtMTI5MDI4NjMw/MS5qcGVn.jpeg) | 2010-10-31 | Volvic | SOPHISTICATED |
+| 27 |  |  | Atomuhr | Unpublished |
+| 29 |  |  | Nasty Fingers | Proper Techno Innit |
+| 32 |  |  | 削除 | 癒し系シュランツEP |
+| 42 |  |  | Kaamzs | Death of an Icon |
+| 44 | ![Cover](https://i.discogs.com/BHDIc28TjY8jA4iiZjhaaAADAgB_nXlqBatl04hXwGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjA2/NjAwLTE2NzIzNDY3/NDEtNDg5Mi5qcGVn.jpeg) | 2020-03-02 | K Ø Z L Ø V | Terminus |
+| 46 |  | 2022-04-14 | Various Artists | German Schranz &amp; Techno Vol.1 |
+| 48 | ![Cover](https://i.discogs.com/RRxDOMs3MkxcLUz5PqCowJpVlLsLd3CJRJ9QG5KkS2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzU1/NjI0LTE3MzIyMjA1/NDUtOTA3OC5qcGVn.jpeg) | 2024-08-23 | beansclub | war against the machines |
+| 49 |  |  | Dave_VooDoo | The Cirkus | Hard Techno set 04 09 2008 promo |
+| 69 |  | 1977 | Various Artists | Kreatur |
+| 74 | ![Cover](https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg) | 1980 | Various Artists | Hard Techno Underground (Best Of Schranz Vol.1) |
+| 89 |  | 1991 | Speedy J | Loudboxer (Remastered 2021) |
+| 95 | ![Cover](https://i.discogs.com/kdJXX1l_C0Zao30NUc2dbC-cws3majx77f4quDbS2gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzMt/MTE3MzgyODYxMi5q/cGVn.jpeg) | 1994 | Alec Empire | Generation Star Wars |
+| 68 | ![Cover](https://i.discogs.com/V8YCU_Oc2M3YTj8e9Uvy5aDH_VKpMaz37nB932O5hK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjE2/LTE0ODYwMjc1NDAt/OTYzMi5qcGVn.jpeg) | 1994-01 | Alec Empire | The CD2 Sessions |
+| 73 | ![Cover](https://i.discogs.com/6nAD_1oqVYv-9LVrNVCMCEHYWC4JliYh-e1B2XZVY9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU0/LTEyOTEyNzY1NjIu/anBlZw.jpeg) | 1996 | C-Tank | The Final Nightmare |
+| 83 | ![Cover](https://i.discogs.com/dLr14xR16GGF0OGTcWmiFjZa1BqzVitVCB_1eGUIMvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEx/MC0xMTk0MTA0MjI2/LmpwZWc.jpeg) | 1996 | Bomb 20 | Pigtronics |
+| 77 |  | 1997 | Alec Empire | The Geist of Alec Empire |
+| 86 | ![Cover](https://i.discogs.com/ImLi-ZlwMfFwoxe5HZoqDMpi5mde85DtdAWm3N4jddo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njgt/MTM5OTMyOTQwOS05/MTczLmpwZWc.jpeg) | 1997 | Chris Liebing | Dandu Groove |
+| 99 | ![Cover](https://i.discogs.com/ZfBPD6rVzotaVC909K1mrGbT4FJDtslNgnU7_AMJd_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAw/LTE1MTQ2Njk3MjAt/NDA5Ny5qcGVn.jpeg) | 1997-05 | Björk | Jóga |
+| 76 | ![Cover](https://i.discogs.com/Ksi4rAX0r-tJJP5fwwK0ZF76kFX59VKYl5fb0axl1Cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzAt/MTE2ODcxNzYyNy5q/cGVn.jpeg) | 1998 | Chris Liebing | Dandu Groove (remixes) |
+| 97 | ![Cover](https://i.discogs.com/fTSUNFbSo1MbP6fwGHtihXnqqFEfB4uBwsMxobCQRg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTE2/Ni0xNjE5NTU2MDk4/LTUxMTUuanBlZw.jpeg) | 2001 | Chris Liebing | Collabs 3000 (Metalism) |
+| 79 |  | 2002 | Chris Liebing | Early Works |
+| 94 | ![Cover](https://i.discogs.com/ZnKJ_JqcaPePD0sO8QCZaCNx-6eHVDOapn2Jb6chL_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE5/Ni0xNTI3OTc3NzA5/LTI2MTcuanBlZw.jpeg) | 2002 | Milky | In My Mind |
+| 52 | ![Cover](https://i.discogs.com/Kau4nGZFbwC0LefzeRwzTOb4q1KiXUcUEJWnP467-Is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODc1/MC0xNDk2MjQxMDI1/LTQzNTkucG5n.jpeg) | 2002-04-22 | Alec Empire | Intelligence &amp; Sacrifice (2 of 2) |
+| 85 | ![Cover](https://i.discogs.com/ZHxJbSMIFlq2fv4yN-iPQSSNsWBYPWnVgYsR4F97EgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTMx/LTEzMDU5NjYyMDgu/anBlZw.jpeg) | 2002-07-15 | Mario Ranieri | Elektr. Volksmusik Remixes |
+| 65 | ![Cover](https://i.discogs.com/q9SHq2Xsva3u3EXOevlBLBAf5r_QmZbSK4ba2CFMZfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTcw/Ni0xMTM1Nzc1MjM4/LmpwZWc.jpeg) | 2003 | Labortechniker | Abverreckte Versuche EP |
+| 72 | ![Cover](https://i.discogs.com/ZLmTP0mS7g0DyXckN1lq8F7afL-u-zr9sM1pwMSxo68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTA4/Mi0xMTM0Nzc0ODEy/LmpwZWc.jpeg) | 2003 | J.T. | Box Moving EP |
+| 82 | ![Cover](https://i.discogs.com/irCPjupL87lm_JhDEb70iIIiXwH5KFmCLokXzH2Kp_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTcx/MC0xMTM1Nzc1NDA3/LmpwZWc.jpeg) | 2003 | Labortechniker | Sau Rauslassen EP |
+| 92 | ![Cover](https://i.discogs.com/zws0SiiQ2FSb9vv0PeFXaYtPyhevtLqvWiPVSiUl1OA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzQw/MC0xMTk5MzY5Nzc0/LmpwZWc.jpeg) | 2003 | Robert Natus | Brainwash EP |
+| 96 |  | 2003-06-10 | Chris Liebing | Evolution |
+| 98 | ![Cover](https://i.discogs.com/AGQt9jbIljkYawIXK6cD1uxtXUcNiT1gzYGRgpxYh8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM5/Ny0xMzAzMjA5MTA5/LmpwZWc.jpeg) | 2003-11-03 | DJ Rush | Ladies EP |
+| 59 | ![Cover](https://i.discogs.com/HZAVNC_rOP2Rl5UUQkouu-z_091kI8RbfoS9fvh3uTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODY1/Mi0xMTcwNjI2MTE5/LmpwZWc.jpeg) | 2004-12-05 | Ronny Pries | Mixotic 080 - Ronny Pries - e&#x3D;4&#x2F;4 |
+| 80 | ![Cover](https://i.discogs.com/GKlQWHPqUTYd0mArucT0jHAvVzGAI5lMYJYV2LknH7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjQy/My0xNTcxMDg4NjE0/LTk2NDUuanBlZw.jpeg) | 2005-05-29 | Felix Kröcher | Compression EP |
+| 64 | ![Cover](https://i.discogs.com/eh6xnnqfxxzVG_a7jOJ4iI51ttRrNrTjehKQUUTujko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTg2/OS0xMTQwOTYzMzg2/LmpwZWc.jpeg) | 2005-10-03 | Substuff | Mixotic 013 - Substuff - LNER 2909 |
+| 56 | ![Cover](https://i.discogs.com/L12PZ_aVmQazZU5SPIqLFO6v429D70_8gPB5QtZ0Dz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjAz/MS0xMTU2NTc3MjEz/LmpwZWc.jpeg) | 2006-05-14 | DJ L&#39;embrouille | Mixotic 040 - DJ L&#39;embrouille - Oldschool Session |
+| 88 | ![Cover](https://i.discogs.com/lLwRhK3f9FPx5uIoC72Nn9vL3bNdlGn2z3l73ccJjFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTcy/MS0xMzYzMjk2MzYy/LTk3NDMuanBlZw.jpeg) | 2006-06-02 | Linda Pearl | Linda pearl |
+| 58 |  | 2006-10-26 | Chris Liebing | Loveparade Die Compilation &#39;07 |
+| 63 | ![Cover](https://i.discogs.com/6fzqlU8s-BwbRORY5ff7xmB5tt5_MZKuqInW6M8IYdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzAx/NC0xMTY1MTQ0NjQ5/LmpwZWc.jpeg) | 2006-11-20 | Moritz Blackbork | Mixotic 058 - Moritz Blackbork - The Lost Green 1.0 |
+| 78 | ![Cover](https://i.discogs.com/wm0_qjqOLVJX4jWg-gUz_394v785zkYenoyY4UdMCIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTY5/OC0xNTAwMzI2NTMz/LTc1MDUuanBlZw.jpeg) | 2007-04-30 | Boris S. | Mental Disorder |
+| 75 |  | 2007-05-11 | X-Tension | dead rhythms |
+| 60 | ![Cover](https://i.discogs.com/RXzgCCOzgimP4X5cZ0Dn8e4OWFfm-VE314Y3Jqh26qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjA4/NC0xMTc5ODQyNDY1/LmpwZWc.jpeg) | 2007-05-20 | Ralf Noetzel | Mixotic 084 - Ralf Noetzel - Hirnstammgarten |
+| 84 | ![Cover](https://i.discogs.com/pbeqU6bTxPOYyY60lDyLyIdPlvRGSKJlH8V4_dMfZ7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE5/OTItMTE4OTE1MDc0/OS5qcGVn.jpeg) | 2007-09 | Sven Wittekind | Seven Deadly Sins |
+| 90 |  | 2007-11-20 | DJ Ogi | Kickstart EP |
+| 87 | ![Cover](https://i.discogs.com/t_qwI0aJrkhNmYsc7GTbOIlUM_YzdL_4gbedjtx4AoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjM1/NzY2LTE2NTU3MjUx/MTgtMTY3OC5qcGVn.jpeg) | 2008-12-02 | Coded | Night of War |
+| 71 | ![Cover](https://i.discogs.com/YIR_-SUVHp1ExTCgDDbQzuig9r0U6e-IhhWTgNpucuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjU2/MjAtMTM3NTMwNTQ3/NC00MzY2LmpwZWc.jpeg) | 2009-11 | Progressor | Schizophonia:X-IT |
+| 54 | ![Cover](https://i.discogs.com/lFT7XYwY_LfNq9D0ZUw6aZpnQiSO4Rl78w_m6uAkgFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzY5/NDgtMTI1MzYyMDMy/Mi5qcGVn.jpeg) | 2009-11-01 | Tonal Y Nagual | La Sierra Mecánica |
+| 93 |  | 2012-11-30 | Korsakoff | Stiletto |
+| 51 | ![Cover](https://i.discogs.com/0fFXJd02LvnNJBgdwvBjQYvwubQ59KjhfFJqkMZZIO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzMx/MjItMTM5MzIzODM2/NC0xNTMxLmpwZWc.jpeg) | 2013-04-19 | A Flipping Budjunky | Torture Land |
+| 66 | ![Cover](https://i.discogs.com/KU5DDFCwfpgq3WMpmeDb-oWda7gFmh2q5nilJwDzs0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzMx/MDUtMTM5MzIzNzk1/Mi03NzMzLmpwZWc.jpeg) | 2013-04-19 | A Flipping Budjunky | Laracid Experience |
+| 55 | ![Cover](https://i.discogs.com/KWIXA5rW_nCiEaQ_2oj3wr_NyiQCEMISmSGRtgmpWPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzk0/NTM4LTE2MTMyMjI4/MzUtMjQ4Ny5qcGVn.jpeg) | 2013-05-17 | Sven Wittekind | Focus |
+| 53 | ![Cover](https://i.discogs.com/WeDsDAungrmGGwPTTAvIzorfHO4hJnWQSCFCoFDxnCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTQ5/OTQ0LTE2NTgzNzI3/NTItNTM2Ny5qcGVn.jpeg) | 2021-01-29 | BSLS | Misconception EP |
+| 57 | ![Cover](https://i.discogs.com/n8Ry60IoXE0hWfKzpcFMFMC1iVbZVrBT52lQZnSxaIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzE0/NzcxLTE2NzMyNzM4/NTUtMzU5MS5qcGVn.jpeg) | 2022-06-03 | Truthspeaker | archive |
+| 61 |  |  | Sahne_Graslhood-G | X-SSG-X |
+| 62 |  |  | fractaleline | Gift |
+| 67 |  |  | dummysytem | dummysystem |
+| 70 |  |  | schranziador | MY FIRST ALBUM |
+| 81 | ![Cover](https://i.discogs.com/TRxHXTMdh5OXHkNg7yD07t60_BD48d1ejqjk94einLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzk5/MzQ5LTE2MTU1MDgw/NDAtNzYzMS5wbmc.jpeg) | 2019-09-12 | Azealia Banks | YUNG RAPUNXEL PT. II |
+| 91 | ![Cover](https://i.discogs.com/oOr6mJ9FjfybU8cL9LBoQveZxkA3CP6J6Otnro744Os/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDM1/ODY4LTE3MjkyNTMz/NzMtNjU4Mi5qcGVn.jpeg) | 2023-10-25 | Noise Not War | Beat Your Brain |
+| 100 | ![Cover](https://i.discogs.com/D-8aySeQGkW_6qXMxmUzWkLtsXl3rUYFtyLihYM7BsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjI3/ODM1LTE3MTUyMjA1/OTItMzQ1Mi5qcGVn.jpeg) | 2024-05-09 | Cynthoni | Sewerslvt Presents: Cynthoni, Pt. 1 |
+
+### Related genres
+
+- [techno]({{ "/tags/techno" | relative_url }})
+- [hard techno]({{ "/tags/hard-techno" | relative_url }})
+- [industrial techno]({{ "/tags/industrial-techno" | relative_url }})
+- [trance]({{ "/tags/trance" | relative_url }})
+- [hardcore]({{ "/tags/hardcore" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [rave]({{ "/tags/rave" | relative_url }})
+- [acid techno]({{ "/tags/acid-techno" | relative_url }})
+- [industrial]({{ "/tags/industrial" | relative_url }})
+- [gabber]({{ "/tags/gabber" | relative_url }})

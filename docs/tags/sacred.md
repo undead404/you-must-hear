@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T06:22:05.706Z
+permalink: tags/sacred
+title: sacred
+---
+
+## sacred
+
+Last updated: <time datetime="2025-10-22T06:22:05.706Z">Wed Oct 22 2025 09:22:05 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 2 |  |  | Sretenye | Anthology Of Sacred Music Vol. 2 |
+| 3 |  |  | Christmazz | Christmazz 2011 |
+| 4 |  |  | St.Petersburg Chamber Choir | Pavel Chesnokov, Sacred Compositions (Vol.1) |
+| 6 |  |  | Poor Clare Sisters, Arundel | My Peace I Give You |
+| 7 | ![Cover](https://i.discogs.com/y1akuefxw3o8mPPMHM_EBtZF7cpZV6KJ2XXjsWU3cdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDcy/MDEtMTQ0OTE4MjQ0/MC03MjYwLmpwZWc.jpeg) | 1952-08 | Slim Whitman | God&#39;s Hand In Mine |
+| 12 |  |  | Mel Dobra | Sacred Tides |
+| 16 |  |  | Christmazz | Christmazz 06 |
+| 17 |  |  | Christmazz | christmazz 2010 |
+| 21 |  |  | The Male Choir of Valaam Singing Culture Institute | Russian Christian&#39;s Songs, Vol. 4 |
+| 33 |  |  | Orlande de Lassus | LASSUS: Lagrime di San Pietro |
+| 46 |  |  | Men&#39;s Choir of the Valaam Singing Culture Institute | Orthodox Shrines Of The Russian North. The Solovki Monastery. Part II (CD2) |
+| 47 |  |  | Ascention Church Choir (Maloe), Moscow, F. Stroganov &amp; S. Serafimovich | Chants From Orthodox Vespers &amp; Liturgy |
+| 72 |  |  | Christmazz | Christmazz&#39;04 |
+| 79 |  |  | Christmazz | Christmazz 08 |
+| 84 |  |  | Georgy Sviridov | Sviridov: Hymns &amp; Prayers |
+| 95 |  |  | State Symphony Capella of Russia | Sacred Treasures V: From a Russian Cathedral |
+| 97 |  |  | State Symphony Capella of Russia | Sacred Treasures: Choral Masterworks From Russia |
+| 63 | ![Cover](https://i.discogs.com/dI7r-FwBX_c0ullPjSJZO4TW9THX-pzt6elwmXpfDcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODEx/NjItMTQ1MTEzODMz/OS04NzU1LmpwZWc.jpeg) | 1965 | Hector Berlioz | Berlioz: Te Deum |
+| 32 | ![Cover](https://i.discogs.com/iBIVe5mH8o2YJuBMolcOM-tG4KT71CBR2_10h8jV8Sw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjkw/NTEtMTM3MzQ1OTcx/MS0yMDY1LmpwZWc.jpeg) | 1967 | Hank Snow | Gospel Train |
+| 45 | ![Cover](https://i.discogs.com/duHhYAc-tOZK5Wxa_YYFfj6iIg6fH1hCbDI6cvlZkd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTYy/MDUtMTM0MDgwOTIw/OS02OTIxLmpwZWc.jpeg) | 1967 | Bobby Bare | This I believe |
+| 50 | ![Cover](https://i.discogs.com/lv7U9wPMOFDMxruD4pV9C9VkQIMFM3z17SGJHKFCyiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTEw/MjQtMTI3MDA1NzI1/NS5qcGVn.jpeg) | 1967 | Dottie West | Sings Sacred Ballads |
+| 15 | ![Cover](https://i.discogs.com/XD9vk-BYOR69bQa55A4hlmU6Q8Cv84goS8Dxh9hI3e4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTk2/MjU0LTE1ODU1Mzk1/MTktOTc1OC5qcGVn.jpeg) | 1970 | Kitty Wells | Singing On Sunday |
+| 54 | ![Cover](https://i.discogs.com/6dAHcPgokLf0mW8cBUG-Ja5Syd-zk6Aiuyr3uVn0I0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODMx/NTktMTQxMDYzMDM3/My03ODcyLmpwZWc.jpeg) | 1970 | Pyotr Ilyich Tchaikovsky | Tchaikovsky: Sacred Choral Music |
+| 38 | ![Cover](https://i.discogs.com/_xWc994DsB-lKg8J8SO8OOg9xKRYyckw_YTBd-s7wzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzAy/MTktMTMwMzAxMzgw/NS5qcGVn.jpeg) | 1972 | Loretta Lynn | Just a Closer Walk with Thee |
+| 34 | ![Cover](https://i.discogs.com/CdPPtGT_Ak-XqSG3ImZfuaXWyXTM5jenx0g5n1A39Oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/Njc1LTE1NzY0MDc3/NDctNTM3MC5qcGVn.jpeg) | 1973 | David Houston | Golden Hymns |
+| 90 | ![Cover](https://i.discogs.com/xIBtrd61dDooOJi0sp0XIDHWGtel559LsRoYGd2dgFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzE3/NTM5LTE2NjQ4ODk4/MzMtOTI2MS5wbmc.jpeg) | 1973 | Antonín Dvořák | DVORAK: Stabat Mater &#x2F; Psalm 149 |
+| 92 | ![Cover](https://i.discogs.com/5b7C9S8gQ57Uvok4UgHp2b9_jN9PtEo7dlnQOtooQR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTk1/NC0xMTY4NTU1Mjcw/LmpwZWc.jpeg) | 1973 | Judee Sill | Heart Food (US Release) |
+| 23 |  | 1974 | Societat Coral Amics de la Unió | Musica Coeli. La música del Cel |
+| 75 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1974 | Various Artists | HANDEL: Gloria &#x2F; Dixit Dominus |
+| 55 | ![Cover](https://i.discogs.com/bnp8pB-EK8cA3yHqFPG5Gb_A6IcHuvaYhTs8ORIzNmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY4/MDgtMTUyMDQ1MTcw/MS05OTM2LmpwZWc.jpeg) | 1977 | Buck Owens | Dust on Mother&#39;s Bible |
+| 82 | ![Cover](https://i.discogs.com/kx1Oo0Ik_RBncPWrTcXRmvWSbocCgnuywS6wlzjGPZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODc5/MjEtMTMyODQ0ODA4/NC5qcGVn.jpeg) | 1977 | Perry Como | The Time-Life Treasury Of Christmas |
+| 94 | ![Cover](https://i.discogs.com/Zu19DbMkhBHr28Z7w8vUM1crO8S8ciIB5UK3GeJtyH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzUy/ODM2LTE1NjAzNjY4/NzYtNDc3Ni5qcGVn.jpeg) | 1980 | Thomas Tallis | TALLIS: Spem in alium &#x2F; Missa Salve intemerata |
+| 100 | ![Cover](https://i.discogs.com/a1puPvIZWHUXI7R-SLGiXYIFhuN8qsvQQj7X_HFase8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjE4/MzYtMTU1NjMxNTgy/NC04ODUzLmpwZWc.jpeg) | 1980 | Supreme Jubilees | It&#39;ll All Be Over |
+| 18 | ![Cover](https://i.discogs.com/8ExIzVHP4Ty8MsYNasH2Elbbgk-QwvUIZ6UCnpk4R8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjgx/MjUtMTM2MjI0ODg4/OC0yODk4LmpwZWc.jpeg) | 1981 | VERNON OXFORD | A Better Way Of Life |
+| 10 | ![Cover](https://i.discogs.com/dX8P85epGGjOPcG-wp2xK6C0Cq6edO7356V-7sz7f3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTcw/MTYwLTE2NDIzMjMx/NjctNTI4My5qcGVn.jpeg) | 1985 | Christopher Parkening; Paul Shure: Los Angeles Chamber Orchestra | A Bach Celebration |
+| 27 |  | 1987 | Elvis Presley | The Definitive Gospel |
+| 74 | ![Cover](https://i.discogs.com/uKFfwTeNtX4bdhJUXtQkzbibaEgWgXGRcaBaw_iDeq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk4/NzM5LTE2OTM1MDY4/NDYtODMyNi5qcGVn.jpeg) | 1989 | Sergei Rachmaninoff | Rachmaninoff: All-Night Vigil, Op. 37 |
+| 42 | ![Cover](https://i.discogs.com/xfBACd2aGiZSzuwM_cOJpuyynCWPw86BVaaboxOE-1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU4/MzUwLTE2MDE5OTQ3/NTktMTgyOS5qcGVn.jpeg) | 1990 | Chanticleer | Where The Sun Will Never Go Down |
+| 69 | ![Cover](https://i.discogs.com/29UOTV2V_qiKjBtZ8kw2OV5Q_RIYmd1H0HdwejGbvVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQ0/NjktMTYxNzUwNDQy/NS01NTUxLmpwZWc.jpeg) | 1990 | Kudsi &amp; Süleyman Erguner | Sufi Music of Turkey |
+| 56 |  | 1991 | Taizé | Jubilate |
+| 24 | ![Cover](https://i.discogs.com/KVvdtaeTA4o8RO1h8Ra5f1nhfwXnJVkPDqiPvRC8Big/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQ4/NzQ1LTE2MDQyNTc5/NDgtMTQ2OC5qcGVn.jpeg) | 1994-06-01 | The Choir Of Westminster Cathedral | A Festival Of Carols |
+| 98 | ![Cover](https://i.discogs.com/O8daLWUW1Nc27Po6X49WLOLUPF0Wp8-RR2Oxfb5FwjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQx/ODgzLTE1Nzg3NTU2/NjEtNDU4OS5qcGVn.jpeg) | 1994-08-23 | Giuseppe Verdi | Messa da Requiem |
+| 8 | ![Cover](https://i.discogs.com/TNObtvKCCjVQGm5jipBeceXXS4pZtLcjV0xt5NQ6Atc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ1/NjkzLTE1NDcwNjgz/MzQtMjAwMi5qcGVn.jpeg) | 1995 | Cedarmont Kids | Little David Presents Christmas Carols for Kids |
+| 67 | ![Cover](https://i.discogs.com/mGwqrx8oJjnY3408j-qMAfXe8YNWsl8VOnffS3F8vLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTEx/My0xNDAxMjk1Mzkw/LTk4NjcuanBlZw.jpeg) | 1995 | Francisco Aguabella | Hitting Hard |
+| 22 | ![Cover](https://i.discogs.com/AnXQtb04-5N9k8CaHH8YY9CbN5d14QqRUQBBKcA-9LE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njgx/OTQyLTE2ODA4ODgw/NDYtNDg5MS5qcGVn.jpeg) | 1996 | Elvis Presley | Gospel Treasury |
+| 44 | ![Cover](https://i.discogs.com/23iByfU04BHGXAVJK_iz6asfCK5LsSbs06CEKstfzcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTI3/NDktMTY0NDUzMjUw/Mi0zOTAxLmpwZWc.jpeg) | 1997 | Lesley Garrett | A Soprano Inspired |
+| 29 |  | 1998 | Gypsy Soul | Sacred |
+| 48 |  | 1998 | Ataraxia | Historiae |
+| 35 | ![Cover](https://i.discogs.com/KhdDKqXLzHo9FshXI4DU3miBUriTsK_3qNGQ5Wp4lRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUx/NzYyLTE1NjQ3NjY3/NjItMzMyNS5qcGVn.jpeg) | 1999 | Einojuhani Rautavaara | Rautavaara: Vigilia |
+| 37 | ![Cover](https://i.discogs.com/RP_epabiKFxXIpFvqCbCQPSB0ulbQoDk2pMA_u1Kh9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTg0/ODctMTU5NTk5MzI4/NC03NzE5LmpwZWc.jpeg) | 1999-11-08 | Elvis Presley | Take My Hand: Gospel Favourites |
+| 5 | ![Cover](https://i.discogs.com/C2a-9rACjXF8KEM6uJUKy0AWJOr_b3JiPsqugWYjrdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTYx/NzgtMTQwNTY4NzQ0/My0xOTQ2LmpwZWc.jpeg) | 2000 | Nina Lee | Sacred Pregnancy: The Deep Drink |
+| 49 |  | 2000-09-12 | Elvis Presley | Peace In The Valley - The Complete Gospel Recordings |
+| 20 | ![Cover](https://i.discogs.com/zdvC7BTgaABMKOUvnz16E_NxDDNnA7vR55hpYraH43E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDU4/OTgtMTY2OTg3MDg2/Ny0zOTc1LmpwZWc.jpeg) | 2001 | Greg Maroney | Hymns Healing Piano Solos |
+| 26 | ![Cover](https://i.discogs.com/mEKuG2Ah8QAWP1qwfKBOJCnJ2k99h-FpVzAYCEtCddI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTE4/MjAtMTQ1OTkxMzA4/NS01OTcxLmpwZWc.jpeg) | 2001 | Suzanne Sterling | Bhakti |
+| 41 | ![Cover](https://i.discogs.com/EpvVxrlZWcAI9WxyZKpeIP56OQaK1RMjhhl1q3umaF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg1/My0xMTU4OTcyODYy/LmpwZWc.jpeg) | 2001-03 | Ataraxia | Sueños |
+| 14 | ![Cover](https://i.discogs.com/OUzkEJp-0-TQZp_IOlVXQYYZQcWg1vJKjBD9WnRTrI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODMx/MzgtMTQzNTU5NjA1/OC04NDgwLmpwZWc.jpeg) | 2002 | Andrew Rahman | Re-Living Her Visual Mischief |
+| 19 |  | 2003 | Various Artists | Religious Music of India |
+| 13 |  | 2004 | The Kendalls | Best Of Country Gospel |
+| 30 | ![Cover](https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg) | 2004 | Various Artists | From Kuno to Kebyar: Balinese Gamelan Angklung |
+| 31 | ![Cover](https://i.discogs.com/Ns--dNtcdBFZcsmEmYQbbFowHqLgHTulEMXS7k088Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUw/OTE5LTE3MzAzMTAy/NjYtNDQ3My5qcGVn.jpeg) | 2004 | Various Artists | Wade in the Water, Vol. 1: African-American Spirituals: The Concert Tradition |
+| 43 |  | 2004-01 | Dag Winderlich | Sacred |
+| 51 | ![Cover](https://i.discogs.com/3-f1xUEDQcdpUdRNlNmotc4A_ZtNsG9s65xofh3aCcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTQz/OTUtMTMwNzA0NjAx/MS5qcGVn.jpeg) | 2004-01-20 | Francisco Aguabella | Ochimini |
+| 57 |  |  | Matt Hyzer | This Is My Story |
+| 59 |  |  | Christmazz | Christmazz&#39;07 |
+| 64 | ![Cover](https://i.discogs.com/yyo1qLEg25LgrS6z1rNnJQWu_FiYlyMG7nFnZY_eS7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTEz/ODUwLTE2NTE3MDA5/NzItNjIxNS5qcGVn.jpeg) | 1991 | Carlo Gesualdo | Sacred Music For Five Voices (Oxford Camerata) |
+| 93 | ![Cover](https://i.discogs.com/f3IDepANfjpzG88xXV61udo-Zmv6J2XcQnNiZEw1zak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzg1/MjUtMTQ1NzczMjg2/NS00NjM1LmpwZWc.jpeg) | 1991 | Pavel Chesnokov | Teach Me Thy Statutes |
+| 85 | ![Cover](https://i.discogs.com/x6RFElyfp-dkopNWtLqZPzig5JwIVHZEJkw5RkYBxnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDIz/NzUxLTE1ODU2NTE5/ODQtMzIzNS5qcGVn.jpeg) | 1994 | Traditional | Ancient Psalms of the Orthodox Church |
+| 73 |  | 1995 | The Choir of the Dormition Church of the Novodevichy Convent | Russian Orthodox Chants |
+| 76 |  | 1996 | Ataraxia | Concerto No. 6: A Baroque Plaisanterie |
+| 89 |  | 1998 | Taizé | Chants de la prière à Taizé |
+| 88 | ![Cover](https://i.discogs.com/qvwFwu3LPUnMzWk4ypxg3OXr_7XiX2rpLq4dHA_hL9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk4/MjMwLTE0OTY2NjQy/MDEtNjYwMS5qcGVn.jpeg) | 1999 | Vera Lynn | Legends Of The 20th Century |
+| 78 | ![Cover](https://i.discogs.com/9AJcm_MXRNqmz2nrfqLsNohLrXxYYs3QHlw7bEmdyRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTgx/MS0xNDE4ODM3NDg1/LTQ2NTYuanBlZw.jpeg) | 2002-02-18 | Ataraxia | Mon Seul Désir |
+| 87 | ![Cover](https://i.discogs.com/3-5FqTijaIPVwKO3_NSpZ0sIzSOCaiF6jYuHx7HvKHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDYy/NTQ2LTE2NTQzNTc4/NTAtNzcyOS5qcGVn.jpeg) | 2002-11-05 | Taizé | Venite Exultemus |
+| 61 | ![Cover](https://i.discogs.com/_8qQaBEaihaFumfGmryG62RKNGDxdE2A4CHOsBno2p8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTA5/OTg5LTE2MDAwMTk5/NTEtNjIyMy5qcGVn.jpeg) | 2003 | The Tallis Scholars | Christmas With The Tallis Scholars |
+| 68 | ![Cover](https://i.discogs.com/WGIVh21vDVr2gi-_VlE29Np1DhGwJqBE2riq6O5ES0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODYz/NTAtMTQ2NjYwNDU4/MS00NDc3Lm1wbw.jpeg) | 2003 | Ruth Barrett | The Year Is a Dancing Woman, Vol. 2 |
+| 91 |  | 2003 | Ataraxia | Des Paroles Blanches |
+| 62 | ![Cover](https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg) | 2004 | Various Artists | United Sacred Harp Convention: The Alan Lomax Recordings, 1959 |
+| 66 | ![Cover](https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg) | 2004 | Various Artists | Wade in the Water: African American Sacred Music Traditions Vol. I-IV |
+| 83 | ![Cover](https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg) | 2004 | Various Artists | Wade in the Water, Vol. 2: African-American Congregational Singing |
+| 86 | ![Cover](https://i.discogs.com/kaA0h4yVLjGjSFtpIiBfEtGQDs5ZVqVcWHwIeS4K23I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTg0/OC0xMjk0MTUzMzc5/LmpwZWc.jpeg) | 2004-04-14 | Ataraxia | Saphir |
+| 40 | ![Cover](https://i.discogs.com/5Vlspxk4tG5Wrxlxa9wUgw05cUxKFctNlw_1iy581Bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTk5/ODEtMTYyOTMxNDUw/Ni03MTQ1LmpwZWc.jpeg) | 2005 | Johann Sebastian Bach | St Matthew Passion - Bach |
+| 80 |  | 2005 | Solomon Keal | Advent |
+| 53 | ![Cover](https://i.discogs.com/PJBHx34G52aqM4C4817sTlMUSf4cL3KucJpvqCEkRHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzM3/OTEtMTYzNDcyMjE3/MS00OTI4LmpwZWc.jpeg) | 2006 | Mantovani | Songs of praise |
+| 39 | ![Cover](https://i.discogs.com/MIxP22pAQFgVIamiU4u5E_hw4t14Hgyv7fu2a55xaVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTY0/MTI3LTE2MTA4NDIz/MTQtNjc1My5qcGVn.jpeg) | 2007 | Moscow Choral | Musique sacrée russe (Russian Orthodox Music) |
+| 71 | ![Cover](https://i.discogs.com/kozfr-oEOfLflt6DCqEyaWFHf7PEP2nWDLVMjDaTtwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA5/NDktMTE4OTg3Njg0/NC5qcGVn.jpeg) | 2007-02 | Ataraxia | Sous Le Blanc Rosier |
+| 81 | ![Cover](https://i.discogs.com/WJbine7jK52c9YFYToXBgr_Kj6yGvUyDVsoJGMQghd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTQw/NjAtMTQ0ODkwMjUx/MS01ODQwLmdpZg.jpeg) | 2008 | John Tavener | John Tavener: Missa Wellensis |
+| 9 |  | 2009 | Various Artists | Religious Songs and Drums in the Bahamas |
+| 52 | ![Cover](https://i.discogs.com/vbOFNRhZcbUudr8Dfa4ZjwkaRbUCPbvo2IR365BLeVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTA2/MjktMTQ3MjMzNjc3/OC0yOTQwLmpwZWc.jpeg) | 2010 | Elvis Presley | Gospel Favourites |
+| 65 | ![Cover](https://i.discogs.com/dnFy_YlzD1bSAOMl_9RP6c2aA-7uJylSyBdrk6RCFcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjA3/MzctMTM1ODkxMzgz/Ni04MTI5LmpwZWc.jpeg) | 2010-03-26 | Johnny Cash | Sings Precious Memories |
+| 58 | ![Cover](https://i.discogs.com/BosvSfovdQnLNnCGta_cefDaJZy_fxyVtR7GafLuAF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDU2/NzQtMTQ0NzkxNDQw/OC05MzI0LmpwZWc.jpeg) | 2010-10-22 | Juan Diego Flórez | Santo |
+| 36 | ![Cover](https://i.discogs.com/cvvkZRGYdLRWJnYhesI_upr2prmxEqIkcNHUr8CrZSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjAz/NzAxLTE2MDg3NDcx/NzktOTQ0OC5wbmc.jpeg) | 2011 | Harry Christophers: The Sixteen | Ikon |
+| 60 | ![Cover](https://i.discogs.com/Jl15p4Lj3n1paktlCoTRHKF3Gm_C0kdgVb9IfwvZzF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTcy/MTMtMTMzMDE3NjU2/NC5qcGVn.jpeg) | 2011-09 | Anonymous | Russian Calvary, Part II: Devoted to the Memory of the Regal Martyrs |
+| 99 | ![Cover](https://i.discogs.com/QnNZZ3l4xr2WKxbQG2JtBLyj5h-TN-JyN8xI6eBWCc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTYz/MTAwLTE2MDQ1MTY0/MDQtODQxNS5qcGVn.jpeg) | 2014-06-20 | Teflon Brothers | Maradona (kesä ´86) |
+| 96 | ![Cover](https://i.discogs.com/1-v7EjztPjqJy32R1Z7VbUQTfb5GSTJRumPem4IWQgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDk2/NTUtMTQ1MDQ5NjE4/Ni04NjU5LmpwZWc.jpeg) | 2015-10-02 | Great Collapse | Holy War |
+| 70 | ![Cover](https://i.discogs.com/aandWtSee6hfRQ-_H0tCc1JgACsjV5pghkIF3Jkvpwk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMz/MDI1LTE1OTQ5MTIy/NDAtNTkxOS5qcGVn.jpeg) | 2016 | Sandal | Сокровенные песни о любви на древних языках |
+| 28 | ![Cover](https://i.discogs.com/EaCSmOdLc2y5zMrCY8_qaIPcnpU-wm1VW_SstC7HpT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTE5/Mjc3LTE3MzM3NTU5/MzktNTk3Ni5qcGVn.jpeg) | 2017-03-03 | Various Artists | Abayudaya: Music from the Jewish People of Uganda |
+| 11 | ![Cover](https://i.discogs.com/qjIA6aYm6z08xtvOlkUQnuWeD8cdmHSCpt9qFIr2Vm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/MjkwLTE1OTg3MDkz/NzUtMjg4Ny5qcGVn.jpeg) | 2018 | Gioachino Rossini | Rossini: Petite messe solennelle; Stabat Mater |
+| 77 | ![Cover](https://i.discogs.com/Mm9wjIqZ3rOnLfjKR1E1fZA7oM-wmLZMY3UTF-3tZL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTQy/ODMyLTE2MTE4MzE3/MjgtOTM5OS5qcGVn.jpeg) | 2020-01-19 | Sandal | Zhuzha &amp; Petrovich |
+| 25 | ![Cover](https://i.discogs.com/24nwSwBg1Bisn91FrCeMwI3mdgHZeIZFDavHYuuicOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTMw/NTU1LTE2NTgyMTUw/MDctMjI2OC5qcGVn.jpeg) | 2022-08-04 | Bastarda &amp; Sutari | Tamoj |
+| 1 | ![Cover](https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg) | 2023 | Various Artists | Vodun-Rada Rite for Erzulie |
+
+### Related genres
+
+- [christian]({{ "/tags/christian" | relative_url }})
+- [choral]({{ "/tags/choral" | relative_url }})
+- [classical]({{ "/tags/classical" | relative_url }})
+- [gospel]({{ "/tags/gospel" | relative_url }})
+- [traditional]({{ "/tags/traditional" | relative_url }})
+- [hymns]({{ "/tags/hymns" | relative_url }})
+- [folk]({{ "/tags/folk" | relative_url }})
+- [world]({{ "/tags/world" | relative_url }})
+- [spiritual]({{ "/tags/spiritual" | relative_url }})
+- [russian]({{ "/tags/russian" | relative_url }})

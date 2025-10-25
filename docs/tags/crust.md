@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-21T04:53:02.610Z
+permalink: tags/crust
+title: crust
+---
+
+## crust
+
+Last updated: <time datetime="2025-10-21T04:53:02.610Z">Tue Oct 21 2025 07:53:02 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 81 |  | 1981 | Discharge | Never Again |
+| 9 |  | 1982-08-29 | Amebix | Who&#39;s The Enemy |
+| 7 |  | 1983 | Amebix | Winter |
+| 38 | ![Cover](https://i.discogs.com/Jk6cd2lCNk5syEYrHo1ZyxTg5l9F4PbWsQUYmR744fI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODUw/Mi0xMzQyMDY3MjEz/LTM2NDIuanBlZw.jpeg) | 1983 | Amebix | No Sanctuary |
+| 83 |  | 1984 | Anti Cimex | Victims of a Bomb Raid |
+| 23 | ![Cover](https://i.discogs.com/ABofbRdmIIgQUPa66avdh3aaciGIPiDgRrFFlP1GVoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjU2/ODItMTM2NTc2MDg5/NS0yNjc2LmpwZWc.jpeg) | 1985 | Amebix | Arise Plus Two |
+| 94 |  | 1985 | Amebix | Arise! |
+| 8 |  | 1987 | Electro Hippies | The Only Good Punk |
+| 92 | ![Cover](https://i.discogs.com/07vFSSWLUUl95rovNBNlsdRLezPmDEkzgQ8m8KG79DA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDM1/MC0xMzQyMDY3NjMy/LTg2MjcuanBlZw.jpeg) | 1987 | Amebix | Monolith |
+| 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c3855209d897c681ceb04338341562b8.png) | 1988-01-01 | Axegrinder | Rise of the Serpent Men |
+| 48 | ![Cover](https://i.discogs.com/sUi_2W-l_XH3YAL6MA0v3-yuWwxavE10nwlvmeBCyYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzQ0/NS0xMzQxOTI2MTYw/LTM0OTAuanBlZw.jpeg) | 1989 | Extreme Noise Terror | A Holocaust in Your Head |
+| 51 |  | 1989 | Doom | Police Bastard |
+| 73 |  | 1989 | Doom | Total Doom |
+| 16 | ![Cover](https://i.discogs.com/BTXwdrPsL_Uxk8QSDsr3ilzogCBx_sBUBUjdN_uMdLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODQ4/MS0xMzc3OTg1MzMw/LTYzMDIuanBlZw.jpeg) | 1990 | Anti Cimex | Absolut Country of Sweden |
+| 34 | ![Cover](https://i.discogs.com/IHzub4cUEjYF9gd8UmEg4WGWpgNR6hVOADFEymNkzdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjkw/NTEtMTM0MTI3Nzk5/MC04MTI0LmpwZWc.jpeg) | 1991-11 | Sacrilege | Behind The Realms Of Madness |
+| 44 |  | 1993 | Disfear | A Brutal Sight of War |
+| 75 |  | 1994 | Dystopia | Human &#x3D; Garbage |
+| 46 |  | 1995 | Driller Killer | Total Fucking Hate |
+| 27 |  | 1995-05 | Disfear | Soul Scars |
+| 1 | ![Cover](https://i.discogs.com/JXuWerF_947oonJR_RRviDKarf4oIvn8dCKGflVRIFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDg4/ODUtMTMyNjEzNDAw/NC5qcGVn.jpeg) | 1995-11 | Skitsystem | Profithysteri |
+| 52 | ![Cover](https://i.discogs.com/dVYwx9H2XDKv9vvLf83fC-gyCRMLRdBIQtPXWF95N-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjc4/NzgtMTU0MjIxMjU4/NS0zODkyLmpwZWc.jpeg) | 1996 | Warcollapse | Wandering In Darkness |
+| 14 |  | 1996-04 | Wolfpack | A New Dawn Fades |
+| 61 |  | 1997 | Disfear | Everyday Slaughter |
+| 82 |  | 1997-11-18 | His Hero Is Gone | Monuments to Thieves |
+| 29 | ![Cover](https://i.discogs.com/tfocAGgoLgBB3JffIpmuZZ-mG_JQObbit44hYGoLPd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDM4/ODQtMTI4MjI1NzQy/MC5qcGVn.jpeg) | 1998 | Amebix | Beginning of the End |
+| 91 |  | 1998-03 | His Hero Is Gone | The Plot Sickens |
+| 76 | ![Cover](https://i.discogs.com/eSZmFo5iqQvcPUc2ZyygzHsRZQTOI9tO4Qf8oOzwAaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQz/ODEtMTIyMDE5OTAz/My5qcGVn.jpeg) | 1999-06 | Skitsystem | Grå värld &#x2F; Svarta tankar |
+| 32 | ![Cover](https://i.discogs.com/4eEy527TiRTk9LDNB8PJLyez1JlzC5b5lqmwEFOaihU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkx/NDQtMTI0NTE0MTI5/OS5qcGVn.jpeg) | 1999-09-01 | Wolfpack | Allday Hell |
+| 3 | ![Cover](https://i.discogs.com/camoApzzzqzqxyDWFQZKyVyUXdkAL2cGX-WFVlDF9bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTAx/OTktMTMxMzIzODQ2/NS5qcGVn.jpeg) | 2000 | Filth of Mankind | The Final Chapter |
+| 28 | ![Cover](https://i.discogs.com/pcK3p-dz-BrlsKaWVUleKslbkhyJeEoy1PgojThFtG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDg5/NS0xMzIzNTY5NjYx/LmpwZWc.jpeg) | 2000 | Driller Killer | And The Winner Is... |
+| 85 |  | 2000 | Tragedy | Tragedy |
+| 18 | ![Cover](https://i.discogs.com/JAEgtdVM1N6_U70J6Rex7m-QVuiKbaF8v5dqZBpB7UQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTky/OS0xMjQ1MTY2NTMz/LmpwZWc.jpeg) | 2002 | Wolfbrigade | Progression&#x2F;Regression |
+| 96 |  | 2002 | Tragedy | Vengeance |
+| 63 |  | 2002-06-09 | MV Bill | Declaração de Guerra |
+| 5 | ![Cover](https://i.discogs.com/kUn6fuSlXK7nWBmhycuUTSafO6UgAZSFyd_PuvT8ggw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODc4/NC0xNTU1MjM5OTcw/LTUzOTYuanBlZw.jpeg) | 2003 | Cripple Bastards | Desperately Insensitive |
+| 12 |  | 2003 | Madame Germen | As Cicatrizes Do Paraiso |
+| 31 |  | 2003 | Expressão Ativa | Na Dor de Uma Lágrima |
+| 59 |  | 2003 | Wolfbrigade | In Darkness You Feel No Regrets |
+| 95 |  | 2003-02-25 | Cursed | One |
+| 45 | ![Cover](https://i.discogs.com/3DQ1IvzYCy2t7w4lKTcX3JhMQnFgUVt5JxXO1MIMH84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI3/NDEtMTUwNjk0OTkz/MS0yNzExLmpwZWc.jpeg) | 2003-03-11 | Genocide Superstars | Superstar Destroyer |
+| 78 | ![Cover](https://i.discogs.com/oXlgmqOsD5tzURvvp3fV44JX0nAMVFtAy4o1AIAzu2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjMx/MjgtMTI4MDIwMzY4/Ni5qcGVn.jpeg) | 2003-03-25 | F-Minus | Baby Jesus, Sliced Up in the Manger |
+| 84 |  | 2003-08-03 | Disfear | Misanthropic Generation |
+| 55 | ![Cover](https://i.discogs.com/X-ABem8EYY-VIPX7r0D3d-NvSy65gmeBoNU3JecodNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDUy/MC0xMzE4ODQ4OTY0/LmpwZWc.jpeg) | 2003-10-14 | From Ashes Rise | Nightmares |
+| 69 | ![Cover](https://i.discogs.com/BOOM_XPr-D5LJDt6BFi46Wlj6bl3WLjjhnIeG_8auzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzY1/OC0xMzAzOTM4NjA0/LmpwZWc.jpeg) | 2004 | Nausea | The Punk Terrorist Anthology Vol. 1 |
+| 13 | ![Cover](https://i.discogs.com/vJuKk4gCv3JPkbAUaB7Iv_O04Y3Epkvmezt5P6hMA6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTA5/MS0xMTY5NjI2NDMx/LmpwZWc.jpeg) | 2004-04-26 | Totalt Jävla Mörker | Människans ringa värde |
+| 41 | ![Cover](https://i.discogs.com/4Vw3VgWMtmS4CgiUv0nsX7un1o3-vZMtsccx8zZEioU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzUz/NDYtMTIzMzYwNTcx/Ny5qcGVn.jpeg) | 2005-08-29 | Skarp | Requiem |
+| 88 |  | 2006 | Tragedy | Nerve Damage |
+| 67 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bb382568bba84dddbd3c57dacd2bac62.png) | 2006-02-27 | Darkthrone | The Cult Is Alive |
+| 93 |  | 2006-03-10 | Skitsystem | Stigmata |
+| 60 | ![Cover](https://i.discogs.com/3OBD-Ld5pBPz7U9EnxH9z-fC_cSyX2wUmylXZCDJ0lU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjkw/MzItMTI0NTE3Mzc0/NS5naWY.jpeg) | 2006-05-01 | Witch Hunt | Blood-Red States |
+| 64 | ![Cover](https://i.discogs.com/deWGwXML4UZJ6POS6JgS6EIjpTKsv76Wu1dGQFgwfJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjYw/ODYtMTIyODE3ODYy/NC5qcGVn.jpeg) | 2006-05-29 | Totalt Jävla Mörker | Totalt Jävla Mörker |
+| 100 | ![Cover](https://i.discogs.com/A1zAv9nssi7-tkFi34XhWT7P9MtQNUonGN_iNezmSYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQx/NTAtMTMzOTQ3MjQw/NS0zNzk0LmpwZWc.jpeg) | 2006-09-01 | Fall of Efrafa | Owsla |
+| 21 | ![Cover](https://i.discogs.com/1V_4CqXAYwLQDT8okjOqYXRbpiV6POPQL1YpMrc4p3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDMy/MTItMTIyNDUzODQ0/NS5qcGVn.jpeg) | 2007 | Warcollapse | Defy! |
+| 80 | ![Cover](https://i.discogs.com/6aDGeG8JLvtE590ZVxNIUjxAoCzPEWFI7V_9DH3D7fI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE0/NTgtMTU5NzYyMDky/MC02MTg2LmpwZWc.jpeg) | 2007-09-01 | Fall of Efrafa | Elil |
+| 49 |  | 2007-10-30 | Trap Them | Seance Prime |
+| 25 | ![Cover](https://i.discogs.com/Tph_BjiICvJH3IRAOzxWtXtQTg7TTwJ1_5DS5SknhCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE2/OTgtMTU3MTM3MDY2/OS01NTY3LmpwZWc.jpeg) | 2008 | Amebix | No Sanctuary - The Spiderleg Recordings |
+| 97 | ![Cover](https://i.discogs.com/XWXkzeEx2bXsHvNDifxYTwFhg2HbXcX5IjrLz1H71lQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg5/NjEtMTQyMjExNjE0/MC0zMjgyLmpwZWc.jpeg) | 2008 | Disfear | Live the Storm |
+| 10 |  | 2008-05 | Nuclear Death Terror | Ceaseless Desolation |
+| 6 |  | 2008-09-05 | Cripple Bastards | Variante Alla Morte |
+| 74 |  | 2008-12-01 | Wolfbrigade | Comalive |
+| 65 |  | 2008-12-19 | Dishammer | Vintage Addiction |
+| 20 | ![Cover](https://i.discogs.com/fRWQD90Ldm3M1fcLf_5ZriSjr0fybN2s_HOpZ54iw-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjA5/NjEtMTI1ODk5Nzc4/NC5qcGVn.jpeg) | 2009 | Warcollapse | Crust as Fuck Existence |
+| 15 | ![Cover](https://i.discogs.com/eCSdrJyac4NUEE0oDxCS_6-mvkUbiE6C5RAMocqaewM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE2/NTUtMTQxMzk3MDY3/Ny05MDk4LmpwZWc.jpeg) | 2009-04-29 | Witch Hunt | Burning Bridges To Nowhere |
+| 40 | ![Cover](https://i.discogs.com/36orfrgD6zFrRom7DipmhxaWVHuqeXDxPivZutExxjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDY4/MjgtMTQ5ODUxMDM1/NC04NjI3LmpwZWc.jpeg) | 2009-06-12 | Totalt Jävla Mörker | Söndra &amp; Härska |
+| 33 |  | 2009-11-11 | Fukpig | Spewings From a Selfish Nation |
+| 53 | ![Cover](https://i.discogs.com/ZzKaq3kG6oYujL88RNb4eoHqpVUY7wYlvNIbSXf5JvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU1/MjctMTI5MTI0MDA4/My5qcGVn.jpeg) | 2009-11-16 | After the Bombs | After the Bombs |
+| 30 |  | 2010 | Misantropic | Insomnia |
+| 90 | ![Cover](https://i.discogs.com/Gli6jS9RnrkMfXtByiYiF3RmGIXo0ZGmcsTMcS_ZNrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTg0/NzUtMTI3NjU2MTA3/NS5qcGVn.jpeg) | 2010-03-30 | Black Breath | Heavy Breathing |
+| 47 | ![Cover](https://i.discogs.com/wDSLiXgPDdLvj5oyQqvk5L-gqvTMFYpVoGrf6NpcYAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODU0/MDEtMTMwMDkyMjg4/OC5qcGVn.jpeg) | 2010-06-22 | Early Graves | Goner |
+| 17 | ![Cover](https://i.discogs.com/jbg8g3a-jzZKlsOTNhv6hJXozkpo2JOWASyeiHKwqbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDky/NzgtMTYyMjIxMDA1/MS02MDAwLmpwZWc.jpeg) | 2010-06-29 | Amebix | Redux |
+| 43 | ![Cover](https://i.discogs.com/A2f8vvJi5h38QCxIkiqSRt0g1lnBJjxv0j24ct993mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMx/MTMtMTQzODI4NDcw/OC05NTk1LmpwZWc.jpeg) | 2010-10-02 | Alpinist | Lichtlærm |
+| 62 |  | 2010-10-08 | Young and in the Way | Amen |
+| 72 |  | 2010-10-10 | Vestiges | The Descent Of Man |
+| 77 |  | 2011-03-01 | Trap Them | Darker Handcraft |
+| 42 | ![Cover](https://i.discogs.com/5EI6uptxQpnLjw_R0-DWtk2iTT5NZUlqDZBlfuJQkfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDg3/ODUtMTMwMzgzNzY0/OC5qcGVn.jpeg) | 2011-03-24 | Dead to a Dying World | Dead To A Dying World |
+| 54 | ![Cover](https://i.discogs.com/XufTbX-pwMcfQce5BYrI4TV6ge-PibNL_XVDyoy71c8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTQ2/MDItMTQ3ODExOTY4/Ni02MTg3LmpwZWc.jpeg) | 2011-07-05 | Oathbreaker | Mælstrøm |
+| 4 | ![Cover](https://i.discogs.com/8e7JGWoJAFL2w0k8xRDr5jPZVfQLiVdA4FloRYiszg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTc1/NjctMTQzMDQzNDQ3/Ny0zODkzLmpwZWc.jpeg) | 2012 | Full of Hell | Full of Hell&#x2F;Goldust |
+| 26 | ![Cover](https://i.discogs.com/zs-jP2NuQQ7PeKNhP6fFODDcNaxRqIjXoXSlX6WI90o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjIx/OTUtMTM0NTc3MzE4/MS03NjAyLmpwZWc.jpeg) | 2012 | Nuclear Death Terror | Chaos Reigns |
+| 39 | ![Cover](https://i.discogs.com/SAPiGRp2SFXKXBF_ySFDZ3h3D6BFIJ4_81aRifnovEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTY1/OTYtMTM0NDc4MTc2/Ni01NzkwLmpwZWc.jpeg) | 2012 | Homewrecker | Worms and Dirt |
+| 98 |  | 2012-03-27 | Black Breath | Sentenced to Life |
+| 66 |  | 2012-04-23 | Wolfbrigade | Damned |
+| 71 |  | 2012-05-07 | Tragedy | Darker Days Ahead |
+| 50 |  | 2012-05-22 | Martyrdöd | Paranoia |
+| 35 |  | 2013-01-22 | Nails | Obscene Humanity |
+| 89 |  | 2013-02-19 | Baptists | Bushcraft |
+| 57 | ![Cover](https://i.discogs.com/BgM_DlX6Xx0d_mfFGtYLkss7g-0Nx8TPS-Q738FBn1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTY2/NDQtMTM2NzEwNTYz/My00ODIzLmpwZWc.jpeg) | 2013-04-30 | Agrimonia | Rites of Separation |
+| 86 |  | 2013-07-23 | All Pigs Must Die | Nothing Violates This Nature |
+| 22 |  | 2014-04-29 | Black Monolith | Passenger |
+| 87 |  | 2014-05-27 | Young and in the Way | When Life Comes To Death |
+| 24 |  | 2014-07-22 | Martyrdöd | Elddop |
+| 11 | ![Cover](https://i.discogs.com/YOcrcax-IN9ZpCkHEp3aNt1IsDSzI0JYbwUVRtayToU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDkx/MzItMTQ2MTgzNjcy/OC04MjU0LmpwZWc.jpeg) | 2016-04-15 | Ancst | Moloch |
+| 70 | ![Cover](https://i.discogs.com/yAoKLCZ0PEVZ55uBBjt1v9kNjxU-xMGV-2vqrUJg_bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTg5/MzktMTYzOTQyOTEw/OC01NTE2LmpwZWc.jpeg) | 2016-11-25 | Martyrdöd | List |
+| 79 | ![Cover](https://i.discogs.com/Tw2c__4pMhi6IaUncm9_gQ3hXxC2Lt-2VccgvzuVCLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTY2/Mzk3LTE0OTI3Njk4/MTMtNDQwNC5qcGVn.jpeg) | 2017-04-28 | Wolfbrigade | Run With the Hunted |
+| 19 | ![Cover](https://i.discogs.com/hNPj6UDDu8WbFXNjwcEVZKZTly9nrm_PzGn2EX5k2ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc4/MDkyLTE1MTcwNTMx/NTktMTc5Ni5qcGVn.jpeg) | 2018-01-26 | Agrimonia | Awaken |
+| 37 | ![Cover](https://i.discogs.com/98hSEy-KulUW9CG_E1Dmrl47yFoJ1D0k9_aJPoSiMHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTg3/NDAzLTE1NDkzOTIx/MTYtMjYxOC5qcGVn.jpeg) | 2018-05-11 | Body Void | I Live Inside A Burning House |
+| 36 | ![Cover](https://i.discogs.com/SroYleT4VKmRCY10ZUx9B1NxI8Zg3CbB1bS0cttCewc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgw/MzkxLTE1MzkxMTEw/OTctOTc0My5qcGVn.jpeg) | 2018-07-19 | Pagan | Black Wash |
+| 58 | ![Cover](https://i.discogs.com/Rhp-TnQ4uCDgKYgSDyD-BnYpPXt5FkzSoAsVacGdWFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzE5/ODc1LTE1NzIxNjQ5/NTAtOTAzNy5qcGVn.jpeg) | 2019 | Wolfbrigade | The Enemy: Reality |
+| 68 | ![Cover](https://i.discogs.com/R_RdWPyxcrg9FOusQIHaXJOqc44iYGlnELFVlRFJT2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk4/NTUzLTE1NTEwNTcz/MDYtNzE2Ni5qcGVn.jpeg) | 2019 | Mammoth Grinder | Lunar Mass |
+| 99 | ![Cover](https://i.discogs.com/u_yV62DrULoR1g-xrVAEfBGlLWGRzvsozyjFP7WswQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY5/NTkyLTE1NTg2NzU5/NzMtMjY4Mi5qcGVn.jpeg) | 2019-04-10 | GhosteMane | Fear Network |
+| 2 | ![Cover](https://i.discogs.com/v-XQZx0ApSSoe_LjDQHtgQMQ8U0tm5JMZ6FdS7LE2DY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDcy/ODQyLTE2NTk0MDg0/NTctMzQzOC5qcGVn.jpeg) | 2022 | Doom Scroll | Immoral Compass |
+
+### Related genres
+
+- [hardcore]({{ "/tags/hardcore" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
+- [hardcore punk]({{ "/tags/hardcore-punk" | relative_url }})
+- [grindcore]({{ "/tags/grindcore" | relative_url }})
+- [death metal]({{ "/tags/death-metal" | relative_url }})
+- [d-beat]({{ "/tags/d-beat" | relative_url }})
+- [black metal]({{ "/tags/black-metal" | relative_url }})
+- [sludge]({{ "/tags/sludge" | relative_url }})
+- [doom metal]({{ "/tags/doom-metal" | relative_url }})
+- [metalcore]({{ "/tags/metalcore" | relative_url }})

@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-23T15:31:05.617Z
+permalink: tags/denmark
+title: denmark
+---
+
+## denmark
+
+Last updated: <time datetime="2025-10-23T15:31:05.617Z">Thu Oct 23 2025 18:31:05 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 22 |  | 1971 | Skousen og Ingemann | Herfra hvor vi står |
+| 12 | ![Cover](https://i.discogs.com/cX1MJUgtDJmpFLv7YLGMVkvVNd_gu8fU3XgoZYzQBbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQx/NTktMTM3MDI4Njg2/MS0yMzA0LmpwZWc.jpeg) | 1972 | Alrune Rod | Alrune Rock |
+| 36 | ![Cover](https://i.discogs.com/N3rT20xIT2G-N5fprJcat9RyF7s3tbLWuY-iW8QCDHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTM5/NDAtMTQxODIzOTg2/Ni02ODAyLmpwZWc.jpeg) | 1972 | The Old Man &amp; The Sea | The Old Man &amp; The Sea |
+| 33 | ![Cover](https://i.discogs.com/MAh0BSz1CHBN4G5VkJRup5KHz9kOHiEBw_bYRjMm8-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njcy/MTctMTUyNTc5NzAz/Mi0xNTYxLmpwZWc.jpeg) | 1982 | Tom &amp; Jess | Omsen Og Momsen |
+| 38 |  | 1986 | Randy | Shadows Are Falling&#x2F;The Beast |
+| 41 | ![Cover](https://i.discogs.com/B5Zqas4cAKv-h1NdLRridjZy_bBLneIIcKU2pAQEbWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzky/NC0xMjk1OTA1MTEw/LmpwZWc.jpeg) | 1986 | Sylvester | Ska&#39; Du Være Fræk |
+| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6808c8cf0b8d42e4ae40280711e54fcd.png) | 1989 | Anne Dorte Michelsen | Elskerindens Have |
+| 10 | ![Cover](https://i.discogs.com/YBtr4ggabKU-lJYO6FvD_TK-iNIt2JpO8E9bEipC3I4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk1/NzQ1LTE2MTk4OTk0/NDktOTI3My5qcGVn.jpeg) | 1996 | Tom &amp; Jess | Nu Er Det Ikke Sjovt Længere (Remastered) |
+| 43 |  | 1998 | Solveig Sandnes | Analog |
+| 40 | ![Cover](https://i.discogs.com/o_LnZdPdLE1dWyNRYVtx3OINoW3kM9qo89ZncytxEME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODcy/NjUtMTQ4NzU3ODAw/NS0yMzQ5LmpwZWc.jpeg) | 1999 | Claus Hempler | Charmschool For Popsingers |
+| 28 | ![Cover](https://i.discogs.com/CSxAmIkt0cObqquswfT6UyT9Tooc0covUJ3IK1TTQ6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODM2/MDctMTQ2MDU0NzAw/Mi02NDMxLmpwZWc.jpeg) | 1999-10 | Corpse Vomit | Drowning in Puke |
+| 23 |  | 2000 | Karen | En til En |
+| 37 | ![Cover](https://i.discogs.com/91AdoLz89mNJEvj_2q5rJal_H5ZHlb1WUwrTimXJUPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjc4/MjYxLTE1MjA1MTky/MDUtMjM2Ni5qcGVn.jpeg) | 2000 | Astonishment | ep |
+| 44 | ![Cover](https://i.discogs.com/J9EVde6N9gYA8VYn0nYmCQIa7K9ofQptF4DPWgoGG40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjE0/MDktMTM5MjIxNDM3/MC04NjQ4LmpwZWc.jpeg) | 2002 | Hero | Hero |
+| 32 | ![Cover](https://i.discogs.com/VllvVyD10x_BmiSEKWPbqJqdqzUFkoxHrVnMbBzLs_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDUy/NTQtMTQwNzAxMTU4/MS02NDI4LmpwZWc.jpeg) | 2003 | Amalgam | Demo |
+| 18 |  | 2004 | Karen | Ingen Smalle Steder |
+| 9 | ![Cover](https://i.discogs.com/jjbgrq4wEEIzOBkWMhrM7vTXxJ20_exKV34DBiMeZu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg3/MDUtMTIzMTg4MzE0/MS5qcGVn.jpeg) | 2005 | Obskure Torture | Necro Rituals |
+| 2 | ![Cover](https://i.discogs.com/MkardjBJMF8tElBg7kMrgAp4sdxZnym7ISRLJEpK4a0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTk1/MTAwLTE3MDYxOTQ3/MTYtNjQyNC5qcGVn.jpeg) | 2006 | BlueShot | In The Shade Of Blues |
+| 4 | ![Cover](https://i.discogs.com/MkardjBJMF8tElBg7kMrgAp4sdxZnym7ISRLJEpK4a0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTk1/MTAwLTE3MDYxOTQ3/MTYtNjQyNC5qcGVn.jpeg) | 2006 | BlueShot | Crack The Seal |
+| 34 | ![Cover](https://i.discogs.com/0k84xhsPC_ZCIGkKtMqmyf_ViKNBRQddyFD1b-8MAtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjc3/OTMtMTE5NzcyNjUy/Mi5qcGVn.jpeg) | 2006 | TKatKa | Disarmchair (Single) |
+| 19 | ![Cover](https://i.discogs.com/CJw557p1A43VDvtbXhQzJ0753cdz_3rY-KdUnx8rNOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTMy/NzMtMTI0MTExODAw/MS5qcGVn.jpeg) | 2006-10 | Obskure Torture | Worship The Beast |
+| 29 |  | 2007-02-05 | Thorbjørn Risager | Here I Am |
+| 5 | ![Cover](https://i.discogs.com/6jAEMr514FRSwltWW_s3GftdFjV3qtZoP7YBTYojQ1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTE1/NjYtMTE5MTU4NzE4/OS5qcGVn.jpeg) | 2007-05-22 | wäldchengarten | Black Rabbit |
+| 35 |  | 2007-10-23 | Thorbjørn Risager | From The Heart |
+| 24 | ![Cover](https://i.discogs.com/NCspu-3hxooK__8PdC5vTC6xh3LvDy_5hasgAj8U5Jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDA1/NzEtMTIxOTg4OTE2/Mi5qcGVn.jpeg) | 2008-03-07 | August Engkilde | Kaotic brain | beautiful noise |
+| 50 | ![Cover](https://i.discogs.com/bqB5s4s1dlQpV7dvVhAh35jJGnmecUo4BBOAVJ2-vio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDY2/MTEtMTQ0MzIyMDM0/OS01MDkwLmpwZWc.jpeg) | 2008-10-06 | Catbird | Among Us |
+| 14 | ![Cover](https://i.discogs.com/WtIKB6c3_YolHsWJ-KYRCnX1QKlLSTGt-fUY1KV6uxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzE0/ODQtMTQ1NjY4NDMw/Mi0xOTExLmpwZWc.jpeg) | 2008-12-28 | Infernal | Electric Light |
+| 45 | ![Cover](https://i.discogs.com/c76pSj39UcLrJtmLX7DI8p8q8Wh68J_dHJ2NC3MFdcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDU2/OTctMTQwMjY3ODc5/MS03MDkwLmpwZWc.jpeg) | 2010-08-18 | Aphyxion | Obliteration Of The Weak |
+| 27 | ![Cover](https://i.discogs.com/f5sA8O1zdrBgM_QzRp_15WlHHB3n4N8D1HUt0VWTt0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjI4/NDAtMTQ3NDEyMDU4/Ni0xMjQ0LmpwZWc.jpeg) | 2012 | Thorbjørn Risager | Dust &amp; Scratches |
+| 11 | ![Cover](https://i.discogs.com/7jC2eZaPOgUqWch4R0DvFs-xf5iHsE59nPvjKUGOtjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODc5/NjA3LTE1MDU4Mzgz/MTktNTkzNS5qcGVn.jpeg) | 2013-04-02 | Fjer | A New Start |
+| 25 | ![Cover](https://i.discogs.com/2ThHu07mKv7rX5XCsQ6P-H2l19Hn-Ay-VIxmIAl8-S8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDQw/NTQtMTM3ODk5MTI4/Ni04MzY0LmpwZWc.jpeg) | 2013-08-19 | Emmelie de Forest | Dansk Melodi Grand Prix |
+| 7 | ![Cover](https://i.discogs.com/s4Kz6RY9lkx9sFHvqu87ByAZmjOrY-J-6zIX1jbRtxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTEz/NTQtMTQ1Njg0NzMx/MC01MjU1LmpwZWc.jpeg) | 2013-11-07 | Rasmus Seebach | Fri |
+| 30 | ![Cover](https://i.discogs.com/yHDiqwzNzksGHS0YIyCwPD1ZkKfGia-48ITJkkRtaBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODU1/ODktMTM4OTYwNzQ2/Mi03OTA2LmpwZWc.jpeg) | 2013-12-30 | Sol | And the mouth of time is open |
+| 47 | ![Cover](https://i.discogs.com/ZgbaurP5jmz8n30nnbICSzJ7O9qDGQBcB6j47hNlFqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDcz/NzItMTQzMDE1MjAz/Ni01OTM3LmpwZWc.jpeg) | 2014-04-27 | Panamah | Lever Vildt |
+| 3 | ![Cover](https://i.discogs.com/MbkzoseOOLo_Rdjg9FrwLvCY3rPiXQrcFsgxxA_VyEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTc1/NTYtMTQyMjgwMTU1/NC02NjcxLmpwZWc.jpeg) | 2015-01-27 | Cecilie Alexandra | Melodi Grand Prix 2015 |
+| 6 | ![Cover](https://i.discogs.com/gSh31vBQ2atLfDPN5aSnByOClSkIt7J0sWlE5V8I_tI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTc1/MjEtMTQyMjgwMTI2/My05NzYxLmpwZWc.jpeg) | 2015-01-27 | Julie Bjerre | Melodi Grand Prix 2015 |
+| 16 | ![Cover](https://i.discogs.com/3KGLViNCVv9rBY4GtAZd2atC9M4D35NvImKEzY5zhhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjE4/MDQtMTM3MDE5OTg0/Ni0xMTY1LmpwZWc.jpeg) | 2015-01-27 | Anne Gadegaard | Melodi Grand Prix 2015 |
+| 21 | ![Cover](https://i.discogs.com/3-D7YW1TjHxMex1dMNiwWaTi4RTCrIuSnPDaYrWhiMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODI4/MTEtMTQyNjUyMzM0/Ni01MTA4LmpwZWc.jpeg) | 2015-04-21 | Satanic Assault Division | Kill The Cross |
+| 31 | ![Cover](https://i.discogs.com/ogQR-csmEMzpRExSq1scTBwpL1f2wJx5xUsQQWocUgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzc0/NDUtMTQzMzE3NTEz/Mi02OTg1LmpwZWc.jpeg) | 2015-06-01 | Camilo &amp; Grande | Gir Dig |
+| 46 | ![Cover](https://i.discogs.com/8EmOVgd_Imq0QVR3qQNlk-kaWMvnIwM8of7rxJdYO8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDAy/NzItMTQzODM0ODE0/Ny02NjMwLmpwZWc.jpeg) | 2015-07-31 | Fjorsvartnir | Mzoraxc&#39; Forbandelse |
+| 8 | ![Cover](https://i.discogs.com/6fSl4p_dSN3T8yytf1RIMT6pC2TGgpef1x69o3qFaLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODAy/NjMtMTQ1MDc5NjM3/NS03NzQ1LmpwZWc.jpeg) | 2016-02-12 | EXEC | A Thing of Lights |
+| 13 | ![Cover](https://i.discogs.com/5XsyT-PVFz8Ku6ZQXcs3hx1x8T4xCHR0-AQV4yPlcTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE5/MzItMTQ3MjMxOTI5/Ni03NTk3LmpwZWc.jpeg) | 2016-02-26 | L.I.G.A | Sexii |
+| 48 | ![Cover](https://i.discogs.com/1wwJZGIE7mL51VUDwGNbDkbNzLa-WJFvxbmHYYtIZOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODc5/ODEtMTQzNTY5NDg0/Ny0yNTA4LmpwZWc.jpeg) | 2019-01-28 | Mindmare | We Shall All Fall (single) |
+| 17 | ![Cover](https://i.discogs.com/HWjViIp31g9QOHc5e5GqatS9KkOyMUQOgHu5g8q8HJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAy/OTk2LTE1NTE3MTA3/NjMtMzk0MS5qcGVn.jpeg) | 2019-02-22 | Marilyn Mazur | Shamania |
+| 1 | ![Cover](https://i.discogs.com/4c8i7tEvKsycJB_f0A1_jT_rmWDoBByhg4HNnfif8xE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg4/ODM4LTE1Njk1MjU0/NTAtMzA1NC5qcGVn.jpeg) | 2019-09-06 | Nikola Bankov | Bright Future |
+| 20 | ![Cover](https://i.discogs.com/8gXNSr4p9uUXoviElFyPGo2y56FmafNrZBu-6__8je0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTAw/MzY2LTE1Njc4NTU2/NzUtMTcxNC5qcGVn.jpeg) | 2019-09-06 | Kesi | Vors |
+| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1b877a254788fbc40267ad31cedd563f.png) | 2019-11-16 | Angel Sword | Neon City |
+| 15 | ![Cover](https://i.discogs.com/g4U0l5bW2ul-_Ezn0u-SjNLrrrIL0m6ViejCTajLcU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjU1/MTQwLTE2NzI3Nzg5/NTEtOTkwNi5qcGVn.jpeg) | 2020-07-04 | Of Wolves | BALANCE |
+| 26 |  |  | Leather Strip | Solitary Confinement - remastered |
+| 42 |  |  | Le­æther Strip | Solitary Confinement |
+| 91 | ![Cover](https://i.discogs.com/-o_VqyIWXMtLmQ3Tk84XwShA1drea5iO5nlwoHxehZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI2/NzgxLTE0OTM3MjQ3/NDUtOTg1My5qcGVn.jpeg) | 1994 | Kashmir | Travelogue |
+| 60 | ![Cover](https://i.discogs.com/bCo-1xuVf4IybbXTbUpg-kJ5IQ6S3WezU9efPaQCnaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ3/MTgtMTUwMzg0MzA1/MC05MzEwLmpwZWc.jpeg) | 1995 | Alberte Winding | Tju Bang Chokolademand (Det Er Mig, Der Bestemmer Her) |
+| 85 | ![Cover](https://i.discogs.com/8xjfASS2wVb85F53-LNPMEoAuK4AZirjTb4Vv2TcpJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM2/NzEzLTE2MzAyMzUx/MzUtNTM4Ny5qcGVn.jpeg) | 1999 | Suspekt | Søndagsbarn |
+| 93 |  | 2000 | Brødrene Olsen | Wings Of Love |
+| 99 |  | 2000-05-04 | Mew | Half the World Is Watching Me |
+| 94 |  | 2003-12-16 | Sepiamusic | Prototype |
+| 98 | ![Cover](https://i.discogs.com/-LAEnsGM8srkOipXCzNj465UvP_lK2XiZd8IImV-plo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTgx/OS0xNDQ0ODQ3Njkw/LTczMTAuanBlZw.jpeg) | 2004-06-30 | Nephew | USADSB |
+| 55 |  | 2006 | TKatKa | Bedroom Dust (Single) |
+| 90 | ![Cover](https://i.discogs.com/cjqfBcnaCh_aaaAimMQAbKbXGxbuCHVRLY3ZH_qjW20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA4/ODAtMTUyMDU0NzIx/MS0xODk0LmpwZWc.jpeg) | 2006 | Rocazino | Natsværmer |
+| 54 |  | 2006-04-12 | Mew | Live In Copenhagen |
+| 87 |  | 2007 | Death by Kite | Death by kite |
+| 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5e583012c37644d6bb2015f5dfac5a65.png) | 2007-09-03 | Tina Dickow | Count to Ten |
+| 56 | ![Cover](https://i.discogs.com/24v7oIR5742hTDdKHSs0Tg-gTZ5tAe6aAeCC0p-JBfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODc4/MDktMTM0NjI0OTgz/Mi01NDUyLmpwZWc.jpeg) | 2008 | Jørgen Leth, Mikael Simpson, Frithjof Toksvig | Vi Sidder Bare Her... |
+| 100 |  | 2008-01-28 | Aura Dione | Columbine |
+| 69 |  | 2008-03-03 | Alphabeat | Napster Live Session |
+| 59 | ![Cover](https://i.discogs.com/UR3N3Yabycl4VDcehbOTwdxN8E0Cedz-7FCokxM3Q6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDkz/MzEtMTQ5NTk2MDAw/OS05OTI1LmpwZWc.jpeg) | 2008-08-11 | Ayoe Angelica | I&#39;m Amazed |
+| 83 |  | 2008-08-11 | Kind of Girl | Lonely in a modern way |
+| 68 |  | 2008-12-18 | Slaraffenklang | Danish Dynamite Live at Sono Festival 2008 |
+| 58 | ![Cover](https://i.discogs.com/3NK6gCwiEUbTpwyEgnEyrioyowGAAS4gYa7tAnuEbIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njg1/MDA1LTE2ODk0NDcx/MTUtOTQyMS5qcGVn.jpeg) | 2009 | Various Artists | Dansk Melodi Grand Prix 2018 |
+| 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f5dfb043132f4445ad65793481c72b9e.png) | 2009-06-05 | Nephew | DanmarkDenmark |
+| 89 |  | 2009-12-01 | Sepiamusic | Trenches |
+| 62 |  | 2010-02-01 | Thorbjørn Risager | Track Record |
+| 79 | ![Cover](https://i.discogs.com/nGFYdJe6leRj7bpnqVelbd6sBr6_mEkgy5-8Q_2qdHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjE5/MDktMTMyOTk5NDgy/Ny5qcGVn.jpeg) | 2010-04-30 | Carpark North | Just Human |
+| 70 | ![Cover](https://i.discogs.com/h9NN2aL6WYdurFl4obySr0v5Eykyhw9mrBBHhtMY9zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzMz/NTQtMTUxNjIzMjM2/OC00NDEyLmpwZWc.jpeg) | 2010-10-04 | Chimes &amp; Bells | Reworked&#x2F;Remixed |
+| 66 |  | 2011 | Valravn | Re-Coded |
+| 75 | ![Cover](https://i.discogs.com/S483x_61czq1PQArcDwURKIdX08d2NSwRMaUVDKk0xU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTY1/OTMtMTMyMDg2ODAw/Ny5qcGVn.jpeg) | 2011-03-08 | A Friend in London | New Tomorrow |
+| 74 |  | 2011-04-11 | Vanir | Særimners Kød |
+| 82 | ![Cover](https://i.discogs.com/EIRwzpj8dpDZ7Ux4_iwYgMoZhxt6o5Jf3iJMkG-XBig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTQx/ODktMTQwNzQyMjA1/OS0yOTE5LmpwZWc.jpeg) | 2012 | Tales of Murder and Dust | Hallucination of Beauty |
+| 81 | ![Cover](https://i.discogs.com/JRGe5ki5KL1mto9UCOoqvUy5VvvXDbOarlGkJtu1T7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTQ4/MjMtMTQ3MzI4OTU3/MC00NjA0LmpwZWc.jpeg) | 2013-05-06 | Rangleklods | Lost U |
+| 97 |  | 2013-05-20 | When Saints Go Machine | Infinity Pool |
+| 86 |  | 2013-09-16 | Sivas | d.a.u.d.a |
+| 64 | ![Cover](https://i.discogs.com/Noxm1xpare09LDKpLtiUHG6F1jZjtcsfkjbSmeRi-58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjM2/NjYtMTM4MDc0MjU2/NC05MDMwLmpwZWc.jpeg) | 2013-09-23 | L.I.G.A | Den Første Gang |
+| 77 | ![Cover](https://i.discogs.com/spz35L7vPfPXkzrt5fYOTZTfTpV-0tKLk3SrMrA2XHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDU4/NjQtMTM4MzAyOTQ0/Mi03Nzg3LmpwZWc.jpeg) | 2013-09-27 | Hatesphere | Murderlust |
+| 63 | ![Cover](https://i.discogs.com/tMu2mzvajn9Zndm5xYO_62jgkUo3C3JXcJ3Y_07xwiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjQ2/ODQtMTQ3MzQ2Njk3/OS0zNjcyLmpwZWc.jpeg) | 2014 | Katinka | I Røntgen |
+| 80 | ![Cover](https://i.discogs.com/ZoQo9LyuesnZH5bi30jyTR-6_k1_iwk1e9gZ674WDbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTQx/NTQtMTQwNDU0MTI0/Ni0xMjQ2LmpwZWc.jpeg) | 2014-07-15 | Hexis | XI |
+| 72 | ![Cover](https://i.discogs.com/Nfbay8h2X4Tv_tfys_I_04SUWO-NFgBV6FEHEqB_ytE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDk2/NDQtMTQyMzg1MTUx/MS0xNDMzLmpwZWc.jpeg) | 2014-12-04 | TopGunn | 6 liter |
+| 51 | ![Cover](https://i.discogs.com/MXmSAxXiCQLye4X0rmEyy90tmIrCDFQhDAglmGi39q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzQ3/NjktMTQzMDc2ODYx/MS00OTM1LmpwZWc.jpeg) | 2015-05-04 | Anti Social Media | Melodi Grand Prix 2015 |
+| 52 | ![Cover](https://i.discogs.com/ogQR-csmEMzpRExSq1scTBwpL1f2wJx5xUsQQWocUgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzc0/NDUtMTQzMzE3NTEz/Mi02OTg1LmpwZWc.jpeg) | 2015-06-01 | Camilo &amp; Grande | Røgsignaler |
+| 73 | ![Cover](https://i.discogs.com/ogQR-csmEMzpRExSq1scTBwpL1f2wJx5xUsQQWocUgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzc0/NDUtMTQzMzE3NTEz/Mi02OTg1LmpwZWc.jpeg) | 2015-06-01 | Camilo &amp; Grande | Eufori |
+| 65 | ![Cover](https://i.discogs.com/WO0tC2tZqMFD2lmbWtAteklf8fOlcd4zfxIwXblrV0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Nzcy/NDMtMTQ0MjI2NDE1/OC05OTg4LmpwZWc.jpeg) | 2015-09-11 | Rasmus Seebach | Sandstorm |
+| 76 | ![Cover](https://i.discogs.com/bAm6N-l1t5Bc6lbeL34o10cq8WodtP82iWFlCwmKMgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUy/NDg3LTE1MDM2Nzcz/OTctMTAwMC5qcGVn.jpeg) | 2016-06-17 | Kesi | Mamacita |
+| 84 | ![Cover](https://i.discogs.com/n0i_3CGvsEESqdLW7Vn9hS1L2vnuIcTSL-KL7UmvT1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk0/MzMtMTI2OTM4NDk5/My5qcGVn.jpeg) | 2017 | Mew | Mew with Copenhagen Philharmonic |
+| 78 | ![Cover](https://i.discogs.com/U9DkEb61CSksxltG0JZJwPpx5bmpAAFDgddOtN1IuKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY3/MjYxLTE0OTEwNDU1/NjYtMjIyNy5wbmc.jpeg) | 2017-03-31 | Katinka | Vi Er Ikke Kønne Nok Til At Danse |
+| 67 | ![Cover](https://i.discogs.com/wDDDnPIo5NHP2NaBfxUGKwy6FjtNz80MYApL4UmHnoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTc2/MDE2LTE2NTIxNzY2/NDQtNzc2Ni5qcGVn.jpeg) | 2017-06-21 | TOKIO | TOKIO 2007 |
+| 57 | ![Cover](https://i.discogs.com/aKOXVZsJ-1F8IVnQse_s68my53rOCrZe1k-QIiAowrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUy/NDc3LTE1MDM2Nzcz/MDEtMjA1MC5qcGVn.jpeg) | 2017-08-25 | Kesi | Dumme Penge |
+| 92 | ![Cover](https://i.discogs.com/zM12GNXs-cAhELjPNk5YrSZES0NgA25iZ7tpokupaso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI4/ODk1LTE1MzcwMzkz/MTMtNDAwMS5qcGVn.jpeg) | 2018 | Lukas Graham | Spotify Sessions |
+| 61 | ![Cover](https://i.discogs.com/kpB1HepWMpZtWsCJSl-Df1XtwhpS4hkE-AYULEkkJlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/NTA1LTE1NDE0MDkz/MjgtNjE5Ni5qcGVn.jpeg) | 2018-10-26 | Katinka | Du tænker ikke |
+| 53 | ![Cover](https://i.discogs.com/oMlrr92Lb34FUYhJeCFtVhJvObJDNInlEReTPnszaoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzg4/OTgwLTE1OTc4MTk4/NzItOTgyNi5qcGVn.jpeg) | 2019-01-28 | Mindmare | Promo 2006 |
+| 71 | ![Cover](https://i.discogs.com/aLv_TTUvokB9X9MQBE0t3IT20dIB76QKaHk1MhzYwH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTUz/NTA4LTE2MDQzNDA1/MjgtNjQ5OS5qcGVn.jpeg) | 2020-10-23 | Nicklas Sahl | Unsolvable |
+| 96 | ![Cover](https://i.discogs.com/j8HDs1D5aUfUsb3I7r4JcCgAW82eNtIPCyIVx-sXw3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzUz/NDYwLTE2NzQyODE3/MDktNjcwNC5qcGVn.jpeg) | 2023-01-20 | Lukas Graham | 4 (The Pink Album) |
+
+### Related genres
+
+- [danish]({{ "/tags/danish" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [dansk]({{ "/tags/dansk" | relative_url }})
+- [nordic]({{ "/tags/nordic" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [rap]({{ "/tags/rap" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [indie pop]({{ "/tags/indie-pop" | relative_url }})

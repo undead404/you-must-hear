@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T03:05:27.463Z
+permalink: tags/trio
+title: trio
+---
+
+## trio
+
+Last updated: <time datetime="2025-10-22T03:05:27.463Z">Wed Oct 22 2025 06:05:27 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 7 |  |  | Rumori di Fondo | Frosinone Ale - Inno ufficiale del Frosinone Calcio |
+| 10 |  |  | Hidir Kalay &amp; Mostly thin, man! | Paralel Yakinlasma &#x2F; Parallele Annäherung |
+| 13 |  |  | Shaul Eshet | Shaul Eshet Trio: Love and Fear |
+| 28 |  |  | Payam Jahanmani | Dastas |
+| 29 |  |  | schutzschall | Bühne |
+| 30 |  |  | Wolf Nilson | Im Schafspelz |
+| 35 |  |  | Banana Butts | Back To Wonderland |
+| 38 |  |  | Phantom Vibration | KIDS EP |
+| 39 |  |  | Scruffy D | Return To be Human |
+| 49 |  |  | Le Trio Joubran | Majaz |
+| 74 |  | 1957 | Sonny Clark Trio | Sonny Clark Trio |
+| 81 | ![Cover](https://i.discogs.com/ssN8qo-otpGC4kTFmjGhEnqjfPYYV09tyrsC1dRPwbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjY2/MzEtMTYzNTEwNTI2/Ni00MTMwLmpwZWc.jpeg) | 1960 | Barry Harris | At the Jazz Workshop |
+| 88 |  | 1961 | Charlie Byrd | Blues Sonata |
+| 100 |  | 1966 | Wes Montgomery Trio | Guitar On The Go |
+| 22 | ![Cover](https://i.discogs.com/-psVVeQJcA7rIcaf6-2vnFTmGr8UcjalK7n1hENxi1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzEz/ODktMTMzOTczMTI5/NS04NDI3LmpwZWc.jpeg) | 1969 | Aquarian Age | Live (2006) |
+| 59 |  | 1973 | Bill Evans | The Tokyo Concert |
+| 16 | ![Cover](https://i.discogs.com/3yurV_wFXdF1EF-U9iqTZpAv8iOVY4hEGemFehGpLSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODkz/ODkyLTE2OTQzNTgx/ODAtNTE1Ni5qcGVn.jpeg) | 1974 | Jacques Rouvier | Debussy, Ravel &amp; Faure: Piano Trios |
+| 58 | ![Cover](https://i.discogs.com/NAr0n4J0SEUjEpwwe8nFElo3WxucmArfNrfyvYo1kYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjYx/ODQtMTE5NjI5MDc5/MS5qcGVn.jpeg) | 1974 | Bill Evans | Tokyo Concert |
+| 26 | ![Cover](https://i.discogs.com/UHrrESqlU6FxWGHv1-neVM8aqvQlVzg3ZEswjKrFuw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjM1/ODA5LTE2MjQzNzc2/NTctMzIyNC5qcGVn.jpeg) | 1978 | The Bill Evans Trio | On A Monday Evening (Live) |
+| 36 | ![Cover](https://i.discogs.com/lWYUS9Frs69uSP0O9DwejzUYWsB2ggma8bZfDX75_fI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTU1/MjUtMTI5MjI4MzM5/My5qcGVn.jpeg) | 1979 | Stanley Clarke | Jazz Straight Up |
+| 5 | ![Cover](https://i.discogs.com/5pd0caA67bdylRRagdmbkOIOUny_miACs3DzKvdCYbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTE0/MTUtMTU4MTczMTgz/OC01NjA5LmpwZWc.jpeg) | 1980 | Silverlode | The Summer Of Fourteen |
+| 44 | ![Cover](https://i.discogs.com/zDcLiohOVVuSWXix0jSgu8AIfP0zgYelJpmZPzARJY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM0/NzA4LTE2NjI3ODIx/NTItOTY1Mi5qcGVn.jpeg) | 1981 | Antonín Dvořák | DVORAK: Piano Trio in F Minor &#x2F; Piano Trio in E Minor, &#39;Dumky&#39; |
+| 15 | ![Cover](https://i.discogs.com/M7xMi_JOUJdOTQSMN58rWKzu4Y2mgdt-rLJIPU0xQX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODI3/MDYtMTQ2Mjg3MTQw/Mi02OTMwLmpwZWc.jpeg) | 1982 | Franz Schubert | SCHUBERT: Piano Trios in B Flat Major, D. 898 and D. 28 |
+| 79 | ![Cover](https://i.discogs.com/HPbWD0Q30HsYaYB2DaAGXTygPRzucLYlN_qtoqbmN0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTU1/NTEtMTUwNzMwNTg0/NC0zMTY5LmpwZWc.jpeg) | 1982 | Franz Schubert | SCHUBERT: Piano Quintet, D. 667 &#x2F; String Trio, D. 581 |
+| 45 | ![Cover](https://i.discogs.com/S8bLmbAL6BSf3pqXSmgRsPe1R1fsaaabJLFitm2aNZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzUz/NTYtMTM3MDMzOTUx/MS0xNTE3LmpwZWc.jpeg) | 1984 | Eugen Cicero Trio | Spring Song |
+| 9 | ![Cover](https://i.discogs.com/_HUDCKOafb8aqsl5QMOSZhQbYSf9yP_x7TgI5PgEodg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ5/NzgxLTE1MTI3MzQ4/MjgtNDU2Mi5qcGVn.jpeg) | 1989 | Talkative | Light Years |
+| 60 | ![Cover](https://i.discogs.com/YJaLV2WGlTfIDHFNCOVNYW14Sx3TRQmwkPOhniVA0Uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzIz/ODItMTM2MzgyMjk3/My0zMjY5LmpwZWc.jpeg) | 1989 | John Zorn | 49 Acts of Unspeakable Depravity in the Abominable Life and Times of Gilles de Rais |
+| 87 | ![Cover](https://i.discogs.com/nGO2IbNm2zyR8Tz3Du3WDe-zilGRxseBsNBLDGPL10k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY5/NDktMTQzOTY3MjA3/OS0yNTU4LmpwZWc.jpeg) | 1990 | Pat Metheny, Dave Holland &amp; Roy Haynes | Question And Answer |
+| 93 |  | 1991-11-12 | Stanley Jordan | Stolen Moments |
+| 65 | ![Cover](https://i.discogs.com/Cvs4EnrbNhv8YnioC_m9R54qmLaRkJe1EjK1X6cI6Io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODg4/MzQtMTI5NjY0OTQ2/Ni5qcGVn.jpeg) | 1994 | Paul Bley | Touching |
+| 63 | ![Cover](https://i.discogs.com/Iau_bMPlNoVwT_pkdWb6Y7rR777_70RbyP8b5L1jhmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTY1/ODItMTU0OTQ2ODg1/Ni00Mzg5LmpwZWc.jpeg) | 1994-09-20 | Ginger Baker Trio | Falling Off The Roof |
+| 3 | ![Cover](https://i.discogs.com/vkOAjmKyOVooMjJvxo7vm7_MPzUsbNXD4snGW94awNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE2/OTQzLTE2MjAzMzg2/MDQtMzA2NS5qcGVn.jpeg) | 1995 | The Rembrandt Trio | Piano Trios of Brahms and Dvorák |
+| 54 | ![Cover](https://i.discogs.com/5y-naQ_0HAcIGQxbBvKwBOSzYLuxaffW-3nltfoPLOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTcw/NTUtMTQ4OTg3NTE4/Ni0zNjM1LmpwZWc.jpeg) | 1995 | Johnny Depp | куда-то фотоаппараты |
+| 27 | ![Cover](https://i.discogs.com/iiCNdXB7i1HknsyGOx9n--ON0atDn2JuxRdTaGUzDyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDE1/ODEtMTMzMzQ0MTY3/OS5qcGVn.jpeg) | 1996 | Willy DeVille | Acoustic Trio in Berlin |
+| 73 | ![Cover](https://i.discogs.com/RmQBDU8AHbaPV8hi1Twidg7rlVXd0lsgoouCaIs53pI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTk0/MjU4LTE2MTIxMDIw/NzItNjQxOS5qcGVn.jpeg) | 1996 | Johannes Brahms | Brahms: Piano Trios Nos. 1 and 2 |
+| 37 | ![Cover](https://i.discogs.com/dm6lKH1hvLNepDbSi50JqfZHeUYWxQzhvOgEwOQpMx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDM0/MTAtMTMxMjg0MDE4/MS5qcGVn.jpeg) | 1996-05 | Mutts | The Tells Of Parallels EP |
+| 2 | ![Cover](https://i.discogs.com/pTY_VEPNXsLWCVTKXfXjZMizcPSPADzIAPyIwhzu06M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQ5/MDkyLTE1NDUxNDY3/OTgtMzMxMy5qcGVn.jpeg) | 1997 | Franz Schubert | SCHUBERT: Piano Trio No. 2 &#x2F; Notturno |
+| 46 | ![Cover](https://i.discogs.com/-Y8PXgkChKaXau-f8IUtuYG_vXPP9SxWo2fckKLFbtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzYx/MTItMTYzNjUxNTIy/MC04NTQyLmpwZWc.jpeg) | 1999 | Vienna Piano Trio | Beethoven: Piano Trios Opus 1, Nos. 2 &amp; 3 |
+| 95 |  | 1999-06-15 | Benny Green | These Are Soulful Days |
+| 48 |  | 2000 | Gambale Hamm Smith | The Light Beyond |
+| 84 |  | 2001-10-23 | Stinking Lizaveta | III |
+| 8 | ![Cover](https://i.discogs.com/brnupkEPOTQlxLs9Z9tPicEKm2qRlqdYUgAb-USVpq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjY5/LTE0NzYwNjI3MDYt/NTQ1OS5qcGVn.jpeg) | 2002 | Thin Men | Fuddy-duddy |
+| 75 | ![Cover](https://i.discogs.com/k26Xlmd2hHTDHtYeSBk-nz7iEgn3cevmxGK4BzkUlqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDI5/ODU4LTE2NzU4NDAx/MjctNzEzMi5qcGVn.jpeg) | 2002 | Pau Casals | Pau Casals Plays, Bethoven &amp; Mendelssohn |
+| 64 |  | 2003 | John Taylor Trio | Rosslyn |
+| 98 | ![Cover](https://i.discogs.com/GjP6QA8U5TnIqaRCaSL4KnF6eiQso671q3p046j6pTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjgx/Mi0xMzk1NDgxNjA3/LTczMjYuanBlZw.jpeg) | 2003 | Ricky Martin | Cántalo |
+| 83 |  | 2003-08-19 | Ron Carter | The Golden Striker |
+| 85 |  | 2003-09 | Etnoscope | Drums From The Dawn Of Time |
+| 94 | ![Cover](https://i.discogs.com/6EzDoocxKO0k9ZZD5ecbzCbKDb5X2V-Q2hwQfr0babE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzg4/Mjg4LTE2MTg5NzY0/ODYtMTMyNC5qcGVn.jpeg) | 2004 | Fly | FLY |
+| 67 |  | 2004-05-04 | John Scofield Trio | EnRoute |
+| 19 | ![Cover](https://i.discogs.com/roZwyDnpBM0u9ll7kHtFkpBgihac-iTp213v6qpasGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDU3/MzQ4LTE3MzMxOTEz/NzQtNDA0MS5wbmc.jpeg) | 2005 | The Red Cedar Trio | Mozart, Molitor &amp; Molino: Three Guys Named Mo - Trios for Flute, Viola and Guitar |
+| 52 | ![Cover](https://i.discogs.com/OEWzJEfjNQKCHWSOGt5kWxDELHtWVCJxlewrTC_ZUt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTU4/ODEwLTE2NTUxMTYy/NzAtODQ4MS5qcGVn.jpeg) | 2005 | strippop | Factory |
+| 53 |  | 2005-01-24 | Paul Motian, Bill Frisell, Joe Lovano | I Have The Room Above Her |
+| 69 | ![Cover](https://i.discogs.com/7RIq-olDFyGRD-B9TeEZhu5UWaKvSIduIV1XiQa-KA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTg0/NDk5LTE1Nzc2MjQ2/MzktMTYyOC5qcGVn.jpeg) | 2005-09-22 | John Mayer Trio | 9&#x2F;22&#x2F;05 Chicago house of blues |
+| 17 | ![Cover](https://i.discogs.com/s7x5XS7rSEyliqyjR_CvTiSxb1hTxuQX5e2gpWWjfBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzkz/NzU3LTE1MDQ0Mjkw/OTAtODA5Ny5qcGVn.jpeg) | 2006 | Suk Trio | Schubert : Piano Trio No.1 &amp; Piano Trio, &#39;Notturno&#39; |
+| 20 | ![Cover](https://i.discogs.com/HBLER6MYoYfV9LB4AwLfgBHp82wwVy0FfTOnVGQSxiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI4/ODc4LTE2ODI0MjI2/MTctMTU2Ny5qcGVn.jpeg) | 2007 | Zylinderkopf | I&amp;I&#x3D;3 |
+| 24 | ![Cover](https://i.discogs.com/IQFjf3EzKULJMLVkUcdE05yitwASIn2zXLlsB_8AqhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcz/NDEzLTE1MTMxODc4/MTYtODc2OC5qcGVn.jpeg) | 2007 | The Gryphon Trio | Schubert: Complete piano trios |
+| 78 | ![Cover](https://i.discogs.com/930CoRes9ZCyeHCI25M4fTWyfcuHfNVfYBncX6OzPjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA0/NDMwLTE1ODc0OTU3/MTQtNjc5OC5qcGVn.jpeg) | 2007 | STriCat | Rats &amp; Gentle People |
+| 86 |  | 2007 | The Cook Trio | Villa Said |
+| 90 |  | 2007-11-23 | Esbjörn Svensson Trio | Live In Hamburg |
+| 23 | ![Cover](https://i.discogs.com/WbsoroWxlIKUjMl7LfKNkVi3_qz2wGWToOoN-HlpAuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM4/NzEwLTE1NDI5MzQx/ODktODYzOS5wbmc.jpeg) | 2008 | The 5th Plateau | Paradoxical Fundamentals |
+| 57 | ![Cover](https://i.discogs.com/qefWQTauoYKgtGMTMnAvoPRdryRCfq0geXfdZzbaM2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjI5/MDgtMTI3MDc1NzI1/NC5qcGVn.jpeg) | 2008 | Joensuu 1685 | Sick City &#x2F; Walk On Water (7&quot;Single) |
+| 61 | ![Cover](https://i.discogs.com/Jlgv4DijMDvzBYcGxbUeji5PgVpFz2Wq3bzGm3ZTyLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mzg1/NTAtMTQ3MzA5NjQ2/My05OTQwLmpwZWc.jpeg) | 2008 | Ahn Trio | Lullaby For My Favorite Insomniac [Digital Version] |
+| 71 |  | 2008-02 | Meretrio | Meretrio |
+| 96 |  | 2008-02-05 | Carolyn Wonderland | Miss Understood |
+| 31 | ![Cover](https://i.discogs.com/ulIloer1RtOrAAD6zSc6WFfYIMg8pKejDZKAppFLLEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDg3/MDAtMTQ3MzQxNTI4/NS00NjYwLmpwZWc.jpeg) | 2009 | Pierrejean Gaucher | Melody Makers |
+| 80 | ![Cover](https://i.discogs.com/7SpN2ttwdZZ8P_yYjfRzWJ5Qw0IHoeMu39im3aC7VHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE1/NTItMTI1NzQ5NTE4/Mi5qcGVn.jpeg) | 2009-05-25 | In The Country | Whiteout |
+| 66 | ![Cover](https://i.discogs.com/4sRbmCs5lCEQR4wUY2LlaTPYFA2AXerq4zxNsxIH3ac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTI5/My0xMzAwMDQ1NTg0/LmpwZWc.jpeg) | 2009-10-29 | Taiga Blues | A Minor Shunt With Common Sense |
+| 70 |  | 2010-08-18 | Triosence feat. Sara Gazarek | Where Time Stands Still |
+| 12 | ![Cover](https://i.discogs.com/QhNkIsoBASHmaInP17yqKwcSff6eCcyC7kOm8sbT2ZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzY5/MTAtMTMxNDYyMzQ0/OS5qcGVn.jpeg) | 2011 | Bleak House | Music From The Middle Room |
+| 14 | ![Cover](https://i.discogs.com/bNpfkyS1iL-UzUUG__ulw_R6Bgiq6VQN2cuf_FGbKeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ4/NjUzLTE2NDY4NDk0/NjctMjk2My5qcGVn.jpeg) | 2011 | Pretty Swans | We got hot &amp; died. |
+| 56 |  | 2011-05-13 | Kent State | Spahn Ranch ep |
+| 97 | ![Cover](https://i.discogs.com/DG51uXJDDKd6-XfmiwHaK3TFD3kw5xBpKoDYJNkSKUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTQ5/NTUtMTMxMDkwNjc3/Mi5qcGVn.jpeg) | 2011-06-08 | Mathemagic | II |
+| 92 | ![Cover](https://i.discogs.com/0hb5n7GGB_QDPOowCuqSf_AxxApfgAD3C6lhUws3z9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzI5/NDktMTMwNzk2MTgz/OC5qcGVn.jpeg) | 2011-06-13 | 2muchachos | teplaja EP |
+| 34 | ![Cover](https://i.discogs.com/fI2ggcuTeV2FZqkfUE37ywN5BoJzeNHxZYRT9zryff0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDE4/OTQtMTMyNDc0ODE3/NC5qcGVn.jpeg) | 2011-09-13 | Alligator Indian | beko_92 |
+| 1 | ![Cover](https://i.discogs.com/jMzHljH_iBf1oQUCPfyRavV-Wal9Dab9aCvjNQXVjR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTg3/MTY4LTE2NTg2OTI5/OTYtNjk2OC5qcGVn.jpeg) | 2012 | London Baroque | BACH, J.S.: Trio Sonatas, BWV 525-530 (trans. R. Gwilt) |
+| 32 | ![Cover](https://i.discogs.com/gMNu69KEmHSkesr2KZhssnZiRD5D3kxIf7xgop5Lgc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjk4/NzctMTM1NDIxMzAw/My03NjE5LmpwZWc.jpeg) | 2012 | Fiium Shaarrk | No Fiction Now! |
+| 76 | ![Cover](https://i.discogs.com/JdHo_yTAm_TzWxf2R8q_yRATWFsjsNObHku3hHyUdy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTEx/ODE4LTE1OTI3NjUz/MTktMjkxNS5qcGVn.jpeg) | 2012 | Sobre a Máquina | Decompor |
+| 4 |  | 2012-01-23 | Partikel | Cohesion |
+| 25 | ![Cover](https://i.discogs.com/hPrMAMhLHBcN2476RQh6_mSZH90M6k49E-d3M8jqLx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODc4/NjQtMTMyODQ0NjQ5/MS5qcGVn.jpeg) | 2012-02-01 | Mmpsuf | Retina (Sutemos031) |
+| 41 | ![Cover](https://i.discogs.com/gW2ij9HIKybORnfOE-XeNqf2kggo5ejO4JcP7izUJjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTgy/MjYwLTE1ODc3NjUz/NDEtNzAzOC5qcGVn.jpeg) | 2012-02-29 | Gangrena | The Zombie Survival Society |
+| 11 | ![Cover](https://i.discogs.com/ub0Dm4uZB_k3pYr6716zoP7b6bhpR9keRKZWPxVwMf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjY5/NDctMTQ3NDE5NDA1/OC05NjI1LmpwZWc.jpeg) | 2012-07-11 | Leverton Fox | The Human Arm |
+| 40 | ![Cover](https://i.discogs.com/d_u-HJ5an8F8jLfhRVYDcHJsR6LnwtVHgmzxNtfyq9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzE5/NzQtMTM1NjM1NDU5/MS00NDc0LmpwZWc.jpeg) | 2012-12-20 | DELAYKLINIKEN | Young |
+| 42 | ![Cover](https://i.discogs.com/eLH4QmZhwjcxYkuSlgMgRJhQtTuUFYcp_YkV3b5jVjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjQ2/MDUtMTM4MjQ0NjEw/OS04MzAwLmpwZWc.jpeg) | 2013 | Mushmouthed Talk | Foggy Notion |
+| 82 |  | 2013 | Hawk House | A Little More Elbow Room |
+| 68 |  | 2013-05-07 | Pistol Annies | Annie Up |
+| 43 | ![Cover](https://i.discogs.com/QWO5EiVPcg5CdsFiEQZF5ibBdJjPoWvFK1o64Kbwb1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQx/MzEwLTE1ODU5MDA5/NzYtMTA1Ni5qcGVn.jpeg) | 2013-10-28 | Jukebox Trio | Single |
+| 55 | ![Cover](https://i.discogs.com/yHDiqwzNzksGHS0YIyCwPD1ZkKfGia-48ITJkkRtaBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODU1/ODktMTM4OTYwNzQ2/Mi03OTA2LmpwZWc.jpeg) | 2013-12-30 | Sol | And the mouth of time is open |
+| 99 | ![Cover](https://i.discogs.com/c0A69eMRxBAzCduIZtRnCXe-NaO8wneSpMSS1c4JUPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTY1/OTY4LTE1MTEwODQ0/MDItOTk1MS5qcGVn.jpeg) | 2014 | Sia | No New Friends |
+| 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5677d4ce0c9b4513c54b693da6a248b1.png) | 2014-04-23 | Super Besse | musique pour les filles* |
+| 50 | ![Cover](https://i.discogs.com/qPf7mAbdATEkjwPtsrDBZDMh2HJ1BtlA_vR95wRG75s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzUz/MzYyLTE2MTg3NTk5/MTAtNTg5NS5qcGVn.jpeg) | 2014-10-08 | Antonín Dvořák | DVORAK: Piano Trio No. 1, Op. 21 &#x2F; Piano Trio No. 2, Op. 26 |
+| 47 |  | 2014-10-21 | AM Aesthetic | Future Tense |
+| 77 | ![Cover](https://i.discogs.com/uNQ5QsdpOrJrXewFSQeAZy1JjcICyXN2iEUURJ_6nt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjYy/OTQtMTQxNzIyNTc1/NS05MTQxLmpwZWc.jpeg) | 2014-11-04 | Moss Lime | July First |
+| 6 | ![Cover](https://i.discogs.com/YJp-l_Qy4jOy1M82CwdI3a1BMinW3S61gXQRlI5qLUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjE1/MTQtMTQ1ODE2ODQ2/My00MjAzLmpwZWc.jpeg) | 2015 | Partikel | String Theory |
+| 21 | ![Cover](https://i.discogs.com/BrzCpJil4wqof29mvC2RM8CDZBegCRKrdWAfZec4Xds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDA2/MjItMTQ1OTY5NzIw/NC01NjQ4LmpwZWc.jpeg) | 2015 | Garçons Coiffeurs | The Early Years |
+| 18 | ![Cover](https://i.discogs.com/20Bwnwd64GSRkvrKyf__yXJ3UDi-K7ojVlhajTzysBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM4/MDUzLTE1MDE5NDI4/OTctMzg5NC5qcGVn.jpeg) | 2017 | Stick Men | Konnekted |
+| 33 | ![Cover](https://i.discogs.com/5HDoMQZVVKbciokDJRbSBj5WD3a0EPy6OAFPoxpGSBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYx/MjU5LTE1NTI3NjA1/NTYtOTI2NC5qcGVn.jpeg) | 2019-04-05 | Polar | Demo |
+| 51 | ![Cover](https://i.discogs.com/Qcjzi2zwTK_G-2DspjW7e5W7eZ2qa9W_BsplOs9R1R4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTY4/MDgtMTM2MTU2Mzg0/My02MjE5LmpwZWc.jpeg) | 2024-03-07 | Meeting Of Important People | Quit Music |
+| 62 |  |  | Ron Carter, Herbie Hancock, Tony Williams | Third Plane |
+| 72 |  |  | The Delta Rasa | The Delta Rasa |
+| 89 |  |  | Esbjörn Svensson Trio | e.s.t. Live In Hamburg |
+
+### Related genres
+
+- [piano]({{ "/tags/piano" | relative_url }})
+- [classical]({{ "/tags/classical" | relative_url }})
+- [jazz]({{ "/tags/jazz" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})
+- [alternative rock]({{ "/tags/alternative-rock" | relative_url }})
+- [alternative pop]({{ "/tags/alternative-pop" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})

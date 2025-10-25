@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-23T10:23:17.192Z
+permalink: tags/austrian
+title: austrian
+---
+
+## austrian
+
+Last updated: <time datetime="2025-10-23T10:23:17.192Z">Thu Oct 23 2025 13:23:17 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 20 |  |  | Confused 5 | Out of ConFusion |
+| 42 | ![Cover](https://i.discogs.com/o590-db0e_jxw26RBO0cA9MwCMkk7VggQpk9fzeP2KE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDIw/MC0xNDgzOTYzMDA4/LTkzNTguanBlZw.jpeg) | 1971 | Arik Brauer | Arik Brauer |
+| 1 | ![Cover](https://i.discogs.com/k0INihYQ6f8u_7N6R7h3C5FIQcTDLv-77eWFzV_qxvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTM5/ODgtMTQ3NzQwODU4/NC0zMzg2LmpwZWc.jpeg) | 1975 | Georg Danzer | Jö schau - seine größten Erfolge |
+| 14 | ![Cover](https://i.discogs.com/rw_W3MJBt1bhGMUfWweNpwNr_tDNtWmf6patWpOQiW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQy/NTYzLTE2NDk2OTY2/NTgtMjE5NS5qcGVn.jpeg) | 1975 | Helmut Qualtinger | Heurige Und Gestrige Lieder |
+| 61 |  | 1975 | Wolfgang Ambros | Es lebe der Zentralfriedhof |
+| 34 | ![Cover](https://i.discogs.com/5wupMJ-4Ihdfw0sjxC9lpDQl9CpP4HVgRE24uLglt5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDI0/ODUtMTM5ODE5MDAx/My05NTY0LmpwZWc.jpeg) | 1981 | Peter Cornelius | Reif für die Insel |
+| 54 |  | 1981 | Drahdiwaberl | Psychoterror |
+| 51 | ![Cover](https://i.discogs.com/dWRSM4RVhY_guJTZsb8fPsS54yZ_hLGjpmEKkXxcgjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDk5/NTktMTQwOTQ2ODM2/Mi0yOTYxLmpwZWc.jpeg) | 1982 | Rainhard Fendrich | Zwischen Eins Und Vier |
+| 62 | ![Cover](https://i.discogs.com/nzPIdUiOlDH7XZyETlw3p5TgdItwGXDZh38wJNqRvm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Nzgy/MS0xMTcxMTY1MTA5/LmpwZWc.jpeg) | 1982 | Falco | Einzelhaft 25th Anniversary Edition |
+| 97 |  | 1982 | Falco | Einzelhaft |
+| 9 | ![Cover](https://i.discogs.com/1z4QmxBkOpBnfRa2gVUEnBnWMAqCe29tNV9grHwRnA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTE2/NDYtMTQ4MTQ5MzEx/OS05NjE1LmpwZWc.jpeg) | 1984 | Udo Jürgens | Aber bitte mit Sahne (CD 1) |
+| 32 |  | 1984 | Peter Cornelius | Streicheleinheiten |
+| 92 | ![Cover](https://i.discogs.com/F4CR1f5NceUp9qadK5mN_KP1z3Rn2Rm4wP6-SeypQvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjQ3/MS0xMzYzNTU2MDIw/LTM3MzYuanBlZw.jpeg) | 1984 | Falco | Junge Roemer |
+| 13 | ![Cover](https://i.discogs.com/yj4-XN8LPDFocDS_t4eHw0cAGiimh4zbGNYL_DoQk-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDA1/NDUtMTY0ODgyMzEy/NC02MDAxLmpwZWc.jpeg) | 1985 | Rainhard Fendrich | Wien Bei Nacht |
+| 83 |  | 1985 | Falco | Rock Me Amadeus |
+| 88 | ![Cover](https://i.discogs.com/Ez968HvokGUqG6pxKs5cNqBcRjuoyiYAZu3zF7sxRbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzg1/MDUtMTQ2MDQ1Mjc2/Ni04MDgzLmpwZWc.jpeg) | 1985 | Falco | Rock Me Amadeus 30th Anniversary |
+| 98 | ![Cover](https://i.discogs.com/FY26iYuWhHyOUG_nHGWld9FTjwPnaYUFK-9Q5U80dU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcy/NjAtMTMxMDY2MDQy/NC5qcGVn.jpeg) | 1985-09-11 | Falco | Falco 3 |
+| 64 | ![Cover](https://i.discogs.com/AL9d7p5x5TGrigVPLEDUNKLsw9ZlHjgQ1GagP_o6XYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzQ4/Ny0xNTAxMjYzODkx/LTU2NTEuanBlZw.jpeg) | 1986 | Falco | Exquisite |
+| 99 | ![Cover](https://i.discogs.com/lwh3HdEf6o70QBI4tBXJbXgTxv9sYOePreHTpwOYyww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDA4/MjMtMTI4OTU1NjI3/Mi5qcGVn.jpeg) | 1986-03-25 | Falco | Falco III |
+| 80 | ![Cover](https://i.discogs.com/HgQpsxgu4eM2PTWouHzCt1e3dPFbFNIsKw0Edyal998/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NjUy/MS0xNTg3Mjg4NDQy/LTk5NjguanBlZw.jpeg) | 1986-10 | Falco | Emotional |
+| 6 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1987 | Various Artists | Super Number Ones |
+| 8 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1987 | Various Artists | Der Tanz des Tatzelwurms |
+| 11 |  | 1987 | Opus | Opus |
+| 28 |  | 1987 | Rainhard Fendrich | Rainhard Fendrich&#39;s Hitparade |
+| 84 |  | 1988 | Falco | Wiener Blut |
+| 26 | ![Cover](https://i.discogs.com/stQ8Md2HlUkaMvZ3-FEJLV5-GbsvL4HVye8yNAO37e4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTE0/OTQtMTYwMTU0NTky/NS05Njg3LmpwZWc.jpeg) | 1989 | Rainhard Fendrich | Das Konzert |
+| 46 |  | 1989-08-15 | Rainhard Fendrich | Schickeria |
+| 36 | ![Cover](https://i.discogs.com/X2LgkJrsaLU7aN_-BuE1x82RzF46ZVgc8yT2we50nPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTk1/NS0xMjgwMzk5MzEx/LmpwZWc.jpeg) | 1989-10-09 | Rainhard Fendrich | Von Zeit zu Zeit |
+| 57 | ![Cover](https://i.discogs.com/OkI-I4bI2OEPVrd77oiIcrLuvEIu3mUbm03yVXIloQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTI3/MC0xNDQyNjczNDIw/LTQ5NTMuanBlZw.jpeg) | 1990 | Falco | Data de Groove |
+| 31 | ![Cover](https://i.discogs.com/MgOSFjfOzmmGNwTXlgJnaZYSLDnLB72Ozbo-Jzzqraw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA3/NDktMTI1NDY2MjY3/NS5qcGVn.jpeg) | 1991-10-04 | Attwenger | Most |
+| 43 | ![Cover](https://i.discogs.com/CULpttPme2QILaBfvUQPUjezev8C012KXGiPPaVPNhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTQ2/NC0xNDIzNjY3MDY2/LTEyOTYuanBlZw.jpeg) | 1991-10-25 | Falco | The Remix Hit Collection |
+| 38 |  | 1992-09-14 | Attwenger | Pflug |
+| 86 |  | 1992-09-24 | Falco | Nachtflug |
+| 70 |  | 1992-11-10 | Rainhard Fendrich | Das Beste Von Rainhard Fendrich |
+| 33 | ![Cover](https://i.discogs.com/mYbuDlg1kQ1rXvu9vJuaVKeBo2dMJLH5IyXuWqe8yv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzM2/Ny0xNTg4MTYyNzky/LTU2MzYuanBlZw.jpeg) | 1993 | Attwenger | Luft |
+| 12 | ![Cover](https://i.discogs.com/aYah5whKky6VdH31yyfoVDroBoVWBv3Uw1G3xOYPHvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTI1/NjEtMTQ2NjM0ODA3/Ny0zMzY0LmpwZWc.jpeg) | 1993-09-27 | Rainhard Fendrich | Brüder |
+| 18 |  | 1994 | Alkbottle | Blader, Fetter, Lauter &amp; A Bissl Mehr |
+| 48 | ![Cover](https://i.discogs.com/zYUxVBech2hYmEDDrl_H6VBdngIP1vLg7_B2PYR740s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDY3/ODItMTU5MTg3OTM3/My0zNzk2LmpwZWc.jpeg) | 1994 | EAV | Amore XL |
+| 68 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/80fe27aa1f29483f85537f1f65621c70.png) | 1994 | Opus | Die grössten Hits aus 15 Jahren |
+| 100 |  | 1994 | Udo Jürgens | Zeig mir den Platz an der Sonne |
+| 60 | ![Cover](https://i.discogs.com/Px_Y0CExIqXVZ60ZVqKm51LG8Mw5JEWEOJ-W5eoh0mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODQx/NjUtMTU1ODg2Mzg0/NS04MjM1LmpwZWc.jpeg) | 1996 | Georg Danzer | Die Größten Hits aus 25 Jahren |
+| 96 |  | 1996 | Falco | Greatest Hits |
+| 52 |  | 1996-08-06 | Falco | Meine schönsten Erfolge |
+| 7 |  | 1997 | Wolfgang Ambros | Verwahrlost aber LIVE |
+| 19 | ![Cover](https://i.discogs.com/O-sgWqdbk6RYbVVbUBDwFNfmgD1t2BOo3burWx0dJog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzA2/NS0xMTQ5NjA1Mjk0/LmpwZWc.jpeg) | 1997 | Attwenger | Song |
+| 29 |  | 1998 | Falco | The Hit-Singles |
+| 35 | ![Cover](https://i.discogs.com/R5vBV2ETzdG0ssEby1-_xuACtSzbt9Ojkls1UOAL3LA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTEy/MzYtMTU4Njc5NDkw/NS0zMzMyLmpwZWc.jpeg) | 1998 | Udo Jürgens | Aber bitte mit Sahne - Jubiläumsedition |
+| 41 | ![Cover](https://i.discogs.com/r4LFa9UJeiXo-3qxe9YQjkUZXE5kuS4RKlDSJAJgmkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTUy/OTAtMTIyODA2NDA5/OC5qcGVn.jpeg) | 1998 | Falco | Out of the Dark (Into the Light) [2012 - Remaster] |
+| 44 | ![Cover](https://i.discogs.com/MuT3tB1I9MIQztL2HJEuT1zuddN4n912g6_3FdKf01A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk0/NTMtMTQyMzI0NTY3/NS03MDU2LmpwZWc.jpeg) | 1998 | Falco | The Very Best - Tribute &#39;98 |
+| 74 | ![Cover](https://i.discogs.com/LOH4Fo_ZmRALCy-ylOWp2AV6pTSR4CJ5PoVkRVsCwzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDc2/MDAtMTUwMTY1NTg1/MC00MzAwLmpwZWc.jpeg) | 1998 | Austria 3 | Austria 3 |
+| 75 |  | 1998 | Falco | Egoist |
+| 82 | ![Cover](https://i.discogs.com/Jq68O26qLUOI424xn7f337m59OZ0yOQ4rRM0eI6wJc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzU0/MDQtMTI0NjY5ODQw/Ny5qcGVn.jpeg) | 1998 | Falco | Out Of The Dark (Into The Light) [2012 Remaster] |
+| 93 |  | 1998 | Falco | Out Of The Dark |
+| 91 |  | 1998-02-27 | Falco | Out Of The Dark (Into The Light) |
+| 45 |  | 1998-06-29 | Hubert Von Goisern | Gombe |
+| 10 | ![Cover](https://i.discogs.com/c-AVDYpSPyQYTkTDcPEq6x45q22F5vqJof9Sna35t5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODUz/NjI0LTE1NjI2MDQ0/MjItODg0OS5qcGVn.jpeg) | 2000 | Wilfried | ...und immer wieder geht die Sunn&#39; auf |
+| 15 |  | 2000 | Mika | the opposite of silence |
+| 21 | ![Cover](https://i.discogs.com/MteCJPkcbcjh3t_C0fzDeqUW7_zWjGY1kvRxys2_8Ww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjU3/Ni0xMTM4NjYzMjYy/LmpwZWc.jpeg) | 2000 | Sanguis et Cinis | Tragic Years - A Collection Of Early Releases &amp; More |
+| 25 |  | 2000 | Falco | Portrait |
+| 65 | ![Cover](https://i.discogs.com/B6t9buIjUddiulR6awvzeRsnCh6PzIuoqt-_moqQq_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDE4/ODYtMTQ3MTExMTE4/Ny01MTIyLmpwZWc.jpeg) | 2000-05-08 | Olaf Henning | Alarmstufe Rot |
+| 17 |  | 2000-11-06 | Hubert Von Goisern | Fön |
+| 4 | ![Cover](https://i.discogs.com/2W_g8FoZhIpGjvDzJb7-Ypu51kfoA6xcIF5leYhHrDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzIw/NjQtMTM1NzYzMTg3/MS05NjQ1LmpwZWc.jpeg) | 2001 | Rainhard Fendrich | Raritäten |
+| 50 |  | 2001-02-01 | Falco | Helden von Heute |
+| 40 |  | 2001-03-05 | Hubert Von Goisern | Trad |
+| 73 |  | 2002 | Attwenger | Sun |
+| 53 | ![Cover](https://i.discogs.com/hLJmeX6B6CDtBb5cMtO-PMT42JpV5AMDVfS-EQMFpKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTEy/OTE5LTE1MDY0MjE3/OTktMzc1OS5qcGVn.jpeg) | 2003 | Udo Jürgens | Mach dir deine Welt, wie sie dir gefällt |
+| 5 |  | 2003-10-13 | Hubert Von Goisern | TRAD II |
+| 49 |  | 2004-02-09 | Garish | Absender auf Achse |
+| 69 | ![Cover](https://i.discogs.com/ySVIatrJo7KVt7VvjwxfyD5VLAwmvirQELOi-OK07fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDk0/NS0xMzY3NTkxNDE0/LTExNDkuanBlZw.jpeg) | 2005 | Falco | Falco 60 |
+| 3 | ![Cover](https://i.discogs.com/OZRh0ma0yeiVrMEZe5g6h9YlNMzzzagmke1oJnsmamk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDY4/NDktMTM1MjEwMzEz/My03MDE1LmpwZWc.jpeg) | 2005-02-28 | Rainhard Fendrich | So weit so gut - die größten Hits aus 25 Jahren |
+| 78 | ![Cover](https://i.discogs.com/Vy5p0A4knRm6-zSaOz4GXCc3lCsDM_dTh9WDOMiTKy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NzI3/NDMtMTQyMjI3NzUy/Mi0xNjMxLmpwZWc.jpeg) | 2005-10-07 | Cheesevibes | Hop &amp; Drop |
+| 59 |  | 2005-10-14 | Attwenger | Dog |
+| 77 | ![Cover](https://i.discogs.com/8NfgEtznrzMG2q5bzphrT-URkWpFWtwKoH0HMgRZFEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTI1/OC0xMjMwMDQwMDIw/LmpwZWc.jpeg) | 2006-11-03 | Die Verbannten Kinder Evas | Dusk And Void Became Alive |
+| 27 | ![Cover](https://i.discogs.com/eKA6f8GKPFajWgGhKVLiS8eVm4RatdL0R3qYNkFg3Zs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA5/ODQtMTE5NzQ3Njky/NC5qcGVn.jpeg) | 2007 | Texta | paroli |
+| 90 |  | 2007-02-02 | Falco | Hoch wie nie |
+| 22 | ![Cover](https://i.discogs.com/zYUxVBech2hYmEDDrl_H6VBdngIP1vLg7_B2PYR740s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDY3/ODItMTU5MTg3OTM3/My0zNzk2LmpwZWc.jpeg) | 2008-01-25 | EAV | A La Carte |
+| 37 | ![Cover](https://i.discogs.com/zYUxVBech2hYmEDDrl_H6VBdngIP1vLg7_B2PYR740s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDY3/ODItMTU5MTg3OTM3/My0zNzk2LmpwZWc.jpeg) | 2008-01-25 | EAV | Spitalo Fatalo |
+| 85 | ![Cover](https://i.discogs.com/1FJUiJePffJb2ruvgODGjVhGKG-pXH9QPgm5KoryTuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTYw/MDUtMTM1OTg4NjYx/My0xMjc1LmpwZWc.jpeg) | 2008-02-22 | Russkaja | Kasatchok Superstar |
+| 30 | ![Cover](https://i.discogs.com/xsLuhBammYrlw-8Y3PTxAWKgKkFNWkuCTeaXVJL9Wg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzM1/NzktMTI2MjQ3MDQz/MS5qcGVn.jpeg) | 2008-05-27 | Francis International Airport | We Are Jealous. We Are Glass. |
+| 58 | ![Cover](https://i.discogs.com/tpdFolbpbyx7DjbOj7R6VonzYxi8tHS5tn8y7IbgPA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTAx/MzQtMTI2NjYxODcx/My5qcGVn.jpeg) | 2009-03-13 | Soap&amp;Skin | Lovetune for Vacuum |
+| 66 |  | 2009-08-07 | Andreas Gabalier | Da komm&#39; ich her |
+| 56 | ![Cover](https://i.discogs.com/ld8DR8fvdkgeFBO_dwizF03UujBHV3e2nPlqGK3MBzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTky/MDUxLTE1NTYwMjUw/ODEtMTQ2Ni5qcGVn.jpeg) | 2010 | EAV | Neue Helden braucht das Land |
+| 81 |  | 2010-05-28 | Andreas Gabalier | Herzwerk |
+| 23 | ![Cover](https://i.discogs.com/3elBQpbZd11BxrXJ5GisLNFguhwTGOiz1ycEt2G_afs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDE1/MDMtMTQ3NTQ5NjQ5/NS04MTc4LmpwZWc.jpeg) | 2012 | Seer | Grundlsee |
+| 72 |  | 2012-03-16 | Parov Stelar | Jimmy&#39;s Gang EP |
+| 95 |  | 2013-01-31 | Russkaja | Energia! |
+| 55 | ![Cover](https://i.discogs.com/ikHXCy1l8GcojCaHVgVN92xP1xV5i4gZXjYmcwEL1Vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzk2/NjgtMTQzOTI4MTQ0/OC03MjQ3LmpwZWc.jpeg) | 2015 | Crack Ignaz | Kirsch |
+| 89 | ![Cover](https://i.discogs.com/3Xu8d2dKSUmxHbbmcZWENOcjcL6CKqTw6PlpP1YI0Uk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzgx/NzMtMTU5ODYxNzkw/NC04ODI4LmpwZWc.jpeg) | 2015-05-15 | Andreas Gabalier | Mountain Man |
+| 67 | ![Cover](https://i.discogs.com/_b3DzADA-CPSCqS_CjE0_YmPNg2nMgDVfWNn0PWEXaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTg0/OTEtMTUzNDI1MzY0/Ni02MjM4LmpwZWc.jpeg) | 2016-04-29 | Visions of Atlantis | Old Routes - New Waters |
+| 47 | ![Cover](https://i.discogs.com/eXdAWgLZxuHx21rjjh2bJxj68XJp3L6gFm8orNTjuQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjkz/NjY0LTE2NDU3NTE2/MjItMzcyOC5wbmc.jpeg) | 2016-06-01 | Molly | Sun Sun Sun |
+| 63 | ![Cover](https://i.discogs.com/NgiwWBfeZIh3j3YkXggFRMob1IYjXwu2JV34ItxVuz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIy/NDAyLTE1NjQxNDI4/NjEtNzQ5NC5qcGVn.jpeg) | 2016-10-20 | Molly | As Years Go By |
+| 87 | ![Cover](https://i.discogs.com/EOopn-KehQ7-XclsFOHWZTvxWcDfZVc9uNXk9Liguzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTEz/MDI2LTE2NDk3ODQy/NTAtMTk0OS5qcGVn.jpeg) | 2018-07-27 | Josh. | Cordula Grün |
+| 16 | ![Cover](https://i.discogs.com/ld8DR8fvdkgeFBO_dwizF03UujBHV3e2nPlqGK3MBzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTky/MDUxLTE1NTYwMjUw/ODEtMTQ2Ni5qcGVn.jpeg) | 2018-09-28 | EAV | Im Himmel ist die Hölle los |
+| 39 | ![Cover](https://i.discogs.com/I3FqxxNeWtezT9Q2Z1IHJoJHZGMFTq5ydp3ivC2FzU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU5/MTM2LTE2MTE2NTg3/NzctNzE1MS5qcGVn.jpeg) | 2018-09-28 | EAV | Nie Wieder Kunst |
+| 24 | ![Cover](https://i.discogs.com/F4CR1f5NceUp9qadK5mN_KP1z3Rn2Rm4wP6-SeypQvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjQ3/MS0xMzYzNTU2MDIw/LTM3MzYuanBlZw.jpeg) | 2019-05-15 | Falco | JNG RMR 2 (Remixes) |
+| 76 | ![Cover](https://i.discogs.com/D9i5aBbzVBt2sSc-kGfwMLzrkmdirsq8i_bTKjodu_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjM2/NDU3LTE1ODg0OTAw/NzMtMTY3MC5qcGVn.jpeg) | 2019-10-31 | RAF Camora | In meiner Zone 2.0 |
+| 2 | ![Cover](https://i.discogs.com/nCqYrOlf717JXndXuREXS59giOAFQa8zCAAvxW6GGhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTY4/MzcwLTE2MTQxODU5/MzktNjk4Ny5qcGVn.jpeg) | 2020 | Andreas Gabalier | Es ist die Zeit |
+| 71 | ![Cover](https://i.discogs.com/OIso2Rtnu6uhFqZTYwZBQetgA7G-75aZ6NtwtTTOY5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQz/Mjc2LTE1MTI1OTMy/MzYtNjQ1MS5wbmc.jpeg) | 2020-07-28 | Molly | Glimpse |
+| 94 | ![Cover](https://i.discogs.com/lwh3HdEf6o70QBI4tBXJbXgTxv9sYOePreHTpwOYyww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDA4/MjMtMTI4OTU1NjI3/Mi5qcGVn.jpeg) | 2022 | Falco | Falco 3 25th Anniversary Edition |
+| 79 | ![Cover](https://i.discogs.com/IjElwy0zWAgt9WgXy6gGV82bd-5akkw5C59SF_zQn68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTAw/NDI5LTE2NTc5NjE1/MTktNzI2Ny5qcGVn.jpeg) | 2022-07-15 | Oska | My world, My love, Paris |
+
+### Related genres
+
+- [austropop]({{ "/tags/austropop" | relative_url }})
+- [german]({{ "/tags/german" | relative_url }})
+- [austria]({{ "/tags/austria" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
+- [blues]({{ "/tags/blues" | relative_url }})
+- [rap]({{ "/tags/rap" | relative_url }})
+- [classical]({{ "/tags/classical" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [hip-hop]({{ "/tags/hip-hop" | relative_url }})

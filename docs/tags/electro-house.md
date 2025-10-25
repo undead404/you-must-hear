@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-01-07T17:54:18.773Z
+permalink: tags/electro-house
+title: electro house
+---
+
+## electro house
+
+Last updated: <time datetime="2025-01-07T17:54:18.773Z">Tue Jan 07 2025 19:54:18 GMT+0200 (Eastern European Standard Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 60 | ![Cover](https://i.discogs.com/uUbRH_rqlRA1VwuCNcwU0miue2CG-6Wd-YdFWRGk7Lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjgx/OS0xNjEyOTUxMTQ2/LTM5MzcuanBlZw.jpeg) | 1985 | Grant | Dead Man Walking |
+| 73 | ![Cover](https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg) | 1987 | Various Artists | Fist of God |
+| 52 | ![Cover](https://i.discogs.com/7TTPh9qkEtyUw1u8FCiCGRAbMe673UhYPRM4mJIxjNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDY3/Ny0xMTE3NzM2NDk0/LmpwZw.jpeg) | 1999 | Winner | WE |
+| 15 | ![Cover](https://i.discogs.com/uI057LQK0kee1viuNOhNWGLXo4Or8ZHtihg6c3Cxnsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTAw/ODYtMTQ0NjgwOTQ1/Ni0xMDAyLnBuZw.jpeg) | 2000 | Aurora | Half The World Away |
+| 29 | ![Cover](https://i.discogs.com/Q6jIC_Pgni9o69as099Rz8eNoVV0hP0rxrpWkSFiPLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI5/ODE0LTE1OTEzOTU3/MjMtODkyOC5qcGVn.jpeg) | 2000 | Aurora | The Secret Garden |
+| 20 | ![Cover](https://i.discogs.com/IYs898OaoTnyP1mfgc23sHhKcrvJIv94toDCWwaUtrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODM3/NzYyLTE2NTc0MTk0/MzItNzcxOC5qcGVn.jpeg) | 2000-01-24 | Aurora | The Devil Is Human |
+| 31 | ![Cover](https://i.discogs.com/WYQVAZi5UcceKLtlUCoZaCG2NrsGVDpoQ1Eyj_sjZII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTcy/Njg5LTE1OTM5NzYy/NDYtMzE0OC5wbmc.jpeg) | 2001 | Aurora | Scarborough Fair |
+| 17 | ![Cover](https://i.discogs.com/GTLOZUlN9ZxgW03RDzZO8WJbUNlbzlzzCz2xOTTZeoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjY3/MTkyLTE2Mjc0NzU5/NjUtNTExNS5qcGVn.jpeg) | 2002 | Aurora | Stjernestøv |
+| 21 | ![Cover](https://i.discogs.com/yPyWiM9lgWzjZbSDI2FCSy0xGJeNe8-9c_kW0ZHstPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYy/NDcyLTE1NTI3NzY4/OTctMTQ1Ni5qcGVn.jpeg) | 2002 | Aurora | Into the Unknown |
+| 23 | ![Cover](https://i.discogs.com/niXEIKOEyy3UvCX7RTwpD0znQ7SRgZV0Vpk_pWzGLHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTA4/OTk3LTE2Mzc3ODI3/MjEtNzQ5My5qcGVn.jpeg) | 2002 | Aurora | Midas Touch |
+| 30 | ![Cover](https://i.discogs.com/kZEx5IQ4mFcj6oLsPbsWKB__jJABPlKkkyS0Bo-khPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzY2/ODcwLTE2NDkxMTY0/MTAtNDg1Ni5qcGVn.jpeg) | 2002 | Aurora | The Woman I Am |
+| 33 | ![Cover](https://i.discogs.com/2O9W3m-d55ORsyRIazX4VLmwAjl3dU0H0miDrX-vBSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTU5/NTEtMTQ1MzU0Njgx/Ni05MDYxLnBuZw.jpeg) | 2002 | Aurora | Conqueror |
+| 10 | ![Cover](https://i.discogs.com/9IniugbC-kcbqr-6xtToGXCWqXQwZCznbQkIhXJKyn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTA3/NzY5LTE1NTU1MTYx/MDEtOTMzNi5qcGVn.jpeg) | 2002-05-01 | Aurora | Under Stars |
+| 37 | ![Cover](https://i.discogs.com/nhnfbgTwNgOyZjpAL1LlYaa0Bd5uH6UF87dcduTFT0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDY3/NTA0LTE2NjI3Nzk0/NjMtNTUxNy5qcGVn.jpeg) | 2002-08-27 | Aurora | Hunting Shadows (Assassin’s Creed) |
+| 78 | ![Cover](https://i.discogs.com/7OcESZWQVXV8XIohGD0v0X-oaK6ykrgHCL6kOs14FmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDgw/Ni0xMzA1MzA3Mzg2/LmpwZWc.jpeg) | 2003-09-01 | Benny Benassi | Hypnotica |
+| 57 |  | 2006-12 | Justice | Phantom |
+| 94 |  | 2006-12-18 | Get Far | Shining Star |
+| 54 | ![Cover](https://i.discogs.com/zgPBDplCyvujhaVhcPUk6dSPcYm7aI8jcGGFFy0O9PI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTE0/NTctMTQ0MjU4MTU2/MC05NDU0LmpwZWc.jpeg) | 2007 | Kato | Show You Love |
+| 39 | ![Cover](https://i.discogs.com/y8DRoxVGaXTLLoT7C9QlDZLKUnmDKRtU7HVXM7iee_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDE5/MC0xMTgxNjUxMjU0/LmpwZWc.jpeg) | 2007-04-23 | Justice | D.A.N.C.E |
+| 69 | ![Cover](https://i.discogs.com/tfIB5liUs7tj8RuoSXBHT5Fs_fVdQ575utIZFRdo-WA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDkx/OTYtMTIwODQ2ODIz/NC5qcGVn.jpeg) | 2008-03-24 | Justice | DVNO |
+| 51 |  | 2008-07-08 | Justice | Planisphère |
+| 56 | ![Cover](https://i.discogs.com/uvbK56XwwrKsrrZRxXj0wH1Wy5-kllBRVj7-gaow_Is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzc4/MzktMTY0NjQwMDc5/MS03NTYzLmpwZWc.jpeg) | 2009-05-26 | deadmau5 | 4x4&#x3D;12 |
+| 93 |  | 2009-09-22 | deadmau5 | For Lack of a Better Name |
+| 5 |  | 2010-06-03 | Yeah Yeah Yeahs | Heads Will Roll (A-trak Remix) |
+| 24 | ![Cover](https://i.discogs.com/z-Uaf1pNZuSBmd92tFglvbW9yJCPoaIRAmjun97lHaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTgx/NDItMTI3NjU0MTAy/My5qcGVn.jpeg) | 2010-06-14 | Showtek | Booyah |
+| 26 |  | 2010-07-21 | Porter Robinson | Say My Name |
+| 84 | ![Cover](https://i.discogs.com/M0ZI1_IF0ZU5U5NJ129p3ik9bP8DIOI34ZElx057yx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTUx/NjgtMTQwMDk2NTIx/OC0zNzgzLmpwZWc.jpeg) | 2010-08-31 | Tiësto | Kaleidoscope Remixed |
+| 87 | ![Cover](https://i.discogs.com/BDuVgflrMApU-B13PPl3d5iR6EIiZKR29x8M3BzEQ00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTIx/NTEtMTQ1ODQ5NTM4/MC0xMDk3LmpwZWc.jpeg) | 2010-10-22 | Skrillex | Scary Monsters and Nice Sprites |
+| 59 |  | 2010-12-06 | Feed Me | Feed Me&#39;s Big Adventure |
+| 47 | ![Cover](https://i.discogs.com/armVSkSqrS0YjXrBToSAawECpdbKw1OLZOWWwfpdFZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTQy/MTg1LTE2ODU0NDU2/NzgtNTgxMC5qcGVn.jpeg) | 2011 | Calvin Harris | Let&#39;s Go |
+| 1 | ![Cover](https://i.discogs.com/quEKAyTV7Q_Nxl4srAm1UTcvJnEiodNqhj5pb-dWemU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDA1/ODYtMTQ1OTUwMTQ1/OS0xMDY4LmpwZWc.jpeg) | 2011-01-25 | David Guetta | I&#39;m Good (Blue) |
+| 75 |  | 2011-02-01 | Dada Life | White Noise &#x2F; Red Meat |
+| 48 | ![Cover](https://i.discogs.com/ZpSkAuW81u5slIa-mHEPRmOP9NKsfgBVBWyaUh83AQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzkz/MjQtMTMwODI0NDkw/Ni5qcGVn.jpeg) | 2011-05-13 | Swedish House Mafia | Save The World (The Remixes) |
+| 40 |  | 2011-05-27 | Feed Me | To The Stars |
+| 42 |  | 2011-08-08 | Klaypex | Loose Dirt |
+| 34 | ![Cover](https://i.discogs.com/xjSZhzM54BvMCZTlAUmgClX2dt1LdxfaZuno8_PDdrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjQx/MTAtMTQwMzcwMTkw/NS01MjE2LmpwZWc.jpeg) | 2011-08-22 | Calvin Harris | deSIrE (wITh saM smITh) |
+| 68 | ![Cover](https://i.discogs.com/armVSkSqrS0YjXrBToSAawECpdbKw1OLZOWWwfpdFZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTQy/MTg1LTE2ODU0NDU2/NzgtNTgxMC5qcGVn.jpeg) | 2011-08-22 | Calvin Harris | We&#39;ll Be Coming Back |
+| 49 |  | 2011-09-13 | Porter Robinson | Spitfire |
+| 98 | ![Cover](https://i.discogs.com/9gz7T6hzeYMBoWZHCTRvqhkrkSUK0QPHUZ5eHwPiisI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTgz/MzgtMTM3NTg1OTQz/MC02NTQ4LmpwZWc.jpeg) | 2011-11-07 | Afrojack | Lionheart |
+| 13 |  | 2011-12-12 | Knife Party | 100% No Modern Talking |
+| 8 | ![Cover](https://i.discogs.com/7WUsL3DI3qFwaediNMUiloB439En_IHXBURGOPLsJJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDM0/NjYtMTMzMDYwMTgz/NC5qcGVn.jpeg) | 2012 | Dada Life | Kick Out The Epic Motherf**ker |
+| 35 | ![Cover](https://i.discogs.com/oTogyqj9A88q5hoRzPdndqGxSjw_XsPVpfdl8YImBaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTI4/NzgtMTQ1ODExMTM2/Mi0xNjQ1LmpwZWc.jpeg) | 2012 | Knife Party | Rage Valley EP |
+| 80 | ![Cover](https://i.discogs.com/3bCYGLssQgYBSfbGShS7PLY8oOxLWVg9vwjX5ABdSsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzI5/ODgtMTMyNjE1ODM3/Ni5qcGVn.jpeg) | 2012 | Steve Aoki | Wonderland |
+| 36 |  | 2012-02-06 | Feed Me | Feed Me&#39;s Escape From Electric Mountain |
+| 12 |  | 2012-02-26 | Madeon | Icarus |
+| 62 |  | 2012-04-24 | The M Machine | Metropolis Pt. I |
+| 45 | ![Cover](https://i.discogs.com/uic94BPNq1RANwZU-rras5Wqj5S9oEwm8aHnGX9sX4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzkw/MDUtMTM1NDA3Mzc0/NS0xODc3LmpwZWc.jpeg) | 2012-06 | The Bloody Beetroots | Rocksteady |
+| 97 |  | 2012-06-11 | Wolfgang Gartner | Flexx |
+| 67 |  | 2012-07-27 | Italobrothers | My Life Is A Party |
+| 4 | ![Cover](https://i.discogs.com/VgDq4L-C9X1CiMw7sKJwyVx1ffxTN3Vq8dDWss7NnO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mjc1/ODctMTM0OTUyODE2/MS00MDg2LmpwZWc.jpeg) | 2012-09-14 | Swedish House Mafia | Don&#39;t You Worry Child |
+| 50 |  | 2012-10 | Calvin Harris | 96 Months |
+| 7 |  | 2012-10-02 | Zedd | Clarity |
+| 55 | ![Cover](https://i.discogs.com/nm3GaDWU7Rl0X8mPcHX9a4IJ3jip1QKr18SfQEpYa88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTEz/NzYtMTU1ODgxNzM5/OC00MjA4LmpwZWc.jpeg) | 2012-11 | Flo Rida | Wild Ones (feat. Sia) |
+| 65 | ![Cover](https://i.discogs.com/QON2_PaakpzpzS1d6-oOvncqMbQUaSef_GiuCz9I03s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDgw/NjUtMTM1MjEzNTIw/MS0zOTczLmpwZWc.jpeg) | 2012-11-05 | Zedd | Candyman |
+| 66 |  | 2012-11-28 | OVERWERK | After Hours |
+| 86 |  | 2013-01-16 | Feed Me | Death By Robot |
+| 74 | ![Cover](https://i.discogs.com/9gYAjY7MzurCKZTjIogOqiwekicHrTwWXHyrj2_hWfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDY4/NzctMTM3MzYzODU1/My0zMDA4LmpwZWc.jpeg) | 2013-02-19 | The M Machine | Metropolis Pt. II |
+| 72 | ![Cover](https://i.discogs.com/V1rSdhd9PK7B0xxMNe2i0X_flltmi2oAhSYXV-EFPos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ5/NTU5LTE2NDc1NjM0/MzItMjAxNS5wbmc.jpeg) | 2013-05-04 | Ecco2k &amp; Bladee | Amygdala - Single |
+| 25 |  | 2013-05-06 | Knife Party | Haunted House |
+| 18 | ![Cover](https://i.discogs.com/Kh5zsnqWaFxRtRkmQsy12BENWPbphlt_VinjObPBpls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDYw/MzgtMTM3NDE3ODA3/OS0zODM5LmpwZWc.jpeg) | 2013-07-23 | Selena Gomez | Stars Dance (Bonus Track Version) |
+| 82 |  | 2013-09-16 | The Bloody Beetroots | HIDE |
+| 89 | ![Cover](https://i.discogs.com/WRsGRvXAPV-qNHHOunTVGOMgmw5hjN1h-WVq6FXu-X0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDI1/ODktMTM4MDEyMzMx/MS00NTM5LmpwZWc.jpeg) | 2013-09-20 | Krewella | Get Wet |
+| 64 | ![Cover](https://i.discogs.com/M6LGVaAUXYjgcUuGj2aTsLC7eUP00gC1KITqU43Hf6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDE4/MTctMTM4MTgyMTMx/NC04MjkwLmpwZWc.jpeg) | 2013-10-14 | Feed Me | Calamari Tuesday |
+| 99 | ![Cover](https://i.discogs.com/h0s4I0OW_K6W4LQ3nh58lXcLK2Cb7E4vlaZaD0vRH74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDg2/NDktMTM5MTE3Njg5/NS03NDUwLmpwZWc.jpeg) | 2014-01-20 | Bassjackers | Crackin (Martin Garrix Edit) |
+| 91 | ![Cover](https://i.discogs.com/UbjgSIgFs5O3YxJC5wgsvRir2jdprSjoLm0GHL4E7x8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Nzgz/MDctMTQwMjQwNDIw/Mi0zMjIwLmpwZWc.jpeg) | 2014-07-29 | Martin Garrix | Scared To Be Lonely Remixes Vol. 1 |
+| 3 |  | 2014-10-31 | Calvin Harris | Motion |
+| 71 |  | 2014-12-13 | Savant | ZION |
+| 76 | ![Cover](https://i.discogs.com/6nUXddiU-eyfhcyzi_FTT2aEf6YDP3CZmjJIPZPwREw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTUw/NDU4LTE1ODQ2MTYx/OTEtMTA0My5qcGVn.jpeg) | 2015 | The Weeknd | Can&#39;t Feel My Face (Martin Garrix Remix) |
+| 85 | ![Cover](https://i.discogs.com/iA0-DbC9BzGkKpkSPAIPHWARzJK2KDqm9h1T3Sgrrx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAx/MzI4LTE1MjA4OTI3/NjEtOTQ4OS5qcGVn.jpeg) | 2015 | Panda Eyes | KIKO |
+| 100 | ![Cover](https://i.discogs.com/1I0_okrcFAX31fy0Yt1TVx_VhIOM8JYkKybxOQGz-vU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDE4/NTctMTQwMzA1MTY2/MS02MzY5LmpwZWc.jpeg) | 2015-01-06 | Infected Mushroom | Friends On Mushrooms, Vol. 1 |
+| 43 |  | 2015-01-19 | The Avener | The Wanderings of the Avener |
+| 28 | ![Cover](https://i.discogs.com/h45L79uiyyMnkeI3mgnZoINpS5-p_tvC227JPoHuNug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDEw/NjQtMTQzMTM4NzIy/OC04MjUzLmpwZWc.jpeg) | 2015-05-18 | Zedd | True Colors |
+| 41 | ![Cover](https://i.discogs.com/H7kdTnRmqwC5noTxv2IcpsX1Ff7442fQAvDsCy0idMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgx/MjA3LTE1OTM5ODA4/NTktNzc2My5qcGVn.jpeg) | 2015-09-04 | Aurora | Murder Song (5, 4, 3, 2, 1) |
+| 95 | ![Cover](https://i.discogs.com/sCT8FOooig5u4uD0ZQI0rUnv98bnATt5l2Wzu_4HXQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Njgw/MzItMTQ1MDUzNDk1/Ni03NzgyLmpwZWc.jpeg) | 2015-12-18 | Zara Larsson | Lush Life Remixes |
+| 19 | ![Cover](https://i.discogs.com/DGj-6z6nFPHA4Erlz30aWIZuK9PGboKuHqdzJ6JwQ3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTg4/MDM1LTE2MzQyMjQz/OTktNjkzOC5qcGVn.jpeg) | 2015-12-21 | Aurora | Giving In To The Love |
+| 53 | ![Cover](https://i.discogs.com/V1iMR9syLPwZH8EW9Z5Cgj-CnwaIsqwPh1uOMrmri6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzE2/NTMtMTQ1MTg5NzQ1/Ny0xODA2LmpwZWc.jpeg) | 2015-12-25 | Kshmr | Bazaar (Official Sunburn Goa 2015 Anthem) |
+| 88 | ![Cover](https://i.discogs.com/9H8pV08-bMmsKm1YhkQ2xxqkGxD0ShpwPo8bzBCA3bM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTg1/ODEtMTQ1OTI2MTI5/Mi0xMTA5LmpwZWc.jpeg) | 2016-03-25 | Seven Lions | Strangers |
+| 92 | ![Cover](https://i.discogs.com/ay_6NruBZFS_2dDqxg7IsDIxhcieGpIiRJ94k45j-14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MS0x/NTY4NDc5Mzg2LTQy/NjcuanBlZw.jpeg) | 2016-09-30 | Mr. Oizo | All Wet |
+| 58 | ![Cover](https://i.discogs.com/6Zl1EVm1iJkPrHSCk01bVQySE-gVb71mYWuYd9rhCqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzUx/MTU1LTE2NTY2ODQ2/NjYtODc5NS5qcGVn.jpeg) | 2016-12 | Alan Walker | Origins |
+| 14 | ![Cover](https://i.discogs.com/E5uZYYo4lz59AgmfnKd3aNKqeUH2ew3WQUkt3o92AWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjQ5/NDUtMTQ4NDQyMDQ1/NS0zMzc5LmpwZWc.jpeg) | 2016-12-19 | Timmy Trumpet | Oracle |
+| 2 | ![Cover](https://i.discogs.com/F3-6XZn6E4sTbEHh-FeSxtTfRpbur1ScEBwPjHVSeX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Njgw/ODAtMTQ4NDQ3NzA5/NC03OTc3LmpwZWc.jpeg) | 2017 | The Chainsmokers | Paris |
+| 96 | ![Cover](https://i.discogs.com/nYt9fCkhXjT5SalSriz3jQlkjnwBetqAQhPBfpP-aZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE2/MTM4LTE0OTUyMDQ4/NDYtNjIxOS5qcGVn.jpeg) | 2017-05-19 | Feed Me | Feed Me&#39;s Existential Crisis |
+| 27 | ![Cover](https://i.discogs.com/i_D2eSOPZEajZr4aGJ6J0yXn46KJ46pPMyrm1tq3Xcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjM2/MzM1LTE1MDE0MDc5/NjAtNzE4OS5qcGVn.jpeg) | 2017-07-21 | Charli XCX | BRAT |
+| 6 | ![Cover](https://i.discogs.com/VWgcQU6ZvbJhJBCZn7OyysG7Po9WZg50c5RDrJgp2Ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA3/NjgyLTE1ODk1MDM3/NTEtMTI5Ni5qcGVn.jpeg) | 2018 | Charli XCX | Girl, so confusing featuring lorde |
+| 11 | ![Cover](https://i.discogs.com/tSDizsF0MrFopBQTyj2Szz5QAtAvxMzCetVF7iZhLQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQx/MTE3LTE1MTYzODc0/OTctMjU4MS5qcGVn.jpeg) | 2018 | The Chainsmokers | Sick Boy |
+| 9 | ![Cover](https://i.discogs.com/6QGddIFqVN--MJ-kM025C2k1ERKFbG02ODh55i5xAok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDQw/NTgzLTE2NTkxNDM1/NTEtNTIyNC5qcGVn.jpeg) | 2018-08-17 | Aurora | A Potion For Love |
+| 16 | ![Cover](https://i.discogs.com/0mCDYCrD0NJFha_CbXat5HDtMoVXWqYIU7UuXfQHask/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM1/NTIxLTE1NDQ4NzU3/NTktNjYwNC5qcGVn.jpeg) | 2018-12-14 | Alan Walker | Different World |
+| 70 | ![Cover](https://i.discogs.com/bdXWX6R8ohEi6Wq3J_3ipJ_JQegYbITSa56T4Y-HBDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY5/NDU2LTE2MjczMzU4/NTQtNjUwNS5qcGVn.jpeg) | 2019-01-11 | Ran-D | Zombie (Remixes) |
+| 44 | ![Cover](https://i.discogs.com/OuO6OwZTd8ehDgoLztvPG0uC18Yh__y0Py2-54mZ_nE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDIw/MDc3LTE1NTM4NjQ1/NTctODQ0OS5qcGVn.jpeg) | 2019-03-29 | Dog Blood | Turn Off The Lights |
+| 32 | ![Cover](https://i.discogs.com/GDwyWOor8ffKKhiAXSNXA-dpetMC5xGkBiIwi5vIyGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM2/NDk4LTE1NzQ1MDcw/MTktMTQ4NC5qcGVn.jpeg) | 2019-04-05 | Aurora | The Seed |
+| 46 | ![Cover](https://i.discogs.com/pYK-Azb9MC3kw3q03_QYMxGcsTnL7wtU2u5lJBl2mlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU0/MTA2LTE1NzA4MTM3/NDItMzgyNC5qcGVn.jpeg) | 2019-10-11 | Throttle | Where U Are |
+| 22 | ![Cover](https://i.discogs.com/oP7cJKLNZ4qIk0j4VNuymtPbRSIW6EtUtIsUJXdX-9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTU0/MTAzLTE2NTUwNjY1/NTgtNzE5MC5qcGVn.jpeg) | 2019-11-28 | Aurora | Walking In The Air |
+| 83 | ![Cover](https://i.discogs.com/fjev3l5OXSwrXNn2HeDsOFOJ2Ma-wTJ8v7dSuJW0JPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzg5/MjczLTE2MjcwMzY2/OTItNzMzOS5qcGVn.jpeg) | 2020-09-22 | Cignature | ASSA |
+| 81 | ![Cover](https://i.discogs.com/oLEZkDw0ngMjAahW8hb2JMFkBI7hXqtMfns2pmlxSoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTAy/MjIzLTE2MTE2MDU0/MjQtODA0MC5qcGVn.jpeg) | 2021-01-25 | Bad Computer | Somewhere New |
+| 77 | ![Cover](https://i.discogs.com/iSulmIrkTTHZE1pqOtJHqhEQez4GVVL68GFgPFKiFeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQ1/OTg2LTE2NDc4Nzc0/MjktNzE3Ni5qcGVn.jpeg) | 2022-03-18 | Kungs | Club Azur |
+| 61 | ![Cover](https://i.discogs.com/-GJ5DHsfa3Cg71Up6Ju0VGZkqXz_xPgrSwb_olyg-c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjg0/NjA3LTE3MTU3NzIy/NzQtNjM1NS5qcGVn.jpeg) | 2022-09-23 | death&#39;s dynamic shroud | Messe de E-102 |
+| 79 | ![Cover](https://i.discogs.com/KRMqcu9crmaJBoIH1wawrRieDJ5WXw93ePAgiH7Uocc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzA0/NDk5LTE2NzMxODg1/MTgtMjA3OC5qcGVn.jpeg) | 2022-12-21 | Kygo | Thrill Of The Chase |
+| 63 | ![Cover](https://i.discogs.com/FTlL9JAFxw5Pdp6B2lEgcJ76N8fnp-Stl7gBNPfoVgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk0/NDU1LTE1MDA1ODY1/MjEtNTU1Ni5qcGVn.jpeg) | 2023-04-07 | Zara Larsson | Ain&#39;t My Fault (R3hab Remix) |
+| 90 | ![Cover](https://i.discogs.com/fKAXxvHw8U_9kLkDbZaQbeimxA4VIqesB-zjhH_vIEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjEx/NzY5LTE3MjUzOTI5/NjctNzY5Ni5qcGVn.jpeg) | 2024-09-20 | Zedd | Telos |
+| 38 | ![Cover](https://i.discogs.com/Nv5_W3Csrvoe4Q0gfWnuusHY_Xn7idXR_pNbxG-jhAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTYz/OTg1LTE3Mjg1ODMw/MjctODY3MS5wbmc.jpeg) | 2024-10-11 | Charli XCX | Brat and it’s completely different but also still brat |
+
+### Related genres
+
+- [house]({{ "/tags/house" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [dance]({{ "/tags/dance" | relative_url }})
+- [electro]({{ "/tags/electro" | relative_url }})
+- [edm]({{ "/tags/edm" | relative_url }})
+- [progressive house]({{ "/tags/progressive-house" | relative_url }})
+- [techno]({{ "/tags/techno" | relative_url }})
+- [electronica]({{ "/tags/electronica" | relative_url }})
+- [tech house]({{ "/tags/tech-house" | relative_url }})
+- [deep house]({{ "/tags/deep-house" | relative_url }})

@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-18T12:05:03.762Z
+permalink: tags/sound-collage
+title: sound collage
+---
+
+## sound collage
+
+Last updated: <time datetime="2025-10-18T12:05:03.762Z">Sat Oct 18 2025 15:05:03 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 14 |  | 1967 | John Fahey | Requia |
+| 64 | ![Cover](https://i.discogs.com/GviRqaj58EcBk09XxcRRHmtRvsAPq_FIP9BOkhqDogw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQ4/NTkxLTE2Njc1NjM1/MDAtOTU2NC5qcGVn.jpeg) | 1967 | Ulla | foam |
+| 10 | ![Cover](https://i.discogs.com/LfTP_RfK3ExA_HM0AbwG_ffx_w8AywGjB8QfTgzx8ZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA0/NTAtMTUxODU0MzEx/Mi0xNzk2Lm1wbw.jpeg) | 1973 | Dreamies | Auralgraphic Entertainment |
+| 22 | ![Cover](https://i.discogs.com/2LAF-ino3DjvO7gJk2mvhQOxG7WIsfgnZHkyHbGEt7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTY2/OTctMTQ0MjE5MzA3/MS02MzIwLmpwZWc.jpeg) | 1974 | John Lennon | Unfinished Music No. 1: Two Virgins |
+| 42 | ![Cover](https://i.discogs.com/U1Y1kqwKAwinBavM_NWUm52CTmAojdUJNN6H374PnTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTUy/MC0xNjk2ODg2OTQ4/LTIyNjEuanBlZw.jpeg) | 1979 | Ground Zero | Ground Zero |
+| 53 | ![Cover](https://i.discogs.com/N5Nf8yzsakoMB9AuCrVoxNYNUbzr0F23P_M_lPfCWh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU1/Mi0xNDAyMzU3NDY4/LTg5MDcuanBlZw.jpeg) | 1983-07-25 | Severed Heads | Since the Accident |
+| 17 |  | 1984 | Ghédalia Tazartès | Une éclipse totale de soleil |
+| 68 |  | 1987 | Negativland | Escape from Noise |
+| 44 | ![Cover](https://i.discogs.com/UREaIprgM4AdvVvrRtHAAAUspfPdL_4uG8WLIlXF-3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDEx/OC0xNTc0MDY3Njk2/LTkzMjYuanBlZw.jpeg) | 1989-10 | Negativland | Helter Stupid |
+| 73 | ![Cover](https://i.discogs.com/De0pdhmgQYDd_YUxo4PAl41owgx4uzWyiW_5WJiJiaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODQx/NTItMTMyODI5MTYy/My5qcGVn.jpeg) | 1991-11 | Стук бамбука в XI часов | Лёгкое дело холод |
+| 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5491b886a90c3a66aa898ff1a2f8e0d3.png) | 1993 | Deux Filles | Silence &amp; Wisdom (Remastered) |
+| 93 | ![Cover](https://i.discogs.com/3qWZR4kg0sX4dZIQ35Fgnpp4as9wN8kWR6r-hVaWf8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzc0/NDctMTM1NjQ3NTQ1/NS0zNzg4LmpwZWc.jpeg) | 1994 | Quinn | Quinn |
+| 25 | ![Cover](https://i.discogs.com/WHbsZuI1n0ouQcgVopY5cW9wv2FPiy2ViysH_Cocgv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjA5/OTMtMTU5MDgzODAw/MC03MTk0LmpwZWc.jpeg) | 1995 | THE BARNS | Engine |
+| 43 | ![Cover](https://i.discogs.com/libeYEjLuCDP7n0l9A4vAujmCBithrfRytcrJUjMKho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzUy/NzAtMTQxMjAwMzEy/Ni03MzQxLmpwZWc.jpeg) | 1995 | Suarez | Horrible |
+| 46 | ![Cover](https://i.discogs.com/grq5ywFSo6dRJnVLFG6qmkwswhu_4QV_cVIgFAL66DA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkx/NS0xMTg2ODI0MjAx/LmpwZWc.jpeg) | 1995-02 | Ryoji Ikeda | 1000 Fragments |
+| 57 | ![Cover](https://i.discogs.com/DZQInZTZ9uLRiCQzmb_f5rXpE9GP-4fUUMFFJ5gGzmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDg4/My0xNjgzMjAxMTM1/LTkzNDYucG5n.jpeg) | 1995-10-20 | Doopees | Doopee Time |
+| 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c378994800ba8ccee41b59a4602d03ac.png) | 1997-07-29 | Negativland | Dispepsi |
+| 8 | ![Cover](https://i.discogs.com/y4HOFXegl_7ffYYbs7QAz7fAxYfKVtgcp9w1DT2uPyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTgw/MS0wMDEuanBn.jpeg) | 1998-10 | Ryoji Ikeda | Time And Space |
+| 58 | ![Cover](https://i.discogs.com/w8TxvfUF2RYcjXHYwHRQefMUWS1XgnSBqp_AKFDKbig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTU1/NjItMTQ5NTg1NzM5/Mi02MDU2LmpwZWc.jpeg) | 1999-07-06 | The Music Tapes | 1st Imaginary Symphony for Nomad |
+| 30 | ![Cover](https://i.discogs.com/n8DGsfVl-qeEovBFCBSnokccsAoXMRNA24wtrWBTeKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTE2/OTctMTMyNDM2MjU5/OC5qcGVn.jpeg) | 2002-09 | Joan of Arc | In Rape Fantasy and Terror Sex We Trust |
+| 31 | ![Cover](https://i.discogs.com/_bl6ftKJEUGqrcgUywhN878K1y5dx7WlsgrScEzPpig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjk1/My0xMTcxMDU3NzY3/LmpwZWc.jpeg) | 2005-04-04 | Eric Zann | Ouroborindra |
+| 19 | ![Cover](https://i.discogs.com/UmL-vAW4OajEtO35b3lqVc6jVKh3z2vPrlMw0V8p4BU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjI3/My0xMTcxMDYwMDc0/LmpwZWc.jpeg) | 2005-04-14 | The Focus Group | Hey Let Loose Your Love |
+| 83 |  |  | SLAUSON MALONE 1 | EXCELSIOR |
+| 67 | ![Cover](https://i.discogs.com/z0AssTKkam7atCDxYnbBaY5E7CV4rDlliTh-yZ5Pxdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mjk1/MC0xMzUxOTAwNDE0/LTcyNjIuanBlZw.jpeg) | 2001 | Стук бамбука в XI часов | Легкое Дело Холод |
+| 92 | ![Cover](https://i.discogs.com/7QaouioxSMWJeUgwdXghuFAxnnNvX8blh7AnH0wawtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjY4/Mi0xMjUxNjIyMDE1/LmpwZWc.jpeg) | 2003-10-20 | The Books | The Lemon of Pink (Remastered) |
+| 45 |  | 2007 | Graham Lambkin | Salmon Run |
+| 47 |  | 2007 | Vibracathedral Orchestra | Wisdom Thunderbolt |
+| 70 | ![Cover](https://i.discogs.com/so0sfAgy8ihJUasOP7eScqY2GJekMjDUu3x11ZavBiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTU1/Mi0xMjY5NDA1MDQ4/LmpwZWc.jpeg) | 2007 | John Fahey | Requia And Other Compositions |
+| 18 |  | 2007-03-25 | The Focus Group | We Are All Pan&#39;s People |
+| 29 | ![Cover](https://i.discogs.com/h59kEWurdMSwhKFHu_5kaqYAuM1XBO8DXLvky-oOK24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDM2/ODAtMTI2NjQ0NTE2/NS5qcGVn.jpeg) | 2008 | Joe Frawley | The Hypnotist |
+| 2 |  | 2008-12-22 | Tracky Birthday | Animal Audition |
+| 7 | ![Cover](https://i.discogs.com/AULnxtsZqzezoKJojxmajPWDhzfZ1MwaMorrNfaLoDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE2/MjctMTU2MjYwNjIw/Ny00NzY0LnBuZw.jpeg) | 2009 | James Ferraro | GOD OF LONDON |
+| 6 | ![Cover](https://i.discogs.com/zADZ5D2xIWwpJ1TKnzeR1Zqve796JSvkq9NEEU73xeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDQy/MDUtMTYzNjUwMTM5/MC0zNjY4LnBuZw.jpeg) | 2009-02-02 | James Ferraro | Edward Flex Presents: Do You Believe In Hawaii? |
+| 51 |  | 2011 | Graham Lambkin | Amateur Doubles |
+| 32 | ![Cover](https://i.discogs.com/ivsoEHAzZXQZ9_86wLM2Qqle-3QB9NTOVJskWBd5gmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzI1/MDEtMTYyMDkxODQw/My04NzQ3LmpwZWc.jpeg) | 2011-04-11 | Monster Rally | Escape to the Cloud Forest |
+| 16 | ![Cover](https://i.discogs.com/YDbJVpMnCcFUYrFwPg6u8X05ZBzaGP7iiAAjyPBz2U4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTI0/NTEtMTM0Mjk1OTY1/OS01NDg0LmpwZWc.jpeg) | 2011-05-19 | Rimar | Higher Ground |
+| 85 |  | 2012-10-28 | Lil Ugly Mane | UNEVEN COMPROMISE |
+| 41 | ![Cover](https://i.discogs.com/lYthKw9sIRTknOL_8UdkZSvE7A-MbZTDd7kyiC9e0SU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzEw/MjktMTM1NDI1MTAw/Mi03NTIwLmpwZWc.jpeg) | 2012-11-07 | James Ferraro | i@sia |
+| 66 | ![Cover](https://i.discogs.com/jlS1Z7B1tbZI21qxbZLhRmAD2Oq7jPuUnyPaa3AmYzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDk5/OTM2LTE2NDcyMDMz/MDQtMjc0OC5qcGVn.jpeg) | 2013 | Broadcast | Study Series 04: Familiar Shapes and Noises |
+| 56 |  | 2013-04-30 | Dean Blunt | The Redeemer |
+| 69 | ![Cover](https://i.discogs.com/aQCFP5qtDRvfKPloAZgHlIOwkcSAw6oQ9hHAHW-1ZLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDYz/OTAtMTM3NDE4NDg3/Ny05ODgxLmpwZWc.jpeg) | 2013-08-20 | Earl Sweatshirt | Solace |
+| 33 |  | 2013-09-03 | Ahnnu | World Music |
+| 100 |  | 2014-01-01 | Ricky Eat Acid | Three Love Songs |
+| 21 | ![Cover](https://i.discogs.com/7lQOo6C6WQvtkalYhZz5QFDxkxTlqmWyhG-g2Nk9wms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTI0/OTItMTQwMzM2NDAw/My05NTc5LmpwZWc.jpeg) | 2014-06-24 | Circulatory System | Mosaics Within Mosaics |
+| 55 | ![Cover](https://i.discogs.com/wDWb12TttULXs4abqZP8V4lpFtAXJ1Rx0K0L9JimFrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjQx/NDQtMTQ2NTk1NTY5/Mi01NjExLmpwZWc.jpeg) | 2014-10-24 | Can | Tago Mago (2011 Remastered) |
+| 65 | ![Cover](https://i.discogs.com/CUdMsQhnAgSPIx_qfP3xKL3iCrluDjOb3GOdwAJ8bK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDA0/MjAtMTQxNDg0ODYw/NC0xNDI2LmpwZWc.jpeg) | 2014-11-04 | Dean Blunt | Black Is Beautiful |
+| 13 | ![Cover](https://i.discogs.com/Tu3KNowbpYEKb7a1jZ98JTliuVcOlhRw67WryJzrrmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzI3/ODMtMTU0OTk5NTU2/Mi03Mzk4LmpwZWc.jpeg) | 2015-04-07 | Ahnnu | Perception |
+| 12 | ![Cover](https://i.discogs.com/viwkI4SUWq24al3B8hz_1FUKfaKk3iauW7zv9yZVd5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjUw/NjMtMTQzMDU2NDgy/Ny00MzQ3LmpwZWc.jpeg) | 2015-04-29 | Lil Ugly Mane | THIRD SIDE OF TAPE |
+| 3 | ![Cover](https://i.discogs.com/3iMnWTmE37TKjOYmWfXwXpY2bBMhG04p_tA2-6wQ0EY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTMy/MjEtMTQzMTY4MjQ2/NC05Njk0LmdpZg.jpeg) | 2015-05-14 | Elysia Crampton | Moth &#x2F; Lake |
+| 9 | ![Cover](https://i.discogs.com/pJH7WnJhXXmkkm3SV0JAVx0bdw8SMwt1HcR4cPtTGHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDQw/NTUtMTQ0NzA4Njc3/MC0xMjcyLmpwZWc.jpeg) | 2015-11-13 | James Ferraro | Skid Row |
+| 61 | ![Cover](https://i.discogs.com/Ca3WQl3QkE30TVO14UflhB-RQbtwq4-D9tFajxOJeoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Nzkx/MDEtMTQ4OTc2NTky/MC0xOTI3LmpwZWc.jpeg) | 2017-02-24 | Children of Alice | Children of Alice |
+| 99 | ![Cover](https://i.discogs.com/yf8NhnSQVQAkb1ttZZi3jBu7_MKs0OGWoomhw2NT_F8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQy/NjAxLTE1MjUxNzYy/NjItMzI1OC5qcGVn.jpeg) | 2017-09-11 | Standing On The Corner | Red Burns |
+| 4 | ![Cover](https://i.discogs.com/V3dN74jTTo2Ia4fhGSTGg1z-MS88_BlfO_9RX8SMqgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU2/ODMwLTE1MjAxNDY3/OTQtODc4OC5wbmc.jpeg) | 2017-10-24 | Dj Lostboi | MUSIC FOR LANDINGS |
+| 1 | ![Cover](https://i.discogs.com/UWX6QqkQkOFBS3oEb69pu6MLtAHTjF5xgdumoyoSy0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkx/Nzg5LTE1MDk4Nzk0/NTEtNDg1NS5qcGVn.jpeg) | 2017-11-03 | Rabit | Les Fleurs Du Mal |
+| 81 | ![Cover](https://i.discogs.com/-1LlKKBwJYwCBGjjumN9lHLjQ5eFAScBK5eQnIOWohg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzgw/MjQ2LTE1NDE3OTky/MDgtOTI0Ny5qcGVn.jpeg) | 2018 | Tropical Fuck Storm | Satanic Slumber Party |
+| 88 | ![Cover](https://i.discogs.com/0uFlWOxWMDK_0QrKvVG9HOWWB7N0RuyynIUng65BS00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMw/Mzc5LTE1MTc5NzEx/NzItNzc3My5qcGVn.jpeg) | 2018-01-18 | 7038634357 | XPETAL |
+| 90 | ![Cover](https://i.discogs.com/pX0u98s08BL2OEKTLFkcuQTY5uhOn-TkpQtwRO7kFmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY5/MzAwLTE1Mjk2ODk3/ODAtNTM1OC5qcGVn.jpeg) | 2018-04-16 | 7038634357 | No Hate Is A Cold Star |
+| 72 | ![Cover](https://i.discogs.com/v3L6vzSKRGh5qIxbah3yjzHBbSYLiv3HEFRDHCHXBQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc2/NTkxLTE1MjM5MzU4/NDEtOTk3Ny5qcGVn.jpeg) | 2018-04-19 | Elysia Crampton | Elysia Crampton |
+| 63 | ![Cover](https://i.discogs.com/WScE5EonhlLhlWNTh3sti7-HUdhaVJVkIblYsvK3wRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NDg3LTE2ODc5ODM4/MTctMzMxNC5qcGVn.jpeg) | 2018-08-24 | FIRE-TOOLZ | Skinless X-1 |
+| 54 | ![Cover](https://i.discogs.com/GPKoEo7nYiciFfr3ZDllabOdUEK3ytMGPx0lbPBmvBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY5/NDYwLTE1NDM1MjE4/NjItNzkwNC5qcGVn.jpeg) | 2018-11-21 | Masakatsu Takagi | Kagayaki |
+| 76 | ![Cover](https://i.discogs.com/Ro1noAW268hlZgQTmv9br0tGH24EvxZAIYGPVoxDaTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYw/NDUxLTE2MTA0MDE3/NTUtMTExNy5qcGVn.jpeg) | 2019 | Death Grips | Gmail and the Restraining Orders |
+| 86 | ![Cover](https://i.discogs.com/qkOyeYPp1LD8RR7uIVg8tnUvuZzmETUoQrJAKJ-5txw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODIw/NTI5LTE1NjE4NTAw/NDktNjk1OS5qcGVn.jpeg) | 2019-04-18 | slauson malone | A Quiet Farwell, Twenty Sixteen to Twenty Eighteen |
+| 78 | ![Cover](https://i.discogs.com/2KEI_GkIGtSYL_bbKnYKDl5Aej-X60LwIANJRT4-ufc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTI3/NjczLTE2NDAzNTIx/NzAtOTYyMC5qcGVn.jpeg) | 2019-09-13 | JPEGMAFIA | All My Heroes Are Cornballs |
+| 96 | ![Cover](https://i.discogs.com/eSSBMgT2jms0z0aW9SI1VvjixK0jWUes_z2q2KYlNaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODM5/NzczLTE2NDk2NTg3/NzQtODQ1Mi5qcGVn.jpeg) | 2020 | slauson malone | A Quiet Farwell, 2016–2018 (Crater Speak) |
+| 94 | ![Cover](https://i.discogs.com/PCppIRdNjrxCiTnQe4sPeWqChBFO0kdpCHWYnW2yyZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg3/MzQ1LTE2OTE3NzE4/OTAtMjA2Ny5qcGVn.jpeg) | 2020-01-31 | draag me | I Am Gambling With My Life |
+| 62 | ![Cover](https://i.discogs.com/eRkc8K47L44Q2u6QSSrN2lWiZeZ767cZ5Cszggl7cE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTE4/NDUxLTE1OTI4ODA3/NzYtNTgzMC5qcGVn.jpeg) | 2020-04-08 | pink siifu | NEGRO |
+| 71 | ![Cover](https://i.discogs.com/o8yMu4rhQfIcSuYBXBGu6oGaRViNwdwyFXn2YlXPLk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzM1/MDEyLTE2MzIzODIy/OTEtNzQ1NS5qcGVn.jpeg) | 2020-05-22 | Cities Aviv | Gum |
+| 91 | ![Cover](https://i.discogs.com/isU-gQyRls1b3_2IJmy4CGDnSi6mijvXr6qYBvaVNTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODM1/MzYtMTM2MDYzNzQ4/NS04ODQwLmpwZWc.jpeg) | 2020-08-21 | Matmos | The Consuming Flame: Open Exercises in Group Form |
+| 98 | ![Cover](https://i.discogs.com/-I7p_pbGi_aNvJdbLio2DJ8vn-hClzzXk0uv2FU0V7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTUx/NzUzLTE2MDA3OTgz/MzItOTIyOS5qcGVn.jpeg) | 2020-09-16 | slauson malone | Vergangenheitsbewältigung (Crater Speak) |
+| 97 | ![Cover](https://i.discogs.com/t81xAK8RXYWCj4jhne6XO-efVTy4o2z_gW2WekjxHsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg3/ODcxLTE2MDY3Nzc0/MzYtNDM5OS5qcGVn.jpeg) | 2020-09-27 | Meitei | Kofū |
+| 60 | ![Cover](https://i.discogs.com/qE5uJFXl0_KAVg-xDeWw7vWDvW4-v2A2nykfDVtFn2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDAz/Nzc5LTE2MDU4OTA3/ODktODA1Mi5qcGVn.jpeg) | 2020-10-02 | Dj Lostboi | The Flash |
+| 87 | ![Cover](https://i.discogs.com/P9CYXlAwsjmAd_3gA1JU32Wscx7r7aoZ-SYnyNe0vfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTYz/MTAyLTE2MDA5ODgw/MDQtMTkzMC5qcGVn.jpeg) | 2020-10-30 | Oneohtrix Point Never | Magic Oneohtrix Point Never |
+| 11 | ![Cover](https://i.discogs.com/v2o7WOGlhF0hBQnCx3Ak6u0rkBmZmwzFC1v1CFHSKLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzYx/NjQwLTE2MTMwNDAy/MDktODI0Ni5qcGVn.jpeg) | 2021-02-05 | Lutto Lento | LEGENDO |
+| 5 | ![Cover](https://i.discogs.com/ge3i5OBKMA8IfEkc_kWK7GksPCYJYkj3uCqKaEIBrSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg0/MjE0LTE2MjY5MDc3/MDgtNjk1NC5qcGVn.jpeg) | 2021-04-09 | Claire Rousay | An Afternoon Whine |
+| 20 |  |  | ---__--___ | The Heart Pumps Kool-Aid |
+| 24 | ![Cover](https://i.discogs.com/kzyxN49ggatb22F2JukPgVnatRQuqgsRwuEcRkv0PQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA1/MzgwLTE2MzA3MTM0/NzgtNjk5OS5qcGVn.jpeg) | 2018-09-26 | Cities Aviv | Cafe Tom Tom |
+| 23 | ![Cover](https://i.discogs.com/4oWC7F-x3lyCi-xzB8VKCtfyimJAZflEaX4XuDJS6BA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTIw/NzkyLTE2MDAyMTcz/NDUtNjI5OS5qcGVn.jpeg) | 2020-09-18 | Varg | Crush |
+| 26 |  |  | JPEGMAFIA x Freaky | The 2nd Amendment |
+| 27 |  |  | カヒミ・カリィ | Trapeziste |
+| 35 | ![Cover](https://i.discogs.com/pWsbscFbX3vvUH7xajsr3Sx2qzPumRGrkfx_x-MdI60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MzU4/NTQtMTQ2NzY1Mjg0/MC01NjkwLmpwZWc.jpeg) | 2016-07-04 | Arca | Entrañas |
+| 36 | ![Cover](https://i.discogs.com/YmVDUDT8LaQoZ_iGfskFVcmSQXPo-rAsROQ9eD7SM9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwODg1/NzYtMTQ3NDU3MTEx/Ny0yODUzLmpwZWc.jpeg) | 2016-09-22 | The Caretaker | Everywhere at the end of time |
+| 79 | ![Cover](https://i.discogs.com/ge3i5OBKMA8IfEkc_kWK7GksPCYJYkj3uCqKaEIBrSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg0/MjE0LTE2MjY5MDc3/MDgtNjk1NC5qcGVn.jpeg) | 2021-04-09 | Claire Rousay | a softer focus |
+| 95 | ![Cover](https://i.discogs.com/jNEwLo6ZpAXlIkQvFlSL-dtScm9a0K2d27sCy6EpArA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzcx/ODQ1LTE2MTkwOTcy/NzctMzk3MC5qcGVn.jpeg) | 2021-04-19 | Meitei | Komachi |
+| 82 | ![Cover](https://i.discogs.com/-9sTia7iBS2t_0IoVADyAUkwkbSpYnFsSL0KPzBMScg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzI5/OTMzLTE2MzIzMzYy/NDktNDU2MC5wbmc.jpeg) | 2021-09-01 | Injury Reserve | By the Time I Get to Phoenix |
+| 15 | ![Cover](https://i.discogs.com/o4wnpre8lXAs34W0DYKN3y9t34dV3gqOKIg7xS1dUFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODM2/ODk4LTE2NzQzMDY0/NzUtMzExMi5qcGVn.jpeg) | 2022 | THE DARKEST FUTURE | FLORAL SHOPPE 2 |
+| 40 | ![Cover](https://i.discogs.com/XcOkoDylvZDyAyHLQMLbUtZbXuZ-anBt9GaWrB8ToVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTk4/Mjc4LTE2ODcxMTI5/NTEtNDI1MS5qcGVn.jpeg) | 2022-04-16 | lilien rosarian | every flower in my garden |
+| 39 | ![Cover](https://i.discogs.com/_eyvazQx6xpuEol5C71V6N0f24Gdz4jZPhjWBxJsiAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjIw/MTg0LTE2NTU1OTA4/NzItNzM1My5qcGVn.jpeg) | 2022-06-10 | Torus | 333 Mirrors |
+| 59 | ![Cover](https://i.discogs.com/mvpEOtA8iH9Z6tJ-NFD6yByl7pp7zF2C2p4dMj4gdWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDA0/Mzc5LTE2NzA1MDcy/MDctNDAzMS5qcGVn.jpeg) | 2022-08-16 | JOHNNASCUS | Sitting At The End Of The World |
+| 52 | ![Cover](https://i.discogs.com/_OD5ILI2Iu2Q3_BE_SEvbeGPi3UqMA0NREZd8VY67CA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMw/ODI1LTE2NjMzMjU3/MjAtNDExNC5qcGVn.jpeg) | 2022-09-16 | KAI WHISTON | Quiet As Kept, F.O.G. |
+| 49 | ![Cover](https://i.discogs.com/UZPuCq4pyS5z5laxiK8k7hzFR4R4EwzaeN6V68qbi2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTQ4/MTA3LTE2NjgzMjc4/OTAtNzM1Ny5qcGVn.jpeg) | 2022-11-09 | More Eaze | Strawberry Season |
+| 38 | ![Cover](https://i.discogs.com/IZGbY4M2qVbElOF-vM6dGeUHf5IMnH2GXOrhMgmgDT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njgx/ODE2LTE2ODA4ODYx/NTgtODc4NS5qcGVn.jpeg) | 2023-02-17 | TOXE | The Story Of Leonora (OST) |
+| 37 | ![Cover](https://i.discogs.com/ELHWNfeK1IO7SuhxDG0c20JWdKijIMm07kNaztezHCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTQ4/MjkxLTE2ODI5OTc1/ODAtNDkwMC5qcGVn.jpeg) | 2023-03-31 | argo nuff | pnging |
+| 34 | ![Cover](https://i.discogs.com/5xtdpsdZ_lbwXk9_fHW73lG0EeBJpj54rT0dnnqYiYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTY1/NTE4LTE2ODAzNjQy/OTMtMzgyMS5qcGVn.jpeg) | 2023-04-07 | FIRE-TOOLZ | I am upset because I see something that is not there. |
+| 28 | ![Cover](https://i.discogs.com/8IQz1IqrwbZHqevLdehsntMVfTydypQ_c4YXySM2vPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQ3/ODcxLTE2OTkyODg1/NDItNjc5NC5wbmc.jpeg) | 2023-10-20 | Klein | touched by an angel |
+| 77 | ![Cover](https://i.discogs.com/XuCX-FEjFoRmiT9jJnwMeX6rJHSfcs8CJBXB90SwqqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzI3/ODgxLTE2OTg0OTgx/NTktOTYxNC5qcGVn.jpeg) | 2023-10-20 | Evian Christ | Revanchist |
+| 80 | ![Cover](https://i.discogs.com/HHB9w_vhJ7plzs9vtFK40wpvqG9sefxD-7Yl-KSMHcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE1/MTM0LTE2OTgzODA0/MTAtNTU5MC5wbmc.jpeg) | 2023-10-23 | DeVon Hendryx | The Ghost~Pop Tape (Remastered + Original) |
+| 89 | ![Cover](https://i.discogs.com/jCR8wmn3M9TUjDPOw5AUx-_2iuM11U5KQ09BJVpfYKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MzQwLTE2OTU5OTg1/NzItOTU2Ny5qcGVn.jpeg) | 2024-02-29 | Oneohtrix Point Never | Again |
+| 75 | ![Cover](https://i.discogs.com/NYf0GapxkWBKfruk6H0LCiQ8fDqumBLX9hWSVYbgjMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTk0/NTk1LTE3MTQ5Mjky/OTMtMjIzMi5qcGVn.jpeg) | 2024-03-21 | Broadcast | Broadcast and the Focus Group Investigate Witch Cults of the Radio Age |
+| 50 | ![Cover](https://i.discogs.com/-oBN5O9u0MmHY5W_M6upJl1v3iVu9w59rPOqDrDa-lQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTAw/ODMxLTE3MjgxODM0/MDktOTk1Ni5qcGVn.jpeg) | 2024-10-04 | Public Service Broadcasting | The Last Flight |
+| 84 |  |  | Bird&#39;s Eye Batang | Flood Format |
+
+### Related genres
+
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [noise]({{ "/tags/noise" | relative_url }})
+- [dark ambient]({{ "/tags/dark-ambient" | relative_url }})
+- [idm]({{ "/tags/idm" | relative_url }})
+- [drone]({{ "/tags/drone" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [plunderphonics]({{ "/tags/plunderphonics" | relative_url }})
+- [electronica]({{ "/tags/electronica" | relative_url }})
+- [argentina]({{ "/tags/argentina" | relative_url }})

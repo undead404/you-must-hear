@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T07:56:56.323Z
+permalink: tags/garage-house
+title: garage house
+---
+
+## garage house
+
+Last updated: <time datetime="2025-10-22T07:56:56.323Z">Wed Oct 22 2025 10:56:56 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 13 |  |  | ドレミファモリタ | 東方Ｒ乃型 獅子企画音絵巻 |
+| 18 |  |  | 森田俊輔 | 東方Ｒ乃型 獅子企画音絵巻 |
+| 22 | ![Cover](https://i.discogs.com/1fbQT6ljie4YuOb78miN1zGR-pjtGAX4ZiysZazUnVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODEx/NjgtMTY2OTk1NTY2/MC05NDM0LmpwZWc.jpeg) | 1981 | DV8 | Strictly Tiefschwarz |
+| 31 | ![Cover](https://i.discogs.com/ontO7lgth6d-3qM8jeaGkrbAc9xwYnkCZvQuB1Mb7QI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA5/NDUtMTMwNjk0NjI0/NS5qcGVn.jpeg) | 1985 | Patti LaBelle | New Day |
+| 24 | ![Cover](https://i.discogs.com/IvlyNKlrpyD6jv_dfj1qupm6hU4otC-jqTkwVyK3A_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDcw/NDYtMTQzMDUwNzYz/OS01MDA5LmpwZWc.jpeg) | 1986 | Frankie Knuckles | House Masters: Frankie Knuckles |
+| 8 | ![Cover](https://i.discogs.com/vv1-pudF8ovMRdYbAE_cRb3Awn8SzUSDqdAmCIDsy2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTUx/LTEyNzEzNDAzMTAu/anBlZw.jpeg) | 1989 | Adeva | This is Garage |
+| 43 | ![Cover](https://i.discogs.com/5LuZHKXaBs0l45R1jNB9CWoXW5XT0X1t4mTCGWFqpls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzM2/My0xNjg2NTA5MDkw/LTY4NjEuanBlZw.jpeg) | 1989 | Grace Jones | Love on Top of Love (Killer Kiss) |
+| 3 | ![Cover](https://i.discogs.com/DeNKye3q59uEYaid1QC3YeaxBETq1UyJCYxzP1DBmWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcw/OS0xNTQ2NjQ0OTYy/LTc0ODEuanBlZw.jpeg) | 1990 | New Deep | Two People |
+| 4 | ![Cover](https://i.discogs.com/hFWmeb4bfISPOAJAOJmceNQZWtQInGnHq7j4oCKnJ9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzAx/LTEzNDAyNzEyNjIt/NDU3OC5qcGVn.jpeg) | 1991-08-06 | Frankie Knuckles | In the Mix, 1979 |
+| 1 | ![Cover](https://i.discogs.com/MFxbCPZMRb9dfWIuIYrfScvo7gjEQDglCJ3xtLocZS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI0/MS0xNTkxOTcxOTUx/LTQzNTcuanBlZw.jpeg) | 1992 | The Elements | For The Love Of People |
+| 48 | ![Cover](https://i.discogs.com/IVC6CbOvFP8EcIizsWCUIIzH36b2StrYY2e2hUiYCTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzg2/LTEyMzM3NzU3MjUu/anBlZw.jpeg) | 1992 | Sandy B | Feel Like Singin&#39; |
+| 41 | ![Cover](https://i.discogs.com/K8iQ5ss7EVQxJD0OEqrbSkmWfFS461CjFoqtZFzvpJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzQ4/LTE2MDAyMDE3Mjct/OTg4MS5qcGVn.jpeg) | 1992-03-24 | Ultra Naté | Rejoicing (Remixes) |
+| 27 | ![Cover](https://i.discogs.com/tCp68ZCyd-tvC9WU1qgrk5oe3m1djWuIMKQAfDGpTZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDMz/LTE0ODk2MTczOTgt/NjE3Ni5qcGVn.jpeg) | 1993 | The Messenger | Guide My Soul |
+| 32 | ![Cover](https://i.discogs.com/NDpOfKU3sRwU7-qlFIH1agN0Eu78dcPbyXZBag71gOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM0/MS0xMjQwMjYzNzUy/LmpwZWc.jpeg) | 1993 | Jeanie Tracy | It&#39;s My Time - EP |
+| 12 | ![Cover](https://i.discogs.com/kBamM8z7Lw1y6x9Jye-FRU1rJ-cSmmK_Kffr786CxNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjA3/LTEyMzkzNzM4MzQu/anBlZw.jpeg) | 1994 | Barbara Tucker | Express Yourself |
+| 35 | ![Cover](https://i.discogs.com/KkBLjlSWrVpgsUj8WDb92fXatLSsF4p8EZkIeCLIIOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzY2/LTE2MzcyMzA3NTkt/NzI5MS5qcGVn.jpeg) | 1994 | Suzi Carr | All Over Me - EP |
+| 49 | ![Cover](https://i.discogs.com/uB-wxv6X-0VEF7L9pGPYLh3buZ10kl7SuPO4T726uAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzMy/LTE0NTIyNjk2NTIt/MjIzNC5qcGVn.jpeg) | 1994 | Amii Stewart | Don&#39;t Stop |
+| 39 | ![Cover](https://i.discogs.com/5_2-d_flEyngt17pq5VrhZRKSlku7kYmeVeyqnsQuc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTQ4/OTEtMTI3NTA1NTc1/OC5qcGVn.jpeg) | 1994-04 | Ce Ce Peniston | Keep Givin&#39; Me Your Love |
+| 30 | ![Cover](https://i.discogs.com/ihdzxtP87oiY0VMQyyPVcPZjkR_vY-M2zpJ1aOBgAsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTgx/LTEyNjA3ODc0NTIu/anBlZw.jpeg) | 1995 | Annette Taylor | Put The Fire Out |
+| 36 | ![Cover](https://i.discogs.com/YyFuh-UplDiOsC4Zl5qUq4_7x0NeI_HHXOQhhtYs7Uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDM5/LTEyMTQ3NjM2Nzcu/anBlZw.jpeg) | 1995 | Kim English | Time For Love |
+| 45 |  | 1995 | Eve Gallagher | Woman Can Have It |
+| 2 | ![Cover](https://i.discogs.com/zBNu3l-rboJMrVxbITeUIKcmdwOswDQsqBbN8F3ixyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDEw/LTE0MTk0MTE4OTUt/NTY4Mi5qcGVn.jpeg) | 1996 | Michael Watford | This Is Garage |
+| 6 | ![Cover](https://i.discogs.com/F8ssf9m_6sO2nYLCYK8vpr5yZtR2k25bRojxaXTBDfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjkz/Ni0xNTc0NjgxNjU1/LTgzNTYuanBlZw.jpeg) | 1996 | Rapination &amp; Kym Mazelle | Love Me The Right Way &#39;96 |
+| 11 | ![Cover](https://i.discogs.com/zwhDaD1red747Dg5vcDHw7d9PQIcOq5Jkp0F7OTxJOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDgt/MTU1NDc1NTExOC00/NzkxLmpwZWc.jpeg) | 1996 | Spencer kincy | Live At Deep In The Flowers, Dallas |
+| 29 | ![Cover](https://i.discogs.com/8pfwp-jAr6pVQ0szCtlWGWbTwvrKgAPAQXu1rahVn3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzMz/LTE1OTU2NjMyMTct/ODEyMi5qcGVn.jpeg) | 1996 | Todd Terry | Feeling The Spirit |
+| 44 | ![Cover](https://i.discogs.com/-o1lPotaWTKvM8tnGUOfhCxOz7WSQ-I3mv_ZzxqKAIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjQ2/LTE0MzM5OTY5MDIt/MTA0My5qcGVn.jpeg) | 1996 | Larry Levan | Larry Levan Live at the Paradise Garage |
+| 25 | ![Cover](https://i.discogs.com/vUy7MMVb44pe96NPgUwn254OAuXi_XwkHB0Db0tPc4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Njc2/LTE2NTY3NTQyNzkt/MjQwMS5qcGVn.jpeg) | 1998 | K-Klass | Bad Boy |
+| 46 |  | 1998-08-10 | Martha Wash | Catch the Light |
+| 5 | ![Cover](https://i.discogs.com/gJNUQBxHVXYQoRcrLknOnySlFKQqHrKGLJojNd-J6aE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTE4/OC0xNTU0OTc1NjM0/LTQ3MzEuanBlZw.jpeg) | 2000 | Rosie Gaines | Closer Than Close(Unreleased Mixes) |
+| 37 | ![Cover](https://i.discogs.com/nih8sYRAMrR9sdjU6ELFesTL7k2O3PrzU6rumlWYPWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQ1/Ny0wMDEuanBn.jpeg) | 2000 | Annette Taylor | Faith |
+| 21 | ![Cover](https://i.discogs.com/onynI4KjS-0Wnhf-C3HKGuaBMZGyzWbd1Fdpbm2IEPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE1/NzcyLTE1NzAwMzA5/MzAtNDg1My5qcGVn.jpeg) | 2001 | DKMA | Everyday |
+| 26 | ![Cover](https://i.discogs.com/zlDcKRLJnxd45htcK4HEWpCaIEKbpGycF5SRpDUxsw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTY4/LTExNTYyMzA4OTcu/anBlZw.jpeg) | 2001-11-20 | Kerri Chandler and Dennis Ferrer | First Steps |
+| 14 | ![Cover](https://i.discogs.com/vTYXZF8jBAw2TZ7WWW4Dt0U4odzECk3oL7Wdht4bK1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDg0/NTktMTUyMTAxNTE0/OC0xMjAxLmpwZWc.jpeg) | 2002 | Todd Terry | Teez Reach |
+| 23 | ![Cover](https://i.discogs.com/o6dy13R-HViUFwlQomge4yvZNBBKsi7V6Lj0SVSoaYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Nzc0/LTE0Nzc1NzcyNTYt/Nzc3MS5qcGVn.jpeg) | 2002 | Cevin Fisher | My Sweet Love |
+| 55 | ![Cover](https://i.discogs.com/St4IJiX09VyBssRAyUY8Cjz_1SAHAo-RWBl2h_PeR7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MzA2/LTExNDg5MzQ4NjUu/anBlZw.jpeg) | 2002-07-29 | Kathy Brown | You Give Good Love |
+| 56 |  |  | 寺田創一 | Sounds from the Far East |
+| 77 |  | 1985 | Colonel Abrams | Colonel Abrams |
+| 60 | ![Cover](https://i.discogs.com/TnY6_h-zmf2n7ASJC5t197u-nGCujci9M9ckPWPUBQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDE4/MC0xMzUyNjU0ODI0/LTcxNjkuanBlZw.jpeg) | 1987-01-01 | Colonel Abrams | You and Me Equals Us |
+| 74 | ![Cover](https://i.discogs.com/uFpce3pz2p1HnW1JHzFsEbbG0B9vX_jeTluXuLUQBUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDI1/LTE1MTc0MjczNTAt/MjIyMy5qcGVn.jpeg) | 1991-08-06 | Ultra Naté | Blue Notes In The Basement |
+| 75 |  |  | M People Featuring Heather Small | Ultimate Collection The Remixes |
+| 76 |  |  | M People featuring Heather Small | Ultimate Collection The Remixes |
+| 100 |  | 1987 | Frankie Knuckles | Baby wants to ride &#x2F; your love |
+| 79 | ![Cover](https://i.discogs.com/_p08vSoMCEGW7fZkbNoGymQmMYCMLUk2Bc5QRmmFd_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjAw/Mi0xMTUzNTc2NTc5/LmpwZWc.jpeg) | 1990 | Adeva | The 12 Inch Mixes |
+| 58 |  | 1992 | 49ers | Playing With My Heart |
+| 59 | ![Cover](https://i.discogs.com/NDpOfKU3sRwU7-qlFIH1agN0Eu78dcPbyXZBag71gOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM0/MS0xMjQwMjYzNzUy/LmpwZWc.jpeg) | 1993 | Jeanie Tracy | It&#39;s My Time |
+| 97 | ![Cover](https://i.discogs.com/UF5GBsSlhOxfXicK8UWnV2PGeshpA_moPt9x7k2D4Pc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjI5/LTEyOTM3ODk5NTUu/anBlZw.jpeg) | 1993 | Smooth Touch | House of Love |
+| 66 | ![Cover](https://i.discogs.com/3nh_8-9XMHWNvhH--wtAAav4neUm8dmafuwtLCTKxj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTA1/LTE1MzMyMjQ4MzIt/MzE5Ny5qcGVn.jpeg) | 1994 | Ten City | THAT WAS THEN, THIS IS NOW |
+| 64 | ![Cover](https://i.discogs.com/fzF87qAm7dVPXfWllubmeFxq8qdXfp7LZ4UA_3ZU84s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTEy/LTExNTYwMzM5MzEu/anBlZw.jpeg) | 1995 | Nick Holder | Deep In The Underground |
+| 87 | ![Cover](https://i.discogs.com/xadDl-PL_zzZxtUpJ5MKF--6cE8LPvJk_Ggc3xk4taM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTM5/MzktMTY2MDU3OTA4/OS05ODA3LmpwZWc.jpeg) | 1995 | Swales | The House Vibe |
+| 89 | ![Cover](https://i.discogs.com/F1OfnGsluxx8Ri5PYAYrOJGuYz7u4M3JsAFuf-p35UU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDQx/LTEyNzMxNzU3NDIu/anBlZw.jpeg) | 1995 | Barbara Tucker | Stay Together |
+| 71 | ![Cover](https://i.discogs.com/I2z4PEDLvCi9WIXm-Bx1LKVUjBTEkQLPMyC5JI7jKS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjI4/LTEzMDk3NTA2MDIu/anBlZw.jpeg) | 1996 | Gemini | Live at Deep in the Flowers, Dallas |
+| 62 | ![Cover](https://i.discogs.com/ENDrBJXr0ymP0j4VwIMqamFHWdQOlB3FwRd-WE9nUmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Njk3/NC0xNDY3ODMwNzMw/LTU1MDQuanBlZw.jpeg) | 1996-05-06 | Euphony | Simple Scenes (EP) |
+| 91 | ![Cover](https://i.discogs.com/d7eX4EM3blST1fSTavZbbkdj-xzCP8qVgsDey-75ySs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzQy/Ny0xNTA4NTMwNzU1/LTI4NzIuanBlZw.jpeg) | 1997 | Colonel Abrams | Make A Difference |
+| 63 |  | 1997-09-09 | Club 69 | Style |
+| 67 | ![Cover](https://i.discogs.com/_I4HM5f2TqYcnLQbhRu1BtgXYIC7OEHxzNAMEb8TPWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODE2/ODMtMTMzNjE0ODY1/Ny5qcGVn.jpeg) | 1998 | Brenda K. Starr | So Good (12&quot; Club Collection) |
+| 69 |  | 1998 | Martha Wash | The Collection |
+| 95 | ![Cover](https://i.discogs.com/czJXElXXGdrxoJMKjfWDgwMU8NrTqzYSt2f2y56ml9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/OS0xMjQyMDgwNDE3/LmpwZWc.jpeg) | 1998 | Ultra Naté | Situation: Critical |
+| 93 |  | 1998-02-10 | Byron Stingily | The Purist |
+| 94 | ![Cover](https://i.discogs.com/58TM-7q2rwtofEFfxfSP23LPjfVcGu_US5Uf0WHsrN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzgw/LTAwMS5qcGc.jpeg) | 1998-07 | Barbara Tucker | Everybody Dance |
+| 80 | ![Cover](https://i.discogs.com/2G7m2gVtikFwN1Ox0QyFaVqO504lTBS63d2PzS84EHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTUw/My0xMjQzNzk3Njkz/LmpwZWc.jpeg) | 1999 | Funky Green Dogs | Reach for Me |
+| 84 |  | 1999 | Colonel Abrams | Best Of Colonel Abrams |
+| 81 |  | 1999-02-23 | Funky Green Dogs | Star |
+| 72 | ![Cover](https://i.discogs.com/lYveBcu5Do82dKFkbuRM_o82V2gmS8naraeAJnr35gg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDcz/LTE0NjUzOTA5MjYt/NTI3MS5qcGVn.jpeg) | 2000-04-17 | Larry Levan | Live at the Paradise Garage |
+| 38 | ![Cover](https://i.discogs.com/jZ0cdR13-oSjsAQJgHuhNCLqRa2zIS7Q4dQyzkzrL_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjQ2/NS0xMzQ4NDE0NTY4/LTExODMuanBlZw.jpeg) | 2003 | Byron Stingily | Knockin (Byron Stingily feat. EL) |
+| 7 |  | 2003-07-01 | Frou Frou | Breathe In (DJ Jimmy C. Remixes) |
+| 42 |  | 2004 | Larry Levan | The Definitive Salsoul Mixes &#39;78-&#39;83 |
+| 51 | ![Cover](https://i.discogs.com/8b6eD4oMTxQG24eslChTckmS1Dde5naq8oNS58UZWd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTE4/MzgtMTQ1OTEyNTE0/My03MDc4LmpwZWc.jpeg) | 2004 | Stratosphere | Stratosphere EP |
+| 96 | ![Cover](https://i.discogs.com/ekpgbvjZ97-r0zarr6U7HnagbyqSyqUCZez5TegM0uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzY4/My0xNjg5MTA4MzY1/LTc0ODQuanBlZw.jpeg) | 2004-11-22 | Blaze | Most Precious Love |
+| 73 | ![Cover](https://i.discogs.com/4NLuWwVU-Yuo-eR3Fd351LfamP3TtisIcX9XzCMYjX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjU1/Ni0xMzQwMTg3MTQ4/LTgzODEuanBlZw.jpeg) | 2005 | Carolyn Harding | Pick It Up (Remix) |
+| 86 | ![Cover](https://i.discogs.com/S6kFmZELxCbMD8Hw_uFH4aYe3wGNBter8W_krcSiKlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDAz/MjgxLTE1ODg0OTgx/NTktOTg3MC5qcGVn.jpeg) | 2005 | Steal Vybe | ESP (I Can See You) |
+| 9 | ![Cover](https://i.discogs.com/FSLE-npafvDFvWvMb02SR2RC5s9mfxqzDy6P8HY_nA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjIw/NS0xNjExMzExMjk2/LTYwNjAuanBlZw.jpeg) | 2005-04 | Danny Krivit | In the House |
+| 65 |  | 2006 | Various Artists | The Best Of New York&#39;s Underground House Scene |
+| 90 | ![Cover](https://i.discogs.com/jP7CsG2Zu6zRAz6bOTESMjTeaQc-rzS4L_F6xL61T4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTU5/MC0xMTcxMjI3NTc0/LmpwZWc.jpeg) | 2006 | Kim English | C&#39;est La Vie |
+| 17 | ![Cover](https://i.discogs.com/rkX86PkDsFjSquoKrf_GqqALsNH9Vcs7kJqN-zGpEhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTcy/OTItMTI4ODM0NjA1/Ni5qcGVn.jpeg) | 2006-07-10 | Thea Austin | House It Up |
+| 20 | ![Cover](https://i.discogs.com/T_LwmvCLAEZzxRjagtkHtZEpmdTmgLjlDT95RoLZ3OU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTI3/NzQtMTQxOTYxMTk2/NC02ODI1LmpwZWc.jpeg) | 2006-07-16 | Rosie Gaines | I Surrender - The Mixes |
+| 70 | ![Cover](https://i.discogs.com/I7l7oxkZPp4s_f0unxL7CEay2QDCnYOmQdtDiHmv1rU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzM1/MS0xMTYyNDYxMTgx/LmpwZWc.jpeg) | 2006-10-30 | Danny Byrd | Ministry Of Sound: Addicted To Bass Winter 2009 |
+| 57 | ![Cover](https://i.discogs.com/u7QQpRWtM-a3k4-UgW0taKQotHGlU5dmZ0SUss6Vudo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzE0/LTE1ODUwMDk4Mzct/MzU1Mi5qcGVn.jpeg) | 2007-02-12 | Ultra Naté | Party Girl (Turn Me Loose) [All Mixes] |
+| 19 | ![Cover](https://i.discogs.com/zygM1KMOiVcDVeH0jjfWfm5pvaKESuQOrGOENPWfXvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTMx/ODMtMTMxOTkwNjM3/OS5qcGVn.jpeg) | 2007-05-08 | Andrea Carnell | Malfunction - Part 2 Unreleased Remixes |
+| 85 |  | 2007-06-05 | Ultra Naté | Grime Silk Thunder |
+| 82 | ![Cover](https://i.discogs.com/teaAwHeZ43lHtvBR3is6HnDIKeF6lBY3ZFLJqN_Fb2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzg1/LTE1NTA3NTAwMjQt/Mjk3NS5qcGVn.jpeg) | 2007-07-17 | Ultra Naté | Grime, Silk &amp; Thunder |
+| 40 | ![Cover](https://i.discogs.com/T_LwmvCLAEZzxRjagtkHtZEpmdTmgLjlDT95RoLZ3OU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTI3/NzQtMTQxOTYxMTk2/NC02ODI1LmpwZWc.jpeg) | 2008-05 | Rosie Gaines | I Want U - The Mixes |
+| 10 | ![Cover](https://i.discogs.com/u1A8CFRLizg3YtbLw2ttwZUSm_ED8bm5KnC09EWA9Xw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDg5/MDItMTYyNjQ1OTcz/MS0zNDYwLmpwZWc.jpeg) | 2009 | Pepper Mashay | Freeway Of Love (The Remixes) |
+| 47 | ![Cover](https://i.discogs.com/a-kNXNc2VVcmXjAr0PDSOXMpp0tAPAhP4opACIqi3fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTEx/MjQ5LTE2MDE4ODAy/NTUtNTk5MS5qcGVn.jpeg) | 2009 | Taylor Dayne | Dance Vault Mixes - Say A Prayer |
+| 54 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 2009 | Various Artists | Kerri Chandler: The Remixes |
+| 99 | ![Cover](https://i.discogs.com/zr7XF5lMMsEJzZyJO7CyrjLQ3S2q0VShMNS-Vul3FFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDMz/NzgtMTI1MTMyNjIx/MC5qcGVn.jpeg) | 2009-08-14 | Dorian Concept | Trilingual Dance Sexperience |
+| 33 | ![Cover](https://i.discogs.com/McUrtNnZHwkw0OOtDpp2PofamVnVCpREweUstpf7Aqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQ0/NzEtMTU4NzMxNDQ0/NS01Njg0LmpwZWc.jpeg) | 2009-09-22 | Miguel Migs | A Taste Of Kandi Summer 2007 |
+| 53 | ![Cover](https://i.discogs.com/H0CPR5OsB7wfL5YVEn5xecY-Y8ya5NGu4vSrdzPsJG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjg1/MjYtMTI4ODkzMDAw/NS5qcGVn.jpeg) | 2010 | Octa Push | Baluba |
+| 68 | ![Cover](https://i.discogs.com/IAEr84-Ry9jHR4YshR8VbMSleYMOXf750ff5jTwZccc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njc2/MTEtMTI5NTczNjU4/Ni5qcGVn.jpeg) | 2010-10-12 | J-Wow | Spark |
+| 15 | ![Cover](https://i.discogs.com/5hNTbw1gMZM_Nte4F5RKQQzDXb-lglxONQ4kjOYTpaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzIz/ODctMTM0Njc4OTc2/My0zMDkxLmpwZWc.jpeg) | 2012 | Slow to Speak | Classic House Grooves: Dope Jams NYC |
+| 78 | ![Cover](https://i.discogs.com/lQcn0w_drg-Wh7KX5BK92x90DJOd2X_8kYMg9uMrUpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTkx/OTMtMTMzNzI3NjM5/MS03MjA2LmpwZWc.jpeg) | 2012-05-01 | Kuhrye-oo | Kuhrye-oo |
+| 50 | ![Cover](https://i.discogs.com/A7B0-Cv3ndvVb04h8pQZu8bRUFBV7YmlMpc7mH-Z1oI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Njk3/NjYtMTM2NTc3MTE5/Ni02MTU5LmpwZWc.jpeg) | 2012-06-04 | Arnold Jarvis | Just Say It |
+| 16 | ![Cover](https://i.discogs.com/tT7uQY2DcKmyUMz8KsyiP5KYWwqOZclj5oJtLKDhNZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzg2/NDAtMTQyNjg2MDI3/OC02MzgzLmpwZWc.jpeg) | 2015-03-16 | Soul Habitat | Raw Vibez EP |
+| 28 | ![Cover](https://i.discogs.com/rq4WtJTxfdeWs6pD6KLtZCBnE2LbwDGed_j8EJCz26w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/NTE5LTE1MjgzMjEw/NDAtMTI1Mi5qcGVn.jpeg) | 2018-05-25 | DJ Sprinkles; Hardrock Striker | Skylax House Explosion |
+| 61 | ![Cover](https://i.discogs.com/h0KMpDPvpMef9_RIRWYJ724BT-qUWBYnZ9S83TySFVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTI2/NDkyLTE1NjgzODA0/ODctNTU3Mi5qcGVn.jpeg) | 2018-11-30 | The House &amp; Garage Orchestra | Garage Classics |
+| 52 | ![Cover](https://i.discogs.com/II35T8bwu749soyhI_hq-1QqAtQ4S7dvEpeP_vTYbM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAw/MTg4LTE1NDQxMzAw/ODEtNjI3Mi5qcGVn.jpeg) | 2018-12-06 | Midnight City | Just Like That (Remixes) |
+| 83 | ![Cover](https://i.discogs.com/II35T8bwu749soyhI_hq-1QqAtQ4S7dvEpeP_vTYbM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAw/MTg4LTE1NDQxMzAw/ODEtNjI3Mi5qcGVn.jpeg) | 2018-12-06 | Midnight City | Just Like That |
+| 92 | ![Cover](https://i.discogs.com/jEMKTtQ5obH28JfAAHapAgbHFV4zVhDWP-KYJVMoep8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjE3/NTExLTE2MjcyMTE1/NDQtOTA5My5qcGVn.jpeg) | 2021-06-25 | wilo wilde | all these little words |
+| 98 | ![Cover](https://i.discogs.com/2ePGQ-FckYWYXw2NEZfe5TrOF_-hwXLk3rxILFd4UVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTY3/NjY2LTE2Nzk5NjM1/MDgtOTg2Mi5qcGVn.jpeg) | 2022-05-20 | DAZEGXD | vKiSS |
+| 88 | ![Cover](https://i.discogs.com/npBhvj-HgP9Ok2Weu6HaTKVrn9oL8AqJv6EqPL90YaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/NDE3LTE2NzM2MzQ1/MjEtNzI4NC5qcGVn.jpeg) | 2023-01-13 | Bishu | Dream of You |
+| 34 | ![Cover](https://i.discogs.com/8ZK-a1TAf0Rccs1ESe9t2SMGwxQD_EzT4lcJ90u6zC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTEy/Nzc3LTE2ODI3MDM1/NTMtMzUyNi5qcGVn.jpeg) | 2023-04-28 | Midnight City | Just Like That (feat. Raphaella) - EP |
+
+### Related genres
+
+- [house]({{ "/tags/house" | relative_url }})
+- [vocal house]({{ "/tags/vocal-house" | relative_url }})
+- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [deep house]({{ "/tags/deep-house" | relative_url }})
+- [soul]({{ "/tags/soul" | relative_url }})
+- [male vocalists]({{ "/tags/male-vocalists" | relative_url }})
+- [chicago house]({{ "/tags/chicago-house" | relative_url }})
+- [dance]({{ "/tags/dance" | relative_url }})
+- [dance-pop]({{ "/tags/dance-pop" | relative_url }})
+- [garage]({{ "/tags/garage" | relative_url }})

@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-25T08:07:47.171Z
+permalink: tags/spoken-word
+title: spoken word
+---
+
+## spoken word
+
+Last updated: <time datetime="2025-10-25T08:07:47.171Z">Sat Oct 25 2025 11:07:47 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 34 |  | 1968 | William Shatner | The Transformed Man |
+| 39 |  | 1970 | The Last Poets | The Last Poets |
+| 66 |  | 1970 | Gil Scott-Heron | Small Talk at 125th and Lenox |
+| 28 | ![Cover](https://i.discogs.com/k6KUBtb5cINLHrasJW5iH5gJpvhuvRzXUYlq7mYTD0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjk2/ODUtMTI2NDQ1NTYx/OC5qcGVn.jpeg) | 1978 | The Beach Boys | Holland (2000 Remaster) |
+| 43 |  | 1980 | Gil Scott-Heron | Real Eyes |
+| 33 |  | 1984 | Laurie Anderson | Mister Heartbreak |
+| 83 |  | 1984-09-01 | Black Flag | Family Man |
+| 46 | ![Cover](https://i.discogs.com/jXKOl7VL14kV_SoP-ML4jLTk8OhNq-gCBsDQM512Er0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ2/MC0xMzk2NjAyODA5/LTI2ODUuanBlZw.jpeg) | 1987-03-16 | Anne Clark | Hopeless Cases |
+| 75 | ![Cover](https://i.discogs.com/2Afqh_blMrqzZMPhmde_38ry_BQA0s6Ys8ZTSRrMuWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTE4/NS0xNTQ2OTg0Mzcy/LTIyMjYuanBlZw.jpeg) | 1991 | Daniel Johnston | Hi How Are You |
+| 47 | ![Cover](https://i.discogs.com/SxVC0cOM_n_GpBoT3ewyurQLj-ZoTrZnMeE5dG3iadY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTgz/My0xNTAwNTA3NTI1/LTc5NDgucG5n.jpeg) | 1991-01-25 | Anne Clark | Joined Up Writing&#x2F;The Sitting Room |
+| 7 |  | 1992 | Hector Zazou | Sahara Blue |
+| 29 |  | 1993 | Christian Death | The Path of Sorrows |
+| 57 |  | 1994 | Coil | The Angelic Conversation |
+| 89 | ![Cover](https://i.discogs.com/3qWZR4kg0sX4dZIQ35Fgnpp4as9wN8kWR6r-hVaWf8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzc0/NDctMTM1NjQ3NTQ1/NS0zNzg4LmpwZWc.jpeg) | 1994 | Quinn | Quinn |
+| 50 |  | 1997-04-08 | Chris Rock | Roll With The New |
+| 14 |  | 1998-09-22 | Henry Rollins | Think Tank |
+| 77 |  | 2000 | Current 93 | I Have a Special Plan for This World |
+| 58 | ![Cover](https://i.discogs.com/uDmulRf-Fr8WjQAhHDcWaJOVYQdZ4zCauQshyLYuyTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzM1/MTktMTM0NzY1MTA3/OC00NzM2LmpwZWc.jpeg) | 2000-05-02 | Carlos Mencia | Take a Joke America |
+| 54 |  | 2001-10-30 | Larry The Cable Guy | Lord, I Apologize |
+| 12 | ![Cover](https://i.discogs.com/XlOOf6IAjhVi12aJokoqjYshrLWUP7mtzqrCFk_FsMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Nzcx/OC0xMTcwNTE4MzUz/LmpwZWc.jpeg) | 2003 | Rozz Williams | Accept the Gift of Sin |
+| 64 | ![Cover](https://i.discogs.com/2ZlWTFZYFRuZDeIkU6KqQsmcHsZu1hfz9Cc8YLfMzyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTEx/MTgtMTIxNzM5MjI1/MC5qcGVn.jpeg) | 2004 | Mike Birbiglia | Bob &amp; Tom Comedy All-Stars Tour |
+| 94 |  | 2004-10-04 | William Shatner | Has Been |
+| 40 | ![Cover](https://i.discogs.com/NhdK12iE9bBw6i1RA_JL4W5Ew3njg4-6WsqNKXS9NL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEx/NzUtMTU0ODY4NTE3/Ni01MjkzLmpwZWc.jpeg) | 2006 | Brian Posehn | Nerd Rage |
+| 16 | ![Cover](https://i.discogs.com/fGr0ji-b3iAZhy5Ugg_cxA1d73ktSuoPoEVGS0LpjYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODI0/MzYtMTQ5NjA1NjU4/My0zNzM2LmpwZWc.jpeg) | 2006-01-17 | Marc Maron | Tickets Still Available |
+| 36 | ![Cover](https://i.discogs.com/JNMqB8EwsNmR9zyceUQLZS8kO73u3buG-Yy_1qnqbGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc5/ODExLTE0OTgzMDk1/MzktNDI5Mi5qcGVn.jpeg) | 2006-09-08 | The Whitest Kids U&#39; Know | The Whitest Kids U&#39; Know |
+| 31 | ![Cover](https://i.discogs.com/5cO5bJNzBmZ4gGsHrY3PboMU6Zvwvls3p7jJyi9yT70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODA5/MDgtMTI1NjQ4OTU1/NS5qcGVn.jpeg) | 2006-10-17 | Wanda Sykes | Sick &amp; Tired (Explicit) |
+| 4 |  | 2006-10-24 | Greg Giraldo | Good Day To Cross A River |
+| 21 |  | 2006-11-30 | John Most | Persephone |
+| 62 |  | 2007-01-30 | Maria Bamford | How To WIN! |
+| 68 |  | 2007-04-10 | Joe Rogan | Shiny Happy Jihad |
+| 67 | ![Cover](https://i.discogs.com/D9hRBt9dRjnufOEQnNDQlVN_T6-HJ5BaqXKcOD1Foaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDk1/NjAtMTM0MTI3NDY4/OS05NTcwLmpwZWc.jpeg) | 2007-11-13 | Ralphie May | Prime Cut |
+| 35 | ![Cover](https://i.discogs.com/48hNEA4YLFJUfw0FLq3ag8FmnhhaWCOmIs4IENCjnzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTg2/MDUtMTU5NTY0OTM5/NS02OTI2LmpwZWc.jpeg) | 2008 | La Dispute | Here, Hear IV |
+| 85 |  | 2008-05-12 | Dan Le Sac vs Scroobius Pip | Angles |
+| 74 |  | 2008-05-15 | La Dispute | Here, Hear. |
+| 2 |  | 2008-07-01 | John Most | Atelier |
+| 19 | ![Cover](https://i.discogs.com/S8WXyFNv94IoItgMI_NVshs_b5eBHH8EaMMt3mN6iXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjA2/MDUtMTU5MjQ0NjIw/NS05NjgyLmpwZWc.jpeg) | 2008-08-05 | Lewis Black | Anticipation |
+| 10 | ![Cover](https://i.discogs.com/deXVrQ4wRHPQI92vo2eeMYbLHLcN-Um_PayDPn1RQus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDY4/NDgtMTI1MTkxMzg5/Ny5qcGVn.jpeg) | 2009 | Robert Schimmel | Life Since Then |
+| 25 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2009 | Various Artists | Monty Python&#39;s Spamalot |
+| 6 | ![Cover](https://i.discogs.com/VS-RwpMyaa4Q5gbLqtNeEJs_rSsB1uHy8zxp9prKhgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzQ5/MDQtMTI5ODY1MDM4/MC5qcGVn.jpeg) | 2010-10-11 | Danny Byrd | Rave Digger Special Edition |
+| 65 |  | 2010-10-11 | Danny Byrd | Rave Digger |
+| 37 | ![Cover](https://i.discogs.com/x-asZh1q39zCP-9p2wzMx1ozGFNZEoI5TrprFS_x3rM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDA0/OTctMTQzMzAwOTcz/MC0xMzU2LmpwZWc.jpeg) | 2011-01-01 | Lou Reed &amp; Metallica | Lulu |
+| 59 |  | 2011-02-21 | Gil Scott-Heron and Jamie xx | We&#39;re New Here |
+| 49 |  | 2012-08-28 | Jim Gaffigan | Mr. Universe |
+| 27 |  | 2014-05-23 | Sleaford Mods | Divide And Exit |
+| 20 |  | 2014-10-07 | The World Is a Beautiful Place &amp; I Am No Longer Afraid to Die | Between Bodies |
+| 9 | ![Cover](https://i.discogs.com/p9GcYQ-iHILg-ZTnFcytmygc3YeGPMxt72nYWSQl2cM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzA5/MDItMTQzNzY3ODk1/Mi00OTA0LmpwZWc.jpeg) | 2015-07-24 | Sleaford Mods | Key Markets |
+| 1 | ![Cover](https://i.discogs.com/Tqo2rsDxko4hae5RUaeBMHN302t5W9GCCjLYqL-DIUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDY4/NDktMTQ0MzczODg2/NC0zNzc0LmpwZWc.jpeg) | 2015-10-09 | Protomartyr | The Agent Intellect |
+| 32 | ![Cover](https://i.discogs.com/fcRqv2Iz2mp2mYHYbevAusrqGIkfKDe9nu8IUxnoNqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njcx/NTktMTQ0ODQ2MjAw/NC0yMzY3LmpwZWc.jpeg) | 2015-12-17 | Boy Harsher | Tower |
+| 38 | ![Cover](https://i.discogs.com/6duFj9rS-RBOtq3jjSqatJP0ETyFo0Z4sUTkN4XWBIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mzcx/NjgtMTQ2OTgxNjE1/NS0zNzM1LmpwZWc.jpeg) | 2016-06-03 | Hotel Books | Run Wild, Stay Alive |
+| 73 |  |  | valeria almeida | Secrets |
+| 78 | ![Cover](https://i.discogs.com/j8hD-RkDRa1T0NjVr8BV9u4JNFSNQIumbPaOPO8a7UM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzg3/OC0xMzk0NTE0MTIx/LTg1MzcuanBlZw.jpeg) | 1978 | &quot;Blue&quot; Gene Tyranny | Out of the Blue (40th Anniversary Remaster) |
+| 79 | ![Cover](https://i.discogs.com/RyCVztW3_r62Cj5nxuMvt8iXaNc7s45u1kH8Tv5LoRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzYz/NC0xMjU4NzE1MDEx/LmpwZWc.jpeg) | 2001-03-06 | Jim Morrison | The Ultimate Collected Spoken Words 1967-1970 |
+| 86 | ![Cover](https://i.discogs.com/YSNPps4RnVxVsx8ZBYC5pqNVKNDoYlhQOIpx7JckLFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcw/MTctMTY4MDQ2MTE0/NC02MzczLmpwZWc.jpeg) | 2004 | John Lennon &amp; Yoko Ono | Testimony - The Life And Times Of John Lennon &quot;In His Own Words&quot; |
+| 80 | ![Cover](https://i.discogs.com/NZy0JEBn430vQYS1IY_9oAwNLlANvf8LH_UpESgz_fA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTk4/NjAtMTU4NDg5OTk1/Mi02MTQ2LmpwZWc.jpeg) | 2010 | The Doors | An American Prayer |
+| 55 | ![Cover](https://i.discogs.com/Ww548zgkjCcFTnAXMkvMoHjqypIeafu5cB59N5UTs9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTA5/MzgtMTI3Mjc0MDk1/OS5qcGVn.jpeg) | 2014 | Monty Python | Another Monty Python CD |
+| 69 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9adebc5083c0485fc844170ca2a3c7d3.png) | 2014 | William Shatner | William Shatner Has Been |
+| 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/09b3cd69a1c34a768c4cd1fb9ad37ffe.png) | 2015-11-13 | Kurt Cobain | Montage Of Heck: The Home Recordings |
+| 63 | ![Cover](https://i.discogs.com/5yCMcDXCd4633iDRNtUbPzqsvN3-Wz7ynRUykFv2PwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTE1/NTktMTQ1MjI5NDI3/OC02OTQxLmpwZWc.jpeg) | 2016-02-19 | Essaie Pas | Demain est une autre nuit |
+| 53 | ![Cover](https://i.discogs.com/_aSLw8NK2zzNpcMUpTiaAgx1vARdu-Tx5BFLT84Fvqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTU4/ODEtMTQ2MDgwODA3/Ni03OTkxLmpwZWc.jpeg) | 2016-04-16 | La Dispute | Tiny Dots |
+| 76 | ![Cover](https://i.discogs.com/R-9serpvCvynZRcGhcq7TvmCgJ5WYTwBu7-eifktuRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzY5/MjAtMTY1Njk3MDQ5/MC0yMjIyLmpwZWc.jpeg) | 2016-10-07 | Kate Tempest | Let Them Eat Chaos |
+| 91 | ![Cover](https://i.discogs.com/tf1jwG4k6A9FnxzJubrkvAyKUt669-broAczdX16EnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Nzkz/MTItMTQ4MTMwMzAy/OS00ODI1LmpwZWc.jpeg) | 2016-12-09 | Old Gray | slow burn |
+| 26 | ![Cover](https://i.discogs.com/O5hvOmcmB1hYNWTXxo2cPvET-s7kZlEy7ZToTMgvJ_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcx/ODk5LTE1OTYxMzI1/MTAtODY4OC5qcGVn.jpeg) | 2017 | George Lopez | E.M.C. |
+| 3 | ![Cover](https://i.discogs.com/F5u3_nK2vNmqte_e3k-y06kIJ-apf6sC4MR6uJuI4QQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTc3/OTkzLTE1MjU4ODE5/NTUtMTQxOS5qcGVn.jpeg) | 2017-01-25 | DØVES | 333 |
+| 71 | ![Cover](https://i.discogs.com/kkq0SslQ1N0NjHkRxHYX8DWzHxaIBHuPfsLy8H0_OEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTc0/MDItMTQ4Nzk5Mzg4/Ny0yNTAxLmpwZWc.jpeg) | 2017-02-17 | Sun Kil Moon | Common As Light And Love Are Red Valleys Of Blood |
+| 84 | ![Cover](https://i.discogs.com/JoZVb2H7_3j6Ske0cP4YJft1Tg6lXOvbnYcly72qJ5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/NjAwLTE0OTc1NjU0/MjctNjAwNi5qcGVn.jpeg) | 2017-06-23 | King Gizzard &amp; The Lizard Wizard | Murder of The Universe |
+| 48 | ![Cover](https://i.discogs.com/xuSVppFJcQt7l86_E-76yamanr_UbDO_YGUct2PFxPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAx/NzQ4LTE1MTE3NTU0/OTYtNzUxNi5qcGVn.jpeg) | 2017-09-14 | Gabriel Gundacker | Unofficial Wii Sports Soundtrack |
+| 44 | ![Cover](https://i.discogs.com/eNtQFBV1MlXOWWFUmilEpPId8OjyDAKwd1rxg9Msw1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTEz/MzEzLTE1MDY0Mjg2/NzQtNjQzNi5qcGVn.jpeg) | 2017-09-29 | Protomartyr | Relatives In Descent |
+| 17 | ![Cover](https://i.discogs.com/GFCJPFX6LuKdi63V7TUoQKC38KOxQZzEOzX9UtJAWII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDU0/MjA5LTE2NDAzMDky/NjEtNTg2MC5qcGVn.jpeg) | 2018 | Flatsound | Old Soil (Spoken Word Pieces from 2012-2013) |
+| 41 | ![Cover](https://i.discogs.com/Xn18npLEtYo9yBpHq7kW4Gv6QLFY_yGC7GIMokg0u24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzI4/OTY4LTE2NjY1Nzg2/MzItNzc0MS5qcGVn.jpeg) | 2018 | Thought Gang | Thought Gang |
+| 22 | ![Cover](https://i.discogs.com/CKBxMJOtIgccKg7oXy2XCB0lPieyFASjR67_jQeMP7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzE3/NTc2LTE2NjgwMTc3/OTctNjAwMC5qcGVn.jpeg) | 2018-03-16 | Essaie Pas | New Path |
+| 13 | ![Cover](https://i.discogs.com/_Bc1mkUYJdCpYfoboYyphyGYqF8lmXH3DEubmkoSqvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc2/NjM5LTE1Mzk4NjI0/MzAtNDUxMy5qcGVn.jpeg) | 2018-10-12 | Ambrose Akinmusire | Origami Harvest |
+| 23 | ![Cover](https://i.discogs.com/x03wEW6sG6FsjFcnlq_r7lWgAc5wwXNow75WsudS1nA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ5/MDk3LTE1NTMzMTA5/NTctMjU4My5qcGVn.jpeg) | 2019-03-22 | La Dispute | Panorama |
+| 93 | ![Cover](https://i.discogs.com/mjMjgpDlA2xjQCU61RDg0Quhm5ZHC5H7NXChwyGA7WQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc2/NTYzLTE1ODE0Njc2/OTAtOTY4NC5qcGVn.jpeg) | 2019-06-21 | BLACK MIDI | schlagenheim |
+| 51 | ![Cover](https://i.discogs.com/Yzcq94iW-x92brfbBj60VVR_lFpUCsNw1KAE1wIdFHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIw/MDE5LTE2NDM5Nzc1/NDktMjcwMi5qcGVn.jpeg) | 2019-08-16 | Dry Cleaning | Sweet Princess EP |
+| 98 | ![Cover](https://i.discogs.com/nLtbal4EIbNEbyU80XleyZuiUK8sZKiVpv6zRX8U8Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAz/MjY3LTE1OTkzODM2/NzEtODExMy5qcGVn.jpeg) | 2019-09-06 | Black Country, New Road | Sunglasses |
+| 24 | ![Cover](https://i.discogs.com/hnPGxuzE56o13uWY0IkFfmKmJ2pF_WdUg-ryM8LVndk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzA1/ODI4LTE1NzE4NjY3/MjUtODg1MS5qcGVn.jpeg) | 2019-10-25 | Dry Cleaning | Boundary Road Snacks and Drinks |
+| 97 | ![Cover](https://i.discogs.com/eSSBMgT2jms0z0aW9SI1VvjixK0jWUes_z2q2KYlNaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODM5/NzczLTE2NDk2NTg3/NzQtODQ1Mi5qcGVn.jpeg) | 2020 | slauson malone | A Quiet Farwell, 2016–2018 (Crater Speak) |
+| 8 | ![Cover](https://i.discogs.com/GXxE1mECku0cfJ2_nDHj9IOIGaWs5UXqF69bE0VDVXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI2/MTcwLTE2MDk3Mjc3/NjMtNDgyOC5qcGVn.jpeg) | 2020-07 | Protomartyr | Ultimate Success Today |
+| 30 | ![Cover](https://i.discogs.com/P88cRTfswuk2S6yAdXXtq7fFsHrJaKdHgyLy0TpW42M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg4/MjYwLTE1OTQxMjAy/OTAtMTEzNi5wbmc.jpeg) | 2020-07-06 | Dalai Lama | Inner World |
+| 92 | ![Cover](https://i.discogs.com/7mjjGuyIsoEJN5H8CC-gWdf-WWoTEGzKnPNENIWEVcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ3/NzczLTE2MDU5NTM2/OTAtMTQ3OC5qcGVn.jpeg) | 2020-11-13 | KATYA | Vampire Fitness |
+| 99 | ![Cover](https://i.discogs.com/Wz647USOfbdgUzMAv56KtS4L6HljPpbNCemrL5T9Edg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTUx/NzA2LTE2NDA1MzIz/NjctOTEzMC5qcGVn.jpeg) | 2021 | Black Country, New Road | For the first time |
+| 42 | ![Cover](https://i.discogs.com/funQ6qcRhsf-XF3vhY4NCxIIdw1PFGja-SdMkygynaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDcx/NzY3LTE2MTcyNDg1/NTktMzg1MC5qcGVn.jpeg) | 2021-04-02 | Dry Cleaning | New Long Leg |
+| 95 | ![Cover](https://i.discogs.com/rHPQqZhJ0XMQSnrsc2ei5eEHf1iM5NMXDkq9r8iR9Tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTc2/NDE4LTE2MjAwNjY1/NjEtNzQyMy5qcGVn.jpeg) | 2021-05-28 | BLACK MIDI | Cavalcade |
+| 88 | ![Cover](https://i.discogs.com/0riHMK3s080ETTdWs7I8oKGSftAVufkSJR9LssiuuT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTQ3/MDI2LTE3MjAyMDky/MTQtNTAzNS5qcGVn.jpeg) | 2021-07-16 | Laylow | L&#39;Étrange Histoire de Mr.Anderson |
+| 72 | ![Cover](https://i.discogs.com/MeqGWQGCH7zaLd4XmAkZy7cZO1sxewNcHaNYmv8z8KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTAx/NDcwLTE2NTc5NzA1/MTctNDUyOS5qcGVn.jpeg) | 2022-07-15 | Gilla Band | The Early Years |
+| 60 | ![Cover](https://i.discogs.com/eocE8b1AmxnIRYh2O7XgYVsQFo6CUdkWMGmdoTR3WeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjY1/Mzc5LTE2NjIyMDcw/ODktNTQ0Ny5qcGVn.jpeg) | 2022-08-17 | Gilla Band | Backwash |
+| 11 | ![Cover](https://i.discogs.com/N8Ipki0DAAgB2l-0AaOCTM1u_8Uh-6gjy2exW4nWic0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzM2/ODQ0LTE2NjYxMTk1/NTAtOTUxNS5wbmc.jpeg) | 2022-10-07 | Gilla Band | Most Normal |
+| 18 | ![Cover](https://i.discogs.com/NsT91btk7h7p_bZnhRh2OhlAiVMxe-kg3AARBcfkErU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYz/MjgyLTE2NjYxMjg5/NTAtMzczMS5qcGVn.jpeg) | 2022-10-21 | Dry Cleaning | Stumpwork |
+| 52 | ![Cover](https://i.discogs.com/e7p_lreQURPH_D_gWn_K4ZzyEiE1wWVdX-xmCALqSBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTU2/MTk0LTE2NjY4MTQ5/NzktMTk1Ni5qcGVn.jpeg) | 2022-10-28 | Moin | Paste |
+| 15 | ![Cover](https://i.discogs.com/CPk63GLyEJB5jB5LX9SGeXIr7dW6zO8wqGHQxdJdBFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA1/ODUyLTE2Njc5OTE3/NzktMzgwOC5qcGVn.jpeg) | 2022-11-11 | The Cool Greenhouse | Sod&#39;s Toastie |
+| 5 | ![Cover](https://i.discogs.com/mAXyH6sL4JOBm8HhTFF9IANd3xgjyau83t4232Xh8Xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzQ1/MTc3LTE2NzgyNzky/NDItNDM2My5qcGVn.jpeg) | 2023-03-10 | Sleaford Mods | UK GRIM |
+| 56 |  |  | algésico | ciclo de consolo egoísta em apreensão mútua |
+| 61 |  |  | Sinead O Brien | Kid Stuff |
+| 81 | ![Cover](https://i.discogs.com/_XdK2cMzzz0y4SItrQ06OXWvzpud02UkfqCCweZOOug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzAy/ODA0LTE1ODk0NDY1/NjUtODY1MS5qcGVn.jpeg) | 2019-11-08 | BLACK MIDI | 7-eleven |
+| 70 | ![Cover](https://i.discogs.com/759_Ino-odB7fN1BSNxEpSCkzwiOBSAQrn-WUznt_8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjIx/NDM4LTE1ODgzMDM4/MDctMjI4Ny5qcGVn.jpeg) | 2020-05-01 | Lord of the Isles | Whities 029 |
+| 82 | ![Cover](https://i.discogs.com/aFctGetPdUZGgg86LKBm9zMfXo9YTTxauTHD7p2GXaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTMz/Mzg0LTE0OTk1MzY5/OTgtNTc0NC5qcGVn.jpeg) | 2020-08-26 | Public Service Broadcasting | Every Valley |
+| 87 | ![Cover](https://i.discogs.com/zHoAhPghCRlXYc9XeIUNTlapu-EJxt-_gQcQbEuDlTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjk4/NDgyLTE2MDY4MjM2/NDktOTIyOC5qcGVn.jpeg) | 2020-12-04 | The Cool Greenhouse | Alexa! |
+| 90 | ![Cover](https://i.discogs.com/DBpnXDTDW-3dkhU_3l-5W0qJOnRdVdXJCOMxLhuPULw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODEz/NjkzLTE2NTc4MDQz/OTQtMjkxNi5qcGVn.jpeg) | 2022-07-15 | BLACK MIDI | Hellfire |
+| 45 | ![Cover](https://i.discogs.com/DaV85YEpUUdgDV2qIcYyUuJPN4ipa5TcNOJPEahtCSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTMy/OTM1LTE2Nzk2OTIx/NjAtOTc4OC5qcGVn.jpeg) | 2023-03-24 | Heartworms | A Comforting Notion |
+| 96 | ![Cover](https://i.discogs.com/d8VLCsvicvutzfi0IYMko61s2NvZZzo9VaHkY7CnkoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTAy/NTU0LTE2ODc4MTk4/OTEtNTI1Mi5qcGVn.jpeg) | 2023-04-24 | Bb trickz | Trickstar |
+
+### Related genres
+
+- [comedy]({{ "/tags/comedy" | relative_url }})
+- [stand-up]({{ "/tags/stand-up" | relative_url }})
+- [stand-up comedy]({{ "/tags/stand-up-comedy" | relative_url }})
+- [comedian]({{ "/tags/comedian" | relative_url }})
+- [humour]({{ "/tags/humour" | relative_url }})
+- [poetry]({{ "/tags/poetry" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [noise]({{ "/tags/noise" | relative_url }})
+- [french]({{ "/tags/french" | relative_url }})

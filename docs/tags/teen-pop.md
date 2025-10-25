@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-21T03:18:09.090Z
+permalink: tags/teen-pop
+title: teen pop
+---
+
+## teen pop
+
+Last updated: <time datetime="2025-10-21T03:18:09.090Z">Tue Oct 21 2025 06:18:09 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 30 | ![Cover](https://i.discogs.com/WJ9FbqJgqoANAJr1aw5uwfZ8N3QtuqxRFXD7MNTDcNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzA2/MzMtMTY5MDAyNTUz/Mi0xMTkzLmpwZWc.jpeg) | 1993-11-03 | Take That | Everything Changes (expanded edition) |
+| 37 |  | 1997-05-30 | *NSYNC | *NSYNC |
+| 18 | ![Cover](https://i.discogs.com/oNwcxMPt1oxOwhHVJbzZ8u76P0107oDlu41dSEzsMsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTUx/NS0xNTIyMzk3Njkz/LTQxOTEuanBlZw.jpeg) | 1999 | S Club | S Club |
+| 19 |  | 1999 | Supernova | Supernova |
+| 27 | ![Cover](https://i.discogs.com/s9hG6mVN90Dbdo_iyDqjGXluPAI8FjbkjKwk5LGWIYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODEx/MzMwLTE1OTg0NDg3/NTItMTgyMi5qcGVn.jpeg) | 1999 | Britney Spears | ...Baby One More Time (Digital 45) |
+| 32 | ![Cover](https://i.discogs.com/3SFr0aOHzQenOa5KQ0-cJpEDr8FH8IDcSZy1xfmuHnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTg0/NS0xMjA3MDIzNjA4/LmpwZWc.jpeg) | 1999 | Britney Spears | ...Baby One More Time (Deluxe Version) |
+| 1 |  | 1999-01-12 | Britney Spears | Baby One More Time |
+| 34 |  | 1999-10-04 | S Club 7 | S Club |
+| 21 | ![Cover](https://i.discogs.com/o--1iFQ4fN39wJ4WPS1Sl0JHiTcwEhBFLX2aFwZ-u1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTIw/OS0xNDc3NzQ4NDA1/LTc0OTEuanBlZw.jpeg) | 2000 | Britney Spears | Oops!...I Did It Again |
+| 48 |  | 2000-03-20 | *NSYNC | No Strings Attached |
+| 3 | ![Cover](https://i.discogs.com/kexJYdzJzi662flZuGsnCY7TshAuYUPqXaZSoiGG2kw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTMy/MDgtMTMwODg4NDEz/Mi5qcGVn.jpeg) | 2000-07-17 | Anahí | Una Rebelde en Solitario |
+| 23 | ![Cover](https://i.discogs.com/YTTh8uLWTm1jeKObKJk-u3AOjgAHJ5Q46OGOfB5M7hA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc3/NDItMTE5MDQxMTk4/MC5qcGVn.jpeg) | 2001 | S Club | Sunshine |
+| 43 | ![Cover](https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg) | 2001 | Various Artists | The Lizzie McGuire Movie (Original Motion Picture Soundtrack) |
+| 33 |  | 2001-05-25 | Jessica Simpson | Irresistible |
+| 36 |  | 2001-07-17 | Willa Ford | Willa Was Here |
+| 38 |  | 2002-07-23 | Ivete Sangalo | Se Eu Não Te Amasse Tanto Assim |
+| 17 | ![Cover](https://i.discogs.com/ArJle8etUFK4LlS8SfFzTDyIn37zCh7EU50Ng-SKxP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTM5/MDEtMTY2MDg1Mzg2/NS0zMzczLmpwZWc.jpeg) | 2002-12 | Wanessa Camargo | Wanessa Camargo |
+| 44 | ![Cover](https://i.discogs.com/ypqVM1R-K3pBz7CR5vqgGhOOfyZKs_ikCXMozMxBUjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODMz/NTktMTU3MTk0Mzc5/MS0xNjIyLmpwZWc.jpeg) | 2003 | Britney Spears | ...Baby One More Time |
+| 39 |  | 2004-09-15 | Hilary Duff | Hilary Duff |
+| 16 | ![Cover](https://i.discogs.com/VmzVxtJ8_WeVhkWkIS5xgaUj6k_8-EjLNdU8eyDi9aI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE0/ODktMTE4OTA5NTk3/MS5qcGVn.jpeg) | 2005 | RBD | Tour Generación RBD en Vivo (Live) |
+| 25 | ![Cover](https://i.discogs.com/F4ygkdcGE22gSfeaH_DBLJ6_uKClP8Z4tA72YGCeqP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDY5/NC0xNjc0OTAxNjYy/LTY3NjkuanBlZw.jpeg) | 2005-01-01 | Hilary Duff | Most Wanted |
+| 35 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dbb951c95f4218b0e84ad9bc6733e5c2.png) | 2005-10-16 | Brie Larson | Finally Out of P.E. |
+| 4 | ![Cover](https://i.discogs.com/7tHgQu-bOC3HG9VfSYULLiKrlu1Z--WUe1kpL8MDl6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDcx/NTQtMTMxOTExMDgz/Mi5qcGVn.jpeg) | 2006-09-09 | Jesse McCartney | Right Where You Want Me |
+| 7 |  | 2006-09-11 | Stephanie McIntosh | Tightrope |
+| 14 | ![Cover](https://i.discogs.com/DMld9tVE7403sb3SqI8MGinGabw7obtgHGHDl3RgcAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjc1/NzctMTQzOTU4Mjk4/MC00MDIzLmpwZWc.jpeg) | 2006-10-17 | JoJo | The High Road |
+| 26 |  | 2007-02-06 | Ashley Tisdale | Headstrong |
+| 47 |  | 2007-06-26 | Miley Cyrus | Meet Miley Cyrus |
+| 6 | ![Cover](https://i.discogs.com/SaaYsiQOQ77EcFiSnDYjkEQzQfUn_U990gFkrSz4v4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzcw/MDItMTY2MDI3OTgz/MS04MDA0LmpwZWc.jpeg) | 2007-09-22 | The Veronicas | Hook Me Up |
+| 29 | ![Cover](https://i.discogs.com/SaaYsiQOQ77EcFiSnDYjkEQzQfUn_U990gFkrSz4v4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzcw/MDItMTY2MDI3OTgz/MS04MDA0LmpwZWc.jpeg) | 2007-11-03 | The Veronicas | Hook Me Up [UK] |
+| 46 | ![Cover](https://i.discogs.com/9AumcTiLW3FhufiYt7TfmA8iBI_It508Q7CUxGs26Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDE2/NjUtMTY2OTE1MjU1/Ni0zMzI5LmpwZWc.jpeg) | 2008 | High School Musical | High School Musical 3: Senior Year |
+| 5 | ![Cover](https://i.discogs.com/pR6s-ugcY4K06wQunsDM4XD9GBj8WlM3RCu3aGsVJPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODA1/NjkxLTE2NjU2MjA3/NTQtNTk5Ni5qcGVn.jpeg) | 2009 | Miley Cyrus | Hannah Montana: The Movie Soundtrack |
+| 15 | ![Cover](https://i.discogs.com/3QRoh3BUzNHkSupabuZP4bYs5soVywcPQ3iate1P4Jo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjE0/ODYtMTQyODIwMTM5/MC05NjYxLmpwZWc.jpeg) | 2010-05-10 | Cast Of &#39;Camp Rock 2&#39; | Camp Rock 2: The Final Jam |
+| 13 | ![Cover](https://i.discogs.com/M2GM2dHC83zGXsCg0xgm5VeBnZZ5_AlQ-_tZA6IGsHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjA1/MTMtMTI5OTgxMjY5/MC5qcGVn.jpeg) | 2010-10-26 | Greyson Chance | Waiting Outside the Lines |
+| 9 | ![Cover](https://i.discogs.com/eQinddJQqWIdtUhuh-QkZakIYJIdVfrroWQOor-a4Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTk4/NTAtMTMwOTIxNDgw/MS5qcGVn.jpeg) | 2011-06-28 | Selena Gomez &amp; the Scene | When the Sun Goes Down |
+| 10 |  |  | Sandy e Junior | As Quatro Estações (Ao Vivo) |
+| 86 |  | 1963-06 | Lesley Gore | I&#39;ll Cry If I Want To |
+| 62 | ![Cover](https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg) | 1980-08 | Various Artists | High School Musical 2 (Original Soundtrack) |
+| 88 | ![Cover](https://i.discogs.com/Nwze8vxBuK6NRoNDUPNJgcP5cbAMGFHakDy9z7sX4hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDYx/NjgtMTIyNzQ0ODA0/OC5qcGVn.jpeg) | 1998-10 | Britney Spears | ...Baby One More Time (Digital Deluxe Version) |
+| 55 |  | 1999-04-28 | Backstreet Boys | Millennium |
+| 64 | ![Cover](https://i.discogs.com/QKG0MM3pypwGLcR_kbXJhXWyjqrTt9ZpMMddq4ovEJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE2/ODUtMTM5ODQ2NTc3/Mi00MzM4LmpwZWc.jpeg) | 2000-05-16 | Britney Spears | Oops!... I Did It Again |
+| 60 |  | 2003-08-05 | Belinda | Belinda |
+| 70 | ![Cover](https://i.discogs.com/0Kirz1kATF3x7sB0js5lq3RuK3jS7Mtu1QUBlxFwvok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTc5/Njg1LTE2ODQ5NTM4/MjAtODI5MS5qcGVn.jpeg) | 2006 | Paris Hilton | Paris (U.S. Standard Version) |
+| 54 | ![Cover](https://i.discogs.com/HLfmJhjBllE0vaPfzoKJRxoCObPM4yIfSPF4n82fiv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTEy/NjIzLTE2MDAwNzY0/OTUtMzMyNy5qcGVn.jpeg) | 2007 | Westlife | Coast to Coast (Expanded Edition) |
+| 73 | ![Cover](https://i.discogs.com/RvOzZRdmt4K5FIzLd6aimHNdqlR-xOezapGyoxzD_8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTQ4/ODQtMTI2NDg0OTI2/NS5qcGVn.jpeg) | 2007-07-10 | Aly &amp; AJ | Insomniatic |
+| 59 | ![Cover](https://i.discogs.com/flliLFUw-Un7ONzKdxx1C7NY8NNylQTYeBR-2pf5fPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTA0/MzEtMTM1OTMzNzQy/Ny02MjA0LmpwZWc.jpeg) | 2008 | Miley Cyrus | 7 Things - Single |
+| 61 |  | 2008-07-22 | Miley Cyrus | Breakout |
+| 67 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/29b5c581baca4b5b9aca9725f28dc4cd.png) | 2008-08-12 | Jonas Brothers | A Little Bit Longer |
+| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f7f0d72ab8f718fc68bc7febb7a6dc2e.png) | 2008-09-23 | Demi Lovato | Don&#39;t Forget |
+| 45 | ![Cover](https://i.discogs.com/vDXlV-6qdGa41eMeL11agB-J5A46q0Qb1sB6W2jBhOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDMw/Njg0LTE2NDQwMzMw/MzItNTM1Ni5qcGVn.jpeg) | 2011 | Restart | Geração Z |
+| 49 | ![Cover](https://i.discogs.com/-yu9c8jeVyjJR_75Kck0A3ODWo_bpq7lPMCW7iXaAQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzc4/MTUtMTU5NTgyNjIw/OS03NTA1LmpwZWc.jpeg) | 2011 | Selena Gomez &amp; the Scene | Love You Like a Love Song - Single |
+| 65 | ![Cover](https://i.discogs.com/fbMTrtV4BDzjpEz8HuAUh2PGVmxSlyNnNtqyXRAPWD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTY3/ODgtMTM5MjgyMTIy/NS05OTc1LmpwZWc.jpeg) | 2011-05-27 | Selena Gomez &amp; the Scene | Who Says - Single |
+| 81 | ![Cover](https://i.discogs.com/vWIqp25Bykih-30UodhL87M8mzqKfyiO3X4eZpA4ryk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzY0/MzEtMTU4OTAyMzIz/OS02MTkwLmpwZWc.jpeg) | 2011-08-02 | Victorious Cast | Victorious: Music From The Hit TV Show (feat. Victoria Justice) |
+| 72 |  | 2012-05-21 | The Wanted | Chasing the Sun |
+| 56 |  | 2012-06-25 | Big Time Rush | Windows Down |
+| 87 |  | 2012-09-13 | Carly Rae Jepsen | Kiss |
+| 12 | ![Cover](https://i.discogs.com/3OTclKZov1WLWINybYRPTU19esmAk1-yLzhJCuZLw5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTU0/NDUtMTQ1NDI3MjI3/NC04MTQyLmpwZWc.jpeg) | 2013 | Emma Blackery | Distance EP |
+| 95 | ![Cover](https://i.discogs.com/kXXvxTqUOdP7hLUmmuAi3JjwSDxqe2WvGk2MQKJwwhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODI2/OTYtMTM5MTEwNjk5/Ni05MjEzLmpwZWc.jpeg) | 2013-11-25 | One Direction | Midnight Memories (Deluxe) |
+| 41 | ![Cover](https://i.discogs.com/3ZLcLWJoCvSPfqGKsZHtTS31viNgnJRszxLv8BPoJUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjc1/OTQzLTE1NjI5MDM3/NzgtNzAwNC5qcGVn.jpeg) | 2013-12-03 | Britney Spears | Britney (Deluxe Version) |
+| 8 | ![Cover](https://i.discogs.com/c9qAV4m1j2kw1-ZmdNwuvY78IsGskAVSEIpsRbbXnEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDAw/NDAtMTQyNDYzMzcw/OC02Njk0LmpwZWc.jpeg) | 2014 | Selena Gomez | A Year Without Rain |
+| 52 | ![Cover](https://i.discogs.com/x7--BrPQvalQvCHehiqbEgx2qcG0IurVL94h5PimYWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzg0/Njc5LTE2MTU0MTYy/MzQtNjA2Ni5qcGVn.jpeg) | 2014 | Nick Jonas | Nick Jonas (Deluxe) |
+| 94 | ![Cover](https://i.discogs.com/dOs0Qikc474hDq7yAjlGQUbKoelstVo5VSm5_HJzptY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjY0/NTQtMTQ3OTc2Mjg2/MS05MDQ1LmpwZWc.jpeg) | 2014 | One Direction | Four (Deluxe) |
+| 28 | ![Cover](https://i.discogs.com/MLoqdKeWX30wJQa9lwRVuMP6GA-HelIcpMvGXDcGsfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjQ2/NTItMTQwMjAwNTcz/Mi01NjUzLmpwZWc.jpeg) | 2014-04-14 | The Vamps | Meet The Vamps (Deluxe) |
+| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3df6f03818e407948c9d5cc84e97fd36.png) | 2014-11-17 | One Direction | FOUR |
+| 92 | ![Cover](https://i.discogs.com/EK_buI-oPHTfZzd7ctz_Yk_heyRWzwUFmUw_zTN0Hb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjMy/ODItMTM3MzQ0MTAw/MS0yNzk0LmpwZWc.jpeg) | 2014-11-17 | One Direction | Take Me Home: Yearbook Edition |
+| 58 | ![Cover](https://i.discogs.com/bJo0bxzKbbr40t29oCndjq2_t7p-A0ZyCWEqzUm5Cys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDI1/NzAtMTQ0MTgzMDc4/Ny0zNjQyLmpwZWc.jpeg) | 2015-02-03 | Fifth Harmony | Reflection (Deluxe) |
+| 75 | ![Cover](https://i.discogs.com/EU018XWP6h9jlbHcI85lQS0-wwOvYa0LsnGYKYZ8vnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMjQy/MzQtMTQ5MzcwNjcz/OS0yNDMwLmpwZWc.jpeg) | 2015-11-19 | Shawn Mendes | Handwritten (Revisited) |
+| 66 | ![Cover](https://i.discogs.com/-B4noImnX5_sDcCIKe2ERFvaiclmJ9VWApVY25ONjKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTE4/MDctMTQ0NzI0OTE4/MS00ODU2LmpwZWc.jpeg) | 2015-11-27 | The Vamps | Wake Up (Deluxe) |
+| 74 | ![Cover](https://i.discogs.com/QJgRVOkeJr7fMsc0hoOwJUOooqEF14v0e9D3HXHIXg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzQy/MDQtMTQxMDM3NjY4/Ni04MzM3LmpwZWc.jpeg) | 2015-12-04 | Meghan Trainor | Title (Deluxe) |
+| 63 | ![Cover](https://i.discogs.com/t-j5My5KBHPz6RK1fqOX29sl2G0n7ay3youHll7GPYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDE3/MzAtMTQ4NDc3NzQ4/NS0xMzc5LmpwZWc.jpeg) | 2016-09-30 | Maggie Lindemann | Pretty Girl |
+| 53 | ![Cover](https://i.discogs.com/CN8P3_z5FkPWoynBq0NTePY77lFeYYB3MehlsK1HakA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjIw/MTc0LTE2MTc5ODI3/OTYtNDczNC5qcGVn.jpeg) | 2017 | Taylor Swift | Fearless (International Version) |
+| 77 | ![Cover](https://i.discogs.com/rtd5oArVNw0C2Zl67BqiPdVBaNuIJWFoDfz2zNAyHfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ1/NzgwLTE0OTk2MjUw/NTYtODEzMS5qcGVn.jpeg) | 2017-07-07 | Sabrina Carpenter | Why |
+| 78 | ![Cover](https://i.discogs.com/DDZ8E4eGhvcViTO3_B8gA_m-CttQxqr5YGRbOTpodko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY2/ODAxLTE1MDAwMjk4/NjUtNjc2MS5qcGVn.jpeg) | 2017-07-14 | The Vamps | Night &amp; Day (Night Edition) |
+| 80 | ![Cover](https://i.discogs.com/N0LHtHpF5w1pIhO2bKKa8wq-LKZD-7ptHbbYT9GopaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzk3/Mzc3LTE1NzM2OTMz/MDctNTU5MC5qcGVn.jpeg) | 2017-11-10 | Billie Eilish | &amp;burn (with Vince Staples) |
+| 76 | ![Cover](https://i.discogs.com/Ua1UBcRkwcNlKEREqC5v51N-8OtRCaUyjuX3XH0L5B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA2/NTg4LTE2MTIxNzI2/MzMtMzc3NC5qcGVn.jpeg) | 2018 | Billie Eilish | Six Feet Under (The Remixes) |
+| 79 | ![Cover](https://i.discogs.com/rQzS_SzjzJ-33PpWLG1WGjEyDKJvRj2wnZN3eWeOa7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzkw/MTUyLTE1ODE2NDcx/NzItODEyOS5qcGVn.jpeg) | 2018 | Billie Eilish | you should see me in a crown |
+| 90 | ![Cover](https://i.discogs.com/LyGV5QKBeNAgz-TnHqS3Cz_ru7PRtZt1G0Vq0bl7SnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM3/MjUyLTE1NDA5OTY4/ODAtODc2NC5qcGVn.jpeg) | 2018 | why don&#39;t we | 8 Letters |
+| 89 | ![Cover](https://i.discogs.com/h7pZTaudg6oZQDq7TmzTPCnOXAU-XhTEYo_tAYkVfLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM3/NzM2LTE1MjcwMjcx/ODEtMTg4Ni5qcGVn.jpeg) | 2018-05-25 | Shawn Mendes | Shawn Mendes (Deluxe) |
+| 22 | ![Cover](https://i.discogs.com/Grxf2-qu2AbGydlAcUMDrWuKCwL4LzXSC_lbNoXM6IM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzg5/MzY0LTE1MjI0MTcw/NzQtNTIwMi5qcGVn.jpeg) | 2018-10-16 | Billie Eilish | Bitches Broken Hearts - Single |
+| 57 | ![Cover](https://i.discogs.com/coDdyLMhMFj-PZ8RmUeh37-f8pCYnH7taRxmECTD3Co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzcz/OTUyLTE1MjIxNTE1/MTktNTQ1Mi5qcGVn.jpeg) | 2018-10-16 | Billie Eilish | Bellyache (Marian Hill Remix) |
+| 91 | ![Cover](https://i.discogs.com/KTyexO4SBgWeLZi_EZuAuIwyeBJp_w_Fw_lht_ZtxMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA2/NDk4LTE2MTIxNzIx/MjctMTE5NC5qcGVn.jpeg) | 2018-10-16 | Billie Eilish | Ocean Eyes (The Remixes) |
+| 98 | ![Cover](https://i.discogs.com/FBK7wHfB9qHwG-lWbwdO3nsoi-lfUbv5_KaDxjjyFC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjcw/NDUwLTE1Mzk3MjMz/NDItNjQwOS5qcGVn.jpeg) | 2018-10-16 | Billie Eilish | When The Party&#39;s Over |
+| 83 | ![Cover](https://i.discogs.com/YYZY-cOslHyyD3fITw1Y_cIlucAFglm6saYlltFuyJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEy/OTg0LTE1NDI0NTQ0/NjctNTIwMC5qcGVn.jpeg) | 2018-11-16 | Lennon Stella | Love, me |
+| 2 | ![Cover](https://i.discogs.com/6CoVSW_GhUvRWfYqwRZAvzdWB_kA2Epk8XeGd8vH3gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgw/OTUwLTE1NjA5NzM3/NDgtNTAwMC5qcGVn.jpeg) | 2019 | Billie Eilish | watch |
+| 20 | ![Cover](https://i.discogs.com/6CoVSW_GhUvRWfYqwRZAvzdWB_kA2Epk8XeGd8vH3gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgw/OTUwLTE1NjA5NzM3/NDgtNTAwMC5qcGVn.jpeg) | 2019 | Billie Eilish | bad guy |
+| 85 | ![Cover](https://i.discogs.com/PLPyGkVBrC8q7AVOxDnPS9eCwL3FsbgeQ7gq3jPbY3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE0/MDcxLTE1NTY4MTU1/MzItNDg0My5qcGVn.jpeg) | 2019-03-29 | Billie Eilish | WHEN I WAS OLDER (Music Inspired By The Film ROMA) |
+| 42 | ![Cover](https://i.discogs.com/ovInazl3P3tqNmmz9nmy7G-KpKwK6oNDEOOUZXoUWcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODUw/MjkxLTE1NjI1MzMy/MzYtMjY2NS5qcGVn.jpeg) | 2019-10-16 | Billie Eilish | Ocean Eyes (Astronomyy Edit) |
+| 68 | ![Cover](https://i.discogs.com/pajxTWKjequ5SqmVR1xfx2wNTtZdg_wXTrt_JryzDM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTA0/MDc1LTE1NzU4ODY5/MzMtNjIzOS5qcGVn.jpeg) | 2019-10-16 | Billie Eilish | MyBoi (TroyBoi Remix) |
+| 69 | ![Cover](https://i.discogs.com/coDdyLMhMFj-PZ8RmUeh37-f8pCYnH7taRxmECTD3Co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzcz/OTUyLTE1MjIxNTE1/MTktNTQ1Mi5qcGVn.jpeg) | 2019-10-16 | Billie Eilish | COPYCAT (Sofi Tukker Remix) |
+| 24 | ![Cover](https://i.discogs.com/qdYpcPN_VnBMYjV0kdPxtBVjbxrp1eAQ_-VIC2GG78o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjA2/ODUxLTE2MTc4OTQw/MTQtNjI1OS5qcGVn.jpeg) | 2021-03-17 | Weeekly | We Play - EP |
+| 71 | ![Cover](https://i.discogs.com/pWqmWxGpOX16GIlkJeWYQ_iDOjzXbS004TrImfR4kqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjU1/OTY2LTE2NDE2NjMy/MDgtMTcxMS5qcGVn.jpeg) | 2021-05-21 | Olivia Rodrigo | SOUR |
+| 11 | ![Cover](https://i.discogs.com/py_n4Oazysq94ZMMYeHPUpoq8gac05s7dpuQNndXq3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDYz/MDk2LTE2MjMxNTc0/NDQtODAyNS5qcGVn.jpeg) | 2021-06-02 | Billie Eilish | Billie Eilish |
+| 51 | ![Cover](https://i.discogs.com/6CoVSW_GhUvRWfYqwRZAvzdWB_kA2Epk8XeGd8vH3gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzgw/OTUwLTE1NjA5NzM3/NDgtNTAwMC5qcGVn.jpeg) | 2021-06-02 | Billie Eilish | lovely |
+| 82 | ![Cover](https://i.discogs.com/p5R_cd5m589QEjrExGukg-HLl9SeqPjb_7tR3C1VDPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIy/NjQ5LTE2MTk3Njg4/MzItOTIzNC5qcGVn.jpeg) | 2021-06-02 | Billie Eilish | Wish You Were Gay |
+| 93 | ![Cover](https://i.discogs.com/dq7CEvoVn6mSk8N1kPh-u6OK2mjJbw3-aabrHUsaPeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODUz/OTQwLTE1NjI2MDkx/OTEtODIxMS5wbmc.jpeg) | 2021-06-02 | Billie Eilish | Ocean Eyes |
+| 97 | ![Cover](https://i.discogs.com/06bqDmEYZeEQcmNbT4ylNc-OWmod0G824HzS8hyYq5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQz/MDExLTE1NDg4MDg1/NDAtMjkwNC5qcGVn.jpeg) | 2021-06-02 | Billie Eilish | bury a friend |
+| 99 | ![Cover](https://i.discogs.com/p5R_cd5m589QEjrExGukg-HLl9SeqPjb_7tR3C1VDPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIy/NjQ5LTE2MTk3Njg4/MzItOTIzNC5qcGVn.jpeg) | 2021-06-02 | Billie Eilish | come out and play |
+| 100 | ![Cover](https://i.discogs.com/p5R_cd5m589QEjrExGukg-HLl9SeqPjb_7tR3C1VDPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIy/NjQ5LTE2MTk3Njg4/MzItOTIzNC5qcGVn.jpeg) | 2021-06-02 | Billie Eilish | Six Feet Under |
+| 84 | ![Cover](https://i.discogs.com/mrdggEQW0kBUGjSpJGaWjBd1iYomN63hXqZ-zMzSzbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjY1/NjEwLTE2MjgwODQ3/NTEtODA0NC5qcGVn.jpeg) | 2021-07-30 | Billie Eilish | bad guy (with Justin Bieber) |
+| 50 | ![Cover](https://i.discogs.com/6X_TbuvV2BrK64wq90LquundIyFXA2tllpxKaMzTgIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk5/Nzc2LTE1NTkyOTMw/MTctMjcyMi5qcGVn.jpeg) | 2023 | Miley Cyrus | See You Again |
+| 96 | ![Cover](https://i.discogs.com/tycClN8s9QKk_lCzM9xwJS7wSpOyxsbQx55STgob9c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEw/MjUzLTE2OTIzODIx/NzItNTYwNi5qcGVn.jpeg) | 2023-08-18 | Addison Rae | AR |
+
+### Related genres
+
+- [pop]({{ "/tags/pop" | relative_url }})
+- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [pop rock]({{ "/tags/pop-rock" | relative_url }})
+- [dance]({{ "/tags/dance" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [soundtrack]({{ "/tags/soundtrack" | relative_url }})
+- [latin pop]({{ "/tags/latin-pop" | relative_url }})
+- [rnb]({{ "/tags/rnb" | relative_url }})
+- [dance-pop]({{ "/tags/dance-pop" | relative_url }})
+- [electropop]({{ "/tags/electropop" | relative_url }})

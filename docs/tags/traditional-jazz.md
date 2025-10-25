@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T09:00:47.929Z
+permalink: tags/traditional-jazz
+title: traditional jazz
+---
+
+## traditional jazz
+
+Last updated: <time datetime="2025-10-22T09:00:47.929Z">Wed Oct 22 2025 12:00:47 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 66 |  |  | The Civil War O.S.T. | The Civil War O.S.T. |
+| 1 | ![Cover](https://i.discogs.com/vq5bznw3b58dsA0DX2k7gbrakCERuejZH-7R6Edomw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzA3/NTMtMTU0ODg2NTMw/Ni05MDUyLmpwZWc.jpeg) | 1979 | Terry Lightfoot | Tradition In Colour |
+| 5 | ![Cover](https://i.discogs.com/QpIa2Wbu6io7U_n2V6yqhUgh3RhuoTmFACtx4WgreoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzU0/MDUtMTYzMjE3NjUw/NC01MDU0LmpwZWc.jpeg) | 1985 | Rod Mason | Live |
+| 3 | ![Cover](https://i.discogs.com/gxkBLYftBjgL0HlT1Ayn3lwsbbbAZFudyjh7q9kstgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjUz/OTYtMTQ0NTQxMjUx/OS05ODQ0LmpwZWc.jpeg) | 1986-03-01 | Jelly Roll Morton | Dr Jazz |
+| 6 |  |  | Monty Sunshine&#39;s Jazz Band | Live at the BP Studienhaus |
+| 7 |  |  | George Wettling, Muggsy Spanier, Eddie Condon, Jack Teagarden | Dixieland |
+| 10 | ![Cover](https://i.discogs.com/TZ9chYkRZ8qm-qwAHwfpGiqJ0bSVfdDzL3_cPowcebY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg4/MDMtMTM0Mjc5ODQ3/OS05MTU1LmpwZWc.jpeg) | 1927-02-25 | Miff Mole&#39;s Molers | Alexander&#39;s Ragtime Band |
+| 11 |  |  | Max Collie&#39;s Rhythm Aces | Frontline &#x2F; Backline |
+| 12 |  |  | Mr. Acker Bilk And His Paramount Jazz Band | In Holland |
+| 16 |  |  | State Street Ramblers | State Street Ramblers, Vol. 1 (1927-1931) |
+| 30 |  |  | State Street Ramblers | State Street Ramblers Vol. 1 (1927-1931) |
+| 32 |  |  | Sid Phillips &amp; His Band | Hors D&#39;Oeuvres |
+| 33 |  |  | Ken Colyer | Vintage Ken Colyer |
+| 46 |  |  | Alex Welsh | Bones For The King |
+| 70 |  |  | Various Artists - Shanachie Records | Jazz The World Forgot Volume 1 |
+| 75 |  |  | Luis Russell | The Luis Russell Story |
+| 90 |  |  | Preservation Hall Hot 4 with Duke Dejan | Preservation Hall Hot 4 With Duke Dejan |
+| 61 | ![Cover](https://i.discogs.com/F0N0X6lnOR2nB8VxfWhk8HIgCY7WmiPb27bGFKn_kWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI5/MjAxLTE1MTQzMzY5/NTgtMjAwOS5qcGVn.jpeg) | 1938 | Johnny Dodds And His Chicago Boys | King of the Blues Clarinet 1923 - 1940 |
+| 92 | ![Cover](https://i.discogs.com/CFFfRnxZXAMMfQxLLNEUyqqM_o4j-9zK_5whdJYdVEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTMz/ODQtMTQzNTgzNzM0/MS03MTc3LmpwZWc.jpeg) | 1955 | Louis Armstrong | Gut Bucket Blues |
+| 13 | ![Cover](https://i.discogs.com/drMRfazqskCXu8HokQofo5vwn2ItuRoP3DGgf-zph-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDA3/NDYtMTQ3NDQ3MTgx/NS00MjUxLmpwZWc.jpeg) | 1956 | Firehouse Five Plus Two | Greatest Jazz Masters |
+| 28 | ![Cover](https://i.discogs.com/3bb-W2wItyZegj8eJqqQiatg4AaXEdv0QUXsbFMJxQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDIy/OTE1LTE2Mjg5NzQx/NjQtNjY3Mi5qcGVn.jpeg) | 1961 | The Temperance Seven | You&#39;re Driving Me Crazy - The Early Hits |
+| 37 | ![Cover](https://i.discogs.com/O2RGwMuiUlGlD3uAj9KYZMNjkT5IQ8aytGwrNh3ZMyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Nzgz/MzgtMTQyODU4MjI0/MS0yNzMwLm1wbw.jpeg) | 1961 | Ken Colyer&#39;s Jazzmen | The Best Of British Jazz From The BBC Jazz Club Volume 1 |
+| 59 | ![Cover](https://i.discogs.com/rlIZTmNuGr39XKq28036ZLlRFKdd7Q-fmfZuP-YqUoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTg2/NzMtMTQyNzYxNzIz/MS01OTcwLmpwZWc.jpeg) | 1961 | Humphrey Lyttelton and His Band | Simply The Best British Jazz From The 1950s |
+| 9 | ![Cover](https://i.discogs.com/vNOse_UOdWB02A8cVnl7ZijpLBckdBZmaXzpFGiRdH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDA0/MDItMTQyMjg5NTM0/My0xNDU3LmpwZWc.jpeg) | 1962 | Russ Conway | Concerto For Lovers |
+| 83 |  | 1962-04 | Kenny Ball &amp; His Jazzmen | Midnight in Moscow |
+| 15 | ![Cover](https://i.discogs.com/vOOptmj4xyzCPbXY46b6fYS2178IyZpA6FKkezOwv24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODk5/MDUtMTU2OTA2Mzgw/NC0xNzQzLmpwZWc.jpeg) | 1963 | Dutch Swing College Band | Euro City Concerts: The Real Thing |
+| 24 | ![Cover](https://i.discogs.com/GQdQCgq3giYPlHwL52XIg_jvTJ6rzAWmNHw5PgA_uWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTUy/MTEtMTUzODU4Njk0/OS0xMTkxLmpwZWc.jpeg) | 1966 | Chris Barber | Boaters, Bowlers and Bowties |
+| 69 | ![Cover](https://i.discogs.com/cQNHY02frMI5PZIcIqiJNKpSiWJS2ELMjtOt5x0YT1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njc3/NDQ1LTE2Mjc2NDI2/NzEtMzcwOS5qcGVn.jpeg) | 1968 | Chris Barber&#39;s Jazz Band | Vintage Chris Barber |
+| 25 | ![Cover](https://i.discogs.com/V7lkCKPmrosFgOx7MLqYHowVkFN4f0Y5J7g3BCkqX70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTc4/NDYtMTUzOTYxODI4/OC00NjcxLmpwZWc.jpeg) | 1973 | The Temperance Seven | The Best Of The Temperance Seven |
+| 95 | ![Cover](https://i.discogs.com/DB9kLbMdgA-dXI19O_dp7NFH1VomsqtSujN12H7UekM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTc2/NzItMTQ1MzU2ODUx/OS0zMDY1LmpwZWc.jpeg) | 1973 | Louis Armstrong | The Great Summit - The Master Tapes |
+| 47 | ![Cover](https://i.discogs.com/l0BjhDv1yBE9E9Fqa1XE7f_OLv1qVz0e1RdPUcXhkew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDk4/NzgtMTU5MDMwNTky/Ny0zMDY1LmpwZWc.jpeg) | 1975 | Clarence Williams | Nervous Breakdown (The Best Of) |
+| 55 | ![Cover](https://i.discogs.com/B5FwReAduf7IyfxyvycqicaBJtDVkDGR5rPgWd8gvh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODUx/OTItMTQzODAxMzAw/MC03MTUzLmpwZWc.jpeg) | 1976 | Kid Ory | Jazz Foundations Vol. 49 |
+| 58 | ![Cover](https://i.discogs.com/ECWNCaJGKrJFLCsE1giquQcj-tRh7j-QYU8Qf5cQCV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTYx/NDU3LTE1Nzg2MDIz/OTgtNzY3Mi5qcGVn.jpeg) | 1976 | Chris Barber&#39;s Jazzband | The Best Of British Jazz From The BBC Jazz Club - Volume 3 |
+| 82 | ![Cover](https://i.discogs.com/ScgbS_W4s7iELQ6CGtI61ls4zyMRSzAuu19d5rUATa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODIx/NjItMTUwOTg1NjM3/Mi01NzM4LmpwZWc.jpeg) | 1976 | Acker Bilk | All the Hits Plus More |
+| 19 | ![Cover](https://i.discogs.com/pfS806_nGggKt9pVooYC3jfPMKmK9sTJGQodU9ggGGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjU3/MTktMTMzNTUyMTQy/MC5qcGVn.jpeg) | 1977 | Acker Bilk | Aria |
+| 63 | ![Cover](https://i.discogs.com/N_0is8IWdm61T2MuuaXcNvzHdywrVS2hrHhJI-_7nNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjI1/NjIxLTE2MjAzODY1/OTgtNDgyNi5qcGVn.jpeg) | 1977 | Monty Sunshine | The Full Monty Sunshine |
+| 87 | ![Cover](https://i.discogs.com/fxcSigCkeGWNjiXjPUGkQcA8BFfh7aLbr_BvfhQnkT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDI3/MDItMTQzMTQzNDk5/Mi0zOTcwLmpwZWc.jpeg) | 1977 | Chris Barber | Here Is Chris Barber |
+| 29 | ![Cover](https://i.discogs.com/96gf8LuQDIlMVugRKqM-3veADNRA0WIc_G6u5cR_-_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjI0/NTUtMTUwNjI5NDA1/Ny0yMjQwLmpwZWc.jpeg) | 1979 | Barney Bigard | The Ultimate Jazz Archive 8 - 1944 (4 Of 4) |
+| 26 | ![Cover](https://i.discogs.com/D5sYUb3uepk9fwNjz7mk5s3HizhU0IlqvOlW4SJYGgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTMx/NC0xMTM3NTUxMTc3/LmpwZWc.jpeg) | 1980 | Kenny Ball | Kenny Ball Plays British |
+| 31 | ![Cover](https://i.discogs.com/gVHkpX9OrfxGIP8Agbl4sqcTYzGGVrqhIs2t6I_d56o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTM1/NjQtMTUyNTM4MzU1/Ni05NDEwLmpwZWc.jpeg) | 1980 | King Oliver | Alligator Hop |
+| 76 | ![Cover](https://i.discogs.com/KPkZnB6rK_C5t1e4nTYkSxQtXCgjJHOaBAPHQ6-V8jU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTY0/NzItMTQ2ODk0ODgx/Ny04MjQzLmpwZWc.jpeg) | 1980 | Acker Bilk | Saxo Acker Bilk |
+| 72 | ![Cover](https://i.discogs.com/4TiOMs2YXKekyR8SXspGVOyNT1rZMlUtYy8TqZf6x8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODA3/LTEyNTM2NDQ1MTku/anBlZw.jpeg) | 1980-08 | Various Artists | Blue Boogie: Boogie Woogie, Stride And The Piano Blues |
+| 52 | ![Cover](https://i.discogs.com/lUVI9VgeS_8IWQP8QAcesX3VQ7Qrua63vhvMNg52sZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjM4/NzctMTQ0ODIzODEx/My05MzYzLmpwZWc.jpeg) | 1981 | The Angelic Gospel Singers | I&#39;ve Got Victory |
+| 86 | ![Cover](https://i.discogs.com/cobSBCrH-VJKtuSUaBKd7FCGfooi0gzYZZGuqUS-I_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjIx/NDc3LTE0OTM2Mzgx/MDEtMzA4My5qcGVn.jpeg) | 1981 | Dutch Swing College Band | Vintage Vol.1 1948-1949 |
+| 42 | ![Cover](https://i.discogs.com/NU2cVb8BlGRCCyR4ZxPocCIFbNCjYvh8HOnZSx2fPss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTI0/ODMtMTYzNTI3NDgy/OC03NzcyLmpwZWc.jpeg) | 1984 | John Rankin | Guitar Gumbo |
+| 50 | ![Cover](https://i.discogs.com/kAdp0m0N50CiZjd90WphCwxT7MSawj3hUl3MC4PZ_Pk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIz/OTMwLTE2NTUyMzk1/MjMtOTM5Ni5qcGVn.jpeg) | 1984 | Dutch Swing College Band | Swinging Studio Sessions |
+| 22 | ![Cover](https://i.discogs.com/QpIa2Wbu6io7U_n2V6yqhUgh3RhuoTmFACtx4WgreoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzU0/MDUtMTYzMjE3NjUw/NC01MDU0LmpwZWc.jpeg) | 1985 | Rod Mason | Hot Five |
+| 45 |  | 1986 | Kid Ory | Favourites! |
+| 23 | ![Cover](https://i.discogs.com/69Ne9EljYRsb3tZeqKYKtJPRn6FVT9dfQmenXehK8Js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTAz/NDUtMTU1Nzc3NjEy/NS05OTAwLmpwZWc.jpeg) | 1988 | Jelly Roll Morton | Best of Jelly Roll Morton |
+| 41 | ![Cover](https://i.discogs.com/ZSdsLHL514By9rrbGt0M_YeJ969gSWYOgaFtRminfk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDI3/OTYtMTMzMDU2MTcy/Ny5qcGVn.jpeg) | 1988 | Preservation Hall Jazz Band | Songs of New Orleans - Part I |
+| 56 | ![Cover](https://i.discogs.com/IW9g-ocA-xvUDbMeanQQKYO0_cvkQEMXHTEtHslWSPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjE1/MDAtMTMxNjgwNTQ0/NS5qcGVn.jpeg) | 1988-05-16 | Chris Barber Jazz and Blues Band | Petit Fleur |
+| 67 | ![Cover](https://i.discogs.com/ScgbS_W4s7iELQ6CGtI61ls4zyMRSzAuu19d5rUATa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODIx/NjItMTUwOTg1NjM3/Mi01NzM4LmpwZWc.jpeg) | 1989 | Acker Bilk | The Pye Jazz Anthology |
+| 89 | ![Cover](https://i.discogs.com/XwScmsJB8iXlz_SdeocpPBBIpKbdzZw8izpATMaiXro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzg1/NTk5LTE2MjEzNzcx/NzctMzU1MS5qcGVn.jpeg) | 1989 | Preservation Hall Jazz Band | Best of Preservation Hall Jazz Band |
+| 8 | ![Cover](https://i.discogs.com/f3MIpl3zzYUVFyjKlDTt_X3MIiYjIASxiJMvOsggPFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTEz/NzQtMTY1NzgxNTU0/OS05NDE0LmpwZWc.jpeg) | 1990 | Acker Bilk | Oscar Winners |
+| 36 | ![Cover](https://i.discogs.com/7i3soem_QJRNqRBtBcG1yrPR_OLmqnKgwKz9374N8rE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODAy/MzktMTM2MzM1Njg1/MC04NDI2LmpwZWc.jpeg) | 1990 | The Temperance Seven | 33 Not Out |
+| 35 | ![Cover](https://i.discogs.com/dngyzDjsQWAsc8uSTA0taeSnpQ7X5EWxNp8bPUUEwIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg1/MzAwLTE1NTY5ODE2/NDctMTE0Mi5qcGVn.jpeg) | 1991 | Monty Sunshine&#39;s Jazz Band | Gotta Travel on |
+| 78 | ![Cover](https://i.discogs.com/W0J9dVt1euIm0EG5xxqynTOG2ge6J6keoX6PTU67SJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc2/MDYyLTE1MTEyNjg0/MjUtMTY3My5qcGVn.jpeg) | 1991 | Firehouse Five Plus Two | Firehouse Five Plus Two Story |
+| 91 | ![Cover](https://i.discogs.com/EBgiMmjdlBmA6l2z0p6lOq1XqxshK7iNWifWmotMs3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjk1/NDItMTU1MzgzNDY5/Ni0zMzQwLmpwZWc.jpeg) | 1991 | Johnny Dodds | Myth of New Orleans |
+| 34 | ![Cover](https://i.discogs.com/tLy47Xpo3ik73EXIuEgCMHNT1Gz7--qYMc20F8e4iGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzY3/MTMtMTQzMDgyMzkz/MS00MzMwLmpwZWc.jpeg) | 1992 | The Temperance Seven | The Writing On The Wall |
+| 80 | ![Cover](https://i.discogs.com/MdmA4sAwLgZEcxr0q9mZ4bXgqd365gqjjQudeK6PLe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTk1/NTYtMTI4NzAzMTc5/OC5qcGVn.jpeg) | 1992 | Branford Marsalis | Ma Rainey&#39;s Black Bottom (Music from the Netflix Film) |
+| 4 | ![Cover](https://i.discogs.com/IxKwXbJRs_L13BuF0GXLAVH9kFI0c_ErW3GhseaGT-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzk2/NDYtMTQ1Mzk4NDYy/OC03MjM2LmpwZWc.jpeg) | 1995 | Chris Barber | All Time Classics |
+| 14 | ![Cover](https://i.discogs.com/n5PRCBqYfCWgOeebH7UetzbLgq5Gxnv4c4dnWtc506s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODQ5/OTAtMTQ4MzE3NDcz/My0zNjk0LmpwZWc.jpeg) | 1995 | Ken Colyer&#39;s Jazzmen | Up Jumped the Devil |
+| 39 | ![Cover](https://i.discogs.com/kYIsyR3Cqs0rXLtIYMt-XT_thWvx7ruySP5JRzIBHFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODA2/NzItMTQxNTQ4MDYw/OS0xMjgyLmpwZWc.jpeg) | 1995 | Monty Sunshine | Running Wild |
+| 2 | ![Cover](https://i.discogs.com/i9ZwVwjtHKPUt0wfoQLKA7b_j4QwKu8OlsiajOZtN8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzYy/NTY5LTE2MTg4MjE2/MDUtMjg5Ny5qcGVn.jpeg) | 1996 | Nat Gonella | The Very Best Of |
+| 44 | ![Cover](https://i.discogs.com/IZMphdD92KFjwQSAlB71fvx7CMI0fk8up5thSmKqRGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU0/MDI1LTE1Mzk0MjEw/NzMtNzYzNC5qcGVn.jpeg) | 1996 | Monty Sunshine&#39;s Jazz Band | You Are My Sunshine |
+| 65 | ![Cover](https://i.discogs.com/WmtR51M3IFgGE4pzSFMdESONLaRPm-iEkk7sOHRh5dk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDcz/OTA4LTE2MDIwMTA5/NTYtODcwMy5qcGVn.jpeg) | 1997 | Henry Allen | The Henry Allen Collection Vol. 1 - 1932 |
+| 93 | ![Cover](https://i.discogs.com/2QXkY5EQRXMmVJRJ20GUJbhpClhbGJQog-rKy6_pvrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAw/NTI4LTE1OTgwNTc0/MjgtOTI0NC5qcGVn.jpeg) | 1997 | Kenny Ball | Greatest Hits |
+| 48 | ![Cover](https://i.discogs.com/i3KXmy0MgRKTUbuFzBKrLvqUgf221w2rLlIZ1-E-CgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE3/ODg1LTE2MjExODQ2/ODgtNDc3MS5qcGVn.jpeg) | 1998 | Chris Barber Jazz and Blues Band | Cornbread, Peas and Black Molasses - Live 1998 |
+| 49 | ![Cover](https://i.discogs.com/K4wxEy3-CJl10TG1m32fxOrDD8JvbXmohcsd481YHvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzcx/OTQ3LTE1NjA3ODQ2/NzMtMzUyOS5qcGVn.jpeg) | 1998 | Boba Jazz Band | Live At The Bp Studienhaus |
+| 51 | ![Cover](https://i.discogs.com/Sh8kUfTbc9b-VXC5Ok4KXaXwGT8Jc5rsUur3LjBMAz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM0/MTMwLTE1NDc2ODgy/MzUtMjk2OS5qcGVn.jpeg) | 1998 | Clarence Williams | The Very Best Of |
+| 71 | ![Cover](https://i.discogs.com/mUUct3UF_yWbkzj0ONNLer03hyFYlj9jJ_M7-DBCBxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM0/ODQ3LTE1NjIxODIy/MjktODA2OS5qcGVn.jpeg) | 1999 | Bunny Berigan | All Star Broadcasts |
+| 77 | ![Cover](https://i.discogs.com/1AgsG092WMNjSHkEMl_Vxk8RtP90ZRPevZ6uWhNYd5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkz/NzkwLTE1MzYzOTY1/ODYtNDg3MC5qcGVn.jpeg) | 1999 | Rod Mason | Stars fell On Alabama &#x2F; LIVE |
+| 20 | ![Cover](https://i.discogs.com/MJVap2yMkz0lPZ1ZTcudUVY5Bc2iek8UNVH0hPhQVF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTcx/ODUtMTYxMDU1OTU1/OS04OTg4LmpwZWc.jpeg) | 2000 | Kenny Ball | Kenny Ball at the BBC 1957-1962 the Airshots |
+| 21 | ![Cover](https://i.discogs.com/R4xmo2INDGoyHZmVAA8EsOteCVg9LklVDycaWeTRZ9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzUx/MjA4LTE1NTI1ODU2/OTctMTg2NC5qcGVn.jpeg) | 2000 | Sandy Brown&#39;s Jazz Band | Sandy&#39;s Sidemen |
+| 88 | ![Cover](https://i.discogs.com/dv0LGzryj55NSjZHh4WXDscCZI6KhaVUnqkfJkgJZpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk2/MzE2LTE1OTYwODY3/MjAtODc4OS5qcGVn.jpeg) | 2000 | Bunny Berigan | 1938 Broadcasts From The Paradise Restaurant |
+| 38 |  | 2001 | Kenny Ball &amp; His Jazzmen | The Pye Jazz Anthology |
+| 74 | ![Cover](https://i.discogs.com/8fvxx-kJGPwQ7EvSVFxAmIyNvAeJ6Td-9NFsA_Xejkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzMz/NTktMTQ4ODA0NTg1/OS02NjY4LmpwZWc.jpeg) | 2001 | Edmond Hall | Profoundly Blue |
+| 85 | ![Cover](https://i.discogs.com/wbDaKDbWVbtWIHFc9uiWb7fPEmYgWRZdg48yvpz5Ijc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzUy/NDM5LTE1MzM1MDk2/MjctOTMwMi5qcGVn.jpeg) | 2002 | Jimmie Lunceford | Jazznocracy |
+| 98 |  | 2002-03-11 | Bix Beiderbecke | Bixology |
+| 18 | ![Cover](https://i.discogs.com/kZ78vWe8tOTQhpjrEcWfoKINXLHcOjYRIarPWY3NmJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY5/ODkxLTE1OTc0ODcy/MDYtNzQxMC5qcGVn.jpeg) | 2003 | Alex Welsh | Vintage Alex Welsh |
+| 27 | ![Cover](https://i.discogs.com/v8xKnXZpYybhTwzfKQCCw_pUwhb9DsGQWgKcXZV8z8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkz/ODAxLTE1MzAxOTQz/MTctODAzNy5qcGVn.jpeg) | 2003 | Nat Gonella | Blow That Horn |
+| 40 | ![Cover](https://i.discogs.com/dAxmsP6TkanrEftAY4sqg7NTJX_kFAp8OZqdxrXYr9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzUz/OS0xMTA3NTk2NDQ1/LmpwZw.jpeg) | 2003 | Chris Barber | 40 Years Jubilee At The Operahouse Nürnberg |
+| 79 | ![Cover](https://i.discogs.com/2o4HvebWvzYrAcnVYhDoXtUrBu4vJ7Q0CCrXoakcjYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzI0/NzU4LTE1NTIxMTA1/MjAtNTk4Ny5qcGVn.jpeg) | 2003 | Bud Freeman | Bud Freeman With Alex Welsh &amp; His Band |
+| 54 | ![Cover](https://i.discogs.com/bttiVu6eUwqsAKj7dEeUyz5Iy7yhcS5lbAweB3O0N0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODE3/MTYtMTQzNTU2NzI5/NS04NjUzLmpwZWc.jpeg) | 2004 | Rebirth Brass Band | Ultimate Street Parade: New Orleans Brass Bands |
+| 97 | ![Cover](https://i.discogs.com/NYkUPOxiqK8ThIXyNj5z3Vp0tqVMHbUhKELSFDFbfMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjcz/NzItMTM5MzA4OTE0/MS04MjkyLmpwZWc.jpeg) | 2004 | Teddy Wilson | Teddy Wilson |
+| 64 | ![Cover](https://i.discogs.com/KEnGOjyeYswT6q1S_U3bCEk1e_mt2emlzg20EMRhhKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjI1/NjgxLTE2MjAzODY5/MTktNzM5NS5qcGVn.jpeg) | 2005 | Monty Sunshine | The Full Monty Sunshine Vol. 2 |
+| 81 | ![Cover](https://i.discogs.com/C65gteBbVWv0zi95n2UFsBoCXdgvj6KZEm19PJIIZw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTk2/MTYwLTE1Nzc4Mzkw/NTEtNzYzNS5qcGVn.jpeg) | 2006 | La Vella Dixieland | 25 Anys |
+| 94 | ![Cover](https://i.discogs.com/8Obr6Snvr9c1LKS06T8asFW4soZzarWp2wQahtfOIHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODU5/NzMtMTQ3OTY1MDQz/OS0yNzIzLmpwZWc.jpeg) | 2007 | Acker Bilk | Clarinet Moods |
+| 53 | ![Cover](https://i.discogs.com/4mG1NyDCPdV7afZ3QGChlHJK0uctEvmkZQNdavuMlL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTYy/ODE4LTE1OTM2Nzk0/MjktMjc1MS5qcGVn.jpeg) | 2008 | Monty Sunshine&#39;s Jazz Band | Just A Closer Walk With Thee |
+| 17 | ![Cover](https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg) | 2008-02-22 | Various Artists | Dixieland Forever |
+| 100 |  | 2008-10-18 | C.W. Stoneking | Jungle Blues |
+| 96 |  | 2009 | Preservation Hall Jazz Band | New Orleans Preservation, Vol. 1 |
+| 99 | ![Cover](https://i.discogs.com/DrrWgKc9cPZAIRcI1KVKAcq807QU8EwalD1wJaX-Mmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODM4/OTgtMTM1ODE3NzQ4/My05MzE4LmpwZWc.jpeg) | 2009 | Louis Armstrong | The Complete Louis Armstrong - Duke Ellington Sessions |
+| 60 | ![Cover](https://i.discogs.com/jL_re_g6f4Y0BUWH7OEHOgEi9Ws7EY1EiKeLm1-Ppfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzA3/NDYyLTE2MTg0OTk1/NTktMTIxNS5qcGVn.jpeg) | 2010 | Nils Bondesson | Happy Hour |
+| 43 | ![Cover](https://i.discogs.com/8g09bSAUdfeAHpUtgCDnWA869m_qDtNHIVNYcvPoce4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzI5/NDE2LTE0OTU0MjMy/MzktMzExNy5qcGVn.jpeg) | 2011 | Nat Gonella | The Young Nat Gonella |
+| 84 | ![Cover](https://i.discogs.com/fG-PJi4EAFSwmjyUlRwvAPd7qlud1X4I7Q6fEnyEgm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDEw/MzctMTM3MDgwODA1/MS02OTg5LmpwZWc.jpeg) | 2012 | Various Artists | Our New Orleans (Expanded Edition) |
+| 57 | ![Cover](https://i.discogs.com/Zbk-c8ePiNEzczZFNxW6Q_NCDxzikcJ3YS4CUcs042k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYz/NDQ5LTE1NTY5MjAy/NTAtNjUyMi5qcGVn.jpeg) | 2017-06-22 | THE SCHWINGS BAND | Flying Home |
+| 62 | ![Cover](https://i.discogs.com/Zbk-c8ePiNEzczZFNxW6Q_NCDxzikcJ3YS4CUcs042k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYz/NDQ5LTE1NTY5MjAy/NTAtNjUyMi5qcGVn.jpeg) | 2017-06-22 | THE SCHWINGS BAND | Teisutis |
+| 68 | ![Cover](https://i.discogs.com/Zbk-c8ePiNEzczZFNxW6Q_NCDxzikcJ3YS4CUcs042k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYz/NDQ5LTE1NTY5MjAy/NTAtNjUyMi5qcGVn.jpeg) | 2017-06-22 | THE SCHWINGS BAND | Hotel Budapest |
+| 73 | ![Cover](https://i.discogs.com/odK0llWiirYoPR_NQg6H7FtjItEvqJSVq7gl32HZXQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjM5/MTctMTU0ODEwMzM3/MS0yNzk3LmpwZWc.jpeg) | 2018 | New Orleans Rhythm Kings | The Complete Set 1922-1925 |
+
+### Related genres
+
+- [jazz]({{ "/tags/jazz" | relative_url }})
+- [swing]({{ "/tags/swing" | relative_url }})
+- [dixieland]({{ "/tags/dixieland" | relative_url }})
+- [blues]({{ "/tags/blues" | relative_url }})
+- [oldies]({{ "/tags/oldies" | relative_url }})
+- [new orleans]({{ "/tags/new-orleans" | relative_url }})
+- [vocal jazz]({{ "/tags/vocal-jazz" | relative_url }})
+- [ballad]({{ "/tags/ballad" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [dark electro]({{ "/tags/dark-electro" | relative_url }})

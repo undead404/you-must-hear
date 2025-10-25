@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T03:57:26.342Z
+permalink: tags/unblack-metal
+title: unblack metal
+---
+
+## unblack metal
+
+Last updated: <time datetime="2025-10-22T03:57:26.342Z">Wed Oct 22 2025 06:57:26 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 3 | ![Cover](https://i.discogs.com/hJ4KYNnLPSf9kKl_Z0sHgDg7joMALSIpuBv53JnyYRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg2/MjAtMTUxMDY1MDUx/MS04MTI3LmpwZWc.jpeg) | 1997 | Crimson Moonlight | Glorification of the Master of Light |
+| 9 |  | 1998 | Antestor | The Return Of The Black Death |
+| 38 | ![Cover](https://i.discogs.com/Um6QvyCwOc3BGvrvZGApEVG3kfnudnWjohjuqEyRbng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDg1/MTYtMTY0MDQ3NTI5/Ni0xNjYzLmpwZWc.jpeg) | 1998 | Sanctifica | In the Bleak Midwinter |
+| 77 | ![Cover](https://i.discogs.com/YsDA4nlU76mhdV7l4Tpjga1SI8x1zCy9in1updPRpZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI1/NDMtMTU4ODY4MDI2/Mi04MTIyLmpwZWc.jpeg) | 1998 | Crimson Moonlight | Eternal Emperor |
+| 58 |  | 1998-10 | Kekal | Beyond the Glimpse of Dreams |
+| 86 |  | 1999-07-04 | Underoath | Act of Depression |
+| 51 | ![Cover](https://i.discogs.com/nfhXuyYYi5ir6-0vNhjH0vFM-Yg8RH-uw8iA1uVA25E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgx/MjMtMTE4Nzk2OTUw/Ni5qcGVn.jpeg) | 2000 | Kekal | Embrace the Dead |
+| 57 | ![Cover](https://i.discogs.com/GoIVHKbORz18UX-uTBEscbJaIbYvhpETqymi8Zucy04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjI1/Ni0xMzQ0ODQ4MDYz/LTg5MDEuanBlZw.jpeg) | 2000 | Drottnar | Spiritual Battle |
+| 87 | ![Cover](https://i.discogs.com/r4Z7_hB1PF350QQ5DTUDKcoxmQN1cb7MYC_jfQBrrWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTA4/MjMtMTUyMzUxMjI2/NC01NDgyLmpwZWc.jpeg) | 2000 | Sanctifica | Spirit of Purity |
+| 88 | ![Cover](https://i.discogs.com/C14HxCbk6yp5Zrr0crrdvpTGTV5wiIz4dGl_YHmgLHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzEz/MS0xNDQ4MTU2MDMz/LTMzNDguanBlZw.jpeg) | 2000 | Slechtvalk | Falconry |
+| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bf6b490d4b8c90bc5bfa43a3bde22647.png) | 2000-07-04 | Underoath | Cries of the Past |
+| 6 | ![Cover](https://i.discogs.com/ZNx0plGWIzhkrL2AJ909couU2na8vZJUyKZoDnV9mpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNDE5/NjQtMTUyNDkyMjAz/My0zNjk0LmpwZWc.jpeg) | 2002 | Kekal | chaos and warfare |
+| 43 | ![Cover](https://i.discogs.com/JuT2i3YQyLhGow3jgWZ0bsiX-JhvZptUTETBKCtponU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODkx/MzgtMTQ4MjE1MTE0/Ny04NDkwLmpwZWc.jpeg) | 2002 | Frosthardr | Necrodisaster |
+| 53 | ![Cover](https://i.discogs.com/TM8Tw-OA2Bwl99eiOYeQ2e4puLbsNpiVa9ZnBUtqNK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzcy/NDItMTQ1MjIxMzE5/Ny03MTg3LmpwZWc.jpeg) | 2002 | Deborah | The Song Of Deborah |
+| 65 | ![Cover](https://i.discogs.com/BDY85GQ5HhQ-daCNAQqnSh9fnr1ufE47ovxvseZ2Xzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDQy/Mi0xNjYzNzk1MzY1/LTQ0ODguanBlZw.jpeg) | 2002 | Slechtvalk | The War That Plagues the Lands |
+| 20 | ![Cover](https://i.discogs.com/tF2lQKZAcyAJjWZaEjjfvK9dwta9BQ657u11y28huUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODQ1/MjEtMTQxNzkxNDY5/My02Mzk3LmpwZWc.jpeg) | 2002-10-03 | SorrowStorm | Caverns Of Grief |
+| 64 |  | 2003 | Drottnar | Anamorphosis |
+| 67 | ![Cover](https://i.discogs.com/qkhHTC4hL8y1FbAtdCtbKs9KdGov3dsDfT222Wkhfr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDYy/My0xNTk2NzI1ODc4/LTQ1MTMuanBlZw.jpeg) | 2003 | Crimson Moonlight | Songs from the Archives |
+| 82 | ![Cover](https://i.discogs.com/0IglZUpPoZCTnlysXtJWr4QvAe-jVLdQeecVYF8okds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTIz/OTEtMTQwNjE0MTE2/MS0xOTUyLmpwZWc.jpeg) | 2003 | Vardøger | Whitefrozen |
+| 73 | ![Cover](https://i.discogs.com/uDuwhNwuEDuwsi4nUmfaIXqQnFEh4pGx2-ovBGRrmLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTQy/MTktMTI5Njg2MDU1/NC5qcGVn.jpeg) | 2003-01-10 | Frost Like Ashes | Pure As The Blood Covered Snow |
+| 96 | ![Cover](https://i.discogs.com/yvZQBK_L3e-DR34QkvqNfN4St7J1vdiFHcAaPXynQro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjM3/MC0xNjAzNjQ1MDI0/LTE3MTAuanBlZw.jpeg) | 2003-03-14 | Crimson Moonlight | The Covenant Progress |
+| 8 | ![Cover](https://i.discogs.com/aJUberMEMNm_ZV2-px8l3dhn6DK4NEmC2Sogg8UPyFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDE2/MjYtMTI4NDI0NzIy/My5qcGVn.jpeg) | 2004 | Fearscape | Sleeping In Light |
+| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/25dd3c22c1b44ed18855ed546a264c6d.png) | 2004 | Holy Blood | Waves Are Dancing |
+| 42 | ![Cover](https://i.discogs.com/3Q5BaDyu-ni99McJ98UWpA-f_-5Lqwe8uqz16CcUZtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTc1/Mi0xNjIzNTkwOTQ0/LTg3MDcuanBlZw.jpeg) | 2004 | Frosthardr | Makteslos |
+| 47 | ![Cover](https://i.discogs.com/e2j9yjjZaF7Xk2hvI93ht2aeJiVnM4iE5bzsmd5-svU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjIx/NDMtMTU5MDA4NTc0/Ny0xNzM0LmpwZWc.jpeg) | 2004 | Divine Symphony | Reject Darkness |
+| 68 |  | 2004 | Parakletos | Offerlammets Makt |
+| 72 |  | 2004 | Antestor | Det Tapte Liv |
+| 98 | ![Cover](https://i.discogs.com/PUcF1Fd9lNYlwC9DwO2n7rwRRb_7Uy24M0hmdVrtTLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Mjg4/OS0xMzcwNzk3ODg3/LTg5MDkuanBlZw.jpeg) | 2004 | Vaakevandring | Vaakevandring |
+| 85 | ![Cover](https://i.discogs.com/M1oeoMifj3vBl9CcPkamhEmVtvzHCvsYetbKpzIVsJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTQ4/OS0xMTcwMjc4Mjk3/LmpwZWc.jpeg) | 2004-04-15 | Renascent | Demons&#39; Quest |
+| 99 |  | 2005 | Antestor | The Forsaken |
+| 95 | ![Cover](https://i.discogs.com/SHV143wbK8E2-Rz1ypfv_Su_VdKSNnJwJ0iCsXF_qto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjY1/NS0xNDU1MDI1OTEw/LTI4MjAuanBlZw.jpeg) | 2005-02 | Slechtvalk | At the Dawn of War |
+| 13 | ![Cover](https://i.discogs.com/4HtFYp_IWOjmUdp6pPSSjlMq6Zd9mu0xeoNG7-oPsT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQ3/NTYwLTE1NDg4ODM0/NzgtMzE1Ny5qcGVn.jpeg) | 2005-03-05 | Arch of Thorns | Sword of the spirit |
+| 11 | ![Cover](https://i.discogs.com/fM1IABMsGJiZAPQ73yhujyoz38Ip9uO0hdhzL4Xd7bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQ1/NTItMTM1MTcxMjQw/MS0zMDA0LmpwZWc.jpeg) | 2006 | Dormant | Consolamentum |
+| 37 | ![Cover](https://i.discogs.com/IvfhXAOSQarzte1ErXENYQADUerhFwbM10UPgd2ueiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEz/MjA4LTE1NTM3MjIy/NTctMTUzNC5qcGVn.jpeg) | 2006 | Vaande | Naade |
+| 69 | ![Cover](https://i.discogs.com/RAP1V2di2Gi92-pJPQOSDCeyX3bVBaSVdeuMcXhUSYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMjU2/MS0xMzQ0ODQ5NTg3/LTIxOTkuanBlZw.jpeg) | 2006 | Drottnar | Welterwerk |
+| 52 | ![Cover](https://i.discogs.com/zsfgao5rQjUFPdRWhjdELuQBrXB9ewA6M_ITQjL4LKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDM3/MjQtMTUyMDg4NzI3/My02Njc4LmpwZWc.jpeg) | 2006-06-06 | Fire Throne | Day of Darkness and Blackness |
+| 93 | ![Cover](https://i.discogs.com/zKw9FqBtGAoOzuP0PtA1L7xfSBMWsQ5clCYMopzdtMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTMy/OTgtMTI2Njg4Nzc4/MS5qcGVn.jpeg) | 2006-10-25 | Evroklidon | The Flame of Sodom |
+| 5 | ![Cover](https://i.discogs.com/TvNS_X9mnuux_r-_gzUq8BX2izKTdjM9oIEpefwMY-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgx/MjktMTU3NjUwNTA2/Mi05MTYzLmpwZWc.jpeg) | 2006-11-06 | Elgibbor | The Inextinguishable Blaze |
+| 19 | ![Cover](https://i.discogs.com/egG1pkbUfWB_PTx7xcvjscLQwF1sVr2utvT3dt87t3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTU5/ODItMTU3NjQxMzk2/MC00MTA1LmpwZWc.jpeg) | 2007 | Elgibbor | Apolutrosis |
+| 21 | ![Cover](https://i.discogs.com/eNs2GnRo6SHWhxAFofi9b3cBdfU1ysUV4W8-aoCzkN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzcw/NTktMTU3NjQwOTQ4/OC0xOTE3LmpwZWc.jpeg) | 2007 | Elgibbor | Satan Is Defeated |
+| 41 | ![Cover](https://i.discogs.com/o3407HclVGigPceeeNmp57vSGlEYuGDHVvlmoHHDE3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzcx/MDYtMTIyNjg0OTQ0/Ny5qcGVn.jpeg) | 2007 | Fearscape | Scent of Divine Blood |
+| 61 | ![Cover](https://i.discogs.com/fdQD_jOYKwW-tnfDkGjGamKhK6CsU71bQmO1osjLXjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI4/MDgtMTUyNjMwOTU1/NS0yMTMyLmpwZWc.jpeg) | 2007 | Frosthardr | Varg |
+| 91 | ![Cover](https://i.discogs.com/OkuGOdd7csDfW8xkWIAOwfx04suJ6uep3BTMlbZ-vkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTYz/My0xMzcwODA3OTA5/LTk5NTMuanBlZw.jpeg) | 2007-02-01 | Admonish | Insnärjd |
+| 92 | ![Cover](https://i.discogs.com/6TOKBudQ81oZPMJTqlF0V7O9PGJklbyej1zrDp7K9yw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTY4/NC0xMzgzMTY0MTg0/LTE4NzkuanBlZw.jpeg) | 2007-02-01 | Crimson Moonlight | In Depths Of Dreams Unconscious |
+| 56 | ![Cover](https://i.discogs.com/kHmLaq28jqmNnKAIAvilmWJGbuQ-10APSVt8C1Yft6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mjkw/MzYtMTU3NjQxMjQ5/MC0yOTExLmpwZWc.jpeg) | 2007-10 | Elgibbor | Stronger Than Hell |
+| 7 | ![Cover](https://i.discogs.com/34je0JYK0-s9dAMuNUkqkgXcGWsIvGWRQSdISqOmTa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODA4/MDAtMTIyOTk1OTk0/MS5qcGVn.jpeg) | 2008 | Borgazûr | 2P3: Alchemists Earth of Aeon A.C. |
+| 26 | ![Cover](https://i.discogs.com/Ta5D_QIyR7pYGgyGZTp-RD4fsn0KkeBuYBeZOh4UuR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODM5/NDctMTI0MzA4OTU4/MC5qcGVn.jpeg) | 2008 | Elgibbor | Repent or Perish |
+| 46 | ![Cover](https://i.discogs.com/Ke2FH9FsDKwx8GHgqpvOHtwrGwf2proSwa_nkaYCzkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjA5/NzctMTI2MTYxMzQ5/Ny5qcGVn.jpeg) | 2008 | Divine Symphony | The History |
+| 59 | ![Cover](https://i.discogs.com/DSasUpN5_OyJA6LT2e8gBaGylnVuKxL-tftrAHs32hU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjk2/MzktMTQ1Mzc3NTcy/Ny0yNjEyLmpwZWc.jpeg) | 2008 | Deborah | Soteria |
+| 32 | ![Cover](https://i.discogs.com/QmTlS1QEKtXSzJj123tONFWVHSCk6vXyiOkfetuwqGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTU4/NTktMTU3NjUwNzU4/Ni01MDYyLmpwZWc.jpeg) | 2008-03-08 | Elgibbor | Fireland |
+| 80 | ![Cover](https://i.discogs.com/w-NWrxOGQdDB6tzlMLzpFCiX917y0gLcjmziWutT1gE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAw/MzctMTYyMzQxNDQz/Ny0zMzE5LmpwZWc.jpeg) | 2008-03-31 | Grave Declaration | The Nightshift Worshiper |
+| 25 | ![Cover](https://i.discogs.com/R46f9DhDJCCHA3jEaplWRDQmbg-JagGT05Qbc719XHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTc3/MTUtMTMyODgyNjc4/My5qcGVn.jpeg) | 2008-04-21 | Toreva | Extra Ecclesiam Nulla Salus |
+| 50 | ![Cover](https://i.discogs.com/_-oiZE8IF9dgoq8VvnHOXzz2fOvcsrOyrKt94rUb0u8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODA4/ODMtMTI5NjMyNTIy/Ny5qcGVn.jpeg) | 2009 | Hortor | Ancient Satanic Rituals Are Crushed In Dust |
+| 10 | ![Cover](https://i.discogs.com/g5DWUt9oFNW5XxRbJtYjrtE94U0SKznM_AxQZG3V6pA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTE2/MTktMTI1MDUxODQ4/Mi5qcGVn.jpeg) | 2009-02 | O, Majestic Winter | Defiling the Serpent&#39;s Temple |
+| 27 | ![Cover](https://i.discogs.com/SEU1jsfwvqj432Kjv8Z0vrgkOHGXjslzTB_sVJox5qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTgx/MDQtMTY0MTU5NjY0/MC05ODM3LmpwZWc.jpeg) | 2009-03 | Elgibbor | War |
+| 30 | ![Cover](https://i.discogs.com/5ogtmlV0LE3_YiBmZD3C2axj8iEGK2_EGR4XokdrsG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTYz/OTAtMTI5NTIyNDAy/NC5qcGVn.jpeg) | 2010 | Ancient Plague | Archaic Kingdoms |
+| 34 | ![Cover](https://i.discogs.com/QEqTJtu2oUGUk8VuWn9SdXLiYUh7OBhyR8hbfcEEZcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTQ0/NzMtMTI5NjkyMDYx/OS5qcGVn.jpeg) | 2010 | Elgibbor | Soterion Apollumi Hamartia |
+| 71 | ![Cover](https://i.discogs.com/fR5o8-djn3JZS8lfu5R-rhMkZThulPTlB3n2kq8krUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTUx/MDItMTM1NzEzNDY2/Ny0zNjIxLmpwZWc.jpeg) | 2010-05-17 | Wintersoul | Frozen Storm Apocalypse |
+| 97 |  | 2010-07-16 | Slechtvalk | A Forlorn Throne |
+| 31 | ![Cover](https://i.discogs.com/ceypGiBSTozESfkNtZNLg-Oi3ImiJKZ54UoI48fT8wA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTc0/MTctMTU5NzkxNzYw/Ny0zNDQ4LmpwZWc.jpeg) | 2012 | Dödfödd | Demo 10 |
+| 94 | ![Cover](https://i.discogs.com/dN9FBHrc0aVy3bzfMurPFz5x0apQ4mrQgAVsJTMOzjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTg5/OTEtMTM1NzM5MDUz/My01MzE3LmpwZWc.jpeg) | 2012-12 | Antestor | Omen |
+| 17 | ![Cover](https://i.discogs.com/neyxIlKKuBdLSddwXqFYNro2VJ3EppNDPbD2E9byQl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDMy/NDUtMTUwOTgxOTQ1/My0yNDE4LmpwZWc.jpeg) | 2013 | Hortor | Dios De Dioses |
+| 70 | ![Cover](https://i.discogs.com/GF7IYs6lwyIHMwWmQMJFSvPNKDqxWw6nzuB4p6qzD-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzA1/OTQtMTM2NTc4OTQy/OC0zNDI2LmpwZWc.jpeg) | 2013 | Vials of Wrath | Seeking Refuge |
+| 22 | ![Cover](https://i.discogs.com/u20-lmQU6y7zjqSzjd9dZHr3eN4RitMZbiQvLBIzyLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODI1/NzctMTM2MDYxMzA0/Ny0yODE3LmpwZWc.jpeg) | 2013-02-09 | A Hill to Die Upon | Manden Med Leen |
+| 90 | ![Cover](https://i.discogs.com/hIZzxdxM59oH37UueEJG81_j0fL0cm2E2LoCiqgyUCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjA4/MzctMTM2ODM3MzEw/NC04NzgyLmpwZWc.jpeg) | 2013-03-12 | Grave Declaration | When Dying Souls Scream Praise |
+| 81 | ![Cover](https://i.discogs.com/hSJRwTmGKulej7R0W0vUpwAXWAi5oyyI9grOIzIRuIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDM5/MzMtMTM3MjcwODI1/My02NzY3LmpwZWc.jpeg) | 2013-03-16 | Drottnar | Stratum |
+| 24 | ![Cover](https://i.discogs.com/YV_9jYxlkVO3bo26-bSOrVmFnyDdE22i8S7B8XHHsrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjIy/NTAtMTM3OTUxNDI5/Ni03NDAzLmpwZWc.jpeg) | 2013-07-23 | Vials of Wrath | Let There Be Light |
+| 2 | ![Cover](https://i.discogs.com/M9HoafKt_4JCrC14R5k551Yt_O1jbWmYq1WeNHIZdhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjQx/NjYtMTQyNTM2NDEw/MC01NjAyLmpwZWc.jpeg) | 2014-01-01 | Christageddon | Metal Unblack |
+| 28 |  |  | Arch of Thorns | The Coming Storm |
+| 79 |  | 2014-02-26 | BABYMETAL | BABYMETAL |
+| 14 | ![Cover](https://i.discogs.com/NuchmsCL9OgVEqSgjuD0M35F2bGYKjmwGk6u50_248c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjE3/MjktMTQ1MDM4MDIw/My01MjcyLmpwZWc.jpeg) | 2015 | Hazeroth | Charms of sin |
+| 78 | ![Cover](https://i.discogs.com/Z6EgJf-51o_s_WBSwovxKxl5PIoFvyo-jVkA3VyTmgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODIx/NzctMTQ0MjM3NjYz/MC0xNTc5LmpwZWc.jpeg) | 2015-09-08 | Vials of Wrath | Days Without Names |
+| 48 | ![Cover](https://i.discogs.com/8ht5PKg6bQtMeC0cTKjpEt0EwjdbX5-U6oPnniDleWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDU1/ODktMTQ0NzkxMTEz/MS0xOTc2LmpwZWc.jpeg) | 2015-10-30 | Skald In Veum | 1260 Days |
+| 1 | ![Cover](https://i.discogs.com/q4IsOHoX_1W9d3ZyKGy6oa-CFC9lqFpJLvofSuh1eJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzU2/MDctMTQ4Nzc4MzU0/Mi0yMjkwLmpwZWc.jpeg) | 2016 | Golgota | Return to the Old Path |
+| 45 | ![Cover](https://i.discogs.com/is8snalgGVcKjDgl6-ehcr3lgbtxyJ6UKdBndjZM5Yw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Mzg1/NjMtMTQ3Nzg1Nzgz/Mi04NTUxLmpwZWc.jpeg) | 2016 | Opus Irae | The Burden Of Man |
+| 89 | ![Cover](https://i.discogs.com/xP0UvM0OA5jSfQILUsvJiKS42evt07u6xfxEHdraIfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTcx/NjAtMTQ1Njk0OTgx/MC01ODg5LmpwZWc.jpeg) | 2016-02-26 | Crimson Moonlight | Divine Darkness |
+| 66 | ![Cover](https://i.discogs.com/n9MjLhkHV9slOTIRRaQV74-KiCDXio8Qx8LBgtDgaOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODIw/MzctMTUyMDg5MDcy/Mi0yNTQxLmpwZWc.jpeg) | 2016-09-07 | Hesychast | Ageless |
+| 83 | ![Cover](https://i.discogs.com/vQVCpCfxdBWxU74plZUpeXo8sX8DZaGDrjnz_NJUrhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTkx/NzItMTUxMzk1MjQw/NC05MTk1LmpwZWc.jpeg) | 2016-12-20 | Slechtvalk | Where Wandering Shadows and Mists Collide |
+| 62 | ![Cover](https://i.discogs.com/qk8MWlPwNM_GkrOyYp2lXFfrAGZjWcUvmiB_7tLpagk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTYx/MjAwLTE1MjQ0MTE2/NzItMTg5MS5qcGVn.jpeg) | 2017 | Demoniciduth | Enemy of satan |
+| 40 | ![Cover](https://i.discogs.com/sliHr4gg-HFqn5NZiR_cczzGatJ-Z1P7bgfNjjHpaKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjE4/MTEtMTQ5MjIyMTMx/Ni0xOTY1LmpwZWc.jpeg) | 2017-03-30 | Cerimonial Sacred | Christ Worshippers |
+| 29 | ![Cover](https://i.discogs.com/_aOtDc0_sxp4Ebcj_wl8e5czNIjx3yG9twBhRqqJksw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI2/ODMwLTE1MjM4Mjk4/NjItMzQ1OC5qcGVn.jpeg) | 2017-05-28 | Elgibbor | Resist Him |
+| 23 | ![Cover](https://i.discogs.com/mgeZPhAZK832ILsr8gYBt5KbxRlwTnrzpkYdDisGUsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODkz/NDQ0LTE1MDYwODQ0/NTMtNzg3MC5qcGVn.jpeg) | 2017-09-22 | The Slave Eye | Unto Hades |
+| 12 | ![Cover](https://i.discogs.com/jGRSmRuFMgmJwYL74E7-aVw-e7Pe2IsOyCnywXBv-G4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzMw/MTM5LTE1NDA4NDk4/OTgtMTUxNC5qcGVn.jpeg) | 2018 | Vials of Wrath | The Ways of Old |
+| 15 | ![Cover](https://i.discogs.com/-nsZtRi94YAmFqQ-nb-xpyzW5AUwJnA2lKih2qfKW24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ4/NzY2LTE2MDM3MTUw/MTMtNTgxOS5qcGVn.jpeg) | 2018 | Spätregen | Tagtraum |
+| 49 | ![Cover](https://i.discogs.com/Z_nXOeqyja0gKxMTq-FMITSVj0ji2bxN0ccG_ZztSYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/NjUxLTE1MzYzNDQx/MDktNzc4MC5qcGVn.jpeg) | 2018 | Vials of Wrath | Ataraxia |
+| 84 | ![Cover](https://i.discogs.com/wy0ry6SLt3Jq6xr3cbuoVcSrdpg8ssDuD0YkzeRbYfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzE2/Mjg3LTE1MzI3OTE3/NjQtNzA0Ny5qcGVn.jpeg) | 2018-05-18 | Panegyrist | Hierurgy |
+| 76 | ![Cover](https://i.discogs.com/bwzYvwUtiOlo257IgNs1ahyWGhgMEKCx3W08SvAwf68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTcw/NDYwLTE1Mjk3MDcy/MDUtNDE3Ni5qcGVn.jpeg) | 2018-06-22 | Hortor | Dharma Esencia de Impureza |
+| 35 | ![Cover](https://i.discogs.com/o2Rfen5MxawA93xW7nHjItd2z8WJaGAvICThXTBIL7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ0/NDAyLTE1NDYyODA0/NzUtNDQ2NC5qcGVn.jpeg) | 2018-06-30 | Parakletos | Se Guds Lamm |
+| 74 | ![Cover](https://i.discogs.com/qFQONgZ1FNMg7P1JQTvDpekKligjZZtAkN4uCzymlhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI4/MzEwLTE1MzUxMDcw/MDktMTY4Mi5qcGVn.jpeg) | 2018-08-17 | Drottnar | Monolith |
+| 44 | ![Cover](https://i.discogs.com/ZkHmZDG5QxSuwcUSCnI55ZSDZNzk0QV68X4CcNcPcCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTg0/ODkyLTE1NDY1NDA4/NDEtMTkyMC5qcGVn.jpeg) | 2018-12-01 | Frosthardr | Frosthardr |
+| 16 | ![Cover](https://i.discogs.com/b__NVciVe1PysVHgM9L-if_XB6WrjahZexljvZfPsnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjY2/ODUzLTE1NzkyODM4/NDEtODM1Ny5qcGVn.jpeg) | 2019 | Anima Mortuum | Goat Destruction |
+| 63 | ![Cover](https://i.discogs.com/ru86Wc7k-VfUvmpcIaKXu34YA8lRrKqdPm282_Zbq-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYw/NzU1LTE1ODY1NjEw/MDYtMTkzMC5qcGVn.jpeg) | 2019 | Vials of Wrath | Dark Winter Memories |
+| 54 | ![Cover](https://i.discogs.com/4Qm1w4Kp159YySuqY4k2GsfmsE0-LXyjpr1O2usLG3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDk1/ODQ4LTE1NTUyNzg0/MDAtNjQxOC5wbmc.jpeg) | 2019-04-12 | Skald In Veum | Stridslysten |
+| 55 | ![Cover](https://i.discogs.com/XOmHebBHzFNkZqo0ZMkytAyxtJGfDwRpHRxF1mDxbkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjky/Mzk3LTE2NTYxODk5/NTEtOTY2My5qcGVn.jpeg) | 2020-07-20 | Daygraves | Silver |
+| 18 | ![Cover](https://i.discogs.com/7Yjngad_RNP1VLXk70pPw46jMxpCJbv6jUH1Qs-LeAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTk0/MDU3LTE2MDUwNDQy/MzMtODAyMS5qcGVn.jpeg) | 2020-10-31 | Dawnbreaker | Vanquished Horrible Night |
+| 60 | ![Cover](https://i.discogs.com/QvWXdtN5MfylpZiXiDPYo9cI0s_lXxwLhtMzsgWyOig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTMy/OTkwLTE2NjY2Mzk0/NjUtMjUxNy5qcGVn.jpeg) | 2021 | Horde | Alive In Oslo |
+| 33 | ![Cover](https://i.discogs.com/iguV7L7sYctEgYPiDWWeWPM0_YKeULsW8twskTdugjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzE3/ODA5LTE2MTUwMzc2/NjgtNDY2MC5qcGVn.jpeg) | 2021-03-19 | Shadows of Paragon | Amendment |
+| 4 | ![Cover](https://i.discogs.com/g_y8_5uOLc9XsA50s0R_h3U-hLZ2kv7ie23WhtKdr_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDcy/ODcxLTE2MTcwODAw/ODctNjQyMS5qcGVn.jpeg) | 2021-03-26 | SorrowStorm | Epoch of Exile |
+| 75 | ![Cover](https://i.discogs.com/G-FCuV-edX9woIEQ8WuPBrgvAYfblsU2oFS3wb8imiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzY1/MzAzLTE2MjgyNjQw/ODktMjk2My5qcGVn.jpeg) | 2021-08-06 | Reverorum ib Malacht | Not Here |
+| 100 |  |  | Hanumankind | Big Dawgs |
+
+### Related genres
+
+- [black metal]({{ "/tags/black-metal" | relative_url }})
+- [christian]({{ "/tags/christian" | relative_url }})
+- [christian metal]({{ "/tags/christian-metal" | relative_url }})
+- [atmospheric black metal]({{ "/tags/atmospheric-black-metal" | relative_url }})
+- [death metal]({{ "/tags/death-metal" | relative_url }})
+- [raw black metal]({{ "/tags/raw-black-metal" | relative_url }})
+- [melodic black metal]({{ "/tags/melodic-black-metal" | relative_url }})
+- [polish]({{ "/tags/polish" | relative_url }})
+- [folk metal]({{ "/tags/folk-metal" | relative_url }})
+- [post-black metal]({{ "/tags/post-black-metal" | relative_url }})

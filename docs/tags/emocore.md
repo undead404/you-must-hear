@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-24T14:30:32.241Z
+permalink: tags/emocore
+title: emocore
+---
+
+## emocore
+
+Last updated: <time datetime="2025-10-24T14:30:32.241Z">Fri Oct 24 2025 17:30:32 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8a20a9740ab713018962ccece2aefbdb.png) | 1985-06 | Rites of Spring | Rites of Spring |
+| 52 | ![Cover](https://i.discogs.com/_mL9H7SlAb2oidZ6EHnlbH_QBql1d_5nBdsOtfCry5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzQx/NDItMTUyNzk2Mjk0/NS01NDQ1LmpwZWc.jpeg) | 1999-11-30 | One Last Wish | 1986 |
+| 7 |  | 2000-08-07 | Silverstein | Summer&#39;s Stellar Gaze |
+| 70 |  | 2001 | A Static Lullaby | A Static Lullaby |
+| 22 |  | 2001-10-09 | Finch | Falling Into Place |
+| 16 |  | 2002-06 | Chiodos | The Best Way to Ruin Your Life |
+| 28 | ![Cover](https://i.discogs.com/3XdYfIEWRI5NxtOCQW6nV9-cCW_A0UZQCUCwdCv5eVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg4/MTMtMTMzNjczNzkz/Mi01MDc5LmpwZWc.jpeg) | 2002-06-04 | Dead Poetic | Four Wall Blackmail |
+| 11 | ![Cover](https://i.discogs.com/rfM_tpfzsALEtPFPnef1ycPRl7FugpQvDkw7oa7IVAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTE5/NC0xNTc0OTY2MTY3/LTM4OTMuanBlZw.jpeg) | 2002-07-23 | My Chemical Romance | I Brought You My Bullets You Brought Me Your Love |
+| 75 |  | 2003-01-28 | A Static Lullaby | ...And Don&#39;t Forget To Breathe |
+| 64 |  | 2003-04-21 | Funeral for a Friend | Four Ways To Scream Your Name |
+| 9 |  | 2003-05-12 | Deftones | Minerva |
+| 71 |  | 2003-05-20 | Silverstein | When Broken Is Easily Fixed |
+| 47 |  | 2003-06-24 | From First to Last | Aesthetic |
+| 2 | ![Cover](https://i.discogs.com/A-Wxunq2G38pb3GxC2_ziD9AQHirLxILZne-R5_-418/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjI3/OC0xNjc5NDI5MTUz/LTI4NzEuanBlZw.jpeg) | 2003-10-13 | Funeral for a Friend | Casually Dressed &amp; Deep in Conversation |
+| 61 |  | 2003-10-21 | Funeral for a Friend | Seven Ways to Scream Your Name |
+| 46 | ![Cover](https://i.discogs.com/EZ1XzbajssAPPoMTIQ31EmIV6TJIS6C9qSywsb9rzsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Mjg2/MS0xNDI0Nzk4MTc3/LTQ0NDYuanBlZw.jpeg) | 2004-06-01 | He Is Legend | 91025 |
+| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/41ce230cfd8d435690087213114a15f9.png) | 2004-06-29 | From First to Last | Dear Diary, My Teen Angst Has A Bodycount |
+| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0e5fe778cbbede2be56661d6fab4b6f0.png) | 2004-09-07 | Senses Fail | Let It Enfold You |
+| 67 |  | 2004-09-21 | Before Today | A Celebration of an Ending |
+| 51 |  | 2004-11-02 | Hopesfall | A Types |
+| 20 | ![Cover](https://i.discogs.com/0MwgHFGP_fshTRQAlLm4oeLpknxDyHP8wTTyxQjOhlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTYz/ODItMTY1NzU5MTI0/My04MzcwLmpwZWc.jpeg) | 2005 | blessthefall | Black Rose Dying |
+| 59 |  | 2005 | Dear Whoever | Sound the Trumpet |
+| 10 | ![Cover](https://i.discogs.com/ilI04o3YZUttSPFdmvvPbesbmb5i_E9pnhHXS9xmlgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ3/NzEtMTE5MjM2MTY2/NS5qcGVn.jpeg) | 2005-05-10 | A Day to Remember | And Their Name Was Treason |
+| 41 |  | 2005-05-17 | Lovehatehero | Just Breathe |
+| 58 |  | 2005-06-08 | Funeral for a Friend | Hours |
+| 53 |  | 2005-06-27 | The Amity Affliction | The Amity Affliction |
+| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3bd8ca1b64e34b7fcbdff0952aecf346.png) | 2005-06-28 | Scary Kids Scaring Kids | The City Sleeps in Flames |
+| 31 | ![Cover](https://i.discogs.com/zd8CGWuyD4frOjlN2JrU-igkIQmhvdgegk7Mcahlw6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjc2/NTUtMTM4OTEzMDMy/OC04NzYwLmpwZWc.jpeg) | 2005-08-02 | Lorene Drive | Romantic Wealth |
+| 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4fee1ec221ee72350e59ce4213719f9a.png) | 2005-08-02 | Emery | The Question |
+| 60 |  | 2005-08-16 | Silverstein | Discovering the Waterfront |
+| 34 | ![Cover](https://i.discogs.com/evyJkwyafVQOFhQfcVhMIA9R327IaNndiooO7JKWpSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzEz/OC0xMjcxMDY3MDQz/LmpwZWc.jpeg) | 2005-08-24 | From Autumn To Ashes | Abandon Your Friends |
+| 13 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/93be3aa5700627a55612a0bb4055f6ff.png) | 2005-10-25 | I Am Ghost | We Are Always Searching |
+| 90 |  | 2005-12-07 | Alesana | Try This With Your Eyes Closed |
+| 23 |  | 2006-01-13 | Blackmail | Aerial View |
+| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/04d70835f2bf911ae50c3f991cc92f3a.png) | 2006-05-02 | Drop Dead, Gorgeous | In Vogue |
+| 37 |  | 2006-05-23 | Escape the Fate | There&#39;s No Sympathy For The Dead |
+| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f83c03a5e28242e6a2094d9a1e2119c2.png) | 2006-06-06 | Alesana | On Frail Wings of Vanity And Wax |
+| 43 |  | 2006-06-23 | Bullet for My Valentine | Tears Don&#39;t Fall |
+| 15 | ![Cover](https://i.discogs.com/vwYSEH6AtWdoZGmvsYBUdcyTfJZTUXK_mpHy0Lqb9Fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTAx/MDYtMTY0NjA0MDAz/Ni05MTE4LmpwZWc.jpeg) | 2006-07-06 | Eyes Set to Kill | When Silence Is Broken the Night Is Torn |
+| 39 |  | 2006-07-11 | Across Five Aprils | Collapse |
+| 92 |  | 2006-09-26 | Escape the Fate | Dying Is Your Latest Fashion |
+| 68 | ![Cover](https://i.discogs.com/H3GdCBPPofvl-81JE0KyDOey1ZRaB-CFefnTZsnawjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjky/NDItMTQ5MTQ0NzUy/OC05MTUzLmpwZWc.jpeg) | 2006-10-23 | The Blackout | The Blackout!The Blackout!The Blackout! |
+| 69 | ![Cover](https://i.discogs.com/qzrib9DY9iW_d8INdSn1d4NbAJ9BL-dgV1GP4ieZaQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODU2/OTItMTI4OTgyOTM5/MC5qcGVn.jpeg) | 2006-10-23 | The Blackout | The Blackout! The Blackout! |
+| 88 |  | 2006-10-23 | The Blackout | The Blackout! The Blackout! The Blackout! |
+| 21 |  | 2006-11-21 | blessthefall | Blessthefall |
+| 44 |  | 2007-02-06 | Sparks The Rescue | The Secrets We Can&#39;t Keep |
+| 98 |  | 2007-04-10 | blessthefall | His Last Walk |
+| 30 |  | 2007-05-01 | The Amity Affliction | High Hopes |
+| 12 |  | 2007-05-15 | Before Their Eyes | Before Their Eyes |
+| 35 | ![Cover](https://i.discogs.com/FlCuoI3RWd1GU-bglff0tiB3KRfcYYR6C5KUEdstWDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDQ0/MzgtMTQ2MDQ4MTIw/OC0zMjc5LmpwZWc.jpeg) | 2007-06-26 | Pierce The Veil | A Flair for the Dramatic |
+| 27 |  | 2007-07-03 | Silverstein | Arrivals &amp; Departures |
+| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c49b12e8752fcb96fc42e009a6e63e12.png) | 2007-08-28 | Scary Kids Scaring Kids | Scary Kids Scaring Kids |
+| 55 |  | 2007-10-30 | Taking Back Sunday | Notes From The Past |
+| 72 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/158e3587fedddc8d86cd3d869c8021e9.png) | 2008-02-19 | Eyes Set to Kill | Reach |
+| 54 |  | 2008-03-04 | Burden of a Day | Blessed Be Our Ever After |
+| 33 |  | 2008-08-19 | Agraceful | The Great I Am |
+| 5 |  | 2008-10-07 | I Am Ghost | Those We Leave Behind |
+| 40 |  | 2008-10-28 | Before Their Eyes | The Dawn of My Death |
+| 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9294b61170c948a6a91c6a22bd0d5860.png) | 2009-03-31 | Silverstein | A Shipwreck in the Sand |
+| 56 | ![Cover](https://i.discogs.com/16eOiQE8UtEdkhOPM4N2JwzJagC6jUTnFi4bXrfJQNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTIz/NTAtMTQzMDI2MzI0/Ny0yNzU5LmpwZWc.jpeg) | 2009-09-29 | Lovehatehero | America Underwater |
+| 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/775cd6ddd7324c7e95996ea31616fede.png) |  | Drop Dead, Gorgeous | The Hot n&#39; Heavy |
+| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fcd0a91dbf0145c9a999c89b92ae1248.png) | 2009-08-04 | Hopes Die Last | Six Years Home |
+| 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/351683aaefe68c4ca4ae5ac52f8d18e9.png) | 2010-01-26 | Alesana | The Emptiness |
+| 94 |  | 2010-06-21 | Pierce The Veil | Selfish Machines |
+| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dbc0d93e3b49460aa0fd51b19ac14262.png) | 2010-09-14 | Conditions | Fluorescent Youth |
+| 85 | ![Cover](https://i.discogs.com/ogKA56OZOGJBmuQgfNhk8-TUGTQa4GP-f4ryq7E-UAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDAy/ODQxLTE0OTY3NDM3/NTMtOTUzOS5qcGVn.jpeg) | 2011 | Katy Perry | Witness |
+| 93 | ![Cover](https://i.discogs.com/fa5ga63FfoUZ8J0HaL6d9d0FekLTloubDXi8N1ECDbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzk4/MDAtMTQyNzE4MzU2/MC03NTk4LmpwZWc.jpeg) | 2011-04-29 | Silverstein | Punk Goes Pop Volume Two |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f1908e14886047e085cffce3ff4febc0.png) | 2011-05-03 | In Fear and Faith | Symphonies |
+| 50 |  | 2011-05-09 | Sleeping with Sirens | Let&#39;s Cheers to This |
+| 8 | ![Cover](https://i.discogs.com/ORPQli8d1m5ixEcs2rfCvASgA0j3HLpXgN6F_U65ALc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM4/MjY4LTE2MDU3OTE1/OTEtOTUxOC5qcGVn.jpeg) | 2012 | Our Last Night | Age of Ignorance (Deluxe Edition) |
+| 19 |  | 2012-08-05 | Moss Icon | Complete Discography |
+| 76 | ![Cover](https://i.discogs.com/DDJLoW-qSUFGJTMifdJm3wehPPPYf0sXeQMt5qfGAqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTEx/NDgtMTM4OTc0MDM0/Mi03NDQxLmpwZWc.jpeg) | 2013-05-14 | Escape the Fate | Ungrateful (Deluxe) |
+| 84 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/171c490b353d4d359df7625e06808b50.png) | 2013-06-14 | Falling in Reverse | Fashionably Late (Deluxe Edition) |
+| 14 | ![Cover](https://i.discogs.com/2FL1LX6gh_OrgU1ypplcHa2imnm7hNQ7WlXG0iLQ8YM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDc5/NzItMTYxMDYxMDE4/MC0yODc5LmpwZWc.jpeg) | 2013-06-18 | Falling in Reverse | Fashionably Late [Deluxe Edition] |
+| 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/10f6e2dbd4324524b072c17f530f9ac4.png) | 2013-09-03 | Chelsea Wolfe | Pain Is Beauty |
+| 83 | ![Cover](https://i.discogs.com/BWyJSRIWspzLcaAJhZrkPAGDxdhLUgfSrL5VT9t4_9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjU1/ODY5LTE1MzE1MzY4/OTktODU1NS5qcGVn.jpeg) | 2015-01-28 | Sevdaliza | The Suspended Kid |
+| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ad3772c9b3c14bfdcb58d567645a4bbd.png) | 2015-02-24 | Falling in Reverse | Just Like You (Deluxe Edition) |
+| 82 | ![Cover](https://i.discogs.com/NW00yzAIb9j-XDyGLDn6XBgyrnpDspaijcS7gp7Eqi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTk1/MjItMTMxNjY5NTY3/MC5qcGVn.jpeg) | 2015-08-07 | Chelsea Wolfe | Apokalypsis |
+| 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bd931acd3c6a4c5095e8195b86d80efc.png) |  | Escape The Fate | Dying Is Your Latest Fashion |
+| 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2d23f6186a52429cc254acd176e75f4f.png) |  | Pierce the Veil | Selfish Machines |
+| 66 | ![Cover](https://i.discogs.com/wVhvYZEqb-gkcSecsTHsJwoALKH6E1Vfb9cn-pp9Z88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTgz/Njg3LTE1MTE0MTk4/NDgtMTE3MS5qcGVn.jpeg) | 2016 | Asking Alexandria | Where Did It Go? |
+| 57 | ![Cover](https://i.discogs.com/DPYKsqb5AALUxwn_RYog-wSxIfHyDHyXeWPk02WF9u8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTY2/MTY2LTE1NTE3MTc0/NjQtNzMyNy5qcGVn.jpeg) | 2018-05-04 | The Word Alive | Violent Noise |
+| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7e529991ff044dceb0b5a766cde445bc.png) |  | LoveHateHero | America Underwater |
+| 99 |  | 2014-08-04 | Nicki Minaj | Anaconda |
+| 24 |  | 2014-09-24 | Tove Lo | Queen of the Clouds |
+| 63 | ![Cover](https://i.discogs.com/AYfi8NOXBDyCPMIxd4gRR9PDmURW3GcErcU93czYaFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTY3/MjMtMTQ1OTAyMTUz/MC0yMDA5LmpwZWc.jpeg) | 2015-08-07 | Chelsea Wolfe | Abyss |
+| 36 | ![Cover](https://i.discogs.com/bG372vY96UYlTZJwkx5usp-WIPYxjHlXa4Cscur0VEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIy/NzM4LTE1NzQyMjA5/NTctMTIwMy5wbmc.jpeg) | 2016 | The Amity Affliction | All Messed Up (Acoustic) |
+| 49 | ![Cover](https://i.discogs.com/uPqpPFCg3NMn2fuJ0VC4ZaPsrR40NVLdoD2lrumBxrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTQx/OTItMTQ3NzU3OTg0/MS03NzU1LmpwZWc.jpeg) | 2016-10-28 | King Dude | Sex |
+| 100 | ![Cover](https://i.discogs.com/IPLldxSvvA8UhB2BQVDKA-7LgHjbgtf7NLC6A97HZb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDk3/NzAtMTQ4OTA4NDEz/Ni05ODg1LmpwZWc.jpeg) | 2017-03-10 | The Word Alive | Misery |
+| 81 | ![Cover](https://i.discogs.com/YCkTc-B29zNU4hPMtgG6drjgQEPJnlLbXNI6ui07-hU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE3/NzQzLTE0OTUyMjg3/NjEtNTkxMC5qcGVn.jpeg) | 2017-04-26 | Sevdaliza | ISON |
+| 6 | ![Cover](https://i.discogs.com/Lqiody2mRUzjMXRslHk3av43LoxnAPa24y3rDkbq0cE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc3/NTU1LTE1NzA0OTQ4/OTItODA4OS5qcGVn.jpeg) | 2017-06-02 | Dua Lipa | Dua Lipa |
+| 25 | ![Cover](https://i.discogs.com/xTigvey9PsOEbg21wG95oL63JC0f2AAmSxeAaMrCzLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU2/NjYtMTE5NzUzOTQx/Mi5qcGVn.jpeg) | 2018 | Silverstein | Arrivals and Departures |
+| 89 | ![Cover](https://i.discogs.com/Mi0fu8ZrDKVxTFkd2F9Olnkc7VfY6tJuOQDOpW45snw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk1/NzkxLTE1NTUwNDQy/MDEtODg4MC5qcGVn.jpeg) | 2018-08-24 | The Amity Affliction | Shine On |
+| 17 | ![Cover](https://i.discogs.com/8vM75aS3t1tsLPEv7-vZYGycSrdSLZGZaYbkmOG8BcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ2/NTkzLTE2ODQ4MDIx/MDQtMTA3OS5qcGVn.jpeg) | 2019-01-04 | One Step Closer | From Me To You |
+| 73 | ![Cover](https://i.discogs.com/eeYCQE5LdFlE_3JOaG_N522iMucUq50qZauN881fi8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjIw/Njk4LTE1NTQwOTgz/MDQtODEwOC5qcGVn.jpeg) | 2019-03-29 | The Amity Affliction | Ivy (Doomsday) |
+| 26 | ![Cover](https://i.discogs.com/uAZEPl2DZ1XgpTAkfgRblemDL_4SL265KpwnnJw_cig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTY5/ODEtMTQwNzM0Njgw/MS0yODc1LmpwZWc.jpeg) | 2019-11-20 | Falling in Reverse | God, If You Are Above... |
+| 65 | ![Cover](https://i.discogs.com/fmork5iqrE8J5qOvfvojru6-lozl6PArgoU2gHAOPic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc3/ODUxLTE2Mzc1NzYz/MDMtNDc0Ny5qcGVn.jpeg) | 2021-10-15 | Eurielle | The Bridge Of Khazad-Dum (from &quot;The Lord Of The Rings&quot;) |
+| 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/557643a8faaa35768cb6088f576fed30.png) |  | Pierce the Veil | Collide With the Sky |
+| 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eaaf2dbd3cbc69a9520f53fb164caaa0.png) |  | Pierce the Veil | A Flair for the Dramatic |
+| 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/606eb08b03aa4694bd3af93061f98342.png) |  | Escape The Fate | This War Is Ours |
+
+### Related genres
+
+- [emo]({{ "/tags/emo" | relative_url }})
+- [post-hardcore]({{ "/tags/post-hardcore" | relative_url }})
+- [screamo]({{ "/tags/screamo" | relative_url }})
+- [hardcore]({{ "/tags/hardcore" | relative_url }})
+- [metalcore]({{ "/tags/metalcore" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
+- [melodic hardcore]({{ "/tags/melodic-hardcore" | relative_url }})
+- [alternative rock]({{ "/tags/alternative-rock" | relative_url }})

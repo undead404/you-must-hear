@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-20T07:10:00.324Z
+permalink: tags/drone
+title: drone
+---
+
+## drone
+
+Last updated: <time datetime="2025-10-20T07:10:00.324Z">Mon Oct 20 2025 10:10:00 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 1 |  |  | Father2006 | Reflection |
+| 85 | ![Cover](https://i.discogs.com/pPZqLt9cWCwvOhH1v3ZJF9IpyJsL4zAbAsYiehgImhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODk4/ODMtMTU0NDAxOTQx/Ny02MTAxLmpwZWc.jpeg) | 1958 | Miracle Tones | 528 Hz Transformation and Miracles (DNA Repair) |
+| 33 | ![Cover](https://i.discogs.com/Ge9SL8xbJzKkckYHy02Z23q8DBIALcxqI5bQ37JZERA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTU5/NDEtMTQ0NDc4Mjk2/NC02NTYwLmpwZWc.jpeg) | 1991 | Coil | Time Machines |
+| 14 |  | 1992 | Melvins | Lysol |
+| 31 | ![Cover](https://i.discogs.com/1EpORJ_aK7hswXX1JrsUO1W_yhHl0FfT2Y_7X7wyt3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA4/OC0xMTU0MDMyNjUx/LmpwZWc.jpeg) | 1993 | lovesliescrushing | Bloweyelashwish |
+| 58 | ![Cover](https://i.discogs.com/LtRInXmiHUeoaz3TDMe6bt5AeRFFhw89hNy1BLMWpcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjQt/MTI2NDA1NzM1MS5q/cGVn.jpeg) | 1993-11-15 | Aphex Twin | #19 |
+| 7 | ![Cover](https://i.discogs.com/dyAFDaTZCUlRrh0L5552CXRjtkbk2_OnvqV2tCCLqf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODM4/OC0xMTYyOTMxMzAx/LmpwZWc.jpeg) | 1995-04-25 | Earth | Phase III: Thrones and Dominions |
+| 39 | ![Cover](https://i.discogs.com/dyAFDaTZCUlRrh0L5552CXRjtkbk2_OnvqV2tCCLqf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODM4/OC0xMTYyOTMxMzAx/LmpwZWc.jpeg) | 1995-04-25 | Earth | Phase 3: Thrones and Dominions |
+| 76 |  | 1996 | Boris | Absolutego |
+| 72 |  | 1997-03-10 | Stars of the Lid | The Ballasted Orchestra |
+| 24 |  | 1997-08-25 | Jim O&#39;Rourke | Bad Timing |
+| 54 |  | 1998-03-23 | Windy &amp; Carl | Depths |
+| 79 |  | 1998-11-25 | Boris | Amplifier Worship |
+| 15 | ![Cover](https://i.discogs.com/QgxlVK8CtlF32qWb0984aIvF_8_iCakm_b1AzRN9mU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzU4/LTExNjQ4NDYyMTku/anBlZw.jpeg) | 1999 | Stars of the Lid | Avec Laudanum |
+| 73 |  | 1999-12-07 | Stars of the Lid | Avec Laudenum |
+| 6 | ![Cover](https://i.discogs.com/8db6cAkt_8b3vrgbDdJcMmqtQ876VVWUMFVdjIkqoyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTQ3/NS0xMTY3NDMyOTEz/LmpwZWc.jpeg) | 2000 | Sunn O))) | The Grimmrobe Demos |
+| 82 | ![Cover](https://i.discogs.com/2Sd47UcJo7bAc3K8rwW7HA0hq_j75PJagIofMbP6Mhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjA4/NC0xMzAyNzMxODUy/LmpwZWc.jpeg) | 2000 | Earth | Earth 2 |
+| 71 |  | 2000-12-15 | Boris | Flood |
+| 32 |  | 2002-10-21 | Keith Fullerton Whitman | Playthroughs |
+| 98 | ![Cover](https://i.discogs.com/J9JppDJTIAEhdgRI0N5yWxwzP1qM4K47N2T1remLh9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODA2/MjItMTQxMDU1NTY0/Mi04MDE4LmpwZWc.jpeg) | 2003 | William Basinski | The Disintegration Loops (Remastered) |
+| 75 |  | 2003-03-25 | Tim Hecker | Radio Amor |
+| 28 |  | 2003-04-22 | Sunn O))) | White1 |
+| 46 |  | 2003-05 | Nadja | Touched |
+| 16 | ![Cover](https://i.discogs.com/Xm_qYkMhlivl2B3oL-I734Qi8uz9EgodzzZVkz8V1zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQy/MzEtMTYzMTYxMDM1/OS04OTg4LmpwZWc.jpeg) | 2003-06-06 | Boris | Akuma No Uta |
+| 4 |  | 2003-10-06 | Khanate | Things Viral |
+| 99 | ![Cover](https://i.discogs.com/o-YzjvM5kWK9mDfEXrrAU6n49AeLYiMZzFFUduKn8bY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDE3/Mi0xNDk2ODA5MDkx/LTUxMjIuanBlZw.jpeg) | 2003-12-25 | Boris | Boris at Last - Feedbacker |
+| 34 |  | 2004-06-19 | Sunn O))) | White2 |
+| 35 | ![Cover](https://i.discogs.com/k2DVrZhCed8A7grbz69_ldyjQ9Ll5AgNMh-x0Bjmi0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjIx/MzItMTI0MDc0NTYz/Ni5qcGVn.jpeg) | 2005 | Grouper | Inca Ore &#x2F; Grouper |
+| 41 | ![Cover](https://i.discogs.com/Ha0dX5UuGkdkT8oNfDgWYeT2Kj60Ik-YSwTVdMxQZvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY4/MDgzLTE1Mjc2MzYw/NjktODUxOC5qcGVn.jpeg) | 2005 | Earth | Hex: Or Printing in the Infernal Method |
+| 88 |  | 2005-10-03 | Sunn O))) | Black One |
+| 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8cd8dbe63cd64b75a141ce7a90c32238.png) | 2005-11-18 | Boris | Pink |
+| 57 |  | 2006-02-08 | Belong | October Language |
+| 26 |  | 2006-08-22 | Eluvium | When I Live by the Garden and the Sea |
+| 43 |  | 2006-10-16 | Tim Hecker | Harmony In Ultraviolet |
+| 66 |  | 2006-10-31 | Sunn O))) &amp; Boris | Altar |
+| 70 |  | 2007-02-02 | Jesu | Conqueror |
+| 19 | ![Cover](https://i.discogs.com/raUJ_tnVID_w8evVtI7bvouIAB0W5xk6x-aOwfYoSLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODI0/Ni0xMTc4OTM0NjQ2/LmpwZWc.jpeg) | 2007-04-01 | Sunn O))) | Oracle |
+| 80 | ![Cover](https://i.discogs.com/6nFzi3GsGSarh-Y2EBYivrGVExlyB9oHpwqETaG3_k8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mzgw/MC0xMzUzMjk0MDcy/LTY0NTkuanBlZw.jpeg) | 2007-04-02 | Stars of the Lid | and Their Refinement of the Decline |
+| 5 | ![Cover](https://i.discogs.com/G94TBmfQ2FFdxHAJemc7ZTeGINp_iXM-ce2WZGEIA9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTAw/NDctMTE5NjE3NDA3/Ni5qcGVn.jpeg) | 2007-10-31 | Sunn O))) | The Grimm Robe Demos |
+| 3 |  | 2007-11-20 | Stars of the Lid | Carte-de-visite |
+| 95 |  | 2008-02-21 | Have a Nice Life | Deathconsciousness |
+| 96 |  | 2008-02-22 | Earth | The Bees Made Honey in the Lion&#39;s Skull |
+| 77 |  | 2008-03-17 | Fuck Buttons | Street Horrrsing |
+| 2 | ![Cover](https://i.discogs.com/7AU4qt0_reSXDHhKsAe8PX0yuiHtXjE8Vk2nKvgNHV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM3/NjgtMTQ0Njk5ODY5/NC01NjI1LnBuZw.jpeg) | 2008-06-00 | Natural Snow Buildings | The Dance of the Moon and the Sun (Disc 2 - Sun) |
+| 67 |  | 2008-06-16 | Grouper | Dragging a Dead Deer Up a Hill |
+| 61 | ![Cover](https://i.discogs.com/A0999Gw1_hBZvboddaM7rBRVTiZ3UIWjBjnOrg_EM5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDQ2/ODMtMTM0MjYzNzIy/NS01MjE3LmpwZWc.jpeg) | 2008-11-25 | David Lynch | Eraserhead Soundtrack |
+| 18 |  | 2009-01 | Emeralds | What Happened |
+| 83 |  | 2009-03 | William Basinski | 92982 |
+| 84 |  | 2009-05-18 | Sunn O))) | Monoliths &amp; Dimensions |
+| 40 | ![Cover](https://i.discogs.com/faYt0vl9OOeRDp15ml5Qt8gKUmnv-PxuuR-GS0NJP94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzYz/MzktMTI0OTQ5ODQz/NS5qcGVn.jpeg) | 2009-07 | Jesu | Infinity |
+| 10 |  | 2009-07-14 | Mount Eerie | Wind&#39;s Poem |
+| 42 |  | 2009-10 | Oneohtrix Point Never | Russian Mind |
+| 87 | ![Cover](https://i.discogs.com/CzCkOKsiYfBU49ughaorNA0x8Gf2ykbFzz9A8Yulynk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njcy/OTctMTQzMTYwMzQ4/MC0yNzIzLmpwZWc.jpeg) | 2009-10-12 | Fuck Buttons | Tarot Sport |
+| 47 |  | 2009-10-19 | Ben Frost | By The Throat |
+| 48 | ![Cover](https://i.discogs.com/Fo9cW5Xf1a9he89FaGGDvA3JBNlLPoPIvl3cflWAXDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODky/NjctMTM0OTAyNjQ2/OS0yNzk1LmpwZWc.jpeg) | 2010 | Wardruna | Runaljod – gap var Ginnunga |
+| 22 |  | 2010-03-09 | Coconuts | Coconuts |
+| 81 |  | 2011-01 | Tim Hecker | Ravedeath, 1972 |
+| 11 | ![Cover](https://i.discogs.com/N36-EFOBhI-v95UkRnm7DH-WrX9wd0nAL9Mgycz7Pg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDYw/NzktMTMxMTM4Mzg3/OC5qcGVn.jpeg) | 2011-04-22 | Celer | Landmarks |
+| 53 | ![Cover](https://i.discogs.com/iQaCxtqgMV7cG1FGtdotF5jBHVu9KHQ2cWvuNdJ8_Qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzE2/MDQtMTM1NzM2NDEx/Ny02MzkxLmpwZWc.jpeg) | 2012 | Grouper | A I A: Dream Loss |
+| 74 | ![Cover](https://i.discogs.com/PBagztfd-mTACkytZIIzFSflHBPqGOEJXOJFSWyr4JA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTc4/MjctMTMwMDEzMzA2/Ny5qcGVn.jpeg) | 2012 | Earth | Angels Of Darkness, Demons Of Light 1 |
+| 20 |  | 2012-02-14 | Earth | Angels of Darkness, Demons of Light II |
+| 21 |  | 2012-04-03 | Ex Confusion | Embrace |
+| 23 |  | 2012-05-22 | Mount Eerie | Clear Moon |
+| 49 |  | 2012-10-15 | Godspeed You! Black Emperor | ALLELUJAH! DON&#39;T BEND! ASCEND! |
+| 86 | ![Cover](https://i.discogs.com/1hUpurPAA8qid8VuAN3dPezVGOP50pB0xG06KOFMlX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzE1/NzctMTM1NzM2NDAx/OS0xNzM0LmpwZWc.jpeg) | 2012-11 | Grouper | A I A: Alien Observer |
+| 65 |  | 2013-02-04 | Grouper | The Man Who Died in His Boat |
+| 94 |  | 2013-03-04 | Chrome Sparks | Sparks EP |
+| 51 | ![Cover](https://i.discogs.com/-1c-3yjnr9M8goe8AR47C3SkDQsulEsLhNfjvMuqZcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE4/MDMtMTQ0NDIzMDIw/Ni02NTg0LmpwZWc.jpeg) | 2013-04-22 | Sunn O))) | Flight of the Behemoth |
+| 13 |  | 2013-06-25 | Locrian | Return to Annihilation |
+| 17 | ![Cover](https://i.discogs.com/CFuMNCFPrkYWM-QRrsXHjXRSYPFnStOyT8zNIBl7bto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM3/NjI5LTE1NjY1ODA5/NTctNTQ5NC5qcGVn.jpeg) | 2013-09-03 | Chelsea Wolfe | Carrion Flowers - Single |
+| 36 |  | 2013-10-14 | Tim Hecker | Virgins |
+| 44 |  | 2013-12 | Croatian Amor | The World |
+| 97 | ![Cover](https://i.discogs.com/_6es4SpRP5GPgoSYD1X_O5QzVfLe4795uqM7F9zL8SI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MjM1/NjItMTQyNzM4MzM3/MS0yMTk3LmpwZWc.jpeg) | 2014 | Boy Harsher | Lesser Man EP |
+| 89 |  | 2014-01-27 | Have a Nice Life | The Unnatural World |
+| 56 |  | 2014-05-21 | Ben Frost | A U R O R A |
+| 64 | ![Cover](https://i.discogs.com/4R8eefd4P8IWcYusuA2ciTkax96oY1baBmwVhxTH1i4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzgx/NzUtMTM0NjM5NTQ1/Ny0yNzAzLmpwZWc.jpeg) | 2014-08-27 | Lorn | A&#x2F;D, Music For Picture |
+| 50 |  | 2014-09-02 | Earth | Primitive and Deadly |
+| 25 |  | 2014-10-07 | Jason Aldean | Old Boots, New Dirt |
+| 69 |  | 2015-03-31 | Godspeed You! Black Emperor | Asunder, Sweet And Other Distress |
+| 30 | ![Cover](https://i.discogs.com/y_x-lNYSYU4Tq5VqA-yk5ume3FAneaI0vHQgRsZOLxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODc1/NDAtMTUwODc2MTg5/Ni03NjE0LmpwZWc.jpeg) | 2015-05-12 | Blanck Mass | Dumb Flesh |
+| 78 | ![Cover](https://i.discogs.com/HnyQjCXOSF8NWDgZAyQA4uY3beXe4lAPWtLJioqYcKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDI0/MTQtMTQzMTQyODk2/Mi04MTkzLmpwZWc.jpeg) | 2015-05-12 | The Holydrug Couple | Moonlust |
+| 92 | ![Cover](https://i.discogs.com/KlUfP99YrIrjFh4wQJSpSiLoXTaMafEVbJLZ-ckmu9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MzQz/NTItMTQ2OTc0OTQ2/MS0yMTcxLmpwZWc.jpeg) | 2016-06-27 | Benoît Pioulard | Radial |
+| 38 | ![Cover](https://i.discogs.com/1Gfrsw3XatUTEg5kwDX_EJFyDm1BPrYEoQlZmksey20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY4/OTk3LTE1MDU2NTkw/MjktMTYyMy5qcGVn.jpeg) | 2017-09-22 | Chelsea Wolfe | Hiss Spun |
+| 91 |  | 2017-09-22 | Godspeed You! Black Emperor | Luciferian Towers |
+| 37 | ![Cover](https://i.discogs.com/6vs1YN04NGXmSRVROR7lxnZdR5A7xPFrw0nFcsigxIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODEw/NzA0LTE2ODE2Njg2/NDMtNjYzOS5qcGVn.jpeg) | 2018-04-27 | Boy Harsher | Lesser Man (extended version) |
+| 62 | ![Cover](https://i.discogs.com/8fkWE9CIp6yIGeQLY6Aya07EaJrD6bh20lUpQy5FKT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY3/NTc3LTE2NTE0MjQ3/MjEtNDA5MS5qcGVn.jpeg) | 2018-09-28 | Tim Hecker | Konoyo |
+| 68 | ![Cover](https://i.discogs.com/0dN8ucBy-l-CT-nRYcb_iMjpCBY5v1mHV2nQa6soR30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzY2/NjU2LTE2NjE5MjAz/MjMtMjQyMS5qcGVn.jpeg) | 2019-02-21 | Flatsound | somewhere in the distance, somewhere toward the mountains |
+| 60 | ![Cover](https://i.discogs.com/GHAV2upyqYFKv5D6PaJ0xOnyf0tR6tkOPFpM4HJtTkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg2/NDgyLTE1NzU3Nzcy/MzItNDk0OS5qcGVn.jpeg) | 2019-03-08 | William Basinski | On Time Out of Time |
+| 9 | ![Cover](https://i.discogs.com/jYTsGC5DIE18atL-LbK98uSWH25XURh9vOI48lBkM4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODc5/MTY4LTE1NjMxNjQy/ODctMjg2Ni5qcGVn.jpeg) | 2019-07-12 | Jefre Cantu-Ledesma | Tracing Back The Radiance |
+| 12 | ![Cover](https://i.discogs.com/Dci_6_T-r2BCrcumo1Jv08VWtj5x9XXpzRbKhudzrcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQ1/MDcyLTE1OTg4NDQ0/MDEtMzA3My5qcGVn.jpeg) | 2019-11-01 | Malibu | One Life |
+| 55 | ![Cover](https://i.discogs.com/kKE9Nxi8uUH4skx8NUKX-jfVnFccHX0pJUZbmYs2Mqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODUw/MDI3LTE2MDA4OTA2/ODEtOTI3NS5qcGVn.jpeg) | 2020-09-25 | Anna von Hausswolff | All Thoughts Fly |
+| 8 | ![Cover](https://i.discogs.com/1kj0NPLSC0FhYtl3xHV0JVv_c2bwAleeCPrrGY7EJ3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDk4/NzY5LTE2NDcxOTY5/NzktMTUzMi5qcGVn.jpeg) | 2021-08-20 | Eiko Ishibashi | Drive My Car Original Soundtrack |
+| 45 | ![Cover](https://i.discogs.com/iRMI2LmoIV5y6gKQcMfMJRpPGp8vcuil9uK5Q9ujcio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/ODAzLTE2NTU0MjM5/ODQtNzc2OC5qcGVn.jpeg) | 2022-06-14 | Taylor Deupree | Small Winters |
+| 52 | ![Cover](https://i.discogs.com/ArJUivn9AsggSrqZf_-tck7r_po7OFb1DqyujdHDliM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTEy/MjAwLTE0OTg5NjU5/MDAtNTA5My5qcGVn.jpeg) | 2022-11-25 | Alex G | We&#39;re All Going to the World&#39;s Fair (Original Motion Picture Soundtrack) |
+| 59 |  |  | 輕描淡寫 | 小圈子 |
+| 93 | ![Cover](https://i.discogs.com/nzUEuG8p6hvO3qCHAbpFvt8vkuGHBH4Z_MldOA-DDho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzQ2/NzQ0LTE2MTg3MjYw/NjQtMzUzNC5qcGVn.jpeg) | 2021-03-19 | 2003 Toyota Corolla | 2003 Toyota Corolla |
+| 63 | ![Cover](https://i.discogs.com/mycGcUrfqrPyUwA81a-U_mvlDKhSct7TzWSSrRQ4q3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTE5/NjUwLTE2NzQ5NTgy/NDctODM0MS5qcGVn.jpeg) | 2023-01-27 | Have a Nice Life | Time of Land (2021 Remaster) |
+| 90 |  |  | Alvedon | hurry up mixtape |
+| 100 | ![Cover](https://i.discogs.com/06bqDmEYZeEQcmNbT4ylNc-OWmod0G824HzS8hyYq5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQz/MDExLTE1NDg4MDg1/NDAtMjkwNC5qcGVn.jpeg) | 2021-06-02 | Billie Eilish | bury a friend |
+| 29 | ![Cover](https://i.discogs.com/w69wlZ8awAU9pApHkXRl8Po-AQDU6d3Jfqd8ctcoiHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODEx/MTAxLTE2NjMxNjQz/NjAtNjk1MS5wbmc.jpeg) | 2022-07-07 | Kali Malone | Living Torch |
+
+### Related genres
+
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [noise]({{ "/tags/noise" | relative_url }})
+- [dark ambient]({{ "/tags/dark-ambient" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [industrial]({{ "/tags/industrial" | relative_url }})
+- [soundscape]({{ "/tags/soundscape" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})
+- [post-rock]({{ "/tags/post-rock" | relative_url }})
+- [drone ambient]({{ "/tags/drone-ambient" | relative_url }})
+- [electronica]({{ "/tags/electronica" | relative_url }})

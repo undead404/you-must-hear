@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T09:01:37.952Z
+permalink: tags/iran
+title: iran
+---
+
+## iran
+
+Last updated: <time datetime="2025-10-22T09:01:37.952Z">Wed Oct 22 2025 12:01:37 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 1 |  |  | PERSROCK | Persrock |
+| 2 |  |  | Pouran | Molla Mammad Jaan - Persian Music |
+| 3 |  |  | Mohammad Reza Shajarian | Beyade Aref, Shajarian 4 - Persian Music |
+| 53 |  |  | Sogand | Romantic |
+| 54 |  |  | Artoush | Nefrin |
+| 57 |  |  | Mohammad Nouri | Jaane Maryam - Persian Music |
+| 59 |  |  | Alireza Ghorbani | Rosvaye Zamaneh |
+| 60 |  |  | Sami Beigi | King |
+| 65 |  |  | Niaz Nawab | Hafez |
+| 66 |  |  | Alireza Eftekhari | Navay -e Asatid (The Tunes of the Masters) |
+| 75 |  |  | Ali Sorena | Kavir |
+| 76 |  |  | Mohsen Yeganeh | Hobab |
+| 90 |  |  | King Raam | The Vulture |
+| 70 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1977 | Various Artists | Pomegranates |
+| 61 | ![Cover](https://i.discogs.com/v4GLkYvhA5W8XKNEI5rGLOQGhOdsxtQrF3zpaFPUM1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTI0/NDYyLTE2NTgxNjAz/MzAtOTMyNC5qcGVn.jpeg) | 1985 | Mohammad Reza Shajarian | Rendan e Mast |
+| 52 | ![Cover](https://i.discogs.com/IlR6akxkf6ioqPoYWyibF2BPOgj3A14Z9OUCltX_Zko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDAy/NTQyLTE3MTMyNzAy/MzUtMjEyNy5qcGVn.jpeg) | 1991 | Dariush | 40 Dariush Golden Songs, Vol 1 |
+| 15 | ![Cover](https://i.discogs.com/vwbN6Zs4zMPeljq0v97nPjMFuNGfpApK7cizSyldY2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTc2/NTUtMTU2MzI2NzYx/Ni03NDUyLmpwZWc.jpeg) | 1995 | Madjid Khaladj | Iranian Percussions |
+| 73 |  | 1998 | Sima Bina | Nava&#39;i |
+| 91 | ![Cover](https://i.discogs.com/FNJkdL4-eC3JBAL_OQajufR-nn_ru8twxxUqYFfw5mE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTI2/NDQtMTQ3MDE0OTc5/Ni01OTQxLmpwZWc.jpeg) | 2003 | Marjan | Kavire Del |
+| 96 | ![Cover](https://i.discogs.com/lynkQZAJV3LtYGGks-lJLmE9elfahSWM5y8pX-2_TVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTU1/MTktMTM3ODA1ODAx/Ny00MTU5LmpwZWc.jpeg) | 2003-08-26 | Ghazal | The Rain |
+| 89 | ![Cover](https://i.discogs.com/5pICpZzCF_9WIoaGWOXWa665h6NMYvTVTsoOBZP9I8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjI5/MTYtMTY4MDIwNDIw/MS03OTg4LmpwZWc.jpeg) | 2005 | O-Hum | Aloodeh |
+| 64 | ![Cover](https://i.discogs.com/L-AQ3siqhywkg0C_CAOgIevWeMPJhI1KXsEJKMvky1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njc1/NjQ5LTE2MjA2ODYw/NTItOTkwNC5qcGVn.jpeg) | 2006 | Habib | Mardeh Tanhayeh Shab |
+| 56 | ![Cover](https://i.discogs.com/vXE8PKBtqqOrLB_Y9PsMwb-mvbS2DxnvIBVO2qe0eMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTg3/NzAtMTQ1ODEzMDI0/My02NDM1LmpwZWc.jpeg) | 2007 | Sarakhs | Mordad 85 |
+| 77 | ![Cover](https://i.discogs.com/vKZJz-zbsGmhmZwjXL8EOEBdMU1pjKEgKaf4JIi0a1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDYy/MTQ0LTE0OTc5MTk4/NjgtMjcyMi5qcGVn.jpeg) | 2007 | Haale | Paratrooper |
+| 85 |  | 2007 | Farhad | Snow |
+| 63 |  | 2007-01 | Haale | Morning |
+| 74 |  | 2008 | Ballgard | Zigiland |
+| 82 |  | 2008-12-01 | Ekove Efrits | Suicidal Rebirth |
+| 67 | ![Cover](https://i.discogs.com/OPO1R_6UjdssQVx7Ms670EKs6l3hrXtjpCr_87_3FC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODU5/LTE2Mzk3MjkxOTct/ODI3OS5qcGVn.jpeg) | 2009-08-17 | Rez | Shahrvand |
+| 84 |  |  | Shahram Nazeri | Mythical Chant |
+| 93 | ![Cover](https://i.discogs.com/BWguEuc7vK-8MGDXKUYIrqbWW80LjiUjtIgyGz5tYzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIw/NDQtMTI0OTIxMjc5/Mi5qcGVn.jpeg) | 2009 | Kiosk | bagh e vahsh e jahani (Global Zoo) |
+| 8 | ![Cover](https://i.discogs.com/OQolA-cYLRZJcwKWZ6af-WPZgqLVohSs98nGBsEq5SA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Njg3/MTMtMTQ5OTkzMTY5/Ny0zOTY3LmpwZWc.jpeg) | 2010 | Hypernova | Fairy Tales (Single) |
+| 51 | ![Cover](https://i.discogs.com/fwCSV7qhuCMHgHSce_GNZg-6_r863-5eicYc6XM9rH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDIy/OTQtMTI5NDYwMTcz/OS5qcGVn.jpeg) | 2010 | Ekove Efrits | Hypermnesia |
+| 97 |  | 2010-04-06 | Hypernova | Through The Chaos |
+| 4 | ![Cover](https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg) | 2010-12-01 | Various Artists | Les chats persans (Bande originale du film) |
+| 5 |  |  | Kourosh Yaghmaei | Gol-e Yakh |
+| 6 |  |  | Milad Derakhshani | Harf Bezan |
+| 98 | ![Cover](https://i.discogs.com/AMWmIAwrSaZ1SGQZqGpSRjJUK1LnD2L049mExr2X254/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjEz/MjUtMTMxNjc4MDcy/NS5qcGVn.jpeg) | 2011 | Kourosh Yaghmaei | Back From The Brink: Pre-Revolution Psychedelic Rock From Iran: 1973-1979 |
+| 88 |  | 2011-04-11 | 1000 Funerals | Butterfly Decadence |
+| 79 | ![Cover](https://i.discogs.com/U7rGQEPHJhxopjG2J5HdD1UYglDWzdTqfGuHu4taQBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTY1/MDgtMTM4NDM3NDA3/NS00ODczLnBuZw.jpeg) | 2012 | Habib | Bezan Baran |
+| 87 | ![Cover](https://i.discogs.com/xxuEM9znAV2_NZLfTfWUHU4r5Vn--urc09jlCi2KELQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDkx/ODctMTQwOTMwMDY0/NS00MDY0LmpwZWc.jpeg) | 2012 | Kourosh Yaghmaei | Gole Yakh - Persian Music |
+| 80 |  | 2012-02-14 | Kayhan Kalhor | I Will Not Stand Alone |
+| 71 |  | 2012-03-24 | Kayhan Kalhor | The Wind |
+| 95 |  | 2012-03-24 | Kayhan Kalhor | Silent City |
+| 7 | ![Cover](https://i.discogs.com/6NTdext0oPbpOrOO8hUxCLJCVou7ptl8jNHa3jMt9L4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Nzg3/MjgtMTM2ODk1Mzcy/MC0zODUyLmpwZWc.jpeg) | 2012-07-28 | Silent Path | Mourner Portraits |
+| 9 |  |  | Kilometre23 | Locomotive Khasteh (Tired Locomotive) |
+| 10 |  |  | Naser Montazeri | The Days Bygone&#x2F; Roozoon e Raftah |
+| 14 |  |  | Houshmand Aghili | Houshmand Aghili, Vol. 5 - Persian Music |
+| 27 |  |  | Mist Within | Post Mortem Dump |
+| 29 |  |  | Reza Yazdani | Khaterat Mobham |
+| 30 |  |  | Afshin Moghadam | Zemestoon - Persian Music |
+| 34 |  |  | Ebrahim Monsefi | Râmi&#39;s Songs |
+| 37 |  |  | Bomrani | 1340 |
+| 39 |  |  | Aida Shamlou | Ever Shining Suns |
+| 40 |  |  | Zir-Cigari | Nale dar Kenare Zohr |
+| 43 |  |  | Hadi Pakzad | Darkness |
+| 46 |  |  | Shahram Gholami | Persian Oud, Dirine Delkhah |
+| 48 |  |  | Alireza Eftekhari | Sayyad(Hunter)-Iranian Classical Music |
+| 49 |  |  | Shahram Shabpareh | Khejalati |
+| 24 | ![Cover](https://i.discogs.com/bfYdBGnabmXPk38PI2hJu6dFFK9YPQC61Yusu81ohWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQy/MDItMTE4NTI4NjI0/Ni5qcGVn.jpeg) | 1991 | Dariush | 40 Golden Hits of Dariush |
+| 22 | ![Cover](https://i.discogs.com/SaiDgccMVMxhF3N7bxnjZlgjKUG3K6iDmosKTL_CIQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI0/ODIwLTE2NTk4NTMw/ODEtNTY0Ny5qcGVn.jpeg) | 1993 | Hossein Alizadeh | Under the Cutting Blade (Original Motion Picture Soundtrack) |
+| 47 | ![Cover](https://i.discogs.com/hHxbz-ujcPRdniTDrZ9IJ0fsNp6Y_x6WBMxlVem-eYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjg4/NTQtMTQ1Mzc4OTQ2/Ny0yNDYxLmpwZWc.jpeg) | 1993 | Faramarz Aslani | Roozhaye Taraneh Va Andooh - Persian Music |
+| 32 | ![Cover](https://i.discogs.com/4kvW_2Rm6MvjyHe53kOy-3r4GAPUtZvcGYwO3aKkkPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQy/ODY2LTE2ODIxMzIy/MjgtMTE2Mi5qcGVn.jpeg) | 1994 | Farhad | Khab dar Bidari |
+| 28 | ![Cover](https://i.discogs.com/M043B-EUkzk6oV1vl_gjTuHTniyKYNT_GewQsdFg5gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODg5/MTQtMTMzMjUzMzA5/NC5qcGVn.jpeg) | 1996 | Mirza | Pinocchio |
+| 20 |  | 1998 | Minoo Javan | Persian Folk Songs |
+| 21 | ![Cover](https://i.discogs.com/djmN_DjNi0dJb34-CORTjvhamQpprTEcXHnUnZQ12fA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk3/MDU1LTE1OTc5NTk1/MzAtMjQ3Ni5qcGVn.jpeg) | 1999 | Sima Bina | Music of North Khorassan |
+| 25 |  | 2004-05-18 | Vas | Feast Of Silence |
+| 41 | ![Cover](https://i.discogs.com/46N8NvXLNqAPSqkCEkOekCVUM2x9-WLHD8Dpw_2ktS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/NTUyLTE1MDg4NTY2/NjctODE5My5qcGVn.jpeg) | 2006 | Vigen | Viguen [Ahanghaye Do Sedaiy] |
+| 42 | ![Cover](https://i.discogs.com/46N8NvXLNqAPSqkCEkOekCVUM2x9-WLHD8Dpw_2ktS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/NTUyLTE1MDg4NTY2/NjctODE5My5qcGVn.jpeg) | 2006 | Vigen | Zane Irooni |
+| 13 | ![Cover](https://i.discogs.com/_bkQcMuEki2rc7IOg5LFSpE7WKqN8I7_dv8UgdkBt60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDgy/MjEtMTE5NjAwMjM0/Ni5qcGVn.jpeg) | 2007 | Aras | Depressive Rebellion |
+| 38 |  | 2007 | Farhad | Vahdat |
+| 35 | ![Cover](https://i.discogs.com/70eVp5HVAxGZVP0G06StLaqdPMArZ_hqQRq3XaMxYDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU0/MTM0LTE1OTE3OTUz/NjktODg4MC5qcGVn.jpeg) | 2007-08-01 | Emerna | Mortem Animalium |
+| 50 |  | 2008-12-30 | Abdi Behravanfar | Shalamrood |
+| 45 |  | 2009-07-02 | Ekove Efrits | Nettlesome Solitude |
+| 31 | ![Cover](https://i.discogs.com/4_oHcKlhyHv_T4r9Z9DZ7S-GkLQ065KpAjtBiJA6rWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTM0/NTAtMTI4NDI3MTM3/MC5qcGVn.jpeg) | 2010 | Mehrpouya | Soul Raga |
+| 11 | ![Cover](https://i.discogs.com/Ev1rcN47Sesr4n-u625eOch57xjC3lHXZmnZdrCRMd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTA5/OTItMTQ4NDIyNjAz/MS0xMTIzLmpwZWc.jpeg) | 2010-01-16 | Zakhm | Drowned In Suicide Thoughts |
+| 23 | ![Cover](https://i.discogs.com/2Y5KAtLic-1n9dOxEb5GuW-cHRzTD-9-weKi8qgSlvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDY0/MzUtMTM5NjE4NTE1/My0zNjcwLmpwZWc.jpeg) | 2014-03-30 | Yestegan chaY | Shikoon |
+| 44 | ![Cover](https://i.discogs.com/FOzEmAozLmmYDMHXiy2HmXa-Z7QZla4eXh-IFg283DA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDIz/NTktMTQ0OTA4MTI1/NS03NzQ5LmpwZWc.jpeg) | 2014-05-09 | Comment Band | Rafte Az Dast |
+| 26 | ![Cover](https://i.discogs.com/WCVdfOflpYBGSh3NJGENJ7j6Wct0SQxbRJLpyt6_t9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzI4/MDMtMTQxMDM1MDYw/Ny0xNTI0LmpwZWc.jpeg) | 2014-10-06 | From the Vastland | Temple Of Daevas |
+| 33 | ![Cover](https://i.discogs.com/5mfjZVbh4ch4m6MxsGKnGjvq4S9A2sgJNpfqCxFFE68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTQ1/NDMtMTQ1MTE0NDY5/My00NDg1LmpwZWc.jpeg) | 2015-12-11 | 9T Antiope | Syzygys |
+| 18 | ![Cover](https://i.discogs.com/WsKWKkE_MHuDkIg8XYrzwVnMQMiaJsN_nJOJLNih56M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM3/ODkzLTE1MDA4MjQ2/NzgtODM5Ny5qcGVn.jpeg) | 2016-06-25 | Blaakyum | Riot Against Riot |
+| 17 | ![Cover](https://i.discogs.com/8aXZP7hnFijKh9hrgTC_eHKhYclSxSEeEPuPYvbaRmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzg2/NDgyLTE2MDk4MDky/MjktNzU3MS5qcGVn.jpeg) | 2020-03-13 | Shab | Spell On Me |
+| 12 | ![Cover](https://i.discogs.com/1saCA1eapP7OYtEH8ETjCV5E4rwTEPBDnAc55d4ol_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDI2/ODQyLTE2MTM0MDAz/ODUtOTk0NC5qcGVn.jpeg) | 2020-03-31 | Hichkas | Firooz |
+| 16 |  |  | Mohammad Reza Shajarian | Bote Chin, Shajarian 1 - Persian Music |
+| 19 |  |  | Fereydoon Farrokhzad | Memories (Best of Farrokhzad Vol. 1) - Persian Music |
+| 55 | ![Cover](https://i.discogs.com/FOzEmAozLmmYDMHXiy2HmXa-Z7QZla4eXh-IFg283DA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDIz/NTktMTQ0OTA4MTI1/NS03NzQ5LmpwZWc.jpeg) | 2013-11-17 | Comment Band | Slipped Away |
+| 94 | ![Cover](https://i.discogs.com/4j5tDHK_XMy0dDJAIz_ZxiuORuPYb_Lym7hGcBDtQ0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDUx/MjQtMTQwNjE4OTc1/Ny01MjEwLmpwZWc.jpeg) | 2014-05-28 | Mohsen Namjoo | Trust The Tangerine Peel |
+| 68 | ![Cover](https://i.discogs.com/mG4g9Bv8H3dYzPGRD_QcIOnHesiisqUf_LmhycvTaRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkx/Njg1LTE1OTYwMDI3/OTYtMzAyNC5qcGVn.jpeg) | 2015 | Arta | Ye Wan Tony |
+| 78 |  | 2016 | Various Artists | Cien gaviotas donde iran... Un tributo a Duncan Dhu |
+| 69 | ![Cover](https://i.discogs.com/WsKWKkE_MHuDkIg8XYrzwVnMQMiaJsN_nJOJLNih56M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM3/ODkzLTE1MDA4MjQ2/NzgtODM5Ny5qcGVn.jpeg) | 2016-06-25 | Blaakyum | Line Of Fear |
+| 100 | ![Cover](https://i.discogs.com/5d1gJ5SBAAl8vpicA6Zxj5BAyblYetiimDuGnEWqg2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg5/MDE2LTE0OTY0OTY3/MDUtMjYzOS5qcGVn.jpeg) | 2017-06-02 | Hiatus | All The Troubled Hearts |
+| 99 | ![Cover](https://i.discogs.com/4lKtvBk4TkPT-_RnskiDmenMZwYK9HZT21Nc-v2yENA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzc2/NTk1LTE1NzMyOTgy/NDctNjY2NS5qcGVn.jpeg) | 2019-11-08 | Shida Shahabi | Shifts |
+| 62 | ![Cover](https://i.discogs.com/f3ZoiwvbfYH2LlNembvMyuKrTWxGyFQQFWGh4UFkmq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjgw/NDQ1LTE2MTI1OTc4/MjUtMjA4Mi5qcGVn.jpeg) | 2020-08-11 | Sirvan Khosravi | 9 O&#39;Clock |
+| 72 | ![Cover](https://i.discogs.com/ualU873VCFrnPx4tBuL5M95RGrPAGHUquWGPuNt72fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTUx/NDk0LTE2NDA5NDY1/MTMtNjUzOC5qcGVn.jpeg) | 2021-04-24 | Crows in the Rain | Sorrow For An Unfinished Dream |
+| 81 | ![Cover](https://i.discogs.com/ualU873VCFrnPx4tBuL5M95RGrPAGHUquWGPuNt72fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTUx/NDk0LTE2NDA5NDY1/MTMtNjUzOC5qcGVn.jpeg) | 2021-04-24 | Crows in the Rain | Dri:m Wan; Därk Blü |
+| 58 | ![Cover](https://i.discogs.com/J_Tct5zj4dvEFdZV6SLZh0PdaZLdCaH_nqU607Nj0c0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQ5/OTIwLTE2MjUyMTU4/NTItNzczNC5qcGVn.jpeg) | 2021-06-11 | Siavash Amini | A Trail of Laughters |
+| 36 | ![Cover](https://i.discogs.com/5pICpZzCF_9WIoaGWOXWa665h6NMYvTVTsoOBZP9I8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjI5/MTYtMTY4MDIwNDIw/MS03OTg4LmpwZWc.jpeg) | 2022-03-15 | O-Hum | In Kherghe Biandaz |
+| 83 |  |  | Simin Ghanem | Gollake Cheshat - Persian Music |
+| 86 |  |  | Fereydoon Foroughi | Fetneh Chakmehpoosh (Persian Music) |
+| 92 |  |  | Omid Shabani | Blooming in the Valley |
+
+### Related genres
+
+- [iranian]({{ "/tags/iranian" | relative_url }})
+- [persian]({{ "/tags/persian" | relative_url }})
+- [farsi]({{ "/tags/farsi" | relative_url }})
+- [traditional]({{ "/tags/traditional" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [persian rock]({{ "/tags/persian-rock" | relative_url }})
+- [iranian rock]({{ "/tags/iranian-rock" | relative_url }})
+- [world]({{ "/tags/world" | relative_url }})
+- [sufi]({{ "/tags/sufi" | relative_url }})
+- [classical]({{ "/tags/classical" | relative_url }})

@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-18T09:23:39.754Z
+permalink: tags/pop-latino
+title: pop latino
+---
+
+## pop latino
+
+Last updated: <time datetime="2025-10-18T09:23:39.754Z">Sat Oct 18 2025 12:23:39 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 15 |  |  | R!CH YASHEL | EMBELESAO |
+| 25 |  |  | Mike Moonnight | We Go Latin 2 |
+| 38 |  |  | Fernando Diamant | Maldito Heroe |
+| 71 |  | 1977 | Various Artists | Resistiré |
+| 63 |  | 1985 | Luis Miguel | Fiebre De Amor |
+| 6 | ![Cover](https://i.discogs.com/iE6RDJ03NWNvf0XofYHnnGiqq6fcSPfGgEtiMV4ibuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDMy/Ny0xMjg3Mjk4MzIx/LmpwZWc.jpeg) | 1987 | Lucero | No Me Dejes Ir - Single |
+| 51 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1987 | Various Artists | Todos Somos MAS |
+| 48 | ![Cover](https://i.discogs.com/Y41IFwdf9ijFEo0iGgXchDOX1JkZUMgGOS8cVR1bMkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzc0/OTYtMTQwOTUwNzQy/NC00MTI4LmpwZWc.jpeg) | 1988 | Luis Enrique | Dentro Y Fuera |
+| 50 | ![Cover](https://i.discogs.com/nUnZRpRF3plN2Ssw1Qrq0aW1pFSDZ9itDEX4tGwCPH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTkx/MTg1LTE1MjYxMzY3/NDYtMzkyMS5qcGVn.jpeg) | 1990 | High Hill | Não Sou Obrigada |
+| 18 | ![Cover](https://i.discogs.com/yi0bMZKeRK7eSKNB4zwf5GHa8wZRozwOcwYpef8Wh38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQy/NzQtMTM1MTcwNTY0/NS03NTE4LmpwZWc.jpeg) | 1991 | Lucero | Sólo Piens En Ti |
+| 41 | ![Cover](https://i.discogs.com/vObspu6jS6HgdTo8cn9pe69VvpBOJjsKmmZXwJC_kMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODIx/MzUtMTQ2NDQ5NTU2/Ni0zMjMxLmpwZWc.jpeg) | 1991-07-01 | Lucero | Lucerito |
+| 4 | ![Cover](https://i.discogs.com/NL2AhmXNqBzj5IB8IETi3xvym8JP_lRKfUFNOstrSU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM3/MDY5LTE1ODk5MzA0/MTktNjczMi5qcGVn.jpeg) | 1992 | Emmanuel | We Love Disney (Latino) |
+| 16 | ![Cover](https://i.discogs.com/_d6uMb52GeaMWRLZXZHrGrX2UY_VvUEf3DUZLiwn-PQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTM5/ODItMTMzMjYxNjI3/Ni5qcGVn.jpeg) | 1993 | Eros Ramazzotti | We Love Disney (Latino) |
+| 61 | ![Cover](https://i.discogs.com/_msA90umjHhKJivN7Ak1iSGJmtPzPVjGjFX-SC13sXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjQ5/NS0xMTQ4NzE3NjE3/LmpwZWc.jpeg) | 1993 | Yanni | Yanni Voices |
+| 32 | ![Cover](https://i.discogs.com/ObK_7qt4Q9BZh4OYDaRvXOIAVmi7R4-E5DXJBwnVAls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Nzcx/MTEtMTQ2Mzg0NDUw/NC0zNzQ5LnBuZw.jpeg) | 1994 | Lucero | Siempre Contigo |
+| 27 | ![Cover](https://i.discogs.com/DDEwW9j4FGUlQgDLZBknBVNOaj1LmCqCX_ILkFbyBzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDY1/NTc2LTE2NDY5NzQ3/ODktNzY1NC5qcGVn.jpeg) | 1996 | Luis Enrique | Génesis |
+| 92 | ![Cover](https://i.discogs.com/VqfuzEhoCNE8XBQt1k3yIBPs0fLC2zXE-S1SzEvpQXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzI4/NzctMTI4MDIyNjcx/NC5qcGVn.jpeg) | 1996 | Enrique Iglesias | Subeme La Radio |
+| 3 |  | 1996-07-30 | Paul Anka | Amigos |
+| 59 | ![Cover](https://i.discogs.com/XryMJAX6F_KvjgRO7xgkZdznktl1mTgikF3F36R5C0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEx/LTEyMDg5NDg0MzEu/anBlZw.jpeg) | 1997 | Miranda | Es Mentira |
+| 46 | ![Cover](https://i.discogs.com/id2om4ADH9EAITZSbQFMvXJ0VhjhI06xOZhHJ8ISmPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTEz/NzItMTMwODgwMDcx/MC5qcGVn.jpeg) | 1997-04-18 | Anahí | Anclado en Mi Corazón |
+| 47 | ![Cover](https://i.discogs.com/id2om4ADH9EAITZSbQFMvXJ0VhjhI06xOZhHJ8ISmPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTEz/NzItMTMwODgwMDcx/MC5qcGVn.jpeg) | 1997-04-18 | Anahi | Anclado en Mi Corazón |
+| 22 | ![Cover](https://i.discogs.com/D6dkC6LYpusTXUbWeiLf9MRW0FlYPD96SXqf5AqFwzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTIw/MDUwLTE2MDAyMDMx/MzAtOTU2NC5qcGVn.jpeg) | 1999 | Christian Castro | Días Felices |
+| 21 | ![Cover](https://i.discogs.com/itb0LwKRQ458wVZC6-dIevAiNWdW6q9YC0Ib7y1mN_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgz/NDY2LTE1MTUzMzc1/MjctNzExOS5qcGVn.jpeg) | 1999-02-23 | Luis Enrique | Timbalaye |
+| 19 | ![Cover](https://i.discogs.com/vm-YOaq99XzTDYlcii89LdpAVAiOCcRUJ2aJQgdgAXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTQw/NDEtMTQxNDg4MzU3/NS02NjI1LmpwZWc.jpeg) | 2000 | Lucero | Mi Destino |
+| 76 | ![Cover](https://i.discogs.com/aDsy1Z-fj-CXP9SxKKtIJUqum__TNxgCZFQQqobzsdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTc2/MzE0LTE1NDkzODM2/NzUtNzI4MS5qcGVn.jpeg) | 2000 | OV7 | CD00 |
+| 66 | ![Cover](https://i.discogs.com/2XYky8LtI4amG0826SY69G9BVsMBgeLr7yOF9_tn_4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTEz/NzktMTM4NzEwNTcy/MS03ODc3LmpwZWc.jpeg) | 2000-07-17 | Anahí | Baby Blue |
+| 73 | ![Cover](https://i.discogs.com/kexJYdzJzi662flZuGsnCY7TshAuYUPqXaZSoiGG2kw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTMy/MDgtMTMwODg4NDEz/Mi5qcGVn.jpeg) | 2000-07-17 | Anahí | Una Rebelde en Solitario |
+| 20 | ![Cover](https://i.discogs.com/ry2p9fWfAMeQui5rP-G4MdbkfqLEqmvaDFy9WDBMidc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTIw/NTEtMTM3NTY2NDE4/My04NDg5LmpwZWc.jpeg) | 2001 | Luis Eduardo Aute | Querencias |
+| 7 | ![Cover](https://i.discogs.com/dCG19C7_O_fMf_L5JUO2XLQ8MFg4csitORxbI0E_20E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjg0/NDQ1LTE2NTI5OTA4/MTgtMzU2Ni5qcGVn.jpeg) | 2002 | Luciano Pereyra | We Love Disney (Latino) |
+| 30 |  | 2002 | Lulu Santos | Programa |
+| 31 |  | 2002-01-27 | Maia | Baile de los Sueños |
+| 14 | ![Cover](https://i.discogs.com/TbUXAqh6paETG2RbxuqsW7-FkXshQxJjUmJgH0dbZ4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjA4/NDQ4LTE1NDk5Njkw/MzEtMzU0MS5qcGVn.jpeg) | 2002-06-18 | Paulina Rubio | Me Quema - Single |
+| 84 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f3787b87a9be0d9330b94c813c786dff.png) | 2002-07-08 | Natalia Lafourcade | Natalia Lafourcade |
+| 34 |  | 2002-10 | Mambrú | Mambrú |
+| 69 | ![Cover](https://i.discogs.com/GjP6QA8U5TnIqaRCaSL4KnF6eiQso671q3p046j6pTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjgx/Mi0xMzk1NDgxNjA3/LTczMjYuanBlZw.jpeg) | 2003 | Ricky Martin | Cántalo |
+| 70 | ![Cover](https://i.discogs.com/4Xwv5nXIwyE-jRcAFZmUN_3s-1S1yQ39PDFLRmXZLjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDIy/NTItMTMzMDU0MDQy/MS5qcGVn.jpeg) | 2003 | Tribalistas | Fora da Memória |
+| 13 | ![Cover](https://i.discogs.com/JYlyWd-Ls3nQZJtMcsqU5ClvRn1MeYFKgopHCAWxj_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTEz/OTAtMTUzNDA5MTk0/MC04MDM2LmpwZWc.jpeg) | 2005 | Anahi | Antologia |
+| 26 | ![Cover](https://i.discogs.com/04jfplZaN-75EVpspBhe_Z3ProFyuwzetZ-eHf3_mNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg3/NjAzLTE2MDMyMDcy/ODItMzgwMS5qcGVn.jpeg) | 2005 | Kudai | Aquí Estaré |
+| 72 |  | 2005 | Fanny Lú | Lagrimas Calidas |
+| 9 | ![Cover](https://i.discogs.com/0vOV3Of-5h1BeUyN7LS8nWZvS2oYniAHU24UPFsu8lU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM1/NjctMTMxMDgzNzQz/Ni5qcGVn.jpeg) | 2006 | Belanova | We Love Disney (Latino) |
+| 12 | ![Cover](https://i.discogs.com/dBFuHDnS_vRbkYFTc4h35q7GYPKQq4r0StqOKYiguFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjI3/OTctMTQ4OTMxMDA1/My05MjU3LnBuZw.jpeg) | 2006 | Ana Torroja | We Love Disney (Latino) |
+| 67 | ![Cover](https://i.discogs.com/JuRw14pQgzNm6932U2Mhn20K3w-ObhvmJ3eGjywG1nA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzc5/MDctMTY5MTE0ODcw/NS00MDcxLmpwZWc.jpeg) | 2006 | Ivete Sangalo | À Vontade |
+| 88 |  | 2007-02-04 | Conchita | Nada Más |
+| 75 | ![Cover](https://i.discogs.com/lDu8_rSmN-pYn-r49eEIHVevjia1kkzZ-cP2PSg0w1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTc4/NDMtMTQzNTk0MTg4/NS03ODI0LmpwZWc.jpeg) | 2008-12-08 | Fanny Lú | Dos |
+| 62 | ![Cover](https://i.discogs.com/4EU_-aDDNXN3Q7Pk893lZkMtEfZXD-PD8beg_ACCZyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjM5/MTEtMTI1MTg1MjU4/MC5qcGVn.jpeg) | 2009-03-24 | Yanni | Voices |
+| 36 |  | 2009-05-19 | Luis Enrique | Ciclos |
+| 57 | ![Cover](https://i.discogs.com/xb4Rv0WrdpGmpLWK21ltLrwql-zTkURPqUMW-44SHKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjg2/NDYtMTQ4OTgwNjE1/MS03MTgzLmpwZWc.jpeg) | 2009-09-11 | Nelly Furtado | Mi Plan |
+| 10 | ![Cover](https://i.discogs.com/xtPm5c6JdJp3Zuhu0_92zwjBM5tuzbQJQTPpCJGVjeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzky/NzMwLTE2MjY2NjAz/NTQtMzA2Mi5qcGVn.jpeg) | 2010 | Luis Enrique | Evolucion |
+| 33 | ![Cover](https://i.discogs.com/dSyCjvuU6EcPNQsL5mqN5Gx1R_RZpL0g-QcUHHNj1Mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjEw/NDktMTUzNzk4ODc5/OC0xNDg5LmpwZWc.jpeg) | 2010 | Ivete Sangalo | Simples Assim |
+| 79 |  | 2010-03-23 | Christian Chávez | Almas Transparentes |
+| 39 |  | 2011 | Santiago Cruz | Solo Hasta Hoy |
+| 28 | ![Cover](https://i.discogs.com/Z_fmCr2RyhQwf15VY-AbARRzPpdNyh5YQjcXQfo3gU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjQw/MTItMTM0MTgzMjQ3/Mi0zMzg2LmpwZWc.jpeg) | 2012 | Cali Y El Dandee | Tu Nombre |
+| 43 | ![Cover](https://i.discogs.com/jGRjLS9VTKXrtDD-g1F5U_LbDaxInbtleOWarFTEWwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzMz/NTQtMTM0OTcwNzEz/NC0xMDUzLnBuZw.jpeg) | 2012 | Santiago Cruz | A Quien Corresponda, cartas abiertas y otros asuntos de la correspondencia |
+| 45 | ![Cover](https://i.discogs.com/jlSsXRNZcf7S1rGVLeYrj-JwQ2SkxhPJK82MkP5A7rw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE2/NTk1LTE2MTA1ODE2/MzQtNTUxNi5qcGVn.jpeg) | 2012 | Alberto Stylee | El Que Los Puso a Entonar |
+| 58 |  | 2012-07-17 | Santiago Cruz | A Quien Corresponda |
+| 8 | ![Cover](https://i.discogs.com/02IdkzH-UmxktYBoNmtomNa3FPJAWkSr9I9LrZPDxhE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgy/Njk4LTE2ODk0MzEy/MDUtOTk5MC5qcGVn.jpeg) | 2013 | Luis Fonsi | Comenzaré |
+| 56 | ![Cover](https://i.discogs.com/u6-8NmU3Oar0LI9xtGdf_yN6WwFR1ZPCwKvdMuSyDjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTU1/MjYtMTM3NDQ5NTcw/NS0xNTk0LmpwZWc.jpeg) | 2013 | Samo | Inevitable |
+| 29 | ![Cover](https://i.discogs.com/Jca29a_7UKjj3pQyr-oOzXiCbUcPBPKP_1Fdp7DITM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU5/NDQxLTE0OTI2NDk1/NjctMjQxMy5qcGVn.jpeg) | 2013-03-12 | Baby K | Locos Valientes |
+| 2 | ![Cover](https://i.discogs.com/_MO_o12DPpNwskQcONr_JYwl1I0b2UG00DkePsA1nnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTEx/MDc1LTE1MDYzNzc0/NzEtNjAzMy5qcGVn.jpeg) | 2013-04-25 | Maia | Instinto |
+| 5 | ![Cover](https://i.discogs.com/3pzKN332PXvPICS0hqFIQtPGbgEn_0CFJtu7DHvXfjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc5/Mjg1LTE1ODg1Mzkw/NDItMTk5MC5qcGVn.jpeg) | 2013-04-30 | La Santa Cecilia | We Love Disney (Latino) |
+| 52 |  | 2013-05-07 | Toby Love | Amor Total |
+| 81 |  | 2013-08-27 | Alejandro Fernández | Confidencias |
+| 83 |  | 2013-09-24 | Gloria Trevi | De Película |
+| 80 | ![Cover](https://i.discogs.com/BN639TciwGz8d4H55J4NkqO3gJfLKbbf910Epf5q_zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzY1/NzAtMTQxNDQyOTc0/My01OTU5LmpwZWc.jpeg) | 2014-04-29 | Nego do Borel | Esqueci Como Namora |
+| 42 | ![Cover](https://i.discogs.com/yi0bMZKeRK7eSKNB4zwf5GHa8wZRozwOcwYpef8Wh38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQy/NzQtMTM1MTcwNTY0/NS03NTE4LmpwZWc.jpeg) | 2014-08-12 | Lucero | Sólo pienso en ti |
+| 95 | ![Cover](https://i.discogs.com/iJM0uQm-Sf5ul_8DZiLDSyg-9X0SXKHIo86yE8RKbwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzIx/ODctMTQxNTI5MTI1/NS0yNDI1LmpwZWc.jpeg) | 2014-11-04 | Becky G | Can&#39;t Stop Dancin&#39; |
+| 1 | ![Cover](https://i.discogs.com/15TtBqU0CltV2QZxLVze3lPZJGjaBhE5lwPexo7gtG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY5/MDY4LTE2MDI4NzYx/MjktOTg2Mi5qcGVn.jpeg) | 2015 | Vesta Lugg | Touch Me - Single |
+| 86 | ![Cover](https://i.discogs.com/S_JDWNh9zzfk8V9NJCcjP1h0lAPdgipGK_zzU1hgfQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzAz/MTUtMTQ2MDA2NjYw/My02NjMyLmpwZWc.jpeg) | 2015 | Enrique Bunbury | El Viaje A Ninguna Parte |
+| 40 | ![Cover](https://i.discogs.com/XeEOHlAfkhP5kEEa92JofJ-0qK6TFN0KTE4mEXLZfAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzU5/NjAtMTQ0MTQ3MjUy/Ny0yNjY2LmpwZWc.jpeg) | 2015-09-02 | Kendji Girac | Me Quemo |
+| 74 | ![Cover](https://i.discogs.com/lujvuL7Nx16Q24zF5-szPKf7slsJ_amMtNmq_2wI7zc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM5/Mjc0LTE1NDEwMjY2/ODItOTkzMS5qcGVn.jpeg) | 2016-12-14 | Mc Kevinho | Tô Apaixonado Nessa Mina - Single |
+| 44 | ![Cover](https://i.discogs.com/yX89_tqhUHe-gyQELSV_gsw1GAR7cXeEA0fJZUu-v5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDIz/Nzk0LTE2NjUyNzc4/NDctODc3MS5wbmc.jpeg) | 2017 | Joelma | Avante - EP (Ao Vivo Em São Paulo) |
+| 97 | ![Cover](https://i.discogs.com/Rhezk7gakI-ENCdI0DR6AuvY4GUAJ_ePAP95r-sk89Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI5/MzAwLTE2Mzg2NDcy/ODYtMTMyMC5qcGVn.jpeg) | 2017 | Danny Ocean | Me Rehúso |
+| 93 | ![Cover](https://i.discogs.com/CD8TUaJEUFjlCbOB_diwty3b4OArIv5zru_gzFaHMn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUz/NzM0LTE1NDg5ODcx/ODMtNjE2My5qcGVn.jpeg) | 2017-01-20 | Nicky Jam | Fénix |
+| 68 | ![Cover](https://i.discogs.com/6QupWZaUYgYmaObZw6TzKGFuI5BEOkPxCdc3hKQ8WIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzI3/MjUtMTQ4NzcyNDE3/Ni05MDczLmpwZWc.jpeg) | 2017-02-24 | Prince Royce | Deja vu |
+| 87 | ![Cover](https://i.discogs.com/Ms_ATwJSpu7ysqxjlskTnTvI_un1eW8Z1KxfmEuZt_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA1/NjI2LTE1MDI3NjI5/ODMtMzc5My5qcGVn.jpeg) | 2017-04-04 | Claudia Leitte | Baldin de Gelo |
+| 99 | ![Cover](https://i.discogs.com/IcRgt13wyiecOi6N5I5mRJzs2XbX855MlPVd5ud73ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjYz/OTQtMTQzOTkyMDM2/OS0xMTAxLmpwZWc.jpeg) | 2017-05-31 | Anitta | Paradinha |
+| 35 | ![Cover](https://i.discogs.com/l5BKZhyLTLh7HWnYiQcgbF9Is29qQybrQ2Gx6C8rxqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjIy/MjQtMTU4NzcwMTAz/MC0zMjMyLmpwZWc.jpeg) | 2017-10-17 | Fifth Harmony | Juntos (Acoustic) - EP |
+| 90 | ![Cover](https://i.discogs.com/XW8J_T72CDBNi985-GSRU-IMRciUW5DXzG4YV4vrbRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjIx/MDMxLTE1MTIxNTI1/NzQtNjY1MC5qcGVn.jpeg) | 2017-12-01 | Wisin | Escápate Conmigo |
+| 85 | ![Cover](https://i.discogs.com/oFgwlKaq2RnIF0JukTzLx2opGBlaTDL6JU2VUGqK7Rs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEw/LTE1OTE2NDQxMzUt/Mjg3Mi5qcGVn.jpeg) | 2018-05-15 | Miranda | Sin Restricciones |
+| 11 | ![Cover](https://i.discogs.com/no2ieYRR5sx7AtLz6tqk6-cT2PZn7Ln68SNttY28Bsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjEx/NzY5LTE2OTc0NzQw/NTEtNjY4NS5qcGVn.jpeg) | 2019-02-08 | Maite Perroni | Loca |
+| 82 | ![Cover](https://i.discogs.com/FKJaqCl1UhQYV5l_Ya0a-TCdrM4iC1jn8L44Xstlxc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY5/MzI4LTE1OTkyOTQ2/OTMtMTUwMC5qcGVn.jpeg) | 2019-03-15 | Tribalistas | Aliança |
+| 17 | ![Cover](https://i.discogs.com/OCUQRVkVI9Yi2BxLYbw2mlLKp11uDbFZpF_1hL4ksZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjMx/MzI5LTE1Nzg1MzU4/NDMtODMxNC5qcGVn.jpeg) | 2019-09-06 | TINI &amp; Lalo Ebratt | Fresa - Single |
+| 23 |  |  | Alejandro Sanz &amp; Armando Manzanero | Duetos, Disc 2 |
+| 24 |  |  | Pau Hernandez | De Marbella a Cancún |
+| 96 | ![Cover](https://i.discogs.com/kQIJc6oDkTU4PL56LmxcDyitBqcbE_fXQ3hEtxRZtd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjA4/MDQ5LTE1OTQ0NjEz/NzYtMjM0OC5qcGVn.jpeg) | 2019-09-13 | Becky G | Mayores |
+| 77 | ![Cover](https://i.discogs.com/R5e_AGEflLYd19EK2R2X6NO2WIxWHuAMdoHFw5n1swQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjM1/MjEtMTMwOTM4NTg4/MS5qcGVn.jpeg) | 2019-11-13 | Shakira | Shakira In Concert: El Dorado World Tour |
+| 49 | ![Cover](https://i.discogs.com/0EJ_nq9k1Shcj8cNfx7DYx74N2S3tipMZ5kobBW7OmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc5/MTAwLTE2MjM5NjYx/OTItMjIwNy5qcGVn.jpeg) | 2021-06-15 | Mallu Magalhães | Será Que um Dia |
+| 53 | ![Cover](https://i.discogs.com/0EJ_nq9k1Shcj8cNfx7DYx74N2S3tipMZ5kobBW7OmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc5/MTAwLTE2MjM5NjYx/OTItMjIwNy5qcGVn.jpeg) | 2021-06-15 | Mallu Magalhães | Navegador |
+| 54 |  |  | Lucah | Voy a Ti |
+| 60 | ![Cover](https://i.discogs.com/FKJaqCl1UhQYV5l_Ya0a-TCdrM4iC1jn8L44Xstlxc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY5/MzI4LTE1OTkyOTQ2/OTMtMTUwMC5qcGVn.jpeg) | 2019-03-15 | Tribalistas | Um Só |
+| 94 | ![Cover](https://i.discogs.com/Z9Obr-WrrtL3b--tGdVJ_5CDqdPe04Nk-CVMmV0-n7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODAw/NjEwLTE1OTgwMzAy/MzktMTg1My5qcGVn.jpeg) | 2020-08-21 | Maluma | Papi Juancho |
+| 89 | ![Cover](https://i.discogs.com/rpJEiYOevSNWQuCCMTiIKr7ehNual7Ez8Z-o9uSRiBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzIw/NTg4LTE2NzMzMTg0/NjMtNTIzNS5qcGVn.jpeg) | 2021-03-12 | Humbe | AURORA |
+| 78 | ![Cover](https://i.discogs.com/0EJ_nq9k1Shcj8cNfx7DYx74N2S3tipMZ5kobBW7OmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc5/MTAwLTE2MjM5NjYx/OTItMjIwNy5qcGVn.jpeg) | 2021-06-15 | Mallu Magalhães | Você Não Presta |
+| 55 | ![Cover](https://i.discogs.com/htWkChUycZpb3uhDsy10aZzxlqVcPHquWT87QdE_MxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjYx/NzkyLTE2NDU1NDA3/MTctNTcxMC5qcGVn.jpeg) | 2021-10-21 | Dulce María | Lágrimas |
+| 64 |  |  | Chyno Miranda | Quédate Conmigo |
+| 65 | ![Cover](https://i.discogs.com/FKJaqCl1UhQYV5l_Ya0a-TCdrM4iC1jn8L44Xstlxc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY5/MzI4LTE1OTkyOTQ2/OTMtMTUwMC5qcGVn.jpeg) | 2019-03-15 | Tribalistas | Diáspora |
+| 91 | ![Cover](https://i.discogs.com/rpJEiYOevSNWQuCCMTiIKr7ehNual7Ez8Z-o9uSRiBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzIw/NTg4LTE2NzMzMTg0/NjMtNTIzNS5qcGVn.jpeg) | 2021-03-12 | Humbe | ENTROPÍA |
+| 37 | ![Cover](https://i.discogs.com/m2BVo746Yt5WtoWHJqylZQeptRu3rYg1IYZKAf6TCw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTIw/MDA4LTE2NTQ3OTI4/NDktMzM1MS5qcGVn.jpeg) | 2022 | Wibe | Alma Gêmea |
+| 100 | ![Cover](https://i.discogs.com/IeVi22AeP6_83Dys0ot62H0BHauxBaED9uPQg88SUxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTI1/NTc0LTE2OTM0Mjg3/OTMtMjUzNS5qcGVn.jpeg) | 2023-08-24 | Anitta | Funk Generation: A Favela Love Story |
+| 98 | ![Cover](https://i.discogs.com/WoAdhPv_zY-ZTAC1b-7Vom4Kdf5tmy0DCP9jYLhIAtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTg5/MzY0LTE2MzQyMzEw/NjAtODQ2NC5qcGVn.jpeg) | 2023-11-18 | Natti Natasha | Criminal |
+
+### Related genres
+
+- [pop]({{ "/tags/pop" | relative_url }})
+- [latin pop]({{ "/tags/latin-pop" | relative_url }})
+- [latin]({{ "/tags/latin" | relative_url }})
+- [spanish]({{ "/tags/spanish" | relative_url }})
+- [latino]({{ "/tags/latino" | relative_url }})
+- [mexico]({{ "/tags/mexico" | relative_url }})
+- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [dance]({{ "/tags/dance" | relative_url }})
+- [brazilian pop]({{ "/tags/brazilian-pop" | relative_url }})
+- [brazilian]({{ "/tags/brazilian" | relative_url }})

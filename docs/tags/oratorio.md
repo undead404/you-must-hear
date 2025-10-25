@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T10:20:21.061Z
+permalink: tags/oratorio
+title: oratorio
+---
+
+## oratorio
+
+Last updated: <time datetime="2025-10-22T10:20:21.061Z">Wed Oct 22 2025 13:20:21 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 12 |  |  | Edition Monastery Maulbronn | Handel - Solomon |
+| 22 |  |  | James Bowman | Pergolesi: Stabat Mater; Salve Regina |
+| 23 |  |  | Lithuanian Chamber Orchestra | The Messiah |
+| 24 |  |  | Louis Spohr | Spohr: Die Letzten Dinge |
+| 26 |  |  | Krista Adams Santilli | Sacrae Notae |
+| 36 |  |  | Giacomo Carissimi | Carissimi: Jonas &amp; Jephte |
+| 48 |  |  | Giacomo Carissimi | Carissimi: Oratorios |
+| 49 |  |  | Howard Crook | Handel: Messiah |
+| 50 |  |  | The Bach Choir of Bethlehem with The Bach Festival Orchestra | The Ascension Oratorio and Two Festive Cantatas - BWV 11, 51 &amp; 34 |
+| 73 |  |  | Michael Tippett | TIPPETT: A Child of Our Time |
+| 67 | ![Cover](https://i.discogs.com/PFcU6cEU9iphrFeR8W3LZVvCldoRKppHs6WpdujX3qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODI4/Mzc2LTE1MDQ5NzU5/NTgtOTU3OC5qcGVn.jpeg) | 1958 | Georg Friedrich Händel | Saul |
+| 58 | ![Cover](https://i.discogs.com/Fbqe8JCpZRsGprk91J5Da8ehKVTceyqYeztfS_TC7PY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzE3/MzU1LTE1NzMwMzk3/MTgtNTAzMC5qcGVn.jpeg) | 1962 | Franz Joseph Haydn | HAYDN: Die Schopfung (The Creation) |
+| 61 | ![Cover](https://i.discogs.com/cWgNhKdgpeuO0nofaxrzxPrcTcf-zDnzAJhsh5H-wvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NzY1/OTQtMTQ1NjMyMDkx/NS01MTAyLmpwZWc.jpeg) | 1962 | Georg Friedrich Händel | Messiah Arias and Choruses (London Symphony Orchestra) |
+| 30 | ![Cover](https://i.discogs.com/rGlWTrUph8MUjvAElaC5F9o0HT5fPth6soOW7blBNCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgx/MzI0LTE2NjcyNjE4/MDYtNTE5My5qcGVn.jpeg) | 1966 | Felix Mendelssohn | Mendelssohn: Paulus, Op. 36 |
+| 75 | ![Cover](https://i.discogs.com/89IQzYmquwYfq423ZTx9ZqoL3d8Jx5UKkRv7Rwl6uxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzU2/OTY2LTE1OTAyNDQw/OTItOTI1NS5qcGVn.jpeg) | 1966 | Georg Friedrich Händel | HANDEL: Dettingen Te Deum &#x2F; Te Deum in A Major |
+| 71 | ![Cover](https://i.discogs.com/EMkskqgVWpiB48hG8QFImc3aAxhbYmmfb4pijeSazMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Njk0/ODItMTM4MDkyMDIz/NC01ODk0LmpwZWc.jpeg) | 1967 | Georg Friedrich Händel | The Messiah Disc 1 (feat. Oregon Bach Festival Choir &amp; Orchestra -Rilling) |
+| 86 | ![Cover](https://i.discogs.com/vgLL6lS-G3F26oYaKsqkwW0cHJEJKubuXLW706OjFYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ1/NzYtMTMxNjk3ODc3/Ni5qcGVn.jpeg) | 1967 | Johann Sebastian Bach | Bach: Christmas Oratorio - Weihnachtsoratorium |
+| 98 | ![Cover](https://i.discogs.com/rQL84IwpHdiSgo48h7iCq8YceodCNGbWV4eGdNudknM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcz/MTc0LTE1NDE2NzYz/MjctNzEyNy5qcGVn.jpeg) | 1967 | Johann Sebastian Bach | Christmas Oratorio |
+| 89 | ![Cover](https://i.discogs.com/M8WbXVnTaKigyvmt2VdH4wlo-AuWcvIAlrfG_dt44Z0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODky/NDItMTQ2ODc5Mzk2/Mi00NzA0LmpwZWc.jpeg) | 1967-11-15 | Johann Sebastian Bach | J.S. Bach: St Matthew Passion, BWV 244 (Matthäus-Passion) |
+| 3 | ![Cover](https://i.discogs.com/m5PnkZGtkrXfhhNqBnZpaA7zl9T2QHNZ2eG0aE7Sx38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjEw/ODQtMTM3OTY1OTc3/MC01MTk3LmpwZWc.jpeg) | 1975 | Antonín Dvořák | Dvorak, A.: Spectre&#39;s Bride (The) |
+| 10 | ![Cover](https://i.discogs.com/lXiz3to8Mpwk3NeG_QUUPBtkUmmxo--V1xZ41jNxxTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NDc5LTE2MTk3MDEw/MDEtNjk4My5qcGVn.jpeg) | 1975 | Antonín Dvořák | Dvorak: Svata Ludmila |
+| 33 | ![Cover](https://i.discogs.com/fNyW9EiE4hmVsAijQ3dwAElVpNlG5nYQaqyqRwV2i88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzA0/NjE5LTE2NjEzODEy/MDQtNjM5Ny5qcGVn.jpeg) | 1976 | Georg Friedrich Händel | Il Trionfo del Tempo e del Disinganno |
+| 76 | ![Cover](https://i.discogs.com/Pjo1iFJ7nHtzqiod0fU66yM3szHLoNkNxiaGsBz1H-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NTU5LTE1MDgwNDAy/MjctODM4Mi5qcGVn.jpeg) | 1976 | Georg Friedrich Händel | HANDEL: Trionfo del Tempo e della Verita (Il) |
+| 95 | ![Cover](https://i.discogs.com/pEzHRlvQvjZGy2fc4z38bvRBRYKGTeSL4rveXME4Ghk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODAx/NzktMTQyMDI0NzA1/Ny0yMzg5LmpwZWc.jpeg) | 1976 | Johann Sebastian Bach | Matthäus-Passion |
+| 96 | ![Cover](https://i.discogs.com/rQL84IwpHdiSgo48h7iCq8YceodCNGbWV4eGdNudknM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcz/MTc0LTE1NDE2NzYz/MjctNzEyNy5qcGVn.jpeg) | 1976 | Johann Sebastian Bach | Weihnachtsoratorium |
+| 21 | ![Cover](https://i.discogs.com/iGYNnxajT5DG1RXz4l3d3zUgKxf3takupjtH7v4NZEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ2/NTU3LTE2NTkxNjcy/MTctNDA5NC5qcGVn.jpeg) | 1977 | Antonio Vivaldi | Vivaldi: Juditha triumphans devicta Holofernes barbarie |
+| 8 | ![Cover](https://i.discogs.com/udfxf2ao4pbcKPR9f8I87lxDofUuwwSj8nmqi-EJmyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/ODE5LTE1MzA2MzY0/MzAtNzkxNy5qcGVn.jpeg) | 1978 | Camille Saint-Saëns | Oratorio De Noel |
+| 92 | ![Cover](https://i.discogs.com/pEzHRlvQvjZGy2fc4z38bvRBRYKGTeSL4rveXME4Ghk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODAx/NzktMTQyMDI0NzA1/Ny0yMzg5LmpwZWc.jpeg) | 1978 | Johann Sebastian Bach | J.S. Bach: Matthäus-Passion BWV 244 |
+| 15 | ![Cover](https://i.discogs.com/R0v2Rj7Su4eDwZlVIizOA_FIupmlPgGL8Sz-9lOyqbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTM0/MDczLTE1MTgwMzc2/NzMtNjAxMi5wbmc.jpeg) | 1979 | Alessandro Scarlatti | Scarlatti: Humanità e Lucifero |
+| 55 | ![Cover](https://i.discogs.com/rGlWTrUph8MUjvAElaC5F9o0HT5fPth6soOW7blBNCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgx/MzI0LTE2NjcyNjE4/MDYtNTE5My5qcGVn.jpeg) | 1980 | Felix Mendelssohn | Mendelssohn: Elijah, Op. 70 |
+| 34 | ![Cover](https://i.discogs.com/tj4XqptEJTFANki8cqgfYvBbm8j6M4uRi1e3GPGyF50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzI3/MDMtMTQyODQzODEy/NS04MDcyLmpwZWc.jpeg) | 1980-06 | Judith Nelson | Handel: Messiah |
+| 7 |  | 1983 | Georg Friedrich Händel | Brockes-Passion HWV 48 |
+| 18 | ![Cover](https://i.discogs.com/82jDb5TPZCifnE-8S3abDxNNdNdgfMq-FUwF9927EXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjU0/MzMwLTE1MzE1MDYz/NjgtMjgyMS5tcG8.jpeg) | 1984 | Louis Spohr | Louis Spohr - The Last Judgement &#x2F; Die letzten Dinge (Original version of the Oratorio from 1826) - Musica Sacra |
+| 72 | ![Cover](https://i.discogs.com/W-q1A-9GkADfBLvxnNuWLmpBzoMmYpnY1kGiBnJvA9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzIz/MTctMTY2MTg3NzM5/Mi04MzM0LmpwZWc.jpeg) | 1984 | London Philharmonic Orchestra | Handel&#39;s Messiah |
+| 51 | ![Cover](https://i.discogs.com/tH44stphKAGDd2FjxKz13p2SXZxPlLKe_WI5u75cXTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzM2/NDctMTQ2MDI4NTYw/NS0xNTg5LmpwZWc.jpeg) | 1985 | Georg Friedrich Händel | Judas Maccabaeus |
+| 77 | ![Cover](https://i.discogs.com/pGRuKY1ihIW4LwrlpYFicmy0FVj24khgN_dlxtn_tWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTc1/NjAtMTQ3MTk0OTU2/MS0yODE3LmpwZWc.jpeg) | 1985 | Johann Sebastian Bach | J.S. Bach: Johannes-Passion |
+| 82 | ![Cover](https://i.discogs.com/AniTIPOtRjnR9Wz_-DxX7uFE8cJeCHufZLFbvmWHMNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTI2/MTg2LTE2MzY2MzU2/MjUtNTMxNi5qcGVn.jpeg) | 1987 | Johann Sebastian Bach | Bach: Easter Oratorio &amp; Actus tragicus |
+| 83 | ![Cover](https://i.discogs.com/7NGxjLLhicT9iXouNyqeqHsT4FNuggLA3wwL9YvUUNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODc4/MTYtMTM5NzMzODcx/MC00OTc1LmpwZWc.jpeg) | 1989 | Harry Partch | Revelation In The Courthouse Park |
+| 9 | ![Cover](https://i.discogs.com/BHm7NuStu-43N3hFAcrd-kc5tIMRXzofr7VrNJjqvuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ1/NjE5LTE1MjkyMjQ2/MjItODkyOS5qcGVn.jpeg) | 1990 | Antonio Salieri | Salieri: La passione di Gesu Cristo |
+| 29 | ![Cover](https://i.discogs.com/RDZlF3yWmfwhtL3qA7_annqP7sG6hlBUWtQTxGe-mQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQ1/OTgtMTIzODEwNTAw/Ny5qcGVn.jpeg) | 1990 | Georg Friedrich Händel | Hallelujah |
+| 59 | ![Cover](https://i.discogs.com/rQL84IwpHdiSgo48h7iCq8YceodCNGbWV4eGdNudknM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcz/MTc0LTE1NDE2NzYz/MjctNzEyNy5qcGVn.jpeg) | 1991 | Johann Sebastian Bach | Bach: Weihnachtsoratorium (mit einer Werkeinführung) |
+| 97 |  | 1991-10-11 | Paul McCartney | Liverpool Oratorio |
+| 38 | ![Cover](https://i.discogs.com/Pjo1iFJ7nHtzqiod0fU66yM3szHLoNkNxiaGsBz1H-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NTU5LTE1MDgwNDAy/MjctODM4Mi5qcGVn.jpeg) | 1992 | Georg Friedrich Händel | Handel: Acis &amp; Galatea |
+| 99 | ![Cover](https://i.discogs.com/Pjo1iFJ7nHtzqiod0fU66yM3szHLoNkNxiaGsBz1H-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NTU5LTE1MDgwNDAy/MjctODM4Mi5qcGVn.jpeg) | 1992 | Georg Friedrich Händel | Handel: Messiah |
+| 53 | ![Cover](https://i.discogs.com/v07CIdsgXJ_EiFB5XAyf_w7JekdIKu65OWNFTqebEqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTYw/OTYtMTQ4Njc2NzE1/MS0yMjEwLmpwZWc.jpeg) | 1993 | Jan Dismas Zelenka | Zelenka, J.D.: Gesu Al Calvario |
+| 66 | ![Cover](https://i.discogs.com/zkHqZFnYkx5uOZ3O16TT7c1TT0SpDoxclXedtTtpfFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODAx/ODY0LTE2NTcxMjE1/MTQtNDQ1MC5wbmc.jpeg) | 1993 | Arthur Honegger | Honegger: Jeanne d&#39;Arc au bûcher |
+| 4 | ![Cover](https://i.discogs.com/x01p-jJbd7phEgJzyka8LK3ciKEJ7AJ9vDcMmBIgELs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzA1/MTEwLTE1NTI3Nzcx/NzktNDc3Ny5qcGVn.jpeg) | 1994 | Franz Liszt Chamber Orchestra | Oratorium |
+| 80 |  | 1994-09-13 | John Tavener | Akathist of Thanksgiving |
+| 5 |  | 1995 | Giovanni Bononcini | Bononcini: San Nicola di Bari |
+| 16 | ![Cover](https://i.discogs.com/Y4bHY8Al2zu5jLZAwKAQ7_EUGF4_hojiloSIF8bZR5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzQz/ODUtMTMzMTkwNTg3/Ny5qcGVn.jpeg) | 1995 | Johann Sebastian Bach | Oster-Oratorium BWV 249 |
+| 52 | ![Cover](https://i.discogs.com/Y28KNl2GI3XulVsYUIXYHtuhUl5LtsqAjzzVXFTBE4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MTEy/NzUtMTQ4MTg0MTc0/NS00MDE4LmpwZWc.jpeg) | 1995 | Georg Friedrich Händel | HANDEL: Deborah |
+| 64 | ![Cover](https://i.discogs.com/pyOxxUxL06GkUoHGlJ8l4Li313WFjo2YDvp3RKDwGYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTg2/OTIzLTE0OTMwNjI5/MjUtMjI0NS5qcGVn.jpeg) | 1995 | Georg Friedrich Händel | HANDEL: Athalia |
+| 81 |  | 1995-09-01 | Georg Friedrich Händel | Messiah Highlights |
+| 14 | ![Cover](https://i.discogs.com/eYwMoG3RGeyi4yscstYxsruHSPT9pjX3okwqi8gETTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYx/MzMzLTE2Mjg5NjQz/OTMtNTc3MC5qcGVn.jpeg) | 1996 | Georg Friedrich Händel | La Resurrezione |
+| 68 | ![Cover](https://i.discogs.com/Pjo1iFJ7nHtzqiod0fU66yM3szHLoNkNxiaGsBz1H-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NTU5LTE1MDgwNDAy/MjctODM4Mi5qcGVn.jpeg) | 1996 | Georg Friedrich Händel | Handel&#39;s Messiah |
+| 85 | ![Cover](https://i.discogs.com/28VQzTrpNXxV2faW_4RcRyBJGQMpGyEsbvMvez77rsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk4/MjIxLTE1NDIxNDQ3/ODYtNDU5NS5qcGVn.jpeg) | 1996 | Georg Friedrich Händel | HANDEL: Tobit |
+| 11 | ![Cover](https://i.discogs.com/N05Vrm3kVFGglAUmvEdEAvQBimrUXsV2wO5MbSGf8lE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzk0/NTY1LTE2Mjg5OTU0/OTYtNDU2MS5qcGVn.jpeg) | 1997 | Georg Friedrich Händel | Messiah: Highlights |
+| 40 | ![Cover](https://i.discogs.com/pYZK7ukZla63a44St9H-MUARliqJSsLUFfrtUQDx_zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTE1/MTIzLTE2MzYzNzc3/NzAtMTA1NS5qcGVn.jpeg) | 1997 | Franz Joseph Haydn | Joseph Haydn - The Seasons |
+| 57 | ![Cover](https://i.discogs.com/pYZK7ukZla63a44St9H-MUARliqJSsLUFfrtUQDx_zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTE1/MTIzLTE2MzYzNzc3/NzAtMTA1NS5qcGVn.jpeg) | 1997 | Franz Joseph Haydn | Die Schöpfung |
+| 60 | ![Cover](https://i.discogs.com/23iByfU04BHGXAVJK_iz6asfCK5LsSbs06CEKstfzcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTI3/NDktMTY0NDUzMjUw/Mi0zOTAxLmpwZWc.jpeg) | 1997 | Lesley Garrett | A Soprano Inspired |
+| 78 | ![Cover](https://i.discogs.com/pYZK7ukZla63a44St9H-MUARliqJSsLUFfrtUQDx_zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTE1/MTIzLTE2MzYzNzc3/NzAtMTA1NS5qcGVn.jpeg) | 1997 | Franz Joseph Haydn | Haydn: Die Schöpfung |
+| 45 | ![Cover](https://i.discogs.com/SgyL7fCWsX86jz8EvQ2DtDDlUPPh-okWHvL9KEhBk_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzQw/NDAtMTM2NDc2MzAx/Ny0yMDMwLmpwZWc.jpeg) | 1999 | Nikolaus Harnoncourt | Bach: Weihnachtsoratorium |
+| 79 | ![Cover](https://i.discogs.com/89IQzYmquwYfq423ZTx9ZqoL3d8Jx5UKkRv7Rwl6uxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzU2/OTY2LTE1OTAyNDQw/OTItOTI1NS5qcGVn.jpeg) | 1999 | Georg Friedrich Händel | The Messiah (Highlights) |
+| 20 | ![Cover](https://i.discogs.com/br2ZnNstEikKTePyEcPDnK29e9DM793NtzUKDV1p508/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzA2/NzgtMTQ4Mjk0MTMx/My0yNTMwLmpwZWc.jpeg) | 2000 | Luigi Boccherini | Boccherini: Il Giuseppe riconosciuto, G. 538 |
+| 69 | ![Cover](https://i.discogs.com/hR9O6lmIt-vBjUXTtW79kaf0aO1mwRkV7QqYEcDTIX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM3/MTAtMTIyMDEzNzEw/Ny5qcGVn.jpeg) | 2000-01-11 | Barbara Bonney | Pergolesi: Stabat Mater; Salve Regina in F minor; Salve Regina in A minor |
+| 94 | ![Cover](https://i.discogs.com/1Xl3djZv_LtgZzf8VmWtAQvAUn0D1G5xTxtR6PtAMQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA0/MTU3LTE1NDAzODU4/ODAtNjQ5Ni5qcGVn.jpeg) | 2000-09-26 | Paul McCartney | Liverpool Oratorio CD 1 |
+| 37 | ![Cover](https://i.discogs.com/r40IeuvL-doDIGdJvjVtH392bxvzhPEKRrxA0c8d4Sw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Nzg2/MTUtMTQwMjQxODYy/Ni02NzQwLmpwZWc.jpeg) | 2001 | Alessandro Scarlatti | Sedecia, re di Gerusalemme |
+| 39 | ![Cover](https://i.discogs.com/zyL523FWfUqyVHL0E2sXrF5m1QPzIXmhnllcJYVDgbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDc5/MDgtMTQ1ODg0MjM4/MS0yNTk1LmpwZWc.jpeg) | 2001 | Manuel de Falla | Atlantida |
+| 46 | ![Cover](https://i.discogs.com/r40IeuvL-doDIGdJvjVtH392bxvzhPEKRrxA0c8d4Sw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Nzg2/MTUtMTQwMjQxODYy/Ni02NzQwLmpwZWc.jpeg) | 2001 | Alessandro Scarlatti | La Giuditta |
+| 63 | ![Cover](https://i.discogs.com/Koz-dkE3OVe-Nt-avksRz7bFClPN61YPhaLi5b7X5eA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njgw/NjYxLTE2Mjc2NjE5/NzMtNzEwNS5qcGVn.jpeg) | 2001 | Georg Friedrich Händel | HANDEL: Messiah (Highlights) |
+| 88 | ![Cover](https://i.discogs.com/Y28KNl2GI3XulVsYUIXYHtuhUl5LtsqAjzzVXFTBE4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MTEy/NzUtMTQ4MTg0MTc0/NS00MDE4LmpwZWc.jpeg) | 2001 | Georg Friedrich Händel | HANDEL: Messiah (1751 Version) |
+| 90 | ![Cover](https://i.discogs.com/dzEeg_DVvFe-xDBJHgAXzuX71pwF0o6_Xsp7YSXRUCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU2/NzctMTU3Mjc3NDAw/OC01NTA5LmpwZWc.jpeg) | 2001 | Paul McCartney | Ecce Cor Meum |
+| 25 | ![Cover](https://i.discogs.com/eVec_L4ugKK2j7V5jll_yvQrnpbFLtySfLw8-hEG4LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njk5/NjI5LTE3MDU0NzI0/NzktNTkxMy5qcGVn.jpeg) | 2002 | Nikolaus Harnoncourt | Bach, JS : St Matthew Passion |
+| 47 | ![Cover](https://i.discogs.com/vBmnBAzzGTVDnSwJwauMrGb69Nizxqs4yyjGCxXS-30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODU1/OTM0LTE1NDMyNTky/MjctNTAxNy5qcGVn.jpeg) | 2002 | John Stainer | STAINER: The Crucifixion |
+| 2 | ![Cover](https://i.discogs.com/8NQgfcq_vXIcyKPXuzi6yJEyVUhplz3a9CNv372xBGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjE0/NjA3LTE2NTU1NTU2/ODUtNjMyNy5qcGVn.jpeg) | 2003 | Paul Elliott | Handel: Messiah |
+| 17 | ![Cover](https://i.discogs.com/pcc77EeHgFtcXJFB05KDZEpGhv7c2-r7ALxIA3gq__c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQ1/NzU3LTE1OTUxNTA5/MjQtODM3MC5qcGVn.jpeg) | 2003 | Antonio Salieri | Salieri, A.: Passione Di Gesu Cristo |
+| 43 | ![Cover](https://i.discogs.com/EEktbPTlQJVpv4TPKo6I2HEGt-qKl5Um3OQ1h0YX7Ig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDYy/NTI4LTE0OTc5MzIw/NDEtOTM4Ny5qcGVn.jpeg) | 2003 | Johann Sebastian Bach | Weihnachts Oratorium |
+| 42 | ![Cover](https://i.discogs.com/HrK8pOf37kLHwR3dbaORFoPAqlY26SfCfhu-jxPKwYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjU0/ODktMTQ1MTc3NTQz/OC03MzMxLmpwZWc.jpeg) | 2003-01-01 | Sir Colin Davis, London Symphony Orchestra | Handel: Messiah |
+| 1 |  | 2004-02-10 | Georg Friedrich Händel | The Messiah, Volume 2 |
+| 27 | ![Cover](https://i.discogs.com/Mbb-qzqbgWtHL75kDbpEbcL5z68lEk6U8ngXp3s8WUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTU0/NTMtMTYzMDI3NDcz/OC04NzAzLmpwZWc.jpeg) | 2005 | Christopher Hogwood | Hogwood conducts Handel Oratorios |
+| 41 | ![Cover](https://i.discogs.com/c7rIJWgczxxc4-Uf2FC-lN_7qPcdZuRFewmjPfGKpMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzM1/NjMtMTIzOTg5MTAx/Ni5qcGVn.jpeg) | 2005 | Max Bruch | Max Bruch: MOSES (Oratorio Opus 67) |
+| 74 | ![Cover](https://i.discogs.com/ZYNZlEevsrj5BJmHNldjB4kINHkMjd_sfpu_h_JkVUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTUy/NDQ3LTE1NDUyMTQ0/MzktNzAzNS5qcGVn.jpeg) | 2005 | London Philharmonic Orchestra &amp; Choir | Handel&#39;s Messiah |
+| 6 | ![Cover](https://i.discogs.com/RDZlF3yWmfwhtL3qA7_annqP7sG6hlBUWtQTxGe-mQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQ1/OTgtMTIzODEwNTAw/Ny5qcGVn.jpeg) | 2007 | Georg Friedrich Händel | Messiah: Part 1 |
+| 19 | ![Cover](https://i.discogs.com/pyOxxUxL06GkUoHGlJ8l4Li313WFjo2YDvp3RKDwGYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTg2/OTIzLTE0OTMwNjI5/MjUtMjI0NS5qcGVn.jpeg) | 2007 | Georg Friedrich Händel | Athalia |
+| 56 |  | 2007 | George Frideric Handel | Handel: Jephtha |
+| 62 | ![Cover](https://i.discogs.com/eYwMoG3RGeyi4yscstYxsruHSPT9pjX3okwqi8gETTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYx/MzMzLTE2Mjg5NjQz/OTMtNTc3MC5qcGVn.jpeg) | 2007 | Georg Friedrich Händel | Israel In Egypt |
+| 84 | ![Cover](https://i.discogs.com/cgZLmYgkf-y_N3ubuYnE3Kxpro9voDpB0oD2_dLmJ3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjMw/OTQ4LTE1Nzg1MjYz/MDQtMzY2MS5qcGVn.jpeg) | 2007 | Georg Friedrich Händel | HANDEL: Saul |
+| 87 |  | 2007 | George Frideric Handel | Handel: MESSIAH - Unedited version in English from 1748, performed according to the traditions of the time |
+| 93 | ![Cover](https://i.discogs.com/aVLdK2TI1ya9TXbMGKd74BoahzuiHN_OFodmk9emsEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODkz/NS0xMTcyNzM3Mzk2/LmpwZWc.jpeg) | 2007 | Ludwig van Beethoven | Missa Solemnis |
+| 100 |  | 2007 | George Frideric Handel | Handel: Messiah |
+| 35 | ![Cover](https://i.discogs.com/8wPn8zYUxzfFcf45wX4hEbAc3JslGq1r6T06-E-1MJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzMw/MDMtMTQ1NDYzNTEx/Ny03NDYyLmpwZWc.jpeg) | 2008 | Arnold Schoenberg | Schoenberg: Die Jakobsleiter |
+| 91 | ![Cover](https://i.discogs.com/qrpwFmPcEPuSw-J3eC4hJIGHOfezkwGRuMKflCbOKhE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTMx/MzU2LTE1MDY3MjU2/MzEtNTg2NS5qcGVn.jpeg) | 2009 | Elin Manahan Thomas | Eternal Light |
+| 31 | ![Cover](https://i.discogs.com/HQSrKLX14RG4htLWmgYLfwitXsMcR0nQu3Ewh402SlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjU0/NTA0LTE2MDYwNTk1/MDMtMjcyMS5qcGVn.jpeg) | 2011 | Coro della Radio Svizzera, I Barocchisti, Diego Fasolis | Juditha Triumphans |
+| 54 | ![Cover](https://i.discogs.com/82lf6c-gH4A-YQitmkaKgvu5Z8aMG9bKiddZKqD-P3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcy/NTg1LTE1NTY3NDMw/NjMtMjE1OC5qcGVn.jpeg) | 2011 | Coro Della Radio Svizzera - Lugano, I Barocchisti &amp; Diego Fasolis | Bach: Weihnachtsoratorium BWV 248 |
+| 32 | ![Cover](https://i.discogs.com/XHaPtLi7218NbvWFeFIOtW2ZP9yH4-ez5nFkBvWaNjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTA3/NzM4LTE2NDMyNjU4/MTYtNjUxNC5wbmc.jpeg) | 2014 | La Petite Bande &amp; Sigiswald Kuijken | J.S. Bach: Matthäus-Passion |
+| 44 | ![Cover](https://i.discogs.com/og2k0VKU3xpzKPsYv5pl-ZO6bmpwkMPXa18Fc8JgvAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYw/MzY5LTE1NTY1MjMy/NDAtNzgyOS5qcGVn.jpeg) | 2016-09-21 | Nikolaus Harnoncourt | Bach, JS : St John Passion [1993] |
+| 13 | ![Cover](https://i.discogs.com/CUcvh-eGlytZu4mS1xCrcwMbLtFmf_dp0I7Xa4b_iLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQ2/MjQ3LTE1Nzk5NDI3/MjctODcwOS5qcGVn.jpeg) | 2018 | Paul McCreesh | Bach, J.S.: Easter Oratorio; Magnificat |
+| 65 | ![Cover](https://i.discogs.com/hvZZl5YTRE9J-ycwWB2-2V8Z45zZrK1Dfmwma5n15Ao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTYz/Mzg3LTE2MDUzNjAx/OTEtMjI1Ni5qcGVn.jpeg) | 2018 | Trevor Pinnock | Handel: Messiah |
+| 28 | ![Cover](https://i.discogs.com/p1Z9s8Lu1lCsdxWibFAp1x5Sz7mB14N9wO_E9d1q5Kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjM3/NDcxLTE2MjQzOTA5/NjItNTk4OC5qcGVn.jpeg) | 2019 | The Monteverdi Choir | Handel: Israel in Egypt etc |
+| 70 | ![Cover](https://i.discogs.com/IzTDkseZtXLgFkT1JhstQFC3VZfAp7IbmEuiJ7Yy_yM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQx/MDQ1LTE1ODI2MDY3/NzItNzk0NS5wbmc.jpeg) | 2024 | John Eliot Gardiner | Handel: Messiah |
+
+### Related genres
+
+- [baroque]({{ "/tags/baroque" | relative_url }})
+- [classical]({{ "/tags/classical" | relative_url }})
+- [choral]({{ "/tags/choral" | relative_url }})
+- [classical christmas]({{ "/tags/classical-christmas" | relative_url }})
+- [orchestral]({{ "/tags/orchestral" | relative_url }})
+- [sacred]({{ "/tags/sacred" | relative_url }})
+- [conductor]({{ "/tags/conductor" | relative_url }})
+- [contemporary classical]({{ "/tags/contemporary-classical" | relative_url }})
+- [soprano]({{ "/tags/soprano" | relative_url }})
+- [opera]({{ "/tags/opera" | relative_url }})

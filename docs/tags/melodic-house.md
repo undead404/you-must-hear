@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-19T00:32:37.294Z
+permalink: tags/melodic-house
+title: melodic house
+---
+
+## melodic house
+
+Last updated: <time datetime="2025-10-19T00:32:37.294Z">Sun Oct 19 2025 03:32:37 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 37 | ![Cover](https://i.discogs.com/JGg2tv1A78-HXhkm12zD-VXkdB6CWZ14HX7RfMnhjDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU0/MTEwLTE2MDA4NDk3/NjgtMTMxOC5qcGVn.jpeg) | 2000 | GEMINIS | Stellar |
+| 8 | ![Cover](https://i.discogs.com/d5OOKsTrx5jUfnvZrltavAULOcNiTaJPTZ5MNHXXk1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODQ2/NTUtMTM1NzkyMDU3/My0xNzA2LmpwZWc.jpeg) | 2003-01-01 | Till Robert | Shimmer |
+| 48 | ![Cover](https://i.discogs.com/I3jXhEN73WZQ65Pn9OVrLuM6YZiIZsaebEx923yBWK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjUz/Ny0xMzYwNDA2NzU5/LTI0NDEuanBlZw.jpeg) | 2004-12 | Break 3000 | Lights |
+| 68 | ![Cover](https://i.discogs.com/l--69maxqdyMNMIHx_QkfqyxHifCvhlYoiyof_yD0_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTk3/MC0xMjI5NDYyMTk3/LmpwZWc.jpeg) | 2009 | Argy | RITMO |
+| 35 | ![Cover](https://i.discogs.com/pn5lWYg2kmQBRUtWZBBGm6FbPWVvh0DdGKupRdIrU3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTcz/NDUtMTQzNTA5NjU5/My0yOTczLmpwZWc.jpeg) | 2011-05-01 | Tom Ackleberg | Colors Of Spring |
+| 100 |  | 2011-11-12 | deadmau5 | Strobe |
+| 89 | ![Cover](https://i.discogs.com/YAebqffJXFAEVsBTOEMn79uaRtKqPtZK1r8SVJTLEXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI3/NTc1LTE2NTk1MDQz/MzUtOTIyMy5qcGVn.jpeg) | 2012-09-21 | deadmau5 | Jaded |
+| 4 | ![Cover](https://i.discogs.com/URv-qJ7y1JIQ3iN47rsl7ssgxsrVMEwe98Gdtnp12h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTk4/OTEtMTM4MTc2NjE4/MS0yMjk1LmpwZWc.jpeg) | 2013-10-14 | Schodt | Falling |
+| 87 |  | 2013-12-08 | London Grammar | Nightcall |
+| 61 | ![Cover](https://i.discogs.com/A1cljsPKocW4hn3zX3-z27KRjLPunoo8-tqKTkONooA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDM0/OTMtMTQyMzMyNzIx/Mi00MzI4LmpwZWc.jpeg) | 2014 | Sound Nomaden | Madame |
+| 77 | ![Cover](https://i.discogs.com/A1cljsPKocW4hn3zX3-z27KRjLPunoo8-tqKTkONooA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDM0/OTMtMTQyMzMyNzIx/Mi00MzI4LmpwZWc.jpeg) | 2014 | Sound Nomaden | Dreamer |
+| 36 | ![Cover](https://i.discogs.com/e5pkyOZqGlH_99F3k4z0BuGBZI1PG97kZvinoOHwetU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTI0/MTgtMTQwNzIyOTMy/MS0xNTIyLmpwZWc.jpeg) | 2014-05-30 | Fur Coat | The Wall in the Mirror |
+| 5 |  | 2014-06-01 | Fire The Mob | Ordinary Things |
+| 12 | ![Cover](https://i.discogs.com/oPeaToLxdU_Egt7lKAB7g0NgUml9aZA_9u9xqUv4p3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTgz/NDAtMTQ1NjIzMDI3/Ny0yMzk4LmpwZWc.jpeg) | 2014-06-02 | Fabio Aurea | Hiva |
+| 60 | ![Cover](https://i.discogs.com/8Zngah64VwclZ0QIBotXZWx5kbH-IlLNZaVo_yNoiDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTg1/MDctMTQzMTc5NTQ4/Mi04OTgyLmpwZWc.jpeg) | 2014-06-09 | Magnus | Poison |
+| 53 | ![Cover](https://i.discogs.com/HaNIe33rhtW3UOwDENq9462CIdetepF1TV8UsuoCouY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjkz/NjYtMTQzOTAzODQy/NC04ODE4LmpwZWc.jpeg) | 2015-08-03 | CamelPhat | Endlessly (Remixes) |
+| 93 | ![Cover](https://i.discogs.com/Ap5b6ufUR_sjh24uKXRILHe-eU6tqmVciy3aIDvm4KA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjEw/NjMtMTM0NTkxODg2/Ny04NDc5LmpwZWc.jpeg) | 2015-09-19 | Ellie Goulding | On My Mind (Remixes) |
+| 1 | ![Cover](https://i.discogs.com/dE2f2eTPhEHd6VGoMfi2uchQBWm53jU0IGLxhtyxYpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTYz/ODc1LTE2ODQ4Mjcz/NDEtMzM5NS5qcGVn.jpeg) | 2016-12-19 | Keenan! | EP |
+| 45 | ![Cover](https://i.discogs.com/uthWjOiv3daB2DcGJPBSCNX7-BUFEGgobEMR7cTP8ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU0/MjExLTE1MDE3NjUz/MTItNDY0My5qcGVn.jpeg) | 2017-07-24 | Nihil Young | Nova X |
+| 67 | ![Cover](https://i.discogs.com/LrJgJpwvTa_7nHAx_SN76ro7a3hmKnyaHpCa-a4oM6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODAx/MjAxLTE2MjQ5NjIz/NzItOTE1NC5qcGVn.jpeg) | 2017-08-29 | Son Of Son | Lost Control EP |
+| 76 | ![Cover](https://i.discogs.com/6XIwLTSEeYm1syerRjm36pK5hBKQUy0qXbLG_TMzxYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI3/MTA4LTE1MjMwNTAz/MTQtNzk0Ni5qcGVn.jpeg) | 2018-03-30 | Giolì &amp; Assia | Mine |
+| 62 | ![Cover](https://i.discogs.com/RzECBha9-W_5G4fLTBjug8v1c_4D5ZlE1I0c-3eD2bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTgy/MTMwLTE1MjU5NjQx/NjQtNjA5OS5qcGVn.jpeg) | 2018-04-13 | Kevin De Vries | Saga |
+| 52 | ![Cover](https://i.discogs.com/R_285-2olSstR5wf5dAfEYf6mlKeVn0y0e4xU8A2RPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTMy/NTkxLTE1ODQyOTk5/MzQtNzgyNy5qcGVn.jpeg) | 2020-03-13 | Cornelius SA | Answers |
+| 7 | ![Cover](https://i.discogs.com/bQe1c1vhXCgCRJei3I-b_84xoa6epTSnno1gYzTYUcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTA3/NDg2LTE1ODY3NzUy/NjItODM0MS5qcGVn.jpeg) | 2020-04-10 | Defiant-Nature | Forthcoming |
+| 16 | ![Cover](https://i.discogs.com/bQe1c1vhXCgCRJei3I-b_84xoa6epTSnno1gYzTYUcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTA3/NDg2LTE1ODY3NzUy/NjItODM0MS5qcGVn.jpeg) | 2020-04-10 | Defiant-Nature | Never Second |
+| 70 | ![Cover](https://i.discogs.com/a4bNJEu-Y9h6haY5EGAtMeYFZNb9-_su7eiy-rsrP7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQ3/MDIwLTE3MDY3Mzk3/NjQtNzc3Mi5qcGVn.jpeg) | 2020-07-16 | Lane 8 &amp; Kasablanca | Run |
+| 13 | ![Cover](https://i.discogs.com/14i2e0msQ0_r3TySjuOsewATp5cVP6lJE9rpu6g9EoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODg2/ODc2LTE2MTA0MDQ3/OTYtMjcxMy5qcGVn.jpeg) | 2021-01-11 | Agustin Pietrocola | Wild &#x2F; Space |
+| 79 | ![Cover](https://i.discogs.com/tk784dfWY1XjezrQNtU4TMIdw_BbGsH0A_UXJ8aW-nQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODMx/OTM3LTE1MDUwMzM5/MjYtMTcyNi5qcGVn.jpeg) | 2021-02-26 | Gundamea | Sweet Disposition |
+| 3 | ![Cover](https://i.discogs.com/vcvJ1HBAdft_qs1ODsQ2cSG_bCAKHujHqtCyyRakyts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDAx/MTM0LTE2MjI3NDUz/MDMtMTY4OC5qcGVn.jpeg) | 2021-03-01 | Paul Anthonee | Empires of Mind |
+| 56 | ![Cover](https://i.discogs.com/Bct2tyqDqaSnNH-qksYP9ZpQj4zOUIsgX_ZpMbVva3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzk2/NDY5LTE2MTU1NjQx/MDEtNjY0Ni5qcGVn.jpeg) | 2021-03-12 | Kaaze | Disobey (feat. Dotter) |
+| 73 | ![Cover](https://i.discogs.com/9WPs4U08dFDppQdBWjq3em5clJqGguqIR_1sr6g1YFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTIw/OTU4LTE2MzM3MjE4/ODctNDI5MS5qcGVn.jpeg) | 2021-03-12 | DOURAN | Avalanche (Joachim Pastor Remix) |
+| 71 | ![Cover](https://i.discogs.com/XzADOtGaYeEmw95EFFA4Z6F84npAXJ2mNnXiU2H33PY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDc3/MjkyLTE2NDA0MjAx/OTgtNDI3OS5qcGVn.jpeg) | 2021-07-02 | Passenger 10 | Carnegie Hall |
+| 57 | ![Cover](https://i.discogs.com/N5hZcPnONsGUM-OdhJCZoF9CR_QAJEisVc0vTDdoZjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDc3/MjQxLTE2NDA0MTk3/NzQtMjI5MS5qcGVn.jpeg) | 2021-09-17 | Passenger 10 | The Lonely Boy Who Wanted to Make Friends |
+| 54 | ![Cover](https://i.discogs.com/xs1SJFukxxDxISxNKI0fRCw-yWP1D0ZEi8cldFAPqcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjM3/NDU0LTE2NjQyMDM3/NDAtNzEwNC5qcGVn.jpeg) | 2022-06-17 | Passenger 10 | Mandela |
+| 51 | ![Cover](https://i.discogs.com/_k6I2rG6fCqsCgIxQi3Fp6UOhYb4Ou5sck9oCCDOPSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjA0/MjIxLTE2ODAyNzA5/NzQtNjI4MS5qcGVn.jpeg) | 2023-03-31 | Asher Swissa | Under the Moonlight |
+| 2 | ![Cover](https://i.discogs.com/cp-PSu77ik1JtSJriyFlkCCWUP6lu1FieE_ltCGFLxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODUx/ODgyLTE3MDgzNTI2/MDctNTQ1OC5qcGVn.jpeg) | 2023-09-22 | Mary Mesk | Nairobi |
+| 6 |  |  | Lusii | Another Perspective |
+| 9 |  |  | Scuba, Hammer | Satellites |
+| 10 |  |  | Mismatch (UK) | Poisoned Our Love |
+| 11 |  |  | Martyrs of Apathy | Just Don&#39;t Let Go - Single |
+| 14 |  |  | Ticopa | Mamapacha |
+| 15 |  |  | trx-01 | Space Wanderer |
+| 21 | ![Cover](https://i.discogs.com/52oAvKYf_dSQRS1Fd9wSl1515elr-qtd-Xnic6biIzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTk3/ODYtMTQ3NzUyNzIx/My0zMTQwLmpwZWc.jpeg) | 2016-01-29 | Undercatt | Closer |
+| 25 | ![Cover](https://i.discogs.com/DDV2tyqTZ0sQNRyeUwIYw_drEdrxdByg9-iKjkl_qJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg2/MDkwLTE1ODI0ODI3/OTEtOTg2OS5qcGVn.jpeg) | 2018-05-04 | Woo York | Talking To Myself |
+| 41 | ![Cover](https://i.discogs.com/DDV2tyqTZ0sQNRyeUwIYw_drEdrxdByg9-iKjkl_qJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg2/MDkwLTE1ODI0ODI3/OTEtOTg2OS5qcGVn.jpeg) | 2018-05-04 | Woo York | Talking To Myself (Remixes) |
+| 40 | ![Cover](https://i.discogs.com/bxcvGq9xXzBfl9sBMQivymG9GNYqE6ESSMwV_yPX-9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDI1/NTI3LTE1MjY4MDYx/MTUtODA1MS5qcGVn.jpeg) | 2018-05-11 | Giolì &amp; Assia | Mine (Andro Remix) |
+| 43 | ![Cover](https://i.discogs.com/RKRLCd9hR9QJiP0Bm2WNX_n59EiahmKlMlpP1xANJdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTA4/MDAxLTE2MzM2MzMw/MjItNDY1OC5qcGVn.jpeg) | 2019-05-17 | Bhaskar | Hours and Hours (Remixes) |
+| 38 | ![Cover](https://i.discogs.com/nVs7ljoOXsHKnbXrEOdhOs6iZ_wYhRklCdsRyRMUE0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzYz/NTIzLTE1NjA2MDIz/NjMtNjgwMy5qcGVn.jpeg) | 2019-06-14 | Sevenn | March Of Avalon |
+| 24 | ![Cover](https://i.discogs.com/1qXyJV8q2xq1Prrw9vLMEVw58BtXeok-c_mY5Q9INJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAx/Nzk3LTE1ODgwMjMw/OTctNzkyMy5qcGVn.jpeg) | 2019-10-11 | Siim Griffel | Inside Consciousness |
+| 27 | ![Cover](https://i.discogs.com/pK4r27k8Bo-D_Yp9XUxkwom96fTGXoXpfn2ljLQcp0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTE0/NDcyLTE2OTE1MDQ0/MDktNzg4Ni5qcGVn.jpeg) | 2020-06-05 | Boosin | Don&#39;t Fade Away |
+| 33 | ![Cover](https://i.discogs.com/uMEHPm6WtKkn_pbPSvU0Ogr_9-7ZT70ExNaGZHeVh90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODI2/MTQ3LTE2MjE2MzE0/NDQtNTc4My5qcGVn.jpeg) | 2020-10-02 | AIWASKA | Tarantula |
+| 22 | ![Cover](https://i.discogs.com/AEH9NUsvcWVys2WLvHbgJQn4nF2jFEdphmS3lNJvmUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODgy/Njc3LTE2MTU5ODYx/MTctOTY1My5qcGVn.jpeg) | 2021-03-04 | Elias Erium | Stimulate |
+| 18 | ![Cover](https://i.discogs.com/p8nraS5_YKgo6x8zr6JUuOZgp3m8njR7vq6Je9CFf5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTY2/NDAwLTE2MjY4MTkz/MjgtNDk3My5qcGVn.jpeg) | 2021-07-16 | Watzgood | Don&#39;t You Cry |
+| 39 | ![Cover](https://i.discogs.com/n6Et5PUifQRk5PNsNii6Anv9DUzmsuEKu3ja6YyLSJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjI2/NjEzLTE2NTU2NDk4/MjQtNTk4OC5qcGVn.jpeg) | 2022-02-18 | Airsand | Ahora |
+| 50 | ![Cover](https://i.discogs.com/b7fYQbu6_nANdMBeAbQT2y3dRzQBhrEGgph4q1AdpoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzAw/MDk5LTE2NDU4MDMz/NTItMjg1Mi5qcGVn.jpeg) | 2022-02-25 | Tommy Farrow | Haven |
+| 32 | ![Cover](https://i.discogs.com/f30NT3v0LSxkfBGh9SznB8T4EIuFG-tNpm-hzWfL4eY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjY4/MDA4LTE2NTI4Njg2/MjUtMTA4OC5qcGVn.jpeg) | 2022-03-11 | FABRY DJ | Guka |
+| 26 | ![Cover](https://i.discogs.com/aO1Xg5_SabqSNwTahITDkUoqDoUx9WJrfueGHuXFhdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTQw/MzM2LTE2NzE3MzMz/MjMtODkxMi5qcGVn.jpeg) | 2022-11 | André Salvador | No Cry |
+| 46 |  |  | EMPIRE OF TWO | For Now Im Here |
+| 28 | ![Cover](https://i.discogs.com/ECNOQzmQR_MB8tT6SP3wglGSu91geYHAFRNfHXkiuD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjUy/NTMxLTE3MjEyOTEx/MjAtNjk2Mi5qcGVn.jpeg) | 2023 | Garsi | Back to London |
+| 29 | ![Cover](https://i.discogs.com/ECNOQzmQR_MB8tT6SP3wglGSu91geYHAFRNfHXkiuD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjUy/NTMxLTE3MjEyOTEx/MjAtNjk2Mi5qcGVn.jpeg) | 2023 | Garsi | For a Vibe |
+| 44 | ![Cover](https://i.discogs.com/ECNOQzmQR_MB8tT6SP3wglGSu91geYHAFRNfHXkiuD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjUy/NTMxLTE3MjEyOTEx/MjAtNjk2Mi5qcGVn.jpeg) | 2023 | Garsi | Life On Mars |
+| 30 | ![Cover](https://i.discogs.com/EIvj1BahCP-RKgWF8gvOk0zSvrtbVT_myJs2w42jOHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTI3/MDA1LTE2NzY1OTI1/MzEtMzk4NC5qcGVn.jpeg) | 2023-02-17 | 3x3cute | OUTSIDE |
+| 49 | ![Cover](https://i.discogs.com/KTNFsjoz9NKHG8IAXMjMwnhZKiSI7xlViYTfn3tA158/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjAy/MTI3LTE2ODAyNTcw/MDYtNDM3MC5qcGVn.jpeg) | 2023-02-24 | Cloudcage | Nimbus |
+| 31 | ![Cover](https://i.discogs.com/4VRSiYhCx72ai0xGXdj0IfGwATO6hYRmLM7HF1j78Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDc0/ODcxLTE2OTI5ODA3/MDItNzQ3OC5qcGVn.jpeg) | 2023-08-25 | Ginchy | Alone In The Dark |
+| 17 | ![Cover](https://i.discogs.com/CX4A5mwu-lKgjhhjb6Wmuma3oXk74_qeVBdfWwluvF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ1/MDU4LTE2OTk1MjM0/NDctMjQ5OS5qcGVn.jpeg) | 2023-09-23 | Gravity XL | Sky Window |
+| 47 | ![Cover](https://i.discogs.com/V200I4FundIWb3zzs4Tb5SuNKLh1yOtB6ujTya8HcRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTY2/MzA3LTE3MjQ1MzU5/MzAtMzA2MS5qcGVn.jpeg) | 2023-10-20 | Korolova | Traces |
+| 19 | ![Cover](https://i.discogs.com/JPxGA9Gym-rXa8ObQVBmeV1dPDC3Au0qJE2IDXnuueQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk1/NDI1LTE3MTc3NTM4/ODEtNDI2My5qcGVn.jpeg) | 2023-10-27 | D-Nox | Embrace Me |
+| 20 |  |  | Karry G | The Journey |
+| 23 |  |  | Get The Jackets | Change Your Mind |
+| 34 | ![Cover](https://i.discogs.com/7gVNlGnOQ1PeqHtmDYnb3KCBiRTzYeoX8BkmHNQ-LFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODMy/Nzc3LTE3MjczNTYz/NzMtNzczNy5qcGVn.jpeg) | 2024-09-18 | Rokazer | Phenix &#x2F; Wezen &#x2F; Tell Me What You Need |
+| 42 | ![Cover](https://i.discogs.com/1DmsfVYg8tKBb3aRvvdjLRNkclf8Q1JRZBvkmOHRyV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjYy/MDc1LTE3MzEzNDY5/NDMtNzc2Ny5qcGVn.jpeg) | 2024-10-25 | Avis Vox | Skin |
+| 55 |  |  | RAFFA GUIDO | Famax (Goom Gum Remix) |
+| 99 |  |  | RAFFA GUIDO | Famax |
+| 90 | ![Cover](https://i.discogs.com/A1cljsPKocW4hn3zX3-z27KRjLPunoo8-tqKTkONooA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDM0/OTMtMTQyMzMyNzIx/Mi00MzI4LmpwZWc.jpeg) | 2014 | Sound Nomaden | Savanna |
+| 94 | ![Cover](https://i.discogs.com/kQXjOCht4-1YhFuzMT0fzLMFpc26BDtUwwM1Cr4B-K4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDQw/OTMtMTM5MDA3MDk3/Ny05ODc1LnBuZw.jpeg) | 2014-02-23 | Ellie Goulding | Goodness Gracious |
+| 96 | ![Cover](https://i.discogs.com/j6S4t_VATiNekmO78-cIfm7u2Q-pQcHMkOLSv7l32vM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzk2/MzktMTYxMTA1MDI3/Ny03ODU0LmpwZWc.jpeg) | 2016 | RÜFÜS | Bloom |
+| 86 | ![Cover](https://i.discogs.com/6FtFNh2IU1yr1qVqLxZwv0htP-uMB0JwP5fvGNSU3D4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc2/ODMzLTE1MTEzMzM4/ODktMjkzNS5qcGVn.jpeg) | 2017 | Noel Gallagher&#39;s High Flying Birds | She taught me how to fly |
+| 91 | ![Cover](https://i.discogs.com/OdX23T1pUg4IsNpGgNp3XxFa5LySy78gsB6jv68yRPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTM3/Mjg4LTE1NTYwOTY1/ODItODAyOC5qcGVn.jpeg) | 2018-08-27 | Analog Sol | Trinidad Dreams |
+| 95 | ![Cover](https://i.discogs.com/M4gvpfd7gVEYYLawwLGzj8TeJZ5wS3vlgcFJolZrBvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY0/Mjk3LTE1NTI4MTk0/MTQtNzY2OS5qcGVn.jpeg) | 2019-03-07 | Worakls | Orchestra |
+| 88 | ![Cover](https://i.discogs.com/jI0w0Ksn5soXiCz7VcTXaToJnt2xWVW49jYjsAqojcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzk4/MTg3LTE1OTA4NzYx/MDUtMjkzNC5qcGVn.jpeg) | 2020-05-29 | Stephan Jolk | Analogy |
+| 85 | ![Cover](https://i.discogs.com/KFjlco7NCP0ktEi8eRFpQm-lw62cMRRA0J40To54_lc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDc3/MzEzLTE2NDA0MjAy/NjUtOTkyOC5qcGVn.jpeg) | 2021-04-09 | Passenger 10 | Lakota |
+| 72 | ![Cover](https://i.discogs.com/g19vzOcyYd4Q-RiQPzA56O4t74ddKKQZWhx1SvxqmLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzc5/NjY4LTE2NTM3MDMx/OTEtNTM1NS5qcGVn.jpeg) | 2022-04-08 | Korolova | Me And You &#x2F; Gravity |
+| 65 | ![Cover](https://i.discogs.com/mzU1YFa79E_147mBcYFTmMXIp6mMOknsGKDoXE5QAOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTEw/NTI1LTE2NTk3MTYz/MzYtNjM5Ny5qcGVn.jpeg) | 2022-08-05 | Approaching Black | You Fill My Soul |
+| 75 | ![Cover](https://i.discogs.com/C32MZq0jTpO1pmVxoy5atzl2dd3iyrlCqAhvfhz9utI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODQ3/Njk1LTE2NzQzODQ0/MjEtNDU5MC5qcGVn.jpeg) | 2023-01-20 | Korolova | Sweet Surrender |
+| 84 | ![Cover](https://i.discogs.com/5zpdcpl2rErl0wNKh6pzjLrGvqyH8HWXtQVZ8dhm7CE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTA5/MDc5LTE2ODc4ODIz/OTUtMTc4NS5qcGVn.jpeg) | 2023-06-27 | Flexible Fire | El Refugio |
+| 98 | ![Cover](https://i.discogs.com/Z_kDryAyKqKoVJeW96M4KRGmjatwfJO0BfimLmLv8G0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODEy/NjMxLTE2OTA2MDY0/NTUtOTY2Ni5qcGVn.jpeg) | 2023-07-28 | Spada | Be Strong |
+| 58 | ![Cover](https://i.discogs.com/V200I4FundIWb3zzs4Tb5SuNKLh1yOtB6ujTya8HcRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTY2/MzA3LTE3MjQ1MzU5/MzAtMzA2MS5qcGVn.jpeg) | 2023-10-20 | Korolova | Say |
+| 59 | ![Cover](https://i.discogs.com/V200I4FundIWb3zzs4Tb5SuNKLh1yOtB6ujTya8HcRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTY2/MzA3LTE3MjQ1MzU5/MzAtMzA2MS5qcGVn.jpeg) | 2023-10-20 | Korolova | Reactive EP |
+| 63 | ![Cover](https://i.discogs.com/V200I4FundIWb3zzs4Tb5SuNKLh1yOtB6ujTya8HcRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTY2/MzA3LTE3MjQ1MzU5/MzAtMzA2MS5qcGVn.jpeg) | 2023-10-20 | Korolova | Vorozhyla |
+| 64 | ![Cover](https://i.discogs.com/V200I4FundIWb3zzs4Tb5SuNKLh1yOtB6ujTya8HcRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTY2/MzA3LTE3MjQ1MzU5/MzAtMzA2MS5qcGVn.jpeg) | 2023-10-20 | Korolova | Nightshapes |
+| 66 | ![Cover](https://i.discogs.com/V200I4FundIWb3zzs4Tb5SuNKLh1yOtB6ujTya8HcRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTY2/MzA3LTE3MjQ1MzU5/MzAtMzA2MS5qcGVn.jpeg) | 2023-10-20 | Korolova | Under My Skin |
+| 78 | ![Cover](https://i.discogs.com/V200I4FundIWb3zzs4Tb5SuNKLh1yOtB6ujTya8HcRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTY2/MzA3LTE3MjQ1MzU5/MzAtMzA2MS5qcGVn.jpeg) | 2023-10-20 | Korolova | Shining |
+| 81 | ![Cover](https://i.discogs.com/V200I4FundIWb3zzs4Tb5SuNKLh1yOtB6ujTya8HcRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTY2/MzA3LTE3MjQ1MzU5/MzAtMzA2MS5qcGVn.jpeg) | 2023-10-20 | Korolova | Ready For More |
+| 82 | ![Cover](https://i.discogs.com/V200I4FundIWb3zzs4Tb5SuNKLh1yOtB6ujTya8HcRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTY2/MzA3LTE3MjQ1MzU5/MzAtMzA2MS5qcGVn.jpeg) | 2023-10-20 | Korolova | Made Of Gold |
+| 83 | ![Cover](https://i.discogs.com/V200I4FundIWb3zzs4Tb5SuNKLh1yOtB6ujTya8HcRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTY2/MzA3LTE3MjQ1MzU5/MzAtMzA2MS5qcGVn.jpeg) | 2023-10-20 | Korolova | Heal My Mind |
+| 97 | ![Cover](https://i.discogs.com/6by1y1XVRh_HVkxvWJ9nRoUagYKza8XfCek60ErcRvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjc2/NTYzLTE3MTIwMjc0/NjktNDEwNS5qcGVn.jpeg) | 2024-03-29 | Rscl | Echo |
+| 74 | ![Cover](https://i.discogs.com/nquO8fxRQOF1tWGu4peq_-NI6rhIHRqIDgotuReHn2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTUx/MzAxLTE3MjQzOTkz/NzAtNjQ2MS5qcGVn.jpeg) | 2024-08-23 | Rebūke | Along Came Polly (Konstantin Sibold, ZAC, CARMEE Remix) |
+| 69 | ![Cover](https://i.discogs.com/F2TjF6j-8Kx-ODxAmLhcAq3rkvDaWI7JB4d5dylj8ig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODk1/NDQ2LTE3Mjc5NDQ0/MDUtMjcwNC5qcGVn.jpeg) | 2024-08-28 | Vintage Culture | This Feeling (Korolova Remix) |
+| 80 | ![Cover](https://i.discogs.com/TSViRYbCXIRueFBEBnJ_ZLWpiaCfE0Eu3v8xg8xAVDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjU1/ODg1LTE3MjU1MDI0/MzYtOTAwOC5qcGVn.jpeg) | 2024-08-30 | Adriatique | Like A Dream |
+| 92 | ![Cover](https://i.discogs.com/UcLHvArzPzXjSZtVuVZb-vNkQYPQgG5a-buurUUxk3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDUw/Mzg5LTE3MjkzNjc0/MDgtOTU0MS5qcGVn.jpeg) | 2024-10-18 | Kelly Lee Owens | Dreamstate |
+
+### Related genres
+
+- [house]({{ "/tags/house" | relative_url }})
+- [progressive house]({{ "/tags/progressive-house" | relative_url }})
+- [techno]({{ "/tags/techno" | relative_url }})
+- [melodic techno]({{ "/tags/melodic-techno" | relative_url }})
+- [madison beer]({{ "/tags/madison-beer" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [deep house]({{ "/tags/deep-house" | relative_url }})
+- [edm]({{ "/tags/edm" | relative_url }})
+- [chill house]({{ "/tags/chill-house" | relative_url }})
+- [trance]({{ "/tags/trance" | relative_url }})

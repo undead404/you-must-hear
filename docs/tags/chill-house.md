@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-20T02:56:22.430Z
+permalink: tags/chill-house
+title: chill house
+---
+
+## chill house
+
+Last updated: <time datetime="2025-10-20T02:56:22.430Z">Mon Oct 20 2025 05:56:22 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 14 | ![Cover](https://i.discogs.com/fzLDO65z60pf-dYFHPVYTRcs8u7v7eHxIX9gWwhxTuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDcx/ODItMTI4MjUyNjgw/Ny5qcGVn.jpeg) | 1999 | Moby | Natural Blues (Lulu Rouge vs. Stella Polaris Remix) |
+| 79 | ![Cover](https://i.discogs.com/uvFuzACH0yjh3ojMHIoUr-ub7gaqdJB01g8UHK6-O9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDA3/My0xMTc1Njk1ODE5/LmpwZWc.jpeg) | 1999 | Birdy | Wild Horses (Sam Feldt Remix) |
+| 17 | ![Cover](https://i.discogs.com/4TiOMs2YXKekyR8SXspGVOyNT1rZMlUtYy8TqZf6x8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODA3/LTEyNTM2NDQ1MTku/anBlZw.jpeg) | 1999-11 | Various Artists | Fifty Shades of Grey Remixed |
+| 83 | ![Cover](https://i.discogs.com/4fNvNL_WLSDnndsjNoECa9zsK3-2-acy9vVKbeZAouw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTQ3/NC0xMTE2OTY1NzA2/LmpwZw.jpeg) | 2000 | Aurora | I Went Too Far (MK Remix) |
+| 8 | ![Cover](https://i.discogs.com/TaLs1Vp7RKVuS1o-1gB_p8p-RsHxEpseZOX1rkfliKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzY4/LTE2NTg2NzY5MDkt/ODIzMy5qcGVn.jpeg) | 2002 | Flunk | Blue Monday Remixes |
+| 55 | ![Cover](https://i.discogs.com/3rZweLS8Y7jdpr8i2L9JfLNBA9VIknxigI5ebu1KnlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzIx/LTAwMS5qcGc.jpeg) | 2002 | Aquanote | The Pearl |
+| 48 |  | 2004 | Nina Simone | Sinnerman (Sofi Tukker Remix) |
+| 9 | ![Cover](https://i.discogs.com/cN40xjiIToiuTooxjgZFVQqMtXgMusyWthPWdo8JhmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODAz/OC0xNDkxNzc2Mzk2/LTUxMDkuanBlZw.jpeg) | 2005 | Ananda Project | Relight |
+| 36 | ![Cover](https://i.discogs.com/bp-fSszjJyrLDbZZY4HsKxYyjCmOFzAyPZYuQAiCMvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NzI0/MC0xMjgxOTk2NjE2/LmpwZWc.jpeg) | 2006 | Lily Allen | Air Balloon (Remixes) |
+| 15 | ![Cover](https://i.discogs.com/fgDH_JeO-mj8U1QMkwiZwLQQiUSMdXWunCf-fEObXQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njcw/MTMtMTYyMjk5NTk5/NS00MTYxLmpwZWc.jpeg) | 2009-05-11 | Flunk | Treat Me Like You Do |
+| 95 | ![Cover](https://i.discogs.com/QSnqT2l_bVa5_7AMW-dtAIZzUmbV4jPzWJsW8vv0XRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/MzctMTM0NDU0NjIw/Ni0yMzEyLmpwZWc.jpeg) | 2009-12-13 | deadmau5 | I Remember |
+| 21 | ![Cover](https://i.discogs.com/zzMCj5h8V3o9BLo8ATKt_WgmTAlWRUel_Xuk0xiOh6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjgx/MTUtMTI5Mzk4NTYx/Ni5qcGVn.jpeg) | 2010 | Ellie Goulding | Midnight Dreams |
+| 82 | ![Cover](https://i.discogs.com/9-L3cFVyQuesUt3Eak0n2MGGhKHXqsZ88VV_1xzMLNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDE1/MjEtMTI4NDI0MTA4/NC5qcGVn.jpeg) | 2010 | Ellie Goulding | Like a Saviour |
+| 42 | ![Cover](https://i.discogs.com/H4aLWhpUF4lUdp9XUbugj5PL-dguYsWtyax0IH9XD-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzEx/OTgtMTQwMTEzMDE1/My0xODU3LmpwZWc.jpeg) | 2010-04-09 | Nora En Pure | Wholehearted EP |
+| 12 |  | 2010-08-02 | Chris Coco | Feel Free Live Good |
+| 64 | ![Cover](https://i.discogs.com/Qk2tO1QtcIlTQ5ik3zoyyUcarIDjDkFm9v9aqnMW_dw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjY4/OTktMTY1MTUxMzY4/NC03ODI0LmpwZWc.jpeg) | 2011 | Calvin Harris | Free (with Ellie Goulding) |
+| 28 | ![Cover](https://i.discogs.com/7itJnqoBP5zjb3r_E-YG578l6D5OjMT8o3Z0WXzgAMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzEy/NTYtMTQwMTEzMDkx/NS00NTYyLmpwZWc.jpeg) | 2011-02-04 | Nora En Pure | Satisfy |
+| 57 | ![Cover](https://i.discogs.com/OhdhthMAzVj4VHpmiocORUu6LX2rS2YhIrkxMPmlhqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDk4/NDItMTUxMzkzNTAx/My0zMzQzLmpwZWc.jpeg) | 2011-02-14 | PJ | Everything In Its Right Place (House) |
+| 69 | ![Cover](https://i.discogs.com/EM7M0yetfMkTCbcSL2b685BqoMRQux53_lBMiLrRVO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzEy/ODMtMTY4MDY3MzM1/MS02MTY4LmpwZWc.jpeg) | 2011-02-18 | Nora En Pure | Who You Are |
+| 30 | ![Cover](https://i.discogs.com/5_P5cNv99NUNYjK7_tzzA_1VA0HamYQHK4C7gleURTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzA0/NzgtMTMxNzE3MzAw/Ni5qcGVn.jpeg) | 2011-09-27 | M83 | Midnight City (Remixes) |
+| 32 | ![Cover](https://i.discogs.com/h4TcVtxzJNtQ4FgVgJGJxqPyRWAyZWtW1xqu_A8QedU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzM0/MzktMTMyMzc5Mjk4/Mi5qcGVn.jpeg) | 2011-10-16 | Lana Del Rey | Summertime Sadness (Imanbek Remix) |
+| 91 | ![Cover](https://i.discogs.com/dGMTotgBfsipeSsZOOMSTMq16sOaENWgIH0YboBfjg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzEz/MjItMTQwMTEzMTg5/MC03NTQxLmpwZWc.jpeg) | 2011-12-02 | Nora En Pure | Fibonacci |
+| 20 | ![Cover](https://i.discogs.com/Ap5b6ufUR_sjh24uKXRILHe-eU6tqmVciy3aIDvm4KA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjEw/NjMtMTM0NTkxODg2/Ny04NDc5LmpwZWc.jpeg) | 2012 | Ellie Goulding | Worry About Me (Remixes) |
+| 38 | ![Cover](https://i.discogs.com/Ap5b6ufUR_sjh24uKXRILHe-eU6tqmVciy3aIDvm4KA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjEw/NjMtMTM0NTkxODg2/Ny04NDc5LmpwZWc.jpeg) | 2012 | Ellie Goulding | Burn (Remixes) |
+| 54 | ![Cover](https://i.discogs.com/Q1L4u3ZTAPdJrcR-pfU7Npa8-IL8yzl3VvFy8ITRiXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA3/OTkyLTE0OTg4ODgz/NTktMjI5Ni5qcGVn.jpeg) | 2012 | deadmau5 | Quezacotl |
+| 76 | ![Cover](https://i.discogs.com/yi2Zhpn2W5mMELDS0j0vkAJxAbzaUQ4lYfu-rqyaIoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTQy/NzgtMTIzNzU1NTY4/MC5qcGVn.jpeg) | 2012 | deadmau5 | Faxing Berlin |
+| 94 | ![Cover](https://i.discogs.com/_Qw2Cto8IlRAEJAm41XnLZxdgYzox3lGHXPwyYv-BA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQ5/NTY0LTE1NTYzMjQw/NDYtOTkwNS5qcGVn.jpeg) | 2012 | Banks | Warm Water (Snakehips Remix) |
+| 34 | ![Cover](https://i.discogs.com/YAebqffJXFAEVsBTOEMn79uaRtKqPtZK1r8SVJTLEXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI3/NTc1LTE2NTk1MDQz/MzUtOTIyMy5qcGVn.jpeg) | 2012-09-21 | deadmau5 | Jaded |
+| 18 | ![Cover](https://i.discogs.com/3E7bA0K2v8B181gdCDPJJBkyy9f-RMdP39XIcerQlwk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDA5/NDItMTM0ODU4OTEw/Ny0yOTc1LmpwZWc.jpeg) | 2012-09-25 | Lana Del Rey | The Remixes |
+| 80 | ![Cover](https://i.discogs.com/XprBVA9rC3-wM7K5eu_dxHMddZr8ctC-79V3DdpDSQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTE0/MzYtMTM1MjI1MjQx/Mi01NDExLmpwZWc.jpeg) | 2012-10-01 | HVOB | Silk |
+| 70 | ![Cover](https://i.discogs.com/DlhK3WtZ9TycXebvovYoMZBs2id9Np2YaMTVmhJP-ZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mzkw/MjctMTM3NzEwNDM1/Mi04MTAxLmpwZWc.jpeg) | 2013-01-01 | Lana Del Rey | Blue Jeans (Kris Menace Remix) |
+| 72 |  | 2013-03-08 | HVOB | HVOB |
+| 13 | ![Cover](https://i.discogs.com/FdgSRZm55Avfn54JASfSPYM4Q3i7mNswxz6UbiOYfs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjM1/MTgtMTM2NzMxMDk3/Mi02MzIwLmpwZWc.jpeg) | 2013-04-22 | Flunk | Your Beautiful Lies |
+| 99 |  | 2013-07-12 | The xx | Fiction |
+| 59 | ![Cover](https://i.discogs.com/ouHT_nnqehM-ae3Hek7iSgLdqw47n12kD4mztbM3hhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDM5/NjEtMTM3NDEwOTM5/Mi0yODE5LmpwZWc.jpeg) | 2013-07-15 | CHVRCHES | Gun EP |
+| 78 | ![Cover](https://i.discogs.com/gEFN2z2AiOs1_9JBrFVZTQPLm56OjFR9ba3Ym7zbLxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODIw/NTUtMTM4OTUyMTc3/MC0zMDc5LmpwZWc.jpeg) | 2013-12-01 | CHVRCHES | Lies |
+| 27 |  | 2013-12-08 | London Grammar | Nightcall |
+| 46 | ![Cover](https://i.discogs.com/Xv-QN2NLXa-xW1S9lfw7WWqliGag5KieMnUq3CgBmgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDM5/MDQtMTQwNTkwMjA2/Ny05OTE3LmpwZWc.jpeg) | 2013-12-10 | Ellie Goulding | Easy Lover (Solo Version) |
+| 29 | ![Cover](https://i.discogs.com/u1EsdmqoMTbTso7uhaSpsicZULpQMWgsTR12oXvb048/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjM0/NTUtMTQxNTA4NTcz/MC0yMTg0LmpwZWc.jpeg) | 2014 | Ellie Goulding | Close to Me |
+| 35 | ![Cover](https://i.discogs.com/A1cljsPKocW4hn3zX3-z27KRjLPunoo8-tqKTkONooA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDM0/OTMtMTQyMzMyNzIx/Mi00MzI4LmpwZWc.jpeg) | 2014 | Sound Nomaden | Savanna |
+| 50 | ![Cover](https://i.discogs.com/u1EsdmqoMTbTso7uhaSpsicZULpQMWgsTR12oXvb048/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjM0/NTUtMTQxNTA4NTcz/MC0yMTg0LmpwZWc.jpeg) | 2014 | Ellie Goulding | Cure for Love |
+| 85 | ![Cover](https://i.discogs.com/A2vW5e6ikPdBXkwa_7bAdHnYJO8kuwgsfaYqWsLSNOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTg3/MzYtMTQwMDI1MjUz/Ny01MjYyLmpwZWc.jpeg) | 2014 | Tensnake | Love Sublime |
+| 81 | ![Cover](https://i.discogs.com/kQXjOCht4-1YhFuzMT0fzLMFpc26BDtUwwM1Cr4B-K4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDQw/OTMtMTM5MDA3MDk3/Ny05ODc1LnBuZw.jpeg) | 2014-02-23 | Ellie Goulding | Goodness Gracious |
+| 60 |  | 2014-03-16 | London Grammar | Hey Now |
+| 53 | ![Cover](https://i.discogs.com/PP-yD-GLLmup9l__cqFb-BUyncqgG1XYc1oc6DtnGSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMjcw/OTgtMTQzNjYxNDQ3/OS05MDE1LmpwZWc.jpeg) | 2014-04-01 | MS MR | Secondhand ^2: The Remixes |
+| 58 | ![Cover](https://i.discogs.com/NvOKAUlE37fODqZTLNgHAgiSjzNWI6t7fDsyj1JLI-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODI4/ODAtMTM5OTgxNTI5/OC00Njc2LmpwZWc.jpeg) | 2014-05-06 | London Grammar | If You Wait (Remixes) |
+| 71 | ![Cover](https://i.discogs.com/NvOKAUlE37fODqZTLNgHAgiSjzNWI6t7fDsyj1JLI-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODI4/ODAtMTM5OTgxNTI5/OC00Njc2LmpwZWc.jpeg) | 2014-05-06 | London Grammar | If You Wait - Remixes |
+| 68 | ![Cover](https://i.discogs.com/QmDDJrRnSY7MiF1W8nBkiS8EoGfaxXr-EttkRxNtS-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjMw/MjctMTQwOTA2NzEz/NS01MTAwLmpwZWc.jpeg) | 2014-08-25 | London Grammar | If You Wait (Remixes 2) |
+| 73 | ![Cover](https://i.discogs.com/9M-cABhnkeubAiQtCPagTUwBgTl05850rODhH98-9MU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzQy/MTc0LTE3MjIxODkx/MjUtNzgzMy5qcGVn.jpeg) | 2014-10-27 | deadmau5 | The Veldt Cinema (BYNX Edit) |
+| 2 | ![Cover](https://i.discogs.com/Ovs4Av2rUoMZY0C-O82YIGRmAZrn0I4jCIvvtw6zIUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTI5/MzUtMTQxNzIwODA1/NC03MTcxLmpwZWc.jpeg) | 2014-12-15 | Lana Del Rey | West Coast (The Remixes) |
+| 41 | ![Cover](https://i.discogs.com/wyfEAmNcYGSlaZkggxfkhOCI5vuM0k_YXKTU5VrHKDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDg1/NzgtMTQ2MTgwNzEx/OS0zMzgxLmpwZWc.jpeg) | 2015 | The Young Professionals | Remixes &amp; Covers |
+| 67 | ![Cover](https://i.discogs.com/AuALFOqT-39w16kuvINbqRDvcJMjW9rvR9VjXOT2-uI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDA1/OTAtMTQzNjkxNzAz/Ny03OTYzLmpwZWc.jpeg) | 2015-06-21 | Nora En Pure | Into the Wild |
+| 77 | ![Cover](https://i.discogs.com/Ap5b6ufUR_sjh24uKXRILHe-eU6tqmVciy3aIDvm4KA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjEw/NjMtMTM0NTkxODg2/Ny04NDc5LmpwZWc.jpeg) | 2015-09-19 | Ellie Goulding | On My Mind (Remixes) |
+| 92 | ![Cover](https://i.discogs.com/oizWUwHXKbhRHH4DR4DqoVyMBvowHlmKmrmUcIiX8NI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTQ4/MTEtMTQ0ODkxNTQ3/NC0yMDg4LmpwZWc.jpeg) | 2015-09-19 | Ellie Goulding | Close To Me (Red Velvet Remix) |
+| 75 | ![Cover](https://i.discogs.com/oepDE4T5i7GDMZNPSt0mwF8wBqeOfdjY42oTRxBZ-Nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTgz/NTgtMTQ1Njk3MjA1/Ny0zMzk2LmpwZWc.jpeg) | 2015-12-16 | Ellie Goulding | By The End of The Night |
+| 89 | ![Cover](https://i.discogs.com/Kl49ACBSmyXz4H7dyTojQPmoEgN8lB9UAUQZZGl7bws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzE0/MDktMTQwMTEzMzQy/OC03Mjk5LmpwZWc.jpeg) | 2015-12-28 | Nora En Pure | Morning Dew |
+| 84 | ![Cover](https://i.discogs.com/VGZNva1NmxIaL2azWc_auxUAuRW5hwhRqK4tJHGGgFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTkw/MzUtMTQ2MzI0Njk5/Ni00NjQ5LmpwZWc.jpeg) | 2016-05-09 | Nora En Pure | Lake Arrowhead EP |
+| 43 | ![Cover](https://i.discogs.com/UJ9qtLPNIu5apDdp7oqxSmlBrbk04hJ_rBHORwtyTx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjU1/MDc0LTE3MDMwNzEw/MjktOTUxNS5qcGVn.jpeg) | 2016-08-20 | Ellie Goulding | Still Falling For You (Laibert Remix) |
+| 45 | ![Cover](https://i.discogs.com/aug65FFnHwqIJNVJfHnBLmX-zVcuy5nlcyp-tJbxy8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzA3/NjgtMTQ3NTMwNjQ3/My01NTg4LmpwZWc.jpeg) | 2016-08-29 | Ellie Goulding | Still Falling For You (Jonas Blue Remix) |
+| 3 | ![Cover](https://i.discogs.com/1_qdjX7kbtSGQu3wDoVrBI9d44XPFzEnGhUGeDXu-Nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjM4/MTItMTQ3ODYwMDMz/NC02Mjk0LmpwZWc.jpeg) | 2016-09-02 | Cook &amp; Stans | Chill House for Cruising |
+| 51 | ![Cover](https://i.discogs.com/nTp3VDwxDAp7BNGf616cjpe8reqpLo69g57-pcXgWjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjYx/MzMtMTQ4Mjg2ODY0/MC0zNTc0LmpwZWc.jpeg) | 2016-12-12 | Nora En Pure | Diving with Whales |
+| 26 | ![Cover](https://i.discogs.com/6FtFNh2IU1yr1qVqLxZwv0htP-uMB0JwP5fvGNSU3D4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc2/ODMzLTE1MTEzMzM4/ODktMjkzNS5qcGVn.jpeg) | 2017 | Noel Gallagher&#39;s High Flying Birds | She taught me how to fly |
+| 47 | ![Cover](https://i.discogs.com/01Rgt9IDrVxJJIycP_RrrSfPN-oMT8I2gJ0uTYJLF9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzUy/ODg2LTE1NjAzNzMx/NjktOTczOC5wbmc.jpeg) | 2017 | London Grammar | Wasting My Young Years EP |
+| 7 | ![Cover](https://i.discogs.com/vnpVTasGiVyUUkkX_H0gEUTQpbOhOQQt_yCOk1wrF8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTI1/OTUtMTQ4NzM5Njgy/OC04ODExLmpwZWc.jpeg) | 2017-01-27 | Nora En Pure | Conquer Yosemite - EP |
+| 56 | ![Cover](https://i.discogs.com/qTiA7AtSLAVuAyJh6eXtZhK_0aw69DtIktedql-V9q8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Nzgz/MDktMTQ4NjIwMzg3/NS00MjQ3LmpwZWc.jpeg) | 2017-02-03 | London Grammar | Nightcall EP |
+| 37 | ![Cover](https://i.discogs.com/8YaerytDksf3UCUvrOQqIPYbiGqW9ADrOXy5cajxeDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODkz/NTQtMTQ4ODAyMjQ2/Mi04MDcyLmpwZWc.jpeg) | 2017-02-24 | London Grammar | Big Picture (Remix) - EP |
+| 23 | ![Cover](https://i.discogs.com/3DY8w8qQsmq7Ul7DtuTq1U7abJRscCep-S1O2r3MDJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA1/OTYyLTE1MDk5NDY2/NTItOTA2OC5qcGVn.jpeg) | 2017-09-22 | Nora En Pure | Waves |
+| 5 | ![Cover](https://i.discogs.com/cfhgMAwWieXlo3OVtWeRvkqp5JdGJ41b8luLqyRrRvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ0/MjQyLTE1MTY0NTM2/OTgtMTg1NC5qcGVn.jpeg) | 2017-11-24 | Sigrid | Burning Bridges (Crush Club Remix) |
+| 96 | ![Cover](https://i.discogs.com/Ua1UBcRkwcNlKEREqC5v51N-8OtRCaUyjuX3XH0L5B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA2/NTg4LTE2MTIxNzI2/MzMtMzc3NC5qcGVn.jpeg) | 2018 | Billie Eilish | Six Feet Under (The Remixes) |
+| 98 | ![Cover](https://i.discogs.com/aL-4qZMVzsmzMNKoQ3lQFu-k6RgeO9p6WlzNLwc-q6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzgw/NDI3LTE1NDI1MDUz/NDYtMTMxOS5qcGVn.jpeg) | 2018 | Jonas Blue | Blue |
+| 40 | ![Cover](https://i.discogs.com/g_dIb1MtH4B2Rfxx7MLVaaHZ762Z6yuLtwJ2re3VzIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDI0/MzQ0LTE1MjY3NzA4/MTMtMzkzMC5wbmc.jpeg) | 2018-02-23 | Nora En Pure | Illusions |
+| 100 | ![Cover](https://i.discogs.com/KTyexO4SBgWeLZi_EZuAuIwyeBJp_w_Fw_lht_ZtxMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA2/NDk4LTE2MTIxNzIx/MjctMTE5NC5qcGVn.jpeg) | 2018-10-16 | Billie Eilish | Ocean Eyes (The Remixes) |
+| 61 | ![Cover](https://i.discogs.com/YoMB3rzYq72_2Rkr9_QhAOZCLHZkv1a8_LSJCKKfftk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIx/ODU3LTE1ODQ4MDEw/NTQtMzM3OC5qcGVn.jpeg) | 2019 | Ellie Goulding | Hate Me (R3HAB Remix) |
+| 52 | ![Cover](https://i.discogs.com/zUiP1DJOxG51FrA6bcHeKQx-7qUCameKXaIqvZHwwb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjMz/NTc5LTE1NTA0MjQ0/OTktMjc5MC5qcGVn.jpeg) | 2019-02-13 | Jessie Ware | Lift You Up |
+| 62 |  |  | TEEMID | Here Comes The Sun |
+| 24 | ![Cover](https://i.discogs.com/2y_II83oh3FG1ZCvaZSH5bOiTSYWbZc0IbhJKvL5X40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQy/MzcwLTE1NzI2MDY4/MjEtNzkxMy5qcGVn.jpeg) | 2019 | Ellie Goulding | Sixteen (99 Souls Remix) |
+| 74 | ![Cover](https://i.discogs.com/LZxTsBq6CvJndT8TTfrEoqm95zTn-eGjApDvwHP9hcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzU0/MDQwLTE1NTI2Njg3/OTUtMTYxMi5qcGVn.jpeg) | 2019-03-15 | HVOB | Rocco |
+| 63 | ![Cover](https://i.discogs.com/ZSCl4r6F1rYuOMah1IJ0cI6YtwGbgi9-qr65ytneV_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEw/ODAyLTE1NTc2MDQw/NzAtNTI2OC5qcGVn.jpeg) | 2019-04-12 | Ellie Goulding | Sixteen (Don Diablo Remix) |
+| 86 | ![Cover](https://i.discogs.com/MErAFHW51eX-mKbXrePs3v70wKOupTDzzXd3zRtPDNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk0/NzkzLTE1ODUyOTY4/ODktMzk0MC5qcGVn.jpeg) | 2020-03-27 | Maribou State | fabric presents Maribou State (DJ Mix) |
+| 6 |  | 2020-09-26 | Ellie Goulding | Love Goes On |
+| 87 |  | 2020-09-26 | Ellie Goulding | Let It Die |
+| 88 | ![Cover](https://i.discogs.com/ErRikGaVX7TJyu6L-PoQIe0UcNiw3IMx1idGTH6l_fE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQy/OTkyLTE2MTYzMjU5/NDMtMTAyMy5qcGVn.jpeg) | 2020-11-25 | Purity Ring | Better Off Alone |
+| 31 | ![Cover](https://i.discogs.com/XuaW5R7vhFN4-_VMdzSYiIkER2LJh0pA7Vxk-qaZq-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDI0/NTg5LTE2MzcyMjAw/ODUtNjU3Ni5qcGVn.jpeg) | 2021 | Lana Del Rey | National Anthem (Remixes) - EP |
+| 44 | ![Cover](https://i.discogs.com/udPKItOalE-aE6vf1g9QORAp53x7UecJPZfP0jhmQtw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI1/NTgwLTE2MjM1ODUz/NTQtNjQ1NC5qcGVn.jpeg) | 2021-06-12 | London Grammar | The Remixes |
+| 4 | ![Cover](https://i.discogs.com/icJNPzm5YA09eWmeZBHCNzpfifHzQ-gGvVtWnufBDj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjA5/ODIxLTE2MzQzODcy/MjQtNDExMy5qcGVn.jpeg) | 2021-06-18 | Sigrid | Mirror (Maliboux Remix) |
+| 22 | ![Cover](https://i.discogs.com/HimUQPTk12bXjgA-Oq-tvuO7kFl6YF9qqWmYdBTGcoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzgy/NjQwLTE2MjgzODA4/NjEtMjg5MC5wbmc.jpeg) | 2021-07-30 | CHVRCHES | Good Girls (The Remixes) |
+| 39 | ![Cover](https://i.discogs.com/M2zUnCzqbl8JnC6o0X-sUyXn04EdG8KxQMPTL3BH__k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQ3/MDgzLTE2NDE2MDQ1/MDctMTE4Ni5qcGVn.jpeg) | 2022-01-07 | Sound Nomaden | The Morning After (Radio Edit) |
+| 11 | ![Cover](https://i.discogs.com/epLeOxNG2ZyXPBC0125PKsUdINSrh_vxSDbjG81pjsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjc4/MTg3LTE2NDg0OTA0/MjMtNzc4MC5qcGVn.jpeg) | 2022-02-10 | Nexeri | Knockin&#39; On Heaven&#39;s Door |
+| 19 | ![Cover](https://i.discogs.com/W0WFn4qcAxhopsW7RfdNGomdQPgmNhSE1kCVcKuWS0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM4/NjA5LTE2NjgyNTAz/ODMtMzU5NC5wbmc.jpeg) | 2022-11-11 | Eli &amp; Fur | My Reflection |
+| 33 | ![Cover](https://i.discogs.com/-p9ADsgiGPQWnopS_8R3TGf-tEJd9QImkvaXNzNhlhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU5/OTMxLTE2ODA5MDMw/OTAtMTIyMS5qcGVn.jpeg) | 2023-04-07 | Ellie Goulding | Higher Than Heaven |
+| 1 | ![Cover](https://i.discogs.com/r3kkjjMtlftX5t2h4mC2xa0Z60L1Ur2xB8sCwroRDhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjM2/NDI5LTE3MTE2NjQz/NDItMjk0Mi5qcGVn.jpeg) | 2023-05-21 | Lana Del Rey | Say Yes To Heaven (Dot Major Remix) |
+| 49 | ![Cover](https://i.discogs.com/9uZHm2q7F4mv0p0UrHXiDQQafCTiDXnChBM2X7yyxnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjY2/MzI3LTE3MDMxNzQy/ODQtODI2My5qcGVn.jpeg) | 2023-12 | Future Islands | ALAYA Remixes EP 2 |
+| 93 | ![Cover](https://i.discogs.com/GnC57WkpPI3ov12C7aLd0eBgjmFOJRtA6Y8Jpw-EoX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTc3/MjU3LTE3MDIzMzYy/NDgtMzA4My5qcGVn.jpeg) | 2023-12-08 | GOODBOYS | Numb |
+| 16 | ![Cover](https://i.discogs.com/tQTCpyD9D8wloCS_MGzq5SxkPcIM_V7ZUgYOfWK4yCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTIz/ODY4LTE3MzAwNTcw/NDctNzAxOC5qcGVn.jpeg) | 2024-03-22 | VisionV | Hey Now |
+| 25 | ![Cover](https://i.discogs.com/1kdnqeMp66MOd3YugXKQhnPo7Q6ZW8Cx7BwVBx9DEQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTIz/MTY2LTE3MjAwMDQz/NzktODIwMy5qcGVn.jpeg) | 2024-03-22 | M83 | Fantasy (Deluxe) |
+| 97 | ![Cover](https://i.discogs.com/TpUPUh16zRiKRKbdVr1hYI_9vTShOABp_vPEchPSrL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzc0/MzkwLTE3MTI5MDcz/OTgtMzg3My5qcGVn.jpeg) | 2024-03-29 | Jonas Blue | Fast Car |
+| 10 | ![Cover](https://i.discogs.com/uhD-eRVvLDko5swsCs7C9CJQtQapKd8dqGIHK6YahlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQz/MjMzLTE3MjMyNDMw/MDItMTU3OS5qcGVn.jpeg) | 2024-04-12 | sonaba | Sun is Dark |
+| 90 | ![Cover](https://i.discogs.com/gAAYizt5NgkJvvpivdj9hWAVGyA44rmJXYmwXGb13Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzMw/OTI3LTE3MjYyOTgx/MzItODU4Ni5qcGVn.jpeg) | 2024-09-13 | deadmau5 | I Remember (John Summit Remix) |
+| 65 | ![Cover](https://i.discogs.com/UcLHvArzPzXjSZtVuVZb-vNkQYPQgG5a-buurUUxk3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDUw/Mzg5LTE3MjkzNjc0/MDgtOTU0MS5qcGVn.jpeg) | 2024-10-18 | Kelly Lee Owens | Dreamstate |
+| 66 |  |  | TEEMID | Electric Feel |
+
+### Related genres
+
+- [deep house]({{ "/tags/deep-house" | relative_url }})
+- [house]({{ "/tags/house" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [chillout]({{ "/tags/chillout" | relative_url }})
+- [dance]({{ "/tags/dance" | relative_url }})
+- [lounge]({{ "/tags/lounge" | relative_url }})
+- [downtempo]({{ "/tags/downtempo" | relative_url }})
+- [edm]({{ "/tags/edm" | relative_url }})
+- [electronica]({{ "/tags/electronica" | relative_url }})
+- [melodic house]({{ "/tags/melodic-house" | relative_url }})

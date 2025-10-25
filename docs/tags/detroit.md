@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-23T00:09:58.884Z
+permalink: tags/detroit
+title: detroit
+---
+
+## detroit
+
+Last updated: <time datetime="2025-10-23T00:09:58.884Z">Thu Oct 23 2025 03:09:58 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 26 |  | 1977 | Various Artists | Tunnel Runners |
+| 61 |  | 1988 | Was (Not Was) | What Up, Dog? |
+| 14 | ![Cover](https://i.discogs.com/HwQAxvzYlBIlpSIVlJk17_1io2ptaa-wHkRw8HVHYoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzAw/NzctMTM1NzU3MjMx/Ny0yMjA0LmpwZWc.jpeg) | 1992 | Majesty Crush | I Love You In Other Cities |
+| 17 | ![Cover](https://i.discogs.com/gJTlFLGj67JvVi8ejayE7BGtgbgoN-z2N1qksOtY0n8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDUx/MTQtMTU5NjkyMDU0/OC04NjM5LmpwZWc.jpeg) | 1992-10-18 | Insane Clown Posse | Carnival of Carnage |
+| 41 |  | 1993 | Insane Clown Posse | Beverly Kills 50187 |
+| 40 |  | 1993-06-16 | Esham | KKKill The Fetus |
+| 25 | ![Cover](https://i.discogs.com/R-3YKIKjKQGarYPaUq4jZimRgim19KLBXPafZuLKAwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTM2/NjkwLTE1ODUxNjI4/MDMtMjI1Mi5qcGVn.jpeg) | 1994-03-08 | Insane Clown Posse | Ringmaster |
+| 13 | ![Cover](https://i.discogs.com/vd1gI1fLoPWTNp3HzOJYaAufRRWxDKjsja27jsC56VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjUx/NC0xMzc1NjIxMzM0/LTUyMzcuanBlZw.jpeg) | 1994-11-22 | Esham | Closed Casket |
+| 48 | ![Cover](https://i.discogs.com/ROZIKBcVbSLW4bT_pMkCTCirKNvVSGhgfDVIaMQjOdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDQ2/MzItMTUyMjk2MDQ5/Mi02MjEzLmpwZWc.jpeg) | 1995 | Esham | Esham Presents The Butcher Shop |
+| 49 |  | 1995 | Carl Craig | Landcruising |
+| 33 | ![Cover](https://i.discogs.com/NKhh2CP8BRVMiQbhIHnNIeM6iyv9-OGCPwanajZ4DoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDM0/MDQtMTM2ODE4OTU2/OS01NDY3LmpwZWc.jpeg) | 1995-07-25 | Natas | Doubelieveingod |
+| 85 |  | 1995-10-10 | Insane Clown Posse | Riddle Box |
+| 1 |  | 1996 | Paperclip People | The Secret Tapes of Dr. Eich |
+| 8 |  | 1996-01-09 | Kid Rock | Early Mornin&#39; Stoned Pimp |
+| 52 |  | 1997-06 | Drexciya | The Quest |
+| 63 |  | 1997-11-25 | Twiztid | Mostasteless |
+| 64 |  | 1998 | Moodymann | Mahogany Brown |
+| 89 | ![Cover](https://i.discogs.com/IPWuXV9uv22lS0S6FCXqLuf_juPFJeYfuxsU7R4sTyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDMz/MjMtMTM3NDA4ODE4/MS0zMTgwLmpwZWc.jpeg) | 1998 | Proof | A Life Transformed - EP |
+| 57 |  | 2000-03-05 | J-88 | Best Kept Secret |
+| 67 |  | 2000-03-05 | D12 | Shit on You |
+| 70 | ![Cover](https://i.discogs.com/4sUrfd4YlT7NW9Q47kwik4rvsQbIoFV3mJlLWPYjzgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzU0/NDktMTUzMzQ3ODI1/NS0yNDk4LmpwZWc.jpeg) | 2000-07-21 | Blaze Ya Dead Homie | Blaze Ya Dead Homie |
+| 56 |  | 2000-10-31 | Twiztid | Freek Show |
+| 90 |  | 2000-10-31 | Insane Clown Posse | Bizaar |
+| 15 | ![Cover](https://i.discogs.com/9t1mdNTZmenZkJPNzv5ofsEsnHBosvcI50UMwGyRqT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY5/My0xNDA3NzAyMzQw/LTM0ODMuanBlZw.jpeg) | 2001 | Eminem | Detroit Vs. Everybody |
+| 72 | ![Cover](https://i.discogs.com/RvsNMDfSgbl1fnd0A-MEqqNk9XXXlDg4rHEEjtjqMxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzE1/NTAtMTM3NTEyODM4/Ni0yMTM4LmpwZWc.jpeg) | 2001 | Blaze Ya Dead Homie | 1 Less G N Da Hood |
+| 9 |  | 2001-06-18 | D12 | Devils Night |
+| 53 |  | 2001-06-19 | D12 | Purple Pills |
+| 2 | ![Cover](https://i.discogs.com/YbE5CCeekIpKPrgVC_X83xB8ZnKLWQ1pEPVChtSPHxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzQ1/MjEtMTUzMjM0NTUw/Ny04NTk0LmpwZWc.jpeg) | 2002 | Jumpsteady | The Chaos Theory |
+| 93 | ![Cover](https://i.discogs.com/JGX-hTrlLQT9qfWT_LZWJ-1Ff2TIy5kFutoy1Cu5pJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDY2/Ny0xMTM0NDQyMTI0/LmpwZWc.jpeg) | 2002 | Twiztid | Green Book |
+| 74 | ![Cover](https://i.discogs.com/Y-bJ8SPJAazrQrcCzNx19ikBPCGN6euBY4S1IVzQvws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDUz/LTExNzQzMzQ0MDIu/anBlZw.jpeg) | 2002-01-25 | Drexciya | Harnessed the Storm |
+| 16 |  | 2002-04-09 | Twiztid | Mirror Mirror |
+| 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/68982cce93b18ba13f8b230e6630ee05.png) | 2002-11-05 | Insane Clown Posse | The Wraith: Shangri-La |
+| 59 |  | 2003 | Zug Izland | Cracked Tiles |
+| 78 | ![Cover](https://i.discogs.com/N2u03Tzc9B7FYqrKZFIvRjDLVyEqDkKo6JqtTqbgZqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDU5/NTMtMTM4MzI0NzUy/MC03MzYyLmpwZWc.jpeg) | 2003-07-01 | Twiztid | The Green Book |
+| 6 |  | 2003-09-25 | The Dirtbombs | Dangerous Magical Noise |
+| 54 | ![Cover](https://i.discogs.com/EI0bkTrspTLPDfwI7v2ASN4JGp4SK1_sqFPuiUZdAX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTI5/Ny0xNjkwNTI3OTk3/LTc5NzYuanBlZw.jpeg) | 2004 | D12 | D-12 World |
+| 76 |  | 2004 | Dark Lotus | Black Rain |
+| 55 |  | 2004-04-26 | D12 | D12 World |
+| 86 | ![Cover](https://i.discogs.com/ZswAkJ0wUztued726PPf1zuHQTGwLc79yBtBopiTfcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYy/Mi0xMzkxNzY1Nzk2/LTc3NTguanBlZw.jpeg) | 2004-05 | Moodymann | Black Mahogani |
+| 3 |  | 2004-05-18 | Twiztid | Cryptic Collection 3 |
+| 60 |  | 2004-07-13 | Project: Deadman | Self Inflicted |
+| 7 | ![Cover](https://i.discogs.com/qV-V8Ds2cXK-gxHtjYPU7PNa9BMYHWXNrOynmohtu4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDgx/NzEtMTUzMjM0NTgy/NC03NTYwLmpwZWc.jpeg) | 2005 | Jumpsteady | Master of the Flyng Guillotine |
+| 80 | ![Cover](https://i.discogs.com/yNwXjl2TC_Jh5DKFvtDCBINFf094rSYS3Zl73LQi6zE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTcw/MS0xMTUyNzM4ODgw/LmpwZWc.jpeg) | 2005 | Black Milk | Sound of the City |
+| 91 | ![Cover](https://i.discogs.com/clv4TfkFgaydapT2fz-w_vp0emJwL9HIDbYQyvqwxpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTIy/Mi0xMzQ5MDEzNzQ4/LTcyMjcuanBlZw.jpeg) | 2005 | Bizarre | Hannicap Circus |
+| 73 |  | 2005-12-27 | Trick Trick | The People Vs. |
+| 81 | ![Cover](https://i.discogs.com/BnvyuQX_LgjPA3yYX2_OigGtNIe0-qDzziSAZB9jnHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTIx/NzEtMTY2NTA5MDk0/OC02MjAzLmpwZWc.jpeg) | 2006 | J Dilla | Shining |
+| 88 |  | 2006-05-22 | Jamie Madrox | Phatso |
+| 79 |  | 2006-08-21 | J Dilla | The Shining |
+| 77 | ![Cover](https://i.discogs.com/lws-SoRw7vVme-lTwX-YN1x_0Oc8m6JW3QoOfvMyIv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/ODAtMTY0NTkxMTc3/NC03ODg2LmpwZWc.jpeg) | 2007 | Royce da 5&#39;9&quot; | The Bar Exam |
+| 51 |  | 2007-03-20 | Insane Clown Posse | The Tempest |
+| 68 |  | 2007-07-03 | Twiztid | Independent&#39;s Day |
+| 75 | ![Cover](https://i.discogs.com/Fa4UjXEIg-oE3ZDyV4z7KIg_-WwQ8PAMgUGduB6aqc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzc0/ODYtMTYwNTEyMjgz/NS0xNTQxLmpwZWc.jpeg) | 2007-08-21 | Blaze Ya Dead Homie | Clockwork Gray |
+| 87 |  | 2008-03-25 | Guilty Simpson | Ode To The Ghetto |
+| 92 | ![Cover](https://i.discogs.com/lXtfRf_VaxpZOZP8amu65mB0P5eohxNCnwxDfy9CHZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU4/NDUtMTMzODg4NDUw/OC02NjI2LmpwZWc.jpeg) | 2009 | Eminem | Relapse [Deluxe] |
+| 98 | ![Cover](https://i.discogs.com/_b5i5A5qq0FcnHV0dD4GNfirAiaTiSQQ-k7Mf3_Rxm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODA4/MzEtMTI0OTc4ODU2/NC5qcGVn.jpeg) | 2009-07-07 | Royce da 5&#39;9&quot; | The Revival |
+| 5 | ![Cover](https://i.discogs.com/uQP8x3X3yCefuwUCACj4jgJ1SWwbfPKHH2hokxeoMd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODA2/NTQyLTE1Mzc5MjM5/MDgtNDIxNS5qcGVn.jpeg) | 2009-08-13 | King Gordy | King of Horrorcore, Vol.1 |
+| 10 |  |  | Psychopathic Various | Mike E. Clark&#39;s Psychopathic Murder Mix Vol. 1 |
+| 31 |  | 2001-05-21 | The Dirtbombs | Ultraglide in Black |
+| 21 |  | 2004-06-01 | Zug Izland | 3:33 |
+| 36 | ![Cover](https://i.discogs.com/aiKk9Tjo8DgxJjwKQeLAHTGOkDwVuLk6KhkZTCzY0DY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjQ1/MC0xNTI1NzgzODI3/LTQ4NDkuanBlZw.jpeg) | 2004-10 | Carl Craig | Just Another Day |
+| 12 | ![Cover](https://i.discogs.com/h1Dm8wZXv6k9GtWZ8MbkXm27tcjpH-QN0jmeXDTmZEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzEw/MTYtMTUyODY5ODk1/OC0zNjA0LmpwZWc.jpeg) | 2004-10-19 | Blaze Ya Dead Homie | Colton Grundy |
+| 22 |  | 2005-05-17 | Insane Clown Posse | The Calm |
+| 47 | ![Cover](https://i.discogs.com/tcPoe67_XiP4feCdOeJqjQYy_EJzY-mwndJm54HnPUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzU1/OTktMTU2NTQyNzIy/Mi04MjQ5LmpwZWc.jpeg) | 2008-04-23 | Boondox | Psychopathics From Outer Space Part 3 |
+| 20 | ![Cover](https://i.discogs.com/DtIAezsbZN3LHE0YYYI6D7-Yw_oUBCrvMsg1SyxcHyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTgx/MDEtMTM4NDA3Mzgy/Ny0xODAyLmpwZWc.jpeg) | 2008-08-26 | Esham | Sacrificial Lambz |
+| 19 |  | 2008-08-30 | Kenny Larkin | Keys, Strings, Tambourines |
+| 18 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 2009 | Various Artists | Let &#39;Em Bleed the Mixxtape |
+| 39 |  | 2009 | Violent J | The Shining |
+| 4 | ![Cover](https://i.discogs.com/c1Pa8trTj0pq6_Tfgp_NlSwttPRnsV1MNje10zabF3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc2/NzAyLTE1Mzc5MjQw/NTYtNjUzNi5qcGVn.jpeg) | 2010 | King Gordy | Xerxes the God King |
+| 11 |  | 2010 | Southpaw Swagger | Party With Guns |
+| 95 |  | 2010-03-12 | Slaughterhouse | The Gathering |
+| 24 | ![Cover](https://i.discogs.com/LbzXXjOqzi7m_Lo0pcVZStiVgG1yyLnzISpM1ZfQXf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mzk0/OTEtMTQwMTMzNTE2/Ny0zOTMwLmpwZWc.jpeg) | 2010-04-12 | Drive-By | Pony Down (Prelude) |
+| 82 | ![Cover](https://i.discogs.com/N3z8E-uYBduxQbdmiKElqja4WyJx0mni7UeuKr9A0sE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjQ4/MTgtMTQxNzIxOTQ2/OC04NTAxLmpwZWc.jpeg) | 2010-05 | Drexciya | Neptunes Lair |
+| 28 | ![Cover](https://i.discogs.com/DjmgLIxjZ3y_LqpsRlplBPSweS28I1vvxvcG3a6UH_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NTIz/OTgtMTQ4NTgwNTA5/Ni05Mzk1LmpwZWc.jpeg) | 2011 | The Armed | Young &amp; Beautiful |
+| 50 | ![Cover](https://i.discogs.com/IQrWaW_6PvP1Hoj9Un7UZBdWWfiNu7xo5QT9szYWtvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzcw/MTA1LTE1OTA0MjY1/NzEtMzg5My5qcGVn.jpeg) | 2011 | Zo! | &quot;Freelance&quot; |
+| 46 |  | 2011-01-31 | The Dirtbombs | Party Store |
+| 100 |  | 2011-06-13 | Bad Meets Evil | Hell: The Sequel |
+| 37 |  | 2012-04-24 | Apollo Brown &amp; O.C. | Trophies |
+| 84 |  | 2012-09-05 | Big Sean | Detroit |
+| 71 |  | 2013-01-15 | Bvdub | A Careful Ecstasy |
+| 30 | ![Cover](https://i.discogs.com/wgVZUW5nC92gHbY5sAnusVlLSr4Wp8BRgPq9ecvvMl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDc5/Nzk2LTE2NTk0NjIx/MzItNDMwOS5wbmc.jpeg) | 2013-07-08 | AMB | Blood In Blood Out |
+| 42 | ![Cover](https://i.discogs.com/OcaO_TlZQf3C37wVGZM2gbbwRe0nQkNC4gNIrn57d9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjIz/NjktMTQzMTg3ODQx/OC0yNzEzLmpwZWc.jpeg) | 2014-06-02 | IceWear Vezzo | Rich Off Pints 3 |
+| 32 | ![Cover](https://i.discogs.com/cHKGGFI3NWoI4ZMh11IbEYRmPKbroDK06d-HYRM8mOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzUz/MzY1LTE2MzUzNjMw/MDItNDQ3OC5qcGVn.jpeg) | 2015-12-08 | Twiztid | Heartbroken and Homicidal |
+| 58 | ![Cover](https://i.discogs.com/w_5EKqrEhRxom_Xb4Yy2CxwzjFlygMWXsn3F5bUo49c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODA5/NjQtMTQ2NjQ5OTY3/MS03ODA2LmpwZWc.jpeg) | 2016-06-15 | Danny Brown | When It Rain |
+| 66 | ![Cover](https://i.discogs.com/tyjM2xYeDEGdtyo-4eE-g6eyJZb7C2Q2xajY63xl7IY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzgz/NjAtMTU1NzU3MzQy/MC03MDU1LmpwZWc.jpeg) | 2016-11-04 | Tall Black Guy | Let&#39;s Take A Trip |
+| 43 | ![Cover](https://i.discogs.com/QD0im7_xLy_-d2dl_cS-B821aKabfH8m4pyqUUAc_3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/ODIxLTE1NDQ4MTEx/NjAtNzk2Mi5qcGVn.jpeg) | 2018 | Anybody Killa | Dark History |
+| 69 | ![Cover](https://i.discogs.com/toL6Snjpby3tYUigo0-feonX1sUNQ7hj_w602qPXhrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjY2/OC0xMTQ0ODYwOTk2/LmpwZWc.jpeg) | 2018 | Royce da 5&#39;9&quot; | Death Is Certain |
+| 83 | ![Cover](https://i.discogs.com/YiSKi0N8jAKQ1OVwXVV5iIlK2VzUfHkwktfo74oGI1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE3/ODk3LTE1NTAxNTEw/MzQtNjMxMy5qcGVn.jpeg) | 2019-02-06 | Joey Pecoraro | Deep in a Dream of You |
+| 97 | ![Cover](https://i.discogs.com/wXmJ9V5Vqb_GiCRbz7VgnD_79n2VWlI0hD3OYMMJmT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzA5/NTg3LTE2Mjc4Nzg0/NTUtODI5MC5qcGVn.jpeg) | 2019-06-08 | ShittyBoyz | 3-Peat |
+| 29 | ![Cover](https://i.discogs.com/9gpxgFjjjBgSY2rK2ZOmLNho4xibyMutsfHzl00mxgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzE5/MDI3LTE1ODAyNTQz/ODEtNDU5NC5qcGVn.jpeg) | 2020-01-27 | Cardo | Game Related |
+| 27 | ![Cover](https://i.discogs.com/L8il2TDa4i89ajcIWhnap2NuNzbYTk1c8oypiR8dUcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTU2/ODkxLTE2NDkyNjkw/MzEtODUxMi5qcGVn.jpeg) | 2020-09 | Theo Parrish | Wuddaji |
+| 44 |  |  | Salam Wreck Presents | Welcome To The Pyrex |
+| 45 |  |  | MECHAYRXMEO | ALL OR NOTHING 2 |
+| 23 | ![Cover](https://i.discogs.com/xhSsGcA0v-B0J_kDDDIC_JAJLlu1SAF4IaoROhj7lPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDU3/NzA3LTE2MjYwMjM4/NjAtNzYxMi5wbmc.jpeg) | 2021 | Anybody Killa | Hatchet Warrior |
+| 35 |  | 2023 | Various Artists | Psychopathics From Outer Space Part 3 |
+| 38 | ![Cover](https://i.discogs.com/iqLEbIUWkfzDgs2VACuTCqC9QrOqEGz0YvbcvtPNQNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Njc5/NjItMTM3NDg4NjM3/NS05OTkzLmpwZWc.jpeg) | 2023 | Insane Clown Posse | Wicked Vic |
+| 62 |  | 2023 | Various Artists | Psychopathics From Outer Space (Part 2) |
+| 65 |  | 2023 | Various Artists | Hatchet History |
+| 94 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 2023 | Various Artists | Sympathetic Sounds of Detroit |
+| 99 | ![Cover](https://i.discogs.com/-6pJxft7ydDjlYkfYuPbwo5_CeJOoI4muPE4vKCZCwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTk2/Mzg1LTE2ODg2NDYz/MTgtODY0NS5wbmc.jpeg) | 2023-06-27 | Veeze | Ganger |
+| 34 | ![Cover](https://i.discogs.com/4OYR5pjGyKCqDeZoJPwaE5uG7BrVs-eJGWSKYDnQp7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODE4/MzEtMTM4MTQ1NDEy/Ny01OTMwLmpwZWc.jpeg) | 2023-11-17 | Danny Brown | Pneumonia |
+
+### Related genres
+
+- [detroit rap]({{ "/tags/detroit-rap" | relative_url }})
+- [michigan]({{ "/tags/michigan" | relative_url }})
+- [techno]({{ "/tags/techno" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [house]({{ "/tags/house" | relative_url }})
+- [rap]({{ "/tags/rap" | relative_url }})
+- [hip-hop]({{ "/tags/hip-hop" | relative_url }})
+- [electro]({{ "/tags/electro" | relative_url }})
+- [detroit techno]({{ "/tags/detroit-techno" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})

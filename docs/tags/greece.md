@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T06:47:21.004Z
+permalink: tags/greece
+title: greece
+---
+
+## greece
+
+Last updated: <time datetime="2025-10-22T06:47:21.004Z">Wed Oct 22 2025 09:47:21 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 7 |  |  | Giorgos Alkaios | Dos Mou Ligo Fos |
+| 9 |  |  | Eirini Merkouri | Aneta |
+| 10 |  |  | Markos Vamvakaris | Ta Teleftaia Chronia Tou Markou 1963-1969 |
+| 12 |  |  | Καιτη Γαρμπη | Eho Sta Matia Ourano |
+| 18 |  |  | Stella Kalli | Etsi Kano Ego |
+| 20 |  |  | Nino Xypolitas | Paranoia (Eime Enas Allos - 2019 Panik Version) |
+| 23 |  |  | Miltos Pashalidis | O,ti Agapas Den Telioni (Live) |
+| 24 |  |  | Vasilis Karras | Opos Palia |
+| 25 |  |  | Alkistis Protopsalti | Na Se Vlepo na Gelas |
+| 26 |  |  | Dimitris Giotis | To Magazi |
+| 27 |  |  | Diafori Kallitehnes | Den Xero Poso S&#39; Agapo |
+| 29 |  |  | Nikos Kourkoulis | Mia Nihta Ston Paradiso - I Megaliteres Epitihies |
+| 33 |  |  | Tonis Maroudas | I Varka Gyrise Moni (Recordings 1952-1958) |
+| 34 |  |  | Dionisis Shinas | To Kalokeri |
+| 35 |  |  | Άννα Βισση | Nylon Euro Edition |
+| 36 |  |  | Rena Morfi | Souli Anatoli |
+| 38 |  |  | Nikos Vertis | Nikos Vertis |
+| 39 |  |  | Haris Alexiou | Di&#39; Efchon |
+| 41 |  |  | Πυξ Λαξ | Zoriki Keri |
+| 42 |  |  | Lena Zevgara | Ela Ela |
+| 43 |  |  | Vasilis Karras | Den Pao Pouthena |
+| 49 |  |  | Melina Aslanidou | To Perasma |
+| 52 |  |  | Giorgos Giannias | Ena Taksidi Akoma |
+| 53 |  |  | xatzifrageta | Offside |
+| 54 |  |  | Haris Alexiou | Gyrizontas Ton Kosmo &amp; Ena Fili Tou Kosmou &#x2F; Live 92-97 |
+| 55 |  |  | Glykeria | Sto Lykavito - Nychtes Magikes kai Oneiremenes |
+| 57 |  |  | Vasilis Karras | Kirios Ma... Ke Alitis |
+| 59 |  |  | Thanos Petrelis | Eimai Akoma Eleftheros |
+| 63 |  |  | Gerasimos Evangelatos | Mehri To Telos |
+| 66 |  |  | Haris &amp; Panos Katsimihas | Zesta Pota |
+| 67 |  |  | Giorgos Mazonakis | Summer In Greece |
+| 69 |  |  | Konstantinos Argiros | Ximeromata |
+| 95 |  |  | Eleni Foureira | Vasilissa |
+| 100 |  |  | Eleni Foureira | Gypsy Woman |
+| 89 | ![Cover](https://i.discogs.com/KZ5kjuu5QVslxjQDN2BdH3DYgyws31IYNS8ztQQCQYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzQx/MzctMTM1NDk1NjI0/OS04ODU4LmpwZWc.jpeg) | 1966 | Iannis Xenakis | Xenakis, I.: Orchestral Works, Vol. 5 - Metastaseis &#x2F; Pithoprakta &#x2F; St&#x2F;48 &#x2F; Achorripsis &#x2F; Syrmos &#x2F; Hiketides Suite |
+| 93 | ![Cover](https://i.discogs.com/sa5urBIC06lbEEwn0d9zvSUq2G-jn2tpwHnJ4fclfJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk0/ODMtMTUzNjY2Njg3/NC02NjE4LmpwZWc.jpeg) | 1968 | Iannis Xenakis | Xenakis, I.: Orchestral Works, Vol. 2 - Jonchaies &#x2F; Shaar &#x2F; Lichens &#x2F; Antikhthon |
+| 48 | ![Cover](https://i.discogs.com/jEaasoDBULbQ5GfYwX6C9TAANvRFTQDdOa3-C4DQiOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzk2/NjAtMTQ1MDgwMjM2/OC00NDUwLmpwZWc.jpeg) | 1970 | Γρηγόρης Μπιθικώτσης | Politia A + Politia B |
+| 2 | ![Cover](https://i.discogs.com/yOJGxg7Z4ds7VQ0dUlW709oc_atDfpsGol5TNljqCN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODA4/NjItMTM4OTUxODQx/Ny0yMzEyLmpwZWc.jpeg) | 1978 | Δημήτρης Μητροπάνος | Stou Eona Tin Paraga |
+| 14 | ![Cover](https://i.discogs.com/IomavevGnCC5fEaSH--mdCJcmUOTzTAljsVQsIirKuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzY5/OTQtMTQ3MzY3NzY2/Ni05NTI1LmpwZWc.jpeg) | 1978 | Δημήτρης Μητροπάνος | Kalokeria Ke Himones |
+| 99 | ![Cover](https://i.discogs.com/nE1fkgi3bPB8RkpqFKoodHNSJpzQ5Tndr7widciswmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTkw/OTktMTYxNzcxNzQ3/My0xOTUxLmpwZWc.jpeg) | 1978 | Demis Roussos | Demis Roussos - Greatest Hits (1971 - 1980) |
+| 46 | ![Cover](https://i.discogs.com/YEbfi03EwUjaqvGElkWNOc17hg1xW_96qvA5nwYgQhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTAy/MzMtMTIzODQ5NzMx/Mi5qcGVn.jpeg) | 1983 | Mikis Theodorakis | The Very Best Of |
+| 30 |  | 1986 | The Last Drive | underworld shakedown |
+| 3 |  | 1988 | The Last Drive | heatwave |
+| 13 | ![Cover](https://i.discogs.com/qtgqIPMXQGPcMn1Yi4PByEQbPVjC2W0XGQ4l1Ck_NP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjI2/MzEtMTQ5NTkxNzE0/MS03MTk4LmpwZWc.jpeg) | 1989 | Mikis Theodorakis | Roots Of Greek Music Vol. 5: Mikis Theodorakis |
+| 44 |  | 1993 | Τα Ξύλινα Σπαθιά | Ξεσσαλονίκη |
+| 58 | ![Cover](https://i.discogs.com/otYPm7A-Fg29blUxYtciHQYczstWPfc_C-c3L6-A09Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM2/Njg0LTE2MDQwNjA2/MzAtOTA0MC5qcGVn.jpeg) | 1996 | Notis Sfakianakis | Best of Notis Sfakianakis |
+| 47 | ![Cover](https://i.discogs.com/5BmRH0Hg0YNVtzVeT7ZLwCfiWIiCmUtB-LEmr2F1fkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTcz/NDMtMTQ0MzM1ODI4/MC01NjU2LmpwZWc.jpeg) | 1997 | Τάνια Τσανακλίδου | Mama Gernao |
+| 16 | ![Cover](https://i.discogs.com/dYZ0yd6g_HcS8Bz8OY8rOhLhntfdeZhwgGImQrBROXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjg0/MzQxLTE0OTQ2NjIx/NzgtMTIyNi5qcGVn.jpeg) | 1999 | Τα Ξύλινα Σπαθιά | Ta Xilina Spathia - The Best Of |
+| 74 | ![Cover](https://i.discogs.com/-gGuoX3GJ7sjGjHrPN-B6kuxz-OLImk8J3tjASG3Lwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MDAw/MzYtMTQ4NDk5NTc5/NC01NjQ0LnBuZw.jpeg) | 2002 | Josephine | Magia |
+| 22 | ![Cover](https://i.discogs.com/OahqxV5s1EWNGKjvUksdxPJGjrzHztz5kzOeWm4GXbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTUx/NjgtMTI4NzE0NTcz/OS5qcGVn.jpeg) | 2003 | Antonis Remos | Kardia Mou Min Anisihis |
+| 15 | ![Cover](https://i.discogs.com/TF7GBeMTrLPoy2ALzsQx_k6NCsqt0bChqXriUrLUQpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE5/OS0xMjU4MjQ2OTEz/LmpwZWc.jpeg) | 2003-09-22 | Despina Vandi | Jambi |
+| 6 | ![Cover](https://i.discogs.com/cgTaer7lH-ATR9x1oexV16QPdH2oSpN3WSNpyp9UC7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTYy/MzIwLTE2NTUxMzcw/NTktMTEzNS5qcGVn.jpeg) | 2004 | Sotis Volanis | Sotis Volanis |
+| 11 | ![Cover](https://i.discogs.com/kRHBgKzZGfVhamAXHrM-INXuIJukEsHdITg_X7KOgR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjM3/NjctMTQ2MDQ5ODY1/Ni02NzE2LmpwZWc.jpeg) | 2005 | Despina Vandi | Live Apo To Lykavitto |
+| 50 | ![Cover](https://i.discogs.com/-f5AkexgJ8HEsnbaNUC2jNJyBA0TNf-m5DmGxhnZwhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzkz/ODQtMTMxNzU4NDI4/MS5qcGVn.jpeg) | 2005-12 | Ελένη Τσαλιγοπούλου | Kathe Telos Ki Arhi |
+| 45 | ![Cover](https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg) | 2006 | Various Artists | O Erotas Allios... |
+| 32 | ![Cover](https://i.discogs.com/LzPUA525joPCPOgl5WetxJGSeYsICwA5q4TvYpcsAb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDI3/My0xNDM0NjE0MjQ1/LTM2MTAuanBlZw.jpeg) | 2006-03-06 | Absent Without Leave | Bon Voyage |
+| 62 | ![Cover](https://i.discogs.com/URCJFydzXQTLzylIwIYs6TSPiSgqeCXUNT9TLnuAVcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDAz/NzgxLTE1MzQ1OTY2/MDMtMTAzNy5qcGVn.jpeg) | 2006-04-12 | Helena Paparizou | Iparhi Logos |
+| 28 | ![Cover](https://i.discogs.com/xL-zdy4PJzsCtJFcmNvnRztkum1_3NtUpSM3ZU3N2bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjAw/ODEtMTYyNjIwOTAw/OS01Mjg0LmpwZWc.jpeg) | 2008-11-10 | Firewind | Live Premonition |
+| 64 |  |  | Panos Kiamos | Krystalla |
+| 80 | ![Cover](https://i.discogs.com/JqDpzWCvQ0xT_52tDD9fX7pjZAqE96nxiq7mi_7PJ5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjE1/NjgtMTQzNDQ1NDU0/OS0xNDQ1LmpwZWc.jpeg) | 2008 | Μιχάλης Χατζηγιάννης | 7 |
+| 65 |  | 2008-04-14 | Absent Without Leave | Postcards from Nowhere |
+| 68 |  |  | Eleni Foureira | Eleni Foureira |
+| 76 |  |  | Nikos Vertis | Pos perno ta vradia monos |
+| 77 |  |  | Konstantinos Argiros | Osa Niotho |
+| 87 | ![Cover](https://i.discogs.com/saGnfR1-F1fNJNcbfEojpHu175wgMGj0WPsUMyEAMzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDc0/ODMtMTUxMDY1MTUw/OC02MjQ0LmpwZWc.jpeg) | 2007-10-08 | Dodsferd | Cursing Your Will To Live |
+| 4 | ![Cover](https://i.discogs.com/Iy35UsxbWop-uz-bEAw6RvtE__FwYgIim395OxIi634/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQ1/MzMtMTMxMTE4NzUw/NS5qcGVn.jpeg) | 2009 | Ex Humans | Chicane |
+| 56 | ![Cover](https://i.discogs.com/Aqr2-DbZnZ-GEiO0YaaFYpvh3rxgqWsgusXWhBKVASE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDE5/MzUtMTM1MTk1NDQ3/MC0zMzU2LmpwZWc.jpeg) | 2009 | Kelly Thoma | Anamkhara |
+| 31 | ![Cover](https://i.discogs.com/Ae_SA4HBNGpB6aXq4wyPrZOoVNwsupLc1BHODorjQ5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTE1/MTctMTQxMjIzNDYy/OS02MTU5LmpwZWc.jpeg) | 2009-05-31 | Mentally Defiled | The Thrash Brigade |
+| 1 | ![Cover](https://i.discogs.com/phGT-6dPa3lssaGRaKvVjEWhGmKt3wkqICjpEj_RlLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzY4/MTI3LTE2MjEyNzE1/NjQtNTg0MS5qcGVn.jpeg) | 2010-03-05 | Eleftheria Eleftheriou | Tables Are Turning |
+| 72 | ![Cover](https://i.discogs.com/bPPjzVhzg51lkzCHrytNDtYvPlCxPGpVeTk1916DU_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTM0/MjUtMTI5OTQ5ODU1/NS5qcGVn.jpeg) | 2010-03-08 | Smokey Bandits | Debut |
+| 94 |  | 2011-09-29 | 1000mods | Super Van Vacation |
+| 40 | ![Cover](https://i.discogs.com/35gwlcRgNIMTT3Tro1whPMR4bw0_twuES7SVXpOuCMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTAx/MjEtMTI4MTE3Mzg4/MS5qcGVn.jpeg) | 2015 | Omega | The Hell Patrol |
+| 71 | ![Cover](https://i.discogs.com/CizX9akorY9uwP5EL4iNoQlbCB1K5SSG71LrFkw_OqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Mzg4/NDEtMTQyNTY0MjIy/NS0yMDQ5LmpwZWc.jpeg) | 2015-02-24 | Σtella | Σtella |
+| 91 | ![Cover](https://i.discogs.com/fAxN73rQt92iBxfb_XEeyAlBHELKbJZoZAliEWQLugI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjEy/OTEtMTQzNzQyNzEx/Ni05Nzk2LmpwZWc.jpeg) | 2015-04-26 | Naxatras | Naxatras |
+| 90 | ![Cover](https://i.discogs.com/ugBjPOzbMaJNQVGzhIeRPsOZth-H5wXkCUNT0PdK9ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjA4/ODc0LTE1NTIyMDg3/ODUtOTA1NS5qcGVn.jpeg) | 2015-08-21 | Rotting Christ | Lucifer Over Athens |
+| 60 | ![Cover](https://i.discogs.com/ZvdN3jOw-Vy1T_c5WCduOqrwnKAJ9-9nIhyaCRtMUo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTMz/NzAtMTUxNTQ4ODU5/Mi04NDk0LmpwZWc.jpeg) | 2016 | Demis Roussos | Collected |
+| 21 | ![Cover](https://i.discogs.com/U0VvZtvidmWaUtr4wEe5TR-VrLsUAFo8kpTCs7T1APo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjM2/NjQtMTQ1ODQxNzY3/NS02MDU5LmpwZWc.jpeg) | 2016-03-18 | Universe217 | Change |
+| 37 | ![Cover](https://i.discogs.com/xm_N6h-1r24WxHqmP6uB_Ah0enDFzUoYi5eB4X_Zwyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjk3/MDUtMTQ3OTM4NTkz/Ni02OTYzLmpwZWc.jpeg) | 2016-11-22 | Ruined Families | education |
+| 61 | ![Cover](https://i.discogs.com/BTUDJ-yGBXtL8piNCQT26X6KYfRhLR7T9z_H_uz5-ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjU4/NjAtMTQ4MjA5NTUy/MS02OTIwLmpwZWc.jpeg) | 2016-12-08 | Antonis Remos | Spasmena Kommatia Tis Kardias |
+| 5 | ![Cover](https://i.discogs.com/mDoOpgieuwXzgBPRNNU9Z0-4UERSkrqQPvwbTMbiWIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTU5/NDcwLTE1Njg5NTEx/MzEtMTE1NS5qcGVn.jpeg) | 2019-06-05 | Deaf Radio | Astypalea |
+| 8 | ![Cover](https://i.discogs.com/0vtK3tU8xgvgTuqntBk9VKvGmvAtOUbu1KA51G8gdBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTU2/Njk0LTE2MDQ0MDYw/ODktNjI1Ni5qcGVn.jpeg) | 2020-10-23 | Black Fate | Ithaca |
+| 19 | ![Cover](https://i.discogs.com/gLhIXhcl4VVraGiXrRiZofkRmV4nTek10_1ZqTKod8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTU3/NzkzLTE3MDIxNjQ4/MzEtNDM1MS5qcGVn.jpeg) | 2021-01-12 | Bouzouki Kings | TZATZIKI - The Best Greek Music For The Best Greek Food |
+| 73 |  |  | Elli Kokkinou | Ki Allo |
+| 75 |  |  | Elli Kokkinou | Platinum Edition |
+| 78 |  |  | Thanos Petrelis | Thimizeis Kati Apo Ellada |
+| 79 | ![Cover](https://i.discogs.com/zoPk9DayAVokheSWx0TYZzQJFmhryymjXihlZphscGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTI2/NTIxLTE2NTAzMDA3/MzAtOTU1NS5qcGVn.jpeg) | 2020-09-01 | the abyss inside us | earth two |
+| 81 |  |  | Yianna Terzi | Karma |
+| 82 |  |  | Giorgos Mazonakis | Agapo Simeni |
+| 83 |  |  | Eleni Foureira | Temperatura |
+| 84 |  | 2007-11-09 | Abbie Gale | 2 |
+| 85 |  |  | Melisses | I Moni Epilogi |
+| 86 | ![Cover](https://i.discogs.com/mjKTLPfsIokT_-weGLQ71z18-fRpwLzabduc62CT6N8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTc1/NTctMTQwNTg3NDE2/My02OTUwLmpwZWc.jpeg) | 2013-01-31 | we.own.the.sky | The Glass &#x2F; Nails EP |
+| 97 | ![Cover](https://i.discogs.com/lNXIl8-gsixN870h45AuZngX030UD3okv__cGeMcMTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTAx/MjYtMTQ4NDgxOTc5/NS0yMzEzLmpwZWc.jpeg) | 2017-01-09 | Deaf Radio | Alarm |
+| 88 | ![Cover](https://i.discogs.com/jqZUms1QxGr8oHGkVQPZJon8ONLORVatEuHP-giuNy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE5/NTUzLTE2MjE2MDEy/MzktMjcwNy5qcGVn.jpeg) | 2021-05-07 | the abyss inside us | the road that leads to another |
+| 92 |  |  | Nikos Vertis | Eimai Mazi Sou |
+| 98 | ![Cover](https://i.discogs.com/wrQ6ttcSbYMYR0cGWlG62YqpqscKFdSoQhdnYNcC31I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDA0/MjM4LTE1NzM4NTA2/MzAtOTc1MC5qcGVn.jpeg) | 2019 | Deaf Radio | Modern Panic |
+| 96 | ![Cover](https://i.discogs.com/ygMI9LvvGEky_d75Qt3Oj9dwkSGzSDq1mD5Y3Ldb9K8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDA0/MjgxLTE2NjcyMTgw/ODYtMzgxMC5qcGVn.jpeg) | 2022 | Σtella | Charmed |
+| 51 | ![Cover](https://i.discogs.com/seJBFxdWUWBequCaYirDSp4zXl-5gAzWt00iL5s1zdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAz/NTYwLTE2ODEwNTYw/NzAtODg2Ny5qcGVn.jpeg) | 2023 | Arleta | Arleta |
+| 70 | ![Cover](https://i.discogs.com/seJBFxdWUWBequCaYirDSp4zXl-5gAzWt00iL5s1zdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAz/NTYwLTE2ODEwNTYw/NzAtODg2Ny5qcGVn.jpeg) | 2023 | Arleta | I Serenata |
+| 17 | ![Cover](https://i.discogs.com/PGW-LfJouxCcfAwZ2n4GwdKCcljWeJKDfEnGNscigSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTcw/OTA3LTE2NzY5MjU4/NjUtODY2OC5qcGVn.jpeg) | 2023-02-19 | La Zarra | Évidemment (Duet Version) |
+
+### Related genres
+
+- [greek]({{ "/tags/greek" | relative_url }})
+- [palia ellinika tragoudia]({{ "/tags/palia-ellinika-tragoudia" | relative_url }})
+- [greekpunk]({{ "/tags/greekpunk" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [punk rock]({{ "/tags/punk-rock" | relative_url }})
+- [world]({{ "/tags/world" | relative_url }})
+- [black metal]({{ "/tags/black-metal" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})

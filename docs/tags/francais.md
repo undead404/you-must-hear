@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-23T11:28:16.695Z
+permalink: tags/francais
+title: francais
+---
+
+## francais
+
+Last updated: <time datetime="2025-10-23T11:28:16.695Z">Thu Oct 23 2025 14:28:16 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 31 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 1980-08 | Various Artists | Piglet&#39;s Big Movie Original Soundtrack (French Version) |
+| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ac63e46250384fd4cfb41ae0209d2ed7.png) | 1981 | Trust | Marche ou Crève |
+| 16 | ![Cover](https://i.discogs.com/J1pZuLs6wqMc-799ME4Rs0j6kNCBdznBFbHVUFe1a6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk1/MjMtMTIwNTA5NzY2/NC5qcGVn.jpeg) | 1988-03-14 | Mylène Farmer | Ainsi Soit Je |
+| 17 |  | 1988-04 | Mylène Farmer | Ainsi soit je... |
+| 33 |  | 1991-04 | Les Thugs | I.A.B.F. |
+| 19 |  | 1993 | Liane Foly | Les petites notes |
+| 1 | ![Cover](https://i.discogs.com/hazrxo1HmjNBRc5K-YRAQ-0GZjp3TgVe3ARF6_5orzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzM2/NDMyLTE1ODA1ODU3/NzktNTA5My5qcGVn.jpeg) | 1996-06-21 | Melonman | Quatrième chat pitre |
+| 9 |  | 1997-01-06 | Trust | Anti Best Of |
+| 6 |  | 1997-04-28 | Art Mengo | Live au Mandala |
+| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/83e720b57ddbfd827442ffdf8fef931e.png) | 1999-01-25 | Liane Foly | Acoustique |
+| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3b304257da1e423f80c467081ffaaf5d.png) | 1999-09-07 | Dionysos | Haïku |
+| 27 | ![Cover](https://i.discogs.com/zijmCd6ycnEWvhxCC-Hs0FhbSRnaU_CliQUbOVCNRqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTc3/OTktMTM1OTkxNzQ2/NS00OTY1LmpwZWc.jpeg) | 2001 | Loons | supermarket (ER-1051) |
+| 5 | ![Cover](https://i.discogs.com/ELWDoYvQp8cx3-pU9I6_XStGAreiR02NU8Nvta2wjYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTA2/NzUtMTM2MzYyMzIz/NC0yMTM0LmpwZWc.jpeg) | 2001-06 | BaoBab | Reggae Social Club |
+| 14 |  | 2001-10-23 | Thomas Fersen | Triplex |
+| 13 | ![Cover](https://i.discogs.com/2cTI-ip3eb7MxxCNydpvdI1olRH44dSY1YXdM6oZDAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjIw/MC0xMTgxNjYxNTMy/LmpwZWc.jpeg) | 2002-03-05 | Dionysos | Western Sous La Neige |
+| 21 |  |  | Louis Garrel &amp; Grégoire Leprince-Ringuet | Les Chansons D&#39;amour (B.O) |
+| 24 |  | 1999-09 | Katerine | L&#39;homme à 3 mains |
+| 39 |  |  | Ludivine Sagnier &amp; Louis Garrel | Les Chansons D&#39;amour (B.O) |
+| 44 |  |  | Louis Garrel &amp; Ludivine Sagnier | Les Chansons D&#39;amour (B.O) |
+| 52 | ![Cover](https://i.discogs.com/BVcv1hCRz8DQz327UDBlic8U4nGdNRtG-sotsWmUr_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTc1/NDMzLTE1NjUyODEz/MjItNTE3Ny5qcGVn.jpeg) | 1979 | Francis Cabrel | Double Tour |
+| 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c4d8a1446572d7b85a1a881866d7d17f.png) | 1982 | Trust | Répression |
+| 92 | ![Cover](https://i.discogs.com/5vQSo55_aDAlY-fIAWMBW2LNqFMFiNBYgIMqA5T-SHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njg5/MjEtMTU0NjQwMTQy/NS04MDg1LmpwZWc.jpeg) | 1991 | Alain Bashung | Osez Josphine |
+| 94 | ![Cover](https://i.discogs.com/5vQSo55_aDAlY-fIAWMBW2LNqFMFiNBYgIMqA5T-SHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njg5/MjEtMTU0NjQwMTQy/NS04MDg1LmpwZWc.jpeg) | 1991 | Alain Bashung | Osez Josephine |
+| 95 |  | 1991 | Alain Bashung | Osez Joséphine |
+| 67 |  | 1992 | Alain Souchon | 20 Chansons |
+| 65 |  | 1993 | Patricia Kaas | Tour de charme |
+| 53 | ![Cover](https://i.discogs.com/kO-m8GuVCwn-o8tWE5SRxTkUVRxm3X-3RtK9Nh3EIYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODQx/NDQtMTM3NTQ2NDI1/NC02MzY2LmpwZWc.jpeg) | 1994 | Riccardo Cocciante | Notre Dame De Paris |
+| 75 | ![Cover](https://i.discogs.com/hHiAlMvS-nO8sV4GLHt1ahHs7h8AS_JOoZ2fRIOAxmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTkt/MTIzMDE2MDA0OC5q/cGVn.jpeg) | 1995 | Thomas Bangalter | Best Of Roulé |
+| 58 |  | 1995-04-13 | Thomas Fersen | Les Ronds de Carotte |
+| 88 |  | 1995-11-01 | Ken Ishii | Jelly Tones |
+| 61 |  | 1998-04 | Hubert-Félix Thiéfaine | Le bonheur de la tentation |
+| 82 |  | 2000-03-06 | Kyo | Kyo |
+| 87 |  | 2000-05-08 | Java | Hawaï |
+| 66 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/58d0e03240344f54cf482354bbf800ec.png) | 2001 | Luke | La Vie Presque |
+| 90 |  | 2001 | Françoiz Breut | Vingt à trente mille jours |
+| 89 | ![Cover](https://i.discogs.com/biC5uBpNuU9HXhirZ3UQXLoK6s_AKlTglJdwwcXpIOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjkw/OC0xMTYzODE1ODcy/LmpwZWc.jpeg) | 2001-08 | Julie Doiron | Desormais |
+| 59 |  | 2002 | Alain Souchon | J&#39;veux Du Live |
+| 84 |  | 2002-08-26 | Zebda | Utopie D&#39;Occase |
+| 83 |  | 2002-09-24 | Mathieu Boogaerts | 2000 |
+| 18 | ![Cover](https://i.discogs.com/-oxafB2AVUnux9xBmyHpHFIbcSk3GudyoKlh_CJY79M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTY3/OTItMTQ2Mjk4MTQ0/Ny04NTU2LmpwZWc.jpeg) | 2003 | Alizée | Mes Courants Electriques |
+| 40 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2003 | Various Artists | Génération Goldman |
+| 54 | ![Cover](https://i.discogs.com/_96dtmbj4kSnUX1wCXf3zDv0pwsBefWvCxk-EHR4sfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTMx/MDgtMTQ2MzAzNjA5/OC0yMjg1LmpwZWc.jpeg) | 2003-03-08 | Alizée | Mes courants électriques... |
+| 97 | ![Cover](https://i.discogs.com/QDUnfJ1gRIPkNamAJdYQ_Vn66n0A5kFWgCit6HFAhBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzgx/MzktMTE5ODYxOTM5/OS5qcGVn.jpeg) | 2003-04-08 | Thomas Fersen | Pièce montée des grands jours |
+| 57 |  | 2003-06-02 | Tryo | Grain De Sable |
+| 36 | ![Cover](https://i.discogs.com/oO9SWpV3QgBtAWff_ikIPyKhepHZX8EfOybp3mF13vg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTY3/MDMtMTIzMTEwNDgy/Mi5qcGVn.jpeg) | 2003-09 | Albin de la Simone | Albin De La Simone |
+| 81 | ![Cover](https://i.discogs.com/nqdda8sxptnBLMBep8yGOrKuFqCbatypXdONVEFufws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzI4/MTEtMTU5MjI1MzA2/OS04MjY3LmpwZWc.jpeg) | 2003-09-24 | Enhancer | Street Trash |
+| 42 | ![Cover](https://i.discogs.com/_BZNX2GL5iuQg6RAZkjVwgaC4e9EXF9tuGsVTOfYtDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzk4/NDEtMTQ2Mjg4NDI0/My00Mzg5LmpwZWc.jpeg) | 2004 | Alizée | En Concert |
+| 85 |  | 2004-03-01 | Miossec | 1964 |
+| 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e10df2d53c444d43a89fd209f5a5fb2e.png) | 2004-04-06 | Luke | La Tête en Arrière |
+| 48 |  | 2004-05-11 | Florent Marchet | Gargilesse |
+| 76 |  | 2004-09 | Trust | Antisocial - Le Meilleur Des Années CBS |
+| 50 |  | 2004-10 | Tryo | De Bouches à Oreilles |
+| 11 | ![Cover](https://i.discogs.com/7vhyN9_gqF0Jd-fyvLlW4nfnEhHhaDnpWaHK3-ciZNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDk2/NjYtMTM3OTE2NDI4/My03ODM4LmpwZWc.jpeg) | 2005 | RiT | sans tambour ni trompette |
+| 20 | ![Cover](https://i.discogs.com/GtjoAOBas6E5Nx79CYBRSThYNBSNDf9kpbNqu2UJuMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ0/MTgxLTE1ODg1OTY4/NjItMzgwNS5qcGVn.jpeg) | 2005 | Manuto | Vieille ecole |
+| 32 |  | 2005 | Lynda Lemay | Un paradis quelque part |
+| 56 | ![Cover](https://i.discogs.com/F5xQ25R3zhrCoYpu-ysuPY9jma62kf4xXmElEKVT91U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgz/MjE1LTE2NTQ1MzUw/NTYtMTQ1Ni5qcGVn.jpeg) | 2005 | Albin de la Simone | Non Merci |
+| 78 | ![Cover](https://i.discogs.com/hRi6VW7XujvHltiYr6yVLnF9f09ydXYImKYZ_hgEQwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjQz/NTMtMTQ3NTc2ODU1/NC03NjkyLmpwZWc.jpeg) | 2005 | Anis | La Chance... |
+| 22 |  | 2005-01-01 | Louis Bertignac | Longtemps |
+| 38 | ![Cover](https://i.discogs.com/WI1Ck19bbxzkiZ3wwfQhePhFJCaZsjiyiy3uHlIkeUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODUy/NS0xMjgxNjM0OTI5/LmpwZWc.jpeg) | 2005-08 | Dub Incorporation | Dans le Decor |
+| 28 |  | 2005-08-01 | Dub Incorporation | Dans le décor |
+| 55 | ![Cover](https://i.discogs.com/4eT2sErF00JNbSw3CiFA5eX9KTaw60qGxGiPpvD_5NY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzY3/NjQtMTQzNjAyMDcz/Mi05NDkyLmpwZWc.jpeg) | 2005-09-05 | Alain Souchon | La Vie Théodore |
+| 37 | ![Cover](https://i.discogs.com/m_OiXwqvNTYqXkK49jYGPTfvo5kYmLpW4R229OSITqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQz/My0xNjY1OTMzNzg2/LTc3MTEuanBlZw.jpeg) | 2005-10-10 | Katerine | L&#39;Homme A Trois Mains |
+| 46 | ![Cover](https://i.discogs.com/luufO9PWTt2ewo7_9bUVDEWUGxpuVBnPCShegjWSYZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDYw/MTctMTQ2MTY1OTEw/MS01MDM4LmpwZWc.jpeg) | 2005-10-24 | Raspigaous | Mauvaise Herbe |
+| 62 | ![Cover](https://i.discogs.com/I_74yuToFcjMotzLOtJm_3wYDb-CXT_F2tJx372jPx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODkz/MjUtMTQxNTY2Nzcw/My00NDk4LmpwZWc.jpeg) | 2006 | Amelie | Amelie |
+| 26 |  | 2006-03-27 | Grand Corps Malade | Midi 20 |
+| 2 |  | 2006-08-11 | Charlotte Gainsbourg | 5:55 |
+| 34 |  | 2006-09-25 | Renan Luce | Repenti |
+| 64 |  | 2006-10-02 | CALI | Le Bordel Magnifique |
+| 99 | ![Cover](https://i.discogs.com/TsR-gSnemKKVfMOxtdARBWa6PjFWSWyCx8IwJmm3SIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY1/NDYyLTE1MTg2MDI3/MDgtOTk3Mi5qcGVn.jpeg) | 2006-11-07 | Numéro# | L&#39;Idéologie Des Stars |
+| 7 | ![Cover](https://i.discogs.com/pKEVkSc4Na2_25vFNfnBI4xpBtrOSw-YFEqxKNanl0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzI3/MTgtMTI1NDM5NzYw/My5qcGVn.jpeg) | 2007 | Helena Noguerra | Fraise Vanille |
+| 93 | ![Cover](https://i.discogs.com/M_9KDxz0d8-2p_pYsggvKYJnoPwbnoGdRXtaMbxOBUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTM3/ODYtMTQ0NjA3MjQ2/NS0yNzc5LmpwZWc.jpeg) | 2007 | Renan Luce | La Lettre |
+| 47 |  | 2007-03-26 | Tony Parker | Tony Parker |
+| 60 | ![Cover](https://i.discogs.com/Xgx0v34aIbtDQXO60UUZkFytTrGS7XJ1Rz7waDUDGNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc1/NTctMTMxODkxMjE2/Ny5qcGVn.jpeg) | 2007-06-11 | Koxie | Garçon |
+| 96 |  | 2007-10-08 | Soha | D&#39;ici et d&#39;ailleurs |
+| 63 |  | 2007-10-15 | Dominique A | Sur Nos Forces Motrices |
+| 72 |  | 2007-11-05 | Étienne Daho | L&#39;invitation |
+| 71 | ![Cover](https://i.discogs.com/0I2JeuTsGmatMSMHdqeNLfMy1XopyQ_Zjz_Eww6e_ro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcw/OTctMTU3MDUzNjE4/My01NzM2LmpwZWc.jpeg) | 2008 | Édith Piaf | Greatest Hits |
+| 73 | ![Cover](https://i.discogs.com/Z0CqEnQy6bAYFt3zTXOkVqoiEuzFyUyGazdASrqfsbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTMw/MTQtMTQ5NDI3MjY0/MC01Mjk5LmpwZWc.jpeg) | 2008 | Vanessa Paradis | Divine Idylle |
+| 51 |  | 2008-02-01 | CALI | L&#39;espoir |
+| 41 |  | 2008-03-24 | Alain Bashung | Bleu Pétrole |
+| 80 |  | 2008-03-31 | Grand Corps Malade | Enfant De La Ville |
+| 10 |  | 2008-09-08 | Lisa | Drôle De Creepie |
+| 8 | ![Cover](https://i.discogs.com/KbJXa-R-_q0j1wB3kc-17vQIQWcvAyfPqB0xpPhllkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjM1/NTEtMTQ4ODYzMTYw/NC01MzcyLmpwZWc.jpeg) | 2009 | Anis | Ep Live |
+| 29 |  | 2009 | Radium | Masterpiss |
+| 45 |  | 2009 | Claire Denamur | Claire Denamur |
+| 74 | ![Cover](https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg) | 2009 | Various Artists | The Rough Guide To Paris Café Music |
+| 35 | ![Cover](https://i.discogs.com/EUZWckDRC_DHNYD7QfaI1gIq3boZBXl-r9S6JYqedmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTY0/NzMtMTQ3MzMyODIz/MC05NDQ0LmpwZWc.jpeg) | 2009-02-10 | Fresh Body Shop | The Ugly Army |
+| 79 |  | 2009-10-13 | Les Trois Accords | Dans mon corps |
+| 4 | ![Cover](https://i.discogs.com/JzyindiZOz6waOcggmlTD00F6Ih0MdFt2-Tj-5k4sPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjIx/OTAtMTQxNTgwNDE2/Ni0xMTYxLmpwZWc.jpeg) | 2010-01-15 | Contreband | Contreband |
+| 91 |  | 2010-03-21 | Phoenix | Live in Sydney |
+| 3 | ![Cover](https://i.discogs.com/2CHsaNQTC39nmKouu8QZFu6x4R6-2N8aP1mZuWDrnC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEz/MzktMTMyOTAzMzM2/Ni5qcGVn.jpeg) | 2010-09-21 | Agora Fidelio | Les illusions d&#39;une route, vol. 1 : Barcelone |
+| 68 |  | 2010-10-11 | Mylène Farmer | Oui Mais... Non |
+| 98 |  | 2010-10-18 | Yodelice | Cardioid |
+| 49 | ![Cover](https://i.discogs.com/jR7eS_HGVXzE50W9zaq23XJMB3_tOx-rKt-gXUJomu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTM3/NTQtMTMyNDMzODQ2/NC5qcGVn.jpeg) | 2010-11-01 | Baden Baden | 78 |
+| 69 | ![Cover](https://i.discogs.com/eJBcMF8bGWB1Qr1Mf62ojLOtdeJeqobQTgoWmvIhWLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDU3/ODgtMTMyNjcxNDQz/MS5qcGVn.jpeg) | 2011-11-07 | Mylène Farmer | Du Temps |
+| 43 | ![Cover](https://i.discogs.com/7Mo99sTmxCCjr9weO_OkRaOXaN4YaerQ0vxO9V6jyL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMjI3/NzUtMTQzNjUyMTM0/MS00Njg1LmpwZWc.jpeg) | 2015-07-10 | Jensen Interceptor | Auto Express - EP |
+| 23 | ![Cover](https://i.discogs.com/feos3Nbwd2deHSuaGv0IfYepEHxkiKbzRzsIt1hmGHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTYx/MTktMTYyNjgxMDIz/Ny0yOTc3LmpwZWc.jpeg) | 2016-10-14 | Les Fatals Picards | Fatals Picards Country Club |
+| 25 | ![Cover](https://i.discogs.com/uHL1t5r-kDkvEwwwB4oQMBESaOF94HA_b3ixuDNIRLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njc2/MjAxLTE1Nzk0Mjcx/OTgtNzExNS5qcGVn.jpeg) | 2019-09-20 | Moth | Unchained Symphony |
+| 86 | ![Cover](https://i.discogs.com/Fdon-Uv9D23XAmeiqYF0RcuTJDnhD-UDQ_0VAk-3Ro4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI5/MjU3LTE2MDIxNjk2/OTEtNTcxMy5qcGVn.jpeg) | 2020-10-09 | Carla Bruni | Carla Bruni |
+| 100 | ![Cover](https://i.discogs.com/-JG0NpBvC8MB8LxhIgDxm3BdAxT8kRGsgZJFlhAmLIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk2/NzU1LTE2Njg3MTY2/OTAtNjA4MS5qcGVn.jpeg) | 2022-11-18 | Angèle | Nonante-cinq la suite |
+
+### Related genres
+
+- [techno]({{ "/tags/techno" | relative_url }})
+- [hardcore techno]({{ "/tags/hardcore-techno" | relative_url }})
+- [industrial]({{ "/tags/industrial" | relative_url }})
+- [french]({{ "/tags/french" | relative_url }})
+- [france]({{ "/tags/france" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [darkcore]({{ "/tags/darkcore" | relative_url }})
+- [chanson francaise]({{ "/tags/chanson-francaise" | relative_url }})
+- [dub techno]({{ "/tags/dub-techno" | relative_url }})

@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T03:53:21.035Z
+permalink: tags/humour
+title: humour
+---
+
+## humour
+
+Last updated: <time datetime="2025-10-22T03:53:21.035Z">Wed Oct 22 2025 06:53:21 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 5 |  |  | ChaseDreams | Stink |
+| 6 |  |  | Pope John Paul the Third | the beebe brothers sing happy songs for you to enjoy |
+| 21 |  |  | Tom Lehrer | The Very Best Of |
+| 27 |  |  | ChaseDreams | Chase Manhattan |
+| 34 |  |  | Kaytanhousuja | Kaytanhousuja |
+| 61 | ![Cover](https://i.discogs.com/Y4aNb0EZ1s9RIvD-8-Nn_72BUkCDJRaARBaXkqIKe4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQx/MzI1LTE1ODIxMzEy/OTItMzcxMy5qcGVn.jpeg) | 1956 | The Goons | The Goon Show |
+| 86 | ![Cover](https://i.discogs.com/YNWvPYq2wyVaUcf_kPDo7zOfwf7EE45bDnPsKlT64NA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTQ2/Mi0xMjYwMDM1OTIy/LmpwZWc.jpeg) | 1959-11 | Tom Lehrer | More Of Tom Lehrer |
+| 16 | ![Cover](https://i.discogs.com/oqhMlgqqSj-ismfF__zUXGtgh61d7ULyGtvMG--pFLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA4/NjEtMTM0NjE1NzIw/NS04NTA4LmpwZWc.jpeg) | 1964 | Woody Allen | Woody Allen Part l |
+| 20 | ![Cover](https://i.discogs.com/dli9fJJjzONSls6cC4qnBNKtPm6bvn4TyAXpceIINTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTM1/NzQtMTMwMzQwNjY1/NC5qcGVn.jpeg) | 1964 | Allan Sherman | For Swingin&#39; Livers Only |
+| 7 | ![Cover](https://i.discogs.com/2tzMJkv3Ao5fjlRv-8SHhyZ6tqHs7mzICb7_HyJcYC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTgw/MzMtMTM0NjE3ODk3/MC0zNDc3LmpwZWc.jpeg) | 1965 | Woody Allen | Woody Allen Part ll |
+| 29 | ![Cover](https://i.discogs.com/lUUMXT4mZGNHI9UUGi61gbI0s9kbsTM7592QEbZhhNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjA1/MjYtMTQ3MDI0ODY0/NS0zOTQyLmpwZWc.jpeg) | 1969-12-12 | Morecambe &amp; Wise | EMI Comedy Classics |
+| 46 | ![Cover](https://i.discogs.com/vA3VjinOpIgPD7iO-cIRKHM_hTRS2A9hmlyhGxk6Hrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mjcy/NTItMTM4MTc3NTkw/NS04OTYyLmpwZWc.jpeg) | 1971 | Monty Python | Another Monty Python Record |
+| 31 | ![Cover](https://i.discogs.com/UDGA34BdtpgqhlJOdfio0MHnaBbLxGkXI6gl-2S7KqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDc2/Ny0xMzUyNzgzNzQx/LTI2OTIuanBlZw.jpeg) | 1972 | Cheech &amp; Chong | Rhino Hi-Five: Cheech &amp; Chong |
+| 69 | ![Cover](https://i.discogs.com/vKpAvGrxsUo7ctqspNlwCcYrQzEDGgm2ki0EoQUCu-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTI5/NzQtMTU5MDU2MTUw/MS05MTU5LmpwZWc.jpeg) | 1972 | Various Artists | Tarbox- You Rok ! |
+| 25 | ![Cover](https://i.discogs.com/hJqP1ijLbH4yKQTAandXvTH6mC5Qh_xo3UzXvsvHraw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI0/OTMtMTI1OTUxNzA5/OS5qcGVn.jpeg) | 1973 | Monty Python | Matching Tie And Handkerchief |
+| 77 |  | 1976 | Penguin Cafe Orchestra | Music From The Penguin Cafe |
+| 44 | ![Cover](https://i.discogs.com/hvda_4xj8x4KPy2kLbFcpsg24K7G8jQu_F_P3qX5qLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzYy/NDctMTI5ODgwOTI4/OC5qcGVn.jpeg) | 1979 | Sleepy Sleepers | The Mopott Show |
+| 15 | ![Cover](https://i.discogs.com/RH_js2HqIp3cdipZ3aLAVrPknMyfXvGZy_i3tmacE_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzYx/Ni0xMzY0NjYwNjQ1/LTk5MTguanBlZw.jpeg) | 1981 | Doug McKenzie | Great White North |
+| 1 | ![Cover](https://i.discogs.com/B_FgfixZ1qQMLzBhIg0dYE920L8CqEuM0n2olA4opxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTgy/NzgzLTE2NzE2NDQy/NTctNDE1Mi5qcGVn.jpeg) | 1982 | Bourvil | A Bicyclette&#x2F;Disques Pathe |
+| 19 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3c7ef07ade1196d921bf067b078d01d1.png) | 1983 | Frank Zappa | The Man From Utopia |
+| 36 | ![Cover](https://i.discogs.com/iqZ3Q6WBkroDvAGoehWZyir4nAVLQtPrA3_ObSjQHQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMy/ODItMTMyOTg5Mjc5/NS5qcGVn.jpeg) | 1983 | Steve Martin | Rhino Hi-Five: Steve Martin |
+| 39 | ![Cover](https://i.discogs.com/y1ia22G0OG285s8-H2IVAN_2mjWC7DpQoWl-47kb4SQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDMy/NS0xMzkyNjQ1OTM3/LTUwMjEuanBlZw.jpeg) | 1983 | Pierre Perret | Pierre Perret |
+| 33 | ![Cover](https://i.discogs.com/qIK3YqsJqHeGTIzptS69ZYbpIuEQynKPxPzWD18ZvbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzE1/NzktMTQyNTYyMDU4/Ny02MTc2LmpwZWc.jpeg) | 1985 | &quot;Weird Al&quot; Yankovic | UHF and Other Stuff |
+| 8 |  | 1987 | Nino Ferrer | Satanée Mirza !... |
+| 65 | ![Cover](https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg) | 1987 | Various Artists | My Son, The Nut |
+| 32 |  | 1988 | Diamanda Galás | The Divine Punishment &amp; Saint of the Pit |
+| 81 |  | 1988 | GG Allin | Freaks, Faggots, Drunks &amp; Junkies |
+| 55 |  | 1989-12-18 | Les VRP | Remords Et Tristes Pets |
+| 51 |  | 1990-07-24 | Sinbad | Brain Damaged |
+| 4 | ![Cover](https://i.discogs.com/6jCflm-TKERsVE4IOjuQjeWCIFIY-FoKtDM_uP1PBR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzAw/Ny0xMTU2NDQwMDgy/LmpwZWc.jpeg) | 1991 | Men Without Hats | The Mexican |
+| 76 | ![Cover](https://i.discogs.com/J9LJCPE_GYb1eIPIr_YiyJGxJAqWl-04nX2DZRGLRPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTkx/My0xNjEzOTQ2Njc4/LTE0NTUuanBlZw.jpeg) | 1991-04-22 | Diamanda Galás | Plague Mass |
+| 56 |  | 1992 | Les VRP | Vacances Prolongees |
+| 58 |  | 1992-04-14 | &quot;Weird Al&quot; Yankovic | Off The Deep End |
+| 92 |  | 1994 | Raffi | Bananaphone |
+| 10 |  | 1995 | Anton LaVey | Satan Takes A Holiday |
+| 88 | ![Cover](https://i.discogs.com/gQRAhnr65vQBXKg_5E9uq8bt5s6N-PA86Sc4mi3NECw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzI3/OTgtMTQ4ODk2OTMz/OC00OTM2LmpwZWc.jpeg) | 1995 | GG Allin | Hated in the Nation |
+| 48 | ![Cover](https://i.discogs.com/VWP985us7s2MzloLI72ZceBtF4WgJ6N-Bsfk90NOdfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ5/Mjk4LTE1NzA3MTkz/OTEtMTQ2NC5qcGVn.jpeg) | 1995-01 | Joint Venture | Dinger |
+| 38 |  | 1996-09-23 | Diamanda Galás | Schrei x |
+| 60 |  | 1997 | Les Wriggles | Justice Avec Des Saucisses |
+| 90 | ![Cover](https://i.discogs.com/CV1XgIOK6KFvFdnpK9qqLIJEV1pcWy4sVjlynzwuUi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDE3/NzYtMTI5NzQ5MzQ0/OC5qcGVn.jpeg) | 1997 | GG Allin | freaks, faggots, drunks and junkies |
+| 42 | ![Cover](https://i.discogs.com/hXvTWtCdYOQayz_6v_SBAAAYtC0awy3zSD2a-tR3VjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDM2/MjgtMTQ3MTE1MTU2/MC0zNTk5LmpwZWc.jpeg) | 1998 | Kate Clinton | Comedy You Can Dance To |
+| 89 |  | 1998-02 | Dark Sanctuary | Funeral Cry |
+| 52 | ![Cover](https://i.discogs.com/pyZNa2DF2E7nXLM0S_pqeSxD7-YWRchoyk_IgF4uDwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg0/MzItMTM2NzQ0MDgz/NS0xNzE2LmpwZWc.jpeg) | 1999 | Les Wriggles | Les Wriggles Partent En Live |
+| 3 |  | 2000 | Retard-O-Bot | 8-Track |
+| 24 |  | 2000 | Tom Mabe | Revenge On The Telemarketers, Round One |
+| 87 | ![Cover](https://i.discogs.com/uDmulRf-Fr8WjQAhHDcWaJOVYQdZ4zCauQshyLYuyTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzM1/MTktMTM0NzY1MTA3/OC00NzM2LmpwZWc.jpeg) | 2000-05-02 | Carlos Mencia | Take a Joke America |
+| 45 | ![Cover](https://i.discogs.com/w2RXKQS3k4mVGWv6CcO7woiYOEI7A_FmLgQmNOa-rbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDUy/MDktMTY2MDUxNDYw/MC0yNzc4LmpwZWc.jpeg) | 2000-08-04 | Doug Stanhope | Something to Take the Edge Off |
+| 43 | ![Cover](https://i.discogs.com/EM9k7XCMNjy1NWMQLzeE5EZ3UuL-ESC-49jbGwTcJM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDY5/My0xNDg0MTYwNDYw/LTI1NzkuanBlZw.jpeg) | 2000-11-21 | Swallowing Shit | Anthology |
+| 22 | ![Cover](https://i.discogs.com/ttSygjSr43Ax0CLENsBPpYJGWspMIJFGyNEA_bCt37Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIy/OTU2LTE1NzQyMzA5/OTgtNjU2MS5qcGVn.jpeg) | 2001 | Pope John Paul III | pope john paul the third |
+| 30 |  | 2001-05-11 | Petri Nygård | Petri presidentixi |
+| 84 |  | 2001-10-30 | Larry The Cable Guy | Lord, I Apologize |
+| 12 |  | 2002-01-25 | Petri Nygård | Hovinarrin Paluu |
+| 72 | ![Cover](https://i.discogs.com/-FTu-KrRPZ2A9fDU6mGVz7skRZpfXrl55brzrz9--vQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODI0/MC0xNjAxMzYwNjM2/LTgzMDQuanBlZw.jpeg) | 2002-05-14 | Voltaire | LIVE |
+| 14 | ![Cover](https://i.discogs.com/p8BoYZhLoPnK7T5vDwvJcdfH4Yo_nR9aIC_ACWNQfSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTY0/OTItMTM1MTc4Mzcw/NS04MDQ0LmpwZWc.jpeg) | 2003-04 | Les Fatals Picards | Droit de véto |
+| 64 | ![Cover](https://i.discogs.com/3hvwrysllhUgv2womwr3FXuWnuik2mwYHjWCzbnsytY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTA0/MzUtMTMzNzI3ODI2/OS0xNTYwLmpwZWc.jpeg) | 2004-11-16 | François Pérusse | Les 2 Minutes Du Peuple |
+| 73 |  | 2005 | Łąki Łan | Łąki Łan |
+| 96 | ![Cover](https://i.discogs.com/GwnKjvYA1dFyDjtol_tz8gZs1IONyxL3SwyN-fE6TSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTE4/OS0xMjU5Mzg3ODMx/LmpwZWc.jpeg) | 2005 | Jason Mraz | Geek in the Pink |
+| 11 | ![Cover](https://i.discogs.com/0c9oJE7BjZfcyxk2c46cIumL0R7hwED1lGKTNdNf0kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDgw/ODAtMTM3OTEwMzYy/OS04OTA4LmpwZWc.jpeg) | 2006 | Gordon Goodwin&#39;s Big Phat Band | Bah, Humduck! A Looney Tunes Christmas |
+| 49 | ![Cover](https://i.discogs.com/uDmulRf-Fr8WjQAhHDcWaJOVYQdZ4zCauQshyLYuyTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzM1/MTktMTM0NzY1MTA3/OC00NzM2LmpwZWc.jpeg) | 2006 | Carlos Mencia | This Is Carlos Mencia |
+| 63 |  | 2006 | Voltaire | Zombie Prostitute |
+| 99 | ![Cover](https://i.discogs.com/-cs3C_JommH6qYZLzsoRZ7GR-rW_DliAnM3zwyE674M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE5/MjEtMTE4NjIxODM2/Ni5qcGVn.jpeg) | 2006-02-27 | Orson | No Tomorrow |
+| 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/af6a14b3af6b0b37bf36e0afc1e6e2a8.png) | 2006-06-02 | The Feeling | Twelve Stops And Home |
+| 80 | ![Cover](https://i.discogs.com/JNMqB8EwsNmR9zyceUQLZS8kO73u3buG-Yy_1qnqbGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc5/ODExLTE0OTgzMDk1/MzktNDI5Mi5qcGVn.jpeg) | 2006-09-08 | The Whitest Kids U&#39; Know | The Whitest Kids U&#39; Know |
+| 57 |  | 2006-09-26 | George Lopez | El Mas Chingon |
+| 79 | ![Cover](https://i.discogs.com/5cO5bJNzBmZ4gGsHrY3PboMU6Zvwvls3p7jJyi9yT70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODA5/MDgtMTI1NjQ4OTU1/NS5qcGVn.jpeg) | 2006-10-17 | Wanda Sykes | Sick &amp; Tired (Explicit) |
+| 78 |  | 2007-02-19 | Les Fatals Picards | Pamplemousse Mécanique |
+| 83 | ![Cover](https://i.discogs.com/IdhYt4UG9ZXB3-WV6WrxMVMsA75_RjstAQboe4vT5EY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTY3/OTItMTM3MjU4MzYz/Mi0xNjQxLmpwZWc.jpeg) | 2007-02-19 | Les Fatals Picards | Pamplemousse Mecanique |
+| 17 | ![Cover](https://i.discogs.com/9xwIELTTj0kGQJnvZNKROiuj9rvCgcgLpZGTowUwS_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTY0/NjgtMTQ4Njc3NDMz/NS05NzgzLmpwZWc.jpeg) | 2007-07-10 | Sean Rouse | Spilled Milk |
+| 28 |  | 2007-10-19 | Nobuko Hori | xtoyourmilkyhair |
+| 66 |  | 2007-11-13 | Michael Showalter | Sandwiches &amp; Cats |
+| 91 | ![Cover](https://i.discogs.com/D9hRBt9dRjnufOEQnNDQlVN_T6-HJ5BaqXKcOD1Foaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDk1/NjAtMTM0MTI3NDY4/OS05NTcwLmpwZWc.jpeg) | 2007-11-13 | Ralphie May | Prime Cut |
+| 35 | ![Cover](https://i.discogs.com/as84KaxMegcqhCeBfFFpdGYBfzq3BhYFa4HgF15gLjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAz/MzUwLTE1MjgzNjg4/NDYtNjc2Ni5qcGVn.jpeg) | 2008 | Ralphie May | Austin-Tacious |
+| 37 | ![Cover](https://i.discogs.com/tPEcypj7mHvV9Musu8YAUyXJaf64Mk4tG58H9U2nlms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQw/NjctMTYyNzc0NDgz/OS04OTM0LmpwZWc.jpeg) | 2008 | Didier Super | Vacances à vos frais |
+| 18 |  | 2008-03-17 | Les Fatals Picards | Public |
+| 47 | ![Cover](https://i.discogs.com/XRDpU3fc8Z6z1STMEugLSn-PGSMzwmzKxoqmhyyCCSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDk4/ODI4LTE1NzU3ODM3/NzItMTcyNi5qcGVn.jpeg) | 2008-11-04 | Jeff Dunham | Don&#39;t Come Home for Christmas |
+| 26 | ![Cover](https://i.discogs.com/O9ccdQ6Xm2JiswEOo-8b4juOJ9BATNxQ9h82yNDLIEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzEx/MjYtMTMyMTUwNzI3/MS5qcGVn.jpeg) | 2009 | Bert Kreischer | Comfortably Dumb |
+| 62 | ![Cover](https://i.discogs.com/b6pOBIi7HAVZbvNLJrx3zMWCWgdpImKHSAMXGCm97QU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzM5/NDgtMTI3NzY1ODI2/MC5qcGVn.jpeg) | 2009 | Katt Williams | Live (Explicit) |
+| 71 | ![Cover](https://i.discogs.com/deXVrQ4wRHPQI92vo2eeMYbLHLcN-Um_PayDPn1RQus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDY4/NDgtMTI1MTkxMzg5/Ny5qcGVn.jpeg) | 2009 | Robert Schimmel | Life Since Then |
+| 74 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2009 | Various Artists | Monty Python&#39;s Spamalot |
+| 50 | ![Cover](https://i.discogs.com/5uNGldK6ZUv2N8iF2FEBFJ3N354lBeIGxWXbyALYczs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDA5/MTYtMTMyMTkyNzI0/NC5qcGVn.jpeg) | 2009-02-03 | Kevin Hart | I&#39;m a Grown Little Man |
+| 54 | ![Cover](https://i.discogs.com/QKoiwy7e772_70JyJOiFvRlwbqh1zuFkUTV_shkqg6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTEw/MzgtMTY4MzI5NzA5/Ni01OTUxLmpwZWc.jpeg) | 2009-03-02 | Les Fatals Picards | Le sens de la gravité |
+| 13 | ![Cover](https://i.discogs.com/AHTopeVUbqsb26qjqNuzJI__zbtPv9AxrG_okVk2K9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIw/MjgtMTIzODU0Njk5/NS5qcGVn.jpeg) | 2009-03-24 | Craig Ferguson | A Wee Bit O&#39;Revolution |
+| 2 | ![Cover](https://i.discogs.com/hpi6S09tDI9WYFm35KsQ6htDH3aoZebP2Y0_TiJwa78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODA2/MzEtMTQ0NDQ4NTg5/OC02NDU3LmpwZWc.jpeg) | 2010 | Limboski | Cafe Brumba |
+| 82 |  | 2010-11-11 | Erutan | Raindancer |
+| 97 |  | 2010-12-28 | Chelsea Wolfe | The Grime and the Glow |
+| 40 |  | 2011-03-11 | Les Fatals Picards | Coming Out |
+| 9 | ![Cover](https://i.discogs.com/Hf6tzp7nKwygXp4AdXCKuEjGywTTyBVI1K3YMXygkEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDA1/NDItMTQ4NjUxMjc1/NC04MDgxLmpwZWc.jpeg) | 2012-04-11 | Pen of Chaos | Donjon de Naheulbeuk - Machins de Taverne |
+| 68 | ![Cover](https://i.discogs.com/Hf6tzp7nKwygXp4AdXCKuEjGywTTyBVI1K3YMXygkEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDA1/NDItMTQ4NjUxMjc1/NC04MDgxLmpwZWc.jpeg) | 2012-04-11 | Pen of Chaos | Le Donjon de Naheulbeuk Saison 1 |
+| 70 | ![Cover](https://i.discogs.com/w73rml1rTzqZLKwAZQQXsmcLRyNeFTjlGlwatNe-GP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzU4/MjQtMTY1MDc0NjIy/NC03MTc5LmpwZWc.jpeg) | 2013 | The Men | Devil Music |
+| 67 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0d069456a702443792141eb67b0fe39a.png) | 2013-01-14 | Chelsea Wolfe | Prayer for the Unborn |
+| 93 | ![Cover](https://i.discogs.com/CFuMNCFPrkYWM-QRrsXHjXRSYPFnStOyT8zNIBl7bto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM3/NjI5LTE1NjY1ODA5/NTctNTQ5NC5qcGVn.jpeg) | 2013-09-03 | Chelsea Wolfe | Carrion Flowers - Single |
+| 53 | ![Cover](https://i.discogs.com/o4D5BNVBHCj90wRgrrXPb44o5V4CLjmt-eA-EOUC5qQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDc5/MDItMTQ3ODE5MTg5/NC0zNTgwLmpwZWc.jpeg) | 2013-09-04 | King Dude | Born in Blood &#x2F; Spiders in Her Hair |
+| 23 | ![Cover](https://i.discogs.com/1OJm46m5uNbNoQjiaiyIlezr25JC-kAxIuJxUV4l6rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTEy/MTEwLTE1MDY0MDA3/MDUtNjQ3OS5wbmc.jpeg) | 2014 | Duncan Parsons | DSP |
+| 85 | ![Cover](https://i.discogs.com/Ww548zgkjCcFTnAXMkvMoHjqypIeafu5cB59N5UTs9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTA5/MzgtMTI3Mjc0MDk1/OS5qcGVn.jpeg) | 2014 | Monty Python | Another Monty Python CD |
+| 95 |  | 2014-12-01 | Marissa Nadler | Before July: Demos &amp; Unreleased Songs |
+| 100 | ![Cover](https://i.discogs.com/NW00yzAIb9j-XDyGLDn6XBgyrnpDspaijcS7gp7Eqi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTk1/MjItMTMxNjY5NTY3/MC5qcGVn.jpeg) | 2015-08-07 | Chelsea Wolfe | Apokalypsis |
+| 75 | ![Cover](https://i.discogs.com/O5hvOmcmB1hYNWTXxo2cPvET-s7kZlEy7ZToTMgvJ_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcx/ODk5LTE1OTYxMzI1/MTAtODY4OC5qcGVn.jpeg) | 2017 | George Lopez | E.M.C. |
+| 59 | ![Cover](https://i.discogs.com/_hv1VqCGhg4NLmXVkIcc2oXaFAzauIuQ9iwDBXWm7nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDg3/OTU0LTE2MjMzMjQy/NDctNTg0Ny5qcGVn.jpeg) | 2020 | Karliene | The Ballad of Anne Boleyn |
+| 41 | ![Cover](https://i.discogs.com/icyRVLpgyorfjg-r86YsQ3vSbl1_zUKXjDZm3-kG0Rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE0/MTY1LTE1ODY4Njcx/OTYtODI0Mi5qcGVn.jpeg) | 2020-04-10 | Helmut Fritz | ça m&#39;énerve - pack spécial Virginmega |
+| 98 | ![Cover](https://i.discogs.com/fmork5iqrE8J5qOvfvojru6-lozl6PArgoU2gHAOPic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc3/ODUxLTE2Mzc1NzYz/MDMtNDc0Ny5qcGVn.jpeg) | 2021-10-15 | Eurielle | The Bridge Of Khazad-Dum (from &quot;The Lord Of The Rings&quot;) |
+
+### Related genres
+
+- [comedy]({{ "/tags/comedy" | relative_url }})
+- [spoken word]({{ "/tags/spoken-word" | relative_url }})
+- [stand-up]({{ "/tags/stand-up" | relative_url }})
+- [stand-up comedy]({{ "/tags/stand-up-comedy" | relative_url }})
+- [comedian]({{ "/tags/comedian" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [french]({{ "/tags/french" | relative_url }})
+- [parody]({{ "/tags/parody" | relative_url }})
+- [emo]({{ "/tags/emo" | relative_url }})

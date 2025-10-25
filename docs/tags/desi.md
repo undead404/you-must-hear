@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T08:05:25.311Z
+permalink: tags/desi
+title: desi
+---
+
+## desi
+
+Last updated: <time datetime="2025-10-22T08:05:25.311Z">Wed Oct 22 2025 11:05:25 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 7 | ![Cover](https://i.discogs.com/QCvAuiwxxsQ3H8dMLlXAHt3bXUGpIASfBFaOW6NcCJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDY3/MTM0LTE2ODM5OTY5/ODEtMjIzOC5qcGVn.jpeg) | 1988-01-01 | Malkit Singh | Best Of Golden Star |
+| 21 |  |  | OST-Hindi | Pyaar To Hona Hi Tha |
+| 51 |  |  | The Bilz | The Bilz |
+| 53 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1977 | Various Artists | Pakeezah |
+| 54 | ![Cover](https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg) | 1977 | Various Artists | Payback |
+| 79 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1977 | Various Artists | Desi Nation |
+| 85 | ![Cover](https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg) | 1977 | Various Artists | Sholay |
+| 87 |  | 1977 | Various Artists | Asian Groove |
+| 14 | ![Cover](https://i.discogs.com/6jmd4AiVg7QqKVEsy-tSxo9zHxZraYwsPmzjcKWNg48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzM1/NTMyLTE2NDIxNzk5/MjEtNjI4MS5qcGVn.jpeg) | 1989 | Malkit Singh | 21st Chapter |
+| 81 | ![Cover](https://i.discogs.com/3qwXo-bi7S6Et6f9TBTuP7swZy1uL0oyBf5-lqWLcTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjMx/MTctMTI3MTc4NjM2/MC5qcGVn.jpeg) | 1991 | Bally Sagoo | Star Crazy |
+| 36 | ![Cover](https://i.discogs.com/qPNCrv-ujyo28XcOcSa-jUYKmqGmPABIoMiF-_0M5jU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTcy/ODQtMTU3MzQxNjQ2/OS02NzMzLmpwZWc.jpeg) | 1992 | Bally Sagoo | Essential Ragga |
+| 43 | ![Cover](https://i.discogs.com/L2Mk97MDSV3qJmKjZGsT3VxwROMjRC3vh9dHfcVWiH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTE1/MDE1LTE2MDAxMTIy/MjYtODc3MS5qcGVn.jpeg) | 1992-05 | Gurdas Maan | Sajna Ve Sajna |
+| 57 |  | 1992-08 | Jagjit Singh | In Search |
+| 29 | ![Cover](https://i.discogs.com/aVIIrG48AWrd1cDSKIhy_GZlwHKqYjGAT1c2tOvyZoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzMy/ODc3LTE1MjE0NTQx/MjEtNDUxMC5qcGVn.jpeg) | 1993-05 | Mukesh | Golden Collection |
+| 12 | ![Cover](https://i.discogs.com/nZddShvj4mkdubAdGOJ1sAX24SJg7ObNSR-c9YIw2m0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzgw/ODk1LTE2MjU0Mzc1/NTQtNjE3NC5qcGVn.jpeg) | 1995 | Surjit Bindrakhia | Dupatta Tera Sat Rang Da |
+| 15 | ![Cover](https://i.discogs.com/0-pN2oFXdqFTxE9Ywxyi2lPkPMTMYSFmiFHqf9jyJIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODYx/OTQwLTE1OTk4NDc5/OTYtMjQyNi5qcGVn.jpeg) | 1995 | Surjit Bindrakhia | Strictly Bindrakhia |
+| 60 | ![Cover](https://i.discogs.com/i0a5xG7b49qKAyp2op6pFrNqjpeOu6ijvdWdhTUHYl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTk2/NS0xMjUwMDIzMzQy/LmpwZWc.jpeg) | 1996 | Panjabi MC | Beware of the Boys |
+| 25 | ![Cover](https://i.discogs.com/M6iDwnqIlunvajNWJT0oogDz4l93RnkAD2PI-IYKDto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODAw/Nzc4LTE1NjE0NTE3/MzQtMTIyMS5qcGVn.jpeg) | 1998 | Hemant Kumar | Golden Collection |
+| 52 |  | 1998 | Bally Sagoo | Star Crazy 2 |
+| 65 | ![Cover](https://i.discogs.com/HHkmeUbKive717a8athOA35ouNOdAI_J7jlYYOj1CWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzA3/LTEyMjEzMTQ1NTUu/anBlZw.jpeg) | 1998 | State Of Bengal | Rama Communication |
+| 67 | ![Cover](https://i.discogs.com/ATbx8e18U_SecPX_9usJFfD2U5uTrx8Ov-eCvbcXFHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIz/MjE1LTE1MDExMTkw/MzMtMzI2MC5wbmc.jpeg) | 1998 | Kronos Quartet | You&#39;ve Stolen My Heart, Songs from R.D. Burman&#39;s Bollywood |
+| 84 |  | 1998 | Bally Sagoo | Aaja Nachle |
+| 80 | ![Cover](https://i.discogs.com/e_9FWtso2xP1MAsi_gOcprPQSR3DlQ7fWLQtJ94oi_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjM0/NDctMTYyMjQwMDEw/OS02NzcxLnBuZw.jpeg) | 1998-01-01 | B21 | By Public Demand |
+| 19 | ![Cover](https://i.discogs.com/XrHeciKavS50YBzQHdgJHnJs-Ox7mGnE3MiXonikwa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM4/MTczLTE1OTE1MzE0/NjgtOTg2OS5qcGVn.jpeg) | 1999 | Sahotas | Teri Meri Gal Ban Gayee |
+| 30 | ![Cover](https://i.discogs.com/AOwJaeMBVGGIh4ISd6ZLrmuutos_cUb27AcxGSQ6G1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTQ5/NTIwLTE2NDQ5NTA1/MTktNjIzOS5qcGVn.jpeg) | 1999 | Bombay Vikings | Kya Surat Hai |
+| 31 | ![Cover](https://i.discogs.com/JjBPI_aCTa7qwPlMSSzf1Vn2RYL7Ib-17IA5kf4CCzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQy/MjE3LTE1OTE1ODg5/NzMtMTU4Mi5qcGVn.jpeg) | 1999 | Surjit Bindrakhia | Mukhda Dekh Ke |
+| 63 | ![Cover](https://i.discogs.com/qG-eSq8JpZ-1pZ87FE3q2RI2_brln4cSeWJw3LhZMnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjg5/MDMtMTYzNzE1MjU0/OC0zMzUzLmpwZWc.jpeg) | 1999-01-01 | Bally Jagpal | Dark &amp; Dangerous |
+| 37 | ![Cover](https://i.discogs.com/7h8nrZYKCYVsmdNq5WTqc4XddKuYHcUggQyTFhkZqTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjMx/NTE0LTE1ODg0MjQ2/MDctNzEwOC5qcGVn.jpeg) | 2000 | Bally Sagoo | Bollywood Flashback 2 |
+| 71 | ![Cover](https://i.discogs.com/9VkyT8j3goNVuBCC8r5EAejVAl9kv3hb7XsbO3LoyyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM4/MTQtMTQwNTMzMjcw/NC02MTE2LmpwZWc.jpeg) | 2000 | Panjabi MC | Switchin&#39; |
+| 90 |  | 2000-01-01 | B21 | Made In England |
+| 86 |  | 2000-12-05 | Tigerstyle | The Rising |
+| 8 | ![Cover](https://i.discogs.com/G12lxVWnuZPV1__zfeZJg1xGdLlqxbtKSgQjqQz-ihs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzc3/ODY0LTE1MzQwNDE4/NzctMTE0My5qcGVn.jpeg) | 2001 | Sukhbir | Dil Kare |
+| 32 |  | 2001 | A.S. Kang | Aish Karo |
+| 83 | ![Cover](https://i.discogs.com/UcJiOSrKc3Q8aWw4u3zWHC8RC6OKSUU3f2HBfsEfywM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwODgz/MjEtMTQ3Njk3OTU5/OC0xMDQ0LnBuZw.jpeg) | 2001 | RDB | Rythm Dhols &amp; Base |
+| 93 | ![Cover](https://i.discogs.com/0PRImouHzO7VqtnBluDddKJJk4Ibn2z3o-MbsJLzcm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI3/NTY5LTE1Nzg0ODU0/MTktNDA1Ny5qcGVn.jpeg) | 2001 | Panjabi MC | Dhol Jageero |
+| 95 |  | 2001 | Panjabi MC | Dhol Jageero Da |
+| 76 |  | 2001-01-01 | Bally Jagpal | Untruly Yours |
+| 66 |  | 2001-09 | Jazzy B | Oh Kedi |
+| 2 |  | 2002 | Kamal Heer | Masti |
+| 69 | ![Cover](https://i.discogs.com/J6qcPxKyWAyazv9aGZitT6dHocH3-Ggn52AWAyLpgRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM1/Ni0wMDEuanBn.jpeg) | 2002 | Panjabi Hit Squad | The Streets |
+| 42 |  | 2002-01-01 | Panjabi MC | Desi |
+| 44 |  | 2002-01-01 | B21 | Long Overdue |
+| 56 | ![Cover](https://i.discogs.com/DLYC9Gn32QLpsg2uTpQ0FDTAGrfgX8oaDlqUowVmDlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTI3/NTctMTUyODY1NjYw/NC02MTA5LmpwZWc.jpeg) | 2002-01-01 | Bally Jagpal | Dark &amp; Direct |
+| 11 | ![Cover](https://i.discogs.com/4fmHRtpT-S63AfcEedrRS0ZnwESjFWnNdrcOjDsYywA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODkx/MDM3LTE1OTk2NzM5/ODQtNjE0MC5qcGVn.jpeg) | 2002-10 | Hans Raj Hans | The Best of Hans Raj Hans |
+| 96 |  | 2002-11-25 | Panjabi MC | Mundian to Bach Ke |
+| 22 |  | 2003 | Kamal Heer | Masti 2 |
+| 34 | ![Cover](https://i.discogs.com/k5sYFa42Jb8gLoOWkMejr2yu9LsR7XP6PScLBtGMQsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIz/NDctMTIwNTQyMTc5/NC5qcGVn.jpeg) | 2003 | Bombay Rockers | Sexy Mama |
+| 55 |  | 2003 | Bally Sagoo | Hanji |
+| 97 | ![Cover](https://i.discogs.com/vg1kpSFZZ7ECRBUf_g-aN3GbEnmYyFtXgid-GAr_-T4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjY0/NDc2LTE1ODg0MTE3/NjYtMzUzMi5qcGVn.jpeg) | 2003 | Dr. Zeus | Unda Da Influence |
+| 26 | ![Cover](https://i.discogs.com/lY9w6-Cln7u3qF70TuNuR0bD0TpK3IvDEhXHbiyqyog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/MzI0LTE1NTY5MDQx/MzgtNzQ4MC5qcGVn.jpeg) | 2003-02 | Babbu Maan | Hawayein |
+| 100 | ![Cover](https://i.discogs.com/d0RKQGb1dRAttDcYR3fe6hU_NYRAd9s7pOTxlVqPgdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDk3/MC0xMTcxMjY2ODQw/LmpwZWc.jpeg) | 2003-05-05 | Panjabi MC | The Album |
+| 91 |  | 2003-05-26 | Panjabi MC | Jogi |
+| 28 | ![Cover](https://i.discogs.com/UNuhSta6gDk_PjlLNbhyZTx7cr8RtxYaTe9zadKUUZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzI1/MzQyLTE2MzkzMzIy/OTctNDc2MC5qcGVn.jpeg) | 2003-06 | Hunterz | Most Wanted |
+| 82 |  | 2003-07-08 | Panjabi MC | Beware |
+| 17 | ![Cover](https://i.discogs.com/S-uVZQetE0N8QVFJL3-fvskLYTGnKMZ3nnTeZtgaiOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjgz/NTM2LTE2NDE4MzY5/MTItODUxNS5qcGVn.jpeg) | 2004 | Manmohan Waris | Nachiye Majajne |
+| 20 | ![Cover](https://i.discogs.com/K_Y3x1cEbO_3vphxjr4aAwIHv8OBF1B12zXROkdd2U4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTgw/MDktMTM5NTQ0MTA2/Mi05NjU2LmpwZWc.jpeg) | 2004 | Swami | DesiRock |
+| 45 | ![Cover](https://i.discogs.com/RDRDz2l64vuYQFG_Dmm0xzobsW8r__RqaN2AKy0fCKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODA3/MzU4LTE1NDIzMzY1/MDktMzMzNS5qcGVn.jpeg) | 2004 | Rishi Rich | Assorted |
+| 59 | ![Cover](https://i.discogs.com/Y3MNWYoqepQogSqGdbfqjrIBwDZUD1mpxFHr9A9StuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg0/MTk3LTE1NTY5NjU3/ODYtNTE1MC5qcGVn.jpeg) | 2004 | Rahul Sharma | Ladakh In Search of Buddha |
+| 72 | ![Cover](https://i.discogs.com/UQoVvot-fWULmf8vhnhInevs_msIFPLh35SoKskn2gE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTg3/NTItMTI0MTQ3MDcz/MC5qcGVn.jpeg) | 2004 | Bombay Rockers | Introducing... |
+| 73 | ![Cover](https://i.discogs.com/UQoVvot-fWULmf8vhnhInevs_msIFPLh35SoKskn2gE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTg3/NTItMTI0MTQ3MDcz/MC5qcGVn.jpeg) | 2004 | Bombay Rockers | Introducing |
+| 75 | ![Cover](https://i.discogs.com/TfjImhGsPqlUoZj14sx-b_YdTSZYTSTMEoFHBt-9PUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY1/OTg3LTE1MDkyMTU0/MjAtNjg2Ni5qcGVn.jpeg) | 2004 | Adnan Sami | Remix Album |
+| 94 | ![Cover](https://i.discogs.com/So7jBozyTEFD46D8e1mZ9o7ZMYdOjRJkKeT1mMi6zYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjUw/NTYwLTE1MDE4NTU5/OTItNjg5OC5qcGVn.jpeg) | 2004 | Juggy D | Juggy D |
+| 99 |  | 2004-09-06 | Raghav | Storyteller |
+| 48 | ![Cover](https://i.discogs.com/Bg_BqEk0CvkAoXvs5bKQ_eacEFk45Ens6WmDz35JTrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjcz/OTctMTY3MjY3MDc2/Ni0zODY1LmpwZWc.jpeg) | 2004-11-01 | Malkit Singh | King of Bhangra! |
+| 10 | ![Cover](https://i.discogs.com/5cUA5LhNgORnPlCzCDUr7Q6550YEB2kxpuOT_hdfDcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTAy/NDE2LTE2NzE0MTk2/NDMtNjAzNS5qcGVn.jpeg) | 2005 | Gurdas Maan | Vilayatan |
+| 40 | ![Cover](https://i.discogs.com/S_Wulf1KjXTArtdDGAwd_dqf9v8kvz6sUWDYnj4RQns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTEx/Mi0xMTQ0NDI2MDgw/LmpwZWc.jpeg) | 2005 | Sumeet | Deeper |
+| 50 |  | 2005 | Sukshinder Shinda | Balle |
+| 78 |  | 2005 | Panjabi MC | Steel Bangle |
+| 88 |  | 2005 | Amrinder Gill | Dildarian |
+| 98 |  | 2005 | Jazzy B | Romeo |
+| 23 | ![Cover](https://i.discogs.com/fOdfYdgyiluYSJ_koj7lP7IVzNIZgoVUVFxAo7pvKPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg2/NzY3LTE1NTMyNDYz/NzEtNjc2MS5qcGVn.jpeg) | 2005-12 | Stereo Nation | Nasha (Intoxicated) |
+| 13 |  | 2006 | Sukshinder Shinda | Collaborations |
+| 77 | ![Cover](https://i.discogs.com/SJhRsOD9AjKNOrN-Guwi_rb2k6BsU-Vo48nwYo0SZHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTkx/MjEtMTI3MTQ2OTUy/NC5qcGVn.jpeg) | 2006 | A.R. Rahman | Lagaan |
+| 58 |  | 2006-08-07 | Rishi Rich | The Project |
+| 39 | ![Cover](https://i.discogs.com/MFPYsdNXkczuWLtjcDRCPSVRUwNp5X_kcoOfAk3Z8rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQy/NTQtMTI3MDc1NDI4/MS5qcGVn.jpeg) | 2006-08-08 | Shamur | Let The Music Play |
+| 6 | ![Cover](https://i.discogs.com/MzdyQDXW9S3ILUishcSOdOw_n4A7sKJ0e8qe7jqreko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjE2/MjAtMTQ2NTMyMDI1/NS0zODIxLmpwZWc.jpeg) | 2007 | Shaktee | Powered Up! |
+| 61 | ![Cover](https://i.discogs.com/tKx9l5u0ZIGLVP4XAOytYMOKWfdBroohVMGUSziavPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjE4/MjktMTY3NjY0Nzgx/OC05ODk3LmpwZWc.jpeg) | 2007 | Bhangra Brothers | Soni Mutear |
+| 5 |  | 2007-03-20 | Dark Mc | Incisive |
+| 64 | ![Cover](https://i.discogs.com/d9WfmazV7hA2woKmb9Kq5iH2vWvdNvfehTj8rgFYC4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTIy/NjIzLTE1Mjg3NDg3/NjctMzEzMC5qcGVn.jpeg) | 2007-04-24 | Jazzy B | Kaun Nachdi |
+| 4 | ![Cover](https://i.discogs.com/wwS7YPoTaTXVsaCvxIidFvsOjNVxHChSrCUXXHBgG04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDEy/MzcwLTE1MzQ3NzI3/OTUtNDAwMC5qcGVn.jpeg) | 2007-09 | Lehmber Hussainpuri | Phuchal |
+| 18 | ![Cover](https://i.discogs.com/KYoq01lLSWfNa2JLjgah3LL8ngxO8iwuoi86Bv7OvV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDAz/NzEyLTE2MzI4NjE3/OTUtODkwMS5qcGVn.jpeg) | 2007-11-18 | Dr. Zeus | Back Unda Da Influence |
+| 1 | ![Cover](https://i.discogs.com/4EGCIpfkviD37XNgHn9ABQSNecllQdZJHNreMl_NQ-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU2/NTA5LTE1Mzk0NTYz/MjMtNDYzNS5qcGVn.jpeg) | 2008 | Rabbi Shergill | Rabbi - Avengi Ja Nahi |
+| 9 | ![Cover](https://i.discogs.com/neBI5tOhAcA81cEh1Z4SM8YkASRW8frxsSSkUEkzw2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTYz/MzEzLTE2MjI0OTEx/NDYtNzcxNi5qcGVn.jpeg) | 2008-01-18 | Aman Hayer | Ground Shaker II |
+| 49 |  | 2008-07-04 | Jazzy B | Rambo |
+| 16 | ![Cover](https://i.discogs.com/lytmLvINZA6luA1CJZ75r-hk3k5NZ7hr1rXg6ltPyzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDU1/NDA2LTE2NDY5MDUy/MDAtMjI4My5qcGVn.jpeg) | 2009 | Amrinder Gill | Dooriyan |
+| 41 |  | 2009 | Stereo Nation | Slave II Fusion |
+| 62 | ![Cover](https://i.discogs.com/vYiWrPTYKexdF2eqLOqA0XScITbyfDsv1kyj5LWWm8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODEy/OTEyLTE2MDk5NzM2/MDItNTQxOS5qcGVn.jpeg) | 2009 | Aman Hayer | Ground Shaker |
+| 70 |  | 2009 | Various Artists | Coke Studio: Season 9 |
+| 89 | ![Cover](https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg) | 2009 | Various Artists | The Greatest Hits |
+| 92 |  | 2009-01-22 | Sajid-Wajid | Veer |
+| 68 |  | 2009-03-16 | Sukshinder Shinda | Collaborations 2 |
+| 3 |  | 2009-04-06 | Jassi Sidhu | Jassi What Happened? |
+| 24 | ![Cover](https://i.discogs.com/Nz9apoofsDok9zDtqiRuGpL0FVEQevoLvIoBlPJ_83k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjc0/NzIxLTE0OTQ4NTk5/NzYtNTAzOC5qcGVn.jpeg) | 2009-08-01 | Miss Pooja | Romantic Jatt |
+| 74 | ![Cover](https://i.discogs.com/n_qEjxrQkvfS76BX6f5gPLwGZwNdLY4yL_IK07eAxw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU0/NTg5LTE1OTE4MDA4/ODktNzY5OS5qcGVn.jpeg) | 2010 | Babbu Maan | Pyass |
+| 38 |  | 2010-07-16 | DJ Sanj | American Desi |
+| 35 | ![Cover](https://i.discogs.com/2l81_7ufwAzEBUqTkpPIv-nNgHUWXiozAOPRV0Bu_5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjYz/MDktMTYxMTAzODU2/My05Nzk4LmpwZWc.jpeg) | 2011 | A.R. Rahman | Vande Mataram |
+| 46 | ![Cover](https://i.discogs.com/iALg6SfHbBkWOi0kg7qjsJ2ImhEtvuz4IyNX3D911DI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzc5/NDU5LTE2NjU0MTA1/MjUtMTU2NS5wbmc.jpeg) | 2015-04 | A.R. Rahman | Bombay Dreams |
+| 33 | ![Cover](https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg) | 2017-03-03 | Various Artists | A Mighty Heart (Music From The Motion Picture) |
+| 47 | ![Cover](https://i.discogs.com/_LaiTJRIhpdHnk9DoCI-ClafNCrclRrli_7UQJmmPC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQz/NjA4LTE1NzMwNTY3/NTItMzc5Ny5qcGVn.jpeg) | 2019-09-13 | Malkit Singh | King Of Bhangra |
+| 27 | ![Cover](https://i.discogs.com/iBB1z9vZQwm4o_qmNy54zCIUl0gCRmFf4RsCrjtR5p0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk2/Mjc3LTE2NTU0MDQ2/NDYtNjk0OC5qcGVn.jpeg) | 2022-06-16 | Sachet Tandon | Ghamand Kar (From &quot;Tanhaji - The Unsung Warrior&quot;) |
+
+### Related genres
+
+- [punjabi]({{ "/tags/punjabi" | relative_url }})
+- [bhangra]({{ "/tags/bhangra" | relative_url }})
+- [punjabi bhangra]({{ "/tags/punjabi-bhangra" | relative_url }})
+- [punjabi folk]({{ "/tags/punjabi-folk" | relative_url }})
+- [indian]({{ "/tags/indian" | relative_url }})
+- [world]({{ "/tags/world" | relative_url }})
+- [uk bhangra]({{ "/tags/uk-bhangra" | relative_url }})
+- [india]({{ "/tags/india" | relative_url }})
+- [asia]({{ "/tags/asia" | relative_url }})
+- [ghazal]({{ "/tags/ghazal" | relative_url }})

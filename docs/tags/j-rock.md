@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-24T17:09:51.598Z
+permalink: tags/j-rock
+title: j-rock
+---
+
+## j-rock
+
+Last updated: <time datetime="2025-10-24T17:09:51.598Z">Fri Oct 24 2025 20:09:51 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 30 |  | 1993-05-21 | BUCK-TICK | ドレス |
+| 38 | ![Cover](https://i.discogs.com/dFCE1qB3sO7bgUiZP8Mq7CJoagPeCBqnij0uBA_f6AU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTM2/NTIxLTE2MTk4Mjk4/MDUtOTUwNC5qcGVn.jpeg) | 1996-12-12 | L&#39;Arc~en~Ciel | True |
+| 4 | ![Cover](https://i.discogs.com/yiloSX1d3Xy5t9TY-HiWQr3_o38T1j8OAzdMdI1Au-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjEy/MS0xNTAzMjQyODAy/LTYyMDIuanBlZw.jpeg) | 2001-09-19 | Do As Infinity | DEEP FOREST |
+| 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ecec333f74573182fa28e1c3c52f936e.png) | 2005-04-20 | ELLEGARDEN | RIOT ON THE GRILL |
+| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9fad59db04294af6ca16f4e13fc49f4e.png) | 2006-12-06 | RADWIMPS | RADWIMPS 4 ~おかずのごはん~ |
+| 1 | ![Cover](https://i.discogs.com/TLalW-aO2U3cYSDjSOsoLsyn2sUqYJ7CxEm1b9LbF68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDI5/MDEtMTQ2ODgyNzcy/NS0xNjkyLmpwZWc.jpeg) | 2010-08-04 | Ho - kago Tea Time | Ho-Kago Tea Time II (From &quot;K-On!!&quot;) |
+| 3 |  | 2010-12-01 | ACIDMAN | Alma |
+| 5 |  | 2011-01-26 | DIR EN GREY | Lotus |
+| 6 |  |  | 稲葉曇 | ウェザーステーション |
+| 52 |  |  | inabakumori | ウェザーステーション |
+| 12 | ![Cover](https://i.discogs.com/DofItutrggcaj-jgeXwUawyypkTWbqh5tOvyLqvz5uA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTk5/NS0xMzAzNzQ1MDUx/LmpwZWc.jpeg) | 1994 | Lisa | Launcher |
+| 76 | ![Cover](https://i.discogs.com/ThhMuc3_8ivxcIXIX6ZkcgDGZ8joQTBi4zOMepPj1hI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODQz/NC0xNTI3NDkxMTcx/LTkyMTYuanBlZw.jpeg) | 1996-04-22 | Luna Sea | STYLE |
+| 72 | ![Cover](https://i.discogs.com/1g_cJjCUkD0xs_pq47k_cpWNH7dCkxurS9J4rUTnm5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDQ3/NjgtMTUxMzI5NTcz/My02NDA0LmpwZWc.jpeg) | 1996-11-04 | X Japan | DAHLIA |
+| 13 | ![Cover](https://i.discogs.com/XTkCgSxsmOEEl4Pl16JKms6quIHR7OeFD84Z57yl8rI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTAw/OTAtMTQwOTE3MTQ4/Ni0xMDAwLmpwZWc.jpeg) | 1996-12-12 | L&#39;Arc~en~Ciel | REAL |
+| 83 |  | 1999-07-28 | DIR EN GREY | Gauze |
+| 29 |  | 2001-04-25 | GACKT | Rebirth |
+| 94 | ![Cover](https://i.discogs.com/nKCMH_-N1CoPSOGZqOql7H2dOGvaRrsPHx-OPchYAWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE0/ODUwLTE1NDY0OTM2/NzYtOTUyMC5qcGVn.jpeg) | 2002 | Coda | Fighting Gold |
+| 15 |  | 2002-04-03 | ELLEGARDEN | Don&#39;t Trust Anyone But Us |
+| 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5eb3101c1db04799a3efa0e22fddcdf5.png) | 2003-04-23 | DIR EN GREY | Kisou |
+| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8aa3a82735ca4142b92efa5ea39a0a05.png) | 2003-11-19 | ASIAN KUNG-FU GENERATION | 君繋ファイブエム |
+| 40 |  | 2003-12-03 | GACKT | Crescent |
+| 49 | ![Cover](https://i.discogs.com/bGEckV6EVyJ-xHZC1Hflakp6-u8zCSn0J-QzEOfc_bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE4/NTc5LTE1MjgxOTI5/NzAtMjg3Ni5qcGVn.jpeg) | 2003-12-03 | Hyde | 666 |
+| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4b44a2f52aa64f868912c793f2a2779d.png) | 2004-05-26 | ELLEGARDEN | Pepperoni Quattro |
+| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4a345ef05690bfd9cfaaabb796f2e478.png) | 2004-10-20 | ASIAN KUNG-FU GENERATION | ソルファ |
+| 20 |  | 2005-09-21 | GACKT | DIABOLOS |
+| 32 | ![Cover](https://i.discogs.com/E1DMllWmol9XI9f_dcXd-wtk1K5jnN69GZ4Qh0qsnAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTk4/NzUtMTQxMDAyNjA0/My05NDEyLmpwZWc.jpeg) | 2005-12-07 | ELLEGARDEN | Space Sonic |
+| 31 |  | 2006-01-25 | GACKT | REDEMPTION |
+| 41 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/feb196b438735c2c2c7f434a84697053.png) | 2007-07-04 | the GazettE | STACKED RUBBISH |
+| 21 |  | 2007-08-01 | Aqua Timez | Alones |
+| 34 | ![Cover](https://i.discogs.com/ZohTx4ffQLxrZTKFJAD8TuZ2hTa0bqkDYwmsi8G4bH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQ0/NDQ3LTE1NTYyMjYx/NjMtNDYzMi5qcGVn.jpeg) | 2008-08-13 | NICO Touches the Walls | Broken Youth |
+| 27 |  | 2008-12-10 | school food punishment | Riff-rain |
+| 44 |  | 2009-10-21 | exist†trace | Ambivalent Symphony |
+| 14 |  | 2009-12-02 | DIR EN GREY | 激しさと、この胸の中で絡み付いた灼熱の闇 |
+| 26 |  | 2010-03-31 | ASIAN KUNG-FU GENERATION | ソラニン |
+| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/212913c6b6e04205c2408cf19266cc41.png) | 2010-06-09 | ONE OK ROCK | Nicheシンドローム |
+| 28 |  | 2011-06-28 | X Japan | Jade |
+| 7 |  | 2012-11-14 | 凛として時雨 | abnormalize |
+| 17 |  | 2013-07-31 | Maximum the Hormone | Yoshu Fukushu |
+| 8 | ![Cover](https://i.discogs.com/w0GSVjsS0Sck4bBJVz8Of-UiEFnagYKHgwl2o4taggw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzU0/OTk2LTE1MTQ4MzMz/ODYtNTUwMy5qcGVn.jpeg) | 2013-08-21 | Galileo Galilei | サークルゲーム |
+| 10 | ![Cover](https://i.discogs.com/XTkCgSxsmOEEl4Pl16JKms6quIHR7OeFD84Z57yl8rI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTAw/OTAtMTQwOTE3MTQ4/Ni0xMDAwLmpwZWc.jpeg) | 2014 | L&#39;Arc~en~Ciel | Heart |
+| 35 | ![Cover](https://i.discogs.com/5QKzLX5rJ50XDxoOC8VkFhhreWezLg2AF4maTBipQwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODc5/Ni0xNjU2MzE5NDQ2/LTI2MTIuanBlZw.jpeg) | 2014 | L&#39;Arc~en~Ciel | Tierra |
+| 9 |  | 2014-02-26 | BABYMETAL | BABYMETAL |
+| 25 |  | 2014-07-23 | TK from 凛として時雨 | unravel |
+| 42 |  | 2014-12-01 | Marissa Nadler | Before July: Demos &amp; Unreleased Songs |
+| 37 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/db53dc34b52a21d85d34694c3562911c.png) | 2015-06-03 | My Dead Girlfriend | hades (the nine stages of change at the deceased remains) |
+| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b34d404eb3969e736f8f6967729e7856.png) | 2016-01-05 | THE ORAL CIGARETTES | FIXION |
+| 54 | ![Cover](https://i.discogs.com/Ep7ZYLUIOmmoMGftcPjI0FH5sGKWUrQJf7tNG3qKfpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc1/NTAyLTE2Mzc1NTIz/NDEtNzE4OS5qcGVn.jpeg) | 2016-07-27 | Yugo Kanno | JOJO&#39;S BIZARRE ADVENTURE -Diamond is unbreakable O.S.T Vol.1 -Good Morning Morioh Cho- Music by Yugo Kanno |
+| 33 | ![Cover](https://i.discogs.com/thyasmlETQ1aDB8Gydq0Pcq1bWrw6lURBlKZFEed7IQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDg5/NDktMTM5NjI2MTY4/MS00MDM2LmpwZWc.jpeg) | 2017-03-18 | 7!! | Anipps |
+| 23 | ![Cover](https://i.discogs.com/fwJiqqpSJK5mY3N_KDtkeSKpvQb4bgCVC8vD-dD9Nqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjMw/Mjg4LTE1MDEzMDQ5/MTctMjAyMy5qcGVn.jpeg) | 2017-04-25 | X Japan | BLUE BLOOD |
+| 39 | ![Cover](https://i.discogs.com/s5v3BACmLrsML7OV_MITllS4qw9uhgI2oyqt94lZsxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODk3/NzgtMTQ1NjgyMDI2/OS02NTU3LmpwZWc.jpeg) | 2020-03-12 | Kehlani | Do U Dirty |
+| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/81797bd2ac4c11957a463112d040af42.png) | 2021-03-10 | Cö shu Nie | Flos Ex Machina |
+| 22 | ![Cover](https://i.discogs.com/M3c9AB1nPHx8Y__syTlmOCqDW6RvyD6xmKgT4nR6KXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzEy/NDMtMTI5NDQyNTE0/MS5qcGVn.jpeg) | 2021-08-25 | L&#39;Arc~en~Ciel | Ray |
+| 19 | ![Cover](https://i.discogs.com/ZvsYfje61yY6ujgPHIctMoAoZ52T4e5z9qh0PgCAYJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDUz/MzczLTE3MjMzNzM3/NjEtNTE2MC5qcGVn.jpeg) | 2023-11-23 | MindaRyn | Like Flames |
+| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2e18927290117007dac3e0ca2cc5ec2d.png) |  | 3年E組うた担(渚&amp;茅野&amp;業&amp;磯貝&amp;前原) | QUESTION |
+| 46 |  |  | 影森みちる(CV:諸星すみれ)、Shin Sakiura feat. AAAMYY、日渡なずな(CV:長縄まりあ)、mabanua | アニメ『BNA ビー・エヌ・エー』Complete album |
+| 47 |  |  | Polkadot Stingray | 有頂天 |
+| 50 | ![Cover](https://i.discogs.com/ZIIQTsO4nIu_3sZuWQyGWh4qxzLx7o3JJ_FsNM7E7LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njc3/NTAxLTE2NjQ1NTA4/NDQtNjUwNy5qcGVn.jpeg) | 2022-08-17 | MASS OF THE FERMENTING DREGS | Awakening:Sleeping |
+| 55 |  |  | Sokoninaru | Yaminabe |
+| 58 | ![Cover](https://i.discogs.com/ahS6p3J6QMuqGlpoFDFH9OkCkuVvJ_fUzBDjpuhS19s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTM2/NjY1LTE2MTk4MzEw/MTAtNTEyMS5qcGVn.jpeg) | 1996-12-12 | L&#39;Arc~en~Ciel | Ark |
+| 59 |  | 1997-07-25 | DIR EN GREY | Missa |
+| 61 |  | 2000-09-20 | DIR EN GREY | Macabre |
+| 68 | ![Cover](https://i.discogs.com/cKx-u1gDUBJTn3h-B_P9TH2M3tNIEk4p7rnvZAMSKiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjYw/MjktMTQ1NzAyOTcw/OS02MTY2LmpwZWc.jpeg) | 2002-11-25 | ASIAN KUNG-FU GENERATION | Houkai Amplifier |
+| 89 |  | 2003-09-10 | DIR EN GREY | Vulgar |
+| 73 | ![Cover](https://i.discogs.com/HrQ5GaD3G3XMq11V0b_qdoEdcL4TrJM1tLvwLsDG_tA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDMw/MTgyLTE1NTQwNTA2/MDItMzkyOC5qcGVn.jpeg) | 2004-10-20 | BEAT CRUSADERS | Hit in the USA |
+| 69 | ![Cover](https://i.discogs.com/ahS6p3J6QMuqGlpoFDFH9OkCkuVvJ_fUzBDjpuhS19s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTM2/NjY1LTE2MTk4MzEw/MTAtNTEyMS5qcGVn.jpeg) | 2005 | L&#39;Arc~en~Ciel | AWAKE |
+| 64 |  | 2005-03-09 | DIR EN GREY | Withering to death |
+| 67 |  | 2005-12-07 | ガゼット | Cassis |
+| 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8f7fdfa23d4dee0f1c15bc3091f6510e.png) | 2006-02-08 | the GazettE | NIL |
+| 86 | ![Cover](https://i.discogs.com/VCdpAl2hYkofXyFYAHZ_gJNLtoES9ISNV7phtCVDZTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjAz/MDctMTM5OTIxMzAy/Ni00NjE0LmpwZWc.jpeg) | 2006-10-25 | ASIAN KUNG-FU GENERATION | Re:Re: |
+| 80 |  | 2006-11-08 | Flow | COLORS |
+| 57 |  | 2006-12-06 | abingdon boys school | INNOCENT SORROW |
+| 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9cdda56827d74599819b1660e6dbdfd7.png) | 2007-04-04 | YUI | CAN&#39;T BUY MY LOVE |
+| 85 |  | 2007-05-16 | abingdon boys school | HOWLING |
+| 66 | ![Cover](https://i.discogs.com/FK0NqmXcS23Qp0T3zAf18o1uJ7S8iohIVPJtezp2pgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzk1/ODMtMTQ1Njk3Nzcw/MC0yMTgyLmpwZWc.jpeg) | 2008-03-05 | ASIAN KUNG-FU GENERATION | ワールド ワールド ワールド |
+| 99 |  |  | Tatsuya Kitani | 青のすみか |
+| 84 | ![Cover](https://i.discogs.com/5noOiOIk1rb06sOudp5uJr5szLTAr9qBlKdBY2KZeTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE2/MTY3LTE1NTA2MjQ1/ODYtNTIyMC5qcGVn.jpeg) | 2009 | Lisa | Akai Wana (Who Loves It?) &#x2F; ADAMAS |
+| 87 |  | 2010-06-30 | RADWIMPS | 携帯電話 |
+| 82 | ![Cover](https://i.discogs.com/RZh_I47K39TJTeDOanvGiP10Nj5sHKiJbil4kcO6RGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTc2/ODYtMTM2MTU4NTk4/Ny0yNDU5LmpwZWc.jpeg) | 2010-07-14 | YUI | HOLIDAYS IN THE SUN |
+| 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7800969d9cc0db03c90bff53ae6d1d64.png) | 2010-11-02 | Nightmare | The WORLD Ruler |
+| 71 | ![Cover](https://i.discogs.com/S5R2g4bOdh65IvhT-UyyEPbipnLur2Gnqkh23EYdhtU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQ1/NDgyLTE1NTYyNTc5/NzctMTgwNC5qcGVn.jpeg) | 2011-01-12 | NICO Touches the Walls | Diver |
+| 92 | ![Cover](https://i.discogs.com/juVYineF_ClDjhhmhlWkm48oZbQ4FwAgMM_de7VCrCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTg2/NTU0LTE1NjU1MjYw/MTEtNjQ2Mi5qcGVn.jpeg) | 2011-06-26 | Goose house | Milk |
+| 62 |  | 2012-08-22 | ONE OK ROCK | The Beginning |
+| 60 |  | 2013-04-24 | KANA-BOON | 僕がCDを出したら |
+| 96 |  | 2013-08-21 | cinema staff | Great Escape |
+| 79 |  | 2014-03-12 | Man with a Mission | Tales of Purefly |
+| 70 | ![Cover](https://i.discogs.com/uUhoixPxNd5B11nSKlFoiK11YjBXHNTg-fME_wrNz0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTUx/NjctMTY1ODU2NjIw/MC0xODY5LmpwZWc.jpeg) | 2015 | ASIAN KUNG-FU GENERATION | Blood Circulator |
+| 74 | ![Cover](https://i.discogs.com/fhv769wjmIPXCzQqI14W9JqZqu9oNn41U93SxZwgUu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcx/MTc5LTE1NDE2MjEy/MTMtNDU2Ny5qcGVn.jpeg) | 2016-03-02 | SHISHAMO | SHISHAMO 3 |
+| 81 | ![Cover](https://i.discogs.com/9y1Mn-nUfvGkzE3JH5l2S0fJVSVtzHdJeltDTjcumr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDgz/NDItMTQ1NzkxMDU1/Ni02MzQzLmpwZWc.jpeg) | 2016-03-11 | ONE OK ROCK | Jinsei Kakete Boku Wa |
+| 97 | ![Cover](https://i.discogs.com/Z6CeBV4Vbj_MUuvEOHxPdSAef495JWAIRx8Tnc-i8DQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQw/Nzc0LTE1NDg3Nzgy/MzYtNTA0MS5qcGVn.jpeg) | 2016-07-20 | 9mm Parabellum Bullet | インフェルノ |
+| 75 | ![Cover](https://i.discogs.com/Wc7aPyhMQ2uBEZCu8ub98eh5WHcvfDFLyicDlN79c9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTc1/NDctMTUzMDI0ODM1/MC04MTU1LmpwZWc.jpeg) | 2016-11-02 | CQ | Communication, Cultural, Curiosity Quotient |
+| 91 | ![Cover](https://i.discogs.com/dG4mFFqtVTsXYgQCHqC3Gip4hy7lG6EVBv34oF-GyE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzU3/MTMtMTQ4Mzk4MTU1/Mi04MDQ0LmpwZWc.jpeg) | 2017-01-13 | ONE OK ROCK | Ambitions |
+| 77 | ![Cover](https://i.discogs.com/HdQsqbKUWlGhPZTeI4WWDnolIki-87Ah6D0-0PxrOmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU1/MTY4LTE2MzUzNzU2/ODItMTAzOC5qcGVn.jpeg) | 2018-02-14 | BAND-MAID | Daydreaming&#x2F;Choose Me |
+| 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b48cc50ccc4acf4b0d4677d1e17e4a51.png) | 2018-07-23 | Linked Horizon | Shingeki no Kiseki |
+| 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4f639d4b8128d162a55346a6264c05be.png) | 2018-09-26 | Survive Said The Prophet | s p a c e [ s ] |
+| 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7e1b8d7d7ecd7d713c6de331c7bb866b.png) | 2019 | Haru Nemuri | harutosyura |
+| 93 | ![Cover](https://i.discogs.com/_xfNFQm9y-vqsmc8gGzbyX73lN4MFHL8OvDdAoyBiZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDgx/OTIzLTE1ODY0NTc5/MTAtNTE5OC5wbmc.jpeg) | 2019-11-17 | maretu | SIU |
+| 63 | ![Cover](https://i.discogs.com/fmork5iqrE8J5qOvfvojru6-lozl6PArgoU2gHAOPic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc3/ODUxLTE2Mzc1NzYz/MDMtNDc0Ny5qcGVn.jpeg) | 2021-10-15 | Eurielle | The Bridge Of Khazad-Dum (from &quot;The Lord Of The Rings&quot;) |
+| 90 | ![Cover](https://i.discogs.com/vfaEKtDylRLXtPms_XDwY9ff7wipksu1yHoby56mZRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzEy/NTU5LTE2MDkzOTI4/NzgtMjk2Ny5qcGVn.jpeg) | 2022-05-18 | Kenshi Yonezu | BOOTLEG |
+| 98 | ![Cover](https://i.discogs.com/vvocoraYnvODmYbgi2Y19Zx5Gtuow1qVoOgkl0nKZtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTY2/ODk4LTE3MzAyOTA1/OTItNTYwMy5qcGVn.jpeg) | 2022-08-10 | Ado | UTA&#39;S SONGS ONE PIECE FILM RED |
+| 100 |  |  | 美波 | カワキヲアメク |
+
+### Related genres
+
+- [japanese]({{ "/tags/japanese" | relative_url }})
+- [j-pop]({{ "/tags/j-pop" | relative_url }})
+- [asian pop]({{ "/tags/asian-pop" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [asian]({{ "/tags/asian" | relative_url }})
+- [visual kei]({{ "/tags/visual-kei" | relative_url }})
+- [asian rock]({{ "/tags/asian-rock" | relative_url }})
+- [male vocalists]({{ "/tags/male-vocalists" | relative_url }})
+- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})

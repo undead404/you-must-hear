@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-01-06T14:49:47.948Z
+permalink: tags/rap
+title: rap
+---
+
+## rap
+
+Last updated: <time datetime="2025-01-06T14:49:47.948Z">Mon Jan 06 2025 16:49:47 GMT+0200 (Eastern European Standard Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 16 | ![Cover](https://i.discogs.com/CQlP5d8fTAwE15HxLvUwnHpOeGNsNT2Ba9AgeDrlUiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjY3/MDcwLTE2MzQ3NDg5/NTctNzc3NS5qcGVn.jpeg) | 1983 | Corpse | HOT DEMON B!TCHES NEAR U ! ! ! |
+| 8 | ![Cover](https://i.discogs.com/c9H_UtKjc0CAUfqqZikHcuCCxksBYfNRBiJT0mJKjmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzA3/ODYxLTE2MDkzNjEx/NTktOTQwNi5qcGVn.jpeg) | 1988 | Corpse | E-GIRLS ARE RUINING MY LIFE! |
+| 45 | ![Cover](https://i.discogs.com/cCuJIgzxA6z7Ag05I8mGyQPS7fLUv0_nDRReT0Ud9jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU1/ODkyLTE1ODYwOTI3/NjctMzQyOC5wbmc.jpeg) | 1993 | Corpse | Miss YOU! |
+| 59 | ![Cover](https://i.discogs.com/Kp_u3BCfzMN34s45DkwWwSPKIa24Lhb1aTfnTWlascY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY0/MTU1LTE2MTU4NzQz/NzMtMjg4My5qcGVn.jpeg) | 1993 | Corpse | Cat Girls Are Ruining My Life! |
+| 62 | ![Cover](https://i.discogs.com/DofItutrggcaj-jgeXwUawyypkTWbqh5tOvyLqvz5uA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTk5/NS0xMzAzNzQ1MDUx/LmpwZWc.jpeg) | 1994 | Lisa | Rockstar |
+| 42 | ![Cover](https://i.discogs.com/2gSzy5JsxMxSAhC8mKISDoZdxGKsx9ZgpWNFWdb40S0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDYx/OTczLTE2MjYwNjA0/NzItOTU3Ni5qcGVn.jpeg) | 1997 | Corpse | agoraphobic |
+| 74 | ![Cover](https://i.discogs.com/cCuJIgzxA6z7Ag05I8mGyQPS7fLUv0_nDRReT0Ud9jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU1/ODkyLTE1ODYwOTI3/NjctMzQyOC5wbmc.jpeg) | 1997 | Corpse | White Tee |
+| 89 | ![Cover](https://i.discogs.com/0PRtBvh5St-dhMqRXZtNKq9yxjExsePhUoiN3ySsP6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTkw/OTQ1LTE2Mjk5MDg2/MzUtMjYxNC5qcGVn.jpeg) | 1997 | Corpse | Cabin Fever |
+| 84 | ![Cover](https://i.discogs.com/8F2TfGBgwwY3k4XrJihIWcm5v2ggvxXs6gd-t2bIawY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDAy/NS0xNjc5MTQyODMy/LTI1NjAuanBlZw.jpeg) | 1998-11-24 | 2Pac | Greatest Hits |
+| 86 |  | 1999-02-23 | Eminem | The Slim Shady LP |
+| 30 |  | 2000-05-22 | Eminem | The Marshall Mathers LP |
+| 29 |  | 2002-05-27 | Eminem | The Eminem Show |
+| 46 |  | 2003-02-04 | 50 Cent | Get Rich Or Die Tryin&#39; |
+| 83 |  | 2003-07 | Kanye West | The College Dropout |
+| 98 | ![Cover](https://i.discogs.com/h-zwe7KMKGz8HdAHe4qKIMPthxNmOoUjcUXYBspXacc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTIz/Mi0xMjY2NDcyMjI3/LmpwZWc.jpeg) | 2004-11-16 | MF DOOM | MM..Food |
+| 25 | ![Cover](https://i.discogs.com/UyrjxPSRwm2pDYtfGhb_4GwDEPh8M6YlaIvygwvp24Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAx/NDI5LTE1NDAzMjU5/NTctOTc5MC5qcGVn.jpeg) | 2005-08-15 | RM | mono. |
+| 73 | ![Cover](https://i.discogs.com/MHvbJVhxn2EJWU4VAGm_3FN5ZBn46ZuxR0iP-fWii7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODQy/Ny0xMjcyNzM0Mjg3/LmpwZWc.jpeg) | 2005-09-06 | 50 Cent | Massacre |
+| 51 | ![Cover](https://i.discogs.com/aeTqBSZ3ZOPC4UJfesaR-fsf9elKOzuyDsoCta_C3d4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAy/Mzc5LTE1MDYyNDA1/MDctMjM2MS5qcGVn.jpeg) | 2007 | Maroon 5 | Don&#39;t Wanna Know |
+| 38 |  | 2007-09-05 | Kanye West | Graduation |
+| 52 | ![Cover](https://i.discogs.com/erZSxkEgTOZO0TUqGrPhZAbSz8_SGtuF0g7NwNWeyF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTE3/NjAtMTQ5NjcxMDI2/OC02NzM2LmpwZWc.jpeg) | 2009-09-08 | Jay-Z | The Blueprint 3 |
+| 22 | ![Cover](https://i.discogs.com/KuaBmvVdhG_o5M6bOxCQHZAD1sJ6jbCl0Vch5JQvnCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDcw/NzMtMTU0NjY4ODQy/Mi04MTMxLmpwZWc.jpeg) | 2010 | Big Sean | What U Doin? |
+| 48 | ![Cover](https://i.discogs.com/M9byBEQWbH3qRCYKeBbpPWUWowSt_hSSsAS6e6WomwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDk0/NzYzLTE2MzU0NTIw/ODMtMzEyNC5qcGVn.jpeg) | 2010-05-05 | Drake | CERTIFIED LOVER BOY |
+| 33 | ![Cover](https://i.discogs.com/TnS8QjYvwcTx22830OqDZ4mBgaPYZMpKD8yUYCDn56s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzQ2/NDktMTUwMjE0MDE2/NC03NzM5LmpwZWc.jpeg) | 2010-06-18 | Eminem | Recovery |
+| 87 |  | 2010-08-13 | Mac Miller | K.I.D.S. |
+| 72 |  | 2010-11-21 | Nicki Minaj | Pink Friday |
+| 68 |  | 2010-11-22 | Kanye West | My Beautiful Dark Twisted Fantasy |
+| 49 |  | 2011-05-10 | Tyler, the Creator | Goblin |
+| 65 | ![Cover](https://i.discogs.com/YY0AaAg6_5Eo262xxA3_bP7xJaCYxcFxiHcONO54XoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM5/NjMyLTE2NDc4MjA4/MjUtNDM2MC5qcGVn.jpeg) | 2011-05-10 | Tyler, the Creator | Igor |
+| 90 |  | 2011-09-26 | J. Cole | Cole World: The Sideline Story |
+| 70 |  | 2011-11-14 | Childish Gambino | Camp |
+| 76 | ![Cover](https://i.discogs.com/m-QNHL_pNmyLw7_98wvQC9j3MsAt3Q_NA1KsB2cSBg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY0/MTY0LTE2MTU4NzQz/NjUtNjgxMS5qcGVn.jpeg) | 2012 | Corpse | Never Satisfied |
+| 56 | ![Cover](https://i.discogs.com/pljEpasI7gFXGOSdl4W38S7nNE1BNm1Igis0Lb7cXCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjI1/MjQtMTMzOTM1MzY1/OS03MjI2LmpwZWc.jpeg) | 2012-05-29 | Azealia Banks | 1991 - EP |
+| 53 |  | 2013-04-01 | Tyler, the Creator | Wolf |
+| 24 |  | 2013-06-18 | Kanye West | Yeezus |
+| 21 | ![Cover](https://i.discogs.com/vEPajWQIiVngeOevbL0doAN88zKrv_OFyk0Dv-kur2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk0/MjI0LTE1NjEyNzcy/MDEtNjE3OC5qcGVn.jpeg) | 2013-09-20 | Drake | The Best In The World Pack |
+| 17 |  | 2014-07-15 | Drake | 0 To 100 &#x2F; The Catch Up |
+| 80 |  | 2014-11-06 | Azealia Banks | Broke with Expensive Taste |
+| 81 |  | 2014-11-21 | Pitbull | Globalization |
+| 18 | ![Cover](https://i.discogs.com/37BQKo20YDyaEVIZUOKj9hY7pKYITXIOsYQEc4_uQ2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTU3/NzUtMTQ1NTQ0MjAz/Ni04ODY3LmpwZWc.jpeg) | 2016-02-14 | Kanye West | The Life Of Pablo |
+| 19 | ![Cover](https://i.discogs.com/h0__ca5LsjbYZuzvY1yikRQIeDULJW45-Jw62h_Tkpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjE1/MzgtMTU4NDIwMjYy/NS05NzI1LmpwZWc.jpeg) | 2016-02-26 | Desiigner | Panda |
+| 58 | ![Cover](https://i.discogs.com/Uf64YfjTLD0RaKFbNQY_2pA0AsJ4PgyxnEDtT7W2DzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzkw/Njc0LTE1OTA3NjU5/MTktMTc1OS5qcGVn.jpeg) | 2016-03-04 | Kendrick Lamar | untitled unmastered. |
+| 34 | ![Cover](https://i.discogs.com/PVjhIor1bnqlDiDUHPyq8jtlTYCzYRuzVifoFCd-CfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTI4/ODAtMTY1ODUzNTM5/My04ODU0LmpwZWc.jpeg) | 2016-05-06 | Drake | Views |
+| 88 | ![Cover](https://i.discogs.com/s2LgbBGeAPgVtQ5YLUxlzJiCIugw4XI0L2iFg4AsXfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTM4/MjAtMTU4MzQyMjc2/NC03MDkwLmpwZWc.jpeg) | 2016-05-13 | Chance the Rapper | Coloring Book |
+| 40 | ![Cover](https://i.discogs.com/HFrezwpG2HOuamvQYl2VY4HqcJg-83CmQRV7ItX6QaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODIy/MDUtMTU4NDIwMjU4/OS00MjgxLmpwZWc.jpeg) | 2016-07-22 | Desiigner | Tiimmy Turner |
+| 57 | ![Cover](https://i.discogs.com/uHuZnFQsQfLjfE0As4xtkkent22n4tfEk4NHa0oJdCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NjIx/MjMtMTQ4MDk5MTA4/My0yNTY4LmpwZWc.jpeg) | 2016-12-09 | J. Cole | 4 Your Eyez Only |
+| 64 | ![Cover](https://i.discogs.com/u-aZyUmglh5zEwbIhM_zHZHKg22vUkb8jHyu65jC0-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODA0/MDAtMTQ4MTMxOTgz/Mi01Njc3LmpwZWc.jpeg) | 2016-12-09 | Post Malone | Stoney (Deluxe) |
+| 32 | ![Cover](https://i.discogs.com/7FK-a_l3w5Um1EPVD8XQJdITynS3P0fqpQYmj5YlnUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjc0/OTEyLTE1MzE5Mzg4/OTQtNjM3NS5qcGVn.jpeg) | 2017 | xxxtentacion | Revenge |
+| 99 |  | 2017-04-07 | Joey Bada$$ | ALL-AMERIKKKAN BADA$$ |
+| 4 | ![Cover](https://i.discogs.com/FU9zzKlGGrJMQaYCauF5_b7bqUnMGz6aN1RJq1iSVtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDE5/MTc4LTE1OTEyMzQ5/MDMtMjY2MS5qcGVn.jpeg) | 2017-04-14 | Kendrick Lamar | DAMN. |
+| 75 | ![Cover](https://i.discogs.com/CqZ-1P65wygysp6AqjAk_mKY0SmLqPplezLu5DKi3DE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc4/OTI3LTE1OTY2NjQx/MDQtMzM5Ni5qcGVn.jpeg) | 2017-06-08 | LIL PEEP | Castles II |
+| 36 | ![Cover](https://i.discogs.com/W_ZWsaGZRyZT-wA4ryO-QTio8n5jA_CJtZWuuS23GJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUw/MTYxLTE2NDgxMjQw/NjQtOTQ1NC5qcGVn.jpeg) | 2017-08-24 | xxxtentacion | 17 |
+| 44 | ![Cover](https://i.discogs.com/A6CboPuh104aPyTAzp0pro7ghfP-Q_IDwT5cPugNqtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg0/NTU5LTE1ODY1OTk3/NTEtMjY4My5qcGVn.jpeg) | 2017-08-25 | LIL UZI VERT | Luv Is Rage 2 |
+| 100 | ![Cover](https://i.discogs.com/84WWO5xwv72szeM9SXrM34NRiUZspKen6aF0TlR-4oQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzU0/NzI0LTE1MDM3MjYx/ODktNDI5OC5qcGVn.jpeg) | 2017-08-25 | BROCKHAMPTON | Saturation II |
+| 93 | ![Cover](https://i.discogs.com/KavZx-vh6THT4qBD8cnR5-X8VbGmH4JW_BE5WYR7egM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTc5/NzQtMTQyOTAzNzgy/MC03MjM4LmpwZWc.jpeg) | 2017-12-11 | Tyler, the Creator | Flower Boy |
+| 78 | ![Cover](https://i.discogs.com/qMOk9UcxKqbc-7Wb0G_umECfoOJtbesr-_ozA8p8Ylc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjky/MDIwLTE1MTM1NTEw/ODAtNTEzMS5qcGVn.jpeg) | 2017-12-15 | BROCKHAMPTON | Saturation III |
+| 7 | ![Cover](https://i.discogs.com/7MF-NXTXhzAIKhCSTIZwYLkc9iA9zhcbNTjg4x6iXLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ1/NTAwLTE2MTU2NzQx/NjAtMjgwOS5qcGVn.jpeg) | 2018 | Lil Nas X | Old Town Road |
+| 13 | ![Cover](https://i.discogs.com/HrV2ASSUj_BeMk8edd_4hTqhRvWO-Pb-bt91abN4Cpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE4/NjkyLTE1ODI1MTQ3/NTAtNTUxMS5qcGVn.jpeg) | 2018 | Marshmello | Spotlight |
+| 23 | ![Cover](https://i.discogs.com/GGe9A7gP2z8DVwTgCzoTbykcpngxWPYgTqVN6U0-d30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMw/OTAwLTE1MzMwNjg5/MjAtOTAyNS5qcGVn.jpeg) | 2018 | Mac Miller | Swimming |
+| 85 | ![Cover](https://i.discogs.com/GCTyaBx9V_BT1nv0pgLz1xZk2Qs-wPdSdXAP-wjMIgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkx/MTM4LTE1MzMyMzg1/MzktNTg1Mi5qcGVn.jpeg) | 2018 | J. Cole | KOD |
+| 67 | ![Cover](https://i.discogs.com/YsXF4PVbaZrsXzAwJ1dWisw3VFWwbqVnSCODZq8m5Zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk1/NjcyLTE1MjQzMTQx/MTctNDE0Mi5qcGVn.jpeg) | 2018-02-21 | Agust D | Agust D |
+| 26 | ![Cover](https://i.discogs.com/32-NZ75TNqK5sLsGhpt-8kKUFryPRF6r2oJ0mXQBoT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQy/Nzk5LTE1MTk5MjA5/NDYtMTgxOS5qcGVn.jpeg) | 2018-03-02 | J-Hope | Hope World |
+| 69 | ![Cover](https://i.discogs.com/vb9UxaXdga5JDfRjhqgf6NfhD87C3HtLGWxcwHZmWQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIy/ODMyLTE1ODM0MjE3/MDctNDE4OC5qcGVn.jpeg) | 2018-04-06 | Cardi B | Invasion Of Privacy |
+| 50 | ![Cover](https://i.discogs.com/-vrxNNl4vQVCsn3cy6zHTouDPde9zbER0mNGTS4j-5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIz/MzM5LTE1ODc0Njgy/MDctNjY5Ny5qcGVn.jpeg) | 2018-04-27 | Post Malone | Beerbongs &amp; Bentleys |
+| 35 | ![Cover](https://i.discogs.com/dr-0XdCwM91xm7hUqo3RPVR230GL5jLzzWae1RB44p0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTY2/MjgzLTE2NTgyNDQ1/MjctNDk0My5qcGVn.jpeg) | 2018-05-07 | Childish Gambino | This Is America |
+| 82 | ![Cover](https://i.discogs.com/9UFjsgD-sJaOXKx39Mmbbecif7fm0h6L_Rr5aTJz7pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE5/NDIwLTE1NjU0Mzg3/OTktMzkxMy5qcGVn.jpeg) | 2018-05-23 | Juice WRLD | Goodbye &amp; Good Riddance |
+| 43 |  | 2018-05-25 | A$AP Rocky | TESTING |
+| 66 | ![Cover](https://i.discogs.com/qbXtFfC1ZJJYg49eXRn_dE55oqnDc-_akF9CHkkSebM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ3/NjgwLTE1ODc1MDA1/OTktNzQwNC5qcGVn.jpeg) | 2018-05-25 | Pusha T | DAYTONA |
+| 5 | ![Cover](https://i.discogs.com/0hmdRrouyGHqquH21Lp27m-4o3odsCP_x3FFSLfHseI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc4/MjQwLTE2NTk2OTk5/NDQtOTM1Ni5qcGVn.jpeg) | 2018-06-01 | Kanye West | Ye |
+| 54 | ![Cover](https://i.discogs.com/RtuZWGD5G7eJAe1ZXQfNtMm4sXNoTfer2jABy_KJCiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA4/NzU5LTE1ODQxMzA0/NjUtMzI5Mi5qcGVn.jpeg) | 2018-06-08 | Kids See Ghosts | Kids See Ghosts |
+| 41 | ![Cover](https://i.discogs.com/md218mbShdQcZC1-ZKVl6cT6duJYRE83Vs9ynpZM6vE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ0/Njc2LTE1MzgxNTI3/NjYtNzg1Ni5qcGVn.jpeg) | 2018-07-13 | Drake | Scary Hours |
+| 61 | ![Cover](https://i.discogs.com/SsNlWk9eR393-FyIk1mZoezjiyUXE8Hmp6RQEQrXTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjA5/MzAxLTE1MzgxNDYw/ODYtOTYzNC5qcGVn.jpeg) | 2018-07-13 | Drake | Scorpion |
+| 96 | ![Cover](https://i.discogs.com/cZj_bXq9qd4nA1QImZzeOcDPbLRpIUCy_FKfd0nSRqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU5/MDY0LTE2NTg5NDk3/ODAtMjk3Mi5qcGVn.jpeg) | 2018-09-07 | Eminem | Kamikaze |
+| 12 | ![Cover](https://i.discogs.com/0X7BOG7iobOdjg2_AGWc0AjP_bkjX0x1AqMSs_X7a_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjAy/MzAzLTE2MzQzMjQz/MzYtNDMxMy5wbmc.jpeg) | 2018-09-24 | Young Thug | Pick Up the Phone |
+| 77 | ![Cover](https://i.discogs.com/9Sgh_dfPJfqUakivNHYsFikmkK1wL5nfL-2JXPU-W9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc5/MTk2LTE1NDM3MDc3/MDktMTQ4MS5qcGVn.jpeg) | 2018-11-30 | SKI MASK THE SLUMP GOD | Stokeley |
+| 71 | ![Cover](https://i.discogs.com/9aeZG2f2mvXu0PP8HQfmv69DcZRPFgP86jYIoPcc-XU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjEz/NzkyLTE1NzgxOTY1/NDYtNjkzNy5qcGVn.jpeg) | 2018-12-14 | Kero Kero Bonito | Flamingo |
+| 94 | ![Cover](https://i.discogs.com/xnExLy4Ui0EnnBkVOErPFe6zDhumquL4RrsVqFK8dj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAz/MTE2LTE2MjYyNjcw/NjEtMTg2NC5qcGVn.jpeg) | 2019 | Selena Gomez | Fetish (feat. Gucci Mane) |
+| 92 | ![Cover](https://i.discogs.com/JlQkJQbAKZDUJ8c0mUDtPPHfMjlJP6XwL_o6ptsgU00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTEw/NDg4LTE2MTMwNjYw/NTItNTYwOC5qcGVn.jpeg) | 2019-03-01 | Doja Cat | Amala |
+| 79 | ![Cover](https://i.discogs.com/D10NClyLAd1LayOFPmj451VG1X-fwdEgCNm48WAnBcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDgz/ODQ2LTE1NTUwODAz/MjAtNzA2Mi5qcGVn.jpeg) | 2019-04-12 | BTS | MAP OF THE SOUL : PERSONA |
+| 11 | ![Cover](https://i.discogs.com/zE-DFOY46LYU0TSeojvXk0ZA4c2QclQfVi5PCulq_q8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg1/NTEwLTE2MzM3OTE5/NzktOTQwMC5qcGVn.jpeg) | 2019-06-20 | Lil Nas X | Panini |
+| 60 | ![Cover](https://i.discogs.com/zsyO7m1KjiaDzkqoqjctV7xCQoewXmK7kHh1B9IqDbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE5/NTk3LTE1NjE4MzMy/MDItOTE5NC5qcGVn.jpeg) | 2019-06-20 | Lil Nas X | 7 EP |
+| 31 | ![Cover](https://i.discogs.com/Z6AGLqdHZajmTOnD2CGtvLt7j1XLr-QJQRN68fqV3AU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA2/Mjk4LTE1NjMzNzQ1/NDEtODc5NC5wbmc.jpeg) | 2019-06-26 | (G)I-DLE | Uh-Oh |
+| 37 | ![Cover](https://i.discogs.com/fZ5Grth_3wNsLQI8F8lI9qC_WGnTyZWk0I43L_kcOA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTE0/NTEyLTE2NjY0NTAz/MDctMjI2NS5qcGVn.jpeg) | 2019-09-06 | xxxtentacion | ? |
+| 1 | ![Cover](https://i.discogs.com/NbjOJpcIKPnm4jAtEXEifPDIznrLkDLH38C_sEmr6SA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzY3/Mzg2LTE1NzMwOTM3/MTctODQxNi5qcGVn.jpeg) | 2019-11-02 | Frank Ocean | In My Room |
+| 2 | ![Cover](https://i.discogs.com/jIuSxTmePWohJ9LNOBa9tkNLedpBOaDM7keYWlpjOTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjE1/MTAwLTE2ODUyODE0/MzQtNDY1OC5qcGVn.jpeg) | 2020 | xxxtentacion | Riot |
+| 3 | ![Cover](https://i.discogs.com/0hmdRrouyGHqquH21Lp27m-4o3odsCP_x3FFSLfHseI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc4/MjQwLTE2NTk2OTk5/NDQtOTM1Ni5qcGVn.jpeg) | 2020 | Kanye West | Mercy |
+| 27 | ![Cover](https://i.discogs.com/FvMphg5y-QhNWdUL3jKs-qkMoqolQDx8M6vFooPhSlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk2/NTgzLTE1OTc5NTk2/NjctMTM3MS5qcGVn.jpeg) | 2020-05-22 | Agust D | D-2 |
+| 20 | ![Cover](https://i.discogs.com/BE1wi8L-bWS1Ji9Yzj12sWE5zNWCAgsJN6S2SZb9E04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzkw/MjIzLTE2Mzk3ODIw/OTctMjgxMC5qcGVn.jpeg) | 2021 | Denzel Curry | Ultimate |
+| 9 | ![Cover](https://i.discogs.com/jpzOF70_Q4DnBkVuwt0rSz3idu2phqNpJM3bHrbKwmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzI3/MDgwLTE2MTI5Njc2/MDAtMjQ0Ny5qcGVn.jpeg) | 2021-02-05 | Cardi B | UP |
+| 39 | ![Cover](https://i.discogs.com/06bqDmEYZeEQcmNbT4ylNc-OWmod0G824HzS8hyYq5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQz/MDExLTE1NDg4MDg1/NDAtMjkwNC5qcGVn.jpeg) | 2021-06-02 | Billie Eilish | bury a friend |
+| 14 | ![Cover](https://i.discogs.com/x3cAY91FEoJN9D6KhrQ3MDbEe6-Hlc5IvR0sJAR3WGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjY2/NzQ4LTE2Mzk4NjUx/MDMtMTY3My5qcGVn.jpeg) | 2021-06-25 | Doja Cat | Planet Her |
+| 55 | ![Cover](https://i.discogs.com/hWTCiqQLzC1phrkuAMvyt5jCRdHUWDgey_3C3uPKYPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzI1/NjYyLTE2MjEwMDkz/OTctNTQ3Mi5wbmc.jpeg) | 2021-07-16 | J. Cole | The Off-Season |
+| 10 | ![Cover](https://i.discogs.com/k1ypd5xQKneP-hNyZoS9diNT-hHp-UHaEv9Ro46CTq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTc4/MDg1LTE2MzEyNDY5/NDItNDk4OS5qcGVn.jpeg) | 2021-09-10 | Chlöe | Have Mercy |
+| 6 | ![Cover](https://i.discogs.com/qmf1_mi5F9dcY626hHIvaGoBFLpQIc1bob2p7JDoUK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDk2/OTUtMTQ4MDc4MzYy/OS0zNzI0LmpwZWc.jpeg) | 2021-11-05 | Post Malone | One Right Now |
+| 95 | ![Cover](https://i.discogs.com/wqxfY53jtsQnj73eiSOfqkT7uou0xZXzGewPDXG6nfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDQ2/NjgxLTE2NjI1OTY0/NjktNzc5NC5qcGVn.jpeg) | 2022-04-08 | Bia | LONDON (feat. J. Cole) |
+| 28 | ![Cover](https://i.discogs.com/cpYQHt8yHUWk4DQgy0fOtZcKTSjx2hu50V9QLXSrqRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTA2/MzI0LTE2Nzc5NTI0/NzMtNTg2MS5wbmc.jpeg) | 2022-07-15 | J-Hope | HOPE ON THE STREET VOL.1 |
+| 63 | ![Cover](https://i.discogs.com/LWxqUuWg-WwKX23FYCMqeEcwgj7IxI_Ix3y38Vyy3zI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDk4/NDUxLTE2ODQyNjAw/MzAtMjk1Mi5wbmc.jpeg) | 2022-10-17 | LIL UZI VERT | Just Wanna Rock |
+| 15 | ![Cover](https://i.discogs.com/ugM6bdx_yTX8Od8AbbxOhSpmOQrjXBst3jN9YVh-C2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTk5/NzIwLTE2NTg3OTkw/NzgtMTM1OC5qcGVn.jpeg) | 2023 | XG | SHOOTING STAR |
+| 91 | ![Cover](https://i.discogs.com/m0i5wnuFZx4RJ7uO9q6XIiNSXHGIFkGasUdaLsOabaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzU3/MDk2LTE2OTUzNTQw/MTUtODQwNS5qcGVn.jpeg) | 2023-09-22 | Doja Cat | Scarlet |
+| 47 | ![Cover](https://i.discogs.com/C0hc1XCicG5_wbJoNlPbin7ribRpwh2H-f3aXp-aR_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTQ5/NzY4LTE2OTY5MTU1/NTMtNTMzNC5qcGVn.jpeg) | 2024-03-29 | J-Hope | on the street (with J. Cole) |
+| 97 |  | 2024-07-19 | STRAY KIDS | ATE |
+
+### Related genres
+
+- [hip-hop]({{ "/tags/hip-hop" | relative_url }})
+- [korean]({{ "/tags/korean" | relative_url }})
+- [trap]({{ "/tags/trap" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [rnb]({{ "/tags/rnb" | relative_url }})
+- [underground hip-hop]({{ "/tags/underground-hip-hop" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [gangsta rap]({{ "/tags/gangsta-rap" | relative_url }})

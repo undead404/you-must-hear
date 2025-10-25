@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T02:09:40.228Z
+permalink: tags/blackened-deathcore
+title: blackened deathcore
+---
+
+## blackened deathcore
+
+Last updated: <time datetime="2025-10-22T02:09:40.228Z">Wed Oct 22 2025 05:09:40 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 6 |  |  | Fragda | Damnation is Inevitable |
+| 8 |  |  | Hymn For The Fallen | Flatline |
+| 11 |  |  | Shell Complex | Circling the Drain |
+| 13 |  |  | Deathbringers Litany | Communion |
+| 42 |  |  | Sunscourge | Scarlet |
+| 22 |  | 1985 | Threeway | Thank God, Me a Superstar, Trapped in This Fucking Hellhole |
+| 4 | ![Cover](https://i.discogs.com/pwRZmHEboYDgskHh-WYdrbr3GAYqwc5AO5ktUuoAZbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQx/MDgtMTY0MzU3NTY1/OS0yMjQyLmpwZWc.jpeg) | 1997 | WeltenBrand | Umbruch |
+| 10 |  | 2008-10-20 | Abigail Williams | In the Shadow of a Thousand Suns |
+| 16 |  |  | Exit Existence | Noctis |
+| 45 |  | 2010 | Dawn of Ashes | Genocide Chapters |
+| 34 |  | 2011-07-19 | Chelsea Grin | My Damnation |
+| 17 | ![Cover](https://i.discogs.com/Fdp1tE_ikg2d1npWr3_A8kqQ9Edcdup7XZrtlV2BEVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTU3/MTgtMTYzMTEzOTcx/NS0zNjk4LmpwZWc.jpeg) | 2011-10-24 | Carnifex | Until I Feel Nothing |
+| 50 |  | 2012-05-25 | Make Them Suffer | Neverbloom |
+| 19 | ![Cover](https://i.discogs.com/RjPwXui_Pw_lbQk8kP03s15aJN2cfRob1eHbU5Y6Lo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTY2/MzQtMTY0Mjg1MTQx/My05OTYwLmpwZWc.jpeg) | 2013 | Cruelty in the Garden | Hidden Reality |
+| 38 | ![Cover](https://i.discogs.com/hDld9JzYonejhm9T73b28a4dnV9hYodwKMDetm2KOYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTU3/MjAtMTQ0NzMxMjc2/NC02ODEzLmpwZWc.jpeg) | 2013 | Serpents | Born of Ishtar |
+| 14 | ![Cover](https://i.discogs.com/hgeHz_dsJCj2-K-0VF0IoFoOFxXTJH4hViaipUbIiaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTQz/NjQtMTQ4NTIwMzE2/NS0xMzQ5LmpwZWc.jpeg) | 2014 | Writhe | Guide Us To Our Graves |
+| 32 | ![Cover](https://i.discogs.com/M8siU1upiBvCXHSORXsAA-_eDrsx9Lm8u_YEeZ9dx6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTgw/OTgtMTQ3MDYxNTg4/MS00ODgwLmpwZWc.jpeg) | 2014-02-11 | Carnifex | Dragged Into The Grave |
+| 25 |  | 2014-03-04 | Carnifex | Die Without Hope |
+| 1 | ![Cover](https://i.discogs.com/myPF63tZa_3AFcKi16GhDj6rIOi2rRx_zaa-WF8tIas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODYz/MDYtMTQ1MDkxOTQ4/NS02MDg2LmpwZWc.jpeg) | 2015 | WHO STOLE THE COOKIE FROM THE COOKIE JAR | Who Stole The Cookie From The Cookie Jar |
+| 43 | ![Cover](https://i.discogs.com/7dQd6qwmxD3FbOZ-2pn7Tl3R84LhXYLQQ4i3ogpUKvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDE2/MzctMTczMzY2MzE3/My0zNzQwLmpwZWc.jpeg) | 2015-10-02 | She Must Burn | Of Blood &amp; Bone |
+| 24 | ![Cover](https://i.discogs.com/r_nitJn7KRCZWwWlsG4o1pHJeYpf-ajuwn8PbFlkwfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Njgy/MjgtMTQ2MjE5ODYw/NS0yNTcxLmpwZWc.jpeg) | 2016 | Ritualist | An Audience of Desolation |
+| 15 | ![Cover](https://i.discogs.com/AfEgjRs7w23wMytW9l_uJ-y2cRLXz7uHJXxm9mHk5Vo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTUw/NzQtMTQ1NTQxNTA4/NS04ODMxLmpwZWc.jpeg) | 2016-01-15 | WHO STOLE THE COOKIE FROM THE COOKIE JAR | Avian Vassalage |
+| 44 | ![Cover](https://i.discogs.com/oxEMlmEDrXq7xZITkeygDj6YWEhVwnY7IarOmOlTTms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTQw/NDktMTQ1ODAzMTQ4/NS01NTM0LmpwZWc.jpeg) | 2016-02-05 | An Argency | Through Existence |
+| 18 | ![Cover](https://i.discogs.com/HL0OuEJ36Odd4xAI9eSayHD3567FH_neH8H2GbG9ixk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjM2/NzctMTQ3MDM0MTkw/OS04NzkzLmpwZWc.jpeg) | 2016-06-06 | Hater | Requiem Aeternam |
+| 3 | ![Cover](https://i.discogs.com/VULqpl_bdEhxQJtkRZfhCSa0Br_r-jQsugQxWC_nmkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEw/Mzg0LTE0OTM0NTk0/NzItNzQxMi5qcGVn.jpeg) | 2017 | Blackest Sunset | Kingdom of Sorrow |
+| 12 | ![Cover](https://i.discogs.com/qYoec0j7P1_LFKrgB2jQpvx11TYdn_9ZyO1Jy98ksIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjIw/MzYtMTQ4ODU5NjA2/Ni02MjQ1LmpwZWc.jpeg) | 2017 | She Must Burn | Eulogy |
+| 35 | ![Cover](https://i.discogs.com/Hokdgz1aDYWlicRa7mY8_LSbpYFe3njrQGNVuWJmNd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDk3/MDk4LTE2Njc5MjA0/OTUtMTI3OC5qcGVn.jpeg) | 2017 | She Must Burn | Incantation |
+| 5 | ![Cover](https://i.discogs.com/EqAjMwFVJnzIbjZKbufDefOYcrOsfFeVOgG9U2DoJQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzE0/NzU0LTE1NTE5MTMy/MjgtNDU0Mi5qcGVn.jpeg) | 2018 | Sin Deliverance | Inquisition of Morality |
+| 31 | ![Cover](https://i.discogs.com/EqAjMwFVJnzIbjZKbufDefOYcrOsfFeVOgG9U2DoJQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzE0/NzU0LTE1NTE5MTMy/MjgtNDU0Mi5qcGVn.jpeg) | 2018 | Sin Deliverance | The Inquisition of Morality |
+| 37 | ![Cover](https://i.discogs.com/FST2J2Z9sGWvwEn79tWTpAVTqx_PcZOuhPofq-PJiN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ5/NDU5LTE1MzU1MDA2/MjgtMzI1OS5qcGVn.jpeg) | 2018-07-19 | Lacerate Thy Maker | Imminent |
+| 41 | ![Cover](https://i.discogs.com/FST2J2Z9sGWvwEn79tWTpAVTqx_PcZOuhPofq-PJiN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ5/NDU5LTE1MzU1MDA2/MjgtMzI1OS5qcGVn.jpeg) | 2018-07-19 | LACERATE THY MAKER | Imminent |
+| 20 | ![Cover](https://i.discogs.com/PkuBH-vsRkge87GKigk3-ys3MHhUV58Ax6-R99lSQpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/MTYxLTE1NjAwNjkx/NDgtNzQ4Ny5qcGVn.jpeg) | 2019-06-14 | The Contradiction | Legion: The Fall |
+| 33 | ![Cover](https://i.discogs.com/T8istF_bPc7p0gVe8Yes2xjNRJ9wbdN_cZuEnVhXmFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDE2/NDU0LTE1OTExOTUx/ODEtMzE4MC5qcGVn.jpeg) | 2020 | Drown In Sulphur | Buried by Snow and Hail |
+| 2 | ![Cover](https://i.discogs.com/oeXvUs4N9ZQSjqbqxgUXrqKaxb9YvnsUp3xnMpb4bCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTY2/NDYwLTE2MzExNTY3/NDUtMTQxMy5qcGVn.jpeg) | 2020-03-13 | WhatDrivesTheWeak | Lightbringer |
+| 47 | ![Cover](https://i.discogs.com/Wkk-wqWwXpbFfCkbndi-T_Oqcney3r3q_S2spW2Zw0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgy/Nzc2LTE2MzQxOTAx/NjYtNjc4Ny5wbmc.jpeg) | 2021 | DISEMBODIED TYRANT | Ov Brimstone And Fire |
+| 49 | ![Cover](https://i.discogs.com/9jj6Jeark1qTgplNvFKuNQcGsI1sxlsrzDO7kVCD3v8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTY2/MzgwLTE2MTY0NDk2/NTgtMzQ2Ny5qcGVn.jpeg) | 2021-02-19 | A Night In The Abyss | Begotten |
+| 40 | ![Cover](https://i.discogs.com/Tlmtk8Ou2bAmkuT3UZzWTWFavXGCN_o5t265c1ypHJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzI1/MjE4LTE2MjEwMDc3/NjYtNTM4NS5qcGVn.jpeg) | 2021-05-14 | The Ember, The Ash | Fixation |
+| 26 | ![Cover](https://i.discogs.com/9Kl8Ygaol94lhFLSfHc9Lh2gxRZVi7TE7X7nIYQe-Z0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIw/NDk3LTE2MjY0ODA0/OTktMzAyNS5qcGVn.jpeg) | 2021-05-28 | Hammer of Dawn | Ketor |
+| 48 | ![Cover](https://i.discogs.com/4VPK7Dt0Z-WZgc_3XPYzpCAM7CYyXtpRlgD8OSGWUZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg1/MjUxLTE2ODQyNTc0/OTQtNzk2Mi5qcGVn.jpeg) | 2021-07-16 | Sin Deliverance | Ultimate Hatred |
+| 30 | ![Cover](https://i.discogs.com/-BTXVp7VTnNRjKWUzfN1quSmdM4Juv1G6jZdTTozvMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/Mzg5LTE2NDc5MDEw/NzMtMTE3MS5qcGVn.jpeg) | 2021-10-10 | VICTIMOFDECEPTION | MIGHTY RULERS |
+| 39 | ![Cover](https://i.discogs.com/Fzk3LYwo04_BqzuhK-bPhi8qEoAkegvKrzsFnGd30dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk5/NzM1LTE2NTE1OTcw/MjktODUyOC5qcGVn.jpeg) | 2022-04-15 | Hurakan | Via Aeterna |
+| 27 | ![Cover](https://i.discogs.com/JK6ezUJJIPEejMsZc41KT1BWuXnMrnCCatTms6R-mOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjgz/OTMxLTE2NTYxMTUy/OTctMzE0MC5qcGVn.jpeg) | 2022-05-20 | The Dark Alamorte | Lunacrium Thepsis |
+| 36 | ![Cover](https://i.discogs.com/OvSXzBzMaGuPs3b-c-Cb4wm0Rk63IM-V9VjAiGI9TaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzM4/ODAwLTE2NzA0MjY4/MzctNzIxNy5qcGVn.jpeg) | 2022-08-19 | To Obey A Tyrant | Omnimalevolent |
+| 28 | ![Cover](https://i.discogs.com/-EWVR6AcDHCuUmqsSppVxlYAQggbjlr3EGue3vcDP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODg3/NDQ3LTE3MDg2MjQ0/OTAtMjEwMi5qcGVn.jpeg) | 2022-09-22 | Art of Attrition | The Void Eternal |
+| 9 | ![Cover](https://i.discogs.com/Hokdgz1aDYWlicRa7mY8_LSbpYFe3njrQGNVuWJmNd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDk3/MDk4LTE2Njc5MjA0/OTUtMTI3OC5qcGVn.jpeg) | 2022-10-14 | She Must Burn | Under the Shadows |
+| 21 | ![Cover](https://i.discogs.com/Hokdgz1aDYWlicRa7mY8_LSbpYFe3njrQGNVuWJmNd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDk3/MDk4LTE2Njc5MjA0/OTUtMTI3OC5qcGVn.jpeg) | 2022-10-14 | She Must Burn | Gloom (feat. Sean Harmanis) |
+| 29 | ![Cover](https://i.discogs.com/Hokdgz1aDYWlicRa7mY8_LSbpYFe3njrQGNVuWJmNd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDk3/MDk4LTE2Njc5MjA0/OTUtMTI3OC5qcGVn.jpeg) | 2022-10-14 | She Must Burn | Misery Eternal |
+| 23 | ![Cover](https://i.discogs.com/U1BSbfGLAAUN2qM00brJic_XMAvIeARqRPlaUexsCfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTYx/MzQ1LTE2NzE5MzU4/MDAtOTQ4NS5qcGVn.jpeg) | 2022-12-09 | Fathom | The Lurking Gloom |
+| 7 | ![Cover](https://i.discogs.com/1RhvFG2L7dbrb4eNEvBMCL6HfyyTuFTuaoElWHHjVqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTQ4/MDM4LTE2NzY3NTEw/OTktMTcxNi5qcGVn.jpeg) | 2023-01-20 | Cincinatti Bowtie | Incantation |
+| 46 |  |  | Sunscourge | Wraith |
+| 94 | ![Cover](https://i.discogs.com/SBEmabur7tTwUMwGHx1iaTQEClIaFjL8fxHltrQVxy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgx/LTEzODI1Njc1NjQt/NTQ5Mi5qcGVn.jpeg) | 1994 | Chelsea Grin | Suffer in Hell |
+| 71 | ![Cover](https://i.discogs.com/faqfYu9hSy0L9MwRT77WcqPhAjjSgKHmFb0Vj-dN8WE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTE0/MjYyLTE2MTczNDcz/NDYtOTE4MC5qcGVn.jpeg) | 2003 | To The Grave | Cut Off The Head |
+| 86 | ![Cover](https://i.discogs.com/0jAms3-PeUz981uizs3DITsgDFC7MkTYnSo_6_sjSAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzIw/NDA4LTE1NTk3MTgw/NjYtNTUyNi5qcGVn.jpeg) | 2008 | Make Them Suffer | 27 |
+| 69 |  | 2009-01-17 | Fallujah | Leper Colony |
+| 95 |  | 2012-02-14 | Lorna Shore | Bone Kingdom |
+| 81 |  | 2013-12-20 | Lorna Shore | Maleficium |
+| 57 | ![Cover](https://i.discogs.com/N9G17j7I0BsT-qhguSJc1rVvueXoIOSbazBRtIjD24g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjU2/NjctMTQ1NDQ3NTIx/OS03NzEyLnBuZw.jpeg) | 2014 | Make Them Suffer | Let Me In |
+| 80 | ![Cover](https://i.discogs.com/kv9dLm4U0Mz7wAvg6t96MrVN2cBT_7cY24bgrTREV8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDAx/NTAtMTQ0NDg3ODAx/Ny05MTA2LmpwZWc.jpeg) | 2015-02-25 | Angelmaker | Dissentient |
+| 85 | ![Cover](https://i.discogs.com/KbEnSEyvRwTVoCXjIAKchvvKEm_nigj-oCw-0s1TFPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODA4/MzItMTQzMzI1NTk0/MC0zNzAzLmpwZWc.jpeg) | 2015-05-29 | Make Them Suffer | Old Souls |
+| 52 | ![Cover](https://i.discogs.com/dA_ZIUyuu5vyFn1ZuwM0fgFCKglYaLUt2poVj6buy4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDE2/MzctMTQ3OTkxODg1/NC0yODgwLmpwZWc.jpeg) | 2015-10-02 | She Must Burn | She Must Burn |
+| 72 | ![Cover](https://i.discogs.com/4BBxStnSjqiJPkmfd4jGvGNilOCA73EfDEduuWsyTLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTE0/NjctMTQ1MzA1NDk1/Mi05OTkyLmpwZWc.jpeg) | 2015-11-27 | Lorna Shore | The Absolution of Hatred |
+| 84 | ![Cover](https://i.discogs.com/q-FyjCBMA3AO0dbKzirZDiTAE06Jw-KxvSctL0zrzK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MDky/NTQtMTQ4NTExODEz/NC0zNjIxLmpwZWc.jpeg) | 2016 | Make Them Suffer | Old Souls &amp; Lord of Woe |
+| 75 | ![Cover](https://i.discogs.com/T05CsKW-ffGziPwXOZ1WZQ-WwDfipRI4qsb7hY_ZVZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzIw/MzkyLTE1NTk3MTgw/MzEtODIzMi5qcGVn.jpeg) | 2016-06-14 | Make Them Suffer | Ether |
+| 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0f31eccd7945d0030e50d54d9c1fadee.png) | 2016-08-05 | Carnifex | Slow Death |
+| 58 | ![Cover](https://i.discogs.com/qYoec0j7P1_LFKrgB2jQpvx11TYdn_9ZyO1Jy98ksIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjIw/MzYtMTQ4ODU5NjA2/Ni02MjQ1LmpwZWc.jpeg) | 2017 | She Must Burn | Grimoire |
+| 65 | ![Cover](https://i.discogs.com/t32D39QY6z1DVizkk_Oioo1zonxNOSySwfWaz4OO81A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzI0/MTEtMTQ4NzAyODY0/Ny02Njk2LmpwZWc.jpeg) | 2017-02-17 | Lorna Shore | Darkest Spawn |
+| 68 | ![Cover](https://i.discogs.com/t32D39QY6z1DVizkk_Oioo1zonxNOSySwfWaz4OO81A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzI0/MTEtMTQ4NzAyODY0/Ny02Njk2LmpwZWc.jpeg) | 2017-02-17 | Lorna Shore | Death Portrait |
+| 88 | ![Cover](https://i.discogs.com/t32D39QY6z1DVizkk_Oioo1zonxNOSySwfWaz4OO81A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzI0/MTEtMTQ4NzAyODY0/Ny02Njk2LmpwZWc.jpeg) | 2017-02-17 | Lorna Shore | Cursed to Die |
+| 93 | ![Cover](https://i.discogs.com/t32D39QY6z1DVizkk_Oioo1zonxNOSySwfWaz4OO81A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MzI0/MTEtMTQ4NzAyODY0/Ny02Njk2LmpwZWc.jpeg) | 2017-02-17 | Lorna Shore | Flesh Coffin |
+| 63 | ![Cover](https://i.discogs.com/0cVWsxq--Y6anuJ1wYznzXLGNZDe96ss4pJbCxiFH34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzAx/NTMwLTE1OTE5NDk4/MjAtNDY2My5qcGVn.jpeg) | 2017-08-11 | Justice For The Damned | Dragged Through the Dirt |
+| 82 | ![Cover](https://i.discogs.com/ORCYWOsZt1xMXytzK3zUyBph3ZgVsfge4kk15qsLyXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcy/MzQwLTE1NDE2NDQ1/NDUtMTMzNC5qcGVn.jpeg) | 2018-09-21 | Shrine of Malice | Malignance |
+| 70 | ![Cover](https://i.discogs.com/ut6DpsDX_BpTt2U5j4RgO5PuYwJCNT3HoYx4uWB4f74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQy/ODQwLTE1NTQzMDQy/NDMtMjQ5Mi5qcGVn.jpeg) | 2019-03-29 | A Wake In Providence | The Blvck Sun || The Blood Moon |
+| 60 | ![Cover](https://i.discogs.com/QkpC1wP6iZ3ek-l7vHB9SgLL0wuSQVNMaLyd_s-Dalc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTAz/NTQxLTE1NzU4Njky/MjMtMjU5My5qcGVn.jpeg) | 2019-10-31 | Second To Sun | Legacy |
+| 91 | ![Cover](https://i.discogs.com/QnW9oM9PzoGvFuX7TYT_W24rAn7Q2E5clHtQW2aOn3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY3/ODk4LTE1NzUxMzg3/NzYtODE0Mi5qcGVn.jpeg) | 2020-01-31 | Lorna Shore | Into the Earth |
+| 96 | ![Cover](https://i.discogs.com/QnW9oM9PzoGvFuX7TYT_W24rAn7Q2E5clHtQW2aOn3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY3/ODk4LTE1NzUxMzg3/NzYtODE0Mi5qcGVn.jpeg) | 2020-01-31 | Lorna Shore | Immortal |
+| 100 | ![Cover](https://i.discogs.com/QnW9oM9PzoGvFuX7TYT_W24rAn7Q2E5clHtQW2aOn3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY3/ODk4LTE1NzUxMzg3/NzYtODE0Mi5qcGVn.jpeg) | 2020-01-31 | Lorna Shore | Sun&#x2F;&#x2F;Eater |
+| 56 | ![Cover](https://i.discogs.com/-3PEzZSSQ1Aq7JTQmRuaj5raXzXzWVRHUnmJ0SZ0O-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzcx/MDg3LTE2MDczNDIz/OTItMTg3NC5qcGVn.jpeg) | 2020-06-12 | Defamed | In Tenebris |
+| 76 | ![Cover](https://i.discogs.com/TQiWVgOBjOXD65PwwNScde_6_gc_4eeEAkmsDvWaG_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzcx/MjM3LTE2MDczNDMx/MzAtMTMyMS5qcGVn.jpeg) | 2020-11-06 | Defamed | Aeon |
+| 73 | ![Cover](https://i.discogs.com/Wkk-wqWwXpbFfCkbndi-T_Oqcney3r3q_S2spW2Zw0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgy/Nzc2LTE2MzQxOTAx/NjYtNjc4Ny5wbmc.jpeg) | 2021 | DISEMBODIED TYRANT | The Divine Stigmata |
+| 89 | ![Cover](https://i.discogs.com/ijgMjeTUBGuvrJwNh3JbwPvCxleTGXtWnxccSam01lU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQ5/NzYxLTE2NjM1MTQ5/MjMtNzkzOC5qcGVn.jpeg) | 2021-05-28 | Mental Cruelty | A Hill to Die Upon |
+| 55 | ![Cover](https://i.discogs.com/Ui7E9vTMkkDHpBoQvbpx4DXQo5sZstQAbeXnCBdgMA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTE0/MjMzLTE2MjY0NDA1/ODQtNDI3NC5qcGVn.jpeg) | 2021-07-16 | A Night In Texas | The Divine Dichotomy - Chapter II |
+| 62 | ![Cover](https://i.discogs.com/Q_wiTm-F5JBjkWuJjz4VWpyq9k3SJw35QJNCV1hEUJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTE0/MTI1LTE2MjY0NDAy/MDctMjM2My5qcGVn.jpeg) | 2021-07-16 | A Night In Texas | The Divine Dichotomy - Chapter I |
+| 59 | ![Cover](https://i.discogs.com/WFHmatPbhPZBG1GbXOkJkN2jzNgB4zpLOMdtfd11LkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODA1/OTQ3LTE2Mjg1NDkz/OTYtNTI1NS5wbmc.jpeg) | 2021-08-06 | Ov Sulfur | Earthen |
+| 83 | ![Cover](https://i.discogs.com/y5bKPEbUUh6SEluDzbg0yTCZUEjl0Nz-LVaInC7znHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzc3/ODMyLTE2NDI5Njk5/NDEtOTYzOS5qcGVn.jpeg) | 2022-01-14 | Worm Shepherd | Ritual Hymns |
+| 97 | ![Cover](https://i.discogs.com/tDJ7hpJHuwHxaE_ElSPoJH9d1rSwACIS2MQqggygt4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAw/Mzc4LTE3MTc3ODk4/ODgtOTM2OS5qcGVn.jpeg) | 2022-04-15 | Immortal Disfigurement | Dragged Through The Inferno |
+| 77 | ![Cover](https://i.discogs.com/-soSHyO_3XJgzaDhGzrGgp9M1CKhLmd0pkE1T7MyeD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDk3/NDEyLTE2NzYzNzM4/MTEtNDgyNS5qcGVn.jpeg) | 2022-04-29 | Defamed | Crystal Prison |
+| 53 | ![Cover](https://i.discogs.com/TQiWVgOBjOXD65PwwNScde_6_gc_4eeEAkmsDvWaG_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzcx/MjM3LTE2MDczNDMx/MzAtMTMyMS5qcGVn.jpeg) | 2022-09-30 | Defamed | The Servant |
+| 61 | ![Cover](https://i.discogs.com/Hokdgz1aDYWlicRa7mY8_LSbpYFe3njrQGNVuWJmNd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDk3/MDk4LTE2Njc5MjA0/OTUtMTI3OC5qcGVn.jpeg) | 2022-10-14 | She Must Burn | Umbra Mortis |
+| 64 | ![Cover](https://i.discogs.com/2-yjb2YQmIbzCONGHxIIlSdiVPGDo2dagfPDPUf-XPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODA1/MDMxLTE2NjU3NzMw/OTAtMTg1Mi5qcGVn.jpeg) | 2022-10-14 | Lorna Shore | King Ov Deception |
+| 66 | ![Cover](https://i.discogs.com/2-yjb2YQmIbzCONGHxIIlSdiVPGDo2dagfPDPUf-XPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODA1/MDMxLTE2NjU3NzMw/OTAtMTg1Mi5qcGVn.jpeg) | 2022-10-14 | Lorna Shore | This is Hell |
+| 92 | ![Cover](https://i.discogs.com/2-yjb2YQmIbzCONGHxIIlSdiVPGDo2dagfPDPUf-XPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODA1/MDMxLTE2NjU3NzMw/OTAtMTg1Mi5qcGVn.jpeg) | 2022-10-14 | Lorna Shore | Pain Remains I: Dancing Like Flames |
+| 98 | ![Cover](https://i.discogs.com/2-yjb2YQmIbzCONGHxIIlSdiVPGDo2dagfPDPUf-XPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODA1/MDMxLTE2NjU3NzMw/OTAtMTg1Mi5qcGVn.jpeg) | 2022-10-14 | Lorna Shore | Pain Remains II: After All I&#39;ve Done, I&#39;ll Disappear |
+| 99 | ![Cover](https://i.discogs.com/2-yjb2YQmIbzCONGHxIIlSdiVPGDo2dagfPDPUf-XPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODA1/MDMxLTE2NjU3NzMw/OTAtMTg1Mi5qcGVn.jpeg) | 2022-10-14 | Lorna Shore | Pain Remains |
+| 79 | ![Cover](https://i.discogs.com/8lQqJBPl3O5EvvEMSiPaxWyLCLT5Ns0RdfZEZ3k6jY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/ODk4LTE2NjYzNTg2/NDktNzMyMy5qcGVn.jpeg) | 2022-10-21 | Cabal | Magno Interitus |
+| 51 | ![Cover](https://i.discogs.com/VrWocv76vbBHgoBHonhXFyi5qvfMUt8p108l8WoVAeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTU1/NjA0LTE2NjgzNzc5/NDAtODIxNC5qcGVn.jpeg) | 2022-11-11 | Bonecarver | Carnage Funeral |
+| 78 | ![Cover](https://i.discogs.com/4JlfL0Ellz6XPx0c2K5_gaaOo0ZXU3On59y0Hj_wUss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDk5/MzM4LTE2Nzk0MzI5/NDItNTM0Ny5qcGVn.jpeg) | 2023 | Ov Sulfur | The Burden Ov Faith |
+| 54 | ![Cover](https://i.discogs.com/x1VsSrH4sV4SiuPJkg3ZY404vFQa4DjPAM9MSP3L_n4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM0/OTAwLTE2ODIxNzkw/NzItODI5My5qcGVn.jpeg) | 2023-04-21 | Mélancolia | HissThroughRottenTeeth |
+| 87 | ![Cover](https://i.discogs.com/1GNzZ3wvysx2oaoE3OVipIwFlz1TwI5T2IejjSteoow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDI5/NDYyLTE2OTA2Mjg4/NTItMzUxOS5qcGVn.jpeg) | 2023-06-23 | Mental Cruelty | Zwielicht |
+| 90 | ![Cover](https://i.discogs.com/eo08ZD2ky_TzT_3Pb3apuJ0953qkmnp69DAU8O2Aico/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODk4/NTY2LTE2OTEzNTcw/OTYtNjI4NS5qcGVn.jpeg) | 2023-08-04 | Humanity&#39;s Last Breath | Ashen |
+| 67 | ![Cover](https://i.discogs.com/tDJ7hpJHuwHxaE_ElSPoJH9d1rSwACIS2MQqggygt4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAw/Mzc4LTE3MTc3ODk4/ODgtOTM2OS5qcGVn.jpeg) | 2024-06-07 | Immortal Disfigurement | King |
+
+### Related genres
+
+- [deathcore]({{ "/tags/deathcore" | relative_url }})
+- [symphonic deathcore]({{ "/tags/symphonic-deathcore" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
+- [death metal]({{ "/tags/death-metal" | relative_url }})
+- [black metal]({{ "/tags/black-metal" | relative_url }})
+- [metalcore]({{ "/tags/metalcore" | relative_url }})
+- [blackened death metal]({{ "/tags/blackened-death-metal" | relative_url }})
+- [progressive deathcore]({{ "/tags/progressive-deathcore" | relative_url }})
+- [technical deathcore]({{ "/tags/technical-deathcore" | relative_url }})
+- [melodic death metal]({{ "/tags/melodic-death-metal" | relative_url }})

@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-01-11T17:49:43.759Z
+permalink: tags/jazz-organ
+title: jazz organ
+---
+
+## jazz organ
+
+Last updated: <time datetime="2025-01-11T17:49:43.759Z">Sat Jan 11 2025 19:49:43 GMT+0200 (Eastern European Standard Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 33 | ![Cover](https://i.discogs.com/fQ55_Mdyq_jiPIz9tl99X6HfPugvR9B7E-t2C-r3l_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjE3/MzYtMTM1ODI5MzE1/MC0xMDYyLmpwZWc.jpeg) | 1957 | Bill Doggett | Honky Tonk |
+| 64 | ![Cover](https://i.discogs.com/byxEXRMJ0oUHaw6j3BucHZkGXKcJbl8yeC3fto702tY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODEx/NDAtMTQ4MTMzNDA3/OS0yOTMxLmpwZWc.jpeg) | 1957 | Bill Doggett | Doggett Beat For Dancing Feet |
+| 75 |  | 1957 | Bill Doggett | Hot Doggett |
+| 93 |  | 1958 | Bill Doggett | As You Desire Me |
+| 70 | ![Cover](https://i.discogs.com/V-S5PmgzQ8_cTHyIQU5JJWtrcNC1ChHcWMgc2lZ_WcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzk1/NDAtMTQ2MDkwNDY2/NC0xOTEzLmpwZWc.jpeg) | 1961 | Shirley Scott | Like Cozy |
+| 15 | ![Cover](https://i.discogs.com/qN51-hTptPhk9Gt9oyS-gc7dVThVRXU08zWBqTlQQ0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDA3/NDQtMTU0MjcyMTU5/Mi00MDQzLmpwZWc.jpeg) | 1962 | Jimmy McGriff | I&#39;ve Got a Woman |
+| 62 | ![Cover](https://i.discogs.com/E_9mqNnAnO2QOS8jdXytC--FSQonKscJCqG4tjX5WkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzk5/MzEtMTMzODQ1NjUz/OC04MzEyLmpwZWc.jpeg) | 1962 | Wild Bill Davis | The Everest Years |
+| 13 | ![Cover](https://i.discogs.com/hwhUy4IYxqrKLbDsQOSh66woURLyBY7SFPlfEk6UNw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjgx/MjEtMTQyOTM5MzEz/Ny0zOTk3LmpwZWc.jpeg) | 1963 | Shirley Scott | Talkin Verve: Shirley Scott |
+| 20 |  | 1963 | Shirley Scott | Soul Shoutin&#39; |
+| 63 | ![Cover](https://i.discogs.com/DnHrXtkeZnDvLvEd89mhdPi8e9zztu3uTZovES9D0Jo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTIw/ODctMTI3NzEzNDcy/Ni5qcGVn.jpeg) | 1963 | Jimmy Smith | The Organ Genius - Jazz Sessions NYC &#39;57 - &#39;58 |
+| 36 | ![Cover](https://i.discogs.com/dt6F7vnP9eMdw-Ln8GTpes7uFNctYz_0XPqUfvZUkao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/MzcyLTE1MjU0NTMw/NDEtNjQ4My5qcGVn.jpeg) | 1964 | Jack McDuff | Another Real Good&#39;Un |
+| 49 |  | 1964-11 | Bill Doggett | Wow! |
+| 28 | ![Cover](https://i.discogs.com/hwhUy4IYxqrKLbDsQOSh66woURLyBY7SFPlfEk6UNw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjgx/MjEtMTQyOTM5MzEz/Ny0zOTk3LmpwZWc.jpeg) | 1965 | Shirley Scott | Shirley Scott &amp; the Soul Saxes |
+| 31 | ![Cover](https://i.discogs.com/BuEO2Y2J9PXkm13hWzj4dB6feX_C_t9WziuOXZ7PcG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzc4/NTgtMTY1NzExMTI3/OS05OTc3LmpwZWc.jpeg) | 1965 | Jimmy Smith | The Very Best |
+| 56 | ![Cover](https://i.discogs.com/qVmGUZ0yJze5LX92cVhVx-Raqz6TbEXV0-TWmZmrAis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODEw/MS0xNDAyNjExNzI3/LTg4OTQuanBlZw.jpeg) | 1965 | Jimmy Smith | The Very Best Of |
+| 87 | ![Cover](https://i.discogs.com/AJ-NeLuVokz7Fk9cE5qEoWRYtq0yqnYNuDtWZK_Ynk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjA0/MTAtMTM3ODU3MDI5/Ny0yMDMzLmpwZWc.jpeg) | 1965 | Jimmy McGriff | Jimmy McGriff - Greatest Hits |
+| 72 | ![Cover](https://i.discogs.com/wc2tFKWZSOnIyJTesT_MkafxuFREaw0b9C9GKqHcszI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODA1/ODUtMTQ1NjY1Mjc0/OS01NDM0LmpwZWc.jpeg) | 1965-08 | Jimmy Smith | Hard Bop (Jimmy Smith - The Sermon) |
+| 16 | ![Cover](https://i.discogs.com/62LFVug2QduGGL436aIhJiV4oWT_L1pTL24yicGVpVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDU1/MTEtMTI5NzM1MTAy/Ny5qcGVn.jpeg) | 1966 | Shirley Scott | Latin Shadows |
+| 86 | ![Cover](https://i.discogs.com/_H19lVoKBcf50Hi22WwydYj5lOGKfeQLzZRpnDa3FJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTE0/NzktMTM1NDM4MjQ5/NS00NDkyLmpwZWc.jpeg) | 1966 | Lou Bennett | Jazz In Paris - Pentacostal Feeling |
+| 18 | ![Cover](https://i.discogs.com/SfR0PCHQoqgbIB-7jMxx8JUOAe6C2ZEdQ7sJzmORZpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzIz/ODYtMTQ1MTg1Mjcw/OS02MTc4LmpwZWc.jpeg) | 1967 | Jimmy McGriff | The Best Of The Sue Years 1962-1965 |
+| 42 | ![Cover](https://i.discogs.com/B3alm_omi3hUEbwMsKQU4USpFI8jT6TiOIzncdGRw_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDkx/NzI0LTE2NTQ1NjY5/ODYtMTM2Ni5qcGVn.jpeg) | 1967 | Shirley Scott | On A Clear Day |
+| 95 | ![Cover](https://i.discogs.com/w12MOYrE8-gi9mEMbpQ5Pv6QseaKTkuIgKKTEIKUD34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODQ0/NDItMTY1OTY5NjAy/Ni00NjAwLmpwZWc.jpeg) | 1967 | Jack McDuff | Brother Jack McDuff Live! |
+| 1 |  | 1968 | Jimmy McGriff | The Worm |
+| 39 | ![Cover](https://i.discogs.com/Cv_VnHG706-F4B3HtuJxD_B56pu4YzP5nFZW9OjUSEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzc4/MTktMTM2Mzk3NTU2/NS0xNzU4LmpwZWc.jpeg) | 1968 | John Patton | Understanding |
+| 24 | ![Cover](https://i.discogs.com/wMJVuqjpn6J47TiAZl-MQ-QCL8ZcQCAouch9UqiaZR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzc0/Ny0xNTA0MTY2NjMx/LTczOTkuanBlZw.jpeg) | 1969-04 | Shirley Scott | Soul Song |
+| 67 | ![Cover](https://i.discogs.com/vnJCJxmnVIeOdBLlpEEi3HiGJleYkumqG7WzylgUHnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTIx/ODMtMTMxMzQ1NDkz/Ny5qcGVn.jpeg) | 1969-04 | Shirley Scott | Soul Sister |
+| 27 | ![Cover](https://i.discogs.com/x8EjL8ea86_-LpC9vd6GTADXmChz-Q7hMOT_QIK2bAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIx/MDE1LTE1ODY5NTI0/MzgtOTAwNC5qcGVn.jpeg) | 1970 | Jimmy Smith | A New Sound - A New Star |
+| 60 | ![Cover](https://i.discogs.com/Ejo7tpDuKzlRsVW353gdNl9AI8UZGZ7TGRSF-POHQU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzk0/MzktMTM3ODk2NzIx/Ni03NDgwLmpwZWc.jpeg) | 1970 | Jimmy Smith | Milestone Profiles: Jimmy Smith |
+| 69 | ![Cover](https://i.discogs.com/J4GS5B1JICWlZKaHrfdZvFTbcft3GXjrldWztGS8emc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjQ5/MTEtMTMyMzAwMzU2/My5qcGVn.jpeg) | 1970 | Shirley Scott | Workin&#39; |
+| 47 | ![Cover](https://i.discogs.com/McJhyx2wmmMYZpzWVoi-rc5QgVOCOwdf-4G7Kb1Gk78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjIx/NjgtMTQwODQ4MTM5/NS0xNjczLmpwZWc.jpeg) | 1971 | Rhoda Scott | Live At The Olympia |
+| 14 | ![Cover](https://i.discogs.com/qwy1qOjDl4_VBzFFKEcumXE6vOIt3j2gPKW3DXHN5qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODA4/NTYtMTQ3Mzk2Mzk5/My00NTQ4LmpwZWc.jpeg) | 1972 | Jack McDuff | The Re-Entry |
+| 40 | ![Cover](https://i.discogs.com/mT_hZ-Uxcn0XTghnCqZLiirQMuC-1mrsq-ALHeYWYOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODc2/MTctMTU4NjM5MDQ5/Ny04Mjc0LmpwZWc.jpeg) | 1972 | Jimmy Smith | Jazz Inspiration |
+| 41 | ![Cover](https://i.discogs.com/oaVOhWkdWVKXQbcLdD-gLv_fqvL_Cv2qgbVr6TLVHAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDk5/NDUtMTMwODQyNzcz/Ni5qcGVn.jpeg) | 1972 | Jack McDuff | It&#39;s About Time |
+| 88 | ![Cover](https://i.discogs.com/Gu9GLqYuH3k0w58GmijStJJoSJmijD5zNiql6N164Xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc3/NDg3LTE2MzgxMTkw/ODYtNjI1NS5qcGVn.jpeg) | 1972 | Jimmy Smith | Portrait |
+| 21 | ![Cover](https://i.discogs.com/97EKssOX0DccfV7-LLa0mMVNJew5DCwBlU2rJRXLjGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjk5/NTMtMTM0NjA3MjAy/NC04NTM1LmpwZWc.jpeg) | 1973 | Charles Earland | Charlie&#39;s Greatest Hits |
+| 37 | ![Cover](https://i.discogs.com/dHnCvb5IGq4S6rl_fmNy_7v6Pv2YTeOe-wte_5Pa_4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/ODktMTU5ODIwOTA4/NS04MzM0LmpwZWc.jpeg) | 1973 | Jimmy McGriff &amp; Groove Holmes | Giants Of The Organ In Concert |
+| 94 | ![Cover](https://i.discogs.com/z0V3DWLrUIy81_RnS_78a2V-7VH65jvXwadMa1otqcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDg3/MDYtMTY3MTM5OTgz/OC04NzI2LmpwZWc.jpeg) | 1973 | Lou Bennett | Now Hear My Meaning |
+| 2 |  | 1974 | Richard &quot;Groove&quot; Holmes | New Groove |
+| 44 | ![Cover](https://i.discogs.com/wN0xM_AJPrqdhRJ8AEdEI_TxEO432Nz6A5ghwDZgSSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDAz/NjUtMTI0NzEwNTUz/OS5qcGVn.jpeg) | 1974 | Jimmy McGriff &amp; Groove Holmes | Giants Of The Organ Come Together |
+| 96 | ![Cover](https://i.discogs.com/BIQH80N9-AyIkaftUuNlUiZpMG-k5YIpnLGxwcmHNVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjgy/OTk1LTE2MzE5OTcw/NDEtODA2Ni5qcGVn.jpeg) | 1974 | Rhoda Scott | Ballades N°2 |
+| 30 | ![Cover](https://i.discogs.com/iTXqM0Z6_fbo7mxo3HzJDKDXsmlvsGjylZSsUC4lo0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDky/NDctMTQwNDAzNTU0/NS0yMzk5LmpwZWc.jpeg) | 1976 | Jimmy Smith | Cool Blues (The Rudy Van Gelder Edition) |
+| 77 | ![Cover](https://i.discogs.com/0aPGqC44Qt6DFYXcZ39tpsxpbEG28c-lj-Vqh4uFv_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzIw/OTAtMTM2ODg4MjUw/Ny0zMDY0LmpwZWc.jpeg) | 1976 | Rhoda Scott | Hello Dolly |
+| 11 | ![Cover](https://i.discogs.com/GyTq0u6yW9uXgxpQV-q5rSYWGmtJzZWcs8yDL7zAAZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ0/NzUtMTU4NjUzMTc2/OS0zNjkwLmpwZWc.jpeg) | 1977 | Jimmy Smith | Jazz Masters 29 |
+| 51 | ![Cover](https://i.discogs.com/BmDXUQ-fgqh2hJea6LILQYM-okr2htMO3hXTn7aV3ww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTEw/OTYtMTQ1NDk1OTc3/NC02MDgzLmpwZWc.jpeg) | 1977 | Jimmy Smith | Finest In Jazz |
+| 92 | ![Cover](https://i.discogs.com/LZjAYNcOX0Z6al3XE_FMg56CDZAhn8JuqL6r8aKgO8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDQ2/NjMtMTY3Mjc3OTA0/OC02MjgyLmpwZWc.jpeg) | 1977 | Rhoda Scott &amp; Kenny Clarke | Jazz in Paris |
+| 10 | ![Cover](https://i.discogs.com/fNq9vOwCUWnBxUe2A6j30LuCoT0rLBDqHUmorLjVNCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzI2/OTYtMTMwODQyODA2/Ny5qcGVn.jpeg) | 1980 | Jack McDuff | Live! |
+| 45 | ![Cover](https://i.discogs.com/oaVOhWkdWVKXQbcLdD-gLv_fqvL_Cv2qgbVr6TLVHAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDk5/NDUtMTMwODQyNzcz/Ni5qcGVn.jpeg) | 1980 | Jack McDuff | Crash! |
+| 83 | ![Cover](https://i.discogs.com/hfzC8-lkhxjtHv6HKbNYxyFgIjclBEadVbjhsW0qu-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjI2/ODItMTQ1NjE1MzMy/Mi0xMjMzLmpwZWc.jpeg) | 1980 | Bill Doggett | Bill&#39;s Honky Tonk |
+| 100 |  | 1980 | Rhoda Scott | Alone |
+| 58 | ![Cover](https://i.discogs.com/my8OgPS-zLVsxWRhzl8fto52w1oTTTahdpC_6LsxJOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTU2/NzYtMTQ2Mjc2MDI5/NS0xOTg3LmpwZWc.jpeg) | 1982 | Bill Doggett | Honky Tonk (Part 1) &#x2F; Honky Tonk (Part 2) |
+| 61 | ![Cover](https://i.discogs.com/Td-41YYppxRP4Z3OJHFU9V2WEofw21-rgjSIoL0bsro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTE1/ODAtMTIzMjM5NjY4/NS5qcGVn.jpeg) | 1983 | Jimmy Smith | Milestone Profiles |
+| 89 | ![Cover](https://i.discogs.com/q81HU5g7-9AjGtP3-sWUSpuDltJySGykg3A5wvaTWs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjMz/MDQtMTQ5Nzg4MjQ5/Ni02Njk2LmpwZWc.jpeg) | 1983 | Jack McDuff | Best of the Concord Years |
+| 78 | ![Cover](https://i.discogs.com/AXUaqcJ17oGkP_Ej1S1QBRoYD_V17N2V3-z92lFpTKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjg4/OTc2LTE1MzIyNDIy/NzEtNTA4OC5qcGVn.jpeg) | 1986 | Lou Bennett | Blue Lou&#39;s Blues |
+| 57 | ![Cover](https://i.discogs.com/McM-l6ZBd8_vzguVShzRp1jSFDQfmcDcZ6HXwEAzicY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTc4/NTQ0LTE1MDc1NjU1/MDItOTEyNy5qcGVn.jpeg) | 1987 | Bill Doggett | The Right Choice |
+| 4 | ![Cover](https://i.discogs.com/BnvpmCVC2uNCmgTN1rvHujdQNH7yGfej7pRKA1jx3BI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTQ3/NDAtMTQzMzgwMjk0/OC01MjU1LmpwZWc.jpeg) | 1987-11-16 | Harry Connick, Jr. | Harry Connick, Jr. |
+| 5 | ![Cover](https://i.discogs.com/GwA5wb3h2aPF18zKCNbRgrdJGKzPDiX8cv9DAtNrjRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzA0/NjQtMTI4MTY2Mzc5/NS5qcGVn.jpeg) | 1988 | Jack McDuff | The Prestige Years |
+| 73 | ![Cover](https://i.discogs.com/d10OrlOrvnlg06AesAI_F7MN93653MzsW3ix_QyNYAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQ5/OTQ2LTE2MDM5OTU1/ODctMjYwNS5qcGVn.jpeg) | 1989 | Shirley Scott Trio | For Members Only &#x2F; Great Scott!! |
+| 82 | ![Cover](https://i.discogs.com/wMmC8RGJCIpGJY915Lc669k3H75cpl6HeCOrDQsPlgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTY3/NDQtMTY4OTE4ODcw/My05ODQxLmpwZWc.jpeg) | 1989 | Joey DeFrancesco | All About My Girl |
+| 98 | ![Cover](https://i.discogs.com/wMmC8RGJCIpGJY915Lc669k3H75cpl6HeCOrDQsPlgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTY3/NDQtMTY4OTE4ODcw/My05ODQxLmpwZWc.jpeg) | 1989 | Joey DeFrancesco | All in the Family |
+| 25 |  | 1991 | Jimmy Smith | Fourmost |
+| 48 | ![Cover](https://i.discogs.com/8gPJ1vFeR7W5EwcF9_ZwJnWBK_azzSdRUmccKy-9yd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzg4/MTAtMTQzNjI2NTAy/Ny00NzIxLmpwZWc.jpeg) | 1991 | Jimmy McGriff | Best of Jimmy McGriff |
+| 66 | ![Cover](https://i.discogs.com/kDJPGv7Gx32pDNItjUWS6tVhCyKa17Qd4Qrw00E-Ljk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDg1/MTMtMTQ2NTA0NzE4/MS04MTI4LmpwZWc.jpeg) | 1991 | Rhoda Scott | Summertime |
+| 79 | ![Cover](https://i.discogs.com/IPSlLYd-AfcyAL0Tjdtru0YK7SK2TiWalNjd6WF9eNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NzUx/MjAtMTQ4NDU4MDg1/NC03NzM3LmpwZWc.jpeg) | 1991 | Rhoda Scott | Jazz In Paris - Rhoda Scott + Kenny Clarke |
+| 76 | ![Cover](https://i.discogs.com/5Jn5eGa8njpNcMTYjOYfXfjlgZ3A6N6isTWy2tTndgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjcw/MzUxLTE1MTMxMTY0/OTAtMjM5OS5qcGVn.jpeg) | 1991-07-01 | Jimmy Smith | Compact Jazz: Jimmy Smith |
+| 23 |  | 1992 | Jimmy McGriff | Funkiest Little Band in the Land |
+| 55 | ![Cover](https://i.discogs.com/8fwvz-Zjcs9JVjCAoa-sPSOS63On02Ea-Wod-lMoZxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjEz/NjQtMTQ1NjMyMDU5/OS00MTY0LmpwZWc.jpeg) | 1992 | Barbara Dennerlein | That&#39;s Me |
+| 99 | ![Cover](https://i.discogs.com/SiNXB-9MCiD_gFS5MyGWKD7CJFtUteWlkf55bUlnWDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODQ1/MjYtMTQwODA4MzQ4/Ny0yNDEzLmpwZWc.jpeg) | 1992 | Rhoda Scott | Frame For The Blues |
+| 32 | ![Cover](https://i.discogs.com/NwBS1oHlINkH3unNnihxeYItsoVWA5MqpFIHqolgTX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjI0/ODItMTM5MDUxNDQw/NS03NDg1LmpwZWc.jpeg) | 1993 | Joey DeFrancesco | Live at the 5 Spot |
+| 52 | ![Cover](https://i.discogs.com/Spq3zeTg8V1GfRcolRR1xKANKAJnrJBsS_hQkpi6z7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMy/MjA3LTE1NTIyMzU2/NjgtODQ0MC5qcGVn.jpeg) | 1993 | Jack McDuff | Write On, Capt&#39;n |
+| 90 | ![Cover](https://i.discogs.com/dw_Uoor4NttClOgx7BjdbVJZGordc30lgC05odOyzcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg3/NTQ3LTE2MjcyNDI2/MjMtOTcyNS5qcGVn.jpeg) | 1994-03-16 | Shirley Scott | Oasis |
+| 50 | ![Cover](https://i.discogs.com/dw_Uoor4NttClOgx7BjdbVJZGordc30lgC05odOyzcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg3/NTQ3LTE2MjcyNDI2/MjMtOTcyNS5qcGVn.jpeg) | 1994-11-08 | Shirley Scott | Roll &#39;Em |
+| 26 |  | 1995 | Bill Doggett | All His Hits |
+| 9 |  | 1995-06-30 | Joey DeFrancesco | The Street Of Dreams |
+| 19 | ![Cover](https://i.discogs.com/uyZVB8Lk1kzTOuvov9e6YvWToPm4OI_Wcyhmsdkfje4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjcx/ODUtMTI0NjAzNTc5/MC5qcGVn.jpeg) | 1995-09-26 | Jimmy Smith | Walk On The Wild Side: Best Of The Verve Years |
+| 12 | ![Cover](https://i.discogs.com/Q8FCX52H0TzXerUQUsUwZ6RCcsZIXygtKNvi0zYcwWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODUw/MTMtMTM5OTg3MDU1/OC0zMjMwLmpwZWc.jpeg) | 1996 | Richard &quot;Groove&quot; Holmes | After Hours |
+| 17 |  | 1996 | Shirley Scott | A Walkin&#39; Thing |
+| 43 | ![Cover](https://i.discogs.com/u5KOeEOPbV_L8uhLjKHvK6UoDDpjW9HXbNOmRS6xCtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjYz/MzAtMTI3OTkwNjUy/OC5qcGVn.jpeg) | 1997 | John Patton | Accent On The Blues |
+| 7 | ![Cover](https://i.discogs.com/vt6HPMqEvKqDv0gVX7WcZ1Rw7HbB_WoboK-FOkVVq14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzk1/NjUtMTQ1Mzk2MDI2/My02NzYwLmpwZWc.jpeg) | 1997-06-17 | Jimmy McGriff | Greatest Hits |
+| 22 | ![Cover](https://i.discogs.com/_1nRsrsG6PLwCjqJ9ysFCh3mSHAWQcD9XKbVvdfkDE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzc5/NzQtMTM5MTg5MjYz/Ni0yMTI5LmpwZWc.jpeg) | 1999 | Shirley Scott | Blues Everywhere |
+| 65 | ![Cover](https://i.discogs.com/3hVNWYP2_hihL7PmdK7EkoT7CPzKvmqexAtSfizWGHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTY0/OTctMTM0NzA2NjUx/Mi0zOTAwLmpwZWc.jpeg) | 1999 | Gene Harris &amp; Brother Jack McDuff | Down Home Blues |
+| 54 | ![Cover](https://i.discogs.com/x4B70L3h12b9sEaR-fZFwWg4msUY2HGavkQh3MO7SJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjY3/Mzg3LTE1NTEwMzUw/MTAtMzA3NC5qcGVn.jpeg) | 2000 | Rhoda Scott | Take A Ladder |
+| 68 | ![Cover](https://i.discogs.com/kmKgqfvbro6LYg8HdBTHK8x7VMDs2E88Q_TX0CvVCXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzQ5/MjktMTU1MTAzNDI4/Ni02NzQyLmpwZWc.jpeg) | 2000 | Rhoda Scott | Take Five |
+| 74 | ![Cover](https://i.discogs.com/BIQH80N9-AyIkaftUuNlUiZpMG-k5YIpnLGxwcmHNVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjgy/OTk1LTE2MzE5OTcw/NDEtODA2Ni5qcGVn.jpeg) | 2000 | Rhoda Scott | Ballades N°1 |
+| 53 | ![Cover](https://i.discogs.com/aNCn8xk_M6rGhDjW1w06XpZVo7Ku8d0ErYoSD_kQElk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzU5/MzAtMTUwMDI5MDY4/MC0yODQ0LmpwZWc.jpeg) | 2001 | Lou Bennett | Pentacostal Feeling |
+| 3 | ![Cover](https://i.discogs.com/vlhyE9qeQAao7rL4VrNN1Pp0injxP_7-ywyQx6a1GYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDk5/MDAtMTQ5ODY2MjA5/NC04MTk5LmpwZWc.jpeg) | 2002 | Lonnie Smith | Afrodesia |
+| 29 | ![Cover](https://i.discogs.com/y0LRLtHqmZZIYbtIyA-N4ZSQ6RUZFMqcgvk2LwnHL5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDI1/MzEtMTM5MzY0MDQz/OS0xNTIwLmpwZWc.jpeg) | 2002 | Jimmy McGriff | McGriff Avenue |
+| 59 | ![Cover](https://i.discogs.com/6RVix4NrHenURUju6q47iP8gwJpglamVxt13x-uYbjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjMz/NDItMTIyMzM5NDE5/My5qcGVn.jpeg) | 2003 | John Patton | Got A Good Thing Goin&#39; On |
+| 71 | ![Cover](https://i.discogs.com/6RVix4NrHenURUju6q47iP8gwJpglamVxt13x-uYbjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjMz/NDItMTIyMzM5NDE5/My5qcGVn.jpeg) | 2003 | John Patton | Got a Good Thing Goin&#39; |
+| 91 | ![Cover](https://i.discogs.com/9Mdsmyhunb2k2ZoN_ddCXfd5QvjzhTMmXBxnvCX7NSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDk0/MTItMTM1OTY4NjEz/OC04MjAzLmpwZWc.jpeg) | 2003 | Rhoda Scott | Encore Encore Encore |
+| 80 | ![Cover](https://i.discogs.com/hfzC8-lkhxjtHv6HKbNYxyFgIjclBEadVbjhsW0qu-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjI2/ODItMTQ1NjE1MzMy/Mi0xMjMzLmpwZWc.jpeg) | 2004 | Bill Doggett | Bill&#39;s Honky Tonk : Bill Doggett |
+| 34 | ![Cover](https://i.discogs.com/Pev6o2TF8gkMnoqKH7cmh_hhF8Dw5PFQQqpXKYAi0Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQ4/Njc0LTE1OTg5MDYx/OTEtNzA0OC5qcGVn.jpeg) | 2005-10-01 | Tony Monaco | East to West |
+| 46 |  | 2007 | Joey DeFrancesco | LIVE: The &quot;Authorized Bootleg&quot; |
+| 6 | ![Cover](https://i.discogs.com/AxLaRY5BxTSzRc-67pyoHGcDdHdq7VAdSjsRj2MyisY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDY3/NzAtMTI3MjEzNzIz/Ny5qcGVn.jpeg) | 2008 | Medeski, Martin and Wood | Radiolarians I |
+| 8 | ![Cover](https://i.discogs.com/1FVCsyDprKCnPuRRc-2_UHIqynxvBRpq9kt4_fEKcyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mjg2/ODUtMTI5ODQ2MDk2/NS5qcGVn.jpeg) | 2008 | Medeski, Martin and Wood | Last Chance To Dance Trance |
+| 35 |  | 2008-04-22 | Jimmy Smith | Live At The Village Gate |
+| 38 | ![Cover](https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg) | 2009 | Various Artists | Hip Hammond And Soulful Grooves |
+| 81 | ![Cover](https://i.discogs.com/KJsDfO2DToWqMD_vocxTODsEm3WNC7jBayAT2eTfJzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDkz/MDgtMTYxNzYzNzE5/OS01OTUxLmpwZWc.jpeg) | 2015-10-29 | Bill Doggett | The Very Best of Bill Doggett Honky Tonk |
+| 84 | ![Cover](https://i.discogs.com/tcrZzSFnZNop1Mo30dI01NdENU4ys5GCIuO2LNLbno8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTA4/NzktMTU0NjM1MjE3/Ny05ODQyLmpwZWc.jpeg) | 2017 | Wild Bill Davis | Wild Bill Davis At Birdland |
+| 97 | ![Cover](https://i.discogs.com/0zjTcFpcpu75Ov0Ltq2nSM9fCE1cW4bARfDMrLZu4mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjUw/MTItMTQwODQ5MTQ0/Ni0xOTQ3LmpwZWc.jpeg) | 2018-01-19 | Rhoda Scott | Encore, Encore, Encore... |
+| 85 | ![Cover](https://i.discogs.com/wJCSroKGSQVzzoJcaMV9SeMSK9OpmiStsiYEH32Hsis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjcy/NzMxLTE2Mzg5NTk3/OTMtNTkwMy5qcGVn.jpeg) | 2021-11-28 | John Patton | The Organisation |
+
+### Related genres
+
+- [jazz]({{ "/tags/jazz" | relative_url }})
+- [hammond]({{ "/tags/hammond" | relative_url }})
+- [organ]({{ "/tags/organ" | relative_url }})
+- [funk]({{ "/tags/funk" | relative_url }})
+- [soul]({{ "/tags/soul" | relative_url }})
+- [blues]({{ "/tags/blues" | relative_url }})
+- [rnb]({{ "/tags/rnb" | relative_url }})
+- [jazz piano]({{ "/tags/jazz-piano" | relative_url }})
+- [soul jazz]({{ "/tags/soul-jazz" | relative_url }})
+- [jazz trio]({{ "/tags/jazz-trio" | relative_url }})

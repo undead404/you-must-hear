@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T08:04:42.065Z
+permalink: tags/dixieland
+title: dixieland
+---
+
+## dixieland
+
+Last updated: <time datetime="2025-10-22T08:04:42.065Z">Wed Oct 22 2025 11:04:42 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 4 |  |  | Greg Poppleton &amp; his Bakelite Dance Band | Doin&#39; The Charleston |
+| 7 |  |  | Dixie Bubbles Jazz Band | Be Happy |
+| 16 |  |  | Dukes of Dixieland | New Orleans Mardi Gras |
+| 19 |  |  | Big Tiny Little Jazz Band | I Love Dixieland Jazz |
+| 33 |  |  | The Ultimate Jazz Archive Set 35 | Bunny Berigan |
+| 40 |  |  | Jabbo Smith&#39;s Rhythm Aces | Take Me To The River |
+| 42 |  |  | The Gomorran Social Aid and Pleasure Club | ryan beebe: live hits |
+| 74 |  |  | The Gomorran Social Aid and Pleasure Club | unhappy&#x2F;happy EP |
+| 93 |  |  | Meschiya Lake and the Little B | Lucky Devil |
+| 67 | ![Cover](https://i.discogs.com/F0N0X6lnOR2nB8VxfWhk8HIgCY7WmiPb27bGFKn_kWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI5/MjAxLTE1MTQzMzY5/NTgtMjAwOS5qcGVn.jpeg) | 1938 | Johnny Dodds And His Chicago Boys | King of the Blues Clarinet 1923 - 1940 |
+| 2 | ![Cover](https://i.discogs.com/vm_QBHDtTTQr6DriH_6drScKiCt6mYerY1RV0qeEipQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzU4/ODI5LTE1NjA1MDQ4/MzQtNzc1OC5qcGVn.jpeg) | 1954 | Dutch Swing College Band | Dixie Party |
+| 15 | ![Cover](https://i.discogs.com/zJOmoSuFVMs7BEkHfCqda7yTVrvkJCfCkCfTlMEakR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc1/NTk3LTE2MDEyMTM3/NDktNDU5Ny5qcGVn.jpeg) | 1955 | Chris Barber&#39;s Jazz Band | Getting Around |
+| 39 | ![Cover](https://i.discogs.com/BYeGSM8w1AJJ5yU2sfQ9oYlcSHOtioyg4dhEz1x6BIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzcw/NjItMTMzOTk2NDk0/NC05MjY4LmpwZWc.jpeg) | 1955 | Bud Freeman | Chicago&#x2F;Austin High School Jazz in Hi-Fi |
+| 56 | ![Cover](https://i.discogs.com/9yN8IusYu1McshgMFhY3X8Yus8zIG9yBph5G6ndopk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTg4/NDk1LTE0OTMwOTMz/MDktNDczMC5qcGVn.jpeg) | 1956 | Pee Wee Russell | We&#39;re In The Money |
+| 90 | ![Cover](https://i.discogs.com/kWuDKLDay2v56QfArRNyZ7G75_ORCUzFSPLoCLsp-5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODQy/MDUtMTM5OTgzOTQy/OC04NDE1LmpwZWc.jpeg) | 1957 | Louis Prima | The Wildest Show At Lake Tahoe |
+| 45 | ![Cover](https://i.discogs.com/vtR_XTh2GCqpGSLDrJZLG5Tlf_sR8KYExr5m4aGsrC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjA5/MTUtMTM1MjYwMTA5/MS04OTM5LmpwZWc.jpeg) | 1958 | Muggsy Spanier | The Ultimate Jazz Archive 7 (1 Of 4) |
+| 10 | ![Cover](https://i.discogs.com/VO4ucMhsSZaAM6Sy2VLx6h4qi0JIUN3lYhr9VZe82ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODEz/MTA5LTE1OTgzNTUz/NTMtNDQ3Ni5qcGVn.jpeg) | 1959 | Louis Armstrong | Tells The Story Vol.2 (1928-1932) |
+| 17 | ![Cover](https://i.discogs.com/Dm3KoE9vsmmn7gmHHsFYw18T-DmWn9-dfbiygnWpZL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Nzg1/MDItMTM2OTM2ODE2/NC01NTMyLmpwZWc.jpeg) | 1959 | Chris Barber&#39;s Jazz Band | Best of Dixieland |
+| 21 | ![Cover](https://i.discogs.com/WDn9GS5_f2GEpXvR6tlxWxiDCednrGkIv5flesJH1qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjM2/MzMtMTMzOTQwNTY1/OC0yMTY4LmpwZWc.jpeg) | 1961 | Alex Welsh | Just One More Chance |
+| 66 | ![Cover](https://i.discogs.com/rlIZTmNuGr39XKq28036ZLlRFKdd7Q-fmfZuP-YqUoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTg2/NzMtMTQyNzYxNzIz/MS01OTcwLmpwZWc.jpeg) | 1961 | Humphrey Lyttelton and His Band | Simply The Best British Jazz From The 1950s |
+| 89 |  | 1963 | Al Hirt | Honey in the Horn |
+| 77 |  | 1964 | Al Hirt | Cotton Candy |
+| 6 | ![Cover](https://i.discogs.com/L-kmXsCMT9LFtInXSibOjNFilpYGrABXErph_YLPUOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjU5/MDYtMTMwOTc2NTQ5/My5qcGVn.jpeg) | 1965 | Warsaw Stompers | New Orleans Stompers (1964) |
+| 38 | ![Cover](https://i.discogs.com/MUHR2T93PACsKL3-8Qff4AeIlysaq-n0yScDSIlbQxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzA2/NDUtMTU0NjAxMzIz/Mi02MjYwLmpwZWc.jpeg) | 1965 | Bing Crosby &amp; Rosemary Clooney | That Travelin&#39; Two-Beat |
+| 95 | ![Cover](https://i.discogs.com/nlen3cJOZhagGl9QMSXzlL17jF7zCr80tF_Jq54JYnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTY4/MTA3LTE1NzcyNzcw/MDEtOTUyOC5qcGVn.jpeg) | 1965 | Eddie Condon | Dixieland |
+| 65 | ![Cover](https://i.discogs.com/k-GPrtzFyIfhCaS_7Rf2DTc7aRCR3gkvrCo-GHdu4Lk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAz/NjMtMTU4NzM4NTgx/OS0yMTc1LmpwZWc.jpeg) | 1966 | Original Dixieland Jazz Band | Pioneer Recording Bands 1917-1920 |
+| 9 | ![Cover](https://i.discogs.com/0sEBuALdF7LcTaNvcd3hisgCaasgd_tfaA9JfTjvBBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzA2/NjEtMTM5MzE3Mjg5/OS03NzQzLmpwZWc.jpeg) | 1968 | The Dukes of Dixieland | Hearing Is Believing! |
+| 28 | ![Cover](https://i.discogs.com/wpcCKyqnMQhzTTug3kA-DlB0Re8OI_Gvtr7FF96nGmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjYy/NzgtMTQzMzU4MTY2/Mi0zMDM2LmpwZWc.jpeg) | 1972 | Muggsy Spanier | The Very Best Of |
+| 44 | ![Cover](https://i.discogs.com/hTdKrjKGne5B5l1c9U9vAX0T1VhphBGJ1PngDHUmnT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTEw/MTUtMTM4MTcxNDAx/Ny05MzM5LmpwZWc.jpeg) | 1972 | Turk Murphy&#39;s Jazz Band | The Very Best New Orleans Jazz |
+| 60 |  | 1972 | Various Artists | Masters of Classic Jazz: Dixieland |
+| 35 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 1973 | Various Artists | The Sounds of Earth: Voyager Golden Record |
+| 70 | ![Cover](https://i.discogs.com/jFdU8lKmLkW97w6IhuQ7NBnjUjLWH7pBDOdnf8JBdow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDc4/MTEtMTU5MjA0OTY2/MS02MzQwLmpwZWc.jpeg) | 1973 | Eddie Condon | Eddie Condon |
+| 49 | ![Cover](https://i.discogs.com/KgiW5zdFGpq7J7MIR_v4CFCaOR2JlNMnTvtE0UE3FW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTE3/NjktMTY4MjM2NDcz/Ny03MTcyLmpwZWc.jpeg) | 1974 | Sidney Bechet | Jam Session |
+| 75 | ![Cover](https://i.discogs.com/lxiHaAXjbyWAVyTkeCEvpgi-1c9XvuzpJOEjvHO-8JY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjIx/MDQ4LTE1NTc2ODg5/MDAtNjQ5OS5qcGVn.jpeg) | 1975 | New Orleans Jazz Band | Best of Dixieland |
+| 31 | ![Cover](https://i.discogs.com/RhzDsjV55p4VOvc-4JBHjBURVU3CKWgIhI0p_Yd405M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTU1/MzItMTQwODg4MjAy/MC0xMTQxLmpwZWc.jpeg) | 1976 | Muggsy Spanier | Muggsy Spanier- Volume 3 |
+| 1 | ![Cover](https://i.discogs.com/xZl6U7wdbFdsZ32WYQ6zusI7FK8YM_sYaQJ8Fpg5Y-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTEw/OTItMTcwOTE0Mzc3/MS00MzM4LmpwZWc.jpeg) | 1978 | Bunny Berigan | You&#39;ve Got Everything |
+| 20 | ![Cover](https://i.discogs.com/DD23w4LBl77G2JNB5YwyjdBic6PzKuf5jtTDD2RNDFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODE3/ODgtMTQ0MDI3NzY0/OS01MDczLmpwZWc.jpeg) | 1979 | Muggsy Spanier | Mug Shot |
+| 25 | ![Cover](https://i.discogs.com/hTib46ix_y-bFuRacigrSV0TD8zhNdJUG7NwE8zPlD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTgw/OTAtMTU2ODM2MzI1/Mi0yMzE1LmpwZWc.jpeg) | 1983 | Original Dixieland Jazz Band | Sensation |
+| 34 | ![Cover](https://i.discogs.com/5Ott4PsviKdXO0Ozm71JvhKT_ju0OXoaP00sl05xDaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzI1/MDcxLTE2NTMyOTkw/NzItODUwMy5qcGVn.jpeg) | 1983 | Original Dixieland Jazz Band | St. Louis Blues |
+| 37 | ![Cover](https://i.discogs.com/5Ott4PsviKdXO0Ozm71JvhKT_ju0OXoaP00sl05xDaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzI1/MDcxLTE2NTMyOTkw/NzItODUwMy5qcGVn.jpeg) | 1984 | Original Dixieland Jazz Band | The Return |
+| 54 | ![Cover](https://i.discogs.com/5HbOVK-iy7f1_1d4Y6iYRBe5beovZPCBgGbCufOSRBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDA5/NzA5LTE1NTM2NTc1/NTAtMTEyOC5qcGVn.jpeg) | 1984 | Muggsy Spanier | Mahattan Masters 1945 |
+| 92 | ![Cover](https://i.discogs.com/TvkNzpQ0JA5FW2sppRRSYgs5oHz7M4pBvTGZgDWvIwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mzg1/MDgtMTQ2OTg0MzU0/Ni00MTI4LmpwZWc.jpeg) | 1984-09-21 | Toshiyuki Honda | Metropolis |
+| 5 | ![Cover](https://i.discogs.com/9bkd6ydGmULLWeJBaIoKlaV1omOh-C9qFB8KzM0kv8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTk3/MjEtMTQwMDQ0ODIx/Ny03NDYyLmpwZWc.jpeg) | 1986 | Bunny Berigan | Bunny Berigan - 1937 |
+| 57 |  | 1988 | Various Artists | Thalassa - Louisiane et Nouvelle Orleans |
+| 63 | ![Cover](https://i.discogs.com/mY6ibAHt46yseARmCQFF9RB6SlAEYa7q2u9vidQFj6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzU1/MTMtMTM2MDQzMjg5/NC03NTU5LmpwZWc.jpeg) | 1988 | Sidney Bechet | SIdney Bechet 1932 - 1952 Original Recordings |
+| 72 | ![Cover](https://i.discogs.com/64a1yfVs0mFmFIxkFpH4GyxQqYbhXI7N-EQUw5HA6C4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE1/MDQ3LTE0OTM1MzMx/MTEtOTgxNC5qcGVn.jpeg) | 1990 | Turk Murphy | Favorites |
+| 30 | ![Cover](https://i.discogs.com/07ZNNJTI5PcYT2wsNu8CyaNxhT0NW3Mf2U9WXwoCK38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDkx/MjMtMTYwNjQ5NjQ0/MC04NDk0LmpwZWc.jpeg) | 1991 | Bud Freeman | Something To Remember You By |
+| 58 | ![Cover](https://i.discogs.com/5zDTsQ4BoqTe5-cwrZ8U0Ly2nBw7Ar1gpsTNs03ALPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjAz/OTUtMTQ1ODE1MTY1/NC04NDg5LmpwZWc.jpeg) | 1992-03-10 | Original Dixieland Jazz Band | The 75th Anniversary |
+| 78 |  |  | The Gomorran Social Aid and Pleasure Club | The Gomorran Social Aid And Pleasure Club |
+| 79 |  |  | Michael Garlington | Baloney Pony!!!!!! |
+| 81 | ![Cover](https://i.discogs.com/f-dMI6AmhfbQeUCmvUZZLcga7bcwhEdC461hK1fh-Yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Nzk1/NjAtMTY3ODMzMTA2/MC0yMTU4LmpwZWc.jpeg) | 1946 | Rudy Vallee &amp; His Connecticut Yankees | Songbook |
+| 83 | ![Cover](https://i.discogs.com/Sn4seJfMPJTdUVNJZSvzMFg1E7nYL_RtNSniiKo7eLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDY4/MjE2LTE2MjYxMDkx/OTUtNDY3Ny5qcGVn.jpeg) | 1959-12-22 | Chris Barber | Barber, Ball And Bilk |
+| 96 | ![Cover](https://i.discogs.com/wGU1b2iOVxmmO4Ogao_0jORBG8gTAtvgyGqi7kR9cdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTc4/NjYtMTU4Nzg5MDIy/OC02MDcxLmpwZWc.jpeg) | 1979 | Louis Armstrong | Louis Armstrong Plays W. C. Handy |
+| 94 | ![Cover](https://i.discogs.com/aJKIswXIcOVbv7Mjaf90mdIY0LhErRxhE4EzRlsYa0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQx/MjgtMTI4NDQyNDYx/NS5qcGVn.jpeg) | 1989 | Louis Armstrong | The Complete Hot Five And Hot Seven Recordings Volume 1 |
+| 80 |  | 1992 | Sidney Bechet | The Collection |
+| 87 | ![Cover](https://i.discogs.com/pC_kEFt45kc-7S4Sy5tvtQGUNdiktD3o9Ay5nUBi4z0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjM4/MDMtMTM3MDI2NDQz/OS0zODY4LmpwZWc.jpeg) | 1992 | Original Dixieland Jazz Band | The Complete Original Dixieland Jazz Band |
+| 11 | ![Cover](https://i.discogs.com/RJ-8CJx_ofBbMT7-2cZbucgzRLcCnFATcgX-GLkAc4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjky/NjIxLTE1MDg5MTQ4/ODItNTk0MC5qcGVn.jpeg) | 1993 | Muggsy Spanier | 1944-1946 |
+| 88 | ![Cover](https://i.discogs.com/nyuaD_p-UcHjJMfX33qf9fDoBw9BUFOSE_qeIIDpPtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQz/OTA5LTE1ODg1OTMy/ODUtMTUxMS5qcGVn.jpeg) | 1993 | Muggsy Spanier | 1939-1944 |
+| 46 | ![Cover](https://i.discogs.com/Rtu0S3vLvGteW6nndlqxI4_BXOb4efoyNhr5tzaLJq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIx/MTE1LTE2MDIwMTg3/NjMtNTMxMS5qcGVn.jpeg) | 1994 | Muggsy Spanier | Complete Jazz Series 1939 - 1942 |
+| 26 | ![Cover](https://i.discogs.com/Rtu0S3vLvGteW6nndlqxI4_BXOb4efoyNhr5tzaLJq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIx/MTE1LTE2MDIwMTg3/NjMtNTMxMS5qcGVn.jpeg) | 1995 | Muggsy Spanier | The New Orleans Sessions |
+| 64 |  | 1996 | Terry Scott Taylor | Neverhood Songs |
+| 32 | ![Cover](https://i.discogs.com/tOT3R2XHJgglMNWFujYYnE8QiTdGrGOuzukPLndRhYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI1/NDU2LTE1MzY5Nzc2/NzEtMzc2My5qcGVn.jpeg) | 1998 | Pee Wee Hunt | 12th St. Rag |
+| 68 | ![Cover](https://i.discogs.com/Qpnmle-oxO33lUK5WRUPEx9R6WPxg3F4pozm27ep6eY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDYy/NDEtMTU0NDI3MjM2/OC00OTQ1LmdpZg.jpeg) | 1998 | Kid Ory | Ory&#39;s Creole Trombone |
+| 76 | ![Cover](https://i.discogs.com/mUUct3UF_yWbkzj0ONNLer03hyFYlj9jJ_M7-DBCBxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM0/ODQ3LTE1NjIxODIy/MjktODA2OS5qcGVn.jpeg) | 1999 | Bunny Berigan | All Star Broadcasts |
+| 73 | ![Cover](https://i.discogs.com/4jqFqzhKH9KprfArs38ACEb-0Ec3Wg1pJfUAwCftqpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzUx/MDg0LTE1ODA4NzEz/MDgtNDE5OS5qcGVn.jpeg) | 2000 | Muggsy Spanier | Muggsy Special (1924 to 1954) |
+| 84 | ![Cover](https://i.discogs.com/6nHwlOi12SLnZRFbBwS2-P_ZM0b-CAGdGq9rMiI-WGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDM2/ODgtMTQ0NTc5MjAw/Ny04MDczLmpwZWc.jpeg) | 2000 | Bennie Moten&#39;s Kansas City Orchestra | Okeh Sessions Plus Victor Alternative Takes |
+| 97 | ![Cover](https://i.discogs.com/8G09pFjHho5V72vgEMbKT2gjf5YUKk_rhqrg1L1AAj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/MjktMTM2OTU0Mjc5/My0zODQ5LmpwZWc.jpeg) | 2000 | Louis Armstrong | The Complete Hot Five and Hot Seven Recordings |
+| 50 | ![Cover](https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg) | 2000-06 | Various Artists | Victrola Favorites: Artifacts From Bygone Days |
+| 52 | ![Cover](https://i.discogs.com/sB2JVTGnZkDsM2qKswZfkgPDUKEfk4fOHyqu-jL6DMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE0/NjkwLTE1MjI5Nzkw/NzItMjg5Ny5qcGVn.jpeg) | 2000-09-12 | Joe Sullivan | Piano Solo |
+| 29 | ![Cover](https://i.discogs.com/hTib46ix_y-bFuRacigrSV0TD8zhNdJUG7NwE8zPlD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTgw/OTAtMTU2ODM2MzI1/Mi0yMzE1LmpwZWc.jpeg) | 2001 | Original Dixieland Jazz Band | 80 Years of Jazz |
+| 59 | ![Cover](https://i.discogs.com/k-GPrtzFyIfhCaS_7Rf2DTc7aRCR3gkvrCo-GHdu4Lk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAz/NjMtMTU4NzM4NTgx/OS0yMTc1LmpwZWc.jpeg) | 2001 | Original Dixieland Jazz Band | In London 1919-1920 Plus the Okeh Sessions 1922-1923 |
+| 61 |  | 2001 | Original Dixieland Jazz Band | The Creators Of Jazz |
+| 91 | ![Cover](https://i.discogs.com/Yjoc75n-2NysceDCr_wCFJl8V_MqYRHm2OMgUVRQr6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDky/MDMtMTMyOTI3NzEw/OC5qcGVn.jpeg) | 2001 | Kermit Ruffins | 1533 St Philip Street |
+| 99 |  | 2001-01-09 | Sidney Bechet | The Fabulous Sidney Bechet |
+| 14 | ![Cover](https://i.discogs.com/FtMZ4OL6CumyayI5cY5MHLdT5PaurSBlGB2gotx6txM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTAw/MTkwLTE2ODc4MDIw/NjEtODE3Mi5qcGVn.jpeg) | 2002 | Sidney Bechet | Compilation |
+| 22 | ![Cover](https://i.discogs.com/_BpnCsZYjTvQVEMRxtWaLR0XX4LR_EaXFdvNl5u9VTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY4/NDIyLTE1ODg5NTAw/NjMtNjI1MS5qcGVn.jpeg) | 2002 | Bix Beiderbecke &amp; Paul Whiteman | 1928-1929 |
+| 47 | ![Cover](https://i.discogs.com/uS5qRrG9aKqnyuzOJfOykCSbxi7iyHXO2fJ1ohuXm-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTgy/OTAtMTM5MTAzOTQ1/Ny00ODg1LmpwZWc.jpeg) | 2002 | Al Duvall | Hey Rube |
+| 98 |  | 2002-03-11 | Bix Beiderbecke | Bixology |
+| 23 | ![Cover](https://i.discogs.com/uutO2lcvzeLjGpckgE3G38hdR0F6kckKOtgI8YIFBsw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njcy/NjAtMTM2ODA3NTQ5/Ny02MTY4LmpwZWc.jpeg) | 2003 | Bix Beiderbecke | 1927-1930 (Chronological Classics 788) |
+| 86 | ![Cover](https://i.discogs.com/2yXPmn_XkCs0d-FKUYpWWm5IMOjMiNCAbWxgg_G8sB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDU2/MDg5LTE2MTM1NjU1/MDEtODY0NC5wbmc.jpeg) | 2003 | Canadian Brass | Amazing Brass |
+| 8 | ![Cover](https://i.discogs.com/nNn2oPfJH6uh7e3Yr7jS33hMnN8BacUAP2h8-0wlero/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU1/NzIxLTE1ODI5MDQ4/MzQtNzQ4Ny5qcGVn.jpeg) | 2004 | Dixie Friends | Dixie niejedno ma imię |
+| 13 | ![Cover](https://i.discogs.com/Obr0UkGggV6Yd0UWyTg2WWNPyV0lk60m35065nkQLUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjQ0/OTQtMTYzMTI4ODEy/OC05NDAyLmpwZWc.jpeg) | 2004 | The Original Memphis Five | Pathe Instrtumentals (1922-1926) |
+| 62 | ![Cover](https://i.discogs.com/vCMvY5fa0mtYgqk21mKEnF1QmLiZOszWu5SEtYSSWHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjM3/MjgtMTM4NjY5OTQw/MC04NTE4LmpwZWc.jpeg) | 2004 | King Oliver&#39;s Creole Jazz Band | Complete Set |
+| 85 | ![Cover](https://i.discogs.com/0U3kvgiXTZscFBhS7ifhtbcbT3WMoX8Y6WpmQ48qOJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzY5/NTYtMTYyOTg5MzAy/Ni05ODk5LmpwZWc.jpeg) | 2004-08-03 | Louis Armstrong | The Best of The Hot 5 &amp; Hot 7 Recordings |
+| 41 | ![Cover](https://i.discogs.com/DD23w4LBl77G2JNB5YwyjdBic6PzKuf5jtTDD2RNDFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODE3/ODgtMTQ0MDI3NzY0/OS01MDczLmpwZWc.jpeg) | 2005 | Muggsy Spanier | 1949-1954 |
+| 43 | ![Cover](https://i.discogs.com/LsUHqnoDpIIpI-xYk7EdnbRT76XXy3PfF7riP1ID-3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTk5/Ni0xMTI0Mjg2MzY4/LmpwZw.jpeg) | 2005 | The Original Memphis Five | Columbias 1923-1931: &quot;The Complete Set&quot; |
+| 18 | ![Cover](https://i.discogs.com/EUNmoG8w-97ybBtNEs5a_9TcPchhumg9xwcexErkTWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mjc4/MTEtMTQxODk3NTk3/MS04ODMwLmpwZWc.jpeg) | 2007 | Kid Ory | Théâtre Des Champs-Elysées |
+| 48 | ![Cover](https://i.discogs.com/63bejIFbsjRyNXnemWOHE_Rj9nILwH8c12ITIWJqxsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc4/MDM3LTE1ODUwMDA2/OTEtNDk3Ni5qcGVn.jpeg) | 2007 | Moscow Jazz Band | Jazz Trip |
+| 55 | ![Cover](https://i.discogs.com/Jl31DwruXbnZmveW3NfY94U1zG9vdbr_vQz0kIpLUJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA4/MTUyLTE2MDA3NjMx/MjgtODIxNC5qcGVn.jpeg) | 2009-12-31 | gomorrans | Giving Birth To Love |
+| 100 | ![Cover](https://i.discogs.com/JxLZDcyjpq8paDt6HhZXfOTwiSYocwaZE-Pjor6zhFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODQx/NC0xNDQ4Nzc3NTQ3/LTk4MjcuanBlZw.jpeg) | 2010-01-28 | Flanger | Spirituals (promo) |
+| 82 | ![Cover](https://i.discogs.com/xqOBZC1K6AWqYqDhGKQhDfJEJUXodcagup7_Xu4_AWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDA1/MTgtMTMyNjUxMTQy/MC5qcGVn.jpeg) | 2011-09-13 | Wynton Marsalis &amp; Eric Clapton | Play The Blues - Live From Jazz At Lincoln Center |
+| 71 | ![Cover](https://i.discogs.com/va5jIJCQmimYDgFJF-QMZhI4Ic5rHhuMNnH5nWO4yc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODg2/NjctMTU5MjYzNzA3/NC04OTkxLmpwZWc.jpeg) | 2014 | Eddie Condon | The Classic Sessions- 1927-1949 |
+| 36 | ![Cover](https://i.discogs.com/5BVMNQedE9p-w4dhQcYtzePf8ybO5lXag_EBipp6Srs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Njc1/MTYtMTQ4NzYzMTk5/Ny04NjE1LmpwZWc.jpeg) | 2015-11-12 | The Cable Street Rag Band | Dust |
+| 51 | ![Cover](https://i.discogs.com/_m0_2QQiyvikKvSu75IjzU79IaVIS_59uJHcu3-M3DI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyOTMy/MzktMTQ1ODc4Mjg3/NS01MTYwLmpwZWc.jpeg) | 2016 | Foghorn Stringband | Live at The Moon &amp; Sixpence |
+| 3 | ![Cover](https://i.discogs.com/nH4m0DPH8Wz3nQnDpwMZZBqLsPxm20NEtHCRknJ4mM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTI2/MjUtMTQ4MDgzNDgw/My04MDYyLmpwZWc.jpeg) | 2016-03-01 | Greg Englert | In Tribute To Louis Armstrong |
+| 12 | ![Cover](https://i.discogs.com/QRtWzQJL4ORAj8CQn0oNxJEVVx1Kcx1Mp_i4uFxlUzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MzA1/MzAtMTQ2OTY3MTAw/My03NTU1LmpwZWc.jpeg) | 2016-07-19 | The Blasting Company | Over The Garden Wall Deluxe Soundtrack |
+| 27 | ![Cover](https://i.discogs.com/VhP6mlx0MMkAOriU-l9Trwrc8FmGquR9lNvwB-jnEN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjIw/NTEzLTE2MTU0MTIy/OTktMjIwMy5qcGVn.jpeg) | 2018 | The Glenn Crytzer Orchestra | Ain&#39;t It Grand? |
+| 53 | ![Cover](https://i.discogs.com/8DEUuXqlOPVNzZoWLh8rhuB7AZHpucdEXYC8PTbLK6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjIy/MDc4LTE2NTI1MjQ3/ODItMTg2OC5qcGVn.jpeg) | 2018-03-23 | Felix Blume | Death in Haiti: Funeral Brass Bands &amp; Sounds from Port Au Prince |
+| 24 |  | 2022 | Various Artists | jazz: the smithsonian anthology |
+| 69 |  | 2023 | Various Artists | Texas &amp; Tennessee Territory Bands: 1928-1931 |
+
+### Related genres
+
+- [jazz]({{ "/tags/jazz" | relative_url }})
+- [swing]({{ "/tags/swing" | relative_url }})
+- [new orleans]({{ "/tags/new-orleans" | relative_url }})
+- [oldies]({{ "/tags/oldies" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})
+- [clarinet]({{ "/tags/clarinet" | relative_url }})
+- [big band]({{ "/tags/big-band" | relative_url }})
+- [blues]({{ "/tags/blues" | relative_url }})
+- [traditional jazz]({{ "/tags/traditional-jazz" | relative_url }})
+- [trombone]({{ "/tags/trombone" | relative_url }})

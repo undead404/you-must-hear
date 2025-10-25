@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T10:14:55.508Z
+permalink: tags/napoli
+title: napoli
+---
+
+## napoli
+
+Last updated: <time datetime="2025-10-22T10:14:55.508Z">Wed Oct 22 2025 13:14:55 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 30 |  |  | Teresa De Sio | Voglia &#39;e Turna&#39; |
+| 31 |  |  | Andrea Bocelli [Artist] | Sentimento |
+| 54 |  |  | Luciano Caldore | Latte e Miele |
+| 73 | ![Cover](https://i.discogs.com/bQhCqm8FAFCS3NKTAl-iKj7kGufuCCfiimvO2XEtw3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk1/OTExLTE1MzgyODY3/MDAtNjMxNC5qcGVn.jpeg) | 1956 | Giacomo Rondinella | Santa Lucia luntana |
+| 23 | ![Cover](https://i.discogs.com/YufoNXCdZk8UrytQvXL2J6lRigYIF3XGvEQ0piAz6C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQx/NzY0LTE0OTc1MjE0/OTgtODk0Mi5qcGVn.jpeg) | 1957 | Aurelio Fierro | Aurelio Fierro - The Classic Collection |
+| 26 | ![Cover](https://i.discogs.com/8etyDDaUEadB9c3AvMO5TJhUqraHAKtxYByPuVqoql8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU5/Nzg4LTE1NjMyMTU0/MTctNjk1OC5qcGVn.jpeg) | 1958 | Aurelio Fierro | Vintage Italian Song No. 47 - EP: Canzone Napoletana |
+| 50 | ![Cover](https://i.discogs.com/0_8SvF3_Sdbt-poikQ2xrbPdN_Uopr3lD6qQo5cIrUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzAz/MjUyLTE1MzI1MjQ4/NjctMzQ0OS5qcGVn.jpeg) | 1958 | Aurelio Fierro | Giuvanne simpatia |
+| 57 |  | 1962-10-06 | Sergio Franchi | Romantic Italian Songs |
+| 85 |  |  | Andrea Bocelli [Artist] | Incanto |
+| 19 | ![Cover](https://i.discogs.com/-MTa5gZmiU6v-fzx2E7nt7v3uznTs9HmSgkwNkGGfzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgw/OTI5LTE1MzIwNzc1/NzEtOTQ0MC5qcGVn.jpeg) | 1963 | Marino Marini | Les plus grands succès |
+| 74 | ![Cover](https://i.discogs.com/6uw_YYxBgOBKhLhikVdVFgfui08qaIA4zNsc97KM_do/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDM4/MDMtMTM2NjczODY3/Mi05MTUyLmpwZWc.jpeg) | 1964 | Giuseppe di Stefano | Giuseppe Di Stefano |
+| 64 | ![Cover](https://i.discogs.com/fObB2oV2y3vqfP5oSXpER6uCMjRomxIPvCeig-v70hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzAy/MjAtMTM2OTUwNDg5/Ny0zODc0LmpwZWc.jpeg) | 1968 | Peppino Di Capri | I Successi Di |
+| 22 | ![Cover](https://i.discogs.com/hsbSqc_FlW5qUersS4Yw8sUj1W7ifqs-aYKm6c1c5gA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTY2/Mjk1LTE2NjAyMDc0/OTUtOTI2NC5qcGVn.jpeg) | 1972 | Roberto Murolo | Napoletana, Volume 3 (disc 1: dal 1940 al 1953) |
+| 40 | ![Cover](https://i.discogs.com/ATWgO-dsehJYnY4rhpdiTXvIwjGPRQy3xW4v-MBEDCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjA2/MzctMTUyNTc5MDMz/OC0yODQyLmpwZWc.jpeg) | 1972 | Peppino Di Capri | Malafemmena |
+| 58 | ![Cover](https://i.discogs.com/Bkes_9ww_F5_FVAdbj2a6xUz_XDAAekuvGVeODJPORU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzcx/ODU1LTE2NTY4Njgy/NzYtNzU2MC5qcGVn.jpeg) | 1972 | Roberto Murolo | La chanson napolitaine de Roberto Murolo |
+| 55 | ![Cover](https://i.discogs.com/umiPXAV25vH-ptWokBu-L5AASd1ijp9TExA2G6o1_As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjE2/OTgtMTM0OTMxMDQ0/NS01MDEyLmpwZWc.jpeg) | 1972-05 | Gabriella Ferri | L&#39; Amore E&#39; Facile Non E&#39; Difficile |
+| 75 |  |  | thru collected | Il Grande Fulmine |
+| 86 | ![Cover](https://i.discogs.com/Ph-XAiboJTYAhgl7B-mvfRh6kDsa9wFxJV27VD3tp20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDE1/NDUtMTYyNDczMjU3/OS03MTE1LmpwZWc.jpeg) | 1959 | Marino Marini | Guaglione |
+| 87 | ![Cover](https://i.discogs.com/NElVNqqXV1OE0r1Vcot8kdODVrIen6TYomPl_gk9VeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTgw/NzEtMTU0NzkwMDgw/MC03OTEzLmpwZWc.jpeg) | 1964 | Peppino Di Capri | Peppino Di Capri |
+| 81 | ![Cover](https://i.discogs.com/zFgaFOBGJvFLBCnKdYI1O8B_ohPzloHOijch8dFwYlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTc5/MTAtMTUzNzExMjY0/NC02NjIxLmpwZWc.jpeg) | 1965 | Giuseppe di Stefano | Mamma |
+| 80 | ![Cover](https://i.discogs.com/0tEUxM7B85cQ6Win4ckMdvmU3d8OTrwvSpliXJYXLcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjcw/MDMtMTU3NDg4Mjkz/OC00NDI5LmpwZWc.jpeg) | 1970-06 | Gabriella Ferri | Gabriella Ferri |
+| 9 | ![Cover](https://i.discogs.com/bPbWwdqk3G4IP4COmZSc5YSzGdpSm-EhMC2xekHPj_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjc5/NDctMTQxMDYwMTc3/Ni0xOTMxLmpwZWc.jpeg) | 1973 | Giuseppe di Stefano | Sings Neapolitan Songs, Volume 1 |
+| 97 | ![Cover](https://i.discogs.com/COU_d1FjHcrNOz8RquxPFTDCWuQHCOdLXbuBPIzJzNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzE2/NzUtMTMzMTkxMjEw/My5qcGVn.jpeg) | 1975 | Peppino Di Capri | Champagne |
+| 5 | ![Cover](https://i.discogs.com/1b0Q7HGlDfJjTvShXIv8YeyfOiKv4upb351AD6_sDmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTMy/OTYzLTE2NzY2NDQw/OTYtOTkyNy5qcGVn.jpeg) | 1978 | Mario Merola | Cient&#39; anne |
+| 84 | ![Cover](https://i.discogs.com/BWlKgVRFUe5pR6GBpWKTiBHtoq3MhQJDOesAGIPeTJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ0/NzExLTE1NjEzMTcz/MjctODM2OS5qcGVn.jpeg) | 1980 | Luciano Pavarotti | Pavarotti &amp; Friends For The Children Of Liberia |
+| 100 | ![Cover](https://i.discogs.com/wjrBGaDOG1oHe1KAQT05Vc-apSsTdgUCL_qji73AAg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ4/NTgtMTI4NTAwMzg1/Ni5qcGVn.jpeg) | 1980 | Pino Daniele | Nero A Metà |
+| 70 | ![Cover](https://i.discogs.com/omWtZPGDxg8QVNtmpMDrxRIGVvFVZJOu3Ev59k15oEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYz/OTQ2LTE2MTE0MTE4/NjctMjQ5OC5qcGVn.jpeg) | 1981 | Aurelio Fierro | Guaglione |
+| 43 | ![Cover](https://i.discogs.com/3oi1pM-hYANzAPHcYFIa5KN_38w27RHbBMU03TAz9og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Nzk4/OTItMTM3ODI5MzI3/OC04MDMxLmpwZWc.jpeg) | 1981-01 | Luciano Pavarotti | Luciano Pavarotti Performs Pucinni |
+| 88 |  | 1981-06 | Pino Daniele | Vai Mo&#39; |
+| 48 | ![Cover](https://i.discogs.com/idlL2izic8_3vmGBaEpm3DRO0RR03nyJsKSVOXLH8g4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTQy/NjgxLTE2Mjk1NTgy/MTYtMjYwMC5qcGVn.jpeg) | 1982 | Giuseppe di Stefano | Vintage Tenors No. 11 - EP: Canzoni Napoletane |
+| 99 |  | 1983 | Gigliola Cinquetti | Non ho l&#39;età |
+| 46 | ![Cover](https://i.discogs.com/fmUhiwv0S5UkWt6PPUL2xilSPraqBptzbudb4C1FMtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzI4/MTYtMTQ3Nzc0NjQz/OC0xNjU2LmpwZWc.jpeg) | 1984 | Renzo Arbore | Basi Musicali Renzo Arbore |
+| 3 | ![Cover](https://i.discogs.com/ZrkDwsoBMvnNXnYMzVBaSVtub0iStdXoi2ZG6SNMjGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTU1/OTQtMTUxMTIwMDY4/MC02MDg5LmpwZWc.jpeg) | 1986 | Renzo Arbore | Quelli Della Notte |
+| 71 | ![Cover](https://i.discogs.com/M2X4Q68EgI9WAWal2efciW18bbS3_YzfR8XrIAjb6l4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjE2/NjctMTY0MTk4Mjk2/Ny01MTI5LmpwZWc.jpeg) | 1986 | Renzo Arbore | Prima Che Sia Troppo Tardi |
+| 94 | ![Cover](https://i.discogs.com/Ws6xbbUeaeFeu1zfgnvTldz7lCF9p67j7JJ3ZHy4fTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODUw/NDUtMTY2MDM5NzU5/MS01NzY1LmpwZWc.jpeg) | 1987 | Luciano Pavarotti | O Sole Mio |
+| 78 | ![Cover](https://i.discogs.com/-2U96TAk6obDwRYmCGuWd8zrHpd36Zuc9zTXU7ai5po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDAz/MDctMTM5NTU4NjMx/NS0zOTg3LmpwZWc.jpeg) | 1988 | Renzo Arbore | Discao meravigliao (dalla trasmissione tv Indietro tutta) |
+| 95 | ![Cover](https://i.discogs.com/IAJFPVI8riyvLThmyQbQTngMuibmjSOk6gfE-iqIslg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODgx/NjktMTU3NTIxODU5/Ni03NDMwLmpwZWc.jpeg) | 1988 | Massimo Ranieri | Perdere L&#39;amore |
+| 8 | ![Cover](https://i.discogs.com/DDuqYKPoHvYuTFIl_5Maqc6yTw8Gif4eIR9p80kKRkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY2/OTQ3LTE1MTg2Mjc3/MjQtNTg4Ni5qcGVn.jpeg) | 1989 | Pino Daniele | Collezione Italiana |
+| 82 | ![Cover](https://i.discogs.com/iL-PnkDR26QEJ1_ThH7QUW8gTwIW6z6HvXv1yZECq9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY1/MTAtMTM0OTgwMzQ1/Mi05MDkwLmpwZWc.jpeg) | 1990 | Francesco Napoli | Balla ... Balla |
+| 91 |  | 1991 | Pino Daniele | Sotto &#39;O Sole |
+| 36 | ![Cover](https://i.discogs.com/-ZXQ-JsuQnFOKQYfRGirRn_KX8_7bb6HDFsGgZB5seU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTM3/NTQtMTQzNDAxMjI5/Mi0zNDc1LmpwZWc.jpeg) | 1991-03-06 | Epo | Acoustic Live Feltrinelli Napoli |
+| 7 | ![Cover](https://i.discogs.com/C_L0WplsPOQO9cdOc645MzsUgeFWv3UetzOqY_UkXxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI1/ODcxLTE2MDIxMDIx/NTAtMzcyMC5qcGVn.jpeg) | 1993 | Roberto Murolo | Luna Rossa |
+| 13 | ![Cover](https://i.discogs.com/C_L0WplsPOQO9cdOc645MzsUgeFWv3UetzOqY_UkXxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI1/ODcxLTE2MDIxMDIx/NTAtMzcyMC5qcGVn.jpeg) | 1993 | Roberto Murolo | Napule canta |
+| 15 | ![Cover](https://i.discogs.com/z501VCOWZ5OUTp4EHQceVuG8dCR_N5i3OzOW02YiepA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY3/MTg1LTE1NzEwNzYx/ODUtMzE2OS5qcGVn.jpeg) | 1993 | Tommy Riccio | Nu latitante |
+| 16 | ![Cover](https://i.discogs.com/0bW0tlhBp4fbVcPbMyt6ptlyAvxifhBRMxvErN54Gy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzk2/MjYxLTE2NTM4MzM2/ODgtMTUwOS5qcGVn.jpeg) | 1993 | Gianni Celeste | Stelle |
+| 33 | ![Cover](https://i.discogs.com/wzcMsrDS7tcNnOej4T53-1KvNLuu8RwGTQ3ZkA4RsAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzU4/OTQwLTE2NTY3NTgw/MjUtMTE4NS5qcGVn.jpeg) | 1994 | Sergio Bruni | Napule E &#39;Na Canzone, Vol. 2 |
+| 32 | ![Cover](https://i.discogs.com/xj-W0TIzWtG0MYkJWmw1xPUzbLnDcfNy9ReZ08UGxcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYx/NTIxLTE1NjcwOTI2/ODUtNDkyNC5qcGVn.jpeg) | 1995 | Sal Da Vinci | &#39;Nammuratè |
+| 49 | ![Cover](https://i.discogs.com/0WzWv0gnEkYhM2BOUbFdwHGpaKM3OPDzCDEvGbFW_YI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODQx/NDEtMTY0MDUxNTM2/MC01MDU4LmpwZWc.jpeg) | 1995 | Nino D&#39;Angelo | Il Meglio Di Nino D&#39;Angelo, Vol. 1 |
+| 72 | ![Cover](https://i.discogs.com/ViNfzJ9vQphJmRkqaeXE3CkWjcgugndcGxZPrthsG08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDA2/NjctMTU4NzAzMTc0/MC00NDEyLmpwZWc.jpeg) | 1995 | Gigi Finizio | Lo Specchio Dei Pensieri |
+| 90 |  | 1995 | Pino Daniele | Non Calpestare I Fiori Nel Deserto |
+| 93 |  | 1995 | Neri Per Caso | Le ragazze |
+| 2 | ![Cover](https://i.discogs.com/IC2-WuYOLJ3-3CxbMye1IOCl_jer52Yo6uDaZQiqcRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzk0/NDctMTY5NTgwNTE2/NS02OTExLmpwZWc.jpeg) | 1995-04 | Mario Lanza | Mario! Lanza At His Best |
+| 11 | ![Cover](https://i.discogs.com/xsrLB-7Da3hu7y1-CrgsucWlMWGn3vNktUjCCI6Ata4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODgw/NTMxLTE2NTAzNzEx/MzgtNzU5Mi5wbmc.jpeg) | 1996 | Roberto Murolo | Serenata napulitana |
+| 37 |  | 1996 | Roberto Murolo | Antologia Napoletana |
+| 52 |  | 1996 | Enrico Ruggeri | Fango e stelle |
+| 61 | ![Cover](https://i.discogs.com/wMb7ax3tyLk2KPSTls5IYfyWRS27foCxrsAh1piVPsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTE4/OTYtMTM1OTI0NDky/OC00NjI3LmpwZWc.jpeg) | 1996 | Neri Per Caso | Strumenti |
+| 17 | ![Cover](https://i.discogs.com/Az1S80jShxCrCpRkf8xO_eeCqeytxVOxPHHJOappOqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzc0/Njc0LTE1OTc1NjU2/NTEtNDMzNC5qcGVn.jpeg) | 1997 | Stefano Sani | Per un minuto di poesia |
+| 25 |  | 1997 | Il Giardino Dei Semplici | Miele |
+| 53 |  | 1997 | Lou Monte | The Very Best Of |
+| 4 | ![Cover](https://i.discogs.com/i3Rnh2ZW0MqYBO121R-4IN2u7ezBrkAjuy2GQu30YYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTM1/NjctMTU5MDI0NTE3/Mi0yODYwLmpwZWc.jpeg) | 1998 | Renzo Arbore | Renzo Arbore l&#39;orchestra Italiana at Carnegie Hall New York |
+| 28 | ![Cover](https://i.discogs.com/Lm-Ap4y_kHUrPPiFDFMCpNCi10ufEyRGdRsgpTiLn8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjM2/OTAxLTE2NDgyMDEx/NTItMTI3Ni5qcGVn.jpeg) | 1998 | Sergio Bruni | Sergio Bruni |
+| 83 |  | 1998 | Pino Daniele | Yes I Know My Way |
+| 39 |  | 1999 | Luciano Pavarotti | Love Songs |
+| 51 |  | 1999 | Luciano Pavarotti | The Great Luciano Pavarotti |
+| 59 | ![Cover](https://i.discogs.com/l7La15sNHAiu7aIXv39ByZf6oLh-zEXO-TATYH66Ce0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc1/MDAzLTE2MDAyNzg1/NTYtOTEyMS5qcGVn.jpeg) | 1999-09 | Massimo Ranieri | Napoli Ed Io |
+| 27 | ![Cover](https://i.discogs.com/F8p4n4kGSdUhhKLgMR9RrLhHKwn-8nzY6a6tF_k8gnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Nzky/MTctMTQ4ODA5MTg3/My00MzY4LmpwZWc.jpeg) | 2000 | Spaccanapoli | Lost Souls (Aneme Perze) |
+| 38 | ![Cover](https://i.discogs.com/WPkf4BCsDi-hCtmnoXp9AA-4ch2XhlUiRPnXT_eU4B4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzYy/ODk4LTE2MjE2ODQz/MzUtNDM4Mi5qcGVn.jpeg) | 2000 | Franco Ricciardi | Franco Ricciardi |
+| 92 |  | 2000-07-17 | Spaccanapoli | Lost Souls |
+| 14 | ![Cover](https://i.discogs.com/TaQaT7vddedjG9GaZFVjA5Xt_oHStW4cYajI5Uk2jik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY0/ODQ2LTE1NTQ3MTk5/MDEtOTE2MS5qcGVn.jpeg) | 2001 | Ciro Ricci | E Ti Giuro |
+| 21 | ![Cover](https://i.discogs.com/zedEyw_3uwtlDoycjYddRthtj15Po9WQGG34ElCBGY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDkz/Mjk1LTE2MDgwNzQw/NjAtODc2OS5qcGVn.jpeg) | 2002 | Roberto Murolo | Simmo &#39;e Napule, Paisà… |
+| 35 | ![Cover](https://i.discogs.com/0h0FIE66OCGQdTUhykJ3RiUqnU_P98irUInvhrJ-tdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTMy/ODA4LTE1ODcxMTUw/NDMtNjAzMC5qcGVn.jpeg) | 2003 | Gigi Finizio | Il Cuore Nel Caffe&#39; |
+| 66 |  | 2003 | Peppe Barra | Guerra |
+| 89 | ![Cover](https://i.discogs.com/tnN243LHAfT9EoAA9loZBVdhOUIQMIVxJrOF0zMJT6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzAw/MDMtMTQ2NDI1NDI2/Mi0zNjgyLmpwZWc.jpeg) | 2003 | Fred Buscaglione | A Qualcuno Piace Fred-Ita |
+| 6 | ![Cover](https://i.discogs.com/pwoEJCeqB0lHtNExIKES66rMlfU3hLHguNczIkFsNNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg3/ODUxLTE1Njk1MTEx/NDQtODYyMS5qcGVn.jpeg) | 2004 | Francesco Benigno | Io...Ragazzo Fuori |
+| 42 | ![Cover](https://i.discogs.com/rftSbXaeBnSMOp2NJmswmmYy8Y_E_Q1pO2yK7zlwUOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjUw/NjMtMTM2ODUzMTMz/Ni03NjI0LmpwZWc.jpeg) | 2005 | Sal Da Vinci | Anime napoletane |
+| 63 | ![Cover](https://i.discogs.com/Khq2ZN4L1IBSS0Y9rnksll_1P6LO3uNzpA4dSook6vQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODY0/MjcxLTE1ODMwNjA3/MDQtMjMxNy5qcGVn.jpeg) | 2005 | Gigi Finizio | Per Averti |
+| 77 | ![Cover](https://i.discogs.com/F62MBmrjXUvxXM5c-lkO6F-T1CpVyHO9UDTzD8jGwYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDA2/ODUtMTQ3NDgwMjEz/Mi02ODczLmpwZWc.jpeg) | 2005 | Gigi Finizio | Come Intendo Io |
+| 24 | ![Cover](https://i.discogs.com/V5x1BrM7_aM4wjDqqMhjVKym_LJtlNGFhl6HvqzmQmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTI3/MDMwLTE2MDM4OTAw/MTUtMzUyNi5qcGVn.jpeg) | 2005-06-07 | Nino D&#39;Angelo | Eccomi qua |
+| 41 |  | 2005-08-25 | Il Giardino Dei Semplici | Il Giardino Dei Semplici |
+| 47 | ![Cover](https://i.discogs.com/qk-iuDSHL6KQva_07A9qW2G5tgvA9b5y03pV1SYtJ8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTI4/NDQyLTE2NDA3OTA0/ODMtMTE2NS5qcGVn.jpeg) | 2006 | Nino D&#39;Angelo | La Storia Di Nino |
+| 62 | ![Cover](https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg) | 2006 | Various Artists | Antologia Sonora Della Canzone Napoletana Vol. 13 |
+| 65 | ![Cover](https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg) | 2006 | Various Artists | Antologia Sonora Della Canzone Napoletana Vol. 8 |
+| 67 | ![Cover](https://i.discogs.com/LAwmy2G6PI5vIMKZyyPKuLslm-ndE8v3aXJGOxTtRFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTI5/NDM4LTE1ODcwNTgx/MjItNTU1OC5qcGVn.jpeg) | 2006-02-28 | Gigi Finizio | Musica E Speranza |
+| 12 | ![Cover](https://i.discogs.com/ayNaIE4h2zSMUanrpGBma_Cp-3H6QFW4KpWXnki69JU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTUw/MjMwLTE2OTY5MjE5/ODMtNjk4Ni5qcGVn.jpeg) | 2006-12-23 | Luciano Tajoli | Mamma |
+| 98 |  | 2007 | Simone Cristicchi | Dall&#39;Altra Parte Del Cancello |
+| 56 | ![Cover](https://i.discogs.com/8Tf2jcprKFOIe8hXjMiJh5N7sBFU9_2c8TTErbaL3Ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDA1/MjQtMTQzOTM2MTE4/MS0zMDA1LmpwZWc.jpeg) | 2008 | Rosario Miraggio | Prendere o lasciare |
+| 96 |  | 2008-01-01 | Andrea Bocelli | Incanto |
+| 69 | ![Cover](https://i.discogs.com/xTCm8sIaiG0_yR4uH4OCPH45PD83npaAu0BmN01psNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjg4/NTctMTIxODk1OTcz/OC5qcGVn.jpeg) | 2008-03-28 | Almamegretta | Vulgus |
+| 45 |  | 2008-05-16 | Pino Daniele | Ricomincio da 30 |
+| 29 | ![Cover](https://i.discogs.com/ybdCj4QOij2yn4zx84MoN0B0l1twkFXcJZUZjarlQMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTA1/ODEtMTQ3OTczNTEz/OS0yMzA1LmpwZWc.jpeg) | 2008-11-28 | Sal Da Vinci | Canto Per Amore |
+| 60 | ![Cover](https://i.discogs.com/GO5-igitzWl0L8Q4QBm_RKCqJuqRu3_jx2JyjYh2umI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjU2/MDctMTQ0NTQyNzQ0/Mi05NjIwLmpwZWc.jpeg) | 2009-02-20 | Sal Da Vinci | Non Riesco A Farti Innamorare |
+| 68 | ![Cover](https://i.discogs.com/fe6CbVJVINYthAjuZBvcm7xmttClG9bJaJmBMopG6Ts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTEz/ODYtMTMxODEzODc2/MS5qcGVn.jpeg) | 2009-08-04 | Gloriana | Il meglio di Gloriana |
+| 1 | ![Cover](https://i.discogs.com/gU_WSLAJjFtH86Hy52WVvRhjTEXX-qJ3raz3VvO5JUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzc2/NDEyLTE2MTMxMjgz/ODAtODM3Ny5qcGVn.jpeg) | 2010-03-19 | Sal Da Vinci | Il Mercante Di Stelle |
+| 44 | ![Cover](https://i.discogs.com/AgYSkqOeZgUI5B2Tsh6pEeZaBcmFr4rHhubL_HBkqfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTA2/NTMtMTQ0MjU3NDAy/My00Nzc5LmpwZWc.jpeg) | 2010-03-27 | Rosario Miraggio | Il Mio Spazio Nel Tuo Tempo |
+| 34 |  | 2010-04-01 | Tony Colombo | Sott&#39; e stelle |
+| 10 | ![Cover](https://i.discogs.com/tLQri1EGTJS1RDEPV8KyJqfAWjOJIblWn-KRdVVMO5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDEy/MzAtMTU1NTA1NjYz/MS0xNDc3LmpwZWc.jpeg) | 2010-10-15 | Stella Diana | Gemini |
+| 79 | ![Cover](https://i.discogs.com/YURa1gAP-Huf6n-5yK8Ty35UdBC9QpjYUNXrshF6ZYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDIy/NzgtMTQ1ODk0NzEz/MS04NjE4LmpwZWc.jpeg) | 2016-03-04 | Rocco Hunt | SignorHunt - Wake Up Edition |
+| 18 | ![Cover](https://i.discogs.com/f4LOWi8d4J7X3SNBh6fEOcDReNoiRyFKIoVg3F_dnSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTYx/MTAzLTE2NDc2NDM4/OTYtOTYxMS5qcGVn.jpeg) | 2022-02-28 | Tony Colombo | Tony Colombo.it |
+| 20 | ![Cover](https://i.discogs.com/f4LOWi8d4J7X3SNBh6fEOcDReNoiRyFKIoVg3F_dnSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTYx/MTAzLTE2NDc2NDM4/OTYtOTYxMS5qcGVn.jpeg) | 2022-02-28 | Tony Colombo | Solo |
+| 76 |  | 2023 | Various Artists | This Is Naples! vol.1 |
+
+### Related genres
+
+- [italian]({{ "/tags/italian" | relative_url }})
+- [folk]({{ "/tags/folk" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [italy]({{ "/tags/italy" | relative_url }})
+- [classical]({{ "/tags/classical" | relative_url }})
+- [jazz]({{ "/tags/jazz" | relative_url }})
+- [italiano]({{ "/tags/italiano" | relative_url }})
+- [italian folk]({{ "/tags/italian-folk" | relative_url }})
+- [opera]({{ "/tags/opera" | relative_url }})
+- [funk]({{ "/tags/funk" | relative_url }})

@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-23T03:58:47.172Z
+permalink: tags/schlager
+title: schlager
+---
+
+## schlager
+
+Last updated: <time datetime="2025-10-23T03:58:47.172Z">Thu Oct 23 2025 06:58:47 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 59 | ![Cover](https://i.discogs.com/rIqznpn4tfiH7WtGifsA6kKYaIpp1suANbmv9FfjXac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgy/OTE1LTE1OTgwMTI4/OTktNDI5MS5qcGVn.jpeg) | 1964 | Siw Malmkvist | Liebeskummer Lohnt Sich Nicht |
+| 39 | ![Cover](https://i.discogs.com/1z4QmxBkOpBnfRa2gVUEnBnWMAqCe29tNV9grHwRnA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTE2/NDYtMTQ4MTQ5MzEx/OS05NjE1LmpwZWc.jpeg) | 1965 | Udo Jürgens | Aber bitte mit Sahne (CD 2) |
+| 94 | ![Cover](https://i.discogs.com/1ov550_bhI9upM4owRpFw2B8VLgdBbd736NriFIY_zI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI4/ODUzLTE1MTQzNDEy/NjAtMTUwMy5qcGVn.jpeg) | 1966 | Connie Francis | Die Liebe Ist Ein Seltsames Spiel |
+| 48 | ![Cover](https://i.discogs.com/xPf0jyYuDJ96tt_z5EDl0h89ImzKxxGBrMdQpVWeGbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzc3/MTUtMTI1MzY2NjEx/Mi5qcGVn.jpeg) | 1968 | Hildegard Knef | Knef (Remastered) |
+| 16 | ![Cover](https://i.discogs.com/PW-bdu6Uc_6ij_naXXYwcgjPd52ZLyeww3Kt6jfGBUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTAz/NTItMTU0NzE1MjU2/Ny0zMTUzLmpwZWc.jpeg) | 1970 | Peter Maffay | Für das Mädchen, das ich liebe |
+| 78 | ![Cover](https://i.discogs.com/-KEf9vWfWuMKrH6tMMnirlJYPrpHo2TixhXQLy2p3DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzI4/MTctMTQ5NDg0Nzc4/OC0xMTA0LmpwZWc.jpeg) | 1970 | Michael Holm | Mendocino |
+| 80 | ![Cover](https://i.discogs.com/ak_xmikfBm5osuY3myROBYDRu2_TIAc91-HW64GouTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NzYw/NjUtMTQ0NjQ5MDA5/NS05MTI3LnBuZw.jpeg) | 1970 | Freddy Quinn | Junge, komm bald wieder |
+| 84 | ![Cover](https://i.discogs.com/g6JF7MrkxUo5S6Prdg6qyEfDSRAa0O8sYvcAcdHC4w8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTcz/MTEtMTM0MTU2MDMx/OC0xMzQ0LmpwZWc.jpeg) | 1970 | Katja Ebstein | Wunder gibt es immer wieder |
+| 28 | ![Cover](https://i.discogs.com/1-w9qdDXJnG7m_5_ZlOhpoasXCOpmGNeiUgZz-yaU1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTc4/NDYtMTU2NjIyNzEz/OS0xNzY3LmpwZWc.jpeg) | 1971 | Rex Gildo | Erfolge |
+| 47 | ![Cover](https://i.discogs.com/xkmeQ9yCP5ppvnZq1IfGRanD4z-ijOSsnE6ytJfjpkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTI2/MTItMTYwMjQ5ODU3/Ni0xNTQxLmpwZWc.jpeg) | 1971 | Rex Gildo | Mein Autogramm |
+| 44 | ![Cover](https://i.discogs.com/gRqWckhJz0eJ5eYMMXCp9HF444TsrwFiEPlRzZjaur4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA3/MjItMTI1ODM3NzY5/OC5qcGVn.jpeg) | 1973 | Juliane Werding | In tiefer Trauer |
+| 86 | ![Cover](https://i.discogs.com/zRq_x_BlqcPgKH6o9VNdtATS7wZx5_pftU6EyXWrcP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTc3/My0xMjAzMDgzMzU3/LmpwZWc.jpeg) | 1974 | Michael Holm | Tränen lügen nicht |
+| 99 | ![Cover](https://i.discogs.com/N0Vt-4T1GmQARzOBi9VQ7xzjFQHWTLsRlSQLJHWePSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDU3/Ni0xMzk2OTY2Mjgz/LTI2MTUuanBlZw.jpeg) | 1975 | Harpo | Moviestar |
+| 32 | ![Cover](https://i.discogs.com/B_Hb1_uPJJicgbSNd3rAweMbDz0xJkNIPAoB0mrMdzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDAw/NC0xMjM1NDAwNTMy/LmpwZWc.jpeg) | 1977 | Hoffmann &amp; Hoffmann | Himbeereis Zum Frühstück |
+| 34 | ![Cover](https://i.discogs.com/MEKTmE1kV2sYdtbrKT9YEfH5Xl4keeOI9ToFvyBADmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTE0/NTYtMTUyMjcwMTIw/My04Mjc1LmpwZWc.jpeg) | 1977 | Udo Jürgens | Mit 66 Jahren |
+| 85 |  | 1977 | Tony Holiday | Tanze Samba mit mir |
+| 97 |  | 1977-11 | Dan Hill | Sometimes When We Touch |
+| 92 | ![Cover](https://i.discogs.com/JYCo5BNnHiGVHHGyZgZLsDFtLyQ06v6YFrMSDi4qQSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mzg0/NjItMTM3MzkyODcw/NS02MTY2LmpwZWc.jpeg) | 1980 | Marianne Rosenberg | Ich bin wie du |
+| 95 |  | 1980-06 | Irene Cara | Fame |
+| 37 | ![Cover](https://i.discogs.com/TVeFTHnlqVSuELdJDGOcscOBOg29t6BbvmYJdBecSuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODE3/OTgtMTMyMDc3NTk3/OC5qcGVn.jpeg) | 1984 | Andy Borg | Meine Schonsten Liebeslieder |
+| 77 | ![Cover](https://i.discogs.com/1z4QmxBkOpBnfRa2gVUEnBnWMAqCe29tNV9grHwRnA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTE2/NDYtMTQ4MTQ5MzEx/OS05NjE1LmpwZWc.jpeg) | 1984 | Udo Jürgens | Aber bitte mit Sahne (CD 1) |
+| 88 | ![Cover](https://i.discogs.com/Sk-XlegpltllumFOpzgU_d0tg9aDY7ENnLTbKcmrrug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzA2/NTAzLTE1ODAwMzY1/NjgtMTgxNC5qcGVn.jpeg) | 1984 | Die Woodys | Fichtl&#39;s Lied |
+| 93 | ![Cover](https://i.discogs.com/ajfJK_yDM3ke9AdXdDK4QBKYwRK7zf13E0AOdsK8CkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/NzAtMTMzMDM3MDAy/MS5qcGVn.jpeg) | 1984 | Nino de Angelo | Jenseits von Eden |
+| 55 | ![Cover](https://i.discogs.com/tAUvXMWXDF1mipQrzdSaA4do3N3YbZ-5FSpDV4FQej0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTg5/MC0xMTY2MjkxNzU5/LmpwZWc.jpeg) | 1984-07-24 | Juliane Werding | Ohne Angst |
+| 46 |  | 1985-03-11 | Peter Alexander | Ein Abend mit Dir |
+| 3 | ![Cover](https://i.discogs.com/zZfPnDHV2WnKGSLVWGzXDBa75hWbM_-WBUT1JvdUK1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjI3/OTYtMTM3Nzg2MzQ1/NC00NjAwLmpwZWc.jpeg) | 1985-05 | Ibo | The Prayer |
+| 51 | ![Cover](https://i.discogs.com/GibKJumd5Iddi26ff4wQMLejmHiBMWeCnXbmI_dZI7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDE2/ODktMTY3MDkxMDI3/NC02MTI2LmpwZWc.jpeg) | 1987-08-03 | Howard Carpendale | Gold Collection |
+| 30 | ![Cover](https://i.discogs.com/bZZ4jJrv6mjHag6qCK5L5YBe-6N5FiYJvdnitRM1Kn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTkz/NTItMTMwMDI2OTA5/OC5qcGVn.jpeg) | 1988 | Roy Black | Ganz In Weiss |
+| 7 | ![Cover](https://i.discogs.com/NWIpyH2wmG0aDEsc0Hxv38RZou2LnCD_jlTa6O38o3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDQy/MS0xMTk1MTU3NzI0/LmpwZWc.jpeg) | 1989 | Mary Roos | Meine größten Hits |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ee1e306985b7315d5dd4d8edcb0b83b4.png) | 1990 | Wolfgang Petry | Die Party Box |
+| 12 | ![Cover](https://i.discogs.com/cBK5HEOT1XvUcGd96YEujCzpRcELhs21M1Oe3Tmc-Vo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzkw/NTctMTQ2ODY0NDQ2/NS00MzcxLmpwZWc.jpeg) | 1990 | Roland Kaiser | Für Dich |
+| 17 | ![Cover](https://i.discogs.com/_gB-gK4MA-_QdNmktvO2fNQCIkTCBlQmJ1fMc2Y3EbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzMy/OC0xMzU1Mzg1MTM4/LTE5OTAuanBlZw.jpeg) | 1991 | Pe Werner | Kribbeln im Bauch |
+| 60 |  | 1991 | Roy Black | Für dich allein |
+| 82 | ![Cover](https://i.discogs.com/OLdDEJ_2YG2CqYOxW1tQsiZjSoPsUf21P1VISwO1XUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU4/ODctMTMyMDI1NTA3/OC5qcGVn.jpeg) | 1991 | George Baker Selection | Single Hit Collection |
+| 38 | ![Cover](https://i.discogs.com/idi7HXSV-8vbxkPmGzL0qsK9AqhYzoEuSGoC8QPHZCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkw/MTItMTUzMDA5NjIy/Mi02MTIzLmpwZWc.jpeg) | 1991-09-01 | Fernando Express | Unter Den Sternen Des Südens |
+| 69 |  | 1993 | Jürgen Drews | Ein Bett Im Kornfeld |
+| 87 | ![Cover](https://i.discogs.com/NWKp8qPdcGfzdFRHfpXUol7EzXwwVnthBzQs-irjV-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTU5/NDUtMTU2OTY4NTQ3/MC04ODM3LmpwZWc.jpeg) | 1993 | Bernd Clüver | Lieben heißt leben |
+| 66 | ![Cover](https://i.discogs.com/IIZJ4lEiZ4z7t6yHBAr1iwN1PKaoJCf6Y6AQFETvsi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzYw/NzUtMTM1MzI2NDYz/Ni01MjY4LmpwZWc.jpeg) | 1994 | Heino | Mit freundlichen Grüßen |
+| 100 |  | 1994 | Udo Jürgens | Zeig mir den Platz an der Sonne |
+| 62 | ![Cover](https://i.discogs.com/WxqrXIyGhwWFionV8vhbhkeU8ET1kxXnqycBCoTxvZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzQw/NzAtMTQwNzc5MDk4/MC0yODExLmpwZWc.jpeg) | 1994-05-02 | Michael Holm | Meine Größten Erfolge |
+| 72 | ![Cover](https://i.discogs.com/lnLiEw_9JNxyLjyH0VNgZS1TYETiRgHsDYUm1cPULQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDkw/NC0xMjg0NjU5Njg1/LmpwZWc.jpeg) | 1994-05-28 | Scooter | Hüttenzauber 2008 |
+| 27 | ![Cover](https://i.discogs.com/IAixQUQ6VHEwgsD-gyfFKwXI-3c37PiR11eVr_gwJHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjEz/OTIzLTE1MDA5NjU4/NzEtNzA0NC5qcGVn.jpeg) | 1995 | Andrea Berg | Gefuehle |
+| 70 | ![Cover](https://i.discogs.com/lmnECGGouU10GXFjgqdzl2WrcpYLiXq8B248V2QgJr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDgw/OTAtMTQ4MjUwMDYw/NS0zNTkwLmpwZWc.jpeg) | 1995 | Charles Aznavour | Greatest Golden Hits |
+| 18 | ![Cover](https://i.discogs.com/koAYGMXXAWb8P1w_vwl-NTa1FBCC-iqcxIEsA3cB21I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDQ2/NjItMTQ2OTEyNDA0/Ni02ODk3LmpwZWc.jpeg) | 1995-08-22 | Alexandra | Zigeunerjunge |
+| 67 | ![Cover](https://i.discogs.com/Dw4QxkO4Eie7VUyZS8Og7gTxGoth8NsAEkyp_rs6l2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NzE0/NTItMTQ2NjMxNzM1/Ny0yNzc3LmpwZWc.jpeg) | 1995-08-31 | Bernhard Brink | Lass Uns Reden |
+| 35 |  | 1995-09-04 | Andrea Berg | Gefühle |
+| 22 |  | 1996 | Jimmy Makulis | Gitarren klingen leise durch die Nacht |
+| 75 | ![Cover](https://i.discogs.com/MpVPQSVnLEaaQo1BF3v_UfyC74XrLPVqPyyojYjTpxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Njk1/Mi0xNTM2MzQyNzY2/LTkzMjMuanBlZw.jpeg) | 1996-08-01 | Wolfgang Petry | Alles |
+| 81 |  | 1997-04-02 | Gerhard Wendland | Tanze Mit Mir In Den Morgen |
+| 19 |  | 1997-04-11 | Münchener Freiheit | Definitive Collection |
+| 63 | ![Cover](https://i.discogs.com/e5RWH2lM-PrJOg9_Llh42VEgDuclLJMhZEP7iUVBBpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzk4/NDktMTQ0MDUxODYy/OS0zMzcyLmpwZWc.jpeg) | 1998 | Cindy &amp; Bert | Immer wieder Sonntags |
+| 89 | ![Cover](https://i.discogs.com/j4enKSMOCIvqNWUWF0JRiTlBSfC2jWvuIYa1O1GoaOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjky/MzgtMTMyMDE3OTky/NC5qcGVn.jpeg) | 1998 | Trude Herr | Ich Will Keine Schokolade |
+| 6 |  | 1999-11-08 | Tony Marshall | Junge, die Welt ist schön |
+| 31 |  | 2000-05-24 | 新居昭乃 | 降るプラチナ |
+| 14 | ![Cover](https://i.discogs.com/NGRppCpZQGBI14sDOVCjiPOVfdlL33UUIZIfx7VBRpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzEx/MjItMTQ3NDkxOTk2/Ni02MTI4LmpwZWc.jpeg) | 2001-05-07 | Oliver Thomas | Wenn ich deine Liebe spür |
+| 49 | ![Cover](https://i.discogs.com/SWdNk79_rVU8kcd-ThIC4EC8iS1AbSbVCuX6k99-cSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzI5/MDgtMTI4MDIzMDIw/Ny5qcGVn.jpeg) | 2001-07-23 | DJ Ötzi | Love, Peace &amp; Vollgas |
+| 45 | ![Cover](https://i.discogs.com/CU0m-Xev5W1UlsVljRw_khk4DQA5UbOtYEIJ4zhXiPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc5/MjQ4LTE1ODE0MzM0/ODYtMjYwMy5qcGVn.jpeg) | 2002 | Andrea Berg | Wo liegt das Paradies |
+| 68 | ![Cover](https://i.discogs.com/ngSC3HT-yiHkGY4xuTt8_8x9x1dUCFaqRJOIJr3t-yw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzI2/Mi0xNjkyMjQ4NzY3/LTU2NDYuanBlZw.jpeg) | 2002-09-23 | Bon Jovi | Forever |
+| 58 |  | 2002-11-04 | Monika Martin | Stilles Gold |
+| 26 | ![Cover](https://i.discogs.com/Jf3bE-Zzi1ft2jrIf46RHdtZggM1-WC3jcNMVVkTOWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzYw/NzQ0LTE0OTU5ODIw/MDItMjAwNS5qcGVn.jpeg) | 2003 | Peter Orloff | Das Beste von Peter Orloff |
+| 76 |  | 2003 | Andy Borg | Adios amor |
+| 73 | ![Cover](https://i.discogs.com/PN0OzrDr0BWF6Z8aD_uxD-4QGp_44huH-K_uEF184QQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDE1/OC0xMzAxNTg3Njgy/LmpwZWc.jpeg) | 2003-08-18 | Matthias Reim | Reim |
+| 40 | ![Cover](https://i.discogs.com/k8Vh_HZ0Xpqj4oGmiGn4G4hh41Vvvu1imrVysfC0kVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTkw/ODItMTU1MDI0MDkx/MS01NTM5LmpwZWc.jpeg) | 2004 | Lynn Anderson | 16 Biggest Hits |
+| 13 | ![Cover](https://i.discogs.com/eXCpXFYgLa9Bq7ZoDV7TXW9VbvqbnRhUOzIOdcHehbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTU4/OS0xMTI1NDgxNjg1/LmpwZWc.jpeg) | 2004-09-27 | Matthias Reim | Deja Vu |
+| 9 | ![Cover](https://i.discogs.com/hi6KGAflpD8-ipyhcthtky5Tzso-VKJyOTSdpmlIRsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDcx/NDUtMTM0ODgyNTQ2/MC03MzY4LmpwZWc.jpeg) | 2004-10-11 | Bernd Clüver | Spiel Mir Ein Liebeslied |
+| 20 |  | 2005 | Nockalm Quintett | Amadeus In Love |
+| 33 |  | 2005 | Gemini | Det bästa med Karin &amp; Anders Glenmark |
+| 57 |  | 2005 | Jan Smit | JanSmit.com |
+| 54 |  | 2005-03-14 | Yvonne Catterfeld | Unterwegs |
+| 61 | ![Cover](https://i.discogs.com/QsHxb22iBVzowkJjJmO1nTQROQReXM1JhESTZLyN4Lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzU3/MjYwLTE0OTU5MTcx/MDYtNDQ5NS5qcGVn.jpeg) | 2005-09-23 | Andrea Jürgens | Lust aufs Leben |
+| 4 |  | 2005-11-23 | 新居昭乃 | Sora No Uta |
+| 21 |  | 2006-04-15 | Brunner &amp; Brunner | Ich liebe dich |
+| 52 | ![Cover](https://i.discogs.com/Gmf9Em8_7Q_FCv4UirkJU7JNTntoNCvUDzVqVYAnicE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjg1/NS0xMzIwOTUwMzYz/LmpwZWc.jpeg) | 2006-05-17 | Carola | Från nu till evighet |
+| 43 | ![Cover](https://i.discogs.com/rOT4piXUWD4doaNBvLZKR1YNOihlMf1cjFSbwYfYaeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjQ5/ODItMTQ2OTU1Njcx/NC0xMjI3LnBuZw.jpeg) | 2007-01-31 | Drafi Deutscher | Marmor, Stein und Eisen bricht |
+| 23 | ![Cover](https://i.discogs.com/wMzc8evwVHNJjk8f329wu8s-9RtnqMRNog3d7JX6mfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjM2/OTktMTE5NTIzODg1/NC5qcGVn.jpeg) | 2007-09 | Finger &amp; Kadel | Die Mit Dem Roten Halsband 2.0 |
+| 8 |  | 2007-09-07 | Jürgen Drews | Glanz &amp; Gloria |
+| 5 | ![Cover](https://i.discogs.com/kkSQBr31MlZUTNNm0EpgvzvNeK1Tow5WUx6x3NumV4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzE0/MTktMTYwMjA3MTgz/OS0xNjMyLmpwZWc.jpeg) | 2007-11-02 | Howard Carpendale | 20 Uhr 10 |
+| 29 | ![Cover](https://i.discogs.com/xx_xcxoyCMk5QPHJOgTOoiHNROHTgNE9FRolAH_jeZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE1/ODQ4LTE1NzQwNzc2/MDktMTA1NC5qcGVn.jpeg) | 2008 | Jörg Bausch | Denn ich fliege |
+| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/04682251e88f97c8a3bfe1ab6bf32048.png) | 2009 | Wolfgang Petry | 40 Jahre - 40 Hits |
+| 11 |  | 2009-09-25 | Udo Jürgens | Best Of |
+| 98 |  | 2010-01-01 | K&#39;naan | Wavin&#39; Flag |
+| 2 | ![Cover](https://i.discogs.com/p7y_X-6XEUXgdF909ubyiCm9yu4oPpv1_22D-a9ch8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE4/NTMtMTI2ODQzNDM5/Ny5qcGVn.jpeg) | 2010-01-25 | Christian Lais | Atemlos |
+| 10 | ![Cover](https://i.discogs.com/6jPcwpkuZHyds2qsr-RcKORKZBQB1WBSWRg0_6cVD-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjUy/NTUtMTM0NzM3NTc1/MS0zNjA2LmpwZWc.jpeg) | 2012-09-10 | Chelsea Wolfe | Live At Roadburn |
+| 56 | ![Cover](https://i.discogs.com/swpyAWKhUCY0_7dlwBioklPJQxAq4m5meqlx0xa1Tk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NzY2/OTItMTQyMjM2Mjc3/OS01MTA1LmpwZWc.jpeg) | 2013 | Finger &amp; Kadel | Kalinka |
+| 53 |  | 2013-01-01 | Faun | Von den Elben |
+| 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0d069456a702443792141eb67b0fe39a.png) | 2013-01-14 | Chelsea Wolfe | Prayer for the Unborn |
+| 41 |  | 2013-06-28 | Peter Wackel | Scheiss drauf! (...Mallorca ist nur einmal im Jahr) |
+| 91 | ![Cover](https://i.discogs.com/CFuMNCFPrkYWM-QRrsXHjXRSYPFnStOyT8zNIBl7bto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM3/NjI5LTE1NjY1ODA5/NTctNTQ5NC5qcGVn.jpeg) | 2013-09-03 | Chelsea Wolfe | Carrion Flowers - Single |
+| 24 | ![Cover](https://i.discogs.com/o4D5BNVBHCj90wRgrrXPb44o5V4CLjmt-eA-EOUC5qQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDc5/MDItMTQ3ODE5MTg5/NC0zNTgwLmpwZWc.jpeg) | 2013-09-04 | King Dude | Born in Blood &#x2F; Spiders in Her Hair |
+| 90 |  | 2013-10-04 | Helene Fischer | Farbenspiel |
+| 65 |  | 2013-10-11 | Christian Steiffen | Arbeiter der Liebe |
+| 74 |  | 2013-11-29 | Helene Fischer | Atemlos durch die Nacht |
+| 42 |  | 2015-12-18 | Luca Turilli&#39;s Rhapsody | Il Cigno Nero (Reloaded) |
+| 25 | ![Cover](https://i.discogs.com/v63AbCzdEy2Zv0G6I1y_TAdFFn-6cCGqz9bx62SmQuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjUx/MjktMTQ4NzYwNTMw/MC05MDgwLmpwZWc.jpeg) | 2020-05-22 | Lale Andersen | Golden Stars |
+| 79 |  |  | Dennis Waterman | I Could Be So Good For You |
+| 71 | ![Cover](https://i.discogs.com/0RwuBLVNtgGyMZur2wPymM5RMmUfeJTXvEddoXnZBEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzA4/MTE4LTE2NDIwMDE1/OTUtNzg2Ny5qcGVn.jpeg) | 2018 | Almklausi | Mama Laudaaa |
+| 83 | ![Cover](https://i.discogs.com/4H6BBydkcb9bJvd4eAHX5aGitVZO9HXQIA5BURawMIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQy/OTI0LTE2MDA2Mjkx/NjUtMzI4NC5qcGVn.jpeg) | 2019 | Ingo ohne Flamingo | Saufen morgens, mittags, abends |
+| 64 | ![Cover](https://i.discogs.com/6hnMc1PyQpgvkxshN9ePMD96Lfx0vBoDjvbY_tZLaFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzg5/MjAxLTE2Mjg0MzQ0/NDEtNTA0NC5qcGVn.jpeg) | 2020 | Tim Toupet | Bobfahrerlied |
+| 96 | ![Cover](https://i.discogs.com/s5v3BACmLrsML7OV_MITllS4qw9uhgI2oyqt94lZsxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODk3/NzgtMTQ1NjgyMDI2/OS02NTU3LmpwZWc.jpeg) | 2020-03-12 | Kehlani | Do U Dirty |
+| 15 | ![Cover](https://i.discogs.com/NQqc698aWIF6QU0abm2Xc6-RiYUauWn53DPAQcVQH0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjU3/ODc0LTE2ODU2NDM5/NDItMzk4Ny5qcGVn.jpeg) | 2023 | Bierkapitän | Lea |
+
+### Related genres
+
+- [german]({{ "/tags/german" | relative_url }})
+- [volksmusik]({{ "/tags/volksmusik" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [deutsche schlager]({{ "/tags/deutsche-schlager" | relative_url }})
+- [oldies]({{ "/tags/oldies" | relative_url }})
+- [grindcore]({{ "/tags/grindcore" | relative_url }})
+- [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [techno]({{ "/tags/techno" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [gangsta rap]({{ "/tags/gangsta-rap" | relative_url }})

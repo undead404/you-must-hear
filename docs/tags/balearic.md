@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-19T00:32:42.246Z
+permalink: tags/balearic
+title: balearic
+---
+
+## balearic
+
+Last updated: <time datetime="2025-10-19T00:32:42.246Z">Sun Oct 19 2025 03:32:42 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 85 |  | 1985-11 | The Wake | Here Comes Everybody |
+| 87 | ![Cover](https://i.discogs.com/x9qaMfwa3eKXqGQcIjteYnZZm_uPbo-1aLkfZwqcVzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTgy/MDU3LTE1Mjk5NDM4/MjUtODE0Ni5qcGVn.jpeg) | 1999 | Blank &amp; Jones | What You Won&#39;t Do for Love |
+| 74 |  | 2004 | Alucidnation | Induction |
+| 82 | ![Cover](https://i.discogs.com/SxDfqhHjRVXGZ8-3UJkVjqbuDrwO7HAg8CttFhJJWmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDg2/NDMtMTQxNzA0NjUy/MS05MzgyLmpwZWc.jpeg) | 2006-06-22 | Lovers Lane | Island Memories EP |
+| 1 | ![Cover](https://i.discogs.com/PkjQrdsZk_13gtKTaFy3_H1G0B2zVL6WvWONM8OBXPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzk1/Ni0xMTg0MTM4MTc1/LmpwZWc.jpeg) | 2007 | Mudd &amp; Pollard | Villa Stavros |
+| 94 |  | 2007-01-24 | Studio | Yearbook 1 |
+| 73 | ![Cover](https://i.discogs.com/izPEJaF3eyHzZIcbOV5nUlQYTm0F4vez0C7sIj0vde4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk2/MzktMTIzNTE4MDY0/MS5qcGVn.jpeg) | 2007-12-18 | Smith &amp; Mudd | Blue River |
+| 62 | ![Cover](https://i.discogs.com/8rC9orgCmEItDpb_IDDxiqnfDxOOE0-PID5q5-B1ZK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTAy/NTYtMTYyNjY5MDg1/Ny03NTg0LmpwZWc.jpeg) | 2008-05-26 | Max Essa | Back To The Beach EP |
+| 83 |  | 2008-09-01 | Hatchback | Colors Of The Sun |
+| 69 | ![Cover](https://i.discogs.com/PaGbIhFMcDqdfyl77Qgt_KuZFRS9ASaK8xHO_HJbiKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAw/ODItMTMzMTgxNDk3/Mi5qcGVn.jpeg) | 2008-11-11 | Windsurf | Coastlines |
+| 98 |  | 2009-01-30 | General Fuzz | Soulful Filling |
+| 75 | ![Cover](https://i.discogs.com/l2N0NcHK-m2y06wjB2R5IV56WovPJF5yVgK7k9n12Gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDEw/MzgtMTM2MzEwMzQ2/Ni0zNDY2LmpwZWc.jpeg) | 2009-02-06 | Jay Shepheard | Black Label #19 |
+| 57 | ![Cover](https://i.discogs.com/dq41xqrJaNFJOaqukl9vMG2QdNXkGXkX8riQ5nd31KI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQw/NjgtMTI0Mzc3MjI0/NC5qcGVn.jpeg) | 2009-06-01 | Smith &amp; Mudd | Le Suivant |
+| 54 | ![Cover](https://i.discogs.com/pEkZfQqg4aYBJjps3rSFL4FicSBHOn7V11fgvxF_q0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc3/NTEtMTI1MjM1NTM0/My5qcGVn.jpeg) | 2009-08-00 | Fontan | Wintherhwila |
+| 99 | ![Cover](https://i.discogs.com/Z0Xt9UYMkxWrm6U_nSL9JerpmjjCmCf_The5NlvLvX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjk0/MTEtMTI3MzQ5MDI2/OC5qcGVn.jpeg) | 2010-03-09 | Delorean | Subiza |
+| 81 |  | 2010-03-12 | Okinawa Lifestyle | Naha |
+| 80 | ![Cover](https://i.discogs.com/APKGqrlEq_dx3mXJHo6HTuxlGqiMzlFyRGmOi8fRAzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTA5/OTQtMTM1NzM4MjU5/NC0xMTM2LmpwZWc.jpeg) | 2010-10-18 | Max Essa | White Shoes Blue Dreams |
+| 72 | ![Cover](https://i.discogs.com/9Jk48RBqHjlEj8GqqvBxV8j57CHUh5lE3V4twpPvhOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTEz/NTUtMTQ4MzA2OTQx/MS0yOTM4LmpwZWc.jpeg) | 2011-03-28 | Hatchback | Zeus &amp; Apollo |
+| 76 | ![Cover](https://i.discogs.com/5PNr0jiV4GhL-YOw-6brRO9gBNzGGmu10PHTloh6Kjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Nzkw/OTQtMTQwMjQxNzY4/MC0xMzkyLmpwZWc.jpeg) | 2011-05-19 | Okinawa Lifestyle | Underwater |
+| 56 |  | 2012-07-25 | Windsurf | Weird Energy |
+| 63 |  | 2013-09-23 | Alucidnation | Aural Architecture |
+| 67 | ![Cover](https://i.discogs.com/xaNFT1pvBkABE_1pjgW3Xj8HsuJRVnETYtBjlc38h34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTU2/MDItMTM0MzA4MjA2/MS0xNDU4LmpwZWc.jpeg) | 2015-08-31 | Idjut Boys | One For Kenny |
+| 84 |  |  | Chill Beats Music | Mellow Dreams |
+| 86 | ![Cover](https://i.discogs.com/ryT_MAY6oVE155xip29TJAifENbeLYrU6J8BsVtZ--A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTc3/NjU5LTE1MDc1NTE3/ODQtMTEyNi5qcGVn.jpeg) | 2004 | Dual Sessions | Deep Golden Souls |
+| 90 | ![Cover](https://i.discogs.com/yHFrmJvrdrNqJUpm3u2Vg_oHc4l6jkvSVOYJRFTFQI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDA1/MC0xMTUxNjEzMDQ1/LmpwZWc.jpeg) | 2005-06-01 | Pretz | Soundcastles |
+| 92 |  | 2008-07-07 | Low Motion Disco | Keep It Slow |
+| 96 | ![Cover](https://i.discogs.com/ZSfXThznaCeopY77roNFCpZ1GNDk2iSN4DEGVhj_oAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzky/MDItMTY0MjA4NTQ5/MS01OTU2LmpwZWc.jpeg) | 2011-04-18 | Almunia | New Moon |
+| 88 |  | 2014-04-22 | Stella Starlight Trio | The Best so Far… |
+| 91 | ![Cover](https://i.discogs.com/Vf1WFVnje5tRTi6DfWFyoqfxBo3LtAm7qNSruXgYJhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTI4/MTgtMTM5NjM2MjA3/Mi02ODg0LnBuZw.jpeg) | 2014-05-05 | Mark Barrott | Sketches From An Island 2 |
+| 100 | ![Cover](https://i.discogs.com/AVVmrvC0QAATTYvXU5BpMZNJiHs0KocSjAw9CqX38JM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzA3/NzQtMTQ3ODcxNzI3/MS0yNjcwLmpwZWc.jpeg) | 2014-12-28 | Home | Before The Night |
+| 93 | ![Cover](https://i.discogs.com/aqMpUf-Hq1Gp8mT_DpmnDDz2B_4tGBXmdiWz1OaqKvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA4/NDU4LTE1NTk0Nzc4/NDctMjc0OS5qcGVn.jpeg) | 2015 | Mark Barrott | Bush Society |
+| 97 | ![Cover](https://i.discogs.com/UHCMB-fd5E-3ZT9AO1mq9ztJF5NdgKKFxDHMKsPIjr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTAw/MTMtMTQzMzkyODAw/Ni0yOTI3LmpwZWc.jpeg) | 2015-06 | Suzanne Kraft | Talk From Home |
+| 60 | ![Cover](https://i.discogs.com/yWYcDtg2qTYYLmj69mwqUiV6jdkOuXX6w1nJSBIUoiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDI0/NjUtMTQzNzEyNTg5/MS0zMzQ0LmpwZWc.jpeg) | 2016 | Mark Barrott | Sketches from an Island 3 |
+| 59 | ![Cover](https://i.discogs.com/u1O2xLA1ZwdrDVsYEr813Iwyh93pul6x95qPTocsnf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTQ5/NTMtMTQ2ODA2ODE2/OS0zMDkzLmpwZWc.jpeg) | 2016-07 | Smith &amp; Mudd | Gorthleck |
+| 64 | ![Cover](https://i.discogs.com/lBsq5FdCX6FULVN3wziw5Ddg-3FCOBOygIkW_-YveyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDA0/NDItMTQ2Nzc0Njgy/Ny0zNDU5LmpwZWc.jpeg) | 2016-07-01 | Afterlife | Ten Thousand Things |
+| 70 | ![Cover](https://i.discogs.com/oMGkzXko6bN9eP_P8k6p-WzgzcVRIUmD7dy3Lknn6Lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDkz/NjU2LTE1NDc5MzYw/NTItNzcxOC5qcGVn.jpeg) | 2016-09-27 | Teo | Magnolia |
+| 55 | ![Cover](https://i.discogs.com/lq-yaKdguOqc6neEixiETD7MbHuHRdNCMK9GsUr2MLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTQ0/NzEtMTQ3NjgzMjcz/OS0xMjQ4LmpwZWc.jpeg) | 2016-10 | Mark Barrott | Remixes From An Island |
+| 65 | ![Cover](https://i.discogs.com/YPgHeDzfQ0CY9oFZVsyP7NmL811RweVRdn3OtZJWTLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTc2/OTItMTQ4ODUyNDM2/Ny0xNzQ0LmpwZWc.jpeg) | 2017-03-03 | Mark Barrott | Music For Presence |
+| 95 | ![Cover](https://i.discogs.com/X8d31YmTZ-1PKcsKiER6CURirD5ERJrVYEMAddSw7Cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDU4/Njk3LTE0OTk2NDg0/NjUtMjk2MS5qcGVn.jpeg) | 2017-06-15 | Scott Gilmore | Subtle Vertigo |
+| 68 | ![Cover](https://i.discogs.com/A1a5brtcRRx5WbJ5eDogGhUW8ljLQUBUXhJCAky2WEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgz/NjgyLTE2NDQwODM5/NzItMjQwMC5wbmc.jpeg) | 2017-10 | Alexis Georgopoulos | Fragments Of A Season |
+| 51 | ![Cover](https://i.discogs.com/e1eBU18XMXEdoQ7-nMKtZMX0kOH2VvB6LNtOQLQ3URc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUx/Njk0LTE1MTA4MDg1/NTItOTk5MC5qcGVn.jpeg) | 2017-11-16 | Mark Barrott | Cascades (François K Mix) |
+| 52 | ![Cover](https://i.discogs.com/fy61yDbPu3Ag_FuQ5DNOVtYJKGaJw932dokVbHkYyYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDk5/MTMxLTE1NTUzNDgz/MTMtOTgzNS5qcGVn.jpeg) | 2017-12-08 | Bonnie &amp; Klein | Ithaca |
+| 2 | ![Cover](https://i.discogs.com/SOl--1wq7QAeT_YJ45w634jc3cfQQcjBMHD5Qtn9KvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYw/NDk1LTE1NTY1MjU2/NTItNDUxOC5qcGVn.jpeg) | 2019-03-21 | Style Project | Re: Style |
+| 3 |  |  | Beluga&#39;s Trio | O Sol |
+| 8 |  |  | Eli Kazah | The Triangle Sun E.P |
+| 43 | ![Cover](https://i.discogs.com/mO6uu2yl6Mhf5fAB7pSlZtVZClhgiuB3juQEQovl-RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzk1/MTk2LTE2NTM4Mjg0/MjItNTg0My5qcGVn.jpeg) | 1969 | Black Pearl | Black Pearl |
+| 6 | ![Cover](https://i.discogs.com/U4lHflOnBZGlRRzTsIypE9FzR0QgQpFhI9Nfn-jxxcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTU2/ODIxLTE3MjQ0NDQ4/ODEtMzE0NS5wbmc.jpeg) | 1986 | Banda Do Sul | Titanium |
+| 12 | ![Cover](https://i.discogs.com/IglU6d-W6eprYd_ldsi8jtQ6gNldoWXFyCCwKx_dtWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDg4/MzQtMTQ0MDc2OTYw/Ni0yNjcyLmpwZWc.jpeg) | 1986 | Living Room | Tropical |
+| 48 | ![Cover](https://i.discogs.com/U4lHflOnBZGlRRzTsIypE9FzR0QgQpFhI9Nfn-jxxcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTU2/ODIxLTE3MjQ0NDQ4/ODEtMzE0NS5wbmc.jpeg) | 1986 | Banda Do Sul | 24K |
+| 28 | ![Cover](https://i.discogs.com/BZPkFIWtr164Ogfi9N8LTFL3X4Hqh2fpMgInxMCWOUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjgy/NzItMTU5MDg1ODUw/OC01NDIzLmpwZWc.jpeg) | 1992 | Urban Love | B-Sides |
+| 19 |  | 1993 | Morgan King | I Am Free (mixes) |
+| 39 | ![Cover](https://i.discogs.com/d9G2dgx1knrgeoB4oNOnWfNWF3-M5TQkXUqtt-bxsZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzkw/LTEzNTIxMjY3NjUt/NDMxNy5qcGVn.jpeg) | 1999 | Zen-Men | Men from Mars |
+| 41 | ![Cover](https://i.discogs.com/ebBwYz3aFj6u9QUCKqDEz0ypvQ0bJdauQPLmqou4Qf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDEy/LTE2NDQ0NjUwNzEt/NjgzNS5qcGVn.jpeg) | 1999 | Blank &amp; Jones | Crosswinds |
+| 20 | ![Cover](https://i.discogs.com/V0x1OGhvmZoENZl_nOp_DCptE-isK3tGrkjTjMTwmlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTYz/My0xNDY5MzU1Njkx/LTU0MjcuanBlZw.jpeg) | 2001-01-29 | Blank &amp; Jones | Fall in Love |
+| 34 | ![Cover](https://i.discogs.com/Dx3YCObSj_KDbk_aQcF3fqtFY-j5u2_Dgxpi65zFj4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTQy/LTE2NzE4NzMwMzUt/OTYzOS5qcGVn.jpeg) | 2002-02-11 | Blank &amp; Jones | (Reach up for The) Sunrise |
+| 9 | ![Cover](https://i.discogs.com/hSr05M2ZjaiSPLq1_OZOKBFxJOKhcbUSk5NuA02oFm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTIw/NjYtMTIzMjExOTM2/MC5qcGVn.jpeg) | 2004 | The Winston Giles Orchestra | Soundtracks For Sunrise |
+| 49 | ![Cover](https://i.discogs.com/TpgzXlohk0n2iX8ZrheAfNdrgh6pncb0d4gXXpmyBkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQw/MC0xMjQ5Njk2MTc4/LmpwZWc.jpeg) | 2004-03-01 | Fragile State | Voices from the Dustbowl |
+| 25 | ![Cover](https://i.discogs.com/kqHM07SM9Vu01vp0GazyUjluqcBZtuX-MxlxlV0Jk5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTcz/My0xMjA4NDUzMzM3/LmpwZWc.jpeg) | 2007 | MUDD | Claremont 56 |
+| 16 | ![Cover](https://i.discogs.com/izPEJaF3eyHzZIcbOV5nUlQYTm0F4vez0C7sIj0vde4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk2/MzktMTIzNTE4MDY0/MS5qcGVn.jpeg) | 2007-12 | Smith &amp; Mudd | Blue River the album |
+| 4 | ![Cover](https://i.discogs.com/UcbP3lPxB9CUNo_hVoYkxrASJtNfOd2XFL3A5avk8A0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEx/OTYtMTIwMjM4OTE1/NC5qcGVn.jpeg) | 2008-02-05 | Windsurf | Windsurf Ep |
+| 18 | ![Cover](https://i.discogs.com/UcbP3lPxB9CUNo_hVoYkxrASJtNfOd2XFL3A5avk8A0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEx/OTYtMTIwMjM4OTE1/NC5qcGVn.jpeg) | 2008-02-05 | Windsurf | Windsurf |
+| 44 | ![Cover](https://i.discogs.com/93BOQB5Rd0b4BHRtCMjbp5Jtrsf1-Ac4_1ilOZi5ZRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDI5/NTAtMTI2NjIzMTA2/NC5qcGVn.jpeg) | 2008-10 | Low Motion Disco | The Low Murderer Is out at Night |
+| 11 | ![Cover](https://i.discogs.com/gpQ4DMxfMOhVQwKGNkWb9Ah8yHKkVK29nF5dd4t3EcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzM2/OTMtMTI3ODYzNDY2/NS5qcGVn.jpeg) | 2009 | Chris Coco | Something Everything |
+| 47 | ![Cover](https://i.discogs.com/o2b5PZL4cPKs5QOnWADmwxrIHuwauo2LZnxTh6d1x3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDQ5/OTYtMTI3MjQ3OTE0/MS5qcGVn.jpeg) | 2009 | Dirty Beaches | Dirty Beaches C22 (2009, Night People) |
+| 21 | ![Cover](https://i.discogs.com/SAl9WQ87IHFr3AXfS3aiikzmlX1edKJLwuRgc8L_IkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzA0/MzEtMTI1Nzg3NTA4/MC5qcGVn.jpeg) | 2009-05 | Windsurf | Bird Of Paradise |
+| 37 | ![Cover](https://i.discogs.com/TvF2jmFnXy3Ds41BJJlpR9VN3-1J6eR6bBJqT_muT8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njgy/MzMtMTI1NTY3NzY3/MC5qcGVn.jpeg) | 2009-10-19 | Smith &amp; Mudd | Hvala |
+| 46 | ![Cover](https://i.discogs.com/g5pFWsVNEhQI06Muhcomiz8TyL6bFcNs-pSxIa66tXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDIx/ODMtMTQ1NTE4MjE4/MC0yOTkwLnBuZw.jpeg) | 2009-10-26 | Okinawa Lifestyle | Bar |
+| 5 | ![Cover](https://i.discogs.com/hvRczSGTLKr6PiXtt5oHA8SKAXKbWsbTWQChgwmjq9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDMz/NDItMTI3MTkzMTcw/Ny5qcGVn.jpeg) | 2010-04-14 | Mudd &amp; Pollard | Vincent |
+| 30 | ![Cover](https://i.discogs.com/lIZTIIwpdFoOsi-3Ou8hO3zAYFk67THNQf-u8Mtlyv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTM2/NTYtMTI5OTYxNTU0/Ny5qcGVn.jpeg) | 2011-02-07 | Visions Of Trees | Sometimes It Kills EP |
+| 45 | ![Cover](https://i.discogs.com/kGiS6FleE_MHyoLbTJs61r21zPXLNV5miSU7cYTOR3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTc1/NjQtMTMxMjA1MTAw/NS5qcGVn.jpeg) | 2011-07-22 | Roger Shah | Openminded!? |
+| 33 | ![Cover](https://i.discogs.com/0rrFfIvwDrSLV51s8vjTX5NMgc_g18wb1mO344qFqfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTk4/OTMtMTM1NTIyMDI5/My0yNjk0LmpwZWc.jpeg) | 2012 | Gold Lounge | Double Life |
+| 38 | ![Cover](https://i.discogs.com/fG-PJi4EAFSwmjyUlRwvAPd7qlud1X4I7Q6fEnyEgm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDEw/MzctMTM3MDgwODA1/MS02OTg5LmpwZWc.jpeg) | 2012 | Various Artists | Chill Out Ibiza Vol.1 (The Balearic Edition) |
+| 22 | ![Cover](https://i.discogs.com/oiKuVB51rRlU3mkizzyJ5-zZh-rkcGAsYYD3i-XPgIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk5/MDcyLTE1NjM3NjM4/MjItNTEyNC5qcGVn.jpeg) | 2012-02-10 | Jjos | Footsteps in the Sand |
+| 36 |  | 2012-08-09 | Sloslylove | Tendencies |
+| 15 | ![Cover](https://i.discogs.com/OJYjxD2I9YGPgCSx6KUFZvPasQMNG8FWtfauKmAHDTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTA0/OTY3LTE0OTE2ODc4/NjEtMTA1MS5qcGVn.jpeg) | 2014 | Australis | Adrift |
+| 27 | ![Cover](https://i.discogs.com/PRrSAmoZ1cyuM4dCXA_jLws8KLvTrFlnv3RqTV0nOoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTM3/OTctMTM5NzQ5Nzk3/Ni02OTM3LmpwZWc.jpeg) | 2014-03-27 | 40 Thieves | The Sky Is Yours |
+| 10 | ![Cover](https://i.discogs.com/4-H5cTDYZFKF9R2gbwdp9pLEUNJMbrd4mD3RMfwA9n8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM3/OTkwLTE1NjIyNTk3/ODItMzg3OC5qcGVn.jpeg) | 2016-02-19 | Jjos | Infinity |
+| 14 | ![Cover](https://i.discogs.com/4-H5cTDYZFKF9R2gbwdp9pLEUNJMbrd4mD3RMfwA9n8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODM3/OTkwLTE1NjIyNTk3/ODItMzg3OC5qcGVn.jpeg) | 2016-02-19 | Jjos | Reflections |
+| 40 | ![Cover](https://i.discogs.com/Hg5E1fi9LWvMzE2Pj2h0sZEyJ8GG1B6DzzmGFgZvinE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTA0/ODQtMTQ2MzEzMTEx/OC00NzQzLmpwZWc.jpeg) | 2016-05 | Mark Barrott | Cascades |
+| 7 | ![Cover](https://i.discogs.com/oMGkzXko6bN9eP_P8k6p-WzgzcVRIUmD7dy3Lknn6Lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDkz/NjU2LTE1NDc5MzYw/NTItNzcxOC5qcGVn.jpeg) | 2016-09-27 | Teo | Day Drifting |
+| 31 | ![Cover](https://i.discogs.com/oMGkzXko6bN9eP_P8k6p-WzgzcVRIUmD7dy3Lknn6Lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDkz/NjU2LTE1NDc5MzYw/NTItNzcxOC5qcGVn.jpeg) | 2016-09-27 | Teo | Cherry Blossom |
+| 13 | ![Cover](https://i.discogs.com/tk2k41oIW4tXSu1s3Lk912_n-W_qgTM4EzXnnycjImw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDkz/Nzc1LTE1NDc5Mzgy/NzktNzUwNS5qcGVn.jpeg) | 2017-01-24 | Teo | Dawn |
+| 35 | ![Cover](https://i.discogs.com/mKY1ibGEXrhXPITY5NaLcMub929gGdp5rhMrXX-yEUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTEx/MTAtMTQ4MzYyNTc4/MC0xNzc3LmpwZWc.jpeg) | 2017-01-30 | Ichisan | Aperitiv |
+| 29 | ![Cover](https://i.discogs.com/r6fCHewjpeQ7RPNuAvjzc2CJAg541vv0SLOPrOhP9Pk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTYx/ODc3LTE1Mzk3ODA3/NjgtMzc2OC5qcGVn.jpeg) | 2018-01-22 | pool boy | pool boy |
+| 42 | ![Cover](https://i.discogs.com/Vk_Rn8r6HpJsNnLm0nWCdzTn2uRUJemXs4e9r4O5wyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTIz/MjU5LTE1MzY5NDA3/MzAtOTczMi5qcGVn.jpeg) | 2018-09 | Mark Barrott | Nature Sounds Of The Balearics |
+| 26 | ![Cover](https://i.discogs.com/SOl--1wq7QAeT_YJ45w634jc3cfQQcjBMHD5Qtn9KvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYw/NDk1LTE1NTY1MjU2/NTItNDUxOC5qcGVn.jpeg) | 2019-03-21 | Style Project | Superstylin&#39; |
+| 17 | ![Cover](https://i.discogs.com/4aF5Czcrc7xe_aqAm4O7EqBFhjXquaSv0Xuq9eNS7Ag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQ0/My0wMDEuanBn.jpeg) | 2023-03-24 | Blank &amp; Jones | Into the Dark |
+| 23 |  |  | Theevs | Express |
+| 32 | ![Cover](https://i.discogs.com/wFALlBrhBv0VxGeCrE_RnVb3AcSHnj_D2Vywu_4W4dQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTAz/NTkxLTE1ODY3MTU5/NDYtNDk3OS5qcGVn.jpeg) | 2019-12-06 | Blank &amp; Jones | Chilltronica EP 1 |
+| 24 | ![Cover](https://i.discogs.com/q7mGedGIzBby15X3aPlB0k0XzAYaWLx9fcwUPVjxIpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE2/OTkxLTE2Nzg3OTUx/NjgtODMzNi5qcGVn.jpeg) | 2021-10-15 | Stereo Dub | Soul Stereo Sound System |
+| 53 | ![Cover](https://i.discogs.com/dBHQ7seJ1m95xsmIMo_4jF3_u8jS9eJbM-jXKyDA_nA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTg0/NzcwLTE2NzcwNDU4/ODUtNDk3My5qcGVn.jpeg) | 2023-01-11 | 7and5 | Themes for a Grey Day |
+| 58 | ![Cover](https://i.discogs.com/S0BTHyPcEfJE838XqUZ1D_ZYKkiFJCYZrexbJV_gezo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI5/Mzc2LTE1MDY2OTc4/MjQtMjA5Mi5qcGVn.jpeg) | 2023-08-14 | Living Room | Music of the Earth |
+| 61 |  |  | Anakelly | Summer Lounge Beats |
+| 66 |  |  | Groovy Waters | Into the Groove |
+| 71 |  |  | Scubba | Bossa in Rio |
+| 77 | ![Cover](https://i.discogs.com/PM-uNDFKl19fIf4Ei46xxuq3cl9EuAlRcuIiot8GyX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDg4/MzY2LTE2MTM3NDE5/NzMtNTU5NS5qcGVn.jpeg) | 2020-12-18 | tunnelvisions | Guava |
+| 78 |  |  | D. Lissvik | 7 Trx + Intermission |
+| 79 |  |  | Natty Bong | Flower Tattoos |
+| 89 | ![Cover](https://i.discogs.com/52F3PJ41Tu9jWFVT4ND9cvY2MsQJULnVMrC5E5ORTVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQz/Mzg1LTE1MjE2MzA3/NDctMjg0NC5qcGVn.jpeg) | 2018-03-20 | Hunee | Hunchin&#39; All Night |
+| 50 | ![Cover](https://i.discogs.com/LtDWjVPFRLL30zYIu_JJofVe22D48b7pkKjW1M8JXsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzA0/NTEyLTE2ODYwNjAy/NzctMzEwMS5qcGVn.jpeg) | 2023-05-26 | Jim | Love Makes Magic |
+
+### Related genres
+
+- [downtempo]({{ "/tags/downtempo" | relative_url }})
+- [chillout]({{ "/tags/chillout" | relative_url }})
+- [lounge]({{ "/tags/lounge" | relative_url }})
+- [bossa nova]({{ "/tags/bossa-nova" | relative_url }})
+- [smooth jazz]({{ "/tags/smooth-jazz" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [house]({{ "/tags/house" | relative_url }})
+- [acoustic]({{ "/tags/acoustic" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})
+- [disco]({{ "/tags/disco" | relative_url }})

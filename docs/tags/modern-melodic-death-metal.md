@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-21T05:10:23.326Z
+permalink: tags/modern-melodic-death-metal
+title: modern melodic death metal
+---
+
+## modern melodic death metal
+
+Last updated: <time datetime="2025-10-21T05:10:23.326Z">Tue Oct 21 2025 08:10:23 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 17 | ![Cover](https://i.discogs.com/cqrd9sg4s_5I75FOaNpSCBQ79dUkC0Y3IemA-qF7UiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODI2/Njk3LTE1OTkzMDU4/OTgtMjg3MS5qcGVn.jpeg) | 1979 | Ethereal | Pendular |
+| 12 | ![Cover](https://i.discogs.com/wyBjeVneofqvKUwl3CWyiP1xBLJOaybIlN_FowmziGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA4/NDA4LTE2ODA0Mzk5/MDgtNzgyMC5qcGVn.jpeg) | 2003 | Room | Phoenix |
+| 11 | ![Cover](https://i.discogs.com/uoa-uiawjP0IjCiGxXZrmzsRMvIr3QaFNvh1NVlMk3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTg1/MS0xMzA4MjgyMjI2/LmpwZWc.jpeg) | 2003-10-20 | DevilDriver | DevilDriver |
+| 37 | ![Cover](https://i.discogs.com/ENkTcUiL4AaaWmcJNbq4FwOb-qxCzb2ipzsgjESTiA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDQ2/NzItMTMyMDM5OTk1/MC5qcGVn.jpeg) | 2006 | Golem | One Bullet Left |
+| 57 | ![Cover](https://i.discogs.com/kM3-zfcC4w-Y7VAUZM7gTGUPABvAzrAGWiBHqhBejBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTcy/NDMtMTY0NzYyMzY4/OS00MTExLmpwZWc.jpeg) | 2006-08-01 | Lords Of Decadence | Cognitive Note of Discord |
+| 30 | ![Cover](https://i.discogs.com/UHLJ_AvcYcaycGkyqBbRoLh3CwwXIBdg7jXltF-8a6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzIw/OTUtMTI1NTkwODI3/My5qcGVn.jpeg) | 2006-08-18 | Mercenary | The Hours That Remain |
+| 51 | ![Cover](https://i.discogs.com/6tpWOkSS4llEElv3_TQEPUbGX_cQPheTHHMWK-mZzO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzgy/ODEtMTI3NDAyNDE3/Ny5qcGVn.jpeg) | 2006-11-13 | Фактор Страха | Театр Военных Действий. Акт II |
+| 61 | ![Cover](https://i.discogs.com/6tpWOkSS4llEElv3_TQEPUbGX_cQPheTHHMWK-mZzO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzgy/ODEtMTI3NDAyNDE3/Ny5qcGVn.jpeg) | 2006-11-13 | Фактор Страха | Театр Военных Действий. Акт I |
+| 18 |  | 2006-12-20 | Blinded Colony | Bedtime Prayers |
+| 56 | ![Cover](https://i.discogs.com/wrxSMM11ha9dz9lWzKZyN6UavxT7BbkmAhKGjc1TefI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzQw/OTUtMTM0Mzg4NDk2/Mi05Mzc4LmpwZWc.jpeg) | 2008 | Scartown | Крик Мертвой Свободы |
+| 69 | ![Cover](https://i.discogs.com/UEvBjpZrTImF-lWwKZugRF5u_3t6UeeGKGaXNJ8P3uA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDkz/MjQtMTQzNDgyNDA2/Ny01MjIyLmpwZWc.jpeg) | 2008 | Rise to Fall | Restore The Balance |
+| 82 | ![Cover](https://i.discogs.com/t8-VdXj5YCXBxMgsRkTnS1VlALcjcbpEJgsE5HsTWk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzgy/MzUtMTU4NzIzODIy/NS05ODE0LmpwZWc.jpeg) | 2008 | Фактор Страха | Твой Идеальный Мир |
+| 76 | ![Cover](https://i.discogs.com/1_JagY_cDDWlTMQ3GXcdRGKwpoS5tPq2felJP8TLyws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcz/MTAtMTU1OTM4MTU5/My01NzgzLmpwZWc.jpeg) | 2008-03-17 | Mercenary | Architect of Lies [CD&#x2F;DVD] Disc 1 |
+| 80 | ![Cover](https://i.discogs.com/1_JagY_cDDWlTMQ3GXcdRGKwpoS5tPq2felJP8TLyws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcz/MTAtMTU1OTM4MTU5/My01NzgzLmpwZWc.jpeg) | 2008-03-21 | Mercenary | Architect Of Lies |
+| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f63d4a84f48c45cabc8973b56e3ff6b6.png) | 2008-09-19 | Sonic Syndicate | Love and Other Disasters |
+| 1 | ![Cover](https://i.discogs.com/1FrmfRfTeUNomArilSrPkZyJaQWPOmorMJbvjFBUt9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzg4/NDgtMTI4MDU3MjEz/OC5qcGVn.jpeg) | 2008-10-10 | Posthuman | Into The Void |
+| 22 | ![Cover](https://i.discogs.com/Y4x8lJKOhU4hQM05eV_1dLdfoBYorcUD-aljG9eZqfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjI1/NDktMTQwMzY0OTQw/MS0xOTg3LmpwZWc.jpeg) | 2009 | Infinite Tales | Only the Beginning |
+| 36 | ![Cover](https://i.discogs.com/fZ1s6zXt_fq4Z2tohxMCMm2yGljUXOcd0c_J7E-dk3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTY5/MTgtMTQ3OTgzNTkx/NC05NTYyLmpwZWc.jpeg) | 2009-02 | Viper inc. | Я - Бог |
+| 59 | ![Cover](https://i.discogs.com/zJtM-pEJhiqD3Nb58a7XQtSE6dMtHmLEGGbPAKi9MXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzgz/ODAtMTM2NDg4MjI3/MS04NjQ3LmpwZWc.jpeg) | 2009-02-18 | Amaranthe | Leave Everything Behind |
+| 86 | ![Cover](https://i.discogs.com/ZRwa7hQt5qjlf91XMgBxqAOjS65n96fSI_b51DaazvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njg0/OTUtMTQ3OTg0MTk3/OC02NDQ2LmpwZWc.jpeg) | 2009-03-13 | Synestesia | Feeniks |
+| 24 | ![Cover](https://i.discogs.com/PoIs60uXAa6SWTuQdoVUQAoKUnKXfcKyZZ9Qhu__qGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM3/ODAzLTE1NTgwMjg0/NzAtNTUzOC5qcGVn.jpeg) | 2009-03-23 | Silencer | Divisions |
+| 45 | ![Cover](https://i.discogs.com/qe7LeXYffUUpaVefvTfgRK9VXmCp9OcBiem7_pdElSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzA3/ODEtMTIzOTcwMzkx/NS5qcGVn.jpeg) | 2009-04-03 | Draconic | From the Wrong Side of the Aperture |
+| 72 | ![Cover](https://i.discogs.com/wp20rFFDpiwVO33z9ebiElGZiGRZ6Q4hj8bvIYy0jlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Nzc4/MDEtMTM3MTk1MTA0/Mi0xNDM1LmpwZWc.jpeg) | 2009-05-17 | System Divide | The Collapse - EP |
+| 32 | ![Cover](https://i.discogs.com/17I70VDQRTCRY4JknP4Ff6xvxJ8BeltzSRfyVc3WC-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc2/NTYtMTI3ODE3ODM2/NS5qcGVn.jpeg) | 2009-09-30 | Scar Symmetry | Dark Matter Dimensions |
+| 50 | ![Cover](https://i.discogs.com/xAFqfH7lmQt9elAj7Ai6DDDpzFTh41VayxGpvaWqO8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTcy/OTUtMTQ0OTQwOTky/MC00MDMxLmpwZWc.jpeg) | 2009-11-09 | Sunless Rise | Promo |
+| 66 | ![Cover](https://i.discogs.com/CJhAOuO8DzguYuQ1CaAd6COv5X5I4RpA4SdSCiwlwyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzg4/NjktMTMxMDI5NDMy/OC5qcGVn.jpeg) | 2009-11-13 | Dark Age | Acedia |
+| 65 | ![Cover](https://i.discogs.com/JxGorjDWcfD2aQNWDo1U9O421DdtOAWlYwcmGYRotww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzc0/ODItMTMwMDU3Mzk4/OS5qcGVn.jpeg) | 2010 | Emergency Gate | The Nemesis Construct |
+| 68 | ![Cover](https://i.discogs.com/VUyDam_uJ1SCfYYqNT6pzPCSxzd8c6NRDIxQkxb8UNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Mzk4/NTEtMTQ1MjA3Njky/NS0zNTI2LnBuZw.jpeg) | 2010-01-14 | Фактор Страха | Мёртвые Сны |
+| 33 | ![Cover](https://i.discogs.com/c76pSj39UcLrJtmLX7DI8p8q8Wh68J_dHJ2NC3MFdcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDU2/OTctMTQwMjY3ODc5/MS03MDkwLmpwZWc.jpeg) | 2010-08-18 | Aphyxion | Obliteration Of The Weak |
+| 58 | ![Cover](https://i.discogs.com/6Bf824_CTAw6Hf3CuZ-jPKOs5GNM0tJRlqmeQ-kfXeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODM3/ODktMTMxOTU5MjQy/MC5qcGVn.jpeg) | 2010-08-27 | Sonic Syndicate | We Rule The Night |
+| 92 | ![Cover](https://i.discogs.com/LAF2wNZbytVP4z1zCo71P-GH5mQTfl68_XJWgygAwHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTE1/NTItMTM5MzcwMzU3/MS03NTUwLmpwZWc.jpeg) | 2010-10-04 | Destrage | The King Is Fat&#39;N&#39;Old |
+| 52 | ![Cover](https://i.discogs.com/9PIEDXBLuvISoyfgJHmwzZsQFEa8EIhkdb5kcQDg5tY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDUw/OTQtMTQyMTY4MjQ1/Ni0yMDUyLmpwZWc.jpeg) | 2010-12-16 | Universum | Mortuus Machina |
+| 85 | ![Cover](https://i.discogs.com/J2xIJECIwm5Fk-yL-lJs_PLt2OGA22fMU9k8mVrvXwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgz/OTU1LTE1MzYxODc2/OTItMTY3NC5qcGVn.jpeg) | 2010-12-22 | The Blinded | EP2010 |
+| 16 | ![Cover](https://i.discogs.com/IfHCzid5XkP_Ne3ZBHuPK8j7H61gN3KkJM3_nr64_C4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Mjkw/NDgtMTQ0NzU4NTI0/Mi03NzE2LmpwZWc.jpeg) | 2011 | Rain Of Acid | Lost Souls |
+| 34 | ![Cover](https://i.discogs.com/lX2L9d-v1lCqaDYIQsPjEWrTwchX0YkxHdXmvlZ-OaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDg2/NDktMTQ1OTA3ODE4/OC02MTk5LmpwZWc.jpeg) | 2011 | The Embodied | The Embodied |
+| 99 | ![Cover](https://i.discogs.com/EfKqOUUxWA_Rtf2FumY6D5yBEN5daajEs-vo01lzHfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzIz/MTUtMTMzNTc3Mjgy/MC5qcGVn.jpeg) | 2011-02-25 | DeadLock | Bizarro World |
+| 38 | ![Cover](https://i.discogs.com/uhzc4ZIqVYdr3bQ_2UGNglrYXfLQjNPcgAWKXRmAqYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDU2/OTM2LTE2NTQyODQ5/NzItNjE2NS5qcGVn.jpeg) | 2011-04-01 | The Unguided | The Miracle Of Mind |
+| 41 | ![Cover](https://i.discogs.com/7XwHFlklq4sCAK_thd2-YmOixaGq_5L0hRmgF-kp6z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDYz/NTMtMTMyNDk5NzM0/MC5qcGVn.jpeg) | 2011-04-01 | The Unguided | The Heartbleed Bug |
+| 89 |  | 2011-04-15 | Scar Symmetry | The Unseen Empire |
+| 19 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2cdf6ad30c87420f92a4b3476d899cd8.png) | 2011-06-17 | In Flames | Sounds of a Playground Fading |
+| 79 | ![Cover](https://i.discogs.com/nB-3M4OfCb-MVYGt2BjHMAN3mzqIbaP_zJR6MnlX34o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzc1/NjctMTY2MTIwNTk0/OC05NjMxLmpwZWc.jpeg) | 2011-07-26 | World Under Blood | Tactical |
+| 63 | ![Cover](https://i.discogs.com/ppMRhplG8nXOfS0UiS_dJBD79HUmw-fmxjVfUkq8DAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Njgy/OTUtMTM0NzQ3NTkx/OS02OTkwLmpwZWc.jpeg) | 2011-11-23 | Fear Of Domination | Create.Control.Exterminate. |
+| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ee928457d7164cdba982489b58f486e8.png) | 2011-11-30 | The Unguided | Hell Frost |
+| 8 | ![Cover](https://i.discogs.com/tJfkk2DSqPTaf-HxPp0IQfxTQnnSK4kos8R-cIcyJWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU5/NTA5LTE1NDkwOTQ1/NDEtODM2OS5tcG8.jpeg) | 2012 | Midnight Realm | The Rebuild |
+| 44 | ![Cover](https://i.discogs.com/L1u0th-1xGmGaSXlw-ri5z1jUijNbSXKrbpBZ1b4bm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODA0/NTAtMTQyNzY0OTM2/OS0zNDIyLmpwZWc.jpeg) | 2012 | Code For Silence | Eyes World Shut |
+| 81 | ![Cover](https://i.discogs.com/LgSwZFyDiVLRS4h18lyQlWiyl_TyvzeqxjmPUuBfefU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTE4/ODQtMTUwNzAyOTMy/NS02MDUwLmpwZWc.jpeg) | 2012 | I Legion | Beyond Darkness |
+| 77 | ![Cover](https://i.discogs.com/Wpm3ChUZdaiCOtrtLK0lhDkQ298yhtfU_7XjyYLhFBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzQ1/NjYtMTYwMDQ2MTM3/Ny0zODAyLmdpZg.jpeg) | 2012-01-11 | Silent Descent | Mind Games |
+| 97 | ![Cover](https://i.discogs.com/XShjeUYTtaDkyc8lv166FrBc8RTLQvvWDDkos4d9GFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mjk3/MTctMTQyMTMzNjcy/MC04NDc5LmpwZWc.jpeg) | 2012-02-09 | Rise to Fall | Defying the Gods |
+| 74 |  | 2012-03-14 | Imaginary Flying Machines | Princess Ghibli II |
+| 39 | ![Cover](https://i.discogs.com/Wpm3ChUZdaiCOtrtLK0lhDkQ298yhtfU_7XjyYLhFBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzQ1/NjYtMTYwMDQ2MTM3/Ny0zODAyLmdpZg.jpeg) | 2012-05-07 | Silent Descent | Remind Games |
+| 96 | ![Cover](https://i.discogs.com/vWnz24e1BpV2PsU1ZvjIeP18X2V1EkSQLA81_I_fR-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTI1/NzAtMTM0NDYxMjQ4/Ny05Nzg5LmpwZWc.jpeg) | 2012-05-18 | Engel | Blood Of Saints |
+| 91 | ![Cover](https://i.discogs.com/QS6nR4jzJoOJHOHea_4FKfMd2T-7vb-YdIJ_1XVgtU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzA1/NjMtMTQzMzAxNjk1/Ni0yNzIwLmpwZWc.jpeg) | 2012-07-02 | The Stranded | Survivalism Boulevard |
+| 31 | ![Cover](https://i.discogs.com/6u8pJJEEmBMm6V-YEU57_HoF0ghYr7LD4tt7Mds4A80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDkz/ODQtMTQ2MTgzNjYx/MS04NjEwLmpwZWc.jpeg) | 2012-08-24 | I Spit Ashes | Inhaling Blackness - Reflecting Light |
+| 49 | ![Cover](https://i.discogs.com/Nsr6yaHH_t1HTkAHSpc4AGUS5eYvUl8vk59DRERzDVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDcy/NzktMTQ2OTE4NzEy/NC03MDIzLmpwZWc.jpeg) | 2013-01-15 | Seduce the Heaven | Field of Dreams |
+| 25 |  | 2013-01-28 | Deathronic | Duality Chaos |
+| 14 | ![Cover](https://i.discogs.com/CrX7CDx7Rd6pn5fe7ucVGeKJyaT_l_xQYYSklpAUp7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjM3/NjctMTQwNjA0NDgy/OS05MDQzLmpwZWc.jpeg) | 2013-02-23 | DEATHEMBER FLOWER | Architect |
+| 93 | ![Cover](https://i.discogs.com/7RNjY9AHgWaG1kV3-DGX0wFIJ_Y-mjJMddKiGf6575Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDQy/ODctMTM3NzI2OTc1/NS02NDg0LmpwZWc.jpeg) | 2013-04-29 | Mercenary | Through Our Darkest Days |
+| 90 | ![Cover](https://i.discogs.com/3V1-KivGnmMXoga2GQqB7bsP6MlfkCRULozYEbMPYBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTQ2/NDctMTQwODM0MDcw/Mi0xNTQ2LmpwZWc.jpeg) | 2013-09-27 | MyGrain | Planetary Breathing |
+| 6 | ![Cover](https://i.discogs.com/HHnHfCX5h6i_5mVBn8Z4yvA30Zhw8P-fTEEiVHaKp14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc2/MDgwLTE1MTMyNTAx/OTAtNjA0MS5qcGVn.jpeg) | 2013-11-15 | Your Epitaph | Chooser Of The Slain |
+| 55 | ![Cover](https://i.discogs.com/R55fpzCPNVhRMpp2MgoCO0YKhKdxWIlKNQXx76IBQ2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ4/NDYzLTE1MDcwMzA5/MzItNjQ1Ny5qcGVn.jpeg) | 2014 | Sarea | This Is Not Goodbye |
+| 78 | ![Cover](https://i.discogs.com/1noehRDR8KuxzVpXI1fSDf9yrnjIHMVG2ADvoteZXPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODM5/OTYtMTQzMzMzNDEz/MS02MjcyLmpwZWc.jpeg) | 2014 | Deceptic | The Artifact |
+| 88 | ![Cover](https://i.discogs.com/J93PkAKHi0qA2FVNgvS8D0_1NBmEUhE2UfD3nmkb8os/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTI5/ODctMTQ3NTcwMTUx/OS0xMjcyLmpwZWc.jpeg) | 2014-01-05 | Aephanemer | Know Thyself |
+| 95 | ![Cover](https://i.discogs.com/bDCVM4o4vKOcsPzuiL25gaw6olJOAAbbnTuSg8b8wKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjY1/NTYtMTM5MTYxNDIz/MS0zNjgzLmpwZWc.jpeg) | 2014-01-31 | The Unguided | Fragile Immortality |
+| 2 | ![Cover](https://i.discogs.com/k9A2UC6JHApgndi4rCZFGNNOMqCnUrsL5ftB972WAE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTY4/NTg3LTE2MjI1MzUy/MzItNDI0NC5qcGVn.jpeg) | 2014-09-01 | Wasted Heroes | Living For The Moment |
+| 4 |  |  | Late to Scream | Between Droughts And Fires |
+| 5 |  |  | Late To Scream | Between Droughts And Fires |
+| 9 | ![Cover](https://i.discogs.com/IyVGzs_uVpwcLSwNtivuqOPC8PajQotz3fy_S7MKJ4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTY4/NDU4LTE2MzI1MDYy/MDgtNzkwMS5qcGVn.jpeg) | 2014 | In Sanity | Gates of Insanity |
+| 21 |  | 2014-04-24 | Empirine | Oculi |
+| 20 | ![Cover](https://i.discogs.com/O7PpxEOeZbivihgBkEaSgz8boG63yqKwd3twb_ssmXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODgx/MjQtMTQyNjYyODcz/OC0xMTc3LmpwZWc.jpeg) | 2014-09-19 | aeons of ashes | Shutdown |
+| 35 |  |  | Epoch Crysis | Who Goes There? |
+| 40 |  |  | Omethi | Drown In Sacred Waterfalls |
+| 42 | ![Cover](https://i.discogs.com/gwTXih2AiroPbp29zqxWbJwGmIKGk6GKyTOaY3Wo3oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODAy/MjMtMTQ2MjQ0Mzc3/Ni0zNzQyLmpwZWc.jpeg) | 2012-05-10 | Meridian | Meridian |
+| 46 | ![Cover](https://i.discogs.com/P1aGH8hINYoOUYk1FhtyPaS69rsWj1flnNUQYiUv-W8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjk4/MTUtMTM1NjI4Mjcw/OC04ODgwLmpwZWc.jpeg) | 2012-12-21 | The Unguided | Legendary |
+| 48 |  | 2013-12-20 | The Unguided | Inception |
+| 43 |  | 2014-01-24 | Rain Of Acid | Ghost Town |
+| 100 | ![Cover](https://i.discogs.com/B1PZxKRy3jU_qQ_VoVVf43-8G1h9rKRUD9fKMgSSvLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTc0/MDQtMTQxMzY2MjUz/MS0yODg2LmpwZWc.jpeg) | 2014-10-03 | Scar Symmetry | The Singularity (Phase I - Neohumanity) |
+| 62 | ![Cover](https://i.discogs.com/wALR5VchY0HFpatTwRCqvIoCS4xZek0evVt2vkUN-LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgz/NzExLTE1MDAzNzQy/OTktNDY0MS5qcGVn.jpeg) | 2014-11-28 | Demotional | Dreamers Light |
+| 98 | ![Cover](https://i.discogs.com/wALR5VchY0HFpatTwRCqvIoCS4xZek0evVt2vkUN-LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgz/NzExLTE1MDAzNzQy/OTktNDY0MS5qcGVn.jpeg) | 2014-11-28 | Demotional | Tarassis |
+| 75 | ![Cover](https://i.discogs.com/cSXCFqERl_ytnrwsSeRB8Tgc3p0Vr-HehmWnsQwykgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTkw/Njk1LTE1MjYxMjkw/ODEtNzg3OC5qcGVn.jpeg) | 2014-12-22 | The Unguided | Fallen Angels |
+| 71 | ![Cover](https://i.discogs.com/287laMOfgsvn3WgxD2A_RvdlOTKH6bQSkuMZtvTXwD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTcz/NTEtMTQzMzY3MDQ0/Mi01NjkyLmpwZWc.jpeg) | 2015-06-09 | Rise to Fall | End vs. Beginning |
+| 29 | ![Cover](https://i.discogs.com/p95y8koXWKTUrK_8QjRMLvU81opHy1U5pI0UhUgvis8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDY1/NDAtMTQ2NTg0MTM2/My05MjU0LmpwZWc.jpeg) | 2016 | With Heavy Hearts | The Mirror&#39;s Principle |
+| 73 | ![Cover](https://i.discogs.com/zN0II8ssTxib9X_cbNSb42V5Zyv7LwyE7fE1z4IMyiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTk0/MjMtMTQ3NTgyOTg0/MC0zNTkzLmpwZWc.jpeg) | 2016 | The Hypothesis | Origin |
+| 94 | ![Cover](https://i.discogs.com/qFIA-PM6prmK1tRbm60FAWJVPVT3HyLVCvF6DiAsnbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzUw/NTctMTQ1NjU1NTgw/Mi0zNjU2LmpwZWc.jpeg) | 2016-02-24 | The Unguided | Lust And Loathing |
+| 83 | ![Cover](https://i.discogs.com/MIG71Hb_I0f_qt-P59PCfO1MslbmpBBsjenHE6WOGPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc1/MzI2LTE0OTgyMDk1/MzgtNTA0Ni5qcGVn.jpeg) | 2016-07-01 | Oracles | Miserycorde |
+| 67 | ![Cover](https://i.discogs.com/_Z5P6HEamAoZhuWi1lcLhOQ1Nd_skCn62QHChXcTBig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODYw/NTgtMTY1NDI2NDQ3/NS03NDQ4LmpwZWc.jpeg) | 2016-09-16 | Aephanemer | Memento Mori |
+| 64 | ![Cover](https://i.discogs.com/qbXC4VuaGCjURpIV4EK1IwhU_T8ymZ7TpS7xCWLe9SM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE1/MTU2LTE1MDgyNjY0/NjQtMTEwOC5qcGVn.jpeg) | 2017-04-27 | Oracles | Dawn of the Sycophant |
+| 54 | ![Cover](https://i.discogs.com/tQs9IpoI35lYdq6KPtEAlEfNkcSVJUAAiAhHf3gEvM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgz/NzYxLTE1MDAzNzUw/ODAtNTI2Mi5qcGVn.jpeg) | 2017-05-27 | Demotional | Alive |
+| 60 | ![Cover](https://i.discogs.com/tQs9IpoI35lYdq6KPtEAlEfNkcSVJUAAiAhHf3gEvM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgz/NzYxLTE1MDAzNzUw/ODAtNTI2Mi5qcGVn.jpeg) | 2017-05-27 | Demotional | Invincible |
+| 84 | ![Cover](https://i.discogs.com/tQs9IpoI35lYdq6KPtEAlEfNkcSVJUAAiAhHf3gEvM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgz/NzYxLTE1MDAzNzUw/ODAtNTI2Mi5qcGVn.jpeg) | 2017-05-27 | Demotional | Discovery |
+| 53 | ![Cover](https://i.discogs.com/1rKGyMmtAfbdkjmvbMmMPZ727g-RyF1xQNmghfp0-sU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQx/NjI5LTE1MDAwMzYy/OTQtOTQ1Mi5qcGVn.jpeg) | 2017-06-23 | The Interbeing | The Interbeing |
+| 13 |  | 2018 | Ravenface | Breathe Again Deluxe Edition |
+| 15 | ![Cover](https://i.discogs.com/mKudFeVsmW-sNYmA6Fm1mN1BDBV7YaUGyJlaSfJW3pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE1/NDIxLTE1NDA1ODk1/ODMtMjA3MC5qcGVn.jpeg) | 2018 | Rise to Fall | In the Wrong Hands |
+| 27 | ![Cover](https://i.discogs.com/mKudFeVsmW-sNYmA6Fm1mN1BDBV7YaUGyJlaSfJW3pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE1/NDIxLTE1NDA1ODk1/ODMtMjA3MC5qcGVn.jpeg) | 2018 | Rise to Fall | Acid Drops |
+| 70 | ![Cover](https://i.discogs.com/mKudFeVsmW-sNYmA6Fm1mN1BDBV7YaUGyJlaSfJW3pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE1/NDIxLTE1NDA1ODk1/ODMtMjA3MC5qcGVn.jpeg) | 2018 | Rise to Fall | Into Zero |
+| 26 | ![Cover](https://i.discogs.com/zkIGzSFE5uINVgSZWKaTcTJpUSCd5k6JnZ4O0qnohf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDEz/MzMxLTE1MjY2NDg4/MDYtNjU2MC5qcGVn.jpeg) | 2018-05-04 | Fear Of Domination | Paperdoll |
+| 28 | ![Cover](https://i.discogs.com/gZtHjqde57Nb2Be0sO20nmvRisja5RDvLBT5u_SC_GA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Njc2/NzAtMTY3MDg4MjA5/MS02NzY0LmpwZWc.jpeg) | 2018-05-04 | Fear Of Domination | Legion |
+| 10 | ![Cover](https://i.discogs.com/BtflYh1Eq76PmnN5BnBIKqnqPQBVMwO_NLgi1zrMv88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTA5/Mzk5LTE1Mjg0ODc0/MjgtNDk4OS5qcGVn.jpeg) | 2018-05-21 | Written In Blood | We Are Divinity |
+| 23 | ![Cover](https://i.discogs.com/j87kbA1SePFxK2lpfPrnznQLgTXbE_4KsMbLqSDjh-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE5/MjExLTE2MTE3ODQ0/MDktNzY5NS5qcGVn.jpeg) | 2018-09-17 | Tragedy Of Mine | Built to Resist |
+| 47 | ![Cover](https://i.discogs.com/j87kbA1SePFxK2lpfPrnznQLgTXbE_4KsMbLqSDjh-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE5/MjExLTE2MTE3ODQ0/MDktNzY5NS5qcGVn.jpeg) | 2018-09-17 | Tragedy Of Mine | Tenebris |
+| 87 | ![Cover](https://i.discogs.com/2b8b2WsNGYHFR0-77UKtg_yinvcyXl1Rma49pYkHiDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTA2/MjcwLTE1NjM3Nzkx/MjUtODg3MS5qcGVn.jpeg) | 2019 | Eyes Wide Open | THE UPSIDE DOWN |
+
+### Related genres
+
+- [melodic death metal]({{ "/tags/melodic-death-metal" | relative_url }})
+- [modern metal]({{ "/tags/modern-metal" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
+- [metalcore]({{ "/tags/metalcore" | relative_url }})
+- [death metal]({{ "/tags/death-metal" | relative_url }})
+- [melodic metalcore]({{ "/tags/melodic-metalcore" | relative_url }})
+- [swedish]({{ "/tags/swedish" | relative_url }})
+- [progressive metal]({{ "/tags/progressive-metal" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [symphonic metal]({{ "/tags/symphonic-metal" | relative_url }})

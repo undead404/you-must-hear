@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-19T03:11:32.547Z
+permalink: tags/memphis
+title: memphis
+---
+
+## memphis
+
+Last updated: <time datetime="2025-10-19T03:11:32.547Z">Sun Oct 19 2025 06:11:32 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 3 |  |  | Rocko | High As A Test Rat |
+| 59 |  |  | Dj. Zirk &amp; Tha 2thick Family | Looken for Tha Chewin&#39; |
+| 2 | ![Cover](https://i.discogs.com/s0s-JAJ5RxstNv2wI68uptKwJW4I8jTzghRVr4v_Oc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ0/MTYtMTM5MjIzOTc1/MC0xOTEzLmpwZWc.jpeg) | 1995 | The Brentwoods | The Good, The Bab &amp; The Ugly |
+| 5 | ![Cover](https://i.discogs.com/68rfNqPkfmmWypQlMtaK1OpIoH1xg3-LG5NKSD4K9gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODk4/ODAtMTY1OTQzNTMz/MS03NDg4LmpwZWc.jpeg) | 1996-07-06 | Smk | Aint Nuttin Shakin |
+| 11 |  |  | Mark Sinnis | The Undertaker In My Rearview Mirror |
+| 15 |  |  | SHINIGAMI TENSHI | ECLIPSE PHONK |
+| 16 |  |  | Crossway Worship Band | On Bended Knee |
+| 19 |  |  | The Wes Paul Band | Manchester to Memphis |
+| 22 |  |  | Hey Heidi-Rae | Before the Sun Breaks |
+| 43 | ![Cover](https://i.discogs.com/f-n8AQ6pBfqx4aCAfj-qpTMcK-0d17Mio6PrvbLFdrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzcy/ODMtMTM5MTQ2NDc3/NS0yMTU5LmpwZWc.jpeg) | 1969-12 | Booker T. &amp; the MG&#39;s | Uptight |
+| 30 |  | 1992 | Gangsta Pat | All About Comin&#39; Up |
+| 29 |  | 1995-05-30 | Three 6 Mafia | Mystic Stylez |
+| 48 |  |  | Michael Garlington | Baloney Pony!!!!!! |
+| 62 | ![Cover](https://i.discogs.com/c8GsYncQ5sQ88E8EVR4KKv1Hsg27zEQo8mHeoel8EXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjQw/MDYtMTU2NzM2NjE2/Mi0zMTI0LmpwZWc.jpeg) | 1975 | Al Green | Greatest Hits |
+| 60 | ![Cover](https://i.discogs.com/IVDPqMbREy-J6DjQt_MMHvP3-eTjXaDFQHrXhjuPI3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDM5/Ny0xMzk2NDE2NzY5/LTM2MjIuanBlZw.jpeg) | 1996 | Playa Fly | Fly Shit |
+| 77 |  | 1996-10-29 | Gangsta Blac | Can It Be |
+| 9 | ![Cover](https://i.discogs.com/TjYlK9iPNIQRLau7fg95RZbEkyej0Z-AOxvSeQ4h1eY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTkx/MTktMTY2OTk5MzQ5/MC01Njg5LmpwZWc.jpeg) | 1997 | T-Tee | It Gets Greater Later |
+| 80 | ![Cover](https://i.discogs.com/IOpggRSZRuSUfP4-F4LDat5Dfv-nJgLETdjJU8cSnmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDYy/MC0xMzYyNzIyNzY3/LTM1ODMuanBlZw.jpeg) | 1997-01-14 | Gangsta Pat | Homicidal Lifestyle |
+| 8 | ![Cover](https://i.discogs.com/gzIoqa3EzaDY3ZezG3ScA-RquVgsDuFXlJmx935wwVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjg1/NzUyLTE0OTQ2Nzc2/MTMtNzAyOS5qcGVn.jpeg) | 1998 | DJ Paul | To Kill Again...The Mixtape |
+| 76 | ![Cover](https://i.discogs.com/Yn-t6UYq2vyLi7WspDm3yAvjF0VyQ2-TtI38egj_5kI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzY0/ODUtMTM4ODQ5NjY2/Mi0xMzAxLmpwZWc.jpeg) | 1998 | Gangsta Blac | I Am Da Gangsta |
+| 6 | ![Cover](https://i.discogs.com/ByuJquQMxSh6UgeJZtJCrSRXdaov-p5d_3q8dKYpZSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjg4/NDctMTQ0OTI4Mzg5/Ni01NTA1LmpwZWc.jpeg) | 1999 | Gangsta Blac | 74 Minutes of Boom |
+| 42 | ![Cover](https://i.discogs.com/uHHn6q2HREwFQ7IJd5_JcSoJVyZjjvLqJX8YfbSMeEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTc0/NjQtMTQ2ODQ3NTY4/OS00Njc0LmpwZWc.jpeg) | 1999 | Hypnotize Camp Posse | Most Known Hits |
+| 65 |  | 1999-11-16 | Playa Fly | Da Game Owe Me |
+| 13 | ![Cover](https://i.discogs.com/9HNYpTTpl1Hh3BX8wkm5BUO1IyNgLZatviudN3l6AjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTM3/NTItMTM3NTcyMjgx/Ny00NTYzLmpwZWc.jpeg) | 2000 | Gangsta Pat | Show Ya Grill |
+| 35 | ![Cover](https://i.discogs.com/2QVOCYrl-D0xH6TU0Phem8DW_9FkffUlf46EK1kPTqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzIw/NjEtMTY0OTc4NTY3/NC0yMjA3LmpwZWc.jpeg) | 2000 | Tommy Wright III | Genesis: Greatest Underground Hits |
+| 47 |  | 2000 | Big Boogie | Definition of Big Dude |
+| 68 | ![Cover](https://i.discogs.com/dmjEL4V6MfOIuw-wRblHthIldRAXuyXSBlcVZOK7zq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTk1/Ni0xNTI3OTY3MTY4/LTU2ODAuanBlZw.jpeg) | 2000 | Manson Family | Heltah Skeltah |
+| 90 | ![Cover](https://i.discogs.com/oxsLuRqN410kh3pCT_qL5XCAmPmg1pQ4pn3CynJMCdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzkw/MDUtMTM3ODY5OTAz/NS0zMzQ5LmpwZWc.jpeg) | 2000 | Lucero | The Attic Tapes |
+| 20 | ![Cover](https://i.discogs.com/hdryat0zMS3HQoD6_qJZGEPXAqXUzua4-8kuToksczc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTcy/MjI2LTE2MTE5ODQ4/MzQtODY0OC5qcGVn.jpeg) | 2001 | Dora | Dead Horse Lounge |
+| 84 | ![Cover](https://i.discogs.com/uMxb6iSn5knpV_HmqG1YqdwTb83hSKUPyDq5xYWv0EE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzYx/NzMtMTIxNDI0MDk4/NS5qcGVn.jpeg) | 2001 | Three 6 Mafia | Prophet&#39;s Greatest Hits |
+| 53 |  | 2002 | Eevil Stöö | Pinkkibikinihinkkichiksi |
+| 56 | ![Cover](https://i.discogs.com/sCRi3QpZkydf3eABCWFGiMS3_uCL2xYVt8zItEkQHXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzM0/MjUtMTM2NDc1MTAx/OS0xMTE1LmpwZWc.jpeg) | 2002 | Snowglobe | Our Land Brains |
+| 83 | ![Cover](https://i.discogs.com/83W2SMKeSm87eKWIWOLL5EKNtOCzFAQdO3xroP3qiNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzIz/My0xNTA3NDk4NjY3/LTMzMjQuanBlZw.jpeg) | 2002 | Project Pat | Mista Don&#39;t Play |
+| 40 | ![Cover](https://i.discogs.com/Qj2_ufO-WI7vXNMSKM2o152vySxSbhfVp4vksuhHaKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjEz/ODgtMTY2NDM2NzQ4/NS04NTQ0LmpwZWc.jpeg) | 2002-06-18 | Koopsta Knicca | Da K Project |
+| 96 |  | 2002-09-24 | Lucero | Tennessee |
+| 86 |  | 2002-10-08 | Cory Branan | The Hell You Say |
+| 28 | ![Cover](https://i.discogs.com/DJXZiOOCBn7e5kwkaNZ9-5Q0TgDU8fWh4z9GpQDWIP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM2/OTE0LTE1MDg2ODMw/ODItOTc1My5qcGVn.jpeg) | 2003 | ben prestage | beale street |
+| 10 | ![Cover](https://i.discogs.com/gqDEnqUk_6CZXAUQrJa8v8cFxmePw_kWq90eiEUy-H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjcx/MDktMTY2NTQ4MDEz/NS0yNjI2LmpwZWc.jpeg) | 2003-05-06 | MC Mack | Macknificent |
+| 23 | ![Cover](https://i.discogs.com/X1VdxrBl4ihrxHVoU31uA1l9VuirHZ3X92CdmobjWN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTYx/ODYtMTMyNzE0OTcy/MS5qcGVn.jpeg) | 2003-07-22 | Rock City | Rock City |
+| 95 | ![Cover](https://i.discogs.com/saoLZE_VB5pFP0c861C4Dj3Tcv4gAHfNRNq6Jrrw9fQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODcz/My0xNjUxOTg2Mzk1/LTQyNjIucG5n.jpeg) | 2003-09-23 | Lucero | That Much Further West |
+| 25 | ![Cover](https://i.discogs.com/A2pyNMGQDg4IgnLX5V5RIO3CRDi0hqbuTURVVkyVW0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjkx/NjQtMTM2NDM4ODg0/Mi01NjMyLmpwZWc.jpeg) | 2004 | Evil Pimp &amp; Creep Lo | Kreepin Out tha Kut |
+| 36 | ![Cover](https://i.discogs.com/YjgDdEKb-qZXenzfPGOHTdtS8YVuJEtgJeRdwSHY09A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjY3/OTU5LTE2MzE4OTQ3/MjgtMzgzNi5qcGVn.jpeg) | 2004 | Reatards | Fuck Elvis Here&#39;s the Reatards |
+| 57 | ![Cover](https://i.discogs.com/Kr68VtcpqwFzXm4fVgY8QcdryHyWrd0u5ndVjzEh_NM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjQx/ODMtMTY2NTgxOTk3/MC0zMTM4LmpwZWc.jpeg) | 2004 | Gangsta Pat | Da Dro |
+| 17 | ![Cover](https://i.discogs.com/gS45gLKAF3XpJruEjZNeLczXXJHiZdktzW_xWAdCJrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUy/OTMyLTE1MDM2ODU1/MjctNDc3OS5qcGVn.jpeg) | 2005 | Scandaliz Vandalistz | A Real Band demo |
+| 85 |  | 2005-09-27 | Three 6 Mafia | Most Known Unknown |
+| 12 | ![Cover](https://i.discogs.com/dI94iF556Z5WDQvUazHVRpc30ZKWADpT_LyRRXgN2t4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTk0/NTgtMTU1NzgyMjkx/OC03Mzc2LmpwZWc.jpeg) | 2006 | Krucifix Klan | Da Last Krucifixin (Book of Revelations Chapt.1) |
+| 52 |  | 2006 | Snowglobe | oxytocin |
+| 39 |  | 2006-01-01 | ben prestage | Down-Home &amp; Home-Made |
+| 21 | ![Cover](https://i.discogs.com/Cus6ppV0fTO31s_q1XMwtuR34DV--0thx5p2ifA3aig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjYz/MzktMTM2MDE2NTYx/NS04MzE0LmpwZWc.jpeg) | 2006-02-28 | Serapis | Serapis |
+| 91 |  | 2006-03-21 | Cory Branan | 12 Songs |
+| 75 | ![Cover](https://i.discogs.com/zoTEEtPsaE829pn89xjboIGNw-Tpc8i9L6BtMTldXmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjI1/MTQtMTYwMTE0Njcz/MS00NjI5LmpwZWc.jpeg) | 2006-06-13 | Nights Like These | The Faithless |
+| 41 |  | 2007 | ben prestage | Real Music |
+| 70 | ![Cover](https://i.discogs.com/P8Qgq3ul6GHj_pXYMHOO0_NNBLJMpq1wsZHbK5twSbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDQw/OTctMTU0NDE1NDEx/MC05NTAzLmpwZWc.jpeg) | 2007 | Evil Pimp | Da Bad Guy Returns |
+| 33 | ![Cover](https://i.discogs.com/5WGKamWJEubVJb2Eqxr-kfgC8ofJC_G7k95vu-Lz_IU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA0/MjQtMTY2Mzk5NzM4/MS0yNjY5LmpwZWc.jpeg) | 2007-03-20 | Prophet Posse | The Return: Part 1 |
+| 4 | ![Cover](https://i.discogs.com/faHx2oVTj4S5BxduwaLCGkqfUCn78PHSrcCs4FUdTK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTA5/NDktMTQ0MTc0Mjk5/NS03NzIwLmpwZWc.jpeg) | 2008 | ben prestage | Live At Pineapple Willy&#39;s |
+| 14 | ![Cover](https://i.discogs.com/OKDR9bXAOgmk2KlknbWMhcls9oL0AoCkiW6f2uyr3zE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODI3/ODAtMTI4MDc4NDY3/OS5qcGVn.jpeg) | 2008 | Al Kapone | pure ghetto anger |
+| 18 | ![Cover](https://i.discogs.com/I3iTImnIjDkoSkwjhljB6UkvDmeUaePqcyCj0Nh69H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODUy/NDYtMTQ3OTYzOTc2/Ni03ODUwLmpwZWc.jpeg) | 2008 | Tommy Wright III | Genesis |
+| 32 | ![Cover](https://i.discogs.com/LigpnLdkrPifWjoc6zinz5tJ_JZiGaD6vo8OoL3dtMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDAy/NDMtMTQyNDg5NTky/My0zMTAwLmpwZWc.jpeg) | 2008 | Young Dolph | Pulled Up (feat. 2 Chainz &amp; Juicy J) |
+| 72 | ![Cover](https://i.discogs.com/6JINNv5eYmS_WGGFBU6gmumQyQ9I4YYViihkw6wjT0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDY1/MjktMTM2NDM4ODU5/NC0zNjA4LmpwZWc.jpeg) | 2009 | Evil Pimp | Face The Terror |
+| 74 | ![Cover](https://i.discogs.com/ipCBuvuX4cTDX3LQZMlNDfSd65M5zcVJD74u6i7rdx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTU0/NjAtMTM2MjY2MTEz/My05MTQyLmpwZWc.jpeg) | 2010-07-02 | Young Dolph | By Mistake (Remix) [feat. Juicy J &amp; Project Pat) |
+| 1 | ![Cover](https://i.discogs.com/cKxQBeOU5jg321eZcJO3t95-yHBmsXmubtKjwGyiXlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODA1/NDctMTQ2NDQ1ODY2/Mi0xODUwLmpwZWc.jpeg) | 2011 | Tommy Wright III | Tommy Wright III Presents Behind Closed Doors |
+| 34 | ![Cover](https://i.discogs.com/bmR4cer5igmPUqR6gMfbGjFMX_a9LKRAxsVPDZ1SFBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDAx/ODUtMTQyNDg5NTUx/MS00MDExLmpwZWc.jpeg) | 2011 | Young Dolph | High Class Street Music |
+| 37 | ![Cover](https://i.discogs.com/px76zAY9oAV90EChv1-Da8ocASte6NgAlbjMv1vgSg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzE0/OTctMTQzNTMxNzcx/Ny03MTMyLmpwZWc.jpeg) | 2011-04-05 | ben prestage | One Crow Murder |
+| 26 |  | 2011-06-21 | The Bo-Keys | Got To Get Back! |
+| 7 | ![Cover](https://i.discogs.com/kPopI1E-2ESEKHwPfTFxT_cxTba170xvm_LLzJnunBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDk1/NzgtMTM2MjQ4ODU1/OS04ODY4LmpwZWc.jpeg) | 2012 | Young Dolph | A Time 2 Kill (Deluxe Edition) |
+| 44 | ![Cover](https://i.discogs.com/kPopI1E-2ESEKHwPfTFxT_cxTba170xvm_LLzJnunBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDk1/NzgtMTM2MjQ4ODU1/OS04ODY4LmpwZWc.jpeg) | 2012 | Young Dolph | A Time 2 Kill |
+| 49 | ![Cover](https://i.discogs.com/0woFtvSvNc5baEm2-yHZWF8fG-OMKFVbv7xiGJyfbJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzAx/MzYtMTM2MDI2NzI4/OS02MzYzLmpwZWc.jpeg) | 2012 | Young Dolph | Blue Magic |
+| 54 | ![Cover](https://i.discogs.com/kPopI1E-2ESEKHwPfTFxT_cxTba170xvm_LLzJnunBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDk1/NzgtMTM2MjQ4ODU1/OS04ODY4LmpwZWc.jpeg) | 2012 | Young Dolph | Welcome 2 Dolph World |
+| 38 | ![Cover](https://i.discogs.com/YATDAfsuS4jvDFDk6qZV3CxPRXs8DaPU9B99zpnnOmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Njg4/NTEtMTM2ODYzOTg4/MC04MTk2LmpwZWc.jpeg) | 2013-05-13 | Young Dolph | High Class Street Music 3 (Trappin Out A Mansion) |
+| 51 | ![Cover](https://i.discogs.com/MOKj-PnSbrFTvmXTmXclCCzeShmEsdvEFhoWVT4m4ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjQ3/ODktMTM4MjQ0ODk1/MS00MDEwLmpwZWc.jpeg) | 2013-10-15 | Young Dolph | South Memphis Kingpin |
+| 82 | ![Cover](https://i.discogs.com/Hc-cqQ5XK7a3mPGlfq6s6FnKkQ6m8mFjg_08wOqe_-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjMx/MDktMTQwMTk4MDIy/Mi0yMzc0LmpwZWc.jpeg) | 2013-11-12 | Da Mafia 6ix | 6ix Commandments |
+| 88 | ![Cover](https://i.discogs.com/2Ype_IqYIOiUcxknJffiGqWY0M1OYc19Si0gdhB-s58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NjYx/NTItMTQwNDg1ODU5/MC01MzIyLmpwZWc.jpeg) | 2014-07-08 | Young Dolph | High Class Street Music 4: American Gangster |
+| 24 | ![Cover](https://i.discogs.com/p5dpZLGVCmwybho5SVgbBkEgtRwj8vwXtnhnVa-JBww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTky/NTAtMTM5NzY0MTU3/NS0yMzYxLmpwZWc.jpeg) | 2014-08-11 | Young Dolph | Preach |
+| 81 | ![Cover](https://i.discogs.com/jOtkvpL82LH75i27DoF8Zvsbg45IcUhZ-iRzlqaoi8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODY3/MjgtMTQyODc3NDc4/OS01ODY2LmpwZWc.jpeg) | 2015-02-24 | Young Dolph | High Class Street Music 5: The Plug Best Friend |
+| 79 | ![Cover](https://i.discogs.com/VQEufdcIRSqimrMu79X84nLkNRlNpVLOQveLNvcbk9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDMw/MDUtMTQzODQxMzg2/Ni0zOTkwLmpwZWc.jpeg) | 2015-07-25 | Young Dolph | 16 Zips |
+| 58 | ![Cover](https://i.discogs.com/22MbkGKqbadUXwfR8AbZ-kk3ymQv4OuBxAO1UUKL2hI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTA2/NTItMTY2NjU1NzI3/OC05ODU4LmpwZWc.jpeg) | 2015-10-08 | Young Dolph | Shittin On The Industry |
+| 93 | ![Cover](https://i.discogs.com/_f9YLH4DR5u3szmtRuFocu9wHD5mmvUmnj5U17xpcCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzU4/MTgtMTQ1NjU3MTYw/MC03MDQ3LnBuZw.jpeg) | 2016-02-19 | Young Dolph | King of Memphis |
+| 64 | ![Cover](https://i.discogs.com/pYF7LFoGIbIgoZ0omEWM1arBRSc0ofPiH8sjiMJaeuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDA0/MjQwLTE2MzcwODQ0/NjYtNjkyMS5qcGVn.jpeg) | 2016-07-22 | SPOOKYLI | Ice Cream Demon |
+| 94 | ![Cover](https://i.discogs.com/-vJdD0bBfXa9-NAAa7FNJqWKdiTRRVwv6dfIMdqlAcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU1/NDAtMTQ3Njk4NDE4/Ni05NzU4LnBuZw.jpeg) | 2016-08-26 | Young Dolph | Rich Crack Baby |
+| 78 | ![Cover](https://i.discogs.com/pEIEYCxw_ApCUcn7rVfJcis6kKyvhoPRcbQb4p834Do/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA0/MzEzLTE1MjMzNDA4/MDQtNTEwNS5qcGVn.jpeg) | 2017 | DJ Paul | Underground Vol. 16: For da Summa |
+| 31 | ![Cover](https://i.discogs.com/lKmasllhDBa-7rW4QjcRIQTxxpWVpChwjE3riLR2c5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzcz/NDcwLTE2NjY1NTU4/MDEtNjYyNy5qcGVn.jpeg) | 2017-01-04 | Young Dolph | Bagg |
+| 50 | ![Cover](https://i.discogs.com/XXLJmsVuiPNj-ZM3qz7S1rK8juw-04_1sxQ5OKNKcxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjE2/OTQtMTQ4ODU4NjM4/OS0zOTY0LmpwZWc.jpeg) | 2017-03-03 | Young Dolph | Death Row |
+| 99 | ![Cover](https://i.discogs.com/XXLJmsVuiPNj-ZM3qz7S1rK8juw-04_1sxQ5OKNKcxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjE2/OTQtMTQ4ODU4NjM4/OS0zOTY0LmpwZWc.jpeg) | 2017-03-03 | Young Dolph | Gelato |
+| 98 | ![Cover](https://i.discogs.com/vniDjiAoXT1J2lErBVlh_Bx70z34aXogxckb5FBwXC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAz/MDE2LTE0OTE2NjIw/NjctNjc0MC5qcGVn.jpeg) | 2017-04-01 | Young Dolph | Bulletproof |
+| 97 | ![Cover](https://i.discogs.com/lruI2xibwl1KzrdFaDQ3Vi9qWmDItrUbo5waLoif55Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk0/NDA2LTE2MzI0MDAz/MzAtMTM1Ny5qcGVn.jpeg) | 2018-09-28 | Young Dolph | Role Model |
+| 66 | ![Cover](https://i.discogs.com/lruI2xibwl1KzrdFaDQ3Vi9qWmDItrUbo5waLoif55Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk0/NDA2LTE2MzI0MDAz/MzAtMTM1Ny5qcGVn.jpeg) | 2020-04-24 | Young Dolph | Nothing To Me |
+| 71 | ![Cover](https://i.discogs.com/ps_7A95HWW04xOCDYKKVuh0eRexCIRmObAXA2tFiyQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/Njc3LTE2NjY1NTU2/NzgtOTEyMS5qcGVn.jpeg) | 2020-04-24 | Young Dolph | Crashin&#39; Out |
+| 92 | ![Cover](https://i.discogs.com/ps_7A95HWW04xOCDYKKVuh0eRexCIRmObAXA2tFiyQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/Njc3LTE2NjY1NTU2/NzgtOTEyMS5qcGVn.jpeg) | 2020-04-24 | Young Dolph | Sunshine |
+| 63 | ![Cover](https://i.discogs.com/KbKBvTJGynrn-A2KpwOsa7r4FFLXkwOSoBG-dU9gMgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/NjY4LTE2NjY1NTU3/MTktMTU1Ny5qcGVn.jpeg) | 2020-05-29 | Young Dolph | 16 |
+| 67 | ![Cover](https://i.discogs.com/lKmasllhDBa-7rW4QjcRIQTxxpWVpChwjE3riLR2c5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzcz/NDcwLTE2NjY1NTU4/MDEtNjYyNy5qcGVn.jpeg) | 2020-05-29 | Young Dolph | Aspen |
+| 55 | ![Cover](https://i.discogs.com/lruI2xibwl1KzrdFaDQ3Vi9qWmDItrUbo5waLoif55Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk0/NDA2LTE2MzI0MDAz/MzAtMTM1Ny5qcGVn.jpeg) | 2020-06-26 | Young Dolph | Bosses &amp; Shooters |
+| 69 | ![Cover](https://i.discogs.com/-t-jyBSWrDH_eEM_hIrqf4K-ierNAy2oSkxdC4hkKLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/NjYzLTE2NjY1NTU2/MzctNTYxMC5qcGVn.jpeg) | 2020-06-26 | Young Dolph | Blue Diamonds |
+| 100 | ![Cover](https://i.discogs.com/MMc_2TZPUej3UL0o5fL4jhR_Kl7ok8JZrC8LUQBqoc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/NjQ0LTE2NDgzODE3/NDAtNTc5NS5qcGVn.jpeg) | 2020-08-14 | Young Dolph | Rich Slave |
+| 73 | ![Cover](https://i.discogs.com/Q_--SJag97HLg42i-xOPXRbJaacxZQO-10oiD0kK3oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDA4/MDA2LTE2NTgxNDI2/ODYtNTQ2MS5qcGVn.jpeg) | 2022-05-21 | KSLV Noh | Pimp Slap |
+| 45 | ![Cover](https://i.discogs.com/XXLJmsVuiPNj-ZM3qz7S1rK8juw-04_1sxQ5OKNKcxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjE2/OTQtMTQ4ODU4NjM4/OS0zOTY0LmpwZWc.jpeg) | 2022-11-18 | Young Dolph | Yeeh Yeeh |
+| 27 | ![Cover](https://i.discogs.com/lruI2xibwl1KzrdFaDQ3Vi9qWmDItrUbo5waLoif55Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk0/NDA2LTE2MzI0MDAz/MzAtMTM1Ny5qcGVn.jpeg) | 2022-12-16 | Young Dolph | That&#39;s How I Feel |
+| 46 | ![Cover](https://i.discogs.com/LigpnLdkrPifWjoc6zinz5tJ_JZiGaD6vo8OoL3dtMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDAy/NDMtMTQyNDg5NTky/My0zMTAwLmpwZWc.jpeg) | 2022-12-16 | Young Dolph | Preach (feat. Lil Wayne &amp; 2 Chainz) |
+| 87 | ![Cover](https://i.discogs.com/LigpnLdkrPifWjoc6zinz5tJ_JZiGaD6vo8OoL3dtMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDAy/NDMtMTQyNDg5NTky/My0zMTAwLmpwZWc.jpeg) | 2022-12-16 | Young Dolph | Cross Country Trappin |
+| 89 | ![Cover](https://i.discogs.com/LigpnLdkrPifWjoc6zinz5tJ_JZiGaD6vo8OoL3dtMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDAy/NDMtMTQyNDg5NTky/My0zMTAwLmpwZWc.jpeg) | 2022-12-16 | Young Dolph | Major (feat. Key Glock) |
+| 61 | ![Cover](https://i.discogs.com/g7vJNbqZ3m-MNoWxv0_hr8yflJ5KoUuhU1GBWFKmGbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTI3/MjI2LTE2NzE2MjM5/NDctOTMzNC5qcGVn.jpeg) | 2023 | TUNDRAMANE | Juxtapose Occult |
+
+### Related genres
+
+- [gangsta rap]({{ "/tags/gangsta-rap" | relative_url }})
+- [rap]({{ "/tags/rap" | relative_url }})
+- [hip-hop]({{ "/tags/hip-hop" | relative_url }})
+- [trap]({{ "/tags/trap" | relative_url }})
+- [phonk]({{ "/tags/phonk" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [memphis rap]({{ "/tags/memphis-rap" | relative_url }})
+- [folk]({{ "/tags/folk" | relative_url }})
+- [acoustic]({{ "/tags/acoustic" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})

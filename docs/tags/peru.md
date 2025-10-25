@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T09:11:51.023Z
+permalink: tags/peru
+title: peru
+---
+
+## peru
+
+Last updated: <time datetime="2025-10-22T09:11:51.023Z">Wed Oct 22 2025 12:11:51 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 41 |  |  | OK BOOMER | Girasoles |
+| 66 |  |  | Los Lémunders | El Miedo Es Mi Mendigo |
+| 67 |  |  | Coro Infantil Manuel Pardo de Chiclayo | Ronda de Pascua |
+| 96 |  |  | Mi Mochila Huele A Semen | Ese Hijo De Puta Se Mete Vidrio |
+| 73 |  | 1967 | Los Destellos | Los Destellos |
+| 63 | ![Cover](https://i.discogs.com/kipFZTjQkUpjFldNPgeyQfNDhOonXNba5heJOIq6Fzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTI0/MjEtMTYzMTQ4NTk5/NS01NDExLmpwZWc.jpeg) | 1969 | Juaneco y su Combo | los mejor de juaneco y su combo |
+| 82 | ![Cover](https://i.discogs.com/m3Zt3tfcvkB9r_LvHClhWqAvzQ8gmQAuyxfZOvKXMec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDY0/NzgtMTMyMzg5NDIy/Mi5qcGVn.jpeg) | 1972 | Los Destellos | Constelación |
+| 16 |  | 1973 | Various Artists | Corazón: Songs and Music Recorded in Peru by Rosalind Solomon in 1981 |
+| 30 | ![Cover](https://i.discogs.com/wJBjEmIk0iMeiphq_ovQJUpS_-orPFftr1lLAl3QpIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTA4/MTgtMTM3NDM0MDIw/NS05NDMwLmpwZWc.jpeg) | 1973 | We All Together | 2 |
+| 79 | ![Cover](https://i.discogs.com/sZz6hGTeQT7o3KOXfZrlP-x1CUTlG1-Z5QNJQs_dV9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MjQ2/MTEtMTQ4ODEzNjUw/Ni02NzA4LmpwZWc.jpeg) | 1974 | Manzanita y su conjunto | Manzanita y su conjunto |
+| 84 | ![Cover](https://i.discogs.com/cco-f5iLEg_YeOMoISppoI49g1dM89in5NDHsott9is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTg4/ODQtMTYzODY0MzU4/My04NzYzLmpwZWc.jpeg) | 1974 | Los Destellos | Solo Ellos... Los Destellos |
+| 86 | ![Cover](https://i.discogs.com/zDRUHfcPzuxNNEEQhKf2jU-Qk15bwpLprhc8aoLh5og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTE1/NTEtMTQyNTEzNTQx/MS01OTMzLmpwZWc.jpeg) | 1974 | Los Pakines | Los Pakines |
+| 27 | ![Cover](https://i.discogs.com/loNpJPnrLSlZwL_zMU7tb4chxIly1ZVJ2OQjovHkodU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDA3/MTktMTQyMjg0MzU5/OS00MDI3LmpwZWc.jpeg) | 1975 | Los Ecos | ¡Peligrosa …! |
+| 85 | ![Cover](https://i.discogs.com/8nJazE_bxY5ruN8ejVHXJxDJqXCdyED0X6CG1fdxngQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTMx/MzktMTUwMjk4NjY0/Ni05MDU4LmpwZWc.jpeg) | 1975 | Los Mirlos | Los Charapas de Oro |
+| 50 | ![Cover](https://i.discogs.com/8aYvx49HY8bhr83j6MSd4RHta6rLyAmiUFlZIo0VIqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTE5/OTI3LTE1NTU3NTc0/NjAtNDQ5Ny5wbmc.jpeg) | 1976 | Los Orientales de Paramonga | Fiesta en Oriente |
+| 95 | ![Cover](https://i.discogs.com/kbtXYkZuqnnU_dahGs4Vta_RDhvVzeIuy-y_Uh5YG6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDUy/Mzk3LTE2NDY4NzM3/NTgtODMyMi5qcGVn.jpeg) | 1976 | Juaneco y su Combo | Leyenda Amazónica |
+| 11 |  | 1977 | Various Artists | Music of Peru |
+| 46 |  | 1977 | Chabuca Granda | Tarimba Negra |
+| 40 | ![Cover](https://i.discogs.com/utrabQ14OhJeI0jwvu_PavJdxJo5BHHvU7wfwot2GHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzc4/MDQtMTQ3NDM3NTc0/Mi01MTgwLmpwZWc.jpeg) | 1978 | Grupo Celeste | Selección de Éxitos |
+| 17 | ![Cover](https://i.discogs.com/Zt0qQ-5N59Ee7vwLvvI56TA-3koCxElb9WlZeFZkfmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjEz/ODkzLTE2MDUzODA2/NDEtNjM0MC5qcGVn.jpeg) | 1980 | Los Mirlos | Los Mirlos: Discografía Completa |
+| 20 | ![Cover](https://i.discogs.com/x1lPrskl2nQIp42xw8JdoOmVg9M1ox7erGwucQWNlcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzE1/MjAtMTUyMDU0Mjg4/MS04ODQzLmpwZWc.jpeg) | 1981 | Chacalón y la nueva crema | Chacalón y la Nueva Crema |
+| 28 | ![Cover](https://i.discogs.com/n0RBBTZ3N--IlRQKjw6sYDottJnH9RLgriFlBS0mjLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzYx/MzMtMTQ3Nzc5ODUx/MS02MzI0LmpwZWc.jpeg) | 1981 | Los Niños Cantores de Huaraz | Villancicos |
+| 44 | ![Cover](https://i.discogs.com/_PLxgfe_IZjsoJKMh17Iq-p2f69nQ0puDGaIq_hhXyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Mjgy/MDYtMTQ3MTY1MTUz/MC03ODU4LnBuZw.jpeg) | 1981 | Eusebio y Su Banjo | Cumbia Con Banjo |
+| 72 | ![Cover](https://i.discogs.com/V5A7C-f2dwpIphaADUZqOGmZrGiNJgcuEZaUrhQlDKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDky/MjQzLTE2NTQ1NzI4/NTAtOTQ0NS5qcGVn.jpeg) | 1981 | Los Hijos del Sol | The Roots Of Chicha: Psychedelic Cumbias From Peru |
+| 93 | ![Cover](https://i.discogs.com/mNIhhTKQAC-32LX-LkURdjB1jnP1pVGxeIn_daJx6GI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjky/MzMtMTQwMTc3MDY1/Mi04ODkzLmpwZWc.jpeg) | 1981 | Chabuca Granda | Cada canción con su razón |
+| 94 | ![Cover](https://i.discogs.com/mNIhhTKQAC-32LX-LkURdjB1jnP1pVGxeIn_daJx6GI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjky/MzMtMTQwMTc3MDY1/Mi04ODkzLmpwZWc.jpeg) | 1982 | Chabuca Granda | Cada Cancion Con Su Razon |
+| 34 | ![Cover](https://i.discogs.com/sisJZ2HI2VVBMNVMx-EhKX32LmQZvWxtuQbjRyXrkCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzM4/NzctMTUzNTExMjQy/My0zOTEyLmpwZWc.jpeg) | 1985 | Leusemia | Leusemia |
+| 18 | ![Cover](https://i.discogs.com/4FmdUL-7QKD88CZFv59VkuK79T56_DWL_oCAW9m6C9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDcx/MC0xNDM3NTc0MTU4/LTU1MjcuanBlZw.jpeg) | 1991 | Atahualpa | Luna de Sangre |
+| 52 | ![Cover](https://i.discogs.com/P7_UmihpqY_LmQeYrouYmudG1WFeo9THyUCbpsazLAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/NzU1LTE1NzU1MTc5/NDMtMjc5OC5qcGVn.jpeg) | 1992 | Los Toribianitos | Todo el Año Es Navidad |
+| 65 | ![Cover](https://i.discogs.com/5JeFy2UY8DmEXBUQcnCuXrnrp9NabKHDxMWgwJR_n_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTUw/OTQ3LTE1MDcwNjU0/MTgtNjYwOC5qcGVn.jpeg) | 1992 | Frágil | Frágil |
+| 88 | ![Cover](https://i.discogs.com/P7_UmihpqY_LmQeYrouYmudG1WFeo9THyUCbpsazLAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/NzU1LTE1NzU1MTc5/NDMtMjc5OC5qcGVn.jpeg) | 1992 | Los Toribianitos | Los Toribianitos |
+| 54 | ![Cover](https://i.discogs.com/CIAlF_wvy9s15u6KQAZfLfKT_QAFHNChxMerPCcPkRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDU3/Mjc0LTE2NTc4NTU1/NzctOTg5MC5qcGVn.jpeg) | 1994 | Los Vagabundos | No Puedo Esperar |
+| 89 | ![Cover](https://i.discogs.com/35CNFClMwF9ukDqlC0AjgE8X7v8v_C7BGRnAE0O_fKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjU2/NDItMTU1NjIwODgz/Ny05MjQyLmpwZWc.jpeg) | 1994 | Christina y los subterráneos | Mi Pequeño Animal |
+| 91 |  | 1994 | Mar de Copas | Entre los árboles |
+| 36 | ![Cover](https://i.discogs.com/YzPpmqWIG9ergmMMF6qquIV1m8jXLbPCDQcGgwP5cVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM4/MzIxLTE2MzE0NTk3/NTctNTI2OC5qcGVn.jpeg) | 1995 | Pedro Suarez Vertiz | Tecnicas para olvidar |
+| 78 |  | 1995-08-29 | Dolores Delirio | Cero |
+| 75 | ![Cover](https://i.discogs.com/qjX6DqTbfOCstt92sj9GJzs2KZUQOfYCSzorO4nd-wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTE2/OTctMTMxNjMyMzIz/Ni5qcGVn.jpeg) | 1996 | Rumillajta | Hoja De Coca |
+| 51 | ![Cover](https://i.discogs.com/YLUtxVrIFXD2waGJSHHYG2sidb3QVKk-mu99DJelTXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDkz/OTk5LTE1MTY2MzQ5/OTQtODc4Ni5qcGVn.jpeg) | 1998-05 | Cementerio Club | Cementerio aClubstico |
+| 39 |  | 1999 | Susana Baca | del Fuego y del Agua |
+| 64 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/93f1a560ea6444b3b5706cb13d5e6d2e.png) | 1999 | Mar de Copas | Suna |
+| 76 | ![Cover](https://i.discogs.com/9-XH0r10-lno_zESTYXmtlA5bSLxwSeqklgXiM5_cek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDQ4/MTgtMTQwODYyNjEw/OC0zNDM0LmpwZWc.jpeg) | 1999 | La Sarita | Más Poder |
+| 13 | ![Cover](https://i.discogs.com/eYASvjXOpONh-gv_hsOI8MAxq6kyp9mU-7H-idlW3U8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MjA2/MzItMTQ4MjA3MzMz/NC01NTM3LmpwZWc.jpeg) | 2000 | Uchpa | Lo mejor de Uchpa |
+| 12 | ![Cover](https://i.discogs.com/NLQH5QctovwoikIuClDfQpeUXfgXpeFJjW0f0B4_Amo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjIw/NDA3LTE1Mzg3NTU5/NjctODc5Ny5qcGVn.jpeg) | 2000-11 | Aliados | Abre Tu Alma |
+| 69 | ![Cover](https://i.discogs.com/wOsiC9xuVTz8gLAwYaiGk2cWlAeg37cz164ZvfzzuhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAy/MzgxLTE1MTM3Nzc1/NzUtMjQ3NS5qcGVn.jpeg) | 2000-12 | Cementerio Club | Cerca |
+| 2 | ![Cover](https://i.discogs.com/3qWZjEMxmzE1R7bI36B7uqxIORmfyl_m4oUKVYdqbXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzY0/MjctMTQ4MTI0NjA4/NC01NDkxLmpwZWc.jpeg) | 2001 | Por Hablar | Padre mío |
+| 8 | ![Cover](https://i.discogs.com/Iymkjunk0-Z8IBF8fCsO9wDqoW_RtuBgstNcoROtXCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTc5/MzQtMTQxMTQ5ODIx/Ni0xOTgyLmpwZWc.jpeg) | 2001 | Tito La Rosa | Prophecy Of The Eagle And The Condor |
+| 48 | ![Cover](https://i.discogs.com/wV82mBWyUWwJsLWe7kNbB5YtB3Jgy-IFY-l6uH5wwrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODc4/NTczLTE1ODMzMzEw/NzItNjQ4Mi5qcGVn.jpeg) | 2001 | Susana Baca | Vestido de Vida |
+| 83 |  | 2001 | Susana Baca | Lamento Negro |
+| 56 |  | 2002 | Uchpa | Qukman muskiy |
+| 59 | ![Cover](https://i.discogs.com/k9xUV-2NodgijlW2ksFWnH2yh5jrhuXW0S0d1zOZFvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA2/NzAtMTIwMDI2NjM5/Mi5qcGVn.jpeg) | 2002 | Susana Baca | Espíritu Vivo |
+| 29 |  | 2004 | Various Artists | Back to Peru: The Most Complete Compilation of Peruvian Underground 64-74 |
+| 68 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/40c433a39082c9824512dfd4c2339110.png) | 2004 | Mar de Copas | La Estación de Barranco 05-jul-2002 |
+| 15 | ![Cover](https://i.discogs.com/LWugVxxd8NCu74wD6YrgDAqHM3IQu1U_hFNqzoHAK8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzc3/MjgtMTUxODc3ODk5/MC04ODAzLm1wbw.jpeg) | 2005 | Alborada | Instrumental |
+| 49 | ![Cover](https://i.discogs.com/lLFbVFHmN4si4LItDqwkG5Gnvg8hLdUy2Vyt-mKV7xg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MjYz/NzctMTU1ODE4NDI4/Ny0xNzkxLmpwZWc.jpeg) | 2005 | Diablos Azules | Diablos Azules |
+| 57 | ![Cover](https://i.discogs.com/dIAmV5-zi_5hmIZLKgcVrazCjfYpqMke6TQmIsqEYfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDI2/MDEtMTU1MzkyMDg3/MC0zOTIxLmpwZWc.jpeg) | 2005 | Cuchillazo | Dias Negros |
+| 87 | ![Cover](https://i.discogs.com/1acQ5ZAhYCGtu0cfX3cFr8I2F18LeplXDE4CXS4_4rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzcx/NTYtMTI3MTU5MzMx/My5qcGVn.jpeg) | 2005 | Christina Rosenvinge | Grandes Exitos (92-98) - Alguien Que Cuide De Mí |
+| 92 | ![Cover](https://i.discogs.com/VM_Ke3uV4q96zcoM6Zpye7zeKDL_gMoNJ7hs6jwa9qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzU4/MS0xMzQwMzM1MDA2/LTE5NzQuanBlZw.jpeg) | 2005-07 | Libido | LO ULTIMO QUE HABLE AYER |
+| 38 | ![Cover](https://i.discogs.com/wgE3kL8_H414R5DR0jhJbHW1F23uBpW_j0ZkoSKbHA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDk2/NTctMTMzNzI1NzE1/Ni01NDk1LmpwZWc.jpeg) | 2006 | Susana Baca | THE BEST OF |
+| 81 |  | 2006 | Cuchillazo | Tecno-Furia |
+| 31 | ![Cover](https://i.discogs.com/j0svFRxHXx232Py_W0rAy1s1BXfF6K6btgecpgLZx8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/MjA0LTE0OTIwMjA4/MzktODQ2Ni5qcGVn.jpeg) | 2007 | Space Bee | Space Bee - Live in Space |
+| 37 | ![Cover](https://i.discogs.com/UeHyIKSCqNqgN3TnHiMXSVf2U0kiqHJa-phiADeFAuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzU4/MDYwLTE1NTI3MDQx/NzQtMjA5OC5qcGVn.jpeg) | 2007 | Gaia | La Teoría de Volar |
+| 55 | ![Cover](https://i.discogs.com/JcJ9zf8o7ttgCn2ESUGcxb2hws76itrk050-cGumwe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE1/MDYtMTQ3NzA2NjQ1/OC04NzE4LmpwZWc.jpeg) | 2007 | Cementerio Club | Bailando en el muladar |
+| 70 |  | 2008 | Novalima | Coba Coba |
+| 10 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 2008-10-04 | Various Artists | Andina: The Sound Of The Peruvian Andes 1968-1978 |
+| 62 |  | 2008-10-15 | Serpentina Satélite | Nothing to Say |
+| 4 | ![Cover](https://i.discogs.com/QIGkdZexkfWcD0Pn3XaRHopstm0OrBgSSiCW3q-h60c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDU5/Nzg5LTE2MjcyMjIy/MjMtNjgyMS5qcGVn.jpeg) | 2009 | Odin Aleblian Kasparian | Odin Aleblian Kasparian |
+| 14 | ![Cover](https://i.discogs.com/VvnLlFq-A9Lo2OfgnZWj3gS5g3q6Nzj8STtaI2nBIbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTUy/NzItMTM1MTc0MTgx/OC05MzgzLmpwZWc.jpeg) | 2009-05-05 | Illapa | Lascivo Culto Solar |
+| 32 |  |  | El Cholo Chanka | Huayno Music Of Peru - Vol. 1 |
+| 35 | ![Cover](https://i.discogs.com/KWXUf-h70iOvcXSwJWM0Np6NO49tOYOnPpdIBcoERJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTk4/MTItMTQzNjQ1MzU5/MC0zODQ2LmpwZWc.jpeg) | 2009 | Radiokijada | Nuevos Sondios Afro Peruanos |
+| 71 | ![Cover](https://i.discogs.com/C2fHaow_72Xlx5Xch2AFH1RT0EQLI2Sy0Q6ZSu151KQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzUw/ODEtMTI1MzQ4OTI5/NC5qcGVn.jpeg) | 2009-09-21 | Gaia | One |
+| 7 | ![Cover](https://i.discogs.com/5l_-0L09wPcDmG_m3Pn9Vuur0llbgws66cNDuHSo0Ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDM1/OTY0LTE2NDQ1OTIy/NzktNTY4My5qcGVn.jpeg) | 2010 | Jorge Pardo | Música Tradicional Peruana |
+| 33 | ![Cover](https://i.discogs.com/OfSWoI6pf8UZ4LYbfs4_e6awilA-i7A2ble9SUQtt2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDEx/ODctMTQwODQ4Nzc0/OS05ODQzLmpwZWc.jpeg) | 2010 | Los Chapillacs | Odisea Cumbia 3000 |
+| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/74a630c47ceb4287aa414a0081c5874c.png) | 2011-05-20 | Cecimonster vs Donka | Solara |
+| 80 | ![Cover](https://i.discogs.com/XPmKLFBpAPLF6I_thfJMCXjtaVp31iqmBemHUU5Geg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc2/NTMyLTE0OTExOTUw/MjYtMTg4Ni5qcGVn.jpeg) | 2011-11-27 | Norick | Alma Corazón Y Vida |
+| 1 | ![Cover](https://i.discogs.com/yJVO47G86Ga4mn_Ag5KLr5VVeF7zhJKH8Yfq8AzLADI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTM4/MDIzLTE0OTIyODU1/ODgtMzY4NS5qcGVn.jpeg) | 2012 | El Vals De Lucy Smith | El Vals De Lucy Smith |
+| 5 | ![Cover](https://i.discogs.com/qcJE0H82OVc0M8m35zYHTHdkM0aJ75guS9RgCNVQEm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTg2/ODctMTM3NDU5MTc0/MS05MTMwLmpwZWc.jpeg) | 2012-04-07 | Hexis | Peruvianfreaks |
+| 98 |  | 2012-07-19 | Procrastinación 1 Yo 0 | Caídas y Vueltas |
+| 74 | ![Cover](https://i.discogs.com/WNa_iD8iAgQpLTL-gCOTaVYTj1Ni5DzM8FVVmayVuwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjE3/OTItMTM0MzM0MzEy/Ny0zMjQ1LmpwZWc.jpeg) | 2012-09 | TK | Trece |
+| 9 | ![Cover](https://i.discogs.com/dA9n-DTkrEaQkCkoa1iucBzLoQsoBPINx64ddRc4Zek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzUz/NzI3LTE1NjA0NzY5/NjgtMTg2Ni5qcGVn.jpeg) | 2012-12 | Ni Voz Ni Voto | Rockstar Rebelion |
+| 19 |  |  | Conjunto Luci Luci | Huayno Music Of Peru - Vol. 2 |
+| 26 | ![Cover](https://i.discogs.com/Ub8e0_BsSyzSKMLaERmPQgVNK6LosU-tqXdUvI8EuVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTIw/ODM2LTE1MTgwNDE1/ODgtODQ0Mi5qcGVn.jpeg) | 2013 | aeropajitas | Álbum desconocido (27&#x2F;08&#x2F;2005 01:31:36 p.m.) |
+| 58 | ![Cover](https://i.discogs.com/lCXg9vOeY9pwjzJXLcjXs-mugAS2smKoxPz240XU5eE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODU2/MDQtMTQ2NDU1MTc2/OC03NjEzLnBuZw.jpeg) | 2013 | Juaneco y su Combo | The Birth of Jungle Cumbia |
+| 97 | ![Cover](https://i.discogs.com/Nm3dJSoTSluRe0e2jKqw2G1_YPpwVzzCg9B1dqfzgRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDgx/NTYtMTM3NzM4MTcz/OS03NjA4LmpwZWc.jpeg) | 2013 | Plug Plug | Moo Mua Moo Cow Crazy Love |
+| 25 | ![Cover](https://i.discogs.com/VztxH2QZOoyMAqKs2Gtk6hIa10FwwtGPcVVdoa18uZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODc2/MTMtMTU1ODg0NjQx/Ni04MzM4LmpwZWc.jpeg) | 2013-07-30 | Montibus Communitas | Hacia aquellos bosques de inmensidad |
+| 6 | ![Cover](https://i.discogs.com/cYdk-fw4MRBzNQuKN4bTAK4gkEOhVzGDQcXUsS0nacg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTM4/NDgwLTE0OTIyOTIx/NDktNDkzMy5qcGVn.jpeg) | 2014 | Victor Hugo | El Primer Disco de Victor Hugo |
+| 99 | ![Cover](https://i.discogs.com/s6tzyJiPHV_mam_vEGXUE-swVYRsg29Jy30_YPAQvic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzA3/NTAtMTQyNDI4NjY2/OS0yMzU2LmpwZWc.jpeg) | 2014 | Los Mirlos | Cumbia Amazonica |
+| 43 | ![Cover](https://i.discogs.com/-TlGswIw_bXwX0Pv1VqN76jRLftsrkCt7kkvz8omOno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjQ3/NzMtMTQ4NzYwMDE2/NS00NjQwLmpwZWc.jpeg) | 2015 | La Mente | Sonidos del Sistema |
+| 45 | ![Cover](https://i.discogs.com/msi2SzqGsuV9vJR_oijCV5PaAQ87rSenbzs21vG-b9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjY0/NDctMTQxOTkzNjQx/Ni05MTkwLmpwZWc.jpeg) | 2015-07-01 | Infection | Acrotomophile Mutilator |
+| 61 | ![Cover](https://i.discogs.com/gFTtKqKCBB-NgxYmbRo8lEEl_nOCto3VQb46-KDKtQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTUy/MTI1LTE2MDg0NDU0/MDUtMjU1NS5qcGVn.jpeg) | 2015-11-27 | Los Pakines | 20 Bellas Melodías (Serie de Colección) |
+| 100 | ![Cover](https://i.discogs.com/rY1Ws9OEJX9_-ltYIUlP1rZgw6dEknlZ5jwHEzS_Etg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkx/NjU4LTE1NTUzMzU2/MjMtNDg3MS5qcGVn.jpeg) | 2016 | Los Destellos | Sicodélicos |
+| 3 | ![Cover](https://i.discogs.com/HIuFKgPvtt_fqK8Ja1hQqohU00YC4gxeCBz449bct9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU3/NjcxLTE1MTg0NjEz/NDYtOTc4NS5qcGVn.jpeg) | 2016-05-24 | way 98 | Silence&#x2F;Please, Don&#39;t Say Anything |
+| 22 |  |  | Avenidas | Francia 98 |
+| 23 |  | 2012-04-07 | Hexis | Pornoise |
+| 60 | ![Cover](https://i.discogs.com/hXy72MN9ftSNacT8iBrgko8WJ8TInrwE_d0hG9i8tRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTA2/MDEtMTQ4MDA4ODg5/MS00OTY3LmpwZWc.jpeg) | 2016-12-01 | Los Dandy&#39;s | Lindo Amorcito |
+| 21 | ![Cover](https://i.discogs.com/barI4kCgTJLE-yBprGlRWXjy-PnWLqynmJHKg6T0pNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzMy/MTE4LTE2NDYwMzI1/NTItNTA2OC5qcGVn.jpeg) | 2017 | Armonia 10 | Primerísimos Éxitos |
+| 47 | ![Cover](https://i.discogs.com/myfo2nPNLdijc014mtDJkgKjudE0XpDLY47__7qJAKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAy/MTcxLTE0OTg3NTgz/OTAtNzc5Ny5qcGVn.jpeg) | 2017 | Los Wembler&#39;s De Iquitos | Ikaro del Amor |
+| 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0e645be47e75c89126b8334a35271103.png) | 2017 | Los ZappinG | Teoría de la televisión y la radio |
+| 90 | ![Cover](https://i.discogs.com/Kfc2Xr6amFjrw8kpVF3tAhdMR_K1PMfrKPqItqfWWBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjI4/NDgwLTE2NDUzMTkw/MjctMjQwMS5qcGVn.jpeg) | 2017 | Los Orientales de Paramonga | Los Orientales de Paramonga |
+| 77 | ![Cover](https://i.discogs.com/Escp5Qh1OcapgOkDvc6cUadeVLsDrbUdDpkVnSswd08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk5/Njg1LTE2NTU0MzY5/MDEtODU2MC5qcGVn.jpeg) | 2021 | Renata Flores | Isqun |
+| 24 |  | 2022-04-14 | Various Artists | Huayno Music Of Peru - Vol. 1 |
+
+### Related genres
+
+- [latin]({{ "/tags/latin" | relative_url }})
+- [cumbia]({{ "/tags/cumbia" | relative_url }})
+- [peruvian]({{ "/tags/peruvian" | relative_url }})
+- [folk]({{ "/tags/folk" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [world]({{ "/tags/world" | relative_url }})
+- [traditional]({{ "/tags/traditional" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [ethno]({{ "/tags/ethno" | relative_url }})
+- [spanish]({{ "/tags/spanish" | relative_url }})

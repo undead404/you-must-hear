@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-23T06:21:31.461Z
+permalink: tags/midwest
+title: midwest
+---
+
+## midwest
+
+Last updated: <time datetime="2025-10-23T06:21:31.461Z">Thu Oct 23 2025 09:21:31 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 67 | ![Cover](https://i.discogs.com/Y4ElN6Qs33g4FKZlEsFMzrwE6F1ndgSc6nlcyA58Hkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTY3/MzctMTI4MTQ4Mjkw/Ni5qcGVn.jpeg) | 1990-12-11 | Devo | Are We Not Men |
+| 60 |  | 1993 | Top Authority | Somethin&#39; to Blaze To |
+| 97 |  | 1994-06-21 | Bone Thugs-N-Harmony | Creepin on Ah Come Up |
+| 55 | ![Cover](https://i.discogs.com/vd1gI1fLoPWTNp3HzOJYaAufRRWxDKjsja27jsC56VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjUx/NC0xMzc1NjIxMzM0/LTUyMzcuanBlZw.jpeg) | 1994-11-22 | Esham | Closed Casket |
+| 90 |  | 1996-09-24 | The Dayton Family | F.B.I. |
+| 89 | ![Cover](https://i.discogs.com/S1q_5Aje0dKYtaSh-cyzQhZKNpwKJcg815M36xE3KOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTcz/MjAtMTU5MDcyMTUy/OS0zNTE0LmpwZWc.jpeg) | 1997 | Piebald | When Life Hands You Lemons |
+| 51 | ![Cover](https://i.discogs.com/t2BZBOPO2xNinggVjJ7IvdlDmNu4IJ-zT9sy4LWbSRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTE0/OTItMTM2ODEyNjk2/NS01NzExLmpwZWc.jpeg) | 2000 | Project Born | Born Dead 2 |
+| 61 |  | 2000 | Athletic Mic League | The Thrill Is Gone |
+| 64 | ![Cover](https://i.discogs.com/7QgepmVkEeI0lSbDs2kE1wqESDR8kDQeQdZEWTgDpes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjM1/OC0xMzc0OTI2OTEy/LTY0NTQuanBlZw.jpeg) | 2000 | Esham | Boomin Words From Hell |
+| 78 |  | 2000-03-27 | Illogic | Unforeseen Shadows |
+| 95 |  | 2001-02-06 | Typical Cats | Typical Cats |
+| 54 |  | 2002 | One Be Lo | Project: F.E.T.U.S. |
+| 72 | ![Cover](https://i.discogs.com/lDXG6wLS4l7fgx8ADfCQIZOu_ztd40bFvEWkD9DtCbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDA4/Ni0xNDU5Mjc4MTg3/LTU1NzkuanBlZw.jpeg) | 2002 | Athletic Mic League | Sweats &amp; Kicks |
+| 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/313cdfd9f73e4655c671a34f3454eba9.png) | 2002-12-09 | The Black Keys | The Moan |
+| 79 |  | 2003-09-22 | Atmosphere | Seven&#39;s Travels |
+| 91 |  | 2003-10-25 | Diverse | One A.M. |
+| 71 | ![Cover](https://i.discogs.com/iSGUfwTpdjQCUyFgQaKkBGKOiWZxNbf_5X3B3CyL9ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NDktMTE4NTc1Mzg1/My5qcGVn.jpeg) | 2004 | Keston and Westdal | Super Structure Baby |
+| 84 | ![Cover](https://i.discogs.com/IFt2hEvsCsZQaBsnk73w1i1ggG3OG10Qxkmdl95IVCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mjk2/OC0xNTg3MTQ4MTc2/LTkwNDkuanBlZw.jpeg) | 2004-10-26 | Typical Cats | Civil Service |
+| 52 | ![Cover](https://i.discogs.com/7HV73XVKrkHe2UIs_jHUs_5ikHTGVVM-HexFnZWBr34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYw/MzAtMTUxODgwMzQ3/OS0xMzI2LmpwZWc.jpeg) | 2004-11 | Menacide | The Drugz LP |
+| 69 |  | 2005 | One Be Lo | S.T.I.L.L.B.O.R.N. |
+| 70 | ![Cover](https://i.discogs.com/TLxolLauaKH4ka9pReB3Kf7i6TE7LHvBnDxlGpinmzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTQ2/NS0xMTA5NTY4ODU2/LmpwZw.jpeg) | 2005 | YUKI | Pony Play |
+| 88 |  | 2005-10-04 | Atmosphere | You Can&#39;t Imagine How Much Fun We&#39;re Having |
+| 73 | ![Cover](https://i.discogs.com/3I_oJHpNjrtMhjudL_OUOHU4AkhROR-_9QcL-MN3zGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODc1/MjktMTMwNTc0Nzgy/MS5qcGVn.jpeg) | 2006-04-11 | Tom Brosseau | Tom Brosseau |
+| 99 |  | 2006-08-15 | The Black Keys | Your Touch - The EP |
+| 77 | ![Cover](https://i.discogs.com/_oKIpMYJIvwhcg-Sx5mCogjBjz1XtoN2O0abD2a-JBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzY3/MjctMTU3MjE2MDY3/Ni05NTg0LmpwZWc.jpeg) | 2007 | Project Born | Once Upon A Time In The Projects |
+| 1 | ![Cover](https://i.discogs.com/DP7L_byltLNrN25YiEtKzGjO8ackjViKk4Upsys7rS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQx/MzEtMTMxNjcyMzEy/Mi5qcGVn.jpeg) | 2007-02-19 | Qwel &amp; Jackson Jones | 20th Street Rich |
+| 81 | ![Cover](https://i.discogs.com/mFtz6EWrv1Z-cw8dJu9pVDz1hamR8mbQGKpExo__wQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NTctMTE4NTc1NTUw/Ny5qcGVn.jpeg) | 2007-03-13 | Keston and Westdal | Truth is Stranger |
+| 76 | ![Cover](https://i.discogs.com/fISOc0KsrXtBgdIsB2N0ixWRCX29UWnM2R5u_EDR3tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTEy/NjEtMTM2MDMyNTg3/NC0yNjg5LmpwZWc.jpeg) | 2007-07-10 | Robust | El Foto Grande |
+| 94 |  | 2007-08 | The Black Keys | The Live EP |
+| 86 |  | 2007-10-10 | Mind Soup | Love Songs For Gifted Children |
+| 75 | ![Cover](https://i.discogs.com/nH5YtRTRoszhMk3w5SyGyaecT-rbM8HZj2l-qAH97mU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODIy/NDUtMTQ1Mjg4NTQw/My0zNjI1LmpwZWc.jpeg) | 2008 | Keston and Westdal | One Day to Save All Life |
+| 98 |  | 2008-03-24 | The Black Keys | Strange Times |
+| 57 | ![Cover](https://i.discogs.com/_csbLduzeviCbkImdSj9M8hBbVXEUYzabsBatamZF88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTQ5/MTYtMTI5MjI1OTQ4/NC5qcGVn.jpeg) | 2008-11-11 | The Layaways | The Space Between |
+| 56 |  | 2009 | Shane Capone | Certified WhiteBoy |
+| 53 | ![Cover](https://i.discogs.com/Sk7Lr1rU6OLNHVr1Z5g-kZYz7-oOxn83pgjh4RtPvXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDM3/MDYtMTI3NTU4NDMy/OC5qcGVn.jpeg) | 2012-08 | The Black Keys | Brothers (bonus disc: Akron Sessions) |
+| 59 |  |  | Nik Salah | Midwest&#39;s Best |
+| 80 | ![Cover](https://i.discogs.com/SahHa6DLCuTbeRLD6P5ISfzUu6l2ZmKXgeLalUVOoEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDA3/NTUtMTI4NDQ3NDAw/MS5qcGVn.jpeg) | 2007-12-11 | One Be Lo | The R.E.B.I.R.T.H. |
+| 74 | ![Cover](https://i.discogs.com/Fv_59Zbt3qV0Sk46yerH-ivvZzhhjGHdsxWbSXP6MF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTgy/NjktMTIzNzY4MTg0/OC5qcGVn.jpeg) | 2008-09-30 | Trick Trick | The Villain |
+| 63 | ![Cover](https://i.discogs.com/QzcykB_xlOTsGS1LbKfPs8dZCL_YQ8-I4--K7fN4Wik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjc4/NjYtMTUyNjE4MDM3/Mi05MjA3LmpwZWc.jpeg) | 2009-01-29 | Kgp | Hatred Vol 2 |
+| 68 | ![Cover](https://i.discogs.com/sojUoUYHbMHZgAokQmBmJCrNBttMDtGPfbyhcmmXFNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjA3/MDAtMTI4NTMzMDky/Mi5qcGVn.jpeg) | 2009-12-18 | Mind Soup | Besides |
+| 83 | ![Cover](https://i.discogs.com/DsfC7CrPniy5JZ9yn4IXnsGOVaZtUHUxu-XW2rVkDvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTMx/NjktMTI2MjUwNTMz/Mi5qcGVn.jpeg) | 2010 | The Black Keys | Same Old Thing |
+| 96 |  | 2010-10-19 | The Black Keys | iTunes Session |
+| 92 |  | 2011-01-04 | The Black Keys | Ohio |
+| 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/df3fc4d3ca4841eb8e6a76c0cabae10a.png) | 2011-10-25 | The Black Keys | Lonely Boy |
+| 58 | ![Cover](https://i.discogs.com/3Sm-2IocvJdg4UwTrHxLD0Lyc0m78cK2-qydHaT_frM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTY1/NTE1LTE2NTUxNTY2/NTgtMzI0MC5qcGVn.jpeg) | 2013 | American Wolf | Tales Of Kamanakera |
+| 85 | ![Cover](https://i.discogs.com/lLsxk8Rl7jVgykxFRTqaO0bleuCEjO77cbgLWercTHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTgy/MDMtMTQzMjcyODA1/OC04MDE3LmpwZWc.jpeg) | 2015-06-29 | YUKI | Yuki EP |
+| 62 | ![Cover](https://i.discogs.com/-YuZT7fwAybJ35mOgsXKNOBlJ3t2vLDPE5HoQYRmH1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjE1/NzI4LTE2MDU0MTQz/MDktNzg2MC5qcGVn.jpeg) | 2016 | Good Luck at the Hog Slaughter | Ghost Stories |
+| 93 | ![Cover](https://i.discogs.com/osxz7i8xgOiIXrgBpsDC98nn-ZwFOEfQFH_BL6TGxoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTUw/MTYzLTE1Mjk4NTQx/MDMtMTc4NC5qcGVn.jpeg) | 2016-06-29 | Stars Hollow | I&#39;m Really Not That Upset About It |
+| 82 | ![Cover](https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg) | 2017-03-03 | Various Artists | The Land (Music from the Motion Picture) |
+| 87 | ![Cover](https://i.discogs.com/AJngPhVjsgisB3yFGJGS1CXrloxTUsn-Q1SL7TuVszE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/My0xMjI3Mjc3NjA0/LmpwZWc.jpeg) | 2018 | Origami | Синдром Кассандры |
+| 66 | ![Cover](https://i.discogs.com/PfLTqUASNbMgHqlm5pSV1Ze8sdSwnZ-lo0rm3LFPzJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUw/MzE5LTE1NTQ0NTEw/NjAtMTYwNy5qcGVn.jpeg) | 2018-12-07 | The Pier | Dead Reckoning |
+| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/71d08b8a06d7793d0e35febc469758dc.png) | 2019-06-13 | Bird Bone | Тени |
+| 3 |  |  | Block Burna Boyz | The Brains Tha Muscle &amp; Da Mouthpiece |
+| 4 |  |  | 1st Dagree | Ride Wit Us Or Get Ran Ova Vol 2.0 MixTape |
+| 34 |  | 1995-02-24 | Project Born | Born Dead |
+| 45 |  |  | Adam Zivojnovich | LIVE! FROM MY PARENTS&#39; BASEMENT |
+| 49 | ![Cover](https://i.discogs.com/DkLU_Y8dgnZlC0_Rx-1S6KOnYCvB91rnz6Xz4ADQan0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mzk0/MS0xMzcwMDkzMjg5/LTgzMzEuanBlZw.jpeg) | 1995-01-17 | Mastamind | Lickkuiddrano |
+| 40 | ![Cover](https://i.discogs.com/-bTw_DcMLYdMhaqHL_wuFQZQ2YZOZRXR5-ls0akepzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTkx/ODg0LTE1NzkwNDEx/NzMtOTE5MC5qcGVn.jpeg) | 1997 | Triple Darkness | Cold Blooded |
+| 42 |  | 1997 | Kgp | Necrology |
+| 6 | ![Cover](https://i.discogs.com/Bk2NxiGgEydbHOFZEDo-PgjR4bhySkKvoPLZN6yutmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/MC0xMTE5NjI0NTky/LmpwZw.jpeg) | 1997-01-30 | Son | A Storm Of Soap And Other Things |
+| 11 | ![Cover](https://i.discogs.com/wKJ-MXn_zCaVCRovuSSAbDloxygVgaKrorprlyOvqI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTM5/MzUtMTY0NzU4MzA0/MC0xMDg5LmpwZWc.jpeg) | 1999-09-01 | Paradime | Paragraphs |
+| 37 | ![Cover](https://i.discogs.com/Lz58ejc_FlVZqiGD7PD6mvSL5TaxabZ5nirgZokKlEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDE3/NzQtMTQxOTMwNDcy/Ni00OTQ1LmpwZWc.jpeg) | 2000 | Halfbreed | Serial Killaz |
+| 35 | ![Cover](https://i.discogs.com/3tPjwZcdE-MrP-sNnb_kpmMxL06Taosoa1-tBhcGu8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTA1/OC0xMzgyODcyOTc3/LTkxMTguanBlZw.jpeg) | 2000-03-28 | Esham | &#39;Bootleg&#39; (From The Lost Vault)-Vol.1 |
+| 14 | ![Cover](https://i.discogs.com/WZazvFvTNJqiRh0ymn1DffOWlAkeoeTJOXCSBjsFdgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzAw/MTEtMTQ0NjQwNTY2/My05MDcxLmpwZWc.jpeg) | 2001 | Paradime | Vices |
+| 16 | ![Cover](https://i.discogs.com/JBsCGtQ6AmHxZngGNGNtz5iMMWTvh5guYAhLeXoIwOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDU5/ODU1LTE1NDczNzky/NTctOTc2NS5qcGVn.jpeg) | 2012 | Shane Capone | Heated Speech w&#x2F; bonus DVD |
+| 5 | ![Cover](https://i.discogs.com/vO99u30Foo93a19iA4xHN8cAXHse9zqcD6RWYyuBJJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDIy/MTQtMTQ0MzYzMzM4/MS05MjQ4LmpwZWc.jpeg) | 2015-09-18 | Gaps | Beat Her Heart Out |
+| 7 |  |  | Mr. Frizo | House Keys (Single) |
+| 8 |  |  | Teflon Trigga | Against All Odds |
+| 13 |  |  | МЫСБИВАЕМСПУТНИКИ! | Город в котором нет меня |
+| 15 |  |  | Beaver Shoot | Where is the P***y and Beer? |
+| 18 |  |  | Prophicy | Inception: the mixtape |
+| 20 |  |  | M.O.B.  ...featuring Shane Capone | Terror... |
+| 21 |  |  | M.O.B.  ...featuring Shane Capone | Welcome to Detroit Muthafuckaz |
+| 43 |  |  | Lyriscologist | New Bombs Explodin&#39; Tracks |
+| 48 |  |  | Pour Choices | Not Enough |
+| 10 | ![Cover](https://i.discogs.com/4mpe6_Q8ijJ8jvgNiWsmBlTRj9CoPTza6FgI7dy5xFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY1/ODg4LTE1OTAzNTc3/MDUtNzI0MC5qcGVn.jpeg) | 2002 | Rich the Factor | Big Thyme |
+| 25 | ![Cover](https://i.discogs.com/0UdU4mfI8ID6_uoB5bQfnrw-lX6nkXiAnoenex1wbJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTM1/ODEtMTM4Mjg3ODM2/OS0xMDk5LmpwZWc.jpeg) | 2003 | Dice | Theneighborhoodshittalka |
+| 9 |  | 2004-08-24 | MC Breed | The New Prescription |
+| 12 | ![Cover](https://i.discogs.com/JeCIcVEZ552zqaPIRYcd7og8Fpm0iH9tdPtn57BETMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTAy/OTEtMTI3MjMyNjIw/Mi5qcGVn.jpeg) | 2007-08-01 | Amdeide | Facade Promo |
+| 17 |  |  | Lunatic Da New Face N Rap | Hood Infested |
+| 24 |  |  | МЫСБИВАЕМСПУТНИКИ! | деймос и фобос |
+| 30 |  |  | Descending New Angels | Descending New Angels 1 |
+| 31 |  |  | Lyriscologist | R.O.L. |
+| 36 |  |  | RawBeatzz | Anotha Day...Anotha Dolla... Anotha Beat...mixcd Vol.1 |
+| 27 | ![Cover](https://i.discogs.com/bARElj4onslgNA-gF_5kFh204-vFhGo2E4rX4My1meI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMw/MTM0LTE1OTQ4NjA2/NDgtMzY3MC5qcGVn.jpeg) | 1994 | Bag Of Hammers | Bag of Hammers:eXtreme - Weed-n-Coffee |
+| 50 | ![Cover](https://i.discogs.com/5VMOwl-2NMAwd6ZDMRhjmrV7hxoMUvEvLYR8H6q3Xwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/NTEtMTMzNzk4MDI4/Ni05NzA4LmpwZWc.jpeg) | 2001 | Qwazaar | Walk Thru Walls |
+| 22 |  | 2003 | Various Artists | The Motor City Rhythm &amp; Blues Pioneers |
+| 41 |  | 2004 | Bedlam | Bedlamitez Rize |
+| 29 | ![Cover](https://i.discogs.com/WURZkPBlmt0GwmGchRzkg0KJuZatnl22KPbxC-n8b6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTEw/MjUtMTM1NTU5NjU5/Ni01NjUzLmpwZWc.jpeg) | 2004-08-03 | Paradime | 11 Steps Down |
+| 32 | ![Cover](https://i.discogs.com/nTCyJaCsn-c-bl09O4u8GPMx5adZIEk5TL1d0NJfmiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk0/OTgtMTIxNDUyMjgw/My5qcGVn.jpeg) | 2005 | Skrapz | The 12 Step Program |
+| 47 | ![Cover](https://i.discogs.com/ayM6nCsoX3SkMiRwxvk0PXzOKrR0pkpx4H16Jt-lR98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mzk0/NzItMTY1Mzc3OTk3/Ny01NjQ0LmpwZWc.jpeg) | 2005-10-04 | Marz | Against All Odds |
+| 46 | ![Cover](https://i.discogs.com/aXz3xgL3xF8f_b9T8DIb63zpN5hw1pm-CrpDgVXVixI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjU4/NC0xMTUwMDY1NTQ5/LmpwZWc.jpeg) | 2006-06-16 | Elephant Beach | Escape |
+| 23 | ![Cover](https://i.discogs.com/lvdH9j3WmliXrwetizdRo7cj5eV9BovskDHJX80LVz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzEy/NjgtMTQ0ODQzNjI1/Ny03NzE1LmpwZWc.jpeg) | 2006-07-11 | The Lovekill | These Moments Are Momentum |
+| 26 | ![Cover](https://i.discogs.com/nDaki_1usaoHcmcp9G9yw033islx9UIC1PEmlmwP7Jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDI4/MTYtMTQwMTQxNDkz/OS0yNDA0LmpwZWc.jpeg) | 2008 | Eisenhower Field Day | Tyrants and Spies |
+| 19 | ![Cover](https://i.discogs.com/A3m_1TsHvCiWszyroaM37ctyFGe1XmlWFXHVUA9y-Wo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzkz/NzItMTI0MDI1NzUw/NC5qcGVn.jpeg) | 2009-04-17 | HipGnosis | Scientific Illuminism (Is For Sissies) |
+| 38 | ![Cover](https://i.discogs.com/yWS00Dbm2-YQ3j8OXSJOUtJm1rrIOMPEoJCdbIL3bKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg2/MTM4LTE1MDA0MTMx/MjMtMTM1OS5qcGVn.jpeg) | 2010 | Bad Heart Bull | Devil Catch Up With Me |
+| 33 |  | 2010-11-10 | KatazTrophee | Opening The Box: The B-Sides |
+| 39 | ![Cover](https://i.discogs.com/UfW75siAgQDWDbp_2j-m4msJCdjAcroWahuhMY-AY78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYz/NDg0LTE2MTE5MzU0/NzEtMTIyMC5qcGVn.jpeg) | 2014-09-23 | Hey, Joni | DEMO |
+| 28 | ![Cover](https://i.discogs.com/1Uvu_ztFvtiy0hhwPfZq6ozn65fZzytgXEEMomLjyS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjEy/MDc2LTE2NzcyNTc3/ODEtMjgzMy5qcGVn.jpeg) | 2022-09-24 | Bovinophobic Bile Puddle | BBP |
+| 44 | ![Cover](https://i.discogs.com/9lxevwhcY6rshI7tAUtCa8HJK3-JJs2oT9VztvbNkhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTE2/MS0xMzk4NzQwODYw/LTY0NzUuanBlZw.jpeg) | 2023 | Various Artists | LOYALTY &amp; RESPECT MIXTAPE V.1 |
+
+### Related genres
+
+- [rap]({{ "/tags/rap" | relative_url }})
+- [underground rap]({{ "/tags/underground-rap" | relative_url }})
+- [hip-hop]({{ "/tags/hip-hop" | relative_url }})
+- [michigan]({{ "/tags/michigan" | relative_url }})
+- [midwest rap]({{ "/tags/midwest-rap" | relative_url }})
+- [underground hip-hop]({{ "/tags/underground-hip-hop" | relative_url }})
+- [detroit]({{ "/tags/detroit" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [detroit rap]({{ "/tags/detroit-rap" | relative_url }})

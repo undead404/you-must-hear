@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-22T00:41:08.981Z
+permalink: tags/juke
+title: juke
+---
+
+## juke
+
+Last updated: <time datetime="2025-10-22T00:41:08.981Z">Wed Oct 22 2025 03:41:08 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 2 | ![Cover](https://i.discogs.com/AvwhtZKZV1b1nRrT80J6RLAFvuMsl8LjRQkoyzSpxHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzI4/MDAtMTQwNjY2NjMy/OC01NTE1LmpwZWc.jpeg) | 2014-06-30 | Lux Familiar | Visionary |
+| 4 |  |  | 抹殺レコーズ | 【OMOIDE LABEL×抹殺レコーズ】 Vocaloid Juke |
+| 23 |  | 1977 | Various Artists | VIRTUAL VELOCITY |
+| 46 |  | 2001 | 8rolek | waltz steps |
+| 44 | ![Cover](https://i.discogs.com/sFm3lky_8RXF4NLUEv7Lx56kzo2BWkUdrVoRim_Qqjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjA3/MzgtMTQxMTExOTMw/MC0yNTIzLmpwZWc.jpeg) | 2004 | Leatherface | Tales of the Jukesaw |
+| 39 | ![Cover](https://i.discogs.com/fUWLOObeXfvThD8-M1JhC9YX_344wEmsi1pQ_WKFKzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDc5/NDEtMTI5OTI1MDM5/NS5qcGVn.jpeg) | 2010 | Five Star Hotel | #HOTELSEASON II |
+| 14 | ![Cover](https://i.discogs.com/EI1e-VXpfmz8SO5WDLEpkmwVapjukcDuOe2l42u-2Dw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg3/MDk4LTE1MjA2NjY0/NzUtNzU1Ny5qcGVn.jpeg) | 2011-10-31 | Yheti | Love |
+| 28 | ![Cover](https://i.discogs.com/O7ZSrOlC-Pg8ZHDDk0J6xqO6qlFlTJInapaVyqfamuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDgx/MzctMTQxMTI2OTQy/OC00MjE4LmpwZWc.jpeg) | 2012-04-11 | Drrty Pharms | D℞℞TY&#39;$ PHA℞MA¢Y |
+| 42 | ![Cover](https://i.discogs.com/_VvpnHOl2fRXu-wwrBqG8bUaNVRDhH71fI5K89zJw5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjMy/ODctMTM3NzgxNjE0/Ni02NDc1LmpwZWc.jpeg) | 2012-08-20 | DJ Chap | Footwork Frenzy EP |
+| 27 | ![Cover](https://i.discogs.com/FXUtd95lOktGXluDSLCK7XNNLxON3fF_lZbLBDPWG88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzA3/MDUtMTM5MzE3Mzc2/Ny01ODI4LmpwZWc.jpeg) | 2012-10-02 | shivastep | shivastep ep |
+| 48 | ![Cover](https://i.discogs.com/0FSuRj6nO9GzM6FqNUoCL2oWxHuXLCxLJrepw4Mw1ys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTg5/MTUtMTM5NDIyNjc4/OS04OTE2LnBuZw.jpeg) | 2013 | Shisa | finer red |
+| 26 | ![Cover](https://i.discogs.com/1rufkZeUSIWOwDdHcigvmU6bx2AOr9brlMgOImgUOoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTYz/MzktMTM2MTU1Njc3/Ni03ODU4LnBuZw.jpeg) | 2013-02-22 | Terrorrythmus | Adaption Disorder |
+| 9 | ![Cover](https://i.discogs.com/7IeLp8OIwklAQ6JC9uIOLKUvQRIwsNtrXbBVOx2Fn2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTMx/MjctMTQwNjE0NzM1/MC0xNTMzLmpwZWc.jpeg) | 2013-12-09 | Miko | Do They Know Ya EP |
+| 17 | ![Cover](https://i.discogs.com/uocfciNac47mhSouiLd-sNO1nNGnAgb8d4iv3NmFwWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgx/MTgwLTE1MDc2MDcz/OTYtNzIxOS5qcGVn.jpeg) | 2014-02-23 | 1OO1O | Hotmelt |
+| 6 | ![Cover](https://i.discogs.com/h7OPmXBXr-qPOIGmPNxiVN5XNElpofe5u7wBFVhmYsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTg2/ODEtMTQ3MjM3MjAx/NC04ODI3LmpwZWc.jpeg) | 2014-08-11 | Любэ | Berezoviy Srub |
+| 50 | ![Cover](https://i.discogs.com/0x78d7wbsFBgq5QX0vOg8xNzgRoE_amkvD8m5b44EJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTcx/MzctMTQyMTk0MTg1/My03MTEyLmpwZWc.jpeg) | 2015-01-21 | Melt Unit | Get Melted |
+| 20 | ![Cover](https://i.discogs.com/Vz5cVhQv2nKZhjNDWST_dIoXlYOORXsYY2YybdhYzbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM5/OTUxLTE2MTUyOTg4/NDAtMjc3NS5qcGVn.jpeg) | 2015-06-05 | Drrty Pharms | Life Sucks And Then You Cum |
+| 18 | ![Cover](https://i.discogs.com/wWIi6ticoL6JwUlf82GZdiqVQYPoYRleX8Pqn6K8lTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDg2/NTYtMTQ0MTcxMzQz/NC03Mzk2LmpwZWc.jpeg) | 2015-09-07 | Captain Raveman | 内なる怪物 &#x2F; The Inner Monster |
+| 41 | ![Cover](https://i.discogs.com/vcczTYmHFKvy4_nWlQq6Ddg7b3c2j8lzQEMAdyeu1YE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODIx/MjMtMTQ1NDc4NjUw/Ny0zNjM4LmpwZWc.jpeg) | 2015-11-27 | A.Fruit | Expectations |
+| 3 | ![Cover](https://i.discogs.com/JUsCc_Hn2I9hO8rJxN39O45aeC119K3QbR2V4n5pz2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYx/MDExLTE1MTA5OTc0/MTktNDM2Ni5qcGVn.jpeg) | 2016 | Sleepwell | Never Ever |
+| 36 | ![Cover](https://i.discogs.com/6q8Epm3EXs7qhhP2H61FUpOdgLYsEcC6z2d6ard1ZZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjA1/NTQxLTE2MDUyNTgy/OTctODY5Ni5wbmc.jpeg) | 2016-01-13 | DJ Earl | Meditate On Bass |
+| 47 | ![Cover](https://i.discogs.com/Kg6u1hgUvTRdSKE03-YmVN1XvBj9pGcKzsm4Gn8bHaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjMy/MTctMTQ2NTM0ODE1/NS00NTc1LmpwZWc.jpeg) | 2016-02-29 | Taso | COLD HEAT VOL. 2 |
+| 10 | ![Cover](https://i.discogs.com/TM0_ZFi_K5gL6xq0idVyrS6XcYkai9ZbFKtqP7_xRNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcz/ODQ5LTE1MzE5MjEy/NTMtMzEzMy5qcGVn.jpeg) | 2016-03-11 | FreshTillDef | Delirium |
+| 38 | ![Cover](https://i.discogs.com/TlUf4ZFpQyVkdMKF3z-9Ie3vctO6kxFRj2QvXWdNmUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjMy/NDctMTQ2NTM0ODYz/MS05NjU0LmpwZWc.jpeg) | 2016-03-31 | Taso | Cold Heat Vol. 3 |
+| 33 | ![Cover](https://i.discogs.com/eJPyX4DMMpI1B9lANvNEnLwXP7jUtn2H23L1D251AVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTIy/NjQtMTQ2MTk1MTM3/Ny04MzA5LmpwZWc.jpeg) | 2016-04-08 | Swisha | Perfecto |
+| 49 | ![Cover](https://i.discogs.com/vrHr9bVc4FwFwmONMbns42w-gloqrAQvwYbcPUHEnRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjU3/ODYtMTQ2MjE0MTA5/Mi0zMzAxLnBuZw.jpeg) | 2016-04-23 | Alis | Corporeal |
+| 40 | ![Cover](https://i.discogs.com/2TGO5kMSQHBfLEpiw8cnnKltVahr-ptPia3WO9FWGPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjMy/NTYtMTQ2NTM0ODc2/OC0xMzAwLmpwZWc.jpeg) | 2016-04-29 | Taso | COLD HEAT VOL. 4 |
+| 13 | ![Cover](https://i.discogs.com/2mPTkp2Po-35VVRkLAb_Yaskr2GYUnPdTJnOoYLJNd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjMy/NjYtMTQ2NTM0OTAw/My01NDE3LmpwZWc.jpeg) | 2016-05-31 | Taso | Cold Heat Vol. 5 |
+| 1 | ![Cover](https://i.discogs.com/eXkLK7uxwuYaRmJ-jpCg8632amj2hwAAgrMG3OP6AjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjc1/NjUzLTE2MTgzMDEy/OTUtNjI5NC5wbmc.jpeg) | 2017-09-19 | Taso | Cold Heat Vol. 6 |
+| 5 | ![Cover](https://i.discogs.com/eXkLK7uxwuYaRmJ-jpCg8632amj2hwAAgrMG3OP6AjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjc1/NjUzLTE2MTgzMDEy/OTUtNjI5NC5wbmc.jpeg) | 2017-09-19 | Taso | Cold Heat Vol. 7 |
+| 22 | ![Cover](https://i.discogs.com/6R0pqz2UFlBLPqK_PcmV33ft0A9AmyPPoMjvxGdwq9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA4/MzA5LTE1NTE4MDUz/MDMtNjMzMy5qcGVn.jpeg) | 2019-02-27 | Nancy Drone | Displacement |
+| 15 | ![Cover](https://i.discogs.com/DBTABOlaNlrzWmUQnadvdEBx65qHZsWT3FoSsPHYwy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTUw/MjEyLTE1OTgyNDA3/NDMtODczMC5qcGVn.jpeg) | 2019-11-25 | Kindohm | groove 10 |
+| 21 | ![Cover](https://i.discogs.com/kgVdQ8BlI93LsnZ_HWQ02rn06WJpTsRYtTztaHxik5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDEw/NTQyLTE2MTkxMDYx/OTUtMTAyNC5qcGVn.jpeg) | 2021-04-21 | Nattymari | Gimmie Sum |
+| 11 |  | 2022-04-14 | Various Artists | CRACK: A Lost Juke&#x2F;Footwork Compilation |
+| 7 | ![Cover](https://i.discogs.com/S2clsTHjdDwKIvBRqMjXppbraQC9f0w98Zl0QUdhcl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTU3/MDY0LTE2NTUxMDQz/MjEtMzM1OC5qcGVn.jpeg) | 2022-04-22 | Kenopro79 | Juke Professional |
+| 8 | ![Cover](https://i.discogs.com/vFUk2fpQGfu2ihmlfKZZjfi97GMnnVDMkg-idl5iyns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzky/NTM4LTE1ODE2OTkx/NDQtODYwOS5qcGVn.jpeg) | 2022-05-06 | WE ROB RAVE | WE ROB RAVE 7 |
+| 12 |  |  | Post Religion | Icepunk 3 |
+| 16 |  |  | NiklāvZ | BLOCKS |
+| 19 |  |  | Myshiuno | Chinatown, San Francisco |
+| 45 | ![Cover](https://i.discogs.com/zAqsekykEHuz-CaNxPd9R1Q6EQNFiZtISC3bZnoOJ70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzg0/NzUyLTE1OTc3NDc0/MzUtNzMxOS5qcGVn.jpeg) | 2016-12-02 | Body Mechanic | WESEX 69.9FM |
+| 32 | ![Cover](https://i.discogs.com/92GiYeuOZWebwphNVj08lJeBOJCY5wpymemweIwCvZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcw/MzUyLTE1NjM5MTgy/NTMtNzkwNi5qcGVn.jpeg) | 2018-11-30 | DJ DR-660 | SEX MUSIC |
+| 37 | ![Cover](https://i.discogs.com/3LiDUflckEuRz-zQI_2oQ5nkfs5kTch9EcxAp-enmA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQw/MTA3LTE1NTQyNDE0/MjQtMTMzOS5qcGVn.jpeg) | 2019-02-26 | Fomorian Vein | Veneration |
+| 43 | ![Cover](https://i.discogs.com/iPue0xaSwHCJ7zTpcKZjKxxAQ8TNQ_XWLiqM-hHnQz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM2/MzkxLTE1NTgwMDc0/NjAtMjI2Ny5qcGVn.jpeg) | 2019-05-03 | Fomorian Vein | This Is the Part I Feared Would Occur |
+| 34 | ![Cover](https://i.discogs.com/nWs6phRP0pjZZLGCIq3xSoBWnS2uL3Wsjq0BYP6ve9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYx/NTM0LTE1ODQ3ODYy/NzctMzE0Ni5qcGVn.jpeg) | 2020-03-17 | Dj FLP | Freaky |
+| 31 |  | 2021-04-23 | Various Artists | Thee Alpha &amp; Thee Omega, Vol. IV |
+| 35 | ![Cover](https://i.discogs.com/XzfhOtkvMLIblh5pysjFD4m0QQm6P-7MMkgPe1mWCuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzk4/MDYxLTE2NzIxNzUw/MjEtNzk2Ny5qcGVn.jpeg) | 2022-05-04 | The Bobfather | Dance Into the RevolutionX2 |
+| 25 | ![Cover](https://i.discogs.com/vFUk2fpQGfu2ihmlfKZZjfi97GMnnVDMkg-idl5iyns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzky/NTM4LTE1ODE2OTkx/NDQtODYwOS5qcGVn.jpeg) | 2022-05-06 | WE ROB RAVE | WE ROB RAVE 6 |
+| 24 | ![Cover](https://i.discogs.com/XzfhOtkvMLIblh5pysjFD4m0QQm6P-7MMkgPe1mWCuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzk4/MDYxLTE2NzIxNzUw/MjEtNzk2Ny5qcGVn.jpeg) | 2023-08-04 | The Bobfather | Dance Into The RevolutionX3: CIA Galaxy Rave Operations |
+| 29 |  |  | DJ Fultono | My Mind Beats Vol. 1 |
+| 30 |  |  | 和泉幸奇 | Rigid Footwork |
+| 66 | ![Cover](https://i.discogs.com/gFLhuksdeBEWq71eaQHe0sGkYdzspnix473Zz3q3uPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTg4/OS0xMTgyNDQ5NTYy/LmpwZWc.jpeg) | 1994 | Fracture | Get Busy |
+| 69 |  | 2001-06-28 | Bitch Ass Darius | Follow The Sound |
+| 64 | ![Cover](https://i.discogs.com/43A0iNEzGn5TN6ROOrBhXXOc1XmD1gDXADEI2GAA2Hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDA5/NTQtMTM0NDk0ODQ5/Mi05NTAxLmpwZWc.jpeg) | 2007-08 | DJ Rashad | Jukestacy |
+| 63 |  | 2007-08-28 | Juke Baritone | Juke Baritone |
+| 71 | ![Cover](https://i.discogs.com/qwADT1eqMqOOmR9MCXXbv4IiETlPR0hhobQo9naMan8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDgx/MTgtMTI5NDg2NTI0/NC5qcGVn.jpeg) | 2010-01-11 | Kid Sister | Kiss Kiss Kiss (mixed by Nick Catchdubs) |
+| 100 |  | 2011-07-25 | Machinedrum | Room(s) |
+| 62 |  | 2012-03-27 | Digi G&#39;Alessio | Lucky Bald EP |
+| 54 | ![Cover](https://i.discogs.com/9v4wiMCpP3SqCeEl_L9eXr3OFhjf6Yv6lL9ZH_c5dwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTM1/NDAtMTMzNjYzNTg3/OS01ODQ2LmpwZWc.jpeg) | 2012-05 | DJ Clent | Two Feet On The Ground |
+| 92 | ![Cover](https://i.discogs.com/ikRA4nuOcrqulOl1tTSyuy1bV8wJ_t8sUUlSrUOYmUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzE0/OTEtMTM2MDMxODY1/Ni05MzU1LmpwZWc.jpeg) | 2013-02 | iTAL tEK | Hyper Real |
+| 57 | ![Cover](https://i.discogs.com/7dPdLoCpgGdFe7C9tGM6AB3RsOpBJ8EVNIE30ufytvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjQ5/NjktMTM2MTc4MTUw/My0yNTQ4LmpwZWc.jpeg) | 2013-02-24 | Dane Chadwick | Cool Intentions |
+| 65 | ![Cover](https://i.discogs.com/8g4tiLefO2daGOZ-P0loQylJr1Euwc82pYYiTXCxpCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjM0/MTMtMTM2NjgzMDI4/Ni04MDAyLmpwZWc.jpeg) | 2013-03-26 | DJ Clap | Best Night Ever |
+| 83 |  | 2013-06-24 | Mark Pritchard | Ghosts |
+| 96 |  | 2013-10-19 | DJ Rashad | Double Cup |
+| 75 | ![Cover](https://i.discogs.com/z0CrsQItF_SZa3mwxOQ8WBFxVfhbapfeqx5s1HulFq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzIx/MzMtMTM4NTM3OTgw/OS00NjUzLmpwZWc.jpeg) | 2013-11-25 | Teengirl Fantasy | Nun |
+| 88 | ![Cover](https://i.discogs.com/RJ4S5E77xw1AwKfTP398zeS2A3TzSpWd1WQE3g-Uzkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzYy/MDctMTM4ODM1Mjkz/MC05Mzk3LmpwZWc.jpeg) | 2013-12-29 | WHY BE | Caged Animal |
+| 59 | ![Cover](https://i.discogs.com/-HPCyGqaGbHi5kQTkAgMhyo_Sa1HGS77nJafCpnjoaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDgy/MjctMTQwMDYzNTIy/OC00OTAzLmpwZWc.jpeg) | 2014-05-20 | Bukiko | fantasy fuel |
+| 56 | ![Cover](https://i.discogs.com/Bc_UQYg8xKUe4fVbIa-kapToPGGsWucjn6A1g3ToKps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTcy/NDMtMTQwMTgxNzU2/MC05MTM5LmpwZWc.jpeg) | 2014-06-03 | yeongrak | loserdom |
+| 77 |  | 2014-09-11 | cakedog | Menace In The Phantom |
+| 94 | ![Cover](https://i.discogs.com/bSpUkK1cVE_wrICsf6T4bGmVpsI_m-gWKYei8KIXlRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTgy/ODMtMTQ1MjkyMTEw/MS05NDY4LmpwZWc.jpeg) | 2015-03-20 | Jlin | Dark Energy |
+| 89 | ![Cover](https://i.discogs.com/Nc3B1KPQ4eSQcPqlPmyFeoQ1m1oLgPghIzz6Ez-MiRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDAy/MjktMTQyOTA5MDk1/OC0xMTE1LmpwZWc.jpeg) | 2015-04-08 | submerse | Stay Home |
+| 53 | ![Cover](https://i.discogs.com/K0I8Ve_RiWy-B7ewiVSLNKluQhPmHz7TUN1qFsbo-R8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDk1/OTUtMTQzMTMwMDI1/MS05MjE1LmpwZWc.jpeg) | 2015-04-18 | FVLCRVM | Slipstream (The Remixes) |
+| 73 | ![Cover](https://i.discogs.com/aFDr_CK-0kJ5ZZJrNi-wuCaN9DxgqLiEvmaLbNPZSC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDAz/MjAtMTQ3NjYwMTU2/NS02MjQwLmpwZWc.jpeg) | 2015-06-02 | Nozinja | Nozinja Lodge |
+| 51 | ![Cover](https://i.discogs.com/ewoHiwGaZORyiPQGjCD88RVsQX56AVuQF5bvqLXjKh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzAx/MTYtMTQ4MjkzNDQz/OS0yNDY3LmpwZWc.jpeg) | 2015-06-24 | Dalljub Step Club | We Love You |
+| 70 | ![Cover](https://i.discogs.com/ooh31BQQD6OkrltaF3FkRppS4VXwCYzWbknmVF_iDbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM0/OTIyLTE1NzA0MDc0/MzUtNjIwMi5qcGVn.jpeg) | 2016-01-23 | Satanicpornocultshop | OYASUMI |
+| 55 | ![Cover](https://i.discogs.com/Pp47UqhJVxMaxoQ1GSqPlpe1yX5w4kzGqSpdNC9QS14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjMx/ODAtMTQ2NTM0Njk1/OS0xMDE4LmpwZWc.jpeg) | 2016-01-26 | Taso | COLD HEAT VOL. 1 |
+| 87 | ![Cover](https://i.discogs.com/vwVDGJiJxaWJrwIHclVavBd0x1V_-Dpv9fpwEpdbGyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU4/MjItMTUxNzE3NzI3/NC00OTAwLnBuZw.jpeg) | 2016-03-28 | VAPERROR | Acid Arcadia |
+| 82 | ![Cover](https://i.discogs.com/A_QSSVl1ChXiVCb_pjOydcq6kMWByhWJBbFGHAKPXcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjA4/MDAtMTQ2MDEwNzM4/MS04MTIwLnBuZw.jpeg) | 2016-04-08 | DJ Rashad | Afterlife |
+| 98 | ![Cover](https://i.discogs.com/RD6aYxVXyr_hZYkKJ7Zn479NGbKDtE5M9F2sfUeD2Mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTAy/NDktMTQ2OTI1MDU4/Ny02NjgzLmpwZWc.jpeg) | 2016-07-21 | DJ Camgirl | Problems |
+| 72 | ![Cover](https://i.discogs.com/ka5lgT2sVW9lCiEyimLw-ehpvkdcKqfxKvAad3uLfTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA4/OTA2LTE1MTM5MDA0/MTktOTgxMy5qcGVn.jpeg) | 2017 | Burqa Boyz | أسلحة ضخ جاف حدب |
+| 85 | ![Cover](https://i.discogs.com/5YxG660oD7Yq-6pBNuO0pF8o7KMncgam3bvYm3l_9DM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgz/MzAxLTE1NTY5NDcz/MzEtMzkwOC5qcGVn.jpeg) | 2017-09-22 | Culprate | Unity Project, Pt. 2 |
+| 99 | ![Cover](https://i.discogs.com/ykOWb81dREUowTuMNIGT4MWbS6lIvTb5GpGUI2eAxGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk3/MjgwLTE1NDQwNzkw/MDMtMTQzOC5qcGVn.jpeg) | 2017-09-25 | Zaphyre | ghost |
+| 90 | ![Cover](https://i.discogs.com/U_QoG0Y2fhBba78NAr1xNJ1O5cKRH6wIXXHU8VEAj3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/NTM1LTE1MjUzNTY4/MDYtNjk2OS5qcGVn.jpeg) | 2018-05-04 | The Glitch Mob | See Without Eyes (Deluxe) |
+| 79 | ![Cover](https://i.discogs.com/X4YQvH8OhkMWQ6qW2AGOAPcQfFF9WM90oOXeA_iyNng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIz/NjQ1LTE1MzA4NDg5/MjEtODA1Ni5qcGVn.jpeg) | 2018-07-01 | RP Boo | I&#39;ll Tell You What! |
+| 68 | ![Cover](https://i.discogs.com/Ff_Br-9oJjgd88d9exnX-eAt_1QPzBjC6ldGOfNnU5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDEw/Mzk0LTE1NjYwMjkz/MTYtNDE3MS5wbmc.jpeg) | 2019-01-28 | evaboy | CHAO GARDENS |
+| 91 | ![Cover](https://i.discogs.com/Ff_Br-9oJjgd88d9exnX-eAt_1QPzBjC6ldGOfNnU5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDEw/Mzk0LTE1NjYwMjkz/MTYtNDE3MS5wbmc.jpeg) | 2019-01-28 | evaboy | BANDCAMP MEGA COLLECTION |
+| 81 | ![Cover](https://i.discogs.com/Cv6b1zou4BABJbOvZp84A87hRDB3cS5d-UewByWCLT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA3/MzQwLTE2MDY5NjE3/OTQtNTI4My5qcGVn.jpeg) | 2020-10-09 | perfect chao | Prfct!cha0 |
+| 93 | ![Cover](https://i.discogs.com/KUGNQLcqn5ROz2vU0LRxZ6yflkFQM2PPynIdd3SxZwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTU5/NzM4LTE2MjM4NTAz/MTEtNzA1MS5qcGVn.jpeg) | 2020-10-09 | submerse | Get You Down |
+| 67 | ![Cover](https://i.discogs.com/kw33y976gF1madl-oIJ_mgLFGXM2VoLqwNB3veqSrzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODY0/MzUxLTE2Mjk0MDUw/MDQtNjEwMC5qcGVn.jpeg) | 2021-04-15 | evaboy | ...jook &#39;til i die |
+| 84 |  | 2022-03-18 | perfect chao | chao! |
+| 80 | ![Cover](https://i.discogs.com/iSSZHNGJsF-HX1_RF8fpN3hezdc4I5sfFylJUP0YhWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg5/MzczLTE2NzU1MTk4/ODItODAxNC5qcGVn.jpeg) | 2023-02-02 | Addison Groove | Eh Wut |
+| 52 | ![Cover](https://i.discogs.com/ruIdV69C9W3hTHwAKOnhIT0r25o3pv5RHWTV0uJOzz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODE4/NjMxLTE2OTA2NjE4/MDUtNTA4Mi5wbmc.jpeg) | 2023-04-07 | The Bobfather | 6G DEALERS |
+| 58 |  |  | Jap Mutation Bootyism | Japanese Juke&amp;Footworks Compilation |
+| 60 |  |  | $LUDGEHAMMER | A .ZIP AND A DOUBLE CUP |
+| 74 | ![Cover](https://i.discogs.com/6TRqz9PCvB9vxOsHiz1ElXh5U--pIsCtVgsTFOgzcSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM1/ODcxLTE2MDIyNzg3/NjAtMTQxOC5qcGVn.jpeg) | 2020 | Machinedrum | Vapor City Remixes |
+| 61 | ![Cover](https://i.discogs.com/NlGDGC_yQgiYN3ktGP-l-TfoOniz-gIoG7QkGaSahe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMw/OTAzLTE2MDA1MjAy/NTItNjQ4Mi5wbmc.jpeg) | 2020-09-25 | loto retina | 2022 |
+| 95 | ![Cover](https://i.discogs.com/acYp-TkPvWXWU0jYWQjRabjHZGus2ABCbG94mPv1Kpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDUz/MjgwLTE2MjMwODg0/MjYtMjYxMi5qcGVn.jpeg) | 2021-04-23 | Naked Flames | 247 365 |
+| 76 | ![Cover](https://i.discogs.com/Cv6b1zou4BABJbOvZp84A87hRDB3cS5d-UewByWCLT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA3/MzQwLTE2MDY5NjE3/OTQtNTI4My5qcGVn.jpeg) | 2022-03-18 | perfect chao | adventure dx |
+| 97 | ![Cover](https://i.discogs.com/qtPkNsjhyYYSnlzZr98KnayWyHOBLJ6V8ltRaxjAJnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzcw/MDYyLTE2OTU0Njg5/ODQtMzI0MC5qcGVn.jpeg) | 2023-08-27 | femtanyl | REACTOR |
+| 78 | ![Cover](https://i.discogs.com/FIUV4jaWBwe4_QaFE1CXEwXhWDqtzcGscbCQcqbnMzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODMz/MDA5LTE2MTU3MDA0/NTMtMzU0Ni5qcGVn.jpeg) | 2023-09-15 | Club Casualties | Bridge Underwater |
+| 86 | ![Cover](https://i.discogs.com/nl3TFSXhh6un_1Ynj40GQCAuHLj6lCg6gLHHP3G5hds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjk5/NjI1LTE2MDY4Mzkx/ODUtNjU3Mi5qcGVn.jpeg) | 2023-10-31 | DJ BlackPower | DR. GRABBA |
+
+### Related genres
+
+- [footwork]({{ "/tags/footwork" | relative_url }})
+- [jungle]({{ "/tags/jungle" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [rave]({{ "/tags/rave" | relative_url }})
+- [breaks]({{ "/tags/breaks" | relative_url }})
+- [grime]({{ "/tags/grime" | relative_url }})
+- [electro]({{ "/tags/electro" | relative_url }})
+- [drum and bass]({{ "/tags/drum-and-bass" | relative_url }})
+- [techno]({{ "/tags/techno" | relative_url }})
+- [phonk]({{ "/tags/phonk" | relative_url }})

@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-23T10:35:49.757Z
+permalink: tags/disco
+title: disco
+---
+
+## disco
+
+Last updated: <time datetime="2025-10-23T10:35:49.757Z">Thu Oct 23 2025 13:35:49 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 33 |  | 1973 | Tim Maia | Tim Maia |
+| 86 |  | 1974 | Jeanette | Porque Te Vas |
+| 42 | ![Cover](https://i.discogs.com/aE7A1XL0htLEfH1duUGRsaVTliThZXlacoXBYEhaV9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA5/MS0xMTI4MDE2NTQx/LmpwZWc.jpeg) | 1974-05 | George McCrae | Rock Your Baby |
+| 13 | ![Cover](https://i.discogs.com/MLUu78k2D7e3FWITA_5f69RXP3o7iRYUHDGE6f1Lt2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjk5/NTc5LTE2NjEzNDc0/MTgtNDI3Ni5qcGVn.jpeg) | 1975 | The Pointer Sisters | Best Of |
+| 82 |  | 1975-04-21 | ABBA | ABBA |
+| 18 |  | 1975-08-27 | Donna Summer | Love to Love You Baby |
+| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/07b4c46010944aeeca2d3b09c2a69955.png) | 1976 | Wild Cherry | Wild Cherry |
+| 58 |  | 1976 | Bee Gees | Children of the World |
+| 89 | ![Cover](https://i.discogs.com/-fTkVFarvGnEZp43I65-0eXWLKla96AVhoab7UsMDB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzQ2/LTEyODA5NTA2MTYu/anBlZw.jpeg) | 1976-06-28 | Boney M. | Take the Heat Off Me |
+| 52 |  | 1976-10-11 | ABBA | Arrival |
+| 27 | ![Cover](https://i.discogs.com/-g6o5syTWLVqv_NcEvm2sx6OeZSEc1m5m3yCSrPAoFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg2/MzItMTI5ODczMzI0/MC5qcGVn.jpeg) | 1977 | Grace Jones | Portfolio |
+| 45 | ![Cover](https://i.discogs.com/mRhJr9aMomro2OFNDxkCQlk1-1DIB1L8EnhzBc9wCsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDI4/OC0xMjg0NDI0NzIx/LmpwZWc.jpeg) | 1977 | Delegation | The Promise of Love |
+| 34 |  | 1977-05-02 | Boney M. | Love for Sale |
+| 41 |  | 1977-06-01 | Donna Summer | I Remember Yesterday |
+| 73 | ![Cover](https://i.discogs.com/CVHpN6m9rP_7TW6dhLjj1M6_juIhqpPG92IpofOpyvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDU1/My0xMzM2NDI1NjE2/LmpwZWc.jpeg) | 1978-05 | Boney M. | Nightflight to Venus |
+| 47 | ![Cover](https://i.discogs.com/pbYR4qpZPX8MGJ_bptsmlY4GQGNoeJCwni4U9RaBmAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDY5/Ny0xMTQwMDIyNzg3/LmpwZWc.jpeg) | 1978-06-15 | Sylvester | Step II |
+| 38 | ![Cover](https://i.discogs.com/OUzSwO3cYQshIH82TZNecuKekIl_Toz-ZxKdIGacqwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTQy/OS0xNTY5MTc1MDI0/LTQ1ODQuanBlZw.jpeg) | 1978-09-25 | Village People | Cruisin&#39; |
+| 9 |  | 1978-10-13 | Cheryl Lynn | Cheryl Lynn |
+| 63 |  | 1978-11-08 | Chic | C&#39;est Chic |
+| 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d335f102d7ad4877232c6157b247ee87.png) | 1978-11-27 | Gloria Gaynor | I Will Survive |
+| 66 | ![Cover](https://i.discogs.com/SUHK9R3HgPFBoUj7ZBj-uGwXhqqSL1Q9igSu-RR0RXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQ4/Ny0xMzE3MTM3ODUw/LmpwZWc.jpeg) | 1978-11-27 | Gloria Gaynor | Love Tracks |
+| 67 |  | 1979-01-24 | Sister Sledge | We Are Family |
+| 29 |  | 1979-02 | Bee Gees | Spirits Having Flown |
+| 48 |  | 1979-04-23 | ABBA | Voulez-Vous |
+| 70 |  | 1979-04-25 | Donna Summer | Bad Girls |
+| 10 | ![Cover](https://i.discogs.com/8qQLD99zR7Qdys9R_928fcWQFSHDhP_Lb6Ps2TTOHuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTgz/MC0xMzg2MjExNTI5/LTI2MDkuanBlZw.jpeg) | 1979-05-22 | Diana Ross | The Boss |
+| 11 |  | 1979-05-22 | Smokey Robinson | Where There&#39;s Smoke... |
+| 77 | ![Cover](https://i.discogs.com/mvYyUjsdJ5dUkR0P54vzxyQcAVcqHjmcJUTM4a4BXcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTg0/Ni0xMjQ4MjAzMDYw/LmpwZWc.jpeg) | 1979-07-16 | Earth, Wind &amp; Fire | I Am |
+| 7 | ![Cover](https://i.discogs.com/ln1c476ArdqEoRocLaMwQiILDclHmacAESC4dgGi8Bs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjUy/MC0xMjM0MDAzNjk3/LmpwZWc.jpeg) | 1979-07-30 | Chic | Risqué |
+| 91 |  | 1979-08-10 | Michael Jackson | Off the Wall |
+| 25 |  | 1979-10-15 | Donna Summer | On the Radio: Greatest Hits Volumes I &amp; II |
+| 36 | ![Cover](https://i.discogs.com/dkrPAkrCc5MJALav-dS2J_amOD4WMI4pGuBYixyc3zU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDAx/MjctMTM3NDAxMjM3/OS02ODcwLmpwZWc.jpeg) | 1980-05-20 | Village People | Can&#39;t Stop the Music (Original Soundtrack 1980) |
+| 81 |  | 1980-05-22 | Diana Ross | Diana |
+| 71 |  | 1980-09-20 | Kool &amp; The Gang | Celebrate! |
+| 23 |  | 1981-05-04 | Grace Jones | Nightclubbing |
+| 21 |  | 1982 | Boys Town Gang | Disc Charge |
+| 51 | ![Cover](https://i.discogs.com/2eht_feZcwNkyDaLGcFY-p3xGwMQT5B3gZ8uJLUhafk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDcy/NTgtMTQyNzg4NDU4/OS0xNzc3LmpwZWc.jpeg) | 1982 | Donna Summer | The Dance Collection |
+| 32 |  | 1982-09-03 | Imagination | In the Heat Of The Night |
+| 62 |  | 1983-12-14 | Rockwell | Somebody&#39;s Watching Me |
+| 50 |  | 1984 | Os Paralamas Do Sucesso | O Passo Do Lui |
+| 15 |  | 1987 | Frankie Knuckles | Baby wants to ride &#x2F; your love |
+| 61 | ![Cover](https://i.discogs.com/AfaqaoO2uKTe5OpR-JRYjXRvKR9l73ncrCBUtS5TZkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDIx/Nzc1LTE2MTY3ODE3/NTItMTQzNy5qcGVn.jpeg) | 1988 | April | APRIL 7th Mini Album &#39;Da Capo&#39; |
+| 28 | ![Cover](https://i.discogs.com/S9KXHWrgGpbf8C7lPcQLC4KfIaXG0KojN-LKNNmWg2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDU4/NzYtMTU4OTg0NTk4/Ni01MDc3LmpwZWc.jpeg) | 1989-05-25 | Bee Gees | Spirit Having Flown |
+| 20 |  | 1990 | Os Paralamas Do Sucesso | Arquivo |
+| 31 | ![Cover](https://i.discogs.com/O0HX35hR-0zUoSdCIq5NL-97t1JNGrJnM7nb4T2dE3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MDkxNzYzNDct/NjQzNy5qcGVn.jpeg) | 1990-03-20 | Madonna | Vogue |
+| 94 |  | 1991 | Boney M. | Daddy Cool |
+| 12 |  | 1991-11-05 | Chic | Dance, Dance, Dance: The Best of Chic |
+| 69 | ![Cover](https://i.discogs.com/oPVZEDjQScZErOc_fpSrKtwrNVLUNlRZa_cGD2MOdsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjU3/ODctMTM1NzQ0MTU0/Ni0xMTU4LmpwZWc.jpeg) | 1992 | Carl Douglas | Kung Fu Fighting |
+| 75 |  | 1992-09-21 | ABBA | Gold: Greatest Hits |
+| 1 | ![Cover](https://i.discogs.com/PqJTX7Ls4M4zXpzF1bTt0tmhd4Ayxzmb9zI1y2xs-tU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzY4/MDItMTI4MDQzNzU1/NS5qcGVn.jpeg) | 1993 | Unlimited Touch | Searching To Find the One |
+| 46 | ![Cover](https://i.discogs.com/0EL9EOYMbdIkD6jiODZ3AVDCl7cg17hF7sA3_tK36iA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTMt/MTY3MTE2NjI4OC04/NzY1LmpwZWc.jpeg) | 1993 | Jamiroquai | Travelling Without Moving (Remastered) |
+| 22 | ![Cover](https://i.discogs.com/htwU__wZu2t7gk3ZLHb4h6ZQbjoGzhaCIkiCKWrtzeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/NjA1LTE2NDM0MDgy/MDctNTA1My5qcGVn.jpeg) | 1999 | Ralph | Hard Candy Christmas |
+| 43 | ![Cover](https://i.discogs.com/s6iV7FO64EiOFpgeRoWmt-8QCeTYZs0QwQvHdJ5XjrI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDU5/OC0xMDgwMzE4NDE0/LmdpZg.jpeg) | 2000 | Natty | NINETEEN |
+| 3 | ![Cover](https://i.discogs.com/gzGsOMKki8xn1pCww9rJsULMWrepWxItc7AcYyiEXxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODU5/NC0xMjM0NjAyMDY5/LmpwZWc.jpeg) | 2001 | Nina Simone | The Very Best Of |
+| 65 |  | 2001-10-01 | Kylie Minogue | Fever |
+| 6 |  | 2003-10-16 | Sophie Ellis-Bextor | Shoot from the Hip |
+| 56 | ![Cover](https://i.discogs.com/SNHt81M3KMBU7U0F3YUH6ThdIE8ULKhDSsnE4KCastc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDY0/NC0xNjQ1MDk0NzU5/LTk0NTQuanBlZw.jpeg) | 2004-02-16 | Arthur Russell | Calling Out of Context |
+| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9dcddf3f24b04eb8ce016aff181e0fd4.png) | 2004-11-01 | Bee Gees | Number Ones |
+| 5 |  | 2005 | The Pointer Sisters | Platinum &amp; Gold Collection Series |
+| 80 | ![Cover](https://i.discogs.com/ssttpLNTVE7naOK_AZDqHiLb0-5VtNfbdXrfuZ2GuNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzkw/MDI1LTE1MDQzNjQz/NTMtODAzOC5qcGVn.jpeg) | 2005-11-11 | Madonna | 2005 - Confessions On A Dance Floor |
+| 16 | ![Cover](https://i.discogs.com/CvqlrDLuVfv0W8YDvHW3ZRdOR_lOfMApMTBopRrMS6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ2/MjEtMTQyNzAyMDQ1/OS04NTEwLmpwZWc.jpeg) | 2006 | Da Buzz | Without Breaking |
+| 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/54505ee1a14fb939afea9defb78eabef.png) | 2007 | Maroon 5 | It Won&#39;t Be Soon Before Long (International Version) |
+| 24 | ![Cover](https://i.discogs.com/wN2OfOlFiRN24XeHS36fMhMgvFAEe468e7QGO9kn_Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjY4/MTQtMTUwMDkwNDM5/NS0yMDE1LmpwZWc.jpeg) | 2007-06-18 | Calvin Harris | I Created Disco |
+| 17 | ![Cover](https://i.discogs.com/8QnIJKUuvEQUpsQAehYXq-2CysUM985PUHc3KLjNOAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjYw/NzE0LTE1ODg4Mzgx/MzEtNjU2Mi5wbmc.jpeg) | 2010 | Lady Gaga | Chromatica |
+| 78 | ![Cover](https://i.discogs.com/vbhUqYkg_OOOSq2iEn3vpDY-MuM_rGhvFHs4JcatpSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIz/NjczLTE1MTQyMzA4/MTItOTk1MC5qcGVn.jpeg) | 2010 | Madonna | Confessions on a Dance Floor |
+| 19 |  | 2010-10-01 | Bag Raiders | Bag Raiders |
+| 68 | ![Cover](https://i.discogs.com/FjT0zjhO6dQjtosF1dX0WHTmcxOyzM_MRZ7YBA8uGNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTIw/NDYtMTI5NTAzOTM0/OC5naWY.jpeg) | 2011-01-10 | Beth Ditto | EP |
+| 35 | ![Cover](https://i.discogs.com/N6m2EHAaT_DilBgcGtvMszLpvdAFQNjsvN179YW9F_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDQz/MTktMTMwNjE3MDAy/Ni5qcGVn.jpeg) | 2011-04-18 | Sophie Ellis-Bextor | Make a Scene |
+| 54 | ![Cover](https://i.discogs.com/HhGI0U8Mb0ZOoNPTI0Z2qNZByfT8YSDaJRQUFXKZfBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTQw/NjctMTQ0OTMzMjk2/OC0zMzAzLmpwZWc.jpeg) | 2012-06-20 | Jackson 5 | The Ultimate Collection: Jackson 5 |
+| 4 |  | 2012-10 | Kiki Gyan | 24 Hours in a Disco 1978-82 |
+| 2 | ![Cover](https://i.discogs.com/ml_C6Bd5XTcBBHWaN6jXedjguQdLx2wVu9_C-8H038c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjAx/NDItMTM4MjMwNTgx/Mi00MDI4LmpwZWc.jpeg) | 2012-11-09 | Giorgio Moroder | From Here To Eternity |
+| 96 |  | 2013-05-17 | Daft Punk | Random Access Memories |
+| 83 |  | 2013-07-15 | Robin Thicke | Blurred Lines |
+| 100 | ![Cover](https://i.discogs.com/5k2mTpkMQOsartQid6FSRft9IJtCPEfGsuUYlcp1rLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzQ5/OTg4LTE2NzM1NzUy/NTUtMjk3My5qcGVn.jpeg) | 2013-10-04 | Miley Cyrus | Flowers |
+| 40 | ![Cover](https://i.discogs.com/vSpUcjMCNe4WpCj1DKcRgyGibaicmvhuTXr0XZAyJXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjAw/MTMtMTQzNDM1ODAz/My0zMzA5LmpwZWc.jpeg) | 2015-06-12 | Giorgio Moroder | Déjà Vu |
+| 84 | ![Cover](https://i.discogs.com/DXHtga-2ZrkI9HNiNpbJ6EuxWbsML9Wg9Z26MXK9G3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MDM3/MDUtMTQ4MTcxNzcy/OS05MzIzLmpwZWc.jpeg) | 2016 | The Weeknd | I Feel It Coming |
+| 64 | ![Cover](https://i.discogs.com/H1TPw3ELW0CPW6mVhKztH4Yk64otsHYSIY3BhYyAUxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzkz/MzcyLTE2Nzg2MjMx/NTktMzY3Ni5qcGVn.jpeg) | 2016-08-18 | Exo | THE POWER OF MUSIC – The 4th Album ‘THE WAR’ Repackage |
+| 95 | ![Cover](https://i.discogs.com/I8Zvzxz1AeE-NlQmTmDltSI-uE3MkzXZNZuXAQJhnOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTA0/MDctMTY2MTk4Njg0/MS00MDAwLnBuZw.jpeg) | 2017-02-10 | Katy Perry | cHAINeD TO The RhytHm |
+| 93 | ![Cover](https://i.discogs.com/hkiLCymgZ5bWU_vyaZ7Ffy1LBBoIHeTLVIqa91DFJJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDIw/OTA1LTE2NjU4MzYx/NjgtNTM5Ny5qcGVn.jpeg) | 2017-06-30 | Calvin Harris | Funk Wav Bounces Vol.1 |
+| 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d344ad55c902ed4a74794b0f342aef05.png) | 2017-07-28 | Arcade Fire | Everything Now |
+| 37 | ![Cover](https://i.discogs.com/1uNmRNCHpqScUxaVSP5uqBz7QbgWTdLZaEtFg2tkC44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcw/MTI4LTE1ODY3MDY3/MDAtODgzMS5wbmc.jpeg) | 2017-08-04 | Winner | Our Twenty For |
+| 49 | ![Cover](https://i.discogs.com/nc2VJWBE8gkn6WiCwAhHyIlpVx49JLIg9ZQyRRWwaEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODkw/MzM5LTE1NDQyMDM1/MDQtODAxNC5qcGVn.jpeg) | 2018 | Vulfpeck | hill climber |
+| 90 | ![Cover](https://i.discogs.com/nxUpqqgGJ8P2akJoOIxsyDi9P8dTjdheynEo8KrokPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk1/NDk2LTE1Mzk4MDU0/MTUtOTAyNy5qcGVn.jpeg) | 2018-01-29 | Red Velvet | The Perfect Red Velvet - The 2nd Album Repackage |
+| 99 | ![Cover](https://i.discogs.com/G6ubNUQqt5KmqzV97ls3jxB6z-7wp8MSUBYVQ-GJm5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTE4/NDgyLTE2MTEyNjM2/NjUtOTAwOS5qcGVn.jpeg) | 2020 | BTS | Dynamite |
+| 8 | ![Cover](https://i.discogs.com/th90nQaDNlokpf4MO5BvmjaLRy0VdWOp1SvPDYaGVdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjE3/ODQ5LTE1NzgyNjQz/MjUtODc1NS5qcGVn.jpeg) | 2020-01-24 | The Growlers | Natural Affair |
+| 98 | ![Cover](https://i.discogs.com/POGI9u7Wzb_2MLodMKY_UCs95qeD8jTZ0eyrcSnxgNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMw/NTI4LTE1ODA0ODMy/MjktNTU1Mi5qcGVn.jpeg) | 2020-01-31 | Dua Lipa | pHysicAl |
+| 92 | ![Cover](https://i.discogs.com/arCMttOyuRHtM_LDig4n3kNRNrxBnUaRfCIXatNfDgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTg2/MjU3LTE1ODUzMDYw/NjUtMTI0Ny5qcGVn.jpeg) | 2020-03-27 | Dua Lipa | Future Nostalgia |
+| 88 | ![Cover](https://i.discogs.com/RChdaM2agQJAL7sZrGwCo0b7OkF8Qb-0j8eEu-VQ3kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTE1/OTcwLTE1OTMzNzE5/NTYtNDc2Mi5qcGVn.jpeg) | 2020-07-20 | Jessie Ware | What&#39;s Your Pleasure? |
+| 60 | ![Cover](https://i.discogs.com/Ix-EQuVdM9e7eJFnXZOCwQvSCLvkk4U8RwhE-6LrRFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzAx/MzkxLTE1OTYxODYz/ODctOTE4NC5qcGVn.jpeg) | 2020-08-28 | Katy Perry | Smile |
+| 44 | ![Cover](https://i.discogs.com/MEhomWI-DLRwnET1HVuHRQmQcXKYjU-uCGx8T8K9HEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDQy/OTY0LTE2MDc3ODMw/NzYtMzU1Ny5qcGVn.jpeg) | 2020-09-24 | Kylie Minogue | Magic |
+| 72 | ![Cover](https://i.discogs.com/4rgrtxgkHH4_9cUduL4dmFqPE3-RY41YjNU5Al7KR7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjQy/MTg0LTE2MjA0ODIy/MDItMzM3MS5qcGVn.jpeg) | 2020-11-06 | Kylie Minogue | Disco (Deluxe) |
+| 55 | ![Cover](https://i.discogs.com/ShpB2Et3efjj8seod__VwnzcHCfZVblfHRlUraax-18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTA4/MDU4LTE2MDg5NTA1/MzEtNTUwMy5qcGVn.jpeg) | 2020-12 | Dua Lipa | Future Nostalgia (The Moonlight Edition) |
+| 74 | ![Cover](https://i.discogs.com/V4KFInz4sG0LgrR4rqPB0A9ucHtmxE-2BcnVforTkws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODc2/NC0xMTU4OTU4MDUx/LmpwZWc.jpeg) | 2021-11-05 | ABBA | Gold Greatest Hits |
+| 14 | ![Cover](https://i.discogs.com/eF8j_YBIwqHKNVfyDpSzEqF7FAKrwzPNsbuUScVhdfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE1/Mzk1LTE2NTE3MDg0/NTAtNDYyMS5qcGVn.jpeg) | 2022-03-14 | Brave Girls | Thank you |
+| 97 | ![Cover](https://i.discogs.com/4VfVdB_DZvvoB5RqiRGRzS7sFnu0BkmAdHOA1tCLv1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTYz/MDYyLTE2NTIwNzU5/NzQtNzI2OS5qcGVn.jpeg) | 2022-05-08 | Kendrick Lamar | The Heart Part 5 |
+| 85 | ![Cover](https://i.discogs.com/70a32ERUwX5zTszx_ZSwnzQbbDsrU9iFtALxzAGmXC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjM0/Nzc5LTE2NTU3MTY5/ODEtMjUxNy5qcGVn.jpeg) | 2022-07-29 | Beyoncé | Renaissance |
+| 59 | ![Cover](https://i.discogs.com/Oomg8I6THSfjw_znUy2QNZpgY1WNumV_3PAcnj4HIuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE4/MDU1LTE2NzkxNzUx/MjctNzYyNS5qcGVn.jpeg) | 2022-08-05 | Calvin Harris | Funk Wav Bounces Vol. 2 |
+| 26 | ![Cover](https://i.discogs.com/oKTgcPaEGcKN_8LwQgLiKZqMbhfZISrvqHU-TZkeV1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODgz/MjA4LTE2NjYyODcz/MjYtOTE4OC5qcGVn.jpeg) | 2022-10-21 | Carly Rae Jepsen | The Loneliest Time |
+| 76 | ![Cover](https://i.discogs.com/ZrYifg9iP9q9jHTnUFFhKdIDlqE7lX7GlCWvg_lkk7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA2/MDU3LTE2ODU5MjY3/ODItNzg5NS5qcGVn.jpeg) | 2023-04-28 | Jessie Ware | That! Feels Good! |
+| 30 | ![Cover](https://i.discogs.com/RlpJ2xQ66QOyfOhi_RQ6fPYa3Eh2B7B3zuVz8eXhKCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDMz/NTcxLTE3MTM0NTUy/NTItODkzOS5qcGVn.jpeg) | 2024-05-03 | Dua Lipa | Radical Optimism |
+
+### Related genres
+
+- [dance]({{ "/tags/dance" | relative_url }})
+- [california]({{ "/tags/california" | relative_url }})
+- [mucajai]({{ "/tags/mucajai" | relative_url }})
+- [caracarai]({{ "/tags/caracarai" | relative_url }})
+- [roraima]({{ "/tags/roraima" | relative_url }})
+- [boa vista]({{ "/tags/boa-vista" | relative_url }})
+- [romance]({{ "/tags/romance" | relative_url }})
+- [album rock]({{ "/tags/album-rock" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [funk]({{ "/tags/funk" | relative_url }})

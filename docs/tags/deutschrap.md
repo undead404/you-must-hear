@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-18T14:58:56.273Z
+permalink: tags/deutschrap
+title: deutschrap
+---
+
+## deutschrap
+
+Last updated: <time datetime="2025-10-18T14:58:56.273Z">Sat Oct 18 2025 17:58:56 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 22 |  | 1977 | Various Artists | Unser Block |
+| 36 | ![Cover](https://i.discogs.com/kFS3ho3pXmbtlJDTSRrI7rnxEVys0b1e1p2fADv_3FU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzUy/NTEtMTM4NTQ4NTky/OC05Njg2LmpwZWc.jpeg) | 1986 | 1019 | Dagobert Duck (feat. Lucio101 &amp; Nizi19) |
+| 17 |  | 1995-04-20 | Fettes Brot | Auf Einem Auge Blöd |
+| 10 | ![Cover](https://i.discogs.com/DT7nIVQOX98bQ-h9yED6cjSZO76dru1-vJTFeUVEcbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTc3/NjMtMTQxODk5MTU5/MS02MDc1LmpwZWc.jpeg) | 1999 | Vega | Lieber bleib ich broke |
+| 9 |  | 1999-10-14 | Crème De La Crème | Porno Funk |
+| 32 | ![Cover](https://i.discogs.com/3h9UL1c-8UlX_TTLtGY1_gkJszlud-PUtPoM5YMO26A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTU5/OC0xNjIyNzEwNTE4/LTQxMTkuanBlZw.jpeg) | 2002-10-28 | B-Tight | Der Neger (In Mir) |
+| 51 | ![Cover](https://i.discogs.com/_7Atr5Z7R8mpZAO6d7MtOkXDjCGIa3n_fxmE-jkEV5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc1/MTA2LTE1NTY4MDE0/NzQtNjE4MC5wbmc.jpeg) | 2003 | Akuma | JUANA |
+| 57 | ![Cover](https://i.discogs.com/mVILbsn7UqygZNk84liTMGMIp1TYWEkm-QSnQkEfl2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDk4/OS0xMzMzNzQ5Njkz/LmpwZWc.jpeg) | 2005-10-14 | Denyo | The Denyos |
+| 39 | ![Cover](https://i.discogs.com/OvjnaDYqhqE43yGgg0V0tE_R03o-lSVYbNopvIhpUMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDUy/NzgtMTMwMjk1NzM2/Ni5qcGVn.jpeg) | 2006-09-22 | Prinz Pi | Donnerwetter! |
+| 12 | ![Cover](https://i.discogs.com/EAPW1UIv_VfgMmbQDmOhswj3_834_mam0RxtyPJAlSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTE2/NDMtMTU0NDI4NjUy/MC01NTY5LmpwZWc.jpeg) | 2006-09-29 | Manuellsen | Inshallah |
+| 50 |  | 2007-03-02 | Chakuza | City Cobra |
+| 45 | ![Cover](https://i.discogs.com/oqEQhxm5e_OtUNkhbTab-hVWDrg0FMzyAhQARZLucrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODI4/NDQtMTI1NjU5ODk5/My5qcGVn.jpeg) | 2007-08-10 | Prinz Pi | Zeitlos |
+| 3 |  | 2007-09-14 | Bass Sultan Hengzt | Der Schmetterlingseffekt |
+| 13 |  | 2007-11-09 | Bushido | Das Beste |
+| 14 | ![Cover](https://i.discogs.com/JcsryPH9NzG9pWz9I94IW6Lt3Va8M-tqFpbcnZ373f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjY2/Ny0xMzI4MTcyNDE3/LmpwZWc.jpeg) | 2009-03-20 | Fler | Fler Das Album |
+| 6 |  | 2009-07-10 | K.I.Z. | Sexismus Gegen Rechts |
+| 15 | ![Cover](https://i.discogs.com/3Fd6aGHNLNVpInzxFkaudyJY7NFdKRmnz7iHbQPZrAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjEw/MzAtMTI1NTE4NDUx/NS5qcGVn.jpeg) | 2009-12-19 | Kollegah | Jung Brutal Gutaussehend 3 |
+| 18 | ![Cover](https://i.discogs.com/66tMi2xeiA_6lTRlyYtwCQDdUOKLrqAoBWQiMRLCSyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTYx/MzctMTQ5MjgwNDM1/Ni03MzM3LmpwZWc.jpeg) | 2010-02-26 | Die Atzen | Die Atzen Praesentieren Atzen Musik Vol.2 |
+| 33 |  | 2010-04-16 | Chakuza | Monster in mir |
+| 40 | ![Cover](https://i.discogs.com/EnQhMlsZIUYoasvlF_5jD97E8qJrSNo4ECbJlT63l7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODM2/MTMtMTYzNzcwNDg2/Ni02MTc5LmpwZWc.jpeg) | 2011 | Frida Gold | Demos |
+| 48 |  | 2011-10 | Genetikk | Foetus |
+| 16 | ![Cover](https://i.discogs.com/C38ooT60JP0p_66lU6UYkhG3GF5_OB9jNs5B0c_eCs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDg3/NDEtMTYyODY4OTQ2/My02NDk0LmpwZWc.jpeg) | 2011-12-16 | Marsimoto | Green Juice |
+| 5 | ![Cover](https://i.discogs.com/xq9dv4NkVksv15wEmIxsnLyw4C6UAKR23fQmc9jgpPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM0/MTg2LTE0OTk5NjU0/MDktMTE1OC5qcGVn.jpeg) | 2011-12-29 | Kollegah | Legacy - Best Of |
+| 35 | ![Cover](https://i.discogs.com/B9Zfr7itehcTXubnM_cY1aMNSGXUvh9tBDhJLv0rR3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTMy/NTUtMTQ3NzQxNjk4/NC0zMTEzLmpwZWc.jpeg) | 2012-03-06 | Massiv | Blut gegen Blut Re-Release |
+| 34 | ![Cover](https://i.discogs.com/eoDpP808XLz-Om2x5on7KQ7vm2veBcIAfRHfg5uSsvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjkw/OTItMTQ3OTM3NTU0/OS05MDc4LmpwZWc.jpeg) | 2013-01-11 | Sido | Hol doch die Polizei |
+| 26 |  | 2013-05-31 | Maxim | Staub |
+| 49 | ![Cover](https://i.discogs.com/zf3Rmt4AeUN4w7-47rRQhEFI-w9nJf8e_jzb2W4IcdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjYy/MTAtMTM3MzUzNjA1/Ni03Mzc1LmpwZWc.jpeg) | 2013-07-12 | Lance Butters | futureshit |
+| 2 | ![Cover](https://i.discogs.com/rdxO2BdtecQolrwFIQBJ7wVQGMpr1-XLrpyInIgr6co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODUw/NTMtMTU4MjE4NzEz/NS02NzM1LmpwZWc.jpeg) | 2013-08-02 | Alligatoah | Triebwerke (Premium Edition) |
+| 21 | ![Cover](https://i.discogs.com/hBBHjjUJdzc5KZl25zrdxcNB3smYPpxEwGLx4UPrD4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDQy/NzMtMTUwNTU1Mjg3/NS0xODYzLm1wbw.jpeg) | 2013-12-20 | Chefket | Guter Tag Mixtape |
+| 27 |  | 2014-04-25 | Kollegah | Wat is&#39; denn los mit dir |
+| 8 | ![Cover](https://i.discogs.com/OstVAzSTWrycOk3nwL6a-Xz4yWdAgaPeAdesmjeLoBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTYy/NDYtMTQwNTY4ODg4/MC02MjA2LmpwZWc.jpeg) | 2014-07-18 | Sorgenkind | Sommerloch |
+| 7 | ![Cover](https://i.discogs.com/8cD7L31mM0tQh5EmlUxZejjMazSXsn6Fthkj7GAIcl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODUy/NTgzLTE1ODI4MzMz/OTItNDU0My5qcGVn.jpeg) | 2014-09-26 | 257ers | Boomshakkalakka (Spotify Version) |
+| 52 | ![Cover](https://i.discogs.com/0RWAU6XBdbGUsEMw-UeF55lYPmWuc9STPocJLj3a8Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDU2/MzMtMTQyNzAxMzM5/Ni05MjEzLmpwZWc.jpeg) | 2015-03-06 | Sudden | Superkräfte |
+| 47 | ![Cover](https://i.discogs.com/Hx1PVKiZPCfNOB51ZImvFqL8OKUj63T9_LCl951BxcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDYw/NzEtMTQ0NjYwMjQ0/OS04MTIwLmpwZWc.jpeg) | 2015-09-11 | Timi Hendrix | 2 Zimmer, Küche, Bong |
+| 19 | ![Cover](https://i.discogs.com/Ui70afll5CMWNgm6khN6s7iMfCqkrroZj5Ht6QYDmEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NzI1/MTQtMTQ0NjQxMTk4/My00NTA5LmpwZWc.jpeg) | 2015-10-29 | juse ju | Angst &amp; Amor |
+| 44 | ![Cover](https://i.discogs.com/s4IIxF0ctErvjm-gQBxSUpUd3MeBqF-AiojXxqb7vsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODEz/NjMtMTQ1MDgxNjkz/Ni02NTgwLmpwZWc.jpeg) | 2015-12-11 | Kollegah | Zuhaltertape X-Mas Edition |
+| 38 | ![Cover](https://i.discogs.com/G41FHUis6yB98Hl-0JNTNFMY7oCG0Og8zFUCh1MfYe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDQ5/MjktMTQ1MjE3NzE3/Ni0yNTQ1LmpwZWc.jpeg) | 2016-01-08 | 3Plusss | Auf der Stelle |
+| 11 | ![Cover](https://i.discogs.com/VdkK1TzlHcsNgw1YK-NvpTsPCwCecROrc88K9AkOLjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDMw/ODEtMTQ1OTkyOTMx/My0zMzUwLmpwZWc.jpeg) | 2016-01-29 | SSIO | 0,9 |
+| 37 | ![Cover](https://i.discogs.com/T8HR_iCcgS-4x0f5lANPj9aJykQoRS-foNs25Af8uJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDYw/MzMtMTQ1OTAyMDc0/My0zNzU4LmpwZWc.jpeg) | 2016-03-03 | RIN | Genesis EP |
+| 25 | ![Cover](https://i.discogs.com/ff_ITlZPcWni5NHHxM7P6vtkv9Hf-trnrSZXEjloigE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTIx/ODQtMTQ2MzEwNDk3/NC01NDc4LmpwZWc.jpeg) | 2016-05-13 | Karate Andi | Turbo |
+| 23 | ![Cover](https://i.discogs.com/CTVZHQDijDsCAn99rWg34B1-DCUER3WlaeeZcaUUFsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTg1/MzktMTQ2ODE0Njk4/Ny01NTU5LmpwZWc.jpeg) | 2016-07-08 | MC Bomber | Predigt |
+| 24 | ![Cover](https://i.discogs.com/ZMKdMwshCuh4cjtiFv4tE2Jci8i-LvvWomsfPJYzUXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzM2/MjAtMTQ3Nzc1MzU3/OS04MzAxLmpwZWc.jpeg) | 2016-11-03 | Kalim | Odyssee 579 |
+| 41 | ![Cover](https://i.discogs.com/MfqKg5k_U5ydSk1K3vK6rcjjnk4cEVj0Kva1v3lW0eU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzIx/NDg2LTE1MzI4OTAz/MDEtOTE2NC5qcGVn.jpeg) | 2017 | Kay One | Louis Louis |
+| 43 | ![Cover](https://i.discogs.com/F69XeMwzDclYw6a8VdB3aAsX06cc16BqoPdpGUhqcYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzcw/MDIzLTE2NTM2NDI4/MjctMzIzOS5qcGVn.jpeg) | 2017-04-14 | Zuna | Mele7 |
+| 31 | ![Cover](https://i.discogs.com/bcc-uouYppddBq4QnsPqn0Eq2BZ-YrZHLfZsSSdcAgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTQ2/Nzc5LTE2MDg0MDg1/NzgtMzY3My5qcGVn.jpeg) | 2018 | Alligatoah | Alli-Alligatoah |
+| 28 | ![Cover](https://i.discogs.com/onuM6jEX067z0DwB8NjX4gm2ASNzZlc5VdKJScIC-C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIx/ODI1LTE1MzA4MDg0/MDMtNTQ4NC5qcGVn.jpeg) | 2018-05-11 | Kontra K | Erde &amp; Knochen |
+| 1 | ![Cover](https://i.discogs.com/qQPZuErXi0PA3r7iot2mn5STQXaWfsJ_WGyKrebL2ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQy/MDY5LTE1NjAxNjE0/MTQtNTE4Ny5qcGVn.jpeg) | 2019-03-29 | Fler | Colucci |
+| 4 | ![Cover](https://i.discogs.com/tkd6ZHnbgTURcv-7AU1ynFZgyl6Nb6kYWnm_ev0PDx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI4/ODcxLTE1NjIwNDkx/NDktMzMyMS5qcGVn.jpeg) | 2019-06-28 | Hanybal | Vanilla Sky |
+| 29 | ![Cover](https://i.discogs.com/6bDTIEjjJD_hXr-toRLDZdUkUT6zBgaOUUmNN7x-GEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ1/ODg2LTE1NzEwNzM1/OTYtMjM3MC5qcGVn.jpeg) | 2019-10-10 | Kummer | 9010 |
+| 20 | ![Cover](https://i.discogs.com/D9i5aBbzVBt2sSc-kGfwMLzrkmdirsq8i_bTKjodu_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjM2/NDU3LTE1ODg0OTAw/NzMtMTY3MC5qcGVn.jpeg) | 2019-10-31 | RAF Camora | In meiner Zone 2.0 |
+| 42 |  |  | Kollegah und Farid Bang | Jung, Brutal, Gutaussehend |
+| 53 |  |  | Kool Savas feat. Moe Mitchell | Tot Oder Lebendig |
+| 58 | ![Cover](https://i.discogs.com/bKQq3PrEG25aImG54C75gaQZ5wO3ftG0runrhpQL6nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzIz/NzktMTMwNTAwMzI3/MS5qcGVn.jpeg) | 2000 | Asche | Rap wieder hart |
+| 89 | ![Cover](https://i.discogs.com/EhbONidMp9ldH_6vuURpYHNRQLOxAAfi0AW6C3ZDsVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjM0/MTgtMTMyOTIzMTY3/Mi5qcGVn.jpeg) | 2000 | Mero | YA HERO YA MERO |
+| 64 | ![Cover](https://i.discogs.com/SR9lLM96iLCdvwubUrlMV8yX8vdq57IxhncdkU9SaWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQ3/MjYtMTIxMjI2OTI0/OS5qcGVn.jpeg) | 2006-12-01 | Sido | Ich &amp; meine Maske (Premium Version) |
+| 80 | ![Cover](https://i.discogs.com/0yjrZK9eHTIeUyr3Olo8pHv6cRert-UdL_biCx5iEJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTEx/MTItMTI5NTAwMzYx/My5qcGVn.jpeg) | 2007-08-31 | Bass Sultan Hengzt | Schmetterlingseffekt |
+| 84 |  | 2007-08-31 | Bushido | 7 |
+| 73 |  | 2007-11-16 | Kollegah | Alphagene |
+| 68 | ![Cover](https://i.discogs.com/_1d3s10iC5X9FR-7A8W-YLsHLznNx3hjK1G_bYfHTu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTE2/MDctMTI5MzEyOTIw/Ny5qcGVn.jpeg) | 2008-05-02 | Favorite | Anarcho |
+| 59 | ![Cover](https://i.discogs.com/VZMR_qdmA63X9DxnmjvU28hxbnAyk3td13ZsZ22HkzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjEx/Njg4LTE2MTIxOTkw/MDItNjUyMi5qcGVn.jpeg) | 2008-05-16 | Sido | Tausend Tattoos |
+| 82 |  | 2008-10-10 | Bushido | Heavy Metal Payback |
+| 61 |  | 2008-12-19 | Alligatoah | In Gottes Namen |
+| 67 |  | 2009 | Maeckes | null |
+| 69 | ![Cover](https://i.discogs.com/maXWzNfWioWJ7GIQ3vns49oPsVNGyOWPg70EJdwDjyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODYy/MjItMTI3NDUyMzUw/MC5qcGVn.jpeg) | 2010-02-05 | Bushido | Alles wird gut |
+| 79 |  | 2011-02-25 | Alligatoah | Schlaftabletten, Rotwein III |
+| 88 | ![Cover](https://i.discogs.com/KcrkKaPFjM-Go3VOoPapY-gU0Biq_C3YFDDoKXYcdYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODUw/MTEtMTM5NzI1ODk3/Ni0yODc1LmpwZWc.jpeg) | 2011-12-24 | Alligatoah | Schlaftabletten, Rotwein V |
+| 74 |  | 2012-10-26 | Genetikk | Voodoozirkus |
+| 98 | ![Cover](https://i.discogs.com/O5bRlUwUfkv3rXUVzgHiEw_0K1ALDBBjN1xYE3XMVlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzEx/MzE1LTE1NTk1MjU5/MDItODU4MC5qcGVn.jpeg) | 2013 | Capo | Hyat |
+| 75 |  | 2013-05-03 | Maxim | Meine Soldaten |
+| 87 |  | 2013-06-21 | Genetikk | D.N.A. |
+| 93 |  | 2013-08-02 | Alligatoah | Triebwerke |
+| 78 | ![Cover](https://i.discogs.com/FQtOmpX4Vfywm2I9sWGDuiZGEWy7k2fiySYVyk3OZws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTg4/ODktMTQyOTA0NTIx/Ni03Njk0LmpwZWc.jpeg) | 2014-02-24 | Marteria | 1982 |
+| 94 | ![Cover](https://i.discogs.com/SUjXBqMiUQGYDHBb_o3-FsEEJX7tSR-g2DxwfS8qApQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDc2/OTQtMTY1Mjc2OTY0/Ni02NzQwLmpwZWc.jpeg) | 2014-10-31 | Zugezogen Maskulin | Alles brennt |
+| 71 | ![Cover](https://i.discogs.com/tUdAn1AK2_hRiPsXvMeR4RGPvYAlbRKyBgPaINsRcQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTY5/OTUtMTQ1MTI2OTIz/My01NTQ1LmpwZWc.jpeg) | 2014-12-05 | Trailerpark | Crackstreet Boys 3 |
+| 83 | ![Cover](https://i.discogs.com/momLraVVxYV_hf9ATILHGkIafgi1J24Cj1cbEwWGwF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzU3/MTUtMTQxNzcwNzAw/Ni03ODUxLmpwZWc.jpeg) | 2014-12-05 | Trailerpark | Crackstreet Boys 3 (Bonus Tracks Version) |
+| 92 | ![Cover](https://i.discogs.com/tUdAn1AK2_hRiPsXvMeR4RGPvYAlbRKyBgPaINsRcQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTY5/OTUtMTQ1MTI2OTIz/My01NTQ1LmpwZWc.jpeg) | 2014-12-05 | Trailerpark | Crackstreet Boys II X Version |
+| 91 | ![Cover](https://i.discogs.com/rb7W3F4SJTVzWrJaQc81a2Td3MT1k5hnKoslEm_5SvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjY3/NzMtMTYwMjYyMjgy/Ni01NjgyLmpwZWc.jpeg) | 2015-12-18 | Alligatoah | Musik ist keine Lösung |
+| 76 | ![Cover](https://i.discogs.com/zAAfAKm5n0_-xka3fwDLH__bN7jRapz7tLo6BZv8cYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDk3/ODgtMTQ4MDc4Nzg0/My01MTI2LnBuZw.jpeg) | 2016 | Shindy | Dreams |
+| 54 | ![Cover](https://i.discogs.com/6a9mJdpS3t13GZg6AKcbYCRUnHuUlgUyZ5QN_ySKSeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzk5/MjEtMTQ1NDc3Njkx/Mi0xODUwLmpwZWc.jpeg) | 2016-02-05 | Prinz Pi | Im Westen Nix Neues |
+| 90 | ![Cover](https://i.discogs.com/YkvdeERliTL_SkauCondTJ0hHR7oUPpCY-6pxXlSMjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzA2/MzAtMTQ2MDI5NjUw/OS0zMzE1LmpwZWc.jpeg) | 2016-04-15 | SXTN | Asozialisierungsprogramm |
+| 62 | ![Cover](https://i.discogs.com/Plu5Tz9HeVo6L1YMg67FAizl_yIv9uOcKJNJOj5vX78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzMw/NzExLTE0OTU0NTAz/NjktNzU4My5qcGVn.jpeg) | 2016-09-08 | Miami Yacine | Kokaina |
+| 85 | ![Cover](https://i.discogs.com/Te9GSir-NLrd7o3gna7Ix-bRwQCFaRGYnzHxuGdMx3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQx/MjA2LTE0OTU2Mzg4/NDMtNDMwNC5qcGVn.jpeg) | 2017-05-26 | Marteria | Roswell |
+| 66 | ![Cover](https://i.discogs.com/a9u63yfzO7ygUjB5XyB_PTbHJZa9OkHFcZss7WnRgKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg0/NTI3LTE0OTY0MTA2/MzgtMjQ2MC5qcGVn.jpeg) | 2017-06-02 | SXTN | Leben am Limit |
+| 96 | ![Cover](https://i.discogs.com/7hi52jIilwhuY94cB_QbrrfeOoyZLxle4U83gMpGNAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ3/NTM3LTE1MDUyODk2/NjQtNjc2Mi5qcGVn.jpeg) | 2017-09-29 | trettmann | #DIY |
+| 65 | ![Cover](https://i.discogs.com/OMPw6Gne5cNRDOFkbaqP1QWr9b8ojLI_wADlfx7W1aE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI2/NDE1LTE1MDg1ODU0/NDAtMjk3Ni5qcGVn.jpeg) | 2017-10-20 | Zugezogen Maskulin | Alle Gegen Alle |
+| 81 | ![Cover](https://i.discogs.com/vXlRl5YfVtvu7uOm_tD_kn5kxTnbM2Ko5CQBDxIQvLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ3/MjE2LTE1MDg4NjYz/ODUtNTgyMS5qcGVn.jpeg) | 2017-10-20 | Trailerpark | TP4L |
+| 77 | ![Cover](https://i.discogs.com/bcc-uouYppddBq4QnsPqn0Eq2BZ-YrZHLfZsSSdcAgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTQ2/Nzc5LTE2MDg0MDg1/NzgtMzY3My5qcGVn.jpeg) | 2018 | Alligatoah | 10 Jahre Alligatoah |
+| 86 | ![Cover](https://i.discogs.com/ZpBMam6ojWoPrDZd2dUSifcgiLZXOHw4VzAwCIaDbCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTcw/NTc4LTE1MTg3MDE3/ODktNTg2My5qcGVn.jpeg) | 2018-02-09 | Bausa | Powerbausa |
+| 56 | ![Cover](https://i.discogs.com/THAhTWG3VuKyvHlmZRUuzbJUfI9FnlOlnsXCLghG2E0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTgx/NzA5LTE1MTg4ODkw/NTItMTU2NS5qcGVn.jpeg) | 2018-02-22 | RAF Camora | Anthrazit RR |
+| 99 | ![Cover](https://i.discogs.com/swy2WH2XXH8PeL8Ij7shiG-7TU5tU_vN2JGbidBI0sM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTUy/MTQ0LTE1NDUyMDc5/MjQtMjk1NC5qcGVn.jpeg) | 2018-02-23 | Haftbefehl | Chabos wissen wer der Babo ist |
+| 95 | ![Cover](https://i.discogs.com/yMd7Q_IjF1O0vE4BqBHCCWf0TK5XrzuSCqjya6ZY6yE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTUx/NDQwLTE1Mjk2Njg0/NTItMzg3My5wbmc.jpeg) | 2018-05-04 | Yung Hurn | 1220 |
+| 70 | ![Cover](https://i.discogs.com/onuM6jEX067z0DwB8NjX4gm2ASNzZlc5VdKJScIC-C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIx/ODI1LTE1MzA4MDg0/MDMtNTQ4NC5qcGVn.jpeg) | 2018-05-11 | Kontra K | Erde &amp; Knochen (Deluxe Edition) |
+| 60 | ![Cover](https://i.discogs.com/_UszEdx1VSC-f69DNyZ0aoTf2IcxVCfOurogXTvAhwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjU2/NDMzLTE2MzE4MTMw/NjItNTkxNi5qcGVn.jpeg) | 2018-11-28 | Veysel | UFF |
+| 97 | ![Cover](https://i.discogs.com/9HoqaT30PKOBGnzYL9DcYYEZzT6Kuwl5_Z7Upiyb_0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg0/ODEyLTE1MDQyNzY1/NjAtMzY0OS5qcGVn.jpeg) | 2020-10-02 | Casper | Lang Lebe Der Tod |
+| 30 | ![Cover](https://i.discogs.com/AYRpqWVdva6iLJa366OhmJNE1yclAWjT5aOwO2UCMAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Njg2/MjItMTUzOTE4MDQ2/OC00MTU0LmpwZWc.jpeg) | 2021 | Audio88 | Normaler Samt |
+| 55 | ![Cover](https://i.discogs.com/LQiU_oYH_b0c2CIij2WL5TU2Qt3uvyaDAY8s3k7i2kM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTg1/OTI4LTE2MzY5NjQ2/ODAtNTc4My5qcGVn.jpeg) | 2021 | $OHO BANI | $oho Bani Vol.1 |
+| 72 | ![Cover](https://i.discogs.com/guDBB2in5_4lzj9U1Q_cslxRsfhGOPQ3vsEqZZ5J1Og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDI1/ODEtMTQyMTQ1OTAw/Ny00MzA2LmpwZWc.jpeg) | 2021 | K.I.Z. | Ganz oben (Mixtape) |
+| 63 | ![Cover](https://i.discogs.com/BB0_o9Mu88jINB3m4EfekPr_eZAxB_Eg4VjfJbY6nwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjk4/NjY2LTE2MzkxNDkx/MjktODUyMC5qcGVn.jpeg) | 2021-12-10 | Kay One | Senorita |
+| 100 | ![Cover](https://i.discogs.com/8TSCIMZXJEic9w3bki4b0UWU1TwefS5_K8-D8u0xCTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjEz/MTIwLTE2Njg4NTU0/OTctNzQxNS5qcGVn.jpeg) | 2022-11-17 | Marteria | Lila Wolken |
+| 46 | ![Cover](https://i.discogs.com/RV6erh7c48VkWsXFODQ9rl_G0H9fq_sgOukC7SLeXRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc1/NzYyLTE1MTg3OTA5/MjktODI0MS5qcGVn.jpeg) | 2023-11-17 | BHZ | 2826 |
+
+### Related genres
+
+- [rap]({{ "/tags/rap" | relative_url }})
+- [hip-hop]({{ "/tags/hip-hop" | relative_url }})
+- [german]({{ "/tags/german" | relative_url }})
+- [german rap]({{ "/tags/german-rap" | relative_url }})
+- [berlin]({{ "/tags/berlin" | relative_url }})
+- [german hip hop]({{ "/tags/german-hip-hop" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [germany]({{ "/tags/germany" | relative_url }})

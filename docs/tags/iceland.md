@@ -1,0 +1,128 @@
+---
+category: genre
+date: 2025-10-25T03:13:34.430Z
+permalink: tags/iceland
+title: iceland
+---
+
+## iceland
+
+Last updated: <time datetime="2025-10-25T03:13:34.430Z">Sat Oct 25 2025 06:13:34 GMT+0300 (Eastern European Summer Time)</time>
+
+### 100 chronological releases
+
+| Place | Cover | Date | Artist | Album |
+|---|---|---|---|---|
+| 49 |  | 1977 | Various Artists | Söngvakeppnin 2024 |
+| 66 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1977 | Various Artists | Söngvakeppnin 2022 |
+| 75 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1977 | Various Artists | Söngvakeppnin 2019 |
+| 8 |  | 1984 | KUKL | The Eye |
+| 58 | ![Cover](https://i.discogs.com/Fg3p_FpKnzrCwILrlpd-fN8z5MpZ7y1ZovDoo-OKAYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTY1/Mi0xNjQxNjUzODA3/LTk0MzIuanBlZw.jpeg) | 1984-10 | KUKL | KUKL à Paris 14.9.84 |
+| 31 |  | 1993-07-12 | Björk | Debut |
+| 3 | ![Cover](https://i.discogs.com/WEqtJcr8NC7IcOFFVmrE9NWUBfAcvm4Twx4ZzipJfQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTkw/NTUtMTQ0NDg1Mzc4/OS04MDUzLmpwZWc.jpeg) | 1994 | Iceland Symphony Orchestra | Recurrence |
+| 64 | ![Cover](https://i.discogs.com/IQ400ycq3QrRLi-UitZLpJrKOr0KnS2LrnJEjgj_tko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODM4/ODctMTQ1NTY1NDAw/NC0zOTcyLmpwZWc.jpeg) | 1995 | Nanna | Crybaby |
+| 34 | ![Cover](https://i.discogs.com/MQQm2zFGJ7sYRKLTUulzNLVir7tsUQPIGStyMvMV1ws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzI0/LTEyMzIzMjI3NTUu/anBlZw.jpeg) | 1995-06-09 | Björk | Post |
+| 4 | ![Cover](https://i.discogs.com/Hv158QkwShg8f75NrdkIoQ--o2yI38nJGeSJ9l9qhNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjUx/NzctMTM4MzU4NzQz/Mi0zMzYxLmpwZWc.jpeg) | 1997 | Á túr | Píka |
+| 28 | ![Cover](https://i.discogs.com/VkX4nZylujPaGr0wZBwL98cF4jMtZyWoedmOSDZJ3p0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzEw/LTE2NTU2NzIwNDAt/NjQ5Mi5qcGVn.jpeg) | 1999-06-07 | Björk | Family Tree (CD1 Roots) |
+| 11 | ![Cover](https://i.discogs.com/URaROAqV0-xp34eifxHwyoiPIM52xJXWSrYKaZajix8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzc2/MjktMTMyNjM4MzI1/OC5qcGVn.jpeg) | 1999-09-27 | Sigur Rós | Sven-g-englar |
+| 37 | ![Cover](https://i.discogs.com/G2QIzGAeA7-DdJ9rqbx0MccPY89gzUFlM24ADhfMsm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ0/LTE2OTYyMjU1MTIt/ODE4MC5qcGVn.jpeg) | 1999-09-27 | Sigur Rós | Svefn-G-Englar |
+| 65 |  | 2000 | Ampop | Nature is not a virgin |
+| 42 | ![Cover](https://i.discogs.com/Mh_jaJw57PwGqR744lmAQqfJ6yvMFv3Sw0qVpL7byko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjE0/OS0xMzQ5MTI4NzUw/LTM2ODcuanBlZw.jpeg) | 2001 | Björk | Vespertine (Promo_release) |
+| 53 |  | 2002-01-01 | Apparat Organ Quartet | Apparat Organ Quartet |
+| 30 | ![Cover](https://i.discogs.com/1A7hkYQsKPyL6dKG3_bplA63779OkGQO65A1bgl-DHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODAz/LTE1OTU0MDYwMDkt/MjgyMi5qcGVn.jpeg) | 2002-05-20 | múm | Finally We are No One |
+| 52 | ![Cover](https://i.discogs.com/x3Wq7ZzROnCcaayyapQIgco-Ur5rmRoTHogEAa13WI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk2/MzYtMTY1MjY5NDU3/MS03NzY5LmpwZWc.jpeg) | 2002-10 | Jóhann Jóhannsson | End of Summer |
+| 85 | ![Cover](https://i.discogs.com/L7rGxLCd-zKotR8ZiyIIqbYbaANRN4PI05SKNHo9MKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc1/NTAwLTE1NTMwMjAw/MjItOTMwMi5qcGVn.jpeg) | 2002-10 | Mugison | Lonely Mountain |
+| 29 |  | 2002-11-01 | Björk | Greatest Hits |
+| 5 | ![Cover](https://i.discogs.com/VllvVyD10x_BmiSEKWPbqJqdqzUFkoxHrVnMbBzLs_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDUy/NTQtMTQwNzAxMTU4/MS02NDI4LmpwZWc.jpeg) | 2003 | Amalgam | Demo |
+| 15 |  | 2003 | Bang Gang | Something Wrong |
+| 35 |  | 2003-08-20 | Sigur Rós | Hlemmur |
+| 12 |  | 2003-09-15 | Apparat Organ Quartet | Romantika |
+| 26 | ![Cover](https://i.discogs.com/1GBXfjXxO53Z1WOemrLhI3YuezXaoKfsbBAyrRAc8LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTUz/MzktMTIyNTM4MTQ3/NS5qcGVn.jpeg) | 2003-09-15 | Kimono | Mineur-Aggressif |
+| 9 | ![Cover](https://i.discogs.com/J1BAeNCn47tGPMWMTBWRightQ0yMeeJBhrqPbAIRLZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE1/MC0xMjg2ODQ3NDY5/LmpwZWc.jpeg) | 2004-03 | Mugison | Sea Y |
+| 60 | ![Cover](https://i.discogs.com/R9bCOJXFj82lRwQ5VKStIxWgBKhQe3QB7M0G40kvoxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjY1/OC0xMTA0NDUyNzY3/LmpwZw.jpeg) | 2004-11 | Mugison | Niceland |
+| 50 |  | 2004-11-22 | Jóhann Jóhannsson | Dís |
+| 51 | ![Cover](https://i.discogs.com/bqAfnutUO7R0y8GdHjbKc1qu2wdwd7GBWcZxm01jL98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTIw/MDYtMTM4MDUyNDU2/NS0yOTQ4LmpwZWc.jpeg) | 2005-09 | Jóhann Jóhannsson | Dis |
+| 62 | ![Cover](https://i.discogs.com/aYq_pUXltHDzIYIounctra3cNI0jDk0rdlr4MyLQTsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzkz/MTQtMTQyNjM4NTg3/OS02NzU3LmpwZWc.jpeg) | 2005-09-12 | Sigur Rós | Paint It Black |
+| 81 | ![Cover](https://i.discogs.com/zmMY9O-lO9Kdhk5jc9E0eu0tledYZOjiz0Ri6R1n1XU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjA4/NS0xMzQzNzcxMzM5/LTczNjIuanBlZw.jpeg) | 2005-11-25 | Sigur Rós | Hoppípolla |
+| 10 | ![Cover](https://i.discogs.com/84WnsIYQXJ-YiUX-e-2mcyuKnOvFPQWpDre-B6KSf7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjU1/MzI3LTE2Nzc1ODc0/NDgtMzM4Ny5wbmc.jpeg) | 2006 | Shadow Parade | Dubious Intentions |
+| 74 |  | 2006 | Skúli Sverrisson | Sería |
+| 76 | ![Cover](https://i.discogs.com/jyGp2rpFCfy3SyNZIkL1-W1rMabzfsUfxzRKaxNNjTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTAy/MS0xNTMxMzMxNTEx/LTg2MTMuanBlZw.jpeg) | 2006-09 | Hildur Guðnadóttir | Mount A |
+| 41 | ![Cover](https://i.discogs.com/OYipIZJ7tcsydwtQiFx6U4-jZ6FC37wInBiWZUXh3YA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTM5/MjItMTM0NDY3NzM5/Ny00NzYxLmpwZWc.jpeg) | 2007 | I Adapt | Chainlink Burden |
+| 47 | ![Cover](https://i.discogs.com/OYipIZJ7tcsydwtQiFx6U4-jZ6FC37wInBiWZUXh3YA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTM5/MjItMTM0NDY3NzM5/Ny00NzYxLmpwZWc.jpeg) | 2007 | I Adapt | Chainlike Burden |
+| 79 |  | 2007 | Mugison | Mugiboogie |
+| 84 |  | 2007-02-28 | Ólöf Arnalds | Við og við |
+| 7 |  | 2007-04-23 | Björk | Volta |
+| 89 | ![Cover](https://i.discogs.com/pftQAScCXOG9Mq56HTBQgDFQxRYg4TC7gEtGbMCl6Yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgw/MDYtMTMwMzA1NTE3/MC5qcGVn.jpeg) | 2007-05-27 | Valgeir Sigurðsson | Ekvílibríum |
+| 91 | ![Cover](https://i.discogs.com/vOD74q7jrRCAmie2-JVmU1xjR2XIXeBXxRJ21-CeblA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM4/MjItMTE4ODQxOTM5/Ny5qcGVn.jpeg) | 2007-09-22 | múm | Go Go Smear the Poison Ivy |
+| 57 | ![Cover](https://i.discogs.com/x3Wq7ZzROnCcaayyapQIgco-Ur5rmRoTHogEAa13WI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk2/MzYtMTY1MjY5NDU3/MS03NzY5LmpwZWc.jpeg) | 2007-11-12 | Jóhann Jóhannsson | Englabörn |
+| 72 | ![Cover](https://i.discogs.com/sSPRpK44CTpc7Lfobgj9X0Jdg17NdWZYTpgeWN9uOEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDg1/MjMtMTMyOTI0NzAy/MC5qcGVn.jpeg) | 2008 | Yohanna | Butterflies And Elvis |
+| 73 | ![Cover](https://i.discogs.com/HcBC1LvBNsGvg39TElfXOlhQBOH6x47WUDmjbymiXTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgw/NjEtMTIyODI0OTk5/MC5qcGVn.jpeg) | 2008 | Sigur Rós | Við spilum endalaust |
+| 98 | ![Cover](https://i.discogs.com/ILL2q1R4Dfn1BHmR_Ndqtwj9adH22NC7MyAm6EIxmnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgx/MzktMTIzMzkzNzEz/NS5qcGVn.jpeg) | 2008 | Emiliana Torrini | Me And Armini |
+| 17 |  | 2008-06-23 | Sigur Rós | Með suð í eyrum við spilum endalaust |
+| 86 | ![Cover](https://i.discogs.com/eOBmzmBe20gN_62VtaKC4B9cXUah-6OOgdGgKe1hqE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTAz/ODEtMTYzMDcxNTI3/MC0zNjk2LmpwZWc.jpeg) | 2008-08 | Björk | Vespertine (EU Version) |
+| 67 | ![Cover](https://i.discogs.com/bZQe1vcXk_Y8nA88gG9oBD0MkaianhXC2Pz1nfnMcho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjQ2/OTgtMTMyNTgwODM3/MC5wbmc.jpeg) | 2008-09-12 | Bark Cat Bark | Á Lífi |
+| 36 |  | 2008-09-29 | Menn Ársins | Menn Ársins |
+| 93 |  | 2009-03-17 | Hildur Guðnadóttir | Without Sinking |
+| 56 | ![Cover](https://i.discogs.com/WecOgbdaQwD7GJA9y9DivWQTA8vfQSgn03QfefPt9Zo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTI0/ODktMTM3NzUxMzM0/OC02NjY2LmpwZWc.jpeg) | 2010 | Moses Hightower | Búum til börn |
+| 69 | ![Cover](https://i.discogs.com/_o7BUlfTYRTbzzCJXSbChQEvjTCd1-8IodKkQCxI-RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDI5/MTAtMTY0NjQ5NjQw/NC0xNjA3LmpwZWc.jpeg) | 2010 | Ólöf Arnalds | Crazy Car |
+| 23 | ![Cover](https://i.discogs.com/zfy6OJ6QZsTLCuGKBaAGdH9niNDcLJ-QMp0yFHLS66I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTY1/MDktMTI3MjcxNTkw/Ny5qcGVn.jpeg) | 2010-04-16 | Turbostaat | Das Island Manøver |
+| 2 | ![Cover](https://i.discogs.com/wbpO7Q7Q4iK2qrJkLM9M2G1RfhWc02Q7IHIdejvekhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTIw/OTktMTQ4NDg1MDUw/NS03ODExLmpwZWc.jpeg) | 2011 | Anna Thorvaldsdottir | Rhizoma |
+| 13 | ![Cover](https://i.discogs.com/_fkwDOBANjcCFEctUfms7I6gNyrO-wu2Ae1jHPhTrIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTc4/NDctMTUzNTMxMDA1/MS03Mzk4LnBuZw.jpeg) | 2011 | Anna Thorvaldsdottir | Rhízōma |
+| 59 | ![Cover](https://i.discogs.com/DN3SmXYnGzpKG3p1SURJDMZeUd2nZic6Uu_zVmRtXQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDcx/NjYtMTUxNjcyMjIz/OC0zNDAyLmpwZWc.jpeg) | 2011-02-17 | Biggi Hilmars | Cinematic Songs |
+| 32 | ![Cover](https://i.discogs.com/kD2LRpm_q3agQUqYq43eQdh4_zooxuItDHASyYLYrvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTkw/ODctMTM4MTc1MDE1/Ny02MjM4LmpwZWc.jpeg) | 2011-05-10 | Nexion | Nexion |
+| 22 |  | 2011-08-13 | Ham | Svik, harmur og dauði |
+| 43 | ![Cover](https://i.discogs.com/erhSR6dwtrQQU3ByJP7C5_wJKJt9L6zscwMJCV_IFBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDE0/ODgtMTUwOTQ4NjMz/Ny0yOTUxLmpwZWc.jpeg) | 2011-09-20 | Of Monsters and Men | My Head Is an Animal |
+| 71 |  | 2011-09-29 | Mugison | Haglél |
+| 83 | ![Cover](https://i.discogs.com/5wW5_T1qkiwLbHn_VOHl-7pbv2yaisoAmfux1vzXvPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTg4/MjktMTY1NDgzODU5/OS0yMzMwLmpwZWc.jpeg) | 2011-11-08 | Ólöf Arnalds | Ólöf Sings |
+| 18 | ![Cover](https://i.discogs.com/ir9UPml3jvxf9snLfECi0i9Hq2i4INPmHFQdPqHl2Pg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzY5/NjAtMTQ2MzU5MDQ3/OS0zODY1LmpwZWc.jpeg) | 2012 | Biggi Hilmars | All We Can Be |
+| 25 | ![Cover](https://i.discogs.com/WtOQPww3jbSQ0goNRUXIdZOVysJDJu5yio0pG62Cim0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODAx/NTctMTQwNDY2ODIw/My03NTgxLmpwZWc.jpeg) | 2012 | Sometime | Acid Make-Out: Music from the Motion Picture |
+| 48 | ![Cover](https://i.discogs.com/tsCNyAZLodiYdbOtZqI_czJczHztkH2WynBYI6NwG4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDU4/NTktMTUzMTc2NDg5/NS03NzI5LmpwZWc.jpeg) | 2013 | Ólöf Arnalds | A Little Grim |
+| 82 | ![Cover](https://i.discogs.com/ImT_14c_yZbqwU-3Cjv_RkX9BUkInB6G0xiJ1ZobUrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDQx/ODYtMTM2MzQ0NDM2/NS0zMzc2LmpwZWc.jpeg) | 2013-02-04 | Ólöf Arnalds | Sudden Elevation |
+| 16 | ![Cover](https://i.discogs.com/D5i0kcHbvhM39CD52QLzUssRdcDo_tqqUcHvuLQQWGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODgz/OTMtMTM3MjI3NTgy/OC0xMjQzLmpwZWc.jpeg) | 2013-06-10 | Zoon van Snook | The Bridge Between Life and Death |
+| 39 | ![Cover](https://i.discogs.com/p2L8qaMIjoAZwSgaSu9muWFDmdWC11TxyPqZ6EzGcIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzAz/MTAtMTM4MzY4Mjgx/NC05MTQ4LmpwZWc.jpeg) | 2013-08-07 | Vök | Well Done |
+| 63 |  | 2013-09-30 | Daníel Bjarnason | Over Light Earth |
+| 88 |  | 2013-10-22 | This Will Destroy You | Live in Reykjavik, Iceland |
+| 95 |  | 2013-12-10 | Of Monsters and Men | Live From Vatnagarðar |
+| 97 |  | 2014-06-14 | GusGus | Mexico |
+| 92 | ![Cover](https://i.discogs.com/ZYsP-V6r9Pvu0T_2zg1Vvgax99OT-rPA6WzztKQIrlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODE1/MDItMTQwNjcyODI1/Mi01NzAwLmpwZWc.jpeg) | 2014-08-24 | Hildur Guðnadóttir | Saman |
+| 70 | ![Cover](https://i.discogs.com/sGeWkYZlVl6HGYbrLYDND93c2dvEfbKCPKkigyZh8P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTY3/OTctMTQxODY3NTI4/OC03MDQ1LmpwZWc.jpeg) | 2014-09-29 | Ólöf Arnalds | Palme |
+| 46 | ![Cover](https://i.discogs.com/Qb_Uf0v_DqEYb160PSzWU39axcBihr9pP3tHaWsRlA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTcy/NjMtMTQzNTkzMDMy/Mi0zOTQ1LmpwZWc.jpeg) | 2015 | Anna Thorvaldsdottir | Aerial |
+| 94 | ![Cover](https://i.discogs.com/j1SYUU1jLpTFXeqtkSmx2uppF4xZG4E7vPID0-OtJdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY2/MTg2LTE2MDg2ODAw/ODktODM3NC5qcGVn.jpeg) | 2015-04-01 | Ólafur Arnalds | We Contain Multitudes (from home) |
+| 38 | ![Cover](https://i.discogs.com/LgElnWRoHtV3q2SFjYXpdeC_9Crz1oNUpqaqlnqHPSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODU2/OTktMTQ1MzczNTM3/MC00NDYxLmpwZWc.jpeg) | 2015-10-02 | Stafrænn Hákon | Eternal Horse |
+| 19 | ![Cover](https://i.discogs.com/3Az8bDRnS04Q0bGe7e15G7BlW1TnKJmaQuPefD5AHtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjI0/ODItMTQ2NDA5ODYy/OS0yMDA5LmpwZWc.jpeg) | 2016 | Lockerbie | [BadPanda065] Lockerbie |
+| 27 | ![Cover](https://i.discogs.com/aM8H6sQFiM7GfYDR6UXqpYtaToQ-vl6m1871KT2U6ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTUw/NDQtMTQyNzI0NTU0/Ny00NzYxLmpwZWc.jpeg) | 2016 | Eivør Pálsdóttir | Best Of |
+| 33 | ![Cover](https://i.discogs.com/0UzJbSAA3E-dZ11TYq_V9XNXgr6LrMSga6V0Lx_uo2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MDA3/NzItMTQ4NTAwNTgy/MS00NzQ2LmpwZWc.jpeg) | 2016 | Mugison | Enjoy! |
+| 55 | ![Cover](https://i.discogs.com/fdlTWkICFvVVWy7jnMP3lwXfKCVKxbdiWUAbAWNLDEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjM2/MjUtMTQ4MTA0OTEy/OC0xMDEwLmpwZWc.jpeg) | 2016-02-24 | Hotel Neon | Remnants |
+| 21 | ![Cover](https://i.discogs.com/xatyJ2efUDgxTSNXGc21MGP7XtrxPQvLeWi-au3RoDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mjg5/NjctMTQ2OTY0MTM4/MC03NzM3LmpwZWc.jpeg) | 2016-07-16 | Ljáin | Endasálmar |
+| 20 | ![Cover](https://i.discogs.com/82pK8q-bnkEXzZDAGYJ_mrKoRzYR-YuVevgOXl_uu20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mjg3/MjQtMTQ2OTYzODAy/NC01NjkwLmpwZWc.jpeg) | 2016-07-25 | Ljáin | Klofnar tungur |
+| 100 | ![Cover](https://i.discogs.com/kZU8xPLor5mEcJY40SU7-c78TWuQlxtbTyxRIWJhIYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTk3/OTItMTQ3MTA4MDUy/OC00OTU4LmpwZWc.jpeg) | 2016-10-28 | Ólafur Arnalds | Island Songs |
+| 44 | ![Cover](https://i.discogs.com/OnQW4SGSoHuW7W0hOzkc8vSVPReAVYhjMXB0tD0pais/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQ4/MTE0LTE0OTQwODgx/OTctNDEwMC5qcGVn.jpeg) | 2017-04-21 | Valgeir Sigurðsson | Dissonance |
+| 1 | ![Cover](https://i.discogs.com/Npk7VYCe1J_lqSIPao6fIdM--PRrquiD_6xBL86jc6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzY5/ODM2LTE1MjIwNzQ1/NTAtODM0Ny5qcGVn.jpeg) | 2017-10-31 | Biggi Hilmars | Dark Horse |
+| 96 | ![Cover](https://i.discogs.com/4mt8tWR4uGFGiTBfXv4dVlUmtYqnZE2x7HwwdTx4_zs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODMw/OTAxLTE1MjMxMTcw/MDEtMzYyMi5qcGVn.jpeg) | 2018-04-06 | Ólafur Arnalds | re:member |
+| 54 | ![Cover](https://i.discogs.com/EjDpZgec_PY9vulp5g_ovo9Ph2B4qJ4xL1kiJ1IkxXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODI4/NTg0LTE1OTg1NTA4/OTMtNjA0NS5qcGVn.jpeg) | 2019-11-11 | Faraón Love Shady | Panocha |
+| 61 | ![Cover](https://i.discogs.com/dVOQtxtocgd8K-iJcB3xlpiBoVKswFFRh9LYj7B6eh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTYy/MjAyLTE2NzUyOTkx/NzctNTM2NC5qcGVn.jpeg) | 2020-01-27 | Hildur Guðnadóttir | Fólk fær andlit |
+| 40 | ![Cover](https://i.discogs.com/d0BTEm_dabEXFbQ0wa1ovsp4Rb9SQGQzWQUh3bXXbYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTYw/Nzk4LTE2MDQ0ODQz/NTQtODI5OS5qcGVn.jpeg) | 2020-08-28 | Gyða Valtýsdóttir | Epicycle II |
+| 45 | ![Cover](https://i.discogs.com/tkg1U0aTLproyz3YstQTFNBQy1MpaRXB8AGcEKWBy7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk4/MjM0LTE2MDMzOTUz/NjUtNjc3Ny5qcGVn.jpeg) | 2020-10-23 | Skálmöld | Skálmöld og Sinfóníuhljómsveit Íslands (Extended) |
+| 78 | ![Cover](https://i.discogs.com/Jj7Q_Y7HqjNG9KgY4-bGaOPBlfpYo3dpJRRF6_FWlxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY4/OTItMTM0OTgxMTQ2/OC0zOTI3LmpwZWc.jpeg) | 2020-11-06 | Ólafur Arnalds | Say My Name (feat. Arnór Dan) |
+| 14 | ![Cover](https://i.discogs.com/r5TeTBu3dPMdGshVx7rTxzMDNfjf_I6g8ZSN-IDOoe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTYy/MTA5LTE2MTc2MjI3/MDAtMzIxMi5qcGVn.jpeg) | 2021-04-23 | Eydís Evensen | Næturdögg |
+| 68 | ![Cover](https://i.discogs.com/r5TeTBu3dPMdGshVx7rTxzMDNfjf_I6g8ZSN-IDOoe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTYy/MTA5LTE2MTc2MjI3/MDAtMzIxMi5qcGVn.jpeg) | 2021-04-23 | Eydís Evensen | Brotin |
+| 87 | ![Cover](https://i.discogs.com/r5TeTBu3dPMdGshVx7rTxzMDNfjf_I6g8ZSN-IDOoe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTYy/MTA5LTE2MTc2MjI3/MDAtMzIxMi5qcGVn.jpeg) | 2021-04-23 | Eydís Evensen | Bylur |
+| 77 | ![Cover](https://i.discogs.com/ZXeEGP5z_WHqUwH_2dRGqsQG_jsSUJ9SWXOkc7Y3yLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY1/Njc4LTE0OTEwMjc4/OTktMjIwNy5qcGVn.jpeg) | 2021-09-10 | Ólafur Arnalds | saman |
+| 99 | ![Cover](https://i.discogs.com/H42Ptb2jlyGS_IK46n3jq9qftI4JfzQQ1E1Xh1KYZco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTIz/NzAtMTY3MTQ3Njg2/NS05NDcwLmpwZWc.jpeg) | 2021-09-10 | Ólafur Arnalds | Trance Frendz |
+| 80 | ![Cover](https://i.discogs.com/nAcntJcM5wU4CDWJDAYVYlKLpWXfTdJcx-PTXVYl9d4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTM4/OTEzLTE2MzgwMDc3/ODktODg2OC5qcGVn.jpeg) | 2021-10 | The Colorist Orchestra | The Colorist &amp; Emiliana Torrini |
+| 6 | ![Cover](https://i.discogs.com/GC9gLxcQjlSxUPKmELrydCs6E1x9UxJS0S4r90j7j4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk0/OTgyLTE2NTAwNjMy/MjItNDg1Ni5qcGVn.jpeg) | 2022-03-18 | Ottoman | Heretic |
+| 24 | ![Cover](https://i.discogs.com/tOrcvR922ByhONrM7K9-h2lPuBTkYrFtgPBRBioleeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTcz/MzIwLTE2ODMyMTI1/NjAtOTkxOS5qcGVn.jpeg) | 2022-03-25 | Mari Sainio | Minus 25 |
+| 90 | ![Cover](https://i.discogs.com/9NP63OxaiBJ_051aEe_hJ2Gk_NQ0HEUGyJxDHcqY37E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI2/NjQtMTE5OTU1NzUz/MS5qcGVn.jpeg) | 2023-11-22 | Ólafur Arnalds | Eulogy for Evolution 2017 (Remastered 10th Anniversary Edition) |
+
+### Related genres
+
+- [icelandic]({{ "/tags/icelandic" | relative_url }})
+- [instrumental]({{ "/tags/instrumental" | relative_url }})
+- [contemporary classical]({{ "/tags/contemporary-classical" | relative_url }})
+- [composer]({{ "/tags/composer" | relative_url }})
+- [piano]({{ "/tags/piano" | relative_url }})
+- [nordic]({{ "/tags/nordic" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
+- [electronic]({{ "/tags/electronic" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})
