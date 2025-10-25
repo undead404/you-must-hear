@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T07:28:02.680Z
+date: 2025-10-25T09:23:20.535Z
 permalink: tags/berlin
 title: berlin
 ---
 
 ## berlin
 
-Last updated: <time datetime="2025-10-23T07:28:02.680Z">Thu Oct 23 2025 10:28:02 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-25T09:23:20.535Z">Sat Oct 25 2025 12:23:20 GMT+0300 (Eastern European Summer Time)</time>
 
 ### 100 chronological releases
 
@@ -66,10 +66,10 @@ Last updated: <time datetime="2025-10-23T07:28:02.680Z">Thu Oct 23 2025 10:28:02
 | 100 | ![Cover](https://i.discogs.com/S0sYMsJhzatV40YLUOqn9PuBu3Pj-RHgCec5R1T_UaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDAy/MzQtMTI4NzQxOTI3/MC5qcGVn.jpeg) | 1973 | Freddie King | Getting Ready... (World) |
 | 76 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/95aae05a48e848be8ce3b4896ea9bfe4.png) | 1973-10 | Lou Reed | Berlin |
 | 75 |  | 1976 | B. B King | BB King Jamming |
-| 87 |  | 1977 | Various Artists | Cabaret |
+| 86 |  | 1977 | Various Artists | Cabaret |
 | 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/46778f420af34cc589672b0d563f48e7.png) | 1986-11-18 | Berlin | Count Three &amp; Pray |
-| 94 | ![Cover](https://i.discogs.com/1uX-u5SDJsaLDI2mq3VQ6UFPN6gcbMrMtp52SOuhsOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mjg2/ODEtMTUyMTc4Mzc4/MS03MTA4LmpwZWc.jpeg) | 1987 | Depeche Mode | Live in Berlin Soundtrack |
-| 92 |  | 1988-11-03 | Berlin | Best Of Berlin 1979-1988 |
+| 93 | ![Cover](https://i.discogs.com/1uX-u5SDJsaLDI2mq3VQ6UFPN6gcbMrMtp52SOuhsOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mjg2/ODEtMTUyMTc4Mzc4/MS03MTA4LmpwZWc.jpeg) | 1987 | Depeche Mode | Live in Berlin Soundtrack |
+| 91 |  | 1988-11-03 | Berlin | Best Of Berlin 1979-1988 |
 | 72 |  | 1992 | Maurizio | Ploy |
 | 81 | ![Cover](https://i.discogs.com/V5qid58dEfXcpkfj5y__ypN0qh19qrn15R6SECPd6_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzYx/LTEzNjI5MTUwMzMt/NTgzNS5qcGVn.jpeg) | 1992 | Depeche Mode | LiVE SPiRiTS SOUNDTRACK |
 | 71 |  | 1997 | Ideal | Monotonie |
@@ -82,25 +82,25 @@ Last updated: <time datetime="2025-10-23T07:28:02.680Z">Thu Oct 23 2025 10:28:02
 | 52 | ![Cover](https://i.discogs.com/SgFNzPvOPuUc_xZxrKcopgKL8EhhzuezRriATdF7cOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI0/Ny0xMzQ5NjE0MjM2/LTk5NzcuanBlZw.jpeg) | 2005 | Seeed | Next ! |
 | 82 |  | 2005 | Culcha Candela | Next Generation |
 | 55 |  | 2005-01-17 | Tocotronic | Pure Vernunft darf niemals siegen |
-| 93 |  | 2005-08-29 | Ohrbooten | Spieltrieb |
+| 92 |  | 2005-08-29 | Ohrbooten | Spieltrieb |
 | 74 | ![Cover](https://i.discogs.com/pGJZ0g4HN8oMRR4QUTH26yh6P0v96uKfo-8navM1sHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzEx/MC0xMTUzMTQ0ODIy/LmpwZWc.jpeg) | 2006-03-10 | Apparat | Berlin, Montreal, Tel Aviv |
 | 84 | ![Cover](https://i.discogs.com/49g6FAVwWWRxYOOonTDgtPFab6TEqtzf-bDPyNGbY9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcx/MzUtMTIwNzE1ODM0/MS5qcGVn.jpeg) | 2006-04-07 | SDP | ...Nur Musik Ist Schöner |
 | 79 |  | 2006-04-24 | Barbara Morgenstern | The Grass Is Always Greener |
-| 88 |  | 2006-04-27 | The Whitest Boy Alive | Dreams |
+| 87 |  | 2006-04-27 | The Whitest Boy Alive | Dreams |
 | 64 |  | 2006-06-06 | Agonoize | Ultraviolent Six |
 | 59 |  | 2007 | Miss Platnum | Give Me The Food |
 | 96 |  | 2007-04-27 | Boundzound | Boundzound |
 | 63 |  | 2009 | Cobra Killer | Uppers &amp; Downers |
 | 58 |  | 2010-03-17 | Micha Maat | Du und Ich |
 | 67 | ![Cover](https://i.discogs.com/zdaRN5UL8kC-mXFCmaBfng0rxTVmi7vZT9UzCuDq7GA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjc1/NjQtMTQ1Mjg3MzI0/MS0yNzY3LmpwZWc.jpeg) | 2010-04-01 | Dota und die Stadtpiraten | Bis auf den Grund |
-| 95 | ![Cover](https://i.discogs.com/6r8oTc9vz2X3GaJVNLKdvKAl8bZU8bQzXl3UF9KEq4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTUy/MzItMTM2MjkyOTM2/My02OTIwLmpwZWc.jpeg) | 2010-05-14 | Sido | Der Himmel soll warten |
+| 94 | ![Cover](https://i.discogs.com/6r8oTc9vz2X3GaJVNLKdvKAl8bZU8bQzXl3UF9KEq4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTUy/MzItMTM2MjkyOTM2/My02OTIwLmpwZWc.jpeg) | 2010-05-14 | Sido | Der Himmel soll warten |
 | 53 | ![Cover](https://i.discogs.com/3c1noMmizkSxy34i3woXJhWeLJrRH1EzJEQrhLtvWvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDYx/MzctMTI5NDc2OTUw/NS5qcGVn.jpeg) | 2010-12-21 | White Wishes | Today |
 | 57 | ![Cover](https://i.discogs.com/wb98I-1IH9PA36etqRlOl8_Yfg8w8XWdH0dKgsUoL0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzMx/NDYtMTY1OTcxMzU4/MS00MjM0LmpwZWc.jpeg) | 2011-04-29 | EMMA6 | Soundtrack für dieses Jahr |
+| 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/40d1cf421cc5f4dfb21ecc4ab3290a60.png) | 2012-08-10 | Jennifer Rostock | Live in Berlin |
 | 54 | ![Cover](https://i.discogs.com/JpmRpSV63PceuIYMy7bslNdGKuN7zQy4k7z39jcE_SI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjMw/OTctMTM0NTgxNTUw/Mi0yMDk0LmpwZWc.jpeg) | 2012-08-22 | Mat.Joe | Heart To Find EP |
-| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/990bffdca53effbfa4b149129580e73e.png) | 2012-08-24 | Museum | traces of |
-| 91 |  | 2012-10-19 | SDP | Die bekannteste unbekannte Band der Welt |
+| 90 |  | 2012-10-19 | SDP | Die bekannteste unbekannte Band der Welt |
 | 65 |  | 2013-02-22 | Benjamin Damage | Heliosphere |
-| 89 |  | 2013-05-03 | Maxim | Meine Soldaten |
+| 88 |  | 2013-05-03 | Maxim | Meine Soldaten |
 | 60 |  | 2013-05-31 | Maxim | Staub |
 | 83 |  | 2013-08-02 | Moderat | II |
 | 78 |  | 2013-09-03 | King Khan &amp; The Shrines | Idle No More |
@@ -109,7 +109,7 @@ Last updated: <time datetime="2025-10-23T07:28:02.680Z">Thu Oct 23 2025 10:28:02
 | 99 | ![Cover](https://i.discogs.com/SUjXBqMiUQGYDHBb_o3-FsEEJX7tSR-g2DxwfS8qApQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDc2/OTQtMTY1Mjc2OTY0/Ni02NzQwLmpwZWc.jpeg) | 2014-10-31 | Zugezogen Maskulin | Alles brennt |
 | 61 | ![Cover](https://i.discogs.com/3Jb9YXvsLg-zNirCMJYH8mP_jeoLVgm55m6xe2Q0nRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMz/ODU5LTE0OTA0NjQ0/NjEtMTMyOC5qcGVn.jpeg) | 2017 | SDP | So schön kaputt |
 | 85 | ![Cover](https://i.discogs.com/OMPw6Gne5cNRDOFkbaqP1QWr9b8ojLI_wADlfx7W1aE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI2/NDE1LTE1MDg1ODU0/NDAtMjk3Ni5qcGVn.jpeg) | 2017-10-20 | Zugezogen Maskulin | Alle Gegen Alle |
-| 90 | ![Cover](https://i.discogs.com/6FwSToXrCMJTary5fNTPdPVHl255ilP9X6ZyGDTu0Rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc1/MjE1LTE1NTY4MDMw/MTMtOTg1NS5qcGVn.jpeg) | 2019-05-02 | Von wegen Lisbeth | sweetlilly93@hotmail.com |
+| 89 | ![Cover](https://i.discogs.com/6FwSToXrCMJTary5fNTPdPVHl255ilP9X6ZyGDTu0Rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc1/MjE1LTE1NTY4MDMw/MTMtOTg1NS5qcGVn.jpeg) | 2019-05-02 | Von wegen Lisbeth | sweetlilly93@hotmail.com |
 | 80 | ![Cover](https://i.discogs.com/LQiU_oYH_b0c2CIij2WL5TU2Qt3uvyaDAY8s3k7i2kM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTg1/OTI4LTE2MzY5NjQ2/ODAtNTc4My5qcGVn.jpeg) | 2021 | $OHO BANI | $oho Bani Vol.1 |
 | 98 | ![Cover](https://i.discogs.com/ygXP2rJ1S0C_dsjR_aWMDJNQgRNj-PeQ2MBe2dlvtlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Mjc5/NC0xMjA2NDgzNTQ2/LmpwZWc.jpeg) | 2022-01-27 | SDP | Ich will nur dass du weißt |
 | 62 | ![Cover](https://i.discogs.com/JIfAWQXe-PEIx9GYH_RH2AnGIaEQa7tBPSdz3VmgZ9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTgz/OTY4LTE2ODAxMDQy/NDktNzU3Mi5qcGVn.jpeg) | 2022-11-11 | Bulgarian Cartrader | Motor Songs |

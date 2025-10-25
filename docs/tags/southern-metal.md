@@ -1,68 +1,68 @@
 ---
 category: genre
-date: 2025-10-23T06:21:50.832Z
+date: 2025-10-25T09:06:15.185Z
 permalink: tags/southern-metal
 title: southern metal
 ---
 
 ## southern metal
 
-Last updated: <time datetime="2025-10-23T06:21:50.832Z">Thu Oct 23 2025 09:21:50 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-25T09:06:15.185Z">Sat Oct 25 2025 12:06:15 GMT+0300 (Eastern European Summer Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
 | 1 |  |  | Black Munkee | King K |
-| 2 |  |  | Ganesha (Rock) | Capicorla EP |
-| 3 |  |  | Rescue The Beards! | Ship And Whores |
-| 4 |  |  | Truman Highway | Demo |
-| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e5bdafebda5d43c199305f9e2c8fbfe8.png) | 2013-10-17 | What Great Fangs | Ep |
-| 5 | ![Cover](https://i.discogs.com/ClmwV_c9wCHJU09QTGXgh33L-f6AE0rugUaaRO_bBVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Nzkw/MjktMTQ4MzA3NDg5/Mi03NzAzLmpwZWc.jpeg) | 2015-05-21 | Proll Guns | Fucking Troublemaker (Video Edit) |
-| 6 |  |  | Witches Tit | ANGER THE GODS |
-| 10 |  |  | Baroness and Unpersons split record | A Grey Sigh in a Flower Husk |
-| 11 |  |  | 7 Dot Dice | EP 7 Dot Dice (2012) |
-| 12 |  |  | Medooza (Roadmetal) | No.1 |
-| 13 |  |  | Southammer | EP |
-| 14 |  |  | Simple As Suicide | The Waltz |
-| 15 |  |  | Meet At Sundown | 2012 Demo |
-| 16 |  |  | Karin Comes Killing | Are You Scared Yet |
-| 17 |  |  | BURNT BLACK REBELLION | Beneath Society |
-| 45 |  | 1993-02-23 | Sacred Reich | Independent |
+| 2 |  |  | Rescue The Beards! | Ship And Whores |
+| 3 |  |  | Truman Highway | Demo |
+| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e5bdafebda5d43c199305f9e2c8fbfe8.png) | 2013-10-17 | What Great Fangs | Ep |
+| 4 | ![Cover](https://i.discogs.com/ClmwV_c9wCHJU09QTGXgh33L-f6AE0rugUaaRO_bBVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Nzkw/MjktMTQ4MzA3NDg5/Mi03NzAzLmpwZWc.jpeg) | 2015-05-21 | Proll Guns | Fucking Troublemaker (Video Edit) |
+| 5 |  |  | Witches Tit | ANGER THE GODS |
+| 9 |  |  | Baroness and Unpersons split record | A Grey Sigh in a Flower Husk |
+| 10 |  |  | 7 Dot Dice | EP 7 Dot Dice (2012) |
+| 11 |  |  | Medooza (Roadmetal) | No.1 |
+| 12 |  |  | Southammer | EP |
+| 13 |  |  | Simple As Suicide | The Waltz |
+| 14 |  |  | Meet At Sundown | 2012 Demo |
+| 15 |  |  | Karin Comes Killing | Are You Scared Yet |
+| 16 |  |  | BURNT BLACK REBELLION | Beneath Society |
+| 44 |  | 1993-02-23 | Sacred Reich | Independent |
 | 47 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5764b0c669fe4c6eb7597e515fe5144a.png) | 1994 | Berserkr | The Voice of Our Ancestors |
-| 33 | ![Cover](https://i.discogs.com/R2a4rJ6qQmiQkGzYzEDLdTtyMA-vCo9SGegKWtDxhWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDkz/MjItMTI2NjY4ODE5/Mi5qcGVn.jpeg) | 1999 | Furious Trauma | Roll the Dice |
-| 36 | ![Cover](https://i.discogs.com/EetSBECrPqrDUeOHPInsRRWYUDxyPxKOUGPUFxcfylg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MzY1/MC0xNjA1ODU3NTky/LTU2NDUuanBlZw.jpeg) | 2004 | Parabellum | Stainless |
-| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1f37a6e2b0df48ea9b86788371929caf.png) | 2006-05-02 | Rebel Meets Rebel | Rebel Meets Rebel |
-| 18 | ![Cover](https://i.discogs.com/aAtWHgs4S_0Qr0Zm7d924s9hsJgQ4LLbfqLtQ7tWVas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTIw/MDYtMTQxODA4ODMy/My01MTI5LmpwZWc.jpeg) | 2009-12-17 | Bleeding Kansas | Cathedrals &amp; Bleeding Kansas split |
-| 19 |  |  | Hundred Proof | BaPTIZED IN WHISKEY |
-| 20 |  |  | Retalitory | Homebrew |
-| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b7cab7268ebb6f027d9ab24dd5aa3355.png) |  | Planleft | Honor The Struggle |
-| 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a731b74470fa46a2b6f437845f66a61f.png) | 2005-03-08 | Black Label Society | Mafia |
+| 32 | ![Cover](https://i.discogs.com/R2a4rJ6qQmiQkGzYzEDLdTtyMA-vCo9SGegKWtDxhWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDkz/MjItMTI2NjY4ODE5/Mi5qcGVn.jpeg) | 1999 | Furious Trauma | Roll the Dice |
 | 49 | ![Cover](https://i.discogs.com/PNQ3bLac4kCy_iMTqw1anLzCkeGQocI8fEMt-J7uJ18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTkz/MjAzLTE0OTMxNjMz/NjAtOTkxOC5qcGVn.jpeg) | 2006 | If He Dies He Dies | Conquistador |
-| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b748b465e37743dfbdbe30d6c1930ddb.png) | 2006-09-19 | Black Label Society | Shot To Hell |
-| 39 | ![Cover](https://i.discogs.com/Ki4fSvDqEnZrIrprVHceBDuEb-HoLaUalsIw5MvYF_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjU5/NjUtMTQ1NjM3ODU3/NS0yNzE5LmpwZWc.jpeg) | 2007 | Disarray | Edge of My Demise |
+| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1f37a6e2b0df48ea9b86788371929caf.png) | 2006-05-02 | Rebel Meets Rebel | Rebel Meets Rebel |
+| 17 | ![Cover](https://i.discogs.com/aAtWHgs4S_0Qr0Zm7d924s9hsJgQ4LLbfqLtQ7tWVas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTIw/MDYtMTQxODA4ODMy/My01MTI5LmpwZWc.jpeg) | 2009-12-17 | Bleeding Kansas | Cathedrals &amp; Bleeding Kansas split |
+| 18 |  |  | Hundred Proof | BaPTIZED IN WHISKEY |
+| 19 |  |  | Retalitory | Homebrew |
+| 23 |  |  | Ordovicium Freedoom Pröjekt | Say Goodbye to Classical Reality |
+| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b7cab7268ebb6f027d9ab24dd5aa3355.png) |  | Planleft | Honor The Struggle |
+| 35 | ![Cover](https://i.discogs.com/EetSBECrPqrDUeOHPInsRRWYUDxyPxKOUGPUFxcfylg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MzY1/MC0xNjA1ODU3NTky/LTU2NDUuanBlZw.jpeg) | 2004 | Parabellum | Stainless |
+| 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a731b74470fa46a2b6f437845f66a61f.png) | 2005-03-08 | Black Label Society | Mafia |
+| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e8430b08073e4704a0b6ce7276753387.png) | 2006-04-11 | Bullets and Octane | In The Mouth Of The Young |
+| 41 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b748b465e37743dfbdbe30d6c1930ddb.png) | 2006-09-19 | Black Label Society | Shot To Hell |
+| 38 | ![Cover](https://i.discogs.com/Ki4fSvDqEnZrIrprVHceBDuEb-HoLaUalsIw5MvYF_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjU5/NjUtMTQ1NjM3ODU3/NS0yNzE5LmpwZWc.jpeg) | 2007 | Disarray | Edge of My Demise |
 | 46 | ![Cover](https://i.discogs.com/zr_Uyrch5tJEKH4OcLDI-vfV05IjPPfXBHPBFW_RBiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDEx/NzctMTQxOTI4NjUx/Ny0yMzkwLmpwZWc.jpeg) | 2008 | If He Dies He Dies | The Rise....The Fall |
-| 28 | ![Cover](https://i.discogs.com/IEaAU8W7AT8tGvPd6S04ykbIcUk5Z3sMmTV4GziroIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM2/NjQyLTE0OTM5MDE1/NTgtNTI3OC5qcGVn.jpeg) | 2010 | Dirt Communion | Antique Mechanic LP |
-| 40 |  | 2010-03-30 | Good Job Underground | Kickin&#39; It With The Sharks |
-| 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cd645e0983444944b039ddb3d55e0733.png) | 2010-06-25 | Hellyeah | Stampede |
-| 38 | ![Cover](https://i.discogs.com/A9bJNyq7lMO7lcDQ__nulMkMsrw-944g5OnU3UVfJbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Njk0/NTgtMTM0NzUyMzc0/MC04NjQ1LmpwZWc.jpeg) | 2010-10-10 | Rock&#39;n&#39;Raw Bottled Band | 0,5L |
-| 44 |  | 2011 | Minerva | Dead for a Lifetime |
-| 43 |  | 2011-11-13 | Meet At Sundown | Now We Have A Problem |
-| 25 | ![Cover](https://i.discogs.com/8o53xNFDJ7sZc7yQ3uw13uR2pKOir7eGqpzeT1y8SH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDU1/MDMtMTQ4NDEzNDUy/NS02ODQ4LmpwZWc.jpeg) | 2012 | REDWEST | Play Your Hand |
-| 41 | ![Cover](https://i.discogs.com/KvC-egM4H7wVN982tDlIwViM2lSFTbxwUSO2BRs5HzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkw/MDkyLTE1NTUxODA4/ODgtODUyOC5qcGVn.jpeg) | 2012 | Dirt | Rock&#39;n&#39;roll Accident |
+| 27 | ![Cover](https://i.discogs.com/IEaAU8W7AT8tGvPd6S04ykbIcUk5Z3sMmTV4GziroIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM2/NjQyLTE0OTM5MDE1/NTgtNTI3OC5qcGVn.jpeg) | 2010 | Dirt Communion | Antique Mechanic LP |
+| 39 |  | 2010-03-30 | Good Job Underground | Kickin&#39; It With The Sharks |
+| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cd645e0983444944b039ddb3d55e0733.png) | 2010-06-25 | Hellyeah | Stampede |
+| 37 | ![Cover](https://i.discogs.com/A9bJNyq7lMO7lcDQ__nulMkMsrw-944g5OnU3UVfJbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Njk0/NTgtMTM0NzUyMzc0/MC04NjQ1LmpwZWc.jpeg) | 2010-10-10 | Rock&#39;n&#39;Raw Bottled Band | 0,5L |
+| 43 |  | 2011 | Minerva | Dead for a Lifetime |
+| 42 |  | 2011-11-13 | Meet At Sundown | Now We Have A Problem |
+| 24 | ![Cover](https://i.discogs.com/8o53xNFDJ7sZc7yQ3uw13uR2pKOir7eGqpzeT1y8SH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDU1/MDMtMTQ4NDEzNDUy/NS02ODQ4LmpwZWc.jpeg) | 2012 | REDWEST | Play Your Hand |
+| 40 | ![Cover](https://i.discogs.com/KvC-egM4H7wVN982tDlIwViM2lSFTbxwUSO2BRs5HzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkw/MDkyLTE1NTUxODA4/ODgtODUyOC5qcGVn.jpeg) | 2012 | Dirt | Rock&#39;n&#39;roll Accident |
 | 48 |  | 2012-02-21 | Stonedirt | Inherited Fever |
-| 32 | ![Cover](https://i.discogs.com/pBJvNaFOASwxzZk1Aa8RCDbexJrpZBdp4voDoDgQfpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjQz/MzQtMTM3OTU4NDY4/MS03NDU3LmpwZWc.jpeg) | 2013-05-17 | Disane | We Owe You Nothing |
-| 35 |  | 2013-11-18 | Snakebite Sermon | Revival |
-| 7 | ![Cover](https://i.discogs.com/DK2PxmwZG142AOjcWIV9KFm_NgqLeFWJFZIA_7by4RQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTMy/MDYtMTQxMTM5NTIz/My0yODU0LmpwZWc.jpeg) | 2014 | Plugger | Plugger-Death&#x2F;Flamingo EP unreleased 2005 |
-| 8 | ![Cover](https://i.discogs.com/UfCDFmj2GCaaR-oCBFqpEh0EmcUkQ-BJiDgM0ALq7-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzQy/MjktMTQ2MjM5MTU1/NC03ODcxLmpwZWc.jpeg) | 2014 | Methane | Live Bastards |
-| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0cc6934d4c5445dcc5daba65ecfc1a11.png) | 2014 | Methane | Southern Metal |
-| 34 | ![Cover](https://i.discogs.com/8phO6r7D54vZuefOLH4pVLGUFePpMZTaZ3gYpNN-Uj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTUx/OTM5LTE1Mzc0Njcw/MDctMzQ4Mi5qcGVn.jpeg) | 2015 | Offensive Ground | REBORN |
-| 37 | ![Cover](https://i.discogs.com/ysVNUHS_Q58PdYuIEVQhWLEPa1ilVsT5SeUzX28Tnd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTY1/MjItMTQ1MzU1NDg1/MS02NTE0LmpwZWc.jpeg) | 2015 | Corroded Realms | Widow |
-| 26 | ![Cover](https://i.discogs.com/ZKEAsSWXIZMGcFg4CCfk5zXe2LnPT-hTxlsh_9_6hk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDIx/NDY5LTE1MjY3MjE5/MTQtMTcwNS5qcGVn.jpeg) | 2018-05-04 | Mor | Смута |
-| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/21ce4d2d0cc8b68722c30be12df8abe4.png) | 2019-04-19 | Burden | Promo EP |
-| 22 | ![Cover](https://i.discogs.com/yYfwDNrut-RfMHaWtX4sxsaRPMvwgsmuXQprCRCKkTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODE1/NTY3LTE3MDgwNjAy/NDEtNjk3Ni5qcGVn.jpeg) | 2022-03-28 | Disrupt the Paradigm | Conversion |
-| 23 |  |  | one left behind | One Left Behind demo cut |
-| 24 |  |  | Ordovicium Freedoom Pröjekt | Say Goodbye to Classical Reality |
+| 31 | ![Cover](https://i.discogs.com/pBJvNaFOASwxzZk1Aa8RCDbexJrpZBdp4voDoDgQfpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjQz/MzQtMTM3OTU4NDY4/MS03NDU3LmpwZWc.jpeg) | 2013-05-17 | Disane | We Owe You Nothing |
+| 34 |  | 2013-11-18 | Snakebite Sermon | Revival |
+| 6 | ![Cover](https://i.discogs.com/DK2PxmwZG142AOjcWIV9KFm_NgqLeFWJFZIA_7by4RQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTMy/MDYtMTQxMTM5NTIz/My0yODU0LmpwZWc.jpeg) | 2014 | Plugger | Plugger-Death&#x2F;Flamingo EP unreleased 2005 |
+| 7 | ![Cover](https://i.discogs.com/UfCDFmj2GCaaR-oCBFqpEh0EmcUkQ-BJiDgM0ALq7-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzQy/MjktMTQ2MjM5MTU1/NC03ODcxLmpwZWc.jpeg) | 2014 | Methane | Live Bastards |
+| 28 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0cc6934d4c5445dcc5daba65ecfc1a11.png) | 2014 | Methane | Southern Metal |
+| 33 | ![Cover](https://i.discogs.com/8phO6r7D54vZuefOLH4pVLGUFePpMZTaZ3gYpNN-Uj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTUx/OTM5LTE1Mzc0Njcw/MDctMzQ4Mi5qcGVn.jpeg) | 2015 | Offensive Ground | REBORN |
+| 36 | ![Cover](https://i.discogs.com/ysVNUHS_Q58PdYuIEVQhWLEPa1ilVsT5SeUzX28Tnd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTY1/MjItMTQ1MzU1NDg1/MS02NTE0LmpwZWc.jpeg) | 2015 | Corroded Realms | Widow |
+| 25 | ![Cover](https://i.discogs.com/ZKEAsSWXIZMGcFg4CCfk5zXe2LnPT-hTxlsh_9_6hk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDIx/NDY5LTE1MjY3MjE5/MTQtMTcwNS5qcGVn.jpeg) | 2018-05-04 | Mor | Смута |
+| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/21ce4d2d0cc8b68722c30be12df8abe4.png) | 2019-04-19 | Burden | Promo EP |
+| 21 | ![Cover](https://i.discogs.com/yYfwDNrut-RfMHaWtX4sxsaRPMvwgsmuXQprCRCKkTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODE1/NTY3LTE3MDgwNjAy/NDEtNjk3Ni5qcGVn.jpeg) | 2022-03-28 | Disrupt the Paradigm | Conversion |
+| 22 |  |  | one left behind | One Left Behind demo cut |
 | 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a068b1f64d6ca0b76661bfd8c23528e2.png) | 1995-09-15 | Down | NOLA |
 | 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/630a820b588aa7c84af26c8e53e987f9.png) | 1996-05-03 | Pantera | The Great Southern Trendkill |
 | 77 | ![Cover](https://i.discogs.com/PxiXpZ4TQb_QgSlUqhxC7gBJkf6wMsLLrbi2hAxlwko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjI2/MjQtMTI1NTI4MDQ3/NC5qcGVn.jpeg) | 1998 | Sixty Watt Shaman | Ultra Electric |

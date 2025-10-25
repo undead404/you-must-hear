@@ -1,20 +1,20 @@
 ---
 category: genre
-date: 2025-10-23T08:43:13.792Z
+date: 2025-10-25T09:25:36.890Z
 permalink: tags/parody
 title: parody
 ---
 
 ## parody
 
-Last updated: <time datetime="2025-10-23T08:43:13.792Z">Thu Oct 23 2025 11:43:13 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-25T09:25:36.890Z">Sat Oct 25 2025 12:25:36 GMT+0300 (Eastern European Summer Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
 | 38 | ![Cover](https://i.discogs.com/QyOjIjUv-YZnl9Yw5RXgVbXqpW0Dus48McInspGK64U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Mzg3/OS0xNTQ0OTc5MjA1/LTc3MzAuanBlZw.jpeg) | 1963 | Allan Sherman | My Son, The Celebrity |
-| 14 | ![Cover](https://i.discogs.com/VpEsEQMPQsOOWZNIgwSOW_lYz0lJPwnkN9DQC9DOKts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzYx/NjAtMTMxNzQ1MzU4/MS5qcGVn.jpeg) | 1980 | The Mundanes | Unhappiness!!! |
+| 15 | ![Cover](https://i.discogs.com/VpEsEQMPQsOOWZNIgwSOW_lYz0lJPwnkN9DQC9DOKts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzYx/NjAtMTMxNzQ1MzU4/MS5qcGVn.jpeg) | 1980 | The Mundanes | Unhappiness!!! |
 | 42 | ![Cover](https://i.discogs.com/qIK3YqsJqHeGTIzptS69ZYbpIuEQynKPxPzWD18ZvbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzE1/NzktMTQyNTYyMDU4/Ny02MTc2LmpwZWc.jpeg) | 1985 | &quot;Weird Al&quot; Yankovic | UHF and Other Stuff |
 | 1 | ![Cover](https://i.discogs.com/G2VHksvIjV_EffWnKU8FrrITkpGciilKAShd1vwWe2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTI3/NjQxLTE1Mjg4NDAz/NjMtNDk0Ny5qcGVn.jpeg) | 1985-07-01 | &quot;Weird Al&quot; Yankovic | White &amp; Nerdy - Single |
 | 2 | ![Cover](https://i.discogs.com/sadrATO8UZxVc8o0Qp4TrzyzIljC4aFNtjnPmf_29VU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQ4/NzMtMTI3OTM0Njk2/NC5qcGVn.jpeg) | 1999-12-01 | &quot;Weird Al&quot; Yankovic | The Saga Begins |
@@ -33,27 +33,28 @@ Last updated: <time datetime="2025-10-23T08:43:13.792Z">Thu Oct 23 2025 11:43:13
 | 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/02c15c8714508c72c1dc278410d1466e.png) | 1999-06-29 | &quot;Weird Al&quot; Yankovic | Running With Scissors |
 | 39 |  | 2000-01-01 | Boyzvoice | Get Ready To Be Boyzvoiced |
 | 41 |  | 2000-10-17 | Richard Cheese | Lounge Against The Machine |
-| 11 | ![Cover](https://i.discogs.com/sWuGTArt6Al9BlLoDXJyqbRPH2DGa0xM0bayYfY7sz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDAw/OTExLTE1MzQ1Mjc1/NjctMTIwNS5qcGVn.jpeg) | 2001 | German Cars Vs American Homes | Music for Young Adults [demo] |
+| 12 | ![Cover](https://i.discogs.com/sWuGTArt6Al9BlLoDXJyqbRPH2DGa0xM0bayYfY7sz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDAw/OTExLTE1MzQ1Mjc1/NjctMTIwNS5qcGVn.jpeg) | 2001 | German Cars Vs American Homes | Music for Young Adults [demo] |
 | 37 | ![Cover](https://i.discogs.com/ttSygjSr43Ax0CLENsBPpYJGWspMIJFGyNEA_bCt37Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIy/OTU2LTE1NzQyMzA5/OTgtNjU2MS5qcGVn.jpeg) | 2001 | Pope John Paul III | pope john paul the third |
 | 22 | ![Cover](https://i.discogs.com/lZur1GbbT42ZSqIRLju7Mo2sNGzrH3iikmrXhubnkE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTU2/ODMtMTI0NTIxODcy/OC5qcGVn.jpeg) | 2005 | Коммунизм | Сулейман Стальский |
 | 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ce955d4bfd914139ac5a482531c0808d.png) | 2005-06 | Nanowar | Other Bands Play, Nanowar Gay! |
 | 20 | ![Cover](https://i.discogs.com/hfz5wJJ5kb7umWXFyyk0-3fR79dpAgOoSbzNeZZzDns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY1/OTM0LTE1MjM3Mzky/MDgtOTk4OS5qcGVn.jpeg) | 2006 | The Notorious MSG | Lunch Money EP |
 | 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/55ebc765574c4d8eea1c4d3b2be496ea.png) | 2006-09-26 | &quot;Weird Al&quot; Yankovic | Straight Outta Lynwood |
+| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9e0c907ae2e3a8a2b6aaf208eede60d1.png) | 2007 | Gnarkill | Gnarkill vs. Unkle Matt &amp; the Shitbirdz |
 | 21 | ![Cover](https://i.discogs.com/LI6RbvPRynL25pOF323ZycDxNcr9yngi4zb-9accMuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDc2/MDctMTQwMzIxNTY3/NC0zNzIxLmpwZWc.jpeg) | 2007 | Diam&#39;s | Ma France À Moi |
-| 29 | ![Cover](https://i.discogs.com/-pBM7gEecbRVwLMw10s1mUdZ9zZw8Xn-j0GUGRDmrm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDA3/MjYtMTU5Nzg3MzI3/MC0zNDMzLmpwZWc.jpeg) | 2008-09 | Amateur Transplants | Unfit To Practice |
-| 25 | ![Cover](https://i.discogs.com/1JsCpWNmeQ-9ZebOqLsZJpkcpFhpc2JLIkECF2DSMsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDEw/MTUtMTQ2Njg5ODM2/NC0yMTE1LmpwZWc.jpeg) | 2013 | Richard Cheese | I&#39;d Like A Virgin (Censored Version) |
-| 17 | ![Cover](https://i.discogs.com/Cnyns0HQmNmZKRey4Y6fwG-l-DgGGOCzVPPRMawxl6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA4/NDU1LTE1MjI3Mzk3/OTYtNjcwMy5qcGVn.jpeg) | 2013-11-19 | Taylor Swift, Gary Lightbody | Red (Taylor&#39;s Version) |
-| 6 | ![Cover](https://i.discogs.com/2qmKllIBX7NhyfiM7f9MtEmrQh7QMvFsy7bBM-P120w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njky/MzgtMTQ1MjYzMzI5/Ny0zNDU4LnBuZw.jpeg) | 2015-05-26 | Jarrod Alonge | Beating A Dead Horse |
-| 7 |  |  | B.B. Bling | Like a G6 Parody of Far East Movement - &quot;I Like Jesus&quot; - Single |
 | 24 | ![Cover](https://i.discogs.com/7xZOvFlDN54W64Ph0TSsVVgx5-PLknzRtrK2OFIub0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDI3/MjgtMTIzODM5OTA5/Mi5qcGVn.jpeg) | 2008 | Suicide DJs | Animation (...) |
-| 16 | ![Cover](https://i.discogs.com/3YR975mmwelWgQBDYq0abRKvDt0W8i00IlmmxJhcx2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTU5/MTUtMTM1NTc2MzYz/NC0xMjgyLmpwZWc.jpeg) | 2012-05-25 | Excrementory Grindfuckers | Aus Liebe Zum Geld (Ihre Schönsten Misserfolge) |
+| 29 | ![Cover](https://i.discogs.com/-pBM7gEecbRVwLMw10s1mUdZ9zZw8Xn-j0GUGRDmrm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDA3/MjYtMTU5Nzg3MzI3/MC0zNDMzLmpwZWc.jpeg) | 2008-09 | Amateur Transplants | Unfit To Practice |
 | 48 | ![Cover](https://i.discogs.com/eNyv13QOBY_k5GR1OXVx3SyvE8onbxvUwQ-7bKw06h4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjAz/NzAtMTQ5NTAxNDQ3/My01NTQ3LmpwZWc.jpeg) | 2012-11-05 | Chris Moyles | The Difficult Second Album |
-| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c30eba8b955136fd73d02923909ddbeb.png) | 2013 | Richard Cheese | Tuxicity |
+| 25 | ![Cover](https://i.discogs.com/1JsCpWNmeQ-9ZebOqLsZJpkcpFhpc2JLIkECF2DSMsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDEw/MTUtMTQ2Njg5ODM2/NC0yMTE1LmpwZWc.jpeg) | 2013 | Richard Cheese | I&#39;d Like A Virgin (Censored Version) |
 | 35 |  | 2013-05-31 | Excrementory Grindfuckers | Ohne kostet Extra |
 | 30 | ![Cover](https://i.discogs.com/ZOeCeDcPhl_WBItlxoR_2SGQHzKtvYV6JgIAXi7KK_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA4/MjU3LTE1MjI3MzU5/MjQtOTkwMC5qcGVn.jpeg) | 2013-06-07 | Taylor Swift, Ed Sheeran | Red (Taylor&#39;s Version) |
-| 13 | ![Cover](https://i.discogs.com/T97ZuWGvdYUOklVT_MJaIP4_XQ0Z0oTDTKtr7YQVxyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODc0/NjMtMTQxMDcyODA2/MC0zNTgxLmpwZWc.jpeg) | 2013-12-10 | Bart Baker | Greatest Hits 2014 |
-| 9 | ![Cover](https://i.discogs.com/5MEjomXZDIO0UhwboJw_Es3ivO42ktk4cTdI_4JSdz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU5/OTQ3LTE1MDg1ODA0/MDgtODcwMy5qcGVn.jpeg) | 2017-07-28 | Canadian Softball | Ohio Is for Emo Kids |
-| 10 |  |  | the Traveling Misanthrope Circus of Lunacy | this is bad for the children. (better dead than red) |
+| 17 | ![Cover](https://i.discogs.com/Cnyns0HQmNmZKRey4Y6fwG-l-DgGGOCzVPPRMawxl6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA4/NDU1LTE1MjI3Mzk3/OTYtNjcwMy5qcGVn.jpeg) | 2013-11-19 | Taylor Swift, Gary Lightbody | Red (Taylor&#39;s Version) |
+| 14 | ![Cover](https://i.discogs.com/T97ZuWGvdYUOklVT_MJaIP4_XQ0Z0oTDTKtr7YQVxyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODc0/NjMtMTQxMDcyODA2/MC0zNTgxLmpwZWc.jpeg) | 2013-12-10 | Bart Baker | Greatest Hits 2014 |
+| 6 | ![Cover](https://i.discogs.com/2qmKllIBX7NhyfiM7f9MtEmrQh7QMvFsy7bBM-P120w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njky/MzgtMTQ1MjYzMzI5/Ny0zNDU4LnBuZw.jpeg) | 2015-05-26 | Jarrod Alonge | Beating A Dead Horse |
+| 7 |  |  | B.B. Bling | Like a G6 Parody of Far East Movement - &quot;I Like Jesus&quot; - Single |
+| 27 | ![Cover](https://i.discogs.com/Bapwcw6r6kV7SfLwFY7JUZr_1v8KMSnFCOqG-wUypJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjI4/OTUtMTQ2NjIyNTY2/My0yNTAwLmpwZWc.jpeg) | 2016-04-01 | Sunrise Skater Kids | Liberté, Egalité, Friendvillé (Easycore Remix) |
+| 23 | ![Cover](https://i.discogs.com/ELBBipX21JSudlyzvn8KZG4FGaf2TI4DHh6CL_jtSLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI1/OTY0LTE1NDg1MTYy/MTEtNDE2Mi5qcGVn.jpeg) | 2016-12-19 | Key Of Awesome | The Key of Awesome |
+| 10 | ![Cover](https://i.discogs.com/5MEjomXZDIO0UhwboJw_Es3ivO42ktk4cTdI_4JSdz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU5/OTQ3LTE1MDg1ODA0/MDgtODcwMy5qcGVn.jpeg) | 2017-07-28 | Canadian Softball | Ohio Is for Emo Kids |
+| 11 |  |  | the Traveling Misanthrope Circus of Lunacy | this is bad for the children. (better dead than red) |
 | 52 |  | 1965 | Lee Hazlewood | Friday&#39;s Child |
 | 53 |  | 1967-10 | The Bonzo Dog Band | Gorilla |
 | 54 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 1980-08 | Various Artists | Co-Op (Original Cast Album) |
@@ -80,21 +81,20 @@ Last updated: <time datetime="2025-10-23T08:43:13.792Z">Thu Oct 23 2025 11:43:13
 | 68 |  | 2006-04-03 | Ladyfuzz | Kerfuffle |
 | 87 |  | 2006-09-26 | Richard Cheese | Silent Nightclub |
 | 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ceaaf72121614a8f8425992934edaac8.png) | 2007 | Beatallica | Sgt. Hetfield&#39;s Motorbreath Pub Band |
-| 12 | ![Cover](https://i.discogs.com/vYZN2aMGrbA_zL8Ks9WOEbg8J7bszJ6z4NZpmzU5Myc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODIw/MzItMTQzMDkzNzIx/Mi03MTMzLmpwZWc.jpeg) | 2007-07-25 | My Mouth is Full of Dropkicking Astronauts | Look At Me, I&#39;m A Breakdancing Dinosaur |
+| 13 | ![Cover](https://i.discogs.com/vYZN2aMGrbA_zL8Ks9WOEbg8J7bszJ6z4NZpmzU5Myc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODIw/MzItMTQzMDkzNzIx/Mi03MTMzLmpwZWc.jpeg) | 2007-07-25 | My Mouth is Full of Dropkicking Astronauts | Look At Me, I&#39;m A Breakdancing Dinosaur |
 | 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/797acae43c71aa0e91341eaa35de2edf.png) | 2007-09-05 | Psychostick | The Flesh Eating Rollerskate Holiday Joyride |
 | 75 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/abf26dc7ce7aa299bee51d59b9ba0c09.png) | 2009 | Various Artists | Chef Aid: The South Park Album (Extreme Version) |
 | 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e3b6d888298a400eb87a3be33414f300.png) | 2009-08-04 | Beatallica | Masterful Mystery Tour |
 | 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cb75cb8553384fbc9707af1fc029782e.png) | 2011-08-16 | Psychostick | Space Vampires Vs. Zombie Dinosaurs in 3D |
+| 16 | ![Cover](https://i.discogs.com/3YR975mmwelWgQBDYq0abRKvDt0W8i00IlmmxJhcx2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTU5/MTUtMTM1NTc2MzYz/NC0xMjgyLmpwZWc.jpeg) | 2012-05-25 | Excrementory Grindfuckers | Aus Liebe Zum Geld (Ihre Schönsten Misserfolge) |
 | 59 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f7b6e215bef4465d9d577ac07cfc6063.png) | 2012-06-07 | brentalfloss | Bits Of Me |
 | 70 | ![Cover](https://i.discogs.com/8ce81LM8zp3vwUYVZSTAlbDH1Y5bplV6Vi5SFGk3vdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODkx/MTEtMTUyNTI2OTk0/OS05ODc0LmpwZWc.jpeg) | 2013 | Y-Titty | Stricksocken Swagger (Deluxe Version 2014) |
 | 80 | ![Cover](https://i.discogs.com/w73rml1rTzqZLKwAZQQXsmcLRyNeFTjlGlwatNe-GP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzU4/MjQtMTY1MDc0NjIy/NC03MTc5LmpwZWc.jpeg) | 2013 | The Men | Devil Music |
 | 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2e1970c297204f77cf01498c1d73fb36.png) | 2014-02-25 | brentalfloss | Flossophy |
 | 99 |  | 2014-12-01 | Marissa Nadler | Before July: Demos &amp; Unreleased Songs |
 | 62 | ![Cover](https://i.discogs.com/z0Y0_XFOLGOtkbuvyEF_AG0CGr3n8SRRR-Tub7IuxVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njg5/NDItMTQ1MjYyOTE3/My01Njc2LmpwZWc.jpeg) | 2015-12-04 | Jarrod Alonge | Beating a Dead Horse: Deluxe Ultra-Limited Exclusive Undead Edition |
-| 27 | ![Cover](https://i.discogs.com/Bapwcw6r6kV7SfLwFY7JUZr_1v8KMSnFCOqG-wUypJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjI4/OTUtMTQ2NjIyNTY2/My0yNTAwLmpwZWc.jpeg) | 2016-04-01 | Sunrise Skater Kids | Liberté, Egalité, Friendvillé (Easycore Remix) |
 | 40 | ![Cover](https://i.discogs.com/Bapwcw6r6kV7SfLwFY7JUZr_1v8KMSnFCOqG-wUypJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjI4/OTUtMTQ2NjIyNTY2/My0yNTAwLmpwZWc.jpeg) | 2016-04-01 | Sunrise Skater Kids | Boybandin&#39; Up |
 | 94 | ![Cover](https://i.discogs.com/Bapwcw6r6kV7SfLwFY7JUZr_1v8KMSnFCOqG-wUypJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjI4/OTUtMTQ2NjIyNTY2/My0yNTAwLmpwZWc.jpeg) | 2016-04-01 | Sunrise Skater Kids | Still Posi |
-| 23 | ![Cover](https://i.discogs.com/ELBBipX21JSudlyzvn8KZG4FGaf2TI4DHh6CL_jtSLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI1/OTY0LTE1NDg1MTYy/MTEtNDE2Mi5qcGVn.jpeg) | 2016-12-19 | Key Of Awesome | The Key of Awesome |
 | 46 | ![Cover](https://i.discogs.com/8107o8lfKP-RmDKC45hKlGPRnd8kkI7FghoEJhAjg50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDU1/NDktMTQ4MzU0MzIw/Mi00NDAzLmpwZWc.jpeg) | 2017-01-04 | PINK GUY | Pink Season |
 | 58 | ![Cover](https://i.discogs.com/S63KMTRVsBqMwCOC5vNIi_zkZ-5WUO-RinpdW-rf_kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMw/ODQ2LTE1MDg1ODI1/NDctMjU1Mi5qcGVn.jpeg) | 2017-02-10 | Sunrise Skater Kids | How Far I&#39;ll Go |
 | 67 | ![Cover](https://i.discogs.com/S63KMTRVsBqMwCOC5vNIi_zkZ-5WUO-RinpdW-rf_kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMw/ODQ2LTE1MDg1ODI1/NDctMjU1Mi5qcGVn.jpeg) | 2017-02-10 | Sunrise Skater Kids | All the Old Things (feat. Christina Rotondo) |
