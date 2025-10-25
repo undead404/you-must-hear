@@ -37,20 +37,21 @@ module.exports = {
       autorestart: true, // Restart n8n if it crashes
       exec_mode: "fork", // n8n does not support cluster mode
       env: {
+        DB_SQLITE_POOL_SIZE: 20,
         DB_SQLITE_VACUUM_ON_STARTUP: true,
         EXECUTIONS_DATA_MAX_AGE: 24,
+        EXECUTIONS_DATA_PRUNE_HARD_DELETE_INTERVAL: 5,
         EXECUTIONS_DATA_PRUNE_MAX_COUNT: 10,
         EXECUTIONS_DATA_PRUNE: true,
-        EXECUTIONS_DATA_PRUNE_HARD_DELETE_INTERVAL: 5,
+        EXECUTIONS_DATA_SAVE_MANUAL_EXECUTIONS: false,
         EXECUTIONS_DATA_SAVE_ON_ERROR: "all",
         EXECUTIONS_DATA_SAVE_ON_SUCCESS: "none",
-        EXECUTIONS_DATA_SAVE_MANUAL_EXECUTIONS: false,
         N8N_BLOCK_ENV_ACCESS_IN_NODE: true,
+        N8N_CONCURRENCY_PRODUCTION_LIMIT: 1,
         N8N_GIT_NODE_DISABLE_BARE_REPOS: true,
         N8N_RUNNERS_ENABLED: true,
-        DB_SQLITE_POOL_SIZE: 20,
-        N8N_CONCURRENCY_PRODUCTION_LIMIT: 1,
         NODE_ENV: "production",
+        NODE_FUNCTION_ALLOW_EXTERNAL: 'mustache',
         // --- Add your n8n-specific environment variables below ---
         // N8N_HOST: 'localhost',
         // N8N_PORT: 5678,
