@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-10-26T16:44:57.301Z
+date: 2025-10-26T16:56:53.182Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-26T16:44:57.301Z">Sun Oct 26 2025 18:44:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-26T16:56:53.182Z">Sun Oct 26 2025 18:56:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [roots rock]({{ "tags/roots-rock" | relative_url }}) | <time datetime="2025-10-26T16:56:53.182Z">Sun Oct 26 2025 18:56:53 GMT+0200 (Eastern European Standard Time)</time> |
+| [italian opera]({{ "tags/italian-opera" | relative_url }}) | <time datetime="2025-10-26T16:56:19.127Z">Sun Oct 26 2025 18:56:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [acoustic]({{ "tags/acoustic" | relative_url }}) | <time datetime="2025-10-26T16:44:57.301Z">Sun Oct 26 2025 18:44:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [college rock]({{ "tags/college-rock" | relative_url }}) | <time datetime="2025-10-26T16:38:19.488Z">Sun Oct 26 2025 18:38:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [late romantic]({{ "tags/late-romantic" | relative_url }}) | <time datetime="2025-10-26T15:18:24.386Z">Sun Oct 26 2025 17:18:24 GMT+0200 (Eastern European Standard Time)</time> |
@@ -287,8 +289,6 @@ Last updated: <time datetime="2025-10-26T16:44:57.301Z">Sun Oct 26 2025 18:44:57
 | [baritone]({{ "tags/baritone" | relative_url }}) | <time datetime="2025-10-25T01:10:36.252Z">Sat Oct 25 2025 04:10:36 GMT+0300 (Eastern European Summer Time)</time> |
 | [pop metal]({{ "tags/pop-metal" | relative_url }}) | <time datetime="2025-10-25T01:09:39.024Z">Sat Oct 25 2025 04:09:39 GMT+0300 (Eastern European Summer Time)</time> |
 | [acid rock]({{ "tags/acid-rock" | relative_url }}) | <time datetime="2025-10-24T23:21:15.912Z">Sat Oct 25 2025 02:21:15 GMT+0300 (Eastern European Summer Time)</time> |
-| [roots rock]({{ "tags/roots-rock" | relative_url }}) | <time datetime="2025-10-24T23:21:00.535Z">Sat Oct 25 2025 02:21:00 GMT+0300 (Eastern European Summer Time)</time> |
-| [italian opera]({{ "tags/italian-opera" | relative_url }}) | <time datetime="2025-10-24T23:20:37.701Z">Sat Oct 25 2025 02:20:37 GMT+0300 (Eastern European Summer Time)</time> |
 | [comedy rock]({{ "tags/comedy-rock" | relative_url }}) | <time datetime="2025-10-24T23:20:06.914Z">Sat Oct 25 2025 02:20:06 GMT+0300 (Eastern European Summer Time)</time> |
 | [melodic hardcore]({{ "tags/melodic-hardcore" | relative_url }}) | <time datetime="2025-10-24T23:19:51.266Z">Sat Oct 25 2025 02:19:51 GMT+0300 (Eastern European Summer Time)</time> |
 | [rockabilly]({{ "tags/rockabilly" | relative_url }}) | <time datetime="2025-10-24T23:19:43.332Z">Sat Oct 25 2025 02:19:43 GMT+0300 (Eastern European Summer Time)</time> |
