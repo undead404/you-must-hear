@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-10-26T16:59:38.204Z
+date: 2025-10-26T17:05:56.380Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-26T16:59:38.204Z">Sun Oct 26 2025 18:59:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-26T17:05:56.380Z">Sun Oct 26 2025 19:05:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [post-punk]({{ "tags/post-punk" | relative_url }}) | <time datetime="2025-10-26T17:05:56.380Z">Sun Oct 26 2025 19:05:56 GMT+0200 (Eastern European Standard Time)</time> |
+| [new wave]({{ "tags/new-wave" | relative_url }}) | <time datetime="2025-10-26T17:05:40.991Z">Sun Oct 26 2025 19:05:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [baritone]({{ "tags/baritone" | relative_url }}) | <time datetime="2025-10-26T16:59:38.204Z">Sun Oct 26 2025 18:59:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [roots rock]({{ "tags/roots-rock" | relative_url }}) | <time datetime="2025-10-26T16:56:53.182Z">Sun Oct 26 2025 18:56:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [italian opera]({{ "tags/italian-opera" | relative_url }}) | <time datetime="2025-10-26T16:56:19.127Z">Sun Oct 26 2025 18:56:19 GMT+0200 (Eastern European Standard Time)</time> |
@@ -280,7 +282,6 @@ Last updated: <time datetime="2025-10-26T16:59:38.204Z">Sun Oct 26 2025 18:59:38
 | [art punk]({{ "tags/art-punk" | relative_url }}) | <time datetime="2025-10-25T01:57:17.076Z">Sat Oct 25 2025 04:57:17 GMT+0300 (Eastern European Summer Time)</time> |
 | [riot grrrl]({{ "tags/riot-grrrl" | relative_url }}) | <time datetime="2025-10-25T01:55:35.909Z">Sat Oct 25 2025 04:55:35 GMT+0300 (Eastern European Summer Time)</time> |
 | [depressive suicidal black metal]({{ "tags/depressive-suicidal-black-metal" | relative_url }}) | <time datetime="2025-10-25T01:55:14.023Z">Sat Oct 25 2025 04:55:14 GMT+0300 (Eastern European Summer Time)</time> |
-| [post-punk]({{ "tags/post-punk" | relative_url }}) | <time datetime="2025-10-25T01:17:45.339Z">Sat Oct 25 2025 04:17:45 GMT+0300 (Eastern European Summer Time)</time> |
 | [darkcore]({{ "tags/darkcore" | relative_url }}) | <time datetime="2025-10-25T01:16:55.665Z">Sat Oct 25 2025 04:16:55 GMT+0300 (Eastern European Summer Time)</time> |
 | [melodic power metal]({{ "tags/melodic-power-metal" | relative_url }}) | <time datetime="2025-10-25T01:15:56.280Z">Sat Oct 25 2025 04:15:56 GMT+0300 (Eastern European Summer Time)</time> |
 | [danish]({{ "tags/danish" | relative_url }}) | <time datetime="2025-10-25T01:15:06.812Z">Sat Oct 25 2025 04:15:06 GMT+0300 (Eastern European Summer Time)</time> |
@@ -599,7 +600,6 @@ Last updated: <time datetime="2025-10-26T16:59:38.204Z">Sun Oct 26 2025 18:59:38
 | [clavecin]({{ "tags/clavecin" | relative_url }}) | <time datetime="2025-10-22T16:41:44.682Z">Wed Oct 22 2025 19:41:44 GMT+0300 (Eastern European Summer Time)</time> |
 | [zydeco]({{ "tags/zydeco" | relative_url }}) | <time datetime="2025-10-22T16:41:21.546Z">Wed Oct 22 2025 19:41:21 GMT+0300 (Eastern European Summer Time)</time> |
 | [italian baroque]({{ "tags/italian-baroque" | relative_url }}) | <time datetime="2025-10-22T16:41:06.496Z">Wed Oct 22 2025 19:41:06 GMT+0300 (Eastern European Summer Time)</time> |
-| [new wave]({{ "tags/new-wave" | relative_url }}) | <time datetime="2025-10-22T16:40:26.815Z">Wed Oct 22 2025 19:40:26 GMT+0300 (Eastern European Summer Time)</time> |
 | [romanian trap]({{ "tags/romanian-trap" | relative_url }}) | <time datetime="2025-10-22T16:40:03.433Z">Wed Oct 22 2025 19:40:03 GMT+0300 (Eastern European Summer Time)</time> |
 | [kurdistan]({{ "tags/kurdistan" | relative_url }}) | <time datetime="2025-10-22T16:39:51.803Z">Wed Oct 22 2025 19:39:51 GMT+0300 (Eastern European Summer Time)</time> |
 | [east coast]({{ "tags/east-coast" | relative_url }}) | <time datetime="2025-10-22T16:17:32.982Z">Wed Oct 22 2025 19:17:32 GMT+0300 (Eastern European Summer Time)</time> |
