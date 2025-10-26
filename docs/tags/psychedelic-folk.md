@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T02:52:12.975Z
+date: 2025-10-25T14:42:58.664Z
 permalink: tags/psychedelic-folk
 title: psychedelic folk
 ---
 
 ## psychedelic folk
 
-Last updated: <time datetime="2025-10-20T02:52:12.975Z">Mon Oct 20 2025 05:52:12 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-25T14:42:58.664Z">Sat Oct 25 2025 17:42:58 GMT+0300 (Eastern European Summer Time)</time>
 
 ### 100 chronological releases
 
@@ -81,7 +81,6 @@ Last updated: <time datetime="2025-10-20T02:52:12.975Z">Mon Oct 20 2025 05:52:12
 | 69 |  | 2011-03-28 | Matt Berry | Witchazel |
 | 42 |  | 2012-08-17 | Hexvessel | No Holier Temple |
 | 40 |  | 2012-09-17 | Grizzly Bear | Shields |
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b352b4ab2d7f4ae3ac4e0d42c69f971c.png) | 2013-11-04 | Midlake | Antiphon |
 | 47 | ![Cover](https://i.discogs.com/jTy7dIWPObkqmdfNI9dq_vcplpgDP5FxnGAuCl6_b3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTEx/Mi0xNDU3NDk3MDU3/LTEyNTguanBlZw.jpeg) | 2014 | Roy Harper | Stormcock (Remastered) |
 | 78 |  | 2014-02-18 | Angel Olsen | Burn Your Fire for No Witness |
 | 72 | ![Cover](https://i.discogs.com/lEiNKnaGTKyxJZ1Nfd0mwKn7hSw8uLYtp1zTKngk_nA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDgx/MDMtMTQyNDczNDU1/MC04NTczLmpwZWc.jpeg) | 2014-07-14 | Stu Larsen | Vagabond |
@@ -90,6 +89,7 @@ Last updated: <time datetime="2025-10-20T02:52:12.975Z">Mon Oct 20 2025 05:52:12
 | 73 | ![Cover](https://i.discogs.com/AdBOJOvO5QW4QHhpBvQFsSyJwGeQtVi5CadrOTFRLBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDEw/NjUtMTQzMDAwOTU0/Ny0xMTk0LmpwZWc.jpeg) | 2015 | Jacco Gardner | Hypnophobia |
 | 51 | ![Cover](https://i.discogs.com/9bdvRuxd-OsRG5hgcaTp9yjGRkhRY0gOdFATIJwHr98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODgz/ODYtMTQyNjYzMzA4/Mi04MzEwLmpwZWc.jpeg) | 2015-02-24 | Eartheater | Metalepsis |
 | 16 | ![Cover](https://i.discogs.com/Tip-oeuZD8Syzw-vm-OSSC_N3r6MIgrs6MUmy5lqfps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTg0/ODUtMTQ0MTEyMjkx/My03Nzg1LmpwZWc.jpeg) | 2015-09-01 | Natural Snow Buildings | Terror&#39;s Horns |
+| 1 | ![Cover](https://i.discogs.com/kN1qpE_eUQ-aTWvQQ7_EjYN1DyACLuj4QzauRypYbxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjQz/NTgtMTQ0NzQ5Mjkw/NC0yNjkwLmpwZWc.jpeg) | 2015-11-13 | Death Hawks | Sun Future Moon |
 | 79 | ![Cover](https://i.discogs.com/tdhyJ-P4Covtg6ee7YE0KW939FWupHoEcCcPnU81DAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcx/ODQ2LTE0OTI4NTMw/MDMtMjc2NS5qcGVn.jpeg) | 2016-02-19 | Animal Collective | Meeting of the Waters |
 | 61 | ![Cover](https://i.discogs.com/5D4n1JzG0es0IRqXb4lajrdDelinSyFJK7WaaKbpa9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDI2/MTgtMTQ1ODI1MDM1/NS01MTM4LmpwZWc.jpeg) | 2016-03-18 | Damien Jurado | Visions Of Us On The Land |
 | 95 | ![Cover](https://i.discogs.com/vl_yfABUjy6B506YatsxoYjDYKOzepOupg9KHmhkXD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTY2/MzAtMTQ3NjgyMTY0/Ni03NjU4LmpwZWc.jpeg) | 2016-10-16 | Weyes Blood | Front Row Seat To Earth |

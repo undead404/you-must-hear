@@ -1,20 +1,20 @@
 ---
 category: genre
-date: 2025-10-23T16:40:06.087Z
+date: 2025-10-25T19:48:58.228Z
 permalink: tags/waltz
 title: waltz
 ---
 
 ## waltz
 
-Last updated: <time datetime="2025-10-23T16:40:06.087Z">Thu Oct 23 2025 19:40:06 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-25T19:48:58.228Z">Sat Oct 25 2025 22:48:58 GMT+0300 (Eastern European Summer Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | Larrysmusic | Electric Accordion |
-| 2 |  |  | Dzedenz | ElectroClassic 1. Midnight of Cinderella - EP |
+| 1 |  |  | Florian Behnsen | At the end of the world |
+| 2 |  |  | Константин Смирнов | Электричка туманной надежды |
 | 3 |  |  | Johann Strauss  II | STRAUSS II, J.: Edition - Vol. 43 |
 | 4 | ![Cover](https://i.discogs.com/0kKcmn3RbXCdO5zyz4korsfuqAihs_OOjFC150wR8oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzk2/NTYtMTQ4MDYxNjU5/Ni02MzE0LmpwZWc.jpeg) | 2016-12-01 | Simon Wilkinson | The Pussycat Waltz |
 | 5 |  |  | Alex S Dewett | A Drop in The Ocean |

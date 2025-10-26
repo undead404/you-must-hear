@@ -1,24 +1,26 @@
 ---
 category: genre
-date: 2025-10-23T15:14:51.241Z
+date: 2025-10-25T18:33:17.298Z
 permalink: tags/neoliberal
 title: neoliberal
 ---
 
 ## neoliberal
 
-Last updated: <time datetime="2025-10-23T15:14:51.241Z">Thu Oct 23 2025 18:14:51 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-25T18:33:17.298Z">Sat Oct 25 2025 21:33:17 GMT+0300 (Eastern European Summer Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
+| 1 |  |  | Elizabeth Warren | This Fight Is Our Fight: The Battle to Save America&#39;s Middle Class |
 | 35 | ![Cover](https://i.discogs.com/jJsNr6DxLzWtv77jMYPISoYvIyYhE-qMePx8_3Uy1Dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTY2/OTAtMTQzODcyMjE5/MS0zNTk4LmpwZWc.jpeg) | 1998 | LoCash | Today&#39;s Country Hits |
 | 44 | ![Cover](https://i.discogs.com/M7OAxT7sArHCZHgepJVqtMOq-zJDs7Dorh1kwdifSLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk4/NDAzLTE1MzQ0NzAz/OTktNzEzNS5qcGVn.jpeg) | 2007 | LoCash | Billboard # 1&#39;sTop 100 Country Songs 2011 |
 | 47 | ![Cover](https://i.discogs.com/M7OAxT7sArHCZHgepJVqtMOq-zJDs7Dorh1kwdifSLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk4/NDAzLTE1MzQ0NzAz/OTktNzEzNS5qcGVn.jpeg) | 2009 | LoCash | Billboard # 1&#39;sTop 100 Country Songs 2010 |
-| 1 | ![Cover](https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg) | 2014-12-07 | Joe Biden | We Are One Concert, Washington D.C., January 18, 2009 |
+| 2 | ![Cover](https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg) | 2014-12-07 | Joe Biden | We Are One Concert, Washington D.C., January 18, 2009 |
+| 3 | ![Cover](https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg) | 2014-12-07 | Joe Biden | Trump Offers No Moral Leadership |
 | 13 | ![Cover](https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg) | 2014-12-07 | Joe Biden | On the Economy with Andrew Yang |
-| 16 | ![Cover](https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg) | 2014-12-07 | Joe Biden | We Are Once Concert, Washington D.C., January 18, 2009 |
+| 14 | ![Cover](https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg) | 2014-12-07 | Joe Biden | We Are Once Concert, Washington D.C., January 18, 2009 |
 | 21 | ![Cover](https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg) | 2014-12-07 | Joe Biden | Promises to Keep - On Life and Politics (Unb) |
 | 22 | ![Cover](https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg) | 2014-12-07 | Joe Biden | Excellence Demands Sacrifice |
 | 30 | ![Cover](https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg) | 2014-12-07 | Joe Biden | We Are One Concert 2009-01-18 |
@@ -27,9 +29,8 @@ Last updated: <time datetime="2025-10-23T15:14:51.241Z">Thu Oct 23 2025 18:14:51
 | 49 | ![Cover](https://i.discogs.com/2xDefmEzNbRm66kNwvjXeee--G1HiI8N7CEhTsn0cGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzI3/NDU3LTE2MzUxODEz/NTgtMjIwNS5qcGVn.jpeg) | 2015 | LoCash | Feels Like a Party - Single |
 | 31 | ![Cover](https://i.discogs.com/VqPruihjMM0xPtw3iBZnS_vH1UCiIJP7sH1DNo6DToA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM4/NTI2LTE1MTQ1MTM2/NTEtMjI4MS5qcGVn.jpeg) | 2016 | LoCash | Mud Digger 5 |
 | 40 | ![Cover](https://i.discogs.com/VqPruihjMM0xPtw3iBZnS_vH1UCiIJP7sH1DNo6DToA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM4/NTI2LTE1MTQ1MTM2/NTEtMjI4MS5qcGVn.jpeg) | 2016 | LoCash | One Big Country Song |
-| 5 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | Lobotomized Trump Supporters |
-| 8 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | 2020-07-04 |
-| 15 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | Biden&#39;s Briefing |
+| 12 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | 2020-07-04 |
+| 16 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | Biden&#39;s Briefing |
 | 17 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | Team Joe Sings |
 | 20 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | Magatards On Teh Rag |
 | 24 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | S​&#x2F;​T |
@@ -38,7 +39,6 @@ Last updated: <time datetime="2025-10-23T15:14:51.241Z">Thu Oct 23 2025 18:14:51
 | 27 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | 187 On The Pigs |
 | 28 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | Isn&#39;t it a bitch? |
 | 42 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | Magatards |
-| 45 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | S&#x2F;T |
 | 6 | ![Cover](https://i.discogs.com/QRnWxde52k8yolxpwQlZ_g8gEY1oJOE3NAKi_frITUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTUyLTE1MzUwODY3/OTktMTU4My5qcGVn.jpeg) | 2018-01-18 | Joe Biden | The Good Ole Fashioned Hardcore Split |
 | 19 | ![Cover](https://i.discogs.com/QRnWxde52k8yolxpwQlZ_g8gEY1oJOE3NAKi_frITUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTUyLTE1MzUwODY3/OTktMTU4My5qcGVn.jpeg) | 2018-01-18 | Joe Biden | Promise Me, Dad: A Year of Hope, Hardship, and Purpose (Unabridged) |
 | 43 | ![Cover](https://i.discogs.com/NLSpgYuXnVH1XjXkggUPUcMTSC71kIJygsFiBI9lMFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzk1/OTQ4LTE1NzM2NzA0/OTQtNDYzMS5wbmc.jpeg) | 2019 | LoCash | Alll Day |
@@ -47,15 +47,15 @@ Last updated: <time datetime="2025-10-23T15:14:51.241Z">Thu Oct 23 2025 18:14:51
 | 34 | ![Cover](https://i.discogs.com/sIObhjvRNUitWo92Wa4TSDaJXBdek4VYVzSGQ2kPPZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY0/NjgyLTE1OTAzNDQ0/MTUtODc2MS5qcGVn.jpeg) | 2020-05-22 | 100 gecs | stupid horse (Remix) (feat. GFOTY &amp; Count Baldor) |
 | 39 | ![Cover](https://i.discogs.com/sIObhjvRNUitWo92Wa4TSDaJXBdek4VYVzSGQ2kPPZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY0/NjgyLTE1OTAzNDQ0/MTUtODc2MS5qcGVn.jpeg) | 2020-05-22 | 100 gecs | stupid horse (Remix) (feat. GFOTY &amp; Count Baldor) - Single |
 | 38 | ![Cover](https://i.discogs.com/bY7h4DjZaVJuXeMOVO9Y6meq4NjYri8MI9hACoAJTEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjk2/OTczLTE2NDE5MjU0/ODAtMzM1My5qcGVn.jpeg) | 2020-10-14 | LoCash | Promo Only: Country Radio Januar 17&#39; |
-| 2 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | The Way It Should Be (From &quot;Time Toys&quot;) [Rerecorded] - Single |
-| 3 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | Dalton Cyr (EP) |
 | 4 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | It&#39;s On the Track |
-| 7 |  |  | Elizabeth Warren | mslawmedia » Podcasts |
-| 9 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | Upside Down (2014) - Single |
-| 10 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | Fall into Place (Single) |
-| 11 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | Echo [Dalton Cyr, Single] |
-| 12 |  |  | Elizabeth Warren | All Your Worth |
-| 14 |  |  | Nancy Pelosi | 1 |
+| 5 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | Dalton Cyr (EP) |
+| 7 |  |  | Elizabeth Warren | All Your Worth |
+| 8 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | Fall into Place (Single) |
+| 9 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | Echo [Dalton Cyr, Single] |
+| 10 |  |  | Elizabeth Warren | mslawmedia » Podcasts |
+| 11 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | Upside Down (2014) - Single |
+| 15 |  |  | Nancy Pelosi | 1 |
+| 45 | ![Cover](https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg) | 2017-07-10 | Joe Biden | S&#x2F;T |
 | 18 | ![Cover](https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg) | 2021-11-19 | Dalton Cyr | Stay - Single |
 | 23 |  |  | Elizabeth Warren | A Fighting Chance (Unabridged) |
 | 29 |  |  | Elizabeth Warren | A Fighting Chance |

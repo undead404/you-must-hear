@@ -1,67 +1,67 @@
 ---
 category: genre
-date: 2025-10-20T05:11:28.018Z
+date: 2025-10-25T20:49:57.110Z
 permalink: tags/noise
 title: noise
 ---
 
 ## noise
 
-Last updated: <time datetime="2025-10-20T05:11:28.018Z">Mon Oct 20 2025 08:11:28 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-25T20:49:57.110Z">Sat Oct 25 2025 23:49:57 GMT+0300 (Eastern European Summer Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
 | 38 | ![Cover](https://i.discogs.com/lG22gU2GGI16X7MLm5v-7PTlkKu-KPqYOuzqlcOsr4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODA3/NDUtMTY3NzI1MzAy/NC01NjgxLmpwZWc.jpeg) | 1983 | Sonic Youth | Confusion Is Sex &#x2F; Kill Yr. Idols |
-| 18 |  | 1987 | Ramleh | Hole in the Heart |
+| 19 |  | 1987 | Ramleh | Hole in the Heart |
 | 45 | ![Cover](https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg) | 1987 | Various Artists | MSG, Vol. 1 |
 | 26 | ![Cover](https://i.discogs.com/z9FJojvfAriz2_gUM5xDcdKQgrfJMS_hngikFT_9zMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjU4/MDYtMTMyMTU3MTc1/Ni5qcGVn.jpeg) | 1993 | Mohinder | O Nation, You Bleed From Many Wounds, 1896 |
-| 2 | ![Cover](https://i.discogs.com/FvIIDY2rsiLI16fLbbVjTZOjUmJULFzjdIdJYwshdBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODk4/NS0xMzY0NzE3MzA0/LTMyMzYuanBlZw.jpeg) | 1993-09-25 | Boredoms | Super Ae |
-| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ac87adcd2dee41488a51770487ea37d0.png) | 1994-03-27 | Marlene Kuntz | Catartica |
+| 3 | ![Cover](https://i.discogs.com/FvIIDY2rsiLI16fLbbVjTZOjUmJULFzjdIdJYwshdBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODk4/NS0xMzY0NzE3MzA0/LTMyMzYuanBlZw.jpeg) | 1993-09-25 | Boredoms | Super Ae |
+| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ac87adcd2dee41488a51770487ea37d0.png) | 1994-03-27 | Marlene Kuntz | Catartica |
 | 46 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eae80f5cea3c75da8aa7140d33732065.png) | 1994-08-29 | The Jesus Lizard | Down |
 | 39 |  | 1994-09 | Merzbow | Venereology |
 | 34 |  | 1995 | Unsane | Scattered, Smothered &amp; Covered |
 | 37 | ![Cover](https://i.discogs.com/st7DwuUwbOHKvX_S-ZCq7Jy1tR2je37amc4dLHK0v7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzkz/Ny0xMjM3NDk3MjE4/LmpwZWc.jpeg) | 1995 | Unsane | Scattered, Smothered and Covered |
 | 49 | ![Cover](https://i.discogs.com/YUIEMizq5pQXZs2B6ji8prOXS6AVf2mc79Mn_Q14H30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDUz/NC0xMzI5OTIxMDIw/LmpwZWc.jpeg) | 1995 | Sonic Youth | Confusion Is Sex Plus Kill Yr Idols |
-| 11 |  | 1995-10-10 | Mr. Bungle | Disco Volante |
-| 5 | ![Cover](https://i.discogs.com/mIrDVLFuV9GdMinimGAOpUaCNsunt7hkwJm_YG7rLh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY4/MTI5LTE1OTM3NzY3/MTItNTU4MS5wbmc.jpeg) | 1996 | Boris | 2R0I2P0 |
-| 4 | ![Cover](https://i.discogs.com/mXkaOfk8EwCDE6nS2dJM4_eFcH2Nuh588yaTuf6GSJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDAy/MS0xNDY0MzU5NjU1/LTYwNTUuanBlZw.jpeg) | 1997 | Free Kitten | Sentimental Education |
+| 12 |  | 1995-10-10 | Mr. Bungle | Disco Volante |
+| 6 | ![Cover](https://i.discogs.com/mIrDVLFuV9GdMinimGAOpUaCNsunt7hkwJm_YG7rLh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY4/MTI5LTE1OTM3NzY3/MTItNTU4MS5wbmc.jpeg) | 1996 | Boris | 2R0I2P0 |
+| 5 | ![Cover](https://i.discogs.com/mXkaOfk8EwCDE6nS2dJM4_eFcH2Nuh588yaTuf6GSJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDAy/MS0xNDY0MzU5NjU1/LTYwNTUuanBlZw.jpeg) | 1997 | Free Kitten | Sentimental Education |
 | 36 |  | 1998-05-19 | Merzbow | 1930 |
 | 27 |  | 1999-04-16 | Atari Teenage Riot | 60 Second Wipe Out |
 | 48 | ![Cover](https://i.discogs.com/AzOvTh8U8OKyEbyPKy1U6ZbHjM-QPjTjgBgfYpYz1I8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTU5/NS0xMjUwNzczMTky/LmpwZWc.jpeg) | 2000 | Sonic Youth | Confusion is Sex + Kill Yr. Idols |
 | 50 | ![Cover](https://i.discogs.com/AzOvTh8U8OKyEbyPKy1U6ZbHjM-QPjTjgBgfYpYz1I8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTU5/NS0xMjUwNzczMTky/LmpwZWc.jpeg) | 2000-05 | Sonic Youth | confusion is sex + kill yr. id |
 | 21 |  | 2003-03-04 | Lightning Bolt | Wonderful Rainbow |
 | 33 | ![Cover](https://i.discogs.com/zlwGt2k6GaMVNbHNIEMAVEVz92JIcAtjSSNXPcwPY5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDMw/OS0xNTQwOTI1OTEx/LTgwNzYuanBlZw.jpeg) | 2003-05-15 | Black Eyes | Black Eyes |
-| 16 | ![Cover](https://i.discogs.com/6cE85E-jGUGXJ6JNY8AxZznfPco_y5vNIhSk0WmbIKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTM4/My0xMTY3ODU4MzAw/LmpwZWc.jpeg) | 2004 | Prurient | Frozen Niagara Falls |
+| 17 | ![Cover](https://i.discogs.com/6cE85E-jGUGXJ6JNY8AxZznfPco_y5vNIhSk0WmbIKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTM4/My0xMTY3ODU4MzAw/LmpwZWc.jpeg) | 2004 | Prurient | Frozen Niagara Falls |
 | 42 |  | 2004-09-28 | Wolf Eyes | Burned Mind |
-| 1 |  | 2004-10-18 | Growing | The Soul Of The Rainbow And The Harmony Of Light |
+| 2 |  | 2004-10-18 | Growing | The Soul Of The Rainbow And The Harmony Of Light |
 | 29 |  | 2005-10-18 | Lightning Bolt | Hypermagic Mountain |
-| 12 |  | 2006-02-08 | Belong | October Language |
-| 15 | ![Cover](https://i.discogs.com/ZnI3yONZZbOUj4Z36iVb1dosiLofAscJz797bwo3sBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk4/NjYtMTI2NzkyMDUz/MS5qcGVn.jpeg) | 2007-08-13 | A Place to Bury Strangers | A Place To Bury Strangers |
+| 13 |  | 2006-02-08 | Belong | October Language |
+| 16 | ![Cover](https://i.discogs.com/ZnI3yONZZbOUj4Z36iVb1dosiLofAscJz797bwo3sBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk4/NjYtMTI2NzkyMDUz/MS5qcGVn.jpeg) | 2007-08-13 | A Place to Bury Strangers | A Place To Bury Strangers |
 | 35 |  | 2007-10 | Les Rallizes Dénudés | Cable Hogue Soundtrack |
-| 14 |  | 2007-10-02 | Yellow Swans | At All Ends |
-| 8 | ![Cover](https://i.discogs.com/A_LvwNT2qhGPuHT72PgjJ3xWYsFckNUldD8fXr1Tek8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc4/NzUtMTIyNjM3MTMw/OC5qcGVn.jpeg) | 2008 | Aaron Dilloway | Modern Jester |
+| 15 |  | 2007-10-02 | Yellow Swans | At All Ends |
+| 9 | ![Cover](https://i.discogs.com/A_LvwNT2qhGPuHT72PgjJ3xWYsFckNUldD8fXr1Tek8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTc4/NzUtMTIyNjM3MTMw/OC5qcGVn.jpeg) | 2008 | Aaron Dilloway | Modern Jester |
 | 31 |  | 2009-02-17 | Zu | Carboniferous |
 | 41 |  | 2010-04-17 | Crystal Castles | Doe Deer |
-| 19 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a3e476bdba7612a3ce04e0a7a235ce08.png) | 2010-09-01 | BUCK-TICK | 殺シノ調べ |
 | 30 |  | 2010-09-14 | World&#39;s End Girlfriend | SEVEN IDIOTS |
 | 23 | ![Cover](https://i.discogs.com/PM-ldYLUNCFB3kMdyI0Y7yM0Qg23N0YSJCfEcYGPdEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU0/MTgtMTY3OTc4MzM3/Ni00MjQ4LmpwZWc.jpeg) | 2011-07-19 | Prurient | Bermuda Drain |
 | 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1ec9ca1f60cb42439a586ca3eb154f90.png) | 2012 | Kapitan Korsakov | Stuff&amp;Such |
 | 25 |  | 2012-10-01 | Gnarwolves | CRU |
-| 9 | ![Cover](https://i.discogs.com/2VtQ0CeSMt4dIBtkZzXIknjBaM1ZZR944YvXq2_vsbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTUx/MjUtMTY5ODM0OTQ2/OC0zNzU2LmpwZWc.jpeg) | 2014-01-13 | Big Ups | Eighteen Hours of Static |
+| 10 | ![Cover](https://i.discogs.com/2VtQ0CeSMt4dIBtkZzXIknjBaM1ZZR944YvXq2_vsbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTUx/MjUtMTY5ODM0OTQ2/OC0zNzU2LmpwZWc.jpeg) | 2014-01-13 | Big Ups | Eighteen Hours of Static |
 | 20 |  | 2014-02-25 | Tacocat | NVM |
-| 6 |  | 2014-10-14 | Pharmakon | Bestial Burden |
-| 10 | ![Cover](https://i.discogs.com/ICnYs4bPxTRvTzTv1y1cUF9oBipQA0a_ZwFgjYZUCkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjY2/MDYtMTQ3NDkxODcw/MS03NTU0LmpwZWc.jpeg) | 2015-06-29 | Nicolas Jaar | Pomegranates |
+| 7 |  | 2014-10-14 | Pharmakon | Bestial Burden |
+| 11 | ![Cover](https://i.discogs.com/ICnYs4bPxTRvTzTv1y1cUF9oBipQA0a_ZwFgjYZUCkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjY2/MDYtMTQ3NDkxODcw/MS03NTU0LmpwZWc.jpeg) | 2015-06-29 | Nicolas Jaar | Pomegranates |
 | 47 | ![Cover](https://i.discogs.com/IsVOHLIReZw9mj6-dXBq0gHYeF0orCVeQnI0KT1y1Cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjE5/MzQtMTQ3MDMxNTA1/OC05ODQ4LmpwZWc.jpeg) | 2016-08-05 | Delroy Edwards | Hangin&#39; At The Beach |
 | 28 | ![Cover](https://i.discogs.com/c2djd_tGwuhpONNXb390-dhLK2aU0D4zx5aiWW1EyE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTc5/NzYtMTQ4NjgwOTU0/MC01MTg0LmpwZWc.jpeg) | 2017-03-03 | Blanck Mass | World Eater |
 | 40 | ![Cover](https://i.discogs.com/wXsQo6pNBOfdYVOq2IYqJu7EvtYhTtDOXs_6GkbZkBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODAx/MzMyLTE2NTM2MzI0/MjMtNjQ4OS5qcGVn.jpeg) | 2017-09-08 | Zola Jesus | Okovi |
 | 43 | ![Cover](https://i.discogs.com/kh_yCCq6bLSwYYK3g74OatLj-ZGzq7vHJvDcLItN-Cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MTA5LTE1MDc4Mjkz/MzUtNDE0Ny5qcGVn.jpeg) | 2017-10-06 | Primitive Man | Caustic |
+| 1 | ![Cover](https://i.discogs.com/zkqeL3MgabazC5zWaD2rAMsSB52cmUWGkNoyek8IJFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQz/NjQ5LTE2NDA5NjU2/NjEtODA1Ni5qcGVn.jpeg) | 2018-08-15 | sewerslvt | Sewer&#x2F;&#x2F;Slvt - EP |
 | 32 | ![Cover](https://i.discogs.com/-mb_FStnR1E2MZhzh1FtFPg9LV2AxpxeqgO6348Qvlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM2/MDg5LTE1NDA5NzU3/OTYtNzYwOC5qcGVn.jpeg) | 2018-10-05 | Puce Mary | The Drought |
 | 22 | ![Cover](https://i.discogs.com/ReVKfSyh-jaY-nT2tiC1eshTZduBGpI0eYlMTZdvxRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYw/MTAzLTE1ODEwNjYx/NDQtNDU3OS5qcGVn.jpeg) | 2019-07-04 | Free Refills | Raw Steak Black Coffee |
-| 17 | ![Cover](https://i.discogs.com/kKcLUjCR3L7xkdAJn_5XrZYxkBoipMDCKmUFDRZwwbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDkw/Mjc0LTE2MDMyNTUx/NDctOTk3Mi5qcGVn.jpeg) | 2020-10-20 | Poppy | Music To Scream To |
-| 3 | ![Cover](https://i.discogs.com/bmMuc1J4axU6UDQHKcnVJw_Um4-Spb1emw7hAJee1j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDk1/MDExLTE2MTM3Njky/ODEtMzE1Mi5qcGVn.jpeg) | 2021-02-26 | Blanck Mass | In Ferneaux |
-| 13 |  |  | Clown Core | Clown Core |
+| 18 | ![Cover](https://i.discogs.com/kKcLUjCR3L7xkdAJn_5XrZYxkBoipMDCKmUFDRZwwbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDkw/Mjc0LTE2MDMyNTUx/NDctOTk3Mi5qcGVn.jpeg) | 2020-10-20 | Poppy | Music To Scream To |
+| 4 | ![Cover](https://i.discogs.com/bmMuc1J4axU6UDQHKcnVJw_Um4-Spb1emw7hAJee1j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDk1/MDExLTE2MTM3Njky/ODEtMzE1Mi5qcGVn.jpeg) | 2021-02-26 | Blanck Mass | In Ferneaux |
+| 14 |  |  | Clown Core | Clown Core |
 | 44 |  |  | vivivivivi | IN MY HEAD |
 | 65 | ![Cover](https://i.discogs.com/WWIxfX45h4u6xGABhE6osXicUh6cgHBnAIBq6NKpE9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDA3/NjktMTI4NDIxMzc0/Ny5qcGVn.jpeg) | 1975-07 | Lou Reed | Metal Machine Music |
 | 62 | ![Cover](https://i.discogs.com/OWu0PR-R7a-a83t_qs_tf9dg-Sg5dbtNtqdfTDD7Rww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjg0/MDctMTI1MzA1MDcy/OC5qcGVn.jpeg) | 1988-03-01 | Ciccone Youth | The Whitey Album |

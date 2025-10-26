@@ -1,24 +1,24 @@
 ---
 category: genre
-date: 2025-10-20T06:58:00.488Z
+date: 2025-10-25T21:24:53.260Z
 permalink: tags/dance-pop
 title: dance-pop
 ---
 
 ## dance-pop
 
-Last updated: <time datetime="2025-10-20T06:58:00.488Z">Mon Oct 20 2025 09:58:00 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-25T21:24:53.260Z">Sun Oct 26 2025 00:24:53 GMT+0300 (Eastern European Summer Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/68338384c97611d3801a00a3b36b8d4c.png) |  | アトラスサウンドチーム | ペルソナ4 オリジナル・サウンドトラック |
 | 22 | ![Cover](https://i.discogs.com/UUPiX57VeMKnPOCZRdOAAfz-NsMlkFWLN9V12zBRGZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzA2/MTctMTI3NjEwNTk2/Mi5qcGVn.jpeg) | 1973 | TRI.BE | W.A.Y |
 | 75 | ![Cover](https://i.discogs.com/Fa4wvAK3YhSQ4kgLEeEvykbWeR4IqNy5DHQAoaU5jxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjgx/MC0xMzA2NDI0MDcw/LmpwZWc.jpeg) | 1983-10-11 | Lionel Richie | Can&#39;t Slow Down |
 | 81 | ![Cover](https://i.discogs.com/BmEO_8IpI4oECDeA94c5alETV2g6_X7bLKnTUgsRXss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM2/NzM0LTE1ODk5Mzc1/OTYtNTUxNS5qcGVn.jpeg) | 1987 | Solar | Spit it Out |
 | 52 | ![Cover](https://i.discogs.com/li_gpXeq7AKmAo2j5p6qzUDRG2Vzeeqb_-eCKdXW92g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU0/ODctMTIwNTA2OTg0/Mi5qcGVn.jpeg) | 1988 | JoJo | III. |
 | 58 | ![Cover](https://i.discogs.com/AfaqaoO2uKTe5OpR-JRYjXRvKR9l73ncrCBUtS5TZkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDIx/Nzc1LTE2MTY3ODE3/NTItMTQzNy5qcGVn.jpeg) | 1988 | April | APRIL 7th Mini Album &#39;Da Capo&#39; |
+| 1 | ![Cover](https://i.discogs.com/stxOlbnuT0qNVz-511xZKiqVQfyzSWr2AFnr12zH9ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTcx/NTQtMTUyODMyOTEz/My04MzE2LmpwZWc.jpeg) | 1996 | Red Velvet | Beautiful Christmas |
 | 44 | ![Cover](https://i.discogs.com/s6iV7FO64EiOFpgeRoWmt-8QCeTYZs0QwQvHdJ5XjrI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDU5/OC0xMDgwMzE4NDE0/LmdpZg.jpeg) | 2000 | Natty | NINETEEN |
 | 5 | ![Cover](https://i.discogs.com/ZHyv0l7QXHucWtD1ELPYSbBSPQW-mHes3QFWvWyn4NA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE4/NDItMTU2OTE3MTU3/MS0xNjEyLmpwZWc.jpeg) | 2003 | Kira | The Introduction |
 | 8 |  | 2004-02-11 | September | September |

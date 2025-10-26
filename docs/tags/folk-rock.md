@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T10:42:52.188Z
+date: 2025-10-25T15:16:16.567Z
 permalink: tags/folk-rock
 title: folk rock
 ---
 
 ## folk rock
 
-Last updated: <time datetime="2025-10-23T10:42:52.188Z">Thu Oct 23 2025 13:42:52 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-25T15:16:16.567Z">Sat Oct 25 2025 18:16:16 GMT+0300 (Eastern European Summer Time)</time>
 
 ### 100 chronological releases
 
@@ -33,7 +33,7 @@ Last updated: <time datetime="2025-10-23T10:42:52.188Z">Thu Oct 23 2025 13:42:52
 | 60 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a953eb3d96f639d0580611862893145d.png) | 1970-06-14 | Grateful Dead | Workingman&#39;s Dead |
 | 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a4280143e1514b9acbe568e8acc1413f.png) | 1970-09-19 | Neil Young | After the Gold Rush |
 | 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/874557ee3bcb413ea64be8587a180895.png) | 1970-10-21 | Bob Dylan | New Morning |
-| 9 |  | 1972 | Sui Generis | Vida |
+| 10 |  | 1972 | Sui Generis | Vida |
 | 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3b4f355def71311869e2c03b21506263.png) | 1972 | America | Homecoming |
 | 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c9aa95277ed1507e7b214157f3bc4873.png) | 1972-02-14 | Neil Young | Harvest |
 | 89 |  | 1972-05 | Jim Croce | You Don&#39;t Mess Around with Jim |
@@ -46,27 +46,27 @@ Last updated: <time datetime="2025-10-23T10:42:52.188Z">Thu Oct 23 2025 13:42:52
 | 26 |  | 1974-08-19 | Crosby, Stills, Nash &amp; Young | So Far |
 | 34 |  | 1974-08-31 | Harry Chapin | Verities &amp; Balderdash |
 | 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ebde64dfd4aa4e00ce17769ce314153e.png) | 1975-01-20 | Bob Dylan | Blood on the Tracks |
-| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a4d63f0249782dc60ed240d92ade7694.png) | 1976 | Neil Young | After the Goldrush |
+| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a4d63f0249782dc60ed240d92ade7694.png) | 1976 | Neil Young | After the Goldrush |
 | 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/aa77fe7130e871ee6cd43a92f96b847e.png) | 1976-01-05 | Bob Dylan | Desire |
 | 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f7a0fadbea6e4d02ec1dec04669727ab.png) | 1976-06-20 | The Beatles | Rubber Soul (Remastered) |
 | 13 |  | 1984-12 | Leonard Cohen | Various Positions |
 | 80 | ![Cover](https://i.discogs.com/vczyujV6S6-aHe0ApdK1KsX1sT1knvF_HDJex4lyMNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTc1/MTctMTQxMTE1ODc0/NC05NDkwLmpwZWc.jpeg) | 1985-09-21 | Pink Floyd | Meddle (2011 Remastered Version) |
 | 93 | ![Cover](https://i.discogs.com/iH-_65lnIIbcdcP06VyqW79PZO8csX5g27EnjLPowdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQy/MzEtMTU5MzA0MTUx/Mi05NjA0LmpwZWc.jpeg) | 1988 | Bob Dylan | Bring It All Back Home |
-| 1 |  | 1991-07-02 | Tom Petty and The Heartbreakers | Into the Great Wide Open |
-| 7 | ![Cover](https://i.discogs.com/CGEr3mIzYIJJzo_efP8a-6uswvxp9oto2bTDtW97SxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTUz/OTgtMTI4ODIyMjA2/NC5qcGVn.jpeg) | 1991-08-05 | Billy Bragg | Mermaid Avenue |
+| 2 |  | 1991-07-02 | Tom Petty and The Heartbreakers | Into the Great Wide Open |
+| 8 | ![Cover](https://i.discogs.com/CGEr3mIzYIJJzo_efP8a-6uswvxp9oto2bTDtW97SxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTUz/OTgtMTI4ODIyMjA2/NC5qcGVn.jpeg) | 1991-08-05 | Billy Bragg | Mermaid Avenue |
 | 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/20520278e64046d5c6d77c2bc32ea9a1.png) | 1992-10-27 | Neil Young | Harvest Moon |
 | 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c2312403b76a4d75b23b2b5134142d58.png) | 1995 | Bob Dylan | Highway 61 Revisited |
 | 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cef1f5cec00a8391aca69bb9e683f06f.png) | 1995-11-01 | Jim Croce | I Got A Name |
 | 15 |  | 1997-04-23 | Blackmore&#39;s Night | Shadow Of The Moon |
 | 22 | ![Cover](https://i.discogs.com/0-Xf7iUvgYZCtN4U9IKMeKdpbP0tG16EFJ8Y0S0lcEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njc1/MS0xNjA0MTQ0MDc4/LTYyMDUuanBlZw.jpeg) | 1999-04-21 | Blackmore&#39;s Night | Under A Violet Moon |
 | 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/85094f1c688d4076c0efc16f847925f8.png) | 2000-05-16 | Phish | Farmhouse |
-| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e64ceb720a09f1f6072b84cdae41d751.png) | 2001 | Fleetwood Mac | Rumours (Super Deluxe) |
+| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e64ceb720a09f1f6072b84cdae41d751.png) | 2001 | Fleetwood Mac | Rumours (Super Deluxe) |
 | 73 | ![Cover](https://i.discogs.com/ntWmrAhh-p3AJo0Ae11D1e_dcc8RF7_OM6Wq62h-sUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUx/MDUtMTQ5NzEzMDY3/MC0yNTI2LmpwZWc.jpeg) | 2001 | Gary Jules | Trading Snakeoil For Wolftickets |
 | 78 | ![Cover](https://i.discogs.com/6S_7sMKkw74PIMngutnfYNU-bLwfOaR43swLafWFnzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzkz/MC0xNDk1NDM5Mjc4/LTc3MjAuanBlZw.jpeg) | 2001 | Simon &amp; Garfunkel | Bookends |
 | 52 | ![Cover](https://i.discogs.com/CRgNL2ukskpQ2ANULMHP_LWj0kBSsuLBaNbVNaPOdNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTI0/NjItMTM0Mjg4MjY3/MC00OTgwLmpwZWc.jpeg) | 2001-05-25 | Pink Floyd | Atom Heart Mother (2011 Remastered Version) |
 | 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3f4151f14665495893f306cb7c0f5862.png) | 2001-10-15 | Don McLean | The Best of Don McLean |
 | 28 |  | 2003-06-23 | Blackmore&#39;s Night | Ghost Of A Rose |
-| 8 |  | 2004-10 | Jonathan Coulton | Where Tradition Meets Tomorrow |
+| 9 |  | 2004-10 | Jonathan Coulton | Where Tradition Meets Tomorrow |
 | 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ab2f597a1820a86931434c0f8e2653a1.png) | 2004-10-06 | Eagles | One of These Nights (2013 Remaster) |
 | 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/531c17bc256597b56c3082780f8c0b00.png) | 2006-08-06 | Bob Dylan | Modern Times |
 | 44 | ![Cover](https://i.discogs.com/oPDRsbMoWUzQA5muJdolsEZV0SsuyCc7LO5K9WNRJB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NzQ0/My0xMTU3MDg5OTA4/LmpwZWc.jpeg) | 2006-08-14 | The Mountain Goats | Get Lonely |
@@ -74,12 +74,13 @@ Last updated: <time datetime="2025-10-23T10:42:52.188Z">Thu Oct 23 2025 13:42:52
 | 58 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3fbe4bba18f1482db78b770f7e8fa593.png) | 2007-05-11 | Wilco | Sky Blue Sky |
 | 11 |  | 2007-09-24 | Two Gallants | Two Gallants |
 | 24 |  | 2007-10-23 | Robert Plant &amp; Alison Krauss | Raising Sand |
+| 1 | ![Cover](https://i.discogs.com/Z9VzAmFdCKfewpcMpuc6DDQhTSWMUFV0Ou3D-7xzqbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjIx/NzEtMTMyNzM2NDAx/NS5qcGVn.jpeg) | 2008-02-05 | Holly Conlan | Bird |
 | 67 |  | 2008-08-01 | Conor Oberst | Conor Oberst |
 | 82 | ![Cover](https://i.discogs.com/jaoY9Ii3Q7rvwHzec2z_1s3eyCNUzRnxPiYpa8oashQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDMz/NzYtMTM1Njc1Njkx/MS0yNzg4LmpwZWc.jpeg) | 2008-09-10 | Led Zeppelin | Houses Of The Holy (Remaster) |
 | 90 |  | 2008-10-14 | Ray LaMontagne | Gossip In The Grain |
-| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/21daa686c1770f9a4e818d4824e8f0a0.png) | 2009-04-23 | Bob Dylan | Together Through Life |
+| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/21daa686c1770f9a4e818d4824e8f0a0.png) | 2009-04-23 | Bob Dylan | Together Through Life |
 | 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9dc7bf5dc2c74a1b9f7a62b37520cfab.png) | 2009-05-15 | Gregory Alan Isakov | This Empty Northern Hemisphere |
-| 3 |  | 2009-05-26 | Sharon Van Etten | Because I Was in Love |
+| 4 |  | 2009-05-26 | Sharon Van Etten | Because I Was in Love |
 | 54 |  | 2009-09-15 | The Avett Brothers | I and Love and You |
 | 64 |  | 2009-10-23 | Isbells | Isbells |
 | 57 |  | 2010-02-01 | Midlake | The Courage Of Others |
@@ -89,8 +90,7 @@ Last updated: <time datetime="2025-10-23T10:42:52.188Z">Thu Oct 23 2025 13:42:52
 | 31 |  | 2011-03-07 | Kurt Vile | Smoke Ring for My Halo |
 | 35 |  | 2011-06-03 | Frank Turner | England Keep My Bones |
 | 84 |  | 2011-06-07 | City and Colour | Little Hell |
-| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e64c79c375d24a00cad16b08f87b26fb.png) | 2011-11-07 | Gin Wigmore | Gravel &amp; Wine |
-| 2 | ![Cover](https://i.discogs.com/pnBFoKpsvWrXosEaw_eM2xJaPxEJVJmERwh4ITLfHig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYy/MTc3LTE1Nzg2OTI0/MTQtMzA4MS5qcGVn.jpeg) | 2012 | Lana Del Rey | Norman Fucking Rockwell! |
+| 3 | ![Cover](https://i.discogs.com/pnBFoKpsvWrXosEaw_eM2xJaPxEJVJmERwh4ITLfHig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYy/MTc3LTE1Nzg2OTI0/MTQtMzA4MS5qcGVn.jpeg) | 2012 | Lana Del Rey | Norman Fucking Rockwell! |
 | 66 |  | 2012-01-01 | Jake Bugg | Jake Bugg |
 | 18 | ![Cover](https://i.discogs.com/lp9u1HiQt-xH0DqiATQddPTedsXt3GKoH2qXGD76wFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTA2/MTEtMTM0NjkzMjM0/MS01ODcxLmpwZWc.jpeg) | 2012-09-07 | Bob Dylan | Tempest |
 | 72 |  | 2012-09-13 | Mumford &amp; Sons | Babel |

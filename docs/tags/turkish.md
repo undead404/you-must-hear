@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T10:19:06.503Z
+date: 2025-10-25T13:54:43.332Z
 permalink: tags/turkish
 title: turkish
 ---
 
 ## turkish
 
-Last updated: <time datetime="2025-10-23T10:19:06.503Z">Thu Oct 23 2025 13:19:06 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-25T13:54:43.332Z">Sat Oct 25 2025 16:54:43 GMT+0300 (Eastern European Summer Time)</time>
 
 ### 100 chronological releases
 
@@ -56,63 +56,63 @@ Last updated: <time datetime="2025-10-23T10:19:06.503Z">Thu Oct 23 2025 13:19:06
 | 10 |  |  | Cengiz Özkan | Ah Istanbul |
 | 39 |  | 2011-09-20 | Hande Yener | Teşekkürler |
 | 40 |  |  | Münir Nurettin Selçuk | Haydar Haydar: Masters of Turkish Music |
-| 84 |  | 1976 | Nilüfer | Selam Söyle |
+| 83 |  | 1976 | Nilüfer | Selam Söyle |
 | 54 | ![Cover](https://i.discogs.com/f_N1_kK4paqaAGKQlZSmGG2S_iL2xeIr7O1aTUX6HfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDc1/MzQtMTQzNTMxNDYz/NC01NDUzLmpwZWc.jpeg) | 1978 | Sezen Aksu | SERÇE |
-| 93 |  | 1986 | Sezen Aksu | Git |
-| 69 |  | 1987 | Cem Karaca | Merhaba Gençler |
-| 59 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d749a90dd6d81ee4275b4dc093ed7de8.png) | 1996 | Mor ve Ötesi | Şehir |
+| 92 |  | 1986 | Sezen Aksu | Git |
+| 68 |  | 1987 | Cem Karaca | Merhaba Gençler |
 | 53 |  | 1999 | Omar Faruk Tekbilek | One Truth |
 | 55 | ![Cover](https://i.discogs.com/LipqoZTFMs_qrjdQ--6djUE3f6wpCzh2wulrt7-M8mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE4/MTQ5LTE0OTk3NTY1/NDktNjczNy5qcGVn.jpeg) | 1999-09 | Baba Zula | Üc Oyundan Onyedi Müzik |
-| 73 | ![Cover](https://i.discogs.com/d0n8qU2fj9VT-rwzYAS-Nd2je2iEBJMr8EGr-uUGaGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzI5/MC0xMTgwMTM5OTkx/LmpwZWc.jpeg) | 2000 | Sezen Aksu | Deliveren |
-| 98 | ![Cover](https://i.discogs.com/7yGJiW4hZovx7-rX3nrijywtrIp_7EGLLZivtdgGLsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDMw/MjItMTQzODA5NDMx/OS00NDMwLmpwZWc.jpeg) | 2002-04-19 | Mazhar Alanson | Turk Lokumuyla Tatli Ruyalar |
-| 78 |  | 2002-05-15 | Nil Karaibrahimgil | Nil Dunyasi |
-| 81 |  | 2002-08-31 | Pentagram | bir |
-| 85 | ![Cover](https://i.discogs.com/4Pyfb57K3ZMv4hDRX_ak9UPLarNObilE0NhbUEGNgmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzkx/NjEtMTU2NzA4Mzg0/MS0xOTYxLmpwZWc.jpeg) | 2003-06-30 | Sertab Erener | Sertab |
+| 72 | ![Cover](https://i.discogs.com/d0n8qU2fj9VT-rwzYAS-Nd2je2iEBJMr8EGr-uUGaGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzI5/MC0xMTgwMTM5OTkx/LmpwZWc.jpeg) | 2000 | Sezen Aksu | Deliveren |
+| 97 | ![Cover](https://i.discogs.com/7yGJiW4hZovx7-rX3nrijywtrIp_7EGLLZivtdgGLsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDMw/MjItMTQzODA5NDMx/OS00NDMwLmpwZWc.jpeg) | 2002-04-19 | Mazhar Alanson | Turk Lokumuyla Tatli Ruyalar |
+| 77 |  | 2002-05-15 | Nil Karaibrahimgil | Nil Dunyasi |
+| 80 |  | 2002-08-31 | Pentagram | bir |
+| 84 | ![Cover](https://i.discogs.com/4Pyfb57K3ZMv4hDRX_ak9UPLarNObilE0NhbUEGNgmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzkx/NjEtMTU2NzA4Mzg0/MS0xOTYxLmpwZWc.jpeg) | 2003-06-30 | Sertab Erener | Sertab |
 | 56 | ![Cover](https://i.discogs.com/VsZNLGLVdeZ7ajM6w0XPmwksrD5Dtun0Fbi-EhnHQCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDYz/NzgtMTQyMjk4MzM4/OC02MDA3LmpwZWc.jpeg) | 2003-09 | Funda Arar | Sevda Yanigi |
-| 100 | ![Cover](https://i.discogs.com/JVLm0Xm_Nwb5QBfx9rtfiaIXKMuChLt1Is72FW5U0EU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDQ4/Mi0xMzMzODc3MTU1/LmpwZWc.jpeg) | 2003-12 | Tarkan | Dudu |
-| 68 | ![Cover](https://i.discogs.com/uNPzYzgWgV7cqCw22feh31eprg4AvznKObyi3Xq3e7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM2/MDctMTQzMTUzMTEx/MC0zODAzLmpwZWc.jpeg) | 2004 | Mustafa Sandal | Araba |
-| 80 | ![Cover](https://i.discogs.com/m3fwyIdz0Xgf6fqVU-DRDYPNqdWOJC3cqOtSdWDUfFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzkz/NjYtMTQwOTUwMjA3/Mi03OTAxLmpwZWc.jpeg) | 2004 | Baris Akarsu | Islak Islak |
-| 89 |  | 2004-01-22 | Nil Karaibrahimgil | Nil FM |
-| 67 |  | 2004-05-21 | Athena | Us |
-| 62 |  | 2004-06-22 | Sertab Erener | No Boundaries |
-| 87 |  | 2004-12-14 | Manga | Manga |
-| 75 |  | 2005-02-10 | Sezen Aksu | Bahane |
-| 86 |  | 2005-04-17 | Yalın | Bir Bakmışsın |
-| 95 |  | 2005-06-17 | Çilekeş | Y.O.K. |
-| 92 |  | 2005-06-29 | Hayko Cepkin | Sakin Olmam Lazim |
-| 70 | ![Cover](https://i.discogs.com/8lxq-6DWobV9DrWPVH4YWgu3u6waJONkip8Anlo599Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM1/NjYtMTQyMDU2NTg5/MC0xNTQ2LmpwZWc.jpeg) | 2006 | Mustafa Sandal | Golgede ayni |
-| 61 |  | 2006-01-04 | Hande Yener | Apayrı |
-| 60 |  | 2006-04 | Mercan Dede | Breath |
-| 71 | ![Cover](https://i.discogs.com/RRMM8rd5bqsGqdybAEdzg6N3a_PvKXUmyVN3U7KYZeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NjI2/NjctMTQwMTU0MDk5/OS01NTQ0LmpwZWc.jpeg) | 2007 | Leman Sam | Leman Sam Gül Güzeli |
+| 99 | ![Cover](https://i.discogs.com/JVLm0Xm_Nwb5QBfx9rtfiaIXKMuChLt1Is72FW5U0EU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDQ4/Mi0xMzMzODc3MTU1/LmpwZWc.jpeg) | 2003-12 | Tarkan | Dudu |
+| 67 | ![Cover](https://i.discogs.com/uNPzYzgWgV7cqCw22feh31eprg4AvznKObyi3Xq3e7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM2/MDctMTQzMTUzMTEx/MC0zODAzLmpwZWc.jpeg) | 2004 | Mustafa Sandal | Araba |
+| 79 | ![Cover](https://i.discogs.com/m3fwyIdz0Xgf6fqVU-DRDYPNqdWOJC3cqOtSdWDUfFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzkz/NjYtMTQwOTUwMjA3/Mi03OTAxLmpwZWc.jpeg) | 2004 | Baris Akarsu | Islak Islak |
+| 88 |  | 2004-01-22 | Nil Karaibrahimgil | Nil FM |
+| 66 |  | 2004-05-21 | Athena | Us |
+| 61 |  | 2004-06-22 | Sertab Erener | No Boundaries |
+| 86 |  | 2004-12-14 | Manga | Manga |
+| 74 |  | 2005-02-10 | Sezen Aksu | Bahane |
+| 85 |  | 2005-04-17 | Yalın | Bir Bakmışsın |
+| 94 |  | 2005-06-17 | Çilekeş | Y.O.K. |
+| 91 |  | 2005-06-29 | Hayko Cepkin | Sakin Olmam Lazim |
+| 69 | ![Cover](https://i.discogs.com/8lxq-6DWobV9DrWPVH4YWgu3u6waJONkip8Anlo599Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM1/NjYtMTQyMDU2NTg5/MC0xNTQ2LmpwZWc.jpeg) | 2006 | Mustafa Sandal | Golgede ayni |
+| 60 |  | 2006-01-04 | Hande Yener | Apayrı |
+| 59 |  | 2006-04 | Mercan Dede | Breath |
+| 70 | ![Cover](https://i.discogs.com/RRMM8rd5bqsGqdybAEdzg6N3a_PvKXUmyVN3U7KYZeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NjI2/NjctMTQwMTU0MDk5/OS01NTQ0LmpwZWc.jpeg) | 2007 | Leman Sam | Leman Sam Gül Güzeli |
 | 51 | ![Cover](https://i.discogs.com/SGyidCtdgkAX1mjZWFCSYnu90xQaDAbLzUbKe5gClKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjMz/OTQtMTMzNzc4ODEy/MC00NzI3LmpwZWc.jpeg) | 2007-02 | İbrahim Tatlıses | Bulamadım |
-| 64 |  | 2007-02-14 | Murat Boz | Maximum |
-| 88 |  | 2007-05-15 | Hande Yener | Nasıl Delirdim |
-| 91 |  | 2007-12-26 | Tarkan | Metamorfoz |
-| 97 |  | 2008-01-22 | Feridun Düzağaç | Uykusuza Masallar |
-| 96 | ![Cover](https://i.discogs.com/3aw44BNsqku4YfijwDRxGQ5vqc28Qztv85bPs5kETTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQx/MDUzLTE2NTQxMTUz/NDQtMzI4Mi5qcGVn.jpeg) | 2008-08-28 | Volbeat | Guitar Gangsters And Cadillac Blood (Danish Limited Edition) |
-| 76 |  | 2008-11-24 | Mor ve Ötesi | Başıbozuk |
-| 82 | ![Cover](https://i.discogs.com/uKPxsY91iTRTsHMaShfJtUkWwBP3jWRnOEB3xmNLUlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE3/NTEtMTI4MjU5MzA2/Ny5qcGVn.jpeg) | 2009-06-19 | Birsen Tezer | Cihan |
+| 63 |  | 2007-02-14 | Murat Boz | Maximum |
+| 87 |  | 2007-05-15 | Hande Yener | Nasıl Delirdim |
+| 90 |  | 2007-12-26 | Tarkan | Metamorfoz |
+| 96 |  | 2008-01-22 | Feridun Düzağaç | Uykusuza Masallar |
+| 95 | ![Cover](https://i.discogs.com/3aw44BNsqku4YfijwDRxGQ5vqc28Qztv85bPs5kETTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQx/MDUzLTE2NTQxMTUz/NDQtMzI4Mi5qcGVn.jpeg) | 2008-08-28 | Volbeat | Guitar Gangsters And Cadillac Blood (Danish Limited Edition) |
+| 75 |  | 2008-11-24 | Mor ve Ötesi | Başıbozuk |
+| 81 | ![Cover](https://i.discogs.com/uKPxsY91iTRTsHMaShfJtUkWwBP3jWRnOEB3xmNLUlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE3/NTEtMTI4MjU5MzA2/Ny5qcGVn.jpeg) | 2009-06-19 | Birsen Tezer | Cihan |
 | 52 |  | 2009-06-26 | Hadise | Kahraman |
-| 83 | ![Cover](https://i.discogs.com/MbUVe9LOktk0LC-z-HuESCixtqmzvl0uPQIW0_1t29E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzY0/NDktMTU3MTQ3MzE2/NC03NTk4LmpwZWc.jpeg) | 2010-10-11 | Manga | maNga + |
+| 82 | ![Cover](https://i.discogs.com/MbUVe9LOktk0LC-z-HuESCixtqmzvl0uPQIW0_1t29E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzY0/NDktMTU3MTQ3MzE2/NC03NTk4LmpwZWc.jpeg) | 2010-10-11 | Manga | maNga + |
+| 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b9a9c3cd47fa5fa6b49bd6e693bfc4b0.png) | 2011 | Model | Diğer Masallar |
 | 14 |  | 2012 | Ebru Gündeş | 13,5 |
 | 23 | ![Cover](https://i.discogs.com/tpMSSF20r9QQgr_g2qT0E34oFPvTMwebg_0dG8NMJ2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjE2/MDAtMTM2MDM0OTky/Ni01NjE2LmpwZWc.jpeg) | 2012-12-21 | Büyük Ev Ablukada | olmadı kaçarız |
 | 31 |  | 2013-04-13 | Sertab Erener | Sade |
 | 36 | ![Cover](https://i.discogs.com/SvVZ1lKnh7kv3O_wd9Vs-jEdngbpBrWtAznww_mB4t0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzU2/MTIyLTE1NzI4NzA2/ODktNzY4MC5qcGVn.jpeg) | 2013-12 | Nazan Öncel | Sokak Kizi - Bir Sarki Tut |
-| 65 | ![Cover](https://i.discogs.com/kOhg8DYxkIvcOdo6n5h1Sk-lQuTVcBOLp1HKytQsrp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDMx/MTUtMTQzMzc5Mjkz/MC0xNzc4LmpwZWc.jpeg) | 2014-02-12 | Nil Karaibrahimgil | Kanatlarım Var Ruhumda |
+| 64 | ![Cover](https://i.discogs.com/kOhg8DYxkIvcOdo6n5h1Sk-lQuTVcBOLp1HKytQsrp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDMx/MTUtMTQzMzc5Mjkz/MC0xNzc4LmpwZWc.jpeg) | 2014-02-12 | Nil Karaibrahimgil | Kanatlarım Var Ruhumda |
 | 25 |  | 2014-06-02 | Hande Yener | Mükemmel |
 | 57 |  | 2014-08-04 | Hadise | Tavsiye |
-| 72 | ![Cover](https://i.discogs.com/2HqNfGLU_4qdiFvTKq5Ss6c-JE9oTYtt_BOPnrOsANM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODM4/MjUtMTQ0NjY2MzM0/My0zNTEwLmpwZWc.jpeg) | 2015-09-22 | Kaan Tangöze | Gölge Etme |
-| 90 | ![Cover](https://i.discogs.com/V6dcnJwgbFrGKFeBo3fGjTBoaV8W4DUOTujaWWb7fE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTc5/NDAtMTQ1NTEwMTA2/NC02NjAyLmpwZWc.jpeg) | 2016-02-15 | Kalben | Kalben |
+| 71 | ![Cover](https://i.discogs.com/2HqNfGLU_4qdiFvTKq5Ss6c-JE9oTYtt_BOPnrOsANM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODM4/MjUtMTQ0NjY2MzM0/My0zNTEwLmpwZWc.jpeg) | 2015-09-22 | Kaan Tangöze | Gölge Etme |
+| 89 | ![Cover](https://i.discogs.com/V6dcnJwgbFrGKFeBo3fGjTBoaV8W4DUOTujaWWb7fE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTc5/NDAtMTQ1NTEwMTA2/NC02NjAyLmpwZWc.jpeg) | 2016-02-15 | Kalben | Kalben |
 | 58 | ![Cover](https://i.discogs.com/NeKVcwhCt1Iux-KOTEKQt64z3M6dwessim35kmI6tnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDg3/ODUyLTE1MDk2MzQx/NTQtMzgxMy5qcGVn.jpeg) | 2017 | Düş Sokağı Sakinleri | Untitled Album |
-| 74 | ![Cover](https://i.discogs.com/8-ZP-vPJV9zyN2vVKu5Ct2huO7w9qWqxGaVtfLRNH68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTMz/MTktMTQ4NjQwODA5/OS0xMTE0LmpwZWc.jpeg) | 2017-03-01 | Violet Cold | Anomie |
+| 73 | ![Cover](https://i.discogs.com/8-ZP-vPJV9zyN2vVKu5Ct2huO7w9qWqxGaVtfLRNH68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTMz/MTktMTQ4NjQwODA5/OS0xMTE0LmpwZWc.jpeg) | 2017-03-01 | Violet Cold | Anomie |
 | 42 | ![Cover](https://i.discogs.com/c2RsYp0c9J40AWVih4Zc3jGbMzHRSiphU0wlgXXIoAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODA0/NDMtMTQ4MzEwMjAx/OC01NjEzLmpwZWc.jpeg) | 2017-03-03 | Derya Yildirim | Nem Kaldi |
-| 66 | ![Cover](https://i.discogs.com/bBrh6_Y3xt_vExu3MM_oN2TRaX06By0McfAU9EGnm-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI3/NDI3LTE1MDEyMjc4/MzctODA4OS5wbmc.jpeg) | 2017-07-27 | Aleyna Tilki | Sen Olsan Bari |
-| 63 | ![Cover](https://i.discogs.com/xcPfgyV35UItqZu9XUNhglExwvOoYzrcQEThV3oBFog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTM0/NjMzLTE1Mjg5OTA2/NzUtMjc1Mi5qcGVn.jpeg) | 2018-06-21 | Mabel Matiz | Maya |
+| 65 | ![Cover](https://i.discogs.com/bBrh6_Y3xt_vExu3MM_oN2TRaX06By0McfAU9EGnm-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI3/NDI3LTE1MDEyMjc4/MzctODA4OS5wbmc.jpeg) | 2017-07-27 | Aleyna Tilki | Sen Olsan Bari |
+| 62 | ![Cover](https://i.discogs.com/xcPfgyV35UItqZu9XUNhglExwvOoYzrcQEThV3oBFog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTM0/NjMzLTE1Mjg5OTA2/NzUtMjc1Mi5qcGVn.jpeg) | 2018-06-21 | Mabel Matiz | Maya |
 | 49 | ![Cover](https://i.discogs.com/mD8hjEtdJPpIz3qEIrjHhTSIzMtNZjgLuuRhEQyp6_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDE4/NDgwLTE2MDE5Nzk3/NTctMTI2OS5qcGVn.jpeg) | 2020-10-23 | She Past Away | Part Time Punks Session |
-| 79 |  |  | Ajda Pekkan | Cool Kadin 06 |
-| 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/89a0bb134eeab2e3a34a11dd7567fef9.png) | 2018-03-30 | Altin Gün | On |
-| 77 | ![Cover](https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg) | 2023 | Various Artists | Yuregimdeki Baris Sarkilari |
-| 94 | ![Cover](https://i.discogs.com/10uGY1v7UzHaaCl8KytGaTP19avnYsrC-gkO9oGvGdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODg0/MTc1LTE2ODI0Njcx/MzQtODQ4OS5qcGVn.jpeg) | 2023-01-27 | Lin Pesto | Üzgün |
+| 78 |  |  | Ajda Pekkan | Cool Kadin 06 |
+| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/89a0bb134eeab2e3a34a11dd7567fef9.png) | 2018-03-30 | Altin Gün | On |
+| 76 | ![Cover](https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg) | 2023 | Various Artists | Yuregimdeki Baris Sarkilari |
+| 93 | ![Cover](https://i.discogs.com/10uGY1v7UzHaaCl8KytGaTP19avnYsrC-gkO9oGvGdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODg0/MTc1LTE2ODI0Njcx/MzQtODQ4OS5qcGVn.jpeg) | 2023-01-27 | Lin Pesto | Üzgün |
 
 ### Related genres
 

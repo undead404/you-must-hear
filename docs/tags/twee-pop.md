@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:48:36.927Z
+date: 2025-10-26T11:09:13.834Z
 permalink: tags/twee-pop
 title: twee pop
 ---
 
 ## twee pop
 
-Last updated: <time datetime="2025-10-22T06:48:36.927Z">Wed Oct 22 2025 09:48:36 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-26T11:09:13.834Z">Sun Oct 26 2025 13:09:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -21,18 +21,18 @@ Last updated: <time datetime="2025-10-22T06:48:36.927Z">Wed Oct 22 2025 09:48:36
 | 78 | ![Cover](https://i.discogs.com/2uqttL7SBFkuhsUHf3YRo_ECnlbUj9bMXcfE4mo4UJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzYx/NC0xNTQ1MjM3NTMy/LTg0OTcuanBlZw.jpeg) | 1989 | Beat Happening | Black Candy |
 | 86 |  | 1989-09 | The Field Mice | Snowball |
 | 73 | ![Cover](https://i.discogs.com/U8yEVn20cl2HtIS0tVWMn7iIh9xA3TK6btZnf7JkXag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzYz/MS0xMTE3NzQzMDU2/LmdpZg.jpeg) | 1991 | Beat Happening | Dreamy |
-| 7 | ![Cover](https://i.discogs.com/re9VujmsoPz1jkXmOxjR1x8ery1bwvkcw8016xtGEzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzgy/My0xNTk4OTEwMjI0/LTUxODguanBlZw.jpeg) | 1991-01 | Brighter | Laurel |
+| 8 | ![Cover](https://i.discogs.com/re9VujmsoPz1jkXmOxjR1x8ery1bwvkcw8016xtGEzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzgy/My0xNTk4OTEwMjI0/LTUxODguanBlZw.jpeg) | 1991-01 | Brighter | Laurel |
 | 65 |  | 1991-01-01 | Heavenly | Heavenly Vs. Satan |
 | 24 |  | 1992-05 | Heavenly | Le Jardin de Heavenly |
 | 13 | ![Cover](https://i.discogs.com/6RaTtfgGF2NTFv_xqkP-2hLg4YMDmI-LD1349wXjO_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzY0/My0xNDkyMTgyMzAw/LTE5MjcuanBlZw.jpeg) | 1992-10-02 | Beat Happening | You Turn Me On |
 | 71 | ![Cover](https://i.discogs.com/2EDv3u3C0G10NdhWlWpm94ua4Zcb17yuA4OpIr2VNLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzQ2/MC0xNTU1NzExNTk5/LTQ1NDcuanBlZw.jpeg) | 1992-10-05 | Another Sunny Day | London Weekend |
 | 49 |  | 1993 | Tiger Trap | Tiger Trap |
-| 3 |  | 1993-05-28 | Strawberry Story | Clamming for It |
+| 4 |  | 1993-05-28 | Strawberry Story | Clamming for It |
 | 97 |  | 1993-08 | Heavenly | Atta Girl |
 | 10 |  | 1993-10 | Tiger Trap | Sour Grass |
 | 19 |  | 1994-09-21 | Heavenly | The Decline and Fall of Heavenly |
-| 6 | ![Cover](https://i.discogs.com/6UpSMSX0Xpzb3HvlBpXNU60BzzbpcE9joAlUYs79ERY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQ5/MTYtMTIzMTk5OTU1/My5qcGVn.jpeg) | 1995 | The Lucksmiths | The Green Bicycle Case |
-| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/97d243ad7cd19bb9d1f92b6be937a6a7.png) | 1995-03-01 | The Cardigans | Life |
+| 7 | ![Cover](https://i.discogs.com/6UpSMSX0Xpzb3HvlBpXNU60BzzbpcE9joAlUYs79ERY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQ5/MTYtMTIzMTk5OTU1/My5qcGVn.jpeg) | 1995 | The Lucksmiths | The Green Bicycle Case |
+| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/97d243ad7cd19bb9d1f92b6be937a6a7.png) | 1995-03-01 | The Cardigans | Life |
 | 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7b2357bb0ad16b4cd9efcb7b09d700ee.png) | 1996 | The Cardigans | First Band On The Moon (Remastered) |
 | 90 | ![Cover](https://i.discogs.com/tw9_KQGUGzlrxJNaTW9e8RS_vdu_pqvcMsL4yLJ-YD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjUy/OS0xNjMyOTMyNzY0/LTU4NjIuanBlZw.jpeg) | 1996-01 | Rocketship | A Certain Smile, A Certain Sadness |
 | 58 |  | 1996-05-21 | Talulah Gosh | Backwash |
@@ -40,7 +40,7 @@ Last updated: <time datetime="2025-10-22T06:48:36.927Z">Wed Oct 22 2025 09:48:36
 | 27 | ![Cover](https://i.discogs.com/yQOLPjew3lrl-RoOfVpWNLZmjSbDeV794p6o6sQawhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcz/NjMtMTE5OTM2Mzk5/MS5naWY.jpeg) | 1996-06-10 | Tullycraft | Old Traditions, New Standards |
 | 62 |  | 1996-08 | Go Sailor | Go Sailor |
 | 60 |  | 1996-11-18 | Belle and Sebastian | If You&#39;re Feeling Sinister |
-| 5 |  | 1997 | Everyone Asked About You | Everyone Asked About You |
+| 6 |  | 1997 | Everyone Asked About You | Everyone Asked About You |
 | 85 | ![Cover](https://i.discogs.com/zcci-ZTwF4fFJAY86E3LMqnVQuDau0-fzJsLbxAdVgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTAy/MjgtMTM4MDA2MjQx/Ni00MjQzLmpwZWc.jpeg) | 1997 | Plumtree | Predicts the Future |
 | 80 |  | 1997-08-19 | of Montreal | Cherry Peel |
 | 76 | ![Cover](https://i.discogs.com/oENgGauD6JYq6IToKSyXJDlfdOGn7b47OCFXr2b2Lpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODk2/MC0xMjIyNzk4OTA2/LmpwZWc.jpeg) | 1997-10-13 | Belle and Sebastian | 3..6..9 Seconds Of Light |
@@ -55,20 +55,19 @@ Last updated: <time datetime="2025-10-22T06:48:36.927Z">Wed Oct 22 2025 09:48:36
 | 69 |  | 2002 | All Girl Summer Fun Band | All Girl Summer Fun Band |
 | 57 |  | 2002-06-03 | Belle and Sebastian | Storytelling |
 | 26 |  | 2002-06-04 | Aberdeen | Homesick and Happy to Be Here |
-| 2 | ![Cover](https://i.discogs.com/ApbY0gaN8orMEWA-WP2M9flgiruPOeohrBgzXz5EE6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDk5/MjctMTYzMjE1NTM3/NC03ODA3LmpwZWc.jpeg) | 2002-09 | Juniper Moon | El Resto De Mi Vida |
+| 3 | ![Cover](https://i.discogs.com/ApbY0gaN8orMEWA-WP2M9flgiruPOeohrBgzXz5EE6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDk5/MjctMTYzMjE1NTM3/NC03ODA3LmpwZWc.jpeg) | 2002-09 | Juniper Moon | El Resto De Mi Vida |
 | 30 | ![Cover](https://i.discogs.com/oEKgci0Ka1mAdwl5KivuxlUns5Yn3QzWzNMpDI7h8y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTE0/Ni0xMTU3NDg0MzE3/LmpwZWc.jpeg) | 2003-04-07 | The Lucksmiths | Naturaliste |
 | 51 |  | 2003-09-02 | Beat Happening | Music to Climb the Apple Tree by |
 | 89 | ![Cover](https://i.discogs.com/-dgGYW8rXbAmVnmJwxLqv_ZMA7iLXEGiRz5aitkrfnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTQy/NTYtMTM3NzU1MTk1/MC02OTQ1LmpwZWc.jpeg) | 2004-04-01 | The Marshmallow Kisses | I Wonder Why My Favorite Boy Leaves Me an EP |
 | 59 | ![Cover](https://i.discogs.com/mtNz4yT_lMSi8czJTfJUv-vNS9VTcKnktSZYo4NB4UE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDE2/Ny0xMTU3MzkyNjUy/LmpwZWc.jpeg) | 2004-04-12 | Tacoma Radar | No One Waved Goodbye |
 | 47 |  | 2004-11-16 | Language of Flowers | Songs About You |
-| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/aea8fd3f68eb63c689e6f56a69a6a880.png) | 2004-11-18 | Nell | Walk Through Me |
 | 17 | ![Cover](https://i.discogs.com/CbVK0ffr_Biu0dzN1P-bDI1DRKHvpH9IqISRhgCGXVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzU1/ODItMTI1NjE0NTkx/MS5qcGVn.jpeg) | 2005 | Coiffeur | Primer Corte |
 | 61 | ![Cover](https://i.discogs.com/49htjxjJfRTuyJpFQPk0JK9n-qV3mUwuTtZ6wPXUFeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc1/MTUtMTQ5Mjk3MDk4/Ny01NDExLmpwZWc.jpeg) | 2005-05-02 | Tullycraft | Disenchanted Hearts Unite |
 | 28 | ![Cover](https://i.discogs.com/FA_7lveGlmI1Sj49GH7I0E61WtZ68PvLTlOCsalwrzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mzg2/Ni0xMzQwNTIxMTk5/LTQ1ODIuanBlZw.jpeg) | 2006 | The Bicycles | The Good, The Bad and The Cuddly |
 | 34 |  | 2006-02-14 | The Besties | Singer |
 | 82 | ![Cover](https://i.discogs.com/oCz8Ry3txAICcwoVaa3h-HCZSiU-DNExKaqK0u7W9ak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MzM5/My0xMzA4MDAxMTYw/LmpwZWc.jpeg) | 2006-04-04 | Voxtrot | Mothers, Sisters, Daughters &amp; Wives |
 | 63 |  | 2006-04-26 | I&#39;m from Barcelona | Let Me Introduce My Friends |
-| 16 |  | 2006-10-05 | Javiera Mena | Esquemas juveniles |
+| 15 |  | 2006-10-05 | Javiera Mena | Esquemas juveniles |
 | 74 | ![Cover](https://i.discogs.com/U2Lj0m8slIsNG4r8MvWMUf9HLPN5ky1haSdWrZUipzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ1/NjItMTYyNzA5MDI0/My05NjMzLmpwZWc.jpeg) | 2006-10-17 | Math and Physics Club | Math and Physics Club |
 | 36 |  | 2007 | The Pains of Being Pure at Heart | This Love Is Fucking Right! |
 | 40 |  | 2007 | Dragonette | I Get Around |
@@ -92,7 +91,7 @@ Last updated: <time datetime="2025-10-22T06:48:36.927Z">Wed Oct 22 2025 09:48:36
 | 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/626d107addbcea66c0124749472ca66c.png) | 2013-04-02 | starry cat | starry cat |
 | 67 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ebafc42b70594f1d8fa18d9fcd1869f4.png) | 2013-10-11 | Cults | Static |
 | 87 |  | 2014-06-12 | Las Ligas Menores | Las Ligas Menores |
-| 4 | ![Cover](https://i.discogs.com/46rTvjQyF42Lg3P3GPt4bjt5ZT_uD1v-SxC39rc1sVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODg0/MTItMTQyNjUyMDgz/NC0zNTIzLmpwZWc.jpeg) | 2014-07-22 | Alvvays | Alvvays |
+| 5 | ![Cover](https://i.discogs.com/46rTvjQyF42Lg3P3GPt4bjt5ZT_uD1v-SxC39rc1sVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODg0/MTItMTQyNjUyMDgz/NC0zNTIzLmpwZWc.jpeg) | 2014-07-22 | Alvvays | Alvvays |
 | 72 | ![Cover](https://i.discogs.com/CXYJev5iObC4Mnk6WImPZgHIASHNalkQl_Q1hgNu36Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODQx/NTYtMTQxMDY0Njgy/OS0zMDY5LmpwZWc.jpeg) | 2014-09-09 | Tennis | Ritual In Repeat (Deluxe) |
 | 99 | ![Cover](https://i.discogs.com/EJACGmbRr4RNmfCwGJ3Y2r_OvZdRaHARjSvpqo2QYGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDc1/MzAtMTQ4MzU2NjY4/MC00NTA4LmpwZWc.jpeg) | 2017-01-27 | Strawberry Switchblade | 1982 4 Piece Demo |
 | 84 | ![Cover](https://i.discogs.com/-QybCuKmtquVXpusgK1gB6kyJ2g5r8qTIyl3J9sVqpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTg0/NzU4LTE0OTMwMzU5/OTItMzA0My5qcGVn.jpeg) | 2017-04-06 | Stella Donnelly | Thrush Metal |
@@ -109,7 +108,8 @@ Last updated: <time datetime="2025-10-22T06:48:36.927Z">Wed Oct 22 2025 09:48:36
 | 92 | ![Cover](https://i.discogs.com/Yyw-YCCWfFI5CzaE7RGRsGojtzZNalyDl1Rck3cA2b0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzE0/OTYwLTE1NTE5MTc1/OTMtNzU5Mi5wbmc.jpeg) | 2019 | Stella Donnelly | Beware of the Dogs |
 | 22 | ![Cover](https://i.discogs.com/a5xn01fiviXZVXJsWWf92oddm55J-blo6TzE5MJ5F5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI3/MDIyLTE1NzIyOTEy/MzItODk1OS5qcGVn.jpeg) | 2019-10-22 | Apes of the State | Pipe Dream |
 | 96 | ![Cover](https://i.discogs.com/C0DVWbd5U2da1yfjK9GoJlCY80qv-r1GB7AEX2yS9J8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjY1/NzU3LTE2NzI4NjU0/NDEtODk5NC5qcGVn.jpeg) | 2022 | Hot Freaks | Hot Freaks |
-| 1 | ![Cover](https://i.discogs.com/Zq8aZHwJR2e4fVus8iDNqB7OyMqBvzLq83ErbpT9Wrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDYy/MDY2LTE2NTQzMzk4/MjMtNzI1Ny5qcGVn.jpeg) | 2022-05-10 | Stella Donnelly | Tricks |
+| 1 | ![Cover](https://i.discogs.com/52vyxM4oDLk3Uut1AbcgcMr7hiee1he6ReyFzSt3GjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTMw/ODgwLTE2NTUxNjkw/NjItNjM3OC5qcGVn.jpeg) | 2022-04-22 | jeanines | Don&#39;t Wait For A Sign |
+| 2 | ![Cover](https://i.discogs.com/Zq8aZHwJR2e4fVus8iDNqB7OyMqBvzLq83ErbpT9Wrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDYy/MDY2LTE2NTQzMzk4/MjMtNzI1Ny5qcGVn.jpeg) | 2022-05-10 | Stella Donnelly | Tricks |
 | 43 | ![Cover](https://i.discogs.com/hUfe3MVcODxJeGc0ghC2xSsM3zoqA0TsMP1bAd0508U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzA5/MDM4LTE2NjE0Mjcz/NTQtOTY3OS5qcGVn.jpeg) | 2022-08-26 | Stella Donnelly | Old Man |
 | 35 | ![Cover](https://i.discogs.com/7h9ltbKqEaQmf3_kzKmrmCbSGzuT5ReqyJ6BZCDROv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzI4/MjUyLTE2NjQ5ODU2/MTMtMzUwMy5qcGVn.jpeg) | 2022-10-07 | Alvvays | Blue Rev |
 | 33 | ![Cover](https://i.discogs.com/iEnZ00T2b_RGHZbTRfDrhTGqWlRCzd_Fggy555NuXsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTE2/Mjk0LTE2NzE1MTUx/ODctNzQyNi5qcGVn.jpeg) | 2022-12-14 | For Tracy Hyde | Hotel Insomnia |

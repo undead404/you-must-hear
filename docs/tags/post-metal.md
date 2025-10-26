@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T18:07:54.496Z
+date: 2025-10-25T21:24:45.961Z
 permalink: tags/post-metal
 title: post-metal
 ---
 
 ## post-metal
 
-Last updated: <time datetime="2025-10-23T18:07:54.496Z">Thu Oct 23 2025 21:07:54 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-25T21:24:45.961Z">Sun Oct 26 2025 00:24:45 GMT+0300 (Eastern European Summer Time)</time>
 
 ### 100 chronological releases
 
@@ -15,10 +15,10 @@ Last updated: <time datetime="2025-10-23T18:07:54.496Z">Thu Oct 23 2025 21:07:54
 |---|---|---|---|---|
 | 58 |  | 1993-08-17 | Neurosis | Enemy Of The Sun |
 | 84 |  | 1996-04-02 | Neurosis | Through Silver In Blood |
-| 3 |  | 1999 | Isis | Sawblade |
+| 2 |  | 1999 | Isis | Sawblade |
 | 80 |  | 1999-05-04 | Neurosis | Times of Grace |
 | 63 |  | 2000-07-19 | Isis | Celestial |
-| 2 |  | 2001 | Pelican | Pelican |
+| 1 |  | 2001 | Pelican | Pelican |
 | 82 |  | 2001-08-07 | Neurosis | A Sun That Never Sets |
 | 98 |  | 2002-09-17 | Isis | Oceanic |
 | 62 |  | 2003-10-21 | Kayo Dot | Choirs of the Eye |
@@ -76,6 +76,7 @@ Last updated: <time datetime="2025-10-23T18:07:54.496Z">Thu Oct 23 2025 21:07:54
 | 30 | ![Cover](https://i.discogs.com/uwDR61-G8EAaXG_KX31nWZUGvjxQYTo9iyN-QN48u-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc5/MDg4LTE1Mzc5NzY3/ODEtMjgzNi5qcGVn.jpeg) | 2012-06-28 | Ragana | LET OUR NAMES BE FORGOTTEN |
 | 12 |  | 2012-09-01 | Toundra | III |
 | 40 |  | 2012-10-30 | Neurosis | Honor Found in Decay |
+| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b50c4a0285750fe1159849f2bbccc08d.png) | 2012-11-09 | Deftones | Koi No Yokan |
 | 76 |  | 2013-01-29 | Cult of Luna | Vertikal |
 | 22 |  | 2013-03-18 | Intronaut | Habitual Levitations (Instilling Words With Tones) |
 | 14 | ![Cover](https://i.discogs.com/rpJcE9d4YLIvNmd3tOlwpxVT6yABrI-3B5I1yXOaQSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjkw/NjEtMTM2NzQ2Mzgy/MS04ODkxLmpwZWc.jpeg) | 2013-04-26 | The Ocean | Pelagial |
@@ -88,8 +89,7 @@ Last updated: <time datetime="2025-10-23T18:07:54.496Z">Thu Oct 23 2025 21:07:54
 | 28 | ![Cover](https://i.discogs.com/6rmZVSvMqGIa-fXoee5WnbjfDOM0B6flKAe71PlSeqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjAz/NzQtMTQ1OTI4NzAw/Ny03MDc3LnBuZw.jpeg) | 2016-04-01 | Bossk | Audio Noir |
 | 44 | ![Cover](https://i.discogs.com/-Urbk9jO3ZoEhTaxY070C2gwuvZce7lPJeQtuQQg79k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTY4/NjctMTQ2Mzk5NTQz/NC03MjMyLmpwZWc.jpeg) | 2016-06-10 | Sumac | What One Becomes |
 | 83 | ![Cover](https://i.discogs.com/emcGPKOv3kDxBz7DhT2ys8_HO9sD5bRO_sB0lMpAtFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTE3/NTgtMTQ3MDE4NTg2/My04NTI1LmpwZWc.jpeg) | 2016-08-05 | Russian Circles | Guidance |
-| 1 |  | 2016-10-21 | Meniscus | Refractions |
-| 4 | ![Cover](https://i.discogs.com/Iu1P5Mp4QGH9VHb8k7rJF-QVKqb2ipL4QcNa5SVOzXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzEx/NDItMTQ3NzQyOTEy/OC04MzE2LmpwZWc.jpeg) | 2016-10-28 | Ulcerate | Shrines of Paralysis |
+| 3 | ![Cover](https://i.discogs.com/Iu1P5Mp4QGH9VHb8k7rJF-QVKqb2ipL4QcNa5SVOzXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzEx/NDItMTQ3NzQyOTEy/OC04MzE2LmpwZWc.jpeg) | 2016-10-28 | Ulcerate | Shrines of Paralysis |
 | 19 | ![Cover](https://i.discogs.com/P9c_SoBeaqfRHDQsr0JP4IsAO8O-tVe7LXp0o67Fk3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDI2/NzgtMTQ4ODIzMjk3/OC0yMzIyLmpwZWc.jpeg) | 2017-03-03 | Junius | Eternal Rituals for the Accretion of Light |
 | 88 | ![Cover](https://i.discogs.com/2UR6z8ULO-5KPowAwhiwp2VYoiME_FZ3aweW6OK2pQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTAz/NDUtMTQ4OTA5MTQ4/MC05NjY0LmpwZWc.jpeg) | 2017-03-10 | Planning for Burial | Below The House |
 | 46 | ![Cover](https://i.discogs.com/xt1mGAnPiHqbnwzFEb9nIa5u_8_8F83QyLzYeYN04Ic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzEx/NjcwLTE0OTUxMjI5/OTctMzUzNC5qcGVn.jpeg) | 2017-05-26 | Sólstafir | Berdreyminn |

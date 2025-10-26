@@ -1,62 +1,68 @@
 ---
 category: genre
-date: 2025-10-20T09:42:46.735Z
+date: 2025-10-25T23:29:19.894Z
 permalink: tags/finnish
 title: finnish
 ---
 
 ## finnish
 
-Last updated: <time datetime="2025-10-20T09:42:46.735Z">Mon Oct 20 2025 12:42:46 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-25T23:29:19.894Z">Sun Oct 26 2025 02:29:19 GMT+0300 (Eastern European Summer Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 10 |  | 1989-06 | Leevi and the Leavings | Musiikkiluokka |
+| 11 |  | 1989-06 | Leevi and the Leavings | Musiikkiluokka |
 | 41 | ![Cover](https://i.discogs.com/6IyugbVLFLDtqhzMZPG-FOC7IlS-QlmkZNsmTTGCI3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMy0x/MzY5NDE5NjQ5LTUz/NTQuanBlZw.jpeg) | 1997-03-10 | Jimi Tenor | Intervision |
-| 20 | ![Cover](https://i.discogs.com/ooerATq_kZ3McV9NsOG2bNAWCjOoOst1oYdTdlW3n3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTE2/Ni0xNTExMDA3MjI1/LTc3NzcuanBlZw.jpeg) | 1997-11-20 | Him | Greatest Lovesongs Vol. 666 |
-| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f865725b6e5e4d8581150ad0f020a892.png) | 1998 | 22-Pistepirkko | Eleven |
+| 21 | ![Cover](https://i.discogs.com/ooerATq_kZ3McV9NsOG2bNAWCjOoOst1oYdTdlW3n3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTE2/Ni0xNTExMDA3MjI1/LTc3NzcuanBlZw.jpeg) | 1997-11-20 | Him | Greatest Lovesongs Vol. 666 |
+| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f865725b6e5e4d8581150ad0f020a892.png) | 1998 | 22-Pistepirkko | Eleven |
 | 44 |  | 1999 | Mokoma | Valu |
 | 34 |  | 1999-03-13 | Ultra Bra | Kalifornia |
-| 3 |  | 1999-12-19 | Him | Razorblade Romance |
-| 9 | ![Cover](https://i.discogs.com/8ZEiM1KqvncW_0kPtnUaBuXSvBTYJpYbcX-epvOh6Cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDk1/My0xNDc5OTMyODMw/LTE4OTQuanBlZw.jpeg) | 2001-02 | Zen Café | Helvetisti järkeä |
+| 4 |  | 1999-12-19 | Him | Razorblade Romance |
+| 10 | ![Cover](https://i.discogs.com/8ZEiM1KqvncW_0kPtnUaBuXSvBTYJpYbcX-epvOh6Cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDk1/My0xNDc5OTMyODMw/LTE4OTQuanBlZw.jpeg) | 2001-02 | Zen Café | Helvetisti järkeä |
 | 28 | ![Cover](https://i.discogs.com/5dvWBtOB-ZXOzChpQ8NeAEzoYRmonPd9NuzdVvAS7Lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIz/MC0xNDgwMjY3MTI3/LTU3OTguanBlZw.jpeg) | 2001-10-05 | Soul Captain Band | Jokaiselle tulta |
-| 12 |  | 2002-09 | Zen Café | Vuokralainen |
+| 13 |  | 2002-09 | Zen Café | Vuokralainen |
 | 38 | ![Cover](https://i.discogs.com/Pgvtc_i2E6GupIVxwycnLQJGH9UmzGrwTAQF5MzV158/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Nzg1/My0xMzM1MTgxNzM2/LmpwZWc.jpeg) | 2003 | Maija Vilkkumaa | Ei |
-| 17 |  | 2003-02-21 | YUP | Leppymättömät |
-| 4 |  | 2003-04-14 | Happoradio | Asemalla |
+| 18 |  | 2003-02-21 | YUP | Leppymättömät |
+| 5 |  | 2003-04-14 | Happoradio | Asemalla |
 | 23 | ![Cover](https://i.discogs.com/YgG-kH-N6pn3Vkmh3EEdAYUA4ooj_mjLmRG-pfjHqNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzky/MjktMTMzNTIwMTc3/OC5qcGVn.jpeg) | 2003-10 | Zen Café | Jättiläinen |
 | 26 |  | 2004-03-18 | Scandinavian Music Group | Nimikirjaimet |
 | 24 | ![Cover](https://i.discogs.com/70srTrXKiNAnOv8mF1nhjFXhQk6yA_VTlFzBWVWg9u8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODM4/Ny0xMTc4NTE4NDA5/LmpwZWc.jpeg) | 2004-06-21 | Risto | Risto |
-| 7 | ![Cover](https://i.discogs.com/fIl3qB_Y08ObZ88hnQ7Kx-UHfnDrnqHSeK_I6aH_Nhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDI1/MzEtMTUwNDI0ODc0/Ny0xMTUwLmpwZWc.jpeg) | 2005-03-03 | Zen Café | Laiska, tyhmä ja saamaton |
-| 2 | ![Cover](https://i.discogs.com/HZm1RVtPU3KrsT16gtYLNOuluDSEA4XgiZpAcMvk__0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzcw/OC0xNTY5MDYzODQy/LTcwMDMuanBlZw.jpeg) | 2005-07-25 | Nightwish | The Siren |
-| 18 | ![Cover](https://i.discogs.com/JhNZ1IAze02qQD_M2ADaLWyAvNVOHR9EJAGU1744mr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzkz/MDMtMTYwMDczNDcy/Ni04NDAyLmpwZWc.jpeg) | 2006 | Tarja | Henkays Ikuisuudesta |
-| 15 |  | 2006-02-15 | Eläkeläiset | Humppasirkus |
+| 8 | ![Cover](https://i.discogs.com/fIl3qB_Y08ObZ88hnQ7Kx-UHfnDrnqHSeK_I6aH_Nhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDI1/MzEtMTUwNDI0ODc0/Ny0xMTUwLmpwZWc.jpeg) | 2005-03-03 | Zen Café | Laiska, tyhmä ja saamaton |
+| 3 | ![Cover](https://i.discogs.com/HZm1RVtPU3KrsT16gtYLNOuluDSEA4XgiZpAcMvk__0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzcw/OC0xNTY5MDYzODQy/LTcwMDMuanBlZw.jpeg) | 2005-07-25 | Nightwish | The Siren |
+| 19 | ![Cover](https://i.discogs.com/JhNZ1IAze02qQD_M2ADaLWyAvNVOHR9EJAGU1744mr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzkz/MDMtMTYwMDczNDcy/Ni04NDAyLmpwZWc.jpeg) | 2006 | Tarja | Henkays Ikuisuudesta |
+| 16 |  | 2006-02-15 | Eläkeläiset | Humppasirkus |
 | 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4e7b8fe4f3dd4154c1bad3f63d5b43bb.png) | 2006-05-09 | Leningrad Cowboys | Zombies Paradise |
 | 35 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c57a92cbd50e9ecb99703d0939b59cc5.png) | 2006-08-16 | Maj Karma | Ukkonen |
+| 1 | ![Cover](https://i.discogs.com/d2p-3BFCpFnCC9Lw4UrbeC3yO3744vJxePyKUEIF3PU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA1/NzUtMTUxNDE1NzE4/Ni01OTQyLmpwZWc.jpeg) | 2006-08-25 | Poisonblack | Lust Stained Despair |
 | 43 |  | 2006-09-12 | Zen Café | Stop |
 | 37 |  | 2006-10-25 | Asa | Terveisiä Kaaoksesta |
 | 47 |  | 2007-03-28 | Irina | Liiba Laaba |
 | 36 | ![Cover](https://i.discogs.com/GRT4wmSp_rCi_o54OFOQJsuUoSbhc92Fj_pho6S40h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY2/OTUtMTE5MDMxODcz/Mi5qcGVn.jpeg) | 2007-09-26 | Pyhimys | Salainen Maailma |
 | 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3bf33055575b4fbeb21ca57fda733cd8.png) | 2008-05-18 | Brother Firetribe | Heart Full of Fire |
-| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5d8cc3243bdd7449f1855705f83c0c71.png) | 2008-08-13 | Haloo Helsinki! | Haloo Helsinki! |
-| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/62a576030a084319991d14257ad26c10.png) | 2008-08-13 | Kotiteollisuus | Sotakoira |
+| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5d8cc3243bdd7449f1855705f83c0c71.png) | 2008-08-13 | Haloo Helsinki! | Haloo Helsinki! |
+| 17 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/62a576030a084319991d14257ad26c10.png) | 2008-08-13 | Kotiteollisuus | Sotakoira |
 | 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8b5e6f3f9723489cb8401ddf1ef0f468.png) | 2008-08-18 | Indica | Valoissa |
 | 46 | ![Cover](https://i.discogs.com/Ss5lRAjckNaWVHzHXSgRI6kvI6qGpgNL8CFMBXNNR50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQ5/MjQtMTYwMzY0MzMz/Ny04MDc3LmpwZWc.jpeg) | 2009 | Ensiferum | Iron (2009 Edition) |
 | 32 |  | 2009-02-10 | Burning Hearts | Aboa Sleeping |
-| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c5c7e5cf8ca84293b2fd8a2617b001bd.png) | 2009-03-04 | Uniklubi | Syvään valoon |
+| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c5c7e5cf8ca84293b2fd8a2617b001bd.png) | 2009-03-04 | Uniklubi | Syvään valoon |
 | 49 |  | 2009-03-26 | Scandinavian Music Group | Palatkaa Pariisiin! |
 | 48 |  | 2009-06-20 | The Gentleman Losers | Dustland |
-| 19 |  | 2009-08-24 | Insomnium | Where the Last Wave Broke |
-| 8 |  | 2009-08-28 | Haloo Helsinki! | Enemmän kuin elää |
+| 20 |  | 2009-08-24 | Insomnium | Where the Last Wave Broke |
+| 9 |  | 2009-08-28 | Haloo Helsinki! | Enemmän kuin elää |
 | 39 |  | 2010-05-10 | Pariisin Kevät | Astronautti |
 | 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f6163add16ca4e89a3149ab82f391949.png) | 2010-08-20 | Apocalyptica | 7th Symphony |
 | 31 |  | 2010-09-22 | Cheek | Jare Henrik Tiihonen |
-| 1 |  | 2017-01-06 | Anki | Circadian |
-| 5 | ![Cover](https://i.discogs.com/U6VjP2hLtNQWde43r4PjgNne33dA9BO5DgtA2D5CtBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTM2/MTEzLTE1OTM4NTEz/NDQtOTU2Mi5qcGVn.jpeg) | 2020-06-26 | Ruusut | Kevätuhri |
-| 13 |  |  | Steve ´n´ Seagulls | Farm Machine |
-| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ee9c2ccc5770ec3a10e606bd631ba310.png) |  | Haloo Helsinki! | Älä pelkää elämää |
+| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b00ddf8d8fd7404f90ae24b46b617774.png) | 2010-10-11 | Happoradio | Puolimieli |
+| 40 |  | 2012-10-12 | Mokoma | Punamultaa |
+| 45 | ![Cover](https://i.discogs.com/mfR6boJK6qYP9AglydE6RdCWNsVhyMNOqch_y5n_Wlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MzA1/NjQtMTM3OTc3Nzc2/My0xOTAwLmpwZWc.jpeg) | 2013-09-20 | Sanni | Sotke mut |
+| 25 | ![Cover](https://i.discogs.com/g37VXikMoMrb6jOveRT5JXEcuscLRqOkKqrD-dGiEXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MzQy/MTYtMTQyOTg2MTI3/NC00NjYyLmpwZWc.jpeg) | 2015-04-24 | Sanni | Lelu |
+| 2 |  | 2017-01-06 | Anki | Circadian |
+| 27 | ![Cover](https://i.discogs.com/jKUvCJEX6CWnkGe4WWt3lPDCgnfq7w5tw3JRyAKTuG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU3/Nzg1LTE1MTI4NzMz/NTQtNzE2NS5qcGVn.jpeg) | 2017-12-08 | The Gentleman Losers | Permanently Midnight |
+| 6 | ![Cover](https://i.discogs.com/U6VjP2hLtNQWde43r4PjgNne33dA9BO5DgtA2D5CtBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTM2/MTEzLTE1OTM4NTEz/NDQtOTU2Mi5qcGVn.jpeg) | 2020-06-26 | Ruusut | Kevätuhri |
+| 14 |  |  | Steve ´n´ Seagulls | Farm Machine |
+| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ee9c2ccc5770ec3a10e606bd631ba310.png) |  | Haloo Helsinki! | Älä pelkää elämää |
 | 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c5507271b4ba452a90177075afc14bde.png) | 1996-09-12 | Eppu Normaali | Repullinen hittejä |
 | 63 |  | 1997-01-01 | Ultra Bra | Kroketti |
 | 79 |  | 2001 | The Crash | Wildlife |
@@ -92,21 +98,15 @@ Last updated: <time datetime="2025-10-20T09:42:46.735Z">Mon Oct 20 2025 12:42:46
 | 87 |  | 2009-04-16 | Anna Puu | Anna Puu |
 | 90 |  | 2009-09-21 | Chisu | Vapaa ja yksin |
 | 61 | ![Cover](https://i.discogs.com/9Km5tYsfHA03DDf_rQwwYrZKWZmGNxOik_PduTLWeFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDQ4/NzUtMTYxMTkyMzg2/Mi02OTgwLmpwZWc.jpeg) | 2010-06-02 | Indica | A Way Away |
-| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b00ddf8d8fd7404f90ae24b46b617774.png) | 2010-10-11 | Happoradio | Puolimieli |
 | 83 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3e03683182e9450cc5c03dfa1c5ec45f.png) | 2010-10-27 | Snow White&#39;s Poison Bite | The Story Of Kristy Killings |
 | 52 |  | 2010-11-29 | Michael Cassette | Temporarity |
 | 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cd1bbe37d7394417aefaa4b6276a387b.png) | 2011-02-25 | Haloo Helsinki! | III |
-| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/20c51ba1ad904f5e8ab45779c55dbe05.png) | 2012-07-20 | Poets of the Fall | Temple of Thought (Bonus Edition) |
-| 40 |  | 2012-10-12 | Mokoma | Punamultaa |
 | 58 |  | 2012-11-30 | PÄÄ KII | PÄÄ KII |
-| 45 | ![Cover](https://i.discogs.com/mfR6boJK6qYP9AglydE6RdCWNsVhyMNOqch_y5n_Wlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MzA1/NjQtMTM3OTc3Nzc2/My0xOTAwLmpwZWc.jpeg) | 2013-09-20 | Sanni | Sotke mut |
 | 88 |  | 2014-10-03 | Haloo Helsinki! | Kiitos ei ole kirosana |
-| 25 | ![Cover](https://i.discogs.com/g37VXikMoMrb6jOveRT5JXEcuscLRqOkKqrD-dGiEXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MzQy/MTYtMTQyOTg2MTI3/NC00NjYyLmpwZWc.jpeg) | 2015-04-24 | Sanni | Lelu |
 | 94 | ![Cover](https://i.discogs.com/8hvlGKT3dez03G8hniTPCwAZIfyhYdOrZIPp54UF5ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzM1/MDAtMTQ4MTIwMTI4/Mi03OTEyLmpwZWc.jpeg) | 2016 | Alma | Dye My Hair |
 | 96 | ![Cover](https://i.discogs.com/1dsOcGY_RkvVSisvpK_Rk-f8JlArNqgD3HNzcTnVJps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTMw/ODUtMTUxNTg3NjM5/MC03OTQyLmpwZWc.jpeg) | 2016 | Arion | At The Break Of Dawn (feat. Elize Ryd) |
 | 77 | ![Cover](https://i.discogs.com/veIEcC-ZkWsHyc1GhWwvdX7XwXapZ_SQmGnzTR6x9uE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjMz/NjktMTQ1NTU2ODU2/Ni0xNjgyLmpwZWc.jpeg) | 2016-02-10 | Sanni | Että mitähän vittua |
 | 71 | ![Cover](https://i.discogs.com/PMYP2jPrbamJMnV_sLIxgjWIgkNdeNP2dx9ZwaUgVCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzU4/MzAtMTU5MDE2Njk5/My05MTY0LmpwZWc.jpeg) | 2016-02-17 | Omnium Gatherum | Blade Reflections |
-| 27 | ![Cover](https://i.discogs.com/jKUvCJEX6CWnkGe4WWt3lPDCgnfq7w5tw3JRyAKTuG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU3/Nzg1LTE1MTI4NzMz/NTQtNzE2NS5qcGVn.jpeg) | 2017-12-08 | The Gentleman Losers | Permanently Midnight |
 | 82 | ![Cover](https://i.discogs.com/K0cNZX9VVFrTpNmOyv67C9EJFtn47-Dr2e41q3dD5yk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTEz/MDU4LTE2ODQzODkw/OTgtNzcxMC5qcGVn.jpeg) | 2020-02-07 | Käärijä | Fantastista |
 | 53 | ![Cover](https://i.discogs.com/fwBVkcPLGZ2X9jMLcOZDsKqFAFiNJA73Mz-u7K7mJ0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/NDg0LTE1ODQxODQ1/MjUtMTA0OC5qcGVn.jpeg) | 2020-02-29 | WARMOON LORD | Pure Cold Impurity |
 | 55 | ![Cover](https://i.discogs.com/kmSmOj3Iuu_qhKOGal2jeXB8G6iy7v5H6auHVtiX9T8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMx/NDc3LTE2MDA0MzE4/NzQtMTMzOS53ZWJw.jpeg) | 2020-09-18 | BEHM | Draaman kaari viehättää |

@@ -1,24 +1,26 @@
 ---
 category: genre
-date: 2025-10-24T01:21:46.079Z
+date: 2025-10-26T00:24:41.183Z
 permalink: tags/liverpool
 title: liverpool
 ---
 
 ## liverpool
 
-Last updated: <time datetime="2025-10-24T01:21:46.079Z">Fri Oct 24 2025 04:21:46 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-26T00:24:41.183Z">Sun Oct 26 2025 03:24:41 GMT+0300 (Eastern European Summer Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 2 |  |  | Jack Gillbanks | The Jack Gillbanks EP |
-| 4 |  |  | Psychedelic Blue Ox | Rainbow&#39;s Tail E.P |
-| 5 |  |  | Row Z | Green Penny EP |
-| 7 |  |  | Edric man | The Night Of The Pickpocket EP |
-| 8 |  |  | Jessica McFarland | 2007 |
-| 13 |  |  | grahamjennings | the amber room - Graham Jennings |
+| 2 |  |  | Edric man | The Night Of The Pickpocket EP |
+| 51 | ![Cover](https://i.discogs.com/ERi3YTDQqOwcG3WHo2O0EajIJFmbloYWSuFGRvvsjGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE5/MjYzLTE1MDEwNjky/NjYtOTAwMS5qcGVn.jpeg) | 1964 | The Spinners | Maggie May |
+| 54 | ![Cover](https://i.discogs.com/xIFzbJeSV52aUdK-o1yp0FnbDABTJsMgtKTmOXI70vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/NzktMTM2NTY0NjIy/MS02ODgyLmpwZWc.jpeg) | 1971-04 | The Liverpool Fishermen | Swallow the Anchor |
+| 3 |  | 2008-06-02 | Earl Grey and The Legomen | Last Summer |
+| 4 |  |  | Jack Gillbanks | The Jack Gillbanks EP |
+| 9 |  |  | Row Z | Green Penny EP |
+| 10 |  |  | Music2Think | 3R&#x3D;NOT ENOUGH |
+| 11 |  |  | grahamjennings | the amber room - Graham Jennings |
 | 16 |  |  | grace falls music | Restless |
 | 17 |  |  | Fallen Streams | Lookin&#39; Up |
 | 18 |  |  | fave muslim | █ █ Fave Muslim █ █ |
@@ -34,21 +36,19 @@ Last updated: <time datetime="2025-10-24T01:21:46.079Z">Fri Oct 24 2025 04:21:46
 | 42 |  |  | The Cubical | The Things You Throw Away - Live, Rare &amp; Raw 2004-2009 |
 | 45 | ![Cover](https://i.discogs.com/u8kixoIUuMdtDQ_1bowb4rT7vCVRzafmDGsUrEAdEm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzQ3/NDktMTM1NDgyNDE4/NC0xODY2LmpwZWc.jpeg) | 1963-12-00 | Merseybeats | I Think Of You |
 | 50 |  |  | Burning Astronomers | Kings Of England |
-| 15 | ![Cover](https://i.discogs.com/OqFnrIiHAjVcitmq8UBkpX245fiQ2L4Hn9EauInR1yI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjI5/ODEtMTQ3MDMzMDc5/MS00MjE0LnBuZw.jpeg) | 1964 | Billy J Kramer &amp; The Dakotas | ...At Abbey Road |
-| 51 | ![Cover](https://i.discogs.com/ERi3YTDQqOwcG3WHo2O0EajIJFmbloYWSuFGRvvsjGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE5/MjYzLTE1MDEwNjky/NjYtOTAwMS5qcGVn.jpeg) | 1964 | The Spinners | Maggie May |
-| 54 | ![Cover](https://i.discogs.com/xIFzbJeSV52aUdK-o1yp0FnbDABTJsMgtKTmOXI70vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/NzktMTM2NTY0NjIy/MS02ODgyLmpwZWc.jpeg) | 1971-04 | The Liverpool Fishermen | Swallow the Anchor |
 | 55 |  |  | Hock Tu Down &amp; Tony Broke | Reklews Presents: Red Tape |
 | 56 |  |  | davajonah | davambient |
 | 62 |  |  | Major Discord | White Lip |
 | 75 | ![Cover](https://i.discogs.com/hsQJDfkchPoC1AwluJiI3ue9dGeOhXBFy53tIx-J7vw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDgx/NjktMTQwMDI2OTc3/NC05MTUyLmpwZWc.jpeg) | 1963-11-22 | The Big Three | At The Cavern |
 | 84 |  |  | Bonnie Tyler &amp; Meatloaf | Heaven and Hell |
+| 15 | ![Cover](https://i.discogs.com/OqFnrIiHAjVcitmq8UBkpX245fiQ2L4Hn9EauInR1yI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjI5/ODEtMTQ3MDMzMDc5/MS00MjE0LnBuZw.jpeg) | 1964 | Billy J Kramer &amp; The Dakotas | ...At Abbey Road |
 | 91 | ![Cover](https://i.discogs.com/8qjavD4TyIor4fS99s9HuS52Dv_eDWxhFKu5uS4mpQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzMz/OTAtMTI4Mjk5OTUw/My5qcGVn.jpeg) | 1969-01 | The Koobas | Koobas |
 | 53 | ![Cover](https://i.discogs.com/DBd47DTMPfWaAzOjk8vRDCwFg_oas5ZI_sF8YQ8Smt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjM1/NzItMTYwMjQxMTQ3/NS0yODY1LmpwZWc.jpeg) | 1972 | The 66 | Vibe E.P 2009 |
 | 57 | ![Cover](https://i.discogs.com/qvDrt6z-Do4DS7ThxE40bqAWjrvIBkwOP3M7R4NiBSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzM4/MDYtMTI1MzQzMjY5/Ny5qcGVn.jpeg) | 1976 | Led Zeppelin | One For The M6 |
 | 47 | ![Cover](https://i.discogs.com/QUJUXB9yBVSPWKcWoJweFZnR4OXiwS6p8x3nP-GS_aY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTk3/My0xNDYwMzAyOTAy/LTU1MzguanBlZw.jpeg) | 1980 | Lori &amp; The Chameleons | The Lonely Spy |
 | 20 | ![Cover](https://i.discogs.com/hNvis4JbiVCHH0QtMJX3HwDawf9jDbQoldBRHz0J-YQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDUw/NTctMTQ4NjM2OTQ2/OS01Mzk1LmpwZWc.jpeg) | 1984 | Billy J Kramer &amp; The Dakotas | The Very Best Of |
-| 1 |  | 1986 | The Ministry Of Love | Burnin&#39; and Lootin&#39; |
-| 9 |  | 1986 | The Ministry Of Love | Burnin&#39; and Lootin&#39; - EP |
+| 5 |  | 1986 | The Ministry Of Love | Burnin&#39; and Lootin&#39; |
+| 6 |  | 1986 | The Ministry Of Love | Burnin&#39; and Lootin&#39; - EP |
 | 26 | ![Cover](https://i.discogs.com/DBd47DTMPfWaAzOjk8vRDCwFg_oas5ZI_sF8YQ8Smt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjM1/NzItMTYwMjQxMTQ3/NS0yODY1LmpwZWc.jpeg) | 1987 | The 66 | Vibe Recordings Studios |
 | 97 | ![Cover](https://i.discogs.com/QQDBlRN5Ktas7SDTF1uuurzN5vZdwQeTXIUk2es5gp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTE5/OTMtMTQ3NzM5OTkx/NS01NzIxLmpwZWc.jpeg) | 1987 | Stone | Let&#39;s Dance To The Real Thing |
 | 95 | ![Cover](https://i.discogs.com/yerWnsr19n9JZJE3xdGg-PKl1ZiXLWsDbc1EHHdZcwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzY0/OS0xNjUzODI0ODY3/LTczMTQuanBlZw.jpeg) | 1988 | John Lennon | Working Class Hero - The Definitive Lennon |
@@ -65,7 +65,7 @@ Last updated: <time datetime="2025-10-24T01:21:46.079Z">Fri Oct 24 2025 04:21:46
 | 92 | ![Cover](https://i.discogs.com/SNpUrnPVi8PProA3mMzRf4Y5bh9YApJOfsIPj4R1kJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTM2/NS0xNDYwMTI3NzY2/LTg3NDkuanBlZw.jpeg) | 1995-09-25 | Electrafixion | Burned |
 | 78 | ![Cover](https://i.discogs.com/CR8zJS87Y6xpH0GcZGgGVaUOC7LbGo544p4JYd9H9XM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzU0/MC0xMTY3OTIzNzA3/LmpwZWc.jpeg) | 1998-03-02 | Michael Head &amp; The Strands | Magical World of the Strands |
 | 59 |  | 1998-09-12 | Rooney | Time On Their Hands |
-| 6 |  | 2000 | Rita de Cassia | Voz E Violao Vol. 1 |
+| 7 |  | 2000 | Rita de Cassia | Voz E Violao Vol. 1 |
 | 28 | ![Cover](https://i.discogs.com/5PtlipRzaWusDuP225NWoh9T6hqEdMSlxPKrjrCdnBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY4/NTcwLTE2MjI1NDM1/NzMtMjE3NC5qcGVn.jpeg) | 2001 | Waste | Songs You&#39;ve Never Heard |
 | 73 | ![Cover](https://i.discogs.com/wTA4-IzIIyUHjI0-AQRtwCWyy_eads_ivjIB9ya9mFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEw/NDcyLTE2MjM0ODYw/OTAtMzcyOS5qcGVn.jpeg) | 2002 | Echo &amp; the Bunnymen | 2001-08-17: Liverpool, UK |
 | 100 |  | 2002-02-11 | Echo &amp; the Bunnymen | Live In Liverpool |
@@ -93,7 +93,7 @@ Last updated: <time datetime="2025-10-24T01:21:46.079Z">Fri Oct 24 2025 04:21:46
 | 81 | ![Cover](https://i.discogs.com/1o6a1PE88H1KiN_GGixckCWA2krsFjK7tUjf3rLYGKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDY4/NDAtMTM1OTYyNTU5/Mi0zNjMwLmpwZWc.jpeg) | 2008-02 | goFASTER&gt;&gt; | Flammable Leisurewear |
 | 43 | ![Cover](https://i.discogs.com/32ryPVzttgjoOB2PlXZIaKOxHtSlF67_1N7bzsG9vlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQ5/OTYtMTIzODE0MTMy/NC5qcGVn.jpeg) | 2008-06-02 | Earl Grey and The Legomen | The Unsettling Time EP |
 | 23 | ![Cover](https://i.discogs.com/tWeIM8Tx5-5kYaSJSJAHdwprqIEkiigFxHfSfSfHgZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTkz/MDAtMTM5OTE5ODUy/Ni04MTM2LmpwZWc.jpeg) | 2008-09-01 | Rob Clarke | Long Way North |
-| 11 |  | 2009 | Somos Muchos | Dawn of the Chavs |
+| 13 |  | 2009 | Somos Muchos | Dawn of the Chavs |
 | 49 | ![Cover](https://i.discogs.com/dnutsQPkshU4uZ4DUdQcrgQzXLbmH1DV2afr9atNeco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE3/NjA4LTE1MTU5NjM2/NjMtMjAxMi5qcGVn.jpeg) | 2010 | Triple M | Over You |
 | 61 | ![Cover](https://i.discogs.com/h1_CLLkO5sUWPYK6GYllLYQt9tdg52j4cbAqjwvWH1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQ2/MTYzLTE2NDI4NzMy/OTktNzI2MS5qcGVn.jpeg) | 2010 | The Sand Band | Love Will Save Us I Hope |
 | 89 | ![Cover](https://i.discogs.com/Hqn_dy65dHsoRA2LgCBdpgpfan_R47_yVGtYrhjRuWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTkz/MTctMTQ3MzM2OTQ3/Ni0xMzQ0LmpwZWc.jpeg) | 2010 | Parangolé | Rebolation |
@@ -104,10 +104,10 @@ Last updated: <time datetime="2025-10-24T01:21:46.079Z">Fri Oct 24 2025 04:21:46
 | 25 | ![Cover](https://i.discogs.com/WqyecQOioYn4ZDo25KGJI8BFCfQItB0zCpOMAXZKS4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTE2/NTAtMTQyMjY5Mzg1/NS01ODYwLmpwZWc.jpeg) | 2013-08-10 | River Caves | Skin Walker EP |
 | 90 | ![Cover](https://i.discogs.com/HP7pF8bDHe2cTg9HtK4gdIcwZi4494xzhDnrJriTU6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM5/NzUtMTM4NjgwMDc2/OS0xNjI1LmpwZWc.jpeg) | 2013-12-11 | Melanie C | Live At Shepherd&#39;s Bush Empire |
 | 37 |  | 2014-12-01 | Kid Kin | Orange County EP |
-| 10 |  | 2016 | The Floormen | Demos |
+| 1 |  | 2016 | The Floormen | Demos |
 | 87 | ![Cover](https://i.discogs.com/o6yH4wu92_KmyforaWbck9WdRmRD9b8nhHh02p41gEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTI0/NTgtMTQ4MTUxMjQ3/MC00MzMxLmpwZWc.jpeg) | 2016-12-09 | Howie Payne | Bright Light Ballads |
 | 64 | ![Cover](https://i.discogs.com/dDAR1CyfeICIJ7TO-wqqHyGyfDeWL-8wJh8sgUqi4tM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg2/MjQ5LTE1Njk0ODI3/OTktNTQ5My5qcGVn.jpeg) | 2017-06-30 | Ex Norwegian | Sing Jimmy Campbell |
-| 3 |  | 2017-10-27 | Howie Payne | Howie Payne - Demos &#39;13 |
+| 8 |  | 2017-10-27 | Howie Payne | Howie Payne - Demos &#39;13 |
 | 22 | ![Cover](https://i.discogs.com/MGo432buWfP4TwS2A2Tmgk0Ix8A8pWf5OXHZ8ZgxfHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDM3/OTg0LTE1MTYzMjI1/NjYtMTgwOS5qcGVn.jpeg) | 2017-10-27 | Howie Payne | Demos &#39;13 |
 | 77 | ![Cover](https://i.discogs.com/3BvPPD99vxnqUiyLk5yYjcHGH_3GSd07gqPrgvlpBoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTAw/NTU0LTE1NDgwNzA4/OTgtMjA1Ni5qcGVn.jpeg) | 2018 | Marc Vormawah | Over You |
 | 40 | ![Cover](https://i.discogs.com/h102rfcQjeSmyPM7CfCAROO1J4aUHpvgbhcZdSrioTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY2/NzU3LTE1OTM3NDQ3/MjgtNDkwMy5qcGVn.jpeg) | 2020-05-22 | Melic | Nowhere I&#39;d Rather Be &#x2F; Followers |

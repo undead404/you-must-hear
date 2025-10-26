@@ -1,65 +1,67 @@
 ---
 category: genre
-date: 2025-10-20T03:47:56.347Z
+date: 2025-10-25T15:47:45.341Z
 permalink: tags/slowcore
 title: slowcore
 ---
 
 ## slowcore
 
-Last updated: <time datetime="2025-10-20T03:47:56.347Z">Mon Oct 20 2025 06:47:56 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-25T15:47:45.341Z">Sat Oct 25 2025 18:47:45 GMT+0300 (Eastern European Summer Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 20 | ![Cover](https://i.discogs.com/mpuFGbmqXAT1kQDfQFhwgrRqlPkAt3RDFrLeow3FrXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjYz/MDktMTU5ODgyODgy/Ny05NDI3LmpwZWc.jpeg) | 1993-09-13 | Seam | The Problem With Me |
-| 30 | ![Cover](https://i.discogs.com/Zw6pker8HZ3ca2bNhXmXAr_bITDAY_Q7yKUZ9M76xH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTY2/NS0xMjE1NDk2Mjg1/LmpwZWc.jpeg) | 1994 | Lisa Germano | Geek the Girl |
-| 36 |  | 1994 | Codeine | The White Birch |
-| 34 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e85c03a1167f32c497ee4f470f490846.png) | 1994-04-04 | Bedhead | WhatFunLifeWas |
-| 12 |  | 1995 | Bluetile Lounge | Lowercase |
-| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a5d568b3790b24a79217e89739f6adbb.png) | 1995-05-23 | Low | Long Division |
-| 14 | ![Cover](https://i.discogs.com/BHSfPPZs7_DzywC11oSRYbJraBSNgWzvU_kjUym9b7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTEz/OC0xMjUwOTMxMjQ3/LmpwZWc.jpeg) | 1995-09-11 | Spain | The Blue Moods of Spain |
-| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9d3745e118d80c5fea4b4d87f60a0481.png) | 1996-06-16 | Bedhead | Beheaded |
-| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6ffe2100d4539266ce0d841f3a1ceb3a.png) | 1996-08-13 | Low | The Curtain Hits The Cast |
-| 22 |  | 1996-08-20 | The American Analog Set | The Fun of Watching Fireworks |
-| 5 |  | 1997-05-20 | Smog | Red Apple Falls |
-| 13 |  | 1997-07-01 | The American Analog Set | From Our Living Room to Yours |
-| 3 | ![Cover](https://i.discogs.com/4qhov_w-5KPPyltZvGFHexMiMLMy4K-oPwDoYWhjPH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzI2/NDg2LTE2ODk4MTg0/MTItNzkyOC5qcGVn.jpeg) | 1998-01-01 | Sugar Plant | HAPPY |
-| 38 |  | 1998-09-22 | Cat Power | Moon Pix |
-| 21 |  | 1998-11-03 | Karate | The Bed Is in the Ocean |
-| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a586760e6f8b47219da5ed00633c5b27.png) | 1999-02-22 | Tram | Heavy Black Frame |
-| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d161815cf609589397bb0705c346c6f9.png) | 1999-07-06 | The American Analog Set | The Golden Band |
-| 23 | ![Cover](https://i.discogs.com/iZILJvPLISfJ517XwV4ADUrfndHg-V9bLFUsrlOP1Js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTc3/My0xNDYzNDIyNTQy/LTcwMTQuanBlZw.jpeg) | 2000 | Death Cab for Cutie | The Death Cab for Cutie Forbidden Love EP |
-| 17 |  | 2000-04-04 | The For Carnation | The For Carnation |
-| 15 | ![Cover](https://i.discogs.com/Cy2Ey24sP-LOtODYfHv_LEhuaPuyDhph1_Tuz75cKpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzEx/OS0xMTU4NDg3NTE4/LmpwZWc.jpeg) | 2000-05-15 | Mojave 3 | Excuses For Travellers |
-| 33 |  | 2000-11-14 | Songs: Ohia | Ghost Tropic |
-| 44 |  |  | Valium Aggelein | Black Moon |
-| 31 |  | 2001 | Carissa&#39;s Wierd | You Should Be at Home Here |
-| 32 |  | 2002-09-23 | Low | Trust |
-| 2 |  | 2002-11-04 | The White Birch | Star Is Just A Sun |
-| 37 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bddae7275ac7de7a70a044734d953069.png) | 2003-06-23 | The American Analog Set | Promise of Love |
+| 18 | ![Cover](https://i.discogs.com/mpuFGbmqXAT1kQDfQFhwgrRqlPkAt3RDFrLeow3FrXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjYz/MDktMTU5ODgyODgy/Ny05NDI3LmpwZWc.jpeg) | 1993-09-13 | Seam | The Problem With Me |
+| 28 | ![Cover](https://i.discogs.com/Zw6pker8HZ3ca2bNhXmXAr_bITDAY_Q7yKUZ9M76xH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTY2/NS0xMjE1NDk2Mjg1/LmpwZWc.jpeg) | 1994 | Lisa Germano | Geek the Girl |
+| 35 |  | 1994 | Codeine | The White Birch |
+| 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e85c03a1167f32c497ee4f470f490846.png) | 1994-04-04 | Bedhead | WhatFunLifeWas |
+| 10 |  | 1995 | Bluetile Lounge | Lowercase |
+| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a5d568b3790b24a79217e89739f6adbb.png) | 1995-05-23 | Low | Long Division |
+| 12 | ![Cover](https://i.discogs.com/BHSfPPZs7_DzywC11oSRYbJraBSNgWzvU_kjUym9b7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTEz/OC0xMjUwOTMxMjQ3/LmpwZWc.jpeg) | 1995-09-11 | Spain | The Blue Moods of Spain |
+| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9d3745e118d80c5fea4b4d87f60a0481.png) | 1996-06-16 | Bedhead | Beheaded |
+| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6ffe2100d4539266ce0d841f3a1ceb3a.png) | 1996-08-13 | Low | The Curtain Hits The Cast |
+| 20 |  | 1996-08-20 | The American Analog Set | The Fun of Watching Fireworks |
+| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/15afc61598b677acd386c1d4b3289a02.png) | 1996-10 | Stina Nordenstam | Dynamite |
+| 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/07eced09ad9a5cb9443e6c56b0273a2b.png) | 1996-10-17 | Mazzy Star | Among My Swan |
+| 3 |  | 1997-05-20 | Smog | Red Apple Falls |
+| 11 |  | 1997-07-01 | The American Analog Set | From Our Living Room to Yours |
+| 1 | ![Cover](https://i.discogs.com/4qhov_w-5KPPyltZvGFHexMiMLMy4K-oPwDoYWhjPH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzI2/NDg2LTE2ODk4MTg0/MTItNzkyOC5qcGVn.jpeg) | 1998-01-01 | Sugar Plant | HAPPY |
+| 37 |  | 1998-09-22 | Cat Power | Moon Pix |
+| 19 |  | 1998-11-03 | Karate | The Bed Is in the Ocean |
+| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a586760e6f8b47219da5ed00633c5b27.png) | 1999-02-22 | Tram | Heavy Black Frame |
+| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d161815cf609589397bb0705c346c6f9.png) | 1999-07-06 | The American Analog Set | The Golden Band |
+| 22 | ![Cover](https://i.discogs.com/iZILJvPLISfJ517XwV4ADUrfndHg-V9bLFUsrlOP1Js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTc3/My0xNDYzNDIyNTQy/LTcwMTQuanBlZw.jpeg) | 2000 | Death Cab for Cutie | The Death Cab for Cutie Forbidden Love EP |
+| 15 |  | 2000-04-04 | The For Carnation | The For Carnation |
+| 13 | ![Cover](https://i.discogs.com/Cy2Ey24sP-LOtODYfHv_LEhuaPuyDhph1_Tuz75cKpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzEx/OS0xMTU4NDg3NTE4/LmpwZWc.jpeg) | 2000-05-15 | Mojave 3 | Excuses For Travellers |
+| 31 |  | 2000-11-14 | Songs: Ohia | Ghost Tropic |
+| 29 |  | 2001 | Carissa&#39;s Wierd | You Should Be at Home Here |
+| 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ac276ffb7ad849a89d79db56e4e0000d.png) | 2001-09-04 | The American Analog Set | Know by Heart |
+| 30 |  | 2002-09-23 | Low | Trust |
+| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bddae7275ac7de7a70a044734d953069.png) | 2003-06-23 | The American Analog Set | Promise of Love |
 | 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f246b0d896f94e5abe321b3f6965a421.png) | 2005-09-05 | The American Analog Set | Set Free |
-| 28 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a94c3770e4754cd101c1d973f5c13ed0.png) | 2006-02-24 | Eiafuawn | Birds in the Ground |
-| 10 |  | 2006-09-05 | Pinback | Nautical Antiques |
+| 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a94c3770e4754cd101c1d973f5c13ed0.png) | 2006-02-24 | Eiafuawn | Birds in the Ground |
+| 8 |  | 2006-09-05 | Pinback | Nautical Antiques |
 | 49 |  | 2007-03-20 | Low | Drums and Guns |
-| 18 | ![Cover](https://i.discogs.com/5XJEnnPQEr0QOrHebbpdtPKO2rzlnSFLUsQTtk1NE1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDU4/NTctMTM2Nzk1Nzk5/Ni04MTE0LnBuZw.jpeg) | 2007-10-28 | The Antlers | Cold War |
-| 25 |  | 2007-12-27 | Helvetia | The Acrobats |
+| 16 | ![Cover](https://i.discogs.com/5XJEnnPQEr0QOrHebbpdtPKO2rzlnSFLUsQTtk1NE1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDU4/NTctMTM2Nzk1Nzk5/Ni04MTE0LnBuZw.jpeg) | 2007-10-28 | The Antlers | Cold War |
+| 24 |  | 2007-12-27 | Helvetia | The Acrobats |
 | 48 |  | 2008-11-11 | True Widow | True Widow |
-| 35 |  | 2009-10-23 | Amenra | Afterlife |
-| 6 | ![Cover](https://i.discogs.com/PhvjNMY66fZcTMKWt9pKhKAsdvIpkpCDr6iFWzB_O2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjUz/MzEwLTE0OTQxNjUw/NjgtMjQ5NC5qcGVn.jpeg) | 2010 | Helvetia | Gladness (2001-2006) |
+| 34 |  | 2009-10-23 | Amenra | Afterlife |
+| 4 | ![Cover](https://i.discogs.com/PhvjNMY66fZcTMKWt9pKhKAsdvIpkpCDr6iFWzB_O2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjUz/MzEwLTE0OTQxNjUw/NjgtMjQ5NC5qcGVn.jpeg) | 2010 | Helvetia | Gladness (2001-2006) |
 | 46 | ![Cover](https://i.discogs.com/h7Cf8ObcKQd2gU5HTXEQunqkqpAe6NYAkU2ZQgqp5Rs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQ0/MzQtMTMxNDQ5NjM2/MS5qcGVn.jpeg) | 2011-08 | Grouper | Water People 7&quot; |
-| 41 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6ebf500e7934e3af1d1a273ab857ed7f.png) | 2012-04-25 | Good Night &amp; Good Morning | Narrowing Type |
-| 11 | ![Cover](https://i.discogs.com/nsLzI6wsL4Nr6wU3BdT2iowiiTerAVcRvNB8DtTI9XE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTE1/MDUtMTQ3MzkyNTk3/Ni03NzQyLmpwZWc.jpeg) | 2016-09-23 | True Widow | AVVOLGERE |
-| 19 | ![Cover](https://i.discogs.com/psHPBS1fEgeMqdt7IkuAzAe_HRu0eyShPXA2J-hF4IQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIy/NDAxLTE1MjI5NzU4/NzctNDk5NS5qcGVn.jpeg) | 2018-04-06 | Attic Abasement | Dancing Is Depressing (Expanded Edition) |
-| 26 | ![Cover](https://i.discogs.com/Xo28Rv2CFf1nT1Ugpk9osQCxMLWd3qBcWCElsyH0ErM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc3/MDE4LTE1Mjc4MzEz/MjktMTkyNC5qcGVn.jpeg) | 2018-05-31 | Thou | Inconsolable |
-| 7 | ![Cover](https://i.discogs.com/nLtbal4EIbNEbyU80XleyZuiUK8sZKiVpv6zRX8U8Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAz/MjY3LTE1OTkzODM2/NzEtODExMy5qcGVn.jpeg) | 2019-09-06 | Black Country, New Road | Snow Globes |
+| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6ebf500e7934e3af1d1a273ab857ed7f.png) | 2012-04-25 | Good Night &amp; Good Morning | Narrowing Type |
+| 9 | ![Cover](https://i.discogs.com/nsLzI6wsL4Nr6wU3BdT2iowiiTerAVcRvNB8DtTI9XE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTE1/MDUtMTQ3MzkyNTk3/Ni03NzQyLmpwZWc.jpeg) | 2016-09-23 | True Widow | AVVOLGERE |
+| 17 | ![Cover](https://i.discogs.com/psHPBS1fEgeMqdt7IkuAzAe_HRu0eyShPXA2J-hF4IQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIy/NDAxLTE1MjI5NzU4/NzctNDk5NS5qcGVn.jpeg) | 2018-04-06 | Attic Abasement | Dancing Is Depressing (Expanded Edition) |
+| 25 | ![Cover](https://i.discogs.com/Xo28Rv2CFf1nT1Ugpk9osQCxMLWd3qBcWCElsyH0ErM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc3/MDE4LTE1Mjc4MzEz/MjktMTkyNC5qcGVn.jpeg) | 2018-05-31 | Thou | Inconsolable |
+| 5 | ![Cover](https://i.discogs.com/nLtbal4EIbNEbyU80XleyZuiUK8sZKiVpv6zRX8U8Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAz/MjY3LTE1OTkzODM2/NzEtODExMy5qcGVn.jpeg) | 2019-09-06 | Black Country, New Road | Snow Globes |
 | 47 | ![Cover](https://i.discogs.com/VVBjDRMqGYui2wYDVe_OY1C9hhps_46fYXXnT4M890k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODI0/OTM3LTE1NjM5Mzgy/MDctODg4Ny5qcGVn.jpeg) | 2020-08-26 | Horse Jumper of Love | Demo Anthology |
-| 9 | ![Cover](https://i.discogs.com/wiLwjhydwB8p8gfzn_m-QrAK32TS4Mra91FT4EOC7lA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDk2/OTc1LTE2MTk2MTQy/NTUtNTQzNS5qcGVn.jpeg) | 2021-04-23 | Fog Lake | farther reaches |
-| 1 | ![Cover](https://i.discogs.com/cythYj5plCKA-dIq6pegbrrFAufjY-eX4J9_94h5ouU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTQw/MDkwLTE2MjY2MzAx/NzMtMTUzNi5qcGVn.jpeg) | 2021-07-16 | Midwife | Luminol |
-| 16 | ![Cover](https://i.discogs.com/y7Z2J5Gs1O2SmxVpM3Lz_FNLgJjwwPFDEvFQ7sbjI5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzU2/MjIzLTE2MjUyNTIx/NjgtNzAxNS5qcGVn.jpeg) | 2022-01-28 | waveform* | Last Room |
-| 8 | ![Cover](https://i.discogs.com/OnCka5rr2BVMnvMfK8ucz-qz2TlP6VnmMOBexFhNu6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDY5/NTkwLTE2OTYyMDE5/MTgtODE5Ni5qcGVn.jpeg) | 2023-09-29 | Dead Calm | Accept |
-| 27 |  |  | 1017 ALYX 9SM | Famous Last Words (An Ode to Eaters) |
+| 7 | ![Cover](https://i.discogs.com/wiLwjhydwB8p8gfzn_m-QrAK32TS4Mra91FT4EOC7lA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDk2/OTc1LTE2MTk2MTQy/NTUtNTQzNS5qcGVn.jpeg) | 2021-04-23 | Fog Lake | farther reaches |
+| 14 | ![Cover](https://i.discogs.com/y7Z2J5Gs1O2SmxVpM3Lz_FNLgJjwwPFDEvFQ7sbjI5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzU2/MjIzLTE2MjUyNTIx/NjgtNzAxNS5qcGVn.jpeg) | 2022-01-28 | waveform* | Last Room |
+| 41 | ![Cover](https://i.discogs.com/5UzfJ_eMqMxoRVYUDy3X5ON8Q9PBrKdXsjvWm8W-ZIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTUz/MjQ1LTE2NzE4NTU5/MTYtMjY3NC5qcGVn.jpeg) | 2022-06-24 | Hold | just give it time |
+| 6 | ![Cover](https://i.discogs.com/OnCka5rr2BVMnvMfK8ucz-qz2TlP6VnmMOBexFhNu6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDY5/NTkwLTE2OTYyMDE5/MTgtODE5Ni5qcGVn.jpeg) | 2023-09-29 | Dead Calm | Accept |
+| 26 |  |  | 1017 ALYX 9SM | Famous Last Words (An Ode to Eaters) |
+| 43 |  |  | Valium Aggelein | Black Moon |
 | 77 | ![Cover](https://i.discogs.com/bfQo_-0d7xzzTQSOpEoGhiDaGTcl0bCL3ElPUicQFbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTI2/NS0xNTgyNTgyODg3/LTU1OTcuanBlZw.jpeg) | 1988-10 | Galaxie 500 | Today |
 | 89 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2d0edf1387a20be1834117f15731c66f.png) | 1989 | Galaxie 500 | On Fire |
 | 59 |  | 1990 | Codeine | Frigid Stars |
@@ -105,13 +107,11 @@ Last updated: <time datetime="2025-10-20T03:47:56.347Z">Mon Oct 20 2025 06:47:56
 | 72 | ![Cover](https://i.discogs.com/W78tJKe1DFK89UcmvK5vhA_4C4UmEc4B0PMSSN-tzrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzE5/MDExLTE2NDg3OTUw/MDUtNDEwMy5qcGVn.jpeg) | 2022-04-01 | Duster | Together |
 | 95 | ![Cover](https://i.discogs.com/ioGhAAAITRseIwahUg3uw0uHBdWu0bcfqmJJBPFyuoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAz/NjczLTE2NTIzNzg0/MzAtODYxMS5qcGVn.jpeg) | 2022-05-12 | Ethel Cain | Preacher’s Daughter |
 | 88 | ![Cover](https://i.discogs.com/Vl3phUS-wJpbxL9M3aV977d8WiYhMxSBOUWhDtctpFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTQ3/Mzc3LTE2NzE4MDg5/ODctNTQ1My5qcGVn.jpeg) | 2022-06-10 | birth day | Boyhood |
-| 42 | ![Cover](https://i.discogs.com/5UzfJ_eMqMxoRVYUDy3X5ON8Q9PBrKdXsjvWm8W-ZIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTUz/MjQ1LTE2NzE4NTU5/MTYtMjY3NC5qcGVn.jpeg) | 2022-06-24 | Hold | just give it time |
 | 58 | ![Cover](https://i.discogs.com/-HHykvLAEvie6rhDUaYoHFA52ffw2gdz4p222kVs9tM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzg5/NjczLTE2ODAwMzU3/MDUtMzA1Ni5qcGVn.jpeg) | 2022-09-02 | Elliott Fullam | What&#39;s Wrong |
 | 45 | ![Cover](https://i.discogs.com/tryjlkIPO_2_ynDKH8rksxwnz4bLCBPpbc25vBqD5Fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODgw/ODE4LTE2NzQ2NTEz/NDAtODU4Ni5qcGVn.jpeg) | 2023-01-06 | Nicole Dollanganger | Married in Mount Airy |
 | 78 | ![Cover](https://i.discogs.com/9IMWWvfuEr-8lf9bujcoiq1zjhu6cp7XI4tsQ03KB5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzA0/NzM0LTE2ODYyMjc2/ODYtNDE3MC5qcGVn.jpeg) | 2023-06-09 | King Krule | sPacE hEavy |
 | 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e1692393d1550a15c560848d7f140377.png) | 2023-11-17 | Duster | Remote Echoes |
 | 94 | ![Cover](https://i.discogs.com/R2Op_-6ghPgrNn02kxpcIHcgP_4voHr_iNOIOGOftSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTQz/Nzk4LTE2NzE3NzAw/MTQtNjU1MC5qcGVn.jpeg) | 2024-02-16 | sign crushes motorist | i&#39;ll be okay |
-| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b615f21dc0835642a9040b20aa5c2860.png) | 2024-03-15 | Sweet Pill | Starchild |
 | 67 | ![Cover](https://i.discogs.com/0flkjuxWBc_ASAL91m62SQuVH4f698j55GnHF8j763Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTg4/NTIzLTE3MjA2NjAz/ODctMzgxOS5qcGVn.jpeg) | 2024-07-12 | Cigarettes After Sex | X&#39;s |
 
 ### Related genres

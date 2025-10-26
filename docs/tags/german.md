@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T16:57:40.743Z
+date: 2025-10-25T20:05:10.772Z
 permalink: tags/german
 title: german
 ---
 
 ## german
 
-Last updated: <time datetime="2025-10-23T16:57:40.743Z">Thu Oct 23 2025 19:57:40 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-25T20:05:10.772Z">Sat Oct 25 2025 23:05:10 GMT+0300 (Eastern European Summer Time)</time>
 
 ### 100 chronological releases
 
@@ -19,20 +19,21 @@ Last updated: <time datetime="2025-10-23T16:57:40.743Z">Thu Oct 23 2025 19:57:40
 | 20 |  | 1984 | Herbert Grönemeyer | 4630 Bochum |
 | 38 |  | 1994 | Wizo | Uuaarrgh! |
 | 86 |  | 1994 | Udo Jürgens | Zeig mir den Platz an der Sonne |
-| 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9640d454afa13e156ee91dacd8d00e97.png) | 1995-09-24 | Rammstein | Herzeleid |
-| 60 |  | 1995-12-07 | Fool&#39;s Garden | Dish Of The Day |
+| 58 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9640d454afa13e156ee91dacd8d00e97.png) | 1995-09-24 | Rammstein | Herzeleid |
+| 61 |  | 1995-12-07 | Fool&#39;s Garden | Dish Of The Day |
 | 90 |  | 1997-08-22 | Rammstein | Sehnsucht |
-| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/76c820ad14ce47479d7eb4f1b46bd0ed.png) | 1997-10-06 | Guano Apes | Proud Like a God |
+| 63 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/76c820ad14ce47479d7eb4f1b46bd0ed.png) | 1997-10-06 | Guano Apes | Proud Like a God |
 | 28 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/82d816f7c84143c8abac1dfb8b946ae1.png) | 1998 | Die Ärzte | Rock&#39;n&#39;Roll Realschule |
 | 7 |  | 1999 | Heinz Rudolf Kunze | Nonstop |
-| 46 | ![Cover](https://i.discogs.com/zXmQHicneNVBeg_vXtWot5KGTqSYxNZZdHGIBFdddeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg0/MjYtMTYwNTE2MjYy/MS05MDM5LmpwZWc.jpeg) | 1999-08-31 | Rammstein | Liebe Ist für Alle Da (Special Edition) |
-| 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b7f3667974ea3516bce92025e4662d79.png) | 2000-10-30 | Guano Apes | Don&#39;t Give Me Names |
+| 47 | ![Cover](https://i.discogs.com/zXmQHicneNVBeg_vXtWot5KGTqSYxNZZdHGIBFdddeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg0/MjYtMTYwNTE2MjYy/MS05MDM5LmpwZWc.jpeg) | 1999-08-31 | Rammstein | Liebe Ist für Alle Da (Special Edition) |
+| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b7f3667974ea3516bce92025e4662d79.png) | 2000-10-30 | Guano Apes | Don&#39;t Give Me Names |
 | 99 |  | 2001-03-27 | Rammstein | Mutter |
 | 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a70c6ccae8804635c628f3715926b7b1.png) | 2001-10-22 | Farin Urlaub | Endlich Urlaub! |
-| 51 | ![Cover](https://i.discogs.com/pJiaKqh2N-cH1yKgcYxIGe2mmGxFgXBuFwcMPwg-rrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MjE5/MS0xNTAyNDQyNTY3/LTQ1MDYuanBlZw.jpeg) | 2002 | Deichkind | Noch 5 Minuten Mutti |
+| 52 | ![Cover](https://i.discogs.com/pJiaKqh2N-cH1yKgcYxIGe2mmGxFgXBuFwcMPwg-rrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MjE5/MS0xNTAyNDQyNTY3/LTQ1MDYuanBlZw.jpeg) | 2002 | Deichkind | Noch 5 Minuten Mutti |
+| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bdfb5a4f68ce1d8c8da13b0b97ae979b.png) | 2002-06-10 | Tocotronic | Tocotronic |
 | 33 | ![Cover](https://i.discogs.com/EnzdtNs2DFUn_uN25qEKpVRRHLBETYVdCIX5JHaO6LY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTQz/MS0xMjE4MzE5NzEy/LmpwZWc.jpeg) | 2002-08-05 | Herbert Grönemeyer | Mensch |
 | 74 |  | 2002-10-28 | Kettcar | Du Und Wieviel Von Deinen Freunden |
-| 55 | ![Cover](https://i.discogs.com/juXxpF_kjpd04M60yzhC40AE8rZyEqLqJBS7f1LZ3nI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODAw/Ny0xNTE4NjMzMjI4/LTc2NjIuanBlZw.jpeg) | 2003-02-03 | Wir sind Helden | Guten Tag |
+| 56 | ![Cover](https://i.discogs.com/juXxpF_kjpd04M60yzhC40AE8rZyEqLqJBS7f1LZ3nI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODAw/Ny0xNTE4NjMzMjI4/LTc2NjIuanBlZw.jpeg) | 2003-02-03 | Wir sind Helden | Guten Tag |
 | 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/db582554192c61db6bdcaab3c34dabe5.png) | 2003-07-04 | Wir sind Helden | Die Reklamation |
 | 8 |  | 2003-09-01 | Beginner | Blast Action Heroes |
 | 11 | ![Cover](https://i.discogs.com/fUxKu5AZDsFvoQrOXavEQq0c2P6siTK39-Iiog7Jq1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIz/MDctMTQ1NzcyNDQ3/My0yNDQyLmpwZWc.jpeg) | 2004 | Museum | old firehand ep |
@@ -50,16 +51,16 @@ Last updated: <time datetime="2025-10-23T16:57:40.743Z">Thu Oct 23 2025 19:57:40
 | 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1151d64f7fc05192728070512fc9cee3.png) | 2005-09-23 | Wir sind Helden | Von hier an blind |
 | 21 |  | 2005-10-07 | Muff Potter | Von Wegen |
 | 87 |  | 2006-02-03 | Tomte | Buchstaben über der Stadt |
-| 61 |  | 2006-05-19 | Clueso | Weit weg |
+| 62 |  | 2006-05-19 | Clueso | Weit weg |
 | 23 | ![Cover](https://i.discogs.com/UKe4M0vo7B9UyuyY2IoJ0KxboXq12jjTpyG_FhWFQyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODEw/My0xMjUyMTQ2ODc1/LmpwZWc.jpeg) | 2006-08-04 | Jan Delay | Mercedes Dance |
 | 66 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7168bd5894ff4a2dca78e952d241975f.png) | 2006-09-29 | Fotos | Fotos |
-| 41 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b7c352c6ee41871cf5e8236479dcf2b3.png) | 2006-10-06 | Die Ärzte | Bäst Of |
-| 47 | ![Cover](https://i.discogs.com/TY_OqNJP6PVxC8qpSMagw_O8uexWqBkpYEX8KnZCKb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTI3/NDMxLTE2NDA3ODU5/MDEtODY5NC5wbmc.jpeg) | 2007 | Jan Delay | Türlich, türlich |
-| 44 |  | 2007-01-01 | Tokio Hotel | Monsoon |
+| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b7c352c6ee41871cf5e8236479dcf2b3.png) | 2006-10-06 | Die Ärzte | Bäst Of |
+| 48 | ![Cover](https://i.discogs.com/TY_OqNJP6PVxC8qpSMagw_O8uexWqBkpYEX8KnZCKb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTI3/NDMxLTE2NDA3ODU5/MDEtODY5NC5wbmc.jpeg) | 2007 | Jan Delay | Türlich, türlich |
+| 45 |  | 2007-01-01 | Tokio Hotel | Monsoon |
 | 89 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/12d549702d354f81cf68be4af8bbd165.png) | 2007-03-30 | Beatsteaks | Limbo Messiah |
 | 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8c098e010eb7c93013a39dde8aa83935.png) | 2007-06-15 | Blind Guardian | Somewhere Far Beyond (Remastered 2007) |
 | 31 |  | 2007-06-29 | Ich + Ich | Vom selben Stern |
-| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/98cdc3945de9d8fbe7bcf95eacd257e7.png) | 2007-09-18 | Rammstein | Made In Germany 1995 - 2011 (Special Edition) |
+| 46 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/98cdc3945de9d8fbe7bcf95eacd257e7.png) | 2007-09-18 | Rammstein | Made In Germany 1995 - 2011 (Special Edition) |
 | 69 |  | 2007-10-26 | Egotronic | Lustprinzip |
 | 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c0a4860813e14baa4daa46a6c5a932d5.png) | 2008-02-15 | Jennifer Rostock | Ins offene Messer |
 | 83 |  | 2008-05-02 | The Notwist | The Devil, You + Me |
@@ -68,18 +69,18 @@ Last updated: <time datetime="2025-10-23T16:57:40.743Z">Thu Oct 23 2025 19:57:40
 | 35 | ![Cover](https://i.discogs.com/AmiZG5OmSqObBrcRGiiCd8dqBBhzbne32a3wGoFOuG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzUz/MzMtMTM5Njk3Njg0/NC05MDE1LmpwZWc.jpeg) | 2008-08-22 | Eisbrecher | Suende |
 | 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/48e54a65f6fe47e49b1ac22ef998aae2.png) | 2008-08-29 | Die Apokalyptischen Reiter | Licht |
 | 78 |  | 2008-09-26 | Peter Fox | Stadtaffe |
-| 52 |  | 2008-10-17 | Polarkreis 18 | The Colour Of Snow |
+| 53 |  | 2008-10-17 | Polarkreis 18 | The Colour Of Snow |
 | 5 | ![Cover](https://i.discogs.com/lsGHhgzupoZiI0EH6cgH0WZBsCH327kyK_mku4tTxGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjY2/NC0xMTgyNzAyMjAw/LmpwZWc.jpeg) | 2009 | Annett Louisan | Boheme |
 | 72 |  | 2009 | Italobrothers | Stamp On The Ground |
 | 68 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/aa115a5498b94d68b79b732724625904.png) | 2009-02-27 | The Whitest Boy Alive | Rules |
-| 63 | ![Cover](https://i.discogs.com/MSgbDDgt5dNNz4MJb_7T1lppJUejZgdaa1a37Ig5r1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzM4/NDItMTMyNjIwNDkx/NC5qcGVn.jpeg) | 2009-03-06 | Eisblume | Unter dem Eis |
-| 49 | ![Cover](https://i.discogs.com/EYsrzVxwMS6SouBxwDgCocDBYOM1iG6qDkPTa6vrg8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzM3/MDctMTQ0NDkwOTMx/OS0xNjg4LmpwZWc.jpeg) | 2009-08-28 | Culcha Candela | Schöne Neue Welt |
-| 59 | ![Cover](https://i.discogs.com/NkWkcLyQLpE-vwczhTAh3pIrLeX4gFc4-8pIOUEGsq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODI3/MTYtMTMxNDg4OTQ3/MS5qcGVn.jpeg) | 2010 | BEAT!BEAT!BEAT! | Stars Ep |
+| 64 | ![Cover](https://i.discogs.com/MSgbDDgt5dNNz4MJb_7T1lppJUejZgdaa1a37Ig5r1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzM4/NDItMTMyNjIwNDkx/NC5qcGVn.jpeg) | 2009-03-06 | Eisblume | Unter dem Eis |
+| 50 | ![Cover](https://i.discogs.com/EYsrzVxwMS6SouBxwDgCocDBYOM1iG6qDkPTa6vrg8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzM3/MDctMTQ0NDkwOTMx/OS0xNjg4LmpwZWc.jpeg) | 2009-08-28 | Culcha Candela | Schöne Neue Welt |
+| 60 | ![Cover](https://i.discogs.com/NkWkcLyQLpE-vwczhTAh3pIrLeX4gFc4-8pIOUEGsq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODI3/MTYtMTMxNDg4OTQ3/MS5qcGVn.jpeg) | 2010 | BEAT!BEAT!BEAT! | Stars Ep |
 | 2 |  | 2010-05-28 | Frittenbude | Katzengold |
 | 82 |  | 2010-08-27 | Wir sind Helden | Bring mich nach Hause |
 | 37 |  | 2010-12-10 | Italobrothers | Stamp! |
-| 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d7a573a370ec4486c45263224b00085a.png) | 2012-02-03 | Eisbrecher | Die Hölle muss warten |
-| 58 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4687f80216364d30a87dabaeca304c79.png) | 2012-04-13 | Die Ärzte | auch |
+| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d7a573a370ec4486c45263224b00085a.png) | 2012-02-03 | Eisbrecher | Die Hölle muss warten |
+| 59 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4687f80216364d30a87dabaeca304c79.png) | 2012-04-13 | Die Ärzte | auch |
 | 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3e1a1f8dae8349af865d109c1aa2796e.png) | 2012-05-04 | Die Toten Hosen | &quot;Ballast der Republik&quot; plus Jubiläums-Album &quot;Die Geister, die wir riefen&quot; |
 | 34 | ![Cover](https://i.discogs.com/cD41YABXgPtJ1zqNX05guMwooQR0YhwiDfNLHlJzNII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDQ3/OTgtMTQzMzI0NDUx/Ny0yMjE4LmpwZWc.jpeg) | 2013-06-28 | Cro | Whatever (Maxi Edition) |
 | 19 | ![Cover](https://i.discogs.com/BgaPQCD05bZGqWd06kRTvlvX6BaGLezzGCvgBkwnLPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzEy/MDUtMTM3NTAwNjIx/My0zMDQ0LmpwZWc.jpeg) | 2013-07 | Helge Schneider | Sommer, Sonne, Kaktus! |
@@ -91,28 +92,27 @@ Last updated: <time datetime="2025-10-23T16:57:40.743Z">Thu Oct 23 2025 19:57:40
 | 15 | ![Cover](https://i.discogs.com/SUjXBqMiUQGYDHBb_o3-FsEEJX7tSR-g2DxwfS8qApQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDc2/OTQtMTY1Mjc2OTY0/Ni02NzQwLmpwZWc.jpeg) | 2014-10-31 | Zugezogen Maskulin | Alles brennt |
 | 3 | ![Cover](https://i.discogs.com/cHz8yATulcie_4wrMNXbBaSIYZKXBtgRwDOd7AQ6N9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA4/NzAtMTQ1MTQ4MTk5/MS05NDk1LmpwZWc.jpeg) | 2015-04-24 | DAT ADAM | Chrome - EP |
 | 94 | ![Cover](https://i.discogs.com/xg-wf7BymX79OXr1ZD5L_fwPGGjpH_5U0pl-4DLmeJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzM2/NDQtMTQzNzgwOTQ4/My0xNTE5LmpwZWc.jpeg) | 2015-07-03 | Cro | MTV Unplugged |
-| 40 | ![Cover](https://i.discogs.com/eGrlj016vhPqhChBZJwthI2Bt4HUIqWLL4Hi5MucRl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzIx/NTgtMTQ0NDMwMjg3/Ni01NjQ2LmpwZWc.jpeg) | 2015-10-09 | Lindemann | Fish On |
+| 41 | ![Cover](https://i.discogs.com/eGrlj016vhPqhChBZJwthI2Bt4HUIqWLL4Hi5MucRl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzIx/NTgtMTQ0NDMwMjg3/Ni01NjQ2LmpwZWc.jpeg) | 2015-10-09 | Lindemann | Fish On |
 | 4 | ![Cover](https://i.discogs.com/W8DFicJ2C4UCF7NbW-SHu5OMfl0u8KJqTbPHLda3PXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk1/Mjg4LTE1MzQ0MTA2/MDItODg3MS5qcGVn.jpeg) | 2016 | Annisokay | Coma Blue |
-| 39 | ![Cover](https://i.discogs.com/kdHg7B_amhpS4-2ZCoU7S5a9xvBw230cuTYdbls2VQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODg3/ODktMTUxOTU2MDM3/NS04NjY2LmpwZWc.jpeg) | 2017 | Robin Schulz | Uncovered |
+| 40 | ![Cover](https://i.discogs.com/kdHg7B_amhpS4-2ZCoU7S5a9xvBw230cuTYdbls2VQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODg3/ODktMTUxOTU2MDM3/NS04NjY2LmpwZWc.jpeg) | 2017 | Robin Schulz | Uncovered |
 | 98 | ![Cover](https://i.discogs.com/XMpIzYqxAdaSjgHkUKqvtRNM7ICj1ZqGIPfU4UBa37E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQ3/MTU5LTE0OTc3OTg2/MzMtNjA3NS5qcGVn.jpeg) | 2017-02-03 | Alice Merton | No Roots |
 | 76 | ![Cover](https://i.discogs.com/AGDn7eBjjZrmu0HHv4F_U-G8VY3VdqmBPgVbswk7u3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzYz/OTItMTQ4OTUyOTU3/Mi0yMzYwLmpwZWc.jpeg) | 2017-03 | Milky Chance | Blossom (Deluxe) |
 | 100 | ![Cover](https://i.discogs.com/F907HBxXioOt5pNQSb5EHYLEEHzbEW9R8owNVxi3Xz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTky/NTEtMTQ3NjUzMjEx/OS0zMDE4LmpwZWc.jpeg) | 2017-08-04 | Italobrothers | Summer Air |
 | 29 | ![Cover](https://i.discogs.com/7hi52jIilwhuY94cB_QbrrfeOoyZLxle4U83gMpGNAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ3/NTM3LTE1MDUyODk2/NjQtNjc2Mi5qcGVn.jpeg) | 2017-09-29 | trettmann | #DIY |
-| 54 | ![Cover](https://i.discogs.com/s9OyNtwz1v_VmoGAIAxiUVhCK78IHGGceOvcr9Drt8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY2/MDY0LTE1MTg2MTQy/NDItMTg0Mi5qcGVn.jpeg) | 2018-02-16 | Felix Jaehn | I |
+| 55 | ![Cover](https://i.discogs.com/s9OyNtwz1v_VmoGAIAxiUVhCK78IHGGceOvcr9Drt8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY2/MDY0LTE1MTg2MTQy/NDItMTg0Mi5qcGVn.jpeg) | 2018-02-16 | Felix Jaehn | I |
 | 65 | ![Cover](https://i.discogs.com/swy2WH2XXH8PeL8Ij7shiG-7TU5tU_vN2JGbidBI0sM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTUy/MTQ0LTE1NDUyMDc5/MjQtMjk1NC5qcGVn.jpeg) | 2018-02-23 | Haftbefehl | Chabos wissen wer der Babo ist |
 | 70 | ![Cover](https://i.discogs.com/IUdQl1U_851NvlaAwNOA_StDWqiTMQzxsg0F9qmz_HY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzYx/MDkwLTE1MjE5MTgy/MDgtMzgyMC5qcGVn.jpeg) | 2018-03-23 | NoMBe | They Might&#39;ve Even Loved Me |
 | 88 | ![Cover](https://i.discogs.com/v2wWJQ93maztOi6RGigi1ntrROoipPEHDiV8uAcMotE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODYw/Mjg3LTE1MjM2MzQ3/MzMtNTEzOC5qcGVn.jpeg) | 2018-04-13 | Sofi Tukker | Treehouse |
-| 64 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2b5a100d70014a619e37df6054352458.png) | 2018-10-12 | Unheilig | Grosse Freiheit |
 | 25 | ![Cover](https://i.discogs.com/0DJM-4XJsZ4hYeguUZeyRkxoVkVdWlhCNJGyw0WiBwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ5/MjYzLTE1NTI1NTg2/NjItNDg5My5qcGVn.jpeg) | 2019-03-15 | Any Given Day | Savior |
 | 17 | ![Cover](https://i.discogs.com/SAsCkfZozKfQSM_qO4MkMN5j5AjTwXG4WOzuPhRDGww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODcw/MjAtMTQyMjU3Njk3/MC02MzM3LmpwZWc.jpeg) | 2019-08-16 | Deichkind | Niveau Weshalb Warum |
-| 42 | ![Cover](https://i.discogs.com/9HoqaT30PKOBGnzYL9DcYYEZzT6Kuwl5_Z7Upiyb_0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg0/ODEyLTE1MDQyNzY1/NjAtMzY0OS5qcGVn.jpeg) | 2020-10-02 | Casper | Lang Lebe Der Tod |
+| 43 | ![Cover](https://i.discogs.com/9HoqaT30PKOBGnzYL9DcYYEZzT6Kuwl5_Z7Upiyb_0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg0/ODEyLTE1MDQyNzY1/NjAtMzY0OS5qcGVn.jpeg) | 2020-10-02 | Casper | Lang Lebe Der Tod |
 | 85 | ![Cover](https://i.discogs.com/Tb7od21kOm8EQ9SfTjM-7ItyBRsD2MLniIBRs2ydqE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTky/NTQ0LTE2MTQzMzk0/MzUtNjcwMy5qcGVn.jpeg) | 2021-02-26 | Robin Schulz | OK |
 | 6 | ![Cover](https://i.discogs.com/PmVRo9MNFqsyC69yobbekHGIEzyFUzOm16sfPgv6OvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEw/NDgxLTE2MTk2OTE5/NjgtMjM5NS5qcGVn.jpeg) | 2021-04-30 | Danger Dan | Das ist alles von der Kunstfreiheit gedeckt |
 | 13 | ![Cover](https://i.discogs.com/ygXP2rJ1S0C_dsjR_aWMDJNQgRNj-PeQ2MBe2dlvtlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Mjc5/NC0xMjA2NDgzNTQ2/LmpwZWc.jpeg) | 2022-01-27 | SDP | Ich will nur dass du weißt |
 | 67 | ![Cover](https://i.discogs.com/8TSCIMZXJEic9w3bki4b0UWU1TwefS5_K8-D8u0xCTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjEz/MTIwLTE2Njg4NTU0/OTctNzQxNS5qcGVn.jpeg) | 2022-11-17 | Marteria | Lila Wolken |
-| 43 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2023 | Various Artists | Eishockey Hits |
-| 56 | ![Cover](https://i.discogs.com/aZXeX-LpwFzAEeVGRuZVEljhF6jbCUe8Bv422qF8QUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjkw/MTQzLTE1NDEwMjMz/NjEtMzMwMC5qcGVn.jpeg) | 2023-06-01 | Bonez MC | Palmen aus Plastik 2 |
-| 50 | ![Cover](https://i.discogs.com/3Ycf4J_kXutwEBMckYpidH4rBIF6YqdMN_l9Sk7A584/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjE3/MjQxLTE2NTU1NzA4/NjItNzYyNC5qcGVn.jpeg) | 2024-01-26 | Any Given Day | Diamonds |
+| 44 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2023 | Various Artists | Eishockey Hits |
+| 57 | ![Cover](https://i.discogs.com/aZXeX-LpwFzAEeVGRuZVEljhF6jbCUe8Bv422qF8QUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjkw/MTQzLTE1NDEwMjMz/NjEtMzMwMC5qcGVn.jpeg) | 2023-06-01 | Bonez MC | Palmen aus Plastik 2 |
+| 51 | ![Cover](https://i.discogs.com/3Ycf4J_kXutwEBMckYpidH4rBIF6YqdMN_l9Sk7A584/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjE3/MjQxLTE2NTU1NzA4/NjItNzYyNC5qcGVn.jpeg) | 2024-01-26 | Any Given Day | Diamonds |
 
 ### Related genres
 

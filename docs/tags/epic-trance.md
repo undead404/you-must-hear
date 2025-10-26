@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-24T16:52:38.034Z
+date: 2025-10-26T11:25:55.102Z
 permalink: tags/epic-trance
 title: epic trance
 ---
 
 ## epic trance
 
-Last updated: <time datetime="2025-10-24T16:52:38.034Z">Fri Oct 24 2025 19:52:38 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-26T11:25:55.102Z">Sun Oct 26 2025 13:25:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -15,11 +15,11 @@ Last updated: <time datetime="2025-10-24T16:52:38.034Z">Fri Oct 24 2025 19:52:38
 |---|---|---|---|---|
 | 29 | ![Cover](https://i.discogs.com/WUMTi5MoLDd1cM6f6osB0C78vn7CDPUvCPeFZEb87QU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzMy/NDUtMTU1MDkzNzMx/My02MDE4LmpwZWc.jpeg) | 1997 | PM | Dream Melodies volume 10 |
 | 5 | ![Cover](https://i.discogs.com/DLbgyWPr5EgecqTRT09jcRW6N_GbUIXU4tphCeSuFIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODg3/NDctMTM3NTU2NDgw/NC02MDcwLmpwZWc.jpeg) | 2008 | The Specialists | Dimensional Transformations |
-| 2 | ![Cover](https://i.discogs.com/FxR3ILZLAQWzVFtsiSzUq5D8axK7An4r_WSM0ZruaiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTA1/MzctMTM4MjA0ODE3/Ny00NzMwLmpwZWc.jpeg) | 2008-02-02 | The Specialists | Another Dimension |
 | 25 | ![Cover](https://i.discogs.com/eCMXdjb3HEk8K9l6sKIDfuL9H90vGu463pz_DS4zgQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU2/OTQtMTMxMzMxNjU5/MS5qcGVn.jpeg) | 2009-07-02 | Thomas Coastline &amp; CrossRyders | Progressive Trance Evolution Vol 1 |
 | 37 | ![Cover](https://i.discogs.com/yGH5RNPaLQtoc7dyv0E2_LuIWn1plDxzxOkouQYDokc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk4/NjAtMTI4MTIyMTg0/OC5qcGVn.jpeg) | 2010-05-17 | harryson | Stay Awake |
 | 39 | ![Cover](https://i.discogs.com/iiH82RxD_wd_SIRrg3Bm_xZO0FbDdGzR67ury63zQFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ0/NzQtMTI3NDM5MDgw/NC5qcGVn.jpeg) | 2010-05-17 | Electrobios, The Flyers &amp; Mike Sonar | Deep In The Heart |
 | 33 | ![Cover](https://i.discogs.com/AHME1r683HNq3C3Dx2YdE5tJsEDcKx0ymbjRVKCFNns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjQ0/MzItMTMwMjY5OTYz/OC5qcGVn.jpeg) | 2011-04-12 | Kostya Veter | Loneliness (Incl Aaron Static Remix) |
+| 3 | ![Cover](https://i.discogs.com/vM7S_Ei6SRCOHmLYQrgkWZ2F335FVSgbxHdo8yDNKm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/MzUtMTMzNjgxODUz/MC05Njk0LmpwZWc.jpeg) | 2011-08-26 | Fanatic Emotions | Together (Single-Track) |
 | 26 | ![Cover](https://i.discogs.com/vM7S_Ei6SRCOHmLYQrgkWZ2F335FVSgbxHdo8yDNKm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/MzUtMTMzNjgxODUz/MC05Njk0LmpwZWc.jpeg) | 2011-08-26 | Fanatic Emotions | Together |
 | 21 | ![Cover](https://i.discogs.com/jG4assv55H2YgJ6W78jwtUkW_1vnjwJCK-0KDQVCoL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/NDEtMTYwNzY3MDE5/MS0xMzA1LmpwZWc.jpeg) | 2011-09-02 | Fanatic Emotions | Celestial |
 | 42 | ![Cover](https://i.discogs.com/08F-gdaH3wQWOJSKSPp6DJDYRlSmYNT_yrbx84Ow3nE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/NjAtMTMzNjgxOTE3/OS0zNTMzLmpwZWc.jpeg) | 2011-09-03 | Fanatic Emotions | Along With You |
@@ -31,7 +31,7 @@ Last updated: <time datetime="2025-10-24T16:52:38.034Z">Fri Oct 24 2025 19:52:38
 | 9 | ![Cover](https://i.discogs.com/qSWipgjnzj0OrKuDAbVhO0R-suDlf8br1nQ5cy_Ohpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc4/ODktMTMzNjgxNzQy/Ni0yMDIwLmpwZWc.jpeg) | 2012-03-03 | Fanatic Emotions | My Dream (Epic Trance Mix) |
 | 11 | ![Cover](https://i.discogs.com/f2k7brxoUyshqUII3RoPhtC3D4q3nM9K4fv3CTe76d8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc4/ODYtMTYwNzgxMzgz/NC04OTM0LmpwZWc.jpeg) | 2012-03-03 | Fanatic Emotions | Cosmic Dance (Remastered) |
 | 1 | ![Cover](https://i.discogs.com/AZTRuwu2Zl1gO9uqkFtSTolflvwzM9Na4T4PvT-qEN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc4/NTQtMTYwNzgxMzU0/My01MjA5LmpwZWc.jpeg) | 2012-05-09 | Fanatic Emotions | Together (Xtended Trance Mix - Remastered) |
-| 3 | ![Cover](https://i.discogs.com/hRv6ySPpAOonGbCJ54DoBFgLvtHGIR4pgi_K4Ff2-DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTA5/MzEtMTM0MDUzNzIx/My0xMjc5LmpwZWc.jpeg) | 2012-06-03 | Fanatic Emotions | Wonderful Moments (Eternal Trance Mix) |
+| 2 | ![Cover](https://i.discogs.com/hRv6ySPpAOonGbCJ54DoBFgLvtHGIR4pgi_K4Ff2-DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTA5/MzEtMTM0MDUzNzIx/My0xMjc5LmpwZWc.jpeg) | 2012-06-03 | Fanatic Emotions | Wonderful Moments (Eternal Trance Mix) |
 | 31 | ![Cover](https://i.discogs.com/0piAAQQTFgrdc6ukdjAzq4EfU_ek_5rzgG96HH_NXtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDY0/NDctMTYwNzgxMzM2/NS0xMzE2LmpwZWc.jpeg) | 2013-05-16 | Fanatic Emotions | Trance In Love Vol.3 |
 | 4 | ![Cover](https://i.discogs.com/XPQDVwS2gEO2pd9OJnLWh__-FZApl2i1Nqu-73FMrwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0ODMy/ODEtMTM5NDUzMzA5/OS03OTkxLmpwZWc.jpeg) | 2013-07-15 | Kukuzenko | Kukuzenko - Dreamcatcher |
 | 6 |  |  | David Orr | EvoCreo: Official Soundtrack |
