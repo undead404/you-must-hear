@@ -1,18 +1,25 @@
 ---
 category: list
-date: 2025-10-26T11:46:25.257Z
+date: 2025-10-26T16:44:57.301Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-26T11:46:25.257Z">Sun Oct 26 2025 13:46:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-26T16:44:57.301Z">Sun Oct 26 2025 18:44:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [acoustic]({{ "tags/acoustic" | relative_url }}) | <time datetime="2025-10-26T16:44:57.301Z">Sun Oct 26 2025 18:44:57 GMT+0200 (Eastern European Standard Time)</time> |
+| [college rock]({{ "tags/college-rock" | relative_url }}) | <time datetime="2025-10-26T16:38:19.488Z">Sun Oct 26 2025 18:38:19 GMT+0200 (Eastern European Standard Time)</time> |
+| [late romantic]({{ "tags/late-romantic" | relative_url }}) | <time datetime="2025-10-26T15:18:24.386Z">Sun Oct 26 2025 17:18:24 GMT+0200 (Eastern European Standard Time)</time> |
+| [ambient pop]({{ "tags/ambient-pop" | relative_url }}) | <time datetime="2025-10-26T14:07:36.446Z">Sun Oct 26 2025 16:07:36 GMT+0200 (Eastern European Standard Time)</time> |
+| [glitch pop]({{ "tags/glitch-pop" | relative_url }}) | <time datetime="2025-10-26T13:09:14.905Z">Sun Oct 26 2025 15:09:14 GMT+0200 (Eastern European Standard Time)</time> |
+| [norwegian]({{ "tags/norwegian" | relative_url }}) | <time datetime="2025-10-26T13:08:33.150Z">Sun Oct 26 2025 15:08:33 GMT+0200 (Eastern European Standard Time)</time> |
+| [ukraine]({{ "tags/ukraine" | relative_url }}) | <time datetime="2025-10-26T13:05:59.559Z">Sun Oct 26 2025 15:05:59 GMT+0200 (Eastern European Standard Time)</time> |
 | [alternative country]({{ "tags/alternative-country" | relative_url }}) | <time datetime="2025-10-26T11:46:25.257Z">Sun Oct 26 2025 13:46:25 GMT+0200 (Eastern European Standard Time)</time> |
 | [synth rock]({{ "tags/synth-rock" | relative_url }}) | <time datetime="2025-10-26T11:44:24.092Z">Sun Oct 26 2025 13:44:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [epic trance]({{ "tags/epic-trance" | relative_url }}) | <time datetime="2025-10-26T11:25:55.102Z">Sun Oct 26 2025 13:25:55 GMT+0200 (Eastern European Standard Time)</time> |
@@ -287,22 +294,16 @@ Last updated: <time datetime="2025-10-26T11:46:25.257Z">Sun Oct 26 2025 13:46:25
 | [rockabilly]({{ "tags/rockabilly" | relative_url }}) | <time datetime="2025-10-24T23:19:43.332Z">Sat Oct 25 2025 02:19:43 GMT+0300 (Eastern European Summer Time)</time> |
 | [industrial hardcore]({{ "tags/industrial-hardcore" | relative_url }}) | <time datetime="2025-10-24T23:19:04.736Z">Sat Oct 25 2025 02:19:04 GMT+0300 (Eastern European Summer Time)</time> |
 | [doujin ongaku]({{ "tags/doujin-ongaku" | relative_url }}) | <time datetime="2025-10-24T23:18:25.012Z">Sat Oct 25 2025 02:18:25 GMT+0300 (Eastern European Summer Time)</time> |
-| [acoustic]({{ "tags/acoustic" | relative_url }}) | <time datetime="2025-10-24T23:03:00.655Z">Sat Oct 25 2025 02:03:00 GMT+0300 (Eastern European Summer Time)</time> |
 | [trip-hop]({{ "tags/trip-hop" | relative_url }}) | <time datetime="2025-10-24T22:45:20.397Z">Sat Oct 25 2025 01:45:20 GMT+0300 (Eastern European Summer Time)</time> |
 | [quartet]({{ "tags/quartet" | relative_url }}) | <time datetime="2025-10-24T22:45:16.175Z">Sat Oct 25 2025 01:45:16 GMT+0300 (Eastern European Summer Time)</time> |
-| [college rock]({{ "tags/college-rock" | relative_url }}) | <time datetime="2025-10-24T21:25:21.075Z">Sat Oct 25 2025 00:25:21 GMT+0300 (Eastern European Summer Time)</time> |
 | [contemporary folk]({{ "tags/contemporary-folk" | relative_url }}) | <time datetime="2025-10-24T21:11:34.010Z">Sat Oct 25 2025 00:11:34 GMT+0300 (Eastern European Summer Time)</time> |
 | [magyar]({{ "tags/magyar" | relative_url }}) | <time datetime="2025-10-24T20:54:21.844Z">Fri Oct 24 2025 23:54:21 GMT+0300 (Eastern European Summer Time)</time> |
 | [avant-garde metal]({{ "tags/avant-garde-metal" | relative_url }}) | <time datetime="2025-10-24T20:35:40.170Z">Fri Oct 24 2025 23:35:40 GMT+0300 (Eastern European Summer Time)</time> |
 | [garage]({{ "tags/garage" | relative_url }}) | <time datetime="2025-10-24T20:30:44.249Z">Fri Oct 24 2025 23:30:44 GMT+0300 (Eastern European Summer Time)</time> |
-| [late romantic]({{ "tags/late-romantic" | relative_url }}) | <time datetime="2025-10-24T20:29:50.669Z">Fri Oct 24 2025 23:29:50 GMT+0300 (Eastern European Summer Time)</time> |
 | [power metal]({{ "tags/power-metal" | relative_url }}) | <time datetime="2025-10-24T20:10:08.971Z">Fri Oct 24 2025 23:10:08 GMT+0300 (Eastern European Summer Time)</time> |
 | [ethereal]({{ "tags/ethereal" | relative_url }}) | <time datetime="2025-10-24T18:50:52.172Z">Fri Oct 24 2025 21:50:52 GMT+0300 (Eastern European Summer Time)</time> |
-| [glitch pop]({{ "tags/glitch-pop" | relative_url }}) | <time datetime="2025-10-24T18:46:59.584Z">Fri Oct 24 2025 21:46:59 GMT+0300 (Eastern European Summer Time)</time> |
-| [norwegian]({{ "tags/norwegian" | relative_url }}) | <time datetime="2025-10-24T18:46:20.041Z">Fri Oct 24 2025 21:46:20 GMT+0300 (Eastern European Summer Time)</time> |
 | [nu metal]({{ "tags/nu-metal" | relative_url }}) | <time datetime="2025-10-24T18:45:52.514Z">Fri Oct 24 2025 21:45:52 GMT+0300 (Eastern European Summer Time)</time> |
 | [ukrainian]({{ "tags/ukrainian" | relative_url }}) | <time datetime="2025-10-24T18:43:31.693Z">Fri Oct 24 2025 21:43:31 GMT+0300 (Eastern European Summer Time)</time> |
-| [ukraine]({{ "tags/ukraine" | relative_url }}) | <time datetime="2025-10-24T18:43:08.133Z">Fri Oct 24 2025 21:43:08 GMT+0300 (Eastern European Summer Time)</time> |
 | [new weird america]({{ "tags/new-weird-america" | relative_url }}) | <time datetime="2025-10-24T18:42:42.201Z">Fri Oct 24 2025 21:42:42 GMT+0300 (Eastern European Summer Time)</time> |
 | [melodic metal]({{ "tags/melodic-metal" | relative_url }}) | <time datetime="2025-10-24T18:38:43.529Z">Fri Oct 24 2025 21:38:43 GMT+0300 (Eastern European Summer Time)</time> |
 | [rapcore]({{ "tags/rapcore" | relative_url }}) | <time datetime="2025-10-24T18:36:42.472Z">Fri Oct 24 2025 21:36:42 GMT+0300 (Eastern European Summer Time)</time> |
@@ -726,7 +727,6 @@ Last updated: <time datetime="2025-10-26T11:46:25.257Z">Sun Oct 26 2025 13:46:25
 | [trap]({{ "tags/trap" | relative_url }}) | <time datetime="2025-10-22T09:04:09.733Z">Wed Oct 22 2025 12:04:09 GMT+0300 (Eastern European Summer Time)</time> |
 | [harsh noise]({{ "tags/harsh-noise" | relative_url }}) | <time datetime="2025-10-22T09:04:02.127Z">Wed Oct 22 2025 12:04:02 GMT+0300 (Eastern European Summer Time)</time> |
 | [electropop]({{ "tags/electropop" | relative_url }}) | <time datetime="2025-10-22T09:03:54.562Z">Wed Oct 22 2025 12:03:54 GMT+0300 (Eastern European Summer Time)</time> |
-| [ambient pop]({{ "tags/ambient-pop" | relative_url }}) | <time datetime="2025-10-22T09:03:43.267Z">Wed Oct 22 2025 12:03:43 GMT+0300 (Eastern European Summer Time)</time> |
 | [china]({{ "tags/china" | relative_url }}) | <time datetime="2025-10-22T09:03:15.643Z">Wed Oct 22 2025 12:03:15 GMT+0300 (Eastern European Summer Time)</time> |
 | [avant-pop]({{ "tags/avant-pop" | relative_url }}) | <time datetime="2025-10-22T09:02:20.938Z">Wed Oct 22 2025 12:02:20 GMT+0300 (Eastern European Summer Time)</time> |
 | [mashup]({{ "tags/mashup" | relative_url }}) | <time datetime="2025-10-22T09:02:13.747Z">Wed Oct 22 2025 12:02:13 GMT+0300 (Eastern European Summer Time)</time> |
