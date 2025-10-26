@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-26T16:56:53.182Z
+date: 2025-10-26T16:59:38.204Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-26T16:56:53.182Z">Sun Oct 26 2025 18:56:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-26T16:59:38.204Z">Sun Oct 26 2025 18:59:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [baritone]({{ "tags/baritone" | relative_url }}) | <time datetime="2025-10-26T16:59:38.204Z">Sun Oct 26 2025 18:59:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [roots rock]({{ "tags/roots-rock" | relative_url }}) | <time datetime="2025-10-26T16:56:53.182Z">Sun Oct 26 2025 18:56:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [italian opera]({{ "tags/italian-opera" | relative_url }}) | <time datetime="2025-10-26T16:56:19.127Z">Sun Oct 26 2025 18:56:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [acoustic]({{ "tags/acoustic" | relative_url }}) | <time datetime="2025-10-26T16:44:57.301Z">Sun Oct 26 2025 18:44:57 GMT+0200 (Eastern European Standard Time)</time> |
@@ -286,7 +287,6 @@ Last updated: <time datetime="2025-10-26T16:56:53.182Z">Sun Oct 26 2025 18:56:53
 | [mediterranean]({{ "tags/mediterranean" | relative_url }}) | <time datetime="2025-10-25T01:14:50.754Z">Sat Oct 25 2025 04:14:50 GMT+0300 (Eastern European Summer Time)</time> |
 | [gothic metal]({{ "tags/gothic-metal" | relative_url }}) | <time datetime="2025-10-25T01:13:13.519Z">Sat Oct 25 2025 04:13:13 GMT+0300 (Eastern European Summer Time)</time> |
 | [trancecore]({{ "tags/trancecore" | relative_url }}) | <time datetime="2025-10-25T01:12:52.651Z">Sat Oct 25 2025 04:12:52 GMT+0300 (Eastern European Summer Time)</time> |
-| [baritone]({{ "tags/baritone" | relative_url }}) | <time datetime="2025-10-25T01:10:36.252Z">Sat Oct 25 2025 04:10:36 GMT+0300 (Eastern European Summer Time)</time> |
 | [pop metal]({{ "tags/pop-metal" | relative_url }}) | <time datetime="2025-10-25T01:09:39.024Z">Sat Oct 25 2025 04:09:39 GMT+0300 (Eastern European Summer Time)</time> |
 | [acid rock]({{ "tags/acid-rock" | relative_url }}) | <time datetime="2025-10-24T23:21:15.912Z">Sat Oct 25 2025 02:21:15 GMT+0300 (Eastern European Summer Time)</time> |
 | [comedy rock]({{ "tags/comedy-rock" | relative_url }}) | <time datetime="2025-10-24T23:20:06.914Z">Sat Oct 25 2025 02:20:06 GMT+0300 (Eastern European Summer Time)</time> |
