@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-27T01:54:00.155Z
+date: 2025-10-27T01:54:35.430Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-27T01:54:00.155Z">Mon Oct 27 2025 03:54:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-27T01:54:35.430Z">Mon Oct 27 2025 03:54:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [nintendocore]({{ "tags/nintendocore" | relative_url }}) | <time datetime="2025-10-27T01:54:35.430Z">Mon Oct 27 2025 03:54:35 GMT+0200 (Eastern European Standard Time)</time> |
 | [colombia]({{ "tags/colombia" | relative_url }}) | <time datetime="2025-10-27T01:54:00.155Z">Mon Oct 27 2025 03:54:00 GMT+0200 (Eastern European Standard Time)</time> |
 | [southern metal]({{ "tags/southern-metal" | relative_url }}) | <time datetime="2025-10-27T01:34:42.582Z">Mon Oct 27 2025 03:34:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [post-hardcore]({{ "tags/post-hardcore" | relative_url }}) | <time datetime="2025-10-26T23:31:30.919Z">Mon Oct 27 2025 01:31:30 GMT+0200 (Eastern European Standard Time)</time> |
@@ -215,7 +216,6 @@ Last updated: <time datetime="2025-10-27T01:54:00.155Z">Mon Oct 27 2025 03:54:00
 | [jam]({{ "tags/jam" | relative_url }}) | <time datetime="2025-10-25T09:25:10.546Z">Sat Oct 25 2025 12:25:10 GMT+0300 (Eastern European Summer Time)</time> |
 | [blues rock]({{ "tags/blues-rock" | relative_url }}) | <time datetime="2025-10-25T09:25:01.783Z">Sat Oct 25 2025 12:25:01 GMT+0300 (Eastern European Summer Time)</time> |
 | [nightcore]({{ "tags/nightcore" | relative_url }}) | <time datetime="2025-10-25T09:24:50.783Z">Sat Oct 25 2025 12:24:50 GMT+0300 (Eastern European Summer Time)</time> |
-| [nintendocore]({{ "tags/nintendocore" | relative_url }}) | <time datetime="2025-10-25T09:24:43.986Z">Sat Oct 25 2025 12:24:43 GMT+0300 (Eastern European Summer Time)</time> |
 | [american indie]({{ "tags/american-indie" | relative_url }}) | <time datetime="2025-10-25T09:24:30.427Z">Sat Oct 25 2025 12:24:30 GMT+0300 (Eastern European Summer Time)</time> |
 | [london]({{ "tags/london" | relative_url }}) | <time datetime="2025-10-25T09:24:24.660Z">Sat Oct 25 2025 12:24:24 GMT+0300 (Eastern European Summer Time)</time> |
 | [baroque pop]({{ "tags/baroque-pop" | relative_url }}) | <time datetime="2025-10-25T09:24:12.880Z">Sat Oct 25 2025 12:24:12 GMT+0300 (Eastern European Summer Time)</time> |
