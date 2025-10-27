@@ -1,66 +1,66 @@
 ---
 category: genre
-date: 2025-10-25T09:24:17.412Z
+date: 2025-10-27T01:54:00.155Z
 permalink: tags/colombia
 title: colombia
 ---
 
 ## colombia
 
-Last updated: <time datetime="2025-10-25T09:24:17.412Z">Sat Oct 25 2025 12:24:17 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-27T01:54:00.155Z">Mon Oct 27 2025 03:54:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 2 |  |  | CundeAmor | CundeAmor |
-| 3 |  |  | De Bruces a Mi | El poder de tu alma |
-| 5 |  |  | Hector Buitrago | Conector |
-| 17 |  |  | Thomas Parr | Pity |
-| 24 |  |  | Kafeina | Kafeina |
+| 3 |  |  | CundeAmor | CundeAmor |
+| 4 |  |  | De Bruces a Mi | El poder de tu alma |
+| 6 |  |  | Hector Buitrago | Conector |
+| 18 |  |  | Thomas Parr | Pity |
 | 35 |  |  | Mañas Ru-Fino | Rap de la Montaña |
 | 37 |  |  | lila sky | Candyxx world of luv |
 | 52 |  |  | The Hall Effect (Official) | Aim at Me |
-| 4 | ![Cover](https://i.discogs.com/L0aMkruA4cpM1CCdVUSEO1BYpo9cT0eQ67vPFVZZCRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDg2/NDY2LTE2Njc4MzQx/NjgtNTY2Ny5qcGVn.jpeg) | 1990 | GRUPO LABERINTO | QUE BARBARIDAD_RANCHERAS Y CORRIDOS_2010_LABERINTO_MARCOCHALINO |
+| 5 | ![Cover](https://i.discogs.com/L0aMkruA4cpM1CCdVUSEO1BYpo9cT0eQ67vPFVZZCRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDg2/NDY2LTE2Njc4MzQx/NjgtNTY2Ny5qcGVn.jpeg) | 1990 | GRUPO LABERINTO | QUE BARBARIDAD_RANCHERAS Y CORRIDOS_2010_LABERINTO_MARCOCHALINO |
 | 51 | ![Cover](https://i.discogs.com/8nPJT9GTa7roO0kIbhUIgTY3TdpCgqiE1Hy3DvZEbe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTcz/NjQtMTQyMjc5OTQ0/MC04MDQ4LmpwZWc.jpeg) | 1991 | The Latin Brothers | Piper Pimienta Diaz - Homenaje |
 | 50 | ![Cover](https://i.discogs.com/BpDMR78Yy5Pj5UB_BWyZpLekF2BitM-yQ9h4M7EK6NI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjY0/MDEtMTQ3OTk1OTc2/OC0xMzQzLmpwZWc.jpeg) | 1993 | Carlos Vives | Clasicos De La Provincia |
-| 21 | ![Cover](https://i.discogs.com/8-sVJbGkbhvENshIId39WaSr-Y9SHHXook5ThdvYWtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTkz/NjMtMTM4OTk2MTMw/Mi02MTkzLmpwZWc.jpeg) | 1994 | Los Gaiteros de San Jacinto | Un Fuego de Sangre Pura: Los Gaiteros de San Jacinto from Colombia |
-| 25 | ![Cover](https://i.discogs.com/QhG79tqrhuwGh75FuZdpc6oZ6DsxLG7dxz7X2EXAtSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTEw/NzMtMTQ3ODM5OTI1/OS00OTgxLmpwZWc.jpeg) | 1994 | Ekhymosis | Ciudad Pacifico |
+| 22 | ![Cover](https://i.discogs.com/8-sVJbGkbhvENshIId39WaSr-Y9SHHXook5ThdvYWtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTkz/NjMtMTM4OTk2MTMw/Mi02MTkzLmpwZWc.jpeg) | 1994 | Los Gaiteros de San Jacinto | Un Fuego de Sangre Pura: Los Gaiteros de San Jacinto from Colombia |
+| 26 | ![Cover](https://i.discogs.com/QhG79tqrhuwGh75FuZdpc6oZ6DsxLG7dxz7X2EXAtSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTEw/NzMtMTQ3ODM5OTI1/OS00OTgxLmpwZWc.jpeg) | 1994 | Ekhymosis | Ciudad Pacifico |
 | 43 | ![Cover](https://i.discogs.com/K4IWW25QrV-02BPfyyGHEnmkRPxQEREcJoc_NV7LcNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjQ5/MzYtMTQyNzY1NjU3/Ni02MzI2LmpwZWc.jpeg) | 1995 | Ekhymosis | Amor Bilingue |
 | 46 |  | 1996-02-06 | Soraya | On Nights Like This |
 | 60 |  | 1996-02-06 | Soraya | En Esta Noche |
 | 53 | ![Cover](https://i.discogs.com/eH8l8VLNM5I0P_3z-bv4G2dRcu-FH7zfzSplYJagB0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzM2/Ni0xNTMxMzMwNTAy/LTcyNDEuanBlZw.jpeg) | 1998 | Shakira | ¿Dónde Están los Ladrones? |
 | 95 |  | 1998-09-29 | Shakira | Dónde Están los Ladrones? |
-| 6 | ![Cover](https://i.discogs.com/FwF7yDNpvyKxRvZNtVz0FXK0584Qo8hDpG3_-BtBOFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTY0/OTM0LTE2MTIxNjM0/OTktMTc5Ny5qcGVn.jpeg) | 1999 | Anasol | Escorpión De Primavera |
-| 8 |  | 2000 | Ethereal | Shroud of Flesh |
+| 7 | ![Cover](https://i.discogs.com/FwF7yDNpvyKxRvZNtVz0FXK0584Qo8hDpG3_-BtBOFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTY0/OTM0LTE2MTIxNjM0/OTktMTc5Ny5qcGVn.jpeg) | 1999 | Anasol | Escorpión De Primavera |
+| 9 |  | 2000 | Ethereal | Shroud of Flesh |
 | 84 |  | 2000-02-28 | Shakira | MTV Unplugged |
 | 66 |  | 2000-03-21 | Sonora Carruseles | Con Todos Los Hierros |
 | 58 |  | 2000-10-17 | Juanes | Fíjate Bien |
-| 12 |  | 2001-10-07 | Los De Adentro | Como Un Niño |
+| 13 |  | 2001-10-07 | Los De Adentro | Como Un Niño |
 | 83 | ![Cover](https://i.discogs.com/JlhKrP_C6WG9J7TlyeK2bbe0KTodiD31YFh-no94jvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzE4/OTYtMTQ1MzgyNjQ3/Ny02MDkzLmpwZWc.jpeg) | 2002 | Shakira | Shakira MTV Unplugged |
 | 90 | ![Cover](https://i.discogs.com/1UQbDxlrSQBiiER8faUt68mP2jfnFq2ohiTnKHCKkPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDE1/Ni0xNTk5OTc0NTIz/LTQ0OTAuanBlZw.jpeg) | 2002 | Aterciopelados | Evolucion |
 | 92 | ![Cover](https://i.discogs.com/anHJ8-PScHkcQhn1T28kHwKo2EoHC6sORddPwPoFFkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTQz/Mzg0LTE2MzA5OTY1/NzItNTU4MC5qcGVn.jpeg) | 2002 | Wolfine | Bella |
 | 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a297e316165a4b118828905e67954e56.png) | 2002-05-21 | Juanes | Un Día Normal |
-| 15 | ![Cover](https://i.discogs.com/-RQrYmOCkqxvzhHWZu6F222YD4SL1AsKx8H9eK-tpfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDcw/MDUtMTM4NzQ2Njcy/Ny04MDk0LmpwZWc.jpeg) | 2002-07-02 | Fruko Y Sus Tesos | Tipico y Salsero |
+| 16 | ![Cover](https://i.discogs.com/-RQrYmOCkqxvzhHWZu6F222YD4SL1AsKx8H9eK-tpfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDcw/MDUtMTM4NzQ2Njcy/Ny04MDk0LmpwZWc.jpeg) | 2002-07-02 | Fruko Y Sus Tesos | Tipico y Salsero |
 | 44 | ![Cover](https://i.discogs.com/mtu-sP7wDIi719CaG0EL2ekuRbz3bc_Lcm1UkzsxjZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTcy/MzE1LTE1NzM3Mzg1/MTEtMTY3OC5qcGVn.jpeg) | 2002-09-27 | Escarcha | Escarcha |
-| 1 | ![Cover](https://i.discogs.com/iJTOxDrexcKM-Kvvl_0wqc_VyiTAiw107sL01G77hDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Nzkz/MjQtMTQ3MDcxMDkx/NS02NTQ5LmpwZWc.jpeg) | 2003 | Popcorn | Un intento mas |
-| 9 | ![Cover](https://i.discogs.com/ewVm4MkHSqxkCZ8PASVr3RBjgNZOg1RXKQezwiB7bXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODgy/OTc2LTE1OTk1MzQy/OTUtNDUzMC5qcGVn.jpeg) | 2004 | El Sie7e | Punto Cero |
+| 2 | ![Cover](https://i.discogs.com/iJTOxDrexcKM-Kvvl_0wqc_VyiTAiw107sL01G77hDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Nzkz/MjQtMTQ3MDcxMDkx/NS02NTQ5LmpwZWc.jpeg) | 2003 | Popcorn | Un intento mas |
+| 10 | ![Cover](https://i.discogs.com/ewVm4MkHSqxkCZ8PASVr3RBjgNZOg1RXKQezwiB7bXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODgy/OTc2LTE1OTk1MzQy/OTUtNDUzMC5qcGVn.jpeg) | 2004 | El Sie7e | Punto Cero |
 | 82 | ![Cover](https://i.discogs.com/ZulEO7t_BHSLM9G_9ph32PCQqWuh48zPtzoU3YvAAvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAy/ODU0LTE0OTQ5NjMw/MjYtOTEyMi5qcGVn.jpeg) | 2004 | Juanes | Yerbatero |
 | 93 | ![Cover](https://i.discogs.com/Gref9zEpCKrO7zp5rUQ22IQb9QDbscGi_JKvGkdBUJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjgw/MzE5LTE2NjExODIz/NzUtMjgyMi5qcGVn.jpeg) | 2004 | Juanes | La Camisa Negra |
 | 76 |  | 2004-09-28 | Juanes | Mi Sangre |
-| 18 |  | 2005-06-03 | Shakira | Fijación oral, volume 1 |
-| 23 | ![Cover](https://i.discogs.com/aABXGCtPoGNv6ebrpVoHJafPD-ql7L88-z4ipJ81d-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQy/NDk0LTE1NDg3OTk0/MDAtNzg2OC5qcGVn.jpeg) | 2005-08-30 | Anasol | Anasol |
-| 30 |  |  | De Juepuchas | Ser de Juepuchas por Varios Años |
+| 19 |  | 2005-06-03 | Shakira | Fijación oral, volume 1 |
+| 24 | ![Cover](https://i.discogs.com/aABXGCtPoGNv6ebrpVoHJafPD-ql7L88-z4ipJ81d-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQy/NDk0LTE1NDg3OTk0/MDAtNzg2OC5qcGVn.jpeg) | 2005-08-30 | Anasol | Anasol |
+| 25 |  |  | Kafeina | Kafeina |
+| 31 |  |  | De Juepuchas | Ser de Juepuchas por Varios Años |
 | 57 |  | 2005-09-27 | Cabas | Puro Cabas |
 | 48 |  | 2005-11-28 | Shakira | Oral Fixation, volume 2 |
-| 14 | ![Cover](https://i.discogs.com/tgNh8d8obxElBE2q-IBmcn4cktvoP0csSMLEtiTUIGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTEw/OTg0LTE1MDYzNzM4/ODUtMTY5NS5qcGVn.jpeg) | 2006 | Maía | Natural |
-| 26 | ![Cover](https://i.discogs.com/1kzkt1w7htEP2rj2lS5nDDS6Io7wTE8V0YYlWWNISko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTc5/MTktMTI4Mjk3MjE4/MC5qcGVn.jpeg) | 2006 | Conector | Conector |
-| 29 | ![Cover](https://i.discogs.com/Q8yeABCctrIieKXbiJuxXBhLg8YYk-U1GdIiMaTYksM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTcz/ODYyLTE1MjU3OTY5/NzQtOTk5MC5qcGVn.jpeg) | 2006 | Verónica Orozco | Verónica Orozco |
+| 15 | ![Cover](https://i.discogs.com/tgNh8d8obxElBE2q-IBmcn4cktvoP0csSMLEtiTUIGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTEw/OTg0LTE1MDYzNzM4/ODUtMTY5NS5qcGVn.jpeg) | 2006 | Maía | Natural |
+| 27 | ![Cover](https://i.discogs.com/1kzkt1w7htEP2rj2lS5nDDS6Io7wTE8V0YYlWWNISko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTc5/MTktMTI4Mjk3MjE4/MC5qcGVn.jpeg) | 2006 | Conector | Conector |
+| 30 | ![Cover](https://i.discogs.com/Q8yeABCctrIieKXbiJuxXBhLg8YYk-U1GdIiMaTYksM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTcz/ODYyLTE1MjU3OTY5/NzQtOTk5MC5qcGVn.jpeg) | 2006 | Verónica Orozco | Verónica Orozco |
 | 42 | ![Cover](https://i.discogs.com/rTAeYfQKtOI_xcCz_9zLVaQCZB5e9YyKlwaJty_svN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTE0/ODMtMTQ1NTM2NDI5/MC00NTgyLmpwZWc.jpeg) | 2006-01-10 | Soraya | Gold |
 | 47 |  | 2006-06-27 | Soraya | Herencia |
 | 34 |  | 2006-06-28 | UnderThreat | Deathmosphere |
-| 10 | ![Cover](https://i.discogs.com/AGy1e1aWCTFs_oNgX6YKwgIjEG6FyP32Pm8wizO14wE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEz/NDQ2LTE1NzYwNzk4/NjktNDE3Ny5wbmc.jpeg) | 2007 | Retrovisor | Amazonas S.O.S |
-| 11 | ![Cover](https://i.discogs.com/Z7rrelkJKXHe3QGmj2eOmDVrgQAPnLEGX4JFffWEZ9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTI4/NTI2LTE1NDQ3MjE0/NzUtMjAzMy5qcGVn.jpeg) | 2007 | Velandia y la tigra | 11 Rascas |
+| 11 | ![Cover](https://i.discogs.com/AGy1e1aWCTFs_oNgX6YKwgIjEG6FyP32Pm8wizO14wE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEz/NDQ2LTE1NzYwNzk4/NjktNDE3Ny5wbmc.jpeg) | 2007 | Retrovisor | Amazonas S.O.S |
+| 12 | ![Cover](https://i.discogs.com/Z7rrelkJKXHe3QGmj2eOmDVrgQAPnLEGX4JFffWEZ9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTI4/NTI2LTE1NDQ3MjE0/NzUtMjAzMy5qcGVn.jpeg) | 2007 | Velandia y la tigra | 11 Rascas |
 | 36 | ![Cover](https://i.discogs.com/dzpvYUVvR_SWgBpWCaO4f3UZa-P6odQ9RdybR9iR250/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzEx/OTktMTM4OTIxODk5/NC01NTk2LmpwZWc.jpeg) | 2007 | ChocQuibTown | Somos Pacifico |
 | 67 |  | 2007-05-08 | Lucrecia | Like being home ep |
 | 69 |  |  | Buhodermia 夜 | K.E.P.L.E.R.: Konishiwa |
@@ -68,32 +68,32 @@ Last updated: <time datetime="2025-10-25T09:24:17.412Z">Sat Oct 25 2025 12:24:17
 | 86 | ![Cover](https://i.discogs.com/tlGVE__fmOWKCqIuXC6MFqj9doOuOlz9M0XLjZlpcpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzgx/NDY4LTE1NzMzODk0/MzUtNTE0Ni5qcGVn.jpeg) | 2005 | Naif | Naif |
 | 96 | ![Cover](https://i.discogs.com/9aGlQ_lOov29I0ZM_DjIwx_hmxGCEXrTZwUN_pavsss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTQ0/NTItMTQ5MzUwNTM0/My04NjAyLmpwZWc.jpeg) | 2006-02-26 | Shakira | Donde Estan Los Ladrones |
 | 80 | ![Cover](https://i.discogs.com/5_Cm-RgOb_e38osIqeSWmj7EyWqSt7fGrSmbbeTv_3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mjkz/MTAtMTUyMDI5NzM1/NC00MDc4LmpwZWc.jpeg) | 2007-05-13 | Shakira | Pure Intuition |
-| 20 | ![Cover](https://i.discogs.com/lDu8_rSmN-pYn-r49eEIHVevjia1kkzZ-cP2PSg0w1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTc4/NDMtMTQzNTk0MTg4/NS03ODI0LmpwZWc.jpeg) | 2008 | Fanny Lú | Fanfarrón |
+| 21 | ![Cover](https://i.discogs.com/lDu8_rSmN-pYn-r49eEIHVevjia1kkzZ-cP2PSg0w1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTc4/NDMtMTQzNTk0MTg4/NS03ODI0LmpwZWc.jpeg) | 2008 | Fanny Lú | Fanfarrón |
 | 56 | ![Cover](https://i.discogs.com/KQgL-FMlzW2VMjQVUnRTfdZbiPF_LQQKjesfi9gRO1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDg0/NDUtMTI5NzQ4OTE2/Ni5qcGVn.jpeg) | 2008 | Aterciopelados | Rio |
 | 62 | ![Cover](https://i.discogs.com/AU0_DI1mbTijpLOZz0iKToCZYHRSjbFnODfMY05fnFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcx/MzQ1LTE1NzUyMDkw/MDQtMjM5Mi5qcGVn.jpeg) | 2008 | Adriana Lucia | Porro Nuevo |
 | 54 | ![Cover](https://i.discogs.com/KQgL-FMlzW2VMjQVUnRTfdZbiPF_LQQKjesfi9gRO1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDg0/NDUtMTI5NzQ4OTE2/Ni5qcGVn.jpeg) | 2008-10-21 | Aterciopelados | Río |
 | 88 |  | 2008-10-21 | Bomba Estéreo | Estalla |
 | 79 | ![Cover](https://i.discogs.com/lDu8_rSmN-pYn-r49eEIHVevjia1kkzZ-cP2PSg0w1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTc4/NDMtMTQzNTk0MTg4/NS03ODI0LmpwZWc.jpeg) | 2008-12-08 | Fanny Lú | Dos |
 | 45 |  | 2008-12-16 | Monareta | Picotero |
-| 28 | ![Cover](https://i.discogs.com/AM0LYeBlZfbidKhjIGWWetIC2kbFy-KVr9usSyjJorc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjcz/NzAtMTQ3NTk1MTcx/OS0xMDIzLmpwZWc.jpeg) | 2009 | Santiago Cruz | Cruce de caminos: Acústico, real y en vivo |
-| 31 |  | 2009 | Juliana | La Colombiana |
+| 29 | ![Cover](https://i.discogs.com/AM0LYeBlZfbidKhjIGWWetIC2kbFy-KVr9usSyjJorc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjcz/NzAtMTQ3NTk1MTcx/OS0xMDIzLmpwZWc.jpeg) | 2009 | Santiago Cruz | Cruce de caminos: Acústico, real y en vivo |
+| 32 |  | 2009 | Juliana | La Colombiana |
 | 38 | ![Cover](https://i.discogs.com/2jOFEMQmLQ06Zir_wxPEW_FZwvZes_xZNrwpHR-V2yY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQ3/MTk4LTE1NTYyODU5/NjQtNDY4NS5qcGVn.jpeg) | 2009 | The Mills | Babel |
 | 49 | ![Cover](https://i.discogs.com/AmNXJzVDo4yDNvlzJbDU9FgsYNVGQE1qZwYuPMxh_jo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzU5/MjgtMTQ4OTUyNjU0/NC0zMzQwLmpwZWc.jpeg) | 2009 | Cejaz Negraz | Buscando millones |
 | 70 |  | 2009 | Superlitio | Calidosound |
 | 81 | ![Cover](https://i.discogs.com/6MAz5J7kEomtcZs1pL_dOl8_JnxuHzlMS3ZwsE4V6rY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzg3/MTAtMTM4MzE1Mzcz/OS0zOTg0LmpwZWc.jpeg) | 2009 | Systema Solar | Systema Solar |
-| 32 |  | 2010 | V For Volume | Providence |
-| 27 |  | 2011 | Santiago Cruz | Solo Hasta Hoy |
+| 1 | ![Cover](https://i.discogs.com/2LpsumbULapQZ5WI4pNeFBTWf4QjemNxMKRGB2J5fn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTUz/OTMtMTUzMDcyMTk4/Ny0xMTE0LmpwZWc.jpeg) | 2010 | Bomba Estéreo | Bomba Estéreo Vol.1 |
+| 28 |  | 2011 | Santiago Cruz | Solo Hasta Hoy |
 | 71 |  | 2011 | Sonido Gallo Negro | Cumbia Salvaje |
-| 19 | ![Cover](https://i.discogs.com/CIbV4TgZuxgWwA1C_IwWbxihIn8pGfu1tBKr5mGgECI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAz/MjMwLTE1MDk5MDIw/NjQtMjA5MS5qcGVn.jpeg) | 2011-06-14 | Pernett | El Mago |
+| 20 | ![Cover](https://i.discogs.com/CIbV4TgZuxgWwA1C_IwWbxihIn8pGfu1tBKr5mGgECI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAz/MjMwLTE1MDk5MDIw/NjQtMjA5MS5qcGVn.jpeg) | 2011-06-14 | Pernett | El Mago |
 | 40 | ![Cover](https://i.discogs.com/jGRjLS9VTKXrtDD-g1F5U_LbDaxInbtleOWarFTEWwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzMz/NTQtMTM0OTcwNzEz/NC0xMDUzLnBuZw.jpeg) | 2012 | Santiago Cruz | A Quien Corresponda, cartas abiertas y otros asuntos de la correspondencia |
 | 78 |  | 2012-04-28 | Esteman | 1er Acto |
 | 89 |  | 2012-06-20 | Monsieur Periné | Hecho a mano |
 | 63 |  | 2012-07-10 | Cali &amp; El Dandee | 3 A.M. |
 | 59 |  | 2012-07-17 | Santiago Cruz | A Quien Corresponda |
 | 91 |  | 2012-10-23 | Bomba Estéreo | Elegancia Tropical |
-| 16 | ![Cover](https://i.discogs.com/lDYSN57VZoUsmgzeRMpT4JTdnfxa2YtYU3Bd2V1H-FU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDc2/NzAxLTE2NDcwNDEx/ODAtNzM5OC5qcGVn.jpeg) | 2012-11-01 | Siam | Las Cosas Que Nunca Nos Dijimos |
+| 17 | ![Cover](https://i.discogs.com/lDYSN57VZoUsmgzeRMpT4JTdnfxa2YtYU3Bd2V1H-FU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDc2/NzAxLTE2NDcwNDEx/ODAtNzM5OC5qcGVn.jpeg) | 2012-11-01 | Siam | Las Cosas Que Nunca Nos Dijimos |
 | 75 |  | 2013-01-22 | Is Tropical | Flags |
-| 22 | ![Cover](https://i.discogs.com/k8Yv1UqqEdVEMiBnNytIfRVsBz2rHtwM91jsE9vaFAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDk3/NjItMTQwMjQ0MzIz/My0xNTQ2LmpwZWc.jpeg) | 2013-10-26 | Aerophon | reloj de fe |
+| 23 | ![Cover](https://i.discogs.com/k8Yv1UqqEdVEMiBnNytIfRVsBz2rHtwM91jsE9vaFAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDk3/NjItMTQwMjQ0MzIz/My0xNTQ2LmpwZWc.jpeg) | 2013-10-26 | Aerophon | reloj de fe |
 | 74 | ![Cover](https://i.discogs.com/IlbUwkn978fSbJp-NsMfcqQyj4iS-Yrtb3o_wlW-pxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQ4/MDM3LTE1MTQ2ODUy/MzktNjY3Mi5qcGVn.jpeg) | 2014-04-25 | Mitú | Balnear |
 | 55 | ![Cover](https://i.discogs.com/2jOFEMQmLQ06Zir_wxPEW_FZwvZes_xZNrwpHR-V2yY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQ3/MTk4LTE1NTYyODU5/NjQtNDY4NS5qcGVn.jpeg) | 2015 | The Mills | Babel (Special Edition) |
 | 94 | ![Cover](https://i.discogs.com/INmM2_omk0tie7eafrEEKuWGEBKmks2zXzHH4xKsVp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Njky/NzQtMTQ0NjM0ODkw/NC0xMDM3LmpwZWc.jpeg) | 2015-10-30 | Maluma | Pretty Boy, Dirty Boy |
@@ -105,10 +105,10 @@ Last updated: <time datetime="2025-10-25T09:24:17.412Z">Sat Oct 25 2025 12:24:17
 | 39 | ![Cover](https://i.discogs.com/wtzgNcWjT5VRXLtIib4woGgaP-_6OtE1ewt_ZhVozSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgx/NTkwLTE1NTMxMzcy/MjMtNDc2Ny5qcGVn.jpeg) | 2018 | Lianna | Como el Agua |
 | 41 | ![Cover](https://i.discogs.com/26jYd-1JRuJBzYNcnS0xquQnDfpi-eD08RhOoPLOsok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDk5/MDMtMTQ2Nzk1MzYy/NS05ODExLmpwZWc.jpeg) | 2019-02-14 | Esteman | Pobre Corazón |
 | 85 | ![Cover](https://i.discogs.com/UNuK9--XHJzH4rfs0o8r9ReK6DxWKxyqaieWJacmNe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTU2/NDg0LTE1NzcwMDg5/ODEtODE0MC5qcGVn.jpeg) | 2019-12-20 | Noiseferatu | Noiseferatu |
-| 13 | ![Cover](https://i.discogs.com/LSBpFTgr-zp26jiKqt1YID4fsPx1MwRN6k3hZubXsUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTkx/NjMzLTE2MDUwMjI1/NzYtMTA5NC5qcGVn.jpeg) | 2020-10-23 | Rap Bang Club | REPRESEN&#39; |
+| 14 | ![Cover](https://i.discogs.com/LSBpFTgr-zp26jiKqt1YID4fsPx1MwRN6k3hZubXsUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTkx/NjMzLTE2MDUwMjI1/NzYtMTA5NC5qcGVn.jpeg) | 2020-10-23 | Rap Bang Club | REPRESEN&#39; |
 | 61 | ![Cover](https://i.discogs.com/qD_vUTYX6Ysr4DalRE8Oq2rPe0zBdaVLppLp2VhHjJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTIz/NTk1LTE2MDM4MjMy/MTctNTUwMi5qcGVn.jpeg) | 2020-10-23 | Karol G | Ricos Besos |
 | 77 | ![Cover](https://i.discogs.com/3EWSsEhXLvBJttOwJCEy84BS2lNS3ugT0rOwT9EsUwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzkw/NjM2LTE2NzAzNjk3/NjItNjM4Ny5qcGVn.jpeg) | 2021-02-19 | Briela Ojeda | Templo Komodo |
-| 7 | ![Cover](https://i.discogs.com/4BkO5gZ6PV3SHP2J1kW2WDq4AJaByJhcuZP5QGVVkhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTc4/NjA5LTE2OTIwODk0/MDctODI3OS5qcGVn.jpeg) | 2022-12-08 | Karol G | Dime (feat. Andy Rivera) |
+| 8 | ![Cover](https://i.discogs.com/4BkO5gZ6PV3SHP2J1kW2WDq4AJaByJhcuZP5QGVVkhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTc4/NjA5LTE2OTIwODk0/MDctODI3OS5qcGVn.jpeg) | 2022-12-08 | Karol G | Dime (feat. Andy Rivera) |
 | 99 | ![Cover](https://i.discogs.com/Z6t6VwL-RJI-w_qdDpQcZVXTPmBBaGcNzmAfET9LDJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjk3/NTAxLTE2Nzc5MDUw/ODgtNDExNS5qcGVn.jpeg) | 2023-02-23 | Karol G | mAñAnA sErÁ bOnIto |
 | 100 | ![Cover](https://i.discogs.com/8-3yh2NG3He2Z07ztHLfgjX5R3nMJo_9Vk5Q7p08iRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQ4/NTg1LTE2OTE3OTk3/NjUtNzIxNC5qcGVn.jpeg) | 2023-08-11 | Karol G | MAÑANA SERÁ BONITO (BICHOTA SEASON) |
 | 33 | ![Cover](https://i.discogs.com/AHB4CTOtjYO8-RmiqzSnsl8BgQmoTXH2S0NjBV5R2HM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjA4/MDU3LTE1ODgxMTAx/MjAtNzI0OC5qcGVn.jpeg) | 2024 | Vic Deal | La Costa Nostra |
