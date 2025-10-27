@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-27T05:49:24.495Z
+date: 2025-10-27T07:00:24.816Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-27T05:49:24.495Z">Mon Oct 27 2025 07:49:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-27T07:00:24.816Z">Mon Oct 27 2025 09:00:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [metalcore]({{ "tags/metalcore" | relative_url }}) | <time datetime="2025-10-27T07:00:24.816Z">Mon Oct 27 2025 09:00:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [emo]({{ "tags/emo" | relative_url }}) | <time datetime="2025-10-27T05:49:24.495Z">Mon Oct 27 2025 07:49:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [pop rock]({{ "tags/pop-rock" | relative_url }}) | <time datetime="2025-10-27T05:40:34.032Z">Mon Oct 27 2025 07:40:34 GMT+0200 (Eastern European Standard Time)</time> |
 | [nerdcore]({{ "tags/nerdcore" | relative_url }}) | <time datetime="2025-10-27T03:05:20.962Z">Mon Oct 27 2025 05:05:20 GMT+0200 (Eastern European Standard Time)</time> |
@@ -158,7 +159,6 @@ Last updated: <time datetime="2025-10-27T05:49:24.495Z">Mon Oct 27 2025 07:49:24
 | [electronic]({{ "tags/electronic" | relative_url }}) | <time datetime="2025-10-25T18:16:30.924Z">Sat Oct 25 2025 21:16:30 GMT+0300 (Eastern European Summer Time)</time> |
 | [funk rock]({{ "tags/funk-rock" | relative_url }}) | <time datetime="2025-10-25T18:16:19.981Z">Sat Oct 25 2025 21:16:19 GMT+0300 (Eastern European Summer Time)</time> |
 | [indie electronic]({{ "tags/indie-electronic" | relative_url }}) | <time datetime="2025-10-25T17:59:55.238Z">Sat Oct 25 2025 20:59:55 GMT+0300 (Eastern European Summer Time)</time> |
-| [metalcore]({{ "tags/metalcore" | relative_url }}) | <time datetime="2025-10-25T17:43:18.823Z">Sat Oct 25 2025 20:43:18 GMT+0300 (Eastern European Summer Time)</time> |
 | [unplugged]({{ "tags/unplugged" | relative_url }}) | <time datetime="2025-10-25T17:43:16.803Z">Sat Oct 25 2025 20:43:16 GMT+0300 (Eastern European Summer Time)</time> |
 | [east coast rap]({{ "tags/east-coast-rap" | relative_url }}) | <time datetime="2025-10-25T17:42:57.717Z">Sat Oct 25 2025 20:42:57 GMT+0300 (Eastern European Summer Time)</time> |
 | [noise pop]({{ "tags/noise-pop" | relative_url }}) | <time datetime="2025-10-25T17:42:52.679Z">Sat Oct 25 2025 20:42:52 GMT+0300 (Eastern European Summer Time)</time> |

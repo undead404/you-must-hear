@@ -1,66 +1,66 @@
 ---
 category: genre
-date: 2025-10-25T17:43:18.823Z
+date: 2025-10-27T07:00:24.816Z
 permalink: tags/metalcore
 title: metalcore
 ---
 
 ## metalcore
 
-Last updated: <time datetime="2025-10-25T17:43:18.823Z">Sat Oct 25 2025 20:43:18 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-27T07:00:24.816Z">Mon Oct 27 2025 09:00:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 6 |  | 2002-02-26 | Underoath | The Changing of Times |
+| 5 |  | 2002-02-26 | Underoath | The Changing of Times |
 | 32 |  | 2002-06-04 | Atreyu | Suicide Notes And Butterfly Kisses |
 | 44 | ![Cover](https://i.discogs.com/JkNIqhPY6FJZ-QVH8rkIIo59-K4L5erF4cGuj2nzN-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjE0/NTMtMTQwMTk1Mzcw/OC01MDY2LmpwZWc.jpeg) | 2003-03-15 | 36 Crazyfists | A Snow Capped Romance |
 | 28 |  | 2003-05-06 | Lamb of God | As the Palaces Burn |
 | 30 | ![Cover](https://i.discogs.com/8f4XL1a_9kNpeOjYVuqTG2yRSP5kN6Vjix0bRr97CTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDUz/Ni0xNDM1ODYyNDUy/LTg4MzAuanBlZw.jpeg) | 2003-09-09 | From Autumn To Ashes | The Fiction We Live |
-| 3 |  | 2003-09-29 | Trivium | Ember To Inferno |
+| 2 |  | 2003-09-29 | Trivium | Ember To Inferno |
 | 42 |  | 2004-03 | Parkway Drive | Don&#39;t Close Your Eyes |
 | 41 | ![Cover](https://i.discogs.com/8303JD8osj8AQtjG_ChYpovwLG6z4cyYazxoVkmqy9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjA3/Ni0xMzQ5NjgwMjU0/LTkyNzAuanBlZw.jpeg) | 2004-03-23 | All That Remains | This Darkened Heart |
-| 14 | ![Cover](https://i.discogs.com/xfGGBy445hs_w9HDcQPxwT5lDEBkJQMksjSLp7ZrLJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzA2/MS0xMzY1MzM0ODg5/LTI2OTkuanBlZw.jpeg) | 2004-08-26 | Lamb of God | Ashes Of The Wake |
+| 13 | ![Cover](https://i.discogs.com/xfGGBy445hs_w9HDcQPxwT5lDEBkJQMksjSLp7ZrLJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzA2/MS0xMzY1MzM0ODg5/LTI2OTkuanBlZw.jpeg) | 2004-08-26 | Lamb of God | Ashes Of The Wake |
 | 47 |  | 2004-11-15 | Bullet for My Valentine | Bullet For My Valentine |
-| 12 |  | 2005-08-23 | Every Time I Die | Gutter Phenomenon |
+| 11 |  | 2005-08-23 | Every Time I Die | Gutter Phenomenon |
 | 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/aa5a326d01364ba88a96d240f07ae090.png) | 2005-10-11 | Roadrunner United | The All-Star Sessions |
 | 27 |  | 2006-03-28 | Atreyu | A Death-Grip on Yesterday |
 | 43 |  | 2006-08-22 | The Devil Wears Prada | Dear Love: A Beautiful Discord |
-| 20 |  | 2007-01-23 | A Day to Remember | For Those Who Have Heart |
-| 1 |  | 2007-03-06 | Emmure | Goodbye To The Gallows |
+| 19 |  | 2007-01-23 | A Day to Remember | For Those Who Have Heart |
 | 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3784b1259ec04ffc8bcb8f73dc051024.png) | 2009-01-01 | Killswitch Engage | Killswitch Engage |
 | 40 |  | 2009-01-26 | Architects | Hollow Crown |
-| 11 |  | 2009-05-04 | The Devil Wears Prada | With Roots Above and Branches Below |
-| 21 |  | 2009-10-20 | Converge | Axe to Fall |
-| 4 |  | 2010-05-07 | As I Lay Dying | The Powerless Rise |
+| 10 |  | 2009-05-04 | The Devil Wears Prada | With Roots Above and Branches Below |
+| 20 |  | 2009-10-20 | Converge | Axe to Fall |
+| 3 |  | 2010-05-07 | As I Lay Dying | The Powerless Rise |
 | 50 |  | 2010-06-05 | Parkway Drive | Deep Blue |
 | 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bd12ddaafc7344d3bf43f963f814cc90.png) | 2010-07-23 | Avenged Sevenfold | Nightmare |
-| 2 |  | 2010-08-23 | The Devil Wears Prada | Zombie EP |
+| 1 |  | 2010-08-23 | The Devil Wears Prada | Zombie EP |
 | 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c4c788a75c6a4f77a8b7e50592a70778.png) | 2010-10-12 | All That Remains | For We Are Many |
-| 16 |  | 2011-01-21 | Architects | The Here And Now |
-| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/be3fabce121340c5bee823970d48c04d.png) | 2011-08-02 | Trivium | In Waves |
+| 15 |  | 2011-01-21 | Architects | The Here And Now |
+| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/be3fabce121340c5bee823970d48c04d.png) | 2011-08-02 | Trivium | In Waves |
 | 39 | ![Cover](https://i.discogs.com/87Ay3I3APRP5cbVqfkaQva0DuJl-iQuEqz5OL8tvHmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzI0/MzE5LTE1NDg5NTg0/MzEtNzc1MS5qcGVn.jpeg) | 2012-06-25 | As I Lay Dying | My Own Grave |
 | 25 |  | 2012-08-12 | In This Moment | Blood |
-| 13 |  | 2012-10-26 | Parkway Drive | Atlas |
-| 17 | ![Cover](https://i.discogs.com/F-FzIve8VmvY0AphmRoFz41_BtRkOjxFsc6ktsJPUNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjUx/OTQzLTE1MzE0NjU3/NjAtNTU4Ni5qcGVn.jpeg) | 2013-07-16 | Architects | Doomsday (Piano Reprise) |
-| 7 |  | 2014-03-07 | Architects | Lost Forever &#x2F;&#x2F; Lost Together |
-| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/70d1756e390acd9dd6ffc377a6829a18.png) | 2016-04-06 | Asking Alexandria | The Black |
-| 22 | ![Cover](https://i.discogs.com/nMvMFY-Ij4wnuqQ-dvFE9XUJ8prMtUh-f4ngJbzQcgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njg3/NTMtMTU5MDIwOTQz/NS05OTU0LmpwZWc.jpeg) | 2016-05-27 | Architects | All Our Gods Have Abandoned Us |
+| 12 |  | 2012-10-26 | Parkway Drive | Atlas |
+| 16 | ![Cover](https://i.discogs.com/F-FzIve8VmvY0AphmRoFz41_BtRkOjxFsc6ktsJPUNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjUx/OTQzLTE1MzE0NjU3/NjAtNTU4Ni5qcGVn.jpeg) | 2013-07-16 | Architects | Doomsday (Piano Reprise) |
+| 6 |  | 2014-03-07 | Architects | Lost Forever &#x2F;&#x2F; Lost Together |
+| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/93809633376642edc220ccb4099d34f2.png) | 2014-06-13 | Knocked Loose | Pop Culture |
+| 17 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/70d1756e390acd9dd6ffc377a6829a18.png) | 2016-04-06 | Asking Alexandria | The Black |
+| 21 | ![Cover](https://i.discogs.com/nMvMFY-Ij4wnuqQ-dvFE9XUJ8prMtUh-f4ngJbzQcgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njg3/NTMtMTU5MDIwOTQz/NS05OTU0LmpwZWc.jpeg) | 2016-05-27 | Architects | All Our Gods Have Abandoned Us |
 | 45 | ![Cover](https://i.discogs.com/FpItErl3EmKR6L5B4kFVsmwlsyVyOpoEyrrALmlBDcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODc1/MTEtMTUwODk3Nzky/My02NDgzLmpwZWc.jpeg) | 2016-09-16 | Knocked Loose | Laugh Tracks |
 | 37 | ![Cover](https://i.discogs.com/omtx2n8l5qeZxgNrPFWh_97dU0UtJlrJNZjP59sKcYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTY1/MTA5LTE2NDkyMDc2/NDUtMjU4Ny5qcGVn.jpeg) | 2017 | Bad Omens | Bad Omens |
 | 34 | ![Cover](https://i.discogs.com/XvsrVY75TYedF7e9AC8idItsTE5tPihb_dGwi3uD3nE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/MTQxLTE0OTQzNjQ1/MTUtNzUzOS5qcGVn.jpeg) | 2017-09-29 | Motionless in White | Graveyard Shift |
-| 10 | ![Cover](https://i.discogs.com/p7YKCV8ujIDOqwtj7mGLpjnzPQyn0KD7C6Wix553MvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDc4/NzUtMTU2MzQ4MzYy/MS02NzY2LmpwZWc.jpeg) | 2017-12-04 | Loathe | White Hot &#x2F; Saint Cecilia |
+| 9 | ![Cover](https://i.discogs.com/p7YKCV8ujIDOqwtj7mGLpjnzPQyn0KD7C6Wix553MvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDc4/NzUtMTU2MzQ4MzYy/MS02NzY2LmpwZWc.jpeg) | 2017-12-04 | Loathe | White Hot &#x2F; Saint Cecilia |
 | 26 | ![Cover](https://i.discogs.com/xsT1E5DdE_uKRSwBFUc-5O_5f2OKLf5Xp8x2MiPeeXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM1/NjU0LTE2NDIxMDQw/NTYtMTA2MS5qcGVn.jpeg) | 2018-10-05 | Ice Nine Kills | The Silver Scream |
 | 46 | ![Cover](https://i.discogs.com/AsFHumjsYywAUckmOTNfzv0fhoVPIoC7r44fmnhL-Cc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/MDEwLTE1NDIyODQ3/MDEtODMzMC5qcGVn.jpeg) | 2018-11-09 | Architects | Holy Hell |
-| 5 | ![Cover](https://i.discogs.com/FYanyxU5NUFPz_Zb9xRy0s04hP8FakVSPGJSLWS4-2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE1/ODg4LTE1ODIxNDYw/NjUtOTY0OC5qcGVn.jpeg) | 2020-02-21 | Polaris | The Death of Me |
-| 24 | ![Cover](https://i.discogs.com/4V26pb_-Hz_w9uNvQGUJwZib4E6FihhwQpVMeeooxJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTU4/ODg0LTE2MTU0NDA5/ODEtOTU3OS5qcGVn.jpeg) | 2021-02-26 | Architects | For Those That Wish To Exist |
-| 9 | ![Cover](https://i.discogs.com/1s6kb4SU1_IhQXYMHN2avn3KZ-_f-7JyW41XfMr0gaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDc3/NTI5LTE2MjMyNTEw/NjAtMTc5OS5qcGVn.jpeg) | 2021-06-08 | Poppy | EAT (NXT Soundtrack) |
+| 4 | ![Cover](https://i.discogs.com/FYanyxU5NUFPz_Zb9xRy0s04hP8FakVSPGJSLWS4-2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE1/ODg4LTE1ODIxNDYw/NjUtOTY0OC5qcGVn.jpeg) | 2020-02-21 | Polaris | The Death of Me |
+| 23 | ![Cover](https://i.discogs.com/4V26pb_-Hz_w9uNvQGUJwZib4E6FihhwQpVMeeooxJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTU4/ODg0LTE2MTU0NDA5/ODEtOTU3OS5qcGVn.jpeg) | 2021-02-26 | Architects | For Those That Wish To Exist |
+| 8 | ![Cover](https://i.discogs.com/1s6kb4SU1_IhQXYMHN2avn3KZ-_f-7JyW41XfMr0gaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDc3/NTI5LTE2MjMyNTEw/NjAtMTc5OS5qcGVn.jpeg) | 2021-06-08 | Poppy | EAT (NXT Soundtrack) |
 | 29 | ![Cover](https://i.discogs.com/8imoew3iINDSXa5XW5HYJKK9UC-VTxXyf6WI5v0OqVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgy/NzA0LTE2MzQxODg2/NjItNzEyNC5qcGVn.jpeg) | 2021-12-17 | Knocked Loose | A Tear in The Fabric of Life |
 | 35 | ![Cover](https://i.discogs.com/eI5T50PgRN79hnVbJY5ODVLTrvtXgHwZDQClB48jcbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE5/NzA1LTE2NTQ3OTE1/ODUtMTk3MC5qcGVn.jpeg) | 2022-06-10 | Motionless in White | Scoring the End of the World |
-| 8 | ![Cover](https://i.discogs.com/FVwt3hU4gKqFawht7cIeYr9NPWy42XJZvAwD9KRswMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDA2/Mzc0LTE3MDA4MzU2/MjQtMjM3NC5qcGVn.jpeg) | 2023 | Ice Nine Kills | Welcome To Horrorwood: The Silver Scream 2 |
-| 19 | ![Cover](https://i.discogs.com/kh3JEgxmBR8AWj4YIMxxBlOK1Wq4d-VtvDckDc3aWQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE2/ODUzLTE2OTMzNTIx/NDktODkwMS5qcGVn.jpeg) | 2023-03-10 | Sam Hunt | Outskirts |
-| 15 | ![Cover](https://i.discogs.com/pHUQ_mHhxn-Vj5lCIC_STxicCcuJI1ZJapUEKSuhbR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjM3/Mjg4LTE3MTUzMDE3/MDMtMzA1MS5qcGVn.jpeg) | 2024-05-10 | Knocked Loose | You Won&#39;t Go Before You&#39;re Supposed To |
+| 7 | ![Cover](https://i.discogs.com/FVwt3hU4gKqFawht7cIeYr9NPWy42XJZvAwD9KRswMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDA2/Mzc0LTE3MDA4MzU2/MjQtMjM3NC5qcGVn.jpeg) | 2023 | Ice Nine Kills | Welcome To Horrorwood: The Silver Scream 2 |
+| 18 | ![Cover](https://i.discogs.com/kh3JEgxmBR8AWj4YIMxxBlOK1Wq4d-VtvDckDc3aWQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE2/ODUzLTE2OTMzNTIx/NDktODkwMS5qcGVn.jpeg) | 2023-03-10 | Sam Hunt | Outskirts |
+| 14 | ![Cover](https://i.discogs.com/pHUQ_mHhxn-Vj5lCIC_STxicCcuJI1ZJapUEKSuhbR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjM3/Mjg4LTE3MTUzMDE3/MDMtMzA1MS5qcGVn.jpeg) | 2024-05-10 | Knocked Loose | You Won&#39;t Go Before You&#39;re Supposed To |
 | 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bd931acd3c6a4c5095e8195b86d80efc.png) |  | Escape The Fate | Dying Is Your Latest Fashion |
 | 48 | ![Cover](https://i.discogs.com/XpXm9vMdWm6KMKRH3slWr9mNFSRayuM5d-4zjWMZ1JA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk3/MDg1LTE1OTI1MDg2/MjYtMTg5MS5wbmc.jpeg) | 2024-08-16 | Falling in Reverse | Popular Monster |
 | 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ef023175fbe22d7533b170ca90e81a10.png) |  | From Autumn to Ashes | The Fiction We Live |
