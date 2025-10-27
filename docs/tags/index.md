@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-10-27T15:36:55.001Z
+date: 2025-10-27T15:43:38.702Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-27T15:36:55.001Z">Mon Oct 27 2025 17:36:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-27T15:43:38.702Z">Mon Oct 27 2025 17:43:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [technical metal]({{ "tags/technical-metal" | relative_url }}) | <time datetime="2025-10-27T15:43:38.702Z">Mon Oct 27 2025 17:43:38 GMT+0200 (Eastern European Standard Time)</time> |
+| [psydub]({{ "tags/psydub" | relative_url }}) | <time datetime="2025-10-27T15:41:54.384Z">Mon Oct 27 2025 17:41:54 GMT+0200 (Eastern European Standard Time)</time> |
 | [progressive black metal]({{ "tags/progressive-black-metal" | relative_url }}) | <time datetime="2025-10-27T15:36:55.001Z">Mon Oct 27 2025 17:36:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [reggae]({{ "tags/reggae" | relative_url }}) | <time datetime="2025-10-27T15:33:23.982Z">Mon Oct 27 2025 17:33:23 GMT+0200 (Eastern European Standard Time)</time> |
 | [slide guitar]({{ "tags/slide-guitar" | relative_url }}) | <time datetime="2025-10-27T15:22:37.312Z">Mon Oct 27 2025 17:22:37 GMT+0200 (Eastern European Standard Time)</time> |
@@ -346,7 +348,6 @@ Last updated: <time datetime="2025-10-27T15:36:55.001Z">Mon Oct 27 2025 17:36:55
 | [industrial black metal]({{ "tags/industrial-black-metal" | relative_url }}) | <time datetime="2025-10-24T12:07:57.812Z">Fri Oct 24 2025 15:07:57 GMT+0300 (Eastern European Summer Time)</time> |
 | [trip]({{ "tags/trip" | relative_url }}) | <time datetime="2025-10-24T09:32:24.461Z">Fri Oct 24 2025 12:32:24 GMT+0300 (Eastern European Summer Time)</time> |
 | [ska]({{ "tags/ska" | relative_url }}) | <time datetime="2025-10-24T09:31:08.601Z">Fri Oct 24 2025 12:31:08 GMT+0300 (Eastern European Summer Time)</time> |
-| [psydub]({{ "tags/psydub" | relative_url }}) | <time datetime="2025-10-24T09:30:31.178Z">Fri Oct 24 2025 12:30:31 GMT+0300 (Eastern European Summer Time)</time> |
 | [chilean]({{ "tags/chilean" | relative_url }}) | <time datetime="2025-10-24T09:14:14.660Z">Fri Oct 24 2025 12:14:14 GMT+0300 (Eastern European Summer Time)</time> |
 | [progressive power metal]({{ "tags/progressive-power-metal" | relative_url }}) | <time datetime="2025-10-24T07:47:27.206Z">Fri Oct 24 2025 10:47:27 GMT+0300 (Eastern European Summer Time)</time> |
 | [nu jazz]({{ "tags/nu-jazz" | relative_url }}) | <time datetime="2025-10-24T03:13:40.442Z">Fri Oct 24 2025 06:13:40 GMT+0300 (Eastern European Summer Time)</time> |
@@ -966,7 +967,6 @@ Last updated: <time datetime="2025-10-27T15:36:55.001Z">Mon Oct 27 2025 17:36:55
 | [classical piano]({{ "tags/classical-piano" | relative_url }}) | <time datetime="2025-10-22T00:36:15.578Z">Wed Oct 22 2025 03:36:15 GMT+0300 (Eastern European Summer Time)</time> |
 | [chicago blues]({{ "tags/chicago-blues" | relative_url }}) | <time datetime="2025-10-22T00:35:03.513Z">Wed Oct 22 2025 03:35:03 GMT+0300 (Eastern European Summer Time)</time> |
 | [cantautori]({{ "tags/cantautori" | relative_url }}) | <time datetime="2025-10-22T00:34:07.221Z">Wed Oct 22 2025 03:34:07 GMT+0300 (Eastern European Summer Time)</time> |
-| [technical metal]({{ "tags/technical-metal" | relative_url }}) | <time datetime="2025-10-22T00:31:04.947Z">Wed Oct 22 2025 03:31:04 GMT+0300 (Eastern European Summer Time)</time> |
 | [orthodox black metal]({{ "tags/orthodox-black-metal" | relative_url }}) | <time datetime="2025-10-22T00:23:22.800Z">Wed Oct 22 2025 03:23:22 GMT+0300 (Eastern European Summer Time)</time> |
 | [drone rock]({{ "tags/drone-rock" | relative_url }}) | <time datetime="2025-10-21T05:23:54.012Z">Tue Oct 21 2025 08:23:54 GMT+0300 (Eastern European Summer Time)</time> |
 | [ethno]({{ "tags/ethno" | relative_url }}) | <time datetime="2025-10-21T05:23:19.306Z">Tue Oct 21 2025 08:23:19 GMT+0300 (Eastern European Summer Time)</time> |
