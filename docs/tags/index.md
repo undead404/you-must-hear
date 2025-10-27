@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-27T11:44:51.495Z
+date: 2025-10-27T11:52:09.866Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-27T11:44:51.495Z">Mon Oct 27 2025 13:44:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-27T11:52:09.866Z">Mon Oct 27 2025 13:52:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [funeral doom metal]({{ "tags/funeral-doom-metal" | relative_url }}) | <time datetime="2025-10-27T11:52:09.866Z">Mon Oct 27 2025 13:52:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [power pop]({{ "tags/power-pop" | relative_url }}) | <time datetime="2025-10-27T11:44:51.495Z">Mon Oct 27 2025 13:44:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [usa]({{ "tags/usa" | relative_url }}) | <time datetime="2025-10-27T09:53:37.201Z">Mon Oct 27 2025 11:53:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [waltz]({{ "tags/waltz" | relative_url }}) | <time datetime="2025-10-27T09:34:20.290Z">Mon Oct 27 2025 11:34:20 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1332,7 +1333,6 @@ Last updated: <time datetime="2025-10-27T11:44:51.495Z">Mon Oct 27 2025 13:44:51
 | [tropical house]({{ "tags/tropical-house" | relative_url }}) | <time datetime="2025-01-07T09:54:08.001Z">Tue Jan 07 2025 11:54:08 GMT+0200 (Eastern European Standard Time)</time> |
 | [new age electronic]({{ "tags/new-age-electronic" | relative_url }}) | <time datetime="2025-01-07T09:34:49.520Z">Tue Jan 07 2025 11:34:49 GMT+0200 (Eastern European Standard Time)</time> |
 | [technical deathcore]({{ "tags/technical-deathcore" | relative_url }}) | <time datetime="2025-01-07T09:17:20.811Z">Tue Jan 07 2025 11:17:20 GMT+0200 (Eastern European Standard Time)</time> |
-| [funeral doom metal]({{ "tags/funeral-doom-metal" | relative_url }}) | <time datetime="2025-01-06T18:37:01.896Z">Mon Jan 06 2025 20:37:01 GMT+0200 (Eastern European Standard Time)</time> |
 | [deep house]({{ "tags/deep-house" | relative_url }}) | <time datetime="2025-01-06T18:35:38.196Z">Mon Jan 06 2025 20:35:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [celtic]({{ "tags/celtic" | relative_url }}) | <time datetime="2025-01-06T18:10:54.011Z">Mon Jan 06 2025 20:10:54 GMT+0200 (Eastern European Standard Time)</time> |
 | [epic black metal]({{ "tags/epic-black-metal" | relative_url }}) | <time datetime="2025-01-06T17:57:18.035Z">Mon Jan 06 2025 19:57:18 GMT+0200 (Eastern European Standard Time)</time> |
