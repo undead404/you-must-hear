@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-27T09:34:20.290Z
+date: 2025-10-27T09:53:37.201Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-27T09:34:20.290Z">Mon Oct 27 2025 11:34:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-27T09:53:37.201Z">Mon Oct 27 2025 11:53:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [usa]({{ "tags/usa" | relative_url }}) | <time datetime="2025-10-27T09:53:37.201Z">Mon Oct 27 2025 11:53:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [waltz]({{ "tags/waltz" | relative_url }}) | <time datetime="2025-10-27T09:34:20.290Z">Mon Oct 27 2025 11:34:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [neoliberal]({{ "tags/neoliberal" | relative_url }}) | <time datetime="2025-10-27T07:47:43.216Z">Mon Oct 27 2025 09:47:43 GMT+0200 (Eastern European Standard Time)</time> |
 | [electronic]({{ "tags/electronic" | relative_url }}) | <time datetime="2025-10-27T07:04:02.415Z">Mon Oct 27 2025 09:04:02 GMT+0200 (Eastern European Standard Time)</time> |
@@ -128,7 +129,6 @@ Last updated: <time datetime="2025-10-27T09:34:20.290Z">Mon Oct 27 2025 11:34:20
 | [musical]({{ "tags/musical" | relative_url }}) | <time datetime="2025-10-25T21:05:39.491Z">Sun Oct 26 2025 00:05:39 GMT+0300 (Eastern European Summer Time)</time> |
 | [noise]({{ "tags/noise" | relative_url }}) | <time datetime="2025-10-25T20:49:57.110Z">Sat Oct 25 2025 23:49:57 GMT+0300 (Eastern European Summer Time)</time> |
 | [speed metal]({{ "tags/speed-metal" | relative_url }}) | <time datetime="2025-10-25T20:49:45.451Z">Sat Oct 25 2025 23:49:45 GMT+0300 (Eastern European Summer Time)</time> |
-| [usa]({{ "tags/usa" | relative_url }}) | <time datetime="2025-10-25T20:49:37.403Z">Sat Oct 25 2025 23:49:37 GMT+0300 (Eastern European Summer Time)</time> |
 | [german]({{ "tags/german" | relative_url }}) | <time datetime="2025-10-25T20:05:10.772Z">Sat Oct 25 2025 23:05:10 GMT+0300 (Eastern European Summer Time)</time> |
 | [space rock]({{ "tags/space-rock" | relative_url }}) | <time datetime="2025-10-25T20:04:48.364Z">Sat Oct 25 2025 23:04:48 GMT+0300 (Eastern European Summer Time)</time> |
 | [gothic rock]({{ "tags/gothic-rock" | relative_url }}) | <time datetime="2025-10-25T20:04:33.905Z">Sat Oct 25 2025 23:04:33 GMT+0300 (Eastern European Summer Time)</time> |

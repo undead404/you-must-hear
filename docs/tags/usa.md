@@ -1,118 +1,118 @@
 ---
 category: genre
-date: 2025-10-25T20:49:37.403Z
+date: 2025-10-27T09:53:37.201Z
 permalink: tags/usa
 title: usa
 ---
 
 ## usa
 
-Last updated: <time datetime="2025-10-25T20:49:37.403Z">Sat Oct 25 2025 23:49:37 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-27T09:53:37.201Z">Mon Oct 27 2025 11:53:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 50 | ![Cover](https://i.discogs.com/SZFk7Vv-EDlzNwSFLECjpTrCVQJEkwn8lCDei4qxrE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjQw/MzQtMTU5MTc0ODkx/My05NDUxLmpwZWc.jpeg) | 1966 | The Barbarians | Are You A Boy Or Are You A Girl |
+| 49 | ![Cover](https://i.discogs.com/SZFk7Vv-EDlzNwSFLECjpTrCVQJEkwn8lCDei4qxrE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjQw/MzQtMTU5MTc0ODkx/My05NDUxLmpwZWc.jpeg) | 1966 | The Barbarians | Are You A Boy Or Are You A Girl |
 | 82 | ![Cover](https://i.discogs.com/x2qDfcBomyKucFfkvZvzS2xN2XB26_CsbU_ckZnKBPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDEy/OTEtMTYyOTE2NDc0/OS00NDEwLmpwZWc.jpeg) | 1966 | Wilson Pickett | Rhino Hi-Five: Wilson Pickett |
-| 41 |  | 1967 | The Youngbloods | The Youngbloods |
-| 59 | ![Cover](https://i.discogs.com/3p71cyg-qqh6oU-fpXDdGfc-ICFvdrP3-iwsngyXeHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTE5/MDQ5LTE3MjQwODk5/NDQtNTg1OS5qcGVn.jpeg) | 1967 | CBMC | OOR |
-| 27 |  | 1968 | Geoff &amp; Maria Muldaur | Pottery Pie |
+| 40 |  | 1967 | The Youngbloods | The Youngbloods |
+| 58 | ![Cover](https://i.discogs.com/3p71cyg-qqh6oU-fpXDdGfc-ICFvdrP3-iwsngyXeHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTE5/MDQ5LTE3MjQwODk5/NDQtNTg1OS5qcGVn.jpeg) | 1967 | CBMC | OOR |
+| 26 |  | 1968 | Geoff &amp; Maria Muldaur | Pottery Pie |
 | 65 | ![Cover](https://i.discogs.com/cAq0_B1NDwFTR1qTE0VvX6drIXXkxvjIRc1Sm-H-KRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODEx/NTItMTM2NTg3NTM1/NC0xNzIxLmpwZWc.jpeg) | 1970 | Donovan | Colours |
-| 37 |  | 1971-10 | Melanie | Gather Me |
+| 44 | ![Cover](https://i.discogs.com/2Mc7I_k1JnJXEnRKGta0n8pr3H1Yy1sH3wpzc6BNwEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDUx/MjAtMTM3MTgxMDUx/OS0yODU2LmpwZWc.jpeg) | 1971-06 | Stevie Wonder | Up-Tight Everything&#39;s Alright |
+| 36 |  | 1971-10 | Melanie | Gather Me |
 | 77 |  | 1973 | Various Artists | Now That&#39;s What I Call Music Vol. 35 |
-| 51 |  | 1974-09 | Randy Newman | Good Old Boys |
+| 50 |  | 1974-09 | Randy Newman | Good Old Boys |
 | 70 |  | 1975 | Gloria Gaynor | Never Can Say Goodbye |
 | 89 |  | 1975-05-11 | Natalie Cole | Inseparable |
 | 78 |  | 1976 | Alice Coltrane | Eternity |
+| 43 |  | 1977 | Various Artists | NOW 29 |
+| 46 |  | 1979-02-16 | Bill Withers | &#39;Bout Love |
 | 67 | ![Cover](https://i.discogs.com/teshmTt-O_6VsLq96C57-9hiC6pR2uMNU40PB2SVcVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjky/OC0xNDAwMzM4Mjcx/LTM0NDguanBlZw.jpeg) | 1981 | Roberta Flack | Rhino Hi-Five: Roberta Flack |
-| 3 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1987 | Various Artists | Grammy Nominees 2002 |
-| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/83844ebb94e45a0d429c4aefbc93ea43.png) | 1988-03-16 | Teena Marie | Naked To The World |
-| 21 |  |  | Tank | SAVAGE |
-| 45 | ![Cover](https://i.discogs.com/2Mc7I_k1JnJXEnRKGta0n8pr3H1Yy1sH3wpzc6BNwEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDUx/MjAtMTM3MTgxMDUx/OS0yODU2LmpwZWc.jpeg) | 1971-06 | Stevie Wonder | Up-Tight Everything&#39;s Alright |
-| 44 |  | 1977 | Various Artists | NOW 29 |
-| 47 |  | 1979-02-16 | Bill Withers | &#39;Bout Love |
-| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/357d179168e722a5cf150a3ba66ebf00.png) | 1982-02 | Lou Reed | The Blue Mask |
-| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eb46267e49744452aa95970c01640617.png) | 1982-08-13 | Don Henley | I Can&#39;t Stand Still |
-| 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4411a159071f455ab9bdf261a575368e.png) | 1989 | Don Henley | The End of the Innocence |
-| 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b84e909ad8614efbce340a83e262caea.png) | 1989 | Creedence Clearwater Revival | Creedence Covers The Classics |
-| 18 | ![Cover](https://i.discogs.com/LzuMHOpiluRLJ5ksi-MUwMV-E_iTSNiFG02Fjn-sdPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjY3/NzItMTQxNTE1ODQy/MS00OTYxLmpwZWc.jpeg) | 1991 | The Mamas &amp; the Papas | The Ultimate Collection |
+| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/357d179168e722a5cf150a3ba66ebf00.png) | 1982-02 | Lou Reed | The Blue Mask |
+| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eb46267e49744452aa95970c01640617.png) | 1982-08-13 | Don Henley | I Can&#39;t Stand Still |
+| 2 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1987 | Various Artists | Grammy Nominees 2002 |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/83844ebb94e45a0d429c4aefbc93ea43.png) | 1988-03-16 | Teena Marie | Naked To The World |
+| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4411a159071f455ab9bdf261a575368e.png) | 1989 | Don Henley | The End of the Innocence |
+| 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b84e909ad8614efbce340a83e262caea.png) | 1989 | Creedence Clearwater Revival | Creedence Covers The Classics |
+| 17 | ![Cover](https://i.discogs.com/LzuMHOpiluRLJ5ksi-MUwMV-E_iTSNiFG02Fjn-sdPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjY3/NzItMTQxNTE1ODQy/MS00OTYxLmpwZWc.jpeg) | 1991 | The Mamas &amp; the Papas | The Ultimate Collection |
 | 68 | ![Cover](https://i.discogs.com/DmYTJ_NbULIm6CUtdDpA4E66U8uqwUvHwpmkXpuJc8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzEy/MjMtMTMwNzg4ODkw/NS5qcGVn.jpeg) | 1995 | Sleater-Kinney | Sleater-Kinney (Remastered) |
-| 43 |  | 1995-11-03 | Commodores | The Very Best Of The Commodores |
+| 42 |  | 1995-11-03 | Commodores | The Very Best Of The Commodores |
 | 85 | ![Cover](https://i.discogs.com/tZS1-KCeF-6chCO9epdWUIQrGtdNSr2Br6pudu53C8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MjM1/OS0xMjUwODIxMDg4/LmpwZWc.jpeg) | 1997-06-09 | Sleater-Kinney | Dig Me Out (Remastered) |
-| 8 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1998 | Various Artists | Grammy Nominees 2006 |
-| 36 | ![Cover](https://i.discogs.com/21UjdYJOd96RFeu9M2IcfZtOtDl0oYE2QG4GHCep8xk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQx/MzUtMTI3MzUwNzA5/My5qcGVn.jpeg) | 2000 | Soledad Brothers | The Soledad Brothers |
-| 14 |  | 2000-07-18 | Soledad Brothers | Soledad Brothers |
-| 32 |  | 2000-11-14 | The Allman Brothers Band | Peakin&#39; at the Beacon |
-| 28 |  | 2001 | The Album Leaf | In an Off White Room |
+| 7 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1998 | Various Artists | Grammy Nominees 2006 |
+| 35 | ![Cover](https://i.discogs.com/21UjdYJOd96RFeu9M2IcfZtOtDl0oYE2QG4GHCep8xk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQx/MzUtMTI3MzUwNzA5/My5qcGVn.jpeg) | 2000 | Soledad Brothers | The Soledad Brothers |
+| 13 |  | 2000-07-18 | Soledad Brothers | Soledad Brothers |
+| 31 |  | 2000-11-14 | The Allman Brothers Band | Peakin&#39; at the Beacon |
+| 27 |  | 2001 | The Album Leaf | In an Off White Room |
 | 74 | ![Cover](https://i.discogs.com/Xp0gymRqdJN-qzpDZ1euqkdfqa3s98j3SZEBkASLa6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDkw/NC0xNDczNDQxNDc3/LTE0NTUuanBlZw.jpeg) | 2001-04-24 | Hana | Hanadriel |
 | 64 | ![Cover](https://i.discogs.com/vnkh9Mm5aIHk2grtMjWE4wd8xacK2q48mw1MZgIVM2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzc4/My0xNDY1NzIyNDMy/LTI3OTYuanBlZw.jpeg) | 2002 | Gang Starr | Full Clip |
-| 12 |  | 2003 | Three Dog Night | The Collection |
+| 11 |  | 2003 | Three Dog Night | The Collection |
 | 63 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e0c6614a3f501d2bb8163d588a91e612.png) | 2003-05-06 | The Long Winters | When I Pretend to Fall |
-| 56 | ![Cover](https://i.discogs.com/OWsUIfILQCPWLEUhHYhlTfZL7s3sg49Rymzv_gRIeLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI3/Ny0xMTEzNDAwNTU1/LmpwZw.jpeg) | 2004-01-20 | Karmacoda | Transitory Mini EP |
-| 19 |  | 2004-12-07 | Shuttle358 | Chessa |
-| 34 |  | 2005-01-10 | Adam Green | Gemstones |
+| 55 | ![Cover](https://i.discogs.com/OWsUIfILQCPWLEUhHYhlTfZL7s3sg49Rymzv_gRIeLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI3/Ny0xMTEzNDAwNTU1/LmpwZw.jpeg) | 2004-01-20 | Karmacoda | Transitory Mini EP |
+| 18 |  | 2004-12-07 | Shuttle358 | Chessa |
+| 33 |  | 2005-01-10 | Adam Green | Gemstones |
 | 61 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9101c06d1e9f4183bbc36084f7964896.png) | 2005-01-25 | Chicago | Love Songs |
-| 24 | ![Cover](https://i.discogs.com/xA52g20EDH2nRJ6srfDur6sbGiEDfOYnlgwf2XHBhKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc5/NTktMTI2MTQyMDgy/NS5qcGVn.jpeg) | 2005-03-08 | Go It Alone | Vancouver Gold |
-| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f63c81a5ebf95d0ce0d8209ff68dd53d.png) | 2006 | Dio | Holy Diver (Deluxe Edition) |
-| 20 | ![Cover](https://i.discogs.com/kxzyHh-T_AEK4M_QtlDmOU61nKSh1AhF-jaC-AMFyhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjA3/MS0xMzAzMjQ1MDA2/LmpwZWc.jpeg) | 2006-09 | Scissor Sisters | Ta-Dah |
+| 23 | ![Cover](https://i.discogs.com/xA52g20EDH2nRJ6srfDur6sbGiEDfOYnlgwf2XHBhKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc5/NTktMTI2MTQyMDgy/NS5qcGVn.jpeg) | 2005-03-08 | Go It Alone | Vancouver Gold |
+| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f63c81a5ebf95d0ce0d8209ff68dd53d.png) | 2006 | Dio | Holy Diver (Deluxe Edition) |
+| 19 | ![Cover](https://i.discogs.com/kxzyHh-T_AEK4M_QtlDmOU61nKSh1AhF-jaC-AMFyhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjA3/MS0xMzAzMjQ1MDA2/LmpwZWc.jpeg) | 2006-09 | Scissor Sisters | Ta-Dah |
 | 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7429b46f36d94bdcb207ad50e9da6b56.png) | 2007-03-02 | Radical Face | Ghost |
-| 46 | ![Cover](https://i.discogs.com/8CzvZ4QP3YGPSNtckRA5qxLJVQ5etrqKpulPT4Ys5Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDU4/NTgtMTM2ODY1MTY0/MC02MTAyLnBuZw.jpeg) | 2007-04-02 | P!nk | Dear Mr. President |
-| 29 | ![Cover](https://i.discogs.com/T_353K5RYKE8tASKbtKMYQDdcFTz5adCPuSzApI3S2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTg1/MDItMTQ0MDY0NzUw/MS05NDE1LmpwZWc.jpeg) | 2007-05-23 | Sara Gazarek | Return To You |
-| 6 | ![Cover](https://i.discogs.com/EVmXRVOgbiXv_HWWqjSZnzFJI9Rx-GTkUCxUWoGkWNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzI2/MDYtMTQwMzk1Mzk5/MC02NDM4LmpwZWc.jpeg) | 2007-09-28 | Alicia Keys | Songs in A Minor (10th Anniversary Edition) (Deluxe Edition) |
-| 11 |  | 2007-11-27 | The Killers | Don&#39;t Shoot Me Santa |
-| 7 |  | 2008 | Norah Jones | The Greatest Hits |
-| 16 | ![Cover](https://i.discogs.com/bENV1BJUSe_btLwlBtwRvYHQKpygHx_bFXSk-nhvMDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjM3/MDYtMTI0NTc3NTYz/OS5qcGVn.jpeg) | 2008 | The Pussycat Dolls | Pussycat Dolls Hit Pac - 5 Series |
-| 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ea2cc46e409f4320b125e6c8cb66be78.png) | 2008-01-29 | The Doors | The Future Starts Here: The Essential Doors Hits |
-| 4 |  | 2008-03-18 | She &amp; Him | Volume One |
-| 38 | ![Cover](https://i.discogs.com/2pHJcRVY_Xmb8src3iuuJ_NcYnDTQzlpiLw1af0eOZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjg3/MDg1LTE2NDg1NjAx/NzItMjgyMS5qcGVn.jpeg) | 2009-01-26 | Reel 2 Real | I Like to Move It (feat. The Mad Stuntman) |
+| 45 | ![Cover](https://i.discogs.com/8CzvZ4QP3YGPSNtckRA5qxLJVQ5etrqKpulPT4Ys5Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDU4/NTgtMTM2ODY1MTY0/MC02MTAyLnBuZw.jpeg) | 2007-04-02 | P!nk | Dear Mr. President |
+| 28 | ![Cover](https://i.discogs.com/T_353K5RYKE8tASKbtKMYQDdcFTz5adCPuSzApI3S2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTg1/MDItMTQ0MDY0NzUw/MS05NDE1LmpwZWc.jpeg) | 2007-05-23 | Sara Gazarek | Return To You |
+| 5 | ![Cover](https://i.discogs.com/EVmXRVOgbiXv_HWWqjSZnzFJI9Rx-GTkUCxUWoGkWNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzI2/MDYtMTQwMzk1Mzk5/MC02NDM4LmpwZWc.jpeg) | 2007-09-28 | Alicia Keys | Songs in A Minor (10th Anniversary Edition) (Deluxe Edition) |
+| 10 |  | 2007-11-27 | The Killers | Don&#39;t Shoot Me Santa |
+| 6 |  | 2008 | Norah Jones | The Greatest Hits |
+| 15 | ![Cover](https://i.discogs.com/bENV1BJUSe_btLwlBtwRvYHQKpygHx_bFXSk-nhvMDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjM3/MDYtMTI0NTc3NTYz/OS5qcGVn.jpeg) | 2008 | The Pussycat Dolls | Pussycat Dolls Hit Pac - 5 Series |
+| 47 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ea2cc46e409f4320b125e6c8cb66be78.png) | 2008-01-29 | The Doors | The Future Starts Here: The Essential Doors Hits |
+| 3 |  | 2008-03-18 | She &amp; Him | Volume One |
+| 37 | ![Cover](https://i.discogs.com/2pHJcRVY_Xmb8src3iuuJ_NcYnDTQzlpiLw1af0eOZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjg3/MDg1LTE2NDg1NjAx/NzItMjgyMS5qcGVn.jpeg) | 2009-01-26 | Reel 2 Real | I Like to Move It (feat. The Mad Stuntman) |
 | 75 |  | 2009-10-06 | The Growlers | Are You In Or Out? |
-| 35 |  | 2009-10-19 | Seasick Steve | Man From Another Time |
-| 9 | ![Cover](https://i.discogs.com/lz0b-C9ma3y7Vr9hOKf8I1eiov1HNJSNMrGi3aQzcVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzgx/NTUtMTM0MjUxMjc0/Ni01NjMyLmpwZWc.jpeg) | 2010 | Stacey Kent | Raconte-Moi |
+| 34 |  | 2009-10-19 | Seasick Steve | Man From Another Time |
+| 8 | ![Cover](https://i.discogs.com/lz0b-C9ma3y7Vr9hOKf8I1eiov1HNJSNMrGi3aQzcVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzgx/NTUtMTM0MjUxMjc0/Ni01NjMyLmpwZWc.jpeg) | 2010 | Stacey Kent | Raconte-Moi |
 | 62 | ![Cover](https://i.discogs.com/sWGseguxOCB2e74yQ-6VSouiGI8WLT0gcpNZ-FFqLIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDgy/ODEtMTMwMzgyMTg0/MS5qcGVn.jpeg) | 2010 | JD McPherson | Signs &amp; Signifiers |
 | 99 |  | 2010-06-03 | Yeah Yeah Yeahs | Heads Will Roll (A-trak Remix) |
 | 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c2c8247844444018c0583f04139698f6.png) | 2010-08-10 | Plain White T&#39;s | Rhythm Of Love |
-| 54 | ![Cover](https://i.discogs.com/tglxXSprJwPmB9OtBwBbg3Zf_tjA_yJPt_tS1AgJJ3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjcw/MjEtMTQwOTE2NDI4/My0yNDc0LmpwZWc.jpeg) | 2010-12-13 | Tank | Now or Never |
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/af025490ffec4ca19e8305ea5459e794.png) | 2011-03-02 | J Mascis | Several Shades of Why |
+| 53 | ![Cover](https://i.discogs.com/tglxXSprJwPmB9OtBwBbg3Zf_tjA_yJPt_tS1AgJJ3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjcw/MjEtMTQwOTE2NDI4/My0yNDc0LmpwZWc.jpeg) | 2010-12-13 | Tank | Now or Never |
 | 83 |  | 2011-09-12 | Patti Smith | Outside Society |
-| 40 |  | 2011-09-19 | Nurses | Dracula |
+| 39 |  | 2011-09-19 | Nurses | Dracula |
 | 94 | ![Cover](https://i.discogs.com/C_HgMEbqZ4Xkr7KSNxoQEDHkvKxzYM4_v6dJGsHI65w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODg1/MTctMTM0NDQ0NTk5/Ni00NjAzLmpwZWc.jpeg) | 2012 | HAIM | Forever EP |
-| 5 | ![Cover](https://i.discogs.com/HMz7HWBlm6XM65z851uSp3plI3Q8_c8gkJm7xIueDx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjg4/NjctMTMzMDAzNDQy/NS5qcGVn.jpeg) | 2012-03-05 | The Magnetic Fields | Love at the Bottom of the Sea |
-| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b220e6b63fee4e43a1b38c3c7e5c3c22.png) | 2012-08 | Dave Matthews Band | Away From The World |
+| 4 | ![Cover](https://i.discogs.com/HMz7HWBlm6XM65z851uSp3plI3Q8_c8gkJm7xIueDx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjg4/NjctMTMzMDAzNDQy/NS5qcGVn.jpeg) | 2012-03-05 | The Magnetic Fields | Love at the Bottom of the Sea |
+| 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b220e6b63fee4e43a1b38c3c7e5c3c22.png) | 2012-08 | Dave Matthews Band | Away From The World |
 | 73 | ![Cover](https://i.discogs.com/v3Kd4f4WjcuU9ZOoBAw_idOi8XoBNsry0YKDuqmzQg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTc1/MTEtMTM4MTY5MjQ3/MS02NDkwLmpwZWc.jpeg) | 2013-03-15 | Justin Timberlake | The 20&#x2F;20 Experience (Deluxe Version) |
-| 13 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f231c8cf11574fe9b30eb0aca0a90cec.png) | 2013-06-28 | Deap Vally | Sistrionix |
+| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f231c8cf11574fe9b30eb0aca0a90cec.png) | 2013-06-28 | Deap Vally | Sistrionix |
 | 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/74a0e7c56cda41b094ff4aa5577e6442.png) | 2013-08-02 | The Civil Wars | The Civil Wars |
 | 71 |  | 2013-08-15 | Tedeschi Trucks Band | Made Up Mind |
-| 10 |  | 2013-10-28 | Lily &amp; Madeleine | Lily &amp; Madeleine |
+| 9 |  | 2013-10-28 | Lily &amp; Madeleine | Lily &amp; Madeleine |
 | 93 | ![Cover](https://i.discogs.com/gVvMqlSbDKqHU4Xe19ZuAxgldCb11qMUIYlI6U0nPfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTk0/MDctMTM4MzQwNDkz/OC05NTgxLmpwZWc.jpeg) | 2013-10-31 | Surf Curse | Sad Boys |
-| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e0290094e4724439c43248c1dd225c68.png) | 2014-02-21 | Beck | Morning Phase |
+| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e0290094e4724439c43248c1dd225c68.png) | 2014-02-21 | Beck | Morning Phase |
 | 86 | ![Cover](https://i.discogs.com/XfrPYHNPOhLQxBPfS3wzTYmHx77yoS_6iaDmmC2f2Yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDEw/MDEwLTE1MjY0OTI4/MDAtOTk2NS5wbmc.jpeg) | 2014-02-28 | rei brown | raybaboon |
 | 69 | ![Cover](https://i.discogs.com/vmXQWROGi4YTJOJv81enCdv3nD_UGFyL967tl0HwM2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NjQ3/MzYtMTQ0NjI0OTI4/OC03MTI4LmpwZWc.jpeg) | 2014-10-31 | Car Seat Headrest | Can&#39;t Cool Me Down |
 | 66 | ![Cover](https://i.discogs.com/GY5Etk2i_kr7YplI4jfWyEGt6cqCf3P1dUBNCn7J2XY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTA4/MjItMTQ5NjQxODE4/NC04MzQ3LmpwZWc.jpeg) | 2015-03-27 | Grateful Dead | The Very Best of the Grateful Dead |
-| 31 | ![Cover](https://i.discogs.com/fEsrZYVJ7MOQV1SBiC3urrcPb8Kj-i3lb8R0cHwiWxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI1/ODctMTQ0ODY2Nzg4/MS04NzQ5LmpwZWc.jpeg) | 2015-09-01 | Car Seat Headrest | Spotify Sessions |
+| 30 | ![Cover](https://i.discogs.com/fEsrZYVJ7MOQV1SBiC3urrcPb8Kj-i3lb8R0cHwiWxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI1/ODctMTQ0ODY2Nzg4/MS04NzQ5LmpwZWc.jpeg) | 2015-09-01 | Car Seat Headrest | Spotify Sessions |
 | 96 | ![Cover](https://i.discogs.com/1DO6MJIijZnJCLDabm1y0lu3DMBF5lY8bQazMFi_ahU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDc0/MzQtMTQ1NjAzMDky/Mi01MjgyLmpwZWc.jpeg) | 2015-10-30 | Florist | Holdly |
 | 95 | ![Cover](https://i.discogs.com/HWsZR9mGOS1gIRVpOwS9_SNmC4Q6CtjBhs7AYXGjIoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTMx/NjUtMTQ0NzM3NjUw/MS0yNzkwLmpwZWc.jpeg) | 2015-11-13 | Frankie Cosmos | Fit Me In |
 | 72 | ![Cover](https://i.discogs.com/FEO8KmoQrPI_mj_qpJ9vFag4-0bnpYJQohVE3rJNqrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjQ1/MjQtMTUwMzU5NDEy/Mi05Njc0LmpwZWc.jpeg) | 2016 | Griz | Good Will Prevail |
 | 88 | ![Cover](https://i.discogs.com/eL-7K619QFmWmV5yZlQs2CCCnZf_DTWe8KgVF0Ogdfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTk5/MDUtMTQ1NDM1OTU3/Mi01NjU3LmpwZWc.jpeg) | 2016-01-29 | Florist | The Birds Outside Sang |
 | 80 | ![Cover](https://i.discogs.com/sOKRUcDe_PnrQ2-RsXb4ixY-OrQvfxhQ_5OqT4KJHbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjU1/NzEtMTQ1NjM2MjUz/NC0zODY3LmpwZWc.jpeg) | 2016-02-26 | Mothers | When You Walk A Long Distance You Are Tired |
-| 52 | ![Cover](https://i.discogs.com/SEtPUhq7ieOilWi246ZxIfxKCGLd-6ppp_rJY2hV3lI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDcz/MzktMTQ2NjI0OTIx/Ny0zMzQ2LmpwZWc.jpeg) | 2016-06-14 | case&#x2F;lang&#x2F;veirs | case&#x2F;lang&#x2F;veirs |
+| 51 | ![Cover](https://i.discogs.com/SEtPUhq7ieOilWi246ZxIfxKCGLd-6ppp_rJY2hV3lI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDcz/MzktMTQ2NjI0OTIx/Ny0zMzQ2LmpwZWc.jpeg) | 2016-06-14 | case&#x2F;lang&#x2F;veirs | case&#x2F;lang&#x2F;veirs |
 | 84 | ![Cover](https://i.discogs.com/WWFZd_WOYzbHRns9zFuv0pjo64hRgHldS3FgSYoDdmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODkx/OTMtMTU2Njc2ODMy/Ni0zNDcxLmpwZWc.jpeg) | 2016-08-05 | JinSang | solitude. |
 | 76 | ![Cover](https://i.discogs.com/xi-K0y_tqrsOecH0BCfMSJWKN1DlJhr66ybRevMjTVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDky/OTEwLTE0OTg1NzMy/NzAtOTE3OS5qcGVn.jpeg) | 2016-09-09 | Acid Ghost | WARHOL |
-| 42 | ![Cover](https://i.discogs.com/qgBMjYSNLcUJQAaieHNtvfUUd0Vc7Ck450bY-aBHJDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjc4/OTY2LTE1NTg4NzA1/NjctMzA2Ni5qcGVn.jpeg) | 2016-11-23 | Lesley Gore | California Nights |
+| 41 | ![Cover](https://i.discogs.com/qgBMjYSNLcUJQAaieHNtvfUUd0Vc7Ck450bY-aBHJDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjc4/OTY2LTE1NTg4NzA1/NjctMzA2Ni5qcGVn.jpeg) | 2016-11-23 | Lesley Gore | California Nights |
 | 100 | ![Cover](https://i.discogs.com/zxQ0CzAQJoRARSR5U-st7DWv-IJr3xDa862HjLhSDpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTI5/MzktMTQ5NTQyODQ2/NC02ODg3LmpwZWc.jpeg) | 2017-02-17 | olivia o&#39;brien | Josslyn |
 | 81 | ![Cover](https://i.discogs.com/8Qres2vi-JO5j7bDHaWgDKApVvK1p8D68QrKbyZpf18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzU5/MDEtMTQ5MjYzNTky/OS03NjQ2LmpwZWc.jpeg) | 2017-03-17 | Julien Baker | Funeral Pyre |
 | 97 | ![Cover](https://i.discogs.com/CxlW2H4pyZCAtUkITiU32F_FxNDiJRslsHjym3n7n84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI2/MTQ0LTE1MDY5MDU1/MzktNTM2MC5qcGVn.jpeg) | 2017-09-29 | Florist | If Blue Could Be Happiness |
-| 60 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/33bf054019ce72164b4aa0955aa831ca.png) | 2018-03-30 | Naked Giants | SLUFF |
-| 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cbd03d59c7749105d0d13144f41a23f9.png) | 2018-06-08 | Snail Mail | Lush |
+| 59 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/33bf054019ce72164b4aa0955aa831ca.png) | 2018-03-30 | Naked Giants | SLUFF |
+| 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cbd03d59c7749105d0d13144f41a23f9.png) | 2018-06-08 | Snail Mail | Lush |
 | 79 | ![Cover](https://i.discogs.com/GHAV2upyqYFKv5D6PaJ0xOnyf0tR6tkOPFpM4HJtTkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg2/NDgyLTE1NzU3Nzcy/MzItNDk0OS5qcGVn.jpeg) | 2019-03-08 | William Basinski | On Time Out of Time |
-| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ec8a2d3a4cafeaff7569b118b8f24541.png) | 2020-07-17 | jxdn | So What! |
+| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ec8a2d3a4cafeaff7569b118b8f24541.png) | 2020-07-17 | jxdn | So What! |
 | 87 | ![Cover](https://i.discogs.com/SLyiIQfJ7ozY_woRRyT_uPXpWRd-oEL3J9wMOZwa0Ig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQy/NDAzLTE2NDE1Nzg3/NzUtNjAxMi5qcGVn.jpeg) | 2021-11-05 | feeble little horse | Hayday |
 | 98 | ![Cover](https://i.discogs.com/wqxfY53jtsQnj73eiSOfqkT7uou0xZXzGewPDXG6nfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDQ2/NjgxLTE2NjI1OTY0/NjktNzc5NC5qcGVn.jpeg) | 2022-04-08 | Bia | LONDON (feat. J. Cole) |
-| 26 |  | 2022-04-14 | Various Artists | Now That&#39;s What I Call Music Vol. 36 |
-| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7787bb416e8eefa33eacc671f6a21e32.png) | 2022-10-28 | Leah Kate | Alive And Unwell |
-| 53 | ![Cover](https://i.discogs.com/0be3-QM1XXSg46Zl56LQ_r9fmRcx7Zf4WLHW1-dIjjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzMy/NDgwLTE2OTA3NDE1/OTItNDY5NC5qcGVn.jpeg) | 2023-07-14 | Tessa Violet | My God! |
-| 17 | ![Cover](https://i.discogs.com/t4SLdHkp5URvPFAp_WJuwG5sipyaqmhWcl7nFMShCuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTEw/MjAzLTE3MTc4Nzg1/OTAtMjU0Ny5qcGVn.jpeg) | 2024 | Trash Panda | The Starclimber |
-| 58 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/db5a1ee62ae046a4acd7e8c0280859af.png) | 2024-09-27 | Gavin DeGraw | Chariot - Stripped |
+| 25 |  | 2022-04-14 | Various Artists | Now That&#39;s What I Call Music Vol. 36 |
+| 60 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/85aac054c9bde3ac3bae19599cef7183.png) | 2022-06-10 | birth day | Boyhood |
+| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7787bb416e8eefa33eacc671f6a21e32.png) | 2022-10-28 | Leah Kate | Alive And Unwell |
+| 20 |  |  | Tank | SAVAGE |
+| 52 | ![Cover](https://i.discogs.com/0be3-QM1XXSg46Zl56LQ_r9fmRcx7Zf4WLHW1-dIjjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzMy/NDgwLTE2OTA3NDE1/OTItNDY5NC5qcGVn.jpeg) | 2023-07-14 | Tessa Violet | My God! |
+| 16 | ![Cover](https://i.discogs.com/t4SLdHkp5URvPFAp_WJuwG5sipyaqmhWcl7nFMShCuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTEw/MjAzLTE3MTc4Nzg1/OTAtMjU0Ny5qcGVn.jpeg) | 2024 | Trash Panda | The Starclimber |
+| 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/db5a1ee62ae046a4acd7e8c0280859af.png) | 2024-09-27 | Gavin DeGraw | Chariot - Stripped |
 
 ### Related genres
 
