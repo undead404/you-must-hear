@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-27T03:05:20.962Z
+date: 2025-10-27T05:40:34.032Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-27T03:05:20.962Z">Mon Oct 27 2025 05:05:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-27T05:40:34.032Z">Mon Oct 27 2025 07:40:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [pop rock]({{ "tags/pop-rock" | relative_url }}) | <time datetime="2025-10-27T05:40:34.032Z">Mon Oct 27 2025 07:40:34 GMT+0200 (Eastern European Standard Time)</time> |
 | [nerdcore]({{ "tags/nerdcore" | relative_url }}) | <time datetime="2025-10-27T03:05:20.962Z">Mon Oct 27 2025 05:05:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [lo-fi]({{ "tags/lo-fi" | relative_url }}) | <time datetime="2025-10-27T02:01:15.855Z">Mon Oct 27 2025 04:01:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [electronicore]({{ "tags/electronicore" | relative_url }}) | <time datetime="2025-10-27T02:00:09.540Z">Mon Oct 27 2025 04:00:09 GMT+0200 (Eastern European Standard Time)</time> |
@@ -172,7 +173,6 @@ Last updated: <time datetime="2025-10-27T03:05:20.962Z">Mon Oct 27 2025 05:05:20
 | [acid jazz]({{ "tags/acid-jazz" | relative_url }}) | <time datetime="2025-10-25T14:43:23.253Z">Sat Oct 25 2025 17:43:23 GMT+0300 (Eastern European Summer Time)</time> |
 | [psychedelic folk]({{ "tags/psychedelic-folk" | relative_url }}) | <time datetime="2025-10-25T14:42:58.664Z">Sat Oct 25 2025 17:42:58 GMT+0300 (Eastern European Summer Time)</time> |
 | [singer-songwriter]({{ "tags/singer-songwriter" | relative_url }}) | <time datetime="2025-10-25T13:58:45.452Z">Sat Oct 25 2025 16:58:45 GMT+0300 (Eastern European Summer Time)</time> |
-| [pop rock]({{ "tags/pop-rock" | relative_url }}) | <time datetime="2025-10-25T13:58:37.048Z">Sat Oct 25 2025 16:58:37 GMT+0300 (Eastern European Summer Time)</time> |
 | [ballet]({{ "tags/ballet" | relative_url }}) | <time datetime="2025-10-25T13:58:24.831Z">Sat Oct 25 2025 16:58:24 GMT+0300 (Eastern European Summer Time)</time> |
 | [screamo]({{ "tags/screamo" | relative_url }}) | <time datetime="2025-10-25T13:57:16.718Z">Sat Oct 25 2025 16:57:16 GMT+0300 (Eastern European Summer Time)</time> |
 | [garage rock]({{ "tags/garage-rock" | relative_url }}) | <time datetime="2025-10-25T13:57:02.427Z">Sat Oct 25 2025 16:57:02 GMT+0300 (Eastern European Summer Time)</time> |
