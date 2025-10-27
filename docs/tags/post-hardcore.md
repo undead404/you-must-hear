@@ -1,66 +1,66 @@
 ---
 category: genre
-date: 2025-10-25T08:31:24.265Z
+date: 2025-10-26T23:31:30.919Z
 permalink: tags/post-hardcore
 title: post-hardcore
 ---
 
 ## post-hardcore
 
-Last updated: <time datetime="2025-10-25T08:31:24.265Z">Sat Oct 25 2025 11:31:24 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-26T23:31:30.919Z">Mon Oct 27 2025 01:31:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  | 2008-09-02 | Underoath | Lost in the Sound of Separation |
-| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9f6a32c1e738478a9243a38dbf5718cf.png) |  | Escape The Fate | Escape The Fate |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9f6a32c1e738478a9243a38dbf5718cf.png) |  | Escape The Fate | Escape The Fate |
 | 49 |  | 1999-03-23 | Fugazi | Instrument Soundtrack |
 | 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/79e84c0c10c79a1a25859919e351028d.png) | 2001-04-10 | Thursday | Full Collapse |
-| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4604bf7087824182b22e3e55fc525d75.png) | 2001-10-16 | Fugazi | The Argument |
-| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/726fa1fc5dd540d0a77bc23c39d71dd9.png) | 2002-02-05 | Thrice | The Illusion Of Safety |
-| 17 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/622633c7d481c05fe2755111d8e04095.png) | 2002-08-16 | Senses Fail | From The Depths Of Dreams |
+| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4604bf7087824182b22e3e55fc525d75.png) | 2001-10-16 | Fugazi | The Argument |
+| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/726fa1fc5dd540d0a77bc23c39d71dd9.png) | 2002-02-05 | Thrice | The Illusion Of Safety |
+| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/622633c7d481c05fe2755111d8e04095.png) | 2002-08-16 | Senses Fail | From The Depths Of Dreams |
 | 41 |  | 2002-10-29 | Alexisonfire | Alexisonfire |
 | 29 |  | 2003-05-20 | Silverstein | When Broken Is Easily Fixed |
 | 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/721408babff0cd2f122759fa12bbe28a.png) | 2003-09-15 | Thursday | War All The Time |
-| 7 | ![Cover](https://i.discogs.com/A-Wxunq2G38pb3GxC2_ziD9AQHirLxILZne-R5_-418/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjI3/OC0xNjc5NDI5MTUz/LTI4NzEuanBlZw.jpeg) | 2003-10-13 | Funeral for a Friend | Casually Dressed &amp; Deep in Conversation |
+| 6 | ![Cover](https://i.discogs.com/A-Wxunq2G38pb3GxC2_ziD9AQHirLxILZne-R5_-418/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjI3/OC0xNjc5NDI5MTUz/LTI4NzEuanBlZw.jpeg) | 2003-10-13 | Funeral for a Friend | Casually Dressed &amp; Deep in Conversation |
 | 35 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/09cb27a9f908354fd210a07830951791.png) | 2004-06-08 | My Chemical Romance | Three Cheers for Sweet Revenge |
-| 10 |  | 2004-10-05 | mewithoutYou | Catch For Us The Foxes |
+| 9 |  | 2004-10-05 | mewithoutYou | Catch For Us The Foxes |
 | 46 |  | 2005-06-08 | Funeral for a Friend | Hours |
 | 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3bd8ca1b64e34b7fcbdff0952aecf346.png) | 2005-06-28 | Scary Kids Scaring Kids | The City Sleeps in Flames |
 | 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ac89c7f01f0e9089c3654f08150219b1.png) | 2005-10-18 | Thrice | Vheissu |
-| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/04d70835f2bf911ae50c3f991cc92f3a.png) | 2006-05-02 | Drop Dead, Gorgeous | In Vogue |
-| 6 |  | 2006-05-23 | Escape the Fate | There&#39;s No Sympathy For The Dead |
+| 19 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/04d70835f2bf911ae50c3f991cc92f3a.png) | 2006-05-02 | Drop Dead, Gorgeous | In Vogue |
+| 5 |  | 2006-05-23 | Escape the Fate | There&#39;s No Sympathy For The Dead |
 | 47 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f83c03a5e28242e6a2094d9a1e2119c2.png) | 2006-06-06 | Alesana | On Frail Wings of Vanity And Wax |
+| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/204772b5980d92e83426d36358aca94c.png) | 2006-09-15 | MASS OF THE FERMENTING DREGS | kirametal |
 | 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5b32f39fcef351b8e01d071daa442289.png) | 2006-10-09 | Senses Fail | Still Searching |
-| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e8cad3d1349a4a35980edb9ba9c628d2.png) | 2007-01-23 | A Skylit Drive | She Watched The Sky |
-| 23 |  | 2007-04-10 | blessthefall | His Last Walk |
+| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e8cad3d1349a4a35980edb9ba9c628d2.png) | 2007-01-23 | A Skylit Drive | She Watched The Sky |
+| 22 |  | 2007-04-10 | blessthefall | His Last Walk |
 | 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3cd5bda9db4b49d188a324a2cd87c217.png) | 2007-09-04 | Chiodos | Bone Palace Ballet |
-| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/158e3587fedddc8d86cd3d869c8021e9.png) | 2008-02-19 | Eyes Set to Kill | Reach |
+| 17 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/158e3587fedddc8d86cd3d869c8021e9.png) | 2008-02-19 | Eyes Set to Kill | Reach |
 | 37 |  | 2008-10-18 | Escape the Fate | This War Is Ours |
-| 8 |  | 2008-11-11 | Attack Attack! | Someday Came Suddenly |
+| 7 |  | 2008-11-11 | Attack Attack! | Someday Came Suddenly |
 | 28 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e25ad3a369e547d989100a66e378e669.png) | 2008-11-11 | La Dispute | Somewhere at the Bottom of the River Between Vega and Altair |
 | 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6e5eabf9415c4ae5ca81889a37cb22b7.png) | 2009-01-01 | Enter Shikari | Common Dreads |
 | 27 | ![Cover](https://i.discogs.com/CmGA73TiOCIbvmp9thmDi4blyToML2gO1XSq2oWoMXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzIz/ODItMTUwMjA0NjQy/MS03NTEyLmpwZWc.jpeg) | 2009-03-09 | Isles &amp; Glaciers | The Hearts of Lonely People |
-| 13 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2996070d347b57ba29ba94c3e344e38e.png) | 2009-07-21 | The Word Alive | Empire |
-| 11 |  | 2009-09-15 | Asking Alexandria | Stand Up And Scream |
+| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2996070d347b57ba29ba94c3e344e38e.png) | 2009-07-21 | The Word Alive | Empire |
+| 10 |  | 2009-09-15 | Asking Alexandria | Stand Up And Scream |
 | 32 |  | 2009-10-06 | blessthefall | Witness |
 | 43 |  | 2010-03-09 | Of Mice &amp; Men | Of Mice &amp; Men |
-| 21 |  | 2010-07-20 | Black Veil Brides | We Stitch These Wounds |
-| 14 |  | 2011-04-05 | Asking Alexandria | Reckless &amp; Relentless |
-| 15 | ![Cover](https://i.discogs.com/fa5ga63FfoUZ8J0HaL6d9d0FekLTloubDXi8N1ECDbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzk4/MDAtMTQyNzE4MzU2/MC03NTk4LmpwZWc.jpeg) | 2011-04-29 | Silverstein | Punk Goes Pop Volume Two |
-| 19 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f364f59e11cf2b544a2df1812e9d22a2.png) | 2011-06-08 | Black Veil Brides | Set the World on Fire |
+| 20 |  | 2010-07-20 | Black Veil Brides | We Stitch These Wounds |
+| 13 |  | 2011-04-05 | Asking Alexandria | Reckless &amp; Relentless |
+| 14 | ![Cover](https://i.discogs.com/fa5ga63FfoUZ8J0HaL6d9d0FekLTloubDXi8N1ECDbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzk4/MDAtMTQyNzE4MzU2/MC03NTk4LmpwZWc.jpeg) | 2011-04-29 | Silverstein | Punk Goes Pop Volume Two |
+| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f364f59e11cf2b544a2df1812e9d22a2.png) | 2011-06-08 | Black Veil Brides | Set the World on Fire |
 | 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1c842a38fa09433bc31a2aa2e547843e.png) | 2011-10-04 | La Dispute | Wildlife |
-| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/49dedb85e60042d8b9f4a896d8b4cdf9.png) | 2012-01-13 | Enter Shikari | A Flash Flood of Colour |
+| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/49dedb85e60042d8b9f4a896d8b4cdf9.png) | 2012-01-13 | Enter Shikari | A Flash Flood of Colour |
 | 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b665c029fbe8489f8e6a45dde56215d4.png) | 2013-03-29 | Bring Me the Horizon | Sempiternal |
-| 25 |  | 2013-10-08 | A Day to Remember | Common Courtesy |
-| 5 |  | 2014-09-23 | Hail the Sun | Wake |
-| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/41d4a6c590691571d83353cd6a6853a3.png) | 2015 | Loveless | MIDDLE OF THE NIGHT |
+| 24 |  | 2013-10-08 | A Day to Remember | Common Courtesy |
+| 4 |  | 2014-09-23 | Hail the Sun | Wake |
+| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/41d4a6c590691571d83353cd6a6853a3.png) | 2015 | Loveless | MIDDLE OF THE NIGHT |
 | 26 | ![Cover](https://i.discogs.com/wL0Fq2oe81Ls5ZO6EelyWdF4H2G-mqELoqsPz8odaXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODQy/NDgtMTU5NzYzOTM2/Ny0yODU2LmpwZWc.jpeg) | 2015-04-14 | Dance Gavin Dance | Instant Gratification |
 | 38 | ![Cover](https://i.discogs.com/eLlFHe2kmVpNiB1EVno3aXubDNMaQtibQUwbT0t2Z38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTYz/MzYtMTQ2Mzk3NTU0/Mi0yNDgzLmpwZWc.jpeg) | 2016-05-27 | PUP | The Dream Is Over |
-| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f4d498f39ceab69940213c2ca228e17b.png) | 2016-10-07 | Dance Gavin Dance | Mothership |
+| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f4d498f39ceab69940213c2ca228e17b.png) | 2016-10-07 | Dance Gavin Dance | Mothership |
 | 31 | ![Cover](https://i.discogs.com/nDXueepMmDuD4ywVNkntuD0yMDglJW7zKa2eNojtfBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU5/ODQ5LTE1MDkxMTAw/MzgtNTI4Ni5qcGVn.jpeg) | 2017-10-20 | Movements | Feel Something |
-| 3 | ![Cover](https://i.discogs.com/xsT1E5DdE_uKRSwBFUc-5O_5f2OKLf5Xp8x2MiPeeXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM1/NjU0LTE2NDIxMDQw/NTYtMTA2MS5qcGVn.jpeg) | 2018-10-05 | Ice Nine Kills | The Silver Scream |
+| 2 | ![Cover](https://i.discogs.com/xsT1E5DdE_uKRSwBFUc-5O_5f2OKLf5Xp8x2MiPeeXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM1/NjU0LTE2NDIxMDQw/NTYtMTA2MS5qcGVn.jpeg) | 2018-10-05 | Ice Nine Kills | The Silver Scream |
 | 34 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/193a15c48b6ca02de81894332204772c.png) |  | Hail The Sun | Wake |
 | 62 | ![Cover](https://i.discogs.com/tryat2cpONHCNndsxvDze-VFt9nYzV58HwVmNvzSkyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTU3/NTctMTQzMzA4MDMy/MC05NjExLmpwZWc.jpeg) | 1979 | Julie | flutter |
 | 70 |  | 1989-09 | Fugazi | 13 Songs |
