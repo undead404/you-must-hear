@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-27T02:01:15.855Z
+date: 2025-10-27T03:05:20.962Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-27T02:01:15.855Z">Mon Oct 27 2025 04:01:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-27T03:05:20.962Z">Mon Oct 27 2025 05:05:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [nerdcore]({{ "tags/nerdcore" | relative_url }}) | <time datetime="2025-10-27T03:05:20.962Z">Mon Oct 27 2025 05:05:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [lo-fi]({{ "tags/lo-fi" | relative_url }}) | <time datetime="2025-10-27T02:01:15.855Z">Mon Oct 27 2025 04:01:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [electronicore]({{ "tags/electronicore" | relative_url }}) | <time datetime="2025-10-27T02:00:09.540Z">Mon Oct 27 2025 04:00:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [miami bass]({{ "tags/miami-bass" | relative_url }}) | <time datetime="2025-10-27T01:59:02.272Z">Mon Oct 27 2025 03:59:02 GMT+0200 (Eastern European Standard Time)</time> |
@@ -381,7 +382,6 @@ Last updated: <time datetime="2025-10-27T02:01:15.855Z">Mon Oct 27 2025 04:01:15
 | [acoustic guitar]({{ "tags/acoustic-guitar" | relative_url }}) | <time datetime="2025-10-23T10:14:54.082Z">Thu Oct 23 2025 13:14:54 GMT+0300 (Eastern European Summer Time)</time> |
 | [boogie]({{ "tags/boogie" | relative_url }}) | <time datetime="2025-10-23T10:13:11.229Z">Thu Oct 23 2025 13:13:11 GMT+0300 (Eastern European Summer Time)</time> |
 | [britain]({{ "tags/britain" | relative_url }}) | <time datetime="2025-10-23T10:12:58.140Z">Thu Oct 23 2025 13:12:58 GMT+0300 (Eastern European Summer Time)</time> |
-| [nerdcore]({{ "tags/nerdcore" | relative_url }}) | <time datetime="2025-10-23T10:12:37.571Z">Thu Oct 23 2025 13:12:37 GMT+0300 (Eastern European Summer Time)</time> |
 | [hard bop]({{ "tags/hard-bop" | relative_url }}) | <time datetime="2025-10-23T09:55:15.283Z">Thu Oct 23 2025 12:55:15 GMT+0300 (Eastern European Summer Time)</time> |
 | [acid folk]({{ "tags/acid-folk" | relative_url }}) | <time datetime="2025-10-23T09:38:33.036Z">Thu Oct 23 2025 12:38:33 GMT+0300 (Eastern European Summer Time)</time> |
 | [baltimore]({{ "tags/baltimore" | relative_url }}) | <time datetime="2025-10-23T09:38:04.059Z">Thu Oct 23 2025 12:38:04 GMT+0300 (Eastern European Summer Time)</time> |
