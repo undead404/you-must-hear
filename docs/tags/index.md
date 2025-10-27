@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-27T07:04:02.415Z
+date: 2025-10-27T07:47:43.216Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-27T07:04:02.415Z">Mon Oct 27 2025 09:04:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-27T07:47:43.216Z">Mon Oct 27 2025 09:47:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [neoliberal]({{ "tags/neoliberal" | relative_url }}) | <time datetime="2025-10-27T07:47:43.216Z">Mon Oct 27 2025 09:47:43 GMT+0200 (Eastern European Standard Time)</time> |
 | [electronic]({{ "tags/electronic" | relative_url }}) | <time datetime="2025-10-27T07:04:02.415Z">Mon Oct 27 2025 09:04:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [metalcore]({{ "tags/metalcore" | relative_url }}) | <time datetime="2025-10-27T07:00:24.816Z">Mon Oct 27 2025 09:00:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [emo]({{ "tags/emo" | relative_url }}) | <time datetime="2025-10-27T05:49:24.495Z">Mon Oct 27 2025 07:49:24 GMT+0200 (Eastern European Standard Time)</time> |
@@ -151,7 +152,6 @@ Last updated: <time datetime="2025-10-27T07:04:02.415Z">Mon Oct 27 2025 09:04:02
 | [classic rock]({{ "tags/classic-rock" | relative_url }}) | <time datetime="2025-10-25T18:34:06.875Z">Sat Oct 25 2025 21:34:06 GMT+0300 (Eastern European Summer Time)</time> |
 | [art rock]({{ "tags/art-rock" | relative_url }}) | <time datetime="2025-10-25T18:33:34.714Z">Sat Oct 25 2025 21:33:34 GMT+0300 (Eastern European Summer Time)</time> |
 | [neo-psychedelia]({{ "tags/neo-psychedelia" | relative_url }}) | <time datetime="2025-10-25T18:33:29.118Z">Sat Oct 25 2025 21:33:29 GMT+0300 (Eastern European Summer Time)</time> |
-| [neoliberal]({{ "tags/neoliberal" | relative_url }}) | <time datetime="2025-10-25T18:33:17.298Z">Sat Oct 25 2025 21:33:17 GMT+0300 (Eastern European Summer Time)</time> |
 | [sleaze rock]({{ "tags/sleaze-rock" | relative_url }}) | <time datetime="2025-10-25T18:33:12.651Z">Sat Oct 25 2025 21:33:12 GMT+0300 (Eastern European Summer Time)</time> |
 | [crank wave]({{ "tags/crank-wave" | relative_url }}) | <time datetime="2025-10-25T18:32:57.409Z">Sat Oct 25 2025 21:32:57 GMT+0300 (Eastern European Summer Time)</time> |
 | [symphonic prog]({{ "tags/symphonic-prog" | relative_url }}) | <time datetime="2025-10-25T18:32:53.464Z">Sat Oct 25 2025 21:32:53 GMT+0300 (Eastern European Summer Time)</time> |
