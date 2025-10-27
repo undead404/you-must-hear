@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-27T14:51:46.227Z
+date: 2025-10-27T14:56:33.734Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-27T14:51:46.227Z">Mon Oct 27 2025 16:51:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-27T14:56:33.734Z">Mon Oct 27 2025 16:56:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [romantica]({{ "tags/romantica" | relative_url }}) | <time datetime="2025-10-27T14:56:33.734Z">Mon Oct 27 2025 16:56:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [liverpool]({{ "tags/liverpool" | relative_url }}) | <time datetime="2025-10-27T14:51:46.227Z">Mon Oct 27 2025 16:51:46 GMT+0200 (Eastern European Standard Time)</time> |
 | [funeral doom metal]({{ "tags/funeral-doom-metal" | relative_url }}) | <time datetime="2025-10-27T11:52:09.866Z">Mon Oct 27 2025 13:52:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [power pop]({{ "tags/power-pop" | relative_url }}) | <time datetime="2025-10-27T11:44:51.495Z">Mon Oct 27 2025 13:44:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1026,7 +1027,6 @@ Last updated: <time datetime="2025-10-27T14:51:46.227Z">Mon Oct 27 2025 16:51:46
 | [duet]({{ "tags/duet" | relative_url }}) | <time datetime="2025-10-21T02:20:02.779Z">Tue Oct 21 2025 05:20:02 GMT+0300 (Eastern European Summer Time)</time> |
 | [rocksteady]({{ "tags/rocksteady" | relative_url }}) | <time datetime="2025-10-21T02:19:42.432Z">Tue Oct 21 2025 05:19:42 GMT+0300 (Eastern European Summer Time)</time> |
 | [suomirock]({{ "tags/suomirock" | relative_url }}) | <time datetime="2025-10-21T02:19:36.700Z">Tue Oct 21 2025 05:19:36 GMT+0300 (Eastern European Summer Time)</time> |
-| [romantica]({{ "tags/romantica" | relative_url }}) | <time datetime="2025-10-21T02:19:29.002Z">Tue Oct 21 2025 05:19:29 GMT+0300 (Eastern European Summer Time)</time> |
 | [thrashcore]({{ "tags/thrashcore" | relative_url }}) | <time datetime="2025-10-21T02:19:22.167Z">Tue Oct 21 2025 05:19:22 GMT+0300 (Eastern European Summer Time)</time> |
 | [electroacoustic]({{ "tags/electroacoustic" | relative_url }}) | <time datetime="2025-10-21T02:19:15.518Z">Tue Oct 21 2025 05:19:15 GMT+0300 (Eastern European Summer Time)</time> |
 | [eurodance]({{ "tags/eurodance" | relative_url }}) | <time datetime="2025-10-21T01:13:09.117Z">Tue Oct 21 2025 04:13:09 GMT+0300 (Eastern European Summer Time)</time> |
