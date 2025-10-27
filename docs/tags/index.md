@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-26T21:56:34.731Z
+date: 2025-10-26T23:13:50.208Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-26T21:56:34.731Z">Sun Oct 26 2025 23:56:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-26T23:13:50.208Z">Mon Oct 27 2025 01:13:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [slacker rock]({{ "tags/slacker-rock" | relative_url }}) | <time datetime="2025-10-26T23:13:50.208Z">Mon Oct 27 2025 01:13:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [polish death metal]({{ "tags/polish-death-metal" | relative_url }}) | <time datetime="2025-10-26T21:56:34.731Z">Sun Oct 26 2025 23:56:34 GMT+0200 (Eastern European Standard Time)</time> |
 | [alternative rock]({{ "tags/alternative-rock" | relative_url }}) | <time datetime="2025-10-26T20:43:46.253Z">Sun Oct 26 2025 22:43:46 GMT+0200 (Eastern European Standard Time)</time> |
 | [takamba]({{ "tags/takamba" | relative_url }}) | <time datetime="2025-10-26T20:41:34.068Z">Sun Oct 26 2025 22:41:34 GMT+0200 (Eastern European Standard Time)</time> |
@@ -235,7 +236,6 @@ Last updated: <time datetime="2025-10-26T21:56:34.731Z">Sun Oct 26 2025 23:56:34
 | [post-hardcore]({{ "tags/post-hardcore" | relative_url }}) | <time datetime="2025-10-25T08:31:24.265Z">Sat Oct 25 2025 11:31:24 GMT+0300 (Eastern European Summer Time)</time> |
 | [argentina]({{ "tags/argentina" | relative_url }}) | <time datetime="2025-10-25T08:31:14.315Z">Sat Oct 25 2025 11:31:14 GMT+0300 (Eastern European Summer Time)</time> |
 | [horror punk]({{ "tags/horror-punk" | relative_url }}) | <time datetime="2025-10-25T08:30:57.929Z">Sat Oct 25 2025 11:30:57 GMT+0300 (Eastern European Summer Time)</time> |
-| [slacker rock]({{ "tags/slacker-rock" | relative_url }}) | <time datetime="2025-10-25T08:30:37.337Z">Sat Oct 25 2025 11:30:37 GMT+0300 (Eastern European Summer Time)</time> |
 | [house]({{ "tags/house" | relative_url }}) | <time datetime="2025-10-25T08:30:21.619Z">Sat Oct 25 2025 11:30:21 GMT+0300 (Eastern European Summer Time)</time> |
 | [rock argentino]({{ "tags/rock-argentino" | relative_url }}) | <time datetime="2025-10-25T08:30:09.355Z">Sat Oct 25 2025 11:30:09 GMT+0300 (Eastern European Summer Time)</time> |
 | [female fronted metal]({{ "tags/female-fronted-metal" | relative_url }}) | <time datetime="2025-10-25T08:09:03.333Z">Sat Oct 25 2025 11:09:03 GMT+0300 (Eastern European Summer Time)</time> |
