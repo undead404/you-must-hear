@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-26T20:43:46.253Z
+date: 2025-10-26T21:56:34.731Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-26T20:43:46.253Z">Sun Oct 26 2025 22:43:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-26T21:56:34.731Z">Sun Oct 26 2025 23:56:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [polish death metal]({{ "tags/polish-death-metal" | relative_url }}) | <time datetime="2025-10-26T21:56:34.731Z">Sun Oct 26 2025 23:56:34 GMT+0200 (Eastern European Standard Time)</time> |
 | [alternative rock]({{ "tags/alternative-rock" | relative_url }}) | <time datetime="2025-10-26T20:43:46.253Z">Sun Oct 26 2025 22:43:46 GMT+0200 (Eastern European Standard Time)</time> |
 | [takamba]({{ "tags/takamba" | relative_url }}) | <time datetime="2025-10-26T20:41:34.068Z">Sun Oct 26 2025 22:41:34 GMT+0200 (Eastern European Standard Time)</time> |
 | [psycore]({{ "tags/psycore" | relative_url }}) | <time datetime="2025-10-26T19:07:14.468Z">Sun Oct 26 2025 21:07:14 GMT+0200 (Eastern European Standard Time)</time> |
@@ -461,7 +462,6 @@ Last updated: <time datetime="2025-10-26T20:43:46.253Z">Sun Oct 26 2025 22:43:46
 | [psytrance]({{ "tags/psytrance" | relative_url }}) | <time datetime="2025-10-23T03:52:23.733Z">Thu Oct 23 2025 06:52:23 GMT+0300 (Eastern European Summer Time)</time> |
 | [progressive death metal]({{ "tags/progressive-death-metal" | relative_url }}) | <time datetime="2025-10-23T03:52:15.375Z">Thu Oct 23 2025 06:52:15 GMT+0300 (Eastern European Summer Time)</time> |
 | [folk metal]({{ "tags/folk-metal" | relative_url }}) | <time datetime="2025-10-23T03:51:55.993Z">Thu Oct 23 2025 06:51:55 GMT+0300 (Eastern European Summer Time)</time> |
-| [polish death metal]({{ "tags/polish-death-metal" | relative_url }}) | <time datetime="2025-10-23T03:51:46.021Z">Thu Oct 23 2025 06:51:46 GMT+0300 (Eastern European Summer Time)</time> |
 | [skinhead]({{ "tags/skinhead" | relative_url }}) | <time datetime="2025-10-23T03:51:36.267Z">Thu Oct 23 2025 06:51:36 GMT+0300 (Eastern European Summer Time)</time> |
 | [blackened death metal]({{ "tags/blackened-death-metal" | relative_url }}) | <time datetime="2025-10-23T03:45:41.543Z">Thu Oct 23 2025 06:45:41 GMT+0300 (Eastern European Summer Time)</time> |
 | [bolero]({{ "tags/bolero" | relative_url }}) | <time datetime="2025-10-23T03:23:18.910Z">Thu Oct 23 2025 06:23:18 GMT+0300 (Eastern European Summer Time)</time> |
