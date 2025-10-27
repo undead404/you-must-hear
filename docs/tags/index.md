@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-27T01:59:02.272Z
+date: 2025-10-27T02:00:09.540Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-27T01:59:02.272Z">Mon Oct 27 2025 03:59:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-27T02:00:09.540Z">Mon Oct 27 2025 04:00:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [electronicore]({{ "tags/electronicore" | relative_url }}) | <time datetime="2025-10-27T02:00:09.540Z">Mon Oct 27 2025 04:00:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [miami bass]({{ "tags/miami-bass" | relative_url }}) | <time datetime="2025-10-27T01:59:02.272Z">Mon Oct 27 2025 03:59:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [indie emo]({{ "tags/indie-emo" | relative_url }}) | <time datetime="2025-10-27T01:58:48.774Z">Mon Oct 27 2025 03:58:48 GMT+0200 (Eastern European Standard Time)</time> |
 | [nintendocore]({{ "tags/nintendocore" | relative_url }}) | <time datetime="2025-10-27T01:54:35.430Z">Mon Oct 27 2025 03:54:35 GMT+0200 (Eastern European Standard Time)</time> |
@@ -401,7 +402,6 @@ Last updated: <time datetime="2025-10-27T01:59:02.272Z">Mon Oct 27 2025 03:59:02
 | [norway]({{ "tags/norway" | relative_url }}) | <time datetime="2025-10-23T08:58:33.793Z">Thu Oct 23 2025 11:58:33 GMT+0300 (Eastern European Summer Time)</time> |
 | [scotland]({{ "tags/scotland" | relative_url }}) | <time datetime="2025-10-23T08:58:24.309Z">Thu Oct 23 2025 11:58:24 GMT+0300 (Eastern European Summer Time)</time> |
 | [rock francais]({{ "tags/rock-francais" | relative_url }}) | <time datetime="2025-10-23T08:57:52.580Z">Thu Oct 23 2025 11:57:52 GMT+0300 (Eastern European Summer Time)</time> |
-| [electronicore]({{ "tags/electronicore" | relative_url }}) | <time datetime="2025-10-23T08:57:26.834Z">Thu Oct 23 2025 11:57:26 GMT+0300 (Eastern European Summer Time)</time> |
 | [germany]({{ "tags/germany" | relative_url }}) | <time datetime="2025-10-23T08:56:56.447Z">Thu Oct 23 2025 11:56:56 GMT+0300 (Eastern European Summer Time)</time> |
 | [avant-folk]({{ "tags/avant-folk" | relative_url }}) | <time datetime="2025-10-23T08:56:37.478Z">Thu Oct 23 2025 11:56:37 GMT+0300 (Eastern European Summer Time)</time> |
 | [soundtrack]({{ "tags/soundtrack" | relative_url }}) | <time datetime="2025-10-23T08:56:11.400Z">Thu Oct 23 2025 11:56:11 GMT+0300 (Eastern European Summer Time)</time> |
