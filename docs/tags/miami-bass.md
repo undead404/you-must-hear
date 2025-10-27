@@ -1,68 +1,68 @@
 ---
 category: genre
-date: 2025-10-25T09:53:20.966Z
+date: 2025-10-27T01:59:02.272Z
 permalink: tags/miami-bass
 title: miami bass
 ---
 
 ## miami bass
 
-Last updated: <time datetime="2025-10-25T09:53:20.966Z">Sat Oct 25 2025 12:53:20 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-27T01:59:02.272Z">Mon Oct 27 2025 03:59:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 | ![Cover](https://i.discogs.com/rKoUEJe3hHExi3pZ_WVtISmUlVie9ecryPyJF9OdRJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODg3/NDUwLTE2NjYyODUx/MjktNTQ3Ni5qcGVn.jpeg) | 2022-05-01 | MoneyBaby XO | No Free Rides (feat. PullUp REDDY) - Single |
+| 1 |  |  | Operation Human Mind Expansion | Developments |
 | 2 |  |  | Tianetta | Unknown Album (2&#x2F;17&#x2F;2009 5:48:30 PM) |
-| 12 | ![Cover](https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg) | 1972 | Various Artists | Masters Of Tweak! (TWCD-001) |
+| 4 |  |  | Kreggo feat. MC Textasy | Texas Terrortech Vol.1 |
+| 13 | ![Cover](https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg) | 1972 | Various Artists | Masters Of Tweak! (TWCD-001) |
 | 33 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1977 | Various Artists | Further Out |
 | 34 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1987 | Various Artists | Flavored Beats 4 |
 | 47 | ![Cover](https://i.discogs.com/QQznaDLX19Jx0pQclJ4IiF_KWskV1qkhCf_Para3-6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTkz/LTEzODA2MDk1NzMt/NTgzNC5qcGVn.jpeg) | 1987 | MC Shy-D | Got To Be Tough |
 | 49 |  | 1987 | MC Shy-D | got to be tough |
+| 48 | ![Cover](https://i.discogs.com/w7i3NSojV7BLkiwqimoMqTEtdPMXxzxoct8uyKdhUwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/MTgtMTIxMjYwMzcw/MS5qcGVn.jpeg) | 1988 | Diamanda Galás | Double-Barrel Prayer |
 | 41 | ![Cover](https://i.discogs.com/lotYBeu_1tJiNZhk5-I9U8zWajocX_l-bD6Jgbk2s3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTQ1/OTgtMTYyNjExOTQy/NC05NDEzLmpwZWc.jpeg) | 1990 | Gigolo Tony | All You Need |
 | 44 |  | 1990 | The Boys From the Bottom | Boom I Got Your Girlfriend |
 | 45 | ![Cover](https://i.discogs.com/noa0eqK35mZJoRLHBvEeeVseNxc8z49qPXbgxMeMIJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Njgw/OS0xNTkwNDAzMjc0/LTYxNTUuanBlZw.jpeg) | 1995 | DJ Funk | Pumpin The Trax |
 | 3 | ![Cover](https://i.discogs.com/xUCkR9ioWvsoIapwAJ4hvK9SmLP09OJH29VHrqLNr7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA5/Mi0xMTUxMzYwMzc0/LmpwZWc.jpeg) | 1997 | DJ Icey | 1-2-3-4-5-6-7-8 (tchan&#39;s ghettotech edit) |
+| 40 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1998 | Various Artists | History of Miami Bass |
+| 50 | ![Cover](https://i.discogs.com/erb9jyYysK8g1hLToHu8Jgw3JYyShrpi8glUqWTMJ_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTEx/MTQtMTQyNDA5MDA0/Mi04OTg2LmpwZWc.jpeg) | 1998 | Bass Patrol | Greatest Hits Vol. 4 |
 | 37 | ![Cover](https://i.discogs.com/DGRBwh2xQBNg6OIOsfN-2LG7Z0DVLQxPaXTnOjlWgNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIw/NC0xNTg2OTEzMzA0/LTQ5NDkuanBlZw.jpeg) | 1999 | Rick West | Flavored Beats 4 |
-| 20 | ![Cover](https://i.discogs.com/QMMlyMpbVVnep0zjqWJCnMJ_s6eBoUxQwU4BeCdFl0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDM5/NS0xNjEwNTAyMDU4/LTM3MDAubXBv.jpeg) | 2000 | Tony Faline | Got Funk?, Vol. 1 |
+| 21 | ![Cover](https://i.discogs.com/QMMlyMpbVVnep0zjqWJCnMJ_s6eBoUxQwU4BeCdFl0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDM5/NS0xNjEwNTAyMDU4/LTM3MDAubXBv.jpeg) | 2000 | Tony Faline | Got Funk?, Vol. 1 |
+| 46 | ![Cover](https://i.discogs.com/oDnO8NzuT9cebmKWIVeEFpBJ0ZhEiuDN6hrpY43REJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzcw/ODU3LTE0OTkzNjY0/NjQtNDQ5MC5qcGVn.jpeg) | 2000-02-01 | Tag Team | The Best of Tag Team |
 | 39 | ![Cover](https://i.discogs.com/mqDHK3Lb4zarRlUQxHpPVOLat4126qnrREjIauTy8gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTI3/MS0xMTU1NzYxNDUw/LmpwZWc.jpeg) | 2002 | Diamond Ice | Funk 4 da Trunk |
-| 24 | ![Cover](https://i.discogs.com/PK1HrYgkHv_U8Dx-D7n3q2KAVcDkmKaALPO5lhkS3I4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzk1/Ni0xMTQ1NDY1NzIx/LmpwZWc.jpeg) | 2006 | Spank Rock | Yo Yo Yo Yo Yo |
+| 6 | ![Cover](https://i.discogs.com/uhdzdNvTQhu--Clv5mSpub7dUoq8pVmu5P4o2kzP5h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTI1/Mi0xMTI0MTk1MDEy/LmpwZw.jpeg) | 2003 | Tony Faline | Stop Drop &amp; Funk |
+| 25 | ![Cover](https://i.discogs.com/PK1HrYgkHv_U8Dx-D7n3q2KAVcDkmKaALPO5lhkS3I4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzk1/Ni0xMTQ1NDY1NzIx/LmpwZWc.jpeg) | 2006 | Spank Rock | Yo Yo Yo Yo Yo |
+| 43 | ![Cover](https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg) | 2009 | Various Artists | Dark Side of the Boom |
 | 30 | ![Cover](https://i.discogs.com/EpKXeft4JZsk5e2E-cM1QAPxKJ8rlA35oQVM_6nb43E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjEw/ODQtMTQxMDA1NzE1/NS02MDAyLmpwZWc.jpeg) | 2014-10-03 | Flashmaster Ray | Flashmaster Ray Tracks |
-| 8 | ![Cover](https://i.discogs.com/VPksA0AGXgLDarsrDTcfuE788Oe9tMfeJPN9hFiszpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjgw/ODAtMTQ3NzY3MzM0/OC03MzQ1LmpwZWc.jpeg) | 2016-10-28 | Go Nuclear | NO SERVICE vol.1 |
-| 18 | ![Cover](https://i.discogs.com/-LpUTM0CfQqZAMSpfyhU5KXet1L-ruHrPSGmDhnVvvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg5/MjMzLTE2MDY2NTEz/NDctNDU4MS5wbmc.jpeg) | 2018-05-22 | DJ KARAWAI | NO SERVICE vol.1 |
-| 16 | ![Cover](https://i.discogs.com/ke8_O9zA1dVsFoM6KCM--R6Gw4DsrWYWkPg0EwpfEzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEz/MzkzLTE1MzI3MjY5/NjctMjI1My5qcGVn.jpeg) | 2018-07-06 | garneau | NO SERVICE vol.1 |
-| 15 | ![Cover](https://i.discogs.com/KokeA7jBuryeRjnD2WXtlaoHOhjDagJIYkPumTdYdM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/MDg1LTE1Njk1OTY3/NzYtMjk3OC5qcGVn.jpeg) | 2019-01-14 | Hermeth | NO SERVICE vol.1 |
+| 10 | ![Cover](https://i.discogs.com/VPksA0AGXgLDarsrDTcfuE788Oe9tMfeJPN9hFiszpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjgw/ODAtMTQ3NzY3MzM0/OC03MzQ1LmpwZWc.jpeg) | 2016-10-28 | Go Nuclear | NO SERVICE vol.1 |
+| 19 | ![Cover](https://i.discogs.com/-LpUTM0CfQqZAMSpfyhU5KXet1L-ruHrPSGmDhnVvvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg5/MjMzLTE2MDY2NTEz/NDctNDU4MS5wbmc.jpeg) | 2018-05-22 | DJ KARAWAI | NO SERVICE vol.1 |
+| 17 | ![Cover](https://i.discogs.com/ke8_O9zA1dVsFoM6KCM--R6Gw4DsrWYWkPg0EwpfEzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEz/MzkzLTE1MzI3MjY5/NjctMjI1My5qcGVn.jpeg) | 2018-07-06 | garneau | NO SERVICE vol.1 |
+| 16 | ![Cover](https://i.discogs.com/KokeA7jBuryeRjnD2WXtlaoHOhjDagJIYkPumTdYdM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/MDg1LTE1Njk1OTY3/NzYtMjk3OC5qcGVn.jpeg) | 2019-01-14 | Hermeth | NO SERVICE vol.1 |
 | 31 | ![Cover](https://i.discogs.com/qKLMHqfyrIBB5j-IdJpZ0w3fFSknnswiI5GAVJ0tfkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY5/OTMyLTE1OTA0MjUx/MzAtMTE4OC5qcGVn.jpeg) | 2019-06-05 | RAW TAKES | FUNKED OUT |
 | 29 | ![Cover](https://i.discogs.com/qo6-KgeTRB9ox6Ud9yUx9xqvhhfM46JSPIBvLPx8d8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc1/MzE2LTE1NjA4NTc0/MjktMjMyMC5qcGVn.jpeg) | 2019-06-18 | textasy | Texas Terrortech Vol.1 |
 | 36 | ![Cover](https://i.discogs.com/qo6-KgeTRB9ox6Ud9yUx9xqvhhfM46JSPIBvLPx8d8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc1/MzE2LTE1NjA4NTc0/MjktMjMyMC5qcGVn.jpeg) | 2019-06-18 | textasy | Texas Terrortech Vol. 1 |
-| 10 | ![Cover](https://i.discogs.com/zPdRC2jsGSYNFG6e9eDNvSY2rZIHiZt7DN7sseNT1ZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgw/OTU5LTE1ODE3NTUx/MzUtMjQ5MC5qcGVn.jpeg) | 2019-12-03 | Maruwa | NO SERVICE vol.1 |
-| 38 |  |  | MX008 | Funk 4 Da Trunk |
-| 40 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1998 | Various Artists | History of Miami Bass |
-| 46 | ![Cover](https://i.discogs.com/oDnO8NzuT9cebmKWIVeEFpBJ0ZhEiuDN6hrpY43REJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzcw/ODU3LTE0OTkzNjY0/NjQtNDQ5MC5qcGVn.jpeg) | 2000-02-01 | Tag Team | The Best of Tag Team |
-| 43 | ![Cover](https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg) | 2009 | Various Artists | Dark Side of the Boom |
+| 11 | ![Cover](https://i.discogs.com/zPdRC2jsGSYNFG6e9eDNvSY2rZIHiZt7DN7sseNT1ZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgw/OTU5LTE1ODE3NTUx/MzUtMjQ5MC5qcGVn.jpeg) | 2019-12-03 | Maruwa | NO SERVICE vol.1 |
 | 26 | ![Cover](https://i.discogs.com/qKLMHqfyrIBB5j-IdJpZ0w3fFSknnswiI5GAVJ0tfkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY5/OTMyLTE1OTA0MjUx/MzAtMTE4OC5qcGVn.jpeg) | 2020 | RAW TAKES | UNTITLED #2 |
 | 35 | ![Cover](https://i.discogs.com/qKLMHqfyrIBB5j-IdJpZ0w3fFSknnswiI5GAVJ0tfkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY5/OTMyLTE1OTA0MjUx/MzAtMTE4OC5qcGVn.jpeg) | 2020 | RAW TAKES | TRASH BIN |
 | 42 | ![Cover](https://i.discogs.com/qKLMHqfyrIBB5j-IdJpZ0w3fFSknnswiI5GAVJ0tfkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY5/OTMyLTE1OTA0MjUx/MzAtMTE4OC5qcGVn.jpeg) | 2020 | RAW TAKES | CAR RADIO |
-| 21 | ![Cover](https://i.discogs.com/4zxGfBiWipE1EAK8xS8COko93PYJxHuQNRL_BJ7Jtec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA0/MTg4LTE1OTYyMzI1/NDItODgxNy5qcGVn.jpeg) | 2020-04-27 | Booty-Buster | NO SERVICE vol.1 |
-| 13 | ![Cover](https://i.discogs.com/Q2W2PgAOIcbWzb64Mcem5xNfMbQVvZ0q5ulIx5buuKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzEy/Mjc5LTE2NDIwMjMw/ODQtNDgxNC5qcGVn.jpeg) | 2021-07-09 | Syran | FLOODLIGHT: DNB AID FOR PAKISTAN |
-| 9 | ![Cover](https://i.discogs.com/F-qamzpG1A2XMwD71l7FgLLzpAK6SSA4m74XJPvwZu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQx/NjU0LTE2NDk2NzY5/MjAtOTUyMC5wbmc.jpeg) | 2022-03-15 | Snarexx | NO SERVICE vol.1 |
-| 4 | ![Cover](https://i.discogs.com/4VEdGle4uztA7Lvp1jDYDfYRpuSJW8-9uDT3BpL1LZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDg0/NTE4LTE2NzkzMjY1/MjctOTM2NC5qcGVn.jpeg) | 2023-04-07 | Stuster | CDMUSIC005 |
-| 5 |  |  | Kreggo feat. MC Textasy | Texas Terrortech Vol.1 |
-| 11 |  |  | Mr.3 | Trappin In Tha Pussy |
-| 48 | ![Cover](https://i.discogs.com/w7i3NSojV7BLkiwqimoMqTEtdPMXxzxoct8uyKdhUwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/MTgtMTIxMjYwMzcw/MS5qcGVn.jpeg) | 1988 | Diamanda Galás | Double-Barrel Prayer |
-| 50 | ![Cover](https://i.discogs.com/erb9jyYysK8g1hLToHu8Jgw3JYyShrpi8glUqWTMJ_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTEx/MTQtMTQyNDA5MDA0/Mi04OTg2LmpwZWc.jpeg) | 1998 | Bass Patrol | Greatest Hits Vol. 4 |
-| 6 | ![Cover](https://i.discogs.com/uhdzdNvTQhu--Clv5mSpub7dUoq8pVmu5P4o2kzP5h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTI1/Mi0xMTI0MTk1MDEy/LmpwZw.jpeg) | 2003 | Tony Faline | Stop Drop &amp; Funk |
-| 22 | ![Cover](https://i.discogs.com/1non0EKjvnKKLEUq0-rf2hOf8usQcSyfZCHaBJROYx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODk1/OTk1LTE2ODI1NjUy/MDgtMTMzNS5qcGVn.jpeg) | 2021-06-16 | Selfhood | NO SERVICE vol.1 |
+| 22 | ![Cover](https://i.discogs.com/4zxGfBiWipE1EAK8xS8COko93PYJxHuQNRL_BJ7Jtec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA0/MTg4LTE1OTYyMzI1/NDItODgxNy5qcGVn.jpeg) | 2020-04-27 | Booty-Buster | NO SERVICE vol.1 |
+| 23 | ![Cover](https://i.discogs.com/1non0EKjvnKKLEUq0-rf2hOf8usQcSyfZCHaBJROYx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODk1/OTk1LTE2ODI1NjUy/MDgtMTMzNS5qcGVn.jpeg) | 2021-06-16 | Selfhood | NO SERVICE vol.1 |
+| 14 | ![Cover](https://i.discogs.com/Q2W2PgAOIcbWzb64Mcem5xNfMbQVvZ0q5ulIx5buuKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzEy/Mjc5LTE2NDIwMjMw/ODQtNDgxNC5qcGVn.jpeg) | 2021-07-09 | Syran | FLOODLIGHT: DNB AID FOR PAKISTAN |
 | 27 | ![Cover](https://i.discogs.com/peMWkEFAE95a1Bk_r1wrLixVBXlsc-xJ39Yg96kR3_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjM5/MzAyLTE2NDA5NzAy/NDAtNTgyMy5qcGVn.jpeg) | 2021-12-15 | GG Allin | Hard Candy Cock |
-| 19 | ![Cover](https://i.discogs.com/ShwNkedjuVxSaBpii28HwLl6q_WjqJ2aq8cKqhUKgz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzk1/NzA4LTE2MzI4MTM4/NzMtMzU4MC5qcGVn.jpeg) | 2021-12-25 | Partiboi69 | NO SERVICE vol.1 |
+| 20 | ![Cover](https://i.discogs.com/ShwNkedjuVxSaBpii28HwLl6q_WjqJ2aq8cKqhUKgz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzk1/NzA4LTE2MzI4MTM4/NzMtMzU4MC5qcGVn.jpeg) | 2021-12-25 | Partiboi69 | NO SERVICE vol.1 |
 | 7 | ![Cover](https://i.discogs.com/Pf8zUsSsAz8hJ3QGZYISWzsAe6c31QAmc78ZNpgPXAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODg3/NzQ0LTE2NjYyODY2/NTktMjg0MS5qcGVn.jpeg) | 2022-01-15 | MoneyBaby XO | No Free Rides |
-| 17 | ![Cover](https://i.discogs.com/tfgmPgF9hmARwGvo8m-IQYiXN2InmBlDBusIzwcNEu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTg0/OTEzLTE2ODAxMDQ0/MzQtMTE0NS5qcGVn.jpeg) | 2022-08-01 | RLGN | NO SERVICE vol.1 |
-| 14 | ![Cover](https://i.discogs.com/bDk3R8GQ-QFqLT665kxOhL_GtiBBtDzRkayF43C2dEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI2/MTk4LTE2MDIxMDY0/MzMtNjM5OS5qcGVn.jpeg) | 2022-09-05 | Turk Turkelton | NO SERVICE vol.1 |
-| 23 |  |  | Sinistro e Mião | Rap Brasil |
-| 25 | ![Cover](https://i.discogs.com/qcPw2i6zzTXsny3zRnvsvQwxL3c0kmj1IU-FlSIMRZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODg4/Mjc4LTE2NjYyOTAw/ODAtMjIzMC5wbmc.jpeg) | 2022-08-30 | MoneyBaby XO | No Free Rides (feat. PullUp Reddy) |
+| 9 | ![Cover](https://i.discogs.com/F-qamzpG1A2XMwD71l7FgLLzpAK6SSA4m74XJPvwZu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQx/NjU0LTE2NDk2NzY5/MjAtOTUyMC5wbmc.jpeg) | 2022-03-15 | Snarexx | NO SERVICE vol.1 |
+| 18 | ![Cover](https://i.discogs.com/tfgmPgF9hmARwGvo8m-IQYiXN2InmBlDBusIzwcNEu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTg0/OTEzLTE2ODAxMDQ0/MzQtMTE0NS5qcGVn.jpeg) | 2022-08-01 | RLGN | NO SERVICE vol.1 |
+| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5ac63a6dcf39d4662e2c0908eb39ef63.png) | 2022-08-30 | MoneyBaby XO | No Free Rides (feat. PullUp Reddy) |
+| 5 | ![Cover](https://i.discogs.com/4VEdGle4uztA7Lvp1jDYDfYRpuSJW8-9uDT3BpL1LZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDg0/NTE4LTE2NzkzMjY1/MjctOTM2NC5qcGVn.jpeg) | 2023-04-07 | Stuster | CDMUSIC005 |
+| 12 |  |  | Mr.3 | Trappin In Tha Pussy |
+| 15 | ![Cover](https://i.discogs.com/bDk3R8GQ-QFqLT665kxOhL_GtiBBtDzRkayF43C2dEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI2/MTk4LTE2MDIxMDY0/MzMtNjM5OS5qcGVn.jpeg) | 2022-09-05 | Turk Turkelton | NO SERVICE vol.1 |
+| 24 |  |  | Sinistro e Mião | Rap Brasil |
 | 28 | ![Cover](https://i.discogs.com/qKLMHqfyrIBB5j-IdJpZ0w3fFSknnswiI5GAVJ0tfkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY5/OTMyLTE1OTA0MjUx/MzAtMTE4OC5qcGVn.jpeg) | 2023-05 | RAW TAKES | UNTITLED |
 | 32 |  |  | Bull of Heaven | 340: Good Night, Sweet Prince, Vol. 3 |
+| 38 |  |  | MX008 | Funk 4 Da Trunk |
 | 53 |  |  | Dj Rideon | Back To Miami |
 | 79 |  | 1967 | Miss Madeline | Pretty Girl Party |
 | 58 |  | 1972 | Various Artists | Miami Bass Express |
