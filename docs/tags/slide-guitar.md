@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T04:53:12.485Z
+date: 2025-10-27T15:22:37.312Z
 permalink: tags/slide-guitar
 title: slide guitar
 ---
 
 ## slide guitar
 
-Last updated: <time datetime="2025-10-21T04:53:12.485Z">Tue Oct 21 2025 07:53:12 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-27T15:22:37.312Z">Mon Oct 27 2025 17:22:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -20,7 +20,6 @@ Last updated: <time datetime="2025-10-21T04:53:12.485Z">Tue Oct 21 2025 07:53:12
 | 20 |  |  | The Sultans of Slide | Lightning Strikes |
 | 21 |  |  | Sasha Sadikov &amp; Egor Zayaev | Exist |
 | 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f63072b90aae3f310c7cc62ee32d88ce.png) | 1971-12-03 | Electric Light Orchestra | No Answer |
-| 31 |  |  | Thomas Brunkard | A Never Ending Album |
 | 38 |  |  | Francois Xavier Marciat | Driving On Back Roads |
 | 55 |  | 1970 | Cochise | Cochise |
 | 62 | ![Cover](https://i.discogs.com/oF3jpVoN3ri6Hfrl81I0Sn6d5hQUdZ0fFAZppPDfBT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQ1/NTctMTUyMzI2Mzc4/MC01Njk2LmpwZWc.jpeg) | 1973 | Michael Stanley | Michael Stanley |
@@ -32,6 +31,7 @@ Last updated: <time datetime="2025-10-21T04:53:12.485Z">Tue Oct 21 2025 07:53:12
 | 35 | ![Cover](https://i.discogs.com/Gi2W7JSq52A6z_9ywr9yCQy-t7_0-epRe-LkW07iM-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDMz/OTMtMTQzMjM5Mjk5/MC0yMjk3LmpwZWc.jpeg) | 1981 | David Lindley | Playing Even Better |
 | 68 | ![Cover](https://i.discogs.com/kJdDDl8cUoISwU6hjRQCxCxAOarkCsgxXcwxFJdYusM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTYz/NDUtMTYwODQxMDA3/OS05OTgzLmpwZWc.jpeg) | 1981 | Bob Brozman | Kīkā Kila Meets Kī Hō&#39;alu |
 | 70 | ![Cover](https://i.discogs.com/h9PmlZZR_FqB6JHtHgt99UqQbfR-GLmeb-gTmQ957qc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk4/MjUtMTMxNjgxNjM0/OS5qcGVn.jpeg) | 1981 | David Lindley | Win This Record! |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/086f83bb4d5ec162daab5a1df39e85c6.png) | 1982 | Rose Tattoo | Scarred for Life |
 | 80 |  | 1982 | David Lindley | Win This Record |
 | 29 |  | 1983 | David Lindley | El Rayo Live |
 | 25 |  | 1985 | David Lindley | Mr. Dave |
@@ -63,7 +63,6 @@ Last updated: <time datetime="2025-10-21T04:53:12.485Z">Tue Oct 21 2025 07:53:12
 | 15 | ![Cover](https://i.discogs.com/HUB6GNDWijiLrxD7TFfnkyQgdL9YUDxqSrt5JA11zYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTc1/NjkzLTE2MDg1Nzc2/NDItMjQ5Mi5qcGVn.jpeg) | 2002 | Paul Fenton | Live! In Toronto |
 | 61 |  | 2002-03-26 | Roy Rogers | Slideways |
 | 83 |  | 2003-04-01 | Chris Whitley | Hotel Vast Horizon |
-| 1 | ![Cover](https://i.discogs.com/CxrfS8mWnavzwzu_ga6oHDfht33r0zQEs8OpMMLW7oA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODky/MzgtMTQxODAzNzEy/OC04MzAzLmpwZWc.jpeg) | 2004 | Alex Gomez | Always Never |
 | 18 | ![Cover](https://i.discogs.com/l2GEhqIDHzoTAqU20XHayQ9ehIovAQc_AqUGw6ThFH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDcz/NzgtMTI5OTIyNzI1/MS5qcGVn.jpeg) | 2004 | Charley Patton | Charley Patton - Complete Recordings |
 | 50 |  | 2004 | Roy Rogers &amp; The Delta Rhythm Kings | Live! at the Sierra Nevada Brewery Big Room |
 | 88 |  | 2004-01-26 | Bjørn Berge | St. Slide |
@@ -102,13 +101,14 @@ Last updated: <time datetime="2025-10-21T04:53:12.485Z">Tue Oct 21 2025 07:53:12
 | 99 | ![Cover](https://i.discogs.com/70oVb7lZwCfzm8iTt4m0lOWaj5EeVaQqKMbRI9Jy7h8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Njgx/NDAtMTM4MDg5ODgz/Mi00Mzk5LmpwZWc.jpeg) | 2012-06-25 | Jerry Douglas | Traveler |
 | 9 | ![Cover](https://i.discogs.com/wQ7N6PPlQYWbL9Bk4Xep-P_6tA5KRuv0M73YKOB2qxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzU0/MzAtMTU5NjcyMjM2/Ny05NTgxLmpwZWc.jpeg) | 2012-10-22 | Lightnin&#39; Guy | Blood for Kali |
 | 5 |  | 2012-11-06 | The Silver Fish | Jacques Russell |
-| 42 | ![Cover](https://i.discogs.com/ohMo5ZAIdTYXaXKWdeM4SNoy491o9XrL9o0VmsTSzrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgz/MjQ3LTE1MTUzMzQz/NzAtNTgzNS5qcGVn.jpeg) | 2013 | Sterling Koch | Let It Slide |
 | 98 |  | 2013 | Left Lane Cruiser | Rock Them Back To Hell |
 | 71 | ![Cover](https://i.discogs.com/AszD3jCjb5SrSnSraUyLENFwtWsvt_hePbikPnV-DFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTI2/NDQtMTU2MzI5NDE5/OS02MjkwLmpwZWc.jpeg) | 2013-01-25 | Erja Lyytinen | Forbidden Fruit |
 | 65 |  | 2013-03-11 | The Cedars | Little Copper Still |
 | 56 | ![Cover](https://i.discogs.com/lhgSQ1_SHcB1gQydwdtxNlS2sBiZwEV3hvxwHQgDPTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDYx/NzUtMTQ2NTgzNTEx/MC03ODA5LmpwZWc.jpeg) | 2013-05-13 | Rick Shaffer | Stacked Deck |
 | 3 | ![Cover](https://i.discogs.com/C9ZAETFPw8B7PgnyIEKMTYbHIiM3Dbg3eEqnvlqc2RE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA2/NTEwLTE2MTIxNzIx/NzMtOTk4NS5qcGVn.jpeg) | 2013-07-19 | Kerry Kearney | Got Slide Guitar? |
+| 31 |  |  | Thomas Brunkard | A Never Ending Album |
 | 77 |  |  | Brian Robbins Band | On |
+| 42 | ![Cover](https://i.discogs.com/ohMo5ZAIdTYXaXKWdeM4SNoy491o9XrL9o0VmsTSzrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzgz/MjQ3LTE1MTUzMzQz/NzAtNTgzNS5qcGVn.jpeg) | 2013 | Sterling Koch | Let It Slide |
 | 52 | ![Cover](https://i.discogs.com/xfcJEYboy3woLos18fccaunkvecvAs6PAr9Tyf04_rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODg1/Ni0xMTcwNjU0MTU1/LmpwZWc.jpeg) | 2017 | Elmore James | Dust My Broom (78 RPM Version) |
 | 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bdaa5c7335624a31946aa5a16f085200.png) | 2019 | Maromaro | The Inter-Galactic Jaunt |
 | 100 | ![Cover](https://i.discogs.com/8eOlmQ0sjAdx0wbx0Ti_6TjLpkV9QSAgiy6jLbcD254/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDA4/NDgwLTE2ODA1NDkx/OTktNzY0MC5qcGVn.jpeg) | 2022-08-19 | Flipturn | Shadowglow |

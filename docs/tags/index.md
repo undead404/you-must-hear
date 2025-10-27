@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-10-27T14:56:33.734Z
+date: 2025-10-27T15:22:37.312Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-27T14:56:33.734Z">Mon Oct 27 2025 16:56:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-27T15:22:37.312Z">Mon Oct 27 2025 17:22:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [slide guitar]({{ "tags/slide-guitar" | relative_url }}) | <time datetime="2025-10-27T15:22:37.312Z">Mon Oct 27 2025 17:22:37 GMT+0200 (Eastern European Standard Time)</time> |
+| [cyber metal]({{ "tags/cyber-metal" | relative_url }}) | <time datetime="2025-10-27T15:16:09.336Z">Mon Oct 27 2025 17:16:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [romantica]({{ "tags/romantica" | relative_url }}) | <time datetime="2025-10-27T14:56:33.734Z">Mon Oct 27 2025 16:56:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [liverpool]({{ "tags/liverpool" | relative_url }}) | <time datetime="2025-10-27T14:51:46.227Z">Mon Oct 27 2025 16:51:46 GMT+0200 (Eastern European Standard Time)</time> |
 | [funeral doom metal]({{ "tags/funeral-doom-metal" | relative_url }}) | <time datetime="2025-10-27T11:52:09.866Z">Mon Oct 27 2025 13:52:09 GMT+0200 (Eastern European Standard Time)</time> |
@@ -984,12 +986,10 @@ Last updated: <time datetime="2025-10-27T14:56:33.734Z">Mon Oct 27 2025 16:56:33
 | [detroit techno]({{ "tags/detroit-techno" | relative_url }}) | <time datetime="2025-10-21T04:53:46.646Z">Tue Oct 21 2025 07:53:46 GMT+0300 (Eastern European Summer Time)</time> |
 | [emo rap]({{ "tags/emo-rap" | relative_url }}) | <time datetime="2025-10-21T04:53:37.931Z">Tue Oct 21 2025 07:53:37 GMT+0300 (Eastern European Summer Time)</time> |
 | [canterbury scene]({{ "tags/canterbury-scene" | relative_url }}) | <time datetime="2025-10-21T04:53:18.739Z">Tue Oct 21 2025 07:53:18 GMT+0300 (Eastern European Summer Time)</time> |
-| [slide guitar]({{ "tags/slide-guitar" | relative_url }}) | <time datetime="2025-10-21T04:53:12.485Z">Tue Oct 21 2025 07:53:12 GMT+0300 (Eastern European Summer Time)</time> |
 | [crust]({{ "tags/crust" | relative_url }}) | <time datetime="2025-10-21T04:53:02.610Z">Tue Oct 21 2025 07:53:02 GMT+0300 (Eastern European Summer Time)</time> |
 | [icelandic]({{ "tags/icelandic" | relative_url }}) | <time datetime="2025-10-21T04:52:56.657Z">Tue Oct 21 2025 07:52:56 GMT+0300 (Eastern European Summer Time)</time> |
 | [german rap]({{ "tags/german-rap" | relative_url }}) | <time datetime="2025-10-21T04:52:51.682Z">Tue Oct 21 2025 07:52:51 GMT+0300 (Eastern European Summer Time)</time> |
 | [flute]({{ "tags/flute" | relative_url }}) | <time datetime="2025-10-21T04:52:39.663Z">Tue Oct 21 2025 07:52:39 GMT+0300 (Eastern European Summer Time)</time> |
-| [cyber metal]({{ "tags/cyber-metal" | relative_url }}) | <time datetime="2025-10-21T04:52:29.759Z">Tue Oct 21 2025 07:52:29 GMT+0300 (Eastern European Summer Time)</time> |
 | [houston rap]({{ "tags/houston-rap" | relative_url }}) | <time datetime="2025-10-21T03:36:26.092Z">Tue Oct 21 2025 06:36:26 GMT+0300 (Eastern European Summer Time)</time> |
 | [chaotic hardcore]({{ "tags/chaotic-hardcore" | relative_url }}) | <time datetime="2025-10-21T03:36:19.171Z">Tue Oct 21 2025 06:36:19 GMT+0300 (Eastern European Summer Time)</time> |
 | [suicidal black metal]({{ "tags/suicidal-black-metal" | relative_url }}) | <time datetime="2025-10-21T03:36:13.540Z">Tue Oct 21 2025 06:36:13 GMT+0300 (Eastern European Summer Time)</time> |
