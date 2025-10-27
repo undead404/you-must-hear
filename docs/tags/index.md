@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-10-27T15:22:37.312Z
+date: 2025-10-27T15:36:55.001Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-27T15:22:37.312Z">Mon Oct 27 2025 17:22:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-27T15:36:55.001Z">Mon Oct 27 2025 17:36:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [progressive black metal]({{ "tags/progressive-black-metal" | relative_url }}) | <time datetime="2025-10-27T15:36:55.001Z">Mon Oct 27 2025 17:36:55 GMT+0200 (Eastern European Standard Time)</time> |
+| [reggae]({{ "tags/reggae" | relative_url }}) | <time datetime="2025-10-27T15:33:23.982Z">Mon Oct 27 2025 17:33:23 GMT+0200 (Eastern European Standard Time)</time> |
 | [slide guitar]({{ "tags/slide-guitar" | relative_url }}) | <time datetime="2025-10-27T15:22:37.312Z">Mon Oct 27 2025 17:22:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [cyber metal]({{ "tags/cyber-metal" | relative_url }}) | <time datetime="2025-10-27T15:16:09.336Z">Mon Oct 27 2025 17:16:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [romantica]({{ "tags/romantica" | relative_url }}) | <time datetime="2025-10-27T14:56:33.734Z">Mon Oct 27 2025 16:56:33 GMT+0200 (Eastern European Standard Time)</time> |
@@ -345,7 +347,6 @@ Last updated: <time datetime="2025-10-27T15:22:37.312Z">Mon Oct 27 2025 17:22:37
 | [trip]({{ "tags/trip" | relative_url }}) | <time datetime="2025-10-24T09:32:24.461Z">Fri Oct 24 2025 12:32:24 GMT+0300 (Eastern European Summer Time)</time> |
 | [ska]({{ "tags/ska" | relative_url }}) | <time datetime="2025-10-24T09:31:08.601Z">Fri Oct 24 2025 12:31:08 GMT+0300 (Eastern European Summer Time)</time> |
 | [psydub]({{ "tags/psydub" | relative_url }}) | <time datetime="2025-10-24T09:30:31.178Z">Fri Oct 24 2025 12:30:31 GMT+0300 (Eastern European Summer Time)</time> |
-| [progressive black metal]({{ "tags/progressive-black-metal" | relative_url }}) | <time datetime="2025-10-24T09:25:01.148Z">Fri Oct 24 2025 12:25:01 GMT+0300 (Eastern European Summer Time)</time> |
 | [chilean]({{ "tags/chilean" | relative_url }}) | <time datetime="2025-10-24T09:14:14.660Z">Fri Oct 24 2025 12:14:14 GMT+0300 (Eastern European Summer Time)</time> |
 | [progressive power metal]({{ "tags/progressive-power-metal" | relative_url }}) | <time datetime="2025-10-24T07:47:27.206Z">Fri Oct 24 2025 10:47:27 GMT+0300 (Eastern European Summer Time)</time> |
 | [nu jazz]({{ "tags/nu-jazz" | relative_url }}) | <time datetime="2025-10-24T03:13:40.442Z">Fri Oct 24 2025 06:13:40 GMT+0300 (Eastern European Summer Time)</time> |
@@ -978,7 +979,6 @@ Last updated: <time datetime="2025-10-27T15:22:37.312Z">Mon Oct 27 2025 17:22:37
 | [raw black metal]({{ "tags/raw-black-metal" | relative_url }}) | <time datetime="2025-10-21T05:19:22.962Z">Tue Oct 21 2025 08:19:22 GMT+0300 (Eastern European Summer Time)</time> |
 | [israel]({{ "tags/israel" | relative_url }}) | <time datetime="2025-10-21T05:19:12.089Z">Tue Oct 21 2025 08:19:12 GMT+0300 (Eastern European Summer Time)</time> |
 | [modern melodic death metal]({{ "tags/modern-melodic-death-metal" | relative_url }}) | <time datetime="2025-10-21T05:10:23.326Z">Tue Oct 21 2025 08:10:23 GMT+0300 (Eastern European Summer Time)</time> |
-| [reggae]({{ "tags/reggae" | relative_url }}) | <time datetime="2025-10-21T05:10:16.914Z">Tue Oct 21 2025 08:10:16 GMT+0300 (Eastern European Summer Time)</time> |
 | [polski rap]({{ "tags/polski-rap" | relative_url }}) | <time datetime="2025-10-21T05:10:08.284Z">Tue Oct 21 2025 08:10:08 GMT+0300 (Eastern European Summer Time)</time> |
 | [minimalism]({{ "tags/minimalism" | relative_url }}) | <time datetime="2025-10-21T05:09:55.098Z">Tue Oct 21 2025 08:09:55 GMT+0300 (Eastern European Summer Time)</time> |
 | [genderqueer]({{ "tags/genderqueer" | relative_url }}) | <time datetime="2025-10-21T05:09:48.052Z">Tue Oct 21 2025 08:09:48 GMT+0300 (Eastern European Summer Time)</time> |
