@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-26T19:07:14.468Z
+date: 2025-10-26T20:41:34.068Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-26T19:07:14.468Z">Sun Oct 26 2025 21:07:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-26T20:41:34.068Z">Sun Oct 26 2025 22:41:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [takamba]({{ "tags/takamba" | relative_url }}) | <time datetime="2025-10-26T20:41:34.068Z">Sun Oct 26 2025 22:41:34 GMT+0200 (Eastern European Standard Time)</time> |
 | [psycore]({{ "tags/psycore" | relative_url }}) | <time datetime="2025-10-26T19:07:14.468Z">Sun Oct 26 2025 21:07:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [rappeuse]({{ "tags/rappeuse" | relative_url }}) | <time datetime="2025-10-26T17:40:50.143Z">Sun Oct 26 2025 19:40:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [live set]({{ "tags/live-set" | relative_url }}) | <time datetime="2025-10-26T17:40:04.960Z">Sun Oct 26 2025 19:40:04 GMT+0200 (Eastern European Standard Time)</time> |
@@ -506,7 +507,6 @@ Last updated: <time datetime="2025-10-26T19:07:14.468Z">Sun Oct 26 2025 21:07:14
 | [national socialist]({{ "tags/national-socialist" | relative_url }}) | <time datetime="2025-10-23T00:06:25.792Z">Thu Oct 23 2025 03:06:25 GMT+0300 (Eastern European Summer Time)</time> |
 | [progressive folk]({{ "tags/progressive-folk" | relative_url }}) | <time datetime="2025-10-23T00:05:46.518Z">Thu Oct 23 2025 03:05:46 GMT+0300 (Eastern European Summer Time)</time> |
 | [black ambient]({{ "tags/black-ambient" | relative_url }}) | <time datetime="2025-10-23T00:05:09.842Z">Thu Oct 23 2025 03:05:09 GMT+0300 (Eastern European Summer Time)</time> |
-| [takamba]({{ "tags/takamba" | relative_url }}) | <time datetime="2025-10-23T00:04:37.533Z">Thu Oct 23 2025 03:04:37 GMT+0300 (Eastern European Summer Time)</time> |
 | [darksynth]({{ "tags/darksynth" | relative_url }}) | <time datetime="2025-10-23T00:04:15.880Z">Thu Oct 23 2025 03:04:15 GMT+0300 (Eastern European Summer Time)</time> |
 | [neocrust]({{ "tags/neocrust" | relative_url }}) | <time datetime="2025-10-23T00:03:57.156Z">Thu Oct 23 2025 03:03:57 GMT+0300 (Eastern European Summer Time)</time> |
 | [new york city]({{ "tags/new-york-city" | relative_url }}) | <time datetime="2025-10-23T00:03:46.464Z">Thu Oct 23 2025 03:03:46 GMT+0300 (Eastern European Summer Time)</time> |
