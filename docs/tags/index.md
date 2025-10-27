@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-27T09:53:37.201Z
+date: 2025-10-27T11:44:51.495Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-27T09:53:37.201Z">Mon Oct 27 2025 11:53:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-27T11:44:51.495Z">Mon Oct 27 2025 13:44:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [power pop]({{ "tags/power-pop" | relative_url }}) | <time datetime="2025-10-27T11:44:51.495Z">Mon Oct 27 2025 13:44:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [usa]({{ "tags/usa" | relative_url }}) | <time datetime="2025-10-27T09:53:37.201Z">Mon Oct 27 2025 11:53:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [waltz]({{ "tags/waltz" | relative_url }}) | <time datetime="2025-10-27T09:34:20.290Z">Mon Oct 27 2025 11:34:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [neoliberal]({{ "tags/neoliberal" | relative_url }}) | <time datetime="2025-10-27T07:47:43.216Z">Mon Oct 27 2025 09:47:43 GMT+0200 (Eastern European Standard Time)</time> |
@@ -106,7 +107,6 @@ Last updated: <time datetime="2025-10-27T09:53:37.201Z">Mon Oct 27 2025 11:53:37
 | [spanish]({{ "tags/spanish" | relative_url }}) | <time datetime="2025-10-25T23:28:50.568Z">Sun Oct 26 2025 02:28:50 GMT+0300 (Eastern European Summer Time)</time> |
 | [atmospheric metal]({{ "tags/atmospheric-metal" | relative_url }}) | <time datetime="2025-10-25T23:28:45.617Z">Sun Oct 26 2025 02:28:45 GMT+0300 (Eastern European Summer Time)</time> |
 | [swedish]({{ "tags/swedish" | relative_url }}) | <time datetime="2025-10-25T23:28:27.615Z">Sun Oct 26 2025 02:28:27 GMT+0300 (Eastern European Summer Time)</time> |
-| [power pop]({{ "tags/power-pop" | relative_url }}) | <time datetime="2025-10-25T23:28:19.845Z">Sun Oct 26 2025 02:28:19 GMT+0300 (Eastern European Summer Time)</time> |
 | [adult contemporary]({{ "tags/adult-contemporary" | relative_url }}) | <time datetime="2025-10-25T23:28:11.521Z">Sun Oct 26 2025 02:28:11 GMT+0300 (Eastern European Summer Time)</time> |
 | [bedroom pop]({{ "tags/bedroom-pop" | relative_url }}) | <time datetime="2025-10-25T23:28:02.471Z">Sun Oct 26 2025 02:28:02 GMT+0300 (Eastern European Summer Time)</time> |
 | [christian rock]({{ "tags/christian-rock" | relative_url }}) | <time datetime="2025-10-25T23:27:38.892Z">Sun Oct 26 2025 02:27:38 GMT+0300 (Eastern European Summer Time)</time> |
