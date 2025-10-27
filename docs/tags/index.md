@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-27T02:00:09.540Z
+date: 2025-10-27T02:01:15.855Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-27T02:00:09.540Z">Mon Oct 27 2025 04:00:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-27T02:01:15.855Z">Mon Oct 27 2025 04:01:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [lo-fi]({{ "tags/lo-fi" | relative_url }}) | <time datetime="2025-10-27T02:01:15.855Z">Mon Oct 27 2025 04:01:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [electronicore]({{ "tags/electronicore" | relative_url }}) | <time datetime="2025-10-27T02:00:09.540Z">Mon Oct 27 2025 04:00:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [miami bass]({{ "tags/miami-bass" | relative_url }}) | <time datetime="2025-10-27T01:59:02.272Z">Mon Oct 27 2025 03:59:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [indie emo]({{ "tags/indie-emo" | relative_url }}) | <time datetime="2025-10-27T01:58:48.774Z">Mon Oct 27 2025 03:58:48 GMT+0200 (Eastern European Standard Time)</time> |
@@ -202,7 +203,6 @@ Last updated: <time datetime="2025-10-27T02:00:09.540Z">Mon Oct 27 2025 04:00:09
 | [worldbeat]({{ "tags/worldbeat" | relative_url }}) | <time datetime="2025-10-25T10:28:29.298Z">Sat Oct 25 2025 13:28:29 GMT+0300 (Eastern European Summer Time)</time> |
 | [deathrock]({{ "tags/deathrock" | relative_url }}) | <time datetime="2025-10-25T10:23:35.612Z">Sat Oct 25 2025 13:23:35 GMT+0300 (Eastern European Summer Time)</time> |
 | [drill and bass]({{ "tags/drill-and-bass" | relative_url }}) | <time datetime="2025-10-25T10:17:30.475Z">Sat Oct 25 2025 13:17:30 GMT+0300 (Eastern European Summer Time)</time> |
-| [lo-fi]({{ "tags/lo-fi" | relative_url }}) | <time datetime="2025-10-25T10:13:04.533Z">Sat Oct 25 2025 13:13:04 GMT+0300 (Eastern European Summer Time)</time> |
 | [aussie]({{ "tags/aussie" | relative_url }}) | <time datetime="2025-10-25T09:55:38.074Z">Sat Oct 25 2025 12:55:38 GMT+0300 (Eastern European Summer Time)</time> |
 | [doomergaze]({{ "tags/doomergaze" | relative_url }}) | <time datetime="2025-10-25T09:54:04.594Z">Sat Oct 25 2025 12:54:04 GMT+0300 (Eastern European Summer Time)</time> |
 | [acoustic pop]({{ "tags/acoustic-pop" | relative_url }}) | <time datetime="2025-10-25T09:51:24.029Z">Sat Oct 25 2025 12:51:24 GMT+0300 (Eastern European Summer Time)</time> |
