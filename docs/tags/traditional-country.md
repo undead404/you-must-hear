@@ -1,24 +1,23 @@
 ---
 category: genre
-date: 2025-10-26T04:28:18.378Z
+date: 2025-10-28T14:48:13.479Z
 permalink: tags/traditional-country
 title: traditional country
 ---
 
 ## traditional country
 
-Last updated: <time datetime="2025-10-26T04:28:18.378Z">Sun Oct 26 2025 06:28:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T14:48:13.479Z">Tue Oct 28 2025 16:48:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | J. K. Coltrain | J.K. Coltrain - Classic Country |
-| 3 |  | 1912-12 | Fred Van Eps | Dixie |
+| 2 |  | 1912-12 | Fred Van Eps | Dixie |
 | 9 |  |  | Dark Ride Brothers | One More Time |
 | 27 |  |  | Caleb Monroe | Singles |
 | 85 | ![Cover](https://i.discogs.com/BOcuW7jl0ihpPLjkrfrbo0fhofYp0SiecRNnjaxnuDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjA4/OTAtMTM5NjgyNjg3/NC05NDM1LmpwZWc.jpeg) | 1947 | Merle Travis | Folk Songs Of The Hills |
-| 5 |  | 1950 | Gloria Jane | I Was The First One |
+| 4 |  | 1950 | Gloria Jane | I Was The First One |
 | 8 |  | 1950 | Gloria Jane | Tea Party |
 | 11 |  | 1950 | Gloria Jane | You&#39;re My Sweet And Sour Candy |
 | 18 | ![Cover](https://i.discogs.com/sp2VfduaCAey8yBH2Wacv-CQLwVvOkFwVD_br8j7UqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzMz/OTMtMTUxMTU1NDY0/OS0zNzEwLmpwZWc.jpeg) | 1950 | Gloria Jane | Assorted Singles |
@@ -67,12 +66,12 @@ Last updated: <time datetime="2025-10-26T04:28:18.378Z">Sun Oct 26 2025 06:28:18
 | 79 | ![Cover](https://i.discogs.com/AfMmOVpcXU_BZ6toWxXb5z20s1dhjvJZFjBaZQkTpWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzI0/NzMtMTQ5MzM0NjAz/MC01NTY2LmpwZWc.jpeg) | 1980 | David Allan Coe | The Mysterious Rhinestone Cowboy |
 | 91 |  | 1980 | Merle Haggard | Back To The Barrooms |
 | 54 |  | 1980-09 | George Jones | I Am What I Am |
-| 2 |  | 1981 | Tompall And The Glaser Brothers | Lovin&#39; Her Was Easier |
+| 1 |  | 1981 | Tompall And The Glaser Brothers | Lovin&#39; Her Was Easier |
 | 15 | ![Cover](https://i.discogs.com/8ExIzVHP4Ty8MsYNasH2Elbbgk-QwvUIZ6UCnpk4R8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjgx/MjUtMTM2MjI0ODg4/OC0yODk4LmpwZWc.jpeg) | 1981 | VERNON OXFORD | A Better Way Of Life |
 | 28 | ![Cover](https://i.discogs.com/1tDsUl9enmVUgq_vGDiFaDaGw4IR6iHRaSFdD_sd0JU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDEz/MjEtMTI4NzQ1NjU2/NC5qcGVn.jpeg) | 1981 | Hank Williams | The Original Singles Collection... Plus |
 | 84 | ![Cover](https://i.discogs.com/Rd-vBJuZhXBmHcHToVEJf1KknhZb9ZCjaGUNJ4kf6p0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjEz/MTUtMTM4MzQ2MDIw/MC0yOTUzLmpwZWc.jpeg) | 1982 | Willie Nelson | Last Man Standing |
 | 72 |  | 1985 | Emmylou Harris | The Ballad of Sally Rose |
-| 86 | ![Cover](https://i.discogs.com/WKm_Wh_SB1-J3XuhH8-WSKrZoHb9XMuIXZ0Pfh8SXnQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTUy/MjktMTM3NzM4ODYw/MC05MzYwLmpwZWc.jpeg) | 1986 | Willie Nelson | God&#39;s Problem Child |
+| 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ac104c93fe5540b32bb3f2743a5b6431.png) | 1986 | Willie Nelson | God&#39;s Problem Child |
 | 75 |  | 1986-06-06 | Randy Travis | Storms of Life |
 | 93 | ![Cover](https://i.discogs.com/pztd485_dNwUUY6MeC4GsSo7c9yOi05OOgPgOW3kXt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMx/NjgtMTUyNzYwNjEz/NC00NjM0LmpwZWc.jpeg) | 1988 | Johnny Paycheck | Take This Job And Shove It |
 | 96 |  | 1989 | Johnny Horton | American Originals |
@@ -88,12 +87,13 @@ Last updated: <time datetime="2025-10-26T04:28:18.378Z">Sun Oct 26 2025 06:28:18
 | 68 |  | 1998-08-25 | Dolly Parton | Hungry Again |
 | 43 | ![Cover](https://i.discogs.com/_1VUNqRv5g99gmWyULkhq4Z9oUoLLttRiX_cAUfAbWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzU3/NjItMTYzMDc5MTY1/MC02Nzc1LmpwZWc.jpeg) | 2001 | Jamie Richards | No Regrets |
 | 12 |  | 2002 | The Stanley Brothers | The Best of the Stanley Brothers: 20th Century Masters&#x2F;The Millennium Colle |
-| 6 |  | 2004 | Randy Rogers Band | Hold My Beer, Vol. 1 |
+| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2f0e5fc450b34d30cdb7813b6873f94a.png) | 2003 | Hank Locklin | RCA Country Legends |
+| 5 |  | 2004 | Randy Rogers Band | Hold My Beer, Vol. 1 |
 | 40 | ![Cover](https://i.discogs.com/0Gw0-XMj4wHFBvdGSIZaoj9p-ZIA5HGtNu0AxhJ6-hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjcx/NjA2LTE2NDc3MTgy/NDQtNjI2Mi5qcGVn.jpeg) | 2004 | Jamie Richards | Between These Lines |
 | 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/937413f92436469bc6c91b7613d6af40.png) | 2005-08-16 | Rodney Crowell | The Outsider |
 | 55 |  | 2007 | Amber Digby | Music From The Honky Tonks |
 | 49 | ![Cover](https://i.discogs.com/S-EEhXIEsDtNhsitJW6gEy1CHYjyjLC-1-He25cw6V4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODY2/Nzk2LTE2NTc2NjMz/MTItNDE4NS5qcGVn.jpeg) | 2007-09-18 | Jamie Richards | Drive |
-| 4 |  | 2008 | Stan Cox | Angels, Truckers, &amp; Honky&#39;Tonk Nights |
+| 3 |  | 2008 | Stan Cox | Angels, Truckers, &amp; Honky&#39;Tonk Nights |
 | 31 | ![Cover](https://i.discogs.com/voiiwNeAe_htxkXcKWdKyoj-_UgyuLol4jBUTRNwxDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMx/NjM4LTE1Mjg5MjQy/MTgtMjIyOC5qcGVn.jpeg) | 2008 | The Crossroads Band | Heading South |
 | 37 | ![Cover](https://i.discogs.com/Xc77PlKJeOXSt8J-xoUFvSYXEVz9GVlGx-grLO1ortk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzI4/MDctMTM0NzYzMzE3/MS0zNzk4LmpwZWc.jpeg) | 2011 | Dale Watson &amp; The Texas Two | The Sun Sessions |
 | 71 |  | 2011-06-27 | Gillian Welch | The Harrow &amp; The Harvest |
@@ -103,16 +103,16 @@ Last updated: <time datetime="2025-10-26T04:28:18.378Z">Sun Oct 26 2025 06:28:18
 | 62 | ![Cover](https://i.discogs.com/o5nnlWqEkMT3n76BtvYsCsqfmbGEtNui33Zh2JoVpI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc2/ODMzLTE0OTI5MTA0/MTgtMzYyMy5qcGVn.jpeg) | 2017-04-21 | Jason Eady | Jason Eady |
 | 39 | ![Cover](https://i.discogs.com/BibO1Ug0kEQ5ee37p9Q9ilSKAa5T6LBaGDhstdrGXw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY0/NTg3LTE1MjM1Mjcw/NzMtNzI4NS5qcGVn.jpeg) | 2017-05-05 | The Country Side Of Harmonica Sam | A Drink After Midnight |
 | 76 | ![Cover](https://i.discogs.com/GfWgFHZXnRcL0bc1gj8c1EHJ2fox3g-7vTCiUUM6w24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE3/MzQ4LTE2OTMzNTcz/OTAtNTg2My5qcGVn.jpeg) | 2017-07-28 | Sam Hunt | Body Like A Back Road (15 In A 30 Tour Live) |
-| 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2003714981df86c07fefbe62f98f7b6a.png) |  | Elvis Presley | From Elvis in Memphis |
+| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2003714981df86c07fefbe62f98f7b6a.png) |  | Elvis Presley | From Elvis in Memphis |
 | 100 | ![Cover](https://i.discogs.com/RwKWn6BEe25aNQocBQyaUVEjXmiYjhIRCKKgmbLOw5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTQ1/ODItMTQyNTkzMjQ2/MS0yNTY2LmpwZWc.jpeg) | 2011 | Tia Blake | Folksongs &amp; Ballads |
 | 92 | ![Cover](https://i.discogs.com/s75_RvQrcGXUdjXNTKDJ-sU9Xt6XoUkvfVqRshbyrKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzI0/NzMtMTI1NTk1NTMw/MC5qcGVn.jpeg) | 2014 | Johnny Cash | With His Hot and Blue Guitar |
 | 89 | ![Cover](https://i.discogs.com/3ddBWvYQXDH0TC2D9PTjRtmTANtfeGGGRdepd02YDoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NzMz/NTAtMTUwMTM0MjY2/Ny0zNTQ3LmpwZWc.jpeg) | 2016-06-17 | Luke Bell | Luke Bell |
 | 41 | ![Cover](https://i.discogs.com/FSBbyZG7Dz8kY1DPq1bXEjgddry1fj0zrcnj5NqZlzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTEy/NjcxLTE1Mjg1NTg1/NDktMjM0NS5qcGVn.jpeg) | 2018 | Pat Reedy &amp; the Longtime Goners | That&#39;s All There Is (And There Ain&#39;t No More) |
 | 65 | ![Cover](https://i.discogs.com/pW20IigxbX_tGGqfeK0WBne53UEfHrpvBRkAbGpLvG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTg3/NzctMTM2ODM0ODI3/OC0xMTUwLmpwZWc.jpeg) | 2018 | Moe Bandy | I Just Started Hatin&#39; Cheatin&#39; Songs Today |
-| 88 | ![Cover](https://i.discogs.com/ti7ic12Obxw-h0BVJYK9EvBFzFQz3i8DfeVix_oQxA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUw/MzM5LTE1NzA3MzQ3/NDgtOTE2MC5qcGVn.jpeg) | 2019 | Mike and the Moonpies | Cheap Silver and Solid Country Gold |
+| 87 | ![Cover](https://i.discogs.com/ti7ic12Obxw-h0BVJYK9EvBFzFQz3i8DfeVix_oQxA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUw/MzM5LTE1NzA3MzQ3/NDgtOTE2MC5qcGVn.jpeg) | 2019 | Mike and the Moonpies | Cheap Silver and Solid Country Gold |
 | 45 | ![Cover](https://i.discogs.com/oBcRBcUFnVgD4lcKP-z583sXvf3sR_j5bUOXvlrdSCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzIy/MzI1LTE1NTk4NDAz/MTgtOTkyMS5qcGVn.jpeg) | 2019-06-07 | Doug Seegers | A Story I Got To Tell |
 | 82 | ![Cover](https://i.discogs.com/G160iGwIoz9_-I1hMRLVvLpn-UMl8PLWp6Wj4lF6UCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTU5/MjMyLTE2NTk1MjEy/NzMtNDY5MS5qcGVn.jpeg) | 2019-09-20 | Charley Crockett | The Valley |
-| 7 |  | 2021 | Lewis &amp; Evans | Candle Light Country |
+| 6 |  | 2021 | Lewis &amp; Evans | Candle Light Country |
 
 ### Related genres
 

@@ -1,19 +1,19 @@
 ---
 category: genre
-date: 2025-10-27T15:41:54.384Z
+date: 2025-10-28T15:04:43.048Z
 permalink: tags/psydub
 title: psydub
 ---
 
 ## psydub
 
-Last updated: <time datetime="2025-10-27T15:41:54.384Z">Mon Oct 27 2025 17:41:54 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T15:04:43.048Z">Tue Oct 28 2025 17:04:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | JahPAWO. | Worldly.Tales.4.Those.WithOut.Voices |
+| 1 |  |  | Double 6 project | Double6project |
 | 2 |  |  | s0undweaver | Deschloroflux |
 | 3 |  |  | Pavle Klada | - |
 | 7 |  |  | Machinarium | Soundtrack |
