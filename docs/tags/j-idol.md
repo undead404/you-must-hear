@@ -1,13 +1,17 @@
 ---
 category: genre
-date: 2025-10-22T08:01:07.266Z
+date: 2025-10-28T16:09:20.328Z
 permalink: tags/j-idol
 title: j-idol
 ---
 
 ## j-idol
 
-Last updated: <time datetime="2025-10-22T08:01:07.266Z">Wed Oct 22 2025 11:01:07 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T16:09:20.328Z">Tue Oct 28 2025 18:09:20 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+J-Idol, or Japanese Idol, music is a sub-genre of J-Pop that features performers known for their singing, dancing, and the support they receive from a dedicated fanbase. These performers, or idols, are often recognized not only for their musical talents but also for their appearances and personalities. The genre has produced popular artists such as Nogizaka46, Perfume, and AKB48, and its influence extends to various forms of media, including acting, modeling, songwriting, choreographing dances, and serving as ambassadors for cities or brands.
 
 ### 100 chronological releases
 
@@ -19,15 +23,9 @@ Last updated: <time datetime="2025-10-22T08:01:07.266Z">Wed Oct 22 2025 11:01:07
 | 7 |  |  | APPARE! | Appare!TOYBOX |
 | 9 |  |  | MyDearDarlin&#39; | Candy Chu! &#x2F; FLOWER &#x2F; Aonokimi |
 | 11 |  |  | Palette Parade | PARADE |
-| 14 |  |  | Buono! | The Best Buono! [Disc 2] |
-| 15 |  |  | 鈴木愛理 | 26&#x2F;27 |
-| 17 |  |  | Ungrila | HajimariTheEnd |
-| 19 |  |  | Gunjo no sekai | Aozora Moment |
-| 22 |  |  | モーニング娘。&#39;14 | 14章～The message～ |
-| 23 |  |  | アンジュルム | 上手く言えない &#x2F; 愛のため今日まで進化してきた人間 愛のためすべて退化してきた人間 &#x2F; 忘れてあげる |
-| 25 |  |  | つばきファクトリー | 2nd STEP |
-| 28 |  |  | モーニング娘。&#39;16 | セクシーキャットの演説 &#x2F; ムキダシで向き合って &#x2F; そうじゃない |
-| 29 |  |  | モーニング娘。&#39;15 | 冷たい風と片思い &#x2F; ENDLESS SKY &#x2F; One and Only |
+| 14 |  |  | 鈴木愛理 | 26&#x2F;27 |
+| 15 |  |  | つばきファクトリー | 三回目のデート神話 &#x2F; ふわり、恋時計 |
+| 17 |  |  | カントリー・ガールズ | Good Boy Bad Girl &#x2F; ピーナッツバタージェリーラブ |
 | 82 | ![Cover](https://i.discogs.com/q6H1paOJtUC5DJAqDs7-I7Y25ivH9nik2i1cct2VvNs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAw/NDItMTI5NDI1MjUz/Mi5qcGVn.jpeg) | 1966 | &#x3D;LOVE | The 5th |
 | 94 | ![Cover](https://i.discogs.com/IYvjeG1IE71cATaBGTWymNgnLJz9GorrVf5dyRF9NrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI1/MTYtMTI1NzI2NjE1/My5qcGVn.jpeg) | 1975 | Trident | ADVANCE GENERATION |
 | 67 | ![Cover](https://i.discogs.com/H49Ei0smIRJtrcincOxt4kXgwE12sC2-JBOCOgV89rE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDc2/ODItMTQwODY2MzA4/My01MzA1LmpwZWc.jpeg) | 1981 | Empire | BRiGHT FUTURE |
@@ -55,24 +53,30 @@ Last updated: <time datetime="2025-10-22T08:01:07.266Z">Wed Oct 22 2025 11:01:07
 | 57 | ![Cover](https://i.discogs.com/67J-eI3gmM4tE8TinQLKILoem6J1LsUraQYz1i3vak8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODEz/ODYtMTQ0NzMzNzIz/Mi03MTQzLmpwZWc.jpeg) | 2015-07-15 | Juice&#x3D;Juice | Fiesta! Fiesta! |
 | 64 | ![Cover](https://i.discogs.com/_Lg8fhQpc7LE1bp7Wk6rjdWAQPfaetybHvMJ1a3bS5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk3/Mzg3LTE1OTc5NjU1/ODQtNDMxMC5qcGVn.jpeg) | 2015-12-02 | Cho Tokimeki Sendenbu | ときめきがすべて |
 | 8 | ![Cover](https://i.discogs.com/_yMlLsjKyFvT70lz_W6zhjRL22tJX6gbvKx6pH3HbYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTUw/MzA1LTE2NjY3ODI4/NDctMzAzNi5qcGVn.jpeg) | 2016-06-01 | Cheeky Parade | Cheeky Parade II |
+| 23 | ![Cover](https://i.discogs.com/Q52aiV3NLw-iBIv83YhFUXTRJ6kk1NjXqWCpQeRS7-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU5/MjQ3LTE1OTkxMTE4/MzgtOTE5NC5qcGVn.jpeg) | 2017-03-29 | ℃-ute | To Tomorrow &#x2F; ファイナルスコール &#x2F; The Curtain Rises |
+| 27 |  | 2017-05-24 | Alfakyun | Almatic. |
+| 26 | ![Cover](https://i.discogs.com/_Lg8fhQpc7LE1bp7Wk6rjdWAQPfaetybHvMJ1a3bS5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk3/Mzg3LTE1OTc5NjU1/ODQtNDMxMC5qcGVn.jpeg) | 2018-04-11 | Cho Tokimeki Sendenbu | ハートギュッと! |
 | 100 | ![Cover](https://i.discogs.com/dQYCiSaYdHOOeoEKANH80QaDAcJUM_qfHCQ4bKSiVLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTAz/NTU3LTE1NjM3MTcw/MTEtMjgyMi5qcGVn.jpeg) | 2019-07-09 | Wagamama Rakia | StartingOver |
 | 63 | ![Cover](https://i.discogs.com/PwpdS5qEDYIdayHzZImD_Mgvr3pFN9ND51izyNnG41I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzYx/MDczLTE1NzI5NzAx/NTktMzA1OS5qcGVn.jpeg) | 2019-10-16 | Akari Kito | Luminous |
 | 2 | ![Cover](https://i.discogs.com/hctuf4D_yVRa1bvzaY2U4NbwRDe9Xet1j0JZNmfIVPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY0/NzgxLTE1NzEwOTAw/NjMtODMwNS5qcGVn.jpeg) | 2020-08-26 | Minori Suzuki | 2nd アルバム 上ミノ |
 | 10 |  |  | アンジュルム | タデ食う虫もLike it! &#x2F; 46億年LOVE |
 | 12 |  |  | モーニング娘。 | 青春小僧が泣いている &#x2F; 夕暮れは雨上がり &#x2F; イマココカラ |
-| 41 |  | 2011-10-12 | モーニング娘。 | 12,スマート |
-| 21 | ![Cover](https://i.discogs.com/SOmeTCjOT4o1yU47toMKnrI2TlQL9W0PALL432e69Nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUz/ODk2LTE1OTAxOTkz/NDEtMjY0MC5qcGVn.jpeg) | 2015-12-23 | ℃-ute | ℃maj9 |
+| 20 | ![Cover](https://i.discogs.com/SOmeTCjOT4o1yU47toMKnrI2TlQL9W0PALL432e69Nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUz/ODk2LTE1OTAxOTkz/NDEtMjY0MC5qcGVn.jpeg) | 2015-12-23 | ℃-ute | ℃maj9 |
 | 13 | ![Cover](https://i.discogs.com/sDtiTyvs2HJR88uCJS14eZ7Opalo0kCQGJu2bll0axY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTU2/MDQ0LTE2MTE4OTY1/OTItOTA3My5qcGVn.jpeg) | 2016-02-24 | Ange☆Reve | Itoshi Love |
-| 16 |  |  | つばきファクトリー | 三回目のデート神話 &#x2F; ふわり、恋時計 |
-| 18 |  |  | カントリー・ガールズ | Good Boy Bad Girl &#x2F; ピーナッツバタージェリーラブ |
+| 16 |  |  | Ungrila | HajimariTheEnd |
+| 18 |  |  | Gunjo no sekai | Aozora Moment |
+| 19 | ![Cover](https://i.discogs.com/z7U874Iwm_EAnbi3IxVI-FkNXfSf8ts0zymbIAWr61g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI5/NTA5LTE1NzIzNDg0/MTAtNjE2Ny5wbmc.jpeg) | 2019-12-31 | La Prière | Triptych Symphony |
+| 21 |  |  | モーニング娘。&#39;14 | 14章～The message～ |
+| 22 |  |  | アンジュルム | 上手く言えない &#x2F; 愛のため今日まで進化してきた人間 愛のためすべて退化してきた人間 &#x2F; 忘れてあげる |
 | 39 |  | 2006-12-13 | モーニング娘。 | 7.5冬冬モーニング娘。ミニ! |
-| 32 | ![Cover](https://i.discogs.com/mcurw9UZ_fjSpIRkiD5ce2Z6VWTLKGTTomuSbm4MhWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTMw/NDMtMTQxNDM0OTU0/NS0xMjQ1LmpwZWc.jpeg) | 2012-11-21 | ℃-ute | ℃-uteなんです!全シングル集めちゃいましたっ!① |
-| 24 | ![Cover](https://i.discogs.com/Q52aiV3NLw-iBIv83YhFUXTRJ6kk1NjXqWCpQeRS7-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU5/MjQ3LTE1OTkxMTE4/MzgtOTE5NC5qcGVn.jpeg) | 2017-03-29 | ℃-ute | To Tomorrow &#x2F; ファイナルスコール &#x2F; The Curtain Rises |
-| 27 |  | 2017-05-24 | Alfakyun | Almatic. |
-| 26 | ![Cover](https://i.discogs.com/_Lg8fhQpc7LE1bp7Wk6rjdWAQPfaetybHvMJ1a3bS5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzk3/Mzg3LTE1OTc5NjU1/ODQtNDMxMC5qcGVn.jpeg) | 2018-04-11 | Cho Tokimeki Sendenbu | ハートギュッと! |
-| 31 | ![Cover](https://i.discogs.com/5LFTyIaiObD3pEJApOcP8LiPWqdmgqoKYjoP2zYvyrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODkx/NTgyLTE1ODM1ODA4/MzctMTU3Ny5qcGVn.jpeg) | 2019-11-27 | BEYOOOOONDS | BEYOOOOOND1St |
-| 20 | ![Cover](https://i.discogs.com/z7U874Iwm_EAnbi3IxVI-FkNXfSf8ts0zymbIAWr61g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI5/NTA5LTE1NzIzNDg0/MTAtNjE2Ny5wbmc.jpeg) | 2019-12-31 | La Prière | Triptych Symphony |
+| 41 |  | 2011-10-12 | モーニング娘。 | 12,スマート |
+| 24 | ![Cover](https://i.discogs.com/rFAhBk-gdtEN7OdJcuizlGeAO5mCJ_IYdzcbpFn0opU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjU2/MjI5LTE2Mjc0ODQy/ODgtNDU5MS5qcGVn.jpeg) | 2019-12-25 | Wagamama Rakia | the darkest before the dawn |
+| 25 |  |  | つばきファクトリー | 2nd STEP |
+| 28 |  |  | モーニング娘。&#39;16 | セクシーキャットの演説 &#x2F; ムキダシで向き合って &#x2F; そうじゃない |
+| 29 |  |  | モーニング娘。&#39;15 | 冷たい風と片思い &#x2F; ENDLESS SKY &#x2F; One and Only |
 | 30 |  |  | Yume Miru Adolescence | Five |
+| 32 | ![Cover](https://i.discogs.com/mcurw9UZ_fjSpIRkiD5ce2Z6VWTLKGTTomuSbm4MhWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTMw/NDMtMTQxNDM0OTU0/NS0xMjQ1LmpwZWc.jpeg) | 2012-11-21 | ℃-ute | ℃-uteなんです!全シングル集めちゃいましたっ!① |
+| 31 | ![Cover](https://i.discogs.com/5LFTyIaiObD3pEJApOcP8LiPWqdmgqoKYjoP2zYvyrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODkx/NTgyLTE1ODM1ODA4/MzctMTU3Ny5qcGVn.jpeg) | 2019-11-27 | BEYOOOOONDS | BEYOOOOOND1St |
 | 33 |  |  | むてん娘。(モーニング娘。) | あっぱれ回転ずし! |
 | 34 |  |  | 美勇伝 | 美勇伝 シングルベスト9 Vol.1 おまけつき |
 | 35 |  |  | Yume Miru Adolescence | SEVEN STAR |

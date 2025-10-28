@@ -1,13 +1,19 @@
 ---
 category: genre
-date: 2025-10-22T08:08:25.773Z
+date: 2025-10-28T16:51:11.569Z
 permalink: tags/old-school-ebm
 title: old school ebm
 ---
 
 ## old school ebm
 
-Last updated: <time datetime="2025-10-22T08:08:25.773Z">Wed Oct 22 2025 11:08:25 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T16:51:11.569Z">Tue Oct 28 2025 18:51:11 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Old School EBM (Electronic Body Music) is a genre of electronic music that emerged in the early 1980s in Belgium and Germany. It is characterized by a combination of aggressive industrial sounds, repetitive rhythms, and often distorted vocals. The term &quot;Electronic Body Music&quot; was coined by the Belgian band Front 242, who were one of the pioneers of the genre.
+
+Old School EBM often makes use of analog synthesizers and drum machines, and is known for its minimalist, stripped-down approach to composition. Other notable artists in the genre include Nitzer Ebb, DAF (Deutsch Amerikanische Freundschaft), and Skinny Puppy.
 
 ### 100 chronological releases
 
@@ -20,7 +26,7 @@ Last updated: <time datetime="2025-10-22T08:08:25.773Z">Wed Oct 22 2025 11:08:25
 | 82 | ![Cover](https://i.discogs.com/x3uYU55gTNQERCbg4Res4DaOjsB1_2Ft4wV_Pz7eyyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY0/MjItMTIwOTQ1NzY1/Mi5qcGVn.jpeg) | 1986 | The Invincible Spirit | Push! |
 | 94 |  | 1987 | Front 242 | Back Catalogue |
 | 96 | ![Cover](https://i.discogs.com/QCVO_m5YkTWmkcfcMOOfZZgtW0Ir85fruOJ9_GaKbKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTA1/LTExNzY2NDQyMjgu/anBlZw.jpeg) | 1987 | The Invincible Spirit | Current News |
-| 3 |  | 1987-03 | Front 242 | Official Version |
+| 4 |  | 1987-03 | Front 242 | Official Version |
 | 92 |  | 1987-05-11 | Nitzer Ebb | That Total Age |
 | 65 | ![Cover](https://i.discogs.com/tdUAwuWYqNZglmfeJOiVC98pEDJxqXzZMHDiy6Qb5NE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzUx/LTE0Mzg5NzgyNDct/MjkxNy5qcGVn.jpeg) | 1988 | Manufacture | Terrorvision |
 | 98 | ![Cover](https://i.discogs.com/G9MYE9KpJ-uHhpr76cbFAI4gcFCHVKJ3MTBUWxYLGZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE0/MS0xNDIwMzMwODk3/LTY3MTguanBlZw.jpeg) | 1988 | Nitzer Ebb | So Bright, So Strong |
@@ -35,6 +41,7 @@ Last updated: <time datetime="2025-10-22T08:08:25.773Z">Wed Oct 22 2025 11:08:25
 | 44 | ![Cover](https://i.discogs.com/d3q6vnt2zc2OUFjBVKWg8kqSaRCvgVrTuPhskopXS8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjk4/MjkwLTE2NDU3OTQy/MTYtMzM4MS5qcGVn.jpeg) | 1992 | Schakt Neun | The Grave |
 | 58 | ![Cover](https://i.discogs.com/l6S4BLbOViPBam68YLf9kOmPGJQTMpp4CZrhmRoyemU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA5/MC0xMjQ0NjYyODg0/LmpwZWc.jpeg) | 1992 | Pouppée Fabrikk | Crusader |
 | 27 | ![Cover](https://i.discogs.com/53O15XzPYLAVKTgySLhZEuuFOvA-VHbcV1mm0LKJfi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDg0/MC0xNjA5NTE4MDk0/LTI4MTguanBlZw.jpeg) | 1992-01-01 | Plastic Noise Experience | Transmission |
+| 1 | ![Cover](https://i.discogs.com/gVuq_DsauCddYCFkmV7COgORjDmUx2QIgNVDGPmQ9zI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzgz/MzAtMTIwMjg5MTc2/MS5qcGVn.jpeg) | 1993 | The Dark | Clear |
 | 21 | ![Cover](https://i.discogs.com/BoDKlQLv_VOAehTVzPI-eyo6txBBXMhlV3KKSyHP7tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjYx/OC0xMjM0Nzg3OTky/LmpwZWc.jpeg) | 1993 | Signal Aout 42 | The Last Quest |
 | 37 | ![Cover](https://i.discogs.com/4e2VMxlAfwDXqThkGz2z169qTvOzpJfGZcA4mb7FDTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDM2/OC0xMTQ5NzY2MDAy/LmpwZWc.jpeg) | 1993 | !Bang Elektronika | Aktivierung! |
 | 88 | ![Cover](https://i.discogs.com/VL0RfSMIs6KBAZ1VsI4p7E1jJcwIY64kH8bUtihyG_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Njc1/Mi0xMTY0OTExNzk4/LmpwZWc.jpeg) | 1994-06 | Tyske Ludder | Bombt die Mörder? |
@@ -43,7 +50,7 @@ Last updated: <time datetime="2025-10-22T08:08:25.773Z">Wed Oct 22 2025 11:08:25
 | 11 | ![Cover](https://i.discogs.com/XqYf7pHz5oambPvBBELNbf6f-vFiCRWIyvjHFNY4v7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDc5/OC0xMzA1MTUwOTY1/LmpwZWc.jpeg) | 1996 | Limbo | Sein Und Zeit |
 | 32 | ![Cover](https://i.discogs.com/qTpatpnUwWb2FztJrEYlyp0-ePQ1R9eAdIZ7iulNvmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTQ0/Mi0xMTc2ODM3MDYw/LmpwZWc.jpeg) | 1996 | Signal Aout 42 | Immortal collection 1983-1995 |
 | 62 | ![Cover](https://i.discogs.com/XhRYe4-PoSr0pEOlVhlxPkJobkn0S_Z1vBwqRjgFaYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTAx/Ny0xMTk5MDI5Njgw/LmpwZWc.jpeg) | 1996 | Tyske Ludder | Creutzfeldt E.P. |
-| 2 | ![Cover](https://i.discogs.com/q5Zt3bK1GgaR0mWOBx7FUMR2blqgiiDywbEkwSFJg_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjc0/NS0xNTIzMTY3MjI1/LTMyMjAuanBlZw.jpeg) | 1999 | The November Commandment | A Motorised Mind |
+| 3 | ![Cover](https://i.discogs.com/q5Zt3bK1GgaR0mWOBx7FUMR2blqgiiDywbEkwSFJg_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjc0/NS0xNTIzMTY3MjI1/LTMyMjAuanBlZw.jpeg) | 1999 | The November Commandment | A Motorised Mind |
 | 80 | ![Cover](https://i.discogs.com/21gOeGv-jamnKsOtzAkooevpdjdTH9jw8mWEPQMTeys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjAx/MTAtMTIzMDIzMzYy/OC5qcGVn.jpeg) | 1999 | Deutsch Amerikanische Freundschaft | Das Beste Von DAF (20 Lieder der Deutsch Amerikanischen Freundschaft) |
 | 86 | ![Cover](https://i.discogs.com/HaDTJM3r2IGbsB-K9ffGsKo82elWl3UfOzbN_-UIGYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjMz/Ny0xNTc5NjQ2MDMy/LTUxMDkuanBlZw.jpeg) | 1999 | Ionic Vision | Homo Sovieticus |
 | 57 |  | 1999-11-10 | Pouppée Fabrikk | Your Pain - Our Gain |
@@ -53,7 +60,6 @@ Last updated: <time datetime="2025-10-22T08:08:25.773Z">Wed Oct 22 2025 11:08:25
 | 72 |  | 2002-11 | Ionic Vision | Neumaschinen |
 | 9 |  | 2003 | Void Kampf | Suck My Beat |
 | 7 | ![Cover](https://i.discogs.com/Ns--dNtcdBFZcsmEmYQbbFowHqLgHTulEMXS7k088Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUw/OTE5LTE3MzAzMTAy/NjYtNDQ3My5qcGVn.jpeg) | 2004 | Various Artists | Stahl Disko : Stahl Compilation Volume 1 |
-| 6 | ![Cover](https://i.discogs.com/69hyMLe0m43fzUfcDMHZt9TKiNtkH1ZlUioVapT_PQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzA0/NS0xMzUwNDg3ODcw/LTkyODMuanBlZw.jpeg) | 2004-03-26 | Front 242 | Geography (Ltd Edition CD2) |
 | 97 | ![Cover](https://i.discogs.com/B1Dc9sHym7yStGlH6j3jkU3lMaMVoQeUv4vV32qxX78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDYx/OS0xMzM0NDM5OTk1/LmpwZWc.jpeg) | 2004-04-29 | Spetsnaz | Grand Design re-designed |
 | 43 | ![Cover](https://i.discogs.com/mKnQIQKcr_TMRou6Cl3q2U1ToZLheIYYRSRZ0Hu4G0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjAz/MS0xNTgwOTM5Mjg0/LTQ1NjMuanBlZw.jpeg) | 2004-10 | Proceed | Fehlgesteuert |
 | 84 | ![Cover](https://i.discogs.com/WkFH5dS4P1D5T5kiC3KlahZaAYACh5mBl6IBpQm4JYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMw/NTYtMTIzMDEyMDc3/My5qcGVn.jpeg) | 2005-11 | Die Krupps | Volle Kraft Voraus |
@@ -64,7 +70,7 @@ Last updated: <time datetime="2025-10-22T08:08:25.773Z">Wed Oct 22 2025 11:08:25
 | 22 | ![Cover](https://i.discogs.com/_d9CTFI4xo7IswYCDAdyZ1pe-fouIKM-3bl8Z4RBFXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI1/MjAtMTE5ODk2OTQ3/MC5qcGVn.jpeg) | 2007-12-26 | JUDGE:DRED | Be My Enemy And You Will Die! E.P. |
 | 48 |  | 2008 | Kropp | Kropp |
 | 74 |  | 2008-06-11 | onecyze project | confused mental state |
-| 1 | ![Cover](https://i.discogs.com/IhTl-E3w5EY1I9OJEDQPa1gafF8Qj1e2V4SuBqyUWj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MzctMTIxODQ4Mzgx/MC5qcGVn.jpeg) | 2008-06-13 | Batch ID | Chartertont |
+| 2 | ![Cover](https://i.discogs.com/IhTl-E3w5EY1I9OJEDQPa1gafF8Qj1e2V4SuBqyUWj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMx/MzctMTIxODQ4Mzgx/MC5qcGVn.jpeg) | 2008-06-13 | Batch ID | Chartertont |
 | 30 | ![Cover](https://i.discogs.com/-7QOExpY82Tpo0jYuBkTw10UoqrzaB709nAfA8tShIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDI0/ODUtMTI1Nzg4MDcy/Ni5qcGVn.jpeg) | 2008-06-13 | Body Pleasure | Entity |
 | 50 | ![Cover](https://i.discogs.com/FqIAtxqjnyqEhQBGEVyJKXPovxjrIxQx-5R-xfGHNtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjIy/MjUtMTIxMzIxMzgy/MS5qcGVn.jpeg) | 2008-06-13 | A.D.A.C. 8286 | Straight on |
 | 55 | ![Cover](https://i.discogs.com/HHl_m-kc4YZZKKyyfKPdLkIdV9-6RpLnywxpn-2Sz3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI4/MDItMTIyNjM0Njk4/NC5qcGVn.jpeg) | 2008-06-13 | SPARK! | Tiden är vår |
@@ -92,7 +98,7 @@ Last updated: <time datetime="2025-10-22T08:08:25.773Z">Wed Oct 22 2025 11:08:25
 | 40 | ![Cover](https://i.discogs.com/Z9Q2SbeI-HGnutJIMDYwNUxC9EQVEJP8sRwxkBNX2a0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDg3/MjMtMTM5NjU5MjMy/NS0xMzE4LmpwZWc.jpeg) | 2013-04-13 | Orange Sector | Vorwärts nach weit |
 | 53 | ![Cover](https://i.discogs.com/QxnftQCqr4kPyK2PXqYD_FwWNJUL4yBVKSBKFl3PB2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTUy/MzgtMTM2NzAwNTky/MC04NTAxLmpwZWc.jpeg) | 2013-04-26 | Container 90 | Working Class League |
 | 42 | ![Cover](https://i.discogs.com/Drogt5puKFNsAXdOF_j9ornjAUIiNr8hpLzQhm8pNJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTU3/NDAtMTM3MjUxOTg5/MS0yMDg2LmpwZWc.jpeg) | 2013-06-28 | Jäger 90 | Wir Bitten zum Tanz |
-| 5 | ![Cover](https://i.discogs.com/TBhqDx5fVSLeN0WLKYXIJErFNd2OaMhDwh1OksjPkPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU0/NjcxLTE1NDkwMTMz/MTItNDkwNy5qcGVn.jpeg) | 2014 | Kryptonia85 | Kryptonia85 |
+| 6 | ![Cover](https://i.discogs.com/TBhqDx5fVSLeN0WLKYXIJErFNd2OaMhDwh1OksjPkPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU0/NjcxLTE1NDkwMTMz/MTItNDkwNy5qcGVn.jpeg) | 2014 | Kryptonia85 | Kryptonia85 |
 | 59 |  | 2014-03-15 | Frontal | Lass uns Tanzen |
 | 67 | ![Cover](https://i.discogs.com/mrKMT-V1BF2lOTevXh0kofn8VLbLGbZ56uvpztSoSTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTMw/MzgtMTQwMjgyODI1/Mi05NzY4LmpwZWc.jpeg) | 2014-06-06 | Click Click | Those Nervous Surgeons |
 | 39 | ![Cover](https://i.discogs.com/Pl9cQS013jZI2Ns9cRv2b2s7HE7P5uG-xi6NnwWlcbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mjc1/ODktMTQ1Mzc0ODI4/Ny0zNzQzLmpwZWc.jpeg) | 2014-07-30 | Angst | Tar Ner Skylten |
@@ -105,7 +111,7 @@ Last updated: <time datetime="2025-10-22T08:08:25.773Z">Wed Oct 22 2025 11:08:25
 | 33 | ![Cover](https://i.discogs.com/JclCIb9yeXdV0p9uLhvpSTtNvXH-GVjt5Vy-8rEJFW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTMy/MTI5LTE0OTkzNTc3/MDQtODI0MS5qcGVn.jpeg) | 2017-07-05 | Brigade Werther | North + South |
 | 16 | ![Cover](https://i.discogs.com/HKK1OwWyx8GFdZXcNaZyw-jDqIc43MZXRaqZ7FqckjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODI0/LTEzNDE2ODYzMTMt/NzE0NC5qcGVn.jpeg) | 2017-09-30 | Deutsch Amerikanische Freundschaft | Das ist DAF |
 | 83 | ![Cover](https://i.discogs.com/lJWIdutyrG4nW5EtLxbDH0P-pALuzowI91QyjQgJbu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg5/ODI2LTE1MjA3MDU3/MDgtMjQ2My5qcGVn.jpeg) | 2018-03-02 | Rue Oberkampf | Waveclash |
-| 4 | ![Cover](https://i.discogs.com/Bo9bIQEXmzPwYkeIpLa4WuRkMMgtIph0gewZ6QI1-f0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTYy/MDc4LTE1NjQ5OTk5/MjktMTQ5OC5qcGVn.jpeg) | 2019-02-14 | Batch ID | Ifred |
+| 5 | ![Cover](https://i.discogs.com/Bo9bIQEXmzPwYkeIpLa4WuRkMMgtIph0gewZ6QI1-f0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTYy/MDc4LTE1NjQ5OTk5/MjktMTQ5OC5qcGVn.jpeg) | 2019-02-14 | Batch ID | Ifred |
 | 100 | ![Cover](https://i.discogs.com/9WhTz-G95iXPtfSDT7jt8DvwVW8mvECQnkR0KVvMhuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE5/OTM1LTE2NTM1NTYz/ODctNzg2Ni5qcGVn.jpeg) | 2019-10-04 | Rue Oberkampf | Christophe-Philippe |
 | 12 | ![Cover](https://i.discogs.com/a2C9dF4UTIDPjzZnfBbpz_F5Yc6gOS0PUC5Tbv7SwpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTky/MTI4LTE1ODc5MDMy/OTgtNTg1MC5qcGVn.jpeg) | 2020-04-26 | Orange Sector | Love It! |
 | 23 |  |  | Baykuş | Cancer |

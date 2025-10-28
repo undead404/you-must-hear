@@ -1,68 +1,68 @@
 ---
 category: genre
-date: 2025-10-24T18:20:45.182Z
+date: 2025-10-28T16:09:12.332Z
 permalink: tags/christian-rap
 title: christian rap
 ---
 
 ## christian rap
 
-Last updated: <time datetime="2025-10-24T18:20:45.182Z">Fri Oct 24 2025 21:20:45 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T16:09:12.332Z">Tue Oct 28 2025 18:09:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | Alan C. Duncan | Dreamer: The Fresh Air Mixtape |
-| 2 |  |  | Ali Rozet | The Irene Niau Project |
-| 10 |  |  | Tom Rule | Priority Shift |
-| 15 |  |  | Stefanotto | Love Means War |
-| 12 | ![Cover](https://i.discogs.com/Hz9xQXe5XNyIoAwQnrSfgptmtMh94z6MpnuRATkSRbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzky/MDU1LTE1NjEyMjQ3/MzgtMjAyMi5qcGVn.jpeg) | 1955 | Doc Jones | Training Camp Mixtape |
-| 27 | ![Cover](https://i.discogs.com/rL4C-tMy9bZ3Kv1pVEwe6nOozeamCma7RI596AdW5sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjg0/MzAtMTY1OTI5MjA5/Ni0yNDk2LmpwZWc.jpeg) | 1987 | Michael Peace | Rrrock It Right |
-| 13 | ![Cover](https://i.discogs.com/3ZybvSFBFweZPw8rPnrVwDd9Z3nJMS6ALHDC2t2rDdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODY0/NjEtMTMxNTQzMzg0/Ny5qcGVn.jpeg) | 1988 | Michael Peace | Rappin&#39; Bold |
-| 23 | ![Cover](https://i.discogs.com/rnI_q2zpg0o27F-s7Re9MrKxKsn-0D1f09Cr-tdepv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTky/MTU5LTE1NDk2ODU0/MTAtODkwNS5qcGVn.jpeg) | 1993 | Conflict | Death Before Denial |
-| 32 | ![Cover](https://i.discogs.com/Rl3sZjv0Duj553Q-uwIfNmhaIYNWlm-AN_C6Tdppq9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjY2/NC0xMTU1ODQxNzY0/LmpwZWc.jpeg) | 1996-03-22 | Sugar | Cristonita |
+| 1 | ![Cover](https://i.discogs.com/JlSJPD1qtllVPSKk9PO-gBeyYCHvc49-1wNyeHexPHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzIx/NTEyLTE2MTI4MDQ2/NDEtODI1Ni5qcGVn.jpeg) | 2018-12-21 | T.JAY | Iris |
+| 2 |  |  | Alan C. Duncan | Dreamer: The Fresh Air Mixtape |
+| 3 |  |  | Ali Rozet | The Irene Niau Project |
+| 16 |  |  | Stefanotto | Love Means War |
+| 21 |  |  | Lostenfound | 15.2 four |
 | 33 |  |  | Aha Gazelle | Free Barabbas |
+| 41 |  |  | Strategical | Blameless (Single + Bonus Track) |
+| 48 |  |  | SilentAngel | New Day For A Changed Soul |
+| 49 |  |  | Hyper Fenton | Terabithia |
+| 13 | ![Cover](https://i.discogs.com/Hz9xQXe5XNyIoAwQnrSfgptmtMh94z6MpnuRATkSRbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzky/MDU1LTE1NjEyMjQ3/MzgtMjAyMi5qcGVn.jpeg) | 1955 | Doc Jones | Training Camp Mixtape |
+| 27 | ![Cover](https://i.discogs.com/rL4C-tMy9bZ3Kv1pVEwe6nOozeamCma7RI596AdW5sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjg0/MzAtMTY1OTI5MjA5/Ni0yNDk2LmpwZWc.jpeg) | 1987 | Michael Peace | Rrrock It Right |
 | 37 | ![Cover](https://i.discogs.com/U7ZIdMYwh-Vrt2P1dt-ST9Tv4LG5gota7VpDKiF7Kkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQz/OC0xMjUyMTgxNTA0/LmpwZWc.jpeg) | 1990 | Larry P. | The Neglected Truth |
+| 32 | ![Cover](https://i.discogs.com/Rl3sZjv0Duj553Q-uwIfNmhaIYNWlm-AN_C6Tdppq9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjY2/NC0xMTU1ODQxNzY0/LmpwZWc.jpeg) | 1996-03-22 | Sugar | Cristonita |
+| 25 |  | 2001 | Thrill Da Playa | User Friendly |
+| 4 | ![Cover](https://i.discogs.com/bnR4NMfJOlRhQcM9Tdo_vmoyASmf2lt6kac5ZBxBfOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/OTAtMTQ4MDY5Mzgy/NC00Nzc5LmpwZWc.jpeg) | 2006 | K-Drama &amp; MC Till | Black Guy Meets White Man |
+| 9 | ![Cover](https://i.discogs.com/Puhu5tvCRCG7Ljzseer1hJzltAuUn1l16GBYDepOVec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI3/NzYtMTIyOTQwMTgx/NC5qcGVn.jpeg) | 2007-12-10 | Toussaint | 2 Die Is Gain |
+| 11 |  |  | Tom Rule | Priority Shift |
+| 34 |  |  | SilentAngel | Rapp Flowmotion |
+| 39 |  |  | ThaRepresenta | Characteristics |
+| 42 |  |  | Playdough and Heath McNease | Wed White and Wu |
+| 43 |  |  | Christian Rap Artist David | The Rapture EP: Independent Album Debut Release |
+| 14 | ![Cover](https://i.discogs.com/3ZybvSFBFweZPw8rPnrVwDd9Z3nJMS6ALHDC2t2rDdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODY0/NjEtMTMxNTQzMzg0/Ny5qcGVn.jpeg) | 1988 | Michael Peace | Rappin&#39; Bold |
+| 23 | ![Cover](https://i.discogs.com/rnI_q2zpg0o27F-s7Re9MrKxKsn-0D1f09Cr-tdepv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTky/MTU5LTE1NDk2ODU0/MTAtODkwNS5qcGVn.jpeg) | 1993 | Conflict | Death Before Denial |
 | 44 | ![Cover](https://i.discogs.com/AglZ904ewm8cL9bN-cJM_ex-oYDolg8U0bIa8xOCBic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzEz/NTItMTU4Njc3ODE5/OC00MjkzLmpwZWc.jpeg) | 1999 | Paradox | Called to Mind |
 | 24 | ![Cover](https://i.discogs.com/lviCjbNqKGduDUl4h8LUgdOiiqJ6DFkplu3CUR6Z4-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODUx/NzgtMTM4MTQxOTg4/OC03MTQ4LmpwZWc.jpeg) | 2001 | MC Dewey | DO IT LIKE A DUHAWK |
-| 25 |  | 2001 | Thrill Da Playa | User Friendly |
 | 26 | ![Cover](https://i.discogs.com/Svhg5eWnWF25-rfwh58LfYpl40NqSHbJjvtjRw5H3XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDYy/MzUtMTM2NTEwMDYy/OC01MzYyLmpwZWc.jpeg) | 2003 | Flynn | Burnt Out |
-| 3 | ![Cover](https://i.discogs.com/bnR4NMfJOlRhQcM9Tdo_vmoyASmf2lt6kac5ZBxBfOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/OTAtMTQ4MDY5Mzgy/NC00Nzc5LmpwZWc.jpeg) | 2006 | K-Drama &amp; MC Till | Black Guy Meets White Man |
 | 30 | ![Cover](https://i.discogs.com/OBjBNqEdfrf9aYYhm0jlTa-8DKXIH2dG_DPljT9853M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ2/NzMyLTE2MTA4MzY3/NDMtNTM5Ny5qcGVn.jpeg) | 2006 | Gospel Gangstaz | G&#39;D Up |
 | 45 | ![Cover](https://i.discogs.com/wh6vQcHVG4ha1QUEf2OrpfVPMXTmddsvqrfi2Fk9bmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjQ4/Mi0xMTcwMzkxNjUx/LmpwZWc.jpeg) | 2007-01-30 | Alert | Red Opus .45 EP |
-| 8 | ![Cover](https://i.discogs.com/Puhu5tvCRCG7Ljzseer1hJzltAuUn1l16GBYDepOVec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI3/NzYtMTIyOTQwMTgx/NC5qcGVn.jpeg) | 2007-12-10 | Toussaint | 2 Die Is Gain |
 | 40 | ![Cover](https://i.discogs.com/x0oG0_gqx7VbzY7eUs2RBdR5PFrcbB1DzUhY5WVDQPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjMx/NjEtMTMwNTMxNzk0/Ny5qcGVn.jpeg) | 2008-03-10 | Jaymay | For His Glory |
-| 16 | ![Cover](https://i.discogs.com/ZCgamzD4p42FvieDBvulwq1-c8kYThIy6XEqyDgUMO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY3/Mjg1LTE1ODg5MzU1/NDUtNjk3OC5qcGVn.jpeg) | 2008-10-27 | Corey Red | I AM LEGEND |
-| 6 | ![Cover](https://i.discogs.com/UuXXYvWDgA1gP5YFuQzIsVrU0ZntUSkoYV6w5r3Llls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjk5/NzQtMTM4OTE5ODgx/OS04ODA2LmpwZWc.jpeg) | 2010 | JayEss | Good Friday Mixtape |
+| 17 | ![Cover](https://i.discogs.com/ZCgamzD4p42FvieDBvulwq1-c8kYThIy6XEqyDgUMO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY3/Mjg1LTE1ODg5MzU1/NDUtNjk3OC5qcGVn.jpeg) | 2008-10-27 | Corey Red | I AM LEGEND |
+| 7 | ![Cover](https://i.discogs.com/UuXXYvWDgA1gP5YFuQzIsVrU0ZntUSkoYV6w5r3Llls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjk5/NzQtMTM4OTE5ODgx/OS04ODA2LmpwZWc.jpeg) | 2010 | JayEss | Good Friday Mixtape |
 | 38 | ![Cover](https://i.discogs.com/p1X-w7TD0nEhuJaHJIJQsCMNuMzlScYU1RzlIwMeknM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjcz/MzUtMTMyMTMzODM0/Mi5qcGVn.jpeg) | 2010-03-30 | Manafest | Chase |
 | 50 | ![Cover](https://i.discogs.com/Uj_TX0w3WNwX28zIcIMMTAEPndhRPeH5RzyetKg_gZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg1/NzM3LTE1OTk1ODUz/ODEtMzkxOS5qcGVn.jpeg) | 2010-07-27 | Nomis | Rosario Dawson |
 | 46 |  | 2010-09-15 | CANON | The Great Investment |
 | 19 | ![Cover](https://i.discogs.com/shHduacCjStwykKJ1xCxVOt1h92GhaYXIbWJFqD4kLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzky/MDgyLTE2NDI1MzUw/MDAtODQ1NS5qcGVn.jpeg) | 2011-05-08 | Cas Metah | Nine From &#39;09 |
-| 17 | ![Cover](https://i.discogs.com/UYfKcF0mxRsQkDfV69SGTASI_qlypsGd2_d9lrQ7EO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY3/MDE2LTE1ODg5MzE1/MDEtNDg4Mi5qcGVn.jpeg) | 2011-08-29 | Corey Red | Make It Happen |
+| 18 | ![Cover](https://i.discogs.com/UYfKcF0mxRsQkDfV69SGTASI_qlypsGd2_d9lrQ7EO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY3/MDE2LTE1ODg5MzE1/MDEtNDg4Mi5qcGVn.jpeg) | 2011-08-29 | Corey Red | Make It Happen |
 | 29 | ![Cover](https://i.discogs.com/ytK7GamcfkK4q-tQCWVAKGgOSN_8klm_m8vkn_Z3YXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg5/ODQ4LTE1NDAxMTE2/NDktODk3NC5qcGVn.jpeg) | 2011-12-11 | Vlad The Impaler | Godspeed |
 | 47 | ![Cover](https://i.discogs.com/luyNYVQIY-spnznq44XqgwOQeeIhjWMV-1VPNiZWeao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDUw/MTUzLTE2OTI3NTU0/MTAtNDA4OC5qcGVn.jpeg) | 2012 | Mike Dece | Born Again |
 | 35 | ![Cover](https://i.discogs.com/rIDptfcz-oczzpS5_xisav9S_heWykSePO7tDoHKkhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODI3/MTItMTM0Nzg1ODkw/NC0yOTQ1LmpwZWc.jpeg) | 2012-08-17 | Sugar | Cristonita Recharged |
-| 5 | ![Cover](https://i.discogs.com/r59lLPGIHLQASIdAp6szvidmKdXxlOsZCpnTtFHlQrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzY3/OTEtMTM4NTQ4NzI2/MS0yNzUxLmpwZWc.jpeg) | 2013 | Purified | Set On Fire |
+| 6 | ![Cover](https://i.discogs.com/r59lLPGIHLQASIdAp6szvidmKdXxlOsZCpnTtFHlQrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzY3/OTEtMTM4NTQ4NzI2/MS0yNzUxLmpwZWc.jpeg) | 2013 | Purified | Set On Fire |
 | 31 | ![Cover](https://i.discogs.com/tvRVCwXKEiF9YvotKotYEV7LkLkXNn2LQI5teYfXvu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzc1/NjAxLTE1OTA1MTc2/ODctMjY0MS5qcGVn.jpeg) | 2014-10-29 | Middle Clash | Middle Clash |
 | 28 | ![Cover](https://i.discogs.com/SIk6ypIaFOCfXctmn4HFE1s14v-4HcaZbjyKD6eQQiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTQ0/MDQtMTQ3MDE1OTEz/Ny02MTY3LmpwZWc.jpeg) | 2016-05-27 | Jay Dolph | A New Chapter |
-| 7 | ![Cover](https://i.discogs.com/60rkrp20WMh_vX1I8s9bYnbfAqnsRbh6T1RH_JpyFhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDk4/NTYtMTQ4MDc4NTg3/My05MDMxLmpwZWc.jpeg) | 2016-07-28 | Emcee N.I.C.E. | Praise |
-| 14 | ![Cover](https://i.discogs.com/QGMpg7HIRUcOPc6icAscWaCz4TBqEIspknsKnI49NKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDk3/MDEtMTQ4MDc4MzY4/OS02NzI4LmpwZWc.jpeg) | 2016-07-28 | Emcee N.I.C.E. | I Got Angels (The Remixes) |
-| 4 | ![Cover](https://i.discogs.com/l7X-bZcX1ts_6hMFmfXhs_4NnDghh5ut4WX9oDmXGks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDU5/NjUtMTQ4MDAwMjM2/My03ODg1LnBuZw.jpeg) | 2016-10-10 | Jesus Disciple | What You Almost Missed: The Mixtape |
-| 11 | ![Cover](https://i.discogs.com/meWxDhVWwtTwMdCKC9jg8TtII2jfCKOxZ7_S9Lf7ZlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTQxLTE1MjMwMzg5/MTAtNzk3NS5qcGVn.jpeg) | 2018-04-03 | Aaron Robinson | Can&#39;t Forget |
-| 9 | ![Cover](https://i.discogs.com/GysHOm8sIYS6gnslrHU1acUmNzmTrLoS1MJXlLUF3Kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTc4/NDA4LTE1NjkzMzA2/NDYtNjM1MC5wbmc.jpeg) | 2019-06-11 | FlipFlop The Clown | Goodbye |
-| 18 |  |  | Xoul City | The Spirit of Soul City |
+| 8 | ![Cover](https://i.discogs.com/60rkrp20WMh_vX1I8s9bYnbfAqnsRbh6T1RH_JpyFhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDk4/NTYtMTQ4MDc4NTg3/My05MDMxLmpwZWc.jpeg) | 2016-07-28 | Emcee N.I.C.E. | Praise |
+| 15 | ![Cover](https://i.discogs.com/QGMpg7HIRUcOPc6icAscWaCz4TBqEIspknsKnI49NKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDk3/MDEtMTQ4MDc4MzY4/OS02NzI4LmpwZWc.jpeg) | 2016-07-28 | Emcee N.I.C.E. | I Got Angels (The Remixes) |
+| 5 | ![Cover](https://i.discogs.com/l7X-bZcX1ts_6hMFmfXhs_4NnDghh5ut4WX9oDmXGks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDU5/NjUtMTQ4MDAwMjM2/My03ODg1LnBuZw.jpeg) | 2016-10-10 | Jesus Disciple | What You Almost Missed: The Mixtape |
+| 12 | ![Cover](https://i.discogs.com/meWxDhVWwtTwMdCKC9jg8TtII2jfCKOxZ7_S9Lf7ZlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/MTQxLTE1MjMwMzg5/MTAtNzk3NS5qcGVn.jpeg) | 2018-04-03 | Aaron Robinson | Can&#39;t Forget |
+| 10 | ![Cover](https://i.discogs.com/GysHOm8sIYS6gnslrHU1acUmNzmTrLoS1MJXlLUF3Kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTc4/NDA4LTE1NjkzMzA2/NDYtNjM1MC5wbmc.jpeg) | 2019-06-11 | FlipFlop The Clown | Goodbye |
 | 20 | ![Cover](https://i.discogs.com/H-zrCazw3_OPCfMllwJiRKDzF-QhjxBDgPGyyYbLIK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODg4/MjUwLTE2NDMxNDE3/NTQtMjY0Ny5qcGVn.jpeg) | 2021-02-05 | Cas Metah | Illect Recordings: Mind the Rap volume 2 |
-| 21 |  |  | Lostenfound | 15.2 four |
 | 22 |  |  | colemizestudios | Cole Mize Studios |
-| 34 |  |  | SilentAngel | Rapp Flowmotion |
 | 36 | ![Cover](https://i.discogs.com/H-zrCazw3_OPCfMllwJiRKDzF-QhjxBDgPGyyYbLIK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODg4/MjUwLTE2NDMxNDE3/NTQtMjY0Ny5qcGVn.jpeg) | 2021-02-05 | Cas Metah | Illect Recordings: Mind the Rap volume 1 |
-| 39 |  |  | ThaRepresenta | Characteristics |
-| 41 |  |  | Strategical | Blameless (Single + Bonus Track) |
-| 42 |  |  | Playdough and Heath McNease | Wed White and Wu |
-| 43 |  |  | Christian Rap Artist David | The Rapture EP: Independent Album Debut Release |
-| 48 |  |  | SilentAngel | New Day For A Changed Soul |
-| 49 |  |  | Hyper Fenton | Terabithia |
 | 51 |  |  | SilentAngel | Warrior~n~ God&#39;s Army (Mixtape) |
 | 52 |  |  | SilentAngel | God&#39;s Servant (Mixtape) |
 | 61 | ![Cover](https://i.discogs.com/RdzsUF44Em78wo_OvNlJ9j5UG7Vap4aMbZipiy1KniY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjE4/NDUwLTE1MTIwOTQ0/MDItNzM1NS5qcGVn.jpeg) | 1997 | Sebastian Moon | Manna Music |
@@ -121,8 +121,8 @@ Last updated: <time datetime="2025-10-24T18:20:45.182Z">Fri Oct 24 2025 21:20:45
 - [christian]({{ "/tags/christian" | relative_url }})
 - [gospel]({{ "/tags/gospel" | relative_url }})
 - [worship]({{ "/tags/worship" | relative_url }})
+- [contemporary christian]({{ "/tags/contemporary-christian" | relative_url }})
 - [boom bap]({{ "/tags/boom-bap" | relative_url }})
 - [spoken word]({{ "/tags/spoken-word" | relative_url }})
-- [contemporary christian]({{ "/tags/contemporary-christian" | relative_url }})
 - [conscious hip hop]({{ "/tags/conscious-hip-hop" | relative_url }})
 - [poetry]({{ "/tags/poetry" | relative_url }})

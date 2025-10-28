@@ -1,22 +1,30 @@
 ---
 category: genre
-date: 2025-10-22T07:54:14.662Z
+date: 2025-10-28T16:07:59.875Z
 permalink: tags/tenor
 title: tenor
 ---
 
 ## tenor
 
-Last updated: <time datetime="2025-10-22T07:54:14.662Z">Wed Oct 22 2025 10:54:14 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T16:07:59.875Z">Tue Oct 28 2025 18:07:59 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+The term &quot;tenor&quot; can refer to different aspects of music depending on the context. Generally, it refers to a high male singing voice or a musical instrument that plays in a similar range.
+
+A tenor is a male singer with a high range and a bright, powerful sound. In choral music, the tenor part usually falls between the alto and bass parts. In opera, the tenor is often the lead male role.
+
+In terms of musical instruments, a tenor saxophone, for example, is a saxophone that plays in the tenor range, which is between the alto and the baritone saxophones. Similarly, a tenor banjo is a four-stringed banjo that is smaller than a plectrum banjo but larger than a concert ukulele, and it is typically tuned in fifths.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | James Gilchrist and Anna Tilbrook | The Far Country - 26 English Songs by John Jeffreys |
-| 3 |  |  | Giordani&#x2F;English Chamber  Orchestra&#x2F;Sutej | Carreras Sings Latest |
-| 4 |  |  | Gianni Raimondi | Gianni Raimondi: Volume 1 |
-| 5 |  |  | Bixio - Cherubini | Pavarotti Songbook |
+| 2 |  |  | James Gilchrist and Anna Tilbrook | The Far Country - 26 English Songs by John Jeffreys |
+| 4 |  |  | Giordani&#x2F;English Chamber  Orchestra&#x2F;Sutej | Carreras Sings Latest |
+| 5 |  |  | Gianni Raimondi | Gianni Raimondi: Volume 1 |
+| 6 |  |  | Bixio - Cherubini | Pavarotti Songbook |
 | 19 |  |  | Rameau&#x2F;Chorus And Orchestra Of Les Arts Florissants&#x2F;Christie | Carreras Sings Latest |
 | 27 |  |  | Wilfred Brown | Folk- Songs (Remastered) |
 | 54 |  |  | Jonathan Barlow | Massif Trio: Schumann: Dichterliebe - Schubert: 4 Songs - Strauss: 3 Songs |
@@ -45,7 +53,7 @@ Last updated: <time datetime="2025-10-22T07:54:14.662Z">Wed Oct 22 2025 10:54:14
 | 73 | ![Cover](https://i.discogs.com/GkcFDJI4eNuml257aXD6fICcyMNc6zosSWm61-c9Rd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODEy/OTEtMTYwODE5NjAx/NC00MTI1LmpwZWc.jpeg) | 1974 | Luciano Pavarotti | Pavarotti at Christmas |
 | 81 | ![Cover](https://i.discogs.com/ErG1-4JS9h3o8cv8_vK5VhLErBFhoilV_qadPfgrzro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQ5/Mjk2LTE1NTg5OTM1/ODMtMzU1OC5qcGVn.jpeg) | 1975 | Tito Schipa | Prima Voce: Schipa |
 | 13 | ![Cover](https://i.discogs.com/hqwuWJ8gsWbM0XGLNn9JcO4bi1jGCgQWo_fnVmp3x0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAz/NDAzLTE1ODU1NDU3/MDQtOTY1NS5qcGVn.jpeg) | 1978 | Leoš Janáček | Zápisník zmizelého (The Diary of One Who Disappeared) - first recordings (Josef Válka- tenor, Růžena Horáková - mezzosoprano, Josef Páleníček - piano) |
-| 2 | ![Cover](https://i.discogs.com/Vfm6p2hNEaCJRfIY-5r6K3Uv6cq9VSZgQHrDyyasUOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODA5/OTYtMTQ1NTA3MTEw/Ny0yNzE2LmpwZWc.jpeg) | 1980 | John Mccormack | The Legendary John McCormack |
+| 3 | ![Cover](https://i.discogs.com/Vfm6p2hNEaCJRfIY-5r6K3Uv6cq9VSZgQHrDyyasUOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODA5/OTYtMTQ1NTA3MTEw/Ny0yNzE2LmpwZWc.jpeg) | 1980 | John Mccormack | The Legendary John McCormack |
 | 49 | ![Cover](https://i.discogs.com/5eIqjuOM-UGLL5Jz0-gPSX0XZoB71JJ9-zlU8JLZ2fE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA1/OTgtMTUzNzgwMzIx/MS0zMjA4Lm1wbw.jpeg) | 1981 | Plácido Domingo | Domingo |
 | 39 | ![Cover](https://i.discogs.com/pYdLoW9IG3Hw9vlOOwTOC04epMu-4_iRhnZPruTVANQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTAy/MTM3LTE2MjYzNTU3/MjMtNDIyNC5qcGVn.jpeg) | 1981-01 | Luciano Pavarotti | Luciano Pavarotti Performs Verdi |
 | 72 | ![Cover](https://i.discogs.com/3oi1pM-hYANzAPHcYFIa5KN_38w27RHbBMU03TAz9og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Nzk4/OTItMTM3ODI5MzI3/OC04MDMxLmpwZWc.jpeg) | 1981-01 | Luciano Pavarotti | Luciano Pavarotti Performs Pucinni |
@@ -67,7 +75,6 @@ Last updated: <time datetime="2025-10-22T07:54:14.662Z">Wed Oct 22 2025 10:54:14
 | 97 | ![Cover](https://i.discogs.com/dlkBsV6S6qKBRV5TQbDlhb1DO_1ZO17S0W5RTxalrmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0ODkz/NTMtMTM5NDcwNTgy/Mi02MTM4LmpwZWc.jpeg) | 1995 | Enrico Caruso | Prima Voce - Caruso In Song |
 | 20 | ![Cover](https://i.discogs.com/w9zY-n6kbq-ArjRi5RYY7tvREtUw9wsvmpc3xBuC8kc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTI2/NzMtMTQwMzIzNjQy/OC05NzA0LmpwZWc.jpeg) | 1996 | Placido Domingo | Placido Domingo Performs Pucinni |
 | 99 |  | 1996 | Andrea Bocelli | Viaggio Italiano |
-| 6 | ![Cover](https://i.discogs.com/IW3AyA3pSwLyTvso99av-zkVWL_y9m3TJ8olq3_XOuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzky/NDIxLTE1NDIwNDA2/ODItNzUzNS5qcGVn.jpeg) | 1997 | Maria Callas | Bizet: Carmen [Disc 1] |
 | 59 | ![Cover](https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg) | 1997 | Various Artists | MCCORMACK, John: The Acoustic Recordings (1910) |
 | 28 |  | 1997-02-11 | John Mccormack | My Wild Irish Rose |
 | 93 | ![Cover](https://i.discogs.com/rE5GqkRze7ZdMwNlSyC_jadNdiYi9fAcZTOxdYQ5nyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzg0/Nzg5LTE2MjU0Nzk1/NDctNzM5Mi5qcGVn.jpeg) | 1998 | Tino Rossi | 40 titres d&#39;or |
@@ -102,6 +109,7 @@ Last updated: <time datetime="2025-10-22T07:54:14.662Z">Wed Oct 22 2025 10:54:14
 | 71 | ![Cover](https://i.discogs.com/BosvSfovdQnLNnCGta_cefDaJZy_fxyVtR7GafLuAF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDU2/NzQtMTQ0NzkxNDQw/OC05MzI0LmpwZWc.jpeg) | 2010-10-22 | Juan Diego Flórez | Santo |
 | 62 |  | 2011 | Gari Glaysher | &quot;Serenata&quot; The New Album |
 | 87 |  | 2011-02-08 | Andrea Bocelli | Notte Illuminata |
+| 1 | ![Cover](https://i.discogs.com/R7vkgfU1bAsmELH8boRFYB8gS3JW8-iDLZooeb9Pn3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODYx/MzY2LTE1MjM2NTA0/MTUtMTA2My5qcGVn.jpeg) | 2012 | Rolando Villazón | Massenet: Werther |
 | 65 | ![Cover](https://i.discogs.com/nT3XfXNugSk3L2nfLr7bYp8WKp6lYfECV5Ql6aXvqro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQ3/NDkzLTE1OTUxNzc3/NjEtNjc4OS5qcGVn.jpeg) | 2012 | Gari Glaysher | Sounds Of Gari Glaysher |
 | 61 | ![Cover](https://i.discogs.com/mKXQYbZv2DsekpPHp017OB0Y4QvkRZ8Tg1TTnQnYZRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mzgx/ODctMTQyMTUyNzk4/MS02NjUxLmpwZWc.jpeg) | 2014 | Jonas Kaufmann | Schubert: Die schöne Müllerin |
 | 67 | ![Cover](https://i.discogs.com/92xZRScLX6YOwqbhhjvin9WA3z66rdhm_l0A7Tzkj5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTUy/NzEtMTQ2NDcxNzk4/NS01MDMzLmpwZWc.jpeg) | 2015 | Håkon Kornstad | Tenor Battle |
