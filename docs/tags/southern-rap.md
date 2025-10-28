@@ -1,67 +1,67 @@
 ---
 category: genre
-date: 2025-10-22T07:57:47.111Z
+date: 2025-10-27T20:56:58.347Z
 permalink: tags/southern-rap
 title: southern rap
 ---
 
 ## southern rap
 
-Last updated: <time datetime="2025-10-22T07:57:47.111Z">Wed Oct 22 2025 10:57:47 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-27T20:56:58.347Z">Mon Oct 27 2025 22:56:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 33 | ![Cover](https://i.discogs.com/FB-8sIhRCtXFo680HfLpx1WNrwB1-vt_zsswkUBAOkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTIz/LTE0Nzk5OTI4MDgt/MjUzOC5qcGVn.jpeg) | 1989 | 2 Live Crew | Sports Weekend |
-| 28 |  | 1994-02-01 | Odd Squad | Fadanuf Fa Erybody |
+| 32 | ![Cover](https://i.discogs.com/FB-8sIhRCtXFo680HfLpx1WNrwB1-vt_zsswkUBAOkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTIz/LTE0Nzk5OTI4MDgt/MjUzOC5qcGVn.jpeg) | 1989 | 2 Live Crew | Sports Weekend |
+| 27 |  | 1994-02-01 | Odd Squad | Fadanuf Fa Erybody |
 | 50 |  | 1995-10-10 | Mystikal | Mind Of Mystikal |
-| 12 | ![Cover](https://i.discogs.com/tX1PTGdzuk8yKdmDKSvdpI0Vre5HiGq-Q7CNB1HPVmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA5/MjMtMTIwNDUxMjM3/Mi5qcGVn.jpeg) | 1996 | Scarface | M.A.D.E. |
-| 32 | ![Cover](https://i.discogs.com/WSaqgPbEhVPn378_dT-e-PYxy6OOfKa_hnKTYzeIp1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDkw/NS0xNDEyMDA0OTA0/LTk0ODcuanBlZw.jpeg) | 1996-07-30 | UGK | Ridin&#39; Dirty |
-| 36 | ![Cover](https://i.discogs.com/AB_qNAvu-m9bHTdStuEcrQEm9mGw9cdn19IO7xgOi4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzMx/NS0xMzQ1NjA5Njgx/LTY2MzAuanBlZw.jpeg) | 1996-08-26 | OutKast | ATLiens |
+| 11 | ![Cover](https://i.discogs.com/tX1PTGdzuk8yKdmDKSvdpI0Vre5HiGq-Q7CNB1HPVmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA5/MjMtMTIwNDUxMjM3/Mi5qcGVn.jpeg) | 1996 | Scarface | M.A.D.E. |
+| 31 | ![Cover](https://i.discogs.com/WSaqgPbEhVPn378_dT-e-PYxy6OOfKa_hnKTYzeIp1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDkw/NS0xNDEyMDA0OTA0/LTk0ODcuanBlZw.jpeg) | 1996-07-30 | UGK | Ridin&#39; Dirty |
+| 35 | ![Cover](https://i.discogs.com/AB_qNAvu-m9bHTdStuEcrQEm9mGw9cdn19IO7xgOi4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzMx/NS0xMzQ1NjA5Njgx/LTY2MzAuanBlZw.jpeg) | 1996-08-26 | OutKast | ATLiens |
 | 46 | ![Cover](https://i.discogs.com/IOpggRSZRuSUfP4-F4LDat5Dfv-nJgLETdjJU8cSnmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDYy/MC0xMzYyNzIyNzY3/LTM1ODMuanBlZw.jpeg) | 1997-01-14 | Gangsta Pat | Homicidal Lifestyle |
 | 47 |  | 1997-05-13 | Juvenile | Solja Rags |
-| 7 | ![Cover](https://i.discogs.com/_QiuCQrdr_-qxOF8h_uyf8dla-zM0xTaYIlOKXYQ0JQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODMz/Ny0xNDYzNjQ2NTkw/LTc3NTQuanBlZw.jpeg) | 1998 | Street Military | Aggrivated Rasta |
-| 39 |  | 1998-09-28 | OutKast | Aquemini |
-| 3 |  | 1998-10-27 | K-Rino | K-Rino |
-| 38 |  | 1998-11-03 | Juvenile | 400 Degreez |
-| 20 |  | 1999-01-01 | Guerilla Maab | Rise |
-| 4 |  | 2000 | Big Boogie | Definition of Big Dude |
-| 21 | ![Cover](https://i.discogs.com/_1HYzAH2r7xMFUo3pkCKC_d9IimuNZpwSr1QOZXBDXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA3/MzY0LTE1OTYzMDEx/OTctODI3MC5qcGVn.jpeg) | 2000 | Lil&#39; O | Da Fat Rat Wit da Cheese |
-| 9 | ![Cover](https://i.discogs.com/TahE3DaVHCPsZYsd2Soa0sYX8tNcGBIlqs3Do2gjvM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjg0/NDgtMTM0MjUxNTU0/My00NTk3LmpwZWc.jpeg) | 2001 | Kane &amp; Abel | Most Wanted |
-| 30 |  | 2001-08-21 | Juvenile | Project English |
-| 37 |  | 2001-11-06 | Ludacris | Word of Mouf |
+| 6 | ![Cover](https://i.discogs.com/_QiuCQrdr_-qxOF8h_uyf8dla-zM0xTaYIlOKXYQ0JQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODMz/Ny0xNDYzNjQ2NTkw/LTc3NTQuanBlZw.jpeg) | 1998 | Street Military | Aggrivated Rasta |
+| 38 |  | 1998-09-28 | OutKast | Aquemini |
+| 2 |  | 1998-10-27 | K-Rino | K-Rino |
+| 37 |  | 1998-11-03 | Juvenile | 400 Degreez |
+| 19 |  | 1999-01-01 | Guerilla Maab | Rise |
+| 3 |  | 2000 | Big Boogie | Definition of Big Dude |
+| 20 | ![Cover](https://i.discogs.com/_1HYzAH2r7xMFUo3pkCKC_d9IimuNZpwSr1QOZXBDXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA3/MzY0LTE1OTYzMDEx/OTctODI3MC5qcGVn.jpeg) | 2000 | Lil&#39; O | Da Fat Rat Wit da Cheese |
+| 8 | ![Cover](https://i.discogs.com/TahE3DaVHCPsZYsd2Soa0sYX8tNcGBIlqs3Do2gjvM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjg0/NDgtMTM0MjUxNTU0/My00NTk3LmpwZWc.jpeg) | 2001 | Kane &amp; Abel | Most Wanted |
+| 29 |  | 2001-08-21 | Juvenile | Project English |
+| 36 |  | 2001-11-06 | Ludacris | Word of Mouf |
 | 42 |  | 2002 | H.A.W.K. | Hawk |
-| 10 |  | 2003-08-19 | T.I. | Trap Muzik |
-| 2 |  | 2003-11-04 | Lil Jon &amp; The East Side Boyz | Certified Crunk |
-| 15 | ![Cover](https://i.discogs.com/bQf1Oeig0i3JNaVHchXmT97i3rrj6XRO6CPCoWNBvZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/NDc5LTE1OTA2MjQ5/MzAtNzMwNy5qcGVn.jpeg) | 2004 | Ray Cash | C.O.D. |
-| 25 | ![Cover](https://i.discogs.com/oTMr5eYtLOG6C0GaU2sTJPHzI9rFpmF5Dx_NZpfEB5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk1/NS0xNDM3Mzc2MDA4/LTkzMjAuanBlZw.jpeg) | 2004-11-30 | T.I. | Urban Legend |
-| 22 | ![Cover](https://i.discogs.com/Pp5W6vGoBSuEY1iz3DMKK-vE-qIPWWilVHccls-TxGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODA0/MjU4LTE3MDA4OTU5/NjctNzM1NC5qcGVn.jpeg) | 2005 | T.I. | Active |
-| 31 |  | 2005-01-01 | Chrome | Straight to the Pros |
-| 19 | ![Cover](https://i.discogs.com/kcG2VrR92nZ36ulMNE7xXQnf4l6rk35_Wx8cIgq_moQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTYz/NTItMTY2NjM5OTA2/MS00MTkwLmpwZWc.jpeg) | 2005-04-11 | Bushwick Bill | Gutta Mixx |
-| 27 | ![Cover](https://i.discogs.com/h_OlzlK6_9D8IPkSvEYAzs7BTolWyz6x5c0vV17kRVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTcx/NTUtMTQ2ODY3ODgx/Ni0zMTQ5LmpwZWc.jpeg) | 2005-12-06 | Lil&#39; Wayne | Tha Carter II |
-| 6 | ![Cover](https://i.discogs.com/71RTjmrzbGK9AMCxPNuWGpsEbeCVYzPT-31aDMM0Hc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDE1/Ny0xNDY4MzYwNjY1/LTIzNTUucG5n.jpeg) | 2006-09-11 | Three 6 Mafia | Live By Your Rep |
-| 11 |  | 2007 | Shawty Lo | Dey Know |
-| 23 | ![Cover](https://i.discogs.com/P8Qgq3ul6GHj_pXYMHOO0_NNBLJMpq1wsZHbK5twSbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDQw/OTctMTU0NDE1NDEx/MC05NTAzLmpwZWc.jpeg) | 2007 | Evil Pimp | Da Bad Guy Returns |
-| 29 | ![Cover](https://i.discogs.com/2YhPu--p_jrwExPNvoxA0LA5-DljZSpaKQMLE-hqNA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTQw/NjQtMTQ1NTM5NjQ3/Ny00NzA5LmpwZWc.jpeg) | 2007-08-21 | Project Pat | What Cha Starin&#39; At? Mixtape |
-| 34 | ![Cover](https://i.discogs.com/VahesWHaWgfktb1zkiuzp7YGRs_NiUHCB6gKI81gPn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYz/OTQtMTIxNjA5OTk5/Ny5qcGVn.jpeg) | 2007-10-03 | Trae | Life Goes On |
-| 26 | ![Cover](https://i.discogs.com/VnRwI74XzYqbzBEneOg89gLAZrRDETKYLc7QKNZLV8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzA2/MjctMTUyMzA5MTk0/My05ODAzLmpwZWc.jpeg) | 2008 | Young Jeezy | The Real Is Back |
+| 9 |  | 2003-08-19 | T.I. | Trap Muzik |
+| 1 |  | 2003-11-04 | Lil Jon &amp; The East Side Boyz | Certified Crunk |
+| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/173571cd25da4f1bcf0d3f779df1080c.png) |  | Future | Honest |
+| 14 | ![Cover](https://i.discogs.com/bQf1Oeig0i3JNaVHchXmT97i3rrj6XRO6CPCoWNBvZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzgy/NDc5LTE1OTA2MjQ5/MzAtNzMwNy5qcGVn.jpeg) | 2004 | Ray Cash | C.O.D. |
+| 24 | ![Cover](https://i.discogs.com/oTMr5eYtLOG6C0GaU2sTJPHzI9rFpmF5Dx_NZpfEB5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk1/NS0xNDM3Mzc2MDA4/LTkzMjAuanBlZw.jpeg) | 2004-11-30 | T.I. | Urban Legend |
+| 21 | ![Cover](https://i.discogs.com/Pp5W6vGoBSuEY1iz3DMKK-vE-qIPWWilVHccls-TxGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODA0/MjU4LTE3MDA4OTU5/NjctNzM1NC5qcGVn.jpeg) | 2005 | T.I. | Active |
+| 30 |  | 2005-01-01 | Chrome | Straight to the Pros |
+| 18 | ![Cover](https://i.discogs.com/kcG2VrR92nZ36ulMNE7xXQnf4l6rk35_Wx8cIgq_moQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTYz/NTItMTY2NjM5OTA2/MS00MTkwLmpwZWc.jpeg) | 2005-04-11 | Bushwick Bill | Gutta Mixx |
+| 26 | ![Cover](https://i.discogs.com/h_OlzlK6_9D8IPkSvEYAzs7BTolWyz6x5c0vV17kRVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTcx/NTUtMTQ2ODY3ODgx/Ni0zMTQ5LmpwZWc.jpeg) | 2005-12-06 | Lil&#39; Wayne | Tha Carter II |
+| 5 | ![Cover](https://i.discogs.com/71RTjmrzbGK9AMCxPNuWGpsEbeCVYzPT-31aDMM0Hc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDE1/Ny0xNDY4MzYwNjY1/LTIzNTUucG5n.jpeg) | 2006-09-11 | Three 6 Mafia | Live By Your Rep |
+| 10 |  | 2007 | Shawty Lo | Dey Know |
+| 22 | ![Cover](https://i.discogs.com/P8Qgq3ul6GHj_pXYMHOO0_NNBLJMpq1wsZHbK5twSbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDQw/OTctMTU0NDE1NDEx/MC05NTAzLmpwZWc.jpeg) | 2007 | Evil Pimp | Da Bad Guy Returns |
+| 28 | ![Cover](https://i.discogs.com/2YhPu--p_jrwExPNvoxA0LA5-DljZSpaKQMLE-hqNA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTQw/NjQtMTQ1NTM5NjQ3/Ny00NzA5LmpwZWc.jpeg) | 2007-08-21 | Project Pat | What Cha Starin&#39; At? Mixtape |
+| 33 | ![Cover](https://i.discogs.com/VahesWHaWgfktb1zkiuzp7YGRs_NiUHCB6gKI81gPn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYz/OTQtMTIxNjA5OTk5/Ny5qcGVn.jpeg) | 2007-10-03 | Trae | Life Goes On |
+| 25 | ![Cover](https://i.discogs.com/VnRwI74XzYqbzBEneOg89gLAZrRDETKYLc7QKNZLV8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzA2/MjctMTUyMzA5MTk0/My05ODAzLmpwZWc.jpeg) | 2008 | Young Jeezy | The Real Is Back |
 | 43 | ![Cover](https://i.discogs.com/GP9dW2WXTPHb7cUq8HdSYf1NbmezgL28VpLQfvYaBf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/MDU2LTE1OTczNzc4/NzItNzM2OC5qcGVn.jpeg) | 2008 | Killa Kyleon | Killa Music |
-| 1 |  | 2008-02-19 | Pastor Troy | Attitude Adjuster |
 | 40 |  | 2009-04-14 | Pastor Troy | Feel Me Or Kill Me |
-| 24 | ![Cover](https://i.discogs.com/pD4IHuOEYqzdxedF95bMadzccZMM-uoKMlIslZtBSRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTIx/MjgtMTQ2MDQyMjQ3/Ny0zNjU5LmpwZWc.jpeg) | 2010-07-13 | Z-Ro | Look What You Did to Me |
-| 13 |  | 2010-11-16 | Cutthroat | The Takeova |
+| 23 | ![Cover](https://i.discogs.com/pD4IHuOEYqzdxedF95bMadzccZMM-uoKMlIslZtBSRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTIx/MjgtMTQ2MDQyMjQ3/Ny0zNjU5LmpwZWc.jpeg) | 2010-07-13 | Z-Ro | Look What You Did to Me |
+| 12 |  | 2010-11-16 | Cutthroat | The Takeova |
 | 48 | ![Cover](https://i.discogs.com/3WXs29z01jL_6IvJFJGkjroU_tw6wt-E-nyrjQGnwlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQ4/MTktMTUzMTA1MjA5/My04ODYxLmpwZWc.jpeg) | 2011-08-29 | Lil&#39; Wayne | The Carter 3 Mixtape |
-| 5 | ![Cover](https://i.discogs.com/fD4W5W3uhBqz18kjW_WVobyrs5-bs19bHjJ4ix1q8g0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDk3/MzQtMTY0NjMxODUy/Ni0xNDcxLmpwZWc.jpeg) | 2011-12-22 | Slim Thug | Houston |
-| 17 |  | 2012-08-09 | Riff Raff | BiRTH OF AN iCON |
-| 16 | ![Cover](https://i.discogs.com/jrDXxL8qmZ7kcn1zlirzwO4aA9OgzUs1anpbInphta4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODU4/MjMtMTYxNzY4NjM0/Mi02NzE3LmpwZWc.jpeg) | 2013-04-30 | Rittz | The Life and Times of Jonny Valiant (Deluxe Edition) |
-| 18 |  | 2014-06-24 | Bubba Sparxxx | Made on McCosh Mill Road |
-| 8 | ![Cover](https://i.discogs.com/mMQdMEQKyo1wgSjs7tIlVip4tyQjnvFns6YQXIfnsWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjk2/MjgtMTQzMzAwMTc5/My01NDQxLmpwZWc.jpeg) | 2015-05-29 | Raider Klan | Rvidxxr Klvn Presents : 2.7.5. Greatest Hits Vol.1 |
+| 4 | ![Cover](https://i.discogs.com/fD4W5W3uhBqz18kjW_WVobyrs5-bs19bHjJ4ix1q8g0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDk3/MzQtMTY0NjMxODUy/Ni0xNDcxLmpwZWc.jpeg) | 2011-12-22 | Slim Thug | Houston |
+| 16 |  | 2012-08-09 | Riff Raff | BiRTH OF AN iCON |
+| 15 | ![Cover](https://i.discogs.com/jrDXxL8qmZ7kcn1zlirzwO4aA9OgzUs1anpbInphta4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODU4/MjMtMTYxNzY4NjM0/Mi02NzE3LmpwZWc.jpeg) | 2013-04-30 | Rittz | The Life and Times of Jonny Valiant (Deluxe Edition) |
+| 17 |  | 2014-06-24 | Bubba Sparxxx | Made on McCosh Mill Road |
+| 7 | ![Cover](https://i.discogs.com/mMQdMEQKyo1wgSjs7tIlVip4tyQjnvFns6YQXIfnsWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjk2/MjgtMTQzMzAwMTc5/My01NDQxLmpwZWc.jpeg) | 2015-05-29 | Raider Klan | Rvidxxr Klvn Presents : 2.7.5. Greatest Hits Vol.1 |
 | 41 | ![Cover](https://i.discogs.com/rvLlygj-CerMZD-V4dFIwxrrA8nP1yX1hXPQbLTJxIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTU4/Mi0xMzUyNTE2Mjg4/LTczMzEuanBlZw.jpeg) | 2016-07-15 | Z-Ro | I&#39;m Still Livin |
 | 44 | ![Cover](https://i.discogs.com/Ephur9t3L1zp6_FNr5a9N6_bvIGZ0iIb0qiqpSHrEzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTEw/Mzc0LTE1MzY2OTQ3/MjMtNjA5Mi5qcGVn.jpeg) | 2018-09-14 | Bun B | Return Of The Trill |
-| 14 | ![Cover](https://i.discogs.com/UKMwA2G-8DrsK-Bi12wCuM2f4gTDddI7EkRKHxEGIBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAw/NTUwLTE1Nzk5MDgz/NjYtMzI4MS5qcGVn.jpeg) | 2020-01 | Lil E | Playa 4 Life |
+| 13 | ![Cover](https://i.discogs.com/UKMwA2G-8DrsK-Bi12wCuM2f4gTDddI7EkRKHxEGIBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAw/NTUwLTE1Nzk5MDgz/NjYtMzI4MS5qcGVn.jpeg) | 2020-01 | Lil E | Playa 4 Life |
 | 45 | ![Cover](https://i.discogs.com/jlle3_YtzXp3_hMj-yHZbBp0ukkr5Gu2b8ReLdYPjD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzY2/ODMtMTQzMzkzNjcw/OS0yMTk1LmpwZWc.jpeg) | 2021-01-28 | Alchemist | Chemical Warfare |
-| 35 | ![Cover](https://i.discogs.com/GcLC_9-e2olrCm7Q7vMqW3QAsITio-HsykIPtcPPREw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjA2/ODc2LTE3MDE1Mjk0/NzMtNDc4OC5qcGVn.jpeg) | 2022-11-25 | BigXthaPlug | Enemies |
+| 34 | ![Cover](https://i.discogs.com/GcLC_9-e2olrCm7Q7vMqW3QAsITio-HsykIPtcPPREw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjA2/ODc2LTE3MDE1Mjk0/NzMtNDc4OC5qcGVn.jpeg) | 2022-11-25 | BigXthaPlug | Enemies |
 | 49 |  |  | Chingy | Jackpot |
 | 97 |  | 1991-07-01 | Geto Boys | We Can&#39;t Be Stopped |
 | 74 |  | 1994 | OutKast | Southernplayalisticadillacmuzik |
