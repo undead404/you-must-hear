@@ -1,67 +1,67 @@
 ---
 category: genre
-date: 2025-10-25T21:25:02.286Z
+date: 2025-10-28T08:14:55.130Z
 permalink: tags/jangle-pop
 title: jangle pop
 ---
 
 ## jangle pop
 
-Last updated: <time datetime="2025-10-25T21:25:02.286Z">Sun Oct 26 2025 00:25:02 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T08:14:55.130Z">Tue Oct 28 2025 10:14:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 13 | ![Cover](https://i.discogs.com/FFWOJhLsMwFkNdP9swKUpedJhBYwMfU8cG3KwKd6cWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODQx/MzYtMTQxNTU2MDgz/Ni03NjI1LmpwZWc.jpeg) | 1982 | The Barracudas | Drop Out With The Barracudas |
 | 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/63e9b9e298e04a3fcacd004584dc3c51.png) | 1982-08 | R.E.M. | Chronic Town |
-| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bc78a8b2e2bd466dc61f812dcafc03fe.png) | 1986 | 10,000 Maniacs | In My Tribe |
+| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bc78a8b2e2bd466dc61f812dcafc03fe.png) | 1986 | 10,000 Maniacs | In My Tribe |
 | 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cd3d4457cfcfed03f6a2bc3779356af6.png) | 1986-07-28 | R.E.M. | Lifes Rich Pageant |
 | 28 |  | 1987 | The Bats | Daddy&#39;s Highway |
 | 50 |  | 1987-03-16 | The Smiths | Louder Than Bombs |
 | 12 |  | 1987-10 | The Wedding Present | George Best |
 | 49 |  | 1987-10-05 | Primal Scream | Sonic Flower Groove |
-| 24 | ![Cover](https://i.discogs.com/03uTTNIm2NoSzuxEDj0xK6UrMPGslbzocFRSkho7fb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDk3/OC0xMTIwMDA0MDgw/LmpwZw.jpeg) | 1987-11-03 | The Housemartins | The People Who Grinned Themselves To Death |
-| 26 | ![Cover](https://i.discogs.com/oCI9ECiNGxkzvwGvZC2Qx_-iWeDiN54aeP38yzCCi5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjMy/OS0xNDU0ODc0Mzg0/LTk1MzUuanBlZw.jpeg) | 1988 | The House of Love | House Of Love |
+| 23 | ![Cover](https://i.discogs.com/03uTTNIm2NoSzuxEDj0xK6UrMPGslbzocFRSkho7fb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDk3/OC0xMTIwMDA0MDgw/LmpwZw.jpeg) | 1987-11-03 | The Housemartins | The People Who Grinned Themselves To Death |
+| 25 | ![Cover](https://i.discogs.com/oCI9ECiNGxkzvwGvZC2Qx_-iWeDiN54aeP38yzCCi5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjMy/OS0xNDU0ODc0Mzg0/LTk1MzUuanBlZw.jpeg) | 1988 | The House of Love | House Of Love |
 | 3 |  | 1988-03-07 | 14 Iced Bears | Come Get Me |
 | 2 | ![Cover](https://i.discogs.com/o1sC1ETAgTW2QcfOE4tnEHlCja3bkgDKCnBQDSno93Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEx/MTktMTMwNDgxMTgw/OS5qcGVn.jpeg) | 1988-07 | The Wedding Present | Tommy |
 | 40 |  | 1989-04 | The Stone Roses | The Stone Roses |
-| 44 | ![Cover](https://i.discogs.com/QZx1VITPtSaVywdaJa1_lbHQr1ACkJYvPgqFKZbmlVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODMw/OC0xNTU1MzYxOTgy/LTgzMDMuanBlZw.jpeg) | 1989-10 | The Wedding Present | Bizarro |
 | 33 | ![Cover](https://i.discogs.com/nJU9L8jjuXhjV9CKOS4xetTY1yKWWZWISAAlWCYBvw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzgx/My0xMjE1MzgwMjk0/LmpwZWc.jpeg) | 1990-03-06 | The House of Love | The House of Love |
-| 19 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/20600d23aa00025d2097f4e46bbf959d.png) | 1991-03-08 | R.E.M. | Out of Time |
-| 22 | ![Cover](https://i.discogs.com/GmkRr-42oEwgRHEN5dV2jyjHCy5oGpg3x7ebVDpRTGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTY0/MC0xMjMxNDQwMjI4/LmpwZWc.jpeg) | 1992 | The Smiths | Best...I |
-| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8808cce994244a6e968c157b894ef136.png) | 1992-06-02 | The Lemonheads | It&#39;s a Shame About Ray |
+| 17 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/20600d23aa00025d2097f4e46bbf959d.png) | 1991-03-08 | R.E.M. | Out of Time |
+| 20 | ![Cover](https://i.discogs.com/GmkRr-42oEwgRHEN5dV2jyjHCy5oGpg3x7ebVDpRTGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTY0/MC0xMjMxNDQwMjI4/LmpwZWc.jpeg) | 1992 | The Smiths | Best...I |
+| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8808cce994244a6e968c157b894ef136.png) | 1992-06-02 | The Lemonheads | It&#39;s a Shame About Ray |
 | 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ceb7b050dee4411380a41135e7a68b16.png) | 1992-10-06 | R.E.M. | Automatic for the People |
-| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/996dafc5f078c88ab0cfb0403bf77a5f.png) | 1993 | R.E.M. | Reckoning - Deluxe Edition |
+| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/996dafc5f078c88ab0cfb0403bf77a5f.png) | 1993 | R.E.M. | Reckoning - Deluxe Edition |
 | 9 | ![Cover](https://i.discogs.com/VdliZVtlxKgoaP3s-u_ZR4k4mcg3qqVM_gH8ergsO50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgz/Mjk2LTE1Njk0MjE0/MzgtNTQ5My5qcGVn.jpeg) | 1993-04-25 | Felt | Ignite the Seven Cannons (Remastered Edition) |
 | 32 |  | 1995-06-06 | The Innocence Mission | Glow |
 | 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/15a2ec88341c54c1ccd1d128eba29f65.png) | 1996-02-29 | R.E.M. | Out Of Time (25th Anniversary Edition) |
 | 47 | ![Cover](https://i.discogs.com/oENgGauD6JYq6IToKSyXJDlfdOGn7b47OCFXr2b2Lpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODk2/MC0xMjIyNzk4OTA2/LmpwZWc.jpeg) | 1997-10-13 | Belle and Sebastian | 3..6..9 Seconds Of Light |
-| 20 |  | 1998-03-01 | Mary Lou Lord | Got No Shadow |
-| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b225f35c1d73be0ac8605f91f41060b6.png) | 1999-10-19 | Gin Blossoms | Outside Looking In: The Best Of The Gin Blossoms |
+| 18 |  | 1998-03-01 | Mary Lou Lord | Got No Shadow |
+| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b225f35c1d73be0ac8605f91f41060b6.png) | 1999-10-19 | Gin Blossoms | Outside Looking In: The Best Of The Gin Blossoms |
+| 41 |  |  | The Lemon Twigs | Foolin&#39; Around &#x2F; Tailor Made |
+| 44 | ![Cover](https://i.discogs.com/QZx1VITPtSaVywdaJa1_lbHQr1ACkJYvPgqFKZbmlVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODMw/OC0xNTU1MzYxOTgy/LTgzMDMuanBlZw.jpeg) | 1989-10 | The Wedding Present | Bizarro |
 | 27 | ![Cover](https://i.discogs.com/pZ7WwodgS_VzcsiBe5Axqf22DKCEtRoABd67H7-GbI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjAy/ODQtMTM0NTcwMzkw/Ni0zNTUxLmpwZWc.jpeg) | 2000 | Belle and Sebastian | Fold Your Hands Child You Walk Like a Peasant |
 | 42 |  | 2000-05 | The Aislers Set | The Last Match |
 | 11 | ![Cover](https://i.discogs.com/LYlgrMdvI2iTnz3oUIrkUbM7PZUljoaCAVN0MLutUVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDQ2/Ny0xNTIyMDA3NTU4/LTg0ODMuanBlZw.jpeg) | 2003 | Pernice Brothers | Yours, Mine and Ours |
 | 1 | ![Cover](https://i.discogs.com/FA_7lveGlmI1Sj49GH7I0E61WtZ68PvLTlOCsalwrzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mzg2/Ni0xMzQwNTIxMTk5/LTQ1ODIuanBlZw.jpeg) | 2006 | The Bicycles | The Good, The Bad and The Cuddly |
 | 34 | ![Cover](https://i.discogs.com/SsuUSVGzxskkjB_dKhNyp24ATJe-L8FR00vdu8I2K6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTUz/MS0xNTEzMTI1Njg1/LTM2NTMucG5n.jpeg) | 2006-06 | Primal Scream | Velocity Girl &#x2F; Broken |
-| 29 |  | 2006-06-13 | The Replacements | Don&#39;t You Know Who I Think I Was?: The Best Of The Replacements |
+| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8c4e6b787b214cf1b48b67c1a8e66f6d.png) | 2006-06-13 | The Replacements | Don&#39;t You Know Who I Think I Was?: The Best Of The Replacements |
 | 7 |  | 2007 | The Pains of Being Pure at Heart | This Love Is Fucking Right! |
-| 38 | ![Cover](https://i.discogs.com/EhyOFQPxnjWpyEWBuESVORAkCb6Uy-EcaYJ-C_xI7B8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjMw/NTIzLTE1MDEyODMy/NzAtNTUzMS5qcGVn.jpeg) | 2009 | The Stone Roses | The Stone Roses (20th Anniversary Collector&#39;s Edition) |
+| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/507f0d7f09067c03543c28d8bb6f584d.png) | 2009 | The Stone Roses | The Stone Roses (20th Anniversary Collector&#39;s Edition) |
 | 48 |  | 2011-01-11 | Minks | By the Hedge |
+| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/37d435318d744beea7f76d55f8800cad.png) | 2011-09-01 | The Drums | Portamento |
 | 8 |  | 2013-10-21 | Spids Nøgenhat | Kommer med fred |
 | 37 |  | 2014-03-03 | Real Estate | Atlas |
-| 41 |  |  | The Lemon Twigs | Foolin&#39; Around &#x2F; Tailor Made |
 | 46 | ![Cover](https://i.discogs.com/46rTvjQyF42Lg3P3GPt4bjt5ZT_uD1v-SxC39rc1sVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODg0/MTItMTQyNjUyMDgz/NC0zNTIzLmpwZWc.jpeg) | 2014-07-22 | Alvvays | Alvvays |
 | 36 | ![Cover](https://i.discogs.com/A1iz64ld_EQRBd9yIPne0IruT8TACVLQd8MA_x4EY3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDMw/NDgtMTQ0MDI4ODgz/Mi03NzY2LmpwZWc.jpeg) | 2015 | Ultimate Painting | Green Lanes |
-| 21 | ![Cover](https://i.discogs.com/pP1BKgMv85S_SHAq7CejVreSCsRGE9yMYz0ocoVDDsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAy/ODEwLTE1MDgwMTk2/NDctMzc3Mi5qcGVn.jpeg) | 2016-06-15 | Terry vs. Tori | Terry vs. Tori |
-| 17 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f430012b280349a91f0de708454bb12d.png) | 2018-03-30 | The Vaccines | Combat Sports |
+| 19 | ![Cover](https://i.discogs.com/pP1BKgMv85S_SHAq7CejVreSCsRGE9yMYz0ocoVDDsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAy/ODEwLTE1MDgwMTk2/NDctMzc3Mi5qcGVn.jpeg) | 2016-06-15 | Terry vs. Tori | Terry vs. Tori |
+| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f430012b280349a91f0de708454bb12d.png) | 2018-03-30 | The Vaccines | Combat Sports |
 | 39 | ![Cover](https://i.discogs.com/ES_DJxrkgqVoAVPD2DziQ7reQv-fTWme-opRUlaPTg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ3/MjAxLTE1Mjc2NjU1/NjAtNTA4Ny5qcGVn.jpeg) | 2018-05-25 | Hatchie | Sugar &amp; Spice |
 | 45 | ![Cover](https://i.discogs.com/Yyw-YCCWfFI5CzaE7RGRsGojtzZNalyDl1Rck3cA2b0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzE0/OTYwLTE1NTE5MTc1/OTMtNzU5Mi5wbmc.jpeg) | 2019 | Stella Donnelly | Beware of the Dogs |
-| 14 | ![Cover](https://i.discogs.com/me5su35qQurVmQkhirUMEyB-SZORai0p9ChhVE3FaYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTM5/MTQ3LTE1NjQ0OTg3/OTctMzU5My5qcGVn.jpeg) | 2019-07-26 | Strange Ranger | Remembering The Rockets |
+| 13 | ![Cover](https://i.discogs.com/me5su35qQurVmQkhirUMEyB-SZORai0p9ChhVE3FaYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTM5/MTQ3LTE1NjQ0OTg3/OTctMzU5My5qcGVn.jpeg) | 2019-07-26 | Strange Ranger | Remembering The Rockets |
 | 10 | ![Cover](https://i.discogs.com/YwWX_v83bpwbrx571ECasgYzYKVEjS7_kJSP_kigtCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTI3/MzA2LTE2MzM3Nzk4/OTItODA2Mi5qcGVn.jpeg) | 2021-06 | Hawaiian Gremlins | Girls |
 | 6 |  | 2021-12-03 | montegrande | aeropuerto |
 | 35 | ![Cover](https://i.discogs.com/0ScnEcECgUU3ExyPoA9e95nzM6wyZTcqYKtAzWUO7rM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njk5/MzAyLTE3MDcwODk1/NzQtNTAwMi5qcGVn.jpeg) | 2024-02-02 | Ducks Ltd. | Harm&#39;s Way |
-| 16 | ![Cover](https://i.discogs.com/gKuiWIO8O5ZuubHO0mqUEmIJxB_pExi_kR7UmjGjGis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQy/MjA2LTE3MTQ1NTA4/MTAtMTQ3Ni5wbmc.jpeg) | 2024-05-03 | The Lemon Twigs | A Dream Is All We Know |
+| 14 | ![Cover](https://i.discogs.com/gKuiWIO8O5ZuubHO0mqUEmIJxB_pExi_kR7UmjGjGis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQy/MjA2LTE3MTQ1NTA4/MTAtMTQ3Ni5wbmc.jpeg) | 2024-05-03 | The Lemon Twigs | A Dream Is All We Know |
 | 31 |  |  | The Bangles | All Over The Place |
 | 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2482d82d56d840edaa40677f02741f41.png) | 1980 | The Feelies | Crazy Rhythms |
 | 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/04462eb1131d378d153b59992d227dbf.png) | 1983-04-11 | R.E.M. | Murmur |
@@ -125,4 +125,4 @@ Last updated: <time datetime="2025-10-25T21:25:02.286Z">Sun Oct 26 2025 00:25:02
 - [power pop]({{ "/tags/power-pop" | relative_url }})
 - [twee pop]({{ "/tags/twee-pop" | relative_url }})
 - [shoegaze]({{ "/tags/shoegaze" | relative_url }})
-- [rock]({{ "/tags/rock" | relative_url }})
+- [lo-fi]({{ "/tags/lo-fi" | relative_url }})
