@@ -1,36 +1,36 @@
 ---
 category: genre
-date: 2025-10-20T07:58:02.935Z
+date: 2025-10-28T08:18:22.253Z
 permalink: tags/tabla
 title: tabla
 ---
 
 ## tabla
 
-Last updated: <time datetime="2025-10-20T07:58:02.935Z">Mon Oct 20 2025 10:58:02 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T08:18:22.253Z">Tue Oct 28 2025 10:18:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 2 |  |  | Sultan Khan With Late Ustad Shaukat Hussain Khan | The Legend Continues CD1 |
+| 38 |  |  | Ustad Ghulam Farid Nizami | Flowers of the Heart |
 | 17 |  | 1955 | Yehudi Menuhin | Yehudi Menuhin: West Meets East |
 | 58 | ![Cover](https://i.discogs.com/Qwei8L_sZucDdKdK0URmUmFIMcho1fSmFB5h_U8NzGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE2/NDExLTE1NTk2MzU5/NDUtMzIzOC5qcGVn.jpeg) | 1969 | Ali Akbar Khan | Shree Rag |
+| 42 | ![Cover](https://i.discogs.com/QAXNy-H1i5nXJlryydv2Rc9lEYfdzLx0GszNLBJt_Ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDk5/NC0xNTcwMDEyMTg5/LTU5NzcuanBlZw.jpeg) | 1977 | Voyage | Kelimdance |
 | 4 |  | 1978 | Sandy | Ik Ben Verliefd Op John Travolta |
 | 12 |  | 1989 | Imrat Khan, Vajahat Khan &amp; Shafaatullah Khan | Rag Jhinjhoti &amp; Rag Pilu |
 | 59 | ![Cover](https://i.discogs.com/i_rDTE_HbVgA4e12smI-jug_3NHvcrNG-JtNZ8JzpK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTIx/NDgtMTMxODE2OTE1/MS5qcGVn.jpeg) | 1989-01-01 | Hariprasad Chaurasia &amp; Zakir Hussain | Venu |
 | 14 |  | 1992-04-16 | Ziskakan | 10 Zan |
-| 38 |  |  | Ustad Ghulam Farid Nizami | Flowers of the Heart |
 | 47 |  |  | lightsweetcrude | lightsweetcrude |
 | 70 |  |  | menschen-und-musik | Live Recordings 2008 |
 | 72 |  |  | Tony Bahu | The Captivation |
-| 42 | ![Cover](https://i.discogs.com/QAXNy-H1i5nXJlryydv2Rc9lEYfdzLx0GszNLBJt_Ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDk5/NC0xNTcwMDEyMTg5/LTU5NzcuanBlZw.jpeg) | 1977 | Voyage | Kelimdance |
 | 50 | ![Cover](https://i.discogs.com/mBQW-B1fBXNwjFRC5YrPaLffvI7-FR7GC1Am0702Yk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzcy/MjA1LTE1NzMyMDQ5/NDMtNDA1OC5naWY.jpeg) | 1986 | Ramuntcho Matta | 24 hrs |
 | 79 | ![Cover](https://i.discogs.com/tEbADNpnlzDd2H9fjOdAa5WusxMdC70aadbXPRmfN9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQx/OS0xNTIwMjU5MDYx/LTUyMzUuanBlZw.jpeg) | 1987-05 | Zakir Hussain | Making Music |
 | 3 | ![Cover](https://i.discogs.com/K9u1DY_Y50MTaJ9J78PWtcBjt-YC-45Cwl8FnnOZ0nA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDQy/NTgzLTE2NjI1NjQy/NzAtNzE0MS5qcGVn.jpeg) | 1995 | Indus | Indus Demo |
 | 13 | ![Cover](https://i.discogs.com/lzXsC9wkSWQ6cFbx68937UQ1v1wfoJ13WJyMJoh-XWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTU0/NzEtMTUwNDU5MzI3/Ni05ODQzLmpwZWc.jpeg) | 1995 | Helm | Zakharafa |
 | 91 | ![Cover](https://i.discogs.com/h_QmqDxcvqAVu8s5zM9jDbgiL6m9MmAL5GExw0UBGVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/MzE0LTE1ODI2NTE3/ODQtNTE5MS5wbmc.jpeg) | 1997-10-21 | Sur Sudha | Images of Nepal |
-| 1 | ![Cover](https://i.discogs.com/ocnn7oZEMox2BH_UT9_YozdBYdrcRFFJpLINfxvekVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA5/MDk5LTE1NTc0Mzc4/MDktNDQyOS5qcGVn.jpeg) | 1999 | Nikhil Banerjee, Nikhil Ghosh | Morning Ragas, Bombay 1965 2 |
+| 1 | ![Cover](https://i.discogs.com/ocnn7oZEMox2BH_UT9_YozdBYdrcRFFJpLINfxvekVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA5/MDk5LTE1NTc0Mzc4/MDktNDQyOS5qcGVn.jpeg) | 1999 | Nikhil Banerjee, Nikhil Ghosh | Morning Ragas, Bombay 1965 1 |
+| 2 | ![Cover](https://i.discogs.com/ocnn7oZEMox2BH_UT9_YozdBYdrcRFFJpLINfxvekVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA5/MDk5LTE1NTc0Mzc4/MDktNDQyOS5qcGVn.jpeg) | 1999 | Nikhil Banerjee, Nikhil Ghosh | Morning Ragas, Bombay 1965 2 |
 | 63 | ![Cover](https://i.discogs.com/51YtDC8jPQCLMb5GhiyBowG-I0g3Pvt30syMM6Y782U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTA2/NzUtMTQ4OTA5NjI5/Mi0zMzUwLmpwZWc.jpeg) | 1999 | Ziskakan | 4 ti mo |
 | 76 |  | 1999-06-28 | MakTub | Subtle Ways |
 | 88 |  |  | A Six Degrees Collection | Asian Massive |
@@ -98,7 +98,7 @@ Last updated: <time datetime="2025-10-20T07:58:02.935Z">Mon Oct 20 2025 10:58:02
 | 56 |  | 2010-02-20 | Jon Sterckx | Drumscapes |
 | 45 | ![Cover](https://i.discogs.com/GQB6kvqFC8N4RgdPP6-QJwmx9wQ0ZooVW0Su3lOUnp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTYy/NDktMTYzMzc1MTM3/OS0xMDg5LmpwZWc.jpeg) | 2010-03-19 | Mamadou Diabate, Bobby Singh &amp; Jeff Lang | Djan Djan |
 | 27 | ![Cover](https://i.discogs.com/P79y6fG_Cd2ssD3L87h8cpOhva5zodijqo3uTIYNc_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/MTYtMTMwMDk3NjQz/MS5qcGVn.jpeg) | 2010-03-22 | Jon Sterckx | An Infinite Space |
-| 98 | ![Cover](https://i.discogs.com/Ag7FI4bP4SSzg3-Qokr7l0j_raYgiR1FzR4S-blQm6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzE2/NTEtMTQ0MDM0NTMz/My0xMzIxLmpwZWc.jpeg) | 2010-05-18 | Reggie Watts | Why S*** So Crazy? |
+| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4af202a42f0b42c4b6032c775bb4ceb3.png) | 2010-05-18 | Reggie Watts | Why S*** So Crazy? |
 | 46 |  | 2010-05-24 | Siamgda | Samsara |
 | 22 | ![Cover](https://i.discogs.com/v8kMwdKK49sPNgqZxoLGZ-nkLniRT1FBkQ1iHb0EfNs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDgz/ODEtMTI5NzQ4MDU2/OS5qcGVn.jpeg) | 2011-02-11 | Neti Neti | Live at Nirvana |
 | 52 | ![Cover](https://i.discogs.com/qc9kF9VTAqESAffS1PHY99HlL12X8bQ9d02cZ68GDuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDcz/MTctMTMyOTIwNjMy/NS5qcGVn.jpeg) | 2011-02-25 | Joachim Kühn, Majid Bekkas, Ramon Lopez | Chalaba |
@@ -124,5 +124,5 @@ Last updated: <time datetime="2025-10-20T07:58:02.935Z">Mon Oct 20 2025 10:58:02
 - [world]({{ "/tags/world" | relative_url }})
 - [comedy]({{ "/tags/comedy" | relative_url }})
 - [fusion]({{ "/tags/fusion" | relative_url }})
-- [world fusion]({{ "/tags/world-fusion" | relative_url }})
 - [indian]({{ "/tags/indian" | relative_url }})
+- [world fusion]({{ "/tags/world-fusion" | relative_url }})

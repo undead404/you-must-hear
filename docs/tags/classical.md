@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T19:58:58.930Z
+date: 2025-10-28T08:16:55.772Z
 permalink: tags/classical
 title: classical
 ---
 
 ## classical
 
-Last updated: <time datetime="2025-10-23T19:58:58.930Z">Thu Oct 23 2025 22:58:58 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T08:16:55.772Z">Tue Oct 28 2025 10:16:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -33,7 +33,7 @@ Last updated: <time datetime="2025-10-23T19:58:58.930Z">Thu Oct 23 2025 22:58:58
 | 54 | ![Cover](https://i.discogs.com/XPjzPlImjP59gFmmKw5xlATkh7DM6Q1eD_lRSrSvrXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE2/ODQxLTE1MTU5NTQ1/ODYtNjQyOC5qcGVn.jpeg) | 1977 | Ludwig van Beethoven | Beethoven: Symphony No.9 |
 | 64 | ![Cover](https://i.discogs.com/cTO2J1vT3XELc9Fs3gPEgxdB-WwHDmI2_mtIGlz24Tk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDEz/OTA4LTE1NzQwMjQ3/NjUtNDM4My5qcGVn.jpeg) | 1977 | Ludwig van Beethoven | Beethoven: Piano Sonatas Nos. 8, 14 and 23 |
 | 36 | ![Cover](https://i.discogs.com/Zmo_idserLroodVPFeH05aaTdVGqYljYtoaMEK-J1Rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTgy/NzY4LTE1ODc3NzQz/OTItODMwMy5qcGVn.jpeg) | 1980 | Sergei Rachmaninoff | Rachmaninov Variations |
-| 2 | ![Cover](https://i.discogs.com/--1S0FWLKhSibiWTuJLZ6GFfcxRAeDmfRoSSRpAmqac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjIz/OTUtMTMzOTM1MTI3/NC01MTMwLmpwZWc.jpeg) | 1981 | The Moody Blues | Days of Future Passed (Deluxe Version) |
+| 1 | ![Cover](https://i.discogs.com/--1S0FWLKhSibiWTuJLZ6GFfcxRAeDmfRoSSRpAmqac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjIz/OTUtMTMzOTM1MTI3/NC01MTMwLmpwZWc.jpeg) | 1981 | The Moody Blues | Days of Future Passed (Deluxe Version) |
 | 61 | ![Cover](https://i.discogs.com/n4vgUY85babU4z4-ioj1WU1dnfCo3AXjn7qOp_OlkyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjY4/MDIyLTE2ODA3ODgz/MjctMjk5Ni5qcGVn.jpeg) | 1982 | Franz Schubert | Schubert (Claudio Arrau) |
 | 16 |  | 1984 | Gabriel Fauré | Requiem &amp; Cantique de Jean Racine - Cambridge Singers City of London Sinfonia John Rutter |
 | 65 | ![Cover](https://i.discogs.com/AkB27zDvmH7exhG8drflRoDGvxSQrWov7wiFVhWGhXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzg4/MTk0LTE2ODY4MTU5/MjAtNzA3OS5qcGVn.jpeg) | 1984 | Claude Debussy | Klavierwerke: Clair de Lune |
@@ -51,7 +51,7 @@ Last updated: <time datetime="2025-10-23T19:58:58.930Z">Thu Oct 23 2025 22:58:58
 | 6 | ![Cover](https://i.discogs.com/aFIJF5vAS5bjbEoOS4J7rYEX9U3UIQDy_9-Dtnb26c0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTcz/MS0xNTgwNDkyNjE0/LTIzODEuanBlZw.jpeg) | 1991 | Hans Zimmer | Pearl Harbor - Original Motion Picture Soundtrack |
 | 71 |  | 1991 | Richard Strauss | Also Sprach Zarathustra |
 | 99 | ![Cover](https://i.discogs.com/Mxhr-LOMw7-sqZQcR7ScMYCbToxLgz0iSlG0HlV0Fkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTY5/MTYwLTE2MDExMTIy/NzItMjU3Ni5qcGVn.jpeg) | 1992 | Antonio Vivaldi | Vivaldi |
-| 4 | ![Cover](https://i.discogs.com/cWAeJee7MFcwU25qlor4IQDWraUcdhNFca3FaxI8mOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTMw/OTUtMTM2NTI4MTk5/NC0yNTM0LmpwZWc.jpeg) | 1993 | Wolfgang Amadeus Mozart | Requiem (Herbert von Karajan) |
+| 3 | ![Cover](https://i.discogs.com/cWAeJee7MFcwU25qlor4IQDWraUcdhNFca3FaxI8mOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTMw/OTUtMTM2NTI4MTk5/NC0yNTM0LmpwZWc.jpeg) | 1993 | Wolfgang Amadeus Mozart | Requiem (Herbert von Karajan) |
 | 50 | ![Cover](https://i.discogs.com/zUPV9iEAiF2aTychAKr_l8ZrwLv7o7jb3K3IFCcNhuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzQ4/MjE3LTE2MzUzMzM2/MTYtOTUwNS5qcGVn.jpeg) | 1993 | Maurice Ravel | Ravel |
 | 56 | ![Cover](https://i.discogs.com/NcEuCAIlOUsrv1B4MU-Ge4SadzhXylRPvyMUAZ4sVxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTEw/OTEtMTMyNDIyNTQ4/MC5qcGVn.jpeg) | 1993 | Antonio Vivaldi | VIVALDI: Flute Concertos (Famous) |
 | 63 | ![Cover](https://i.discogs.com/hIl9shFyRaeWo4JGaw5EFrc_QdF8XMhdB228lfn5v_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODA3/Mjc4LTE1OTgxOTQx/MjYtNjA3My5qcGVn.jpeg) | 1993 | Gioacchino Rossini | Overtures |
@@ -90,13 +90,14 @@ Last updated: <time datetime="2025-10-23T19:58:58.930Z">Thu Oct 23 2025 22:58:58
 | 96 | ![Cover](https://i.discogs.com/0JCztAwJxSXSzEnwoPztE6h0L6i0HqOvYM_L90677xQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQz/ODkwLTE2MjUxNjM0/MTItMzc1Ni5qcGVn.jpeg) | 2008 | Frédéric Chopin | Chopin: Nocturnes |
 | 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c47b322ca712479ac7de49d5d8c9957c.png) | 2008-10-24 | David Garrett | Encore |
 | 15 |  | 2010-09-17 | Agnes Obel | Philharmonics |
-| 3 | ![Cover](https://i.discogs.com/HzUYeOQQUaqTsb9phtYViH0lHXl6i4SHxL13DyP7Dck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTMz/MTYtMTM0MDYyNDIy/Ny0xNTQyLmpwZWc.jpeg) | 2010-11-22 | Laura Shigihara | Plants Vs. Zombies (Original Video Game Soundtrack) |
+| 2 | ![Cover](https://i.discogs.com/HzUYeOQQUaqTsb9phtYViH0lHXl6i4SHxL13DyP7Dck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTMz/MTYtMTM0MDYyNDIy/Ny0xNTQyLmpwZWc.jpeg) | 2010-11-22 | Laura Shigihara | Plants Vs. Zombies (Original Video Game Soundtrack) |
 | 29 | ![Cover](https://i.discogs.com/jLRPgqngS_F1QEze5yD7lLDpVNPaLs2ywHf4TR6XC8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkx/MTE1LTE1ODY1NjMy/MzYtMjMyNi5qcGVn.jpeg) | 2011 | Franz Liszt | Liszt: Dreams of Love; Consolations; Sonnets of Petrarca; Rigoletto Paraphrase |
 | 32 | ![Cover](https://i.discogs.com/jWqb7TuEo7iPvMzfHVJydji-_CIxY8wAaTLxUbWxqVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDk5/OTItMTQ3NTM4MzY4/Mi05ODE0LmpwZWc.jpeg) | 2011 | Ludovico Einaudi | Islands - Essential Einaudi |
 | 40 | ![Cover](https://i.discogs.com/0qRBmhLVkC24tJXa7XnZATQuA1CYs2HBeLGuhXmGkJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM4/OTUzLTE2ODIxMzI1/MzQtOTM1Mi5qcGVn.jpeg) | 2012 | Claude Debussy | Debussy: Children&#39;s Corner, Suite Bergamasque, Images |
 | 72 |  | 2012-09-18 | Lindsey Stirling | Lindsey Stirling |
 | 33 | ![Cover](https://i.discogs.com/wZqZnkQPBcz5MblEpA3DUizoAVpSbVXN5NZPTt4pfes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzg3/NzEwLTE1MjE1NjIy/NTAtMTk1NC5qcGVn.jpeg) | 2012-11-02 | Piero Piccioni | Amore Mio Aiutami (Original Motion Picture Soundtrack) |
 | 58 |  | 2013-09-27 | Agnes Obel | Aventine |
+| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7a38e33eea3ab4ec95687538b8bd3029.png) | 2014 | Ralph Vaughan Williams | Greensleeves |
 | 69 |  | 2014-04-29 | Lindsey Stirling | Shatter Me |
 | 22 |  | 2014-09-15 | Mammal Hands | Animalia |
 | 49 | ![Cover](https://i.discogs.com/bWEhQTbobotlHchwmQfAu-AHCahqfxijaAGbbViEQgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODQx/NjQtMTUzMjUxNjk2/Ny0zNjEyLmpwZWc.jpeg) | 2016-05-27 | Loona | HaSeul |
@@ -110,7 +111,6 @@ Last updated: <time datetime="2025-10-23T19:58:58.930Z">Thu Oct 23 2025 22:58:58
 | 55 | ![Cover](https://i.discogs.com/pB723HN811_kxEet43FpPKDyfPnLCc2VEAFGgf9S0yY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjg5/MjA3LTE1ODkyMzA1/MTctNjQ5OC5qcGVn.jpeg) | 2020 | Dmitri Shostakovich | The Gadfly - Five Days - Five Nights |
 | 37 | ![Cover](https://i.discogs.com/fmork5iqrE8J5qOvfvojru6-lozl6PArgoU2gHAOPic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc3/ODUxLTE2Mzc1NzYz/MDMtNDc0Ny5qcGVn.jpeg) | 2021-10-15 | Eurielle | The Bridge Of Khazad-Dum (from &quot;The Lord Of The Rings&quot;) |
 | 97 | ![Cover](https://i.discogs.com/lfovrqAczNfE3g-tn8obCgQtotRMZDamrnmA-Vd50Sk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjk2/OTA2LTE2NTYyMzk5/OTEtNDkyOS5qcGVn.jpeg) | 2022-04-08 | Son Lux | Everything Everywhere All at Once (Original Motion Picture Soundtrack) |
-| 1 | ![Cover](https://i.discogs.com/3NK6gCwiEUbTpwyEgnEyrioyowGAAS4gYa7tAnuEbIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njg1/MDA1LTE2ODk0NDcx/MTUtOTQyMS5qcGVn.jpeg) | 2023 | Various Artists | Classics for the Heart |
 | 30 | ![Cover](https://i.discogs.com/0qRBmhLVkC24tJXa7XnZATQuA1CYs2HBeLGuhXmGkJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM4/OTUzLTE2ODIxMzI1/MzQtOTM1Mi5qcGVn.jpeg) | 2023-02-02 | Claude Debussy | The Ultimate Most Relaxing Classics For Kids In The Universe |
 | 85 | ![Cover](https://i.discogs.com/0qRBmhLVkC24tJXa7XnZATQuA1CYs2HBeLGuhXmGkJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM4/OTUzLTE2ODIxMzI1/MzQtOTM1Mi5qcGVn.jpeg) | 2024-02-23 | Claude Debussy | Debussy: Clair de Lune and Other Piano Favourites |
 
