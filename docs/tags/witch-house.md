@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-25T23:28:59.490Z
+date: 2025-10-28T09:45:37.532Z
 permalink: tags/witch-house
 title: witch house
 ---
 
 ## witch house
 
-Last updated: <time datetime="2025-10-25T23:28:59.490Z">Sun Oct 26 2025 02:28:59 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T09:45:37.532Z">Tue Oct 28 2025 11:45:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -18,20 +18,19 @@ Last updated: <time datetime="2025-10-25T23:28:59.490Z">Sun Oct 26 2025 02:28:59
 | 59 |  | 2009-08-04 | Pictureplane | Dark Rift |
 | 30 | ![Cover](https://i.discogs.com/2JVa-dN6lhWGIBVk2PsdD_pgb_mg-gStu-CbSYg2wKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODc5/MTQtMTMzMDExNTc3/Mi5qcGVn.jpeg) | 2010-07-06 | White Ring | Suffocation |
 | 84 | ![Cover](https://i.discogs.com/utqx-V6xkujM7Q02eCHUXkexkTq1tz_ltC6aSZrYgfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTYx/MzctMTI3MjY4ODc3/Mi5qcGVn.jpeg) | 2010-07-23 | Crystal Castles | Crystal Castles (III) |
-| 1 |  | 2010-08-25 | ✝ DE△D VIRGIN ✝ | R△▲ |
+| 2 |  | 2010-08-25 | ✝ DE△D VIRGIN ✝ | R△▲ |
 | 92 |  | 2010-09-28 | Salem | King Night |
 | 58 | ![Cover](https://i.discogs.com/vKd5AANXEkOBviOSKc9x1yEg8OtlA2v9RhIBqoPcMNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzEx/NzgtMTI4NjAzMTUz/MC5qcGVn.jpeg) | 2010-10-04 | oOoOO | oOoOO EP |
 | 72 | ![Cover](https://i.discogs.com/vKd5AANXEkOBviOSKc9x1yEg8OtlA2v9RhIBqoPcMNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzEx/NzgtMTI4NjAzMTUz/MC5qcGVn.jpeg) | 2010-10-04 | oOoOO | oOoOO |
-| 2 |  | 2010-10-28 | LAKE R▲DIO | Planet Earth About To Be Recycled |
+| 3 |  | 2010-10-28 | LAKE R▲DIO | Planet Earth About To Be Recycled |
 | 79 |  | 2010-10-30 | White Ring | Black Earth That Made Me |
-| 3 |  | 2010-12-05 | ✝ DE△D VIRGIN ✝ | anxieties |
+| 4 |  | 2010-12-05 | ✝ DE△D VIRGIN ✝ | anxieties |
 | 12 | ![Cover](https://i.discogs.com/NtFVf_nu1sCwaZ5fem_R7uIbuelP0g4roFrGD9oTqRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjMw/OTktMTM5MTUyNjAw/Mi04MzAwLmpwZWc.jpeg) | 2010-12-31 | ▼▲▼vagina vangi | Benighted United |
 | 49 | ![Cover](https://i.discogs.com/WT-0Q2Ps11bEMShHXsDTQtZelcEghrhPZb1yxz-op7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDcx/MTEtMTI5OTIwMDI4/MS5qcGVn.jpeg) | 2011-02-28 | Ritualz | Ghetto Ass Witch |
 | 17 |  | 2011-04-12 | Purity Ring | Ungirthed |
 | 35 | ![Cover](https://i.discogs.com/ZLZ1p4hsPzxKZXzwP-Rf_p1sXu1F6R7e_5tqfLXX5vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjk1/NjgtMTM1Mzk1ODQ3/OC0xMTI4LmpwZWc.jpeg) | 2011-08-29 | Balam Acab | Wander &#x2F; Wonder |
 | 50 | ![Cover](https://i.discogs.com/K2J4Kcr3Q9vxxI16Dzkyoko-qQh9RwWuCjfxlivGw_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDI5/MDAtMTQyNzU1Mjc3/Mi0xNzIxLmpwZWc.jpeg) | 2011-11-22 | Salem | I&#39;m Still In the Night |
 | 27 | ![Cover](https://i.discogs.com/pg2g_a2qytlIosT1cNJxKVP-NrUX8WFOWL7IbTRF-5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDY3/MjUtMTMyNTAxMDIz/Mi5qcGVn.jpeg) | 2011-12-20 | Crim3s | Crim3s EP |
-| 4 | ![Cover](https://i.discogs.com/cfJNlEVP_OeudaX9isAyGYRogvfcWvYGimMyhlaKkss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI4/NTAzLTE1MjMwODE1/NzctOTY4OC5wbmc.jpeg) | 2012 | Crystal Castles | Crystal Castles II (Deluxe 2 CD) |
 | 16 |  | 2012-02-01 | Evian Christ | Kings and Them |
 | 22 |  | 2012-07-23 | Purity Ring | Shrines |
 | 20 | ![Cover](https://i.discogs.com/VLF_GsfCdhoVHscnvXWEg7Ewuqj3EFIjoYawbiazzXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjAy/MDUtMTM1MjU3ODAz/OS00MzUyLmpwZWc.jpeg) | 2012-11-09 | Crystal Castles | (II) |
@@ -48,6 +47,7 @@ Last updated: <time datetime="2025-10-25T23:28:59.490Z">Sun Oct 26 2025 02:28:59
 | 7 |  | 2014-09-08 | Summer of Haze | Jessica |
 | 26 | ![Cover](https://i.discogs.com/MEP8oCoRP7gp-OTh3_5O_CBMNmZ01YB_L9-yb1UC6qI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjM4/NDEtMTQyOTYxMjI2/Ny04NzU5LmpwZWc.jpeg) | 2014-10-03 | Misogi | OCCULT |
 | 25 |  | 2014-10-06 | IC3PEAK | Vacuum |
+| 1 | ![Cover](https://i.discogs.com/ZUOzfk0oXKiqihIVQQ9fVuwnROCgKT3az-TnoFz6qnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjY4/NzYtMTQxMjczMDUx/MS03NTQ4LmpwZWc.jpeg) | 2014-10-13 | S.Maharba | Memorial |
 | 18 |  | 2014-11-10 | 18+ | Trust |
 | 51 | ![Cover](https://i.discogs.com/cIZrhGrfvcC5wcr2Jyb0jIL1qfmFKG4kbmoKOPTJXB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzIx/NTI0LTE1MDMwNzIw/MDAtNjQyOC5qcGVn.jpeg) | 2015-07-15 | Alice Glass | CEASE AND DESIST |
 | 33 | ![Cover](https://i.discogs.com/RJgFPGNJcWqPGF_M1JW9rRGREwt6EmOgnyvMH54Bk2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI0/NDk0LTE0OTkyMDQy/MDEtMzMwOC5qcGVn.jpeg) | 2015-09-18 | Pastel Ghost | ABYSS REMIXES |

@@ -1,61 +1,61 @@
 ---
 category: genre
-date: 2025-10-21T00:04:02.987Z
+date: 2025-10-28T09:49:22.443Z
 permalink: tags/dub-techno
 title: dub techno
 ---
 
 ## dub techno
 
-Last updated: <time datetime="2025-10-21T00:04:02.987Z">Tue Oct 21 2025 03:04:02 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T09:49:22.443Z">Tue Oct 28 2025 11:49:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
 | 41 |  | 1991-06 | Muslimgauze | United States of Islam |
-| 3 |  | 1994 | Another Fine Day | Life Before Land |
-| 14 | ![Cover](https://i.discogs.com/vhAwKinLBb16T-_hcMNGLJpCIgaBIbUI3uGO-PQcSG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTgx/NjQtMTI5NzkwMzQ2/MC5qcGVn.jpeg) | 1994 | Juan Atkins | Juan Atkins &amp; Moritz von Oswald Present Borderland: Angles |
+| 4 |  | 1994 | Another Fine Day | Life Before Land |
+| 15 | ![Cover](https://i.discogs.com/vhAwKinLBb16T-_hcMNGLJpCIgaBIbUI3uGO-PQcSG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTgx/NjQtMTI5NzkwMzQ2/MC5qcGVn.jpeg) | 1994 | Juan Atkins | Juan Atkins &amp; Moritz von Oswald Present Borderland: Angles |
 | 34 | ![Cover](https://i.discogs.com/vOLO57QFICREgLcrd0YFBjDSlSBGX81Z3P-3CMng9rA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTct/MTEyOTI3OTUxOC5q/cGVn.jpeg) | 1995 | Scion | Emerge |
-| 20 | ![Cover](https://i.discogs.com/_mf9yFKEfNA44wrIVgYbQYl-MHRCtec0EfU-327C1mI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzQ0/ODAtMTMxNzM2NDYw/My5qcGVn.jpeg) | 1997 | Convextion | Convextion CDS |
 | 23 | ![Cover](https://i.discogs.com/GFSc_qXq40T397ZXXyepdU05k4y07fWrThmFgbkV4KQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mi0x/Njk2NzkxMzU5LTU5/OTQuanBlZw.jpeg) | 1997 | Monolake | Hong Kong |
 | 49 |  | 1997 | Maurizio | M-7 |
-| 16 |  | 1998 | Carl Crack | Black Ark |
+| 17 |  | 1998 | Carl Crack | Black Ark |
 | 46 | ![Cover](https://i.discogs.com/3O8w3RvfxzCbbvfYdJu1MrS5VoYWR2dQ0H7fx3h2wHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTY4/LTE2Njg5ODI0Njct/NjkxMC5qcGVn.jpeg) | 1998 | Carl Crack | Black Arc |
-| 9 |  | 2000-02-18 | Vladislav Delay | Multila |
-| 2 |  | 2000-05-24 | Jonas Bering | Bienfait |
+| 10 |  | 2000-02-18 | Vladislav Delay | Multila |
+| 3 |  | 2000-05-24 | Jonas Bering | Bienfait |
 | 50 | ![Cover](https://i.discogs.com/cxtBkVXAGi9m2ioT4To5j_ZZElI4bqPOq9Y0q9yEznA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQw/LTE2MjMyOTk5MzEt/NjQ1My5qcGVn.jpeg) | 2001-12-07 | Shinichi Atobe | ship-scope |
 | 38 |  | 2002-04-08 | Blamstrain | Kavel EP |
-| 17 | ![Cover](https://i.discogs.com/dqMVgyUBl9DvXlt6YNtI1fNZqwCxOIdD7DQaoN-vJJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODU4/LTE1MjAwNjk3ODUt/MTAzMy5qcGVn.jpeg) | 2002-06-07 | Electric Birds | Gradations |
-| 15 | ![Cover](https://i.discogs.com/hPQL5Uc5Wh3e69Ld6nxABWQ_oPMov_4IR5p3nMU8SXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTgw/Ny0xMjE2NjY4MTkx/LmpwZWc.jpeg) | 2003-09 | Rod Modell | Kettle Point |
+| 18 | ![Cover](https://i.discogs.com/dqMVgyUBl9DvXlt6YNtI1fNZqwCxOIdD7DQaoN-vJJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODU4/LTE1MjAwNjk3ODUt/MTAzMy5qcGVn.jpeg) | 2002-06-07 | Electric Birds | Gradations |
+| 16 | ![Cover](https://i.discogs.com/hPQL5Uc5Wh3e69Ld6nxABWQ_oPMov_4IR5p3nMU8SXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTgw/Ny0xMjE2NjY4MTkx/LmpwZWc.jpeg) | 2003-09 | Rod Modell | Kettle Point |
 | 35 | ![Cover](https://i.discogs.com/4t3cGpoY1tBMZLQEN_jHiy_GVQ7U6bLqnCrzK_CVtxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjY2/NC0xMzUxMzM4NTk0/LTExMzcuanBlZw.jpeg) | 2004-06 | British Murder Boys | Fist &#x2F; Splinter |
 | 48 |  | 2007-11-24 | Rod Modell | Incense &amp; Black Light |
 | 37 |  | 2008 | Beat Pharmacy | Wikkid Times |
-| 8 |  | 2008-07-15 | Dublicator | Chord Center |
+| 9 |  | 2008-07-15 | Dublicator | Chord Center |
 | 43 | ![Cover](https://i.discogs.com/Cbe73-xhttw-M8_JUKMyGlN3X2BGk0kJdKMcsCoEPr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTMy/NDgtMTQwNDUwMzA5/MS01MDIzLmpwZWc.jpeg) | 2009 | Quantec | The Landing |
 | 33 | ![Cover](https://i.discogs.com/UDtteNXNcGFtecCRtKj_NxAB2TluTRdQJggpgeaf9t0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODg0/MzMtMTIzODg1Mzg1/OC5qcGVn.jpeg) | 2009-02 | Boozoo Bajou | Same Sun |
 | 26 |  | 2009-05-11 | Luke Hess | Light in the Dark |
 | 32 | ![Cover](https://i.discogs.com/w3oIpld0QiGK6EsD4LqyzUdlIDx8sGyS1Na063jQ_vY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDIx/MjEtMTU1OTY5NTY4/My00MDcxLmpwZWc.jpeg) | 2009-07-04 | Pablo Bolivar | Recall |
-| 6 | ![Cover](https://i.discogs.com/pwdtlR90cktS8lun_oNPvjluCDv91MfPi-N7r-yhjYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTc4/OTMtMTUwODM5NDAw/NC04MjQxLnBuZw.jpeg) | 2010 | Hoax | Painted Black |
+| 7 | ![Cover](https://i.discogs.com/pwdtlR90cktS8lun_oNPvjluCDv91MfPi-N7r-yhjYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTc4/OTMtMTUwODM5NDAw/NC04MjQxLnBuZw.jpeg) | 2010 | Hoax | Painted Black |
 | 28 |  | 2010-03-15 | Fluxion | Perfused |
-| 11 |  | 2010-10-14 | Dublicator | Deep Routes |
-| 4 |  | 2010-11-22 | Downliners Sekt | We Make Hits, Not the Public |
-| 13 | ![Cover](https://i.discogs.com/XQYzvKNONOf5sk5IaZCYk6P9jskOuYV1TlBQNxNcf2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTkx/NTEtMTI5NTAyNTcy/My5qcGVn.jpeg) | 2010-12-22 | Sandwell District | Feed-Forward |
+| 12 |  | 2010-10-14 | Dublicator | Deep Routes |
+| 1 | ![Cover](https://i.discogs.com/ZHy5SfNLl9GEgCwcBuZ2CTUBIdIufDy30cRfShk1Lys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjY1/NDYtMTI4ODgxMjA5/NS5qcGVn.jpeg) | 2010-11-02 | Ocralab | Nocturnal Transitions |
+| 5 |  | 2010-11-22 | Downliners Sekt | We Make Hits, Not the Public |
+| 14 | ![Cover](https://i.discogs.com/XQYzvKNONOf5sk5IaZCYk6P9jskOuYV1TlBQNxNcf2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTkx/NTEtMTI5NTAyNTcy/My5qcGVn.jpeg) | 2010-12-22 | Sandwell District | Feed-Forward |
 | 47 | ![Cover](https://i.discogs.com/8beZXqx54gbiLyFllr9Dh7gDobmFR2dhZbMGz_1Obi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjM4/MTctMTUzMTc2OTU0/NC0yNTA4LmpwZWc.jpeg) | 2011 | Polar Inertia | Indirect Light EP |
 | 21 | ![Cover](https://i.discogs.com/Yv5hAg7I7prqNA666e4c_3mo06IMjYcG0Zfh1mBWOFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzY4/ODItMTMxMDA2NjE5/MS5qcGVn.jpeg) | 2011-05-02 | Biodub | Reisegefaehrte |
-| 7 | ![Cover](https://i.discogs.com/laC9Duz_wG4gRbuSsPttpeNz9YnOmv3Ws5LXg3fQtv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjY0/MTYtMTM2MTM4NDQ1/Ni0zMjYyLmpwZWc.jpeg) | 2012-06 | Rødhåd | 1984 |
+| 8 | ![Cover](https://i.discogs.com/laC9Duz_wG4gRbuSsPttpeNz9YnOmv3Ws5LXg3fQtv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjY0/MTYtMTM2MTM4NDQ1/Ni0zMjYyLmpwZWc.jpeg) | 2012-06 | Rødhåd | 1984 |
 | 44 |  | 2012-07-12 | Kangding Ray | Monad XI |
 | 36 |  | 2013 | Deepchord | 20 Electrostatic Soundfields |
-| 12 |  | 2013-01-21 | krill.minima | Sekundenschlaf |
-| 1 |  | 2013-08 | Lakker | Monad XIV |
+| 13 |  | 2013-01-21 | krill.minima | Sekundenschlaf |
+| 2 |  | 2013-08 | Lakker | Monad XIV |
 | 25 |  | 2014-03-29 | Ketev | KETEV |
 | 22 | ![Cover](https://i.discogs.com/Fbc_SfN7N0fMY6RWAL5dsTZ08sHal77IWjbKBdajVQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzI0/NTQtMTU2NjM5NDAz/NC0yNjE4LmpwZWc.jpeg) | 2015 | Giriu Dvasios | Ratu |
-| 10 | ![Cover](https://i.discogs.com/QCHGeA8C456Buc37NNX09GTsXrbJls_LkBtBDJWAV4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDQ1/NTItMTQyMjkxODE2/Mi05MTMwLmpwZWc.jpeg) | 2015-02-02 | OOBE | Stealth |
+| 11 | ![Cover](https://i.discogs.com/QCHGeA8C456Buc37NNX09GTsXrbJls_LkBtBDJWAV4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDQ1/NTItMTQyMjkxODE2/Mi05MTMwLmpwZWc.jpeg) | 2015-02-02 | OOBE | Stealth |
 | 29 | ![Cover](https://i.discogs.com/S2j2FpwOZbHFNqTcvOKm0RiL12y6FU7HtadO0AzBa20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTM1/MTEtMTQyNjc5NDk5/NC0yNDc5LmpwZWc.jpeg) | 2015-03-19 | Cio D&#39;or | Off And On |
 | 42 | ![Cover](https://i.discogs.com/Omj7R0TgNXzMU4Qi-3hVjy3rMbU7jUhJ4RK7PJyNjAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzQ5/OTktMTQzMDc3NDU3/Ny0xNjU4LmpwZWc.jpeg) | 2015-04-30 | cv313 | Beyond Starlit Sky |
 | 31 | ![Cover](https://i.discogs.com/OD8ZlwPgetY2eh1nyITHgLwde64UOb3jJToEy-KO_gU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NzQ5/NzUtMTQ0OTA1NTEy/My03NzM5LmpwZWc.jpeg) | 2015-11-27 | Deepchord | Ultraviolet Music |
-| 18 | ![Cover](https://i.discogs.com/riu49TvG-hC4Kg-mJ1au9kV7aptyLWbWWtrPMO7CTqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Mzc0/ODItMTQ2NDI1MTUz/NS02NjMxLmpwZWc.jpeg) | 2016-06-03 | JK Flesh | Rise Above |
-| 19 | ![Cover](https://i.discogs.com/gqIXq-S82A60rAn2Ll6sOXAxLtnfFgwqcTS8BLp0pCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAy/MDUyLTE0OTg5MzQz/OTAtOTUxMi5qcGVn.jpeg) | 2017-04-14 | TRP | The Future |
+| 19 | ![Cover](https://i.discogs.com/riu49TvG-hC4Kg-mJ1au9kV7aptyLWbWWtrPMO7CTqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Mzc0/ODItMTQ2NDI1MTUz/NS02NjMxLmpwZWc.jpeg) | 2016-06-03 | JK Flesh | Rise Above |
+| 20 | ![Cover](https://i.discogs.com/gqIXq-S82A60rAn2Ll6sOXAxLtnfFgwqcTS8BLp0pCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAy/MDUyLTE0OTg5MzQz/OTAtOTUxMi5qcGVn.jpeg) | 2017-04-14 | TRP | The Future |
 | 30 |  |  | DeepChord presents Echospace | Liumin |
 | 51 |  |  | Civilistjävel! | Järnnätter |
 | 92 |  | 1993-10 | Basic Channel | Q 1.1 |
@@ -102,7 +102,7 @@ Last updated: <time datetime="2025-10-21T00:04:02.987Z">Tue Oct 21 2025 03:04:02
 | 74 | ![Cover](https://i.discogs.com/I8-UVDY5r3nu_fy2_np3W9sLhwsFLLDt6KLKGkUajuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU0/ODU1LTE1Mzk0MzM4/NzEtNjM0Mi5qcGVn.jpeg) | 2017-02-03 | Vril | Anima Mundi |
 | 45 | ![Cover](https://i.discogs.com/bH2OmejU-MISQ909St33o1EDM00Le_tvtwX2IgV90Ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjQx/NzI2LTE2NjQ1MzM0/NDAtNTY0MC5qcGVn.jpeg) | 2017-10-20 | Deepchord | Functional Designs |
 | 81 | ![Cover](https://i.discogs.com/DEcY-5SJy-OrM-X4K0a387qy6YGucrvtl38wyTtU6bA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY0/MDIwLTE1MjA5NjM2/MTgtNTM4Ni5qcGVn.jpeg) | 2018-03-16 | Alva Noto | Unieqav |
-| 5 | ![Cover](https://i.discogs.com/39LYqNHA5iBLOrTlD6AFf-n26nWmvlC4ALoSzeGFp14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQx/NzY3LTE1NTYxODg1/MzUtMzIzNy5qcGVn.jpeg) | 2019 | Rainforest Spiritual Enslavement | Simulated Thunderstorm |
+| 6 | ![Cover](https://i.discogs.com/39LYqNHA5iBLOrTlD6AFf-n26nWmvlC4ALoSzeGFp14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQx/NzY3LTE1NTYxODg1/MzUtMzIzNy5qcGVn.jpeg) | 2019 | Rainforest Spiritual Enslavement | Simulated Thunderstorm |
 | 40 | ![Cover](https://i.discogs.com/GWvXPzHdcYWAqHJc3U0dtaVG2lo_kafimJAHZ--70O4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDUx/ODU4LTE2NjU3ODE3/NzMtODE5OS5qcGVn.jpeg) | 2019-01-11 | Rainforest Spiritual Enslavement | Venus Flytrap Exotica |
 | 27 | ![Cover](https://i.discogs.com/17DBTnMOIRUGER--8PxCjt1T59huWxWckeGeDJC45Sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQx/NzQ4LTE1NTYxODgx/MDItNzU5MC5qcGVn.jpeg) | 2019-04-24 | Rainforest Spiritual Enslavement | Panama Canal Left-Hand Path |
 | 39 | ![Cover](https://i.discogs.com/Cf7R5nUObdrAyRxMg6FAwfmQQ0pkzrgzQQG_35qsLLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg0/MzA0LTE1NTY5Njcw/NzEtNjI1NC5qcGVn.jpeg) | 2019-05-06 | Yagya | Stormur |
