@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T23:42:15.775Z
+date: 2025-10-28T04:09:35.394Z
 permalink: tags/progressive-electronic
 title: progressive electronic
 ---
 
 ## progressive electronic
 
-Last updated: <time datetime="2025-10-22T23:42:15.775Z">Thu Oct 23 2025 02:42:15 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T04:09:35.394Z">Tue Oct 28 2025 06:09:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -67,16 +67,17 @@ Last updated: <time datetime="2025-10-22T23:42:15.775Z">Thu Oct 23 2025 02:42:15
 | 92 | ![Cover](https://i.discogs.com/lpXl3AXHMmZ9X8gVu2Ss1H5P3uqHQiBCvZZEnsTSNmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjEx/MTEtMTY2OTI0MDA3/OS04NTk4LmpwZWc.jpeg) | 2016-04-01 | Kaitlyn Aurelia Smith | EARS |
 | 54 | ![Cover](https://i.discogs.com/fOjEh1Mr818RTiBmwd3hKcI23SLeEklMmhYMVWs9Wq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzAy/NDEtMTM5NDc3OTAy/MS03ODkwLmpwZWc.jpeg) | 2016-08-05 | Floating Points | Promises |
 | 43 | ![Cover](https://i.discogs.com/6F7KXBJZ4t8osYDsHD9uyP2Zyfz18xXv8F5fQ1bwNSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTAz/MDctMTQ3Mjg2ODcx/NC0zMDAzLmpwZWc.jpeg) | 2016-09-16 | Kaitlyn Aurelia Smith | FRKWYS Vol. 13: Sunergy |
-| 3 | ![Cover](https://i.discogs.com/kDQRMcSXMdnknjCGYxxY05gyN53NL2tDfvnFdsU-CHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mzc0/NTktMTQ4ODg1NTA3/Ni00NzIwLmpwZWc.jpeg) | 2016-10-15 | Johnny Jewel | The Key |
+| 2 | ![Cover](https://i.discogs.com/kDQRMcSXMdnknjCGYxxY05gyN53NL2tDfvnFdsU-CHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mzc0/NTktMTQ4ODg1NTA3/Ni00NzIwLmpwZWc.jpeg) | 2016-10-15 | Johnny Jewel | The Key |
 | 89 | ![Cover](https://i.discogs.com/XIvUmcyCIgoPrK2FeZBPRzXyNmP8GUqJnX9zivibTD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTI1/ODAzLTE2MzM3Nzc4/NTItMzEzNi5qcGVn.jpeg) | 2016-12-02 | King Gizzard &amp; The Lizard Wizard | Theia &#x2F; The Silver Cord &#x2F; Set |
 | 91 | ![Cover](https://i.discogs.com/c0iluuXlDzbYParfD5otyeHehh_5Qs-XmUxin7VQBZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njk4/NTktMTQ4OTQyNTYy/MS01MDkwLmpwZWc.jpeg) | 2017-04-22 | Men I Trust | Men I Trust |
-| 2 | ![Cover](https://i.discogs.com/OYipPq0twOH9sn0YyQKXJpCZZgIwuWiGwAFLcbvPMOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk1/MzI5LTE0OTQ4MzI3/OTktOTkzOS5qcGVn.jpeg) | 2017-05-19 | Loke Rahbek | Buy Corals Online |
+| 1 | ![Cover](https://i.discogs.com/OYipPq0twOH9sn0YyQKXJpCZZgIwuWiGwAFLcbvPMOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk1/MzI5LTE0OTQ4MzI3/OTktOTkzOS5qcGVn.jpeg) | 2017-05-19 | Loke Rahbek | Buy Corals Online |
 | 84 | ![Cover](https://i.discogs.com/0uFlWOxWMDK_0QrKvVG9HOWWB7N0RuyynIUng65BS00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMw/Mzc5LTE1MTc5NzEx/NzItNzc3My5qcGVn.jpeg) | 2018-01-18 | 7038634357 | XPETAL |
 | 64 | ![Cover](https://i.discogs.com/E1bfoVbhFgzIJOzq42wEdaVUdIEwqWeVgQB3iIf84yE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/MjUzLTE1MTkwMjQ1/NDgtODAyOC5wbmc.jpeg) | 2018-01-25 | Lena Raine | Celeste (Original Soundtrack) |
 | 13 | ![Cover](https://i.discogs.com/ljBWXefiXuDeonbjKPLcoUbaDPi3VskaRdbF7gb1uso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjE4/MTU3LTE1MTk1MDU0/MTktMjE2OC5qcGVn.jpeg) | 2018-03-23 | Cavern of Anti-Matter | Hormone Lemonade |
 | 59 | ![Cover](https://i.discogs.com/tv8NJoEcjTlIirtP7naWwJfG7xvvFhXnbdP8joPF8v0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI0/NDUzLTE1MjMwMjE1/NDUtMzUxMS5qcGVn.jpeg) | 2018-04-06 | Die Wilde Jagd | Uhrwald Orange |
 | 86 | ![Cover](https://i.discogs.com/pX0u98s08BL2OEKTLFkcuQTY5uhOn-TkpQtwRO7kFmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY5/MzAwLTE1Mjk2ODk3/ODAtNTM1OC5qcGVn.jpeg) | 2018-04-16 | 7038634357 | No Hate Is A Cold Star |
 | 37 | ![Cover](https://i.discogs.com/AZ3fUnyT7fV88Vygx4ZAKmwG9yA1Oty-EjEoBXXxVdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTI2/NjItMTM0ODU2NTU3/MS0yNjAzLmpwZWc.jpeg) | 2018-05-18 | James Ferraro | Four Pieces For Mirai |
+| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c175fff1b74c34cc0973f2d93c29bf07.png) | 2018-05-25 | Oneohtrix Point Never | Age Of |
 | 69 | ![Cover](https://i.discogs.com/RDctyKJS_CAeaKIBrwuM0p_hVfSPfzaBYcsSrSPSpgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/MDgxLTE1MzA2MjU5/ODMtNjkxOS5qcGVn.jpeg) | 2018-06-22 | TOXE | Blinks |
 | 63 | ![Cover](https://i.discogs.com/GtZk-XF9GIZeEQz7_X-XduIoahUPMNYxb3FVkawIsms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk5/NDc5LTE1MzQ1MDIy/ODAtNjk2Mi5qcGVn.jpeg) | 2018-07-13 | Anadol | Uzun Havalar |
 | 35 | ![Cover](https://i.discogs.com/WScE5EonhlLhlWNTh3sti7-HUdhaVJVkIblYsvK3wRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NDg3LTE2ODc5ODM4/MTctMzMxNC5qcGVn.jpeg) | 2018-08-24 | FIRE-TOOLZ | Skinless X-1 |
@@ -86,7 +87,6 @@ Last updated: <time datetime="2025-10-22T23:42:15.775Z">Thu Oct 23 2025 02:42:15
 | 14 | ![Cover](https://i.discogs.com/zA4b6mIW85DFD22vTjFw6wu48ZUKF3b0WsX_BDCH148/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDY1/NjgzLTE2MTcwMzU0/NTUtOTgxMy5qcGVn.jpeg) | 2019-10-18 | Cacola | The Angel, The Demon |
 | 98 | ![Cover](https://i.discogs.com/YVrKlMoCT3cFXAX6pmciSA6VcwWWzLE6nh6TosyQjuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjYw/Njc5LTE1NzIyNjY3/NDQtNzgxNS5qcGVn.jpeg) | 2019-10-18 | Floating Points | Crush |
 | 31 | ![Cover](https://i.discogs.com/TbmjGCtXQbaOjJt85HWDhvcjkuyhfoXMkJBHhCOoNus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODgy/OTQwLTE1ODM0MTQ1/NDktMjk0Mi5qcGVn.jpeg) | 2020-03 | Die Wilde Jagd | Haut |
-| 1 | ![Cover](https://i.discogs.com/f2LIwRAfjgPFB4BrQegPJQzAsxPyuqWXJiovwBoa41g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ1/MjA0LTE1ODQ1Mjg1/MTgtOTIzNC5qcGVn.jpeg) | 2020-03-17 | Dj Lostboi | THE BLUE STALLION |
 | 67 | ![Cover](https://i.discogs.com/LPw8WY18kRoN7M5vWaj7f1I-JJsJtctJA0ptvVeGA6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjE3/NDkwLTE2NzgwNjA0/NDAtNzY0OC5qcGVn.jpeg) | 2020-06-22 | Squid | Swing (In A Dream) |
 | 53 | ![Cover](https://i.discogs.com/H2HMpraQUcdlLRjuEz2xRpCxNEp7HISHUJdHLbLU8uY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODk2/Mjc0LTE2OTk4MjAw/MjctOTE5My5qcGVn.jpeg) | 2020-06-26 | Squid | Sludge &#x2F; Broadcaster |
 | 20 | ![Cover](https://i.discogs.com/JUWoiuuKnD7Was0jkPFVlQbBNijawsIIp3K0WSCB7vQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjQy/NTYzLTE2MDkwMTU3/MjQtODk4OC5qcGVn.jpeg) | 2020-07-10 | Joe Wong | The Midnight Gospel (Music from the Netflix Original Series) |

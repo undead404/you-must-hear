@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-26T17:40:50.143Z
+date: 2025-10-28T04:09:30.429Z
 permalink: tags/rappeuse
 title: rappeuse
 ---
 
 ## rappeuse
 
-Last updated: <time datetime="2025-10-26T17:40:50.143Z">Sun Oct 26 2025 19:40:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T04:09:30.429Z">Tue Oct 28 2025 06:09:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -33,7 +33,7 @@ Last updated: <time datetime="2025-10-26T17:40:50.143Z">Sun Oct 26 2025 19:40:50
 | 67 | ![Cover](https://i.discogs.com/FCtrc6VXuWp6SVpZJbamsGNytZi1KOG9UGTNu07dVms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTY2/NzUtMTQ0ODk1NzA4/MC00MjAyLmpwZWc.jpeg) | 2003 | Leys | Sommet |
 | 82 | ![Cover](https://i.discogs.com/TCwU3X1jHu12pts7g_lnW1wpwDmlrIzxJSoUXHbyVkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk4/OTktMTE5NzA0ODE0/OS5qcGVn.jpeg) | 2003 | Leys | Seule |
 | 90 |  | 2006-03-28 | Casey | Ennemi De L&#39;ordre |
-| 5 | ![Cover](https://i.discogs.com/KeLf64IRpzY43onrnDer6v8sdDcIRUwhyhS8j-FE1eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEw/NTAzLTE3MjkwMTU2/NzYtOTQ5Mi5wbmc.jpeg) | 2008 | George Ka | Garçon manqué, fille manquante - Single |
+| 4 | ![Cover](https://i.discogs.com/KeLf64IRpzY43onrnDer6v8sdDcIRUwhyhS8j-FE1eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEw/NTAzLTE3MjkwMTU2/NzYtOTQ5Mi5wbmc.jpeg) | 2008 | George Ka | Garçon manqué, fille manquante - Single |
 | 34 | ![Cover](https://i.discogs.com/KeLf64IRpzY43onrnDer6v8sdDcIRUwhyhS8j-FE1eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEw/NTAzLTE3MjkwMTU2/NzYtOTQ5Mi5wbmc.jpeg) | 2008 | George Ka | Jolies personnes - Single |
 | 39 | ![Cover](https://i.discogs.com/KeLf64IRpzY43onrnDer6v8sdDcIRUwhyhS8j-FE1eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEw/NTAzLTE3MjkwMTU2/NzYtOTQ5Mi5wbmc.jpeg) | 2008 | George Ka | Par avance - EP |
 | 83 | ![Cover](https://i.discogs.com/KeLf64IRpzY43onrnDer6v8sdDcIRUwhyhS8j-FE1eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDEw/NTAzLTE3MjkwMTU2/NzYtOTQ5Mi5wbmc.jpeg) | 2008 | George Ka | Garçon manqué, fille manquante |
@@ -55,9 +55,10 @@ Last updated: <time datetime="2025-10-26T17:40:50.143Z">Sun Oct 26 2025 19:40:50
 | 28 | ![Cover](https://i.discogs.com/Nr1Fz9kwPrsyDByvkOEX1kUowIYVuGU2eKMul34bCmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAz/NDgtMTQ4OTYwMjkw/NC05NTgxLmpwZWc.jpeg) | 2013-12-10 | Doria | Calcul - Single |
 | 31 | ![Cover](https://i.discogs.com/Nr1Fz9kwPrsyDByvkOEX1kUowIYVuGU2eKMul34bCmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAz/NDgtMTQ4OTYwMjkw/NC05NTgxLmpwZWc.jpeg) | 2013-12-10 | Doria | On prend tout - Single |
 | 3 | ![Cover](https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg) | 2016-01 | Doria | MDP 1 - Single |
-| 4 | ![Cover](https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg) | 2016-01 | Doria | Leçon - Single |
-| 12 | ![Cover](https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg) | 2016-01 | Doria | Mission - Single |
-| 13 | ![Cover](https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg) | 2016-01 | Doria | 96 - Single |
+| 5 | ![Cover](https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg) | 2016-01 | Doria | Leçon - Single |
+| 12 | ![Cover](https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg) | 2016-01 | Doria | 96 - Single |
+| 13 | ![Cover](https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg) | 2016-01 | Doria | Mission - Single |
+| 24 | ![Cover](https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg) | 2016-01 | Doria | MDP 2 - EP |
 | 30 | ![Cover](https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg) | 2016-01 | Doria | DGT - Single |
 | 35 | ![Cover](https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg) | 2016-01 | Doria | Tempo - Single |
 | 38 | ![Cover](https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg) | 2016-01 | Doria | Oh Boy - Single |
@@ -72,10 +73,9 @@ Last updated: <time datetime="2025-10-26T17:40:50.143Z">Sun Oct 26 2025 19:40:50
 | 49 | ![Cover](https://i.discogs.com/seAXzWty8NrE6UGbo4mva4ZSFXBCbeoaIDSQCQnf5Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ0/NzExLTE2MjgxMjM5/NzctMzE2NC5qcGVn.jpeg) | 2019-09-25 | Cœur | Mi Amor |
 | 51 | ![Cover](https://i.discogs.com/seAXzWty8NrE6UGbo4mva4ZSFXBCbeoaIDSQCQnf5Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ0/NzExLTE2MjgxMjM5/NzctMzE2NC5qcGVn.jpeg) | 2019-09-25 | Cœur | Docteur Dlamour |
 | 59 | ![Cover](https://i.discogs.com/seAXzWty8NrE6UGbo4mva4ZSFXBCbeoaIDSQCQnf5Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ0/NzExLTE2MjgxMjM5/NzctMzE2NC5qcGVn.jpeg) | 2019-09-25 | Cœur | Bébédamour |
+| 1 | ![Cover](https://i.discogs.com/cQjfkSKlJQtQK_L_VwvK6sTQMK7oxUXe9XuHLk2Za4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjEx/ODA3LTE2Mzg1Mzk3/NjgtODQwOS5qcGVn.jpeg) | 2020-12-10 | Cœur | Dimanche [Explicit] |
 | 6 | ![Cover](https://i.discogs.com/dXNXhAQhO1FuwByUlCFHqSGa5BlI4Lb8p4dW-GLhRcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ0/Nzc3LTE2MjgxMjQ2/MjQtMTk0Mi5qcGVn.jpeg) | 2021-04-23 | Cœur | Verrouillé - Single |
 | 15 | ![Cover](https://i.discogs.com/dXNXhAQhO1FuwByUlCFHqSGa5BlI4Lb8p4dW-GLhRcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ0/Nzc3LTE2MjgxMjQ2/MjQtMTk0Mi5qcGVn.jpeg) | 2021-04-23 | Cœur | Bébéfleur - Single |
-| 16 |  |  | Toallita | Jamais - Single |
-| 24 | ![Cover](https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg) | 2016-01 | Doria | MDP 2 - EP |
 | 17 | ![Cover](https://i.discogs.com/leDeeyanAPFVYmgzXZigCui658v0gAPu1WC6cLsNrdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDMy/MjU5LTE2MzY0NzI4/OTEtMzY5NS5qcGVn.jpeg) | 2021-04-23 | Cœur | Mi Amor - Single |
 | 53 | ![Cover](https://i.discogs.com/leDeeyanAPFVYmgzXZigCui658v0gAPu1WC6cLsNrdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDMy/MjU5LTE2MzY0NzI4/OTEtMzY5NS5qcGVn.jpeg) | 2021-04-23 | Cœur | Chrysanthème |
 | 56 | ![Cover](https://i.discogs.com/mYDaNqGad_u0_eQKM1QUPO1_TV88fHISb3jv7nqrVd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjUx/OTA3LTE2NTI5NTgw/MDEtNjA5OC5qcGVn.jpeg) | 2021-12-17 | Danitsa | Let Go - Single |
@@ -83,11 +83,6 @@ Last updated: <time datetime="2025-10-26T17:40:50.143Z">Sun Oct 26 2025 19:40:50
 | 26 |  |  | Toallita | Killi - Single |
 | 41 | ![Cover](https://i.discogs.com/O6FvpPFrGu5Dan3UNk25u0YRKbwKnZAZ-UvAjGI2Nvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY3/ODU4LTE1MzE3ODY0/MjctNzY3OS5qcGVn.jpeg) | 2021-04-23 | Cœur | Kawaii karma |
 | 32 | ![Cover](https://i.discogs.com/Ws84yP7ZgMWYXaCYb6YNYFNAkB_Pu8GDIdGXM-G1RUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ4/MjQ0LTE2NjIxMDAz/MTUtOTE3Ni5qcGVn.jpeg) | 2023-01-23 | Yoa | chanson triste - Single |
-| 42 |  |  | Uzi Freyja | Stand - EP |
-| 47 | ![Cover](https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg) | 2016-01 | Doria | VRRR - Single |
-| 48 | ![Cover](https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg) | 2016-01 | Doria | MDP - EP |
-| 43 | ![Cover](https://i.discogs.com/dXNXhAQhO1FuwByUlCFHqSGa5BlI4Lb8p4dW-GLhRcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ0/Nzc3LTE2MjgxMjQ2/MjQtMTk0Mi5qcGVn.jpeg) | 2021-04-23 | Cœur | Verrouillé |
-| 50 |  |  | Toallita | Jamais |
 | 60 |  |  | Toallita | Killi |
 | 74 | ![Cover](https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg) | 2016-01 | Doria | 96 |
 | 75 | ![Cover](https://i.discogs.com/YIDgd-vAoOj0wPp_KQ-zpE_p-sJx72qjUZRBC1HbGE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/NzIzLTE0OTA0NzU4/NzEtNTQyOS5qcGVn.jpeg) | 2016-01 | Doria | On prend tout |
@@ -102,8 +97,14 @@ Last updated: <time datetime="2025-10-26T17:40:50.143Z">Sun Oct 26 2025 19:40:50
 | 98 | ![Cover](https://i.discogs.com/yTWbaZWb-L-idiVGkZ_uBJqf_Y2NPNtAnt9Mwn-_-HA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTYy/Mzg2LTE2NjY4NzU3/NzMtMjkwOC5wbmc.jpeg) | 2022-10-21 | Chilla | EGO |
 | 99 | ![Cover](https://i.discogs.com/Ws84yP7ZgMWYXaCYb6YNYFNAkB_Pu8GDIdGXM-G1RUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ4/MjQ0LTE2NjIxMDAz/MTUtOTE3Ni5qcGVn.jpeg) | 2023-01-23 | Yoa | Chansons tristes |
 | 100 | ![Cover](https://i.discogs.com/Ws84yP7ZgMWYXaCYb6YNYFNAkB_Pu8GDIdGXM-G1RUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ4/MjQ0LTE2NjIxMDAz/MTUtOTE3Ni5qcGVn.jpeg) | 2023-01-23 | Yoa | chanson triste |
-| 1 | ![Cover](https://i.discogs.com/O6FvpPFrGu5Dan3UNk25u0YRKbwKnZAZ-UvAjGI2Nvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY3/ODU4LTE1MzE3ODY0/MjctNzY3OS5qcGVn.jpeg) | 2024 | Cœur | Aout [Explicit] |
 | 18 | ![Cover](https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg) | 2024 | Leys | Bad Gyal - Single |
+| 7 | ![Cover](https://i.discogs.com/7632oLXKo1R-6_lXbw-NBJgvIin5XqZ6ZsR5lUNClOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTc5/OTk4LTE2MzQxNTc5/NDMtMzUzOC5qcGVn.jpeg) | 2024-06-14 | Yoa | maddy &lt;3 - Single |
+| 16 |  |  | Toallita | Jamais - Single |
+| 42 |  |  | Uzi Freyja | Stand - EP |
+| 47 | ![Cover](https://i.discogs.com/1gnfal56q8qtXAH3UYlmVsOZ9wHYNoonpSJg_nToWt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQ5/MzA1LTE2MTAyMDU0/NzMtNDMxNy5qcGVn.jpeg) | 2016-01 | Doria | VRRR - Single |
+| 48 | ![Cover](https://i.discogs.com/Kbk6vhgPzbEvLmJsCGm6Ee1OSkQ09wrw_v8KDCT9XY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODAy/NjQtMTQ4OTYwMTgy/Mi0xOTYxLmpwZWc.jpeg) | 2016-01 | Doria | MDP - EP |
+| 43 | ![Cover](https://i.discogs.com/dXNXhAQhO1FuwByUlCFHqSGa5BlI4Lb8p4dW-GLhRcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ0/Nzc3LTE2MjgxMjQ2/MjQtMTk0Mi5qcGVn.jpeg) | 2021-04-23 | Cœur | Verrouillé |
+| 50 |  |  | Toallita | Jamais |
 | 29 | ![Cover](https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg) | 2024 | Leys | Sommet - Single |
 | 37 | ![Cover](https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg) | 2024 | Leys | Seule - Single |
 | 40 | ![Cover](https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg) | 2024 | Leys | Codes - Single |
@@ -111,7 +112,6 @@ Last updated: <time datetime="2025-10-26T17:40:50.143Z">Sun Oct 26 2025 19:40:50
 | 65 | ![Cover](https://i.discogs.com/TCwU3X1jHu12pts7g_lnW1wpwDmlrIzxJSoUXHbyVkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk4/OTktMTE5NzA0ODE0/OS5qcGVn.jpeg) | 2024 | Leys | Makelele |
 | 77 | ![Cover](https://i.discogs.com/06sTkiQogBnql5Ya3drTPDv_dG4Zc-ofqdlmaUQmZ44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTA1/MDctMTU4NzIxNDg5/My0xNTg4LmpwZWc.jpeg) | 2024 | Leys | Bad Gyal |
 | 87 | ![Cover](https://i.discogs.com/FCtrc6VXuWp6SVpZJbamsGNytZi1KOG9UGTNu07dVms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTY2/NzUtMTQ0ODk1NzA4/MC00MjAyLmpwZWc.jpeg) | 2024 | Leys | Codes |
-| 7 | ![Cover](https://i.discogs.com/7632oLXKo1R-6_lXbw-NBJgvIin5XqZ6ZsR5lUNClOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTc5/OTk4LTE2MzQxNTc5/NDMtMzUzOC5qcGVn.jpeg) | 2024-06-14 | Yoa | maddy &lt;3 - Single |
 | 97 | ![Cover](https://i.discogs.com/7632oLXKo1R-6_lXbw-NBJgvIin5XqZ6ZsR5lUNClOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTc5/OTk4LTE2MzQxNTc5/NDMtMzUzOC5qcGVn.jpeg) | 2024-06-14 | Yoa | maddy &lt;3 |
 
 ### Related genres
