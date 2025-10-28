@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-27T22:01:06.618Z
+date: 2025-10-27T22:01:18.826Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-27T22:01:06.618Z">Tue Oct 28 2025 00:01:06 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-27T22:01:18.826Z">Tue Oct 28 2025 00:01:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [ukraine]({{ "tags/ukraine" | relative_url }}) | <time datetime="2025-10-27T22:01:18.826Z">Tue Oct 28 2025 00:01:18 GMT+0200 (Eastern European Standard Time)</time> |
 | [english folk]({{ "tags/english-folk" | relative_url }}) | <time datetime="2025-10-27T22:01:06.618Z">Tue Oct 28 2025 00:01:06 GMT+0200 (Eastern European Standard Time)</time> |
 | [tribal ambient]({{ "tags/tribal-ambient" | relative_url }}) | <time datetime="2025-10-27T21:13:18.509Z">Mon Oct 27 2025 23:13:18 GMT+0200 (Eastern European Standard Time)</time> |
 | [melodic metal]({{ "tags/melodic-metal" | relative_url }}) | <time datetime="2025-10-27T21:10:20.106Z">Mon Oct 27 2025 23:10:20 GMT+0200 (Eastern European Standard Time)</time> |
@@ -103,7 +104,6 @@ Last updated: <time datetime="2025-10-27T22:01:06.618Z">Tue Oct 28 2025 00:01:06
 | [ambient pop]({{ "tags/ambient-pop" | relative_url }}) | <time datetime="2025-10-26T14:07:36.446Z">Sun Oct 26 2025 16:07:36 GMT+0200 (Eastern European Standard Time)</time> |
 | [glitch pop]({{ "tags/glitch-pop" | relative_url }}) | <time datetime="2025-10-26T13:09:14.905Z">Sun Oct 26 2025 15:09:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [norwegian]({{ "tags/norwegian" | relative_url }}) | <time datetime="2025-10-26T13:08:33.150Z">Sun Oct 26 2025 15:08:33 GMT+0200 (Eastern European Standard Time)</time> |
-| [ukraine]({{ "tags/ukraine" | relative_url }}) | <time datetime="2025-10-26T13:05:59.559Z">Sun Oct 26 2025 15:05:59 GMT+0200 (Eastern European Standard Time)</time> |
 | [alternative country]({{ "tags/alternative-country" | relative_url }}) | <time datetime="2025-10-26T11:46:25.257Z">Sun Oct 26 2025 13:46:25 GMT+0200 (Eastern European Standard Time)</time> |
 | [twee pop]({{ "tags/twee-pop" | relative_url }}) | <time datetime="2025-10-26T11:09:13.834Z">Sun Oct 26 2025 13:09:13 GMT+0200 (Eastern European Standard Time)</time> |
 | [acoustic rock]({{ "tags/acoustic-rock" | relative_url }}) | <time datetime="2025-10-26T10:52:29.709Z">Sun Oct 26 2025 12:52:29 GMT+0200 (Eastern European Standard Time)</time> |
