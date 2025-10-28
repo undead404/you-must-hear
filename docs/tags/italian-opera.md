@@ -1,24 +1,27 @@
 ---
 category: genre
-date: 2025-10-26T16:56:19.127Z
+date: 2025-10-28T02:01:57.761Z
 permalink: tags/italian-opera
 title: italian opera
 ---
 
 ## italian opera
 
-Last updated: <time datetime="2025-10-26T16:56:19.127Z">Sun Oct 26 2025 18:56:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T02:01:57.761Z">Tue Oct 28 2025 04:01:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
 | 1 |  |  | Orchestra &amp; Coro della RTSI | Rossini: La Gazzetta |
-| 8 |  |  | Orchestra e Coro dell&#39; E.A.R.  Teatro Bellini | Bellini: Adelson &amp; Salvini |
+| 2 |  |  | Orchestra e Coro del Teatro Regio di Torino | Verdi: I Due Foscari |
+| 5 |  |  | Orchestra e Coro dell&#39; E.A.R.  Teatro Bellini | Bellini: Adelson &amp; Salvini |
+| 7 |  |  | Young Ok Shin, Gregory Kunde, Aurio Tomicich, Haijing Fu, Armando Caforio, Sonia Nigoghossian, Walter Coppola, Emily Manhart, Orchestra del Teatro Massimo Bellini Di Catania, Coro del Teatro Massimo Bellini Di Catania, Marcello Seminara, Andrea Licata | Bellini: Bianca &amp; Fernando |
 | 12 |  |  | Bertil Alstergard | VERDI: Rigoletto |
 | 13 |  |  | Orchestra e Coro del Teatro Felice di Genova | Rossini: Le siége de Corinthe |
 | 15 |  |  | Tullio Serafin&#x2F;Maria Callas&#x2F;Coro e Orchestra del Teatro alla Scala, Milano | The Legend |
 | 16 |  |  | Ruggero Leoncavallo | Leoncavallo, R.: Boheme (La) [Opera] |
+| 35 | ![Cover](https://i.discogs.com/CeIFu4Ez6uK0dxHL0D_JbxsJXBoLX3dK_r6vZSFYs6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODUx/Mjg4LTE1OTg5NjUz/MTktODQ5NC5qcGVn.jpeg) | 1958 | Victoria De Los Angeles | Verdi: La Traviata |
 | 18 | ![Cover](https://i.discogs.com/qcSI39_wqxXVZZS0TOVxmxgoOKJekrHdtkDogIN-_d8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzcw/MTktMTQ3NTQxNDcz/NC0yOTMzLmpwZWc.jpeg) | 1961-09 | Gioacchino Rossini | O Barbeiro de Sevilha (1 |
 | 19 |  |  | Orchestra E Coro Del Teatro Massimo &quot;Bellini&quot; | Bellini: Zaira |
 | 21 |  |  | Maria Callas&#x2F;Mario Filippeschi&#x2F;Ebe Stignani&#x2F;Nicola Rossi-Lemeni&#x2F;Paolo Caroli&#x2F;Rina Cavallari&#x2F;Coro E O | Bellini:norma |
@@ -38,10 +41,8 @@ Last updated: <time datetime="2025-10-26T16:56:19.127Z">Sun Oct 26 2025 18:56:19
 | 88 | ![Cover](https://i.discogs.com/CXdWyo7qQev6Q5cgAbOT71h2EJNnYLOaXfAZx-5OeUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTc5/NjQtMTQxMzUwNDkw/Mi05OTYzLmpwZWc.jpeg) | 1952 | Gioacchino Rossini | Il Barbiere de Siviglia (highlights) |
 | 67 | ![Cover](https://i.discogs.com/eN-NmgXEum37M9pUAWuCvn37m4FgUnQHeZ-HnbP00g8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQ3/MzM0LTE1OTcwNTAx/NDgtMzIwNi5qcGVn.jpeg) | 1953 | Gaetano Donizetti | Lucia Di Lammermoor |
 | 54 | ![Cover](https://i.discogs.com/qcSI39_wqxXVZZS0TOVxmxgoOKJekrHdtkDogIN-_d8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzcw/MTktMTQ3NTQxNDcz/NC0yOTMzLmpwZWc.jpeg) | 1955 | Gioacchino Rossini | Opera Explained: ROSSINI - The Barber of Seville (Smillie) |
-| 35 | ![Cover](https://i.discogs.com/CeIFu4Ez6uK0dxHL0D_JbxsJXBoLX3dK_r6vZSFYs6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODUx/Mjg4LTE1OTg5NjUz/MTktODQ5NC5qcGVn.jpeg) | 1958 | Victoria De Los Angeles | Verdi: La Traviata |
 | 71 | ![Cover](https://i.discogs.com/bQ8NYvU2F66GW8d574vcqGGv-7QXjdBEyjNn4Etk_lc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQ2/OTI1LTE2MTM5Nzk0/MDgtMzAzNC5qcGVn.jpeg) | 1960 | Renata Tebaldi | Vissi d&#39;arte… |
 | 83 | ![Cover](https://i.discogs.com/V-p1M8ERDgZmw4prEBqww4XYkCUXFXzFEjtPqk6I6Ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQ0/MjA1LTE1NDUwNTIz/MDEtMzk4NC5qcGVn.jpeg) | 1961 | Giuseppe Verdi | VERDI: Don Carlos (Christoff, Filippeschi, Gobbi) (1954) |
-| 4 |  | 1963 | Luigi Alva | ROSSINI: Barbiere de Siviglia (Il) (Callas, Gobbi) (1956) |
 | 53 | ![Cover](https://i.discogs.com/sQ1_Hr933R4noOl9cHjZv8Xt5C3fZvQjg_pd756pjjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjE1/NjQtMTQyODMwOTg0/MS03NTk0LmpwZWc.jpeg) | 1963 | Maria Callas | Callas : Verdi AIDA |
 | 91 | ![Cover](https://i.discogs.com/1Uye0x2wROOUgSzDD--6XG9Z32kb7REkVZ_zwMO5odo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjYy/MTQtMTQ3MDQ0MzA2/NS04MTQ4LmpwZWc.jpeg) | 1963 | Giacomo Puccini | La Boheme |
 | 68 | ![Cover](https://i.discogs.com/UeLnvXltTlCkcYa4l8ufzf_XNQFyVUxEeJcLwNKnnZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODc3/OTM0LTE1MDU4MTI5/MTAtOTg5Ny5qcGVn.jpeg) | 1964 | Giacomo Puccini | Madama Butterfly - Disc 2, Rome Opera House 1957 |
@@ -74,7 +75,7 @@ Last updated: <time datetime="2025-10-26T16:56:19.127Z">Sun Oct 26 2025 18:56:19
 | 65 | ![Cover](https://i.discogs.com/yWyO4le9pJkuK4FJ_L-7UH8v2Yik1KSyAl1q-nqdCpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ2/NDIzLTE1MTY0ODAx/MDMtMzY1Ni5qcGVn.jpeg) | 1989 | Giuseppe Verdi | Verdi: Luisa Miller |
 | 74 | ![Cover](https://i.discogs.com/8-fx_RelQ2Thjzgc2-NBy8RjgWoDJ-o_SyWKPRLEbQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI4/NDQ1LTE1NDI3MzYy/MjctOTE0MC5qcGVn.jpeg) | 1989 | Giuseppe Verdi | Verdi 101 |
 | 98 | ![Cover](https://i.discogs.com/o1125UzS5BMjh5So8rbpEruhyDEakaoiFxKw_QLZx_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/MDg1LTE2MjA5MjE5/MzQtODg4My5qcGVn.jpeg) | 1989 | Mario del Monaco | My First Concert |
-| 5 |  | 1990 | Orchestra &amp; Coro del Teatro La Fenice di Venezia | Leoncavallo: La Boheme |
+| 6 |  | 1990 | Arturo Toscanini | Verdi:Otello |
 | 17 | ![Cover](https://i.discogs.com/Lo74nCambUOMBRE4HrsNqTkJTkU0wQswADDsF0HU2eE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjE0/ODczLTE2Mzg1NTM1/MjMtNDM4Mi5qcGVn.jpeg) | 1990 | Orchestra Internazionale d&#39; Italia | Puccini: Le Villi |
 | 59 | ![Cover](https://i.discogs.com/7OKmftoknpWL9YA7aVtQzaF0eNY48cgmXoPnBTaPUlQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/MDI3LTE1NDI0MDQ1/ODctNTIyOC5qcGVn.jpeg) | 1990 | Enrico Caruso | Enrico Caruso: Greatest Opera Recordings 1902 - 1920 |
 | 79 | ![Cover](https://i.discogs.com/BcKxF7D7pj93_mFY5cW9hAiByExt9AsYtvDKzP4AfQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTE3/MzUyLTE0OTE5MTc3/NDQtMzEyNy5qcGVn.jpeg) | 1990 | Giacomo Puccini | PUCCINI: Gianni Schicchi |
@@ -82,9 +83,9 @@ Last updated: <time datetime="2025-10-26T16:56:19.127Z">Sun Oct 26 2025 18:56:19
 | 11 | ![Cover](https://i.discogs.com/ZdcQDmbWmqM50XlmYc_U8W6svEZhczsLCAEm5dNpAJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc1/NjYzLTE1NTExOTkx/MTYtNjAzNy5qcGVn.jpeg) | 1992 | Ezio Di Cesare &#x2F; Denia Mazzola &#x2F; Luciana D&#39;Intino &#x2F; Nicoletta Ciliento | Rossini: Aureliano In Palmira |
 | 89 | ![Cover](https://i.discogs.com/UaPGWw8l1rMuT_5VdEavrusy5huJA_5kU2SygXHOT4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE2/MTA5LTE2MTU4NDQz/MzAtMzU3My5qcGVn.jpeg) | 1993 | Gioacchino Rossini | Rossini: Overtures |
 | 96 | ![Cover](https://i.discogs.com/fuFShb1ncdiUpd6ni4qkwV67-x_C1rGr0-FTXoagm2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDA0/MTA5LTE2NDY1NTE5/MzUtMzI2OS5qcGVn.jpeg) | 1993 | Ruggiero Leoncavallo | Pagliacci |
-| 2 |  | 1994 | Fausto Tenzi &#x2F; Roberto Negri | Leoncavallo: 19 Arie Inedite |
+| 3 |  | 1994 | Fausto Tenzi &#x2F; Roberto Negri | Leoncavallo: 19 Arie Inedite |
 | 86 |  | 1994-01-01 | Riccardo Muti | Verdi: Aida |
-| 6 |  | 1995 | John Eliot Gardiner &amp; The English Baroque Soloists | Monteverdi: L&#39;incoronazione di Poppea |
+| 4 |  | 1995 | John Eliot Gardiner &amp; The English Baroque Soloists | Monteverdi: L&#39;incoronazione di Poppea |
 | 10 | ![Cover](https://i.discogs.com/e4lB6dfCRacZ25s0VfOJlQ-4QtVt0SCf_lXohL1YP0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM5/NDktMTY2ODg5ODEz/Mi04NDI3LmpwZWc.jpeg) | 1996 | Orchestra &amp; Coro Del Teatro Regio Di Torino | Rossini: Il Barbiere Di Siviglia |
 | 38 | ![Cover](https://i.discogs.com/MzaJvXUfhr6_6Po4NWZq3sAY3e7tFt_QAsh2PjLiIXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTE1/MzUtMTQ2NTExNDky/MC00MjU5LmpwZWc.jpeg) | 1996 | Giacomo Puccini | PUCCINI: Manon Lescaut (Highlights) |
 | 40 | ![Cover](https://i.discogs.com/QEqd6lVC1k60HgjOxesHBo5GuqCbUwb4U3pr9ey_EjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg3/MzAxLTE1OTQwOTgy/NTEtNzkxMy5qcGVn.jpeg) | 1996 | Amilcare Ponchielli | PONCHIELLI: La Gioconda (Callas) (1952) |
@@ -108,8 +109,7 @@ Last updated: <time datetime="2025-10-26T16:56:19.127Z">Sun Oct 26 2025 18:56:19
 | 37 | ![Cover](https://i.discogs.com/IiCSzveVN5oZjseRK2o2Pd8Dw-lql6ss6tYj_NKGzzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Mjg2/NTAtMTQ0NTE2MzU1/OS0yODg5LmpwZWc.jpeg) | 2013 | Vincenzo Bellini | Bellini, V.: Bianca E Fernando [Opera] |
 | 80 | ![Cover](https://i.discogs.com/_M1hbGYfNppG35H6Cu6yTvTMtkUaijf_BBe3N54i1Dg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA3/NzAwLTE1MTM5Mzkz/MTEtNjA5My5qcGVn.jpeg) | 2014 | Francesco Cavalli | CAVALLI: Gli amori d&#39;Apollo e di Dafne |
 | 25 |  | 2016 | Joan Sutherland | Joan Sutherland - The Art of the Prima Donna |
-| 3 |  | 2018 | Gioachino Rossini | Rossini, G.: The Barber of Seville [Opera] |
-| 7 | ![Cover](https://i.discogs.com/qjIA6aYm6z08xtvOlkUQnuWeD8cdmHSCpt9qFIr2Vm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/MjkwLTE1OTg3MDkz/NzUtMjg4Ny5qcGVn.jpeg) | 2018 | Gioachino Rossini | Rossini, G.: Aureliano in Palmira |
+| 8 | ![Cover](https://i.discogs.com/qjIA6aYm6z08xtvOlkUQnuWeD8cdmHSCpt9qFIr2Vm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/MjkwLTE1OTg3MDkz/NzUtMjg4Ny5qcGVn.jpeg) | 2018 | Gioachino Rossini | Rossini, G.: Aureliano in Palmira |
 | 29 | ![Cover](https://i.discogs.com/qjIA6aYm6z08xtvOlkUQnuWeD8cdmHSCpt9qFIr2Vm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/MjkwLTE1OTg3MDkz/NzUtMjg4Ny5qcGVn.jpeg) | 2018 | Gioachino Rossini | Rossini, G.: Italian Girl in Algiers (The) (L&#39;Italiana in Algeri) [Opera] (Highlights) (Sung in English) |
 | 31 | ![Cover](https://i.discogs.com/qjIA6aYm6z08xtvOlkUQnuWeD8cdmHSCpt9qFIr2Vm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/MjkwLTE1OTg3MDkz/NzUtMjg4Ny5qcGVn.jpeg) | 2018 | Gioachino Rossini | Plácido Domingo - The Opera Collection |
 | 43 | ![Cover](https://i.discogs.com/qjIA6aYm6z08xtvOlkUQnuWeD8cdmHSCpt9qFIr2Vm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/MjkwLTE1OTg3MDkz/NzUtMjg4Ny5qcGVn.jpeg) | 2018 | Gioachino Rossini | Rossini: Bianca E Falliero |
