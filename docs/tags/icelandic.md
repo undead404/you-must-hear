@@ -1,13 +1,17 @@
 ---
 category: genre
-date: 2025-10-21T04:52:56.657Z
+date: 2025-10-28T13:38:15.057Z
 permalink: tags/icelandic
 title: icelandic
 ---
 
 ## icelandic
 
-Last updated: <time datetime="2025-10-21T04:52:56.657Z">Tue Oct 21 2025 07:52:56 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T13:38:15.057Z">Tue Oct 28 2025 15:38:15 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Icelandic music refers to the music created and performed by artists from Iceland or who have Icelandic roots. Iceland has a diverse music scene that encompasses a range of genres, including rock, pop, electronic, classical, and folk music. Icelandic music has gained international recognition in recent years, thanks in part to the success of artists like Björk, Sigur Rós, and Of Monsters and Men. Icelandic music often features haunting melodies, complex harmonies, and unconventional song structures, and is known for its otherworldly and ethereal sound.
 
 ### 100 chronological releases
 
@@ -19,7 +23,8 @@ Last updated: <time datetime="2025-10-21T04:52:56.657Z">Tue Oct 21 2025 07:52:56
 | 32 | ![Cover](https://i.discogs.com/_BTEex1i5MuuihH4zWEolpTjQcdenE9nYFd7t6GOcOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDA3/NDctMTQ2MDc1Nzc0/MS03OTQ3LnBuZw.jpeg) | 1995 | Emiliana Torrini | Crouie d&#39;o l |
 | 79 | ![Cover](https://i.discogs.com/MQQm2zFGJ7sYRKLTUulzNLVir7tsUQPIGStyMvMV1ws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzI0/LTEyMzIzMjI3NTUu/anBlZw.jpeg) | 1995-06-09 | Björk | Post |
 | 77 | ![Cover](https://i.discogs.com/oaHcIjxbCSOwSiPspO_4kVwJ2blbhpIwUpZOpE6fNFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLXJfMTIy/NTkzLTAwMS5qcGc.jpeg) | 1997 | Sigur Rós | Von |
-| 5 |  | 1997-09-20 | Björk | Homogenic |
+| 4 |  | 1997-09-20 | Björk | Homogenic |
+| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c6269b08eea7dc143fe93752435592bc.png) | 1998 | Bang Gang | You |
 | 57 |  | 1998 | Sigur Rós | Von Brigði |
 | 65 | ![Cover](https://i.discogs.com/_9UJjrxxGpNVr-MMpwL6j2qiNQDsd0wwKYrFBsCLOxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ0/NDMtMTU0MDU4MzA1/NC0yOTcwLmpwZWc.jpeg) | 1999 | Amina | AnimaminA |
 | 97 |  | 1999-06 | Sigur Rós | ágætis byrjun |
@@ -55,7 +60,7 @@ Last updated: <time datetime="2025-10-21T04:52:56.657Z">Tue Oct 21 2025 07:52:56
 | 11 |  | 2006 | Skúli Sverrisson | Sería |
 | 84 | ![Cover](https://i.discogs.com/6c7uZ63k5jCmoe03AWqAJziXeq6IrDFuqXbS2dEviaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzA2/OS0xMTUxOTg2MTQ4/LmpwZWc.jpeg) | 2006-04-19 | Sigur Rós | Sæglópur |
 | 89 | ![Cover](https://i.discogs.com/Yijz7w84XjjzsT1ke0qJlQ6Hp7klAwrg_Y8X3hcQyyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzkw/OC0xMTYzNTExOTA5/LmpwZWc.jpeg) | 2006-11-07 | Amiina | Seoul |
-| 4 | ![Cover](https://i.discogs.com/iZU3nefbYaJdPBEvUcnYi3vHatLQFWDPwJKgqou9itU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjI2/NDQtMTUzMTEzMTQx/My01OTg0LmpwZWc.jpeg) | 2006-12 | Svartidauði | The Temple of Deformation |
+| 3 | ![Cover](https://i.discogs.com/iZU3nefbYaJdPBEvUcnYi3vHatLQFWDPwJKgqou9itU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjI2/NDQtMTUzMTEzMTQx/My01OTg0LmpwZWc.jpeg) | 2006-12 | Svartidauði | The Temple of Deformation |
 | 38 | ![Cover](https://i.discogs.com/qrTGAvjKVxo36uWu2Gr9pKgZIT_LRuu-5Ak8Jtz8mu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzM3/Mi0xNTE2NTcwNjM3/LTU0MDUuanBlZw.jpeg) | 2006-12-04 | múm | The Peel Session |
 | 18 |  | 2007 | Mugison | Mugiboogie |
 | 76 | ![Cover](https://i.discogs.com/kpyVDMLRmE11NdhEfq3-z9hgGyaltUcgokPo2DxsBjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI5/MTgtMTUwOTM4NDc1/NC02NDg1LmpwZWc.jpeg) | 2007 | Seabear | The Ghost That Carried Us Away (Offical Morr Music Upload) |
@@ -84,11 +89,11 @@ Last updated: <time datetime="2025-10-21T04:52:56.657Z">Tue Oct 21 2025 07:52:56
 | 75 |  | 2011-09-02 | Sóley | We Sink |
 | 25 |  | 2011-09-06 | Árstíðir | Svefns og vöku skil |
 | 85 | ![Cover](https://i.discogs.com/erhSR6dwtrQQU3ByJP7C5_wJKJt9L6zscwMJCV_IFBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDE0/ODgtMTUwOTQ4NjMz/Ny0yOTUxLmpwZWc.jpeg) | 2011-09-20 | Of Monsters and Men | My Head Is an Animal |
-| 2 |  | 2011-09-29 | Mugison | Haglél |
+| 1 |  | 2011-09-29 | Mugison | Haglél |
 | 8 |  | 2011-10-14 | Sólstafir | Svartir Sandar |
 | 29 | ![Cover](https://i.discogs.com/5wW5_T1qkiwLbHn_VOHl-7pbv2yaisoAmfux1vzXvPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTg4/MjktMTY1NDgzODU5/OS0yMzMwLmpwZWc.jpeg) | 2011-11-08 | Ólöf Arnalds | Ólöf Sings |
 | 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/00cb0a9a65ee4076a7f099c237cfc57b.png) | 2011-12-20 | Of Monsters and Men | Into The Woods |
-| 6 |  | 2012-05-14 | Hildur Guðnadóttir | Leyfðu Ljósinu |
+| 5 |  | 2012-05-14 | Hildur Guðnadóttir | Leyfðu Ljósinu |
 | 70 | ![Cover](https://i.discogs.com/Oa43iw76eFneZXqiWiYxaSSsTAP0KqzRewBxxeE9Xqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDg5/MjEtMTM1MDIxODY5/OS00OTExLmpwZWc.jpeg) | 2012-09-21 | Kiasmos | Thrown |
 | 59 |  | 2013-01-18 | Pascal Pinon | Twosomeness |
 | 63 | ![Cover](https://i.discogs.com/686QVhhZ4Rs4mhqvVXzbRMiIU3dOnO0xbuOR-JPohbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzUw/MzMtMTM2MDQyMDkz/OC0yMDM5LmpwZWc.jpeg) | 2013-01-18 | Sin Fang | Flowers |
@@ -96,12 +101,11 @@ Last updated: <time datetime="2025-10-21T04:52:56.657Z">Tue Oct 21 2025 07:52:56
 | 14 | ![Cover](https://i.discogs.com/Lvu17kkoyHACks8WtFGWeosfdMLgE3OAnBVYweStznk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODUy/NTAtMTM4MDIxNjc0/OS01MDU0LmpwZWc.jpeg) | 2013-09-09 | Emiliana Torrini | Merman |
 | 69 |  | 2013-12-10 | Of Monsters and Men | Live From Vatnagarðar |
 | 72 |  | 2014-06-14 | GusGus | Mexico |
-| 7 | ![Cover](https://i.discogs.com/ZYsP-V6r9Pvu0T_2zg1Vvgax99OT-rPA6WzztKQIrlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODE1/MDItMTQwNjcyODI1/Mi01NzAwLmpwZWc.jpeg) | 2014-08-24 | Hildur Guðnadóttir | Saman |
-| 1 | ![Cover](https://i.discogs.com/sGeWkYZlVl6HGYbrLYDND93c2dvEfbKCPKkigyZh8P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTY3/OTctMTQxODY3NTI4/OC03MDQ1LmpwZWc.jpeg) | 2014-09-29 | Ólöf Arnalds | Palme |
+| 6 | ![Cover](https://i.discogs.com/ZYsP-V6r9Pvu0T_2zg1Vvgax99OT-rPA6WzztKQIrlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODE1/MDItMTQwNjcyODI1/Mi01NzAwLmpwZWc.jpeg) | 2014-08-24 | Hildur Guðnadóttir | Saman |
 | 98 |  | 2014-10-27 | Kiasmos | Kiasmos |
 | 66 | ![Cover](https://i.discogs.com/j1SYUU1jLpTFXeqtkSmx2uppF4xZG4E7vPID0-OtJdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY2/MTg2LTE2MDg2ODAw/ODktODM3NC5qcGVn.jpeg) | 2015-04-01 | Ólafur Arnalds | We Contain Multitudes (from home) |
 | 27 | ![Cover](https://i.discogs.com/6ncrfxG0-s1Kki5nUhfb7qmCJ77ljkPZojEPHr4aRJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTgw/ODYtMTQzMDQwNDEz/OS0yNDU1LmpwZWc.jpeg) | 2015-05-08 | Sóley | Ask the Deep |
-| 3 | ![Cover](https://i.discogs.com/UlguyZepW6_5QzPyuJohFYYz38TgwY7Z0Ys7sI2tmh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDE3/MDMtMTQ3MTEwNzY0/Ny0yMjA3LmpwZWc.jpeg) | 2016-08-19 | Pascal Pinon | S&#x2F;T |
+| 2 | ![Cover](https://i.discogs.com/UlguyZepW6_5QzPyuJohFYYz38TgwY7Z0Ys7sI2tmh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDE3/MDMtMTQ3MTEwNzY0/Ny0yMjA3LmpwZWc.jpeg) | 2016-08-19 | Pascal Pinon | S&#x2F;T |
 | 95 | ![Cover](https://i.discogs.com/kZU8xPLor5mEcJY40SU7-c78TWuQlxtbTyxRIWJhIYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTk3/OTItMTQ3MTA4MDUy/OC00OTU4LmpwZWc.jpeg) | 2016-10-28 | Ólafur Arnalds | Island Songs |
 | 19 | ![Cover](https://i.discogs.com/2XGYz6BRSfxaygLHrl6CqIbX9sa8ienVQpS_hwtj_5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTM5/OTItMTQ3OTEyOTc0/NC05OTc2LmpwZWc.jpeg) | 2016-11-25 | Amiina | Fantômas |
 | 30 |  | 2018-02-02 | mt. fujitive | ventures |
