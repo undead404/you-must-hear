@@ -1,65 +1,65 @@
 ---
 category: genre
-date: 2025-10-26T10:00:34.139Z
+date: 2025-10-27T19:00:46.766Z
 permalink: tags/zen
 title: zen
 ---
 
 ## zen
 
-Last updated: <time datetime="2025-10-26T10:00:34.139Z">Sun Oct 26 2025 12:00:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-27T19:00:46.766Z">Mon Oct 27 2025 21:00:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | Tu_tu | First |
-| 4 | ![Cover](https://i.discogs.com/m6eHunCZmShChFqYKgd76MYL8NDp2xvhXVhTGCA1ML4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzQ0/NTQxLTE2MjExMTQz/MjMtOTk0NS5qcGVn.jpeg) | 2015 | Zen Dub | Untitled Album |
-| 2 | ![Cover](https://i.discogs.com/Wh_m9tUfB76ZjqnbJzSgP5aEE0RLu5Jz2ce_z4eei0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzg1/NjQtMTQyNjQzOTA3/OC0zNjYyLmpwZWc.jpeg) | 2015-03-08 | Rodrigo Rodriguez | Music for Zen Meditation:Shakuhachi Japanese flute |
-| 3 | ![Cover](https://i.discogs.com/urR6tSlN1ly9MwiygJ4IEdMFXjjdFEDT6fUFHvJsJqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODM2/MDE1LTE2MTU3MTg3/OTEtMTQ4OS5qcGVn.jpeg) | 2015-03-09 | Zen Dub | Zen Dub - The Journey EP |
-| 5 |  |  | 5 minute dharma | 5 Minute Dharma Podcast |
-| 6 |  |  | Dadra &amp; Iivan | Untitled Album |
-| 7 |  |  | Dr. Eric Pearl | The Living Matrix: Science of Healing Conference |
-| 8 |  |  | ZENiVEX | Bass Trap EP |
+| 1 |  |  | The Xen Arcade | Al-Kimia |
+| 2 | ![Cover](https://i.discogs.com/urR6tSlN1ly9MwiygJ4IEdMFXjjdFEDT6fUFHvJsJqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODM2/MDE1LTE2MTU3MTg3/OTEtMTQ4OS5qcGVn.jpeg) | 2015-03-09 | Zen Dub | Zen Dub - The Journey EP |
+| 3 |  |  | Dadra &amp; Iivan | Untitled Album |
+| 5 |  | 2012-06-22 | Jon Brooks | Seventh Heaven - Single |
 | 9 |  |  | Dr. Eric Pearl | The Reconnection |
-| 25 | ![Cover](https://i.discogs.com/BQUtmSlLDdUmnMEzZLwMpq5S2x6Wr6qlroaG2ttHCDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDY2/MjUtMTM2NjgyMTA2/NS04OTIyLmpwZWc.jpeg) | 1994 | Devakant | Inside Is ... Forever |
-| 14 | ![Cover](https://i.discogs.com/cykh8fYhunKltNFllaWYmuilpsqRjU6sJdhi6BRxy20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTk0/Ny0xMTE2OTQwMDgx/LmpwZw.jpeg) | 1999-05-21 | Ash Kay | I Am |
-| 22 |  |  | Derek Acorah | Derek Acorah&#39;s Music Of Spirit And Tranquillity |
-| 21 | ![Cover](https://i.discogs.com/o1JT8kpc9I0MkaAcgVmIXIQ1lxkb8F5_kXtAdQyUYWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDAx/NTItMTQyMDY3NDY5/My00OTA3LmpwZWc.jpeg) | 2008 | Homeless Balloon | Round And Around |
-| 11 | ![Cover](https://i.discogs.com/lF2KOY1y1jlidSMpCFGjySj8zAMTyG6Z4wYR_Fd6a6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTEy/ODQtMTQ3NjM4MDkx/My05OTg3LmpwZWc.jpeg) | 2016-09-16 | Taylor Nelson | The Journey of One, Vol. 1 |
-| 10 | ![Cover](https://i.discogs.com/MUxqnu_LEmAKCETSyWlyh8rKR47MqxRRhHVScdRxPkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzMz/MDQzLTE0OTU0ODMw/ODYtNDM5MC5qcGVn.jpeg) | 2017-04 | Erochika | Erochika Live 1991 |
 | 12 |  |  | Valentyn Zoro | AMBIENT GUITAR |
 | 13 |  |  | Dr. Eric Pearl | The Reconnection: Heal Others, Heal Yourself |
 | 15 |  |  | Transistor Zen | Drunken Night |
-| 16 |  |  | Ganja the Cat | Moment of ZEN |
 | 17 |  |  | The Outlaws of Zen | Don&#39;t bother getting up...We&#39;ll let ourselves in. |
 | 19 |  |  | Coenie De Villiers | Zen |
-| 20 |  |  | The Free Form Art Band | The K.E.N.T. session |
+| 22 |  |  | Derek Acorah | Derek Acorah&#39;s Music Of Spirit And Tranquillity |
 | 27 |  |  | Alexandre Boloto | AMBIANCE |
 | 28 |  |  | Mu fyah sounds presents...More Fyah Dub | THC FACTOR |
+| 30 |  |  | Carlo Yemen | A Corner Can Fasten Itself |
 | 33 |  |  | Andrei Krylov | Zen Of The Moon Lake. Classical Guitar Music. |
 | 35 |  |  | Andrei Krylov | Mountains, Water And Sky. Place Beyond Good And Evil. Meditation. Neoclassical Guitar Music |
 | 36 |  |  | Andrei Krylov | Craft Of Emptiness. Soundscapes. Meditations. |
+| 41 |  |  | Rudras | Zen |
+| 42 |  |  | Oasis de Détente et Relaxation | Sommeil - Harmonie, Bien-être, Musique Détente Anti-Stress Bien Dormir Avec New Age Musique |
 | 46 |  |  | Thomma Lyn Grindstaff | Womanspirit Rising |
 | 47 |  |  | Pål Vibe | Virkeligheten er Virkeligheten |
+| 48 |  |  | *80)The Bunyanchips Sextet*80) | Is That You, David? |
+| 25 | ![Cover](https://i.discogs.com/BQUtmSlLDdUmnMEzZLwMpq5S2x6Wr6qlroaG2ttHCDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDY2/MjUtMTM2NjgyMTA2/NS04OTIyLmpwZWc.jpeg) | 1994 | Devakant | Inside Is ... Forever |
 | 45 | ![Cover](https://i.discogs.com/b6_6_ERH5GH0kevazLpzBF5m2f7y_6Ex6HABEO2tHu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDU3/NjYtMTM2NjgwMzg1/MS05NTEzLmpwZWc.jpeg) | 1994 | Devakant | Inside Is Forever |
 | 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cad5b0a7dbe1470c9be6aae782b44f68.png) | 1994 | Аквариум | Кострома Mon Amour |
 | 40 | ![Cover](https://i.discogs.com/mRQfJS388KOF8ERkXSNq3vAeaW3fnHsJPguUEdzwgDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTk0/NzQtMTI5NzA5MDEz/MS5qcGVn.jpeg) | 1996 | Yashu | In Silence |
+| 44 | ![Cover](https://i.discogs.com/JGFd1poCX4vDM6or2FZPQgXvEFjQZO_VRYaQWZqlrGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODE5/MDQtMTI5MTU2OTM2/MS5qcGVn.jpeg) | 2001 | Bubblegone | Center [CYC-015] |
+| 31 |  | 2006 | Deva Yoko | Garden Of Silence |
+| 21 | ![Cover](https://i.discogs.com/o1JT8kpc9I0MkaAcgVmIXIQ1lxkb8F5_kXtAdQyUYWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDAx/NTItMTQyMDY3NDY5/My00OTA3LmpwZWc.jpeg) | 2008 | Homeless Balloon | Round And Around |
+| 4 | ![Cover](https://i.discogs.com/m6eHunCZmShChFqYKgd76MYL8NDp2xvhXVhTGCA1ML4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzQ0/NTQxLTE2MjExMTQz/MjMtOTk0NS5qcGVn.jpeg) | 2015 | Zen Dub | Untitled Album |
+| 6 | ![Cover](https://i.discogs.com/Wh_m9tUfB76ZjqnbJzSgP5aEE0RLu5Jz2ce_z4eei0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzg1/NjQtMTQyNjQzOTA3/OC0zNjYyLmpwZWc.jpeg) | 2015-03-08 | Rodrigo Rodriguez | Music for Zen Meditation:Shakuhachi Japanese flute |
+| 7 |  |  | Dr. Eric Pearl | The Living Matrix: Science of Healing Conference |
+| 8 |  |  | ZENiVEX | Bass Trap EP |
+| 14 | ![Cover](https://i.discogs.com/cykh8fYhunKltNFllaWYmuilpsqRjU6sJdhi6BRxy20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTk0/Ny0xMTE2OTQwMDgx/LmpwZw.jpeg) | 1999-05-21 | Ash Kay | I Am |
 | 49 | ![Cover](https://i.discogs.com/H0E9pm2EbNuwh_Vp8vL0AmkwE_Fx0zq5SX4jgnkj6hQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTcy/Mi0xMjIxNzU1MzA5/LmpwZWc.jpeg) | 2004 | Dub Constructor | 02_Ulitka_Zen |
 | 26 | ![Cover](https://i.discogs.com/ZVxBMzDv6VMfvPwee9NCdp_vKJXuS83UmeQCrAB_fWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzIw/MDEyLTE1MjEyMzA4/MjYtNzMyNi5qcGVn.jpeg) | 2008 | Yoshio Kurahashi | Honkyoku: Musique Zen pour Shakuhachi |
-| 18 | ![Cover](https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg) | 2009 | Various Artists | Body &amp; Mood - Life Moods |
-| 39 | ![Cover](https://i.discogs.com/9H1B-JQbo4Clr3sD1VIJmRtwE6Xxoj99mHp60tPu3D8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODM1/OTMtMTQ3OTYwNzg5/NC01Mjc0LmpwZWc.jpeg) | 2011-12-04 | Eddie Allamand | From Heart To Space |
-| 23 | ![Cover](https://i.discogs.com/PX4xd_TSTGreqLp2J8JILx3ZLs2qQ0ujbqtdJfHN6g8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDkx/NDM0LTE2NDcyMzQw/MzgtOTgyOS5qcGVn.jpeg) | 2015-03-26 | Stefan Großmann | Relaxing Piano Music - Background Music - Instrumental |
-| 30 |  |  | Carlo Yemen | A Corner Can Fasten Itself |
-| 31 |  | 2006 | Deva Yoko | Garden Of Silence |
-| 34 |  | 2011-11-11 | Various Artists | Massage Del Mar (Cafe Chill Out Sensual Relax Meditation Lounge) |
-| 38 | ![Cover](https://i.discogs.com/SEyiTEdCXJ82-FfaYBexVNL1NAr8ISSEQNHxNnX7Vmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTUy/MTQtMTQwNTY1MDY3/OS0xMzM3LmpwZWc.jpeg) | 2013-07-01 | Marcomé | Zen Voices Meditation Chants |
-| 32 | ![Cover](https://i.discogs.com/7IHCxrOBgTDChqhqYMHKth988x7Uz3RThLZ4tlo6jtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODM2/NTEtMTQ3OTYwOTcz/NS0yMTY4LmpwZWc.jpeg) | 2013-09-25 | Eddie Allamand | Moving Fast |
-| 41 |  |  | Rudras | Zen |
-| 42 |  |  | Oasis de Détente et Relaxation | Sommeil - Harmonie, Bien-être, Musique Détente Anti-Stress Bien Dormir Avec New Age Musique |
-| 44 | ![Cover](https://i.discogs.com/JGFd1poCX4vDM6or2FZPQgXvEFjQZO_VRYaQWZqlrGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODE5/MDQtMTI5MTU2OTM2/MS5qcGVn.jpeg) | 2001 | Bubblegone | Center [CYC-015] |
 | 43 |  | 2008-12-02 | Jérôme Baron | Musique pour Laz |
-| 48 |  |  | *80)The Bunyanchips Sextet*80) | Is That You, David? |
+| 18 | ![Cover](https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg) | 2009 | Various Artists | Body &amp; Mood - Life Moods |
+| 34 |  | 2011-11-11 | Various Artists | Massage Del Mar (Cafe Chill Out Sensual Relax Meditation Lounge) |
+| 39 | ![Cover](https://i.discogs.com/9H1B-JQbo4Clr3sD1VIJmRtwE6Xxoj99mHp60tPu3D8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODM1/OTMtMTQ3OTYwNzg5/NC01Mjc0LmpwZWc.jpeg) | 2011-12-04 | Eddie Allamand | From Heart To Space |
+| 38 | ![Cover](https://i.discogs.com/SEyiTEdCXJ82-FfaYBexVNL1NAr8ISSEQNHxNnX7Vmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTUy/MTQtMTQwNTY1MDY3/OS0xMzM3LmpwZWc.jpeg) | 2013-07-01 | Marcomé | Zen Voices Meditation Chants |
+| 11 | ![Cover](https://i.discogs.com/lF2KOY1y1jlidSMpCFGjySj8zAMTyG6Z4wYR_Fd6a6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTEy/ODQtMTQ3NjM4MDkx/My05OTg3LmpwZWc.jpeg) | 2016-09-16 | Taylor Nelson | The Journey of One, Vol. 1 |
+| 10 | ![Cover](https://i.discogs.com/MUxqnu_LEmAKCETSyWlyh8rKR47MqxRRhHVScdRxPkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzMz/MDQzLTE0OTU0ODMw/ODYtNDM5MC5qcGVn.jpeg) | 2017-04 | Erochika | Erochika Live 1991 |
+| 16 |  |  | Ganja the Cat | Moment of ZEN |
+| 20 |  |  | The Free Form Art Band | The K.E.N.T. session |
+| 32 | ![Cover](https://i.discogs.com/7IHCxrOBgTDChqhqYMHKth988x7Uz3RThLZ4tlo6jtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODM2/NTEtMTQ3OTYwOTcz/NS0yMTY4LmpwZWc.jpeg) | 2013-09-25 | Eddie Allamand | Moving Fast |
+| 23 | ![Cover](https://i.discogs.com/PX4xd_TSTGreqLp2J8JILx3ZLs2qQ0ujbqtdJfHN6g8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDkx/NDM0LTE2NDcyMzQw/MzgtOTgyOS5qcGVn.jpeg) | 2015-03-26 | Stefan Großmann | Relaxing Piano Music - Background Music - Instrumental |
 | 52 |  |  | Steven Curtin | Wires On Dry Trees Turn Night Into Day [CYC-018] |
 | 53 |  |  | aenonloo | in the land of paper walls |
 | 54 |  |  | Andrei Krylov | Monastery of Dragon. Meditations. Soundscapes. |
