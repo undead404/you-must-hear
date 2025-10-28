@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-19T01:47:08.426Z
+date: 2025-10-28T06:35:41.644Z
 permalink: tags/death-metal
 title: death metal
 ---
 
 ## death metal
 
-Last updated: <time datetime="2025-10-19T01:47:08.426Z">Sun Oct 19 2025 04:47:08 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T06:35:41.644Z">Tue Oct 28 2025 08:35:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -30,7 +30,7 @@ Last updated: <time datetime="2025-10-19T01:47:08.426Z">Sun Oct 19 2025 04:47:08
 | 18 |  | 1991-11-12 | Entombed | Clandestine |
 | 38 |  | 1992-05-26 | Deicide | Legion |
 | 97 | ![Cover](https://i.discogs.com/ioGga0lZRqIhFDpX99VhPQkzNcgPqmUAlx2n-kYDomY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDMw/NS0xMzQwNDYzNDYy/LTM2NzQuanBlZw.jpeg) | 1992-09-22 | Cannibal Corpse | Tomb of the Mutilated |
-| 2 | ![Cover](https://i.discogs.com/PHNYx0K9q-1Xof5Livt8eTqI0P9KacKZ1VOLOZL1ruE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTUw/MC0xNTIyNDQ3MDMx/LTY4MzMuanBlZw.jpeg) | 1992-10 | Bolt Thrower | The IVth Crusade |
+| 1 | ![Cover](https://i.discogs.com/PHNYx0K9q-1Xof5Livt8eTqI0P9KacKZ1VOLOZL1ruE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTUw/MC0xNTIyNDQ3MDMx/LTY4MzMuanBlZw.jpeg) | 1992-10 | Bolt Thrower | The IVth Crusade |
 | 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3c22f3390e1fa73ec9011bae785a82ff.png) | 1993-06-22 | Morbid Angel | Covenant |
 | 91 | ![Cover](https://i.discogs.com/clJt6IrMVP_nVEy7iffgwd08GfHVWcZno29AfMdpwP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzcz/My0xNTg0OTMyOTc0/LTUzOTUuanBlZw.jpeg) | 1993-06-22 | Death | Individual Thought Patterns |
 | 67 | ![Cover](https://i.discogs.com/12zJsQPOTy9oIvFuD-HJ90oFomIudstLDvq7YknCNoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDg3/Ny0xMTE3NDQ5NDM0/LmpwZw.jpeg) | 1993-10-01 | Entombed | Wolverine Blues |
@@ -44,35 +44,35 @@ Last updated: <time datetime="2025-10-19T01:47:08.426Z">Sun Oct 19 2025 04:47:08
 | 85 |  | 1996-07-03 | Cryptopsy | None So Vile |
 | 39 |  | 1998-04-21 | Cannibal Corpse | Gallery of Suicide |
 | 23 | ![Cover](https://i.discogs.com/DCHUwvFfeNJ2uT3N_t0tQ77XflffE5tvK4EMGjonxbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTA4/Ni0xMzA5OTAyMDU2/LmpwZWc.jpeg) | 1998-05-28 | Nile | Amongst the Catacombs of Nephren-Ka |
-| 9 |  | 1998-09 | Bolt Thrower | Mercenary |
+| 8 |  | 1998-09 | Bolt Thrower | Mercenary |
 | 89 | ![Cover](https://i.discogs.com/sLQqzpxfyVt2McFmyhyjfOVzHuqHKGG7nVxFqetUczI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTEz/OC0xMzYzMzg0ODU5/LTg4MjkuanBlZw.jpeg) | 1998-09-15 | Death | The Sound of Perseverance |
 | 20 |  | 1999-10-06 | Cannibal Corpse | Bloodthirst |
 | 25 | ![Cover](https://i.discogs.com/co3NSgVbqcv9ULIk8NRabiUN7rTQC0wcSm2SqBeERRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTcw/OC0xNDEwODc2NjQ4/LTEwMDAuanBlZw.jpeg) | 2000 | Dying Fetus | Grotesque Impalement |
 | 52 | ![Cover](https://i.discogs.com/3jeZ2qbp6z-A73BCCK0LHMA70z2gE6fQdEeZw_K5PhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTEx/OC0xNTg0MDI5Nzkz/LTI5NjUuanBlZw.jpeg) | 2000-02-08 | Bloodbath | Breeding Death |
 | 12 |  | 2000-03-15 | Vader | Litany |
-| 5 |  | 2000-09-05 | Nile | Black Seeds of Vengeance |
+| 4 |  | 2000-09-05 | Nile | Black Seeds of Vengeance |
 | 37 |  | 2000-10-03 | Dying Fetus | Destroy the Opposition |
 | 63 |  | 2001-03-19 | Gojira | Terra Incognita |
 | 64 |  | 2002-02-25 | Decapitated | Nihility |
 | 33 | ![Cover](https://i.discogs.com/ZSz_GkCSxhu_TeCBWluAPKNwZtOArKgFvJHp1jBQ27w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc3/MS0xNDA0ODU4NTkx/LTU4MzYuanBlZw.jpeg) | 2002-08-20 | Nile | In Their Darkened Shrines |
-| 6 |  | 2002-10-02 | Behemoth | Zos Kia Cultus |
+| 5 |  | 2002-10-02 | Behemoth | Zos Kia Cultus |
 | 73 |  | 2002-11-12 | Bloodbath | Resurrection Through Carnage |
 | 11 |  | 2003-04-18 | Gojira | The Link |
+| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/495ff8aa7087c6c6c5761ca8adbb9328.png) | 2003-08-22 | Vital Remains | Dechristianize |
 | 48 | ![Cover](https://i.discogs.com/uoa-uiawjP0IjCiGxXZrmzsRMvIr3QaFNvh1NVlMk3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTg1/MS0xMzA4MjgyMjI2/LmpwZWc.jpeg) | 2003-10-20 | DevilDriver | DevilDriver |
 | 19 |  | 2004-02-01 | Decapitated | The Negation |
-| 8 | ![Cover](https://i.discogs.com/YGkqOsOSo-004aKPQ4sTxBdsQbDUb0ZEHE3toGG1Nzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTc4/Ny0xNTQ4NTk4NjA5/LTEyMDMuanBlZw.jpeg) | 2004-02-23 | Deicide | Scars Of The Crucifix |
+| 7 | ![Cover](https://i.discogs.com/YGkqOsOSo-004aKPQ4sTxBdsQbDUb0ZEHE3toGG1Nzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTc4/Ny0xNTQ4NTk4NjA5/LTEyMDMuanBlZw.jpeg) | 2004-02-23 | Deicide | Scars Of The Crucifix |
 | 29 | ![Cover](https://i.discogs.com/JJlMHTdb4zz4lGX_Kv1UAUHrRDZ0ZBgixeIK5zpmr9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDMy/MC0xMTIyODAxMjMx/LmpwZw.jpeg) | 2004-02-24 | Cannibal Corpse | The Wretched Spawn |
 | 24 |  | 2004-03-08 | Kataklysm | Serenity in Fire |
 | 80 |  | 2004-09-27 | Bloodbath | Nightmares Made Flesh |
 | 95 | ![Cover](https://i.discogs.com/K4-ZMbwXJsdE7OS6IKaYX0WbF7agS_dt94gVGBdGdrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDEz/NTQtMTI0MDM4NzUw/OC5qcGVn.jpeg) | 2004-11-08 | Behemoth | Demigod |
 | 86 |  | 2005-05-23 | Nile | Annihilation of the Wicked |
-| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/610427ec64a7197fc4715810127b0207.png) | 2005-06-28 | DevilDriver | The Fury of Our Maker&#39;s Hand |
+| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/610427ec64a7197fc4715810127b0207.png) | 2005-06-28 | DevilDriver | The Fury of Our Maker&#39;s Hand |
 | 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/50d6debbba7b830d0f6812ac390a8b6d.png) | 2005-07-18 | Obituary | Frozen in Time |
 | 81 |  | 2005-09-27 | Gojira | From Mars to Sirius |
 | 59 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/aa5a326d01364ba88a96d240f07ae090.png) | 2005-10-11 | Roadrunner United | The All-Star Sessions |
 | 76 |  | 2005-11-11 | Bolt Thrower | Those Once Loyal |
-| 1 |  | 2005-11-14 | Vader | The Art of War |
-| 3 |  | 2006 | Dying Fetus | War of Attrition |
+| 2 |  | 2006 | Dying Fetus | War of Attrition |
 | 54 | ![Cover](https://i.discogs.com/xqeco5kk7Hg6XUMBfuy2sCkd0oebql9K-7fdKhMKDn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzgx/Ny0xNjgxNzEwMTMz/LTY4MjYuanBlZw.jpeg) | 2006-02-07 | Decapitated | Organic Hallucinosis |
 | 22 | ![Cover](https://i.discogs.com/uvoLkPcgL4xutebkYmAogyux641EGN9TEA3gmeSsljA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDEx/NDMtMTE4MjY4MTg2/OS5qcGVn.jpeg) | 2006-02-17 | Kataklysm | In the Arms of Devastation |
 | 71 |  | 2006-03-21 | Cannibal Corpse | Kill |
@@ -83,7 +83,7 @@ Last updated: <time datetime="2025-10-19T01:47:08.426Z">Sun Oct 19 2025 04:47:08
 | 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/25b038c0ee1101906d4460ffc886b55d.png) | 2007-06-29 | Behemoth | The Apostasy |
 | 51 |  | 2007-07-17 | Nile | Ithyphallic |
 | 28 | ![Cover](https://i.discogs.com/vrrxLb_dew6cdhdLbO-uHahPKBvLKzmEj9hEzqHPTCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcz/NjgtMTE5MTA2NjMx/My5wbmc.jpeg) | 2007-08-27 | Divine Heresy | Bleed The Fifth |
-| 4 | ![Cover](https://i.discogs.com/vrrxLb_dew6cdhdLbO-uHahPKBvLKzmEj9hEzqHPTCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcz/NjgtMTE5MTA2NjMx/My5wbmc.jpeg) | 2007-08-28 | Divine Heresy | Bleed The Fifth! |
+| 3 | ![Cover](https://i.discogs.com/vrrxLb_dew6cdhdLbO-uHahPKBvLKzmEj9hEzqHPTCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcz/NjgtMTE5MTA2NjMx/My5wbmc.jpeg) | 2007-08-28 | Divine Heresy | Bleed The Fifth! |
 | 17 |  | 2007-09-18 | The Black Dahlia Murder | Nocturnal |
 | 75 |  | 2007-09-25 | Dethklok | The Dethalbum |
 | 44 | ![Cover](https://i.discogs.com/80TjGQg7KIeqBDTisvt7TW52VNpKfsDMhTht6-Zvgi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTkz/MjYtMTQwMjczMjcy/NC0yODg5LmpwZWc.jpeg) | 2008-03-10 | Bloodbath | Unblessing The Purity |

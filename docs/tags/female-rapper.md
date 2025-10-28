@@ -1,26 +1,29 @@
 ---
 category: genre
-date: 2025-10-19T01:47:20.777Z
+date: 2025-10-28T06:35:52.162Z
 permalink: tags/female-rapper
 title: female rapper
 ---
 
 ## female rapper
 
-Last updated: <time datetime="2025-10-19T01:47:20.777Z">Sun Oct 19 2025 04:47:20 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T06:35:52.162Z">Tue Oct 28 2025 08:35:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 | ![Cover](https://i.discogs.com/seAXzWty8NrE6UGbo4mva4ZSFXBCbeoaIDSQCQnf5Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ0/NzExLTE2MjgxMjM5/NzctMzE2NC5qcGVn.jpeg) | 2019-09-25 | Cœur | Bébédamour |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e4c5bc39243b4d3ca0a61d668dfe89e8.png) |  | Leeah D | MY S.W.A.G.G. |
+| 51 | ![Cover](https://i.discogs.com/83hkGtyYtI5rFjAfMHeEwhDuF4SijVy39UM2GhUKiRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDE5/MzEtMTQ3NjU2MzMx/MS03NzYxLmpwZWc.jpeg) | 2016-09-06 | CupcakKe | Picking Cotton |
 | 2 | ![Cover](https://i.discogs.com/seAXzWty8NrE6UGbo4mva4ZSFXBCbeoaIDSQCQnf5Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ0/NzExLTE2MjgxMjM5/NzctMzE2NC5qcGVn.jpeg) | 2019-09-25 | Cœur | Bébéfleur |
 | 3 |  |  | Aela Hopeful Monster | Lovesick |
 | 7 |  |  | RAYE &amp; 070 Shake | Escapism. (Live At Metropolis) - Single |
+| 52 |  |  | Princess Vitarah | Masturbate |
 | 9 | ![Cover](https://i.discogs.com/ht9DeFWOR5RSAZPQ28YJotErFSCGIhl1SNHMV77Js9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTE2/MjkzLTE2MzM2OTk1/NjgtMTIwNy5qcGVn.jpeg) | 1995 | K&#39;LA | Freedom |
 | 6 | ![Cover](https://i.discogs.com/IBX8QUc6FuePc_w7dCt_fxcVe9W_zGNXsApBLGXlXaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQ5/OS0xNDYwMTI4NzQz/LTc2NDMuanBlZw.jpeg) | 2002 | Cœur | Féerie |
 | 23 | ![Cover](https://i.discogs.com/W32Qg1T84yElohYHomLPNVr5giZ0usgrn27dcEfrCDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI1/NjkyLTE1NDI2NzYw/MDEtMzQxOC5qcGVn.jpeg) | 2015-10-09 | CupcakKe | Vagina - Single |
 | 10 | ![Cover](https://i.discogs.com/Z9OFSn0PwX3GTCZrz1tO57lBHDbgsxeM9UDWuqkakqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODMw/MjUyLTE1NDI3NjU2/ODUtMTI5OC5qcGVn.jpeg) | 2015-11-17 | CupcakKe | CupcakKe Deepthroat - Single |
+| 53 | ![Cover](https://i.discogs.com/pN2fXFnS3udCuDfVO9BNIdD-SbRfXW8mSFXD42lUFQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjA3/NDUtMTQ2NzMxNDQz/OC00MTE0LmpwZWc.jpeg) | 2016-01-27 | CupcakKe | cupcakKe Juicy Coochie |
 | 5 | ![Cover](https://i.discogs.com/9vZKNfzxEq_EoOaP4T7_p5WnoQOHCc954VpRIIBkphE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzEy/OTYtMTQ2ODQyNzU0/Ny04NTgyLmpwZWc.jpeg) | 2016-02-09 | CupcakKe | Cum Cake [Explicit] |
 | 16 | ![Cover](https://i.discogs.com/9vZKNfzxEq_EoOaP4T7_p5WnoQOHCc954VpRIIBkphE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzEy/OTYtMTQ2ODQyNzU0/Ny04NTgyLmpwZWc.jpeg) | 2016-02-09 | CupcakKe | CupCakke |
 | 33 | ![Cover](https://i.discogs.com/9vZKNfzxEq_EoOaP4T7_p5WnoQOHCc954VpRIIBkphE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzEy/OTYtMTQ2ODQyNzU0/Ny04NTgyLmpwZWc.jpeg) | 2016-02-09 | CupcakKe | C*m Cake |
@@ -61,9 +64,6 @@ Last updated: <time datetime="2025-10-19T01:47:20.777Z">Sun Oct 19 2025 04:47:20
 | 44 |  |  | Princess Vitarah | I Wanna Fuck Donald Trump |
 | 45 |  |  | Princess Vitarah | Spongebob |
 | 47 |  |  | Baegod | Algorhythm |
-| 51 | ![Cover](https://i.discogs.com/83hkGtyYtI5rFjAfMHeEwhDuF4SijVy39UM2GhUKiRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDE5/MzEtMTQ3NjU2MzMx/MS03NzYxLmpwZWc.jpeg) | 2016-09-06 | CupcakKe | Picking Cotton |
-| 52 |  |  | Princess Vitarah | Masturbate |
-| 53 | ![Cover](https://i.discogs.com/pN2fXFnS3udCuDfVO9BNIdD-SbRfXW8mSFXD42lUFQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjA3/NDUtMTQ2NzMxNDQz/OC00MTE0LmpwZWc.jpeg) | 2016-01-27 | CupcakKe | cupcakKe Juicy Coochie |
 | 54 |  |  | Princess Vitarah | Cumming to America |
 | 67 | ![Cover](https://i.discogs.com/x34h-OKOzfyuLPtXuqhf12u_spEnN7g_nsJd6tzNhXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI1/NzA4LTE1NDI2NzY0/MTAtMTcxMy5qcGVn.jpeg) | 2017-02-24 | CupcakKe | Cumshot |
 | 55 | ![Cover](https://i.discogs.com/t4-s7run5-U_-UtrhWalNpYI_Q-Qm9QnH80khR5C9po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTQy/MDc4LTE2NTg1MTMw/NzQtMzAxNy5qcGVn.jpeg) | 2021-04-23 | Saweetie | Best Friend (feat. Doja Cat) [Remixes] [Extended Edition] - Single |
@@ -79,7 +79,7 @@ Last updated: <time datetime="2025-10-19T01:47:20.777Z">Sun Oct 19 2025 04:47:20
 | 96 | ![Cover](https://i.discogs.com/k3ETySDtJWtWJxz7G-YHWkkjfmB3FdUmA8UDwPHd3zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM3/NDgzLTE1MTQ0OTQy/NTMtNTM3MC5qcGVn.jpeg) | 2016-01-27 | YEZI | Foresight Dream |
 | 74 | ![Cover](https://i.discogs.com/hc9wkJeFHgAxhxR125d99JXcLbGJdLoPg9p_M8sqtPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTM1/MTktMTQ1ODAxMzMw/MC0xMDAxLmpwZWc.jpeg) | 2016-03-03 | jimin | Hey |
 | 61 | ![Cover](https://i.discogs.com/47NWlNXVFEzbOsFRO90W5hqjyEhPgHgcsmcsWkl1tr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI1/NzAwLTE1NDI2NzYx/NzctNDc5NS5qcGVn.jpeg) | 2016-04-21 | CupcakKe | Best Dick Sucker |
-| 93 | ![Cover](https://i.discogs.com/dVSbecYQ0vq0ALGDVuavtsZI9iuH-e5bo0I__7jIcvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc5/MTkzLTE1MjM5ODY5/MzgtMzU0Mi5qcGVn.jpeg) | 2017 | YEZI | Raining All Night |
+| 92 | ![Cover](https://i.discogs.com/dVSbecYQ0vq0ALGDVuavtsZI9iuH-e5bo0I__7jIcvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc5/MTkzLTE1MjM5ODY5/MzgtMzU0Mi5qcGVn.jpeg) | 2017 | YEZI | Raining All Night |
 | 95 | ![Cover](https://i.discogs.com/dVSbecYQ0vq0ALGDVuavtsZI9iuH-e5bo0I__7jIcvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc5/MTkzLTE1MjM5ODY5/MzgtMzU0Mi5qcGVn.jpeg) | 2017 | YEZI | Anck Su Namum |
 | 97 | ![Cover](https://i.discogs.com/sWjWyTW9WbFpE35q108G_oOBG2SPrMyrlq76-1MnuiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDAz/NjUwLTE0OTY3NTY4/MzgtNjA4Ny5qcGVn.jpeg) | 2017-06-05 | Azealia Banks | ATM Jam |
 | 76 | ![Cover](https://i.discogs.com/nS4oVrw8bCcFKZ36_2OjJEFqsm5fj3PJCRfEWMdxKlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI1/NzE5LTE1NDI2NzY2/MjctMTkyMi5qcGVn.jpeg) | 2017-09-15 | CupcakKe | Exit |
@@ -99,7 +99,7 @@ Last updated: <time datetime="2025-10-19T01:47:20.777Z">Sun Oct 19 2025 04:47:20
 | 72 | ![Cover](https://i.discogs.com/jFA4OJS5cAP6-LLwtQ_OZ4KsBmzIYfwM3VLgn0Fo5Qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzcw/MjkzLTE1MzQ4NzA2/MTMtMzkxOC5qcGVn.jpeg) | 2020 | Nicki Minaj | Single |
 | 70 | ![Cover](https://i.discogs.com/HXcLMKOPiaVqjeN3YNOz-lpAosQDjGj7wtY3yuEQA54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODIy/OTkzLTE1ODIyOTE4/MDYtNzEwNi5qcGVn.jpeg) | 2020-02-19 | Chanmina | You Just Walked In My Life |
 | 91 | ![Cover](https://i.discogs.com/dVSbecYQ0vq0ALGDVuavtsZI9iuH-e5bo0I__7jIcvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc5/MTkzLTE1MjM5ODY5/MzgtMzU0Mi5qcGVn.jpeg) | 2020-03-05 | YEZI | Secreto |
-| 92 | ![Cover](https://i.discogs.com/dVSbecYQ0vq0ALGDVuavtsZI9iuH-e5bo0I__7jIcvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc5/MTkzLTE1MjM5ODY5/MzgtMzU0Mi5qcGVn.jpeg) | 2020-03-05 | YEZI | ACACIA |
+| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ba79d01b6155fc9929ef36c1fdc22251.png) | 2020-03-05 | YEZI | ACACIA |
 | 71 | ![Cover](https://i.discogs.com/5Oour0UDuKZHvIdSsRCfWVMNH66ZwuzmcxO6MS3AyQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgz/MTc0LTE1OTU4NTEy/ODktNTM0My5qcGVn.jpeg) | 2021-04-14 | Chanmina | BEST FRIEND |
 | 60 | ![Cover](https://i.discogs.com/Ep6yM61Bjo-oXcYIhwMuGo44bcfcCQH2NStJkOEkpWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzg3/NTcyLTE2MDc0Mzgx/MzAtODc1OC5qcGVn.jpeg) | 2023-04-26 | Chanmina | Naked |
 | 62 |  |  | RAYE &amp; 070 Shake | Escapism. (Sped Up) - Single |
@@ -120,9 +120,9 @@ Last updated: <time datetime="2025-10-19T01:47:20.777Z">Sun Oct 19 2025 04:47:20
 - [hip-hop]({{ "/tags/hip-hop" | relative_url }})
 - [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
 - [french rap]({{ "/tags/french-rap" | relative_url }})
-- [french indie]({{ "/tags/french-indie" | relative_url }})
 - [rap francais]({{ "/tags/rap-francais" | relative_url }})
-- [french]({{ "/tags/french" | relative_url }})
 - [france]({{ "/tags/france" | relative_url }})
+- [french indie]({{ "/tags/french-indie" | relative_url }})
+- [french]({{ "/tags/french" | relative_url }})
 - [rappeuse]({{ "/tags/rappeuse" | relative_url }})
 - [urbain]({{ "/tags/urbain" | relative_url }})
