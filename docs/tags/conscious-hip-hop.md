@@ -1,68 +1,68 @@
 ---
 category: genre
-date: 2025-10-20T04:28:49.206Z
+date: 2025-10-28T06:47:52.350Z
 permalink: tags/conscious-hip-hop
 title: conscious hip hop
 ---
 
 ## conscious hip hop
 
-Last updated: <time datetime="2025-10-20T04:28:49.206Z">Mon Oct 20 2025 07:28:49 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T06:47:52.350Z">Tue Oct 28 2025 08:47:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 23 |  | 1991-09-24 | A Tribe Called Quest | The Low End Theory |
-| 1 |  | 1994-10-05 | Digable Planets | Blowout Comb |
-| 9 | ![Cover](https://i.discogs.com/AB_qNAvu-m9bHTdStuEcrQEm9mGw9cdn19IO7xgOi4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzMx/NS0xMzQ1NjA5Njgx/LTY2MzAuanBlZw.jpeg) | 1996-08-26 | OutKast | ATLiens |
-| 15 | ![Cover](https://i.discogs.com/wYZZBidA8SREQxhWQ7gyppyfav78GIWjmWQk9Dvv8kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTMz/NDUtMTQ2MzEzOTQx/NC03OTc5LmpwZWc.jpeg) | 1997 | Omen | Hammer Damage |
-| 2 |  | 1997-02-21 | Freundeskreis | Quadratur Des Kreises |
-| 20 |  | 1999-10-12 | Mos Def | Black On Both Sides |
-| 22 | ![Cover](https://i.discogs.com/Zl2kxW_ZCWFC7oSJu03Vnc9cnW0WJXuv_nckU1SKEqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODAy/Ni0xNTk5MzE5Nzc2/LTUzNjUuanBlZw.jpeg) | 2002 | The Coup | Steal This Double Album |
-| 19 |  | 2002-09-24 | Busdriver | Temporary Forever |
-| 14 | ![Cover](https://i.discogs.com/7PQNUpYqMGQayMoX2h2kg-PEO_zbuYccUfz-jaX38_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NjYz/Ni0xNDk0NjAwMDcy/LTQxMTIuanBlZw.jpeg) | 2005-03 | Kanye West | Late Registration |
-| 3 |  | 2008-06-01 | KnowSleep | KnowSleep |
-| 4 |  |  | Run The Jewels, Killer Mike &amp; El-P | Run The Jewels 2 |
+| 1 |  | 2008-06-01 | KnowSleep | KnowSleep |
+| 2 |  |  | Run The Jewels, Killer Mike &amp; El-P | Run The Jewels 2 |
+| 21 |  | 1991-09-24 | A Tribe Called Quest | The Low End Theory |
+| 3 | ![Cover](https://i.discogs.com/9KmLqaQW5kMdMdg_X4HspKVPoOxCmn8FunWfTdnY81c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzA2/NzAtMTQ2MzQ3NDE0/NC05NDc2LmpwZWc.jpeg) | 2013-11-12 | No Bird Sing | Definition Sickness |
+| 4 |  |  | ManoWill | Saudosa Maloka Sombria |
 | 43 |  | 1995 | Common | Resurrection |
-| 28 | ![Cover](https://i.discogs.com/bYGElQ9R7afI7ihHh9jqQwCQFPvJiAOiEvGsY1PHRJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjYx/NS0xMTIxNzkzMzQ0/LmpwZw.jpeg) | 2004-08-13 | K-OS | Joyful Rebellion |
-| 17 |  | 2008-12-08 | Charles Hamilton | The Pink Lavalamp |
-| 11 |  | 2009-09-11 | No Bird Sing | No Bird Sing |
-| 5 | ![Cover](https://i.discogs.com/9KmLqaQW5kMdMdg_X4HspKVPoOxCmn8FunWfTdnY81c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzA2/NzAtMTQ2MzQ3NDE0/NC05NDc2LmpwZWc.jpeg) | 2013-11-12 | No Bird Sing | Definition Sickness |
-| 6 |  |  | ManoWill | Saudosa Maloka Sombria |
-| 10 |  | 1998-09-28 | OutKast | Aquemini |
+| 7 | ![Cover](https://i.discogs.com/AB_qNAvu-m9bHTdStuEcrQEm9mGw9cdn19IO7xgOi4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzMx/NS0xMzQ1NjA5Njgx/LTY2MzAuanBlZw.jpeg) | 1996-08-26 | OutKast | ATLiens |
+| 13 | ![Cover](https://i.discogs.com/wYZZBidA8SREQxhWQ7gyppyfav78GIWjmWQk9Dvv8kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTMz/NDUtMTQ2MzEzOTQx/NC03OTc5LmpwZWc.jpeg) | 1997 | Omen | Hammer Damage |
+| 8 |  | 1998-09-28 | OutKast | Aquemini |
 | 42 | ![Cover](https://i.discogs.com/36whrFQvv6Q_RnQiguPXy1fHSwRj6PeiNdqycIWApgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDYy/ODgtMTMyMzA5NTU1/Mi5qcGVn.jpeg) | 1999 | Tiro De Gracia | Ser Hümano!! |
+| 18 |  | 1999-10-12 | Mos Def | Black On Both Sides |
+| 20 | ![Cover](https://i.discogs.com/Zl2kxW_ZCWFC7oSJu03Vnc9cnW0WJXuv_nckU1SKEqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODAy/Ni0xNTk5MzE5Nzc2/LTUzNjUuanBlZw.jpeg) | 2002 | The Coup | Steal This Double Album |
 | 47 | ![Cover](https://i.discogs.com/LZFzN31YEFO4JYSoGHnTiKKEkQs-u_pMA60JVUPzzaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDAy/LTEzMTA1NDE4Mzku/anBlZw.jpeg) | 2002-08-05 | Dälek | From Filthy Tongue of Gods and |
 | 48 |  | 2002-08-05 | Dälek | From Filthy Tongue of Gods and Griots |
+| 17 |  | 2002-09-24 | Busdriver | Temporary Forever |
+| 27 | ![Cover](https://i.discogs.com/bYGElQ9R7afI7ihHh9jqQwCQFPvJiAOiEvGsY1PHRJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjYx/NS0xMTIxNzkzMzQ0/LmpwZw.jpeg) | 2004-08-13 | K-OS | Joyful Rebellion |
+| 12 | ![Cover](https://i.discogs.com/7PQNUpYqMGQayMoX2h2kg-PEO_zbuYccUfz-jaX38_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NjYz/Ni0xNDk0NjAwMDcy/LTQxMTIuanBlZw.jpeg) | 2005-03 | Kanye West | Late Registration |
 | 44 |  | 2005-11-11 | Nujabes | Modal Soul |
-| 24 | ![Cover](https://i.discogs.com/14PbzoAIq2HXPM7_kFBAEigA0kjYXGHJ0g_DJlmvilM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzY0/OTAtMTM0MjA4Njc4/Mi02OTM2LmpwZWc.jpeg) | 2009-12-22 | Lil B | 6 Kiss |
+| 15 |  | 2008-12-08 | Charles Hamilton | The Pink Lavalamp |
+| 9 |  | 2009-09-11 | No Bird Sing | No Bird Sing |
+| 22 | ![Cover](https://i.discogs.com/14PbzoAIq2HXPM7_kFBAEigA0kjYXGHJ0g_DJlmvilM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzY0/OTAtMTM0MjA4Njc4/Mi02OTM2LmpwZWc.jpeg) | 2009-12-22 | Lil B | 6 Kiss |
 | 49 |  | 2010-01-01 | Hocus Pocus | 16 pièces |
 | 45 |  | 2010-09-13 | Lil B | Blue Flame |
-| 12 |  | 2010-10-12 | Kno | Death Is Silent |
-| 34 |  | 2010-11-09 | Lil B | Red Flame |
-| 18 |  | 2013-10-22 | Armand Hammer | RACE MUSIC |
-| 46 |  | 2014-05-11 | Mac Miller | Faces |
-| 32 |  | 2014-06-01 | Lil B | Hoop Life |
+| 10 |  | 2010-10-12 | Kno | Death Is Silent |
+| 33 |  | 2010-11-09 | Lil B | Red Flame |
+| 16 |  | 2013-10-22 | Armand Hammer | RACE MUSIC |
+| 31 |  | 2014-06-01 | Lil B | Hoop Life |
 | 40 |  | 2014-09-02 | Homeboy Sandman | Hallways |
-| 26 | ![Cover](https://i.discogs.com/W4ugSEZhHjLTRY-QUBUCypfgYjgIObgPEa4bBYWR5QY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkw/NjQ0LTE1MzYzMjg4/MTMtNzA1NS5qcGVn.jpeg) | 2017 | Medslaus | Poorboy |
-| 16 | ![Cover](https://i.discogs.com/2cdFL7O55R3SExi1a5Rb2AiJZWA3RkJPadIvJoZH5ls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM4/NjUxLTE1MDg3MDMz/NzctNjA4Ni5qcGVn.jpeg) | 2017-08-04 | Uncommon Nasa | written at night |
-| 50 | ![Cover](https://i.discogs.com/tPwn2_5fBDF9PEfmsMmDK2f6tGPfb3YB6oO2SBY_Pgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI2/OTA3LTE1MDY2NTYx/NDAtMjIxNy5qcGVn.jpeg) | 2017-09-15 | Open Mike Eagle | Brick Body Kids Still Daydream |
-| 36 | ![Cover](https://i.discogs.com/BPeOIhPeKUzdl2vRBHsBmC2c6H5UVFJcf3rxOM3wrkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcx/MzIwLTE1Mzc4MjM2/MTgtNjU5My5qcGVn.jpeg) | 2018 | Edgar | Ultrassom |
-| 37 | ![Cover](https://i.discogs.com/LmA30CroWiGduUdPxoCCOZj4-C1CPckPFnqhYYSzw5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY4/NDk0LTE1NDM1MDY4/ODAtMzcwOS5qcGVn.jpeg) | 2018-07-24 | MEDHANE | Ba Suba, Ak Jamm |
+| 24 | ![Cover](https://i.discogs.com/W4ugSEZhHjLTRY-QUBUCypfgYjgIObgPEa4bBYWR5QY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkw/NjQ0LTE1MzYzMjg4/MTMtNzA1NS5qcGVn.jpeg) | 2017 | Medslaus | Poorboy |
+| 14 | ![Cover](https://i.discogs.com/2cdFL7O55R3SExi1a5Rb2AiJZWA3RkJPadIvJoZH5ls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM4/NjUxLTE1MDg3MDMz/NzctNjA4Ni5qcGVn.jpeg) | 2017-08-04 | Uncommon Nasa | written at night |
+| 35 | ![Cover](https://i.discogs.com/BPeOIhPeKUzdl2vRBHsBmC2c6H5UVFJcf3rxOM3wrkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTcx/MzIwLTE1Mzc4MjM2/MTgtNjU5My5qcGVn.jpeg) | 2018 | Edgar | Ultrassom |
+| 36 | ![Cover](https://i.discogs.com/LmA30CroWiGduUdPxoCCOZj4-C1CPckPFnqhYYSzw5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY4/NDk0LTE1NDM1MDY4/ODAtMzcwOS5qcGVn.jpeg) | 2018-07-24 | MEDHANE | Ba Suba, Ak Jamm |
 | 41 | ![Cover](https://i.discogs.com/qXTlxMz1X68vc2xHJZYoOEY6HFu_APgiB9Buavi8e9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkw/MjI0LTE1MzYzMjE4/MTAtODE4My5qcGVn.jpeg) | 2018-09-07 | Caparezza | Prisoner 709 |
-| 8 | ![Cover](https://i.discogs.com/iSc2aNnUz5FVBHpMosyFludOO20Q5BjVqTOQFr4jemE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDYy/MzA4LTE2MjM0MTIy/NzAtNDk2OC5qcGVn.jpeg) | 2019 | Çağrı Sinci | Çığlık |
-| 30 | ![Cover](https://i.discogs.com/LF3F3qYtzCdw16oRnHWrohT4d4zWpPokDOv-MHPtUQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ0/OTk4LTE1NTQzMzY2/NTctMzA1Ny5qcGVn.jpeg) | 2019-03-29 | Billy Woods &amp; Kenny Segal | Hiding Places |
-| 29 | ![Cover](https://i.discogs.com/HMoMHDugbMuLsztdW0FAgoGCeeceXR--N0Ui_rG6410/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzAw/NDM2LTE2MTg0NDI4/NDEtMzMxNS5qcGVn.jpeg) | 2020-08-07 | demahjiae | And, Such Is Life. |
-| 7 | ![Cover](https://i.discogs.com/ORpQC8l3NwVOmpo_MFAi17rX2DRaRqGB2g0IqMoAWYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTA5/MTk4LTE2Mzc3ODM5/MjItODIzNS5qcGVn.jpeg) | 2021 | Edgar | Ultraleve |
-| 35 | ![Cover](https://i.discogs.com/WBfvMfGDO6VbztND9YoBKFFIgY1KDio6TAzlQIFAqzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQ4/MDg0LTE2Mjc0MTc3/MDctOTYyMi5qcGVn.jpeg) | 2021 | Blu &amp; Exile | Miles |
-| 39 | ![Cover](https://i.discogs.com/eWXc4YJ0z3C-FTp2WzGjagm8tHDn0mWVZIoUPIDxFiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzcw/NzQ2LTE1MDQwMTY3/MTEtNTQ4MC5qcGVn.jpeg) | 2021 | Anti Lilly | It&#39;s Nice Outside |
-| 31 | ![Cover](https://i.discogs.com/cmXdfG1_dnVZyxAuiEM363dxQBTqjL85Nrz767lKbsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU4/ODY4LTE2OTIzNzk3/ODMtNTIxOC5qcGVn.jpeg) | 2021-11-19 | Rx Papi &amp; Gud | Foreign Exchange |
-| 21 | ![Cover](https://i.discogs.com/LGFMKch5AhQ7n2zcc19hFB2xVpQeVTcx3sV97wm27B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk5/MDI4LTE1OTI1NTE5/MzYtMjU5Ni5qcGVn.jpeg) | 2022-03-04 | Kojey Radical | 23WINTERS |
-| 25 | ![Cover](https://i.discogs.com/Y50vPFjENqg0pkbPete8HFmUHv9oZYYFdrlkhRSWlTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDU2/MDAwLTE2NTQ4MzE0/NzItODExMS5qcGVn.jpeg) | 2022-06-03 | They Hate Change | Finally, New |
-| 13 | ![Cover](https://i.discogs.com/lazDYRn7fPp0dwXFwdqQkGP4BmL0MC_LRJ-0k6133KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjAw/ODc2LTE2NjA0OTUx/MTEtNzI5My5qcGVn.jpeg) | 2022-07-21 | Ghais Guevara | There Will Be No Super-Slave |
-| 27 | ![Cover](https://i.discogs.com/-gzeLpOqdHuUgPIR11RGEMNvWyfIKgKXt4lzSJfwKpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTgx/NTMxLTE2ODQwMDgy/MTktNjY1My5qcGVn.jpeg) | 2023-05 | Billy Woods &amp; Kenny Segal | Maps |
-| 33 |  |  | $ilkMoney | I Don&#39;t Give a Fuck About This Rap Shit, Imma Just Drop Until I Don&#39;t Feel Like It Anymore |
+| 6 | ![Cover](https://i.discogs.com/iSc2aNnUz5FVBHpMosyFludOO20Q5BjVqTOQFr4jemE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDYy/MzA4LTE2MjM0MTIy/NzAtNDk2OC5qcGVn.jpeg) | 2019 | Çağrı Sinci | Çığlık |
+| 29 | ![Cover](https://i.discogs.com/LF3F3qYtzCdw16oRnHWrohT4d4zWpPokDOv-MHPtUQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ0/OTk4LTE1NTQzMzY2/NTctMzA1Ny5qcGVn.jpeg) | 2019-03-29 | Billy Woods &amp; Kenny Segal | Hiding Places |
+| 28 | ![Cover](https://i.discogs.com/HMoMHDugbMuLsztdW0FAgoGCeeceXR--N0Ui_rG6410/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzAw/NDM2LTE2MTg0NDI4/NDEtMzMxNS5qcGVn.jpeg) | 2020-08-07 | demahjiae | And, Such Is Life. |
+| 37 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5bd7b6a74a82552594bc23a594a86f15.png) |  | Gabriel O Pensador | Antídoto Pra Todo Tipo de Veneno |
 | 38 |  |  | RXKNephew | Till I&#39;m Dead |
+| 46 |  | 2014-05-11 | Mac Miller | Faces |
+| 50 | ![Cover](https://i.discogs.com/tPwn2_5fBDF9PEfmsMmDK2f6tGPfb3YB6oO2SBY_Pgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI2/OTA3LTE1MDY2NTYx/NDAtMjIxNy5qcGVn.jpeg) | 2017-09-15 | Open Mike Eagle | Brick Body Kids Still Daydream |
+| 5 | ![Cover](https://i.discogs.com/ORpQC8l3NwVOmpo_MFAi17rX2DRaRqGB2g0IqMoAWYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTA5/MTk4LTE2Mzc3ODM5/MjItODIzNS5qcGVn.jpeg) | 2021 | Edgar | Ultraleve |
+| 34 | ![Cover](https://i.discogs.com/WBfvMfGDO6VbztND9YoBKFFIgY1KDio6TAzlQIFAqzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQ4/MDg0LTE2Mjc0MTc3/MDctOTYyMi5qcGVn.jpeg) | 2021 | Blu &amp; Exile | Miles |
+| 39 | ![Cover](https://i.discogs.com/eWXc4YJ0z3C-FTp2WzGjagm8tHDn0mWVZIoUPIDxFiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzcw/NzQ2LTE1MDQwMTY3/MTEtNTQ4MC5qcGVn.jpeg) | 2021 | Anti Lilly | It&#39;s Nice Outside |
+| 30 | ![Cover](https://i.discogs.com/cmXdfG1_dnVZyxAuiEM363dxQBTqjL85Nrz767lKbsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU4/ODY4LTE2OTIzNzk3/ODMtNTIxOC5qcGVn.jpeg) | 2021-11-19 | Rx Papi &amp; Gud | Foreign Exchange |
+| 19 | ![Cover](https://i.discogs.com/LGFMKch5AhQ7n2zcc19hFB2xVpQeVTcx3sV97wm27B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk5/MDI4LTE1OTI1NTE5/MzYtMjU5Ni5qcGVn.jpeg) | 2022-03-04 | Kojey Radical | 23WINTERS |
+| 23 | ![Cover](https://i.discogs.com/Y50vPFjENqg0pkbPete8HFmUHv9oZYYFdrlkhRSWlTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDU2/MDAwLTE2NTQ4MzE0/NzItODExMS5qcGVn.jpeg) | 2022-06-03 | They Hate Change | Finally, New |
+| 11 | ![Cover](https://i.discogs.com/lazDYRn7fPp0dwXFwdqQkGP4BmL0MC_LRJ-0k6133KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjAw/ODc2LTE2NjA0OTUx/MTEtNzI5My5qcGVn.jpeg) | 2022-07-21 | Ghais Guevara | There Will Be No Super-Slave |
+| 25 | ![Cover](https://i.discogs.com/-gzeLpOqdHuUgPIR11RGEMNvWyfIKgKXt4lzSJfwKpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTgx/NTMxLTE2ODQwMDgy/MTktNjY1My5qcGVn.jpeg) | 2023-05 | Billy Woods &amp; Kenny Segal | Maps |
+| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e47493caab2fee23efbb60413d654cee.png) | 2024-05-24 | Vince Staples | Dark Times |
+| 32 |  |  | $ilkMoney | I Don&#39;t Give a Fuck About This Rap Shit, Imma Just Drop Until I Don&#39;t Feel Like It Anymore |
 | 71 | ![Cover](https://i.discogs.com/3qWZR4kg0sX4dZIQ35Fgnpp4as9wN8kWR6r-hVaWf8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzc0/NDctMTM1NjQ3NTQ1/NS0zNzg4LmpwZWc.jpeg) | 1994 | Quinn | Quinn |
 | 51 | ![Cover](https://i.discogs.com/cQjTLhpxtYP6Yy_lAGTiOPTmF9m5BNxnWRj3OQrmwYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTkw/MjAtMTU5OTQwMDA3/OC0xNDExLmpwZWc.jpeg) | 1997 | Gabriel O Pensador | Quebra-Cabeça |
 | 77 | ![Cover](https://i.discogs.com/ELIwpDr5YBMpAfAPcRZF8BQreelJcPfqdS90spCdC4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzgx/NjktMTY1NzkwOTg1/Ny0yMDA1LmpwZWc.jpeg) | 1998 | A Tribe Called Quest | We got it from Here... Thank You 4 Your service |

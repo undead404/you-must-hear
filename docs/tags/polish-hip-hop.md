@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T04:29:11.803Z
+date: 2025-10-28T06:48:15.317Z
 permalink: tags/polish-hip-hop
 title: polish hip-hop
 ---
 
 ## polish hip-hop
 
-Last updated: <time datetime="2025-10-20T04:29:11.803Z">Mon Oct 20 2025 07:29:11 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T06:48:15.317Z">Tue Oct 28 2025 08:48:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -19,7 +19,7 @@ Last updated: <time datetime="2025-10-20T04:29:11.803Z">Mon Oct 20 2025 07:29:11
 | 33 |  |  | Różni wykonawcy | Chada: Jesteś Legendą |
 | 38 |  |  | Bonus RPK | Wkurwiony Dzieciak |
 | 48 | ![Cover](https://i.discogs.com/Yj3UzeVX18QNfpR-frDAzHKAqvJlB19BDU91lsU4eXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzY2/ODAtMTUxMTAxMzAx/My02NTA2LmpwZWc.jpeg) | 1999 | Slums Attack | Szacunek Ludzi Ulicy |
-| 2 | ![Cover](https://i.discogs.com/dkDZLdaKDqmkhAsIjRfBskiOHGGZo6sEjsK-PuMFaVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjYz/NDItMTY3ODA0NDg4/My05OTQzLmpwZWc.jpeg) | 2000 | 1000 | ...się przyjęło |
+| 3 | ![Cover](https://i.discogs.com/dkDZLdaKDqmkhAsIjRfBskiOHGGZo6sEjsK-PuMFaVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjYz/NDItMTY3ODA0NDg4/My05OTQzLmpwZWc.jpeg) | 2000 | 1000 | ...się przyjęło |
 | 31 | ![Cover](https://i.discogs.com/2An_8ze8zQCDbK_cO57DHXmRbK-hbmoo6sEAxjrjtlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU5/NTQtMTU2NzUyNDA0/Mi01MTE1LmpwZWc.jpeg) | 2000 | Płomień 81 | Na zawsze będzie płonął... |
 | 28 | ![Cover](https://i.discogs.com/Q-EL8twOF_B6eJi_Gm6CHMu30NxPQIHFt_XbyluoUWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAw/MjYtMTYwNDY4NzA5/Ny0yNzU5LmpwZWc.jpeg) | 2000-07-10 | Świntuch | Świntuch |
 | 45 | ![Cover](https://i.discogs.com/jd-w9Gv8HgMnJWJSNJTObTLgEtYvL6WXw_yEwgn9cZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTM1/Mi0xNzA5Mzk2MzQ1/LTg0OTgucG5n.jpeg) | 2002 | Solar | Stage diving |
@@ -37,7 +37,7 @@ Last updated: <time datetime="2025-10-20T04:29:11.803Z">Mon Oct 20 2025 07:29:11
 | 15 | ![Cover](https://i.discogs.com/1fyGdRsQsihQ4Ak8JFN_7GwLnUA4VWaX-Bvd0gSaYNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTA5/ODMtMTI4NDc1ODY2/My5qcGVn.jpeg) | 2007 | Warszafski Deszcz | Produkcja - Hip Hop |
 | 20 | ![Cover](https://i.discogs.com/4k5EtvcVvPIVgfV9LLI7IhJc4Qk5OK9p6BdWCGiA9D8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjEx/NDE1LTE2MTIxOTc3/NDctNDc5MS5qcGVn.jpeg) | 2007-01-06 | Tele&#39;Fau | Zdjęcia (Plac Zabaw) [SP] |
 | 52 |  | 2007-02 | Solar | Z Ostatniej ławki (LP) |
-| 3 | ![Cover](https://i.discogs.com/kz0E5rIoySotneQpVzurLrMOxiPse_lEwf-ErTpIG-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU1/MDcyLTE1NTQ1NDQw/OTQtNjQ0MC5qcGVn.jpeg) | 2008 | Strefa 68 | Zaciśnięta Pięść |
+| 1 | ![Cover](https://i.discogs.com/kz0E5rIoySotneQpVzurLrMOxiPse_lEwf-ErTpIG-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU1/MDcyLTE1NTQ1NDQw/OTQtNjQ0MC5qcGVn.jpeg) | 2008 | Strefa 68 | P.O.(Podziemna Opozycja) |
 | 87 | ![Cover](https://i.discogs.com/v5TEvi1jPrHVuuW1Q238HJy8ypyx5UjsEZAVHO_iccQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTM5/MC0xNTYwNzU4MzY2/LTYwMzAuanBlZw.jpeg) | 2008 | Tede | S.P.O.R.T |
 | 67 | ![Cover](https://i.discogs.com/43SqBopGEFo9CXOzXqz7Foo_oLew4LfnyZofDMKK6k4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzI4/NjEtMTI2NTgwOTk3/My5qcGVn.jpeg) | 2008-01-28 | Kajman | Bluźnierca |
 | 14 | ![Cover](https://i.discogs.com/hhTs8vkR-O_1h1CXw5Auls9VqQCNX0XYpuvr4LXEVsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTM5/OTItMTI2NjkzMjk3/MC5qcGVn.jpeg) | 2008-04-07 | Dixon37 | Lot Na Całe Życie (Reedycja) |
@@ -80,7 +80,7 @@ Last updated: <time datetime="2025-10-20T04:29:11.803Z">Mon Oct 20 2025 07:29:11
 | 97 | ![Cover](https://i.discogs.com/mGqfMC1Qf7EZCeSFVkxbd0Wzs4owcb7d3RwkNZlmE4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDI2/OTAtMTQ2MTY5NTg2/NS0yNjYxLmpwZWc.jpeg) | 2015-10-03 | Rogal DDL | Nielegal 215 |
 | 13 | ![Cover](https://i.discogs.com/yznbO_O2zfCrCUuIdjvOo1evR7gRornwOZDiiOQPN8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDcw/NjE1LTE1MTY5MDQw/NzUtMTUxNi5qcGVn.jpeg) | 2016 | Dixon37 | Krew za krew |
 | 91 |  | 2016 | Białas | H8M4 |
-| 1 | ![Cover](https://i.discogs.com/jTmgPYzq22iSZflvSH_i6eLkKTDoit4fn_usfQLQzcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzQ3/MDUtMTQ1MTk0ODYy/MS0xOTk5LmpwZWc.jpeg) | 2016-01-04 | SNR | SNRAP |
+| 2 | ![Cover](https://i.discogs.com/jTmgPYzq22iSZflvSH_i6eLkKTDoit4fn_usfQLQzcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzQ3/MDUtMTQ1MTk0ODYy/MS0xOTk5LmpwZWc.jpeg) | 2016-01-04 | SNR | SNRAP |
 | 60 | ![Cover](https://i.discogs.com/kjKiZ2lV3onFFJD1JXY8RY-sL8M1JsNEfrqU8kMtNyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNDQ3/ODgtMTU0OTY2MzE0/MS02NDU0LmpwZWc.jpeg) | 2016-03-11 | Polska Wersja | Notabene |
 | 96 | ![Cover](https://i.discogs.com/bc0Voub28U_Vs_WtddYwy-JIUoZwQTgdGdqv19M5_pI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzY0/NDktMTQ3MTgwOTIy/MC01NzEwLmpwZWc.jpeg) | 2016-09 | Mata | 2038: WARSZAWA |
 | 84 | ![Cover](https://i.discogs.com/mGqfMC1Qf7EZCeSFVkxbd0Wzs4owcb7d3RwkNZlmE4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDI2/OTAtMTQ2MTY5NTg2/NS0yNjYxLmpwZWc.jpeg) | 2017-02-14 | Rogal DDL | Nielegal 216 |

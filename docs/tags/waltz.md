@@ -1,20 +1,20 @@
 ---
 category: genre
-date: 2025-10-27T09:34:20.290Z
+date: 2025-10-28T06:49:50.246Z
 permalink: tags/waltz
 title: waltz
 ---
 
 ## waltz
 
-Last updated: <time datetime="2025-10-27T09:34:20.290Z">Mon Oct 27 2025 11:34:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T06:49:50.246Z">Tue Oct 28 2025 08:49:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | Dzedenz | ElectroClassic 1. Midnight of Cinderella - EP |
-| 2 |  |  | Larrysmusic | Electric Accordion |
+| 1 |  |  | Константин Смирнов | Электричка туманной надежды |
+| 2 |  | 2009-08-06 | Tom Wolf | INCOMPLETE - Tom Wolf |
 | 3 |  |  | Johann Strauss  II | STRAUSS II, J.: Edition - Vol. 43 |
 | 7 |  |  | Johann Strauss  II | STRAUSS II, J.: Edition - Vol. 26 |
 | 9 |  |  | Johann Strauss  II | STRAUSS II, J.: Edition - Vol. 33 |
