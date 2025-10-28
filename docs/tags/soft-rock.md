@@ -1,43 +1,44 @@
 ---
 category: genre
-date: 2025-10-25T09:48:29.108Z
+date: 2025-10-28T05:58:38.273Z
 permalink: tags/soft-rock
 title: soft rock
 ---
 
 ## soft rock
 
-Last updated: <time datetime="2025-10-25T09:48:29.108Z">Sat Oct 25 2025 12:48:29 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T05:58:38.273Z">Tue Oct 28 2025 07:58:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
+| 1 |  |  | Carpenters | Carpenters |
 | 62 |  | 1969 | Neil Diamond | Sweet Caroline |
-| 2 | ![Cover](https://i.discogs.com/9sx8-NU22_54BRwqJcbCSWpdlpmKIpjRO7oPsijDUwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIw/MzQtMTcxNzM1OTk4/My02NTIwLmpwZWc.jpeg) | 1970 | Mungo Jerry | In The Summertime |
+| 3 | ![Cover](https://i.discogs.com/9sx8-NU22_54BRwqJcbCSWpdlpmKIpjRO7oPsijDUwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIw/MzQtMTcxNzM1OTk4/My02NTIwLmpwZWc.jpeg) | 1970 | Mungo Jerry | In The Summertime |
 | 82 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/86ff0f0d2e144c8c463c9161c34a9a00.png) | 1971 | America | America |
-| 9 |  | 1972 | Bread | Baby I&#39;m-A Want You |
-| 24 |  | 1972 | Albert Hammond | It Never Rains in Southern California |
+| 10 |  | 1972 | Bread | Baby I&#39;m-A Want You |
+| 25 |  | 1972 | Albert Hammond | It Never Rains in Southern California |
 | 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3b4f355def71311869e2c03b21506263.png) | 1972 | America | Homecoming |
 | 76 |  | 1972 | Looking Glass | Looking Glass |
 | 51 |  | 1972-06-13 | Carpenters | A Song For You |
-| 21 | ![Cover](https://i.discogs.com/w0CEjHuQrfrvwcEd8C68Us_g_-sdQie04ZIGuMYBF_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzMz/ODMtMTYyMzk3NjU4/OS0xOTYxLmpwZWc.jpeg) | 1973 | John Denver | John Denver&#39;s Greatest Hits |
-| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/37cbde2fb82e4f4f9b6855be482667f3.png) | 1973-03 | Bread | The Best of Bread |
+| 22 | ![Cover](https://i.discogs.com/w0CEjHuQrfrvwcEd8C68Us_g_-sdQie04ZIGuMYBF_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzMz/ODMtMTYyMzk3NjU4/OS0xOTYxLmpwZWc.jpeg) | 1973 | John Denver | John Denver&#39;s Greatest Hits |
+| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/37cbde2fb82e4f4f9b6855be482667f3.png) | 1973-03 | Bread | The Best of Bread |
 | 43 |  | 1973-03-02 | The Doobie Brothers | The Captain and Me |
-| 18 | ![Cover](https://i.discogs.com/cRCUjvNlFVR4EUeF5tpC4fOBHw-vsKv0MDS0Jb3HmaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODYw/Mi0xNDkwNDg3ODQ5/LTQ5MzUuanBlZw.jpeg) | 1974 | America | Holiday |
-| 20 |  | 1974-04 | Gordon Lightfoot | Sundown |
-| 16 | ![Cover](https://i.discogs.com/GrkSLKN06j_qqN2pdmf3DRCc0OrXi3C3fDrqx2ADCEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQx/MDktMTM2MzEyMTMy/OS0zNjc0LmpwZWc.jpeg) | 1974-09 | Jackson Browne | Late For The Sky |
+| 19 | ![Cover](https://i.discogs.com/cRCUjvNlFVR4EUeF5tpC4fOBHw-vsKv0MDS0Jb3HmaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODYw/Mi0xNDkwNDg3ODQ5/LTQ5MzUuanBlZw.jpeg) | 1974 | America | Holiday |
+| 21 |  | 1974-04 | Gordon Lightfoot | Sundown |
+| 17 | ![Cover](https://i.discogs.com/GrkSLKN06j_qqN2pdmf3DRCc0OrXi3C3fDrqx2ADCEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQx/MDktMTM2MzEyMTMy/OS0zNjc0LmpwZWc.jpeg) | 1974-09 | Jackson Browne | Late For The Sky |
 | 53 | ![Cover](https://i.discogs.com/BDqlecO1S702gtfDSCkMgyQcUZDBZPU0WPSEnuW5W24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDky/ODItMTM1MjY5NjU1/Ni01NzY3LmpwZWc.jpeg) | 1975 | America | Hearts |
 | 72 |  | 1975-03-11 | 10cc | The Original Soundtrack |
-| 17 |  | 1975-06-06 | Carpenters | Horizon |
+| 18 |  | 1975-06-06 | Carpenters | Horizon |
 | 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/97e59a52bf1c49ceb28cfa4d763e8520.png) | 1975-07-11 | Fleetwood Mac | Fleetwood Mac |
-| 4 |  | 1976 | Leo Sayer | Endless Flight |
+| 5 |  | 1976 | Leo Sayer | Endless Flight |
 | 34 |  | 1977 | Player | Player |
 | 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/349d64820e124b77cb5275ab03042693.png) | 1977-02-04 | Fleetwood Mac | Rumours |
 | 84 |  | 1978 | Gerry Rafferty | City To City |
 | 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/59b9e673154c3bcd375116773019b1fc.png) | 1979-09 | Fleetwood Mac | Tusk |
 | 67 |  | 1979-12-20 | Christopher Cross | Christopher Cross |
-| 22 |  | 1980-03-03 | Air Supply | Lost in Love |
+| 23 |  | 1980-03-03 | Air Supply | Lost in Love |
 | 61 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/145cf0b3fffe44d3c44c2e5ef2d08699.png) | 1980-11-21 | Steely Dan | Gaucho |
 | 70 | ![Cover](https://i.discogs.com/rU6rEllOopouLIr-Hg1WYJs0lqeVSBZChIjrlrWdK0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk1/MDk1LTE1MTE2MzYw/NzktMzUxMi5qcGVn.jpeg) | 1982 | Paul McCartney | McCartney II (Special Edition) |
 | 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png) | 1982-04-08 | Toto | Toto IV |
@@ -54,40 +55,39 @@ Last updated: <time datetime="2025-10-25T09:48:29.108Z">Sat Oct 25 2025 12:48:29
 | 38 |  | 1991-01-08 | Sting | All This Time |
 | 47 | ![Cover](https://i.discogs.com/PXXuq_T90r7TynlHMiwF16OcJyYEz9MaBksVMLTaVXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/OTM0LTE2OTUwMDc4/NjAtNzM4MS5qcGVn.jpeg) | 1992-11-01 | Whitesnake | Whitesnake (2018 Remaster) |
 | 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b0fc63d436aeb3ba7c4f49c247accf31.png) | 1993-02-28 | Sting | Ten Summoner&#39;s Tales |
-| 13 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/166107697b3ee91d320d500869e3b87e.png) | 1995-11-20 | Don Henley | Actual Miles: Henley&#39;s Greatest Hits |
-| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f4c1cc30185dad90ee5b99b04371dc61.png) | 1996-03-22 | Mark Knopfler | Golden Heart |
+| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/166107697b3ee91d320d500869e3b87e.png) | 1995-11-20 | Don Henley | Actual Miles: Henley&#39;s Greatest Hits |
+| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f4c1cc30185dad90ee5b99b04371dc61.png) | 1996-03-22 | Mark Knopfler | Golden Heart |
 | 71 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c601a68cbd0db68c76071df58d7e6ce2.png) | 1996-10-22 | Phil Collins | Face Value (Deluxe Editon) |
 | 28 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1f56fe49ac3e482e95c09f595d0e4a85.png) | 1997 | Sister Hazel | ...Somewhere More Familiar |
-| 10 |  | 1997-11-04 | Richard Marx | Greatest Hits |
+| 11 |  | 1997-11-04 | Richard Marx | Greatest Hits |
 | 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d898d8d1f33243c0c358b41d16f25116.png) | 1998 | Phil Collins | ...Hits |
 | 42 | ![Cover](https://i.discogs.com/38NP1OUXYRREbYg2tTbX61DqjLLB-altl6p9615UMIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDUz/MS0xNjUyNTY3NDgy/LTY4ODIuanBlZw.jpeg) | 1998-03-21 | Mr. Mister | Broken Wings |
-| 45 | ![Cover](https://i.discogs.com/uh91-0Zb7WaGmtlpSBZYPgOuMpb7efwWkVRclT67QLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzMz/Ni0xMjY0NTQ2OTAw/LmpwZWc.jpeg) | 1998-06-01 | Gerry Rafferty | Baker Street |
-| 12 | ![Cover](https://i.discogs.com/V1tJvPoT4BJ9fbn2NWeh6i8PHUWRdE8j2b3FLuhinmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njgz/ODMtMTM3NTY4Nzc5/MC03NDg4LmpwZWc.jpeg) | 1998-07-06 | Ashe | RAE |
+| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0d9d30ccd6207d1818bbf98e121d3a7f.png) | 1998-06-01 | Gerry Rafferty | Baker Street |
+| 13 | ![Cover](https://i.discogs.com/V1tJvPoT4BJ9fbn2NWeh6i8PHUWRdE8j2b3FLuhinmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njgz/ODMtMTM3NTY4Nzc5/MC03NDg4LmpwZWc.jpeg) | 1998-07-06 | Ashe | RAE |
 | 33 | ![Cover](https://i.discogs.com/JYPp32YiYGRHDckSJXDzX6t2iU0yiaQkwqSY-KTM1LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzIw/Ni0xNDkyOTU2MDcx/LTYwODUuanBlZw.jpeg) | 2000 | John Denver | The John Denver Collection, Vol. 1: Take Me Home Country Roads |
 | 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/312f904538674a70486f1e782d0d053a.png) | 2001 | George Harrison | All Things Must Pass (Remastered) |
 | 60 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ab2f597a1820a86931434c0f8e2653a1.png) | 2004-10-06 | Eagles | One of These Nights (2013 Remaster) |
-| 7 |  | 2006-03-20 | Josh Rouse | Subtitulo |
+| 8 |  | 2006-03-20 | Josh Rouse | Subtitulo |
 | 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/af6a14b3af6b0b37bf36e0afc1e6e2a8.png) | 2006-06-02 | The Feeling | Twelve Stops And Home |
 | 77 | ![Cover](https://i.discogs.com/GOyb9mESfUNlvPG69R4XtSdt_bMeFhyHi68aeqqQp9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjI5/OC0xNTUyNTAzNDAw/LTcxMzQuanBlZw.jpeg) | 2006-07-25 | Midlake | The Trials Of Van Occupanther |
 | 83 | ![Cover](https://i.discogs.com/FR942XPod2CeZrulGvrzKoY2ytaRy8QnPu1B64n82bA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTE2/MjQtMTUzNDU5NTU3/Ni03MDk1LmpwZWc.jpeg) | 2007-02-20 | Jin | hApPy |
-| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ab555627146f3906f0e191dfbfb958c3.png) | 2008-03-17 | Toto | Fahrenheit |
+| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ab555627146f3906f0e191dfbfb958c3.png) | 2008-03-17 | Toto | Fahrenheit |
 | 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b2e03c46d53a332f96a01bd3cb5c1236.png) | 2008-03-17 | Toto | Toto |
 | 89 | ![Cover](https://i.discogs.com/MAOdJcKFlyySdMv2VQmSMj_YADgXZQjfCB9ke8J5HB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODQz/NTEtMTY3NTA0NTQy/NC02MDg1LmpwZWc.jpeg) | 2009 | Lady Gaga | Die with a smile |
-| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9cdb4773e620e9d8a24aea13f3557b86.png) | 2010-04-07 | Phil Collins | Hits |
 | 98 |  | 2010-04-09 | Train | Hey, Soul Sister |
 | 66 |  | 2010-05-07 | Angus &amp; Julia Stone | Big Jet Plane |
-| 5 |  | 2010-12-31 | Angus &amp; Julia Stone | Memories Of An Old Friend |
+| 6 |  | 2010-12-31 | Angus &amp; Julia Stone | Memories Of An Old Friend |
 | 30 |  | 2011-12-02 | The Staves | Mexico EP |
 | 58 | ![Cover](https://i.discogs.com/C_HgMEbqZ4Xkr7KSNxoQEDHkvKxzYM4_v6dJGsHI65w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODg1/MTctMTM0NDQ0NTk5/Ni00NjAzLmpwZWc.jpeg) | 2012 | HAIM | Forever EP |
 | 96 | ![Cover](https://i.discogs.com/frfR8fEy11EsF2ZkqJ0QTzbkauma-WcIyomBFaLP3u0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjU0/MjA5LTE2MzU2MzU1/MjQtMTM0Ni5qcGVn.jpeg) | 2012 | Lana Del Rey | Blue Banisters |
 | 99 | ![Cover](https://i.discogs.com/pnBFoKpsvWrXosEaw_eM2xJaPxEJVJmERwh4ITLfHig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYy/MTc3LTE1Nzg2OTI0/MTQtMzA4MS5qcGVn.jpeg) | 2012 | Lana Del Rey | Norman Fucking Rockwell! |
-| 1 | ![Cover](https://i.discogs.com/kkFF7-G-qYGTz4Aez83dkzhoJUaRr_QSXOpHdqoHMnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Nzg3/MDUtMTM2NjAyNTg1/MC04NjgwLnBuZw.jpeg) | 2013-04-15 | Jessie Ware | Devotion - The Gold Edition |
+| 2 | ![Cover](https://i.discogs.com/kkFF7-G-qYGTz4Aez83dkzhoJUaRr_QSXOpHdqoHMnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Nzg3/MDUtMTM2NjAyNTg1/MC04NjgwLnBuZw.jpeg) | 2013-04-15 | Jessie Ware | Devotion - The Gold Edition |
 | 85 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/433656941a78d5d94ef39ab8a7e65c5a.png) | 2013-09-27 | HAIM | Days Are Gone |
-| 23 |  | 2014-01-27 | Rodrigo Amarante | Cavalo |
-| 11 | ![Cover](https://i.discogs.com/FXBzrJdKIwhJqhlKw5Lgh8ferYuKpa4yKq9LxdQt-pc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTU4/ODA5LTE2MDQ0MzQy/ODUtMjk4My5qcGVn.jpeg) | 2014-08-03 | Jessie Ware | Tough Love (Deluxe) |
+| 24 |  | 2014-01-27 | Rodrigo Amarante | Cavalo |
+| 12 | ![Cover](https://i.discogs.com/FXBzrJdKIwhJqhlKw5Lgh8ferYuKpa4yKq9LxdQt-pc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTU4/ODA5LTE2MDQ0MzQy/ODUtMjk4My5qcGVn.jpeg) | 2014-08-03 | Jessie Ware | Tough Love (Deluxe) |
 | 46 | ![Cover](https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg) | 2016 | taeyeon | I - The 1st Mini Album |
 | 55 | ![Cover](https://i.discogs.com/OBjs-71k39_eY-qfcLdypsF1ss2BeDz2LgqZX5TK9yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDY2/MzQtMTI1MTU4MTU0/Ni5qcGVn.jpeg) | 2016 | Eagles | Hotel California (Remastered) |
-| 6 | ![Cover](https://i.discogs.com/R7oTPSAI2ho4VG8xGJLnPDecs_2uVuOwRjyNm5KS5_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzIw/NjAtMTQ3NjAzMTYx/My0yODk4LmpwZWc.jpeg) | 2016-10-14 | The Lemon Twigs | Do Hollywood |
+| 7 | ![Cover](https://i.discogs.com/R7oTPSAI2ho4VG8xGJLnPDecs_2uVuOwRjyNm5KS5_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzIw/NjAtMTQ3NjAzMTYx/My0yODk4LmpwZWc.jpeg) | 2016-10-14 | The Lemon Twigs | Do Hollywood |
 | 100 | ![Cover](https://i.discogs.com/HkY498NXx2S5cL7DlgKh02RbkYrcmew2cKoRHwe0EVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDU4/NDE1LTE1MjQxNzE0/MTQtMTIwMy5qcGVn.jpeg) | 2017-04-07 | Father John Misty | Real Love Baby |
 | 68 | ![Cover](https://i.discogs.com/p12Zm4DZb05JQn5POyZP7caY8egjKINE9t1VFZ8dNGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTE5/Mzk1LTE2NTA0NjE4/ODctNzg0NC5qcGVn.jpeg) | 2017-04-26 | John Mayer | The Search for Everything |
 | 80 | ![Cover](https://i.discogs.com/UQMWISTJ4T1nMy0Pfu8Hd-M8yEYt5GMGey-htsnGjGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDEx/NTM4LTE2ODg0NTQ3/NDAtODY2MS5qcGVn.jpeg) | 2017-05-05 | Mac DeMarco | This Old Dog |
@@ -102,8 +102,8 @@ Last updated: <time datetime="2025-10-25T09:48:29.108Z">Sat Oct 25 2025 12:48:29
 | 44 | ![Cover](https://i.discogs.com/4yRbOhs-6S_yuu1otuwdEwb1Cqj_j3BCvtwm9GDKx1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzgx/NzA2LTE1OTc2ODU0/NTYtNzc3MS5qcGVn.jpeg) | 2020-08-17 | Father John Misty | To S. &#x2F; To R. |
 | 63 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/40f7beb4f75b12006f9656644e8e03cc.png) | 2020-09-18 | Yusuf &#x2F; Cat Stevens | Tea For The Tillerman (Remastered 2020) |
 | 97 | ![Cover](https://i.discogs.com/NDASIPOUPTcSctUbDfaSyd8NN7xYGIb_r2-QrCVgodA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODgz/OTI1LTE2MTAzOTI4/MTUtNDY1OC5qcGVn.jpeg) | 2021-03-19 | Lana Del Rey | Chemtrails Over the Country Club |
-| 19 | ![Cover](https://i.discogs.com/AWaTbvE5WotVm1142d8EpnfXLPE_rgoXBlqWOqZo-oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQ3/NTg1LTE2MTk4OTQw/MDktMjQxMS5qcGVn.jpeg) | 2021-05-14 | St. Vincent | Daddy&#39;s Home |
-| 15 | ![Cover](https://i.discogs.com/vrxQdoAZ8YPzbpAXzCfzRJXOlhihZlJ8OI5cwEDMfNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjM1/MzY1LTE2MjA0MzY3/ODAtNzYzMS5qcGVn.jpeg) | 2021-07-09 | Aly &amp; AJ | a touch of the beat gets you up on your feet gets you out and then into the sun |
+| 20 | ![Cover](https://i.discogs.com/AWaTbvE5WotVm1142d8EpnfXLPE_rgoXBlqWOqZo-oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQ3/NTg1LTE2MTk4OTQw/MDktMjQxMS5qcGVn.jpeg) | 2021-05-14 | St. Vincent | Daddy&#39;s Home |
+| 16 | ![Cover](https://i.discogs.com/vrxQdoAZ8YPzbpAXzCfzRJXOlhihZlJ8OI5cwEDMfNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjM1/MzY1LTE2MjA0MzY3/ODAtNzYzMS5qcGVn.jpeg) | 2021-07-09 | Aly &amp; AJ | a touch of the beat gets you up on your feet gets you out and then into the sun |
 | 74 | ![Cover](https://i.discogs.com/sFPmtrT6MKkoY_RUMP8aIe6L0o1ehTKlIfwz7EWwaGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDky/NTkxLTE2MjY0MjQ4/MzQtMTAwNS5qcGVn.jpeg) | 2021-07-16 | John Mayer | Sob Rock |
 | 69 | ![Cover](https://i.discogs.com/66rZWSKEqANz9EEjBP1g-FC641U1z0hAA-20BzgRPGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDk0/NzY3LTE2MjMzNjI3/MzktNDExMS5qcGVn.jpeg) | 2021-08-20 | Lorde | Solar Power |
 | 91 | ![Cover](https://i.discogs.com/ntPr9xbvtnZNN1GX1QbVMiN5AmeVaEWWGeG-EUqgcbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjkz/MTA2LTE2NzA1ODIz/NTQtNDE0OC5qcGVn.jpeg) | 2022-05-20 | Harry Styles | Harry&#39;s House |

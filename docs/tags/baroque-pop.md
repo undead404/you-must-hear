@@ -1,25 +1,26 @@
 ---
 category: genre
-date: 2025-10-25T09:24:12.880Z
+date: 2025-10-28T05:55:08.299Z
 permalink: tags/baroque-pop
 title: baroque pop
 ---
 
 ## baroque pop
 
-Last updated: <time datetime="2025-10-25T09:24:12.880Z">Sat Oct 25 2025 12:24:12 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T05:55:08.299Z">Tue Oct 28 2025 07:55:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
+| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/32e31f4c928721e058b045087f4b23b1.png) |  | Ferkat Al Ard | Oghneya (Habibi Funk 019) |
 | 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/aa5372c785c9d4188cc32788cd914c04.png) | 1966-05-16 | The Beach Boys | Pet Sounds |
 | 39 | ![Cover](https://i.discogs.com/45s3kHunRtp8qOIesLytiUOOx-zXP2rgdbYFKIu1j9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mjg4/OTctMTY4NDMzOTM5/Ny03ODk4LmpwZWc.jpeg) | 1966-10-10 | The Beach Boys | Good Vibrations |
 | 78 | ![Cover](https://i.discogs.com/evOtYImHsKSDirwvW9iNdXjYbEwF_XvVqyT5OIxF0Pk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzY3/NDUtMTQ2MTU4Nzk1/Ny0yMDQzLmpwZWc.jpeg) | 1967 | The Beach Boys | Pet Sounds (Original Mono &amp; Stereo Mix Versions) |
 | 19 | ![Cover](https://i.discogs.com/_FgjquhM9Vhzwub_EXUHsBdXZbjVILV35X6Ca1mvHBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzY3/NjQtMTQ3NDM0MDIw/Mi0xMzQzLmpwZWc.jpeg) | 1967-02 | The Left Banke | Walk Away Renée&#x2F;Pretty Ballerina |
 | 52 |  | 1967-08 | Scott Walker | Scott |
 | 12 |  | 1967-10-31 | Phil Ochs | Pleasures Of The Harbor |
-| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d309344ae7c83456c908b24b66b364b8.png) | 1968 | The Monkees | The Birds, The Bees, &amp; The Monkees |
+| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d309344ae7c83456c908b24b66b364b8.png) | 1968 | The Monkees | The Birds, The Bees, &amp; The Monkees |
 | 15 | ![Cover](https://i.discogs.com/zFJsQ2t-dkKtpPqm8cHjO-Jl3CyzO_O21BeVlIqvM8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTg5/NjMtMTUyOTIwNjkw/OS04NDQ3LmpwZWc.jpeg) | 1968 | Margo Guryan | Take a picture |
 | 16 | ![Cover](https://i.discogs.com/rflfnF5w0DeWRAMqaEWBFcNxeRxKPJq2stdUAsx5Odo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzAx/NzItMTU2MjQ2ODAz/Ny01NjUzLmpwZWc.jpeg) | 1968 | The Turtles | The Turtles Present the Battle of the Bands |
 | 38 |  | 1968 | Van Dyke Parks | Song Cycle |
@@ -39,22 +40,21 @@ Last updated: <time datetime="2025-10-25T09:24:12.880Z">Sat Oct 25 2025 12:24:12
 | 26 |  | 1974-09 | Randy Newman | Good Old Boys |
 | 57 | ![Cover](https://i.discogs.com/HqqGNCb-SIUy1ueds7JElNpZiiDOg2HZ6rleBxSUmgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzkx/ODktMTI5ODgzMjMw/OS5qcGVn.jpeg) | 1975 | The Beach Boys | Summer Days (And Summer Nights) [Remastered] |
 | 74 | ![Cover](https://i.discogs.com/O8nDq6yAP7kSIuv6jpU4deTeUiKY8oV1bWbpoec3rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTAx/OTktMTQ0MjU0OTUy/NC04NzE3LmpwZWc.jpeg) | 1976 | Marina | The Family Jewels (Deluxe) |
-| 3 | ![Cover](https://i.discogs.com/O6dviRxRsWdW2-VEC8jPnso4uqZAbFMgHVR3OPbF-QM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMw/Mzk3LTE1OTg1ODIw/MzYtNjI4Mi5qcGVn.jpeg) | 1978 | The Beach Boys | Today! |
+| 1 | ![Cover](https://i.discogs.com/O6dviRxRsWdW2-VEC8jPnso4uqZAbFMgHVR3OPbF-QM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMw/Mzk3LTE1OTg1ODIw/MzYtNjI4Mi5qcGVn.jpeg) | 1978 | The Beach Boys | Today! |
 | 47 | ![Cover](https://i.discogs.com/57M6N-UMRPTc_PGKpLEqdn3lDp0XrtB9mqCoYMzgphE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzA1/NS0xMjk2MjAxMDcx/LmpwZWc.jpeg) | 1978 | Moondog | H&#39;art Songs |
 | 49 | ![Cover](https://i.discogs.com/hcb2w7w3cOouvamCu8MZeyo_edLI_yvWmgF5WrPpUFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzUz/NjgtMTQ3NTk1MDky/OC0xNDYwLmpwZWc.jpeg) | 1978 | The Beach Boys | Wild Honey (Remastered) |
-| 61 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ee0e7cf6f772a1188f95f03601c0c198.png) | 1979 | David Bowie | David Bowie |
+| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ee0e7cf6f772a1188f95f03601c0c198.png) | 1979 | David Bowie | David Bowie |
 | 54 | ![Cover](https://i.discogs.com/w0qMavk8yd8OwiSXVUKqZSiUSmBdXt9-lfJycSz70yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTAz/MDktMTQyNTg0NjI5/NS02ODg0LmpwZWc.jpeg) | 1983 | The Kinks | The Kinks Are The Village Green Preservation Society (2018 Stereo Remaster) |
 | 41 | ![Cover](https://i.discogs.com/ETPi74JYSGKWFmLMm0cIus4RH4vuIQZHg9XLqIC0cds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTQx/OTQtMTM5ODAxNjI5/OS0yODcwLmpwZWc.jpeg) | 1984 | fun. | Aim and Ignite (Deluxe Version) |
 | 84 |  | 1985-07-30 | Kate Bush | Hounds of Love |
 | 60 |  | 1986-06-16 | Mecano | Entre el cielo y el suelo |
-| 1 | ![Cover](https://i.discogs.com/xCWjtv7C8jpC_A9Xbk4LUgxmVzDGJUl86PO97Q0p5yw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTY5/MTEtMTU0NDU1NTQ1/Ni0xNjcwLmpwZWc.jpeg) | 1988 | Maria Bethânia | Drama |
 | 50 | ![Cover](https://i.discogs.com/2Pzj_n2pGpaDsQQYizwFx5rQamR_TpSt9nGJclfMZGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzAz/NzEtMTQ1NjY5OTk5/Ni01NzA2LmpwZWc.jpeg) | 1996 | Kate Bush | Lionheart (2018 Remaster) |
 | 24 | ![Cover](https://i.discogs.com/_p3DPdmmrD25MpqdbdeyICfYicnGMPBjnYKBXJafYQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDM0/My0xNjgwOTA0Mzky/LTE4NTIuanBlZw.jpeg) | 1997-02-10 | The Divine Comedy | A Short Album About Love |
-| 4 |  | 1999-02-16 | of Montreal | The Gay Parade |
+| 3 |  | 1999-02-16 | of Montreal | The Gay Parade |
 | 75 | ![Cover](https://i.discogs.com/Jims9KbTEnrOm4TmGjoVLiXz7BqMgd2eOWK9eNtAEfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY5/MTUtMTUxODg4NDY1/MS04OTAzLmpwZWc.jpeg) | 1999-11-09 | Fiona Apple | When The Pawn... |
 | 18 | ![Cover](https://i.discogs.com/a2oDVKBn3Hirk3hSsbFUfMieOSu0i7P7PZMgEvF3Y1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTg5/MjAtMTI1ODg4NjE2/MS5qcGVn.jpeg) | 2000-06 | a-ha | MTV Unplugged - Summer Solstice |
 | 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1ac1b27a691107b32b1eabee93481fbc.png) | 2002 | The Beatles | Revolver (Remastered) |
-| 62 |  | 2004-06-14 | The Divine Comedy | Absent Friends |
+| 61 |  | 2004-06-14 | The Divine Comedy | Absent Friends |
 | 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3755e6aa9449420097dd54f2b9092333.png) | 2004-09-28 | Brian Wilson | SMiLE |
 | 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f08d680623554df1a936a8ffec37f291.png) | 2005-08-29 | McFly | Wonderland |
 | 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1040d6a1bc93404bbc26d8b8b683c305.png) | 2005-09-12 | Paul McCartney | Chaos and Creation in the Backyard |
@@ -91,10 +91,10 @@ Last updated: <time datetime="2025-10-25T09:24:12.880Z">Sat Oct 25 2025 12:24:12
 | 77 | ![Cover](https://i.discogs.com/vl_yfABUjy6B506YatsxoYjDYKOzepOupg9KHmhkXD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTY2/MzAtMTQ3NjgyMTY0/Ni03NjU4LmpwZWc.jpeg) | 2016-10-16 | Weyes Blood | Front Row Seat To Earth |
 | 64 | ![Cover](https://i.discogs.com/pe1AWZZ9cDx0b2fG0ic_yjhF7Kvtb8Y9244xs1R0qC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODI5/NDQtMTYxOTUyMjM0/MC03OTM0LmpwZWc.jpeg) | 2017 | Foxygen | Hang |
 | 46 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/348b5cd701cf5e1139fa40cf994d1b3e.png) | 2017-10 | Michelle Gurevich | Party Girl |
-| 2 | ![Cover](https://i.discogs.com/Rg8kr41RiWyUhpKxEFAsPGKAqrmxq-u3Tmv7XGgD5vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjcw/MTQzLTE1Mzk3MjEw/MDUtMTg0My5qcGVn.jpeg) | 2018 | Hellogoodbye | S&#39;only Natural |
+| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/af7a94866a97486c784bd16d806b24d3.png) | 2018 | Hellogoodbye | S&#39;only Natural |
 | 14 | ![Cover](https://i.discogs.com/M47Tk8IxjGznYVagywQTfK-SkAonrQkCmb1Skch7Ftg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDYw/NjYxLTE2NDcwMTUy/MjMtMTM3Mi5qcGVn.jpeg) | 2019-01-18 | Deerhunter | Why Hasn&#39;t Everything Already Disappeared? |
 | 98 | ![Cover](https://i.discogs.com/5CAFo6IWJoxbGr6ySgWAgIstEIwCWEnmhpCGpj6bWG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQw/NDMzLTE1NTQyNTA3/OTItNTkyNC5qcGVn.jpeg) | 2019-04-05 | Weyes Blood | Titanic Rising |
-| 6 | ![Cover](https://i.discogs.com/LtRSK6aDPu0s7iTvyRjPXykPMszS_AjqDlGMv0jPtfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg5/Mzc4LTE1NzAzMTQz/NDUtNzAyNC5qcGVn.jpeg) | 2019-10-04 | Angel Olsen | All Mirrors |
+| 5 | ![Cover](https://i.discogs.com/LtRSK6aDPu0s7iTvyRjPXykPMszS_AjqDlGMv0jPtfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg5/Mzc4LTE1NzAzMTQz/NDUtNzAyNC5qcGVn.jpeg) | 2019-10-04 | Angel Olsen | All Mirrors |
 | 11 | ![Cover](https://i.discogs.com/MPLPwn0LI6uaWqZZEgivRPJlE7jzovOoT2aSSI2xTO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzgx/ODY0LTE1OTc2ODk3/MjMtOTQ0OS5qcGVn.jpeg) | 2020-08-21 | The Lemon Twigs | Songs for the General Public |
 | 93 | ![Cover](https://i.discogs.com/aHxYpn2uti2Cl76eODK9OM7g6cuVVkLi-bP_w3YwHqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM4/MDI3LTE2MDA1NDM0/NTUtMTgzNC5qcGVn.jpeg) | 2020-09-17 | ECCO2k | Pollen |
 | 22 | ![Cover](https://i.discogs.com/kZKDouRNAqQ0CFXW8f8eIAKebJQTzTmvgyjZLYkaZuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk2/NzQ4LTE2MjQ4MTA4/ODYtMjk4Mi5qcGVn.jpeg) | 2020-10-28 | Black Country, New Road | Chaos Space Marine |
@@ -106,7 +106,7 @@ Last updated: <time datetime="2025-10-25T09:24:12.880Z">Sat Oct 25 2025 12:24:12
 | 87 | ![Cover](https://i.discogs.com/tP4ZRo6UagOwoivqr_vFZlqFfSLmFzengNIM6cHCCas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTUx/OTg2LTE2NjgzNTU2/MjEtNDk2MC5qcGVn.jpeg) | 2022-11-18 | Weyes Blood | And In The Darkness, Hearts Aglow |
 | 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/69c2e238f63d5aa2d62181d5b74f34a0.png) | 2023-02-17 | Arctic Monkeys | The Car |
 | 8 | ![Cover](https://i.discogs.com/JrhQNTyEmRq8NT8SdPCvdh503nJXvwkl5srNmlYOEfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDcx/NjgtMTcwNzEyOTU4/OS0yOTU1LmpwZWc.jpeg) | 2023-04-21 | Emitt Rhodes | The Emitt Rhodes Recordings (1969-1973) |
-| 5 | ![Cover](https://i.discogs.com/-SRraua44qzFA30Z5UOQ_om3NFTjEmzl8_eMpBoGAf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTIz/MTE2LTE2Nzk2MjU5/MTQtNjI2Ny5qcGVn.jpeg) | 2023-04-28 | Black Country, New Road | Live At Bush Hall |
+| 4 | ![Cover](https://i.discogs.com/-SRraua44qzFA30Z5UOQ_om3NFTjEmzl8_eMpBoGAf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTIz/MTE2LTE2Nzk2MjU5/MTQtNjI2Ny5qcGVn.jpeg) | 2023-04-28 | Black Country, New Road | Live At Bush Hall |
 | 51 | ![Cover](https://i.discogs.com/OWmwfkkUjBpDmygGeV5Zbvmk4Pzg2hCHQMSAFudgk2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTU3/NTIyLTE2ODQwMDA3/MDUtODAxNS5qcGVn.jpeg) | 2023-05-05 | The Lemon Twigs | Everything Harmony |
 | 28 | ![Cover](https://i.discogs.com/LtKd8c8AH-FkVbhWt1Qwa4TEy6tT8StbPSXJ4insFwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzEz/Mjk2LTE2OTAxNzQy/MjEtNTU1MS5qcGVn.jpeg) | 2023-07-21 | Blur | The Ballad of Darren |
 | 59 | ![Cover](https://i.discogs.com/k2Zjy3vfFR1igkcx5ql0LouLfMErLv1ggX1M8vtmUQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQ1/NDIzLTE2OTc3Njk4/NjYtODcyOC5wbmc.jpeg) | 2023-10-20 | Ana Frango elétrico | Me Chama De Gato Que Eu Sou Sua |
@@ -121,8 +121,8 @@ Last updated: <time datetime="2025-10-25T09:24:12.880Z">Sat Oct 25 2025 12:24:12
 - [alternative]({{ "/tags/alternative" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})
 - [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
-- [indie rock]({{ "/tags/indie-rock" | relative_url }})
 - [indie pop]({{ "/tags/indie-pop" | relative_url }})
+- [indie rock]({{ "/tags/indie-rock" | relative_url }})
 - [art pop]({{ "/tags/art-pop" | relative_url }})
 - [sunshine pop]({{ "/tags/sunshine-pop" | relative_url }})
 - [psychedelic rock]({{ "/tags/psychedelic-rock" | relative_url }})

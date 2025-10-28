@@ -1,36 +1,36 @@
 ---
 category: genre
-date: 2025-10-23T07:33:26.077Z
+date: 2025-10-28T05:54:47.212Z
 permalink: tags/rock-nacional
 title: rock nacional
 ---
 
 ## rock nacional
 
-Last updated: <time datetime="2025-10-23T07:33:26.077Z">Thu Oct 23 2025 10:33:26 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T05:54:47.212Z">Tue Oct 28 2025 07:54:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | A Nova Banda da Cidade | A Nova Banda da Cidade |
-| 4 |  |  | Sujetos Deseantes | Sujetos Deseantes |
-| 5 |  |  | Martiataka | Rockæ Roll Combustível |
-| 8 |  |  | CATALINATOM | Natural &#x2F; Tal mar |
-| 9 |  |  | Derroche | Maqueta |
-| 30 | ![Cover](https://i.discogs.com/1SUNjNh0yVu3c8HEhzXYWuvzS009TJIEpVpPFGcSxdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjMz/NzktMTQ2OTgxMjEw/MC0xNTc1LmpwZWc.jpeg) | 1986-07 | Legião Urbana | As 20 Mais |
+| 3 |  |  | Sujetos Deseantes | Sujetos Deseantes |
+| 4 |  |  | Martiataka | Rockæ Roll Combustível |
+| 7 |  |  | CATALINATOM | Natural &#x2F; Tal mar |
+| 8 |  |  | Derroche | Maqueta |
 | 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dce13f14d2cf44cea42c573900d88efc.png) |  | Rascal Experience | Bad Luck Experience |
-| 39 |  |  | Claustrofonia | Obrigado e Volte Sempre |
 | 43 |  |  | LanLan e os Elaines | Com Ela |
+| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ddb3805522464256a8ef007073f921bd.png) | 1963 | Miriam Makeba | The Best Of Miriam Makeba: The Early Years |
+| 30 | ![Cover](https://i.discogs.com/1SUNjNh0yVu3c8HEhzXYWuvzS009TJIEpVpPFGcSxdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjMz/NzktMTQ2OTgxMjEw/MC0xNTc1LmpwZWc.jpeg) | 1986-07 | Legião Urbana | As 20 Mais |
+| 39 |  |  | Claustrofonia | Obrigado e Volte Sempre |
 | 44 |  |  | Colina | Lar |
 | 51 |  |  | Os Caras &amp; Carol | Coisas Da Vida |
 | 69 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4fdd8378c124ede7d9034f426a90cb30.png) | 1979 | Raul Seixas | Por Quem Os Sinos Dobram |
 | 67 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2a7add8da7094203a2d01200a5ce68e6.png) | 1986 | Massacre | Aerial 13 |
-| 2 |  | 1987 | Various Artists | 4 Décadas De Rock Nacional (1996-2006) |
+| 1 |  | 1987 | Various Artists | 4 Décadas De Rock Nacional (1996-2006) |
 | 14 |  | 1987 | Various Artists | 4 Décadas De Rock Nacional (1966-1976) |
 | 27 |  | 1987 | Various Artists | 4 Décadas De Rock Nacional (1986-1996) |
 | 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5edeb117f78003be4415f0afc8fb7445.png) | 1987 | Engenheiros Do Hawaii | A Revolta Dos Dandis |
-| 7 | ![Cover](https://i.discogs.com/AXdNvsiQl8GShzDE4BrtoQXSZcLcrWbspeW2O7ihxc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjUx/NTQtMTY5MzI0MDgy/NS0yNTU1LmpwZWc.jpeg) | 1989 | Titas | Cabeca Dinossauro |
+| 6 | ![Cover](https://i.discogs.com/AXdNvsiQl8GShzDE4BrtoQXSZcLcrWbspeW2O7ihxc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjUx/NTQtMTY5MzI0MDgy/NS0yNTU1LmpwZWc.jpeg) | 1989 | Titas | Cabeca Dinossauro |
 | 88 |  | 1990 | Attaque 77 | El Cielo Puede Esperar |
 | 63 | ![Cover](https://i.discogs.com/CHXPMYhUzlWNz-wfpaPiytpKrL7fJL6eo7S3LWsz-Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MTctMTU3NzgwOTk3/My01NDM4LmpwZWc.jpeg) | 1992 | Bersuit Vergarabat | Y Punto... |
 | 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bda7e796a06e44980074974e8d83c042.png) | 1993 | Engenheiros Do Hawaii | Filmes de guerra, canções de amor |
@@ -84,14 +84,14 @@ Last updated: <time datetime="2025-10-23T07:33:26.077Z">Thu Oct 23 2025 10:33:26
 | 10 | ![Cover](https://i.discogs.com/KKIMD9bugW_7PeInzSwAMpN4pEMYb4Tpe2ZqFr79paM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDEx/OTc5LTE1NDY0NDIz/MDEtODkwMC5qcGVn.jpeg) | 2008 | Las buenas noches | Aventuras domesticas |
 | 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c7753c1a4d534ad9a82598e9dd4a6434.png) | 2008-01-01 | Guasones | Esclavo |
 | 83 |  | 2008-05-06 | La Fuga | Asuntos pendientes |
-| 3 | ![Cover](https://i.discogs.com/PlqjRJVH18vlUd6BXfPFYzLFHye1PXThYxpLiK9snHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzYy/OTY1LTE2NjUyNjMx/MzctNzY5Ny5qcGVn.jpeg) | 2009 | Martiataka | À moda do caos |
-| 6 | ![Cover](https://i.discogs.com/PlqjRJVH18vlUd6BXfPFYzLFHye1PXThYxpLiK9snHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzYy/OTY1LTE2NjUyNjMx/MzctNzY5Ny5qcGVn.jpeg) | 2009 | Martiataka | Marginal |
+| 2 | ![Cover](https://i.discogs.com/PlqjRJVH18vlUd6BXfPFYzLFHye1PXThYxpLiK9snHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzYy/OTY1LTE2NjUyNjMx/MzctNzY5Ny5qcGVn.jpeg) | 2009 | Martiataka | À moda do caos |
+| 5 | ![Cover](https://i.discogs.com/PlqjRJVH18vlUd6BXfPFYzLFHye1PXThYxpLiK9snHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzYy/OTY1LTE2NjUyNjMx/MzctNzY5Ny5qcGVn.jpeg) | 2009 | Martiataka | Marginal |
 | 50 | ![Cover](https://i.discogs.com/dch_6TxkGx-GsxAdIdXWsDrAuRpgcRG4LUaBSuYjdnQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM5/MTQ4LTE1MTQ1MzQx/OTYtMzg1MC5qcGVn.jpeg) | 2009 | Salta la Banca | Ya no somos dos ahora |
 | 56 | ![Cover](https://i.discogs.com/5Ku5dSYoQrHUcklHJaMTtY1-c1Yh8LfAZkhQKThtgwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA1/NzAwLTE1MDk5MzY3/NzgtMjY5NC5qcGVn.jpeg) | 2009 | Silêncio Raro | Silêncio Raro |
 | 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d666b1f4d33f8f46d7393c9b12e1901e.png) | 2009-10-20 | NX Zero | Sete Chaves |
 | 57 |  | 2011 | Salta la Banca | Seremos |
 | 98 | ![Cover](https://i.discogs.com/HuNFOBc_ZbiB7ixg96Qq-Y1z_knInnhdSfI6mNzSX9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTkx/MTEtMTQ1MzIwNzU2/My04NTc3LmpwZWc.jpeg) | 2011 | Engenheiros Do Hawaii | Acústico |
-| 18 | ![Cover](https://i.discogs.com/3gJel6Trwdnr97Aa44TPOtp9yh707CeghZcAyruv9Qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Mzg2/NTUtMTQ3NDYzMTU5/NC01NDM5LmpwZWc.jpeg) | 2012 | Capital Inicial | Ao Vivo Rock In Rio |
+| 18 |  | 2012 | Capital Inicial | Ao Vivo Rock In Rio |
 | 29 | ![Cover](https://i.discogs.com/FPOGpgjlAPt9-EMFJE9r2NPciCrCdM-UpGzXhPx0zcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODA4/MTY5LTE1ODE5OTM4/MTMtMjY2MC5qcGVn.jpeg) | 2012 | Capital Inicial | Saturno (Deluxe Version) |
 | 37 | ![Cover](https://i.discogs.com/QQ9A8GLbindEs3_lpiJu1-c-JFbcGswT53oT_vj_IkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM5/MTQ0LTE1MTQ1MzQw/MDYtNTg0Ny5qcGVn.jpeg) | 2012 | Salta la Banca | COPLA |
 | 45 | ![Cover](https://i.discogs.com/_kCt3Y1KYFgtU3fOBJwFXpWY6ABXP_0uasR50ghwen4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDU4/NTQtMTQ3ODk4MjQ4/My02NzMwLmpwZWc.jpeg) | 2012 | The Tape Disaster | Realidade Aumentada |

@@ -1,21 +1,21 @@
 ---
 category: genre
-date: 2025-10-27T01:59:02.272Z
+date: 2025-10-28T05:59:32.789Z
 permalink: tags/miami-bass
 title: miami bass
 ---
 
 ## miami bass
 
-Last updated: <time datetime="2025-10-27T01:59:02.272Z">Mon Oct 27 2025 03:59:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T05:59:32.789Z">Tue Oct 28 2025 07:59:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | Operation Human Mind Expansion | Developments |
-| 2 |  |  | Tianetta | Unknown Album (2&#x2F;17&#x2F;2009 5:48:30 PM) |
-| 4 |  |  | Kreggo feat. MC Textasy | Texas Terrortech Vol.1 |
+| 1 | ![Cover](https://i.discogs.com/rKoUEJe3hHExi3pZ_WVtISmUlVie9ecryPyJF9OdRJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODg3/NDUwLTE2NjYyODUx/MjktNTQ3Ni5qcGVn.jpeg) | 2022-05-01 | MoneyBaby XO | No Free Rides (feat. PullUp REDDY) - Single |
+| 2 |  |  | Operation Human Mind Expansion | Developments |
+| 12 |  |  | Mr.3 | Trappin In Tha Pussy |
 | 13 | ![Cover](https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg) | 1972 | Various Artists | Masters Of Tweak! (TWCD-001) |
 | 33 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1977 | Various Artists | Further Out |
 | 34 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1987 | Various Artists | Flavored Beats 4 |
@@ -32,16 +32,18 @@ Last updated: <time datetime="2025-10-27T01:59:02.272Z">Mon Oct 27 2025 03:59:02
 | 21 | ![Cover](https://i.discogs.com/QMMlyMpbVVnep0zjqWJCnMJ_s6eBoUxQwU4BeCdFl0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDM5/NS0xNjEwNTAyMDU4/LTM3MDAubXBv.jpeg) | 2000 | Tony Faline | Got Funk?, Vol. 1 |
 | 46 | ![Cover](https://i.discogs.com/oDnO8NzuT9cebmKWIVeEFpBJ0ZhEiuDN6hrpY43REJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzcw/ODU3LTE0OTkzNjY0/NjQtNDQ5MC5qcGVn.jpeg) | 2000-02-01 | Tag Team | The Best of Tag Team |
 | 39 | ![Cover](https://i.discogs.com/mqDHK3Lb4zarRlUQxHpPVOLat4126qnrREjIauTy8gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTI3/MS0xMTU1NzYxNDUw/LmpwZWc.jpeg) | 2002 | Diamond Ice | Funk 4 da Trunk |
-| 6 | ![Cover](https://i.discogs.com/uhdzdNvTQhu--Clv5mSpub7dUoq8pVmu5P4o2kzP5h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTI1/Mi0xMTI0MTk1MDEy/LmpwZw.jpeg) | 2003 | Tony Faline | Stop Drop &amp; Funk |
 | 25 | ![Cover](https://i.discogs.com/PK1HrYgkHv_U8Dx-D7n3q2KAVcDkmKaALPO5lhkS3I4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzk1/Ni0xMTQ1NDY1NzIx/LmpwZWc.jpeg) | 2006 | Spank Rock | Yo Yo Yo Yo Yo |
-| 43 | ![Cover](https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg) | 2009 | Various Artists | Dark Side of the Boom |
 | 30 | ![Cover](https://i.discogs.com/EpKXeft4JZsk5e2E-cM1QAPxKJ8rlA35oQVM_6nb43E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjEw/ODQtMTQxMDA1NzE1/NS02MDAyLmpwZWc.jpeg) | 2014-10-03 | Flashmaster Ray | Flashmaster Ray Tracks |
+| 29 | ![Cover](https://i.discogs.com/qo6-KgeTRB9ox6Ud9yUx9xqvhhfM46JSPIBvLPx8d8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc1/MzE2LTE1NjA4NTc0/MjktMjMyMC5qcGVn.jpeg) | 2019-06-18 | textasy | Texas Terrortech Vol.1 |
+| 4 | ![Cover](https://i.discogs.com/4VEdGle4uztA7Lvp1jDYDfYRpuSJW8-9uDT3BpL1LZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDg0/NTE4LTE2NzkzMjY1/MjctOTM2NC5qcGVn.jpeg) | 2023-04-07 | Stuster | CDMUSIC005 |
+| 5 |  |  | Kreggo feat. MC Textasy | Texas Terrortech Vol.1 |
+| 6 | ![Cover](https://i.discogs.com/uhdzdNvTQhu--Clv5mSpub7dUoq8pVmu5P4o2kzP5h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTI1/Mi0xMTI0MTk1MDEy/LmpwZw.jpeg) | 2003 | Tony Faline | Stop Drop &amp; Funk |
+| 43 | ![Cover](https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg) | 2009 | Various Artists | Dark Side of the Boom |
 | 10 | ![Cover](https://i.discogs.com/VPksA0AGXgLDarsrDTcfuE788Oe9tMfeJPN9hFiszpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjgw/ODAtMTQ3NzY3MzM0/OC03MzQ1LmpwZWc.jpeg) | 2016-10-28 | Go Nuclear | NO SERVICE vol.1 |
 | 19 | ![Cover](https://i.discogs.com/-LpUTM0CfQqZAMSpfyhU5KXet1L-ruHrPSGmDhnVvvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg5/MjMzLTE2MDY2NTEz/NDctNDU4MS5wbmc.jpeg) | 2018-05-22 | DJ KARAWAI | NO SERVICE vol.1 |
 | 17 | ![Cover](https://i.discogs.com/ke8_O9zA1dVsFoM6KCM--R6Gw4DsrWYWkPg0EwpfEzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEz/MzkzLTE1MzI3MjY5/NjctMjI1My5qcGVn.jpeg) | 2018-07-06 | garneau | NO SERVICE vol.1 |
 | 16 | ![Cover](https://i.discogs.com/KokeA7jBuryeRjnD2WXtlaoHOhjDagJIYkPumTdYdM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/MDg1LTE1Njk1OTY3/NzYtMjk3OC5qcGVn.jpeg) | 2019-01-14 | Hermeth | NO SERVICE vol.1 |
 | 31 | ![Cover](https://i.discogs.com/qKLMHqfyrIBB5j-IdJpZ0w3fFSknnswiI5GAVJ0tfkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY5/OTMyLTE1OTA0MjUx/MzAtMTE4OC5qcGVn.jpeg) | 2019-06-05 | RAW TAKES | FUNKED OUT |
-| 29 | ![Cover](https://i.discogs.com/qo6-KgeTRB9ox6Ud9yUx9xqvhhfM46JSPIBvLPx8d8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc1/MzE2LTE1NjA4NTc0/MjktMjMyMC5qcGVn.jpeg) | 2019-06-18 | textasy | Texas Terrortech Vol.1 |
 | 36 | ![Cover](https://i.discogs.com/qo6-KgeTRB9ox6Ud9yUx9xqvhhfM46JSPIBvLPx8d8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc1/MzE2LTE1NjA4NTc0/MjktMjMyMC5qcGVn.jpeg) | 2019-06-18 | textasy | Texas Terrortech Vol. 1 |
 | 11 | ![Cover](https://i.discogs.com/zPdRC2jsGSYNFG6e9eDNvSY2rZIHiZt7DN7sseNT1ZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgw/OTU5LTE1ODE3NTUx/MzUtMjQ5MC5qcGVn.jpeg) | 2019-12-03 | Maruwa | NO SERVICE vol.1 |
 | 26 | ![Cover](https://i.discogs.com/qKLMHqfyrIBB5j-IdJpZ0w3fFSknnswiI5GAVJ0tfkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY5/OTMyLTE1OTA0MjUx/MzAtMTE4OC5qcGVn.jpeg) | 2020 | RAW TAKES | UNTITLED #2 |
@@ -56,8 +58,6 @@ Last updated: <time datetime="2025-10-27T01:59:02.272Z">Mon Oct 27 2025 03:59:02
 | 9 | ![Cover](https://i.discogs.com/F-qamzpG1A2XMwD71l7FgLLzpAK6SSA4m74XJPvwZu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQx/NjU0LTE2NDk2NzY5/MjAtOTUyMC5wbmc.jpeg) | 2022-03-15 | Snarexx | NO SERVICE vol.1 |
 | 18 | ![Cover](https://i.discogs.com/tfgmPgF9hmARwGvo8m-IQYiXN2InmBlDBusIzwcNEu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTg0/OTEzLTE2ODAxMDQ0/MzQtMTE0NS5qcGVn.jpeg) | 2022-08-01 | RLGN | NO SERVICE vol.1 |
 | 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5ac63a6dcf39d4662e2c0908eb39ef63.png) | 2022-08-30 | MoneyBaby XO | No Free Rides (feat. PullUp Reddy) |
-| 5 | ![Cover](https://i.discogs.com/4VEdGle4uztA7Lvp1jDYDfYRpuSJW8-9uDT3BpL1LZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDg0/NTE4LTE2NzkzMjY1/MjctOTM2NC5qcGVn.jpeg) | 2023-04-07 | Stuster | CDMUSIC005 |
-| 12 |  |  | Mr.3 | Trappin In Tha Pussy |
 | 15 | ![Cover](https://i.discogs.com/bDk3R8GQ-QFqLT665kxOhL_GtiBBtDzRkayF43C2dEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI2/MTk4LTE2MDIxMDY0/MzMtNjM5OS5qcGVn.jpeg) | 2022-09-05 | Turk Turkelton | NO SERVICE vol.1 |
 | 24 |  |  | Sinistro e Mião | Rap Brasil |
 | 28 | ![Cover](https://i.discogs.com/qKLMHqfyrIBB5j-IdJpZ0w3fFSknnswiI5GAVJ0tfkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY5/OTMyLTE1OTA0MjUx/MzAtMTE4OC5qcGVn.jpeg) | 2023-05 | RAW TAKES | UNTITLED |
