@@ -1,128 +1,128 @@
 ---
 category: genre
-date: 2025-10-25T09:22:41.615Z
+date: 2025-10-28T05:54:10.763Z
 permalink: tags/nu-metalcore
 title: nu metalcore
 ---
 
 ## nu metalcore
 
-Last updated: <time datetime="2025-10-25T09:22:41.615Z">Sat Oct 25 2025 12:22:41 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T05:54:10.763Z">Tue Oct 28 2025 07:54:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | Descent of the archangel | Psychosocial |
-| 3 |  |  | Descent of the archangel | Progressive Deception |
-| 4 |  |  | Burialgrounds | GARDEN OF WORMS |
-| 32 | ![Cover](https://i.discogs.com/3JHH-qoIPg3lgYNGxs4-h48L7OepsAYnR6jI069GF7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjE1/MTAtMTI1OTAxNzcz/NC5qcGVn.jpeg) | 1994 | Pulse | Flies |
-| 15 | ![Cover](https://i.discogs.com/D1jatbbwiuJqnbcI_fCNLLHfTnPd4Uub-uXlKQYHn6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Njg2/MzAtMTYwNTkzNTcz/NC0yNjQzLmpwZWc.jpeg) | 1997-06-16 | 616 undone. | Love Lies Bleeding |
-| 23 |  |  | Omnis Lacrima | Melana Chasmata |
-| 38 |  |  | Spitting Teeth | DEATH |
-| 41 | ![Cover](https://i.discogs.com/1foX8tB8bKKVa5wtFxBJ0TeoZRswoHZu5hd_Ti09ITQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTA4/My0xNDc4MTQ2NTM3/LTIwMTAuanBlZw.jpeg) | 1992 | Orthodox | Cave In |
-| 14 | ![Cover](https://i.discogs.com/ctKgn5zrb3qsGSG3cvgcD4mChMnsMVTSKy-0Qo2iYOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI2/MDktMTI2NTE2NjA5/Ni5qcGVn.jpeg) | 1999 | Witness | Downcast |
-| 17 | ![Cover](https://i.discogs.com/VZ20ZziwucGv01ZLacNb20TsF0blejE8AzAlhI3UEpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTM0/MDMtMTQ1NjU2Nzcy/NS03NjYxLmpwZWc.jpeg) | 1999 | Liminal | Burn |
-| 20 | ![Cover](https://i.discogs.com/iE-quYoGC04tIMxOVQLTKyo3c6KpNeKtTYKgbYlFRCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQz/ODUtMTMwNjA4MTUx/OC5qcGVn.jpeg) | 1999 | Teratoma | The Paradise In Oblivion |
-| 22 | ![Cover](https://i.discogs.com/Fd-82amHF0g9X7hdMZGX6IkHcsQ6Pmfycmv7MpSbAUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Mzc5/OTUtMTcwMzk4NzQy/My00OTgyLmpwZWc.jpeg) | 2000 | Oddman | Hollow Eyes |
-| 45 | ![Cover](https://i.discogs.com/kayfBynTwqU1vG4GifGd_K4s9KUItpCtuYnfW20Rk-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTQz/ODgtMTY5NDY0NTIw/MC00NTU0LmpwZWc.jpeg) | 2000 | Seeded Crown | PLEASE REMAIN SEEDED |
-| 19 | ![Cover](https://i.discogs.com/tzNZ2volQs7AhnGmf2GUVgj_Edav3-aGiFN4qjtNotA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTU2/NDAtMTMzNTEwOTk5/My5qcGVn.jpeg) | 2001 | Slit | Nothing Left |
-| 21 | ![Cover](https://i.discogs.com/CmnXLVpg0hB-PpCAYs2LVMTQCTxbPQGBCwda3XrljCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc3/ODEtMTY5MjAyNzE1/OS03NjcyLmpwZWc.jpeg) | 2001 | Dogma | Mute Message |
-| 2 | ![Cover](https://i.discogs.com/sQDaUJU3rhVv98QBl_AVr5n21rNGQ_Srnl7vdlXXD6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzY0/ODQtMTUwMDUwMTg1/NS01NjU3LmpwZWc.jpeg) | 2002 | Sworn In | A Place For My Head |
-| 10 | ![Cover](https://i.discogs.com/sQDaUJU3rhVv98QBl_AVr5n21rNGQ_Srnl7vdlXXD6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzY0/ODQtMTUwMDUwMTg1/NS01NjU3LmpwZWc.jpeg) | 2002 | Sworn In | Let Down |
-| 8 | ![Cover](https://i.discogs.com/bpxRmo-ckR1DYICPJX4z9Nu8CvJgNMjvlfk3DDO8uTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU0/NjM3LTE2ODg4NDU2/NjctNzYwOS5qcGVn.jpeg) | 2002-06-21 | Detox | There Is No Such Thing as Pure |
-| 28 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8a2cb4900613d1dae3fcb745a48f37cf.png) | 2003 | Sable | Chrome |
-| 30 | ![Cover](https://i.discogs.com/Jhhw490D8QnA2UtQku6F_Bqlp04-vyaLr-To59a1kxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTky/NDYtMTIxNDg0MDE3/Mi5qcGVn.jpeg) | 2007 | Knee | Тафофилия |
-| 25 | ![Cover](https://i.discogs.com/VGNBvTW3__deYPIqAcPPgGix0i15SqT378nfKcYHf_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTE4/MTgtMTIzNzI0Mjk1/Ni5qcGVn.jpeg) | 2008 | Kriminals | Represent |
-| 24 | ![Cover](https://i.discogs.com/bsTjvIQxvVe4v_FtBCRQdBFTRbNtxXil35TjFTGwKZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzA1/NTI0LTE2Mzk3Nzg3/ODYtMzM0My5qcGVn.jpeg) | 2009 | Kriminals | No Competition, Only Enemies |
-| 33 | ![Cover](https://i.discogs.com/1pcWRIL_sNaTiHb_9kEC3429jye4TjhISxrhrGD3iJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQ0/MzUyLTE1MDE1NTU2/NTgtNDIwMi5qcGVn.jpeg) | 2012 | My Enemies &amp; I | We Will Become Ghosts |
-| 36 | ![Cover](https://i.discogs.com/-A4LkIGWapvTyiMPBB6f3RH3_-Ab7XhQfCAEZ47uqE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzA1/NTMtMTcwNjczNDYz/NC01MjI4LmpwZWc.jpeg) | 2016 | Lonewolf | The Rhythm of Existence |
-| 11 | ![Cover](https://i.discogs.com/3n2Cc_P9SJ_tNxBQQE00rRKG8Kqsa6Y4uKF11-RlGPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTk4/MzEtMTQ2NjA5MjE5/NS0zNTQ5LmpwZWc.jpeg) | 2016-01-13 | Bolu2 Death | We Bleed, We Fight |
-| 26 | ![Cover](https://i.discogs.com/MlslhHePCWy0_ZtUh-tIX3bUUSWbH2tx_0Gan0l7bLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzA4/MzItMTQ2MzQ3NzI0/OS03OTQ0LmpwZWc.jpeg) | 2016-04-13 | Nu-Nation | Insomnia |
-| 43 | ![Cover](https://i.discogs.com/jR48Y-M7b7MObzqjBN5uSd9NGTjzhJ4eTzswy8P1s_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzQ5/OTUtMTYxNjE4NjQw/Ni02MDc4LmpwZWc.jpeg) | 2016-07-15 | Cane Hill | 10 ¢ |
-| 16 | ![Cover](https://i.discogs.com/SjnemoBGxGa63Jp6gCsoPWjI1_JcwEBFkLOrPSfFDTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/NDY5LTE1NDQ4MDYw/MjQtODU5OC5qcGVn.jpeg) | 2016-09-15 | Lotus Eater | Crooked |
-| 37 | ![Cover](https://i.discogs.com/iOdC211aDPA9qH1iCWkNuw_D9coN473l-UZtLMRBOFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/MzA3LTE2MTgxNzk3/NTItMzgxNS5qcGVn.jpeg) | 2017 | Annalynn | Deceiver &#x2F; Believer |
-| 6 | ![Cover](https://i.discogs.com/H_KIaxZ0ySsno9Hu4tpIL-a-CAoWFOb90RCfWNzrmGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM4/MDUyLTE1MTI0OTA2/MjYtMzkzNC5qcGVn.jpeg) | 2017-10-09 | Cane Hill | Too Far Gone - Single |
-| 40 | ![Cover](https://i.discogs.com/6yX2fTccBRtBUfyt0dBiLx00N1njstfP4ja1xwaCCsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTcy/OTcxLTE2OTA3Mzg4/NDgtMzUzMC5qcGVn.jpeg) | 2018 | Bolu2 Death | Spiral |
-| 34 | ![Cover](https://i.discogs.com/Hz3gT-kGQmE9l-udv_bRcpv8dKocNyzfeueZ-YZUxD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA5/NjgxLTE1MjI3NjI0/ODQtMjQ3MC5qcGVn.jpeg) | 2018-04-01 | The Hearkening | After Dark |
-| 31 | ![Cover](https://i.discogs.com/dy5fCg8gaPopcJRqAZjeyTZ0mvHM2FXUytIFM7ZPcjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDIx/NDE3LTE1OTEyNzk4/MjItNDEyNy5qcGVn.jpeg) | 2018-09-28 | XIII | Creep$how |
-| 44 | ![Cover](https://i.discogs.com/7NT1S4IYH_pby6I_rSydp1ZBPwirW8NaqopLD5G1a2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDMw/ODI4LTE1NTQwNTg1/MDgtNDE3OS5qcGVn.jpeg) | 2019-03-01 | Lotus Eater | Mother |
-| 50 | ![Cover](https://i.discogs.com/gqYL7kGj8ru2_2D8zjtSAg47CLbQ1x4YGI4Jb2UKfZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc3/NDE4LTE1NTMwNTI4/NDctOTE0MS5qcGVn.jpeg) | 2019-04-05 | Dealer | Soul Burn - EP |
-| 39 | ![Cover](https://i.discogs.com/OA11F9AW_8BxUc7nLYFmlZ0A6g4MS3RYlragpXAOyDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODEz/ODk2LTE1OTgyODIy/NTQtNDc0MC5qcGVn.jpeg) | 2020 | Facewreck | 2020 Single 3 Yo |
-| 47 | ![Cover](https://i.discogs.com/QvWGY4OpNEZfi6oYjhgnikIbzrbsMemGqiXchHWYSrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg1/MTAxLTE1OTA2Nzg1/MTItODUyNy5qcGVn.jpeg) | 2020-05-25 | Facewreck | 2020 Single 2 Yo |
-| 7 | ![Cover](https://i.discogs.com/q0szcM8FbSmuzjDON88Owff43g0Y6vwwn8BL58NvEVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA1/OTA5LTE1OTYyNzY5/NjktNTQwOS5qcGVn.jpeg) | 2020-07-31 | Mad Essence | Salvation: False |
-| 5 | ![Cover](https://i.discogs.com/aXh2UZ9dAZFgc0X9b3-BCuuQXIr6NfLFeNsmoYlppYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjM4/MTU2LTE2MDg5OTg2/MjItMjkzNy5qcGVn.jpeg) | 2020-12-25 | Mad Essence | Connections |
-| 9 |  |  | La Pest | Solum Ipse |
-| 12 |  |  | Descent of the archangel | Descent of the Archangel |
-| 13 |  |  | Descent of the archangel | Stick Stickly |
-| 18 |  |  | Omnis Lacrima | The Forgotten Chapter |
-| 27 |  |  | Spliced | SMILE |
-| 95 | ![Cover](https://i.discogs.com/d0XDuugWA8o9DIROmub0865htfzWp4AufWNP7OcBb0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM5/MzMyLTE0OTc0NjA5/MjYtNDE0Ny5qcGVn.jpeg) | 1976 | Sim | THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES |
-| 59 | ![Cover](https://i.discogs.com/1foX8tB8bKKVa5wtFxBJ0TeoZRswoHZu5hd_Ti09ITQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTA4/My0xNDc4MTQ2NTM3/LTIwMTAuanBlZw.jpeg) | 1992 | Orthodox | Soaking Nerves |
-| 77 | ![Cover](https://i.discogs.com/ekDyW8GzBbr5ui7l8M-Wu3_9jWgXXJVeHzo-l9X25dE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjMz/ODQwLTE2NTcxODAy/MjUtNjg4My5qcGVn.jpeg) | 1992 | Orthodox | Head on a Spike |
-| 58 | ![Cover](https://i.discogs.com/QIZsQBFzQKjR4fjFhZh3owKlYljEot_SEzE4F0Yz8aM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMz/NjcwLTE1MTYyNDMw/OTgtNDE4Ny5qcGVn.jpeg) | 1994-05-01 | Vein | Virus:&#x2F;&#x2F;Vibrance |
-| 67 | ![Cover](https://i.discogs.com/_O13RaV6pUDP-qOCmEOaNqQk_hMH8VL0fPh2WH10jms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzAz/OC0xMTA3MTI4NDk3/LmpwZw.jpeg) | 2004-05-04 | Afterlife | Vicious Cycle |
-| 55 | ![Cover](https://i.discogs.com/m40SACsBrrOlm7P_xQoNKdiZZi9FSwANboF3TsNHqsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODc0/NTktMTQ4MzI1NzM0/MC0xNTY0LmpwZWc.jpeg) | 2005 | Зло | Зачеркни моё имя |
-| 54 | ![Cover](https://i.discogs.com/QTlP_1bQNaJkRSFblbQsPcnibtAyDevS_jfegRf4Nrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDg1/NC0xMTY0NzAzNDU1/LmpwZWc.jpeg) | 2006 | Deficit | UNRESTRICTED, Vol. 1 |
-| 70 | ![Cover](https://i.discogs.com/GG0-vxx1q6GSDoFvro6vTGXdQWLfYFPRVSFPhLb_ZH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY1/MzA5LTE1OTM3MTY3/MjctNzcxMS5qcGVn.jpeg) | 2009-02-01 | Lotus Eater | Lotus Eater |
-| 53 |  | 2009-11-10 | American Me | Siberian Nightmare Machine |
-| 64 |  | 2013-02-14 | Gift Giver | Daddy Issues |
-| 63 |  | 2013-09-03 | My Ticket Home | Strangers Only |
-| 98 | ![Cover](https://i.discogs.com/ikUIYZrjxUo-Hua6VdHc0U1zRY1UBUAwDTx4WGJUEig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzY4/MzYtMTU4NjQ5OTQ5/MC03NzY1LmpwZWc.jpeg) | 2015-02-24 | Of Mice &amp; Men | Restoring Force: Full Circle |
-| 91 | ![Cover](https://i.discogs.com/EWT7-TDHNvj3_unUBZYLTD5mtlbad-0y_a8YwmZ-RIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTcw/MjgtMTQyNjgxNjcy/MC03NTAzLmpwZWc.jpeg) | 2015-03-17 | Darke Complex | WIDOW |
-| 93 | ![Cover](https://i.discogs.com/c54tLWZKpOX7lq8gQ_nKO7cwWlCVgIBJRRunWwnnI80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ4/ODMxLTE1MjkyNzYy/NTItNTYzMy5qcGVn.jpeg) | 2015-10-02 | Vanna | ALT |
-| 84 | ![Cover](https://i.discogs.com/YWh0xtdyUNPJj2aQnp3H3xTtSEnKVfbAiOYcMgdxmPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTA1/NTItMTcwMjIwNjU4/Ni0yODA1LmpwZWc.jpeg) | 2016 | Darke Complex | Point Oblivion |
-| 57 | ![Cover](https://i.discogs.com/1mTq9VAk8CGqz2e2J2CHZvJhCRay-OTL_Xvdc4IanCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTIx/MzE3LTE2MTA2MjM5/MzItMTM5Ni5qcGVn.jpeg) | 2016-02-13 | The Gloom In the Corner | The Jericho Protocol |
-| 62 | ![Cover](https://i.discogs.com/fPl86haAHnaR3ZtIdIhclK_51MBC__BY9QK9_i0RRX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzAw/NjYtMTQ3ODcwODA5/Mi0yNTI3LmpwZWc.jpeg) | 2016-09-25 | The Gloom In the Corner | Fear Me |
-| 72 | ![Cover](https://i.discogs.com/xKDKMtqewKBF4rrmgwA9HEvvPlqalRSpEQukxsWaEYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM0/MTktMTQ3NjA1MDg1/OC02MTI1LmpwZWc.jpeg) | 2016-10-05 | Traitors | Mental State |
-| 87 | ![Cover](https://i.discogs.com/QKCwQZCZJlQ7ltgdIW6v3uTNraDdp58Mc7GQwssGMCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI1/NTIzLTE2OTI3NDU5/NzktMzQxOS5qcGVn.jpeg) | 2017-07-28 | Make Them Suffer | Worlds Apart |
-| 61 | ![Cover](https://i.discogs.com/pcJGSiVk1pyr7Maq5YkiHzquXpWDsCPwtAqZtdadg8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/NDQ0LTE1NDQ4MDU2/NDMtMzkxNy5qcGVn.jpeg) | 2018-02-12 | Lotus Eater | Branded |
-| 68 | ![Cover](https://i.discogs.com/QziJEW7FMrr6u1It85DptRsJgA_QqzVqTQYF5X5QL_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTg3/OTE5LTE1Nzc2ODI2/NjYtNjQwMi5qcGVn.jpeg) | 2018-10-18 | The Gloom In the Corner | Villain |
-| 66 | ![Cover](https://i.discogs.com/pTrJgPF68BN6Iyq3i5_iWupT9y0o_ghqDYjlwEK5ZHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI5/NzYxLTE2NTk4OTM0/NzAtNTc1Ni5qcGVn.jpeg) | 2019-01-11 | Desolate | Oyasumi, Vol. 1 |
-| 65 | ![Cover](https://i.discogs.com/UWZnTfujZLdPpIfUg4ETeswGj5nlIy6ojWmP2M1Lh4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTAw/NjU1LTE1NTUzNzA3/NzMtNTA4Ni5qcGVn.jpeg) | 2019-03-22 | Extortionist | Sever the Cord |
-| 56 | ![Cover](https://i.discogs.com/qQdasYSht0kBure1bZ0MQpK276Q5fy3c-isV64xxErk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg0/MDI1LTE1NjEwNDYx/MTUtOTIyNi5wbmc.jpeg) | 2019-03-29 | Bloodline | Better View |
-| 83 | ![Cover](https://i.discogs.com/hiefBWrqCtF-T9bmvLQo__Xgvb3Ug89G1HwQahrqUhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDA4/NTE3LTE1NTM2MzE2/MTQtODcxMi5qcGVn.jpeg) | 2019-03-29 | I Prevail | Trauma |
-| 85 | ![Cover](https://i.discogs.com/wCtOaLCXWPjtQ4YdKbTIotliB5gDdyq3NYrIYyqGE4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDMw/ODQ2LTE1NTQwNTg2/MTQtNjU2MC5qcGVn.jpeg) | 2019-03-29 | Lotus Eater | Social Hazard |
-| 81 | ![Cover](https://i.discogs.com/Fq5oGYzxW3BDTyBV2BkzRuaYu0Dgd_RD12fpRdNwMLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYz/NTcxLTE1OTgzMzY2/MTQtNTY3My5qcGVn.jpeg) | 2019-05-17 | Diamond Construct | Diamond Construct |
-| 89 | ![Cover](https://i.discogs.com/Ef0zykDaOAmh0itwLZPHATh82Q7dt1YZb-pLWU0XaMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg0/MTc5LTE1NjEwNDgy/NzctNDQ2MS5qcGVn.jpeg) | 2019-05-30 | The Gloom In the Corner | Flesh &amp; Bones |
-| 69 | ![Cover](https://i.discogs.com/H5zeyE36R50TBDwMJid0vviq2wynvgOklLnLJoSSzAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjMx/MjQ3LTE2MzQ1NDQ0/NzktNjU4NC5qcGVn.jpeg) | 2020 | Elyne | Art of Being Human |
-| 79 | ![Cover](https://i.discogs.com/jDGZuvgR1yoHUH-Dk7My25mn-s6xX_g24FZHEN0gy4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTY1/ODc1LTE2MDEwNDUw/MTEtOTM0Ni5qcGVn.jpeg) | 2020 | Alpha Wolf | A Quiet Place To Die |
-| 52 | ![Cover](https://i.discogs.com/JXUqfkCO21fnV3U8lr1I-k-8oepZxp9jn3Ev02cFH5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc3/Mzc4LTE1OTM2MjAy/MDEtMjgyMS5qcGVn.jpeg) | 2020-01-01 | Facewreck | 2020 Single 1 Yo |
-| 97 | ![Cover](https://i.discogs.com/qdVGDJJCjiTBQIUJtbyAOby4abfPjK7M7hO_U85PVEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUx/OTg5LTE2MDYwMDQ5/NTMtNTY3MS5qcGVn.jpeg) | 2020-02-20 | Omerta | Hyperviolence |
-| 78 | ![Cover](https://i.discogs.com/sYu7oD1GR_MV-vnQe-PbYi7oO0jCef3JXnY1DYFp8nI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjk5/MTA4LTE2MzIxMjE5/NzAtNjQ0MC5qcGVn.jpeg) | 2020-07-17 | Tallah | Telescope |
-| 71 | ![Cover](https://i.discogs.com/732RkVHkhzpJh0bbcB3rEfAviA3pcPN_g6znMsXKKYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI3/ODMzLTE2MDIxNDg4/MTUtOTAyOC5qcGVn.jpeg) | 2020-09-14 | Bloodbather | Silence |
-| 49 | ![Cover](https://i.discogs.com/09D2Cg9R0kJlWIJ8iadWZBgPGbJekeDAUTtj1bbBinI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjg4/MDQ4LTE2MjQ3NDAz/NzgtOTQ5Ny5wbmc.jpeg) | 2020-11-13 | Stasis | A Garden For All To See |
+| 1 |  |  | In Somni | Body Bag |
+| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5a21faf14a5a598c3b9cfb0a1052b9b0.png) |  | Spitting Teeth | DEATH |
+| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/31b7f079319e5fd88862b7e5bd008fc2.png) | 1992 | Orthodox | Soaking Nerves |
+| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b111f6ef2e85e1fe511c98d9f0a4a8f4.png) | 1992 | Orthodox | Head on a Spike |
+| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eb28092f2e54403661c0dce31fbc007e.png) | 1994 | Pulse | Flies |
+| 38 | ![Cover](https://i.discogs.com/QIZsQBFzQKjR4fjFhZh3owKlYljEot_SEzE4F0Yz8aM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMz/NjcwLTE1MTYyNDMw/OTgtNDE4Ny5qcGVn.jpeg) | 1994-05-01 | Vein | Virus:&#x2F;&#x2F;Vibrance |
+| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/086c29e7795d273531487b884da2f4f8.png) | 2004-05-04 | Afterlife | Vicious Cycle |
+| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/499c5b37c2f4a5944ce004a7a8809799.png) | 2005 | Зло | Зачеркни моё имя |
+| 47 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3497cddc49ed5f04a3394c1268f6f14d.png) | 2006 | Deficit | UNRESTRICTED, Vol. 1 |
+| 41 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/431f3aa73e2552b28e3601a42f4e5560.png) | 2008-03-18 | Bury Your Dead | Bury Your Dead |
+| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b491cd94651746048cb89291099f4323.png) | 2009-11-10 | American Me | Siberian Nightmare Machine |
+| 37 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cfc7736d6ab0268e4908e1fd686713fe.png) | 2015 | My Enemies &amp; I | Sick World |
+| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d33a8aa503e70575b0134d0fe21a6776.png) | 2015-10-23 | Cane Hill | Cane Hill |
+| 17 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/996fc52566ab7342edafef0dfd648939.png) | 2016 | Lonewolf | The Rhythm of Existence |
+| 35 | ![Cover](https://i.discogs.com/1mTq9VAk8CGqz2e2J2CHZvJhCRay-OTL_Xvdc4IanCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTIx/MzE3LTE2MTA2MjM5/MzItMTM5Ni5qcGVn.jpeg) | 2016-02-13 | The Gloom In the Corner | The Jericho Protocol |
+| 13 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ad7b8519042a577868a2a09b9fd9d685.png) | 2017 | Annalynn | Deceiver &#x2F; Believer |
+| 2 | ![Cover](https://i.discogs.com/8ldhPqSbX4fqQessbZQtnpJuctpqACXPWnwTQBBxpS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDA1/OTA3LTE2NjcyMjc0/NzQtMjc4Ni5qcGVn.jpeg) | 2022-10-28 | The Gloom In the Corner | Survivor&#39;s Guilt |
+| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ddc7db8d7d01304432663b91f2042496.png) |  | Sleep Waker | Lost In Dreams |
+| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/98a92dc7fce6c46af5573500ef84418a.png) | 2018 | Bolu2 Death | Spiral |
+| 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c9a7585e0bd1456448f35555660c7bae.png) | 2018-02-12 | Lotus Eater | Branded |
+| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c117f02966aba09dd90839459bbbc898.png) | 2018-04-01 | The Hearkening | After Dark |
+| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fce84c33cb619e72dcc1e9db036ddc75.png) | 2018-09-28 | XIII | Creep$how |
+| 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/354dedfbb0db2a03fa95c14ae8c0eef5.png) | 2019 | Jinjer | Macro |
+| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ff4515858bfbe1781294abbf88c72b73.png) | 2019-03-22 | Extortionist | Sever the Cord |
+| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8f186a823e3f420685f854087928994c.png) | 2019-03-29 | Bloodline | Better View |
+| 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/384c6ccb042da3e7cdc2b33ed1395026.png) | 2020-01-01 | Facewreck | 2020 Single 1 Yo |
+| 34 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c1349b1f05945ac5b563aeaad3f61a3d.png) | 2022 | For Fear Itself | Continuum |
+| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8789b275e7a72fc36f656775f6b53608.png) | 2023-11-03 | Silent Planet | Superbloom |
+| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/291be2228bda1a61a4418f7d63eabe37.png) |  | The Gloom in the Corner | Survivor&#39;s Guilt |
+| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d85dd6e4db50b4bf258cb5caac0b68df.png) |  | Slaughter to Prevail | Grizzly |
+| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4162988f8299d2bd7314ac97bc8fabb4.png) |  | Architects | The Sky, the Earth &amp; All Between |
+| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/508d20b93332ac53d18138f32595ce58.png) | 2019-01-11 | Born of Osiris | The Simulation |
+| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d0aecf3199bd77e67221989d2a6552d7.png) |  | Memorrhage | Memorrhage |
+| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2ccc4046fa6a40efc3acc3f6cf02a558.png) | 2019-03-01 | Lotus Eater | Mother |
+| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/52c5690a943934f3ad3b342de7f281b8.png) |  | Deadskin | What Do You Count To Fall Asleep? |
+| 29 | ![Cover](https://i.discogs.com/gqYL7kGj8ru2_2D8zjtSAg47CLbQ1x4YGI4Jb2UKfZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc3/NDE4LTE1NTMwNTI4/NDctOTE0MS5qcGVn.jpeg) | 2019-04-05 | Dealer | Soul Burn - EP |
+| 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/81c7387c62632cca514cad6c282d957b.png) | 2020-05-25 | Facewreck | 2020 Single 2 Yo |
+| 28 | ![Cover](https://i.discogs.com/09D2Cg9R0kJlWIJ8iadWZBgPGbJekeDAUTtj1bbBinI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjg4/MDQ4LTE2MjQ3NDAz/NzgtOTQ5Ny5wbmc.jpeg) | 2020-11-13 | Stasis | A Garden For All To See |
+| 30 | ![Cover](https://i.discogs.com/SXzhM3MKoHddvCI7A-dRo7_xR_2TYxzlg8V3bMr7N6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTk0/OTQzLTE2NDEyNTEy/MzYtMTk2Ny5qcGVn.jpeg) | 2021-02-20 | Omerta | i luv u 2 |
+| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5fa95a46d1f4f53b6b62fe0b05b146f6.png) |  | For the Fallen Dreams | Six |
+| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7d64121c1f76c267d15f3c3a64b0fb1a.png) | 2021-05-07 | Kaizo Slumber | Tummyache |
+| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/13e8f72feffa5dd2c6c150b1aebaec64.png) |  | The Gloom in the Corner | Villain |
+| 46 | ![Cover](https://i.discogs.com/9_2FOCwHmbcyWNz_HyHy2NXHAXjWsQ5dcOKNbVscre0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzAz/ODA3LTE2NDg2Nzc4/MTItNzU2NC5qcGVn.jpeg) | 2021-04-07 | Annalynn | A Conversation With Evil |
+| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2695e9b2a79888ceae3f152884a5b3e8.png) | 2022 | Vatican | Ultra |
+| 19 | ![Cover](https://i.discogs.com/NPZ8_mJ5A48dPRetW4YhGOgTMHQxBMMoncBm5xMHlbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTc2/ODUwLTE2MjAwNjY5/MzktMTg0MC5qcGVn.jpeg) | 2022-11-11 | DEADSKIN | What Do You Count To Fall Asleep? |
+| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/864ed8e816a731ff8fd8457ae27a4f8b.png) |  | Seven Hours After Violet | Paradise |
+| 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/60a37d1f71543d9587e4567b101b855b.png) |  | I Prevail | TRAUMA |
+| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4d10119962f4c83a3d78bae3e4a7392e.png) |  | LANDMVRKS | A Line in the Dust |
+| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ce967144095ec79bcde0de90bdc841e3.png) | 2000 | Seeded Crown | PLEASE REMAIN SEEDED |
+| 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/581f09d266a5fece9c320daac568728c.png) | 2009-02-01 | Lotus Eater | Lotus Eater |
+| 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dd76eacff7a240618f2bcfb45d1dba6e.png) | 2013-02-14 | Gift Giver | Daddy Issues |
+| 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/15053b1029d74660ae051e702f5394ab.png) | 2013-09-03 | My Ticket Home | Strangers Only |
+| 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/73dee267ea2c4a64ca44474bd18aaaf2.png) | 2015-02-24 | Of Mice &amp; Men | Restoring Force: Full Circle |
+| 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ae9fa0f363c57c93f68c9e12951560d3.png) | 2015-10-02 | Vanna | ALT |
+| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d7f6869dda7814743c2c8ac9ce715786.png) | 2016 | Darke Complex | Point Oblivion |
+| 51 | ![Cover](https://i.discogs.com/fPl86haAHnaR3ZtIdIhclK_51MBC__BY9QK9_i0RRX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzAw/NjYtMTQ3ODcwODA5/Mi0yNTI3LmpwZWc.jpeg) | 2016-09-25 | The Gloom In the Corner | Fear Me |
+| 67 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c8b1e265381fbf53671724b86922f4d9.png) | 2017-03-03 | Emmure | Look At Yourself |
+| 71 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/83623bb11098a8080734d4443e037bab.png) | 2017-07-28 | Make Them Suffer | Worlds Apart |
+| 59 | ![Cover](https://i.discogs.com/QziJEW7FMrr6u1It85DptRsJgA_QqzVqTQYF5X5QL_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTg3/OTE5LTE1Nzc2ODI2/NjYtNjQwMi5qcGVn.jpeg) | 2018-10-18 | The Gloom In the Corner | Villain |
+| 64 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/245e0b5934af45820ff613550bd09714.png) | 2019-01-11 | Desolate | Oyasumi, Vol. 1 |
+| 66 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/74420d5c08b042d7f469969199a0acd7.png) |  | Tallah | Primeval: Obsession &#x2F;&#x2F; Detachment |
+| 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0820669ea8630f173f29a39ef68daa4f.png) | 1976 | Sim | THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES |
+| 81 | ![Cover](https://i.discogs.com/hiefBWrqCtF-T9bmvLQo__Xgvb3Ug89G1HwQahrqUhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDA4/NTE3LTE1NTM2MzE2/MTQtODcxMi5qcGVn.jpeg) | 2019-03-29 | I Prevail | Trauma |
+| 82 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b53ded6a754c261c57302f3942f22143.png) | 2019-03-29 | Lotus Eater | Social Hazard |
+| 75 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7be409efc4b5594116aea617b1ab593e.png) | 2019-04-05 | Dealer | Soul Burn |
+| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a028e9bfb4fecbe2c7b4c03dc2c43e8a.png) | 2019-05-17 | Diamond Construct | Diamond Construct |
+| 85 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5c0ec85cf238572bf6102a5c9a99306b.png) |  | The Rasmus | Creatures of Chaos |
+| 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/badcc70dbe763a1b1d376e977e3e6816.png) |  | The Gloom in the Corner | Flesh &amp; Bones |
+| 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/022870861f0d408fc0c29a90018230d8.png) |  | Darke Complex | Widow |
+| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d5bca44b890c666249895d7dee4005eb.png) |  | Thrown | look at me |
+| 60 | ![Cover](https://i.discogs.com/H5zeyE36R50TBDwMJid0vviq2wynvgOklLnLJoSSzAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjMx/MjQ3LTE2MzQ1NDQ0/NzktNjU4NC5qcGVn.jpeg) | 2020 | Elyne | Art of Being Human |
+| 63 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dea68b3d04161c9a65e46a507eea00bc.png) | 2020-07-17 | Tallah | Telescope |
+| 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ff59e7dc10771ffffa8fb11682e622c6.png) | 2020-09-14 | Bloodbather | Silence |
+| 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dd8fe0e9be108936489d83e6afbab1d8.png) | 2021-11-12 | Silent Planet | Iridescent |
+| 58 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2c0d0738359c4f59a90331ae31c01647.png) | 2022-08-19 | I Prevail | True Power |
+| 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f3360394f7952724fba5a5d19419815c.png) | 2024-06-07 | Candy | It&#39;s Inside You |
+| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/af368eaecee3ae1e624072bba1abc0f1.png) |  | The Gloom in the Corner | Fear Me |
+| 61 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/18ace1e52711b6a362ac75d4e694c26a.png) |  | Profiler | Glitch Theory |
+| 72 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d462c6d64d0dcc395862309fa0d00873.png) |  | Profiler | A Digital Nowhere |
+| 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a5044b2ef0c6f13f817100760345a55c.png) |  | Diamond Construct | Angel Killer Zero |
+| 84 | ![Cover](https://i.discogs.com/Ef0zykDaOAmh0itwLZPHATh82Q7dt1YZb-pLWU0XaMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg0/MTc5LTE1NjEwNDgy/NzctNDQ2MS5qcGVn.jpeg) | 2019-05-30 | The Gloom In the Corner | Flesh &amp; Bones |
+| 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/92327e63c8f2611696ccb05be68ec6b7.png) | 2020 | Alpha Wolf | A Quiet Place To Die |
+| 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8d4387337c9165b27c9c0e2d25272dc8.png) | 2021-07-09 | Teeth | A Biblical Worship of Violence |
+| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0fcbc42390cddb1e0bf028de31634ee3.png) |  | The Pretty Wild | sLeepwALkeR |
+| 88 | ![Cover](https://i.discogs.com/EWT7-TDHNvj3_unUBZYLTD5mtlbad-0y_a8YwmZ-RIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTcw/MjgtMTQyNjgxNjcy/MC03NTAzLmpwZWc.jpeg) | 2015-03-17 | Darke Complex | WIDOW |
+| 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f5be29e7d8e85981713c2e3fd8652863.png) | 2020-02-20 | Omerta | Hyperviolence |
 | 99 | ![Cover](https://i.discogs.com/q3Vzd1y-TK6i2lwkiKX9oDSSqdJmAlMVRIpwsBgrxOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTcy/NTYxLTE2OTIwMzAy/MjctODY0NS5qcGVn.jpeg) | 2020-12-04 | Corey Taylor | Black Eyes Blue &#x2F; CMFT Must Be Stopped (feat. Tech N9ne and Kid Bookie) |
-| 51 | ![Cover](https://i.discogs.com/SXzhM3MKoHddvCI7A-dRo7_xR_2TYxzlg8V3bMr7N6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTk0/OTQzLTE2NDEyNTEy/MzYtMTk2Ny5qcGVn.jpeg) | 2021-02-20 | Omerta | i luv u 2 |
-| 100 | ![Cover](https://i.discogs.com/JKfRaYGXbRCE-51z5gvRNJeSWbHqnIompatear5SsgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTE1/NDIyLTE2MTYxNzA3/MTMtMTgyMC5qcGVn.jpeg) | 2021-03-19 | LANDMVRKS | Lost In The Waves |
-| 60 | ![Cover](https://i.discogs.com/9_2FOCwHmbcyWNz_HyHy2NXHAXjWsQ5dcOKNbVscre0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzAz/ODA3LTE2NDg2Nzc4/MTItNzU2NC5qcGVn.jpeg) | 2021-04-07 | Annalynn | A Conversation With Evil |
-| 48 | ![Cover](https://i.discogs.com/t6TnutWbhf9XrGY4bQMOcVZOjPR58-QZ6xbRQa-H0FM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzE5/NTE2LTE2MzkyOTU5/MjUtMjU5My5qcGVn.jpeg) | 2021-05-07 | Kaizo Slumber | Tummyache |
-| 75 | ![Cover](https://i.discogs.com/Cs6CnrZ1WWgzwEMaa5A7DhwEBe0A30eZ449iHD3Fm48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjM1/MjE5LTE3MDY1NDAw/MzktMzA0NC5qcGVn.jpeg) | 2021-07-09 | Teeth | A Biblical Worship of Violence |
-| 96 | ![Cover](https://i.discogs.com/6vzf2fNdaznkZf-OJDOGwj6B7gmPYSN50OKQFMlpIIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTQ1/NzYxLTE2MzY3MTAz/NjctNjI1MC5qcGVn.jpeg) | 2021-11-12 | Silent Planet | Iridescent |
-| 29 | ![Cover](https://i.discogs.com/ILn2AvMeN2p4GuWfuDVIaho2k3c6HMabtz4wdXqjGbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzI0/NDQyLTE2NjQ5NTUy/MTMtODA1NS5qcGVn.jpeg) | 2022 | DVST | Dvst |
-| 46 | ![Cover](https://i.discogs.com/OJdXf_4XEOsZ1VvqCPHiaVcc18CQuhPTcneSoJmtDbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzMz/NjY5LTE3MjYyNjIx/MjUtNjA0OS5qcGVn.jpeg) | 2022 | For Fear Itself | Continuum |
-| 80 | ![Cover](https://i.discogs.com/uyoK1DA-TkO106MfXMwPjVt9y_onws29zR-nJUF_BRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDk2/Mzc5LTE2NjMwMjU1/NzctMjUxMC5qcGVn.jpeg) | 2022-09-09 | Orthodox | Learning To Dissolve |
-| 86 | ![Cover](https://i.discogs.com/cjrHWdepzUMEbPwlxW5dvvimdhkW8pxTxXY11U5EqnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODE4/MDk2LTE2NjU3Mzc4/NzgtMjkyNC5qcGVn.jpeg) | 2022-10-14 | Varials | Scars for You to Remember |
-| 35 | ![Cover](https://i.discogs.com/8ldhPqSbX4fqQessbZQtnpJuctpqACXPWnwTQBBxpS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDA1/OTA3LTE2NjcyMjc0/NzQtMjc4Ni5qcGVn.jpeg) | 2022-10-28 | The Gloom In the Corner | Survivor&#39;s Guilt |
-| 42 | ![Cover](https://i.discogs.com/NPZ8_mJ5A48dPRetW4YhGOgTMHQxBMMoncBm5xMHlbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTc2/ODUwLTE2MjAwNjY5/MzktMTg0MC5qcGVn.jpeg) | 2022-11-11 | DEADSKIN | What Do You Count To Fall Asleep? |
-| 90 |  | 2023 | Sim | PLAYDEAD |
+| 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e824da2688b62873f68e0786b854b264.png) | 2021-03-19 | LANDMVRKS | Lost In The Waves |
+| 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d36f1bdad86d61a24fe041faec7ab3a2.png) | 2022-09-09 | Orthodox | Learning To Dissolve |
+| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/75308a6cf369cf59c4d5cad5d367cb53.png) | 2022-09-30 | Within Destruction | Lotus |
+| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0432fdc39eca0c3b9894a83790715d45.png) | 2022-10-14 | Varials | Scars for You to Remember |
+| 68 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eb686587b78405952a230ab9dbc32e18.png) | 2023 | Sim | PLAYDEAD |
 | 94 | ![Cover](https://i.discogs.com/Z_3A8u4mg4GE0YE9JtqrnhnJNT4gc72jLbVldxGrBgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODI3/MDMxLTE2ODIwMDAz/MjYtODY4OC5qcGVn.jpeg) | 2023-04-14 | Jesus Piece | ...So Unknown |
-| 88 | ![Cover](https://i.discogs.com/JW2Fg1HVoMBQqswSJlOrWGbYbgg24s_bHBGc76ex9pQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzM1/OTU0LTE2ODk5MDk5/MTEtMzYwOS5qcGVn.jpeg) | 2023-07-21 | Johnny Booth | Moments Elsewhere |
-| 74 | ![Cover](https://i.discogs.com/8MExheFpvMR5giRt6K3BbLEdQ3zt0DtyIgwA8YdULGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTIw/MDE3LTE3MTAzMTYw/OTItNTM4My5qcGVn.jpeg) | 2023-09-18 | NateWantsToBattle | To Let Go |
-| 92 | ![Cover](https://i.discogs.com/VZjfZSSie-7bGiFEg4Pplel6h2MyidRVCpISLdwslOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzAz/NjA4LTE3MTIyNTcz/ODktNjEwNS5qcGVn.jpeg) | 2024-04-05 | Alpha Wolf | Half Living Things |
-| 82 | ![Cover](https://i.discogs.com/I93WkJqBgfF_fB3uh986uzvRiKaujHlqvOIpakBh7yY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODQ1/MjgwLTE3MTcyNjkx/NTYtNzg0Ny5wbmc.jpeg) | 2024-06-07 | Candy | It&#39;s Inside You |
-| 76 | ![Cover](https://i.discogs.com/KY9cVPso0OIYPXfgZ-nnLVdTtTucZKYFfFWuLYs-WIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjkw/OTY1LTE3MjE2Njg2/NTYtNjQ5NS5qcGVn.jpeg) | 2024-07-12 | Graphic Nature | Who Are You When No One Is Watching? |
-| 73 | ![Cover](https://i.discogs.com/swyuSa0Q9h2nzX8Hg5aaxWdywYVRKYhkIQlU3dpq7j8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjk3/ODQzLTE3MzU0OTQ0/MjktMTQxOS5qcGVn.jpeg) | 2024-12-13 | VCTMS | The Nameless |
+| 89 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5cdb99a63e4498063511f694ba34a2f3.png) | 2024-04-05 | Alpha Wolf | Half Living Things |
+| 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/df2db0a6ea79a7dabd536fbfa9908576.png) | 2024-05-31 | The Plot in You | Vol. 1 |
+| 76 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/20cf55971d7c7b780555b389d13a872e.png) | 2024-07-12 | Graphic Nature | Who Are You When No One Is Watching? |
+| 69 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c292d72a97ba55fa7ce17793dcf30408.png) | 2024-12-13 | VCTMS | The Nameless |
+| 83 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/38894afee7cd8ba39fd558141617a51e.png) |  | Cane Hill | a piece of me i never let you find. |
+| 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/191d0d1cc16337c7b0835147f27802ce.png) |  | Slaughter to Prevail | Viking |
+| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/739b7537e5c60dc6bec95dd08c5a560b.png) |  | Thrown | EXCESSIVE GUILT |
 
 ### Related genres
 
 - [metalcore]({{ "/tags/metalcore" | relative_url }})
 - [nu metal]({{ "/tags/nu-metal" | relative_url }})
-- [alternative metal]({{ "/tags/alternative-metal" | relative_url }})
 - [hardcore]({{ "/tags/hardcore" | relative_url }})
+- [alternative metal]({{ "/tags/alternative-metal" | relative_url }})
 - [deathcore]({{ "/tags/deathcore" | relative_url }})
 - [djent]({{ "/tags/djent" | relative_url }})
 - [thrash metal]({{ "/tags/thrash-metal" | relative_url }})
+- [rapcore]({{ "/tags/rapcore" | relative_url }})
 - [post-hardcore]({{ "/tags/post-hardcore" | relative_url }})
 - [metallic hardcore]({{ "/tags/metallic-hardcore" | relative_url }})
-- [industrial metal]({{ "/tags/industrial-metal" | relative_url }})

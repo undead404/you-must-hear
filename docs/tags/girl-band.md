@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T06:38:56.444Z
+date: 2025-10-28T05:00:37.975Z
 permalink: tags/girl-band
 title: girl band
 ---
 
 ## girl band
 
-Last updated: <time datetime="2025-10-23T06:38:56.444Z">Thu Oct 23 2025 09:38:56 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T05:00:37.975Z">Tue Oct 28 2025 07:00:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -15,13 +15,12 @@ Last updated: <time datetime="2025-10-23T06:38:56.444Z">Thu Oct 23 2025 09:38:56
 |---|---|---|---|---|
 | 39 | ![Cover](https://i.discogs.com/g_rzgUoUNrEu4yrJiW6mYt7WteepYyt905toGDm-Qy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDI3/Mi0xMzY0Nzg3NzAx/LTkzODguanBlZw.jpeg) | 1977-07 | Scandal | YELLOW |
 | 46 |  | 1982-09 | Scandal | Scandal |
-| 5 |  | 1986 | Klymaxx | Klymaxx |
-| 4 |  | 1989-08-29 | Shakespear&#39;s Sister | Sacred Heart |
+| 6 |  | 1986 | Klymaxx | Klymaxx |
+| 5 |  | 1989-08-29 | Shakespear&#39;s Sister | Sacred Heart |
 | 31 | ![Cover](https://i.discogs.com/7rYjP8cCJyrfN0MD4oN4PEsxaNT_kFZhOJfr3xENwPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODcz/NTktMTYxNTE3MDc3/NS03MTk4LmpwZWc.jpeg) | 1993 | Girlfriend | 15 &#x2F; Hide &amp; Seek |
 | 24 | ![Cover](https://i.discogs.com/h-UXTFnHQMX8yNqaCMLbC2nSnRVzBUyEt6yS2zJnuiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODQx/NzgtMTQ4NzkzNzQw/NC00MjAzLnBuZw.jpeg) | 1995 | Perfume | Linear Motor Girl |
 | 43 |  | 2000-08-16 | All Saints | Saints &amp; Sinners |
-| 9 | ![Cover](https://i.discogs.com/6ul6ebWglSjFzmm11vIiAZQev1aYqMWnVZsFVFRC9gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDkx/MjItMTI3MjI3OTMw/Mi5qcGVn.jpeg) | 2003 | Vanilla Ninja | Vanilla Ninja |
-| 6 |  | 2005-06-08 | BENNIE K | Dreamland |
+| 7 |  | 2005-06-08 | BENNIE K | Dreamland |
 | 28 |  | 2006-02-01 | AKB48 | 桜の花びらたち |
 | 49 |  | 2006-11-15 | チャットモンチー | シャングリラ |
 | 23 | ![Cover](https://i.discogs.com/Tt86IyhYgYxh0h7w-GR3pKc81zb9UmKdv6pK_T0Z3Es/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzMy/NTEtMTI4OTE2NjM2/NS5qcGVn.jpeg) | 2006-12-13 | HALCALI | Look |
@@ -32,22 +31,23 @@ Last updated: <time datetime="2025-10-23T06:38:56.444Z">Thu Oct 23 2025 09:38:56
 | 20 |  | 2010-05-05 | ももいろクローバー | 行くぜっ!怪盗少女 |
 | 47 |  | 2010-10-20 | ClariS | irony |
 | 32 |  | 2011-03-09 | 9nine | SHINING☆STAR |
+| 1 | ![Cover](https://i.discogs.com/EIqvMFr82A-_fnP0DFxNtvbX7DpdmKVB7hBiGJdmCQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkw/MjEwLTE1MjQyMTAy/MTctNzExMi5qcGVn.jpeg) | 2011-04-13 | LISP | You May Dream |
 | 48 | ![Cover](https://i.discogs.com/649vJd-x5s5cl2bwC99UoiXZD6lm1jGICNjXUkPlO04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTMz/NjUtMTM1ODcwNzQw/MS00Mjk3LmpwZWc.jpeg) | 2011-08-03 | FictionJunction | stone cold |
 | 14 | ![Cover](https://i.discogs.com/sK-KHcndrGDEe9DHEi6L4rHfUS84QWKLIzpY3fj6YNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk2/NTExLTE2MzU2ODI1/OTYtMzI5My5qcGVn.jpeg) | 2011-08-17 | Tomato n&#39; Pine | なないろ☆ナミダ |
 | 21 |  | 2011-08-17 | RO-KYU-BU! | SHOOT! |
 | 34 |  | 2011-11-23 | ももいろクローバーZ | 労働讃歌 |
 | 30 |  | 2011-12-07 | AKB48 | 上からマリコ |
 | 19 |  | 2012-01-25 | Larval Stage Planning | Trip -Innocent of D- |
-| 1 | ![Cover](https://i.discogs.com/AENdaLG-dRVAz1p4-EzHI1XgmBEZRvenln_rBn_LatE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTM4/NzctMTM1MTk2MDM2/MC0yMTcxLmpwZWc.jpeg) | 2012-05-16 | StylipS | MIRACLE RUSH |
+| 2 | ![Cover](https://i.discogs.com/AENdaLG-dRVAz1p4-EzHI1XgmBEZRvenln_rBn_LatE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTM4/NzctMTM1MTk2MDM2/MC0yMTcxLmpwZWc.jpeg) | 2012-05-16 | StylipS | MIRACLE RUSH |
 | 50 |  | 2012-06-27 | ももいろクローバーZ | Z女戦争 |
 | 38 |  | 2012-08-01 | 桃黒亭一門 | ニッポン笑顔百景 |
-| 8 | ![Cover](https://i.discogs.com/d4Fb9E9W267uN6hKSXISNkE-563mFFbkp2hFqN0_LgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODYw/ODAtMTM4OTYyMjA2/OS04MzY5LmpwZWc.jpeg) | 2013-10-02 | tricot | KABUKU EP |
-| 7 | ![Cover](https://i.discogs.com/R1Q7URedmshrz0Mq9Ym7DEuJXoVw2T8ShJsvkPBle4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgx/MjEwLTE1MDc2MDgy/MTMtNDMyMC5qcGVn.jpeg) | 2014-01-22 | Flower | Flower |
+| 9 | ![Cover](https://i.discogs.com/d4Fb9E9W267uN6hKSXISNkE-563mFFbkp2hFqN0_LgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODYw/ODAtMTM4OTYyMjA2/OS04MzY5LmpwZWc.jpeg) | 2013-10-02 | tricot | KABUKU EP |
+| 8 | ![Cover](https://i.discogs.com/R1Q7URedmshrz0Mq9Ym7DEuJXoVw2T8ShJsvkPBle4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgx/MjEwLTE1MDc2MDgy/MTMtNDMyMC5qcGVn.jpeg) | 2014-01-22 | Flower | Flower |
 | 25 |  | 2014-01-29 | ClariS | CLICK |
 | 36 |  | 2014-04-23 | Scandal | Departure |
 | 37 | ![Cover](https://i.discogs.com/RYH1YZ2jaV6dOMkqkhGz1gTa_KjYlWeIVAMrtFXw2F0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTg4/MDItMTUyMTUxNDQ5/My0zMDM1LmpwZWc.jpeg) | 2015-03-27 | Bish | Brand-new idol SHiT |
 | 35 | ![Cover](https://i.discogs.com/NnctrizOfKvCxJZYnyGeD769Jd7KSBTKai0UltOuDok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjM3/NDQtMTQ2NDExNjA1/NC05OTE3LmpwZWc.jpeg) | 2016-05-24 | FAKY | Candy |
-| 3 | ![Cover](https://i.discogs.com/mPsnhcw643BHdIq9dAllB2tr0GtNw9i8TdErKWbx6to/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODIw/NzM2LTE2MzU4NDE2/NTAtMzc3MS5qcGVn.jpeg) | 2016-08-03 | i☆Ris | Realize! |
+| 4 | ![Cover](https://i.discogs.com/mPsnhcw643BHdIq9dAllB2tr0GtNw9i8TdErKWbx6to/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODIw/NzM2LTE2MzU4NDE2/NTAtMzc3MS5qcGVn.jpeg) | 2016-08-03 | i☆Ris | Realize! |
 | 17 |  |  | Wake Up, May&#39;n! | One In A Billion |
 | 75 | ![Cover](https://i.discogs.com/AON418UTJBaZ4s3mqiTjJu0qw5di-jTIdIp9xbv4Awg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDM4/MzYtMTMxMDQxMTE5/NS5qcGVn.jpeg) | 1962 | The Marvelettes | Playboy |
 | 64 |  | 1963 | The Chiffons | One Fine Day |
@@ -108,7 +108,7 @@ Last updated: <time datetime="2025-10-23T06:38:56.444Z">Thu Oct 23 2025 09:38:56
 | 26 | ![Cover](https://i.discogs.com/DPZUttDPqfU-y_rn2qVTwXRwXqtiEykvGCXpTiRDos8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQ5/ODE1LTE1NTA3MTE5/MjAtNTE2NS5qcGVn.jpeg) | 2018-10-24 | Homecomings | WHALE LIVING |
 | 10 |  | 2019-04-24 | SHISHAMO | OH! |
 | 80 | ![Cover](https://i.discogs.com/h6sTo4LwmqHI9BO9BBlh0lmV0QBOUj3NqxURcXqfXHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU5/MDgwLTE1NjcwMjk4/NTYtOTI3Mi5qcGVn.jpeg) | 2019-08-21 | chelmico | Fishing |
-| 2 | ![Cover](https://i.discogs.com/22wFfWhJ0GFrN8bYJnal5PI_FEOaCynAZthd-CtQ8-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc2/MDY5LTE1ODEzNjAy/NTMtMjkzNi5qcGVn.jpeg) | 2020-01-29 | SHISHAMO | SHISHAMO BEST |
+| 3 | ![Cover](https://i.discogs.com/22wFfWhJ0GFrN8bYJnal5PI_FEOaCynAZthd-CtQ8-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc2/MDY5LTE1ODEzNjAy/NTMtMjkzNi5qcGVn.jpeg) | 2020-01-29 | SHISHAMO | SHISHAMO BEST |
 | 27 | ![Cover](https://i.discogs.com/MmcCv5jbENcAPrtpMwad-HU0RD2vbgtTozCYbs3Wrbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODU3/NTgtMTQ4MTQwMDky/MC04MTg3LmpwZWc.jpeg) | 2021-10-27 | BAND-MAID | YOLO |
 | 40 | ![Cover](https://i.discogs.com/qPzaAXlT37b57on1s8cBNJCmKHy43YzdE7DWSAww6jY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTAy/MTU3LTE1Nzc5MTY2/NTMtMjQwMS53ZWJw.jpeg) | 2022-04-06 | Trysail | TAILWIND |
 | 86 | ![Cover](https://i.discogs.com/HdQsqbKUWlGhPZTeI4WWDnolIki-87Ah6D0-0PxrOmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU1/MTY4LTE2MzUzNzU2/ODItMTAzOC5qcGVn.jpeg) | 2023-08-04 | BAND-MAID | Bubble |
