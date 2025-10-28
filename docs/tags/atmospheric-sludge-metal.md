@@ -9,6 +9,10 @@ title: atmospheric sludge metal
 
 Last updated: <time datetime="2025-10-21T03:57:11.814Z">Tue Oct 21 2025 06:57:11 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+A metal subgenre blending sludge&#39;s slow, crushing heaviness and harsh vocals with the layered, expansive soundscapes of post-metal. It builds dense atmosphere and mood, balancing brutality with textured ambience.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |

@@ -1,29 +1,27 @@
 ---
 category: genre
-date: 2025-10-21T00:04:13.657Z
+date: 2025-10-28T09:49:30.618Z
 permalink: tags/japanese-pop
 title: japanese pop
 ---
 
 ## japanese pop
 
-Last updated: <time datetime="2025-10-21T00:04:13.657Z">Tue Oct 21 2025 03:04:13 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T09:49:30.618Z">Tue Oct 28 2025 11:49:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | Wednesday Campanella | 嬴政 |
-| 4 |  | 1980-04-01 | 松田聖子 | 裸足の季節 |
+| 3 |  | 1980-04-01 | 松田聖子 | 裸足の季節 |
 | 29 |  | 1980-07-01 | 松田聖子 | 青い珊瑚礁 |
-| 51 |  |  | DAOKO×米津玄師 | 打上花火 |
 | 38 | ![Cover](https://i.discogs.com/X6geJ0DR-7hB1pFCmrDyMl9Pl0gMuy_6xAlXyH51X3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzIz/OTktMTYwNzMwMjQ5/Ni03NTQ5LmpwZWc.jpeg) | 1981 | Monta &amp; Brothers | ゴールデン☆ベスト もんた&amp;ブラザーズ シングルス・プラス |
 | 27 | ![Cover](https://i.discogs.com/YxKEP6X5L8tHZLPlOkZC-_ntPM8O-CX4Ehac43JV3CM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NjctMTM0MzkzNzg3/Ny05MDgzLmpwZWc.jpeg) | 1996 | GLAY | REVIEW～BEST OF GLAY |
 | 34 | ![Cover](https://i.discogs.com/YNtXkPgDfv2T3cMAKDl8GkoppEDZPL6L3P4TrdgIeDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDMw/MTAtMTMxNjY1Njk5/NC5qcGVn.jpeg) | 1997-10-01 | DREAMS COME TRUE | Best of Dreams Come True |
 | 48 |  | 1998-04-08 | 浜崎あゆみ | poker face |
 | 50 |  | 1998-08-05 | 浜崎あゆみ | Trust |
 | 19 |  | 1998-09-02 | Seagull Screaming Kiss Her Kiss Her | 17 |
-| 6 |  | 1998-10-07 | 浜崎あゆみ | For My Dear... |
+| 5 |  | 1998-10-07 | 浜崎あゆみ | For My Dear... |
 | 26 |  | 1999-07-14 | 浜崎あゆみ | Boys &amp; Girls |
 | 15 |  | 2000-05-17 | 浜崎あゆみ | Far away |
 | 46 |  | 2000-06-07 | 浜崎あゆみ | SEASONS |
@@ -32,30 +30,40 @@ Last updated: <time datetime="2025-10-21T00:04:13.657Z">Tue Oct 21 2025 03:04:13
 | 17 |  | 2003-05-21 | 林明日香 | 咲 |
 | 13 |  | 2003-08-20 | 浜崎あゆみ | forgiveness |
 | 7 | ![Cover](https://i.discogs.com/V7Bn3LOjPUGLrJJgMi1nELGC9-ruBtDan7_owOvd3oA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjI2/OTQtMTMzNTM4NTE5/NS5qcGVn.jpeg) | 2004-09-29 | CooRie | 秋やすみ |
-| 9 | ![Cover](https://i.discogs.com/tAtmz-QXvdFWo6JydOvEK7mZs6XU-VTFkm0ubDnoq3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTM5/OTctMTQ4Njc0MTE1/NC0zMjMwLmpwZWc.jpeg) | 2006-11-22 | Dahlia | Beautiful, but Noir |
-| 28 |  |  | Wednesday Campanella | Melos |
-| 35 |  | 2006-11-08 | モーニング娘。 | 歩いてる |
-| 36 |  |  | ボンジュール鈴木 | あの森で待ってる |
-| 39 |  |  | 浜崎あゆみ | A Song Is Born |
-| 41 |  |  | Wednesday Campanella | メロス |
 | 47 |  | 2006-05-24 | eufonius | スバラシキセカイ |
+| 35 |  | 2006-11-08 | モーニング娘。 | 歩いてる |
+| 9 | ![Cover](https://i.discogs.com/tAtmz-QXvdFWo6JydOvEK7mZs6XU-VTFkm0ubDnoq3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTM5/OTctMTQ4Njc0MTE1/NC0zMjMwLmpwZWc.jpeg) | 2006-11-22 | Dahlia | Beautiful, but Noir |
 | 45 |  | 2007-11-28 | Berryz工房 | 付き合ってるのに片思い |
 | 11 | ![Cover](https://i.discogs.com/AbvLlHPqhuGxVEZX-ie7XgUR4ONy2H-E6wj1GQz2XUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTAw/MjAtMTIyNTY3MzU0/My5qcGVn.jpeg) | 2008 | Jack or Jive | Kakugo |
-| 3 | ![Cover](https://i.discogs.com/AI1lGjDld_99E2LCP8NCGesvDDzCAlPSnawT4V_qNG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjA2/MTQxLTE1MDA4MjM2/NDEtNjU3MS5qcGVn.jpeg) | 2008-01-09 | AAA | MAGIC |
-| 23 |  | 2011-12-21 | Fairies | HERO &#x2F; Sweet Jewel |
-| 12 |  | 2012-07-25 | 西野カナ | GO FOR IT !! |
-| 8 | ![Cover](https://i.discogs.com/cfHHlDNSuHhKOxkfa-qku58etWLcAFAJ_XJL2R6C_f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzIz/ODYtMTQ4NjExNjc3/OS0xNTc3LmpwZWc.jpeg) | 2012-10-31 | AKB48 | 0と1の間 |
+| 2 | ![Cover](https://i.discogs.com/AI1lGjDld_99E2LCP8NCGesvDDzCAlPSnawT4V_qNG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjA2/MTQxLTE1MDA4MjM2/NDEtNjU3MS5qcGVn.jpeg) | 2008-01-09 | AAA | MAGIC |
+| 49 |  | 2008-07-09 | Berryz工房 | 行け 行け モンキーダンス |
+| 44 |  | 2009-01-28 | 西野カナ | MAKE UP |
 | 42 | ![Cover](https://i.discogs.com/-S3lFx5WAhvwTlrvLe3n71M0ATjfaW6cPvF3P8nS-Ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTU5/MDAtMTM4MDM2OTQz/Ni0xODM5LmpwZWc.jpeg) | 2013-01-01 | Kara | Fantastic Girls |
 | 31 |  | 2013-07-10 | 安室奈美恵 | FEEL |
 | 43 | ![Cover](https://i.discogs.com/iPuuxEU15JITWlKc5aOaQSd70fhRtxVz2AFIsJQx8Gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzA1/NTEtMTQxNTI1NTM2/Ni0zNzg2LmpwZWc.jpeg) | 2014-07-02 | AAA | Way of Glory |
-| 16 | ![Cover](https://i.discogs.com/GyQpVJuRl3xRtk44vh8fTu-w4auHPeAEdejSqK481dM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk0/NTE4LTE1NTMzNzUx/NTMtNDU5NC5qcGVn.jpeg) | 2015-06-15 | μ&#39;s | 僕たちはひとつの光 &#x2F; Future style |
 | 33 | ![Cover](https://i.discogs.com/23KP7KYkvhXdISHIMqNaHP_55vtFLfPNa6GFvGRtGWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzU5/NTEyLTE1NzI5MzY0/MDAtODYwMi5qcGVn.jpeg) | 2015-12-02 | Inori Minase | Aimaimoko |
-| 24 | ![Cover](https://i.discogs.com/OiuzYnIzeUfGXRnzt2PdcXqIz_G-hksTBaCRta098mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjgx/MDktMTQxNTIwMDA4/Ni0zNzE5LmpwZWc.jpeg) | 2016-06-08 | AAA | LIFE |
-| 30 |  |  | kyary pamyu pamyu | 良すた |
-| 18 | ![Cover](https://i.discogs.com/6c5gjfojZI4nGFO-M_1nVtDMTFwlVrj8zBKbxN-Wq_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/MzQ2LTE1MzA2MzAx/NjUtMjQzMS5qcGVn.jpeg) | 2017 | Inori Minase | Innocent Flower |
-| 2 | ![Cover](https://i.discogs.com/8DwEJ-YNxvh2jT0OZyCCiHuBu9PW7e9FmAUQW7L4ocs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODEx/ODE5LTE2NDI2Njcw/OTQtMTg0My5qcGVn.jpeg) | 2017-07-05 | Tokyo Girls&#39; Style | water lily 〜睡蓮〜 |
-| 5 |  |  | 椎名林檎 | 目抜き通り |
+| 1 | ![Cover](https://i.discogs.com/8DwEJ-YNxvh2jT0OZyCCiHuBu9PW7e9FmAUQW7L4ocs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODEx/ODE5LTE2NDI2Njcw/OTQtMTg0My5qcGVn.jpeg) | 2017-07-05 | Tokyo Girls&#39; Style | water lily 〜睡蓮〜 |
+| 4 |  |  | 椎名林檎 | 目抜き通り |
+| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bacd4295ffa504e7d5700df4dd3639dd.png) |  | 浜崎あゆみ | I am... |
+| 23 |  | 2011-12-21 | Fairies | HERO &#x2F; Sweet Jewel |
+| 12 |  | 2012-07-25 | 西野カナ | GO FOR IT !! |
+| 8 | ![Cover](https://i.discogs.com/cfHHlDNSuHhKOxkfa-qku58etWLcAFAJ_XJL2R6C_f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzIz/ODYtMTQ4NjExNjc3/OS0xNTc3LmpwZWc.jpeg) | 2012-10-31 | AKB48 | 0と1の間 |
+| 16 | ![Cover](https://i.discogs.com/GyQpVJuRl3xRtk44vh8fTu-w4auHPeAEdejSqK481dM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk0/NTE4LTE1NTMzNzUx/NTMtNDU5NC5qcGVn.jpeg) | 2015-06-15 | μ&#39;s | 僕たちはひとつの光 &#x2F; Future style |
 | 20 |  |  | Keyakizaka46 | Fukyouwaon (Special Edition) |
+| 24 | ![Cover](https://i.discogs.com/OiuzYnIzeUfGXRnzt2PdcXqIz_G-hksTBaCRta098mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjgx/MDktMTQxNTIwMDA4/Ni0zNzE5LmpwZWc.jpeg) | 2016-06-08 | AAA | LIFE |
+| 39 |  |  | 浜崎あゆみ | A Song Is Born |
+| 41 |  |  | Wednesday Campanella | メロス |
+| 18 | ![Cover](https://i.discogs.com/6c5gjfojZI4nGFO-M_1nVtDMTFwlVrj8zBKbxN-Wq_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/MzQ2LTE1MzA2MzAx/NjUtMjQzMS5qcGVn.jpeg) | 2017 | Inori Minase | Innocent Flower |
+| 37 | ![Cover](https://i.discogs.com/iPuuxEU15JITWlKc5aOaQSd70fhRtxVz2AFIsJQx8Gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzA1/NTEtMTQxNTI1NTM2/Ni0zNzg2LmpwZWc.jpeg) | 2017-02-22 | AAA | WAY OF GLORY |
+| 40 | ![Cover](https://i.discogs.com/WzFiGv6MuI4N1sf_fGUKwMwzSu6TSQpaIQ9qgpdLKYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTMx/NzQyLTE2ODQ1NDEz/ODEtNDM4OS5qcGVn.jpeg) | 2017-05-10 | ayaka | コトノハ |
+| 21 | ![Cover](https://i.discogs.com/LDFobiR6FtOMHtwF_y42GH_mNdRX0RfKx3d6WXLPGRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTEz/OTE4LTE2MjY0Mzg3/MzMtOTIyNy5qcGVn.jpeg) | 2017-05-24 | Trysail | adrenaline!!! |
+| 32 | ![Cover](https://i.discogs.com/qaptKlaEa689J0FYbN1d7DqTkHRivCXJBSZTp-Pu7zM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMx/MzIyLTE2NTkwNzQz/NTktNTg5Ny5qcGVn.jpeg) | 2017-07-26 | Asako Toki | HIGHLIGHT - The Very Best of Toki Asako - |
+| 22 | ![Cover](https://i.discogs.com/t23yhG22ghPZLZUV7cZ4ETyRwFeRbTvkr6JwV_26ff0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAz/ODc2LTE1ODgwNjcz/MjktMTY0Ni5wbmc.jpeg) | 2018-11-09 | go green | From Apple To Pepper |
+| 25 | ![Cover](https://i.discogs.com/0mVBZ60G0SIrhukHQamYZAJvZS6EZUWje-Q-nvsofCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI4/MDU1LTE1Nzg0ODA0/MzUtNDk3NC5qcGVn.jpeg) | 2019-12-25 | Momoiro Clover Z | MCZ Winter Song Collection |
+| 28 |  |  | Wednesday Campanella | Melos |
+| 30 |  |  | kyary pamyu pamyu | 良すた |
+| 36 |  |  | ボンジュール鈴木 | あの森で待ってる |
+| 51 |  |  | DAOKO×米津玄師 | 打上花火 |
 | 71 | ![Cover](https://i.discogs.com/-3fefdPtlcyivGyObvfMRvDBrDKKH3CnNj2IBBOG69g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODUw/OS0xMjc4MTA1Mjk3/LmpwZWc.jpeg) | 1990 | Kano | Nadamesukashi Negotiation |
 | 57 |  | 1998-06-10 | 浜崎あゆみ | YOU |
 | 62 |  | 1999-02-10 | 浜崎あゆみ | WHATEVER |
@@ -63,10 +71,8 @@ Last updated: <time datetime="2025-10-21T00:04:13.657Z">Tue Oct 21 2025 03:04:13
 | 77 | ![Cover](https://i.discogs.com/bItEjEiwrgVsKkBz5QgVYL-w8RwuVQadrOFQGofjgmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTMx/MzktMTM2MDkzNDI5/OC0zMjYxLmpwZWc.jpeg) | 2001-12-12 | Hyde | Angel&#39;s tale |
 | 63 |  | 2002-09-26 | 浜崎あゆみ | Voyage |
 | 73 | ![Cover](https://i.discogs.com/QXaqTzIDLI10jdNnAhngrJsC-l6mK65j6uRIgEr1gTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM4/MDg4LTE2MTQwMTI5/NjQtMzEzNi5qcGVn.jpeg) | 2003-02-06 | nirgilis | ニュースタンダード |
-| 49 |  | 2008-07-09 | Berryz工房 | 行け 行け モンキーダンス |
 | 61 | ![Cover](https://i.discogs.com/9p9AKXm1DPiTog_Fi9RYYohuodgghRie81-IUTu2lnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU2/ODEzLTE1MTI4NTU1/MDktMzAyNC5qcGVn.jpeg) | 2008-07-29 | Thelma Aoyama | Will |
 | 60 |  | 2008-10-15 | The Predators | 牙をみせろ |
-| 44 |  | 2009-01-28 | 西野カナ | MAKE UP |
 | 69 |  | 2009-06-03 | 西野カナ | 君に会いたくなるから |
 | 98 | ![Cover](https://i.discogs.com/9SdvgXFFKs65AvEmda4j9EGMgAwgk9peaeSjK0FDsy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDU0/MjIyLTE2NjQ0MDY1/MTQtODM2NS5qcGVn.jpeg) | 2010-12-22 | μ&#39;s | Snow halation |
 | 68 |  | 2011-01-12 | 坂本真綾 | You can&#39;t catch me |
@@ -92,19 +98,13 @@ Last updated: <time datetime="2025-10-21T00:04:13.657Z">Tue Oct 21 2025 03:04:13
 | 53 | ![Cover](https://i.discogs.com/KQCtc9tD1Bzan-dL2I7Mi4HfM6gE32UHPYW-v_cFjUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk0/MzU1LTE1NTMzNzM1/OTItMjgwMy5qcGVn.jpeg) | 2016-03-02 | μ&#39;s | ENDLESS PARADE |
 | 79 | ![Cover](https://i.discogs.com/KQCtc9tD1Bzan-dL2I7Mi4HfM6gE32UHPYW-v_cFjUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk0/MzU1LTE1NTMzNzM1/OTItMjgwMy5qcGVn.jpeg) | 2016-03-02 | μ&#39;s | MOMENT RING |
 | 66 | ![Cover](https://i.discogs.com/QL2rMrTwShjo0kOPX0TGzoa9TarvxW2RH6BtjcJPYrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUy/MDY4LTE1MTY1NjQ0/MzgtNzMyMy5qcGVn.jpeg) | 2017-01-25 | Asako Toki | Pink |
-| 37 | ![Cover](https://i.discogs.com/iPuuxEU15JITWlKc5aOaQSd70fhRtxVz2AFIsJQx8Gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzA1/NTEtMTQxNTI1NTM2/Ni0zNzg2LmpwZWc.jpeg) | 2017-02-22 | AAA | WAY OF GLORY |
 | 88 | ![Cover](https://i.discogs.com/CCE_FoG9TmETOJ8zYcZMa69IGx15GIcFdcw8ACJFJCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjU1/NDA3LTE1MzE1MjQ5/MjctMjc2Ny5qcGVn.jpeg) | 2017-04-05 | Aqours | HAPPY PARTY TRAIN |
-| 40 | ![Cover](https://i.discogs.com/WzFiGv6MuI4N1sf_fGUKwMwzSu6TSQpaIQ9qgpdLKYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTMx/NzQyLTE2ODQ1NDEz/ODEtNDM4OS5qcGVn.jpeg) | 2017-05-10 | ayaka | コトノハ |
-| 21 | ![Cover](https://i.discogs.com/LDFobiR6FtOMHtwF_y42GH_mNdRX0RfKx3d6WXLPGRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTEz/OTE4LTE2MjY0Mzg3/MzMtOTIyNy5qcGVn.jpeg) | 2017-05-24 | Trysail | adrenaline!!! |
 | 97 | ![Cover](https://i.discogs.com/uyM1ryPwG7TOxh4VmvaTpTIUMxbt9KoZi31kYVG4Nb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ2/NjE5LTE1NTI0OTk4/MDgtNzMyOC5qcGVn.jpeg) | 2017-07-18 | Taemin | Flame of Love |
 | 78 | ![Cover](https://i.discogs.com/jMaB60IEHAW6qz_sh3sq4jrSEpdLgwBYGfS_2bj20uE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAw/NDg2LTE1MTE3Mjk1/MTQtMTc4Ny5qcGVn.jpeg) | 2017-07-24 | DEADLIFT LOLITA | Kimi Terasu Sairiumu |
-| 32 | ![Cover](https://i.discogs.com/qaptKlaEa689J0FYbN1d7DqTkHRivCXJBSZTp-Pu7zM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMx/MzIyLTE2NTkwNzQz/NTktNTg5Ny5qcGVn.jpeg) | 2017-07-26 | Asako Toki | HIGHLIGHT - The Very Best of Toki Asako - |
 | 64 | ![Cover](https://i.discogs.com/hDJPWRxWXTGMMMF0x8EUlfP3hOAv-9PYSvqNjWg7kcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTk3/NjcyLTE1MjYyNTIz/MzUtMjA5OC5qcGVn.jpeg) | 2017-10-25 | FEMM | 80s&#x2F;90s J-Pop Revival |
 | 87 | ![Cover](https://i.discogs.com/0IJKslCLOnqJ-U4lLnUJxYbR2FCMUI33Ea5wCvyvd4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI1/NTY5LTE2MDE2OTQy/NTUtODE5MC5qcGVn.jpeg) | 2018-02-10 | DEADLIFT LOLITA | Pump Up JAPAN |
-| 22 | ![Cover](https://i.discogs.com/t23yhG22ghPZLZUV7cZ4ETyRwFeRbTvkr6JwV_26ff0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAz/ODc2LTE1ODgwNjcz/MjktMTY0Ni5wbmc.jpeg) | 2018-11-09 | go green | From Apple To Pepper |
 | 83 | ![Cover](https://i.discogs.com/bYTUW4E9keNHokKlFj5qNmyQhZlVUj-u8ri5pfToIfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU0/NjgxLTE1NTY0MTUy/MjQtODU3My5qcGVn.jpeg) | 2019-03-08 | Ladybaby | Renge Chance! |
 | 76 | ![Cover](https://i.discogs.com/rURkqrSwPYP8Pdim91H2KnedGZBuii7UX9OdShtuAgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTcz/NTg5LTE1NjkyMzcx/MDQtMTEyNC5qcGVn.jpeg) | 2019-09-06 | CLC | チャミスマ |
-| 25 | ![Cover](https://i.discogs.com/0mVBZ60G0SIrhukHQamYZAJvZS6EZUWje-Q-nvsofCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI4/MDU1LTE1Nzg0ODA0/MzUtNDk3NC5qcGVn.jpeg) | 2019-12-25 | Momoiro Clover Z | MCZ Winter Song Collection |
 | 100 | ![Cover](https://i.discogs.com/WG3Lc3JCk7x6HXMKSa91cXUVWmyKzzxQjEh3uvVcDb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTc3/MjYtMTQ1ODA5OTYw/NS01MDc0LmpwZWc.jpeg) | 2020 | BTS | 血、汗、涙 |
 | 99 | ![Cover](https://i.discogs.com/W-0r9S_UcuXDRdzA2jGqjsge-g1u25Q0DR457Zf9Wkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTg1/NDc3LTE2MjI2NDY4/MzctMzY2My5qcGVn.jpeg) | 2021-04-14 | Chanmina | BIJIN |
 | 56 | ![Cover](https://i.discogs.com/s0RbITeMkILGz83uFPWdjqBUvgSu21_cy27aQNLs-qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk1/NjYtMTQ1MjYzOTgz/Mi01Njk3LmpwZWc.jpeg) | 2022-10-19 | FAKY | SUGA SWEET |
