@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-26T21:56:34.731Z
+date: 2025-10-28T04:55:00.638Z
 permalink: tags/polish-death-metal
 title: polish death metal
 ---
 
 ## polish death metal
 
-Last updated: <time datetime="2025-10-26T21:56:34.731Z">Sun Oct 26 2025 23:56:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T04:55:00.638Z">Tue Oct 28 2025 06:55:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -52,6 +52,7 @@ Last updated: <time datetime="2025-10-26T21:56:34.731Z">Sun Oct 26 2025 23:56:34
 | 69 | ![Cover](https://i.discogs.com/omkJousFAdo5DY6cCNnGkGNyX1gkWLNwX2-R3mWMW6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjkw/Ny0xMzEzNjgxODY5/LmpwZWc.jpeg) | 2004-12-12 | Spinal Cord | Stigmata of Life |
 | 27 |  | 2005 | DeathClaw | Timeless Illusions |
 | 97 | ![Cover](https://i.discogs.com/XUQUePHhI9oEqss0P30oIph9OC3b1uUAGmZF_jP26oE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjAx/MDktMTUxMzExOTA2/OS04NTA3LmpwZWc.jpeg) | 2005 | Devilyn | 11 |
+| 1 |  | 2005-02-25 | BloodthirstPL | Hell Bestial Desecration (split w&#x2F;Ebola) |
 | 24 |  | 2005-06 | Dreary Mower | Mowing Around - 2005 |
 | 10 | ![Cover](https://i.discogs.com/by1CD9cjKsV6X1n1MHvxN-tvlPP29Ek9ne0R0fzckII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjgw/Mi0xMjI4MjczMTA3/LmdpZg.jpeg) | 2005-08 | Lost Soul | GENESIS |
 | 16 |  | 2006 | Il Spectro | Sphere Of Death |
@@ -94,12 +95,11 @@ Last updated: <time datetime="2025-10-26T21:56:34.731Z">Sun Oct 26 2025 23:56:34
 | 13 | ![Cover](https://i.discogs.com/MuaPIWEJXCvTIzcwdMwHeFiGy6TFu1i4BWyXpGvog0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTU5/OTctMTM1Mzc3MTMy/My0yNDc1LmpwZWc.jpeg) | 2012-04-21 | Embrional | Absolutely Anti-Human Behaviours |
 | 51 | ![Cover](https://i.discogs.com/xsPrldLBQWjzrYQTrOfU4DUU4JHwuSxissP6HZcpq5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY5/ODQ0LTE1NDE2MDI5/ODQtNzExNy5qcGVn.jpeg) | 2012-12-02 | Dead Mind | Mental Confrontation |
 | 89 |  | 2013-03-17 | Dormant Ordeal | It Rains, It Pours |
-| 1 |  | 2013-05-10 | Mastema(PL) | The Murderer&#39;s Tale |
 | 7 | ![Cover](https://i.discogs.com/c26bPIBjknmgNQGGzcKNJJlqEQoh3xjpoUVd3XWhnOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDg3/NzMzLTE1ODY1Mjkz/MzktOTUyMi5qcGVn.jpeg) | 2013-06-12 | Andy Blakk | Stages of Necrosis |
 | 77 |  | 2014-01-06 | Nilfgaard | Enter Fiction |
 | 96 | ![Cover](https://i.discogs.com/ufKjPowopRCf6KWuDa2HWfjVI1losQ2ipwngzoJLyOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTU0/NjUtMTQ2NDI2MzY2/NS02NzUxLmpwZWc.jpeg) | 2015 | Deivos | Theodicy |
-| 31 | ![Cover](https://i.discogs.com/FCD3bZ7KkqoQQYAzXaIyhNSTErCQCzqxyuA7JcZj8co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTk0/NTktMTUwNTM3Mzcz/OC02MjYwLmpwZWc.jpeg) | 2015-08-01 | Repossession | Untitled Album |
-| 30 | ![Cover](https://i.discogs.com/TX9oonp5OY08-oP1P5knY0LAR3fvRTff1PjY-YvPkI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTYx/OTEtMTQ3NjgxNjEw/MS0zOTY2LmpwZWc.jpeg) | 2016 | Infatuation of Death | Code of Impiety |
+| 30 | ![Cover](https://i.discogs.com/FCD3bZ7KkqoQQYAzXaIyhNSTErCQCzqxyuA7JcZj8co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTk0/NTktMTUwNTM3Mzcz/OC02MjYwLmpwZWc.jpeg) | 2015-08-01 | Repossession | Untitled Album |
+| 31 | ![Cover](https://i.discogs.com/TX9oonp5OY08-oP1P5knY0LAR3fvRTff1PjY-YvPkI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTYx/OTEtMTQ3NjgxNjEw/MS0zOTY2LmpwZWc.jpeg) | 2016 | Infatuation of Death | Code of Impiety |
 | 85 | ![Cover](https://i.discogs.com/qnVrKQyHeVsTvvm7gmaqI2z-aLXavEbKKAEUcNQadjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzcy/MTctMTMwMDU2NTM5/Ny5qcGVn.jpeg) | 2016-07-07 | Throneum | Total Regression! - SPLIT CD |
 | 63 | ![Cover](https://i.discogs.com/k0-S1NaBFTmZ5oBf5R7kJTQa1CiNeBfqCddaFqJUVok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTAw/NjQwLTE1NzU4MTgy/NDctMTQwNy5qcGVn.jpeg) | 2017-01-07 | Nihilosaur | The End is Within Sight |
 | 100 | ![Cover](https://i.discogs.com/HQO0olbwhWJkQEXnANyIqv5tmaTER294AExtPYKN634/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDcx/NDQtMTQ5MzkwMDMx/NS03MDAyLmpwZWc.jpeg) | 2017-05-05 | Hate | Tremendum |

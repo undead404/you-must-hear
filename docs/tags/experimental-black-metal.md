@@ -1,65 +1,66 @@
 ---
 category: genre
-date: 2025-10-25T06:38:16.372Z
+date: 2025-10-28T04:55:07.797Z
 permalink: tags/experimental-black-metal
 title: experimental black metal
 ---
 
 ## experimental black metal
 
-Last updated: <time datetime="2025-10-25T06:38:16.372Z">Sat Oct 25 2025 09:38:16 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T04:55:07.797Z">Tue Oct 28 2025 06:55:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 18 | ![Cover](https://i.discogs.com/o1YeNk0hJ6jDa7vtdNngqMF8x5WgjO8i1ZhUPbG_qD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDU1/OC0xMTQ2MzA4NTc4/LmpwZWc.jpeg) | 1999 | Bael | Souffrances |
-| 48 | ![Cover](https://i.discogs.com/iQ6lr64jCUl8c22J6KlFPbGr5-pV-Eh9rxCX6BhJWRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzA5/MTktMTMzNzMzMjU0/Mi04MTg4LmdpZg.jpeg) | 1999 | The Meads of Asphodel | Metatron And The Red Gleaming |
-| 35 | ![Cover](https://i.discogs.com/FipRO1Qz-8b48Xs3ecivOedtktWFD-KKkeYglPtnL1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgw/MTQtMTE5MTAxOTQw/MC5qcGVn.jpeg) | 2005 | Wrnlrd | Mask Of Hate |
-| 36 | ![Cover](https://i.discogs.com/ClBzSWTLRl6daYpknP5lkgWt1fKTzDl27zs43O4H0uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njc1/OTgxLTE2NzI5NTQw/NzMtMTc3My5qcGVn.jpeg) | 2005 | Strevlosh Zvezda | Nocni Dvor |
-| 2 | ![Cover](https://i.discogs.com/l0zA5IdpjcvpVPTTeoWyDTohtF2OwuxXACbh4IfZTKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAx/MTMtMTQ4NTAxMDg3/NS04MzY1LmpwZWc.jpeg) | 2005-07-10 | Ordo Draconis | Camera Obscura, Part 2: A View with a Room |
+| 19 | ![Cover](https://i.discogs.com/o1YeNk0hJ6jDa7vtdNngqMF8x5WgjO8i1ZhUPbG_qD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDU1/OC0xMTQ2MzA4NTc4/LmpwZWc.jpeg) | 1999 | Bael | Souffrances |
+| 49 | ![Cover](https://i.discogs.com/iQ6lr64jCUl8c22J6KlFPbGr5-pV-Eh9rxCX6BhJWRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzA5/MTktMTMzNzMzMjU0/Mi04MTg4LmdpZg.jpeg) | 1999 | The Meads of Asphodel | Metatron And The Red Gleaming |
+| 36 | ![Cover](https://i.discogs.com/FipRO1Qz-8b48Xs3ecivOedtktWFD-KKkeYglPtnL1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgw/MTQtMTE5MTAxOTQw/MC5qcGVn.jpeg) | 2005 | Wrnlrd | Mask Of Hate |
+| 37 | ![Cover](https://i.discogs.com/ClBzSWTLRl6daYpknP5lkgWt1fKTzDl27zs43O4H0uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njc1/OTgxLTE2NzI5NTQw/NzMtMTc3My5qcGVn.jpeg) | 2005 | Strevlosh Zvezda | Nocni Dvor |
+| 1 | ![Cover](https://i.discogs.com/l0zA5IdpjcvpVPTTeoWyDTohtF2OwuxXACbh4IfZTKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAx/MTMtMTQ4NTAxMDg3/NS04MzY1LmpwZWc.jpeg) | 2005-07-10 | Ordo Draconis | Camera Obscura, Part 2: A View with a Room |
 | 5 | ![Cover](https://i.discogs.com/i7WGSL50dY1MvAlOQ-e9pjybTXGQUEga7lYetFHgKK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDk5/OTMtMTQ4NTAxMDY4/OS01NTEwLmpwZWc.jpeg) | 2005-07-10 | Ordo Draconis | Camera Obscura, Part 1: The Star Chamber Reviews |
-| 34 |  | 2005-08-15 | Genevieve (www.genevieve-music.com) | This Little Thing Called Life |
-| 20 | ![Cover](https://i.discogs.com/E_8Dpz4TPRRqVqjapEUuc43CIsvOULKD4af7do-08aw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTQ1/MC0xMTQ1NjM0NDIy/LmpwZWc.jpeg) | 2006 | Urfaust &#x2F; Circle Of Ouroborus | Auerauege Raa Verduistering |
+| 35 |  | 2005-08-15 | Genevieve (www.genevieve-music.com) | This Little Thing Called Life |
+| 21 | ![Cover](https://i.discogs.com/E_8Dpz4TPRRqVqjapEUuc43CIsvOULKD4af7do-08aw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTQ1/MC0xMTQ1NjM0NDIy/LmpwZWc.jpeg) | 2006 | Urfaust &#x2F; Circle Of Ouroborus | Auerauege Raa Verduistering |
 | 9 | ![Cover](https://i.discogs.com/k7YE-E2uncBtaZJS-1OV7e8EaU6fshZiETnT1KjLDqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTQx/OTMtMTQ1MDIxMTUy/Ni01MzE4LmpwZWc.jpeg) | 2006-03-27 | Atrorum | Exhibition |
-| 22 | ![Cover](https://i.discogs.com/S9eav1APt3g1uhvFr1PFRWIqT4Ej_jfCfXWSNbFsUp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjUy/NzAtMTI1Mjg0MzIy/OS5qcGVn.jpeg) | 2006-11-28 | Ewigkeit | Lost Yet Not Forgotten |
-| 19 | ![Cover](https://i.discogs.com/GXJFEWyS3WHi6_27Pz7QxZEox11gzeogCQWnxkjsq24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjkx/OTUtMTQ2MDI3MDcx/Ny0xNjcyLmpwZWc.jpeg) | 2009-05-04 | Shardborn | Threat of Dawn |
-| 32 | ![Cover](https://i.discogs.com/ghOd2wN0PEyLLiimb5cCPd1K_2ilkU8SGRH1nbnt4wc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODM0/MDYtMTMzNjIyMTkw/NC5qcGVn.jpeg) | 2010-01-13 | Koester | De Innerlijke Gevangenis |
-| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f78930eb018cb9bb7083c3d424ef1f6c.png) | 2010-04-18 | Miasme | s&#x2F;t |
-| 28 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/41a535592c7d4128bede8408c183f17c.png) | 2010-06-01 | Deafheaven | Demo |
-| 25 | ![Cover](https://i.discogs.com/dzRkMe0waw4uRk5xSzzUy-3XFJPrGKQn0kJpFyYK4pc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAx/MzAtMTU3MTE1MjE4/NS02MTcyLmpwZWc.jpeg) | 2010-08-30 | War for War | Vez smrti |
-| 30 | ![Cover](https://i.discogs.com/cwAY6XE_qDXfk5LeQHKS_jWh4pWuIwAZImHXNAhFJpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc0/MjEtMTU4MjA3Mzg0/NC0yNjE2LmpwZWc.jpeg) | 2011 | Xerbittert | Black Fog |
-| 38 | ![Cover](https://i.discogs.com/Hyw6nJ-1VlNmTM-V54_9yEslxMaaRL11wydX3zRm7VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzg4/NzEtMTMzODQwMDky/Ny03OTYwLmpwZWc.jpeg) | 2011-05-03 | Miasme | scarcity |
+| 23 | ![Cover](https://i.discogs.com/S9eav1APt3g1uhvFr1PFRWIqT4Ej_jfCfXWSNbFsUp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjUy/NzAtMTI1Mjg0MzIy/OS5qcGVn.jpeg) | 2006-11-28 | Ewigkeit | Lost Yet Not Forgotten |
+| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/53281f9687fe41d788e439624bbe8675.png) | 2009-04 | Damned Spirits&#39; Dance | Weird Constellations |
+| 20 | ![Cover](https://i.discogs.com/GXJFEWyS3WHi6_27Pz7QxZEox11gzeogCQWnxkjsq24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjkx/OTUtMTQ2MDI3MDcx/Ny0xNjcyLmpwZWc.jpeg) | 2009-05-04 | Shardborn | Threat of Dawn |
+| 33 | ![Cover](https://i.discogs.com/ghOd2wN0PEyLLiimb5cCPd1K_2ilkU8SGRH1nbnt4wc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODM0/MDYtMTMzNjIyMTkw/NC5qcGVn.jpeg) | 2010-01-13 | Koester | De Innerlijke Gevangenis |
+| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f78930eb018cb9bb7083c3d424ef1f6c.png) | 2010-04-18 | Miasme | s&#x2F;t |
+| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/41a535592c7d4128bede8408c183f17c.png) | 2010-06-01 | Deafheaven | Demo |
+| 26 | ![Cover](https://i.discogs.com/dzRkMe0waw4uRk5xSzzUy-3XFJPrGKQn0kJpFyYK4pc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAx/MzAtMTU3MTE1MjE4/NS02MTcyLmpwZWc.jpeg) | 2010-08-30 | War for War | Vez smrti |
+| 31 | ![Cover](https://i.discogs.com/cwAY6XE_qDXfk5LeQHKS_jWh4pWuIwAZImHXNAhFJpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc0/MjEtMTU4MjA3Mzg0/NC0yNjE2LmpwZWc.jpeg) | 2011 | Xerbittert | Black Fog |
+| 39 | ![Cover](https://i.discogs.com/Hyw6nJ-1VlNmTM-V54_9yEslxMaaRL11wydX3zRm7VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzg4/NzEtMTMzODQwMDky/Ny03OTYwLmpwZWc.jpeg) | 2011-05-03 | Miasme | scarcity |
 | 3 | ![Cover](https://i.discogs.com/O5gaj4Z75SGz7glXoCpC3ofBjpKTwOrypbl1hS_OSAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTk3/NDYtMTMzNTI3MjA4/NC5qcGVn.jpeg) | 2012 | Wérdvenus | Memories from Southern forests and stars |
 | 4 |  | 2012-12-09 | Mistet Fjell | dette kval vil ikke ende |
-| 23 | ![Cover](https://i.discogs.com/KwxqviN_i7sbGEPUrU2G_ZjBv0_6xHyUhkFxgcToLF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzM1/NTQ5LTE1MjE0ODkw/NTctNDAxOS5qcGVn.jpeg) | 2013 | From Hell | 巫峽 Dynasty |
-| 33 | ![Cover](https://i.discogs.com/MqUEpCFu5LtbfFeWvTfSzKqUeGCmhWm9gSyZsUicspc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODc4/MTItMTM5MjEyNzQ2/OS02NDQ4LmpwZWc.jpeg) | 2013-11-18 | Cloak of Altering | NONE |
+| 24 | ![Cover](https://i.discogs.com/KwxqviN_i7sbGEPUrU2G_ZjBv0_6xHyUhkFxgcToLF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzM1/NTQ5LTE1MjE0ODkw/NTctNDAxOS5qcGVn.jpeg) | 2013 | From Hell | 巫峽 Dynasty |
+| 34 | ![Cover](https://i.discogs.com/MqUEpCFu5LtbfFeWvTfSzKqUeGCmhWm9gSyZsUicspc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODc4/MTItMTM5MjEyNzQ2/OS02NDQ4LmpwZWc.jpeg) | 2013-11-18 | Cloak of Altering | NONE |
 | 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5aaee2d94db14964c9313f06827157b3.png) | 2014-06-06 | Mayhem | Esoteric Warfare |
-| 44 | ![Cover](https://i.discogs.com/QgzOl-4aVwAO4maiGIv4Wcs9o4zTenPOxr0SPrfo_hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODE4/ODAtMTQwNTMyNzMy/My0xMzE0LmpwZWc.jpeg) | 2014-06-11 | Emanation | The emanation of begotten chaos from God |
+| 45 | ![Cover](https://i.discogs.com/QgzOl-4aVwAO4maiGIv4Wcs9o4zTenPOxr0SPrfo_hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODE4/ODAtMTQwNTMyNzMy/My0xMzE0LmpwZWc.jpeg) | 2014-06-11 | Emanation | The emanation of begotten chaos from God |
 | 11 | ![Cover](https://i.discogs.com/qL0i8AlvsVRq4THwI6yBw7Jzm85Qo4IpI-XbcNlfONI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzAw/MzgtMTQ0MTM2NTYy/OS0yNDQwLmpwZWc.jpeg) | 2014-08-20 | THE END | White Lotus |
-| 31 | ![Cover](https://i.discogs.com/qIag1CE1In4uJTBNHUuPhyMdLOj7o6rAMj4HQdejV_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc1/MDUxLTE1NjA2MTg1/NDYtMzMxMy5qcGVn.jpeg) | 2014-10-03 | THE END | You Made The Rain Disappear... |
-| 47 |  | 2014-11-07 | Basalte | Vestige |
+| 32 | ![Cover](https://i.discogs.com/qIag1CE1In4uJTBNHUuPhyMdLOj7o6rAMj4HQdejV_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc1/MDUxLTE1NjA2MTg1/NDYtMzMxMy5qcGVn.jpeg) | 2014-10-03 | THE END | You Made The Rain Disappear... |
+| 48 |  | 2014-11-07 | Basalte | Vestige |
 | 10 | ![Cover](https://i.discogs.com/S95bwgCa5mKlVAwEv6bOR-sUUAWnYBSzp_UJBxivTv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDQx/MjEtMTQ1Nzg0MzIy/NC0zMjQzLmpwZWc.jpeg) | 2014-12-26 | Zoxim | Zoxim |
-| 42 | ![Cover](https://i.discogs.com/gN-vkn8FWNFv0W2pqomNJEbmQ_MezQF92wr2itvx4nk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzgw/NDctMTQzNzg0ODY2/My05MzUyLmpwZWc.jpeg) | 2015 | Cage of Creation | I |
-| 43 | ![Cover](https://i.discogs.com/dVBULuzB9Q0Db5xXwXcAezHXjdKeUD4yBU60GsQpaqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzgw/ODMtMTQzNzg0OTI1/Ni05MTE1LmpwZWc.jpeg) | 2015 | Cage of Creation | II |
+| 43 | ![Cover](https://i.discogs.com/gN-vkn8FWNFv0W2pqomNJEbmQ_MezQF92wr2itvx4nk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzgw/NDctMTQzNzg0ODY2/My05MzUyLmpwZWc.jpeg) | 2015 | Cage of Creation | I |
+| 44 | ![Cover](https://i.discogs.com/dVBULuzB9Q0Db5xXwXcAezHXjdKeUD4yBU60GsQpaqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzgw/ODMtMTQzNzg0OTI1/Ni05MTE1LmpwZWc.jpeg) | 2015 | Cage of Creation | II |
 | 6 | ![Cover](https://i.discogs.com/lPjdQ59adnGAlVlWetigv8PvmjKBLHpDDJfeMkHuNBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTg4/NjgtMTQ3MjI1MDUw/OS0zMjcxLmpwZWc.jpeg) | 2015-10-17 | Clasp | Hesitant Gesture |
-| 45 | ![Cover](https://i.discogs.com/HveonVc0YN166E1cAHMvoSPa05SB1TzkoKXwmMUl2gU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTcw/NDUtMTQ3NjQ5MDcx/Ni03OTEyLmpwZWc.jpeg) | 2016-09-23 | Bhavachakra | Bhavachakra |
-| 26 | ![Cover](https://i.discogs.com/WuPVM0cd4heWcunp3KDjsDewKSCpsFOec4tM0fp2PXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg5/NzUxLTE1NDE5Nzkw/MjAtOTQxNC5qcGVn.jpeg) | 2018 | Organ: | Everything Is Pared Down. Minimal Expectations. |
-| 41 | ![Cover](https://i.discogs.com/rlbxT85DiyddWV8LbzzS_OSvDEtfQqH5MCmTa9VS5_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQ3/NzU3LTE1MTA3Mzc1/NjEtNTE5My5qcGVn.jpeg) | 2018-08-10 | VoLaND | Voland 2 |
-| 39 | ![Cover](https://i.discogs.com/26MXACtrOWYhdxtvgKO5zqKEZ_dMxEEX_YCKgSCQbs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDY0/Mzg1LTE1MzU4MTIz/NzgtMTk1NC5wbmc.jpeg) | 2018-08-25 | Cloak of Altering | ZERO DEVIL |
+| 46 | ![Cover](https://i.discogs.com/HveonVc0YN166E1cAHMvoSPa05SB1TzkoKXwmMUl2gU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTcw/NDUtMTQ3NjQ5MDcx/Ni03OTEyLmpwZWc.jpeg) | 2016-09-23 | Bhavachakra | Bhavachakra |
+| 27 | ![Cover](https://i.discogs.com/WuPVM0cd4heWcunp3KDjsDewKSCpsFOec4tM0fp2PXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg5/NzUxLTE1NDE5Nzkw/MjAtOTQxNC5qcGVn.jpeg) | 2018 | Organ: | Everything Is Pared Down. Minimal Expectations. |
+| 42 | ![Cover](https://i.discogs.com/rlbxT85DiyddWV8LbzzS_OSvDEtfQqH5MCmTa9VS5_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQ3/NzU3LTE1MTA3Mzc1/NjEtNTE5My5qcGVn.jpeg) | 2018-08-10 | VoLaND | Voland 2 |
+| 40 | ![Cover](https://i.discogs.com/26MXACtrOWYhdxtvgKO5zqKEZ_dMxEEX_YCKgSCQbs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDY0/Mzg1LTE1MzU4MTIz/NzgtMTk1NC5wbmc.jpeg) | 2018-08-25 | Cloak of Altering | ZERO DEVIL |
 | 8 | ![Cover](https://i.discogs.com/5Oip-3sqGardEWJ3AEUfh5lUqgQ_kyEU1Ln2RTYnCF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg1/MjQwLTE1MzgwODQ4/NzEtOTIwNS5qcGVn.jpeg) | 2018-09-25 | Felis Catus | Banquet On The Moon |
-| 50 | ![Cover](https://i.discogs.com/0lKgnxq3P9zyxQGM2pZffGbEWoSAMFcTrn0IKUGCOjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcw/Mzk0LTE1NDM1MzQ3/MjYtMTcyNy5qcGVn.jpeg) | 2018-10-28 | Pandiscordian Necrogenesis | Outer Supernal |
-| 37 | ![Cover](https://i.discogs.com/Q0YibUHG_lA01_AEQ-qVxK2LSmmrNqrHiDpDMbRZb9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzU4/Nzk4LTE1NTI3Mjgx/MjAtOTY3My5qcGVn.jpeg) | 2019 | Steingrab | Manifestierte Alpträume |
+| 38 | ![Cover](https://i.discogs.com/Q0YibUHG_lA01_AEQ-qVxK2LSmmrNqrHiDpDMbRZb9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzU4/Nzk4LTE1NTI3Mjgx/MjAtOTY3My5qcGVn.jpeg) | 2019 | Steingrab | Manifestierte Alpträume |
 | 7 | ![Cover](https://i.discogs.com/yQqZEfBAIwsn9IWr7tEmUiIi4pDcu-uxF6fgpH--j7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgx/NzQ3LTE2MjE3ODcx/NjktMzIyOC5qcGVn.jpeg) | 2020 | Teratolith | Eclipse II |
-| 29 |  | 2020-02-24 | Soul Flesh | Road to Nara: A Cow Calves at Spring&#39;s Last Day |
-| 17 | ![Cover](https://i.discogs.com/KcPjsCYizjRrevZT2ZtcF-cBEi6xrT4KBKOrI8SD9vU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQ3/MjAzLTE1OTg4ODkw/MzMtMTEzMS5qcGVn.jpeg) | 2020-08-21 | Verikyyneleet | ILMAN KUOLEMAA |
-| 16 | ![Cover](https://i.discogs.com/Zjg6HGLBivvQlgUxj0sPN9n6iCpwKhPdC8hCD8iNntU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODA5/NDE2LTE2NDI2NDI3/MzktMjA3OC5qcGVn.jpeg) | 2020-12-04 | Frailord | phantasmagoria |
-| 15 | ![Cover](https://i.discogs.com/4iyLuslUL3E5f1iGI2SYMtbieDqPX2la1P3ZG15-rHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjYx/Mzg3LTE2MjQ1NTM4/MTgtNDI1NC5qcGVn.jpeg) | 2021-07-02 | Duskseeker | Spiralscape |
-| 1 |  | 2022-02-22 | Honor Desecration | Evolve &#x2F;&#x2F; Revolt |
+| 30 |  | 2020-02-24 | Soul Flesh | Road to Nara: A Cow Calves at Spring&#39;s Last Day |
+| 47 | ![Cover](https://i.discogs.com/9osHEGhEryDjctZWvPwbXu3tKXctTCrDugVCRCJ_tLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcx/MjM5LTE2MDYzMzY5/NDctMzE5NC5qcGVn.jpeg) | 2020-05-05 | Goatchrist | Pythagoras |
+| 18 | ![Cover](https://i.discogs.com/KcPjsCYizjRrevZT2ZtcF-cBEi6xrT4KBKOrI8SD9vU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQ3/MjAzLTE1OTg4ODkw/MzMtMTEzMS5qcGVn.jpeg) | 2020-08-21 | Verikyyneleet | ILMAN KUOLEMAA |
+| 17 | ![Cover](https://i.discogs.com/Zjg6HGLBivvQlgUxj0sPN9n6iCpwKhPdC8hCD8iNntU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODA5/NDE2LTE2NDI2NDI3/MzktMjA3OC5qcGVn.jpeg) | 2020-12-04 | Frailord | phantasmagoria |
+| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f9008fc3e31e082b1a2c9545e2779451.png) | 2022-02-04 | Homeskin | Cries Methodically |
 | 12 |  |  | Hekser | Sigils Of The Abyss |
 | 13 | ![Cover](https://i.discogs.com/737txdDEyH-feVW6QG8KpQhqllUbMBBhiHlMsF8s8_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQ2/OTg5LTE2MjUxODM4/MzktNTM1Mi5qcGVn.jpeg) | 2021-01-19 | Ekdikesis | Canvas Of A New Dawn |
-| 21 |  |  | Ekdikēsis | Canvas Of A New Dawn |
-| 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7a1e98169a5259c0a5bae80e93734e02.png) |  | Furia | Księżyc milczy luty |
+| 16 | ![Cover](https://i.discogs.com/4iyLuslUL3E5f1iGI2SYMtbieDqPX2la1P3ZG15-rHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjYx/Mzg3LTE2MjQ1NTM4/MTgtNDI1NC5qcGVn.jpeg) | 2021-07-02 | Duskseeker | Spiralscape |
+| 22 |  |  | Ekdikēsis | Canvas Of A New Dawn |
+| 28 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7a1e98169a5259c0a5bae80e93734e02.png) |  | Furia | Księżyc milczy luty |
 | 79 | ![Cover](https://i.discogs.com/KCJxhv8T2YT_gRxlhWAQYx4RpcHkiVyIeuVM_R6bKmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTM5/MzYtMTQ2NDcyMTg1/OC02MDk5LmpwZWc.jpeg) | 1991 | Master&#39;s Hammer | Formulæ |
 | 62 | ![Cover](https://i.discogs.com/ytYbAB38TccLlcFvHNF5Iz16TXE9jHCV8cxpF8gIBb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDIy/NzEtMTI0NDI5NDQ3/My5qcGVn.jpeg) | 1998 | The Meads of Asphodel | The Bemoaning Of Metatron |
 | 72 | ![Cover](https://i.discogs.com/WI5N6eCndEP9FWizP0lCoX_gGNeOex6OYWVPyZvbiZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTgw/NzctMTI2NDk5NDA0/My5qcGVn.jpeg) | 1998 | Cold Deck | Nether Wound |
@@ -68,7 +69,7 @@ Last updated: <time datetime="2025-10-25T06:38:16.372Z">Sat Oct 25 2025 09:38:16
 | 95 | ![Cover](https://i.discogs.com/rgSP-Nd8mQJuGon9CfqRADTaicI5q-xE-MgFn-WpJbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mjc1/NjMtMTM3OTY3OTA1/Ny04MTc2LmpwZWc.jpeg) | 2002 | Lurker of Chalice | Lurker of Chalice |
 | 70 | ![Cover](https://i.discogs.com/vBXzC6y4vfrGtuV8wll0f-rwP0F3feXcDkaJp891bL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTg2/MC0xMjAyMDAxOTU0/LmpwZWc.jpeg) | 2004 | Winter Of Apokalypse | Solitary Winter Night |
 | 83 | ![Cover](https://i.discogs.com/RHhzdXByPQpzTmtt7Zc3Lju1d0gETZtCQw8ifiH5GfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODkz/NS0xNDMxMzc3MzIz/LTYwOTUuanBlZw.jpeg) | 2005-01-24 | Sturmgeist | Meister Mephisto |
-| 51 |  | 2005-06-28 | Misantropical Painforest | Winds Saturate With Inhumane Longing |
+| 52 |  | 2005-06-28 | Misantropical Painforest | Winds Saturate With Inhumane Longing |
 | 75 | ![Cover](https://i.discogs.com/Zy1J2ApNorGMGgUiQio4THp2ckHkCdLs20lqAagPq0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTk4/OTgtMTIwMDIzMjQ2/Ny5qcGVn.jpeg) | 2007-03-21 | Circle of Ouroborus | Streams |
 | 73 |  | 2008-03-29 | Aasdgoihasdghexekul | Demo Noir |
 | 54 | ![Cover](https://i.discogs.com/x6NaheiGFqRRQMHrRtKl4rpZ0TWz0jTZjvqD7RSPd6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzUx/OTctMTI4Njc1NTEx/MC5qcGVn.jpeg) | 2009 | Horseback | MILH IHVH |
@@ -98,17 +99,16 @@ Last updated: <time datetime="2025-10-25T06:38:16.372Z">Sat Oct 25 2025 09:38:16
 | 77 | ![Cover](https://i.discogs.com/hh6Zu2Rx-e4I_Yhu9bxVG5l4PtIoEww2rtiOxCJvoZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODA3/OTM2LTE1MDQ2Mzk3/NDgtOTA3OC5qcGVn.jpeg) | 2017-09-01 | Botanist | Collective: The Shape of He to Come |
 | 64 | ![Cover](https://i.discogs.com/LdWUHq-tQrfanFyMY_s0i6OkW4mvUj_UbG6KtqsWyPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTkw/NzYyLTE1ODc4ODc2/MzAtOTk1Ni5qcGVn.jpeg) | 2018-02-20 | Arkheth | 12 Winter Moons Comes The Witches Brew |
 | 78 |  | 2018-05-25 | 夢遊病者 | 一期一会 |
+| 51 | ![Cover](https://i.discogs.com/0lKgnxq3P9zyxQGM2pZffGbEWoSAMFcTrn0IKUGCOjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcw/Mzk0LTE1NDM1MzQ3/MjYtMTcyNy5qcGVn.jpeg) | 2018-10-28 | Pandiscordian Necrogenesis | Outer Supernal |
 | 71 | ![Cover](https://i.discogs.com/iez1CJd0tMVQD7bWT-NuScuw0np4NuTpJgQkDzXriyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzA1/OTMzLTE1NzIyNzA3/OTYtOTc4My5qcGVn.jpeg) | 2019-11-15 | Havohej | Table of Uncreation |
-| 49 | ![Cover](https://i.discogs.com/1yTkY2KeiFZ1PgA5Ne1gGMCRtMfXYL8o5i3-LzsVaKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU3/NzIyLTE2MDQxMzgx/ODQtOTI1OC5qcGVn.jpeg) | 2020 | Botanist | Ecosystem version B |
+| 50 | ![Cover](https://i.discogs.com/1yTkY2KeiFZ1PgA5Ne1gGMCRtMfXYL8o5i3-LzsVaKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDU3/NzIyLTE2MDQxMzgx/ODQtOTI1OC5qcGVn.jpeg) | 2020 | Botanist | Ecosystem version B |
 | 61 | ![Cover](https://i.discogs.com/q6BHEGCtXVfoZDyp17XQ4tapguUVmqUwYQZDGtTEbkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTA3/NzIxLTE1ODM4NjAz/NDktMzI2OS5qcGVn.jpeg) | 2020-03-31 | Oil Spill | Ashlands |
-| 46 | ![Cover](https://i.discogs.com/9osHEGhEryDjctZWvPwbXu3tKXctTCrDugVCRCJ_tLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcx/MjM5LTE2MDYzMzY5/NDctMzE5NC5qcGVn.jpeg) | 2020-05-05 | Goatchrist | Pythagoras |
 | 59 | ![Cover](https://i.discogs.com/eE_jzgYmzlRKTu2WpWA8uVhuzz_bZOTh6J0CDxXCreQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzg0/Njc3LTE1OTc3NDYw/OTktNjkyNC5qcGVn.jpeg) | 2020-08-04 | Hræ | Þar sem skepnur reika |
 | 98 | ![Cover](https://i.discogs.com/1mt4kHVxrMRR913Fx6VrLrQ-_GjvyLxt51pKMd9kuIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTgx/MDM3LTE2MjcyMjc1/NjAtOTY4Ny5qcGVn.jpeg) | 2020-10-19 | Gruzja | Konflikt |
 | 88 | ![Cover](https://i.discogs.com/yy4oIBBgRzHHwHyiRkgLnqnaA55o3ltFV77pj4Q83IE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQx/MjgyLTE2MDQxMzcw/MzMtOTI0OC5qcGVn.jpeg) | 2020-10-30 | Botanist | Photosynthesis |
 | 76 |  | 2021-05-07 | Jute Gyte | Mitrealität |
 | 66 | ![Cover](https://i.discogs.com/G-FCuV-edX9woIEQ8WuPBrgvAYfblsU2oFS3wb8imiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzY1/MzAzLTE2MjgyNjQw/ODktMjk2My5qcGVn.jpeg) | 2021-08-06 | Reverorum ib Malacht | Not Here |
-| 52 | ![Cover](https://i.discogs.com/TrwbYmMB-Ao_3i43wO6rG4CypdtKIj1QLFTf1EFXuoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQw/OTI2LTE2NDQwOTQy/MDYtMTA5NC5qcGVn.jpeg) | 2022-02-04 | Homeskin | Cries Methodically |
-| 40 | ![Cover](https://i.discogs.com/ODSjnz-Cfv1iO72w-rCbwHxVnOfP7GR5pEcGSG-o2Lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDgz/NzgyLTE3MDUyMjY0/OTgtOTM2OC5qcGVn.jpeg) | 2022-11-25 | autolysia | Womb |
+| 41 | ![Cover](https://i.discogs.com/ODSjnz-Cfv1iO72w-rCbwHxVnOfP7GR5pEcGSG-o2Lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDgz/NzgyLTE3MDUyMjY0/OTgtOTM2OC5qcGVn.jpeg) | 2022-11-25 | autolysia | Womb |
 | 91 | ![Cover](https://i.discogs.com/6MeJC8Hx-iA0gdMnAJsQsL1PXjz4yeJ_fa6u3s9c_XE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTAw/NTExLTE2OTY0ODYy/MzUtNjUzMi5qcGVn.jpeg) | 2023-10-06 | Gruzja | Koniec wakacji |
 | 97 | ![Cover](https://i.discogs.com/GCy1MJVyaIiphdteZ1aZt5i4QKFz7aXLqquHzg9cCRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjQ5/MDIwLTE3MDMwMDk2/NDAtMTg1MC5qcGVn.jpeg) | 2023-12-19 | Hauntologist | Ozymandian |
 | 87 | ![Cover](https://i.discogs.com/rf5wy4i7mV31cuVwvp8FIJcp30aIpm8NHXCoA2elvqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzgz/ODMyLTE2NTM3NDQ0/MzUtODM3Ni5wbmc.jpeg) | 2024-10-05 | Gruzja | Nielegał |
@@ -119,10 +119,10 @@ Last updated: <time datetime="2025-10-25T06:38:16.372Z">Sat Oct 25 2025 09:38:16
 - [black metal]({{ "/tags/black-metal" | relative_url }})
 - [atmospheric black metal]({{ "/tags/atmospheric-black-metal" | relative_url }})
 - [avant-garde black metal]({{ "/tags/avant-garde-black-metal" | relative_url }})
-- [metal]({{ "/tags/metal" | relative_url }})
 - [progressive black metal]({{ "/tags/progressive-black-metal" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
 - [ambient black metal]({{ "/tags/ambient-black-metal" | relative_url }})
-- [post-black metal]({{ "/tags/post-black-metal" | relative_url }})
 - [avant-garde metal]({{ "/tags/avant-garde-metal" | relative_url }})
+- [post-black metal]({{ "/tags/post-black-metal" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})
 - [raw black metal]({{ "/tags/raw-black-metal" | relative_url }})

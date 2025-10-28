@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T03:45:41.543Z
+date: 2025-10-28T04:54:45.510Z
 permalink: tags/blackened-death-metal
 title: blackened death metal
 ---
 
 ## blackened death metal
 
-Last updated: <time datetime="2025-10-23T03:45:41.543Z">Thu Oct 23 2025 06:45:41 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T04:54:45.510Z">Tue Oct 28 2025 06:54:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -53,7 +53,6 @@ Last updated: <time datetime="2025-10-23T03:45:41.543Z">Thu Oct 23 2025 06:45:41
 | 49 | ![Cover](http://coverartarchive.org/release/e3ff33f8-55cc-46a2-b311-62effc1db2b9/15656142116-250.jpg) | 2009-03-27 | Teitanblood | Seven Chalices |
 | 50 | ![Cover](https://i.discogs.com/5Sg1itO7P51GziaTGt1fZcizqisTt83ZV05niI8GxLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcy/MjQtMTQwMzk2MzAy/NS05OTQxLmpwZWc.jpeg) | 2009-05-18 | Diocletian | Doom Cult |
 | 54 | ![Cover](https://i.discogs.com/FtkfT4kY6x5m6kAq_dE0PQl6CYsmY6Km57I3fOzejfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjA1/MjgtMTMyMDcxMDY3/Ni5qcGVn.jpeg) | 2009-05-25 | Azarath | Praise the Beast |
-| 1 |  | 2009-05-29 | Necrophobic | Death to All |
 | 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/de26e5d693964df2b60133f263652334.png) | 2009-06-23 | Goatwhore | Carving Out The Eyes Of God |
 | 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7ed6b96472324a60bd9487b267d7358f.png) | 2009-08-07 | Behemoth | Evangelion |
 | 26 | ![Cover](https://i.discogs.com/VPoWLw0kewLA-yxMhZF8WTHxE5aFJVWFQ1dNef0A13E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg0/MDgtMTM3MzQ1MjYx/MC02MTEzLmpwZWc.jpeg) | 2009-10-09 | Belphegor | Walpurgis Rites - Hexenwahn |
@@ -91,6 +90,7 @@ Last updated: <time datetime="2025-10-23T03:45:41.543Z">Thu Oct 23 2025 06:45:41
 | 77 | ![Cover](https://i.discogs.com/Y8WozbPNW1uLZkxmNy48vjW_4momSfjRjUmVQxKGk5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTY0/NS0xMjQ2Mjc1MzA1/LmpwZWc.jpeg) | 2018-08-15 | Behemoth | God &#x3D; Dog |
 | 47 | ![Cover](https://i.discogs.com/H4oVuRc7KiqAQ6iumHnyF3Qf4KUffrcXxkG8cReyqHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI0/Nzg1LTE1MzUwMzAx/MTItNzk3My5qcGVn.jpeg) | 2018-09-14 | Infernal Coil | Within A World Forgotten |
 | 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e0008619bb2d5231e6bda92627d59440.png) | 2018-10-05 | Behemoth | I Loved You at Your Darkest |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eef50cb683f5f21eb7387ccf3ffe40d2.png) | 2018-12-21 | Sulphur Aeon | The Scythe Of Cosmic Chaos |
 | 53 | ![Cover](https://i.discogs.com/K9mcV6Uw4jXoipGm_ZvQvlfCVxDXYO3qs6KeO9eGQSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkw/OTEyLTE1NTUxOTM5/NzctMjIwNS5qcGVn.jpeg) | 2019-04-12 | HATH | Of Rot and Ruin |
 | 62 |  | 2019-05-17 | Vale Of Pnath | Accursed |
 | 51 | ![Cover](https://i.discogs.com/igXvaPSjRHCGrN7B_e_wWIsZUwN0AYGanKh7FSr3di0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM3/MjgwLTE1NjAwNzEz/OTktODcxMC5qcGVn.jpeg) | 2019-06-14 | Panzerfaust | The Suns of Perdition, Ch. 1: War, Horrid War |
