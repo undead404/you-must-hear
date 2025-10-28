@@ -1,27 +1,27 @@
 ---
 category: genre
-date: 2025-10-27T19:00:46.766Z
+date: 2025-10-28T16:04:21.892Z
 permalink: tags/zen
 title: zen
 ---
 
 ## zen
 
-Last updated: <time datetime="2025-10-27T19:00:46.766Z">Mon Oct 27 2025 21:00:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T16:04:21.892Z">Tue Oct 28 2025 18:04:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | The Xen Arcade | Al-Kimia |
-| 2 | ![Cover](https://i.discogs.com/urR6tSlN1ly9MwiygJ4IEdMFXjjdFEDT6fUFHvJsJqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODM2/MDE1LTE2MTU3MTg3/OTEtMTQ4OS5qcGVn.jpeg) | 2015-03-09 | Zen Dub | Zen Dub - The Journey EP |
-| 3 |  |  | Dadra &amp; Iivan | Untitled Album |
-| 5 |  | 2012-06-22 | Jon Brooks | Seventh Heaven - Single |
+| 1 |  |  | Tu_tu | First |
+| 3 |  |  | 5 minute dharma | 5 Minute Dharma Podcast |
+| 4 |  | 2012-06-22 | Jon Brooks | Seventh Heaven - Single |
+| 7 |  |  | Dr. Eric Pearl | The Living Matrix: Science of Healing Conference |
 | 9 |  |  | Dr. Eric Pearl | The Reconnection |
 | 12 |  |  | Valentyn Zoro | AMBIENT GUITAR |
 | 13 |  |  | Dr. Eric Pearl | The Reconnection: Heal Others, Heal Yourself |
 | 15 |  |  | Transistor Zen | Drunken Night |
-| 17 |  |  | The Outlaws of Zen | Don&#39;t bother getting up...We&#39;ll let ourselves in. |
+| 17 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5f9950cb03044a09bc0f0d86b703a3ce.png) |  | The Outlaws of Zen | Don&#39;t bother getting up...We&#39;ll let ourselves in. |
 | 19 |  |  | Coenie De Villiers | Zen |
 | 22 |  |  | Derek Acorah | Derek Acorah&#39;s Music Of Spirit And Tranquillity |
 | 27 |  |  | Alexandre Boloto | AMBIANCE |
@@ -40,14 +40,14 @@ Last updated: <time datetime="2025-10-27T19:00:46.766Z">Mon Oct 27 2025 21:00:46
 | 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cad5b0a7dbe1470c9be6aae782b44f68.png) | 1994 | Аквариум | Кострома Mon Amour |
 | 40 | ![Cover](https://i.discogs.com/mRQfJS388KOF8ERkXSNq3vAeaW3fnHsJPguUEdzwgDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTk0/NzQtMTI5NzA5MDEz/MS5qcGVn.jpeg) | 1996 | Yashu | In Silence |
 | 44 | ![Cover](https://i.discogs.com/JGFd1poCX4vDM6or2FZPQgXvEFjQZO_VRYaQWZqlrGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODE5/MDQtMTI5MTU2OTM2/MS5qcGVn.jpeg) | 2001 | Bubblegone | Center [CYC-015] |
+| 49 | ![Cover](https://i.discogs.com/H0E9pm2EbNuwh_Vp8vL0AmkwE_Fx0zq5SX4jgnkj6hQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTcy/Mi0xMjIxNzU1MzA5/LmpwZWc.jpeg) | 2004 | Dub Constructor | 02_Ulitka_Zen |
 | 31 |  | 2006 | Deva Yoko | Garden Of Silence |
 | 21 | ![Cover](https://i.discogs.com/o1JT8kpc9I0MkaAcgVmIXIQ1lxkb8F5_kXtAdQyUYWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDAx/NTItMTQyMDY3NDY5/My00OTA3LmpwZWc.jpeg) | 2008 | Homeless Balloon | Round And Around |
-| 4 | ![Cover](https://i.discogs.com/m6eHunCZmShChFqYKgd76MYL8NDp2xvhXVhTGCA1ML4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzQ0/NTQxLTE2MjExMTQz/MjMtOTk0NS5qcGVn.jpeg) | 2015 | Zen Dub | Untitled Album |
-| 6 | ![Cover](https://i.discogs.com/Wh_m9tUfB76ZjqnbJzSgP5aEE0RLu5Jz2ce_z4eei0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzg1/NjQtMTQyNjQzOTA3/OC0zNjYyLmpwZWc.jpeg) | 2015-03-08 | Rodrigo Rodriguez | Music for Zen Meditation:Shakuhachi Japanese flute |
-| 7 |  |  | Dr. Eric Pearl | The Living Matrix: Science of Healing Conference |
+| 2 | ![Cover](https://i.discogs.com/m6eHunCZmShChFqYKgd76MYL8NDp2xvhXVhTGCA1ML4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzQ0/NTQxLTE2MjExMTQz/MjMtOTk0NS5qcGVn.jpeg) | 2015 | Zen Dub | Untitled Album |
+| 5 | ![Cover](https://i.discogs.com/Wh_m9tUfB76ZjqnbJzSgP5aEE0RLu5Jz2ce_z4eei0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzg1/NjQtMTQyNjQzOTA3/OC0zNjYyLmpwZWc.jpeg) | 2015-03-08 | Rodrigo Rodriguez | Music for Zen Meditation:Shakuhachi Japanese flute |
+| 6 | ![Cover](https://i.discogs.com/urR6tSlN1ly9MwiygJ4IEdMFXjjdFEDT6fUFHvJsJqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODM2/MDE1LTE2MTU3MTg3/OTEtMTQ4OS5qcGVn.jpeg) | 2015-03-09 | Zen Dub | Zen Dub - The Journey EP |
 | 8 |  |  | ZENiVEX | Bass Trap EP |
 | 14 | ![Cover](https://i.discogs.com/cykh8fYhunKltNFllaWYmuilpsqRjU6sJdhi6BRxy20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTk0/Ny0xMTE2OTQwMDgx/LmpwZw.jpeg) | 1999-05-21 | Ash Kay | I Am |
-| 49 | ![Cover](https://i.discogs.com/H0E9pm2EbNuwh_Vp8vL0AmkwE_Fx0zq5SX4jgnkj6hQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTcy/Mi0xMjIxNzU1MzA5/LmpwZWc.jpeg) | 2004 | Dub Constructor | 02_Ulitka_Zen |
 | 26 | ![Cover](https://i.discogs.com/ZVxBMzDv6VMfvPwee9NCdp_vKJXuS83UmeQCrAB_fWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzIw/MDEyLTE1MjEyMzA4/MjYtNzMyNi5qcGVn.jpeg) | 2008 | Yoshio Kurahashi | Honkyoku: Musique Zen pour Shakuhachi |
 | 43 |  | 2008-12-02 | Jérôme Baron | Musique pour Laz |
 | 18 | ![Cover](https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg) | 2009 | Various Artists | Body &amp; Mood - Life Moods |

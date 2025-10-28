@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-27T18:47:17.352Z
+date: 2025-10-28T15:59:43.224Z
 permalink: tags/noise-punk
 title: noise punk
 ---
 
 ## noise punk
 
-Last updated: <time datetime="2025-10-27T18:47:17.352Z">Mon Oct 27 2025 20:47:17 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T15:59:43.224Z">Tue Oct 28 2025 17:59:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -17,51 +17,51 @@ Last updated: <time datetime="2025-10-27T18:47:17.352Z">Mon Oct 27 2025 20:47:17
 | 43 | ![Cover](https://i.discogs.com/ru15cqKb49OIWX-tvVTjfdinXmLf0IANOtVh1MWeEZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE2/Ny0xNTAxODQ2MTcx/LTc0NTcuanBlZw.jpeg) | 2002-11-18 | Atari Teenage Riot | Redefine the Enemy |
 | 41 | ![Cover](https://i.discogs.com/x4mYgIwLHPb6DKalZUffPzbac5_66xF-yt9qVHLSr6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzQ0/MC0xMTkwNTIwMDQ3/LmpwZWc.jpeg) | 2003-07-01 | Melt-Banana | Cell-Scape |
 | 46 | ![Cover](https://i.discogs.com/pULov2xeykFv8fE2xBhsviB248ol-GhvM80wQyA_DSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDUx/Ni0xMzc1NTY1MjYz/LTQyNTAuanBlZw.jpeg) | 2004-10-12 | Holy Molar | Ex Models &#x2F; Holy Molar Split 7&quot; |
-| 18 | ![Cover](https://i.discogs.com/jIvxR8-0yN2LcC5o6FFAM7DULjcpCh35xsAtY2TZYlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzMw/Mi0xMTUxOTg2MjU2/LmpwZWc.jpeg) | 2005 | RUINHORSE | We Sucked Dick Before You Made It A Trend |
-| 10 |  | 2006-01-01 | Backwash | Kick Ass! |
+| 19 | ![Cover](https://i.discogs.com/jIvxR8-0yN2LcC5o6FFAM7DULjcpCh35xsAtY2TZYlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzMw/Mi0xMTUxOTg2MjU2/LmpwZWc.jpeg) | 2005 | RUINHORSE | We Sucked Dick Before You Made It A Trend |
+| 11 |  | 2006-01-01 | Backwash | Kick Ass! |
 | 38 | ![Cover](https://i.discogs.com/xnrjDMqQ6DtaibrDeH4tHvFjLxErJu5ovCGjE_yhaf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA5/OTUtMTI5MTc0OTQ3/My5qcGVn.jpeg) | 2008 | Tunnel Canary | Jihad &#x2F; Live At The ECCA 1980 |
-| 21 | ![Cover](https://i.discogs.com/ooIuK_m5LBfSYPVPpT6AtR2a7TyLDbXNeNjXQzmz2u0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg1/ODg2LTE1MjgwMTI1/MTAtMjgwNy5qcGVn.jpeg) | 2009 | SK028 | Smash Patio Furniture Over Your Body |
-| 13 | ![Cover](https://i.discogs.com/wfR_ox6YkYJi3jNIB0w3dnwA0TQd3u_oQinh7atZl98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODMw/NjctMTM5NDE4Nzgy/My0zMjA1LmpwZWc.jpeg) | 2011-10-08 | Blood Sport | Journal Nº4 |
+| 22 | ![Cover](https://i.discogs.com/ooIuK_m5LBfSYPVPpT6AtR2a7TyLDbXNeNjXQzmz2u0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg1/ODg2LTE1MjgwMTI1/MTAtMjgwNy5qcGVn.jpeg) | 2009 | SK028 | Smash Patio Furniture Over Your Body |
+| 14 | ![Cover](https://i.discogs.com/wfR_ox6YkYJi3jNIB0w3dnwA0TQd3u_oQinh7atZl98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODMw/NjctMTM5NDE4Nzgy/My0zMjA1LmpwZWc.jpeg) | 2011-10-08 | Blood Sport | Journal Nº4 |
 | 28 | ![Cover](https://i.discogs.com/2E-YSXmbhU0tVcpuKCsp8LiyxZlTvT-cfK8m7W9hfJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTM0/NjctMTQ0ODg5MTQ1/OS0yOTA2LmpwZWc.jpeg) | 2012-05-22 | Deadedge | of steeps and dirty waters (demo) |
-| 22 | ![Cover](https://i.discogs.com/b58Az8jhaFMLfPgc74f8RuluoEmh9f9-dhEfiC9v-HU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzEw/ODctMTM4NDQ4NTMz/MS02OTY4LmpwZWc.jpeg) | 2013 | Behavior | Contempt |
+| 23 | ![Cover](https://i.discogs.com/b58Az8jhaFMLfPgc74f8RuluoEmh9f9-dhEfiC9v-HU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzEw/ODctMTM4NDQ4NTMz/MS02OTY4LmpwZWc.jpeg) | 2013 | Behavior | Contempt |
 | 29 | ![Cover](https://i.discogs.com/2hp-qD7GhGOmaVOCMkW6BLEhquZdYliNINg1iLqIRy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjI4/NDQtMTQxNTM1MzE3/MS0yMDg4LmpwZWc.jpeg) | 2013 | Lowlife | Lowlife |
-| 20 | ![Cover](https://i.discogs.com/IFbB2KdjJDMhxeCalIv8V8D1Ctn6i_Zayb-lh91qhU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDM0/MjItMTQ4NDEwMDE3/OS02NjYzLmpwZWc.jpeg) | 2013-05-05 | Life Form | West Coast Tour Tape 2013 |
+| 21 | ![Cover](https://i.discogs.com/IFbB2KdjJDMhxeCalIv8V8D1Ctn6i_Zayb-lh91qhU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDM0/MjItMTQ4NDEwMDE3/OS02NjYzLmpwZWc.jpeg) | 2013-05-05 | Life Form | West Coast Tour Tape 2013 |
 | 33 | ![Cover](https://i.discogs.com/HpPXEk1X2qG-IE0eWrWaHgy3EnP0fxDdHr8rlQMW_74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTgz/NjctMTQyNjQxMTE5/NS03MzA2LmpwZWc.jpeg) | 2013-06-21 | Karies | Fun ist ein Stahlbad |
 | 40 | ![Cover](https://i.discogs.com/hKpeH00hG8fbYDlee3HAljQQAvPRXZxm60vArT0Sh_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTc2/MzYtMTM3MzI1Mzgx/OS02MTMxLmpwZWc.jpeg) | 2013-07-15 | Lunch | Quinn Touched the Sun |
 | 35 | ![Cover](https://i.discogs.com/L0guzWGg8p4qcehN4oaKdudLT56-NRJvF4IOCYBBhGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzQ4/NTItMTQ1MTk1MTQ1/My05OTEwLmpwZWc.jpeg) | 2013-09-14 | American Standards | The Death of Rhythm and Blues |
-| 16 | ![Cover](https://i.discogs.com/YRuoHJ2WUFCvBFEKVGf9akV8MNHsc8eh6a4XvUjTUCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTA3/MzktMTQwMDAyOTQy/NS05MTg4LmpwZWc.jpeg) | 2013-11-13 | Mutton | Mutton |
-| 3 | ![Cover](https://i.discogs.com/IEEZVYGKgAsiFO0Up28ljcbpdj_SJFmkWdBz5KB2AwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDQw/MzItMTQzNzAwMzc0/NC0zMDI4LmpwZWc.jpeg) | 2014 | Human Services | Animal Fires |
-| 9 | ![Cover](https://i.discogs.com/cuujxGVtCMaCkUzdW3h-_fD6U1mNzlq__kpB0VHOvP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODIx/MzgtMTQyODY3NDcw/OS0yMTc1LmpwZWc.jpeg) | 2014 | NOSK | LOCUTUS |
+| 17 | ![Cover](https://i.discogs.com/YRuoHJ2WUFCvBFEKVGf9akV8MNHsc8eh6a4XvUjTUCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTA3/MzktMTQwMDAyOTQy/NS05MTg4LmpwZWc.jpeg) | 2013-11-13 | Mutton | Mutton |
+| 4 | ![Cover](https://i.discogs.com/IEEZVYGKgAsiFO0Up28ljcbpdj_SJFmkWdBz5KB2AwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDQw/MzItMTQzNzAwMzc0/NC0zMDI4LmpwZWc.jpeg) | 2014 | Human Services | Animal Fires |
+| 10 | ![Cover](https://i.discogs.com/cuujxGVtCMaCkUzdW3h-_fD6U1mNzlq__kpB0VHOvP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODIx/MzgtMTQyODY3NDcw/OS0yMTc1LmpwZWc.jpeg) | 2014 | NOSK | LOCUTUS |
 | 44 | ![Cover](https://i.discogs.com/UNLurHCrla85EsLvwTkXa3i-TbrnD0c7CQ_iSKg-0W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzM1/NzgtMTQ1MTkzMTc4/Mi0zMzY4LmpwZWc.jpeg) | 2014-05-30 | American Standards | Hungry Hands |
-| 19 | ![Cover](https://i.discogs.com/zdgJCRNVH86FXKyeo8k4FNJF6KjtC_8kn_AhJGcGKQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDY1/NjEtMTQzMTUyNTE2/My02NzY2LmpwZWc.jpeg) | 2015 | Paintscratcher | Paintscratcher&#x2F;CHUD split 7&quot; |
+| 20 | ![Cover](https://i.discogs.com/zdgJCRNVH86FXKyeo8k4FNJF6KjtC_8kn_AhJGcGKQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDY1/NjEtMTQzMTUyNTE2/My02NzY2LmpwZWc.jpeg) | 2015 | Paintscratcher | Paintscratcher&#x2F;CHUD split 7&quot; |
 | 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a857ee7cf5a35af970cdd558c82c43e4.png) | 2015-05-19 | The Story So Far | The Story So Far |
-| 15 |  | 2015-10-01 | Raspelf | Panco Macaque |
+| 16 |  | 2015-10-01 | Raspelf | Panco Macaque |
 | 47 | ![Cover](https://i.discogs.com/LtZpDhYAkfXV4IopFMecCWG-f-LzaYobqELRBo_4Q9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTYx/MDgxLTE2NTA3Njk0/MjctMTkyOS5qcGVn.jpeg) | 2016 | Plattenbau | Plattenbau |
 | 37 | ![Cover](https://i.discogs.com/I5AM67kif9UfV4XyB13FhFNOTwpA4nuaPI09cbbMdZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTcy/ODgtMTQ1NjIwNTAw/Ny05MDcwLmpwZWc.jpeg) | 2016-03-04 | Unfun | Waterboarding |
 | 48 | ![Cover](https://i.discogs.com/Wj0DiAlfrSZpcoF3iHajzmgF6CQdzLcao6qPWIx1MnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTQ3/MDktMTQ3NjQ1MzAz/NC01OTM1LmpwZWc.jpeg) | 2016-10-13 | Latishia&#39;s Skull Drawing | Romanticized |
 | 27 | ![Cover](https://i.discogs.com/X2wM2UCs9RVdkFUZHE34JH4jj-J534uzbD5FvjmTQX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI5/Njk2LTE1MDM2OTYz/NjQtMzg1Ni5qcGVn.jpeg) | 2017 | Melt Downer | Melt Downer |
-| 24 |  | 2017-03-19 | The Hard to Explain | Skeletons Are Cool |
 | 49 | ![Cover](https://i.discogs.com/jNxCyAD2sHITr2_XuKNp0sy4qh7veN3lu5iI-WHhzJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ1/NjAxLTE0OTk2MjE4/NzgtNzQyOC5qcGVn.jpeg) | 2017-06-01 | Plasmalab | Love&#x2F;Life |
-| 17 | ![Cover](https://i.discogs.com/TeKW1ekc1DT8MuH51qjtZ2NaL7xPq-9r0RWf1F15J8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAz/NjU2LTE1MDYyNjEz/NTYtMjY3Ni5qcGVn.jpeg) | 2017-07-11 | Plyers | CLEAR |
-| 23 | ![Cover](https://i.discogs.com/kcOLXz-KKHZwm_bTJRJ5D8UQrUO7mqSv6rdScg3U1Pk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQx/ODk4LTE1MDg3NzAz/MjAtODczOS5qcGVn.jpeg) | 2017-10-10 | Vile Spirit | Demo |
-| 1 | ![Cover](https://i.discogs.com/4MrrKwwAF6iZgygEqwqGFs4NrdIWjxczkOs4BYL0mac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjI2/MTQzLTE1MzE5MTIx/MTAtNzgxNy5qcGVn.jpeg) | 2018-03-01 | TV SLIME | Slime Demon |
+| 18 | ![Cover](https://i.discogs.com/TeKW1ekc1DT8MuH51qjtZ2NaL7xPq-9r0RWf1F15J8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAz/NjU2LTE1MDYyNjEz/NTYtMjY3Ni5qcGVn.jpeg) | 2017-07-11 | Plyers | CLEAR |
+| 24 | ![Cover](https://i.discogs.com/kcOLXz-KKHZwm_bTJRJ5D8UQrUO7mqSv6rdScg3U1Pk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQx/ODk4LTE1MDg3NzAz/MjAtODczOS5qcGVn.jpeg) | 2017-10-10 | Vile Spirit | Demo |
+| 2 | ![Cover](https://i.discogs.com/4MrrKwwAF6iZgygEqwqGFs4NrdIWjxczkOs4BYL0mac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjI2/MTQzLTE1MzE5MTIx/MTAtNzgxNy5qcGVn.jpeg) | 2018-03-01 | TV SLIME | Slime Demon |
 | 31 | ![Cover](https://i.discogs.com/6bXYtViyMIC2AfNsWzCc7YPjj9s6eOc_VSHZGH_i1Nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NjQ3LTE2NTE1Njgz/MDQtNjc5MC5qcGVn.jpeg) | 2018-08-10 | Del Boca Vista | del boca vista |
 | 32 | ![Cover](https://i.discogs.com/6bXYtViyMIC2AfNsWzCc7YPjj9s6eOc_VSHZGH_i1Nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkw/NjQ3LTE2NTE1Njgz/MDQtNjc5MC5qcGVn.jpeg) | 2018-08-10 | Del Boca Vista. | horse or donkey? |
 | 26 | ![Cover](https://i.discogs.com/Zh0mwbMA7jF1RnrSmgLV9kpvIx41Y9UZLcJdTNiE3H4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI3/NjQ0LTE1NzIzMDEz/OTEtMzExOC5qcGVn.jpeg) | 2019 | Solarized | A Ghost Across Hell From Me |
 | 39 | ![Cover](https://i.discogs.com/dIaCaG9_i9yr0fsk2jdKoOW0n9VgIXjWagNYWMDpH1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg3/NDA0LTE1NTMyNTY1/MzEtMjM4My5qcGVn.jpeg) | 2019-02-22 | Buck Gooter | Finer Thorns |
 | 50 |  | 2019-04-26 | おとぼけビ〜バ〜 | いてこまヒッツ |
-| 7 | ![Cover](https://i.discogs.com/RnUEM7_luEIWDCdzlzUaX3SSgttZxwtfTgAmMh8lMLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA0/MTYwLTE1NzgwMTAx/NzktMTIxOS5qcGVn.jpeg) | 2019-12-31 | ego death | DEMO |
+| 8 | ![Cover](https://i.discogs.com/RnUEM7_luEIWDCdzlzUaX3SSgttZxwtfTgAmMh8lMLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA0/MTYwLTE1NzgwMTAx/NzktMTIxOS5qcGVn.jpeg) | 2019-12-31 | ego death | DEMO |
 | 36 |  | 2020-01-14 | happy hour ninja freak show | happy hour ninja freak show |
-| 5 | ![Cover](https://i.discogs.com/fk9JJFtjvdddTSpPf-9E_3Cd_bxUyMgzfLI3eqllVbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk3/NDMxLTE1OTk4MDEw/ODktNDg5Ni5qcGVn.jpeg) | 2020-08-10 | Computer Crimes | Atlantic Cable + Split Material |
+| 6 | ![Cover](https://i.discogs.com/fk9JJFtjvdddTSpPf-9E_3Cd_bxUyMgzfLI3eqllVbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk3/NDMxLTE1OTk4MDEw/ODktNDg5Ni5qcGVn.jpeg) | 2020-08-10 | Computer Crimes | Atlantic Cable + Split Material |
 | 45 | ![Cover](https://i.discogs.com/xl1YSNEMF28pR3mqWwhKUjBdrGfDhHslEgrQxbCMcGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjYw/NDYtMTQ4ODY1OTU2/NS03ODM4LmpwZWc.jpeg) | 2020-12-09 | new confusion | the strip |
-| 6 |  | 2021-01-15 | DeySsi | $273.96 |
-| 4 | ![Cover](https://i.discogs.com/61Qin3rRtWQ22theeiij7pnRsz7PREVZCZG2S3A6uXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDMx/MjI4LTE2MzcyNjA2/NzktMjIxNC5qcGVn.jpeg) | 2021-02-26 | Gaffa Bandana | Fraught in Waves |
-| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7aa7cd99cbd9c9f83de574ae67fa4bf9.png) | 2022-10-07 | Venus Twins | RAXIS |
-| 8 |  |  | Spotted Pinto Bean. | chew on the other side |
+| 7 |  | 2021-01-15 | DeySsi | $273.96 |
+| 5 | ![Cover](https://i.discogs.com/61Qin3rRtWQ22theeiij7pnRsz7PREVZCZG2S3A6uXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDMx/MjI4LTE2MzcyNjA2/NzktMjIxNC5qcGVn.jpeg) | 2021-02-26 | Gaffa Bandana | Fraught in Waves |
+| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7aa7cd99cbd9c9f83de574ae67fa4bf9.png) | 2022-10-07 | Venus Twins | RAXIS |
+| 1 |  | 2024-08-16 | Dog Complex | Do Fish Dream? |
+| 9 |  |  | Spotted Pinto Bean. | chew on the other side |
 | 25 |  | 2022-12-04 | Chic Fads | sock puppets |
-| 11 | ![Cover](https://i.discogs.com/yyUzfsJTO8e7OamBnsfrIa3N94SFnzJcMWPoAFDMmEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzgy/NDUxLTE3MTY2OTUz/MDItNTI3OS5qcGVn.jpeg) | 2023-12-29 | Leech Fetish | Safe Word |
-| 12 |  |  | Spotted Pinto Bean. | Spotted Pinto Bean |
-| 14 | ![Cover](https://i.discogs.com/nHt-hibFgLgdhlV2QXX5aBv3R7132EkWTk708_6wb94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTYz/MjM2LTE3MjE1NzM1/MzItNTE0OC5qcGVn.jpeg) | 2022-10-07 | BELK | The Committee |
+| 12 | ![Cover](https://i.discogs.com/yyUzfsJTO8e7OamBnsfrIa3N94SFnzJcMWPoAFDMmEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzgy/NDUxLTE3MTY2OTUz/MDItNTI3OS5qcGVn.jpeg) | 2023-12-29 | Leech Fetish | Safe Word |
+| 13 |  |  | Spotted Pinto Bean. | Spotted Pinto Bean |
+| 15 | ![Cover](https://i.discogs.com/nHt-hibFgLgdhlV2QXX5aBv3R7132EkWTk708_6wb94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTYz/MjM2LTE3MjE1NzM1/MzItNTE0OC5qcGVn.jpeg) | 2022-10-07 | BELK | The Committee |
 | 34 |  |  | famous anus cookies | famous anus cookies |
 | 69 | ![Cover](https://i.discogs.com/3DcVMPY6PErfu-OaOMrzd-lQffsWa_eOUt9ho1ambGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjE4/NC0xMzQyMDMzNDEy/LTIyNzEuanBlZw.jpeg) | 1980 | MX-80 Sound | Out of the Tunnel |
 | 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b3960d4437f432be3ce82a9674af354a.png) | 1983 | Butthole Surfers | Butthole Surfers |
@@ -124,5 +124,5 @@ Last updated: <time datetime="2025-10-27T18:47:17.352Z">Mon Oct 27 2025 20:47:17
 - [post-punk]({{ "/tags/post-punk" | relative_url }})
 - [art punk]({{ "/tags/art-punk" | relative_url }})
 - [experimental rock]({{ "/tags/experimental-rock" | relative_url }})
-- [punk rock]({{ "/tags/punk-rock" | relative_url }})
 - [industrial]({{ "/tags/industrial" | relative_url }})
+- [punk rock]({{ "/tags/punk-rock" | relative_url }})
