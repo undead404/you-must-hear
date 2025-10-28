@@ -1,28 +1,28 @@
 ---
 category: genre
-date: 2025-10-20T03:57:11.931Z
+date: 2025-10-28T06:41:45.068Z
 permalink: tags/microtonal
 title: microtonal
 ---
 
 ## microtonal
 
-Last updated: <time datetime="2025-10-20T03:57:11.931Z">Mon Oct 20 2025 06:57:11 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T06:41:45.068Z">Tue Oct 28 2025 08:41:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
+| 1 |  |  | Keith Rudolph | King Arthur Hop |
 | 44 | ![Cover](https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg) | 1987 | Various Artists | Crack My Pitch Up |
 | 17 | ![Cover](https://i.discogs.com/lbIihdcb7vdJ8n1A6FnauUp-XpbYNAeqFpzvhKygcec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzE0/NTMtMTI0Mjg0NTI2/MS5qcGVn.jpeg) | 1988 | Richard Sanderson | Steady States |
 | 45 | ![Cover](https://i.discogs.com/NiG2BpE6Am_vap0LFrQHc1z3H4ezYeZaOiQU45WvJzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjA0/NTY4LTE2Mzg0NzYy/NDAtNDkyOS5qcGVn.jpeg) | 1990 | Giacinto Scelsi | Music for High Winds |
 | 47 | ![Cover](https://i.discogs.com/MG2cy0VuEwgJ7zOnMBPO6aFLoeFkHoWzgAEbjsCH18Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzkx/NTM2LTE0OTY1NDA3/NTUtNzUyNi5qcGVn.jpeg) | 1993 | Alois Hába | Centenary |
 | 22 | ![Cover](https://i.discogs.com/-nsBKEaPcPF0mipRuSJb3seTHHsEuLPrlSQ0yV1K5vM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzEz/NDMtMTM3MTIwNzA5/OS0xMjkzLmpwZWc.jpeg) | 1994 | Easley Blackwood | Microtonal Compositions by Easley Blackwood |
 | 15 | ![Cover](https://i.discogs.com/rpGxJ5IaS8q6ZIlZgHq8LT2ugtdghfPKDk6xUsJIM0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg1/NTAxLTE1OTA2ODM3/MDQtOTE5Ni5qcGVn.jpeg) | 1996 | Löis Lancaster | Malva |
-| 1 |  | 2002 | Tyrone Miller | Batman&amp;Tyrone |
-| 11 | ![Cover](https://i.discogs.com/H1w-rY3zGVopsXKStll6hNXODoj9fARspu6pp3MJqe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTE3/NjUtMTIwNjk1OTkx/OC5qcGVn.jpeg) | 2002 | Folly | Oubliette |
+| 2 |  | 2002 | Tyrone Miller | Batman&amp;Tyrone |
+| 12 | ![Cover](https://i.discogs.com/H1w-rY3zGVopsXKStll6hNXODoj9fARspu6pp3MJqe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTE3/NjUtMTIwNjk1OTkx/OC5qcGVn.jpeg) | 2002 | Folly | Oubliette |
 | 20 | ![Cover](https://i.discogs.com/LPZ_ko4A-jEDDrQeNBhAJHTN5G2__EvR18VPf7wwhXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc4/MzMtMTI4NDgyMDU5/Ni5wbmc.jpeg) | 2002-12 | Bhob Rainey | 6 Standing Desert |
-| 12 | ![Cover](https://i.discogs.com/Gijt3sHYJ4uLnfDW6oNHG7KCKzWP5BGsWP_8-ezOZgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTIx/NC0xMjk1NTI2Mjc1/LmpwZWc.jpeg) | 2003 | Angus MacLise | The Cloud Doctrine cd2 |
 | 34 | ![Cover](https://i.discogs.com/BXmD1vlFPk7q2af-wqP2BqXRt238ColRdGIGASuN7Ak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjUw/OTI1LTE2MTI0NDA4/NTYtNzU2My5qcGVn.jpeg) | 2004 | Ashtray Navigations | Who&#39;s Been Rocking My Dream-Boat? |
 | 24 | ![Cover](https://i.discogs.com/dgrM_k9HWauny3wXVZoSw9v2NoszzLmEiFX0c2ureH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTE0/Ny0xMTUyODQ4MzEy/LmpwZWc.jpeg) | 2005-07-31 | Coeval | [mn005] distante |
 | 14 |  | 2005-10-13 | Tony | Itinerance |
@@ -35,18 +35,18 @@ Last updated: <time datetime="2025-10-20T03:57:11.931Z">Mon Oct 20 2025 06:57:11
 | 41 | ![Cover](https://i.discogs.com/alvI_T52TKfkATpVdcZs6F46DTGyKkwq-JRw1i12DGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njc5/OTYtMTI0MjA3MzUy/NC5qcGVn.jpeg) | 2009-05-25 | Tickles | Freirausch [IPOLY003] |
 | 40 | ![Cover](https://i.discogs.com/VF2_cWNmPPlfQZXwSy-tsnXdMelxNyC0Kd9SIsH4ToI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTY0/MzMtMTM5NTI2MzI3/Ni00NjY5LmpwZWc.jpeg) | 2010-01-01 | Aboombong | Agnosis |
 | 25 | ![Cover](https://i.discogs.com/WgDnKDoGiJEsHMQqjAYttSqqXTWb_ZFr96o9k550JNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTc3/MzUtMTI3MDQ2MTgw/NC5qcGVn.jpeg) | 2010-04-05 | MiaMia | Nani Nani |
-| 2 | ![Cover](https://i.discogs.com/3hJnokY32f2djAkEQyGoewgMNw8d8G_ThnTuoJIJPJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI1/MzEtMTI5NjM5NTc5/Ny5qcGVn.jpeg) | 2010-10-14 | Caustic Reverie | Splinter |
+| 3 | ![Cover](https://i.discogs.com/3hJnokY32f2djAkEQyGoewgMNw8d8G_ThnTuoJIJPJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI1/MzEtMTI5NjM5NTc5/Ny5qcGVn.jpeg) | 2010-10-14 | Caustic Reverie | Splinter |
 | 16 | ![Cover](https://i.discogs.com/H8RaOfvpSfXIW1yJiYnUV_t8IqefqHU59VTngDCkoMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTY0/MjMtMTI5NzgzNzQ2/NC5wbmc.jpeg) | 2010-11-13 | Tsone | [at035] a sea beyond reckoning |
 | 23 | ![Cover](https://i.discogs.com/kVePrindAY0LKQPr0MkNttL1i61B0NMRMoUFutwNrdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzU0/MjgtMTM3Njk5NzEz/MS03MzY1LmpwZWc.jpeg) | 2011-03-15 | Marco Lucchi | Mater Natura |
 | 33 | ![Cover](https://i.discogs.com/seHUP33tcukIDj0qcaamTOdytL_B9HhefVVLiZlPTTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzA1/NjMtMTM5NjExNTMx/MS02NzE5LmpwZWc.jpeg) | 2011-05-31 | Vincent Royer | Giacinto Scelsi Edition 9: The Works for Viola |
-| 5 |  | 2013-04-08 | Vladimír Hirsch | Epidemic Mind |
-| 3 | ![Cover](https://i.discogs.com/RPTgch5Up1kAE7z9bLnctoW3hO5yGfTwEQrr3_wkpSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDkw/NTctMTQ0MjkzODQ3/Mi02NzY1LmpwZWc.jpeg) | 2014-08-29 | Anarchestra | 4&#x2F;04+ |
+| 6 |  | 2013-04-08 | Vladimír Hirsch | Epidemic Mind |
+| 4 | ![Cover](https://i.discogs.com/RPTgch5Up1kAE7z9bLnctoW3hO5yGfTwEQrr3_wkpSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDkw/NTctMTQ0MjkzODQ3/Mi02NzY1LmpwZWc.jpeg) | 2014-08-29 | Anarchestra | 4&#x2F;04+ |
 | 13 | ![Cover](https://i.discogs.com/ThdaoSeMXV95qYF2xnKlpzB4FCcXgsZu8fFt8Ej9jvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDgz/NzUtMTQ0MjkyODU0/MS0yMDAzLmpwZWc.jpeg) | 2014-10-01 | Anarchestra | Batur |
-| 9 | ![Cover](https://i.discogs.com/_7bXNf_1tqt3Yv5LuZ0aw6iSW2vGKqmw4nw0vHuLzvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDc0/NTMtMTM4NDY5ODQy/Ny05NTg4LmpwZWc.jpeg) | 2021-03-15 | Scott Lawlor | The Absence of Light Contains the Shadow of Loss |
-| 4 | ![Cover](https://i.discogs.com/1GiO7tuOI4biaN4FhB45todElGP-ZBoHPnYSyPD898Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODk5/MzA0LTE2MjkyNDg1/NTMtNDIxMC5qcGVn.jpeg) | 2021-08-03 | j.-p. caron | ST |
-| 6 |  |  | Keith Rudolph | HellaVeez |
-| 7 |  |  | diecidicembre | diecidicembre |
-| 8 |  |  | Keith Rudolph | Transylvanian Chilean |
+| 11 | ![Cover](https://i.discogs.com/ghEHxHIWWQ2Un0x9GoP35_lF7vEV473sdSvLLI5VL9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTU1/MjUzLTE2MTYzODY3/MTEtOTYyMC5qcGVn.jpeg) | 2021-03-26 | Micah Pick | Frameworks |
+| 5 | ![Cover](https://i.discogs.com/1GiO7tuOI4biaN4FhB45todElGP-ZBoHPnYSyPD898Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODk5/MzA0LTE2MjkyNDg1/NTMtNDIxMC5qcGVn.jpeg) | 2021-08-03 | j.-p. caron | ST |
+| 7 |  |  | Keith Rudolph | HellaVeez |
+| 8 |  |  | diecidicembre | diecidicembre |
+| 9 |  |  | Keith Rudolph | Transylvanian Chilean |
 | 38 |  |  | Deister Orchestra | Waltz in 10edo |
 | 43 |  |  | Cuchufleta | 2011 |
 | 26 | ![Cover](https://i.discogs.com/ZLzEPI3w2gVPJ5IIfHLw4hLARS5653-zrAOqN49Rp_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDU0/NDEyLTE2MTM1NTUw/MTUtNDUxMC5qcGVn.jpeg) | 2011 | Katerina Stamatelos | Album No.1 |
@@ -59,7 +59,7 @@ Last updated: <time datetime="2025-10-20T03:57:11.931Z">Mon Oct 20 2025 06:57:11
 | 48 | ![Cover](https://i.discogs.com/o8C1hK45ArALrTw_ZBWDxG62O6oyB8DV7yBCUU_w3yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDkx/MDgtMTQ0MjkzOTI2/My05OTQxLmpwZWc.jpeg) | 2014-08-28 | Anarchestra | Bathtub Music |
 | 21 | ![Cover](https://i.discogs.com/vwScUFvNkf2ldSH2FvaLyiICDrjH99aXJPK24yyMT60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTk1/NzQzLTE1OTQyMzU1/MzYtMTM1MS5qcGVn.jpeg) | 2017-10-04 | Marco Lucchi | Kosmische |
 | 18 | ![Cover](https://i.discogs.com/-YKxuzM2N0QZikqJcprG08SVnHrlh2aa10cmzuhb5F4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI2/Nzc1LTE1MzcwMDgx/NTctODc1OC5qcGVn.jpeg) | 2018-09-14 | Gallo&#39;84 | Shimano |
-| 10 | ![Cover](https://i.discogs.com/ghEHxHIWWQ2Un0x9GoP35_lF7vEV473sdSvLLI5VL9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTU1/MjUzLTE2MTYzODY3/MTEtOTYyMC5qcGVn.jpeg) | 2021-03-26 | Micah Pick | Frameworks |
+| 10 | ![Cover](https://i.discogs.com/_7bXNf_1tqt3Yv5LuZ0aw6iSW2vGKqmw4nw0vHuLzvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDc0/NTMtMTM4NDY5ODQy/Ny05NTg4LmpwZWc.jpeg) | 2021-03-15 | Scott Lawlor | The Absence of Light Contains the Shadow of Loss |
 | 28 |  |  | Valery Levacher | Demo |
 | 30 |  |  | skiks | compulse |
 | 32 |  |  | STAFFCIRC | STAFFcirc vol. 7 - Terra Octava |
