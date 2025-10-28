@@ -1,39 +1,42 @@
 ---
 category: genre
-date: 2025-10-21T02:22:26.024Z
+date: 2025-10-28T13:20:24.961Z
 permalink: tags/nouvelle-scene-francaise
 title: nouvelle scene francaise
 ---
 
 ## nouvelle scene francaise
 
-Last updated: <time datetime="2025-10-21T02:22:26.024Z">Tue Oct 21 2025 05:22:26 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T13:20:24.961Z">Tue Oct 28 2025 15:20:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | Marie S&#39;Infiltre | Été sauvage |
-| 2 |  |  | Arcahuetas | Glucose et fond de teint |
-| 3 |  |  | Marie S&#39;Infiltre | Coup de théâtre |
+| 1 | ![Cover](https://i.discogs.com/3kUAgyFtOyhyLd-IGy3YueVcbcUvHSPFFoyyI34davo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzU1/NzctMTQzMDEyODkw/NC0xMzM3LmpwZWc.jpeg) | 2004-11-08 | Philippe Poirier | Qu&#39;est-ce qui m&#39;a pris |
+| 2 |  |  | Marie S&#39;Infiltre | Été sauvage |
+| 3 |  |  | Arcahuetas | Glucose et fond de teint |
+| 4 |  |  | Marie S&#39;Infiltre | Coup de théâtre |
+| 5 | ![Cover](https://i.discogs.com/YxTxPdDTRW0gztdfgeV9UsGt3taqqTOVYTtar4EpZTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzQ1/NjItMTMwNTExNzYy/My5qcGVn.jpeg) | 2010-07-12 | Sazamyzy &amp; Hype | Braquage En YZ |
+| 6 |  |  | pee-why | Lunatic @sylum |
 | 14 |  |  | Marie S&#39;Infiltre | Culot |
+| 15 |  |  | Marie S&#39;Infiltre | Couvre-Feu |
+| 19 |  |  | Alkpote | Alkpote &amp; La Creme De L&#39;Ile De France |
 | 27 |  |  | Marie S&#39;Infiltre | Dubaï |
+| 29 |  |  | Lo Radzouka | Lo Radzouka - maquette |
+| 33 |  |  | Marie S&#39;Infiltre | Nuit parisienne |
+| 11 |  | 1972 | Various Artists | La Maison Bleue |
+| 48 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1977 | Various Artists | Le Pop 2 |
 | 22 | ![Cover](https://i.discogs.com/hP9dxweErYEPiyE9HCLCkdcIqDqIZoISYTsTJ6AoNaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk1/NTItMTE5NjExNDU3/OC5qcGVn.jpeg) | 1990 | Arthur H | Master Serie Arthur H |
 | 28 | ![Cover](https://i.discogs.com/IZYLTNEa00KgGotUJf5PTjRv6oeVppG0jzmK0K12oVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIy/Mzg5LTE2NzM4MTk2/NjgtMzQ2Ny5qcGVn.jpeg) | 1990-06-01 | Santa | 999 - EP |
 | 13 |  | 1995 | Les Elles | Made in Normandie |
-| 21 | ![Cover](https://i.discogs.com/WNG1FHXh4XroN3QXPGWVF5f7f4beUUu1k8kg_rkcnuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTQy/MTMzLTE2MjIzNTgw/ODgtNTE4NC5qcGVn.jpeg) | 2006 | Chtriky | Chtriky |
-| 4 | ![Cover](https://i.discogs.com/YxTxPdDTRW0gztdfgeV9UsGt3taqqTOVYTtar4EpZTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzQ1/NjItMTMwNTExNzYy/My5qcGVn.jpeg) | 2010-07-12 | Sazamyzy &amp; Hype | Braquage En YZ |
-| 5 |  |  | pee-why | Lunatic @sylum |
-| 15 |  |  | Marie S&#39;Infiltre | Couvre-Feu |
-| 10 |  | 1972 | Various Artists | La Maison Bleue |
-| 48 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1977 | Various Artists | Le Pop 2 |
 | 42 |  | 2002-08-26 | Zebda | Utopie D&#39;Occase |
 | 50 |  | 2004-03 | Pierre Bondu | Quelqu&#39;un quelque part |
 | 49 |  | 2005-09-12 | Arthur H | Adieu Tristesse |
+| 21 | ![Cover](https://i.discogs.com/WNG1FHXh4XroN3QXPGWVF5f7f4beUUu1k8kg_rkcnuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTQy/MTMzLTE2MjIzNTgw/ODgtNTE4NC5qcGVn.jpeg) | 2006 | Chtriky | Chtriky |
 | 25 | ![Cover](https://i.discogs.com/LHOI2Ktf5dZzrWNomKPuj_KbzRnBk4gH4estU_cZACc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NzM1/MDYtMTQ4NDU1NTEz/NS04MjYyLmpwZWc.jpeg) | 2006 | Koury | 1er ROUND |
 | 35 | ![Cover](https://i.discogs.com/5h--Wj_KtB5rx9Gyxk6K5wlVpJLMydiwBpEREiHKAVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDk2/NjctMTMyNTE1NTk3/NC5qcGVn.jpeg) | 2006 | Dry Can | Something like that... |
 | 43 |  | 2006-09-25 | Renan Luce | Repenti |
-| 12 | ![Cover](https://i.discogs.com/G9KknG_gBsWbHM7ebmCmRk3HV1y-fYXYkgM4FYwYxkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDQ2/NDYtMTY1Njg3MjY2/Ny0xMjM5LmpwZWc.jpeg) | 2006-11-27 | Unité 2 Feu | haine, misère et crasse cd1 |
 | 16 | ![Cover](https://i.discogs.com/gcEq5WcMiOz5J99qTGhKT_tFEDMB2Ds472Z8htQDE7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjMy/NjQtMTU0OTI3ODUx/OC0xNTE5LmpwZWc.jpeg) | 2007 | Palinka | Un malin plaisir - Palinka |
 | 34 |  | 2007-01-01 | Fresh Body Shop | Make This End |
 | 26 | ![Cover](https://i.discogs.com/9ZKg1bTNhHHGZjSVUcXwqH2EDeZcOGnvgiO-RAmI1qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQy/MDY3LTE0OTIzNjA5/MjctNTMzNi5qcGVn.jpeg) | 2007-04-26 | Monsieur Lune | C&#39;est pas moi |
@@ -43,25 +46,22 @@ Last updated: <time datetime="2025-10-21T02:22:26.024Z">Tue Oct 21 2025 05:22:26
 | 41 | ![Cover](https://i.discogs.com/M3yoYj9hpodDbRNIa-n73-V7KeSSdf92CXsL5nT8j5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzM0/ODc5LTE2MDk1MjYz/OTQtMjQyMi5qcGVn.jpeg) | 2008-06-12 | Chamboultou | A Boire |
 | 39 |  | 2008-08-29 | 志方あきこ | Umineko no Naku Koro ni Theme Song |
 | 32 | ![Cover](https://i.discogs.com/JzyindiZOz6waOcggmlTD00F6Ih0MdFt2-Tj-5k4sPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjIx/OTAtMTQxNTgwNDE2/Ni0xMTYxLmpwZWc.jpeg) | 2010-01-15 | Contreband | Le cauchemar de Kipling |
-| 11 | ![Cover](https://i.discogs.com/KwOZgXNRgk-WeUkvWfJ0rbXYMf3BJT3l-l8GH_qcnlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTE3/MDc0LTE2ODc5NTgy/NDctNTc4Mi5qcGVn.jpeg) | 2015 | morgane imbeaud | Les songes de Léo |
-| 8 | ![Cover](https://i.discogs.com/eB4QH9Z87igkCJGJoOukfPUhlgJaeyI_1fh_SS5O-Tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTE5/OTEtMTQ3NzM5OTQy/Mi04MzA4LmpwZWc.jpeg) | 2016-01-28 | la souterraine | SAINTE POP |
+| 12 | ![Cover](https://i.discogs.com/KwOZgXNRgk-WeUkvWfJ0rbXYMf3BJT3l-l8GH_qcnlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTE3/MDc0LTE2ODc5NTgy/NDctNTc4Mi5qcGVn.jpeg) | 2015 | morgane imbeaud | Les songes de Léo |
+| 9 | ![Cover](https://i.discogs.com/eB4QH9Z87igkCJGJoOukfPUhlgJaeyI_1fh_SS5O-Tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTE5/OTEtMTQ3NzM5OTQy/Mi04MzA4LmpwZWc.jpeg) | 2016-01-28 | la souterraine | SAINTE POP |
 | 30 | ![Cover](https://i.discogs.com/7InXV2TD-N-7CqLbhKUh7Bg81bc6FR2K5_oe0dD3vtU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzkw/MDgyLTE1OTA3NTg0/NTYtMjU4OS5qcGVn.jpeg) | 2020 | morgane imbeaud | Amazone |
 | 24 | ![Cover](https://i.discogs.com/GtID7Zb4TCvsGH3IqVpYOtoKc6nn4i0GYZO-fuiJEEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYx/ODU0LTE2NjYyMTA5/NjQtNDkwOC5qcGVn.jpeg) | 2021 | Felixita | Belle |
-| 37 | ![Cover](https://i.discogs.com/GtID7Zb4TCvsGH3IqVpYOtoKc6nn4i0GYZO-fuiJEEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYx/ODU0LTE2NjYyMTA5/NjQtNDkwOC5qcGVn.jpeg) | 2021 | Felixita | J&#39;aime les gars |
-| 40 | ![Cover](https://i.discogs.com/GtID7Zb4TCvsGH3IqVpYOtoKc6nn4i0GYZO-fuiJEEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYx/ODU0LTE2NjYyMTA5/NjQtNDkwOC5qcGVn.jpeg) | 2021 | Felixita | Nunuages |
-| 7 | ![Cover](https://i.discogs.com/VC_G-z-cvBDesYcCpLsDnv9g-sKg5YtKhDchcnjrvk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzU0/MDQyLTE2Mzg2OTM3/MzctNTU1MS5qcGVn.jpeg) | 2021-06-04 | Amel Bent, Camélia Jordana, Vitaa | Sorøre |
+| 8 | ![Cover](https://i.discogs.com/VC_G-z-cvBDesYcCpLsDnv9g-sKg5YtKhDchcnjrvk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzU0/MDQyLTE2Mzg2OTM3/MzctNTU1MS5qcGVn.jpeg) | 2021-06-04 | Amel Bent, Camélia Jordana, Vitaa | Sorøre |
 | 23 | ![Cover](https://i.discogs.com/lXuaOjM4nYPsInClW7ypDb8v1_QYiJCqYQHlZ1to9B8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzU0/MDQyLTE2NDk1Nzg3/NDQtMTUwMS5qcGVn.jpeg) | 2021-06-04 | Amel Bent, Camélia Jordana &amp; Vitaa | Sorøre |
 | 17 | ![Cover](https://i.discogs.com/qHSPbQx1ew1xpwVnGFV0y9fW0Lw8nqH2CR464eEJK9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/OTQxLTE2NDM5OTA3/ODktMjgwNi5qcGVn.jpeg) | 2021-11-26 | Camille Lellouche | T&#39;es où |
+| 7 | ![Cover](https://i.discogs.com/tWH_2JTBYFcQ_O0IYHW2Sd1gwgXOwM5h616Q2CIzd30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODM5/MTM2LTE2NTc0Mzcz/ODAtNjMwOC5wbmc.jpeg) | 2022-04-14 | Suzane | Clit is Good - Single |
+| 10 |  |  | Marie Minet | Clair Obscur |
+| 37 | ![Cover](https://i.discogs.com/GtID7Zb4TCvsGH3IqVpYOtoKc6nn4i0GYZO-fuiJEEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYx/ODU0LTE2NjYyMTA5/NjQtNDkwOC5qcGVn.jpeg) | 2021 | Felixita | J&#39;aime les gars |
+| 40 | ![Cover](https://i.discogs.com/GtID7Zb4TCvsGH3IqVpYOtoKc6nn4i0GYZO-fuiJEEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYx/ODU0LTE2NjYyMTA5/NjQtNDkwOC5qcGVn.jpeg) | 2021 | Felixita | Nunuages |
 | 44 | ![Cover](https://i.discogs.com/qHSPbQx1ew1xpwVnGFV0y9fW0Lw8nqH2CR464eEJK9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/OTQxLTE2NDM5OTA3/ODktMjgwNi5qcGVn.jpeg) | 2021-11-26 | Camille Lellouche | O H N A |
 | 45 | ![Cover](https://i.discogs.com/qHSPbQx1ew1xpwVnGFV0y9fW0Lw8nqH2CR464eEJK9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIy/OTQxLTE2NDM5OTA3/ODktMjgwNi5qcGVn.jpeg) | 2021-11-26 | Camille Lellouche | Fumette |
-| 6 | ![Cover](https://i.discogs.com/tWH_2JTBYFcQ_O0IYHW2Sd1gwgXOwM5h616Q2CIzd30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODM5/MTM2LTE2NTc0Mzcz/ODAtNjMwOC5wbmc.jpeg) | 2022-04-14 | Suzane | Clit is Good - Single |
-| 9 |  |  | Marie Minet | Clair Obscur |
 | 20 | ![Cover](https://i.discogs.com/M33CNCopidBaXfdt8chqQw0_VK0C9fZss5fBq5qI2fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ3/MTc3LTE2NzkwMzg0/NTMtOTI2My5qcGVn.jpeg) | 2021-12-03 | Aurélie Saada | Nos amours heureux |
 | 36 | ![Cover](https://i.discogs.com/CtP_UIOEC61ozBLEumj50Lds16HPWhgjvcqvcDSPFH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODU1/NDYtMTQxNzYyNjY3/OS03NTQxLmpwZWc.jpeg) | 2022-04-21 | Santa | Qui a le Droit |
 | 18 | ![Cover](https://i.discogs.com/mnVATa2AudwgPF_B0tmt3N0aV_xs66aZ4Q1Q9NYCUMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQx/MzczLTE2Njc0OTk4/MjEtOTk0OS5wbmc.jpeg) | 2022-10-28 | Aurélie Saada | C&#39;est toi que j&#39;attendais |
-| 19 |  |  | Alkpote | Alkpote &amp; La Creme De L&#39;Ile De France |
-| 29 |  |  | Lo Radzouka | Lo Radzouka - maquette |
-| 33 |  |  | Marie S&#39;Infiltre | Nuit parisienne |
 | 46 |  |  | 志方あきこ | Byakumu no Mayu ～Ricordando il passato～ |
 | 65 | ![Cover](https://i.discogs.com/qQOKpLSKIYAaIzjq1mYxr8fThiggmunHwVwktrdclsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjIw/MDItMTM1MjY0NTE1/MC01NjExLmpwZWc.jpeg) | 1990 | Zélie | Sous tes draps |
 | 57 | ![Cover](https://i.discogs.com/K-TnXyIlz5BoLvEhAKdXOCVdy9kyrqvd2WDl90FCI9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjMy/NDkzLTE2NTU2OTAz/NzgtMzg1My5qcGVn.jpeg) | 1990-06-01 | Santa | Paris en Août |

@@ -1,27 +1,27 @@
 ---
 category: genre
-date: 2025-10-21T02:19:22.167Z
+date: 2025-10-28T12:47:00.182Z
 permalink: tags/thrashcore
 title: thrashcore
 ---
 
 ## thrashcore
 
-Last updated: <time datetime="2025-10-21T02:19:22.167Z">Tue Oct 21 2025 05:19:22 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T12:47:00.182Z">Tue Oct 28 2025 14:47:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 5 |  |  | Negative X Influence | Set To Fail |
+| 6 |  |  | Negative X Influence | Set To Fail |
 | 20 |  |  | Thomas Hornauer | Hornauers großes musikalisches Kunstwerk |
 | 36 |  |  | 屍 | 自我と煩悩 |
 | 85 |  |  | Bleach 03 | Bleach 03 |
 | 26 | ![Cover](https://i.discogs.com/4rHj-DRgmIvgooDuI0A7hOK_GiS5jPOxyqdheUxbRzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mjcx/NS0xNjY1MjE5MDMz/LTkwNDUuanBlZw.jpeg) | 1978 | Slang | Slang |
-| 98 |  | 1984 | Siege | Drop Dead |
+| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fae46175584344a896caf44cee1f836b.png) | 1984 | Siege | Drop Dead |
 | 38 | ![Cover](https://i.discogs.com/DNkPLFYKYP9v-XobvKw7kL2Wh8HnoybOFQB192m79i4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjY5/MjItMTI4NTY1NDQ2/MS5qcGVn.jpeg) | 1985 | Kali | Demo |
 | 81 | ![Cover](https://i.discogs.com/8MQSrBFp4uKuQsbQNhMQC5_3TS80fitH6K00dEPnaVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjkw/NTU3LTE1NTkwOTQ2/NDUtNjYwNS5qcGVn.jpeg) | 1985 | D.R.I. | Dealing With It |
-| 1 | ![Cover](https://i.discogs.com/_QdmGuKDOciZpPrsS4l-P8-KrNqndmUjUIxoarEpUEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDQ0/MTItMTI4OTczNDEy/MC5qcGVn.jpeg) | 1986 | Electro Hippies | Killing Babies Is Tight |
+| 2 | ![Cover](https://i.discogs.com/_QdmGuKDOciZpPrsS4l-P8-KrNqndmUjUIxoarEpUEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDQ0/MTItMTI4OTczNDEy/MC5qcGVn.jpeg) | 1986 | Electro Hippies | Killing Babies Is Tight |
 | 41 | ![Cover](https://i.discogs.com/piDCtw5kZVEE-XkEYnqOxWKODi5X-G1nd2X1UtcZlrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTAy/NS0xMzY5NTg3OTA0/LTEwNTguanBlZw.jpeg) | 1986-07 | Cryptic Slaughter | Convicted |
 | 34 | ![Cover](https://i.discogs.com/qphm8V64fR1uhQDzufr5VWlnidBP7Qgfu9jwc2yYWMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzI0/MDYtMTQ3NjE3OTQ2/OC0yMDc1LmpwZWc.jpeg) | 1989 | Olho Seco | Olho Por Olho |
 | 33 | ![Cover](https://i.discogs.com/1X8IHZBkt4fUJC5Mii3WT6aU7Gyb7rGdirkCIGhOml4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjc3/ODktMTM1Nzc2MzI4/OS0xNzc0LmpwZWc.jpeg) | 1991 | Paranoid | Отторжение |
@@ -30,7 +30,7 @@ Last updated: <time datetime="2025-10-21T02:19:22.167Z">Tue Oct 21 2025 05:19:22
 | 39 |  | 1997 | Lärm | Extreme Noise |
 | 47 |  | 1998-01 | Hellnation | Your Chaos Days Are Numbered |
 | 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/323c312e0e60aaf40d8f207c97a0c27f.png) | 1998-11-03 | Various Artists | Chef Aid: The South Park Album |
-| 6 | ![Cover](https://i.discogs.com/8_-WBJ0647rE_mqsfB1ehGDNxXFziTbVLclYANxL5Xk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTEx/Ni0xNjQ4MjIyNzMx/LTM3OTguanBlZw.jpeg) | 1999 | Slipknot | Slipknot EP |
+| 7 | ![Cover](https://i.discogs.com/8_-WBJ0647rE_mqsfB1ehGDNxXFziTbVLclYANxL5Xk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTEx/Ni0xNjQ4MjIyNzMx/LTM3OTguanBlZw.jpeg) | 1999 | Slipknot | Slipknot EP |
 | 21 |  | 1999 | Charles Bronson | Complete Discocrappy |
 | 30 | ![Cover](https://i.discogs.com/9Z5GNGo0tZ4lFB7iLAk7qiGya3aF1BeSG3MT1qElbMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTU3/NDExLTE2NjM1MzA0/MjgtMTI5My5qcGVn.jpeg) | 1999 | S.O.B. | Dub Grind |
 | 49 | ![Cover](https://i.discogs.com/yJglpQbKMDTQ0a8nAbzzdjpXHun8ZP3uwZGTCVE2OhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDE4/OS0xMTI3NDIwNDE4/LmpwZWc.jpeg) | 1999-07 | Hellnation | Fucked Up Mess |
@@ -55,8 +55,9 @@ Last updated: <time datetime="2025-10-21T02:19:22.167Z">Tue Oct 21 2025 05:19:22
 | 91 | ![Cover](https://i.discogs.com/3cUHAzb4JSxHlGJcA2UbJSE_7Panm8EAD5WIauBiv3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk3/NTAtMTIzODE1Njk1/MC5qcGVn.jpeg) | 2006-02-20 | Deep Wound | Deep Wound |
 | 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d88658b8f87f4e6bbc961542401879fe.png) | 2006-05-19 | Cataract | Kingdom |
 | 79 | ![Cover](https://i.discogs.com/p83n12sXuHpLsO9wAmaOxVYmWrSktqGCvHBZzJXYkSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDU0/MC0xNTQwODUyOTI4/LTczNDIuanBlZw.jpeg) | 2006-08-15 | LxExAxRxNx | First Lesson |
-| 8 | ![Cover](https://i.discogs.com/l7d361n4m-uhh3foPkhnOo1A_p_1DW0lP3OTNJZMIbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzYz/OTMtMTIyNjc5NjQz/OS5qcGVn.jpeg) | 2007 | Korova | ...If There Is a Future |
+| 9 | ![Cover](https://i.discogs.com/l7d361n4m-uhh3foPkhnOo1A_p_1DW0lP3OTNJZMIbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzYz/OTMtMTIyNjc5NjQz/OS5qcGVn.jpeg) | 2007 | Korova | ...If There Is a Future |
 | 99 | ![Cover](https://i.discogs.com/gwJ36lXM_JRxwqjBMJdIYznvC2T5T3eXKjjnBxViYTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODQ2/NzgtMTM1OTQ3NDM3/NS01Mjk1LmpwZWc.jpeg) | 2007-10-09 | Trash Talk | Walking Disease |
+| 1 | ![Cover](https://i.discogs.com/S_LYWfEWpuFkzqx3FjTEx3Y6NYrxsw2Xo259yZOmLsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzg0/OTEyLTE2NzAzMzI0/MTAtMTU1NC5qcGVn.jpeg) | 2008 | Razors Edge | These Wheels Roll For Victory! |
 | 13 | ![Cover](https://i.discogs.com/d4f8IST06eIEdrHOEsiv4A-YFhcPPO3xRLVqtztIM-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQ1/MjQ1LTE1ODU5NDI4/NzQtMTQ1NC5qcGVn.jpeg) | 2008 | Cü Sujo | Abstract |
 | 56 | ![Cover](https://i.discogs.com/ZTIZfFl6GvDenfpr4L2s7q9aJpqSmDtdoLGsvec7NZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjI1/MTYtMTI5OTc4NzEx/OS5qcGVn.jpeg) | 2008 | Punch | Eyeless E.P. |
 | 57 | ![Cover](https://i.discogs.com/EeC07xVVBqnEvWI1Ku_h0VFEkEYBxdrLG5-b8TcWvXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjE4/NTEtMTQyOTU1ODI2/OC02NzgyLmpwZWc.jpeg) | 2008 | Rearranged | Demo |
@@ -64,9 +65,8 @@ Last updated: <time datetime="2025-10-21T02:19:22.167Z">Tue Oct 21 2025 05:19:22
 | 73 |  | 2008 | Trash Talk | Plagues...Walking Disease |
 | 84 |  | 2008 | Vitamin X | Full Scale Assault |
 | 95 | ![Cover](https://i.discogs.com/WYXaiY7x61DXS9ixFCVgC89X3ev3C6ZsGvK37Y7A_cY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTU4/NTAtMTM1OTQ3NDQ2/My04Nzg1LmpwZWc.jpeg) | 2008 | Trash Talk | Plagues |
-| 11 |  | 2008-03-05 | Nerds Attack! | Nerds Attack! &amp; Nossa Vingança [SPLIT CD] |
 | 62 | ![Cover](https://i.discogs.com/tEuV2V_Nn0fsdtrHU_i2avpTjiqHmZGJFUjJm0JRU0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDk3/OTAtMTQ2NDk5MDM2/NS03MzI1LmpwZWc.jpeg) | 2008-03-18 | Hayaino Daisuki | Headbanger&#39;s Karaoke Club Dangerous Fire |
-| 9 | ![Cover](https://i.discogs.com/xM27ORvlQ3JrsoFQKshvQp6yaxnninmJlt9FnMUDthQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Mjcx/NTEtMTQ1MTgyMDM3/Mi04NTA5LmpwZWc.jpeg) | 2008-03-29 | Nuestros Derechos | Struggling with the Dark |
+| 10 | ![Cover](https://i.discogs.com/xM27ORvlQ3JrsoFQKshvQp6yaxnninmJlt9FnMUDthQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Mjcx/NTEtMTQ1MTgyMDM3/Mi04NTA5LmpwZWc.jpeg) | 2008-03-29 | Nuestros Derechos | Struggling with the Dark |
 | 14 |  |  | Monsieur Po | There was life... |
 | 42 |  | 1990-10-05 | Gauze | 限界は何処だ |
 | 16 |  | 2001 | Spazz | Sweatin&#39; Ii: Deported Live Dwarf |
@@ -82,7 +82,7 @@ Last updated: <time datetime="2025-10-21T02:19:22.167Z">Tue Oct 21 2025 05:19:22
 | 22 | ![Cover](https://i.discogs.com/EtfOvxAxAWQ5YugFZ0lX47EFJBQd3_K2bHUxkeJ_6wI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTU1/NDQtMTMwOTAwNTI5/My5qcGVn.jpeg) | 2007 | Milizia HC | l&#39;inferno dell&#39;uguaglianza |
 | 35 | ![Cover](https://i.discogs.com/8M27UyLj6PGt2zS3emvawplzOZm8XoL1e1Li_5SaLlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDA4/OTUtMTMzODQ5MDI1/My0yODc1LmpwZWc.jpeg) | 2007 | The Moebius Curve | Deus Ex Machina |
 | 25 | ![Cover](https://i.discogs.com/T5i86Z9ypZQX8l3riy9mk0mgZh3mYOQWeoS3EoCpzqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjQw/MjM0LTE1ODMxNTU4/MTEtNTU1My5qcGVn.jpeg) | 2008 | Один Из Тысячи | Начало Пути |
-| 2 | ![Cover](https://i.discogs.com/6Wt4mxguwFeG4ssJS_KvAZq7Hoto8DGei2ZR-OWEvNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTQ1/NTMtMTMyODcxMTI3/MS5qcGVn.jpeg) | 2009 | Morto Pela Escola | Naifa e Morto Pela Escola |
+| 3 | ![Cover](https://i.discogs.com/6Wt4mxguwFeG4ssJS_KvAZq7Hoto8DGei2ZR-OWEvNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTQ1/NTMtMTMyODcxMTI3/MS5qcGVn.jpeg) | 2009 | Morto Pela Escola | Naifa e Morto Pela Escola |
 | 12 | ![Cover](https://i.discogs.com/Ct1qy6WkK7QUmijVIgQVnGjMW3N5G42kb8ENF1y0-54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTQ1/NTQtMTI1MDcwNjMy/MC5naWY.jpeg) | 2009 | Napoleon Dynamite | NUR FLOPS |
 | 15 | ![Cover](https://i.discogs.com/70q2Pym_WmjWctu7hNAF628maOE83AeBnTttPE14dUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTgy/MTctMTM2MDA1Mjg2/My0yNTY1LmpwZWc.jpeg) | 2009 | Boiling Point | Thrash the Railroads |
 | 43 | ![Cover](https://i.discogs.com/JhJSMl7ZUcwaOQaMmT1NRFSmxX4HZ8R660MfQc9wfag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTQ5/OTEtMTMzNzgzMTU1/Ni03OTU1LmpwZWc.jpeg) | 2009 | Blackened | This Means War |
@@ -90,7 +90,7 @@ Last updated: <time datetime="2025-10-21T02:19:22.167Z">Tue Oct 21 2025 05:19:22
 | 97 | ![Cover](https://i.discogs.com/_lhJ8JqmUjQMgUIAJ5m4kEyfQQd1HLg4BUXfAqVJ5uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzI5/MjYtMTI1NTk3NDQx/OS5qcGVn.jpeg) | 2009-03-01 | Punch | Punch |
 | 27 |  | 2009-04-14 | Agoraphobic Nosebleed | Agorapocalypse |
 | 52 | ![Cover](https://i.discogs.com/M3jUoGT51_6dXHTdSsfZpPHehGBmpbk0roKdt2hjbZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTc3/NTItMTYyMzc3MDA3/MC03NTM4LmpwZWc.jpeg) | 2009-07-21 | Hummingbird of Death | Show Us The Meaning Of Haste |
-| 10 | ![Cover](https://i.discogs.com/Gpt-VhGuxWdwKMSh8WckkZoh79x3aXmWmqTZzsZ2M5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzkz/ODgtMTI4OTQ4NjU3/Mi5qcGVn.jpeg) | 2010-04 | SS20 | Split 7&#39;&#39; with Fanzui Xiangfa |
+| 11 | ![Cover](https://i.discogs.com/Gpt-VhGuxWdwKMSh8WckkZoh79x3aXmWmqTZzsZ2M5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzkz/ODgtMTI4OTQ4NjU3/Mi5qcGVn.jpeg) | 2010-04 | SS20 | Split 7&#39;&#39; with Fanzui Xiangfa |
 | 83 | ![Cover](https://i.discogs.com/eJ7Uq-uqsyRJwuHz10s6uB4qOLHzXJhLJs8jTkA3lcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODEy/NjItMTU2NzU0Njg2/NC0yMzI3LmpwZWc.jpeg) | 2010-06 | Dirty rotten imbeciles | Violent Pacification |
 | 86 | ![Cover](https://i.discogs.com/IunUedJXUr6Xb3XaPPSG4Ln9mpguLXQR58ho9HXO92w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODEw/MTctMTMzMjA4ODMz/OS5qcGVn.jpeg) | 2010-10 | Coke Bust | Lines in the Sand |
 | 68 | ![Cover](https://i.discogs.com/GRnUMyFwkgbIi0a84YQfJhpmSpOUWgx6ipBdh0jsJac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQ3/NTctMTUwMzY2Mzgz/My0zNTkwLmpwZWc.jpeg) | 2010-12-25 | XBRAINIAX | Deprogrammed |
@@ -106,13 +106,13 @@ Last updated: <time datetime="2025-10-21T02:19:22.167Z">Tue Oct 21 2025 05:19:22
 | 54 | ![Cover](https://i.discogs.com/AA8y6Yt63SiK2MCPQa_JE1G2b1ZQlMiaIWI5b6mbBbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI2/MTUzLTE1MTIyNTA4/MjMtNzU5NS5wbmc.jpeg) | 2017 | Hummingbird of Death | Forbidden Techniques |
 | 60 | ![Cover](https://i.discogs.com/MgFUCJhDQwi8VWEU8NEAvWNQgXglzjL7wRsHLwRRRGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQy/MzgxLTE2MjUxNTYx/NTUtNDQ1MS5qcGVn.jpeg) | 2017-02-15 | Bastard | Bastard |
 | 50 | ![Cover](https://i.discogs.com/1TyYmbcbo1oNFvcdrdhI8LkldFbNiGrlkq0p4I1plgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTA5/MTU5LTE1NzU5OTA0/NjAtMTIwMC5qcGVn.jpeg) | 2018 | Cérebro de Galinha | Sociedades Secretas |
-| 7 | ![Cover](https://i.discogs.com/KfNnW_OvxghaExXRtx-XNajMRlk-vfz59d0JEBl7_Io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTMx/ODYyLTE2MTM4NjQ4/NzgtNjA5OS5wbmc.jpeg) | 2019 | Peasant | Unrest Eternal |
+| 8 | ![Cover](https://i.discogs.com/KfNnW_OvxghaExXRtx-XNajMRlk-vfz59d0JEBl7_Io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTMx/ODYyLTE2MTM4NjQ4/NzgtNjA5OS5wbmc.jpeg) | 2019 | Peasant | Unrest Eternal |
 | 51 | ![Cover](https://i.discogs.com/8MQSrBFp4uKuQsbQNhMQC5_3TS80fitH6K00dEPnaVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjkw/NTU3LTE1NTkwOTQ2/NDUtNjYwNS5qcGVn.jpeg) | 2019 | D.R.I. | Dealing With It! |
 | 100 | ![Cover](https://i.discogs.com/8MQSrBFp4uKuQsbQNhMQC5_3TS80fitH6K00dEPnaVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjkw/NTU3LTE1NTkwOTQ2/NDUtNjYwNS5qcGVn.jpeg) | 2019 | D.R.I. | Dirty Rotten EP |
-| 4 | ![Cover](https://i.discogs.com/CAeCw-ngaIpSi2gFgnEEVh0xOGV6END3f19fTNI3tcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODI4/Njk4LTE1ODIzOTA1/NDgtNjY2MS5qcGVn.jpeg) | 2020 | Napalm Death | From Enslavement to Obliteration (Demo) |
+| 5 | ![Cover](https://i.discogs.com/CAeCw-ngaIpSi2gFgnEEVh0xOGV6END3f19fTNI3tcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODI4/Njk4LTE1ODIzOTA1/NDgtNjY2MS5qcGVn.jpeg) | 2020 | Napalm Death | From Enslavement to Obliteration (Demo) |
 | 55 | ![Cover](https://i.discogs.com/4HM6mfJrg48WyiGpTKLgNAVx8jR42gk3hxaNsCzUVGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDM1/MDkyLTE2MTEyNTI1/MzMtMzE2OS5qcGVn.jpeg) | 2020-12-20 | Lip Cream | 9 Shocks Terror |
 | 58 | ![Cover](https://i.discogs.com/t_-5y7F5HTotV1CEXLv8DJzXmR5bUd5CM5Dc7DsXI9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDU2/MjQ3LTE2NTEyNTYy/MjEtNTEwOS5qcGVn.jpeg) | 2022-05-06 | Deaf Club | Bad Songs Forever |
-| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/66a14fd7a9ffba038e7b63b77304ce55.png) | 2023 | Transgender | Радісно й класно |
+| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/66a14fd7a9ffba038e7b63b77304ce55.png) | 2023 | Transgender | Радісно й класно |
 
 ### Related genres
 

@@ -1,13 +1,21 @@
 ---
 category: genre
-date: 2025-10-26T03:00:04.344Z
+date: 2025-10-28T13:04:29.861Z
 permalink: tags/contemporary-rnb
 title: contemporary rnb
 ---
 
 ## contemporary rnb
 
-Last updated: <time datetime="2025-10-26T03:00:04.344Z">Sun Oct 26 2025 05:00:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T13:04:29.861Z">Tue Oct 28 2025 15:04:29 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Contemporary R&amp;B (Rhythm and Blues) is a genre of popular music that emerged in the 1980s and has continued to evolve since then. It is characterized by a mix of soul, funk, pop, and hip hop elements, and often features electronic production and use of synthesizers.
+
+Contemporary R&amp;B is marked by its emphasis on vocal performance, with artists often using melismatic singing and other vocal techniques to showcase their skills. The genre is also known for its sexually suggestive lyrics, which have been both celebrated and criticized over the years.
+
+Some of the biggest names in contemporary R&amp;B include Beyoncé, Rihanna, Usher, Bruno Mars, The Weeknd, and many others. The genre continues to evolve and incorporate new sounds and influences, and has had a significant impact on popular music as a whole.
 
 ### 100 chronological releases
 
@@ -18,15 +26,15 @@ Last updated: <time datetime="2025-10-26T03:00:04.344Z">Sun Oct 26 2025 05:00:04
 | 25 | ![Cover](https://i.discogs.com/WJ9FbqJgqoANAJr1aw5uwfZ8N3QtuqxRFXD7MNTDcNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzA2/MzMtMTY5MDAyNTUz/Mi0xMTkzLmpwZWc.jpeg) | 1993-11-03 | Take That | Everything Changes (expanded edition) |
 | 27 | ![Cover](https://i.discogs.com/i5FIKVTFYkHyQMltx0k1DQaveTAJWtKxhkxQWBe20FY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDUy/NDMtMTI2NjQ0ODgy/NS5qcGVn.jpeg) | 1995 | Nill | Good Smell, Vol. 2 |
 | 36 | ![Cover](https://i.discogs.com/OwPq0XBNtZutyTdouRszdG_nz4f9aDJhry8BXl31chg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzEw/MTMtMTM0MjA5NzI1/NS03MDUwLmpwZWc.jpeg) | 1996-02-21 | Take That | Nobody Else (Expanded Edition) |
-| 2 |  | 1997 | Fernanda Abreu | Raio X |
-| 58 | ![Cover](https://i.discogs.com/H_1Mhi_sqRJpvyTjaFNOjXKSVcMD_ZvSRMDDMw2M2Ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTA5/MDctMTIzNDYxNTI3/Ny5qcGVn.jpeg) | 1997 | brb. | relationshit |
-| 17 | ![Cover](https://i.discogs.com/oNwcxMPt1oxOwhHVJbzZ8u76P0107oDlu41dSEzsMsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTUx/NS0xNTIyMzk3Njkz/LTQxOTEuanBlZw.jpeg) | 1999 | S Club | S Club |
-| 59 | ![Cover](https://i.discogs.com/gdNij_O4o1lKim6E71F8pPj2aSsKIqXrJ4-18fRvpLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTMz/MTItMTQ1NTM5MDQ4/Mi0xNDA2LmpwZWc.jpeg) | 1999 | Stellar | El Dorado |
+| 3 |  | 1997 | Fernanda Abreu | Raio X |
+| 59 | ![Cover](https://i.discogs.com/H_1Mhi_sqRJpvyTjaFNOjXKSVcMD_ZvSRMDDMw2M2Ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTA5/MDctMTIzNDYxNTI3/Ny5qcGVn.jpeg) | 1997 | brb. | relationshit |
+| 16 | ![Cover](https://i.discogs.com/oNwcxMPt1oxOwhHVJbzZ8u76P0107oDlu41dSEzsMsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTUx/NS0xNTIyMzk3Njkz/LTQxOTEuanBlZw.jpeg) | 1999 | S Club | S Club |
+| 60 | ![Cover](https://i.discogs.com/gdNij_O4o1lKim6E71F8pPj2aSsKIqXrJ4-18fRvpLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTMz/MTItMTQ1NTM5MDQ4/Mi0xNDA2LmpwZWc.jpeg) | 1999 | Stellar | El Dorado |
 | 39 | ![Cover](https://i.discogs.com/3EirCa2k8yrlCOeYqCYDjxNttBx3J-3EZcGIjG7YyDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTE4/MTk5LTE1MzY4NDU4/MzEtMTA3OC5qcGVn.jpeg) | 1999-11-02 | Mariah Carey | CAUTION |
 | 5 | ![Cover](https://i.discogs.com/ZYP67Py_Uk4WjiSSjRYbGbjzcJa8pIFHD6TZQLfVTUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDM3/NzMtMTM2OTU4NjMz/OS0xNDc5LmpwZWc.jpeg) | 2000 | S Club | &quot;7&quot; |
-| 20 | ![Cover](https://i.discogs.com/YTTh8uLWTm1jeKObKJk-u3AOjgAHJ5Q46OGOfB5M7hA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc3/NDItMTE5MDQxMTk4/MC5qcGVn.jpeg) | 2001 | S Club | Sunshine |
+| 19 | ![Cover](https://i.discogs.com/YTTh8uLWTm1jeKObKJk-u3AOjgAHJ5Q46OGOfB5M7hA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzc3/NDItMTE5MDQxMTk4/MC5qcGVn.jpeg) | 2001 | S Club | Sunshine |
 | 30 | ![Cover](https://i.discogs.com/XGOkK2Xo5VMZjsar6XDq6fL0W872OJiyT4CNv2lv5IE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU0/MzI1LTE1MzA3MjM0/NTYtNDQ0NS5qcGVn.jpeg) | 2002 | George Michael | Listen Without Prejudice (Remastered) |
-| 19 | ![Cover](https://i.discogs.com/UHpXvNmOuPkUaOtjAiOqOcS1SwQAPKvkFnKQxq8e9nk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjMw/MS0xMjY5Mzc5NDkz/LmpwZWc.jpeg) | 2004 | Maroon 5 | Good Girl Gone Bad: Reloaded |
+| 18 | ![Cover](https://i.discogs.com/UHpXvNmOuPkUaOtjAiOqOcS1SwQAPKvkFnKQxq8e9nk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjMw/MS0xMjY5Mzc5NDkz/LmpwZWc.jpeg) | 2004 | Maroon 5 | Good Girl Gone Bad: Reloaded |
 | 85 | ![Cover](https://i.discogs.com/ZVHEZATgc86GIz0X_VGLQOGgl9aL-YKr9O_luVpDzH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgw/NTcxLTE1MDk0ODMx/NTgtNjM1Ny5qcGVn.jpeg) | 2004 | Maroon 5 | Red Pill Blues (Deluxe) |
 | 8 | ![Cover](https://i.discogs.com/X5pYuVJIshekZFDgd8etX9tRVSSApU1-YapXvkOvvW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODg3/MTktMTY0MzA3ODIy/MS04MjY5LmpwZWc.jpeg) | 2007 | Fergie | The Dutchess (Deluxe Edition) |
 | 9 | ![Cover](https://i.discogs.com/6Y7fHu7kvvRzS2AAqVNUPwyEVlv5Ey9P2GBCSgj5pS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTI3/NjgtMTQxMjE0NTY2/OC02MTQ5LmpwZWc.jpeg) | 2008 | Beyoncé | Si Yo Fuera Un Chico |
@@ -37,7 +45,6 @@ Last updated: <time datetime="2025-10-26T03:00:04.344Z">Sun Oct 26 2025 05:00:04
 | 71 |  | 2012-07-10 | Frank Ocean | channel ORANGE |
 | 23 |  | 2012-08-27 | Kendra Morris | Banshee |
 | 42 | ![Cover](https://i.discogs.com/4Xb_Ha1MwqF4-5EuU0SiJs2doHkuh3x8re2GyQ9-Xvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTY2/NzAtMTU5OTUwOTUy/My00MjUyLmpwZWc.jpeg) | 2013-09-09 | Janelle Monáe | The Electric Lady |
-| 61 | ![Cover](https://i.discogs.com/onasO83C0VFj7vmhb4IavucqpRfkpRDLUi5x8JUsuy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTg5/ODItMTQxODIyNzIz/Mi0yMDA3LmpwZWc.jpeg) | 2013-09-30 | Justin Timberlake | The 20&#x2F;20 Experience - 2 of 2 (Deluxe) |
 | 89 | ![Cover](https://i.discogs.com/auVp5c9t89JL02tMxQtZGgmRPyal7UJcxvbTrHwX17s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/MDY4LTE1ODMwMTE5/MDEtNjg0My5qcGVn.jpeg) | 2013-11-03 | Little Mix | LM5 (Deluxe) |
 | 29 |  | 2013-12-06 | Childish Gambino | Because the Internet |
 | 62 | ![Cover](https://i.discogs.com/8MX5fcNKiJzZyKesgX2DOfTRQSmyvrTp7EkW3GXjr7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI5/MzA4LTE1NDI3NDgx/MjgtMjI1MC5qcGVn.jpeg) | 2015 | Rita Ora | Phoenix (Deluxe Edition) |
@@ -48,20 +55,20 @@ Last updated: <time datetime="2025-10-26T03:00:04.344Z">Sun Oct 26 2025 05:00:04
 | 74 | ![Cover](https://i.discogs.com/qTaH71yCyJgwKwzdRuU6Dntl170SSkMOrUtWemYhHZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjEy/MTItMTQ3NTg5NjI0/NS03NDk0LmpwZWc.jpeg) | 2016-02-23 | Taemin | Press It - The 1st Album |
 | 28 | ![Cover](https://i.discogs.com/aZ5j3v9GJhZO4qeSadqbWsl6Ubyg0SsymOAZ63oTzEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzc1/MTAtMTQ1OTA5ODI0/NS02NjkzLmpwZWc.jpeg) | 2016-03-25 | Zayn | Mind Of Mine (Deluxe Edition) |
 | 77 | ![Cover](https://i.discogs.com/sShXmRlLqdY0yt7TI7j1Ul-03T-BqmmzQPZXNNsa2iQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTQx/ODQtMTQ1OTE3NzEz/My0xMzA1LmpwZWc.jpeg) | 2016-03-25 | Domo Genesis | Genesis |
-| 15 | ![Cover](https://i.discogs.com/C03S-7gUyVIY4fsrXNO9sjaob9ym-ChuRIAYjIOEkmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDcz/OTctMTQ2Mjk5OTg3/OS05MTUxLmpwZWc.jpeg) | 2016-07-01 | Corinne Bailey Rae | The Heart Speaks in Whispers (Deluxe) |
+| 14 | ![Cover](https://i.discogs.com/C03S-7gUyVIY4fsrXNO9sjaob9ym-ChuRIAYjIOEkmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDcz/OTctMTQ2Mjk5OTg3/OS05MTUxLmpwZWc.jpeg) | 2016-07-01 | Corinne Bailey Rae | The Heart Speaks in Whispers (Deluxe) |
 | 73 | ![Cover](https://i.discogs.com/Nwhnuxe-Lhh_XzJ0HFTeut1lJCBBLjoL9O4z8QyCydg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTQ3/MTQtMTQ3Mjk0MTcw/Mi02OTg5LmpwZWc.jpeg) | 2016-09-02 | Isaiah Rashad | The Sun&#39;s Tirade |
-| 48 | ![Cover](https://i.discogs.com/hkiLCymgZ5bWU_vyaZ7Ffy1LBBoIHeTLVIqa91DFJJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDIw/OTA1LTE2NjU4MzYx/NjgtNTM5Ny5qcGVn.jpeg) | 2017 | Calvin Harris | Funk Wav Bounces Vol. 1 |
+| 49 | ![Cover](https://i.discogs.com/hkiLCymgZ5bWU_vyaZ7Ffy1LBBoIHeTLVIqa91DFJJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDIw/OTA1LTE2NjU4MzYx/NjgtNTM5Ny5qcGVn.jpeg) | 2017 | Calvin Harris | Funk Wav Bounces Vol. 1 |
 | 94 | ![Cover](https://i.discogs.com/F5PoD_Q0PTksZpiYHFBAOxvGNCW71UsdO_SvOQfyKdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTM2/NTE3LTE1MjkwMjE2/MzAtNzkzMC5qcGVn.jpeg) | 2017-01-27 | Sonder | Into |
-| 22 | ![Cover](https://i.discogs.com/5YK7B9h2m9PoD0tL4y5LzplMuXmfrk2rc7VbBEQYIKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Mzkz/MjktMTQ4NzE2Mjc4/NS02MzEyLmpwZWc.jpeg) | 2017-02 | Kingdom | Tears in the Club |
-| 21 | ![Cover](https://i.discogs.com/oEq6q6AARhA7rS2Ut83_uyfuaUTEZZZStKKh5G8xqH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQy/NTY1LTE1MTA2MzE1/NTYtMjY0OC5qcGVn.jpeg) | 2017-10-27 | Rina Sawayama | RINA |
+| 21 | ![Cover](https://i.discogs.com/5YK7B9h2m9PoD0tL4y5LzplMuXmfrk2rc7VbBEQYIKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Mzkz/MjktMTQ4NzE2Mjc4/NS02MzEyLmpwZWc.jpeg) | 2017-02 | Kingdom | Tears in the Club |
+| 20 | ![Cover](https://i.discogs.com/oEq6q6AARhA7rS2Ut83_uyfuaUTEZZZStKKh5G8xqH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQy/NTY1LTE1MTA2MzE1/NTYtMjY0OC5qcGVn.jpeg) | 2017-10-27 | Rina Sawayama | RINA |
 | 84 | ![Cover](https://i.discogs.com/LyGV5QKBeNAgz-TnHqS3Cz_ru7PRtZt1G0Vq0bl7SnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM3/MjUyLTE1NDA5OTY4/ODAtODc2NC5qcGVn.jpeg) | 2018 | why don&#39;t we | 8 Letters |
 | 68 | ![Cover](https://i.discogs.com/6BoypK0VeY4uPabdrpj_YD7ZNy7vhL5lo3bTSavS5hE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc2/NTk5LTE1MTc2NDEz/NDEtNzYwMi5qcGVn.jpeg) | 2018-01-12 | Camila Cabello | Camila |
 | 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c16a024aea4839e19c23dd9678f1aaae.png) | 2018-02-14 | Rina Sawayama | Valentine (What&#39;s It Gonna Be) |
 | 87 | ![Cover](https://i.discogs.com/9j_nfvXU3oRby3ogrc9OPIaHtGMTkNMwSo6FaEJ45TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTAw/OTQwLTE1MjQzOTky/NjktNDU4Ny5qcGVn.jpeg) | 2018-03-18 | Feng Suave | Feng Suave |
-| 60 | ![Cover](https://i.discogs.com/bQkEI2t0OJ82SIIul2nMlw5u_nvqEOfsdNmEav-lnVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM1/ODQzLTE2NzgwMzEx/NTktNzc1Ni5qcGVn.jpeg) | 2018-04-06 | Kali Uchis | Isolation |
-| 49 | ![Cover](https://i.discogs.com/an6jS3mI3FTmOJJD1lgF35I4DFshwWhQ81pj-RzBuAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTEy/MjMwLTE2ODQ0MDQ2/MDctMjYyOS5qcGVn.jpeg) | 2018-04-27 | Janelle Monáe | Dirty Computer |
+| 61 | ![Cover](https://i.discogs.com/bQkEI2t0OJ82SIIul2nMlw5u_nvqEOfsdNmEav-lnVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM1/ODQzLTE2NzgwMzEx/NTktNzc1Ni5qcGVn.jpeg) | 2018-04-06 | Kali Uchis | Isolation |
+| 50 | ![Cover](https://i.discogs.com/an6jS3mI3FTmOJJD1lgF35I4DFshwWhQ81pj-RzBuAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTEy/MjMwLTE2ODQ0MDQ2/MDctMjYyOS5qcGVn.jpeg) | 2018-04-27 | Janelle Monáe | Dirty Computer |
 | 90 | ![Cover](https://i.discogs.com/PGwCGbKuk4gU3apU1C8hRgCxn_VMRJc4325IlMxiqIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzY5/MzUyLTE2ODA4NzU3/NTMtNjQ0NC5qcGVn.jpeg) | 2018-05-04 | Rae Sremmurd | SR3MM |
-| 3 | ![Cover](https://i.discogs.com/DnwGMB3Zi6N6dtEQ1fJQB_ae_ISUw9a1QifM3DbL6oA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDA1/NzkyLTE2OTIwMjg2/MTktNDcyNi5qcGVn.jpeg) | 2018-08-17 | Stefflon Don | SECURE |
+| 4 | ![Cover](https://i.discogs.com/DnwGMB3Zi6N6dtEQ1fJQB_ae_ISUw9a1QifM3DbL6oA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDA1/NzkyLTE2OTIwMjg2/MTktNDcyNi5qcGVn.jpeg) | 2018-08-17 | Stefflon Don | SECURE |
 | 79 | ![Cover](https://i.discogs.com/GmrKIEhJLX0VclJfKI5TVYRw-eoqDgefMMcDk4UiTGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI0/ODYzLTE2ODYzOTMy/ODItNTQ5NC5qcGVn.jpeg) | 2018-09-07 | masego | Lady Lady |
 | 37 | ![Cover](https://i.discogs.com/kF-W_lvKk_08Q6-e4VJgH7bx6pOUP-7l9ZwXj3e4OQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTUz/NzgzLTE2MDA1MjM5/MDMtNTE1MS5qcGVn.jpeg) | 2018-09-21 | JMSN | Velvet |
 | 34 | ![Cover](https://i.discogs.com/eeQ10fb7CKKQGGyhflv0sN6U69tSFzLmQUlw8LpcTyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODM3/NjA0LTE2NDk3MDgw/NTItODU5MC5qcGVn.jpeg) | 2018-11-30 | Red Velvet | RBB |
@@ -69,43 +76,44 @@ Last updated: <time datetime="2025-10-26T03:00:04.344Z">Sun Oct 26 2025 05:00:04
 | 75 | ![Cover](https://i.discogs.com/iIwd-afZAkvwa2QtqQvCEjX6LnbXv7988A50IvYhmfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjE1/Mzg5LTE2MTg5OTkx/NTUtMzY4OS5qcGVn.jpeg) | 2019 | BROCKHAMPTON | ROADRUNNER: NEW LIGHT, NEW MACHINE |
 | 96 | ![Cover](https://i.discogs.com/-4m44M9MuYYG2ZUEUmQEWoj2TDMgSOPoN-USfMkwWWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYw/Mzk4LTE2OTQxMDYx/ODEtNjA0MC5qcGVn.jpeg) | 2019-03-01 | Brent Faiyaz | Lost |
 | 80 | ![Cover](https://i.discogs.com/CIC-rpgk_xmk05UgMm7n66vXiWBb51f-IQ1EJxmZdnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTAx/MzA0LTE1OTk4NjAw/MTgtODA2Mi5qcGVn.jpeg) | 2019-04-19 | The Boyboy West Coast | U Was At The Club (Bottoms Up) |
-| 46 | ![Cover](https://i.discogs.com/WIjnhsCvNbVcawOfytgzoluu7Iel8u4YVb0zd4HoFv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODky/MzgxLTE1OTk2OTU0/MDAtNjUzMC5qcGVn.jpeg) | 2019-10-21 | NU&#39;EST | The 5th Mini Album &#39;CANVAS&#39; |
-| 54 | ![Cover](https://i.discogs.com/_dKUFvO6GzA6dR7cHFQ4PZ_K3TMiBsGw5Z9Te6_0mCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUw/Nzg1LTE1OTAxNTU2/MTgtNjc5Ny5qcGVn.jpeg) | 2020 | Carly Rae Jepsen | Dedicated Side B |
+| 55 | ![Cover](https://i.discogs.com/_dKUFvO6GzA6dR7cHFQ4PZ_K3TMiBsGw5Z9Te6_0mCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUw/Nzg1LTE1OTAxNTU2/MTgtNjc5Ny5qcGVn.jpeg) | 2020 | Carly Rae Jepsen | Dedicated Side B |
 | 67 | ![Cover](https://i.discogs.com/BqQBl4FGrdq7VsCtEgxavEaYTix-kj4wNt3l4oqMUrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY4/NzI1LTE1ODQ4Nzk1/NDctNDIzNC5qcGVn.jpeg) | 2020-03-22 | Childish Gambino | 3.15.20 |
 | 76 | ![Cover](https://i.discogs.com/lT0Cvidd7rJais6fBUOUiJyZ8rH0krgWk0kPdJdn9kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDY3/MjA3LTE2MDc5MDgz/MjctMjMwNS5qcGVn.jpeg) | 2020-04-30 | Bree Runway | Be Runway |
-| 50 | ![Cover](https://i.discogs.com/s4V87UrCU2kfyfvdTrW9EUEEsmubCYseUVbecT8SFd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDgy/MjkxLTE2OTA5ODY1/MDMtNjA4NC5qcGVn.jpeg) | 2020-06-19 | H.E.R. | I Used To Know Her - Part 2 - EP |
-| 16 | ![Cover](https://i.discogs.com/RChdaM2agQJAL7sZrGwCo0b7OkF8Qb-0j8eEu-VQ3kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTE1/OTcwLTE1OTMzNzE5/NTYtNDc2Mi5qcGVn.jpeg) | 2020-07-20 | Jessie Ware | What&#39;s Your Pleasure? |
+| 51 | ![Cover](https://i.discogs.com/s4V87UrCU2kfyfvdTrW9EUEEsmubCYseUVbecT8SFd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDgy/MjkxLTE2OTA5ODY1/MDMtNjA4NC5qcGVn.jpeg) | 2020-06-19 | H.E.R. | I Used To Know Her - Part 2 - EP |
+| 15 | ![Cover](https://i.discogs.com/RChdaM2agQJAL7sZrGwCo0b7OkF8Qb-0j8eEu-VQ3kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTE1/OTcwLTE1OTMzNzE5/NTYtNDc2Mi5qcGVn.jpeg) | 2020-07-20 | Jessie Ware | What&#39;s Your Pleasure? |
 | 82 | ![Cover](https://i.discogs.com/cWHjvn7oY9aivRnBmUp80oKqI1mRl0mwZ1cIE8GXmSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTAy/MzUwLTE1ODIwNzUw/NzktNDUyNi5wbmc.jpeg) | 2020-11-03 | Sir | Chasing Summer |
 | 88 | ![Cover](https://i.discogs.com/Ia1NpbsrLUey4sSPPp_fBKEFUhat37ofrgRXvq-nLfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY3/MjU2LTE2NjE0Mjcy/ODgtMzk2My5qcGVn.jpeg) | 2020-11-06 | Little Mix | Confetti |
 | 72 | ![Cover](https://i.discogs.com/6bV24U-T3F9GEasY92ZOKmrYhQ77Q5C5IxFFlhs4_ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTY4/OTI0LTE2MTA4ODE4/MzQtNjk0NC5wbmc.jpeg) | 2021-01-15 | why don&#39;t we | The Good Times and The Bad Ones |
 | 92 | ![Cover](https://i.discogs.com/_t_X6nPnHAkhcErbER75Is1F-X4Zy5NQStaC97YXffI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMw/NzczLTE2MjA0OTgy/MDktNjc3Ni5qcGVn.jpeg) | 2021-01-15 | Zayn | Nobody Is Listening |
 | 98 | ![Cover](https://i.discogs.com/H3-8GbHLwyDxb0neQ5bNSOWhGZvUqvsSjAQY8WO6KPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njc1/Mzk3LTE2MjA2ODg3/NTYtMzQxMC5qcGVn.jpeg) | 2021-01-27 | Tate McRae | greedy |
 | 93 | ![Cover](https://i.discogs.com/CbGTwmZ-ooKKLf74VA88yn2VC91x9r5tyuZY1k4nRMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzM1/MDM2LTE2MTQ2MzIx/NTItNjk0NS5qcGVn.jpeg) | 2021-02-26 | Madison Beer | Life Support |
-| 55 | ![Cover](https://i.discogs.com/b6OU0o3ph_a3LALWV4YLRgt3M_kIHcREtPsgnKCbGag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTUz/Njc4LTE2MTk5MzMx/MTktNTE2NC5qcGVn.jpeg) | 2021-03-19 | Paloma Mami | Sueños de Dalí |
+| 56 | ![Cover](https://i.discogs.com/b6OU0o3ph_a3LALWV4YLRgt3M_kIHcREtPsgnKCbGag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTUz/Njc4LTE2MTk5MzMx/MTktNTE2NC5qcGVn.jpeg) | 2021-03-19 | Paloma Mami | Sueños de Dalí |
 | 31 | ![Cover](https://i.discogs.com/BuOjppnUtBEf9mXTduoEqQxx-qD-RZxKZokUtCAujpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTYx/OTczLTE2MjM4NTEx/NjEtNjczMi5qcGVn.jpeg) | 2021-06-16 | Rebecca Black | Rebecca Black Was Here |
-| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8b9f8fc2e5b773cf59cd02e70ad9a5ba.png) | 2021-09-17 | The Plot in You | Swan Song |
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0212108b4e0ab55d86318a759de128fb.png) | 2022-08-26 | Nightlife | fallback |
+| 41 | ![Cover](https://i.discogs.com/5sLsNj-BLJZy7USjNv56Pdka1WfEiw1Bu57mSLorscI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDg5/MzU0LTE2MzA2MDU3/OTAtOTUxMS5qcGVn.jpeg) | 2021-09-03 | PRINCESA ALBA | besitos, cuídate |
+| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8b9f8fc2e5b773cf59cd02e70ad9a5ba.png) | 2021-09-17 | The Plot in You | Swan Song |
+| 1 | ![Cover](https://i.discogs.com/mFtnzZdQCEp3mWr4aNSCJnDoUQdAoSvvmKEpXgL9__A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTMy/OTcwLTE2NjE0ODA5/ODUtMjUyNi5qcGVn.jpeg) | 2021-10-08 | Magdalena Bay | Mercurial World |
+| 81 | ![Cover](https://i.discogs.com/NdXrcTOSCaDKPBJ5hmNRTTUFaZucN407sDW4p6o121o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk0/NDE5LTE2MzQyNzMx/MzItMzIzNS5qcGVn.jpeg) | 2021-10-15 | pinkpantheress | to hell with it |
+| 57 | ![Cover](https://i.discogs.com/CC5EazqdmYQMO8zWvhAK43xpliCH17sgFZNbuAeXfQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzY3/ODMyLTE2NjE5NDYx/NTgtNTYyMi5qcGVn.jpeg) | 2022-05-13 | Rema | Rave &amp; Roses |
+| 64 | ![Cover](https://i.discogs.com/764ggbeU4T6cV9z0uMt9qkLyxMQ1Mrr_64ex48_0mpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjA4/MDMyLTE2NTM2Njg4/MTctNjA0Mi5qcGVn.jpeg) | 2022-05-13 | Kendrick Lamar | Mr. Morale &amp; the Big Steppers |
+| 58 | ![Cover](https://i.discogs.com/eCVSLS5JsD0KgA4n2WGuASiWA5eJYjO4KnY3lDU5p1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzM2/MzktMTY1NjcwMTEx/NC02NjI0LmpwZWc.jpeg) | 2022-05-31 | Emilia | Tú Crees En Mí? |
+| 53 | ![Cover](https://i.discogs.com/70a32ERUwX5zTszx_ZSwnzQbbDsrU9iFtALxzAGmXC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjM0/Nzc5LTE2NTU3MTY5/ODEtMjUxNy5qcGVn.jpeg) | 2022-07-29 | Beyoncé | Renaissance |
+| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0212108b4e0ab55d86318a759de128fb.png) | 2022-08-26 | Nightlife | fallback |
 | 6 |  |  | Love Renaissance (LVRN) | Home For The Holidays |
 | 10 |  |  | Lawsy | Sexxnb, Vol. 1 |
-| 45 | ![Cover](https://i.discogs.com/mrdggEQW0kBUGjSpJGaWjBd1iYomN63hXqZ-zMzSzbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjY1/NjEwLTE2MjgwODQ3/NTEtODA0NC5qcGVn.jpeg) | 2021-07-30 | Billie Eilish | Happier Than Ever |
-| 41 | ![Cover](https://i.discogs.com/5sLsNj-BLJZy7USjNv56Pdka1WfEiw1Bu57mSLorscI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDg5/MzU0LTE2MzA2MDU3/OTAtOTUxMS5qcGVn.jpeg) | 2021-09-03 | PRINCESA ALBA | besitos, cuídate |
-| 81 | ![Cover](https://i.discogs.com/NdXrcTOSCaDKPBJ5hmNRTTUFaZucN407sDW4p6o121o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk0/NDE5LTE2MzQyNzMx/MzItMzIzNS5qcGVn.jpeg) | 2021-10-15 | pinkpantheress | to hell with it |
-| 56 | ![Cover](https://i.discogs.com/CC5EazqdmYQMO8zWvhAK43xpliCH17sgFZNbuAeXfQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzY3/ODMyLTE2NjE5NDYx/NTgtNTYyMi5qcGVn.jpeg) | 2022-05-13 | Rema | Rave &amp; Roses |
-| 64 | ![Cover](https://i.discogs.com/764ggbeU4T6cV9z0uMt9qkLyxMQ1Mrr_64ex48_0mpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjA4/MDMyLTE2NTM2Njg4/MTctNjA0Mi5qcGVn.jpeg) | 2022-05-13 | Kendrick Lamar | Mr. Morale &amp; the Big Steppers |
-| 57 | ![Cover](https://i.discogs.com/eCVSLS5JsD0KgA4n2WGuASiWA5eJYjO4KnY3lDU5p1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzM2/MzktMTY1NjcwMTEx/NC02NjI0LmpwZWc.jpeg) | 2022-05-31 | Emilia | Tú Crees En Mí? |
-| 52 | ![Cover](https://i.discogs.com/70a32ERUwX5zTszx_ZSwnzQbbDsrU9iFtALxzAGmXC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjM0/Nzc5LTE2NTU3MTY5/ODEtMjUxNy5qcGVn.jpeg) | 2022-07-29 | Beyoncé | Renaissance |
+| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3d8c6b5ea4a34c222a9a8069687c12e9.png) | 2019-03-01 | Doja Cat | Amala |
+| 47 | ![Cover](https://i.discogs.com/WIjnhsCvNbVcawOfytgzoluu7Iel8u4YVb0zd4HoFv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODky/MzgxLTE1OTk2OTU0/MDAtNjUzMC5qcGVn.jpeg) | 2019-10-21 | NU&#39;EST | The 5th Mini Album &#39;CANVAS&#39; |
+| 46 | ![Cover](https://i.discogs.com/mrdggEQW0kBUGjSpJGaWjBd1iYomN63hXqZ-zMzSzbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjY1/NjEwLTE2MjgwODQ3/NTEtODA0NC5qcGVn.jpeg) | 2021-07-30 | Billie Eilish | Happier Than Ever |
 | 24 | ![Cover](https://i.discogs.com/ZIKHzyGPe8HybCQYASiwTtHfy5cq45XSSas4h_Ottao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU5/MDUzLTE2NjI3MTY2/NTUtNzc2Ny5qcGVn.jpeg) | 2022-09-09 | John Legend | Legend |
-| 47 | ![Cover](https://i.discogs.com/D4qzc4voIZgRdhCkgYR357mmFPbJXRc_prt2ys8wkmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjUy/NzEwLTE3MDMwNDMy/MTctOTgxMy5wbmc.jpeg) | 2023 | Weeekly | ColoRise |
-| 18 | ![Cover](https://i.discogs.com/j8HDs1D5aUfUsb3I7r4JcCgAW82eNtIPCyIVx-sXw3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzUz/NDYwLTE2NzQyODE3/MDktNjcwNC5qcGVn.jpeg) | 2023-01-20 | Lukas Graham | 4 (The Pink Album) |
-| 51 | ![Cover](https://i.discogs.com/uxIuD1v9OKdaYJSDcagmx_D5w-8CCkfc1mYUffniY88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzU1/Mzg5LTE2NzgzNTM0/NTYtNjg1Ny5wbmc.jpeg) | 2023-03-10 | Nia Archives | Sunrise Bang Ur Head Against Tha Wall |
+| 48 | ![Cover](https://i.discogs.com/D4qzc4voIZgRdhCkgYR357mmFPbJXRc_prt2ys8wkmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjUy/NzEwLTE3MDMwNDMy/MTctOTgxMy5wbmc.jpeg) | 2023 | Weeekly | ColoRise |
+| 17 | ![Cover](https://i.discogs.com/j8HDs1D5aUfUsb3I7r4JcCgAW82eNtIPCyIVx-sXw3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzUz/NDYwLTE2NzQyODE3/MDktNjcwNC5qcGVn.jpeg) | 2023-01-20 | Lukas Graham | 4 (The Pink Album) |
+| 52 | ![Cover](https://i.discogs.com/uxIuD1v9OKdaYJSDcagmx_D5w-8CCkfc1mYUffniY88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzU1/Mzg5LTE2NzgzNTM0/NTYtNjg1Ny5wbmc.jpeg) | 2023-03-10 | Nia Archives | Sunrise Bang Ur Head Against Tha Wall |
 | 33 | ![Cover](https://i.discogs.com/bGlv6yZezeS_bN0YA-DHFtqs-GX2xKKcVWGk3KTCmys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDA1/MjE2LTE2ODY5NzEx/NDgtMzc0Mi5qcGVn.jpeg) | 2023-03-17 | T-Pain | On Top of the Covers |
 | 43 | ![Cover](https://i.discogs.com/Bswe2DndHJ7nTlDVOZ3mmTNYOfiV5vz_ZRiVmzicdZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzM2/NTEyLTE2ODk5MTQ3/NzItOTA0NS5qcGVn.jpeg) | 2023-07-21 | NewJeans | Get Up |
 | 26 | ![Cover](https://i.discogs.com/H5GUm3o8V0gyLuXSmzu1-n_7ZUJ5SZug4xFyzCq3NWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTI2/ODUxLTE3MDE4NzQw/MDEtMTkxMS5qcGVn.jpeg) | 2023-11-06 | Joony | Pretty In Black |
 | 35 | ![Cover](https://i.discogs.com/c7UloxsYz6bOg6XgjiAxSGxKtNsYwNE7MAS-fE5P3yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQ3/NjE3LTE3MTM4MTgz/MzYtMzYxMi5qcGVn.jpeg) | 2024-01-12 | Kali Uchis | orquídeas |
 | 38 | ![Cover](https://i.discogs.com/oxWvgq0INPQLKZ8kNx56wL3fuQw0pdOzOQZL27SADWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDAz/MTY5LTE3MDk2MDU2/MjYtNDQzMy5qcGVn.jpeg) | 2024-02-29 | Jacob Collier | Djesse Vol. 4 |
-| 14 | ![Cover](https://i.discogs.com/5kyoVWMlmVqLPtVJJ_S9gzca4FiYDa2LCJw29dhYCJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc3/NDc3LTE3MTQ3NzI0/MTgtNTI4OS5qcGVn.jpeg) | 2024-05-03 | Charlotte Day Wilson | Cyan Blue |
 | 40 | ![Cover](https://i.discogs.com/_TSU7-nl8t6suG-rtx6_eZMnUCsQ0il_1hBI92-iR4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTk4/MTQyLTE3MzA4NTkx/NTctMzkwMS5qcGVn.jpeg) | 2024-06-07 | Saint Levant | From Gaza, With Love |
-| 53 |  |  | MOONBIN&amp;SANHA(ASTRO) | INCENSE |
+| 54 |  |  | MOONBIN&amp;SANHA(ASTRO) | INCENSE |
 | 97 | ![Cover](https://i.discogs.com/jYulW1dgnwtJm-A5Z6EX83ts3fhL1vPz03jBu3t4aVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzk1/NDc3LTE2NjIxNTI5/NTctMjYxNC5wbmc.jpeg) | 2022-12-09 | Sabrina Carpenter | emails i can’t send fwd: |
 | 69 | ![Cover](https://i.discogs.com/f-i1GHcXHfbh40XCT3QHr8gjTn-q-0LeNo7dPXmIW-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MDUtMTE5MTYxNzky/OS5qcGVn.jpeg) | 2023-02 | The Boyz | THE BOYZ 8TH MINI ALBUM [BE AWAKE] |
 | 65 | ![Cover](https://i.discogs.com/OWTGjINyEZTJDx6bO5ZH053plgVkBBZeFf91pztN97U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg5/ODY1LTE2NzU1MjI4/MDItNzgxNy5qcGVn.jpeg) | 2023-02-03 | Raye | My 21st Century Blues |

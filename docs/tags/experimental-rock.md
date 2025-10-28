@@ -1,13 +1,17 @@
 ---
 category: genre
-date: 2025-10-26T03:16:45.557Z
+date: 2025-10-28T13:04:37.147Z
 permalink: tags/experimental-rock
 title: experimental rock
 ---
 
 ## experimental rock
 
-Last updated: <time datetime="2025-10-26T03:16:45.557Z">Sun Oct 26 2025 05:16:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T13:04:37.147Z">Tue Oct 28 2025 15:04:37 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Experimental rock is a subgenre of rock music that emphasizes challenging and unconventional approaches to composition and performance. It often features unconventional song structures, unconventional instruments, and an emphasis on texture, timbre, and atmosphere over traditional melodies and harmonies. The genre emerged in the 1960s as artists began to explore new sonic territories and experiment with new technologies and techniques. Some notable examples of experimental rock artists include The Velvet Underground, Pink Floyd, Radiohead, Sonic Youth, and Captain Beefheart.
 
 ### 100 chronological releases
 
@@ -20,6 +24,7 @@ Last updated: <time datetime="2025-10-26T03:16:45.557Z">Sun Oct 26 2025 05:16:45
 | 52 |  | 1979-09 | This Heat | This Heat |
 | 22 |  | 1980 | This Heat | Health and Efficiency |
 | 68 |  | 1981 | This Heat | Deceit |
+| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a5676e5dd25840428c9784b49d538de1.png) | 1981-06 | The Raincoats | Odyshape |
 | 47 | ![Cover](https://i.discogs.com/2sG_LginVQAaTO544PNuF03Y5TN3-Q9RR2VwvswsFuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzYw/MjItMTQzNTQyNDgz/NS05NTA1LmpwZWc.jpeg) | 1984 | Psychic TV | Allegory &amp; Self |
 | 35 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/105d5d8d95e64886c80af404ebcfdbe9.png) | 1985 | Tom Waits | Rain Dogs |
 | 33 | ![Cover](https://i.discogs.com/wT0zR-CjVvaVeNum9UPxXpWs3IsNQIQri52BoozBBLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODY2/MS0xMjI5NzMwNDAw/LmpwZWc.jpeg) | 1986 | Egg Hunt | 2- song |
@@ -30,7 +35,7 @@ Last updated: <time datetime="2025-10-26T03:16:45.557Z">Sun Oct 26 2025 05:16:45
 | 3 | ![Cover](https://i.discogs.com/mukkhboJ6hGOOSfw-fKFqg0lS-efIbZcosws1AcZEdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzAt/MTY2MzIzNTU3NS03/Mzg0LmpwZWc.jpeg) | 1993-08 | Stereolab | Transient Random-Noise Bursts with Announcements |
 | 30 | ![Cover](https://i.discogs.com/FvIIDY2rsiLI16fLbbVjTZOjUmJULFzjdIdJYwshdBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODk4/NS0xMzY0NzE3MzA0/LTMyMzYuanBlZw.jpeg) | 1993-09-25 | Boredoms | Super Ae |
 | 62 | ![Cover](https://i.discogs.com/wDWb12TttULXs4abqZP8V4lpFtAXJ1Rx0K0L9JimFrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjQx/NDQtMTQ2NTk1NTY5/Mi01NjExLmpwZWc.jpeg) | 1995 | Can | Tago Mago (Remastered) |
-| 87 |  | 1995-10-10 | Mr. Bungle | Disco Volante |
+| 86 |  | 1995-10-10 | Mr. Bungle | Disco Volante |
 | 50 | ![Cover](https://i.discogs.com/QmmlSchpr5-wX3rQYxyRB7IUEnxPICd1H-Fi9yMEh4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDIw/MS0xNjg1NzI5NDA5/LTc5OTkuanBlZw.jpeg) | 1997 | Slipknot | Bone Church |
 | 85 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b2e96aad8a0ce27401d08b3fdb242089.png) | 1999-03-15 | Blur | 13 |
 | 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/816c50e7a551418f8978d9b29e9ce9d1.png) | 1999-07-13 | Mr. Bungle | California |
@@ -42,7 +47,7 @@ Last updated: <time datetime="2025-10-26T03:16:45.557Z">Sun Oct 26 2025 05:16:45
 | 94 | ![Cover](https://i.discogs.com/CRgNL2ukskpQ2ANULMHP_LWj0kBSsuLBaNbVNaPOdNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTI0/NjItMTM0Mjg4MjY3/MC00OTgwLmpwZWc.jpeg) | 2001-05-25 | Pink Floyd | Atom Heart Mother (2011 Remastered Version) |
 | 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d59fb77b86ba4dd5d7f99c34564a56ce.png) | 2001-05-30 | Radiohead | Amnesiac |
 | 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/36c1a2833a82480890b0d79e32996fd0.png) | 2001-10 | Oysterhead | The Grand Pecking Order |
-| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1bccf60ba61b445c8ec9d8bfc0e84e64.png) | 2002-02-19 | Xiu Xiu | Knife Play |
+| 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1bccf60ba61b445c8ec9d8bfc0e84e64.png) | 2002-02-19 | Xiu Xiu | Knife Play |
 | 6 |  | 2002-07-30 | Xiu Xiu | Chapel of the Chimes |
 | 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bd757ae20efd45dfb68d8303646afa7d.png) | 2003 | The Mars Volta | De-Loused in the Comatorium |
 | 15 |  | 2003-05-20 | Serart | Serart |
@@ -82,7 +87,7 @@ Last updated: <time datetime="2025-10-26T03:16:45.557Z">Sun Oct 26 2025 05:16:45
 | 13 | ![Cover](https://i.discogs.com/lEW5fcBt54X2oxbQvUxKLf0mKHljIjyS1DO05amesP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDky/Mi0xMTA1ODk2ODk1/LmdpZg.jpeg) | 2014-05-19 | Todd Rundgren | A Wizard &#x2F; A True Star |
 | 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/07dcee7ec20f4777c7fd5d6261c6e389.png) | 2014-10-24 | Can | Ege Bamyasi (Remastered Version) |
 | 34 | ![Cover](https://i.discogs.com/hn1t-Pbr3MCP5uPvQyEbbnZ7atlwzqo6X9Lxsc_2inQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjA0/MTUtMTQxMTU2ODE2/Mi03MjYxLmpwZWc.jpeg) | 2014-12-23 | The Voidz | Tyranny |
-| 2 | ![Cover](https://i.discogs.com/F-1T2y1DmTGTgJdS7Ygv8mVBTL_u-5el0nY9rZdbCAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzEx/NjA5LTE2MTQ3Njg4/NTEtODcxMS5qcGVn.jpeg) | 2015 | The Velvet Underground | The Velvet Underground &amp; Nico 45th Anniversary (Super Deluxe Edition) |
+| 1 | ![Cover](https://i.discogs.com/F-1T2y1DmTGTgJdS7Ygv8mVBTL_u-5el0nY9rZdbCAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzEx/NjA5LTE2MTQ3Njg4/NTEtODcxMS5qcGVn.jpeg) | 2015 | The Velvet Underground | The Velvet Underground &amp; Nico 45th Anniversary (Super Deluxe Edition) |
 | 39 | ![Cover](https://i.discogs.com/1esJN7qUaeGraNgXdx_ZMCh5FZCi_7Hkn4HVadMmOAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTA2/NDUtMTQyMzg2NzYx/NS04MzQ2LmpwZWc.jpeg) | 2015-02-11 | Alex G | Blessing |
 | 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a63919a5f152e8242b735b022ded451d.png) | 2016-01-08 | David Bowie | Blackstar |
 | 45 | ![Cover](https://i.discogs.com/MA4ZEv96Jvz3jIbNepPEKj8d5oXvhAVawEf_0_DEOgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNzU2/MTQtMTQ1ODQ1NzQy/OS0zNjkxLmpwZWc.jpeg) | 2016-03-25 | The Drones | Feelin Kinda Free |
@@ -91,14 +96,13 @@ Last updated: <time datetime="2025-10-26T03:16:45.557Z">Sun Oct 26 2025 05:16:45
 | 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cced9669d6650c5ffc303ff5f6177a79.png) | 2016-06-16 | Swans | The Glowing Man |
 | 81 | ![Cover](https://i.discogs.com/DgKEYTEP9owntBV-nGNNK8ataF5T4Ul9yCTWcg37ngo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzA5/NDgtMTQ4NjA4NjAx/NS04NzQ4LmpwZWc.jpeg) | 2016-11-10 | Död Mark | Drabbad av sjukdom |
 | 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/328669bd1f5fea27e2b21de637eb63fe.png) | 2017 | David Bowie | Lodger (2017 Remaster) |
-| 1 | ![Cover](https://i.discogs.com/C2hmpO4E0zkVSU4rzbL8CiQWfQagTbprWbvXWzsiQXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTIz/MTc0LTE2NDAyOTE5/MzUtNTYxMi5qcGVn.jpeg) | 2017-11-10 | Exploded View | Summer Came Early |
 | 98 | ![Cover](https://i.discogs.com/-3YY309Xkt8CbmGQ1RNd_VPj6TFeGg5Be7HuM2qX-wI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzU2/NjM4LTE1MjE4NDQ2/MTgtODM1NS5qcGVn.jpeg) | 2018-03-30 | The Voidz | Virtue |
 | 23 |  | 2018-06-22 | Death Grips | Year of the Snitch |
 | 16 | ![Cover](https://i.discogs.com/KwIl5Q_04Id4LquwzDlISFjdgKZGcRSbUvCXJRpvlfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjY3/NjE3LTE2ODkyODg5/NTQtNzM1Ny5qcGVn.jpeg) | 2019 | Heccra | The Devil-Faces of My Old Friends, Beneath Me |
-| 89 | ![Cover](https://i.discogs.com/feYgd6wQK5F8kI99WIkGRqAq47FPJ4jkeEESe8Ggack/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYy/NTM0LTE1ODQ3OTY1/MzgtNDA0Ny5qcGVn.jpeg) | 2019-01-25 | BLACK MIDI | Sweater |
+| 88 | ![Cover](https://i.discogs.com/feYgd6wQK5F8kI99WIkGRqAq47FPJ4jkeEESe8Ggack/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYy/NTM0LTE1ODQ3OTY1/MzgtNDA0Ny5qcGVn.jpeg) | 2019-01-25 | BLACK MIDI | Sweater |
 | 17 | ![Cover](https://i.discogs.com/q05ufFNo12EyPBfAxZAhMDN19YYyW7y4Svhvnpm_cwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTgy/NjA3LTE1NDk1MDEx/NTAtMTkyMS5qcGVn.jpeg) | 2019-02-08 | Xiu Xiu | 13&quot; Frank Beltrame Italian Stiletto with Bison Horn Grips |
-| 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9d91bc288c1ebc2fff11062b7f1bae9c.png) | 2019-10-25 | Desert Sessions | Vols. 11 &amp; 12 |
-| 90 | ![Cover](https://i.discogs.com/pCDbXptBjJ6h_O51NwBXVopV4DN2E-I7mtYOjYbbibw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk0/NTgxLTE1OTk3NDkw/MjMtOTkzMy5qcGVn.jpeg) | 2020-09-23 | Clown Core | Van |
+| 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9d91bc288c1ebc2fff11062b7f1bae9c.png) | 2019-10-25 | Desert Sessions | Vols. 11 &amp; 12 |
+| 89 | ![Cover](https://i.discogs.com/pCDbXptBjJ6h_O51NwBXVopV4DN2E-I7mtYOjYbbibw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk0/NTgxLTE1OTk3NDkw/MjMtOTkzMy5qcGVn.jpeg) | 2020-09-23 | Clown Core | Van |
 | 67 | ![Cover](https://i.discogs.com/zVjcyJHU5ZFhfuEChQTeedgm9K3RKx-eWhP2ezC4OGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI1/MzM3LTE2MDQ2ODkw/NzMtMjkwMC5qcGVn.jpeg) | 2020-10-09 | Mary Lattimore | Silver Ladders |
 | 8 | ![Cover](https://i.discogs.com/5IX0qUUo6pzvym3CgtT2_pPuFXTKPFprs-LV5tz5dKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDgw/MzExLTE2Mzc4NjA1/OTgtMzM2OC5qcGVn.jpeg) | 2021 | My Morning Jacket | Chapter 1: The Sandworm Cometh - Early Recordings, B-Sides, Covers, y Mas |
 | 71 | ![Cover](https://i.discogs.com/d6bMsnc-wGhvy3-9NzjIKA6Xys6NWa9qt4FrpDtwq0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjIz/MjE3LTE2MjcyNDM2/MzAtMzU2My5qcGVn.jpeg) | 2021 | Low | HEY WHAT |
@@ -110,7 +114,7 @@ Last updated: <time datetime="2025-10-26T03:16:45.557Z">Sun Oct 26 2025 05:16:45
 | 41 | ![Cover](https://i.discogs.com/Cv5D5UY-aV_lYqeCdkTAwATw_KMK_WlPfn8vvSD5yoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI2/MzMwLTE1OTQ3OTc4/NDQtMzY2MC5wbmc.jpeg) | 2022 | Dean Blunt | Roaches 2012-2019 |
 | 10 | ![Cover](https://i.discogs.com/jyGZ2zPy8wdSCErgCdGk7lepiNE8X9h_pH9VgmyI4VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzY1/ODU2LTE2NDkyNjc1/NTctMjAzOC5qcGVn.jpeg) | 2022-04-08 | Jack White | Fear Of The Dawn |
 | 57 | ![Cover](https://i.discogs.com/taqay2QEX-0u6p5nGnYr_u-4az8E8Q00MB9Ujd_x4eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUw/MTM3LTE2NjI2MzQ0/NjYtMjc4My5qcGVn.jpeg) | 2022-09-08 | The Garden | Horseshit on route 66 |
-| 91 | ![Cover](https://i.discogs.com/G-yxy3E04TymKo2KN8WpjDyTvT0y-z0wSVZSJvI4FWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTY2/MzUtMTQ0MTg0OTc3/Ny0yNjAwLmpwZWc.jpeg) | 2023-04-28 | Brave Little Abacus | Just Got Back from the Discomfort We&#39;re Alright |
+| 90 | ![Cover](https://i.discogs.com/G-yxy3E04TymKo2KN8WpjDyTvT0y-z0wSVZSJvI4FWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTY2/MzUtMTQ0MTg0OTc3/Ny0yNjAwLmpwZWc.jpeg) | 2023-04-28 | Brave Little Abacus | Just Got Back from the Discomfort We&#39;re Alright |
 | 76 | ![Cover](https://i.discogs.com/KaEmygi5rPowjlbDacVBjK09aGOKMHz0MvNNw8fET78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzEw/MjE1LTE2ODYxMTI1/MDUtNzA4NC5qcGVn.jpeg) | 2023-06-09 | Squid | O Monolith |
 | 37 |  | 2023-09-01 | Sprain | The Lamb as Effigy |
 

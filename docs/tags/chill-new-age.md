@@ -1,27 +1,27 @@
 ---
 category: genre
-date: 2025-10-21T03:18:54.782Z
+date: 2025-10-28T13:36:16.554Z
 permalink: tags/chill-new-age
 title: chill new age
 ---
 
 ## chill new age
 
-Last updated: <time datetime="2025-10-21T03:18:54.782Z">Tue Oct 21 2025 06:18:54 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T13:36:16.554Z">Tue Oct 28 2025 15:36:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
 | 22 | ![Cover](https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg) | 1984 | Various Artists | Bossa Lounge Collection, Vol. 3 (Latin Bossa Music Selected By Enrico Donner) |
-| 4 | ![Cover](https://i.discogs.com/b9UnF2bqcCaShT95PT4pjgDVeL1EzOln0Hz5IgOQWp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzYy/NS0xMTczMDYxMTgz/LmpwZWc.jpeg) | 1993 | Sine | Cosmic Chill Lounge Vol.2 |
+| 5 | ![Cover](https://i.discogs.com/b9UnF2bqcCaShT95PT4pjgDVeL1EzOln0Hz5IgOQWp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzYy/NS0xMTczMDYxMTgz/LmpwZWc.jpeg) | 1993 | Sine | Cosmic Chill Lounge Vol.2 |
 | 29 |  | 1995-12-18 | Aural Float | Introspektives |
-| 2 |  | 2000-11-21 | Delerium | Poem |
+| 3 |  | 2000-11-21 | Delerium | Poem |
 | 35 | ![Cover](https://i.discogs.com/42adGXj48NldeV2oW3hZtOPs6pNRwPUHrya_T0xl_9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTc3/My0xMDk3NzgwNjcx/LmpwZw.jpeg) | 2001 | Erik Wøllo | Wind Journey |
 | 20 |  | 2003 | Dab | The Best |
 | 36 | ![Cover](https://i.discogs.com/iIfJNCSd_r5kROCCK9i1U6QvF1U5DyBof8ffcsgM4UU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTYz/NzYtMTQyOTAwMTcx/NS01ODgzLmpwZWc.jpeg) | 2003-01-01 | Ikarus | The Angkor Sessions |
 | 27 | ![Cover](https://i.discogs.com/nhqVUK8CmQZ2p0nsIDffb9ez_7kfwLKWckmr9EKbEUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM3/NjMtMTE5NzM1NzI5/MC5qcGVn.jpeg) | 2003-02-04 | Waterbone | Book of Stars - The Orion Prophecy |
-| 6 | ![Cover](https://i.discogs.com/12jkWnXzG9qpTFTtAKY6aUU9bnCesLa_e8QgLfq3odc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDIx/OS0xNDE3MTA3NzIw/LTQ0ODQuanBlZw.jpeg) | 2004 | Vargo | Beauty |
+| 7 | ![Cover](https://i.discogs.com/12jkWnXzG9qpTFTtAKY6aUU9bnCesLa_e8QgLfq3odc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDIx/OS0xNDE3MTA3NzIw/LTQ0ODQuanBlZw.jpeg) | 2004 | Vargo | Beauty |
 | 26 |  | 2004 | Various Artists | Zen Connection (disc 2: To the West) |
 | 48 | ![Cover](https://i.discogs.com/IycqllBrJVS0tZBE91SYgiViGsltSe4l5E-fe-kuiqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODI3/OS0xMTc3NTE0OTQ1/LmpwZWc.jpeg) | 2004 | Jasmon | Gentle Flowers |
 | 25 |  | 2004-09-28 | Nicholas Gunn | Breathe |
@@ -30,7 +30,7 @@ Last updated: <time datetime="2025-10-21T03:18:54.782Z">Tue Oct 21 2025 06:18:54
 | 46 |  | 2005-10-04 | Rue du Soleil | Essential Feelings |
 | 28 | ![Cover](https://i.discogs.com/JKM4ricsDKduwazOxcFDfbvgpubaC9sTx1L5URarQak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTU3/MjAtMTUyNjc1NTc1/Ny03MDAwLnBuZw.jpeg) | 2006 | AURAH | Kismet |
 | 41 | ![Cover](https://i.discogs.com/LSMzJFgm_HGhrWxdV1hasl0mcyqXlAU2LTtpcnVNSMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTE3/OTQ0LTE2OTY2Mjc2/MzMtNzUwMC5wbmc.jpeg) | 2006 | Diane Arkenstone | Following the Equator |
-| 5 |  | 2006-01-31 | Blue Stone | Breathe |
+| 6 |  | 2006-01-31 | Blue Stone | Breathe |
 | 43 | ![Cover](https://i.discogs.com/GM6OGKvovGKqqpS9MG1dPZpA54c0maDOwY7l1Me9xng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTQ5/MS0xMTU5ODA3MjY3/LmpwZWc.jpeg) | 2006-05-10 | Vargo | Get Back to Serenity: The Mixed Up - EP |
 | 17 |  | 2007 | Erik Wøllo | Elevations |
 | 11 | ![Cover](https://i.discogs.com/D25eFiP9GS2QvWNQ0M4qzTduTd266k6Sm0LY8-HgVVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDAy/MzgtMTIzMzI1NTA3/OC5naWY.jpeg) | 2008 | Gary B | The Best of Gary B On Cafe Del Mar |
@@ -42,10 +42,9 @@ Last updated: <time datetime="2025-10-21T03:18:54.782Z">Tue Oct 21 2025 06:18:54
 | 12 |  | 2009-02-14 | Balligomingo | Under an Endless Sky |
 | 50 |  | 2009-08-31 | Sleepthief | Labyrinthine Heart |
 | 14 |  | 2009-11-24 | Diane Arkenstone | This Sacred Land |
-| 7 | ![Cover](https://i.discogs.com/qQ43uZ4bKHb95fMNTesR-uTc_lZwGJP_0YNXlojU4xE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjA1/MDItMTM5MDQ4MDAx/My02NTMyLmpwZWc.jpeg) | 2009-12-01 | Gary B | Dreams 4 (2 CDs) |
 | 31 |  | 2010-05-11 | Carmen Rizzo | Looking Through Leaves |
 | 47 | ![Cover](https://i.discogs.com/dzNjwmFS0nVDSrK8kLL-pBAeayviZx6Ih8FIPqbb-Bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTY1/ODctMTI3MjcxODMw/OS5qcGVn.jpeg) | 2010-06-22 | David Starfire | Bollyhood Bass |
-| 1 |  | 2010-07-21 | Kirsty Hawkshaw &amp; Ulrich Schnauss | Two Trees |
+| 2 |  | 2010-07-21 | Kirsty Hawkshaw &amp; Ulrich Schnauss | Two Trees |
 | 23 |  | 2010-10-01 | Balligomingo | uaes Origins |
 | 32 | ![Cover](https://i.discogs.com/pC__PKfK-Iofx92mc5tMXsnLbNQEWaJtMBRzu3TtksY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg0/MjIyLTE1MTE0MzQ1/MzAtODgzOC5qcGVn.jpeg) | 2011-05-20 | Mystical Sun | Mystical Sun |
 | 24 |  | 2011-08-15 | Tigerforest | The Electric Tree |
@@ -53,8 +52,9 @@ Last updated: <time datetime="2025-10-21T03:18:54.782Z">Tue Oct 21 2025 06:18:54
 | 39 | ![Cover](https://i.discogs.com/x9c2pL-8JySQVpohmvxTp3taIFNy9QclrTy5Fshw45k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODQ1/MzktMTQ0MDM0NTE5/OC04NDM5LmpwZWc.jpeg) | 2011-12-09 | Sonic Adventure Project | Who Is In? |
 | 45 |  | 2012-10-26 | Delerium | Music Box Opera |
 | 21 | ![Cover](https://i.discogs.com/1PK_TsJ1FfgdSnvise_7PgnFrisGTMb1GSFqCVn8DS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjc1/MzItMTQ3NzgxODk5/Ni0yMTA0LmpwZWc.jpeg) | 2013 | Nicholas Gunn | Encanto |
+| 1 | ![Cover](https://i.discogs.com/JpnBZk50ZSYK-G_T_8AA0_FMwv2Au2W9UNV-zTIMbW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzc0/NjMtMTM2NDg0OTUw/MC02OTUwLmpwZWc.jpeg) | 2013-01-30 | David Starfire | Ascend |
 | 40 |  | 2013-05-01 | Mythos | Journey |
-| 3 | ![Cover](https://i.discogs.com/1PK_TsJ1FfgdSnvise_7PgnFrisGTMb1GSFqCVn8DS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjc1/MzItMTQ3NzgxODk5/Ni0yMTA0LmpwZWc.jpeg) | 2013-09-10 | Nicholas Gunn | Beyond Grand Canyon |
+| 4 | ![Cover](https://i.discogs.com/1PK_TsJ1FfgdSnvise_7PgnFrisGTMb1GSFqCVn8DS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjc1/MzItMTQ3NzgxODk5/Ni0yMTA0LmpwZWc.jpeg) | 2013-09-10 | Nicholas Gunn | Beyond Grand Canyon |
 | 19 | ![Cover](https://i.discogs.com/Smb4BJmc0HAlIbSWeSW0DHHE97j9k8bH4dmEZMF0pjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzAz/OTMtMTQ1MTg2MDE3/Ny02OTM5LmpwZWc.jpeg) | 2013-10-30 | Edelis | Logos |
 | 44 | ![Cover](https://i.discogs.com/lgQzA4tj_OJ9TwMdr4yAryMLG3bMF_WouwGCvicDPzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTcx/OTYtMTQzODczNDgw/My0yNDQ1LmpwZWc.jpeg) | 2014 | Gary B | Turn This Around |
 | 33 | ![Cover](https://i.discogs.com/ekiUtS5rG_UesGBSA6hytAUMCo2dw2xW8Ii6rrVY_Ao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjU4/NjctMTQxNjUyMjI3/Mi02NTM5LmpwZWc.jpeg) | 2014-11-21 | Vargo | Goodbye Is a New Beginning |
