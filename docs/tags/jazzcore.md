@@ -1,68 +1,68 @@
 ---
 category: genre
-date: 2025-10-22T02:08:25.132Z
+date: 2025-10-28T15:09:50.719Z
 permalink: tags/jazzcore
 title: jazzcore
 ---
 
 ## jazzcore
 
-Last updated: <time datetime="2025-10-22T02:08:25.132Z">Wed Oct 22 2025 05:08:25 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T15:09:50.719Z">Tue Oct 28 2025 17:09:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 17 |  |  | Lost Without Direction | Directions |
-| 18 |  |  | gaop | Pictures of Gold and Terror |
+| 18 |  |  | Lost Without Direction | Directions |
+| 19 |  |  | gaop | Pictures of Gold and Terror |
 | 49 | ![Cover](https://i.discogs.com/jiAvLFPb0Z8eTbWcN9SmJx3BIpclU8GzjKf-Bj_C-AU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDY5/NDQtMTI3NTgyNzc3/Ni5qcGVn.jpeg) | 1987 | Miladojka Youneed | Ghastly Beyond Belief |
-| 29 |  | 1990-02-16 | John Zorn | Naked City |
-| 25 | ![Cover](https://i.discogs.com/WjYOvlrc8pVYmBG9O60QTtvgRAjJiaN9wlJ2iRm_vPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODU5/Ny0xMTE4MDUxNDI5/LmpwZw.jpeg) | 1991 | Beefeater | Plays for Lovers&#x2F;House Burning Down |
-| 26 |  | 1991 | Alboth! | Amour 1991 |
-| 14 |  | 1992 | Naked City | Grand Guignol |
-| 6 | ![Cover](https://i.discogs.com/IqvE41wvurRYkeiqQtEdJV5eHJtUQaoOeYXM0xqR3zc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTMx/NC0xMjYwMjg0NDEx/LmpwZWc.jpeg) | 1993 | Naked City | Black Box |
-| 33 |  | 1993 | Naked City | Radio |
-| 22 | ![Cover](https://i.discogs.com/2DzpeoCP2kQGXjrEh5Hyvk8akymb63vz4yd_pKlQfdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODM1/OTcxLTE2NTc0MDEw/OTItODU1OS5qcGVn.jpeg) | 1994 | Altered States | Lithuania and Estonia Live |
-| 7 |  | 1996 | Creedle | When the Wind Blows |
-| 3 |  | 1997 | Alboth! | Amor Fati |
-| 19 | ![Cover](https://i.discogs.com/1jA1_jZIrAL6DpDpS8O4p9g0dPrSAvlLEj6YW6YznxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTE3/OTM0LTE1NjQwNDIw/MDUtMTc1My5qcGVn.jpeg) | 1997 | Victims Family | White Bread Blues - Things I Hate To Admit |
-| 43 | ![Cover](https://i.discogs.com/p00GhICCCqGeScWwM52g8YfzVUBZ8oN10S_Hbgdjdc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTI1/MC0xNTE1OTI2Nzky/LTQyMTYuanBlZw.jpeg) | 1997 | Painkiller | Collected Works Disc 1 |
-| 35 | ![Cover](https://i.discogs.com/Vb4JkQqsIAV__sg0w0sCjo7PhkeITzdt2WopqsDzfy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE5/MzYtMTMyMzM1OTY5/Ny5qcGVn.jpeg) | 1998 | Ruins | Vrresto |
-| 23 | ![Cover](https://i.discogs.com/GIoGt4KRlLUSao08hxyN5KV56xCh6TvZV3pOOVTdGaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDY3/MS0xNDQ2MjIxNzQw/LTg1MjIuanBlZw.jpeg) | 2002 | The Dillinger Escape Plan | The Dillinger Escape Plan (Re-Issue) |
-| 30 | ![Cover](https://i.discogs.com/uUP94XDe8KnsJDWF0w7hNkcb-Vv0mp1d1EHsqAiyWGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/MzgtMTYyODk1NDI5/Mi01MDYyLmpwZWc.jpeg) | 2002-05-25 | Knead | Knead |
-| 16 |  | 2004 | The Discord of A Forgotten Sketch | demo |
-| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6da8ba4c2573ee67de0dc57c0be4ab37.png) | 2004 | The Discord of A Forgotten Sketch | TDOAFS |
-| 12 | ![Cover](https://i.discogs.com/hSaK8Gfzb6SsGScl0WOHYUoCjGxOkvrAcE4tbxA8cIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njcy/NzItMTQ4ODE1MDA0/MS02ODc0LmpwZWc.jpeg) | 2004-11-30 | Lights for Nero | and little lambs eat nations |
-| 38 | ![Cover](https://i.discogs.com/9dwCxwgT0_PD3tPM9FeAY-X9IFhNi_M1ENye_Hmyv7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mzk1/MjYtMTQ5NDU5Mzc4/NC03OTA5LmpwZWc.jpeg) | 2005 | testadeporcu | Acciaiu |
+| 30 |  | 1990-02-16 | John Zorn | Naked City |
+| 26 | ![Cover](https://i.discogs.com/WjYOvlrc8pVYmBG9O60QTtvgRAjJiaN9wlJ2iRm_vPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODU5/Ny0xMTE4MDUxNDI5/LmpwZw.jpeg) | 1991 | Beefeater | Plays for Lovers&#x2F;House Burning Down |
+| 27 |  | 1991 | Alboth! | Amour 1991 |
+| 15 |  | 1992 | Naked City | Grand Guignol |
+| 7 | ![Cover](https://i.discogs.com/IqvE41wvurRYkeiqQtEdJV5eHJtUQaoOeYXM0xqR3zc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTMx/NC0xMjYwMjg0NDEx/LmpwZWc.jpeg) | 1993 | Naked City | Black Box |
+| 34 |  | 1993 | Naked City | Radio |
+| 23 | ![Cover](https://i.discogs.com/2DzpeoCP2kQGXjrEh5Hyvk8akymb63vz4yd_pKlQfdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODM1/OTcxLTE2NTc0MDEw/OTItODU1OS5qcGVn.jpeg) | 1994 | Altered States | Lithuania and Estonia Live |
+| 8 |  | 1996 | Creedle | When the Wind Blows |
+| 4 |  | 1997 | Alboth! | Amor Fati |
+| 20 | ![Cover](https://i.discogs.com/1jA1_jZIrAL6DpDpS8O4p9g0dPrSAvlLEj6YW6YznxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTE3/OTM0LTE1NjQwNDIw/MDUtMTc1My5qcGVn.jpeg) | 1997 | Victims Family | White Bread Blues - Things I Hate To Admit |
+| 36 | ![Cover](https://i.discogs.com/Vb4JkQqsIAV__sg0w0sCjo7PhkeITzdt2WopqsDzfy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE5/MzYtMTMyMzM1OTY5/Ny5qcGVn.jpeg) | 1998 | Ruins | Vrresto |
+| 24 | ![Cover](https://i.discogs.com/GIoGt4KRlLUSao08hxyN5KV56xCh6TvZV3pOOVTdGaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDY3/MS0xNDQ2MjIxNzQw/LTg1MjIuanBlZw.jpeg) | 2002 | The Dillinger Escape Plan | The Dillinger Escape Plan (Re-Issue) |
+| 31 | ![Cover](https://i.discogs.com/uUP94XDe8KnsJDWF0w7hNkcb-Vv0mp1d1EHsqAiyWGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/MzgtMTYyODk1NDI5/Mi01MDYyLmpwZWc.jpeg) | 2002-05-25 | Knead | Knead |
+| 17 |  | 2004 | The Discord of A Forgotten Sketch | demo |
+| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6da8ba4c2573ee67de0dc57c0be4ab37.png) | 2004 | The Discord of A Forgotten Sketch | TDOAFS |
+| 13 | ![Cover](https://i.discogs.com/hSaK8Gfzb6SsGScl0WOHYUoCjGxOkvrAcE4tbxA8cIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njcy/NzItMTQ4ODE1MDA0/MS02ODc0LmpwZWc.jpeg) | 2004-11-30 | Lights for Nero | and little lambs eat nations |
+| 39 | ![Cover](https://i.discogs.com/9dwCxwgT0_PD3tPM9FeAY-X9IFhNi_M1ENye_Hmyv7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mzk1/MjYtMTQ5NDU5Mzc4/NC03OTA5LmpwZWc.jpeg) | 2005 | testadeporcu | Acciaiu |
 | 45 |  | 2006-04-18 | John Zorn | Moonchild: Songs Without Words |
 | 46 | ![Cover](https://i.discogs.com/_2gwHYj20UgbVlnQ1PA1jiNeQHTJp63iDDiH4K4-V6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA4/NzI4LTE1MTM4OTY1/NzgtODAyNy5qcGVn.jpeg) | 2007 | Kids Eat Crayons | Kids Eat Crayons is for Lovers |
 | 47 | ![Cover](https://i.discogs.com/J6E-ppRhnH516ix0eGCqITxzNMsaNVbu0FrjaEo176M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE3/NzEtMTIxOTk5OTI2/NC5qcGVn.jpeg) | 2007 | Little Women | Teeth |
-| 10 | ![Cover](https://i.discogs.com/DJFTulmWlMuDh1aDyhKx5VoDeM8kgILsXIdVyXvtZEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDU1/NjUtMTQzODQ2MjI3/My00OTczLmpwZWc.jpeg) | 2007-02-27 | Ingenium | 2nd Sun in the Eclipse |
-| 28 |  | 2007-12 | The Mass | Holocene #6 |
-| 8 | ![Cover](https://i.discogs.com/T_dc7bnc_u5KIPub2dPEAsMfDz_sk3nLWtKiKnXFt6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODY2/ODQtMTQxMDcxNTYx/Ni02MjkzLmpwZWc.jpeg) | 2008 | A Fashionable Disease | A Fashionable Disease&#x2F;Wozzeck ft Dario Fariello split CD |
-| 11 | ![Cover](https://i.discogs.com/T_dc7bnc_u5KIPub2dPEAsMfDz_sk3nLWtKiKnXFt6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODY2/ODQtMTQxMDcxNTYx/Ni02MjkzLmpwZWc.jpeg) | 2008 | A Fashionable Disease | Untitled Album |
+| 11 | ![Cover](https://i.discogs.com/DJFTulmWlMuDh1aDyhKx5VoDeM8kgILsXIdVyXvtZEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDU1/NjUtMTQzODQ2MjI3/My00OTczLmpwZWc.jpeg) | 2007-02-27 | Ingenium | 2nd Sun in the Eclipse |
+| 29 |  | 2007-12 | The Mass | Holocene #6 |
+| 9 | ![Cover](https://i.discogs.com/T_dc7bnc_u5KIPub2dPEAsMfDz_sk3nLWtKiKnXFt6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODY2/ODQtMTQxMDcxNTYx/Ni02MjkzLmpwZWc.jpeg) | 2008 | A Fashionable Disease | A Fashionable Disease&#x2F;Wozzeck ft Dario Fariello split CD |
+| 12 | ![Cover](https://i.discogs.com/T_dc7bnc_u5KIPub2dPEAsMfDz_sk3nLWtKiKnXFt6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODY2/ODQtMTQxMDcxNTYx/Ni02MjkzLmpwZWc.jpeg) | 2008 | A Fashionable Disease | Untitled Album |
 | 50 |  | 2008-05-14 | ミドリ | あらためまして、はじめまして、ミドリです。 |
-| 42 |  | 2008-08-04 | NEIZAN | Beijing 2008 |
-| 20 |  | 2008-11-10 | NEIZAN | Broken Toys |
-| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/55ca061e63007179b373f84652bb78c3.png) | 2010-06-22 | Yakuza | Of Seismic Consequence |
-| 40 | ![Cover](https://i.discogs.com/D4RiyLhudsHIvtUtTIWNeim4wHUA3K-75WpX_qTUkR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUy/NTktMTIzNTQ4MTcx/OC5qcGVn.jpeg) | 2010-08-10 | Grey Matter | Grey Matter X Nuclear Moms |
-| 2 |  | 2011-01-29 | telingaberdarah | Kuping Gatal |
-| 15 |  | 2011-10-31 | telingaberdarah | bercerita tentang akhir kisah sepasang kelinci yang sedang memadu kasih |
-| 1 | ![Cover](https://i.discogs.com/_rDgALbA3DPJvmPDYDqXaJelHJmKcAjWeWA2l3AureA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDUw/NzAtMTM3MzQzNjQ0/OC0yNjIyLmpwZWc.jpeg) | 2012-08-01 | Jerseyband | Forever Hammer |
-| 13 |  | 2013-05-14 | The Dillinger Escape Plan | One of Us Is the Killer |
+| 43 |  | 2008-08-04 | NEIZAN | Beijing 2008 |
+| 21 |  | 2008-11-10 | NEIZAN | Broken Toys |
+| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/55ca061e63007179b373f84652bb78c3.png) | 2010-06-22 | Yakuza | Of Seismic Consequence |
+| 41 | ![Cover](https://i.discogs.com/D4RiyLhudsHIvtUtTIWNeim4wHUA3K-75WpX_qTUkR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUy/NTktMTIzNTQ4MTcx/OC5qcGVn.jpeg) | 2010-08-10 | Grey Matter | Grey Matter X Nuclear Moms |
+| 3 |  | 2011-01-29 | telingaberdarah | Kuping Gatal |
+| 16 |  | 2011-10-31 | telingaberdarah | bercerita tentang akhir kisah sepasang kelinci yang sedang memadu kasih |
+| 2 | ![Cover](https://i.discogs.com/_rDgALbA3DPJvmPDYDqXaJelHJmKcAjWeWA2l3AureA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDUw/NzAtMTM3MzQzNjQ0/OC0yNjIyLmpwZWc.jpeg) | 2012-08-01 | Jerseyband | Forever Hammer |
+| 42 |  |  | Amateur Theory | Amateur Theory - EP |
+| 28 |  | 2013 | Jean Louis | Uranus |
+| 14 |  | 2013-05-14 | The Dillinger Escape Plan | One of Us Is the Killer |
+| 37 | ![Cover](https://i.discogs.com/wnyUd1fqk-kU1BaXssNbmRXoTIpQ0LiAsx96vTEl51Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODIy/NjUtMTQwMjUwNTQ3/OC05MDc5LmpwZWc.jpeg) | 2014 | Tom Moto | ALLOB ALLEN |
 | 48 | ![Cover](https://i.discogs.com/rvsZytd7_wc6j4GVbM0mBrXInSKmB0_0Tav68sbmbxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjU0/MjMtMTQwMDk4MTAw/Mi03NDY1LmpwZWc.jpeg) | 2014-04-29 | Candiria | Invaders 7 Inch |
-| 37 |  | 2014-04-30 | Hollow Ran | Because |
-| 4 | ![Cover](https://i.discogs.com/NODSd8eVVFk4u6joad-tLcBSyg_ASvBENF5DkLJzQOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDkx/NTMtMTQ0Mzc5Njcx/OS0xMjE1LnBuZw.jpeg) | 2015-07-01 | Squartet | Adplicatio Minima |
-| 5 |  |  | [Br]om | Aboom |
-| 27 |  | 2013 | Jean Louis | Uranus |
-| 36 | ![Cover](https://i.discogs.com/wnyUd1fqk-kU1BaXssNbmRXoTIpQ0LiAsx96vTEl51Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODIy/NjUtMTQwMjUwNTQ3/OC05MDc5LmpwZWc.jpeg) | 2014 | Tom Moto | ALLOB ALLEN |
-| 24 | ![Cover](https://i.discogs.com/bBvtYWRZ9YLUeHkZ7QCeWpSD7qCmQBkjksG2K82P4ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjAz/ODgwLTE1NzgwMDQ1/MTUtMjAwNy5qcGVn.jpeg) | 2018-02-05 | Lights for Nero | Dying To Shed Light On The Narrow Path Of The Anathema Heist |
+| 38 |  | 2014-04-30 | Hollow Ran | Because |
+| 5 | ![Cover](https://i.discogs.com/NODSd8eVVFk4u6joad-tLcBSyg_ASvBENF5DkLJzQOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDkx/NTMtMTQ0Mzc5Njcx/OS0xMjE1LnBuZw.jpeg) | 2015-07-01 | Squartet | Adplicatio Minima |
+| 25 | ![Cover](https://i.discogs.com/bBvtYWRZ9YLUeHkZ7QCeWpSD7qCmQBkjksG2K82P4ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjAz/ODgwLTE1NzgwMDQ1/MTUtMjAwNy5qcGVn.jpeg) | 2018-02-05 | Lights for Nero | Dying To Shed Light On The Narrow Path Of The Anathema Heist |
 | 44 | ![Cover](https://i.discogs.com/CybB9vwpwfm1cE6JqezrOQvHYjJZpfm3Qwz8UNQp1Zo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQw/NTA1LTE1NDEwNjgz/OTQtMTA0MC5qcGVn.jpeg) | 2018-07 | Cause For Effect | Brutal Prog |
-| 32 | ![Cover](https://i.discogs.com/u22IutF0GTEveWsvH-ifvhV9Up8t6FFmfuFVRrju_ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcx/NzkxLTE1NDE2MzAy/NjUtODEzMy5qcGVn.jpeg) | 2018-09-28 | Albatre | The Fall of the Damned |
-| 9 | ![Cover](https://i.discogs.com/Kb9V7jcIi9Sk_YfcBvA_Z6fyD8T1V5ab84Svmdb_e48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTAy/NzIyLTE1NTU0MjE2/NTctMzUzNS5qcGVn.jpeg) | 2019-03-23 | Tryptamyne | Tryptamyne |
-| 31 | ![Cover](https://i.discogs.com/DjUmVHeaTRFAgsOU_1DaqY2fsacVJ8a9xzB_3tRh-dU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjg1/MjcwLTE2Nzc4MDg4/MjYtNjg0MS5qcGVn.jpeg) | 2019-07-03 | The Water Fox | Elk &amp; The Underground Bull Riding Association |
-| 34 |  |  | Злурад | Во благо злу |
-| 41 |  |  | Amateur Theory | Amateur Theory - EP |
+| 33 | ![Cover](https://i.discogs.com/u22IutF0GTEveWsvH-ifvhV9Up8t6FFmfuFVRrju_ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcx/NzkxLTE1NDE2MzAy/NjUtODEzMy5qcGVn.jpeg) | 2018-09-28 | Albatre | The Fall of the Damned |
+| 10 | ![Cover](https://i.discogs.com/Kb9V7jcIi9Sk_YfcBvA_Z6fyD8T1V5ab84Svmdb_e48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTAy/NzIyLTE1NTU0MjE2/NTctMzUzNS5qcGVn.jpeg) | 2019-03-23 | Tryptamyne | Tryptamyne |
+| 32 | ![Cover](https://i.discogs.com/DjUmVHeaTRFAgsOU_1DaqY2fsacVJ8a9xzB_3tRh-dU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjg1/MjcwLTE2Nzc4MDg4/MjYtNjg0MS5qcGVn.jpeg) | 2019-07-03 | The Water Fox | Elk &amp; The Underground Bull Riding Association |
+| 1 | ![Cover](https://i.discogs.com/Vc1cTUnQDVoZkU9nwy974cb_MHLQbOf_NzK4__lnyyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDEy/Ny0xNTIyNDczNTY0/LTYxNDUuanBlZw.jpeg) | 2023-12-15 | Biodome | LORD OF THE DANCE |
+| 6 |  |  | [Br]om | Aboom |
+| 35 |  |  | Злурад | Во благо злу |
 | 51 | ![Cover](https://i.discogs.com/JsKZULz9aoPFoJkqZBusnDr1hx_yhj9t1KSyk9ei9PI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTk5/OTA3LTE1NDYxOTAz/MjMtMzg1OS5qcGVn.jpeg) | 1986 | Victims Family | Voltage &amp; Violets |
 | 52 |  | 2014-04-29 | Candiria | Invaders |
 | 53 |  |  | Mary Weldon | Dementio Remixes |

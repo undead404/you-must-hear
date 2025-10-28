@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-24T12:11:07.634Z
+date: 2025-10-28T15:09:42.356Z
 permalink: tags/new-age-fusion
 title: new age fusion
 ---
 
 ## new age fusion
 
-Last updated: <time datetime="2025-10-24T12:11:07.634Z">Fri Oct 24 2025 15:11:07 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T15:09:42.356Z">Tue Oct 28 2025 17:09:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -16,15 +16,14 @@ Last updated: <time datetime="2025-10-24T12:11:07.634Z">Fri Oct 24 2025 15:11:07
 | 22 |  | 1974 | Various Artists | Windham Hill Chill (disc 1: Ambient) |
 | 9 | ![Cover](https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg) | 1977 | Various Artists | New York Lounge Café |
 | 63 | ![Cover](https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg) | 1984 | Various Artists | Bossa Lounge Collection, Vol. 3 (Latin Bossa Music Selected By Enrico Donner) |
-| 5 |  | 1987 | Various Artists | Chamonix Mont Blanc Chillhouse Deluxe |
+| 6 |  | 1987 | Various Artists | Chamonix Mont Blanc Chillhouse Deluxe |
 | 42 | ![Cover](https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg) | 1987 | Various Artists | Hotel Tara 2 |
 | 70 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1987 | Various Artists | Pure Moods IV |
-| 6 |  | 1988 | Various Artists | Tunguska Chillout Grooves, Volume 2 |
+| 7 |  | 1988 | Various Artists | Tunguska Chillout Grooves, Volume 2 |
 | 36 | ![Cover](https://i.discogs.com/b9UnF2bqcCaShT95PT4pjgDVeL1EzOln0Hz5IgOQWp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzYy/NS0xMTczMDYxMTgz/LmpwZWc.jpeg) | 1993 | Sine | Cool Off Chillout |
 | 48 | ![Cover](https://i.discogs.com/b9UnF2bqcCaShT95PT4pjgDVeL1EzOln0Hz5IgOQWp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzYy/NS0xMTczMDYxMTgz/LmpwZWc.jpeg) | 1993 | Sine | Cosmic Chill Lounge Vol.3 |
 | 59 | ![Cover](https://i.discogs.com/b9UnF2bqcCaShT95PT4pjgDVeL1EzOln0Hz5IgOQWp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzYy/NS0xMTczMDYxMTgz/LmpwZWc.jpeg) | 1993 | Sine | Cosmic Chill Lounge Vol.2 |
 | 68 |  | 1995-12-18 | Aural Float | Introspektives |
-| 7 | ![Cover](https://i.discogs.com/p17dK-V_r1EuSIpFHT-xCpIfgGlJGas433SJBoI8SS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTEw/Njg1LTE1MTc2MzY4/NjEtNjE1MC5qcGVn.jpeg) | 1996 | Nusrat Fateh Ali Khan | Ambient 3 - The Music Of Changes : A Brief History Of Ambient Volume 3 [Disc 2] |
 | 34 | ![Cover](https://i.discogs.com/pug0oS0L640vp-8W-nXH_Ter3Tbgi45kwBz6rY4zPr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg2/NjE3LTE3MjU4MTYz/MDAtODYzMS5qcGVn.jpeg) | 1996 | Various Artists | Suntheca Music presents: SPA Collection Vol. 3 (A Selection Of Finest Lounge &amp; Chillout Music) |
 | 38 | ![Cover](https://i.discogs.com/pug0oS0L640vp-8W-nXH_Ter3Tbgi45kwBz6rY4zPr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg2/NjE3LTE3MjU4MTYz/MDAtODYzMS5qcGVn.jpeg) | 1996 | Various Artists | Ibiza Chillhouse Deluxe, Vol. 2 (A Great Selection of the Finest Chillhouse Music) |
 | 8 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1998 | Various Artists | Latin Lounge Vibes |
@@ -40,7 +39,7 @@ Last updated: <time datetime="2025-10-24T12:11:07.634Z">Fri Oct 24 2025 15:11:07
 | 56 |  | 2002-06-11 | Balligomingo | Beneath The Surface |
 | 77 | ![Cover](https://i.discogs.com/qdNEepB9bFgCN9jLdDUKqIW3TaAuYJLkTTLamyLiKs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODcz/LTEzNjMxMTQ3NTEt/NDAwMS5qcGVn.jpeg) | 2002-07-01 | Al-pha X | Gravity |
 | 84 | ![Cover](https://i.discogs.com/lgYJfCRFSoEJqp-82PTVPf3pY3FxrwiKtz3K9bKlZ1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDky/MzMtMTM0MzQyNDcy/MC03ODg5LmpwZWc.jpeg) | 2002-07-01 | Eccodek | More Africa in Us |
-| 2 |  | 2003 | Various Artists | The Mystic Experience, Volume 1: Gregorian Voices and Sacred Sounds |
+| 3 |  | 2003 | Various Artists | The Mystic Experience, Volume 1: Gregorian Voices and Sacred Sounds |
 | 30 | ![Cover](https://i.discogs.com/IVyWhKp5Wr70xONCuT0acfcYOL4wQ1NxH7gH6QwA3B4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODAx/OC0xMTY3Nzc3MTgy/LmpwZWc.jpeg) | 2003 | Zorg | Zorg&#39;s Private Life |
 | 35 |  | 2003 | Various Artists | SPA Collection, Vol. 5 (A Selection of the Finest Lounge &amp; Chillout Sounds) |
 | 62 |  | 2003 | Dab | The Best |
@@ -52,6 +51,7 @@ Last updated: <time datetime="2025-10-24T12:11:07.634Z">Fri Oct 24 2025 15:11:07
 | 19 | ![Cover](https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg) | 2004 | Various Artists | Season Greeting&#39;s Lounge Collection |
 | 66 |  | 2004 | Various Artists | Zen Connection (disc 2: To the West) |
 | 78 | ![Cover](https://i.discogs.com/IycqllBrJVS0tZBE91SYgiViGsltSe4l5E-fe-kuiqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1ODI3/OS0xMTc3NTE0OTQ1/LmpwZWc.jpeg) | 2004 | Jasmon | Gentle Flowers |
+| 1 | ![Cover](https://i.discogs.com/hWy6iHOIhrC26-RY57m72hKUYb3CDdHu-jfqNJRoWZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODIz/NzYtMTY4NzIzNjA1/Ni05NDg5LmpwZWc.jpeg) | 2005 | Carmen Rizzo | Carmen Rizzo f&#x2F; Jem |
 | 25 | ![Cover](https://i.discogs.com/ocDcXaQwsSpJgeD8SzpNFdJ3Y00_bqaEErYymVVAfGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzM5/Mi0xMjMzMTM1MzE4/LmpwZWc.jpeg) | 2005 | Dubdiver | Liquid Meditations (Ambient Reworks) |
 | 58 | ![Cover](https://i.discogs.com/lgYJfCRFSoEJqp-82PTVPf3pY3FxrwiKtz3K9bKlZ1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDky/MzMtMTM0MzQyNDcy/MC03ODg5LmpwZWc.jpeg) | 2005 | Eccodek | Voices Have Eyes |
 | 73 |  | 2005-09-27 | Carmen Rizzo | The Lost Art of the Idle Moment |
@@ -93,10 +93,10 @@ Last updated: <time datetime="2025-10-24T12:11:07.634Z">Fri Oct 24 2025 15:11:07
 | 44 | ![Cover](https://i.discogs.com/jz_CnmdLEpTNCLn2csz4IgUD1p-8sCy8doHVdFizeYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzc1/NjEtMTUwMzU5Mjcw/My0zNTQ2LmpwZWc.jpeg) | 2011-09-16 | Eccodek | Remixtasy |
 | 71 | ![Cover](https://i.discogs.com/x9c2pL-8JySQVpohmvxTp3taIFNy9QclrTy5Fshw45k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODQ1/MzktMTQ0MDM0NTE5/OC04NDM5LmpwZWc.jpeg) | 2011-12-09 | Sonic Adventure Project | Who Is In? |
 | 53 | ![Cover](https://i.discogs.com/CE0NAG-fSWru9rHxstgwU7z93ffITgXhdmQfsNbZP0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODY5/MzEtMTQ2MDYyNDkx/NS02Njc4LmpwZWc.jpeg) | 2012 | Jasmon | Shangri-La |
-| 3 | ![Cover](https://i.discogs.com/IUalJT_NUOUXlbtf_slZb53ybZb6PDUVaMEiFUQkbJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTE4/NTItMTM0ODk3MjEz/Mi05NTc0LmpwZWc.jpeg) | 2012-06-10 | Ephemeral Mists | Illusions Blooming Softly |
+| 4 | ![Cover](https://i.discogs.com/IUalJT_NUOUXlbtf_slZb53ybZb6PDUVaMEiFUQkbJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTE4/NTItMTM0ODk3MjEz/Mi05NTc0LmpwZWc.jpeg) | 2012-06-10 | Ephemeral Mists | Illusions Blooming Softly |
 | 50 | ![Cover](https://i.discogs.com/WFoA6jxruLu0zuxxQpjnFlBiBWTLOOk0IKL3RerAskI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjE1/MzEtMTM1NzMxOTQ0/My0yOTYxLmpwZWc.jpeg) | 2012-10-01 | Tigerforest | Islands |
 | 14 | ![Cover](https://i.discogs.com/oq36N6pPiNsltpSCabTtHIVWtc8ijjys6xDLRpeAcQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTY2/MjYxLTE2NTg1MDk4/MTYtMzI2NC5qcGVn.jpeg) | 2013-02-12 | Vargo | Warriors - EP (feat. Dan Millman) |
-| 1 |  | 2013-03-28 | The Synthetic Dream Foundation | Where Drowned Suns Still Glimmer |
+| 2 |  | 2013-03-28 | The Synthetic Dream Foundation | Where Drowned Suns Still Glimmer |
 | 16 | ![Cover](https://i.discogs.com/DDddLkW2bIsUHyarH6HL93IXUi2saPG0a2UNrjHVEEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTk5/MjItMTM3OTQzODQ0/MS05OTk2LmpwZWc.jpeg) | 2013-08-20 | Tigerforest | Touch the Sky |
 | 47 | ![Cover](https://i.discogs.com/K9ubJWjU6AdJCVkLPmKKB-3B66nLjQc6S8hb-eoSzrA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDIz/Ni0xMjMwODUzOTA1/LmpwZWc.jpeg) | 2013-08-20 | Steve Roach | texture maps |
 | 98 |  | 2013-08-30 | Schiller | Opus |
@@ -104,7 +104,7 @@ Last updated: <time datetime="2025-10-24T12:11:07.634Z">Fri Oct 24 2025 15:11:07
 | 13 |  | 2014-04-22 | Ravin | Buddha-Bar XVI |
 | 11 |  | 2017-03-03 | Various Artists | Bossa Deluxe: Rio de Janeiro Session |
 | 57 | ![Cover](https://i.discogs.com/Uh-czjxeoY3nSAEe-qXnd2JqTZsk-u9vyl6vwFYa3-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODY4/NjA0LTE2NjYxMzIx/ODAtODU5OC5wbmc.jpeg) | 2017-03-03 | Various Artists | Suntheca Music Pres. BOSSA LOUNGE Collection Vol. 1 |
-| 4 | ![Cover](https://i.discogs.com/rF58Wl_lk9zJ2xOLeuoQUA3v__9rq6dFY8P0oor4Jfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDE0/NzEtMTQxNjg3NjE3/NS0xNDU0LmpwZWc.jpeg) | 2019-08-23 | Vargo | Winter&#39;s Eve |
+| 5 | ![Cover](https://i.discogs.com/rF58Wl_lk9zJ2xOLeuoQUA3v__9rq6dFY8P0oor4Jfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDE0/NzEtMTQxNjg3NjE3/NS0xNDU0LmpwZWc.jpeg) | 2019-08-23 | Vargo | Winter&#39;s Eve |
 | 61 | ![Cover](https://i.discogs.com/A9KQRJ93pPDBRr3bFUWzHQMNkDdL8hQfkkACuTtEElw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjMy/MTctMTQ4NDU3MTI3/Ni0yNDcyLnBuZw.jpeg) | 2019-11-04 | Gary B | Live It Now |
 | 33 | ![Cover](https://i.discogs.com/L58d6s5GG76wa-TcJAxhdq0Qm9JH3orfiV8m0FzTMsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDEw/MjU2LTE2NzU2ODEy/MjEtMjE1NC5qcGVn.jpeg) | 2019-12-16 | Gary B | So Lost in Your Love |
 | 17 |  | 2022-04-14 | Various Artists | Bossa Lounge Collection (Volume 2) |
@@ -121,8 +121,8 @@ Last updated: <time datetime="2025-10-24T12:11:07.634Z">Fri Oct 24 2025 15:11:07
 - [new age electronica]({{ "/tags/new-age-electronica" | relative_url }})
 - [new age ambiant]({{ "/tags/new-age-ambiant" | relative_url }})
 - [ethereal new age]({{ "/tags/ethereal-new-age" | relative_url }})
-- [fantasy new age]({{ "/tags/fantasy-new-age" | relative_url }})
 - [new age instrumental]({{ "/tags/new-age-instrumental" | relative_url }})
 - [ethnic fusion]({{ "/tags/ethnic-fusion" | relative_url }})
 - [ethnic]({{ "/tags/ethnic" | relative_url }})
 - [new age]({{ "/tags/new-age" | relative_url }})
+- [world fusion]({{ "/tags/world-fusion" | relative_url }})
