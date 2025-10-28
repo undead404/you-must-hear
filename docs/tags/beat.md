@@ -1,19 +1,18 @@
 ---
 category: genre
-date: 2025-10-22T16:50:16.197Z
+date: 2025-10-28T04:04:23.586Z
 permalink: tags/beat
 title: beat
 ---
 
 ## beat
 
-Last updated: <time datetime="2025-10-22T16:50:16.197Z">Wed Oct 22 2025 19:50:16 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T04:04:23.586Z">Tue Oct 28 2025 06:04:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | Knitting Turtle | The Four EP |
 | 21 | ![Cover](https://i.discogs.com/ZwY39GTgCGcsGTYoyzDaYSw4jXU0y0U6OFp2RIZX8vk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODE2/NjUtMTQ3MDcxNzUw/Ny05NTMzLmpwZWc.jpeg) | 1965-03-15 | The Beatles | Please Please Me&#x2F;With The Beatles&#x2F;From Me To You&#x2F;She Loves You |
 | 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/abcda5930d4a41659da76a6285c1b469.png) | 1965-07-23 | The Moody Blues | The Magnificent Moodies |
 | 49 | ![Cover](https://i.discogs.com/CyCHztqOzY8fmD1fq1A9Fd5P_RIqJge77b5xs8_EBXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkw/NjQtMTUzNTk1NDIz/NC04MDM4LmpwZWc.jpeg) | 1966 | The Cryan&#39; Shames | Sugar And Spice |
@@ -22,36 +21,37 @@ Last updated: <time datetime="2025-10-22T16:50:16.197Z">Wed Oct 22 2025 19:50:16
 | 18 | ![Cover](https://i.discogs.com/mxy6MI-YpWDU2IgBEbcLevJOflsUTWAHBvSX9ZtJVnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODM5/OC0xMjcwNjY4NjA4/LmpwZWc.jpeg) | 1977 | Idris Muhammad | Louie Vega - Choice , A Collection Of Classics |
 | 23 | ![Cover](https://i.discogs.com/kX1IO9A1O60gu5cXu_phTiFHF7bSF8Sf7_Yz6J0Ghck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTM5/ODQtMTYwODIwNDQ4/MS03MTA3LmpwZWc.jpeg) | 1985 | Eric Burdon | We Gotta Get Out Of This Place |
 | 22 |  | 1994-03-21 | Ohio Express | Golden Classics |
-| 20 |  | 1995 | The Matadors | The Matadors |
+| 19 |  | 1995 | The Matadors | The Matadors |
 | 33 | ![Cover](https://i.discogs.com/uwwZar7er8DsGwH4rEWcOjUugcSQt3_upw2BcoDnq38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjA5/MzgtMTQyNTMwNzA2/Ny00OTY0LmpwZWc.jpeg) | 1995 | Drafi Deutscher | Star Festival |
 | 29 |  | 1997 | Dežo Ursiny | Pevniny a vrchy |
 | 26 |  | 1999 | The Kaisers | Twist with The Kaisers |
 | 42 | ![Cover](https://i.discogs.com/L9Fw39C80is8JpZt_O2PLdX5Wy6iRLYRQS3GM6DQyxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzA1/MjY5LTE2MzkxODg2/MTAtODA5My5qcGVn.jpeg) | 2002 | The Beatles | Abbey Road [Remastered] |
 | 30 | ![Cover](https://i.discogs.com/37d3Clt3mvngGMR5ctw34RHEKICuHouCwI15NEF8HT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODE4/NjktMTM0MDUzNjQ0/NS0zMzY5LmpwZWc.jpeg) | 2003 | Montesas | Midnight Beat |
-| 5 | ![Cover](https://i.discogs.com/OWCDr7zFuPZFbnb19Bl26vlN-LiLWx6Ef54resn9RqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM4/ODctMTIwMTQ2MTky/OS5qcGVn.jpeg) | 2004-04-20 | Penelope Houston | The Pale Green Girl |
+| 4 | ![Cover](https://i.discogs.com/OWCDr7zFuPZFbnb19Bl26vlN-LiLWx6Ef54resn9RqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM4/ODctMTIwMTQ2MTky/OS5qcGVn.jpeg) | 2004-04-20 | Penelope Houston | The Pale Green Girl |
 | 31 |  | 2004-11 | Abuse | The Great Outdoors |
 | 16 | ![Cover](https://i.discogs.com/lCH2qJaEYSP1Dg7qUIB5PpXP3IqAXe8i0l2nGbDUw2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODA0/NzMtMTQwMTQxNTQ2/Ni03NDcxLmpwZWc.jpeg) | 2005 | Los Yetis | Historia Músical - 40 Éxitos del Festival de Ancón |
 | 41 | ![Cover](https://i.discogs.com/1yW_H6n5RnXr2ytVKXQisRUvCp5_nYvwhLpKvGObmA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjEz/OC0xNTIxMTY5MDI4/LTI1NzkuanBlZw.jpeg) | 2005 | The Star And Key Of The Indian Ocean | Vintage Soup ... |
+| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c477e5fd0edf6a22a7ddd6d70f6f838b.png) | 2006 | Companhia do Calypso | Companhia do Calypso, Vol. 03 (Ao Vivo) |
 | 43 | ![Cover](https://i.discogs.com/TttDgyLaXX2PPwosK-NRFjWGSx6Kz5WGrRulezrwp_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODE4/ODEtMTM4MTI2OTky/MC04OTI2LmpwZWc.jpeg) | 2006 | SK123 | ...and at the end of it you get a bike |
 | 32 | ![Cover](https://i.discogs.com/KZ7kOhD_59n2mK8iVKW9IFH6Ehdcr0o1kz7BAe9GYes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzI2/Ni0xMTQzMzA5MDcw/LmpwZWc.jpeg) | 2006-01 | Chicken Lips | White Dwarf |
 | 47 | ![Cover](https://i.discogs.com/1tzb7ALYdeg9Ts8Si1Crc7TgbcY8eGr5dtG0K6_icAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ5/MzQtMTU1NTMzOTI0/NC0zODg0LmpwZWc.jpeg) | 2008 | Beat Assailant | Hard Twelve + Bonus Imperial Pressure 2008 |
 | 48 | ![Cover](https://i.discogs.com/dp-f5UM4D_rDc80s3grrys8_qgdPqIXG78NqNWz10ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkw/NTI5LTE2MzEzNTYw/NTgtOTkyNC5qcGVn.jpeg) | 2008 | Bob Dylan | The Cutting Edge 1965-1966: The Bootleg Series, Vol.12 (Deluxe Edition) |
-| 4 |  | 2008-03-26 | KatazTrophee | Inside the Shell |
+| 3 |  | 2008-03-26 | KatazTrophee | Inside the Shell |
 | 27 | ![Cover](https://i.discogs.com/rbgc0odAJLSj9_1azzkeRSupZq7SQS56yxyQeX6IAy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzA3/NDQtMTI5MDk5NDI2/NS5qcGVn.jpeg) | 2009-04-20 | Kooqla | Forecast EP |
-| 6 | ![Cover](https://i.discogs.com/bKstc56Pf2AjJTldrY0yFJedWPBXdi3XujbUoBexSlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzA3/NjAtMTI5MDk5NjEz/MC5qcGVn.jpeg) | 2009-10-12 | Kooqla | Leave me now |
-| 11 | ![Cover](https://i.discogs.com/osEuTd78A4FdOX4tsYylRVd4KcyrnHby4RtK2340Pp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzE4/MDktMTQ0NzYyMjE0/NS04ODg1LmpwZWc.jpeg) | 2010-04-28 | Wharmton Rise | Contrary Emotion |
-| 3 | ![Cover](https://i.discogs.com/6pmaWRa_B91LvGLW15R7ylRBUuab8ATaJ4AxFD0c_iY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzc1/NDAtMTMwODE1NjAz/Ni5qcGVn.jpeg) | 2010-09-27 | Polar Bear &amp; Jyager | Common Ground |
-| 7 | ![Cover](https://i.discogs.com/qeS7MwuanNRXn9T_RTElAZ8l4jy-YJMcUQv7aSB4p7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTEy/ODAtMTMyNjYzNTQ1/MC5qcGVn.jpeg) | 2011-05-27 | vlooper | COPYCAT (a Dilla Tribute) [GNL014] |
+| 5 | ![Cover](https://i.discogs.com/bKstc56Pf2AjJTldrY0yFJedWPBXdi3XujbUoBexSlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzA3/NjAtMTI5MDk5NjEz/MC5qcGVn.jpeg) | 2009-10-12 | Kooqla | Leave me now |
+| 10 | ![Cover](https://i.discogs.com/osEuTd78A4FdOX4tsYylRVd4KcyrnHby4RtK2340Pp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzE4/MDktMTQ0NzYyMjE0/NS04ODg1LmpwZWc.jpeg) | 2010-04-28 | Wharmton Rise | Contrary Emotion |
+| 2 | ![Cover](https://i.discogs.com/6pmaWRa_B91LvGLW15R7ylRBUuab8ATaJ4AxFD0c_iY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzc1/NDAtMTMwODE1NjAz/Ni5qcGVn.jpeg) | 2010-09-27 | Polar Bear &amp; Jyager | Common Ground |
+| 6 | ![Cover](https://i.discogs.com/qeS7MwuanNRXn9T_RTElAZ8l4jy-YJMcUQv7aSB4p7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTEy/ODAtMTMyNjYzNTQ1/MC5qcGVn.jpeg) | 2011-05-27 | vlooper | COPYCAT (a Dilla Tribute) [GNL014] |
 | 15 | ![Cover](https://i.discogs.com/qeS7MwuanNRXn9T_RTElAZ8l4jy-YJMcUQv7aSB4p7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTEy/ODAtMTMyNjYzNTQ1/MC5qcGVn.jpeg) | 2011-05-27 | vlooper | COPYCAT (a Dilla Tribute) |
-| 2 | ![Cover](https://i.discogs.com/IZGFhjq83OueFjgVsCEoE516npVbuT8fRcJxVTpa6Jo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTk4/MjAxLTE2MzcwNDc0/ODItNDM3Ni5qcGVn.jpeg) | 2014-09-09 | Moment | Only Us |
-| 8 |  |  | luis lancaster | AD2005 |
-| 9 |  |  | Instrumental Hip Hop Beat Makers | Instrumental Hip Hop Beats |
-| 10 |  |  | VLooper &amp; KenLo | BULLESBUBBLES II2II |
-| 12 |  |  | qsb | mini LP |
-| 13 |  |  | Metricks | Unminimal |
-| 14 | ![Cover](https://i.discogs.com/XERpcaWSScu1PUhzenu8REZkRNgFYnrm1XNKwFSgsls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTc3/MzEtMTQ0NDk4ODIw/Ny05ODUwLmpwZWc.jpeg) | 2012-07-25 | Melodiesinfonie | In Your Mood EP |
+| 13 | ![Cover](https://i.discogs.com/XERpcaWSScu1PUhzenu8REZkRNgFYnrm1XNKwFSgsls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTc3/MzEtMTQ0NDk4ODIw/Ny05ODUwLmpwZWc.jpeg) | 2012-07-25 | Melodiesinfonie | In Your Mood EP |
+| 1 | ![Cover](https://i.discogs.com/IZGFhjq83OueFjgVsCEoE516npVbuT8fRcJxVTpa6Jo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTk4/MjAxLTE2MzcwNDc0/ODItNDM3Ni5qcGVn.jpeg) | 2014-09-09 | Moment | Only Us |
+| 7 |  |  | luis lancaster | AD2005 |
+| 8 |  |  | Instrumental Hip Hop Beat Makers | Instrumental Hip Hop Beats |
+| 9 |  |  | VLooper &amp; KenLo | BULLESBUBBLES II2II |
+| 11 |  |  | qsb | mini LP |
+| 12 |  |  | Metricks | Unminimal |
 | 17 |  |  | PT Loren | The PT Loren ep |
-| 19 |  |  | PT Loren | Demos |
+| 20 |  |  | PT Loren | Demos |
 | 25 |  |  | INADRM | Adaptation |
 | 34 |  |  | Alan Webster | you can&#39;t see what&#39;s hidden behind |
 | 35 | ![Cover](https://i.discogs.com/rm6ATPU7PP3-qAnt5rs8bpSlx88jFg_dfLQmQyEZmLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzAx/ODAtMTQ1NzU2MzY0/MC03NDA2LmpwZWc.jpeg) | 2009-06-09 | Veell | Overflower |

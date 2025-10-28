@@ -1,68 +1,68 @@
 ---
 category: genre
-date: 2025-10-22T21:53:46.921Z
+date: 2025-10-28T04:08:04.706Z
 permalink: tags/tekno
 title: tekno
 ---
 
 ## tekno
 
-Last updated: <time datetime="2025-10-22T21:53:46.921Z">Thu Oct 23 2025 00:53:46 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T04:08:04.706Z">Tue Oct 28 2025 06:08:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | Transki x Vergil | 127VA003 |
-| 5 |  |  | Transki x Tadan | 127VA002 |
-| 7 |  |  | Astral Bandit x Tadan | 127VA002 |
-| 10 |  |  | Tadan x V2 | 127VA002 |
-| 11 |  |  | Krunx x Tadan | 127VA002 |
-| 13 |  |  | Indebraendt x Tadan | 127VA002 |
-| 15 |  |  | Medlock x Tadan | 127VA002 |
+| 7 |  |  | Transki x Tadan | 127VA002 |
+| 38 | ![Cover](https://i.discogs.com/IKKNzHeQ01nw4XdDHEn68DunGMFR8tdCBdiiyz8P7_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDE2/OTctMTUzODQ2MjYy/NC05NzQxLmpwZWc.jpeg) | 1965 | Evert | Dwarslezing |
+| 3 | ![Cover](https://i.discogs.com/jYROpFzJPcWfOiRanJDHaHTJimFvURAXBA5H_HS5pXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM2/NDg3LTE2NDIyMTMy/MTUtOTQ2My5qcGVn.jpeg) | 1987 | Bloodlust | 127VA003 |
+| 43 | ![Cover](https://i.discogs.com/KKo-LWIeAqnv1n0vt2iZW90Z3Ybgha_x1NFGIg0mOMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzI3/ODg0LTE2MjgwMDcx/NTYtNjY0Ny5qcGVn.jpeg) | 1988-10-05 | Win | Analogica |
+| 8 | ![Cover](https://i.discogs.com/8ZREqDdqnmrVBLSFsKJG6gyKmdd21ljTpsC3qFeElts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTU0/NjctMTIyNzkyNDUy/OC5qcGVn.jpeg) | 1991 | M | Contra Spem Spero |
+| 2 | ![Cover](https://i.discogs.com/poYi52bxZ6YMW2u3a9rhnaGSs4ojmKoMQqRMxP9H1GE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzcz/MC0xNDQ4NjQ3OTg3/LTM5NTIuanBlZw.jpeg) | 1999 | Robbert Mononom | SO006 Vinyl |
+| 14 | ![Cover](https://i.discogs.com/7bCvarPHHqBCvKTVTWYGi1jMJ7CvF3Gkr_mkXPiKTQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDEx/NDUyLTE0OTY4OTQw/NDgtNTEyNS5qcGVn.jpeg) | 2007-09-11 | Egress | Contra Spem Spero |
+| 12 | ![Cover](https://i.discogs.com/NHn_ZeWiud-HHGaPlrKqnSs4MlquPZr3D9YUz12shp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDUy/MjItMTQ4NzI2Mjk0/OC0yMTgzLmpwZWc.jpeg) | 2017-02-16 | Mis Gato | CC ATOM101 |
 | 18 |  |  | Trifaze | trifaze |
 | 19 |  |  | Candy Panda | Andro And Gigolo |
 | 23 |  |  | Egregore x Tadan | 127VA002 |
-| 24 |  |  | Savage Nihilism vs BandiKoot | Cult 32 |
-| 27 |  |  | Onohno | 127VA002 |
-| 30 |  |  | Drawbridge | 127VA002 |
-| 46 |  |  | Port80 | Lundenburger |
-| 49 |  |  | kaos - live | 1994 |
-| 50 |  |  | madnix | n&#x2F;a |
-| 38 | ![Cover](https://i.discogs.com/IKKNzHeQ01nw4XdDHEn68DunGMFR8tdCBdiiyz8P7_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDE2/OTctMTUzODQ2MjYy/NC05NzQxLmpwZWc.jpeg) | 1965 | Evert | Dwarslezing |
-| 4 | ![Cover](https://i.discogs.com/jYROpFzJPcWfOiRanJDHaHTJimFvURAXBA5H_HS5pXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM2/NDg3LTE2NDIyMTMy/MTUtOTQ2My5qcGVn.jpeg) | 1987 | Bloodlust | 127VA003 |
-| 43 | ![Cover](https://i.discogs.com/KKo-LWIeAqnv1n0vt2iZW90Z3Ybgha_x1NFGIg0mOMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzI3/ODg0LTE2MjgwMDcx/NTYtNjY0Ny5qcGVn.jpeg) | 1988-10-05 | Win | Analogica |
-| 8 | ![Cover](https://i.discogs.com/8ZREqDdqnmrVBLSFsKJG6gyKmdd21ljTpsC3qFeElts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTU0/NjctMTIyNzkyNDUy/OC5qcGVn.jpeg) | 1991 | M | Contra Spem Spero |
-| 3 | ![Cover](https://i.discogs.com/poYi52bxZ6YMW2u3a9rhnaGSs4ojmKoMQqRMxP9H1GE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzcz/MC0xNDQ4NjQ3OTg3/LTM5NTIuanBlZw.jpeg) | 1999 | Robbert Mononom | SO006 Vinyl |
-| 14 | ![Cover](https://i.discogs.com/7bCvarPHHqBCvKTVTWYGi1jMJ7CvF3Gkr_mkXPiKTQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDEx/NDUyLTE0OTY4OTQw/NDgtNTEyNS5qcGVn.jpeg) | 2007-09-11 | Egress | Contra Spem Spero |
-| 9 | ![Cover](https://i.discogs.com/NHn_ZeWiud-HHGaPlrKqnSs4MlquPZr3D9YUz12shp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDUy/MjItMTQ4NzI2Mjk0/OC0yMTgzLmpwZWc.jpeg) | 2017-02-16 | Mis Gato | CC ATOM101 |
 | 42 | ![Cover](https://i.discogs.com/nFkLw9LvLzhN6wZyeYXiU8ugOfuCTXwsejZL4bR2ZYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTQz/NDUxLTE1NzY3MTQw/MzMtNTIxNC5wbmc.jpeg) | 2017-10-13 | VeeHell | Bring Me Some Hits |
 | 26 | ![Cover](https://i.discogs.com/pwzV0yw0CoYTklxqLYnd--vXuqvTfsdedeIPR56Mneo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQw/NjAxLTE1ODE0OTY1/MzUtNjk3Ny5qcGVn.jpeg) | 2018-03-28 | Heisa | HANGAR 10 |
+| 30 |  |  | Drawbridge | 127VA002 |
+| 33 |  |  | Sevenum Six | Cult 33 |
+| 35 |  |  | dj tharum | dj tharum mixes |
+| 40 |  |  | Les Seigneurs de la Route | LES SEIGNEURS DE LA ROUTE |
+| 46 |  |  | Port80 | Lundenburger |
 | 21 | ![Cover](https://i.discogs.com/fwNRffd1Ty42bqsYVWv9ofi3lnvf3OvRJyO8gwdiN5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEx/MjIzLTE1Njg4ODkx/MjMtNzI1My5qcGVn.jpeg) | 2019 | Kaoslog | HANGAR 10 |
-| 25 | ![Cover](https://i.discogs.com/fwNRffd1Ty42bqsYVWv9ofi3lnvf3OvRJyO8gwdiN5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEx/MjIzLTE1Njg4ODkx/MjMtNzI1My5qcGVn.jpeg) | 2019 | Kaoslog | Cult 32 |
+| 24 | ![Cover](https://i.discogs.com/fwNRffd1Ty42bqsYVWv9ofi3lnvf3OvRJyO8gwdiN5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEx/MjIzLTE1Njg4ODkx/MjMtNzI1My5qcGVn.jpeg) | 2019 | Kaoslog | Cult 32 |
 | 32 | ![Cover](https://i.discogs.com/DRk5by2KRbY636yfNifwVlKO8fhixlknht1MmWRbHgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM4/NTE3LTE2MDU3OTQ5/MjEtNjg3MS5qcGVn.jpeg) | 2019-11-29 | Terror Toddler | Bathroom Habits |
-| 12 |  | 2020 | Slavyanka | Will-O-Wisp |
-| 6 | ![Cover](https://i.discogs.com/lw2IehzGJQf-PoOShCZ0bJQyxcNOjysqXpQjSaxM1lY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDI2/OTYxLTE2MTkxOTU5/MjQtMzc5Mi5qcGVn.jpeg) | 2021 | Unpure Impulse | 127VA002 |
+| 10 |  | 2020 | Slavyanka | Will-O-Wisp |
+| 1 | ![Cover](https://i.discogs.com/MVI8bV5jw9ODSjDDiStdNTS3x2sso8-b9AYArdHYe48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDIx/OTc4LTE1OTEyODY5/MzgtMjcyNi5tcG8.jpeg) | 2020-06-04 | HALUCIGANI | HANGAR 11 |
+| 5 | ![Cover](https://i.discogs.com/lw2IehzGJQf-PoOShCZ0bJQyxcNOjysqXpQjSaxM1lY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDI2/OTYxLTE2MTkxOTU5/MjQtMzc5Mi5qcGVn.jpeg) | 2021 | Unpure Impulse | 127VA002 |
+| 4 | ![Cover](https://i.discogs.com/FsH49uOVQR_IFNYfGqj9jZYWawIzjwP3SH20Yq20gHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTA0/MDMxLTE2NTE2MjY2/NzktMTU0Ni5qcGVn.jpeg) | 2022-05-03 | Pain Beurre | Cult 34 |
+| 6 |  |  | Astral Bandit x Tadan | 127VA002 |
+| 9 |  |  | Krunx x Tadan | 127VA002 |
+| 11 |  |  | Tadan x V2 | 127VA002 |
+| 13 |  |  | Indebraendt x Tadan | 127VA002 |
 | 41 | ![Cover](https://i.discogs.com/C91H5lW8lfIiOtVicqwCgn7y7J3wj4HL0vBoDnCy2Cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTYy/MDgzLTE3Mjg1NzEy/NjEtNTAwNC5qcGVn.jpeg) | 2021-02-20 | Middle Aged Man With A Machine | 127VA002 |
 | 36 | ![Cover](https://i.discogs.com/3GVBX_qi9FQWbLwjBOd7x7XM4wJRmKcoUgQjrSAwXyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjAx/NDU1LTE2NjA0OTg4/OTQtNDU3MC5qcGVn.jpeg) | 2021-08-09 | Mig | Duister 001 |
 | 20 | ![Cover](https://i.discogs.com/TNy__L1XQc9Tkb3lYerr1o2uTG1GicbZvZK6KkEPl34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTAz/OTk5LTE3MDU0MDQ3/MjItNjY2Mi5qcGVn.jpeg) | 2021-10-29 | Trois-Quarts Taxi System | 127VA003 |
 | 31 | ![Cover](https://i.discogs.com/HAing-Dy45LONHSecMMTaOh_I96W1Hz5_etg18EI4is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTYx/ODMyLTE2NTIwNjAw/MTQtNzMxOC5qcGVn.jpeg) | 2022-03-30 | Cobber | 127VA002 |
 | 44 |  | 2022-04-16 | DJ Bazootka | Beachfesthits 🏖 |
 | 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f625ce690241d4f8d0af215f56cfacd9.png) | 2022-04-16 | DJ Bazootka | Pillz |
-| 2 | ![Cover](https://i.discogs.com/FsH49uOVQR_IFNYfGqj9jZYWawIzjwP3SH20Yq20gHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTA0/MDMxLTE2NTE2MjY2/NzktMTU0Ni5qcGVn.jpeg) | 2022-05-03 | Pain Beurre | Cult 34 |
-| 28 | ![Cover](https://i.discogs.com/p2bgknCvmGcNFg63Bv8oznzvb_GZ5osgIU_6QqbvbMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTEw/OTAzLTE2NzE0NjYz/MjMtODgyMy5wbmc.jpeg) | 2022-07-05 | Aveen | 127VA002 |
 | 29 | ![Cover](https://i.discogs.com/oTHqa-Gb7EeQFXl1wtuYqy_SdD4pZo-S92htyzFjS9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzk2/NTI3LTE2NzkyMTg1/MDAtNjUyNS5qcGVn.jpeg) | 2022-08-31 | PSICOTEK | 127VA002 |
 | 17 | ![Cover](https://i.discogs.com/wsQCv5HSaIAN6cVn1Ea7L5zrBSKGqtUsKtKB6-D2x5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTE3/MjMxLTE2NjgwODA1/ODktNzUzNS5qcGVn.jpeg) | 2022-11-04 | Jadzia | 127VA003 |
 | 22 | ![Cover](https://i.discogs.com/DKVWeRzjpUU7PPlh6W2d-yB6Mh9kGSmwNJnA-xMecLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODI1/NTYxLTE2OTA3MTk3/OTUtNjc5OC5qcGVn.jpeg) | 2023-06-21 | K.O.P. 32 | 127VA001 |
-| 37 | ![Cover](https://i.discogs.com/LK1VCLny5JXHMHxcXjsIohGNfQwQZnuakWwHO1g1OTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg2/MjE1LTE3MDUyNDM2/MTItODkzNC5qcGVn.jpeg) | 2023-09-02 | Santiago Nech | 127VA002 |
-| 16 | ![Cover](https://i.discogs.com/crvCxLSLf8wfskNBeEGp1duUtCPgvwjrvKR9Io4X1P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTQ2/MzY5LTE3MTA4ODIw/MzctNjY1MC5qcGVn.jpeg) | 2024-02-08 | DJ Angst | anarchypnotica |
-| 33 |  |  | Sevenum Six | Cult 33 |
+| 15 | ![Cover](https://i.discogs.com/crvCxLSLf8wfskNBeEGp1duUtCPgvwjrvKR9Io4X1P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTQ2/MzY5LTE3MTA4ODIw/MzctNjY1MC5qcGVn.jpeg) | 2024-02-08 | DJ Angst | anarchypnotica |
+| 16 |  |  | Medlock x Tadan | 127VA002 |
+| 25 |  |  | Savage Nihilism vs BandiKoot | Cult 32 |
+| 27 |  |  | Onohno | 127VA002 |
+| 28 | ![Cover](https://i.discogs.com/p2bgknCvmGcNFg63Bv8oznzvb_GZ5osgIU_6QqbvbMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTEw/OTAzLTE2NzE0NjYz/MjMtODgyMy5wbmc.jpeg) | 2022-07-05 | Aveen | 127VA002 |
 | 34 |  |  | Toka Mak | 127VA002 |
-| 35 |  |  | dj tharum | dj tharum mixes |
 | 48 | ![Cover](https://i.discogs.com/gZCHfe4sDu4HyX0F27lCVDzjhlUPvM2dm1YVAOAvY_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzk3/NTM1LTE2ODE4MDU5/NTAtNjcwMS5qcGVn.jpeg) | 2023-04-07 | Astral Bandit | 127VA002 |
+| 37 | ![Cover](https://i.discogs.com/LK1VCLny5JXHMHxcXjsIohGNfQwQZnuakWwHO1g1OTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg2/MjE1LTE3MDUyNDM2/MTItODkzNC5qcGVn.jpeg) | 2023-09-02 | Santiago Nech | 127VA002 |
+| 50 |  |  | madnix | n&#x2F;a |
 | 47 | ![Cover](https://i.discogs.com/yuZkpOuTgbRU0e7YbRtcKKUpeLBDqecpYksmtqxGEaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODU4/NjM2LTE2OTk2MzI1/MjEtNjM4NC5qcGVn.jpeg) | 2024 | Van der Wiese | Van der Wiese |
 | 39 |  | 2024-07-24 | Marmo | 127AREA004: Deaf Ears Are Sleeping |
-| 40 |  |  | Les Seigneurs de la Route | LES SEIGNEURS DE LA ROUTE |
+| 49 |  |  | kaos - live | 1994 |
 | 76 |  | 1977 | Various Artists | The Mutant Assembly |
 | 95 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1987 | Various Artists | Mindlover E.P. |
 | 62 | ![Cover](https://i.discogs.com/eUI1WUVuQMxcjZKvmit-Bt12dev1LeNEqXRcQu9aX4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg5/MzctMTU3NjAwNzc1/NC03NTA1LmpwZWc.jpeg) | 2000 | Uniko | Home Live |
