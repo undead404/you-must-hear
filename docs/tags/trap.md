@@ -1,67 +1,67 @@
 ---
 category: genre
-date: 2025-10-22T09:04:09.733Z
+date: 2025-10-27T23:38:54.202Z
 permalink: tags/trap
 title: trap
 ---
 
 ## trap
 
-Last updated: <time datetime="2025-10-22T09:04:09.733Z">Wed Oct 22 2025 12:04:09 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-27T23:38:54.202Z">Tue Oct 28 2025 01:38:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 23 | ![Cover](https://i.discogs.com/0PRtBvh5St-dhMqRXZtNKq9yxjExsePhUoiN3ySsP6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTkw/OTQ1LTE2Mjk5MDg2/MzUtMjYxNC5qcGVn.jpeg) | 1997 | Corpse | Cabin Fever |
+| 22 | ![Cover](https://i.discogs.com/0PRtBvh5St-dhMqRXZtNKq9yxjExsePhUoiN3ySsP6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTkw/OTQ1LTE2Mjk5MDg2/MzUtMjYxNC5qcGVn.jpeg) | 1997 | Corpse | Cabin Fever |
 | 46 | ![Cover](https://i.discogs.com/cCuJIgzxA6z7Ag05I8mGyQPS7fLUv0_nDRReT0Ud9jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU1/ODkyLTE1ODYwOTI3/NjctMzQyOC5wbmc.jpeg) | 1997 | Corpse | White Tee |
 | 41 | ![Cover](https://i.discogs.com/m-QNHL_pNmyLw7_98wvQC9j3MsAt3Q_NA1KsB2cSBg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY0/MTY0LTE2MTU4NzQz/NjUtNjgxMS5qcGVn.jpeg) | 2012 | Corpse | Never Satisfied |
-| 5 | ![Cover](https://i.discogs.com/N4Qhuw8XPp_-QUC8Bkw_g0mphTJ8bzBTzWNO-SFPFsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjM0/NDItMTM4MzkxNjc1/Ni02MDQyLmpwZWc.jpeg) | 2013 | Kendrick Lamar | good kid, m.A.A.d city (Deluxe) |
-| 20 | ![Cover](https://i.discogs.com/rAPFe2ZvlihqLPAnbxzELPgmAe6-ebcFouHEuXepx6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDk1/NzEtMTY1OTEyNjcz/Mi04MzkxLmpwZWc.jpeg) | 2014-07-28 | Future | DS2 (Deluxe) |
+| 4 | ![Cover](https://i.discogs.com/N4Qhuw8XPp_-QUC8Bkw_g0mphTJ8bzBTzWNO-SFPFsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjM0/NDItMTM4MzkxNjc1/Ni02MDQyLmpwZWc.jpeg) | 2013 | Kendrick Lamar | good kid, m.A.A.d city (Deluxe) |
+| 18 | ![Cover](https://i.discogs.com/rAPFe2ZvlihqLPAnbxzELPgmAe6-ebcFouHEuXepx6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDk1/NzEtMTY1OTEyNjcz/Mi04MzkxLmpwZWc.jpeg) | 2014-07-28 | Future | DS2 (Deluxe) |
 | 36 |  | 2014-11-06 | Azealia Banks | Broke with Expensive Taste |
-| 10 | ![Cover](https://i.discogs.com/j8973Mo2ZMcHp0aG295rY0_dXdICtIK2w3Fka6RpIf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjUw/NzQtMTQzNTE2OTc4/MS0zODM2LmpwZWc.jpeg) | 2015-02-24 | Jack Ü | Skrillex and Diplo Present Jack Ü |
-| 30 | ![Cover](https://i.discogs.com/NbTkNeEoP_pu0nzZjZYIreFyLvv1dWWKP1E2tdVjycg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzIz/OTQ0LTE1MzI5NTAw/NTQtNjYxMi5qcGVn.jpeg) | 2015-12-01 | 21 Savage | Without Warning |
-| 19 | ![Cover](https://i.discogs.com/QH3zeMv-JiZvFHGhvp2GeRP5_BAvWKd4WYxlzRs0k-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDM2/NTItMTY0ODUwMDA5/My01MjkyLmpwZWc.jpeg) | 2016-03-25 | Young Thug | Slime Season 3 |
-| 29 | ![Cover](https://i.discogs.com/RcKoo6RqwIjmSjWTFMJAs0tY2NubMvsftWLtWnVTXNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU0/ODQ4LTE2MTk5NDM3/MjktNjc4Ny5wbmc.jpeg) | 2016-05-15 | 21 Savage | Savage Mode |
-| 9 | ![Cover](https://i.discogs.com/FFYjI4qQkhLS67l8FOcwiw6wNkOuqGQBBvw7OIgPZpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTg5/MjE0LTE2ODg2NDk3/OTAtMjE2Ny5qcGVn.jpeg) | 2016-08-15 | LUCKI | Freewave 3 |
-| 13 | ![Cover](https://i.discogs.com/M2RDkyb2D2mGnhmFkdXl5P1dPGH5N_ggiT2IBASdB5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjIy/NDMwLTE1Mzg3ODEz/NDYtNzY5MC5qcGVn.jpeg) | 2017 | Bladee | Plastic Surgery |
-| 12 | ![Cover](https://i.discogs.com/nyRjgO7zm6l5wok7SP4i5rNcR1-38EqNKXAAgj-Nh-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDYw/ODktMTU4NzIyNTM5/My00Mjg5LnBuZw.jpeg) | 2017-01-27 | Migos | Culture |
+| 9 | ![Cover](https://i.discogs.com/j8973Mo2ZMcHp0aG295rY0_dXdICtIK2w3Fka6RpIf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjUw/NzQtMTQzNTE2OTc4/MS0zODM2LmpwZWc.jpeg) | 2015-02-24 | Jack Ü | Skrillex and Diplo Present Jack Ü |
+| 29 | ![Cover](https://i.discogs.com/NbTkNeEoP_pu0nzZjZYIreFyLvv1dWWKP1E2tdVjycg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzIz/OTQ0LTE1MzI5NTAw/NTQtNjYxMi5qcGVn.jpeg) | 2015-12-01 | 21 Savage | Without Warning |
+| 17 | ![Cover](https://i.discogs.com/QH3zeMv-JiZvFHGhvp2GeRP5_BAvWKd4WYxlzRs0k-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDM2/NTItMTY0ODUwMDA5/My01MjkyLmpwZWc.jpeg) | 2016-03-25 | Young Thug | Slime Season 3 |
+| 28 | ![Cover](https://i.discogs.com/RcKoo6RqwIjmSjWTFMJAs0tY2NubMvsftWLtWnVTXNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU0/ODQ4LTE2MTk5NDM3/MjktNjc4Ny5wbmc.jpeg) | 2016-05-15 | 21 Savage | Savage Mode |
+| 8 | ![Cover](https://i.discogs.com/FFYjI4qQkhLS67l8FOcwiw6wNkOuqGQBBvw7OIgPZpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTg5/MjE0LTE2ODg2NDk3/OTAtMjE2Ny5qcGVn.jpeg) | 2016-08-15 | LUCKI | Freewave 3 |
+| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0bddfa49e1d95f620267fac8f4663a60.png) | 2016-11-28 | Young Thug | Jeffery |
+| 11 | ![Cover](https://i.discogs.com/M2RDkyb2D2mGnhmFkdXl5P1dPGH5N_ggiT2IBASdB5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjIy/NDMwLTE1Mzg3ODEz/NDYtNzY5MC5qcGVn.jpeg) | 2017 | Bladee | Plastic Surgery |
+| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/15522d0175145dbea00c553c7bd338f1.png) | 2017-01-27 | Migos | Culture |
 | 42 | ![Cover](https://i.discogs.com/CqZ-1P65wygysp6AqjAk_mKY0SmLqPplezLu5DKi3DE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc4/OTI3LTE1OTY2NjQx/MDQtMzM5Ni5qcGVn.jpeg) | 2017-06-08 | LIL PEEP | Castles II |
-| 25 | ![Cover](https://i.discogs.com/UvmLe9l2uou3Fa_QQxwgHHEg4WITdSYXHNVV1yUcasY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAy/NjQ1LTE1OTc0MTY5/NTktODg4MS5qcGVn.jpeg) | 2018-05-11 | Playboi Carti | Die Lit |
+| 24 | ![Cover](https://i.discogs.com/UvmLe9l2uou3Fa_QQxwgHHEg4WITdSYXHNVV1yUcasY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAy/NjQ1LTE1OTc0MTY5/NTktODg4MS5qcGVn.jpeg) | 2018-05-11 | Playboi Carti | Die Lit |
 | 33 | ![Cover](https://i.discogs.com/6sjkRQaiGMbv5_YUc1FpNGBhzgPUPRD5dnhqBklDSA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMw/NDA2LTE1MzMwNjE2/NjctMzA0My5qcGVn.jpeg) | 2018-07-27 | Denzel Curry | TA13OO |
-| 16 | ![Cover](https://i.discogs.com/Crw1-dyT0sZ33K73y3oEYMN9oMQ2eG48k-i6btfnJC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA3/MjUyLTE1NDgyNzI4/ODktNjcyMy5qcGVn.jpeg) | 2018-11-02 | Metro Boomin | NOT ALL HEROES WEAR CAPES (Deluxe) |
+| 14 | ![Cover](https://i.discogs.com/Crw1-dyT0sZ33K73y3oEYMN9oMQ2eG48k-i6btfnJC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA3/MjUyLTE1NDgyNzI4/ODktNjcyMy5qcGVn.jpeg) | 2018-11-02 | Metro Boomin | NOT ALL HEROES WEAR CAPES (Deluxe) |
 | 40 | ![Cover](https://i.discogs.com/9Sgh_dfPJfqUakivNHYsFikmkK1wL5nfL-2JXPU-W9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc5/MTk2LTE1NDM3MDc3/MDktMTQ4MS5qcGVn.jpeg) | 2018-11-30 | SKI MASK THE SLUMP GOD | Stokeley |
-| 6 | ![Cover](https://i.discogs.com/su7OXgIA3o0o_MMge04_lCpnZbcNt_OL4h3dZKcWu50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODM4/NTc2LTE2NTk4Mjg1/MjgtNzIwNC5qcGVn.jpeg) | 2018-12-06 | King Von | Crazy Story |
+| 5 | ![Cover](https://i.discogs.com/su7OXgIA3o0o_MMge04_lCpnZbcNt_OL4h3dZKcWu50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODM4/NTc2LTE2NTk4Mjg1/MjgtNzIwNC5qcGVn.jpeg) | 2018-12-06 | King Von | Crazy Story |
 | 44 | ![Cover](https://i.discogs.com/o3TcflzttycVN_J51eK9gNPOJyHK-d52JtlRP7M8M9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc4/NzY1LTE1OTM5NjYz/ODctOTE3Ny5qcGVn.jpeg) | 2018-12-07 | xxxtentacion | Skins |
 | 37 | ![Cover](https://i.discogs.com/3ghsWgBpsw1Vdt1i5HMM9Wc8Oflr2nGvfJfZlzqMpUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTIw/MDktMTY2MTM1NDc1/Ny01MDY2LmpwZWc.jpeg) | 2018-12-14 | LIL UZI VERT | The Perfect Luv Tape |
 | 32 | ![Cover](https://i.discogs.com/sLBvROZgTjgReWEATa-iTwSv9Wi9ICttJMWkKgVkMrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTkw/NDU0LTE1NDk2NTI1/NTUtNTQ2OC5qcGVn.jpeg) | 2019-02-08 | Ariana Grande | Thank U, Next |
-| 8 | ![Cover](https://i.discogs.com/SVqZxRdvppZrR7ZyNO6VMXgL-iCG2KjhktnjxcBnZkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzEw/OTk2LTE1NTk1MTYx/ODEtNTU2MS5qcGVn.jpeg) | 2019-03-06 | Yung Lean | Total Eclipse |
+| 7 | ![Cover](https://i.discogs.com/SVqZxRdvppZrR7ZyNO6VMXgL-iCG2KjhktnjxcBnZkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzEw/OTk2LTE1NTk1MTYx/ODEtNTU2MS5qcGVn.jpeg) | 2019-03-06 | Yung Lean | Total Eclipse |
 | 43 | ![Cover](https://i.discogs.com/Iwj9zSOdwc5iF8mKtd22zzxe4IqTYVNnxED9h3n7hTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIx/OTQ3LTE1NjQxMzQ1/ODUtMjQ4Ny5qcGVn.jpeg) | 2019-07-26 | Bladee | Vanilla Sky |
-| 4 | ![Cover](https://i.discogs.com/nz18LozX0pXyvoypw7NFXfRw_ImnImqwK6gOy0w2CzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU5/Mzg1LTE1ODI5NzYx/MjMtMTUwNS5qcGVn.jpeg) | 2020-02-29 | Bad Bunny | YHLQMDLG |
-| 27 | ![Cover](https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg) | 2020-04-30 | YABUJIN | HARDSTYLE DRILL 2009 NOKIA ANGELZ 1.6 |
-| 18 | ![Cover](https://i.discogs.com/JyYmhMDLWn0XrwEmF0_IDvNDlkuyqqP353p83KfCqAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTM4/ODE3LTE2NTgyNzcy/MzEtMzAwNi5qcGVn.jpeg) | 2020-05-01 | Luci4 | All Eyez on Me |
+| 3 | ![Cover](https://i.discogs.com/nz18LozX0pXyvoypw7NFXfRw_ImnImqwK6gOy0w2CzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU5/Mzg1LTE1ODI5NzYx/MjMtMTUwNS5qcGVn.jpeg) | 2020-02-29 | Bad Bunny | YHLQMDLG |
+| 26 | ![Cover](https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg) | 2020-04-30 | YABUJIN | HARDSTYLE DRILL 2009 NOKIA ANGELZ 1.6 |
+| 16 | ![Cover](https://i.discogs.com/JyYmhMDLWn0XrwEmF0_IDvNDlkuyqqP353p83KfCqAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTM4/ODE3LTE2NTgyNzcy/MzEtMzAwNi5qcGVn.jpeg) | 2020-05-01 | Luci4 | All Eyez on Me |
 | 39 | ![Cover](https://i.discogs.com/HyjR67Tuxa8_QOaFdBm8DTQPwuSGGB-XJ4BxC9E93fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjYx/NDk3LTE2Mjc1MTcy/MjktNjkzOC5qcGVn.jpeg) | 2020-08-01 | d0llywood1 | ihonestlymightjustgiveup |
 | 34 | ![Cover](https://i.discogs.com/qiw76Fw99MkLJ2MBn0LU1JSp3V64dE1gSyWfVX0J-Bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTI3/NjE4LTE2MTc0MDUz/ODQtNjkzOC5qcGVn.jpeg) | 2020-08-07 | Juice WRLD | Come &amp; Go (with Marshmello) |
 | 48 | ![Cover](https://i.discogs.com/NZk2uLH0m5ebpHP6yWl2NRIog2lmXVcpmN-pEFzpA0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzA5/OTk5LTE2OTU4Mjk2/NjMtNzY3MC5qcGVn.jpeg) | 2020-08-14 | Ken Carson | Teen X |
-| 28 | ![Cover](https://i.discogs.com/oeEEdtb2TKwSDKX0aoCmjDnl0j_gs_KQuOYDqS3ZrvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI0/MjQxLTE2MTAzNzI3/OTMtOTU3MC5qcGVn.jpeg) | 2020-12-11 | Kid Cudi | Man On The Moon III: The Chosen |
+| 27 | ![Cover](https://i.discogs.com/oeEEdtb2TKwSDKX0aoCmjDnl0j_gs_KQuOYDqS3ZrvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDI0/MjQxLTE2MTAzNzI3/OTMtOTU3MC5qcGVn.jpeg) | 2020-12-11 | Kid Cudi | Man On The Moon III: The Chosen |
 | 31 | ![Cover](https://i.discogs.com/qzgvLVyhZef9vS6JRIpNvpfq0cB5tJRMxG09OdIrxHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODg5/NDMzLTE1ODY1OTk3/MzUtODg0NC5qcGVn.jpeg) | 2021 | LIL UZI VERT | Eternal Atake |
-| 26 | ![Cover](https://i.discogs.com/JyYmhMDLWn0XrwEmF0_IDvNDlkuyqqP353p83KfCqAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTM4/ODE3LTE2NTgyNzcy/MzEtMzAwNi5qcGVn.jpeg) | 2021-05-01 | Luci4 | Dying in xxtyle 3 |
-| 3 | ![Cover](https://i.discogs.com/N8G9-C7z5B93YAZ-67z-ThX3xhSbudVdkkTG5o9AXYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODYz/NTM5LTE2MjE4Njk1/NDctNDk3NC5qcGVn.jpeg) | 2021-05-14 | Glaive | cypress grove |
+| 25 | ![Cover](https://i.discogs.com/JyYmhMDLWn0XrwEmF0_IDvNDlkuyqqP353p83KfCqAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTM4/ODE3LTE2NTgyNzcy/MzEtMzAwNi5qcGVn.jpeg) | 2021-05-01 | Luci4 | Dying in xxtyle 3 |
+| 2 | ![Cover](https://i.discogs.com/N8G9-C7z5B93YAZ-67z-ThX3xhSbudVdkkTG5o9AXYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODYz/NTM5LTE2MjE4Njk1/NDctNDk3NC5qcGVn.jpeg) | 2021-05-14 | Glaive | cypress grove |
 | 38 | ![Cover](https://i.discogs.com/r8C6GnJEkufj2GDQcaJE61CbIZfOe06EaYD-DOAtIDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/NzY0LTE2NjQ5Njc2/NzYtMTc0MC5qcGVn.jpeg) | 2021-08-05 | yeat | Trëndi |
-| 22 | ![Cover](https://i.discogs.com/pEIOixZJPKVbPt6SrExEYFcuLF7CHIPsLC5WFT6eeXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTU3/NzE5LTE2NDc2MjUw/MTItMTY4NC5qcGVn.jpeg) | 2021-10-15 | Trippie Redd | Matt Hardy 999 (feat. Juice WRLD) |
-| 1 | ![Cover](https://i.discogs.com/wVJn3UaAszjvAmG5gQhMDLtWiPe_U7Kz99tsbxidaIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjU0/MTUxLTE1Nzg5ODUw/MDktODUxNy5qcGVn.jpeg) | 2021-11-05 | Summer Walker | Life On Earth - EP |
-| 17 | ![Cover](https://i.discogs.com/XrYeLZ_4O4UfgZZINDKSdfsl8sZrr6WoI7qGVrnP1vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQ2/Njg0LTE2MjA0MjU3/MjMtOTk0MS5qcGVn.jpeg) | 2021-11-05 | Aminé | ONEPOINTFIVE |
-| 11 |  | 2022-02-12 | Drain Gang Archive | HOLD ME DOWN LIKE GRAVITY |
+| 21 | ![Cover](https://i.discogs.com/pEIOixZJPKVbPt6SrExEYFcuLF7CHIPsLC5WFT6eeXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTU3/NzE5LTE2NDc2MjUw/MTItMTY4NC5qcGVn.jpeg) | 2021-10-15 | Trippie Redd | Matt Hardy 999 (feat. Juice WRLD) |
+| 15 | ![Cover](https://i.discogs.com/XrYeLZ_4O4UfgZZINDKSdfsl8sZrr6WoI7qGVrnP1vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQ2/Njg0LTE2MjA0MjU3/MjMtOTk0MS5qcGVn.jpeg) | 2021-11-05 | Aminé | ONEPOINTFIVE |
+| 10 |  | 2022-02-12 | Drain Gang Archive | HOLD ME DOWN LIKE GRAVITY |
 | 45 | ![Cover](https://i.discogs.com/SBEyq2QeS8U4U9ooaKrFCtuF4ShAbWOaInF8MjcygyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDU4/MjY2LTE2NTEyNjk4/OTktNjIxMy5qcGVn.jpeg) | 2022-04-29 | Future | I Never Liked You |
 | 49 | ![Cover](https://i.discogs.com/764ggbeU4T6cV9z0uMt9qkLyxMQ1Mrr_64ex48_0mpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjA4/MDMyLTE2NTM2Njg4/MTctNjA0Mi5qcGVn.jpeg) | 2022-05-13 | Kendrick Lamar | Mr. Morale &amp; the Big Steppers |
-| 7 |  | 2022-07-29 | $uicideboy$ | Sing Me A Lullaby, My Sweet Temptation |
+| 6 |  | 2022-07-29 | $uicideboy$ | Sing Me A Lullaby, My Sweet Temptation |
 | 50 | ![Cover](https://i.discogs.com/aoFnKvSMVxKOsTmLSDPQ3QOPK-ZmLXMXz2xyn1J8l98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzI1/NzUzLTE2NjQ5NjY4/ODUtMjU1MC5qcGVn.jpeg) | 2022-09-09 | yeat | Lyfë |
-| 14 | ![Cover](https://i.discogs.com/_8LZkqgYIxr-3wQj5drDQ6UplmKkqzz9h4uwixVlsMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQ2/MjQ5LTE2ODgyMTI4/NTEtNDkwNi5qcGVn.jpeg) | 2023-06-30 | LIL UZI VERT | PINK TAPE |
-| 24 | ![Cover](https://i.discogs.com/j-O5Wj479PK4_2Z4p25u3alpjv2IZVY0TdX6y14_3bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAy/NTYzLTE2OTA1NDY2/MTEtOTY4OS5qcGVn.jpeg) | 2023-07-31 | Travis Scott | Utopia |
-| 21 | ![Cover](https://i.discogs.com/tycClN8s9QKk_lCzM9xwJS7wSpOyxsbQx55STgob9c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEw/MjUzLTE2OTIzODIx/NzItNTYwNi5qcGVn.jpeg) | 2023-08-18 | Addison Rae | AR |
+| 12 | ![Cover](https://i.discogs.com/_8LZkqgYIxr-3wQj5drDQ6UplmKkqzz9h4uwixVlsMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQ2/MjQ5LTE2ODgyMTI4/NTEtNDkwNi5qcGVn.jpeg) | 2023-06-30 | LIL UZI VERT | PINK TAPE |
+| 23 | ![Cover](https://i.discogs.com/j-O5Wj479PK4_2Z4p25u3alpjv2IZVY0TdX6y14_3bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAy/NTYzLTE2OTA1NDY2/MTEtOTY4OS5qcGVn.jpeg) | 2023-07-31 | Travis Scott | Utopia |
+| 19 | ![Cover](https://i.discogs.com/tycClN8s9QKk_lCzM9xwJS7wSpOyxsbQx55STgob9c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEw/MjUzLTE2OTIzODIx/NzItNTYwNi5qcGVn.jpeg) | 2023-08-18 | Addison Rae | AR |
 | 35 | ![Cover](https://i.discogs.com/TGXH3Vn117miRv-Ch9-I2Ei8Qx6kdPc9XfBiLzRYs5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjI4/NjY4LTE2OTc2MjQy/MzYtNzk3Ni5qcGVn.jpeg) | 2023-10-13 | Ken Carson | A Great Chaos |
-| 2 | ![Cover](https://i.discogs.com/BgAulR25L3x83MV1nsIetkx1sjJn9E47eexTtYF0Krk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA2/MDY0LTE2MTUxMzQ3/MDgtNzI1NC5qcGVn.jpeg) | 2023-11-24 | Denzel Curry | ZUU |
-| 15 |  | 2024-06-14 | Don Toliver | HARDSTONE PSYCHO |
+| 1 | ![Cover](https://i.discogs.com/BgAulR25L3x83MV1nsIetkx1sjJn9E47eexTtYF0Krk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA2/MDY0LTE2MTUxMzQ3/MDgtNzI1NC5qcGVn.jpeg) | 2023-11-24 | Denzel Curry | ZUU |
+| 13 |  | 2024-06-14 | Don Toliver | HARDSTONE PSYCHO |
 | 47 |  |  | ¥$ | Vultures 1 |
 | 86 | ![Cover](https://i.discogs.com/CQlP5d8fTAwE15HxLvUwnHpOeGNsNT2Ba9AgeDrlUiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjY3/MDcwLTE2MzQ3NDg5/NTctNzc3NS5qcGVn.jpeg) | 1983 | Corpse | HOT DEMON B!TCHES NEAR U ! ! ! |
 | 94 | ![Cover](https://i.discogs.com/c9H_UtKjc0CAUfqqZikHcuCCxksBYfNRBiJT0mJKjmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzA3/ODYxLTE2MDkzNjEx/NTktOTQwNi5qcGVn.jpeg) | 1988 | Corpse | E-GIRLS ARE RUINING MY LIFE! |
