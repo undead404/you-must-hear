@@ -1,18 +1,19 @@
 ---
 category: genre
-date: 2025-10-26T09:21:19.786Z
+date: 2025-10-27T17:52:54.244Z
 permalink: tags/alt-country
 title: alt-country
 ---
 
 ## alt-country
 
-Last updated: <time datetime="2025-10-26T09:21:19.786Z">Sun Oct 26 2025 11:21:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-27T17:52:54.244Z">Mon Oct 27 2025 19:52:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3800a09ce5c24143a3249a7316aeaee6.png) | 1970 | Vashti Bunyan | Just Another Diamond Day |
 | 71 | ![Cover](https://i.discogs.com/w0CEjHuQrfrvwcEd8C68Us_g_-sdQie04ZIGuMYBF_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzMz/ODMtMTYyMzk3NjU4/OS0xOTYxLmpwZWc.jpeg) | 1973 | John Denver | John Denver&#39;s Greatest Hits |
 | 43 | ![Cover](https://i.discogs.com/tOTDjEnMOdPRoxe4UlEfy9TgFzShC86nYEvmYHl7X-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk0/OTEtMTI5NjAwMjk1/NS5qcGVn.jpeg) | 1986-03-05 | Steve Earle | Guitar Town |
 | 29 |  | 1987 | Lyle Lovett | Pontiac |
@@ -99,7 +100,6 @@ Last updated: <time datetime="2025-10-26T09:21:19.786Z">Sun Oct 26 2025 11:21:19
 | 10 |  | 2011-09-12 | Chuck Ragan | Covering Ground |
 | 61 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3d3e1da44f39488c897cb3c3a186d091.png) | 2012-04-09 | M. Ward | A Wasteland Companion |
 | 72 | ![Cover](https://i.discogs.com/_RoBhCni7a3Zd1SnjiftwkpZT0kKP4zP6-Gz1_m51sU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDQ5/MC0xNjU5MjE3OTgz/LTI2MDAuanBlZw.jpeg) | 2015-10-05 | 16 Horsepower | Sackcloth N Ashes |
-| 1 | ![Cover](https://i.discogs.com/b-d-RnnnWGEvOe9tJyz36EzbKGUdqUT_FoWWT1PElpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzQ3/MDQtMTQ2MTE5Nzgx/My0xMzY0LmpwZWc.jpeg) | 2016-04-15 | Sturgill Simpson | A Sailor&#39;s Guide to Earth |
 | 73 | ![Cover](https://i.discogs.com/pEysmDRLd8496uRuWBflrDXPoaJXtUq1CwNg27WNFGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA3/OTc3LTE0OTUwNTQy/NDItMTEwNi5qcGVn.jpeg) | 2017 | Justin Townes Earle | Maybe A Moment &#x2F; Graceland |
 | 93 | ![Cover](https://i.discogs.com/bhCjtzkqp8tSi86P1eB6xWwr-05XR9SbQpevg8YXB_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA1/NzM1LTE1MTg5Njk1/NjQtNzc2My5qcGVn.jpeg) | 2017-05-19 | Alex G | Rocket |
 | 97 | ![Cover](https://i.discogs.com/PwpcD5NPjuwVSE7DPzJNeWyKdX4eIl9AwLNBpIk5xfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY0/MDQ5LTE1MDkxOTI4/OTMtOTgwMi5qcGVn.jpeg) | 2017-10-27 | Slaughter Beach, Dog | Birdie |
