@@ -1,24 +1,29 @@
 ---
 category: genre
-date: 2025-10-22T04:00:33.809Z
+date: 2025-10-28T15:58:44.543Z
 permalink: tags/asian
 title: asian
 ---
 
 ## asian
 
-Last updated: <time datetime="2025-10-22T04:00:33.809Z">Wed Oct 22 2025 07:00:33 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T15:58:44.543Z">Tue Oct 28 2025 17:58:44 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+&quot;Asian music&quot; is a broad term that can refer to music from a wide range of cultures and regions in Asia, including but not limited to traditional folk music, classical music, pop music, rock music, hip hop, electronic dance music, and more. Depending on the specific region or country, Asian music can feature a variety of unique instruments, vocal styles, rhythms, and melodies. For example, traditional Japanese music often features the koto (a stringed instrument), while Indian music is characterized by complex rhythms and vocal ornamentation.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
+| 1 |  |  | Trendz | BLUE SET Chapter 1. TRACKS |
 | 26 | ![Cover](https://i.discogs.com/IW-98omBi5t7AQO7DVLaSKTedNcOAchaHMPeAppvyFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTE1/Ni0xNTM1NTAwMTAy/LTY3NjcuanBlZw.jpeg) | 1980 | Playback | PlayBack |
 | 46 | ![Cover](https://i.discogs.com/IW-98omBi5t7AQO7DVLaSKTedNcOAchaHMPeAppvyFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTE1/Ni0xNTM1NTAwMTAy/LTY3NjcuanBlZw.jpeg) | 1980 | Playback | Want You To Say |
 | 15 | ![Cover](https://i.discogs.com/iBekw3O22wLlx4FhRDBqtdCAp8mikXqJXdxEuW3PsHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTcw/NTEtMTM3ODcyNzcy/OC0yMDUxLmpwZWc.jpeg) | 1988 | April | APRIL 3rd Mini Album &#39;Prelude&#39; |
 | 27 | ![Cover](https://i.discogs.com/iBekw3O22wLlx4FhRDBqtdCAp8mikXqJXdxEuW3PsHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTcw/NTEtMTM3ODcyNzcy/OC0yMDUxLmpwZWc.jpeg) | 1988 | April | APRIL 2nd Single Album &#39;MAYDAY&#39; |
-| 1 | ![Cover](https://i.discogs.com/OZNZGMGfKw2YfbGlmg0roU9h93o7ycojoEohfU0KXFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTgz/NC0xMDk0NDk4ODI2/LmpwZWc.jpeg) | 1994 | Lisa | だってアタシのヒーロー。 |
-| 2 | ![Cover](https://i.discogs.com/xFU_HVbva1ZFShRmDuRNuXyUzr7wzgvQLlJh93DTzLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjY1/LTExNTQ2OTMyMjEu/anBlZw.jpeg) | 1994 | Lisa | Catch the Moment |
+| 2 | ![Cover](https://i.discogs.com/OZNZGMGfKw2YfbGlmg0roU9h93o7ycojoEohfU0KXFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTgz/NC0xMDk0NDk4ODI2/LmpwZWc.jpeg) | 1994 | Lisa | だってアタシのヒーロー。 |
+| 3 | ![Cover](https://i.discogs.com/xFU_HVbva1ZFShRmDuRNuXyUzr7wzgvQLlJh93DTzLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjY1/LTExNTQ2OTMyMjEu/anBlZw.jpeg) | 1994 | Lisa | Catch the Moment |
 | 20 | ![Cover](https://i.discogs.com/OZNZGMGfKw2YfbGlmg0roU9h93o7ycojoEohfU0KXFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTgz/NC0xMDk0NDk4ODI2/LmpwZWc.jpeg) | 1994 | Lisa | ASH |
 | 42 | ![Cover](https://i.discogs.com/0uJlqOEcnGAuJ7yTHZ65_qQrbchGg3c1Kq3B92e28O0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjM5/NTU4LTE2NTU3NDc4/ODktNDkwNS5qcGVn.jpeg) | 1996 | Red Velvet | 환생 Rebirth |
 | 40 | ![Cover](https://i.discogs.com/oVRhYqlNQPf0mK9mrAHzhI17EIzxzrKMXNG9Yke2kRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjky/LTEzNDk0NDM4Mjct/MzUxNC5wbmc.jpeg) | 2002 | Pentagon | CEREMONY |
@@ -28,12 +33,12 @@ Last updated: <time datetime="2025-10-22T04:00:33.809Z">Wed Oct 22 2025 07:00:33
 | 39 | ![Cover](https://i.discogs.com/hVQD_WxOqXLMvtvdnSt43xYnddJew69T9ApeOlBnDAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjI2/MzMyLTE1MzA5MDI4/MTktMTU1OS5wbmc.jpeg) | 2006 | Luna | Free Somebody - The 1st Mini Album |
 | 18 |  | 2006-09-20 | YUI | I remember you |
 | 37 |  | 2006-09-27 | ギルガメッシュ | 13&#39;s Reborn |
-| 3 |  | 2007-03-07 | YUI | CHE.R.RY |
+| 4 |  | 2007-03-07 | YUI | CHE.R.RY |
 | 19 |  | 2007-11-28 | アリス九號. | Alpha |
 | 35 |  | 2008-11-05 | 茅原実里 | Paradise Lost |
 | 22 |  | 2009-03-25 | Perfume | ワンルーム・ディスコ |
-| 5 |  | 2009-12-02 | 東京事変 | 能動的三分間 |
-| 4 | ![Cover](https://i.discogs.com/SB32meAVrU2zN8W-nyd5bXTaiSZ4BkRXVoH3uuOSkME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzY0/ODQxLTE2ODE1MzM2/MTQtOTI1NS5qcGVn.jpeg) | 2011 | Kingdom | History Of Kingdom: Pt. IV. Dann |
+| 6 |  | 2009-12-02 | 東京事変 | 能動的三分間 |
+| 5 | ![Cover](https://i.discogs.com/SB32meAVrU2zN8W-nyd5bXTaiSZ4BkRXVoH3uuOSkME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzY0/ODQxLTE2ODE1MzM2/MTQtOTI1NS5qcGVn.jpeg) | 2011 | Kingdom | History Of Kingdom: Pt. IV. Dann |
 | 23 |  | 2011-05-11 | UVERworld | CORE PRIDE |
 | 7 |  | 2011-11-16 | KOTOKO | LIGHT MY FIRE |
 | 43 |  | 2012-05-24 | VIXX | SUPER HERO |
@@ -43,7 +48,6 @@ Last updated: <time datetime="2025-10-22T04:00:33.809Z">Wed Oct 22 2025 07:00:33
 | 31 | ![Cover](https://i.discogs.com/-_-ow4Uowx9iuTwukuC2U7LaeBb49SRxuPjKkCZvkp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzg1/MDQ1LTE1MTUzNTU2/ODQtMjE4MC5qcGVn.jpeg) | 2014-08-17 | 40mP | 41m |
 | 14 | ![Cover](https://i.discogs.com/xlH2PxRNY7eO2GxhwjYVYuK2OJmd9bHFWvtUjqei2aE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Nzg3/MTAtMTQ2ODU4OTMz/Ny03OTA4LmpwZWc.jpeg) | 2015-07-08 | Suchmos | THE BAY |
 | 38 | ![Cover](https://i.discogs.com/z2aFH1XAfR92Nlw6v0vzbyIDcmoHpzWp34V7hI0GE4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDU1/NTQ3LTE0OTA4Mzgx/MDYtNzcwNy5qcGVn.jpeg) | 2016-12-13 | Pentagon | Five Senses |
-| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3609a64415d7abc324efaf5edfcbe8b0.png) | 2017-01-17 | BAND-MAID | JUST BRING IT |
 | 25 | ![Cover](https://i.discogs.com/lWcpAJwjgT7PB9GRAk0wdOnN3Nsf-JlRdyTpoPLLdvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/NjY4LTE0OTc1NjY2/ODctODg1OS5qcGVn.jpeg) | 2017-02-22 | SHISHAMO | SHISHAMO 4 |
 | 16 | ![Cover](https://i.discogs.com/1Fv91md4naicstpI4VnyTVXtDNX-6hN6xYsr7RPu_Zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU0/NTEyLTE0OTI1NTky/ODEtNjA5MS5qcGVn.jpeg) | 2017-04-17 | Minzy | Minzy Work 01 Uno |
 | 50 | ![Cover](https://i.discogs.com/uyM1ryPwG7TOxh4VmvaTpTIUMxbt9KoZi31kYVG4Nb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ2/NjE5LTE1NTI0OTk4/MDgtNzMyOC5qcGVn.jpeg) | 2017-07-18 | Taemin | Flame of Love |

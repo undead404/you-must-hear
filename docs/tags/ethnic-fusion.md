@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T03:58:15.362Z
+date: 2025-10-28T15:36:39.085Z
 permalink: tags/ethnic-fusion
 title: ethnic fusion
 ---
 
 ## ethnic fusion
 
-Last updated: <time datetime="2025-10-22T03:58:15.362Z">Wed Oct 22 2025 06:58:15 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T15:36:39.085Z">Tue Oct 28 2025 17:36:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -16,31 +16,31 @@ Last updated: <time datetime="2025-10-22T03:58:15.362Z">Wed Oct 22 2025 06:58:15
 | 2 |  |  | Rei Teytum | Rei Teytum - Demo |
 | 6 |  |  | Rei Teytum | Viajeros |
 | 8 |  |  | Laura Olson | Gypsy Road |
-| 12 | ![Cover](https://i.discogs.com/4XwL4TEq5zq2Snndy8mW_Yil7qrarCD4M4D4Spa_2kg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU5/MjYtMTQyODQ3NTg1/Mi01NzkzLmpwZWc.jpeg) | 2000-01-11 | Sevda | Sevda |
 | 14 |  |  | Uncle Rex | Fingerspeech |
-| 16 |  |  | Pasqualino Ubaldini | Il viandante |
 | 17 |  |  | イラナ | 永遠の草原 |
+| 27 |  |  | Gubernator | Chukotka - region 87 |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fdff5de456c9f75d895d48f9b9b9b681.png) | 1989 | Thinking Plague | In This Life |
+| 49 |  | 1996-06-03 | Dead Can Dance | Spiritchaser |
 | 34 | ![Cover](https://i.discogs.com/5lTqhQr7tbzkovLklDTwzGEeJCAQmKKkrEKe_yDTlck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDY2/NzEtMTMzODAyOTgw/NC0yNDM1LmpwZWc.jpeg) | 1997 | Estasia | Stasi |
+| 18 | ![Cover](https://i.discogs.com/_zYVFqhngN5bhgpoWk-VqmS6CVYINkNklGLYvrloz7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMz/Mi0xNTY4MzA2NDU4/LTMxMjIuanBlZw.jpeg) | 2000 | Delerium | Karma (Disk 1) |
+| 12 | ![Cover](https://i.discogs.com/4XwL4TEq5zq2Snndy8mW_Yil7qrarCD4M4D4Spa_2kg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU5/MjYtMTQyODQ3NTg1/Mi01NzkzLmpwZWc.jpeg) | 2000-01-11 | Sevda | Sevda |
+| 16 |  |  | Pasqualino Ubaldini | Il viandante |
 | 23 |  | 1997-04-22 | Delerium | Karma |
 | 22 | ![Cover](https://i.discogs.com/UGdThrY8bxGiMW1O5D3g25ouc-QCTcx0fykRaUyYJMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQx/NTE4LTE1OTUxMDI3/NzktMjgzNi5qcGVn.jpeg) | 1998-06-15 | Mysteria | Tribal Instinct |
-| 27 |  |  | Gubernator | Chukotka - region 87 |
-| 36 |  |  | Meghdad Alibakhshi | Two Worlds , Two Lifes |
 | 38 |  |  | Mánkenni | Mánkenni |
 | 39 |  |  | Apples From Mars | Apple Number One |
 | 41 | ![Cover](https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg) | 1987 | Various Artists | Hotel Tara 2 |
-| 49 |  | 1996-06-03 | Dead Can Dance | Spiritchaser |
 | 28 |  | 1999 | Das Zeichen | Aufgewacht |
-| 18 | ![Cover](https://i.discogs.com/_zYVFqhngN5bhgpoWk-VqmS6CVYINkNklGLYvrloz7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMz/Mi0xNTY4MzA2NDU4/LTMxMjIuanBlZw.jpeg) | 2000 | Delerium | Karma (Disk 1) |
 | 50 |  | 2000 | Walela | Unbearable Love |
 | 3 | ![Cover](https://i.discogs.com/VBgHM_097qhcbhRRSlJ175QORaFyzjws4373nEc-igU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTE4/MTczLTE2MDAxNzc5/ODgtODA4NC5qcGVn.jpeg) | 2001 | Jack Jezzro &amp; David Lyndon Huff | Worldbeat Brazil |
 | 13 | ![Cover](https://i.discogs.com/C9GHAEfTa05b9UZSVD1MgLNVR_MttRP_ElSjXVbNQ04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDE0/MzIxLTE2NzU3MDY1/NTgtMjY1Ny5qcGVn.jpeg) | 2002 | Guezos | 99 - 06 |
 | 29 | ![Cover](https://i.discogs.com/ZGKeIJBWQagtVcwMzltXFFi_9ZYku4wJEs2K6KdJJEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDcx/Mi0xNDYyMDcyMTE5/LTk2MTEuanBlZw.jpeg) | 2004 | Mercan Dede | Fusion Monster |
 | 30 |  | 2004-09-21 | Lesiëm | Auracle |
 | 26 | ![Cover](https://i.discogs.com/ocDcXaQwsSpJgeD8SzpNFdJ3Y00_bqaEErYymVVAfGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzM5/Mi0xMjMzMTM1MzE4/LmpwZWc.jpeg) | 2005 | Dubdiver | Liquid Meditations (Ambient Reworks) |
-| 1 | ![Cover](https://i.discogs.com/HdqorCJDV9dJ5SaDkky3LBE5lnhJlbvS1_UfYjl_CDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjcy/NjIxLTE2NjExMTAw/MTMtMTMwNi5qcGVn.jpeg) | 2007 | Café Del Mar | Cafe del Mar Classic III |
 | 33 | ![Cover](https://i.discogs.com/HdqorCJDV9dJ5SaDkky3LBE5lnhJlbvS1_UfYjl_CDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjcy/NjIxLTE2NjExMTAw/MTMtMTMwNi5qcGVn.jpeg) | 2007 | Café Del Mar | Café del Mar Classic III |
 | 35 |  | 2007-02-13 | Achillea | Amadas Estrellas |
 | 25 | ![Cover](https://i.discogs.com/Ev1qB8Zudke00RCW10FkFEVhefyrPqBP3CRf1v2hC5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDYw/MTEtMTIxMTQ5Mzc3/Ni5qcGVn.jpeg) | 2008-03-10 | Magda Piskorczyk | Afro Groove |
+| 40 |  |  | Igapó de Almas | Laborioso Vinho |
 | 46 | ![Cover](https://i.discogs.com/q7nux_1dzzO_dWtxKuEOi946gw46RoXdlgiItUgLeg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODU2/NTItMTQyNDYwNTc1/OS03NzAxLmpwZWc.jpeg) | 2009-03-22 | Shahab Tolouie | Tango Perso |
 | 45 | ![Cover](https://i.discogs.com/TulKzJk53zEjvgPBLJi0YiIjPwJZjk74wEAqM23-4vI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTI5/ODktMTI2Njg3Mzk5/OS5qcGVn.jpeg) | 2009-12-11 | Mirage of Deep | Deep Flow |
 | 42 | ![Cover](https://i.discogs.com/jz_CnmdLEpTNCLn2csz4IgUD1p-8sCy8doHVdFizeYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzc1/NjEtMTUwMzU5Mjcw/My0zNTQ2LmpwZWc.jpeg) | 2011-09-16 | Eccodek | Remixtasy |
@@ -62,7 +62,7 @@ Last updated: <time datetime="2025-10-22T03:58:15.362Z">Wed Oct 22 2025 06:58:15
 | 24 | ![Cover](https://i.discogs.com/KpX9kkRpQ2HvxNKbtmrfN6xx6PG7BggK3DXcZTt_a3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTE1/MTkwLTE3MDE3Njcw/MzQtOTU5My5wbmc.jpeg) | 2023-08-18 | Mudbard | Hedningarna |
 | 37 | ![Cover](https://i.discogs.com/NRnE8hc9QVgmKEWgzLox-18QkRvecRj5Itk-v_kfWEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDYz/ODk1LTE3MDUwNTQz/ODEtNDMzNS5qcGVn.jpeg) | 2024-02-02 | Mudbard | Galdr |
 | 15 | ![Cover](https://i.discogs.com/HQX82oMNYc8ROwpQU69UXm7zOjAbCsLl7Chl7RPYtxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTUy/OTkzLTE3MTA5NDc2/NDMtNDE4NS5qcGVn.jpeg) | 2024-04-05 | Mudbard | Nezaan |
-| 40 |  |  | Igapó de Almas | Laborioso Vinho |
+| 36 |  |  | Meghdad Alibakhshi | Two Worlds , Two Lifes |
 | 75 | ![Cover](https://i.discogs.com/1v0_LdppVTEcGm7BLqM3-c3waC24hFhEQQAAEQcdHmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDUz/MzYtMTMzMzEwODUz/NS5qcGVn.jpeg) | 1974 | Aktuala | La terra |
 | 73 | ![Cover](https://i.discogs.com/VqrJYtwqiG0ZHHUwUwa08LGvG044hWpKeWfDOm96nag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU5/NjctMTI2NTQ1Mjkw/My5qcGVn.jpeg) | 1981 | Modus | Modus |
 | 61 | ![Cover](https://i.discogs.com/hega0Fgo6XFPtGFptdjP9ShgvOa_LGEq3BSd7VR1CUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjU1/OC0xMTE0NDE3MDI1/LmpwZw.jpeg) | 1986 | Ginger Baker | Horses &amp; Trees |

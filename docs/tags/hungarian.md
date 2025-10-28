@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T02:18:48.592Z
+date: 2025-10-28T15:33:48.021Z
 permalink: tags/hungarian
 title: hungarian
 ---
 
 ## hungarian
 
-Last updated: <time datetime="2025-10-22T02:18:48.592Z">Wed Oct 22 2025 05:18:48 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T15:33:48.021Z">Tue Oct 28 2025 17:33:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -16,49 +16,49 @@ Last updated: <time datetime="2025-10-22T02:18:48.592Z">Wed Oct 22 2025 05:18:48
 | 29 |  | 1983 | Deák Bill Gyula | Rossz vér |
 | 37 | ![Cover](https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg) | 1987 | Various Artists | UgarFree vol. 1 |
 | 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3bd8bb3f97f84d009c115ddc2e1cf38b.png) | 1988-03 | Ossian | Acélszív |
-| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/47d99eb8ba5dd6e5289c4ff4ec181523.png) | 1988-08 | Tormentor | Anno Domini |
-| 5 |  | 1991 | László Hortobágyi | Traditional Music of Amygdala |
+| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/47d99eb8ba5dd6e5289c4ff4ec181523.png) | 1988-08 | Tormentor | Anno Domini |
+| 7 |  | 1991 | László Hortobágyi | Traditional Music of Amygdala |
 | 40 |  | 1992 | Márta Sebestyén | Apocrypha |
-| 21 |  | 1999 | Jazz+Az | Egynek jó |
+| 22 |  | 1999 | Jazz+Az | Egynek jó |
 | 26 | ![Cover](https://i.discogs.com/JSjmQ0DhmE9fhLN-vQpvmXtPfKU6QTwUZuI3f9_sClo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzAy/NDM2LTE1NDA0ODU5/MjQtNTcwNS5qcGVn.jpeg) | 1999 | Pain | Menny és pokol |
 | 48 |  | 1999 | Kitka | Nectar |
-| 18 |  | 2000 | KFT | Éljen a szerelem |
+| 19 |  | 2000 | KFT | Éljen a szerelem |
 | 33 | ![Cover](https://i.discogs.com/kFApTRzYktTekI2IBEpFEH137V_ZHGjLPD6xUJ9LGtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Njc1/OTctMTQ0NzUyNzYx/NC0zNzUyLmpwZWc.jpeg) | 2000 | Eleven hold | Eleven Hold |
-| 12 | ![Cover](https://i.discogs.com/xljEC6cO-T9G7eumpQHRbWslJr8ZxrWdsvifJW4NGB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDA2/NDYtMTQ1NDMxODYw/NC0xMzAxLmpwZWc.jpeg) | 2002 | Eleven hold | Leszálltunk, hogy felférj |
-| 3 |  | 2002-11-16 | Zanzibar | Ugyanaz Vagyok |
+| 1 | ![Cover](https://i.discogs.com/AVK3eK4XrVwHBYtPYk_yP7CV3iwI_Be8TxA1y8PcX8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTUx/MzItMTQ2Nzk5OTk5/MS04MTc0LmpwZWc.jpeg) | 2002 | Andrea Gerak | Authentic Hungarian Village Music |
+| 14 | ![Cover](https://i.discogs.com/xljEC6cO-T9G7eumpQHRbWslJr8ZxrWdsvifJW4NGB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDA2/NDYtMTQ1NDMxODYw/NC0xMzAxLmpwZWc.jpeg) | 2002 | Eleven hold | Leszálltunk, hogy felférj |
+| 5 |  | 2002-11-16 | Zanzibar | Ugyanaz Vagyok |
+| 2 | ![Cover](https://i.discogs.com/yv0RYIUIeztKDjVuRz6h_3iB_TWyy__6vkn5a3mCEd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njgw/Ny0xMjExMzcyOTI3/LmpwZWc.jpeg) | 2003 | Gero | Déjà Vu |
 | 34 |  | 2003 | Nox | Bűvölet |
 | 44 |  | 2003 | Korai Öröm | Reflected |
-| 7 | ![Cover](https://i.discogs.com/HqFg1becn7FJUtNlgVLlopNEkPIGiXIFGdJAmaJi9_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/NTgyLTE1MTAxMzcw/MTEtNjkwNy5qcGVn.jpeg) | 2004 | Bankrupt | Bad Hair Day |
+| 9 | ![Cover](https://i.discogs.com/HqFg1becn7FJUtNlgVLlopNEkPIGiXIFGdJAmaJi9_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/NTgyLTE1MTAxMzcw/MTEtNjkwNy5qcGVn.jpeg) | 2004 | Bankrupt | Bad Hair Day |
 | 42 | ![Cover](https://i.discogs.com/TATzErr2zWSuKdN3e5_hdRLtNOApUxM8NkKCL-Bt7QA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzY4/MDc5LTE2NzAxNzU5/NDgtNTY3OC5qcGVn.jpeg) | 2005 | Harcsa Veronika | Speak Low |
 | 32 | ![Cover](https://i.discogs.com/9N7ygI2ePq78hORkjt12oCxWnGlsojn3pvUpcGtNpdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzUy/MjIxLTE2NDIyNzUy/NzktOTA1OS5qcGVn.jpeg) | 2005-04-12 | Eleven hold | Cserélnénk magunkkal |
-| 13 | ![Cover](https://i.discogs.com/Km4oH1lHfQenptVc8XiB9rdIIBOovd9pqLMJ-o_f6PU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQz/MTY5LTE2MDI0MjM5/MzMtNTA4MC5wbmc.jpeg) | 2006 | Algor Mortis | Circle Of Fire |
+| 15 | ![Cover](https://i.discogs.com/Km4oH1lHfQenptVc8XiB9rdIIBOovd9pqLMJ-o_f6PU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQz/MTY5LTE2MDI0MjM5/MzMtNTA4MC5wbmc.jpeg) | 2006 | Algor Mortis | Circle Of Fire |
 | 39 | ![Cover](https://i.discogs.com/mpfd0MPMqdieKKd-jUFnPY33UJgOnqujQDlG1dqoCUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDc3/NzItMTI4MjMzOTMy/NS5qcGVn.jpeg) | 2006 | Heaven Street Seven | Tudom, hogy szeretsz |
 | 45 |  | 2006 | Various Artists | Az Internetről ingyen letölthető elektronikus zenei feldolgozások kisgyűjteménye |
 | 24 | ![Cover](https://i.discogs.com/nOdJePRe_1W2nMLtx318-taQFlwPsDEgTnqPLiwHPAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjgx/MjgtMTI2NzcwMDg5/NC5qcGVn.jpeg) | 2006-08-01 | Desperado | Táncolj! |
 | 43 | ![Cover](https://i.discogs.com/Rg52URPDjdWt6ndhQI7qAvaHGjeKt9fW9AdLS6S6GSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjI5/MTktMTQyNTMzNjQw/Ni01ODExLmpwZWc.jpeg) | 2006-08-01 | Bankrupt | Shorter Than Danny DeVito |
-| 6 | ![Cover](https://i.discogs.com/3PPLyEnaOuuoVyHn0FWf_pTQie63sKUCjLc8FwXK2FI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDcx/MDMtMTM1MTM0MDgx/MS0yMzE1LmpwZWc.jpeg) | 2008-05-01 | Bankrupt | Rocket to Riot City |
-| 4 |  | 2008-09-05 | Nox | Időntúl |
-| 15 | ![Cover](https://i.discogs.com/IxA6GMfhLt4iOhZDFbTq13wK8pe8IcjCtCur7QUSXOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjA3/NzQtMTY0NTAzNzI2/OS00NTIyLmpwZWc.jpeg) | 2008-11-14 | Cadik | Basic |
-| 9 | ![Cover](https://i.discogs.com/uG6sQWrQagfceWLWySnWHl75KAO0ej-IlBhLnZiRfI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTQz/MTktMTQ1MjM1NDYy/OS04NDcyLmpwZWc.jpeg) | 2009-04-05 | Funktasztikus | Jelentések Fanyarországról |
+| 8 | ![Cover](https://i.discogs.com/3PPLyEnaOuuoVyHn0FWf_pTQie63sKUCjLc8FwXK2FI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDcx/MDMtMTM1MTM0MDgx/MS0yMzE1LmpwZWc.jpeg) | 2008-05-01 | Bankrupt | Rocket to Riot City |
+| 6 |  | 2008-09-05 | Nox | Időntúl |
+| 16 | ![Cover](https://i.discogs.com/IxA6GMfhLt4iOhZDFbTq13wK8pe8IcjCtCur7QUSXOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjA3/NzQtMTY0NTAzNzI2/OS00NTIyLmpwZWc.jpeg) | 2008-11-14 | Cadik | Basic |
+| 11 | ![Cover](https://i.discogs.com/uG6sQWrQagfceWLWySnWHl75KAO0ej-IlBhLnZiRfI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTQz/MTktMTQ1MjM1NDYy/OS04NDcyLmpwZWc.jpeg) | 2009-04-05 | Funktasztikus | Jelentések Fanyarországról |
 | 47 | ![Cover](https://i.discogs.com/o7oUL8w8Muo8RKSZW_LA40JASH5-KYsJgGdJCST2VHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTg1/NjMtMTMzMjc5MzQ0/Ny5qcGVn.jpeg) | 2009-09-11 | Edda | Semper biot |
-| 22 | ![Cover](https://i.discogs.com/UUEHdZG8wcfUZvbSgXn8Q8O38vOBeAXUUpVACPiQlok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzMz/MDAtMTQ1ODkyNjg5/NS0zNDQ3LmpwZWc.jpeg) | 2009-10-12 | Hobo | Circus Hungaricus |
-| 20 | ![Cover](https://i.discogs.com/FY3G_G91bGd5oo1PvaQXTLIf7mnqDOnURIL20MY8MwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTE2/MzAtMTM3MzQ1NzUz/NS05MjQ3LmpwZWc.jpeg) | 2009-12-03 | Compact Disco | Stereoid |
+| 21 | ![Cover](https://i.discogs.com/FY3G_G91bGd5oo1PvaQXTLIf7mnqDOnURIL20MY8MwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTE2/MzAtMTM3MzQ1NzUz/NS05MjQ3LmpwZWc.jpeg) | 2009-12-03 | Compact Disco | Stereoid |
 | 50 | ![Cover](https://i.discogs.com/6BEOnH9SPH5CiVUmW85_UX93VmwY0I_BNe2SQsYdeQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzk4/NTQtMTQ3NjU2NjAx/Mi01MDA1LmpwZWc.jpeg) | 2010 | Ektomorf | The Gipsy Way |
 | 35 | ![Cover](https://i.discogs.com/CJ4z6UUctrjBDoFLYh6TO_li12PKocyoPu6R8IXE3Qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTIw/NjItMTMyNDI1OTIz/OS5qcGVn.jpeg) | 2010-02-05 | Erik Sumo Band | The Ice Tower |
-| 19 | ![Cover](https://i.discogs.com/kzsyI8O80K-6KBJvDr19_-KjkxfWFFK6iPBIbvL14_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTE1/MzEtMTQ2NjcwNDU0/Ny0xMjI1LmpwZWc.jpeg) | 2011-02-11 | Dalriada | Ígéret |
-| 16 | ![Cover](https://i.discogs.com/HM_HuMhp1jk3fW_XJISHIFzfl9PWYr2adP1XZnGA-yo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTQ4/NTUtMTQ1MjM2MDQ5/Mi0xNTE5LmpwZWc.jpeg) | 2011-11-17 | SP | New Wave |
+| 20 | ![Cover](https://i.discogs.com/kzsyI8O80K-6KBJvDr19_-KjkxfWFFK6iPBIbvL14_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTE1/MzEtMTQ2NjcwNDU0/Ny0xMjI1LmpwZWc.jpeg) | 2011-02-11 | Dalriada | Ígéret |
+| 17 | ![Cover](https://i.discogs.com/HM_HuMhp1jk3fW_XJISHIFzfl9PWYr2adP1XZnGA-yo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTQ4/NTUtMTQ1MjM2MDQ5/Mi0xNTE5LmpwZWc.jpeg) | 2011-11-17 | SP | New Wave |
 | 30 | ![Cover](https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg) | 2012 | Various Artists | Progressive Folk LP |
 | 25 | ![Cover](https://i.discogs.com/3HkJOiMVm3Dyi03Rf2SAueRv8qjxXJFqG2keNB1i3Qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjM0/MDYtMTM1MDY5NDUz/OS0zNTUyLmpwZWc.jpeg) | 2012-02 | Nefarious | The universal wrath |
 | 23 |  | 2012-03-27 | Pannonia Allstars Ska Orchestra | Lovemonster |
-| 10 | ![Cover](https://i.discogs.com/p6LiJHt9vo0YM9_0lfnYz2uio9WMQs0YEnA47f7b040/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODUw/MzMxLTE1NjI1Mjk3/MTUtOTUwOS5qcGVn.jpeg) | 2013-04-01 | Hősök | Érintés |
-| 14 |  | 2013-10-02 | Depresszió | Csak a zene |
-| 11 | ![Cover](https://i.discogs.com/zUP9m7VratG7I8asjEPYbc1X86GWDysolJer2CQb_As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjMy/MTQtMTQzMjg0MTIw/Ny04NTEzLmpwZWc.jpeg) | 2015-05-28 | Öröm | O |
-| 1 | ![Cover](https://i.discogs.com/l2p__2Z74IPN_5e9q13Z7VOBeM_2gq9lgoyRmAwc8cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUx/NzI3LTE1MDM2NjUy/MTItMzg1NC5qcGVn.jpeg) | 2017-07-05 | Europica | Part One |
+| 12 | ![Cover](https://i.discogs.com/p6LiJHt9vo0YM9_0lfnYz2uio9WMQs0YEnA47f7b040/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODUw/MzMxLTE1NjI1Mjk3/MTUtOTUwOS5qcGVn.jpeg) | 2013-04-01 | Hősök | Érintés |
+| 13 | ![Cover](https://i.discogs.com/zUP9m7VratG7I8asjEPYbc1X86GWDysolJer2CQb_As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjMy/MTQtMTQzMjg0MTIw/Ny04NTEzLmpwZWc.jpeg) | 2015-05-28 | Öröm | O |
+| 3 | ![Cover](https://i.discogs.com/l2p__2Z74IPN_5e9q13Z7VOBeM_2gq9lgoyRmAwc8cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUx/NzI3LTE1MDM2NjUy/MTItMzg1NC5qcGVn.jpeg) | 2017-07-05 | Europica | Part One |
 | 46 | ![Cover](https://i.discogs.com/kjPQgZxl1J_g8rY9bYy0f5Nna77l3ndMFfeSA5Er_pQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIw/NzU3LTE1NTIwMzgz/MDYtNjAxMC5qcGVn.jpeg) | 2018-05-14 | Black Hill &amp; Silent Island | Tales of the night forest |
 | 28 | ![Cover](https://i.discogs.com/0DREJB4siNMOa-udlGM2KF9P0Nsg3WZplSxwl9wLQWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM1/NTU3LTE1NDI4ODU2/NDYtNjczMi5qcGVn.jpeg) | 2018-10-31 | Mörk | The Death of Mörk |
-| 8 | ![Cover](https://i.discogs.com/7OOPM6RlL89ZPdXXpfXJivjPJVd94l5X6_xNtLF0ZhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQ0/NDY5LTE2MzU5OTUy/NzUtMTIyNi5qcGVn.jpeg) | 2021-07-01 | Hitori | Hitori |
+| 10 | ![Cover](https://i.discogs.com/7OOPM6RlL89ZPdXXpfXJivjPJVd94l5X6_xNtLF0ZhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQ0/NDY5LTE2MzU5OTUy/NzUtMTIyNi5qcGVn.jpeg) | 2021-07-01 | Hitori | Hitori |
 | 27 | ![Cover](https://i.discogs.com/II4rwr0d8P3Oi6KjWKg8HyPhMcWfl6Xi3ueLG0vx6O4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjMw/MDYwLTE1NTAzNTg2/ODUtMjY5OC5qcGVn.jpeg) | 2022-01 | Insane | Our Island - Our Empire |
-| 17 | ![Cover](https://i.discogs.com/CX38vPpExD4068iO_Mh2anev5NdQkymqa-gnfp08lQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzI5/MDU3LTE2OTg1MDcx/MzQtMzQ2MC5qcGVn.jpeg) | 2023-10-20 | Aurora | Viszlát Iván |
+| 18 | ![Cover](https://i.discogs.com/CX38vPpExD4068iO_Mh2anev5NdQkymqa-gnfp08lQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzI5/MDU3LTE2OTg1MDcx/MzQtMzQ2MC5qcGVn.jpeg) | 2023-10-20 | Aurora | Viszlát Iván |
 | 36 |  |  | Marzia Gaggioli | I Love The World |
 | 38 |  |  | AKC Kretta | Babaház |
 | 41 | ![Cover](https://i.discogs.com/-2zWa9Yt1V0rLYrxeSP0DCNHBIBYguOq8zT6EzBkbog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjk3/OTg0LTE3MzU0OTU1/NTQtNzYwMy5qcGVn.jpeg) | 2024-09-20 | Bruno X Spacc | Fiatal bajnokok |

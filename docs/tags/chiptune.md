@@ -1,13 +1,17 @@
 ---
 category: genre
-date: 2025-10-27T16:30:33.501Z
+date: 2025-10-28T15:16:32.665Z
 permalink: tags/chiptune
 title: chiptune
 ---
 
 ## chiptune
 
-Last updated: <time datetime="2025-10-27T16:30:33.501Z">Mon Oct 27 2025 18:30:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T15:16:32.665Z">Tue Oct 28 2025 17:16:32 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Chiptune music is a type of electronic music that is created using sound chips from vintage computers, video game consoles, and other digital devices. These sound chips, known as &quot;chips&quot; or &quot;sound chips,&quot; produce distinctive sounds that are often associated with classic video game music. Chiptune music has a distinct 8-bit or 16-bit sound, and often features simple, catchy melodies and upbeat rhythms. Chiptune music has become popular in recent years, particularly among video game enthusiasts and fans of electronic music.
 
 ### 100 chronological releases
 
@@ -18,11 +22,11 @@ Last updated: <time datetime="2025-10-27T16:30:33.501Z">Mon Oct 27 2025 18:30:33
 | 12 |  | 2002 | Nullsleep | The Gameboy Singles 2002 |
 | 35 | ![Cover](https://i.discogs.com/9jCsNd9cRkgtsLhMISOidlpHWDXfM_EKluoSNrDfy8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc4/My0xMzk3Nzc1NTAz/LTIwNTkuZ2lm.jpeg) | 2002-12 | Twilight Electric | Rawk Hard |
 | 14 |  | 2004 | Twilight Electric | meanings |
-| 80 |  | 2004-10-15 | Slagsmålsklubben | Sagan om konungens årsinkomst |
-| 79 | ![Cover](https://i.discogs.com/d_5a4cNnbUTuQEvSw8sjLiiGYciPIa0vI3y_Yur00SY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTM2/OC0xMTgzNzI5MTQ4/LmpwZWc.jpeg) | 2004-10-27 | Slagsmålsklubben | Sagan Om Konungens Arsinkomst |
+| 79 |  | 2004-10-15 | Slagsmålsklubben | Sagan om konungens årsinkomst |
+| 78 | ![Cover](https://i.discogs.com/d_5a4cNnbUTuQEvSw8sjLiiGYciPIa0vI3y_Yur00SY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTM2/OC0xMTgzNzI5MTQ4/LmpwZWc.jpeg) | 2004-10-27 | Slagsmålsklubben | Sagan Om Konungens Arsinkomst |
 | 68 |  | 2004-11-03 | YMCK | Family Music |
-| 2 |  | 2005 | Amor Antiquita | Metallic Sonatas |
-| 5 |  | 2005 | Sabrepulse | Famicom Connection |
+| 1 |  | 2005 | Amor Antiquita | Metallic Sonatas |
+| 4 |  | 2005 | Sabrepulse | Famicom Connection |
 | 39 |  | 2005 | Divag | Gameboy tunes |
 | 66 |  | 2005-05-05 | Binärpilot | Defrag |
 | 18 | ![Cover](https://i.discogs.com/GxXTfhbR9Gr0aUJF8L7_GcGagUSqGYzJaPTyOY4iobw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDAz/NDkzLTE2MTEwNzM4/MTAtNDI5Ny5qcGVn.jpeg) | 2005-09-16 | She | digital ambient designs |
@@ -32,31 +36,30 @@ Last updated: <time datetime="2025-10-27T16:30:33.501Z">Mon Oct 27 2025 18:30:33
 | 89 |  | 2006-08-26 | Anamanaguchi | Power Supply |
 | 20 |  | 2006-12-21 | Coleco Music | Confessions in a Chatroom |
 | 21 |  | 2006-12-21 | Xinon | Moonlight Sympathy |
-| 83 |  | 2006-12-21 | She | Pioneer |
+| 82 |  | 2006-12-21 | She | Pioneer |
 | 16 |  | 2007-03 | Kplecraft | Multi-Boxer |
-| 84 |  | 2007-06 | Nullsleep | Electric Heart Strike |
-| 82 |  | 2007-07-11 | Random | Bad Joke EP |
+| 83 |  | 2007-06 | Nullsleep | Electric Heart Strike |
+| 81 |  | 2007-07-11 | Random | Bad Joke EP |
 | 59 |  | 2007-08-10 | Dubmood | ATARI-SKA L&#39;ATAKK |
 | 74 | ![Cover](https://i.discogs.com/WPhGmZFcbkVeP1idBpyotKevyvL4euembXPQBHfHH-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc1/MjQtMTM5OTYyMzk2/NC03Njk0LnBuZw.jpeg) | 2007-11-07 | Quarta 330 | Sunset Dub &#x2F; 9 Samurai (Quarta 330 Remix) |
 | 60 | ![Cover](https://i.discogs.com/txImzSVZEfi_BObGIwmnZkHlmGwwL7AyAlwsr3ZaNDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTcx/OTYtMTI0ODE5MjEw/Mi5qcGVn.jpeg) | 2007-12-25 | Covox | Infiltrator Ep |
 | 63 |  | 2007-12-31 | Stu | GreateST HITs |
 | 33 |  | 2008-03-16 | Machinae Supremacy | Arcade |
 | 22 |  | 2008-04-18 | Yerzmyey | FREAKuencies |
-| 9 | ![Cover](https://i.discogs.com/HdzeTnPfu46d3X9sefUKUrgMhfBWzzzQXffZ1ReFr0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc2/ODAtMTIyNjIyNTcw/Mi5qcGVn.jpeg) | 2008-06 | You Love Her | Kitsuné: Inner City Angst |
-| 15 |  | 2008-06-10 | Paza | The Slaphappy Bee III EP |
-| 27 |  |  | Welle:Erdball | Der Sinn des Lebens |
 | 48 |  | 2008-04-18 | Animal Style | Open Air |
+| 8 | ![Cover](https://i.discogs.com/HdzeTnPfu46d3X9sefUKUrgMhfBWzzzQXffZ1ReFr0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc2/ODAtMTIyNjIyNTcw/Mi5qcGVn.jpeg) | 2008-06 | You Love Her | Kitsuné: Inner City Angst |
+| 15 |  | 2008-06-10 | Paza | The Slaphappy Bee III EP |
+| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/82ef80d12ae94b19becc590814a74553.png) | 2008-07-09 | The Title | Making a Scene |
 | 76 |  | 2008-11-01 | She | chiptek |
 | 44 |  | 2008-11-26 | Nullsleep | Unconditional Acceleration |
-| 3 |  | 2009 | :( | Kawaii |
+| 2 |  | 2009 | :( | Kawaii |
 | 72 |  | 2009 | Unicorn Kid | Lion Hat |
 | 34 | ![Cover](https://i.discogs.com/ZeogtnXnh2LB29SBxrb6VbMY7-EaxNHk6g9Nd2kWae8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDc0/OTYtMTI1Mzc4MjY5/Mi5qcGVn.jpeg) | 2009-01-27 | Eliot Lipp | Peace Love Weed 3D |
 | 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cc271c9c46234915a2c6f4986553ab3f.png) | 2009-02-06 | I Fight Dragons | Cool Is Just A Number |
 | 94 |  | 2009-03-03 | Anamanaguchi | Dawn Metropolis |
-| 7 |  | 2009-06-01 | Math the Band | Don&#39;t Worry |
+| 6 |  | 2009-06-01 | Math the Band | Don&#39;t Worry |
 | 97 |  | 2009-07-13 | Unicorn Kid | Wee Monsters |
-| 1 |  | 2010-01-10 | Souleye | PPPPPP |
-| 6 |  | 2010-02-26 | mind.in.a.box | R.E.T.R.O. |
+| 5 |  | 2010-02-26 | mind.in.a.box | R.E.T.R.O. |
 | 54 |  | 2010-05-18 | Crystal Castles | Crystal Castles |
 | 90 |  | 2010-07-15 | Anamanaguchi | Airbrushed |
 | 88 |  | 2010-07-30 | Anamanaguchi | My Skateboard Will Go On |
@@ -70,12 +73,12 @@ Last updated: <time datetime="2025-10-27T16:30:33.501Z">Mon Oct 27 2025 18:30:33
 | 55 |  | 2011-08-07 | zabutom | Zeta Force |
 | 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f8b1a7de6b6f4dafb2aa7a324e2244bb.png) | 2011-10-24 | I Fight Dragons | KABOOM! |
 | 41 | ![Cover](https://i.discogs.com/dbqG6-ySy_QNvzHxWOGyJj4Eu5CavY142JrHlLY8wPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzU5/MTktMTMzNTg5OTcw/NC5wbmc.jpeg) | 2012-01-24 | Lifeformed | Fastfall - Dustforce Original Soundtrack |
-| 10 |  | 2012-03-28 | Elaquent | The Scenic Route |
+| 9 |  | 2012-03-28 | Elaquent | The Scenic Route |
 | 75 |  | 2012-09-09 | Bossfight | Caps On, Hats Off |
 | 13 | ![Cover](https://i.discogs.com/NdpKg49I_yix-CYmDR0mM7uGa-Qz1-jysFiMII4zK1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTgz/MzYtMTM2NzE2MTE2/Ni01MDg5LmpwZWc.jpeg) | 2012-09-13 | Waka Flocka Flame | Game On (feat. Good Charlotte) [from &quot;Pixels - The Movie&quot;] |
-| 78 |  | 2012-11-07 | She | Electric Girl |
+| 84 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ec931bd4e00f9848c4bbbec7a5b6c80c.png) | 2012-11-07 | She | Electric Girl |
 | 40 |  | 2012-12-23 | C418 | one |
-| 8 | ![Cover](https://i.discogs.com/m_kFRyRY_HeAyt8HtqAYvNWMTV20KunUr3RMHZQnBPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk0/MjA0LTE1MjI1MDM2/OTEtMTAzNC5qcGVn.jpeg) | 2013-01-18 | Kubbi | Gas Powered - EP |
+| 7 | ![Cover](https://i.discogs.com/m_kFRyRY_HeAyt8HtqAYvNWMTV20KunUr3RMHZQnBPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk0/MjA0LTE1MjI1MDM2/OTEtMTAzNC5qcGVn.jpeg) | 2013-01-18 | Kubbi | Gas Powered - EP |
 | 17 |  | 2013-03-08 | aivi &amp; surasshu | The Black Box |
 | 23 | ![Cover](https://i.discogs.com/GSFW464JhcnWJhslFQZygLDwCXMNFAApTrDg6Hao4rY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjY5/OTMtMTYwNzI3MzE2/Mi0xMDcwLmpwZWc.jpeg) | 2013-05-14 | Anamanaguchi | Endless Fantasy (Advance) |
 | 86 |  | 2013-05-14 | Anamanaguchi | Endless Fantasy |
@@ -101,12 +104,13 @@ Last updated: <time datetime="2025-10-27T16:30:33.501Z">Mon Oct 27 2025 18:30:33
 | 30 | ![Cover](https://i.discogs.com/HeF7FLJXX29g073pTqVi2pe4q6YNCh13Elaz1TlwUYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcy/OTgxLTE1MjM4Nzg4/NzgtMzQzNy5wbmc.jpeg) | 2018-02-23 | Snail&#39;s house | Ordinary Songs 4 |
 | 73 | ![Cover](https://i.discogs.com/Vbiorwra_l4-J0z85a4mVAp8W4YfkIfUX0QNyc2xSgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA3/NjAyLTE1NTE3OTU3/MjMtMjI4OC5qcGVn.jpeg) | 2019-02-23 | Snail&#39;s house | Snailchan Adventure |
 | 25 | ![Cover](https://i.discogs.com/68ChLHPPDlZ3i5PyeYvy2GVnUksxLtqqWpTYW30kLUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQw/MzYzLTE1Njg1NzYz/OTItMTExNC5qcGVn.jpeg) | 2019-05-24 | LukHash | Better Than Reality |
-| 81 | ![Cover](https://i.discogs.com/3aUOMeMXdBN7U7wNskUMJDCK6CMjwfuay_95bDhQNYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk3/MzI3LTE1NzE2OTU3/NzEtNTI4MS5qcGVn.jpeg) | 2019-10-25 | Anamanaguchi | [USA] |
+| 80 | ![Cover](https://i.discogs.com/3aUOMeMXdBN7U7wNskUMJDCK6CMjwfuay_95bDhQNYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk3/MzI3LTE1NzE2OTU3/NzEtNTI4MS5qcGVn.jpeg) | 2019-10-25 | Anamanaguchi | [USA] |
 | 58 | ![Cover](https://i.discogs.com/coxN92QrlCJ-HhxARM68JNWgxi4M8MVbNSMkYpz1JcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzg2/NDk5LTE1NzY0MTQ0/NzEtODUyOC5wbmc.jpeg) | 2019-11-07 | Lena Raine | Celeste: Farewell (Original Soundtrack) |
 | 11 | ![Cover](https://i.discogs.com/YoQlI8GhT30hDa4Beo1tsQw-0EQw_DMrWEBNxRqUya8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk0/MTg3LTE1ODUyNDI1/NDUtOTQyMC5qcGVn.jpeg) | 2020-03-20 | master boot record | Floppy Disk Overdrive |
-| 4 | ![Cover](https://i.discogs.com/m-d75dwN1BqGIBop1XMecWPP4GacTHrFqkv-JOY-e0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTAx/MDY1LTE2MDgxMzM0/ODUtMjYzNi5qcGVn.jpeg) | 2020-03-27 | El Huervo | A Thing With Feathers |
+| 3 | ![Cover](https://i.discogs.com/m-d75dwN1BqGIBop1XMecWPP4GacTHrFqkv-JOY-e0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTAx/MDY1LTE2MDgxMzM0/ODUtMjYzNi5qcGVn.jpeg) | 2020-03-27 | El Huervo | A Thing With Feathers |
 | 52 | ![Cover](https://i.discogs.com/8yuOcfnytyg1aGlgb1a6mLOy2A6_oI7uVd49WM5ozTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg5/MjgwLTE2NjI1OTkz/MzgtNzM4NC5qcGVn.jpeg) | 2020-05-29 | Alestorm | Curse of the Crystal Coconut (Deluxe Version) |
 | 24 | ![Cover](https://i.discogs.com/FKt82pk-KwRB2tVSceCQpiljKBEy9Wzt_RWjZXrUmVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjgw/MDA2LTE3MzE1MTYy/MDgtMzk0Ni5qcGVn.jpeg) | 2020-07-26 | EX-LYD | Chip Heat |
+| 27 |  |  | Welle:Erdball | Der Sinn des Lebens |
 | 67 |  | 2021-02-01 | Hey, Ily | P.S.S.U.S.S.P. |
 | 96 |  | 2021-03-08 | Hey, Ily | DigitalLung.EXE |
 | 77 | ![Cover](https://i.discogs.com/wqFJb395J7aVA9JNDDUwV4WO3GQDNnuuFjevZ5XszjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjQ1/NDQ0LTE2NzI2OTQ1/NzUtNzE2NC5qcGVn.jpeg) | 2022-03-16 | Lifeformed | TUNIC (Original Game Soundtrack) |
