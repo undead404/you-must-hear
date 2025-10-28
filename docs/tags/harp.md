@@ -1,19 +1,20 @@
 ---
 category: genre
-date: 2025-10-18T18:38:39.205Z
+date: 2025-10-28T06:03:05.618Z
 permalink: tags/harp
 title: harp
 ---
 
 ## harp
 
-Last updated: <time datetime="2025-10-18T18:38:39.205Z">Sat Oct 18 2025 21:38:39 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T06:03:05.618Z">Tue Oct 28 2025 08:03:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 3 |  |  | Labores Somnium | Luxian Caste |
+| 1 |  |  | Môr Gwyddelig | Wake the Dragon |
+| 4 |  |  | Labores Somnium | Luxian Caste |
 | 19 |  |  | Lavina Meijer | Fantasies &amp; Impromptus |
 | 26 |  |  | The Deep Kicks | E.P. |
 | 27 |  |  | Lori Pappajohn, Jill Whitman &amp; Ensemble | Harp Dance |
@@ -24,7 +25,7 @@ Last updated: <time datetime="2025-10-18T18:38:39.205Z">Sat Oct 18 2025 21:38:39
 | 60 |  | 1971 | Alice Coltrane | Journey in Satchidananda |
 | 85 |  | 1971 | Alan Stivell | Renaissance de la harpe celtique |
 | 90 | ![Cover](https://i.discogs.com/MwAblJGPHFrDbnVKbIN1ch-_fCrgZflkgqobAg_WnmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg3/NDItMTY2NzczMjQ0/NS00MTE4LmpwZWc.jpeg) | 1971 | Alan Stivell | Renaissance Of The Celtic Harp |
-| 2 | ![Cover](https://i.discogs.com/NGibqKRIbcw8bxqoB3mQqSb7YocY8o2HalCcI7ObMVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY2/MjI3LTE1ODkwNTgy/ODUtNDMwMi5qcGVn.jpeg) | 1981 | Robin Williamson | Celtic Harp Airs And Dance Tunes |
+| 3 | ![Cover](https://i.discogs.com/NGibqKRIbcw8bxqoB3mQqSb7YocY8o2HalCcI7ObMVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY2/MjI3LTE1ODkwNTgy/ODUtNDMwMi5qcGVn.jpeg) | 1981 | Robin Williamson | Celtic Harp Airs And Dance Tunes |
 | 17 | ![Cover](https://i.discogs.com/aJwZdgQ4o-zUc-SQ5wID9ujsMBCvFTUfqItwyQA2fOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTQz/MC0xMTI0NDc0MzE2/LmpwZw.jpeg) | 1983 | Patrick Ball | Celtic Harp 1: Music of Turlough O&#39;Carolan |
 | 53 | ![Cover](https://i.discogs.com/hzKQSQRJLVdfzVVPoIAy4L6CKZL4sHhRkufZT5B-KIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Nzky/OS0xMTMxNDc4OTM1/LmpwZWc.jpeg) | 1986 | Andreas Vollenweider | Midnight Clear Featuring Carly SImon |
 | 66 | ![Cover](https://i.discogs.com/3ljnul4E9-oBUZGsh5Qlwp-copyeiR-VMfe6s7jSySs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAz/OC0xMTk0ODEzMjM1/LmpwZWc.jpeg) | 1986 | Aki | Niobe |
@@ -32,7 +33,6 @@ Last updated: <time datetime="2025-10-18T18:38:39.205Z">Sat Oct 18 2025 21:38:39
 | 48 | ![Cover](https://i.discogs.com/Gw5CFPcy0F97QEh_vnIyiVBelcIHmK1AfvuLgz8t7dk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDU2/MzctMTQ0Mjk2MTYy/Mi0yNTQ5LmpwZWc.jpeg) | 1989 | Northern Lights | Harp &amp; Hammer Dulcimer |
 | 20 | ![Cover](https://i.discogs.com/uIemundBLUZ9h2UE2LOZ12aDxKVvVrziW1nehsqzgWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzI0/MzAtMTMwMDM2NDgz/My5qcGVn.jpeg) | 1990 | Andreas Vollenweider | Caverna Magica |
 | 22 | ![Cover](https://i.discogs.com/BKBGNSnbLzc-4scPW6PaW_I-OKu7g4fk9UVy96E37Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTEw/MDYtMTQ2MTA4MDA5/OS04MDg5LmpwZWc.jpeg) | 1991 | Clifford Jordan | Night of the Mark VII |
-| 5 | ![Cover](https://i.discogs.com/dgVJooo_GSH_yGEEfHTYneWx6WcDr-Z-qwyxiLM6Z64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzgz/NjEtMTI0MDI5Mjg3/NC5qcGVn.jpeg) | 1993 | Andreas Vollenweider | Live CD1 |
 | 21 | ![Cover](https://i.discogs.com/HL304kxQUW5P_us16tELYgRMh8433LRkRm_FL0AwTtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjg0/MTgtMTY3NjgwNTQ5/My04ODgzLmpwZWc.jpeg) | 1993 | Andreas Vollenweider | Traumgarten |
 | 23 |  | 1993 | Patrick Ball | Fiona |
 | 72 |  | 1993 | The Chieftains | The Celtic Harp |
@@ -51,7 +51,7 @@ Last updated: <time datetime="2025-10-18T18:38:39.205Z">Sat Oct 18 2025 21:38:39
 | 10 | ![Cover](https://i.discogs.com/Be3AJ8llrY6idhvCJYtMPcvNWgQecuuLYxFsN63z0J0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzgz/MTQtMTMzMDM4MzEw/MS5qcGVn.jpeg) | 2001 | Nadia Birkenstock | Emerald Isles |
 | 92 | ![Cover](https://i.discogs.com/d2bLRzS4l_omD_2nnADDbGoiRVuswgqIPGmt1tQchBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTQy/NTktMTMwMTM4NzU5/Ni5qcGVn.jpeg) | 2001 | Ludovico Einaudi | Diario Mali |
 | 32 |  | 2001-10-02 | Lisa Lynne | Maiden&#39;s Prayer |
-| 4 | ![Cover](https://i.discogs.com/eXiUBLeVbYwL1IThZVhTLIO9U_2tOUG9q-SwhXaAXbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTEx/MDEtMTQ1NjI0MDU1/OC03MDE0LmpwZWc.jpeg) | 2002 | Станция Мир | Станция Мир |
+| 5 | ![Cover](https://i.discogs.com/eXiUBLeVbYwL1IThZVhTLIO9U_2tOUG9q-SwhXaAXbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NTEx/MDEtMTQ1NjI0MDU1/OC03MDE0LmpwZWc.jpeg) | 2002 | Станция Мир | Станция Мир |
 | 98 |  | 2002 | Joanna Newsom | Walnut Whales |
 | 56 |  | 2002-10 | Manorexia | The Radiolarian Ooze |
 | 62 | ![Cover](https://i.discogs.com/Be3AJ8llrY6idhvCJYtMPcvNWgQecuuLYxFsN63z0J0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzgz/MTQtMTMzMDM4MzEw/MS5qcGVn.jpeg) | 2003 | Nadia Birkenstock | Wandering Between The Worlds |
@@ -69,7 +69,7 @@ Last updated: <time datetime="2025-10-18T18:38:39.205Z">Sat Oct 18 2025 21:38:39
 | 45 | ![Cover](https://i.discogs.com/vPk6gAI8lk7m8xs84QIWRy7bnw4E0I4cNIE4MN1FGL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDk5/OS0xNTA3MTI3OTk3/LTY0ODMuanBlZw.jpeg) | 2004-03-23 | Joanna Newsom | Milk-Eyed Mender |
 | 57 | ![Cover](https://i.discogs.com/lSss7RrFHhvwhS4aXkjtr8E_UeOXCy1wZPs_9HDkGYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODg4/NzctMTQ3ODAxNzAw/MS00MzQ0LmpwZWc.jpeg) | 2004-04-06 | Áine Minogue | The Twilight Realm |
 | 71 |  | 2004-05-07 | Cheryl Ann Fulton | The Airs of Wales |
-| 1 | ![Cover](https://i.discogs.com/7byi-rcSwc8pI9FDNuAneX7i91KA_gGG9PFeTlr2X6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY1/MjY5LTE1Mzc3MTU4/MDAtNzg5OS5qcGVn.jpeg) | 2005 | Edmar Castaneda | cuarto de colores |
+| 2 | ![Cover](https://i.discogs.com/7byi-rcSwc8pI9FDNuAneX7i91KA_gGG9PFeTlr2X6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY1/MjY5LTE1Mzc3MTU4/MDAtNzg5OS5qcGVn.jpeg) | 2005 | Edmar Castaneda | cuarto de colores |
 | 36 | ![Cover](https://i.discogs.com/rdraafdbg1ayYPfX9zNskoeV-I5ZzpQAPBsAaAj2kJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzE1/MDUtMTQzMzAzODUw/Ny01NTUxLmpwZWc.jpeg) | 2005 | Tico Moon | Daydream Garden |
 | 55 |  | 2005-06-14 | Andreas Vollenweider | Magic Harp |
 | 15 | ![Cover](https://i.discogs.com/Be3AJ8llrY6idhvCJYtMPcvNWgQecuuLYxFsN63z0J0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzgz/MTQtMTMzMDM4MzEw/MS5qcGVn.jpeg) | 2006 | Nadia Birkenstock | Winter Tales - Celtic Harp for Christmas |

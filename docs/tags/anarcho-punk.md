@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-25T12:28:58.766Z
+date: 2025-10-28T06:03:28.378Z
 permalink: tags/anarcho-punk
 title: anarcho-punk
 ---
 
 ## anarcho-punk
 
-Last updated: <time datetime="2025-10-25T12:28:58.766Z">Sat Oct 25 2025 15:28:58 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T06:03:28.378Z">Tue Oct 28 2025 08:03:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -26,9 +26,9 @@ Last updated: <time datetime="2025-10-25T12:28:58.766Z">Sat Oct 25 2025 15:28:58
 | 22 | ![Cover](https://i.discogs.com/3s56AMyEuZS86vnOHN4FT-RdA8vyVzr-Kc-RLjQhUiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTI5/MTItMTM3NzUyMzM0/Ny02ODg3LmpwZWc.jpeg) | 1985-11-13 | Admit You&#39;re Shit | Mortarhate - A Compilation Of Deleted Dialogue - The Singles |
 | 23 |  |  | @patia No | Hazlo Tu Mismo |
 | 33 |  |  | Subhumans (Canada) | New Dark Age Parade |
-| 95 |  | 1979-02 | Crass | The Feeding of the 5000 |
+| 96 |  | 1979-02 | Crass | The Feeding of the 5000 |
 | 81 |  | 1981 | Rudimentary Peni | Rudimentary Peni |
-| 96 |  | 1981 | Crass | Penis Envy |
+| 97 |  | 1981 | Crass | Penis Envy |
 | 31 | ![Cover](https://i.discogs.com/f9IUq3nCtdHxG8DJXux0z-Bcdxyiugp5ephiP1za28k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDE3/MzYtMTM4ODUwMzgw/NC0yNjY3LmpwZWc.jpeg) | 1982 | JooLs | Cross-Dressing in a Freudian Slip |
 | 41 |  | 1982 | Subhumans | Religious Wars |
 | 44 |  | 1982 | Zounds | The Curse of Zounds |
@@ -37,22 +37,22 @@ Last updated: <time datetime="2025-10-25T12:28:58.766Z">Sat Oct 25 2025 15:28:58
 | 59 | ![Cover](https://i.discogs.com/vEHTNQ6HAxHJyyiuJHkuWdvwlOVZtgEDQKs28jo2YgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTY3/ODctMTY3Njg0ODgz/Mi03NTkyLmpwZWc.jpeg) | 1982 | Napalm Death | Punk Is A Rotting Corpse |
 | 93 | ![Cover](https://i.discogs.com/fP2vc-DUa5jTkbNKSsz5Ye0Ih7bIQiDDU65r-JmeNWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODUy/MzEtMTQ3NTI0NzY5/Ny00OTA0LmpwZWc.jpeg) | 1982 | Crass | Christ-The Album |
 | 83 | ![Cover](https://i.discogs.com/e61xF_KNYbTUk-wmFFaXzBXvIvZlP4QJ1JXIUCx4ftA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODcy/MC0xMTM4NjM5ODQ1/LmpwZWc.jpeg) | 1982-08-06 | T.S.O.L. | Weathered Statues |
-| 67 |  | 1983 | Rudimentary Peni | Death Church |
+| 66 |  | 1983 | Rudimentary Peni | Death Church |
 | 76 |  | 1983 | Crass | Yes Sir, I Will |
 | 80 | ![Cover](https://i.discogs.com/1EA_Tesd9N728t4WJfj0EMq7kp11lY2koX-WKF8pwqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTM4/My0xMzM5NzMzNDMz/LTYyOTcuanBlZw.jpeg) | 1983 | The Mob | Let the Tribe Increase |
 | 90 |  | 1983 | Crucifix | Dehumanization |
-| 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/85d1569d250cbb51d69d044adeddfdff.png) | 1983 | Subhumans | The Day the Country Died |
-| 64 | ![Cover](https://i.discogs.com/eC5AdF7PlPCh29CHaj48LTCcI91P0kQNJG2ltrYKtfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA2/Mi0xNjgyMTA5Mzk3/LTMzNzUuanBlZw.jpeg) | 1983-03 | Conflict | It&#39;s Time to See Who&#39;s Who |
+| 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/85d1569d250cbb51d69d044adeddfdff.png) | 1983 | Subhumans | The Day the Country Died |
+| 63 | ![Cover](https://i.discogs.com/eC5AdF7PlPCh29CHaj48LTCcI91P0kQNJG2ltrYKtfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA2/Mi0xNjgyMTA5Mzk3/LTMzNzUuanBlZw.jpeg) | 1983-03 | Conflict | It&#39;s Time to See Who&#39;s Who |
 | 86 | ![Cover](https://i.discogs.com/5QSauPiwW8FnLyReZ25Jg5sip5L1tONp5uS7W5atE7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjU5/OC0xNTU4NjYwMzI4/LTUyNTcuanBlZw.jpeg) | 1983-10 | Subhumans | Time Flies But Aeroplanes Crash + Rats |
 | 46 |  | 1984 | Flux of Pink Indians | The Fucking Cunts Treat Us Like Pricks |
-| 98 |  | 1984 | T.S.O.L. | Change Today? |
-| 74 | ![Cover](https://i.discogs.com/qZszWB2oBs5c0JyeFO6_gHzialZPe80MLFvMbtXHgDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjA2/Ny0xMzQxNDI4Nzk4/LTM1MDQuanBlZw.jpeg) | 1984-06 | Conflict | Increase the Pressure |
+| 99 |  | 1984 | T.S.O.L. | Change Today? |
+| 73 | ![Cover](https://i.discogs.com/qZszWB2oBs5c0JyeFO6_gHzialZPe80MLFvMbtXHgDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjA2/Ny0xMzQxNDI4Nzk4/LTM1MDQuanBlZw.jpeg) | 1984-06 | Conflict | Increase the Pressure |
 | 32 |  | 1985 | Amebix | Arise! |
-| 68 | ![Cover](https://i.discogs.com/sQWP8eyiuOuxCRDse55UCJrL7un170URKlA9K-ocm48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTMy/MzgtMTM0MTk3ODMz/Ny0zNDkxLmpwZWc.jpeg) | 1985 | Dirt | Just An Error |
+| 67 | ![Cover](https://i.discogs.com/sQWP8eyiuOuxCRDse55UCJrL7un170URKlA9K-ocm48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTMy/MzgtMTM0MTk3ODMz/Ny0zNDkxLmpwZWc.jpeg) | 1985 | Dirt | Just An Error |
 | 87 | ![Cover](https://i.discogs.com/6vnYQG7gv1yU4gz1g-TdT8H51h8vQAotiYM5n2gyrHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDA0/MzQtMTM2MTkyMzY4/Ny0yMTM1LmpwZWc.jpeg) | 1985 | Subhumans | EP-LP |
 | 91 | ![Cover](https://i.discogs.com/5XW1AENqhcs9PS7hyBie1L30XPr9afDP5AnhhU-D4iI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTc1/ODctMTM0MTQ0NDc5/Mi0zMDE5LmpwZWc.jpeg) | 1986 | Conflict | The Ungovernable Force |
 | 49 | ![Cover](https://i.discogs.com/aAN8yDwe52Pbx9vATv7VR2mr4oJY7mpcHP9e8xtp0vI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/NTgtMTQ0MDYxOTE1/OC01MTkxLmpwZWc.jpeg) | 1987 | Conflict | Turning Rebellion Into Money |
-| 70 | ![Cover](https://i.discogs.com/07vFSSWLUUl95rovNBNlsdRLezPmDEkzgQ8m8KG79DA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDM1/MC0xMzQyMDY3NjMy/LTg2MjcuanBlZw.jpeg) | 1987 | Amebix | Monolith |
+| 69 | ![Cover](https://i.discogs.com/07vFSSWLUUl95rovNBNlsdRLezPmDEkzgQ8m8KG79DA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDM1/MC0xMzQyMDY3NjMy/LTg2MjcuanBlZw.jpeg) | 1987 | Amebix | Monolith |
 | 61 | ![Cover](https://i.discogs.com/jbFB13L8D4qBcV2Lp0V61tXStp5_mLYm-gh6SuMj3po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDYz/MS0xMTA5MDcxNzYz/LmpwZw.jpeg) | 1987-12-01 | Conflict | The Final Conflict |
 | 54 | ![Cover](https://i.discogs.com/e7ZEktybtdq2CwCurxpsf5_QMFadtuNqTVTO_nhop_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTc3/OC0xMjUzMTQ5Mzk4/LmpwZWc.jpeg) | 1989 | Flux of Pink Indians | Strive to Survive &amp; Neu Smell |
 | 82 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f6ebec8f5bf9c8b692a7d0bfc831a8b5.png) | 1989 | Crass | Christ The Album |
@@ -60,14 +60,15 @@ Last updated: <time datetime="2025-10-25T12:28:58.766Z">Sat Oct 25 2025 15:28:58
 | 14 |  | 1991 | Dog Faced Hermans | Humans Fly &#x2F; Every Day Timebomb |
 | 30 |  | 1992 | Chumbawamba | First 2 |
 | 37 |  | 1992 | Civil Disobedience | In a Few Hours of Madness |
-| 63 |  | 1992 | Chumbawamba | Shhh |
+| 62 |  | 1992 | Chumbawamba | Shhh |
+| 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b1ec65bf3066821d5cf0b631f3436b5e.png) | 1992 | The Crucifucks | Our Will Be Done |
 | 16 | ![Cover](https://i.discogs.com/wvTwb8DFzMYCuJt0Sp7g9E38t8ryv3SEFbNAAoxuiYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDg1/NjItMTM0MzY5MzM5/OS0yMDYzLmpwZWc.jpeg) | 1994 | Black Kronstadt | Crimes of capital, crimes of the state |
 | 27 | ![Cover](https://i.discogs.com/91DomjXumOiRI0-UdkUePMTkA5ZXPN7qpT0ajorKwts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE3/NjI1LTE0OTkwNzg4/MDAtNDEzOC5qcGVn.jpeg) | 1994 | Bunkier | SZPITAL PSYCHIATRYCZNY |
 | 92 | ![Cover](https://i.discogs.com/4lWrmlIPtwcfveC3w_d3T3JP_fgkPNwQw9EYidJIpR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjg5/OS0xMjQ2MzUyNjI3/LmpwZWc.jpeg) | 1994-07-22 | Reagan Youth | Punk Rock New York |
 | 24 | ![Cover](https://i.discogs.com/_lNOXiTDJiPF_a0GiQUhR5J1G0X7LJmYIHlrKgSGoxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTEw/OC0xMjYxNjIzMTc2/LmpwZWc.jpeg) | 1995 | Hiatus | The Brain And El Sueno De La Razon Produce Monstruos |
 | 35 | ![Cover](https://i.discogs.com/7ctLL9aRNbdRDMNgqhWBpwERqNlySjxTR9wQX-XJHk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODUy/NjAtMTMzMjI0ODIx/NC5qcGVn.jpeg) | 1995 | Bunkier | Naziści wypierdalać |
 | 57 |  | 1995-09-05 | Rudimentary Peni | Pope Adrian 37th Psychristiatric |
-| 69 |  | 1995-09-23 | Chumbawamba | Swingin&#39; With Raymond |
+| 68 |  | 1995-09-23 | Chumbawamba | Swingin&#39; With Raymond |
 | 51 |  | 1996 | Aus-Rotten | The System Works for Them |
 | 36 | ![Cover](https://i.discogs.com/_oxTMdDsHakuJ8MiNueYUA6LxFfts7f55XZ5d5PbqXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI1/MjQwLTE1MTc4NzQ5/ODctNjk4Mi5qcGVn.jpeg) | 1997 | Crucifix | Exhibit A |
 | 43 |  | 1997 | A&#x2F;&#x2F;Political | Planting the Seeds of Revolution |
@@ -76,7 +77,7 @@ Last updated: <time datetime="2025-10-25T12:28:58.766Z">Sat Oct 25 2025 15:28:58
 | 8 | ![Cover](https://i.discogs.com/Sa_ZhFslnfSfzeBNlrZgyKJtBkg0CjjwihIaMoZ5JnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTIw/NjAtMTMzNjIzNTM5/OC5qcGVn.jpeg) | 1998 | Sin Dios | Ruido Anticapitalista &amp; Alerta |
 | 50 |  | 1998 | Chumbawamba | Uneasy Listening |
 | 77 |  | 1999 | Włochaty | Droga Oporu |
-| 100 |  | 1999-03-23 | Choking Victim | No Gods &#x2F; No Managers |
+| 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b4b29225191cb6a1d02f60ced96704d2.png) | 1999-03-23 | Choking Victim | No Gods &#x2F; No Managers |
 | 13 |  | 2000 | Petrograd | A.B.C. |
 | 9 | ![Cover](https://i.discogs.com/C9rs6duppC9EkJ4gfm-lSaLOMREtcTzLvNmSUrMg0Ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc5/NjItMTIyMjY2ODc2/NC5qcGVn.jpeg) | 2001 | Inner Terrestrials | Enter The Dragon EP |
 | 42 |  | 2001 | Oi Polloi | Six of the Best |
@@ -86,29 +87,28 @@ Last updated: <time datetime="2025-10-25T12:28:58.766Z">Sat Oct 25 2025 15:28:58
 | 21 |  | 2001-08-28 | Leftöver Crack | Mediocre Generica |
 | 2 | ![Cover](https://i.discogs.com/k4nWwHOAs5vGf8txdk9VaTyMlUxejzMj77hUrcoaxPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzA3/MDItMTU5MTM0Mjcy/My05Mzg1LmpwZWc.jpeg) | 2002 | Puagh | 2003 - El Ritmo De Las Ideas |
 | 60 | ![Cover](https://i.discogs.com/72Iv5iFpUxOHjVft8DqLTwW73Z1A7W1-15yStqM0iFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDk1/NDEtMTQ0NDk5OTkx/MC05ODY1LmpwZWc.jpeg) | 2002-02-22 | Contra La Contra | Ни слова о политике! |
-| 71 | ![Cover](https://i.discogs.com/5YEPu1Zz1QV53u2BFCW0DKn-pBtBfOYMT4yykCT-qLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjQz/Mi0xMTcyMTA4ODIy/LmpwZWc.jpeg) | 2002-07-09 | Discharge | Discharge |
-| 65 | ![Cover](https://i.discogs.com/f0TFk6F2qO3z1ffkV_TOKymDZbaUWBPbVRFwDFt89Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjQy/ODAtMTI5ODE3NjE0/Ni5qcGVn.jpeg) | 2003 | Behind Enemy Lines | The Global Cannibal |
-| 97 | ![Cover](https://i.discogs.com/ysoiVDTgvwChd-tMvTJHrpECnN8BgmV6d2gZrfZrxXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTg4/MTktMTQ1NjIzOTEy/Ni0yNzUyLmpwZWc.jpeg) | 2003-03 | Defiance, Ohio | Share What Ya Got |
+| 70 | ![Cover](https://i.discogs.com/5YEPu1Zz1QV53u2BFCW0DKn-pBtBfOYMT4yykCT-qLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjQz/Mi0xMTcyMTA4ODIy/LmpwZWc.jpeg) | 2002-07-09 | Discharge | Discharge |
+| 64 | ![Cover](https://i.discogs.com/f0TFk6F2qO3z1ffkV_TOKymDZbaUWBPbVRFwDFt89Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjQy/ODAtMTI5ODE3NjE0/Ni5qcGVn.jpeg) | 2003 | Behind Enemy Lines | The Global Cannibal |
+| 98 | ![Cover](https://i.discogs.com/ysoiVDTgvwChd-tMvTJHrpECnN8BgmV6d2gZrfZrxXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTg4/MTktMTQ1NjIzOTEy/Ni0yNzUyLmpwZWc.jpeg) | 2003-03 | Defiance, Ohio | Share What Ya Got |
 | 10 | ![Cover](https://i.discogs.com/0k0PYyDdVo-petR8PC87ajPmRcjTkoMH8n0FnrmAe1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODAz/NjMtMTM5OTg0Mzkx/MC03NTk5LmpwZWc.jpeg) | 2004 | Liberty | People Who Care Are Angry |
 | 40 | ![Cover](https://i.discogs.com/hc8YlefGL6kACaUseNCduY7KQefAjM9jxfM42EK7_i8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDIz/MDktMTU2Njk0MzQy/NC0yMzA3LmpwZWc.jpeg) | 2004 | Rudimentary Peni | Archaic |
 | 84 | ![Cover](https://i.discogs.com/uWv1jQs-TTz9vUs3DMu9MRszujRGR36mKy4j72WbUiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg0/NjEtMTI0MjEyOTQ5/Ni5qcGVn.jpeg) | 2004 | Bérurier Noir | Concerto pour détraqués! |
 | 85 | ![Cover](https://i.discogs.com/uWv1jQs-TTz9vUs3DMu9MRszujRGR36mKy4j72WbUiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg0/NjEtMTI0MjEyOTQ5/Ni5qcGVn.jpeg) | 2004 | Bérurier Noir | Concerto pour détraqués |
-| 94 |  | 2004 | Ghost Mice | The Debt of the Dead |
+| 95 |  | 2004 | Ghost Mice | The Debt of the Dead |
 | 25 | ![Cover](https://i.discogs.com/Tuy8lR_kRI13e3j6SRBlUfX6P1hPI48rrgG4NOFz1Bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjY4/MjYtMTU2MjQ3OTk2/Ni04NTkyLmpwZWc.jpeg) | 2004-03 | Skitkids | Onna for pleasure |
 | 38 | ![Cover](https://i.discogs.com/hti9Y9ZQV49qC3FEr24Ge2jN_Q9bqbjWHADVhm-k8GA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTg4/NC0xMTM5ODUwMzI0/LmpwZWc.jpeg) | 2004-08-31 | Leftöver Crack | Fuck World Trade |
 | 26 | ![Cover](https://i.discogs.com/eN4jEFuCShB8jMEBDHnR6qPbfxT3nF-IalPbG80d60E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTU2/MjktMTM5MjMxMDAx/OS00MDg5LnBuZw.jpeg) | 2005 | Choking Victim | Live 9&#x2F;11 2005 |
 | 39 | ![Cover](https://i.discogs.com/QwJfErgi33SiAojXG14BldjFQSbWe080i_iWYbipSTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTA2/MzYtMTQ0MjU2NTMw/NC04MDcxLmpwZWc.jpeg) | 2005 | Subhumans | All Gone Live |
-| 62 | ![Cover](https://i.discogs.com/MV2pcuFUXK6C3JI3zTXt0sqRJX53Adzx--wUkEFZC6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTMy/NC0xNTc5NjQzODkx/LTM2MTUuanBlZw.jpeg) | 2006-08-22 | The Casualties | Under Attack |
-| 72 |  | 2007 | Wingnut Dishwashers Union | Towards a World Without Dishwashers! |
+| 71 |  | 2007 | Wingnut Dishwashers Union | Towards a World Without Dishwashers! |
 | 48 | ![Cover](https://i.discogs.com/D9B9q-tJziU7DRrpP8s99zK3IUlEyAWpNp4jXTWxY9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjUx/OTQtMTMxMjI3NDAw/Ny5qcGVn.jpeg) | 2008 | Chumbawamba | Pictures Of Starving Children |
 | 88 | ![Cover](https://i.discogs.com/6vnYQG7gv1yU4gz1g-TdT8H51h8vQAotiYM5n2gyrHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDA0/MzQtMTM2MTkyMzY4/Ny0yMTM1LmpwZWc.jpeg) | 2008 | Subhumans | EP LP |
 | 58 | ![Cover](https://i.discogs.com/Av4kMn54Br757MPjIzUQX6YlbadDfAV4PEMsfTvXg7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjc0/NDAtMTMyMzEwNzcx/NC5qcGVn.jpeg) | 2010 | Włochaty | Wbrew wszystkiemu |
-| 73 | ![Cover](https://i.discogs.com/FzbHqQmzAzsJHML8-vtSqSMy7MmFiia6vyYrsQbemfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQw/MTgtMTM4OTQzNjc4/Mi00MzI1LmpwZWc.jpeg) | 2010-09-06 | The Ex | Catch my shoe |
+| 72 | ![Cover](https://i.discogs.com/FzbHqQmzAzsJHML8-vtSqSMy7MmFiia6vyYrsQbemfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQw/MTgtMTM4OTQzNjc4/Mi00MzI1LmpwZWc.jpeg) | 2010-09-06 | The Ex | Catch my shoe |
 | 11 | ![Cover](https://i.discogs.com/QbzWurFjcRs7jdzD3g9-Pn1C6VkdpzPT-6yVHSlKYGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzk3/MzItMTUwMTIwNDE0/OS01MjkwLmpwZWc.jpeg) | 2012 | Ramshackle Glory | Die The Nightmare |
 | 18 | ![Cover](https://i.discogs.com/yrpBYaZfuudc8wplDzuG9VpJpvs6RmFDV_4gECMorPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTk5/NDctMTQ4NTUwNzg3/OC02ODU5LmpwZWc.jpeg) | 2014-08-28 | Sierpien | Zawsze Nasze |
 | 75 | ![Cover](https://i.discogs.com/v5v6P71wLZrBx0wFjNfG3BEGnWQcpPy-zJq2jy3iEgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE1/ODY3LTE1MDA5OTk4/NzgtNDM4Mi5qcGVn.jpeg) | 2017 | Dirt | The Crass Years |
 | 7 | ![Cover](https://i.discogs.com/-M4VuWy-pNMXuVyyWL_frOan-cRr5_Kfn0VGc5u90y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc2/Njc0LTE1Nzc0NzAy/MDctMTQxOS5qcGVn.jpeg) | 2017-05-29 | Cistem Failure | Resilience |
-| 66 | ![Cover](https://i.discogs.com/2X2CsC2i1d4BmKPVnWchbvFfXVb8CpddIENP9wN2sCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc3/MTUxLTE0OTYyNjEx/NDMtNjYwNy5qcGVn.jpeg) | 2017-06-02 | Institute | Subordination |
+| 65 | ![Cover](https://i.discogs.com/2X2CsC2i1d4BmKPVnWchbvFfXVb8CpddIENP9wN2sCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc3/MTUxLTE0OTYyNjEx/NDMtNjYwNy5qcGVn.jpeg) | 2017-06-02 | Institute | Subordination |
 | 6 | ![Cover](https://i.discogs.com/p9fUfZvGqlM0mk4W7ApUuoniwJemy7u-MzsDmtAr6ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE0/NjM4LTE1NDA1MDI4/MjktOTczOS5qcGVn.jpeg) | 2017-12-05 | Subdued | Torment &amp; Torture Demo |
 | 12 | ![Cover](https://i.discogs.com/B3f1554Z281lfisLYCu-70-6sj-oeszOa7e_KWc1gkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI0/MTE5LTE2MTk2ODQ5/ODctNTI5OC5qcGVn.jpeg) | 2021-03-05 | Desaparecidos | The Left Is Right |
 | 17 | ![Cover](https://i.discogs.com/mC0h1VTVKkE9RVFb3YnHM3aG0AYfMubyQF_CUPIUkEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTY0/NTk1LTE2NTIwOTEz/NTktMTk5Ny5qcGVn.jpeg) | 2022-05-01 | Cierń | The Emperor Rx |
