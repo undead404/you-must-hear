@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T00:14:21.900Z
+date: 2025-10-28T04:49:45.893Z
 permalink: tags/latin-pop
 title: latin pop
 ---
 
 ## latin pop
 
-Last updated: <time datetime="2025-10-23T00:14:21.900Z">Thu Oct 23 2025 03:14:21 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T04:49:45.893Z">Tue Oct 28 2025 06:49:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -18,7 +18,7 @@ Last updated: <time datetime="2025-10-23T00:14:21.900Z">Thu Oct 23 2025 03:14:21
 | 95 | ![Cover](https://i.discogs.com/BmEO_8IpI4oECDeA94c5alETV2g6_X7bLKnTUgsRXss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM2/NzM0LTE1ODk5Mzc1/OTYtNTUxNS5qcGVn.jpeg) | 1987 | Solar | Spit it Out |
 | 55 |  | 1992-05-05 | Jon Secada | Jon Secada |
 | 12 |  | 1992-10-30 | Gloria Estefan | Greatest Hits |
-| 69 |  | 1993-06-22 | Luis Miguel | Aries |
+| 70 |  | 1993-06-22 | Luis Miguel | Aries |
 | 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ad19d05177d1ec58acd56c259d29a1e0.png) | 1995-10-06 | Shakira | Pies Descalzos |
 | 44 | ![Cover](https://i.discogs.com/VqfuzEhoCNE8XBQt1k3yIBPs0fLC2zXE-S1SzEvpQXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzI4/NzctMTI4MDIyNjcx/NC5qcGVn.jpeg) | 1996 | Enrique Iglesias | Subeme La Radio |
 | 34 |  | 1997 | Fey | Tierna La Noche |
@@ -26,11 +26,10 @@ Last updated: <time datetime="2025-10-23T00:14:21.900Z">Thu Oct 23 2025 03:14:21
 | 16 |  | 1997-01-01 | Thalía | Amor a la Mexicana |
 | 7 | ![Cover](https://i.discogs.com/936pyFLDXuhnoCp1ObGDWWBdXjlqopsJMMd5sTme6Gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTM0/MS0xMjgxMDg5MTY2/LmpwZWc.jpeg) | 1998 | Natalia Oreiro | Natalia Oreiro |
 | 5 |  | 1998-09-29 | Shakira | Dónde Están los Ladrones? |
-| 79 | ![Cover](https://i.discogs.com/vhFVqtqjztBM0epSgW9c575HCKPWSxg7DxoPe5qEsWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY5/NzE4LTE1Mzk4Njg1/MjEtNjMxMi5qcGVn.jpeg) | 1999 | Enrique Iglesias | DUELE EL CORAZON |
+| 80 | ![Cover](https://i.discogs.com/vhFVqtqjztBM0epSgW9c575HCKPWSxg7DxoPe5qEsWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY5/NzE4LTE1Mzk4Njg1/MjEtNjMxMi5qcGVn.jpeg) | 1999 | Enrique Iglesias | DUELE EL CORAZON |
 | 50 |  | 1999-01-01 | Carlos Vives | El Amor De Mi Tierra |
 | 3 | ![Cover](https://i.discogs.com/qoGYeRmBvl13s2iUh8HTl0ARnJLnwS8oYHccDnsBTUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQx/NzE1LTE1OTY5Mzg1/NTEtNDE5OS5qcGVn.jpeg) | 1999-07-27 | Intocable | Contigo |
 | 9 |  | 2000-09-12 | Christina Aguilera | Mi Reflejo |
-| 2 | ![Cover](https://i.discogs.com/x8bttADUyVVaa5ft-howg-whYZlueWu6pWMKVs4Ck4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzg2/NjgtMTMyODU2Njcw/MS5qcGVn.jpeg) | 2001 | Jennifer Lopez | J.Lo |
 | 4 |  | 2001 | Diego Torres | Un Mundo Diferente |
 | 17 | ![Cover](https://i.discogs.com/NvmPD7UDJJgp9zWF6nEqtApxGwm7fWAS-MKb52FZPas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODcy/NzMtMTIzMDQzOTI3/Ny5qcGVn.jpeg) | 2001 | Sin Bandera | Sin Bandera |
 | 38 |  | 2001-09-04 | Elefante | El que busca encuentra |
@@ -44,13 +43,14 @@ Last updated: <time datetime="2025-10-23T00:14:21.900Z">Thu Oct 23 2025 03:14:21
 | 20 | ![Cover](https://i.discogs.com/LAte46meYe9ef78N4Zdt-5K-zkUxNG37XvcrEufOFGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjcx/NDctMTY0OTgyNTM4/Mi02NTc0LmpwZWc.jpeg) | 2005 | Thalia | Sexto Sentido |
 | 48 |  | 2005-09-22 | RBD | Nuestro Amor |
 | 6 | ![Cover](https://i.discogs.com/9aGlQ_lOov29I0ZM_DjIwx_hmxGCEXrTZwUN_pavsss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTQ0/NTItMTQ5MzUwNTM0/My04NjAyLmpwZWc.jpeg) | 2006-02-26 | Shakira | Donde Estan Los Ladrones |
-| 77 |  | 2006-06-06 | Julieta Venegas | Limón y Sal |
+| 78 |  | 2006-06-06 | Julieta Venegas | Limón y Sal |
 | 31 | ![Cover](https://i.discogs.com/xdlac_3ydDssXqgDXt4pfTli9eoFEDUmipJcrk0cw_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTY1/Ny0xMTgyNTMxMTQ4/LmpwZWc.jpeg) | 2006-12-04 | RBD | Celestial |
 | 19 |  | 2006-12-19 | RBD | Rebels |
 | 29 | ![Cover](https://i.discogs.com/q1VF7qDTXNe-Lrrl4fV8R46_egCc6Xc0A6AR3xzvtHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk1/MTQxLTE1NDQwMzA5/MjQtOTQ5Ni5qcGVn.jpeg) | 2007 | Juanes | La Vida Es Un Ratico |
 | 61 |  | 2007-03-20 | Jennifer Lopez | Como Ama Una Mujer |
+| 1 |  | 2007-09-21 | Nigga | Te Quiero |
 | 28 | ![Cover](https://i.discogs.com/-emHVkwASM8Epq8u_OdJ_cUV-U0ekA2tym6U1ghBe_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM3/MDgtMTQwMTEzMjI0/NC04ODk1LmpwZWc.jpeg) | 2007-10-02 | Gloria Trevi | Una Rosa Blu |
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4c5248a8df824c61b8179f54a7e6ef97.png) | 2008-04-29 | Maná | Arde el cielo |
+| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4c5248a8df824c61b8179f54a7e6ef97.png) | 2008-04-29 | Maná | Arde el cielo |
 | 27 |  | 2008-08-26 | Luis Fonsi | Palabras Del Silencio |
 | 14 | ![Cover](https://i.discogs.com/xb4Rv0WrdpGmpLWK21ltLrwql-zTkURPqUMW-44SHKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjg2/NDYtMTQ4OTgwNjE1/MS03MTgzLmpwZWc.jpeg) | 2009-09-11 | Nelly Furtado | Mi Plan |
 | 81 |  | 2009-10-09 | Shakira | Loba |
@@ -60,26 +60,26 @@ Last updated: <time datetime="2025-10-23T00:14:21.900Z">Thu Oct 23 2025 03:14:21
 | 21 | ![Cover](https://i.discogs.com/dTiBs13zeK77ZR8cuxgH4hFJerLW4uiLOhaOd5ff1rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzM5/MTYtMTMwNTA2NzQ1/NC5qcGVn.jpeg) | 2010-10-14 | Shakira | Sale el Sol |
 | 8 |  | 2011-03-22 | Gloria Trevi | Gloria |
 | 57 | ![Cover](https://i.discogs.com/kBGkPAPaYzpuyPqirs6D6Q87vagyDSxvVUQENaMOTTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzg4/ODItMTUwNjExNTY5/NS0xMzE5LnBuZw.jpeg) | 2011-04-10 | Luan Santana | Acordando o Prédio |
-| 65 |  | 2011-12-06 | Jesse &amp; Joy | ¿Con Quién Se Queda el Perro? |
-| 66 | ![Cover](https://i.discogs.com/p0EYcYr4N9bAyvtDqe2tVSZGxJE5fd4p-MI4Ahyp3Sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDc1/MDg0LTE1NjczNjMx/ODUtNzQ1NS5qcGVn.jpeg) | 2012-05-04 | Inna | Cola Song (feat. J Balvin) |
+| 66 |  | 2011-12-06 | Jesse &amp; Joy | ¿Con Quién Se Queda el Perro? |
+| 67 | ![Cover](https://i.discogs.com/p0EYcYr4N9bAyvtDqe2tVSZGxJE5fd4p-MI4Ahyp3Sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDc1/MDg0LTE1NjczNjMx/ODUtNzQ1NS5qcGVn.jpeg) | 2012-05-04 | Inna | Cola Song (feat. J Balvin) |
 | 97 |  | 2013-10-08 | Prince Royce | Soy el Mismo |
 | 11 | ![Cover](https://i.discogs.com/BhTKJrjCTHmdxIjftMvzaZcOjJT5JmvJU-58P1QSNpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODU1/NDY1LTE2ODIyNTYy/NjAtNTc0MC5wbmc.jpeg) | 2014 | Lali | N5 |
-| 68 | ![Cover](https://i.discogs.com/FOerATE3CFeeSCGEW2v5lmsDIwYtl41L0auEQZ0N3Fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzYw/OTktMTYzMzc0MDM3/Ni02NjY4LmpwZWc.jpeg) | 2014 | Anitta | Double Team |
+| 69 | ![Cover](https://i.discogs.com/FOerATE3CFeeSCGEW2v5lmsDIwYtl41L0auEQZ0N3Fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzYw/OTktMTYzMzc0MDM3/Ni02NjY4LmpwZWc.jpeg) | 2014 | Anitta | Double Team |
 | 90 | ![Cover](https://i.discogs.com/Qu2qEbbdwLn2OodItCYjmsLIUz79pMiATVfHhMmKvog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTcw/MTgtMTM5NTQyMTUy/NS0zNjMwLmpwZWc.jpeg) | 2014 | Shakira | Chantaje |
 | 96 | ![Cover](https://i.discogs.com/Qu2qEbbdwLn2OodItCYjmsLIUz79pMiATVfHhMmKvog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTcw/MTgtMTM5NTQyMTUy/NS0zNjMwLmpwZWc.jpeg) | 2014-03-00 | Shakira | El Dorado |
-| 80 |  | 2014-03-13 | Enrique Iglesias | Sex and Love |
+| 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5c1df68ba32b0e143506faafd3c79f10.png) | 2014-03-13 | Enrique Iglesias | Sex and Love |
 | 10 |  | 2014-03-18 | Ana Tijoux | Vengo |
-| 76 | ![Cover](https://i.discogs.com/PnBaCEFh5l3HcojeSFeaUBUNGydn6ni_6yp7G1N75yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIw/NzkwLTE2NDM5ODE4/NDctNDI0My5qcGVn.jpeg) | 2015 | Maluma | Felices Los 4 |
+| 77 | ![Cover](https://i.discogs.com/PnBaCEFh5l3HcojeSFeaUBUNGydn6ni_6yp7G1N75yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDIw/NzkwLTE2NDM5ODE4/NDctNDI0My5qcGVn.jpeg) | 2015 | Maluma | Felices Los 4 |
 | 43 | ![Cover](https://i.discogs.com/YkDmTymNV-TTIYQKQTyQ1T9-Uc09dVr5bElaU3wgdio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTgw/OTQtMTQzMzg1ODQ0/Mi0xOTY5LmpwZWc.jpeg) | 2015-03-17 | Natalia Lafourcade | Hasta la Raíz |
-| 74 | ![Cover](https://i.discogs.com/-AYq6XsILIUsX2pOsWBuql94VZJwZZQ6Vg10Ftpd5No/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjEz/NTYtMTQ1Mjg1OTA2/NS00ODMzLmpwZWc.jpeg) | 2015-06-26 | Alvaro Soler | Eterno Agosto |
-| 71 | ![Cover](https://i.discogs.com/XcUy0sHmbvn_-CVT6kc2G1WdoVe5_wDFVQzemrvxkGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTM4/NDctMTQzNTg0NTQ5/Ny01MTU2LmpwZWc.jpeg) | 2015-07-03 | Monsieur Periné | Caja de Música |
+| 75 | ![Cover](https://i.discogs.com/-AYq6XsILIUsX2pOsWBuql94VZJwZZQ6Vg10Ftpd5No/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjEz/NTYtMTQ1Mjg1OTA2/NS00ODMzLmpwZWc.jpeg) | 2015-06-26 | Alvaro Soler | Eterno Agosto |
+| 72 | ![Cover](https://i.discogs.com/XcUy0sHmbvn_-CVT6kc2G1WdoVe5_wDFVQzemrvxkGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTM4/NDctMTQzNTg0NTQ5/Ny01MTU2LmpwZWc.jpeg) | 2015-07-03 | Monsieur Periné | Caja de Música |
 | 47 | ![Cover](https://i.discogs.com/96Op493Xwj0WaIy7WPWVeqXNl0rYU0cDOh1A5M1NPEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODg5/NDktMTQ3OTY5MTAx/MC02MzI5LmpwZWc.jpeg) | 2016 | Simone &amp; Simaria | Loka |
-| 73 | ![Cover](https://i.discogs.com/N1dqQzhwPaHETfyflw5G2CXNmqDx-fU4X9b8zj1jC-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA0/MTEzLTE1MTU3MjU2/MzYtMjE3OS5qcGVn.jpeg) | 2016 | CNCO | Primera Cita |
-| 70 | ![Cover](https://i.discogs.com/hbFJyb0lqE07yNK6vJq55UtO0u6pAoNQkwrNnDjhPvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzg4/MTAtMTQwNjgzNDU2/MC02NzYxLmpwZWc.jpeg) | 2016-06-24 | Becky G | ESQUEMAS |
+| 74 | ![Cover](https://i.discogs.com/N1dqQzhwPaHETfyflw5G2CXNmqDx-fU4X9b8zj1jC-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA0/MTEzLTE1MTU3MjU2/MzYtMjE3OS5qcGVn.jpeg) | 2016 | CNCO | Primera Cita |
+| 71 | ![Cover](https://i.discogs.com/hbFJyb0lqE07yNK6vJq55UtO0u6pAoNQkwrNnDjhPvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzg4/MTAtMTQwNjgzNDU2/MC02NzYxLmpwZWc.jpeg) | 2016-06-24 | Becky G | ESQUEMAS |
 | 30 | ![Cover](https://i.discogs.com/dPA3No5KWJD_XcCdLoiRkisTk1gLP4b6YeUQabItTT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTU3/MzktMTI1Njk0MjA3/OS5qcGVn.jpeg) | 2017 | Juanes | Mis Planes Son Amarte |
 | 85 | ![Cover](https://i.discogs.com/Rhezk7gakI-ENCdI0DR6AuvY4GUAJ_ePAP95r-sk89Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI5/MzAwLTE2Mzg2NDcy/ODYtMTMyMC5qcGVn.jpeg) | 2017 | Danny Ocean | Me Rehúso |
 | 62 | ![Cover](https://i.discogs.com/CD8TUaJEUFjlCbOB_diwty3b4OArIv5zru_gzFaHMn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUz/NzM0LTE1NDg5ODcx/ODMtNjE2My5qcGVn.jpeg) | 2017-01-20 | Nicky Jam | Fénix |
-| 78 | ![Cover](https://i.discogs.com/KX6JInuh1uWaKPo5XtQKIhMlPuXn_VGMZWi2eC7fReM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU2/NzU1LTE1MjAxNDE2/NDUtNTQyNC5qcGVn.jpeg) | 2017-02-03 | Gloria Groove | O Proceder |
+| 79 | ![Cover](https://i.discogs.com/KX6JInuh1uWaKPo5XtQKIhMlPuXn_VGMZWi2eC7fReM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU2/NzU1LTE1MjAxNDE2/NDUtNTQyNC5qcGVn.jpeg) | 2017-02-03 | Gloria Groove | O Proceder |
 | 15 | ![Cover](https://i.discogs.com/Ms_ATwJSpu7ysqxjlskTnTvI_un1eW8Z1KxfmEuZt_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA1/NjI2LTE1MDI3NjI5/ODMtMzc5My5qcGVn.jpeg) | 2017-04-04 | Claudia Leitte | Baldin de Gelo |
 | 45 | ![Cover](https://i.discogs.com/PLugLdHkW4wY3s3erMPXwlPyaxmfA0th6S2x7mYCTz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc3/NzA4LTE0OTY2Nzg5/MDUtMjIwMi5qcGVn.jpeg) | 2017-04-21 | Manu Gavassi | Manu |
 | 92 | ![Cover](https://i.discogs.com/IcRgt13wyiecOi6N5I5mRJzs2XbX855MlPVd5ud73ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjYz/OTQtMTQzOTkyMDM2/OS0xMTAxLmpwZWc.jpeg) | 2017-05-31 | Anitta | Paradinha |
@@ -91,7 +91,7 @@ Last updated: <time datetime="2025-10-23T00:14:21.900Z">Thu Oct 23 2025 03:14:21
 | 18 | ![Cover](https://i.discogs.com/L4mEIwxriSLWiWTHNulP3l8ATdBP8dmth7TviEJUPAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzEy/NDk2LTE1NjA5ODk5/NjgtODI5NS5qcGVn.jpeg) | 2019-03-01 | Ximena Sariñana | ¿Dónde Bailarán las Niñas? |
 | 83 | ![Cover](https://i.discogs.com/kQIJc6oDkTU4PL56LmxcDyitBqcbE_fXQ3hEtxRZtd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjA4/MDQ5LTE1OTQ0NjEz/NzYtMjM0OC5qcGVn.jpeg) | 2019-09-13 | Becky G | Mayores |
 | 86 | ![Cover](https://i.discogs.com/_HfA8ttZPusL-VCWMMXYhqZ2vE2lkr41EkrfriKuiSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/MTU0LTE1NzA3ODIz/MTMtNjI4OS5qcGVn.jpeg) | 2019-10-11 | Becky G | Mala Santa |
-| 75 | ![Cover](https://i.discogs.com/cTnZWaZQ2amPi7ZyiO5Zs0qSAEpvSrYoNHjFh7ZYBA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg4/Mjc3LTE2MzEwMTA5/MTItODYzNy5qcGVn.jpeg) | 2019-12-06 | Liam Payne | Familiar |
+| 76 | ![Cover](https://i.discogs.com/cTnZWaZQ2amPi7ZyiO5Zs0qSAEpvSrYoNHjFh7ZYBA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg4/Mjc3LTE2MzEwMTA5/MTItODYzNy5qcGVn.jpeg) | 2019-12-06 | Liam Payne | Familiar |
 | 87 | ![Cover](https://i.discogs.com/83HecHa3v7q3TmAv7RPUEmPauh0nd20-uMsaVYT7MHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODM3/NzcxLTE1OTAwNzQ2/MzQtOTUwNy5qcGVn.jpeg) | 2020 | Selena Gomez | REVELACIÓN - EP |
 | 33 | ![Cover](https://i.discogs.com/A1HQDyz_xiBTgOFxViu-qyq5nXRqWb4FeykpAAOWNBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTkz/NjYzLTE2MDUwMzky/NTctOTczNi5qcGVn.jpeg) | 2020-01-26 | CNCO | Hey DJ |
 | 60 | ![Cover](https://i.discogs.com/2HR_WLxeMhHD69BYLDmUi-o5EjUdwi9ZxSVXe3PELNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQw/NDU1LTE1ODcyMTA2/NjAtMTY1NS5qcGVn.jpeg) | 2020-04-17 | Camilo | Por Primera Vez |
@@ -105,10 +105,10 @@ Last updated: <time datetime="2025-10-23T00:14:21.900Z">Thu Oct 23 2025 03:14:21
 | 32 | ![Cover](https://i.discogs.com/8OM8R2Uxk61mO4KpFCpa0wrRqylTNDQT13rVpCh0uZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjU1/Mi0xMTY1OTU5MDQx/LmpwZWc.jpeg) | 2022 | Christina Aguilera | Aguilera |
 | 99 | ![Cover](https://i.discogs.com/a2iZXF6KAH5VmJOLtjhLZ6R_tz9hdI2T1W1-ZNXdJIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE0/NzcxLTE2NTE4MDgx/NDctMjExMy5qcGVn.jpeg) | 2022-05-06 | Bad Bunny | UN VERANO SIN TI |
 | 63 | ![Cover](https://i.discogs.com/eCVSLS5JsD0KgA4n2WGuASiWA5eJYjO4KnY3lDU5p1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzM2/MzktMTY1NjcwMTEx/NC02NjI0LmpwZWc.jpeg) | 2022-05-31 | Emilia | Tú Crees En Mí? |
-| 72 | ![Cover](https://i.discogs.com/cXalsVkwkox0fJJNPyY60NlMHOYgtNKwYAmt_x7mBII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkx/NDc0LTE2NjcxMDY5/ODYtOTIxMC5qcGVn.jpeg) | 2022-10-26 | Kenia os | K23 |
+| 73 | ![Cover](https://i.discogs.com/cXalsVkwkox0fJJNPyY60NlMHOYgtNKwYAmt_x7mBII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTkx/NDc0LTE2NjcxMDY5/ODYtOTIxMC5qcGVn.jpeg) | 2022-10-26 | Kenia os | K23 |
 | 56 | ![Cover](https://i.discogs.com/Bo-kD5U5UE1rg4eSnBa_iUprj-sfhUVLAnFeSt0UvHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MDk4/NDEtMTQ4MTgyMTUw/OC04MDQzLmpwZWc.jpeg) | 2022-11 | Silva | Silva Canta Marisa |
 | 53 | ![Cover](https://i.discogs.com/6LSCFX3SxXTqD0Ors30_PLOuYLZV8Ut317CCSf3Okt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg4/NzEzLTE2Nzg4MjA3/NTktNDQ5My5qcGVn.jpeg) | 2022-11-10 | Danny Ocean | @dannocean |
-| 67 | ![Cover](https://i.discogs.com/-L0VlG_Ysu8Y35flWJhn51U9wMznFM-YcZbHWefxUts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTQ3/NTE3LTE2NzUyMjM3/NDEtNzIwNC5qcGVn.jpeg) | 2022-12-08 | Maria Becerra | La Nena de Argentina |
+| 68 | ![Cover](https://i.discogs.com/-L0VlG_Ysu8Y35flWJhn51U9wMznFM-YcZbHWefxUts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTQ3/NTE3LTE2NzUyMjM3/NDEtNzIwNC5qcGVn.jpeg) | 2022-12-08 | Maria Becerra | La Nena de Argentina |
 | 84 | ![Cover](https://i.discogs.com/J63PXPi5PWr5NtO84KjFby03iny8Vq8fVn0gAMbFai8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTgw/OTg0LTE2NzcwMTA1/MjgtOTA4My5qcGVn.jpeg) | 2023-02-16 | tINI | Cupido |
 | 91 | ![Cover](https://i.discogs.com/WoAdhPv_zY-ZTAC1b-7Vom4Kdf5tmy0DCP9jYLhIAtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTg5/MzY0LTE2MzQyMzEw/NjAtODQ2NC5qcGVn.jpeg) | 2023-11-18 | Natti Natasha | Criminal |
 | 94 | ![Cover](https://i.discogs.com/c7UloxsYz6bOg6XgjiAxSGxKtNsYwNE7MAS-fE5P3yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQ3/NjE3LTE3MTM4MTgz/MzYtMzYxMi5qcGVn.jpeg) | 2024-01-12 | Kali Uchis | orquídeas |
