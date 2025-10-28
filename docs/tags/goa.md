@@ -1,21 +1,21 @@
 ---
 category: genre
-date: 2025-10-22T11:37:29.137Z
+date: 2025-10-28T01:46:26.570Z
 permalink: tags/goa
 title: goa
 ---
 
 ## goa
 
-Last updated: <time datetime="2025-10-22T11:37:29.137Z">Wed Oct 22 2025 14:37:29 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T01:46:26.570Z">Tue Oct 28 2025 03:46:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 3 | ![Cover](https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg) | 1972 | Various Artists | Nuclear Visions Of Israel 2 |
-| 7 |  | 1977 | Various Artists | Set: 6 Evolved |
-| 12 |  | 1977 | Various Artists | Machine Head |
+| 4 | ![Cover](https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg) | 1972 | Various Artists | Nuclear Visions Of Israel 2 |
+| 8 |  | 1977 | Various Artists | Set: 6 Evolved |
+| 13 |  | 1977 | Various Artists | Machine Head |
 | 23 | ![Cover](https://i.discogs.com/9YMSZPJanBRNsjtK2eaEdPnzyPcvfrI1gsOhGY7kx-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/NjMxLTE1MjMwNDQ0/NDgtMTI2Mi5qcGVn.jpeg) | 1977 | Various Artists | Zoo 3 |
 | 21 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1987 | Various Artists | Golden Vibes 2 |
 | 52 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1987 | Various Artists | Stereo Activity |
@@ -54,30 +54,29 @@ Last updated: <time datetime="2025-10-22T11:37:29.137Z">Wed Oct 22 2025 14:37:29
 | 94 |  | 1999-03-01 | Infected Mushroom | The Gathering |
 | 78 | ![Cover](https://i.discogs.com/pO5xd6UjvE60IL-iiQ6YvTlqGKftMa2dDbGnoSZGPcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgx/LTEyMDg3NzU1MzUu/anBlZw.jpeg) | 1999-03-08 | Astral Projection | Another World |
 | 83 | ![Cover](https://i.discogs.com/PveToU-7sKoKecp94FLyzFboGB9AqYcw1Px3jdwDxko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mzk2/LTAwMS5qcGc.jpeg) | 1999-06-01 | Juno Reactor | Pistolero |
-| 1 |  | 2000 | Aural Planet | Part: Second |
+| 2 |  | 2000 | Aural Planet | Part: Second |
 | 51 |  | 2000 | Hallucinogen | Asnesnothine |
 | 61 |  | 2000 | Juno Reactor | Nitrogen |
-| 6 | ![Cover](https://i.discogs.com/vRuI9ZdmYc4oeFv98Oe73gVkgqE22BAjHeMhVqskK80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTA2/LTEyMDMwNjc4OTAu/anBlZw.jpeg) | 2000-02 | Cosmosis | Intergalactic |
+| 7 | ![Cover](https://i.discogs.com/vRuI9ZdmYc4oeFv98Oe73gVkgqE22BAjHeMhVqskK80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTA2/LTEyMDMwNjc4OTAu/anBlZw.jpeg) | 2000-02 | Cosmosis | Intergalactic |
 | 54 |  | 2000-06-26 | Hallucinogen | Mi-loony-um! |
 | 18 |  | 2000-07 | Talamasca | Beyond the Mask |
 | 57 |  | 2000-10-04 | Juno Reactor | Shango |
 | 15 |  | 2000-10-23 | Man With No Name | Teleportation |
-| 13 | ![Cover](https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg) | 2001 | Various Artists | 13 |
 | 96 |  | 2001-01-01 | 1200 Micrograms | 1200 Micrograms |
 | 60 |  | 2001-09 | Chi-A.D. | Infinitism |
 | 25 |  | 2002-04 | Alien Project | Dance or Die |
 | 67 | ![Cover](https://i.discogs.com/7MzAxetWrCDTbA2I92170ylA0O_mec2of2PvzbyelOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODg1/LTEyMjYxNTU2NDEu/anBlZw.jpeg) | 2002-05 | GMS | No Rules |
-| 10 | ![Cover](https://i.discogs.com/-DDf-z5MPb4853hUD6PjTyMTT2-b7Mny--LoZ09fH68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDA3/LTE0MjUyMDE0MzQt/NzQ1Ny5qcGVn.jpeg) | 2002-10 | Astrix | Eye to Eye |
+| 11 | ![Cover](https://i.discogs.com/-DDf-z5MPb4853hUD6PjTyMTT2-b7Mny--LoZ09fH68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDA3/LTE0MjUyMDE0MzQt/NzQ1Ny5qcGVn.jpeg) | 2002-10 | Astrix | Eye to Eye |
 | 53 | ![Cover](https://i.discogs.com/f5sHtxQpAEWdS0vATkfVhtyFaE8qmjsFhl8RBorZKRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTY4/LTExMTM2OTcxNzYu/anBn.jpeg) | 2002-10-21 | Astral Projection | Amen |
 | 35 | ![Cover](https://i.discogs.com/p9JGU4Ct8YR5jz9_VYpDQ6VUyYxyzH7Gr9J8Tqaemqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzM3/NC0xNjc3OTk1NzMy/LTc5ODMuanBlZw.jpeg) | 2002-11-19 | Juno Reactor | Into Valhalla |
 | 65 |  | 2002-11-19 | Juno Reactor | Hotaka |
-| 9 | ![Cover](https://i.discogs.com/SNOHPRspbEM_4GCqYd8tchwugkIHW4EL2TRari8QYhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDY3/NS0xNDMwODg1MzA4/LTgwMDAuanBlZw.jpeg) | 2003 | Juno Reactor | Odyssey 1992-2002 |
+| 10 | ![Cover](https://i.discogs.com/SNOHPRspbEM_4GCqYd8tchwugkIHW4EL2TRari8QYhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDY3/NS0xNDMwODg1MzA4/LTgwMDAuanBlZw.jpeg) | 2003 | Juno Reactor | Odyssey 1992-2002 |
 | 85 |  | 2003-01-29 | Vibrasphere | Lime Structure |
 | 40 |  | 2003-03 | Ticon | Aero |
 | 79 | ![Cover](https://i.discogs.com/YsBJICARjFLu21pkjAzdUz5n6Ur496-BBc4gpMP1T-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYx/Ny0xMjA4NzU3ODU5/LmpwZWc.jpeg) | 2003-04-09 | Infected Mushroom | Converting Vegetarians |
 | 49 |  | 2003-06 | Cosma | Nonstop |
 | 93 |  | 2003-10-01 | 1200 Micrograms | Heroes Of The Imagination |
-| 5 | ![Cover](https://i.discogs.com/AwicdvPatrVLjtgtWObK_gdSaUuMv4-fRtAJtIOOyEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgw/OTMzLTE1MDk0ODg0/NTItNjc4MC5qcGVn.jpeg) | 2004 | Cosmosis | Mashed Mellow Grooves |
+| 6 | ![Cover](https://i.discogs.com/AwicdvPatrVLjtgtWObK_gdSaUuMv4-fRtAJtIOOyEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgw/OTMzLTE1MDk0ODg0/NTItNjc4MC5qcGVn.jpeg) | 2004 | Cosmosis | Mashed Mellow Grooves |
 | 45 |  | 2004-05-07 | Electric Universe | Cosmic Experience |
 | 58 |  | 2004-05-26 | Eskimo | Take a Look Out There |
 | 31 |  | 2004-08-01 | Astrix | Coolio |
@@ -101,17 +100,18 @@ Last updated: <time datetime="2025-10-22T11:37:29.137Z">Wed Oct 22 2025 14:37:29
 | 33 |  | 2009-11-02 | Shpongle | Ineffable Mysteries From Shpongleland |
 | 39 | ![Cover](https://i.discogs.com/qcOhu3Cp9hktShV4VEFdnyvyuNyzNXtti-8Tu6F296k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjcx/MzItMTM4NjA4OTY4/MC0xNTIwLmpwZWc.jpeg) | 2010-07-16 | HGich.T | Mein Hobby: Arschloch |
 | 55 |  | 2013-02-04 | Talamasca | Psychedelic Trance |
-| 4 |  | 2013-07-15 | Ovnimoon | Trancemutation of the Mind |
+| 5 |  | 2013-07-15 | Ovnimoon | Trancemutation of the Mind |
 | 92 | ![Cover](https://i.discogs.com/Lu1CR-lyl8ozHyrHwTk1LhhXruJzCG_6qxmEj8NH0Po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjA3/NjYtMTYyMTgwODAy/MS0zNzE1LmpwZWc.jpeg) | 2015 | Infected Mushroom | Converting Vegetarians CD 2 |
 | 84 | ![Cover](https://i.discogs.com/Lu1CR-lyl8ozHyrHwTk1LhhXruJzCG_6qxmEj8NH0Po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjA3/NjYtMTYyMTgwODAy/MS0zNzE1LmpwZWc.jpeg) | 2015-09-11 | Infected Mushroom | Converting Vegetarians II |
 | 24 | ![Cover](https://i.discogs.com/mvTUnbSR4NAFtpiGhtk_7C_MfBwGvRNkNtNmldF5Ba4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDQ5/NDgtMTQ1OTE1NTM2/MS03MjE5LmpwZWc.jpeg) | 2015-10 | Talamasca | The Time Machine |
+| 1 | ![Cover](https://i.discogs.com/UuHViTo6GU3hKCkum0uiCk2maDvs-1WqupoL2ZAOZw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDE0/NjQtMTQ4ODIxNjc0/NC04MTg5LmpwZWc.jpeg) | 2015-12-01 | Sumiruna | VLCHEMIC TRVNSMUTVTION |
 | 100 | ![Cover](https://i.discogs.com/vmVLnja5OI9xmp4kEvVBRw7IDTHjvI-9sb_eKMv064o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjc2/NzUtMTQ1NTY1MjI4/MS00MDY4LmpwZWc.jpeg) | 2016-02-01 | Hilight Tribe | Free Tibet (Vini Vici Remix) |
-| 2 | ![Cover](https://i.discogs.com/E4gw9YTYu1ug3b1FKj3y4cqOefV_n83ey5O8gpoRsHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjI1/MjI3LTE2MjcyNTU3/NjgtODM3OS5qcGVn.jpeg) | 2016-04-08 | Interactive Noise | The 1001 Nights |
+| 3 | ![Cover](https://i.discogs.com/E4gw9YTYu1ug3b1FKj3y4cqOefV_n83ey5O8gpoRsHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjI1/MjI3LTE2MjcyNTU3/NjgtODM3OS5qcGVn.jpeg) | 2016-04-08 | Interactive Noise | The 1001 Nights |
 | 44 | ![Cover](https://i.discogs.com/LuFhSYROK2ES7blIiIzh5ShVVOs_WXeehquDYeeL1cQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM1/MjgwLTE1ODk5MTAz/NjUtNTE4MC5qcGVn.jpeg) | 2016-06-20 | Infected Mushroom | Unreleased Tracks |
 | 73 | ![Cover](https://i.discogs.com/lPDgbXle5tvaZMtIAXXeg94Mj4yxo0fnkURfO7jBA14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjkw/NTcxLTE1NTkwOTUz/NTgtNzQ4Ni5qcGVn.jpeg) | 2017-05-19 | Neelix | 1000 Sterne |
-| 8 | ![Cover](https://i.discogs.com/FqXH0sO_DYiFCbW_VVW6ftkya9JM2QwYdmeSujqs7bA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE1/ODM0LTE0OTY5Nzcy/ODYtMTMyOS5qcGVn.jpeg) | 2017-06-05 | Talamasca | A Brief History Of Goa-Trance |
+| 9 | ![Cover](https://i.discogs.com/FqXH0sO_DYiFCbW_VVW6ftkya9JM2QwYdmeSujqs7bA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE1/ODM0LTE0OTY5Nzcy/ODYtMTMyOS5qcGVn.jpeg) | 2017-06-05 | Talamasca | A Brief History Of Goa-Trance |
 | 87 | ![Cover](https://i.discogs.com/hObQGGsCGwcy8xZANnuQM_gQfk__8GjzJ-pgBDi45l8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODg4/OTc1LTE2MzAxMDI1/ODEtNTQyNy5qcGVn.jpeg) | 2021-08-01 | Infected Mushroom | Converting Vegetarians - Other Side |
-| 11 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2023 | Various Artists | Yellow Compilation |
+| 12 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2023 | Various Artists | Yellow Compilation |
 | 37 |  | 2023 | Various Artists | Raja Ram&#39;s Stash Bag |
 
 ### Related genres
