@@ -1,19 +1,19 @@
 ---
 category: genre
-date: 2025-10-25T01:14:50.754Z
+date: 2025-10-28T02:10:19.101Z
 permalink: tags/mediterranean
 title: mediterranean
 ---
 
 ## mediterranean
 
-Last updated: <time datetime="2025-10-25T01:14:50.754Z">Sat Oct 25 2025 04:14:50 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T02:10:19.101Z">Tue Oct 28 2025 04:10:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | RedJapanese | RedJapanese|יפניאדום| يابانية أحمر|日本赤 |
+| 1 |  |  | Grup de Restauració Folklòrica de València i Fermín Pardo | Done&#39;m L&#39;Asguilando!: Cançons Populars del Nadal Valencià |
 | 6 |  |  | Charles Rocchi | Chansons Corses (Tango di Furiani) |
 | 7 |  |  | Jean Tavera | Chansons Corses (Terra Nostra) |
 | 10 |  |  | Rudo Cardi | Chansons Corses (Case Corse) |
@@ -41,6 +41,7 @@ Last updated: <time datetime="2025-10-25T01:14:50.754Z">Sat Oct 25 2025 04:14:50
 | 100 |  |  | Daboor | El Gad3ana |
 | 8 |  | 1957 | Jean Casi | Chansons Corses (Tous les corses du monde) |
 | 17 | ![Cover](https://i.discogs.com/3CEG3nmdyQ4VraCgIU7Ypa5zSsrKs61HqB3do9u3AM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY2/NjA0LTE1MTg2MjI2/MzktMTk4NS5qcGVn.jpeg) | 1964 | Régina &amp; Bruno | La voix du maquis |
+| 2 |  | 1976 | Maryse Nicolai | Chansons Corses (Toi, mon Île) |
 | 4 |  | 1976 | Maryse Nicolai | Chansons Corses (La complainte Corse) |
 | 9 | ![Cover](https://i.discogs.com/-2Qx7QrHWxrlW0tXKAj4zMgKzo9rxOb9CCFqH_Fep58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU1/ODU2LTE1NDEzNDUz/NjYtMjY5My5qcGVn.jpeg) | 1980 | Richard Girolami | Chansons Corses (Isula di Corsica) |
 | 44 | ![Cover](https://i.discogs.com/Lo85DtPQXplPcLl6Xms4blqazcdxNpLNHk_Q5w8nW8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTcx/ODY0LTE2NDUwNDcz/NDktODQwOS5qcGVn.jpeg) | 1980 | Guillem Joan | novembre 2007 |
@@ -108,7 +109,6 @@ Last updated: <time datetime="2025-10-25T01:14:50.754Z">Sat Oct 25 2025 04:14:50
 | 55 | ![Cover](https://i.discogs.com/zjoZQMwC7dpZ34X99m6B9npkES2rR04XJL4u6D8MJn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzE1/NTItMTM1NDI3NzI3/NC02MTIxLmpwZWc.jpeg) | 2017 | Zeit | Un Giorno in Una Piazza del Mediterraneo |
 | 30 | ![Cover](https://i.discogs.com/twQPppiL63yt0AEzCzoYToRnkYcuBpT-xrHMYPoToHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTE5/NjgzLTE1OTI5MDk3/NjAtNTUwOS5qcGVn.jpeg) | 2020 | Ρένα Μόρφη | Σάμπα Τσικίτα |
 | 45 | ![Cover](https://i.discogs.com/vhYO1FXvHEBCjEzTH0pPRMdDc_n7MR7TRYsUyTuHjzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjc4/NDQyLTE2NDU2NDUw/NTAtNTI3Ny5qcGVn.jpeg) | 2021-07-22 | UC | Folk Mediterrani |
-| 2 |  | 2023 | Various Artists | Folk Songs Of The Greek Islands Vol. 4 |
 | 36 | ![Cover](https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg) | 2023 | Various Artists | Music Of Spain |
 | 42 | ![Cover](https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg) | 2023 | Various Artists | Italian Folk Music, Vol.5: Naples and Campania |
 | 49 | ![Cover](https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg) | 2023 | Various Artists | The Greek Islands |

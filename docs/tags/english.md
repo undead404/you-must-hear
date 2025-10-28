@@ -1,20 +1,20 @@
 ---
 category: genre
-date: 2025-10-22T16:49:44.085Z
+date: 2025-10-28T04:04:11.342Z
 permalink: tags/english
 title: english
 ---
 
 ## english
 
-Last updated: <time datetime="2025-10-22T16:49:44.085Z">Wed Oct 22 2025 19:49:44 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T04:04:11.342Z">Tue Oct 28 2025 06:04:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
 | 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4d1436768812a16c6ea746fe9cc77203.png) | 1969 | The Kinks | Arthur Or The Decline And Fall Of The British Empire |
-| 11 | ![Cover](https://i.discogs.com/sqcDpohME6OvjEAkvx6EtQwkjUmF-C2CNi4wQ-xcp54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQ4/MDctMTMxNTMwMDI0/Ny5qcGVn.jpeg) | 1970 | Chelsea | Chelsea |
+| 10 | ![Cover](https://i.discogs.com/sqcDpohME6OvjEAkvx6EtQwkjUmF-C2CNi4wQ-xcp54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQ4/MDctMTMxNTMwMDI0/Ny5qcGVn.jpeg) | 1970 | Chelsea | Chelsea |
 | 57 |  | 1977 | Various Artists | DAEMON&#x2F;DOLL |
 | 66 | ![Cover](https://i.discogs.com/IF27rRjvTgEMoC5qFtd02wz0s5qZbgG8QONjUTxvwg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTQ3/NDItMTUzMTY4MDQw/NS0xNzg5LmpwZWc.jpeg) | 1979 | Talking Heads | Essential |
 | 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c9a9524b9a62a4472425476563500abd.png) | 1984 | Skrewdriver | Hail The New Dawn |
@@ -27,9 +27,8 @@ Last updated: <time datetime="2025-10-22T16:49:44.085Z">Wed Oct 22 2025 19:49:44
 | 17 | ![Cover](https://i.discogs.com/fU-RPH-eY-1LxOcXf2eFze2cP0fcePg8mgP0W5ERWFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTQw/Mi0xMzM2MzY4NjE5/LmpwZWc.jpeg) | 1996 | Modern English | Everything is Mad |
 | 60 | ![Cover](https://i.discogs.com/gxtEJIi0hZMrZz-sFaJsKOSECYG11tOKuI2ZTuRGCz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MDE3/LTE0NDUwMTA5MzEt/MTkxOS5qcGVn.jpeg) | 1997 | Faithless | Forever Faithless |
 | 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d1c23a1f2ffd4715b9e32547c9160d3a.png) | 1998-06-01 | Shed Seven | Let It Ride |
-| 1 | ![Cover](https://i.discogs.com/DHCxzgFtK6MwDEODdprdc_lf99xO2o74CAZZwUkNaRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjYz/NS0xMzc0MzIzOTEy/LTMyNjEuanBlZw.jpeg) | 1999-05-07 | Geri Halliwell | Look at Me |
 | 62 | ![Cover](https://i.discogs.com/HHC5tzi7clMIiVgE4kWUacOkFNLBSh5eRLp6qEMpMbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzM0/NS0xMzkyNTUzNDIz/LTM4NzQuanBlZw.jpeg) | 2001 | Manu Chao | Próxima Estación... Esperanza |
-| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e1484cbdafb649a5900bcdf5be4a89df.png) | 2001-05-30 | Pink Floyd | a saucerful of secrets (2011 remaster) |
+| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e1484cbdafb649a5900bcdf5be4a89df.png) | 2001-05-30 | Pink Floyd | a saucerful of secrets (2011 remaster) |
 | 68 | ![Cover](https://i.discogs.com/-eOuOB1UGKhpe3QPjnk7YeFXjd3UyuevW_jQrcFvelk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjY0/LTEyODU4MDc3MzIu/anBlZw.jpeg) | 2002-05 | Big Bang | For The World |
 | 70 |  | 2002-07-23 | Ivete Sangalo | Se Eu Não Te Amasse Tanto Assim |
 | 25 | ![Cover](https://i.discogs.com/A_dgZEzHjznw-kbdYqc8_EumHccZ_4yaFAA_qvNq9Jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk0/OTUtMTIzMzY5Nzgw/MS5qcGVn.jpeg) | 2003 | Cradle of Filth | The Very Best Of |
@@ -40,25 +39,26 @@ Last updated: <time datetime="2025-10-22T16:49:44.085Z">Wed Oct 22 2025 19:49:44
 | 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dfe91a99fd2f4051b6c3fc91af57c9fa.png) | 2004-11-04 | Avril Lavigne | Nobody&#39;s Home |
 | 14 |  | 2005 | Ivete Sangalo | Novo Millennium |
 | 61 | ![Cover](https://i.discogs.com/dXWwH0B9CDFK_-aCGTx0xQS3gvuqwaVBUI3ckjokTy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzEy/NDkyLTE2NTMyMDA5/ODItOTQwNC5qcGVn.jpeg) | 2005 | lollia | VOCALOVE 01 |
-| 7 | ![Cover](https://i.discogs.com/elx6D5iW2h7gNez-3sKSXx65ULORlR-6Mb5x0ueB2w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjEz/My0xMTMxODEyMTE0/LmpwZWc.jpeg) | 2005-03-21 | Cities of Foam | A Great Day For The Race |
+| 6 | ![Cover](https://i.discogs.com/elx6D5iW2h7gNez-3sKSXx65ULORlR-6Mb5x0ueB2w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjEz/My0xMTMxODEyMTE0/LmpwZWc.jpeg) | 2005-03-21 | Cities of Foam | A Great Day For The Race |
+| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cfa629a21f668d697e752797c4fe6c77.png) | 2005-08-05 | Ivete Sangalo | As Super Novas |
 | 35 | ![Cover](https://i.discogs.com/Lh-d_yjlyLt3NIwCoEQihJRaY6ppAEIpng9WRlt9WcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MzYz/OS0xNTgxMjQyMDg4/LTQxMTYuanBlZw.jpeg) | 2005-10-03 | Jo O&#39;Meara | Relentless |
 | 36 |  | 2006 | Great Lake Swimmers | Hands In Dirty Ground EP |
 | 67 | ![Cover](https://i.discogs.com/CJFWbcsRm3RJqgXlQZPUl6IOzWpxzhL3OEi4Q6vOsNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDIz/MzY2LTE3MjA4Mjgy/NzEtNjgyMS5qcGVn.jpeg) | 2006-02-11 | Colours Run | Doghouse Demo |
 | 41 |  | 2006-09-25 | Bellowhead | Burlesque |
 | 43 | ![Cover](https://i.discogs.com/_D2fs2Fy8c1FYX6vdFSDEEpezaVw3RN5iowp0hVgJvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTMw/MjktMTM4NDI3OTk0/NS05NjAxLmpwZWc.jpeg) | 2006-10-26 | Ivete Sangalo | Berimbau Metalizado |
 | 26 |  | 2006-11-16 | Crowded House | Farewell To The World |
-| 6 | ![Cover](https://i.discogs.com/9svmgh7D1dF2KTRz2JCZ3Mo_1r9bYYr7N12Puom3Tlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDAy/MzQ5LTE1OTA5NDU2/MTgtNzc5NS5qcGVn.jpeg) | 2007 | Kosheen | Damage (UK edition) |
+| 5 | ![Cover](https://i.discogs.com/9svmgh7D1dF2KTRz2JCZ3Mo_1r9bYYr7N12Puom3Tlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDAy/MzQ5LTE1OTA5NDU2/MTgtNzc5NS5qcGVn.jpeg) | 2007 | Kosheen | Damage (UK edition) |
 | 19 | ![Cover](https://i.discogs.com/CJFWbcsRm3RJqgXlQZPUl6IOzWpxzhL3OEi4Q6vOsNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDIz/MzY2LTE3MjA4Mjgy/NzEtNjgyMS5qcGVn.jpeg) | 2007 | Colours Run | The Sticks EP |
 | 20 | ![Cover](https://i.discogs.com/6XIe2yOeOw_xVcW7YJihN5Rpx27HMF9g0eh2XGdekVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ1/OTAtMTM0NzIyMjU4/Ny04OTQ2LmpwZWc.jpeg) | 2007 | Bolt Action Five | File Under WOLVES [ep] |
 | 33 | ![Cover](https://i.discogs.com/ADAbQu2e2j76h-kJ7_oVUD6FdOiuX2tLU1Q5npwveLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE2/NTgtMTE5NTQxODMw/My5qcGVn.jpeg) | 2007 | Nick Drake | Way To Blue |
 | 37 | ![Cover](https://i.discogs.com/St6nW2ls3Mntby7chf2O1hH-2sP8ALKldDfDXFOvMyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjMx/NTQtMTI0ODYwMTAw/OC5qcGVn.jpeg) | 2007 | Sonanaut | Sinking Upwards |
-| 2 | ![Cover](https://i.discogs.com/KRThvhBu2GWoCfpeaHgzoIr47uQY1uD-1HxfQtm3eQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTcy/NTAtMTIzODg4MjMx/OS5qcGVn.jpeg) | 2007-01-01 | Leeni | 8 Bit Heart |
 | 31 |  | 2007-01-08 | Jarvis Cocker | Don&#39;t Let Him Waste Your Time |
 | 13 | ![Cover](https://i.discogs.com/XvtTljUXTHbyWUPCR0Tiq7G7ANfLtYqs9pKdj52G8HA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk1/Mzg0LTE1MDYyNjM2/NzQtNTg3Mi5qcGVn.jpeg) | 2007-02-15 | Genki Rockets | Genki Rockets I |
 | 53 |  | 2007-03-09 | Heideroosjes | Chapter Eight, the Golden State |
-| 4 | ![Cover](https://i.discogs.com/mFtz6EWrv1Z-cw8dJu9pVDz1hamR8mbQGKpExo__wQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NTctMTE4NTc1NTUw/Ny5qcGVn.jpeg) | 2007-03-13 | Keston and Westdal | Truth is Stranger |
-| 8 |  | 2007-10-01 | Shine | the common station |
-| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/635d986ac8434c318d076f91f446d409.png) | 2008-04-23 | Lycaon | Question |
+| 2 | ![Cover](https://i.discogs.com/mFtz6EWrv1Z-cw8dJu9pVDz1hamR8mbQGKpExo__wQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NTctMTE4NTc1NTUw/Ny5qcGVn.jpeg) | 2007-03-13 | Keston and Westdal | Truth is Stranger |
+| 7 |  | 2007-10-01 | Shine | the common station |
+| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/635d986ac8434c318d076f91f446d409.png) | 2008-04-23 | Lycaon | Question |
+| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/30148134a2d6a1d06f8e3a5ef5d39874.png) | 2009 | Ivete Sangalo | Multishow Registro Ivete - Pode Entrar |
 | 42 | ![Cover](https://i.discogs.com/oL2gWK7uweLRXgMzngvu83MNI_atdIPFzSkdo02oCmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTgx/MjctMTMzMzE4Njg5/Mi5qcGVn.jpeg) | 2009-01-11 | Aydio | Deltitnu EP |
 | 51 |  | 2009-04-21 | 8 Bit Weapon | Electric High EP |
 | 28 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c61fc0469ed74b6aa51c797f6213ec2f.png) | 2010-05-11 | Fiction Plane | Sparks |
@@ -67,10 +67,10 @@ Last updated: <time datetime="2025-10-22T16:49:44.085Z">Wed Oct 22 2025 19:49:44
 | 82 | ![Cover](https://i.discogs.com/xVDJ93G_XOeJwYrk6oGPrkF2xx97EHYwTs-XJZFTHBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njgw/MjItMTMwOTYyMDEw/Ni5qcGVn.jpeg) | 2009-05-12 | Carina Round | Things You Should Know |
 | 86 |  | 2009-11-13 | Justin Bieber | My World |
 | 87 |  |  | Yuqi | YUQ1 |
-| 3 | ![Cover](https://i.discogs.com/BAH2djGANFLNIRbzcx3hYfMJQoeWgsjX0yvSpu_mld4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzAw/NzItMTQyMTM0MzMz/OC0yMjk4LmpwZWc.jpeg) | 2011 | Tom Vek | Someone Loves You |
+| 1 | ![Cover](https://i.discogs.com/BAH2djGANFLNIRbzcx3hYfMJQoeWgsjX0yvSpu_mld4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzAw/NzItMTQyMTM0MzMz/OC0yMjk4LmpwZWc.jpeg) | 2011 | Tom Vek | Someone Loves You |
 | 74 | ![Cover](https://i.discogs.com/1YviYpGQTS26RMAj-Qw4RZTTNWDST4y-Ds2qSUNL9Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njk1/OTU2LTE2NDUzNDQ1/MDYtOTk5Mi5qcGVn.jpeg) | 2011 | Teho Teardo | Still Smiling |
 | 40 | ![Cover](https://i.discogs.com/hapWaUouFk9tq1zQ5wleXxIIcopkzqcyBvkmpzVIxGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDQ1/NTktMTMwMTgwMjkx/OS5qcGVn.jpeg) | 2011-03-29 | Imogen Heap | Lifeline |
-| 10 | ![Cover](https://i.discogs.com/mAzBygXbFks06S31TiyARbAho5eVtKh7ycQCuS9K-Ic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzUz/NDUtMTMxNDU0NDA4/NC5qcGVn.jpeg) | 2011-05-21 | Phantasmagoria | Amalgamation |
+| 9 | ![Cover](https://i.discogs.com/mAzBygXbFks06S31TiyARbAho5eVtKh7ycQCuS9K-Ic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzUz/NDUtMTMxNDU0NDA4/NC5qcGVn.jpeg) | 2011-05-21 | Phantasmagoria | Amalgamation |
 | 24 |  | 2011-10-11 | William Shatner | Seeking Major Tom |
 | 63 |  | 2012-04-16 | Adam Lambert | Never Close Our Eyes |
 | 32 |  | 2012-08-31 | Tanita Tikaram | Can&#39;t Go Back |

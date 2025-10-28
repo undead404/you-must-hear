@@ -1,84 +1,86 @@
 ---
 category: genre
-date: 2025-10-25T02:33:17.501Z
+date: 2025-10-28T04:04:03.497Z
 permalink: tags/sweden
 title: sweden
 ---
 
 ## sweden
 
-Last updated: <time datetime="2025-10-25T02:33:17.501Z">Sat Oct 25 2025 05:33:17 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T04:04:03.497Z">Tue Oct 28 2025 06:04:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 10 |  | 1976-10-11 | ABBA | Arrival |
-| 24 |  | 1989 | Shotgun Messiah | Shotgun Messiah |
-| 12 |  | 1990 | The Creeps | Blue tomato |
-| 20 | ![Cover](https://i.discogs.com/3qBIKJ4esPXLoEqKd0EGEhRRD7ZVvNczmnx6AItzvM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQx/ODI3LTE1NDEwOTAy/NTMtMjAzNS5qcGVn.jpeg) | 1990-01-01 | Backyard Babies | Live live in Paris |
+| 1 | ![Cover](https://i.discogs.com/Y4udu_vJejtT0ehmulfQcOHl9Z7G4qxj4eg0H-inbks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzYz/NDAtMTMzNTkxNDg2/MC5qcGVn.jpeg) | 2008-04-15 | The Morning Paper | It&#39;s Getting Clearer |
+| 2 |  |  | Fort Fairfield | Prenzlauer Berg |
+| 9 |  | 1976-10-11 | ABBA | Arrival |
+| 23 |  | 1989 | Shotgun Messiah | Shotgun Messiah |
+| 11 |  | 1990 | The Creeps | Blue tomato |
+| 19 | ![Cover](https://i.discogs.com/3qBIKJ4esPXLoEqKd0EGEhRRD7ZVvNczmnx6AItzvM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQx/ODI3LTE1NDEwOTAy/NTMtMjAzNS5qcGVn.jpeg) | 1990-01-01 | Backyard Babies | Live live in Paris |
 | 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5fdc228b5a4290e4ea6b6d0c66d30b3e.png) | 1992-09-21 | ABBA | Waterloo (Deluxe Edition) |
 | 38 | ![Cover](https://i.discogs.com/UJMI5CEjC6gp-LNnqM5hpCgmLubyWlJETTAM2nmE5co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDM1/MzAtMTQ3MDQyNTAw/OC0xOTAzLmpwZWc.jpeg) | 1993 | ABBA | More Gold |
 | 33 | ![Cover](https://i.discogs.com/NG2tPsNPaIX2cFvLYbdWZtQMitAz_-m-DCv1gqHbabY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTAz/NC0xMTcwMzY5ODQz/LmpwZWc.jpeg) | 1995 | Millencolin | Live at Hultsfred 2000 |
 | 42 | ![Cover](https://i.discogs.com/K11wrb_ahAnRk6VL-9BEsElAOAHSBRIGrTlfzTY81tE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTEw/NjMtMTMzNjg2NDc5/NC05OTc4LmpwZWc.jpeg) | 1995 | Charta 77 | Tecken i tiden |
-| 15 | ![Cover](https://i.discogs.com/5E0U2G7lZzgUzY8Nsfj4mOdaLcIjJjzd-x9yo--0VCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzk0/MTEtMTI3NDA4OTMz/MS5qcGVn.jpeg) | 1996-09-30 | Jan Johansen | Johansen |
-| 27 |  | 1996-12 | Covenant | Stalker |
+| 14 | ![Cover](https://i.discogs.com/5E0U2G7lZzgUzY8Nsfj4mOdaLcIjJjzd-x9yo--0VCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzk0/MTEtMTI3NDA4OTMz/MS5qcGVn.jpeg) | 1996-09-30 | Jan Johansen | Johansen |
 | 34 | ![Cover](https://i.discogs.com/jV6WTdvV7a4ZYyu4kc6E8dcKLknEVIis1pNWjYadP6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzE3/MS0xMTc4MzQ1NjM1/LmpwZWc.jpeg) | 1997 | Shitlickers | The Shitlickers |
-| 50 | ![Cover](https://i.discogs.com/dZd3Wd5P9fjHit0C5ZO2za99-G13K7DQNhRzoq6N9Ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTQ5/NC0xNDEyNDMzNTY0/LTkxNTQuanBlZw.jpeg) | 1999 | The Wannadies | Yeah |
-| 21 | ![Cover](https://i.discogs.com/d9ZE9tO-w4flhVrJlxNZVqr2-pP4EVF7zftnkw3PX2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDA3/MC0xNDc2Njk0MTcx/LTM4OTAuanBlZw.jpeg) | 1999-05-11 | Danger | Keep Out |
-| 23 |  | 2000-07-26 | SMiLE.dk | Future Girls |
-| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9f706f3a4d0e2902652ec14fc15e1880.png) | 2000-10-18 | Alcazar | Casino |
+| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9f706f3a4d0e2902652ec14fc15e1880.png) | 2000-10-18 | Alcazar | Casino |
+| 4 |  | 2001-02-01 | Army of Lovers | Let The Sunshine In |
+| 8 | ![Cover](https://i.discogs.com/mf3qlmFaB9wGsL45VF19n8cSDP82H-1kem1a7_VwMtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTc3/Ni0xMTI2NDI4Nzc4/LmpwZWc.jpeg) | 2004-05-11 | Sahara Hotnights | Kiss and Tell |
+| 18 |  |  | Korantemaa | By the time you’ve finished your coffee |
+| 27 |  | 1996-12 | Covenant | Stalker |
+| 20 | ![Cover](https://i.discogs.com/d9ZE9tO-w4flhVrJlxNZVqr2-pP4EVF7zftnkw3PX2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDA3/MC0xNDc2Njk0MTcx/LTM4OTAuanBlZw.jpeg) | 1999-05-11 | Danger | Keep Out |
+| 22 |  | 2000-07-26 | SMiLE.dk | Future Girls |
 | 47 | ![Cover](https://i.discogs.com/f4ke33umBt_hPU-TC63r7gj6nOzrvRGu6urA2V7YlTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzg1/NzItMTQyMDEyOTcy/Ni00NDgyLmpwZWc.jpeg) | 2001 | Revl9n | Revl9n |
-| 5 |  | 2001-02-01 | Army of Lovers | Let The Sunshine In |
-| 9 | ![Cover](https://i.discogs.com/mf3qlmFaB9wGsL45VF19n8cSDP82H-1kem1a7_VwMtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTc3/Ni0xMTI2NDI4Nzc4/LmpwZWc.jpeg) | 2004-05-11 | Sahara Hotnights | Kiss and Tell |
-| 16 |  |  | Korantemaa | Photosynthesis |
 | 35 |  | 2001-12-03 | Puss | We Are Puss |
 | 31 | ![Cover](https://i.discogs.com/6AoeWZB2A9-uXdo-jiIBBV4sGQVEIcinTDMhr2TYFyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODY0/OC0xMjA0NjA0Mzg4/LmpwZWc.jpeg) | 2002-04-23 | bob hund | 10 år Bakåt &amp; 100 år Framåt |
 | 41 | ![Cover](https://i.discogs.com/hgTfDUEtuqeyo1knqG07Vxumwf8asAPUk9RJzMFYvbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjE4/MTYtMTQzMTg3MDA3/Ni01ODMxLmpwZWc.jpeg) | 2004 | Lars Winnerbäck | Live - För dig |
-| 22 | ![Cover](https://i.discogs.com/ozgGeqrlTJYsCMFF2TlC9Xjt_ZNuX2-GBn4KknlzHVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc2/MDE4LTE1MTEyNjc4/MzgtODM0NC5qcGVn.jpeg) | 2004-04-07 | Jill Johnson | Livemusiken från Jills Veranda Nashville |
+| 21 | ![Cover](https://i.discogs.com/ozgGeqrlTJYsCMFF2TlC9Xjt_ZNuX2-GBn4KknlzHVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc2/MDE4LTE1MTEyNjc4/MzgtODM0NC5qcGVn.jpeg) | 2004-04-07 | Jill Johnson | Livemusiken från Jills Veranda Nashville |
 | 49 |  |  | Korantemaa | Fruit |
-| 11 | ![Cover](https://i.discogs.com/BNkmnJWuKiEQMCEoh5ER2nUnjsJkmL9PqKqvaMz1N0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDQ0/MzAtMTQwNjk5NjU1/Ni01ODA3LmpwZWc.jpeg) | 2005 | Kungers | Kongressen |
-| 4 | ![Cover](https://i.discogs.com/HloHMKscbmaMmKVuBvd6vwMl_0d4XU0I2qPlU7a0uFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzU0/MTQtMTMxMjM4Mzk4/OS5qcGVn.jpeg) | 2006 | Tar...Feathers | Make way for the ocean floor to fall to the surface |
+| 50 | ![Cover](https://i.discogs.com/dZd3Wd5P9fjHit0C5ZO2za99-G13K7DQNhRzoq6N9Ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTQ5/NC0xNDEyNDMzNTY0/LTkxNTQuanBlZw.jpeg) | 1999 | The Wannadies | Yeah |
+| 10 | ![Cover](https://i.discogs.com/BNkmnJWuKiEQMCEoh5ER2nUnjsJkmL9PqKqvaMz1N0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDQ0/MzAtMTQwNjk5NjU1/Ni01ODA3LmpwZWc.jpeg) | 2005 | Kungers | Kongressen |
+| 3 | ![Cover](https://i.discogs.com/HloHMKscbmaMmKVuBvd6vwMl_0d4XU0I2qPlU7a0uFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzU0/MTQtMTMxMjM4Mzk4/OS5qcGVn.jpeg) | 2006 | Tar...Feathers | Make way for the ocean floor to fall to the surface |
 | 36 | ![Cover](https://i.discogs.com/SaA7fpJR1CzpuG3utsXQM780DX-srViScrwnDyTj1Po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjU0/NTQtMTIxMzIwOTYx/MC5qcGVn.jpeg) | 2006 | The Tiny | Starring; Someone Like You |
 | 26 | ![Cover](https://i.discogs.com/HjzIduMyuPN5LcQ5nZtX6y3L877d_kfwlAgdRN1rhTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTkw/MjQtMTM1ODYzODUw/NC0zNzA5LmpwZWc.jpeg) | 2007 | Hardcore Superstar | Thank You (For Letting Us Be Ourselves) |
 | 43 | ![Cover](https://i.discogs.com/HxUuoSZgtlIl_n-rFa_FnXpRzCiVzhmRjzFV76JIEmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzAy/NTMtMTQzMDY5ODkz/NS01NjgyLmpwZWc.jpeg) | 2007-10-10 | Jonna Lee | 10 Pieces, 10 Bruises |
 | 44 | ![Cover](https://i.discogs.com/KO9VR1GUa5J4HbMYSmeD79v6pfgvGCm_ZVSTIAnoHSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjUy/MjgtMTQ1OTYzNDQ0/Ni02NDcwLmpwZWc.jpeg) | 2007-10-22 | Mando Diao | Never Seen The Light Of Day |
-| 2 | ![Cover](https://i.discogs.com/Y4udu_vJejtT0ehmulfQcOHl9Z7G4qxj4eg0H-inbks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzYz/NDAtMTMzNTkxNDg2/MC5qcGVn.jpeg) | 2008-04-15 | The Morning Paper | It&#39;s Getting Clearer |
-| 25 | ![Cover](https://i.discogs.com/8-_SbQVVIhhifR5Lr1TI7TdGsKBGdjHtICB2LH7Om0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDIw/NjYtMTI5ODk4MDU0/My5qcGVn.jpeg) | 2009 | The Tiny | Gravity &amp; Grace |
-| 1 | ![Cover](https://i.discogs.com/kv0vvthkNQPgKoG1-aYBxASskc3S-_rqIv7RX90lLEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQ1/NjQzLTE2MTEzMjA0/NDMtOTE4NS5qcGVn.jpeg) | 2021-01-22 | Creye | II |
-| 3 |  |  | Fort Fairfield | Prenzlauer Berg |
-| 13 | ![Cover](https://i.discogs.com/3tO9Uzk8svahJzELwP_gI6U8MzehrFsg1l7ylOJ2EC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTcw/Ni0xMjUwODc2NzYx/LmpwZWc.jpeg) | 2007-12-10 | Eclipse | Bleed and Scream |
+| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c2af125f6c4a410cc172ff23879f005a.png) | 2007-12-10 | Eclipse | Bleed and Scream |
+| 24 | ![Cover](https://i.discogs.com/8-_SbQVVIhhifR5Lr1TI7TdGsKBGdjHtICB2LH7Om0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDIw/NjYtMTI5ODk4MDU0/My5qcGVn.jpeg) | 2009 | The Tiny | Gravity &amp; Grace |
 | 46 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6a64c50cd61f6e2b9992ad6fd6fedbf5.png) | 2009-08-17 | Vains of Jenna | The Art of Telling Lies |
-| 18 |  | 2011 | Jill Johnson | Välkommen Jul |
-| 17 | ![Cover](https://i.discogs.com/_15XXV4GosZnLmMmYdq4BP5jT6oRUnvxa0n9DnDx86U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDA0/NjQtMTMwMzQ1NTIz/NS5qcGVn.jpeg) | 2011-04-11 | Terra Tenebrosa | Tunnels |
+| 17 |  | 2011 | Jill Johnson | Välkommen Jul |
+| 16 | ![Cover](https://i.discogs.com/_15XXV4GosZnLmMmYdq4BP5jT6oRUnvxa0n9DnDx86U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDA0/NjQtMTMwMzQ1NTIz/NS5qcGVn.jpeg) | 2011-04-11 | Terra Tenebrosa | Tunnels |
 | 37 |  | 2012-03-21 | SOLITUDE | Tied To The Anchor |
 | 30 | ![Cover](https://i.discogs.com/raI9VeTRcqu90NYkPtajAceWfS0c6HyQlfkNDkeIrkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzE0/NTktMTUxODczNzEw/OS01NDE0LmpwZWc.jpeg) | 2012-09-22 | Imber | The Breaking Point |
 | 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5b0f5bac374733d809764eb9ec47d3d7.png) | 2012-10-23 | Sister Sin | Now and Forever |
 | 28 |  | 2013-02-24 | Ulrik Munther | Tell the World I&#39;m Here |
 | 40 | ![Cover](https://i.discogs.com/J4XoyR2fKTZoVFhW6RmpUrzyfhw_dQ3asDJp3ySwwJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjYw/OTktMTQ4MzgzMzI0/MS0zNzg5LmpwZWc.jpeg) | 2014 | Jon Henrik Fjällgren | Goeksegh |
-| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4ad4943fa46e4530c5e4a2b563aae7f6.png) | 2014-05-12 | Les Big Byrd | They Worshipped Cats |
-| 14 | ![Cover](https://i.discogs.com/5JcBwk55EjZdRI7CB0kO-8d9noLb8N5kZWAnV-Jb1H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzQ5/OTMtMTUxMDQzNzk0/OS00NjMzLmpwZWc.jpeg) | 2014-06-09 | Anton Ewald | On My Way |
-| 7 | ![Cover](https://i.discogs.com/3osBL5Rr6jhgdYx2MlWp3sWYW9AWOfTN7bqV6rZ_aVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODAz/MDU1LTE3MTczMTQz/NDgtODQwNS5qcGVn.jpeg) | 2024-05-31 | HellButcher | HELLBUTCHER |
-| 19 |  |  | Korantemaa | By the time you’ve finished your coffee |
-| 99 | ![Cover](https://i.discogs.com/0zjPtkFJde10gQ4WAU5FJo0Mae7dmgnSjk7073tm7bM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTUy/NzctMTQwNzMwMTcx/MC00MzQ2LmpwZWc.jpeg) | 1976 | ABBA | Gold |
+| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4ad4943fa46e4530c5e4a2b563aae7f6.png) | 2014-05-12 | Les Big Byrd | They Worshipped Cats |
+| 13 | ![Cover](https://i.discogs.com/5JcBwk55EjZdRI7CB0kO-8d9noLb8N5kZWAnV-Jb1H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzQ5/OTMtMTUxMDQzNzk0/OS00NjMzLmpwZWc.jpeg) | 2014-06-09 | Anton Ewald | On My Way |
+| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4e5d5d284b0868177a29dd381d7b1ddb.png) | 2016-03-04 | Sabaton | Defence of Moscow |
+| 6 | ![Cover](https://i.discogs.com/3osBL5Rr6jhgdYx2MlWp3sWYW9AWOfTN7bqV6rZ_aVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODAz/MDU1LTE3MTczMTQz/NDgtODQwNS5qcGVn.jpeg) | 2024-05-31 | HellButcher | HELLBUTCHER |
+| 15 |  |  | Korantemaa | Photosynthesis |
 | 58 |  | 1979-04-23 | ABBA | Voulez-Vous |
+| 64 |  |  | Varg²™ | Crush |
+| 99 | ![Cover](https://i.discogs.com/0zjPtkFJde10gQ4WAU5FJo0Mae7dmgnSjk7073tm7bM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NTUy/NzctMTQwNzMwMTcx/MC00MzQ2LmpwZWc.jpeg) | 1976 | ABBA | Gold |
 | 59 | ![Cover](https://i.discogs.com/L5khhGZr-Q1DwWY7KAdHlpQnpCWWMsBowf2LjiN6tsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDcw/LTEyMDU1MjIwMzAu/anBlZw.jpeg) | 1988 | Neneh Cherry | Buffalo Stance |
-| 57 |  | 1994 | Yaki-Da | Pride |
+| 56 |  | 1994 | Yaki-Da | Pride |
+| 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4897cbc68932028e36062cdcced46bd0.png) | 1995 | Army of Lovers | Les Greatest Hits |
 | 67 |  | 1995-05-29 | Kent | Frank |
 | 51 | ![Cover](https://i.discogs.com/a1oXbrfTTHaf79ab-Dflc9sFPrlysB6GppIHbvHCfFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI3/NTgtMTI4OTE1MjA1/Ni5qcGVn.jpeg) | 2000 | Roger Pontare | When Spirits Are Calling My Name |
-| 54 |  | 2000-05-08 | Jay-Jay Johanson | Poison |
+| 53 |  | 2000-05-08 | Jay-Jay Johanson | Poison |
 | 69 | ![Cover](https://i.discogs.com/3MoHiTCsB-Li0cQAL-qpE9JkrQ_7c7SqvTE237O4ciY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTgw/OC0xNDY2ODQyODU5/LTc2NjguanBlZw.jpeg) | 2000-09-21 | Da Buzz | Da Sound |
 | 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cf02a871098c0b3c7322769a97b67b8d.png) | 2000-09-25 | The Ark | We Are The Ark |
 | 88 | ![Cover](https://i.discogs.com/m6yMF34s35uIrLLhY9meovefAoBKh5mWSGHkRj3Nwg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzg1/OTItMTI3ODUwMzc1/Ni5qcGVn.jpeg) | 2001-07-02 | bob hund | Jag rear ut min själ |
 | 89 | ![Cover](https://i.discogs.com/hWVBCDeRdmkXVceFf6zl7U-Ga_uvuNSPqaupQbhdkVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjQ2/Ni0xMTExODQ4NzU2/LmpwZw.jpeg) | 2002-12-27 | The Knife | Heartbeats |
 | 95 | ![Cover](https://i.discogs.com/-_AS62W1jZ9IDpSCs3MRhvNfzcwPy_KG78aqFfsA4ZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTgz/NS0xMTE4NTQzNTAz/LmpwZw.jpeg) | 2003-04-16 | The Radio Dept. | Where Damage Isn&#39;t Already Done |
-| 56 | ![Cover](https://i.discogs.com/329p3fkwiUiU7fr5908KX7v8eJNoWCKxBmz4YwN8cBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODQ3/OS0xMTA5NDQwNjA5/LmpwZw.jpeg) | 2004 | Mando Diao | Paralyzed EP |
+| 55 | ![Cover](https://i.discogs.com/329p3fkwiUiU7fr5908KX7v8eJNoWCKxBmz4YwN8cBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODQ3/OS0xMTA5NDQwNjA5/LmpwZw.jpeg) | 2004 | Mando Diao | Paralyzed EP |
 | 77 | ![Cover](https://i.discogs.com/44GpL6ICH1PwXLumt9_CV7E7Gjr9Y_j6SOozJO1SXsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTYy/MC0xMTQxMzI0MjY5/LmpwZWc.jpeg) | 2004 | Meshuggah | Chaosphere (Reloaded) |
 | 93 |  | 2004-10-15 | Slagsmålsklubben | Sagan om konungens årsinkomst |
 | 92 | ![Cover](https://i.discogs.com/d_5a4cNnbUTuQEvSw8sjLiiGYciPIa0vI3y_Yur00SY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTM2/OC0xMTgzNzI5MTQ4/LmpwZWc.jpeg) | 2004-10-27 | Slagsmålsklubben | Sagan Om Konungens Arsinkomst |
 | 82 | ![Cover](https://i.discogs.com/yxj4m5N14ij0qlMn-TyCxPj9WgELw3YENEvMDiphz2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTk3/Ni0xNDYxNTI5Nzk0/LTc0MzQuanBlZw.jpeg) | 2005-05 | The Knife | Pass This On |
 | 97 |  | 2005-11-11 | Billie the Vision &amp; the Dancers | The World According To Pablo |
-| 55 | ![Cover](https://i.discogs.com/JWpH3DuXWDsxFdNk-h_RKU2WC9nGMQeTXDgKnqRLPas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI3/OTczLTE0OTM3NDMx/MjUtMzI4MS5qcGVn.jpeg) | 2006-02-03 | The Milestone Corporation | Big Night Out |
+| 54 | ![Cover](https://i.discogs.com/JWpH3DuXWDsxFdNk-h_RKU2WC9nGMQeTXDgKnqRLPas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI3/OTczLTE0OTM3NDMx/MjUtMzI4MS5qcGVn.jpeg) | 2006-02-03 | The Milestone Corporation | Big Night Out |
 | 73 | ![Cover](https://i.discogs.com/ZEHrqe9HSZiIFRl5sXwZzjN1gXSiowvpUDVw71Ny28k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODYy/Ny0xNTc4NDEyMzYx/LTI5MjQuanBlZw.jpeg) | 2006-07-24 | The Knife | We Share Our Mother&#39;s Health |
 | 84 | ![Cover](https://i.discogs.com/V_OzTJ1qo85yMVX2Uhysxloc3yhzHCkbLCbFSSL3rEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTYy/NS0xNTgwMDM4MzUx/LTEyNDcuanBlZw.jpeg) | 2006-09-20 | Bo Kaspers Orkester | Hund |
 | 74 | ![Cover](https://i.discogs.com/-mPkmLqXyzwPKjZSkzTUZRzQVQvWdHshi8hJUmiUA_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzUy/NS0xMzAzMTEzNDgz/LmpwZWc.jpeg) | 2006-09-26 | The Knife | Like A Pen |
@@ -100,10 +102,8 @@ Last updated: <time datetime="2025-10-25T02:33:17.501Z">Sat Oct 25 2025 05:33:17
 | 94 |  | 2013-09-01 | EF | Ceremonies |
 | 61 |  | 2014-04-29 | Rebecca &amp; Fiona | Beauty Is Pain |
 | 62 | ![Cover](https://i.discogs.com/_eHFXhrtFKRmGz6x39FDwo8nWiwTqooeZZAJLoRUhWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTA0/NzQtMTQyNTg0ODU2/OC00MTMwLmpwZWc.jpeg) | 2015-02-28 | Hasse Andersson | Guld och gröna skogar |
-| 53 | ![Cover](https://i.discogs.com/3tO9Uzk8svahJzELwP_gI6U8MzehrFsg1l7ylOJ2EC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTcw/Ni0xMjUwODc2NzYx/LmpwZWc.jpeg) | 2017-08-04 | Eclipse | Monumentum |
-| 64 |  |  | Varg²™ | Crush |
 | 72 | ![Cover](https://i.discogs.com/oBHZETGXnTG8rPp7bpBxi87v9coaIPOz8J8-LqBmua0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjYz/MjgtMTUxNDg0MTg2/OC0zNTYzLmpwZWc.jpeg) | 2015-06-12 | Pale Honey | Pale Honey |
-| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4e5d5d284b0868177a29dd381d7b1ddb.png) | 2016-03-04 | Sabaton | Defence of Moscow |
+| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3c57e37a3a3cd1d171c0a2a3d0451484.png) | 2017-08-04 | Eclipse | Monumentum |
 | 98 | ![Cover](https://i.discogs.com/EoCNTA_I6fATp12NBEwvrGCZdqtN6grv5y6o5tVA8x4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDk3/NzA1LTE1NTM0ODk1/ODgtMTY1NC5qcGVn.jpeg) | 2018-06-08 | Lykke Li | So sad so sexy |
 | 78 | ![Cover](https://i.discogs.com/Hba1kF3sG8g1I7xBp7tLYU3u0Hz-DewQfNzfFpkBodE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkw/NDAxLTE1NjY3ODA4/NTktNDE0NS5qcGVn.jpeg) | 2018-09-11 | Atrium Carceri | Black Corner Den |
 | 91 | ![Cover](https://i.discogs.com/VXyTWvQV9Vad78G9mylIXSsaZbtAEZxoxNqxxg_nQ0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDIy/MzE0LTE1NTM4OTcx/MzAtNDM3NS5qcGVn.jpeg) | 2018-09-21 | Norlie &amp; KKV | Ingen annan rör mig som du |
