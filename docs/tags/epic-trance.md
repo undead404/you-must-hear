@@ -1,13 +1,17 @@
 ---
 category: genre
-date: 2025-10-27T20:46:50.745Z
+date: 2025-10-28T16:07:23.274Z
 permalink: tags/epic-trance
 title: epic trance
 ---
 
 ## epic trance
 
-Last updated: <time datetime="2025-10-27T20:46:50.745Z">Mon Oct 27 2025 22:46:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T16:07:23.274Z">Tue Oct 28 2025 18:07:23 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance music that emerged in the wake of progressive trance in 1996. It is characterized by its cinematic feel, expansive atmosphere, emotional and dreamy melodies, and the use of orchestral instruments. The genre typically features a tempo of around 135-150 BPM, with repeating melodies and a musical form that builds tension through ‘peaks’ and ‘drops’ elements.
 
 ### 100 chronological releases
 
@@ -20,6 +24,7 @@ Last updated: <time datetime="2025-10-27T20:46:50.745Z">Mon Oct 27 2025 22:46:50
 | 37 | ![Cover](https://i.discogs.com/yGH5RNPaLQtoc7dyv0E2_LuIWn1plDxzxOkouQYDokc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk4/NjAtMTI4MTIyMTg0/OC5qcGVn.jpeg) | 2010-05-17 | harryson | Stay Awake |
 | 39 | ![Cover](https://i.discogs.com/iiH82RxD_wd_SIRrg3Bm_xZO0FbDdGzR67ury63zQFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ0/NzQtMTI3NDM5MDgw/NC5qcGVn.jpeg) | 2010-05-17 | Electrobios, The Flyers &amp; Mike Sonar | Deep In The Heart |
 | 33 | ![Cover](https://i.discogs.com/AHME1r683HNq3C3Dx2YdE5tJsEDcKx0ymbjRVKCFNns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjQ0/MzItMTMwMjY5OTYz/OC5qcGVn.jpeg) | 2011-04-12 | Kostya Veter | Loneliness (Incl Aaron Static Remix) |
+| 2 | ![Cover](https://i.discogs.com/vM7S_Ei6SRCOHmLYQrgkWZ2F335FVSgbxHdo8yDNKm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/MzUtMTMzNjgxODUz/MC05Njk0LmpwZWc.jpeg) | 2011-08-26 | Fanatic Emotions | Together (Single-Track) |
 | 26 | ![Cover](https://i.discogs.com/vM7S_Ei6SRCOHmLYQrgkWZ2F335FVSgbxHdo8yDNKm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/MzUtMTMzNjgxODUz/MC05Njk0LmpwZWc.jpeg) | 2011-08-26 | Fanatic Emotions | Together |
 | 21 | ![Cover](https://i.discogs.com/jG4assv55H2YgJ6W78jwtUkW_1vnjwJCK-0KDQVCoL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/NDEtMTYwNzY3MDE5/MS0xMzA1LmpwZWc.jpeg) | 2011-09-02 | Fanatic Emotions | Celestial |
 | 42 | ![Cover](https://i.discogs.com/08F-gdaH3wQWOJSKSPp6DJDYRlSmYNT_yrbx84Ow3nE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/NjAtMTMzNjgxOTE3/OS0zNTMzLmpwZWc.jpeg) | 2011-09-03 | Fanatic Emotions | Along With You |
@@ -29,14 +34,13 @@ Last updated: <time datetime="2025-10-27T20:46:50.745Z">Mon Oct 27 2025 22:46:50
 | 24 | ![Cover](https://i.discogs.com/jTmLYAAKfKzcsOSR8NJmWMYXhRjyvqdA0UtbXPJLsJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTI4/NjAtMTMyMjQ0OTkw/MS5qcGVn.jpeg) | 2011-11-04 | Fanatic Emotions | My Dream |
 | 28 | ![Cover](https://i.discogs.com/hvmYfiNXU5TpEZJHyY3urB2zlLYPjSarJzv-IkheX20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/MDEtMTYwNzgxMzkx/Ny00NzcwLmpwZWc.jpeg) | 2012-01-04 | Fanatic Emotions | Of Course |
 | 9 | ![Cover](https://i.discogs.com/qSWipgjnzj0OrKuDAbVhO0R-suDlf8br1nQ5cy_Ohpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc4/ODktMTMzNjgxNzQy/Ni0yMDIwLmpwZWc.jpeg) | 2012-03-03 | Fanatic Emotions | My Dream (Epic Trance Mix) |
-| 10 | ![Cover](https://i.discogs.com/f2k7brxoUyshqUII3RoPhtC3D4q3nM9K4fv3CTe76d8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc4/ODYtMTYwNzgxMzgz/NC04OTM0LmpwZWc.jpeg) | 2012-03-03 | Fanatic Emotions | Cosmic Dance (Remastered) |
-| 2 | ![Cover](https://i.discogs.com/AZTRuwu2Zl1gO9uqkFtSTolflvwzM9Na4T4PvT-qEN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc4/NTQtMTYwNzgxMzU0/My01MjA5LmpwZWc.jpeg) | 2012-05-09 | Fanatic Emotions | Together (Xtended Trance Mix - Remastered) |
+| 11 | ![Cover](https://i.discogs.com/f2k7brxoUyshqUII3RoPhtC3D4q3nM9K4fv3CTe76d8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc4/ODYtMTYwNzgxMzgz/NC04OTM0LmpwZWc.jpeg) | 2012-03-03 | Fanatic Emotions | Cosmic Dance (Remastered) |
 | 3 | ![Cover](https://i.discogs.com/hRv6ySPpAOonGbCJ54DoBFgLvtHGIR4pgi_K4Ff2-DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTA5/MzEtMTM0MDUzNzIx/My0xMjc5LmpwZWc.jpeg) | 2012-06-03 | Fanatic Emotions | Wonderful Moments (Eternal Trance Mix) |
 | 31 | ![Cover](https://i.discogs.com/0piAAQQTFgrdc6ukdjAzq4EfU_ek_5rzgG96HH_NXtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDY0/NDctMTYwNzgxMzM2/NS0xMzE2LmpwZWc.jpeg) | 2013-05-16 | Fanatic Emotions | Trance In Love Vol.3 |
 | 4 | ![Cover](https://i.discogs.com/XPQDVwS2gEO2pd9OJnLWh__-FZApl2i1Nqu-73FMrwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0ODMy/ODEtMTM5NDUzMzA5/OS03OTkxLmpwZWc.jpeg) | 2013-07-15 | Kukuzenko | Kukuzenko - Dreamcatcher |
 | 6 |  |  | David Orr | EvoCreo: Official Soundtrack |
 | 27 | ![Cover](https://i.discogs.com/S7aXnGx7RcGixRXpRox_OE-d11iquJiNPxy0eKE-9fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzQz/NjYtMTYwNzgxMjc4/NC00MTQ4LmpwZWc.jpeg) | 2013-08-26 | Fanatic Emotions | Pour Denise |
-| 11 | ![Cover](https://i.discogs.com/TOSC8bN9vv6cW352xeo0KlruzgMNQUN98QCvkKg2KAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTUy/MTktMTYwNzgxMTkz/OS04ODI4LmpwZWc.jpeg) | 2014-12-06 | Fanatic Emotions | Trance In Love, Vol.5 |
+| 10 | ![Cover](https://i.discogs.com/TOSC8bN9vv6cW352xeo0KlruzgMNQUN98QCvkKg2KAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTUy/MTktMTYwNzgxMTkz/OS04ODI4LmpwZWc.jpeg) | 2014-12-06 | Fanatic Emotions | Trance In Love, Vol.5 |
 | 19 | ![Cover](https://i.discogs.com/TOSC8bN9vv6cW352xeo0KlruzgMNQUN98QCvkKg2KAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTUy/MTktMTYwNzgxMTkz/OS04ODI4LmpwZWc.jpeg) | 2014-12-06 | Fanatic Emotions | Trance In Love, Vol.4 |
 | 7 | ![Cover](https://i.discogs.com/pH5fvqREVxQA7i_nVhl4fU6jcOAP4f7oHR6-Qhwi8yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjYz/ODItMTQyNTQwNTA2/MS05MTUxLmpwZWc.jpeg) | 2015-03-03 | The Entranced | DJ Mixes |
 | 8 |  |  | Dawnchaser, De Ranger | Skyline Divide |
