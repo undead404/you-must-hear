@@ -9,6 +9,10 @@ title: british
 
 Last updated: <time datetime="2025-10-25T19:06:24.918Z">Sat Oct 25 2025 22:06:24 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+British rock emerged from the UK&#39;s vibrant music scene, blending guitar-driven melodies with distinctly British lyrical wit and social commentary. The sound ranges from jangly indie pop to anthemic stadium rock, unified by sharp songwriting and melodic hooks. It reflects Britain&#39;s working-class roots and urban culture across generations.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -44,7 +48,7 @@ Last updated: <time datetime="2025-10-25T19:06:24.918Z">Sat Oct 25 2025 22:06:24
 | 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5e1480805bdf29da606e0de2ac07b205.png) | 2006-01-23 | Arctic Monkeys | Whatever People Say I Am, That&#39;s What I&#39;m Not |
 | 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d8af5b14bdf74d15976056ad506ea4c8.png) | 2006-01-23 | The Kooks | Inside In &#x2F; Inside Out |
 | 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/98c4929524ed494f83a4aa3ef3a6dab0.png) | 2006-07-17 | Razorlight | Razorlight |
-| 57 |  | 2006-07-17 | Lily Allen | Alright, Still |
+| 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9b59b57443a634702541d8657532e43b.png) | 2006-07-17 | Lily Allen | Alright, Still |
 | 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6693ca1df1134307bd159e9cf4a90dc6.png) | 2006-08-12 | Arctic Monkeys | Leave Before the Lights Come On |
 | 14 | ![Cover](https://i.discogs.com/QGpDVi56Dgf5wee3hj-5ZlrnqCU_jyPq6AUF8pN9Qto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTMw/NDYtMTIwMTI3OTcx/Ni5qcGVn.jpeg) | 2007 | The Maccabees | Toothpaste Kisses |
 | 41 | ![Cover](https://i.discogs.com/js31thWpDbc_PRQv7T-xhZT6ygpoaHsVsKm3iSpJhcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzMx/MS0xMzc5NDIyNzc2/LTI0NjkuanBlZw.jpeg) | 2007-04-09 | Muse | Unintended |
@@ -101,12 +105,12 @@ Last updated: <time datetime="2025-10-25T19:06:24.918Z">Sat Oct 25 2025 22:06:24
 | 71 | ![Cover](https://i.discogs.com/9gL2lGmg8g_gZakwT0b03NDUwctgkPZoaKGZ2sN1KpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODU0/ODQtMTQ1Njc0MTY4/Mi02MTA1LmpwZWc.jpeg) | 2015-10-16 | Izzy Bizu | White Tiger |
 | 69 | ![Cover](https://i.discogs.com/_Vyuvtf9bvuubDdHPwioMY75IF2r-c8gMTCyKICjPFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjA2/NDAtMTQ2NDYxMDU5/Mi01Mzk5LmpwZWc.jpeg) | 2016-05-27 | Catfish and The Bottlemen | The Ride |
 | 92 | ![Cover](https://i.discogs.com/OOj-prXDDiPq1jIKwIL7wp71o6h-BD9sXPK9GM43chA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODk4/OTAtMTQ0NjgwNTI0/Mi0xNzI5LmpwZWc.jpeg) | 2016-09-30 | Coldplay | Adventure Of A Lifetime |
-| 40 | ![Cover](https://i.discogs.com/jJ4vle1EG2vmJRN_yOJDlHeS0gcoFog0XV75z8rvs3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUz/MTc2LTE1MjM1MDMy/MjEtNjUxNy5qcGVn.jpeg) | 2017 | Little Mix | Glory Days: The Platinum Edition |
+| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/469b8bfe70646d02b2ccc12844930819.png) | 2017 | Little Mix | Glory Days: The Platinum Edition |
 | 10 | ![Cover](https://i.discogs.com/UGyXwuYUe2Qx60LS0o5izYMzC46df3zBLbw4gyV9WY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgw/Mjg2LTE0OTgzMTUx/NjEtNzI3NS5qcGVn.jpeg) | 2017-06-23 | Jaymes Young | Feel Something |
 | 76 | ![Cover](https://i.discogs.com/VWgcQU6ZvbJhJBCZn7OyysG7Po9WZg50c5RDrJgp2Ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA3/NjgyLTE1ODk1MDM3/NTEtMTI5Ni5qcGVn.jpeg) | 2018 | Charli XCX | Girl, so confusing featuring lorde |
 | 47 | ![Cover](https://i.discogs.com/6o5d1vp13yxiqP5fRcANU4a6v4S1FS6VuuPR0K_QJKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIz/MzcyLTE1MjQ4MzAy/NzUtNjc2Mi5qcGVn.jpeg) | 2018-04-27 | Anne-Marie | Speak Your Mind (Deluxe) |
 | 79 | ![Cover](https://i.discogs.com/I1-7slNDeUP_-7g31EB2Rogs_Yi-SqKEzyP11k9BCgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTg2/OTkxLTE1MjYwNTI0/NTAtOTU1Ny5qcGVn.jpeg) | 2018-05-09 | Bastille | Quarter Past Midnight |
-| 56 | ![Cover](https://i.discogs.com/gGqDzY_eYtl0z3lJoopinzjkibt4B2IUMDbjB8aB7I8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTcx/MTI0LTE1Nzk0NzI2/NDQtMzM5OS5qcGVn.jpeg) | 2018-11-30 | Arctic Monkeys | Tranquility Base Hotel &amp; Casino |
+| 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c7f6da092ec3fd3bdb02e3ff71c56fea.png) | 2018-11-30 | Arctic Monkeys | Tranquility Base Hotel &amp; Casino |
 | 91 | ![Cover](https://i.discogs.com/9aeZG2f2mvXu0PP8HQfmv69DcZRPFgP86jYIoPcc-XU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjEz/NzkyLTE1NzgxOTY1/NDYtNjkzNy5qcGVn.jpeg) | 2018-12-14 | Kero Kero Bonito | Flamingo |
 | 89 | ![Cover](https://i.discogs.com/DGrdVHvu3ASZCoSVDxvrrtzOkthz39Vy7SmK7B3Wo1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM3/MzUxLTE1NTgwMjI3/MjMtMjUxMC5qcGVn.jpeg) | 2019-05-17 | Lewis Capaldi | Divinely Uninspired to a Hellish Extent |
 | 23 | ![Cover](https://i.discogs.com/FFVjXrkyF-hagKq8EawwRMHa7e9pHuB3C6XFIOHDrh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE5/NzA3LTE1NjgyMTAx/NjMtNDcyMS5qcGVn.jpeg) | 2019-09-05 | Metronomy | Metronomy Forever |

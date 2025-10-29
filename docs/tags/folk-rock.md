@@ -9,6 +9,10 @@ title: folk rock
 
 Last updated: <time datetime="2025-10-29T02:53:40.032Z">Wed Oct 29 2025 04:53:40 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Folk rock blends acoustic folk music&#39;s storytelling tradition with rock&#39;s electric instruments and driving rhythms. Emerging in the mid-1960s, it combined socially conscious lyrics with amplified sound, bridging counterculture and mainstream audiences. The genre emphasizes melodic vocals, acoustic-electric instrumentation, and narrative songwriting rooted in folk traditions.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |

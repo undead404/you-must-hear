@@ -11,17 +11,13 @@ Last updated: <time datetime="2025-10-29T00:47:20.957Z">Wed Oct 29 2025 02:47:20
 
 ### Description
 
-Soft rock is a genre of music that emerged in the late 1960s and early 1970s as a more mellow and easy-listening form of rock music. It is characterized by its emphasis on melody and harmony, and its smooth, polished sound that often includes the use of acoustic guitars, keyboards, and string sections.
-
-Soft rock is often associated with romantic and sentimental themes, and its lyrics often deal with topics such as love, heartbreak, and nostalgia. Some of the most popular soft rock artists of all time include the Eagles, Fleetwood Mac, James Taylor, Carole King, and Elton John. Soft rock has continued to evolve over time, with newer artists like John Mayer and Ed Sheeran continuing to draw from the genre&#39;s melodic and emotional sensibilities.
+Soft rock emerged in the 1970s as a mellower alternative to hard rock, featuring smooth vocals, polished production, and gentle rhythms. The genre blends pop sensibilities with rock instrumentation, emphasizing melody and emotional accessibility over raw energy. Its radio-friendly sound made it hugely popular for mainstream audiences seeking sophisticated yet easygoing music.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
 | 62 |  | 1969 | Neil Diamond | Sweet Caroline |
-| 1 |  | 2003-01-30 | John Mayer | Any Given Thursday |
-| 2 |  |  | Carpenters | Carpenters |
 | 4 | ![Cover](https://i.discogs.com/9sx8-NU22_54BRwqJcbCSWpdlpmKIpjRO7oPsijDUwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIw/MzQtMTcxNzM1OTk4/My02NTIwLmpwZWc.jpeg) | 1970 | Mungo Jerry | In The Summertime |
 | 82 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/86ff0f0d2e144c8c463c9161c34a9a00.png) | 1971 | America | America |
 | 10 |  | 1972 | Bread | Baby I&#39;m-A Want You |
@@ -30,8 +26,8 @@ Soft rock is often associated with romantic and sentimental themes, and its lyri
 | 76 |  | 1972 | Looking Glass | Looking Glass |
 | 51 |  | 1972-06-13 | Carpenters | A Song For You |
 | 22 | ![Cover](https://i.discogs.com/w0CEjHuQrfrvwcEd8C68Us_g_-sdQie04ZIGuMYBF_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzMz/ODMtMTYyMzk3NjU4/OS0xOTYxLmpwZWc.jpeg) | 1973 | John Denver | John Denver&#39;s Greatest Hits |
-| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/37cbde2fb82e4f4f9b6855be482667f3.png) | 1973-03 | Bread | The Best of Bread |
 | 43 |  | 1973-03-02 | The Doobie Brothers | The Captain and Me |
+| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/37cbde2fb82e4f4f9b6855be482667f3.png) | 1973-03 | Bread | The Best of Bread |
 | 19 | ![Cover](https://i.discogs.com/cRCUjvNlFVR4EUeF5tpC4fOBHw-vsKv0MDS0Jb3HmaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODYw/Mi0xNDkwNDg3ODQ5/LTQ5MzUuanBlZw.jpeg) | 1974 | America | Holiday |
 | 21 |  | 1974-04 | Gordon Lightfoot | Sundown |
 | 17 | ![Cover](https://i.discogs.com/GrkSLKN06j_qqN2pdmf3DRCc0OrXi3C3fDrqx2ADCEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQx/MDktMTM2MzEyMTMy/OS0zNjc0LmpwZWc.jpeg) | 1974-09 | Jackson Browne | Late For The Sky |
@@ -72,6 +68,7 @@ Soft rock is often associated with romantic and sentimental themes, and its lyri
 | 13 | ![Cover](https://i.discogs.com/V1tJvPoT4BJ9fbn2NWeh6i8PHUWRdE8j2b3FLuhinmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njgz/ODMtMTM3NTY4Nzc5/MC03NDg4LmpwZWc.jpeg) | 1998-07-06 | Ashe | RAE |
 | 33 | ![Cover](https://i.discogs.com/JYPp32YiYGRHDckSJXDzX6t2iU0yiaQkwqSY-KTM1LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzIw/Ni0xNDkyOTU2MDcx/LTYwODUuanBlZw.jpeg) | 2000 | John Denver | The John Denver Collection, Vol. 1: Take Me Home Country Roads |
 | 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/312f904538674a70486f1e782d0d053a.png) | 2001 | George Harrison | All Things Must Pass (Remastered) |
+| 1 |  | 2003-01-30 | John Mayer | Any Given Thursday |
 | 60 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ab2f597a1820a86931434c0f8e2653a1.png) | 2004-10-06 | Eagles | One of These Nights (2013 Remaster) |
 | 8 |  | 2006-03-20 | Josh Rouse | Subtitulo |
 | 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/af6a14b3af6b0b37bf36e0afc1e6e2a8.png) | 2006-06-02 | The Feeling | Twelve Stops And Home |
@@ -117,8 +114,9 @@ Soft rock is often associated with romantic and sentimental themes, and its lyri
 | 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7f4a2c84020b82f1322c785bf2f7a3c2.png) | 2023-04-22 | Stevie Nicks | Bella Donna (2016 Remastered) |
 | 79 | ![Cover](https://i.discogs.com/ORHb81ksM4brOvhOYNQl2ldIkapklxNrR17Xdi4wF28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjA2/NDk1LTE2OTc0MjM5/MTAtNzY1Ny5qcGVn.jpeg) | 2023-10-12 | pinkpantheress | Capable of love |
 | 29 | ![Cover](https://i.discogs.com/Hze5lmY0LswinY3Vk2S-xe-2t4O2l75cD6YohvDcgyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTEy/NDItMTUzMjk4NDc2/Ny0xOTM3LmpwZWc.jpeg) | 2024-01-26 | Papooz | Papooz |
-| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/aa8592aa8d444bdfcb69dbbe39c579b9.png) |  | Gerry Rafferty | City to City |
 | 94 | ![Cover](https://i.discogs.com/Go0CtJkMdzCwtFijooql6dN-EBxqmEJ9S2Fkwj8d7xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjAw/MjUwLTE3MjA3Nzc4/MTMtNjc3My5qcGVn.jpeg) | 2024-07-12 | Clairo | Charm |
+| 2 |  |  | Carpenters | Carpenters |
+| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/aa8592aa8d444bdfcb69dbbe39c579b9.png) |  | Gerry Rafferty | City to City |
 
 ### Related genres
 

@@ -9,6 +9,10 @@ title: art pop
 
 Last updated: <time datetime="2025-10-28T04:11:39.177Z">Tue Oct 28 2025 06:11:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Art pop blends experimental production techniques with accessible pop melodies, creating sophisticated songs that challenge mainstream conventions while remaining emotionally direct. It emerged as artists sought to elevate pop music through literary lyrics, unconventional structures, and cinematic soundscapes. The genre values artistic vision and authenticity over commercial formulas.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -31,8 +35,8 @@ Last updated: <time datetime="2025-10-28T04:11:39.177Z">Tue Oct 28 2025 06:11:39
 | 81 |  | 2010-10-11 | Sufjan Stevens | The Age of Adz |
 | 73 | ![Cover](https://i.discogs.com/5-iYwPFqdiaLEZqD5qaSx9HxEqCwq0HJdHx9u0XQugs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjA0/MTItMTMxMzg1MjU1/OC5qcGVn.jpeg) | 2011-09-09 | St. Vincent | Strange Mercy |
 | 6 |  | 2011-09-26 | Zola Jesus | Conatus |
-| 86 | ![Cover](https://i.discogs.com/ozWUlvToV4YUoZ6MCLSEE6zRTxP_8ZzkBRKBLBtVkhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDky/MDAtMTMxODAzNTE2/NC5qcGVn.jpeg) | 2011-11 | Lana Del Rey | Did You Know That There&#39;s a Tunnel Under Ocean Blvd |
 | 16 |  | 2011-11-21 | Kate Bush | 50 Words for Snow |
+| 86 | ![Cover](https://i.discogs.com/ozWUlvToV4YUoZ6MCLSEE6zRTxP_8ZzkBRKBLBtVkhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDky/MDAtMTMxODAzNTE2/NC5qcGVn.jpeg) | 2011-11 | Lana Del Rey | Did You Know That There&#39;s a Tunnel Under Ocean Blvd |
 | 65 | ![Cover](https://i.discogs.com/frfR8fEy11EsF2ZkqJ0QTzbkauma-WcIyomBFaLP3u0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjU0/MjA5LTE2MzU2MzU1/MjQtMTM0Ni5qcGVn.jpeg) | 2012 | Lana Del Rey | Blue Banisters |
 | 93 | ![Cover](https://i.discogs.com/pnBFoKpsvWrXosEaw_eM2xJaPxEJVJmERwh4ITLfHig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYy/MTc3LTE1Nzg2OTI0/MTQtMzA4MS5qcGVn.jpeg) | 2012 | Lana Del Rey | Norman Fucking Rockwell! |
 | 52 |  | 2012-01-23 | Chairlift | Something |
@@ -108,11 +112,11 @@ Last updated: <time datetime="2025-10-28T04:11:39.177Z">Tue Oct 28 2025 06:11:39
 | 27 | ![Cover](https://i.discogs.com/WNh9vffqmfT7uiDgKQbttDk-5CdN4uugilplpOtAjeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzY4/NjM0LTE2NDY0OTI4/MTItNzI1OC5qcGVn.jpeg) | 2022-03-04 | Stromae | Multitude |
 | 80 | ![Cover](https://i.discogs.com/FJi88vAms7BFCPtz_NBudJCrIkiIwRagt1Oh0ca5lP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDky/NzUzLTE2NzYzMjU3/OTgtNjI2MC5qcGVn.jpeg) | 2023-02-14 | Caroline Polachek | Desire, I Want to Turn Into You |
 | 4 | ![Cover](https://i.discogs.com/Y3i4_9tKB1eSwQebasuhJEv_6jDocKxTmrmGgVkZ71c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg5/MDAwLTE1MzAwOTAx/NzgtNjYyNy5qcGVn.jpeg) | 2023-09-20 | Eartheater | Powders |
-| 8 | ![Cover](https://i.discogs.com/CCghkpX74AGZxHg4An1bOJg8dd20z8eK_CuXvmPwImc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzU5/NjIyLTE3MjY1OTc1/MjktODU1OS5qcGVn.jpeg) | 2024-09-13 | FKA twigs | Eusexua |
-| 23 |  |  | Miracle Musical | Hawaii: Part II |
 | 25 | ![Cover](https://i.discogs.com/1qyUTGSz0q3bvg6VvJSqgUiO0w09vZZQQW3tIG38pR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/MTgxLTE2OTc3NTIw/OTQtNDU2Mi5qcGVn.jpeg) | 2023-10-20 | Sampha | Lahai |
 | 99 | ![Cover](https://i.discogs.com/34QM_S2m4nrCCdAkQCGz-pBiqvSkhnBFtDbWwDo2K2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ5/NDU3LTE3MTQ1MDMx/MDItNzM0Ni5qcGVn.jpeg) | 2024-05-17 | Billie Eilish | HIT ME HARD AND SOFT |
 | 53 | ![Cover](https://i.discogs.com/Ki66tJd-U_ik3G3EfdRgr9a7mt2K7cN3GgcXUu3COvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjU4/NDM4LTE3MjE2NTEz/NjMtNDI5MC5qcGVn.jpeg) | 2024-07-19 | Childish Gambino | Bando Stone and The New World |
+| 8 | ![Cover](https://i.discogs.com/CCghkpX74AGZxHg4An1bOJg8dd20z8eK_CuXvmPwImc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzU5/NjIyLTE3MjY1OTc1/MjktODU1OS5qcGVn.jpeg) | 2024-09-13 | FKA twigs | Eusexua |
+| 23 |  |  | Miracle Musical | Hawaii: Part II |
 
 ### Related genres
 

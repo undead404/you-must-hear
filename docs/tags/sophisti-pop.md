@@ -1,13 +1,17 @@
 ---
 category: genre
-date: 2025-10-28T08:18:11.109Z
+date: 2025-10-29T06:38:39.565Z
 permalink: tags/sophisti-pop
 title: sophisti-pop
 ---
 
 ## sophisti-pop
 
-Last updated: <time datetime="2025-10-28T08:18:11.109Z">Tue Oct 28 2025 10:18:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-29T06:38:39.565Z">Wed Oct 29 2025 08:38:39 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Sophisti-pop is a subgenre of pop music that emerged in the mid-1980s in the United Kingdom. It is characterized by its polished production values, intricate arrangements, and sophisticated songwriting. Sophisti-pop is often associated with artists who blended elements of jazz, soul, and funk into their pop songs, such as Sade, Simply Red, and Prefab Sprout. The genre declined in popularity in the early 1990s, but its influence can still be heard in contemporary pop music.
 
 ### 100 chronological releases
 
@@ -15,10 +19,11 @@ Last updated: <time datetime="2025-10-28T08:18:11.109Z">Tue Oct 28 2025 10:18:11
 |---|---|---|---|---|
 | 61 | ![Cover](https://i.discogs.com/Da0nhtdeemPkuqnoKxRyteVzJXOkgALwIWkE6rYOiUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTA1/NDctMTQxMTMyMjk4/MS05MDM2LmpwZWc.jpeg) | 1978 | Ziad Rahbani | Houdou Nisbi |
 | 81 | ![Cover](https://i.discogs.com/9sTaOIblIu3tuXs3w-HB6J4ChAJevIswXOc_9D9K7q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODM2/MjQtMTU1NzI3NzY2/My03ODAyLmpwZWc.jpeg) | 1978 | The Rah Band | Past, Present &amp; Future |
+| 1 |  | 1981 | Roxy Music | Jealous Guy |
 | 25 |  | 1981-06-05 | 高橋幸宏 | Neuromantic |
 | 35 | ![Cover](https://i.discogs.com/GDrMLXgz0Z2dvdnmAu5gcrewJYkA0TzQbhz7po_re7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzIx/MS0xNDM1MDc4MDMz/LTc3MDUuanBlZw.jpeg) | 1982-02 | Orange Juice | You Can&#39;t Hide Your Love Forever |
-| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/254b715c587f42dbc25cbed0e3cda61e.png) | 1982-06 | Roxy Music | Avalon |
 | 67 |  | 1982-06-21 | ABC | The Lexicon Of Love |
+| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/254b715c587f42dbc25cbed0e3cda61e.png) | 1982-06 | Roxy Music | Avalon |
 | 11 | ![Cover](https://i.discogs.com/wCl7DdB5yI-vbX87_0i2bv3QXUBRJr-lfU343r_mwYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA0/NjMtMTE5OTE3MzMw/MC5qcGVn.jpeg) | 1983 | Furniture | When The Boom Was On |
 | 33 |  | 1983 | Nick Heyward | North Of A Miracle |
 | 69 | ![Cover](https://i.discogs.com/jDMUuaPHxWhn8SFHiTrE9fwk5Z2Rh9HvwCSrwoZ8bp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTc4/OTgtMTY3OTA3MjE0/My0zMjUyLmpwZWc.jpeg) | 1983 | The Style Council | Introducing The Style Council |
@@ -32,11 +37,11 @@ Last updated: <time datetime="2025-10-28T08:18:11.109Z">Tue Oct 28 2025 10:18:11
 | 44 | ![Cover](https://i.discogs.com/AIoZPvgkMmU37kaiz7KzpbJnru-8txbY6Nzd9k3SV0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDcy/NC0xNjE3NTU2MTcw/LTE3MTkuanBlZw.jpeg) | 1985 | Paul Young | The Secret Of Association |
 | 73 | ![Cover](https://i.discogs.com/EVxiKF8N2HRG8tnMjM2L9GX4U7iHucHuqDQtTRcbgWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODc0/MjktMTQ2Mjc4ODQy/MC0yMDk5LmpwZWc.jpeg) | 1985 | Belouis Some | Some People |
 | 45 | ![Cover](https://i.discogs.com/URLzmtDujyhtiOWhOvmGMfwe2fhCY2IsG44VY2Eb96s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTEx/NS0xMTYxMjIxOTAw/LmpwZWc.jpeg) | 1985-04-25 | Yukihiro Takahashi | ニウロマンティック~ロマン神経症~ (2021 Yoshinori Sunahara Remastering) |
-| 42 | ![Cover](https://i.discogs.com/pZJS1B4cwCNSNKTHyHlS2R1tRQniBze5p3KI4quJJK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk2/MjUtMTMxMjIzMTU5/MS5qcGVn.jpeg) | 1985-06 | Prefab Sprout | Two Wheels Good |
-| 92 |  | 1985-06 | Prefab Sprout | Steve McQueen |
 | 52 |  | 1985-06-01 | The Style Council | Our Favourite Shop |
 | 91 |  | 1985-06-03 | Bryan Ferry | Boys and Girls |
-| 8 | ![Cover](https://i.discogs.com/oY60_SClpPMxHpS46GKXMiUxdoWyKaMJ9UMkdXTrgVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU5/MDA1LTE2NjMxMDU1/MjctMTc4NS5qcGVn.jpeg) | 1985-07 | Julian Lennon | Jude |
+| 42 | ![Cover](https://i.discogs.com/pZJS1B4cwCNSNKTHyHlS2R1tRQniBze5p3KI4quJJK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk2/MjUtMTMxMjIzMTU5/MS5qcGVn.jpeg) | 1985-06 | Prefab Sprout | Two Wheels Good |
+| 92 |  | 1985-06 | Prefab Sprout | Steve McQueen |
+| 9 | ![Cover](https://i.discogs.com/oY60_SClpPMxHpS46GKXMiUxdoWyKaMJ9UMkdXTrgVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU5/MDA1LTE2NjMxMDU1/MjctMTc4NS5qcGVn.jpeg) | 1985-07 | Julian Lennon | Jude |
 | 72 | ![Cover](https://i.discogs.com/AE559Pa45XgLwrhXCehdu9UW2ltwxcEJOJ5tvcusaMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTk4/ODctMTQ3MzA2OTA1/OC04NjE5LmpwZWc.jpeg) | 1985-11-16 | Sade | Promise |
 | 17 | ![Cover](https://i.discogs.com/JETcNWcKB_XQ45VkIWfOD2Iu6koJLmKmFgYRRPN8TlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTM0/NjQtMTI2NDc2MzQw/MC5qcGVn.jpeg) | 1986 | Heróis Da Resistência | Heróis da Resistência |
 | 47 |  | 1986 | The Blow Monkeys | Animal Magic |
@@ -58,15 +63,14 @@ Last updated: <time datetime="2025-10-28T08:18:11.109Z">Tue Oct 28 2025 10:18:11
 | 57 | ![Cover](https://i.discogs.com/llXgNtn08bXXJMxMvRt8-s2PGfRlhxckaYafnGSt4lU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTM3/Ni0xNDY4NDEyODQy/LTQzNDkuanBlZw.jpeg) | 1989-04-09 | Swing Out Sister | Kaleidoscope World |
 | 31 |  | 1989-05-03 | Living in a Box | Gatecrashing |
 | 58 |  | 1989-06 | Prefab Sprout | Protest Songs |
-| 7 | ![Cover](https://i.discogs.com/tMVCLEs0cPSbxn3D26xAzS7BPd4XIxHpYDw880lZlJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTE5/MjQtMTIzODUzODAx/OC5qcGVn.jpeg) | 1989-09-19 | Tears for Fears | The Seeds of Love |
-| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9976fc2675cb4e40cefc393419cbbbae.png) |  | Jorge Vercillo | Leve |
+| 8 | ![Cover](https://i.discogs.com/tMVCLEs0cPSbxn3D26xAzS7BPd4XIxHpYDw880lZlJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTE5/MjQtMTIzODUzODAx/OC5qcGVn.jpeg) | 1989-09-19 | Tears for Fears | The Seeds of Love |
 | 90 | ![Cover](https://i.discogs.com/zP-bxw5i0hx6g6aVkEG0iIhHcgvyoH8ymKAo1UHWf6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTMx/LTE1MzE5MjQ5NDYt/NzE0NS5qcGVn.jpeg) | 1989-10-09 | The Blue Nile | Hats |
-| 4 | ![Cover](https://i.discogs.com/KbTZRCJg5tw1lWjK_fzk9XoT1Fv2NKPWOP0lRN66kAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDI1/MS0xNDUxMjE1ODQ1/LTE3NzYuanBlZw.jpeg) | 1990 | Paul Young | Other Voices |
+| 5 | ![Cover](https://i.discogs.com/KbTZRCJg5tw1lWjK_fzk9XoT1Fv2NKPWOP0lRN66kAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDI1/MS0xNDUxMjE1ODQ1/LTE3NzYuanBlZw.jpeg) | 1990 | Paul Young | Other Voices |
 | 18 | ![Cover](https://i.discogs.com/WUfUY1Y92cLMjrI2FbjT9RWagDetMjS-V9eBvPDjnQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDI1/OS0xNjQyNzY4OTkw/LTM5NTEuanBlZw.jpeg) | 1990 | Everything But the Girl | Home Movies |
 | 29 |  | 1990-02-05 | Everything But the Girl | The Language of Life |
-| 2 |  | 1990-08 | Prefab Sprout | Jordan: The Comeback |
 | 23 | ![Cover](https://i.discogs.com/MmJYIYFltFqLMbvpzome6QFqAe4EJ43h6EHKR1m2Luk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzcx/Mi0xMTk0MDE0Njg5/LmpwZWc.jpeg) | 1990-08-28 | Prefab Sprout | Jordan - The Comeback |
-| 5 |  | 1991 | Matt Bianco | Samba In Your Casa |
+| 3 |  | 1990-08 | Prefab Sprout | Jordan: The Comeback |
+| 6 |  | 1991 | Matt Bianco | Samba In Your Casa |
 | 82 | ![Cover](https://i.discogs.com/LjO5lSlWnWpK0wSIFjLewzR92WMgjm6rY57Q6SMZQqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDUy/MzUtMTMxNzg0NjEy/NS5qcGVn.jpeg) | 1991 | Marina Lima | Marina Lima |
 | 26 |  | 1991-06 | Johnny Hates Jazz | Tall Stories |
 | 28 | ![Cover](https://i.discogs.com/aHB3H8nRNcvxn5HSf73_JQ00F6Trb5UMOoBSDq-KZps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA0/NS0xNjE0NDQwNDUz/LTc3MTkuanBlZw.jpeg) | 1992 | Swing Out Sister | Get In Touch With Yourself |
@@ -79,15 +83,15 @@ Last updated: <time datetime="2025-10-28T08:18:11.109Z">Tue Oct 28 2025 10:18:11
 | 14 |  | 2000-10-24 | Joe Jackson | Night and Day II |
 | 27 |  | 2000-11-03 | Sade | Lovers Rock |
 | 68 | ![Cover](https://i.discogs.com/lHDqKl5p4YtdQceru896Klz7wVSnRynFow9DZcS642k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTQ0/NDItMTQxMTgxNTcx/OS01NDQ2LmpwZWc.jpeg) | 2003-09-29 | David Sylvian | Brilliant Trees (Remastered 2003) |
-| 1 |  | 2004-03-15 | Joe Jackson | Afterlife |
+| 2 |  | 2004-03-15 | Joe Jackson | Afterlife |
 | 36 |  | 2004-06-22 | Swing Out Sister | Where Our Love Grows |
 | 63 |  | 2004-08-30 | The Blue Nile | High |
 | 19 | ![Cover](https://i.discogs.com/b2vLrAdxLJ41ZFB3vWhVHKsoMv-qAygKAywyHaMo8g0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDY4/NTctMTM2NDA1OTM3/OC0zODAwLmpwZWc.jpeg) | 2005-11-22 | The Philosopher Kings | Castles |
-| 6 | ![Cover](https://i.discogs.com/8gMduwQpz5oQw2LKBrrBlrdDLbq4fdp8isqqFt9K7j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAw/OTk1LTE1NTE2NjQz/MDEtNTE4OC5qcGVn.jpeg) | 2007-03-07 | Lamp | Yume |
+| 7 | ![Cover](https://i.discogs.com/8gMduwQpz5oQw2LKBrrBlrdDLbq4fdp8isqqFt9K7j0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAw/OTk1LTE1NTE2NjQz/MDEtNTE4OC5qcGVn.jpeg) | 2007-03-07 | Lamp | Yume |
 | 34 | ![Cover](https://i.discogs.com/D3ywRky3kZLQYvGP6dd4xi0HJPU7U03hpgY0lzp38vw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDM2/MjctMTU1NjQ2ODQ0/Ny0zNzQ0LmpwZWc.jpeg) | 2008 | Paul Heaton | N.K-Pop |
 | 40 |  | 2010-02-05 | Sade | Soldier of Love |
 | 96 |  | 2011-01-25 | Destroyer | Kaputt |
-| 3 | ![Cover](https://i.discogs.com/9h3Jv5VI-44f09f1hhS6abkC-IkjeNbu525Q_w_xaE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDIz/MzgzLTE1OTEzMDI0/OTItNTgzOC5qcGVn.jpeg) | 2011-02-15 | Flans | Alma Gemela |
+| 4 | ![Cover](https://i.discogs.com/9h3Jv5VI-44f09f1hhS6abkC-IkjeNbu525Q_w_xaE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDIz/MzgzLTE1OTEzMDI0/OTItNTgzOC5qcGVn.jpeg) | 2011-02-15 | Flans | Alma Gemela |
 | 76 |  | 2012-08-16 | Jessie Ware | Devotion |
 | 99 |  | 2013-01 | Rhye | Woman |
 | 50 |  | 2014-09-26 | Orange Blossom | Under the Shade of Violets |
@@ -110,9 +114,9 @@ Last updated: <time datetime="2025-10-28T08:18:11.109Z">Tue Oct 28 2025 10:18:11
 | 93 | ![Cover](https://i.discogs.com/k2Zjy3vfFR1igkcx5ql0LouLfMErLv1ggX1M8vtmUQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQ1/NDIzLTE2OTc3Njk4/NjYtODcyOC5wbmc.jpeg) | 2023-10-20 | Ana Frango elétrico | Me Chama De Gato Que Eu Sou Sua |
 | 70 | ![Cover](https://i.discogs.com/KxvesJBbceP6nrVE9eBcKCbte8lx1-KF7zaMHDoqG3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODEz/MzY5LTE2OTkyMTg4/MTUtMTI3OC5wbmc.jpeg) | 2023-11-03 | Majid Jordan | Good People |
 | 30 | ![Cover](https://i.discogs.com/JdeXl_XONU8ra-bnZ7TNmlv42DP_BOtlz-WJKs3nG7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAy/Mjc0LTE3MTc4MDU5/NTUtNDk2My5qcGVn.jpeg) | 2024-04-05 | Jane Penny | Surfacing |
-| 9 | ![Cover](https://i.discogs.com/ApPAHPqbpWmCGh3FL8qobUZ9w8uhAQFrY0ubDoY2LZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDc4/OTEwLTE3MTM5MzI4/MDYtNDE1NC5qcGVn.jpeg) | 2024-04-26 | Loren Kramar | Glovemaker |
 | 37 | ![Cover](https://i.discogs.com/fq_SYCSAtOyYf5dQH_w2YcZwu0IOvn5VIUflFB-x0Ks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTg0/ODU3LTE3MjQwMDYy/MDgtNjE1NS5qcGVn.jpeg) | 2024-07-12 | Cassandra Jenkins | My Light, My Destroyer |
 | 95 | ![Cover](https://i.discogs.com/Go0CtJkMdzCwtFijooql6dN-EBxqmEJ9S2Fkwj8d7xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjAw/MjUwLTE3MjA3Nzc4/MTMtNjc3My5qcGVn.jpeg) | 2024-07-12 | Clairo | Charm |
+| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9976fc2675cb4e40cefc393419cbbbae.png) |  | Jorge Vercillo | Leve |
 
 ### Related genres
 
@@ -124,5 +128,5 @@ Last updated: <time datetime="2025-10-28T08:18:11.109Z">Tue Oct 28 2025 10:18:11
 - [art pop]({{ "/tags/art-pop" | relative_url }})
 - [jazz]({{ "/tags/jazz" | relative_url }})
 - [male vocalists]({{ "/tags/male-vocalists" | relative_url }})
-- [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
 - [pop rock]({{ "/tags/pop-rock" | relative_url }})
+- [rnb]({{ "/tags/rnb" | relative_url }})

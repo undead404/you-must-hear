@@ -9,6 +9,10 @@ title: britpop
 
 Last updated: <time datetime="2025-10-29T04:32:39.039Z">Wed Oct 29 2025 06:32:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Britpop emerged in 1990s Britain as a guitar-driven alternative rock movement celebrating British culture and working-class life. The sound blended catchy melodies with jangly guitars, drawing inspiration from 1960s British rock while rejecting American grunge. It emphasized witty lyrics, anthemic choruses, and a distinctly British identity.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |

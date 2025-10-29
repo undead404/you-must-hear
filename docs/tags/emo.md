@@ -9,6 +9,10 @@ title: emo
 
 Last updated: <time datetime="2025-10-29T03:10:39.912Z">Wed Oct 29 2025 05:10:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Emo is a rock subgenre characterized by confessional lyrics exploring intense emotions, often featuring dynamic shifts between soft verses and explosive choruses. Emerging from punk in the 1980s, it peaked in the 2000s with theatrical aesthetics and fashion. Modern emo blends with hip-hop and alternative styles.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |

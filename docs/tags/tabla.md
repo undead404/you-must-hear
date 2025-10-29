@@ -1,62 +1,53 @@
 ---
 category: genre
-date: 2025-10-28T08:18:22.253Z
+date: 2025-10-29T06:39:39.962Z
 permalink: tags/tabla
 title: tabla
 ---
 
 ## tabla
 
-Last updated: <time datetime="2025-10-28T08:18:22.253Z">Tue Oct 28 2025 10:18:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-29T06:39:39.962Z">Wed Oct 29 2025 08:39:39 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Tabla music is a fundamental part of Hindustani music from northern India, Pakistan, and Bangladesh, often used to accompany vocal and instrumental music, as well as dance. It consists of two drums, the higher-pitched daya played with the right hand, and the larger, deeper-pitched baya played with the left. The complex playing technique involves various finger and hand strokes to create a wide variety of sounds and rhythms, making it a highly expressive and versatile instrument.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 38 |  |  | Ustad Ghulam Farid Nizami | Flowers of the Heart |
 | 17 |  | 1955 | Yehudi Menuhin | Yehudi Menuhin: West Meets East |
 | 58 | ![Cover](https://i.discogs.com/Qwei8L_sZucDdKdK0URmUmFIMcho1fSmFB5h_U8NzGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE2/NDExLTE1NTk2MzU5/NDUtMzIzOC5qcGVn.jpeg) | 1969 | Ali Akbar Khan | Shree Rag |
 | 42 | ![Cover](https://i.discogs.com/QAXNy-H1i5nXJlryydv2Rc9lEYfdzLx0GszNLBJt_Ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDk5/NC0xNTcwMDEyMTg5/LTU5NzcuanBlZw.jpeg) | 1977 | Voyage | Kelimdance |
 | 4 |  | 1978 | Sandy | Ik Ben Verliefd Op John Travolta |
+| 50 | ![Cover](https://i.discogs.com/mBQW-B1fBXNwjFRC5YrPaLffvI7-FR7GC1Am0702Yk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzcy/MjA1LTE1NzMyMDQ5/NDMtNDA1OC5naWY.jpeg) | 1986 | Ramuntcho Matta | 24 hrs |
+| 79 | ![Cover](https://i.discogs.com/tEbADNpnlzDd2H9fjOdAa5WusxMdC70aadbXPRmfN9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQx/OS0xNTIwMjU5MDYx/LTUyMzUuanBlZw.jpeg) | 1987-05 | Zakir Hussain | Making Music |
 | 12 |  | 1989 | Imrat Khan, Vajahat Khan &amp; Shafaatullah Khan | Rag Jhinjhoti &amp; Rag Pilu |
 | 59 | ![Cover](https://i.discogs.com/i_rDTE_HbVgA4e12smI-jug_3NHvcrNG-JtNZ8JzpK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTIx/NDgtMTMxODE2OTE1/MS5qcGVn.jpeg) | 1989-01-01 | Hariprasad Chaurasia &amp; Zakir Hussain | Venu |
 | 14 |  | 1992-04-16 | Ziskakan | 10 Zan |
-| 47 |  |  | lightsweetcrude | lightsweetcrude |
-| 70 |  |  | menschen-und-musik | Live Recordings 2008 |
-| 72 |  |  | Tony Bahu | The Captivation |
-| 50 | ![Cover](https://i.discogs.com/mBQW-B1fBXNwjFRC5YrPaLffvI7-FR7GC1Am0702Yk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzcy/MjA1LTE1NzMyMDQ5/NDMtNDA1OC5naWY.jpeg) | 1986 | Ramuntcho Matta | 24 hrs |
-| 79 | ![Cover](https://i.discogs.com/tEbADNpnlzDd2H9fjOdAa5WusxMdC70aadbXPRmfN9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQx/OS0xNTIwMjU5MDYx/LTUyMzUuanBlZw.jpeg) | 1987-05 | Zakir Hussain | Making Music |
 | 3 | ![Cover](https://i.discogs.com/K9u1DY_Y50MTaJ9J78PWtcBjt-YC-45Cwl8FnnOZ0nA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDQy/NTgzLTE2NjI1NjQy/NzAtNzE0MS5qcGVn.jpeg) | 1995 | Indus | Indus Demo |
 | 13 | ![Cover](https://i.discogs.com/lzXsC9wkSWQ6cFbx68937UQ1v1wfoJ13WJyMJoh-XWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTU0/NzEtMTUwNDU5MzI3/Ni05ODQzLmpwZWc.jpeg) | 1995 | Helm | Zakharafa |
+| 34 |  | 1996 | Ravi Shankar | In Celebration |
+| 29 | ![Cover](https://i.discogs.com/w4eOmxDSPzorvOQ3PVZN4e2bXVxvP34WmGyoY1jH2DI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDMy/NTktMTUzODMzMzk1/OS0yMjU5LmpwZWc.jpeg) | 1997 | Hamid Drake &amp; Michael Zerang | Ask The Sun |
 | 91 | ![Cover](https://i.discogs.com/h_QmqDxcvqAVu8s5zM9jDbgiL6m9MmAL5GExw0UBGVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/MzE0LTE1ODI2NTE3/ODQtNTE5MS5wbmc.jpeg) | 1997-10-21 | Sur Sudha | Images of Nepal |
-| 1 | ![Cover](https://i.discogs.com/ocnn7oZEMox2BH_UT9_YozdBYdrcRFFJpLINfxvekVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA5/MDk5LTE1NTc0Mzc4/MDktNDQyOS5qcGVn.jpeg) | 1999 | Nikhil Banerjee, Nikhil Ghosh | Morning Ragas, Bombay 1965 1 |
+| 40 | ![Cover](https://i.discogs.com/4j2Wozq_ZNaHtaXinw6wdiX7trvlSGIYDvM93iA7sMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njgy/MTgtMTIzNTAyNzQw/Mi5qcGVn.jpeg) | 1998 | Александр Ливер | Несколько Оригинальных Мелодий |
 | 2 | ![Cover](https://i.discogs.com/ocnn7oZEMox2BH_UT9_YozdBYdrcRFFJpLINfxvekVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA5/MDk5LTE1NTc0Mzc4/MDktNDQyOS5qcGVn.jpeg) | 1999 | Nikhil Banerjee, Nikhil Ghosh | Morning Ragas, Bombay 1965 2 |
 | 63 | ![Cover](https://i.discogs.com/51YtDC8jPQCLMb5GhiyBowG-I0g3Pvt30syMM6Y782U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTA2/NzUtMTQ4OTA5NjI5/Mi0zMzUwLmpwZWc.jpeg) | 1999 | Ziskakan | 4 ti mo |
-| 76 |  | 1999-06-28 | MakTub | Subtle Ways |
-| 88 |  |  | A Six Degrees Collection | Asian Massive |
 | 90 | ![Cover](https://i.discogs.com/UEt3nrtukmpDaUCTEnE-_IjwakSWoaJYhv8-yRsYXMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzM5/NDUtMTM5NDI5NzA3/Mi03NTg4LmpwZWc.jpeg) | 1999 | Nitin Sawhney | Introducing Nitin Sawhney |
+| 76 |  | 1999-06-28 | MakTub | Subtle Ways |
 | 62 | ![Cover](https://i.discogs.com/jxNPDypk-rXle0-2eARNM9m5qTiuTegobHJK9Uk4b7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODQ3/NjctMTQzODAwNTI3/My01MTExLmpwZWc.jpeg) | 2000 | Mamadou Diabate | Djan Djan |
 | 99 | ![Cover](https://i.discogs.com/isf5q2KI29C7lCugDu5YGQZgjRn8yCWU59kXLll0OPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDAx/NjItMTMxNTc0NDAz/OS5qcGVn.jpeg) | 2000 | Zakir Hussain | Music Of The Deserts |
 | 100 |  | 2000-09-12 | Tabla Beat Science | Tala Matrix |
 | 6 | ![Cover](https://i.discogs.com/qb3an0FjrsI6iVcci8eWWufZqHpGeTEBpHQegviOeJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA2/NTkxLTE2NjQwNTU0/MzktNTY4OC5qcGVn.jpeg) | 2001 | Kumar Bose | Dynamic: Live at Saptak Music Festival 2001 - CD 2 |
 | 19 | ![Cover](https://i.discogs.com/rhRKvpymZu4dT-mOK8poex6ZAKWC2KDQt3XCLGb34Iw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjMx/NDUtMTM3MzQzMjkw/OS02MzI5LmpwZWc.jpeg) | 2001 | Bobby Singh | Djan Djan |
-| 7 | ![Cover](https://i.discogs.com/cQXTcnYWEHpwe9IJdni8J5T9ZXzhy4RLQtt35guNgqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODUw/NzQtMTMwMDkxMTg4/Ni5qcGVn.jpeg) | 2002-02-02 | Taaliqa | Taaliqa |
-| 11 |  |  | Zakir Hussain &amp; Ustad Alla Rakha | Memorable Tabla Duet |
-| 21 |  |  | Lalgudi Jayaraman &amp; Ustad Amjad Ali Khan | South Meets North: Violin &amp; Sarod Jugalbandi |
-| 23 |  |  | Jonathan Voyer &amp; Shawn Mativetsky | Shanta, Raga Yaman |
-| 25 |  |  | Siamgda feat. Morty | Beach Tracks |
-| 28 |  |  | Pt. Ravi Shankar with Ustad Alla Rakha | Ragas Hameer &amp; Gara |
-| 30 |  |  | Dabrowski Arkadiusz | Demo |
-| 32 |  |  | Meena Batish | My Favorite Bhajans (Hindu Devotional Songs) |
-| 34 |  | 1996 | Ravi Shankar | In Celebration |
-| 29 | ![Cover](https://i.discogs.com/w4eOmxDSPzorvOQ3PVZN4e2bXVxvP34WmGyoY1jH2DI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDMy/NTktMTUzODMzMzk1/OS0yMjU5LmpwZWc.jpeg) | 1997 | Hamid Drake &amp; Michael Zerang | Ask The Sun |
-| 40 | ![Cover](https://i.discogs.com/4j2Wozq_ZNaHtaXinw6wdiX7trvlSGIYDvM93iA7sMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njgy/MTgtMTIzNTAyNzQw/Mi5qcGVn.jpeg) | 1998 | Александр Ливер | Несколько Оригинальных Мелодий |
 | 39 |  | 2001 | Ziskakan | Rimayer |
 | 67 | ![Cover](https://i.discogs.com/e-3hpGo_mOUepr-6yt8dPlc7aUP4LKtZP2D-Ekjus1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODMw/MzItMTIzNjYzNzI4/NS5qcGVn.jpeg) | 2001 | Александр Ливер | Песни Заграничных Композиторов |
 | 69 | ![Cover](https://i.discogs.com/e-3hpGo_mOUepr-6yt8dPlc7aUP4LKtZP2D-Ekjus1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODMw/MzItMTIzNjYzNzI4/NS5qcGVn.jpeg) | 2001 | Александр Ливер | Песни забытых композиторов |
 | 57 | ![Cover](https://i.discogs.com/115D7SJsGlwm9h8vrl6MSf1Rcph59HftFRzG0YiTVe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjM5/MzY1LTE1ODY1OTk2/MTQtODk1Ny5qcGVn.jpeg) | 2002 | Ronu Majumdar &amp; Abhijit Banerjee | Raga Bageshri |
 | 74 |  | 2002 | Ustad Mohammad Omar | Virtuoso From Afghanistan |
 | 77 | ![Cover](https://i.discogs.com/v7xLyC2lBykqYquCmkiEei8Z5KFm9DStSIa9UUl5BkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTY2/MDktMTQ1NTA2MTIy/MC00Nzc2LmpwZWc.jpeg) | 2002 | Arabic Breakbeats | Urban Turban |
+| 7 | ![Cover](https://i.discogs.com/cQXTcnYWEHpwe9IJdni8J5T9ZXzhy4RLQtt35guNgqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODUw/NzQtMTMwMDkxMTg4/Ni5qcGVn.jpeg) | 2002-02-02 | Taaliqa | Taaliqa |
 | 68 | ![Cover](https://i.discogs.com/Wpx36s_lGirRwG7TfvCOXW-lM_Zd1lgzZZnhPTQ0rkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzg2/MTQtMTI1NzQ2MTc4/OC5qcGVn.jpeg) | 2002-05-07 | Ustad Mohammad Omar | Ustad Mohammad Omar: Virtuoso from Afghanistan |
 | 75 |  | 2002-07-09 | Tabla Beat Science | Live in San Francisco at Stern Grove |
 | 65 |  | 2003 | Atash | Republic Of Love |
@@ -77,8 +68,8 @@ Last updated: <time datetime="2025-10-28T08:18:22.253Z">Tue Oct 28 2025 10:18:22
 | 48 | ![Cover](https://i.discogs.com/B2OrK-5Sd0TEC7C8GbbUVH2TwyaUbM4wU3Hoq3-esG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTYz/MjYtMTM4MzMxNTQy/Ni03Nzc1LmpwZWc.jpeg) | 2005 | Александр Ливер | Честное предложение |
 | 73 | ![Cover](https://i.discogs.com/K6QOof2JJ57cw6jnNdSYK1MXEmgMjNdt-o7ogXNxPP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzY3/ODIzLTE1NDE1NTY3/MDEtODMxOC5qcGVn.jpeg) | 2005 | Anuradha Pal | Anu |
 | 85 | ![Cover](https://i.discogs.com/l1qkCRFAzYyXI4ybdyffR6aMdhE-LCjKO2x0OPqzgyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA5/MzgwLTE1NDA0ODI1/ODctNzM1Mi5qcGVn.jpeg) | 2005 | Greg Ellis | Kala Rupa |
-| 86 | ![Cover](https://i.discogs.com/OZCOpQBWVNNPTrtNM3d63JQHofqNGyUxt5dRzFxnAXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjU0/MDU2LTE1NjM5MTMz/NDQtNzExNS5wbmc.jpeg) | 2005-04 | Raquy and the Cavemen | Jordan |
 | 82 |  | 2005-04-12 | MakTub | Say What You Mean |
+| 86 | ![Cover](https://i.discogs.com/OZCOpQBWVNNPTrtNM3d63JQHofqNGyUxt5dRzFxnAXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjU0/MDU2LTE1NjM5MTMz/NDQtNzExNS5wbmc.jpeg) | 2005-04 | Raquy and the Cavemen | Jordan |
 | 15 | ![Cover](https://i.discogs.com/1CTfCZjoIhhOqC9Z9FB54GYi6NTX-g-HLk52EALw5uk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIy/MDE4LTE3MzA2NzA3/MDMtMzI1Mi5qcGVn.jpeg) | 2006 | Partha Sarathi Mukherjee | The Tabla Series |
 | 37 | ![Cover](https://i.discogs.com/XgRa0plSzopCVs2k38pNkrQVZncH33ynZVbDw6ZiA2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODcw/MDAtMTM3NTUyMDYz/MS01Mjg1LmpwZWc.jpeg) | 2006 | Mizna | Mizna |
 | 84 |  | 2006-01-23 | Pete Namlook &amp; Gaudi | Re:sonate |
@@ -89,8 +80,8 @@ Last updated: <time datetime="2025-10-28T08:18:22.253Z">Tue Oct 28 2025 10:18:22
 | 41 | ![Cover](https://i.discogs.com/MFj52BViVIjPLJRVOppMMnEpafQaGD1ZHy24sffm5cM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjg3/ODEtMTUyMTk2NzUx/MC03NjIzLmpwZWc.jpeg) | 2009 | Александр Ливер | Песни Русскоязычных Композиторов |
 | 54 | ![Cover](https://i.discogs.com/y5lj8VcgRcu_VJu9Y_DqKaYH5NL50mmLl5hwZKNhisE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDc2/NTMtMTM1MjEyNjAz/Mi02NzY3LmpwZWc.jpeg) | 2009 | Awen Magic Land | Open Land |
 | 80 | ![Cover](https://i.discogs.com/hqj4MdFc2OXnr6YFR5LRz_vmMVwQ_tLK33KVgTmr06w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTM2/ODgwLTE2NTQ5Mzc0/NzAtMTI3MC5qcGVn.jpeg) | 2009 | Ustad Zakir Hussain | Essence Of Rhythm |
-| 61 |  | 2009-01 | Reggie Watts | Pot Cookies |
 | 97 |  | 2009-01-29 | Kat Edmonson | Lucky |
+| 61 |  | 2009-01 | Reggie Watts | Pot Cookies |
 | 64 | ![Cover](https://i.discogs.com/GEE60u2-5qS1FnA_CfcXXOp-kyw7tVQoUmFv8mQI_VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQ3/MzQxLTE1MDE2MTY0/ODAtOTAzNi5qcGVn.jpeg) | 2009-06-23 | MakTub | Five |
 | 35 | ![Cover](https://i.discogs.com/izozm2wg-UL5MXkNkDrl-9vpUCO7XQw2gy2__3XZq1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzM5/MTgtMTI1NjA0Nzg0/OC5qcGVn.jpeg) | 2009-07-14 | Humberto Luis Schenone | ca286 - Humberto Luis Schenone - The Rhythms of Life I |
 | 8 |  | 2010 | Pandit Jasraj, Pandit Hariprasad Chaurasia &amp; Ustad Zakir Hussain | Jugalbandi Series: Live at Shivaji Park, Bombay, Dec &#39;91 - CD 2 |
@@ -113,6 +104,19 @@ Last updated: <time datetime="2025-10-28T08:18:22.253Z">Tue Oct 28 2025 10:18:22
 | 49 | ![Cover](https://i.discogs.com/oQK0SM6MgTRgdWld4ndgKIBAKofT-7mxhdVsBG42a3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTI5/MjEzLTE2MTA2NTQ5/MTktODA5Ny5qcGVn.jpeg) | 2021-01-14 | Tabla Beat Science | Live in San Francisco |
 | 26 | ![Cover](https://i.discogs.com/0NwD8TnmVhicqm1mmg33teWKWNe0KIfilMtH0bLezUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDgw/MzA5LTE2NzExOTEz/MzUtODA5OS5qcGVn.jpeg) | 2022-01-21 | Luca Congedo | Ghazal |
 | 95 | ![Cover](https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg) | 2023 | Various Artists | Riddim Driven Tabla |
+| 1 |  |  | Imrat Khan, Vajahat Khan, Shafaatullah Khan | Rāg Jhiñjoṭī &#x2F; Rāg Pīlū |
+| 11 |  |  | Zakir Hussain &amp; Ustad Alla Rakha | Memorable Tabla Duet |
+| 21 |  |  | Lalgudi Jayaraman &amp; Ustad Amjad Ali Khan | South Meets North: Violin &amp; Sarod Jugalbandi |
+| 23 |  |  | Jonathan Voyer &amp; Shawn Mativetsky | Shanta, Raga Yaman |
+| 25 |  |  | Siamgda feat. Morty | Beach Tracks |
+| 28 |  |  | Pt. Ravi Shankar with Ustad Alla Rakha | Ragas Hameer &amp; Gara |
+| 30 |  |  | Dabrowski Arkadiusz | Demo |
+| 32 |  |  | Meena Batish | My Favorite Bhajans (Hindu Devotional Songs) |
+| 38 |  |  | Ustad Ghulam Farid Nizami | Flowers of the Heart |
+| 47 |  |  | lightsweetcrude | lightsweetcrude |
+| 70 |  |  | menschen-und-musik | Live Recordings 2008 |
+| 72 |  |  | Tony Bahu | The Captivation |
+| 88 |  |  | A Six Degrees Collection | Asian Massive |
 
 ### Related genres
 

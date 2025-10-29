@@ -11,13 +11,7 @@ Last updated: <time datetime="2025-10-28T23:53:23.984Z">Wed Oct 29 2025 01:53:23
 
 ### Description
 
-Pop rap is a subgenre of hip-hop and pop music that incorporates elements of both genres. It is characterized by a focus on catchy hooks and melodic choruses, often with sung vocals or vocal samples, and is typically less lyrically complex than traditional hip-hop.
-
-Pop rap music often features upbeat, danceable production, with heavy use of electronic instrumentation, synthesizers, and drum machines. The lyrics of pop rap songs typically deal with themes such as love, relationships, partying, and personal success.
-
-Some of the most popular pop rap artists include Drake, Nicki Minaj, Post Malone, and Lil Nas X. These artists have helped to shape the sound of the genre and have achieved widespread commercial success with their music.
-
-Pop rap has been criticized by some as being too commercial and lacking in substance compared to more traditional hip-hop, but it has also been praised for its ability to reach wider audiences and introduce new fans to the world of hip-hop music.
+Pop rap blends hip-hop&#39;s rhythmic vocals with pop music&#39;s catchy melodies and mainstream appeal. It emerged in the late 1980s and features accessible hooks, polished production, and themes ranging from personal struggles to celebration. The genre dominates charts by making rap&#39;s edge more radio-friendly.
 
 ### 100 chronological releases
 
@@ -27,8 +21,8 @@ Pop rap has been criticized by some as being too commercial and lacking in subst
 | 71 | ![Cover](https://i.discogs.com/SW0vZu3DzSVKffMysmf-47rCyAMxyYVf9jA9VtsbynQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjY5/NDItMTI1NTY0NzU5/NS5qcGVn.jpeg) | 2009-09-14 | Kid Cudi | Man On The Moon: The End Of Day (Deluxe) |
 | 60 |  | 2009-12-29 | Twenty One Pilots | Twenty One Pilots |
 | 36 | ![Cover](https://i.discogs.com/N0mni5-LaIUL_AYyhYYu0Ko35n2We3j1S1gE82ZmHkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjE3/MjE0LTE2MjcyMDg2/NTAtMjU2Mi5qcGVn.jpeg) | 2012-04-06 | Nicki Minaj | Pink Friday (Complete Edition) |
-| 25 | ![Cover](https://i.discogs.com/TS4p05D4UmG5ProsH9WnvLWxbK3WEmoFjZgx0sj93aE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjk4/ODgtMTYzOTUwMjg3/Mi0zNDg5LmpwZWc.jpeg) | 2012-12 | Chief Keef | Finally Rich (Deluxe) |
 | 19 |  | 2012-12-26 | Twenty One Pilots | Vessel |
+| 25 | ![Cover](https://i.discogs.com/TS4p05D4UmG5ProsH9WnvLWxbK3WEmoFjZgx0sj93aE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjk4/ODgtMTYzOTUwMjg3/Mi0zNDg5LmpwZWc.jpeg) | 2012-12 | Chief Keef | Finally Rich (Deluxe) |
 | 93 | ![Cover](https://i.discogs.com/N4Qhuw8XPp_-QUC8Bkw_g0mphTJ8bzBTzWNO-SFPFsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjM0/NDItMTM4MzkxNjc1/Ni02MDQyLmpwZWc.jpeg) | 2013 | Kendrick Lamar | good kid, m.A.A.d city (Deluxe) |
 | 23 |  | 2013-01-15 | A$AP Rocky | LONG.LIVE.A$AP (Deluxe Version) |
 | 58 | ![Cover](https://i.discogs.com/E1pk1iw2mWyvK9o6_OKMw_5SGNTD3eVNG3Ce3inwzHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Njc5/NDItMTM3MTY0MzU5/OC0xMDAwLmpwZWc.jpeg) | 2013-06-14 | J. Cole | Born Sinner (Deluxe Version) |
@@ -109,6 +103,7 @@ Pop rap has been criticized by some as being too commercial and lacking in subst
 | 52 | ![Cover](https://i.discogs.com/0H-UgkzisSolIvpgD5Gteb4op_IXa4znA34eC15KZDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODUz/MjIxLTE2OTIyODY5/ODYtODA2Ny5qcGVn.jpeg) | 2022-07-08 | Ken Carson | X |
 | 59 | ![Cover](https://i.discogs.com/_qeb9BrM9q1NnO2IRcXX9zUShHptehF8Nc4VE3WMUtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzMw/MDY3LTE2NjQ5OTMz/MzYtNzg3OC5qcGVn.jpeg) | 2022-08-12 | Destroy Lonely | No Stylist |
 | 22 | ![Cover](https://i.discogs.com/_w5wT9C4HARkjqF6Hptbq2ICGmeYqZmwvQqV7nJTRWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDAx/ODY3LTE2OTE2MjY4/NzctODc4My5qcGVn.jpeg) | 2022-09-30 | ShyGirl | Nymph |
+| 97 | ![Cover](https://i.discogs.com/aGHzZbmzbSIyMR_pol-ZzP99A6gJq3Y6VszFLxYcxKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODIz/MjkyLTE2NjU3Njc1/ODctNjMwOS5qcGVn.jpeg) | 2022-10-04 | Lil Yachty | POLAND |
 | 91 | ![Cover](https://i.discogs.com/DjblS9zgqFWX6vptTMiwZsrSxZ_O27EukMw1J4PDPnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzY0/NjIwLTE2NzAxNDkx/MjktNzUwNC5qcGVn.jpeg) | 2022-10-12 | Raye | Escapism. &#x2F; The Thrill Is Gone. |
 | 3 | ![Cover](https://i.discogs.com/xvuFp0sL4bmgRMFJo6eNqmgRXmrVjMCNP575KIW132U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDU3/MjU3LTE2OTI4MjA2/ODctMjQ3Ny5qcGVn.jpeg) | 2022-11-18 | Destroy Lonely | NS+ (ULTRA) |
 | 15 | ![Cover](https://i.discogs.com/j9r_qc8Sz8L3ffI0VsUxTeJ1awNwBvpDLNRpuYKHB1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjgw/OTQ0LTE2Njk0MTI3/NTctNTU3MS5qcGVn.jpeg) | 2022-11-18 | Comethazine | Bawskee 3.5 |
@@ -119,10 +114,9 @@ Pop rap has been criticized by some as being too commercial and lacking in subst
 | 30 | ![Cover](https://i.discogs.com/rDq7KQmIPElY5GfEY1MDvx3moyXmejVRX_I_nx4z2eg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDg3/ODI0LTE2ODgwNTUz/MjctODUyNi5qcGVn.jpeg) | 2023-06-23 | Young Thug | Business Is Business |
 | 43 | ![Cover](https://i.discogs.com/j-O5Wj479PK4_2Z4p25u3alpjv2IZVY0TdX6y14_3bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAy/NTYzLTE2OTA1NDY2/MTEtOTY4OS5qcGVn.jpeg) | 2023-07-31 | Travis Scott | Utopia |
 | 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1c24b0391a23dcfb761833a9a79507ca.png) | 2024-04-12 | Summrs | Isolation |
-| 81 |  |  | ¥$ | Vultures 1 |
-| 97 | ![Cover](https://i.discogs.com/aGHzZbmzbSIyMR_pol-ZzP99A6gJq3Y6VszFLxYcxKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODIz/MjkyLTE2NjU3Njc1/ODctNjMwOS5qcGVn.jpeg) | 2022-10-04 | Lil Yachty | POLAND |
 | 95 | ![Cover](https://i.discogs.com/W1tRnp7CEMNTRn_gRMXBk84IRDicNEEdlEvcrk8Di1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDgy/MDE4LTE3MTk1ODk4/OTUtNzk3MC5qcGVn.jpeg) | 2024-06-28 | Camila Cabello | c,xoxo |
 | 45 | ![Cover](https://i.discogs.com/zX3QbWR3O7vRy26rRPd5C1E7VhJ6PL6kIhcaBslAUXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTEz/NTE4LTE2NTg1MzY4/NjYtNDk4Ny5wbmc.jpeg) | 2024-08-23 | Drake | her loss |
+| 81 |  |  | ¥$ | Vultures 1 |
 
 ### Related genres
 

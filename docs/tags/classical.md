@@ -9,13 +9,14 @@ title: classical
 
 Last updated: <time datetime="2025-10-28T08:16:55.772Z">Tue Oct 28 2025 10:16:55 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Classical music is a Western art tradition spanning roughly 1650-1900, characterized by orchestral instruments, complex harmonies, and structured compositions like symphonies and concertos. It emphasizes technical mastery, emotional expression, and timeless beauty through carefully notated scores. The genre remains culturally significant for its influence on all modern music and enduring concert hall performances.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 11 |  |  | Николай Римский-Корсаков | Scheherazade |
-| 68 |  |  | Alexander Scriabin | Scriabin: Preludes, Vol. 1 |
-| 88 |  |  | Modest Petrovich Mussorgsky | Pictures at an Exhibition |
 | 100 | ![Cover](https://i.discogs.com/ukMAcgZENLRXwigpQvkr0jcF1t1XSrBW_tp_Y5xeXRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjUy/NTUtMTQ0OTI2OTY2/NS0xOTQ1LmpwZWc.jpeg) | 1957 | Edvard Grieg | Peer Gynt |
 | 81 | ![Cover](https://i.discogs.com/y_38kJ2zbJkKfntpFE4KjhHwpKYD2SsOr7PuzLssBCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY0/NzAwLTE1ODg1MjU2/MzgtMjc1NC5qcGVn.jpeg) | 1960 | Johann Sebastian Bach | Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster) |
 | 59 | ![Cover](https://i.discogs.com/ncLuBtIePKSv73twLOzqi4b7KCjEHJIhFT5qFarYh7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg4/MzIzLTE1MDI0NTEz/NTItMzc5Ny5qcGVn.jpeg) | 1963 | Pyotr Ilyich Tchaikovsky | The Nutcracker |
@@ -113,6 +114,9 @@ Last updated: <time datetime="2025-10-28T08:16:55.772Z">Tue Oct 28 2025 10:16:55
 | 97 | ![Cover](https://i.discogs.com/lfovrqAczNfE3g-tn8obCgQtotRMZDamrnmA-Vd50Sk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjk2/OTA2LTE2NTYyMzk5/OTEtNDkyOS5qcGVn.jpeg) | 2022-04-08 | Son Lux | Everything Everywhere All at Once (Original Motion Picture Soundtrack) |
 | 30 | ![Cover](https://i.discogs.com/0qRBmhLVkC24tJXa7XnZATQuA1CYs2HBeLGuhXmGkJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM4/OTUzLTE2ODIxMzI1/MzQtOTM1Mi5qcGVn.jpeg) | 2023-02-02 | Claude Debussy | The Ultimate Most Relaxing Classics For Kids In The Universe |
 | 85 | ![Cover](https://i.discogs.com/0qRBmhLVkC24tJXa7XnZATQuA1CYs2HBeLGuhXmGkJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODM4/OTUzLTE2ODIxMzI1/MzQtOTM1Mi5qcGVn.jpeg) | 2024-02-23 | Claude Debussy | Debussy: Clair de Lune and Other Piano Favourites |
+| 11 |  |  | Николай Римский-Корсаков | Scheherazade |
+| 68 |  |  | Alexander Scriabin | Scriabin: Preludes, Vol. 1 |
+| 88 |  |  | Modest Petrovich Mussorgsky | Pictures at an Exhibition |
 
 ### Related genres
 

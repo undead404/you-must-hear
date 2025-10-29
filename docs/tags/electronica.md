@@ -9,6 +9,10 @@ title: electronica
 
 Last updated: <time datetime="2025-10-28T04:56:26.130Z">Tue Oct 28 2025 06:56:26 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Electronica is an umbrella term for electronic music designed for listening rather than dancing, emerging from 1990s experimental club culture. The genre blends synthesizers, drum machines, and samples to create atmospheric, often downtempo soundscapes that range from ambient to glitchy. It emphasizes innovation and artistic expression over conventional song structures.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |

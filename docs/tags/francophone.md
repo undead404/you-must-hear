@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T09:48:00.051Z
+date: 2025-10-29T07:40:48.615Z
 permalink: tags/francophone
 title: francophone
 ---
 
 ## francophone
 
-Last updated: <time datetime="2025-10-28T09:48:00.051Z">Tue Oct 28 2025 11:48:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-29T07:40:48.615Z">Wed Oct 29 2025 09:40:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -36,27 +36,27 @@ Last updated: <time datetime="2025-10-28T09:48:00.051Z">Tue Oct 28 2025 11:48:00
 | 68 |  | 1995-04-13 | Thomas Fersen | Les Ronds de Carotte |
 | 14 |  | 1995-12-12 | Mylène Farmer | L&#39;instant X |
 | 24 |  | 1996 | France Gall | France |
-| 7 |  | 1996-03-12 | The Nylons | Run For Cover |
+| 6 |  | 1996-03-12 | The Nylons | Run For Cover |
 | 52 | ![Cover](https://i.discogs.com/6TqGPYIS8JVZWFsLjAchAEQ2WHk5ZH1OSGYbThbzk0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzk0/NjMtMTM2NDkxNTcy/MS03OTQ1LmpwZWc.jpeg) | 1997 | Dalida | L&#39;an 2005 |
+| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/63276e31fc08e1b38f99d1c281c068ee.png) | 1997-01-06 | Trust | Anti Best Of |
 | 36 |  | 1997-04-28 | Art Mengo | Live au Mandala |
-| 1 | ![Cover](https://i.discogs.com/_DSbx7yDY0LOk8aJizZ6T0KxhVbXycEa74uwyRVxgbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDAx/MTg5LTE1MjYzMjU2/MDQtMTMxNi5qcGVn.jpeg) | 1998 | Isabelle Boulay | Etats D&#39;Amour |
-| 11 |  | 1998 | Dalida | Le Rêve Oriental |
-| 3 | ![Cover](https://i.discogs.com/NLlLqPRLyVX9IaPHSlBCwiTGjImn1oJ_4Z7sme38Ec0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTMw/ODMtMTQwMDY4OTgx/Ni0yNDQ0LmpwZWc.jpeg) | 1998-11 | Kassav&#39; | Un Toque Latino |
+| 10 |  | 1998 | Dalida | Le Rêve Oriental |
+| 2 | ![Cover](https://i.discogs.com/NLlLqPRLyVX9IaPHSlBCwiTGjImn1oJ_4Z7sme38Ec0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTMw/ODMtMTQwMDY4OTgx/Ni0yNDQ0LmpwZWc.jpeg) | 1998-11 | Kassav&#39; | Un Toque Latino |
 | 30 |  | 1999 | Loco Locass | Manifestif |
 | 78 |  | 1999 | Babylon Circus | Tout Va Bien |
 | 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/83e720b57ddbfd827442ffdf8fef931e.png) | 1999-01-25 | Liane Foly | Acoustique |
 | 18 | ![Cover](https://i.discogs.com/AoB85LgE4LSIk6FudklgDzMAMB2DQNGC58ADY8hmCK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTEw/MzItMTIxNzM3NDcy/Ni5qcGVn.jpeg) | 1999-02 | Bisso na Bisso | Racines |
-| 49 |  | 1999-09 | Katerine | L&#39;homme à 3 mains |
 | 71 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3b304257da1e423f80c467081ffaaf5d.png) | 1999-09-07 | Dionysos | Haïku |
+| 49 |  | 1999-09 | Katerine | L&#39;homme à 3 mains |
 | 67 | ![Cover](https://i.discogs.com/HmtYPNM4LgaJZX2Ep4zh5l0gZSlIaOctPQw_oLLJjNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcx/MDA1LTE1NDE2MTgz/NDItOTQxNC5qcGVn.jpeg) | 2000 | Isabelle Boulay | Mieux Qu&#39;Ici-Bas |
 | 99 |  | 2000 | Garou | Seul |
 | 55 |  | 2000-10-10 | Mes Aïeux | Ça Parle Au Diable |
-| 6 |  | 2001 | DobaCaracol | Le calme-son |
+| 5 |  | 2001 | DobaCaracol | Le calme-son |
 | 43 |  | 2001-10-23 | Thomas Fersen | Triplex |
-| 10 | ![Cover](https://i.discogs.com/NbCS3noXsLHDEaGNEAzVDA16Qsf7cGHGnBGfognWVHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzgy/OTUxLTE2MzU1ODUz/MzMtNDU4Ni5qcGVn.jpeg) | 2002 | Alain Souchon | Écoutez d&#39;où ma peine vient |
+| 9 | ![Cover](https://i.discogs.com/NbCS3noXsLHDEaGNEAzVDA16Qsf7cGHGnBGfognWVHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzgy/OTUxLTE2MzU1ODUz/MzMtNDU4Ni5qcGVn.jpeg) | 2002 | Alain Souchon | Écoutez d&#39;où ma peine vient |
 | 15 |  | 2002-01-08 | Armens | Une ombre |
 | 91 |  | 2002-04-22 | Keren Ann | La Disparition |
-| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/33b66a268ba8479f93c8208fd55ca97a.png) | 2002-05-28 | Renaud | Boucan D&#39;enfer |
+| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/33b66a268ba8479f93c8208fd55ca97a.png) | 2002-05-28 | Renaud | Boucan D&#39;enfer |
 | 73 | ![Cover](https://i.discogs.com/ZEcycHEuG6p8IcNr9GNXpavwqrGZbD9oPWwdZ_5VVyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTQy/MzItMTQ0ODgwNzQy/OC0xNTcwLmpwZWc.jpeg) | 2002-06-04 | Ariane Moffatt | Aquanaute |
 | 85 |  | 2002-09-24 | Mathieu Boogaerts | 2000 |
 | 83 |  | 2002-12-03 | Jean Leloup | La vallée des réputations |
@@ -64,7 +64,7 @@ Last updated: <time datetime="2025-10-28T09:48:00.051Z">Tue Oct 28 2025 11:48:00
 | 86 |  | 2003 | Garou | Reviens |
 | 66 | ![Cover](https://i.discogs.com/_96dtmbj4kSnUX1wCXf3zDv0pwsBefWvCxk-EHR4sfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTMx/MDgtMTQ2MzAzNjA5/OC0yMjg1LmpwZWc.jpeg) | 2003-03-08 | Alizée | Mes courants électriques... |
 | 76 |  | 2003-04-29 | Dumas | Le cours des jours |
-| 8 | ![Cover](https://i.discogs.com/BdBb_EGuCoYXF9FQulQ4qAwpx3iayVasbvLpSt5SZTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzM2/MTItMTMyMzQxMDQ5/My5qcGVn.jpeg) | 2004 | Dumas | Ferme la radio |
+| 7 | ![Cover](https://i.discogs.com/BdBb_EGuCoYXF9FQulQ4qAwpx3iayVasbvLpSt5SZTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzM2/MTItMTMyMzQxMDQ5/My5qcGVn.jpeg) | 2004 | Dumas | Ferme la radio |
 | 94 |  | 2004-02-17 | Malajube | Le compte complet |
 | 87 |  | 2004-03-01 | Miossec | 1964 |
 | 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e10df2d53c444d43a89fd209f5a5fb2e.png) | 2004-04-06 | Luke | La Tête en Arrière |
@@ -84,35 +84,35 @@ Last updated: <time datetime="2025-10-28T09:48:00.051Z">Tue Oct 28 2025 11:48:00
 | 51 |  | 2006-03-27 | Grand Corps Malade | Midi 20 |
 | 84 |  | 2006-09-05 | Les Trois Accords | Grand champion international de course |
 | 70 |  | 2006-10-02 | CALI | Le Bordel Magnifique |
+| 98 | ![Cover](https://i.discogs.com/TsR-gSnemKKVfMOxtdARBWa6PjFWSWyCx8IwJmm3SIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY1/NDYyLTE1MTg2MDI3/MDgtOTk3Mi5qcGVn.jpeg) | 2006-11-07 | Numéro# | L&#39;Idéologie Des Stars |
 | 33 | ![Cover](https://i.discogs.com/V9yUDfrKJuP6xmeZFpIHOfl5xn_OB7Y-xfTTmtHap98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQ5/MjYtMTIxMzE3NDgy/MC5qcGVn.jpeg) | 2007 | Miou Miou | Lala Grande Finale |
 | 37 | ![Cover](https://i.discogs.com/pKEVkSc4Na2_25vFNfnBI4xpBtrOSw-YFEqxKNanl0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzI3/MTgtMTI1NDM5NzYw/My5qcGVn.jpeg) | 2007 | Helena Noguerra | Fraise Vanille |
-| 9 |  | 2007-08-18 | Kaïn | Les Saisons S&#39;tassent |
+| 8 |  | 2007-08-18 | Kaïn | Les Saisons S&#39;tassent |
 | 21 |  | 2007-09-07 | Benjamin Biolay | Trash yéyé |
 | 60 |  | 2007-11-11 | Alizée | Psychédélices |
 | 58 | ![Cover](https://i.discogs.com/KIIe_4ZchgVrNj2_j_74sWw7g5fSI3BmzOU8CTwKM28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTM4/MzAtMTIzNzY5MTEz/OC5qcGVn.jpeg) | 2007-12-03 | Alizée | Psychedelices |
 | 63 |  | 2008-02-01 | CALI | L&#39;espoir |
+| 93 |  | 2008-04-22 | Ariane Moffatt | Tous les sens |
 | 13 | ![Cover](https://i.discogs.com/AK5eB3Lom_IAUcNrDyxuIuDYZW-dplpbx2xB6VHzI3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI4/MjAtMTQ2ODkzOTMw/OC0yNDg0LmpwZWc.jpeg) | 2008-08-18 | Mylène Farmer | Appelle Mon Numéro (Remixes) |
 | 39 |  | 2008-09-08 | Lisa | Drôle De Creepie |
 | 44 |  | 2008-09-09 | Caracol | L&#39;Arbre Aux Parfums |
 | 89 |  | 2008-09-23 | Les Cowboys Fringants | L&#39;expédition |
-| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/230f3aebdae649ba9065b191eb491ddc.png) | 2008-10-14 | Les Cowboys Fringants | sur un air de déjà vu |
-| 59 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/15925ad805c047e1867593520e6fd1b8.png) | 2009-09-22 | Marie-Mai | Version 3.0 |
-| 26 | ![Cover](https://i.discogs.com/3z7Pqo8IR4hNVHfQpZRxi-62jz2SKRPKZR2WqnJR9kc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTEw/MTctMTMwNjg3MDA4/Ny5qcGVn.jpeg) | 2011-02-01 | Jorane | Une sorcière comme les autres |
-| 65 |  |  | Hot Caribbean Miziks | Hot Caribbean Miziks Vol.02 |
-| 98 | ![Cover](https://i.discogs.com/TsR-gSnemKKVfMOxtdARBWa6PjFWSWyCx8IwJmm3SIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY1/NDYyLTE1MTg2MDI3/MDgtOTk3Mi5qcGVn.jpeg) | 2006-11-07 | Numéro# | L&#39;Idéologie Des Stars |
-| 93 |  | 2008-04-22 | Ariane Moffatt | Tous les sens |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/230f3aebdae649ba9065b191eb491ddc.png) | 2008-10-14 | Les Cowboys Fringants | sur un air de déjà vu |
 | 88 |  | 2009-09-11 | Irie Révoltés | Zeit ist Geld |
+| 59 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/15925ad805c047e1867593520e6fd1b8.png) | 2009-09-22 | Marie-Mai | Version 3.0 |
 | 72 |  | 2010-10-11 | Mylène Farmer | Oui Mais... Non |
+| 26 | ![Cover](https://i.discogs.com/3z7Pqo8IR4hNVHfQpZRxi-62jz2SKRPKZR2WqnJR9kc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTEw/MTctMTMwNjg3MDA4/Ny5qcGVn.jpeg) | 2011-02-01 | Jorane | Une sorcière comme les autres |
 | 25 | ![Cover](https://i.discogs.com/7mtixVt_ZD0lCPslayOUFyadO6sY1qm85VXnKj80fG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDYz/MDMtMTY1MjI4MzY3/Ny00ODM1LmpwZWc.jpeg) | 2012 | Caracol | Blanc Mercredi |
 | 48 |  | 2012-09-17 | Marie-Mai | Miroir |
 | 22 |  | 2013-02-05 | VioleTT Pi | Ev |
 | 34 | ![Cover](https://i.discogs.com/SJvgRigWXIrTUyBzmr4Udk_3c0Ud9hJiODN0UzDLOUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODY3/ODgtMTQ2NjYxMDYz/MS0yMDczLmpwZWc.jpeg) | 2013-02-05 | VioleTT Pi | Violett Pi |
-| 5 | ![Cover](https://i.discogs.com/IwKXmu7zB6vBJ-R4SHihkJQoobRgItJC6dmDRRPBwl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDY5/OTUtMTQ1OTgxNTcy/Ni00NjIwLmpwZWc.jpeg) | 2014 | Willows | Willows |
+| 4 | ![Cover](https://i.discogs.com/IwKXmu7zB6vBJ-R4SHihkJQoobRgItJC6dmDRRPBwl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDY5/OTUtMTQ1OTgxNTcy/Ni00NjIwLmpwZWc.jpeg) | 2014 | Willows | Willows |
 | 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6e49052bbc3473d3f41760b146134429.png) | 2019 | Bon Enfant | Bon Enfant |
 | 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5c5af37734a0f5f5411a8b74ab7d014b.png) | 2019-11-01 | Chocolat | Jazz engagé |
 | 40 | ![Cover](https://i.discogs.com/UYOdyd6x2Xref8WB5vmx6V_hfcKh5UcNtfL4XqKxLQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjc5/MTEwLTE1NTg4NzI3/MDktODcyMy5qcGVn.jpeg) | 2021-06-18 | L&#39;Algérino | Moonlight |
 | 23 | ![Cover](https://i.discogs.com/5JWmjVQqLn6-nGeU9DTrwIF0I8PwQ15_yVFipQiO-jE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjA4/MzE1LTE3MzEyMzYx/MjgtMjc0OS5qcGVn.jpeg) | 2022-08 | Samuel Sixto | le dernier qui sort eteint la lumiere |
 | 100 | ![Cover](https://i.discogs.com/25plklQzBnOLYWB9-VNctIvSUWJ9jY9iGmrRPOdJyrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjUz/MjMwLTE2NjY3MTcy/MTEtMzc1MS5qcGVn.jpeg) | 2024 | Emma Peters | Emma Peters (Remixed) |
+| 65 |  |  | Hot Caribbean Miziks | Hot Caribbean Miziks Vol.02 |
 
 ### Related genres
 

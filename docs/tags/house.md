@@ -9,6 +9,10 @@ title: house
 
 Last updated: <time datetime="2025-10-28T04:56:54.614Z">Tue Oct 28 2025 06:56:54 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+House is an electronic dance music genre born in 1980s Chicago, characterized by repetitive 4&#x2F;4 beats, synthesized basslines, and soulful vocals. It emphasizes rhythm and groove over melody, designed to keep people moving on the dancefloor. The genre has evolved into numerous subgenres, from deep house to tropical house, influencing pop music worldwide.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -65,7 +69,7 @@ Last updated: <time datetime="2025-10-28T04:56:54.614Z">Tue Oct 28 2025 06:56:54
 | 47 |  | 2012-02-26 | Madeon | Icarus |
 | 26 |  | 2012-07-16 | Madeon | Finale |
 | 73 |  | 2012-08-04 | Alesso | Years |
-| 80 | ![Cover](https://i.discogs.com/VgDq4L-C9X1CiMw7sKJwyVx1ffxTN3Vq8dDWss7NnO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mjc1/ODctMTM0OTUyODE2/MS00MDg2LmpwZWc.jpeg) | 2012-09-14 | Swedish House Mafia | Don&#39;t You Worry Child |
+| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1a0e4f50e2d4611b8956f7f15f0b00aa.png) | 2012-09-14 | Swedish House Mafia | Don&#39;t You Worry Child |
 | 74 |  | 2012-10-02 | Zedd | Clarity |
 | 63 |  | 2012-10-23 | Chris Malinchak | So Good to Me |
 | 75 |  | 2012-10-26 | Calvin Harris | 18 Months |
@@ -88,20 +92,19 @@ Last updated: <time datetime="2025-10-28T04:56:54.614Z">Tue Oct 28 2025 06:56:54
 | 88 | ![Cover](https://i.discogs.com/SbEjerLoKl8yx64IHFOorhvpjZdYnofXOV5-xNiCmmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDgz/ODMtMTQ0Nzk2NTAw/OC0xMjE2LmpwZWc.jpeg) | 2015-07-24 | Mike Posner | I Took A Pill In Ibiza (SeeB Remix) |
 | 29 | ![Cover](https://i.discogs.com/DGj-6z6nFPHA4Erlz30aWIZuK9PGboKuHqdzJ6JwQ3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTg4/MDM1LTE2MzQyMjQz/OTktNjkzOC5qcGVn.jpeg) | 2015-12-21 | Aurora | Giving In To The Love |
 | 87 | ![Cover](https://i.discogs.com/wFnno0-KRyGb2S_6hd0K_65SDuVQCl9Q3lqoSlKehhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTQ1/NDItMTQ4MzM2NTc3/MC01MDk0LmpwZWc.jpeg) | 2016 | OFENBACH | Be Mine |
-| 52 | ![Cover](https://i.discogs.com/seXYooRKkp8vbiXLp2i7YbCtc5JHL3CyzLiKzE7twBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mzg3/NjMtMTQ4MjMzNjY1/OC04MzY2LmpwZWc.jpeg) | 2016-12 | Alan Walker | Alone |
 | 43 | ![Cover](https://i.discogs.com/E5uZYYo4lz59AgmfnKd3aNKqeUH2ew3WQUkt3o92AWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjQ5/NDUtMTQ4NDQyMDQ1/NS0zMzc5LmpwZWc.jpeg) | 2016-12-19 | Timmy Trumpet | Oracle |
+| 52 | ![Cover](https://i.discogs.com/seXYooRKkp8vbiXLp2i7YbCtc5JHL3CyzLiKzE7twBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mzg3/NjMtMTQ4MjMzNjY1/OC04MzY2LmpwZWc.jpeg) | 2016-12 | Alan Walker | Alone |
 | 97 | ![Cover](https://i.discogs.com/F3-6XZn6E4sTbEHh-FeSxtTfRpbur1ScEBwPjHVSeX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Njgw/ODAtMTQ4NDQ3NzA5/NC03OTc3LmpwZWc.jpeg) | 2017 | The Chainsmokers | Paris |
 | 70 | ![Cover](https://i.discogs.com/IeHgK3G_60-xTog3QffPOeiHHcJyDhbZVHkDBG5-FoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg1/Mzk4LTE1NDQ1ODMz/MDEtOTA0NC5qcGVn.jpeg) | 2017-04-07 | The Chainsmokers | Memories...Do Not Open |
 | 44 | ![Cover](https://i.discogs.com/LyXKUjozj2f8PoLvq8HCUZwuv4IIrQpLlM4lrK8tOM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzUx/NTQ2LTE0OTU4MjEz/OTItMzExNi5qcGVn.jpeg) | 2017-05-24 | Axwell &#x2F;\ Ingrosso | More Than You Know |
 | 32 | ![Cover](https://i.discogs.com/90WrKRIHupl8qK5gaY9muWsCmUfKINFP-B5XHmnuaPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/Mjg2LTE1NTEzODA3/NTItMjI4OS5qcGVn.jpeg) | 2017-11-03 | Kygo | Kids in Love |
+| 93 | ![Cover](https://i.discogs.com/90WrKRIHupl8qK5gaY9muWsCmUfKINFP-B5XHmnuaPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/Mjg2LTE1NTEzODA3/NTItMjI4OS5qcGVn.jpeg) | 2017-11-03 | Kygo | Higher Love |
 | 48 | ![Cover](https://i.discogs.com/tSDizsF0MrFopBQTyj2Szz5QAtAvxMzCetVF7iZhLQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQx/MTE3LTE1MTYzODc0/OTctMjU4MS5qcGVn.jpeg) | 2018 | The Chainsmokers | Sick Boy |
 | 35 | ![Cover](https://i.discogs.com/zEsdsi_HQjr-GfIF93Di858Kb1naTAqlccFquc6j32k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk4/MjA5LTE1MzQ0NjQx/NDktODY0My5qcGVn.jpeg) | 2018-08-17 | Jess Glynne | All I Am |
 | 56 | ![Cover](https://i.discogs.com/6QGddIFqVN--MJ-kM025C2k1ERKFbG02ODh55i5xAok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDQw/NTgzLTE2NTkxNDM1/NTEtNTIyNC5qcGVn.jpeg) | 2018-08-17 | Aurora | A Potion For Love |
 | 57 | ![Cover](https://i.discogs.com/KTyexO4SBgWeLZi_EZuAuIwyeBJp_w_Fw_lht_ZtxMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA2/NDk4LTE2MTIxNzIx/MjctMTE5NC5qcGVn.jpeg) | 2018-10-16 | Billie Eilish | Ocean Eyes (The Remixes) |
 | 2 | ![Cover](https://i.discogs.com/GDwyWOor8ffKKhiAXSNXA-dpetMC5xGkBiIwi5vIyGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM2/NDk4LTE1NzQ1MDcw/MTktMTQ4NC5qcGVn.jpeg) | 2019-04-05 | Aurora | The Seed |
 | 25 | ![Cover](https://i.discogs.com/oP7cJKLNZ4qIk0j4VNuymtPbRSIW6EtUtIsUJXdX-9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTU0/MTAzLTE2NTUwNjY1/NTgtNzE5MC5qcGVn.jpeg) | 2019-11-28 | Aurora | Walking In The Air |
-| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d2b0d772ac7b9587ed44ed10c481f832.png) |  | Lady Gaga | Rain on Me (with Ariana Grande) |
-| 93 | ![Cover](https://i.discogs.com/90WrKRIHupl8qK5gaY9muWsCmUfKINFP-B5XHmnuaPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/Mjg2LTE1NTEzODA3/NTItMjI4OS5qcGVn.jpeg) | 2017-11-03 | Kygo | Higher Love |
 | 94 | ![Cover](https://i.discogs.com/RngtQY6boGZ_xQPcVQJMftmYkNJ6nQvS6DPc_lIU6oc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDUz/OTMzLTE1OTE3OTI5/ODYtMzU2Ny5qcGVn.jpeg) | 2020-05-29 | Kygo | Stole The Show |
 | 79 | ![Cover](https://i.discogs.com/TTZpA5v7QIs2X0MFZ4fFEw8awCenM9dD_g6-vQvXayY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTAy/Nzk3LTE2MDM0NzAy/OTctMTc0MS5qcGVn.jpeg) | 2020-10-30 | Ariana Grande | yes, and? |
 | 66 | ![Cover](https://i.discogs.com/zQQoFlFm4w648KFYfSMnr2Ta3NbjnccDZ1iSmSTCDJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzU5/NzEtMTQ1NzY5NDI4/NS04MTE4LmpwZWc.jpeg) | 2021-05-21 | Kungs | This Girl (Kungs Vs. Cookin&#39; On 3 Burners) |
@@ -113,6 +116,7 @@ Last updated: <time datetime="2025-10-28T04:56:54.614Z">Tue Oct 28 2025 06:56:54
 | 19 | ![Cover](https://i.discogs.com/tRonSDISiARhzo8GBcfWDofX2q2EvXm3PNOdscPtWA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU3/NTU0LTE2NzYwNTY3/ODItMTM0OS5qcGVn.jpeg) | 2023-02-13 | Pabllo Vittar | Noitada |
 | 6 | ![Cover](https://i.discogs.com/vIQ563VfleiNIM5OPa2TSHMP1IpTFDRU8LO5IwEUSkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjYw/OTcwLTE2ODU2Nzcz/NjgtNDQxNC5wbmc.jpeg) | 2023-06-23 | Berlioz | jazz is for ordinary people |
 | 65 | ![Cover](https://i.discogs.com/XP1UoO8bQ_y_S9pJ3UVQXxXwsJD4F4Qr_pUWima_IW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTcx/Mzc3LTE2OTc3Mzk1/NzYtMTkxNC5qcGVn.jpeg) | 2023-10-13 | Troye Sivan | Something To Give Each Other |
+| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d2b0d772ac7b9587ed44ed10c481f832.png) |  | Lady Gaga | Rain on Me (with Ariana Grande) |
 
 ### Related genres
 

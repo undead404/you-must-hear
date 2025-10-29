@@ -9,6 +9,10 @@ title: grunge
 
 Last updated: <time datetime="2025-10-29T03:12:39.301Z">Wed Oct 29 2025 05:12:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Grunge emerged from Seattle in the late 1980s, blending punk&#39;s raw energy with heavy metal&#39;s distorted guitars and introspective lyrics. The genre rejected polished production and glamorous aesthetics in favor of an authentic, anti-establishment sound. Its angst-filled themes resonated with disaffected youth, making it the defining rock movement of the early 1990s.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |

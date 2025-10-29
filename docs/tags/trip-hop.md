@@ -9,6 +9,10 @@ title: trip-hop
 
 Last updated: <time datetime="2025-10-24T22:45:20.397Z">Sat Oct 25 2025 01:45:20 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Trip-hop is a moody, atmospheric genre that emerged from British club culture in the 1990s, blending hip-hop beats with dark electronic textures, jazz samples, and ethereal vocals. The music typically features slow, hypnotic rhythms and a cinematic quality that evokes urban nightscapes. Its melancholic yet sophisticated sound bridges experimental electronic music with accessible pop sensibilities.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -92,9 +96,9 @@ Last updated: <time datetime="2025-10-24T22:45:20.397Z">Sat Oct 25 2025 01:45:20
 | 67 | ![Cover](https://i.discogs.com/A_NYgHUtATaZGgaLvAGNBVr4WdxcFy6YIXCumSrkn08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTMz/MjgtMTIwNDI0MjM0/MC5qcGVn.jpeg) | 2008-02-06 | Goldfrapp | Seventh Tree |
 | 95 | ![Cover](https://i.discogs.com/yxtmTBf8VD0v6ZVR8S83Sz_b-_ESjAqY0Mq4ZPZ8wf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcz/MTQtMTQ2MTYwNzQx/Mi01ODk1LmpwZWc.jpeg) | 2008-04-08 | Portishead | Third |
 | 30 | ![Cover](https://i.discogs.com/ly5OWhjf7cxVe5p6P7BH_W9RhwVaKyV8_sGbt5iLlTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTAy/ODItMTY2ODg1ODgy/NC02MzMwLmpwZWc.jpeg) | 2009-08-17 | Little Dragon | Machine Dreams |
+| 89 |  | 2009-09-15 | Phantogram | Eyelid Movies |
 | 5 | ![Cover](https://i.discogs.com/B1RHEiDlA9n_-b1KEM98y1E2obgVFUX-2vRUhVZhjvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTE0/MjQtMTMzODkyMDE1/MS0yOTgyLmpwZWc.jpeg) | 2009-09 | Massive Attack | Splitting the Atom |
 | 15 |  | 2009-09 | Blockhead | The Music Scene |
-| 89 |  | 2009-09-15 | Phantogram | Eyelid Movies |
 | 94 |  | 2010-02-03 | Massive Attack | Heligoland |
 | 76 |  | 2010-03-13 | Bonobo | Black Sands |
 | 75 | ![Cover](https://i.discogs.com/z2lDYVa8FIS1ejW69qNGu-qCWFRkP8qKyfJVgbAswIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODk1/MzMtMTM5MTUxNzMx/NC0xNTE0LmpwZWc.jpeg) | 2011-05-13 | Little Dragon | Ritual Union |
