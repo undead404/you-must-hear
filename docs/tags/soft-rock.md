@@ -1,21 +1,28 @@
 ---
 category: genre
-date: 2025-10-28T05:58:38.273Z
+date: 2025-10-29T00:47:20.957Z
 permalink: tags/soft-rock
 title: soft rock
 ---
 
 ## soft rock
 
-Last updated: <time datetime="2025-10-28T05:58:38.273Z">Tue Oct 28 2025 07:58:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-29T00:47:20.957Z">Wed Oct 29 2025 02:47:20 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Soft rock is a genre of music that emerged in the late 1960s and early 1970s as a more mellow and easy-listening form of rock music. It is characterized by its emphasis on melody and harmony, and its smooth, polished sound that often includes the use of acoustic guitars, keyboards, and string sections.
+
+Soft rock is often associated with romantic and sentimental themes, and its lyrics often deal with topics such as love, heartbreak, and nostalgia. Some of the most popular soft rock artists of all time include the Eagles, Fleetwood Mac, James Taylor, Carole King, and Elton John. Soft rock has continued to evolve over time, with newer artists like John Mayer and Ed Sheeran continuing to draw from the genre&#39;s melodic and emotional sensibilities.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | Carpenters | Carpenters |
 | 62 |  | 1969 | Neil Diamond | Sweet Caroline |
-| 3 | ![Cover](https://i.discogs.com/9sx8-NU22_54BRwqJcbCSWpdlpmKIpjRO7oPsijDUwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIw/MzQtMTcxNzM1OTk4/My02NTIwLmpwZWc.jpeg) | 1970 | Mungo Jerry | In The Summertime |
+| 1 |  | 2003-01-30 | John Mayer | Any Given Thursday |
+| 2 |  |  | Carpenters | Carpenters |
+| 4 | ![Cover](https://i.discogs.com/9sx8-NU22_54BRwqJcbCSWpdlpmKIpjRO7oPsijDUwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIw/MzQtMTcxNzM1OTk4/My02NTIwLmpwZWc.jpeg) | 1970 | Mungo Jerry | In The Summertime |
 | 82 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/86ff0f0d2e144c8c463c9161c34a9a00.png) | 1971 | America | America |
 | 10 |  | 1972 | Bread | Baby I&#39;m-A Want You |
 | 25 |  | 1972 | Albert Hammond | It Never Rains in Southern California |
@@ -56,7 +63,6 @@ Last updated: <time datetime="2025-10-28T05:58:38.273Z">Tue Oct 28 2025 07:58:38
 | 47 | ![Cover](https://i.discogs.com/PXXuq_T90r7TynlHMiwF16OcJyYEz9MaBksVMLTaVXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjUy/OTM0LTE2OTUwMDc4/NjAtNzM4MS5qcGVn.jpeg) | 1992-11-01 | Whitesnake | Whitesnake (2018 Remaster) |
 | 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b0fc63d436aeb3ba7c4f49c247accf31.png) | 1993-02-28 | Sting | Ten Summoner&#39;s Tales |
 | 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/166107697b3ee91d320d500869e3b87e.png) | 1995-11-20 | Don Henley | Actual Miles: Henley&#39;s Greatest Hits |
-| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f4c1cc30185dad90ee5b99b04371dc61.png) | 1996-03-22 | Mark Knopfler | Golden Heart |
 | 71 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c601a68cbd0db68c76071df58d7e6ce2.png) | 1996-10-22 | Phil Collins | Face Value (Deluxe Editon) |
 | 28 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1f56fe49ac3e482e95c09f595d0e4a85.png) | 1997 | Sister Hazel | ...Somewhere More Familiar |
 | 11 |  | 1997-11-04 | Richard Marx | Greatest Hits |
@@ -81,7 +87,7 @@ Last updated: <time datetime="2025-10-28T05:58:38.273Z">Tue Oct 28 2025 07:58:38
 | 58 | ![Cover](https://i.discogs.com/C_HgMEbqZ4Xkr7KSNxoQEDHkvKxzYM4_v6dJGsHI65w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODg1/MTctMTM0NDQ0NTk5/Ni00NjAzLmpwZWc.jpeg) | 2012 | HAIM | Forever EP |
 | 96 | ![Cover](https://i.discogs.com/frfR8fEy11EsF2ZkqJ0QTzbkauma-WcIyomBFaLP3u0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjU0/MjA5LTE2MzU2MzU1/MjQtMTM0Ni5qcGVn.jpeg) | 2012 | Lana Del Rey | Blue Banisters |
 | 99 | ![Cover](https://i.discogs.com/pnBFoKpsvWrXosEaw_eM2xJaPxEJVJmERwh4ITLfHig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYy/MTc3LTE1Nzg2OTI0/MTQtMzA4MS5qcGVn.jpeg) | 2012 | Lana Del Rey | Norman Fucking Rockwell! |
-| 2 | ![Cover](https://i.discogs.com/kkFF7-G-qYGTz4Aez83dkzhoJUaRr_QSXOpHdqoHMnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Nzg3/MDUtMTM2NjAyNTg1/MC04NjgwLnBuZw.jpeg) | 2013-04-15 | Jessie Ware | Devotion - The Gold Edition |
+| 3 | ![Cover](https://i.discogs.com/kkFF7-G-qYGTz4Aez83dkzhoJUaRr_QSXOpHdqoHMnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Nzg3/MDUtMTM2NjAyNTg1/MC04NjgwLnBuZw.jpeg) | 2013-04-15 | Jessie Ware | Devotion - The Gold Edition |
 | 85 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/433656941a78d5d94ef39ab8a7e65c5a.png) | 2013-09-27 | HAIM | Days Are Gone |
 | 24 |  | 2014-01-27 | Rodrigo Amarante | Cavalo |
 | 12 | ![Cover](https://i.discogs.com/FXBzrJdKIwhJqhlKw5Lgh8ferYuKpa4yKq9LxdQt-pc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTU4/ODA5LTE2MDQ0MzQy/ODUtMjk4My5qcGVn.jpeg) | 2014-08-03 | Jessie Ware | Tough Love (Deluxe) |
