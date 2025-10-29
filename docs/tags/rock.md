@@ -9,6 +9,10 @@ title: rock
 
 Last updated: <time datetime="2025-10-28T06:49:54.578Z">Tue Oct 28 2025 08:49:54 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Rock is a popular music genre characterized by electric guitars, strong rhythms, and energetic performances that emerged in the 1950s. It emphasizes powerful vocals and often rebellious themes, ranging from soft melodies to heavy, distorted sounds. Rock has profoundly shaped modern culture and continues to evolve across numerous subgenres.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -61,58 +65,58 @@ Last updated: <time datetime="2025-10-28T06:49:54.578Z">Tue Oct 28 2025 08:49:54
 | 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/09cb27a9f908354fd210a07830951791.png) | 2004-06-08 | My Chemical Romance | Three Cheers for Sweet Revenge |
 | 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5bcb675866706c229ad9f77188b8ac44.png) | 2004-09-20 | Green Day | American Idiot |
 | 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5e1c068bb8de41eaba667469ac732fc3.png) | 2004-10-26 | Flyleaf | Flyleaf |
-| 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/87b6a2a7893468bae2118ca55f87fb72.png) | 2005-03-22 | Lifehouse | Lifehouse |
-| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/271483e955d2b255160f3361a7f5fb78.png) | 2005-05-11 | Gorillaz | Demon Days |
-| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4799fa93e32360c802cd9b99e2a12a54.png) | 2005-07-26 | Paramore | All We Know Is Falling |
-| 72 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c46881ee723dc93c2a8b8ea7291585e5.png) | 2005-08-16 | 30 Seconds to Mars | A Beautiful Lie |
-| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dbbfffdb6896f562264bef91f16c9f3b.png) | 2006-01-01 | The Red Jumpsuit Apparatus | Don&#39;t You Fake It |
-| 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5e1480805bdf29da606e0de2ac07b205.png) | 2006-01-23 | Arctic Monkeys | Whatever People Say I Am, That&#39;s What I&#39;m Not |
-| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e6d4821f6a554c7bc882a9fa75070dfe.png) | 2006-06-28 | Muse | Black Holes and Revelations |
-| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/803243d801e34ea086447dd28dfe6aca.png) | 2006-07-17 | Paolo Nutini | These Streets |
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2e5b0bc8cf774381c37c150f159e58c4.png) | 2006-08-08 | Breaking Benjamin | Phobia |
-| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/aa8592aa8d444bdfcb69dbbe39c579b9.png) |  | Gerry Rafferty | City to City |
 | 28 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/39c3661deb1a495ab1a39861ca30bbea.png) | 2004-10-30 | Kings of Leon | Aha Shake Heartbreak |
 | 32 | ![Cover](https://i.discogs.com/NuiLwdSwLVp-5Aig7OHgMQL933IjmVSFm5J3BJsJ_Ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTg3/MTUtMTQzNjQzMjk2/NC04ODQwLmpwZWc.jpeg) | 2005 | Green Day | American Idiot (bonus disc) |
 | 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bc1ea275a6d04db08a4b3948b32a7c6c.png) | 2005-01-25 | Plain White T&#39;s | All That We Needed |
+| 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/87b6a2a7893468bae2118ca55f87fb72.png) | 2005-03-22 | Lifehouse | Lifehouse |
 | 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/73ff2d6aea6d465ac6b9a697ce4c6168.png) | 2005-05-03 | Fall Out Boy | From Under the Cork Tree |
+| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/271483e955d2b255160f3361a7f5fb78.png) | 2005-05-11 | Gorillaz | Demon Days |
 | 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/03b5b44e892541fabe3061c1d0df3683.png) | 2005-07-22 | The Fray | How to Save a Life |
+| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4799fa93e32360c802cd9b99e2a12a54.png) | 2005-07-26 | Paramore | All We Know Is Falling |
+| 72 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c46881ee723dc93c2a8b8ea7291585e5.png) | 2005-08-16 | 30 Seconds to Mars | A Beautiful Lie |
+| 66 | ![Cover](https://i.discogs.com/v1LMDqb7HPIt9_CmZINz9pv00whfnW_6lwCtpVXNSTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Mzkx/Ny0xMTY3MzY0NjEx/LmpwZWc.jpeg) | 2005-09-26 | Nickelback | All The Right Reasons |
 | 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/deb95261a54a87e861c15c611908abe2.png) | 2005-10-31 | Wolfmother | Wolfmother |
+| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dbbfffdb6896f562264bef91f16c9f3b.png) | 2006-01-01 | The Red Jumpsuit Apparatus | Don&#39;t You Fake It |
+| 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5e1480805bdf29da606e0de2ac07b205.png) | 2006-01-23 | Arctic Monkeys | Whatever People Say I Am, That&#39;s What I&#39;m Not |
+| 82 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f82b5bf3c51a659ed1f0e9f28a77af55.png) | 2006-04-26 | Snow Patrol | Eyes Open |
 | 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c65460d86d454f3388988c3acf876936.png) | 2006-05-05 | Red Hot Chili Peppers | Stadium Arcadium |
 | 41 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/03a98e38c34e1dce39f1e7397dbf25bb.png) | 2006-05-10 | The Raconteurs | Broken Boy Soldiers |
+| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e6d4821f6a554c7bc882a9fa75070dfe.png) | 2006-06-28 | Muse | Black Holes and Revelations |
+| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/803243d801e34ea086447dd28dfe6aca.png) | 2006-07-17 | Paolo Nutini | These Streets |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2e5b0bc8cf774381c37c150f159e58c4.png) | 2006-08-08 | Breaking Benjamin | Phobia |
 | 37 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a15c4f3ac52e8d53d14a1ae917c88a7b.png) | 2006-09-25 | Evanescence | The Open Door |
 | 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9c3d305fe2b74c7d80020ac641ff39ca.png) | 2006-09-26 | Tenacious D | The Pick of Destiny |
 | 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7675defb2787ce67cd030081eb8ff77c.png) | 2006-10-20 | My Chemical Romance | The Black Parade |
+| 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b01817dacd044f7d9389e6b69933330b.png) | 2007-02-05 | Fall Out Boy | Infinity on High |
 | 46 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3c737386c1604655951f7ee93231f29f.png) | 2007-04-02 | Kings of Leon | Because of the Times |
+| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/185a38ca7368d2c9ad9cb9ea95ae05f4.png) | 2007-05-11 | Linkin Park | Minutes to Midnight |
+| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b7a4b3000d0c431fbce299986ac51c48.png) | 2007-06-11 | Paramore | RIOT! |
 | 17 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a1a33e78e5ee4efab5827b28776795fb.png) | 2007-09-18 | Foo Fighters | Echoes, Silence, Patience &amp; Grace |
 | 35 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bf5a178a4591fb458533ffc8d1b907ba.png) | 2008-01-01 | Lenny Kravitz | It Is Time for a Love Revolution |
+| 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ad21ed6ff3724be7cb9812d4638eec8a.png) | 2008-04-11 | Paramore | Decode |
+| 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/df7ea51b2826b60175d4c332e0f7b8ca.png) | 2008-05-26 | Coldplay | Viva la Vida or Death and All His Friends |
 | 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/826cd46695ae445ca9db6ca7d694cdc0.png) | 2008-09-16 | Mother Mother | O My Heart |
+| 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2e89eb016a00f516b6bd2641a3ae838f.png) | 2008-09-19 | Kings of Leon | Only by the Night |
 | 47 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/67f65a24646b6ad7de63485b78a7a383.png) | 2009-02-03 | The Fray | The Fray |
 | 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/db822d6479fb3683562a36524c5c7465.png) | 2009-03-08 | Yeah Yeah Yeahs | It&#39;s Blitz! |
+| 92 |  | 2009-09-22 | Paramore | Brand New Eyes |
 | 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5dee59c598c84eb1a28ba3c303147100.png) | 2009-10-30 | Foo Fighters | Greatest Hits |
 | 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b243e3b226cf4b3089e166f30e2cb83c.png) | 2009-11-17 | OneRepublic | Waking Up |
 | 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eb6f14f415884737e197e6566355ac68.png) | 2010-08-27 | The Pretty Reckless | Light Me Up |
 | 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d59afb19a4cb41c785d613518a3eb641.png) | 2011-04-08 | Foo Fighters | Wasting Light |
-| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/919a1916404a2777163ed83f0057f9cb.png) | 2013-04-05 | Paramore | Paramore |
-| 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e68669788bdf8e102229b14ab3b64f15.png) |  | The Killers | Day &amp; Age |
-| 66 | ![Cover](https://i.discogs.com/v1LMDqb7HPIt9_CmZINz9pv00whfnW_6lwCtpVXNSTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Mzkx/Ny0xMTY3MzY0NjEx/LmpwZWc.jpeg) | 2005-09-26 | Nickelback | All The Right Reasons |
-| 82 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f82b5bf3c51a659ed1f0e9f28a77af55.png) | 2006-04-26 | Snow Patrol | Eyes Open |
-| 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b01817dacd044f7d9389e6b69933330b.png) | 2007-02-05 | Fall Out Boy | Infinity on High |
-| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/185a38ca7368d2c9ad9cb9ea95ae05f4.png) | 2007-05-11 | Linkin Park | Minutes to Midnight |
-| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b7a4b3000d0c431fbce299986ac51c48.png) | 2007-06-11 | Paramore | RIOT! |
-| 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ad21ed6ff3724be7cb9812d4638eec8a.png) | 2008-04-11 | Paramore | Decode |
-| 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/df7ea51b2826b60175d4c332e0f7b8ca.png) | 2008-05-26 | Coldplay | Viva la Vida or Death and All His Friends |
-| 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2e89eb016a00f516b6bd2641a3ae838f.png) | 2008-09-19 | Kings of Leon | Only by the Night |
-| 92 |  | 2009-09-22 | Paramore | Brand New Eyes |
 | 71 |  | 2011-06-07 | Paramore | Monster |
 | 83 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/55f157fb80c94990a0d74498cffbaae9.png) | 2011-10-19 | Coldplay | Mylo Xyloto |
 | 59 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cba23a41d35545d7a740f66e1d22b58c.png) | 2012-10-30 | My Chemical Romance | Number One |
+| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/919a1916404a2777163ed83f0057f9cb.png) | 2013-04-05 | Paramore | Paramore |
+| 100 | ![Cover](https://i.discogs.com/vOu4DphcNFbne1DUvQ8wNS8fmjs3G5mM90eeASaaXqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTU2/MjAtMTQ3NjQ2NTA2/OC0zNTI0LmpwZWc.jpeg) | 2016 | Twenty One Pilots | Heathens |
 | 74 | ![Cover](https://i.discogs.com/1wS2-N24YN2jGrIfjuTLG2w7_bGV2rCEgIt2OTzVmw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEw/NTEyLTE1NzYwMTM0/NzUtNTE4MC5qcGVn.jpeg) | 2019-12-13 | Harry Styles | Fine Line |
 | 64 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/69bdee0d5985c91adff44a4e04055b2c.png) | 2020-11-27 | Miley Cyrus | Plastic Hearts |
-| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a7645386e75e465b9a9b5335bc9115ba.png) |  | The Killers | Sam&#39;s Town |
-| 85 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/242e4d67cd6a4d4ea15beef186379548.png) |  | The Rasmus | Black Roses |
-| 100 | ![Cover](https://i.discogs.com/vOu4DphcNFbne1DUvQ8wNS8fmjs3G5mM90eeASaaXqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTU2/MjAtMTQ3NjQ2NTA2/OC0zNTI0LmpwZWc.jpeg) | 2016 | Twenty One Pilots | Heathens |
 | 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8914bab2a0e4e454c6892f151d57208f.png) | 2022 | Taylor Swift | Midnights |
 | 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eb3bde22a87ff8b31c0dd915206aa38f.png) | 2024-12-06 | Rosé | APT. |
+| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/aa8592aa8d444bdfcb69dbbe39c579b9.png) |  | Gerry Rafferty | City to City |
+| 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e68669788bdf8e102229b14ab3b64f15.png) |  | The Killers | Day &amp; Age |
+| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a7645386e75e465b9a9b5335bc9115ba.png) |  | The Killers | Sam&#39;s Town |
+| 85 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/242e4d67cd6a4d4ea15beef186379548.png) |  | The Rasmus | Black Roses |
 
 ### Related genres
 

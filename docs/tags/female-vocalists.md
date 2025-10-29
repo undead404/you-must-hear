@@ -9,6 +9,10 @@ title: female vocalists
 
 Last updated: <time datetime="2025-10-28T06:47:09.068Z">Tue Oct 28 2025 08:47:09 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+&quot;Female vocalists&quot; spans diverse musical styles unified by women&#39;s voices as the central feature, ranging from ethereal art pop to intimate indie and atmospheric alternative. The genre emphasizes emotional storytelling and vocal expression, often exploring themes of identity, relationships, and personal experience. These artists frequently challenge pop conventions through experimental production and distinctive vocal techniques.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -108,11 +112,11 @@ Last updated: <time datetime="2025-10-28T06:47:09.068Z">Tue Oct 28 2025 08:47:09
 | 64 | ![Cover](https://i.discogs.com/D8xevxGoV3j4vOks8gEkwmmWJauvWnU-YFVl44jUkzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDM5/MTI2LTE2MjI5OTIy/NTEtNTc4MC5qcGVn.jpeg) | 2021-10-01 | TWICE | The Feels |
 | 96 | ![Cover](https://i.discogs.com/sjL7c-AOXeUWnnHDOOUrJPomg_CaRasoDAPMcZbbp9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTY2/NjYyLTE2NDc2OTcz/MTUtOTU3OC5qcGVn.jpeg) | 2022-03-18 | Dove Cameron | Boyfriend |
 | 4 | ![Cover](https://i.discogs.com/eqHxByidyHLWG-K8fQ4ryLcuZxXYu1zmdcfov_kjNYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjg2/NDQwLTE2Nzc4MjMy/NzQtMTk1MC5qcGVn.jpeg) | 2023-03-03 | Kali Uchis | Red Moon in Venus |
+| 1 | ![Cover](https://i.discogs.com/_lRh1Jrr4uo62e9MfJWzDZa7eFNq28DdyLIssnWcX1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODkx/OTkwLTE2NzgwMzAw/NzMtNzY4My5qcGVn.jpeg) | 2024 | Kali Uchis | I Wish You Roses |
 | 18 |  |  | Christina Aguilera featuring Steve Winwood | Back to Basics |
 | 33 |  |  | Lemonade Mouth | Lemonade Mouth |
 | 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/716bedba242b0019801bed0aab3dd8f1.png) |  | Sabrina Carpenter | fruitcake |
 | 40 |  |  | LeeHi | 4 ONLY |
-| 1 | ![Cover](https://i.discogs.com/_lRh1Jrr4uo62e9MfJWzDZa7eFNq28DdyLIssnWcX1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODkx/OTkwLTE2NzgwMzAw/NzMtNzY4My5qcGVn.jpeg) | 2024 | Kali Uchis | I Wish You Roses |
 
 ### Related genres
 

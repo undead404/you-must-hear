@@ -9,13 +9,15 @@ title: jazz
 
 Last updated: <time datetime="2025-10-28T04:56:44.960Z">Tue Oct 28 2025 06:56:44 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Jazz is an improvisational music genre born in early 20th-century African American communities, characterized by syncopated rhythms, swing feel, and blue notes. Musicians spontaneously create melodies over chord progressions, making each performance unique. It ranges from intimate vocals to complex instrumental arrangements.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
 | 80 |  | 1948 | Frank Sinatra | Christmas Songs By Sinatra |
-| 1 |  | 1961-08 | Oliver Nelson | The Blues and the Abstract Truth |
-| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e9188c719025e129388339b20258a9b3.png) |  | Ella Fitzgerald | Ella Wishes You a Swinging Christmas (Expanded Edition) |
 | 98 |  | 1954 | Chet Baker | Chet Baker Sings |
 | 21 |  | 1955-12 | Julie London | Julie Is Her Name |
 | 37 |  | 1957-02 | Miles Davis | Birth of the Cool |
@@ -31,6 +33,7 @@ Last updated: <time datetime="2025-10-28T04:56:44.960Z">Tue Oct 28 2025 06:56:44
 | 10 | ![Cover](https://i.discogs.com/NW_TK8P26XPQCAzfSbfJbZcKV6Pv52gztu4c1LQTWCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODk3/My0xNTM3Njg0MTAz/LTk0NjguanBlZw.jpeg) | 1959-10 | Ornette Coleman | The Shape of Jazz to Come |
 | 16 | ![Cover](https://i.discogs.com/vxXDsxZ3OYiRKucFkcLzenGKZ4LwZ-B7G6qu3nVyaNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTQz/NTMtMTI1MjEzODI1/NC5qcGVn.jpeg) | 1960 | Miles Davis | Sketches Of Spain |
 | 50 |  | 1960-01 | John Coltrane | Giant Steps |
+| 1 |  | 1961-08 | Oliver Nelson | The Blues and the Abstract Truth |
 | 56 |  | 1963-07 | Charles Mingus | The Black Saint and the Sinner Lady |
 | 12 |  | 1964 | Grant Green | Idle Moments |
 | 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e5b8d3689990b02d70260910b0b9e274.png) | 1964 | McCoy Tyner | Today and Tomorrow |
@@ -111,8 +114,9 @@ Last updated: <time datetime="2025-10-28T04:56:44.960Z">Tue Oct 28 2025 06:56:44
 | 74 | ![Cover](https://i.discogs.com/UwSYO_qHH8aGJVB6KjLqdrCN6zsll34nJhKIHn6XVXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcx/NzQ5LTE2NjUzNDUz/NjQtMjI3Ny5qcGVn.jpeg) | 2022-10-07 | Frank Sinatra | Christmas With Frank Sinatra |
 | 66 | ![Cover](https://i.discogs.com/I46viTjYEL_x19bCrwdGdgtxHSXL-G9biihCdWDrGvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDkw/MTgzLTE1NzU2ODUy/NTctNTEwNi5qcGVn.jpeg) | 2022-10-11 | MAMAMOO | MIC ON |
 | 11 | ![Cover](https://i.discogs.com/vIQ563VfleiNIM5OPa2TSHMP1IpTFDRU8LO5IwEUSkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjYw/OTcwLTE2ODU2Nzcz/NjgtNDQxNC5wbmc.jpeg) | 2023-06-23 | Berlioz | jazz is for ordinary people |
-| 83 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b6ec51ae814148acc8b6949121482f83.png) |  | Frank Sinatra | Christmas Songs by Sinatra |
 | 97 | ![Cover](https://i.discogs.com/MLs0_tEInmsCQIt6mZ-s9VZio_8h3AoQ6D48f8UIFAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjAx/NTMxLTE2OTQxNDk5/ODctNTMwOC5qcGVn.jpeg) | 2023-09-08 | Laufey | Bewitched |
+| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e9188c719025e129388339b20258a9b3.png) |  | Ella Fitzgerald | Ella Wishes You a Swinging Christmas (Expanded Edition) |
+| 83 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b6ec51ae814148acc8b6949121482f83.png) |  | Frank Sinatra | Christmas Songs by Sinatra |
 
 ### Related genres
 

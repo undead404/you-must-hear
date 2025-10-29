@@ -9,6 +9,10 @@ title: indie pop
 
 Last updated: <time datetime="2025-10-28T06:47:37.048Z">Tue Oct 28 2025 08:47:37 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Indie pop is a melodic, guitar-driven genre that blends catchy pop songwriting with the DIY ethos of independent music scenes. Emerging in the 1980s as an alternative to mainstream pop, it features jangly guitars, introspective lyrics, and often a lo-fi aesthetic. The genre values artistic authenticity and creative experimentation over commercial polish.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -75,8 +79,8 @@ Last updated: <time datetime="2025-10-28T06:47:37.048Z">Tue Oct 28 2025 08:47:37
 | 89 | ![Cover](https://i.discogs.com/hP4KZx6d-2273VMPgth_jZDsgX3XpFcgTzWcnkwJ3kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzQy/OTEtMTQ1NTYxNzE4/NS0yOTM0LmpwZWc.jpeg) | 2015 | Twenty One Pilots | Blurryface |
 | 3 | ![Cover](https://i.discogs.com/AQQFmCkObpS3Bx5soHMUlesub4a0auFm5etCNlzfCj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDgy/NzQtMTQ0MzkzMTkz/OC05NzY2LmpwZWc.jpeg) | 2015-10-02 | The 1975 | Happiness |
 | 63 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/700416badcde194ec1319d86b4d22b0a.png) | 2015-10-16 | BØRNS | Dopamine |
-| 96 | ![Cover](https://i.discogs.com/51DwuCX7HPQ8bIR_RoTIwKxM6_VHc0t7IiHAJ9d7LTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDU3/MzctMTQ1Nzg3NjAy/Mi04ODA2LmpwZWc.jpeg) | 2016-02 | TV Girl | Who Really Cares |
 | 83 | ![Cover](https://i.discogs.com/_xUYCATsLMU-4BPFhHCccXhLCmuPR7ZCtdXXxWz2aI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTU5/MDEtMTQ4Njc2Mzgz/Ni03OTg3LmpwZWc.jpeg) | 2016-02-26 | Ed Sheeran | The Joker And The Queen (feat. Taylor Swift) |
+| 96 | ![Cover](https://i.discogs.com/51DwuCX7HPQ8bIR_RoTIwKxM6_VHc0t7IiHAJ9d7LTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDU3/MzctMTQ1Nzg3NjAy/Mi04ODA2LmpwZWc.jpeg) | 2016-02 | TV Girl | Who Really Cares |
 | 78 | ![Cover](https://i.discogs.com/1CivQmayeFLBmoJSETvdHXdicPI6HcluSC9MX5ncyN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzE5/OTQwLTE2MDcwMzU3/MTItMTAyNC5qcGVn.jpeg) | 2016-04-01 | Ricky Montgomery | Montgomery Ricky |
 | 57 | ![Cover](https://i.discogs.com/4f6_iQ3O_lCBem3FodvpWHmd-kuhrbQeCAAfS0pYc24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjU5/NjcyLTE1MDE4NzAz/NTgtNzA4OC5qcGVn.jpeg) | 2017-05-19 | Lauv | I Like Me Better |
 | 49 | ![Cover](https://i.discogs.com/UJJnPGOxrQh1OqfNgiSfQP6JfjsftdKzO2PycEXFEGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM2/Mzc0LTE0OTczOTEy/NzYtMTkwMy5qcGVn.jpeg) | 2017-06-16 | Portugal. The Man | Woodstock |

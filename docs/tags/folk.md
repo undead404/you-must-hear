@@ -11,13 +11,7 @@ Last updated: <time datetime="2025-10-28T15:36:19.835Z">Tue Oct 28 2025 17:36:19
 
 ### Description
 
-Folk music is a genre of music that has its roots in the traditional songs and music of various cultures, passed down through generations by oral tradition. It often features acoustic instruments, such as guitars, banjos, and fiddles, and is characterized by its simplicity, sincerity, and emphasis on storytelling.
-
-Folk music often reflects the social and cultural context in which it was created, and frequently addresses themes of love, loss, work, and protest. It has been an important form of expression for many different cultures throughout history, and has played a significant role in shaping the musical traditions of various countries and regions.
-
-Some of the most well-known and influential folk artists include Woody Guthrie, Pete Seeger, Bob Dylan, Joan Baez, and Joni Mitchell, among many others. Folk music has also been an important influence on other genres, such as rock, country, and blues.
-
-Today, folk music continues to be an important and vibrant genre, with many contemporary artists drawing inspiration from traditional folk music while also incorporating new influences and styles.
+Folk music emphasizes acoustic instruments and storytelling lyrics that often reflect personal experiences or social commentary. Rooted in traditional music passed down through generations, modern folk blends these influences with contemporary themes. The genre values authenticity and emotional directness over production complexity.
 
 ### 100 chronological releases
 
@@ -82,8 +76,8 @@ Today, folk music continues to be an important and vibrant genre, with many cont
 | 12 |  | 2008-11-03 | Little Joy | Little Joy |
 | 97 |  | 2009-01-20 | Bon Iver | Blood Bank |
 | 63 |  | 2009-07-07 | Edward Sharpe &amp; The Magnetic Zeros | Up From Below |
-| 40 |  | 2009-10 | Kings of Convenience | Declaration of Dependence |
 | 96 |  | 2009-10-05 | Mumford &amp; Sons | Sigh No More |
+| 40 |  | 2009-10 | Kings of Convenience | Declaration of Dependence |
 | 2 | ![Cover](https://i.discogs.com/35Ot8S1xATxuwn3Xi6WPNQdvlP8E3DXvmBtyamIV2kE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDQ4/NjItMTI2MDU0MTMy/Ni5qcGVn.jpeg) | 2009-11-02 | Local Natives | Gorilla Manor |
 | 57 | ![Cover](https://i.discogs.com/3IYe3CmWfbDB0RAxQ_zzlk5-ZmocJ3Y98GD_9GiAXLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjk0/ODctMTI2NTYzMzMy/NS5qcGVn.jpeg) | 2010 | Ellie Goulding | An Introduction to Ellie Goulding EP |
 | 72 | ![Cover](https://i.discogs.com/xpdMDRjHMqyvey70Y1HRyHskZ5dIm9Z3qfrKqTQZJ1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTM1/NTIwLTE2MDk1MzU3/NTctMzM3Ni5qcGVn.jpeg) | 2010 | Taylor Swift | evermore |
@@ -105,15 +99,14 @@ Today, folk music continues to be an important and vibrant genre, with many cont
 | 3 |  | 2013-09-27 | Agnes Obel | Aventine |
 | 52 | ![Cover](https://i.discogs.com/VJF4o3UNAcatr9JO_-fjKUVdmM5R4wIjfqwEyg_d43s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTY3/MDgtMTQwMDE5MDM0/Mi03NzU3LmpwZWc.jpeg) | 2014-03-31 | First Aid Kit | My Silver Lining |
 | 85 | ![Cover](https://i.discogs.com/vXUJz44ctx6s5a5GyhHhJ8SlIiY0nYD5WSI2VLeAvmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY5/OTE2LTE2NTU5NTg3/NjUtNjU1Ny5qcGVn.jpeg) | 2014-06-23 | Ed Sheeran | x (Deluxe Edition) |
+| 37 |  | 2015-02-09 | Father John Misty | I Love You, Honeybear |
 | 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a6ee015fe1bc4d86cdb9b7c76778e7a6.png) | 2015-04-06 | Lord Huron | Strange Trails |
+| 47 | ![Cover](https://i.discogs.com/D1kRvAWFgewCRCRcjx3dcWN4BU9W613d8m29ZpKpcMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTEw/MTI0LTE2NjY0NTg2/MTAtOTQ2Ni5qcGVn.jpeg) | 2016 | Aurora | All My Demons Greeting Me As A Friend (Deluxe) |
 | 74 | ![Cover](https://i.discogs.com/B7_Q4y94lH3srC7XccDb8OU7fnKK9B8MC1_ZDVkyLdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTA2/ODQtMTQ1OTg4Njkx/MC03MDMzLmpwZWc.jpeg) | 2016-04-08 | The Lumineers | Cleopatra |
+| 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/73b6083496123a7736904f6b77a44895.png) | 2016-06-10 | Kaleo | A&#x2F;B |
 | 83 | ![Cover](https://i.discogs.com/FxlsBG6LTiAXABQ-k9SLjg4MqYLg-4uzVtlQruJb3wY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzgy/MjU0LTE1Mjg5OTg2/ODUtOTU0Ny5qcGVn.jpeg) | 2017-05-26 | Novo Amor | Bathing Beach |
 | 88 | ![Cover](https://i.discogs.com/Rj0_VSkCnqPbh6ya3ZLgBmFDhXCSoKoua00KUChWyqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjc1/Nzc4LTE0OTQ1MjM3/MTYtNTY4Mi5wbmc.jpeg) | 2017-06-09 | Miley Cyrus | Malibu |
 | 15 | ![Cover](https://i.discogs.com/UGyXwuYUe2Qx60LS0o5izYMzC46df3zBLbw4gyV9WY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgw/Mjg2LTE0OTgzMTUx/NjEtNzI3NS5qcGVn.jpeg) | 2017-06-23 | Jaymes Young | Feel Something |
-| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a4820a28aaecbafcad028091a9597d78.png) |  | Ray LaMontagne | Till the Sun Turns Black |
-| 37 |  | 2015-02-09 | Father John Misty | I Love You, Honeybear |
-| 47 | ![Cover](https://i.discogs.com/D1kRvAWFgewCRCRcjx3dcWN4BU9W613d8m29ZpKpcMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTEw/MTI0LTE2NjY0NTg2/MTAtOTQ2Ni5qcGVn.jpeg) | 2016 | Aurora | All My Demons Greeting Me As A Friend (Deluxe) |
-| 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/73b6083496123a7736904f6b77a44895.png) | 2016-06-10 | Kaleo | A&#x2F;B |
 | 94 | ![Cover](https://i.discogs.com/vQyvTmNN3v2w6HJ881n4RrcdZcHJq-uBwOpeYtxbGaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTg3/MDItMTQxMTY3NTU4/NC00MjYxLmpwZWc.jpeg) | 2018 | Sufjan Stevens | Come On Feel The Illinoise! |
 | 84 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7923448319ef855ae414a624ea5db12f.png) | 2018-09-12 | Lana Del Rey | Mariners Apartment Complex |
 | 86 | ![Cover](https://i.discogs.com/H3tvfehEuXoJ0EwE1oxbJJtI2X6xOMa7OtxZGxkD7go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTY3/ODE1LTE2MDg1Mzg4/NjEtMzQzNi5qcGVn.jpeg) | 2020-08-04 | Taylor Swift | folklore (Deluxe Version) |
@@ -123,6 +116,7 @@ Today, folk music continues to be an important and vibrant genre, with many cont
 | 81 | ![Cover](https://i.discogs.com/1bKwdesVHJxcnM7sge-OwXHXm3blCrwVDCyC0a3XW9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MTcx/MTYtMTQ4MzcxMTk0/Ni03MzQzLmpwZWc.jpeg) | 2022-10-03 | Ed Sheeran | Castle on the Hill |
 | 42 | ![Cover](https://i.discogs.com/0_xmVd0anj6LLwTffLNgHytsqjimF1dLnbzVw7A4JHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDEx/NTIyLTE3MDA4Njg0/MTctNDI1Mi5qcGVn.jpeg) | 2023-11-11 | Winter Aid | The Wisp Sings |
 | 22 | ![Cover](https://i.discogs.com/eRKoyAFwr9Uk0J3BINYrbCzhOCEimMIoyRIbVWE7oeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTk3/OTUxLTE3MTg3NDU4/ODctMzQyNi5qcGVn.jpeg) | 2024-06-21 | Gracie Abrams | The Secret Of Us |
+| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a4820a28aaecbafcad028091a9597d78.png) |  | Ray LaMontagne | Till the Sun Turns Black |
 
 ### Related genres
 

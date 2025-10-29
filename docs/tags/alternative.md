@@ -9,6 +9,10 @@ title: alternative
 
 Last updated: <time datetime="2025-10-28T06:41:26.197Z">Tue Oct 28 2025 08:41:26 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Alternative music emerged in the 1980s as a diverse umbrella term for rock-based sounds existing outside mainstream commercial radio. The genre embraces experimental approaches, introspective lyrics, and unconventional song structures while drawing from punk, indie, and electronic influences. Alternative represents a cultural ethos of artistic independence rather than one specific sound.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |

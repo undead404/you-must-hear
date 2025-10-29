@@ -9,6 +9,10 @@ title: dance
 
 Last updated: <time datetime="2025-10-28T06:46:47.190Z">Tue Oct 28 2025 08:46:47 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Dance is an electronic music genre designed to get people moving with its steady, pulsing beats and infectious rhythms. Born from disco and evolving through club culture, it emphasizes repetitive hooks, synthesized sounds, and drops that build energy on the dancefloor. The genre prioritizes physical response over complex lyrics, creating an accessible and euphoric listening experience.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -18,6 +22,7 @@ Last updated: <time datetime="2025-10-28T06:46:47.190Z">Tue Oct 28 2025 08:46:47
 | 7 |  | 1989-11-07 | Technotronic | Pump Up the Jam |
 | 73 |  | 1991 | Boney M. | Daddy Cool |
 | 75 | ![Cover](https://i.discogs.com/7CgjqHnEc3jxfvDsCEvETsWJIxLsV4dqwYfijNSAfbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODI5/NzQtMTI4NjQ5ODU4/MC5qcGVn.jpeg) | 1996 | TWICE | FEEL SPECIAL |
+| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3b54885952161aaea4ce2965b2db1638.png) | 1998-10-12 | Cher | Believe |
 | 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6c39efcb97b907a9de0a4f2428019232.png) | 1999-07-05 | Jennifer Lopez | On the Floor |
 | 36 |  | 2000 | Daft Punk | Discovery |
 | 38 |  | 2001-08-27 | Sophie Ellis-Bextor | Read My Lips |
@@ -39,43 +44,40 @@ Last updated: <time datetime="2025-10-28T06:46:47.190Z">Tue Oct 28 2025 08:46:47
 | 3 | ![Cover](https://i.discogs.com/6AzbwrwXZCmiG4nCWxxKmTZdwpJksxrnZb6uZXMc6F4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzI0/MzUtMTM3Mzc5NjMx/NS03MDIyLmpwZWc.jpeg) | 2009-06-03 | Black Eyed Peas | The E.N.D. |
 | 55 |  | 2009-08-21 | David Guetta | One More Love |
 | 37 |  | 2009-10-12 | Taio Cruz | Rokstarr |
+| 45 |  | 2009-12-22 | Stromae | Alors On Danse |
 | 62 | ![Cover](https://i.discogs.com/8QnIJKUuvEQUpsQAehYXq-2CysUM985PUHc3KLjNOAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjYw/NzE0LTE1ODg4Mzgx/MzEtNjU2Mi5wbmc.jpeg) | 2010 | Lady Gaga | Chromatica |
 | 77 | ![Cover](https://i.discogs.com/vbhUqYkg_OOOSq2iEn3vpDY-MuM_rGhvFHs4JcatpSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIz/NjczLTE1MTQyMzA4/MTItOTk1MC5qcGVn.jpeg) | 2010 | Madonna | Confessions on a Dance Floor |
 | 63 |  | 2010-01-05 | Ke$ha | Animal |
 | 21 |  | 2010-04-06 | Mike Posner | Cooler Than Me |
 | 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a7dc977b7a53d3e898f86eaee644aba7.png) | 2010-05-04 | Zedd | The Middle |
+| 27 | ![Cover](https://i.discogs.com/LlgN2saKOK0LSpMRXlx3-kwTtHnqSY_MMNVhef8Ed4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDcz/Mjc2LTE2MzMzNzc2/NTUtNjY2OS5qcGVn.jpeg) | 2010-06-17 | Orange Caramel | The Third Single Catallena |
 | 60 |  | 2010-09-13 | Duck Sauce | Barbra Streisand |
 | 57 | ![Cover](https://i.discogs.com/lHJhqtgJYQeWh_sV5Pg3SvbjI16HzUxyAfgjRwDkFR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjIx/NTgtMTI4MzE5MjE1/OS5wbmc.jpeg) | 2010-10-08 | Swedish House Mafia | Miami 2 Ibiza |
-| 84 | ![Cover](https://i.discogs.com/8oTDnNBuNQSAVCwX5MUTX5RoMWOaKffFafVYuhSfbOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzU2/OTctMTMwOTk4NDEw/OS5qcGVn.jpeg) | 2011-01-31 | LMFAO | Party Rock Anthem |
-| 83 | ![Cover](https://i.discogs.com/ts_ym8mX6YGgPA-sk_qiCbrJpINSzeON9E1HoK-lhjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTY4/NzktMTMyMDI2ODI4/OS5qcGVn.jpeg) | 2011-10-28 | Avicii | Levels |
-| 5 | ![Cover](https://i.discogs.com/aQqZUDvn9uC9jFoDCBgcZ-nJCfRH4l71u-xyxgecwbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzA1/MjQtMTQ4ODczNTk1/MS03MDI4LmpwZWc.jpeg) | 2012 | Katy Perry | witNESS (deLuxE) |
-| 71 | ![Cover](https://i.discogs.com/pjr9DffdkMr4khszWwvt5vgcG2qHLt7sCE_sfTnvKIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTk3/ODktMTMyNjIxMTQ4/Ny5qcGVn.jpeg) | 2012-01-24 | Skrillex | Bangarang EP |
-| 74 |  | 2012-06-22 | Flo Rida | Wild Ones |
-| 59 |  | 2012-10-26 | Calvin Harris | 18 Months |
-| 99 | ![Cover](https://i.discogs.com/mfEMi5oo53Rv5_LUkzDBb7a4i-5cCnIQ7ilHhgYMkUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTYx/NDU2LTE1OTU4MjU0/ODEtMTM4MS5qcGVn.jpeg) | 2013 | Selena Gomez | 13 Reasons Why (Season 2) |
-| 2 |  | 2013-09-06 | Avicii | Wake Me Up |
-| 12 |  |  | Britney Manson | FΛSHION |
-| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3b54885952161aaea4ce2965b2db1638.png) | 1998-10-12 | Cher | Believe |
-| 27 | ![Cover](https://i.discogs.com/LlgN2saKOK0LSpMRXlx3-kwTtHnqSY_MMNVhef8Ed4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDcz/Mjc2LTE2MzMzNzc2/NTUtNjY2OS5qcGVn.jpeg) | 2010-06-17 | Orange Caramel | The Third Single Catallena |
-| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fed30e764da10b4375f065d6ca16fa99.png) |  | SuperM | SuperM - The 1st Mini Album |
-| 45 |  | 2009-12-22 | Stromae | Alors On Danse |
 | 32 |  | 2010-10-25 | Chris Brown | Yeah 3x |
 | 31 | ![Cover](https://i.discogs.com/oDJG4udHEe7dni9eqWvCPIasmrKz0BfMrj5ysYd9-kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODgy/NTAtMTQ3ODE3MTQz/NS0yMTQ3LmpwZWc.jpeg) | 2010-12-09 | Far East Movement | Live My Life |
 | 19 | ![Cover](https://i.discogs.com/7XQQZHDkod5M6LHb2hwgJVdFZB495yFeXw1v-ad3Zls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Njkw/OTktMTQ4MjkxNzYy/NC03NDA3LmpwZWc.jpeg) | 2011 | Rihanna | Loud (Japan Version) |
 | 26 | ![Cover](https://i.discogs.com/WvmGRgl7-x8kchNhyfctskP3eGthlCoy0PBEC4gClbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTcx/ODAtMTMwNzE5NzQ3/My5qcGVn.jpeg) | 2011 | Shakira | Can&#39;t Remember to Forget You |
+| 84 | ![Cover](https://i.discogs.com/8oTDnNBuNQSAVCwX5MUTX5RoMWOaKffFafVYuhSfbOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzU2/OTctMTMwOTk4NDEw/OS5qcGVn.jpeg) | 2011-01-31 | LMFAO | Party Rock Anthem |
 | 40 |  | 2011-02-14 | Alexandra Stan | Mr. Saxobeat |
 | 34 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/40f21ed7e2cf4579c586c5537d622164.png) | 2011-03-15 | Lady Gaga | Do What U Want |
 | 23 | ![Cover](https://i.discogs.com/zai3InxkUs-Wh3oCmr9VB-LZEFEzWELyWBmKFLCvyMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjU5/MjYtMTM3MTgwNDA5/My01MTYwLmpwZWc.jpeg) | 2011-04-29 | Jennifer Lopez | Love? |
+| 83 | ![Cover](https://i.discogs.com/ts_ym8mX6YGgPA-sk_qiCbrJpINSzeON9E1HoK-lhjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTY4/NzktMTMyMDI2ODI4/OS5qcGVn.jpeg) | 2011-10-28 | Avicii | Levels |
 | 33 |  | 2011-11-18 | Rihanna | Talk That Talk |
+| 5 | ![Cover](https://i.discogs.com/aQqZUDvn9uC9jFoDCBgcZ-nJCfRH4l71u-xyxgecwbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzA1/MjQtMTQ4ODczNTk1/MS03MDI4LmpwZWc.jpeg) | 2012 | Katy Perry | witNESS (deLuxE) |
+| 71 | ![Cover](https://i.discogs.com/pjr9DffdkMr4khszWwvt5vgcG2qHLt7sCE_sfTnvKIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTk3/ODktMTMyNjIxMTQ4/Ny5qcGVn.jpeg) | 2012-01-24 | Skrillex | Bangarang EP |
+| 74 |  | 2012-06-22 | Flo Rida | Wild Ones |
+| 59 |  | 2012-10-26 | Calvin Harris | 18 Months |
 | 18 | ![Cover](https://i.discogs.com/Y5Cl1kV7JAqc0rW0j21-_o3F2NcsQ-92-eUzZ7aLmJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTk5/MDctMTMwOTIxNzAz/MC5qcGVn.jpeg) | 2012-11-23 | Skrillex | More Monsters and Sprites EP |
+| 99 | ![Cover](https://i.discogs.com/mfEMi5oo53Rv5_LUkzDBb7a4i-5cCnIQ7ilHhgYMkUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTYx/NDU2LTE1OTU4MjU0/ODEtMTM4MS5qcGVn.jpeg) | 2013 | Selena Gomez | 13 Reasons Why (Season 2) |
+| 2 |  | 2013-09-06 | Avicii | Wake Me Up |
 | 49 | ![Cover](https://i.discogs.com/6yyRljNgfemPOevSiyo7BcKrL7ZIjnqaELpK0pwpLiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTIx/NjUtMTU1NTI3MTk1/NS01Mzg3LnBuZw.jpeg) | 2013-09-10 | Zedd | Stay The Night |
 | 11 | ![Cover](https://i.discogs.com/hj4jewi5EHQ0BeyRh3V-MkouwPs4tK7Hy-3_FRBljL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzMy/ODQtMTM5MzI0NTI0/Ny04NTIxLmpwZWc.jpeg) | 2014 | Indila | Mini World (Deluxe) |
 | 98 | ![Cover](https://i.discogs.com/6duJCbGjQ1_XIytEmt3PWa7foHMn5wWMn0DJWuU69fE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTgz/MDItMTQ3NDAzOTY1/NS0yODc3LmpwZWc.jpeg) | 2014 | Calvin Harris | My Way |
 | 85 | ![Cover](https://i.discogs.com/WFG-bAfg8JFy0tmsmrCfuFUdsjVY77iHLi00M_eegno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTIx/MjYyLTE2NDMzNDM2/NTktNjMwNC5qcGVn.jpeg) | 2014-03-23 | Anitta | Boys Don&#39;t Cry |
 | 81 |  | 2014-04-04 | Rita Ora | I Will Never Let You Down |
 | 90 |  | 2014-04-27 | Calvin Harris | Summer |
-| 46 | ![Cover](https://i.discogs.com/jk5BkXYpnaZXrdwpcIORcOhv7lAl0m6437f_Rei8SSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjE0/NjItMTQxMjkzMzM3/MS04MTgxLmpwZWc.jpeg) | 2014-10 | Route 94 | My Love (feat. Jess Glynne) |
 | 72 |  | 2014-10-31 | Calvin Harris | Motion |
+| 46 | ![Cover](https://i.discogs.com/jk5BkXYpnaZXrdwpcIORcOhv7lAl0m6437f_Rei8SSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjE0/NjItMTQxMjkzMzM3/MS04MTgxLmpwZWc.jpeg) | 2014-10 | Route 94 | My Love (feat. Jess Glynne) |
 | 86 | ![Cover](https://i.discogs.com/VQSmSxdpGeB3o9WJzQIHf_UQM6iYI-SNCxr0BI-6snE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Nzg1/MDAtMTQ0NjU1NDM3/MS04MzQ5LmpwZWc.jpeg) | 2015 | Cheat Codes | No Promises (feat. Demi Lovato) |
 | 14 | ![Cover](https://i.discogs.com/fxa8GItwRwT6ms6uJluAQuNGVH6R5W6lagzV6ICVfFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTM4/MDMtMTQyODAzNDc1/MC04ODM3LmpwZWc.jpeg) | 2015-03-18 | Flo Rida | My House |
 | 78 | ![Cover](https://i.discogs.com/SbEjerLoKl8yx64IHFOorhvpjZdYnofXOV5-xNiCmmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDgz/ODMtMTQ0Nzk2NTAw/OC0xMjE2LmpwZWc.jpeg) | 2015-07-24 | Mike Posner | I Took A Pill In Ibiza (SeeB Remix) |
@@ -113,6 +115,8 @@ Last updated: <time datetime="2025-10-28T06:46:47.190Z">Tue Oct 28 2025 08:46:47
 | 92 | ![Cover](https://i.discogs.com/Q_Xv-RsO8LX83Zj2yeefnI8HcmhqVy5O9xbkNeqoYU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTk0/NzE1LTE2Mzg1MTgx/MTUtMjM2My5qcGVn.jpeg) | 2021-10-29 | Conan Gray | Telepath |
 | 97 | ![Cover](https://i.discogs.com/Q_Xv-RsO8LX83Zj2yeefnI8HcmhqVy5O9xbkNeqoYU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTk0/NzE1LTE2Mzg1MTgx/MTUtMjM2My5qcGVn.jpeg) | 2022-06-24 | Conan Gray | People Watching |
 | 56 | ![Cover](https://i.discogs.com/jlwpQ_88hykeTFWa4RIYGrndklyuHHlUyAowDXeYSoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODc4/ODktMTY2MTk4NzA0/OS04MDYyLnBuZw.jpeg) | 2023-01-26 | Zara Larsson | Ain&#39;t My Fault |
+| 12 |  |  | Britney Manson | FΛSHION |
+| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fed30e764da10b4375f065d6ca16fa99.png) |  | SuperM | SuperM - The 1st Mini Album |
 
 ### Related genres
 

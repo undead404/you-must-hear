@@ -9,6 +9,10 @@ title: hip-hop
 
 Last updated: <time datetime="2025-10-28T06:46:32.978Z">Tue Oct 28 2025 08:46:32 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Hip-hop is a genre rooted in African American culture featuring rhythmic vocal delivery called rapping over beats created from samples, drum machines, and synthesizers. The music emphasizes lyrical wordplay, storytelling, and social commentary, often reflecting urban experiences and cultural identity. It originated in 1970s New York and has evolved into a global phenomenon influencing fashion, language, and popular culture worldwide.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |

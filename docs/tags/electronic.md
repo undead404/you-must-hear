@@ -9,6 +9,10 @@ title: electronic
 
 Last updated: <time datetime="2025-10-28T06:44:08.840Z">Tue Oct 28 2025 08:44:08 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Electronic music is characterized by sounds generated or manipulated through synthesizers, drum machines, and computers rather than traditional acoustic instruments. Emerging from experimental studios in the mid-20th century, it evolved into a diverse genre spanning dance clubs, pop radio, and art installations. The sound ranges from rhythmic and danceable to ambient and experimental, united by its technological foundation.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -76,7 +80,7 @@ Last updated: <time datetime="2025-10-28T06:44:08.840Z">Tue Oct 28 2025 08:44:08
 | 43 | ![Cover](https://i.discogs.com/pljEpasI7gFXGOSdl4W38S7nNE1BNm1Igis0Lb7cXCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjI1/MjQtMTMzOTM1MzY1/OS03MjI2LmpwZWc.jpeg) | 2012-05-29 | Azealia Banks | 1991 - EP |
 | 11 |  | 2012-08-04 | Alesso | Years |
 | 59 |  | 2012-09-05 | The xx | Coexist |
-| 32 | ![Cover](https://i.discogs.com/VgDq4L-C9X1CiMw7sKJwyVx1ffxTN3Vq8dDWss7NnO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mjc1/ODctMTM0OTUyODE2/MS00MDg2LmpwZWc.jpeg) | 2012-09-14 | Swedish House Mafia | Don&#39;t You Worry Child |
+| 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1a0e4f50e2d4611b8956f7f15f0b00aa.png) | 2012-09-14 | Swedish House Mafia | Don&#39;t You Worry Child |
 | 18 |  | 2012-10-26 | Calvin Harris | 18 Months |
 | 97 | ![Cover](https://i.discogs.com/o6RcDf9P41O_OoBC1Bwk06VphTLjFZ5Z_TpsezvMjis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTE2/MTYtMTM3MjQ1ODc5/Mi02NzA2LmpwZWc.jpeg) | 2013-04-19 | Daft Punk | Get Lucky |
 | 87 |  | 2013-05-17 | Daft Punk | Random Access Memories |

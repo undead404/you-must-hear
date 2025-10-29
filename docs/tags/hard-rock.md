@@ -9,6 +9,10 @@ title: hard rock
 
 Last updated: <time datetime="2025-10-28T06:44:43.831Z">Tue Oct 28 2025 08:44:43 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Hard rock emerged in the late 1960s as a louder, more aggressive evolution of blues rock, characterized by distorted electric guitars, powerful drums, and emphatic vocals. The genre emphasizes raw energy and rebellious attitude, often featuring guitar solos and anthemic choruses designed for arena performances. Hard rock became the soundtrack of youth counterculture, bridging psychedelic rock and the heavier sounds that would later influence heavy metal.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -52,21 +56,20 @@ Last updated: <time datetime="2025-10-28T06:44:43.831Z">Tue Oct 28 2025 08:44:43
 | 61 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/87e7a85ab7fe4cecb5f497a4c09895f9.png) | 1989-07-25 | Alice Cooper | Trash |
 | 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6c248d8c89564a34ca4c3dfa70c1e9e8.png) | 1989-09-01 | Mötley Crüe | Dr. Feelgood |
 | 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0698a59a0b874793a11d3f081b14d48a.png) | 1990-08-28 | Alice in Chains | Facelift |
+| 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/98390dad3bf6d7a28294106da6941e19.png) | 1990-09-21 | AC&#x2F;DC | The Razors Edge |
 | 67 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/470b934e8cd26ed4d4e1f819b7f7014f.png) | 1990-11-06 | Scorpions | Crazy World |
 | 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d6a960e23328230e5e203007b7690cde.png) | 1991-08-12 | Metallica | Metallica |
-| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5429eee7b4c447e09c844bd5003386c6.png) | 1992 | AC&#x2F;DC | Dirty Deeds Done Dirt Cheap |
-| 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/36081c7e1d61e653830c888c553e10ca.png) | 1992-10-07 | Bon Jovi | Keep The Faith |
-| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8ea12fabf8454ffeb59e4e651e115331.png) | 1993-04-20 | Aerosmith | Get a Grip |
-| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4568f2d377c743d3c318056d5cfb303a.png) | 1998-08-25 | Godsmack | Godsmack |
-| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bcd06c00951b50c303115da01c2ea801.png) |  | Greta Van Fleet | From The Fires |
-| 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/98390dad3bf6d7a28294106da6941e19.png) | 1990-09-21 | AC&#x2F;DC | The Razors Edge |
 | 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3f426c9970df50f6eeeace38e6d9d33a.png) | 1991-09-16 | Guns N&#39; Roses | Use Your Illusion I |
 | 85 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1b0fa568a161253b78ffb06750388ef1.png) | 1991-09-17 | Guns N&#39; Roses | Use Your Illusion II |
+| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5429eee7b4c447e09c844bd5003386c6.png) | 1992 | AC&#x2F;DC | Dirty Deeds Done Dirt Cheap |
+| 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/36081c7e1d61e653830c888c553e10ca.png) | 1992-10-07 | Bon Jovi | Keep The Faith |
 | 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7af8e0ab43294405c42eb95480f25c9a.png) | 1992-10-08 | AC&#x2F;DC | Highway to Hell |
+| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8ea12fabf8454ffeb59e4e651e115331.png) | 1993-04-20 | Aerosmith | Get a Grip |
 | 71 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d5d89fd2535b34b05341f0e425c4f31b.png) | 1995 | Van Halen | 1984 (Remastered) |
 | 84 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c32d240ba59d4491ba5ce25939cba1ab.png) | 1996-05-04 | Metallica | Load |
 | 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2dddbd3ec3a526120431181eeeab02ce.png) | 1997-11-15 | Metallica | Reload |
 | 62 | ![Cover](https://i.discogs.com/MkJYphyUmXuCAJM37YHOAFKbwqFBqYrDmSktgpW9UO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MTUtMTMwNDAwNDY1/MS5qcGVn.jpeg) | 1998 | AC&#x2F;DC | Razor&#39;s Edge |
+| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4568f2d377c743d3c318056d5cfb303a.png) | 1998-08-25 | Godsmack | Godsmack |
 | 66 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4b042b19d606400ac0713bd49b0f3bdd.png) | 2000-10-31 | Godsmack | Awake |
 | 63 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/397a546626eecdfbd55527580a5dbc2a.png) | 2001-01-19 | Creed | Weathered |
 | 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/80649fca746c7014df458258f983d63d.png) | 2001-09-11 | Nickelback | Silver Side Up |
@@ -113,6 +116,7 @@ Last updated: <time datetime="2025-10-28T06:44:43.831Z">Tue Oct 28 2025 08:44:43
 | 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9344e9c24a21f641c1ed2e6a9d6afef9.png) | 2018-06-01 | Ghost | Prequelle |
 | 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/31247a4412911ac3e8502777d456a5c7.png) | 2022-02-25 | Bad Omens | THE DEATH OF PEACE OF MIND |
 | 14 | ![Cover](https://i.discogs.com/itLYS8uiz0N5KcPbI5Y2MtKGM-Mpcnl-h-MkaH8IHVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE2/MTkwLTE2NDI2OTE2/ODMtNzY0Mi5wbmc.jpeg) | 2022-03-11 | Ghost | Impera |
+| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bcd06c00951b50c303115da01c2ea801.png) |  | Greta Van Fleet | From The Fires |
 
 ### Related genres
 

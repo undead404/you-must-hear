@@ -9,6 +9,10 @@ title: rap
 
 Last updated: <time datetime="2025-10-28T06:50:04.816Z">Tue Oct 28 2025 08:50:04 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Rap is a vocal style where artists rhythmically speak or chant lyrics over beats, often addressing social issues, personal experiences, and urban life. Originating in 1970s New York hip-hop culture, it emphasizes wordplay, storytelling, and complex rhyme schemes. The genre has become a dominant force in popular music, influencing fashion, language, and global youth culture.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |

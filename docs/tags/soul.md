@@ -9,6 +9,10 @@ title: soul
 
 Last updated: <time datetime="2025-10-28T06:46:23.981Z">Tue Oct 28 2025 08:46:23 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Soul is a music genre that emerged from African American communities in the 1950s-60s, blending gospel, rhythm and blues, and jazz. It features passionate, emotionally expressive vocals over groovy rhythms and rich instrumentation. The genre emphasizes heartfelt delivery and often addresses themes of love, struggle, and joy.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -22,8 +26,8 @@ Last updated: <time datetime="2025-10-28T06:46:23.981Z">Tue Oct 28 2025 08:46:23
 | 5 | ![Cover](https://i.discogs.com/yREn5U32jkpbvAxa_jYD-0NzJoTfZd6IVEB-CNl2RAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDI2/NC0xNjc2MjI4NTIy/LTg2NTkuanBlZw.jpeg) | 1969-03-31 | Dusty Springfield | Dusty In Memphis |
 | 16 |  | 1969-12-18 | The Jackson 5 | Diana Ross Presents the Jackson 5 |
 | 90 | ![Cover](https://i.discogs.com/-yUz26rXFSE0jW4hJE3-a0xY5UObVDSyGx4QaKCTN8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDIx/NTEtMTE5NTQ2ODk5/NS5qcGVn.jpeg) | 1971 | Otis Redding | Dock of the Bay |
-| 65 | ![Cover](https://i.discogs.com/fHJj012t81l6Lw9MUNCnKnDI8Q0ZOSVP9BVQK36uej8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTc3/My0xNDQxNjMxODE0/LTk5MTYuanBlZw.jpeg) | 1971-05 | Bill Withers | Just As I Am |
 | 76 | ![Cover](https://i.discogs.com/G9Q_qZoz9nxW7VKgNLNgkTKPsiGE--JWwNRoBCYQkBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY3/MjAtMTYwMTMwMjEw/MC02MDE0LmpwZWc.jpeg) | 1971-05-20 | Marvin Gaye | What&#39;s Going On |
+| 65 | ![Cover](https://i.discogs.com/fHJj012t81l6Lw9MUNCnKnDI8Q0ZOSVP9BVQK36uej8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTc3/My0xNDQxNjMxODE0/LTk5MTYuanBlZw.jpeg) | 1971-05 | Bill Withers | Just As I Am |
 | 58 | ![Cover](https://i.discogs.com/hq5gmeLzIx-R3MpF48uv8X6Xy3rPpC5I7odXv-89myU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDYz/MDctMTM3MTY2NDEw/Ny05OTQyLmpwZWc.jpeg) | 1972-01-31 | Al Green | Let&#39;s Stay Together |
 | 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8a7edadaacaa40f4c04afcda0c57a5ee.png) | 1972-10-27 | Stevie Wonder | Talking Book |
 | 67 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2a865fca0fa436c3bddc84968b6d9074.png) | 1973-08-03 | Stevie Wonder | Innervisions |
@@ -90,29 +94,29 @@ Last updated: <time datetime="2025-10-28T06:46:23.981Z">Tue Oct 28 2025 08:46:23
 | 88 | ![Cover](https://i.discogs.com/Mv8F-vy96C4CVbimiIIvlOhz2BYKpNxNXBdJW-eWDUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNjcx/ODEtMTY3ODAzMTQy/MS0xNjczLmpwZWc.jpeg) | 2015-02-04 | Kali Uchis | Por Vida |
 | 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/289baeb9eace27de8bbb673313474a6a.png) | 2015-06-29 | The Internet | Ego Death |
 | 75 | ![Cover](https://i.discogs.com/Ct2M2p0AUjVaDsmDfn1ThPDWpa6AloUEH_Gd6CECHtQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Mzc5/ODUtMTQ0MzU0MDI1/NC02MjM5LmpwZWc.jpeg) | 2015-09-18 | Lukas Graham | 7 Years |
+| 34 | ![Cover](https://i.discogs.com/9gL2lGmg8g_gZakwT0b03NDUwctgkPZoaKGZ2sN1KpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODU0/ODQtMTQ1Njc0MTY4/Mi02MTA1LmpwZWc.jpeg) | 2015-10-16 | Izzy Bizu | White Tiger |
 | 89 | ![Cover](https://i.discogs.com/GujjXLSC4kHrp2tnk9av6NKIAneWraCWod8FH7fa8B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTk4/MDctMTQ0MzY2Mzgw/MS0xMjM0LmpwZWc.jpeg) | 2015-10-30 | Sam Smith | Writing&#39;s on the Wall |
 | 28 | ![Cover](https://i.discogs.com/JDuFWbsXPxyQXQPcV72VnRgd5VealIXVAvrtQFIFt7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTE1/MDE4LTE1NDQ0MzY1/NDctNjczMy5qcGVn.jpeg) | 2016 | Hozier | Spotify Singles |
+| 49 | ![Cover](https://i.discogs.com/c9Qv9LVc2UPYZDoLmY6Q4cbmA2bMR7xL95lLZIpcF4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk5/NzktMTU3NDg1Mjcy/Mi04NDg2LmpwZWc.jpeg) | 2016-01-15 | Anderson .Paak | Malibu |
 | 79 | ![Cover](https://i.discogs.com/4hoce4vk-WR_3l4TI-yZKC2bdPEuNEx3aOwUVD6obG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzEz/MTMtMTUzMTY0MDMz/Ni02OTgyLmpwZWc.jpeg) | 2016-12-02 | Childish Gambino | &quot;Awaken, My Love!&quot; |
 | 53 | ![Cover](https://i.discogs.com/F5PoD_Q0PTksZpiYHFBAOxvGNCW71UsdO_SvOQfyKdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTM2/NTE3LTE1MjkwMjE2/MzAtNzkzMC5qcGVn.jpeg) | 2017-01-27 | Sonder | Into |
-| 87 | ![Cover](https://i.discogs.com/yxFi4u02Jg-ub3X_oaeNFzuoiz3fdFGh6VLaoxnwZwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDA2/MTMtMTM3OTc4OTQz/Ny00MTk4LmpwZWc.jpeg) | 2017-03 | Amy Winehouse | Back to Black (Deluxe Edition) |
 | 9 | ![Cover](https://i.discogs.com/gLsDv2ugaHjJ8Uzl2Ev_WD2QRGZ5YTKbj1hiX2tTVR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5OTEw/MDktMTQ4OTc4MTQx/NC02NDcyLmpwZWc.jpeg) | 2017-03-17 | Khalid | American Teen |
-| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eefcf14dc6f0b056cf7bc931af5d7fcf.png) |  | Jhené Aiko | Trip |
-| 34 | ![Cover](https://i.discogs.com/9gL2lGmg8g_gZakwT0b03NDUwctgkPZoaKGZ2sN1KpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODU0/ODQtMTQ1Njc0MTY4/Mi02MTA1LmpwZWc.jpeg) | 2015-10-16 | Izzy Bizu | White Tiger |
-| 49 | ![Cover](https://i.discogs.com/c9Qv9LVc2UPYZDoLmY6Q4cbmA2bMR7xL95lLZIpcF4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Njk5/NzktMTU3NDg1Mjcy/Mi04NDg2LmpwZWc.jpeg) | 2016-01-15 | Anderson .Paak | Malibu |
+| 87 | ![Cover](https://i.discogs.com/yxFi4u02Jg-ub3X_oaeNFzuoiz3fdFGh6VLaoxnwZwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDA2/MTMtMTM3OTc4OTQz/Ny00MTk4LmpwZWc.jpeg) | 2017-03 | Amy Winehouse | Back to Black (Deluxe Edition) |
 | 74 | ![Cover](https://i.discogs.com/wRzfQNBWp3PlBYY4l6HxBquUrUxv147DkYvxZJ_JMNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY2/NDQ1LTE1MTg2MTk4/ODQtNDE5My5wbmc.jpeg) | 2018-02-14 | Joji | In Tongues (Deluxe) |
 | 78 | ![Cover](https://i.discogs.com/9n0pVvweIQ_2Js0x_pNcb_NYuGl3FIBE4lMY-PgCyr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI5/ODA3LTE2NDY1ODA2/NzAtMTQ3Ni5qcGVn.jpeg) | 2018-10-19 | Summer Walker | Last Day Of Summer |
 | 1 | ![Cover](https://i.discogs.com/YNKVIMLz_a7bgQyKLomagld4RyQlevlat3eAlUoVSzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzcx/OTc4LTE1NzMxOTg5/NzYtODE4MC5qcGVn.jpeg) | 2019 | SurFaces | Where the Light Is |
 | 56 | ![Cover](https://i.discogs.com/nCz7PF-zkpSbszzRey1fEMufubufblKe4iYaNVheiLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQz/OTQzLTE1NDExMTQ1/MzgtODUxNS5qcGVn.jpeg) | 2019-06-14 | Little Mix | bOUnce bAck |
 | 72 | ![Cover](https://i.discogs.com/rPK2eqQr9gySoRLRrwMMd7_xzuKl6AOwOeCnIs4Xdgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTQ5/MzMzLTE2ODE1MDQ5/NzgtMjU4Ni5qcGVn.jpeg) | 2019-06-28 | Daniel Caesar | CASE STUDY 01 |
 | 7 | ![Cover](https://i.discogs.com/64VeNt0gDRar9EfNEsz5pvKcrpl_6P_uOMJWcFoFyNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTI2/Njk5LTE1OTMwMjYw/MTktODM1My5qcGVn.jpeg) | 2019-08-16 | Marília Mendonça | Todos os cantos, vol. 3 (Ao Vivo) |
+| 99 | ![Cover](https://i.discogs.com/G6ubNUQqt5KmqzV97ls3jxB6z-7wp8MSUBYVQ-GJm5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTE4/NDgyLTE2MTEyNjM2/NjUtOTAwOS5qcGVn.jpeg) | 2020 | BTS | Dynamite |
 | 68 | ![Cover](https://i.discogs.com/fjFXDgnmuuYeXCSi_z5yYC4z0-NMFf_9ISM8BmG_n9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDI0/NTc2LTE1ODU2NjIw/OTYtMjU4NS5qcGVn.jpeg) | 2020-04-03 | Thundercat | It Is What It Is |
 | 64 | ![Cover](https://i.discogs.com/nhkuWsoilQyM7RsU9kPAsqe-ABi7XG1gK6tw4Js2ikM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc2/NDg3LTE2MzY4OTg1/MTItMTY2MS5qcGVn.jpeg) | 2020-05-25 | Baekhyun | Bambi - The 3rd Mini Album |
 | 15 | ![Cover](https://i.discogs.com/HVM28o0eqmhJMfH5QBx271Ef6biQWCqWnyIDRlqh1NQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODYz/MzgxLTE2NDY1ODA3/OTYtODg3MC5qcGVn.jpeg) | 2021-11-05 | Summer Walker | Still Over It |
-| 70 |  |  | Christina Aguilera featuring Steve Winwood | Back to Basics |
 | 80 | ![Cover](https://i.discogs.com/KIlQiceohccb8_rX4JdQ31dkQ3hTa3Uy8iz8myqhnhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzIw/MjYwLTE2MzcyNzky/MzQtNjQwMi5qcGVn.jpeg) | 2021-11-19 | Adele | 30 |
-| 84 |  |  | Corine Bailey Rae | Corine Bailey Rae |
-| 99 | ![Cover](https://i.discogs.com/G6ubNUQqt5KmqzV97ls3jxB6z-7wp8MSUBYVQ-GJm5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTE4/NDgyLTE2MTEyNjM2/NjUtOTAwOS5qcGVn.jpeg) | 2020 | BTS | Dynamite |
 | 35 | ![Cover](https://i.discogs.com/Q3mdNFaMWltMOeA_2GeWnUoZDM1hY72bjgnbrEB3mFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDA0/MjgzLTE2NzA1MDY1/MjctNTcwMS5wbmc.jpeg) | 2022-12-09 | SZA | SOS |
+| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eefcf14dc6f0b056cf7bc931af5d7fcf.png) |  | Jhené Aiko | Trip |
+| 70 |  |  | Christina Aguilera featuring Steve Winwood | Back to Basics |
+| 84 |  |  | Corine Bailey Rae | Corine Bailey Rae |
 
 ### Related genres
 

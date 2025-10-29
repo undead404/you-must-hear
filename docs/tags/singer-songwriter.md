@@ -9,56 +9,59 @@ title: singer-songwriter
 
 Last updated: <time datetime="2025-10-28T06:38:30.564Z">Tue Oct 28 2025 08:38:30 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Singer-songwriter is an intimate genre centered on solo artists who write and perform their own material, typically featuring acoustic guitar or piano. Emerging from 1960s folk traditions, it emphasizes personal storytelling, poetic lyrics, and emotional authenticity over production. The music values raw expression and confessional narratives that create direct connections between artist and listener.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
 | 71 | ![Cover](https://i.discogs.com/_n68fKprShFeHaCj9u5n2eqoDhv52cim0pDAOySFJto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDg5/NDMtMTE5MjY4MTIw/Ni5qcGVn.jpeg) | 1966-01-17 | Simon &amp; Garfunkel | Sounds of Silence |
+| 16 |  | 1967-12-27 | Leonard Cohen | Songs of Leonard Cohen |
 | 63 | ![Cover](https://i.discogs.com/WtjodAg7wLtUGiVD36kNU6mRmaG3TsHFQca8z84ibKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTc5/MDctMTQzMTgzMjMx/Ni05MjgwLmpwZWc.jpeg) | 1968-11 | Van Morrison | Astral Weeks |
+| 25 | ![Cover](https://i.discogs.com/Qc3a1BYPO5Wyxr3N7nNaNBf9pa0FeOa9B0cguKvk2Tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzEx/Mi0xMjU4MDM0ODY2/LmpwZWc.jpeg) | 1969-09 | Nick Drake | Five Leaves Left |
 | 85 |  | 1970-01-26 | Simon &amp; Garfunkel | Bridge Over Troubled Water |
+| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/874557ee3bcb413ea64be8587a180895.png) | 1970-10-21 | Bob Dylan | New Morning |
+| 37 |  | 1970-11-23 | Cat Stevens | Tea For The Tillerman |
+| 26 |  | 1970-11 | Nick Drake | Bryter Layter |
 | 79 | ![Cover](https://i.discogs.com/uRGnD6qdklOpD1TwEqk5SH0grC47Oe-NtvcCqexxwms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDU2/NC0xNTUzMjUxODk4/LTU0NTUuanBlZw.jpeg) | 1971 | Don McLean | American Pie |
 | 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1152593ce9894f89b570d9aef1b9b730.png) | 1971-01-30 | Carole King | Tapestry |
 | 78 |  | 1972-02-25 | Nick Drake | Pink Moon |
+| 34 | ![Cover](https://i.discogs.com/SuLz2z_3u7jhHLLmle0V88iyhXOfEnTIWooa4nlR6ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODM5/NTEtMTM4MzY4NzM4/OS05MTU4LmpwZWc.jpeg) | 1974-07-19 | Neil Young | On the Beach |
+| 22 |  | 1974-08-11 | Leonard Cohen | New Skin for the Old Ceremony |
+| 23 |  | 1984-12 | Leonard Cohen | Various Positions |
 | 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/105d5d8d95e64886c80af404ebcfdbe9.png) | 1985 | Tom Waits | Rain Dogs |
 | 52 |  | 1988-02-21 | Leonard Cohen | I&#39;m Your Man |
+| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/66e43b4c74ae4e3e8e674dede1f13209.png) | 1989 | Cat Stevens | The Very Best Of Cat Stevens |
 | 73 |  | 1994-07-14 | Elliott Smith | Roman Candle |
 | 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b9c826bf4d8da57694c54d7403d5cb18.png) | 1994-08-15 | Jeff Buckley | Grace |
 | 88 |  | 1995-07-10 | Elliott Smith | Elliott Smith |
 | 66 |  | 1996-07-23 | Fiona Apple | Tidal |
 | 96 |  | 1997-02-25 | Elliott Smith | Either&#x2F;Or |
 | 87 |  | 1998-08-21 | Elliott Smith | XO |
+| 44 |  | 1998-09-22 | Cat Power | Moon Pix |
+| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/825cf79f69ddb09e4df94d1318b2aa44.png) | 1999-04-13 | Tal Bachman | Tal Bachman |
+| 12 |  | 1999-10-28 | Emilíana Torrini | Love in the Time of Science |
 | 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a55820c7b475406c90810255bb55a5b2.png) | 2000 | Jack Johnson | Brushfire Fairytales |
 | 83 |  | 2000-04-17 | Elliott Smith | Figure 8 |
+| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6f90ec5d6c147821288a145d5c6511e6.png) | 2001-06-04 | Rufus Wainwright | Poses |
 | 86 | ![Cover](https://i.discogs.com/MJq8uUbFQaH03X6r_inb59hWIvUXKAhKBKxj4cx_Euk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTk3/NS0xMTUxNjA3MzQz/LmpwZWc.jpeg) | 2002 | Elliott Smith | Elliot Smith |
+| 10 | ![Cover](https://i.discogs.com/tVZytrcgPOujWdN_VVabpFFkTvd3w0OcoNalaOuKDD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjU5/Ny0xMzAwNjI3NTE0/LmpwZWc.jpeg) | 2002-03-05 | Ben Kweller | Sha Sha |
 | 93 | ![Cover](https://i.discogs.com/f9GvBTUCKXyaTd80xIksA1YQJhh1IUJAHVsob-BZfl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjI4/MDUtMTIwMjIzOTAz/MS5qcGVn.jpeg) | 2002-07-22 | Damien Rice | O |
 | 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cbe06e7f17ca878f52739d9c5b315280.png) | 2002-09-21 | Beck | Sea Change |
 | 60 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5537ea1b66604c74baabfad00198dd99.png) | 2003-01-25 | Cat Power | You Are Free |
 | 65 |  | 2003-05-02 | Regina Spektor | Soviet Kitsch |
-| 92 |  | 2003-10 | José González | Veneer |
 | 56 |  | 2003-10-07 | Howie Day | Stop All The World Now |
-| 69 |  | 2004-10-18 | Elliott Smith | From a Basement on the Hill |
-| 58 | ![Cover](https://i.discogs.com/nEhMHqvM_nYTZ7WgibOdprQKNveANPHIy40d2kONyEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDQ3/My0xNDI1Njk1ODUz/LTE1NTQuanBlZw.jpeg) | 2005-02-01 | Antony and the Johnsons | I&#39;m A Bird Now |
-| 64 |  | 2005-02-01 | Antony and the Johnsons | I Am a Bird Now |
-| 1 |  | 2005-02-28 | Jack Johnson | In Between Dreams |
-| 2 |  |  | Stevie Nicks | Crystal Visions: The Very Best of Stevie Nicks |
-| 16 |  | 1967-12-27 | Leonard Cohen | Songs of Leonard Cohen |
-| 25 | ![Cover](https://i.discogs.com/Qc3a1BYPO5Wyxr3N7nNaNBf9pa0FeOa9B0cguKvk2Tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzEx/Mi0xMjU4MDM0ODY2/LmpwZWc.jpeg) | 1969-09 | Nick Drake | Five Leaves Left |
-| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/874557ee3bcb413ea64be8587a180895.png) | 1970-10-21 | Bob Dylan | New Morning |
-| 26 |  | 1970-11 | Nick Drake | Bryter Layter |
-| 37 |  | 1970-11-23 | Cat Stevens | Tea For The Tillerman |
-| 34 | ![Cover](https://i.discogs.com/SuLz2z_3u7jhHLLmle0V88iyhXOfEnTIWooa4nlR6ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODM5/NTEtMTM4MzY4NzM4/OS05MTU4LmpwZWc.jpeg) | 1974-07-19 | Neil Young | On the Beach |
-| 22 |  | 1974-08-11 | Leonard Cohen | New Skin for the Old Ceremony |
-| 23 |  | 1984-12 | Leonard Cohen | Various Positions |
-| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/66e43b4c74ae4e3e8e674dede1f13209.png) | 1989 | Cat Stevens | The Very Best Of Cat Stevens |
-| 44 |  | 1998-09-22 | Cat Power | Moon Pix |
-| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/825cf79f69ddb09e4df94d1318b2aa44.png) | 1999-04-13 | Tal Bachman | Tal Bachman |
-| 12 |  | 1999-10-28 | Emilíana Torrini | Love in the Time of Science |
-| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6f90ec5d6c147821288a145d5c6511e6.png) | 2001-06-04 | Rufus Wainwright | Poses |
-| 10 | ![Cover](https://i.discogs.com/tVZytrcgPOujWdN_VVabpFFkTvd3w0OcoNalaOuKDD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjU5/Ny0xMzAwNjI3NTE0/LmpwZWc.jpeg) | 2002-03-05 | Ben Kweller | Sha Sha |
+| 92 |  | 2003-10 | José González | Veneer |
 | 32 | ![Cover](https://i.discogs.com/V5zxHMQh5ToKInbEvYACZhZYg9XByfWQcbHGRIJNJ2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzM5/NS0xMzAxMDA2OTk5/LmpwZWc.jpeg) | 2004-03-16 | Sufjan Stevens | Seven Swans |
+| 69 |  | 2004-10-18 | Elliott Smith | From a Basement on the Hill |
 | 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/56fd4da3c2234c0eb0e9484fbd57f2e4.png) | 2005 | Matt Costa | Songs We Sing |
 | 3 | ![Cover](https://i.discogs.com/QtSwj16lGvZ3x_Q3cnMETPM6GRaa3O14WhxNq7D0FJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTc4/OC0xNDQ5NTg2MjY4/LTc2NzguanBlZw.jpeg) | 2005-01-24 | Bright Eyes | I&#39;m Wide Awake, It&#39;s Morning |
+| 58 | ![Cover](https://i.discogs.com/nEhMHqvM_nYTZ7WgibOdprQKNveANPHIy40d2kONyEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDQ3/My0xNDI1Njk1ODUz/LTE1NTQuanBlZw.jpeg) | 2005-02-01 | Antony and the Johnsons | I&#39;m A Bird Now |
+| 64 |  | 2005-02-01 | Antony and the Johnsons | I Am a Bird Now |
 | 13 |  | 2005-02-08 | Andrew Bird | The Mysterious Production of Eggs |
+| 1 |  | 2005-02-28 | Jack Johnson | In Between Dreams |
 | 53 |  | 2005-04-25 | The Mountain Goats | The Sunset Tree |
 | 5 | ![Cover](https://i.discogs.com/-bnnFhuUrsZUtxGaQ7botHezI8uUddorzoUrx2r10AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Njg2/NC0xMjUxNjUwMjIx/LmpwZWc.jpeg) | 2005-06-13 | Patrick Wolf | Wind in the Wires |
 | 40 | ![Cover](https://i.discogs.com/r6LdN6ifkv8YjTQ2h6MjWA5RoE2SCwvzN0Ak3OJxq0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzky/NC0xMTk4OTM2NDY5/LmdpZg.jpeg) | 2006-05-09 | Kimya Dawson | Remember That I Love You |
@@ -113,6 +116,7 @@ Last updated: <time datetime="2025-10-28T06:38:30.564Z">Tue Oct 28 2025 08:38:30
 | 68 | ![Cover](https://i.discogs.com/0_xmVd0anj6LLwTffLNgHytsqjimF1dLnbzVw7A4JHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDEx/NTIyLTE3MDA4Njg0/MTctNDI1Mi5qcGVn.jpeg) | 2023-11-11 | Winter Aid | The Wisp Sings |
 | 51 | ![Cover](https://i.discogs.com/KOLqiMTRarKco83E0ozGmsIJax_qosbKlN7_2JVig8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTU3/MTIxLTE2NjgxMTYx/MjQtNTAwNS5qcGVn.jpeg) | 2024-04-12 | Noah Kahan | Stick Season (We&#39;ll All Be Here Forever) |
 | 19 | ![Cover](https://i.discogs.com/34QM_S2m4nrCCdAkQCGz-pBiqvSkhnBFtDbWwDo2K2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ5/NDU3LTE3MTQ1MDMx/MDItNzM0Ni5qcGVn.jpeg) | 2024-05-17 | Billie Eilish | HIT ME HARD AND SOFT |
+| 2 |  |  | Stevie Nicks | Crystal Visions: The Very Best of Stevie Nicks |
 
 ### Related genres
 

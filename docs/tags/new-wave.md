@@ -9,6 +9,10 @@ title: new wave
 
 Last updated: <time datetime="2025-10-28T02:14:59.519Z">Tue Oct 28 2025 04:14:59 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+New wave emerged in the late 1970s as a more accessible offshoot of punk rock, blending guitar-driven energy with synthesizers and experimental pop sensibilities. The genre embraced artistic fashion, quirky aesthetics, and introspective lyrics that reflected post-punk disillusionment and modern anxieties. Its polished yet edgy sound dominated alternative radio through the 1980s, bridging underground credibility with mainstream appeal.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -25,8 +29,8 @@ Last updated: <time datetime="2025-10-28T02:14:59.519Z">Tue Oct 28 2025 04:14:59
 | 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/15cf7dca3fbb34303801bf78223678fc.png) | 1979-08-03 | Talking Heads | Fear of Music |
 | 15 | ![Cover](https://i.discogs.com/o0toGnqP6EPpuNRnrZpwdDb8qPo8DuUxdc-nK9P570A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODcw/Ny0xMzM5NjIzMDI1/LTM4NzUuanBlZw.jpeg) | 1979-08-17 | XTC | Drums And Wires |
 | 51 | ![Cover](https://i.discogs.com/jnJo__wHdd-gdsbMxkZiNJbEV39GwrCOK00cE5nTLxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc0/Mi0xNDE1NTY4MjA2/LTYxNjcuanBlZw.jpeg) | 1979-09-07 | Gary Numan | The Pleasure Principle |
-| 88 |  | 1980-02 | Blondie | Call Me |
 | 77 |  | 1980-02-04 | Buggles | The Age of Plastic |
+| 88 |  | 1980-02 | Blondie | Call Me |
 | 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/57ba66839e0046738404526a60bcbd36.png) | 1980-07-01 | Devo | Freedom of Choice |
 | 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/909484b931449e8fc2e4fecca90b7eb5.png) | 1980-10-08 | Talking Heads | Remain in Light |
 | 61 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cf0a0b11c0bd4608ac391e9fa0038204.png) | 1981 | Dexys Midnight Runners | Too Rye Ay |
@@ -66,10 +70,10 @@ Last updated: <time datetime="2025-10-28T02:14:59.519Z">Tue Oct 28 2025 04:14:59
 | 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/18ee6e1759ebe88a58be9f3c6921eb66.png) | 1985-02-11 | The Smiths | Meat Is Murder |
 | 95 |  | 1985-02-17 | Tears for Fears | Songs from the Big Chair |
 | 43 | ![Cover](https://i.discogs.com/j1Qc4E6OAlHmjUY9f4PNY8hdOiVCR1TIqJzloPk70uA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTU3/NC0xMjg5NTQ5OTQz/LmpwZWc.jpeg) | 1985-05-01 | New Order | Low-Life |
-| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b9da375a36b84329bd3dabd820a58e0a.png) | 1985-06 | Billy Idol | Vital Idol |
 | 98 |  | 1985-06-01 | a-ha | Hunting High and Low |
 | 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a37156fbac2e4f0ecf7c7cdd6d8848b2.png) | 1985-06-10 | Talking Heads | Little Creatures |
 | 4 |  | 1985-06-21 | Dead or Alive | Youthquake |
+| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b9da375a36b84329bd3dabd820a58e0a.png) | 1985-06 | Billy Idol | Vital Idol |
 | 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c10b05cef98f4fbd9ca34f388fd359af.png) | 1985-08-13 | The Cure | The Head on the Door |
 | 100 | ![Cover](https://i.discogs.com/b_zNpYG7Pd0B96VL6cbcv0fnQwwBzkGAurTfxvtPdDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzQ1/NC0xNTA3Njg3Mzc0/LTgyODkuanBlZw.jpeg) | 1986-06-16 | The Smiths | The Queen Is Dead |
 | 46 | ![Cover](https://i.discogs.com/4V6HMpxvj9sB6xKbuwcdZqTSVIgwlhJgT9N1g6UQh0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjc0/ODAyLTE1MzIxMTE1/NTYtOTcxOS5qcGVn.jpeg) | 1987 | Modern Talking | Let&#39;s Talk About Love |

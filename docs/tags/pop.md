@@ -9,6 +9,10 @@ title: pop
 
 Last updated: <time datetime="2025-10-28T06:48:21.033Z">Tue Oct 28 2025 08:48:21 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Pop music is a commercially-oriented genre characterized by catchy melodies, repetitive hooks, and polished production designed for mass appeal. Emerging in the 1950s, it draws from various styles including rock, dance, and R&amp;B, constantly evolving with contemporary trends. The genre prioritizes accessibility and radio-friendly song structures that create memorable, singable moments.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -97,9 +101,8 @@ Last updated: <time datetime="2025-10-28T06:48:21.033Z">Tue Oct 28 2025 08:48:21
 | 61 | ![Cover](https://i.discogs.com/OKzClenL8kvhZ68PRP9z4xLpfLUYsB4cURcGn9D0kvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDM4/ODg4LTE2MjU4ODYw/MjctODgxMy5qcGVn.jpeg) | 2020-08-12 | BTS | Butter &#x2F; Permission to Dance |
 | 3 | ![Cover](https://i.discogs.com/uFqOq09y6-d9aTXm9SHb9Mdr0anVRfjijCEhwJ6ckwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDg1/NDMyLTE1NDc4NjUz/OTYtMjk2OC5qcGVn.jpeg) | 2020-10-23 | Ariana Grande | 7 Rings |
 | 96 | ![Cover](https://i.discogs.com/uFqOq09y6-d9aTXm9SHb9Mdr0anVRfjijCEhwJ6ckwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDg1/NDMyLTE1NDc4NjUz/OTYtMjk2OC5qcGVn.jpeg) | 2020-10-23 | Ariana Grande | boyfriend |
-| 10 | ![Cover](https://i.discogs.com/H3-8GbHLwyDxb0neQ5bNSOWhGZvUqvsSjAQY8WO6KPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njc1/Mzk3LTE2MjA2ODg3/NTYtMzQxMC5qcGVn.jpeg) | 2021-01-27 | Tate McRae | greedy |
-| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8cba8bc85a98d0257f3a45eff6a88d85.png) |  | John Mayer | Heavier Things |
 | 43 | ![Cover](https://i.discogs.com/XdvPRl7NniNNZdQq2_imTJ2SeEpoxudh4dmnumV0SLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzcw/NDQ0LTE1ODEzNjU3/ODEtNjU4OC5qcGVn.jpeg) | 2020-10-30 | Ariana Grande | Monopoly |
+| 10 | ![Cover](https://i.discogs.com/H3-8GbHLwyDxb0neQ5bNSOWhGZvUqvsSjAQY8WO6KPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njc1/Mzk3LTE2MjA2ODg3/NTYtMzQxMC5qcGVn.jpeg) | 2021-01-27 | Tate McRae | greedy |
 | 93 | ![Cover](https://i.discogs.com/pWqmWxGpOX16GIlkJeWYQ_iDOjzXbS004TrImfR4kqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjU1/OTY2LTE2NDE2NjMy/MDgtMTcxMS5qcGVn.jpeg) | 2021-05-21 | Olivia Rodrigo | SOUR |
 | 45 | ![Cover](https://i.discogs.com/ikaCyW3MvJkn9kE4x5tcz4okCCo1u75Miw0qDSwP3fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjAy/NTM5LTE2MjQxMzU2/MDMtNzc4Ni5qcGVn.jpeg) | 2021-05-28 | J Balvin | Mi Gente |
 | 69 | ![Cover](https://i.discogs.com/p5R_cd5m589QEjrExGukg-HLl9SeqPjb_7tR3C1VDPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTIy/NjQ5LTE2MTk3Njg4/MzItOTIzNC5qcGVn.jpeg) | 2021-06-02 | Billie Eilish | come out and play |
@@ -108,11 +111,12 @@ Last updated: <time datetime="2025-10-28T06:48:21.033Z">Tue Oct 28 2025 08:48:21
 | 57 | ![Cover](https://i.discogs.com/ntPr9xbvtnZNN1GX1QbVMiN5AmeVaEWWGeG-EUqgcbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjkz/MTA2LTE2NzA1ODIz/NTQtNDE0OC5qcGVn.jpeg) | 2022-05-20 | Harry Styles | Harry&#39;s House |
 | 80 | ![Cover](https://i.discogs.com/Bswe2DndHJ7nTlDVOZ3mmTNYOfiV5vz_ZRiVmzicdZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzM2/NTEyLTE2ODk5MTQ3/NzItOTA0NS5qcGVn.jpeg) | 2022-08-01 | NewJeans | NewJeans 2nd EP &#39;Get Up&#39; |
 | 44 | ![Cover](https://i.discogs.com/KmO77xiaUQ2dJGAfW7kLXMMLL_SuHguRhVSKhnN_d1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTMy/NjA0LTE2NjQ0NjA1/MDYtNTI2My5qcGVn.jpeg) | 2022-09-16 | BLACKPINK | bOrN pInK |
-| 20 | ![Cover](https://i.discogs.com/d98XI8RrJWHJ4acC3uUsQdYwnygLoIEoSII2o84Ono8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQ1/NDc3LTE2Njc1MzUx/NjgtMTY4My5wbmc.jpeg) | 2022-11-04 | Joji | Smithereens |
-| 31 |  |  | TOMORROW X TOGETHER | The Name Chapter: TEMPTATION |
 | 48 | ![Cover](https://i.discogs.com/KOLqiMTRarKco83E0ozGmsIJax_qosbKlN7_2JVig8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTU3/MTIxLTE2NjgxMTYx/MjQtNTAwNS5qcGVn.jpeg) | 2022-10-14 | Noah Kahan | Stick Season |
+| 20 | ![Cover](https://i.discogs.com/d98XI8RrJWHJ4acC3uUsQdYwnygLoIEoSII2o84Ono8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQ1/NDc3LTE2Njc1MzUx/NjgtMTY4My5wbmc.jpeg) | 2022-11-04 | Joji | Smithereens |
 | 51 | ![Cover](https://i.discogs.com/ugM6bdx_yTX8Od8AbbxOhSpmOQrjXBst3jN9YVh-C2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTk5/NzIwLTE2NTg3OTkw/NzgtMTM1OC5qcGVn.jpeg) | 2023 | XG | SHOOTING STAR |
 | 70 | ![Cover](https://i.discogs.com/BM1tqeuFcSKTrIShr9O0R1VUzcJPHvBtK7QHirJ3Ybc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjE5/ODcwLTE3MzQ3MTMz/MTItOTAzNC5qcGVn.jpeg) | 2023-11-03 | Jung Kook | Golden |
+| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8cba8bc85a98d0257f3a45eff6a88d85.png) |  | John Mayer | Heavier Things |
+| 31 |  |  | TOMORROW X TOGETHER | The Name Chapter: TEMPTATION |
 
 ### Related genres
 

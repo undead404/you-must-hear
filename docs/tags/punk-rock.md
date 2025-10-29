@@ -9,6 +9,10 @@ title: punk rock
 
 Last updated: <time datetime="2025-10-28T04:49:14.603Z">Tue Oct 28 2025 06:49:14 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Punk rock is a fast, aggressive style of rock music characterized by short songs, loud guitars, and rebellious lyrics that emerged in the 1970s. The genre prioritizes raw energy and DIY ethics over technical skill, often addressing social and political issues. Punk rock&#39;s anti-establishment attitude has influenced countless subgenres and youth movements worldwide.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -83,7 +87,7 @@ Last updated: <time datetime="2025-10-28T04:49:14.603Z">Tue Oct 28 2025 06:49:14
 | 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/96b933d5bcff4ee4b7067ee62ef8d1a0.png) | 2004-11-29 | Green Day | Boulevard of Broken Dreams |
 | 53 | ![Cover](https://i.discogs.com/kOZJnTAomnqqIBrpu38xl0pntVYxBNb-IY0lSpQ9fzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE2/MzctMTY3MTc3OTA4/OC0zMDY3LmpwZWc.jpeg) | 2005 | blink-182 | Blink-182: Greatest Hits |
 | 100 | ![Cover](https://i.discogs.com/NuiLwdSwLVp-5Aig7OHgMQL933IjmVSFm5J3BJsJ_Ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTg3/MTUtMTQzNjQzMjk2/NC04ODQwLmpwZWc.jpeg) | 2005 | Green Day | American Idiot (bonus disc) |
-| 56 |  | 2005-06-15 | Dropkick Murphys | The Warrior&#39;s Code |
+| 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dd8797a84503daf8618cfd28043e053e.png) | 2005-06-15 | Dropkick Murphys | The Warrior&#39;s Code |
 | 71 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3f16ce16c0ac44c6c48d4deee06fa853.png) | 2005-06-20 | The Offspring | Greatest Hits |
 | 63 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7ccc13b9d3736f6c15010e5b6c1a3eb5.png) | 2005-11-01 | blink-182 | Greatest Hits |
 | 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ccdf8555d0a031f6870925796cee1d8f.png) | 2006-03-17 | Anti-Flag | For Blood and Empire |
@@ -97,8 +101,8 @@ Last updated: <time datetime="2025-10-28T04:49:14.603Z">Tue Oct 28 2025 06:49:14
 | 69 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/59bc2761533f4dafabf0893da188ddfa.png) | 2007-07-18 | Sum 41 | Underclass Hero |
 | 49 | ![Cover](https://i.discogs.com/H4mynIVwDFdOxaWgYaYXUIVpSrEKQJkDOmj5lsimiuw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzAw/MS0xMTY1OTU5ODk1/LmpwZWc.jpeg) | 2008 | Ramones | Ramones (40th Anniversary Deluxe Edition; 2016 Remaster) |
 | 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e91fba45bbea0b861c29bde540ff980a.png) | 2008-06-11 | The Offspring | Rise and Fall, Rage and Grace |
-| 31 | ![Cover](https://i.discogs.com/v6MwVRwIvgvizxgDXiJi2IO45lU_MYKRtt9pk5VbD88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkz/NzI1LTE2OTc5MjQ5/MTUtNzg3MS5qcGVn.jpeg) | 2008-08 | Against Me! | New Wave |
 | 59 |  | 2008-08-18 | The Gaslight Anthem | The &#39;59 Sound |
+| 31 | ![Cover](https://i.discogs.com/v6MwVRwIvgvizxgDXiJi2IO45lU_MYKRtt9pk5VbD88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkz/NzI1LTE2OTc5MjQ5/MTUtNzg3MS5qcGVn.jpeg) | 2008-08 | Against Me! | New Wave |
 | 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3c68291415334c489bf27ceabf3fe6fc.png) | 2008-10-02 | Rise Against | Appeal to Reason |
 | 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/72a314e1e9064a0418159b144fe1ad72.png) | 2009-04 | Green Day | 21st Century Breakdown |
 | 66 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3bafcf56d90442bb876651f91833c8dc.png) | 2009-07-10 | Billy Talent | Billy Talent III |
