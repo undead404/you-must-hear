@@ -9,6 +9,10 @@ title: synthpop
 
 Last updated: <time datetime="2025-10-28T06:48:06.399Z">Tue Oct 28 2025 08:48:06 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Synthpop is a genre centered on synthesizers and electronic production that emerged in the late 1970s and remains influential today. It combines catchy pop melodies with futuristic keyboard sounds, drum machines, and atmospheric textures. The style ranges from upbeat dance tracks to moody, introspective songs with emotional depth.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |

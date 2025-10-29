@@ -9,6 +9,10 @@ title: ambient
 
 Last updated: <time datetime="2025-10-20T03:58:50.758Z">Mon Oct 20 2025 06:58:50 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Ambient is a genre focused on atmospheric soundscapes and textures rather than traditional melody or rhythm. It emerged in the 1970s as experimental music designed to enhance environments and evoke moods through layered, often electronic tones. The style prioritizes immersive listening experiences over conventional song structures.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -17,7 +21,7 @@ Last updated: <time datetime="2025-10-20T03:58:50.758Z">Mon Oct 20 2025 06:58:50
 | 83 |  | 1975-09 | Brian Eno | Another Green World |
 | 6 |  | 1975-11 | Brian Eno | Discreet Music |
 | 78 |  | 1978 | Brian Eno | Ambient 1: Music for Airports |
-| 30 | ![Cover](https://i.discogs.com/E53bmHi-OaUmaMpzuqQ1l-8kOsTtD5JLLTPHjfnXJjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc3/Ni0xNjE2NDg1MDk2/LTE5NDIuanBlZw.jpeg) | 1979 | Brian Eno | Ambient 1: Music For Airports (Remastered 2004) |
+| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2d03d4631bca0cca3580dec5e9cef63d.png) | 1979 | Brian Eno | Ambient 1: Music For Airports (Remastered 2004) |
 | 91 | ![Cover](https://i.discogs.com/Lq6r9XfYdpBGyqXK7ZuVTvG31MBvRYnNiPCnyAsOV8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTE5/LTExNDY4MDk2MzMu/anBlZw.jpeg) | 1984 | Cocteau Twins | The Moon And The Melodies |
 | 100 | ![Cover](https://i.discogs.com/tlKfpkKQmvIY3iYK9eS017WHy2XIkwscm6RM_EDMz7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjYy/LTEyMjE4OTY5NTUu/anBlZw.jpeg) | 1992-11-01 | Aphex Twin | Selected Ambient Works 85-92 |
 | 80 | ![Cover](https://i.discogs.com/AkRVXTPmmTWpyXmphG_eXHHAbPmvbqEs7Ac8Rf5fdC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzYt/MTI3MTYyNTc4MS5q/cGVn.jpeg) | 1994-03-07 | Aphex Twin | Selected Ambient Works Volume II |
@@ -53,13 +57,13 @@ Last updated: <time datetime="2025-10-20T03:58:50.758Z">Mon Oct 20 2025 06:58:50
 | 72 | ![Cover](https://i.discogs.com/03M_c79-6_PqQrKLqhsc9D9bT7PRP-e8Y4IAL0pMoEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU5/NzA1LTE1ODYxMDM0/MDYtOTMxNi5qcGVn.jpeg) | 2005-06 | Thievery Corporation | Versions - EP |
 | 67 |  | 2005-08-22 | Sigur Rós | Takk... |
 | 97 |  | 2005-10-12 | Boards of Canada | The Campfire Headphase |
-| 70 |  | 2006-06-15 | Helios | Eingya |
+| 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ef5ea289642f45939fbd09fe2f3ed0af.png) | 2006-06-15 | Helios | Eingya |
 | 10 |  | 2006-10-16 | Tim Hecker | Harmony In Ultraviolet |
 | 29 |  | 2006-12-02 | Carbon Based Lifeforms | World of Sleepers |
 | 76 |  | 2007-02-20 | Eluvium | Copia |
 | 32 |  | 2007-03-21 | Amiina | Kurr |
-| 8 |  | 2007-04 | Balmorhea | Balmorhea |
 | 73 | ![Cover](https://i.discogs.com/6nFzi3GsGSarh-Y2EBYivrGVExlyB9oHpwqETaG3_k8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mzgw/MC0xMzUzMjk0MDcy/LTY0NTkuanBlZw.jpeg) | 2007-04-02 | Stars of the Lid | and Their Refinement of the Decline |
+| 8 |  | 2007-04 | Balmorhea | Balmorhea |
 | 55 |  | 2007-10-01 | Ulver | Shadows of the Sun |
 | 3 |  | 2007-11-05 | Burial | Untrue |
 | 99 | ![Cover](https://i.discogs.com/HcBC1LvBNsGvg39TElfXOlhQBOH6x47WUDmjbymiXTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgw/NjEtMTIyODI0OTk5/MC5qcGVn.jpeg) | 2008 | Sigur Rós | Við spilum endalaust |
@@ -83,7 +87,7 @@ Last updated: <time datetime="2025-10-20T03:58:50.758Z">Mon Oct 20 2025 06:58:50
 | 92 |  | 2012-05-23 | Sigur Rós | Valtari |
 | 88 | ![Cover](https://i.discogs.com/1hUpurPAA8qid8VuAN3dPezVGOP50pB0xG06KOFMlX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzE1/NzctMTM1NzM2NDAx/OS0xNzM0LmpwZWc.jpeg) | 2012-11 | Grouper | A I A: Alien Observer |
 | 51 |  | 2012-12-14 | Burial | Truant &#x2F; Rough Sleeper |
-| 53 |  | 2013-02-04 | Grouper | The Man Who Died in His Boat |
+| 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1dcbfcd44dfa25624bf27e59c3b5c6b5.png) | 2013-02-04 | Grouper | The Man Who Died in His Boat |
 | 24 |  | 2013-03-04 | Chrome Sparks | Sparks EP |
 | 71 |  | 2013-06-05 | Boards of Canada | Tomorrow&#39;s Harvest |
 | 56 |  | 2013-11-09 | C418 | Minecraft - Volume Beta |

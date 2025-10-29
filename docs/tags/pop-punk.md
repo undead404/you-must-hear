@@ -9,6 +9,10 @@ title: pop punk
 
 Last updated: <time datetime="2025-10-28T06:50:21.342Z">Tue Oct 28 2025 08:50:21 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious attitude with catchy, radio-friendly melodies and hooks. Emerging in the 1990s, it became the soundtrack of teenage angst and suburban youth culture. The genre features power chords, simple song structures, and lyrics about relationships and growing up.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
