@@ -1,99 +1,101 @@
 ---
 category: genre
-date: 2025-10-22T11:19:50.355Z
+date: 2025-10-28T20:35:04.128Z
 permalink: tags/polski
 title: polski
 ---
 
 ## polski
 
-Last updated: <time datetime="2025-10-22T11:19:50.355Z">Wed Oct 22 2025 14:19:50 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T20:35:04.128Z">Tue Oct 28 2025 22:35:04 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Polish music is rich and diverse, with a history that spans from the 13th century to the present day. It includes world-renowned classical composers like Frédéric Chopin, traditional folk music ensembles, and a lively contemporary music scene. Notable genres include mazurka and polonaise, which are national dances, and the sung poetry genre.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | Coração Nativo | Polski Festywal |
-| 2 |  |  | Acid Cats vs Fluffy Inside | The Furball EP |
-| 3 | ![Cover](https://i.discogs.com/rhl3gd8qKDJ1n5a8I1Wv85sVeCaAyivtQpUMK7N_A-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTY3/MTMzLTE0OTI3ODM1/MzUtODEwNy5qcGVn.jpeg) | 1952-06 | Wanda Landowska | Dances of Poland: A Treasury of Harpsichord Music |
+| 3 |  |  | Coração Nativo | Polski Festywal |
+| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8437bf9e3e82a1e5bd411cc35ab55fea.png) |  | pandaredski3 | wonder woman |
+| 6 |  |  | Acid Cats vs Fluffy Inside | The Furball EP |
+| 7 | ![Cover](https://i.discogs.com/rhl3gd8qKDJ1n5a8I1Wv85sVeCaAyivtQpUMK7N_A-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTY3/MTMzLTE0OTI3ODM1/MzUtODEwNy5qcGVn.jpeg) | 1952-06 | Wanda Landowska | Dances of Poland: A Treasury of Harpsichord Music |
+| 2 |  | 1990 | Acid Cats | The Furball EP |
 | 47 | ![Cover](https://i.discogs.com/Q0EKYehU6LcBDhEB06Z6xA2OCmE6G1xzs6Al9mdPurU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzU2/ODEtMTQ3MjU4Njg0/Ny0zOTA3LmpwZWc.jpeg) | 1990 | Dorian Gray | Prima Esplorazione |
-| 11 |  | 2006-12-23 | Sascha Müller | Techno For Stereo |
-| 4 | ![Cover](https://i.discogs.com/5pyhrJrnsi97VQIen_64YRBMdnlPyP-lERmqAAFN304/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDI1/MDUtMTM4NDU0NzAz/Ni0xMTIyLmpwZWc.jpeg) | 2007 | Seta | HARDCORE DISS |
-| 5 | ![Cover](https://i.discogs.com/aZ48PHoHKJ8uOAy_ykqHofboUBPsuNEnZ5jIEOWqr_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjQw/MzktMTI4MzI4Nzk0/OC5qcGVn.jpeg) | 2007-12-06 | Verba | Szosty Grudnia |
-| 39 |  | 2008-11-17 | Sascha Müller | Kathoden |
-| 41 | ![Cover](https://i.discogs.com/GfxuW7-Vwm_kzQw0zVLhchFFpT5FOOkvFxjy3LdQK7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODc4/ODEtMTI5MTkwMjE0/MS5qcGVn.jpeg) | 2009-11-27 | Verba | Nie lam mi serca |
-| 28 | ![Cover](https://i.discogs.com/kr8tleZvQiNfKjrDEHX-qHtsAr7FmHz3okl3ftYwouo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI5/NDU0LTE2NzgxNDI1/ODEtNDQ4Ni5qcGVn.jpeg) | 2014-10-13 | END 519 | xxxxx​.​.​.​. |
-| 7 | ![Cover](https://i.discogs.com/wzFNk-5ztXHjxEYvFphpndnYsq9JaJ7sPQeUEaGSHos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTk4/NzAtMTM2MTExNTM2/My0xODM3LmpwZWc.jpeg) | 2016-01-29 | Gang Marcela | Nie Tylko Kasa... |
-| 9 |  |  | M@rrcvs | O.S.T.R - Jazz W Wolnych Chwilach [CD1] |
+| 13 |  | 2006-12-23 | Sascha Müller | Techno For Stereo |
+| 8 | ![Cover](https://i.discogs.com/5pyhrJrnsi97VQIen_64YRBMdnlPyP-lERmqAAFN304/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDI1/MDUtMTM4NDU0NzAz/Ni0xMTIyLmpwZWc.jpeg) | 2007 | Seta | HARDCORE DISS |
+| 5 |  | 2007-12-06 | Verba | Szosty Grudnia |
+| 40 |  | 2008-11-17 | Sascha Müller | Kathoden |
+| 30 |  | 2009-11-27 | Verba | Nie lam mi serca |
 | 24 | ![Cover](https://i.discogs.com/RJC9IkmTH2KVThxOLvLcoOQEA-VKe08Wvv5PfR1yiKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDI1/NDYtMTM1ODQyOTY3/Mi05MzcwLmpwZWc.jpeg) | 2012-09-06 | aeck | AWKWARD ACHES EP |
+| 29 | ![Cover](https://i.discogs.com/kr8tleZvQiNfKjrDEHX-qHtsAr7FmHz3okl3ftYwouo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI5/NDU0LTE2NzgxNDI1/ODEtNDQ4Ni5qcGVn.jpeg) | 2014-10-13 | END 519 | xxxxx​.​.​.​. |
 | 50 | ![Cover](https://i.discogs.com/zWkBxMlpNVKPTKWY9yKXn4mWCC1LvKvPcboF3ulONwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTY2/NzEtMTUxOTA0NDM1/My0xNTg3LmpwZWc.jpeg) | 2015-03-07 | FOQL | BLACK MARKET GOODS |
-| 6 | ![Cover](https://i.discogs.com/b0GPdJDByeoU5guIXGaWVw2o-3gwdmnzBUjbK5l7Plw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDAw/MTM5LTE1NDYxOTI2/NTktNzAwMi5qcGVn.jpeg) | 2017 | radyo | Zwiastun |
-| 30 |  | 2018-07-09 | Dylab | A Man With No Alibi |
-| 35 | ![Cover](https://i.discogs.com/UUq7TU17iCRwh9D4ybQbiETe42JYROQQ7deGRiL1MSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTgy/OTIwLTE2NTg2NjA5/MTktMjkyMi5qcGVn.jpeg) | 2019-12-17 | Willy Parker | Organic Compounds |
-| 40 | ![Cover](https://i.discogs.com/C37vRcejHRtzU7B6zeyTJMHJfHqALsNBoG6RS0zn1tQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg3/Mjc4LTE2NzM1NDM4/NDEtMzYyNi5qcGVn.jpeg) | 2022 | Type-303 | Acid Works |
-| 31 |  | 2023-05-05 | Mr Toes | Back in Acid |
-| 8 | ![Cover](https://i.discogs.com/gFcSjoX9zpNfaiFgsvCL6le5WzdX4MCt0_qY_0EKlNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODY4/MDI5LTE2ODIzNTEx/MzQtMTUzOS5qcGVn.jpeg) | 2023-05-12 | DJ Arg | Are You Ready? |
-| 26 |  | 2023-05-12 | Cellar | Acid Func |
-| 12 | ![Cover](https://i.discogs.com/bYWEKv2hhE-VF0Bz7H7LGkLEPg4PpJe2AvFhQdzxw9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzQz/NTkzLTE2ODY0MDc3/NDctNzkwOC5wbmc.jpeg) | 2023-06-02 | Vaz Mas II | Mas Appeal |
-| 29 | ![Cover](https://i.discogs.com/sbfw1QCbOm5kRIISqdJ7QCZTwFc8_foaTRd1aQGh9lQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTQ4/NTkwLTE2OTM2NTEx/NTAtNjgzOS5qcGVn.jpeg) | 2023-08-29 | Micky Must | Not As We Know |
-| 37 | ![Cover](https://i.discogs.com/KNfs_2YWM9XB0n-0aXn8ICYNbEfkTmNGBeq-M04uKUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzU0/OTk1LTE3MDQwMTEz/MDktMjQ5OC5qcGVn.jpeg) | 2023-12-29 | Papaverhof | Move Your Feet |
+| 10 | ![Cover](https://i.discogs.com/wzFNk-5ztXHjxEYvFphpndnYsq9JaJ7sPQeUEaGSHos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTk4/NzAtMTM2MTExNTM2/My0xODM3LmpwZWc.jpeg) | 2016-01-29 | Gang Marcela | Nie Tylko Kasa... |
+| 9 | ![Cover](https://i.discogs.com/b0GPdJDByeoU5guIXGaWVw2o-3gwdmnzBUjbK5l7Plw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDAw/MTM5LTE1NDYxOTI2/NTktNzAwMi5qcGVn.jpeg) | 2017 | radyo | Zwiastun |
+| 32 |  | 2018-07-09 | Dylab | A Man With No Alibi |
+| 37 | ![Cover](https://i.discogs.com/UUq7TU17iCRwh9D4ybQbiETe42JYROQQ7deGRiL1MSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTgy/OTIwLTE2NTg2NjA5/MTktMjkyMi5qcGVn.jpeg) | 2019-12-17 | Willy Parker | Organic Compounds |
+| 41 | ![Cover](https://i.discogs.com/C37vRcejHRtzU7B6zeyTJMHJfHqALsNBoG6RS0zn1tQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg3/Mjc4LTE2NzM1NDM4/NDEtMzYyNi5qcGVn.jpeg) | 2022 | Type-303 | Acid Works |
+| 33 |  | 2023-05-05 | Mr Toes | Back in Acid |
+| 11 | ![Cover](https://i.discogs.com/gFcSjoX9zpNfaiFgsvCL6le5WzdX4MCt0_qY_0EKlNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODY4/MDI5LTE2ODIzNTEx/MzQtMTUzOS5qcGVn.jpeg) | 2023-05-12 | DJ Arg | Are You Ready? |
+| 27 |  | 2023-05-12 | Cellar | Acid Func |
+| 14 | ![Cover](https://i.discogs.com/bYWEKv2hhE-VF0Bz7H7LGkLEPg4PpJe2AvFhQdzxw9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzQz/NTkzLTE2ODY0MDc3/NDctNzkwOC5wbmc.jpeg) | 2023-06-02 | Vaz Mas II | Mas Appeal |
+| 31 | ![Cover](https://i.discogs.com/sbfw1QCbOm5kRIISqdJ7QCZTwFc8_foaTRd1aQGh9lQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTQ4/NTkwLTE2OTM2NTEx/NTAtNjgzOS5qcGVn.jpeg) | 2023-08-29 | Micky Must | Not As We Know |
+| 23 | ![Cover](https://i.discogs.com/7gW3_c9pIymUM4nLiCFNACJEZ83uvSp7xzJouJKg8HE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQ4/ODA0LTE2OTc4MDM0/ODQtNDg0NC5qcGVn.jpeg) | 2023-10-20 | Art of sound | 3am |
+| 35 | ![Cover](https://i.discogs.com/kBJcU2sloxAYTTQ3I8rivbOQsTnAmHOBCtaWEqhYql4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzI2/OTk5LTE2OTg0OTEz/NTgtODAyNC5qcGVn.jpeg) | 2023-10-27 | Fluffy Inside | Bilateral Tones |
+| 22 | ![Cover](https://i.discogs.com/0voA2BfuJF_lm_hi2pu6NK3vlUxLZssRkRgb-SIsJUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mjgy/NjY4LTE3MDMzMDMz/MDMtNTIzMC5qcGVn.jpeg) | 2023-12-22 | Budel 303 | Raindrops |
+| 39 | ![Cover](https://i.discogs.com/KNfs_2YWM9XB0n-0aXn8ICYNbEfkTmNGBeq-M04uKUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzU0/OTk1LTE3MDQwMTEz/MDktMjQ5OC5qcGVn.jpeg) | 2023-12-29 | Papaverhof | Move Your Feet |
 | 48 |  | 2024-02-02 | ACIDSKOOL | Cycles of Time |
 | 46 |  | 2024-02-14 | Mr Toes | Abstract Theory |
-| 23 |  | 2024-03-27 | Apoll | The Damned and The Ugly |
-| 18 |  | 2024-03-29 | Papaverhof | Flexxin On Acid House |
-| 10 |  | 2024-05-31 | Apoll | A Pattern Group Accident |
-| 13 |  |  | M@rrcvs | O.S.T.R - Jazz W Wolnych Chwilach [CD2] |
-| 22 | ![Cover](https://i.discogs.com/7gW3_c9pIymUM4nLiCFNACJEZ83uvSp7xzJouJKg8HE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQ4/ODA0LTE2OTc4MDM0/ODQtNDg0NC5qcGVn.jpeg) | 2023-10-20 | Art of sound | 3am |
-| 33 | ![Cover](https://i.discogs.com/kBJcU2sloxAYTTQ3I8rivbOQsTnAmHOBCtaWEqhYql4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzI2/OTk5LTE2OTg0OTEz/NTgtODAyNC5qcGVn.jpeg) | 2023-10-27 | Fluffy Inside | Bilateral Tones |
-| 21 | ![Cover](https://i.discogs.com/0voA2BfuJF_lm_hi2pu6NK3vlUxLZssRkRgb-SIsJUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mjgy/NjY4LTE3MDMzMDMz/MDMtNTIzMC5qcGVn.jpeg) | 2023-12-22 | Budel 303 | Raindrops |
 | 42 |  | 2024-03-06 | Acid Cats | Sorbosis |
+| 25 |  | 2024-03-27 | Apoll | The Damned and The Ugly |
+| 19 |  | 2024-03-29 | Papaverhof | Flexxin On Acid House |
 | 43 |  | 2024-04-05 | Illegal 303 | Take It Or Leave It |
 | 44 |  | 2024-04-12 | Acid Cats | Addicted |
-| 27 |  | 2024-05-03 | Lausen | Boxfresh |
-| 14 |  | 2024-05-08 | Alex Hazzard | Feel It |
-| 34 |  | 2024-06-28 | Lorenzo Chi | Esaiko |
-| 17 |  | 2024-07-05 | Art of sound | TAAL |
-| 36 |  | 2024-07-10 | Papaverhof | Acid 2 Dance 2 |
-| 19 |  | 2024-08-14 | Jackin Jones | Friends In High Places |
-| 20 |  | 2024-08-23 | Futura 303 | Kerava EP |
-| 16 |  | 2024-09-06 | Acid Cats | In Between EP |
-| 25 |  | 2024-09-25 | Purple Acid Project | The Eye Life |
-| 15 |  | 2024-09-27 | ACIDSKOOL | I Want Some Acid |
-| 32 |  |  | Moritz Moszkowski | Moszkowski: Etudes, Opp. 72 &amp; 92 |
-| 38 |  |  | pandaredski3 | wonder woman |
+| 28 |  | 2024-05-03 | Lausen | Boxfresh |
+| 15 |  | 2024-05-08 | Alex Hazzard | Feel It |
+| 12 |  | 2024-05-31 | Apoll | A Pattern Group Accident |
+| 36 |  | 2024-06-28 | Lorenzo Chi | Esaiko |
+| 18 |  | 2024-07-05 | Art of sound | TAAL |
+| 38 |  | 2024-07-10 | Papaverhof | Acid 2 Dance 2 |
+| 1 |  | 2024-08-09 | Lausen | What The Box Offers |
+| 20 |  | 2024-08-14 | Jackin Jones | Friends In High Places |
+| 21 |  | 2024-08-23 | Futura 303 | Kerava EP |
+| 17 |  | 2024-09-06 | Acid Cats | In Between EP |
+| 26 |  | 2024-09-25 | Purple Acid Project | The Eye Life |
+| 16 |  | 2024-09-27 | ACIDSKOOL | I Want Some Acid |
+| 34 |  |  | Moritz Moszkowski | Moszkowski: Etudes, Opp. 72 &amp; 92 |
 | 45 |  | 2024-12-06 | Perseus Traxx | Battle Not With Monsters |
 | 49 |  |  | Grandtheftautowiec | Z dedykacją dla foruma |
-| 91 |  |  | Słodki Całus od Buby | Równoległe |
 | 74 | ![Cover](https://i.discogs.com/IiTie01dojGJZy7r7LnhGXHG-sKF9bw6S85LLbjqtkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/MDY4LTE2NDc4OTgz/NjgtOTc0NS5qcGVn.jpeg) | 1920 | Leopold Godowsky | GODOWSKY: Schubert Transcriptions |
 | 62 | ![Cover](https://i.discogs.com/H0uhc1fcjtCRA14KeBnadbvD2IK40nPX8Nd1xvQyOUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjA4/NzUtMTQ3MjMwNjY1/MC03MTQwLmpwZWc.jpeg) | 1967 | Leopold Godowsky | GODOWSKY: Piano Sonata in E Minor |
 | 69 | ![Cover](https://i.discogs.com/H0uhc1fcjtCRA14KeBnadbvD2IK40nPX8Nd1xvQyOUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjA4/NzUtMTQ3MjMwNjY1/MC03MTQwLmpwZWc.jpeg) | 1967 | Leopold Godowsky | GODOWSKY: Piano Music, Vol. 8 |
-| 83 | ![Cover](https://i.discogs.com/PqKTwQarOMjfjxQnowLZaM8cIipz7vnDzD1PQhkEDks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzQy/LTEzNTc5ODU2MDIt/NTk3OC5qcGVn.jpeg) | 1991 | Lassigue Bendthaus | Matter |
-| 87 | ![Cover](https://i.discogs.com/J25bXehp2RcpuLkFggp1Z1brgZposdonx2pjhvbnJVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODUz/LTExMjk1NzUzNzku/anBlZw.jpeg) | 1996-03 | Sensorama | Zu Gast Auf der Welcome Insel |
-| 77 | ![Cover](https://i.discogs.com/_59MQ3oXmirKugqq1yqExsAU7L_5h7-kQIIMeB61m1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzYz/MzItMTY1MDk5MjI4/OS01MTM3LmpwZWc.jpeg) | 1997 | Atrakcyjny Kazimierz | Winogrono |
+| 85 | ![Cover](https://i.discogs.com/PqKTwQarOMjfjxQnowLZaM8cIipz7vnDzD1PQhkEDks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzQy/LTEzNTc5ODU2MDIt/NTk3OC5qcGVn.jpeg) | 1991 | Lassigue Bendthaus | Matter |
+| 93 |  | 1993 | G.G.F.H. | Disease |
+| 88 | ![Cover](https://i.discogs.com/J25bXehp2RcpuLkFggp1Z1brgZposdonx2pjhvbnJVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODUz/LTExMjk1NzUzNzku/anBlZw.jpeg) | 1996-03 | Sensorama | Zu Gast Auf der Welcome Insel |
+| 78 | ![Cover](https://i.discogs.com/_59MQ3oXmirKugqq1yqExsAU7L_5h7-kQIIMeB61m1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzYz/MzItMTY1MDk5MjI4/OS01MTM3LmpwZWc.jpeg) | 1997 | Atrakcyjny Kazimierz | Winogrono |
 | 57 | ![Cover](https://i.discogs.com/ev0zt4kZLiAx1oXnMNe5O-Y6qE_NXO9QooLIYi4PrhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjEx/OTM5LTE2MzQ0MDA2/ODktNDI5My5qcGVn.jpeg) | 2000 | Altenberg Trio Wien | Polish Piano Trios |
-| 79 | ![Cover](https://i.discogs.com/BQdNraFocoHh3FgQKQxYllsJuPag83Qcl-RAUurLDvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjk3/NzItMTIzOTYzNjIw/NC5qcGVn.jpeg) | 2006-12-20 | Koutun&#x2F;Emtebe | Dwóch Różnych Sił Wypadkowa |
-| 70 | ![Cover](https://i.discogs.com/pelpibvVU6Wk2fj5zJy0DooD2pcNU31y0wfw98d7GmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MzQw/NzMtMTQyOTg1NjMz/My02MjEzLmpwZWc.jpeg) | 2007 | 9Lies | Halfway From Nowhere |
-| 82 | ![Cover](https://i.discogs.com/yWdTuKbwrL5w1EoFL0YHtHk2-xeGWiO7zBxm7nW3TUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODc3/MTgtMTI5MTg5NDEw/OC5qcGVn.jpeg) | 2008-09-05 | Verba | The Greatest Hits |
-| 85 | ![Cover](https://i.discogs.com/y1KW7TjWujqlpHJqJZQ_uccDq69PCLq6Nb4LSw-acq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDA5/OTYtMTMyMDI3MTE5/MC5qcGVn.jpeg) | 2010 | Bustum | The Return of Hate |
-| 65 | ![Cover](https://i.discogs.com/MQf0Bovo12nW7e5DNt-2_2YrTe-4IZr5UpEnFFvYdOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzUw/MDItMTM1NjQ2NjUx/Ny0yNDM1LmpwZWc.jpeg) | 2012 | Severe | Czas Przychodzi Sam |
-| 81 | ![Cover](https://i.discogs.com/l12rZbxZChAbM0epUhYTWeiGxOSIwj2hPGV52Bl95vI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMDQ5/MS0xMTc0MTE2NzU1/LmdpZg.jpeg) | 2012-12 | Alastor | Out of Anger |
-| 80 | ![Cover](https://i.discogs.com/Yyhrco7zlmUeHodoe9m7NjLhELQGkmqD43gLTaiGEDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTI4/NjItMTQwNjE0MjUx/OS02Nzk0LmpwZWc.jpeg) | 2014-01-21 | Verba | Miłość i Przyjaźń |
-| 71 | ![Cover](https://i.discogs.com/1N4sCPFUAzC6WabsWvSfDC7cK3uayp6NvFqnJHB40Mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODI2/MDItMTQxODQ3MDIx/OS0yNjU3LmpwZWc.jpeg) | 2014-09-13 | Keepsakes | Stygian Concrete Works |
-| 84 | ![Cover](https://i.discogs.com/0TqW6rGtgspy9fieCzHn7YcP5FhjfqwnGfOy_AF5Mlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDg5/NTYtMTQzOTQ5ODMx/Ni03MjM3LmpwZWc.jpeg) | 2015-03-17 | Verba | Historie Twojego Życia |
-| 76 | ![Cover](https://i.discogs.com/5UIgIG_wM2-NqXGRgfsWY7GOZ9bKdElGGnpfTQPRIeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTM5/OTUtMTUxOTA0NDYz/NC03NTQzLmpwZWc.jpeg) | 2015-11-23 | mchy i porosty | BARDZO CIEPŁE LATO |
-| 58 | ![Cover](https://i.discogs.com/yaNJGTCD70kkGzcum29bWCAxHa0nnlfnDvC77-b1DiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTE4/MjAtMTQ3MjkwMDky/MS00NDc4LmpwZWc.jpeg) | 2016-07-07 | Slaughtered Saint | Odio y Desprecio |
-| 72 | ![Cover](https://i.discogs.com/T_n7oForuQpGLqAJqXpglzPhTxNSU1nT1HhmT1z-kn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/Mjc3LTE1Mjg2NDcx/OTctNzg4MS5qcGVn.jpeg) | 2017-06-28 | Inslavement | The Missing Street |
-| 89 |  |  | Marzia Gaggioli | I Love The World |
-| 92 |  | 1993 | G.G.F.H. | Disease |
-| 90 | ![Cover](http://coverartarchive.org/release/eed8a036-2a54-4f72-9d77-e522245be88f/4541781199-250.jpg) | 2005 | Arkona | Raw Years 1993-95 |
+| 91 | ![Cover](http://coverartarchive.org/release/eed8a036-2a54-4f72-9d77-e522245be88f/4541781199-250.jpg) | 2005 | Arkona | Raw Years 1993-95 |
 | 96 | ![Cover](https://i.discogs.com/y_kkgY_B0Nue6WbBH85wdqcCtH8hzqzXbUPzxWrCQjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTY1/MzgtMTI4NzIyMDc2/NC5qcGVn.jpeg) | 2005 | Łzy | Historie, Ktorych Nie Bylo |
-| 95 | ![Cover](https://i.discogs.com/_ai3MT8mCxvtn4S_Z-WWh-amJ8GmuwylyJotVlIrsoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDY5/NTctMTI4Nzc4MDE1/NS5qcGVn.jpeg) | 2005-03-08 | Verba | Osmy Marca |
+| 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f7d312b1ff144a6b877c7c887b234cf4.png) | 2005-03-08 | Verba | Osmy Marca |
+| 80 | ![Cover](https://i.discogs.com/BQdNraFocoHh3FgQKQxYllsJuPag83Qcl-RAUurLDvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjk3/NzItMTIzOTYzNjIw/NC5qcGVn.jpeg) | 2006-12-20 | Koutun&#x2F;Emtebe | Dwóch Różnych Sił Wypadkowa |
+| 70 | ![Cover](https://i.discogs.com/pelpibvVU6Wk2fj5zJy0DooD2pcNU31y0wfw98d7GmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MzQw/NzMtMTQyOTg1NjMz/My02MjEzLmpwZWc.jpeg) | 2007 | 9Lies | Halfway From Nowhere |
+| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c7fefb5f46e84482a166f3b09600009c.png) | 2008-09-05 | Verba | The Greatest Hits |
+| 86 | ![Cover](https://i.discogs.com/y1KW7TjWujqlpHJqJZQ_uccDq69PCLq6Nb4LSw-acq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDA5/OTYtMTMyMDI3MTE5/MC5qcGVn.jpeg) | 2010 | Bustum | The Return of Hate |
 | 100 | ![Cover](https://i.discogs.com/kzhJYS5d7s9V4Wp8KEkRB_izw_5cWht8PN42SuBguKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjM3/ODgtMTI4ODcyOTQ2/Ni5qcGVn.jpeg) | 2010-11-03 | Pih | Dowód Rzeczowy Nr 2 |
 | 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6335eeea0052df1ac4b9132736c9bd19.png) | 2010-11-09 | Perfect | XXX |
-| 93 | ![Cover](https://i.discogs.com/iM575YzJBRWECZQQu6zkao0CEyJlbdOn_roxIRbaH3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA1/MzI2LTE1MDI3NTUy/MDYtNDM3Ni5qcGVn.jpeg) | 2011 | LED | Wściekłość i wrzask |
-| 94 | ![Cover](https://i.discogs.com/dKvJrcsynjOn13EF7s85kJOLrUT5vbKpO1Mm-heMo64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjUw/NzM2LTE1MTI3NDk1/ODctMzcwNy5qcGVn.jpeg) | 2017 | Arkona | Zeta Reticuli |
+| 82 |  | 2011 | LED | Wściekłość i wrzask |
+| 65 | ![Cover](https://i.discogs.com/MQf0Bovo12nW7e5DNt-2_2YrTe-4IZr5UpEnFFvYdOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzUw/MDItMTM1NjQ2NjUx/Ny0yNDM1LmpwZWc.jpeg) | 2012 | Severe | Czas Przychodzi Sam |
+| 84 | ![Cover](https://i.discogs.com/l12rZbxZChAbM0epUhYTWeiGxOSIwj2hPGV52Bl95vI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMDQ5/MS0xMTc0MTE2NzU1/LmdpZg.jpeg) | 2012-12 | Alastor | Out of Anger |
+| 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6c51cd1906934080c0c09cdbedfcc958.png) | 2014-01-21 | Verba | Miłość i Przyjaźń |
+| 71 | ![Cover](https://i.discogs.com/1N4sCPFUAzC6WabsWvSfDC7cK3uayp6NvFqnJHB40Mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODI2/MDItMTQxODQ3MDIx/OS0yNjU3LmpwZWc.jpeg) | 2014-09-13 | Keepsakes | Stygian Concrete Works |
+| 83 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c7e58761b8d057a1c5c1218147bc5986.png) | 2015-03-17 | Verba | Historie Twojego Życia |
+| 76 | ![Cover](https://i.discogs.com/5UIgIG_wM2-NqXGRgfsWY7GOZ9bKdElGGnpfTQPRIeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTM5/OTUtMTUxOTA0NDYz/NC03NTQzLmpwZWc.jpeg) | 2015-11-23 | mchy i porosty | BARDZO CIEPŁE LATO |
+| 58 | ![Cover](https://i.discogs.com/yaNJGTCD70kkGzcum29bWCAxHa0nnlfnDvC77-b1DiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTE4/MjAtMTQ3MjkwMDky/MS00NDc4LmpwZWc.jpeg) | 2016-07-07 | Slaughtered Saint | Odio y Desprecio |
+| 95 | ![Cover](https://i.discogs.com/dKvJrcsynjOn13EF7s85kJOLrUT5vbKpO1Mm-heMo64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjUw/NzM2LTE1MTI3NDk1/ODctMzcwNy5qcGVn.jpeg) | 2017 | Arkona | Zeta Reticuli |
+| 72 | ![Cover](https://i.discogs.com/T_n7oForuQpGLqAJqXpglzPhTxNSU1nT1HhmT1z-kn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE3/Mjc3LTE1Mjg2NDcx/OTctNzg4MS5qcGVn.jpeg) | 2017-06-28 | Inslavement | The Missing Street |
 | 63 | ![Cover](https://i.discogs.com/-Afwpp-T17V2GkapxXZ4DUkLMe4qi-v4oON-AJ91eXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI5/MjY0LTE2Mzg2NDcx/MzctNzAzOS5qcGVn.jpeg) | 2019 | Stanislaw Moniuszko | Verbum Nobile |
-| 86 | ![Cover](https://i.discogs.com/X398aB3irhEs12nt14fxqsp_TIUTQqzrqY0XMzxUlNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTA0/NzY1LTE1NzU5MDA4/NDctMzM2NC5qcGVn.jpeg) | 2019 | Kobranocka | Sztuka jest skarpetka kulawego |
+| 87 | ![Cover](https://i.discogs.com/X398aB3irhEs12nt14fxqsp_TIUTQqzrqY0XMzxUlNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTA0/NzY1LTE1NzU5MDA4/NDctMzM2NC5qcGVn.jpeg) | 2019 | Kobranocka | Sztuka jest skarpetka kulawego |
 | 98 | ![Cover](https://i.discogs.com/OocmnuhHAG3tzqdJYcBe_Ms2GXgjopTboZuzNUI3GLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDA5/MDkyLTE1NzM5MzM5/MDYtNTcxNC5qcGVn.jpeg) | 2019 | Bogdan Raczynski | Muzyka dla Imigrantow |
 | 56 | ![Cover](https://i.discogs.com/rwJZPvJYID_3RjUyaN345Jar646a8osZkajGXYb_6YU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk2/MTQyLTE1NjEzMTM4/MDAtNTc0My5qcGVn.jpeg) | 2019-06-06 | FOQL | Dumpster Diving Know-How |
 | 55 | ![Cover](https://i.discogs.com/ZQk37L2rys7Js4qj8-JxHvNEwAPqe05nw7YEmTdzS6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzkx/NzQ1LTE2OTA0MTIw/OTMtNzcwNy5qcGVn.jpeg) | 2020-07-03 | Elad Perez | Infatuation |
@@ -111,8 +113,10 @@ Last updated: <time datetime="2025-10-22T11:19:50.355Z">Wed Oct 22 2025 14:19:50
 | 61 |  | 2024-11-29 | Acidulant | Let&#39;s Go |
 | 73 |  |  | Marzia Gaggioli | Wróć Do Mnie |
 | 75 |  |  | Dj Konik Morski - Maciej Flaczyński | The Best Of DJ Konik Morski |
-| 78 |  |  | Gorecki And Friends | Polish Chamber Music |
-| 88 |  |  | Marzia Gaggioli | Dzien Dobry |
+| 79 |  |  | Gorecki And Friends | Polish Chamber Music |
+| 89 |  |  | Marzia Gaggioli | Dzien Dobry |
+| 90 |  |  | Marzia Gaggioli | I Love The World |
+| 92 |  |  | Słodki Całus od Buby | Równoległe |
 
 ### Related genres
 
@@ -120,9 +124,9 @@ Last updated: <time datetime="2025-10-22T11:19:50.355Z">Wed Oct 22 2025 14:19:50
 - [acid house]({{ "/tags/acid-house" | relative_url }})
 - [polish]({{ "/tags/polish" | relative_url }})
 - [polska]({{ "/tags/polska" | relative_url }})
-- [hip-hop]({{ "/tags/hip-hop" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
 - [poland]({{ "/tags/poland" | relative_url }})
+- [hip-hop]({{ "/tags/hip-hop" | relative_url }})
 - [classical]({{ "/tags/classical" | relative_url }})
 - [piano]({{ "/tags/piano" | relative_url }})
 - [rap]({{ "/tags/rap" | relative_url }})
