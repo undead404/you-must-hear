@@ -9,6 +9,10 @@ title: experimental hip hop
 
 Last updated: <time datetime="2025-10-20T04:26:14.552Z">Mon Oct 20 2025 07:26:14 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Experimental hip hop pushes beyond traditional rap conventions by incorporating unconventional sounds, structures, and production techniques from genres like industrial, jazz, and electronic music. Artists challenge mainstream hip hop&#39;s norms through abstract lyrics, distorted beats, and avant-garde approaches to sampling and instrumentation. The genre emerged as a space for creative risk-taking, blending hip hop&#39;s cultural roots with boundary-pushing artistic experimentation.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -95,24 +99,24 @@ Last updated: <time datetime="2025-10-20T04:26:14.552Z">Mon Oct 20 2025 07:26:14
 | 75 | ![Cover](https://i.discogs.com/2k92bwTAdYbCWK6pzuc1b-VHicDref_EScQZnQVpzIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTMy/MjcwLTE2NDc0NDQ0/ODUtMzg3MS5qcGVn.jpeg) | 2021-09-24 | siouxxie sixxsta | masquerade |
 | 22 | ![Cover](https://i.discogs.com/bakoD0QjTiFerv5BguVrzswmnRo5LFi2IrqIppEHYhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjY2/MjUwLTE2Nzc2NzI0/NjYtNTY5NC5wbmc.jpeg) | 2021-12-01 | Dillom | Post Mortem |
 | 47 | ![Cover](https://i.discogs.com/-jizgM2qZ8HrwYHYIWDIBSs685Jo0_s9TQ7JPfcwin0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTIy/NTc4LTE2OTg2NjE2/MTMtMzI2OC5qcGVn.jpeg) | 2022-03-11 | KayCyy | TW20 50 |
+| 26 | ![Cover](https://i.discogs.com/af6NSXJwWj_fSS00A1uqqxsrwKKnCj74xIcSH1qpgN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODcy/MDUzLTE2NDk4OTU2/OTQtMzk0Mi5qcGVn.jpeg) | 2022-04-08 | Billy Woods | Aethiopes |
 | 13 | ![Cover](https://i.discogs.com/jKpC9x8SR1wxgPirLHmWXp8BZ1JTBFKQzl_IfJyNe3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzU1/NTQ0LTE2NjE4MjIy/NjUtODk4OS5qcGVn.jpeg) | 2022-04-17 | Ghais Guevara | BlackBolshevik |
 | 71 | ![Cover](https://i.discogs.com/764ggbeU4T6cV9z0uMt9qkLyxMQ1Mrr_64ex48_0mpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjA4/MDMyLTE2NTM2Njg4/MTctNjA0Mi5qcGVn.jpeg) | 2022-05-13 | Kendrick Lamar | Mr. Morale &amp; the Big Steppers |
 | 37 | ![Cover](https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg) | 2022-09-22 | YABUJIN | CLAWS |
 | 53 | ![Cover](https://i.discogs.com/_w5wT9C4HARkjqF6Hptbq2ICGmeYqZmwvQqV7nJTRWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDAx/ODY3LTE2OTE2MjY4/NzctODc4My5qcGVn.jpeg) | 2022-09-30 | ShyGirl | Nymph |
 | 58 | ![Cover](https://i.discogs.com/ddbftAJQprwVun0vwnF8LAW5HagS8aNZuS9DJSqcwO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDI0/NjEzLTE1MjY3NzY2/OTEtMzkwOC5qcGVn.jpeg) | 2022-10-07 | JPEGMAFIA | Thug Tears - A COLORS SHOW |
 | 48 | ![Cover](https://i.discogs.com/j9r_qc8Sz8L3ffI0VsUxTeJ1awNwBvpDLNRpuYKHB1g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjgw/OTQ0LTE2Njk0MTI3/NTctNTU3MS5qcGVn.jpeg) | 2022-11-18 | Comethazine | Bawskee 3.5 |
+| 20 | ![Cover](https://i.discogs.com/yZKbbAuYMZule1VeTa5QdZJoVMOD6Kc7u36b735BvLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTYy/NDUwLTE2ODQ4MDcz/ODctOTIwMS5qcGVn.jpeg) | 2023 | Bedwetter | Vol. 1: Flick Your Tongue Against Your Teeth and Describe the Present |
+| 29 | ![Cover](https://i.discogs.com/HRgoEJpIM_oFjqp7tIluvQLXFEn3q6OoSOs-YB9q73U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njcy/MzIxLTE2Mjc1OTM3/NjYtNDkxNi5qcGVn.jpeg) | 2023 | Lil Darkie | SWAMP |
 | 66 | ![Cover](https://i.discogs.com/uPO64kRHUUcn6dcrS09CwXwOX4eLtYULRjXMkL7cVQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjA2/NjU1LTE2NzcyNjM1/MzgtMTcxNy5qcGVn.jpeg) | 2023-02-24 | yeat | Aftërlyfe |
 | 99 | ![Cover](https://i.discogs.com/j-O5Wj479PK4_2Z4p25u3alpjv2IZVY0TdX6y14_3bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAy/NTYzLTE2OTA1NDY2/MTEtOTY4OS5qcGVn.jpeg) | 2023-07-31 | Travis Scott | Utopia |
 | 5 | ![Cover](https://i.discogs.com/okuG3DP5NWrdLoCaK7xj5lDqVrWq38H-Gl8vHJWSZSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDQy/MTA3LTE2OTI2OTMy/MjEtOTY0MC5qcGVn.jpeg) | 2024-01-02 | Joeyy | Just Tired |
-| 14 |  |  | Glorb | The Bottom 2 |
-| 26 | ![Cover](https://i.discogs.com/af6NSXJwWj_fSS00A1uqqxsrwKKnCj74xIcSH1qpgN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODcy/MDUzLTE2NDk4OTU2/OTQtMzk0Mi5qcGVn.jpeg) | 2022-04-08 | Billy Woods | Aethiopes |
-| 20 | ![Cover](https://i.discogs.com/yZKbbAuYMZule1VeTa5QdZJoVMOD6Kc7u36b735BvLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTYy/NDUwLTE2ODQ4MDcz/ODctOTIwMS5qcGVn.jpeg) | 2023 | Bedwetter | Vol. 1: Flick Your Tongue Against Your Teeth and Describe the Present |
-| 29 | ![Cover](https://i.discogs.com/HRgoEJpIM_oFjqp7tIluvQLXFEn3q6OoSOs-YB9q73U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njcy/MzIxLTE2Mjc1OTM3/NjYtNDkxNi5qcGVn.jpeg) | 2023 | Lil Darkie | SWAMP |
 | 35 | ![Cover](https://i.discogs.com/TrzW-9SPqrv_LLiV-Z8PckPuq13mz63mvpqpeuF4vqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU0/NTI0LTE2NjQ5Njgx/NjctNzI0Ni5qcGVn.jpeg) | 2024-02-16 | yeat | 2093 |
 | 34 | ![Cover](https://i.discogs.com/weoOtjcwaYUFu6-iMzkHTPWNCqV-tzmPuEgb9tfAH6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYy/NjIyLTE3MDg0Mzgx/OTktMjk0OS5qcGVn.jpeg) | 2024-02-17 | yeat | 2093 (P2) |
-| 67 | ![Cover](https://i.discogs.com/tgjBVbeuagg1zekW_jMjsStCGgTSVCd4cWrWSbVt7gQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTMw/MTAwLTE2NTk4OTYz/NzUtNzE3NS5qcGVn.jpeg) | 2024-04-12 | Summrs | Isolation |
+| 67 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1c24b0391a23dcfb761833a9a79507ca.png) | 2024-04-12 | Summrs | Isolation |
 | 28 | ![Cover](https://i.discogs.com/cmMnCqT85auJUCSj6nwQuHv6EkN17ls3ZlhrdB8Pbw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTY4/NjMyLTE3MTg1Mzky/NzUtMjEzOC5wbmc.jpeg) | 2024-06-07 | 2hollis | White Tiger |
 | 17 | ![Cover](https://i.discogs.com/KiqGpfX2oaqs00mVxcmSCmlES7JzbXhK-lkORGyPpy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzc4/OTI4LTE3MjI2MjEz/ODItOTAzOS5qcGVn.jpeg) | 2024-08-01 | JPEGMAFIA | I LAY DOWN MY LIFE FOR YOU |
+| 14 |  |  | Glorb | The Bottom 2 |
 
 ### Related genres
 

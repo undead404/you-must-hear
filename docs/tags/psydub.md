@@ -1,23 +1,18 @@
 ---
 category: genre
-date: 2025-10-28T15:04:43.048Z
+date: 2025-10-29T09:45:39.900Z
 permalink: tags/psydub
 title: psydub
 ---
 
 ## psydub
 
-Last updated: <time datetime="2025-10-28T15:04:43.048Z">Tue Oct 28 2025 17:04:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-29T09:45:39.900Z">Wed Oct 29 2025 11:45:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | Double 6 project | Double6project |
-| 2 |  |  | s0undweaver | Deschloroflux |
-| 3 |  |  | Pavle Klada | - |
-| 7 |  |  | Machinarium | Soundtrack |
-| 10 |  |  | Big Wave Records | Higher Perspective ::: Destiny Dub |
 | 36 |  | 1972 | Various Artists | Parvati Records in Dub By Vlastur |
 | 39 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1977 | Various Artists | Inner Gathering |
 | 94 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1977 | Various Artists | Bliminal |
@@ -28,6 +23,7 @@ Last updated: <time datetime="2025-10-28T15:04:43.048Z">Tue Oct 28 2025 17:04:43
 | 34 |  | 1995 | Karma De La Luna | travel without moving |
 | 19 |  | 1996-05-10 | Astral Projection | Trust In Trance |
 | 18 | ![Cover](https://i.discogs.com/Hay_PT1hSRunUAMod4OkalWZKaFKfamEg8iCdqULMcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTA4/LTEzMjg0NzcxNDUu/anBlZw.jpeg) | 1996-09-02 | Astral Projection | Trust In Trance vol 3 |
+| 1 |  | 1997-11 | Various Artists | I In The Sky EP |
 | 91 |  | 2000-06 | Saafi Brothers | Midnight&#39;s Children |
 | 87 | ![Cover](https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg) | 2001 | Various Artists | Sub Signals Volume 1 |
 | 88 |  | 2001 | International Observer | Seen |
@@ -97,8 +93,8 @@ Last updated: <time datetime="2025-10-28T15:04:43.048Z">Tue Oct 28 2025 17:04:43
 | 99 | ![Cover](https://i.discogs.com/u0NUR2S69GWgtaMjy31R-STATG-xls9FKBllJNjJkz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDAy/MTAtMTQzOTI5MzMw/NS00MzE2LmpwZWc.jpeg) | 2015-09-14 | Ott | Fairchildren |
 | 71 | ![Cover](https://i.discogs.com/zOcMtrp-5sByQXWhjDQlAInV7SlZW3XUrSBpWdjRG58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTg3/NDMtMTQ2MDA1NTEy/OS0yODc3LnBuZw.jpeg) | 2016-04-07 | Globular | Holobiont |
 | 24 | ![Cover](https://i.discogs.com/swP17kbuKdgUXtqYYEMNRUIQntU8C3Tzs0gdPQvntXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDcz/NzMtMTQ2MTc4MTgx/Mi0yOTcwLmpwZWc.jpeg) | 2016-06-10 | Dub Trees | Liquid Dub, Volume Seven |
+| 50 | ![Cover](https://i.discogs.com/swP17kbuKdgUXtqYYEMNRUIQntU8C3Tzs0gdPQvntXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDcz/NzMtMTQ2MTc4MTgx/Mi0yOTcwLmpwZWc.jpeg) | 2016-06-10 | Dub Trees | Celtic Vedic |
 | 16 | ![Cover](https://i.discogs.com/oAUZ8ab4-c_xU1E89GYw62mg_4M76EZuBPBDffbXVqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDM4/MTEtMTQ3NjYwODYy/Ni04MTI1LmpwZWc.jpeg) | 2016-10-04 | Kalakmul | The Simplest Way to Nothing |
-| 27 |  |  | SO36 | Liquid Dub Vol 7 |
 | 62 | ![Cover](https://i.discogs.com/zqC-1sCL2cJKCro3rSBr6KfZ004m970ShybtPBfSj6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAw/MjgzLTE1NTE2NTAz/MjQtMzM2Ny5qcGVn.jpeg) | 2017-10-13 | Shwamp | Emergence Unfolding |
 | 90 | ![Cover](https://i.discogs.com/Gg-xHTTf_7BZ5FCphk4L-iVk93aVoZGbJTLDrA9tSW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODk0/NTg4LTE1MjQyOTc0/NTgtNDQ3NS5qcGVn.jpeg) | 2018-04-20 | Kuba | Animalia |
 | 57 | ![Cover](https://i.discogs.com/MxtBso0WRsiFLkfIJk0FmwlAHqTiL7mtyiVqWgrMkKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDI3/MzcyLTE2NDQwMTEx/MTEtOTkxMy5qcGVn.jpeg) | 2018-05-01 | MantisMash | Omnipresent |
@@ -107,12 +103,16 @@ Last updated: <time datetime="2025-10-28T15:04:43.048Z">Tue Oct 28 2025 17:04:43
 | 78 | ![Cover](https://i.discogs.com/D0XvA4p0-RCINd2ZRx8gxGYh0cfnf9zINU4vWYEp-Iw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTIx/ODcyLTE1Mjg3Mzg3/ODUtNzc0Mi5wbmc.jpeg) | 2018-06-11 | Globular | Entangled Everything |
 | 68 | ![Cover](https://i.discogs.com/GZSlthV_Thkax5YJQt7gttObLCyj4Jti5kem7CdgnOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTE2/Nzg2LTE2MjY0NTQx/MzItMzA2Mi5qcGVn.jpeg) | 2021-06-25 | Cathexis | Untethered Abyss |
 | 35 | ![Cover](https://i.discogs.com/aIJsaKtx4kMhpWPaE9UaxVsSP6v6Z-jW_n6c3fGTBMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODAy/MDUtMTQzMTEwNDUx/MC01Mjc0LmpwZWc.jpeg) | 2021-09-30 | Arcturus | Gateway |
-| 38 |  |  | Tor.Ma In Dub | Jump High (From the Roots to the Sky) |
-| 50 | ![Cover](https://i.discogs.com/swP17kbuKdgUXtqYYEMNRUIQntU8C3Tzs0gdPQvntXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDcz/NzMtMTQ2MTc4MTgx/Mi0yOTcwLmpwZWc.jpeg) | 2016-06-10 | Dub Trees | Celtic Vedic |
 | 42 | ![Cover](https://i.discogs.com/cve9xtqp145H7WbZRmxIK7Pr9dGTd-kfSrowOIvD2Ag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzQ5/NDQwLTE2NzAwMDE5/NTMtNjAzMS5qcGVn.jpeg) | 2022-04-14 | Various Artists | Space Forming Vol.3 |
 | 30 | ![Cover](https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg) | 2023 | Various Artists | Dubbed on Planet Skunk |
 | 47 |  | 2024-05-17 | Globular | Lifts The Curse Of The Grey Goo Assimilators |
 | 69 | ![Cover](https://i.discogs.com/DnQRmWgGLaAvB-cRKbimZS3N02JeURwW_ReLeTG9G6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgy/MjMtMTMwMDQ0NjYz/Ni5qcGVn.jpeg) | 2024-10-04 | Ott | Ottcraft |
+| 2 |  |  | s0undweaver | Deschloroflux |
+| 3 |  |  | Pavle Klada | - |
+| 7 |  |  | Machinarium | Soundtrack |
+| 10 |  |  | Big Wave Records | Higher Perspective ::: Destiny Dub |
+| 27 |  |  | SO36 | Liquid Dub Vol 7 |
+| 38 |  |  | Tor.Ma In Dub | Jump High (From the Roots to the Sky) |
 
 ### Related genres
 

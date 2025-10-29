@@ -11,11 +11,7 @@ Last updated: <time datetime="2025-10-28T13:04:29.861Z">Tue Oct 28 2025 15:04:29
 
 ### Description
 
-Contemporary R&amp;B (Rhythm and Blues) is a genre of popular music that emerged in the 1980s and has continued to evolve since then. It is characterized by a mix of soul, funk, pop, and hip hop elements, and often features electronic production and use of synthesizers.
-
-Contemporary R&amp;B is marked by its emphasis on vocal performance, with artists often using melismatic singing and other vocal techniques to showcase their skills. The genre is also known for its sexually suggestive lyrics, which have been both celebrated and criticized over the years.
-
-Some of the biggest names in contemporary R&amp;B include Beyoncé, Rihanna, Usher, Bruno Mars, The Weeknd, and many others. The genre continues to evolve and incorporate new sounds and influences, and has had a significant impact on popular music as a whole.
+Contemporary R&amp;B blends traditional rhythm and blues with pop, hip-hop, and electronic elements, creating smooth, melodic music centered on vocals and relationships. Emerging in the 1980s and evolving through today, it features polished production, synthesizers, and often incorporates rap elements. The genre dominates mainstream charts with its emotional, radio-friendly sound that appeals to diverse audiences.
 
 ### 100 chronological releases
 
@@ -74,8 +70,10 @@ Some of the biggest names in contemporary R&amp;B include Beyoncé, Rihanna, Ush
 | 34 | ![Cover](https://i.discogs.com/eeQ10fb7CKKQGGyhflv0sN6U69tSFzLmQUlw8LpcTyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODM3/NjA0LTE2NDk3MDgw/NTItODU5MC5qcGVn.jpeg) | 2018-11-30 | Red Velvet | RBB |
 | 66 | ![Cover](https://i.discogs.com/qXLPVYqk6s8-5-hVQ1P_VUMET5UgQXZ9oF1ahHjSWzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM1/NTYxLTE1NDQ4NzYz/MjktNzY3OC5qcGVn.jpeg) | 2018-12-14 | Zayn | Icarus Falls |
 | 75 | ![Cover](https://i.discogs.com/iIwd-afZAkvwa2QtqQvCEjX6LnbXv7988A50IvYhmfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjE1/Mzg5LTE2MTg5OTkx/NTUtMzY4OS5qcGVn.jpeg) | 2019 | BROCKHAMPTON | ROADRUNNER: NEW LIGHT, NEW MACHINE |
+| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3d8c6b5ea4a34c222a9a8069687c12e9.png) | 2019-03-01 | Doja Cat | Amala |
 | 96 | ![Cover](https://i.discogs.com/-4m44M9MuYYG2ZUEUmQEWoj2TDMgSOPoN-USfMkwWWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYw/Mzk4LTE2OTQxMDYx/ODEtNjA0MC5qcGVn.jpeg) | 2019-03-01 | Brent Faiyaz | Lost |
 | 80 | ![Cover](https://i.discogs.com/CIC-rpgk_xmk05UgMm7n66vXiWBb51f-IQ1EJxmZdnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTAx/MzA0LTE1OTk4NjAw/MTgtODA2Mi5qcGVn.jpeg) | 2019-04-19 | The Boyboy West Coast | U Was At The Club (Bottoms Up) |
+| 47 | ![Cover](https://i.discogs.com/WIjnhsCvNbVcawOfytgzoluu7Iel8u4YVb0zd4HoFv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODky/MzgxLTE1OTk2OTU0/MDAtNjUzMC5qcGVn.jpeg) | 2019-10-21 | NU&#39;EST | The 5th Mini Album &#39;CANVAS&#39; |
 | 55 | ![Cover](https://i.discogs.com/_dKUFvO6GzA6dR7cHFQ4PZ_K3TMiBsGw5Z9Te6_0mCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzUw/Nzg1LTE1OTAxNTU2/MTgtNjc5Ny5qcGVn.jpeg) | 2020 | Carly Rae Jepsen | Dedicated Side B |
 | 67 | ![Cover](https://i.discogs.com/BqQBl4FGrdq7VsCtEgxavEaYTix-kj4wNt3l4oqMUrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY4/NzI1LTE1ODQ4Nzk1/NDctNDIzNC5qcGVn.jpeg) | 2020-03-22 | Childish Gambino | 3.15.20 |
 | 76 | ![Cover](https://i.discogs.com/lT0Cvidd7rJais6fBUOUiJyZ8rH0krgWk0kPdJdn9kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDY3/MjA3LTE2MDc5MDgz/MjctMjMwNS5qcGVn.jpeg) | 2020-04-30 | Bree Runway | Be Runway |
@@ -89,6 +87,7 @@ Some of the biggest names in contemporary R&amp;B include Beyoncé, Rihanna, Ush
 | 93 | ![Cover](https://i.discogs.com/CbGTwmZ-ooKKLf74VA88yn2VC91x9r5tyuZY1k4nRMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzM1/MDM2LTE2MTQ2MzIx/NTItNjk0NS5qcGVn.jpeg) | 2021-02-26 | Madison Beer | Life Support |
 | 56 | ![Cover](https://i.discogs.com/b6OU0o3ph_a3LALWV4YLRgt3M_kIHcREtPsgnKCbGag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTUz/Njc4LTE2MTk5MzMx/MTktNTE2NC5qcGVn.jpeg) | 2021-03-19 | Paloma Mami | Sueños de Dalí |
 | 31 | ![Cover](https://i.discogs.com/BuOjppnUtBEf9mXTduoEqQxx-qD-RZxKZokUtCAujpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTYx/OTczLTE2MjM4NTEx/NjEtNjczMi5qcGVn.jpeg) | 2021-06-16 | Rebecca Black | Rebecca Black Was Here |
+| 46 | ![Cover](https://i.discogs.com/mrdggEQW0kBUGjSpJGaWjBd1iYomN63hXqZ-zMzSzbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjY1/NjEwLTE2MjgwODQ3/NTEtODA0NC5qcGVn.jpeg) | 2021-07-30 | Billie Eilish | Happier Than Ever |
 | 41 | ![Cover](https://i.discogs.com/5sLsNj-BLJZy7USjNv56Pdka1WfEiw1Bu57mSLorscI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDg5/MzU0LTE2MzA2MDU3/OTAtOTUxMS5qcGVn.jpeg) | 2021-09-03 | PRINCESA ALBA | besitos, cuídate |
 | 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8b9f8fc2e5b773cf59cd02e70ad9a5ba.png) | 2021-09-17 | The Plot in You | Swan Song |
 | 1 | ![Cover](https://i.discogs.com/mFtnzZdQCEp3mWr4aNSCJnDoUQdAoSvvmKEpXgL9__A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTMy/OTcwLTE2NjE0ODA5/ODUtMjUyNi5qcGVn.jpeg) | 2021-10-08 | Magdalena Bay | Mercurial World |
@@ -98,29 +97,26 @@ Some of the biggest names in contemporary R&amp;B include Beyoncé, Rihanna, Ush
 | 58 | ![Cover](https://i.discogs.com/eCVSLS5JsD0KgA4n2WGuASiWA5eJYjO4KnY3lDU5p1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzM2/MzktMTY1NjcwMTEx/NC02NjI0LmpwZWc.jpeg) | 2022-05-31 | Emilia | Tú Crees En Mí? |
 | 53 | ![Cover](https://i.discogs.com/70a32ERUwX5zTszx_ZSwnzQbbDsrU9iFtALxzAGmXC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjM0/Nzc5LTE2NTU3MTY5/ODEtMjUxNy5qcGVn.jpeg) | 2022-07-29 | Beyoncé | Renaissance |
 | 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0212108b4e0ab55d86318a759de128fb.png) | 2022-08-26 | Nightlife | fallback |
-| 6 |  |  | Love Renaissance (LVRN) | Home For The Holidays |
-| 10 |  |  | Lawsy | Sexxnb, Vol. 1 |
-| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3d8c6b5ea4a34c222a9a8069687c12e9.png) | 2019-03-01 | Doja Cat | Amala |
-| 47 | ![Cover](https://i.discogs.com/WIjnhsCvNbVcawOfytgzoluu7Iel8u4YVb0zd4HoFv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODky/MzgxLTE1OTk2OTU0/MDAtNjUzMC5qcGVn.jpeg) | 2019-10-21 | NU&#39;EST | The 5th Mini Album &#39;CANVAS&#39; |
-| 46 | ![Cover](https://i.discogs.com/mrdggEQW0kBUGjSpJGaWjBd1iYomN63hXqZ-zMzSzbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjY1/NjEwLTE2MjgwODQ3/NTEtODA0NC5qcGVn.jpeg) | 2021-07-30 | Billie Eilish | Happier Than Ever |
 | 24 | ![Cover](https://i.discogs.com/ZIKHzyGPe8HybCQYASiwTtHfy5cq45XSSas4h_Ottao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDU5/MDUzLTE2NjI3MTY2/NTUtNzc2Ny5qcGVn.jpeg) | 2022-09-09 | John Legend | Legend |
+| 97 | ![Cover](https://i.discogs.com/jYulW1dgnwtJm-A5Z6EX83ts3fhL1vPz03jBu3t4aVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzk1/NDc3LTE2NjIxNTI5/NTctMjYxNC5wbmc.jpeg) | 2022-12-09 | Sabrina Carpenter | emails i can’t send fwd: |
 | 48 | ![Cover](https://i.discogs.com/D4qzc4voIZgRdhCkgYR357mmFPbJXRc_prt2ys8wkmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjUy/NzEwLTE3MDMwNDMy/MTctOTgxMy5wbmc.jpeg) | 2023 | Weeekly | ColoRise |
 | 17 | ![Cover](https://i.discogs.com/j8HDs1D5aUfUsb3I7r4JcCgAW82eNtIPCyIVx-sXw3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzUz/NDYwLTE2NzQyODE3/MDktNjcwNC5qcGVn.jpeg) | 2023-01-20 | Lukas Graham | 4 (The Pink Album) |
+| 65 | ![Cover](https://i.discogs.com/OWTGjINyEZTJDx6bO5ZH053plgVkBBZeFf91pztN97U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg5/ODY1LTE2NzU1MjI4/MDItNzgxNy5qcGVn.jpeg) | 2023-02-03 | Raye | My 21st Century Blues |
+| 69 | ![Cover](https://i.discogs.com/f-i1GHcXHfbh40XCT3QHr8gjTn-q-0LeNo7dPXmIW-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MDUtMTE5MTYxNzky/OS5qcGVn.jpeg) | 2023-02 | The Boyz | THE BOYZ 8TH MINI ALBUM [BE AWAKE] |
 | 52 | ![Cover](https://i.discogs.com/uxIuD1v9OKdaYJSDcagmx_D5w-8CCkfc1mYUffniY88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzU1/Mzg5LTE2NzgzNTM0/NTYtNjg1Ny5wbmc.jpeg) | 2023-03-10 | Nia Archives | Sunrise Bang Ur Head Against Tha Wall |
 | 33 | ![Cover](https://i.discogs.com/bGlv6yZezeS_bN0YA-DHFtqs-GX2xKKcVWGk3KTCmys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDA1/MjE2LTE2ODY5NzEx/NDgtMzc0Mi5qcGVn.jpeg) | 2023-03-17 | T-Pain | On Top of the Covers |
 | 43 | ![Cover](https://i.discogs.com/Bswe2DndHJ7nTlDVOZ3mmTNYOfiV5vz_ZRiVmzicdZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzM2/NTEyLTE2ODk5MTQ3/NzItOTA0NS5qcGVn.jpeg) | 2023-07-21 | NewJeans | Get Up |
+| 95 | ![Cover](https://i.discogs.com/tycClN8s9QKk_lCzM9xwJS7wSpOyxsbQx55STgob9c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEw/MjUzLTE2OTIzODIx/NzItNTYwNi5qcGVn.jpeg) | 2023-08-18 | Addison Rae | AR |
+| 86 | ![Cover](https://i.discogs.com/qFJ3yeC5r64KDhW7lOfjkyq9-kELzhUff57tsiPZMhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAz/Nzc4LTE2OTA1MzE0/MTctOTI0OC5qcGVn.jpeg) | 2023-09-08 | Carly Rae Jepsen | The Loveliest Time |
 | 26 | ![Cover](https://i.discogs.com/H5GUm3o8V0gyLuXSmzu1-n_7ZUJ5SZug4xFyzCq3NWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTI2/ODUxLTE3MDE4NzQw/MDEtMTkxMS5qcGVn.jpeg) | 2023-11-06 | Joony | Pretty In Black |
 | 35 | ![Cover](https://i.discogs.com/c7UloxsYz6bOg6XgjiAxSGxKtNsYwNE7MAS-fE5P3yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQ3/NjE3LTE3MTM4MTgz/MzYtMzYxMi5qcGVn.jpeg) | 2024-01-12 | Kali Uchis | orquídeas |
 | 38 | ![Cover](https://i.discogs.com/oxWvgq0INPQLKZ8kNx56wL3fuQw0pdOzOQZL27SADWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDAz/MTY5LTE3MDk2MDU2/MjYtNDQzMy5qcGVn.jpeg) | 2024-02-29 | Jacob Collier | Djesse Vol. 4 |
-| 40 | ![Cover](https://i.discogs.com/_TSU7-nl8t6suG-rtx6_eZMnUCsQ0il_1hBI92-iR4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTk4/MTQyLTE3MzA4NTkx/NTctMzkwMS5qcGVn.jpeg) | 2024-06-07 | Saint Levant | From Gaza, With Love |
-| 54 |  |  | MOONBIN&amp;SANHA(ASTRO) | INCENSE |
-| 97 | ![Cover](https://i.discogs.com/jYulW1dgnwtJm-A5Z6EX83ts3fhL1vPz03jBu3t4aVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzk1/NDc3LTE2NjIxNTI5/NTctMjYxNC5wbmc.jpeg) | 2022-12-09 | Sabrina Carpenter | emails i can’t send fwd: |
-| 69 | ![Cover](https://i.discogs.com/f-i1GHcXHfbh40XCT3QHr8gjTn-q-0LeNo7dPXmIW-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MDUtMTE5MTYxNzky/OS5qcGVn.jpeg) | 2023-02 | The Boyz | THE BOYZ 8TH MINI ALBUM [BE AWAKE] |
-| 65 | ![Cover](https://i.discogs.com/OWTGjINyEZTJDx6bO5ZH053plgVkBBZeFf91pztN97U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg5/ODY1LTE2NzU1MjI4/MDItNzgxNy5qcGVn.jpeg) | 2023-02-03 | Raye | My 21st Century Blues |
-| 95 | ![Cover](https://i.discogs.com/tycClN8s9QKk_lCzM9xwJS7wSpOyxsbQx55STgob9c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEw/MjUzLTE2OTIzODIx/NzItNTYwNi5qcGVn.jpeg) | 2023-08-18 | Addison Rae | AR |
-| 86 | ![Cover](https://i.discogs.com/qFJ3yeC5r64KDhW7lOfjkyq9-kELzhUff57tsiPZMhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAz/Nzc4LTE2OTA1MzE0/MTctOTI0OC5qcGVn.jpeg) | 2023-09-08 | Carly Rae Jepsen | The Loveliest Time |
 | 70 | ![Cover](https://i.discogs.com/DwQavRBRrLCoiozPcC-WKBUUYOK2CdDHlx9aT02T5Ws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTQ0/MjA3LTE3MTAxODcx/ODQtODU2Mi5qcGVn.jpeg) | 2024-03-08 | Ariana Grande | eternal sunshine |
+| 40 | ![Cover](https://i.discogs.com/_TSU7-nl8t6suG-rtx6_eZMnUCsQ0il_1hBI92-iR4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTk4/MTQyLTE3MzA4NTkx/NTctMzkwMS5qcGVn.jpeg) | 2024-06-07 | Saint Levant | From Gaza, With Love |
 | 44 | ![Cover](https://i.discogs.com/xALcntNnV1Flrsi0Wvleltun5Q39rFMxJaB496mYAd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTQx/Nzk2LTE2MTc0OTA2/NTUtMzgzNS5qcGVn.jpeg) | 2024-09 | girl ultra | EL SUR |
+| 6 |  |  | Love Renaissance (LVRN) | Home For The Holidays |
+| 10 |  |  | Lawsy | Sexxnb, Vol. 1 |
+| 54 |  |  | MOONBIN&amp;SANHA(ASTRO) | INCENSE |
 
 ### Related genres
 

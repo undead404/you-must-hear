@@ -9,6 +9,10 @@ title: bossa nova
 
 Last updated: <time datetime="2025-10-28T08:11:49.154Z">Tue Oct 28 2025 10:11:49 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Bossa nova is a Brazilian music genre that emerged in the late 1950s, blending samba rhythms with jazz harmonies and a relaxed, intimate vocal style. The genre is characterized by its soft, syncopated guitar patterns and understated singing that creates a sophisticated, laid-back atmosphere. It became internationally popular in the 1960s, representing a modern, cosmopolitan side of Brazilian culture.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -55,8 +59,8 @@ Last updated: <time datetime="2025-10-28T08:11:49.154Z">Tue Oct 28 2025 10:11:49
 | 10 | ![Cover](https://i.discogs.com/A11_vudNgOYIHAal_JZyVeHEVF0eHUdct2BcpXmyfx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTI3/MDUtMTQyNjcyNTUw/OC03NjgwLmpwZWc.jpeg) | 1999-10-06 | Silva | CINCO |
 | 13 | ![Cover](https://i.discogs.com/uULbMGp-Ojj59unmO21349EvDTH-KrokT_N_4jJkKcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjc5/MTYtMTM2NDU5MjMz/NS03NTk2LmpwZWc.jpeg) | 2000 | Luiz Bonfá | Composer of Black Orpheus Plays and Sings Bossa Nova |
 | 85 |  | 2000-05-24 | Bebel Gilberto | Tanto Tempo |
-| 94 |  | 2000-10 | Nicola Conte | Bossa Per Due |
 | 29 |  | 2000-10-16 | Henri Salvador | Chambre Avec Vue |
+| 94 |  | 2000-10 | Nicola Conte | Bossa Per Due |
 | 60 |  | 2001 | Rita Lee | Aqui, Ali, em Qualquer Lugar |
 | 91 | ![Cover](https://i.discogs.com/6Bc8AXJWKE_XOmHwaFWArIiFpDi7XYdfB8vTkA0syqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODY5/MzQtMTU3MDY0ODMw/My0zNTg0LmpwZWc.jpeg) | 2001-04-23 | Astrud Gilberto | The Astrud Gilberto Album |
 | 16 |  | 2001-05-15 | Astrud Gilberto | Astrud Gilberto&#39;s Finest Hour |
@@ -64,7 +68,6 @@ Last updated: <time datetime="2025-10-28T08:11:49.154Z">Tue Oct 28 2025 10:11:49
 | 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dc0067ab9d8d9db31e6f7b351bc0e32e.png) | 2002 | Antônio Carlos Jobim | Stone Flower (CTI Records 40th Anniversary Edition) |
 | 14 | ![Cover](https://i.discogs.com/-8LUly1fUhvNNOKkWQXmkJOpru6SMnVNCdZVCVydBb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjIz/MjgtMTM5Mjk2NDE5/Mi04Mzc5LmpwZWc.jpeg) | 2003 | Maria Bethania | Maricotinha Ao Vivo |
 | 4 | ![Cover](https://i.discogs.com/akYWArf3_2fKXZQ9nFpxa1uOJZWFblFthvJ9aRoYWd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzky/Mi0xMTMxMzQyNzYy/LmpwZWc.jpeg) | 2003-07-23 | Celso Fonseca | Natural |
-| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/28ed2311b6152b1c0952a930992e07d1.png) |  | João Gilberto | Chega de Saudade |
 | 5 |  | 2004 | João Gilberto | In Tokyo |
 | 23 | ![Cover](https://i.discogs.com/agXbGJuNUGiPY5iCg4R24sSNpKb1DljcCedmhkAsdz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTcx/MTAtMTM1OTkwNTQy/Ni01ODMwLmpwZWc.jpeg) | 2004 | BossaCucaNova | Uma Batida Diferente |
 | 24 | ![Cover](https://i.discogs.com/WELW7M6a02DNKOqSZsagx-tRBClVsH1WXBP72cpkdns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTAw/MDYtMTM0Mjg2MjIw/My0xNjg4LmpwZWc.jpeg) | 2004 | Edu Lobo | Cantiga de Longe |
@@ -113,6 +116,7 @@ Last updated: <time datetime="2025-10-28T08:11:49.154Z">Tue Oct 28 2025 10:11:49
 | 100 | ![Cover](https://i.discogs.com/MLs0_tEInmsCQIt6mZ-s9VZio_8h3AoQ6D48f8UIFAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjAx/NTMxLTE2OTQxNDk5/ODctNTMwOC5qcGVn.jpeg) | 2023-09-08 | Laufey | Bewitched |
 | 68 | ![Cover](https://i.discogs.com/ju3WGu1OvM0l6EuIh5rPzR5s7pKMKOA99xy3ym8qMyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTY0/NDYzLTE3MTQ2NjU3/ODUtNTQxNy5qcGVn.jpeg) | 2024-05-03 | Jessica Pratt | Here In The Pitch |
 | 11 | ![Cover](https://i.discogs.com/gZP0zGxxdpYLQ20RAkLrt5pZS1cLoJ7kABBBZ5-a210/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzY0/NzY2LTE3MTY1MTU5/MjEtODE4NS5qcGVn.jpeg) | 2024-06-28 | Liana Flores | Flower of the soul |
+| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/28ed2311b6152b1c0952a930992e07d1.png) |  | João Gilberto | Chega de Saudade |
 
 ### Related genres
 

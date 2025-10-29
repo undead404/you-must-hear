@@ -9,6 +9,10 @@ title: german
 
 Last updated: <time datetime="2025-10-25T20:05:10.772Z">Sat Oct 25 2025 23:05:10 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+&quot;German&quot; refers to popular music sung in the German language, spanning rock, pop, punk, and metal styles that emerged prominently in the 1980s. The genre reflects German cultural identity and often features direct, poetic lyrics addressing social themes. It ranges from aggressive industrial metal to melodic pop-rock.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |

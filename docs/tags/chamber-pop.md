@@ -9,6 +9,10 @@ title: chamber pop
 
 Last updated: <time datetime="2025-10-28T08:15:16.773Z">Tue Oct 28 2025 10:15:16 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Chamber pop blends orchestral instruments like strings and horns with rock or indie pop structures, creating lush, cinematic soundscapes. Emerging in the 1960s and revived in the 1990s, it emphasizes artistic sophistication and emotional depth over commercial appeal. The genre favors intimate, carefully arranged compositions that bridge classical music&#39;s elegance with contemporary pop sensibilities.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -55,22 +59,21 @@ Last updated: <time datetime="2025-10-28T08:15:16.773Z">Tue Oct 28 2025 10:15:16
 | 68 | ![Cover](https://i.discogs.com/IKaWvf5B54OjOuxT7dWYhWd0shRFhBJuLGVjndcaNkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTg2/MTctMTUxNzI1NzM2/Ni04MjIwLmpwZWc.jpeg) | 2010-10-12 | Belle and Sebastian | Write about Love |
 | 21 | ![Cover](https://i.discogs.com/xBjC7MAgG9DO6te8NFq4XbRr5Qosbgt5xlZ6LEOgPNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTY3/NjItMTI5MDIxNDcz/Ny5qcGVn.jpeg) | 2010-10-27 | Dënver | Música, Gramática, Gimnasia |
 | 84 |  | 2011-05-01 | Princess Chelsea | Lil&#39; Golden Book |
-| 66 | ![Cover](https://i.discogs.com/ozWUlvToV4YUoZ6MCLSEE6zRTxP_8ZzkBRKBLBtVkhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDky/MDAtMTMxODAzNTE2/NC5qcGVn.jpeg) | 2011-11 | Lana Del Rey | Did You Know That There&#39;s a Tunnel Under Ocean Blvd |
 | 32 |  | 2011-11-07 | Birdy | Birdy |
+| 66 | ![Cover](https://i.discogs.com/ozWUlvToV4YUoZ6MCLSEE6zRTxP_8ZzkBRKBLBtVkhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDky/MDAtMTMxODAzNTE2/NC5qcGVn.jpeg) | 2011-11 | Lana Del Rey | Did You Know That There&#39;s a Tunnel Under Ocean Blvd |
+| 97 | ![Cover](https://i.discogs.com/FHKVuNYp-4DJVr-5eEQEeOG7Xjoke82MRxRHckYno7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzA5/OTktMTMyMzI4MTI4/NS5qcGVn.jpeg) | 2011-12-02 | Woodkid | Iron |
 | 54 | ![Cover](https://i.discogs.com/pnBFoKpsvWrXosEaw_eM2xJaPxEJVJmERwh4ITLfHig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYy/MTc3LTE1Nzg2OTI0/MTQtMzA4MS5qcGVn.jpeg) | 2012 | Lana Del Rey | Norman Fucking Rockwell! |
+| 94 |  | 2012-02-28 | ROAR | I&#39;m Not Here To Make Friends |
 | 23 |  | 2012-10-12 | Bat for Lashes | The Haunted Man |
 | 25 | ![Cover](https://i.discogs.com/NM56iY1ryB8gHBlEQiLmpMHFtHw2x4NvYDaDmqgGC5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzQ2/ODQtMTM1MzA2ODAz/My00MTk2LmpwZWc.jpeg) | 2012-10-21 | The Irrepressibles | Nude |
 | 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b16f6605f041c9e4f4aae10812c38d9a.png) | 2013-05-06 | Vampire Weekend | Modern Vampires of the City |
+| 100 | ![Cover](https://i.discogs.com/j_kjV5MOKCzsB0Ql9rMbdAFS4e-Ffv1BvIqvrBvq9Q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzUy/ODItMTQ4MTIyNjk1/MS0xMTcxLmpwZWc.jpeg) | 2013-08-01 | Mitski | Retired from Sad, New Career in Business |
 | 41 |  | 2013-09-06 | Goldfrapp | Tales of Us |
 | 5 |  | 2013-09-17 | San Fermin | San Fermin |
-| 31 |  | 2014-04-01 | S. Carey | Range of Light |
-| 29 |  | 2014-05-21 | Owen Pallett | In Conflict |
-| 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3cd1aeba55bc346931f3029661bbc9fe.png) |  | The Divine Comedy | Victory for the Comic Muse |
-| 97 | ![Cover](https://i.discogs.com/FHKVuNYp-4DJVr-5eEQEeOG7Xjoke82MRxRHckYno7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzA5/OTktMTMyMzI4MTI4/NS5qcGVn.jpeg) | 2011-12-02 | Woodkid | Iron |
-| 94 |  | 2012-02-28 | ROAR | I&#39;m Not Here To Make Friends |
-| 100 | ![Cover](https://i.discogs.com/j_kjV5MOKCzsB0Ql9rMbdAFS4e-Ffv1BvIqvrBvq9Q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzUy/ODItMTQ4MTIyNjk1/MS0xMTcxLmpwZWc.jpeg) | 2013-08-01 | Mitski | Retired from Sad, New Career in Business |
 | 71 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d8e8395201293359c7a5feecd88fe20d.png) | 2013-11-12 | Andrew Bird | I Want to See Pulaski at Night |
 | 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7ebdce45448c2864d22bce62f1ffa198.png) | 2014-01-08 | Florence + the Machine | Lungs (Deluxe Version) |
+| 31 |  | 2014-04-01 | S. Carey | Range of Light |
+| 29 |  | 2014-05-21 | Owen Pallett | In Conflict |
 | 88 |  | 2014-09-22 | Perfume Genius | Too Bright |
 | 34 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dcf5ef6926be8621f5361c82b6fec7ea.png) | 2015 | Destroyer | Poison Season |
 | 58 | ![Cover](https://i.discogs.com/t6ZbDWDsZiK1LhPwmMO4B0lPWK8gK2XPYLOEhu4PikA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NjI5/NTUtMTQyMjA3MzM1/MS04MjIwLmpwZWc.jpeg) | 2015-01-27 | Natalie Prass | Natalie Prass |
@@ -113,6 +116,7 @@ Last updated: <time datetime="2025-10-28T08:15:16.773Z">Tue Oct 28 2025 10:15:16
 | 48 | ![Cover](https://i.discogs.com/sbAfq-kIeZzwOnD3RNFtuFZaejqk3kF2nzmHw2CTj1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjQ4/MTMxLTE3MDY5MTg0/NTktOTkyNy5qcGVn.jpeg) | 2024-02-02 | The Last Dinner Party | Prelude To Ecstasy |
 | 17 | ![Cover](https://i.discogs.com/_wLEwbmzbD3PRZ1_b6nKw31dhb3JUdUu2i6Op2kxMXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDAw/MTE1LTE3MTMxMzEx/MDQtNDY0Mi5qcGVn.jpeg) | 2024-04-05 | Lizzy McAlpine | Older |
 | 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6d82bc24d66644b103a8658ed4d56398.png) | 2024-04-05 | Vampire Weekend | Only God Was Above Us |
+| 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3cd1aeba55bc346931f3029661bbc9fe.png) |  | The Divine Comedy | Victory for the Comic Muse |
 
 ### Related genres
 

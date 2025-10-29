@@ -9,6 +9,10 @@ title: underground hip-hop
 
 Last updated: <time datetime="2025-10-29T04:30:22.666Z">Wed Oct 29 2025 06:30:22 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Underground hip-hop emphasizes lyrical complexity, experimental production, and artistic independence over mainstream commercial appeal. Artists in this scene often tackle introspective themes and social commentary while maintaining creative control through independent labels. The genre values authenticity and skillful wordplay, cultivating devoted fanbases outside corporate radio and major label systems.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
