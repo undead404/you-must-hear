@@ -9,6 +9,10 @@ title: alternative rnb
 
 Last updated: <time datetime="2025-10-22T16:15:55.707Z">Wed Oct 22 2025 19:15:55 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Alternative R&amp;B blends traditional soul and rhythm and blues with experimental electronic production, indie rock sensibilities, and atmospheric soundscapes. Emerging in the 2010s, it challenged mainstream R&amp;B&#39;s polished conventions with moody, introspective lyrics and unconventional song structures. The genre emphasizes artistic authenticity and emotional vulnerability over commercial appeal.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -78,7 +82,7 @@ Last updated: <time datetime="2025-10-22T16:15:55.707Z">Wed Oct 22 2025 19:15:55
 | 78 | ![Cover](https://i.discogs.com/Iwj9zSOdwc5iF8mKtd22zzxe4IqTYVNnxED9h3n7hTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIx/OTQ3LTE1NjQxMzQ1/ODUtMjQ4Ny5qcGVn.jpeg) | 2019-07-26 | Bladee | Vanilla Sky |
 | 61 | ![Cover](https://i.discogs.com/YRzCuUJs5hUnaLW3ViTKIddD0Op_B-0wLXCrR9X6mKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODgx/NTc5LTE1NjMyMTYy/NzQtOTg1Ny5qcGVn.jpeg) | 2019-08-02 | Clairo | Immunity |
 | 5 | ![Cover](https://i.discogs.com/jBZOhwYRsTDrKXAKPtW6ctRY2IPsTs317AfzgFKMIgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU5/MTMwLTE1NzA5MDc2/ODItNTExMy5qcGVn.jpeg) | 2019-08-23 | Cartier God | Let Me Go |
-| 83 | ![Cover](https://i.discogs.com/bc8eWbwvjPlhfz5OXjit4QknpzQQfZjDh1MJ-zy2124/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDg5/NDQ5LTE1ODUyNTEy/OTctMTI4MS5qcGVn.jpeg) | 2019-09-06 | Melanie Martinez | K-12 |
+| 83 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/35df25e4fc8394903e600b5c34563c68.png) | 2019-09-06 | Melanie Martinez | K-12 |
 | 29 | ![Cover](https://i.discogs.com/KWt5XvP5gyUhIj3b0f3MiTpcGO6Svngn27-F6qSStCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgy/MTUxLTE1NzEzOTY3/ODUtNjQzMC5qcGVn.jpeg) | 2019-10-18 | Caroline Polachek | Pang |
 | 60 | ![Cover](https://i.discogs.com/IHzS79PeqrG8CM9voOTX71HvKZqz4VScmPO09-P8WUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTE0/MjY0LTE2MTIzNTUz/NTMtODgwNy5qcGVn.jpeg) | 2019-11-22 | Trippie Redd | A Love Letter To You 4 |
 | 82 | ![Cover](https://i.discogs.com/WbwubKTJg9dFY2SgCVGt8ag4XMUdS_Ox0BctpQ4QTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzIz/MTUxLTE2MjA5OTgw/MjktMjcyMC5qcGVn.jpeg) | 2019-12-21 | YABUJIN | FLASH CASANOVA |
@@ -96,23 +100,23 @@ Last updated: <time datetime="2025-10-22T16:15:55.707Z">Wed Oct 22 2025 19:15:55
 | 35 | ![Cover](https://i.discogs.com/veafsk5KV4F7v5sOrpwF_8mNHTOBOvIy2VE5aN8Ltwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTU5/NTc4LTE2MzEyNjQ2/OTgtODg0Mi5qcGVn.jpeg) | 2021-10-08 | James Blake | Friends That Break Your Heart |
 | 68 | ![Cover](https://i.discogs.com/SABF4kYSfEHlH6aYs-dxjbi9kQsy7AZewW4XSC4Q6Rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTEy/NjM2LTE2MzM2NzQx/MDEtNTc3Mi5wbmc.jpeg) | 2021-10-08 | Don Toliver | Life Of A Don |
 | 87 | ![Cover](https://i.discogs.com/VN0nhRpf0VwennySbEyxC1doJeJkt-U12kXQjlOnKz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI5/MDkwLTE2Mzg2NDY0/MTQtMzMzNi5wbmc.jpeg) | 2021-12-03 | Brent Faiyaz | Mercedes |
+| 70 | ![Cover](https://i.discogs.com/Ix1_GmUxDVg9ig_9c9vIdRPrKxVxsjPZ1Vc8ccrIM7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzI4/MzgzLTE2NDIxMzU5/MjUtMTI3OS5qcGVn.jpeg) | 2022-01-14 | FKA twigs | Caprisongs |
 | 65 | ![Cover](https://i.discogs.com/2rgWoOqZyiIZ3u3xN0KjOmC6KqrxrzooWcS0XDgc0tQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzkz/MjQyLTE1OTA3OTY3/NDktNzY1MC5qcGVn.jpeg) | 2022-02-01 | JPEGMAFIA | CALL ME MAYBE |
+| 71 |  | 2022-02-12 | Drain Gang Archive | HOLD ME DOWN LIKE GRAVITY |
 | 6 | ![Cover](https://i.discogs.com/dFBWTT1pfR4_CSiBMWlC5AG0Tl1avN9eBb1Ifokmvf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDUw/MzcyLTE2NTc4OTkx/MTQtNzI2Ni5qcGVn.jpeg) | 2022-06-03 | 070 Shake | You Can’t Kill Me |
 | 36 | ![Cover](https://i.discogs.com/_w5wT9C4HARkjqF6Hptbq2ICGmeYqZmwvQqV7nJTRWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDAx/ODY3LTE2OTE2MjY4/NzctODc4My5qcGVn.jpeg) | 2022-09-30 | ShyGirl | Nymph |
+| 86 | ![Cover](https://i.discogs.com/DjblS9zgqFWX6vptTMiwZsrSxZ_O27EukMw1J4PDPnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzY0/NjIwLTE2NzAxNDkx/MjktNzUwNC5qcGVn.jpeg) | 2022-10-12 | Raye | Escapism. &#x2F; The Thrill Is Gone. |
 | 14 | ![Cover](https://i.discogs.com/OWTGjINyEZTJDx6bO5ZH053plgVkBBZeFf91pztN97U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg5/ODY1LTE2NzU1MjI4/MDItNzgxNy5qcGVn.jpeg) | 2023-02-03 | Raye | My 21st Century Blues |
 | 52 | ![Cover](https://i.discogs.com/ESrj063IOgE4toz1oPAx3ahnk1_2nztwLsAMVjQowm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDEw/MzU4LTE2ODcwMTU4/NzUtOTI5OS5qcGVn.jpeg) | 2023-06-09 | amaarae | Fountain Baby |
+| 88 | ![Cover](https://i.discogs.com/j-O5Wj479PK4_2Z4p25u3alpjv2IZVY0TdX6y14_3bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAy/NTYzLTE2OTA1NDY2/MTEtOTY4OS5qcGVn.jpeg) | 2023-07-31 | Travis Scott | Utopia |
 | 16 | ![Cover](https://i.discogs.com/gLqNIZ8h6cu1UvSJ6vn4udOLAkJqokd1vzFIKBD7eVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc2/NzMyLTE1NDE3Mzk1/NDgtMTY5Ni5qcGVn.jpeg) | 2023-08-11 | Trippie Redd | A Love Letter To You 2 |
 | 17 | ![Cover](https://i.discogs.com/Y3i4_9tKB1eSwQebasuhJEv_6jDocKxTmrmGgVkZ71c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg5/MDAwLTE1MzAwOTAx/NzgtNjYyNy5qcGVn.jpeg) | 2023-09-20 | Eartheater | Powders |
 | 32 | ![Cover](https://i.discogs.com/1qyUTGSz0q3bvg6VvJSqgUiO0w09vZZQQW3tIG38pR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/MTgxLTE2OTc3NTIw/OTQtNDU2Mi5qcGVn.jpeg) | 2023-10-20 | Sampha | Lahai |
+| 63 | ![Cover](https://i.discogs.com/tCm8GBdjSENAeqQeEppG-uf71Gk4-4UaCxO2aKsmpUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ3/NTA4LTE2NDU1Njcy/ODctNzAzOC5qcGVn.jpeg) | 2023-10-30 | NAV | NAV |
 | 49 | ![Cover](https://i.discogs.com/rKoEA9eOsZHTkrXOuPKErAv1_sLAWQZ1JpIh5YdrX_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjAx/MjEzLTE2OTQxNDU3/NjItMjg3MC5qcGVn.jpeg) | 2023-11-17 | Tinashe | BB&#x2F;ANG3L |
 | 44 | ![Cover](https://i.discogs.com/Ki66tJd-U_ik3G3EfdRgr9a7mt2K7cN3GgcXUu3COvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjU4/NDM4LTE3MjE2NTEz/NjMtNDI5MC5qcGVn.jpeg) | 2024-07-19 | Childish Gambino | Bando Stone and The New World |
-| 54 |  |  | So!YoON! | Episode1 : Love |
-| 70 | ![Cover](https://i.discogs.com/Ix1_GmUxDVg9ig_9c9vIdRPrKxVxsjPZ1Vc8ccrIM7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzI4/MzgzLTE2NDIxMzU5/MjUtMTI3OS5qcGVn.jpeg) | 2022-01-14 | FKA twigs | Caprisongs |
-| 71 |  | 2022-02-12 | Drain Gang Archive | HOLD ME DOWN LIKE GRAVITY |
-| 86 | ![Cover](https://i.discogs.com/DjblS9zgqFWX6vptTMiwZsrSxZ_O27EukMw1J4PDPnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzY0/NjIwLTE2NzAxNDkx/MjktNzUwNC5qcGVn.jpeg) | 2022-10-12 | Raye | Escapism. &#x2F; The Thrill Is Gone. |
-| 88 | ![Cover](https://i.discogs.com/j-O5Wj479PK4_2Z4p25u3alpjv2IZVY0TdX6y14_3bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAy/NTYzLTE2OTA1NDY2/MTEtOTY4OS5qcGVn.jpeg) | 2023-07-31 | Travis Scott | Utopia |
-| 63 | ![Cover](https://i.discogs.com/tCm8GBdjSENAeqQeEppG-uf71Gk4-4UaCxO2aKsmpUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ3/NTA4LTE2NDU1Njcy/ODctNzAzOC5qcGVn.jpeg) | 2023-10-30 | NAV | NAV |
 | 21 | ![Cover](https://i.discogs.com/Nv5_W3Csrvoe4Q0gfWnuusHY_Xn7idXR_pNbxG-jhAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTYz/OTg1LTE3Mjg1ODMw/MjctODY3MS5wbmc.jpeg) | 2024-10-11 | Charli XCX | Brat and it’s completely different but also still brat |
+| 54 |  |  | So!YoON! | Episode1 : Love |
 
 ### Related genres
 

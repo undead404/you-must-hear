@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-10-29T07:50:39.377Z
+date: 2025-10-29T09:11:39.652Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-29T07:50:39.377Z">Wed Oct 29 2025 09:50:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-29T09:11:39.652Z">Wed Oct 29 2025 11:11:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [cyber metal]({{ "tags/cyber-metal" | relative_url }}) | <time datetime="2025-10-29T09:11:39.652Z">Wed Oct 29 2025 11:11:39 GMT+0200 (Eastern European Standard Time)</time> |
+| [manchester]({{ "tags/manchester" | relative_url }}) | <time datetime="2025-10-29T09:07:39.027Z">Wed Oct 29 2025 11:07:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [liverpool]({{ "tags/liverpool" | relative_url }}) | <time datetime="2025-10-29T07:50:39.377Z">Wed Oct 29 2025 09:50:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [hammond]({{ "tags/hammond" | relative_url }}) | <time datetime="2025-10-29T07:49:39.381Z">Wed Oct 29 2025 09:49:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [calypso]({{ "tags/calypso" | relative_url }}) | <time datetime="2025-10-29T07:48:39.520Z">Wed Oct 29 2025 09:48:39 GMT+0200 (Eastern European Standard Time)</time> |
@@ -289,7 +291,6 @@ Last updated: <time datetime="2025-10-29T07:50:39.377Z">Wed Oct 29 2025 09:50:39
 | [icelandic]({{ "tags/icelandic" | relative_url }}) | <time datetime="2025-10-28T13:38:15.057Z">Tue Oct 28 2025 15:38:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [chaotic hardcore]({{ "tags/chaotic-hardcore" | relative_url }}) | <time datetime="2025-10-28T13:37:37.815Z">Tue Oct 28 2025 15:37:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [suicidal black metal]({{ "tags/suicidal-black-metal" | relative_url }}) | <time datetime="2025-10-28T13:37:33.843Z">Tue Oct 28 2025 15:37:33 GMT+0200 (Eastern European Standard Time)</time> |
-| [manchester]({{ "tags/manchester" | relative_url }}) | <time datetime="2025-10-28T13:37:29.425Z">Tue Oct 28 2025 15:37:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [australian]({{ "tags/australian" | relative_url }}) | <time datetime="2025-10-28T13:37:15.206Z">Tue Oct 28 2025 15:37:15 GMT+0200 (Eastern European Standard Time)</time> |
 | [percussion]({{ "tags/percussion" | relative_url }}) | <time datetime="2025-10-28T13:37:05.597Z">Tue Oct 28 2025 15:37:05 GMT+0200 (Eastern European Standard Time)</time> |
 | [asia]({{ "tags/asia" | relative_url }}) | <time datetime="2025-10-28T13:37:00.490Z">Tue Oct 28 2025 15:37:00 GMT+0200 (Eastern European Standard Time)</time> |
@@ -642,7 +643,6 @@ Last updated: <time datetime="2025-10-29T07:50:39.377Z">Wed Oct 29 2025 09:50:39
 | [technical metal]({{ "tags/technical-metal" | relative_url }}) | <time datetime="2025-10-27T15:43:38.702Z">Mon Oct 27 2025 17:43:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [progressive black metal]({{ "tags/progressive-black-metal" | relative_url }}) | <time datetime="2025-10-27T15:36:55.001Z">Mon Oct 27 2025 17:36:55 GMT+0200 (Eastern European Standard Time)</time> |
 | [slide guitar]({{ "tags/slide-guitar" | relative_url }}) | <time datetime="2025-10-27T15:22:37.312Z">Mon Oct 27 2025 17:22:37 GMT+0200 (Eastern European Standard Time)</time> |
-| [cyber metal]({{ "tags/cyber-metal" | relative_url }}) | <time datetime="2025-10-27T15:16:09.336Z">Mon Oct 27 2025 17:16:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [romantica]({{ "tags/romantica" | relative_url }}) | <time datetime="2025-10-27T14:56:33.734Z">Mon Oct 27 2025 16:56:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [nerdcore]({{ "tags/nerdcore" | relative_url }}) | <time datetime="2025-10-27T03:05:20.962Z">Mon Oct 27 2025 05:05:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [lo-fi]({{ "tags/lo-fi" | relative_url }}) | <time datetime="2025-10-27T02:01:15.855Z">Mon Oct 27 2025 04:01:15 GMT+0200 (Eastern European Standard Time)</time> |

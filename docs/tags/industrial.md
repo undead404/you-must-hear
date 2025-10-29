@@ -9,6 +9,10 @@ title: industrial
 
 Last updated: <time datetime="2025-10-28T08:11:15.469Z">Tue Oct 28 2025 10:11:15 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Industrial is an aggressive, experimental music genre that emerged in the late 1970s, combining harsh mechanical sounds, distorted electronics, and transgressive themes to challenge conventional music. The sound features heavy use of synthesizers, drum machines, samples of factory noise, and abrasive textures that evoke dystopian industrial landscapes. Often exploring dark themes of technology, power, and alienation, industrial became a countercultural force bridging punk&#39;s rebellious energy with electronic innovation.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -56,7 +60,6 @@ Last updated: <time datetime="2025-10-28T08:11:15.469Z">Tue Oct 28 2025 10:11:15
 | 25 | ![Cover](https://i.discogs.com/35kEfChsTLDqnLoq8X0h8WIi9IKQTv7uQDOZNMn7VFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQw/Ny0xNDYxNDM4NzIx/LTIwNzQuanBlZw.jpeg) | 2001-03-20 | Ohgr | Welt |
 | 89 |  | 2001-03-27 | Rammstein | Mutter |
 | 8 | ![Cover](https://i.discogs.com/lIjL1QkYyIv73WN90Q3R5rfESkncvsnNGTOJh9pvUqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjA4/OS0wMDIuanBn.jpeg) | 2001-10-22 | Mortiis | The Smell Of Rain |
-| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/007761d122d75d12c03305238399cab5.png) |  | David Bowie | Outside |
 | 37 | ![Cover](https://i.discogs.com/yYAM-SNmpt1BljA4amYBRB9WtoROcfBEU5GdahLDHR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDE5/MTctMTMxMzAwNDkz/Ny5qcGVn.jpeg) | 2002 | Psyclon Nine | Divine Infekt |
 | 27 |  | 2002-01-22 | Nine Inch Nails | And All That Could Have Been |
 | 47 | ![Cover](https://i.discogs.com/16mNZVEqzFzeG49Jm4tZ0U3XJET0CPU2xaQZ0nK28GM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTM3/LTE0MzU4MTM5NjEt/MjQ3MC5qcGVn.jpeg) | 2002-01-28 | VNV Nation | Futureperfect |
@@ -112,6 +115,7 @@ Last updated: <time datetime="2025-10-28T08:11:15.469Z">Tue Oct 28 2025 10:11:15
 | 86 | ![Cover](https://i.discogs.com/I4E-eYMJdEXesIkqXvhl3jh1jigi-QKCOhH2IIpsp_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njk2/OTIzLTE2MDkzMTM1/NjEtMjQyOS5wbmc.jpeg) | 2020-12-15 | Taemin | WANT - The 2nd Mini Album |
 | 14 | ![Cover](https://i.discogs.com/HfO-UaTTcJhOvkIvEkRIYSoH0m545hDUbCGeloLXuoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjMw/MjUwLTE2NTEwODM2/NzMtMzAyOS5qcGVn.jpeg) | 2022-03-23 | zheani | I Hate People On The Internet |
 | 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a74a3430e9ea9747b2e216eb857c5a66.png) | 2024-12-02 | Bad Omens | CONCRETE JUNGLE [THE OST] |
+| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/007761d122d75d12c03305238399cab5.png) |  | David Bowie | Outside |
 | 60 |  |  | Mindless Self Indulgence | Pink |
 
 ### Related genres

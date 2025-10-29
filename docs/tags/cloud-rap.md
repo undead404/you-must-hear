@@ -11,18 +11,12 @@ Last updated: <time datetime="2025-10-29T00:11:25.646Z">Wed Oct 29 2025 02:11:25
 
 ### Description
 
-Cloud rap is a subgenre of hip-hop music that emerged in the early 2010s. It is characterized by its ethereal, dreamy sound and the use of reverb and delay effects on the vocals and instrumentals, giving it a hazy, atmospheric quality.
-
-The lyrics in cloud rap often focus on introspection, emotions, and personal experiences rather than traditional hip-hop themes like violence, drug use, and partying. The beats in cloud rap are often slow and melodic, featuring ambient and electronic elements mixed with traditional hip-hop drums.
-
-Some of the notable artists associated with cloud rap include Lil B, Clams Casino, Yung Lean, and A$AP Rocky. The genre has also influenced other contemporary artists in the hip-hop and electronic music scenes.
+Cloud rap is a subgenre of hip-hop that emerged in the early 2010s, characterized by dreamy, atmospheric production with ethereal synths and reverb-heavy beats. The style often features mumbled or autotuned vocals that blend into hazy, lo-fi soundscapes inspired by internet culture. It emphasizes mood and aesthetic over traditional rap&#39;s lyrical complexity.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 2 |  |  | $uicideboy$ | New World Depression |
-| 4 |  |  | $uicideboy$ | Grey Sheep II |
 | 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c5dc2115991a4bfdcb43c32429c9a4d3.png) | 1991 | Bones | SoThereWeStood |
 | 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/56ba73664ed24b78cb7c9ad01965fefd.png) | 1994 | Bones | Rotten |
 | 84 |  | 2013-01-15 | A$AP Rocky | LONG.LIVE.A$AP (Deluxe Version) |
@@ -121,6 +115,8 @@ Some of the notable artists associated with cloud rap include Lil B, Clams Casin
 | 99 | ![Cover](https://i.discogs.com/bKnuQLsB4-AbeX6UfV7C93BbIbM0adl-R1EifNQw61Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzUw/Njg3LTE2OTAwNDA1/NDktNTM3MS5qcGVn.jpeg) | 2023-05-31 | LUCKI | Sunset |
 | 83 | ![Cover](https://i.discogs.com/j-O5Wj479PK4_2Z4p25u3alpjv2IZVY0TdX6y14_3bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAy/NTYzLTE2OTA1NDY2/MTEtOTY4OS5qcGVn.jpeg) | 2023-07-31 | Travis Scott | Utopia |
 | 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1c24b0391a23dcfb761833a9a79507ca.png) | 2024-04-12 | Summrs | Isolation |
+| 2 |  |  | $uicideboy$ | New World Depression |
+| 4 |  |  | $uicideboy$ | Grey Sheep II |
 
 ### Related genres
 

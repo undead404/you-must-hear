@@ -9,11 +9,14 @@ title: neo-soul
 
 Last updated: <time datetime="2025-10-28T06:47:32.242Z">Tue Oct 28 2025 08:47:32 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Neo-soul is a genre blending classic R&amp;B with hip-hop, jazz, and electronic elements that emerged in the 1990s. It emphasizes artistic experimentation, socially conscious lyrics, and organic instrumentation over commercial polish. The sound is characterized by laid-back grooves, rich vocal harmonies, and intimate production.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/79bd8328433569cf37009701dd677f49.png) |  | Saba | CARE FOR ME |
 | 27 | ![Cover](https://i.discogs.com/BwhiR3LY5CcKMZtszGXBxI15AT-NZROFNMtvMcwGIVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzkw/OTkzLTE1ODE2NzMy/MjgtMzIxOS5qcGVn.jpeg) | 1976 | Celeste | I Can See The Change |
 | 94 | ![Cover](https://i.discogs.com/0wm0MOrlhXeIPL7G0tRwoCd-Xn0Fu0Vp33Csr1PP3pA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg5/MjAzLTE2NTc4NjEz/MzMtODc2OS5qcGVn.jpeg) | 1990 | Steve Lacy | Gemini Rights |
 | 10 | ![Cover](https://i.discogs.com/ZdEDN994JqIMcuKxVv4yhFShDceTyt0Q8WXLn2GAzWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODE4/MjUtMTMyMzc5Nzcx/Mi5qcGVn.jpeg) | 1992 | Celeste | Strange (Edit) |
@@ -96,7 +99,6 @@ Last updated: <time datetime="2025-10-28T06:47:32.242Z">Tue Oct 28 2025 08:47:32
 | 30 | ![Cover](https://i.discogs.com/-I7p_pbGi_aNvJdbLio2DJ8vn-hClzzXk0uv2FU0V7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTUx/NzUzLTE2MDA3OTgz/MzItOTIyOS5qcGVn.jpeg) | 2020-09-16 | slauson malone | Vergangenheitsbewältigung (Crater Speak) |
 | 80 | ![Cover](https://i.discogs.com/VQIyFGFHGqmhqkXM6bOn9Q2y7DidvcC_4WjTAZNYFyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM1/ODQ5LTE2NTgzNjk5/NjctNjYyNy5qcGVn.jpeg) | 2020-11-18 | Kali Uchis | Sin Miedo (del Amor y Otros Demonios) ∞ |
 | 38 | ![Cover](https://i.discogs.com/ujomu-4go9hUPULqPqbCxzA_dTiaId0w_fSfxrU7XTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzA2/MzM3LTE2MTQ5NzA2/NTItMjEwMy5qcGVn.jpeg) | 2021-03-05 | Genesis Owusu | Smiling with No Teeth |
-| 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ed761cf8d955113bb775ac38613b4c8f.png) |  | Freddie Gibbs | Alfredo 2 |
 | 25 | ![Cover](https://i.discogs.com/wcn7dAJwAxZ2UaLOfLG4fszWQdlnY-xsLyw4ECIwiMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjQ5/NzcwLTE2NTU4MzQ5/MzgtODUwNy5qcGVn.jpeg) | 2022 | Don L | Roteiro Pra Aïnouz (Vol. 2) |
 | 7 | ![Cover](https://i.discogs.com/soRLdN83rYIFlyRijhmqdNK5QWuTzvesjLs8hKQIWi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTIy/NTc4LTE3MDY1NTYx/NDctODE0Mi5qcGVn.jpeg) | 2022-03-11 | KayCyy | Get Used To It |
 | 54 | ![Cover](https://i.discogs.com/QygW8EBGLGR5exwZHL-yNzsQZiYTv8UQzCkrq6EMeBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDQ4/OTIxLTE2NTEyMDY1/MzMtMjg0Mi5qcGVn.jpeg) | 2022-04-29 | Kehlani | BLUE WATER ROAD |
@@ -113,6 +115,8 @@ Last updated: <time datetime="2025-10-28T06:47:32.242Z">Tue Oct 28 2025 08:47:32
 | 56 | ![Cover](https://i.discogs.com/1qyUTGSz0q3bvg6VvJSqgUiO0w09vZZQQW3tIG38pR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQx/MTgxLTE2OTc3NTIw/OTQtNDU2Mi5qcGVn.jpeg) | 2023-10-20 | Sampha | Lahai |
 | 67 | ![Cover](https://i.discogs.com/c7UloxsYz6bOg6XgjiAxSGxKtNsYwNE7MAS-fE5P3yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQ3/NjE3LTE3MTM4MTgz/MzYtMzYxMi5qcGVn.jpeg) | 2024-01-12 | Kali Uchis | orquídeas |
 | 32 | ![Cover](https://i.discogs.com/qPMadjGi-GHkysClqNUe-oRHba82t67xdCFlxOPXss8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDgw/MDA4LTE3MTk2MDQy/ODgtNDA0OC5qcGVn.jpeg) | 2024-06-28 | Lupe Fiasco | Samurai |
+| 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ed761cf8d955113bb775ac38613b4c8f.png) |  | Freddie Gibbs | Alfredo 2 |
+| 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/79bd8328433569cf37009701dd677f49.png) |  | Saba | CARE FOR ME |
 
 ### Related genres
 

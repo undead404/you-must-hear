@@ -11,25 +11,13 @@ Last updated: <time datetime="2025-10-28T16:01:11.176Z">Tue Oct 28 2025 18:01:11
 
 ### Description
 
-Japanese music refers to the various styles of music that originate from Japan or are influenced by Japanese culture. It encompasses a wide range of genres, including traditional Japanese music, pop, rock, hip-hop, electronic, and experimental music.
-
-Traditional Japanese music is often characterized by the use of instruments such as the shamisen, koto, and shakuhachi, while contemporary Japanese music often incorporates western musical elements.
-
-Japanese pop music, or J-pop, is a popular music genre that originated in Japan in the 1990s. It often features upbeat, catchy melodies and heavily produced vocals. J-pop has gained popularity not only in Japan but also in other parts of Asia and around the world.
-
-Japanese rock music, or J-rock, is another popular music genre in Japan. It draws heavily from western rock music but often incorporates elements of Japanese traditional music as well.
-
-Japanese hip-hop music, or J-hip-hop, has also gained popularity in recent years, with many Japanese artists blending elements of traditional Japanese music with hip-hop beats and rhymes.
-
-Overall, Japanese music is diverse and reflects the country&#39;s rich cultural heritage as well as its openness to influences from other parts of the world.
+Japanese music encompasses diverse styles from traditional folk to modern pop, reflecting the country&#39;s blend of ancient and contemporary culture. The genre often features melodic sensitivity, distinct vocal techniques, and innovative production that ranges from jazz-influenced hip-hop to ambient electronica.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
 | 19 | ![Cover](https://i.discogs.com/SdgUvMz9fQv7tlXKDMIuO6Zy7F5O5y1zZiptxQ6gxmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODQy/NjQtMTYxNTc2NDYy/MS0zNDk4LmpwZWc.jpeg) | 1979-09-25 | Yellow Magic Orchestra | Solid State Survivor |
-| 51 |  |  | Kikuo | きくおミク6 |
-| 52 |  |  | EXIT TUNES&#x2F;PONY CANYON | Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST― |
 | 50 |  | 1986 | Hiroshi Yoshimura | Green |
 | 60 | ![Cover](https://i.discogs.com/OZNZGMGfKw2YfbGlmg0roU9h93o7ycojoEohfU0KXFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTgz/NC0xMDk0NDk4ODI2/LmpwZWc.jpeg) | 1994 | Lisa | LEO-NiNE |
 | 74 |  | 1996-01-16 | Cibo Matto | VIVA! La Woman |
@@ -92,9 +80,9 @@ Overall, Japanese music is diverse and reflects the country&#39;s rich cultural 
 | 100 | ![Cover](https://i.discogs.com/9aeZG2f2mvXu0PP8HQfmv69DcZRPFgP86jYIoPcc-XU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjEz/NzkyLTE1NzgxOTY1/NDYtNjkzNy5qcGVn.jpeg) | 2018-12-14 | Kero Kero Bonito | Flamingo |
 | 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7e1b8d7d7ecd7d713c6de331c7bb866b.png) | 2019 | Haru Nemuri | harutosyura |
 | 8 | ![Cover](https://i.discogs.com/Vv3r3X4NGfMC036FBLckYNildzuIH52M8An2WUuozYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/NjQzLTE1ODQxODcx/MjMtNTk0NS5wbmc.jpeg) | 2019-02-06 | Reona | forget-me-not |
-| 33 | ![Cover](https://i.discogs.com/zyEiBDlo-Y5MJf78CN0zDONWucmo5lU2hRNsTGkaCbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEw/Nzg5LTE1NTgzODM2/MjQtNjQ1OC5wbmc.jpeg) | 2019-04 | Capcom Sound Team | Resident Evil 2 Original Soundtrack |
 | 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/845c6ec136a482d444db350ede693bd5.png) | 2019-04-10 | YUTA | Depth |
 | 40 | ![Cover](https://i.discogs.com/p5vo85q29QblG2MB61OByOdY1WmaydvQ1w5kDUAfAXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzgx/NTA4LTE1ODE0NzIy/NzMtNjg1My5qcGVn.jpeg) | 2019-04-17 | NCT 127 | Awaken |
+| 33 | ![Cover](https://i.discogs.com/zyEiBDlo-Y5MJf78CN0zDONWucmo5lU2hRNsTGkaCbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEw/Nzg5LTE1NTgzODM2/MjQtNjQ1OC5wbmc.jpeg) | 2019-04 | Capcom Sound Team | Resident Evil 2 Original Soundtrack |
 | 87 | ![Cover](https://i.discogs.com/DPWatPB3kIRM5SW9ybFI8i-SEwGDr9bNWtlh63DQdP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTkx/MjQtMTQxODc0MTM4/NS01ODM5LmpwZWc.jpeg) | 2019-07-24 | TWICE | Breakthrough |
 | 75 | ![Cover](https://i.discogs.com/A_eKfRvl1GN7cV6kgAYWE_Tcjjs8OQIRfS2lURRP2tY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE5/MjExLTE1ODIyMTc3/ODUtMjE0NC5qcGVn.jpeg) | 2019-11-20 | TWICE | &amp;TWICE |
 | 26 | ![Cover](https://i.discogs.com/WG3Lc3JCk7x6HXMKSa91cXUVWmyKzzxQjEh3uvVcDb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTc3/MjYtMTQ1ODA5OTYw/NS01MDc0LmpwZWc.jpeg) | 2020 | BTS | 血、汗、涙 |
@@ -121,12 +109,14 @@ Overall, Japanese music is diverse and reflects the country&#39;s rich cultural 
 | 55 | ![Cover](https://i.discogs.com/kNJgryy5djrf8c3sGyDvgEsTScId2PpieKgyDATYeTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTEz/ODcwLTE2Nzk1NjU2/NzctMzY0Ni5qcGVn.jpeg) | 2023-03-24 | BABYMETAL | The Other One |
 | 54 | ![Cover](https://i.discogs.com/_8kNxceGR_1vdIKI959i1OtQViH6KuQfh60fbAH-1E4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njkw/NTY0LTE2OTgxNDY4/NTEtNDkxNC5qcGVn.jpeg) | 2023-10-04 | yoasobi | The Book 3 |
 | 35 | ![Cover](https://i.discogs.com/0eXUELHJaq_yLoXWX-0BOKzY3LAps7GrKD8jmJFKEas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDkx/OTMxLTE2NTQ1Nzgx/MjYtMzAxNi5qcGVn.jpeg) | 2023-10-18 | Itzy | RINGO |
+| 98 | ![Cover](https://i.discogs.com/d3Dqx0ZG6EGNp_F0p-uPD6NxQtyXyyJoLbzwHwrMBkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDI4/NzM3LTE3MTkwNjI2/OTctODQyNC5qcGVn.jpeg) | 2024 | NewJeans | Supernatural |
 | 64 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/300a1a81f42de937c3775ee29d0d120a.png) | 2024-02-28 | NCT WISH | WISH |
 | 56 | ![Cover](https://i.discogs.com/V5LPiXqw1OQSVCaPWw3ogmalSD6JK8jZlKzKfN6uXZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjU5/MS0xNTg2MzI0NTYx/LTQ5NjEuanBlZw.jpeg) | 2024-11-03 | Nujabes | samurai champloo music record departure |
+| 51 |  |  | Kikuo | きくおミク6 |
+| 52 |  |  | EXIT TUNES&#x2F;PONY CANYON | Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST― |
 | 72 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/85e4db7c14a1dc7a4767a149d1683ada.png) |  | 宇宙ネコ子 | 君のように生きれたら |
 | 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eeaeaee276ad500e3dbcc67cf193d733.png) |  | PSYCHIC FEVER from EXILE TRIBE | 99.9 Psychic Radio |
 | 90 |  |  | Tatsuya Kitani | 青のすみか |
-| 98 | ![Cover](https://i.discogs.com/d3Dqx0ZG6EGNp_F0p-uPD6NxQtyXyyJoLbzwHwrMBkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDI4/NzM3LTE3MTkwNjI2/OTctODQyNC5qcGVn.jpeg) | 2024 | NewJeans | Supernatural |
 
 ### Related genres
 

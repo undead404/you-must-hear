@@ -9,6 +9,10 @@ title: garage rock
 
 Last updated: <time datetime="2025-10-28T06:37:08.475Z">Tue Oct 28 2025 08:37:08 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Garage rock is a raw, energetic style of rock music characterized by distorted guitars, simple chord progressions, and unpolished production that sounds like it was recorded in someone&#39;s garage. The genre emerged in the 1960s and experienced revivals in later decades, emphasizing authenticity and DIY ethos over technical perfection. It typically features aggressive vocals, driving rhythms, and a back-to-basics approach that rejects mainstream rock&#39;s polish.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -47,8 +51,8 @@ Last updated: <time datetime="2025-10-28T06:37:08.475Z">Tue Oct 28 2025 08:37:08
 | 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a9c961c8da0d4427b7d7a4018738f5df.png) | 2003-10-16 | The Strokes | Room on Fire |
 | 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e34d41a1ac394859c8d505f184b77632.png) | 2004-03-22 | Eagles of Death Metal | Peace Love Death Metal |
 | 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/224de5ce0d0b45889540f3f2b2abb4ac.png) | 2004-07-19 | The Hives | Tyrannosaurus Hives |
-| 1 | ![Cover](https://i.discogs.com/WZuufd1jeZ3IEUwSOXrYUpb0uZ75SuvoY5nAGoQSdMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjk0/My0xMTI2NTU0MzA4/LmpwZWc.jpeg) | 2004-08 | The Duke Spirit | Cuts Across the Land |
 | 59 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a55cd803b6846444eff119eb165ec7f9.png) | 2004-08-30 | The Libertines | The Libertines |
+| 1 | ![Cover](https://i.discogs.com/WZuufd1jeZ3IEUwSOXrYUpb0uZ75SuvoY5nAGoQSdMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjk0/My0xMTI2NTU0MzA4/LmpwZWc.jpeg) | 2004-08 | The Duke Spirit | Cuts Across the Land |
 | 86 | ![Cover](https://i.discogs.com/QORNNCvOKFvS-JnqBRKpE2-sOIdroTZ-yKH-Vk4hoxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTc0/OS0xMzA2NDM2MTc1/LmpwZWc.jpeg) | 2005-02-21 | The Kills | No Wow |
 | 47 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f4fecd4280bd4e8d9f0a80457e7782de.png) | 2005-04-18 | The White Stripes | Blue Orchid |
 | 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6dae1d9e2ebe48abc85d44c1ee8edeab.png) | 2005-07-04 | The Subways | Young for Eternity |
@@ -119,8 +123,8 @@ Last updated: <time datetime="2025-10-28T06:37:08.475Z">Tue Oct 28 2025 08:37:08
 - [rock]({{ "/tags/rock" | relative_url }})
 - [indie rock]({{ "/tags/indie-rock" | relative_url }})
 - [alternative rock]({{ "/tags/alternative-rock" | relative_url }})
-- [alternative]({{ "/tags/alternative" | relative_url }})
 - [classic rock]({{ "/tags/classic-rock" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
 - [psychedelic rock]({{ "/tags/psychedelic-rock" | relative_url }})
 - [garage]({{ "/tags/garage" | relative_url }})
 - [punk rock]({{ "/tags/punk-rock" | relative_url }})

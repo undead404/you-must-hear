@@ -9,6 +9,10 @@ title: neo-psychedelia
 
 Last updated: <time datetime="2025-10-25T18:33:29.118Z">Sat Oct 25 2025 21:33:29 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Neo-psychedelia revives the experimental, mind-bending sounds of 1960s psychedelic rock through modern production techniques and electronic elements. The genre blends swirling synthesizers, reverb-drenched guitars, and layered vocals to create dreamlike, immersive soundscapes. Emerging in the 1980s and gaining mainstream popularity in the 2010s, it spans indie rock to hip-hop, united by its trippy, consciousness-expanding aesthetic.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
