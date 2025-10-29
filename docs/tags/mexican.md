@@ -1,19 +1,19 @@
 ---
 category: genre
-date: 2025-10-28T06:02:51.222Z
+date: 2025-10-29T00:49:33.288Z
 permalink: tags/mexican
 title: mexican
 ---
 
 ## mexican
 
-Last updated: <time datetime="2025-10-28T06:02:51.222Z">Tue Oct 28 2025 08:02:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-29T00:49:33.288Z">Wed Oct 29 2025 02:49:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/46a7cd0cffa463ac41a7813e53dd9b22.png) | 2000-08-22 | Julieta Venegas | Bueninvento |
+| 1 |  | 1991-09-26 | Thalía | Mundo de Cristal |
 | 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/79436f55566d49d1868af8c0a144bb97.png) |  | Hello Seahorse! | lejos. no tan lejos |
 | 70 |  |  | T3r Elemento | Underground |
 | 14 |  | 1964 | Various Artists | Cartagena! Curro Fuentes &amp; The Big Band Cumbia and Descarga Sound Of Colombia 1962 - 72 (Soundway Records) |
