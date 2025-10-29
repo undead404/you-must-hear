@@ -1,40 +1,57 @@
 ---
 category: genre
-date: 2025-10-28T04:54:32.431Z
+date: 2025-10-28T23:54:40.861Z
 permalink: tags/modern-metal
 title: modern metal
 ---
 
 ## modern metal
 
-Last updated: <time datetime="2025-10-28T04:54:32.431Z">Tue Oct 28 2025 06:54:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T23:54:40.861Z">Wed Oct 29 2025 01:54:40 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Modern metal blends aggressive guitar riffs and heavy rhythms with electronic elements, clean vocals, and polished production techniques that emerged in the late 1990s and 2000s. The genre often incorporates influences from nu-metal, metalcore, and industrial music while embracing contemporary pop sensibilities. It appeals to audiences seeking intense yet accessible music that bridges traditional metal&#39;s power with modern sonic innovation.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 51 | ![Cover](https://i.discogs.com/FeyhjyiItceEPXaPwsHx5eK2QHmKZtInKGRo8yuh8Xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDc3/ODEtMTYxNjcxNjM2/OC0zODE5LmpwZWc.jpeg) | 1994 | Deftones | 7 Words |
 | 3 | ![Cover](https://i.discogs.com/BWujTmHxLm2QMKE_5nVZPN7Pf-W6ownnkV-245t4kbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTA4/Ni0xMTUyODI3OTc2/LmpwZWc.jpeg) | 1998 | Korn | Got the Life |
 | 14 | ![Cover](https://i.discogs.com/hcvFUO4Psb1d18Ro5ppqCMd48i6skjkJtH2V80SPWww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzM3/NzYtMTM5MTc5NDkx/Ni03MTYwLmpwZWc.jpeg) | 2006 | Inexist | Relax and Feel Free |
 | 22 | ![Cover](https://i.discogs.com/x_uA4YtNV-oALOQpFceeLcUqtJr9YUzEUVtAlU_aK7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTQ2/NjgtMTMzNTA4NTg1/Ny5qcGVn.jpeg) | 2006-02-20 | БеZумные Усилия | Стирая Грани |
 | 8 | ![Cover](https://i.discogs.com/33OsO8eXRL5AFFK-1UdtG90RACktvAVXVcx_kOusEwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDI1/MDMtMTI5NzI0MDcw/NS5qcGVn.jpeg) | 2007-03-29 | БеZумные Усилия | Спираль Молчания |
 | 12 | ![Cover](https://i.discogs.com/em7aTHMJYmT43kH72Utm3P46lTa9TcIn-RN0fMM7zmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE3/MjEtMTIwMDA0NDYx/Ny5qcGVn.jpeg) | 2007-08-27 | Raga Rockers | Ûbermensch |
 | 20 | ![Cover](https://i.discogs.com/KCrYs-puW1n6P-fARciRwuvC5u68NYRkQZi7sbj3AYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDcx/NTctMTY4NDAxMzU4/NS0xNzYxLmpwZWc.jpeg) | 2007-09 | Арда | Море Исчезающих Времён |
+| 41 | ![Cover](https://i.discogs.com/6_diSsGDWjZpusf_FDI0224FsuAsPot2lQegRiN1RC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODA5/NjItMTM3ODMxODI5/MS0zNzQ3LmpwZWc.jpeg) | 2008 | Horizon 8 | Horizon 8 |
 | 2 | ![Cover](https://i.discogs.com/PJE_CPpLWZnZlQA9aPxrS4V0vU8tEKxXTIvTNaZAuwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzA4/NDgtMTQ1MjY3MTkz/My0yMTY5LmpwZWc.jpeg) | 2008-03-18 | Inexist | Навстречу Мечте |
 | 23 | ![Cover](https://i.discogs.com/juheP_-U8pqCU6n6xhUBIcH8I48vWXWX0SEJKg0q4wA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTI2/MzMtMTUxNTQxMDc2/Ni05ODQwLmpwZWc.jpeg) | 2008-09-07 | Medicated | Magnum For Amen |
 | 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f0dacb5e7470423cc27d7ecc6e6513cd.png) | 2008-11-17 | Mechanical Poet | Eidoline: The Arrakeen Code |
 | 15 |  | 2008-12-12 | Cypecore | Innocent |
 | 30 | ![Cover](https://i.discogs.com/S8zBLhJr3_reE0jGp5E0tDO9HpuZKd0g8bY9dxlNi0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODM5/NTgtMTM2MzQ1NDQ5/NC05MDI5LmpwZWc.jpeg) | 2009 | БеZумные Усилия | Огни Неизвестности |
 | 13 | ![Cover](https://i.discogs.com/UcBs1N2gMKSo7VDa8qYkpVZVDct1TYd6q-ZpqBMx-Ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDA0/ODEtMTI3NTM5Mzg3/Ni5qcGVn.jpeg) | 2009-03-11 | Manufacturer&#39;s Pride | Sound Of God&#39;s Absence |
+| 44 | ![Cover](https://i.discogs.com/ZZPfOOGPi5TxR0O6C1DCjwAmI0qKYpw7jbAzAMzVzEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjQ1/OTMtMTM0NDA3MTIw/MC02ODY1LmpwZWc.jpeg) | 2009-05-02 | Icon In Me | Human Museum |
 | 28 | ![Cover](https://i.discogs.com/wp20rFFDpiwVO33z9ebiElGZiGRZ6Q4hj8bvIYy0jlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Nzc4/MDEtMTM3MTk1MTA0/Mi0xNDM1LmpwZWc.jpeg) | 2009-05-17 | System Divide | The Collapse - EP |
+| 45 |  | 2009-08-31 | Dirge Within | Force Fed Lies |
 | 9 | ![Cover](https://i.discogs.com/JxGorjDWcfD2aQNWDo1U9O421DdtOAWlYwcmGYRotww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzc0/ODItMTMwMDU3Mzk4/OS5qcGVn.jpeg) | 2010 | Emergency Gate | The Nemesis Construct |
 | 18 | ![Cover](https://i.discogs.com/VUyDam_uJ1SCfYYqNT6pzPCSxzd8c6NRDIxQkxb8UNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Mzk4/NTEtMTQ1MjA3Njky/NS0zNTI2LnBuZw.jpeg) | 2010-01-14 | Фактор Страха | Мёртвые Сны |
 | 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1331cefc402e43bab4537a81901f3a09.png) | 2010-03-30 | Эпидемия | Дорога Домой |
+| 48 |  | 2010-10-11 | Breach The Void | The Monochromatic Era |
 | 19 | ![Cover](https://i.discogs.com/ArgNeloC8FY2eIPT3uExEE1lYB4d5zT5gpCSJcnYX1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTE3/NzktMTMzNjU1NTQ5/OC02NzYwLmpwZWc.jpeg) | 2010-10-26 | Amatory | Инстинкт Обреченных |
 | 10 |  | 2010-11-29 | Digimortal | Парад Мёртвых Планет |
+| 34 | ![Cover](https://i.discogs.com/uQGx3a3uGRYQARXMp-QfrB7GUs5fsOnkNdV2SgtCfL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDE4/OTItMTI5OTAxMDQz/OS5qcGVn.jpeg) | 2010-12-03 | Cypecore | Take the Consequence |
 | 4 |  | 2011-07-15 | Nova Prospekt | Industrial World |
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0f9156207397469b885cf7c26949e9ca.png) | 2012-01 | Чёрный Обелиск | Мёртвый сезон |
+| 38 | ![Cover](https://i.discogs.com/nB-3M4OfCb-MVYGt2BjHMAN3mzqIbaP_zJR6MnlX34o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzc1/NjctMTY2MTIwNTk0/OC05NjMxLmpwZWc.jpeg) | 2011-07-26 | World Under Blood | Tactical |
+| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ee928457d7164cdba982489b58f486e8.png) | 2011-11-30 | The Unguided | Hell Frost |
+| 32 |  | 2012-03-14 | Imaginary Flying Machines | Princess Ghibli II |
+| 47 | ![Cover](https://i.discogs.com/cu0iolNtgE0VdWPb1reLxYVbolBUg5dHbd4dYvAdaQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDAw/NS0xNDM4ODI4OTg3/LTYyNjkuanBlZw.jpeg) | 2013 | Korn | Never Never: The Remixes |
+| 37 | ![Cover](https://i.discogs.com/a_enqqXg5GU4yQZHbzM5JSsUkf-z3BhYRd1ZFbfj7qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTQ2/NDAtMTYxNzUwNjMw/My01Njg2LmpwZWc.jpeg) | 2013-02-17 | Feared | Furor Incarnatus |
+| 31 |  | 2013-06-23 | Neurotech | The Decipher Volumes |
+| 50 | ![Cover](https://i.discogs.com/9zSI6SHgtfUb_1zlWsarmSgYjfiCkk45jzoTxtqI8T4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzM0/MjYtMTQ4NTA5NDUy/Mi04MjU0LmpwZWc.jpeg) | 2013-09-06 | Dark Age | A Matter of Trust |
+| 35 | ![Cover](https://i.discogs.com/FdbpTwq7jJnsM6TgwVfIw48Jg1aWEyzPRC7ejNr0KtQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTUx/NjU0LTE1NDUxOTE0/NTUtNjkzOS5qcGVn.jpeg) | 2014 | Outtrigger | The Last of Us |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f1a51d10bfda2a2209bb0fc8056c1984.png) | 2017-05-19 | Rest, Repose | Rest, Repose |
 | 5 |  |  | 120 db | Когда Умирает Близкий Тебе Человек |
+| 51 | ![Cover](https://i.discogs.com/FeyhjyiItceEPXaPwsHx5eK2QHmKZtInKGRo8yuh8Xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDc3/ODEtMTYxNjcxNjM2/OC0zODE5LmpwZWc.jpeg) | 1994 | Deftones | 7 Words |
 | 70 | ![Cover](https://i.discogs.com/Rt3CUHbmJ_TaTMzlJPgJsvdRqs8cmdaJ8MMWB_tuvnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTg1/NS0xNTM5OTQwNjg2/LTUzNTAuanBlZw.jpeg) | 1998 | Korn | Freak on a Leash |
 | 88 |  | 2001-06-08 | Limp Bizkit | My Way |
 | 81 | ![Cover](https://i.discogs.com/xDovoa5UR9HAeYS9fAyc5jK2sOgbX_XdWVnPYowQk9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTIx/OS0xNjYzNzY1ODkw/LTkzOTcuanBlZw.jpeg) | 2002-09-04 | In Flames | Reroute To Remain (Reissue 2014) |
@@ -42,19 +59,14 @@ Last updated: <time datetime="2025-10-28T04:54:32.431Z">Tue Oct 28 2025 06:54:32
 | 83 | ![Cover](https://i.discogs.com/prwPB6ZnGy9pALbp0g23VqN_28Wucedf_-TIFJnkLTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU4/MzctMTYxMjMyMDY4/OC0zMDk1LmpwZWc.jpeg) | 2006-10-16 | Deftones | Hole in the Earth |
 | 95 |  | 2007 | Korn | Evolution |
 | 60 | ![Cover](https://i.discogs.com/LBy2iNUmfm7lqZuwoOznXazqIn38EMMa1Aem4UoHQqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQx/MTYtMTM0NjY5Mjkw/OS04OTQ2LmpwZWc.jpeg) | 2007-11-02 | Engel | Absolute Design |
-| 41 | ![Cover](https://i.discogs.com/6_diSsGDWjZpusf_FDI0224FsuAsPot2lQegRiN1RC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODA5/NjItMTM3ODMxODI5/MS0zNzQ3LmpwZWc.jpeg) | 2008 | Horizon 8 | Horizon 8 |
 | 80 | ![Cover](https://i.discogs.com/tKBvQdSvfZn0VJvCZyYiYznhnaVbdu2rNKmr_nxKm8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTYw/MDUtMTIzNzY2NjEz/Mi5qcGVn.jpeg) | 2008 | In Flames | A Sense Of Purpose (Re-issue 2014) |
 | 52 |  | 2008-06-27 | Raunchy | Wasteland Discotheque |
 | 75 | ![Cover](https://i.discogs.com/zQTRaGQBNmQ_NDSeJnon5fkqSs0Ckd0H3BdZZCtiSQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjM2/NTUtMTM2MDA5Mjk5/MC05MzU4LmpwZWc.jpeg) | 2008-10-08 | Amatory | VII |
 | 64 |  | 2009-03-09 | Korn | Collected |
-| 44 | ![Cover](https://i.discogs.com/ZZPfOOGPi5TxR0O6C1DCjwAmI0qKYpw7jbAzAMzVzEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjQ1/OTMtMTM0NDA3MTIw/MC02ODY1LmpwZWc.jpeg) | 2009-05-02 | Icon In Me | Human Museum |
 | 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d19113774fe2ccd07841ec5e4a5e8b10.png) | 2009-05-13 | Dead by April | Dead by April |
 | 69 |  | 2009-06-14 | Arkaea | Years in the Darkness |
-| 45 |  | 2009-08-31 | Dirge Within | Force Fed Lies |
 | 76 | ![Cover](https://i.discogs.com/XtXSQfyY11GZPJS-hE1czZqiQlAztPH2amYKnlt3eIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzAx/NjEtMTU5Mzk2MzQ5/OS03NTE3LmpwZWc.jpeg) | 2010 | In Flames | Soundtrack To Your Escape (Reissue 2014) |
 | 16 |  | 2010-03-16 | Raintime | Psychromatic |
-| 48 |  | 2010-10-11 | Breach The Void | The Monochromatic Era |
-| 34 | ![Cover](https://i.discogs.com/uQGx3a3uGRYQARXMp-QfrB7GUs5fsOnkNdV2SgtCfL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDE4/OTItMTI5OTAxMDQz/OS5qcGVn.jpeg) | 2010-12-03 | Cypecore | Take the Consequence |
 | 72 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e454be5f768d47c781f9f87923ba6161.png) | 2011-01-11 | Dead by April | Stronger |
 | 53 |  | 2011-02-05 | The Interbeing | Edge of the Obscure |
 | 67 | ![Cover](https://i.discogs.com/txtoij1y8RyYQ7MY2joP-YiwhO0XzYqDOqyEHARzPQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODc0/NTk4LTE1ODMyNTA2/MjktNDA2MC5qcGVn.jpeg) | 2011-02-28 | Amaranthe | Trinity |
@@ -62,22 +74,14 @@ Last updated: <time datetime="2025-10-28T04:54:32.431Z">Tue Oct 28 2025 06:54:32
 | 74 |  | 2011-04-15 | Scar Symmetry | The Unseen Empire |
 | 86 | ![Cover](https://i.discogs.com/r_9S_3_w1zXc_hHUkGTpy5DMpnAFBLa5MbEC2EdL-t0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDI4/OTAtMTU0OTE3OTk5/Ni00MzYxLmpwZWc.jpeg) | 2011-05-16 | Dead by April | Within My Heart |
 | 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2cdf6ad30c87420f92a4b3476d899cd8.png) | 2011-06-17 | In Flames | Sounds of a Playground Fading |
-| 38 | ![Cover](https://i.discogs.com/nB-3M4OfCb-MVYGt2BjHMAN3mzqIbaP_zJR6MnlX34o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzc1/NjctMTY2MTIwNTk0/OC05NjMxLmpwZWc.jpeg) | 2011-07-26 | World Under Blood | Tactical |
 | 77 |  | 2011-09-26 | Amaranthe | Amaranthine |
-| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ee928457d7164cdba982489b58f486e8.png) | 2011-11-30 | The Unguided | Hell Frost |
 | 94 | ![Cover](https://i.discogs.com/lG5ejWp-DY-e31dt18Gs3nJ6GXWgfjN0fnIaLsul-9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzEx/NTItMTQ4MTk1NDYw/NC05NTUxLmpwZWc.jpeg) | 2012-02-25 | Dead by April | Mystery |
-| 32 |  | 2012-03-14 | Imaginary Flying Machines | Princess Ghibli II |
 | 62 | ![Cover](https://i.discogs.com/xKrCzUD8ROAIYpZLtdT8kG2MZseq_l8l1BU_vTypj64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTc3/MjgtMTY0NDU2OTUz/OS01ODEwLmpwZWc.jpeg) | 2012-06-05 | Mnemic | Mnemesis |
 | 84 |  | 2012-10-08 | Deftones | Leathers |
 | 54 |  | 2012-12-21 | The Unguided | invaZion |
-| 47 | ![Cover](https://i.discogs.com/cu0iolNtgE0VdWPb1reLxYVbolBUg5dHbd4dYvAdaQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDAw/NS0xNDM4ODI4OTg3/LTYyNjkuanBlZw.jpeg) | 2013 | Korn | Never Never: The Remixes |
-| 37 | ![Cover](https://i.discogs.com/a_enqqXg5GU4yQZHbzM5JSsUkf-z3BhYRd1ZFbfj7qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTQ2/NDAtMTYxNzUwNjMw/My01Njg2LmpwZWc.jpeg) | 2013-02-17 | Feared | Furor Incarnatus |
 | 73 |  | 2013-03-13 | Amaranthe | The Nexus |
 | 11 |  | 2013-05-27 | Kandia | All Is Gone |
-| 31 |  | 2013-06-23 | Neurotech | The Decipher Volumes |
 | 63 |  | 2013-07-24 | DeadLock | The Arsonist |
-| 50 | ![Cover](https://i.discogs.com/9zSI6SHgtfUb_1zlWsarmSgYjfiCkk45jzoTxtqI8T4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzM0/MjYtMTQ4NTA5NDUy/Mi04MjU0LmpwZWc.jpeg) | 2013-09-06 | Dark Age | A Matter of Trust |
-| 35 | ![Cover](https://i.discogs.com/FdbpTwq7jJnsM6TgwVfIw48Jg1aWEyzPRC7ejNr0KtQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTUx/NjU0LTE1NDUxOTE0/NTUtNjkzOS5qcGVn.jpeg) | 2014 | Outtrigger | The Last of Us |
 | 46 |  | 2014-02-07 | Fear Of Domination | Distorted Delusions |
 | 6 | ![Cover](https://i.discogs.com/UjSU-RPYqHdEuEWolLTcErjtmiw3A_hDpas25zrfvXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTA1/NjUtMTQzMDMxMjg5/OS04NzE0LmpwZWc.jpeg) | 2014-04-15 | Temperance | Temperance |
 | 33 |  | 2014-07-04 | Sonic Syndicate | Sonic Syndicate |
@@ -124,5 +128,5 @@ Last updated: <time datetime="2025-10-28T04:54:32.431Z">Tue Oct 28 2025 06:54:32
 - [progressive metal]({{ "/tags/progressive-metal" | relative_url }})
 - [death metal]({{ "/tags/death-metal" | relative_url }})
 - [modern melodic death metal]({{ "/tags/modern-melodic-death-metal" | relative_url }})
+- [industrial metal]({{ "/tags/industrial-metal" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
-- [heavy metal]({{ "/tags/heavy-metal" | relative_url }})

@@ -1,13 +1,17 @@
 ---
 category: genre
-date: 2025-10-28T04:55:00.638Z
+date: 2025-10-28T23:54:56.063Z
 permalink: tags/polish-death-metal
 title: polish death metal
 ---
 
 ## polish death metal
 
-Last updated: <time datetime="2025-10-28T04:55:00.638Z">Tue Oct 28 2025 06:55:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T23:54:56.063Z">Wed Oct 29 2025 01:54:56 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Polish death metal is a subgenre of death metal that originated in Poland in the late 1980s and early 1990s. The music is characterized by fast tempos, heavily distorted guitars, and growled or screamed vocals. The lyrics often deal with themes such as death, war, and the occult. Some of the most notable Polish death metal bands include Vader, Behemoth, Decapitated, and Hate. The genre has been influential in the development of death metal worldwide, and Polish death metal bands continue to be popular both in Poland and internationally.
 
 ### 100 chronological releases
 
@@ -27,6 +31,7 @@ Last updated: <time datetime="2025-10-28T04:55:00.638Z">Tue Oct 28 2025 06:55:00
 | 61 | ![Cover](https://i.discogs.com/zBGLac4ZGjvQ5KCbQCvfxpepmAfcrarhNAPvKXlKA30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzM5/NjMtMTMwNTA2OTc0/Ni5qcGVn.jpeg) | 1996 | Execution | Ready For Love |
 | 87 | ![Cover](https://i.discogs.com/Vilv2TkRRpNG2EGSj3im-MtugLDv47gBg2bd1F-2QBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzg1/NTgtMTQ5NjA3NzE2/Ni0zOTM4LmpwZWc.jpeg) | 1997 | Devilyn | Anger |
 | 17 | ![Cover](https://i.discogs.com/jNQzAAceoL_pN0-It4LkYsHiMKB2AtAF4b7CUC80FUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjk1/NjQtMTM2NzQ5MDUy/My0yODk4LmpwZWc.jpeg) | 1997-12-01 | Disloyal | Desire (Demo) |
+| 1 |  | 1998 | BEHEADED (PL) | The Twilight (promo&#39;98) |
 | 4 | ![Cover](https://i.discogs.com/mTanz2LyNymjwWdXPSiOAh9IqF6exU31QWw6sqfNhLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzcy/Ni0xMTYzOTI3MTE1/LmpwZWc.jpeg) | 1999 | Evil Twin | to yours god |
 | 83 | ![Cover](https://i.discogs.com/YbX8VF69BN2YDFxg7X6S8wyb5tWpa7Cv-SxjsLHrgpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTAy/NTktMTQwMzMwMDAy/Ny04NzE3LmpwZWc.jpeg) | 1999 | Devilyn | Reborn in pain |
 | 79 | ![Cover](https://i.discogs.com/TmJZIZrUDfVelYqVQD7Rg1Xa17-fd1bIUASCKgl34Ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzE1/NjYtMTUyMDc3MDcy/Mi02MzMzLmpwZWc.jpeg) | 2000 | Medebor | Last Dream |
@@ -52,7 +57,6 @@ Last updated: <time datetime="2025-10-28T04:55:00.638Z">Tue Oct 28 2025 06:55:00
 | 69 | ![Cover](https://i.discogs.com/omkJousFAdo5DY6cCNnGkGNyX1gkWLNwX2-R3mWMW6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjkw/Ny0xMzEzNjgxODY5/LmpwZWc.jpeg) | 2004-12-12 | Spinal Cord | Stigmata of Life |
 | 27 |  | 2005 | DeathClaw | Timeless Illusions |
 | 97 | ![Cover](https://i.discogs.com/XUQUePHhI9oEqss0P30oIph9OC3b1uUAGmZF_jP26oE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjAx/MDktMTUxMzExOTA2/OS04NTA3LmpwZWc.jpeg) | 2005 | Devilyn | 11 |
-| 1 |  | 2005-02-25 | BloodthirstPL | Hell Bestial Desecration (split w&#x2F;Ebola) |
 | 24 |  | 2005-06 | Dreary Mower | Mowing Around - 2005 |
 | 10 | ![Cover](https://i.discogs.com/by1CD9cjKsV6X1n1MHvxN-tvlPP29Ek9ne0R0fzckII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjgw/Mi0xMjI4MjczMTA3/LmdpZg.jpeg) | 2005-08 | Lost Soul | GENESIS |
 | 16 |  | 2006 | Il Spectro | Sphere Of Death |
