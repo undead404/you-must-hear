@@ -9,6 +9,10 @@ title: indie folk
 
 Last updated: <time datetime="2025-10-28T04:54:19.297Z">Tue Oct 28 2025 06:54:19 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Indie folk blends acoustic instrumentation with intimate, introspective songwriting, emerging from independent music scenes in the 2000s. The genre features gentle melodies, literary lyrics, and organic sounds like banjo, violin, and fingerpicked guitar. It emphasizes authenticity and emotional vulnerability over commercial polish.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
