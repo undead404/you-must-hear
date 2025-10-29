@@ -1,92 +1,92 @@
 ---
 category: genre
-date: 2025-10-28T02:03:21.468Z
+date: 2025-10-28T21:11:53.443Z
 permalink: tags/pop-metal
 title: pop metal
 ---
 
 ## pop metal
 
-Last updated: <time datetime="2025-10-28T02:03:21.468Z">Tue Oct 28 2025 04:03:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T21:11:53.443Z">Tue Oct 28 2025 23:11:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 13 |  | 1978-07-28 | Cheap Trick | Hair Metal 100: Power Ballads |
+| 1 | ![Cover](https://i.discogs.com/ofbnMv2albUzrk4RLUkoWPTAsrokEqp6gJJw0jm8RTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njg1/MzQtMTMyNzkwNjcx/Ni5qcGVn.jpeg) | 1986 | W.A.S.P. | 9.5.-N.A.S.T.Y. |
+| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/056c16f21ba84d77b137a7d496a5f427.png) | 1988-11 | Karizma | Vreme Je Za Nas |
+| 3 |  |  | ZOMBIESHARK! | Born From a Wish - EP |
+| 5 |  |  | Egan Solo | Still |
+| 10 |  | 1978-07-28 | Cheap Trick | Hair Metal 100: Power Ballads |
+| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fbefe10b286f9f0d209fce7e7bb92469.png) | 1983 | Night Ranger | Midnight Madness |
 | 37 | ![Cover](https://i.discogs.com/jmwuIWg534DvzMrdRrG9msByaxsqwsOMLWS9cFTsMrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDM5/OC0xNDk3OTA4MzQ0/LTQ3OTMuanBlZw.jpeg) | 1983 | Aldo Nova | SUBJECT.....ALDO NOVA |
-| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/feb4fb7368db1f0e99a7bba0df4dc4db.png) | 1983-04-21 | 浜田麻里 | LUNATIC DOLL |
-| 5 | ![Cover](https://i.discogs.com/ofbnMv2albUzrk4RLUkoWPTAsrokEqp6gJJw0jm8RTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njg1/MzQtMTMyNzkwNjcx/Ni5qcGVn.jpeg) | 1986 | W.A.S.P. | 9.5.-N.A.S.T.Y. |
-| 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/936fdea54c1b1cbd7d6a5e2c775aedeb.png) | 1986 | King Kobra | Thrill Of A Lifetime |
-| 34 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/374348aae0ba6265a59b36e7c9377891.png) | 1986-02-14 | Europe | The Final Countdown |
-| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0fb00f906684156c9960e4339c794032.png) | 1986-03-30 | Lion | Power Love |
-| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fa6118daf460177db7f8c6cf7b4df28a.png) | 1986-05-23 | Poison | Look What the Cat Dragged In |
-| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/33b47c07494c424196e08fd73c0ba606.png) | 1987-09-15 | Kiss | Crazy Nights |
-| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8115b760eefa4bca8e7995d911d6925e.png) | 1988-07 | Poison | Open Up And Say.. Ahh! |
-| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/056c16f21ba84d77b137a7d496a5f427.png) | 1988-11 | Karizma | Vreme Je Za Nas |
-| 24 |  | 1989-10-17 | Kiss | Hot In The Shade |
-| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/79d79b69d623b1f1ed050f45125f847b.png) | 1990 | Warrant | Cherry Pie |
-| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/025c6b810e364880930c04aac82a5cb6.png) | 2006-02-28 | Plumb | Chaotic Resolve |
-| 7 |  |  | ZOMBIESHARK! | Born From a Wish - EP |
-| 9 |  |  | Egan Solo | Still |
-| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2686120c2f7a3b884ae5f81702d399e1.png) | 1989-11-13 | Whitesnake | Slip Of The Tongue |
-| 20 |  |  | ZOMBIESHARK! | GRIM REAPER GUTTERS |
-| 50 |  | 1990 | Zinatra | The Great Escape |
-| 8 | ![Cover](https://i.discogs.com/9lv9QhLNv_qib4ZN3GHij0GDe7uWUzv0HZljhXCjd9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEx/MjUtMTYzMTM2Mzk1/MS00MTQ1LmpwZWc.jpeg) | 1995 | Karizma | u snovima |
-| 21 | ![Cover](https://i.discogs.com/J24dMjaACdN2y73SoRXnF9CfthuTrMDIBdcmdhLhqNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjMw/NDUtMTU5ODIxMjA4/NS04NTYyLmpwZWc.jpeg) | 1997 | Storyteller | The Storyteller |
-| 46 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ec847a35ca8ee0a2fffa8f3cd83e94ff.png) | 1997-12-17 | Nelson | The Silence Is Broken |
-| 19 | ![Cover](https://i.discogs.com/gZPjp1clyGBo04PjTmgSveVt47SbpUR0c1uCoknmTUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTQ3/ODktMTM5Nzc3NzU2/My0xNTI0LmpwZWc.jpeg) | 1998-09-01 | Saigon Kick | Moments from the Fringe |
+| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/feb4fb7368db1f0e99a7bba0df4dc4db.png) | 1983-04-21 | 浜田麻里 | LUNATIC DOLL |
+| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/936fdea54c1b1cbd7d6a5e2c775aedeb.png) | 1986 | King Kobra | Thrill Of A Lifetime |
+| 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/374348aae0ba6265a59b36e7c9377891.png) | 1986-02-14 | Europe | The Final Countdown |
+| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0fb00f906684156c9960e4339c794032.png) | 1986-03-30 | Lion | Power Love |
+| 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fa6118daf460177db7f8c6cf7b4df28a.png) | 1986-05-23 | Poison | Look What the Cat Dragged In |
+| 34 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/27408ef6eefcb0fb48cdc5c799e9062c.png) | 1987-09 | Bonfire | Fire Works |
+| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/33b47c07494c424196e08fd73c0ba606.png) | 1987-09-15 | Kiss | Crazy Nights |
+| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e9132e69d78e427fc27d7315d5f0c064.png) | 1988 | Hurricane | Over The Edge |
+| 17 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8115b760eefa4bca8e7995d911d6925e.png) | 1988-07 | Poison | Open Up And Say.. Ahh! |
+| 23 |  | 1989-10-17 | Kiss | Hot In The Shade |
+| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2686120c2f7a3b884ae5f81702d399e1.png) | 1989-11-13 | Whitesnake | Slip Of The Tongue |
+| 28 |  |  | Johnny Craven | Bleed |
+| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e3559a1f702b4cf8a0dca702ea53557d.png) |  | Ozzy Osbourne | Down to Earth |
+| 44 |  |  | ZOMBIESHARK! | SMILE SUPPORT SOCIETY |
+| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/79d79b69d623b1f1ed050f45125f847b.png) | 1990 | Warrant | Cherry Pie |
+| 49 |  | 1990 | Zinatra | The Great Escape |
+| 4 | ![Cover](https://i.discogs.com/9lv9QhLNv_qib4ZN3GHij0GDe7uWUzv0HZljhXCjd9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEx/MjUtMTYzMTM2Mzk1/MS00MTQ1LmpwZWc.jpeg) | 1995 | Karizma | u snovima |
+| 20 | ![Cover](https://i.discogs.com/J24dMjaACdN2y73SoRXnF9CfthuTrMDIBdcmdhLhqNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjMw/NDUtMTU5ODIxMjA4/NS04NTYyLmpwZWc.jpeg) | 1997 | Storyteller | The Storyteller |
+| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ec847a35ca8ee0a2fffa8f3cd83e94ff.png) | 1997-12-17 | Nelson | The Silence Is Broken |
+| 18 | ![Cover](https://i.discogs.com/gZPjp1clyGBo04PjTmgSveVt47SbpUR0c1uCoknmTUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTQ3/ODktMTM5Nzc3NzU2/My0xNTI0LmpwZWc.jpeg) | 1998-09-01 | Saigon Kick | Moments from the Fringe |
 | 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/97fd1f4b615c1385a6144477db1bd532.png) | 1999 | Cher | Cher |
-| 25 | ![Cover](https://i.discogs.com/7SYnWgy0j9ERgDPRoQ6MEW_-u8HuZ_Z4-tZ7wmhA2Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTI5/MDktMTYwNjQ3Njgw/OC0zOTA2LmpwZWc.jpeg) | 2002 | Andrew W.K. | We Want Fun |
-| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5822fc79d4d04652ad2833fe656fae76.png) | 2004-08-30 | Vanilla Ninja | Traces of Sadness |
-| 4 | ![Cover](https://i.discogs.com/rS8D5k1Us7JmvZRt4OQlfaordd3t4JmYJFkiJJE0Z7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDI0/ODYtMTY0MzkwOTM2/Ny0xMDA0LmpwZWc.jpeg) | 2007 | Heartland | The Stars Outnumber The Dead |
-| 16 |  | 2007-02-23 | Sirenia | Nine Destinies And A Downfall |
-| 22 | ![Cover](https://i.discogs.com/IUDfFTPkhaP5xZMaKC0qv4dlYRUIOFPf5FEPfy5BlLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjA4/MjAtMTM0OTI4Mjg0/Mi02NTQ0LmpwZWc.jpeg) | 2008 | Andrew W.K. | Andrew W.K. Premium Collection - The Very Best So Far |
+| 24 | ![Cover](https://i.discogs.com/7SYnWgy0j9ERgDPRoQ6MEW_-u8HuZ_Z4-tZ7wmhA2Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTI5/MDktMTYwNjQ3Njgw/OC0zOTA2LmpwZWc.jpeg) | 2002 | Andrew W.K. | We Want Fun |
+| 50 | ![Cover](https://i.discogs.com/-dGtUlXtM5hakY4CrgOQVaNZCIgr6ivh7sgUIxfCOes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTU0/NzgtMTMyODczODYx/MC5qcGVn.jpeg) | 2003-10-07 | Mötley Crüe | Best Of Motley Crue |
+| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5822fc79d4d04652ad2833fe656fae76.png) | 2004-08-30 | Vanilla Ninja | Traces of Sadness |
+| 15 |  | 2007-02-23 | Sirenia | Nine Destinies And A Downfall |
+| 21 | ![Cover](https://i.discogs.com/IUDfFTPkhaP5xZMaKC0qv4dlYRUIOFPf5FEPfy5BlLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjA4/MjAtMTM0OTI4Mjg0/Mi02NTQ0LmpwZWc.jpeg) | 2008 | Andrew W.K. | Andrew W.K. Premium Collection - The Very Best So Far |
 | 39 |  | 2009-07-16 | Devin Townsend Project | Addicted |
 | 41 |  | 2011-01-21 | Sirenia | The Enigma of Life |
-| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e52b140a736e419d94febb101056f96b.png) | 2011-11-04 | Scorpions | Comeblack |
+| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e52b140a736e419d94febb101056f96b.png) | 2011-11-04 | Scorpions | Comeblack |
 | 35 | ![Cover](https://i.discogs.com/aOCgxQodyIWyWhlWEPk1ArWf1IkfnYYt-zhrsGyWRr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjg0/NjgzLTE3MzE1NjUx/MDQtODQ2NS5qcGVn.jpeg) | 2012-02-07 | Rocket Sister | Rocket Sister |
-| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2b330736ce314aa1bd698250af0c4918.png) | 2012-06-06 | Synthesia | Rain of Light |
-| 28 |  | 2013-01-18 | Lovex | Classics |
+| 27 |  | 2013-01-18 | Lovex | Classics |
 | 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4c6ed0e4a6c72a4c5a8728f33f428974.png) | 2013-05-31 | Megadeth | Super Collider |
-| 11 |  | 2014-09-05 | In Flames | Siren Charms |
-| 15 | ![Cover](https://i.discogs.com/obWf89Rrg3fBEN8TJjxwoFgq57ntt6nNW5u2QobMHVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTAx/MTUtMTQxMzgwMzQ4/NS01NjM3LmpwZWc.jpeg) | 2014-10-17 | Amaranthe | Massive Addictive [Bonus Tracks] |
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/63e7f18cb19d353845ab701c437ab275.png) | 2015-01-07 | Battle Beast | Unholy Savior |
-| 27 | ![Cover](https://i.discogs.com/gAvqxrg013wXodYTJ9UXZF3hvAIXnE_uwS8KX1RPtmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTIy/MjctMTQyNzk5NTI1/NS02NjM3LmpwZWc.jpeg) | 2015-03-20 | Grenouer | Unwanted Today |
-| 47 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c6de3fabebb4dbdc79dcf59e44818892.png) | 2017-06-09 | Volumes | Different Animals |
+| 8 |  | 2014-09-05 | In Flames | Siren Charms |
+| 14 | ![Cover](https://i.discogs.com/obWf89Rrg3fBEN8TJjxwoFgq57ntt6nNW5u2QobMHVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTAx/MTUtMTQxMzgwMzQ4/NS01NjM3LmpwZWc.jpeg) | 2014-10-17 | Amaranthe | Massive Addictive [Bonus Tracks] |
+| 26 | ![Cover](https://i.discogs.com/gAvqxrg013wXodYTJ9UXZF3hvAIXnE_uwS8KX1RPtmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTIy/MjctMTQyNzk5NTI1/NS02NjM3LmpwZWc.jpeg) | 2015-03-20 | Grenouer | Unwanted Today |
+| 46 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c6de3fabebb4dbdc79dcf59e44818892.png) | 2017-06-09 | Volumes | Different Animals |
 | 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9a40079803647db0b4c8b8e6950c001b.png) | 2017-09-15 | Dartagnan | Verehrt und verdammt |
-| 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4ac607f260569fb3f467cf26ae7bc6f0.png) | 2017-11-03 | Beast in Black | Berserker |
-| 17 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/14a0c1d56225361f512f61d14481e5bd.png) | 2018-07-27 | Halestorm | Vicious |
-| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a0803812dc6afc031f788f160534a3b1.png) | 2019-02-08 | Beast in Black | From Hell With Love |
-| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b5c5c0684b20f45712881feaa77cdaab.png) | 2023-01-13 | VV | Neon Noir |
-| 29 |  |  | Johnny Craven | Bleed |
-| 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e3559a1f702b4cf8a0dca702ea53557d.png) |  | Ozzy Osbourne | Down to Earth |
-| 45 |  |  | ZOMBIESHARK! | SMILE SUPPORT SOCIETY |
-| 48 |  |  | Park Wan Kyu | 천년지애 |
-| 62 | ![Cover](https://i.discogs.com/9BMXTBZX6augoGg8cmHp99leTqt0vmK4N7-2NIabcOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTgz/MzEtMTYyMDE1MDk4/Mi02Mjc0LmpwZWc.jpeg) | 1983 | Streets | 1st |
-| 59 | ![Cover](https://i.discogs.com/sAsewx1rC08mcDgAcpgJtNohaFAqOaZmWBocvOh2Rs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjI3/MzktMTQ0Mzk3NDEy/MS0yNDM4LmpwZWc.jpeg) | 1987 | Da Vinci | Da Vinci |
+| 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4ac607f260569fb3f467cf26ae7bc6f0.png) | 2017-11-03 | Beast in Black | Berserker |
+| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/14a0c1d56225361f512f61d14481e5bd.png) | 2018-07-27 | Halestorm | Vicious |
+| 13 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a0803812dc6afc031f788f160534a3b1.png) | 2019-02-08 | Beast in Black | From Hell With Love |
+| 19 |  |  | ZOMBIESHARK! | GRIM REAPER GUTTERS |
+| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b5c5c0684b20f45712881feaa77cdaab.png) | 2023-01-13 | VV | Neon Noir |
+| 47 |  |  | Park Wan Kyu | 천년지애 |
+| 61 | ![Cover](https://i.discogs.com/9BMXTBZX6augoGg8cmHp99leTqt0vmK4N7-2NIabcOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTgz/MzEtMTYyMDE1MDk4/Mi02Mjc0LmpwZWc.jpeg) | 1983 | Streets | 1st |
+| 58 | ![Cover](https://i.discogs.com/sAsewx1rC08mcDgAcpgJtNohaFAqOaZmWBocvOh2Rs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjI3/MzktMTQ0Mzk3NDEy/MS0yNDM4LmpwZWc.jpeg) | 1987 | Da Vinci | Da Vinci |
 | 66 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/030670cb577a966cfbc1adc8df09e06b.png) | 1990 | Hurricane | Slave To The Thrill |
+| 63 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eb990b8482224a9fbfaaf0a717939a73.png) | 1995-10-23 | Def Leppard | Vault |
 | 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/26dceaac062346f8bdfc25ea28e3bd3e.png) | 1999 | Nine Inch Nails | Into the Void |
-| 56 | ![Cover](https://i.discogs.com/Agq1DXmg8Xchg6nZoo4S9vbVdC2r7pBq2O_xKW7vZWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzU0/MC0xMTc5NTIxNDEw/LmpwZWc.jpeg) | 2000-10-12 | Andrew W.K. | Party Til You Puke |
+| 55 | ![Cover](https://i.discogs.com/Agq1DXmg8Xchg6nZoo4S9vbVdC2r7pBq2O_xKW7vZWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzU0/MC0xMTc5NTIxNDEw/LmpwZWc.jpeg) | 2000-10-12 | Andrew W.K. | Party Til You Puke |
 | 77 |  | 2001-10-22 | Andrew W.K. | Party Hard |
-| 58 | ![Cover](https://i.discogs.com/VaDhQ9CTblfpLmcUnV7xoG1jqAny_gpF_MvVk7de9zM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ0/MDEtMTQ5NjQwMjM0/Mi04ODA2LmpwZWc.jpeg) | 2002-02-11 | Andrew W.K. | She Is Beautiful |
+| 57 | ![Cover](https://i.discogs.com/VaDhQ9CTblfpLmcUnV7xoG1jqAny_gpF_MvVk7de9zM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ0/MDEtMTQ5NjQwMjM0/Mi04ODA2LmpwZWc.jpeg) | 2002-02-11 | Andrew W.K. | She Is Beautiful |
 | 90 | ![Cover](https://i.discogs.com/acQ-bGwvU5M49KaKiPEGVd4uhj7zqRT4zBusKEJZjiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDMy/OTctMTY0NDQyMTIw/Mi00Mjk4LmpwZWc.jpeg) | 2003-08 | Linkin Park | Numb |
-| 51 | ![Cover](https://i.discogs.com/-dGtUlXtM5hakY4CrgOQVaNZCIgr6ivh7sgUIxfCOes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTU0/NzgtMTMyODczODYx/MC5qcGVn.jpeg) | 2003-10-07 | Mötley Crüe | Best Of Motley Crue |
-| 55 | ![Cover](https://i.discogs.com/1FFVvxhwjcRsw_GywFPhNpM0u4ZsKwD8lbMtVGkqTug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjc5/NTYtMTI2NTU0NjE1/NC5qcGVn.jpeg) | 2004 | Hilary Duff | Girl Can Rock |
+| 54 | ![Cover](https://i.discogs.com/1FFVvxhwjcRsw_GywFPhNpM0u4ZsKwD8lbMtVGkqTug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjc5/NTYtMTI2NTU0NjE1/NC5qcGVn.jpeg) | 2004 | Hilary Duff | Girl Can Rock |
 | 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0efeaa5b9a584fd8b05f7b8430fda54e.png) | 2004 | Def Leppard | Hysteria 2013 (Re-Recorded Version) - Single |
 | 71 | ![Cover](https://i.discogs.com/kL2ZZMCzg_LnjSRVCfJ9I5w3Fv5dwmUDRb6LByuQkJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDE3/NzctMTM2MTMzMjEy/Mi0zNzg1LmpwZWc.jpeg) | 2004-08-31 | Sum 41 | We&#39;re All To Blame |
 | 75 | ![Cover](https://i.discogs.com/SBiOikap_J5mHYT1pHNIhjOlpL2rCJHlDhpHO3aS80g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjU2/NTAtMTI5Mzg4OTIy/Ni5qcGVn.jpeg) | 2006 | Rivals | Nobody Loves Me |
 | 85 |  | 2006-01-01 | Bloodflowerz | Dark Love Poems |
-| 57 |  | 2007-02-20 | Kittie | Funeral for Yesterday |
+| 56 |  | 2007-02-20 | Kittie | Funeral for Yesterday |
 | 87 | ![Cover](https://i.discogs.com/q5mWmT37-oYpe4_TKXtB-j4KR2wzJ2A7xgEZV_uXoa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTg5/MDUtMTI1ODE3NTUx/Ni5qcGVn.jpeg) | 2009-11 | Devin Townsend Project | ADDICTED! |
 | 72 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1331cefc402e43bab4537a81901f3a09.png) | 2010-03-30 | Эпидемия | Дорога Домой |
-| 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4d153bb02769455397c8b460eacd4f61.png) | 2010-04-21 | Bullet for My Valentine | Fever |
-| 61 |  | 2010-08-10 | Pulse | Move On |
+| 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4d153bb02769455397c8b460eacd4f61.png) | 2010-04-21 | Bullet for My Valentine | Fever |
+| 60 |  | 2010-08-10 | Pulse | Move On |
 | 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/29c2d785db02f31867c21fc0edcbc6f7.png) | 2011-04-11 | Amaranthe | Amaranthe |
 | 96 | ![Cover](https://i.discogs.com/r_9S_3_w1zXc_hHUkGTpy5DMpnAFBLa5MbEC2EdL-t0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDI4/OTAtMTU0OTE3OTk5/Ni00MzYxLmpwZWc.jpeg) | 2011-05-16 | Dead by April | Within My Heart |
 | 76 | ![Cover](https://i.discogs.com/OjRNjRx5sLttL6DwlgyyUlsLiAiv2cd4NvtJc_P3g7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDA5/MDEtMTMyNDY4NjI4/NS5qcGVn.jpeg) | 2011-06-15 | Blood Stain Child | Epsilon |
-| 54 |  | 2014-02-12 | Dead by April | Let The World Know |
-| 60 | ![Cover](https://i.discogs.com/1XPalG0BqXer6w8CBDPlKRZOLHbg62L_EoA08H8cZUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTcw/OTktMTY4MjIxMDM1/MS02NjIzLmpwZWc.jpeg) | 2016-10-19 | Amaranthe | Maximalism (Deluxe Edition) |
+| 53 |  | 2014-02-12 | Dead by April | Let The World Know |
+| 59 | ![Cover](https://i.discogs.com/1XPalG0BqXer6w8CBDPlKRZOLHbg62L_EoA08H8cZUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTcw/OTktMTY4MjIxMDM1/MS02NjIzLmpwZWc.jpeg) | 2016-10-19 | Amaranthe | Maximalism (Deluxe Edition) |
 | 65 |  |  | The Day We Left Earth | The Day We Left Earth |
 | 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d19113774fe2ccd07841ec5e4a5e8b10.png) | 2009-05-13 | Dead by April | Dead by April |
 | 92 | ![Cover](https://i.discogs.com/sRfP4kcX8HcRhY4cIiBn_C4rmm2A0nZkAzhBf7mUFA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzY1/NzEtMTMyMTc0NjMw/My5qcGVn.jpeg) | 2011-09-21 | Dead by April | Incomparable |
@@ -101,8 +101,8 @@ Last updated: <time datetime="2025-10-28T02:03:21.468Z">Tue Oct 28 2025 04:03:21
 | 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/488dfb80c18274eb49c1d0ed417b79a4.png) | 2018-10-19 | Shining | Animal |
 | 97 | ![Cover](https://i.discogs.com/1sFfVuLFHqC2Sx9X98C0TG_ULPfzdWDZeWFd1BP3ze8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODc0/OTQwLTE1OTQ0NjQw/OTUtMzE5Ny5qcGVn.jpeg) | 2018-10-19 | Amaranthe | 365 |
 | 100 | ![Cover](https://i.discogs.com/luwMO-xotJqBizm3lrugWhc8nwgr1gWVlsQgvVHe9C4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTk1/MTEyLTE2MDUwNjYz/NzMtOTYzMy5qcGVn.jpeg) | 2019-10-22 | Jazmin Bean | Worldwide Torture |
-| 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/628bbb8b50b7edf04819337b3e1eff6e.png) | 2021 | Van Halen | The Collection II |
-| 63 | ![Cover](https://i.discogs.com/uOjePUT-Fd7kXxa-NsdQ20XYOSX_wB7UZHqLkQa2MUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgy/MzQ2LTE1OTU4MzM0/OTctMzY2Mi5qcGVn.jpeg) | 2023-10-27 | Ауткаст | Культ |
+| 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/628bbb8b50b7edf04819337b3e1eff6e.png) | 2021 | Van Halen | The Collection II |
+| 62 | ![Cover](https://i.discogs.com/uOjePUT-Fd7kXxa-NsdQ20XYOSX_wB7UZHqLkQa2MUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njgy/MzQ2LTE1OTU4MzM0/OTctMzY2Mi5qcGVn.jpeg) | 2023-10-27 | Ауткаст | Культ |
 | 64 |  |  | ZOMBIESHARK! | BORN FROM A WISH |
 | 68 |  |  | ZOMBIESHARK! | I Will Destroy You, Myself, and Everything I&#39;ve Ever Loved. |
 | 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/711aead71b4e414e061bda836566325c.png) | 2016-08-26 | Delain | Moonbathers (Deluxe Edition) |
@@ -121,8 +121,8 @@ Last updated: <time datetime="2025-10-28T02:03:21.468Z">Tue Oct 28 2025 04:03:21
 - [rock]({{ "/tags/rock" | relative_url }})
 - [glam metal]({{ "/tags/glam-metal" | relative_url }})
 - [hair metal]({{ "/tags/hair-metal" | relative_url }})
-- [heavy metal]({{ "/tags/heavy-metal" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
+- [heavy metal]({{ "/tags/heavy-metal" | relative_url }})
 - [modern metal]({{ "/tags/modern-metal" | relative_url }})
 - [alternative metal]({{ "/tags/alternative-metal" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})

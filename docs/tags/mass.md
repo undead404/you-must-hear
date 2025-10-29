@@ -1,19 +1,30 @@
 ---
 category: genre
-date: 2025-10-22T13:00:04.445Z
+date: 2025-10-28T20:35:45.568Z
 permalink: tags/mass
 title: mass
 ---
 
 ## mass
 
-Last updated: <time datetime="2025-10-22T13:00:04.445Z">Wed Oct 22 2025 16:00:04 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T20:35:45.568Z">Tue Oct 28 2025 22:35:45 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+The term &quot;mass music&quot; can have a few different meanings depending on the context in which it is used. Here are a few possibilities:
+
+In the context of liturgical music, a &quot;mass&quot; is a form of sacred musical composition that sets the texts of the Catholic Mass to music. Mass music can refer to a wide range of styles and traditions, from Gregorian chant to modern choral works.
+
+&quot;Mass music&quot; can also be a term used to describe popular music that is designed to appeal to a wide audience. In this sense, it is similar to the idea of &quot;mass appeal&quot; or &quot;pop music.&quot;
+
+In some contexts, &quot;mass music&quot; may refer to music that is created for large-scale public events, such as parades or rallies. This could include marching band music, patriotic songs, or other forms of music that are designed to be performed outdoors or in other open spaces.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 2 |  |  | Mass Text | Josquin des Prez: Missa Ave maris stella |
+| 1 |  |  | Various Artists [Artist] | Beethoven - Mass in C, Op. 86 - Mass in D, &quot;Missa Solemnis&quot; |
+| 5 |  |  | Mass Text | Josquin des Prez: Missa Ave maris stella |
 | 7 |  |  | Václav Jan Tomášek | Missa Solemnis, Op.81 |
 | 8 |  |  | Coro Polifonico di Ruda, Andrea Faidutti | Bartolomeo Cordans: Messa da Requiem - Brani per organo solo |
 | 9 |  |  | Bible - New Testament | Gounod, C.: Messe Breve No. 7 Aux Chapelles &#x2F; Bethleem &#x2F; Les 7 Paroles De N.S. Jesus-Christ Sur La Croix &#x2F; Messe Breve No. 5 Aux Seminaires |
@@ -41,9 +52,8 @@ Last updated: <time datetime="2025-10-22T13:00:04.445Z">Wed Oct 22 2025 16:00:04
 | 31 | ![Cover](https://i.discogs.com/I00waokn2PRHY1MZOCViiAdcCxbAdOJ1P8FvZOBLZ3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc5/NzYxLTE2MDEyOTMw/NDgtNzczMy5qcGVn.jpeg) | 1979 | Bohuslav Martinů | Memorial to Lidice, Field Mass, Symphony No.4 (Czech Philharmonic Orchestra, Jiří Bělohlávek) |
 | 32 | ![Cover](https://i.discogs.com/yALW5KHlol_dZfsel644-_we6AQRFptC4NjlCbpwntU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU4/Nzg1LTE2MzYxMDYy/OTUtMjUwMy5qcGVn.jpeg) | 1979 | Antonio Vivaldi | Vespri Solenni per la Festa dell&#39;Assunzione di Maria Vergine |
 | 41 | ![Cover](https://i.discogs.com/m9MGD9cGX5bRPNd_u5vxXV9uwHY5YdgP7KYLGER5gCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTMy/OTYzLTE1NTYwMjE4/MzgtODk1MC5tcG8.jpeg) | 1981 | Wiener Kammerorchester | Bruckner - Three Mottets |
-| 5 | ![Cover](https://i.discogs.com/ur0xy66ytSke5QlmVvWOoXUxUD-_JBsUlvmHNsXFTrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg4/NzcwLTE1NTcwNTg0/NTMtMzI4OS5qcGVn.jpeg) | 1985 | Guillaume de Machaut | La messe de Notre Dame &#x2F; Songs from Le Voir Dit [Oxford Camerata, Jeremy Summerly] |
+| 6 | ![Cover](https://i.discogs.com/ur0xy66ytSke5QlmVvWOoXUxUD-_JBsUlvmHNsXFTrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg4/NzcwLTE1NTcwNTg0/NTMtMzI4OS5qcGVn.jpeg) | 1985 | Guillaume de Machaut | La messe de Notre Dame &#x2F; Songs from Le Voir Dit [Oxford Camerata, Jeremy Summerly] |
 | 16 | ![Cover](https://i.discogs.com/VQXR96A0n0642kbSJ9WU_rPYpPbMyno6BFhBnk0eqAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTEy/MTI4LTE1MzY3Mjkz/MDYtMTA4NC5qcGVn.jpeg) | 1991 | Alamire | Josquin Des Prez - Missa D&#39;ung aultre amer |
-| 6 | ![Cover](https://i.discogs.com/4hCndc4OGdOKYQvG9URqECQ3Nukfo1qlb3QEOGdI9vM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDMw/Mzg5LTE2MDc0NDEz/MTMtMjE3My5qcGVn.jpeg) | 1992 | John Eliot Gardiner | Bach: St Matthew Passion Disc 1 |
 | 42 | ![Cover](https://i.discogs.com/pDpfHqZB2XSidXUz5kqk-meYdutVfZKptgrf0sLYWPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjEx/MjMtMTI5ODA0Nzk4/Ni5qcGVn.jpeg) | 1992 | Adam Michna z Otradovic | Missa Super &quot;Již Slunce z Hvězdy vyšlo&quot; |
 | 22 | ![Cover](https://i.discogs.com/3etNefjDYyxbxKAsj34c7uZ2DdzZbWaceV8-kmFVz6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDc5/NzYtMTQ1NDMzODI1/Mi01MjA0LmpwZWc.jpeg) | 1994 | Jan Dismas Zelenka | Missa Ultimarum Sexta (F.Bernius) |
 | 45 | ![Cover](https://i.discogs.com/OCQFBBDYUJzy57fwi5_z0D2mIyybGjCpuJ0OEzoba8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODEw/ODI3LTE1MjI3NzY5/ODEtOTc1NC5qcGVn.jpeg) | 1996 | Schola Discantus | Echoes of Jeanne D&#39;Arc: Liebert Mass |
@@ -105,7 +115,7 @@ Last updated: <time datetime="2025-10-22T13:00:04.445Z">Wed Oct 22 2025 16:00:04
 | 58 | ![Cover](https://i.discogs.com/cGO_mes_Bgh_dFzOrcTbdzutGiPLmtY9uzETRkPeBQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTUy/ODQ5LTE1Mzc0ODA2/MTMtNzg4MC5qcGVn.jpeg) | 2015 | Franz Joseph Haydn | Haydn: The Complete Masses; Stabat Mater |
 | 84 | ![Cover](https://i.discogs.com/HoNNUMPvzfE77Yl9a9LqwJdB4pVGsAfUUrgtOK26Hgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc1/NTE5LTE1MTMyMzgy/MzYtODA1NC5qcGVn.jpeg) | 2016 | Magdalena Kožená | ZELENKA: Missa Sanctissimae Trinitatis (Musica Florea &amp; vocal soloists, cond.Marek Štrnycl) |
 | 64 | ![Cover](https://i.discogs.com/TDorf7fBNhwNi06-rNGHlUOjktt1-Jj-vOElOg-tWiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDk0/MjktMTQ1NzE5MzYy/Ny03ODExLmpwZWc.jpeg) | 2016-03-04 | Jan Dismas Zelenka | Missa Dei Filii; Litaniae lauretanae &quot;Salus infirmorum&quot; |
-| 1 | ![Cover](https://i.discogs.com/hPPD3LFx8quHB8A3sXCnAeYVyYAwAJtGBzipfFyFkp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Njg4LTE1NDQyMTkx/NjktMzM5MC5qcGVn.jpeg) | 2018 | Claudio Abbado | Mozart: The Marriage Of Figaro |
+| 2 | ![Cover](https://i.discogs.com/hPPD3LFx8quHB8A3sXCnAeYVyYAwAJtGBzipfFyFkp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Njg4LTE1NDQyMTkx/NjktMzM5MC5qcGVn.jpeg) | 2018 | Claudio Abbado | Mozart: The Marriage Of Figaro |
 | 82 | ![Cover](https://i.discogs.com/kUf9pM1119f_1bDXNL8qU5UCCc382Zw3gQucDx2kdhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQ2/OTk0LTE1NTgyMDg1/NjktODU0Mi5qcGVn.jpeg) | 2018-07-29 | Richard Lewis | Berlioz: Requiem - Grande Messe des Morts |
 | 35 | ![Cover](https://i.discogs.com/pC507CpZTn3jxuN2z45fkCGT7pGvvKT7WhK8YuhgChU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTUx/NDMtMTQ1MDEyNTY3/OC0yODY3LmpwZWc.jpeg) | 2018-08-17 | Leonard Bernstein | Mahler: Symphonies Nos. 8 In E Flat - &quot;Symphony Of A Thousand&quot; &amp; 10 In F Sharp (Unfinished) - Adagio (Live) |
 | 56 | ![Cover](https://i.discogs.com/zQ-fGkr1ZM2g3IuPsThX5TLSkXZwJSAuOzLJBL8-CHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njc3/Mzc0LTE1Nzk0NDU4/NzUtOTgyMC5qcGVn.jpeg) | 2019 | SWR Symphony Orchestra | Beethoven: Missa Solemnis, Piano Concerto No. 2, Symphony No. 3 and Violin Concerto |
