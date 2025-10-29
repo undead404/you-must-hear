@@ -1,68 +1,78 @@
 ---
 category: genre
-date: 2025-10-28T04:07:18.963Z
+date: 2025-10-28T22:39:27.204Z
 permalink: tags/heavy-metal
 title: heavy metal
 ---
 
 ## heavy metal
 
-Last updated: <time datetime="2025-10-28T04:07:18.963Z">Tue Oct 28 2025 06:07:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T22:39:27.204Z">Wed Oct 29 2025 00:39:27 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Heavy metal is a genre of rock music that emerged in the late 1960s and early 1970s, and has since become one of the most popular and enduring genres of rock music. Heavy metal is characterized by its aggressive sound, heavy use of distortion, and emphasis on virtuosity and technical proficiency.
+
+Heavy metal typically features loud and heavily distorted electric guitars, powerful drums, and often includes bass guitar and vocals that can range from high-pitched screams to deep growls. The lyrics of heavy metal often explore themes of power, rebellion, and darker aspects of human existence such as death, depression, and addiction.
+
+Sub-genres of heavy metal include thrash metal, death metal, black metal, power metal, and many others. Some of the most iconic and influential heavy metal bands include Black Sabbath, Iron Maiden, Metallica, Slayer, and Megadeth.
+
+Heavy metal continues to be a popular genre of music, with millions of fans around the world attending concerts and festivals dedicated to the genre. It has also influenced a range of other musical genres, including alternative metal, nu metal, and metalcore.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/edac0807829c737a478bb4c3468ea4e3.png) | 1975-07-28 | Black Sabbath | Sabotage |
-| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6b6416ef35dac0aa31071107f60d94c3.png) | 1980-04-25 | Black Sabbath | Heaven and Hell |
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f6702a5b87fe4dafcdc19ef88fa59b45.png) | 1981-11-04 | Black Sabbath | Mob Rules |
-| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c328c57cf6f95545a936292db4925e7f.png) | 1981-11-07 | Ozzy Osbourne | Diary of a Madman |
-| 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/590a469992b829dbb5aff47671ffd3cf.png) | 1983 | Accept | Balls to the Wall |
-| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6a641a2b0e5c63d458a54df87164523b.png) | 1983-03-11 | Quiet Riot | Metal Health |
-| 34 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0ff0c16855742d242cb4631e1109067f.png) | 1984 | W.A.S.P. | W.A.S.P. |
-| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6a4e6a786b4646f64fbca1b79c0df7e3.png) | 1984-01-04 | Judas Priest | Defenders of the Faith |
-| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d76166a09b9d4ce2cce5170853dea6cb.png) | 1984-02 | Scorpions | Love at First Sting |
-| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/74029de5a82ead2957182fcdc2ecf106.png) | 1984-07-13 | Dio | The Last In Line |
-| 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a4eaac0f6df94e876eea38e95e60f87a.png) | 1984-09-15 | Motörhead | No Remorse |
-| 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/79ec3f0467af4171c1c69309a45dfdc1.png) | 1986-02-22 | Ozzy Osbourne | The Ultimate Sin |
-| 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0162391940dbc9194f5c9abcc209e701.png) | 1988-11-18 | Manowar | Kings of Metal |
-| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ecaeedac1ae0aa5eb00173abb86afa74.png) | 1989-01-24 | Skid Row | Skid Row |
-| 17 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/98e103e0d39082570461a7379ead1a36.png) | 1990-06-26 | Danzig | Danzig II: Lucifuge |
-| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0698a59a0b874793a11d3f081b14d48a.png) | 1990-08-28 | Alice in Chains | Facelift |
-| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e44cc97ae23b1b325f8ede6c0deaa634.png) | 1990-10-01 | Iron Maiden | No Prayer For The Dying |
-| 46 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a15591b40c1544f0b9fe9b9dcd88145d.png) | 1991-09-26 | Ozzy Osbourne | No More Tears |
-| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/579d7f92f1fb9937b0cff1631ed3a0a9.png) | 1993 | Ozzy Osbourne | No More Tears (Expanded Edition) |
-| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e36271926031e427ebb979bce3c2e547.png) | 1995 | Ozzy Osbourne | Blizzard Of Ozz (Expanded Edition) |
-| 19 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/efac0faebbda4ed99d273acfed9b5a03.png) | 1995-03-30 | Megadeth | Hidden Treasures |
-| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3ef6f4a9e9a4115edb7a51f866fbfcf8.png) | 1996-01-01 | Manowar | Louder Than Hell |
-| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3330c5dd700b0f8d8fae2ac085f17d01.png) | 1997-05-28 | Megadeth | Cryptic Writings |
-| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/df74248d895b04a62d6828fc839b7a46.png) | 1998-11-24 | Metallica | Garage, Inc. |
-| 28 |  | 2001-10-06 | Ozzy Osbourne | Down To Earth |
-| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/70045c55c18ac02e19574cdca3bf522f.png) | 2002-05-27 | Manowar | Warriors of the World |
-| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c5304a8813454725c75ca573b5d161cd.png) | 2002-10-23 | HammerFall | Crimson Thunder |
-| 47 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5616c08bd5821274c02953f7817521f5.png) | 2003-03-29 | Black Label Society | The Blessed Hellride |
-| 41 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b794d792f274af27e76c284f53577d41.png) | 2004-09-13 | Megadeth | The System Has Failed |
-| 26 |  | 2005-02-23 | Judas Priest | Angel Of Retribution |
-| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9a2df69b76e05f314ed31524d23055e6.png) | 2006-08-28 | Iron Maiden | A Matter of Life and Death |
-| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4d153bb02769455397c8b460eacd4f61.png) | 2010-04-21 | Bullet for My Valentine | Fever |
-| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dff89d734d5289e91a87c3158756cd3a.png) | 2010-08-13 | Iron Maiden | The Final Frontier |
-| 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/de8288304fa26e5efb6af03236dcd143.png) | 2010-09-07 | Volbeat | Beyond Hell &#x2F; Above Heaven |
-| 5 |  | 2011-08-02 | Five Finger Death Punch | Under And Over It |
-| 35 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4ffc1171d9c849c882e5c1dfecf6aa81.png) | 2013-06-07 | Black Sabbath | 13 |
-| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/53afb0781825a1e75f275e0a49591d32.png) | 2014-10-15 | Slipknot | .5: The Gray Chapter (Special Edition) |
-| 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/91dd8d58f6025910f1b7552b9b4a703f.png) | 2015 | Black Sabbath | Master of Reality (2014 Remaster) |
-| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e2e0dd3520300674b8640f45817d8542.png) | 2015-08-21 | Ghost | Meliora |
-| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b6db56c7287fb6da062bef1430243a6b.png) | 2015-09-04 | Five Finger Death Punch | Got Your Six |
-| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6aa2d17ccb6f108ccfe13241d9cb9758.png) | 2016-11-18 | Metallica | Hardwired…To Self-Destruct |
-| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3e16265571c4e849cf71162e007b8fd7.png) | 2016-12 | Ghost | Meliora (Deluxe Edition) |
-| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a193a6bea6276fc02508640c7d99c093.png) | 2016-12-02 | Avenged Sevenfold | The Stage |
-| 37 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9344e9c24a21f641c1ed2e6a9d6afef9.png) | 2018-06-01 | Ghost | Prequelle |
-| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/72e721c77140568a52b3947f3f9ea70d.png) | 2018-12-26 | Iron Maiden | Piece of Mind (2015 Remaster) |
-| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f1c51aacd4bab6d1379303db419f2585.png) | 2019-08-07 | Iron Maiden | Fear Of The Dark (2015 Remaster) |
-| 13 | ![Cover](https://i.discogs.com/kh3JEgxmBR8AWj4YIMxxBlOK1Wq4d-VtvDckDc3aWQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE2/ODUzLTE2OTMzNTIx/NDktODkwMS5qcGVn.jpeg) | 2023-03-10 | Sam Hunt | Outskirts |
-| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9b470bb9d6f1d9aa31ca5d031db8d830.png) |  | Megadeth | The World Needs a Hero |
-| 30 | ![Cover](https://i.discogs.com/itLYS8uiz0N5KcPbI5Y2MtKGM-Mpcnl-h-MkaH8IHVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE2/MTkwLTE2NDI2OTE2/ODMtNzY0Mi5wbmc.jpeg) | 2022-03-11 | Ghost | Impera |
-| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e3559a1f702b4cf8a0dca702ea53557d.png) |  | Ozzy Osbourne | Down to Earth |
+| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/edac0807829c737a478bb4c3468ea4e3.png) | 1975-07-28 | Black Sabbath | Sabotage |
+| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6b6416ef35dac0aa31071107f60d94c3.png) | 1980-04-25 | Black Sabbath | Heaven and Hell |
+| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f6702a5b87fe4dafcdc19ef88fa59b45.png) | 1981-11-04 | Black Sabbath | Mob Rules |
+| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c328c57cf6f95545a936292db4925e7f.png) | 1981-11-07 | Ozzy Osbourne | Diary of a Madman |
+| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/590a469992b829dbb5aff47671ffd3cf.png) | 1983 | Accept | Balls to the Wall |
+| 41 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6a641a2b0e5c63d458a54df87164523b.png) | 1983-03-11 | Quiet Riot | Metal Health |
+| 35 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0ff0c16855742d242cb4631e1109067f.png) | 1984 | W.A.S.P. | W.A.S.P. |
+| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6a4e6a786b4646f64fbca1b79c0df7e3.png) | 1984-01-04 | Judas Priest | Defenders of the Faith |
+| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d76166a09b9d4ce2cce5170853dea6cb.png) | 1984-02 | Scorpions | Love at First Sting |
+| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/74029de5a82ead2957182fcdc2ecf106.png) | 1984-07-13 | Dio | The Last In Line |
+| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a4eaac0f6df94e876eea38e95e60f87a.png) | 1984-09-15 | Motörhead | No Remorse |
+| 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/79ec3f0467af4171c1c69309a45dfdc1.png) | 1986-02-22 | Ozzy Osbourne | The Ultimate Sin |
+| 37 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ecaeedac1ae0aa5eb00173abb86afa74.png) | 1989-01-24 | Skid Row | Skid Row |
+| 3 |  | 1990-06-26 | Danzig | Danzig II-Lucifuge |
+| 19 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/98e103e0d39082570461a7379ead1a36.png) | 1990-06-26 | Danzig | Danzig II: Lucifuge |
+| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0698a59a0b874793a11d3f081b14d48a.png) | 1990-08-28 | Alice in Chains | Facelift |
+| 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e44cc97ae23b1b325f8ede6c0deaa634.png) | 1990-10-01 | Iron Maiden | No Prayer For The Dying |
+| 47 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a15591b40c1544f0b9fe9b9dcd88145d.png) | 1991-09-26 | Ozzy Osbourne | No More Tears |
+| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/579d7f92f1fb9937b0cff1631ed3a0a9.png) | 1993 | Ozzy Osbourne | No More Tears (Expanded Edition) |
+| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/efac0faebbda4ed99d273acfed9b5a03.png) | 1995-03-30 | Megadeth | Hidden Treasures |
+| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3ef6f4a9e9a4115edb7a51f866fbfcf8.png) | 1996-01-01 | Manowar | Louder Than Hell |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4a2bce6f084abfa6c05900214c57bafa.png) | 1996-09-23 | Iron Maiden | Best of the Beast |
+| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3330c5dd700b0f8d8fae2ac085f17d01.png) | 1997-05-28 | Megadeth | Cryptic Writings |
+| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/df74248d895b04a62d6828fc839b7a46.png) | 1998-11-24 | Metallica | Garage, Inc. |
+| 30 |  | 2001-10-06 | Ozzy Osbourne | Down To Earth |
+| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/70045c55c18ac02e19574cdca3bf522f.png) | 2002-05-27 | Manowar | Warriors of the World |
+| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c5304a8813454725c75ca573b5d161cd.png) | 2002-10-23 | HammerFall | Crimson Thunder |
+| 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5616c08bd5821274c02953f7817521f5.png) | 2003-03-29 | Black Label Society | The Blessed Hellride |
+| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7edb32e7079a4f1eaf522b05e85cae03.png) | 2003-04-08 | Godsmack | Faceless |
+| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b794d792f274af27e76c284f53577d41.png) | 2004-09-13 | Megadeth | The System Has Failed |
+| 28 |  | 2005-02-23 | Judas Priest | Angel Of Retribution |
+| 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9a2df69b76e05f314ed31524d23055e6.png) | 2006-08-28 | Iron Maiden | A Matter of Life and Death |
+| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4d153bb02769455397c8b460eacd4f61.png) | 2010-04-21 | Bullet for My Valentine | Fever |
+| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dff89d734d5289e91a87c3158756cd3a.png) | 2010-08-13 | Iron Maiden | The Final Frontier |
+| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/de8288304fa26e5efb6af03236dcd143.png) | 2010-09-07 | Volbeat | Beyond Hell &#x2F; Above Heaven |
+| 8 |  | 2011-08-02 | Five Finger Death Punch | Under And Over It |
+| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4ffc1171d9c849c882e5c1dfecf6aa81.png) | 2013-06-07 | Black Sabbath | 13 |
+| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/53afb0781825a1e75f275e0a49591d32.png) | 2014-10-15 | Slipknot | .5: The Gray Chapter (Special Edition) |
+| 34 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/91dd8d58f6025910f1b7552b9b4a703f.png) | 2015 | Black Sabbath | Master of Reality (2014 Remaster) |
+| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e2e0dd3520300674b8640f45817d8542.png) | 2015-08-21 | Ghost | Meliora |
+| 13 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b6db56c7287fb6da062bef1430243a6b.png) | 2015-09-04 | Five Finger Death Punch | Got Your Six |
+| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6aa2d17ccb6f108ccfe13241d9cb9758.png) | 2016-11-18 | Metallica | Hardwired…To Self-Destruct |
+| 17 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a193a6bea6276fc02508640c7d99c093.png) | 2016-12-02 | Avenged Sevenfold | The Stage |
+| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9344e9c24a21f641c1ed2e6a9d6afef9.png) | 2018-06-01 | Ghost | Prequelle |
+| 46 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/72e721c77140568a52b3947f3f9ea70d.png) | 2018-12-26 | Iron Maiden | Piece of Mind (2015 Remaster) |
+| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f1c51aacd4bab6d1379303db419f2585.png) | 2019-08-07 | Iron Maiden | Fear Of The Dark (2015 Remaster) |
+| 32 | ![Cover](https://i.discogs.com/itLYS8uiz0N5KcPbI5Y2MtKGM-Mpcnl-h-MkaH8IHVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE2/MTkwLTE2NDI2OTE2/ODMtNzY0Mi5wbmc.jpeg) | 2022-03-11 | Ghost | Impera |
+| 16 | ![Cover](https://i.discogs.com/kh3JEgxmBR8AWj4YIMxxBlOK1Wq4d-VtvDckDc3aWQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE2/ODUzLTE2OTMzNTIx/NDktODkwMS5qcGVn.jpeg) | 2023-03-10 | Sam Hunt | Outskirts |
+| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9b470bb9d6f1d9aa31ca5d031db8d830.png) |  | Megadeth | The World Needs a Hero |
+| 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e3559a1f702b4cf8a0dca702ea53557d.png) |  | Ozzy Osbourne | Down to Earth |
 | 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b9a0bf244aef80f2947e2c64776f3d9b.png) | 1970 | Black Sabbath | Paranoid (2009 Remastered Version) |
 | 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1f17c2caf98fd2e7336a06956c7fd574.png) | 1970-02-13 | Black Sabbath | Black Sabbath |
 | 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e88b3980787c4714b79c3cab44986595.png) | 1970-09-18 | Black Sabbath | Paranoid |
@@ -72,7 +82,6 @@ Last updated: <time datetime="2025-10-28T04:07:18.963Z">Tue Oct 28 2025 06:07:18
 | 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/72e43a38898e88c285a131f497ae7092.png) | 1980-04-14 | Iron Maiden | Iron Maiden |
 | 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bbda3f24cb510ee8237f0ad474cbe81f.png) | 1980-06-21 | Iron Maiden | Powerslave (2015 Remaster) |
 | 67 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/580bd211ca9c86746b9556822def864f.png) | 1980-09-18 | Ozzy Osbourne | Blizzard of Ozz |
-| 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dcd1c57248faad46ebe93d6f550469f3.png) | 1980-10 | Motörhead | Ace Of Spades (Expanded Edition) |
 | 72 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/496498a19c23a6f99e4b7032d06b9ab1.png) | 1980-11-08 | Motörhead | Ace of Spades |
 | 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7b5c2d721d41276a626c606748971ba9.png) | 1981-02-02 | Iron Maiden | Killers |
 | 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4848a0ce2f98376b71c932e409e9afb4.png) | 1982-04-26 | Iron Maiden | The Number of the Beast |
@@ -84,9 +93,10 @@ Last updated: <time datetime="2025-10-28T04:07:18.963Z">Tue Oct 28 2025 06:07:18
 | 85 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fb8a432b8a23a386b9fbaaa4756800b2.png) | 1984-09-03 | Iron Maiden | Powerslave |
 | 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/28562b4e484630078fecc226c21bf39c.png) | 1986-06-29 | Iron Maiden | Somewhere In Time |
 | 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/78d75c9182974c89e5acc900a7fd105a.png) | 1987 | King Diamond | Abigail |
-| 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/db0fbd5c1f3532682c5f3798cd330c92.png) | 1988 | Metallica | ...and Justice for All |
+| 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/db0fbd5c1f3532682c5f3798cd330c92.png) | 1988 | Metallica | ...and Justice for All |
 | 81 |  | 1988-04-11 | Iron Maiden | Seventh Son Of A Seventh Son |
 | 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8900b4a78b4e42ada13d36a310cade49.png) | 1988-08-30 | Danzig | Danzig |
+| 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0162391940dbc9194f5c9abcc209e701.png) | 1988-11-18 | Manowar | Kings of Metal |
 | 89 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dbffe605180fb682bb92fd1ef3257e91.png) | 1990-09-03 | Judas Priest | Painkiller |
 | 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/470b934e8cd26ed4d4e1f819b7f7014f.png) | 1990-11-06 | Scorpions | Crazy World |
 | 64 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6694983ff3da3f4c5e3933115376023a.png) | 1991 | Skid Row | Slave to the Grind |
@@ -108,7 +118,7 @@ Last updated: <time datetime="2025-10-28T04:07:18.963Z">Tue Oct 28 2025 06:07:18
 | 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bb80178de028c2e7b1897ff87cbdd58e.png) | 2008-09-06 | Metallica | Death Magnetic |
 | 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bd12ddaafc7344d3bf43f963f814cc90.png) | 2010-07-23 | Avenged Sevenfold | Nightmare |
 | 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eb0566486a274ce49b03a3c9af690a24.png) | 2010-10-18 | Ghost | Opus Eponymous |
-| 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b43b667dd7fe4542a71560271359eda1.png) | 2013-04-10 | Ghost | Infestissumam |
+| 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b43b667dd7fe4542a71560271359eda1.png) | 2013-04-10 | Ghost | Infestissumam |
 | 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ee59606a23164bfc8a1738c1f005037d.png) | 2013-07-16 | Avenged Sevenfold | Hail To The King |
 | 59 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4cdd1ea4935a878026c98c8478f44eca.png) | 2015-08-21 | Disturbed | Immortalized |
 | 61 | ![Cover](https://i.discogs.com/DTjhLgUMQMd9mTJzW2cGnO0JXbQxgz-bzunOrf3iSgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTMx/MTAwLTE2MDM5NjA3/MjEtOTgzMS5qcGVn.jpeg) | 2018-01-26 | Machine Head | Circle the Drain |
@@ -118,8 +128,8 @@ Last updated: <time datetime="2025-10-28T04:07:18.963Z">Tue Oct 28 2025 06:07:18
 
 - [metal]({{ "/tags/metal" | relative_url }})
 - [hard rock]({{ "/tags/hard-rock" | relative_url }})
-- [rock]({{ "/tags/rock" | relative_url }})
 - [power metal]({{ "/tags/power-metal" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
 - [thrash metal]({{ "/tags/thrash-metal" | relative_url }})
 - [speed metal]({{ "/tags/speed-metal" | relative_url }})
 - [death metal]({{ "/tags/death-metal" | relative_url }})
