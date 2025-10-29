@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-29T12:02:39.507Z
+date: 2025-10-29T13:32:40.688Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-29T12:02:39.507Z">Wed Oct 29 2025 14:02:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-29T13:32:40.688Z">Wed Oct 29 2025 15:32:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [electro]({{ "tags/electro" | relative_url }}) | <time datetime="2025-10-29T13:32:40.688Z">Wed Oct 29 2025 15:32:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [emocore]({{ "tags/emocore" | relative_url }}) | <time datetime="2025-10-29T12:02:39.507Z">Wed Oct 29 2025 14:02:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [new rave]({{ "tags/new-rave" | relative_url }}) | <time datetime="2025-10-29T11:03:34.390Z">Wed Oct 29 2025 13:03:34 GMT+0200 (Eastern European Standard Time)</time> |
 | [nederlandstalig]({{ "tags/nederlandstalig" | relative_url }}) | <time datetime="2025-10-29T11:03:24.402Z">Wed Oct 29 2025 13:03:24 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1080,7 +1081,6 @@ Last updated: <time datetime="2025-10-29T12:02:39.507Z">Wed Oct 29 2025 14:02:39
 | [unblack metal]({{ "tags/unblack-metal" | relative_url }}) | <time datetime="2025-10-22T03:57:26.342Z">Wed Oct 22 2025 06:57:26 GMT+0300 (Eastern European Summer Time)</time> |
 | [chicano rap]({{ "tags/chicano-rap" | relative_url }}) | <time datetime="2025-10-22T03:55:20.928Z">Wed Oct 22 2025 06:55:20 GMT+0300 (Eastern European Summer Time)</time> |
 | [new age instrumental]({{ "tags/new-age-instrumental" | relative_url }}) | <time datetime="2025-10-22T03:54:56.081Z">Wed Oct 22 2025 06:54:56 GMT+0300 (Eastern European Summer Time)</time> |
-| [electro]({{ "tags/electro" | relative_url }}) | <time datetime="2025-10-22T03:54:12.735Z">Wed Oct 22 2025 06:54:12 GMT+0300 (Eastern European Summer Time)</time> |
 | [northern soul]({{ "tags/northern-soul" | relative_url }}) | <time datetime="2025-10-22T03:54:02.574Z">Wed Oct 22 2025 06:54:02 GMT+0300 (Eastern European Summer Time)</time> |
 | [male and female]({{ "tags/male-and-female" | relative_url }}) | <time datetime="2025-10-22T03:53:35.176Z">Wed Oct 22 2025 06:53:35 GMT+0300 (Eastern European Summer Time)</time> |
 | [humour]({{ "tags/humour" | relative_url }}) | <time datetime="2025-10-22T03:53:21.035Z">Wed Oct 22 2025 06:53:21 GMT+0300 (Eastern European Summer Time)</time> |
