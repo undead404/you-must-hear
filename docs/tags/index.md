@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-29T00:13:22.916Z
+date: 2025-10-29T00:13:56.826Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-29T00:13:22.916Z">Wed Oct 29 2025 02:13:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-29T00:13:56.826Z">Wed Oct 29 2025 02:13:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [sound collage]({{ "tags/sound-collage" | relative_url }}) | <time datetime="2025-10-29T00:13:56.826Z">Wed Oct 29 2025 02:13:56 GMT+0200 (Eastern European Standard Time)</time> |
 | [bachata]({{ "tags/bachata" | relative_url }}) | <time datetime="2025-10-29T00:13:22.916Z">Wed Oct 29 2025 02:13:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [dutch]({{ "tags/dutch" | relative_url }}) | <time datetime="2025-10-29T00:13:13.642Z">Wed Oct 29 2025 02:13:13 GMT+0200 (Eastern European Standard Time)</time> |
 | [blues rock]({{ "tags/blues-rock" | relative_url }}) | <time datetime="2025-10-29T00:12:46.218Z">Wed Oct 29 2025 02:12:46 GMT+0200 (Eastern European Standard Time)</time> |
@@ -481,7 +482,6 @@ Last updated: <time datetime="2025-10-29T00:13:22.916Z">Wed Oct 29 2025 02:13:22
 | [korean]({{ "tags/korean" | relative_url }}) | <time datetime="2025-10-28T05:58:57.410Z">Tue Oct 28 2025 07:58:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [melodic rock]({{ "tags/melodic-rock" | relative_url }}) | <time datetime="2025-10-28T05:58:42.357Z">Tue Oct 28 2025 07:58:42 GMT+0200 (Eastern European Standard Time)</time> |
 | [soft rock]({{ "tags/soft-rock" | relative_url }}) | <time datetime="2025-10-28T05:58:38.273Z">Tue Oct 28 2025 07:58:38 GMT+0200 (Eastern European Standard Time)</time> |
-| [sound collage]({{ "tags/sound-collage" | relative_url }}) | <time datetime="2025-10-28T05:58:20.849Z">Tue Oct 28 2025 07:58:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [danish poprock]({{ "tags/danish-poprock" | relative_url }}) | <time datetime="2025-10-28T05:58:10.310Z">Tue Oct 28 2025 07:58:10 GMT+0200 (Eastern European Standard Time)</time> |
 | [roots]({{ "tags/roots" | relative_url }}) | <time datetime="2025-10-28T05:58:02.660Z">Tue Oct 28 2025 07:58:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [street punk]({{ "tags/street-punk" | relative_url }}) | <time datetime="2025-10-28T05:56:50.631Z">Tue Oct 28 2025 07:56:50 GMT+0200 (Eastern European Standard Time)</time> |
