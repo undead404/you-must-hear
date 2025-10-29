@@ -1,65 +1,69 @@
 ---
 category: genre
-date: 2025-10-28T04:10:21.185Z
+date: 2025-10-28T23:31:14.416Z
 permalink: tags/psycore
 title: psycore
 ---
 
 ## psycore
 
-Last updated: <time datetime="2025-10-28T04:10:21.185Z">Tue Oct 28 2025 06:10:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T23:31:14.416Z">Wed Oct 29 2025 01:31:14 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Psycore music is a subgenre that pushes the dark atmospheres of Dark Psytrance to the extreme. It is characterized by exceptionally high tempos and experimental soundscapes. These soundscapes are often influenced by Dark Ambient and Glitch, creating a unique and intense auditory experience.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | DJ The Enforcer | Fucking Hardcore #14 |
+| 48 | ![Cover](https://i.discogs.com/YCAW3JN9IdiYRYQ2Y-xFO9bv1l2t_ZBre-RNLExOkRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTI2/MDkyLTE2OTM2NTU0/NjEtOTQzNi5qcGVn.jpeg) | 1977 | Chosen Few | Terrordrome IV - Supersonic Guerilla - Hardcore Underground Warfare |
+| 44 | ![Cover](https://i.discogs.com/aTO0JN84Ih-CujpPPjDZCUq8Jl2-dfc8ODD5Ar7bu2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTcz/NzM5LTE1MTEyMTI1/MjYtMzczOC5qcGVn.jpeg) | 1981 | High Energy | Terrordrome III - The Party Animal Edition - The Ultimate Hardcore Party Nightmare! |
 | 47 | ![Cover](https://i.discogs.com/d4mDRq7k3GpULy3M81AgrtHd9kiO0nUnxnR-5HRCv5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzE0/MDMtMTM1NjMzMzY5/NC05ODMyLmpwZWc.jpeg) | 1993 | Annihilator | Terrordrome III - The Party Animal Edition - The Ultimate Hardcore Party Nightmare! |
 | 36 | ![Cover](https://i.discogs.com/QY60uuwXuZcSJMBSYHXRaU0VVDBBxBfZV29GCmgZIIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjQ4/LTE1Njk1NzMzNjct/NTg3OS5qcGVn.jpeg) | 1994 | DJ Fistfuck | Terrordrome III - The Party Animal Edition - The Ultimate Hardcore Party Nightmare! |
 | 43 | ![Cover](https://i.discogs.com/PuJKHR7C9Hg-uX9hGJnFRjEi6WKsR48ubp2K4DiUTeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTQ3/LTEyNDQ2MjUzMDIu/anBlZw.jpeg) | 1995 | Pineapple Jack | Terrordrome III - The Party Animal Edition - The Ultimate Hardcore Party Nightmare! |
 | 45 | ![Cover](https://i.discogs.com/PuJKHR7C9Hg-uX9hGJnFRjEi6WKsR48ubp2K4DiUTeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTQ3/LTEyNDQ2MjUzMDIu/anBlZw.jpeg) | 1995 | Pineapple Jack | Terrordrome IV - Supersonic Guerilla - Hardcore Underground Warfare |
-| 11 | ![Cover](https://i.discogs.com/9wzc0s2XxkANH7uwiJgI3dDTRhMm4xrebItq6maZYDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDMx/LTExOTI1OTcxOTgu/anBlZw.jpeg) | 1997 | Walter One | Fucking Hardcore #14 |
+| 13 | ![Cover](https://i.discogs.com/9wzc0s2XxkANH7uwiJgI3dDTRhMm4xrebItq6maZYDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDMx/LTExOTI1OTcxOTgu/anBlZw.jpeg) | 1997 | Walter One | Fucking Hardcore #14 |
+| 42 | ![Cover](https://i.discogs.com/TQ5BYSwt1dbuDucobijLrVsmVpNRCiaH9BrRUt7k9Oc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQx/NzgtMTM2MjczMTc4/MC04OTY2LmpwZWc.jpeg) | 1999 | High Energy | Terrordrome IV - Supersonic Guerilla - Hardcore Underground Warfare |
+| 50 | ![Cover](https://i.discogs.com/DdG1tygJz7gRwv6lR8ggnaJg5gTjdF-oQx3gbINGO8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE5/MS0xNjI1OTQ3MDk2/LTUwNjAuanBlZw.jpeg) | 2001 | Parasite | Examination |
 | 37 | ![Cover](https://i.discogs.com/Lw4Bn42C-Fy5K08QKCJbdLtSeWB2kYS7TQCyUkijpKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjg3/NDAtMTMyNTk3NTAz/Ni5qcGVn.jpeg) | 2003 | Dynamax | Fucking Hardcore Tokyo, Vol. 2 |
-| 5 | ![Cover](https://i.discogs.com/ze8PzICjtx52qvRB_yzgnmkjZ4ZnWXTR28ujXC5kr4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjQ1/OC0xMTc2NjM4NjQ0/LmpwZWc.jpeg) | 2004 | DJ Dano | Terrordrome III - The Party Animal Edition - The Ultimate Hardcore Party Nightmare! |
+| 4 | ![Cover](https://i.discogs.com/ze8PzICjtx52qvRB_yzgnmkjZ4ZnWXTR28ujXC5kr4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjQ1/OC0xMTc2NjM4NjQ0/LmpwZWc.jpeg) | 2004 | DJ Dano | Terrordrome III - The Party Animal Edition - The Ultimate Hardcore Party Nightmare! |
 | 32 | ![Cover](https://i.discogs.com/gL3B_J-oIlIEe2YtCr7MFn1JkEinxtEwsvvnepDa36w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDYw/MjEtMTI2OTc4MDA1/MC5qcGVn.jpeg) | 2005 | FOXYUN | Fucking Hardcore Tokyo, Vol. 2 |
 | 39 | ![Cover](https://i.discogs.com/ltqdWC0zHqqW20y3DvNJIG8uD2Jbl9LOz7-3aQaJ1PM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjE4/Ny0xNTE2NjQ5Mjk4/LTY0MDAuanBlZw.jpeg) | 2006-08-13 | DJ Sharpnel | Fucking Hardcore Tokyo, Vol. 2 |
 | 30 | ![Cover](https://i.discogs.com/URTvGfyzIZwRCU5cYSJMqEaXBn5D0PHLChAEzKWzSWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjYw/Ny0xNjU5MDMwMjM2/LTIyMjUuanBlZw.jpeg) | 2007 | DieTRAX | Fucking Hardcore Tokyo, Vol. 2 |
-| 8 | ![Cover](https://i.discogs.com/MYcDMi36cvJ_-UebYgCfGyR3UjOAPdU1v_zfRPEjyLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjA2/MzctMTI0MTYxMTcx/Ni5qcGVn.jpeg) | 2008 | Kronum | Sacred Coincidences by Hyoma |
-| 10 | ![Cover](https://i.discogs.com/NuNMQJZS-L9-MLQ469N0rlx71P9kP6DlCQk0g-zzyfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTE5/Njc2LTE2NjgwOTc3/OTMtNjAxNy5qcGVn.jpeg) | 2010 | Apac | Fucking Hardcore #14 |
+| 7 | ![Cover](https://i.discogs.com/MYcDMi36cvJ_-UebYgCfGyR3UjOAPdU1v_zfRPEjyLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjA2/MzctMTI0MTYxMTcx/Ni5qcGVn.jpeg) | 2008 | Kronum | Sacred Coincidences by Hyoma |
+| 46 | ![Cover](https://i.discogs.com/a2NL-T7-gMRIgKZXibPdP_74Pz7RP7VugI3sIxF8KGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjQ2/NTktMTI3MDg1NTIy/My5qcGVn.jpeg) | 2008-10-20 | Vinyl killer | Terrordrome IV - Supersonic Guerilla - Hardcore Underground Warfare |
+| 8 | ![Cover](https://i.discogs.com/NuNMQJZS-L9-MLQ469N0rlx71P9kP6DlCQk0g-zzyfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTE5/Njc2LTE2NjgwOTc3/OTMtNjAxNy5qcGVn.jpeg) | 2010 | Apac | Fucking Hardcore #14 |
+| 38 | ![Cover](https://i.discogs.com/aTuqrs-wCfEoSKr_KAaGlWFtiz5blA3MNNUn7r5JjtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTkx/NTQ4LTE1NTcwOTMw/MDUtOTM4OS5qcGVn.jpeg) | 2011-11-10 | Facehead | Against The Grain Vol. 1 |
 | 33 | ![Cover](https://i.discogs.com/7AwGQRi4EbKze5wMmQDTdmruEyvp8yqRNwne6SCxjOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjA2/MTAtMTM4Nzg5MjUz/OS0yODQ4LmpwZWc.jpeg) | 2013-04 | Master of Horror | V.A &#x2F; THE DARKNESS LEGACY |
-| 13 | ![Cover](https://i.discogs.com/TQXBzBvyC3_SfYSGNZ0ncE0XrJZ4QMy5fYmNhc35i4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzgw/NDktMTM5MTg5NDQx/My01NjYwLmpwZWc.jpeg) | 2013-05-01 | CinderVOMIT | THE PUJA RITUAL |
-| 4 | ![Cover](https://i.discogs.com/yYOpMVhxUKQcmPNfElJksSgZrbyu75VnYgWGoqQU8VU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjY1/MzktMTM4ODMxNzI5/NC0xNTk1LmpwZWc.jpeg) | 2013-09-19 | The Twins Artcore | Fucking Hardcore #14 |
-| 7 | ![Cover](https://i.discogs.com/BxYbIWLaDKg7qiXyr7S7CYxIk746SmpT3bUiISwuqw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTkz/OTAtMTQxMDAxODYz/Ni0yMTA4LmpwZWc.jpeg) | 2014-09-05 | The Twins Artcore | F**king Hardcore #12 - World Resistance |
+| 12 | ![Cover](https://i.discogs.com/TQXBzBvyC3_SfYSGNZ0ncE0XrJZ4QMy5fYmNhc35i4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzgw/NDktMTM5MTg5NDQx/My01NjYwLmpwZWc.jpeg) | 2013-05-01 | CinderVOMIT | THE PUJA RITUAL |
+| 3 | ![Cover](https://i.discogs.com/yYOpMVhxUKQcmPNfElJksSgZrbyu75VnYgWGoqQU8VU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjY1/MzktMTM4ODMxNzI5/NC0xNTk1LmpwZWc.jpeg) | 2013-09-19 | The Twins Artcore | Fucking Hardcore #14 |
+| 5 | ![Cover](https://i.discogs.com/BxYbIWLaDKg7qiXyr7S7CYxIk746SmpT3bUiISwuqw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTkz/OTAtMTQxMDAxODYz/Ni0yMTA4LmpwZWc.jpeg) | 2014-09-05 | The Twins Artcore | F**king Hardcore #12 - World Resistance |
 | 29 | ![Cover](https://i.discogs.com/zWInWLDCSKPKV2y1BBLqnmnWzusC_Qs3P0DzgazPy0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzIw/NzgtMTU2NTY0NzEz/Ni0yMTYxLmpwZWc.jpeg) | 2015-08-05 | RedOgre | Fucking Hardcore Tokyo, Vol. 2 |
 | 27 | ![Cover](https://i.discogs.com/t4--vlX_ZYCr3l1jhMFE-XD_-WLCH39b1dj6TmA8-js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODkx/NjItMTQ1MDk5MTYy/MC05MjUwLmpwZWc.jpeg) | 2015-11-11 | Der Sandmann | Healing Noise EP |
-| 12 | ![Cover](https://i.discogs.com/_5demLed8JI9L_XP_qf6-REM-x9c_MCjzhJns1NwZno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA2/OTcyLTE1MTkzMjIw/NDQtMTA4My5qcGVn.jpeg) | 2017-03-21 | Depuratus | THE PUJA RITUAL |
-| 2 | ![Cover](https://i.discogs.com/f_iN-oquBX6m-qql2oWqUSJCDOwr8Q8vLz_24sn3Fvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk0/NDIxLTE1MDA1ODYw/NTMtNTY3Ny5qcGVn.jpeg) | 2017-07-20 | HCM | F**king Hardcore #12 - World Resistance |
+| 34 | ![Cover](https://i.discogs.com/AU2vxErYfZFv7q5bvLDyJDXTeqHtyvkUjhPVZ2HYXos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTI3/MjMtMTQ4NDg2Mjcx/MS0yNjcyLmpwZWc.jpeg) | 2016-04-07 | Yoshua E.m | Needlepoint |
+| 14 | ![Cover](https://i.discogs.com/_5demLed8JI9L_XP_qf6-REM-x9c_MCjzhJns1NwZno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA2/OTcyLTE1MTkzMjIw/NDQtMTA4My5qcGVn.jpeg) | 2017-03-21 | Depuratus | THE PUJA RITUAL |
 | 41 | ![Cover](https://i.discogs.com/y17RTWjFKIlVtKLGZnjnBSmQMRvUfFqtEZrX42LoQYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg2/Mzg2LTE1MDI0MzQz/NzQtMzU5Ni5qcGVn.jpeg) | 2017-08-02 | Haardcore | Terrordrome III - The Party Animal Edition - The Ultimate Hardcore Party Nightmare! |
-| 3 | ![Cover](https://i.discogs.com/-VjqQWETkr6MHzYUdjpAr3TD2zElMglh-_VVGHAuaM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDYx/MTUzLTE1MDkxMjY4/OTUtMzg1MS5qcGVn.jpeg) | 2017-10-17 | Exsiderurgica | Fucking Hardcore #14 |
-| 6 |  |  | Alarma Ravers &amp; 00100 | F**king Hardcore #12 - World Resistance |
-| 42 | ![Cover](https://i.discogs.com/TQ5BYSwt1dbuDucobijLrVsmVpNRCiaH9BrRUt7k9Oc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQx/NzgtMTM2MjczMTc4/MC04OTY2LmpwZWc.jpeg) | 1999 | High Energy | Terrordrome IV - Supersonic Guerilla - Hardcore Underground Warfare |
-| 17 | ![Cover](https://i.discogs.com/G4oVHQLPlZHyJxCCet3eO6-lVonEwyhFbbXuh7FgTgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk0/NjMyLTE1MzAyMDc0/MDUtMTYzNS5qcGVn.jpeg) | 2018-06-30 | KCMA &amp; T-Plus | Fucking Hardcore #14 |
+| 9 | ![Cover](https://i.discogs.com/-VjqQWETkr6MHzYUdjpAr3TD2zElMglh-_VVGHAuaM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDYx/MTUzLTE1MDkxMjY4/OTUtMzg1MS5qcGVn.jpeg) | 2017-10-17 | Exsiderurgica | Fucking Hardcore #14 |
+| 1 | ![Cover](https://i.discogs.com/r7nsLAWhJx_DNfrdOgL3yq06I5cX8f0gzAgJzCF_OEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjE3/MTkyLTE1MTIwNjcy/MzAtMzExNS5qcGVn.jpeg) | 2017-11-30 | Lenz | F**king Hardcore #12 - World Resistance |
+| 16 | ![Cover](https://i.discogs.com/G4oVHQLPlZHyJxCCet3eO6-lVonEwyhFbbXuh7FgTgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk0/NjMyLTE1MzAyMDc0/MDUtMTYzNS5qcGVn.jpeg) | 2018-06-30 | KCMA &amp; T-Plus | Fucking Hardcore #14 |
 | 31 |  | 2021-02-12 | XianZai | Expansion (Compilation Album) |
-| 18 | ![Cover](https://i.discogs.com/MTfQgNJepqjScnv5MwrahVA93qL29zvt_RHTu8dSiHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTY1/MjIzLTE3MDA0MzQ0/MDYtMjQwOC5qcGVn.jpeg) | 2023-11-18 | Virus Voice | Fucking Hardcore #14 |
-| 9 | ![Cover](https://i.discogs.com/IPXCNuTiq4LY1KxcG3BmUnvUEBAndR37Ry4_luYBx-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQz/MjUwLTE3MDM4OTA0/NDUtNTIzMy5qcGVn.jpeg) | 2023-12-22 | XianZai | Sacred Coincidences by Hyoma |
-| 14 |  |  | Analog Transistor | F**king Hardcore #12 - World Resistance |
-| 15 | ![Cover](https://i.discogs.com/LDE5C___9zme3thIjdm5ZKdNMCM03KiiojCvE-NMrck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU3/MDAxLTE2MzUzOTYz/NzctMzU1Ny5qcGVn.jpeg) | 2021-10-28 | Gabberfucker | F**king Hardcore #12 - World Resistance |
-| 16 |  |  | Audiokidnapping vs Der Sandmann | Blah |
-| 19 |  |  | Gandharva Project | THE PUJA RITUAL |
-| 20 |  |  | ASF &amp; Aggroman | Fucking Hardcore #14 |
-| 48 | ![Cover](https://i.discogs.com/YCAW3JN9IdiYRYQ2Y-xFO9bv1l2t_ZBre-RNLExOkRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTI2/MDkyLTE2OTM2NTU0/NjEtOTQzNi5qcGVn.jpeg) | 1977 | Chosen Few | Terrordrome IV - Supersonic Guerilla - Hardcore Underground Warfare |
-| 44 | ![Cover](https://i.discogs.com/aTO0JN84Ih-CujpPPjDZCUq8Jl2-dfc8ODD5Ar7bu2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTcz/NzM5LTE1MTEyMTI1/MjYtMzczOC5qcGVn.jpeg) | 1981 | High Energy | Terrordrome III - The Party Animal Edition - The Ultimate Hardcore Party Nightmare! |
-| 50 | ![Cover](https://i.discogs.com/DdG1tygJz7gRwv6lR8ggnaJg5gTjdF-oQx3gbINGO8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE5/MS0xNjI1OTQ3MDk2/LTUwNjAuanBlZw.jpeg) | 2001 | Parasite | Examination |
-| 46 | ![Cover](https://i.discogs.com/a2NL-T7-gMRIgKZXibPdP_74Pz7RP7VugI3sIxF8KGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjQ2/NTktMTI3MDg1NTIy/My5qcGVn.jpeg) | 2008-10-20 | Vinyl killer | Terrordrome IV - Supersonic Guerilla - Hardcore Underground Warfare |
-| 38 | ![Cover](https://i.discogs.com/aTuqrs-wCfEoSKr_KAaGlWFtiz5blA3MNNUn7r5JjtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTkx/NTQ4LTE1NTcwOTMw/MDUtOTM4OS5qcGVn.jpeg) | 2011-11-10 | Facehead | Against The Grain Vol. 1 |
+| 2 | ![Cover](https://i.discogs.com/xP_P81XFBrg22qoBSUy798uUtDFhkWYwNC3pNJh1SPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODMx/NTEzLTE2Mjg3NDI3/NjUtNjg4OC5qcGVn.jpeg) | 2021-08-12 | M-Project &amp; Kamikaze | Fucking Hardcore #14 |
+| 28 | ![Cover](https://i.discogs.com/0kz0iIOHhRVu4lk4t3cst-LDeOW0KT8Xd2NwRaSJqeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzY3/NDQyLTE2NTY4MzQ0/NjktOTU4OC5qcGVn.jpeg) | 2022-05-03 | Ludic | IMBIBE |
+| 17 | ![Cover](https://i.discogs.com/MTfQgNJepqjScnv5MwrahVA93qL29zvt_RHTu8dSiHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTY1/MjIzLTE3MDA0MzQ0/MDYtMjQwOC5qcGVn.jpeg) | 2023-11-18 | Virus Voice | Fucking Hardcore #14 |
+| 6 | ![Cover](https://i.discogs.com/IPXCNuTiq4LY1KxcG3BmUnvUEBAndR37Ry4_luYBx-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQz/MjUwLTE3MDM4OTA0/NDUtNTIzMy5qcGVn.jpeg) | 2023-12-22 | XianZai | Sacred Coincidences by Hyoma |
+| 10 |  |  | Alarma Ravers &amp; 00100 | F**king Hardcore #12 - World Resistance |
+| 11 |  |  | Analog Transistor | F**king Hardcore #12 - World Resistance |
+| 15 |  |  | Gandharva Project | THE PUJA RITUAL |
+| 18 |  |  | ASF &amp; Aggroman | Fucking Hardcore #14 |
+| 19 |  |  | Audiokidnapping vs Der Sandmann | Blah |
+| 20 | ![Cover](https://i.discogs.com/LDE5C___9zme3thIjdm5ZKdNMCM03KiiojCvE-NMrck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU3/MDAxLTE2MzUzOTYz/NzctMzU1Ny5qcGVn.jpeg) | 2021-10-28 | Gabberfucker | F**king Hardcore #12 - World Resistance |
 | 21 | ![Cover](https://i.discogs.com/KDNtmZg9j4qPLNsyIsi5XGpImyK6e3f-v08IrQwpX6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzEy/OTY2LTE2NDg3NDY3/MzgtNTQ2MC5wbmc.jpeg) | 2022-03-31 | The Crash Dummy | Fucking Hardcore #14 |
 | 22 |  |  | Antakaran | The Puja Ritual |
 | 24 |  |  | Mokum records | Happy Gabber Sounds |
 | 25 |  |  | Mokum records | Fucking Hardcore #14 |
 | 26 |  |  | Paul Seul &amp; Krampf | Fucking Hardcore #14 |
-| 34 | ![Cover](https://i.discogs.com/AU2vxErYfZFv7q5bvLDyJDXTeqHtyvkUjhPVZ2HYXos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTI3/MjMtMTQ4NDg2Mjcx/MS0yNjcyLmpwZWc.jpeg) | 2016-04-07 | Yoshua E.m | Needlepoint |
 | 49 | ![Cover](https://i.discogs.com/y17RTWjFKIlVtKLGZnjnBSmQMRvUfFqtEZrX42LoQYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg2/Mzg2LTE1MDI0MzQz/NzQtMzU5Ni5qcGVn.jpeg) | 2017-08-02 | Strontium 9000 | Terrordrome III - The Party Animal Edition - The Ultimate Hardcore Party Nightmare! |
-| 28 | ![Cover](https://i.discogs.com/0kz0iIOHhRVu4lk4t3cst-LDeOW0KT8Xd2NwRaSJqeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzY3/NDQyLTE2NTY4MzQ0/NjktOTU4OC5qcGVn.jpeg) | 2022-05-03 | Ludic | IMBIBE |
 | 35 | ![Cover](https://i.discogs.com/RKrYyYO8crX6WrswHVri8pgxNCpKA1i4nc3FxWS3ogg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzc0/NjAxLTE2NTM2Njgz/NjktOTAyNS5qcGVn.jpeg) | 2022-05-26 | Lysa &amp; Italian Terrorist | Slaves Of Modern Empire |
 | 40 |  |  | bassground | Terrordrome IV - Supersonic Guerilla - Hardcore Underground Warfare |
 | 52 |  |  | Exo-Armonia | Stratus Scienti |
