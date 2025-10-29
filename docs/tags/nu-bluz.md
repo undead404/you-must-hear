@@ -1,19 +1,19 @@
 ---
 category: genre
-date: 2025-10-28T06:35:30.611Z
+date: 2025-10-29T02:05:50.404Z
 permalink: tags/nu-bluz
 title: nu-bluz
 ---
 
 ## nu-bluz
 
-Last updated: <time datetime="2025-10-28T06:35:30.611Z">Tue Oct 28 2025 08:35:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-29T02:05:50.404Z">Wed Oct 29 2025 04:05:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | D:Fuse ft. Jes | Living The Dream (D:Fuse&#39;s T4L mixes) |
+| 1 |  |  | Bob Belden Project | Remix Project |
 | 2 |  |  | &#39;Nati Neen feat. Geed Up | &#39;Nati Neen Musik |
 | 6 |  |  | Victor Vega | Este Soy Yo |
 | 7 |  |  | Sf1 | Cornbread |

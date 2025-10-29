@@ -1,22 +1,23 @@
 ---
 category: genre
-date: 2025-10-28T06:37:15.201Z
+date: 2025-10-29T02:19:39.073Z
 permalink: tags/screamo
 title: screamo
 ---
 
 ## screamo
 
-Last updated: <time datetime="2025-10-28T06:37:15.201Z">Tue Oct 28 2025 08:37:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-29T02:19:39.073Z">Wed Oct 29 2025 04:19:39 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Screamo is a subgenre of punk rock and emo music that emerged in the early 1990s. It is characterized by its use of screamed vocals, often in contrast to clean or melodic singing, and its emotional intensity. Musically, screamo often incorporates elements of hardcore punk, post-hardcore, and emo, and is often played at fast tempos with aggressive, angular guitar riffs and complex drumming. The lyrics of screamo songs often deal with personal and emotional themes such as relationships, self-doubt, and identity, and can be introspective and confessional in nature.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
 | 99 | ![Cover](https://i.discogs.com/CQlP5d8fTAwE15HxLvUwnHpOeGNsNT2Ba9AgeDrlUiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjY3/MDcwLTE2MzQ3NDg5/NTctNzc3NS5qcGVn.jpeg) | 1983 | Corpse | HOT DEMON B!TCHES NEAR U ! ! ! |
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/af1f952421ce1f1276a0f84cf7baf212.png) | 2001-09-01 | Envy | All the Footprints You&#39;ve Ever Left and the Fear Expecting Ahead |
-| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/49d694983d0dc6743225270fb6bed563.png) | 2008-05-15 | Loma Prieta | Last City |
-| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fd4f2b1ef6400eae306e29e0fa66dfef.png) |  | Old Gray | Slow Burn |
 | 90 | ![Cover](https://i.discogs.com/7EVZ9IEo7nvXVgiC22kPAeGgCGXTpkcAOeZm8Bpsyak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTg3/NzMzLTE2MDE0MjM0/NjEtODU4NS5qcGVn.jpeg) | 1986 | Corpse | White Tee (Alternate Bass Boosted Version) |
 | 100 | ![Cover](https://i.discogs.com/c9H_UtKjc0CAUfqqZikHcuCCxksBYfNRBiJT0mJKjmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzA3/ODYxLTE2MDkzNjEx/NTktOTQwNi5qcGVn.jpeg) | 1988 | Corpse | E-GIRLS ARE RUINING MY LIFE! |
 | 96 | ![Cover](https://i.discogs.com/Kp_u3BCfzMN34s45DkwWwSPKIa24Lhb1aTfnTWlascY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY0/MTU1LTE2MTU4NzQz/NzMtMjg4My5qcGVn.jpeg) | 1993 | Corpse | Cat Girls Are Ruining My Life! |
@@ -24,82 +25,83 @@ Last updated: <time datetime="2025-10-28T06:37:15.201Z">Tue Oct 28 2025 08:37:15
 | 93 | ![Cover](https://i.discogs.com/0PRtBvh5St-dhMqRXZtNKq9yxjExsePhUoiN3ySsP6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTkw/OTQ1LTE2Mjk5MDg2/MzUtMjYxNC5qcGVn.jpeg) | 1997 | Corpse | Cabin Fever |
 | 95 | ![Cover](https://i.discogs.com/cCuJIgzxA6z7Ag05I8mGyQPS7fLUv0_nDRReT0Ud9jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU1/ODkyLTE1ODYwOTI3/NjctMzQyOC5wbmc.jpeg) | 1997 | Corpse | White Tee |
 | 98 | ![Cover](https://i.discogs.com/2gSzy5JsxMxSAhC8mKISDoZdxGKsx9ZgpWNFWdb40S0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDYx/OTczLTE2MjYwNjA0/NzItOTU3Ni5qcGVn.jpeg) | 1997 | Corpse | agoraphobic |
-| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d9a316014f12d57334ded8d7518e118c.png) | 1998 | Orchid | Orchid |
+| 13 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d9a316014f12d57334ded8d7518e118c.png) | 1998 | Orchid | Orchid |
 | 72 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c1c93b79d1d248a3ae5d006e10fb3362.png) | 1999-06-09 | Orchid | Chaos Is Me |
-| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c52f5970b25e0bd5ceff6f960639cf21.png) | 1999-11-09 | Jessica Simpson | Sweet Kisses |
+| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c52f5970b25e0bd5ceff6f960639cf21.png) | 1999-11-09 | Jessica Simpson | Sweet Kisses |
 | 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/41f675f03bb44d7f9d1db4e7fb694d52.png) | 2000-12-04 | Orchid | Dance Tonight! Revolution Tomorrow! |
-| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2f7dd0838ba88c47fa759f9edc5c1223.png) | 2001 | Joshua Fit for Battle | To Bring Our Own End |
-| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d5b6b1e6966008b4aa63d8ac6b38dd91.png) | 2001 | Jeromes Dream | Completed |
+| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2f7dd0838ba88c47fa759f9edc5c1223.png) | 2001 | Joshua Fit for Battle | To Bring Our Own End |
+| 19 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d5b6b1e6966008b4aa63d8ac6b38dd91.png) | 2001 | Jeromes Dream | Completed |
 | 34 |  | 2001 | A Static Lullaby | A Static Lullaby |
-| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dd616da79ccd4106915dce8bb77bd9ee.png) | 2002 | City of Caterpillar | City of Caterpillar |
-| 16 |  | 2002-02-26 | Underoath | The Changing of Times |
+| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/af1f952421ce1f1276a0f84cf7baf212.png) | 2001-09-01 | Envy | All the Footprints You&#39;ve Ever Left and the Fear Expecting Ahead |
+| 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dd616da79ccd4106915dce8bb77bd9ee.png) | 2002 | City of Caterpillar | City of Caterpillar |
+| 17 |  | 2002-02-26 | Underoath | The Changing of Times |
 | 75 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/55c3874f5b1446bc9b4f60e87bf9b298.png) | 2002-06-25 | The Used | The Used |
 | 71 |  | 2002-10-29 | Alexisonfire | Alexisonfire |
 | 66 | ![Cover](https://i.discogs.com/Jg0o4jFDHteYvNyFvuxap1BnKXTuhoiIYPrM29dmCUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDA4/OTYxLTE1MzQ3MDE0/ODYtMzIyMy5qcGVn.jpeg) | 2003 | Circle Takes the Square | As the Roots Undo |
-| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/54a0c2b8c7c31908ec518bb1a6532ed4.png) | 2003-04-25 | Envy | A Dead Sinking Story |
+| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/54a0c2b8c7c31908ec518bb1a6532ed4.png) | 2003-04-25 | Envy | A Dead Sinking Story |
 | 61 |  | 2003-05-20 | Silverstein | When Broken Is Easily Fixed |
-| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8be9cd7cb9227a40411d14a847cf391f.png) | 2003-06-17 | Saosin | Translating the Name |
+| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8be9cd7cb9227a40411d14a847cf391f.png) | 2003-06-17 | Saosin | Translating the Name |
 | 86 | ![Cover](https://i.discogs.com/_urKx19jGE6rQAoUoLwYNhknh5lzSrEcDEteCKF6dTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkx/Nzg2LTE2MjcwMTY2/OTctNzMxOS5wbmc.jpeg) | 2004-03-10 | Dream | MASK |
 | 88 |  | 2004-06-15 | Underoath | They&#39;re Only Chasing Safety |
 | 59 | ![Cover](https://i.discogs.com/2v4JqLDU788YKfj5VUzTDAW3_SYE9UjkYjxr7DFgJoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzI5/NDAtMTMzOTc5MTU0/My03NTk5LmpwZWc.jpeg) | 2004-06-28 | From First to Last | Dear Diary, My Teen Angst Has A Body Count |
 | 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fb515af12c6c80d4dce97b423f10bea1.png) | 2005-04 | Funeral Diner | The Underdark |
 | 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c76e0a66c5990c413532aa3a2f311f44.png) | 2005-05-10 | Gospel | The Moon Is a Dead World |
+| 1 |  | 2005-06-27 | The Amity Affliction | The Amity Affliction |
 | 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/357710fac5fe1e84e5d54c56706e263f.png) | 2005-07-26 | Chiodos | All&#39;s Well That Ends Well |
 | 60 |  | 2005-12-07 | Alesana | Try This With Your Eyes Closed |
-| 25 |  | 2006 | Suis la lune | Quiet, Pull the Strings! |
+| 26 |  | 2006 | Suis la lune | Quiet, Pull the Strings! |
 | 46 | ![Cover](https://i.discogs.com/UUWW7jNgTCXdmz4_pBg-dF_w4-aTS-pJJhfzvNKO71Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc5/Mjk5LTE1NTY4Nzc3/MzQtMjI0Ni5qcGVn.jpeg) | 2006 | the cabs | the first action |
-| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dbbfffdb6896f562264bef91f16c9f3b.png) | 2006-01-01 | The Red Jumpsuit Apparatus | Don&#39;t You Fake It |
+| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dbbfffdb6896f562264bef91f16c9f3b.png) | 2006-01-01 | The Red Jumpsuit Apparatus | Don&#39;t You Fake It |
 | 81 | ![Cover](https://i.discogs.com/wyO5-U2rfUfiZv5655C03UQ6HrHJouXos4d59SryTTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTk1/MDM0LTE1NjU3MDE3/MTUtMjE2Mi5qcGVn.jpeg) | 2006-03-25 | Underoath | Define the Great Line |
 | 37 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/04d70835f2bf911ae50c3f991cc92f3a.png) | 2006-05-02 | Drop Dead, Gorgeous | In Vogue |
-| 13 |  | 2006-05-30 | Silverstein | 18 Candles: The Early Years |
-| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7109eafb8445c893876f7d864f9726a9.png) | 2006-05-31 | Envy | Insomniac Doze |
+| 14 |  | 2006-05-30 | Silverstein | 18 Candles: The Early Years |
+| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7109eafb8445c893876f7d864f9726a9.png) | 2006-05-31 | Envy | Insomniac Doze |
 | 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f83c03a5e28242e6a2094d9a1e2119c2.png) | 2006-06-06 | Alesana | On Frail Wings of Vanity And Wax |
 | 82 |  | 2006-09-26 | Escape the Fate | Dying Is Your Latest Fashion |
 | 58 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e8cad3d1349a4a35980edb9ba9c628d2.png) | 2007-01-23 | A Skylit Drive | She Watched The Sky |
 | 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8790c35bd5678c461d85bbaae9cdcdcf.png) | 2007-05-15 | Dance Gavin Dance | Downtown Battle Mountain |
-| 27 |  | 2007-06-18 | Devil Sold His Soul | A Fragile Hope |
-| 32 |  | 2007-07-03 | Silverstein | Arrivals &amp; Departures |
+| 28 |  | 2007-06-18 | Devil Sold His Soul | A Fragile Hope |
 | 76 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c49b12e8752fcb96fc42e009a6e63e12.png) | 2007-08-28 | Scary Kids Scaring Kids | Scary Kids Scaring Kids |
 | 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3cd5bda9db4b49d188a324a2cd87c217.png) | 2007-09-04 | Chiodos | Bone Palace Ballet |
 | 42 |  | 2008 | Suis la lune | Heir |
 | 85 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/158e3587fedddc8d86cd3d869c8021e9.png) | 2008-02-19 | Eyes Set to Kill | Reach |
 | 39 |  | 2008-03-04 | Burden of a Day | Blessed Be Our Ever After |
 | 47 |  | 2008-03-14 | A Bullet For Pretty Boy | Beauty In The Eyes of the Beholder |
-| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/203381ef2107472e83d9d97fd2834a7c.png) | 2008-05-06 | Greeley Estates | Go West Young Man, Let The Evil Go East |
+| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/203381ef2107472e83d9d97fd2834a7c.png) | 2008-05-06 | Greeley Estates | Go West Young Man, Let The Evil Go East |
+| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/49d694983d0dc6743225270fb6bed563.png) | 2008-05-15 | Loma Prieta | Last City |
 | 68 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f9b21ebc9dc14eafbfe5f1f1504af57e.png) | 2008-05-20 | A Skylit Drive | Wires...And the Concept of Breathing |
 | 35 |  | 2008-06-03 | Alesana | Where Myth Fades to Legend |
-| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/50c12e548336d40eb6946a1a63127c70.png) | 2008-09-09 | United Nations | United Nations |
+| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/50c12e548336d40eb6946a1a63127c70.png) | 2008-09-09 | United Nations | United Nations |
 | 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e25ad3a369e547d989100a66e378e669.png) | 2008-11-11 | La Dispute | Somewhere at the Bottom of the River Between Vega and Altair |
 | 70 |  | 2009-02-17 | Motionless in White | When Love Met Destruction |
-| 19 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d7f5857f7ac101752bb884cee9e829f1.png) | 2009-06-09 | A Skylit Drive | Adelphia |
-| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fcd0a91dbf0145c9a999c89b92ae1248.png) | 2009-08-04 | Hopes Die Last | Six Years Home |
-| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/351683aaefe68c4ca4ae5ac52f8d18e9.png) | 2010-01-26 | Alesana | The Emptiness |
+| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d7f5857f7ac101752bb884cee9e829f1.png) | 2009-06-09 | A Skylit Drive | Adelphia |
+| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fcd0a91dbf0145c9a999c89b92ae1248.png) | 2009-08-04 | Hopes Die Last | Six Years Home |
+| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/351683aaefe68c4ca4ae5ac52f8d18e9.png) | 2010-01-26 | Alesana | The Emptiness |
+| 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5aa384b24511b05af62826e96bfb0ed3.png) | 2010-07-08 | Merchant Ships | For Cameron |
 | 57 |  | 2010-10-05 | Abandon All Ships | Geeving |
+| 83 | ![Cover](https://i.discogs.com/fa5ga63FfoUZ8J0HaL6d9d0FekLTloubDXi8N1ECDbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzk4/MDAtMTQyNzE4MzU2/MC03NTk4LmpwZWc.jpeg) | 2011-04-29 | Silverstein | Punk Goes Pop Volume Two |
 | 51 |  | 2011-05-06 | Old Gray | Demo |
 | 64 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1c842a38fa09433bc31a2aa2e547843e.png) | 2011-10-04 | La Dispute | Wildlife |
-| 67 | ![Cover](https://i.discogs.com/-iPAP5MOd6BOBDhsS51xEBM9tYFf4uhZ45TuF__8Oew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjMx/NzY2LTE2NjQxNDMy/MDUtNzI5OS5wbmc.jpeg) | 2013-08-05 | Memphis May Fire | Miles Away (Acoustic) (feat. Kellin Quinn) |
-| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b0f67aeaedd3ae6b04460520b069b808.png) |  | I Hate Sex | Circle Thinking |
-| 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5aa384b24511b05af62826e96bfb0ed3.png) | 2010-07-08 | Merchant Ships | For Cameron |
-| 83 | ![Cover](https://i.discogs.com/fa5ga63FfoUZ8J0HaL6d9d0FekLTloubDXi8N1ECDbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzk4/MDAtMTQyNzE4MzU2/MC03NTk4LmpwZWc.jpeg) | 2011-04-29 | Silverstein | Punk Goes Pop Volume Two |
 | 94 | ![Cover](https://i.discogs.com/m-QNHL_pNmyLw7_98wvQC9j3MsAt3Q_NA1KsB2cSBg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY0/MTY0LTE2MTU4NzQz/NjUtNjgxMS5qcGVn.jpeg) | 2012 | Corpse | Never Satisfied |
 | 49 |  | 2013-03-11 | Old Gray | An Autobiography |
 | 50 | ![Cover](https://i.discogs.com/DDJLoW-qSUFGJTMifdJm3wehPPPYf0sXeQMt5qfGAqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTEx/NDgtMTM4OTc0MDM0/Mi03NDQxLmpwZWc.jpeg) | 2013-05-14 | Escape the Fate | Ungrateful (Deluxe) |
-| 17 |  | 2013-09-24 | Touché Amoré | Is Survived By |
-| 22 |  | 2014-05-20 | Hawthorne Heights | The Silence in Black and White |
+| 67 | ![Cover](https://i.discogs.com/-iPAP5MOd6BOBDhsS51xEBM9tYFf4uhZ45TuF__8Oew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjMx/NzY2LTE2NjQxNDMy/MDUtNzI5OS5wbmc.jpeg) | 2013-08-05 | Memphis May Fire | Miles Away (Acoustic) (feat. Kellin Quinn) |
+| 18 |  | 2013-09-24 | Touché Amoré | Is Survived By |
+| 23 |  | 2014-05-20 | Hawthorne Heights | The Silence in Black and White |
 | 78 | ![Cover](https://i.discogs.com/LD3VNGyDvGHrybYwoTIWMPEWWjkYnvmku4UUwLYRryo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODE0/MTktMTQ0MDI3MDk3/Mi01MTIyLmpwZWc.jpeg) | 2015-07-31 | i hate sex | Circle Thinking |
-| 29 | ![Cover](https://i.discogs.com/wVhvYZEqb-gkcSecsTHsJwoALKH6E1Vfb9cn-pp9Z88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTgz/Njg3LTE1MTE0MTk4/NDgtMTE3MS5qcGVn.jpeg) | 2016 | Asking Alexandria | Where Did It Go? |
+| 30 | ![Cover](https://i.discogs.com/wVhvYZEqb-gkcSecsTHsJwoALKH6E1Vfb9cn-pp9Z88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTgz/Njg3LTE1MTE0MTk4/NDgtMTE3MS5qcGVn.jpeg) | 2016 | Asking Alexandria | Where Did It Go? |
 | 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/91af045e904dc722d509901be785bfdc.png) | 2016 | Saetia | Collected |
 | 33 | ![Cover](https://i.discogs.com/yfL92-trj5hsWKtB3NDxAVdPnUlDhK-ZpPZoEVdlGgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTgw/NzYtMTQ4Njg2NDg5/MC0zODM0LmpwZWc.jpeg) | 2016-10-14 | Trophy Eyes | Chemical Miracle |
 | 36 | ![Cover](https://i.discogs.com/tDLArXwGBmCnpW-bbYwSr0ICwhds_vDXxmVWEcU8lUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA3/OTUyLTE1MjQ1MTg5/NDUtODgxOC5qcGVn.jpeg) | 2016-11-21 | Bilmuri | Letters |
-| 31 | ![Cover](https://i.discogs.com/tf1jwG4k6A9FnxzJubrkvAyKUt669-broAczdX16EnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Nzkz/MTItMTQ4MTMwMzAy/OS00ODI1LmpwZWc.jpeg) | 2016-12-09 | Old Gray | slow burn |
-| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/08e5d28e5cdbcf233acc2237b20207e0.png) | 2017-03 | Foxtails | III |
+| 32 | ![Cover](https://i.discogs.com/tf1jwG4k6A9FnxzJubrkvAyKUt669-broAczdX16EnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Nzkz/MTItMTQ4MTMwMzAy/OS00ODI1LmpwZWc.jpeg) | 2016-12-09 | Old Gray | slow burn |
 | 89 | ![Cover](https://i.discogs.com/IPLldxSvvA8UhB2BQVDKA-7LgHjbgtf7NLC6A97HZb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDk3/NzAtMTQ4OTA4NDEz/Ni05ODg1LmpwZWc.jpeg) | 2017-03-10 | The Word Alive | Misery |
-| 20 | ![Cover](https://i.discogs.com/MmPG_B_HUw8Eyu54doX6LN_vjWim5hJqLaaGYX2Jz20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDg2/NzE1LTE1MTcxNzc1/NTktNTI2OC5qcGVn.jpeg) | 2017-10-27 | Cory Asbury | Reckless Love |
-| 7 | ![Cover](https://i.discogs.com/lFWxaECwfBoaCdVxGhw9mRvEsE1DA8aFtEiVXwy8lxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/MTY5LTE1MTAxMjgz/MjQtNTYyOS5wbmc.jpeg) | 2017-11-03 | Like Moths to Flames | Dark Divine |
-| 28 | ![Cover](https://i.discogs.com/xTigvey9PsOEbg21wG95oL63JC0f2AAmSxeAaMrCzLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU2/NjYtMTE5NzUzOTQx/Mi5qcGVn.jpeg) | 2018 | Silverstein | Arrivals and Departures |
-| 14 | ![Cover](https://i.discogs.com/DPYKsqb5AALUxwn_RYog-wSxIfHyDHyXeWPk02WF9u8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTY2/MTY2LTE1NTE3MTc0/NjQtNzMyNy5qcGVn.jpeg) | 2018-05-04 | The Word Alive | Violent Noise |
+| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/08e5d28e5cdbcf233acc2237b20207e0.png) | 2017-03 | Foxtails | III |
+| 21 | ![Cover](https://i.discogs.com/MmPG_B_HUw8Eyu54doX6LN_vjWim5hJqLaaGYX2Jz20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDg2/NzE1LTE1MTcxNzc1/NTktNTI2OC5qcGVn.jpeg) | 2017-10-27 | Cory Asbury | Reckless Love |
+| 8 | ![Cover](https://i.discogs.com/lFWxaECwfBoaCdVxGhw9mRvEsE1DA8aFtEiVXwy8lxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/MTY5LTE1MTAxMjgz/MjQtNTYyOS5wbmc.jpeg) | 2017-11-03 | Like Moths to Flames | Dark Divine |
+| 29 | ![Cover](https://i.discogs.com/xTigvey9PsOEbg21wG95oL63JC0f2AAmSxeAaMrCzLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU2/NjYtMTE5NzUzOTQx/Mi5qcGVn.jpeg) | 2018 | Silverstein | Arrivals and Departures |
+| 15 | ![Cover](https://i.discogs.com/DPYKsqb5AALUxwn_RYog-wSxIfHyDHyXeWPk02WF9u8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTY2/MTY2LTE1NTE3MTc0/NjQtNzMyNy5qcGVn.jpeg) | 2018-05-04 | The Word Alive | Violent Noise |
 | 69 | ![Cover](https://i.discogs.com/Mi0fu8ZrDKVxTFkd2F9Olnkc7VfY6tJuOQDOpW45snw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk1/NzkxLTE1NTUwNDQy/MDEtODg4MC5qcGVn.jpeg) | 2018-08-24 | The Amity Affliction | Shine On |
-| 6 | ![Cover](https://i.discogs.com/YWlLKdxVeGARxA7oGprNsuumEDrpMV9x7ESaReynGKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDkwLTE2MDA0Njk1/MjItODI4Mi5qcGVn.jpeg) | 2018-09-14 | Fit for a King | Backbreaker |
+| 7 | ![Cover](https://i.discogs.com/YWlLKdxVeGARxA7oGprNsuumEDrpMV9x7ESaReynGKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDkwLTE2MDA0Njk1/MjItODI4Mi5qcGVn.jpeg) | 2018-09-14 | Fit for a King | Backbreaker |
 | 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ccbf57075fece0ea1bcf678bea2da8d6.png) | 2018-11-09 | La Dispute | Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary) |
 | 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/15c1178321da5284e6548445b6da4bd0.png) | 2018-12-13 | William Bonney | All Ten |
 | 45 | ![Cover](https://i.discogs.com/eeYCQE5LdFlE_3JOaG_N522iMucUq50qZauN881fi8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjIw/Njk4LTE1NTQwOTgz/MDQtODEwOC5qcGVn.jpeg) | 2019-03-29 | The Amity Affliction | Ivy (Doomsday) |
@@ -109,8 +111,10 @@ Last updated: <time datetime="2025-10-28T06:37:15.201Z">Tue Oct 28 2025 08:37:15
 | 41 | ![Cover](https://i.discogs.com/WTQKApkBoStLpClXKKIXJuXC_1M5HkA8B8Dmi4qlXpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDIx/NjAxLTE2MDUyMjYx/NDUtNDcxNS5qcGVn.jpeg) | 2020-10-09 | Touché Amoré | Lament |
 | 40 | ![Cover](https://i.discogs.com/ELyE1BS-WhKMUmdEnlW6o-EVk5_rJUI_BfiIIG32BVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzc0/MDMwLTE2MDczNTY2/NDQtNjAwOC5qcGVn.jpeg) | 2020-11-20 | Your Arms Are My Cocoon | your arms are my cocoon |
 | 48 | ![Cover](https://i.discogs.com/tCKaTGFgWyNryse2zb9FU9WfKN39RdgZxFzhcoLyE5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDgw/MDE3LTE2MTcxMjIw/NjUtNzU0NC5qcGVn.jpeg) | 2021-03-05 | home is where | I Became Birds |
-| 5 | ![Cover](https://i.discogs.com/F8MG21c8mhtLWXDArYL84v9dfEM1setN1nMoU8mdUDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjk0/MTY4LTE2NDg2MDgw/NjYtMjA1OS5qcGVn.jpeg) | 2022-03-25 | Soul Glo | Diaspora Problems |
+| 6 | ![Cover](https://i.discogs.com/F8MG21c8mhtLWXDArYL84v9dfEM1setN1nMoU8mdUDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjk0/MTY4LTE2NDg2MDgw/NjYtMjA1OS5qcGVn.jpeg) | 2022-03-25 | Soul Glo | Diaspora Problems |
 | 63 | ![Cover](https://i.discogs.com/Ae2eosaPkw2HdCaKYxozXH0yuWlLNCuwNq3DrNfStV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNzU3/MzctMTQ2MDM5MzEz/Mi03OTQ4LmpwZWc.jpeg) | 2023-01-05 | Bring Me the Horizon | Drown (Live from Maida Vale) |
+| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fd4f2b1ef6400eae306e29e0fa66dfef.png) |  | Old Gray | Slow Burn |
+| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b0f67aeaedd3ae6b04460520b069b808.png) |  | I Hate Sex | Circle Thinking |
 | 80 |  |  | Lil Big Stack | Skibidi Toilet |
 | 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bd931acd3c6a4c5095e8195b86d80efc.png) |  | Escape The Fate | Dying Is Your Latest Fashion |
 

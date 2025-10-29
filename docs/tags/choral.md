@@ -9,13 +9,14 @@ title: choral
 
 Last updated: <time datetime="2025-10-18T20:39:41.288Z">Sat Oct 18 2025 23:39:41 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Choral music features vocal ensembles singing in harmony, often without instruments, ranging from sacred church compositions to folk arrangements and contemporary works. The genre spans centuries of tradition across cultures, from classical masses to military choirs and minimalist spiritual pieces. Its power lies in blended human voices creating rich, layered textures that evoke collective emotion and grandeur.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 21 |  |  | State Symphony Capella of Russia | Sacred Treasures V: From a Russian Cathedral |
-| 37 |  |  | The Mystery Of The Bulgarian Voices | BooCheeMish |
-| 61 |  |  | St.Petersburg Chamber Choir | Sacred Choral Music from Russia |
 | 65 | ![Cover](https://i.discogs.com/0-8btS8u3Nn5MjJEz9IX_4fRHAgUkkEKnUjVV2tdAeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTkz/MzQxLTE3MjA3MDk1/NjQtMjY4Ny5qcGVn.jpeg) | 1958 | Thomas Tallis | TALLIS: Mass for Four Voices &#x2F; Motets |
 | 53 | ![Cover](https://i.discogs.com/IszaEtEELfoOjwI06FTyvc8_k63PWtE5cf4TqdzAhLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTc2/ODA2LTE1OTM5MTA4/NDctODExNS5qcGVn.jpeg) | 1968 | Antonio Vivaldi | Stabat Mater |
 | 5 | ![Cover](https://i.discogs.com/uXlfwzazIeKVJrxY3OmyQRs0IzHMmb2NMUFMgDK5Pto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM4/ODEtMTIzNzE0OTM0/Ni5qcGVn.jpeg) | 1969 | Claudio Monteverdi | Monteverdi: Vespers of 1610 |
@@ -63,15 +64,10 @@ Last updated: <time datetime="2025-10-18T20:39:41.288Z">Sat Oct 18 2025 23:39:41
 | 6 | ![Cover](https://i.discogs.com/TvR0MSs1Gq2fmWhFx8dXEmy1k-7rl60gdTlAsfaKG9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODkz/OC0xMzc2OTM3NTMy/LTMwNjguanBlZw.jpeg) | 1998-03-30 | Arvo Part | Kanon Pokajanen |
 | 51 |  | 2000 | Zephyrus | Angelus |
 | 29 |  | 2000-09-25 | Adiemus | Adiemus IV - The Eternal Knot |
+| 40 | ![Cover](https://i.discogs.com/h-2Rdq1OgYlyi4dz2r4PaUu7Fx8WtStxJUvdPvkbZS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjIw/Ny0xMTUzNDYwODA5/LmpwZWc.jpeg) | 2001 | Libera | Luminosa |
 | 86 |  | 2001-09-10 | Karl Jenkins | The Armed Man: A Mass For Peace |
 | 1 | ![Cover](https://i.discogs.com/_8qQaBEaihaFumfGmryG62RKNGDxdE2A4CHOsBno2p8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTA5/OTg5LTE2MDAwMTk5/NTEtNjIyMy5qcGVn.jpeg) | 2003 | The Tallis Scholars | Allegri&#39;s Miserere and Palestrina&#39;s Missa Papae Marcelli |
 | 8 |  | 2003-02-26 | Emilie Autumn | Enchant |
-| 12 |  |  | Nana Vasconcelos &amp; Sami Ateba | Lambarena - Bach to Africa |
-| 15 |  |  | Daniel Elder | The Heart&#39;s Reflection (Music of Daniel Elder) |
-| 18 |  |  | Ensemble Sreteniye | Ancient Church Singing of Byzantine Georgia and Rus |
-| 23 |  |  | Marc-Antoine Charpentier | Trois histoires sacrées |
-| 47 |  |  | Accentus | Fauré: Requiem |
-| 40 | ![Cover](https://i.discogs.com/h-2Rdq1OgYlyi4dz2r4PaUu7Fx8WtStxJUvdPvkbZS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjIw/Ny0xMTUzNDYwODA5/LmpwZWc.jpeg) | 2001 | Libera | Luminosa |
 | 24 | ![Cover](https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg) | 2004 | Various Artists | TAVERNER &amp; TUDOR MUSIC I: The Western Wind |
 | 31 | ![Cover](https://i.discogs.com/3GSe8HIlIb3ZVDN2-kadtGIU9SgLGEN2QkzGP25rwQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDg2/MzctMTMwNDIzNDMw/Ny5qcGVn.jpeg) | 2004 | Maurice Duruflé | DURUFLE: Requiem &#x2F; 4 Motets &#x2F; Prelude and Fugue |
 | 63 | ![Cover](https://i.discogs.com/pp8_wJHY9YpIHO5FTdyK61J0n_cJ9R-EQP6DwJtvXXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzEx/MTI2LTE1MDI4NzIz/NDItNjM2MS5qcGVn.jpeg) | 2004 | Arvo Pärt | PART: Berliner Messe &#x2F; Magnificat &#x2F; Summa |
@@ -80,7 +76,9 @@ Last updated: <time datetime="2025-10-18T20:39:41.288Z">Sat Oct 18 2025 23:39:41
 | 57 | ![Cover](https://i.discogs.com/AkCpa6yKoqr2XMMORPbMvOT21pImtShhq1qf8HccRwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mjc4/NzAtMTQ0OTYzMzc2/OS04ODgxLmpwZWc.jpeg) | 2005 | The Sixteen | Renaissance Music For Inner Peace |
 | 68 | ![Cover](https://i.discogs.com/3jN-vdAdFsZmgA5eDOETfft9hy2CJiJBvdkaeRKyRXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDcx/ODItMTQ3OTAxMDYy/Mi0yMDA5LmpwZWc.jpeg) | 2005 | Tonus Peregrinus | Leonin &#x2F; Perotin: Sacred Music From Notre-Dame Cathedral |
 | 77 | ![Cover](https://i.discogs.com/DGHRKmeWfCzVZiVsuVRJaLbyw7_tc0plpUQYzQjInx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc4/ODAyLTE1ODY0MTg4/MjktNTIyMS5qcGVn.jpeg) | 2005 | Knauskoret | Zero to Hero |
+| 48 | ![Cover](https://i.discogs.com/NhpwvnnJIO309qnc0YNT8h12oMAKxXyE--MpD99h1bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTg3/OTUtMTYyNjcxNjAw/OS0xNjE5LmpwZWc.jpeg) | 2006 | Libera | Angel Voices |
 | 30 | ![Cover](https://i.discogs.com/-1q8BgXB2wx6WbN-wA62TfoBPGCQud9Q-0IuoUrnA8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAx/ODAtMTY3NTY5MDkw/MC0zNDI3LmpwZWc.jpeg) | 2007 | Sequentia | Hildegard von Bingen - Canticles Of Ecstasy |
+| 49 | ![Cover](https://i.discogs.com/5SekMtD2OE_3pxZVufVvVWDmM-N5FzT91kw1Yt8i0To/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDk0/NjYtMTI1ODI5OTMw/Mi5qcGVn.jpeg) | 2007 | Alexander Goldscheider | STABAT MATER |
 | 96 |  | 2007 | George Frideric Handel | Handel: Messiah |
 | 73 | ![Cover](https://i.discogs.com/uGNvq8uiBvpKsaE4gY9VkElOKGpVyWcP_JNyOmJEh4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTYz/OTMyLTE2MjM4Nzc2/ODQtNzMwNy5qcGVn.jpeg) | 2008 | Karl Jenkins | Songs of sanctuary |
 | 75 | ![Cover](https://i.discogs.com/-JyzOPO-M1k1m9TVLotltofTtaNu_EROUdPsARZmVw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTk3/NjMtMTU1MDgyNjgw/MS0yNjkxLmpwZWc.jpeg) | 2008-03-03 | Libera | New Dawn |
@@ -91,11 +89,6 @@ Last updated: <time datetime="2025-10-18T20:39:41.288Z">Sat Oct 18 2025 23:39:41
 | 19 | ![Cover](https://i.discogs.com/Qyj5vg1mTbGFr3dXiopVP_MgunnJlNJ2bYjRxRHbK1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODQy/MDYyLTE1NjIzNTU0/NjUtMzI5OC5wbmc.jpeg) | 2010 | Morten Lauridsen | Lux Aeterna |
 | 99 |  | 2010-02-02 | E.S. Posthumus | Makara |
 | 25 | ![Cover](https://i.discogs.com/KerMCms1vP81eGE9PngbextKHEeoeXJAEwRFwR5mPrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDY0/MDAtMTU3NTQ4NTU2/OS0zNzMzLmpwZWc.jpeg) | 2012-07-09 | Arvo Pärt | De Profundis - Theatre Of Voices - Paul Hillier |
-| 36 |  |  | State Symphony Capella of Russia | Sacred Treasures: Choral Masterworks From Russia |
-| 41 |  |  | Thomas Weelkes | WEELKES: Anthems |
-| 46 |  |  | Orlande de Lassus | LASSUS: Lagrime di San Pietro |
-| 48 | ![Cover](https://i.discogs.com/NhpwvnnJIO309qnc0YNT8h12oMAKxXyE--MpD99h1bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTg3/OTUtMTYyNjcxNjAw/OS0xNjE5LmpwZWc.jpeg) | 2006 | Libera | Angel Voices |
-| 49 | ![Cover](https://i.discogs.com/5SekMtD2OE_3pxZVufVvVWDmM-N5FzT91kw1Yt8i0To/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDk0/NjYtMTI1ODI5OTMw/Mi5qcGVn.jpeg) | 2007 | Alexander Goldscheider | STABAT MATER |
 | 64 | ![Cover](https://i.discogs.com/ehhkFUAbhQDtT7Bs4_4tNEu16oXVm4oaw5k43nxLIUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzAy/MzYtMTM5MzE2NzE2/Mi05ODU3LmpwZWc.jpeg) | 2012-10-30 | Roomful of Teeth | Roomful of Teeth |
 | 98 |  | 2013-07-20 | Julianna Barwick | Nepenthe |
 | 4 | ![Cover](https://i.discogs.com/UL3LXQS4SQG4r6NhYDwCl2a5jQV9jafJ_iBddq6DZy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzI4/ODQtMTQyNzU3Mzk4/Ni01MzI5LmpwZWc.jpeg) | 2014 | Arvo Pärt | Triodion |
@@ -113,6 +106,17 @@ Last updated: <time datetime="2025-10-18T20:39:41.288Z">Sat Oct 18 2025 23:39:41
 | 72 | ![Cover](https://i.discogs.com/Yy-cvZ9gf81eK0XOdkZHddNBzeL-DfvgJitjw2BcGOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDAx/ODIyLTE2NjQ0Nzk2/MjctMTU3My5qcGVn.jpeg) | 2022-09-30 | Björk | Fossora |
 | 80 | ![Cover](https://i.discogs.com/_nArH5IPCd7d6m2t-Q5cZiTHiAW_GLgOU0AkHhCxfMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQy/MjMwLTE2NDI4NTgz/NDMtODgxMC5qcGVn.jpeg) | 2023 | Various Artists | ENGLISH CHORAL MUSIC |
 | 28 | ![Cover](https://i.discogs.com/rUDqAEqpQsV08t-Zx-c_uFdCB5zlnwjjLDLf0zi7Ed4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzMy/NTUyLTE2OTg1MzI4/NjUtNTU2OS5qcGVn.jpeg) | 2023-10-17 | Blizzard Entertainment | Diablo III Soundtrack |
+| 12 |  |  | Nana Vasconcelos &amp; Sami Ateba | Lambarena - Bach to Africa |
+| 15 |  |  | Daniel Elder | The Heart&#39;s Reflection (Music of Daniel Elder) |
+| 18 |  |  | Ensemble Sreteniye | Ancient Church Singing of Byzantine Georgia and Rus |
+| 21 |  |  | State Symphony Capella of Russia | Sacred Treasures V: From a Russian Cathedral |
+| 23 |  |  | Marc-Antoine Charpentier | Trois histoires sacrées |
+| 36 |  |  | State Symphony Capella of Russia | Sacred Treasures: Choral Masterworks From Russia |
+| 37 |  |  | The Mystery Of The Bulgarian Voices | BooCheeMish |
+| 41 |  |  | Thomas Weelkes | WEELKES: Anthems |
+| 46 |  |  | Orlande de Lassus | LASSUS: Lagrime di San Pietro |
+| 47 |  |  | Accentus | Fauré: Requiem |
+| 61 |  |  | St.Petersburg Chamber Choir | Sacred Choral Music from Russia |
 
 ### Related genres
 

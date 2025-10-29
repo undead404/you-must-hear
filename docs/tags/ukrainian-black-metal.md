@@ -14,35 +14,6 @@ Last updated: <time datetime="2025-10-25T06:36:50.577Z">Sat Oct 25 2025 09:36:50
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
 | 60 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f0d0129faff1469ea5a6d680f74e26d9.png) | 1999-08-01 | Hate Forest | Scythia |
-| 1 |  | 2012-05-07 | Святогор | …Поступью Волчьей Да Крыльями Чёрными… |
-| 2 |  |  | Baltair Apocalypse | Надія на переродження (Hope for Rebirth) |
-| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6eff1b40c902d589e352cc984c75b4f6.png) |  | Nathreism | Архаїчні сни |
-| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/26b3cf73bdab48a7a2976ce11507be19.png) | 2012-04-26 | Agruss | Morok |
-| 5 |  |  | Nokturnal Mortum (Харьков) | Weltanschauung |
-| 12 |  |  | Inner Suffering | Zephyr |
-| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/31da6e60612140b09efc63451e5551ea.png) | 2012 | Symuran | Круговорот Нави |
-| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fcd1725a7e869fb42909807624838ffd.png) | 2020-01-05 | svrm | Занепад |
-| 8 |  |  | Hate Forest (Ukraine) | Celestial Wanderer |
-| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f5fe580317c62f48ae85679ba4027994.png) |  | Chortoryi | Мисливці (The Hunters) |
-| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d8ba72ff08835517ff815e1659c8bf9c.png) |  | Malencontre | 13 |
-| 16 |  |  | Inner Suffering | Suffer No More |
-| 20 |  |  | Inner Suffering | Downfall |
-| 22 |  |  | Inner Suffering | No Hope For Tomorrow |
-| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b6303f7a9a88638ca1e4e2d2ba6b64a6.png) |  | Khors | Extinct Candles of Dead Cities |
-| 24 |  |  | Inner Suffering | The Void Inside |
-| 26 |  |  | Inner Suffering | Empty Existence |
-| 27 |  |  | Inner Suffering | All that I&#39;ve got |
-| 28 |  |  | Nokturnal Mortum (Харьков) | Lunar Poetry |
-| 30 |  |  | Hate Forest (Ukraine) | Hour of the Centaur |
-| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/203a762b105f4c73cc323df67a4959fa.png) |  | Endless Battle | Brotherhood of Hate |
-| 32 |  |  | Inner Suffering | Sickness |
-| 35 |  |  | Inner Suffering | Mists Of Eternity |
-| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b67600048d896e5fedaf978ebf10100a.png) |  | Burshtyn | Безвірник |
-| 38 |  |  | Hate Forest (Ukraine) | Scythia |
-| 40 |  |  | Белодух | Demo |
-| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/db256a3769713fc16c66319b1cad47f2.png) |  | MERZOTNA POTVORA | Poliuvannia |
-| 45 |  |  | Inner Suffering | Endless Mourning |
-| 46 |  |  | Inner Suffering | Forlorn |
 | 47 |  | 2001 | Inner Suffering | When Hearts Grow Cold |
 | 57 |  | 2001 | Inner Suffering | It&#39;s All the Same in the End |
 | 61 |  | 2002 | The Black Sea | Неминучість |
@@ -79,9 +50,12 @@ Last updated: <time datetime="2025-10-25T06:36:50.577Z">Sat Oct 25 2025 09:36:50
 | 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f00e508a833b407997ff0538fe0cff09.png) | 2011 | Заводь | Ягна |
 | 59 | ![Cover](https://i.discogs.com/AIiawOGL65gY2fyHaXhvDc23gtRiJmVf5asfG_9-Ipg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODU2/ODMtMTQ1MDkwNTc5/Mi02NDA5LmpwZWc.jpeg) | 2011-01 | Vöedtæmhtëhactått | 666 Majiestiis Sverghs Aoreu |
 | 80 |  | 2011-03-22 | Ygg | Ygg |
+| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/31da6e60612140b09efc63451e5551ea.png) | 2012 | Symuran | Круговорот Нави |
 | 13 | ![Cover](https://i.discogs.com/u7RTWujpaMy2SzWdp9B-GpG79VLQg6gpBzPkTU3cW0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzc2/NjItMTQxMzAxMjk5/NC0zMTQ1LmpwZWc.jpeg) | 2012 | Dross Delnoch | В Вихре Веков |
 | 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/471b41082d35587e1aa737d162f9dd7e.png) | 2012-01-30 | Zgard | Reclusion |
+| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/26b3cf73bdab48a7a2976ce11507be19.png) | 2012-04-26 | Agruss | Morok |
 | 64 |  | 2012-04-28 | Mlekra | 0105 |
+| 1 |  | 2012-05-07 | Святогор | …Поступью Волчьей Да Крыльями Чёрными… |
 | 82 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6749d86e2f2340c5bbc574e13a20c7ce.png) | 2013-05 | Kroda | Kulturkampf |
 | 74 |  | 2014 | Ungern | Steppenwolf |
 | 91 |  | 2014-02-20 | Moloch | Verwüstung |
@@ -100,11 +74,9 @@ Last updated: <time datetime="2025-10-25T06:36:50.577Z">Sat Oct 25 2025 09:36:50
 | 53 |  | 2018-11-23 | Stryvigor | Шлях завдовжки у нескінченність |
 | 58 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4a64f9d097f296e02f86412f3f67d7d2.png) | 2018-12-25 | svrm | Згарище |
 | 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f4a7603887be61421ee9175c6bd2093d.png) | 2019-01-31 | Goatflesh | Pilgrimage to Icon of Sin |
-| 62 |  | 2020-04-24 | Setoml | Reincarnation |
-| 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fcb75b1a7f5e9a22baa47738d1c6c418.png) |  | YGG | Ygg |
-| 76 |  |  | Kristaliis | The Lovers |
-| 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e0ab20b94f5ad99e51e7cb1418d10011.png) |  | Ieschure | When the Darkness Comes |
 | 85 |  | 2019-06-21 | Eskapism | Ancient Songs of the Wind |
+| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fcd1725a7e869fb42909807624838ffd.png) | 2020-01-05 | svrm | Занепад |
+| 62 |  | 2020-04-24 | Setoml | Reincarnation |
 | 14 |  | 2021 | Zgard | У вирi чорної снаги |
 | 89 |  | 2021-02-01 | Ulvegr | Арктогея |
 | 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f84c8beca4f7a6dbf5636aad98b2439b.png) | 2022-02-20 | svrm | Червів майбутня здобич |
@@ -113,6 +85,34 @@ Last updated: <time datetime="2025-10-25T06:36:50.577Z">Sat Oct 25 2025 09:36:50
 | 15 | ![Cover](https://i.discogs.com/Cs_XsTnGCoKihCLiqYK-jRXl04URpqlLC5MsByv78Ak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODg5/MjgxLTE3MTgzMDcw/NTAtOTk3OS5qcGVn.jpeg) | 2024-02-12 | До Скону | Pour out Your wrath upon the nations which do not know You, And upon the kingdoms which do not call upon Your name |
 | 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dc44a74c472927de3bfc131ebf45bcea.png) | 2024-03-18 | svrm | .​.​. а с​м​е​р​т​ь в​в​і​й​ш​л​а у т​е​б​е в​ж​е д​а​в​н​о |
 | 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a38b6dd195ba9d62993e84a66e2f0ead.png) | 2024-08-09 | Ангел | Шабаш на лысой горе |
+| 2 |  |  | Baltair Apocalypse | Надія на переродження (Hope for Rebirth) |
+| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6eff1b40c902d589e352cc984c75b4f6.png) |  | Nathreism | Архаїчні сни |
+| 5 |  |  | Nokturnal Mortum (Харьков) | Weltanschauung |
+| 8 |  |  | Hate Forest (Ukraine) | Celestial Wanderer |
+| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f5fe580317c62f48ae85679ba4027994.png) |  | Chortoryi | Мисливці (The Hunters) |
+| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d8ba72ff08835517ff815e1659c8bf9c.png) |  | Malencontre | 13 |
+| 12 |  |  | Inner Suffering | Zephyr |
+| 16 |  |  | Inner Suffering | Suffer No More |
+| 20 |  |  | Inner Suffering | Downfall |
+| 22 |  |  | Inner Suffering | No Hope For Tomorrow |
+| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b6303f7a9a88638ca1e4e2d2ba6b64a6.png) |  | Khors | Extinct Candles of Dead Cities |
+| 24 |  |  | Inner Suffering | The Void Inside |
+| 26 |  |  | Inner Suffering | Empty Existence |
+| 27 |  |  | Inner Suffering | All that I&#39;ve got |
+| 28 |  |  | Nokturnal Mortum (Харьков) | Lunar Poetry |
+| 30 |  |  | Hate Forest (Ukraine) | Hour of the Centaur |
+| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/203a762b105f4c73cc323df67a4959fa.png) |  | Endless Battle | Brotherhood of Hate |
+| 32 |  |  | Inner Suffering | Sickness |
+| 35 |  |  | Inner Suffering | Mists Of Eternity |
+| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b67600048d896e5fedaf978ebf10100a.png) |  | Burshtyn | Безвірник |
+| 38 |  |  | Hate Forest (Ukraine) | Scythia |
+| 40 |  |  | Белодух | Demo |
+| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/db256a3769713fc16c66319b1cad47f2.png) |  | MERZOTNA POTVORA | Poliuvannia |
+| 45 |  |  | Inner Suffering | Endless Mourning |
+| 46 |  |  | Inner Suffering | Forlorn |
+| 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fcb75b1a7f5e9a22baa47738d1c6c418.png) |  | YGG | Ygg |
+| 76 |  |  | Kristaliis | The Lovers |
+| 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e0ab20b94f5ad99e51e7cb1418d10011.png) |  | Ieschure | When the Darkness Comes |
 
 ### Related genres
 

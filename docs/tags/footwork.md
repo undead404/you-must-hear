@@ -9,6 +9,10 @@ title: footwork
 
 Last updated: <time datetime="2025-10-18T11:53:01.182Z">Sat Oct 18 2025 14:53:01 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Footwork is a fast-paced electronic music genre originating from Chicago&#39;s dance scene, characterized by frenetic 160 BPM rhythms and chopped vocal samples. The style emphasizes syncopated percussion and jittery bass that propel competitive dancers. It blends elements of house, juke, and hip-hop into an intensely kinetic sound.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |

@@ -9,6 +9,10 @@ title: yacht rock
 
 Last updated: <time datetime="2025-10-22T16:08:29.575Z">Wed Oct 22 2025 19:08:29 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Yacht rock is a smooth, sophisticated style of soft rock and R&amp;B that emerged in the late 1970s and early 1980s, characterized by polished production, jazz-influenced instrumentation, and mellow vocals. The genre evokes a leisurely, upscale lifestyle with its laid-back grooves and radio-friendly melodies. Its name playfully references the affluent, nautical aesthetic associated with its pristine sound.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -73,7 +77,7 @@ Last updated: <time datetime="2025-10-22T16:08:29.575Z">Wed Oct 22 2025 19:08:29
 | 68 |  | 1985-09-10 | Michael McDonald | No Lookin&#39; Back |
 | 62 | ![Cover](https://i.discogs.com/r-FuIsiQxpB7s4Ql-3YZliuJzTj_GR-ABAy2uyHeOfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI5/NzUtMTM5NTIxNTUy/NS04MDk0LmpwZWc.jpeg) | 1985-11-28 | Christopher Cross | Every Turn Of The World |
 | 69 | ![Cover](https://i.discogs.com/DG2vZze5qnXIjVzgOruhrO08kLycj_JcSmmIPhdf22k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzE1/ODUtMTM2NDcwMTM1/MS05MTQ5LmpwZWc.jpeg) | 1999-06-02 | SUGAR BABE | SONGS |
-| 79 |  | 2002-03 | Robert John | Classic Masters |
+| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a1a037575e2b4351929d0180bd051bff.png) | 2002-03 | Robert John | Classic Masters |
 | 63 |  | 2006-02-07 | Gino Vannelli | These Are The Days |
 | 100 | ![Cover](https://i.discogs.com/GOyb9mESfUNlvPG69R4XtSdt_bMeFhyHi68aeqqQp9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjI5/OC0xNTUyNTAzNDAw/LTcxMzQuanBlZw.jpeg) | 2006-07-25 | Midlake | The Trials Of Van Occupanther |
 | 22 | ![Cover](https://i.discogs.com/hkLnRFA2DcPb386r5QLzLG1xtGkbJz8g29Md7VPjwJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTI3/MTAtMTM2NzAwMTU2/Mi03NjEzLmpwZWc.jpeg) | 2008 | Andreas Aleman | This is life |

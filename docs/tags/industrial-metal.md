@@ -1,13 +1,17 @@
 ---
 category: genre
-date: 2025-10-28T06:35:35.067Z
+date: 2025-10-29T02:05:53.057Z
 permalink: tags/industrial-metal
 title: industrial metal
 ---
 
 ## industrial metal
 
-Last updated: <time datetime="2025-10-28T06:35:35.067Z">Tue Oct 28 2025 08:35:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-29T02:05:53.057Z">Wed Oct 29 2025 04:05:53 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Industrial metal is a subgenre of heavy metal music that incorporates elements of industrial music, such as electronic and experimental sounds, in addition to traditional heavy metal instrumentation. It emerged in the late 1980s and early 1990s, and bands such as Ministry, Nine Inch Nails, and Marilyn Manson are often cited as pioneers of the genre. Industrial metal typically features distorted guitar riffs, electronic beats, and aggressive vocals, as well as sampling and other effects. The lyrics often focus on themes of technology, society, and dystopia.
 
 ### 100 chronological releases
 
@@ -15,7 +19,7 @@ Last updated: <time datetime="2025-10-28T06:35:35.067Z">Tue Oct 28 2025 08:35:35
 |---|---|---|---|---|
 | 54 |  | 1989-11-10 | Ministry | The Mind Is a Terrible Thing to Taste |
 | 41 |  | 1989-11-13 | Godflesh | Streetcleaner |
-| 5 | ![Cover](https://i.discogs.com/iHmeNHkhk3mQMavvL6k1JmxKTI0Z38ypC6R-8ZezM1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODg1/My0xNTc5NTczNDkw/LTc5MjguanBlZw.jpeg) | 1992 | Big Black | Atomizer (Remastered) |
+| 6 | ![Cover](https://i.discogs.com/iHmeNHkhk3mQMavvL6k1JmxKTI0Z38ypC6R-8ZezM1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODg1/My0xNTc5NTczNDkw/LTc5MjguanBlZw.jpeg) | 1992 | Big Black | Atomizer (Remastered) |
 | 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5e76460c6f593c075ef69252a9ec9079.png) | 1992-09-21 | Nine Inch Nails | Broken |
 | 18 |  | 1994 | Prong | Cleansing |
 | 14 | ![Cover](https://i.discogs.com/WzOM9TpViF8K72g_qWIs8QEhdDp9FaXDxPzGLAZtES8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzQ1/Mi0xMzk3OTg5MDMx/LTUzODguanBlZw.jpeg) | 1994-03-08 | Nailbomb | Point Blank |
@@ -42,8 +46,7 @@ Last updated: <time datetime="2025-10-28T06:35:35.067Z">Tue Oct 28 2025 08:35:35
 | 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b9e61df98a7982fb60cc397c0f4cc4fd.png) | 1999-09-14 | Dope | Felons and Revolutionaries |
 | 30 |  | 1999-11-15 | Marilyn Manson | The Last Tour On Earth |
 | 20 |  | 1999-12-24 | Pain | Rebirth |
-| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4d6c5feeda5d5fe8dc943d9e726030d2.png) | 2000-07-18 | The Union Underground | ...An Education In Rebellion |
-| 1 | ![Cover](https://i.discogs.com/4-A6t4fJCp6mpGPjzbjR5kcs-8jtuYkOuuuirBmPDnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Mzk5/OC0xMTgwNzA2MzMz/LmpwZWc.jpeg) | 2000-10-02 | Theatre of Tragedy | Musique |
+| 2 | ![Cover](https://i.discogs.com/4-A6t4fJCp6mpGPjzbjR5kcs-8jtuYkOuuuirBmPDnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Mzk5/OC0xMTgwNzA2MzMz/LmpwZWc.jpeg) | 2000-10-02 | Theatre of Tragedy | Musique |
 | 62 | ![Cover](https://i.discogs.com/TuvsNW_iEFOc6hDGJWnjjfNS6x7Wh_jns5NGUwVXlPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTAz/MS0xNjU3OTYxOTU2/LTk1NDcuanBlZw.jpeg) | 2000-10-02 | Spineshank | The Height of Callousness |
 | 32 |  | 2000-11-11 | Marilyn Manson | Holy Wood (In The Shadow Of The Valley Of Death) |
 | 33 |  | 2001-02-01 | Rammstein | Sonne |
@@ -73,7 +76,7 @@ Last updated: <time datetime="2025-10-28T06:35:35.067Z">Tue Oct 28 2025 08:35:35
 | 28 |  | 2004-10-11 | Samael | Reign of Light |
 | 45 |  | 2005-03-21 | Pain | Dancing With the Dead |
 | 63 | ![Cover](https://i.discogs.com/q8Do-vBDMsmprIZVP9rYS7PiKVfRPce53bv-ZP3kYAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mjgy/MS0xMTUxNzEzODE3/LmpwZWc.jpeg) | 2005-03-21 | Strapping Young Lad | Alien |
-| 6 |  | 2005-04-13 | Turmion Kätilöt | Niuva 20 |
+| 7 |  | 2005-04-13 | Turmion Kätilöt | Niuva 20 |
 | 69 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6a9abd39b7e57420c671eae4ebc31c3b.png) | 2005-06-14 | Static-X | Start a War |
 | 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/92c9fc50734aff1884edd9616834f28d.png) | 2005-07-26 | Dope | American Apathy |
 | 12 |  | 2005-08-22 | Fear Factory | Transgression |
@@ -88,27 +91,28 @@ Last updated: <time datetime="2025-10-28T06:35:35.067Z">Tue Oct 28 2025 08:35:35
 | 61 |  | 2007-04-03 | Static-X | Cannibal |
 | 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ddcd351632754a608694efe11a1188a0.png) | 2007-04-18 | Pain | Psalms of Extinction |
 | 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/857f1b0dc7924628c6392fb9e51bd27d.png) | 2007-08-31 | Emigrate | Emigrate |
-| 3 | ![Cover](https://i.discogs.com/H2cRmtoFZHY46AMFH93dLWgnF-Y4ccr8HrD0h_prSRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE0/MTItMTI0OTQzMzMz/Ni5qcGVn.jpeg) | 2007-09-11 | Sybreed | Antares |
+| 4 | ![Cover](https://i.discogs.com/H2cRmtoFZHY46AMFH93dLWgnF-Y4ccr8HrD0h_prSRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE0/MTItMTI0OTQzMzMz/Ni5qcGVn.jpeg) | 2007-09-11 | Sybreed | Antares |
 | 37 |  | 2008-08-20 | Oomph! | Monster |
 | 36 |  | 2008-10-28 | Pain | Cynic Paradise |
 | 43 |  | 2009-01-30 | Deathstars | Night Electric Night |
-| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4b968db6e75842f8a4fa847cececa1e1.png) | 2009-03-13 | Static-X | Cult of Static |
+| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4b968db6e75842f8a4fa847cececa1e1.png) | 2009-03-13 | Static-X | Cult of Static |
 | 82 | ![Cover](https://i.discogs.com/Q9hIYDm-43cprfPlG-MH7w9dHrGCgx1WQnvlBNZ_C8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg3/NzktMTI2OTk4MTM1/Ni5qcGVn.jpeg) | 2009-10-16 | Rammstein | Liebe ist für alle da |
 | 38 |  | 2009-11-13 | Justin Bieber | My World |
 | 40 |  | 2010-02-09 | Fear Factory | Mechanize |
 | 39 |  | 2012-08-12 | In This Moment | Blood |
 | 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/78fa66f476a14a74966647c406b67f51.png) | 2013-04-19 | Rob Zombie | Venomous Rat Regeneration Vendor |
 | 59 |  | 2014-09-15 | Motionless in White | Reincarnate |
+| 1 | ![Cover](https://i.discogs.com/-f4k0PNzNg1AmUSYHH-eD_JLHb0mAMFyKnxqrLchi0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjg1/MjItMTU0Mzg5MjA4/MS04NzA3LnBuZw.jpeg) | 2014-11-07 | Emigrate | Silent so long |
 | 49 | ![Cover](https://i.discogs.com/vwgJerWcPzyO7lpbQeDc95mXywrIh7t9bDK2hx0kgdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTA5/OTAtMTM0MzExODM1/Ny0xODg4LmpwZWc.jpeg) | 2015-04-14 | Ministry | Psalm 69 |
 | 57 | ![Cover](https://i.discogs.com/Xaz9nRPQ2zZJ3pXs5pC5dh2uEav40w-L_4RYLTYLC6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjY0/OTQtMTQzMjkyMzk5/Mi0yMDM5LmpwZWc.jpeg) | 2015-06-19 | Lindemann | Skills in Pills |
-| 2 | ![Cover](https://i.discogs.com/Pam-9mWF-kEFFG7HrwbMw6UGiOYkC9HZAkuwwrqZu88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjg1/ODMtMTQ3NjIzOTU5/Ny05NjgwLmpwZWc.jpeg) | 2016-09-29 | Mick Gordon | DOOM (Original Game Soundtrack) |
+| 3 | ![Cover](https://i.discogs.com/Pam-9mWF-kEFFG7HrwbMw6UGiOYkC9HZAkuwwrqZu88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjg1/ODMtMTQ3NjIzOTU5/Ny05NjgwLmpwZWc.jpeg) | 2016-09-29 | Mick Gordon | DOOM (Original Game Soundtrack) |
 | 83 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8940190193debafcd59c1fccc506595a.png) | 2017-05-19 | Rammstein | Zeit |
-| 8 | ![Cover](https://i.discogs.com/XvsrVY75TYedF7e9AC8idItsTE5tPihb_dGwi3uD3nE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/MTQxLTE0OTQzNjQ1/MTUtNzUzOS5qcGVn.jpeg) | 2017-09-29 | Motionless in White | Graveyard Shift |
+| 9 | ![Cover](https://i.discogs.com/XvsrVY75TYedF7e9AC8idItsTE5tPihb_dGwi3uD3nE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/MTQxLTE0OTQzNjQ1/MTUtNzUzOS5qcGVn.jpeg) | 2017-09-29 | Motionless in White | Graveyard Shift |
 | 27 | ![Cover](https://i.discogs.com/VM98MjHWqhclQMKzDfGpIM0Lvlx1YQsuVmJ80Ns7WIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDY3/OTU3LTE1ODYyNjIw/MDUtMzI4Mi5qcGVn.jpeg) | 2019 | SKYND | Chapter II |
 | 13 | ![Cover](https://i.discogs.com/BWK2zAbiDiRYHJEBY4s1m2poHPMht2F_oDg9vyYpu3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQw/MTY1LTE1Nzg3MTYy/NzEtNzI4OC5qcGVn.jpeg) | 2020-01-10 | Code Orange | Underneath |
 | 78 | ![Cover](https://i.discogs.com/CQSmZ71y_xZSr1uDIAp_MCJPYOeDwTYW-RnQaogwGAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTMx/ODEzLTE2MDM5NzMy/MTktNTM4OC5qcGVn.jpeg) | 2020-10-30 | Bring Me the Horizon | POST HUMAN: SURVIVAL HORROR |
 | 60 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cf35ae2319c204f9ebdeeed6dec91e5e.png) | 2021-12-14 | Rammstein | Herzeleid (XXV Anniversary Edition – Remastered) |
-| 4 | ![Cover](https://i.discogs.com/GaECk-Odh7W54CdssTlnxY8onVLiciGigb8JCK3uM9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjAx/MjgtMTY3OTc4NTcw/OS03MDY0LmpwZWc.jpeg) | 2023-12-07 | Health | RAT WARS |
+| 5 | ![Cover](https://i.discogs.com/GaECk-Odh7W54CdssTlnxY8onVLiciGigb8JCK3uM9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjAx/MjgtMTY3OTc4NTcw/OS03MDY0LmpwZWc.jpeg) | 2023-12-07 | Health | RAT WARS |
 | 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dbe4b1469b50ae4f91ecaa42f72b619b.png) |  | HEALTH | RAT WARS |
 | 68 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/012c4908748d725b143cf2426d35faaf.png) |  | ✝✝✝ (Crosses) | ††† (Crosses) |
 | 76 | ![Cover](https://i.discogs.com/BRGuI5971HzfVUURHhmj4Nerw3-iYLPTLtyP110PhzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDg2/OTUxLTE2MDMxOTg3/MTctNDYzOS5qcGVn.jpeg) | 2020 | GhosteMane | ANTI-ICON |

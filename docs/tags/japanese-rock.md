@@ -1,67 +1,45 @@
 ---
 category: genre
-date: 2025-10-25T13:54:16.306Z
+date: 2025-10-29T02:05:28.659Z
 permalink: tags/japanese-rock
 title: japanese rock
 ---
 
 ## japanese rock
 
-Last updated: <time datetime="2025-10-25T13:54:16.306Z">Sat Oct 25 2025 16:54:16 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-29T02:05:28.659Z">Wed Oct 29 2025 04:05:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 | ![Cover](https://i.discogs.com/2To50FBeXiihKazcrlOqsxgf_miohBjI8122qgXqAxQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODQy/MTUtMTQ4NzkzOTA0/OC0zMjY4LmpwZWc.jpeg) | 2017-01-18 | INABA &#x2F; SALAS | CHUBBY GROOVE |
-| 2 |  |  | Polkadot Stingray | Ichidaiji - EP |
+| 1 |  |  | Polkadot Stingray | Ichidaiji - EP |
+| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0618219048ff677a4d68a2e9a382330b.png) | 1986-11-21 | 聖飢魔II | 地獄より愛をこめて |
 | 9 |  |  | 志方あきこ | Byakumu no Mayu ～Ricordando il passato～ |
-| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0618219048ff677a4d68a2e9a382330b.png) | 1986-11-21 | 聖飢魔II | 地獄より愛をこめて |
 | 18 | ![Cover](https://i.discogs.com/Foi7TU1vloUJKbbATgd-mnBnOcs10LT20gtFn1uD2e0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTkx/OTYtMTQ0ODI1ODU0/MC0yMjU0LmpwZWc.jpeg) | 1987 | After... | After |
-| 49 | ![Cover](https://i.discogs.com/nT6mYAakIIG74FxlQhzR_tpevs55rk2HdDxwIdGVqPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTM5/NzY5LTE1NDg3NjIx/MDEtNDM1Mi5qcGVn.jpeg) | 1990-05-31 | D&#39;erlanger | BASILISK |
+| 48 | ![Cover](https://i.discogs.com/nT6mYAakIIG74FxlQhzR_tpevs55rk2HdDxwIdGVqPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTM5/NzY5LTE1NDg3NjIx/MDEtNDM1Mi5qcGVn.jpeg) | 1990-05-31 | D&#39;erlanger | BASILISK |
 | 15 | ![Cover](https://i.discogs.com/mW6WNEvfCE1k-X60RIhFv7SwPKZm-YGdXYbPb3zsd_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzkx/MzQtMTQwOTE2OTA3/OC05NzQ5LmpwZWc.jpeg) | 1993-04-27 | L&#39;Arc~en~Ciel | DUNE |
-| 38 | ![Cover](https://i.discogs.com/jCEtm3UX2g_mQNrpiLTaSiypCtwLSpTpwuzQxT5r4sw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQy/MTI1LTE1ODA2ODEz/ODUtMTEyOC5qcGVn.jpeg) | 1994-02-23 | BAAD | BAAD |
+| 37 | ![Cover](https://i.discogs.com/jCEtm3UX2g_mQNrpiLTaSiypCtwLSpTpwuzQxT5r4sw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQy/MTI1LTE1ODA2ODEz/ODUtMTEyOC5qcGVn.jpeg) | 1994-02-23 | BAAD | BAAD |
 | 7 | ![Cover](https://i.discogs.com/YxKEP6X5L8tHZLPlOkZC-_ntPM8O-CX4Ehac43JV3CM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NjctMTM0MzkzNzg3/Ny05MDgzLmpwZWc.jpeg) | 1996 | GLAY | Beautiful Dreamer |
-| 43 | ![Cover](https://i.discogs.com/YxKEP6X5L8tHZLPlOkZC-_ntPM8O-CX4Ehac43JV3CM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NjctMTM0MzkzNzg3/Ny05MDgzLmpwZWc.jpeg) | 1996 | GLAY | REVIEW～BEST OF GLAY |
-| 27 | ![Cover](https://i.discogs.com/YxKEP6X5L8tHZLPlOkZC-_ntPM8O-CX4Ehac43JV3CM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NjctMTM0MzkzNzg3/Ny05MDgzLmpwZWc.jpeg) | 1997-08-06 | GLAY | DRIVE ～GLAY complete BEST～ |
+| 42 | ![Cover](https://i.discogs.com/YxKEP6X5L8tHZLPlOkZC-_ntPM8O-CX4Ehac43JV3CM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NjctMTM0MzkzNzg3/Ny05MDgzLmpwZWc.jpeg) | 1996 | GLAY | REVIEW～BEST OF GLAY |
+| 26 | ![Cover](https://i.discogs.com/YxKEP6X5L8tHZLPlOkZC-_ntPM8O-CX4Ehac43JV3CM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NjctMTM0MzkzNzg3/Ny05MDgzLmpwZWc.jpeg) | 1997-08-06 | GLAY | DRIVE ～GLAY complete BEST～ |
 | 22 | ![Cover](https://i.discogs.com/FlCi50DntWqh7cRXOTKiL0TvviLTHdJ2i6JD3cL-t5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU5/MTktMTM0Mzk0NjIw/MC01NTgxLmpwZWc.jpeg) | 1998-03-25 | L&#39;Arc~en~Ciel | Dune [HML-009] |
-| 39 | ![Cover](https://i.discogs.com/zI5k0dTDWpBBVRPny8sUFIx8OktrOUI4Lto_EtZfgu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjYz/OTItMTUwMzkwNTY3/Ny00OTI1LmpwZWc.jpeg) | 2000 | Laputa | 翔～カケラ～裸 |
+| 38 | ![Cover](https://i.discogs.com/zI5k0dTDWpBBVRPny8sUFIx8OktrOUI4Lto_EtZfgu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjYz/OTItMTUwMzkwNTY3/Ny00OTI1LmpwZWc.jpeg) | 2000 | Laputa | 翔～カケラ～裸 |
 | 23 | ![Cover](https://i.discogs.com/V84nf-geNMbz21dmDbIHGzUEuNfqCN_FFVgpwP-spYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTA3/MDItMTUxNTk3NzY1/NS03NzI0LmpwZWc.jpeg) | 2001-05-30 | X Japan | LIVE LIVE LIVE |
 | 14 | ![Cover](https://i.discogs.com/0jrnbYGitPduE04fxRNM89oPQoM_ONqhg8rcyEj_7kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODk2/ODItMTQxMDc5ODg2/NC0yMzE5LmpwZWc.jpeg) | 2002-03-06 | Kagrra, | Yume Izuru Chi |
 | 21 | ![Cover](https://i.discogs.com/-Bwm6X33ryeX3XuK_R7SkecVVNsvytyqJwvbLR180HU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTgz/Nzk1LTE1NDk1Mzcx/NjItNzYyNS5qcGVn.jpeg) | 2002-06-19 | TAKUI | CHUNKY GOD POP |
-| 33 | ![Cover](https://i.discogs.com/l43jSQCju-pJWznUAvnKzJU5hs5PBW3nQnA_LAi-K4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzU2/ODItMTQwNzg0Mjk0/OC00NTIyLmpwZWc.jpeg) | 2002-09-19 | GLAY | Unity Roots and Familly Away |
+| 32 | ![Cover](https://i.discogs.com/l43jSQCju-pJWznUAvnKzJU5hs5PBW3nQnA_LAi-K4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzU2/ODItMTQwNzg0Mjk0/OC00NTIyLmpwZWc.jpeg) | 2002-09-19 | GLAY | Unity Roots and Familly Away |
 | 11 | ![Cover](https://i.discogs.com/q0yWle0RQ_EjTIunplIKUwTsMkvcxlreyQ4jrbpeXiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjM3/NTUtMTM1MDYzMzQ4/NC02NjU1LmpwZWc.jpeg) | 2002-12-11 | Mr.Children | HERO |
 | 20 | ![Cover](https://i.discogs.com/vWohjMJC5ofsz1kaLILbv2ixzmO2J7BWtT8zedyN39I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTg3/MDctMTU4MTM1NjM4/Ny0yNzE4LmpwZWc.jpeg) | 2003-02-05 | GLAY | rare collectives vol.1 |
-| 29 |  | 2003-03-19 | ゆず | すみれ |
+| 28 |  | 2003-03-19 | ゆず | すみれ |
 | 5 | ![Cover](https://i.discogs.com/rX_Cuyv9yU6z6n2fzJ6shFTf-hr5Dztnp5jhThResfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzg4/NDgtMTQxMDUxNTYz/My02OTA5LmpwZWc.jpeg) | 2003-07-30 | Kagrra, | kamiuta |
 | 13 | ![Cover](https://i.discogs.com/rX_Cuyv9yU6z6n2fzJ6shFTf-hr5Dztnp5jhThResfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzg4/NDgtMTQxMDUxNTYz/My02OTA5LmpwZWc.jpeg) | 2003-07-30 | Kagrra, | kakashi |
-| 46 | ![Cover](https://i.discogs.com/k14vLMkhiEthMEFY8RVRshOgwo1Q2RDZWyFzkJTq7JM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU0/MzQtMTIzNjI3MjUy/Ni5qcGVn.jpeg) | 2003-12-17 | ORANGE RANGE | 1st CONTACT |
-| 26 |  | 2004-01-28 | m.o.v.e | Deep Calm |
-| 30 |  | 2004-06-23 | グループ魂 | 荒ぶる日本の魂たち |
-| 10 | ![Cover](https://i.discogs.com/gGBfltL9JvRiKRvlN02uaaC9MFVrsTjvhD7R0C_ovBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODIz/MjYtMTQxMDYxNzUy/NC0xMDIzLmpwZWc.jpeg) | 2005-11-23 | Kagrra, | irohanihoheto |
-| 3 | ![Cover](https://i.discogs.com/34LSL77jas3Ky5WE4n0w3vldUizZxKBsBs9NvXJ86TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODA5/MzUtMTQ2MDQ5MTc1/Ni0zNTEwLmpwZWc.jpeg) | 2008 | Kagrra, | Fuunroku |
-| 17 | ![Cover](https://i.discogs.com/PVaqJ1Bl6frgG0keO6pFrd7P7nyewm39GGGwihw3QTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjc3/ODQtMTM0NTk5MDUw/OC01ODYxLmpwZWc.jpeg) | 2008-09-10 | GLAY | 紅と黒のMATADORA&#x2F;I LOVE YOUをさがしてる |
-| 28 |  |  | グループ魂 | Run魂Run |
-| 37 |  | 2004-11-25 | 東京事変 | 教育 |
-| 44 | ![Cover](https://i.discogs.com/34LSL77jas3Ky5WE4n0w3vldUizZxKBsBs9NvXJ86TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODA5/MzUtMTQ2MDQ5MTc1/Ni0zNTEwLmpwZWc.jpeg) | 2008 | Kagrra, | Haru Urara |
-| 16 | ![Cover](https://i.discogs.com/D6dktUvOMQe0bMuco-ueUrCMUJX4ujr2wcwGzsk8LBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTUz/MzQ5LTE1Nzc0NDgy/MjUtMjYzNy5qcGVn.jpeg) | 2010 | The Ricecookers | NAMInoYUKUSAKI ～ TV SPECial COLLECTION |
-| 32 | ![Cover](https://i.discogs.com/bigIBKdqSJVihQmwZ8bYMlipFBzzJO8ptQ_R_ng9X94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTI3/ODUtMTQyMzA4NDUy/Ny04NDExLmpwZWc.jpeg) | 2010-05-26 | Boom Boom Satellites | On The Painted Desert - Rampant Colors |
-| 34 | ![Cover](https://i.discogs.com/_V08JAvMmrCP0la9tXrXrDjy7OOBRh0bz8qgpmIRqSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTEy/NTA5LTE1ODY4MjA5/NDEtNjQwNS5qcGVn.jpeg) | 2011-01-19 | LOST ASH | overHORIZON |
-| 42 | ![Cover](https://i.discogs.com/XGYolCdToh9zIGna8QgJ4oxfTEkmqmncY7GiYLSHqjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjk5/OTA0LTE2MDY4NDI5/NTctNDI5Mi5qcGVn.jpeg) | 2011-11-23 | ピロカルピン | 夕暮れ |
-| 31 | ![Cover](https://i.discogs.com/ebykuG3RMadfHrIoWm0dQHKqwadg-fFLlsuPtpivyrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjAy/MDgtMTQyOTUyOTU2/Mi02MDU5LmpwZWc.jpeg) | 2012-02-08 | Roach | No Reason in the Pit |
-| 35 |  | 2012-02-08 | winnie | Forget me not |
-| 8 | ![Cover](https://i.discogs.com/-hFgL3T0rUc7PkTVMJTwU3o-eCasfFJdJVeqXZaO_8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzA0/NTktMTQyMTM0OTI0/Ny00NzYxLmpwZWc.jpeg) | 2012-04-29 | Goddess | Discovery |
-| 24 | ![Cover](https://i.discogs.com/MYXbWbnVpqlYK9FKk4mTeIHATIvwsjJBvYHFXHJchDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDc2/NTEtMTUyODczNDUx/MC0zMzYxLmpwZWc.jpeg) | 2012-12-15 | Brats | Ainikoiyo &#x2F; Nounai Shoukyo Game (International Version) |
-| 40 |  | 2013-09-04 | AvelCain | 自責の筵 |
-| 48 | ![Cover](https://i.discogs.com/0WpqAn7n9VUpiqZAv4Rg09SGKuGcTXhZ_AoRIkIx2wU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDA1LTE1NjQ4NzQx/NzYtODIxMy5qcGVn.jpeg) | 2017-04-12 | GLIM SPANKY | I STAND ALONE |
-| 6 | ![Cover](https://i.discogs.com/-ZJCBUz3p_GE8ic1Nt5W7gQFXIppECHDHOK2uzVwtd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjg2/NTkyLTE0OTQ2ODc3/NTctNDYxNC5qcGVn.jpeg) | 2017-04-21 | tricot | Melon Soda |
-| 47 | ![Cover](https://i.discogs.com/4vozXcZZ3PfvwLc3D_ueUAs4Bv1mtm3oOizpSWJ2xKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDc0/MDEtMTY1NjMxOTc2/OS01ODk4LmpwZWc.jpeg) | 2018-05-30 | L&#39;Arc~en~Ciel | Dune 10th Anniversary Edition |
-| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7e1b8d7d7ecd7d713c6de331c7bb866b.png) | 2019 | Haru Nemuri | harutosyura |
-| 4 |  | 2023-03-31 | Canary Complex | The Tragic Dance of Dying Leaves |
-| 12 |  |  | 工藤晴香 | Under the Sun |
-| 19 |  |  | Death★Rabbits | Heipo no Gyaku Shou |
-| 36 |  |  | グループ魂 | TMC |
+| 45 | ![Cover](https://i.discogs.com/k14vLMkhiEthMEFY8RVRshOgwo1Q2RDZWyFzkJTq7JM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU0/MzQtMTIzNjI3MjUy/Ni5qcGVn.jpeg) | 2003-12-17 | ORANGE RANGE | 1st CONTACT |
+| 25 |  | 2004-01-28 | m.o.v.e | Deep Calm |
+| 29 |  | 2004-06-23 | グループ魂 | 荒ぶる日本の魂たち |
 | 51 |  | 2004-06-23 | 櫻井敦司 | 愛の惑星 |
+| 36 |  | 2004-11-25 | 東京事変 | 教育 |
+| 10 | ![Cover](https://i.discogs.com/gGBfltL9JvRiKRvlN02uaaC9MFVrsTjvhD7R0C_ovBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODIz/MjYtMTQxMDYxNzUy/NC0xMDIzLmpwZWc.jpeg) | 2005-11-23 | Kagrra, | irohanihoheto |
 | 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dbcdbd49a7c83151115fb9e2ace2f293.png) |  | Guitar Vader | Die Happy! |
 | 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8cf708c235fae70c8079be191d4e1841.png) | 1991-02-21 | BUCK-TICK | 狂った太陽 |
 | 66 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3e448c995eab498da82bfd808a7c1bb9.png) | 1995-11-22 | B&#39;z | Loose |
@@ -81,13 +59,35 @@ Last updated: <time datetime="2025-10-25T13:54:16.306Z">Sat Oct 25 2025 16:54:16
 | 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e1b83f4a312a4509a067acf4c8d5f568.png) | 2006-12-06 | RADWIMPS | RADWIMPS 4 ～おかずのごはん～ |
 | 96 | ![Cover](https://i.discogs.com/NLc1kZyPODdedq2ASogSD1BqLwTvDm6M2pH9iEn-Rjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTcw/MzgtMTQ1MDI1NDcw/Ny0yMzE3LmpwZWc.jpeg) | 2006-12-06 | RADWIMPS | Radwimps: 4 -おかずのごはん |
 | 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9fad59db04294af6ca16f4e13fc49f4e.png) | 2006-12-06 | RADWIMPS | RADWIMPS 4 ~おかずのごはん~ |
-| 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2e3bd5b5910961ccc9ef0b791dd49db0.png) | 2007-10-24 | チャットモンチー | 生命力 |
+| 89 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2e3bd5b5910961ccc9ef0b791dd49db0.png) | 2007-10-24 | チャットモンチー | 生命力 |
+| 2 | ![Cover](https://i.discogs.com/34LSL77jas3Ky5WE4n0w3vldUizZxKBsBs9NvXJ86TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODA5/MzUtMTQ2MDQ5MTc1/Ni0zNTEwLmpwZWc.jpeg) | 2008 | Kagrra, | Fuunroku |
+| 43 | ![Cover](https://i.discogs.com/34LSL77jas3Ky5WE4n0w3vldUizZxKBsBs9NvXJ86TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODA5/MzUtMTQ2MDQ5MTc1/Ni0zNTEwLmpwZWc.jpeg) | 2008 | Kagrra, | Haru Urara |
 | 80 | ![Cover](https://i.discogs.com/34LSL77jas3Ky5WE4n0w3vldUizZxKBsBs9NvXJ86TA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODA5/MzUtMTQ2MDQ5MTc1/Ni0zNTEwLmpwZWc.jpeg) | 2008 | Kagrra, | kotodama |
 | 81 | ![Cover](https://i.discogs.com/0jrnbYGitPduE04fxRNM89oPQoM_ONqhg8rcyEj_7kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODk2/ODItMTQxMDc5ODg2/NC0yMzE5LmpwZWc.jpeg) | 2008-01-09 | Kagrra, | Sakura |
 | 83 | ![Cover](https://i.discogs.com/lqA2YXexv6Uv5cq2MWMS5k_pNd68mdcqFoZG7Fm8FmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzg2/OTQtMTM1MTIxMjc4/OC00MTI1LmpwZWc.jpeg) | 2008-02-06 | meth. | by all means - BELIVER |
+| 17 | ![Cover](https://i.discogs.com/PVaqJ1Bl6frgG0keO6pFrd7P7nyewm39GGGwihw3QTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjc3/ODQtMTM0NTk5MDUw/OC01ODYxLmpwZWc.jpeg) | 2008-09-10 | GLAY | 紅と黒のMATADORA&#x2F;I LOVE YOUをさがしてる |
 | 70 | ![Cover](https://i.discogs.com/0rggE53GD9wqGwowt_vj5M7qla2TcBwP0OuyCYH3sd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjg5/MDctMTIxODk2MzU1/MC5qcGVn.jpeg) | 2008-09-17 | B&#39;z | B&#39;z The Best &quot;Treasure&quot; |
 | 69 | ![Cover](https://i.discogs.com/4yTsshX3meb6MASAtZni7TgNeBQzMJTdsJJ3nWwtnxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU0/MDc0LTE0OTk3ODkx/MzEtNTU4Ny5qcGVn.jpeg) | 2008-10-22 | Angelo | Sister |
+| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b2dfe059ec5a471e96bc7cd1a615ce98.png) | 2009-09-16 | -OZ- | VERSUS |
+| 16 | ![Cover](https://i.discogs.com/D6dktUvOMQe0bMuco-ueUrCMUJX4ujr2wcwGzsk8LBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTUz/MzQ5LTE1Nzc0NDgy/MjUtMjYzNy5qcGVn.jpeg) | 2010 | The Ricecookers | NAMInoYUKUSAKI ～ TV SPECial COLLECTION |
+| 31 | ![Cover](https://i.discogs.com/bigIBKdqSJVihQmwZ8bYMlipFBzzJO8ptQ_R_ng9X94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTI3/ODUtMTQyMzA4NDUy/Ny04NDExLmpwZWc.jpeg) | 2010-05-26 | Boom Boom Satellites | On The Painted Desert - Rampant Colors |
+| 33 | ![Cover](https://i.discogs.com/_V08JAvMmrCP0la9tXrXrDjy7OOBRh0bz8qgpmIRqSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTEy/NTA5LTE1ODY4MjA5/NDEtNjQwNS5qcGVn.jpeg) | 2011-01-19 | LOST ASH | overHORIZON |
+| 41 | ![Cover](https://i.discogs.com/XGYolCdToh9zIGna8QgJ4oxfTEkmqmncY7GiYLSHqjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjk5/OTA0LTE2MDY4NDI5/NTctNDI5Mi5qcGVn.jpeg) | 2011-11-23 | ピロカルピン | 夕暮れ |
+| 30 | ![Cover](https://i.discogs.com/ebykuG3RMadfHrIoWm0dQHKqwadg-fFLlsuPtpivyrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjAy/MDgtMTQyOTUyOTU2/Mi02MDU5LmpwZWc.jpeg) | 2012-02-08 | Roach | No Reason in the Pit |
+| 34 |  | 2012-02-08 | winnie | Forget me not |
+| 8 | ![Cover](https://i.discogs.com/-hFgL3T0rUc7PkTVMJTwU3o-eCasfFJdJVeqXZaO_8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzA0/NTktMTQyMTM0OTI0/Ny00NzYxLmpwZWc.jpeg) | 2012-04-29 | Goddess | Discovery |
+| 24 | ![Cover](https://i.discogs.com/MYXbWbnVpqlYK9FKk4mTeIHATIvwsjJBvYHFXHJchDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDc2/NTEtMTUyODczNDUx/MC0zMzYxLmpwZWc.jpeg) | 2012-12-15 | Brats | Ainikoiyo &#x2F; Nounai Shoukyo Game (International Version) |
 | 53 |  | 2013-03-25 | Lost In The Fog | The Grave Of Einzvach |
+| 6 | ![Cover](https://i.discogs.com/-ZJCBUz3p_GE8ic1Nt5W7gQFXIppECHDHOK2uzVwtd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjg2/NTkyLTE0OTQ2ODc3/NTctNDYxNC5qcGVn.jpeg) | 2017-04-21 | tricot | Melon Soda |
+| 3 |  | 2023-03-31 | Canary Complex | The Tragic Dance of Dying Leaves |
+| 12 |  |  | 工藤晴香 | Under the Sun |
+| 19 |  |  | Death★Rabbits | Heipo no Gyaku Shou |
+| 27 |  |  | グループ魂 | Run魂Run |
+| 35 |  |  | グループ魂 | TMC |
+| 39 |  | 2013-09-04 | AvelCain | 自責の筵 |
+| 47 | ![Cover](https://i.discogs.com/0WpqAn7n9VUpiqZAv4Rg09SGKuGcTXhZ_AoRIkIx2wU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUz/NDA1LTE1NjQ4NzQx/NzYtODIxMy5qcGVn.jpeg) | 2017-04-12 | GLIM SPANKY | I STAND ALONE |
+| 46 | ![Cover](https://i.discogs.com/4vozXcZZ3PfvwLc3D_ueUAs4Bv1mtm3oOizpSWJ2xKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDc0/MDEtMTY1NjMxOTc2/OS01ODk4LmpwZWc.jpeg) | 2018-05-30 | L&#39;Arc~en~Ciel | Dune 10th Anniversary Edition |
+| 40 | ![Cover](https://i.discogs.com/t23yhG22ghPZLZUV7cZ4ETyRwFeRbTvkr6JwV_26ff0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAz/ODc2LTE1ODgwNjcz/MjktMTY0Ni5wbmc.jpeg) | 2018-11-09 | go green | From Apple To Pepper |
 | 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6aedcd324c220e1223e75e35a5dcede3.png) |  | Polkadot Stingray | 大正義 |
 | 68 |  | 2005-07-06 | The Predators | Hunting!!!! |
 | 67 | ![Cover](https://i.discogs.com/SArFijWtq-s4wMeD91ITktudC3BYBb881vXenLRI3co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTA2/NS0xMTc0NjQ0MDEz/LmpwZWc.jpeg) | 2005-07-20 | Kagrra, | Yotogibanashi |
@@ -109,8 +109,8 @@ Last updated: <time datetime="2025-10-25T13:54:16.306Z">Sat Oct 25 2025 16:54:16
 | 72 | ![Cover](https://i.discogs.com/YFlCQuIM9XDnuTGrm_nuRfPRbkvuCbBBA_Hy-71BaBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTcx/MjUtMTQ0MDkzOTY1/Mi00MjcyLmpwZWc.jpeg) | 2013-04-10 | amazarashi | ねえママ あなたの言うとおり |
 | 82 |  | 2013-10-30 | KANA-BOON | DOPPEL |
 | 100 | ![Cover](https://i.discogs.com/sjLKpP1DmCtiq3nLTJ2bDW_8yOtcqec5NkLirEUlFt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MzYw/NDUtMTQ0MzQ5Mzg2/MC0xMTUzLmpwZWc.jpeg) | 2015-01-21 | KANA-BOON | TIME |
-| 89 | ![Cover](https://i.discogs.com/S2SimVruR5ndIrBGb2yn96vgVRdZ7GJGerNTy16Dpm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTcx/MjU3LTE1MTg3NTE0/MTMtMTIxMS5qcGVn.jpeg) | 2018-02-14 | BAND-MAID | World Domination |
-| 41 | ![Cover](https://i.discogs.com/t23yhG22ghPZLZUV7cZ4ETyRwFeRbTvkr6JwV_26ff0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAz/ODc2LTE1ODgwNjcz/MjktMTY0Ni5wbmc.jpeg) | 2018-11-09 | go green | From Apple To Pepper |
+| 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7b9a692fa97c163fc8bc1a80c010ba9b.png) | 2018-02-14 | BAND-MAID | World Domination |
+| 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7e1b8d7d7ecd7d713c6de331c7bb866b.png) | 2019 | Haru Nemuri | harutosyura |
 | 50 | ![Cover](https://i.discogs.com/xiLOPBsHFwBhJpSa3Us1UNBBMJ0UEwl_a3fWhEn8ZuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYx/MjkwLTE2MzE4NTMw/MzEtNTE3NS5qcGVn.jpeg) | 2021-09-17 | Buffalo Daughter | We Are The Times |
 | 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/088fea2b4baa6f4ee55d9925a4aa9d8f.png) | 2022 | MASS OF THE FERMENTING DREGS | No New World |
 
@@ -122,7 +122,7 @@ Last updated: <time datetime="2025-10-25T13:54:16.306Z">Sat Oct 25 2025 16:54:16
 - [visual kei]({{ "/tags/visual-kei" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})
 - [j-pop]({{ "/tags/j-pop" | relative_url }})
-- [japan]({{ "/tags/japan" | relative_url }})
 - [pop rock]({{ "/tags/pop-rock" | relative_url }})
+- [japan]({{ "/tags/japan" | relative_url }})
 - [breakbeat]({{ "/tags/breakbeat" | relative_url }})
 - [grindcore]({{ "/tags/grindcore" | relative_url }})
