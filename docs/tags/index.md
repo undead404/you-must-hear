@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-10-29T13:32:40.688Z
+date: 2025-10-29T14:44:39.916Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-29T13:32:40.688Z">Wed Oct 29 2025 15:32:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-29T14:44:39.916Z">Wed Oct 29 2025 16:44:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [grindcore]({{ "tags/grindcore" | relative_url }}) | <time datetime="2025-10-29T14:44:39.916Z">Wed Oct 29 2025 16:44:39 GMT+0200 (Eastern European Standard Time)</time> |
+| [slamming brutal death metal]({{ "tags/slamming-brutal-death-metal" | relative_url }}) | <time datetime="2025-10-29T14:39:39.010Z">Wed Oct 29 2025 16:39:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [electro]({{ "tags/electro" | relative_url }}) | <time datetime="2025-10-29T13:32:40.688Z">Wed Oct 29 2025 15:32:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [emocore]({{ "tags/emocore" | relative_url }}) | <time datetime="2025-10-29T12:02:39.507Z">Wed Oct 29 2025 14:02:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [new rave]({{ "tags/new-rave" | relative_url }}) | <time datetime="2025-10-29T11:03:34.390Z">Wed Oct 29 2025 13:03:34 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1063,10 +1065,8 @@ Last updated: <time datetime="2025-10-29T13:32:40.688Z">Wed Oct 29 2025 15:32:40
 | [one man band]({{ "tags/one-man-band" | relative_url }}) | <time datetime="2025-10-22T06:19:50.199Z">Wed Oct 22 2025 09:19:50 GMT+0300 (Eastern European Summer Time)</time> |
 | [fusion jazz]({{ "tags/fusion-jazz" | relative_url }}) | <time datetime="2025-10-22T06:18:39.152Z">Wed Oct 22 2025 09:18:39 GMT+0300 (Eastern European Summer Time)</time> |
 | [new beat]({{ "tags/new-beat" | relative_url }}) | <time datetime="2025-10-22T06:17:56.455Z">Wed Oct 22 2025 09:17:56 GMT+0300 (Eastern European Summer Time)</time> |
-| [grindcore]({{ "tags/grindcore" | relative_url }}) | <time datetime="2025-10-22T06:17:46.554Z">Wed Oct 22 2025 09:17:46 GMT+0300 (Eastern European Summer Time)</time> |
 | [ambient rock]({{ "tags/ambient-rock" | relative_url }}) | <time datetime="2025-10-22T06:17:30.412Z">Wed Oct 22 2025 09:17:30 GMT+0300 (Eastern European Summer Time)</time> |
 | [classical guitar]({{ "tags/classical-guitar" | relative_url }}) | <time datetime="2025-10-22T06:16:51.974Z">Wed Oct 22 2025 09:16:51 GMT+0300 (Eastern European Summer Time)</time> |
-| [slamming brutal death metal]({{ "tags/slamming-brutal-death-metal" | relative_url }}) | <time datetime="2025-10-22T06:16:20.875Z">Wed Oct 22 2025 09:16:20 GMT+0300 (Eastern European Summer Time)</time> |
 | [drill n bass]({{ "tags/drill-n-bass" | relative_url }}) | <time datetime="2025-10-22T06:16:06.120Z">Wed Oct 22 2025 09:16:06 GMT+0300 (Eastern European Summer Time)</time> |
 | [dungeon synth]({{ "tags/dungeon-synth" | relative_url }}) | <time datetime="2025-10-22T06:15:52.154Z">Wed Oct 22 2025 09:15:52 GMT+0300 (Eastern European Summer Time)</time> |
 | [future bass]({{ "tags/future-bass" | relative_url }}) | <time datetime="2025-10-22T04:03:46.893Z">Wed Oct 22 2025 07:03:46 GMT+0300 (Eastern European Summer Time)</time> |
