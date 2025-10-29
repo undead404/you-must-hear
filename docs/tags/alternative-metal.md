@@ -9,6 +9,10 @@ title: alternative metal
 
 Last updated: <time datetime="2025-10-29T03:04:39.182Z">Wed Oct 29 2025 05:04:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Alternative metal blends heavy metal&#39;s aggression with influences from grunge, punk, and experimental rock, emerging in the 1990s as a more diverse approach to metal. The genre features downtuned guitars, unconventional song structures, and often incorporates hip-hop, industrial, or atmospheric elements. It attracted audiences seeking metal&#39;s intensity without traditional genre constraints.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |

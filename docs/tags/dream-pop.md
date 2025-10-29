@@ -9,6 +9,10 @@ title: dream pop
 
 Last updated: <time datetime="2025-10-25T19:06:19.228Z">Sat Oct 25 2025 22:06:19 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Dream pop is an atmospheric subgenre of alternative rock characterized by ethereal vocals, lush reverb, and shimmering guitar textures that create a hazy, dreamlike soundscape. Emerging in the 1980s from post-punk and indie scenes, it emphasizes mood and texture over traditional song structure. The genre evokes introspection and nostalgia through its soft, layered production.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |

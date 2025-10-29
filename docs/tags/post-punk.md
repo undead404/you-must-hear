@@ -11,15 +11,7 @@ Last updated: <time datetime="2025-10-28T22:01:21.255Z">Wed Oct 29 2025 00:01:21
 
 ### Description
 
-Post-punk is a genre of music that emerged in the late 1970s and early 1980s as a reaction against the dominant sound of punk rock. It is characterized by an experimental and often dark sound, with a focus on rhythmic complexity and atmospheric instrumentation.
-
-Post-punk music is marked by its use of instruments such as bass guitar, drums, and keyboards, as well as unconventional instruments such as saxophones, clarinets, and violins. It often features sparse, jagged guitar riffs and driving bass lines, along with angular rhythms and syncopated beats.
-
-Lyrically, post-punk often deals with themes such as social and political issues, urban decay, and personal angst. The vocals are typically expressive and emotionally charged, ranging from spoken word to wailing or screaming.
-
-Some of the most influential post-punk bands include Joy Division, Gang of Four, The Cure, and Siouxsie and the Banshees. These bands helped to shape the sound of the genre and influenced many other musicians in the decades that followed.
-
-Post-punk has since evolved and influenced other genres, including indie rock, gothic rock, and new wave.
+Post-punk emerged in the late 1970s as artists moved beyond punk&#39;s raw simplicity toward more experimental sounds incorporating elements of art rock, electronics, and funk. The genre features angular guitars, driving bass lines, and atmospheric textures that create moody, introspective soundscapes. Its DIY ethos and dark aesthetic profoundly influenced alternative rock and indie music for decades to come.
 
 ### 100 chronological releases
 
@@ -41,9 +33,9 @@ Post-punk has since evolved and influenced other genres, including indie rock, g
 | 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/96392ff6a08a47a7c7ffd1b6906bc9cd.png) | 1980-04-22 | The Cure | Seventeen Seconds |
 | 89 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/51709580b4f14898c8896b5049b168d1.png) | 1980-07-18 | Joy Division | Closer |
 | 29 | ![Cover](https://i.discogs.com/CfVdMkg6ItqpJgiylroBbEAQAsA_KIuQzA5ZvKga2F4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA1/OC0xMjY0Nzc1Mzgx/LmpwZWc.jpeg) | 1980-08 | Joy Division | Atmosphere |
-| 77 |  | 1980-10 | Bauhaus | In the Flat Field |
 | 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/909484b931449e8fc2e4fecca90b7eb5.png) | 1980-10-08 | Talking Heads | Remain in Light |
 | 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6a5178aeac6e49bea313b5b25757921f.png) | 1980-10-20 | U2 | Boy |
+| 77 |  | 1980-10 | Bauhaus | In the Flat Field |
 | 87 | ![Cover](https://i.discogs.com/_a5oxzAk98PwZY3wiQ0AzCNM1wJVZs_OfcMwQlsZetI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzM1/MC0xMjU4MDQzNzM4/LmpwZWc.jpeg) | 1980-11 | Siouxsie and the Banshees | Ju Ju |
 | 73 |  | 1981-04-11 | The Cure | Faith |
 | 76 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7653da5c1d3d4aebca9a1e1378b90cc0.png) | 1981-06-06 | Siouxsie and the Banshees | Juju |
@@ -59,9 +51,9 @@ Post-punk has since evolved and influenced other genres, including indie rock, g
 | 66 |  | 1984-05-04 | Echo &amp; the Bunnymen | Ocean Rain |
 | 37 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1795412592fe11f22c78aefb2e60beb9.png) | 1984-11-12 | The Smiths | Hatful of Hollow |
 | 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7b9e0df79a295df661205c506ff8cf01.png) | 1985-01-01 | Legião Urbana | Legião Urbana |
+| 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/18ee6e1759ebe88a58be9f3c6921eb66.png) | 1985-02-11 | The Smiths | Meat Is Murder |
 | 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9e833bd04f874bc494035420e49559d9.png) | 1985-02 | Killing Joke | Night Time |
 | 64 | ![Cover](https://i.discogs.com/Wx6AMYq7BEgcd11LZISj72CznA5xRQCXy8UosVilp_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTg4/My0xNTk0NzUwNTUx/LTQ3ODYuanBlZw.jpeg) | 1985-02 | The Jesus and Mary Chain | Psychocandy |
-| 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/18ee6e1759ebe88a58be9f3c6921eb66.png) | 1985-02-11 | The Smiths | Meat Is Murder |
 | 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c10b05cef98f4fbd9ca34f388fd359af.png) | 1985-08-13 | The Cure | The Head on the Door |
 | 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e90782df17df44e2980760f0e4d934f3.png) | 1985-11-15 | Echo &amp; the Bunnymen | Songs to Learn &amp; Sing |
 | 60 | ![Cover](https://i.discogs.com/-cKm8KESnZrpuFc5LbFeiIphOeVE0BfaHmSTVjPBBM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjEy/NDU5LTE1NTAwNDMw/MzYtNzAyOS5qcGVn.jpeg) | 1986-04-21 | Siouxsie and the Banshees | Tinderbox |
@@ -114,17 +106,17 @@ Post-punk has since evolved and influenced other genres, including indie rock, g
 | 18 | ![Cover](https://i.discogs.com/L-390xpjp9aaO-hlNRVWZ2U7h_mWcKpDBzBhM-CzG7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODkz/ODE5LTE2MTkwMDA3/ODktNTQyOS5qcGVn.jpeg) | 2018-04-02 | Lebanon Hanover | Let Them Be Alien |
 | 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ad7772faa3029d2992b7717119d30ac7.png) | 2018-09-07 | Molchat Doma | этажи |
 | 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d33b34877998da3ef033b5cb335a634d.png) | 2018-10-20 | Viagra Boys | Street Worms |
+| 35 | ![Cover](https://i.discogs.com/mjMjgpDlA2xjQCU61RDg0Quhm5ZHC5H7NXChwyGA7WQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc2/NTYzLTE1ODE0Njc2/OTAtOTY4NC5qcGVn.jpeg) | 2019-06-21 | BLACK MIDI | schlagenheim |
 | 14 | ![Cover](https://i.discogs.com/nLtbal4EIbNEbyU80XleyZuiUK8sZKiVpv6zRX8U8Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAz/MjY3LTE1OTkzODM2/NzEtODExMy5qcGVn.jpeg) | 2019-09-06 | Black Country, New Road | Sunglasses |
 | 61 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f696f58c83a17df71f51c2b9819cdff6.png) | 2020-02-21 | King Krule | Man Alive! |
 | 32 | ![Cover](https://i.discogs.com/1AkIdIh82UQAJYVfehCxgvsY6wvnhpL2UoM2jyP3qm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDkx/NjExLTE2ODczODgw/NTAtMjE4Ny5wbmc.jpeg) | 2020-04-01 | Computerwife | Computerwife |
 | 75 | ![Cover](https://i.discogs.com/UfwsH8r0UgEvHJsJ9eohb6W8KJ0xSAqxKj04xjLdWUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzgy/OTI0LTE1OTc3MDE5/MzAtNTY0MS5qcGVn.jpeg) | 2020-08-07 | Eyedress | Let&#39;s Skip to the Wedding |
 | 54 | ![Cover](https://i.discogs.com/Wz647USOfbdgUzMAv56KtS4L6HljPpbNCemrL5T9Edg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTUx/NzA2LTE2NDA1MzIz/NjctOTEzMC5qcGVn.jpeg) | 2021 | Black Country, New Road | For the first time |
-| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dea18db9a61d97affe9c31100a219cfe.png) | 2023-03-03 | slowthai | UGLY |
-| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/077f29a6b886ca5458fdf54082098897.png) |  | Yung Lean | Psykos |
-| 35 | ![Cover](https://i.discogs.com/mjMjgpDlA2xjQCU61RDg0Quhm5ZHC5H7NXChwyGA7WQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc2/NTYzLTE1ODE0Njc2/OTAtOTY4NC5qcGVn.jpeg) | 2019-06-21 | BLACK MIDI | schlagenheim |
 | 13 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0079eb5f7ca07703bac8c6288183ba4b.png) | 2021-12-17 | Killing Joke | Killing Joke 2003 |
 | 21 | ![Cover](https://i.discogs.com/cMeEL37b4fTvIjt5ihitmIN68vmAqo-EQNtU_XpLcBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTA3/MzI4LTE2NDcyNjcy/MzYtMTgyNS5wbmc.jpeg) | 2022-04-08 | WET LEG | Wet Leg |
+| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dea18db9a61d97affe9c31100a219cfe.png) | 2023-03-03 | slowthai | UGLY |
 | 33 | ![Cover](https://i.discogs.com/ZIiXV-DhNciC64Dl675Q-rdLVH7JWUpoykFAHsKQDAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTY1/NTg0LTE2Nzk5NDcx/MjItNzgzMy5wbmc.jpeg) | 2023-03-17 | Yves Tumor | Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds) |
+| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/077f29a6b886ca5458fdf54082098897.png) |  | Yung Lean | Psykos |
 
 ### Related genres
 

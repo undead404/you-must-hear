@@ -9,6 +9,10 @@ title: funk
 
 Last updated: <time datetime="2025-10-28T04:06:22.361Z">Tue Oct 28 2025 06:06:22 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Funk is a rhythmic, groove-oriented genre born from African American communities in the 1960s that emphasizes syncopated bass lines, tight drum patterns, and percussive horn sections. The music prioritizes danceable beats and repetitive instrumental riffs over melody, creating an infectious, energetic sound. Funk&#39;s influence extends across soul, R&amp;B, hip-hop, and rock music.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |

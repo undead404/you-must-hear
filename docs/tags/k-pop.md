@@ -11,13 +11,7 @@ Last updated: <time datetime="2025-10-28T22:41:24.030Z">Wed Oct 29 2025 00:41:24
 
 ### Description
 
-K-pop, short for Korean pop, is a genre of music that originated in South Korea in the 1990s and has become increasingly popular around the world in recent years. K-pop music is characterized by its upbeat, catchy melodies, synchronized dance routines, and high-energy performances.
-
-K-pop often features a mix of electronic dance music, hip-hop, R&amp;B, and traditional Korean musical elements. The genre has a strong focus on visual aesthetics, with many K-pop artists and groups known for their elaborate music videos, fashion, and stage performances.
-
-K-pop has become a global phenomenon in recent years, with artists such as BTS, Blackpink, EXO, and Twice achieving worldwide fame and success. K-pop has also spawned a dedicated fan culture, with fans often known as &quot;K-poppers&quot; or &quot;K-pop stans&quot; who follow their favorite artists closely and engage in online communities and fandom activities.
-
-K-pop&#39;s popularity has also led to an increased interest in Korean language and culture, and the genre has helped to increase awareness of South Korea&#39;s entertainment industry and broader cultural offerings.
+K-pop is a vibrant South Korean pop music genre characterized by catchy melodies, synchronized choreography, and polished production. It blends elements of electronic dance music, hip-hop, and R&amp;B with visually striking music videos and meticulously trained performers. The genre emphasizes group dynamics, fan engagement, and a globalized appeal that transcends language barriers.
 
 ### 100 chronological releases
 
@@ -27,6 +21,7 @@ K-pop&#39;s popularity has also led to an increased interest in Korean language 
 | 10 | ![Cover](https://i.discogs.com/XOEj38mIOafrNpNsdweaF8tns7OTTj4qijJ8dKqu7ag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTk3/NC0xMTQ5NDYyNTM5/LmpwZWc.jpeg) | 1999 | Loona | [12:00] |
 | 6 | ![Cover](https://i.discogs.com/3Wc1rpQNYJkDQ7o8SMy4StfSER6WLZolSO9BGKXw1aQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODA4/MDEtMTQ0NjU5Mjg3/MC04NzY4LmpwZWc.jpeg) | 2000 | Fifty Fifty | THE FIFTY |
 | 38 | ![Cover](https://i.discogs.com/l84Z1rBZEYQIE6SQ2ZO12X74BoSbfchtPXE5blBbAaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjAy/MS0xNjkwNDk1OTkz/LTYyOTkucG5n.jpeg) | 2000 | Seventeen | SEVENTEEN 10th Mini Album &#39;FML&#39; |
+| 84 | ![Cover](https://i.discogs.com/HTvlz1oykB5kXe0_bqnD2pYZfcepCseBdp52OGTCbXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU1/NTE0LTE2NDAzMzE4/NTItODU2OC5qcGVn.jpeg) | 2000-07-14 | Ive | ELEVEN |
 | 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e86223b16793d245f2af98f14b5cac2a.png) | 2005-08-15 | RM | mono. |
 | 45 | ![Cover](https://i.discogs.com/DPWatPB3kIRM5SW9ybFI8i-SEwGDr9bNWtlh63DQdP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTkx/MjQtMTQxODc0MTM4/NS01ODM5LmpwZWc.jpeg) | 2012-05-22 | TWICE | READY TO BE |
 | 60 |  | 2013-06-12 | BTS | 2 COOL 4 SKOOL |
@@ -55,6 +50,8 @@ K-pop&#39;s popularity has also led to an increased interest in Korean language 
 | 69 | ![Cover](https://i.discogs.com/j1wmJhbPThx81IQMMSlRKTUV4p8QM9j2FVUDMg6wwoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ0/ODA3LTE1MzAxNDQ4/MDgtMzk4Ny5qcGVn.jpeg) | 2018-08-08 | BLACKPINK | SQUARE ONE |
 | 58 | ![Cover](https://i.discogs.com/kuHXYpu_CcvGgaJNPs7m3FcJdNdmMY4k3DKdF1ib6q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ3/MTA5LTE1NTQzODU4/NzEtNjIzOC5qcGVn.jpeg) | 2018-08-24 | BTS | LOVE YOURSELF 結 &#39;Answer&#39; |
 | 8 | ![Cover](https://i.discogs.com/37GooIGuXYfXZ46BLepUClIT6Dnirox8UnxnlCteloM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYx/NDU1LTE1NTQ0MDUx/NzctMjA3MS5qcGVn.jpeg) | 2018-10-10 | FROMIS_9 | From.9 |
+| 95 | ![Cover](https://i.discogs.com/CStDb37g2Wh05y19oADpx-Th7fHy8ZmLo7j75dkyIgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ0/NDQ1LTE2MDU4OTIw/NzMtNzI0Ny5qcGVn.jpeg) | 2018-11-03 | K&#x2F;DA | POP&#x2F;STARS |
+| 97 | ![Cover](https://i.discogs.com/vlT03QY8LWtHt4qD4diJ8QTpHarPzCHJgDELFEMynvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzkw/MzA0LTE1NDIwMTE3/MzgtNzQyMy5qcGVn.jpeg) | 2018-11-12 | Jennie | sOlO |
 | 76 | ![Cover](https://i.discogs.com/IEkYe_QeUIOl9R8F3G_EJmco7UcKPzmnTAwB3EZEtwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ5/NzE2LTE1NTQ0Mjgx/NzYtMjA0Ni5qcGVn.jpeg) | 2019 | BLACKPINK | KILL THIS LOVE |
 | 70 | ![Cover](https://i.discogs.com/xlKbmyc1aA6F-9-w4U1HoNMuoZA0jKPzwHfEX_fvLdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcw/NTY4LTE1ODYyODg4/MDEtMzc2NS5qcGVn.jpeg) | 2019-02-12 | Itzy | IT&#39;Z DIFFERENT |
 | 62 |  | 2019-03-04 | TOMORROW X TOGETHER | The Dream Chapter: STAR |
@@ -62,23 +59,19 @@ K-pop&#39;s popularity has also led to an increased interest in Korean language 
 | 68 | ![Cover](https://i.discogs.com/D10NClyLAd1LayOFPmj451VG1X-fwdEgCNm48WAnBcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDgz/ODQ2LTE1NTUwODAz/MjAtNzA2Mi5qcGVn.jpeg) | 2019-04-12 | BTS | MAP OF THE SOUL : PERSONA |
 | 63 | ![Cover](https://i.discogs.com/Z6AGLqdHZajmTOnD2CGtvLt7j1XLr-QJQRN68fqV3AU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA2/Mjk4LTE1NjMzNzQ1/NDEtODc5NC5wbmc.jpeg) | 2019-06-26 | (G)I-DLE | Uh-Oh |
 | 14 | ![Cover](https://i.discogs.com/rURkqrSwPYP8Pdim91H2KnedGZBuii7UX9OdShtuAgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTcz/NTg5LTE1NjkyMzcx/MDQtMTEyNC5qcGVn.jpeg) | 2019-09-06 | CLC | HELICOPTER |
+| 59 | ![Cover](https://i.discogs.com/WG3Lc3JCk7x6HXMKSa91cXUVWmyKzzxQjEh3uvVcDb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTc3/MjYtMTQ1ODA5OTYw/NS01MDc0LmpwZWc.jpeg) | 2020 | BTS | WINGS |
+| 92 | ![Cover](https://i.discogs.com/G6ubNUQqt5KmqzV97ls3jxB6z-7wp8MSUBYVQ-GJm5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTE4/NDgyLTE2MTEyNjM2/NjUtOTAwOS5qcGVn.jpeg) | 2020 | BTS | Dynamite |
 | 46 | ![Cover](https://i.discogs.com/TBYu-t5wcq-W5QCuSaMij7ZtpoJCdydULm-7GYn74c0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDEx/OTQ2LTE2ODAxMTE0/NzctNzMwMi5qcGVn.jpeg) | 2020-04-07 | (G)I-DLE | I Trust |
 | 41 | ![Cover](https://i.discogs.com/kMlrD93MgUi0ylOqstAYQGvwMuIx7EJCXhPkzb8jwN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAx/NDkwLTE1ODgwMTk5/NTItOTQ2Mi5qcGVn.jpeg) | 2020-04-27 | CHUNG HA | Stay Tonight |
 | 25 | ![Cover](https://i.discogs.com/T61MnLN-PX-ptnzvZ3bXY93zbkwBm8B0cSuw89Z9oxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM1/NzY2LTE1OTE0ODMy/ODYtMTIzMy53ZWJw.jpeg) | 2020-06-02 | TWICE | More &amp; More |
 | 29 | ![Cover](https://i.discogs.com/NGlSbFL08b7DEAGOoaGmAtjN2_FzMtrZDOxgplN4b18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njcw/NTEzLTE1OTU2MTEx/MDktODExNy5qcGVn.jpeg) | 2020-07-06 | Seulgi | 28 Reasons - The 1st Mini Album |
 | 21 | ![Cover](https://i.discogs.com/XIG4bmT9-dpN5ymKRDe6o3BLWNsdJrFgA9pXZsKv0Ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYz/MDQ3LTE2MTk1Mzg3/NTgtNTY1Mi5qcGVn.jpeg) | 2020-09-14 | STRAY KIDS | MAXIDENT |
 | 49 | ![Cover](https://i.discogs.com/_JtUUpRgkMaT-wGU8-UxuEkcLg28ekIFgrntxqF9xOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM2/MjExLTE2MDM4ODgy/NjEtMzYwOC5qcGVn.jpeg) | 2020-09-21 | Everglow | -77.82X-78.29 |
-| 34 | ![Cover](https://i.discogs.com/B4dEO4R_LwW3pad0PvxPRYVHFyPdYkYqtGO7fKJkSUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Nzk0/MDEtMTQ4ODUwODc5/Ny00OTEyLmpwZWc.jpeg) | 2020-11-20 | BTS | You Never Walk Alone |
-| 73 |  |  | TOMORROW X TOGETHER | The Name Chapter: TEMPTATION |
-| 84 | ![Cover](https://i.discogs.com/HTvlz1oykB5kXe0_bqnD2pYZfcepCseBdp52OGTCbXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU1/NTE0LTE2NDAzMzE4/NTItODU2OC5qcGVn.jpeg) | 2000-07-14 | Ive | ELEVEN |
-| 95 | ![Cover](https://i.discogs.com/CStDb37g2Wh05y19oADpx-Th7fHy8ZmLo7j75dkyIgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ0/NDQ1LTE2MDU4OTIw/NzMtNzI0Ny5qcGVn.jpeg) | 2018-11-03 | K&#x2F;DA | POP&#x2F;STARS |
-| 97 | ![Cover](https://i.discogs.com/vlT03QY8LWtHt4qD4diJ8QTpHarPzCHJgDELFEMynvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzkw/MzA0LTE1NDIwMTE3/MzgtNzQyMy5qcGVn.jpeg) | 2018-11-12 | Jennie | sOlO |
-| 59 | ![Cover](https://i.discogs.com/WG3Lc3JCk7x6HXMKSa91cXUVWmyKzzxQjEh3uvVcDb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTc3/MjYtMTQ1ODA5OTYw/NS01MDc0LmpwZWc.jpeg) | 2020 | BTS | WINGS |
-| 92 | ![Cover](https://i.discogs.com/G6ubNUQqt5KmqzV97ls3jxB6z-7wp8MSUBYVQ-GJm5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTE4/NDgyLTE2MTEyNjM2/NjUtOTAwOS5qcGVn.jpeg) | 2020 | BTS | Dynamite |
 | 82 | ![Cover](https://i.discogs.com/TJuRaub-cJJG9zI225fiBEgfc6_--uLMvrcgT9GqWQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk4/MzE4LTE2MDE2NDU3/NDAtMjc3OC5wbmc.jpeg) | 2020-10-02 | BLACKPINK | The Album |
 | 55 | ![Cover](https://i.discogs.com/3gEf4fai05Qwyuvql2wOWltQu5vpaRnQnq8Xy0U_8HY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ0/NTM2LTE2MDU4OTMw/MjEtMjYyNi5qcGVn.jpeg) | 2020-11-06 | K&#x2F;DA | ALL OUT |
 | 66 | ![Cover](https://i.discogs.com/kcdsikx3RnOSaEcqquutOuIRCjedyhE-LoWu6TFLDDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTE3/NzMwLTE2MDgyMzIz/NzEtNzE0My5qcGVn.jpeg) | 2020-11-12 | STAYC | Star To A Young Culture |
 | 91 | ![Cover](https://i.discogs.com/5MNVVPIekJhTKXPmP4LkM01yHJ0e3w3GcB3dG2Gc21U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjcz/ODcyLTE2MTI1NTQ1/MTEtNzAzNS5qcGVn.jpeg) | 2020-11-17 | aespa | BLACK MAMBA |
+| 34 | ![Cover](https://i.discogs.com/B4dEO4R_LwW3pad0PvxPRYVHFyPdYkYqtGO7fKJkSUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Nzk0/MDEtMTQ4ODUwODc5/Ny00OTEyLmpwZWc.jpeg) | 2020-11-20 | BTS | You Never Walk Alone |
 | 3 | ![Cover](https://i.discogs.com/uGpPR9-q11myj2gYwc-VQwnJjGLMtaXr__g7PMzXJHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTQx/NDA0LTE2NjQ0NTkz/NDUtMjM5NS5qcGVn.jpeg) | 2021 | STRAY KIDS | NOEASY |
 | 42 | ![Cover](https://i.discogs.com/OVNrFaywX5jkzIUPfjeRdw-QL_YSw1mMFVvu9SRLJCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg4/Mzk1LTE2MTYwMDgz/NTctNzQwNC5wbmc.jpeg) | 2021-02-23 | SunMi | TAIL |
 | 4 | ![Cover](https://i.discogs.com/qdYpcPN_VnBMYjV0kdPxtBVjbxrp1eAQ_-VIC2GG78o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjA2/ODUxLTE2MTc4OTQw/MTQtNjI1OS5qcGVn.jpeg) | 2021-03-17 | Weeekly | We play |
@@ -123,6 +116,7 @@ K-pop&#39;s popularity has also led to an increased interest in Korean language 
 | 80 | ![Cover](https://i.discogs.com/ZGp2qSbwuPNGICwNgGCJbqmy92JcPAhsVAUGhgB6wHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDgw/MjkzLTE3MTM4Njcy/MjctODA2Ni5qcGVn.jpeg) | 2024-03-25 | Illit | SUPER REAL ME |
 | 52 | ![Cover](https://i.discogs.com/Z_2ln7Dr4IbEViJbZPWb5JEDvyLn9Zn295v-xn0Nskc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzE3/MDExLTE3MTYxMjYx/MDYtNzQ5My5qcGVn.jpeg) | 2024-04-04 | Kiss Of Life | Midas Touch |
 | 31 | ![Cover](https://i.discogs.com/fCoZIVfNwjCcrBoyZSGnp9IjwX8vY25-t2llBbkITao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzg1/ODI4LTE1MjIzNDk2/NzItNjk0My5qcGVn.jpeg) | 2024-06-10 | Everglow | REMINISCENCE |
+| 73 |  |  | TOMORROW X TOGETHER | The Name Chapter: TEMPTATION |
 
 ### Related genres
 

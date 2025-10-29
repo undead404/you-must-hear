@@ -9,6 +9,10 @@ title: metal
 
 Last updated: <time datetime="2025-10-29T03:07:39.458Z">Wed Oct 29 2025 05:07:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Metal is a high-energy rock genre characterized by distorted electric guitars, aggressive vocals, and powerful drumming that emerged in the late 1960s and 1970s. The music often explores themes of rebellion, darkness, and social commentary while showcasing technical musicianship and intensity. Known for its passionate fanbase and diverse subgenres, metal ranges from melodic to extremely heavy sounds.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |

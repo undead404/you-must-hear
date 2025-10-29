@@ -9,16 +9,22 @@ title: electropop
 
 Last updated: <time datetime="2025-10-22T09:03:54.562Z">Wed Oct 22 2025 12:03:54 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catchy melodies and song structures, creating radio-friendly tracks built on drum machines, synthesizers, and digital production. Emerging in the late 1970s and experiencing revivals through subsequent decades, the genre emphasizes accessibility while embracing futuristic sounds. It balances experimental electronic elements with mainstream appeal, often featuring processed vocals and dance-oriented beats.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
 | 50 | ![Cover](https://i.discogs.com/O8nDq6yAP7kSIuv6jpU4deTeUiKY8oV1bWbpoec3rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTAx/OTktMTQ0MjU0OTUy/NC04NzE3LmpwZWc.jpeg) | 1980 | Marina | Electra Heart (Deluxe) |
+| 92 | ![Cover](https://i.discogs.com/7CgjqHnEc3jxfvDsCEvETsWJIxLsV4dqwYfijNSAfbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODI5/NzQtMTI4NjQ5ODU4/MC5qcGVn.jpeg) | 1996 | TWICE | FEEL SPECIAL |
 | 25 | ![Cover](https://i.discogs.com/xwgnY_JnExe9WbxZUVG_gZAginLRylqQr9cs6_MIMvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg5/OTc2LTE1MDI0NjUw/MzMtNzA4My5qcGVn.jpeg) | 1999 | Marina | Electra Heart |
 | 41 | ![Cover](https://i.discogs.com/uI057LQK0kee1viuNOhNWGLXo4Or8ZHtihg6c3Cxnsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTAw/ODYtMTQ0NjgwOTQ1/Ni0xMDAyLnBuZw.jpeg) | 2000 | Aurora | Half The World Away |
 | 14 | ![Cover](https://i.discogs.com/IYs898OaoTnyP1mfgc23sHhKcrvJIv94toDCWwaUtrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODM3/NzYyLTE2NTc0MTk0/MzItNzcxOC5qcGVn.jpeg) | 2000-01-24 | Aurora | The Devil Is Human |
 | 17 | ![Cover](https://i.discogs.com/s-YZ3uGDIYSQtApAvRF3IuP6KwvxBqnFYuXfAFjLnJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDQ4/NzYtMTQyMDgwNzM5/NC0xOTU5LmpwZWc.jpeg) | 2000-01-24 | Aurora | Some Type Of Skin |
 | 11 | ![Cover](https://i.discogs.com/v8-qxn5oFmBzXkr1CmrY5kbu1CbkmdhM08s0wzVviHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTgx/OTAyLTE2NzcwNjM2/OTEtMjQwOC5qcGVn.jpeg) | 2001 | Gorillaz | Cracker Island |
+| 72 | ![Cover](https://i.discogs.com/n1-jNShRkb5CwPgpgfhSiDXJSXitzLjiQ7tFq_wRfbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc2/NDgzLTE1Mjc4MTAz/NTYtOTgzMC5qcGVn.jpeg) | 2001 | Gorillaz | The Now Now |
 | 8 | ![Cover](https://i.discogs.com/niXEIKOEyy3UvCX7RTwpD0znQ7SRgZV0Vpk_pWzGLHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTA4/OTk3LTE2Mzc3ODI3/MjEtNzQ5My5qcGVn.jpeg) | 2002 | Aurora | Midas Touch |
 | 12 | ![Cover](https://i.discogs.com/yPyWiM9lgWzjZbSDI2FCSy0xGJeNe8-9c_kW0ZHstPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYy/NDcyLTE1NTI3NzY4/OTctMTQ1Ni5qcGVn.jpeg) | 2002 | Aurora | Into the Unknown |
 | 32 | ![Cover](https://i.discogs.com/GTLOZUlN9ZxgW03RDzZO8WJbUNlbzlzzCz2xOTTZeoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjY3/MTkyLTE2Mjc0NzU5/NjUtNTExNS5qcGVn.jpeg) | 2002 | Aurora | Stjernestøv |
@@ -30,36 +36,28 @@ Last updated: <time datetime="2025-10-22T09:03:54.562Z">Wed Oct 22 2025 12:03:54
 | 42 |  | 2007-01-01 | New Young Pony Club | Fantastic Playroom |
 | 37 | ![Cover](https://i.discogs.com/r-gQkmzM2iYtHL0blqpjgDYIxGNTB1NDNFFEnwiw7GQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDY1/NC0xNjE5MDg2MDk5/LTk1MDkuanBlZw.jpeg) | 2007-05 | Róisín Murphy | Overpowered |
 | 2 |  | 2007-09-18 | Metro Station | Metro Station |
-| 45 | ![Cover](https://i.discogs.com/SaaYsiQOQ77EcFiSnDYjkEQzQfUn_U990gFkrSz4v4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzcw/MDItMTY2MDI3OTgz/MS04MDA0LmpwZWc.jpeg) | 2007-09-22 | The Veronicas | Hook Me Up |
+| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2a257dcf99d2abb2b9000bf77434c801.png) | 2007-09-22 | The Veronicas | Hook Me Up |
 | 36 |  | 2007-09-24 | Sohodolls | Ribbed Music for the Numb Generation |
-| 23 |  | 2008-08-19 | Lady Gaga | The Fame |
-| 38 |  | 2009-07-14 | Owl City | Ocean Eyes |
-| 21 |  | 2009-07-31 | Eva Simons | Silly Boy |
-| 13 |  | 2010 | Oh Land | Oh Land |
-| 43 | ![Cover](https://i.discogs.com/oqqP903hVF4mQtdTzeKj_t-6vYhp51ZqAu36cMnoFEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgx/NTEtMTYyODQ1MTI4/NS0zNjAwLmpwZWc.jpeg) | 2010-01-25 | Ellie Goulding | Lights |
-| 7 |  | 2010-03-19 | Goldfrapp | Head First |
-| 22 | ![Cover](https://i.discogs.com/hXYpa8MTr0K0W11GHy28EV9r_JYdjFcaYnZCXlaNRso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjIx/NzctMTI5MDU1MTcx/OS5qcGVn.jpeg) | 2010-11-22 | Robyn | Body Talk |
-| 19 | ![Cover](https://i.discogs.com/N0mni5-LaIUL_AYyhYYu0Ko35n2We3j1S1gE82ZmHkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjE3/MjE0LTE2MjcyMDg2/NTAtMjU2Mi5qcGVn.jpeg) | 2012-04-06 | Nicki Minaj | Pink Friday (Complete Edition) |
-| 18 | ![Cover](https://i.discogs.com/_ehlA2ZlJfdndH8f3pB5yzk1smKeIxv7CCW6nLrfOvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDc3/ODYtMTM5MTE0ODMx/MS00NDIzLnBuZw.jpeg) | 2013-01-01 | BROODS | BROODS |
-| 27 | ![Cover](https://i.discogs.com/Kh5zsnqWaFxRtRkmQsy12BENWPbphlt_VinjObPBpls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDYw/MzgtMTM3NDE3ODA3/OS0zODM5LmpwZWc.jpeg) | 2013-07-23 | Selena Gomez | Stars Dance (Bonus Track Version) |
-| 39 | ![Cover](https://i.discogs.com/Kh5zsnqWaFxRtRkmQsy12BENWPbphlt_VinjObPBpls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDYw/MzgtMTM3NDE3ODA3/OS0zODM5LmpwZWc.jpeg) | 2013-07-23 | Selena Gomez | Rare (Deluxe) |
-| 3 |  | 2013-08-16 | Stromae | Racine Carrée |
-| 15 | ![Cover](https://i.discogs.com/DGj-6z6nFPHA4Erlz30aWIZuK9PGboKuHqdzJ6JwQ3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTg4/MDM1LTE2MzQyMjQz/OTktNjkzOC5qcGVn.jpeg) | 2015-12-21 | Aurora | Giving In To The Love |
-| 46 | ![Cover](https://i.discogs.com/Tv5Cs3bzvpP92ddglYeDTDxal3kbNsbNlJ6vksPXpdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzM2/NTEtMTQ1Mzg1MDE4/NS01Mjk2LmpwZWc.jpeg) | 2016 | Sia | This Is Acting (Deluxe Version) |
-| 16 | ![Cover](https://i.discogs.com/-TzQB9Im9_uIlUzJQ2qkBv98AfXdbJ54r3nO8nVzugo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njg4/NjctMTQ2NDIxODAw/OC0xMDkzLmpwZWc.jpeg) | 2016-05-24 | Anamanaguchi | Miku |
-| 51 | ![Cover](https://i.discogs.com/xci8as9FDv4BEU0NKjzqmmI9lL-Kep1xwLlB9LbZ0gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTM3/NjYtMTQ3NzQyMzYy/OS0yNzAyLmpwZWc.jpeg) | 2016-10-28 | Tove Lo | Lady Wood |
-| 33 | ![Cover](https://i.discogs.com/Lqiody2mRUzjMXRslHk3av43LoxnAPa24y3rDkbq0cE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc3/NTU1LTE1NzA0OTQ4/OTItODA4OS5qcGVn.jpeg) | 2017-06-02 | Dua Lipa | Dua Lipa (Complete Edition) |
-| 52 |  |  | Britney Manson | FΛSHION |
-| 92 | ![Cover](https://i.discogs.com/7CgjqHnEc3jxfvDsCEvETsWJIxLsV4dqwYfijNSAfbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODI5/NzQtMTI4NjQ5ODU4/MC5qcGVn.jpeg) | 1996 | TWICE | FEEL SPECIAL |
-| 72 | ![Cover](https://i.discogs.com/n1-jNShRkb5CwPgpgfhSiDXJSXitzLjiQ7tFq_wRfbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc2/NDgzLTE1Mjc4MTAz/NTYtOTgzMC5qcGVn.jpeg) | 2001 | Gorillaz | The Now Now |
 | 89 |  | 2008-04-16 | Perfume | GAME |
+| 23 |  | 2008-08-19 | Lady Gaga | The Fame |
 | 53 | ![Cover](https://i.discogs.com/gt4lorfhMgwqC5p17uf7bnwTq31SSwVFB9SXk0Yvt6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQ2/MzgtMTIyNDY1NzIz/NC5qcGVn.jpeg) | 2008-09-05 | Ladyhawke | Ladyhawke |
 | 78 | ![Cover](https://i.discogs.com/AvHT2bgeG7rNj4nQe6ovUU751Mkbi4hAkMBZPs9geFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTQ4/NTgtMTQ4NDY0Nzc3/Mi0zMjA2LmpwZWc.jpeg) | 2009-01-01 | Miike Snow | Miike Snow |
 | 74 |  | 2009-03-15 | La Roux | In for the Kill |
 | 91 | ![Cover](https://i.discogs.com/TK0Yeho_eGHTGDjdz9gpq7s8fSsKYM9Oc7lYzAU-Y2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk4/NDEtMTI2ODE1Nzkz/MC5qcGVn.jpeg) | 2009-06-26 | La Roux | La Roux |
+| 38 |  | 2009-07-14 | Owl City | Ocean Eyes |
+| 21 |  | 2009-07-31 | Eva Simons | Silly Boy |
+| 13 |  | 2010 | Oh Land | Oh Land |
 | 84 | ![Cover](https://i.discogs.com/8QnIJKUuvEQUpsQAehYXq-2CysUM985PUHc3KLjNOAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjYw/NzE0LTE1ODg4Mzgx/MzEtNjU2Mi5wbmc.jpeg) | 2010 | Lady Gaga | Chromatica |
+| 43 | ![Cover](https://i.discogs.com/oqqP903hVF4mQtdTzeKj_t-6vYhp51ZqAu36cMnoFEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njgx/NTEtMTYyODQ1MTI4/NS0zNjAwLmpwZWc.jpeg) | 2010-01-25 | Ellie Goulding | Lights |
 | 56 | ![Cover](https://i.discogs.com/cOTKIwpEgLXQb9HQrb2eCd62wkY4P-YFKDt6olZ6ggs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjE1/MjgtMTI4NDIwNDU0/Mi5qcGVn.jpeg) | 2010-01-29 | Hot Chip | One Life Stand |
+| 7 |  | 2010-03-19 | Goldfrapp | Head First |
+| 22 | ![Cover](https://i.discogs.com/hXYpa8MTr0K0W11GHy28EV9r_JYdjFcaYnZCXlaNRso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjIx/NzctMTI5MDU1MTcx/OS5qcGVn.jpeg) | 2010-11-22 | Robyn | Body Talk |
+| 19 | ![Cover](https://i.discogs.com/N0mni5-LaIUL_AYyhYYu0Ko35n2We3j1S1gE82ZmHkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjE3/MjE0LTE2MjcyMDg2/NTAtMjU2Mi5qcGVn.jpeg) | 2012-04-06 | Nicki Minaj | Pink Friday (Complete Edition) |
 | 59 |  | 2012-10-09 | Sky Ferreira | Ghost |
+| 18 | ![Cover](https://i.discogs.com/_ehlA2ZlJfdndH8f3pB5yzk1smKeIxv7CCW6nLrfOvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDc3/ODYtMTM5MTE0ODMx/MS00NDIzLnBuZw.jpeg) | 2013-01-01 | BROODS | BROODS |
+| 27 | ![Cover](https://i.discogs.com/Kh5zsnqWaFxRtRkmQsy12BENWPbphlt_VinjObPBpls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDYw/MzgtMTM3NDE3ODA3/OS0zODM5LmpwZWc.jpeg) | 2013-07-23 | Selena Gomez | Stars Dance (Bonus Track Version) |
+| 39 | ![Cover](https://i.discogs.com/Kh5zsnqWaFxRtRkmQsy12BENWPbphlt_VinjObPBpls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDYw/MzgtMTM3NDE3ODA3/OS0zODM5LmpwZWc.jpeg) | 2013-07-23 | Selena Gomez | Rare (Deluxe) |
+| 3 |  | 2013-08-16 | Stromae | Racine Carrée |
 | 64 |  | 2014-08-26 | QT | Hey QT |
 | 73 |  | 2014-09-24 | Tove Lo | Queen of the Clouds |
 | 98 | ![Cover](https://i.discogs.com/kMRrM9-x7mPI6X5ddU_Nsq7HiZaiJjnIhXSaSb9qoTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDQy/NzQtMTQxMzY1NzQ0/NC02MjY0LmpwZWc.jpeg) | 2014-09-30 | Lorde | Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1) |
@@ -67,10 +65,15 @@ Last updated: <time datetime="2025-10-22T09:03:54.562Z">Wed Oct 22 2025 12:03:54
 | 61 | ![Cover](https://i.discogs.com/YLFRfX_GTkeX21gZIxTucW4NEtOkxXCjIECA9TQiPh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTkz/MTktMTQ5NjQzOTc4/Mi03OTk2LmpwZWc.jpeg) | 2015-08-28 | Halsey | BADLANDS |
 | 80 | ![Cover](https://i.discogs.com/Cv9jGulMFoS_0p7pt6lzxtxxJI_Z_Pj6gFrTviRAgvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc0/OTIxLTE1MjM5MDM4/MjEtMTgwMC5qcGVn.jpeg) | 2015-08-28 | Halsey | BADLANDS (Deluxe) |
 | 70 | ![Cover](https://i.discogs.com/Cu6eQau-WVE65kfx14kgClWR_0_byCDz4xW4tt89B9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTE5/OTAtMTQ0Njg0MDcy/NS0xMjI4LmpwZWc.jpeg) | 2015-11-06 | Grimes | Art Angels |
+| 15 | ![Cover](https://i.discogs.com/DGj-6z6nFPHA4Erlz30aWIZuK9PGboKuHqdzJ6JwQ3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTg4/MDM1LTE2MzQyMjQz/OTktNjkzOC5qcGVn.jpeg) | 2015-12-21 | Aurora | Giving In To The Love |
+| 46 | ![Cover](https://i.discogs.com/Tv5Cs3bzvpP92ddglYeDTDxal3kbNsbNlJ6vksPXpdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzM2/NTEtMTQ1Mzg1MDE4/NS01Mjk2LmpwZWc.jpeg) | 2016 | Sia | This Is Acting (Deluxe Version) |
 | 68 | ![Cover](https://i.discogs.com/D1kRvAWFgewCRCRcjx3dcWN4BU9W613d8m29ZpKpcMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTEw/MTI0LTE2NjY0NTg2/MTAtOTQ2Ni5qcGVn.jpeg) | 2016 | Aurora | All My Demons Greeting Me As A Friend (Deluxe) |
+| 16 | ![Cover](https://i.discogs.com/-TzQB9Im9_uIlUzJQ2qkBv98AfXdbJ54r3nO8nVzugo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njg4/NjctMTQ2NDIxODAw/OC0xMDkzLmpwZWc.jpeg) | 2016-05-24 | Anamanaguchi | Miku |
+| 51 | ![Cover](https://i.discogs.com/xci8as9FDv4BEU0NKjzqmmI9lL-Kep1xwLlB9LbZ0gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTM3/NjYtMTQ3NzQyMzYy/OS0yNzAyLmpwZWc.jpeg) | 2016-10-28 | Tove Lo | Lady Wood |
 | 55 | ![Cover](https://i.discogs.com/5affWcBnExFv8IFhDwZGD3Ad2Pl4hLnl7oB7NhyaL98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjU5/NTUtMTQ3OTMxOTUz/OC0yNzMzLmpwZWc.jpeg) | 2016-11-11 | Zara Larsson | I Would Like |
 | 58 | ![Cover](https://i.discogs.com/tA_63tRZpSaadD3VHQTQ6XevftPIuP1pdNt3rjGFO3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTIz/ODMtMTY0NzI4NjA1/OS0zMzY3LmpwZWc.jpeg) | 2016-11-28 | The Weeknd | Starboy |
 | 77 | ![Cover](https://i.discogs.com/FTqJb5EfOAHkk0inXKLSE9a3vVff40I9BrQ_Rj9VKRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDIz/OTQ1LTE0OTAzMDY2/NjUtODM5Ni5qcGVn.jpeg) | 2017-04-28 | Gorillaz | Humanz (Deluxe) |
+| 33 | ![Cover](https://i.discogs.com/Lqiody2mRUzjMXRslHk3av43LoxnAPa24y3rDkbq0cE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc3/NTU1LTE1NzA0OTQ4/OTItODA4OS5qcGVn.jpeg) | 2017-06-02 | Dua Lipa | Dua Lipa (Complete Edition) |
 | 75 | ![Cover](https://i.discogs.com/DA08LotiCtYODDfdOv5UjfL0XFOViJKdKpcyFj3mR6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc1/OTE3LTE0OTYyNDQy/NDItNzEwNC5wbmc.jpeg) | 2017-06-02 | Halsey | hopeless fountain kingdom (deluxe) |
 | 85 | ![Cover](https://i.discogs.com/UJJnPGOxrQh1OqfNgiSfQP6JfjsftdKzO2PycEXFEGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM2/Mzc0LTE0OTczOTEy/NzYtMTkwMy5qcGVn.jpeg) | 2017-06-16 | Portugal. The Man | Woodstock |
 | 96 | ![Cover](https://i.discogs.com/ecNPrmwV6-w6iSpdPaF0PFbqL2FWFe7E9lvijZR6_zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM2/NTc2LTE0OTc2NjM2/NzUtNTMxNy5qcGVn.jpeg) | 2017-06-16 | Lorde | Melodrama |
@@ -80,7 +83,7 @@ Last updated: <time datetime="2025-10-22T09:03:54.562Z">Wed Oct 22 2025 12:03:54
 | 100 | ![Cover](https://i.discogs.com/WUpmiC8VBnKc2iLpaLftEmK8GpgLGSa88Odx1UrHD1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEz/NzEyLTE1MTAyNzkx/OTgtODk3Ni5qcGVn.jpeg) | 2017-11-10 | Taylor Swift | Reputation |
 | 24 | ![Cover](https://i.discogs.com/LyGV5QKBeNAgz-TnHqS3Cz_ru7PRtZt1G0Vq0bl7SnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM3/MjUyLTE1NDA5OTY4/ODAtODc2NC5qcGVn.jpeg) | 2018 | why don&#39;t we | 8 Letters |
 | 66 | ![Cover](https://i.discogs.com/VWgcQU6ZvbJhJBCZn7OyysG7Po9WZg50c5RDrJgp2Ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA3/NjgyLTE1ODk1MDM3/NTEtMTI5Ni5qcGVn.jpeg) | 2018 | Charli XCX | Girl, so confusing featuring lorde |
-| 10 | ![Cover](https://i.discogs.com/iG_N93sIBOXp3nFlbyDQsrYjRGGsii5O_BoSgqIACE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc1/MjczLTE2NDQzMjQx/MzUtNzYxNS5qcGVn.jpeg) | 2018-04-27 | DUDA BEAT | Sinto Muito |
+| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3fdad7b004635fce6cee4a5cad6b41c1.png) | 2018-04-27 | DUDA BEAT | Sinto Muito |
 | 6 | ![Cover](https://i.discogs.com/tUEthmJtoXLE8Nsko79XnuP4HQWs7De7_bov7FuyG-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM3/ODE5LTE1MjcwMjg1/ODktMzIxNy5qcGVn.jpeg) | 2018-05-25 | CHVRCHES | Love is Dead |
 | 48 | ![Cover](https://i.discogs.com/6QGddIFqVN--MJ-kM025C2k1ERKFbG02ODh55i5xAok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDQw/NTgzLTE2NTkxNDM1/NTEtNTIyNC5qcGVn.jpeg) | 2018-08-17 | Aurora | A Potion For Love |
 | 26 | ![Cover](https://i.discogs.com/1NS9LALu9cJiFN1lrZPoLDK_l-J-0JdQGV7ZKhH5N_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY1/MTA0LTE1ODYyMjM1/MjktMzg1Ni5qcGVn.jpeg) | 2018-12-14 | Kero Kero Bonito | Bonito Generation |
@@ -102,8 +105,8 @@ Last updated: <time datetime="2025-10-22T09:03:54.562Z">Wed Oct 22 2025 12:03:54
 | 34 | ![Cover](https://i.discogs.com/TJuRaub-cJJG9zI225fiBEgfc6_--uLMvrcgT9GqWQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk4/MzE4LTE2MDE2NDU3/NDAtMjc3OC5wbmc.jpeg) | 2020-10-02 | BLACKPINK | The Album |
 | 88 | ![Cover](https://i.discogs.com/OVNrFaywX5jkzIUPfjeRdw-QL_YSw1mMFVvu9SRLJCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg4/Mzk1LTE2MTYwMDgz/NTctNzQwNC5wbmc.jpeg) | 2021-02-23 | SunMi | TAIL |
 | 54 | ![Cover](https://i.discogs.com/CbGTwmZ-ooKKLf74VA88yn2VC91x9r5tyuZY1k4nRMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzM1/MDM2LTE2MTQ2MzIx/NTItNjk0NS5qcGVn.jpeg) | 2021-02-26 | Madison Beer | Life Support |
-| 90 | ![Cover](https://i.discogs.com/SLT2s5AG_QOSjCMhIl5UIzdEJ1AzqxqO8cgu6DMvKMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTgw/MTkyLTE1NjUzODI3/NzktNTcxMy5qcGVn.jpeg) | 2021-04 | Katy Perry | Small Talk |
 | 29 | ![Cover](https://i.discogs.com/WQk5xJe9qmHe9u2tlf0h5D95CjP9t7kv_ynvlWyigEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE0/NzYzLTE2MTkxMjQz/ODAtODYxOC5qcGVn.jpeg) | 2021-04-23 | Porter Robinson | nurture |
+| 90 | ![Cover](https://i.discogs.com/SLT2s5AG_QOSjCMhIl5UIzdEJ1AzqxqO8cgu6DMvKMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTgw/MTkyLTE1NjUzODI3/NzktNTcxMy5qcGVn.jpeg) | 2021-04 | Katy Perry | Small Talk |
 | 99 | ![Cover](https://i.discogs.com/mrdggEQW0kBUGjSpJGaWjBd1iYomN63hXqZ-zMzSzbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjY1/NjEwLTE2MjgwODQ3/NTEtODA0NC5qcGVn.jpeg) | 2021-07-30 | Billie Eilish | Happier Than Ever |
 | 79 | ![Cover](https://i.discogs.com/D8xevxGoV3j4vOks8gEkwmmWJauvWnU-YFVl44jUkzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDM5/MTI2LTE2MjI5OTIy/NTEtNTc4MC5qcGVn.jpeg) | 2021-10-01 | TWICE | The Feels |
 | 30 | ![Cover](https://i.discogs.com/ZgxPrNUVQqNl1AmrUco728TIfkasy9HxHbxmYNpP4Ro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE2/NzMzLTE2NDI2OTQz/MTMtMzQwNS5qcGVn.jpeg) | 2022-01-21 | Aurora | The Gods We Can Touch |
@@ -113,6 +116,7 @@ Last updated: <time datetime="2025-10-22T09:03:54.562Z">Wed Oct 22 2025 12:03:54
 | 71 | ![Cover](https://i.discogs.com/tycClN8s9QKk_lCzM9xwJS7wSpOyxsbQx55STgob9c4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEw/MjUzLTE2OTIzODIx/NzItNTYwNi5qcGVn.jpeg) | 2023-08-18 | Addison Rae | AR |
 | 69 | ![Cover](https://i.discogs.com/XP1UoO8bQ_y_S9pJ3UVQXxXwsJD4F4Qr_pUWima_IW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTcx/Mzc3LTE2OTc3Mzk1/NzYtMTkxNC5qcGVn.jpeg) | 2023-10-13 | Troye Sivan | Something To Give Each Other |
 | 31 | ![Cover](https://i.discogs.com/cYHUw1SieSPkgv25ko-ToaAz91Wl3LVIaqlAQ1wLXIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjMx/NzQ2LTE3MjUzODA1/MjYtOTkyMS5qcGVn.jpeg) | 2024-08-30 | Sabrina Carpenter | Evolution |
+| 52 |  |  | Britney Manson | FΛSHION |
 
 ### Related genres
 
