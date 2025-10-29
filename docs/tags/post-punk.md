@@ -1,13 +1,25 @@
 ---
 category: genre
-date: 2025-10-26T17:05:56.380Z
+date: 2025-10-28T22:01:21.255Z
 permalink: tags/post-punk
 title: post-punk
 ---
 
 ## post-punk
 
-Last updated: <time datetime="2025-10-26T17:05:56.380Z">Sun Oct 26 2025 19:05:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T22:01:21.255Z">Wed Oct 29 2025 00:01:21 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Post-punk is a genre of music that emerged in the late 1970s and early 1980s as a reaction against the dominant sound of punk rock. It is characterized by an experimental and often dark sound, with a focus on rhythmic complexity and atmospheric instrumentation.
+
+Post-punk music is marked by its use of instruments such as bass guitar, drums, and keyboards, as well as unconventional instruments such as saxophones, clarinets, and violins. It often features sparse, jagged guitar riffs and driving bass lines, along with angular rhythms and syncopated beats.
+
+Lyrically, post-punk often deals with themes such as social and political issues, urban decay, and personal angst. The vocals are typically expressive and emotionally charged, ranging from spoken word to wailing or screaming.
+
+Some of the most influential post-punk bands include Joy Division, Gang of Four, The Cure, and Siouxsie and the Banshees. These bands helped to shape the sound of the genre and influenced many other musicians in the decades that followed.
+
+Post-punk has since evolved and influenced other genres, including indie rock, gothic rock, and new wave.
 
 ### 100 chronological releases
 
@@ -20,7 +32,7 @@ Last updated: <time datetime="2025-10-26T17:05:56.380Z">Sun Oct 26 2025 19:05:56
 | 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8fedde0c06bb45bb875d3b0e4317d0d8.png) | 1978-07 | Devo | Q: Are We Not Men? A: We Are Devo! |
 | 46 |  | 1978-11-13 | Siouxsie and the Banshees | The Scream |
 | 68 | ![Cover](https://i.discogs.com/tryat2cpONHCNndsxvDze-VFt9nYzV58HwVmNvzSkyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTU3/NTctMTQzMzA4MDMy/MC05NjExLmpwZWc.jpeg) | 1979 | Julie | flutter |
-| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ce59a10acb2a7b832e015916ac49b331.png) | 1979 | Talking Heads | Talking Heads &#39;77 (Deluxe Version) |
+| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ce59a10acb2a7b832e015916ac49b331.png) | 1979 | Talking Heads | Talking Heads &#39;77 (Deluxe Version) |
 | 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8a3c4f3610c1ed38d4b5fabddc37ed7b.png) | 1979-05-08 | The Cure | Three Imaginary Boys |
 | 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0c6c868b77a4417f937cf09506099081.png) | 1979-06-15 | Joy Division | Unknown Pleasures |
 | 72 |  | 1979-09-25 | Gang of Four | Entertainment! |
@@ -55,63 +67,63 @@ Last updated: <time datetime="2025-10-26T17:05:56.380Z">Sun Oct 26 2025 19:05:56
 | 60 | ![Cover](https://i.discogs.com/-cKm8KESnZrpuFc5LbFeiIphOeVE0BfaHmSTVjPBBM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjEy/NDU5LTE1NTAwNDMw/MzYtNzAyOS5qcGVn.jpeg) | 1986-04-21 | Siouxsie and the Banshees | Tinderbox |
 | 100 | ![Cover](https://i.discogs.com/b_zNpYG7Pd0B96VL6cbcv0fnQwwBzkGAurTfxvtPdDo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzQ1/NC0xNTA3Njg3Mzc0/LTgyODkuanBlZw.jpeg) | 1986-06-16 | The Smiths | The Queen Is Dead |
 | 58 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e7dbfc64cde5478484af18f0e30662e0.png) | 1986-07 | Legião Urbana | Dois |
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/992626603b217559a14315ab5b550bd3.png) | 1987 | Various Artists | 80s 100 Hits |
 | 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bbd8d87f18bcd915b43fe386aa1cb36b.png) | 1987-10 | The Jesus and Mary Chain | Darklands |
 | 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d97d9ad402d5ddfb11c3febbe5e9cf6b.png) | 1988 | The Cure | Seventeen Seconds (Deluxe Edition) |
 | 44 |  | 1988-02-16 | The Church | Starfish |
-| 97 |  | 1988-06 | Joy Division | Substance |
+| 96 |  | 1988-06 | Joy Division | Substance |
 | 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d8107b191b710beac0a08ba94aea37ad.png) | 1989-05-01 | The Cure | Disintegration |
 | 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7d7e688392c1e49c2075e00786f99f84.png) | 1990 | The Smiths | Hatful of Hallow |
+| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9d5646aa730983c50a7e75418ae282e6.png) | 1990-12-01 | The Cure | Staring At The Sea - The Singles |
 | 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ded60dec2676a8aaa0c4de8bbe24d5b4.png) | 1991-05-06 | Swans | White Light From the Mouth of Infinity |
 | 41 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a0f446f0184f425e52fcdb32b9cf82e5.png) | 1993-07-28 | The Cure | Disintegration (Remastered) |
 | 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0a5401fd4ef19dfc6f8583f108d7023b.png) | 1995 | The Cure | Kiss Me, Kiss Me, Kiss Me |
 | 19 | ![Cover](https://i.discogs.com/3SUZ-CoeuQqTfGe6CWjG3f5B3TWfd8gtK_vQ3fokcPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUw/NTItMTIyODM0Mjky/My5qcGVn.jpeg) | 1996-06-10 | The Cure | Boys Don&#39;t Cry |
 | 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c00354df677c126bbe80187d952a0910.png) | 1997-12-09 | U2 | War (Remastered) |
-| 7 |  | 2002-08-19 | Interpol | Turn on the Bright Lights |
-| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/077f29a6b886ca5458fdf54082098897.png) |  | Yung Lean | Psykos |
-| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9d5646aa730983c50a7e75418ae282e6.png) | 1990-12-01 | The Cure | Staring At The Sea - The Singles |
 | 17 | ![Cover](https://i.discogs.com/lpRjrq59kZ1I930S96Gji06PGyyuGIAeI6VTaCrUU4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODcx/OC0xMzMwMjkyNjY0/LmpwZWc.jpeg) | 1999 | The Cure | Wild Mood Swing |
 | 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bdbc60c4bab8cf280166d31716bc0fc8.png) | 2001-11-12 | The Cure | Greatest Hits |
+| 7 |  | 2002-08-19 | Interpol | Turn on the Bright Lights |
 | 39 |  | 2003-07-15 | Killing Joke | Killing Joke |
 | 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/180a6f9d7f7363adc8653e13d235755e.png) | 2004-06-25 | The Cure | The Cure |
 | 31 |  | 2006-01-31 | She Wants Revenge | She Wants Revenge |
 | 36 | ![Cover](https://i.discogs.com/kmBJpfmkNIacluUstZ69uZCgvRR4OgsDYR-mVY-sNRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQw/OTgtMTQzMDM5ODg0/MC02NzUyLmpwZWc.jpeg) | 2007 | Chromatics | In The City |
-| 96 |  | 2007-07-09 | Interpol | Our Love to Admire |
+| 95 |  | 2007-07-09 | Interpol | Our Love to Admire |
 | 11 | ![Cover](https://i.discogs.com/57FpKfyZUvNL6pltT9w-QWQfWQ_zfu164_6ztN-3bvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODI1/OC0xMjMzOTc5MDM0/LmpwZWc.jpeg) | 2008 | Killing Joke | Killing Joke - 2003 |
 | 57 | ![Cover](https://i.discogs.com/Fi0X-0vVkamblBOaJrB8qzBbkFmBtV_KEAnAd-wqWaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzM4/MjktMTE5OTk4NjQ5/NS5qcGVn.jpeg) | 2008 | Joy Division | Unknown Pleasures (Collector&#39;s Edition) |
 | 67 | ![Cover](https://i.discogs.com/JkNlA9SENIlSBEKjANPePcLojLQWLju0FVWlhSLVaWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE5/MjItMTIzMjE5Mzc2/NS5qcGVn.jpeg) | 2008 | White Lies | To Lose My Life ... |
 | 34 |  | 2008-02-21 | Have a Nice Life | Deathconsciousness |
 | 16 | ![Cover](https://i.discogs.com/6IIucsqldlY9c2UbzFtLU5FcG33-DkzhT93vRxglgNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTQ0/NjktMTI3MzEzODc5/OC5qcGVn.jpeg) | 2008-02-29 | Nick Cave &amp; The Bad Seeds | Dig, Lazarus, Dig!!! |
-| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/043311d565be4296bb13f299ba1f08de.png) | 2008-03-24 | Joy Division | The Best Of |
+| 84 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/043311d565be4296bb13f299ba1f08de.png) | 2008-03-24 | Joy Division | The Best Of |
 | 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f8701ebd813b461596fd2cc9a52d298a.png) | 2008-09-23 | TV on the Radio | Dear Science, |
 | 30 |  | 2009-05-04 | The Horrors | Primary Colours |
-| 84 |  | 2009-08-14 | The xx | xx |
+| 83 |  | 2009-08-14 | The xx | xx |
 | 48 | ![Cover](https://i.discogs.com/pJfxXc4hU7RhXcv6NNNDn4KHnNzdbs9H-oBDyuzC9oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTc0/ODUtMTUxMzQxNzg4/OS04ODgwLmpwZWc.jpeg) | 2009-09-10 | Editors | In This Light and on This Evening |
 | 24 |  | 2010-05-17 | Motorama | Alps |
-| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/69205d19623bfaa24591318d31a51975.png) | 2010-09-07 | Interpol | Interpol |
+| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/69205d19623bfaa24591318d31a51975.png) | 2010-09-07 | Interpol | Interpol |
 | 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b492e3d3aa1c1fff9471bb063b0879ab.png) | 2011-01-17 | White Lies | Ritual |
 | 43 | ![Cover](https://i.discogs.com/Bx-N3Mh6aVsg1tuo691EdsOo4bw56F_0QPKpm3ybUGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzg5/MzktMTU3MTYxMTY4/NS05MDk2LmpwZWc.jpeg) | 2011-04-22 | The Wombats | The Wombats Proudly Present... This Modern Glitch |
 | 71 | ![Cover](https://i.discogs.com/M28Z0Is3bGGxHp7EQaIGOlH8P0b18FHRBo1YHa9Id5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTk4/NTItMTQ2MzI1ODUz/Ny01MTEyLmpwZWc.jpeg) | 2011-06-06 | Paramore | The News |
 | 65 | ![Cover](https://i.discogs.com/SIAS4OxXbIZqYnZxt2w4MKR1K6f0eXdVT1OTUfCaPVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTI0/MzItMTMzNjM5Mjc2/Mi5qcGVn.jpeg) | 2012-04-21 | The Cure | 1982 - Pornography |
+| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a689804e35f64a3ea75c93fc9f4b9661.png) | 2013-05-06 | Savages | Silence Yourself |
 | 52 |  | 2013-07-12 | The xx | Fiction |
-| 83 |  | 2013-08-24 | King Krule | 6 Feet Beneath The Moon |
+| 82 |  | 2013-08-24 | King Krule | 6 Feet Beneath The Moon |
 | 53 |  | 2013-09-25 | Lebanon Hanover | tomb for two |
 | 26 |  | 2014-01-27 | Have a Nice Life | The Unnatural World |
 | 88 | ![Cover](https://i.discogs.com/EJACGmbRr4RNmfCwGJ3Y2r_OvZdRaHARjSvpqo2QYGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDc1/MzAtMTQ4MzU2NjY4/MC00NTA4LmpwZWc.jpeg) | 2017-01-27 | Strawberry Switchblade | 1982 4 Piece Demo |
 | 5 | ![Cover](https://i.discogs.com/uCO3z17iC2KMhTiZTFGgKPH3__jGo7oF3WqwmQMpAOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTA5/NzQtMTM0OTgwOTg5/MS0xMTAxLmpwZWc.jpeg) | 2017-03-31 | Nick Cave &amp; The Bad Seeds | Let Love In (2011 Remastered Version) |
-| 82 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3fe337e8f3ae27a8ca00143755031334.png) | 2017-10-13 | King Krule | The OOZ |
+| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3fe337e8f3ae27a8ca00143755031334.png) | 2017-10-13 | King Krule | The OOZ |
 | 18 | ![Cover](https://i.discogs.com/L-390xpjp9aaO-hlNRVWZ2U7h_mWcKpDBzBhM-CzG7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODkz/ODE5LTE2MTkwMDA3/ODktNTQyOS5qcGVn.jpeg) | 2018-04-02 | Lebanon Hanover | Let Them Be Alien |
-| 95 |  | 2018-09-07 | Molchat Doma | этажи |
+| 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ad7772faa3029d2992b7717119d30ac7.png) | 2018-09-07 | Molchat Doma | этажи |
 | 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d33b34877998da3ef033b5cb335a634d.png) | 2018-10-20 | Viagra Boys | Street Worms |
-| 35 | ![Cover](https://i.discogs.com/mjMjgpDlA2xjQCU61RDg0Quhm5ZHC5H7NXChwyGA7WQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc2/NTYzLTE1ODE0Njc2/OTAtOTY4NC5qcGVn.jpeg) | 2019-06-21 | BLACK MIDI | schlagenheim |
 | 14 | ![Cover](https://i.discogs.com/nLtbal4EIbNEbyU80XleyZuiUK8sZKiVpv6zRX8U8Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAz/MjY3LTE1OTkzODM2/NzEtODExMy5qcGVn.jpeg) | 2019-09-06 | Black Country, New Road | Sunglasses |
 | 61 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f696f58c83a17df71f51c2b9819cdff6.png) | 2020-02-21 | King Krule | Man Alive! |
 | 32 | ![Cover](https://i.discogs.com/1AkIdIh82UQAJYVfehCxgvsY6wvnhpL2UoM2jyP3qm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDkx/NjExLTE2ODczODgw/NTAtMjE4Ny5wbmc.jpeg) | 2020-04-01 | Computerwife | Computerwife |
 | 75 | ![Cover](https://i.discogs.com/UfwsH8r0UgEvHJsJ9eohb6W8KJ0xSAqxKj04xjLdWUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzgy/OTI0LTE1OTc3MDE5/MzAtNTY0MS5qcGVn.jpeg) | 2020-08-07 | Eyedress | Let&#39;s Skip to the Wedding |
 | 54 | ![Cover](https://i.discogs.com/Wz647USOfbdgUzMAv56KtS4L6HljPpbNCemrL5T9Edg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTUx/NzA2LTE2NDA1MzIz/NjctOTEzMC5qcGVn.jpeg) | 2021 | Black Country, New Road | For the first time |
+| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dea18db9a61d97affe9c31100a219cfe.png) | 2023-03-03 | slowthai | UGLY |
+| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/077f29a6b886ca5458fdf54082098897.png) |  | Yung Lean | Psykos |
+| 35 | ![Cover](https://i.discogs.com/mjMjgpDlA2xjQCU61RDg0Quhm5ZHC5H7NXChwyGA7WQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc2/NTYzLTE1ODE0Njc2/OTAtOTY4NC5qcGVn.jpeg) | 2019-06-21 | BLACK MIDI | schlagenheim |
 | 13 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0079eb5f7ca07703bac8c6288183ba4b.png) | 2021-12-17 | Killing Joke | Killing Joke 2003 |
 | 21 | ![Cover](https://i.discogs.com/cMeEL37b4fTvIjt5ihitmIN68vmAqo-EQNtU_XpLcBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTA3/MzI4LTE2NDcyNjcy/MzYtMTgyNS5wbmc.jpeg) | 2022-04-08 | WET LEG | Wet Leg |
-| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dea18db9a61d97affe9c31100a219cfe.png) | 2023-03-03 | slowthai | UGLY |
 | 33 | ![Cover](https://i.discogs.com/ZIiXV-DhNciC64Dl675Q-rdLVH7JWUpoykFAHsKQDAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTY1/NTg0LTE2Nzk5NDcx/MjItNzgzMy5wbmc.jpeg) | 2023-03-17 | Yves Tumor | Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds) |
 
 ### Related genres

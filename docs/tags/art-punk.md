@@ -1,13 +1,17 @@
 ---
 category: genre
-date: 2025-10-25T01:57:17.076Z
+date: 2025-10-28T22:35:09.030Z
 permalink: tags/art-punk
 title: art punk
 ---
 
 ## art punk
 
-Last updated: <time datetime="2025-10-25T01:57:17.076Z">Sat Oct 25 2025 04:57:17 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T22:35:09.030Z">Wed Oct 29 2025 00:35:09 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Art punk emerged in the 1970s by fusing punk&#39;s raw energy with experimental and avant-garde influences from art rock. The genre emphasizes angular guitar work, unconventional song structures, and intellectual or abstract lyrical themes over traditional punk aggression. It bridges the gap between punk&#39;s DIY ethos and more cerebral, artistic ambitions.
 
 ### 100 chronological releases
 
@@ -15,10 +19,10 @@ Last updated: <time datetime="2025-10-25T01:57:17.076Z">Sat Oct 25 2025 04:57:17
 |---|---|---|---|---|
 | 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a7f76fcb56c94a51ca3eefed472e88b4.png) | 1977-02-08 | Television | Marquee Moon |
 | 13 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cf450a0fbcfde0535dac822ca3e0ce52.png) | 1977-09-16 | Talking Heads | Talking Heads: 77 |
-| 90 | ![Cover](https://i.discogs.com/dH68H443lN57Mz_yoovrG1iISOkzsSSfYs-lzfdMCrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQ2/NDI2LTE2MDI0ODA0/NzktODY2MS5qcGVn.jpeg) | 1978 | Wire | Chairs Missing (2006 Remastered Version) |
+| 91 | ![Cover](https://i.discogs.com/dH68H443lN57Mz_yoovrG1iISOkzsSSfYs-lzfdMCrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQ2/NDI2LTE2MDI0ODA0/NzktODY2MS5qcGVn.jpeg) | 1978 | Wire | Chairs Missing (2006 Remastered Version) |
 | 72 |  | 1978-10-13 | Public Image Ltd. | Public Image |
-| 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9aafa5a242fb4770b526795fb0c2467e.png) | 1981 | Suburban Lawns | Suburban Lawns |
-| 2 | ![Cover](https://i.discogs.com/ZXe5dX1JLIX2k7CkHdzaFSehthfHXIcjY4bfp8gOPbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDY2/My0xMjk5OTQ5ODIy/LmpwZWc.jpeg) | 1981-06 | The Raincoats | Odyshape |
+| 1 | ![Cover](https://i.discogs.com/LTnOQtUGj33xQ_8Yv9aLfQqGBljx3Fr-a14H85rXlKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzQz/ODAtMTMzNDg4OTQ5/OC5qcGVn.jpeg) | 1980 | The Pop Group | Y (Remastered &amp; expanded) |
+| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9aafa5a242fb4770b526795fb0c2467e.png) | 1981 | Suburban Lawns | Suburban Lawns |
 | 55 |  | 1982 | T.S.O.L. | Beneath the Shadows |
 | 4 | ![Cover](https://i.discogs.com/e61xF_KNYbTUk-wmFFaXzBXvIvZlP4QJ1JXIUCx4ftA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODcy/MC0xMTM4NjM5ODQ1/LmpwZWc.jpeg) | 1982-08-06 | T.S.O.L. | Weathered Statues |
 | 89 |  | 1984 | T.S.O.L. | Change Today? |
@@ -27,7 +31,7 @@ Last updated: <time datetime="2025-10-25T01:57:17.076Z">Sat Oct 25 2025 04:57:17
 | 73 | ![Cover](https://i.discogs.com/TQ27TFsKoHTNwiypjRl9JWkxAGNrO6tlLGdsdZ7zztk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMw/ODExLTE1MTYyMDEw/NTgtNzYxNy5qcGVn.jpeg) | 1990 | Shame | Six-Pack |
 | 17 | ![Cover](https://i.discogs.com/LuFJPRScxCzaViASJt8kqtpcy0kp_lCB2uAA2W50DRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzkz/NC0xNjk0ODE0MDAz/LTEwNDQuanBlZw.jpeg) | 1991 | Armia | LEGENDA |
 | 27 | ![Cover](https://i.discogs.com/DK2qfmimZNG-D4Squb-_K-ITGGLR4uBkVIT7rV-6Sig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTE2/NjAxLTE2NDk0NDA2/NjEtNjE1OC5qcGVn.jpeg) | 1995-01 | Grandmas House | How Does It Feel? |
-| 93 | ![Cover](https://i.discogs.com/NiSKcfsP59ZdnAHAo-BpFIDxQI5l-o2Rn75Inu7EAKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQ2/NDY4LTE2MDI0ODIy/ODMtNDQ2MC5qcGVn.jpeg) | 1995-10-25 | Wire | Pink Flag (2006 Remastered Version) |
+| 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/67dac5870128f9262336a7516e9a508f.png) | 1995-10-25 | Wire | Pink Flag (2006 Remastered Version) |
 | 34 | ![Cover](https://i.discogs.com/adCt68KWQ9N0hyFsQQVKlDlxowvu44PegKx4PvEYgXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjc4/NTMtMTIzOTUzOTk1/My5qcGVn.jpeg) | 1996 | The Tiger Lillies | The Brothel To The Cemetery |
 | 23 | ![Cover](https://i.discogs.com/AmApp3lZtdHvSUUrilgxNM_2Gwih2XQqg2LTdoqAfa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTky/My0xMTc4NjE2ODYx/LmpwZWc.jpeg) | 1997 | Squid | Undergrowth |
 | 71 | ![Cover](https://i.discogs.com/Mu6KM6IlrlyM-koM32oJgDUDkJA50NOfotMsq7YusjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODQ4/MTktMTQzMjYzMDMy/NS01NzcyLmpwZWc.jpeg) | 2002 | The Blood Brothers | Crimes (Bonus Track Version) |
@@ -41,15 +45,15 @@ Last updated: <time datetime="2025-10-25T01:57:17.076Z">Sat Oct 25 2025 04:57:17
 | 50 |  | 2006-06-06 | The pAper chAse | Now You Are One of Us |
 | 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/36b3cb0ff6eb4ad4a23d164148d551c5.png) | 2006-09-12 | The Matches | Decomposer |
 | 63 | ![Cover](https://i.discogs.com/n4uuelepuoGa7yU4Ohg_DyRHYkdSAPkb0onaWxxBuSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTkw/NS0xNDYxNDQ5MDcw/LTM2OTcucG5n.jpeg) | 2006-10 | The Blood Brothers | Young Machetes (Bonus Track Version) |
-| 78 |  | 2007-08-20 | Liars | Liars |
+| 77 |  | 2007-08-20 | Liars | Liars |
 | 94 |  | 2008-05-14 | ミドリ | あらためまして、はじめまして、ミドリです。 |
 | 52 |  | 2009-01-28 | Armia | Der Prozess |
-| 1 | ![Cover](https://i.discogs.com/6X4s_upCiHEh26MnpSzRjIe4_AdtXzMYeaZoCWkt2PM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjAw/NjctMTQzNjI5NDUz/Ni05MTA2LmpwZWc.jpeg) | 2009-04-18 | Talking Heads | Talking Heads &#39;77 |
+| 2 | ![Cover](https://i.discogs.com/6X4s_upCiHEh26MnpSzRjIe4_AdtXzMYeaZoCWkt2PM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjAw/NjctMTQzNjI5NDUz/Ni05MTA2LmpwZWc.jpeg) | 2009-04-18 | Talking Heads | Talking Heads &#39;77 |
 | 32 | ![Cover](https://i.discogs.com/_jGVNO_5aJJL4II_PTGF7pqtEtiu7t4nAKi7RbzkpGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDk5/MDMtMTM5NjI4MDU4/OS03Nzc0LmpwZWc.jpeg) | 2013 | Viet Cong | &quot;Cassette&quot; |
 | 11 | ![Cover](https://i.discogs.com/yjprOD-oS4f_RrWzDy8NZN1DHfH3yupd_ekC_Tc1Tns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzI5/MjgtMTU4MzE3NDAy/Ny03MDE3LmpwZWc.jpeg) | 2013-02 | Iceage | You&#39;re Nothing (+ 2) |
 | 86 | ![Cover](https://i.discogs.com/hn1t-Pbr3MCP5uPvQyEbbnZ7atlwzqo6X9Lxsc_2inQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjA0/MTUtMTQxMTU2ODE2/Mi03MjYxLmpwZWc.jpeg) | 2014-12-23 | The Voidz | Tyranny |
-| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9edfa459a8a38432034e6fb77155b616.png) | 2015-09-18 | Ought | Sun Coming Down |
-| 91 | ![Cover](https://i.discogs.com/ViLtt6KLelb5UoptbagOgCgrVlBuO3w2pOKSgS1N-xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU4/MjMtMTQ1OTgyMzk4/My0zODIzLmpwZWc.jpeg) | 2016-04-08 | Parquet Courts | Human Performance |
+| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9edfa459a8a38432034e6fb77155b616.png) | 2015-09-18 | Ought | Sun Coming Down |
+| 92 | ![Cover](https://i.discogs.com/ViLtt6KLelb5UoptbagOgCgrVlBuO3w2pOKSgS1N-xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU4/MjMtMTQ1OTgyMzk4/My0zODIzLmpwZWc.jpeg) | 2016-04-08 | Parquet Courts | Human Performance |
 | 45 | ![Cover](https://i.discogs.com/vXcSbCMa63ZVfOcEJz6PGRNJ2XWPbQU2ifR9nxbOPe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjQ5/MzEtMTQ4NDQxOTk1/My02MTY4LmpwZWc.jpeg) | 2016-05-02 | Crack Cloud | Crack Cloud |
 | 51 | ![Cover](https://i.discogs.com/ecijnrqxhrlhkfcPmRLq3ni7MzXRA1kRs3y7R-YWVYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODMx/MjAtMTU5NDc4OTc0/Ni0yODk5LmpwZWc.jpeg) | 2017-01-27 | Priests | Nothing Feels Natural |
 | 12 | ![Cover](https://i.discogs.com/G4PpmG3Q7Er-Xt1sB4aMKh0oYoGqnE0Ozw_f5brrKmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA1/ODM0LTE0OTMzODYy/NDgtNjk3NS5qcGVn.jpeg) | 2017-04-23 | Marbled Eye | EP II |
@@ -72,7 +76,7 @@ Last updated: <time datetime="2025-10-25T01:57:17.076Z">Sat Oct 25 2025 04:57:17
 | 60 | ![Cover](https://i.discogs.com/Uo6TW37pbKQY-dpGhrmQRrvlGmobPLxaSc7JJMINJU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODg5/MDQ0LTE1ODM1MjIx/MDEtNDAwOC5qcGVn.jpeg) | 2020-03-13 | Porridge Radio | Every Bad |
 | 99 | ![Cover](https://i.discogs.com/mD6_cng_c7K9Gz7tdivFYHIIsqwKSW2zHt_vtw9gGh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc4/NTU2LTE1ODkyMTMw/MjUtMjY2OC5qcGVn.jpeg) | 2020-03-13 | The Garden | Kiss My Super Bowl Ring |
 | 30 | ![Cover](https://i.discogs.com/7irIvgToH30uykYOAo_1ioDKjkP3Xq2UPAMO3RLao7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDg0/MDY4LTE1OTA1ODYx/NjUtODQyMC5qcGVn.jpeg) | 2020-04-10 | Do Nothing | Zero Dollar Bill |
-| 77 | ![Cover](https://i.discogs.com/97EIs7Dw7HG9IKv324DrAvw9MFfVnYmAHtJwtVUAPiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDMx/NzA5LTE1OTkyOTU3/MjgtMjg5OC5qcGVn.jpeg) | 2020-06-05 | Sports Team | Deep Down Happy |
+| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/74b4dfe742ab6c1c3c2f6cb756c11b1c.png) | 2020-06-05 | Sports Team | Deep Down Happy |
 | 68 | ![Cover](https://i.discogs.com/LPw8WY18kRoN7M5vWaj7f1I-JJsJtctJA0ptvVeGA6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjE3/NDkwLTE2NzgwNjA0/NDAtNzY0OC5qcGVn.jpeg) | 2020-06-22 | Squid | Swing (In A Dream) |
 | 54 | ![Cover](https://i.discogs.com/H2HMpraQUcdlLRjuEz2xRpCxNEp7HISHUJdHLbLU8uY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODk2/Mjc0LTE2OTk4MjAw/MjctOTE5My5qcGVn.jpeg) | 2020-06-26 | Squid | Sludge &#x2F; Broadcaster |
 | 56 | ![Cover](https://i.discogs.com/WbOPlC-D5kVemtFb39INlc9hipUNgcU4rUHBJKLtn_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDUx/Mjg4LTE1OTE3MzYx/NDktNTg5NC5qcGVn.jpeg) | 2020-06-26 | Pottery | Welcome to Bobby&#39;s Motel |
@@ -81,7 +85,7 @@ Last updated: <time datetime="2025-10-25T01:57:17.076Z">Sat Oct 25 2025 04:57:17
 | 59 | ![Cover](https://i.discogs.com/-r7qFzQ8YEcFI_bt07i57-gGagpVM5CWdDLHXvqlTf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzIw/NTI1LTE1OTY2NzY5/MTUtMjkyOS5qcGVn.jpeg) | 2020-08-07 | Billy Nomates | Billy Nomates |
 | 22 | ![Cover](https://i.discogs.com/n2uqLn3Y8YW3dQXCEjQWGT6G1iRCRhsO1SpPY_17Ik0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY1/MjY5LTE1OTkyMjQ2/MDYtNDk4Ny5qcGVn.jpeg) | 2020-08-25 | Hotel Lux | Barstool Preaching |
 | 67 | ![Cover](https://i.discogs.com/90VrGrsE-KFy72BtVPUZDpDy-8_0PSVaQklABty9VWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ0/Mzc1LTE2MzA4MzU3/MDQtOTkwNy5qcGVn.jpeg) | 2021 | Pardoner | Came Down Different |
-| 79 | ![Cover](https://i.discogs.com/A_DzJqkq8SwxOf-e9lI_KJkt4EmuDm3lqHdvPNcN6O0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTE3/MzQ5LTE2MTE2ODY0/OTAtMzg5Ny5qcGVn.jpeg) | 2021-01-29 | goat girl | On All Fours |
+| 78 | ![Cover](https://i.discogs.com/A_DzJqkq8SwxOf-e9lI_KJkt4EmuDm3lqHdvPNcN6O0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTE3/MzQ5LTE2MTE2ODY0/OTAtMzg5Ny5qcGVn.jpeg) | 2021-01-29 | goat girl | On All Fours |
 | 38 | ![Cover](https://i.discogs.com/LoOMjsDNDhyfn-osdbgv_dGa1-oaPDnpSACn-AIUYj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDk0/NzY0LTE2MTk2MzU1/NTktOTQ3Ni5qcGVn.jpeg) | 2021-03 | Home Counties | Modern Yuppies |
 | 62 | ![Cover](https://i.discogs.com/vlJPQwsW4QaaPGKmUTzWqUTgi0u6xzufqhr2CvVJbnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjY4/ODAxLTE2MTU1NzM2/NTUtMzA2MS5qcGVn.jpeg) | 2021-03 | Billy Nomates | Emergency Telephone |
 | 35 | ![Cover](https://i.discogs.com/1DOJTGOv-hvvRP9Q-rpY-pVSR9fYBeWM8GUcyyhxeEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODA2/NjAzLTE2MTU1NTkx/ODMtMzc0NC5wbmc.jpeg) | 2021-03-11 | Courting | Grand National |
@@ -103,7 +107,7 @@ Last updated: <time datetime="2025-10-25T01:57:17.076Z">Sat Oct 25 2025 04:57:17
 | 9 | ![Cover](https://i.discogs.com/rR2JGdwbS3uY3whmDeSls3p9wXpHX-mEvfrPIH4FaBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzM4/MjM2LTE2Njk3NTg2/NDktMjA1Mi5qcGVn.jpeg) | 2022-10-07 | Die Nerven | Die Nerven |
 | 64 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/057f7c63fea9ddb00a56ef9e953588b8.png) | 2023 | The Armed | Perfect Saviors |
 | 49 | ![Cover](https://i.discogs.com/DPM7K1vz9yXM4BHzfcJTenyFdQLrzA-xdj0kvooLHLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzE0/NTQ5LTE2NzMzNDE2/NDEtNjkzNy5qcGVn.jpeg) | 2023-01-13 | Billy Nomates | CACTI |
-| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c9cfaf2e0c184d08450741227409a0d7.png) | 2023-02-24 | Shame | Food For Worms |
+| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c9cfaf2e0c184d08450741227409a0d7.png) | 2023-02-24 | Shame | Food For Worms |
 | 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/80a6fbacd65c2147679adadc5ed8a262.png) | 2023-03-17 | Maruja | Knocknarea |
 | 46 | ![Cover](https://i.discogs.com/Ly_uEMx66_Z_xdAiaN64HuVZ62NrNi-NjVpP2fjZCtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg3/NzQ4LTE3MDUyNTMy/MTYtODQ2Ni5qcGVn.jpeg) | 2023-05-05 | Maruja | Zeitgeist |
 | 26 | ![Cover](https://i.discogs.com/KaEmygi5rPowjlbDacVBjK09aGOKMHz0MvNNw8fET78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzEw/MjE1LTE2ODYxMTI1/MDUtNzA4NC5qcGVn.jpeg) | 2023-06-09 | Squid | O Monolith |

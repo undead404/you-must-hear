@@ -1,19 +1,24 @@
 ---
 category: genre
-date: 2025-10-28T02:10:19.101Z
+date: 2025-10-28T21:46:23.587Z
 permalink: tags/mediterranean
 title: mediterranean
 ---
 
 ## mediterranean
 
-Last updated: <time datetime="2025-10-28T02:10:19.101Z">Tue Oct 28 2025 04:10:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T21:46:23.587Z">Tue Oct 28 2025 23:46:23 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Mediterranean music refers to the music styles that originate from the countries surrounding the Mediterranean Sea, such as Spain, Italy, Greece, Turkey, Egypt, and Morocco. It is characterized by a mix of various cultural influences, such as Arab, Jewish, African, and European, and often incorporates elements of folk music, classical music, and popular music. The rhythms and instruments used in Mediterranean music vary widely depending on the region, but some common instruments include the guitar, oud, qanun, bouzouki, and various percussion instruments.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | Grup de Restauració Folklòrica de València i Fermín Pardo | Done&#39;m L&#39;Asguilando!: Cançons Populars del Nadal Valencià |
+| 1 |  |  | RedJapanese | RedJapanese|יפניאדום| يابانية أحمر|日本赤 |
+| 2 |  |  | Grup de Restauració Folklòrica de València i Fermín Pardo | Done&#39;m L&#39;Asguilando!: Cançons Populars del Nadal Valencià |
 | 6 |  |  | Charles Rocchi | Chansons Corses (Tango di Furiani) |
 | 7 |  |  | Jean Tavera | Chansons Corses (Terra Nostra) |
 | 10 |  |  | Rudo Cardi | Chansons Corses (Case Corse) |
@@ -41,11 +46,10 @@ Last updated: <time datetime="2025-10-28T02:10:19.101Z">Tue Oct 28 2025 04:10:19
 | 100 |  |  | Daboor | El Gad3ana |
 | 8 |  | 1957 | Jean Casi | Chansons Corses (Tous les corses du monde) |
 | 17 | ![Cover](https://i.discogs.com/3CEG3nmdyQ4VraCgIU7Ypa5zSsrKs61HqB3do9u3AM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY2/NjA0LTE1MTg2MjI2/MzktMTk4NS5qcGVn.jpeg) | 1964 | Régina &amp; Bruno | La voix du maquis |
-| 2 |  | 1976 | Maryse Nicolai | Chansons Corses (Toi, mon Île) |
-| 4 |  | 1976 | Maryse Nicolai | Chansons Corses (La complainte Corse) |
+| 5 |  | 1976 | Maryse Nicolai | Chansons Corses (La complainte Corse) |
 | 9 | ![Cover](https://i.discogs.com/-2Qx7QrHWxrlW0tXKAj4zMgKzo9rxOb9CCFqH_Fep58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU1/ODU2LTE1NDEzNDUz/NjYtMjY5My5qcGVn.jpeg) | 1980 | Richard Girolami | Chansons Corses (Isula di Corsica) |
 | 44 | ![Cover](https://i.discogs.com/Lo85DtPQXplPcLl6Xms4blqazcdxNpLNHk_Q5w8nW8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTcx/ODY0LTE2NDUwNDcz/NDktODQwOS5qcGVn.jpeg) | 1980 | Guillem Joan | novembre 2007 |
-| 5 |  | 1981 | Antoine Ciosi | Chansons Corses (U trenu di Bastia) |
+| 4 |  | 1981 | Antoine Ciosi | Chansons Corses (U trenu di Bastia) |
 | 23 |  | 1981 | A Filetta | maghja n&#39;avemu un&#39;antra |
 | 24 | ![Cover](https://i.discogs.com/bukVu4J7LJ7tEfuuaGqx3rDpOpYLXJUNwFfvIY3VdRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU1/NTg3LTE1NDEzNTcx/ODktNzQwMy5qcGVn.jpeg) | 1981 | Tony Toga | Chansons Corses (Le chant du maquis) |
 | 3 |  | 1986 | Richard Girolami | Chansons Corses (Corsica, un Isula) |

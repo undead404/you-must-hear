@@ -1,58 +1,62 @@
 ---
 category: genre
-date: 2025-10-22T16:44:12.300Z
+date: 2025-10-28T22:17:46.975Z
 permalink: tags/classical-violin
 title: classical violin
 ---
 
 ## classical violin
 
-Last updated: <time datetime="2025-10-22T16:44:12.300Z">Wed Oct 22 2025 19:44:12 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T22:17:46.975Z">Wed Oct 29 2025 00:17:46 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Classical violin music refers to music composed for and played on the violin in the classical music tradition. The violin is a central instrument in classical music and has been used extensively in orchestral, chamber, and solo music for hundreds of years. Classical violin music spans a wide range of periods and styles, from Baroque to Contemporary, and includes works by composers such as Johann Sebastian Bach, Wolfgang Amadeus Mozart, Ludwig van Beethoven, and many others. Famous classical violinists throughout history include Niccolò Paganini, Itzhak Perlman, and Hilary Hahn.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | Luca Fanfoni, Monica Fini | Nathan Milstein, Edvard Grieg, Maurice Ravel and Astor Piazzolla |
-| 3 |  |  | Pawet Szymanski | Polish Violin Duos |
-| 6 |  |  | Piotr Drozdzewski | Polish Violin Duos |
-| 13 |  |  | Eije Oue | Paganini &#x2F; Spohr: Violin Concertos |
-| 17 |  |  | Various Artists [Artist] | 50 Essential Violin |
-| 26 |  |  | Bartek Niziol | E. Ysaÿe: 6 Sonaten für Violine Solo Opus 27 |
-| 24 | ![Cover](https://i.discogs.com/2ByaohltSJBbL7uXZNlgIpBtfpL9nDOwjdCFgB_SNqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUx/NDc0LTE1Njg3OTcz/NjAtMzUyNC5wbmc.jpeg) | 1915 | Anonymous | Leopold Wallner: 1847-1913 |
-| 22 | ![Cover](https://i.discogs.com/sf2JiCS5dtI5mrZQXwBbSZL1ow1XIdeqEHFkKbAIUfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzU2/MDItMTQzNTQxNzI4/OC03OTY3LmpwZWc.jpeg) | 1951 | Giovanni Battista Viotti | Beethoven: Romances Nos. 1 and 2 &#x2F; Spohr: Violin Concerto No. 8 &#x2F; Viotti: Violin Concerto No. 3 |
-| 8 | ![Cover](https://i.discogs.com/OllT9w2pxoTjGAwQXA1v_EGY2Z8JDWXPCwgQIenPfXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTg0/MjUtMTQ1ODEzMTA4/NS02NDA1LmpwZWc.jpeg) | 1967 | Giuseppe Torelli | L&#39;Arte del Violino in Italia, c. 1650-1700 |
-| 7 | ![Cover](https://i.discogs.com/V5yVV7HDynjoMVua2sU0Y0CKdZ846YXc6oTuDx4hhdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTMx/MjkzLTE2MTc0Mzc4/NTEtMzk4Mi5qcGVn.jpeg) | 1986-02 | Antonín Dvořák | Violin Recital of Smetana, Dvořák, Janáček, Martinů, Ševčík |
-| 10 |  |  | Leopold Wallner | Leopold Wallner: 1847-1913 |
-| 18 |  |  | Patricia Kopatchinskaia, Henri Sigfridsson (P) and Sol Gabetta (Cello), Berne Symphony Orchestra, Andrey Boreyko | Beethoven : Triple concerto C-major op.56 : Kopachinskaya, Sigfridsson, Gabette |
-| 20 |  |  | Patricia Kopatchinskaja&#x2F;Anja Lechner | Quasi parlando |
+| 2 |  |  | Luca Fanfoni, Monica Fini | Nathan Milstein, Edvard Grieg, Maurice Ravel and Astor Piazzolla |
+| 4 |  |  | Pawet Szymanski | Polish Violin Duos |
+| 7 |  |  | Piotr Drozdzewski | Polish Violin Duos |
+| 14 |  |  | Eije Oue | Paganini &#x2F; Spohr: Violin Concertos |
+| 18 |  |  | Various Artists [Artist] | 50 Essential Violin |
+| 21 |  |  | Patricia Kopatchinskaja&#x2F;Anja Lechner | Quasi parlando |
+| 27 |  |  | Bartek Niziol | E. Ysaÿe: 6 Sonaten für Violine Solo Opus 27 |
+| 25 | ![Cover](https://i.discogs.com/2ByaohltSJBbL7uXZNlgIpBtfpL9nDOwjdCFgB_SNqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUx/NDc0LTE1Njg3OTcz/NjAtMzUyNC5wbmc.jpeg) | 1915 | Anonymous | Leopold Wallner: 1847-1913 |
+| 34 | ![Cover](https://i.discogs.com/T1Q7ZY2KhrwZ0FMxa-IAPSWL1mF-bT64lmt7H2xnKjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTkw/OTktMTU3ODI3NDUx/MC00ODU4LmpwZWc.jpeg) | 1920 | Fritz Kreisler | a paganini |
+| 9 | ![Cover](https://i.discogs.com/OllT9w2pxoTjGAwQXA1v_EGY2Z8JDWXPCwgQIenPfXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTg0/MjUtMTQ1ODEzMTA4/NS02NDA1LmpwZWc.jpeg) | 1967 | Giuseppe Torelli | L&#39;Arte del Violino in Italia, c. 1650-1700 |
+| 8 | ![Cover](https://i.discogs.com/V5yVV7HDynjoMVua2sU0Y0CKdZ846YXc6oTuDx4hhdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTMx/MjkzLTE2MTc0Mzc4/NTEtMzk4Mi5qcGVn.jpeg) | 1986-02 | Antonín Dvořák | Violin Recital of Smetana, Dvořák, Janáček, Martinů, Ševčík |
+| 11 |  |  | Leopold Wallner | Leopold Wallner: 1847-1913 |
+| 19 |  |  | Patricia Kopatchinskaia, Henri Sigfridsson (P) and Sol Gabetta (Cello), Berne Symphony Orchestra, Andrey Boreyko | Beethoven : Triple concerto C-major op.56 : Kopachinskaya, Sigfridsson, Gabette |
 | 41 |  |  | Isabelle Durin, Michaël Ertzscheid | Romantisme hébraïque |
-| 19 |  | 1972 | Wolfgang Amadeus Mozart | Violin Concertos Nos. 1-3 &#x2F; Rondo KV 373 (Berlin Philharmonic Orchestra feat. conductor, violin: David Oistrakh) |
-| 11 | ![Cover](https://i.discogs.com/lXiz3to8Mpwk3NeG_QUUPBtkUmmxo--V1xZ41jNxxTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NDc5LTE2MTk3MDEw/MDEtNjk4My5qcGVn.jpeg) | 1975 | Antonín Dvořák | Dvořák &amp; Suk: Violin Works |
-| 27 | ![Cover](https://i.discogs.com/_wbWLDFLohAR1X03fl5jNOdR-AwsERq-qWisC9h_7Cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzUz/OTgtMTM1MTEwMTE4/MC0yNzE5LmpwZWc.jpeg) | 1988 | Grażyna Bacewicz | Grażyna Bacewicz |
-| 47 | ![Cover](https://i.discogs.com/LqyNM3rQ0UOO8FNSXEeU9HMv0kP_5AJTl5klkIIo0nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU4/NDIwLTE1NjI3MDcw/NDQtNTE3OS5qcGVn.jpeg) | 1988 | Tor Aulin | Sjogren: Complete Works for Violin and Piano, Vol. 2 |
-| 28 |  | 1991-05 | Wolfgang Amadeus Mozart | Complete Mozart Edition, Volume 15: Violin Sonatas |
-| 33 |  |  | Giora Schmidt &amp; Rohan De Silva | Giora Schmidt Live from Miami |
-| 36 |  |  | Renato Donà, Aldo Ciccolini | César Franck, Claude Debussy, Maurice Ravel: Sonatas for Violin and Piano |
 | 49 |  |  | Amy Schwartz Moretti, Elizabeth Pridgen, Robert McDuffie | Kaleidoscope |
 | 50 |  |  | David Oistrakh | Oistrakh plays Mozart, Beethoven and Shostakovich |
-| 35 | ![Cover](https://i.discogs.com/T1Q7ZY2KhrwZ0FMxa-IAPSWL1mF-bT64lmt7H2xnKjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTkw/OTktMTU3ODI3NDUx/MC00ODU4LmpwZWc.jpeg) | 1920 | Fritz Kreisler | a paganini |
+| 23 | ![Cover](https://i.discogs.com/sf2JiCS5dtI5mrZQXwBbSZL1ow1XIdeqEHFkKbAIUfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNzU2/MDItMTQzNTQxNzI4/OC03OTY3LmpwZWc.jpeg) | 1951 | Giovanni Battista Viotti | Beethoven: Romances Nos. 1 and 2 &#x2F; Spohr: Violin Concerto No. 8 &#x2F; Viotti: Violin Concerto No. 3 |
+| 20 |  | 1972 | Wolfgang Amadeus Mozart | Violin Concertos Nos. 1-3 &#x2F; Rondo KV 373 (Berlin Philharmonic Orchestra feat. conductor, violin: David Oistrakh) |
+| 12 | ![Cover](https://i.discogs.com/lXiz3to8Mpwk3NeG_QUUPBtkUmmxo--V1xZ41jNxxTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTEy/NDc5LTE2MTk3MDEw/MDEtNjk4My5qcGVn.jpeg) | 1975 | Antonín Dvořák | Dvořák &amp; Suk: Violin Works |
+| 28 | ![Cover](https://i.discogs.com/_wbWLDFLohAR1X03fl5jNOdR-AwsERq-qWisC9h_7Cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzUz/OTgtMTM1MTEwMTE4/MC0yNzE5LmpwZWc.jpeg) | 1988 | Grażyna Bacewicz | Grażyna Bacewicz |
+| 47 | ![Cover](https://i.discogs.com/LqyNM3rQ0UOO8FNSXEeU9HMv0kP_5AJTl5klkIIo0nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU4/NDIwLTE1NjI3MDcw/NDQtNTE3OS5qcGVn.jpeg) | 1988 | Tor Aulin | Sjogren: Complete Works for Violin and Piano, Vol. 2 |
 | 39 | ![Cover](https://i.discogs.com/4jSrqThxi6sV8Ho3lSc-ymwzsRZ-lm_6icG-qLuRllU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTY3/MjQyLTE1MTExMDI2/MTAtODMxNy5qcGVn.jpeg) | 1990 | Heinrich von Herzogenberg | Herzogenberg: Complete Violin Sonatas |
-| 16 | ![Cover](https://i.discogs.com/8sONs5F_96UHPMea88kkj4x6ofw7keG1j2rhnCiHGJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjA0/MDU2LTE2ODg3MTQ0/MDAtODE2Mi5qcGVn.jpeg) | 1994 | Massimiliano Damerini &amp; Georg Mönch | French Violin Sonatas |
-| 4 | ![Cover](https://i.discogs.com/0zKRz5Vrk9P1TAHVorqde8CMVcCZ-IwzTAc984LuwSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDk5/MzgyLTE2NjAwNjUy/MzktOTMyMC5qcGVn.jpeg) | 1997 | Pavel Sporcl | Vivaldi - Ctvero rocnich dob &#x2F; Koncert pro dvoje housle a orchestr |
-| 43 | ![Cover](https://i.discogs.com/0zKRz5Vrk9P1TAHVorqde8CMVcCZ-IwzTAc984LuwSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDk5/MzgyLTE2NjAwNjUy/MzktOTMyMC5qcGVn.jpeg) | 1997 | Pavel Šporcl | Vivaldi: Four Seasons, Bach: Concerto for Two Violins and Strings &#x2F; Šporcl, Prague Philharmonia |
+| 29 |  | 1991-05 | Wolfgang Amadeus Mozart | Complete Mozart Edition, Volume 15: Violin Sonatas |
+| 17 | ![Cover](https://i.discogs.com/8sONs5F_96UHPMea88kkj4x6ofw7keG1j2rhnCiHGJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjA0/MDU2LTE2ODg3MTQ0/MDAtODE2Mi5qcGVn.jpeg) | 1994 | Massimiliano Damerini &amp; Georg Mönch | French Violin Sonatas |
+| 5 | ![Cover](https://i.discogs.com/0zKRz5Vrk9P1TAHVorqde8CMVcCZ-IwzTAc984LuwSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDk5/MzgyLTE2NjAwNjUy/MzktOTMyMC5qcGVn.jpeg) | 1997 | Pavel Sporcl | Vivaldi - Ctvero rocnich dob &#x2F; Koncert pro dvoje housle a orchestr |
 | 45 | ![Cover](https://i.discogs.com/GnGm84AOTycphHLPT6bl1zywVL27xR9sBHIOeyKCON8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzA1/NzkyLTE1MjA5NzE4/MzQtOTI4NS5qcGVn.jpeg) | 1999 | Pavel Šporcl | My Violin Legends |
+| 1 | ![Cover](https://i.discogs.com/U6OVrUYEuGr4yFwYQgjP4GM1KqV8w8J3w6zorU0mApM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTU5/NjMyLTE2MjY3ODM3/NTQtNTk2MC5qcGVn.jpeg) | 2000 | Felix Mendelssohn | Mendelssohn: Violin Concerto in D Minor - Tchaikovsky: Serenade in C Major |
+| 13 | ![Cover](https://i.discogs.com/BM8n4TybM3xqXfpdmmoMu4Ar0ZKiaQVZBZmkN0nsPvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODY3/NDYzLTE2NDk4NjQx/ODAtMjkzNi5qcGVn.jpeg) | 2000-12 | Sir Edward Elgar | Violin Concerto in Bm, Op 61 |
+| 33 |  |  | Giora Schmidt &amp; Rohan De Silva | Giora Schmidt Live from Miami |
+| 36 |  |  | Renato Donà, Aldo Ciccolini | César Franck, Claude Debussy, Maurice Ravel: Sonatas for Violin and Piano |
+| 43 | ![Cover](https://i.discogs.com/0zKRz5Vrk9P1TAHVorqde8CMVcCZ-IwzTAc984LuwSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDk5/MzgyLTE2NjAwNjUy/MzktOTMyMC5qcGVn.jpeg) | 1997 | Pavel Šporcl | Vivaldi: Four Seasons, Bach: Concerto for Two Violins and Strings &#x2F; Šporcl, Prague Philharmonia |
 | 48 | ![Cover](https://i.discogs.com/j7Sb03g2QRAqYT8Q_9EzkXIb5ip_a1foYlhXP9y81mI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjk4/MDctMTQ3NzcwNDM0/MC0xMjg4LmpwZWc.jpeg) | 1999 | Hélène Schmitt | Carbonelli: Sonates pour violon &amp; basse continue |
 | 38 | ![Cover](https://i.discogs.com/QP7utxsnqQP6KNRWsVjADWcOH-Zk1-ebt9uIxfnY_h8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzYz/MjYtMTQ3MjU5NjE1/NC03NTIxLmpwZWc.jpeg) | 2000 | Pierre Amoyal &amp; Frederic Chiu | Grieg: Violin Sonatas |
-| 12 | ![Cover](https://i.discogs.com/BM8n4TybM3xqXfpdmmoMu4Ar0ZKiaQVZBZmkN0nsPvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODY3/NDYzLTE2NDk4NjQx/ODAtMjkzNi5qcGVn.jpeg) | 2000-12 | Sir Edward Elgar | Violin Concerto in Bm, Op 61 |
-| 9 | ![Cover](https://i.discogs.com/icDTVT-IoogRMb1qPJjCLHJXhsXw_qs7BgUGynZcET8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDY0/NDI0LTE2NzEwNDI0/OTctNzY5MC5qcGVn.jpeg) | 2001 | Erich Wolfgang Korngold | Strauss &#x2F; Korngold: Violin Concertos |
-| 15 | ![Cover](https://i.discogs.com/FesfCIX2P1DNz6nyI0TE_BYHsRYsnCSOceilb5H9bE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg5/NjAxLTE2Mjc3MzI4/MTctNTQwMi5qcGVn.jpeg) | 2001 | Richard Strauss | Strauss &#x2F; Korngold: Violin Concertos |
-| 23 | ![Cover](https://i.discogs.com/xEuRg7veSk0kWotSZBKt8xGw-sLf41m8I64g8GaO4Nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY3/MDY3LTE2NTQ3OTMz/NzctOTAzOC5qcGVn.jpeg) | 2001 | Giovanni Maria Bononcini | L&#39;Arte del Violino in Italia, c. 1650-1700 |
-| 34 | ![Cover](https://i.discogs.com/UutEqPIb25ILR3JqmzbdR9O5VN2-7lxM_MmqmMZWCug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI5/ODkzLTE1NDg1OTY1/ODYtMTY5Ni5qcGVn.jpeg) | 2004 | Joachim Raff | Raff: Violin and Piano Works, Vol. 4 - Violin Sonatas No. 4 and 5 |
+| 10 | ![Cover](https://i.discogs.com/icDTVT-IoogRMb1qPJjCLHJXhsXw_qs7BgUGynZcET8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDY0/NDI0LTE2NzEwNDI0/OTctNzY5MC5qcGVn.jpeg) | 2001 | Erich Wolfgang Korngold | Strauss &#x2F; Korngold: Violin Concertos |
+| 16 | ![Cover](https://i.discogs.com/FesfCIX2P1DNz6nyI0TE_BYHsRYsnCSOceilb5H9bE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg5/NjAxLTE2Mjc3MzI4/MTctNTQwMi5qcGVn.jpeg) | 2001 | Richard Strauss | Strauss &#x2F; Korngold: Violin Concertos |
+| 24 | ![Cover](https://i.discogs.com/xEuRg7veSk0kWotSZBKt8xGw-sLf41m8I64g8GaO4Nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY3/MDY3LTE2NTQ3OTMz/NzctOTAzOC5qcGVn.jpeg) | 2001 | Giovanni Maria Bononcini | L&#39;Arte del Violino in Italia, c. 1650-1700 |
+| 35 | ![Cover](https://i.discogs.com/UutEqPIb25ILR3JqmzbdR9O5VN2-7lxM_MmqmMZWCug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI5/ODkzLTE1NDg1OTY1/ODYtMTY5Ni5qcGVn.jpeg) | 2004 | Joachim Raff | Raff: Violin and Piano Works, Vol. 4 - Violin Sonatas No. 4 and 5 |
 | 37 | ![Cover](https://i.discogs.com/H6fcaJB2VB9eS4f1xLEnBL7zIACQUH2IwAiU91CB7Qc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTk1/ODMzLTE2NjcxNDI0/MTMtODI2My5qcGVn.jpeg) | 2006 | Steven Staryk | The Art of Steven Staryk â Handel, Mozart, Brahms, Paganini, etc |
-| 5 | ![Cover](https://i.discogs.com/3MV3JYWynP2p21ZnYOXgbGpaNY1tp97tGMaDnTTtOHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjcz/NjY2LTE2NDg0NjQ3/NjctMTk1My5qcGVn.jpeg) | 2008 | Julia Fischer | Russian Violin Concertos (Julia Fischer, Russian Natl Orch, Yakov Kreizberg) |
-| 14 | ![Cover](https://i.discogs.com/1F8nx1arrW-Why9SCUm6MyOLDM_LICObmYSc_tH_STc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM1/MjMzLTE2MDk3MDY5/OTMtMjM2OS5qcGVn.jpeg) | 2009 | Jean Huré (Marie-Josèphe Jude) | Sonate Violon Piano-Quintette |
-| 30 | ![Cover](https://i.discogs.com/wLd3UHakH4VmWpsbnPviLkohm__-0_Mnwc_lqvmYzGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjIy/NzYtMTQ1NDQxOTQ5/OS04NTE1LmpwZWc.jpeg) | 2009 | Alina Ibragimova | Bach - Sonatas &amp; Partitas for Solo Violin - CD1 |
+| 6 | ![Cover](https://i.discogs.com/3MV3JYWynP2p21ZnYOXgbGpaNY1tp97tGMaDnTTtOHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjcz/NjY2LTE2NDg0NjQ3/NjctMTk1My5qcGVn.jpeg) | 2008 | Julia Fischer | Russian Violin Concertos (Julia Fischer, Russian Natl Orch, Yakov Kreizberg) |
+| 15 | ![Cover](https://i.discogs.com/1F8nx1arrW-Why9SCUm6MyOLDM_LICObmYSc_tH_STc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM1/MjMzLTE2MDk3MDY5/OTMtMjM2OS5qcGVn.jpeg) | 2009 | Jean Huré (Marie-Josèphe Jude) | Sonate Violon Piano-Quintette |
 | 51 | ![Cover](https://i.discogs.com/4e50fB9mFSGp3lDuTOtHWAl5HSzAEO1_L0NHWOwPI3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODE1/ODAtMTQwNTI5Mzcz/Mi05MzMwLmpwZWc.jpeg) | 2009-07-07 | Benedetti, Nicola | Fantasie |
 | 52 |  |  | Ernest Lush | Ruggiero Ricci Virtuoso Showpieces |
 | 57 |  |  | Michael Rabin | Violin Classics |
@@ -92,7 +96,7 @@ Last updated: <time datetime="2025-10-22T16:44:12.300Z">Wed Oct 22 2025 19:44:12
 | 55 | ![Cover](https://i.discogs.com/KXKrc2NKnqOfKkeQ3x7_njp-Cw_baiD-pZsTHepbDQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDIw/OTMtMTM3NzE5NzEy/OC0zMTUxLmpwZWc.jpeg) | 2010 | Anne-Sophie Mutter &amp; Lambert Orkis | Brahms Violin Sonatas |
 | 65 | ![Cover](https://i.discogs.com/NabYOm5x3bpIoNpXkG_mPC5Mh20LICFnho83AQSOTCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTg3/MzUtMTM1MTg2MDM1/OS0zNTAwLmpwZWc.jpeg) | 2010 | Maria Bachmann | Glass Heart |
 | 86 | ![Cover](https://i.discogs.com/1imrPDlJ885lrJNFtNbm0MC0uMgouAVcrhQhu4ak5s4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAz/NzEtMTQ4ODE1Mjky/NC0xNzM1LmpwZWc.jpeg) | 2010 | Angele Dubeau &amp; La Pieta | Arvo Pärt: Portrait |
-| 2 | ![Cover](https://i.discogs.com/EBov8L5FR1Y8uzYl42x4s-PThN5Iev0XR_le9v99tAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEw/ODQ1LTE1MzI2ODQ0/OTUtODg0My5qcGVn.jpeg) | 2011 | Holland Baroque Society, Miloš Valent | Telemann: Barbaric Beauty 18th Century Dance Transcriptions |
+| 3 | ![Cover](https://i.discogs.com/EBov8L5FR1Y8uzYl42x4s-PThN5Iev0XR_le9v99tAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEw/ODQ1LTE1MzI2ODQ0/OTUtODg0My5qcGVn.jpeg) | 2011 | Holland Baroque Society, Miloš Valent | Telemann: Barbaric Beauty 18th Century Dance Transcriptions |
 | 53 |  | 2011 | Pavel Šporcl | Sporcelain |
 | 94 | ![Cover](https://i.discogs.com/cZsnQsUSNC28nHjBvi8ilaQ2ku3O2BR7IhG-ma21-t8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU2/MDYxLTE1NjY5NzUx/MDEtNTE2Ny5qcGVn.jpeg) | 2011-10-21 | Hilary Hahn | Paganini &#x2F; Spohr: Violin Concertos |
 | 63 | ![Cover](https://i.discogs.com/l_ISTTsWNXvsVBOujZqcQAUD1mHo5dYTuFVba0kRthg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjY5/ODktMTQ4ODY3Njk1/OS0zOTU5LmpwZWc.jpeg) | 2012 | Lara St. John &amp; Marie-Pierre Langlamet | Bach: Sonatas |
@@ -106,10 +110,10 @@ Last updated: <time datetime="2025-10-22T16:44:12.300Z">Wed Oct 22 2025 19:44:12
 | 96 | ![Cover](https://i.discogs.com/tC6BonJTG_K6mnyqMk3AQp39dShrHx6rLOK8twVOh5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTc4/MTItMTM5NTQzODAw/Ny04MjEwLmpwZWc.jpeg) | 2014-03 | John Holloway | Pavans and Fantasies from the Age of Dowland |
 | 92 | ![Cover](https://i.discogs.com/cS-WhH6etfcG45cDWL7yyV2wXMx3VBVVniyCE5HjDh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE1/NDYwLTE1NzQwNjk1/NzAtNTIxNi5qcGVn.jpeg) | 2014-08-07 | Alex Baranowski | Spheres - Einaudi, Glass, Nyman, Pärt, Richter |
 | 83 | ![Cover](https://i.discogs.com/LGGeZjN2vaVWhE4pN_H9aauWXeUqzPnWVCY69mzZX3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzIy/OTItMTU4NTA1NjE4/NC0yMjQ5LnBuZw.jpeg) | 2016-01-01 | Heinrich Wilhelm Ernst | Ernst: Erlkönig - Le Carnaval de Venise |
-| 29 | ![Cover](https://i.discogs.com/e6WeEiTtyawjx-1tDA7xs6T99L1Rl4I90Kx8ZaKpGNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ1/NDY2LTE1NjY3NDcx/NjktMzk1Mi5qcGVn.jpeg) | 2018-03 | Emile Sauret | Sauret: Music for Violin and Piano |
-| 25 | ![Cover](https://i.discogs.com/7kUo6Dczr4-BKOflp8mJd2BqQGqmznup9r4pnz0FzLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTA1/MjA3LTE1OTk5Mzgw/NDYtMTMxMi5qcGVn.jpeg) | 2019 | Susanne Lundeng | Sanger Om Sårbarhet |
+| 30 | ![Cover](https://i.discogs.com/e6WeEiTtyawjx-1tDA7xs6T99L1Rl4I90Kx8ZaKpGNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ1/NDY2LTE1NjY3NDcx/NjktMzk1Mi5qcGVn.jpeg) | 2018-03 | Emile Sauret | Sauret: Music for Violin and Piano |
+| 26 | ![Cover](https://i.discogs.com/7kUo6Dczr4-BKOflp8mJd2BqQGqmznup9r4pnz0FzLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTA1/MjA3LTE1OTk5Mzgw/NDYtMTMxMi5qcGVn.jpeg) | 2019 | Susanne Lundeng | Sanger Om Sårbarhet |
 | 32 | ![Cover](https://i.discogs.com/rlbUQmc6_rP3EMKq8dTGrw-YMcrH2vSovoml7IiEU00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTkz/NzAzLTE2NzMzMDA1/MzgtNTc2My5qcGVn.jpeg) | 2020 | Michi Wiancko | Platinum Spirals |
-| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e9962ec5b67d4b67a3e0f16ee7262020.png) | 2021 | Carlo Zuccari | Zuccari: Violin Sonatas |
+| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e9962ec5b67d4b67a3e0f16ee7262020.png) | 2021 | Carlo Zuccari | Zuccari: Violin Sonatas |
 | 76 | ![Cover](https://i.discogs.com/Y0lUuirBfiUVXGeamBBEFMcNUGnn-WnEysh060YeCZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjI1/MTU3LTE2MzQ0ODkx/MjUtMzEwMi5qcGVn.jpeg) | 2021 | Salvatore Accardo | Il Vesuvio (1727) |
 | 31 | ![Cover](https://i.discogs.com/bedmVs0ZVl3n6yh2qhz1mxMUevndrq7mNaODftJNigs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk4/OTM3LTE1MzAzMDM4/NjUtODIzNC5qcGVn.jpeg) | 2022-04-22 | Josef Spacek | Josef Špaček - violin, Miroslav Sekera - piano &#x2F; Janáček, Smetana, Prokofiev |
 | 89 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b3c826b1b2f943e1a636a231f16277f6.png) | 2023-07-28 | Hilary Hahn | Paganini &#x2F; Spohr: Violin Concertos incld. Listening Guide |
