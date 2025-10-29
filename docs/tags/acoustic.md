@@ -9,6 +9,10 @@ title: acoustic
 
 Last updated: <time datetime="2025-10-28T01:46:48.864Z">Tue Oct 28 2025 03:46:48 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Acoustic music emphasizes natural, unamplified instruments like guitars and pianos, creating an intimate and organic sound. The genre strips away electronic production to highlight raw vocals and melodic songwriting. It appeals to listeners seeking authentic, minimalist performances that feel personal and unadorned.
+
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
@@ -29,8 +33,8 @@ Last updated: <time datetime="2025-10-28T01:46:48.864Z">Tue Oct 28 2025 03:46:48
 | 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cbe06e7f17ca878f52739d9c5b315280.png) | 2002-09-21 | Beck | Sea Change |
 | 25 |  | 2002-09-24 | Iron &amp; Wine | The Creek Drank the Cradle |
 | 82 |  | 2003-05-06 | Jack Johnson | On and On |
-| 96 |  | 2003-10 | José González | Veneer |
 | 3 |  | 2003-10-07 | Howie Day | Stop All The World Now |
+| 96 |  | 2003-10 | José González | Veneer |
 | 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b85b3e6cb75544a78a8d5778888f7f4c.png) | 2004-03-16 | Godsmack | The Other Side |
 | 26 | ![Cover](https://i.discogs.com/V5zxHMQh5ToKInbEvYACZhZYg9XByfWQcbHGRIJNJ2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzM5/NS0xMzAxMDA2OTk5/LmpwZWc.jpeg) | 2004-03-16 | Sufjan Stevens | Seven Swans |
 | 56 |  | 2004-05-11 | Donavon Frankenreiter | Donavon Frankenreiter |
