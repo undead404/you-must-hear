@@ -1,0 +1,797 @@
+{
+  "name": "Save tag list markdown 2",
+  "nodes": [
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "d8f86dce-72ae-4219-9b5a-7bb74839e0bd",
+              "name": "artist",
+              "value": "={{ $json.artist }}",
+              "type": "string"
+            },
+            {
+              "id": "62c3be7a-3f93-4bda-8fe3-30694a9331c3",
+              "name": "cover",
+              "value": "={{ $json.cover }}",
+              "type": "string"
+            },
+            {
+              "id": "e1b68e2d-69cd-477b-a1e4-28501ed2601b",
+              "name": "date",
+              "value": "={{ $json.date }}",
+              "type": "string"
+            },
+            {
+              "id": "4b3f0040-5843-41d4-a57a-6b32b50785c6",
+              "name": "name",
+              "value": "={{ $json.name }}",
+              "type": "string"
+            },
+            {
+              "id": "c946ab81-ffff-4f40-98ce-9c373cdef16b",
+              "name": "thumbnail",
+              "value": "={{ $json.thumbnail }}",
+              "type": "string"
+            },
+            {
+              "id": "94538fc8-d5cd-4c7c-84a6-6434f4cb4d3a",
+              "name": "place",
+              "value": "={{ $json.place }}",
+              "type": "number"
+            },
+            {
+              "id": "b40e24eb-9f3d-4443-8aa3-c74b95b58dd1",
+              "name": "tags",
+              "value": "={{ $json.tags }}",
+              "type": "array"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        1808,
+        -64
+      ],
+      "id": "95a0a093-50a3-4d1e-960d-f2bd83c39bd3",
+      "name": "Edit Fields",
+      "executeOnce": false
+    },
+    {
+      "parameters": {
+        "operation": "select",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "value": "TagListItem",
+          "mode": "list",
+          "cachedResultName": "TagListItem"
+        },
+        "limit": 100,
+        "where": {
+          "values": [
+            {
+              "column": "tagName",
+              "value": "={{ $json.name }}"
+            }
+          ]
+        },
+        "sort": {
+          "values": [
+            {
+              "column": "place"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        688,
+        -64
+      ],
+      "id": "7252f76e-0c0d-40fe-b2d7-4e68d92637b3",
+      "name": "Get the list",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "mode": "combine",
+        "combineBy": "combineByPosition",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        1136,
+        32
+      ],
+      "id": "f4a6e514-9c3e-45e2-b2b7-dd9257590a2a",
+      "name": "Merge places with albums"
+    },
+    {
+      "parameters": {
+        "jsCode": "const Mustache = require('mustache');\n\nconst date = $('Begin').first().json.listUpdatedAt;\nconst title = $('Begin').first().json.name;\nconst { data, description, relatedTags, template } = $input.first().json;\n\nconst markdown = Mustache.render(template, {\n  date: date,\n  description: description,\n  linkName: title.replaceAll(' ', '-'),\n  prettyDate: new Date(date).toString(),\n  relatedGenres: relatedTags.map(({tagName}) => ({\n    linkName: tagName.replaceAll(' ', '-'),\n    name: tagName,\n  })),\n  releases: data.map(release => ({\n    artist: release.artist,\n    cover: release.thumbnail,\n    date: release.date,\n    name: release.name,\n    place: release.place,\n    tags: (release.tags || []),\n  })),\n  title: title,\n}, {}, [ '<%', '%>' ]);\n\nreturn {markdown};"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        2928,
+        -448
+      ],
+      "id": "b6b0411f-dff2-421c-a3cc-9affc8624f04",
+      "name": "Create Markdown",
+      "executeOnce": false
+    },
+    {
+      "parameters": {
+        "operation": "write",
+        "fileName": "=/Users/Vitalii_Perehonchuk/Projects/ymh7/docs/tags/{{ $('Begin').first().json.name.replaceAll(' ', '-') }}.md",
+        "options": {
+          "append": false
+        }
+      },
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1,
+      "position": [
+        3376,
+        -448
+      ],
+      "id": "666b585b-213f-46af-81b4-e2051bd0c618",
+      "name": "Read/Write Files from Disk1"
+    },
+    {
+      "parameters": {
+        "operation": "toText",
+        "sourceProperty": "markdown",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.convertToFile",
+      "typeVersion": 1.1,
+      "position": [
+        3152,
+        -448
+      ],
+      "id": "523a54eb-9da6-4b47-86f1-20674b6332ce",
+      "name": "Convert to File"
+    },
+    {
+      "parameters": {
+        "operation": "select",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "value": "Album",
+          "mode": "list",
+          "cachedResultName": "Album"
+        },
+        "limit": 1,
+        "where": {
+          "values": [
+            {
+              "column": "artist",
+              "value": "={{ $json.albumArtist }}"
+            },
+            {
+              "column": "name",
+              "value": "={{ $json.albumName }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        912,
+        -144
+      ],
+      "id": "75e8ccc3-0c77-4a69-9b8d-5e78ac71e5c7",
+      "name": "Get the albums",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "workflowInputs": {
+          "values": [
+            {
+              "name": "name"
+            },
+            {
+              "name": "listUpdatedAt"
+            }
+          ]
+        }
+      },
+      "id": "05a78594-36fd-4ecb-b91d-55a2752ef37c",
+      "typeVersion": 1.1,
+      "name": "Begin",
+      "type": "n8n-nodes-base.executeWorkflowTrigger",
+      "position": [
+        464,
+        -448
+      ]
+    },
+    {
+      "parameters": {
+        "fileSelector": "/Users/Vitalii_Perehonchuk/Projects/ymh7/tag-list.mustache.markdown",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1,
+      "position": [
+        2256,
+        -352
+      ],
+      "id": "8e4c3029-f14f-4ddb-a530-49dbd35dba23",
+      "name": "Read/Write Files from Disk"
+    },
+    {
+      "parameters": {
+        "operation": "text",
+        "destinationKey": "template",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.extractFromFile",
+      "typeVersion": 1,
+      "position": [
+        2480,
+        -352
+      ],
+      "id": "11c0019e-7a82-44b7-9cbe-9bd59a66be42",
+      "name": "Extract from File"
+    },
+    {
+      "parameters": {
+        "aggregate": "aggregateAllItemData",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.aggregate",
+      "typeVersion": 1,
+      "position": [
+        2480,
+        -64
+      ],
+      "id": "7a282b92-435b-4dab-bc05-1ccf1190166c",
+      "name": "Aggregate"
+    },
+    {
+      "parameters": {
+        "mode": "combine",
+        "combineBy": "combineByPosition",
+        "numberInputs": 4,
+        "options": {}
+      },
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        2704,
+        -480
+      ],
+      "id": "87ebef05-823c-4694-ab47-0a2c50c2d0d0",
+      "name": "Merge"
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT \"second_tag\".\"tagName\" AS \"tagName\",\n            AVG(LEAST(\"first_tag\".\"count\", \"second_tag\".\"count\")) * COUNT(*) AS \"weight\"\n        FROM \"Album\"\n        INNER JOIN \"AlbumTag\"\n        AS \"first_tag\"\n        ON \"Album\".\"artist\" = \"first_tag\".\"albumArtist\"\n        AND \"Album\".\"name\" = \"first_tag\".\"albumName\"\n        LEFT JOIN \"AlbumTag\"\n        AS \"second_tag\"\n        ON \"second_tag\".\"albumArtist\" = \"Album\".\"artist\"\n        AND \"second_tag\".\"albumName\" = \"Album\".\"name\"\n        LEFT JOIN \"Tag\"\n        AS \"second_tag_tag\"\n        ON \"second_tag_tag\".\"name\" = \"second_tag\".\"tagName\"\n        WHERE \"first_tag\".\"tagName\" = '{{ $json.name }}'\n        AND \"second_tag_tag\".\"listUpdatedAt\" IS NOT NULL\n        GROUP BY \"second_tag\".\"tagName\"\n        ORDER BY \"weight\" DESC\nLIMIT 11",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        2032,
+        -544
+      ],
+      "id": "e9dee524-756d-43fd-923d-472e9ade2053",
+      "name": "Execute a SQL query",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "aggregate": "aggregateAllItemData",
+        "destinationFieldName": "relatedTags",
+        "include": "specifiedFields",
+        "fieldsToInclude": "tagName",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.aggregate",
+      "typeVersion": 1,
+      "position": [
+        2480,
+        -544
+      ],
+      "id": "70e39a5a-8c82-430e-92f1-95f17ad4a403",
+      "name": "Aggregate1"
+    },
+    {
+      "parameters": {
+        "sortFieldsUi": {
+          "sortField": [
+            {
+              "fieldName": "dateForSort"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.sort",
+      "typeVersion": 1,
+      "position": [
+        2256,
+        -64
+      ],
+      "id": "f27b0e0b-c896-4b2b-9b0c-9e7bc3512334",
+      "name": "Sort"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "979b0dce-aace-43fd-8f4b-c5c3c521b321",
+              "leftValue": "={{ $json.tagName }}",
+              "rightValue": "={{ $('Begin').item.json.name }}",
+              "operator": {
+                "type": "string",
+                "operation": "notEquals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.filter",
+      "typeVersion": 2.2,
+      "position": [
+        2256,
+        -544
+      ],
+      "id": "bea9b3c2-726a-4f52-bfa9-7e9c14f64484",
+      "name": "Filter"
+    },
+    {
+      "parameters": {
+        "operation": "select",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "value": "Tag",
+          "mode": "list",
+          "cachedResultName": "Tag"
+        },
+        "limit": 1,
+        "where": {
+          "values": [
+            {
+              "column": "name",
+              "value": "={{ $json.name }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        2256,
+        -736
+      ],
+      "id": "70657d24-b577-478a-a0c6-42454973ffcb",
+      "name": "Select rows from a table",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "ec46b7ab-3001-4a0f-b05d-6923fd610a10",
+              "name": "description",
+              "value": "={{ $json.description }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        2480,
+        -736
+      ],
+      "id": "8ddcda92-f7c0-48a5-9aec-bda463397397",
+      "name": "Edit Fields1"
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForEachItem",
+        "jsCode": "// Add a new field called 'myNewField' to the JSON of the item\n$input.item.json.dateForSort = $input.item.json.date;\n\nif (!$input.item.json.dateForSort || $input.item.json.dateForSort.length < 4) {\n  $input.item.json.dateForSort = '9999-99-99';\n} else {\n  $input.item.json.dateForSort = $input.item.json.dateForSort + '-99'.repeat(($input.item.json.dateForSort.length - 4) / 3);\n}\n\nreturn $input.item;"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        2032,
+        -64
+      ],
+      "id": "231d1bd6-7a9b-446c-b010-fec7b07522ff",
+      "name": "Create sort key"
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT \"AlbumTag\".*\nFROM \"AlbumTag\"\nINNER JOIN \"Tag\"\nON \"AlbumTag\".\"tagName\" = \"Tag\".\"name\"\nWHERE \"AlbumTag\".\"albumArtist\" = $1\nAND \"AlbumTag\".\"albumName\" = $2\nAND \"Tag\".\"listUpdatedAt\" IS NOT NULL\nAND \"AlbumTag\".\"count\" > 50",
+        "options": {
+          "queryReplacement": "={{ $json.artist }},{{ $json.name }}"
+        }
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        1136,
+        -192
+      ],
+      "id": "c5d5c40a-84ab-460d-bbe8-aa2f85a70f64",
+      "name": "Execute a SQL query1",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "mode": "combine",
+        "fieldsToMatchString": "artist, name",
+        "joinMode": "keepEverything",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        1584,
+        -64
+      ],
+      "id": "c6e84b4d-c63a-4ca1-b0b1-942c49b931a7",
+      "name": "Merge albums with tags"
+    },
+    {
+      "parameters": {
+        "jsCode": "const map = new Map();\n\nfor (const item of $input.all()) {\n  const key = item.json.albumArtist + ' - ' + item.json.albumName;\n  const savedItem = map.get(key);\n  if (savedItem) {\n    savedItem.tags[item.json.tagName] = item.json.count;\n  } else {\n    const newItem = {\n      artist: item.json.albumArtist,\n      name: item.json.albumName,\n      tags: {\n        [item.json.tagName]: item.json.count,\n      }\n    }\n    map.set(key, newItem);\n  }\n}\n\nreturn [...map.values()].map((item) => ({\n  ...item,\n  tags: Object.entries(item.tags).toSorted(([,count1],[,count2]) => count2 - count1).map(([tagName, count]) => ({\n    count,\n    linkName: tagName.replaceAll(' ', '-'),\n    tagName,\n  })),\n}));"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1360,
+        -176
+      ],
+      "id": "3db95272-d760-41a7-b68c-ee5ddd7a4e3b",
+      "name": "Code in JavaScript"
+    }
+  ],
+  "pinData": {
+    "Begin": [
+      {
+        "json": {
+          "name": "ukrainian black metal",
+          "listUpdatedAt": "2025-10-25T09:36:50.577Z"
+        }
+      }
+    ]
+  },
+  "connections": {
+    "Get the list": {
+      "main": [
+        [
+          {
+            "node": "Get the albums",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Merge places with albums",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Get the albums": {
+      "main": [
+        [
+          {
+            "node": "Merge places with albums",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Execute a SQL query1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge places with albums": {
+      "main": [
+        [
+          {
+            "node": "Merge albums with tags",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "node": "Create sort key",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Markdown": {
+      "main": [
+        [
+          {
+            "node": "Convert to File",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Convert to File": {
+      "main": [
+        [
+          {
+            "node": "Read/Write Files from Disk1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Begin": {
+      "main": [
+        [
+          {
+            "node": "Read/Write Files from Disk",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Get the list",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Execute a SQL query",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Select rows from a table",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read/Write Files from Disk": {
+      "main": [
+        [
+          {
+            "node": "Extract from File",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Aggregate": {
+      "main": [
+        [
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 3
+          }
+        ]
+      ]
+    },
+    "Merge": {
+      "main": [
+        [
+          {
+            "node": "Create Markdown",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract from File": {
+      "main": [
+        [
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 2
+          }
+        ]
+      ]
+    },
+    "Execute a SQL query": {
+      "main": [
+        [
+          {
+            "node": "Filter",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Aggregate1": {
+      "main": [
+        [
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Sort": {
+      "main": [
+        [
+          {
+            "node": "Aggregate",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Filter": {
+      "main": [
+        [
+          {
+            "node": "Aggregate1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Select rows from a table": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields1": {
+      "main": [
+        [
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create sort key": {
+      "main": [
+        [
+          {
+            "node": "Sort",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Execute a SQL query1": {
+      "main": [
+        [
+          {
+            "node": "Code in JavaScript",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge albums with tags": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code in JavaScript": {
+      "main": [
+        [
+          {
+            "node": "Merge albums with tags",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "e7e59545-fc8b-49e0-bce1-05527121e3a5",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"
+  },
+  "id": "sZtKJr70gY1EeZFM",
+  "tags": []
+}

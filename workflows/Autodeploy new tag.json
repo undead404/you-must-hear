@@ -1,0 +1,364 @@
+{
+  "name": "Autodeploy new tag",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "triggerAtMinute": 24
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        0
+      ],
+      "id": "15c1e102-9b16-4a5f-8710-b79ffbdfa3ae",
+      "name": "Schedule Trigger"
+    },
+    {
+      "parameters": {
+        "operation": "status",
+        "repositoryPath": "=/Users/Vitalii_Perehonchuk/Projects/ymh7"
+      },
+      "type": "n8n-nodes-base.git",
+      "typeVersion": 1,
+      "position": [
+        224,
+        0
+      ],
+      "id": "b0567525-300b-4f08-9829-5147e30ee590",
+      "name": "Get git status"
+    },
+    {
+      "parameters": {
+        "fieldToSplitOut": "changes",
+        "include": "=",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.splitOut",
+      "typeVersion": 1,
+      "position": [
+        656,
+        0
+      ],
+      "id": "329b0c74-efdf-4925-ae33-46b23ff48cc0",
+      "name": "Split Out"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "2ea6b4ed-7719-47d7-9393-abe4aefb2ece",
+              "leftValue": "={{ $json.changes }}",
+              "rightValue": "docs/tags",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.filter",
+      "typeVersion": 2.2,
+      "position": [
+        880,
+        0
+      ],
+      "id": "9ccef408-b629-4413-bdd3-72cc30f34611",
+      "name": "Filter"
+    },
+    {
+      "parameters": {
+        "operation": "addConfig",
+        "repositoryPath": "/Users/Vitalii_Perehonchuk/Projects/ymh7/",
+        "key": "user.email",
+        "value": "brute18@gmail.com",
+        "options": {
+          "mode": "set"
+        }
+      },
+      "type": "n8n-nodes-base.git",
+      "typeVersion": 1,
+      "position": [
+        1328,
+        80
+      ],
+      "id": "d9d23ed0-7493-4ca5-8aad-db93c40032d1",
+      "name": "Set user.email",
+      "executeOnce": true
+    },
+    {
+      "parameters": {
+        "operation": "addConfig",
+        "repositoryPath": "/Users/Vitalii_Perehonchuk/Projects/ymh7/",
+        "key": "user.name",
+        "value": "Vitalii Perehonchuk",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.git",
+      "typeVersion": 1,
+      "position": [
+        1552,
+        80
+      ],
+      "id": "2e30d160-5331-4fe1-8edf-6c23977a221a",
+      "name": "Set user.name",
+      "executeOnce": true
+    },
+    {
+      "parameters": {
+        "operation": "push",
+        "repositoryPath": "/Users/Vitalii_Perehonchuk/Projects/ymh7/",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.git",
+      "typeVersion": 1,
+      "position": [
+        2448,
+        0
+      ],
+      "id": "d046225e-4dca-4e91-bd9f-c52749023a1c",
+      "name": "Git1"
+    },
+    {
+      "parameters": {
+        "operation": "commit",
+        "repositoryPath": "/Users/Vitalii_Perehonchuk/Projects/ymh7/",
+        "message": "=Updated: {{$('Extract tag names').all().map(item => item.json.tagName).join(', ')}}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.git",
+      "typeVersion": 1,
+      "position": [
+        2224,
+        0
+      ],
+      "id": "3be7144c-2434-401e-980c-255c42a119dd",
+      "name": "Commit",
+      "executeOnce": true
+    },
+    {
+      "parameters": {
+        "mode": "chooseBranch"
+      },
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        1776,
+        0
+      ],
+      "id": "53982938-f4a0-4b81-b32b-ea0eaaafd30f",
+      "name": "Merge"
+    },
+    {
+      "parameters": {
+        "operation": "add",
+        "repositoryPath": "/Users/Vitalii_Perehonchuk/Projects/ymh7/",
+        "pathsToAdd": "docs/tags"
+      },
+      "type": "n8n-nodes-base.git",
+      "typeVersion": 1,
+      "position": [
+        2000,
+        0
+      ],
+      "id": "32e49a64-9f3a-403a-aa17-f9b903cd11ee",
+      "name": "Add",
+      "executeOnce": true
+    },
+    {
+      "parameters": {
+        "jsCode": "return $input.all().map(item => ({tagName: item.json.changes.split('/').at(-1).split('.').at(0)}))\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1104,
+        0
+      ],
+      "id": "973a7156-c0fa-42d2-aa23-a83dd22e246b",
+      "name": "Extract tag names"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "4f8664a2-282a-4169-9020-04b2e771657a",
+              "name": "changes",
+              "value": "={{ [...$json.not_added,...$json.modified] }}",
+              "type": "array"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        432,
+        0
+      ],
+      "id": "23b970c6-3631-4dc5-919f-4c68299436e2",
+      "name": "Edit Fields"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "Get git status",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get git status": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Split Out": {
+      "main": [
+        [
+          {
+            "node": "Filter",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Filter": {
+      "main": [
+        [
+          {
+            "node": "Extract tag names",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Set user.email": {
+      "main": [
+        [
+          {
+            "node": "Set user.name",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Set user.name": {
+      "main": [
+        [
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Commit": {
+      "main": [
+        [
+          {
+            "node": "Git1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge": {
+      "main": [
+        [
+          {
+            "node": "Add",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Add": {
+      "main": [
+        [
+          {
+            "node": "Commit",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract tag names": {
+      "main": [
+        [
+          {
+            "node": "Set user.email",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "node": "Split Out",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": false,
+    "errorWorkflow": "7HrDrsQKECTlnEFk"
+  },
+  "versionId": "ac94d2c0-96d9-43ad-98c5-e7455e2c7e60",
+  "meta": {
+    "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"
+  },
+  "id": "ImegNcEf98oLY7MW",
+  "tags": []
+}

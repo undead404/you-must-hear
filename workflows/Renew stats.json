@@ -7,7 +7,7 @@
           "interval": [
             {
               "field": "minutes",
-              "minutesInterval": 1
+              "minutesInterval": 4
             }
           ]
         }
@@ -157,7 +157,7 @@
     "availableInMCP": false,
     "errorWorkflow": "7HrDrsQKECTlnEFk"
   },
-  "versionId": "1591ce96-e589-4203-a2ba-e35b401a61fc",
+  "versionId": "a2b47d7a-dde5-474a-8cc4-af85f9dc583b",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"

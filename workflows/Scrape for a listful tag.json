@@ -7,6 +7,7 @@
           "interval": [
             {
               "field": "hours",
+              "hoursInterval": 3,
               "triggerAtMinute": 13
             }
           ]
@@ -90,38 +91,8 @@
     },
     {
       "parameters": {
-        "operation": "select",
-        "schema": {
-          "__rl": true,
-          "mode": "list",
-          "value": "public"
-        },
-        "table": {
-          "__rl": true,
-          "value": "Tag",
-          "mode": "list",
-          "cachedResultName": "Tag"
-        },
-        "limit": 1,
-        "where": {
-          "values": [
-            {
-              "column": "albumsScrapedAt",
-              "condition": "IS NOT NULL"
-            },
-            {
-              "column": "listUpdatedAt",
-              "condition": "IS NOT NULL"
-            }
-          ]
-        },
-        "sort": {
-          "values": [
-            {
-              "column": "albumsScrapedAt"
-            }
-          ]
-        },
+        "operation": "executeQuery",
+        "query": "SELECT \"name\"\nFROM \"Tag\"\nWHERE \"listUpdatedAt\" IS NOT NULL\nAND \"albumsScrapedAt\" < '{{ $now.minus(1, 'month') }}'\nORDER BY \"albumsScrapedAt\" ASC\nLIMIT 1",
         "options": {}
       },
       "type": "n8n-nodes-base.postgres",
@@ -183,7 +154,7 @@
     "availableInMCP": false,
     "errorWorkflow": "7HrDrsQKECTlnEFk"
   },
-  "versionId": "bfe3f92f-016b-45ab-afc8-ce65e5a35b17",
+  "versionId": "c3a02d28-3296-4afe-9cf0-9161e8d55af9",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"

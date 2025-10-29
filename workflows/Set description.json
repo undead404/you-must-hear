@@ -1,0 +1,439 @@
+{
+  "name": "Set description",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "triggerAtMinute": 47
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        -176
+      ],
+      "id": "9094f657-9bc6-45a8-b290-386b36a4375d",
+      "name": "Schedule Trigger"
+    },
+    {
+      "parameters": {
+        "aggregate": "aggregateAllItemData",
+        "include": "specifiedFields",
+        "fieldsToInclude": "artist",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.aggregate",
+      "typeVersion": 1,
+      "position": [
+        896,
+        -240
+      ],
+      "id": "554b1873-6e29-4c61-8ee3-64ad156ac157",
+      "name": "Aggregate"
+    },
+    {
+      "parameters": {
+        "mode": "combine",
+        "combineBy": "combineByPosition",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        1120,
+        -176
+      ],
+      "id": "0046676e-bb67-4be2-8ed4-b15f712b2f81",
+      "name": "Merge"
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "value": "claude-sonnet-4-5-20250929",
+          "mode": "list",
+          "cachedResultName": "claude-sonnet-4-5-20250929"
+        },
+        "messages": {
+          "values": [
+            {
+              "content": "=Generate a concise 3-sentence definition for the music genre \"{{ $json.name }}\". \n\nThe definition should:\n- Describe the genre's sound, cultural context, and key characteristics\n- Be informative yet accessible to someone unfamiliar with the genre\n- Avoid listing artists or using bullet points\n\nNotable artists in this genre include {{ $json.data.map(({artist}) => artist).join(', ') }}.\n\nWrite the definition in a natural, flowing style as three complete sentences, no longer than 256 characters in total."
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.anthropic",
+      "typeVersion": 1,
+      "position": [
+        1344,
+        -176
+      ],
+      "id": "f0993de7-0ed7-44dc-a350-f49fcb0931df",
+      "name": "Message a model1",
+      "credentials": {
+        "anthropicApi": {
+          "id": "6nIJ6rLLARRHGeav",
+          "name": "Anthropic account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "schema": {
+          "__rl": true,
+          "mode": "list",
+          "value": "public"
+        },
+        "table": {
+          "__rl": true,
+          "value": "Tag",
+          "mode": "list",
+          "cachedResultName": "Tag"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "name": "={{ $('Pick a tag').item.json.name }}",
+            "description": "={{ $json.content[0].text }}"
+          },
+          "matchingColumns": [
+            "name"
+          ],
+          "schema": [
+            {
+              "id": "albumsScrapedAt",
+              "displayName": "albumsScrapedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "listCheckedAt",
+              "displayName": "listCheckedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "listUpdatedAt",
+              "displayName": "listUpdatedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "name",
+              "displayName": "name",
+              "required": true,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "registeredAt",
+              "displayName": "registeredAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "description",
+              "displayName": "description",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        1696,
+        -176
+      ],
+      "id": "48cf277e-2ebc-4160-bb08-784368b65be8",
+      "name": "Update rows in a table",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "chatId": "-1001699039876",
+        "text": "={{ $json.escapedDescription }}\n\n[{{ $json.escapedName }}](https://undead404.github.io/you-must-hear/tags/{{ $json.linkName }}) – {{ $json.exampleArtists.join(', ')}}",
+        "additionalFields": {
+          "parse_mode": "MarkdownV2"
+        }
+      },
+      "type": "n8n-nodes-base.telegram",
+      "typeVersion": 1.2,
+      "position": [
+        2144,
+        -176
+      ],
+      "id": "b76a7f82-eddc-40a6-a546-5f23e2fc51d7",
+      "name": "Send a text message",
+      "webhookId": "b4ffdf4d-7b7d-4df2-9d0d-ed128b3222a0",
+      "credentials": {
+        "telegramApi": {
+          "id": "eGEk4dS2hDuvw99B",
+          "name": "Telegram account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "function escapeText(text) {\n  return text.replace(/\\_/g, '\\\\_')\n  .replace(/\\*/g, '\\\\*')\n  .replace(/\\[/g, '\\\\[')\n  .replace(/\\]/g, '\\\\]')\n  .replace(/\\(/g, '\\\\(')\n  .replace(/\\)/g, '\\\\)')\n  .replace(/\\~/g, '\\\\~')\n  .replace(/\\`/g, '\\\\`')\n  .replace(/\\>/g, '\\\\>')\n  .replace(/\\#/g, '\\\\#')\n  .replace(/\\+/g, '\\\\+')\n  .replace(/\\-/g, '\\\\-')\n  .replace(/\\=/g, '\\\\=')\n  .replace(/\\|/g, '\\\\|')\n  .replace(/\\{/g, '\\\\{')\n  .replace(/\\}/g, '\\\\}')\n  .replace(/\\./g, '\\\\.')\n  .replace(/\\!/g, '\\\\!');\n}\n\nreturn $input.all().map(item => ({\n  escapedDescription: escapeText(item.json.description),\n  exampleArtists: $('Merge').first().json.data.map(({artist}) => escapeText(artist)),\n  escapedName: escapeText(item.json.name),\n  linkName: item.json.name.replaceAll(' ', '-'),\n}))"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1920,
+        -176
+      ],
+      "id": "94e857a0-333a-44f4-86fe-cb973d48a844",
+      "name": "Code in JavaScript"
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT \"Tag\".\"name\", SUM(\"Album\".\"listeners\" * \"AlbumTag\".\"count\") AS \"weight\"\nFROM \"Tag\"\nINNER JOIN \"AlbumTag\"\nON \"Tag\".\"name\" = \"AlbumTag\".\"tagName\"\nINNER JOIN \"Album\"\nON \"AlbumTag\".\"albumArtist\" = \"Album\".\"artist\"\nAND \"AlbumTag\".\"albumName\" = \"Album\".\"name\"\nWHERE \"Tag\".\"listUpdatedAt\" IS NOT NULL\nAND \"Tag\".\"description\" IS NULL\nGROUP BY \"Tag\".\"name\"\nORDER BY \"weight\" DESC\nLIMIT 1",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        224,
+        -176
+      ],
+      "id": "fa0f593c-5f30-43fb-ac41-aaf9564277d4",
+      "name": "Pick a tag",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT \"artist\", SUM(\"Album\".\"listeners\" * \"AlbumTag\".\"count\" / 100) AS \"weight\"\n  FROM \"Album\"\n  INNER JOIN \"AlbumTag\"\n  ON \"AlbumTag\".\"albumArtist\" = \"Album\".\"artist\"\n  AND \"AlbumTag\".\"albumName\" = \"Album\".\"name\"\n  WHERE \"AlbumTag\".\"tagName\" = '{{ $json.name }}'\n  AND \"Album\".\"listeners\" IS NOT NULL\n  AND \"Album\".\"hidden\" <> TRUE\n  GROUP BY \"artist\"\nORDER BY \"weight\" DESC\nLIMIT 5",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        672,
+        -240
+      ],
+      "id": "cb21b036-d584-4d55-ab39-4384adfc89d9",
+      "name": "Get example artists",
+      "credentials": {
+        "postgres": {
+          "id": "scR9f4uyXxBIx9HD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "workflowId": {
+          "__rl": true,
+          "value": "sZtKJr70gY1EeZFM",
+          "mode": "list",
+          "cachedResultUrl": "/workflow/sZtKJr70gY1EeZFM",
+          "cachedResultName": "Save tag list markdown 2"
+        },
+        "workflowInputs": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "name": "={{ $json.name }}",
+            "listUpdatedAt": "={{ $json.listUpdatedAt }}"
+          },
+          "matchingColumns": [],
+          "schema": [
+            {
+              "id": "name",
+              "displayName": "name",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "canBeUsedToMatch": true,
+              "type": "string",
+              "removed": false
+            },
+            {
+              "id": "listUpdatedAt",
+              "displayName": "listUpdatedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "canBeUsedToMatch": true,
+              "type": "string",
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": true
+        },
+        "mode": "each",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.executeWorkflow",
+      "typeVersion": 1.3,
+      "position": [
+        1920,
+        -368
+      ],
+      "id": "6d2ce24f-439b-4fb2-bb97-e6d5ae75fc31",
+      "name": "Call 'Save tag list markdown 2'"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "Pick a tag",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Aggregate": {
+      "main": [
+        [
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge": {
+      "main": [
+        [
+          {
+            "node": "Message a model1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Message a model1": {
+      "main": [
+        [
+          {
+            "node": "Update rows in a table",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Update rows in a table": {
+      "main": [
+        [
+          {
+            "node": "Code in JavaScript",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Call 'Save tag list markdown 2'",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code in JavaScript": {
+      "main": [
+        [
+          {
+            "node": "Send a text message",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Pick a tag": {
+      "main": [
+        [
+          {
+            "node": "Get example artists",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Get example artists": {
+      "main": [
+        [
+          {
+            "node": "Aggregate",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "callerPolicy": "workflowsFromSameOwner",
+    "availableInMCP": false,
+    "errorWorkflow": "7HrDrsQKECTlnEFk"
+  },
+  "versionId": "32534926-75b6-4882-ad96-6131a8d71b64",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"
+  },
+  "id": "rAxVIfQ0u0YXig8Y",
+  "tags": []
+}

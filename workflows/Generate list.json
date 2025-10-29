@@ -9,7 +9,7 @@
       "type": "n8n-nodes-base.merge",
       "typeVersion": 3.2,
       "position": [
-        2240,
+        2256,
         -1008
       ],
       "id": "0989d3d5-49a8-4798-aa37-f3f927c7e00b",
@@ -109,7 +109,7 @@
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.6,
       "position": [
-        1792,
+        1808,
         -816
       ],
       "id": "7c1ce233-c72d-4fab-86ef-53442a249167",
@@ -129,7 +129,7 @@
       "type": "n8n-nodes-base.merge",
       "typeVersion": 3.2,
       "position": [
-        2240,
+        2256,
         -576
       ],
       "id": "f56f3c39-e0e2-48eb-b6ff-7142a281b759",
@@ -163,7 +163,7 @@
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.2,
       "position": [
-        1568,
+        1584,
         -592
       ],
       "id": "a1bdf0eb-3abd-465b-8f6c-a192290db614",
@@ -205,7 +205,7 @@
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.6,
       "position": [
-        1792,
+        1808,
         -624
       ],
       "id": "629fb0ee-e806-4184-a42d-7738ab5def41",
@@ -228,7 +228,7 @@
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.6,
       "position": [
-        1120,
+        1136,
         -272
       ],
       "id": "a5ed0b04-105e-4e2f-b496-42302414af7d",
@@ -270,7 +270,7 @@
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.2,
       "position": [
-        2016,
+        2032,
         -704
       ],
       "id": "ca435550-b976-4d0e-9bc7-29b0601631c5",
@@ -354,7 +354,7 @@
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.6,
       "position": [
-        2464,
+        2480,
         -816
       ],
       "id": "28b92413-40e2-4149-9f32-7059507fd91d",
@@ -458,7 +458,7 @@
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.6,
       "position": [
-        4032,
+        4048,
         -720
       ],
       "id": "68203643-3bb7-4f05-a77f-1dd9c2960127",
@@ -493,7 +493,7 @@
       "type": "n8n-nodes-base.compareDatasets",
       "typeVersion": 2.3,
       "position": [
-        2464,
+        2480,
         -432
       ],
       "id": "e72c36ef-375b-4d53-b22b-f028243c8cdd",
@@ -504,7 +504,7 @@
       "type": "n8n-nodes-base.merge",
       "typeVersion": 3.2,
       "position": [
-        3136,
+        3152,
         -512
       ],
       "id": "59b75b67-7878-4d70-a4ad-170b46fcedc2",
@@ -518,7 +518,7 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        4032,
+        4048,
         -384
       ],
       "id": "23a7af3f-9d6a-46c3-994c-49252b2c65f1",
@@ -531,13 +531,13 @@
         "chatId": "-1001699039876",
         "file": "={{ $json.cover }}",
         "additionalFields": {
-          "caption": "={{ $json.message }}"
+          "caption": "={{ $json.message.slice(0, 1024) }}"
         }
       },
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        4480,
+        4496,
         -480
       ],
       "id": "dc3c572c-210e-463f-af7e-cef7182cb4a3",
@@ -557,7 +557,7 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        2912,
+        2928,
         -1008
       ],
       "id": "5ed37b30-de5c-4803-9b48-8f9647e6a43c",
@@ -576,7 +576,7 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        3136,
+        3152,
         -1008
       ],
       "id": "d4d91131-4698-4e92-9450-54d9b1d9254a",
@@ -597,7 +597,7 @@
       "type": "n8n-nodes-base.merge",
       "typeVersion": 3.2,
       "position": [
-        2688,
+        2704,
         -1024
       ],
       "id": "f99337a9-c913-43a0-b07b-b108db13c1a4",
@@ -617,7 +617,7 @@
       "type": "n8n-nodes-base.summarize",
       "typeVersion": 1.1,
       "position": [
-        1344,
+        1360,
         -592
       ],
       "id": "0d615c1b-9a3c-4079-9872-159f77496abd",
@@ -689,7 +689,7 @@
       "type": "n8n-nodes-base.executeWorkflow",
       "typeVersion": 1.3,
       "position": [
-        2464,
+        2480,
         -1008
       ],
       "id": "922eb447-f2ba-41e0-9755-31fb93082344",
@@ -783,8 +783,8 @@
       "type": "n8n-nodes-base.executeWorkflow",
       "typeVersion": 1.3,
       "position": [
-        2736,
-        -352
+        2704,
+        -464
       ],
       "id": "707176ac-1658-4d61-9588-546876f6526e",
       "name": "Call 'Enrich from Discogs'1"
@@ -807,7 +807,7 @@
       "typeVersion": 3.4,
       "position": [
         2704,
-        -80
+        -144
       ],
       "id": "30d5fbf5-b05e-47b0-8809-85454812172d",
       "name": "Edit Fields"
@@ -827,7 +827,7 @@
       "typeVersion": 1.1,
       "position": [
         2928,
-        -48
+        -144
       ],
       "id": "25d6ef56-9cb3-4acb-a72a-b7cd82b1140b",
       "name": "Summarize1"
@@ -859,8 +859,8 @@
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.2,
       "position": [
-        3136,
-        -64
+        3152,
+        -144
       ],
       "id": "c49e8ce1-e1b1-4672-9a6d-9fcb9a26b39a",
       "name": "If"
@@ -872,7 +872,7 @@
       "type": "n8n-nodes-base.merge",
       "typeVersion": 3.2,
       "position": [
-        3360,
+        3376,
         -144
       ],
       "id": "92b8a3f9-73d5-47d7-bd1f-5b99785b2b6f",
@@ -966,7 +966,7 @@
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.6,
       "position": [
-        3584,
+        3600,
         -144
       ],
       "id": "f74abff5-a2ab-4461-af84-47c11851f4de",
@@ -1070,7 +1070,7 @@
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.6,
       "position": [
-        3360,
+        3376,
         64
       ],
       "id": "5a932f5d-9836-459a-89ce-148671e175c6",
@@ -1089,7 +1089,7 @@
       "type": "n8n-nodes-base.merge",
       "typeVersion": 3.2,
       "position": [
-        3808,
+        3824,
         -432
       ],
       "id": "224dc453-dbad-4487-b566-60d49a3ffb61",
@@ -1104,8 +1104,8 @@
       "type": "n8n-nodes-base.merge",
       "typeVersion": 3.2,
       "position": [
-        2880,
-        -240
+        2928,
+        -432
       ],
       "id": "a1a9189b-8fe6-40a1-aed0-ab8edf1ad00a",
       "name": "Merge6"
@@ -1118,7 +1118,7 @@
       "type": "n8n-nodes-base.merge",
       "typeVersion": 3.2,
       "position": [
-        1792,
+        1808,
         -48
       ],
       "id": "e6986d0b-5777-4a38-ade7-a2c306d71932",
@@ -1152,7 +1152,7 @@
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.2,
       "position": [
-        4256,
+        4272,
         -384
       ],
       "id": "f5892372-26e0-436a-bc18-2c78f46616b6",
@@ -1161,13 +1161,13 @@
     {
       "parameters": {
         "chatId": "-1001699039876",
-        "text": "={{ $json.message }}",
+        "text": "={{ $json.message.slice(0, 4096) }}",
         "additionalFields": {}
       },
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        4480,
+        4496,
         -288
       ],
       "id": "953e0134-0fb5-4c63-8f00-b22d1aef08bd",
@@ -1217,18 +1217,108 @@
       "type": "n8n-nodes-base.executeWorkflow",
       "typeVersion": 1.3,
       "position": [
-        896,
+        912,
         -272
       ],
       "id": "e2b12b04-e33d-4851-b18c-130ab0191b50",
       "name": "Call 'Maybe delete tag'"
+    },
+    {
+      "parameters": {
+        "command": "=cd /Users/Vitalii_Perehonchuk/Projects/ymh7\ngit add docs\ngit commit -m \"list update: {{$('Begin').item.json.tagName}}\"\ngit push"
+      },
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [
+        4496,
+        -720
+      ],
+      "id": "76273054-a228-4498-9963-6ce7d786791d",
+      "name": "Execute Command",
+      "disabled": true
+    },
+    {
+      "parameters": {
+        "workflowId": {
+          "__rl": true,
+          "value": "sZtKJr70gY1EeZFM",
+          "mode": "list",
+          "cachedResultUrl": "/workflow/sZtKJr70gY1EeZFM",
+          "cachedResultName": "Save tag list markdown 2"
+        },
+        "workflowInputs": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "name": "={{ $json.name }}",
+            "listUpdatedAt": "={{ $json.listUpdatedAt }}"
+          },
+          "matchingColumns": [],
+          "schema": [
+            {
+              "id": "name",
+              "displayName": "name",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "canBeUsedToMatch": true,
+              "type": "string",
+              "removed": false
+            },
+            {
+              "id": "listUpdatedAt",
+              "displayName": "listUpdatedAt",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "canBeUsedToMatch": true,
+              "type": "string",
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": true
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.executeWorkflow",
+      "typeVersion": 1.3,
+      "position": [
+        4272,
+        -720
+      ],
+      "id": "3583dd1f-455d-4f0a-8f50-daff149de6e9",
+      "name": "Call 'Save tag list markdown 2'"
+    },
+    {
+      "parameters": {
+        "workflowId": {
+          "__rl": true,
+          "value": "BODSIZino8YDdECx",
+          "mode": "list",
+          "cachedResultUrl": "/workflow/BODSIZino8YDdECx",
+          "cachedResultName": "Save tags index markdown"
+        },
+        "workflowInputs": {
+          "mappingMode": "defineBelow",
+          "value": {}
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.executeWorkflow",
+      "typeVersion": 1.3,
+      "position": [
+        4528,
+        -880
+      ],
+      "id": "b8bf2426-b9c5-4e8f-b100-3ed12c3d2973",
+      "name": "Call 'Save tags index markdown'"
     }
   ],
   "pinData": {
     "Begin": [
       {
         "json": {
-          "tagName": "screamo"
+          "tagName": "symphonic power metal"
         }
       }
     ]
@@ -1612,6 +1702,33 @@
           }
         ]
       ]
+    },
+    "Save success": {
+      "main": [
+        [
+          {
+            "node": "Call 'Save tag list markdown 2'",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Call 'Save tag list markdown 2'": {
+      "main": [
+        [
+          {
+            "node": "Execute Command",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Call 'Save tags index markdown'",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     }
   },
   "active": false,
@@ -1621,7 +1738,7 @@
     "availableInMCP": false,
     "errorWorkflow": "7HrDrsQKECTlnEFk"
   },
-  "versionId": "506746da-02c3-48ae-ad36-a3589bbcfad0",
+  "versionId": "7555f663-8e31-4498-8e80-5a747126502e",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"

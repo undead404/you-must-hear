@@ -6,8 +6,8 @@
         "rule": {
           "interval": [
             {
-              "field": "minutes",
-              "minutesInterval": 1
+              "field": "hours",
+              "triggerAtMinute": 34
             }
           ]
         }
@@ -24,7 +24,7 @@
     {
       "parameters": {
         "operation": "executeQuery",
-        "query": "SELECT\n      \"Tag\".\"albumsScrapedAt\",\n      \"Tag\".\"listCheckedAt\",\n      \"Tag\".\"listUpdatedAt\",\n      \"Tag\".\"name\",\n      \"Tag\".\"registeredAt\",\n      SUM(\"AlbumTag\".\"count\"::FLOAT * COALESCE(\"Album\".\"playcount\", 0) / 1000000 * COALESCE(\"Album\".\"listeners\", 0) / 1000)\n      AS \"weight\"\n    FROM \"Tag\"\n    JOIN \"AlbumTag\"\n    ON \"AlbumTag\".\"tagName\" = \"Tag\".\"name\"\n    JOIN \"Album\"\n    ON \"Album\".\"artist\" = \"AlbumTag\".\"albumArtist\" AND\n      \"Album\".\"name\" = \"AlbumTag\".\"albumName\"\n    WHERE \"albumsScrapedAt\" IS NOT NULL AND\n      \"listCheckedAt\" IS NULL AND\n      \"listUpdatedAt\" IS NULL AND\n      \"Album\".\"hidden\" <> true\n    GROUP BY \"Tag\".\"name\"\n    ORDER BY \"weight\" DESC\n    LIMIT 1",
+        "query": "SELECT\n      \"Tag\".\"albumsScrapedAt\",\n      \"Tag\".\"listCheckedAt\",\n      \"Tag\".\"listUpdatedAt\",\n      \"Tag\".\"name\",\n      \"Tag\".\"registeredAt\",\n      SUM(\"AlbumTag\".\"count\"::FLOAT * COALESCE(\"Album\".\"playcount\", 0) / 1000000 * COALESCE(\"Album\".\"listeners\", 0) / 1000)\n      AS \"weight\"\n    FROM \"Tag\"\n    JOIN \"AlbumTag\"\n    ON \"AlbumTag\".\"tagName\" = \"Tag\".\"name\"\n    JOIN \"Album\"\n    ON \"Album\".\"artist\" = \"AlbumTag\".\"albumArtist\" AND\n      \"Album\".\"name\" = \"AlbumTag\".\"albumName\"\n    WHERE \"albumsScrapedAt\" IS NULL AND\n      \"Album\".\"hidden\" <> true\n    GROUP BY \"Tag\".\"name\"\n    ORDER BY \"weight\" DESC\n    LIMIT 1",
         "options": {}
       },
       "type": "n8n-nodes-base.postgres",
@@ -51,7 +51,7 @@
       "type": "n8n-nodes-base.telegram",
       "typeVersion": 1.2,
       "position": [
-        928,
+        1168,
         48
       ],
       "id": "928ea2b7-d57b-4c69-827b-ea07c881d603",
@@ -104,7 +104,7 @@
       "type": "n8n-nodes-base.executeWorkflow",
       "typeVersion": 1.3,
       "position": [
-        704,
+        944,
         48
       ],
       "id": "92f13f2e-ef86-4e55-b1de-440e3c6e172a",
@@ -150,11 +150,45 @@
       "type": "n8n-nodes-base.executeWorkflow",
       "typeVersion": 1.3,
       "position": [
-        480,
+        496,
         48
       ],
       "id": "606c7d06-6f9a-4700-ab77-ae32f93f5ce6",
       "name": "Call 'Maybe delete tag'"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "e8f09772-76aa-4937-a5b7-8521194aed89",
+              "leftValue": "={{ $json }}",
+              "rightValue": "",
+              "operator": {
+                "type": "object",
+                "operation": "empty",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        720,
+        48
+      ],
+      "id": "76f19c44-c331-417a-b9ba-48de6349330f",
+      "name": "If"
     }
   ],
   "pinData": {},
@@ -196,6 +230,18 @@
       "main": [
         [
           {
+            "node": "If",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If": {
+      "main": [
+        [],
+        [
+          {
             "node": "Call 'Scrape for a tag'",
             "type": "main",
             "index": 0
@@ -211,7 +257,7 @@
     "availableInMCP": false,
     "errorWorkflow": "7HrDrsQKECTlnEFk"
   },
-  "versionId": "13f2a0d8-fc39-4296-a156-ec39fcacbc5d",
+  "versionId": "703e4a83-e1b7-4639-b9c9-660af999c282",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"

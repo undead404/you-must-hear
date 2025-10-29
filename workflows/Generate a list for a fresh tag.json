@@ -54,7 +54,9 @@
           "convertFieldsToString": true
         },
         "mode": "each",
-        "options": {}
+        "options": {
+          "waitForSubWorkflow": true
+        }
       },
       "type": "n8n-nodes-base.executeWorkflow",
       "typeVersion": 1.3,
@@ -67,38 +69,8 @@
     },
     {
       "parameters": {
-        "operation": "select",
-        "schema": {
-          "__rl": true,
-          "mode": "list",
-          "value": "public"
-        },
-        "table": {
-          "__rl": true,
-          "value": "Tag",
-          "mode": "list",
-          "cachedResultName": "Tag"
-        },
-        "limit": 1,
-        "where": {
-          "values": [
-            {
-              "column": "albumsScrapedAt",
-              "condition": "IS NOT NULL"
-            },
-            {
-              "column": "listCheckedAt",
-              "condition": "IS NULL"
-            }
-          ]
-        },
-        "sort": {
-          "values": [
-            {
-              "column": "albumsScrapedAt"
-            }
-          ]
-        },
+        "operation": "executeQuery",
+        "query": "SELECT\n      \"Tag\".\"name\",\n      SUM(\"AlbumTag\".\"count\"::FLOAT * COALESCE(\"Album\".\"playcount\", 0) / 1000000 * COALESCE(\"Album\".\"listeners\", 0) / 1000)\n      AS \"weight\"\n    FROM \"Tag\"\n    JOIN \"AlbumTag\"\n    ON \"AlbumTag\".\"tagName\" = \"Tag\".\"name\"\n    JOIN \"Album\"\n    ON \"Album\".\"artist\" = \"AlbumTag\".\"albumArtist\" AND\n      \"Album\".\"name\" = \"AlbumTag\".\"albumName\"\n    WHERE \"albumsScrapedAt\" IS NOT NULL AND\n      \"listCheckedAt\" IS NULL AND\n      \"listUpdatedAt\" IS NULL AND\n      \"Album\".\"hidden\" <> true\n    GROUP BY \"Tag\".\"name\"\n    ORDER BY \"weight\" DESC\n    LIMIT 1",
         "options": {}
       },
       "type": "n8n-nodes-base.postgres",
@@ -149,7 +121,7 @@
     "availableInMCP": false,
     "errorWorkflow": "7HrDrsQKECTlnEFk"
   },
-  "versionId": "516254f8-4d75-4fae-9902-22452f0e0348",
+  "versionId": "0e54f4e3-7e76-4601-83ff-1c2adafe4743",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"

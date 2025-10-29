@@ -48,7 +48,7 @@
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.2,
       "position": [
-        1520,
+        1568,
         112
       ],
       "id": "7ac3ee52-c308-46b2-b9ca-9aac3910b8e5",
@@ -72,7 +72,7 @@
       "type": "n8n-nodes-base.set",
       "typeVersion": 3.4,
       "position": [
-        1744,
+        2016,
         160
       ],
       "id": "69cfc51d-3660-45a9-9ebf-ac1535af066a",
@@ -87,7 +87,7 @@
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.6,
       "position": [
-        1296,
+        1344,
         112
       ],
       "id": "3326be3d-22c6-4f2b-aa8c-f9c3b26bb52f",
@@ -127,7 +127,7 @@
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.2,
       "position": [
-        1072,
+        1120,
         32
       ],
       "id": "2e7aae10-3221-4056-b12a-6cce84f8aec1",
@@ -161,7 +161,7 @@
       "type": "n8n-nodes-base.postgres",
       "typeVersion": 2.6,
       "position": [
-        1744,
+        1792,
         -64
       ],
       "id": "f0e10a6c-f7d7-47cf-b9e0-86869ebd5c8d",
@@ -180,7 +180,7 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        848,
+        896,
         32
       ],
       "id": "765deb49-6418-4819-bd87-8a97ce930e4c",
@@ -193,7 +193,7 @@
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
-        1968,
+        2016,
         -64
       ],
       "id": "494b72e3-a644-473b-b1a0-680936ca12ad",
@@ -207,8 +207,8 @@
       "type": "n8n-nodes-base.readWriteFile",
       "typeVersion": 1,
       "position": [
-        208,
-        32
+        224,
+        112
       ],
       "id": "39064fbf-38d7-429d-9f46-8530fd2d1495",
       "name": "Read/Write Files from Disk"
@@ -221,8 +221,8 @@
       "type": "n8n-nodes-base.extractFromFile",
       "typeVersion": 1,
       "position": [
-        416,
-        32
+        448,
+        112
       ],
       "id": "3c601874-c9c1-48ac-aee0-ee9cb145c4f4",
       "name": "Extract from File"
@@ -236,18 +236,52 @@
       "type": "n8n-nodes-base.merge",
       "typeVersion": 3.2,
       "position": [
-        624,
+        672,
         32
       ],
       "id": "b4e106a7-840c-4156-9793-1095ed581847",
       "name": "Merge"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "6a0ec306-0f6e-4366-8ba8-98540719a9c1",
+              "leftValue": "={{ $json }}",
+              "rightValue": "",
+              "operator": {
+                "type": "object",
+                "operation": "empty",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        1792,
+        160
+      ],
+      "id": "1cc50a26-5220-4e1a-8b83-bdb82e9d0a88",
+      "name": "If empty"
     }
   ],
   "pinData": {
     "Begin": [
       {
         "json": {
-          "tagName": "scat"
+          "tagName": "emo violence"
         }
       }
     ]
@@ -273,7 +307,7 @@
       "main": [
         [
           {
-            "node": "Pass",
+            "node": "If empty",
             "type": "main",
             "index": 0
           }
@@ -370,13 +404,25 @@
           }
         ]
       ]
+    },
+    "If empty": {
+      "main": [
+        [],
+        [
+          {
+            "node": "Pass",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     }
   },
   "active": false,
   "settings": {
     "executionOrder": "v1"
   },
-  "versionId": "f8727e5c-50b2-4c6a-9375-1735657aa0ad",
+  "versionId": "35d3df45-7319-4b44-9a29-abbcedbb1749",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"

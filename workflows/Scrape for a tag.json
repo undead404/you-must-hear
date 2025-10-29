@@ -18,7 +18,7 @@
     },
     {
       "parameters": {
-        "url": "https://ws.audioscrobbler.com/2.0/",
+        "url": "http://localhost:4001/",
         "authentication": "genericCredentialType",
         "genericAuthType": "httpQueryAuth",
         "sendQuery": true,
@@ -55,7 +55,8 @@
               "maxRequests": 200,
               "requestInterval": 500
             }
-          }
+          },
+          "timeout": 10000
         }
       },
       "type": "n8n-nodes-base.httpRequest",
@@ -891,7 +892,7 @@
     "availableInMCP": false,
     "errorWorkflow": "7HrDrsQKECTlnEFk"
   },
-  "versionId": "655e9987-248e-4bb9-a471-9cb4e9233413",
+  "versionId": "99c24ae1-3c1e-4836-b679-72b780333091",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"

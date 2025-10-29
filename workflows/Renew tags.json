@@ -6,8 +6,7 @@
         "rule": {
           "interval": [
             {
-              "field": "minutes",
-              "minutesInterval": 1
+              "field": "minutes"
             }
           ]
         }
@@ -157,7 +156,7 @@
     "availableInMCP": false,
     "errorWorkflow": "7HrDrsQKECTlnEFk"
   },
-  "versionId": "08030648-538d-45fb-9275-f29b10d4f25d",
+  "versionId": "1d7c798e-a4e1-4670-89c2-c44c1d9cb2bc",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"

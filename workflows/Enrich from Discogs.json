@@ -37,7 +37,7 @@
     },
     {
       "parameters": {
-        "url": "https://api.discogs.com/database/search",
+        "url": "http://localhost:4002/database/search",
         "authentication": "genericCredentialType",
         "genericAuthType": "httpCustomAuth",
         "sendQuery": true,
@@ -53,7 +53,7 @@
             },
             {
               "name": "artist",
-              "value": "={{ $json.albumArtist }}"
+              "value": "={{ $json.albumArtist || $json.artistName }}"
             }
           ]
         },
@@ -102,7 +102,7 @@
     },
     {
       "parameters": {
-        "url": "=https://api.discogs.com/releases/{{ $json.discogsId }}",
+        "url": "=http://localhost:4002/releases/{{ $json.discogsId }}",
         "authentication": "genericCredentialType",
         "genericAuthType": "httpCustomAuth",
         "options": {
@@ -677,7 +677,7 @@
   "settings": {
     "executionOrder": "v1"
   },
-  "versionId": "4bc3f5b6-76c8-4e67-912d-6dfbee5a4e61",
+  "versionId": "0571ba50-a7d1-4f71-ad94-038657dfd61b",
   "meta": {
     "instanceId": "1afc0d7b3b04f9ec037dfb276d1262005b9e3099e9cc2b8934e87deae4ed97ec"
   },
