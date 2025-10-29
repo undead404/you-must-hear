@@ -1,37 +1,39 @@
 ---
 category: genre
-date: 2025-10-27T23:49:50.155Z
+date: 2025-10-28T20:32:04.962Z
 permalink: tags/late-romantic
 title: late romantic
 ---
 
 ## late romantic
 
-Last updated: <time datetime="2025-10-27T23:49:50.155Z">Tue Oct 28 2025 01:49:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T20:32:04.962Z">Tue Oct 28 2025 22:32:04 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Late Romantic music refers to a style of classical music that emerged in the late 19th and early 20th centuries. It is characterized by its highly emotional and expressive qualities, as well as its use of large-scale structures and expanded forms. Late Romantic composers often incorporated folk elements, exoticism, and literary influences into their music, and pushed the boundaries of traditional harmony, tonality, and orchestration. Some of the most prominent late Romantic composers include Gustav Mahler, Richard Strauss, Sergei Rachmaninoff, and Jean Sibelius. The style paved the way for the modernist and atonal movements that followed in the 20th century.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 |  |  | Mikhail Mikhaylovich Ippolitov-Ivanov | IPPOLITOV-IVANOV : Caucasian Sketches |
-| 6 |  |  | Nikolay Andreyevich Rimsky-Korsakov | RIMSKY-KORSAKOV: Sheherazade &#x2F; The Tale of Tsar Saltan |
-| 7 |  |  | Nikolay Andreyevich Rimsky-Korsakov | RIMSKY-KORSAKOV: Christmas Eve &#x2F; Night on Mount Triglav |
-| 8 |  |  | Nikolay Karlovich Medtner | MEDTNER: Sonatas Opp. 22 and 25, Nos. 1 and 2 |
-| 9 |  |  | Nikolay Andreyevich Rimsky-Korsakov | RIMSKY-KORSAKOV: The Maid of Pskov &#x2F; Fairy Tale |
-| 10 |  |  | Nikolay Karlovich Medtner | MEDTNER: Sonata Op. 5 &#x2F; Sonata-Triad Op. 11 |
-| 11 |  |  | Nikolay Karlovich Medtner | MEDTNER: Piano Concerto No. 2 &#x2F; Piano Quintet |
-| 12 |  |  | Mily Alexeyevich Balakirev | BALAKIREV: Chopin Suite &#x2F; Overtures |
-| 14 |  |  | Mily Alexeyevich Balakirev | BALAKIREV: Scherzi and Mazurkas (Complete) |
-| 22 |  |  | Alexander Porfir&#39;yevich Borodin | BORODIN: Piano Quintet &#x2F; String Quintet |
+| 1 |  |  | Alexander Konstantinovich Glazunov | GLAZUNOV: Symphonies Nos. 1 and 4 |
+| 2 |  |  | Nikolay Karlovich Medtner | MEDTNER: Piano Concertos Nos. 1 and 3 |
+| 3 |  |  | Nikolay Karlovich Medtner | MEDTNER: Sonatas Opp. 22 and 25, Nos. 1 and 2 |
+| 4 |  |  | Nikolay Andreyevich Rimsky-Korsakov | RIMSKY-KORSAKOV: The Maid of Pskov &#x2F; Fairy Tale |
+| 5 |  |  | Nikolay Karlovich Medtner | MEDTNER: Sonata Op. 5 &#x2F; Sonata-Triad Op. 11 |
+| 6 |  |  | Nikolay Karlovich Medtner | MEDTNER: Piano Concerto No. 2 &#x2F; Piano Quintet |
+| 7 |  |  | Alexandr Tikhonovich Grechaninov | GRECHANINOV: Piano Trios Nos. 1 and 2 |
+| 8 |  |  | Alexandr Tikhonovich Grechaninov | GRECHANINOV: String Quartets Nos. 2 and 4 |
+| 9 |  |  | Alexander Konstantinovich Glazunov | GLAZUNOV (THE BEST OF) |
+| 10 |  |  | Alexander Konstantinovich Glazunov | GLAZUNOV: The Kremlin &#x2F; From the Middle Ages &#x2F; Poeme Lirique |
+| 11 |  |  | Alexander Konstantinovich Glazunov | GLAZUNOV: Symphonies Nos. 5 and 8 |
+| 12 |  |  | Alexander Konstantinovich Glazunov | GLAZUNOV: Symphonies Nos. 2 and 7 |
+| 13 |  |  | Alexander Konstantinovich Glazunov | GLAZUNOV: Carnaval &#x2F; Spring &#x2F; Salome &#x2F; Waltzes |
+| 21 |  |  | Alexander Porfir&#39;yevich Borodin | BORODIN: Piano Quintet &#x2F; String Quintet |
+| 39 |  |  | Alexander Porfir&#39;yevich Borodin | BORODIN: Prince Igor (Highlights) &#x2F; In the Steppes of Central Asia |
 | 48 |  |  | Mikhail Mikhaylovich Ippolitov-Ivanov | IPPOLITOV-IVANOV: Spring Overture &#x2F; Three Musical Taxbleaux |
 | 50 |  |  | Mily Alexeyevich Balakirev | BALAKIREV: Symphony No. 2 &#x2F; Russia |
-| 43 | ![Cover](https://i.discogs.com/vfqGSDGk1Oz9plAVTuGm85v31NDO8qUmfQ5tUVSYaQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzU2/ODIyLTE3MDQwMjg5/ODYtMzIwOS5qcGVn.jpeg) | 1913 | Victor Herbert | HERBERT, V.: Beloved Songs and Classic Miniatures |
-| 41 | ![Cover](https://i.discogs.com/ZsccqE9eZGQBtoyOfod8aMDZSBH32FrTF6mFk8X5EDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzAw/NTgtMTUwMTAxNTQ0/MS02MDM4LmpwZWc.jpeg) | 1966 | The D&#39;Oyly Carte Opera Company | Gilbert &amp; Sullivan: The Sorcerer, Etc. |
-| 26 | ![Cover](https://i.discogs.com/_DDBlkzq3xFUlPFZ-O3PvAMNyFrEcAWvOpKyhB3aGUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODMw/NTMtMTU1MDM2OTQ1/Ni03MDg5LmpwZWc.jpeg) | 1971 | Antonín Dvořák | Te Deum, Mass in D major, Biblical Songs Nos.1- 5 (Prague Symphony Orchestra, Czech Philharmonic Chorus, soloists, cond.Václav Smetáček) |
-| 27 |  | 1971-10 | Albert Roussel | Ravel: Introduction Et Allegro &#x2F; Debussy: Sonata for Flute, Viola and Harp &#x2F; Saint-Saens: Fantaisie |
-| 32 |  |  | Prague Symphony Orchestra | DVOŘÁK: Te Deum, Mass in D major (Václav Smetáček &#x2F; Czech Philharmonic Chorus, soloists) |
-| 34 |  |  | Mikhail Mikhaylovich Ippolitov-Ivanov | IPPOLITOV-IVANOV: Symphony No. 1 &#x2F; Turkish Fragments |
-| 39 |  |  | Alexander Porfir&#39;yevich Borodin | BORODIN: Prince Igor (Highlights) &#x2F; In the Steppes of Central Asia |
 | 51 |  |  | The D&#39;Oyly Carte Opera Company | Operas of Gilbert &amp; Sullivan: Trial By Jury &amp; The Pirates of Penzance (Act 1) &#x2F; The Pirates of Penzance (Act 2) &amp; Iolanthe (First Part) |
 | 54 |  |  | Cesar Cui | CUI: Suite Concertante Op. 25 &#x2F; Suite Miniature Op. 20 |
 | 56 |  |  | Sergei Mikhailovich Lyapunov | LYAPUNOV: 12 Etudes D&#39; Execution Transcendante, Op. 11 |
@@ -47,28 +49,32 @@ Last updated: <time datetime="2025-10-27T23:49:50.155Z">Tue Oct 28 2025 01:49:50
 | 79 |  |  | Sergei Mikhailovich Lyapunov | LIAPUNOV: Piano Works |
 | 88 |  |  | The Bournemouth Gilbert And Sullivan Ensemble | Gilbert And Sullivan Favourites |
 | 91 |  |  | Victor Herbert | HERBERT, V.: Babes in Toyland &#x2F; The Red Mill |
+| 43 | ![Cover](https://i.discogs.com/vfqGSDGk1Oz9plAVTuGm85v31NDO8qUmfQ5tUVSYaQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzU2/ODIyLTE3MDQwMjg5/ODYtMzIwOS5qcGVn.jpeg) | 1913 | Victor Herbert | HERBERT, V.: Beloved Songs and Classic Miniatures |
 | 80 | ![Cover](https://i.discogs.com/o_Ih-vBcbkZgZHjeKcO_g8XV751Dd0rWkFRsah1nTGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI2/NDczLTE1MDA4OTAz/NjItMzM0MS5qcGVn.jpeg) | 1961 | BRANNIGAN, OWEN&#x2F;LEWIS, RICHARD&#x2F;SARGENT, MALCOLM&#x2F;PRO ARTE ORCHESTRA | The Mikado |
+| 41 | ![Cover](https://i.discogs.com/ZsccqE9eZGQBtoyOfod8aMDZSBH32FrTF6mFk8X5EDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzAw/NTgtMTUwMTAxNTQ0/MS02MDM4LmpwZWc.jpeg) | 1966 | The D&#39;Oyly Carte Opera Company | Gilbert &amp; Sullivan: The Sorcerer, Etc. |
+| 26 | ![Cover](https://i.discogs.com/_DDBlkzq3xFUlPFZ-O3PvAMNyFrEcAWvOpKyhB3aGUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODMw/NTMtMTU1MDM2OTQ1/Ni03MDg5LmpwZWc.jpeg) | 1971 | Antonín Dvořák | Te Deum, Mass in D major, Biblical Songs Nos.1- 5 (Prague Symphony Orchestra, Czech Philharmonic Chorus, soloists, cond.Václav Smetáček) |
+| 27 |  | 1971-10 | Albert Roussel | Ravel: Introduction Et Allegro &#x2F; Debussy: Sonata for Flute, Viola and Harp &#x2F; Saint-Saens: Fantaisie |
+| 32 |  |  | Prague Symphony Orchestra | DVOŘÁK: Te Deum, Mass in D major (Václav Smetáček &#x2F; Czech Philharmonic Chorus, soloists) |
+| 34 |  |  | Mikhail Mikhaylovich Ippolitov-Ivanov | IPPOLITOV-IVANOV: Symphony No. 1 &#x2F; Turkish Fragments |
 | 40 | ![Cover](https://i.discogs.com/qgDuxLMqs_gB_p0aJOt1knEWWJyu5vR0spOtcK7emVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY1/MTYzLTE1NjY3NTUw/NjgtMjMzNS5qcGVn.jpeg) | 1968 | Antonín Dvořák | Sinfonie Nr. 9 e-Moll, op. 95 „Aus der Neuen Welt“ |
 | 25 | ![Cover](https://i.discogs.com/PiWSXIHWTXsle8Z6KvTrESSW4JDhu46VEOCXtW1DQ8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjU5/MzYtMTQ5NTM0MDMz/OS02NjExLmpwZWc.jpeg) | 1972 | Josef Suk | Asrael Symphony (Czech Philharmonic Orchestra, Václav Neumann) |
 | 38 | ![Cover](https://i.discogs.com/PiWSXIHWTXsle8Z6KvTrESSW4JDhu46VEOCXtW1DQ8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjU5/MzYtMTQ5NTM0MDMz/OS02NjExLmpwZWc.jpeg) | 1972 | Josef Suk | Through Life and Dream; About Friendship |
-| 5 |  | 1973 | Riccardo Zandonai | Zandonai - Violin Concerto; Quadri di Segantini |
 | 17 |  | 1973 | Max Reger | Reger Kammermusik &#x2F; Zoltan Racz |
 | 93 | ![Cover](https://i.discogs.com/ufsbxW8U59uNyn0005zuT8XV8SGBaRLUUijDd75bwig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzEx/ODItMTU2NjY3NzA5/Mi05MzQ2LmpwZWc.jpeg) | 1975-10 | Samuel Coleridge-Taylor | Coleridge-Taylor: Hiawatha Overture &#x2F; Petite Suite |
 | 94 |  |  | Alexander Porfir&#39;yevich Borodin | BORODIN: Symphonies Nos. 1, 2 and 3 |
 | 97 |  |  | Александр Порфирьевич Бородин | Symphony No. 2, Polovtsian Dances |
 | 98 | ![Cover](https://i.discogs.com/imPfhzXPN9dBY8VuPKTdpnGrFm3MGM3VQ1Ut7SomxVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTY3/NTEtMTM3ODc2ODc4/MS03NDkzLmpwZWc.jpeg) | 1970 | Carl Nielsen | NIELSEN: Aladdin Suite &#x2F; Pan and Syrinx &#x2F; Helios Overture |
 | 96 | ![Cover](https://i.discogs.com/vF2WP2JVcoTYBaIlyEZqCO0JWwdFT8a4ifQgnQuWodQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDEz/MzMtMTQzNjAyODc2/OC04NjExLmpwZWc.jpeg) | 1971 | Antonín Dvořák | Sinfonie Nr. 7 d-Moll, op. 70 |
-| 20 | ![Cover](https://i.discogs.com/NAxylucwpYrkdVLqfc0hApbF_MMTnifZsDYfdT-PY20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzM2/MjU4LTE2MjEwNzYz/NDItMjExMy5qcGVn.jpeg) | 1976 | Antonín Dvořák | Te Deum, Mass in D major, Biblical Songs Nos.1- 5 (Prague Symphony Orchestra, Czech Philharmonic Chorus, soloitsts, cond.Václav Smetáček) |
+| 22 | ![Cover](https://i.discogs.com/NAxylucwpYrkdVLqfc0hApbF_MMTnifZsDYfdT-PY20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzM2/MjU4LTE2MjEwNzYz/NDItMjExMy5qcGVn.jpeg) | 1976 | Antonín Dvořák | Te Deum, Mass in D major, Biblical Songs Nos.1- 5 (Prague Symphony Orchestra, Czech Philharmonic Chorus, soloitsts, cond.Václav Smetáček) |
 | 31 | ![Cover](https://i.discogs.com/Wyx3ya9BUuDGwDHPG4Ayq2VjAesqVwahnJLGOShyEsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDIw/NzItMTQzNDY1MjY3/MC00OTA1LmpwZWc.jpeg) | 1976 | Antonín Dvořák | Works For Cello And Orchestra |
 | 33 | ![Cover](https://i.discogs.com/xj-rQG4erDf6qjkMC6n2g3AjFuh-c6LsLp0SxAXptNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODE4/MTMyLTE2NjU3Mzc2/OTUtNjM5MS5wbmc.jpeg) | 1976 | Franco Alfano | Alfano: Symphonies Nos. 1 and 2 |
 | 36 | ![Cover](https://i.discogs.com/V5yVV7HDynjoMVua2sU0Y0CKdZ846YXc6oTuDx4hhdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTMx/MjkzLTE2MTc0Mzc4/NTEtMzk4Mi5qcGVn.jpeg) | 1976 | Antonín Dvořák | Rekviem, op.89 (Czech Philharmonic Orchestra, Prague Philharmonic Chorus, soloists, conductor Karel Ančerl) |
 | 77 | ![Cover](https://i.discogs.com/n4Gs7olkOHfnhPAQdv47HsE82GaXKNa3tQCBfF347_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Njk4/MzAtMTY2MTEwMjMx/NC03Mzc0LmpwZWc.jpeg) | 1976 | Edward MacDowell | MACDOWELL: Woodland Sketches &#x2F; Fireside Tales &#x2F; New England Idyls |
 | 45 | ![Cover](https://i.discogs.com/yCd9DDhLdbCEQ0Nh0wInyK6zNZYxzC6NEPOm5he29F0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjA3/NDUtMTQ2NTMwNTkw/OS0yMzI1LmpwZWc.jpeg) | 1979 | Hubert Parry | PARRY: Symphony No. 2 &#x2F; Symphonic Variations in E |
-| 13 |  | 1983 | Czech Philharmonic Orchestra | Suk - Asrael Symphony; Epilogue; Symphonic Poems |
 | 23 | ![Cover](https://i.discogs.com/vF2WP2JVcoTYBaIlyEZqCO0JWwdFT8a4ifQgnQuWodQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDEz/MzMtMTQzNjAyODc2/OC04NjExLmpwZWc.jpeg) | 1983 | Antonín Dvořák | Czech Suite - Symphony No. 4 |
 | 76 | ![Cover](https://i.discogs.com/08oPBiCLg5jc1NgNdAe2uXkCS8sm_uueijzUPzLfK94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDE5/NjUtMTUyMDg1NzQ2/NC00NTg3LmpwZWc.jpeg) | 1983 | Arthur Foote | FOOTE: Piano Quartet &#x2F; String Quartet No. 1 |
 | 89 | ![Cover](https://i.discogs.com/vF2WP2JVcoTYBaIlyEZqCO0JWwdFT8a4ifQgnQuWodQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDEz/MzMtMTQzNjAyODc2/OC04NjExLmpwZWc.jpeg) | 1983 | Antonín Dvořák | DVORAK: Symphonies Nos. 1-9 |
-| 3 |  | 1986 | Joseph-Guy Ropartz | Ropartz, J.-G.: Symphonies Nos. 2 and 5 |
+| 14 |  | 1986 | Joseph-Guy Ropartz | Ropartz, J.-G.: Symphonies Nos. 2 and 5 |
 | 29 | ![Cover](https://i.discogs.com/PiWSXIHWTXsle8Z6KvTrESSW4JDhu46VEOCXtW1DQ8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjU5/MzYtMTQ5NTM0MDMz/OS02NjExLmpwZWc.jpeg) | 1986 | Josef Suk | Asrael (Czech Philharmonic Orchestra, Jiří Bělohlávek) |
 | 92 | ![Cover](https://i.discogs.com/NFqMmaGSF3_f1PbLPekj4CcVIzQqqoJCITMaV8W-U4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQ1/NDg4LTE2NzU5NjA2/NjUtNDYzMC5qcGVn.jpeg) | 1988 | Antonín Dvořák | DVORAK: Symphony No. 2 &#x2F; Legends Op. 59, Nos. 6-10 |
 | 28 |  | 1989 | Ferruccio Busoni | Piano Concerto |
@@ -86,7 +92,6 @@ Last updated: <time datetime="2025-10-27T23:49:50.155Z">Tue Oct 28 2025 01:49:50
 | 24 | ![Cover](https://i.discogs.com/VG9-mHLOx15Amiy7Jq4KHnrpOPUIzCmtsN71tczd4kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYz/ODctMTI5NjU1Mjcy/NS5naWY.jpeg) | 1999-03-01 | Leoš Janáček | Orchestral Works (Czech Philharmonic Orchestra, Jiří Bělohlávek, Gregory Rose) |
 | 47 | ![Cover](https://i.discogs.com/RMmxNbAnl2_phd5bIQ6HNRqDKeZZ75VyUYWXZo7A_xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTMz/NzYtMTU5NTUzODU4/Ny0zNjAzLmpwZWc.jpeg) | 2001 | Edward MacDowell | MACDOWELL: Suites Nos. 1 and 2 &#x2F; Hamlet and Ophelia |
 | 42 | ![Cover](https://i.discogs.com/IU4Tp8rHnL3hbKlKCAvwWov8Vx7xCtcME2Je4swFf8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE5/MjgxLTE1OTgzODA0/NjUtNTkwNy5qcGVn.jpeg) | 2001-11 | Asger Hamerik | HAMERIK: Symphonies Nos. 5 &amp; 6 |
-| 4 |  | 2002 | Anton Stepanovich Arensky | ARENSKY: Egyptian Nights |
 | 64 | ![Cover](https://i.discogs.com/TVXVUYTR-6wIuje3XoCK1SJi0UtAATln6pCs3GCFL5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODA3/OTc2LTE1OTgxNzkw/OTktOTk3NC5qcGVn.jpeg) | 2002-01 | Cesar Cui | CUI: 25 Preludes, Op. 64 |
 | 70 | ![Cover](https://i.discogs.com/J801gOlQCSDurLWLVigeO3CKIVDVNte4_rgz58M03bY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQ1/MjEwLTE0OTU3MTI5/NjMtNzQyMi5qcGVn.jpeg) | 2003-03-01 | Alexander von Zemlinsky | ZEMLINSKY: Symphonies Nos. 1 and 2 |
 | 71 |  |  | William S. Gilbert | SULLIVAN: The Gondoliers (D&#39;Oyly Carte) (1950) |
@@ -103,13 +108,12 @@ Last updated: <time datetime="2025-10-27T23:49:50.155Z">Tue Oct 28 2025 01:49:50
 | 65 | ![Cover](https://i.discogs.com/i7S3KUl8xXJLtrWctFTqGaahr5rhgDgZE6naHdJiXX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDg4/NzMtMTQ5NDU4NjE5/MS00NjQ0LmpwZWc.jpeg) | 2005 | Joshua Bell | Ladies In Lavender |
 | 60 | ![Cover](https://i.discogs.com/627KOrodXH3SqclWYV5y1mruRg_bvOweEDAPzIhohK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDU5/OTQ2LTE2ODM5Mjg4/NjEtNzc4NC5qcGVn.jpeg) | 2006 | Louis Glass | GLASS, L.: Symphonies Nos. 5 and 6 |
 | 99 |  | 2006-10 | Jean Sibelius | The Very Best of Sibelius |
-| 2 |  | 2008 | Anton Stepanovich Arensky | ARENSKY: Suites Nos. 1-3 |
 | 44 | ![Cover](https://i.discogs.com/kEBtyiE58_F0l1UH5xOhG6g_jLijeEQ-6dxslefBiNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTk0/OTItMTQ0MDY3NTc2/OS04OTA3LmpwZWc.jpeg) | 2009 | Franco Alfano | Alfano, F.: Cello Sonata &#x2F; Concerto for Violin, Cello and Piano |
 | 18 |  | 2010 | Max Reger | Kammermusik, Volume 4 (violin: Philipp Naegele, viola: Ernst Wallfisch, piano: Lory Wallfisch) |
 | 49 | ![Cover](https://i.discogs.com/2EkQZXFmPhwNScisi5dL80JKjoGp4fgaCY10C3zx1A8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Nzc1/NjAtMTQ4MzA0ODU2/Ni01NjAwLmpwZWc.jpeg) | 2011 | Vasily Sergeyevich Kalinnikov | KALINNIKOV: Tsar Boris &#x2F; Epic Poem &#x2F; The Nymphs |
 | 55 | ![Cover](https://i.discogs.com/qkjoERzKlHElA28Ot7CBlZalx1O8KORNucvd-dYV71g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDE5/NTQ0LTE2ODUyMDQ0/ODctNzE3MS5qcGVn.jpeg) | 2014 | Emil Hartmann | HARTMANN: Nordic Folk Dances |
 | 100 | ![Cover](https://i.discogs.com/kCkZ1Cj4ZMvf8vQRP0tP__rS_O0A37kVWZXkc0KgEeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjU0/MzMzLTE2NTU4NzI3/NzYtNDMwMS5qcGVn.jpeg) | 2015 | Carl Nielsen | Aladdin |
-| 21 | ![Cover](https://i.discogs.com/ImllYOEidbPF7PN0h0q6Ww_boiJqAJc1uZrQ-AXZeIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjAz/MjktMTQ2Mjk1NTg4/Ny0yNzAxLmpwZWc.jpeg) | 2018 | Claude Debussy | La Mer &#x2F; Nocturnes &#x2F; Jeux &#x2F; Rhapsodie pour clarinette et orchestre (The Cleveland Orchestra, Pierre Boulez) |
+| 20 | ![Cover](https://i.discogs.com/ImllYOEidbPF7PN0h0q6Ww_boiJqAJc1uZrQ-AXZeIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjAz/MjktMTQ2Mjk1NTg4/Ny0yNzAxLmpwZWc.jpeg) | 2018 | Claude Debussy | La Mer &#x2F; Nocturnes &#x2F; Jeux &#x2F; Rhapsodie pour clarinette et orchestre (The Cleveland Orchestra, Pierre Boulez) |
 | 90 | ![Cover](https://i.discogs.com/UwwNMhE5Iwtg4cqsRottWX8gXgYiPLRQ8Q3HB1s_QWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY5/OTg0LTE2Mjc4MzIy/ODgtMzkwNC5qcGVn.jpeg) | 2018 | George Whitefield Chadwick | CHADWICK: Symphony No. 2 &#x2F; Symphonic Sketches |
 | 82 |  | 2022-04-14 | Various Artists | AMERICAN INDIANISTS, Vol. 1 |
 | 86 | ![Cover](https://i.discogs.com/3Z4RlMNrT1Z99kXSklNlzPLEfAufJ8wiGho2hbB0aGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzE1/OS0xNjQ2ODQ2NTYy/LTU3NTUuanBlZw.jpeg) | 2023 | Various Artists | Hms Pinafore&#x2F;Trial By Jury |

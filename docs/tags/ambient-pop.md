@@ -1,64 +1,68 @@
 ---
 category: genre
-date: 2025-10-26T14:07:36.446Z
+date: 2025-10-28T20:29:59.718Z
 permalink: tags/ambient-pop
 title: ambient pop
 ---
 
 ## ambient pop
 
-Last updated: <time datetime="2025-10-26T14:07:36.446Z">Sun Oct 26 2025 16:07:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T20:29:59.718Z">Tue Oct 28 2025 22:29:59 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Ambient pop is a subgenre of popular music that incorporates elements of ambient music, a style known for its atmospheric, non-linear soundscapes, with traditional pop music structures and melodies. This style of music often features dreamy, hazy textures, atmospheric synths, and heavily reverberated vocals. The music tends to be less focused on lyrics and more on creating an immersive sonic experience, with an emphasis on creating a sense of mood and atmosphere. Some examples of artists who have worked within this style include Beach House, Cigarettes After Sex, and Cocteau Twins.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 9 | ![Cover](https://i.discogs.com/UmdMPEXIJ-_9LpYSnkbz2HABLgPTEGJG8IeheR7Ic-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/MDgtMTQxMzE1NzI0/NS0zMjE0LmpwZWc.jpeg) | 1989 | Woo | It&#39;s Cosy Inside (Remastered) |
+| 8 | ![Cover](https://i.discogs.com/UmdMPEXIJ-_9LpYSnkbz2HABLgPTEGJG8IeheR7Ic-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/MDgtMTQxMzE1NzI0/NS0zMjE0LmpwZWc.jpeg) | 1989 | Woo | It&#39;s Cosy Inside (Remastered) |
 | 46 | ![Cover](https://i.discogs.com/2uH86tksG4QQGEtGP3BJx2SxMivVh4eL30wm-X5ZVvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI3/MzY2LTE1MzcwMTc2/NTUtMjg2Ni5qcGVn.jpeg) | 1994-10-21 | Fishmans | 宇宙 日本 世田谷 |
 | 39 | ![Cover](https://i.discogs.com/oaGZxEAWHqAfxA6-TgK6H6s4vKFQHLSxWXg0gPa1voY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTc5/My0xMjY0NTMxMzgy/LmpwZWc.jpeg) | 1995-02-06 | Slowdive | Pygmalion |
-| 22 | ![Cover](https://i.discogs.com/VK7IPJ6mOJ-SAnMhOlaoJ2nFAmalSxNtVYswo9K0T0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODMy/ODctMTU0MTM0NDA1/My04MTczLmpwZWc.jpeg) | 1996-10-25 | Fishmans | Long Season |
-| 23 |  | 1997-09-22 | Stereolab | Dots and Loops |
+| 21 | ![Cover](https://i.discogs.com/VK7IPJ6mOJ-SAnMhOlaoJ2nFAmalSxNtVYswo9K0T0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODMy/ODctMTU0MTM0NDA1/My04MTczLmpwZWc.jpeg) | 1996-10-25 | Fishmans | Long Season |
+| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7a9305f1332f36348aa298f8f9c44ac0.png) | 1997-05-08 | Laika | Sounds Of The Satellites |
+| 22 |  | 1997-09-22 | Stereolab | Dots and Loops |
 | 41 | ![Cover](https://i.discogs.com/4qhov_w-5KPPyltZvGFHexMiMLMy4K-oPwDoYWhjPH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzI2/NDg2LTE2ODk4MTg0/MTItNzkyOC5qcGVn.jpeg) | 1998-01-01 | Sugar Plant | HAPPY |
-| 2 |  | 1998-08-11 | Love Spirals Downwards | Flux |
-| 16 | ![Cover](https://i.discogs.com/a8lMofK7WQ7Rji17P3moc19n9XGm7SowmZuZqkHhCYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDA4/Ni0xMTQ5NjI1ODE5/LmpwZWc.jpeg) | 1999-12 | múm | Yesterday Was Dramatic – Today Is OK |
+| 1 |  | 1998-08-11 | Love Spirals Downwards | Flux |
+| 15 | ![Cover](https://i.discogs.com/a8lMofK7WQ7Rji17P3moc19n9XGm7SowmZuZqkHhCYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDA4/Ni0xMTQ5NjI1ODE5/LmpwZWc.jpeg) | 1999-12 | múm | Yesterday Was Dramatic – Today Is OK |
 | 38 | ![Cover](https://i.discogs.com/nwq-I87RyK4BN9b-rOVB_ExtpVSd_wJrY9x6XuL3c-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTY2/Ny0xMTc4NDE3NDA2/LmpwZWc.jpeg) | 2003 | Sweet Trip | Velocity: design: comfort. |
 | 20 | ![Cover](https://i.discogs.com/lHDqKl5p4YtdQceru896Klz7wVSnRynFow9DZcS642k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTQ0/NDItMTQxMTgxNTcx/OS01NDQ2LmpwZWc.jpeg) | 2003-09-29 | David Sylvian | Brilliant Trees (Remastered 2003) |
-| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/efc743587d27c3497d5807f709efb701.png) | 2004-02-02 | Electrelane | The Power Out |
-| 10 | ![Cover](https://i.discogs.com/z0Vb6ILLf-denl2hbqRwhpm9OIkytSwU7rjrbv0E5Tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTc5/MS0xMTY1NjE3MTgy/LmpwZWc.jpeg) | 2005-02-28 | Masha Qrella | Unsolved Remained |
+| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/efc743587d27c3497d5807f709efb701.png) | 2004-02-02 | Electrelane | The Power Out |
+| 9 | ![Cover](https://i.discogs.com/z0Vb6ILLf-denl2hbqRwhpm9OIkytSwU7rjrbv0E5Tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTc5/MS0xMTY1NjE3MTgy/LmpwZWc.jpeg) | 2005-02-28 | Masha Qrella | Unsolved Remained |
 | 45 |  | 2009-11-23 | Animal Collective | Fall Be Kind |
-| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2eb14f69f468cdb79adbe8c48d5e1967.png) | 2011-09-12 | Disco Inferno | The 5 EPs |
-| 29 |  | 2011-11-21 | Kate Bush | 50 Words for Snow |
-| 31 |  | 2012-03-05 | Julia Holter | Ekstasis |
-| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6ebf500e7934e3af1d1a273ab857ed7f.png) | 2012-04-25 | Good Night &amp; Good Morning | Narrowing Type |
-| 25 |  | 2012-05-21 | Laurel Halo | Quarantine |
-| 1 |  | 2012-12 | Ke$ha | Deconstructed |
-| 4 |  | 2013-08-19 | Julia Holter | Loud City Song |
+| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2eb14f69f468cdb79adbe8c48d5e1967.png) | 2011-09-12 | Disco Inferno | The 5 EPs |
+| 28 |  | 2011-11-21 | Kate Bush | 50 Words for Snow |
+| 30 |  | 2012-03-05 | Julia Holter | Ekstasis |
+| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6ebf500e7934e3af1d1a273ab857ed7f.png) | 2012-04-25 | Good Night &amp; Good Morning | Narrowing Type |
+| 24 |  | 2012-05-21 | Laurel Halo | Quarantine |
+| 3 |  | 2013-08-19 | Julia Holter | Loud City Song |
 | 37 | ![Cover](https://i.discogs.com/ZyH2l9WgO2NvVovG02NTNxIH-7b0D5Lt9W1A_Rx2Qhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjk2/NjctMTQzMzAwMTc2/NC0zNDgyLmpwZWc.jpeg) | 2013-12-20 | column | a year in your garden |
-| 26 | ![Cover](https://i.discogs.com/heRucRMvtwUjbcTg0GU3oJFZlnLHMvZqdlEUQ0c1694/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTE0/MDk0LTE2MDQ1Njk1/ODAtNzQ3NS5qcGVn.jpeg) | 2014-10-20 | Weyes Blood | God Turn Me Into A Flower |
-| 6 | ![Cover](https://i.discogs.com/beqRVD3SuEAhJHCWXq41Ii2kUIiba1u2VJNtun1eB1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTQ1/OTgtMTQ2OTM2NzM4/My04NDM1LmpwZWc.jpeg) | 2015-09-25 | Julia Holter | Have You In My Wilderness |
+| 25 | ![Cover](https://i.discogs.com/heRucRMvtwUjbcTg0GU3oJFZlnLHMvZqdlEUQ0c1694/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTE0/MDk0LTE2MDQ1Njk1/ODAtNzQ3NS5qcGVn.jpeg) | 2014-10-20 | Weyes Blood | God Turn Me Into A Flower |
+| 5 | ![Cover](https://i.discogs.com/beqRVD3SuEAhJHCWXq41Ii2kUIiba1u2VJNtun1eB1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTQ1/OTgtMTQ2OTM2NzM4/My04NDM1LmpwZWc.jpeg) | 2015-09-25 | Julia Holter | Have You In My Wilderness |
 | 48 | ![Cover](https://i.discogs.com/D1kRvAWFgewCRCRcjx3dcWN4BU9W613d8m29ZpKpcMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTEw/MTI0LTE2NjY0NTg2/MTAtOTQ2Ni5qcGVn.jpeg) | 2016-03-11 | Aurora | All My Demons Greeting Me As A Friend - Deluxe |
 | 43 | ![Cover](https://i.discogs.com/dl9RJTx0byNiOtpXtFwx1nCzwesjh4905SYDjq-9P3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTM2/MTAtMTQ2MDgzMjYw/NS00NjY5LmpwZWc.jpeg) | 2016-04-06 | Deakin | SLEEP CYCLE |
 | 18 | ![Cover](https://i.discogs.com/heY_EQxQZV14wJIgprpb1tj2nZr6ofB1lqjt0PS-e7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA1/ODgxLTE1NTk0MTUw/NzItNzU5NS5qcGVn.jpeg) | 2016-07-18 | Thaiboy Digital | Tiger |
 | 49 | ![Cover](https://i.discogs.com/RW5JYyTQ1la4KGnYjEn8hUixAWemi0LBFjSvoPeFcMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMz/NDgwLTE0OTEwODA0/NTUtNjUxMy5qcGVn.jpeg) | 2017-03-31 | Goldfrapp | Silver Eye |
-| 12 | ![Cover](https://i.discogs.com/BQELEU6rnR72HWuXaqNzzTJUU7A-Lw6rlxRx8OL6thQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQx/NTQ1LTE1MTYzOTMz/OTItNDEyNy5qcGVn.jpeg) | 2017-09-15 | L&#39;Rain | L&#39;Rain |
+| 11 | ![Cover](https://i.discogs.com/BQELEU6rnR72HWuXaqNzzTJUU7A-Lw6rlxRx8OL6thQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQx/NTQ1LTE1MTYzOTMz/OTItNDEyNy5qcGVn.jpeg) | 2017-09-15 | L&#39;Rain | L&#39;Rain |
 | 17 | ![Cover](https://i.discogs.com/arPPG7xPJb0UdFTSmVvmp9KmEeYgLxUX6PTvyjGnrAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODM0/NjU0LTE1MTA1MDc3/MTEtODgyMi5qcGVn.jpeg) | 2017-09-29 | Flunk | Chemistry and Math |
-| 8 | ![Cover](https://i.discogs.com/Ntmg_FK5SbI41g-GMq8-eJr3y6PyxXcMDFEIoVbqmlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMw/NDQ4LTE1MTc5NzI3/NTMtMzk4NS5qcGVn.jpeg) | 2017-12-30 | Organ Tapes | Into One Name |
-| 14 | ![Cover](https://i.discogs.com/4HHMHHPtdKmxO3TzAdwUWZ9JlBXm30eTuMUTDvH_LUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA3/MzE0LTE1NTk0NDg3/OTQtMTgyNC5qcGVn.jpeg) | 2018-02-23 | ECCO2k | AAA Powerline |
-| 7 | ![Cover](https://i.discogs.com/R1f7OMxUF7IUmEWTgR1yUuXdfj6hdLRjYTRpMMwMm2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA3/OTIyLTE1NDA0Njg4/NDAtNzI1MS5qcGVn.jpeg) | 2018-10-26 | Julia Holter | Aviary |
-| 36 | ![Cover](https://i.discogs.com/26-hmncaPIliR2T3YWaFUC3aQONSK0S6M-FhwQATGjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTg5/NDk3LTE1NTA1MDM1/NzItOTQxNy5qcGVn.jpeg) | 2019-02-15 | Yann Tiersen | All |
-| 33 | ![Cover](https://i.discogs.com/PLPyGkVBrC8q7AVOxDnPS9eCwL3FsbgeQ7gq3jPbY3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE0/MDcxLTE1NTY4MTU1/MzItNDg0My5qcGVn.jpeg) | 2019-03-29 | Billie Eilish | when we all fall asleep, where do we go? |
+| 7 | ![Cover](https://i.discogs.com/Ntmg_FK5SbI41g-GMq8-eJr3y6PyxXcMDFEIoVbqmlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMw/NDQ4LTE1MTc5NzI3/NTMtMzk4NS5qcGVn.jpeg) | 2017-12-30 | Organ Tapes | Into One Name |
+| 13 | ![Cover](https://i.discogs.com/4HHMHHPtdKmxO3TzAdwUWZ9JlBXm30eTuMUTDvH_LUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA3/MzE0LTE1NTk0NDg3/OTQtMTgyNC5qcGVn.jpeg) | 2018-02-23 | ECCO2k | AAA Powerline |
+| 6 | ![Cover](https://i.discogs.com/R1f7OMxUF7IUmEWTgR1yUuXdfj6hdLRjYTRpMMwMm2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA3/OTIyLTE1NDA0Njg4/NDAtNzI1MS5qcGVn.jpeg) | 2018-10-26 | Julia Holter | Aviary |
+| 35 | ![Cover](https://i.discogs.com/26-hmncaPIliR2T3YWaFUC3aQONSK0S6M-FhwQATGjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTg5/NDk3LTE1NTA1MDM1/NzItOTQxNy5qcGVn.jpeg) | 2019-02-15 | Yann Tiersen | All |
+| 32 | ![Cover](https://i.discogs.com/PLPyGkVBrC8q7AVOxDnPS9eCwL3FsbgeQ7gq3jPbY3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE0/MDcxLTE1NTY4MTU1/MzItNDg0My5qcGVn.jpeg) | 2019-03-29 | Billie Eilish | when we all fall asleep, where do we go? |
 | 42 | ![Cover](https://i.discogs.com/93ighOqO3wZsyeH8bx8-XvNxXeH0NNH_oLRV3cpt9Ak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUz/NjQxLTE1NzI4MDkz/NTktOTI3Ny5qcGVn.jpeg) | 2019-11-08 | FKA twigs | magdalene |
 | 44 | ![Cover](https://i.discogs.com/ZjPa-aJnHVALoINsAQZFy_vLmzI9I3Bx2vQmOXO1kdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA3/OTEwLTE1ODk1MTE3/MjktNTg2Mi5qcGVn.jpeg) | 2020-05-15 | Yung Lean | Starz |
-| 34 | ![Cover](https://i.discogs.com/d6bMsnc-wGhvy3-9NzjIKA6Xys6NWa9qt4FrpDtwq0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjIz/MjE3LTE2MjcyNDM2/MzAtMzU2My5qcGVn.jpeg) | 2021 | Low | HEY WHAT |
+| 33 | ![Cover](https://i.discogs.com/d6bMsnc-wGhvy3-9NzjIKA6Xys6NWa9qt4FrpDtwq0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjIz/MjE3LTE2MjcyNDM2/MzAtMzU2My5qcGVn.jpeg) | 2021 | Low | HEY WHAT |
 | 47 | ![Cover](https://i.discogs.com/I3IR2RBE3dHKMecOTKnsxsdgNwjJn7VHvtPk7C0lvD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDAx/MDcwLTE0OTY4NDMw/MjgtMTE2OS5qcGVn.jpeg) | 2021-02-03 | James McAlister | Planetarium |
-| 13 | ![Cover](https://i.discogs.com/-v85HKOWR7us7HoH_mv1VMUP2TMSG0suWrfEps0-_VU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjYy/ODQxLTE2MTI0OTY2/OTktMjM5NC5qcGVn.jpeg) | 2021-02-05 | Hayley Williams | Flowers For Vases &#x2F; Descansos |
-| 28 | ![Cover](https://i.discogs.com/LVg3fHwxozRmwF-QuBLeKvmk70nPARj_4UyUlmeltPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDQy/NzI3LTE2MzMxNTQ0/ODAtNTEyOC5qcGVn.jpeg) | 2021-10-01 | Kedr Livanskiy | Liminal Soul |
-| 27 | ![Cover](https://i.discogs.com/ncsDvOuP0CJufwYOJAnmh-eNGDG707I2XiQcYqgwr0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDAx/OTExLTE2NTczNjYz/NjEtNDk1My5qcGVn.jpeg) | 2022-02-04 | Yeule | GLITCH PRINCESS |
-| 35 | ![Cover](https://i.discogs.com/YMgsGgl9loktK_NCvkEmvfo9QH2Judrmmhh9FK1t4FY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTg2/MTQ2LTE2NDQzNDgw/MzktMzEwNS5qcGVn.jpeg) | 2022-02-04 | Mitski | Laurel Hell |
+| 12 | ![Cover](https://i.discogs.com/-v85HKOWR7us7HoH_mv1VMUP2TMSG0suWrfEps0-_VU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjYy/ODQxLTE2MTI0OTY2/OTktMjM5NC5qcGVn.jpeg) | 2021-02-05 | Hayley Williams | Flowers For Vases &#x2F; Descansos |
+| 27 | ![Cover](https://i.discogs.com/LVg3fHwxozRmwF-QuBLeKvmk70nPARj_4UyUlmeltPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDQy/NzI3LTE2MzMxNTQ0/ODAtNTEyOC5qcGVn.jpeg) | 2021-10-01 | Kedr Livanskiy | Liminal Soul |
+| 26 | ![Cover](https://i.discogs.com/ncsDvOuP0CJufwYOJAnmh-eNGDG707I2XiQcYqgwr0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDAx/OTExLTE2NTczNjYz/NjEtNDk1My5qcGVn.jpeg) | 2022-02-04 | Yeule | GLITCH PRINCESS |
+| 34 | ![Cover](https://i.discogs.com/YMgsGgl9loktK_NCvkEmvfo9QH2Judrmmhh9FK1t4FY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTg2/MTQ2LTE2NDQzNDgw/MzktMzEwNS5qcGVn.jpeg) | 2022-02-04 | Mitski | Laurel Hell |
 | 40 | ![Cover](https://i.discogs.com/b1xiv1SFP2wuSdFu-9OzdDk4ye-8lsUDXDOx6PJf72M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA3/OTcwLTE2NDk0Mjc5/MzEtOTc5Ni5wbmc.jpeg) | 2022-04-08 | Yung Lean | Stardust |
-| 15 | ![Cover](https://i.discogs.com/pxQPy2hxATL-oB4bc0WTExdMlH7ZuYOkqcKQbVDdKiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTc0/NTg2LTE2MzgyNTgx/NTktMjAzNy5qcGVn.jpeg) | 2022-05-20 | Arca | kick iiii |
-| 11 | ![Cover](https://i.discogs.com/rKICO6ozeNydOjpCSkVgv4i8huWCyR_gQoQVvy2zkfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTc0/NjMyLTE2NTUyMjk3/MDEtODM1OS5qcGVn.jpeg) | 2022-06-17 | Perfume Genius | Ugly Season |
-| 3 |  | 2022-07-24 | Shed Theory | B4TheLurch |
+| 14 | ![Cover](https://i.discogs.com/pxQPy2hxATL-oB4bc0WTExdMlH7ZuYOkqcKQbVDdKiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTc0/NTg2LTE2MzgyNTgx/NTktMjAzNy5qcGVn.jpeg) | 2022-05-20 | Arca | kick iiii |
+| 10 | ![Cover](https://i.discogs.com/rKICO6ozeNydOjpCSkVgv4i8huWCyR_gQoQVvy2zkfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTc0/NjMyLTE2NTUyMjk3/MDEtODM1OS5qcGVn.jpeg) | 2022-06-17 | Perfume Genius | Ugly Season |
+| 2 |  | 2022-07-24 | Shed Theory | B4TheLurch |
 | 19 |  |  | SLAUSON MALONE 1 | EXCELSIOR |
 | 66 | ![Cover](https://i.discogs.com/cwpPdoZT0XpaY_Ta8130W5uAPzRH1aE9HmMhP71uKIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTM3/NC0xMTI1Nzc5MTM4/LmpwZWc.jpeg) | 1975 | Brian Eno | Another Green World (2004 remaster) |
 | 55 | ![Cover](https://i.discogs.com/IkyP5KuAOjNBg78XOHRpwEaBfgqW3e8WDuKjVSypARg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDEw/Ny0xNDQzNjU0NDAy/LTg1NTYuanBlZw.jpeg) | 1986 | This Mortal Coil | It&#39;ll End in Tears (remastered) |
@@ -106,9 +110,9 @@ Last updated: <time datetime="2025-10-26T14:07:36.446Z">Sun Oct 26 2025 16:07:36
 | 90 | ![Cover](https://i.discogs.com/veafsk5KV4F7v5sOrpwF_8mNHTOBOvIy2VE5aN8Ltwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTU5/NTc4LTE2MzEyNjQ2/OTgtODg0Mi5qcGVn.jpeg) | 2021-10-08 | James Blake | Friends That Break Your Heart |
 | 73 | ![Cover](https://i.discogs.com/k5LXHV8CJrONEwcgtIPzAbt4WUzd6vh8dY1yCWd5sPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc3/OTY1LTE2ODUyOTY3/ODktNTE5My5wbmc.jpeg) | 2021-11-19 | You&#39;ll Never Get to Heaven | Wave Your Moonlight Hat for the Snowfall Train |
 | 97 | ![Cover](https://i.discogs.com/2rgWoOqZyiIZ3u3xN0KjOmC6KqrxrzooWcS0XDgc0tQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzkz/MjQyLTE1OTA3OTY3/NDktNzY1MC5qcGVn.jpeg) | 2022-02-01 | JPEGMAFIA | CALL ME MAYBE |
-| 32 | ![Cover](https://i.discogs.com/9C5Y4uv0RLRMt_Fpse-qwHjvovqrBCpweJJUtbL2-_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA2/NDUyLTE2Njc5OTU3/NjEtMjg4Ni5qcGVn.jpeg) | 2022-09-27 | Elusin | Synfuels |
+| 31 | ![Cover](https://i.discogs.com/9C5Y4uv0RLRMt_Fpse-qwHjvovqrBCpweJJUtbL2-_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA2/NDUyLTE2Njc5OTU3/NjEtMjg4Ni5qcGVn.jpeg) | 2022-09-27 | Elusin | Synfuels |
 | 84 | ![Cover](https://i.discogs.com/9C5Y4uv0RLRMt_Fpse-qwHjvovqrBCpweJJUtbL2-_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTA2/NDUyLTE2Njc5OTU3/NjEtMjg4Ni5qcGVn.jpeg) | 2022-09-27 | elusin | Synfuels |
-| 30 | ![Cover](https://i.discogs.com/dHamTeLR_m1J3LNgq4KQ7FasBizvbqZtPeErAXO1dfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIy/MTE3LTE2NzUwMzEz/MTEtMTk3My5qcGVn.jpeg) | 2023-01-27 | Samia | Honey |
+| 29 | ![Cover](https://i.discogs.com/dHamTeLR_m1J3LNgq4KQ7FasBizvbqZtPeErAXO1dfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIy/MTE3LTE2NzUwMzEz/MTEtMTk3My5qcGVn.jpeg) | 2023-01-27 | Samia | Honey |
 | 88 | ![Cover](https://i.discogs.com/TNV95Y7KjZOQ2ME1zdSKD7PgiRCMcUe4YLkya3IDZDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTY5/MzY2LTE2MDg1NTAy/OTYtODc3Mi5qcGVn.jpeg) | 2023-06-01 | Jonatan Leandoer96 | Psychopath Ballads |
 | 50 | ![Cover](https://i.discogs.com/HHB9w_vhJ7plzs9vtFK40wpvqG9sefxD-7Yl-KSMHcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzE1/MTM0LTE2OTgzODA0/MTAtNTU5MC5wbmc.jpeg) | 2023-10-23 | DeVon Hendryx | The Ghost~Pop Tape (Remastered + Original) |
 | 63 | ![Cover](https://i.discogs.com/RMFck2YzuuIY13rmnHvTvnRrxmD9Ba4rjjyibaDenf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTE5/NDQwLTE3MDYzMTE3/NTUtNDU5NC5qcGVn.jpeg) | 2024-01-26 | The Smile | Wall of eyes |
