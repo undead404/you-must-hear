@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-10-28T22:58:04.644Z
+date: 2025-10-28T23:30:43.346Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-28T22:58:04.644Z">Wed Oct 29 2025 00:58:04 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-28T23:30:43.346Z">Wed Oct 29 2025 01:30:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [rappeuse]({{ "tags/rappeuse" | relative_url }}) | <time datetime="2025-10-28T23:30:43.346Z">Wed Oct 29 2025 01:30:43 GMT+0200 (Eastern European Standard Time)</time> |
+| [live set]({{ "tags/live-set" | relative_url }}) | <time datetime="2025-10-28T23:30:32.194Z">Wed Oct 29 2025 01:30:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [tekno]({{ "tags/tekno" | relative_url }}) | <time datetime="2025-10-28T22:58:04.644Z">Wed Oct 29 2025 00:58:04 GMT+0200 (Eastern European Standard Time)</time> |
 | [live show]({{ "tags/live-show" | relative_url }}) | <time datetime="2025-10-28T22:57:52.525Z">Wed Oct 29 2025 00:57:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [instrumental rock]({{ "tags/instrumental-rock" | relative_url }}) | <time datetime="2025-10-28T22:57:39.945Z">Wed Oct 29 2025 00:57:39 GMT+0200 (Eastern European Standard Time)</time> |
@@ -532,7 +534,6 @@ Last updated: <time datetime="2025-10-28T22:58:04.644Z">Wed Oct 29 2025 00:58:04
 | [arena rock]({{ "tags/arena-rock" | relative_url }}) | <time datetime="2025-10-28T04:10:12.204Z">Tue Oct 28 2025 06:10:12 GMT+0200 (Eastern European Standard Time)</time> |
 | [english hip hop]({{ "tags/english-hip-hop" | relative_url }}) | <time datetime="2025-10-28T04:10:01.634Z">Tue Oct 28 2025 06:10:01 GMT+0200 (Eastern European Standard Time)</time> |
 | [progressive electronic]({{ "tags/progressive-electronic" | relative_url }}) | <time datetime="2025-10-28T04:09:35.394Z">Tue Oct 28 2025 06:09:35 GMT+0200 (Eastern European Standard Time)</time> |
-| [rappeuse]({{ "tags/rappeuse" | relative_url }}) | <time datetime="2025-10-28T04:09:30.429Z">Tue Oct 28 2025 06:09:30 GMT+0200 (Eastern European Standard Time)</time> |
 | [texas]({{ "tags/texas" | relative_url }}) | <time datetime="2025-10-28T04:09:14.144Z">Tue Oct 28 2025 06:09:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [electro-industrial]({{ "tags/electro-industrial" | relative_url }}) | <time datetime="2025-10-28T04:09:02.825Z">Tue Oct 28 2025 06:09:02 GMT+0200 (Eastern European Standard Time)</time> |
 | [usbm]({{ "tags/usbm" | relative_url }}) | <time datetime="2025-10-28T04:08:54.411Z">Tue Oct 28 2025 06:08:54 GMT+0200 (Eastern European Standard Time)</time> |
@@ -605,7 +606,6 @@ Last updated: <time datetime="2025-10-28T22:58:04.644Z">Wed Oct 29 2025 00:58:04
 | [indie emo]({{ "tags/indie-emo" | relative_url }}) | <time datetime="2025-10-27T01:58:48.774Z">Mon Oct 27 2025 03:58:48 GMT+0200 (Eastern European Standard Time)</time> |
 | [nintendocore]({{ "tags/nintendocore" | relative_url }}) | <time datetime="2025-10-27T01:54:35.430Z">Mon Oct 27 2025 03:54:35 GMT+0200 (Eastern European Standard Time)</time> |
 | [post-hardcore]({{ "tags/post-hardcore" | relative_url }}) | <time datetime="2025-10-26T23:31:30.919Z">Mon Oct 27 2025 01:31:30 GMT+0200 (Eastern European Standard Time)</time> |
-| [live set]({{ "tags/live-set" | relative_url }}) | <time datetime="2025-10-26T17:40:04.960Z">Sun Oct 26 2025 19:40:04 GMT+0200 (Eastern European Standard Time)</time> |
 | [goth rock]({{ "tags/goth-rock" | relative_url }}) | <time datetime="2025-10-26T17:18:19.074Z">Sun Oct 26 2025 19:18:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [glitch pop]({{ "tags/glitch-pop" | relative_url }}) | <time datetime="2025-10-26T13:09:14.905Z">Sun Oct 26 2025 15:09:14 GMT+0200 (Eastern European Standard Time)</time> |
 | [norwegian]({{ "tags/norwegian" | relative_url }}) | <time datetime="2025-10-26T13:08:33.150Z">Sun Oct 26 2025 15:08:33 GMT+0200 (Eastern European Standard Time)</time> |
