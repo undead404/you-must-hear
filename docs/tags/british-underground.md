@@ -1,67 +1,71 @@
 ---
 category: genre
-date: 2025-10-22T18:55:56.147Z
+date: 2025-10-28T22:37:44.044Z
 permalink: tags/british-underground
 title: british underground
 ---
 
 ## british underground
 
-Last updated: <time datetime="2025-10-22T18:55:56.147Z">Wed Oct 22 2025 21:55:56 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T22:37:44.044Z">Wed Oct 29 2025 00:37:44 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+British underground music refers to a variety of musical genres that originated in the United Kingdom and are not part of the mainstream music industry. These genres are often characterized by their experimental and non-commercial nature, and are typically associated with independent record labels and DIY music scenes. Examples of British underground music genres include punk rock, post-punk, shoegaze, grime, dubstep, and various forms of electronic dance music. The British underground music scene has a rich history and has been influential in shaping many mainstream musical genres around the world.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
-| 1 | ![Cover](https://i.discogs.com/GKggSNO289xPnS7lWCis9Xx9-k6qDyh7Fv3uyN9Bzao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgy/NDUtMTI2MTQzMTQz/Ny5qcGVn.jpeg) | 2009-09-29 | The Family Simpson | The World In Bitesize Chunks #1 |
-| 2 | ![Cover](https://i.discogs.com/GKggSNO289xPnS7lWCis9Xx9-k6qDyh7Fv3uyN9Bzao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgy/NDUtMTI2MTQzMTQz/Ny5qcGVn.jpeg) | 2009-09-29 | The Family Simpson | Citizen Awake |
-| 3 |  |  | the hirundu | Sparkly Jugs |
+| 10 | ![Cover](https://i.discogs.com/CxSWsdfvOaRRbsRx4n_TlVE_462NE9CtKipzIt0QocU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzcw/MDAtMTI0OTU1MjMy/MC5qcGVn.jpeg) | 2009-08-06 | SuperD&#39;Orch | [at024] SuperD&#39;Orch |
+| 2 | ![Cover](https://i.discogs.com/GKggSNO289xPnS7lWCis9Xx9-k6qDyh7Fv3uyN9Bzao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgy/NDUtMTI2MTQzMTQz/Ny5qcGVn.jpeg) | 2009-09-29 | The Family Simpson | The World In Bitesize Chunks #1 |
+| 3 | ![Cover](https://i.discogs.com/GKggSNO289xPnS7lWCis9Xx9-k6qDyh7Fv3uyN9Bzao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTgy/NDUtMTI2MTQzMTQz/Ny5qcGVn.jpeg) | 2009-09-29 | The Family Simpson | Citizen Awake |
+| 1 | ![Cover](https://i.discogs.com/Gs5G9DIyVS4Z02wKzxvrmx5R2on4JvbHccw7E9prvCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODcw/NTgtMTI1NjkwNDAw/NC5qcGVn.jpeg) | 2009-10-20 | Gnomefoam | Retina Fanfare! |
 | 4 |  |  | Indigowave | Sidewalk |
-| 17 | ![Cover](https://i.discogs.com/DXjTJXa3nGU1jjDpiIJnO3OGJw4RLd_Lm_VTOC75-jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTY1/NTktMTIzNzU3ODM1/My5qcGVn.jpeg) | 2008 | Ashtray Navigations | Who&#39;s Been Rocking My Dreamboat? |
 | 5 | ![Cover](https://i.discogs.com/s3_txnBgapfZQwAYzXcOPYyhnaFreVZy0xaFdwT4ySs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTM3/MzAtMTQxMjQyNjQx/Mi00MjY3LmpwZWc.jpeg) | 2013-11-26 | DTT | Seeing sound through a kaleidoscope and listening to the world from the other side |
 | 6 |  |  | the hirundu | Honved |
 | 7 |  |  | the hirundu | Krap and Unreleased |
-| 8 |  |  | the hirundu | Shimmy |
-| 9 | ![Cover](https://i.discogs.com/CxSWsdfvOaRRbsRx4n_TlVE_462NE9CtKipzIt0QocU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzcw/MDAtMTI0OTU1MjMy/MC5qcGVn.jpeg) | 2009-08-06 | SuperD&#39;Orch | [at024] SuperD&#39;Orch |
-| 10 |  |  | Fragile Battleship | Staring Out My WIndow |
-| 11 |  |  | Speculativism | Glitchy Bricolage |
-| 13 |  |  | Greg Bird &amp; Flamingo Flame | Statuette &#x2F; Fire &amp; Horses |
-| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/86c68faed9714a7499fb2bfc045af11c.png) |  | the hirundu | Uneasy Listening |
-| 15 | ![Cover](https://i.discogs.com/BSIL6X0z9vdcWpJWo8uixMlIgMy3rejTXwk5C4I1O5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjY1/My0xMTE0MDcwMjI2/LmpwZw.jpeg) | 1998-09-07 | Mojave 3 | 1995-12-11 - BX1 |
-| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ef831e6704584255a79f9e5580ff3cfc.png) |  | the hirundu | Pickup |
-| 19 |  |  | Fragile Battleship | Maybe One Day We Can Live Together As Tiny Figurines In A Beautiful Wooden Dolls&#39; House |
-| 20 |  |  | the hirundu | It&#39;s Reefer Time Kids |
+| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/af231ceb4a8e48c6a847dfdb33760ad6.png) |  | the hirundu | Sparkly Jugs |
+| 9 |  |  | the hirundu | Shimmy |
+| 11 |  |  | Fragile Battleship | Staring Out My WIndow |
+| 12 |  |  | Speculativism | Glitchy Bricolage |
+| 14 |  |  | Greg Bird &amp; Flamingo Flame | Statuette &#x2F; Fire &amp; Horses |
+| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/86c68faed9714a7499fb2bfc045af11c.png) |  | the hirundu | Uneasy Listening |
+| 16 | ![Cover](https://i.discogs.com/BSIL6X0z9vdcWpJWo8uixMlIgMy3rejTXwk5C4I1O5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjY1/My0xMTE0MDcwMjI2/LmpwZw.jpeg) | 1998-09-07 | Mojave 3 | 1995-12-11 - BX1 |
+| 19 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ef831e6704584255a79f9e5580ff3cfc.png) |  | the hirundu | Pickup |
+| 20 |  |  | Fragile Battleship | Maybe One Day We Can Live Together As Tiny Figurines In A Beautiful Wooden Dolls&#39; House |
+| 23 |  |  | the hirundu | Hypnodisq |
 | 37 |  |  | the home stretch | The Home Stretch |
 | 39 |  |  | the hirundu | Weird |
-| 47 |  |  | the hirundu | The Johnny Onions Story |
 | 41 | ![Cover](https://i.discogs.com/G6NeJuJJVKy6rN8OhJ6xm7BOuli0WdwugNBUj0O4t4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTIz/ODctMTI5NzY0MDIw/My5qcGVn.jpeg) | 1985 | Flow My Tears, The Policeman Said | Mercerism |
 | 33 | ![Cover](https://i.discogs.com/yYDvAJyGQD1xn-TQukK1PZFmla05HFoCGjDlBQgddhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODg4/MTQtMTIzNzA1MTY4/Ny5qcGVn.jpeg) | 2003 | Clinker | Hairy Cornflake |
 | 25 |  | 2004-09-02 | the hirundu | Pound For Pound (I&#39;m The Best Around) |
+| 26 |  |  | Oli Mayne, James O’Sullivan, Noel Taylor | ca239 - Oli Mayne, James O’Sullivan, Noel Taylor - Thistledown |
 | 46 | ![Cover](https://i.discogs.com/-ACi1lNHzGVELf-R83IuTnKpbCL2bWP50_430gEv6aM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk0/OTQ4LTE1OTI0ODQ0/NzItMjEzMS5qcGVn.jpeg) | 2006 | Ashtray Navigations | Deadicated to the Sensory Armada |
+| 18 | ![Cover](https://i.discogs.com/DXjTJXa3nGU1jjDpiIJnO3OGJw4RLd_Lm_VTOC75-jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTY1/NTktMTIzNzU3ODM1/My5qcGVn.jpeg) | 2008 | Ashtray Navigations | Who&#39;s Been Rocking My Dreamboat? |
 | 44 | ![Cover](https://i.discogs.com/supUjmbYi7lLfk5j43fcyVNIO4aR_jprWjKEKQyIut0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzYw/LTEyMjcyMTU4MTgu/anBlZw.jpeg) | 2008-01-15 | Mark Hawkins | Doomsday Clock |
 | 28 | ![Cover](https://i.discogs.com/AGZidxF3QbPJXuQv_AAMWFshKni99hlDOUh_ckgZOig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDk3/MjUtMTM3NjIxODE0/MC0yNzgxLmpwZWc.jpeg) | 2008-04-01 | Almiqui | Mozambique via Angola |
 | 27 | ![Cover](https://i.discogs.com/Gs5G9DIyVS4Z02wKzxvrmx5R2on4JvbHccw7E9prvCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODcw/NTgtMTI1NjkwNDAw/NC5qcGVn.jpeg) | 2008-04-08 | Gnomefoam | Frozen freedom |
-| 35 | ![Cover](https://i.discogs.com/WscYwB2LbnKW8Pzkm7yqd3s-SLqAQDguJChcnZ4Vz2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzU5/MjgtMTIzMzY0NjA3/Ny5qcGVn.jpeg) | 2009-02-03 | The Rick Jensen Quartet | ca214 - The Rick Jensen Quartet - The Alarmist |
-| 42 | ![Cover](https://i.discogs.com/rExCxb0B692zbZwoi4nt-vL2QYrr1QW6zhWSYnvW4xQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTQw/NTItMTIzNDc4NTMy/Ni5qcGVn.jpeg) | 2009-02-14 | Pirtek | Illegal Experiment |
-| 49 | ![Cover](https://i.discogs.com/bFFyym0nTzTG2cwHCOAi0BNDYnwofT2eZw7M9C55wvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODUz/ODctMTI2MzE0NTU0/MS5qcGVn.jpeg) | 2010-01-10 | Paradigm | Girders Under A Steel Sky |
-| 50 | ![Cover](https://i.discogs.com/lk3xDHonduHKuGE26PHaEnvIR6ojXLF1JQW3VprvEeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODI5/ODktMTM3NTM3MDk0/Ny00NzgxLmpwZWc.jpeg) | 2010-04-23 | Frozen Geese | The Starseed |
-| 21 | ![Cover](https://i.discogs.com/XPIaDa-sgoXx4J411Y_ONUcC8fB1pu_33DD8ZIsPRbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzE1/MDAtMTI5MTA0MTI4/Mi5qcGVn.jpeg) | 2010-11-10 | Clutter | On Ha\&#39;Penny Bridge |
-| 22 | ![Cover](https://i.discogs.com/HjzXCcgim7KVAxn1Ex-F6zRp8dQbTsYzYZg9UKFdy9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjgy/NDEtMTQzNDM1MDc4/OC00NTAwLmpwZWc.jpeg) | 2012-10-08 | Hanetration | Nae Troth EP |
-| 23 |  |  | the hirundu | Hypnodisq |
 | 24 | ![Cover](https://i.discogs.com/Ho-abCNAy3u4lA7Fg7RSeJjl7TheiidFvW-Q0oArohE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDE1/MDktMTIxNjU2NDIz/MC5qcGVn.jpeg) | 2008-06-07 | Kamikaze Deadboy | Kill Your Timid Notion |
 | 36 | ![Cover](https://i.discogs.com/uDPgOFaTDkJytPJuEpHvqfAScBdsRpUED-uAbBk6-tE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQz/NDEtMTIzMTYwNzE1/MS5qcGVn.jpeg) | 2009-01-10 | Merz | Daytrotter Session - 1&#x2F;10&#x2F;2009 |
+| 35 | ![Cover](https://i.discogs.com/WscYwB2LbnKW8Pzkm7yqd3s-SLqAQDguJChcnZ4Vz2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzU5/MjgtMTIzMzY0NjA3/Ny5qcGVn.jpeg) | 2009-02-03 | The Rick Jensen Quartet | ca214 - The Rick Jensen Quartet - The Alarmist |
+| 42 | ![Cover](https://i.discogs.com/rExCxb0B692zbZwoi4nt-vL2QYrr1QW6zhWSYnvW4xQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTQw/NTItMTIzNDc4NTMy/Ni5qcGVn.jpeg) | 2009-02-14 | Pirtek | Illegal Experiment |
+| 21 | ![Cover](https://i.discogs.com/XPIaDa-sgoXx4J411Y_ONUcC8fB1pu_33DD8ZIsPRbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzE1/MDAtMTI5MTA0MTI4/Mi5qcGVn.jpeg) | 2010-11-10 | Clutter | On Ha\&#39;Penny Bridge |
 | 29 | ![Cover](https://i.discogs.com/Ftf4jM_jMIReVwsbj8o0eF7awzyHA9JrRGl7Bxgn_VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjU5/MjEtMTMwMDA0ODQ4/OS5qcGVn.jpeg) | 2011-03-09 | Taiga Blues | The Butterfly Kiss EP |
-| 12 |  | 2013 | Keshco | freaks at a wake |
-| 16 | ![Cover](https://i.discogs.com/arrJAlB627mB-3rbo65Ko_mBchcs7H74J7e95WeezmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzY3/MDYxLTE1MjIwMTUw/NzktNDc3OS5qcGVn.jpeg) | 2013-12-10 | Azoora | Instrumentals Vol 2 - Sept petites étapes |
-| 26 |  |  | Oli Mayne, James O’Sullivan, Noel Taylor | ca239 - Oli Mayne, James O’Sullivan, Noel Taylor - Thistledown |
-| 38 |  |  | The Shalfonts | Mjuk Nation |
-| 43 | ![Cover](https://i.discogs.com/3Y7SJ-FlbxEC3tdpS-H8TJF_CDJ_F4c24IfdL_i30us/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTU3/MDQtMTQyNzIxMzQ4/OC00NzIwLnBuZw.jpeg) | 2014-09-08 | Plusplus | Psycho |
-| 45 |  |  | the hirundu | We Are The Machines EP |
-| 32 | ![Cover](https://i.discogs.com/hiu5JG8vJn6AgzoYyVKmNZj2HJzlpelIUyjXkQdxSCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODcy/NTQ0LTE1OTkzNDM0/NDctMTc3MC5qcGVn.jpeg) | 2018 | The Wordsmiths | Floral Riot EP |
-| 30 | ![Cover](https://i.discogs.com/K_KVqGqvl4c6oAqjJX2D5RU4Tw6POs-AsdgvBrTQV5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjI1/MjUxLTE2MDA5NzE3/NjktMzM2Mi5qcGVn.jpeg) | 2018-10-26 | LeeM | 404 Error |
+| 22 | ![Cover](https://i.discogs.com/HjzXCcgim7KVAxn1Ex-F6zRp8dQbTsYzYZg9UKFdy9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjgy/NDEtMTQzNDM1MDc4/OC00NTAwLmpwZWc.jpeg) | 2012-10-08 | Hanetration | Nae Troth EP |
 | 31 |  |  | the hirundu | Conquer &amp; Destroy |
 | 34 |  |  | Golf Harris | misanthropy for beginners |
+| 38 |  |  | The Shalfonts | Mjuk Nation |
+| 49 | ![Cover](https://i.discogs.com/bFFyym0nTzTG2cwHCOAi0BNDYnwofT2eZw7M9C55wvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODUz/ODctMTI2MzE0NTU0/MS5qcGVn.jpeg) | 2010-01-10 | Paradigm | Girders Under A Steel Sky |
+| 50 | ![Cover](https://i.discogs.com/lk3xDHonduHKuGE26PHaEnvIR6ojXLF1JQW3VprvEeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODI5/ODktMTM3NTM3MDk0/Ny00NzgxLmpwZWc.jpeg) | 2010-04-23 | Frozen Geese | The Starseed |
+| 13 |  | 2013 | Keshco | freaks at a wake |
+| 17 | ![Cover](https://i.discogs.com/arrJAlB627mB-3rbo65Ko_mBchcs7H74J7e95WeezmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzY3/MDYxLTE1MjIwMTUw/NzktNDc3OS5qcGVn.jpeg) | 2013-12-10 | Azoora | Instrumentals Vol 2 - Sept petites étapes |
 | 40 |  |  | Oh No Nuno! | Dusty Gentle Insides E.P. |
+| 43 | ![Cover](https://i.discogs.com/3Y7SJ-FlbxEC3tdpS-H8TJF_CDJ_F4c24IfdL_i30us/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTU3/MDQtMTQyNzIxMzQ4/OC00NzIwLnBuZw.jpeg) | 2014-09-08 | Plusplus | Psycho |
+| 45 |  |  | the hirundu | We Are The Machines EP |
+| 47 |  |  | the hirundu | The Johnny Onions Story |
+| 32 | ![Cover](https://i.discogs.com/hiu5JG8vJn6AgzoYyVKmNZj2HJzlpelIUyjXkQdxSCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODcy/NTQ0LTE1OTkzNDM0/NDctMTc3MC5qcGVn.jpeg) | 2018 | The Wordsmiths | Floral Riot EP |
+| 30 | ![Cover](https://i.discogs.com/K_KVqGqvl4c6oAqjJX2D5RU4Tw6POs-AsdgvBrTQV5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjI1/MjUxLTE2MDA5NzE3/NjktMzM2Mi5qcGVn.jpeg) | 2018-10-26 | LeeM | 404 Error |
 | 48 |  |  | the hirundu | Think Bike |
 | 99 | ![Cover](https://i.discogs.com/vBzC0zK-t8ulU7Fm4LFOKwkpvzrSbIf5PQEcZ4l45B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzE1/NS0xMTg0ODMzNTA1/LmpwZWc.jpeg) | 1987-05 | Momus | The Poison Boyfriend |
 | 65 | ![Cover](https://i.discogs.com/slDsrIiyUZo5A9uUb8t7rYabnIlADk8tVWO8nHHz6Jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTE0/Mi0xNDQ0OTMxNTky/LTU3MTAuanBlZw.jpeg) | 1996 | This Heat | Made Available (Peel Sessions) |

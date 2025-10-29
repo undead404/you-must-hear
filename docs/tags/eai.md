@@ -1,62 +1,66 @@
 ---
 category: genre
-date: 2025-10-22T16:49:07.862Z
+date: 2025-10-28T22:36:06.237Z
 permalink: tags/eai
 title: eai
 ---
 
 ## eai
 
-Last updated: <time datetime="2025-10-22T16:49:07.862Z">Wed Oct 22 2025 19:49:07 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-28T22:36:06.237Z">Wed Oct 29 2025 00:36:06 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+EAI, or Electroacoustic Improvisation, is a somewhat loosely defined style of free improvisation. It is often characterized by slow-moving, minimalist textures, often based on extended droning sounds. The genre is known for its physical, textured aesthetic, often created using unconventional instruments processed through a computer. This unique approach to sound creation results in a rich and immersive listening experience.
 
 ### 100 chronological releases
 
 | Place | Cover | Date | Artist | Album |
 |---|---|---|---|---|
+| 1 |  |  | modula t. worm | colder |
+| 2 |  |  | Poverty Electronics | Poverty Electronics Vol. 4 |
 | 45 | ![Cover](https://i.discogs.com/iREIogluJaH7Cos5NSfJ3pPxneW7SGbApdCCj44Wq0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODc1/OC0xMzMwOTU4NjI5/LmpwZWc.jpeg) | 1999 | nmperign | 2nd |
-| 2 |  | 2003 | Piotrowicz, Stangl, Zaradny | Can&#39;t Illumination |
-| 9 | ![Cover](https://i.discogs.com/GHE15iIRvO8k1YpNDPCaJu2WKLdrur7Ad7yjHX2-CuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDI4/MC0xMTI2OTYxNDY3/LmpwZWc.jpeg) | 2003 | Piotrowicz&#x2F;Stangl&#x2F;Zaradny | Can&#39;t Illumination |
+| 4 |  | 2003 | Piotrowicz, Stangl, Zaradny | Can&#39;t Illumination |
+| 11 | ![Cover](https://i.discogs.com/GHE15iIRvO8k1YpNDPCaJu2WKLdrur7Ad7yjHX2-CuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDI4/MC0xMTI2OTYxNDY3/LmpwZWc.jpeg) | 2003 | Piotrowicz&#x2F;Stangl&#x2F;Zaradny | Can&#39;t Illumination |
 | 46 | ![Cover](https://i.discogs.com/0zYl0u0FxPF2gNl_xmYg4Atl7Q4vY3SJB4jfB7Lv53g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ2/NzEtMTIwODA4MDI1/MS5qcGVn.jpeg) | 2007 | Christian Munthe | w. Roger Turner: OCHE |
 | 48 | ![Cover](https://i.discogs.com/yrtdpmCRiZDU8ni920VZOyW5Xkp9cV1R6woQzh4HyRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjc1/MDQtMTIyMDE5NTE3/NS5qcGVn.jpeg) | 2007 | Christian Munthe | w. Martin Öhman: The Sum of Any Number of Zeros |
-| 18 | ![Cover](https://i.discogs.com/eQIjsWdJrYaohN_K4qqsznd3GV0fwHnclozCXcw1Csg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM3/MzMtMTIxOTM1MTYx/NC5qcGVn.jpeg) | 2008 | Christian Munthe | w. Anders Dahl: Several Kinds of Ground |
+| 19 | ![Cover](https://i.discogs.com/eQIjsWdJrYaohN_K4qqsznd3GV0fwHnclozCXcw1Csg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM3/MzMtMTIxOTM1MTYx/NC5qcGVn.jpeg) | 2008 | Christian Munthe | w. Anders Dahl: Several Kinds of Ground |
 | 36 | ![Cover](https://i.discogs.com/0M2rSnd1L3ldboRatgf6X8Ahx11qojXe_5OSPu3kA8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjYw/NzYtMTIxODc5NzI3/NC5qcGVn.jpeg) | 2008 | Christian Munthe | Two Slices of Acoustic Car: Lennart |
 | 49 | ![Cover](https://i.discogs.com/0M2rSnd1L3ldboRatgf6X8Ahx11qojXe_5OSPu3kA8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjYw/NzYtMTIxODc5NzI3/NC5qcGVn.jpeg) | 2008 | Christian Munthe | The Backside Suite |
 | 40 | ![Cover](https://i.discogs.com/AKOMDey3HlTYVs03AIPw1eIG13fLmzjkYOnHQ457x0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ5/ODMtMTI3MjAyODIx/Ni5qcGVn.jpeg) | 2010 | Christian Munthe | Blowing the Wind: 11 Etudes for the Archtop Acoustic Guitar |
-| 14 | ![Cover](https://i.discogs.com/dmUFZc5zF9ppPlqnPmGetu29v6Mw-z9MGP-sou_Jq_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzc3/NTAtMTMzMDM4Mjkz/Ny5qcGVn.jpeg) | 2012-02-27 | David Sylvian | A Victim Of Stars 1982-2012 disc 2 |
-| 25 | ![Cover](https://i.discogs.com/dmUFZc5zF9ppPlqnPmGetu29v6Mw-z9MGP-sou_Jq_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzc3/NTAtMTMzMDM4Mjkz/Ny5qcGVn.jpeg) | 2012-02-27 | David Sylvian | A Victim Of Stars 1982-2012 disc 1 |
 | 31 | ![Cover](https://i.discogs.com/vBxN9olu0MFVBvjTp4E_kuakcqhwStl145SVopLGtW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDg2/MDk5LTE2MjYyNDQy/NzgtNjc2OC5qcGVn.jpeg) | 2013 | Bull of Heaven | Non omnis moriar |
 | 44 | ![Cover](https://i.discogs.com/1PBjUWlMlOddlVL2msf9DJxoLXp4mtaubGCTsxDVG88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzg3/OTUtMTM5MTkxMjcw/MS01ODI3LmpwZWc.jpeg) | 2014-02-07 | Marcus Rubio | music for microphones |
-| 17 | ![Cover](https://i.discogs.com/ZcgOBhV5Po7UBqeTbyMU-pYo6jRtVl3dPw6f-4lmwHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Nzc5/NjEtMTM5NzA1NjM5/Ny02ODgzLmpwZWc.jpeg) | 2014-04-09 | Marcus Rubio | um |
+| 18 | ![Cover](https://i.discogs.com/ZcgOBhV5Po7UBqeTbyMU-pYo6jRtVl3dPw6f-4lmwHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Nzc5/NjEtMTM5NzA1NjM5/Ny02ODgzLmpwZWc.jpeg) | 2014-04-09 | Marcus Rubio | um |
 | 43 | ![Cover](https://i.discogs.com/xviNwNB-D1peIF1-6OyfnBHSXSBZpSLJMUXsGysgAHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODEz/OTAtMTQ2NDQ3Mjgw/MC04ODUwLmpwZWc.jpeg) | 2016-02-20 | tRaLpHaZ | California |
-| 12 | ![Cover](https://i.discogs.com/ilTlOT8sVmirzqCxYwT5Hk-Uxv8AdaMQ07Z-56ps1Sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE4/NDUyLTE1NTM4MjYw/NDQtOTg3OS5qcGVn.jpeg) | 2018 | Toshimaru Nakamura, Ken Ikeda, Tomoyoshi Date | Ink on Paper |
+| 14 | ![Cover](https://i.discogs.com/ilTlOT8sVmirzqCxYwT5Hk-Uxv8AdaMQ07Z-56ps1Sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE4/NDUyLTE1NTM4MjYw/NDQtOTg3OS5qcGVn.jpeg) | 2018 | Toshimaru Nakamura, Ken Ikeda, Tomoyoshi Date | Ink on Paper |
 | 28 | ![Cover](https://i.discogs.com/rltxYcFQbUdl4xuKijmaT4W6nma_S46ywm9AclJMAnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM2/NjYwLTE1MjMyMDY1/MjItNTg4NS5wbmc.jpeg) | 2018-04-08 | Christian Munthe | SOUNDS: Contemporary Free Improvised Music in Sweden |
-| 8 | ![Cover](https://i.discogs.com/kBgGjHhtvELZLL06wxUlBHc4cgrjtQMcWBM83LymtTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQ0/MjMzLTE1NDg4NDM3/NTgtODE3Ni5qcGVn.jpeg) | 2019-01-30 | Yrii Samoilove | Pearlcorder |
+| 10 | ![Cover](https://i.discogs.com/kBgGjHhtvELZLL06wxUlBHc4cgrjtQMcWBM83LymtTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQ0/MjMzLTE1NDg4NDM3/NTgtODE3Ni5qcGVn.jpeg) | 2019-01-30 | Yrii Samoilove | Pearlcorder |
 | 16 | ![Cover](https://i.discogs.com/unhK34BPobrPXsYeToRc-0Rf4zWp-_yLaF4WXk8HHmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjM4/MDE5LTE1NTA4MzYy/MDQtNzc1Mi5qcGVn.jpeg) | 2019-02-18 | Gun Shop | Kōkla |
-| 6 | ![Cover](https://i.discogs.com/kh4CCsUmE9ZylTAZMPBYpqFrO5NC0Fdx2_wAfemxHl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA2/NzI1LTE2MTgzODkx/MDAtMTcxOS5qcGVn.jpeg) | 2019-03-05 | Yrii Samoilove | First Visit |
-| 7 | ![Cover](https://i.discogs.com/Jvez-a72C9F7QkglYHcXNfWiDRmXMmBktAhA3KETU9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQy/MjU4LTE1NTYxOTY5/ODgtNDk2My5qcGVn.jpeg) | 2019-04-25 | Yrii Samoilove | Bird With Transparent Head |
+| 7 | ![Cover](https://i.discogs.com/kh4CCsUmE9ZylTAZMPBYpqFrO5NC0Fdx2_wAfemxHl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA2/NzI1LTE2MTgzODkx/MDAtMTcxOS5qcGVn.jpeg) | 2019-03-05 | Yrii Samoilove | First Visit |
+| 9 | ![Cover](https://i.discogs.com/Jvez-a72C9F7QkglYHcXNfWiDRmXMmBktAhA3KETU9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQy/MjU4LTE1NTYxOTY5/ODgtNDk2My5qcGVn.jpeg) | 2019-04-25 | Yrii Samoilove | Bird With Transparent Head |
 | 33 | ![Cover](https://i.discogs.com/YULg-ReA0YKOg7jsirFS0iHQxcZuyMd9cQzF_2glwkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjY4/Mzk4LTE2MjQ2MDk3/ODAtMzIwMC5qcGVn.jpeg) | 2019-05-19 | Alfons Frankenstein | SPLIT! |
 | 21 | ![Cover](https://i.discogs.com/bmLQ0qZLAidD_0ANOF3EQ_xUTgUphaHnlMHl8P8Rl50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTAy/ODUzLTE1Njc4ODg5/MzAtNzQzMi5qcGVn.jpeg) | 2019-09-07 | Mind-blowing Kitten Slava | Songs For Cat Food Commercials |
-| 1 | ![Cover](https://i.discogs.com/AVBaBtyLVhGW6oUaCSPAEeJ7_78E9i_4mEPK7hZkiZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE0/OTg0LTE1OTUwOTAz/NjktOTg1OC5qcGVn.jpeg) | 2019-10-18 | Ilia Belorukov, Vasco Trilla | Laniakea |
+| 3 | ![Cover](https://i.discogs.com/AVBaBtyLVhGW6oUaCSPAEeJ7_78E9i_4mEPK7hZkiZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE0/OTg0LTE1OTUwOTAz/NjktOTg1OC5qcGVn.jpeg) | 2019-10-18 | Ilia Belorukov, Vasco Trilla | Laniakea |
 | 34 | ![Cover](https://i.discogs.com/n0zmVCzJbZ7I28FzPW_utUFt0Ez2rX3V8vWhsm35rJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYz/MTg4LTE1NzkxNjcz/ODUtNzU0NS5qcGVn.jpeg) | 2020-01-16 | Optical Slime | Virtual Swamp |
-| 23 | ![Cover](https://i.discogs.com/E3907Zxp3iKYx4ug3bUGBVzNRKn2KBs1a5lq0i-GvdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjI1/NjUxLTE2NDUzMDI0/MDEtNzI2MS5qcGVn.jpeg) | 2020-03-14 | Bhob Rainey | Arena Ladridos |
+| 24 | ![Cover](https://i.discogs.com/E3907Zxp3iKYx4ug3bUGBVzNRKn2KBs1a5lq0i-GvdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjI1/NjUxLTE2NDUzMDI0/MDEtNzI2MS5qcGVn.jpeg) | 2020-03-14 | Bhob Rainey | Arena Ladridos |
 | 29 | ![Cover](https://i.discogs.com/2_aZw2IiyR2O380VWjar9Jj4QxJhLUd98h3zQadaqJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg3/OTA4LTE1OTQxMTI1/NjMtMzgzOC5qcGVn.jpeg) | 2020-07-07 | Metalhead From Zanzibaria | Some Punk Songs |
-| 4 | ![Cover](https://i.discogs.com/fVyfBqX9kwmung3e_epR8vh5R-dNGF3xILKUliB6BAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI5/NTI5LTE1OTY3MTc5/NjItNTE2Mi5qcGVn.jpeg) | 2020-08-06 | Aysa Thornhill | Ego Death |
+| 6 | ![Cover](https://i.discogs.com/fVyfBqX9kwmung3e_epR8vh5R-dNGF3xILKUliB6BAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI5/NTI5LTE1OTY3MTc5/NjItNTE2Mi5qcGVn.jpeg) | 2020-08-06 | Aysa Thornhill | Ego Death |
 | 27 | ![Cover](https://i.discogs.com/taEQZreKbScm0exVZu9KIA70p-dlgnMYxYE72OOtUkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzE4/Njk0LTE2MTg1NjM4/NDYtMzUyMy5qcGVn.jpeg) | 2021-04-16 | Optical Slime | How to Make Slime That Lasts Forever |
 | 38 | ![Cover](https://i.discogs.com/c176-Mx0_F1OQufFIEQ2zrOPDOk7C4QsUfwSIdTZ8zE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjIy/ODczLTE2MjAzNzIz/OTMtODQ0Mi5qcGVn.jpeg) | 2021-05-07 | Gun Shop | Mudlizard&#39;s Midnight Express Trio |
 | 26 | ![Cover](https://i.discogs.com/bRd1BvMVsm2E5Ba7Z5xch9rtK3Mv7YdpLXCCAI8WQl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODQ0/NjgxLTE2MjE3NjAw/NzAtMzU1MC5qcGVn.jpeg) | 2021-05-23 | Yrii Samoilove | Skeleton Pool Area |
-| 19 | ![Cover](https://i.discogs.com/510a1mF1uUhRXrWElgv9209dnzqtZjn6YCBkTZIDjxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTIw/MTc5LTE2MzA4Mjk4/NzYtNTYyMS5qcGVn.jpeg) | 2021-09-05 | ypalvmyky | GNATHUS |
+| 22 | ![Cover](https://i.discogs.com/510a1mF1uUhRXrWElgv9209dnzqtZjn6YCBkTZIDjxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTIw/MTc5LTE2MzA4Mjk4/NzYtNTYyMS5qcGVn.jpeg) | 2021-09-05 | ypalvmyky | GNATHUS |
 | 32 | ![Cover](https://i.discogs.com/lXXzi4dSLyudqAHOX5TaDcEyAOz_U-wQAZrmb1Xxp7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkx/Mjc5LTE2MzEzNDY2/MDMtMTczOC5qcGVn.jpeg) | 2021-09-11 | Mind-blowing Kitten Slava | Who&#39;s Afraid of Kitten Slava (After The Acid Rain) |
 | 20 | ![Cover](https://i.discogs.com/SO6j3m0SH1sIYrQSELYRUnKsn3SEpAsBrhzHh4LIrIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTAx/ODI0LTE2MzM1OTYz/ODEtMzQ3Ny5qcGVn.jpeg) | 2021-10-07 | Yrii Samoilove | Third Visit |
 | 30 | ![Cover](https://i.discogs.com/VMcH0keEYkKUE2Q14GZm-p1fMvjSlUTp5MqsXaleOOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzM0/MjY0LTE2MzUyMzQw/MDUtNzU1NS5qcGVn.jpeg) | 2021-10-26 | ypalvmyky | Логика Империи: 2009 - 2021 |
-| 10 | ![Cover](https://i.discogs.com/PB4O5f4gNhp6XWAWvjs9t2xb6946VrKX-EVfbRugsBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI3/MjQ2LTE2Mzc5MjY0/MzAtMjEwOS5qcGVn.jpeg) | 2021-11-26 | Moth Version | All Future Humiliations |
-| 5 | ![Cover](https://i.discogs.com/6OD10P2boPzy5GRlByWkB1V_-UYoT4yQ0pO2NVZS5C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzE4/MzYwLTE2NDIwNzE5/NTctNTA3OS5qcGVn.jpeg) | 2022-01-13 | Optical Slime | The Smaragdine Tablet From Maila Nurmi&#39;s Safe |
-| 15 | ![Cover](https://i.discogs.com/UPsdpMO4Fo1_rmgd5W33PPiKPavpoZNMrXJ9wJ9tiYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQ3/NzQ1LTE2NDg5ODgx/ODgtODQ5Ny5qcGVn.jpeg) | 2022-04-03 | Gun Shop | Space Between Our Teeth |
-| 3 | ![Cover](https://i.discogs.com/tSlVC5wB_U5CAbtVr00xyi-dWGy4EwKCKrLxCAorjgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDYy/ODc2LTE2NzYxMDc2/NzctNDY2NC5qcGVn.jpeg) | 2023-02-11 | Yrii Samoilove | Crawl Alone - To Brilliant Ideas |
-| 11 |  |  | Sunnesther | Miata |
-| 13 | ![Cover](https://i.discogs.com/OsNT7Ta9iSTp2EFY-MwBK5ShbETqJP2CGo2yb0YwQTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTg4/NzgxLTE2NDc4NTMz/ODgtNjcxMS5qcGVn.jpeg) | 2022-03-21 | Barochnyye Astronomy | Рыцари Пурпурного Шалфея |
-| 22 |  |  | Deep Clutter | Demos |
+| 12 | ![Cover](https://i.discogs.com/PB4O5f4gNhp6XWAWvjs9t2xb6946VrKX-EVfbRugsBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTI3/MjQ2LTE2Mzc5MjY0/MzAtMjEwOS5qcGVn.jpeg) | 2021-11-26 | Moth Version | All Future Humiliations |
+| 8 | ![Cover](https://i.discogs.com/6OD10P2boPzy5GRlByWkB1V_-UYoT4yQ0pO2NVZS5C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzE4/MzYwLTE2NDIwNzE5/NTctNTA3OS5qcGVn.jpeg) | 2022-01-13 | Optical Slime | The Smaragdine Tablet From Maila Nurmi&#39;s Safe |
+| 5 | ![Cover](https://i.discogs.com/tSlVC5wB_U5CAbtVr00xyi-dWGy4EwKCKrLxCAorjgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDYy/ODc2LTE2NzYxMDc2/NzctNDY2NC5qcGVn.jpeg) | 2023-02-11 | Yrii Samoilove | Crawl Alone - To Brilliant Ideas |
+| 13 |  |  | Sunnesther | Miata |
+| 15 | ![Cover](https://i.discogs.com/OsNT7Ta9iSTp2EFY-MwBK5ShbETqJP2CGo2yb0YwQTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTg4/NzgxLTE2NDc4NTMz/ODgtNjcxMS5qcGVn.jpeg) | 2022-03-21 | Barochnyye Astronomy | Рыцари Пурпурного Шалфея |
 | 37 | ![Cover](https://i.discogs.com/ZGOYv_e031QaV8d-6Htj_DwynVonG2IVgJhXa2VD2sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjcy/NzkzLTE2NDg0NTc5/MzYtMjM3Mi5qcGVn.jpeg) | 2022-03-28 | Yrii Samoilove | Oracle In Demonic Landscape |
-| 24 | ![Cover](https://i.discogs.com/-5Y734kLnz53OqFgZHsiX1X9OEYcFnIVpt5lSsJYiB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODIw/OTIzLTE2ODE5OTA0/NDQtNzIyOC5qcGVn.jpeg) | 2023-04-20 | Tyrn Tapes | Ten Eel 92 |
+| 17 | ![Cover](https://i.discogs.com/UPsdpMO4Fo1_rmgd5W33PPiKPavpoZNMrXJ9wJ9tiYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQ3/NzQ1LTE2NDg5ODgx/ODgtODQ5Ny5qcGVn.jpeg) | 2022-04-03 | Gun Shop | Space Between Our Teeth |
+| 23 |  |  | Deep Clutter | Demos |
+| 25 | ![Cover](https://i.discogs.com/-5Y734kLnz53OqFgZHsiX1X9OEYcFnIVpt5lSsJYiB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODIw/OTIzLTE2ODE5OTA0/NDQtNzIyOC5qcGVn.jpeg) | 2023-04-20 | Tyrn Tapes | Ten Eel 92 |
 | 35 |  |  | Ognyan Belstoynev | balistichna kriva |
 | 39 |  |  | Nature Circuit | A Threatening Emptiness |
 | 41 | ![Cover](https://i.discogs.com/CFg6KhKibKENrgqc0zwBvNsUiHtS9VGMWSdttInXRSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzgz/MDI1LTE2NTM3Mzgy/NDMtODczMy5qcGVn.jpeg) | 2022-05-28 | Yrii Samoilove | Г​о​т​и​ч​е​с​к​и​е К​о​н​ю​ш​н​и |
