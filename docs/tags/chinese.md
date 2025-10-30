@@ -9,110 +9,1526 @@ title: chinese
 
 Last updated: <time datetime="2025-10-28T09:47:48.075Z">Tue Oct 28 2025 11:47:48 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Chinese music encompasses a diverse range of styles from Mandarin and Cantonese pop to traditional instrumental works, blending modern production with cultural elements. The genre often features pentatonic melodies, distinctive vocal styles, and instrumentation like the erhu alongside contemporary beats. It represents music created primarily in Mandarin Chinese for audiences across mainland China, Taiwan, and the global Chinese diaspora.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 1 |  |  | 王ADEN | 想了妳6次 |
-| 2 |  | 2004-04-27 | 王力宏 | Dream Again |
-| 4 |  |  | 張學友 | Zhen Ai (Xin Qu + Zhen Zheng Jing Xuan) |
-| 8 |  |  | 酸月亮 Sour Moon | We |
-| 10 |  |  | 譚盾 | Hero - Music from the Original Soundtrack |
-| 11 |  |  | 張學友 | Ageless Tale |
-| 13 |  |  | 王力宏 | 改變自己 |
-| 16 |  |  | 周杰倫 | Jay Chou Live Concert |
-| 17 |  |  | 周杰倫 | Huo Yuan Chia |
-| 19 |  |  | 劉德華 | Voice |
-| 28 |  |  | 杨秉音 | 《天官赐福》动画原声带 |
-| 31 |  |  | 鹿晗 | Xplore |
-| 37 |  | 1997-02 | 王菲 | 玩具 |
-| 33 | ![Cover](https://i.discogs.com/rB0_svC2A06FAye_I9eLlTyCWYHhmJXqCc_88_dbUm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTY1/MjE4LTE1NDcxNDQx/MDYtMzk0NC5qcGVn.jpeg) | 1999-09-21 | Jia Peng Fang | Rainbow |
-| 35 |  |  | Meng Jia | Drip |
-| 36 | ![Cover](https://i.discogs.com/ObVBJFAdWnUuZgoHPz4OplMR2z7p9WZgLsID8o46rG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjU1/NjYtMTMxODcyNjA0/Ny5qcGVn.jpeg) | 1999-11-20 | Jia Peng Fang | River |
-| 45 |  |  | 鹿晗 | Xperience |
-| 47 |  |  | The Dinosaur’s Skin | Millions of Years Apart |
-| 49 |  |  | 楊千嬅 | MAKE UP |
-| 22 | ![Cover](https://i.discogs.com/Hl-RaqhBBpCdFx-P6_WkXb7E2sB6r6TB1z1AlUKigZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODc4/NC0xMzEyMzM4MzA4/LmpwZWc.jpeg) | 2000 | Next | NEXT BEGINS |
-| 41 | ![Cover](https://i.discogs.com/rYPDq0J8t4ynHy_E8L30Wb_6VyrO_L0JJ6s0GTw-byI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTUw/MDgtMTQ4MDE2OTE0/OC0yMDAyLmpwZWc.jpeg) | 2001 | Anna Guo | Chinese Traditional Yang-Qin Music |
-| 20 | ![Cover](https://i.discogs.com/HJzwjz13A2kibVUuPXRCs4HR1Mh0C6a-IynpcJAyuEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzAx/NjkxLTE1OTYxOTMx/MzUtMzU0OS5qcGVn.jpeg) | 2004-02-06 | S.H.E | 奇幻旅程 |
-| 24 |  | 2004-10-29 | 孫燕姿 | Stefanie |
-| 44 | ![Cover](https://i.discogs.com/fV0OPBw0CN-6r19p6ot56BjET72T3mj5VNceKl0Ne08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDY0/MjUtMTQ1MjU1MTI4/MC02MDQ5LmpwZWc.jpeg) | 2005-05-10 | Li Xiangting | Sleeping Lotus |
-| 29 | ![Cover](https://i.discogs.com/Hpd9xtdDYg9f7lR49NbO8Qi1-Xh9rYBD6mRwRVwzuck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQw/NTIyLTE2NjQyNDA4/MjctODU0MS5qcGVn.jpeg) | 2005-11-08 | Twelve Girls Band | Romantic Energy |
-| 3 | ![Cover](https://i.discogs.com/mo-4NMSUixf_IX8eRYouFUDV2pNfLBB4vs7i9XZNxR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTEz/NDE5LTE1NDgzMTUz/NTYtMTAwMi5qcGVn.jpeg) | 2006 | Jane Zhang | The One |
-| 25 |  | 2006-02-17 | 林俊傑 | 曹操 |
-| 39 | ![Cover](https://i.discogs.com/yJgRhMRiGRYfQnf6iMAXvRFe_9DZdxzTlbsjRae_37M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTA0/OTYtMTM2MTM5MTg4/Mi01MTY0LmpwZWc.jpeg) | 2007 | Sa Dingding | Alive |
-| 18 |  | 2007-04-14 | 惘闻 | 7 Objects in Another Infinite Space |
-| 32 |  | 2007-12-28 | 方大同 | 未來 |
-| 30 | ![Cover](https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg) | 2009 | Various Artists | Chinese Traditional and Folk Music: Guqin Vol. 5 |
-| 5 |  | 2009-05-22 | 郭靜 | 在樹上唱歌 |
-| 6 |  | 2009-08-11 | 方大同 | Timeless 可啦思刻 |
-| 38 |  | 2010-01-26 | Bei Bei &amp; Shawn Lee | Into The Wind |
-| 15 |  | 2010-05-18 | 周杰伦 | 跨时代 |
-| 26 | ![Cover](https://i.discogs.com/tG7Wb29TbJhi7_E87yLPFt3mB8ui1j0XsSq7320sIV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjMy/ODEtMTI3OTY0MzA4/Mi5qcGVn.jpeg) | 2010-07-07 | Alan | 風に向かう花 |
-| 7 | ![Cover](https://i.discogs.com/Z5ejiMhH6i_sDy3Zh68QDi447mmTAoSoPwwGfhxFivI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODY0/MDYtMTM2NjI3Mjg4/MC01MDg1LmpwZWc.jpeg) | 2011-04-01 | Am444 | Détache toi |
-| 34 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/152a427d949d46f8ef449807235c46e0.png) | 2011-07-13 | 方大同 | 15 |
-| 42 |  | 2013-01-07 | Super Junior M | Break Down |
-| 48 | ![Cover](https://i.discogs.com/OYuE5iBKxUCjHugcGLW9iv5UW5Z1f6KhrNMIexQjFNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzMy/NDQtMTM5OTA1NzQw/NC0zMjQxLmpwZWc.jpeg) | 2013-11-29 | Nine Treasures | Nine Treasures |
-| 50 | ![Cover](https://i.discogs.com/7aLCu0UCmPVQosn7HS3eQraYRQrKv1KwZlef-eC1804/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM4/ODA4LTE2MTQwMTUz/MTctMzE3NS5qcGVn.jpeg) | 2021-02-22 | otay:onii | Ming Ming |
-| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b372bee481584fb35c1d42dd1c10f725.png) | 2023-03-31 | Tzusing | 绿帽 Green Hat |
-| 12 |  |  | 鹿晗 | Venture |
-| 27 |  | 2014-05-07 | EXO-M | 上瘾 (Overdose) |
-| 14 | ![Cover](https://i.discogs.com/mFZn7Ty9bvr7vtPTZ0e9JNLNYmaj9KGxYx04_GoRzrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDY4/NDgtMTMzMzE2OTQ5/Mi5qcGVn.jpeg) | 2024-08-09 | SILVER ASH | Out of Control |
-| 21 |  |  | 张悬 | 张悬 |
-| 23 |  |  | 페이 | Fantasy |
-| 40 |  |  | 陳粒 | 如也 |
-| 43 | ![Cover](https://i.discogs.com/rDQNYQeZgd9lrwSqFRDGm7w69i_3bExZv0NZFs5MKeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDcx/MTUwLTE2MzA0NzA5/MjctOTg1NS5qcGVn.jpeg) | 2021-09-01 | Joel P West | Shang-Chi and the Legend of the Ten Rings (Original Score) |
-| 46 |  |  | 莫文蔚 | Without You |
-| 90 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1977 | Various Artists | The Untamed |
-| 56 |  | 1994-11 | 王菲 | 天空 |
-| 73 | ![Cover](https://i.discogs.com/wlr3yS6hxyq6ficJeCDRVfvukCVO0GX9TVOf9dSMYfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTEz/MTctMTQzNzE5MDE3/MC0xODQyLmpwZWc.jpeg) | 1995 | Lei Qiang | Chinese Traditional Erhu Music 1 |
-| 74 | ![Cover](https://i.discogs.com/MmCgQ1NvwuULUpG0V8OsSbz8ouOvhwlyVdvW9KVhYxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzQ1/NjAtMTMyNjIzMjkz/OC5qcGVn.jpeg) | 1995 | Lei Qiang | Chinese Traditional Erhu Music |
-| 75 | ![Cover](https://i.discogs.com/wlr3yS6hxyq6ficJeCDRVfvukCVO0GX9TVOf9dSMYfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTEz/MTctMTQzNzE5MDE3/MC0xODQyLmpwZWc.jpeg) | 1995 | Lei Qiang | Chinese Traditional Erdhu Music 1 |
-| 76 | ![Cover](https://i.discogs.com/wlr3yS6hxyq6ficJeCDRVfvukCVO0GX9TVOf9dSMYfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTEz/MTctMTQzNzE5MDE3/MC0xODQyLmpwZWc.jpeg) | 1995 | Lei Qiang | Chinese Traditional Erhu Music Vol. 1 |
-| 59 | ![Cover](https://i.discogs.com/7EuWCRMWHVGMGHahMLjwqWVv6sTcNE_xruuModofOWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzQ4/MzctMTIzOTk3Mzgy/NC5qcGVn.jpeg) | 1997-06-27 | Liu Fang | Chinese Tradtional Pipa Music |
-| 88 | ![Cover](https://i.discogs.com/u6T7JslFuLj5tMEBHOoKpECzCntB4MHD4NhSd_kK_Ks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzU2/NTctMTQ1MTk3Njc1/MS01NDI2LmpwZWc.jpeg) | 1998 | Jun | 乌鸦 |
-| 97 | ![Cover](https://i.discogs.com/u6T7JslFuLj5tMEBHOoKpECzCntB4MHD4NhSd_kK_Ks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzU2/NTctMTQ1MTk3Njc1/MS01NDI2LmpwZWc.jpeg) | 1998 | Jun | 寂寞号登机口 |
-| 86 |  | 1999-02-08 | 王菲 | Eyes on Me |
-| 72 |  | 2000-03-28 | Dean Evenson &amp; Li Xiangting | Tao of Healing |
-| 84 | ![Cover](https://i.discogs.com/0D3tEHDzkY-09PctTCZ6oXHndzVhyEKVlh73Wkr6DEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI0/NC0xMzg5NDQxMjg2/LTEzNTUuanBlZw.jpeg) | 2001 | Jun | Dream (电视剧《永远的主君》原声音乐) |
-| 66 |  | 2001-09-20 | Jay Chou | Fantasy |
-| 71 | ![Cover](https://i.discogs.com/mFZn7Ty9bvr7vtPTZ0e9JNLNYmaj9KGxYx04_GoRzrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDY4/NDgtMTMzMzE2OTQ5/Mi5qcGVn.jpeg) | 2002-01-25 | SILVER ASH | Silver Ash |
-| 80 | ![Cover](https://i.discogs.com/1aIPyiZQFFdP7y10O6GP-w_73X9YlRs9SVwyGfPCgRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODAx/MDcyLTE1NjE0MTgw/MjUtODI4Mi5qcGVn.jpeg) | 2003 | S.H.E | Superstar |
-| 70 | ![Cover](https://i.discogs.com/7EuWCRMWHVGMGHahMLjwqWVv6sTcNE_xruuModofOWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzQ4/MzctMTIzOTk3Mzgy/NC5qcGVn.jpeg) | 2003-06-27 | Liu Fang | Chinese Traditional Pipa Music |
-| 85 |  | 2003-08-22 | S.H.E | Super Star |
-| 61 | ![Cover](https://i.discogs.com/ZVHEZATgc86GIz0X_VGLQOGgl9aL-YKr9O_luVpDzH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgw/NTcxLTE1MDk0ODMx/NTgtNjM1Ny5qcGVn.jpeg) | 2004 | Maroon 5 | Good Girl Gone Bad |
-| 57 | ![Cover](https://i.discogs.com/Hpd9xtdDYg9f7lR49NbO8Qi1-Xh9rYBD6mRwRVwzuck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQw/NTIyLTE2NjQyNDA4/MjctODU0MS5qcGVn.jpeg) | 2005-11-08 | Twelve Girls Band | Eastern Energy |
-| 83 | ![Cover](https://i.discogs.com/cmJXsoTz-fNNrLNp60-4as6-WMDxpmuQz0WAucBAXj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzYy/NjUtMTU1OTIyNTIx/My05OTUwLmpwZWc.jpeg) | 2007-09 | Carsick Cars | Carsick Cars |
-| 67 |  | 2008-07-28 | Hanggai | Introducing Hanggai |
-| 60 | ![Cover](https://i.discogs.com/PLIZTIHA0GYlKUVj2fOj-I2C1T1dkU7-X5BViSDqDzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTA5/MDAzLTE2NjMxNDg5/NTYtNTQ3Ny5qcGVn.jpeg) | 2008-08-05 | Jia Peng Fang | Jia Peng Fang Best&#x2F;Erhu |
-| 82 |  | 2008-08-18 | Monkey | Journey To The West |
-| 51 |  | 2009-01-22 | 陳綺貞 | 太陽 |
-| 52 |  | 2009-10-30 | 林宥嘉 | 感官&#x2F;世界 |
-| 58 | ![Cover](https://i.discogs.com/UQwvijX5sLiAFCqfWl5E1a84UVXl_ourXeSJcSfEY6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA3/MDQ4LTE1MzY2MzI4/NDctNDA4NS5qcGVn.jpeg) | 2010-10-13 | Mixx | Love Is A Sudden |
-| 54 |  | 2013-11-29 | 田馥甄 | 渺小 |
-| 53 | ![Cover](https://i.discogs.com/mFpeHh1lJ1LkKT4ZO-SQff7s5o-Mr-rU6cYzQI1JGVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQw/OTk0LTE1MTA2MDE4/NTItMjA1MC5qcGVn.jpeg) | 2017-11-13 | LAY | what U need? |
-| 55 |  |  | 周杰倫 | 周杰倫的床邊故事 |
-| 62 |  |  | 蔡依林 | Ugly Beauty |
-| 63 |  |  | 疗愈音律 | 高级咖啡厅用餐轻松之纯音乐 |
-| 64 |  |  | Zyboy忠宇 | 妈妈的话 |
-| 65 |  |  | 周杰倫 | The Eight Dimensions |
-| 68 |  |  | 許光漢 | 許光漢 |
-| 69 |  |  | Joker Xue | 意外 |
-| 77 |  | 2014-08-06 | CHiCO with HoneyWorks | 世界は恋に落ちている |
-| 78 |  |  | 林俊傑 | Sixology |
-| 92 |  |  | 理想混蛋 | 不是因為天氣晴朗才愛你 |
-| 89 | ![Cover](https://i.discogs.com/5RXjZzYzUSzMb4ovV0JZZ9Q_YDXn4wINQudhKhHyoHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTUy/NDgyLTE1Mzc0NzQ3/NTgtODc4OS5qcGVn.jpeg) | 2010 | G.E.M. | 新的心跳 |
-| 79 |  | 2012-04-24 | Wanting | Everything in the World |
-| 94 | ![Cover](https://i.discogs.com/OlNBiXVOXJuGEDlHwxTACVu60xwtbUJUQz1en-bMxSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg0/NDIwLTE1Nzk1NzQ5/MDctMTY2OS5qcGVn.jpeg) | 2017-10-07 | LAY | LAY 02 SHEEP |
-| 91 | ![Cover](https://i.discogs.com/_y232g7Qi4dWw-UXGOgmjZnmasCTPNe4r7UyKe-ZV4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM2/OTk1LTE1NDA5OTM1/MzctNzk4MC5qcGVn.jpeg) | 2018 | Kris Wu | Deserve (feat. Travis Scott) |
-| 87 | ![Cover](https://i.discogs.com/Hz3wvbbIugRaAIsBaTsrfsxnVs7jU24IVt4TSHRXhls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYy/NDYzLTE1NzkxNDU1/OTEtNTA1OC5qcGVn.jpeg) | 2018-10-19 | LAY | 모노드라마 Monodrama |
-| 99 | ![Cover](https://i.discogs.com/m6YbLCgZkz1RiNpvt9wWN_G7FdUAzKJlUzAOeErKNt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM4/NDM5LTE2MjEwODM3/MzQtOTc3Mi5wbmc.jpeg) | 2020-06-22 | WAYV | Awaken The World - The 1st Album |
-| 81 | ![Cover](https://i.discogs.com/rls3uAAfoP7aHm9-a91gOVINeb9q7n_vZSvG_Vr3Gn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTk3/OC0xMzIyMjEyMjQz/LmpwZWc.jpeg) | 2021-08-16 | G.E.M. | 摩天動物園 |
-| 95 | ![Cover](https://i.discogs.com/nmLLdeT6ehgAF0_0Ddq-qeHHQlBqqY3uqiWxyXeavk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTAy/ODI5LTE2NjMzMDg0/MzctMTM4Ni5wbmc.jpeg) | 2022-09-09 | jackson wang | Papillon |
-| 93 | ![Cover](https://i.discogs.com/q62-uwubnRdtP5nYJSqWHI3zNJQ8-94LWbBmL1o59i8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQx/MzQwLTE2NjU5Mjk1/NTEtMjYzMC5qcGVn.jpeg) | 2022-09-19 | NMixx | FEIFEI |
-| 96 | ![Cover](https://i.discogs.com/R_wkHkpm5V5dbVl364RlNai4kCQ5yQtjpkxAMtPakWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njc5/MTkxLTE2NzI5ODcw/OTItMTQzMi5qcGVn.jpeg) | 2022-12-28 | WAYV | On my youth - the 2nd album |
-| 98 | ![Cover](https://i.discogs.com/R_wkHkpm5V5dbVl364RlNai4kCQ5yQtjpkxAMtPakWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njc5/MTkxLTE2NzI5ODcw/OTItMTQzMi5qcGVn.jpeg) | 2022-12-28 | WAYV | Phantom - The 4th Mini Album |
-| 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7becfb86069c2894683d208457457b42.png) |  | WayV | Awaken The World - The 1st Album |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for The Untamed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>The Untamed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>1994-11</td>
+      <td>王菲</td>
+      <td>天空</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/wlr3yS6hxyq6ficJeCDRVfvukCVO0GX9TVOf9dSMYfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTEz/MTctMTQzNzE5MDE3/MC0xODQyLmpwZWc.jpeg" alt="Cover for Chinese Traditional Erhu Music 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Lei Qiang</td>
+      <td>Chinese Traditional Erhu Music 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/MmCgQ1NvwuULUpG0V8OsSbz8ouOvhwlyVdvW9KVhYxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzQ1/NjAtMTMyNjIzMjkz/OC5qcGVn.jpeg" alt="Cover for Chinese Traditional Erhu Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Lei Qiang</td>
+      <td>Chinese Traditional Erhu Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/wlr3yS6hxyq6ficJeCDRVfvukCVO0GX9TVOf9dSMYfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTEz/MTctMTQzNzE5MDE3/MC0xODQyLmpwZWc.jpeg" alt="Cover for Chinese Traditional Erdhu Music 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Lei Qiang</td>
+      <td>Chinese Traditional Erdhu Music 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/wlr3yS6hxyq6ficJeCDRVfvukCVO0GX9TVOf9dSMYfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTEz/MTctMTQzNzE5MDE3/MC0xODQyLmpwZWc.jpeg" alt="Cover for Chinese Traditional Erhu Music Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Lei Qiang</td>
+      <td>Chinese Traditional Erhu Music Vol. 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>1997-02</td>
+      <td>王菲</td>
+      <td>玩具</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/7EuWCRMWHVGMGHahMLjwqWVv6sTcNE_xruuModofOWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzQ4/MzctMTIzOTk3Mzgy/NC5qcGVn.jpeg" alt="Cover for Chinese Tradtional Pipa Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-06-27</td>
+      <td>Liu Fang</td>
+      <td>Chinese Tradtional Pipa Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/u6T7JslFuLj5tMEBHOoKpECzCntB4MHD4NhSd_kK_Ks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzU2/NTctMTQ1MTk3Njc1/MS01NDI2LmpwZWc.jpeg" alt="Cover for 乌鸦" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Jun</td>
+      <td>乌鸦</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/u6T7JslFuLj5tMEBHOoKpECzCntB4MHD4NhSd_kK_Ks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzU2/NTctMTQ1MTk3Njc1/MS01NDI2LmpwZWc.jpeg" alt="Cover for 寂寞号登机口" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Jun</td>
+      <td>寂寞号登机口</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>1999-02-08</td>
+      <td>王菲</td>
+      <td>Eyes on Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/rB0_svC2A06FAye_I9eLlTyCWYHhmJXqCc_88_dbUm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTY1/MjE4LTE1NDcxNDQx/MDYtMzk0NC5qcGVn.jpeg" alt="Cover for Rainbow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-09-21</td>
+      <td>Jia Peng Fang</td>
+      <td>Rainbow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/ObVBJFAdWnUuZgoHPz4OplMR2z7p9WZgLsID8o46rG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjU1/NjYtMTMxODcyNjA0/Ny5qcGVn.jpeg" alt="Cover for River" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-11-20</td>
+      <td>Jia Peng Fang</td>
+      <td>River</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/Hl-RaqhBBpCdFx-P6_WkXb7E2sB6r6TB1z1AlUKigZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODc4/NC0xMzEyMzM4MzA4/LmpwZWc.jpeg" alt="Cover for NEXT BEGINS" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Next</td>
+      <td>NEXT BEGINS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>2000-03-28</td>
+      <td>Dean Evenson &amp; Li Xiangting</td>
+      <td>Tao of Healing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/rYPDq0J8t4ynHy_E8L30Wb_6VyrO_L0JJ6s0GTw-byI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTUw/MDgtMTQ4MDE2OTE0/OC0yMDAyLmpwZWc.jpeg" alt="Cover for Chinese Traditional Yang-Qin Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Anna Guo</td>
+      <td>Chinese Traditional Yang-Qin Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/0D3tEHDzkY-09PctTCZ6oXHndzVhyEKVlh73Wkr6DEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI0/NC0xMzg5NDQxMjg2/LTEzNTUuanBlZw.jpeg" alt="Cover for Dream (电视剧《永远的主君》原声音乐)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Jun</td>
+      <td>Dream (电视剧《永远的主君》原声音乐)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>2001-09-20</td>
+      <td>Jay Chou</td>
+      <td>Fantasy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/mFZn7Ty9bvr7vtPTZ0e9JNLNYmaj9KGxYx04_GoRzrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDY4/NDgtMTMzMzE2OTQ5/Mi5qcGVn.jpeg" alt="Cover for Silver Ash" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-01-25</td>
+      <td>SILVER ASH</td>
+      <td>Silver Ash</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/1aIPyiZQFFdP7y10O6GP-w_73X9YlRs9SVwyGfPCgRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODAx/MDcyLTE1NjE0MTgw/MjUtODI4Mi5qcGVn.jpeg" alt="Cover for Superstar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>S.H.E</td>
+      <td>Superstar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/7EuWCRMWHVGMGHahMLjwqWVv6sTcNE_xruuModofOWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzQ4/MzctMTIzOTk3Mzgy/NC5qcGVn.jpeg" alt="Cover for Chinese Traditional Pipa Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-06-27</td>
+      <td>Liu Fang</td>
+      <td>Chinese Traditional Pipa Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>2003-08-22</td>
+      <td>S.H.E</td>
+      <td>Super Star</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/ZVHEZATgc86GIz0X_VGLQOGgl9aL-YKr9O_luVpDzH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgw/NTcxLTE1MDk0ODMx/NTgtNjM1Ny5qcGVn.jpeg" alt="Cover for Good Girl Gone Bad" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Maroon 5</td>
+      <td>Good Girl Gone Bad</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/HJzwjz13A2kibVUuPXRCs4HR1Mh0C6a-IynpcJAyuEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzAx/NjkxLTE1OTYxOTMx/MzUtMzU0OS5qcGVn.jpeg" alt="Cover for 奇幻旅程" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-02-06</td>
+      <td>S.H.E</td>
+      <td>奇幻旅程</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2004-04-27</td>
+      <td>王力宏</td>
+      <td>Dream Again</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>2004-10-29</td>
+      <td>孫燕姿</td>
+      <td>Stefanie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/fV0OPBw0CN-6r19p6ot56BjET72T3mj5VNceKl0Ne08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDY0/MjUtMTQ1MjU1MTI4/MC02MDQ5LmpwZWc.jpeg" alt="Cover for Sleeping Lotus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-05-10</td>
+      <td>Li Xiangting</td>
+      <td>Sleeping Lotus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/Hpd9xtdDYg9f7lR49NbO8Qi1-Xh9rYBD6mRwRVwzuck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQw/NTIyLTE2NjQyNDA4/MjctODU0MS5qcGVn.jpeg" alt="Cover for Romantic Energy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-08</td>
+      <td>Twelve Girls Band</td>
+      <td>Romantic Energy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/Hpd9xtdDYg9f7lR49NbO8Qi1-Xh9rYBD6mRwRVwzuck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQw/NTIyLTE2NjQyNDA4/MjctODU0MS5qcGVn.jpeg" alt="Cover for Eastern Energy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-08</td>
+      <td>Twelve Girls Band</td>
+      <td>Eastern Energy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/mo-4NMSUixf_IX8eRYouFUDV2pNfLBB4vs7i9XZNxR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTEz/NDE5LTE1NDgzMTUz/NTYtMTAwMi5qcGVn.jpeg" alt="Cover for The One" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Jane Zhang</td>
+      <td>The One</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td>2006-02-17</td>
+      <td>林俊傑</td>
+      <td>曹操</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/yJgRhMRiGRYfQnf6iMAXvRFe_9DZdxzTlbsjRae_37M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTA0/OTYtMTM2MTM5MTg4/Mi01MTY0LmpwZWc.jpeg" alt="Cover for Alive" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Sa Dingding</td>
+      <td>Alive</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>2007-04-14</td>
+      <td>惘闻</td>
+      <td>7 Objects in Another Infinite Space</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/cmJXsoTz-fNNrLNp60-4as6-WMDxpmuQz0WAucBAXj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzYy/NjUtMTU1OTIyNTIx/My05OTUwLmpwZWc.jpeg" alt="Cover for Carsick Cars" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-09</td>
+      <td>Carsick Cars</td>
+      <td>Carsick Cars</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>2007-12-28</td>
+      <td>方大同</td>
+      <td>未來</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>2008-07-28</td>
+      <td>Hanggai</td>
+      <td>Introducing Hanggai</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/PLIZTIHA0GYlKUVj2fOj-I2C1T1dkU7-X5BViSDqDzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTA5/MDAzLTE2NjMxNDg5/NTYtNTQ3Ny5qcGVn.jpeg" alt="Cover for Jia Peng Fang Best&#x2F;Erhu" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-08-05</td>
+      <td>Jia Peng Fang</td>
+      <td>Jia Peng Fang Best&#x2F;Erhu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2008-08-18</td>
+      <td>Monkey</td>
+      <td>Journey To The West</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/HW14VQKmpAkIKawWtRM55k_ZzF0WM39MetWNrtj0sMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTQ5/MzUtMTM5MTkyMjM4/Ny01NTM5LmpwZWc.jpeg" alt="Cover for Chinese Traditional and Folk Music: Guqin Vol. 5" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>Chinese Traditional and Folk Music: Guqin Vol. 5</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td>2009-01-22</td>
+      <td>陳綺貞</td>
+      <td>太陽</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>2009-05-22</td>
+      <td>郭靜</td>
+      <td>在樹上唱歌</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>2009-08-11</td>
+      <td>方大同</td>
+      <td>Timeless 可啦思刻</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td>2009-10-30</td>
+      <td>林宥嘉</td>
+      <td>感官&#x2F;世界</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/5RXjZzYzUSzMb4ovV0JZZ9Q_YDXn4wINQudhKhHyoHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTUy/NDgyLTE1Mzc0NzQ3/NTgtODc4OS5qcGVn.jpeg" alt="Cover for 新的心跳" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>G.E.M.</td>
+      <td>新的心跳</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>2010-01-26</td>
+      <td>Bei Bei &amp; Shawn Lee</td>
+      <td>Into The Wind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td>2010-05-18</td>
+      <td>周杰伦</td>
+      <td>跨时代</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/tG7Wb29TbJhi7_E87yLPFt3mB8ui1j0XsSq7320sIV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjMy/ODEtMTI3OTY0MzA4/Mi5qcGVn.jpeg" alt="Cover for 風に向かう花" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-07-07</td>
+      <td>Alan</td>
+      <td>風に向かう花</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/UQwvijX5sLiAFCqfWl5E1a84UVXl_ourXeSJcSfEY6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA3/MDQ4LTE1MzY2MzI4/NDctNDA4NS5qcGVn.jpeg" alt="Cover for Love Is A Sudden" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-10-13</td>
+      <td>Mixx</td>
+      <td>Love Is A Sudden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/Z5ejiMhH6i_sDy3Zh68QDi447mmTAoSoPwwGfhxFivI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODY0/MDYtMTM2NjI3Mjg4/MC01MDg1LmpwZWc.jpeg" alt="Cover for Détache toi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-04-01</td>
+      <td>Am444</td>
+      <td>Détache toi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/152a427d949d46f8ef449807235c46e0.png" alt="Cover for 15" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-07-13</td>
+      <td>方大同</td>
+      <td>15</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>2012-04-24</td>
+      <td>Wanting</td>
+      <td>Everything in the World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2013-01-07</td>
+      <td>Super Junior M</td>
+      <td>Break Down</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/OYuE5iBKxUCjHugcGLW9iv5UW5Z1f6KhrNMIexQjFNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzMy/NDQtMTM5OTA1NzQw/NC0zMjQxLmpwZWc.jpeg" alt="Cover for Nine Treasures" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-11-29</td>
+      <td>Nine Treasures</td>
+      <td>Nine Treasures</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>2013-11-29</td>
+      <td>田馥甄</td>
+      <td>渺小</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td>2014-05-07</td>
+      <td>EXO-M</td>
+      <td>上瘾 (Overdose)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2014-08-06</td>
+      <td>CHiCO with HoneyWorks</td>
+      <td>世界は恋に落ちている</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/OlNBiXVOXJuGEDlHwxTACVu60xwtbUJUQz1en-bMxSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njg0/NDIwLTE1Nzk1NzQ5/MDctMTY2OS5qcGVn.jpeg" alt="Cover for LAY 02 SHEEP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-07</td>
+      <td>LAY</td>
+      <td>LAY 02 SHEEP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/mFpeHh1lJ1LkKT4ZO-SQff7s5o-Mr-rU6cYzQI1JGVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQw/OTk0LTE1MTA2MDE4/NTItMjA1MC5qcGVn.jpeg" alt="Cover for what U need?" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-11-13</td>
+      <td>LAY</td>
+      <td>what U need?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/_y232g7Qi4dWw-UXGOgmjZnmasCTPNe4r7UyKe-ZV4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM2/OTk1LTE1NDA5OTM1/MzctNzk4MC5qcGVn.jpeg" alt="Cover for Deserve (feat. Travis Scott)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Kris Wu</td>
+      <td>Deserve (feat. Travis Scott)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/Hz3wvbbIugRaAIsBaTsrfsxnVs7jU24IVt4TSHRXhls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYy/NDYzLTE1NzkxNDU1/OTEtNTA1OC5qcGVn.jpeg" alt="Cover for 모노드라마 Monodrama" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-19</td>
+      <td>LAY</td>
+      <td>모노드라마 Monodrama</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/m6YbLCgZkz1RiNpvt9wWN_G7FdUAzKJlUzAOeErKNt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM4/NDM5LTE2MjEwODM3/MzQtOTc3Mi5wbmc.jpeg" alt="Cover for Awaken The World - The 1st Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-06-22</td>
+      <td>WAYV</td>
+      <td>Awaken The World - The 1st Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/7aLCu0UCmPVQosn7HS3eQraYRQrKv1KwZlef-eC1804/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM4/ODA4LTE2MTQwMTUz/MTctMzE3NS5qcGVn.jpeg" alt="Cover for Ming Ming" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-02-22</td>
+      <td>otay:onii</td>
+      <td>Ming Ming</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/rls3uAAfoP7aHm9-a91gOVINeb9q7n_vZSvG_Vr3Gn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTk3/OC0xMzIyMjEyMjQz/LmpwZWc.jpeg" alt="Cover for 摩天動物園" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-08-16</td>
+      <td>G.E.M.</td>
+      <td>摩天動物園</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/rDQNYQeZgd9lrwSqFRDGm7w69i_3bExZv0NZFs5MKeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDcx/MTUwLTE2MzA0NzA5/MjctOTg1NS5qcGVn.jpeg" alt="Cover for Shang-Chi and the Legend of the Ten Rings (Original Score)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-09-01</td>
+      <td>Joel P West</td>
+      <td>Shang-Chi and the Legend of the Ten Rings (Original Score)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/nmLLdeT6ehgAF0_0Ddq-qeHHQlBqqY3uqiWxyXeavk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTAy/ODI5LTE2NjMzMDg0/MzctMTM4Ni5wbmc.jpeg" alt="Cover for Papillon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-09</td>
+      <td>jackson wang</td>
+      <td>Papillon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/q62-uwubnRdtP5nYJSqWHI3zNJQ8-94LWbBmL1o59i8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQx/MzQwLTE2NjU5Mjk1/NTEtMjYzMC5qcGVn.jpeg" alt="Cover for FEIFEI" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-19</td>
+      <td>NMixx</td>
+      <td>FEIFEI</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/R_wkHkpm5V5dbVl364RlNai4kCQ5yQtjpkxAMtPakWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njc5/MTkxLTE2NzI5ODcw/OTItMTQzMi5qcGVn.jpeg" alt="Cover for On my youth - the 2nd album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-12-28</td>
+      <td>WAYV</td>
+      <td>On my youth - the 2nd album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/R_wkHkpm5V5dbVl364RlNai4kCQ5yQtjpkxAMtPakWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njc5/MTkxLTE2NzI5ODcw/OTItMTQzMi5qcGVn.jpeg" alt="Cover for Phantom - The 4th Mini Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-12-28</td>
+      <td>WAYV</td>
+      <td>Phantom - The 4th Mini Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b372bee481584fb35c1d42dd1c10f725.png" alt="Cover for 绿帽 Green Hat" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-03-31</td>
+      <td>Tzusing</td>
+      <td>绿帽 Green Hat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/mFZn7Ty9bvr7vtPTZ0e9JNLNYmaj9KGxYx04_GoRzrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDY4/NDgtMTMzMzE2OTQ5/Mi5qcGVn.jpeg" alt="Cover for Out of Control" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-08-09</td>
+      <td>SILVER ASH</td>
+      <td>Out of Control</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>王ADEN</td>
+      <td>想了妳6次</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td></td>
+      <td>張學友</td>
+      <td>Zhen Ai (Xin Qu + Zhen Zheng Jing Xuan)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td></td>
+      <td>酸月亮 Sour Moon</td>
+      <td>We</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td></td>
+      <td>譚盾</td>
+      <td>Hero - Music from the Original Soundtrack</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+      </td>
+      <td></td>
+      <td>張學友</td>
+      <td>Ageless Tale</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td></td>
+      <td>鹿晗</td>
+      <td>Venture</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td></td>
+      <td>王力宏</td>
+      <td>改變自己</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26f21d080199e2f52896e0df86e9ed7a.png" alt="Cover for Jay Chou Live Concert" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>周杰倫</td>
+      <td>Jay Chou Live Concert</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td></td>
+      <td>周杰倫</td>
+      <td>Huo Yuan Chia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td></td>
+      <td>劉德華</td>
+      <td>Voice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td></td>
+      <td>张悬</td>
+      <td>张悬</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td></td>
+      <td>페이</td>
+      <td>Fantasy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td></td>
+      <td>杨秉音</td>
+      <td>《天官赐福》动画原声带</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td></td>
+      <td>鹿晗</td>
+      <td>Xplore</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Meng Jia</td>
+      <td>Drip</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td></td>
+      <td>陳粒</td>
+      <td>如也</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td></td>
+      <td>鹿晗</td>
+      <td>Xperience</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td></td>
+      <td>莫文蔚</td>
+      <td>Without You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Dinosaur’s Skin</td>
+      <td>Millions of Years Apart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td></td>
+      <td>楊千嬅</td>
+      <td>MAKE UP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td></td>
+      <td>周杰倫</td>
+      <td>周杰倫的床邊故事</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td></td>
+      <td>蔡依林</td>
+      <td>Ugly Beauty</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td></td>
+      <td>疗愈音律</td>
+      <td>高级咖啡厅用餐轻松之纯音乐</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Zyboy忠宇</td>
+      <td>妈妈的话</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td></td>
+      <td>周杰倫</td>
+      <td>The Eight Dimensions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td></td>
+      <td>許光漢</td>
+      <td>許光漢</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Joker Xue</td>
+      <td>意外</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td></td>
+      <td>林俊傑</td>
+      <td>Sixology</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td></td>
+      <td>理想混蛋</td>
+      <td>不是因為天氣晴朗才愛你</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7becfb86069c2894683d208457457b42.png" alt="Cover for Awaken The World - The 1st Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>WayV</td>
+      <td>Awaken The World - The 1st Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

@@ -9,6 +9,10 @@ title: atlanta
 
 Last updated: <time datetime="2025-10-29T20:05:52.520Z">Wed Oct 29 2025 22:05:52 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap sound characterized by booming 808 bass, rapid-fire hi-hats, and inventive trap production. The genre blends street-oriented lyrics with melodic flows, ad-libs, and experimental vocal techniques that pushed mainstream rap in new directions. Rooted in the city&#39;s unique culture and slang, it became one of hip-hop&#39;s most influential regional sounds since the 1990s.
+
 ### 100 chronological releases
 
 <table>
@@ -1712,10 +1716,10 @@ Last updated: <time datetime="2025-10-29T20:05:52.520Z">Wed Oct 29 2025 22:05:52
       <td>The Accomplices</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a></li>
+            <li style="font-size: calc(1rem * 72.72727272727273 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 72.72727272727273 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 72.72727272727273 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
     </tr>

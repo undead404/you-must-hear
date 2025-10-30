@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-30T00:23:40.126Z
+date: 2025-10-30T00:31:39.328Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-30T00:23:40.126Z">Thu Oct 30 2025 02:23:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-30T00:31:39.328Z">Thu Oct 30 2025 02:31:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [neofolk]({{ "tags/neofolk" | relative_url }}) | <time datetime="2025-10-30T00:31:39.328Z">Thu Oct 30 2025 02:31:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [industrial hip hop]({{ "tags/industrial-hip-hop" | relative_url }}) | <time datetime="2025-10-30T00:23:40.126Z">Thu Oct 30 2025 02:23:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [psycore]({{ "tags/psycore" | relative_url }}) | <time datetime="2025-10-30T00:20:39.909Z">Thu Oct 30 2025 02:20:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [arena rock]({{ "tags/arena-rock" | relative_url }}) | <time datetime="2025-10-30T00:18:39.614Z">Thu Oct 30 2025 02:18:39 GMT+0200 (Eastern European Standard Time)</time> |
@@ -836,7 +837,6 @@ Last updated: <time datetime="2025-10-30T00:23:40.126Z">Thu Oct 30 2025 02:23:40
 | [lobit]({{ "tags/lobit" | relative_url }}) | <time datetime="2025-10-22T23:53:31.244Z">Thu Oct 23 2025 02:53:31 GMT+0300 (Eastern European Summer Time)</time> |
 | [nsbm]({{ "tags/nsbm" | relative_url }}) | <time datetime="2025-10-22T23:52:18.678Z">Thu Oct 23 2025 02:52:18 GMT+0300 (Eastern European Summer Time)</time> |
 | [poetry]({{ "tags/poetry" | relative_url }}) | <time datetime="2025-10-22T23:49:38.389Z">Thu Oct 23 2025 02:49:38 GMT+0300 (Eastern European Summer Time)</time> |
-| [neofolk]({{ "tags/neofolk" | relative_url }}) | <time datetime="2025-10-22T23:49:06.528Z">Thu Oct 23 2025 02:49:06 GMT+0300 (Eastern European Summer Time)</time> |
 | [indie dance]({{ "tags/indie-dance" | relative_url }}) | <time datetime="2025-10-22T23:48:57.928Z">Thu Oct 23 2025 02:48:57 GMT+0300 (Eastern European Summer Time)</time> |
 | [tech house]({{ "tags/tech-house" | relative_url }}) | <time datetime="2025-10-22T23:48:23.658Z">Thu Oct 23 2025 02:48:23 GMT+0300 (Eastern European Summer Time)</time> |
 | [russian black metal]({{ "tags/russian-black-metal" | relative_url }}) | <time datetime="2025-10-22T23:48:10.775Z">Thu Oct 23 2025 02:48:10 GMT+0300 (Eastern European Summer Time)</time> |
