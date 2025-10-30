@@ -1,118 +1,1950 @@
 ---
 category: genre
-date: 2025-10-28T06:49:33.380Z
+date: 2025-10-30T11:22:06.465Z
 permalink: tags/stoner-rock
 title: stoner rock
 ---
 
 ## stoner rock
 
-Last updated: <time datetime="2025-10-28T06:49:33.380Z">Tue Oct 28 2025 08:49:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-30T11:22:06.465Z">Thu Oct 30 2025 13:22:06 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Stoner rock is a subgenre of rock music that emerged in the 1990s and is characterized by its heavy, distorted sound, slow and plodding tempos, and a focus on creating a psychedelic and hypnotic atmosphere. The genre often features heavily distorted and down-tuned guitar riffs, prominent basslines, and driving drum beats, creating a sound that is both heavy and trippy. Lyrics often explore themes of drug use, alienation, and introspection, and can range from dark and introspective to more playful and tongue-in-cheek. Some of the key bands associated with stoner rock include Kyuss, Sleep, Electric Wizard, and Monster Magnet.
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ae4576bd153d4af6b4ca7af9870556a9.png) | 1988 | Masters of Reality | Masters of Reality |
-| 4 | ![Cover](https://i.discogs.com/TFrhgUPosvrJaiURHaXLLS2xdjxuSxlpjP1voK08oWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzc4/MTktMTI2NDU4NjQy/Ni5qcGVn.jpeg) | 1990-04-19 | Kyuss | Sons of Kyuss |
-| 68 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/696fd518637f472080af1f234261a019.png) | 1991-09-23 | Kyuss | Wretch |
-| 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fb3fc0afac8f913afe1eae0dc47feea9.png) | 1992-06-30 | Kyuss | Blues for the Red Sun |
-| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0ad80636c36144cbb36e47d43608991d.png) | 1993-04-06 | Monster Magnet | Superjudge |
-| 22 | ![Cover](https://i.discogs.com/uGmFVLGWXzqquNTafyc95tR5zvVk8-AoW58MecE3NrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzI2/OC0xMTQ1MzgyODEw/LmpwZWc.jpeg) | 1994 | Kyuss | Sky Valley |
-| 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/49663522cd3652371e0186545e87e6d4.png) | 1994-06-27 | Kyuss | Welcome to Sky Valley |
-| 84 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8ba5360dcc8f43f6af573bf73c1e6e98.png) | 1994-09-27 | Corrosion of Conformity | Deliverance |
-| 76 |  | 1994-10-28 | Melvins | Stoner Witch |
-| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f67b86d246e02ebdc9114cd8ef29d546.png) | 1995-02-06 | Monster Magnet | Dopes to Infinity |
-| 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ce9bbfcd31bb4c31cc3aac97414c7e92.png) | 1995-05-09 | Clutch | Clutch |
-| 87 |  | 1995-07-07 | Kyuss | ...And the Circus Leaves Town |
-| 28 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/49c5e88389994029845e0c4f09eaaf1e.png) | 1996 | Corrosion of Conformity | Wiseblood |
-| 81 | ![Cover](https://i.discogs.com/20036Cne7qTNWcEp0pAuk1tV-A-umNi7VGLFYZuEeuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzIy/OC0xMTQ1Mzc5NTY1/LmpwZWc.jpeg) | 1996 | Slo Burn | Amusing the Amazing |
-| 83 | ![Cover](https://i.discogs.com/FRzqO41I5m3QopkMFDIOpo8MpUqWWirkuZdA9Yy1iKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc0/NzktMTMzNTU5Mzg1/My5qcGVn.jpeg) | 1996 | Sleep | Jerusalem |
-| 43 | ![Cover](https://i.discogs.com/x8V6seWVKeBfswzrD97ABQdDd1ozoAtnhcppBTA5zd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjIx/Mi0xMTQ4OTk1NTc4/LmpwZWc.jpeg) | 1996-07-23 | Earth | Pentastar: In the Style of Demons |
-| 63 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2e30d6121ede4a3daa9c0e2b6cc42455.png) | 1997 | Fu Manchu | The Action Is Go |
-| 11 | ![Cover](https://i.discogs.com/2VvfmQdv3_kA0dNa37K5Vc7xAJumA1UfRDcM4_A39W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE4/MTMtMTI1NTk3Mzk5/Ni5qcGVn.jpeg) | 1997-12-01 | Orange Goblin | Frequencies From Planet Ten |
-| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/191ea6001fd74e74ce95470125c5a914.png) | 1998-04-14 | Clutch | The Elephant Riders |
-| 85 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0a77f6216b814a8cbe1b375fea03c879.png) | 1998-06-16 | Monster Magnet | Powertrip |
-| 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/383d9d012f2c4c19cc85ad1b433f8d94.png) | 1998-10-06 | Queens of the Stone Age | Queens of the Stone Age |
-| 37 | ![Cover](https://i.discogs.com/MOcvhoAkUkswnsTLgxzqmWMxZAgS4Ywnttdp2lfjgkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgw/MjUtMTE5MDQxMDA1/NS5qcGVn.jpeg) | 1999-09-24 | Fu Manchu | King Of The Road |
-| 3 |  | 1999-11-16 | Unida | Coping with the Urban Coyote |
-| 77 | ![Cover](https://i.discogs.com/O_DS8_OvS8mPpH3qUs7FdKKF7oYV5v0Rrpt9JHCAkwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDE2/OS0xMjQxMjI4NTA3/LmpwZWc.jpeg) | 1999-11-19 | Brant Bjork | Jalamanta |
-| 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/51029dda84444c859a370389d15b8557.png) | 2000 | Monster Magnet | God Says No |
-| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d6a3c2632d7d24b00637347f19383630.png) | 2000 | Kyuss | Muchas Gracias: The Best of Kyuss |
-| 67 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/459ab913b00e05632f42ff6baa4d87f6.png) | 2000 | Dead Meadow | Dead Meadow |
-| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/95ea6ca5f2a24581aa0d152ba82b2e20.png) | 2000-03-23 | Spiritual Beggars | Ad Astra |
-| 44 |  | 2000-05-16 | Orange Goblin | The Big Black |
-| 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b1321014d62f4c9c99727bd440ade4c4.png) | 2000-06-05 | Queens of the Stone Age | Rated R |
-| 9 |  | 2001-03-13 | Clutch | Pure Rock Fury |
-| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/38a35bc09ada968c44fdc7a15d6bb9dd.png) | 2001-09-04 | Karma to Burn | Almost Heathen |
-| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4928649042be94c90dc3c64ca4bb35ad.png) | 2001-10-23 | Fu Manchu | California Crossing |
-| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/76a6d1f4ccf5416680745532c60fee32.png) | 2002 | 35007 | Liquid |
-| 52 | ![Cover](https://i.discogs.com/BmIr6mnPimJgKcxmnuS4K9djy-jKiXiwYP7bRFf7sE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjEw/MDctMTQ3MDI5ODky/MC0xNzI4Lm1wbw.jpeg) | 2002 | Queens of the Stone Age | Songs For The Deaf (UK Version) |
-| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6232a3b735114c4497e3fe64fcb55668.png) | 2002-04-26 | Boris | Heavy Rocks |
-| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eb5e7a6d60eac04cc3163d05241d4b54.png) | 2002-07-09 | Hermano | ...Only a Suggestion |
-| 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1319ef46e1da47f5c7dd7afdfb11aa53.png) | 2002-08-17 | Queens of the Stone Age | Songs for the Deaf |
-| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9c26c5e47f304cb4cc6d7c5948f6cf74.png) | 2003 | Desert Sessions | The Desert Sessions Volume 9 &amp; 10 |
-| 49 |  | 2003-04-22 | Sleep | Dopesmoker |
-| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/88666db81b163fd51d9c25b77dfba829.png) | 2003-06-06 | Boris | Akuma No Uta |
-| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3b683916cba84fb2b7f766497606e26b.png) | 2004 | Colour Haze | Colour Haze |
-| 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5b02ea8d13be4c03a9fce8d1cdd5ccdc.png) | 2004-01-01 | Witchcraft | Witchcraft |
-| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e34d41a1ac394859c8d505f184b77632.png) | 2004-03-22 | Eagles of Death Metal | Peace Love Death Metal |
-| 59 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ac2b8e32ddf589f14f07e65aed8dcfe9.png) | 2004-03-30 | Clutch | Blast Tyrant |
-| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f4e7a2dbe846c554efa8275b1cec4090.png) | 2005 | Queens of the Stone Age | Rated R - Deluxe Edition |
-| 72 |  | 2005-02-15 | Om | Variations on a Theme |
-| 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0c09895b66194dfecd5c27a157086ca2.png) | 2005-03-14 | Queens of the Stone Age | Little Sister |
-| 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fd2a404222a8467e88209f474c9223a4.png) | 2005-03-18 | Queens of the Stone Age | Lullabies to Paralyze |
-| 18 | ![Cover](https://i.discogs.com/O8_HRzhORvzTX-DS0nJYSblzUIXNesMqNCWW0oc6U84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDA2/My0xNTkwNDUxOTUx/LTg2NTIuanBlZw.jpeg) | 2005-03-22 | Queens of the Stone Age | Lullabies To Paralyze (International Version) |
-| 57 |  | 2005-04-12 | Truckfighters | Gravity X |
-| 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e099078dc37447794db9c67613682044.png) | 2005-04-26 | Earthless | Sonic Prayer |
-| 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2ddedb6cb8a14d858bd3d33b07886466.png) | 2005-10-18 | Priestess | Hello Master |
-| 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/deb95261a54a87e861c15c611908abe2.png) | 2005-10-31 | Wolfmother | Wolfmother |
-| 60 |  | 2005-11-07 | Dozer | Through the Eyes of Heathens |
-| 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8cd8dbe63cd64b75a141ce7a90c32238.png) | 2005-11-18 | Boris | Pink |
-| 34 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3994c0a41e5ec60db140b5072bc800ea.png) | 2006-02-14 | The Sword | Age of Winters |
-| 82 |  | 2006-02-24 | Om | Conference of the Birds |
-| 69 |  | 2006-03-07 | Witch | Witch |
-| 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1a0f9e052db945f58684ce836ecc2747.png) | 2006-07-17 | Black Stone Cherry | Black Stone Cherry |
-| 61 |  | 2006-07-18 | Colour Haze | Tempel |
-| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/13bec2c83a291bff441fe139fea641b8.png) | 2007 | Down | Over the Under |
-| 16 |  | 2007-03-06 | Big Business | Here Come the Waterworks |
-| 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c77f2c85615f4f65cf96d17c78ed6a0a.png) | 2007-04-02 | Clutch | From Beale Street to Oblivion |
-| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bc38b6d5f91a3de19f9122fc676b9ee4.png) | 2007-06-08 | Queens of the Stone Age | Era Vulgaris |
-| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4d20ad6a543ff2bcdc002873113ce490.png) | 2007-06-11 | Greenleaf | Agents Of Ahriman |
-| 47 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f531ab37fb084442a6f6966f58a647b3.png) | 2007-09-10 | Graveyard | Graveyard |
-| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a21395111d1b482497ed68fe439fa3fc.png) | 2007-10-01 | Witchcraft | The Alchemist |
-| 17 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/25208fc1d256c86e4956688afa5bed91.png) | 2007-10-08 | Truckfighters | Phi |
-| 66 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/217d83ac7c27477d82e84b43515483d6.png) | 2008-04-08 | Torche | Meanderthal |
-| 1 |  | 2008-07-28 | Colour Haze | All |
-| 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7d13f890112b4e01cef07a37c2f36faa.png) | 2008-10-25 | Eagles of Death Metal | Heart On |
-| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/39c0e88a5b3144fbc459a4131f77fcb8.png) | 2009-07-06 | Clutch | Strange Cousins From the West |
-| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/70163676ea2e4c44959c3af0f71b30d8.png) | 2009-08-19 | Arctic Monkeys | Humbug |
-| 35 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f2d7e8e96aad4246bc673c2578b31a15.png) | 2009-09-29 | Doomriders | Darkness Come Alive |
-| 80 |  | 2009-09-29 | Om | God Is Good |
-| 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/df13fe7bdbd046e6bfa95f463c6b5ecc.png) | 2009-10-16 | Wolfmother | Cosmic Egg |
-| 89 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d536d356fd93438dc3b9fd711826b62e.png) | 2009-11-13 | Them Crooked Vultures | Them Crooked Vultures |
-| 19 | ![Cover](https://i.discogs.com/HWpKiJy4hRdPx9q21-AN5yK5IeBOqP2fzRlK518-GvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzkz/NDQtMTI3MTcxODYx/OS5qcGVn.jpeg) | 2010-03-20 | My Sleeping Karma | Tri |
-| 41 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/83952976a0ce19fcbe11809985ce6981.png) | 2010-08-14 | Fu Manchu | Godzilla&#39;s &#x2F; Eatin&#39; Dust |
-| 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c2e640728149428bba0ae6eda5c41c21.png) | 2011-03-23 | Graveyard | Hisingen Blues |
-| 64 |  | 2011-04-11 | Mars Red Sky | Mars Red Sky |
-| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9c4210468e7b4599c5f4d5a913020068.png) | 2011-09-29 | 1000mods | Super Van Vacation |
-| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/29d0c5b6d56242cab75dd0708798bd45.png) | 2012-03-21 | Stoned Jesus | Seven Thunders Roar |
-| 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a0270bb85ce549649d99dcfaa6375030.png) | 2012-07-17 | Baroness | Yellow &amp; Green |
-| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dfd9bf18f31445b6c54cc979cdbd3a51.png) | 2013-03-19 | Clutch | Earth Rocker |
-| 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9872bc77018f9ba97f4bf504e25e1380.png) | 2013-05-31 | Queens of the Stone Age | ...Like Clockwork |
-| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dc892b5570954372ac5b821a222a3736.png) | 2013-06-03 | Queens of the Stone Age | …Like Clockwork |
-| 58 |  | 2013-07-23 | True Widow | Circumambulation |
-| 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/be6f523a8aea26c241e3c4d3d4633e4d.png) | 2013-10-08 | Earthless | From the Ages |
-| 15 |  | 2014-01-24 | Truckfighters | Universe |
-| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ea7825352f11d7ee3d2df1100a7c4abd.png) | 2015-10-02 | Eagles of Death Metal | Zipper Down |
-| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6edd86f657a66e30e8830881c3cbdb3b.png) | 2015-10-02 | Clutch | Psychic Warfare |
-| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5433f5421a554c4bf512ad04b2c02418.png) | 2016-07-08 | Boris | Pink (Deluxe Edition) |
-| 8 | ![Cover](https://i.discogs.com/nsLzI6wsL4Nr6wU3BdT2iowiiTerAVcRvNB8DtTI9XE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTE1/MDUtMTQ3MzkyNTk3/Ni03NzQyLmpwZWc.jpeg) | 2016-09-23 | True Widow | AVVOLGERE |
-| 46 | ![Cover](https://i.discogs.com/4VD9cF_I276Z5JGica4CJxWZ_meAW0wy6UrsNfnzmKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Nzg3/MDMtMTQ4NjIwODU2/Ni0yOTI5LmpwZWc.jpeg) | 2017-02-24 | All Them Witches | Sleeping Through The War |
-| 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/19221983e7991c56a51e061be63faec0.png) | 2017-08-25 | Queens of the Stone Age | Villains |
-| 13 | ![Cover](https://i.discogs.com/b6Sdg7AHiAiq7roMxLluCVvpvWQll1P_WO5jh47FxX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg4/MTIzLTE1MzQyNTUx/MTctMTY4MC5qcGVn.jpeg) | 2018-08-17 | Belmont | Belmont |
-| 71 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9d91bc288c1ebc2fff11062b7f1bae9c.png) | 2019-10-25 | Desert Sessions | Vols. 11 &amp; 12 |
-| 75 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e292db8c05493b086d10426fb4d8ecd3.png) | 2023-06-16 | Queens of the Stone Age | In Times New Roman... |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/TFrhgUPosvrJaiURHaXLLS2xdjxuSxlpjP1voK08oWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzc4/MTktMTI2NDU4NjQy/Ni5qcGVn.jpeg" alt="Cover for Sons of Kyuss" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-04-19</td>
+      <td>Kyuss</td>
+      <td>Sons of Kyuss</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb3fc0afac8f913afe1eae0dc47feea9.png" alt="Cover for Blues for the Red Sun" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-06-30</td>
+      <td>Kyuss</td>
+      <td>Blues for the Red Sun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 68</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="http://coverartarchive.org/release/c02820b6-2fe7-4342-983e-617aa1bf7799/15868913031-250.jpg" alt="Cover for Sleep&#39;s Holy Mountain" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-11</td>
+      <td>Sleep</td>
+      <td>Sleep&#39;s Holy Mountain</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 87</li>
+            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 91</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ad80636c36144cbb36e47d43608991d.png" alt="Cover for Superjudge" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-04-06</td>
+      <td>Monster Magnet</td>
+      <td>Superjudge</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/uGmFVLGWXzqquNTafyc95tR5zvVk8-AoW58MecE3NrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzI2/OC0xMTQ1MzgyODEw/LmpwZWc.jpeg" alt="Cover for Sky Valley" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Kyuss</td>
+      <td>Sky Valley</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49663522cd3652371e0186545e87e6d4.png" alt="Cover for Welcome to Sky Valley" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-06-27</td>
+      <td>Kyuss</td>
+      <td>Welcome to Sky Valley</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 63</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ba5360dcc8f43f6af573bf73c1e6e98.png" alt="Cover for Deliverance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-09-27</td>
+      <td>Corrosion of Conformity</td>
+      <td>Deliverance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>1994-10-28</td>
+      <td>Melvins</td>
+      <td>Stoner Witch</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 30</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f67b86d246e02ebdc9114cd8ef29d546.png" alt="Cover for Dopes to Infinity" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-02-06</td>
+      <td>Monster Magnet</td>
+      <td>Dopes to Infinity</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce9bbfcd31bb4c31cc3aac97414c7e92.png" alt="Cover for Clutch" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-05-09</td>
+      <td>Clutch</td>
+      <td>Clutch</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>1995-07-07</td>
+      <td>Kyuss</td>
+      <td>...And the Circus Leaves Town</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/20036Cne7qTNWcEp0pAuk1tV-A-umNi7VGLFYZuEeuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzIy/OC0xMTQ1Mzc5NTY1/LmpwZWc.jpeg" alt="Cover for Amusing the Amazing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Slo Burn</td>
+      <td>Amusing the Amazing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/FRzqO41I5m3QopkMFDIOpo8MpUqWWirkuZdA9Yy1iKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc0/NzktMTMzNTU5Mzg1/My5qcGVn.jpeg" alt="Cover for Jerusalem" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Sleep</td>
+      <td>Jerusalem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 72</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 82</li>
+            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 87</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 97</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49c5e88389994029845e0c4f09eaaf1e.png" alt="Cover for Wiseblood" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Corrosion of Conformity</td>
+      <td>Wiseblood</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/x8V6seWVKeBfswzrD97ABQdDd1ozoAtnhcppBTA5zd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjIx/Mi0xMTQ4OTk1NTc4/LmpwZWc.jpeg" alt="Cover for Pentastar: In the Style of Demons" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-07-23</td>
+      <td>Earth</td>
+      <td>Pentastar: In the Style of Demons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e30d6121ede4a3daa9c0e2b6cc42455.png" alt="Cover for The Action Is Go" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Fu Manchu</td>
+      <td>The Action Is Go</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/2VvfmQdv3_kA0dNa37K5Vc7xAJumA1UfRDcM4_A39W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE4/MTMtMTI1NTk3Mzk5/Ni5qcGVn.jpeg" alt="Cover for Frequencies From Planet Ten" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-12-01</td>
+      <td>Orange Goblin</td>
+      <td>Frequencies From Planet Ten</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/191ea6001fd74e74ce95470125c5a914.png" alt="Cover for The Elephant Riders" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-04-14</td>
+      <td>Clutch</td>
+      <td>The Elephant Riders</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a77f6216b814a8cbe1b375fea03c879.png" alt="Cover for Powertrip" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-06-16</td>
+      <td>Monster Magnet</td>
+      <td>Powertrip</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/383d9d012f2c4c19cc85ad1b433f8d94.png" alt="Cover for Queens of the Stone Age" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-10-06</td>
+      <td>Queens of the Stone Age</td>
+      <td>Queens of the Stone Age</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/MOcvhoAkUkswnsTLgxzqmWMxZAgS4Ywnttdp2lfjgkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgw/MjUtMTE5MDQxMDA1/NS5qcGVn.jpeg" alt="Cover for King Of The Road" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-09-24</td>
+      <td>Fu Manchu</td>
+      <td>King Of The Road</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td>1999-11-16</td>
+      <td>Unida</td>
+      <td>Coping with the Urban Coyote</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/O_DS8_OvS8mPpH3qUs7FdKKF7oYV5v0Rrpt9JHCAkwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDE2/OS0xMjQxMjI4NTA3/LmpwZWc.jpeg" alt="Cover for Jalamanta" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-11-19</td>
+      <td>Brant Bjork</td>
+      <td>Jalamanta</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/459ab913b00e05632f42ff6baa4d87f6.png" alt="Cover for Dead Meadow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Dead Meadow</td>
+      <td>Dead Meadow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51029dda84444c859a370389d15b8557.png" alt="Cover for God Says No" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Monster Magnet</td>
+      <td>God Says No</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6a3c2632d7d24b00637347f19383630.png" alt="Cover for Muchas Gracias: The Best of Kyuss" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Kyuss</td>
+      <td>Muchas Gracias: The Best of Kyuss</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de6b3f11b3fdb5953b874606d62a28e0.png" alt="Cover for Agents of Oblivion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-01-25</td>
+      <td>Agents of Oblivion</td>
+      <td>Agents of Oblivion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95ea6ca5f2a24581aa0d152ba82b2e20.png" alt="Cover for Ad Astra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-03-23</td>
+      <td>Spiritual Beggars</td>
+      <td>Ad Astra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>2000-05-16</td>
+      <td>Orange Goblin</td>
+      <td>The Big Black</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1321014d62f4c9c99727bd440ade4c4.png" alt="Cover for Rated R" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-06-05</td>
+      <td>Queens of the Stone Age</td>
+      <td>Rated R</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td>2001-03-13</td>
+      <td>Clutch</td>
+      <td>Pure Rock Fury</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38a35bc09ada968c44fdc7a15d6bb9dd.png" alt="Cover for Almost Heathen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-09-04</td>
+      <td>Karma to Burn</td>
+      <td>Almost Heathen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 80 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76a6d1f4ccf5416680745532c60fee32.png" alt="Cover for Liquid" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>35007</td>
+      <td>Liquid</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/BmIr6mnPimJgKcxmnuS4K9djy-jKiXiwYP7bRFf7sE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjEw/MDctMTQ3MDI5ODky/MC0xNzI4Lm1wbw.jpeg" alt="Cover for Songs For The Deaf (UK Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Queens of the Stone Age</td>
+      <td>Songs For The Deaf (UK Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6232a3b735114c4497e3fe64fcb55668.png" alt="Cover for Heavy Rocks" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-04-26</td>
+      <td>Boris</td>
+      <td>Heavy Rocks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb5e7a6d60eac04cc3163d05241d4b54.png" alt="Cover for ...Only a Suggestion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-07-09</td>
+      <td>Hermano</td>
+      <td>...Only a Suggestion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1319ef46e1da47f5c7dd7afdfb11aa53.png" alt="Cover for Songs for the Deaf" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-08-17</td>
+      <td>Queens of the Stone Age</td>
+      <td>Songs for the Deaf</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 69 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c26c5e47f304cb4cc6d7c5948f6cf74.png" alt="Cover for The Desert Sessions Volume 9 &amp; 10" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Desert Sessions</td>
+      <td>The Desert Sessions Volume 9 &amp; 10</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>2003-04-22</td>
+      <td>Sleep</td>
+      <td>Dopesmoker</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 81</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88666db81b163fd51d9c25b77dfba829.png" alt="Cover for Akuma No Uta" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-06-06</td>
+      <td>Boris</td>
+      <td>Akuma No Uta</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0a57546b64afcbbd5ecce353e92d8ed.png" alt="Cover for A Drug Problem That Never Existed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-07-04</td>
+      <td>Mondo Generator</td>
+      <td>A Drug Problem That Never Existed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d8737b035eb7426728c6cdd2676f10c.png" alt="Cover for Call It Conspiracy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-09-16</td>
+      <td>Dozer</td>
+      <td>Call It Conspiracy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b683916cba84fb2b7f766497606e26b.png" alt="Cover for Colour Haze" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Colour Haze</td>
+      <td>Colour Haze</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b02ea8d13be4c03a9fce8d1cdd5ccdc.png" alt="Cover for Witchcraft" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-01-01</td>
+      <td>Witchcraft</td>
+      <td>Witchcraft</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac2b8e32ddf589f14f07e65aed8dcfe9.png" alt="Cover for Blast Tyrant" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-03-30</td>
+      <td>Clutch</td>
+      <td>Blast Tyrant</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4e7a2dbe846c554efa8275b1cec4090.png" alt="Cover for Rated R - Deluxe Edition" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Queens of the Stone Age</td>
+      <td>Rated R - Deluxe Edition</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2005-02-15</td>
+      <td>Om</td>
+      <td>Variations on a Theme</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c09895b66194dfecd5c27a157086ca2.png" alt="Cover for Little Sister" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-03-14</td>
+      <td>Queens of the Stone Age</td>
+      <td>Little Sister</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd2a404222a8467e88209f474c9223a4.png" alt="Cover for Lullabies to Paralyze" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-03-18</td>
+      <td>Queens of the Stone Age</td>
+      <td>Lullabies to Paralyze</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 9</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 24</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/O8_HRzhORvzTX-DS0nJYSblzUIXNesMqNCWW0oc6U84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDA2/My0xNTkwNDUxOTUx/LTg2NTIuanBlZw.jpeg" alt="Cover for Lullabies To Paralyze (International Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-03-22</td>
+      <td>Queens of the Stone Age</td>
+      <td>Lullabies To Paralyze (International Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cec800f0e3349118e3a1b741c5bbca9.png" alt="Cover for In the Arms of God" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-04-04</td>
+      <td>Corrosion of Conformity</td>
+      <td>In the Arms of God</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td>2005-04-12</td>
+      <td>Truckfighters</td>
+      <td>Gravity X</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e099078dc37447794db9c67613682044.png" alt="Cover for Sonic Prayer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-04-26</td>
+      <td>Earthless</td>
+      <td>Sonic Prayer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ddedb6cb8a14d858bd3d33b07886466.png" alt="Cover for Hello Master" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-10-18</td>
+      <td>Priestess</td>
+      <td>Hello Master</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/deb95261a54a87e861c15c611908abe2.png" alt="Cover for Wolfmother" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-10-31</td>
+      <td>Wolfmother</td>
+      <td>Wolfmother</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 33</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 57</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td>2005-11-07</td>
+      <td>Dozer</td>
+      <td>Through the Eyes of Heathens</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cd8dbe63cd64b75a141ce7a90c32238.png" alt="Cover for Pink" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-18</td>
+      <td>Boris</td>
+      <td>Pink</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 23</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 27</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td>2005-12-05</td>
+      <td>Ufomammut</td>
+      <td>Lucifer Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3994c0a41e5ec60db140b5072bc800ea.png" alt="Cover for Age of Winters" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-02-14</td>
+      <td>The Sword</td>
+      <td>Age of Winters</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>2006-02-24</td>
+      <td>Om</td>
+      <td>Conference of the Birds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 93</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2006-03-07</td>
+      <td>Witch</td>
+      <td>Witch</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 36</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td>2006-07-18</td>
+      <td>Colour Haze</td>
+      <td>Tempel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13bec2c83a291bff441fe139fea641b8.png" alt="Cover for Over the Under" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Down</td>
+      <td>Over the Under</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 84</li>
+            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>2007-03-06</td>
+      <td>Big Business</td>
+      <td>Here Come the Waterworks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c77f2c85615f4f65cf96d17c78ed6a0a.png" alt="Cover for From Beale Street to Oblivion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-04-02</td>
+      <td>Clutch</td>
+      <td>From Beale Street to Oblivion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc38b6d5f91a3de19f9122fc676b9ee4.png" alt="Cover for Era Vulgaris" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-06-08</td>
+      <td>Queens of the Stone Age</td>
+      <td>Era Vulgaris</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 16</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a21395111d1b482497ed68fe439fa3fc.png" alt="Cover for The Alchemist" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10-01</td>
+      <td>Witchcraft</td>
+      <td>The Alchemist</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25208fc1d256c86e4956688afa5bed91.png" alt="Cover for Phi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10-08</td>
+      <td>Truckfighters</td>
+      <td>Phi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/217d83ac7c27477d82e84b43515483d6.png" alt="Cover for Meanderthal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-04-08</td>
+      <td>Torche</td>
+      <td>Meanderthal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td>2008-07-28</td>
+      <td>Colour Haze</td>
+      <td>All</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>2008-10-07</td>
+      <td>Grails</td>
+      <td>Doomsdayer&#39;s Holiday</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d13f890112b4e01cef07a37c2f36faa.png" alt="Cover for Heart On" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-10-25</td>
+      <td>Eagles of Death Metal</td>
+      <td>Heart On</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>2009-02-12</td>
+      <td>Boris</td>
+      <td>Smile</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39c0e88a5b3144fbc459a4131f77fcb8.png" alt="Cover for Strange Cousins From the West" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-07-06</td>
+      <td>Clutch</td>
+      <td>Strange Cousins From the West</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70163676ea2e4c44959c3af0f71b30d8.png" alt="Cover for Humbug" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-08-19</td>
+      <td>Arctic Monkeys</td>
+      <td>Humbug</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 35</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 56</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 59</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 62</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2d7e8e96aad4246bc673c2578b31a15.png" alt="Cover for Darkness Come Alive" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-09-29</td>
+      <td>Doomriders</td>
+      <td>Darkness Come Alive</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td>2009-09-29</td>
+      <td>Om</td>
+      <td>God Is Good</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d536d356fd93438dc3b9fd711826b62e.png" alt="Cover for Them Crooked Vultures" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-11-13</td>
+      <td>Them Crooked Vultures</td>
+      <td>Them Crooked Vultures</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/HWpKiJy4hRdPx9q21-AN5yK5IeBOqP2fzRlK518-GvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzkz/NDQtMTI3MTcxODYx/OS5qcGVn.jpeg" alt="Cover for Tri" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-03-20</td>
+      <td>My Sleeping Karma</td>
+      <td>Tri</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>2011-04-11</td>
+      <td>Mars Red Sky</td>
+      <td>Mars Red Sky</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c4210468e7b4599c5f4d5a913020068.png" alt="Cover for Super Van Vacation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-09-29</td>
+      <td>1000mods</td>
+      <td>Super Van Vacation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 38</li>
+            <li> <a href="{{ "/tags/greekpunk" | relative_url }}">greekpunk</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29d0c5b6d56242cab75dd0708798bd45.png" alt="Cover for Seven Thunders Roar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-03-21</td>
+      <td>Stoned Jesus</td>
+      <td>Seven Thunders Roar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0270bb85ce549649d99dcfaa6375030.png" alt="Cover for Yellow &amp; Green" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-07-17</td>
+      <td>Baroness</td>
+      <td>Yellow &amp; Green</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 61 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/pRGtU_vB2xW35TSvZuW88TaFv3T2F8kQSw8AwDaoG1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDMx/NzUtMTY2ODI4NjI1/Ni0zNTMwLmpwZWc.jpeg" alt="Cover for Advaitic Songs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-07-24</td>
+      <td>Om</td>
+      <td>Advaitic Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 46</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 83</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfd9bf18f31445b6c54cc979cdbd3a51.png" alt="Cover for Earth Rocker" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-03-19</td>
+      <td>Clutch</td>
+      <td>Earth Rocker</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9872bc77018f9ba97f4bf504e25e1380.png" alt="Cover for ...Like Clockwork" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05-31</td>
+      <td>Queens of the Stone Age</td>
+      <td>...Like Clockwork</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 61 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc892b5570954372ac5b821a222a3736.png" alt="Cover for …Like Clockwork" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-06-03</td>
+      <td>Queens of the Stone Age</td>
+      <td>…Like Clockwork</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>2013-07-23</td>
+      <td>True Widow</td>
+      <td>Circumambulation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be6f523a8aea26c241e3c4d3d4633e4d.png" alt="Cover for From the Ages" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-10-08</td>
+      <td>Earthless</td>
+      <td>From the Ages</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td>2014-01-24</td>
+      <td>Truckfighters</td>
+      <td>Universe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea7825352f11d7ee3d2df1100a7c4abd.png" alt="Cover for Zipper Down" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-02</td>
+      <td>Eagles of Death Metal</td>
+      <td>Zipper Down</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6edd86f657a66e30e8830881c3cbdb3b.png" alt="Cover for Psychic Warfare" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-02</td>
+      <td>Clutch</td>
+      <td>Psychic Warfare</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/yGg2yt0YfMDSotWp1L0Dx-lnFO_-ZiN0z5chrl42zyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjIy/OTUtMTQ1NzQyNzI5/NS02MjI3LmpwZWc.jpeg" alt="Cover for Elephant Tree" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-04-22</td>
+      <td>Elephant Tree</td>
+      <td>Elephant Tree</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5433f5421a554c4bf512ad04b2c02418.png" alt="Cover for Pink (Deluxe Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-07-08</td>
+      <td>Boris</td>
+      <td>Pink (Deluxe Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f5aafe02e50f68e0e6b49934c2fe105.png" alt="Cover for Highmare" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-08-18</td>
+      <td>The Dead Pirates</td>
+      <td>Highmare</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/nsLzI6wsL4Nr6wU3BdT2iowiiTerAVcRvNB8DtTI9XE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTE1/MDUtMTQ3MzkyNTk3/Ni03NzQyLmpwZWc.jpeg" alt="Cover for AVVOLGERE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-09-23</td>
+      <td>True Widow</td>
+      <td>AVVOLGERE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 7</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/4VD9cF_I276Z5JGica4CJxWZ_meAW0wy6UrsNfnzmKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Nzg3/MDMtMTQ4NjIwODU2/Ni0yOTI5LmpwZWc.jpeg" alt="Cover for Sleeping Through The War" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-02-24</td>
+      <td>All Them Witches</td>
+      <td>Sleeping Through The War</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19221983e7991c56a51e061be63faec0.png" alt="Cover for Villains" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-08-25</td>
+      <td>Queens of the Stone Age</td>
+      <td>Villains</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/b6Sdg7AHiAiq7roMxLluCVvpvWQll1P_WO5jh47FxX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg4/MTIzLTE1MzQyNTUx/MTctMTY4MC5qcGVn.jpeg" alt="Cover for Belmont" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-17</td>
+      <td>Belmont</td>
+      <td>Belmont</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 33</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d91bc288c1ebc2fff11062b7f1bae9c.png" alt="Cover for Vols. 11 &amp; 12" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-10-25</td>
+      <td>Desert Sessions</td>
+      <td>Vols. 11 &amp; 12</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 87</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
