@@ -26,6 +26,7 @@ Last updated: <time datetime="<% date %>"><% prettyDate %></time>
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
@@ -45,6 +46,13 @@ Last updated: <time datetime="<% date %>"><% prettyDate %></time>
           <%#tags%>
             <li style="font-size: calc(1rem * <% count %> / 100)"> <a href="{{ "/tags/<% linkName %>" | relative_url }}"><% tagName %></a></li>
           <%/tags%>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <%#places%>
+            <li> <a href="{{ "/tags/<% linkName %>" | relative_url }}"><% tagName %></a> # <% otherPlace %></li>
+          <%/places%>
         </ul>
       </td>
     </tr>
