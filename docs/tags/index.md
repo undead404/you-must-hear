@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-30T11:22:40.585Z
+date: 2025-10-30T11:25:41.463Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-30T11:22:40.585Z">Thu Oct 30 2025 13:22:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-30T11:25:41.463Z">Thu Oct 30 2025 13:25:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [waltz]({{ "tags/waltz" | relative_url }}) | <time datetime="2025-10-30T11:25:41.463Z">Thu Oct 30 2025 13:25:41 GMT+0200 (Eastern European Standard Time)</time> |
 | [southern rock]({{ "tags/southern-rock" | relative_url }}) | <time datetime="2025-10-30T11:22:40.585Z">Thu Oct 30 2025 13:22:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [stoner rock]({{ "tags/stoner-rock" | relative_url }}) | <time datetime="2025-10-30T11:22:06.465Z">Thu Oct 30 2025 13:22:06 GMT+0200 (Eastern European Standard Time)</time> |
 | [progressive rock]({{ "tags/progressive-rock" | relative_url }}) | <time datetime="2025-10-30T11:02:39.153Z">Thu Oct 30 2025 13:02:39 GMT+0200 (Eastern European Standard Time)</time> |
@@ -442,7 +443,6 @@ Last updated: <time datetime="2025-10-30T11:22:40.585Z">Thu Oct 30 2025 13:22:40
 | [lgbt]({{ "tags/lgbt" | relative_url }}) | <time datetime="2025-10-28T06:50:30.439Z">Tue Oct 28 2025 08:50:30 GMT+0200 (Eastern European Standard Time)</time> |
 | [pop punk]({{ "tags/pop-punk" | relative_url }}) | <time datetime="2025-10-28T06:50:21.342Z">Tue Oct 28 2025 08:50:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [rock]({{ "tags/rock" | relative_url }}) | <time datetime="2025-10-28T06:49:54.578Z">Tue Oct 28 2025 08:49:54 GMT+0200 (Eastern European Standard Time)</time> |
-| [waltz]({{ "tags/waltz" | relative_url }}) | <time datetime="2025-10-28T06:49:50.246Z">Tue Oct 28 2025 08:49:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [instrumental hip-hop]({{ "tags/instrumental-hip-hop" | relative_url }}) | <time datetime="2025-10-28T06:49:27.927Z">Tue Oct 28 2025 08:49:27 GMT+0200 (Eastern European Standard Time)</time> |
 | [darkwave]({{ "tags/darkwave" | relative_url }}) | <time datetime="2025-10-28T06:49:19.513Z">Tue Oct 28 2025 08:49:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [new age]({{ "tags/new-age" | relative_url }}) | <time datetime="2025-10-28T06:49:07.887Z">Tue Oct 28 2025 08:49:07 GMT+0200 (Eastern European Standard Time)</time> |
