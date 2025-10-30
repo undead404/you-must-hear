@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-23T08:44:57.485Z
+date: 2025-10-30T05:18:38.996Z
 permalink: tags/brazilian-pop
 title: brazilian pop
 ---
 
 ## brazilian pop
 
-Last updated: <time datetime="2025-10-23T08:44:57.485Z">Thu Oct 23 2025 11:44:57 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-10-30T05:18:38.996Z">Thu Oct 30 2025 07:18:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,11 +24,12 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Bf-qdYyqbbid5l9FSStTmGjNMhaVFFJJBirCjNsCP2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDkz/MDktMTYzNDAzNzc3/Ni05NDAzLmpwZWc.jpeg" alt="Cover for Zizi Possi" style="max-width:120px; height:auto;" />
       </td>
@@ -41,9 +42,13 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c6e564abc14c18732d8684089a55020.png" alt="Cover for Olhos felizes" style="max-width:120px; height:auto;" />
       </td>
@@ -55,6 +60,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -78,16 +87,9 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td>1983</td>
-      <td>Sérgio Mendes </td>
-      <td>Foursider</td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -104,6 +106,12 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 10</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -126,6 +134,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 38</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>35</td>
@@ -141,6 +154,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -161,6 +179,12 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 10</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 98</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>42</td>
@@ -176,6 +200,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -196,9 +225,34 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 25</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 50</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/XymkR5wgPazFSRRd_MTq8MAdJmnDVGn54HE6eFWCZZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDM2/NS0xMjY5ODg0NTI1/LmpwZWc.jpeg" alt="Cover for Mais" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Marisa Monte</td>
+      <td>Mais</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/EgeREQiCHDI_A_rkaqThiboIDOyUczn-CwjAzhzBTyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTUz/NDUtMTQ0ODkyMzQz/OC05OTk0LmpwZWc.jpeg" alt="Cover for Ao Vivo Daniela Mercury: Eletrodoméstico" style="max-width:120px; height:auto;" />
       </td>
@@ -212,18 +266,8 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>
-          <img src="https://i.discogs.com/XymkR5wgPazFSRRd_MTq8MAdJmnDVGn54HE6eFWCZZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDM2/NS0xMjY5ODg0NTI1/LmpwZWc.jpeg" alt="Cover for Mais" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Marisa Monte</td>
-      <td>Mais</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
         </ul>
       </td>
     </tr>
@@ -243,6 +287,12 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 74</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 93</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>47</td>
@@ -256,6 +306,32 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc61a91271bcac3857bff4a92949fab6.png" alt="Cover for Asa Morena" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Zizi Possi</td>
+      <td>Asa Morena</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -277,9 +353,14 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 39</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/90188df3d8cf5d4618c17c1848104dec.png" alt="Cover for Hey Na Na (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -294,9 +375,14 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 67</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/2OTrOsuZjnVM3Q8Cxgph1Z-gCmg6sIdqg6nba3ED1Uc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzI4/MzctMTUxNTM5MTY3/MC03NDc2LmpwZWc.jpeg" alt="Cover for 100% Kelly Key" style="max-width:120px; height:auto;" />
       </td>
@@ -310,6 +396,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -329,9 +419,14 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 11</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7db4702d5a9b48732cb64f9cfdd8bbc4.png" alt="Cover for Leoni" style="max-width:120px; height:auto;" />
       </td>
@@ -342,22 +437,8 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
         <ul>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-          <img src="https://i.discogs.com/eiUMGfzAslniVK7EDflgLfYREqxk9GOTkghTYl2vRhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg4/MzkzLTE1NjExNDE0/MDQtNzI4My5qcGVn.jpeg" alt="Cover for Só Sucessos Nº 1 (Ao Vivo)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>KLB</td>
-      <td>Só Sucessos Nº 1 (Ao Vivo)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
         </ul>
       </td>
     </tr>
@@ -380,6 +461,33 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/eiUMGfzAslniVK7EDflgLfYREqxk9GOTkghTYl2vRhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg4/MzkzLTE1NjExNDE0/MDQtNzI4My5qcGVn.jpeg" alt="Cover for Só Sucessos Nº 1 (Ao Vivo)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>KLB</td>
+      <td>Só Sucessos Nº 1 (Ao Vivo)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>63</td>
@@ -392,6 +500,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -407,6 +519,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -426,18 +543,8 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>
-          <img src="https://i.discogs.com/7GQV1yQjIkTtZEUC1Z4zIKI93KtC0E7B3tRtuX2eLN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Njk3/NTgtMTQzMDgzOTMz/Ni0xNTQ3LmpwZWc.jpeg" alt="Cover for Mpbsoulsambagroove" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Aleh</td>
-      <td>Mpbsoulsambagroove</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
         </ul>
       </td>
     </tr>
@@ -458,6 +565,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 40</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>88</td>
@@ -474,6 +586,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -499,6 +616,34 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 46</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 64</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 64</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 69</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 81</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/7GQV1yQjIkTtZEUC1Z4zIKI93KtC0E7B3tRtuX2eLN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Njk3/NTgtMTQzMDgzOTMz/Ni0xNTQ3LmpwZWc.jpeg" alt="Cover for Mpbsoulsambagroove" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Aleh</td>
+      <td>Mpbsoulsambagroove</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>62</td>
@@ -515,6 +660,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -536,6 +686,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>58</td>
@@ -551,9 +705,13 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/CmDPwz-H6GdGWiNAd367sr6EJjPoZm64K5Ra5mSmCtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzA5/MDUtMTQxMjg0MzQ4/Ny0zOTQ0LmpwZWc.jpeg" alt="Cover for Juliana Silveira Canta Floribella" style="max-width:120px; height:auto;" />
       </td>
@@ -564,6 +722,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -586,37 +749,8 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>
-          <img src="https://i.discogs.com/Pdj-pIt1V2qDYqlSEjFVnNmDGVWDL0pnKaOzUyiOrqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIw/NDE1LTE2MTY3NDEx/ODEtMzg3My5qcGVn.jpeg" alt="Cover for Pra Brilhar" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Kelly Key</td>
-      <td>Pra Brilhar</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
-      <td>
-          <img src="https://i.discogs.com/QugqxQLyYmgTpvVNkTDP2daA8ZHIzuHM3ShwV05B2jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzQ2/OTQtMTI2MjUzOTE3/Ny5qcGVn.jpeg" alt="Cover for Quarto" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Ana Carolina</td>
-      <td>Quarto</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
         </ul>
       </td>
     </tr>
@@ -638,6 +772,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 67</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>98</td>
@@ -657,15 +796,66 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 48</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 94</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/Pdj-pIt1V2qDYqlSEjFVnNmDGVWDL0pnKaOzUyiOrqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIw/NDE1LTE2MTY3NDEx/ODEtMzg3My5qcGVn.jpeg" alt="Cover for Pra Brilhar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Kelly Key</td>
+      <td>Pra Brilhar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/QugqxQLyYmgTpvVNkTDP2daA8ZHIzuHM3ShwV05B2jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzQ2/OTQtMTI2MjUzOTE3/Ny5qcGVn.jpeg" alt="Cover for Quarto" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Ana Carolina</td>
+      <td>Quarto</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c88711b6eb09b8a3f5bb56edc0c56cbf.png" alt="Cover for Companhia do Calypso, Vol. 01 (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Companhia do Calypso</td>
       <td>Companhia do Calypso, Vol. 01 (Ao Vivo)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -689,6 +879,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 52</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>9</td>
@@ -704,9 +899,13 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/0itYrIEW9xMj6hWkiflgxhkyVTtjvJce9RmgCWkBK1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTQw/Ni0xMTc5MjU0OTgx/LmpwZWc.jpeg" alt="Cover for Não Ache Que É por Mal" style="max-width:120px; height:auto;" />
       </td>
@@ -720,6 +919,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -739,6 +942,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>53</td>
@@ -756,15 +963,23 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/lXHHEHByDLRgTcpqbP7rlCvYC3EBFEZlyefUXk3q3WU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDQx/NTMtMTY5NDk4NjY3/My03ODgwLmpwZWc.jpeg" alt="Cover for Flores, Amores e Blablablá" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Marjorie Estiano</td>
       <td>Flores, Amores e Blablablá</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -785,9 +1000,13 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/_O-qx7Bk-dUharOXNG4RMbZ5Myp3lzWbSS2HePAmjb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzM3/NjItMTMxNDQ4NjMz/NC5qcGVn.jpeg" alt="Cover for Jorge Vercilo (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -801,6 +1020,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -824,9 +1048,14 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 56</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/VyuwlPStCHzzVZgWaYPm5QJUm4st2532SJl6YrHK8Mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTY3/NTctMTQ3MDQwMDI1/OS0zMjIwLmpwZWc.jpeg" alt="Cover for Mexeu comigo" style="max-width:120px; height:auto;" />
       </td>
@@ -842,9 +1071,13 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/SB-wrIC4pjDIzNkxHRpCGhtrz4YuNaFB_kWOLZwM9Bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzQ3/NDQtMTQ3MjU3NDQz/My03NzM1LmpwZWc.jpeg" alt="Cover for Trem Da Minha Vida" style="max-width:120px; height:auto;" />
       </td>
@@ -860,6 +1093,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -882,9 +1119,15 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 2</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 85</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37eddd0da8f7dee12484c8f00cb14d41.png" alt="Cover for Tudo É Permitido (Remasterizado)" style="max-width:120px; height:auto;" />
       </td>
@@ -898,9 +1141,15 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 14</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 51</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/dSyCjvuU6EcPNQsL5mqN5Gx1R_RZpL0g-QcUHHNj1Mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjEw/NDktMTUzNzk4ODc5/OC0xNDg5LmpwZWc.jpeg" alt="Cover for Simples Assim" style="max-width:120px; height:auto;" />
       </td>
@@ -914,6 +1163,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -933,9 +1187,13 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/cku748pfWeyNYEOMbQIA7yybhj54R9NvdFhS6APfWs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzEy/MDEtMTMwNzg4Nzg0/OS5qcGVn.jpeg" alt="Cover for Ainda Vibra" style="max-width:120px; height:auto;" />
       </td>
@@ -945,6 +1203,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -968,6 +1230,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 26</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>94</td>
@@ -984,6 +1251,13 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 36</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 41</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1004,9 +1278,16 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 38</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 43</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 91</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/BE_T5mpCCNWZPfSSpz9H5qqaqH4HAu45p2lfFKbqtoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjIx/NDUtMTQyODIyMTk2/My0yOTU3LmpwZWc.jpeg" alt="Cover for Até o Sol" style="max-width:120px; height:auto;" />
       </td>
@@ -1022,6 +1303,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>6</td>
@@ -1034,6 +1319,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1055,6 +1344,13 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 47</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 51</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 69</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>85</td>
@@ -1073,9 +1369,13 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/BN639TciwGz8d4H55J4NkqO3gJfLKbbf910Epf5q_zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzY1/NzAtMTQxNDQyOTc0/My01OTU5LmpwZWc.jpeg" alt="Cover for Esqueci Como Namora" style="max-width:120px; height:auto;" />
       </td>
@@ -1090,6 +1390,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1110,6 +1415,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 47</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>66</td>
@@ -1126,6 +1436,14 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 36</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 75</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 82</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1147,6 +1465,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 73</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>38</td>
@@ -1161,9 +1484,13 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/yJ5n-xnl3Z1deIE06VGj5YLxhIUATs3BUZUZ-Wc7PqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDI3/OTMtMTQzNDY2NTA1/OC0xMjE0LmpwZWc.jpeg" alt="Cover for Momentos" style="max-width:120px; height:auto;" />
       </td>
@@ -1178,9 +1505,14 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 32</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/nh--1oF4C24Lfum-Cx232kALrVikKMcXxkLgrOLgNHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzU2/MDMtMTQ0NDc5MjA1/MC0yNTI5LmpwZWc.jpeg" alt="Cover for Bang" style="max-width:120px; height:auto;" />
       </td>
@@ -1190,6 +1522,35 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/96Op493Xwj0WaIy7WPWVeqXNl0rYU0cDOh1A5M1NPEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODg5/NDktMTQ3OTY5MTAx/MC02MzI5LmpwZWc.jpeg" alt="Cover for Loka" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Simone &amp; Simaria</td>
+      <td>Loka</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 2</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 7</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1211,22 +1572,8 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>91</td>
-      <td>
-          <img src="https://i.discogs.com/96Op493Xwj0WaIy7WPWVeqXNl0rYU0cDOh1A5M1NPEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODg5/NDktMTQ3OTY5MTAx/MC02MzI5LmpwZWc.jpeg" alt="Cover for Loka" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016</td>
-      <td>Simone &amp; Simaria</td>
-      <td>Loka</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
     </tr>
@@ -1246,9 +1593,14 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 22</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/lujvuL7Nx16Q24zF5-szPKf7slsJ_amMtNmq_2wI7zc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM5/Mjc0LTE1NDEwMjY2/ODItOTkzMS5qcGVn.jpeg" alt="Cover for Tô Apaixonado Nessa Mina - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1264,6 +1616,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1282,6 +1639,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1303,22 +1664,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>56</td>
-      <td>
-          <img src="https://i.discogs.com/0xnU3S8lHVUWTChYXBVthJwjLMdhWVnJwQXaIudF4Hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTAy/NDE2LTE1ODM3NjIw/MjAtMTE1Ny5qcGVn.jpeg" alt="Cover for Hipnose" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-04-21</td>
-      <td>Manu Gavassi</td>
-      <td>Hipnose</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 15</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1340,6 +1689,33 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/0xnU3S8lHVUWTChYXBVthJwjLMdhWVnJwQXaIudF4Hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTAy/NDE2LTE1ODM3NjIw/MjAtMTE1Ny5qcGVn.jpeg" alt="Cover for Hipnose" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-04-21</td>
+      <td>Manu Gavassi</td>
+      <td>Hipnose</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>100</td>
@@ -1359,9 +1735,17 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 81</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 92</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 92</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/u2RBLuxuRktY4INCjwD2-AdDHaQnQ4Uovm_IzUsiCQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzcw/OTE4LTE1ODEzMDky/NDktMTEyOS5qcGVn.jpeg" alt="Cover for Br&#39;oz (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1373,9 +1757,13 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/2yuvKys3ZibLTS2yL-4bHa0MqWLDqWQ99rnektgxeT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQz/NzAzLTE2NDQ3Njg2/MjEtNjg3OS5qcGVn.jpeg" alt="Cover for Preciso Dizer que Te Amo" style="max-width:120px; height:auto;" />
       </td>
@@ -1390,6 +1778,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1412,6 +1805,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 60</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>57</td>
@@ -1432,9 +1830,14 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 65</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/FKJaqCl1UhQYV5l_Ya0a-TCdrM4iC1jn8L44Xstlxc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY5/MzI4LTE1OTkyOTQ2/OTMtMTUwMC5qcGVn.jpeg" alt="Cover for Aliança" style="max-width:120px; height:auto;" />
       </td>
@@ -1452,6 +1855,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 82</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>32</td>
@@ -1466,6 +1874,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1505,6 +1917,24 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 6</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 39</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 60</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 70</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 80</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 82</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 87</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 94</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 95</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 97</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 98</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>33</td>
@@ -1521,6 +1951,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1542,6 +1977,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 49</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>41</td>
@@ -1561,9 +2001,14 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 53</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/0EJ_nq9k1Shcj8cNfx7DYx74N2S3tipMZ5kobBW7OmU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc5/MTAwLTE2MjM5NjYx/OTItMjIwNy5qcGVn.jpeg" alt="Cover for Você Não Presta" style="max-width:120px; height:auto;" />
       </td>
@@ -1580,6 +2025,11 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1600,9 +2050,13 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/m2BVo746Yt5WtoWHJqylZQeptRu3rYg1IYZKAf6TCw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTIw/MDA4LTE2NTQ3OTI4/NDktMzM1MS5qcGVn.jpeg" alt="Cover for Alma Gêmea" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,9 +2073,14 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 37</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2023</td>
@@ -1630,6 +2089,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1646,9 +2109,57 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>75</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sandy e Junior</td>
+      <td>As Quatro Estações (Ao Vivo)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 4</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 10</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sandy e Junior</td>
+      <td>Acústico (Ao Vivo)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -1657,6 +2168,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1675,6 +2190,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>30</td>
@@ -1688,6 +2207,10 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1704,9 +2227,13 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td></td>
@@ -1721,9 +2248,13 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td></td>
@@ -1737,37 +2268,8 @@ Brazilian pop blends international pop sensibilities with Brazil&#39;s rich musi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>74</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Sandy e Junior</td>
-      <td>As Quatro Estações (Ao Vivo)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Sandy e Junior</td>
-      <td>Acústico (Ao Vivo)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
     </tr>

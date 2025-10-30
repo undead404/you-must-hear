@@ -9,110 +9,2308 @@ title: girl band
 
 Last updated: <time datetime="2025-10-28T05:00:37.975Z">Tue Oct 28 2025 07:00:37 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Girl band refers to pop music groups composed entirely or predominantly of female members, spanning diverse styles from vocal harmony groups to instrument-playing rock bands. The genre emerged from 1960s girl groups and evolved through manufactured pop acts of the 1990s-2000s to include contemporary J-pop idol units and self-contained bands. These acts typically blend catchy melodies with synchronized performances and strong visual presentation, often targeting youth audiences while showcasing female talent in the mainstream music industry.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 39 | ![Cover](https://i.discogs.com/g_rzgUoUNrEu4yrJiW6mYt7WteepYyt905toGDm-Qy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDI3/Mi0xMzY0Nzg3NzAx/LTkzODguanBlZw.jpeg) | 1977-07 | Scandal | YELLOW |
-| 46 |  | 1982-09 | Scandal | Scandal |
-| 6 |  | 1986 | Klymaxx | Klymaxx |
-| 5 |  | 1989-08-29 | Shakespear&#39;s Sister | Sacred Heart |
-| 31 | ![Cover](https://i.discogs.com/7rYjP8cCJyrfN0MD4oN4PEsxaNT_kFZhOJfr3xENwPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODcz/NTktMTYxNTE3MDc3/NS03MTk4LmpwZWc.jpeg) | 1993 | Girlfriend | 15 &#x2F; Hide &amp; Seek |
-| 24 | ![Cover](https://i.discogs.com/h-UXTFnHQMX8yNqaCMLbC2nSnRVzBUyEt6yS2zJnuiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODQx/NzgtMTQ4NzkzNzQw/NC00MjAzLnBuZw.jpeg) | 1995 | Perfume | Linear Motor Girl |
-| 43 |  | 2000-08-16 | All Saints | Saints &amp; Sinners |
-| 7 |  | 2005-06-08 | BENNIE K | Dreamland |
-| 28 |  | 2006-02-01 | AKB48 | 桜の花びらたち |
-| 49 |  | 2006-11-15 | チャットモンチー | シャングリラ |
-| 23 | ![Cover](https://i.discogs.com/Tt86IyhYgYxh0h7w-GR3pKc81zb9UmKdv6pK_T0Z3Es/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzMy/NTEtMTI4OTE2NjM2/NS5qcGVn.jpeg) | 2006-12-13 | HALCALI | Look |
-| 44 |  | 2008-01-16 | Perfume | Baby cruising Love &#x2F; マカロニ |
-| 11 | ![Cover](https://i.discogs.com/gucIGv9d9PDUBq2S_0aNTLH4Zg5YUxzybnwEl_2fImk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTE0/MzctMTMwODgwODQx/OC5qcGVn.jpeg) | 2009-06-17 | Scandal | 少女S |
-| 33 | ![Cover](https://i.discogs.com/ihe_ZIcoybXJWrshXVyC7Qj2NhG5wua61XBJgjuHTcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTE4/NDUtMTQ0NTEyMjkz/MC02MTEyLmpwZWc.jpeg) | 2009-10-28 | Kalafina | ring your bell |
-| 12 |  | 2010-04-21 | スフィア | REALOVE:REALIFE |
-| 20 |  | 2010-05-05 | ももいろクローバー | 行くぜっ!怪盗少女 |
-| 47 |  | 2010-10-20 | ClariS | irony |
-| 32 |  | 2011-03-09 | 9nine | SHINING☆STAR |
-| 1 | ![Cover](https://i.discogs.com/EIqvMFr82A-_fnP0DFxNtvbX7DpdmKVB7hBiGJdmCQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkw/MjEwLTE1MjQyMTAy/MTctNzExMi5qcGVn.jpeg) | 2011-04-13 | LISP | You May Dream |
-| 48 | ![Cover](https://i.discogs.com/649vJd-x5s5cl2bwC99UoiXZD6lm1jGICNjXUkPlO04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTMz/NjUtMTM1ODcwNzQw/MS00Mjk3LmpwZWc.jpeg) | 2011-08-03 | FictionJunction | stone cold |
-| 14 | ![Cover](https://i.discogs.com/sK-KHcndrGDEe9DHEi6L4rHfUS84QWKLIzpY3fj6YNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk2/NTExLTE2MzU2ODI1/OTYtMzI5My5qcGVn.jpeg) | 2011-08-17 | Tomato n&#39; Pine | なないろ☆ナミダ |
-| 21 |  | 2011-08-17 | RO-KYU-BU! | SHOOT! |
-| 34 |  | 2011-11-23 | ももいろクローバーZ | 労働讃歌 |
-| 30 |  | 2011-12-07 | AKB48 | 上からマリコ |
-| 19 |  | 2012-01-25 | Larval Stage Planning | Trip -Innocent of D- |
-| 2 | ![Cover](https://i.discogs.com/AENdaLG-dRVAz1p4-EzHI1XgmBEZRvenln_rBn_LatE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTM4/NzctMTM1MTk2MDM2/MC0yMTcxLmpwZWc.jpeg) | 2012-05-16 | StylipS | MIRACLE RUSH |
-| 50 |  | 2012-06-27 | ももいろクローバーZ | Z女戦争 |
-| 38 |  | 2012-08-01 | 桃黒亭一門 | ニッポン笑顔百景 |
-| 9 | ![Cover](https://i.discogs.com/d4Fb9E9W267uN6hKSXISNkE-563mFFbkp2hFqN0_LgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODYw/ODAtMTM4OTYyMjA2/OS04MzY5LmpwZWc.jpeg) | 2013-10-02 | tricot | KABUKU EP |
-| 8 | ![Cover](https://i.discogs.com/R1Q7URedmshrz0Mq9Ym7DEuJXoVw2T8ShJsvkPBle4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgx/MjEwLTE1MDc2MDgy/MTMtNDMyMC5qcGVn.jpeg) | 2014-01-22 | Flower | Flower |
-| 25 |  | 2014-01-29 | ClariS | CLICK |
-| 36 |  | 2014-04-23 | Scandal | Departure |
-| 37 | ![Cover](https://i.discogs.com/RYH1YZ2jaV6dOMkqkhGz1gTa_KjYlWeIVAMrtFXw2F0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTg4/MDItMTUyMTUxNDQ5/My0zMDM1LmpwZWc.jpeg) | 2015-03-27 | Bish | Brand-new idol SHiT |
-| 35 | ![Cover](https://i.discogs.com/NnctrizOfKvCxJZYnyGeD769Jd7KSBTKai0UltOuDok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjM3/NDQtMTQ2NDExNjA1/NC05OTE3LmpwZWc.jpeg) | 2016-05-24 | FAKY | Candy |
-| 4 | ![Cover](https://i.discogs.com/mPsnhcw643BHdIq9dAllB2tr0GtNw9i8TdErKWbx6to/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODIw/NzM2LTE2MzU4NDE2/NTAtMzc3MS5qcGVn.jpeg) | 2016-08-03 | i☆Ris | Realize! |
-| 17 |  |  | Wake Up, May&#39;n! | One In A Billion |
-| 75 | ![Cover](https://i.discogs.com/AON418UTJBaZ4s3mqiTjJu0qw5di-jTIdIp9xbv4Awg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDM4/MzYtMTMxMDQxMTE5/NS5qcGVn.jpeg) | 1962 | The Marvelettes | Playboy |
-| 64 |  | 1963 | The Chiffons | One Fine Day |
-| 53 | ![Cover](https://i.discogs.com/g_rzgUoUNrEu4yrJiW6mYt7WteepYyt905toGDm-Qy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDI3/Mi0xMzY0Nzg3NzAx/LTkzODguanBlZw.jpeg) | 1977-07 | Scandal | HONEY |
-| 72 | ![Cover](https://i.discogs.com/ULzci6jzrr0tyXjvWFQUzcqKm0rmYj5mYsZIe__JIL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjEx/NjAtMTI2OTcyMDA1/My5qcGVn.jpeg) | 1995 | Perfume | Computer City |
-| 81 | ![Cover](https://i.discogs.com/up8u8S2VfIcx7K4m-hKMUg3N-Epd_CaY2EpgLazm8dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDgw/NjgtMTI3ODY0MTAy/NS5qcGVn.jpeg) | 1996 | Perfume | 不自然なガール&#x2F;ナチュラルに恋して |
-| 67 | ![Cover](https://i.discogs.com/PKMZNqgYIed3utLSfU9b5aF9tBd5wdGkKFAzlUtPSf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Mzk3/My0xMTQ2Njk2Mjg0/LmpwZWc.jpeg) | 1996-08-15 | Bright | Bright |
-| 100 | ![Cover](https://i.discogs.com/RYH1YZ2jaV6dOMkqkhGz1gTa_KjYlWeIVAMrtFXw2F0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTg4/MDItMTUyMTUxNDQ5/My0zMDM1LmpwZWc.jpeg) | 2001 | Bish | PAiNT it BLACK |
-| 70 |  | 2001-03-12 | No Angels | Elle&#39;Ments |
-| 65 | ![Cover](https://i.discogs.com/t3Tx3aI5kGeZIBD5i84yFAdZdX_9gnRFEUrT5zHsxv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjY0/NC0xMjk1NDc1ODUx/LmpwZWc.jpeg) | 2002-03-05 | M2M | The Big Room |
-| 83 |  | 2002-12-16 | Girls Aloud | Sound of the Underground |
-| 82 |  | 2004-03-17 | Perfume | モノクロームエフェクト |
-| 85 |  | 2004-09-08 | Perfume | ビタミンドロップ |
-| 95 | ![Cover](https://i.discogs.com/ZJ6xR0dPp_T9N-P1f5qtAdYgM0Z7aM-wSDIEG5mHMys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDQy/MS0xMTYwNDk4OTUw/LmpwZWc.jpeg) | 2005-12-05 | Girls Aloud | Chemistry |
-| 51 |  | 2006 | Yo Majesty | Yo EP |
-| 89 |  | 2009-03-25 | Perfume | ワンルーム・ディスコ |
-| 60 | ![Cover](https://i.discogs.com/zRKahYmAypM1Wl2HNy5o0jTbhDebeyXsE8PzIF1XSfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTAy/OTM5LTE1NzU4NDgw/OTMtNjA5OS5qcGVn.jpeg) | 2010-03-26 | S.H.E | SHERO |
-| 69 | ![Cover](https://i.discogs.com/g_ecRUAsn_FQiggzJvshgrD0kIm5ehaFKdPWxWnXH4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTE5/MDMtMTQ0NTEyNDQ0/Ni0yMzgxLmpwZWc.jpeg) | 2010-09-15 | Kalafina | 輝く空の静寂には |
-| 96 |  | 2010-11-10 | Perfume | ねぇ |
-| 74 |  | 2011-11-09 | SKE48 | オキドキ |
-| 59 |  | 2012-02-01 | ClariS | ナイショの話 |
-| 77 | ![Cover](https://i.discogs.com/nLH5IfVoAFUZFZlOFElA4o3I8EBEdJU24oRuYB6MGuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzg1/MjU1LTE2MzAyNTkw/NzItNzcwNS5qcGVn.jpeg) | 2012-02-15 | AKB48 | 次の足跡 Type A &lt;初回限定盤&gt; |
-| 68 |  | 2012-02-22 | Scandal | Harukaze |
-| 87 |  | 2012-03-06 | Scandal | Scandal Show |
-| 90 |  | 2012-04-18 | Kalafina | to the beginning |
-| 55 |  | 2012-10-24 | Kalafina | ひかりふる |
-| 52 |  | 2012-11-21 | ももいろクローバーZ | サラバ、愛しき悲しみたちよ |
-| 63 |  | 2013-01-01 | JKT48 | RIVER |
-| 66 |  | 2013-06-26 | ClariS | Second Story |
-| 54 |  | 2013-10-02 | Scandal | STANDARD |
-| 61 |  | 2013-10-25 | ClariS | カラフル |
-| 56 | ![Cover](https://i.discogs.com/aHUeJzIjUAeWceK4dT_kh1HJcK1s2w5lOtmDdYuiD3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTky/MTA5LTE2MzQyNDc2/OTktNjk5Ny5qcGVn.jpeg) | 2014-05-28 | Petit Rabbit&#39;s | Daydream café |
-| 62 |  | 2014-08-06 | Kalafina | heavenly blue |
-| 57 |  | 2014-12-03 | Scandal | HELLO WORLD |
-| 73 | ![Cover](https://i.discogs.com/vHpzMxjoN5vhISedHA7LzCA57IQRz6ITXarZyePyie4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjY3/NzMtMTQ1NDUwNDA1/Mi0xOTQxLmpwZWc.jpeg) | 2016-02-03 | FEMM | PoW! &#x2F; L.C.S. |
-| 98 | ![Cover](https://i.discogs.com/fhv769wjmIPXCzQqI14W9JqZqu9oNn41U93SxZwgUu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcx/MTc5LTE1NDE2MjEy/MTMtNDU2Ny5qcGVn.jpeg) | 2016-03-02 | SHISHAMO | SHISHAMO 3 |
-| 84 | ![Cover](https://i.discogs.com/3bQh0yvkY39dEtjkQPrQfSkS1vv79lK1FDyO4F3nQII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Mzk5/ODUtMTQ2MzY1NjMw/Ni0zNTcxLmpwZWc.jpeg) | 2016-05-18 | BAND-MAID | Brand New MAID |
-| 18 | ![Cover](https://i.discogs.com/cce76wsK9uDpOeF9Opihw8Km2AabBMaWWdu3hvuojjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk1/ODI5LTE2MDMzNTYx/ODItNjYzMy5qcGVn.jpeg) | 2016-06-29 | FEMM | Neon Twilight &#x2F; Countdown |
-| 97 | ![Cover](https://i.discogs.com/LQ15nCFqAB6KVXB5HA7ZhQtaShjMq3HK43LnK2Cp3AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzEw/MTItMTM5MTcxOTY5/NC0yMzA2LmpwZWc.jpeg) | 2017 | Little Mix | Between Us (The Mixers Edition) |
-| 93 | ![Cover](https://i.discogs.com/psHYz7WYO2_Ebwk5kblCoW2W-GTQcBlafZSn5C_Tzg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTk3/MDctMTQ5MTg1NjI2/OC0zNDQ3LmpwZWc.jpeg) | 2017-01-17 | BAND-MAID | New Beginning |
-| 79 | ![Cover](https://i.discogs.com/NIkecIWX-fhf-49Q8ioWI_oHIncdFfan-U_ATAwVXN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/NzAxLTE2MjM0OTcx/ODctMTA2NC5qcGVn.jpeg) | 2017-03-01 | Silent Siren | フジヤマディスコ |
-| 58 | ![Cover](https://i.discogs.com/01jTh1XBFD5dzQh_XNguISnw5oBMdYkVZ_hCZIxknD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE2/MjM3LTE0OTUyMDYy/MzgtNDIwNS5qcGVn.jpeg) | 2017-05-17 | tricot | E |
-| 71 | ![Cover](https://i.discogs.com/fU4gWrQJGpd8215coLZNxwy_b2J7d8WZ1HJdeGiQruM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODQ2/MzQwLTE2MjE3Njkz/MzItNTM1My5qcGVn.jpeg) | 2018-08-01 | Aqours | Thank you, FRIENDS!! |
-| 76 |  |  | ももいろクローバー | ミライボウル |
-| 13 | ![Cover](https://i.discogs.com/QNgPm1Klajn1Wq1Sy11YQIvL-JlIezzwLzh86GkdOPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEw/OTQzLTE1NDI0MDE3/MDItODA4NC5qcGVn.jpeg) | 2017 | Silent Siren | GIRLS POWER |
-| 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3609a64415d7abc324efaf5edfcbe8b0.png) | 2017-01-17 | BAND-MAID | JUST BRING IT |
-| 29 | ![Cover](https://i.discogs.com/ezoyJtECRFMn9Eeq2XRurjfOdNTDd3R24WdeHhE_wa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTg3/NzUtMTQ4ODE2NDA0/MS0zMDQ3LmpwZWc.jpeg) | 2017-02-22 | NECRONOMIDOL | DEATHLESS |
-| 92 | ![Cover](https://i.discogs.com/lWcpAJwjgT7PB9GRAk0wdOnN3Nsf-JlRdyTpoPLLdvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/NjY4LTE0OTc1NjY2/ODctODg1OS5qcGVn.jpeg) | 2017-02-22 | SHISHAMO | SHISHAMO 4 |
-| 41 | ![Cover](https://i.discogs.com/tILH2hUy3_IIorvxNQkoWDVw258faAzoOt2xJ7P1iKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjI5/Mjk0LTE2MzQ1MTUz/MDktMzkzNy5qcGVn.jpeg) | 2017-04-26 | ClariS | ヒトリゴト |
-| 42 | ![Cover](https://i.discogs.com/01jTh1XBFD5dzQh_XNguISnw5oBMdYkVZ_hCZIxknD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE2/MjM3LTE0OTUyMDYy/MzgtNDIwNS5qcGVn.jpeg) | 2017-05-17 | tricot | 3 |
-| 22 | ![Cover](https://i.discogs.com/hVQgDwJyn2QuLIhqczSHJOgbuw1USPeNKndj_8ozxnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTUz/NjcyLTE2MTk5MzI1/MjUtNDgyNi5qcGVn.jpeg) | 2017-09-20 | Poppin&#39;Party | Time Lapse |
-| 15 | ![Cover](https://i.discogs.com/ysPQFGXA-E35iqesXrySwrh-cgwRUgBBupV2I-oBo0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDA0/NDAxLTE1NDYyNzUz/MDktNjgyOC5qcGVn.jpeg) | 2018 | Kalafina | Kalafina All Time Best 2008-2018 |
-| 78 | ![Cover](https://i.discogs.com/Obafq96cL--RF4DhE2GPEqHXRwsF2nqL1EA1Y9UvJqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc0/NzEyLTE1Mzk4MTAy/ODMtMzA4OS5qcGVn.jpeg) | 2018 | Little Glee Monster | juice |
-| 99 | ![Cover](https://i.discogs.com/HdQsqbKUWlGhPZTeI4WWDnolIki-87Ah6D0-0PxrOmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU1/MTY4LTE2MzUzNzU2/ODItMTAzOC5qcGVn.jpeg) | 2018-02-14 | BAND-MAID | Daydreaming&#x2F;Choose Me |
-| 16 | ![Cover](https://i.discogs.com/2LBqu37iMCXBl99fWFOQYsWxBzn6ucgWlWuajVevJNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA5/NzIwLTE1NDM2NDkx/MDItMzMxNC5qcGVn.jpeg) | 2018-04-25 | Homecomings | Songbirds |
-| 45 | ![Cover](https://i.discogs.com/r635Bwr-fkgCohS3uhFELqzSrsPhyYroIYIPY7JjyyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE5/OTA0LTE1NDg0MTU2/NTQtMzQzNy5qcGVn.jpeg) | 2018-06-20 | SHISHAMO | SHISHAMO 5 |
-| 94 | ![Cover](https://i.discogs.com/nI_hD3u1AsTHWPBuDHWIUxsl4nh_RupDeMmFW8rjT9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NTIxLTE1MzI5OTAw/NTktOTg5NC5qcGVn.jpeg) | 2018-07-25 | BAND-MAID | Start Over |
-| 26 | ![Cover](https://i.discogs.com/DPZUttDPqfU-y_rn2qVTwXRwXqtiEykvGCXpTiRDos8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQ5/ODE1LTE1NTA3MTE5/MjAtNTE2NS5qcGVn.jpeg) | 2018-10-24 | Homecomings | WHALE LIVING |
-| 10 |  | 2019-04-24 | SHISHAMO | OH! |
-| 80 | ![Cover](https://i.discogs.com/h6sTo4LwmqHI9BO9BBlh0lmV0QBOUj3NqxURcXqfXHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU5/MDgwLTE1NjcwMjk4/NTYtOTI3Mi5qcGVn.jpeg) | 2019-08-21 | chelmico | Fishing |
-| 3 | ![Cover](https://i.discogs.com/22wFfWhJ0GFrN8bYJnal5PI_FEOaCynAZthd-CtQ8-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc2/MDY5LTE1ODEzNjAy/NTMtMjkzNi5qcGVn.jpeg) | 2020-01-29 | SHISHAMO | SHISHAMO BEST |
-| 27 | ![Cover](https://i.discogs.com/MmcCv5jbENcAPrtpMwad-HU0RD2vbgtTozCYbs3Wrbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODU3/NTgtMTQ4MTQwMDky/MC04MTg3LmpwZWc.jpeg) | 2021-10-27 | BAND-MAID | YOLO |
-| 40 | ![Cover](https://i.discogs.com/qPzaAXlT37b57on1s8cBNJCmKHy43YzdE7DWSAww6jY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTAy/MTU3LTE1Nzc5MTY2/NTMtMjQwMS53ZWJw.jpeg) | 2022-04-06 | Trysail | TAILWIND |
-| 86 | ![Cover](https://i.discogs.com/HdQsqbKUWlGhPZTeI4WWDnolIki-87Ah6D0-0PxrOmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU1/MTY4LTE2MzUzNzU2/ODItMTAzOC5qcGVn.jpeg) | 2023-08-04 | BAND-MAID | Bubble |
-| 91 |  |  | The Mary Jane Girls | Only Four You |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/AON418UTJBaZ4s3mqiTjJu0qw5di-jTIdIp9xbv4Awg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDM4/MzYtMTMxMDQxMTE5/NS5qcGVn.jpeg" alt="Cover for Playboy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1962</td>
+      <td>The Marvelettes</td>
+      <td>Playboy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/motown" | relative_url }}">motown</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>1963</td>
+      <td>The Chiffons</td>
+      <td>One Fine Day</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/g_rzgUoUNrEu4yrJiW6mYt7WteepYyt905toGDm-Qy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDI3/Mi0xMzY0Nzg3NzAx/LTkzODguanBlZw.jpeg" alt="Cover for HONEY" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977-07</td>
+      <td>Scandal</td>
+      <td>HONEY</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/g_rzgUoUNrEu4yrJiW6mYt7WteepYyt905toGDm-Qy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDI3/Mi0xMzY0Nzg3NzAx/LTkzODguanBlZw.jpeg" alt="Cover for YELLOW" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977-07</td>
+      <td>Scandal</td>
+      <td>YELLOW</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td>1982-09</td>
+      <td>Scandal</td>
+      <td>Scandal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>1986</td>
+      <td>Klymaxx</td>
+      <td>Klymaxx</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>1989-08-29</td>
+      <td>Shakespear&#39;s Sister</td>
+      <td>Sacred Heart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/7rYjP8cCJyrfN0MD4oN4PEsxaNT_kFZhOJfr3xENwPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODcz/NTktMTYxNTE3MDc3/NS03MTk4LmpwZWc.jpeg" alt="Cover for 15 &#x2F; Hide &amp; Seek" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Girlfriend</td>
+      <td>15 &#x2F; Hide &amp; Seek</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/h-UXTFnHQMX8yNqaCMLbC2nSnRVzBUyEt6yS2zJnuiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODQx/NzgtMTQ4NzkzNzQw/NC00MjAzLnBuZw.jpeg" alt="Cover for Linear Motor Girl" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Perfume</td>
+      <td>Linear Motor Girl</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/ULzci6jzrr0tyXjvWFQUzcqKm0rmYj5mYsZIe__JIL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjEx/NjAtMTI2OTcyMDA1/My5qcGVn.jpeg" alt="Cover for Computer City" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Perfume</td>
+      <td>Computer City</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/up8u8S2VfIcx7K4m-hKMUg3N-Epd_CaY2EpgLazm8dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDgw/NjgtMTI3ODY0MTAy/NS5qcGVn.jpeg" alt="Cover for 不自然なガール&#x2F;ナチュラルに恋して" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Perfume</td>
+      <td>不自然なガール&#x2F;ナチュラルに恋して</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/PKMZNqgYIed3utLSfU9b5aF9tBd5wdGkKFAzlUtPSf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Mzk3/My0xMTQ2Njk2Mjg0/LmpwZWc.jpeg" alt="Cover for Bright" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-08-15</td>
+      <td>Bright</td>
+      <td>Bright</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>2000-08-16</td>
+      <td>All Saints</td>
+      <td>Saints &amp; Sinners</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/RYH1YZ2jaV6dOMkqkhGz1gTa_KjYlWeIVAMrtFXw2F0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTg4/MDItMTUyMTUxNDQ5/My0zMDM1LmpwZWc.jpeg" alt="Cover for PAiNT it BLACK" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Bish</td>
+      <td>PAiNT it BLACK</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 65</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 66</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 91</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td>2001-03-12</td>
+      <td>No Angels</td>
+      <td>Elle&#39;Ments</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europop" | relative_url }}">europop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/t3Tx3aI5kGeZIBD5i84yFAdZdX_9gnRFEUrT5zHsxv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjY0/NC0xMjk1NDc1ODUx/LmpwZWc.jpeg" alt="Cover for The Big Room" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-03-05</td>
+      <td>M2M</td>
+      <td>The Big Room</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>2002-12-16</td>
+      <td>Girls Aloud</td>
+      <td>Sound of the Underground</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 62</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 68</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2004-03-17</td>
+      <td>Perfume</td>
+      <td>モノクロームエフェクト</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>2004-09-08</td>
+      <td>Perfume</td>
+      <td>ビタミンドロップ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>2005-06-08</td>
+      <td>BENNIE K</td>
+      <td>Dreamland</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/ZJ6xR0dPp_T9N-P1f5qtAdYgM0Z7aM-wSDIEG5mHMys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDQy/MS0xMTYwNDk4OTUw/LmpwZWc.jpeg" alt="Cover for Chemistry" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-12-05</td>
+      <td>Girls Aloud</td>
+      <td>Chemistry</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 40</li>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Yo Majesty</td>
+      <td>Yo EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td>2006-02-01</td>
+      <td>AKB48</td>
+      <td>桜の花びらたち</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td>2006-11-15</td>
+      <td>チャットモンチー</td>
+      <td>シャングリラ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/Tt86IyhYgYxh0h7w-GR3pKc81zb9UmKdv6pK_T0Z3Es/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzMy/NTEtMTI4OTE2NjM2/NS5qcGVn.jpeg" alt="Cover for Look" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-12-13</td>
+      <td>HALCALI</td>
+      <td>Look</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+      </td>
+      <td>2008-01-16</td>
+      <td>Perfume</td>
+      <td>Baby cruising Love &#x2F; マカロニ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td>2009-03-25</td>
+      <td>Perfume</td>
+      <td>ワンルーム・ディスコ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 22</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 23</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/gucIGv9d9PDUBq2S_0aNTLH4Zg5YUxzybnwEl_2fImk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTE0/MzctMTMwODgwODQx/OC5qcGVn.jpeg" alt="Cover for 少女S" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-06-17</td>
+      <td>Scandal</td>
+      <td>少女S</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/ihe_ZIcoybXJWrshXVyC7Qj2NhG5wua61XBJgjuHTcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTE4/NDUtMTQ0NTEyMjkz/MC02MTEyLmpwZWc.jpeg" alt="Cover for ring your bell" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-10-28</td>
+      <td>Kalafina</td>
+      <td>ring your bell</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/zRKahYmAypM1Wl2HNy5o0jTbhDebeyXsE8PzIF1XSfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTAy/OTM5LTE1NzU4NDgw/OTMtNjA5OS5qcGVn.jpeg" alt="Cover for SHERO" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-03-26</td>
+      <td>S.H.E</td>
+      <td>SHERO</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 91</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td>2010-04-21</td>
+      <td>スフィア</td>
+      <td>REALOVE:REALIFE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>2010-05-05</td>
+      <td>ももいろクローバー</td>
+      <td>行くぜっ!怪盗少女</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/g_ecRUAsn_FQiggzJvshgrD0kIm5ehaFKdPWxWnXH4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTE5/MDMtMTQ0NTEyNDQ0/Ni0yMzgxLmpwZWc.jpeg" alt="Cover for 輝く空の静寂には" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-09-15</td>
+      <td>Kalafina</td>
+      <td>輝く空の静寂には</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>2010-10-20</td>
+      <td>ClariS</td>
+      <td>irony</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>2010-11-10</td>
+      <td>Perfume</td>
+      <td>ねぇ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 50</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 51</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>2011-03-09</td>
+      <td>9nine</td>
+      <td>SHINING☆STAR</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/EIqvMFr82A-_fnP0DFxNtvbX7DpdmKVB7hBiGJdmCQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkw/MjEwLTE1MjQyMTAy/MTctNzExMi5qcGVn.jpeg" alt="Cover for You May Dream" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-04-13</td>
+      <td>LISP</td>
+      <td>You May Dream</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/649vJd-x5s5cl2bwC99UoiXZD6lm1jGICNjXUkPlO04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTMz/NjUtMTM1ODcwNzQw/MS00Mjk3LmpwZWc.jpeg" alt="Cover for stone cold" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-08-03</td>
+      <td>FictionJunction</td>
+      <td>stone cold</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/sK-KHcndrGDEe9DHEi6L4rHfUS84QWKLIzpY3fj6YNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk2/NTExLTE2MzU2ODI1/OTYtMzI5My5qcGVn.jpeg" alt="Cover for なないろ☆ナミダ" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-08-17</td>
+      <td>Tomato n&#39; Pine</td>
+      <td>なないろ☆ナミダ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 35</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td>2011-08-17</td>
+      <td>RO-KYU-BU!</td>
+      <td>SHOOT!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>2011-11-09</td>
+      <td>SKE48</td>
+      <td>オキドキ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td>2011-11-23</td>
+      <td>ももいろクローバーZ</td>
+      <td>労働讃歌</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td>2011-12-07</td>
+      <td>AKB48</td>
+      <td>上からマリコ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td>2012-01-25</td>
+      <td>Larval Stage Planning</td>
+      <td>Trip -Innocent of D-</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2012-02-01</td>
+      <td>ClariS</td>
+      <td>ナイショの話</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/nLH5IfVoAFUZFZlOFElA4o3I8EBEdJU24oRuYB6MGuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzg1/MjU1LTE2MzAyNTkw/NzItNzcwNS5qcGVn.jpeg" alt="Cover for 次の足跡 Type A &lt;初回限定盤&gt;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-02-15</td>
+      <td>AKB48</td>
+      <td>次の足跡 Type A &lt;初回限定盤&gt;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td>2012-02-22</td>
+      <td>Scandal</td>
+      <td>Harukaze</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 77</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>2012-03-06</td>
+      <td>Scandal</td>
+      <td>Scandal Show</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>2012-04-18</td>
+      <td>Kalafina</td>
+      <td>to the beginning</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/AENdaLG-dRVAz1p4-EzHI1XgmBEZRvenln_rBn_LatE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTM4/NzctMTM1MTk2MDM2/MC0yMTcxLmpwZWc.jpeg" alt="Cover for MIRACLE RUSH" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-05-16</td>
+      <td>StylipS</td>
+      <td>MIRACLE RUSH</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td>2012-06-27</td>
+      <td>ももいろクローバーZ</td>
+      <td>Z女戦争</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>2012-08-01</td>
+      <td>桃黒亭一門</td>
+      <td>ニッポン笑顔百景</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td>2012-10-24</td>
+      <td>Kalafina</td>
+      <td>ひかりふる</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td>2012-11-21</td>
+      <td>ももいろクローバーZ</td>
+      <td>サラバ、愛しき悲しみたちよ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td>2013-01-01</td>
+      <td>JKT48</td>
+      <td>RIVER</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a> # 94</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>2013-06-26</td>
+      <td>ClariS</td>
+      <td>Second Story</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>2013-10-02</td>
+      <td>Scandal</td>
+      <td>STANDARD</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/d4Fb9E9W267uN6hKSXISNkE-563mFFbkp2hFqN0_LgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODYw/ODAtMTM4OTYyMjA2/OS04MzY5LmpwZWc.jpeg" alt="Cover for KABUKU EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-10-02</td>
+      <td>tricot</td>
+      <td>KABUKU EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>2013-10-25</td>
+      <td>ClariS</td>
+      <td>カラフル</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/R1Q7URedmshrz0Mq9Ym7DEuJXoVw2T8ShJsvkPBle4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgx/MjEwLTE1MDc2MDgy/MTMtNDMyMC5qcGVn.jpeg" alt="Cover for Flower" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-01-22</td>
+      <td>Flower</td>
+      <td>Flower</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td>2014-01-29</td>
+      <td>ClariS</td>
+      <td>CLICK</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td>2014-04-23</td>
+      <td>Scandal</td>
+      <td>Departure</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/aHUeJzIjUAeWceK4dT_kh1HJcK1s2w5lOtmDdYuiD3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTky/MTA5LTE2MzQyNDc2/OTktNjk5Ny5qcGVn.jpeg" alt="Cover for Daydream café" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-05-28</td>
+      <td>Petit Rabbit&#39;s</td>
+      <td>Daydream café</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2014-08-06</td>
+      <td>Kalafina</td>
+      <td>heavenly blue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>2014-12-03</td>
+      <td>Scandal</td>
+      <td>HELLO WORLD</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/RYH1YZ2jaV6dOMkqkhGz1gTa_KjYlWeIVAMrtFXw2F0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTg4/MDItMTUyMTUxNDQ5/My0zMDM1LmpwZWc.jpeg" alt="Cover for Brand-new idol SHiT" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-03-27</td>
+      <td>Bish</td>
+      <td>Brand-new idol SHiT</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/vHpzMxjoN5vhISedHA7LzCA57IQRz6ITXarZyePyie4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjY3/NzMtMTQ1NDUwNDA1/Mi0xOTQxLmpwZWc.jpeg" alt="Cover for PoW! &#x2F; L.C.S." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-02-03</td>
+      <td>FEMM</td>
+      <td>PoW! &#x2F; L.C.S.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/fhv769wjmIPXCzQqI14W9JqZqu9oNn41U93SxZwgUu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcx/MTc5LTE1NDE2MjEy/MTMtNDU2Ny5qcGVn.jpeg" alt="Cover for SHISHAMO 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-03-02</td>
+      <td>SHISHAMO</td>
+      <td>SHISHAMO 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 18</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 30</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 68</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/3bQh0yvkY39dEtjkQPrQfSkS1vv79lK1FDyO4F3nQII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Mzk5/ODUtMTQ2MzY1NjMw/Ni0zNTcxLmpwZWc.jpeg" alt="Cover for Brand New MAID" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-05-18</td>
+      <td>BAND-MAID</td>
+      <td>Brand New MAID</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/NnctrizOfKvCxJZYnyGeD769Jd7KSBTKai0UltOuDok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjM3/NDQtMTQ2NDExNjA1/NC05OTE3LmpwZWc.jpeg" alt="Cover for Candy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-05-24</td>
+      <td>FAKY</td>
+      <td>Candy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/cce76wsK9uDpOeF9Opihw8Km2AabBMaWWdu3hvuojjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk1/ODI5LTE2MDMzNTYx/ODItNjYzMy5qcGVn.jpeg" alt="Cover for Neon Twilight &#x2F; Countdown" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-06-29</td>
+      <td>FEMM</td>
+      <td>Neon Twilight &#x2F; Countdown</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/mPsnhcw643BHdIq9dAllB2tr0GtNw9i8TdErKWbx6to/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODIw/NzM2LTE2MzU4NDE2/NTAtMzc3MS5qcGVn.jpeg" alt="Cover for Realize!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-08-03</td>
+      <td>i☆Ris</td>
+      <td>Realize!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/LQ15nCFqAB6KVXB5HA7ZhQtaShjMq3HK43LnK2Cp3AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzEw/MTItMTM5MTcxOTY5/NC0yMzA2LmpwZWc.jpeg" alt="Cover for Between Us (The Mixers Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Little Mix</td>
+      <td>Between Us (The Mixers Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/QNgPm1Klajn1Wq1Sy11YQIvL-JlIezzwLzh86GkdOPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEw/OTQzLTE1NDI0MDE3/MDItODA4NC5qcGVn.jpeg" alt="Cover for GIRLS POWER" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Silent Siren</td>
+      <td>GIRLS POWER</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3609a64415d7abc324efaf5edfcbe8b0.png" alt="Cover for JUST BRING IT" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-01-17</td>
+      <td>BAND-MAID</td>
+      <td>JUST BRING IT</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/psHYz7WYO2_Ebwk5kblCoW2W-GTQcBlafZSn5C_Tzg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTk3/MDctMTQ5MTg1NjI2/OC0zNDQ3LmpwZWc.jpeg" alt="Cover for New Beginning" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-01-17</td>
+      <td>BAND-MAID</td>
+      <td>New Beginning</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 28</li>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/ezoyJtECRFMn9Eeq2XRurjfOdNTDd3R24WdeHhE_wa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTg3/NzUtMTQ4ODE2NDA0/MS0zMDQ3LmpwZWc.jpeg" alt="Cover for DEATHLESS" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-02-22</td>
+      <td>NECRONOMIDOL</td>
+      <td>DEATHLESS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/lWcpAJwjgT7PB9GRAk0wdOnN3Nsf-JlRdyTpoPLLdvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/NjY4LTE0OTc1NjY2/ODctODg1OS5qcGVn.jpeg" alt="Cover for SHISHAMO 4" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-02-22</td>
+      <td>SHISHAMO</td>
+      <td>SHISHAMO 4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/NIkecIWX-fhf-49Q8ioWI_oHIncdFfan-U_ATAwVXN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEy/NzAxLTE2MjM0OTcx/ODctMTA2NC5qcGVn.jpeg" alt="Cover for フジヤマディスコ" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-03-01</td>
+      <td>Silent Siren</td>
+      <td>フジヤマディスコ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/tILH2hUy3_IIorvxNQkoWDVw258faAzoOt2xJ7P1iKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjI5/Mjk0LTE2MzQ1MTUz/MDktMzkzNy5qcGVn.jpeg" alt="Cover for ヒトリゴト" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-04-26</td>
+      <td>ClariS</td>
+      <td>ヒトリゴト</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/01jTh1XBFD5dzQh_XNguISnw5oBMdYkVZ_hCZIxknD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE2/MjM3LTE0OTUyMDYy/MzgtNDIwNS5qcGVn.jpeg" alt="Cover for 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-05-17</td>
+      <td>tricot</td>
+      <td>3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/01jTh1XBFD5dzQh_XNguISnw5oBMdYkVZ_hCZIxknD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE2/MjM3LTE0OTUyMDYy/MzgtNDIwNS5qcGVn.jpeg" alt="Cover for E" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-05-17</td>
+      <td>tricot</td>
+      <td>E</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/hVQgDwJyn2QuLIhqczSHJOgbuw1USPeNKndj_8ozxnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTUz/NjcyLTE2MTk5MzI1/MjUtNDgyNi5qcGVn.jpeg" alt="Cover for Time Lapse" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-09-20</td>
+      <td>Poppin&#39;Party</td>
+      <td>Time Lapse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/Obafq96cL--RF4DhE2GPEqHXRwsF2nqL1EA1Y9UvJqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc0/NzEyLTE1Mzk4MTAy/ODMtMzA4OS5qcGVn.jpeg" alt="Cover for juice" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Little Glee Monster</td>
+      <td>juice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/ysPQFGXA-E35iqesXrySwrh-cgwRUgBBupV2I-oBo0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDA0/NDAxLTE1NDYyNzUz/MDktNjgyOC5qcGVn.jpeg" alt="Cover for Kalafina All Time Best 2008-2018" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Kalafina</td>
+      <td>Kalafina All Time Best 2008-2018</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/HdQsqbKUWlGhPZTeI4WWDnolIki-87Ah6D0-0PxrOmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU1/MTY4LTE2MzUzNzU2/ODItMTAzOC5qcGVn.jpeg" alt="Cover for Daydreaming&#x2F;Choose Me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-02-14</td>
+      <td>BAND-MAID</td>
+      <td>Daydreaming&#x2F;Choose Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 30</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 41</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 75</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/2LBqu37iMCXBl99fWFOQYsWxBzn6ucgWlWuajVevJNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA5/NzIwLTE1NDM2NDkx/MDItMzMxNC5qcGVn.jpeg" alt="Cover for Songbirds" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-04-25</td>
+      <td>Homecomings</td>
+      <td>Songbirds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/r635Bwr-fkgCohS3uhFELqzSrsPhyYroIYIPY7JjyyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE5/OTA0LTE1NDg0MTU2/NTQtMzQzNy5qcGVn.jpeg" alt="Cover for SHISHAMO 5" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-06-20</td>
+      <td>SHISHAMO</td>
+      <td>SHISHAMO 5</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/nI_hD3u1AsTHWPBuDHWIUxsl4nh_RupDeMmFW8rjT9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NTIxLTE1MzI5OTAw/NTktOTg5NC5qcGVn.jpeg" alt="Cover for Start Over" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-07-25</td>
+      <td>BAND-MAID</td>
+      <td>Start Over</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 30</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/fU4gWrQJGpd8215coLZNxwy_b2J7d8WZ1HJdeGiQruM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODQ2/MzQwLTE2MjE3Njkz/MzItNTM1My5qcGVn.jpeg" alt="Cover for Thank you, FRIENDS!!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-01</td>
+      <td>Aqours</td>
+      <td>Thank you, FRIENDS!!</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/DPZUttDPqfU-y_rn2qVTwXRwXqtiEykvGCXpTiRDos8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQ5/ODE1LTE1NTA3MTE5/MjAtNTE2NS5qcGVn.jpeg" alt="Cover for WHALE LIVING" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-24</td>
+      <td>Homecomings</td>
+      <td>WHALE LIVING</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td>2019-04-24</td>
+      <td>SHISHAMO</td>
+      <td>OH!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/h6sTo4LwmqHI9BO9BBlh0lmV0QBOUj3NqxURcXqfXHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU5/MDgwLTE1NjcwMjk4/NTYtOTI3Mi5qcGVn.jpeg" alt="Cover for Fishing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-08-21</td>
+      <td>chelmico</td>
+      <td>Fishing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/22wFfWhJ0GFrN8bYJnal5PI_FEOaCynAZthd-CtQ8-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc2/MDY5LTE1ODEzNjAy/NTMtMjkzNi5qcGVn.jpeg" alt="Cover for SHISHAMO BEST" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-01-29</td>
+      <td>SHISHAMO</td>
+      <td>SHISHAMO BEST</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/MmcCv5jbENcAPrtpMwad-HU0RD2vbgtTozCYbs3Wrbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODU3/NTgtMTQ4MTQwMDky/MC04MTg3LmpwZWc.jpeg" alt="Cover for YOLO" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-10-27</td>
+      <td>BAND-MAID</td>
+      <td>YOLO</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/qPzaAXlT37b57on1s8cBNJCmKHy43YzdE7DWSAww6jY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTAy/MTU3LTE1Nzc5MTY2/NTMtMjQwMS53ZWJw.jpeg" alt="Cover for TAILWIND" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-04-06</td>
+      <td>Trysail</td>
+      <td>TAILWIND</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/HdQsqbKUWlGhPZTeI4WWDnolIki-87Ah6D0-0PxrOmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU1/MTY4LTE2MzUzNzU2/ODItMTAzOC5qcGVn.jpeg" alt="Cover for Bubble" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-08-04</td>
+      <td>BAND-MAID</td>
+      <td>Bubble</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td></td>
+      <td>ももいろクローバー</td>
+      <td>ミライボウル</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idol" | relative_url }}">idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Mary Jane Girls</td>
+      <td>Only Four You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Wake Up, May&#39;n!</td>
+      <td>One In A Billion</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

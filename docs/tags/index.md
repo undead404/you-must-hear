@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-10-30T03:40:21.461Z
+date: 2025-10-30T05:18:38.996Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-30T05:18:38.996Z">Thu Oct 30 2025 07:18:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [brazilian pop]({{ "tags/brazilian-pop" | relative_url }}) | <time datetime="2025-10-30T05:18:38.996Z">Thu Oct 30 2025 07:18:38 GMT+0200 (Eastern European Standard Time)</time> |
+| [vocal trance]({{ "tags/vocal-trance" | relative_url }}) | <time datetime="2025-10-30T05:05:52.924Z">Thu Oct 30 2025 07:05:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [southern metal]({{ "tags/southern-metal" | relative_url }}) | <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [tolkien]({{ "tags/tolkien" | relative_url }}) | <time datetime="2025-10-30T03:07:39.596Z">Thu Oct 30 2025 05:07:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [dark folk]({{ "tags/dark-folk" | relative_url }}) | <time datetime="2025-10-30T03:05:39.923Z">Thu Oct 30 2025 05:05:39 GMT+0200 (Eastern European Standard Time)</time> |
@@ -790,7 +792,6 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
 | [space ambient]({{ "tags/space-ambient" | relative_url }}) | <time datetime="2025-10-23T08:58:41.970Z">Thu Oct 23 2025 11:58:41 GMT+0300 (Eastern European Summer Time)</time> |
 | [norway]({{ "tags/norway" | relative_url }}) | <time datetime="2025-10-23T08:58:33.793Z">Thu Oct 23 2025 11:58:33 GMT+0300 (Eastern European Summer Time)</time> |
 | [progressive metal]({{ "tags/progressive-metal" | relative_url }}) | <time datetime="2025-10-23T08:54:44.211Z">Thu Oct 23 2025 11:54:44 GMT+0300 (Eastern European Summer Time)</time> |
-| [brazilian pop]({{ "tags/brazilian-pop" | relative_url }}) | <time datetime="2025-10-23T08:44:57.485Z">Thu Oct 23 2025 11:44:57 GMT+0300 (Eastern European Summer Time)</time> |
 | [composer]({{ "tags/composer" | relative_url }}) | <time datetime="2025-10-23T08:43:39.176Z">Thu Oct 23 2025 11:43:39 GMT+0300 (Eastern European Summer Time)</time> |
 | [san francisco]({{ "tags/san-francisco" | relative_url }}) | <time datetime="2025-10-23T08:41:41.260Z">Thu Oct 23 2025 11:41:41 GMT+0300 (Eastern European Summer Time)</time> |
 | [downtempo]({{ "tags/downtempo" | relative_url }}) | <time datetime="2025-10-23T08:40:20.047Z">Thu Oct 23 2025 11:40:20 GMT+0300 (Eastern European Summer Time)</time> |
@@ -1298,7 +1299,6 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
 | [atmospheric drum and bass]({{ "tags/atmospheric-drum-and-bass" | relative_url }}) | <time datetime="2025-10-18T11:53:07.843Z">Sat Oct 18 2025 14:53:07 GMT+0300 (Eastern European Summer Time)</time> |
 | [classic country]({{ "tags/classic-country" | relative_url }}) | <time datetime="2025-10-18T11:53:05.505Z">Sat Oct 18 2025 14:53:05 GMT+0300 (Eastern European Summer Time)</time> |
 | [footwork]({{ "tags/footwork" | relative_url }}) | <time datetime="2025-10-18T11:53:01.182Z">Sat Oct 18 2025 14:53:01 GMT+0300 (Eastern European Summer Time)</time> |
-| [vocal trance]({{ "tags/vocal-trance" | relative_url }}) | <time datetime="2025-10-18T11:52:27.262Z">Sat Oct 18 2025 14:52:27 GMT+0300 (Eastern European Summer Time)</time> |
 | [girlgroup]({{ "tags/girlgroup" | relative_url }}) | <time datetime="2025-10-18T10:15:12.460Z">Sat Oct 18 2025 13:15:12 GMT+0300 (Eastern European Summer Time)</time> |
 | [chillstep]({{ "tags/chillstep" | relative_url }}) | <time datetime="2025-10-18T10:14:31.174Z">Sat Oct 18 2025 13:14:31 GMT+0300 (Eastern European Summer Time)</time> |
 | [cuba]({{ "tags/cuba" | relative_url }}) | <time datetime="2025-10-18T10:13:55.977Z">Sat Oct 18 2025 13:13:55 GMT+0300 (Eastern European Summer Time)</time> |
