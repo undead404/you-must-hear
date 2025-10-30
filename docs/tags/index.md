@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-10-29T21:14:40.671Z
+date: 2025-10-29T22:24:00.726Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-29T21:14:40.671Z">Wed Oct 29 2025 23:14:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [english]({{ "tags/english" | relative_url }}) | <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00 GMT+0200 (Eastern European Standard Time)</time> |
+| [classical violin]({{ "tags/classical-violin" | relative_url }}) | <time datetime="2025-10-29T21:48:39.577Z">Wed Oct 29 2025 23:48:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [brazil]({{ "tags/brazil" | relative_url }}) | <time datetime="2025-10-29T21:14:40.671Z">Wed Oct 29 2025 23:14:40 GMT+0200 (Eastern European Standard Time)</time> |
 | [baritone]({{ "tags/baritone" | relative_url }}) | <time datetime="2025-10-29T20:46:39.423Z">Wed Oct 29 2025 22:46:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [italian opera]({{ "tags/italian-opera" | relative_url }}) | <time datetime="2025-10-29T20:31:47.394Z">Wed Oct 29 2025 22:31:47 GMT+0200 (Eastern European Standard Time)</time> |
@@ -161,13 +163,11 @@ Last updated: <time datetime="2025-10-29T21:14:40.671Z">Wed Oct 29 2025 23:14:40
 | [stoner doom]({{ "tags/stoner-doom" | relative_url }}) | <time datetime="2025-10-28T22:37:33.952Z">Wed Oct 29 2025 00:37:33 GMT+0200 (Eastern European Standard Time)</time> |
 | [england]({{ "tags/england" | relative_url }}) | <time datetime="2025-10-28T22:37:20.624Z">Wed Oct 29 2025 00:37:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [chanson]({{ "tags/chanson" | relative_url }}) | <time datetime="2025-10-28T22:36:55.238Z">Wed Oct 29 2025 00:36:55 GMT+0200 (Eastern European Standard Time)</time> |
-| [english]({{ "tags/english" | relative_url }}) | <time datetime="2025-10-28T22:36:13.456Z">Wed Oct 29 2025 00:36:13 GMT+0200 (Eastern European Standard Time)</time> |
 | [eai]({{ "tags/eai" | relative_url }}) | <time datetime="2025-10-28T22:36:06.237Z">Wed Oct 29 2025 00:36:06 GMT+0200 (Eastern European Standard Time)</time> |
 | [chicago]({{ "tags/chicago" | relative_url }}) | <time datetime="2025-10-28T22:35:35.507Z">Wed Oct 29 2025 00:35:35 GMT+0200 (Eastern European Standard Time)</time> |
 | [suomisaundi]({{ "tags/suomisaundi" | relative_url }}) | <time datetime="2025-10-28T22:35:21.112Z">Wed Oct 29 2025 00:35:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [art punk]({{ "tags/art-punk" | relative_url }}) | <time datetime="2025-10-28T22:35:09.030Z">Wed Oct 29 2025 00:35:09 GMT+0200 (Eastern European Standard Time)</time> |
 | [alternative folk]({{ "tags/alternative-folk" | relative_url }}) | <time datetime="2025-10-28T22:35:03.239Z">Wed Oct 29 2025 00:35:03 GMT+0200 (Eastern European Standard Time)</time> |
-| [classical violin]({{ "tags/classical-violin" | relative_url }}) | <time datetime="2025-10-28T22:17:46.975Z">Wed Oct 29 2025 00:17:46 GMT+0200 (Eastern European Standard Time)</time> |
 | [album rock]({{ "tags/album-rock" | relative_url }}) | <time datetime="2025-10-28T22:17:41.658Z">Wed Oct 29 2025 00:17:41 GMT+0200 (Eastern European Standard Time)</time> |
 | [vaporwave]({{ "tags/vaporwave" | relative_url }}) | <time datetime="2025-10-28T22:17:37.453Z">Wed Oct 29 2025 00:17:37 GMT+0200 (Eastern European Standard Time)</time> |
 | [clavecin]({{ "tags/clavecin" | relative_url }}) | <time datetime="2025-10-28T22:17:19.948Z">Wed Oct 29 2025 00:17:19 GMT+0200 (Eastern European Standard Time)</time> |
