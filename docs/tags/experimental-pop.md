@@ -9,6 +9,10 @@ title: experimental pop
 
 Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Experimental pop blends accessible pop melodies with unconventional production techniques, unusual structures, and avant-garde influences. It emerged as artists sought to challenge mainstream pop conventions while maintaining catchy hooks and emotional resonance. The genre embraces sonic experimentation through electronic manipulation, sampling, and genre-crossing approaches that push pop music&#39;s boundaries.
+
 ### 100 chronological releases
 
 <table>
@@ -20,6 +24,7 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
@@ -41,6 +46,12 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 37</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 84</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>8</td>
@@ -52,6 +63,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -68,6 +83,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -87,6 +106,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -109,6 +132,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>38</td>
@@ -121,6 +148,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -142,6 +173,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 10</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>96</td>
@@ -159,6 +195,12 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 52</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 71</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>64</td>
@@ -174,6 +216,18 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 20</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 22</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 24</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 28</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 48</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 87</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 92</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 95</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>43</td>
@@ -186,6 +240,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -206,6 +265,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 42</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>41</td>
@@ -221,6 +285,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -239,6 +307,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 51</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>58</td>
@@ -247,6 +320,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
       <td>2004-11-22</td>
       <td>Montag</td>
       <td>Alone, Not Alone</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -264,6 +341,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -286,6 +367,12 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 36</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 49</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>54</td>
@@ -301,6 +388,18 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
             <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 37</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 43</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 45</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 52</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 61</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 63</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 88</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -320,6 +419,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 62</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>75</td>
@@ -335,6 +439,12 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 15</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 86</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>26</td>
@@ -348,6 +458,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 17</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>72</td>
@@ -359,6 +474,15 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 28</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 30</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 57</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 59</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -376,6 +500,16 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 6</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 7</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 9</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 87</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 88</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 91</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>56</td>
@@ -390,6 +524,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -415,6 +554,14 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 34</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 57</li>
+            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 63</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 68</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>59</td>
@@ -429,6 +576,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -464,6 +616,12 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 26</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 71</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>39</td>
@@ -477,6 +635,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -497,6 +659,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -520,6 +687,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>99</td>
@@ -535,6 +706,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 75</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>23</td>
@@ -547,6 +723,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -571,6 +751,14 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 30</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 35</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 74</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 86</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>7</td>
@@ -587,6 +775,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>33</td>
@@ -601,6 +793,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>87</td>
@@ -612,6 +808,14 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
       <td>Clothes, Friends, Photos EP</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 39</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 42</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 96</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -628,6 +832,12 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 43</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 73</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>89</td>
@@ -640,6 +850,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -666,6 +881,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 33</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>44</td>
@@ -687,6 +907,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -713,6 +938,13 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 2</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 51</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 98</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>21</td>
@@ -725,6 +957,13 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
             <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 80</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -740,6 +979,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 24</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>78</td>
@@ -752,6 +996,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -771,6 +1019,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 83</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>65</td>
@@ -782,6 +1035,12 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 56</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -797,6 +1056,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>28</td>
@@ -808,6 +1071,15 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 3</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 5</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 7</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 59</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -831,6 +1103,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -859,6 +1136,12 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 14</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -892,6 +1175,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>95</td>
@@ -911,6 +1198,14 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 45</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 73</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 95</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>84</td>
@@ -925,6 +1220,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>98</td>
@@ -937,6 +1236,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -958,6 +1262,14 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 1</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 19</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 91</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 98</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>60</td>
@@ -977,6 +1289,12 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 81</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 92</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>10</td>
@@ -989,6 +1307,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1005,6 +1327,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1025,6 +1352,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>86</td>
@@ -1043,6 +1374,14 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 25</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 28</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 92</li>
+            <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>3</td>
@@ -1059,6 +1398,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>35</td>
@@ -1070,6 +1413,12 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 30</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1085,6 +1434,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viola-da-gamba" | relative_url }}">viola da gamba</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/viola-da-gamba" | relative_url }}">viola da gamba</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1103,6 +1457,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>61</td>
@@ -1117,6 +1475,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
             <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1135,6 +1498,13 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 16</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 99</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>92</td>
@@ -1147,6 +1517,12 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 57</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1167,6 +1543,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>55</td>
@@ -1179,6 +1559,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1195,6 +1579,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1217,6 +1606,12 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 49</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 78</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>57</td>
@@ -1233,6 +1628,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 44</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>24</td>
@@ -1246,7 +1646,16 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 57 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 16</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 42</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 68</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 76</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1269,6 +1678,12 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 15</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 31</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>31</td>
@@ -1283,6 +1698,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1300,6 +1719,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>69</td>
@@ -1314,6 +1737,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1333,6 +1760,15 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 55</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 60</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 76</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 96</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>16</td>
@@ -1345,6 +1781,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1360,6 +1800,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1378,6 +1822,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 17</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>36</td>
@@ -1393,6 +1842,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>25</td>
@@ -1405,6 +1858,13 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 13</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 18</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1431,6 +1891,15 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 3</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 26</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 38</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 67</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 94</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>5</td>
@@ -1442,6 +1911,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
       <td>Hi, How Are You? (The Unfinished Album)</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1464,6 +1938,12 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 75</li>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 76</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>27</td>
@@ -1478,6 +1958,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1504,6 +1988,13 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 22</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 54</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 80</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>29</td>
@@ -1527,6 +2018,14 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 11</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 21</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 60</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 83</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>77</td>
@@ -1540,6 +2039,12 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 34</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 73</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>51</td>
@@ -1549,6 +2054,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
       <td>2023-06-09</td>
       <td>Christine and the Queens</td>
       <td>PARANOÏA, ANGELS, TRUE LOVE</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1568,6 +2077,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>94</td>
@@ -1582,6 +2095,10 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1636,6 +2153,14 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 43</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 46</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 67</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 84</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>76</td>
@@ -1650,6 +2175,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1670,6 +2200,11 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1697,6 +2232,12 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 7</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 33</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>62</td>
@@ -1720,20 +2261,27 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 38</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 71</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
-      <td>Momus and John Henriksson</td>
-      <td>The Thunderclown</td>
+      <td>Ten Second Songs</td>
+      <td>Ten Second Songs, Vol. 1</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1753,14 +2301,29 @@ Last updated: <time datetime="2025-10-29T18:28:32.581Z">Wed Oct 29 2025 20:28:32
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 4</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 63</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 68</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
-      <td>Ten Second Songs</td>
-      <td>Ten Second Songs, Vol. 1</td>
+      <td>Momus and John Henriksson</td>
+      <td>The Thunderclown</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>

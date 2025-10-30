@@ -20,6 +20,7 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
@@ -34,6 +35,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -51,6 +56,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>57</td>
@@ -64,6 +73,29 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13b583543c2c4149a618ccb83118b680.png" alt="Cover for The Most Ancient Ones" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Hate Forest</td>
+      <td>The Most Ancient Ones</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -81,18 +113,8 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>93</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13b583543c2c4149a618ccb83118b680.png" alt="Cover for The Most Ancient Ones" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Hate Forest</td>
-      <td>The Most Ancient Ones</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
         </ul>
       </td>
     </tr>
@@ -111,6 +133,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>72</td>
@@ -122,6 +148,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -140,6 +170,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>90</td>
@@ -152,6 +186,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -167,6 +205,11 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
             <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -185,6 +228,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>29</td>
@@ -194,6 +241,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
       <td>2004</td>
       <td>Kroda</td>
       <td>Поплач мені, Річко...</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -213,6 +264,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>52</td>
@@ -226,6 +281,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -243,6 +302,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>95</td>
@@ -258,6 +321,11 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 38</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>67</td>
@@ -269,6 +337,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -287,6 +359,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>79</td>
@@ -303,6 +379,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>50</td>
@@ -316,6 +396,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -334,6 +418,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>75</td>
@@ -348,6 +436,11 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -366,6 +459,11 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 21</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>68</td>
@@ -381,6 +479,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>88</td>
@@ -394,6 +496,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -413,6 +519,13 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 61</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 63</li>
+            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 84</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>17</td>
@@ -428,6 +541,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -446,6 +563,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>34</td>
@@ -459,6 +580,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -478,6 +603,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>44</td>
@@ -493,6 +622,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -513,6 +646,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>56</td>
@@ -524,6 +661,11 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/epic-black-metal" | relative_url }}">epic black metal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -542,6 +684,11 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 5</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>21</td>
@@ -554,6 +701,11 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -571,6 +723,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>80</td>
@@ -583,6 +739,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -606,6 +766,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>13</td>
@@ -624,6 +788,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>25</td>
@@ -636,6 +804,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -652,6 +824,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>64</td>
@@ -665,6 +841,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -683,6 +863,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>82</td>
@@ -699,6 +883,11 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 36</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>74</td>
@@ -711,6 +900,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -729,6 +922,11 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 56</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>97</td>
@@ -741,6 +939,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -759,6 +961,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>54</td>
@@ -773,6 +979,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -790,6 +1000,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>100</td>
@@ -801,6 +1015,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -819,6 +1037,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>66</td>
@@ -833,6 +1055,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -857,6 +1083,12 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 20</li>
+            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 21</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>71</td>
@@ -874,6 +1106,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>99</td>
@@ -889,6 +1125,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>77</td>
@@ -901,6 +1141,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -919,6 +1163,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>53</td>
@@ -934,6 +1182,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>58</td>
@@ -946,6 +1198,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -964,6 +1220,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>85</td>
@@ -977,6 +1237,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -993,6 +1257,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1012,6 +1280,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>14</td>
@@ -1029,6 +1301,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>89</td>
@@ -1043,6 +1319,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>81</td>
@@ -1055,6 +1335,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1074,6 +1358,11 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blackened-speed-metal" | relative_url }}">blackened speed metal</a> # 7</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>41</td>
@@ -1090,6 +1379,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>15</td>
@@ -1099,6 +1392,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
       <td>2024-02-12</td>
       <td>До Скону</td>
       <td>Pour out Your wrath upon the nations which do not know You, And upon the kingdoms which do not call upon Your name</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1120,6 +1417,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>94</td>
@@ -1133,6 +1434,33 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0ab20b94f5ad99e51e7cb1418d10011.png" alt="Cover for When the Darkness Comes" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Ieschure</td>
+      <td>When the Darkness Comes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 29</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1152,6 +1480,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>3</td>
@@ -1167,6 +1499,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1186,6 +1522,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>8</td>
@@ -1199,6 +1539,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1217,6 +1561,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>10</td>
@@ -1231,6 +1579,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1248,6 +1600,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>16</td>
@@ -1261,6 +1617,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1278,6 +1638,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>22</td>
@@ -1291,6 +1655,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1309,6 +1677,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>24</td>
@@ -1322,6 +1694,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1339,6 +1715,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>27</td>
@@ -1352,6 +1732,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1368,6 +1752,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>30</td>
@@ -1381,6 +1769,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1399,6 +1791,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>32</td>
@@ -1414,6 +1810,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>35</td>
@@ -1427,6 +1827,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1445,6 +1849,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>38</td>
@@ -1458,6 +1866,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1476,6 +1888,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>43</td>
@@ -1489,6 +1905,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1506,6 +1926,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>46</td>
@@ -1521,6 +1945,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>65</td>
@@ -1534,6 +1962,10 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1552,21 +1984,8 @@ Last updated: <time datetime="2025-10-25T09:36:50.577Z">Sat Oct 25 2025 12:36:50
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0ab20b94f5ad99e51e7cb1418d10011.png" alt="Cover for When the Darkness Comes" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Ieschure</td>
-      <td>When the Darkness Comes</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
         </ul>
       </td>
     </tr>
