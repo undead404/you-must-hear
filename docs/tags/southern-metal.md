@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T03:22:39.378Z
+date: 2025-10-30T03:40:21.461Z
 permalink: tags/southern-metal
 title: southern metal
 ---
 
 ## southern metal
 
-Last updated: <time datetime="2025-10-30T03:22:39.378Z">Thu Oct 30 2025 05:22:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -1708,8 +1708,8 @@ Last updated: <time datetime="2025-10-30T03:22:39.378Z">Thu Oct 30 2025 05:22:39
       <td>
       </td>
       <td></td>
-      <td>Rescue The Beards!</td>
-      <td>Ship And Whores</td>
+      <td>Truman Highway</td>
+      <td>Demo</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>

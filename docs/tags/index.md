@@ -1,19 +1,19 @@
 ---
 category: list
-date: 2025-10-30T03:22:39.378Z
+date: 2025-10-30T03:40:21.461Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-30T03:22:39.378Z">Thu Oct 30 2025 05:22:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
-| [southern metal]({{ "tags/southern-metal" | relative_url }}) | <time datetime="2025-10-30T03:22:39.378Z">Thu Oct 30 2025 05:22:39 GMT+0200 (Eastern European Standard Time)</time> |
+| [southern metal]({{ "tags/southern-metal" | relative_url }}) | <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21 GMT+0200 (Eastern European Standard Time)</time> |
 | [tolkien]({{ "tags/tolkien" | relative_url }}) | <time datetime="2025-10-30T03:07:39.596Z">Thu Oct 30 2025 05:07:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [dark folk]({{ "tags/dark-folk" | relative_url }}) | <time datetime="2025-10-30T03:05:39.923Z">Thu Oct 30 2025 05:05:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [post-hardcore]({{ "tags/post-hardcore" | relative_url }}) | <time datetime="2025-10-30T02:52:39.539Z">Thu Oct 30 2025 04:52:39 GMT+0200 (Eastern European Standard Time)</time> |
