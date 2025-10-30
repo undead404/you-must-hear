@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T03:40:39.117Z
+date: 2025-10-30T10:13:42.041Z
 permalink: tags/hard-rock
 title: hard rock
 ---
 
 ## hard rock
 
-Last updated: <time datetime="2025-10-29T03:40:39.117Z">Wed Oct 29 2025 05:40:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-30T10:13:42.041Z">Thu Oct 30 2025 12:13:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -15,108 +15,1954 @@ Hard rock emerged in the late 1960s as a louder, more aggressive evolution of bl
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/79eb7925a57079641e698093417efde7.png) | 1969-10-22 | Led Zeppelin | Led Zeppelin II |
-| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e88b3980787c4714b79c3cab44986595.png) | 1970-09-18 | Black Sabbath | Paranoid |
-| 61 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5e2a475a147617de03a3d442f0ca582a.png) | 1970-10-05 | Led Zeppelin | Led Zeppelin III |
-| 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1e6f99756d0342f891d3233ac1283d21.png) | 1971-11-08 | Led Zeppelin | Led Zeppelin IV |
-| 66 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b8312163dbe33d694881bae9676b9fbe.png) | 1973-01-05 | Aerosmith | Aerosmith |
-| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/47e89fde1ce6442a995f6b0364bf8a5f.png) | 1973-03-28 | Led Zeppelin | Houses of the Holy |
-| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5bef877b7563e13a4218da382b86fe7a.png) | 1975 | Queen | A Night At The Opera (2011 Remaster) |
-| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ff5cf55743376cffbc4462761667d600.png) | 1975 | Rainbow | Ritchie Blackmore&#39;s Rainbow |
-| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d0a7049748eb25a46fee9c65116d9417.png) | 1975-02-24 | Led Zeppelin | Physical Graffiti |
-| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c1099b17639dca0718ff7250d14038a9.png) | 1975-03-19 | Kiss | Dressed To Kill |
-| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f9e9632ca1da6116f2b6e5f70ae9e7df.png) | 1975-04-08 | Aerosmith | Toys in the Attic |
-| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/de361a68c39e4468c4df73fb3c8ae178.png) | 1975-11-21 | Queen | Hot Space (2011 Remaster) |
-| 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a15e773a42182a7acfe62701d247e297.png) | 1975-11-21 | Queen | A Night at the Opera |
-| 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6316048824a018ae418888793cda30a6.png) | 1976 | The Runaways | The Runaways |
-| 58 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/591095f2549b4d9bbde16f471fa76e83.png) | 1976-05-14 | AC&#x2F;DC | High Voltage |
-| 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b785009dbb0e6ce488d0a8f74d313f31.png) | 1976-05-21 | Blue Öyster Cult | Agents of Fortune |
-| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/081d6f833385d2623c7d733e4fb0e181.png) | 1976-06-21 | Rainbow | Rising |
-| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c542b6837d884641b975201bb516a576.png) | 1977-03-21 | AC&#x2F;DC | Let There Be Rock |
-| 17 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6682a933a9814d48bf1307e7a99cd655.png) | 1978-11-10 | Queen | Jazz |
-| 82 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/abb9d954f36443fac33266710e8b0a07.png) | 1979-05-23 | Kiss | Dynasty |
-| 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3d359b955132742bc2fc3eacdff90b8c.png) | 1980-07-25 | AC&#x2F;DC | Back in Black |
-| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/edffad5a943a8de26c41781a80c359d5.png) | 1981 | Blue Öyster Cult | Fire of Unknown Origin |
-| 37 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bf1ee2653fc79d3c8e2f4964be2494be.png) | 1982 | Scorpions | Blackout |
-| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/20a4ef1646deb935e07c19c89159008d.png) | 1982-02 | Van Halen | Van Halen (Remastered) |
-| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7cea19bc24304cfd893b8f2977b3f8c1.png) | 1983-03-23 | ZZ Top | Eliminator |
-| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8f50b1c9969117ece285fb598c289e95.png) | 1984-01-09 | Van Halen | 1984 |
-| 69 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d76166a09b9d4ce2cce5170853dea6cb.png) | 1984-02 | Scorpions | Love at First Sting |
-| 28 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bfb6710021a3d62efa9d1b0aece2a27c.png) | 1984-05-10 | Twisted Sister | Stay Hungry |
-| 19 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bef4ab0424dc4457c4e2062d6e7a6a4d.png) | 1986-05-12 | AC&#x2F;DC | Who Made Who |
-| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f06a6447e11b26670be85467bdd39ce5.png) | 1986-08-10 | Bon Jovi | Slippery When Wet |
-| 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eed51418bdbc41bc9aa959de2d65dd5d.png) | 1987-07-21 | Guns N&#39; Roses | Appetite for Destruction |
-| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/29a61cf1f995f6ec3beb63e0a1d7ca2a.png) | 1987-11-23 | Def Leppard | Hysteria |
-| 9 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8900b4a78b4e42ada13d36a310cade49.png) | 1988-08-30 | Danzig | Danzig |
-| 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/baa6e8bbd781e62003bb485ce4e0e395.png) | 1988-11-30 | Guns N&#39; Roses | G N&#39; R Lies |
-| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6609008553e8255590eeb03eb4147a72.png) | 1989 | Queen | News of the World (2011 Remaster) |
-| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ecaeedac1ae0aa5eb00173abb86afa74.png) | 1989-01-24 | Skid Row | Skid Row |
-| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/87e7a85ab7fe4cecb5f497a4c09895f9.png) | 1989-07-25 | Alice Cooper | Trash |
-| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6c248d8c89564a34ca4c3dfa70c1e9e8.png) | 1989-09-01 | Mötley Crüe | Dr. Feelgood |
-| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0698a59a0b874793a11d3f081b14d48a.png) | 1990-08-28 | Alice in Chains | Facelift |
-| 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/98390dad3bf6d7a28294106da6941e19.png) | 1990-09-21 | AC&#x2F;DC | The Razors Edge |
-| 68 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/470b934e8cd26ed4d4e1f819b7f7014f.png) | 1990-11-06 | Scorpions | Crazy World |
-| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d6a960e23328230e5e203007b7690cde.png) | 1991-08-12 | Metallica | Metallica |
-| 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3f426c9970df50f6eeeace38e6d9d33a.png) | 1991-09-16 | Guns N&#39; Roses | Use Your Illusion I |
-| 85 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1b0fa568a161253b78ffb06750388ef1.png) | 1991-09-17 | Guns N&#39; Roses | Use Your Illusion II |
-| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5429eee7b4c447e09c844bd5003386c6.png) | 1992 | AC&#x2F;DC | Dirty Deeds Done Dirt Cheap |
-| 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/36081c7e1d61e653830c888c553e10ca.png) | 1992-10-07 | Bon Jovi | Keep The Faith |
-| 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7af8e0ab43294405c42eb95480f25c9a.png) | 1992-10-08 | AC&#x2F;DC | Highway to Hell |
-| 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8ea12fabf8454ffeb59e4e651e115331.png) | 1993-04-20 | Aerosmith | Get a Grip |
-| 71 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d5d89fd2535b34b05341f0e425c4f31b.png) | 1995 | Van Halen | 1984 (Remastered) |
-| 84 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c32d240ba59d4491ba5ce25939cba1ab.png) | 1996-05-04 | Metallica | Load |
-| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2dddbd3ec3a526120431181eeeab02ce.png) | 1997-11-15 | Metallica | Reload |
-| 63 | ![Cover](https://i.discogs.com/MkJYphyUmXuCAJM37YHOAFKbwqFBqYrDmSktgpW9UO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MTUtMTMwNDAwNDY1/MS5qcGVn.jpeg) | 1998 | AC&#x2F;DC | Razor&#39;s Edge |
-| 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4568f2d377c743d3c318056d5cfb303a.png) | 1998-08-25 | Godsmack | Godsmack |
-| 67 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4b042b19d606400ac0713bd49b0f3bdd.png) | 2000-10-31 | Godsmack | Awake |
-| 64 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/397a546626eecdfbd55527580a5dbc2a.png) | 2001-01-19 | Creed | Weathered |
-| 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/80649fca746c7014df458258f983d63d.png) | 2001-09-11 | Nickelback | Silver Side Up |
-| 52 | ![Cover](https://i.discogs.com/CxmovaMRdI4z4OTmi5PaaLLiF-yKaLW0iY2n2ITYkEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mjg5/Mi0xNjU4OTg1MDU0/LTY5NzIuanBlZw.jpeg) | 2002 | Stone Sour | Stonesour |
-| 41 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/63dc0788b4190aef38e7c6cbbb99275c.png) | 2002-08-19 | Stone Sour | Stone Sour |
-| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d0fbc7d54a114b57cbc43b2e76f34cb1.png) | 2002-08-27 | Kiss | The Very Best of Kiss |
-| 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dcf5cf4b9da64e979719a102acd222cc.png) | 2002-09-16 | Disturbed | Believe |
-| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9cae18fce540d5871afab665d0cdc1b3.png) | 2002-11-05 | Trapt | Trapt |
-| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ed071004b3a64afb8b2a8397aad1bed4.png) | 2002-11-15 | Audioslave | Audioslave |
-| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7edb32e7079a4f1eaf522b05e85cae03.png) | 2003-04-08 | Godsmack | Faceless |
-| 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/82b68b8267234a289714c0e20c4e288d.png) | 2003-05-26 | Led Zeppelin | Led Zeppelin |
-| 46 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ca2a8546a9b645a2917e28104197a122.png) | 2003-07-07 | The Darkness | Permission to Land |
-| 47 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ef37f4e43576427fc2d2c2042eee820d.png) | 2003-09-22 | Nickelback | The Long Road |
-| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c0f178ea70622af35a1126d8139c79cd.png) | 2003-12-15 | The Darkness | Christmas Time (Don&#39;t Let the Bells End) |
-| 60 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/314e2944288d42eabbf62598239d6c17.png) | 2004-02-13 | Guns N&#39; Roses | Greatest Hits |
-| 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6e68381ec8293f76ca4a5995dbd50a28.png) | 2004-06-07 | Velvet Revolver | Contraband |
-| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/064b94b7db2d434fc3cb78d385db2b37.png) | 2004-06-08 | Breaking Benjamin | We Are Not Alone |
-| 59 | ![Cover](https://i.discogs.com/943Z_SoxqmeXY-ZGhantIaFyyvPP_HklnFI5ZSac6GE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzEw/Ny0xMTgwNjMxNjc5/LmpwZWc.jpeg) | 2004-07 | Papa Roach | Getting Away With Murder |
-| 35 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/010ed909133046cb81f6a539033e9dfd.png) | 2004-08-10 | Alter Bridge | One Day Remains |
-| 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/815b1a1f78e3cb564ae23e4852d1de4a.png) | 2005-05-23 | Audioslave | Out of Exile |
-| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/50f59fc2dcff4345c3d492e1a71f634f.png) | 2005-06-06 | Avenged Sevenfold | City of Evil |
-| 83 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1b564725ab844a23ca99b965bbbac930.png) | 2005-08-20 | Disturbed | Ten Thousand Fists |
-| 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/deb95261a54a87e861c15c611908abe2.png) | 2005-10-31 | Wolfmother | Wolfmother |
-| 72 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7d574c73804709ed8983e6261af8f1f7.png) | 2006-06-13 | Three Days Grace | One-X |
-| 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/30343f165ec1e8d88ab16ff7b580a2fd.png) | 2006-07-28 | Stone Sour | Come What(ever) May |
-| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2e5b0bc8cf774381c37c150f159e58c4.png) | 2006-08-08 | Breaking Benjamin | Phobia |
-| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8cd967cf85cf47149abb50dbf3d2b665.png) | 2006-09-01 | Audioslave | Revelations |
-| 13 | ![Cover](https://i.discogs.com/HwE6wQ4gNNrh004uz0CJkrroNkwdCtpifBBKwBT_vvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTQ3/OS0xNTcwNDMyODEw/LTIxNTUuanBlZw.jpeg) | 2006-09-12 | Papa Roach | The Paramour Ssessions |
-| 76 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9c3d305fe2b74c7d80020ac641ff39ca.png) | 2006-09-26 | Tenacious D | The Pick of Destiny |
-| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ad5bdeb8c08e484083a02b855bc1a5b7.png) | 2007-08-27 | Atreyu | Lead Sails Paper Anchor |
-| 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ca2e534cb49048c584330ca9e0577f63.png) | 2007-10-09 | Alter Bridge | Blackbird |
-| 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/22a003ba9da1f715adea71f6874babe3.png) | 2007-10-26 | Avenged Sevenfold | Avenged Sevenfold |
-| 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6c8adfb1f5ff5cf91b63ec260f0061fc.png) | 2008-06-03 | Disturbed | Indestructible |
-| 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c384571cc1bb3c896d41f8d319f642fc.png) | 2008-06-23 | Shinedown | The Sound of Madness |
-| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c5025d7531f049d9823224f9c3965f8e.png) | 2008-10-17 | AC&#x2F;DC | Black Ice |
-| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8dcbdfe647304258af01293dbb5b471e.png) | 2008-11-06 | Guns N&#39; Roses | Chinese Democracy |
-| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3335319d37744aa0bb90ef5d9647a1ed.png) | 2008-11-15 | Nickelback | Dark Horse |
-| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1d7fd11db9a8715eb2879138da213dec.png) | 2009-03-20 | Papa Roach | Metamorphosis |
-| 75 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d536d356fd93438dc3b9fd711826b62e.png) | 2009-11-13 | Them Crooked Vultures | Them Crooked Vultures |
-| 89 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bd12ddaafc7344d3bf43f963f814cc90.png) | 2010-07-23 | Avenged Sevenfold | Nightmare |
-| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/77c21b01e51548c6a6fc6944c0e711c4.png) | 2012-06-04 | Def Leppard | Pour Some Sugar On Me (2012) |
-| 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1dbcfe01619268a48492ad9e84421f59.png) | 2014-11-03 | Bring Me the Horizon | DiE4u |
-| 48 | ![Cover](https://i.discogs.com/FXr0FLYaFahhqarFixFrM0LZq6rOeHeER8Tuub_GTXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEz/OTE2LTE1MTY5MDQ4/MzMtODUyNS5qcGVn.jpeg) | 2017-11-17 | Greta Van Fleet | From the Fires |
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5f0f5a61e510ec6fcb42d245b57dde83.png) | 2018 | Bad Wolves | Zombie |
-| 34 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9344e9c24a21f641c1ed2e6a9d6afef9.png) | 2018-06-01 | Ghost | Prequelle |
-| 16 | ![Cover](https://i.discogs.com/itLYS8uiz0N5KcPbI5Y2MtKGM-Mpcnl-h-MkaH8IHVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE2/MTkwLTE2NDI2OTE2/ODMtNzY0Mi5wbmc.jpeg) | 2022-03-11 | Ghost | Impera |
-| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bcd06c00951b50c303115da01c2ea801.png) |  | Greta Van Fleet | From The Fires |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79eb7925a57079641e698093417efde7.png" alt="Cover for Led Zeppelin II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969-10-22</td>
+      <td>Led Zeppelin</td>
+      <td>Led Zeppelin II</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e88b3980787c4714b79c3cab44986595.png" alt="Cover for Paranoid" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970-09-18</td>
+      <td>Black Sabbath</td>
+      <td>Paranoid</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e2a475a147617de03a3d442f0ca582a.png" alt="Cover for Led Zeppelin III" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970-10-05</td>
+      <td>Led Zeppelin</td>
+      <td>Led Zeppelin III</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e6f99756d0342f891d3233ac1283d21.png" alt="Cover for Led Zeppelin IV" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971-11-08</td>
+      <td>Led Zeppelin</td>
+      <td>Led Zeppelin IV</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8312163dbe33d694881bae9676b9fbe.png" alt="Cover for Aerosmith" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973-01-05</td>
+      <td>Aerosmith</td>
+      <td>Aerosmith</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bef877b7563e13a4218da382b86fe7a.png" alt="Cover for A Night At The Opera (2011 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975</td>
+      <td>Queen</td>
+      <td>A Night At The Opera (2011 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0a7049748eb25a46fee9c65116d9417.png" alt="Cover for Physical Graffiti" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975-02-24</td>
+      <td>Led Zeppelin</td>
+      <td>Physical Graffiti</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1099b17639dca0718ff7250d14038a9.png" alt="Cover for Dressed To Kill" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975-03-19</td>
+      <td>Kiss</td>
+      <td>Dressed To Kill</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9e9632ca1da6116f2b6e5f70ae9e7df.png" alt="Cover for Toys in the Attic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975-04-08</td>
+      <td>Aerosmith</td>
+      <td>Toys in the Attic</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30828ccc656c45feb54e520befd1a84c.png" alt="Cover for Alive!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975-09-10</td>
+      <td>Kiss</td>
+      <td>Alive!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 15</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de361a68c39e4468c4df73fb3c8ae178.png" alt="Cover for Hot Space (2011 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975-11-21</td>
+      <td>Queen</td>
+      <td>Hot Space (2011 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 57</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/591095f2549b4d9bbde16f471fa76e83.png" alt="Cover for High Voltage" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976-05-14</td>
+      <td>AC&#x2F;DC</td>
+      <td>High Voltage</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b785009dbb0e6ce488d0a8f74d313f31.png" alt="Cover for Agents of Fortune" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976-05-21</td>
+      <td>Blue Öyster Cult</td>
+      <td>Agents of Fortune</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c88c27c1882542ae880ac063af38d647.png" alt="Cover for Boston" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976-09</td>
+      <td>Boston</td>
+      <td>Boston</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 71 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 2</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 87</li>
+            <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/FsuRbmYHz9ff88_rb7MfCo8MjiHrYy_CmtWM5P2Go2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDEw/NzktMTI3Mjg1Mjg1/MC5qcGVn.jpeg" alt="Cover for Bat Out Of Hell" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Meat Loaf</td>
+      <td>Bat Out Of Hell</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 25</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c542b6837d884641b975201bb516a576.png" alt="Cover for Let There Be Rock" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977-03-21</td>
+      <td>AC&#x2F;DC</td>
+      <td>Let There Be Rock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>1977-10-28</td>
+      <td>Queen</td>
+      <td>News Of The World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/abb9d954f36443fac33266710e8b0a07.png" alt="Cover for Dynasty" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979-05-23</td>
+      <td>Kiss</td>
+      <td>Dynasty</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9645ba9592445b1c5c35e1990c6964f.png" alt="Cover for Jazz (2011 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Queen</td>
+      <td>Jazz (2011 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 62</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 69</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 85</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 87</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d359b955132742bc2fc3eacdff90b8c.png" alt="Cover for Back in Black" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980-07-25</td>
+      <td>AC&#x2F;DC</td>
+      <td>Back in Black</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcd1c57248faad46ebe93d6f550469f3.png" alt="Cover for Ace Of Spades (Expanded Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980-10</td>
+      <td>Motörhead</td>
+      <td>Ace Of Spades (Expanded Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td>1981-11-10</td>
+      <td>Mötley Crüe</td>
+      <td>Too Fast For Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 46</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20a4ef1646deb935e07c19c89159008d.png" alt="Cover for Van Halen (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982-02</td>
+      <td>Van Halen</td>
+      <td>Van Halen (Remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f50b1c9969117ece285fb598c289e95.png" alt="Cover for 1984" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984-01-09</td>
+      <td>Van Halen</td>
+      <td>1984</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d76166a09b9d4ce2cce5170853dea6cb.png" alt="Cover for Love at First Sting" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984-02</td>
+      <td>Scorpions</td>
+      <td>Love at First Sting</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 10</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>1986-04-21</td>
+      <td>Bonnie Tyler</td>
+      <td>Secret Dreams And Forbidden Fire</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bef4ab0424dc4457c4e2062d6e7a6a4d.png" alt="Cover for Who Made Who" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986-05-12</td>
+      <td>AC&#x2F;DC</td>
+      <td>Who Made Who</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f06a6447e11b26670be85467bdd39ce5.png" alt="Cover for Slippery When Wet" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986-08-10</td>
+      <td>Bon Jovi</td>
+      <td>Slippery When Wet</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 26</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 57</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 60</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eed51418bdbc41bc9aa959de2d65dd5d.png" alt="Cover for Appetite for Destruction" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987-07-21</td>
+      <td>Guns N&#39; Roses</td>
+      <td>Appetite for Destruction</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/bWIs5SxYw8Fc-QU3QUSj0_H-b8lestOkoYztDONiShg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQy/NS0xMTg1NzUwODIx/LmpwZWc.jpeg" alt="Cover for Bad (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987-08-31</td>
+      <td>Michael Jackson</td>
+      <td>Bad (Remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 37</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 96</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29a61cf1f995f6ec3beb63e0a1d7ca2a.png" alt="Cover for Hysteria" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987-11-23</td>
+      <td>Def Leppard</td>
+      <td>Hysteria</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/baa6e8bbd781e62003bb485ce4e0e395.png" alt="Cover for G N&#39; R Lies" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988-11-30</td>
+      <td>Guns N&#39; Roses</td>
+      <td>G N&#39; R Lies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6609008553e8255590eeb03eb4147a72.png" alt="Cover for News of the World (2011 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Queen</td>
+      <td>News of the World (2011 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98390dad3bf6d7a28294106da6941e19.png" alt="Cover for The Razors Edge" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-09-21</td>
+      <td>AC&#x2F;DC</td>
+      <td>The Razors Edge</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/470b934e8cd26ed4d4e1f819b7f7014f.png" alt="Cover for Crazy World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-11-06</td>
+      <td>Scorpions</td>
+      <td>Crazy World</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6a960e23328230e5e203007b7690cde.png" alt="Cover for Metallica" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-08-12</td>
+      <td>Metallica</td>
+      <td>Metallica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 83</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 95</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f426c9970df50f6eeeace38e6d9d33a.png" alt="Cover for Use Your Illusion I" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-09-16</td>
+      <td>Guns N&#39; Roses</td>
+      <td>Use Your Illusion I</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b0fa568a161253b78ffb06750388ef1.png" alt="Cover for Use Your Illusion II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-09-17</td>
+      <td>Guns N&#39; Roses</td>
+      <td>Use Your Illusion II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5429eee7b4c447e09c844bd5003386c6.png" alt="Cover for Dirty Deeds Done Dirt Cheap" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>AC&#x2F;DC</td>
+      <td>Dirty Deeds Done Dirt Cheap</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36081c7e1d61e653830c888c553e10ca.png" alt="Cover for Keep The Faith" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-10-07</td>
+      <td>Bon Jovi</td>
+      <td>Keep The Faith</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7af8e0ab43294405c42eb95480f25c9a.png" alt="Cover for Highway to Hell" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-10-08</td>
+      <td>AC&#x2F;DC</td>
+      <td>Highway to Hell</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Guns N&#39; Roses</td>
+      <td>G N&#39; R Lies &#x2F; The Spaghetti Incident?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a614c56604f432ac31b10e6a60db151.png" alt="Cover for Spaghetti Incident" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-11-22</td>
+      <td>Guns N&#39; Roses</td>
+      <td>Spaghetti Incident</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4d0769b7a0e5e24e6e1a2e9dbb36081.png" alt="Cover for Are You Experienced" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Jimi Hendrix</td>
+      <td>Are You Experienced</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 72</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 77</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5d89fd2535b34b05341f0e425c4f31b.png" alt="Cover for 1984 (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Van Halen</td>
+      <td>1984 (Remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c32d240ba59d4491ba5ce25939cba1ab.png" alt="Cover for Load" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-05-04</td>
+      <td>Metallica</td>
+      <td>Load</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dddbd3ec3a526120431181eeeab02ce.png" alt="Cover for Reload" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-11-15</td>
+      <td>Metallica</td>
+      <td>Reload</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/MkJYphyUmXuCAJM37YHOAFKbwqFBqYrDmSktgpW9UO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI1/MTUtMTMwNDAwNDY1/MS5qcGVn.jpeg" alt="Cover for Razor&#39;s Edge" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>AC&#x2F;DC</td>
+      <td>Razor&#39;s Edge</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e675b50ea72ba6765ce846089d75d04.png" alt="Cover for Innuendo (2011 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-12-16</td>
+      <td>Queen</td>
+      <td>Innuendo (2011 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b042b19d606400ac0713bd49b0f3bdd.png" alt="Cover for Awake" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-10-31</td>
+      <td>Godsmack</td>
+      <td>Awake</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/397a546626eecdfbd55527580a5dbc2a.png" alt="Cover for Weathered" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-01-19</td>
+      <td>Creed</td>
+      <td>Weathered</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/CxmovaMRdI4z4OTmi5PaaLLiF-yKaLW0iY2n2ITYkEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mjg5/Mi0xNjU4OTg1MDU0/LTY5NzIuanBlZw.jpeg" alt="Cover for Stonesour" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Stone Sour</td>
+      <td>Stonesour</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 69</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed071004b3a64afb8b2a8397aad1bed4.png" alt="Cover for Audioslave" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-11-15</td>
+      <td>Audioslave</td>
+      <td>Audioslave</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 58</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/7kZPzBNNtvRI0QLjBYQsoV60iqksyl9h8a_EDGVHFE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTQ5/MDYtMTQ1NjU1MDQx/NS02MjU2LmpwZWc.jpeg" alt="Cover for Tattoo You (2009 Re-Mastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>The Rolling Stones</td>
+      <td>Tattoo You (2009 Re-Mastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 61</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6de4aa9112e76b81b8c879459f9d14d.png" alt="Cover for Slow Hole to China: Rare and Unreleased" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Clutch</td>
+      <td>Slow Hole to China: Rare and Unreleased</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>3 Doors Down</td>
+      <td>Here Without You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82b68b8267234a289714c0e20c4e288d.png" alt="Cover for Led Zeppelin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-05-26</td>
+      <td>Led Zeppelin</td>
+      <td>Led Zeppelin</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 2</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca2a8546a9b645a2917e28104197a122.png" alt="Cover for Permission to Land" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-07-07</td>
+      <td>The Darkness</td>
+      <td>Permission to Land</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 45</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eade5b1cda36e45cf989ce649d4b186f.png" alt="Cover for Three Days Grace" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-07-22</td>
+      <td>Three Days Grace</td>
+      <td>Three Days Grace</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 78 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 22</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 43</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0f178ea70622af35a1126d8139c79cd.png" alt="Cover for Christmas Time (Don&#39;t Let the Bells End)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-12-15</td>
+      <td>The Darkness</td>
+      <td>Christmas Time (Don&#39;t Let the Bells End)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/weihnacht" | relative_url }}">weihnacht</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/314e2944288d42eabbf62598239d6c17.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-02-13</td>
+      <td>Guns N&#39; Roses</td>
+      <td>Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e68381ec8293f76ca4a5995dbd50a28.png" alt="Cover for Contraband" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-06-07</td>
+      <td>Velvet Revolver</td>
+      <td>Contraband</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/943Z_SoxqmeXY-ZGhantIaFyyvPP_HklnFI5ZSac6GE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzEw/Ny0xMTgwNjMxNjc5/LmpwZWc.jpeg" alt="Cover for Getting Away With Murder" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-07</td>
+      <td>Papa Roach</td>
+      <td>Getting Away With Murder</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/-GNm-VqzB3dMXg0EgWZinsUk84pTlpLPDcoJvs-Sxyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTE1/ODUtMTU0MTQ1NTg2/MS0zNDM1LnBuZw.jpeg" alt="Cover for Eagles" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-03-15</td>
+      <td>Eagles</td>
+      <td>Eagles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd2a404222a8467e88209f474c9223a4.png" alt="Cover for Lullabies to Paralyze" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-03-18</td>
+      <td>Queens of the Stone Age</td>
+      <td>Lullabies to Paralyze</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 9</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 24</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/815b1a1f78e3cb564ae23e4852d1de4a.png" alt="Cover for Out of Exile" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-05-23</td>
+      <td>Audioslave</td>
+      <td>Out of Exile</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50f59fc2dcff4345c3d492e1a71f634f.png" alt="Cover for City of Evil" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-06-06</td>
+      <td>Avenged Sevenfold</td>
+      <td>City of Evil</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b564725ab844a23ca99b965bbbac930.png" alt="Cover for Ten Thousand Fists" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-08-20</td>
+      <td>Disturbed</td>
+      <td>Ten Thousand Fists</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 26</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/deb95261a54a87e861c15c611908abe2.png" alt="Cover for Wolfmother" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-10-31</td>
+      <td>Wolfmother</td>
+      <td>Wolfmother</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 33</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 78</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Lordi</td>
+      <td>Arockalypse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58a74677a69a4e8c6c98bf50bb0b0c83.png" alt="Cover for 15" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-04-11</td>
+      <td>Buckcherry</td>
+      <td>15</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d574c73804709ed8983e6261af8f1f7.png" alt="Cover for One-X" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-06-13</td>
+      <td>Three Days Grace</td>
+      <td>One-X</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30343f165ec1e8d88ab16ff7b580a2fd.png" alt="Cover for Come What(ever) May" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-07-28</td>
+      <td>Stone Sour</td>
+      <td>Come What(ever) May</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/HwE6wQ4gNNrh004uz0CJkrroNkwdCtpifBBKwBT_vvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTQ3/OS0xNTcwNDMyODEw/LTIxNTUuanBlZw.jpeg" alt="Cover for The Paramour Ssessions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-09-12</td>
+      <td>Papa Roach</td>
+      <td>The Paramour Ssessions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc38b6d5f91a3de19f9122fc676b9ee4.png" alt="Cover for Era Vulgaris" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-06-08</td>
+      <td>Queens of the Stone Age</td>
+      <td>Era Vulgaris</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 16</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d66f1081af664955bb3c97656458dcfe.png" alt="Cover for Runnin&#39; Wild" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-06-25</td>
+      <td>Airbourne</td>
+      <td>Runnin&#39; Wild</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11f130334e284d459689ce02a012ae72.png" alt="Cover for Libertad" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-06-27</td>
+      <td>Velvet Revolver</td>
+      <td>Libertad</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22a003ba9da1f715adea71f6874babe3.png" alt="Cover for Avenged Sevenfold" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10-26</td>
+      <td>Avenged Sevenfold</td>
+      <td>Avenged Sevenfold</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>2008-09-10</td>
+      <td>Led Zeppelin</td>
+      <td>Physical Graffiti (Deluxe Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5025d7531f049d9823224f9c3965f8e.png" alt="Cover for Black Ice" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-10-17</td>
+      <td>AC&#x2F;DC</td>
+      <td>Black Ice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dcbdfe647304258af01293dbb5b471e.png" alt="Cover for Chinese Democracy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-11-06</td>
+      <td>Guns N&#39; Roses</td>
+      <td>Chinese Democracy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3335319d37744aa0bb90ef5d9647a1ed.png" alt="Cover for Dark Horse" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-11-15</td>
+      <td>Nickelback</td>
+      <td>Dark Horse</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 39</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c59bab1a342e46ba96013a3c26ca8302.png" alt="Cover for Life Starts Now" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-09-22</td>
+      <td>Three Days Grace</td>
+      <td>Life Starts Now</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d536d356fd93438dc3b9fd711826b62e.png" alt="Cover for Them Crooked Vultures" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-11-13</td>
+      <td>Them Crooked Vultures</td>
+      <td>Them Crooked Vultures</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80f9023ad12b03de7e6234cd29a98991.png" alt="Cover for S&amp;M2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Metallica</td>
+      <td>S&amp;M2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd12ddaafc7344d3bf43f963f814cc90.png" alt="Cover for Nightmare" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-07-23</td>
+      <td>Avenged Sevenfold</td>
+      <td>Nightmare</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f32bb14ca70941e6a8a3e2d40fe73c32.png" alt="Cover for Horseshoes and Handgrenades" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-09-14</td>
+      <td>Disciple</td>
+      <td>Horseshoes and Handgrenades</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 79</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c4ae30e99944e6d9e2f5b8e5471025f.png" alt="Cover for Greatest Hits II (2011 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Queen</td>
+      <td>Greatest Hits II (2011 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e52b140a736e419d94febb101056f96b.png" alt="Cover for Comeblack" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-11-04</td>
+      <td>Scorpions</td>
+      <td>Comeblack</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/BIVUcubmDAhJJOB6AKTmyvU9GPSq8eikZzF4IFwDbGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUw/OTgtMTM3ODU3MjY0/NS0yNDk2LmpwZWc.jpeg" alt="Cover for Here And Now" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-11-21</td>
+      <td>Nickelback</td>
+      <td>Here And Now</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77c21b01e51548c6a6fc6944c0e711c4.png" alt="Cover for Pour Some Sugar On Me (2012)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-06-04</td>
+      <td>Def Leppard</td>
+      <td>Pour Some Sugar On Me (2012)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9872bc77018f9ba97f4bf504e25e1380.png" alt="Cover for ...Like Clockwork" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05-31</td>
+      <td>Queens of the Stone Age</td>
+      <td>...Like Clockwork</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+            <li style="font-size: calc(1rem * 61 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dbcfe01619268a48492ad9e84421f59.png" alt="Cover for DiE4u" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-11-03</td>
+      <td>Bring Me the Horizon</td>
+      <td>DiE4u</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 12</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 89</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 95</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9911cee6b7dc4e25852d8ba5e09d5476.png" alt="Cover for Not Strong Enough" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Apocalyptica</td>
+      <td>Not Strong Enough</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/FXr0FLYaFahhqarFixFrM0LZq6rOeHeER8Tuub_GTXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEz/OTE2LTE1MTY5MDQ4/MzMtODUyNS5qcGVn.jpeg" alt="Cover for From the Fires" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-11-17</td>
+      <td>Greta Van Fleet</td>
+      <td>From the Fires</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9344e9c24a21f641c1ed2e6a9d6afef9.png" alt="Cover for Prequelle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-06-01</td>
+      <td>Ghost</td>
+      <td>Prequelle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 24</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/itLYS8uiz0N5KcPbI5Y2MtKGM-Mpcnl-h-MkaH8IHVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE2/MTkwLTE2NDI2OTE2/ODMtNzY0Mi5wbmc.jpeg" alt="Cover for Impera" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-03-11</td>
+      <td>Ghost</td>
+      <td>Impera</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 31</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 32</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcd06c00951b50c303115da01c2ea801.png" alt="Cover for From The Fires" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Greta Van Fleet</td>
+      <td>From The Fires</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27bb5c5021144d88b1820011a47a6700.png" alt="Cover for Live at Wembley" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Queen</td>
+      <td>Live at Wembley</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe50457c31514e02b40875e7ec6755e9.png" alt="Cover for When We Stand Together" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Nickelback</td>
+      <td>When We Stand Together</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

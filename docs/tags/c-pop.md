@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:42:32.731Z
+date: 2025-10-30T09:47:43.209Z
 permalink: tags/c-pop
 title: c-pop
 ---
 
 ## c-pop
 
-Last updated: <time datetime="2025-10-28T06:42:32.731Z">Tue Oct 28 2025 08:42:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-30T09:47:43.209Z">Thu Oct 30 2025 11:47:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
   </thead>
   <tbody>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/UO3sLwEV9dB_L5IBeSJrpjU8SvfbuxVqTiJ9BDIZov0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzMy/OTEzLTE2NDYwNDI2/NzAtNzk1NS5qcGVn.jpeg" alt="Cover for SEVEN" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/g3R_f-RTAnvt40s4Gu_QXcy5ltMX9CgZlusJ-3TOdLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTYy/NzYtMTQ0ODk0Nzgw/Ny0yNDQ3LmpwZWc.jpeg" alt="Cover for All Time Favourites" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>1997-02</td>
@@ -109,7 +109,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>1998-10-08</td>
@@ -128,7 +128,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
       </td>
       <td>2001-09-20</td>
@@ -162,7 +162,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2002-07-18</td>
@@ -205,7 +205,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>2002-11-22</td>
@@ -222,7 +222,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2003-03-07</td>
@@ -243,7 +243,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>2003-07-31</td>
@@ -266,7 +266,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/HJzwjz13A2kibVUuPXRCs4HR1Mh0C6a-IynpcJAyuEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzAx/NjkxLTE1OTYxOTMx/MzUtMzU0OS5qcGVn.jpeg" alt="Cover for 奇幻旅程" style="max-width:120px; height:auto;" />
       </td>
@@ -290,7 +290,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>2004-02-27</td>
@@ -309,7 +309,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2005-12-30</td>
@@ -369,7 +369,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
       </td>
       <td>2006-01-20</td>
@@ -393,7 +393,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2006-02-17</td>
@@ -415,7 +415,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
       </td>
       <td>2006-09-05</td>
@@ -458,7 +458,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2007-04-20</td>
@@ -475,7 +475,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2007-06-29</td>
@@ -500,7 +500,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2007-09-27</td>
@@ -547,7 +547,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2007-11-09</td>
@@ -612,7 +612,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2007-12-14</td>
@@ -675,7 +675,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2008-11-07</td>
@@ -692,7 +692,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>2009-03-27</td>
@@ -746,7 +746,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2009-09-23</td>
@@ -764,7 +764,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2009-10-09</td>
@@ -799,7 +799,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>2009-10-30</td>
@@ -824,7 +824,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/5RXjZzYzUSzMb4ovV0JZZ9Q_YDXn4wINQudhKhHyoHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTUy/NDgyLTE1Mzc0NzQ3/NTgtODc4OS5qcGVn.jpeg" alt="Cover for 新的心跳" style="max-width:120px; height:auto;" />
       </td>
@@ -866,7 +866,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>2010-05-18</td>
@@ -889,7 +889,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>2010-07-27</td>
@@ -907,7 +907,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2010-08-12</td>
@@ -928,7 +928,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>2010-09-03</td>
@@ -945,7 +945,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2010-09-17</td>
@@ -964,7 +964,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>2010-12-08</td>
@@ -1001,7 +1001,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/152a427d949d46f8ef449807235c46e0.png" alt="Cover for 15" style="max-width:120px; height:auto;" />
       </td>
@@ -1022,7 +1022,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2011-11-11</td>
@@ -1045,7 +1045,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/nU-S8IM8H1J7fOwkDXwQ9_R53MYU74tO1yYkFOAbh64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDY5/NDItMTQyNzg3NjQ1/MS04NTgxLmpwZWc.jpeg" alt="Cover for The 2nd Mini Album &#x60;上瘾 (Overdose)&#x60;" style="max-width:120px; height:auto;" />
       </td>
@@ -1063,7 +1063,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>2012-09-14</td>
@@ -1086,7 +1086,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2013-01-07</td>
@@ -1106,7 +1106,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2013-11-29</td>
@@ -1126,7 +1126,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/xiFJzL-PYk1VArs-NEZLRIFjsvLHdBT_RIrCwX2BdRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQ3/NDQyLTE1MzEzNTM5/NzYtMzE0Mi5qcGVn.jpeg" alt="Cover for THE WAR - The 4th Album (Chinese Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1144,7 +1144,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/mFpeHh1lJ1LkKT4ZO-SQff7s5o-Mr-rU6cYzQI1JGVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQw/OTk0LTE1MTA2MDE4/NTItMjA1MC5qcGVn.jpeg" alt="Cover for what U need?" style="max-width:120px; height:auto;" />
       </td>
@@ -1187,7 +1187,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/Hz3wvbbIugRaAIsBaTsrfsxnVs7jU24IVt4TSHRXhls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYy/NDYzLTE1NzkxNDU1/OTEtNTA1OC5qcGVn.jpeg" alt="Cover for 모노드라마 Monodrama" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1252,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/rls3uAAfoP7aHm9-a91gOVINeb9q7n_vZSvG_Vr3Gn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTk3/OC0xMzIyMjEyMjQz/LmpwZWc.jpeg" alt="Cover for 摩天動物園" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,6 +1509,25 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26f21d080199e2f52896e0df86e9ed7a.png" alt="Cover for Jay Chou Live Concert" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>周杰倫</td>
+      <td>Jay Chou Live Concert</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
       </td>
       <td></td>
       <td>劉德華</td>
@@ -1526,7 +1545,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
@@ -1549,7 +1568,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td></td>
@@ -1572,7 +1591,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td></td>
@@ -1594,7 +1613,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td></td>
@@ -1614,7 +1633,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td></td>
@@ -1637,7 +1656,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td></td>
@@ -1660,7 +1679,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td></td>
@@ -1684,7 +1703,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td></td>
@@ -1706,7 +1725,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td></td>
@@ -1721,24 +1740,6 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       <td>
         <ul>
             <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 65</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee17d773116231c9110ebe846f314bcf.png" alt="Cover for November&#39;s Chopin" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>周杰倫</td>
-      <td>November&#39;s Chopin</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1869,7 +1870,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
@@ -1886,7 +1887,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td></td>
@@ -1903,7 +1904,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td></td>
@@ -1920,7 +1921,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td></td>
@@ -1937,7 +1938,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td></td>
@@ -1954,7 +1955,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td></td>
@@ -1972,7 +1973,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td></td>
@@ -1989,7 +1990,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td></td>
@@ -2006,7 +2007,7 @@ C-pop, or Chinese popular music, encompasses contemporary pop music from Mainlan
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td></td>
