@@ -9,110 +9,2113 @@ title: post-black metal
 
 Last updated: <time datetime="2025-10-25T03:33:28.283Z">Sat Oct 25 2025 06:33:28 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Post-black metal emerged in the 2000s by blending black metal&#39;s raw intensity with shoegaze, post-rock, and ambient influences. The genre retains tremolo-picked guitars and blast beats while incorporating atmospheric textures, melodic passages, and themes beyond traditional black metal&#39;s darkness. It appeals to listeners seeking emotional depth and sonic experimentation within extreme music.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/21b8c6df853bc6284b04d7970086b493.png) | 1995 | Ved Buens Ende | Written In Waters |
-| 64 | ![Cover](https://i.discogs.com/G5xLp2oN5O_NbWtirAu6lWVepBzWsqApUMRZaoJ2ro8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTU2/MDgtMTQxOTUxMTM5/OS0yNzc4LmpwZWc.jpeg) | 1995 | Azis | Sen Trope |
-| 89 |  | 2005-12-30 | Sólstafir | Masterpiece of Bitterness |
-| 37 |  | 2007-12-22 | Blutklinge | Reflection of a Bleak Mind |
-| 49 |  | 2008-09-15 | Wedard | Wo Die Ewigkeit Die Zeit Berührt |
-| 14 |  | 2008-11 | Black Autumn | Rivers Of Dead Leaves |
-| 85 |  | 2009-02-21 | Sólstafir | Köld |
-| 6 |  | 2009-09-01 | Insane Clown Posse | Bang! Pow! Boom! |
-| 73 |  | 2009-09-09 | Soliness | The World Comes To An End In The End Of A Journey |
-| 4 | ![Cover](https://i.discogs.com/zmFBq1faQ0XG4wqgbr3sxy36fTAya8roJuIEdvzEnuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTUw/NDAtMTI3OTEwNjEx/NC5qcGVn.jpeg) | 2010-01-28 | Angst Skvadron | Sweet Poison |
-| 28 |  | 2010-03-22 | Justin Bieber | My Worlds |
-| 17 | ![Cover](https://i.discogs.com/tlgcnc19SyoC97Ni-hh7OiH_RWR1gFgj8bhEBilO-wU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk1/NDgtMTI3OTQ1MTYy/Ni5qcGVn.jpeg) | 2010-04-16 | Svarti Loghin | Drifting Through The Void |
-| 59 |  | 2010-05 | Apati | Morgondagen inställd i brist på intresse |
-| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/41a535592c7d4128bede8408c183f17c.png) | 2010-06-01 | Deafheaven | Demo |
-| 47 |  | 2010-11-15 | Solefald | Norrøn Livskunst |
-| 68 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/64b1c55cf96a26bd851e053a745e76bc.png) | 2010-11-23 | Agalloch | Marrow of the Spirit |
-| 21 | ![Cover](https://i.discogs.com/NRjJRWb7W3_ELP5pYCZH_QyKFc2Ah1SC-r9SbfKqcck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODQ1/MjAtMTM2NjIwNzA5/Ni03MDE3LmpwZWc.jpeg) | 2011-01-01 | Sun Devoured Earth | Good Memories Are The Hardest To Keep |
-| 46 |  | 2011-02-03 | Mamaleek | Kurdaitcha |
-| 75 |  | 2011-04-22 | Forgotten Tomb | Under Saturn Retrograde |
-| 44 |  | 2011-04-25 | Altar of Plagues | Mammal |
-| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/788ca03685f44878949f119c1c2e5d0e.png) | 2011-04-26 | Deafheaven | Roads to Judah |
-| 81 |  | 2011-05-20 | Peste Noire | L&#39;Ordure à l&#39;état Pur |
-| 52 |  | 2011-06-04 | Psychonaut 4 | 40% |
-| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9523728e121fac0ef3bd9768b698f9ea.png) | 2011-10-28 | Lantlôs | Agape |
-| 70 |  | 2012-01-06 | Alcest | Les voyages de l&#39;Âme |
-| 11 | ![Cover](https://i.discogs.com/GburfQfoXWbxEai6boUty0WgKWTT81ycm8rXc9MxDkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTcw/NTctMTMzMzU3MTMy/NC5qcGVn.jpeg) | 2012-02-28 | культура курения | Рвота |
-| 36 |  | 2012-03-12 | Germ | Wish |
-| 65 | ![Cover](https://i.discogs.com/ZPM5SqMS3RvCkxj1iNJtAjqKXWJL2_1ZfX4T6gYIfnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDMy/NDItMTMzNzAwMzgx/My0xNTk3LmpwZWc.jpeg) | 2012-04-27 | The Great Old Ones | Al Azif |
-| 76 |  | 2012-05-10 | Downfall of Gaia | Suffocating In The Swarm Of Cranes |
-| 12 | ![Cover](https://i.discogs.com/QIXKRgg-b_vJ8H-UKh3SLO0MQl2TNO5lixsgC4LJDDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzc5/NDAtMTMzMTk3Mjg2/Ni5qcGVn.jpeg) | 2012-06-09 | Furia | Marzannie, Krolowej Polski |
-| 91 |  | 2012-09-21 | Blut aus Nord | 777 - Cosmosophy |
-| 9 |  | 2012-09-29 | Celephaïs | Tir n&#39;a n&#39;Og |
-| 84 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bf0ca6f16f8b406cc0a5ac42d2f5ea4b.png) | 2012-10-23 | Harakiri for the Sky | Harakiri for the Sky |
-| 57 |  | 2013-01-15 | Dreariness | My Mind is too Weak to Forget |
-| 15 | ![Cover](https://i.discogs.com/inHQP22FatL21oqnfy0xh3Gl_f7PvB7IF6eFa7zi8nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjg0/ODgtMTU1NjY1ODA3/OS03Nzk4LmpwZWc.jpeg) | 2013-01-24 | Hope Drone | Hope Drone |
-| 38 | ![Cover](https://i.discogs.com/00MQgdnBCX_o__JRLqR1HzNuTb_PFLOx6wOyWlDAluo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDcy/MjUtMTM2MjQxNzQ2/Mi00MzUzLmpwZWc.jpeg) | 2013-02-01 | Agrypnie | Aetas Cineris |
-| 50 |  | 2013-02-17 | Ash Borer | Bloodlands |
-| 54 |  | 2013-02-28 | Entropia | Vesper |
-| 13 |  | 2013-04-13 | Altar of Plagues | Teethed Glory and Injury |
-| 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8a6a1123bb124e4890f20c956a63e734.png) | 2013-05-28 | Deafheaven | Sunbather |
-| 33 |  | 2013-09-03 | Vattnet Viskar | Sky Swallower |
-| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/82237c2dfaed47a8b5f9941b0e1a0d86.png) | 2013-09-04 | Satyricon | Satyricon |
-| 20 |  | 2013-10-15 | Castevet | Obsian |
-| 80 |  | 2013-11-04 | Germ | Grief |
-| 69 | ![Cover](https://i.discogs.com/jiNPTPhngR2q-SQJ5HYNH8yOE7W88n1fg8zWCaFwLtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjAz/MjAtMTQwODk5MTcy/My01MTg4LmpwZWc.jpeg) | 2014-08-25 | Deafheaven | From the Kettle Onto the Coil |
-| 48 |  | 2014-08-29 | Sólstafir | Ótta |
-| 63 |  | 2014-11-18 | Fen | Carrion Skies |
-| 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b60815523bf392fa759fe69a6bf55ed2.png) |  | Harakiri for the Sky | Scorched Earth |
-| 82 |  | 2014-02-04 | Ghost Bath | Funeral |
-| 78 |  | 2014-04-16 | The Great Old Ones | Tekeli-li |
-| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cf4eb791e6633037f1d79821ec339139.png) | 2014-04-21 | Harakiri for the Sky | Aokigahara |
-| 19 | ![Cover](https://i.discogs.com/OoYHkP-QCsBFjPulwRRzwXVpk9i9qYbp5hwukLYJUz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzU0/NjctMTQyNjM3MzA4/Mi0yODE4LmpwZWc.jpeg) | 2015 | Pyramids | A Northern Meadow |
-| 53 | ![Cover](https://i.discogs.com/cg0OCxnNcR575C3vuhw_qdZl5r9fP7nNJU4S5RAis34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTgz/MzYtMTQ0MzEzMzQ2/NS02MjU2LmpwZWc.jpeg) | 2015 | Svalbard | One Day All This Will End |
-| 71 | ![Cover](https://i.discogs.com/bQmYYymE6A3XwbKLJGRWdvLbt28K9QG6Pa6fKTijI10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTg3/OTgtMTUxNDM2NjQx/OS01NDE1LmpwZWc.jpeg) | 2015-02-23 | An Autumn for Crippled Children | The Long Goodbye |
-| 96 | ![Cover](https://i.discogs.com/ebY9btgGgqplP2UECMnn6TgtcygxxUH4ofUzohLHa_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Nzg4/ODgtMTQ0NjE0OTk3/My02NzE5LnBuZw.jpeg) | 2015-04-10 | Ghost Bath | Moonlover |
-| 62 | ![Cover](https://i.discogs.com/Ne5iEDOPgA6YwltzxSEK9ROIhtxBIcZjLioLpJZMri4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODIx/MzYtMTQyODY3NDY3/MS01Mzc2LmpwZWc.jpeg) | 2015-04-14 | Bosse-de-Nage | All Fours |
-| 87 | ![Cover](https://i.discogs.com/sUoDlbr8ImlRDVy_ZVisdM0mM8NeZ9KSh4XBZUmxPU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjk3/MTctMTQxNTIyNTY5/MS0yMjc4LmpwZWc.jpeg) | 2015-08-21 | Myrkur | M (Deluxe Version) |
-| 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/60d9ba6c2d960a49646ccba69de73b63.png) | 2015-10-02 | Deafheaven | New Bermuda |
-| 16 | ![Cover](https://i.discogs.com/iN40IwhWLU39tHStkiiY7pfEA7AwyYisCiuEsPapnSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjky/MDgtMTQzNDM3MzYy/Ny01NDc3LmpwZWc.jpeg) | 2015-10-11 | Hypothermia | Självdestruktivitet född av monotona tankegångar III |
-| 83 | ![Cover](https://i.discogs.com/4nXLm3NIZiHClXw-dIuv4VR59dWe1K-xLSjlzcgo2OY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzQ2/OTMtMTQ1NDY1NjE4/MC05MjAxLmpwZWc.jpeg) | 2016-01-31 | Violet Cold | Magic Night |
-| 34 | ![Cover](https://i.discogs.com/LjXMq5aKUvqI_Aiv_VtCmOrRSIpZzr2ZiRbY84vbq2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg0/MTQwLTE0OTgzOTc1/NTItOTE2MC5qcGVn.jpeg) | 2016-03-01 | An Autumn for Crippled Children | Eternal |
-| 51 | ![Cover](https://i.discogs.com/S1WZBN5b_CqQg2IOqarBuiLrN9eEPTwmQebj7gKzCLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTU0/NTctMTU2NTU5NzU2/NC0yMTQ0LmpwZWc.jpeg) | 2016-05-13 | Thränenkind | King Apathy |
-| 90 | ![Cover](https://i.discogs.com/UpoPV1ytrvKH6Nr3_PZx2XiigR4Rya2a5PaLWoIfqKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzUw/NTYtMTQ2ODUxMDY4/Mi0xOTY4LmpwZWc.jpeg) | 2016-07-22 | Numenorean | Home |
-| 58 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9f6e92b71c32d0bd92aa7130e4787c51.png) | 2016-09-30 | Oathbreaker | Rheia |
-| 92 | ![Cover](https://i.discogs.com/9OBe79HtvXf9UXjaSfsmEx2Xv3s1X2kcn3dVhWCiATY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjA2/NDEtMTQ3NTEzNTE3/NC0xMTc4LmpwZWc.jpeg) | 2016-09-30 | Alcest | Kodama |
-| 72 | ![Cover](https://i.discogs.com/vyCPH7ph6S3diND0_AINobGhhddZ7dcBJUPdC-Rg5dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzQ3/NzMtMTU5MTI2OTQx/NC0xMzI0LmpwZWc.jpeg) | 2016-11-11 | Downfall of Gaia | Atrophy |
-| 23 | ![Cover](https://i.discogs.com/QVz4gMUk1kF2gm8RLSR5x8NBVQ_7FTafmr7VsCq_OwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDEy/MDctMTQ3ODkwNTQz/Mi00MDY1LmpwZWc.jpeg) | 2016-11-14 | Karg | Weltenasche |
-| 18 | ![Cover](https://i.discogs.com/3z35vMAyvnVILDVUSY2GbtZRhHGPGHyU3y-x5lDxkYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODgw/MzY2LTE1MDY2Mjc2/MzMtNjA4MS5qcGVn.jpeg) | 2017 | Satyricon | Deep Calleth Upon Deep |
-| 8 | ![Cover](https://i.discogs.com/dv2Ciu4Qd-W048-OOeF6HqtQWybbnhP5o11UPiIdYGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTg5/NzItMTU1NDkwODEx/MS0xMjk4LmpwZWc.jpeg) | 2017-01-09 | Laster | Ons Vrije Fatum |
-| 2 | ![Cover](https://i.discogs.com/T9z9OdaKCsIdx1jNtI1YDFKOoJsBYcON_q-gZtz7FRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODIx/NjgtMTQ4NDY4MjY4/Ny0xODkyLmpwZWc.jpeg) | 2017-01-11 | ROSK | MIASMA |
-| 1 | ![Cover](https://i.discogs.com/bAfX_R07OZKQ-Iv2GqhN8FUo4le_-rPrRzqVFtsBP0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Njgx/NjItMTQ4NzY0NTI4/OS04NjU1LmpwZWc.jpeg) | 2017-01-27 | The Great Old Ones | EOD: A Tale Of Dark Legacy |
-| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a13487a327811babef8c0e5724d2b67d.png) |  | Asphodèle | Jours pâles |
-| 35 | ![Cover](https://i.discogs.com/RF3cuj3yQZS53hWQZBdDxYtn6YuBzwTkXyjhRis8YtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg2/NzMtMTU5OTgzMTY0/OC02Mzk5LmpwZWc.jpeg) | 2017-01-27 | Au Champ Des Morts | Dans La Joie |
-| 25 | ![Cover](https://i.discogs.com/gmWAyay0VXAWFsiCWmjxWrDjmvu-vXpMf_ihWvOyefw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDY5/NTEtMTU0MTI1OTky/MS0yNzYzLmpwZWc.jpeg) | 2017-02-17 | Mord&#39;A&#39;Stigmata | Hope |
-| 56 | ![Cover](https://i.discogs.com/OjaIMQBoU4ekEocUvKuJYagBUQFx-J9y6mRh_Slu8_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMy/NDkzLTE0OTA0NTI0/ODQtOTI5MS5qcGVn.jpeg) | 2017-03-31 | Falls of Rauros | Vigilance Perennial |
-| 43 | ![Cover](https://i.discogs.com/1BZoCtL0hm2rwd036VhAYPs6QbZJXTWtYeHBgql5Lsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI5/ODQyLTE0OTI2MjU1/NzItNjQ5NC5wbmc.jpeg) | 2017-04-21 | Ghost Bath | Starmourner |
-| 39 | ![Cover](https://i.discogs.com/gFlv5sEvdCoczdzxzMAo6KZHb_dLrfWPBPJeSrkQvSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjYx/MTM0LTE0OTQyNzcz/MjYtNzU4Ni5qcGVn.jpeg) | 2017-05-19 | Au-Dessus | End of Chapter |
-| 66 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8fe58c7ab9cd1a2022df60f5b4b7772c.png) | 2017-09-01 | svrm | Rozpad |
-| 95 | ![Cover](https://i.discogs.com/MmPG_B_HUw8Eyu54doX6LN_vjWim5hJqLaaGYX2Jz20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDg2/NzE1LTE1MTcxNzc1/NTktNTI2OC5qcGVn.jpeg) | 2017-10-27 | Cory Asbury | Reckless Love |
-| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e29014d7425119f423cc5f940f80fd18.png) | 2018 | Totalselfhatred | Solitude |
-| 97 | ![Cover](https://i.discogs.com/Z2ZMJuQ21qzaxbErMcYpRWNDNB7LpEBljzWeSx5pXCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTE4/NzY5LTE1OTUxMDg5/MjItNTQxNC5qcGVn.jpeg) | 2018 | Harakiri for the Sky | Arson |
-| 30 | ![Cover](https://i.discogs.com/ZqSorSwU0FkQlbQRbbhHD5amzkt_sGRUbrtNjKEee7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTE3/NDkwLTE1MzY4MzIz/NTQtNjE5Ni5qcGVn.jpeg) | 2018-05-05 | An Autumn for Crippled Children | The Light Of September |
-| 40 | ![Cover](https://i.discogs.com/uvYP0ccz5QFbGeMFSB5zVV9olLOvMtm5SiQKV1xKz3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDUx/NTA3LTE2NTk0OTg2/MzctOTYwMC5qcGVn.jpeg) | 2018-05-25 | Svalbard | It&#39;s Hard To Have Hope |
-| 27 | ![Cover](https://i.discogs.com/Nqa7TPho9HCOLR2o_JTExyo4TLXcy8UPO5Zw4-XBsNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA5/MTM2LTE1MjI3NTM4/NzktMzk0OC5qcGVn.jpeg) | 2018-06-18 | Mesarthim | The Density Parameter |
-| 41 | ![Cover](https://i.discogs.com/hScSqg_Uq4ExL36048ZLm894Ts8Y6ow49rVvV0q5yUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjI2/OTIyLTE1MzE1ODkw/MjMtMTQ1MC5qcGVn.jpeg) | 2018-07-13 | Deafheaven | Ordinary Corrupt Human Love |
-| 42 | ![Cover](https://i.discogs.com/gs_DhPT89Gl9tXpwKjI_f-ZAaJnvZqhC_3i32ijtmcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI5/MzkxLTE2MTE5MTE1/NTctOTQ2MC5qcGVn.jpeg) | 2018-07-27 | Bonjour Tristesse | Your Ultimate Urban Nightmare |
-| 61 | ![Cover](https://i.discogs.com/zSrCEFp8QgTx36fpsN4SPSLlhOCouBEE1_-L2QelugI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg5/NTM1LTE1MzQyNzQ2/NDUtMTcyOC5qcGVn.jpeg) | 2018-08-02 | Skyforest | Harmony |
-| 60 | ![Cover](https://i.discogs.com/oHOorNV2lTsVMgPI_9fOfNTuyxnXBCIVweZIVIXGRII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk3/ODk4LTE1NDIxNDA1/NzEtMjgwNy5qcGVn.jpeg) | 2018-11-16 | Karg | Dornenvögel |
-| 99 | ![Cover](https://i.discogs.com/HLHTV6ZvPwD2Axdq8I1jRTVTKRkUl4ckpsXDovEWz4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQw/NzEyLTE0OTU2MzE4/MzktNTI3OC5qcGVn.jpeg) | 2018-12-07 | Myrkur | Två Konungabarn |
-| 67 | ![Cover](https://i.discogs.com/zxminrRrMBjQoNyi69BduClOrad27m_zYP6TeEsIYyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM3/MjMyLTE1NTQxOTg5/NTAtOTgxMS5qcGVn.jpeg) | 2019-03-29 | Ultar | Pantheon MMXIX |
-| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8e35d99dc0b0c9a87472fbf2a0b39c7e.png) | 2019-04-12 | Numenorean | Adore |
-| 79 | ![Cover](https://i.discogs.com/ZJxJTzxrqmEFXqjNsJ8GTWF-sw0VL-QnsuuXnmJknP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYy/NjU4LTE1NzUwMzY5/NDUtMjQ5My5qcGVn.jpeg) | 2019-11-29 | Ofdrykkja | Gryningsvisor |
-| 88 | ![Cover](https://i.discogs.com/FhXQZuUc2hwdroeB2Hxcr1D4dGrnaCva80ZLK7vwHYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU4/ODEyLTE2MDE1NDIx/MTYtNDAzMy5qcGVn.jpeg) | 2020-09-25 | Svalbard | When I Die, Will I Get Better? |
-| 32 | ![Cover](https://i.discogs.com/SCIWf5B2pdxwoKqK8TiFVKFSfRfs02ZrCYiAPpEr0_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODMy/MDQ1LTE2MjQzNjQ1/MzgtNTQ0Ni5qcGVn.jpeg) | 2021-05-21 | Odraza | Acedia |
-| 45 | ![Cover](https://i.discogs.com/8Zj_9YK_jv0B4yQAc4zxHIm1XEMXSCEf7ROpZUK3fWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTE3/NTg3LTE2MzA4MDAw/MjMtMjI4MS5qcGVn.jpeg) | 2021-09-03 | Trna | Istok |
-| 74 | ![Cover](https://i.discogs.com/eZCW0N3O-C66xT82tnj_iyqJ1VCUdy4CpDFfo-E3-1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzc1/MzY3LTE2NTUxOTU4/MDMtNDMxMS5qcGVn.jpeg) | 2021-10-29 | Ghost Bath | Self Loather |
-| 29 | ![Cover](https://i.discogs.com/GhCryTVyKA8E7mbQHPTx9WagEiNlRI3rPS000DjrSuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMx/NTA3LTE2ODIwNzkz/NzktNjc1MS5qcGVn.jpeg) | 2023-04-21 | Predatory Void | Seven Keys to the Discomfort of Being |
-| 10 | ![Cover](https://i.discogs.com/I_HcH1aYIuBUpNGANIRAqutWgoUTHx3pU2FMKrXq5iU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTEw/MzkxLTE2ODU5NTAz/MDctMjkwMi5qcGVn.jpeg) | 2023-05-19 | Heretoir | Wastelands |
-| 55 | ![Cover](https://i.discogs.com/WJ4LR_UVvBj_QkouhvTvXk8TZ0SDUYnfiMyQm2J5_1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDI4/MTUwLTE3MDQ3MjQ4/NzEtNzYzNy5qcGVn.jpeg) | 2024-01-08 | Hauntologist | Hollow |
-| 7 |  | 2024-04-26 | glassing | From the Other Side of the Mirror |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21b8c6df853bc6284b04d7970086b493.png" alt="Cover for Written In Waters" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Ved Buens Ende</td>
+      <td>Written In Waters</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 10</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/G5xLp2oN5O_NbWtirAu6lWVepBzWsqApUMRZaoJ2ro8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTU2/MDgtMTQxOTUxMTM5/OS0yNzc4LmpwZWc.jpeg" alt="Cover for Sen Trope" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Azis</td>
+      <td>Sen Trope</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 21</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 46</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 77</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 82</li>
+            <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td>2005-12-30</td>
+      <td>Sólstafir</td>
+      <td>Masterpiece of Bitterness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2007-12-22</td>
+      <td>Blutklinge</td>
+      <td>Reflection of a Bleak Mind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td>2008-09-15</td>
+      <td>Wedard</td>
+      <td>Wo Die Ewigkeit Die Zeit Berührt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td>2008-11</td>
+      <td>Black Autumn</td>
+      <td>Rivers Of Dead Leaves</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>2009-02-21</td>
+      <td>Sólstafir</td>
+      <td>Köld</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 2</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>2009-09-01</td>
+      <td>Insane Clown Posse</td>
+      <td>Bang! Pow! Boom!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 19</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 43</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 46</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 53</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 61</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 64</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 68</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 68</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 68</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 69</li>
+            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 69</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 74</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 77</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 79</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 79</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 85</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 86</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 86</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 86</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 90</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 91</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>2009-09-09</td>
+      <td>Soliness</td>
+      <td>The World Comes To An End In The End Of A Journey</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 28</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/zmFBq1faQ0XG4wqgbr3sxy36fTAya8roJuIEdvzEnuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTUw/NDAtMTI3OTEwNjEx/NC5qcGVn.jpeg" alt="Cover for Sweet Poison" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-01-28</td>
+      <td>Angst Skvadron</td>
+      <td>Sweet Poison</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td>2010-03-22</td>
+      <td>Justin Bieber</td>
+      <td>My Worlds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 22</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 37</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 39</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 46</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 49</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 50</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 52</li>
+            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 52</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 56</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 57</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 62</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 66</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 73</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 75</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 75</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 76</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 79</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 79</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 81</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 83</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 83</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 86</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/tlgcnc19SyoC97Ni-hh7OiH_RWR1gFgj8bhEBilO-wU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk1/NDgtMTI3OTQ1MTYy/Ni5qcGVn.jpeg" alt="Cover for Drifting Through The Void" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-04-16</td>
+      <td>Svarti Loghin</td>
+      <td>Drifting Through The Void</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2010-05</td>
+      <td>Apati</td>
+      <td>Morgondagen inställd i brist på intresse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 86</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41a535592c7d4128bede8408c183f17c.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-06-01</td>
+      <td>Deafheaven</td>
+      <td>Demo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 69 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 29</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>2010-11-15</td>
+      <td>Solefald</td>
+      <td>Norrøn Livskunst</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 12</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64b1c55cf96a26bd851e053a745e76bc.png" alt="Cover for Marrow of the Spirit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-11-23</td>
+      <td>Agalloch</td>
+      <td>Marrow of the Spirit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 96 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 25</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 64</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/NRjJRWb7W3_ELP5pYCZH_QyKFc2Ah1SC-r9SbfKqcck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODQ1/MjAtMTM2NjIwNzA5/Ni03MDE3LmpwZWc.jpeg" alt="Cover for Good Memories Are The Hardest To Keep" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-01-01</td>
+      <td>Sun Devoured Earth</td>
+      <td>Good Memories Are The Hardest To Keep</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td>2011-02-03</td>
+      <td>Mamaleek</td>
+      <td>Kurdaitcha</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td>2011-04-22</td>
+      <td>Forgotten Tomb</td>
+      <td>Under Saturn Retrograde</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+      </td>
+      <td>2011-04-25</td>
+      <td>Altar of Plagues</td>
+      <td>Mammal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/788ca03685f44878949f119c1c2e5d0e.png" alt="Cover for Roads to Judah" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-04-26</td>
+      <td>Deafheaven</td>
+      <td>Roads to Judah</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 36</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>2011-05-20</td>
+      <td>Peste Noire</td>
+      <td>L&#39;Ordure à l&#39;état Pur</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td>2011-06-04</td>
+      <td>Psychonaut 4</td>
+      <td>40%</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9523728e121fac0ef3bd9768b698f9ea.png" alt="Cover for Agape" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-10-28</td>
+      <td>Lantlôs</td>
+      <td>Agape</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td>2012-01-06</td>
+      <td>Alcest</td>
+      <td>Les voyages de l&#39;Âme</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 44</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/GburfQfoXWbxEai6boUty0WgKWTT81ycm8rXc9MxDkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTcw/NTctMTMzMzU3MTMy/NC5qcGVn.jpeg" alt="Cover for Рвота" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-02-28</td>
+      <td>культура курения</td>
+      <td>Рвота</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td>2012-03-12</td>
+      <td>Germ</td>
+      <td>Wish</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/ZPM5SqMS3RvCkxj1iNJtAjqKXWJL2_1ZfX4T6gYIfnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDMy/NDItMTMzNzAwMzgx/My0xNTk3LmpwZWc.jpeg" alt="Cover for Al Azif" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-04-27</td>
+      <td>The Great Old Ones</td>
+      <td>Al Azif</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>2012-05-10</td>
+      <td>Downfall of Gaia</td>
+      <td>Suffocating In The Swarm Of Cranes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/QIXKRgg-b_vJ8H-UKh3SLO0MQl2TNO5lixsgC4LJDDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzc5/NDAtMTMzMTk3Mjg2/Ni5qcGVn.jpeg" alt="Cover for Marzannie, Krolowej Polski" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-06-09</td>
+      <td>Furia</td>
+      <td>Marzannie, Krolowej Polski</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>2012-09-21</td>
+      <td>Blut aus Nord</td>
+      <td>777 - Cosmosophy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 32</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 77</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td>2012-09-29</td>
+      <td>Celephaïs</td>
+      <td>Tir n&#39;a n&#39;Og</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf0ca6f16f8b406cc0a5ac42d2f5ea4b.png" alt="Cover for Harakiri for the Sky" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-10-23</td>
+      <td>Harakiri for the Sky</td>
+      <td>Harakiri for the Sky</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>2013-01-15</td>
+      <td>Dreariness</td>
+      <td>My Mind is too Weak to Forget</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/inHQP22FatL21oqnfy0xh3Gl_f7PvB7IF6eFa7zi8nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjg0/ODgtMTU1NjY1ODA3/OS03Nzk4LmpwZWc.jpeg" alt="Cover for Hope Drone" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-01-24</td>
+      <td>Hope Drone</td>
+      <td>Hope Drone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/00MQgdnBCX_o__JRLqR1HzNuTb_PFLOx6wOyWlDAluo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDcy/MjUtMTM2MjQxNzQ2/Mi00MzUzLmpwZWc.jpeg" alt="Cover for Aetas Cineris" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-02-01</td>
+      <td>Agrypnie</td>
+      <td>Aetas Cineris</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td>2013-02-17</td>
+      <td>Ash Borer</td>
+      <td>Bloodlands</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>2013-02-28</td>
+      <td>Entropia</td>
+      <td>Vesper</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td>2013-04-13</td>
+      <td>Altar of Plagues</td>
+      <td>Teethed Glory and Injury</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a6a1123bb124e4890f20c956a63e734.png" alt="Cover for Sunbather" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05-28</td>
+      <td>Deafheaven</td>
+      <td>Sunbather</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 21</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 60</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td>2013-09-03</td>
+      <td>Vattnet Viskar</td>
+      <td>Sky Swallower</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82237c2dfaed47a8b5f9941b0e1a0d86.png" alt="Cover for Satyricon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-09-04</td>
+      <td>Satyricon</td>
+      <td>Satyricon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>2013-10-15</td>
+      <td>Castevet</td>
+      <td>Obsian</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2013-11-04</td>
+      <td>Germ</td>
+      <td>Grief</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 41</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2014-02-04</td>
+      <td>Ghost Bath</td>
+      <td>Funeral</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 43</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 59</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 86</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2014-04-16</td>
+      <td>The Great Old Ones</td>
+      <td>Tekeli-li</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf4eb791e6633037f1d79821ec339139.png" alt="Cover for Aokigahara" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-04-21</td>
+      <td>Harakiri for the Sky</td>
+      <td>Aokigahara</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/jiNPTPhngR2q-SQJ5HYNH8yOE7W88n1fg8zWCaFwLtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjAz/MjAtMTQwODk5MTcy/My01MTg4LmpwZWc.jpeg" alt="Cover for From the Kettle Onto the Coil" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-08-25</td>
+      <td>Deafheaven</td>
+      <td>From the Kettle Onto the Coil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td>2014-08-29</td>
+      <td>Sólstafir</td>
+      <td>Ótta</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td>2014-11-18</td>
+      <td>Fen</td>
+      <td>Carrion Skies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/OoYHkP-QCsBFjPulwRRzwXVpk9i9qYbp5hwukLYJUz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzU0/NjctMTQyNjM3MzA4/Mi0yODE4LmpwZWc.jpeg" alt="Cover for A Northern Meadow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Pyramids</td>
+      <td>A Northern Meadow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/cg0OCxnNcR575C3vuhw_qdZl5r9fP7nNJU4S5RAis34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTgz/MzYtMTQ0MzEzMzQ2/NS02MjU2LmpwZWc.jpeg" alt="Cover for One Day All This Will End" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Svalbard</td>
+      <td>One Day All This Will End</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/bQmYYymE6A3XwbKLJGRWdvLbt28K9QG6Pa6fKTijI10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTg3/OTgtMTUxNDM2NjQx/OS01NDE1LmpwZWc.jpeg" alt="Cover for The Long Goodbye" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-02-23</td>
+      <td>An Autumn for Crippled Children</td>
+      <td>The Long Goodbye</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/ebY9btgGgqplP2UECMnn6TgtcygxxUH4ofUzohLHa_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Nzg4/ODgtMTQ0NjE0OTk3/My02NzE5LnBuZw.jpeg" alt="Cover for Moonlover" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-04-10</td>
+      <td>Ghost Bath</td>
+      <td>Moonlover</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 90</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 90</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/Ne5iEDOPgA6YwltzxSEK9ROIhtxBIcZjLioLpJZMri4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODIx/MzYtMTQyODY3NDY3/MS01Mzc2LmpwZWc.jpeg" alt="Cover for All Fours" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-04-14</td>
+      <td>Bosse-de-Nage</td>
+      <td>All Fours</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/sUoDlbr8ImlRDVy_ZVisdM0mM8NeZ9KSh4XBZUmxPU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjk3/MTctMTQxNTIyNTY5/MS0yMjc4LmpwZWc.jpeg" alt="Cover for M (Deluxe Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-08-21</td>
+      <td>Myrkur</td>
+      <td>M (Deluxe Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60d9ba6c2d960a49646ccba69de73b63.png" alt="Cover for New Bermuda" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-02</td>
+      <td>Deafheaven</td>
+      <td>New Bermuda</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 81</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/iN40IwhWLU39tHStkiiY7pfEA7AwyYisCiuEsPapnSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjky/MDgtMTQzNDM3MzYy/Ny01NDc3LmpwZWc.jpeg" alt="Cover for Självdestruktivitet född av monotona tankegångar III" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-11</td>
+      <td>Hypothermia</td>
+      <td>Självdestruktivitet född av monotona tankegångar III</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/4nXLm3NIZiHClXw-dIuv4VR59dWe1K-xLSjlzcgo2OY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzQ2/OTMtMTQ1NDY1NjE4/MC05MjAxLmpwZWc.jpeg" alt="Cover for Magic Night" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-01-31</td>
+      <td>Violet Cold</td>
+      <td>Magic Night</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/LjXMq5aKUvqI_Aiv_VtCmOrRSIpZzr2ZiRbY84vbq2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg0/MTQwLTE0OTgzOTc1/NTItOTE2MC5qcGVn.jpeg" alt="Cover for Eternal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-03-01</td>
+      <td>An Autumn for Crippled Children</td>
+      <td>Eternal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/S1WZBN5b_CqQg2IOqarBuiLrN9eEPTwmQebj7gKzCLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTU0/NTctMTU2NTU5NzU2/NC0yMTQ0LmpwZWc.jpeg" alt="Cover for King Apathy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-05-13</td>
+      <td>Thränenkind</td>
+      <td>King Apathy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/UpoPV1ytrvKH6Nr3_PZx2XiigR4Rya2a5PaLWoIfqKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzUw/NTYtMTQ2ODUxMDY4/Mi0xOTY4LmpwZWc.jpeg" alt="Cover for Home" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-07-22</td>
+      <td>Numenorean</td>
+      <td>Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 44</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f6e92b71c32d0bd92aa7130e4787c51.png" alt="Cover for Rheia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-09-30</td>
+      <td>Oathbreaker</td>
+      <td>Rheia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/9OBe79HtvXf9UXjaSfsmEx2Xv3s1X2kcn3dVhWCiATY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjA2/NDEtMTQ3NTEzNTE3/NC0xMTc4LmpwZWc.jpeg" alt="Cover for Kodama" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-09-30</td>
+      <td>Alcest</td>
+      <td>Kodama</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 30</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/vyCPH7ph6S3diND0_AINobGhhddZ7dcBJUPdC-Rg5dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzQ3/NzMtMTU5MTI2OTQx/NC0xMzI0LmpwZWc.jpeg" alt="Cover for Atrophy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-11-11</td>
+      <td>Downfall of Gaia</td>
+      <td>Atrophy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/QVz4gMUk1kF2gm8RLSR5x8NBVQ_7FTafmr7VsCq_OwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDEy/MDctMTQ3ODkwNTQz/Mi00MDY1LmpwZWc.jpeg" alt="Cover for Weltenasche" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-11-14</td>
+      <td>Karg</td>
+      <td>Weltenasche</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/3z35vMAyvnVILDVUSY2GbtZRhHGPGHyU3y-x5lDxkYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODgw/MzY2LTE1MDY2Mjc2/MzMtNjA4MS5qcGVn.jpeg" alt="Cover for Deep Calleth Upon Deep" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Satyricon</td>
+      <td>Deep Calleth Upon Deep</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/dv2Ciu4Qd-W048-OOeF6HqtQWybbnhP5o11UPiIdYGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTg5/NzItMTU1NDkwODEx/MS0xMjk4LmpwZWc.jpeg" alt="Cover for Ons Vrije Fatum" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-01-09</td>
+      <td>Laster</td>
+      <td>Ons Vrije Fatum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 32</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 76</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/T9z9OdaKCsIdx1jNtI1YDFKOoJsBYcON_q-gZtz7FRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODIx/NjgtMTQ4NDY4MjY4/Ny0xODkyLmpwZWc.jpeg" alt="Cover for MIASMA" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-01-11</td>
+      <td>ROSK</td>
+      <td>MIASMA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/bAfX_R07OZKQ-Iv2GqhN8FUo4le_-rPrRzqVFtsBP0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4Njgx/NjItMTQ4NzY0NTI4/OS04NjU1LmpwZWc.jpeg" alt="Cover for EOD: A Tale Of Dark Legacy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-01-27</td>
+      <td>The Great Old Ones</td>
+      <td>EOD: A Tale Of Dark Legacy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/RF3cuj3yQZS53hWQZBdDxYtn6YuBzwTkXyjhRis8YtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTg2/NzMtMTU5OTgzMTY0/OC02Mzk5LmpwZWc.jpeg" alt="Cover for Dans La Joie" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-01-27</td>
+      <td>Au Champ Des Morts</td>
+      <td>Dans La Joie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/gmWAyay0VXAWFsiCWmjxWrDjmvu-vXpMf_ihWvOyefw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDY5/NTEtMTU0MTI1OTky/MS0yNzYzLmpwZWc.jpeg" alt="Cover for Hope" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-02-17</td>
+      <td>Mord&#39;A&#39;Stigmata</td>
+      <td>Hope</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/OjaIMQBoU4ekEocUvKuJYagBUQFx-J9y6mRh_Slu8_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMy/NDkzLTE0OTA0NTI0/ODQtOTI5MS5qcGVn.jpeg" alt="Cover for Vigilance Perennial" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-03-31</td>
+      <td>Falls of Rauros</td>
+      <td>Vigilance Perennial</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/1BZoCtL0hm2rwd036VhAYPs6QbZJXTWtYeHBgql5Lsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI5/ODQyLTE0OTI2MjU1/NzItNjQ5NC5wbmc.jpeg" alt="Cover for Starmourner" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-04-21</td>
+      <td>Ghost Bath</td>
+      <td>Starmourner</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 98 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 98 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+            <li style="font-size: calc(1rem * 98 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 98 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 24</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 67</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/gFlv5sEvdCoczdzxzMAo6KZHb_dLrfWPBPJeSrkQvSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjYx/MTM0LTE0OTQyNzcz/MjYtNzU4Ni5qcGVn.jpeg" alt="Cover for End of Chapter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-05-19</td>
+      <td>Au-Dessus</td>
+      <td>End of Chapter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fe58c7ab9cd1a2022df60f5b4b7772c.png" alt="Cover for Rozpad" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-09-01</td>
+      <td>svrm</td>
+      <td>Rozpad</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/MmPG_B_HUw8Eyu54doX6LN_vjWim5hJqLaaGYX2Jz20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDg2/NzE1LTE1MTcxNzc1/NTktNTI2OC5qcGVn.jpeg" alt="Cover for Reckless Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-27</td>
+      <td>Cory Asbury</td>
+      <td>Reckless Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 14</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 21</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 66</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 68</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 84</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 98</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e29014d7425119f423cc5f940f80fd18.png" alt="Cover for Solitude" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Totalselfhatred</td>
+      <td>Solitude</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/Z2ZMJuQ21qzaxbErMcYpRWNDNB7LpEBljzWeSx5pXCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTE4/NzY5LTE1OTUxMDg5/MjItNTQxNC5qcGVn.jpeg" alt="Cover for Arson" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Harakiri for the Sky</td>
+      <td>Arson</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 25</li>
+            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/ZqSorSwU0FkQlbQRbbhHD5amzkt_sGRUbrtNjKEee7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTE3/NDkwLTE1MzY4MzIz/NTQtNjE5Ni5qcGVn.jpeg" alt="Cover for The Light Of September" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-05-05</td>
+      <td>An Autumn for Crippled Children</td>
+      <td>The Light Of September</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/uvYP0ccz5QFbGeMFSB5zVV9olLOvMtm5SiQKV1xKz3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDUx/NTA3LTE2NTk0OTg2/MzctOTYwMC5qcGVn.jpeg" alt="Cover for It&#39;s Hard To Have Hope" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-05-25</td>
+      <td>Svalbard</td>
+      <td>It&#39;s Hard To Have Hope</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/Nqa7TPho9HCOLR2o_JTExyo4TLXcy8UPO5Zw4-XBsNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA5/MTM2LTE1MjI3NTM4/NzktMzk0OC5qcGVn.jpeg" alt="Cover for The Density Parameter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-06-18</td>
+      <td>Mesarthim</td>
+      <td>The Density Parameter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 54</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/hScSqg_Uq4ExL36048ZLm894Ts8Y6ow49rVvV0q5yUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjI2/OTIyLTE1MzE1ODkw/MjMtMTQ1MC5qcGVn.jpeg" alt="Cover for Ordinary Corrupt Human Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-07-13</td>
+      <td>Deafheaven</td>
+      <td>Ordinary Corrupt Human Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 94</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/gs_DhPT89Gl9tXpwKjI_f-ZAaJnvZqhC_3i32ijtmcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI5/MzkxLTE2MTE5MTE1/NTctOTQ2MC5qcGVn.jpeg" alt="Cover for Your Ultimate Urban Nightmare" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-07-27</td>
+      <td>Bonjour Tristesse</td>
+      <td>Your Ultimate Urban Nightmare</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/zSrCEFp8QgTx36fpsN4SPSLlhOCouBEE1_-L2QelugI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg5/NTM1LTE1MzQyNzQ2/NDUtMTcyOC5qcGVn.jpeg" alt="Cover for Harmony" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-02</td>
+      <td>Skyforest</td>
+      <td>Harmony</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/oHOorNV2lTsVMgPI_9fOfNTuyxnXBCIVweZIVIXGRII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk3/ODk4LTE1NDIxNDA1/NzEtMjgwNy5qcGVn.jpeg" alt="Cover for Dornenvögel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-11-16</td>
+      <td>Karg</td>
+      <td>Dornenvögel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/HLHTV6ZvPwD2Axdq8I1jRTVTKRkUl4ckpsXDovEWz4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQw/NzEyLTE0OTU2MzE4/MzktNTI3OC5qcGVn.jpeg" alt="Cover for Två Konungabarn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-12-07</td>
+      <td>Myrkur</td>
+      <td>Två Konungabarn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/zxminrRrMBjQoNyi69BduClOrad27m_zYP6TeEsIYyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM3/MjMyLTE1NTQxOTg5/NTAtOTgxMS5qcGVn.jpeg" alt="Cover for Pantheon MMXIX" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-03-29</td>
+      <td>Ultar</td>
+      <td>Pantheon MMXIX</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e35d99dc0b0c9a87472fbf2a0b39c7e.png" alt="Cover for Adore" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-04-12</td>
+      <td>Numenorean</td>
+      <td>Adore</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/ZJxJTzxrqmEFXqjNsJ8GTWF-sw0VL-QnsuuXnmJknP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYy/NjU4LTE1NzUwMzY5/NDUtMjQ5My5qcGVn.jpeg" alt="Cover for Gryningsvisor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-11-29</td>
+      <td>Ofdrykkja</td>
+      <td>Gryningsvisor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/FhXQZuUc2hwdroeB2Hxcr1D4dGrnaCva80ZLK7vwHYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU4/ODEyLTE2MDE1NDIx/MTYtNDAzMy5qcGVn.jpeg" alt="Cover for When I Die, Will I Get Better?" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-09-25</td>
+      <td>Svalbard</td>
+      <td>When I Die, Will I Get Better?</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/SCIWf5B2pdxwoKqK8TiFVKFSfRfs02ZrCYiAPpEr0_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODMy/MDQ1LTE2MjQzNjQ1/MzgtNTQ0Ni5qcGVn.jpeg" alt="Cover for Acedia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-05-21</td>
+      <td>Odraza</td>
+      <td>Acedia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/8Zj_9YK_jv0B4yQAc4zxHIm1XEMXSCEf7ROpZUK3fWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTE3/NTg3LTE2MzA4MDAw/MjMtMjI4MS5qcGVn.jpeg" alt="Cover for Istok" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-09-03</td>
+      <td>Trna</td>
+      <td>Istok</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/eZCW0N3O-C66xT82tnj_iyqJ1VCUdy4CpDFfo-E3-1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzc1/MzY3LTE2NTUxOTU4/MDMtNDMxMS5qcGVn.jpeg" alt="Cover for Self Loather" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-10-29</td>
+      <td>Ghost Bath</td>
+      <td>Self Loather</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
+            <li style="font-size: calc(1rem * 98 / 100)"> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 98 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 98 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 35</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 54</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 83</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/GhCryTVyKA8E7mbQHPTx9WagEiNlRI3rPS000DjrSuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMx/NTA3LTE2ODIwNzkz/NzktNjc1MS5qcGVn.jpeg" alt="Cover for Seven Keys to the Discomfort of Being" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-04-21</td>
+      <td>Predatory Void</td>
+      <td>Seven Keys to the Discomfort of Being</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/I_HcH1aYIuBUpNGANIRAqutWgoUTHx3pU2FMKrXq5iU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTEw/MzkxLTE2ODU5NTAz/MDctMjkwMi5qcGVn.jpeg" alt="Cover for Wastelands" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-05-19</td>
+      <td>Heretoir</td>
+      <td>Wastelands</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/WJ4LR_UVvBj_QkouhvTvXk8TZ0SDUYnfiMyQm2J5_1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDI4/MTUwLTE3MDQ3MjQ4/NzEtNzYzNy5qcGVn.jpeg" alt="Cover for Hollow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-01-08</td>
+      <td>Hauntologist</td>
+      <td>Hollow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>2024-04-26</td>
+      <td>glassing</td>
+      <td>From the Other Side of the Mirror</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a13487a327811babef8c0e5724d2b67d.png" alt="Cover for Jours pâles" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Asphodèle</td>
+      <td>Jours pâles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b60815523bf392fa759fe69a6bf55ed2.png" alt="Cover for Scorched Earth" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Harakiri for the Sky</td>
+      <td>Scorched Earth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
@@ -122,7 +2125,7 @@ Last updated: <time datetime="2025-10-25T03:33:28.283Z">Sat Oct 25 2025 06:33:28
 - [depressive black metal]({{ "/tags/depressive-black-metal" | relative_url }})
 - [shoegaze]({{ "/tags/shoegaze" | relative_url }})
 - [metal]({{ "/tags/metal" | relative_url }})
-- [post-metal]({{ "/tags/post-metal" | relative_url }})
 - [post-rock]({{ "/tags/post-rock" | relative_url }})
+- [post-metal]({{ "/tags/post-metal" | relative_url }})
 - [suicidal black metal]({{ "/tags/suicidal-black-metal" | relative_url }})
 - [depressive suicidal black metal]({{ "/tags/depressive-suicidal-black-metal" | relative_url }})

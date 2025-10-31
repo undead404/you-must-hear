@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T08:17:59.169Z
+date: 2025-10-31T01:59:14.027Z
 permalink: tags/rhythm-and-blues
 title: rhythm and blues
 ---
 
 ## rhythm and blues
 
-Last updated: <time datetime="2025-10-28T08:17:59.169Z">Tue Oct 28 2025 10:17:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-31T01:59:14.027Z">Fri Oct 31 2025 03:59:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,11 +24,12 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>1958</td>
@@ -39,6 +40,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -54,6 +59,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>87</td>
@@ -67,9 +76,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>1961</td>
@@ -81,9 +94,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td>1961</td>
@@ -94,6 +111,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -114,6 +135,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>96</td>
@@ -132,9 +157,15 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 85</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 89</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>1967-03-10</td>
@@ -145,9 +176,14 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 36</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/QPme2QvdJtvYoBNeZeyWsSacTh1uwhfhVGiOMZb97DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjk2/NzktMTYwMjAyNzUx/OC04OTk5LnBuZw.jpeg" alt="Cover for Respect" style="max-width:120px; height:auto;" />
       </td>
@@ -157,6 +193,11 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -175,9 +216,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>1969</td>
@@ -189,9 +234,14 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 95</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/bTr_jQc9v8CfZQcGEF2yEsUnL_MIYqOdXgbN_8tK2KM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTE2/NTgtMTI2ODYxNzk0/Mi5qcGVn.jpeg" alt="Cover for Testifyin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -207,6 +257,11 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>82</td>
@@ -219,12 +274,16 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>1970-01-08</td>
@@ -238,9 +297,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/962fb1e98f674588c5afce62fd887c28.png" alt="Cover for The Morning After" style="max-width:120px; height:auto;" />
       </td>
@@ -253,9 +316,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/rGBEIx7Ep3AHhxmfRWjM0GW2YA5Wg3zMh8HKcB73Xp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjcz/NTYtMTYwNzA3NDI0/OS01MjUwLmpwZWc.jpeg" alt="Cover for Poison Ivy" style="max-width:120px; height:auto;" />
       </td>
@@ -266,6 +333,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -282,9 +353,14 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/kResB-lqpzryDZLhJYfFxb0InUn8KA9IqtibXcglg5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njg4/NjktMTI5MTIxNjU1/MC5qcGVn.jpeg" alt="Cover for Moondog Matinee" style="max-width:120px; height:auto;" />
       </td>
@@ -296,6 +372,11 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -312,19 +393,8 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>
-      </td>
-      <td>1975</td>
-      <td>Bill Withers</td>
-      <td>Making Music</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
     </tr>
@@ -341,6 +411,30 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td>1975</td>
+      <td>Bill Withers</td>
+      <td>Making Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>93</td>
@@ -354,9 +448,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1976-05-27</td>
@@ -365,12 +463,16 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>1979-11-03</td>
@@ -381,9 +483,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/wjrBGaDOG1oHe1KAQT05Vc-apSsTdgUCL_qji73AAg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQ4/NTgtMTI4NTAwMzg1/Ni5qcGVn.jpeg" alt="Cover for Nero A Metà" style="max-width:120px; height:auto;" />
       </td>
@@ -403,6 +509,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 21</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 94</li>
+            <li> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>70</td>
@@ -418,9 +531,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>1981-11-30</td>
@@ -431,9 +548,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f72724c3f7c492faeaa4bcc6e5c89af.png" alt="Cover for Showtime!" style="max-width:120px; height:auto;" />
       </td>
@@ -446,9 +567,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>1983</td>
@@ -459,6 +584,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -476,9 +605,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>1987-05</td>
@@ -491,9 +624,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>1987-06-15</td>
@@ -507,9 +644,14 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 93</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>1988</td>
@@ -520,9 +662,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>1988</td>
@@ -532,6 +678,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -546,6 +696,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -563,6 +717,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>92</td>
@@ -576,9 +734,35 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 83</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 95</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/ASCPIG2kEO4l4zfnAm_JRxegk98ASr8p7WYaANOjdSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjYy/NTQtMTYxOTA0Mzk4/NS05NTgwLmpwZWc.jpeg" alt="Cover for Wild Honey (2001 - Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989-08-30</td>
+      <td>The Beach Boys</td>
+      <td>Wild Honey (2001 - Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
       <td>
       </td>
       <td>1991-11-19</td>
@@ -589,9 +773,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/4uPYKtsN60kT0mUOKsJX4KwDdFDcvLke4Tld9VXr1os/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAz/NzEtMTIzOTY1OTYw/NS5qcGVn.jpeg" alt="Cover for Nothin But Love" style="max-width:120px; height:auto;" />
       </td>
@@ -606,9 +794,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/-MfiCGPA2A_0Q70BBhWE1JyJ4MtfjGUgg0-MMDCAlUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjk2/MjQtMTU4MTUyMDYw/OC04OTA5LmpwZWc.jpeg" alt="Cover for I&#39;d Rather Go Blind" style="max-width:120px; height:auto;" />
       </td>
@@ -620,9 +812,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>1992-08-24</td>
@@ -634,9 +830,14 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 61</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/14HiOR-TNK7DmPaF5fu0dJJT6bSZBCxemI_ozDdcjCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTY5/NDYtMTQzMTc2OTI4/Ny0xNzAwLmpwZWc.jpeg" alt="Cover for All Natural Ingredients" style="max-width:120px; height:auto;" />
       </td>
@@ -646,6 +847,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -666,6 +871,12 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 49</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 87</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>67</td>
@@ -683,9 +894,15 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 32</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 80</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>1997</td>
@@ -698,9 +915,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/UGaTBvh9BnJ1bxQiVKk41aE6yjp-60xTqoaBEaUrXb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU5/NzQtMTMzMzU0MTkx/My5qcGVn.jpeg" alt="Cover for Mr. Wrong" style="max-width:120px; height:auto;" />
       </td>
@@ -713,9 +934,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/fPnVeh9il26_jWf2QU0LhrJt21vSHV_UmKNyaoT5C20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTg4/MzYtMTQwMzI3NTUx/Mi02MTM3LmpwZWc.jpeg" alt="Cover for The Very Best Of The Staple Singers" style="max-width:120px; height:auto;" />
       </td>
@@ -727,9 +952,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffecc36ae0c88be6573d709e0a23f308.png" alt="Cover for Blowin&#39; Your Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -741,6 +970,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -758,9 +991,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/5BSTngZOKrnXO8sgW45f0QIWzZDo2siG_funanXEnqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDQy/NjYxLTE2MDI0MTY2/MzMtNDIwNC5qcGVn.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -770,7 +1007,11 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -785,6 +1026,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -804,6 +1049,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>68</td>
@@ -814,27 +1063,35 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>Se Eu Não Te Amasse Tanto Assim</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 11</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 37</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 70</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2003-08-12</td>
@@ -846,22 +1103,14 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-          <img src="https://i.discogs.com/Slt96ViV_J1o3KYictXhMxRIhRJ62wKy4Mjfzx1oM-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Mzk5/ODItMTQ1MjA4MDAz/OC03NzczLmpwZWc.jpeg" alt="Cover for Amy" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Amy Winehouse </td>
-      <td>Amy</td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/QCySYLDkXDsYAU0cfRGKSDvUu2Kty-LSDQFxmC1RVd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTYx/OTUtMTUyNDk0NTU1/My0xOTY5LmpwZWc.jpeg" alt="Cover for You Had Me" style="max-width:120px; height:auto;" />
       </td>
@@ -874,9 +1123,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/bpKd2-dRPVcHeXkaxcCt4mdt5SrDFn6vxaiDFpgQWtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDg5/Mi0xMTY4ODg3NDA0/LmpwZWc.jpeg" alt="Cover for Mind Body and Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -891,9 +1144,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/9rKRkOeuE4kNjVu_SM9iWwup9Dwyf-OEjuMH_cDndC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDY1/MDctMTM2OTU4NjA2/NS05MDI1LmpwZWc.jpeg" alt="Cover for Mind, Body and Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -904,9 +1161,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/CBf-XSjtrCidDATLmQTIouV3ueJMTChxt_GmmN1msug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MzIy/NS0xMzEzMDg0NTc2/LmpwZWc.jpeg" alt="Cover for Mind Body &amp; Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -918,9 +1179,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/eZrIxeNS_tZGWmbaOg-SV0YWbXhezMRIfhZw9cQO6iE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ4/MjAtMTQ5NTc0NzY2/Ni01MzE4LmpwZWc.jpeg" alt="Cover for Introducing" style="max-width:120px; height:auto;" />
       </td>
@@ -932,9 +1197,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Uo8ZOHhZGq73kkaVIDVSg5BsmJvD78c96jokkWZq37g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODQy/MTQtMTUxMDQ4NTcy/Ni02NjUzLmpwZWc.jpeg" alt="Cover for Animals" style="max-width:120px; height:auto;" />
       </td>
@@ -948,9 +1217,14 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 85</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/_D2fs2Fy8c1FYX6vdFSDEEpezaVw3RN5iowp0hVgJvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTMw/MjktMTM4NDI3OTk0/NS05NjAxLmpwZWc.jpeg" alt="Cover for Berimbau Metalizado" style="max-width:120px; height:auto;" />
       </td>
@@ -978,9 +1252,15 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 43</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 84</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/vYdVIPMY0w1pT7fkFxLPfASQaglrjh2MWo098D3xDqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzMz/MTAtMTQ0OTM1MjM2/My0xNjgwLmpwZWc.jpeg" alt="Cover for Al Green - Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -990,12 +1270,16 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>2007-01-01</td>
@@ -1006,9 +1290,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2007-03-19</td>
@@ -1020,9 +1308,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/fX1NJqwVmgULYz4ntgM7YkbU7CtZAKD9F3JiiVEEINA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODAy/MzUtMTM5NDgyNjUx/NC0zNDc2LmpwZWc.jpeg" alt="Cover for The Small Faces" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,6 +1324,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1045,6 +1341,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1063,9 +1363,15 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 60</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 63</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2010-02-23</td>
@@ -1076,9 +1382,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/DfELAaj7siC3RhB4-23w39LaxR_7kdykqN9ZAXdQiUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk3/ODY1LTE1MzQ0NTU2/MjgtNzIzOS5qcGVn.jpeg" alt="Cover for Stop For A Minute" style="max-width:120px; height:auto;" />
       </td>
@@ -1090,9 +1400,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2010-04-20</td>
@@ -1102,6 +1416,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1120,9 +1438,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/hwN7-RFUH3UBw6bwLEQoqlssG_2n02bKWLWIbgsXnu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTYz/NjEtMTIwNDE5NjA5/Mi5qcGVn.jpeg" alt="Cover for Mercy (International Maxi)" style="max-width:120px; height:auto;" />
       </td>
@@ -1135,9 +1457,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2011</td>
@@ -1150,6 +1476,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1172,9 +1502,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2011-08-11</td>
@@ -1186,9 +1520,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/eMlplJa5vf1Y8xXXUSSaGjLNtTeABfROA3xFHuNfjvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDgw/OTEtMTM4NDcxMDY5/My0xNDI5LmpwZWc.jpeg" alt="Cover for The Dreamer" style="max-width:120px; height:auto;" />
       </td>
@@ -1201,9 +1539,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/077d7aeab42ab31814f4227273e0124b.png" alt="Cover for Boys &amp; Girls" style="max-width:120px; height:auto;" />
       </td>
@@ -1216,9 +1558,14 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 69 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 86</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/sPdB8YznIPGtz_o4awPbaoKvC7qDo2Y7qbabr3pOcTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzI1/NjMtMTM1MTAwODIz/NS02NTM4LmpwZWc.jpeg" alt="Cover for Write Me Back (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -1233,9 +1580,15 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 7</li>
+            <li> <a href="{{ "/tags/slow-jams" | relative_url }}">slow jams</a> # 82</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2013</td>
@@ -1267,6 +1620,11 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 44</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>69</td>
@@ -1279,6 +1637,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1304,6 +1666,17 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 54</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 67</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 83</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 96</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 100</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 100</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>61</td>
@@ -1317,6 +1690,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1335,6 +1712,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>99</td>
@@ -1351,6 +1732,12 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 53</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 74</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>63</td>
@@ -1364,6 +1751,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1383,6 +1774,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 78</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 81</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 87</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>73</td>
@@ -1397,6 +1795,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1415,6 +1817,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>94</td>
@@ -1431,9 +1837,14 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 59</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/ywE6QxxI3aYjwprlcGdmu73lC0c8Dhk_utSptpxFf8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjUw/ODQzLTE2NjY2NDMz/MTgtMTU1OS5qcGVn.jpeg" alt="Cover for Second Line" style="max-width:120px; height:auto;" />
       </td>
@@ -1448,9 +1859,14 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 89</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/pWV17vtni0CQ2QKgh4rEmPqW_vdFI8qzpdKpH3LWjbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODA3/NTU5LTE2MjE1MjQ4/MzUtNjQ1Mi5qcGVn.jpeg" alt="Cover for Sharecropper&#39;s Son" style="max-width:120px; height:auto;" />
       </td>
@@ -1467,9 +1883,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/D3zJ0ONU81XFnMNtctM0t6AF-bygfhmoBp1s5ULAgkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDkz/MDUtMTM4Njc1NjQz/OC01OTQxLmpwZWc.jpeg" alt="Cover for Modern Sounds In Country &amp; Western Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1482,6 +1902,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1497,6 +1921,11 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1517,6 +1946,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 49</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 61</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 70</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>84</td>
@@ -1532,9 +1968,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/H9DiiJyALAYOZg1mWAVpypX3MsnTc5HsU9mWruUO0bQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTk1/ODktMTU1MjgzMzY5/MC0xNjQ5LmpwZWc.jpeg" alt="Cover for Ray Charles" style="max-width:120px; height:auto;" />
       </td>
@@ -1544,6 +1984,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1560,9 +2004,13 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/_mDWWLKHqbs6ycujQjcrBEr4qEdeMlBfPHNX1cT4_4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjIz/Njc5LTE3MjUxNTQ1/OTAtMzI4OS5qcGVn.jpeg" alt="Cover for Revenge" style="max-width:120px; height:auto;" />
       </td>
@@ -1574,6 +2022,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1589,6 +2041,10 @@ Rhythm and blues is a soulful genre blending jazz, gospel, and blues influences 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
