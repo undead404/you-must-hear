@@ -9,110 +9,2008 @@ title: moombahton
 
 Last updated: <time datetime="2025-10-23T00:18:56.221Z">Thu Oct 23 2025 03:18:56 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Moombahton is a electronic dance music genre that fuses reggaeton&#39;s distinctive dembow rhythm with house music&#39;s energy, typically played at around 108-115 BPM. Born in 2009 when Dutch-house tracks were slowed down and infused with Latin percussion, it creates a sultry yet energetic sound. The genre blends Caribbean and Latin American influences with EDM production, making it popular in both mainstream pop and underground club scenes.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 3 |  |  | Moombah Bros | Blu Ember |
-| 5 |  |  | Sago Music, Dary NewFlow | El Deskite |
-| 8 |  |  | phaux | Silly Flanger |
-| 9 |  |  | Lin Stilson | Snowy Days EP |
-| 11 |  |  | J Balvin x Jeon x Anitta | Machika (Dillon Francis Remix) |
-| 13 |  |  | Sakura Ryoko | Dekko Senpai |
-| 14 |  |  | Brap! | THE BOOTY CHRONICLES |
-| 16 |  |  | SamySam Beats | No Puedo Mas |
-| 22 |  |  | Nikopol N. | Я, Cleric N., Молюсь за Вас каждый день. |
-| 26 |  |  | Harra | Is Dit Wat Je Wil |
-| 34 | ![Cover](https://i.discogs.com/SMUlNUcNmO87DErJvahfAinECeJ4q41PG6j-4rqVjTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzkx/NjU4LTE1OTA3Nzcx/OTAtMjQzMi5qcGVn.jpeg) | 1974 | John DOGgett | Hounds |
-| 28 | ![Cover](https://i.discogs.com/vB1l6RPiWUviAtx5pnswlZ1Z_2__GECXIrfr8w42NdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDc4/NjAtMTM5ODg4OTQ0/Ni03NTM3LmpwZWc.jpeg) | 2010-07-06 | Skinny Friedman | Moombahton de Acero |
-| 32 |  |  | SamySam Beats | Lost Beats, Vol. 2 |
-| 35 |  |  | crazy dj sHakeglaZe | Technopunk |
-| 51 |  |  | Bro Safari &amp; UFO! | Clockwork |
-| 39 | ![Cover](https://i.discogs.com/SMUlNUcNmO87DErJvahfAinECeJ4q41PG6j-4rqVjTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzkx/NjU4LTE1OTA3Nzcx/OTAtMjQzMi5qcGVn.jpeg) | 1974 | John DOGgett | Hounds EP |
-| 44 | ![Cover](https://i.discogs.com/SMUlNUcNmO87DErJvahfAinECeJ4q41PG6j-4rqVjTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzkx/NjU4LTE1OTA3Nzcx/OTAtMjQzMi5qcGVn.jpeg) | 1974 | John DOGgett | Bananas EP |
-| 89 | ![Cover](https://i.discogs.com/LsLCeemvP2FYaeySI-NiRIiefRGdz-an_HyeiiTaIxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTMx/MzUtMTM4ODc5NTI2/Mi01NTE3LmpwZWc.jpeg) | 1979 | Rogue | Badlands |
-| 59 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 1980-08 | Various Artists | r&#x2F;electrohouse homegrown: vol. 1, mixed by CATALUXX |
-| 56 | ![Cover](https://i.discogs.com/TEeFwQCbLOgP8pc-2HEXM1MnzQZxniwC6_9UvnGI754/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMz/Mjk5LTE1NTk5OTQx/MDYtODYyNi5qcGVn.jpeg) | 2001 | Rugged | Bella |
-| 60 | ![Cover](https://i.discogs.com/rm5DC32lB79TdxUHDVDb3qk-pLVgTuzsrDm3xKaZZxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDUz/ODMtMTQwNDMwMzE5/MC05NDE0LmpwZWc.jpeg) | 2006 | GTA | Buscando |
-| 66 | ![Cover](https://i.discogs.com/Zp8nArnJgb3nYYHZwnp3CeiR_USYprWotvrZFNzvvlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjYx/NjUtMTQzMjkxODM3/OC03OTQ3LnBuZw.jpeg) | 2009 | Major Lazer | Light It Up (Remix) |
-| 76 | ![Cover](https://i.discogs.com/Wxy4QmP02NfpEVn1dY7QKdr2QE3D-4wL39vt8weue08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjM3/ODAtMTUwODE2Nzk1/OC03MTAyLmpwZWc.jpeg) | 2010-04-19 | Munchi | Moombahton Promo |
-| 64 | ![Cover](https://i.discogs.com/TZ-Eix5XWKFP9kldNnjqfYQEY3tSYRKhgDKdArUTd4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDUx/NDEtMTMwMTgzNTIx/NC5qcGVn.jpeg) | 2011-03-29 | Kito &amp; Reija Lee | Blow Your Head Vol.2: Dave Nada Presents Moombahton |
-| 74 | ![Cover](https://i.discogs.com/PE8lviB1u9b0b5P0SjdhsGUOUnPTTQg9k1NmEjYsssc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjc1/MTQtMTMxODgwNTIx/NC5qcGVn.jpeg) | 2011-10-10 | Hardwell | Badam |
-| 6 | ![Cover](https://i.discogs.com/g3kDxK2X_w-g9J1b5eaoJn9iW3auMy-c_rxh0gRffjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjEy/NDctMTM3MzM5Nzcy/Ny01NzQ5LmpwZWc.jpeg) | 2012 | Sarah Young | I Am Sarah Young |
-| 61 | ![Cover](https://i.discogs.com/mAONb8lMWo4ER0WrZeem3Rere4UkbfYPPnbSlrekHDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTA0/NjctMTMyNjkwMDE5/OC5qcGVn.jpeg) | 2012-01-17 | Second Sky | The Art of Influence Remixed |
-| 92 |  | 2012-02-14 | Dillon Francis | Something, Something, Awesome. |
-| 94 | ![Cover](https://i.discogs.com/Sa23r_QOUwcyLx8Ea0vElPimYu9f9gdnxpwpGKbqIfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjY5/MDItMTMzOTUzMTU3/MS0yNTA1LmpwZWc.jpeg) | 2012-06-12 | Diplo | Express Yourself |
-| 29 | ![Cover](https://i.discogs.com/zlQWlf7ZwNegJGNAtqi30rkm_bTVIwWzNViFQ-yfzIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQx/OTEwLTE1MTk5MDkw/NDYtMzA0OC5qcGVn.jpeg) | 2012-06-22 | andykisaragi | Planckton EP #1 |
-| 17 | ![Cover](https://i.discogs.com/P2cR604AVZQ7XbdlBZiqr9gFwaXjWfwsDn4WB81WfK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTY2/MzItMTM0NDc4MjYz/NC01MTEwLmpwZWc.jpeg) | 2012-06-25 | TH Moy | Some Light |
-| 40 | ![Cover](https://i.discogs.com/oTqo6Y7a5cxQP5xQCcEjzx86iUm3X7KTahdMBVb5yFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTMx/NzAtMTM1NTAwMTEw/Ny03MzIyLmpwZWc.jpeg) | 2012-12-05 | Graz &amp; Booty Giuliani | Asses Of Fury |
-| 23 | ![Cover](https://i.discogs.com/jqvcrNFgNZimWKNP1WmuqysynYXuPOMpNhH2JJvEbvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQx/ODkzLTE1MTk5MDg4/NDAtOTg5MS5qcGVn.jpeg) | 2013-01-07 | andykisaragi | Planckton EP #2 |
-| 36 |  | 2013-01-22 | Infected Mushroom | Friends On Mushrooms, Vol. 1 - EP |
-| 48 | ![Cover](https://i.discogs.com/1I0_okrcFAX31fy0Yt1TVx_VhIOM8JYkKybxOQGz-vU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDE4/NTctMTQwMzA1MTY2/MS02MzY5LmpwZWc.jpeg) | 2013-01-22 | Infected Mushroom | Friends on Mushrooms, Volume 1 |
-| 84 |  | 2013-05-27 | Virtual Riot | There Goes Your Money |
-| 37 | ![Cover](https://i.discogs.com/f0-d4vbQWE1xSr-FwChmRV-qfyDOOnld83Q41jDSaPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODY3/NjEyLTE3MTc0OTQw/NDUtMzgzNS5qcGVn.jpeg) | 2013-06-01 | beats:metaphysical | Alchemy EP |
-| 69 | ![Cover](https://i.discogs.com/TEUSdlFySczHiR0YFlRgpxZ_S20MnHAjans4NNOPdic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTQ0/MTQtMTQzNDk0MjA1/My01OTc2LmpwZWc.jpeg) | 2013-07-17 | Afro Bros | Breek Je Bakka |
-| 91 |  | 2013-10-07 | Chase &amp; Status | Brand New Machine |
-| 93 |  | 2013-10-08 | Diplo | Revolution |
-| 63 |  | 2013-11-04 | M.I.A. | Matangi |
-| 49 | ![Cover](https://i.discogs.com/g7mng_Op8lnM8cR21iKx_Z3dHDLmr4GKWwnIPXO8C_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQ3/NTU5LTE0OTU3NDU1/MDctMTM1Ni5qcGVn.jpeg) | 2014-05-13 | Charlie Darker | Deadroll [Single] |
-| 81 | ![Cover](https://i.discogs.com/PfcmPjE9qqQHEJ0FYmk4ui04xobiXBkOnKq0oOpuRW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTQ4/MjktMTQxNjI1NTQz/NC03OTAxLmpwZWc.jpeg) | 2014-05-16 | Tropkillaz | Tchum Tchah |
-| 52 | ![Cover](https://i.discogs.com/1I0_okrcFAX31fy0Yt1TVx_VhIOM8JYkKybxOQGz-vU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDE4/NTctMTQwMzA1MTY2/MS02MzY5LmpwZWc.jpeg) | 2014-06-17 | Infected Mushroom | Friends on Mushrooms, Vol.1 |
-| 65 | ![Cover](https://i.discogs.com/jvo9VTjoiyTUdyBj0_qeYtrfmeij0W5m4byMQ4eia90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTgx/NjYtMTQ0NDgzOTA0/My04NDQ4LnBuZw.jpeg) | 2014-10-01 | Dillon Francis | BaBaBa (Vete Pa’Ya) |
-| 4 | ![Cover](https://i.discogs.com/0kTw_AooaTesa1u7-KckvcKj40pCP0vkuB1U0ap9A_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njcz/NzMwLTE2MTQ3OTI5/NDQtMjQ0My5qcGVn.jpeg) | 2015 | DenDerty | Тотальное самоубийство (VIP &amp; Remixes) |
-| 77 | ![Cover](https://i.discogs.com/yNQJt1KexDm45zj6r0rsYoXAgLRRUmiDXsaX0UIbZeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzI1/ODQtMTQ1MTkxNjYy/Mi01MTQ4LmpwZWc.jpeg) | 2015 | Dillon Francis | Moombahton Mix (Continuous Mix) |
-| 82 | ![Cover](https://i.discogs.com/IsprUu_IZqrQFvhOTZp-piFo9fMZR2dyqJjwmpFyfNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTcy/MzA4LTE1OTM4NTY2/NjEtMjE0My5qcGVn.jpeg) | 2015 | Skrillex &amp; Diplo | Skrillex and Diplo Present Jack Ü |
-| 83 | ![Cover](https://i.discogs.com/1I0_okrcFAX31fy0Yt1TVx_VhIOM8JYkKybxOQGz-vU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDE4/NTctMTQwMzA1MTY2/MS02MzY5LmpwZWc.jpeg) | 2015-01-06 | Infected Mushroom | Friends On Mushrooms, Vol. 1 |
-| 80 | ![Cover](https://i.discogs.com/opPqcUP6DhsKijudEFUP8jebT5ADWZLXKsUdjk_IMLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTYw/NzItMTQ0NjkyMTMw/MS0yMzMyLmpwZWc.jpeg) | 2015-11-06 | Yellow Claw | Villain |
-| 71 | ![Cover](https://i.discogs.com/LgH99u340SYTTB_dtJmLS79ZU8CRDoBUjxjIztLemK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDUz/NjQtMTQ2Mzc2Mjgw/MC0xNTA1LmpwZWc.jpeg) | 2016-05-20 | A-Trak | Prayer Hands |
-| 30 | ![Cover](https://i.discogs.com/rFjMgCmDMl6hNWaRChoGZe1xLMyAetyOHcbONo8dDNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTU1/MjYtMTQ2Njc4OTI0/Ni05OTI3LmpwZWc.jpeg) | 2016-06-24 | Ma-less | Untitled Album |
-| 54 | ![Cover](https://i.discogs.com/m44OmnUvHF_e-36hCLLhfwb4KcnmZlKCVtvcMUG0Qw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTY2/OTctMTQ2NzIyNzcw/OS00MjE5LmpwZWc.jpeg) | 2016-06-24 | Dillon Francis | LFGD |
-| 78 | ![Cover](https://i.discogs.com/168m2SLlHHxse5hi0M9bRDv72iO7PMokO0pYBqWDcr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDk2/NzgtMTQ2Nzk0NDM2/Ny01MjIxLmpwZWc.jpeg) | 2016-07-08 | Feed Me | Feed Me’s Family Reunion |
-| 88 | ![Cover](https://i.discogs.com/jXRossfMpfjLvXEMxA0W1sH4PSwD_aPYPghmhNkJo1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTE1/NzgtMTQ3Mjg5NTkz/Mi05OTU4LmpwZWc.jpeg) | 2016-09-02 | Getter | Wat The Frick EP |
-| 15 | ![Cover](https://i.discogs.com/nsjHsMU6zV4ZUGedRWJf2szWCDJVBUfvsN0twKBui2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzEz/NTk0LTE1NTk1NzU3/MzktODA0OC53ZWJw.jpeg) | 2016-12-30 | Meroshi | 出鱈目 Pt.3 |
-| 38 | ![Cover](https://i.discogs.com/nsjHsMU6zV4ZUGedRWJf2szWCDJVBUfvsN0twKBui2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzEz/NTk0LTE1NTk1NzU3/MzktODA0OC53ZWJw.jpeg) | 2016-12-30 | Meroshi | Overrated |
-| 97 | ![Cover](https://i.discogs.com/CD8TUaJEUFjlCbOB_diwty3b4OArIv5zru_gzFaHMn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUz/NzM0LTE1NDg5ODcx/ODMtNjE2My5qcGVn.jpeg) | 2017-01-20 | Nicky Jam | x |
-| 70 | ![Cover](https://i.discogs.com/E0I8WoISMy0_x0gJ8aEOMWD4GwJ11FZ3lAxKWGUeOb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg2/NzY5LTE1MzQyMjgy/MDgtMzI4Ny5qcGVn.jpeg) | 2017-04-10 | REACH | Bollywood Stunna |
-| 79 | ![Cover](https://i.discogs.com/UoPuHiiFzolImdCLYhvlKJdatYrnbuoNgpiwm3Gj1H4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDcx/ODI5LTE1MzU5NjYx/MTQtNDMzOS5qcGVn.jpeg) | 2017-06-01 | Major Lazer | All My Life (feat. Burna Boy) |
-| 100 | ![Cover](https://i.discogs.com/NvGn-st72E2i9oK_1NzPoBd-q1yP1H6p65AGU00Ei4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTc5/NzUtMTM0NDEwMTE2/OS0zMTczLmpwZWc.jpeg) | 2017-06-01 | Major Lazer | Know No Better |
-| 7 | ![Cover](https://i.discogs.com/OtwecZHxdgKymeqrhgMEW4DAsGHHvE6NXYUFQBsNOac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTMw/NTQyLTE1MDY3MTI4/NzYtNzEyMC5qcGVn.jpeg) | 2017-09-22 | Yuri Viroj | Taco Salsa |
-| 18 | ![Cover](https://i.discogs.com/OtwecZHxdgKymeqrhgMEW4DAsGHHvE6NXYUFQBsNOac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTMw/NTQyLTE1MDY3MTI4/NzYtNzEyMC5qcGVn.jpeg) | 2017-09-22 | Yuri Viroj | Versatile |
-| 19 |  |  | OptoKinetic | Reflex EP |
-| 20 |  |  | Major Lazer, Mapei, Mr. Evil | Guns Don&#39;t Kill People...Lazers Do |
-| 43 | ![Cover](https://i.discogs.com/Z5_tY36w7jGvKv5MVxE6pBVKaAKbM268tCHlpzWEJ64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU5/Mjk5LTE1MDkxMDE3/OTktNTg4Mi5qcGVn.jpeg) | 2017-10-10 | Yellow Claw &amp; Juyen Sebulba | Do You Like Bass? (Remixes) |
-| 33 | ![Cover](https://i.discogs.com/hrAEZBwQLCCKyl9Bbgff47PevbhKz7WkvyEQ3-pV84M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/NjQxLTE1MTc5Mjc4/MDctMTA3MC5qcGVn.jpeg) | 2017-12-15 | BAD ROYALE | Forever Isn&#39;t Promised |
-| 42 |  |  | RÍRYLEY DON | F U N D I Ç Ã O |
-| 46 |  |  | Tropkillaz &amp; Major Lazer | Loko |
-| 50 |  |  | Amerzone | Hold On EP (Remixes) |
-| 1 | ![Cover](https://i.discogs.com/TevfDUf-I5WHaFv-gSJO0lFKca4QR0m1Vlx_9ze6X3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk0/ODY2LTE2NDI1NDk1/OTgtNTQwMC5qcGVn.jpeg) | 2018 | AudioTrackerz | Wobble Box |
-| 2 | ![Cover](https://i.discogs.com/TevfDUf-I5WHaFv-gSJO0lFKca4QR0m1Vlx_9ze6X3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk0/ODY2LTE2NDI1NDk1/OTgtNTQwMC5qcGVn.jpeg) | 2018 | AudioTrackerz | Let&#39;s Bounce |
-| 10 | ![Cover](https://i.discogs.com/TevfDUf-I5WHaFv-gSJO0lFKca4QR0m1Vlx_9ze6X3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk0/ODY2LTE2NDI1NDk1/OTgtNTQwMC5qcGVn.jpeg) | 2018 | AudioTrackerz | Go Hard |
-| 12 | ![Cover](https://i.discogs.com/TevfDUf-I5WHaFv-gSJO0lFKca4QR0m1Vlx_9ze6X3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk0/ODY2LTE2NDI1NDk1/OTgtNTQwMC5qcGVn.jpeg) | 2018 | AudioTrackerz | Tetriss |
-| 90 | ![Cover](https://i.discogs.com/z21_1455KAzxGRy7uw45UaFFEvsI1tGY4f27xeFAvaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODUz/NzgxLTE1NDMyMjM5/NDctOTA5Ni5qcGVn.jpeg) | 2018 | DJ Snake | Magenta Riddim |
-| 31 | ![Cover](https://i.discogs.com/VaZAqOPSsIbY9U9Seysws5ESGj0xuJ3zyuATlyC9Esc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTUz/MDc2LTE1MTgzNzc4/MDMtNTI0NC5qcGVn.jpeg) | 2018-02-09 | GTA | Death To Genres Vol. 3 |
-| 85 | ![Cover](https://i.discogs.com/bk4jnlVtYk5RsTSKrmMmnxjABHRqBY_4UQx9LADTyVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI4/Njg0LTE1NDI3Mzg1/OTktNDY1Ny5qcGVn.jpeg) | 2018-02-13 | Krewella | Alibi |
-| 21 | ![Cover](https://i.discogs.com/yfhIe4kNgErNanDlYlcd2Mi9fMHhVylZwKDou3MSGNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/ODYwLTE1MzM2NDgx/MjUtNjkyMS5qcGVn.jpeg) | 2018-04-13 | Residente &amp; Dillon Francis | Sexo |
-| 99 | ![Cover](https://i.discogs.com/UXLiMcvY-FZXsMmu4MKiMrDKAU7Nro8rFjzk_zGKOKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk3/Mjg4LTE1NDU5NDMz/NDktMjgwMS5qcGVn.jpeg) | 2018-05-03 | (G)I-DLE | I Am |
-| 24 | ![Cover](https://i.discogs.com/qmNcj8-GjgdMFD5IKfDK7AFSyjxqnmeUL3OFjyXrqlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTg1/NDE2LTE1MjYwMjk5/MDgtODU4Ni5qcGVn.jpeg) | 2018-05-11 | Diplo &amp; Mø | Stay Open |
-| 25 | ![Cover](https://i.discogs.com/XpVm04Xk2k1jNJ42KcMi6yztT3S2f_wC4NZiZeafleg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU2/Mzg0LTE1MjU0NDI2/ODgtODAyNi5qcGVn.jpeg) | 2018-05-11 | BAD ROYALE | Return of the Kings |
-| 53 | ![Cover](https://i.discogs.com/VYtoJHyv7MkwjvBmBV8fDVE9PLOy35qD_oerBPAMdLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkz/NDMxLTE1MzAxODcz/MTUtNDEwNS5qcGVn.jpeg) | 2018-06-22 | Swanky Tunes | Rooftop Party |
-| 27 | ![Cover](https://i.discogs.com/sfezPDztMIJ-0JpCtUti4V9yH3s-4CPl_BqpA9tjsic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYy/NTE0LTE1NTY1NTgz/MDgtOTcxNS5qcGVn.jpeg) | 2019-04-29 | Kuuro | Bad Habits EP |
-| 41 |  |  | SamySam Beats | Aguenta So |
-| 45 | ![Cover](https://i.discogs.com/vCPwAd7fnNswFUmzsz6V9mjigzeLlIPVQm0BKYinIBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU2/Mzk2LTE1ODI5MTM0/NjItNzQ2My5qcGVn.jpeg) | 2020-02-27 | Residente | WUT WUT |
-| 55 |  |  | SamySam Beats | Vida |
-| 98 | ![Cover](https://i.discogs.com/ZJWrfcBgqiayvIfi1fzJ0mXu8YcTST_d8nQiTAnznwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk0/NTUyLTE1NjM1MDc1/NzUtNTY5My5qcGVn.jpeg) | 2018-08-14 | (G)I-DLE | HANN (Alone) |
-| 68 | ![Cover](https://i.discogs.com/XX4K4QnrWXCtVOxvIGrgc6Shh2ICIpihd_ZyQBeHZEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/NjI5LTE1NDIyMzM2/NjgtMTA0OS5wbmc.jpeg) | 2018-08-24 | Nafthaly Ramona | Nasty |
-| 57 | ![Cover](https://i.discogs.com/O-ZMTYYBWV7wB2UNBSgdrcryw_YpTPuzQPyKFQ8tM7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg1/OTYwLTE1NjEwODI1/NTYtMTM1NS5qcGVn.jpeg) | 2018-10-09 | Downlink | Threat |
-| 58 |  |  | Stinky Soul | The Moombahton Virus |
-| 86 | ![Cover](https://i.discogs.com/z21_1455KAzxGRy7uw45UaFFEvsI1tGY4f27xeFAvaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODUz/NzgxLTE1NDMyMjM5/NDctOTA5Ni5qcGVn.jpeg) | 2018 | DJ Snake | Maradona Riddim |
-| 72 | ![Cover](https://i.discogs.com/d5HJ9WLuOZpU5HBkySivV7uS3eYztFXK2hhbcvkwaUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTIw/NjkzLTE2MjM1NDMx/MDAtNzczMC5qcGVn.jpeg) | 2018-10-19 | GTA | La Nueva Clásica |
-| 67 | ![Cover](https://i.discogs.com/3It73ZIE35mhID4Mrijl0ilUCe4y4QmBE2qn4g4vV_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/NjAwLTE1NDIyMzMw/MTAtOTI1NS5wbmc.jpeg) | 2018-11-02 | Nafthaly Ramona | Sportschool (feat. Jhorrmountain &amp; Poke) |
-| 96 | ![Cover](https://i.discogs.com/uug5Hnk79R55R5Dj6B2rFR9Rfh7bF5IGAhdc0Fpc99E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDg2/MzI5LTE1NDc4MTY5/NDQtMjEyNC5qcGVn.jpeg) | 2019-01-11 | CupcakKe | Squidward Nose |
-| 62 | ![Cover](https://i.discogs.com/u4BxV9p9K3kax6b5jb5MC-ghZoe20yC0ARwbR5OIbQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODc4/ODMyLTE1NjMxNDg4/ODAtNDE0NS5qcGVn.jpeg) | 2019-04-28 | Hato | Vies |
-| 95 | ![Cover](https://i.discogs.com/IZ6Xm2QDxY8zo6MoVe86k-h5GZ2YSGVN4Jl54Tx2tuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzkz/ODg0LTE1NjMzMzEz/ODItMTM0Ni5qcGVn.jpeg) | 2019-05-15 | EXID | WE |
-| 75 | ![Cover](https://i.discogs.com/rR-X3MHzhn0wi9ZI2TSIFfxi6k-MUxssocXQiUOOKDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE0/MjU2LTE1NTk1ODUy/NjMtOTg1OC5qcGVn.jpeg) | 2019-06-03 | Kuuro | Trigger |
-| 87 | ![Cover](https://i.discogs.com/OpM8SQd75sobyyvp7sk1NbhYmbpchElYIWVDvQh6Bgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTM3/Mzc3LTE2NDc0MjU1/NDAtMjgwNC5qcGVn.jpeg) | 2019-09-12 | Aero Chord | The Sound |
-| 73 | ![Cover](https://i.discogs.com/EVEA-aOcISpdnTwWspystp81C7khj5zK3RlDe5IgQLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDcy/Mzg3LTE2NDQzMDU0/MzctOTEyMy5qcGVn.jpeg) | 2021-07-30 | Cesqeaux | Shake It |
-| 47 | ![Cover](https://i.discogs.com/3AHPQsFWtnGELxTRCVDn4_jRCzOP0KLpf2xgkZNoz-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIy/NTUwLTE2NDc1MTI3/OTUtNDc4Ny5qcGVn.jpeg) | 2023-11-17 | Alison Wonderland | Awake [Explicit] |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/SMUlNUcNmO87DErJvahfAinECeJ4q41PG6j-4rqVjTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzkx/NjU4LTE1OTA3Nzcx/OTAtMjQzMi5qcGVn.jpeg" alt="Cover for Hounds" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>John DOGgett</td>
+      <td>Hounds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/SMUlNUcNmO87DErJvahfAinECeJ4q41PG6j-4rqVjTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzkx/NjU4LTE1OTA3Nzcx/OTAtMjQzMi5qcGVn.jpeg" alt="Cover for Hounds EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>John DOGgett</td>
+      <td>Hounds EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/SMUlNUcNmO87DErJvahfAinECeJ4q41PG6j-4rqVjTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzkx/NjU4LTE1OTA3Nzcx/OTAtMjQzMi5qcGVn.jpeg" alt="Cover for Bananas EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>John DOGgett</td>
+      <td>Bananas EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/LsLCeemvP2FYaeySI-NiRIiefRGdz-an_HyeiiTaIxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTMx/MzUtMTM4ODc5NTI2/Mi01NTE3LmpwZWc.jpeg" alt="Cover for Badlands" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Rogue</td>
+      <td>Badlands</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for r&#x2F;electrohouse homegrown: vol. 1, mixed by CATALUXX" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980-08</td>
+      <td>Various Artists</td>
+      <td>r&#x2F;electrohouse homegrown: vol. 1, mixed by CATALUXX</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/TEeFwQCbLOgP8pc-2HEXM1MnzQZxniwC6_9UvnGI754/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMz/Mjk5LTE1NTk5OTQx/MDYtODYyNi5qcGVn.jpeg" alt="Cover for Bella" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Rugged</td>
+      <td>Bella</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/rm5DC32lB79TdxUHDVDb3qk-pLVgTuzsrDm3xKaZZxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDUz/ODMtMTQwNDMwMzE5/MC05NDE0LmpwZWc.jpeg" alt="Cover for Buscando" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>GTA</td>
+      <td>Buscando</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/Zp8nArnJgb3nYYHZwnp3CeiR_USYprWotvrZFNzvvlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjYx/NjUtMTQzMjkxODM3/OC03OTQ3LnBuZw.jpeg" alt="Cover for Light It Up (Remix)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Major Lazer</td>
+      <td>Light It Up (Remix)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/Wxy4QmP02NfpEVn1dY7QKdr2QE3D-4wL39vt8weue08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjM3/ODAtMTUwODE2Nzk1/OC03MTAyLmpwZWc.jpeg" alt="Cover for Moombahton Promo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-04-19</td>
+      <td>Munchi</td>
+      <td>Moombahton Promo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/vB1l6RPiWUviAtx5pnswlZ1Z_2__GECXIrfr8w42NdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDc4/NjAtMTM5ODg4OTQ0/Ni03NTM3LmpwZWc.jpeg" alt="Cover for Moombahton de Acero" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-07-06</td>
+      <td>Skinny Friedman</td>
+      <td>Moombahton de Acero</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/TZ-Eix5XWKFP9kldNnjqfYQEY3tSYRKhgDKdArUTd4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDUx/NDEtMTMwMTgzNTIx/NC5qcGVn.jpeg" alt="Cover for Blow Your Head Vol.2: Dave Nada Presents Moombahton" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-03-29</td>
+      <td>Kito &amp; Reija Lee</td>
+      <td>Blow Your Head Vol.2: Dave Nada Presents Moombahton</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/PE8lviB1u9b0b5P0SjdhsGUOUnPTTQg9k1NmEjYsssc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjc1/MTQtMTMxODgwNTIx/NC5qcGVn.jpeg" alt="Cover for Badam" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-10-10</td>
+      <td>Hardwell</td>
+      <td>Badam</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/g3kDxK2X_w-g9J1b5eaoJn9iW3auMy-c_rxh0gRffjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjEy/NDctMTM3MzM5Nzcy/Ny01NzQ5LmpwZWc.jpeg" alt="Cover for I Am Sarah Young" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Sarah Young</td>
+      <td>I Am Sarah Young</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grime" | relative_url }}">grime</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/mAONb8lMWo4ER0WrZeem3Rere4UkbfYPPnbSlrekHDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTA0/NjctMTMyNjkwMDE5/OC5qcGVn.jpeg" alt="Cover for The Art of Influence Remixed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-01-17</td>
+      <td>Second Sky</td>
+      <td>The Art of Influence Remixed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>2012-02-14</td>
+      <td>Dillon Francis</td>
+      <td>Something, Something, Awesome.</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/Sa23r_QOUwcyLx8Ea0vElPimYu9f9gdnxpwpGKbqIfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjY5/MDItMTMzOTUzMTU3/MS0yNTA1LmpwZWc.jpeg" alt="Cover for Express Yourself" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-06-12</td>
+      <td>Diplo</td>
+      <td>Express Yourself</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/zlQWlf7ZwNegJGNAtqi30rkm_bTVIwWzNViFQ-yfzIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQx/OTEwLTE1MTk5MDkw/NDYtMzA0OC5qcGVn.jpeg" alt="Cover for Planckton EP #1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-06-22</td>
+      <td>andykisaragi</td>
+      <td>Planckton EP #1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/P2cR604AVZQ7XbdlBZiqr9gFwaXjWfwsDn4WB81WfK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTY2/MzItMTM0NDc4MjYz/NC01MTEwLmpwZWc.jpeg" alt="Cover for Some Light" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-06-25</td>
+      <td>TH Moy</td>
+      <td>Some Light</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/oTqo6Y7a5cxQP5xQCcEjzx86iUm3X7KTahdMBVb5yFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTMx/NzAtMTM1NTAwMTEw/Ny03MzIyLmpwZWc.jpeg" alt="Cover for Asses Of Fury" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-12-05</td>
+      <td>Graz &amp; Booty Giuliani</td>
+      <td>Asses Of Fury</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 6</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 26</li>
+            <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/jqvcrNFgNZimWKNP1WmuqysynYXuPOMpNhH2JJvEbvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQx/ODkzLTE1MTk5MDg4/NDAtOTg5MS5qcGVn.jpeg" alt="Cover for Planckton EP #2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-01-07</td>
+      <td>andykisaragi</td>
+      <td>Planckton EP #2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td>2013-01-22</td>
+      <td>Infected Mushroom</td>
+      <td>Friends On Mushrooms, Vol. 1 - EP</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/1I0_okrcFAX31fy0Yt1TVx_VhIOM8JYkKybxOQGz-vU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDE4/NTctMTQwMzA1MTY2/MS02MzY5LmpwZWc.jpeg" alt="Cover for Friends on Mushrooms, Volume 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-01-22</td>
+      <td>Infected Mushroom</td>
+      <td>Friends on Mushrooms, Volume 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td>2013-05-27</td>
+      <td>Virtual Riot</td>
+      <td>There Goes Your Money</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 70</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 72</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/f0-d4vbQWE1xSr-FwChmRV-qfyDOOnld83Q41jDSaPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODY3/NjEyLTE3MTc0OTQw/NDUtMzgzNS5qcGVn.jpeg" alt="Cover for Alchemy EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-06-01</td>
+      <td>beats:metaphysical</td>
+      <td>Alchemy EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poland" | relative_url }}">poland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/TEUSdlFySczHiR0YFlRgpxZ_S20MnHAjans4NNOPdic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTQ0/MTQtMTQzNDk0MjA1/My01OTc2LmpwZWc.jpeg" alt="Cover for Breek Je Bakka" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-07-17</td>
+      <td>Afro Bros</td>
+      <td>Breek Je Bakka</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>2013-10-07</td>
+      <td>Chase &amp; Status</td>
+      <td>Brand New Machine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 10</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td>2013-10-08</td>
+      <td>Diplo</td>
+      <td>Revolution</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td>2013-11-04</td>
+      <td>M.I.A.</td>
+      <td>Matangi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/g7mng_Op8lnM8cR21iKx_Z3dHDLmr4GKWwnIPXO8C_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQ3/NTU5LTE0OTU3NDU1/MDctMTM1Ni5qcGVn.jpeg" alt="Cover for Deadroll [Single]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-05-13</td>
+      <td>Charlie Darker</td>
+      <td>Deadroll [Single]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/PfcmPjE9qqQHEJ0FYmk4ui04xobiXBkOnKq0oOpuRW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTQ4/MjktMTQxNjI1NTQz/NC03OTAxLmpwZWc.jpeg" alt="Cover for Tchum Tchah" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-05-16</td>
+      <td>Tropkillaz</td>
+      <td>Tchum Tchah</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/1I0_okrcFAX31fy0Yt1TVx_VhIOM8JYkKybxOQGz-vU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDE4/NTctMTQwMzA1MTY2/MS02MzY5LmpwZWc.jpeg" alt="Cover for Friends on Mushrooms, Vol.1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-06-17</td>
+      <td>Infected Mushroom</td>
+      <td>Friends on Mushrooms, Vol.1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/jvo9VTjoiyTUdyBj0_qeYtrfmeij0W5m4byMQ4eia90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTgx/NjYtMTQ0NDgzOTA0/My04NDQ4LnBuZw.jpeg" alt="Cover for BaBaBa (Vete Pa’Ya)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-10-01</td>
+      <td>Dillon Francis</td>
+      <td>BaBaBa (Vete Pa’Ya)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/0kTw_AooaTesa1u7-KckvcKj40pCP0vkuB1U0ap9A_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njcz/NzMwLTE2MTQ3OTI5/NDQtMjQ0My5qcGVn.jpeg" alt="Cover for Тотальное самоубийство (VIP &amp; Remixes)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>DenDerty</td>
+      <td>Тотальное самоубийство (VIP &amp; Remixes)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/yNQJt1KexDm45zj6r0rsYoXAgLRRUmiDXsaX0UIbZeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzI1/ODQtMTQ1MTkxNjYy/Mi01MTQ4LmpwZWc.jpeg" alt="Cover for Moombahton Mix (Continuous Mix)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Dillon Francis</td>
+      <td>Moombahton Mix (Continuous Mix)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/IsprUu_IZqrQFvhOTZp-piFo9fMZR2dyqJjwmpFyfNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTcy/MzA4LTE1OTM4NTY2/NjEtMjE0My5qcGVn.jpeg" alt="Cover for Skrillex and Diplo Present Jack Ü" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Skrillex &amp; Diplo</td>
+      <td>Skrillex and Diplo Present Jack Ü</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/1I0_okrcFAX31fy0Yt1TVx_VhIOM8JYkKybxOQGz-vU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDE4/NTctMTQwMzA1MTY2/MS02MzY5LmpwZWc.jpeg" alt="Cover for Friends On Mushrooms, Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-01-06</td>
+      <td>Infected Mushroom</td>
+      <td>Friends On Mushrooms, Vol. 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/opPqcUP6DhsKijudEFUP8jebT5ADWZLXKsUdjk_IMLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTYw/NzItMTQ0NjkyMTMw/MS0yMzMyLmpwZWc.jpeg" alt="Cover for Villain" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-11-06</td>
+      <td>Yellow Claw</td>
+      <td>Villain</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/LgH99u340SYTTB_dtJmLS79ZU8CRDoBUjxjIztLemK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDUz/NjQtMTQ2Mzc2Mjgw/MC0xNTA1LmpwZWc.jpeg" alt="Cover for Prayer Hands" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-05-20</td>
+      <td>A-Trak</td>
+      <td>Prayer Hands</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/rFjMgCmDMl6hNWaRChoGZe1xLMyAetyOHcbONo8dDNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTU1/MjYtMTQ2Njc4OTI0/Ni05OTI3LmpwZWc.jpeg" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-06-24</td>
+      <td>Ma-less</td>
+      <td>Untitled Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/m44OmnUvHF_e-36hCLLhfwb4KcnmZlKCVtvcMUG0Qw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTY2/OTctMTQ2NzIyNzcw/OS00MjE5LmpwZWc.jpeg" alt="Cover for LFGD" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-06-24</td>
+      <td>Dillon Francis</td>
+      <td>LFGD</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/168m2SLlHHxse5hi0M9bRDv72iO7PMokO0pYBqWDcr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDk2/NzgtMTQ2Nzk0NDM2/Ny01MjIxLmpwZWc.jpeg" alt="Cover for Feed Me’s Family Reunion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-07-08</td>
+      <td>Feed Me</td>
+      <td>Feed Me’s Family Reunion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/jXRossfMpfjLvXEMxA0W1sH4PSwD_aPYPghmhNkJo1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTE1/NzgtMTQ3Mjg5NTkz/Mi05OTU4LmpwZWc.jpeg" alt="Cover for Wat The Frick EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-09-02</td>
+      <td>Getter</td>
+      <td>Wat The Frick EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/nsjHsMU6zV4ZUGedRWJf2szWCDJVBUfvsN0twKBui2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzEz/NTk0LTE1NTk1NzU3/MzktODA0OC53ZWJw.jpeg" alt="Cover for 出鱈目 Pt.3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-12-30</td>
+      <td>Meroshi</td>
+      <td>出鱈目 Pt.3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/nsjHsMU6zV4ZUGedRWJf2szWCDJVBUfvsN0twKBui2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzEz/NTk0LTE1NTk1NzU3/MzktODA0OC53ZWJw.jpeg" alt="Cover for Overrated" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-12-30</td>
+      <td>Meroshi</td>
+      <td>Overrated</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/CD8TUaJEUFjlCbOB_diwty3b4OArIv5zru_gzFaHMn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTUz/NzM0LTE1NDg5ODcx/ODMtNjE2My5qcGVn.jpeg" alt="Cover for x" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-01-20</td>
+      <td>Nicky Jam</td>
+      <td>x</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/E0I8WoISMy0_x0gJ8aEOMWD4GwJ11FZ3lAxKWGUeOb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg2/NzY5LTE1MzQyMjgy/MDgtMzI4Ny5qcGVn.jpeg" alt="Cover for Bollywood Stunna" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-04-10</td>
+      <td>REACH</td>
+      <td>Bollywood Stunna</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/UoPuHiiFzolImdCLYhvlKJdatYrnbuoNgpiwm3Gj1H4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDcx/ODI5LTE1MzU5NjYx/MTQtNDMzOS5qcGVn.jpeg" alt="Cover for All My Life (feat. Burna Boy)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-01</td>
+      <td>Major Lazer</td>
+      <td>All My Life (feat. Burna Boy)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/NvGn-st72E2i9oK_1NzPoBd-q1yP1H6p65AGU00Ei4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTc5/NzUtMTM0NDEwMTE2/OS0zMTczLmpwZWc.jpeg" alt="Cover for Know No Better" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-01</td>
+      <td>Major Lazer</td>
+      <td>Know No Better</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/OtwecZHxdgKymeqrhgMEW4DAsGHHvE6NXYUFQBsNOac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTMw/NTQyLTE1MDY3MTI4/NzYtNzEyMC5qcGVn.jpeg" alt="Cover for Taco Salsa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-09-22</td>
+      <td>Yuri Viroj</td>
+      <td>Taco Salsa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/OtwecZHxdgKymeqrhgMEW4DAsGHHvE6NXYUFQBsNOac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTMw/NTQyLTE1MDY3MTI4/NzYtNzEyMC5qcGVn.jpeg" alt="Cover for Versatile" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-09-22</td>
+      <td>Yuri Viroj</td>
+      <td>Versatile</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/Z5_tY36w7jGvKv5MVxE6pBVKaAKbM268tCHlpzWEJ64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU5/Mjk5LTE1MDkxMDE3/OTktNTg4Mi5qcGVn.jpeg" alt="Cover for Do You Like Bass? (Remixes)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-10</td>
+      <td>Yellow Claw &amp; Juyen Sebulba</td>
+      <td>Do You Like Bass? (Remixes)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/hrAEZBwQLCCKyl9Bbgff47PevbhKz7WkvyEQ3-pV84M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI3/NjQxLTE1MTc5Mjc4/MDctMTA3MC5qcGVn.jpeg" alt="Cover for Forever Isn&#39;t Promised" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-12-15</td>
+      <td>BAD ROYALE</td>
+      <td>Forever Isn&#39;t Promised</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/TevfDUf-I5WHaFv-gSJO0lFKca4QR0m1Vlx_9ze6X3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk0/ODY2LTE2NDI1NDk1/OTgtNTQwMC5qcGVn.jpeg" alt="Cover for Tetriss" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>AudioTrackerz</td>
+      <td>Tetriss</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-house" | relative_url }}">future house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/TevfDUf-I5WHaFv-gSJO0lFKca4QR0m1Vlx_9ze6X3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk0/ODY2LTE2NDI1NDk1/OTgtNTQwMC5qcGVn.jpeg" alt="Cover for Wobble Box" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>AudioTrackerz</td>
+      <td>Wobble Box</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-house" | relative_url }}">future house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/TevfDUf-I5WHaFv-gSJO0lFKca4QR0m1Vlx_9ze6X3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk0/ODY2LTE2NDI1NDk1/OTgtNTQwMC5qcGVn.jpeg" alt="Cover for Let&#39;s Bounce" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>AudioTrackerz</td>
+      <td>Let&#39;s Bounce</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-house" | relative_url }}">future house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/TevfDUf-I5WHaFv-gSJO0lFKca4QR0m1Vlx_9ze6X3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzk0/ODY2LTE2NDI1NDk1/OTgtNTQwMC5qcGVn.jpeg" alt="Cover for Go Hard" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>AudioTrackerz</td>
+      <td>Go Hard</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-house" | relative_url }}">future house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/z21_1455KAzxGRy7uw45UaFFEvsI1tGY4f27xeFAvaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODUz/NzgxLTE1NDMyMjM5/NDctOTA5Ni5qcGVn.jpeg" alt="Cover for Maradona Riddim" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>DJ Snake</td>
+      <td>Maradona Riddim</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/z21_1455KAzxGRy7uw45UaFFEvsI1tGY4f27xeFAvaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODUz/NzgxLTE1NDMyMjM5/NDctOTA5Ni5qcGVn.jpeg" alt="Cover for Magenta Riddim" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>DJ Snake</td>
+      <td>Magenta Riddim</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/VaZAqOPSsIbY9U9Seysws5ESGj0xuJ3zyuATlyC9Esc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTUz/MDc2LTE1MTgzNzc4/MDMtNTI0NC5qcGVn.jpeg" alt="Cover for Death To Genres Vol. 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-02-09</td>
+      <td>GTA</td>
+      <td>Death To Genres Vol. 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/bk4jnlVtYk5RsTSKrmMmnxjABHRqBY_4UQx9LADTyVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI4/Njg0LTE1NDI3Mzg1/OTktNDY1Ny5qcGVn.jpeg" alt="Cover for Alibi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-02-13</td>
+      <td>Krewella</td>
+      <td>Alibi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/yfhIe4kNgErNanDlYlcd2Mi9fMHhVylZwKDou3MSGNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/ODYwLTE1MzM2NDgx/MjUtNjkyMS5qcGVn.jpeg" alt="Cover for Sexo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-04-13</td>
+      <td>Residente &amp; Dillon Francis</td>
+      <td>Sexo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/UXLiMcvY-FZXsMmu4MKiMrDKAU7Nro8rFjzk_zGKOKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk3/Mjg4LTE1NDU5NDMz/NDktMjgwMS5qcGVn.jpeg" alt="Cover for I Am" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-05-03</td>
+      <td>(G)I-DLE</td>
+      <td>I Am</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/qmNcj8-GjgdMFD5IKfDK7AFSyjxqnmeUL3OFjyXrqlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTg1/NDE2LTE1MjYwMjk5/MDgtODU4Ni5qcGVn.jpeg" alt="Cover for Stay Open" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-05-11</td>
+      <td>Diplo &amp; Mø</td>
+      <td>Stay Open</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/XpVm04Xk2k1jNJ42KcMi6yztT3S2f_wC4NZiZeafleg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU2/Mzg0LTE1MjU0NDI2/ODgtODAyNi5qcGVn.jpeg" alt="Cover for Return of the Kings" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-05-11</td>
+      <td>BAD ROYALE</td>
+      <td>Return of the Kings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/VYtoJHyv7MkwjvBmBV8fDVE9PLOy35qD_oerBPAMdLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkz/NDMxLTE1MzAxODcz/MTUtNDEwNS5qcGVn.jpeg" alt="Cover for Rooftop Party" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-06-22</td>
+      <td>Swanky Tunes</td>
+      <td>Rooftop Party</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/ZJWrfcBgqiayvIfi1fzJ0mXu8YcTST_d8nQiTAnznwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk0/NTUyLTE1NjM1MDc1/NzUtNTY5My5qcGVn.jpeg" alt="Cover for HANN (Alone)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-14</td>
+      <td>(G)I-DLE</td>
+      <td>HANN (Alone)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/XX4K4QnrWXCtVOxvIGrgc6Shh2ICIpihd_ZyQBeHZEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/NjI5LTE1NDIyMzM2/NjgtMTA0OS5wbmc.jpeg" alt="Cover for Nasty" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-24</td>
+      <td>Nafthaly Ramona</td>
+      <td>Nasty</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/O-ZMTYYBWV7wB2UNBSgdrcryw_YpTPuzQPyKFQ8tM7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg1/OTYwLTE1NjEwODI1/NTYtMTM1NS5qcGVn.jpeg" alt="Cover for Threat" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-09</td>
+      <td>Downlink</td>
+      <td>Threat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/d5HJ9WLuOZpU5HBkySivV7uS3eYztFXK2hhbcvkwaUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTIw/NjkzLTE2MjM1NDMx/MDAtNzczMC5qcGVn.jpeg" alt="Cover for La Nueva Clásica" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-19</td>
+      <td>GTA</td>
+      <td>La Nueva Clásica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/3It73ZIE35mhID4Mrijl0ilUCe4y4QmBE2qn4g4vV_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/NjAwLTE1NDIyMzMw/MTAtOTI1NS5wbmc.jpeg" alt="Cover for Sportschool (feat. Jhorrmountain &amp; Poke)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-11-02</td>
+      <td>Nafthaly Ramona</td>
+      <td>Sportschool (feat. Jhorrmountain &amp; Poke)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/uug5Hnk79R55R5Dj6B2rFR9Rfh7bF5IGAhdc0Fpc99E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDg2/MzI5LTE1NDc4MTY5/NDQtMjEyNC5qcGVn.jpeg" alt="Cover for Squidward Nose" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-01-11</td>
+      <td>CupcakKe</td>
+      <td>Squidward Nose</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/u4BxV9p9K3kax6b5jb5MC-ghZoe20yC0ARwbR5OIbQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODc4/ODMyLTE1NjMxNDg4/ODAtNDE0NS5qcGVn.jpeg" alt="Cover for Vies" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-04-28</td>
+      <td>Hato</td>
+      <td>Vies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/sfezPDztMIJ-0JpCtUti4V9yH3s-4CPl_BqpA9tjsic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTYy/NTE0LTE1NTY1NTgz/MDgtOTcxNS5qcGVn.jpeg" alt="Cover for Bad Habits EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-04-29</td>
+      <td>Kuuro</td>
+      <td>Bad Habits EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/IZ6Xm2QDxY8zo6MoVe86k-h5GZ2YSGVN4Jl54Tx2tuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzkz/ODg0LTE1NjMzMzEz/ODItMTM0Ni5qcGVn.jpeg" alt="Cover for WE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-05-15</td>
+      <td>EXID</td>
+      <td>WE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/rR-X3MHzhn0wi9ZI2TSIFfxi6k-MUxssocXQiUOOKDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE0/MjU2LTE1NTk1ODUy/NjMtOTg1OC5qcGVn.jpeg" alt="Cover for Trigger" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-06-03</td>
+      <td>Kuuro</td>
+      <td>Trigger</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/OpM8SQd75sobyyvp7sk1NbhYmbpchElYIWVDvQh6Bgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTM3/Mzc3LTE2NDc0MjU1/NDAtMjgwNC5qcGVn.jpeg" alt="Cover for The Sound" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-12</td>
+      <td>Aero Chord</td>
+      <td>The Sound</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/vCPwAd7fnNswFUmzsz6V9mjigzeLlIPVQm0BKYinIBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU2/Mzk2LTE1ODI5MTM0/NjItNzQ2My5qcGVn.jpeg" alt="Cover for WUT WUT" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-02-27</td>
+      <td>Residente</td>
+      <td>WUT WUT</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/EVEA-aOcISpdnTwWspystp81C7khj5zK3RlDe5IgQLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDcy/Mzg3LTE2NDQzMDU0/MzctOTEyMy5qcGVn.jpeg" alt="Cover for Shake It" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-07-30</td>
+      <td>Cesqeaux</td>
+      <td>Shake It</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/3AHPQsFWtnGELxTRCVDn4_jRCzOP0KLpf2xgkZNoz-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIy/NTUwLTE2NDc1MTI3/OTUtNDc4Ny5qcGVn.jpeg" alt="Cover for Awake [Explicit]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-11-17</td>
+      <td>Alison Wonderland</td>
+      <td>Awake [Explicit]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Major Lazer, Mapei, Mr. Evil</td>
+      <td>Guns Don&#39;t Kill People...Lazers Do</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Amerzone</td>
+      <td>Hold On EP (Remixes)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td></td>
+      <td>SamySam Beats</td>
+      <td>Vida</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Moombah Bros</td>
+      <td>Blu Ember</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td></td>
+      <td>phaux</td>
+      <td>Silly Flanger</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Lin Stilson</td>
+      <td>Snowy Days EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+      </td>
+      <td></td>
+      <td>J Balvin x Jeon x Anitta</td>
+      <td>Machika (Dillon Francis Remix)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sakura Ryoko</td>
+      <td>Dekko Senpai</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Brap!</td>
+      <td>THE BOOTY CHRONICLES</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td></td>
+      <td>SamySam Beats</td>
+      <td>No Puedo Mas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td></td>
+      <td>OptoKinetic</td>
+      <td>Reflex EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Harra</td>
+      <td>Is Dit Wat Je Wil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td></td>
+      <td>crazy dj sHakeglaZe</td>
+      <td>Technopunk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td></td>
+      <td>SamySam Beats</td>
+      <td>Aguenta So</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td></td>
+      <td>RÍRYLEY DON</td>
+      <td>F U N D I Ç Ã O</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Tropkillaz &amp; Major Lazer</td>
+      <td>Loko</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Bro Safari &amp; UFO!</td>
+      <td>Clockwork</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Stinky Soul</td>
+      <td>The Moombahton Virus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+      </td>
+      <td></td>
+      <td>Infected Mushroom</td>
+      <td>Friends On Mushrooms</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sago Music, Dary NewFlow</td>
+      <td>El Deskite</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Nikopol N.</td>
+      <td>Я, Cleric N., Молюсь за Вас каждый день.</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td></td>
+      <td>SamySam Beats</td>
+      <td>Lost Beats, Vol. 2</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-10-31T06:05:29.509Z
+date: 2025-10-31T07:16:19.055Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-31T06:05:29.509Z">Fri Oct 31 2025 08:05:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-31T07:16:19.055Z">Fri Oct 31 2025 09:16:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [world]({{ "tags/world" | relative_url }}) | <time datetime="2025-10-31T07:16:19.055Z">Fri Oct 31 2025 09:16:19 GMT+0200 (Eastern European Standard Time)</time> |
+| [chicago blues]({{ "tags/chicago-blues" | relative_url }}) | <time datetime="2025-10-31T06:52:19.070Z">Fri Oct 31 2025 08:52:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [australian]({{ "tags/australian" | relative_url }}) | <time datetime="2025-10-31T06:05:29.509Z">Fri Oct 31 2025 08:05:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [comedian]({{ "tags/comedian" | relative_url }}) | <time datetime="2025-10-31T05:57:20.492Z">Fri Oct 31 2025 07:57:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [seattle]({{ "tags/seattle" | relative_url }}) | <time datetime="2025-10-31T04:45:29.101Z">Fri Oct 31 2025 06:45:29 GMT+0200 (Eastern European Standard Time)</time> |
@@ -341,7 +343,6 @@ Last updated: <time datetime="2025-10-31T06:05:29.509Z">Fri Oct 31 2025 08:05:29
 | [christian metal]({{ "tags/christian-metal" | relative_url }}) | <time datetime="2025-10-28T15:07:41.372Z">Tue Oct 28 2025 17:07:41 GMT+0200 (Eastern European Standard Time)</time> |
 | [emoviolence]({{ "tags/emoviolence" | relative_url }}) | <time datetime="2025-10-28T15:07:13.571Z">Tue Oct 28 2025 17:07:13 GMT+0200 (Eastern European Standard Time)</time> |
 | [j-metal]({{ "tags/j-metal" | relative_url }}) | <time datetime="2025-10-28T15:06:57.406Z">Tue Oct 28 2025 17:06:57 GMT+0200 (Eastern European Standard Time)</time> |
-| [world]({{ "tags/world" | relative_url }}) | <time datetime="2025-10-28T15:06:45.503Z">Tue Oct 28 2025 17:06:45 GMT+0200 (Eastern European Standard Time)</time> |
 | [psychedelic metal]({{ "tags/psychedelic-metal" | relative_url }}) | <time datetime="2025-10-28T15:06:31.952Z">Tue Oct 28 2025 17:06:31 GMT+0200 (Eastern European Standard Time)</time> |
 | [honky tonk]({{ "tags/honky-tonk" | relative_url }}) | <time datetime="2025-10-28T15:06:27.785Z">Tue Oct 28 2025 17:06:27 GMT+0200 (Eastern European Standard Time)</time> |
 | [old-school heavy metal]({{ "tags/old-school-heavy-metal" | relative_url }}) | <time datetime="2025-10-28T15:05:59.984Z">Tue Oct 28 2025 17:05:59 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1141,7 +1142,6 @@ Last updated: <time datetime="2025-10-31T06:05:29.509Z">Fri Oct 31 2025 08:05:29
 | [ragga-reggae]({{ "tags/ragga-reggae" | relative_url }}) | <time datetime="2025-10-22T00:42:06.775Z">Wed Oct 22 2025 03:42:06 GMT+0300 (Eastern European Summer Time)</time> |
 | [juke]({{ "tags/juke" | relative_url }}) | <time datetime="2025-10-22T00:41:08.981Z">Wed Oct 22 2025 03:41:08 GMT+0300 (Eastern European Summer Time)</time> |
 | [oriental]({{ "tags/oriental" | relative_url }}) | <time datetime="2025-10-22T00:37:20.056Z">Wed Oct 22 2025 03:37:20 GMT+0300 (Eastern European Summer Time)</time> |
-| [chicago blues]({{ "tags/chicago-blues" | relative_url }}) | <time datetime="2025-10-22T00:35:03.513Z">Wed Oct 22 2025 03:35:03 GMT+0300 (Eastern European Summer Time)</time> |
 | [cantautori]({{ "tags/cantautori" | relative_url }}) | <time datetime="2025-10-22T00:34:07.221Z">Wed Oct 22 2025 03:34:07 GMT+0300 (Eastern European Summer Time)</time> |
 | [orthodox black metal]({{ "tags/orthodox-black-metal" | relative_url }}) | <time datetime="2025-10-22T00:23:22.800Z">Wed Oct 22 2025 03:23:22 GMT+0300 (Eastern European Summer Time)</time> |
 | [drone rock]({{ "tags/drone-rock" | relative_url }}) | <time datetime="2025-10-21T05:23:54.012Z">Tue Oct 21 2025 08:23:54 GMT+0300 (Eastern European Summer Time)</time> |
