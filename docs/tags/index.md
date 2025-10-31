@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-10-31T04:18:19.064Z
+date: 2025-10-31T04:45:29.101Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-31T04:45:29.101Z">Fri Oct 31 2025 06:45:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [seattle]({{ "tags/seattle" | relative_url }}) | <time datetime="2025-10-31T04:45:29.101Z">Fri Oct 31 2025 06:45:29 GMT+0200 (Eastern European Standard Time)</time> |
+| [liverpool]({{ "tags/liverpool" | relative_url }}) | <time datetime="2025-10-31T04:25:28.816Z">Fri Oct 31 2025 06:25:28 GMT+0200 (Eastern European Standard Time)</time> |
 | [american]({{ "tags/american" | relative_url }}) | <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [rock opera]({{ "tags/rock-opera" | relative_url }}) | <time datetime="2025-10-31T04:10:29.736Z">Fri Oct 31 2025 06:10:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [mastersinger]({{ "tags/mastersinger" | relative_url }}) | <time datetime="2025-10-31T02:45:30.082Z">Fri Oct 31 2025 04:45:30 GMT+0200 (Eastern European Standard Time)</time> |
@@ -131,7 +133,6 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
 | [symphonic power metal]({{ "tags/symphonic-power-metal" | relative_url }}) | <time datetime="2025-10-29T09:42:24.712Z">Wed Oct 29 2025 11:42:24 GMT+0200 (Eastern European Standard Time)</time> |
 | [cyber metal]({{ "tags/cyber-metal" | relative_url }}) | <time datetime="2025-10-29T09:11:39.652Z">Wed Oct 29 2025 11:11:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [manchester]({{ "tags/manchester" | relative_url }}) | <time datetime="2025-10-29T09:07:39.027Z">Wed Oct 29 2025 11:07:39 GMT+0200 (Eastern European Standard Time)</time> |
-| [liverpool]({{ "tags/liverpool" | relative_url }}) | <time datetime="2025-10-29T07:50:39.377Z">Wed Oct 29 2025 09:50:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [hammond]({{ "tags/hammond" | relative_url }}) | <time datetime="2025-10-29T07:49:39.381Z">Wed Oct 29 2025 09:49:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [calypso]({{ "tags/calypso" | relative_url }}) | <time datetime="2025-10-29T07:48:39.520Z">Wed Oct 29 2025 09:48:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [y2k prog]({{ "tags/y2k-prog" | relative_url }}) | <time datetime="2025-10-29T07:42:39.028Z">Wed Oct 29 2025 09:42:39 GMT+0200 (Eastern European Standard Time)</time> |
@@ -388,7 +389,6 @@ Last updated: <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19
 | [atmospheric sludge metal]({{ "tags/atmospheric-sludge-metal" | relative_url }}) | <time datetime="2025-10-28T12:46:52.915Z">Tue Oct 28 2025 14:46:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [eurodance]({{ "tags/eurodance" | relative_url }}) | <time datetime="2025-10-28T12:30:58.162Z">Tue Oct 28 2025 14:30:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [progressive power metal]({{ "tags/progressive-power-metal" | relative_url }}) | <time datetime="2025-10-28T12:30:53.627Z">Tue Oct 28 2025 14:30:53 GMT+0200 (Eastern European Standard Time)</time> |
-| [seattle]({{ "tags/seattle" | relative_url }}) | <time datetime="2025-10-28T12:30:39.494Z">Tue Oct 28 2025 14:30:39 GMT+0200 (Eastern European Standard Time)</time> |
 | [guitarist]({{ "tags/guitarist" | relative_url }}) | <time datetime="2025-10-28T09:50:41.998Z">Tue Oct 28 2025 11:50:41 GMT+0200 (Eastern European Standard Time)</time> |
 | [folk punk]({{ "tags/folk-punk" | relative_url }}) | <time datetime="2025-10-28T09:50:26.426Z">Tue Oct 28 2025 11:50:26 GMT+0200 (Eastern European Standard Time)</time> |
 | [sasscore]({{ "tags/sasscore" | relative_url }}) | <time datetime="2025-10-28T09:49:52.974Z">Tue Oct 28 2025 11:49:52 GMT+0200 (Eastern European Standard Time)</time> |

@@ -1,118 +1,2063 @@
 ---
 category: genre
-date: 2025-10-29T07:50:39.377Z
+date: 2025-10-31T04:25:28.816Z
 permalink: tags/liverpool
 title: liverpool
 ---
 
 ## liverpool
 
-Last updated: <time datetime="2025-10-29T07:50:39.377Z">Wed Oct 29 2025 09:50:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-31T04:25:28.816Z">Fri Oct 31 2025 06:25:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 75 | ![Cover](https://i.discogs.com/hsQJDfkchPoC1AwluJiI3ue9dGeOhXBFy53tIx-J7vw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDgx/NjktMTQwMDI2OTc3/NC05MTUyLmpwZWc.jpeg) | 1963-11-22 | The Big Three | At The Cavern |
-| 45 | ![Cover](https://i.discogs.com/u8kixoIUuMdtDQ_1bowb4rT7vCVRzafmDGsUrEAdEm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzQ3/NDktMTM1NDgyNDE4/NC0xODY2LmpwZWc.jpeg) | 1963-12-00 | Merseybeats | I Think Of You |
-| 15 | ![Cover](https://i.discogs.com/OqFnrIiHAjVcitmq8UBkpX245fiQ2L4Hn9EauInR1yI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjI5/ODEtMTQ3MDMzMDc5/MS00MjE0LnBuZw.jpeg) | 1964 | Billy J Kramer &amp; The Dakotas | ...At Abbey Road |
-| 51 | ![Cover](https://i.discogs.com/ERi3YTDQqOwcG3WHo2O0EajIJFmbloYWSuFGRvvsjGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE5/MjYzLTE1MDEwNjky/NjYtOTAwMS5qcGVn.jpeg) | 1964 | The Spinners | Maggie May |
-| 91 | ![Cover](https://i.discogs.com/8qjavD4TyIor4fS99s9HuS52Dv_eDWxhFKu5uS4mpQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzMz/OTAtMTI4Mjk5OTUw/My5qcGVn.jpeg) | 1969-01 | The Koobas | Koobas |
-| 54 | ![Cover](https://i.discogs.com/xIFzbJeSV52aUdK-o1yp0FnbDABTJsMgtKTmOXI70vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/NzktMTM2NTY0NjIy/MS02ODgyLmpwZWc.jpeg) | 1971-04 | The Liverpool Fishermen | Swallow the Anchor |
-| 53 | ![Cover](https://i.discogs.com/DBd47DTMPfWaAzOjk8vRDCwFg_oas5ZI_sF8YQ8Smt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjM1/NzItMTYwMjQxMTQ3/NS0yODY1LmpwZWc.jpeg) | 1972 | The 66 | Vibe E.P 2009 |
-| 57 | ![Cover](https://i.discogs.com/qvDrt6z-Do4DS7ThxE40bqAWjrvIBkwOP3M7R4NiBSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzM4/MDYtMTI1MzQzMjY5/Ny5qcGVn.jpeg) | 1976 | Led Zeppelin | One For The M6 |
-| 47 | ![Cover](https://i.discogs.com/QUJUXB9yBVSPWKcWoJweFZnR4OXiwS6p8x3nP-GS_aY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTk3/My0xNDYwMzAyOTAy/LTU1MzguanBlZw.jpeg) | 1980 | Lori &amp; The Chameleons | The Lonely Spy |
-| 20 | ![Cover](https://i.discogs.com/hNvis4JbiVCHH0QtMJX3HwDawf9jDbQoldBRHz0J-YQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDUw/NTctMTQ4NjM2OTQ2/OS01Mzk1LmpwZWc.jpeg) | 1984 | Billy J Kramer &amp; The Dakotas | The Very Best Of |
-| 9 |  | 1986 | The Ministry Of Love | Burnin&#39; and Lootin&#39; - EP |
-| 10 |  | 1986 | The Ministry Of Love | Burnin&#39; and Lootin&#39; |
-| 26 | ![Cover](https://i.discogs.com/DBd47DTMPfWaAzOjk8vRDCwFg_oas5ZI_sF8YQ8Smt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjM1/NzItMTYwMjQxMTQ3/NS0yODY1LmpwZWc.jpeg) | 1987 | The 66 | Vibe Recordings Studios |
-| 97 | ![Cover](https://i.discogs.com/QQDBlRN5Ktas7SDTF1uuurzN5vZdwQeTXIUk2es5gp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTE5/OTMtMTQ3NzM5OTkx/NS01NzIxLmpwZWc.jpeg) | 1987 | Stone | Let&#39;s Dance To The Real Thing |
-| 95 | ![Cover](https://i.discogs.com/yerWnsr19n9JZJE3xdGg-PKl1ZiXLWsDbc1EHHdZcwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzY0/OS0xNjUzODI0ODY3/LTczMTQuanBlZw.jpeg) | 1988 | John Lennon | Working Class Hero - The Definitive Lennon |
-| 88 |  | 1988-03 | Shack | Zilch |
-| 19 | ![Cover](https://i.discogs.com/DJyGEaISAsPmBP8l-PlowMqfy3HnPoq_Oa3fqj4WggI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjEz/NTAtMTI1MjYwMjEy/Ni5qcGVn.jpeg) | 1989 | Marc V | Over You |
-| 72 | ![Cover](https://i.discogs.com/DCLNZzvFL9oAHeU9AgzuJ4xZJq8jxX4Vt5XqrDPqYBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTI5/MS0xMTU1MDkxNjIy/LmpwZWc.jpeg) | 1991 | Dr. Phibes &amp; The House Of Wax Equations | Whirlpool |
-| 74 | ![Cover](https://i.discogs.com/RIShMhudx36xuriH2w0KlGUPGSMcAAQOcls4S0JRxyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTQ0/MTktMTQ0MTI5NTQx/OC0zMDU1LmpwZWc.jpeg) | 1991 | Triple M | Guardian Angel |
-| 80 | ![Cover](https://i.discogs.com/eIjtwVS94Hu2FpW_8-Nh1OMyECTYYtl2EvrzWidIA2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjAw/MjYtMTIwOTM4Njg3/NC5qcGVn.jpeg) | 1992 | The Stairs | Mexican R&#39;n&#39;B |
-| 85 | ![Cover](https://i.discogs.com/eIjtwVS94Hu2FpW_8-Nh1OMyECTYYtl2EvrzWidIA2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjAw/MjYtMTIwOTM4Njg3/NC5qcGVn.jpeg) | 1992-05-26 | The Stairs | Mexican R &#39;n&#39; B |
-| 67 | ![Cover](https://i.discogs.com/P8K9teGv2Vy-odJZMz692MhgfUs80ZERw-qFf275Eqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODU5/LTEzNjM3NzQ0NTMt/NDQ3MC5qcGVn.jpeg) | 1993-10-18 | Frankie Goes to Hollywood | Bang ! |
-| 46 | ![Cover](https://i.discogs.com/Oe25ivmExglHCoaC1AFuC4q5sRszCNmIGyBgCedTkm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mjg4/Ny0xMjkyMTgxNzUx/LmpwZWc.jpeg) | 1994 | the mindwinder | joe mckechnie - mindwinder ep |
-| 69 | ![Cover](https://i.discogs.com/_v1tdFS4ENdRVy5uTmYt1wRSwuuAeWQd2lgESUxttGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ0/MjUtMTQ1OTQ4Mjg2/OS03NjU3LmpwZWc.jpeg) | 1994 | The Brentwoods | Where&#39;s The Disk? |
-| 79 |  | 1994-08-24 | China Crisis | Warped by Success |
-| 92 | ![Cover](https://i.discogs.com/SNpUrnPVi8PProA3mMzRf4Y5bh9YApJOfsIPj4R1kJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTM2/NS0xNDYwMTI3NzY2/LTg3NDkuanBlZw.jpeg) | 1995-09-25 | Electrafixion | Burned |
-| 78 | ![Cover](https://i.discogs.com/CR8zJS87Y6xpH0GcZGgGVaUOC7LbGo544p4JYd9H9XM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzU0/MC0xMTY3OTIzNzA3/LmpwZWc.jpeg) | 1998-03-02 | Michael Head &amp; The Strands | Magical World of the Strands |
-| 59 |  | 1998-09-12 | Rooney | Time On Their Hands |
-| 8 |  | 2000 | Rita de Cassia | Voz E Violao Vol. 1 |
-| 82 |  | 2000 | Captain Beefheart &amp; His Magic Band | Merseytrout - Live In Liverpool 1980 |
-| 86 | ![Cover](https://i.discogs.com/9Flu8oZjvliPQ4cu6N9L4gerV49Wn29A8i5KgO0Kffk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjE0/MjQtMTQ2NzMyNzE4/OC00OTA1LmpwZWc.jpeg) | 2000 | Harmonia Do Samba | O Rodo |
-| 28 | ![Cover](https://i.discogs.com/5PtlipRzaWusDuP225NWoh9T6hqEdMSlxPKrjrCdnBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY4/NTcwLTE2MjI1NDM1/NzMtMjE3NC5qcGVn.jpeg) | 2001 | Waste | Songs You&#39;ve Never Heard |
-| 73 | ![Cover](https://i.discogs.com/wTA4-IzIIyUHjI0-AQRtwCWyy_eads_ivjIB9ya9mFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEw/NDcyLTE2MjM0ODYw/OTAtMzcyOS5qcGVn.jpeg) | 2002 | Echo &amp; the Bunnymen | 2001-08-17: Liverpool, UK |
-| 100 |  | 2002-02-11 | Echo &amp; the Bunnymen | Live In Liverpool |
-| 38 | ![Cover](https://i.discogs.com/51MuWeqfhXQZgRrW3os_G9XjZIGHWGm7lCNKM9CCLkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTk1/MTkyLTE1OTc4Njk1/MTAtNjY0OC5tcG8.jpeg) | 2003 | James Clarke Five | &#39;Good Enough for Me and Henry McGee&#39; album |
-| 83 | ![Cover](https://i.discogs.com/g4KKOlQY6pLoUgO1E83WYsrgiYQSWKABeHlxINO2R84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYz/NDMtMTIwOTkxNDU3/OS5qcGVn.jpeg) | 2003-07-07 | John Power | Happening for Love |
-| 58 | ![Cover](https://i.discogs.com/syXfE74cB2uGSlzsxRni9EqegVibIEmdw1_JpIoBe1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIw/NTEtMTU1ODE5NDUy/Ny04MjE1Lm1wbw.jpeg) | 2003-08-04 | The Stands | When This River Rolls Over You |
-| 65 | ![Cover](https://i.discogs.com/w7tpmdmeauun4T5XsoDUlneyoxMIFavL22byPTPm_Q8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTM0/OC0xNTA4MTEwNjU4/LTU2MTkuanBlZw.jpeg) | 2003-10 | The Stands | I Need You |
-| 63 | ![Cover](https://i.discogs.com/cGzGjQnaaq0WOzVmDcQXk9SC0lFWYuQombdzqQRNU0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjE2/OTAtMTM2NDMxNTM4/My0yNDYzLmpwZWc.jpeg) | 2004 | The Spinners | The Foggy Dew |
-| 99 |  | 2004 | The Stands | Here She Comes Again |
-| 24 | ![Cover](https://i.discogs.com/vnRDPYJ8PRwsDMrkipu_62wFQTlUj6K37HoWCYNcoj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIw/ODAtMTIxODExMjI3/MS5qcGVn.jpeg) | 2004-02-09 | The Stands | Here She Comes Again, Pt. 2 |
-| 96 | ![Cover](https://i.discogs.com/RYK6bqM0JAi5s1UkG-r3exJRDEPM1QHn8fSYLpMiNDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTgz/OS0xNjA1NjE0MDUz/LTMxNTUuanBlZw.jpeg) | 2004-02-23 | The Stands | All Years Leaving |
-| 71 | ![Cover](https://i.discogs.com/wjN7hmy29Syh5wgwt-PFYQ2CO2UoFwR_qygOcskjMcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI5/NDEtMTUwODExMjQ4/OS04MDQ0LmpwZWc.jpeg) | 2004-05-24 | The Stands | Outside Your Door |
-| 70 | ![Cover](https://i.discogs.com/RzM9umsoMXgWhPtOSyHkUMuXv1ByI2686iEd2AQxx9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIw/MzMtMTQ3MjU2NjI5/OC0xODI0LmpwZWc.jpeg) | 2005-05-09 | The Stands | Do It Like You Like |
-| 98 |  | 2005-05-31 | The Dead 60s | The Dead 60s |
-| 93 | ![Cover](https://i.discogs.com/OiDO1LmZE72InXLXEYk60_iie7LFIWnrQGyPoeutX5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE3/MzgtMTIxMzgwMTAx/NC5qcGVn.jpeg) | 2005-07-25 | The Stands | Horse Fabulous |
-| 44 | ![Cover](https://i.discogs.com/auxfZ6ukiCmwas3u-1JDWgFJBZ_PCiMCg1i93J0BjAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzA5/MjktMTQ3NjAxODg5/Ni01OTU4LmpwZWc.jpeg) | 2006 | The Prelude | Elevator Demos 2007 |
-| 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1c8ad93703a1fdc947df3f3b9529d053.png) | 2007 | Deified | Ascension |
-| 60 | ![Cover](https://i.discogs.com/CfVxU56xY1pCoNQRD0n9WFZej_8PFxuxZi0ZLk0h2D8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzQ5/NTctMTQ0Nzc1MjQ1/MC01OTMwLmpwZWc.jpeg) | 2007 | the fore | Black and White |
-| 48 | ![Cover](https://i.discogs.com/CcdtJRw5CdE_pAB8omdmNf4HC3lx9zFrd6mtAD-8-VQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc2/OTMtMTIyMDQ0Nzkx/Ni5qcGVn.jpeg) | 2007-07-30 | Edgar &#39;Jones&#39; Jones | Gettin&#39; a Little Help...from &quot;The Joneses&quot; |
-| 13 |  | 2007-12-04 | The Cubical | Great White Lie [Mckechnie Remix] |
-| 81 | ![Cover](https://i.discogs.com/1o6a1PE88H1KiN_GGixckCWA2krsFjK7tUjf3rLYGKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDY4/NDAtMTM1OTYyNTU5/Mi0zNjMwLmpwZWc.jpeg) | 2008-02 | goFASTER&gt;&gt; | Flammable Leisurewear |
-| 4 |  | 2008-06-02 | Earl Grey and The Legomen | Last Summer |
-| 43 | ![Cover](https://i.discogs.com/32ryPVzttgjoOB2PlXZIaKOxHtSlF67_1N7bzsG9vlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQ5/OTYtMTIzODE0MTMy/NC5qcGVn.jpeg) | 2008-06-02 | Earl Grey and The Legomen | The Unsettling Time EP |
-| 23 | ![Cover](https://i.discogs.com/tWeIM8Tx5-5kYaSJSJAHdwprqIEkiigFxHfSfSfHgZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTkz/MDAtMTM5OTE5ODUy/Ni04MTM2LmpwZWc.jpeg) | 2008-09-01 | Rob Clarke | Long Way North |
-| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/44c7dbc138264e5884cc1a1ad4223185.png) | 2009 | Somos Muchos | Dawn of the Chavs |
-| 49 | ![Cover](https://i.discogs.com/dnutsQPkshU4uZ4DUdQcrgQzXLbmH1DV2afr9atNeco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE3/NjA4LTE1MTU5NjM2/NjMtMjAxMi5qcGVn.jpeg) | 2010 | Triple M | Over You |
-| 61 | ![Cover](https://i.discogs.com/h1_CLLkO5sUWPYK6GYllLYQt9tdg52j4cbAqjwvWH1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQ2/MTYzLTE2NDI4NzMy/OTktNzI2MS5qcGVn.jpeg) | 2010 | The Sand Band | Love Will Save Us I Hope |
-| 89 | ![Cover](https://i.discogs.com/Hqn_dy65dHsoRA2LgCBdpgpfan_R47_yVGtYrhjRuWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTkz/MTctMTQ3MzM2OTQ3/Ni0xMzQ0LmpwZWc.jpeg) | 2010 | Parangolé | Rebolation |
-| 94 | ![Cover](https://i.discogs.com/_gttWO4VaBMJMmYb5IxXy4FwvLiHXWEJp8j2T5NQJbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTQ4/NjYtMTI5Nzc2OTUx/Ny5qcGVn.jpeg) | 2011-01-17 | The Sand Band | All Through The Night |
-| 27 | ![Cover](https://i.discogs.com/8KWWiYqG9DU8Qvt7NGppdBbLZ08YF1gQ-M1hoFnSe10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTk0/MjktMTM5OTE5ODc0/MC01MDk2LmpwZWc.jpeg) | 2013-01-21 | Rob Clarke | About a Time |
-| 14 | ![Cover](https://i.discogs.com/5_QEiqMqK82fSSwNSJSwQ4IB5_7ceuUP8bkMXmW4ck8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzQ3/ODMtMTY0ODE0NzQw/OC04OTk5LmpwZWc.jpeg) | 2013-02-04 | The Thespians | So So - Single |
-| 66 | ![Cover](https://i.discogs.com/RlGu649zjwjxZuTaoLvq8IvVJIdcOHPasCO_B8cz1-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTM4/NjEzLTE1NDg3Mjg2/MzQtNDU2NS5qcGVn.jpeg) | 2013-05-06 | The Lightwings | Cheap Riches &#x2F; Revolutions |
-| 25 | ![Cover](https://i.discogs.com/WqyecQOioYn4ZDo25KGJI8BFCfQItB0zCpOMAXZKS4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTE2/NTAtMTQyMjY5Mzg1/NS01ODYwLmpwZWc.jpeg) | 2013-08-10 | River Caves | Skin Walker EP |
-| 90 | ![Cover](https://i.discogs.com/HP7pF8bDHe2cTg9HtK4gdIcwZi4494xzhDnrJriTU6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM5/NzUtMTM4NjgwMDc2/OS0xNjI1LmpwZWc.jpeg) | 2013-12-11 | Melanie C | Live At Shepherd&#39;s Bush Empire |
-| 37 |  | 2014-12-01 | Kid Kin | Orange County EP |
-| 7 |  | 2016 | The Floormen | Demos |
-| 87 | ![Cover](https://i.discogs.com/o6yH4wu92_KmyforaWbck9WdRmRD9b8nhHh02p41gEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTI0/NTgtMTQ4MTUxMjQ3/MC00MzMxLmpwZWc.jpeg) | 2016-12-09 | Howie Payne | Bright Light Ballads |
-| 64 | ![Cover](https://i.discogs.com/dDAR1CyfeICIJ7TO-wqqHyGyfDeWL-8wJh8sgUqi4tM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg2/MjQ5LTE1Njk0ODI3/OTktNTQ5My5qcGVn.jpeg) | 2017-06-30 | Ex Norwegian | Sing Jimmy Campbell |
-| 1 |  | 2017-10-27 | Howie Payne | Howie Payne - Demos &#39;13 |
-| 22 | ![Cover](https://i.discogs.com/MGo432buWfP4TwS2A2Tmgk0Ix8A8pWf5OXHZ8ZgxfHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDM3/OTg0LTE1MTYzMjI1/NjYtMTgwOS5qcGVn.jpeg) | 2017-10-27 | Howie Payne | Demos &#39;13 |
-| 77 | ![Cover](https://i.discogs.com/3BvPPD99vxnqUiyLk5yYjcHGH_3GSd07gqPrgvlpBoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTAw/NTU0LTE1NDgwNzA4/OTgtMjA1Ni5qcGVn.jpeg) | 2018 | Marc Vormawah | Over You |
-| 40 | ![Cover](https://i.discogs.com/h102rfcQjeSmyPM7CfCAROO1J4aUHpvgbhcZdSrioTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY2/NzU3LTE1OTM3NDQ3/MjgtNDkwMy5qcGVn.jpeg) | 2020-05-22 | Melic | Nowhere I&#39;d Rather Be &#x2F; Followers |
-| 35 | ![Cover](https://i.discogs.com/Zkekqrhke83fzi0dZVhP-6P3k8JBYcUEa0JESmxqGFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk3/ODIxLTE2MDEwODU0/NTUtMzI3MC5qcGVn.jpeg) | 2020-11-04 | The La&#39;s | The La&#39;s - BBC In Session |
-| 39 | ![Cover](https://i.discogs.com/fyM9IySqMO0xfqJxeiNuaYEYlpcCvi0DZcYXPIVPhDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg3/MjkxLTE2Mjc3MTc1/NjAtNTgzOC5qcGVn.jpeg) | 2021 | Cook da Books | Outch! |
-| 2 |  |  | Row Z | Green Penny EP |
-| 3 |  |  | Jack Gillbanks | The Jack Gillbanks EP |
-| 5 |  |  | Edric man | The Night Of The Pickpocket EP |
-| 6 |  |  | Jessica McFarland | 2007 |
-| 12 |  |  | grahamjennings | the amber room - Graham Jennings |
-| 16 |  |  | grace falls music | Restless |
-| 17 |  |  | Fallen Streams | Lookin&#39; Up |
-| 18 |  |  | fave muslim | █ █ Fave Muslim █ █ |
-| 21 |  |  | Gemstone Heist | Motor Car |
-| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/da1a1196e2a8413e96d8e5ec69a52aa8.png) |  | Make Me Alpha | It&#39;s Woven? |
-| 30 |  |  | Burning Astronomers | English Gothic |
-| 31 |  |  | Tied Up | Defamation of Character |
-| 32 |  |  | The Latex Lenin Band | Dining Room Demos |
-| 33 |  |  | The Swinging Blue Jeans | Hippy Hippy Shake - The Definitive Collection |
-| 34 |  |  | Make Me Alpha | ...It&#39;s Woven? |
-| 36 |  |  | Sinbad&#39;s Unbelievable Revolution | 200 Year Journey |
-| 41 |  |  | Chloe Pitchford | White |
-| 42 |  |  | The Cubical | The Things You Throw Away - Live, Rare &amp; Raw 2004-2009 |
-| 50 |  |  | Burning Astronomers | Kings Of England |
-| 55 |  |  | Hock Tu Down &amp; Tony Broke | Reklews Presents: Red Tape |
-| 56 |  |  | davajonah | davambient |
-| 62 |  |  | Major Discord | White Lip |
-| 68 |  |  | Reignmaker | We Go Round |
-| 76 |  |  | The Wes Paul Band | Manchester to Memphis |
-| 84 |  |  | Bonnie Tyler &amp; Meatloaf | Heaven and Hell |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/hsQJDfkchPoC1AwluJiI3ue9dGeOhXBFy53tIx-J7vw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDgx/NjktMTQwMDI2OTc3/NC05MTUyLmpwZWc.jpeg" alt="Cover for At The Cavern" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1963-11-22</td>
+      <td>The Big Three</td>
+      <td>At The Cavern</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/u8kixoIUuMdtDQ_1bowb4rT7vCVRzafmDGsUrEAdEm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzQ3/NDktMTM1NDgyNDE4/NC0xODY2LmpwZWc.jpeg" alt="Cover for I Think Of You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1963-12-00</td>
+      <td>Merseybeats</td>
+      <td>I Think Of You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 66.23376623376623 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/OqFnrIiHAjVcitmq8UBkpX245fiQ2L4Hn9EauInR1yI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjI5/ODEtMTQ3MDMzMDc5/MS00MjE0LnBuZw.jpeg" alt="Cover for ...At Abbey Road" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1964</td>
+      <td>Billy J Kramer &amp; The Dakotas</td>
+      <td>...At Abbey Road</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/ERi3YTDQqOwcG3WHo2O0EajIJFmbloYWSuFGRvvsjGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE5/MjYzLTE1MDEwNjky/NjYtOTAwMS5qcGVn.jpeg" alt="Cover for Maggie May" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1964</td>
+      <td>The Spinners</td>
+      <td>Maggie May</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/8qjavD4TyIor4fS99s9HuS52Dv_eDWxhFKu5uS4mpQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzMz/OTAtMTI4Mjk5OTUw/My5qcGVn.jpeg" alt="Cover for Koobas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969-01</td>
+      <td>The Koobas</td>
+      <td>Koobas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/xIFzbJeSV52aUdK-o1yp0FnbDABTJsMgtKTmOXI70vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTQ0/NzktMTM2NTY0NjIy/MS02ODgyLmpwZWc.jpeg" alt="Cover for Swallow the Anchor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971-04</td>
+      <td>The Liverpool Fishermen</td>
+      <td>Swallow the Anchor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/DBd47DTMPfWaAzOjk8vRDCwFg_oas5ZI_sF8YQ8Smt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjM1/NzItMTYwMjQxMTQ3/NS0yODY1LmpwZWc.jpeg" alt="Cover for Vibe E.P 2009" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>The 66</td>
+      <td>Vibe E.P 2009</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/qvDrt6z-Do4DS7ThxE40bqAWjrvIBkwOP3M7R4NiBSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzM4/MDYtMTI1MzQzMjY5/Ny5qcGVn.jpeg" alt="Cover for One For The M6" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Led Zeppelin</td>
+      <td>One For The M6</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/QUJUXB9yBVSPWKcWoJweFZnR4OXiwS6p8x3nP-GS_aY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTk3/My0xNDYwMzAyOTAy/LTU1MzguanBlZw.jpeg" alt="Cover for The Lonely Spy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Lori &amp; The Chameleons</td>
+      <td>The Lonely Spy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/hNvis4JbiVCHH0QtMJX3HwDawf9jDbQoldBRHz0J-YQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDUw/NTctMTQ4NjM2OTQ2/OS01Mzk1LmpwZWc.jpeg" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Billy J Kramer &amp; The Dakotas</td>
+      <td>The Very Best Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>1986</td>
+      <td>The Ministry Of Love</td>
+      <td>Burnin&#39; and Lootin&#39; - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>1986</td>
+      <td>The Ministry Of Love</td>
+      <td>Burnin&#39; and Lootin&#39;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/DBd47DTMPfWaAzOjk8vRDCwFg_oas5ZI_sF8YQ8Smt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMjM1/NzItMTYwMjQxMTQ3/NS0yODY1LmpwZWc.jpeg" alt="Cover for Vibe Recordings Studios" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>The 66</td>
+      <td>Vibe Recordings Studios</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/QQDBlRN5Ktas7SDTF1uuurzN5vZdwQeTXIUk2es5gp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTE5/OTMtMTQ3NzM5OTkx/NS01NzIxLmpwZWc.jpeg" alt="Cover for Let&#39;s Dance To The Real Thing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Stone</td>
+      <td>Let&#39;s Dance To The Real Thing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/yerWnsr19n9JZJE3xdGg-PKl1ZiXLWsDbc1EHHdZcwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzY0/OS0xNjUzODI0ODY3/LTczMTQuanBlZw.jpeg" alt="Cover for Working Class Hero - The Definitive Lennon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>John Lennon</td>
+      <td>Working Class Hero - The Definitive Lennon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>1988-03</td>
+      <td>Shack</td>
+      <td>Zilch</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/DJyGEaISAsPmBP8l-PlowMqfy3HnPoq_Oa3fqj4WggI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjEz/NTAtMTI1MjYwMjEy/Ni5qcGVn.jpeg" alt="Cover for Over You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Marc V</td>
+      <td>Over You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/DCLNZzvFL9oAHeU9AgzuJ4xZJq8jxX4Vt5XqrDPqYBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTI5/MS0xMTU1MDkxNjIy/LmpwZWc.jpeg" alt="Cover for Whirlpool" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Dr. Phibes &amp; The House Of Wax Equations</td>
+      <td>Whirlpool</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/RIShMhudx36xuriH2w0KlGUPGSMcAAQOcls4S0JRxyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTQ0/MTktMTQ0MTI5NTQx/OC0zMDU1LmpwZWc.jpeg" alt="Cover for Guardian Angel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Triple M</td>
+      <td>Guardian Angel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/eIjtwVS94Hu2FpW_8-Nh1OMyECTYYtl2EvrzWidIA2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjAw/MjYtMTIwOTM4Njg3/NC5qcGVn.jpeg" alt="Cover for Mexican R&#39;n&#39;B" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>The Stairs</td>
+      <td>Mexican R&#39;n&#39;B</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/eIjtwVS94Hu2FpW_8-Nh1OMyECTYYtl2EvrzWidIA2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjAw/MjYtMTIwOTM4Njg3/NC5qcGVn.jpeg" alt="Cover for Mexican R &#39;n&#39; B" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-05-26</td>
+      <td>The Stairs</td>
+      <td>Mexican R &#39;n&#39; B</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/P8K9teGv2Vy-odJZMz692MhgfUs80ZERw-qFf275Eqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODU5/LTEzNjM3NzQ0NTMt/NDQ3MC5qcGVn.jpeg" alt="Cover for Bang !" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-10-18</td>
+      <td>Frankie Goes to Hollywood</td>
+      <td>Bang !</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/Oe25ivmExglHCoaC1AFuC4q5sRszCNmIGyBgCedTkm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mjg4/Ny0xMjkyMTgxNzUx/LmpwZWc.jpeg" alt="Cover for joe mckechnie - mindwinder ep" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>the mindwinder</td>
+      <td>joe mckechnie - mindwinder ep</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/_v1tdFS4ENdRVy5uTmYt1wRSwuuAeWQd2lgESUxttGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ0/MjUtMTQ1OTQ4Mjg2/OS03NjU3LmpwZWc.jpeg" alt="Cover for Where&#39;s The Disk?" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>The Brentwoods</td>
+      <td>Where&#39;s The Disk?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>1994-08-24</td>
+      <td>China Crisis</td>
+      <td>Warped by Success</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/SNpUrnPVi8PProA3mMzRf4Y5bh9YApJOfsIPj4R1kJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTM2/NS0xNDYwMTI3NzY2/LTg3NDkuanBlZw.jpeg" alt="Cover for Burned" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-09-25</td>
+      <td>Electrafixion</td>
+      <td>Burned</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/CR8zJS87Y6xpH0GcZGgGVaUOC7LbGo544p4JYd9H9XM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzU0/MC0xMTY3OTIzNzA3/LmpwZWc.jpeg" alt="Cover for Magical World of the Strands" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-03-02</td>
+      <td>Michael Head &amp; The Strands</td>
+      <td>Magical World of the Strands</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>1998-09-12</td>
+      <td>Rooney</td>
+      <td>Time On Their Hands</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/9Flu8oZjvliPQ4cu6N9L4gerV49Wn29A8i5KgO0Kffk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjE0/MjQtMTQ2NzMyNzE4/OC00OTA1LmpwZWc.jpeg" alt="Cover for O Rodo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Harmonia Do Samba</td>
+      <td>O Rodo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 10</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 53</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Captain Beefheart &amp; His Magic Band</td>
+      <td>Merseytrout - Live In Liverpool 1980</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/5PtlipRzaWusDuP225NWoh9T6hqEdMSlxPKrjrCdnBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY4/NTcwLTE2MjI1NDM1/NzMtMjE3NC5qcGVn.jpeg" alt="Cover for Songs You&#39;ve Never Heard" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Waste</td>
+      <td>Songs You&#39;ve Never Heard</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/wTA4-IzIIyUHjI0-AQRtwCWyy_eads_ivjIB9ya9mFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTEw/NDcyLTE2MjM0ODYw/OTAtMzcyOS5qcGVn.jpeg" alt="Cover for 2001-08-17: Liverpool, UK" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Echo &amp; the Bunnymen</td>
+      <td>2001-08-17: Liverpool, UK</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>2002-02-11</td>
+      <td>Echo &amp; the Bunnymen</td>
+      <td>Live In Liverpool</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/51MuWeqfhXQZgRrW3os_G9XjZIGHWGm7lCNKM9CCLkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTk1/MTkyLTE1OTc4Njk1/MTAtNjY0OC5tcG8.jpeg" alt="Cover for &#39;Good Enough for Me and Henry McGee&#39; album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>James Clarke Five</td>
+      <td>&#39;Good Enough for Me and Henry McGee&#39; album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/g4KKOlQY6pLoUgO1E83WYsrgiYQSWKABeHlxINO2R84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYz/NDMtMTIwOTkxNDU3/OS5qcGVn.jpeg" alt="Cover for Happening for Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-07-07</td>
+      <td>John Power</td>
+      <td>Happening for Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/syXfE74cB2uGSlzsxRni9EqegVibIEmdw1_JpIoBe1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIw/NTEtMTU1ODE5NDUy/Ny04MjE1Lm1wbw.jpeg" alt="Cover for When This River Rolls Over You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-08-04</td>
+      <td>The Stands</td>
+      <td>When This River Rolls Over You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/w7tpmdmeauun4T5XsoDUlneyoxMIFavL22byPTPm_Q8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTM0/OC0xNTA4MTEwNjU4/LTU2MTkuanBlZw.jpeg" alt="Cover for I Need You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-10</td>
+      <td>The Stands</td>
+      <td>I Need You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>The Stands</td>
+      <td>Here She Comes Again</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/cGzGjQnaaq0WOzVmDcQXk9SC0lFWYuQombdzqQRNU0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjE2/OTAtMTM2NDMxNTM4/My0yNDYzLmpwZWc.jpeg" alt="Cover for The Foggy Dew" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>The Spinners</td>
+      <td>The Foggy Dew</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/vnRDPYJ8PRwsDMrkipu_62wFQTlUj6K37HoWCYNcoj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIw/ODAtMTIxODExMjI3/MS5qcGVn.jpeg" alt="Cover for Here She Comes Again, Pt. 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-02-09</td>
+      <td>The Stands</td>
+      <td>Here She Comes Again, Pt. 2</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/RYK6bqM0JAi5s1UkG-r3exJRDEPM1QHn8fSYLpMiNDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTgz/OS0xNjA1NjE0MDUz/LTMxNTUuanBlZw.jpeg" alt="Cover for All Years Leaving" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-02-23</td>
+      <td>The Stands</td>
+      <td>All Years Leaving</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/wjN7hmy29Syh5wgwt-PFYQ2CO2UoFwR_qygOcskjMcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI5/NDEtMTUwODExMjQ4/OS04MDQ0LmpwZWc.jpeg" alt="Cover for Outside Your Door" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-05-24</td>
+      <td>The Stands</td>
+      <td>Outside Your Door</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/RzM9umsoMXgWhPtOSyHkUMuXv1ByI2686iEd2AQxx9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIw/MzMtMTQ3MjU2NjI5/OC0xODI0LmpwZWc.jpeg" alt="Cover for Do It Like You Like" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-05-09</td>
+      <td>The Stands</td>
+      <td>Do It Like You Like</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>2005-05-31</td>
+      <td>The Dead 60s</td>
+      <td>The Dead 60s</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 55</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/OiDO1LmZE72InXLXEYk60_iie7LFIWnrQGyPoeutX5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE3/MzgtMTIxMzgwMTAx/NC5qcGVn.jpeg" alt="Cover for Horse Fabulous" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-07-25</td>
+      <td>The Stands</td>
+      <td>Horse Fabulous</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/auxfZ6ukiCmwas3u-1JDWgFJBZ_PCiMCg1i93J0BjAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzA5/MjktMTQ3NjAxODg5/Ni01OTU4LmpwZWc.jpeg" alt="Cover for Elevator Demos 2007" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>The Prelude</td>
+      <td>Elevator Demos 2007</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c8ad93703a1fdc947df3f3b9529d053.png" alt="Cover for Ascension" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Deified</td>
+      <td>Ascension</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/CfVxU56xY1pCoNQRD0n9WFZej_8PFxuxZi0ZLk0h2D8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzQ5/NTctMTQ0Nzc1MjQ1/MC01OTMwLmpwZWc.jpeg" alt="Cover for Black and White" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>the fore</td>
+      <td>Black and White</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/CcdtJRw5CdE_pAB8omdmNf4HC3lx9zFrd6mtAD-8-VQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc2/OTMtMTIyMDQ0Nzkx/Ni5qcGVn.jpeg" alt="Cover for Gettin&#39; a Little Help...from &quot;The Joneses&quot;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-07-30</td>
+      <td>Edgar &#39;Jones&#39; Jones</td>
+      <td>Gettin&#39; a Little Help...from &quot;The Joneses&quot;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td>2007-12-04</td>
+      <td>The Cubical</td>
+      <td>Great White Lie [Mckechnie Remix]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/1o6a1PE88H1KiN_GGixckCWA2krsFjK7tUjf3rLYGKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDY4/NDAtMTM1OTYyNTU5/Mi0zNjMwLmpwZWc.jpeg" alt="Cover for Flammable Leisurewear" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-02</td>
+      <td>goFASTER&gt;&gt;</td>
+      <td>Flammable Leisurewear</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td>2008-06-02</td>
+      <td>Earl Grey and The Legomen</td>
+      <td>Last Summer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/32ryPVzttgjoOB2PlXZIaKOxHtSlF67_1N7bzsG9vlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQ5/OTYtMTIzODE0MTMy/NC5qcGVn.jpeg" alt="Cover for The Unsettling Time EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06-02</td>
+      <td>Earl Grey and The Legomen</td>
+      <td>The Unsettling Time EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/tWeIM8Tx5-5kYaSJSJAHdwprqIEkiigFxHfSfSfHgZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTkz/MDAtMTM5OTE5ODUy/Ni04MTM2LmpwZWc.jpeg" alt="Cover for Long Way North" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-09-01</td>
+      <td>Rob Clarke</td>
+      <td>Long Way North</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44c7dbc138264e5884cc1a1ad4223185.png" alt="Cover for Dawn of the Chavs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Somos Muchos</td>
+      <td>Dawn of the Chavs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/Hqn_dy65dHsoRA2LgCBdpgpfan_R47_yVGtYrhjRuWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTkz/MTctMTQ3MzM2OTQ3/Ni0xMzQ0LmpwZWc.jpeg" alt="Cover for Rebolation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Parangolé</td>
+      <td>Rebolation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 21</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 60</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/dnutsQPkshU4uZ4DUdQcrgQzXLbmH1DV2afr9atNeco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE3/NjA4LTE1MTU5NjM2/NjMtMjAxMi5qcGVn.jpeg" alt="Cover for Over You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Triple M</td>
+      <td>Over You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/h1_CLLkO5sUWPYK6GYllLYQt9tdg52j4cbAqjwvWH1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQ2/MTYzLTE2NDI4NzMy/OTktNzI2MS5qcGVn.jpeg" alt="Cover for Love Will Save Us I Hope" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>The Sand Band</td>
+      <td>Love Will Save Us I Hope</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/_gttWO4VaBMJMmYb5IxXy4FwvLiHXWEJp8j2T5NQJbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTQ4/NjYtMTI5Nzc2OTUx/Ny5qcGVn.jpeg" alt="Cover for All Through The Night" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-01-17</td>
+      <td>The Sand Band</td>
+      <td>All Through The Night</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/8KWWiYqG9DU8Qvt7NGppdBbLZ08YF1gQ-M1hoFnSe10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTk0/MjktMTM5OTE5ODc0/MC01MDk2LmpwZWc.jpeg" alt="Cover for About a Time" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-01-21</td>
+      <td>Rob Clarke</td>
+      <td>About a Time</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/5_QEiqMqK82fSSwNSJSwQ4IB5_7ceuUP8bkMXmW4ck8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzQ3/ODMtMTY0ODE0NzQw/OC04OTk5LmpwZWc.jpeg" alt="Cover for So So - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-02-04</td>
+      <td>The Thespians</td>
+      <td>So So - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/RlGu649zjwjxZuTaoLvq8IvVJIdcOHPasCO_B8cz1-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTM4/NjEzLTE1NDg3Mjg2/MzQtNDU2NS5qcGVn.jpeg" alt="Cover for Cheap Riches &#x2F; Revolutions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05-06</td>
+      <td>The Lightwings</td>
+      <td>Cheap Riches &#x2F; Revolutions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/WqyecQOioYn4ZDo25KGJI8BFCfQItB0zCpOMAXZKS4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTE2/NTAtMTQyMjY5Mzg1/NS01ODYwLmpwZWc.jpeg" alt="Cover for Skin Walker EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-08-10</td>
+      <td>River Caves</td>
+      <td>Skin Walker EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/HP7pF8bDHe2cTg9HtK4gdIcwZi4494xzhDnrJriTU6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM5/NzUtMTM4NjgwMDc2/OS0xNjI1LmpwZWc.jpeg" alt="Cover for Live At Shepherd&#39;s Bush Empire" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-12-11</td>
+      <td>Melanie C</td>
+      <td>Live At Shepherd&#39;s Bush Empire</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2014-12-01</td>
+      <td>Kid Kin</td>
+      <td>Orange County EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>2016</td>
+      <td>The Floormen</td>
+      <td>Demos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/o6yH4wu92_KmyforaWbck9WdRmRD9b8nhHh02p41gEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTI0/NTgtMTQ4MTUxMjQ3/MC00MzMxLmpwZWc.jpeg" alt="Cover for Bright Light Ballads" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-12-09</td>
+      <td>Howie Payne</td>
+      <td>Bright Light Ballads</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/dDAR1CyfeICIJ7TO-wqqHyGyfDeWL-8wJh8sgUqi4tM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg2/MjQ5LTE1Njk0ODI3/OTktNTQ5My5qcGVn.jpeg" alt="Cover for Sing Jimmy Campbell" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-30</td>
+      <td>Ex Norwegian</td>
+      <td>Sing Jimmy Campbell</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2017-10-27</td>
+      <td>Howie Payne</td>
+      <td>Howie Payne - Demos &#39;13</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/MGo432buWfP4TwS2A2Tmgk0Ix8A8pWf5OXHZ8ZgxfHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDM3/OTg0LTE1MTYzMjI1/NjYtMTgwOS5qcGVn.jpeg" alt="Cover for Demos &#39;13" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-27</td>
+      <td>Howie Payne</td>
+      <td>Demos &#39;13</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/3BvPPD99vxnqUiyLk5yYjcHGH_3GSd07gqPrgvlpBoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTAw/NTU0LTE1NDgwNzA4/OTgtMjA1Ni5qcGVn.jpeg" alt="Cover for Over You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Marc Vormawah</td>
+      <td>Over You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/h102rfcQjeSmyPM7CfCAROO1J4aUHpvgbhcZdSrioTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY2/NzU3LTE1OTM3NDQ3/MjgtNDkwMy5qcGVn.jpeg" alt="Cover for Nowhere I&#39;d Rather Be &#x2F; Followers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-05-22</td>
+      <td>Melic</td>
+      <td>Nowhere I&#39;d Rather Be &#x2F; Followers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/Zkekqrhke83fzi0dZVhP-6P3k8JBYcUEa0JESmxqGFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjk3/ODIxLTE2MDEwODU0/NTUtMzI3MC5qcGVn.jpeg" alt="Cover for The La&#39;s - BBC In Session" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-11-04</td>
+      <td>The La&#39;s</td>
+      <td>The La&#39;s - BBC In Session</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/fyM9IySqMO0xfqJxeiNuaYEYlpcCvi0DZcYXPIVPhDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg3/MjkxLTE2Mjc3MTc1/NjAtNTgzOC5qcGVn.jpeg" alt="Cover for Outch!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Cook da Books</td>
+      <td>Outch!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Swinging Blue Jeans</td>
+      <td>Hippy Hippy Shake - The Definitive Collection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Hock Tu Down &amp; Tony Broke</td>
+      <td>Reklews Presents: Red Tape</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australian" | relative_url }}">australian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Reignmaker</td>
+      <td>We Go Round</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Wes Paul Band</td>
+      <td>Manchester to Memphis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 9</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Edric man</td>
+      <td>The Night Of The Pickpocket EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Psychedelic Blue Ox</td>
+      <td>Rainbow&#39;s Tail E.P</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Fash Gang</td>
+      <td>Ten Years Of Terror</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jessica McFarland</td>
+      <td>2007</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Row Z</td>
+      <td>Green Penny EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td></td>
+      <td>grahamjennings</td>
+      <td>the amber room - Graham Jennings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td></td>
+      <td>grace falls music</td>
+      <td>Restless</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Fallen Streams</td>
+      <td>Lookin&#39; Up</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td></td>
+      <td>fave muslim</td>
+      <td>█ █ Fave Muslim █ █</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Gemstone Heist</td>
+      <td>Motor Car</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da1a1196e2a8413e96d8e5ec69a52aa8.png" alt="Cover for It&#39;s Woven?" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Make Me Alpha</td>
+      <td>It&#39;s Woven?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Burning Astronomers</td>
+      <td>English Gothic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Tied Up</td>
+      <td>Defamation of Character</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Latex Lenin Band</td>
+      <td>Dining Room Demos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Make Me Alpha</td>
+      <td>...It&#39;s Woven?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sinbad&#39;s Unbelievable Revolution</td>
+      <td>200 Year Journey</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Chloe Pitchford</td>
+      <td>White</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Burning Astronomers</td>
+      <td>Kings Of England</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td></td>
+      <td>davajonah</td>
+      <td>davambient</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Major Discord</td>
+      <td>White Lip</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Bonnie Tyler &amp; Meatloaf</td>
+      <td>Heaven and Hell</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Cubical</td>
+      <td>The Things You Throw Away - Live, Rare &amp; Raw 2004-2009</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
