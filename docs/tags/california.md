@@ -1,118 +1,2651 @@
 ---
 category: genre
-date: 2025-10-28T09:47:52.588Z
+date: 2025-10-31T02:43:14.094Z
 permalink: tags/california
 title: california
 ---
 
 ## california
 
-Last updated: <time datetime="2025-10-28T09:47:52.588Z">Tue Oct 28 2025 11:47:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-31T02:43:14.094Z">Fri Oct 31 2025 04:43:14 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+California music can refer to a variety of musical styles that originated in or are associated with the state of California, United States. The term is often used to refer to the surf rock and folk rock sounds of the 1960s and 1970s associated with artists like The Beach Boys, The Mamas &amp; The Papas, and The Eagles. California music has also been associated with other genres like punk rock (e.g. The Germs, The Dead Kennedys), psychedelic rock (e.g. Jefferson Airplane, Grateful Dead), and hip hop (e.g. N.W.A, Dr. Dre).
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 47 | ![Cover](https://i.discogs.com/FlBvWLDnzhD1VmRxtFLwuUYqugcNjLh3eV34YkNjMvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDA0/NDktMTQxMjA4MTk4/Mi01Nzg5LmpwZWc.jpeg) | 1959 | Celly Campello | Estúpido Cupido |
-| 57 | ![Cover](https://i.discogs.com/Czlggns8f1BEhIvgDa9SfTER-nDT2bcAZ-s9y5-WStw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzk0/MTgtMTQwODAwMjI4/OS01NDAyLmpwZWc.jpeg) | 1964 | The Go-Go&#39;s | Return To The Valley Of The Go-Go&#39;s |
-| 43 | ![Cover](https://i.discogs.com/I3wMR4r7_0mqrh4PJTTEr0wB9CrtZRXIBk_Xa7I3_1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODY2/MzMtMTQyNDYyMTQ1/My00Nzc5LmpwZWc.jpeg) | 1966 | Luiz Gonzaga | Luiz Gonzaga Canta Seus Sucessos Com Zé Dantas |
-| 19 |  | 1966-06-14 | The Beatles | Yesterday and Today |
-| 37 | ![Cover](https://i.discogs.com/llCJSH1dj9wpp5gy3mKJiynhtLtAF1-G9jqd0czue1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDgx/MjUtMTY5NzE0ODI5/NC0zNjY5LnBuZw.jpeg) | 1969 | Vanusa | Vanusa |
-| 75 |  | 1970 | Rita Lee | Build Up |
-| 83 |  | 1970-03 | Linda Ronstadt | Silk Purse |
-| 28 |  | 1970-06-23 | Elvis Presley | On Stage |
-| 93 |  |  | Givēon | When It&#39;s All Said And Done... Take Time |
-| 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cbd23360f0bb88b84c997ea669c9593a.png) |  | SWMRS | Drive North |
-| 16 | ![Cover](https://i.discogs.com/CrUXrCh4YJZg2bVQwH_IPISMKcK9RnqkFmZ6oOajf2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDg1/ODQtMTM5Nzg4Nzc3/Ny00OTA2LmpwZWc.jpeg) | 1971 | Tim Maia | Vou Pedir Pra Você Voltar |
-| 48 |  | 1972 | Lobo | Of a Simple Man |
-| 8 | ![Cover](https://i.discogs.com/56mhocW1HzAeUMbzMhu9OFIBAHw9ZjTfttcqr20-ZgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE5/MzQtMTMyOTI0NTg2/MC5qcGVn.jpeg) | 1973 | Hector | Herra Mirandos |
-| 90 |  | 1973 | Tim Maia | Tim Maia |
-| 98 |  | 1974 | Jeanette | Porque Te Vas |
-| 20 |  | 1975 | Julio Iglesias | El Amor |
-| 85 |  | 1975 | Morris Albert | Feelings |
-| 2 |  | 1977 | Donna Summer | I Feel Love |
-| 65 |  | 1978 | Tim Maia | Disco Club |
-| 30 | ![Cover](https://i.discogs.com/blQPKfgfZJzxyoFv_oBoizFaEvutEC0Hh99ltIuS7Mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTAw/Ny0xNDEyNTAxNTc2/LTUzNDUuanBlZw.jpeg) | 1979-03-01 | Dennis Parker | Like An Eagle |
-| 5 | ![Cover](https://i.discogs.com/jMJ9buMorR77Omz4Ak4Fy3C1WEgXoIn69HCCH_TBDXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTA5/MjAtMTYzOTQ3MjQz/MC0zNjI0LmpwZWc.jpeg) | 1979-07 | Marlena Shaw | Take A Bite |
-| 4 | ![Cover](https://i.discogs.com/pZUV86Hbs_Ypaf0AP2P92gglWWMwK48CeEzogEbDOCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDUx/Mi0xMzE2NjMwMTc1/LmpwZWc.jpeg) | 1980 | Adam and the Ants | Antics in the Forbidden Zone |
-| 10 | ![Cover](https://i.discogs.com/TWpPZpuWatm75xz8_KPgERH62eOcRZW5vlYcNMcofw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTM3/My0xMTc1NzUyMzkw/LmpwZWc.jpeg) | 1980-08-02 | Minnie Riperton | Love Lives Forever |
-| 52 |  | 1982 | Toto | Africa |
-| 87 |  | 1982-11 | Peter Schilling | Major Tom |
-| 35 |  | 1983 | Gilberto Gil | Extra |
-| 11 | ![Cover](https://i.discogs.com/yPZY0RzlvYuBVk62K9Mlitj620idWmWXVM9Bo-zkd60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjg3/MzUtMTMxMjQ1MzA5/MC5qcGVn.jpeg) | 1984 | Foreigner | The Very Best... And Beyond |
-| 42 | ![Cover](https://i.discogs.com/x-hgWBdK-kAPDX9bCpsno44BjDb4uXKDHpLrPEwjnGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzkz/LTEyMjk1NDU0Njgu/anBlZw.jpeg) | 1984 | Savage | Only You |
-| 60 | ![Cover](https://i.discogs.com/tx1a5h7l4YpNSrboObxmb8nO57LEAzt5k9iI03n2hIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE0/NS0xMjcyMDQxNjY4/LmpwZWc.jpeg) | 1984 | Baltimora | Tarzan Boy |
-| 73 |  | 1984 | Gilberto Gil | Raça Humana |
-| 91 |  | 1984 | Os Paralamas Do Sucesso | O Passo Do Lui |
-| 55 |  | 1984-06 | Scandal | Warrior |
-| 74 |  | 1985 | Camper Van Beethoven | Telephone Free Landslide Victory |
-| 7 | ![Cover](https://i.discogs.com/9VwmKXpw6AqMIfvy98gSz6kIxp_H9pnfgsT9lwo4_98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODA1/MzItMTM2ODk5MzUx/Mi04OTg0LmpwZWc.jpeg) | 1986 | Nara Leão | Garota de Ipanema |
-| 68 | ![Cover](https://i.discogs.com/OL8-rD1ZX25ISzqWFMxqXg69B1lZDvGR0xKvrpM18qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzUw/OC0xNDYyMTAwNjA1/LTkxOTMuanBlZw.jpeg) | 1986 | Sigue Sigue Sputnik | Flaunt It |
-| 13 | ![Cover](https://i.discogs.com/RGB1sfIo-D-v8Ju9HzcBBsqyipDc3qAAJOgg4GozG2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDY5/MjMtMTM3NjM0NzA3/Mi0yMjM5LmpwZWc.jpeg) | 1986-02-24 | John Lennon | Live Peace in Toronto 1969 |
-| 58 | ![Cover](https://i.discogs.com/b2XWLWCwVzm7jgSrJYaGs7Olzkgph_41-wY0fHUNBdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjM4/OTUtMTI5ODE1NTA1/MC5qcGVn.jpeg) | 1987 | Bezerra da Silva | Justiça Social |
-| 1 | ![Cover](https://i.discogs.com/qfBNpzx7L5xpG-S7K5zWh1WRS022A9m3oiaBKJt95vk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTA4/MjItMTMwODUyODkx/MS5qcGVn.jpeg) | 1987-09-21 | Modern Talking | Modern Talking |
-| 63 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/28a028790fddbc114839cf4248de6d84.png) | 1988 | Elton John | Reg Strikes Back |
-| 53 |  | 1990 | Bill Medley | The Best of Bill Medley |
-| 84 |  | 1990 | Os Paralamas Do Sucesso | Arquivo |
-| 89 | ![Cover](https://i.discogs.com/9Upk2OkLGNDURqPA4SNYYfDR5eWK-ltkocxhph86XHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTcy/MTktMTQwMjM0OTE2/Ny0yMTAzLmpwZWc.jpeg) | 1990 | Skid Row | Best Of |
-| 15 |  | 1990-07-02 | Maurice Jarre | Ghost |
-| 9 | ![Cover](https://i.discogs.com/Ao-tJy0K_z34j4fFkjmmAldSaPOCnaB5U6xfneclLfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDQx/LTE0MjA5MzY0NDMt/NzkxMC5qcGVn.jpeg) | 1992 | Undercover | Baker Street |
-| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4cda66b6cbde880d33b44782f5ea091e.png) | 1992 | Cher | Greatest Hits |
-| 97 | ![Cover](https://i.discogs.com/vBlE4JIG-ZgMlyzXEIWTiYtGtL6wjpUPJOqxg3OpRio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjg2/NjUtMTQyMTM4OTc0/Ni05MTkxLmpwZWc.jpeg) | 1993 | Raul Seixas | Maluco Beleza |
-| 46 |  | 1993-02-15 | 2Pac | Strictly 4 My N.I.G.G.A.Z... |
-| 39 |  | 1994 | Bronski Beat | Smalltown Boy |
-| 59 | ![Cover](https://i.discogs.com/N5NF-rz1Ytji3R2VOf0AMqIj_Kt9WBYhTa5SxVe1LS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODg3/NjItMTQyNDY2MjI0/Ny03NzY4LmpwZWc.jpeg) | 1994 | Raul Seixas | Raul Seixas |
-| 80 |  | 1994-06-28 | Da Brat | Funkdafied |
-| 27 |  | 1995 | Metrô | Olhar |
-| 92 | ![Cover](https://i.discogs.com/g9qyIFvmcbZlXSCWz6JVr_svGuJtwzvBnSvAwv-xAHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjU4/NS0xMjk2MjEyMjkx/LmpwZWc.jpeg) | 1995 | 2Pac | California Love |
-| 56 | ![Cover](https://i.discogs.com/xHQPHlHMRo4842ZKdYD6pslr3vJfXAHXC3stYIHbM6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjk2/NjAtMTQ0ODkxNjg2/NC0yNTcyLmpwZWc.jpeg) | 1995-02-24 | Gianluca Grignani | Destinazione Paradiso |
-| 29 | ![Cover](https://i.discogs.com/Zo8sSndeCyrAHNaykPbVqSgb7-JAn5EAvQtJ-QM89jA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODU3/LTEyMDY4MzYzNDcu/anBlZw.jpeg) | 1995-10-24 | Erasure | Erasure |
-| 17 | ![Cover](https://i.discogs.com/dza_FxgPZ48e0RdUS__aBxFnU8lHSRuxHA85B0HZ4mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzkw/NzQtMTU3MDEwODYx/MS05NTIxLmpwZWc.jpeg) | 1996 | Barão Vermelho | Álbum |
-| 22 |  | 1996 | The Animals | Greatest Hits |
-| 61 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d62dfa2127f35469027946e32c7a2b51.png) | 1996-10-17 | Van Halen | Best of Volume 1 |
-| 3 | ![Cover](https://i.discogs.com/GLAT_hQfg7rn3AgCpFA2Lu8rtFWYcGICXiONwyXQl7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Nzc5/OC0xNjQzMjAyMjQ3/LTYxMTYuanBlZw.jpeg) | 1996-10-28 | Scatman John | Everybody Jam! |
-| 14 | ![Cover](https://i.discogs.com/uXhPXGH92l7fBfl4D6yr6yxTfcOYfFGt28McUrz3SNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODkw/ODYtMTE5MTE4Njg1/My5qcGVn.jpeg) | 1997 | Peter Cetera | You&#39;re the Inspiration: A Collection |
-| 49 |  | 1998 | Rita Lee | Santa Rita De Sampa |
-| 79 | ![Cover](https://i.discogs.com/5WUtsYnpMmABVqOJhL4HVNUn4PDcuNwCyfwPAQ-vbMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjY3/OS0xMzMyMDQ1NjM4/LmpwZWc.jpeg) | 1998-02 | 2Pac | R U Still Down? [Remember Me] |
-| 95 | ![Cover](https://i.discogs.com/p_yzrwHZFHp-kDvwei9DUF4_nY9RgLeokH_0vzzDTTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQx/NDQzLTE1MDM0NTcz/MjEtODU5Ny5qcGVn.jpeg) | 1999 | 2Pac | The Best Of 2pac |
-| 21 | ![Cover](https://i.discogs.com/0dvtlAshZce0xjACx4BJFwXN4P6tPlIwiSGDGNfI2xE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjM3/Mi0xNTI2OTI2NjI1/LTI2NzIuanBlZw.jpeg) | 2000-03-13 | No Doubt | Ex-Girlfriend |
-| 44 | ![Cover](https://i.discogs.com/WbEd5pXG4uOYKFBs5aRNk__BaSu0WCW3RfmyRAYuXaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTg4/NDAtMTQ1MzIyMzU5/My0xODIzLmpwZWc.jpeg) | 2000-10-24 | Skid Row | 40 Seasons - The Best Of Skid Row |
-| 81 | ![Cover](https://i.discogs.com/gzGsOMKki8xn1pCww9rJsULMWrepWxItc7AcYyiEXxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODU5/NC0xMjM0NjAyMDY5/LmpwZWc.jpeg) | 2001 | Nina Simone | The Very Best Of |
-| 23 | ![Cover](https://i.discogs.com/l4EAIFolBjiuCiooFVidX1dpQsKNB5HUqGNFppkbsk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/OTUtMTQ1MjYyODk1/NC02MTc5LmpwZWc.jpeg) | 2002 | Caetano Veloso | The Best Of Caetano Velose - Sem Lenco Sem Documento |
-| 67 |  | 2002 | Zeca Pagodinho | Deixa A Vida Me Levar |
-| 25 | ![Cover](https://i.discogs.com/8_KvRtCP8oRCWEXBJ2vPCkoQToW3cjVSD1DS8rqm7-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjAx/NjkyLTE1MzAzNzA4/MjItODYwOS5qcGVn.jpeg) | 2003 | Jay Vaquer | Vendo A Mim Mesmo |
-| 31 | ![Cover](https://i.discogs.com/It5q_1G0Tc1tmJZD-fGJL-idYv6a0CnZeHoyMwSYPEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjcw/NzQtMTU5OTIwNDk0/OS0xMTgxLmpwZWc.jpeg) | 2003 | 2Pac | The 7 Day Theory |
-| 78 |  | 2003-03-18 | Slightly Stoopid | Everything You Need |
-| 62 |  | 2003-10-07 | 2Pac | Nu-Mixx Klazzics |
-| 66 | ![Cover](https://i.discogs.com/WCOvnjgzqc7qBr3OeSPliI0r1jisJKwyHRoMxo4i2LE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTM1/MjktMTU3MDUzODYy/MS04ODk3LmpwZWc.jpeg) | 2004 | Barão Vermelho | Barão Vermelho |
-| 69 | ![Cover](https://i.discogs.com/OWsUIfILQCPWLEUhHYhlTfZL7s3sg49Rymzv_gRIeLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI3/Ny0xMTEzNDAwNTU1/LmpwZw.jpeg) | 2004-01-20 | Karmacoda | Transitory Mini EP |
-| 40 |  | 2004-03-27 | Legião Urbana | As Quatro Estações - Ao Vivo |
-| 6 |  | 2004-04-06 | Calexico | Convict Pool |
-| 18 |  | 2004-04-30 | Robi Draco Rosa | Mad Love |
-| 50 |  | 2004-07-13 | Rogue Wave | Out of the Shadow |
-| 45 |  | 2005-10-25 | Rogue Wave | Descended Like Vultures |
-| 82 |  | 2006 | The Supervillains | Grow Yer Own |
-| 77 |  | 2006-01-24 | Ballyhoo! | Do It For The Money! |
-| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8d9b417d08e6bfa201c562627dba3283.png) | 2006-05-09 | Chris Isaak | Best of Chris Isaak |
-| 54 | ![Cover](https://i.discogs.com/-6ggKO5bWJt8c9o6dC6WQMWK6VoWrElyhzCpozoGEL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc2/MzctMTI3MTU4ODYy/MC5qcGVn.jpeg) | 2007-08-21 | Earlimart | Mentor Tormentor |
-| 32 |  | 2008 | Colbie Caillat | The Malibu Sessions |
-| 41 |  | 2008-04-07 | Iron Maiden | Somewhere Back In Time: The Best of 1980-1989 |
-| 38 |  | 2008-08-19 | Shwayze | Shwayze |
-| 24 | ![Cover](https://i.discogs.com/UxBgx_RTewdZgsBDK1tWMrEzoGAlQKRUxAFOp7FoTj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTMw/MDQtMTI5MjE4NDMx/NC5qcGVn.jpeg) | 2009 | The Pussycat Dolls | Doll Domination (International Deluxe Version) |
-| 71 | ![Cover](https://i.discogs.com/I93E4_LnpNgjYyGhZEzY0AeUwGek7H88mDPgIKTEL8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTQ0/ODMtMTQzNDAyOTI0/Ny02NDQ3LmpwZWc.jpeg) | 2009 | Molly Jenson | Fire Relief - A Benefit for the Victims of the 2007 San Diego Wildfires |
-| 76 |  | 2009-10-06 | The Growlers | Are You In Or Out? |
-| 70 | ![Cover](https://i.discogs.com/gke61lIegK2EFJDAGMchEv-sw6fFOgumXfTNkacvzBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTYw/MC0xMTE3NTUzNjIy/LmpwZw.jpeg) | 2010 | Katrina &amp; The Waves | Katrina &amp; The Waves |
-| 72 | ![Cover](https://i.discogs.com/FomDuVr-gem3qpFvI1RK0If_D7mE-SHV-DIJ5nS3q04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc5/MDc4LTE1NDc2NzM0/NjAtMTY0NC5qcGVn.jpeg) | 2010 | French Horn Rebellion | Caaalifornia |
-| 26 | ![Cover](https://i.discogs.com/1HAzZ9hGhGogh1yEvCVw8m-W6THi0JGaoMXQ48i9fjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjE5/MTItMTQ3MzM5MTMx/MS0zMzQ2LmpwZWc.jpeg) | 2010-06-07 | Nina Nastasia | Outlaster |
-| 51 | ![Cover](https://i.discogs.com/qb9INvDrIh5Her1oPWcyH-ylFmcjj4EPrl99AE7Xvhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDE1/NTMwLTE1ODU1MjI3/ODYtMzE0MC53ZWJw.jpeg) | 2011 | Academia da Berlinda | Olindance |
-| 12 | ![Cover](https://i.discogs.com/Tftc5Gl5M1Sudm-NjYTWDwYy4KPfHUisS_5H5LKZeyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDE4/NzUtMTMyNDc0Njkz/MS5qcGVn.jpeg) | 2013 | Nazareth | Hair Of The Dog (Live) |
-| 64 |  | 2013-06-25 | Ballyhoo! | Pineapple Grenade |
-| 34 | ![Cover](https://i.discogs.com/EhdT7a492ADM4GGtvFh9TOkn2FpnBV5HA_r3S4cfXyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQz/NzI0LTE1NDcwNDE5/MDItMjcxNS5qcGVn.jpeg) | 2014-01-14 | Illenium | Risen EP |
-| 33 | ![Cover](https://i.discogs.com/soiXSd8Pkm0j6AxGX-Oq38ol1HkotgVrx6cNHLm7ooM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njgy/NTUtMTUxODgzODU2/Ny01Mjk0LmpwZWc.jpeg) | 2015-10-06 | 2Pac | Nu Mixx Klazzics Vol. 2 (Evolution: Duets And Remixes) |
-| 94 | ![Cover](https://i.discogs.com/YXKJvyX8ph94ftv6DuVyjp8rOqJIbfhEs7pKW3_V6zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Mzc3/MjgtMTU5NjYwMzQ2/MS01NTAxLmpwZWc.jpeg) | 2016-02-12 | Swmrs | Drive North |
-| 88 | ![Cover](https://i.discogs.com/6yYOjuY93IgNbQH1o8Cmshhjj8x6-V68zJMoWQF9olk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDM5/NzUtMTQ2OTExMTgw/NC01MjUxLnBuZw.jpeg) | 2016-07-18 | Prophets Of Rage | Prophets Of Rage |
-| 100 | ![Cover](https://i.discogs.com/UAnWDUaYL_rCgc9eT50VIzXWqPlXdf2mfbu_h8HvzEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE5/MjY1LTE1NDY1NzM5/NTUtMjk5OS5qcGVn.jpeg) | 2017-11-03 | The Marías | Superclean, Vol. I |
-| 99 | ![Cover](https://i.discogs.com/zwhop3MbOizdnfuK2J0d0jWycyPPPNBEPdbHgu5MRPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTM4/MDE1LTE2NTE4NzMw/NDMtMTY2OS5qcGVn.jpeg) | 2022 | Eyedress | Mulholland Drive |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/FlBvWLDnzhD1VmRxtFLwuUYqugcNjLh3eV34YkNjMvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDA0/NDktMTQxMjA4MTk4/Mi01Nzg5LmpwZWc.jpeg" alt="Cover for Estúpido Cupido" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1959</td>
+      <td>Celly Campello</td>
+      <td>Estúpido Cupido</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 71</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 74</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 74</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 74</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 81</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/Czlggns8f1BEhIvgDa9SfTER-nDT2bcAZ-s9y5-WStw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzk0/MTgtMTQwODAwMjI4/OS01NDAyLmpwZWc.jpeg" alt="Cover for Return To The Valley Of The Go-Go&#39;s" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1964</td>
+      <td>The Go-Go&#39;s</td>
+      <td>Return To The Valley Of The Go-Go&#39;s</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/I3wMR4r7_0mqrh4PJTTEr0wB9CrtZRXIBk_Xa7I3_1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODY2/MzMtMTQyNDYyMTQ1/My00Nzc5LmpwZWc.jpeg" alt="Cover for Luiz Gonzaga Canta Seus Sucessos Com Zé Dantas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1966</td>
+      <td>Luiz Gonzaga</td>
+      <td>Luiz Gonzaga Canta Seus Sucessos Com Zé Dantas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 69</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 72</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 72</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>1966-06-14</td>
+      <td>The Beatles</td>
+      <td>Yesterday and Today</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 53</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 56</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 56</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 56</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 67</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 70</li>
+            <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/llCJSH1dj9wpp5gy3mKJiynhtLtAF1-G9jqd0czue1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDgx/MjUtMTY5NzE0ODI5/NC0zNjY5LnBuZw.jpeg" alt="Cover for Vanusa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969</td>
+      <td>Vanusa</td>
+      <td>Vanusa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 64</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 67</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 67</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td>1970</td>
+      <td>Rita Lee</td>
+      <td>Build Up</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 89</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 90</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 90</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 90</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 91</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>1970-03</td>
+      <td>Linda Ronstadt</td>
+      <td>Silk Purse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 31</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>1970-06-23</td>
+      <td>Elvis Presley</td>
+      <td>On Stage</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 59</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 62</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 62</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/CrUXrCh4YJZg2bVQwH_IPISMKcK9RnqkFmZ6oOajf2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDg1/ODQtMTM5Nzg4Nzc3/Ny00OTA2LmpwZWc.jpeg" alt="Cover for Vou Pedir Pra Você Voltar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Tim Maia</td>
+      <td>Vou Pedir Pra Você Voltar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 51</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 54</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 54</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td>1972</td>
+      <td>Lobo</td>
+      <td>Of a Simple Man</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 72</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 75</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 75</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/56mhocW1HzAeUMbzMhu9OFIBAHw9ZjTfttcqr20-ZgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE5/MzQtMTMyOTI0NTg2/MC5qcGVn.jpeg" alt="Cover for Herra Mirandos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973</td>
+      <td>Hector</td>
+      <td>Herra Mirandos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 43</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 46</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 46</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 46</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 61</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>1973</td>
+      <td>Tim Maia</td>
+      <td>Tim Maia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 33</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 48</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 97</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 97</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 97</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 97</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 97</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>1974</td>
+      <td>Jeanette</td>
+      <td>Porque Te Vas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 15</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 86</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 100</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 100</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 100</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 100</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 100</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td>1975</td>
+      <td>Julio Iglesias</td>
+      <td>El Amor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 54</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 57</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 57</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 57</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 68</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>1975</td>
+      <td>Morris Albert</td>
+      <td>Feelings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 93</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 94</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 94</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Donna Summer</td>
+      <td>I Feel Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 38</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 41</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 41</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 41</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 58</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td>1978</td>
+      <td>Tim Maia</td>
+      <td>Disco Club</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 84</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 85</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 85</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 85</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 87</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/blQPKfgfZJzxyoFv_oBoizFaEvutEC0Hh99ltIuS7Mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTAw/Ny0xNDEyNTAxNTc2/LTUzNDUuanBlZw.jpeg" alt="Cover for Like An Eagle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979-03-01</td>
+      <td>Dennis Parker</td>
+      <td>Like An Eagle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 61</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 64</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 64</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 64</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 72</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/jMJ9buMorR77Omz4Ak4Fy3C1WEgXoIn69HCCH_TBDXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTA5/MjAtMTYzOTQ3MjQz/MC0zNjI0LmpwZWc.jpeg" alt="Cover for Take A Bite" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979-07</td>
+      <td>Marlena Shaw</td>
+      <td>Take A Bite</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 41</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 44</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 44</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/pZUV86Hbs_Ypaf0AP2P92gglWWMwK48CeEzogEbDOCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDUx/Mi0xMzE2NjMwMTc1/LmpwZWc.jpeg" alt="Cover for Antics in the Forbidden Zone" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Adam and the Ants</td>
+      <td>Antics in the Forbidden Zone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 40</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 43</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 43</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/TWpPZpuWatm75xz8_KPgERH62eOcRZW5vlYcNMcofw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTM3/My0xMTc1NzUyMzkw/LmpwZWc.jpeg" alt="Cover for Love Lives Forever" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980-08-02</td>
+      <td>Minnie Riperton</td>
+      <td>Love Lives Forever</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 45</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 48</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 48</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 48</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 63</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+      </td>
+      <td>1982</td>
+      <td>Toto</td>
+      <td>Africa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 77</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 78</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 78</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 78</li>
+            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>1982-11</td>
+      <td>Peter Schilling</td>
+      <td>Major Tom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 94</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 95</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 95</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td>1983</td>
+      <td>Gilberto Gil</td>
+      <td>Extra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 19</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 63</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 66</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 66</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/yPZY0RzlvYuBVk62K9Mlitj620idWmWXVM9Bo-zkd60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjg3/MzUtMTMxMjQ1MzA5/MC5qcGVn.jpeg" alt="Cover for The Very Best... And Beyond" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Foreigner</td>
+      <td>The Very Best... And Beyond</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 46</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 49</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 49</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/x-hgWBdK-kAPDX9bCpsno44BjDb4uXKDHpLrPEwjnGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzkz/LTEyMjk1NDU0Njgu/anBlZw.jpeg" alt="Cover for Only You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Savage</td>
+      <td>Only You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 20</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 68</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 71</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 71</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 71</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 76</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/tx1a5h7l4YpNSrboObxmb8nO57LEAzt5k9iI03n2hIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE0/NS0xMjcyMDQxNjY4/LmpwZWc.jpeg" alt="Cover for Tarzan Boy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Baltimora</td>
+      <td>Tarzan Boy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 83</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 84</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 84</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>1984</td>
+      <td>Gilberto Gil</td>
+      <td>Raça Humana</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 88</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 88</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 89</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 89</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>1984</td>
+      <td>Os Paralamas Do Sucesso</td>
+      <td>O Passo Do Lui</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 50</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 60</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 68</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 98</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 98</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 98</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 98</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 98</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>1984-06</td>
+      <td>Scandal</td>
+      <td>Warrior</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 79</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 80</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 80</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>1985</td>
+      <td>Camper Van Beethoven</td>
+      <td>Telephone Free Landslide Victory</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/9VwmKXpw6AqMIfvy98gSz6kIxp_H9pnfgsT9lwo4_98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODA1/MzItMTM2ODk5MzUx/Mi04OTg0LmpwZWc.jpeg" alt="Cover for Garota de Ipanema" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Nara Leão</td>
+      <td>Garota de Ipanema</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 42</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 45</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 45</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/OL8-rD1ZX25ISzqWFMxqXg69B1lZDvGR0xKvrpM18qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzUw/OC0xNDYyMTAwNjA1/LTkxOTMuanBlZw.jpeg" alt="Cover for Flaunt It" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Sigue Sigue Sputnik</td>
+      <td>Flaunt It</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/RGB1sfIo-D-v8Ju9HzcBBsqyipDc3qAAJOgg4GozG2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDY5/MjMtMTM3NjM0NzA3/Mi0yMjM5LmpwZWc.jpeg" alt="Cover for Live Peace in Toronto 1969" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986-02-24</td>
+      <td>John Lennon</td>
+      <td>Live Peace in Toronto 1969</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 48</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 51</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 51</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 51</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 66</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/b2XWLWCwVzm7jgSrJYaGs7Olzkgph_41-wY0fHUNBdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjM4/OTUtMTI5ODE1NTA1/MC5qcGVn.jpeg" alt="Cover for Justiça Social" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Bezerra da Silva</td>
+      <td>Justiça Social</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 6</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 37</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 81</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 82</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 82</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/qfBNpzx7L5xpG-S7K5zWh1WRS022A9m3oiaBKJt95vk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTA4/MjItMTMwODUyODkx/MS5qcGVn.jpeg" alt="Cover for Modern Talking" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987-09-21</td>
+      <td>Modern Talking</td>
+      <td>Modern Talking</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 37</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 40</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 40</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 40</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28a028790fddbc114839cf4248de6d84.png" alt="Cover for Reg Strikes Back" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Elton John</td>
+      <td>Reg Strikes Back</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Bill Medley</td>
+      <td>The Best of Bill Medley</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 78</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 79</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 79</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 79</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 85</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Os Paralamas Do Sucesso</td>
+      <td>Arquivo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 20</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 92</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 93</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 93</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 93</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 95</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/9Upk2OkLGNDURqPA4SNYYfDR5eWK-ltkocxhph86XHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTcy/MTktMTQwMjM0OTE2/Ny0yMTAzLmpwZWc.jpeg" alt="Cover for Best Of" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Skid Row</td>
+      <td>Best Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 95</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 96</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 96</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 96</li>
+            <li> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td>1990-07-02</td>
+      <td>Maurice Jarre</td>
+      <td>Ghost</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 50</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 53</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 53</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/Ao-tJy0K_z34j4fFkjmmAldSaPOCnaB5U6xfneclLfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDQx/LTE0MjA5MzY0NDMt/NzkxMC5qcGVn.jpeg" alt="Cover for Baker Street" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Undercover</td>
+      <td>Baker Street</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 44</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 47</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 47</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 47</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 62</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cda66b6cbde880d33b44782f5ea091e.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Cher</td>
+      <td>Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 62</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 65</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 65</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/vBlE4JIG-ZgMlyzXEIWTiYtGtL6wjpUPJOqxg3OpRio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjg2/NjUtMTQyMTM4OTc0/Ni05MTkxLmpwZWc.jpeg" alt="Cover for Maluco Beleza" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Raul Seixas</td>
+      <td>Maluco Beleza</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 93</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 97</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 99</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 99</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 99</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>1993-02-15</td>
+      <td>2Pac</td>
+      <td>Strictly 4 My N.I.G.G.A.Z...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 63</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Bronski Beat</td>
+      <td>Smalltown Boy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 65</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 68</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 68</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/N5NF-rz1Ytji3R2VOf0AMqIj_Kt9WBYhTa5SxVe1LS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODg3/NjItMTQyNDY2MjI0/Ny03NzY4LmpwZWc.jpeg" alt="Cover for Raul Seixas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Raul Seixas</td>
+      <td>Raul Seixas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 82</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 83</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 83</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>1994-06-28</td>
+      <td>Da Brat</td>
+      <td>Funkdafied</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 90</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 91</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 91</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Metrô</td>
+      <td>Olhar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 58</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 61</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 61</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/g9qyIFvmcbZlXSCWz6JVr_svGuJtwzvBnSvAwv-xAHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjU4/NS0xMjk2MjEyMjkx/LmpwZWc.jpeg" alt="Cover for California Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>2Pac</td>
+      <td>California Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 8</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 30</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/xHQPHlHMRo4842ZKdYD6pslr3vJfXAHXC3stYIHbM6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjk2/NjAtMTQ0ODkxNjg2/NC0yNTcyLmpwZWc.jpeg" alt="Cover for Destinazione Paradiso" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-02-24</td>
+      <td>Gianluca Grignani</td>
+      <td>Destinazione Paradiso</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 80</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 81</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 81</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 81</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/Zo8sSndeCyrAHNaykPbVqSgb7-JAn5EAvQtJ-QM89jA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODU3/LTEyMDY4MzYzNDcu/anBlZw.jpeg" alt="Cover for Erasure" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-10-24</td>
+      <td>Erasure</td>
+      <td>Erasure</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 51</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 60</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 63</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 63</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/dza_FxgPZ48e0RdUS__aBxFnU8lHSRuxHA85B0HZ4mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzkw/NzQtMTU3MDEwODYx/MS05NTIxLmpwZWc.jpeg" alt="Cover for Álbum" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Barão Vermelho</td>
+      <td>Álbum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 52</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 55</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 55</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 55</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>The Animals</td>
+      <td>Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 55</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 58</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 58</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/GLAT_hQfg7rn3AgCpFA2Lu8rtFWYcGICXiONwyXQl7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Nzc5/OC0xNjQzMjAyMjQ3/LTYxMTYuanBlZw.jpeg" alt="Cover for Everybody Jam!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-10-28</td>
+      <td>Scatman John</td>
+      <td>Everybody Jam!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 39</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 42</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 42</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/uXhPXGH92l7fBfl4D6yr6yxTfcOYfFGt28McUrz3SNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODkw/ODYtMTE5MTE4Njg1/My5qcGVn.jpeg" alt="Cover for You&#39;re the Inspiration: A Collection" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Peter Cetera</td>
+      <td>You&#39;re the Inspiration: A Collection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 49</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 52</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 52</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Rita Lee</td>
+      <td>Santa Rita De Sampa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 73</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 76</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 76</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 76</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 82</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/5WUtsYnpMmABVqOJhL4HVNUn4PDcuNwCyfwPAQ-vbMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjY3/OS0xMzMyMDQ1NjM4/LmpwZWc.jpeg" alt="Cover for R U Still Down? [Remember Me]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-02</td>
+      <td>2Pac</td>
+      <td>R U Still Down? [Remember Me]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 21</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/p_yzrwHZFHp-kDvwei9DUF4_nY9RgLeokH_0vzzDTTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzQx/NDQzLTE1MDM0NTcz/MjEtODU5Ny5qcGVn.jpeg" alt="Cover for The Best Of 2pac" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>2Pac</td>
+      <td>The Best Of 2pac</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 37</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/0dvtlAshZce0xjACx4BJFwXN4P6tPlIwiSGDGNfI2xE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjM3/Mi0xNTI2OTI2NjI1/LTI2NzIuanBlZw.jpeg" alt="Cover for Ex-Girlfriend" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-03-13</td>
+      <td>No Doubt</td>
+      <td>Ex-Girlfriend</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/WbEd5pXG4uOYKFBs5aRNk__BaSu0WCW3RfmyRAYuXaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTg4/NDAtMTQ1MzIyMzU5/My0xODIzLmpwZWc.jpeg" alt="Cover for 40 Seasons - The Best Of Skid Row" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-10-24</td>
+      <td>Skid Row</td>
+      <td>40 Seasons - The Best Of Skid Row</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 70</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 73</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 73</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/gzGsOMKki8xn1pCww9rJsULMWrepWxItc7AcYyiEXxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODU5/NC0xMjM0NjAyMDY5/LmpwZWc.jpeg" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Nina Simone</td>
+      <td>The Very Best Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 3</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 91</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 92</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 92</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 92</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 94</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/l4EAIFolBjiuCiooFVidX1dpQsKNB5HUqGNFppkbsk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkz/OTUtMTQ1MjYyODk1/NC02MTc5LmpwZWc.jpeg" alt="Cover for The Best Of Caetano Velose - Sem Lenco Sem Documento" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Caetano Veloso</td>
+      <td>The Best Of Caetano Velose - Sem Lenco Sem Documento</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 56</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 59</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 59</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Zeca Pagodinho</td>
+      <td>Deixa A Vida Me Levar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 50</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 86</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 87</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 87</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 87</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 88</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/8_KvRtCP8oRCWEXBJ2vPCkoQToW3cjVSD1DS8rqm7-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjAx/NjkyLTE1MzAzNzA4/MjItODYwOS5qcGVn.jpeg" alt="Cover for Vendo A Mim Mesmo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Jay Vaquer</td>
+      <td>Vendo A Mim Mesmo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 57</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 60</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 60</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/It5q_1G0Tc1tmJZD-fGJL-idYv6a0CnZeHoyMwSYPEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjcw/NzQtMTU5OTIwNDk0/OS0xMTgxLmpwZWc.jpeg" alt="Cover for The 7 Day Theory" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>2Pac</td>
+      <td>The 7 Day Theory</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2003-03-18</td>
+      <td>Slightly Stoopid</td>
+      <td>Everything You Need</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 49</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2003-10-07</td>
+      <td>2Pac</td>
+      <td>Nu-Mixx Klazzics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/WCOvnjgzqc7qBr3OeSPliI0r1jisJKwyHRoMxo4i2LE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTM1/MjktMTU3MDUzODYy/MS04ODk3LmpwZWc.jpeg" alt="Cover for Barão Vermelho" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Barão Vermelho</td>
+      <td>Barão Vermelho</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 85</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 86</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 86</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/OWsUIfILQCPWLEUhHYhlTfZL7s3sg49Rymzv_gRIeLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI3/Ny0xMTEzNDAwNTU1/LmpwZw.jpeg" alt="Cover for Transitory Mini EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-01-20</td>
+      <td>Karmacoda</td>
+      <td>Transitory Mini EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 53</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 97</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 98</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 100</li>
+            <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td>2004-03-27</td>
+      <td>Legião Urbana</td>
+      <td>As Quatro Estações - Ao Vivo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 66</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 69</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 69</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>2004-04-06</td>
+      <td>Calexico</td>
+      <td>Convict Pool</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td>2004-04-30</td>
+      <td>Robi Draco Rosa</td>
+      <td>Mad Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td>2004-07-13</td>
+      <td>Rogue Wave</td>
+      <td>Out of the Shadow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td>2005-10-25</td>
+      <td>Rogue Wave</td>
+      <td>Descended Like Vultures</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>The Supervillains</td>
+      <td>Grow Yer Own</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf" | relative_url }}">surf</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 21</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 70</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2006-01-24</td>
+      <td>Ballyhoo!</td>
+      <td>Do It For The Money!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf" | relative_url }}">surf</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d9b417d08e6bfa201c562627dba3283.png" alt="Cover for Best of Chris Isaak" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-05-09</td>
+      <td>Chris Isaak</td>
+      <td>Best of Chris Isaak</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/-6ggKO5bWJt8c9o6dC6WQMWK6VoWrElyhzCpozoGEL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc2/MzctMTI3MTU4ODYy/MC5qcGVn.jpeg" alt="Cover for Mentor Tormentor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-08-21</td>
+      <td>Earlimart</td>
+      <td>Mentor Tormentor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Colbie Caillat</td>
+      <td>The Malibu Sessions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2008-04-07</td>
+      <td>Iron Maiden</td>
+      <td>Somewhere Back In Time: The Best of 1980-1989</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 67</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 70</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 70</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 70</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 75</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>2008-08-19</td>
+      <td>Shwayze</td>
+      <td>Shwayze</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/UxBgx_RTewdZgsBDK1tWMrEzoGAlQKRUxAFOp7FoTj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTMw/MDQtMTI5MjE4NDMx/NC5qcGVn.jpeg" alt="Cover for Doll Domination (International Deluxe Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>The Pussycat Dolls</td>
+      <td>Doll Domination (International Deluxe Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/I93E4_LnpNgjYyGhZEzY0AeUwGek7H88mDPgIKTEL8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTQ0/ODMtMTQzNDAyOTI0/Ny02NDQ3LmpwZWc.jpeg" alt="Cover for Fire Relief - A Benefit for the Victims of the 2007 San Diego Wildfires" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Molly Jenson</td>
+      <td>Fire Relief - A Benefit for the Victims of the 2007 San Diego Wildfires</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>2009-10-06</td>
+      <td>The Growlers</td>
+      <td>Are You In Or Out?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf" | relative_url }}">surf</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 73</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 79</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/gke61lIegK2EFJDAGMchEv-sw6fFOgumXfTNkacvzBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTYw/MC0xMTE3NTUzNjIy/LmpwZw.jpeg" alt="Cover for Katrina &amp; The Waves" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Katrina &amp; The Waves</td>
+      <td>Katrina &amp; The Waves</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 87</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 88</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 88</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/FomDuVr-gem3qpFvI1RK0If_D7mE-SHV-DIJ5nS3q04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc5/MDc4LTE1NDc2NzM0/NjAtMTY0NC5qcGVn.jpeg" alt="Cover for Caaalifornia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>French Horn Rebellion</td>
+      <td>Caaalifornia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/1HAzZ9hGhGogh1yEvCVw8m-W6THi0JGaoMXQ48i9fjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjE5/MTItMTQ3MzM5MTMx/MS0zMzQ2LmpwZWc.jpeg" alt="Cover for Outlaster" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-06-07</td>
+      <td>Nina Nastasia</td>
+      <td>Outlaster</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 89</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/qb9INvDrIh5Her1oPWcyH-ylFmcjj4EPrl99AE7Xvhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDE1/NTMwLTE1ODU1MjI3/ODYtMzE0MC53ZWJw.jpeg" alt="Cover for Olindance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Academia da Berlinda</td>
+      <td>Olindance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 75</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 77</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 77</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 77</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 83</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/Tftc5Gl5M1Sudm-NjYTWDwYy4KPfHUisS_5H5LKZeyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDE4/NzUtMTMyNDc0Njkz/MS5qcGVn.jpeg" alt="Cover for Hair Of The Dog (Live)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Nazareth</td>
+      <td>Hair Of The Dog (Live)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 47</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 50</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 50</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 50</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 65</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>2013-06-25</td>
+      <td>Ballyhoo!</td>
+      <td>Pineapple Grenade</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/EhdT7a492ADM4GGtvFh9TOkn2FpnBV5HA_r3S4cfXyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQz/NzI0LTE1NDcwNDE5/MDItMjcxNS5qcGVn.jpeg" alt="Cover for Risen EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-01-14</td>
+      <td>Illenium</td>
+      <td>Risen EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 61</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 81</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/soiXSd8Pkm0j6AxGX-Oq38ol1HkotgVrx6cNHLm7ooM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njgy/NTUtMTUxODgzODU2/Ny01Mjk0LmpwZWc.jpeg" alt="Cover for Nu Mixx Klazzics Vol. 2 (Evolution: Duets And Remixes)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-06</td>
+      <td>2Pac</td>
+      <td>Nu Mixx Klazzics Vol. 2 (Evolution: Duets And Remixes)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/YXKJvyX8ph94ftv6DuVyjp8rOqJIbfhEs7pKW3_V6zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Mzc3/MjgtMTU5NjYwMzQ2/MS01NTAxLmpwZWc.jpeg" alt="Cover for Drive North" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-02-12</td>
+      <td>Swmrs</td>
+      <td>Drive North</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/6yYOjuY93IgNbQH1o8Cmshhjj8x6-V68zJMoWQF9olk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDM5/NzUtMTQ2OTExMTgw/NC01MjUxLnBuZw.jpeg" alt="Cover for Prophets Of Rage" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-07-18</td>
+      <td>Prophets Of Rage</td>
+      <td>Prophets Of Rage</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 77</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 89</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/UAnWDUaYL_rCgc9eT50VIzXWqPlXdf2mfbu_h8HvzEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE5/MjY1LTE1NDY1NzM5/NTUtMjk5OS5qcGVn.jpeg" alt="Cover for Superclean, Vol. I" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-11-03</td>
+      <td>The Marías</td>
+      <td>Superclean, Vol. I</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 55</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 87</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 92</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/zwhop3MbOizdnfuK2J0d0jWycyPPPNBEPdbHgu5MRPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTM4/MDE1LTE2NTE4NzMw/NDMtMTY2OS5qcGVn.jpeg" alt="Cover for Mulholland Drive" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Eyedress</td>
+      <td>Mulholland Drive</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 97</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/RTrgoMzU-tUIuizt_3YtbMnBYBRdbSCAs4-WHqm7SdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Njg5/NjktMTUxNTMyNzY4/NS02NjMyLmpwZWc.jpeg" alt="Cover for Malandro Rife" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Bezerra da Silva</td>
+      <td>Malandro Rife</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 36</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 39</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 39</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 39</li>
+            <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Givēon</td>
+      <td>When It&#39;s All Said And Done... Take Time</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbd23360f0bb88b84c997ea669c9593a.png" alt="Cover for Drive North" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>SWMRS</td>
+      <td>Drive North</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

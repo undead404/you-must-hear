@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T09:47:48.075Z
+date: 2025-10-31T02:42:14.444Z
 permalink: tags/chinese
 title: chinese
 ---
 
 ## chinese
 
-Last updated: <time datetime="2025-10-28T09:47:48.075Z">Tue Oct 28 2025 11:47:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-31T02:42:14.444Z">Fri Oct 31 2025 04:42:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,6 +24,7 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
@@ -41,6 +42,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>56</td>
@@ -55,9 +60,31 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/MmCgQ1NvwuULUpG0V8OsSbz8ouOvhwlyVdvW9KVhYxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzQ1/NjAtMTMyNjIzMjkz/OC5qcGVn.jpeg" alt="Cover for Chinese Traditional Erhu Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Lei Qiang</td>
+      <td>Chinese Traditional Erhu Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/wlr3yS6hxyq6ficJeCDRVfvukCVO0GX9TVOf9dSMYfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTEz/MTctMTQzNzE5MDE3/MC0xODQyLmpwZWc.jpeg" alt="Cover for Chinese Traditional Erhu Music 1" style="max-width:120px; height:auto;" />
       </td>
@@ -69,18 +96,8 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>74</td>
-      <td>
-          <img src="https://i.discogs.com/MmCgQ1NvwuULUpG0V8OsSbz8ouOvhwlyVdvW9KVhYxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzQ1/NjAtMTMyNjIzMjkz/OC5qcGVn.jpeg" alt="Cover for Chinese Traditional Erhu Music" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>Lei Qiang</td>
-      <td>Chinese Traditional Erhu Music</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
     </tr>
@@ -97,6 +114,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>76</td>
@@ -109,6 +130,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -127,6 +152,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 45</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>59</td>
@@ -141,6 +171,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>88</td>
@@ -153,6 +187,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -170,6 +208,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>86</td>
@@ -182,6 +224,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -199,6 +245,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 92</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>36</td>
@@ -212,6 +263,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -228,6 +284,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>72</td>
@@ -240,6 +300,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -257,6 +322,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 96</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>84</td>
@@ -271,6 +341,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>66</td>
@@ -282,6 +356,30 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2001-09-27</td>
+      <td>王力宏</td>
+      <td>唯一</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -298,6 +396,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>80</td>
@@ -310,6 +412,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -326,6 +432,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>85</td>
@@ -337,6 +447,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -352,6 +466,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -372,9 +490,15 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 28</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 77</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2004-04-27</td>
@@ -384,6 +508,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -399,6 +527,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>44</td>
@@ -411,6 +543,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -429,6 +565,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>57</td>
@@ -443,9 +583,13 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/mo-4NMSUixf_IX8eRYouFUDV2pNfLBB4vs7i9XZNxR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTEz/NDE5LTE1NDgzMTUz/NTYtMTAwMi5qcGVn.jpeg" alt="Cover for The One" style="max-width:120px; height:auto;" />
       </td>
@@ -456,6 +600,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -475,6 +624,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 30</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>39</td>
@@ -490,6 +644,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 93</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>18</td>
@@ -501,6 +660,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -517,6 +680,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>32</td>
@@ -529,6 +696,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -547,6 +718,12 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 87</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 92</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>60</td>
@@ -560,6 +737,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -580,6 +762,12 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 71</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>30</td>
@@ -593,6 +781,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -609,9 +802,13 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2009-05-22</td>
@@ -624,9 +821,14 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 3</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2009-08-11</td>
@@ -636,6 +838,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -654,6 +861,13 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 58</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 87</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -675,6 +889,12 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 86</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 98</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>38</td>
@@ -688,9 +908,13 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2010-05-18</td>
@@ -699,6 +923,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -718,6 +946,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>58</td>
@@ -734,9 +966,13 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/Z5ejiMhH6i_sDy3Zh68QDi447mmTAoSoPwwGfhxFivI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODY0/MDYtMTM2NjI3Mjg4/MC01MDg1LmpwZWc.jpeg" alt="Cover for Détache toi" style="max-width:120px; height:auto;" />
       </td>
@@ -750,6 +986,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -768,6 +1008,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 37</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>79</td>
@@ -779,6 +1024,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -796,6 +1045,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 51</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>48</td>
@@ -809,6 +1063,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/china" | relative_url }}">china</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -826,6 +1085,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 60</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>27</td>
@@ -837,6 +1101,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -855,6 +1123,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>94</td>
@@ -869,6 +1141,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -891,6 +1167,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 59</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>91</td>
@@ -904,6 +1185,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -926,6 +1211,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 82</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>99</td>
@@ -941,6 +1231,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 98</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>50</td>
@@ -953,6 +1248,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -970,6 +1269,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 81</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>43</td>
@@ -982,6 +1286,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1002,6 +1310,13 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 43</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 44</li>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 93</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>93</td>
@@ -1015,6 +1330,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1035,6 +1355,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 95</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>98</td>
@@ -1050,9 +1375,14 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 97</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b372bee481584fb35c1d42dd1c10f725.png" alt="Cover for 绿帽 Green Hat" style="max-width:120px; height:auto;" />
       </td>
@@ -1064,9 +1394,14 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 63</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/mFZn7Ty9bvr7vtPTZ0e9JNLNYmaj9KGxYx04_GoRzrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDY4/NDgtMTMzMzE2OTQ5/Mi5qcGVn.jpeg" alt="Cover for Out of Control" style="max-width:120px; height:auto;" />
       </td>
@@ -1079,9 +1414,13 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>
@@ -1095,35 +1434,14 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td></td>
-      <td>張學友</td>
-      <td>Zhen Ai (Xin Qu + Zhen Zheng Jing Xuan)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-      </td>
-      <td></td>
-      <td>酸月亮 Sour Moon</td>
-      <td>We</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td></td>
@@ -1139,22 +1457,14 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-      </td>
-      <td></td>
-      <td>張學友</td>
-      <td>Ageless Tale</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1169,9 +1479,14 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 14</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -1186,18 +1501,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26f21d080199e2f52896e0df86e9ed7a.png" alt="Cover for Jay Chou Live Concert" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>周杰倫</td>
-      <td>Jay Chou Live Concert</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 16</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 73</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1214,6 +1522,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 25</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>19</td>
@@ -1228,48 +1541,9 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>
-      </td>
-      <td></td>
-      <td>张悬</td>
-      <td>张悬</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>
-      </td>
-      <td></td>
-      <td>페이</td>
-      <td>Fantasy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td></td>
-      <td>杨秉音</td>
-      <td>《天官赐福》动画原声带</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1290,6 +1564,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 35</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>35</td>
@@ -1307,6 +1586,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 40</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>40</td>
@@ -1320,6 +1604,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1340,44 +1629,9 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>
-      </td>
-      <td></td>
-      <td>莫文蔚</td>
-      <td>Without You</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
-      <td>
-      </td>
-      <td></td>
-      <td>The Dinosaur’s Skin</td>
-      <td>Millions of Years Apart</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-      </td>
-      <td></td>
-      <td>楊千嬅</td>
-      <td>MAKE UP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1398,31 +1652,10 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>62</td>
-      <td>
-      </td>
-      <td></td>
-      <td>蔡依林</td>
-      <td>Ugly Beauty</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>63</td>
-      <td>
-      </td>
-      <td></td>
-      <td>疗愈音律</td>
-      <td>高级咖啡厅用餐轻松之纯音乐</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 61</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1441,6 +1674,12 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 67</li>
+            <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 97</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>65</td>
@@ -1453,6 +1692,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1470,30 +1714,9 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Joker Xue</td>
-      <td>意外</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
-      </td>
-      <td></td>
-      <td>林俊傑</td>
-      <td>Sixology</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1511,6 +1734,11 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 89</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>100</td>
@@ -1524,6 +1752,239 @@ Chinese music encompasses a diverse range of styles from Mandarin and Cantonese 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td></td>
+      <td>張學友</td>
+      <td>Zhen Ai (Xin Qu + Zhen Zheng Jing Xuan)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td></td>
+      <td>酸月亮 Sour Moon</td>
+      <td>We</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td></td>
+      <td>張學友</td>
+      <td>Ageless Tale</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td></td>
+      <td>张悬</td>
+      <td>张悬</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td></td>
+      <td>페이</td>
+      <td>Fantasy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td></td>
+      <td>杨秉音</td>
+      <td>《天官赐福》动画原声带</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td></td>
+      <td>莫文蔚</td>
+      <td>Without You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Dinosaur’s Skin</td>
+      <td>Millions of Years Apart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td></td>
+      <td>楊千嬅</td>
+      <td>MAKE UP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td></td>
+      <td>蔡依林</td>
+      <td>Ugly Beauty</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td></td>
+      <td>疗愈音律</td>
+      <td>高级咖啡厅用餐轻松之纯音乐</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Joker Xue</td>
+      <td>意外</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td></td>
+      <td>林俊傑</td>
+      <td>Sixology</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
