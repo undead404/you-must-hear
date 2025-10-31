@@ -9,110 +9,2020 @@ title: male singer songwriter
 
 Last updated: <time datetime="2025-10-28T04:05:34.432Z">Tue Oct 28 2025 06:05:34 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Male singer-songwriter describes introspective solo artists who write and perform their own material, typically with minimal instrumentation centered on guitar or piano. The genre emphasizes personal storytelling, poetic lyrics, and authentic vocal delivery across folk, soul, country, and rock influences. These artists emerged prominently in the 1960s-70s as intimate alternatives to highly produced pop music.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 51 |  |  | Carole King and James Taylor | Live At The Troubadour |
-| 85 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4f291c0597b13e3285cf6130805b8efc.png) |  | Elvis Costello | The Best Of The First 10 Years |
-| 67 |  | 1964 | Cornelis Vreeswijk | Ballader och oförskämdheter |
-| 59 |  | 1965 | Cornelis Vreeswijk | Ballader och grimascher |
-| 3 |  | 1967 | Merle Haggard | Branded Man |
-| 9 | ![Cover](https://i.discogs.com/TZneIdUpQh-XZ1VTU2z3D04CXHU1dArF4kK93tVeoR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ5/NDMtMTE5MTY0NDU2/MC5qcGVn.jpeg) | 1968 | Little Richard | Long Tall Sally (The Blues Collection Vol.12) |
-| 40 |  | 1970 | Cornelis Vreeswijk | Poem, ballader och lite blues |
-| 71 | ![Cover](https://i.discogs.com/rufzeslo9KRF7N3Ooa5v8YbUI4o_qse1OW8ztBD89zU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQy/NzMtMTQzOTY3Nzk2/Ny0yODA1LmpwZWc.jpeg) | 1970 | Richie Havens | Alarm Clock |
-| 31 | ![Cover](https://i.discogs.com/7-rW-2f_2DDj0fzdOuL9lPkPvE9bCYH0y0IhNV84meA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDkw/NzMtMTUwMTQ4ODM4/OC05NTIxLmpwZWc.jpeg) | 1971 | Santana | Santana Brothers |
-| 46 | ![Cover](https://i.discogs.com/ZaaSUQMk3KNRTJtdIT4goufHQVCTloGA8Uzwa28THnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzc3/MTI0LTE2Nzg0OTc4/OTctMTcyNy5qcGVn.jpeg) | 1971 | Elton John | 11-17-70 |
-| 80 |  | 1971 | Charley Pride | Sings Heart Songs |
-| 96 | ![Cover](https://i.discogs.com/2Mc7I_k1JnJXEnRKGta0n8pr3H1Yy1sH3wpzc6BNwEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDUx/MjAtMTM3MTgxMDUx/OS0yODU2LmpwZWc.jpeg) | 1971-06 | Stevie Wonder | Up-Tight Everything&#39;s Alright |
-| 34 | ![Cover](https://i.discogs.com/fHk3T6QxM2Vft1it_U3ebi4ydQXyvt480lK9DpP-des/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTMw/MS0xMTcwMTk0MDY0/LmpwZWc.jpeg) | 1972 | J.J. Cale | Rewind |
-| 90 |  | 1972 | Kris Kristofferson | Border Lord |
-| 92 | ![Cover](https://i.discogs.com/Ygpi5sIrp1zELuEODSCXwhyDdMLLafbJQIPWYjOFx0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTI4/ODY0LTE1NzY0MTM4/NTQtMjIxMC5qcGVn.jpeg) | 1972 | José Feliciano | Feliciano |
-| 36 |  | 1973 | Dave Mason | It&#39;s Like You Never Left |
-| 53 | ![Cover](https://i.discogs.com/fS5pIkx4hR9D3WsNd6gfd3kl4b9etMSVoI21p8M9WSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg4/MzQtMTcwMjcyMTcw/Mi03MTQzLmpwZWc.jpeg) | 1973-02 | Bert Jansch | Moonshine |
-| 13 |  | 1974 | Kris Kristofferson &amp; Rita Coolidge | Breakaway |
-| 48 | ![Cover](https://i.discogs.com/ZsgFU9RYji8Vrg5i3NMBTADPgp6M5OZ-0ssDnR40cSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU4/NzYzLTE3MDQ3MTg1/NzItNDQ2NC5qcGVn.jpeg) | 1974-01 | Todd Rundgren | Something&#x2F;Anything |
-| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2b85f6bddc3497a5cb0c6f01ab5102fe.png) | 1975 | Caetano Veloso | Qualquer Coisa |
-| 81 | ![Cover](https://i.discogs.com/s5DsHQ82zbBZAoDZ2deNMhgY16guzjYv4BqGGgrUttQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDgw/NDEtMTU5MDMxODU2/NC00MjcxLmpwZWc.jpeg) | 1976 | Stephen Stills | Down the Road |
-| 16 |  | 1976-01 | Loggins &amp; Messina | Native Sons |
-| 6 |  | 1977 | C.V. Jørgensen | Storbyens Små Oaser |
-| 78 |  | 1977-04-13 | Kenny Loggins | Celebrate Me Home |
-| 98 |  | 1979-02-16 | Bill Withers | &#39;Bout Love |
-| 74 | ![Cover](https://i.discogs.com/GYpoCmPqpg3kFpbaHdbehVh0lNZV5D0E8T8HeUgibfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgy/NzEzLTE0OTgzNjY4/ODAtNDE0OS5qcGVn.jpeg) | 1980 | Don McLean | The Very Best of Don McLean |
-| 91 | ![Cover](https://i.discogs.com/c2s92JTVkhxHqMy_lwzT6VThfCKaFBSFjwYN-hajl0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDEx/MjItMTM4NDM1MDI4/NC05ODQ0LmpwZWc.jpeg) | 1980 | Richie Havens | Connections |
-| 100 | ![Cover](https://i.discogs.com/g_RgxDsR35jbtT653isHuE5LcayfT1K0pvGQDI-Tp-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDY1/MC0xNjM0NzA4MDMx/LTg0NDUuanBlZw.jpeg) | 1980-12-31 | Steve Winwood | Arc Of A Diver |
-| 61 | ![Cover](https://i.discogs.com/FHYcJkuaZEKPkHnjfvplm1fLp9_otYT3cOyf08GfQHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTg4/MS0xMTUxODQ2Nzcx/LmpwZWc.jpeg) | 1981-10-28 | Neil Young &amp; Crazy Horse | Re-ac-tor |
-| 15 |  | 1981-12 | Peter Cetera | Peter Cetera |
-| 65 | ![Cover](https://i.discogs.com/24YF88IkKlvbASP5zsKAWhaFm6QLxig4a1TSDMYWJP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDE0/Mi0xNDUxMjE2Mzc4/LTE2OTMuanBlZw.jpeg) | 1982 | Stevie Wonder | Stevie Wonder The Definitive Collection 2002 |
-| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d42c338a8dad442ba27b8668641d4e51.png) | 1983 | Malcolm McLaren | Duck Rock |
-| 87 |  | 1983 | Kim Larsen | Midt Om Natten |
-| 32 | ![Cover](https://i.discogs.com/tL1sd6iiH2Kukq88QwIDQDQgY72ul8SQeHD9rp2Jy14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI4/MDI4LTE1MDMyNDk0/NTUtNjMxNy5qcGVn.jpeg) | 1984 | Elton John | Greatest Hits Volume II |
-| 29 | ![Cover](https://i.discogs.com/YhI3F7WXLUbpc3rCHM5ocjEm7prNUq_H0vp1-jp68Rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkz/MTE0LTE1NjM0NzM4/NjMtMTMzNy5qcGVn.jpeg) | 1985 | Stevie Wonder | A Time 2 Love |
-| 18 | ![Cover](https://i.discogs.com/eGHMdTkMo2BCoz3HpVCLqIgs2cRjrpZplxG1vi2LEoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTYw/MjUtMTYyMDA3ODAy/Ni05MDAzLmpwZWc.jpeg) | 1985-10-21 | Ulf Lundell | Den Vassa Eggen |
-| 19 | ![Cover](https://i.discogs.com/qXCHxNY2G1BRZh4zdWCbcACNrcwnbmT2i7Ztrz3-8yM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzM3/MDMtMTQ0NTkwMjQw/NS05NDI5LmpwZWc.jpeg) | 1987 | Lars H.U.G. | Kysser himlen farvel |
-| 30 | ![Cover](https://i.discogs.com/i2NoEg_40Iv9c3vRqf0rj-OzjDcE7xL_0-NKbaTGFjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzgy/MjQtMTUyMjA4OTgw/NS01MzA2LmpwZWc.jpeg) | 1987 | James Taylor | Classic Songs |
-| 5 |  | 1988 | C.V. Jørgensen | Indian Summer |
-| 10 | ![Cover](https://i.discogs.com/oMoCo9K5QbTTE5RJAh5pc3cRkAkC45XS1Tsxcp_SClQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzUx/MDUtMTU1NjQ0NjYx/MS04MjgzLmpwZWc.jpeg) | 1988 | The Gregg Allman Band | Just Before The Bullets Fly |
-| 33 | ![Cover](https://i.discogs.com/WC-u04aqZWb1pUNS3_SezehKAZJzxIbE6Wd6z0fLPoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjMw/MS0xMTYzMzM1ODk2/LmpwZWc.jpeg) | 1988-06-10 | Prince | New Power Generation |
-| 11 | ![Cover](https://i.discogs.com/3kflENlBEb2w8C1kDr2QXVGOT3OFe-xF-hK492WwulY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODkz/NjMtMTM4MTQ5ODg0/Ny04NTM4LmpwZWc.jpeg) | 1990 | Elton John | One Night Only: Live Greatest Hits |
-| 24 |  | 1990 | Richie Havens | Live at the Cellar Door |
-| 27 |  | 1990 | C.V. Jørgensen | I Det Muntre Hjørne |
-| 57 | ![Cover](https://i.discogs.com/LK8eOye4fK8Ca6g4JGOz8Cet8OzCp5ouYVdP4DgbOVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjA3/ODAtMTM3MTE0NjE0/MC0xMzAyLmpwZWc.jpeg) | 1990 | Cornelis Vreeswijk | Turistens klagan |
-| 52 | ![Cover](https://i.discogs.com/BxqiZaxfloOqJagmTWGSuQa4oyyqqjc-04rM4yvmLto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzM0/NTgtMTQ3MTg0MTY1/My00MTE4LnBuZw.jpeg) | 1991 | James Ingram | Greatest Hits - The Power of Great Music |
-| 97 | ![Cover](https://i.discogs.com/s_vcCplCr4u6WBMMkHdw10rZTSP0ue-_N7_w4IXc3EQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTcy/MTUtMTMwMjAxNzM2/Mi5qcGVn.jpeg) | 1991 | Leonard Cohen | Can&#39;t Forget: A Souvenir of the Grand Tour |
-| 47 | ![Cover](https://i.discogs.com/o6U94ul9xUw6RDgYJffZamGm9BDC3K4mu9SkAF9chHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTg4/Ny0xNTA3NDgxMDQy/LTY2NTUuanBlZw.jpeg) | 1991-09-10 | Kenny Loggins | LEAP OF FAITH |
-| 20 |  | 1992 | John Lee Hooker | Mambo Chillun |
-| 70 |  | 1992-03-06 | Chuck Berry | Blues Berry |
-| 84 |  | 1992-06-16 | Peter Cetera | World Falling Down |
-| 63 |  | 1992-11-10 | J.J. Cale | Number 10 |
-| 50 | ![Cover](https://i.discogs.com/JWRW1CjLgyBgyU4w_YCsBOWh2mfZNTdgD3TW3X2urbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA2/NzItMTQyMDg1Mjkw/Ni05NzkzLmpwZWc.jpeg) | 1993 | Neil Young &amp; The Shocking Pinks | Everybody&#39;s Rockin&#39; |
-| 83 | ![Cover](https://i.discogs.com/JBv980biAqSoQwkImbdaPulZpaFJAQbTbVjFb_PPSz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY5/NTM4LTE1Mzc4MDAz/ODEtMjUyMS5qcGVn.jpeg) | 1993 | Paul McCartney | Back in the U.S. Live 2002 |
-| 44 |  | 1994 | C.V. Jørgensen | Sjælland |
-| 62 |  | 1994 | Thomas Helmig | Stupid Man |
-| 95 | ![Cover](https://i.discogs.com/2SHjAVxt4vjMVHInoyRuZco_MPWf1j7__Xzse-QZvTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzUz/ODMtMTQ0MDYyMjAy/Ny04ODMxLmpwZWc.jpeg) | 1994 | Sting | Fields Of Gold - The Best Of Sting 1984-1994 |
-| 35 |  | 1995 | Poul Krebs | Små Sensationer |
-| 99 |  | 1995-03-21 | Steve Winwood | The Finer Things |
-| 66 | ![Cover](https://i.discogs.com/m4ory1pOPHi8vvVffyZG1pSgj4Fx-Y20JJfF5XFvRpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMx/MjYtMTMzMzE2NTg3/Mi5qcGVn.jpeg) | 1995-11-20 | Ulf Lundell | Öppna Landskap 7595 |
-| 94 | ![Cover](https://i.discogs.com/3Mm3h5Jp-ayksthVNkExhLi7XUdwxiDM4h862WeOYSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQz/OTU3LTE1MDE1NDQw/NDYtMzI1NC5qcGVn.jpeg) | 1996-10-26 | Bobby Womack | Midnight Mover: The Bobby Womack Story |
-| 38 | ![Cover](https://i.discogs.com/aki-XFriT70A3aucyzzl7DUtyzFSVaXuMYq9FXD_rXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQ4/NzktMTI3NzIyNTM2/NC5qcGVn.jpeg) | 1997 | Paul McCartney | London Town |
-| 75 |  | 1998 | Robbie Robertson | Contact From The Underworld Of Redboy |
-| 56 |  | 1999-05-03 | Barry Adamson | The Murky World Of Barry Adamson |
-| 72 |  | 1999-08-24 | Kris Kristofferson | The Austin Sessions |
-| 79 | ![Cover](https://i.discogs.com/BrUwmLeWFrIvrSabkF6XZeMStncKxd4i9Qca15ijRkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODMy/MjIyLTE1ODI0NTky/NDAtNzcwMi5qcGVn.jpeg) | 2000 | José Feliciano | The Best Of Jose Feliciano |
-| 76 |  | 2001-01-23 | Hall &amp; Oates | The Very Best Of |
-| 58 |  | 2001-05-21 | J.J. Cale | Live |
-| 25 | ![Cover](https://i.discogs.com/mygcB_QcilgMiomn-Lcxtb6p0Y0KAno3T_Pr6woTIQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjQ5/NzQtMTQ4Nzg0ODU4/OS00NjU2LmpwZWc.jpeg) | 2002 | Gregg Allman | 20th Century Masters: The Millennium Collection: Best Of Gregg Allman |
-| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/00d958307a5a4403c4f719ff15b35430.png) | 2002-04-09 | Neil Young | Are You Passionate? |
-| 73 |  | 2002-09-24 | Jackson Browne | The Naked Ride Home |
-| 60 | ![Cover](https://i.discogs.com/GVhd3UQGKAgUgncH9kWC72KAo5ZHozmM7Z1H39yOYdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjk1/MjEtMTI5NDA1MzE0/Mi5qcGVn.jpeg) | 2002-10-07 | Bert Jansch | Edge of a Dream |
-| 12 | ![Cover](https://i.discogs.com/d-IdkblbNlt2okcNP4PAUlvz4XxUbflt_M-__vjrLNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUx/NjItMTU3MTgzODI2/NC0yNTk2LmpwZWc.jpeg) | 2003 | Björn Afzelius | Bästa |
-| 22 |  | 2003-11 | Peter LeMarc | Det som håller oss vid liv |
-| 8 | ![Cover](https://i.discogs.com/idgVSfzJTHILdXfsn0nCbG-3HuwLgx8BTdfhXzkhbjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY3/MjUyLTE1NTI4NTg4/MDMtMjY4Mi5qcGVn.jpeg) | 2004 | Lars H.U.G. | Greatest H.U.G |
-| 54 | ![Cover](https://i.discogs.com/0CR3xobF1QkSt_ph-ytMjeJizOyhSEqAp2vOvzCsTWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDQ4/NzctMTM0MTA2NTYx/NC0xOTk0LmpwZWc.jpeg) | 2004 | Keb&#39; Mo&#39; | Peace...Back By Popular Demand |
-| 69 |  | 2004-10-18 | Rod Stewart | Stardust...The Great American Songbook III |
-| 41 |  | 2005-01-25 | Peter Cetera | Faithfully |
-| 55 |  | 2006 | Thomas Helmig | Helmig Herfra |
-| 21 |  | 2006-03-05 | Rasmus Nøhr | Lykkelig Smutning |
-| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/70abbd0a4b1ab3354dd5a8130d779b34.png) | 2008-01-01 | John Mayer | Where The Light Is: John Mayer Live In Los Angeles |
-| 88 |  | 2008-01-15 | Randy Newman | Harps And Angels |
-| 77 | ![Cover](https://i.discogs.com/kSms_FPMD9cmOZ4TvjqFOVmK9Ak4agCLh_kMx2HdOGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTEx/MTItMTMxOTgxNzgz/OS5qcGVn.jpeg) | 2008-09-30 | James Taylor | Covers |
-| 68 |  | 2008-10-14 | James Ingram | Stand (In the light) |
-| 1 |  | 2009-02-16 | Graham Nash | Reflections |
-| 89 | ![Cover](https://i.discogs.com/qGn93-HvGkxtmfrIwbXEEhUiZLoWl9KqRLqGU0kBisk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDgx/NzgzLTE1Njc0OTg2/NzEtMjk5OS5qcGVn.jpeg) | 2009-02-24 | J.J. Cale | Roll On |
-| 14 |  | 2009-03-02 | Jokeren | Den Tørstige Digter |
-| 28 |  | 2009-11-02 | Thomas Helmig | Tommy Boy |
-| 37 |  | 2010 | Bruno Mars | The Lost Planet |
-| 17 |  | 2010-03-08 | Rasmus Nøhr | Fra Kæreste Til Grin |
-| 45 | ![Cover](https://i.discogs.com/aMq6QZbTr0Hy0sJFw3SJ7Poa91FngMRArEoTayxRg14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTU1/NC0xNTgyNDU2NjU5/LTU0NDMuanBlZw.jpeg) | 2010-10-27 | Neil Young | Americana |
-| 64 |  | 2011-04-05 | Robbie Robertson | How To Become Clairvoyant |
-| 82 |  | 2011-05-03 | Booker T. Jones | The Road From Memphis |
-| 4 | ![Cover](https://i.discogs.com/tdLc5r4cwGR0P0nqf4ZlrCSRc5ykIXeV_uaRama7vFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTA5/NzMtMTM4NDE5Njcz/MC03NTQ2LmpwZWc.jpeg) | 2011-05-12 | Steve Earle | I&#39;ll Never Get Out Of This World Alive |
-| 39 |  | 2011-06-14 | Neil Young | A Treasure |
-| 86 | ![Cover](https://i.discogs.com/2eV3hIn_-0z0105aqUglMcjOJ1Nqbd4X4NUuKW69Hl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzU3/ODgtMTY3MTU3MzY3/Ny05Mjg0LmpwZWc.jpeg) | 2013-10-11 | Willie Nelson | To All The Girls... |
-| 23 |  | 2014-04-01 | Leon Russell | Life Journey |
-| 93 | ![Cover](https://i.discogs.com/05TZvRCL1sBWzkZ1lLNMmwzNcbGlcH_Tev2wdrkLGH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzI1/NDItMTI4MDIxMDI0/Ni5qcGVn.jpeg) | 2020-11-27 | George Harrison | All Things Must Pass (30th Anniversary Edition) |
-| 2 | ![Cover](https://i.discogs.com/sIi39GKuuXcJHAcSkJT7ToI1kXiDDrJkNn8RNrgLg-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODIz/NjM3LTE2NjYwODYy/ODgtNTYxMy5qcGVn.jpeg) | 2022-05-06 | Neil Young | Road Rock Volume 1 |
-| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/db5a1ee62ae046a4acd7e8c0280859af.png) | 2024-09-27 | Gavin DeGraw | Chariot - Stripped |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>1964</td>
+      <td>Cornelis Vreeswijk</td>
+      <td>Ballader och oförskämdheter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>1965</td>
+      <td>Cornelis Vreeswijk</td>
+      <td>Ballader och grimascher</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>1967</td>
+      <td>Merle Haggard</td>
+      <td>Branded Man</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/TZneIdUpQh-XZ1VTU2z3D04CXHU1dArF4kK93tVeoR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ5/NDMtMTE5MTY0NDU2/MC5qcGVn.jpeg" alt="Cover for Long Tall Sally (The Blues Collection Vol.12)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968</td>
+      <td>Little Richard</td>
+      <td>Long Tall Sally (The Blues Collection Vol.12)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td>1970</td>
+      <td>Cornelis Vreeswijk</td>
+      <td>Poem, ballader och lite blues</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/rufzeslo9KRF7N3Ooa5v8YbUI4o_qse1OW8ztBD89zU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQy/NzMtMTQzOTY3Nzk2/Ny0yODA1LmpwZWc.jpeg" alt="Cover for Alarm Clock" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970</td>
+      <td>Richie Havens</td>
+      <td>Alarm Clock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/7-rW-2f_2DDj0fzdOuL9lPkPvE9bCYH0y0IhNV84meA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDkw/NzMtMTUwMTQ4ODM4/OC05NTIxLmpwZWc.jpeg" alt="Cover for Santana Brothers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Santana</td>
+      <td>Santana Brothers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/ZaaSUQMk3KNRTJtdIT4goufHQVCTloGA8Uzwa28THnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzc3/MTI0LTE2Nzg0OTc4/OTctMTcyNy5qcGVn.jpeg" alt="Cover for 11-17-70" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Elton John</td>
+      <td>11-17-70</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>1971</td>
+      <td>Charley Pride</td>
+      <td>Sings Heart Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/2Mc7I_k1JnJXEnRKGta0n8pr3H1Yy1sH3wpzc6BNwEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDUx/MjAtMTM3MTgxMDUx/OS0yODU2LmpwZWc.jpeg" alt="Cover for Up-Tight Everything&#39;s Alright" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971-06</td>
+      <td>Stevie Wonder</td>
+      <td>Up-Tight Everything&#39;s Alright</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/motown" | relative_url }}">motown</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 43</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/fHk3T6QxM2Vft1it_U3ebi4ydQXyvt480lK9DpP-des/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTMw/MS0xMTcwMTk0MDY0/LmpwZWc.jpeg" alt="Cover for Rewind" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>J.J. Cale</td>
+      <td>Rewind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>1972</td>
+      <td>Kris Kristofferson</td>
+      <td>Border Lord</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/Ygpi5sIrp1zELuEODSCXwhyDdMLLafbJQIPWYjOFx0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTI4/ODY0LTE1NzY0MTM4/NTQtMjIxMC5qcGVn.jpeg" alt="Cover for Feliciano" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>José Feliciano</td>
+      <td>Feliciano</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td>1973</td>
+      <td>Dave Mason</td>
+      <td>It&#39;s Like You Never Left</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/fS5pIkx4hR9D3WsNd6gfd3kl4b9etMSVoI21p8M9WSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg4/MzQtMTcwMjcyMTcw/Mi03MTQzLmpwZWc.jpeg" alt="Cover for Moonshine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973-02</td>
+      <td>Bert Jansch</td>
+      <td>Moonshine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td>1974</td>
+      <td>Kris Kristofferson &amp; Rita Coolidge</td>
+      <td>Breakaway</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/ZsgFU9RYji8Vrg5i3NMBTADPgp6M5OZ-0ssDnR40cSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU4/NzYzLTE3MDQ3MTg1/NzItNDQ2NC5qcGVn.jpeg" alt="Cover for Something&#x2F;Anything" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974-01</td>
+      <td>Todd Rundgren</td>
+      <td>Something&#x2F;Anything</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b85f6bddc3497a5cb0c6f01ab5102fe.png" alt="Cover for Qualquer Coisa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975</td>
+      <td>Caetano Veloso</td>
+      <td>Qualquer Coisa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/s5DsHQ82zbBZAoDZ2deNMhgY16guzjYv4BqGGgrUttQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDgw/NDEtMTU5MDMxODU2/NC00MjcxLmpwZWc.jpeg" alt="Cover for Down the Road" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Stephen Stills</td>
+      <td>Down the Road</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td>1976-01</td>
+      <td>Loggins &amp; Messina</td>
+      <td>Native Sons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>C.V. Jørgensen</td>
+      <td>Storbyens Små Oaser</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>1977-04-13</td>
+      <td>Kenny Loggins</td>
+      <td>Celebrate Me Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>1979-02-16</td>
+      <td>Bill Withers</td>
+      <td>&#39;Bout Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/GYpoCmPqpg3kFpbaHdbehVh0lNZV5D0E8T8HeUgibfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgy/NzEzLTE0OTgzNjY4/ODAtNDE0OS5qcGVn.jpeg" alt="Cover for The Very Best of Don McLean" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Don McLean</td>
+      <td>The Very Best of Don McLean</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/c2s92JTVkhxHqMy_lwzT6VThfCKaFBSFjwYN-hajl0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDEx/MjItMTM4NDM1MDI4/NC05ODQ0LmpwZWc.jpeg" alt="Cover for Connections" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Richie Havens</td>
+      <td>Connections</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/g_RgxDsR35jbtT653isHuE5LcayfT1K0pvGQDI-Tp-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDY1/MC0xNjM0NzA4MDMx/LTg0NDUuanBlZw.jpeg" alt="Cover for Arc Of A Diver" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980-12-31</td>
+      <td>Steve Winwood</td>
+      <td>Arc Of A Diver</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/FHYcJkuaZEKPkHnjfvplm1fLp9_otYT3cOyf08GfQHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTg4/MS0xMTUxODQ2Nzcx/LmpwZWc.jpeg" alt="Cover for Re-ac-tor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981-10-28</td>
+      <td>Neil Young &amp; Crazy Horse</td>
+      <td>Re-ac-tor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td>1981-12</td>
+      <td>Peter Cetera</td>
+      <td>Peter Cetera</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/24YF88IkKlvbASP5zsKAWhaFm6QLxig4a1TSDMYWJP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDE0/Mi0xNDUxMjE2Mzc4/LTE2OTMuanBlZw.jpeg" alt="Cover for Stevie Wonder The Definitive Collection 2002" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Stevie Wonder</td>
+      <td>Stevie Wonder The Definitive Collection 2002</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>1983</td>
+      <td>Kim Larsen</td>
+      <td>Midt Om Natten</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 98</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d42c338a8dad442ba27b8668641d4e51.png" alt="Cover for Duck Rock" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Malcolm McLaren</td>
+      <td>Duck Rock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/tL1sd6iiH2Kukq88QwIDQDQgY72ul8SQeHD9rp2Jy14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI4/MDI4LTE1MDMyNDk0/NTUtNjMxNy5qcGVn.jpeg" alt="Cover for Greatest Hits Volume II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Elton John</td>
+      <td>Greatest Hits Volume II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/YhI3F7WXLUbpc3rCHM5ocjEm7prNUq_H0vp1-jp68Rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkz/MTE0LTE1NjM0NzM4/NjMtMTMzNy5qcGVn.jpeg" alt="Cover for A Time 2 Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Stevie Wonder</td>
+      <td>A Time 2 Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/eGHMdTkMo2BCoz3HpVCLqIgs2cRjrpZplxG1vi2LEoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTYw/MjUtMTYyMDA3ODAy/Ni05MDAzLmpwZWc.jpeg" alt="Cover for Den Vassa Eggen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985-10-21</td>
+      <td>Ulf Lundell</td>
+      <td>Den Vassa Eggen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/qXCHxNY2G1BRZh4zdWCbcACNrcwnbmT2i7Ztrz3-8yM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzM3/MDMtMTQ0NTkwMjQw/NS05NDI5LmpwZWc.jpeg" alt="Cover for Kysser himlen farvel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Lars H.U.G.</td>
+      <td>Kysser himlen farvel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 13</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 77</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/i2NoEg_40Iv9c3vRqf0rj-OzjDcE7xL_0-NKbaTGFjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzgy/MjQtMTUyMjA4OTgw/NS01MzA2LmpwZWc.jpeg" alt="Cover for Classic Songs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>James Taylor</td>
+      <td>Classic Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>1988</td>
+      <td>C.V. Jørgensen</td>
+      <td>Indian Summer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/oMoCo9K5QbTTE5RJAh5pc3cRkAkC45XS1Tsxcp_SClQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzUx/MDUtMTU1NjQ0NjYx/MS04MjgzLmpwZWc.jpeg" alt="Cover for Just Before The Bullets Fly" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>The Gregg Allman Band</td>
+      <td>Just Before The Bullets Fly</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/WC-u04aqZWb1pUNS3_SezehKAZJzxIbE6Wd6z0fLPoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MjMw/MS0xMTYzMzM1ODk2/LmpwZWc.jpeg" alt="Cover for New Power Generation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988-06-10</td>
+      <td>Prince</td>
+      <td>New Power Generation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>C.V. Jørgensen</td>
+      <td>I Det Muntre Hjørne</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/LK8eOye4fK8Ca6g4JGOz8Cet8OzCp5ouYVdP4DgbOVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjA3/ODAtMTM3MTE0NjE0/MC0xMzAyLmpwZWc.jpeg" alt="Cover for Turistens klagan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Cornelis Vreeswijk</td>
+      <td>Turistens klagan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/3kflENlBEb2w8C1kDr2QXVGOT3OFe-xF-hK492WwulY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODkz/NjMtMTM4MTQ5ODg0/Ny04NTM4LmpwZWc.jpeg" alt="Cover for One Night Only: Live Greatest Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Elton John</td>
+      <td>One Night Only: Live Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Richie Havens</td>
+      <td>Live at the Cellar Door</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/BxqiZaxfloOqJagmTWGSuQa4oyyqqjc-04rM4yvmLto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzM0/NTgtMTQ3MTg0MTY1/My00MTE4LnBuZw.jpeg" alt="Cover for Greatest Hits - The Power of Great Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>James Ingram</td>
+      <td>Greatest Hits - The Power of Great Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/s_vcCplCr4u6WBMMkHdw10rZTSP0ue-_N7_w4IXc3EQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTcy/MTUtMTMwMjAxNzM2/Mi5qcGVn.jpeg" alt="Cover for Can&#39;t Forget: A Souvenir of the Grand Tour" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Leonard Cohen</td>
+      <td>Can&#39;t Forget: A Souvenir of the Grand Tour</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/o6U94ul9xUw6RDgYJffZamGm9BDC3K4mu9SkAF9chHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTg4/Ny0xNTA3NDgxMDQy/LTY2NTUuanBlZw.jpeg" alt="Cover for LEAP OF FAITH" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-09-10</td>
+      <td>Kenny Loggins</td>
+      <td>LEAP OF FAITH</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>1992</td>
+      <td>John Lee Hooker</td>
+      <td>Mambo Chillun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td>1992-03-06</td>
+      <td>Chuck Berry</td>
+      <td>Blues Berry</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td>1992-06-16</td>
+      <td>Peter Cetera</td>
+      <td>World Falling Down</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td>1992-11-10</td>
+      <td>J.J. Cale</td>
+      <td>Number 10</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/JWRW1CjLgyBgyU4w_YCsBOWh2mfZNTdgD3TW3X2urbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA2/NzItMTQyMDg1Mjkw/Ni05NzkzLmpwZWc.jpeg" alt="Cover for Everybody&#39;s Rockin&#39;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Neil Young &amp; The Shocking Pinks</td>
+      <td>Everybody&#39;s Rockin&#39;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/JBv980biAqSoQwkImbdaPulZpaFJAQbTbVjFb_PPSz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY5/NTM4LTE1Mzc4MDAz/ODEtMjUyMS5qcGVn.jpeg" alt="Cover for Back in the U.S. Live 2002" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Paul McCartney</td>
+      <td>Back in the U.S. Live 2002</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>C.V. Jørgensen</td>
+      <td>Sjælland</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Thomas Helmig</td>
+      <td>Stupid Man</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 58</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 96</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/2SHjAVxt4vjMVHInoyRuZco_MPWf1j7__Xzse-QZvTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzUz/ODMtMTQ0MDYyMjAy/Ny04ODMxLmpwZWc.jpeg" alt="Cover for Fields Of Gold - The Best Of Sting 1984-1994" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Sting</td>
+      <td>Fields Of Gold - The Best Of Sting 1984-1994</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Poul Krebs</td>
+      <td>Små Sensationer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 57</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 85</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>1995-03-21</td>
+      <td>Steve Winwood</td>
+      <td>The Finer Things</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/m4ory1pOPHi8vvVffyZG1pSgj4Fx-Y20JJfF5XFvRpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMx/MjYtMTMzMzE2NTg3/Mi5qcGVn.jpeg" alt="Cover for Öppna Landskap 7595" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-11-20</td>
+      <td>Ulf Lundell</td>
+      <td>Öppna Landskap 7595</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/3Mm3h5Jp-ayksthVNkExhLi7XUdwxiDM4h862WeOYSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQz/OTU3LTE1MDE1NDQw/NDYtMzI1NC5qcGVn.jpeg" alt="Cover for Midnight Mover: The Bobby Womack Story" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-10-26</td>
+      <td>Bobby Womack</td>
+      <td>Midnight Mover: The Bobby Womack Story</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/aki-XFriT70A3aucyzzl7DUtyzFSVaXuMYq9FXD_rXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQ4/NzktMTI3NzIyNTM2/NC5qcGVn.jpeg" alt="Cover for London Town" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Paul McCartney</td>
+      <td>London Town</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Robbie Robertson</td>
+      <td>Contact From The Underworld Of Redboy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>1999-05-03</td>
+      <td>Barry Adamson</td>
+      <td>The Murky World Of Barry Adamson</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>1999-08-24</td>
+      <td>Kris Kristofferson</td>
+      <td>The Austin Sessions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/BrUwmLeWFrIvrSabkF6XZeMStncKxd4i9Qca15ijRkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODMy/MjIyLTE1ODI0NTky/NDAtNzcwMi5qcGVn.jpeg" alt="Cover for The Best Of Jose Feliciano" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>José Feliciano</td>
+      <td>The Best Of Jose Feliciano</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>2001-01-23</td>
+      <td>Hall &amp; Oates</td>
+      <td>The Very Best Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td>2001-05-21</td>
+      <td>J.J. Cale</td>
+      <td>Live</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/mygcB_QcilgMiomn-Lcxtb6p0Y0KAno3T_Pr6woTIQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjQ5/NzQtMTQ4Nzg0ODU4/OS00NjU2LmpwZWc.jpeg" alt="Cover for 20th Century Masters: The Millennium Collection: Best Of Gregg Allman" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Gregg Allman</td>
+      <td>20th Century Masters: The Millennium Collection: Best Of Gregg Allman</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00d958307a5a4403c4f719ff15b35430.png" alt="Cover for Are You Passionate?" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-04-09</td>
+      <td>Neil Young</td>
+      <td>Are You Passionate?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>2002-09-24</td>
+      <td>Jackson Browne</td>
+      <td>The Naked Ride Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/GVhd3UQGKAgUgncH9kWC72KAo5ZHozmM7Z1H39yOYdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjk1/MjEtMTI5NDA1MzE0/Mi5qcGVn.jpeg" alt="Cover for Edge of a Dream" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-10-07</td>
+      <td>Bert Jansch</td>
+      <td>Edge of a Dream</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/d-IdkblbNlt2okcNP4PAUlvz4XxUbflt_M-__vjrLNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTUx/NjItMTU3MTgzODI2/NC0yNTk2LmpwZWc.jpeg" alt="Cover for Bästa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Björn Afzelius</td>
+      <td>Bästa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td>2003-11</td>
+      <td>Peter LeMarc</td>
+      <td>Det som håller oss vid liv</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/idgVSfzJTHILdXfsn0nCbG-3HuwLgx8BTdfhXzkhbjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY3/MjUyLTE1NTI4NTg4/MDMtMjY4Mi5qcGVn.jpeg" alt="Cover for Greatest H.U.G" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Lars H.U.G.</td>
+      <td>Greatest H.U.G</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 34</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 72</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/0CR3xobF1QkSt_ph-ytMjeJizOyhSEqAp2vOvzCsTWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDQ4/NzctMTM0MTA2NTYx/NC0xOTk0LmpwZWc.jpeg" alt="Cover for Peace...Back By Popular Demand" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Keb&#39; Mo&#39;</td>
+      <td>Peace...Back By Popular Demand</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>2004-10-18</td>
+      <td>Rod Stewart</td>
+      <td>Stardust...The Great American Songbook III</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td>2005-01-25</td>
+      <td>Peter Cetera</td>
+      <td>Faithfully</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Thomas Helmig</td>
+      <td>Helmig Herfra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 77</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 94</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td>2006-03-05</td>
+      <td>Rasmus Nøhr</td>
+      <td>Lykkelig Smutning</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 43</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 78</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70abbd0a4b1ab3354dd5a8130d779b34.png" alt="Cover for Where The Light Is: John Mayer Live In Los Angeles" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-01-01</td>
+      <td>John Mayer</td>
+      <td>Where The Light Is: John Mayer Live In Los Angeles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>2008-01-15</td>
+      <td>Randy Newman</td>
+      <td>Harps And Angels</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/kSms_FPMD9cmOZ4TvjqFOVmK9Ak4agCLh_kMx2HdOGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTEx/MTItMTMxOTgxNzgz/OS5qcGVn.jpeg" alt="Cover for Covers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-09-30</td>
+      <td>James Taylor</td>
+      <td>Covers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td>2008-10-14</td>
+      <td>James Ingram</td>
+      <td>Stand (In the light)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2009-02-16</td>
+      <td>Graham Nash</td>
+      <td>Reflections</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/qGn93-HvGkxtmfrIwbXEEhUiZLoWl9KqRLqGU0kBisk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDgx/NzgzLTE1Njc0OTg2/NzEtMjk5OS5qcGVn.jpeg" alt="Cover for Roll On" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-02-24</td>
+      <td>J.J. Cale</td>
+      <td>Roll On</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td>2009-03-02</td>
+      <td>Jokeren</td>
+      <td>Den Tørstige Digter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td>2009-11-02</td>
+      <td>Thomas Helmig</td>
+      <td>Tommy Boy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 52</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 81</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2010</td>
+      <td>Bruno Mars</td>
+      <td>The Lost Planet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td>2010-03-08</td>
+      <td>Rasmus Nøhr</td>
+      <td>Fra Kæreste Til Grin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 42</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/aMq6QZbTr0Hy0sJFw3SJ7Poa91FngMRArEoTayxRg14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTU1/NC0xNTgyNDU2NjU5/LTU0NDMuanBlZw.jpeg" alt="Cover for Americana" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-10-27</td>
+      <td>Neil Young</td>
+      <td>Americana</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>2011-04-05</td>
+      <td>Robbie Robertson</td>
+      <td>How To Become Clairvoyant</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2011-05-03</td>
+      <td>Booker T. Jones</td>
+      <td>The Road From Memphis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 52</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/tdLc5r4cwGR0P0nqf4ZlrCSRc5ykIXeV_uaRama7vFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTA5/NzMtMTM4NDE5Njcz/MC03NTQ2LmpwZWc.jpeg" alt="Cover for I&#39;ll Never Get Out Of This World Alive" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-05-12</td>
+      <td>Steve Earle</td>
+      <td>I&#39;ll Never Get Out Of This World Alive</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>2011-06-14</td>
+      <td>Neil Young</td>
+      <td>A Treasure</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/2eV3hIn_-0z0105aqUglMcjOJ1Nqbd4X4NUuKW69Hl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzU3/ODgtMTY3MTU3MzY3/Ny05Mjg0LmpwZWc.jpeg" alt="Cover for To All The Girls..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-10-11</td>
+      <td>Willie Nelson</td>
+      <td>To All The Girls...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td>2014-04-01</td>
+      <td>Leon Russell</td>
+      <td>Life Journey</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/05TZvRCL1sBWzkZ1lLNMmwzNcbGlcH_Tev2wdrkLGH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzI1/NDItMTI4MDIxMDI0/Ni5qcGVn.jpeg" alt="Cover for All Things Must Pass (30th Anniversary Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-11-27</td>
+      <td>George Harrison</td>
+      <td>All Things Must Pass (30th Anniversary Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/sIi39GKuuXcJHAcSkJT7ToI1kXiDDrJkNn8RNrgLg-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODIz/NjM3LTE2NjYwODYy/ODgtNTYxMy5qcGVn.jpeg" alt="Cover for Road Rock Volume 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-05-06</td>
+      <td>Neil Young</td>
+      <td>Road Rock Volume 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db5a1ee62ae046a4acd7e8c0280859af.png" alt="Cover for Chariot - Stripped" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-09-27</td>
+      <td>Gavin DeGraw</td>
+      <td>Chariot - Stripped</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Carole King and James Taylor</td>
+      <td>Live At The Troubadour</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f291c0597b13e3285cf6130805b8efc.png" alt="Cover for The Best Of The First 10 Years" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Elvis Costello</td>
+      <td>The Best Of The First 10 Years</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
