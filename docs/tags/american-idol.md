@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T23:54:32.484Z
+date: 2025-11-01T07:53:50.964Z
 permalink: tags/american-idol
 title: american idol
 ---
 
 ## american idol
 
-Last updated: <time datetime="2025-10-28T23:54:32.484Z">Wed Oct 29 2025 01:54:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-01T07:53:50.964Z">Sat Nov 01 2025 09:53:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
   </thead>
   <tbody>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>1974</td>
@@ -135,7 +135,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2003-04-15</td>
@@ -310,6 +310,24 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/e6R7XKte_hjxDpB8Wcb7JP5SAhITjvWtYLOMnmTJKf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY3/NTQwLTE1OTU1NTk4/MzItNDgxMy5qcGVn.jpeg" alt="Cover for Sing Me Home" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-12-21</td>
+      <td>Lisa Leuschner</td>
+      <td>Sing Me Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>45</td>
       <td>
           <img src="https://i.discogs.com/oHXBuGVonunkKJI0VfpNJSiUqlgLiAIdEMxLNT0Gc-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ1/MDktMTE5Nzg0MTI1/OC5qcGVn.jpeg" alt="Cover for Love &amp; Life" style="max-width:120px; height:auto;" />
@@ -382,7 +400,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>2005-07-12</td>
@@ -417,7 +435,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7caaf35b42fe4b458dedc3dec6e58a3b.png" alt="Cover for Some Hearts" style="max-width:120px; height:auto;" />
       </td>
@@ -582,7 +600,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>2007</td>
@@ -731,7 +749,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8034761756b405f885ccc8c2563909a.png" alt="Cover for Carnival Ride" style="max-width:120px; height:auto;" />
       </td>
@@ -786,7 +804,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2008-05-06</td>
@@ -1042,7 +1060,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/ychhCc2iWkIF4_iaXQtoTwMhuCLhO592H8gMhPCk3NY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzM2/NDY2LTE1ODA1ODUx/NjctMjU2NC5qcGVn.jpeg" alt="Cover for Make or Break" style="max-width:120px; height:auto;" />
       </td>
@@ -1158,7 +1176,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/893fb60f56b14cddb3516f6fc382c7d6.png" alt="Cover for Season 8 Favorite Performances" style="max-width:120px; height:auto;" />
       </td>
@@ -1294,7 +1312,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2011-03-22</td>
@@ -1367,23 +1385,6 @@ American Idol represents a commercially-driven pop style that emerged from the r
       <td>
         <ul>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 63</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d99e9420c7945c58dfad45323b6564e.png" alt="Cover for The Blown Away Tour" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-05-01</td>
-      <td>Carrie Underwood</td>
-      <td>The Blown Away Tour</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1496,7 +1497,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/MnxFV8OPpRgUWLChslbXG-H3cHo-YfSaRmnYzrzVXKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE0/MTU2LTE1OTgyODU5/MTEtMzI2OS5qcGVn.jpeg" alt="Cover for Enjoy Your Holiday - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,7 +1519,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/_881-nJmm9U4VFpqApxqdC8hHJnNVQYYTLs8PrTa-_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAz/NzE4LTE0OTg3OTQ3/MTItODMzMC5qcGVn.jpeg" alt="Cover for American Idol" style="max-width:120px; height:auto;" />
       </td>
@@ -1613,7 +1614,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/dDdIcywgS2Wej_yz3I_oFg688eq2UHv6e74sBOGqfQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODU0/NTM4LTE2Mjg5MTA0/MDgtNDIwNi5qcGVn.jpeg" alt="Cover for Meet the Mormons" style="max-width:120px; height:auto;" />
       </td>
@@ -1652,7 +1653,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/sIaZhhNN2zcjgjmbe6rA5cOYdcoXHD87KRfGh49LLYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjIw/MTQyLTE2NTU1OTAy/NjktMzkzOS5qcGVn.jpeg" alt="Cover for Many Colors" style="max-width:120px; height:auto;" />
       </td>
@@ -1672,7 +1673,7 @@ American Idol represents a commercially-driven pop style that emerged from the r
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>

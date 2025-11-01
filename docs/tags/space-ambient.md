@@ -9,6 +9,10 @@ title: space ambient
 
 Last updated: <time datetime="2025-10-30T06:04:39.027Z">Thu Oct 30 2025 08:04:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Space ambient is atmospheric electronic music that evokes the vast emptiness and mystery of outer space through slowly evolving textures, deep drones, and ethereal soundscapes. Born from the intersection of ambient music and cosmic exploration themes, it creates immersive sonic environments that feel both infinite and introspective. The music emphasizes mood and atmosphere over rhythm, inviting listeners into meditative journeys through imagined celestial realms.
+
 ### 100 chronological releases
 
 <table>

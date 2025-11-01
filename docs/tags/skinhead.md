@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T23:54:53.483Z
+date: 2025-11-01T08:00:50.961Z
 permalink: tags/skinhead
 title: skinhead
 ---
 
 ## skinhead
 
-Last updated: <time datetime="2025-10-28T23:54:53.483Z">Wed Oct 29 2025 01:54:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-01T08:00:50.961Z">Sat Nov 01 2025 10:00:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9a9524b9a62a4472425476563500abd.png" alt="Cover for Hail The New Dawn" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/7cfB1Ns-9jK-2gOH2hMJtH5tgvdIeKzI6FgQmElmvcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTcz/NC0xNDI1ODk1NjM5/LTkwNDkuanBlZw.jpeg" alt="Cover for Send In the Marines" style="max-width:120px; height:auto;" />
       </td>
@@ -87,7 +87,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
       </td>
       <td>1985-12</td>
@@ -106,7 +106,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/il-mSfY3n0BSy2gcSXZubf1BKfuOrguLzmFpibR9nEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTcx/NDUtMTI5NDU4OTY3/OS5qcGVn.jpeg" alt="Cover for White Warrior" style="max-width:120px; height:auto;" />
       </td>
@@ -126,7 +126,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/R-7X62Zt9WlytupYZodyIf_OvZVDaf-EBDu6bl0_5tI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NTctMTQ5OTAyOTEw/OS03NDYwLmpwZWc.jpeg" alt="Cover for Der Clou" style="max-width:120px; height:auto;" />
       </td>
@@ -144,7 +144,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
       </td>
       <td>1988</td>
@@ -163,7 +163,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/gXrJo97VhaK6ClDMPkc7hbvIXta3F3RWIbLTteW2RU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODM0/ODItMTI3NTM3MTI3/MS5qcGVn.jpeg" alt="Cover for Live For Now!" style="max-width:120px; height:auto;" />
       </td>
@@ -182,7 +182,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>1989</td>
@@ -201,7 +201,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>1990</td>
@@ -256,7 +256,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>1992</td>
@@ -292,7 +292,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/mqnuH1t05fR-k6vz4yM-PDF09qThI2JLWtpjpG8186s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQz/NTQtMTY1NTg3MjYy/Mi0zNTYwLmpwZWc.jpeg" alt="Cover for Blood And Honour" style="max-width:120px; height:auto;" />
       </td>
@@ -312,7 +312,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/pUqXzqF1OQULnp_lFhb8HUCtaxtLU8YN_pJ0aWi5Dk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjc4/OTUtMTI3MzQwNTYw/MS5qcGVn.jpeg" alt="Cover for Faith and Fury" style="max-width:120px; height:auto;" />
       </td>
@@ -331,7 +331,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/4LSOzO-rq6wcZMHqSe6iu3P3z7POebfdGUEJqIOlUu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDI5/NjMtMTQ1ODk2ODY1/My05NDc3LmpwZWc.jpeg" alt="Cover for Once Upon a Time" style="max-width:120px; height:auto;" />
       </td>
@@ -349,7 +349,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
       </td>
       <td>1995</td>
@@ -366,7 +366,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfbb21f201a9442fb2442337a8ccea17.png" alt="Cover for Behold the Iron Cross" style="max-width:120px; height:auto;" />
       </td>
@@ -386,7 +386,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/LteDksAckZMQWZg2fdB0YWS18aI-Mzc_CS0LrzZgjAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjgw/MTAtMTQ2NzkxNjM0/Mi03OTQ2LmpwZWc.jpeg" alt="Cover for Guilty as Charged" style="max-width:120px; height:auto;" />
       </td>
@@ -405,7 +405,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
       </td>
       <td>1996</td>
@@ -441,7 +441,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td>1997</td>
@@ -461,7 +461,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/ryFUYv4-FYclZ7PwCd11jagjj8zWEa6ENPASW4XoZMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDk2/NTItMTUwMzE2MjIx/Mi0xNTkzLmpwZWc.jpeg" alt="Cover for Violence in Our Minds" style="max-width:120px; height:auto;" />
       </td>
@@ -481,7 +481,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td>1997-03-25</td>
@@ -572,7 +572,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/JnZGOt_AIvhoAcdXCjN-Glp2aWckoJYpEr1_Pfmv9kw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzIw/MzctMTM1NDc1Nzc3/OC05NDE4LmpwZWc.jpeg" alt="Cover for Надървени въглища" style="max-width:120px; height:auto;" />
       </td>
@@ -590,7 +590,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/DAwNV9ONMDajazda5TN_ium3zHKOJ029DLbVlXkJWBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTI3/NS0xMzc4OTczNTc0/LTI2NzYuanBlZw.jpeg" alt="Cover for Contiamo Su Di Voi" style="max-width:120px; height:auto;" />
       </td>
@@ -608,7 +608,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/p5a2Puos7DTGLgAGp3eqiiFOwqYtAlcMNialujwJ5UY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzY5/NDgtMTQ2NzkxNDc2/NS03MTI4LmpwZWc.jpeg" alt="Cover for Bulldog Style" style="max-width:120px; height:auto;" />
       </td>
@@ -663,7 +663,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
       </td>
       <td>1998-09-30</td>
@@ -740,7 +740,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/Wlt68-CLtw-LaHRX9OILngIPD7THLIzMWRQRkc7icAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTAz/MjItMTQ2NDk2MzEw/MC03MjQ4LmpwZWc.jpeg" alt="Cover for Morir o Vencer" style="max-width:120px; height:auto;" />
       </td>
@@ -760,7 +760,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/NN6vfRRswiLe7KNJo6qFpdjVf9s_bsttY85le6TrHWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjk0/NTMtMTIzOTgwODA1/Ni5qcGVn.jpeg" alt="Cover for Order of chaos" style="max-width:120px; height:auto;" />
       </td>
@@ -780,7 +780,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/TBj3dL4hp8spEFjVzTILCDRz7vUSggKAWN0Kpo-Qm9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDQw/OTEtMTQ0OTg1MTg3/My01NDg0LmpwZWc.jpeg" alt="Cover for Frequency L.S.D." style="max-width:120px; height:auto;" />
       </td>
@@ -859,13 +859,31 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/KMamj8CD4vORljGztJdKaZ4ohoLgJLoDaDUk5_qCASM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDkz/MjEtMTI4NzkxNDU4/Mi5qcGVn.jpeg" alt="Cover for Join the Strike" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Guttersnipe</td>
       <td>Join the Strike</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a914b24885b451914b19b104cb5ce36.png" alt="Cover for Orders of the Day" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Combat 84</td>
+      <td>Orders of the Day</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a></li>
@@ -895,7 +913,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/mobsAxVzr60hGm2ryyk-Z4xgrich2qEC5gUe3U3NDvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzIy/ODAtMTU0OTQ2NTk5/OS00Nzg2LmpwZWc.jpeg" alt="Cover for Nice Boys Finish Last" style="max-width:120px; height:auto;" />
       </td>
@@ -912,7 +930,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/Woolp_fuG7ogfE0Tn2Gpmm4z58ToCW4Ee7PCotauHZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA3/NTUtMTM4MDEwMzYz/Mi01MTk2LmpwZWc.jpeg" alt="Cover for Dla Idei" style="max-width:120px; height:auto;" />
       </td>
@@ -933,7 +951,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/-3CSzpYXH2MfCpUl8UtCf75sbnUElnkVka83m6sSWqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDky/MTQ3LTE0OTE0NzA3/MDEtMjE1Ny5qcGVn.jpeg" alt="Cover for Odezwa" style="max-width:120px; height:auto;" />
       </td>
@@ -952,7 +970,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/gDRw7q6PLHOaQM2xR_k7ipHA9sn5-_GUWE11OxVatI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDM3/NzAtMTI5MjcyNDc1/OC5qcGVn.jpeg" alt="Cover for Wispy, No Mercy" style="max-width:120px; height:auto;" />
       </td>
@@ -972,7 +990,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/EM9k7XCMNjy1NWMQLzeE5EZ3UuL-ESC-49jbGwTcJM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDY5/My0xNDg0MTYwNDYw/LTI1NzkuanBlZw.jpeg" alt="Cover for Anthology" style="max-width:120px; height:auto;" />
       </td>
@@ -1044,7 +1062,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/o7rslmpwMWP72ijd6QcCvE6prbCwjYdJ24ABycO9lfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTgz/MTUtMTI4MjA5NzQ2/NC5qcGVn.jpeg" alt="Cover for They think it&#39;s all over" style="max-width:120px; height:auto;" />
       </td>
@@ -1064,7 +1082,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/hI-LJbDFegTL4MEpKdKb7NVH0jrrmodQzvFSjNd2uNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzEx/Ny0xNjkyNDIwNjk1/LTIxNjguanBlZw.jpeg" alt="Cover for Blood on the Streets" style="max-width:120px; height:auto;" />
       </td>
@@ -1100,24 +1118,6 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2002</td>
-      <td>Mistreat</td>
-      <td>Battle Cry</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>82</td>
       <td>
           <img src="https://i.discogs.com/xnK4ovllj06RN6mS5rcxZFGNXy7PiqzHoJMP0mMdKXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTU2/MDItMTI4NTUwODEz/OS5qcGVn.jpeg" alt="Cover for III" style="max-width:120px; height:auto;" />
@@ -1136,7 +1136,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/MSfLGgvkAOTg-JKZoheUkKjqK_LMKxZzb3fjsUrXpAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTY3/MjgtMTM4NDM4NDAz/OS0xMjQ2LmpwZWc.jpeg" alt="Cover for Rejects of Society" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,7 +1195,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/18t5CwzzC4wyrF_8ijD_TqPbDgLEnO2NP8MJr5vdeso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzI4/NjQtMTMyNzgyODQ0/Ny5qcGVn.jpeg" alt="Cover for Tempo che non ritorna" style="max-width:120px; height:auto;" />
       </td>
@@ -1215,7 +1215,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td>2005</td>
@@ -1234,7 +1234,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/NjuDhY8mw23U2K6y_byZS1JUdRTSsdAY3AoiXiaCClg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODkx/OTYtMTQzMzI4MzMy/OS05OTgzLmpwZWc.jpeg" alt="Cover for Resurrection" style="max-width:120px; height:auto;" />
       </td>
@@ -1254,7 +1254,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/HfjSx6No3Z9uI-dWGNypDkdVywDTsN994yCwEtmbWRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjEy/ODktMTY4MDQ4MTE2/NS03MzEyLmpwZWc.jpeg" alt="Cover for 100% Thug Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,7 +1273,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/UY5JmcbtJpuaob9pTayp3vkABOr4Yn4wfUWLET0Srbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTI3/NDctMTMzOTE0NDI4/OC00MTk3LmpwZWc.jpeg" alt="Cover for Skinhead Times 1982-1998" style="max-width:120px; height:auto;" />
       </td>
@@ -1308,7 +1308,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/bjd_igv90Aa9LYGYhI9W8XpTKV4AQZa8Hl0BqrgvYEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDI5/MDAtMTMyNDgxMzg3/OS5qcGVn.jpeg" alt="Cover for Segueu Arran" style="max-width:120px; height:auto;" />
       </td>
@@ -1380,7 +1380,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
       </td>
       <td>2006-10-25</td>
@@ -1457,7 +1457,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/LI6RbvPRynL25pOF323ZycDxNcr9yngi4zb-9accMuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDc2/MDctMTQwMzIxNTY3/NC0zNzIxLmpwZWc.jpeg" alt="Cover for Ma France À Moi &#x2F; Par Amour" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,7 +1475,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
       </td>
       <td>2007-10-19</td>
@@ -1552,7 +1552,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/EdDTyuryIGfeuxyCy-ELLbo-upotx4YmPhVX0RnDSwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTUz/NjktMTI3OTExODc3/MS5qcGVn.jpeg" alt="Cover for Поделка" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,7 +1570,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/VCuuy5SkhrBOHmAUFjIWdHlzoS75NyEf70i3otq-dTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTIz/MDMtMTM4MzMwOTA1/Ny0xMzU3LmpwZWc.jpeg" alt="Cover for Демо" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,7 +1590,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/JBnpdRAVDM1r_N0BFvYr57GK_uzlGrYAtY223IZVRCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDc4/OS0xNjUyOTY4MTQ2/LTM0NzQuanBlZw.jpeg" alt="Cover for Dans Ma Bulle Edition Collector" style="max-width:120px; height:auto;" />
       </td>
@@ -1608,7 +1608,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/vvstICR7bQFFQpxi5aRweUYd7BcnmBH78MwP8aor_mE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODcz/MjQtMTIzNjk1OTcw/OS5qcGVn.jpeg" alt="Cover for Sangre por Sangre" style="max-width:120px; height:auto;" />
       </td>
@@ -1650,7 +1650,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f53589b49baacb12f727a921e31df5b.png" alt="Cover for Feel the Steel" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,7 +1715,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/Z8z0vSoK-kS4k_rLDaape2LKGTi_rUKZxXc4yhAC4Mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQz/ODYtMTI4OTA3NDE3/NC5qcGVn.jpeg" alt="Cover for Korp Kvädet" style="max-width:120px; height:auto;" />
       </td>
@@ -1734,7 +1734,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/WQ6sxLXgX9Ku1Bok85zSDmvTQRkhlfP0rNtJ_wbZXz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTM3/MTctMTI5NjEyNDQ2/Mi5qcGVn.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -1753,7 +1753,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/OI5Ocd0GGyua8033EEfgmD0f5eTm_6z8eOpBn-b78oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDQ0/NjEtMTM0MjYyMDM1/Mi0xNjgyLmpwZWc.jpeg" alt="Cover for Creatures" style="max-width:120px; height:auto;" />
       </td>
@@ -1842,7 +1842,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>2011-12-03</td>
@@ -1917,7 +1917,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
       </td>
       <td>2012-02-14</td>
@@ -2119,7 +2119,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
       </td>
       <td>2012-10-26</td>
@@ -2136,7 +2136,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td>2012-11-12</td>
@@ -2241,7 +2241,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/ZOeCeDcPhl_WBItlxoR_2SGQHzKtvYV6JgIAXi7KK_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA4/MjU3LTE1MjI3MzU5/MjQtOTkwMC5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -2269,7 +2269,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/THw0Bc6lqMdvuljZNM5nohOYYQrJCegTfNUZtvHZUE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTA2/NzQtMTM3OTExMDAw/Ny05MTcxLmpwZWc.jpeg" alt="Cover for Hands of Time" style="max-width:120px; height:auto;" />
       </td>
@@ -2462,7 +2462,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/Cnyns0HQmNmZKRey4Y6fwG-l-DgGGOCzVPPRMawxl6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA4/NDU1LTE1MjI3Mzk3/OTYtNjcwMy5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -2486,7 +2486,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/9JguqhumT0BgBBHjkPPPpNSCWN8um5cNHv4DD1b2mjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDEy/MzYtMTQxOTI4Nzk0/Ni0yODA2LmpwZWc.jpeg" alt="Cover for Battle Scarred Skinheads" style="max-width:120px; height:auto;" />
       </td>
@@ -2504,7 +2504,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td>2014-02-26</td>
@@ -2540,7 +2540,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc993e261c484885c8f4d64809fe679b.png" alt="Cover for ...aus Ruinen" style="max-width:120px; height:auto;" />
       </td>
@@ -2560,7 +2560,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/o6UsNPODEUdJyzTNzPBzh7Kmx4EDdt64fZraaHv0sA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjY4/MTctMTQ1NDYyMjIw/OS02NjI0LnBuZw.jpeg" alt="Cover for Hand aufs Herz" style="max-width:120px; height:auto;" />
       </td>
@@ -2581,7 +2581,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/LxuKbsfLlw_Hg6e7KX-Xy9mP27kp_l18eWpJBU44u3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MzU3/ODYtMTQ4MjI3MDkz/My0yNzI1LmpwZWc.jpeg" alt="Cover for Working Class Reggae" style="max-width:120px; height:auto;" />
       </td>
@@ -2604,7 +2604,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/AeGkM_EmBBvJtMM1ifXYR3KvSpxOcVIlQs9jWOgVAmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTkz/MzcyLTE1MDc4MzUy/NTEtOTk3My5qcGVn.jpeg" alt="Cover for Take It as It Comes" style="max-width:120px; height:auto;" />
       </td>
@@ -2766,7 +2766,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/D3m4UbHqXuqmt01kw7VgAkE_7b5OKGkUsWquwnUyK1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjg4/MjA4LTE2MzkwNjk0/ODktOTM3NS5qcGVn.jpeg" alt="Cover for Red (Taylor&#39;s Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -2928,7 +2928,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg" alt="Cover for Cafe Del Mar Volumen Ocho" style="max-width:120px; height:auto;" />
       </td>
@@ -3151,7 +3151,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>
