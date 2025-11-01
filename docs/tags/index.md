@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-10-31T21:08:52.143Z
+date: 2025-10-31T21:46:51.012Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-31T21:08:52.143Z">Fri Oct 31 2025 23:08:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-31T21:46:51.012Z">Fri Oct 31 2025 23:46:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [melodic metal]({{ "tags/melodic-metal" | relative_url }}) | <time datetime="2025-10-31T21:46:51.012Z">Fri Oct 31 2025 23:46:51 GMT+0200 (Eastern European Standard Time)</time> |
+| [post-grunge]({{ "tags/post-grunge" | relative_url }}) | <time datetime="2025-10-31T21:24:51.222Z">Fri Oct 31 2025 23:24:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [epic trance]({{ "tags/epic-trance" | relative_url }}) | <time datetime="2025-10-31T21:08:52.143Z">Fri Oct 31 2025 23:08:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [acoustic rock]({{ "tags/acoustic-rock" | relative_url }}) | <time datetime="2025-10-31T20:56:50.977Z">Fri Oct 31 2025 22:56:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [latino]({{ "tags/latino" | relative_url }}) | <time datetime="2025-10-31T20:55:51.053Z">Fri Oct 31 2025 22:55:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -290,7 +292,6 @@ Last updated: <time datetime="2025-10-31T21:08:52.143Z">Fri Oct 31 2025 23:08:52
 | [old school ebm]({{ "tags/old-school-ebm" | relative_url }}) | <time datetime="2025-10-28T16:51:11.569Z">Tue Oct 28 2025 18:51:11 GMT+0200 (Eastern European Standard Time)</time> |
 | [kabarett]({{ "tags/kabarett" | relative_url }}) | <time datetime="2025-10-28T16:13:43.717Z">Tue Oct 28 2025 18:13:43 GMT+0200 (Eastern European Standard Time)</time> |
 | [ukraine]({{ "tags/ukraine" | relative_url }}) | <time datetime="2025-10-28T16:13:28.040Z">Tue Oct 28 2025 18:13:28 GMT+0200 (Eastern European Standard Time)</time> |
-| [melodic metal]({{ "tags/melodic-metal" | relative_url }}) | <time datetime="2025-10-28T16:10:38.010Z">Tue Oct 28 2025 18:10:38 GMT+0200 (Eastern European Standard Time)</time> |
 | [german black metal]({{ "tags/german-black-metal" | relative_url }}) | <time datetime="2025-10-28T16:10:04.452Z">Tue Oct 28 2025 18:10:04 GMT+0200 (Eastern European Standard Time)</time> |
 | [industrial noise]({{ "tags/industrial-noise" | relative_url }}) | <time datetime="2025-10-28T16:09:49.813Z">Tue Oct 28 2025 18:09:49 GMT+0200 (Eastern European Standard Time)</time> |
 | [uk garage]({{ "tags/uk-garage" | relative_url }}) | <time datetime="2025-10-28T16:09:39.626Z">Tue Oct 28 2025 18:09:39 GMT+0200 (Eastern European Standard Time)</time> |
@@ -660,7 +661,6 @@ Last updated: <time datetime="2025-10-31T21:08:52.143Z">Fri Oct 31 2025 23:08:52
 | [tribal ambient]({{ "tags/tribal-ambient" | relative_url }}) | <time datetime="2025-10-27T21:13:18.509Z">Mon Oct 27 2025 23:13:18 GMT+0200 (Eastern European Standard Time)</time> |
 | [deep ambient]({{ "tags/deep-ambient" | relative_url }}) | <time datetime="2025-10-27T21:03:32.158Z">Mon Oct 27 2025 23:03:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [brostep]({{ "tags/brostep" | relative_url }}) | <time datetime="2025-10-27T20:57:13.034Z">Mon Oct 27 2025 22:57:13 GMT+0200 (Eastern European Standard Time)</time> |
-| [post-grunge]({{ "tags/post-grunge" | relative_url }}) | <time datetime="2025-10-27T20:56:12.202Z">Mon Oct 27 2025 22:56:12 GMT+0200 (Eastern European Standard Time)</time> |
 | [lo-fi indie]({{ "tags/lo-fi-indie" | relative_url }}) | <time datetime="2025-10-27T19:00:57.498Z">Mon Oct 27 2025 21:00:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [tishoumaren]({{ "tags/tishoumaren" | relative_url }}) | <time datetime="2025-10-27T18:42:19.295Z">Mon Oct 27 2025 20:42:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [lieder]({{ "tags/lieder" | relative_url }}) | <time datetime="2025-10-27T18:40:05.654Z">Mon Oct 27 2025 20:40:05 GMT+0200 (Eastern European Standard Time)</time> |
