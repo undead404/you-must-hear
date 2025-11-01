@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T19:02:39.656Z
+date: 2025-10-31T23:34:53.553Z
 permalink: tags/late-romantic
 title: late romantic
 ---
 
 ## late romantic
 
-Last updated: <time datetime="2025-10-29T19:02:39.656Z">Wed Oct 29 2025 21:02:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-31T23:34:53.553Z">Sat Nov 01 2025 01:34:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,6 +24,7 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
@@ -39,6 +40,11 @@ Late Romantic music refers to a style of classical music that emerged in the lat
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american-classical" | relative_url }}">american classical</a> # 15</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>80</td>
@@ -48,6 +54,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>1961</td>
       <td>BRANNIGAN, OWEN&#x2F;LEWIS, RICHARD&#x2F;SARGENT, MALCOLM&#x2F;PRO ARTE ORCHESTRA</td>
       <td>The Mikado</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -65,6 +75,11 @@ Late Romantic music refers to a style of classical music that emerged in the lat
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/operette" | relative_url }}">operette</a> # 68</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>40</td>
@@ -76,6 +91,11 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>Sinfonie Nr. 9 e-Moll, op. 95 „Aus der Neuen Welt“</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -93,6 +113,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>26</td>
@@ -104,6 +128,13 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>Te Deum, Mass in D major, Biblical Songs Nos.1- 5 (Prague Symphony Orchestra, Czech Philharmonic Chorus, soloists, cond.Václav Smetáček)</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 4</li>
+            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 66</li>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -119,6 +150,12 @@ Late Romantic music refers to a style of classical music that emerged in the lat
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 38</li>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 96</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>27</td>
@@ -129,6 +166,29 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>Ravel: Introduction Et Allegro &#x2F; Debussy: Sonata for Flute, Viola and Harp &#x2F; Saint-Saens: Fantaisie</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/PiWSXIHWTXsle8Z6KvTrESSW4JDhu46VEOCXtW1DQ8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjU5/MzYtMTQ5NTM0MDMz/OS02NjExLmpwZWc.jpeg" alt="Cover for Asrael Symphony (Czech Philharmonic Orchestra, Václav Neumann)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Josef Suk</td>
+      <td>Asrael Symphony (Czech Philharmonic Orchestra, Václav Neumann)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 77</li>
+            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -146,17 +206,9 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/PiWSXIHWTXsle8Z6KvTrESSW4JDhu46VEOCXtW1DQ8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjU5/MzYtMTQ5NTM0MDMz/OS02NjExLmpwZWc.jpeg" alt="Cover for Asrael Symphony (Czech Philharmonic Orchestra, Václav Neumann)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1972</td>
-      <td>Josef Suk</td>
-      <td>Asrael Symphony (Czech Philharmonic Orchestra, Václav Neumann)</td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -171,6 +223,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -188,6 +244,28 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/NAxylucwpYrkdVLqfc0hApbF_MMTnifZsDYfdT-PY20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzM2/MjU4LTE2MjEwNzYz/NDItMjExMy5qcGVn.jpeg" alt="Cover for Te Deum, Mass in D major, Biblical Songs Nos.1- 5 (Prague Symphony Orchestra, Czech Philharmonic Chorus, soloitsts, cond.Václav Smetáček)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Antonín Dvořák</td>
+      <td>Te Deum, Mass in D major, Biblical Songs Nos.1- 5 (Prague Symphony Orchestra, Czech Philharmonic Chorus, soloitsts, cond.Václav Smetáček)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 11</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>31</td>
@@ -201,6 +279,32 @@ Late Romantic music refers to a style of classical music that emerged in the lat
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/V5yVV7HDynjoMVua2sU0Y0CKdZ846YXc6oTuDx4hhdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTMx/MjkzLTE2MTc0Mzc4/NTEtMzk4Mi5qcGVn.jpeg" alt="Cover for Rekviem, op.89 (Czech Philharmonic Orchestra, Prague Philharmonic Chorus, soloists, conductor Karel Ančerl)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Antonín Dvořák</td>
+      <td>Rekviem, op.89 (Czech Philharmonic Orchestra, Prague Philharmonic Chorus, soloists, conductor Karel Ančerl)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 88</li>
+            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 90</li>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 97</li>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -217,7 +321,11 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -232,31 +340,9 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>
-          <img src="https://i.discogs.com/NAxylucwpYrkdVLqfc0hApbF_MMTnifZsDYfdT-PY20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzM2/MjU4LTE2MjEwNzYz/NDItMjExMy5qcGVn.jpeg" alt="Cover for Te Deum, Mass in D major, Biblical Songs Nos.1- 5 (Prague Symphony Orchestra, Czech Philharmonic Chorus, soloitsts, cond.Václav Smetáček)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1976</td>
-      <td>Antonín Dvořák</td>
-      <td>Te Deum, Mass in D major, Biblical Songs Nos.1- 5 (Prague Symphony Orchestra, Czech Philharmonic Chorus, soloitsts, cond.Václav Smetáček)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>36</td>
-      <td>
-          <img src="https://i.discogs.com/V5yVV7HDynjoMVua2sU0Y0CKdZ846YXc6oTuDx4hhdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTMx/MjkzLTE2MTc0Mzc4/NTEtMzk4Mi5qcGVn.jpeg" alt="Cover for Rekviem, op.89 (Czech Philharmonic Orchestra, Prague Philharmonic Chorus, soloists, conductor Karel Ančerl)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1976</td>
-      <td>Antonín Dvořák</td>
-      <td>Rekviem, op.89 (Czech Philharmonic Orchestra, Prague Philharmonic Chorus, soloists, conductor Karel Ančerl)</td>
       <td>
         <ul>
         </ul>
@@ -277,22 +363,8 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>
-          <img src="https://i.discogs.com/vF2WP2JVcoTYBaIlyEZqCO0JWwdFT8a4ifQgnQuWodQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDEz/MzMtMTQzNjAyODc2/OC04NjExLmpwZWc.jpeg" alt="Cover for Czech Suite - Symphony No. 4" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1983</td>
-      <td>Antonín Dvořák</td>
-      <td>Czech Suite - Symphony No. 4</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
         </ul>
       </td>
     </tr>
@@ -309,6 +381,11 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-classical" | relative_url }}">american classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american-classical" | relative_url }}">american classical</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -328,6 +405,33 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/vF2WP2JVcoTYBaIlyEZqCO0JWwdFT8a4ifQgnQuWodQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDEz/MzMtMTQzNjAyODc2/OC04NjExLmpwZWc.jpeg" alt="Cover for Czech Suite - Symphony No. 4" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Antonín Dvořák</td>
+      <td>Czech Suite - Symphony No. 4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>78</td>
@@ -337,6 +441,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>1984</td>
       <td>Carl Nielsen</td>
       <td>NIELSEN, C.: Symphonies Nos. 1 &amp; 6</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -354,6 +462,27 @@ Late Romantic music refers to a style of classical music that emerged in the lat
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td>1986</td>
+      <td>Joseph-Guy Ropartz</td>
+      <td>Ropartz, J.-G.: Symphonies Nos. 2 and 5</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>92</td>
@@ -365,6 +494,31 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>DVORAK: Symphony No. 2 &#x2F; Legends Op. 59, Nos. 6-10</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/lJis1PulHE_1Zv1b6nxE_vsY5ZlB3xTWd0Xa1-xAa0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzMw/MDAtMTYzNTQwMTU3/NC03NjIyLmpwZWc.jpeg" alt="Cover for Symphony No.9 &quot;From the New World&quot; (Czech Philharmonic Orchestra, cond.Karel Ančerl)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Antonín Dvořák</td>
+      <td>Symphony No.9 &quot;From the New World&quot; (Czech Philharmonic Orchestra, cond.Karel Ančerl)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 59</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 66</li>
+            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -380,15 +534,6 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>
-          <img src="https://i.discogs.com/lJis1PulHE_1Zv1b6nxE_vsY5ZlB3xTWd0Xa1-xAa0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzMw/MDAtMTYzNTQwMTU3/NC03NjIyLmpwZWc.jpeg" alt="Cover for Symphony No.9 &quot;From the New World&quot; (Czech Philharmonic Orchestra, cond.Karel Ančerl)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1989</td>
-      <td>Antonín Dvořák</td>
-      <td>Symphony No.9 &quot;From the New World&quot; (Czech Philharmonic Orchestra, cond.Karel Ančerl)</td>
       <td>
         <ul>
         </ul>
@@ -406,6 +551,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>37</td>
@@ -417,6 +566,30 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>Stabat Mater, op.58 (Czech Philharmonic Chorus &amp; Orchestra, vocal soloists, cond.Wolfgang Sawalisch)</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 81</li>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/mL5ftm6_1Bd_cvP3LtyAVQASmkZY_4Q_jQX1S0p1OqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzgy/ODk1LTE1NzM0MDg0/NjYtOTkxMy5qcGVn.jpeg" alt="Cover for Magnard, Faure: String Quartets" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Quatuor Ysaÿe</td>
+      <td>Magnard, Faure: String Quartets</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -435,6 +608,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>52</td>
@@ -447,6 +624,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -465,15 +646,6 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>
-          <img src="https://i.discogs.com/mL5ftm6_1Bd_cvP3LtyAVQASmkZY_4Q_jQX1S0p1OqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzgy/ODk1LTE1NzM0MDg0/NjYtOTkxMy5qcGVn.jpeg" alt="Cover for Magnard, Faure: String Quartets" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Quatuor Ysaÿe</td>
-      <td>Magnard, Faure: String Quartets</td>
       <td>
         <ul>
         </ul>
@@ -495,6 +667,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>68</td>
@@ -512,6 +688,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>30</td>
@@ -521,6 +701,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>1998</td>
       <td>Ermanno Wolf-Ferrari</td>
       <td>Wolf-Ferrari: Cello Concerto, Op. 31 &#x2F; Sinfonia Brevis, Op. 28</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -538,20 +722,8 @@ Late Romantic music refers to a style of classical music that emerged in the lat
         <ul>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>
-          <img src="https://i.discogs.com/MXQ3dp0NNcAH1zfDe-qhPGsI1QurVH7HQD-3LRKF-m4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDg5/OTItMTMzNzIzODgx/My0xODcyLmpwZWc.jpeg" alt="Cover for Piano Works 2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Josef Suk</td>
-      <td>Piano Works 2</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
     </tr>
@@ -574,6 +746,31 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/MXQ3dp0NNcAH1zfDe-qhPGsI1QurVH7HQD-3LRKF-m4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDg5/OTItMTMzNzIzODgx/My0xODcyLmpwZWc.jpeg" alt="Cover for Piano Works 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Josef Suk</td>
+      <td>Piano Works 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>87</td>
@@ -589,6 +786,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>24</td>
@@ -600,6 +801,12 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>Orchestral Works (Czech Philharmonic Orchestra, Jiří Bělohlávek, Gregory Rose)</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 19</li>
+            <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -618,6 +825,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>47</td>
@@ -634,6 +845,11 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american-classical" | relative_url }}">american classical</a> # 24</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>95</td>
@@ -643,6 +859,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>2001</td>
       <td>Richard Strauss</td>
       <td>STRAUSS, R.: Eine Alpensinfonie (An Alpine Symphony)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -664,9 +884,13 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>6</td>
       <td>
       </td>
       <td>2002</td>
@@ -679,6 +903,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>64</td>
@@ -688,6 +916,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>2002-01</td>
       <td>Cesar Cui</td>
       <td>CUI: 25 Preludes, Op. 64</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -708,6 +940,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>53</td>
@@ -724,6 +960,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>85</td>
@@ -733,6 +973,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>2004</td>
       <td>Isaac Albeniz</td>
       <td>ALBENIZ: Iberia &#x2F; Suites Espanolas Nos. 1 and 2</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -752,6 +996,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>60</td>
@@ -761,6 +1009,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>2006</td>
       <td>Louis Glass</td>
       <td>GLASS, L.: Symphonies Nos. 5 and 6</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -776,12 +1028,16 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>2</td>
       <td>
       </td>
       <td>2008</td>
@@ -794,6 +1050,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>44</td>
@@ -803,6 +1063,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>2009</td>
       <td>Franco Alfano</td>
       <td>Alfano, F.: Cello Sonata &#x2F; Concerto for Violin, Cello and Piano</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -819,9 +1083,13 @@ Late Romantic music refers to a style of classical music that emerged in the lat
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>4</td>
       <td>
       </td>
       <td>2010-07-27</td>
@@ -833,6 +1101,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -851,6 +1123,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>55</td>
@@ -866,6 +1142,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>100</td>
@@ -879,6 +1159,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -897,15 +1181,24 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american-classical" | relative_url }}">american classical</a> # 67</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/ImllYOEidbPF7PN0h0q6Ww_boiJqAJc1uZrQ-AXZeIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjAz/MjktMTQ2Mjk1NTg4/Ny0yNzAxLmpwZWc.jpeg" alt="Cover for La Mer &#x2F; Nocturnes &#x2F; Jeux &#x2F; Rhapsodie pour clarinette et orchestre (The Cleveland Orchestra, Pierre Boulez)" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Claude Debussy</td>
       <td>La Mer &#x2F; Nocturnes &#x2F; Jeux &#x2F; Rhapsodie pour clarinette et orchestre (The Cleveland Orchestra, Pierre Boulez)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -920,6 +1213,11 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td>AMERICAN INDIANISTS, Vol. 1</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american-classical" | relative_url }}">american classical</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -938,251 +1236,25 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alexander Konstantinovich Glazunov</td>
-      <td>GLAZUNOV: Symphonies Nos. 2 and 7</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
-      <td>Nikolay Karlovich Medtner</td>
-      <td>MEDTNER: Sonata Op. 5 &#x2F; Sonata-Triad Op. 11</td>
+      <td>Prague Symphony Orchestra</td>
+      <td>DVOŘÁK: Te Deum, Mass in D major (Václav Smetáček &#x2F; Czech Philharmonic Chorus, soloists)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Nikolay Karlovich Medtner</td>
-      <td>MEDTNER: Piano Concerto No. 2 &#x2F; Piano Quintet</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Nikolay Karlovich Medtner</td>
-      <td>MEDTNER: Piano Concertos Nos. 1 and 3</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alexander Konstantinovich Glazunov</td>
-      <td>GLAZUNOV: Carnaval &#x2F; Spring &#x2F; Salome &#x2F; Waltzes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alexander Konstantinovich Glazunov</td>
-      <td>GLAZUNOV (THE BEST OF)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alexandr Tikhonovich Grechaninov</td>
-      <td>GRECHANINOV: Piano Trios Nos. 1 and 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alexandr Tikhonovich Grechaninov</td>
-      <td>GRECHANINOV: String Quartets Nos. 2 and 4</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alexander Konstantinovich Glazunov</td>
-      <td>GLAZUNOV: Symphonies Nos. 1 and 4</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alexander Konstantinovich Glazunov</td>
-      <td>GLAZUNOV: The Kremlin &#x2F; From the Middle Ages &#x2F; Poeme Lirique</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alexander Konstantinovich Glazunov</td>
-      <td>GLAZUNOV: Symphonies Nos. 5 and 8</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alexander Porfir&#39;yevich Borodin</td>
-      <td>BORODIN: Piano Quintet &#x2F; String Quintet</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Mikhail Mikhaylovich Ippolitov-Ivanov</td>
-      <td>IPPOLITOV-IVANOV: Symphony No. 1 &#x2F; Turkish Fragments</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alexander Porfir&#39;yevich Borodin</td>
-      <td>BORODIN: Prince Igor (Highlights) &#x2F; In the Steppes of Central Asia</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Mikhail Mikhaylovich Ippolitov-Ivanov</td>
-      <td>IPPOLITOV-IVANOV: Spring Overture &#x2F; Three Musical Taxbleaux</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Mily Alexeyevich Balakirev</td>
-      <td>BALAKIREV: Symphony No. 2 &#x2F; Russia</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1201,6 +1273,332 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/operette" | relative_url }}">operette</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/operette" | relative_url }}">operette</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Victor Herbert</td>
+      <td>HERBERT, V.: Columbus Suite &#x2F; Irish Rhapsody</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american-classical" | relative_url }}">american classical</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Victor Herbert</td>
+      <td>HERBERT, V.: Babes in Toyland &#x2F; The Red Mill</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american-classical" | relative_url }}">american classical</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alexander Porfir&#39;yevich Borodin</td>
+      <td>BORODIN: Symphonies Nos. 1, 2 and 3</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alexandr Tikhonovich Grechaninov</td>
+      <td>GRECHANINOV: String Quartets Nos. 2 and 4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Nikolay Andreyevich Rimsky-Korsakov</td>
+      <td>RIMSKY-KORSAKOV: The Maid of Pskov &#x2F; Fairy Tale</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alexander Konstantinovich Glazunov</td>
+      <td>GLAZUNOV: The Kremlin &#x2F; From the Middle Ages &#x2F; Poeme Lirique</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alexander Konstantinovich Glazunov</td>
+      <td>GLAZUNOV: Carnaval &#x2F; Spring &#x2F; Salome &#x2F; Waltzes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alexander Konstantinovich Glazunov</td>
+      <td>GLAZUNOV (THE BEST OF)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alexander Konstantinovich Glazunov</td>
+      <td>GLAZUNOV: Symphonies Nos. 1 and 4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alexander Konstantinovich Glazunov</td>
+      <td>GLAZUNOV: Symphonies Nos. 2 and 7</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alexander Konstantinovich Glazunov</td>
+      <td>GLAZUNOV: Symphonies Nos. 5 and 8</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alexandr Tikhonovich Grechaninov</td>
+      <td>GRECHANINOV: Piano Trios Nos. 1 and 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alexander Porfir&#39;yevich Borodin</td>
+      <td>BORODIN: Piano Quintet &#x2F; String Quintet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mikhail Mikhaylovich Ippolitov-Ivanov</td>
+      <td>IPPOLITOV-IVANOV: Symphony No. 1 &#x2F; Turkish Fragments</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alexander Porfir&#39;yevich Borodin</td>
+      <td>BORODIN: Prince Igor (Highlights) &#x2F; In the Steppes of Central Asia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mikhail Mikhaylovich Ippolitov-Ivanov</td>
+      <td>IPPOLITOV-IVANOV: Spring Overture &#x2F; Three Musical Taxbleaux</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mily Alexeyevich Balakirev</td>
+      <td>BALAKIREV: Symphony No. 2 &#x2F; Russia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>54</td>
@@ -1214,6 +1612,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1232,6 +1634,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>59</td>
@@ -1245,6 +1651,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1262,6 +1672,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>62</td>
@@ -1275,6 +1689,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1293,6 +1711,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>66</td>
@@ -1306,6 +1728,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1323,6 +1749,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>71</td>
@@ -1338,6 +1768,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>72</td>
@@ -1350,6 +1784,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1367,6 +1805,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>74</td>
@@ -1380,6 +1822,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1398,6 +1844,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>88</td>
@@ -1413,6 +1863,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td></td>
@@ -1426,14 +1880,22 @@ Late Romantic music refers to a style of classical music that emerged in the lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
-      <td>Prague Symphony Orchestra</td>
-      <td>DVOŘÁK: Te Deum, Mass in D major (Václav Smetáček &#x2F; Czech Philharmonic Chorus, soloists)</td>
+      <td>Nikolay Karlovich Medtner</td>
+      <td>MEDTNER: Sonatas Opp. 22 and 25, Nos. 1 and 2</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1450,38 +1912,6 @@ Late Romantic music refers to a style of classical music that emerged in the lat
         <ul>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>58</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Victor Herbert</td>
-      <td>HERBERT, V.: Columbus Suite &#x2F; Irish Rhapsody</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Victor Herbert</td>
-      <td>HERBERT, V.: Babes in Toyland &#x2F; The Red Mill</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Alexander Porfir&#39;yevich Borodin</td>
-      <td>BORODIN: Symphonies Nos. 1, 2 and 3</td>
       <td>
         <ul>
         </ul>
@@ -1494,6 +1924,10 @@ Late Romantic music refers to a style of classical music that emerged in the lat
       <td></td>
       <td>Александр Порфирьевич Бородин</td>
       <td>Symphony No. 2, Polovtsian Dances</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
