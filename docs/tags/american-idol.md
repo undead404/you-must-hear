@@ -9,110 +9,1872 @@ title: american idol
 
 Last updated: <time datetime="2025-10-28T23:54:32.484Z">Wed Oct 29 2025 01:54:32 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+American Idol represents a commercially-driven pop style that emerged from the reality television singing competition of the same name, blending contemporary pop, soul, and country influences with broad mainstream appeal. The genre emphasizes powerful vocal performances, emotional delivery, and radio-friendly production designed to showcase technical singing ability. It reflects early 2000s trends toward polished, accessible pop music that bridges multiple demographics and formats.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 1 |  |  | American Idol Finalists | God Bless The U.S.A. (Proud To Be An American) |
-| 56 |  | 1974 | Various Artists | American Idol: Greatest Moments |
-| 66 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 1980 | Various Artists | American Idol Season 4: The Showstoppers |
-| 88 |  | 2002-09-17 | Kelly Clarkson | American Idol |
-| 55 |  | 2003-04-15 | Kelly Clarkson | Thankful |
-| 64 |  | 2003-06-10 | Justin Guarini | Justin Guarini |
-| 96 | ![Cover](https://i.discogs.com/ttZiapTMSTK53TJhLuP-ynicpOsUnYRI0uDtJC8QZL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQx/ODctMTUwOTA1MzUy/NC01NzI0LmpwZWc.jpeg) | 2003-10-14 | Clay Aiken | Measure of a Man |
-| 62 |  | 2004-04-06 | William Hung | Inspiration |
-| 82 |  | 2004-05-04 | Kimberley Locke | One Love |
-| 73 |  | 2004-11-23 | Fantasia | Free Yourself |
-| 86 | ![Cover](https://i.discogs.com/xWJoQgdIG9-FdmCrWf4cHO8rSfyWv5y1zYm9zmUbVUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzc5/OS0xNjAwOTI0NjM4/LTI1MDUuanBlZw.jpeg) | 2004-12-07 | Diana DeGarmo | Blue Skies |
-| 52 |  | 2005-07-12 | Jasmine Trias | Jasmine Trias |
-| 57 |  | 2005-11-15 | Carrie Underwood | Some Hearts |
-| 75 |  | 2006-09-19 | Clay Aiken | A Thousand Different Ways |
-| 85 |  | 2006-10-31 | Kellie Pickler | Small Town Girl |
-| 54 |  | 2007 | Katharine McPhee | &quot;My Destiny&quot; &#x2F; &quot;Think&quot; |
-| 58 | ![Cover](https://i.discogs.com/I05UJw_o5hXjtPgcPoQgD0cWJqjSygi2xmTKUV9OyxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTAw/MzctMTQ1NjA3MjQ4/NS01NzUzLmpwZWc.jpeg) | 2007 | Kris Allen | Brand New Shoes |
-| 95 |  | 2007 | Bucky Covington | Bucky Covington |
-| 91 | ![Cover](https://i.discogs.com/_w39l_aYi45EjeeQ3uio1zD9dVlA8t0mbkFZ-noMqnQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDg5/Ny0xNDI1MTM1NjAx/LTY0OTQuanBlZw.jpeg) | 2007-01-30 | Katharine McPhee | Katharine McPhee |
-| 77 |  | 2007-05-08 | Paris Bennett | Princess P |
-| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/15b566f8b88042768796bbce544bfaeb.png) | 2007-06-25 | Kelly Clarkson | My December |
-| 70 | ![Cover](https://i.discogs.com/FO_YkupN5N3nIxDuPg91GXPgKBIADr-M8I_efLodBzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTIy/MzQtMTE5MzA1MjY1/Ny5qcGVn.jpeg) | 2007-07-31 | Mandisa | True Beauty |
-| 100 |  | 2007-10-29 | Jordin Sparks | Jordin Sparks |
-| 51 |  | 2008-05-06 | Chris Sligh | Running Back to You |
-| 68 |  | 2008-05-06 | Clay Aiken | On My Way Here |
-| 81 |  | 2008-09-30 | Kellie Pickler | Kellie Pickler |
-| 97 |  | 2008-11-11 | David Archuleta | David Archuleta |
-| 98 | ![Cover](https://i.discogs.com/sykykZIebPrjGiR-H4SqO0hMXI_8THRFfmtnEXTA1xI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODA1/NTg5LTE2MzU3NDE4/MDctNzk4Ny5qcGVn.jpeg) | 2008-11-11 | David Archuleta | David Archuleta Deluxe Version |
-| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/43be65152a9a4f00828cc74599e5614b.png) | 2009 | Kris Allen | No Boundaries |
-| 67 |  | 2009-02-03 | Melinda Doolittle | Coming Back To You |
-| 72 | ![Cover](https://i.discogs.com/w3mC595c-g1yyhZzzXaaHsLoai8MyD6StoOnqliXZMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODA1/Njk3LTE1OTgxMjYy/NjQtMjI3NC5wbmc.jpeg) | 2009-06-04 | David Archuleta | American Idol 2008 |
-| 69 | ![Cover](https://i.discogs.com/UYXfGmJ3NJiD72gf3Y7bfpEj2PnjWp7ERHlPMp0kxuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE3/MzUtMTYxNzM5MTA3/MS0yMTUyLmpwZWc.jpeg) | 2009-07-21 | Jordin Sparks | Battlefield (Deluxe Version) |
-| 53 | ![Cover](https://i.discogs.com/ychhCc2iWkIF4_iaXQtoTwMhuCLhO592H8gMhPCk3NY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzM2/NDY2LTE1ODA1ODUx/NjctMjU2NC5qcGVn.jpeg) | 2009-10-01 | Tim Halperin | Make or Break |
-| 59 |  | 2009-10-13 | David Archuleta | Christmas From The Heart |
-| 60 | ![Cover](https://i.discogs.com/QisMJw8aDDKGiAz3HIDWp2xC1Hy5A19HMXR14LfhuQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE1/MjQ4LTE1NjE3MzY1/MjAtMjkxNy5qcGVn.jpeg) | 2010-06-07 | Adam Lambert | American Idol EP |
-| 76 | ![Cover](https://i.discogs.com/tVuWi4QIQbuDipshMhh2jPVeFnK1erybFh8cO1wEvkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc0/MzQtMTI5MjM5MzY2/OC5qcGVn.jpeg) | 2010-12 | Crystal Bowersox | Farmer&#39;s Daughter |
-| 78 |  |  | Fantasia Barrino | Free Yourself |
-| 84 | ![Cover](https://i.discogs.com/VNbECVL4d1TUQ6HoS2-z_SZFvP9PRCVWJOjOre8agO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM4/OTY1LTE1MjcwNjE4/MDgtMjczMy5qcGVn.jpeg) | 2009 | Kelly Clarkson | My Life Would Suck Without You - Single |
-| 87 |  | 2009-07-21 | Brooke White | High Hopes &amp; Heartbreak |
-| 7 | ![Cover](https://i.discogs.com/I6-WXTRf0Y9uWsVatq9BB--rhBuSVT8AwGad_W1gJ0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjMw/NjktMTU4MDY1MTg1/Ny01OTUyLmpwZWc.jpeg) | 2009-11-17 | Kris Allen | Kris Allen [Japan] |
-| 99 |  | 2010-01-05 | Katharine McPhee | Unbroken |
-| 92 |  | 2010-11-16 | Lee DeWyze | Live It Up |
-| 74 | ![Cover](https://i.discogs.com/shyBNke8g6CL7SMXcF76avs3xuOFa5vPDZQPxWVzD60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjY3/MDUtMTM3NzkzODYx/Mi02MTQ5LmpwZWc.jpeg) | 2011 | Daughtry | Leave This Town (Bonus Track Version) |
-| 4 |  | 2011-03-22 | Jersey Demic | Rat Race Vol 1: Anyen pa enposib |
-| 90 | ![Cover](https://i.discogs.com/Qxszme5D5MJi_HvxqEFDHQqUiFvqVIcDld6GmpKAxbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzY1/NDYtMTM1MzEyMzg5/OC00NTY0LmpwZWc.jpeg) | 2011-10-04 | Daughtry | Crawling Back To You |
-| 83 | ![Cover](https://i.discogs.com/YI0OXWB-CXaZPd0I1a2lRIPStsHI3e7V95Lt12mb5uQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjc2/MDc3LTE1ODgxOTM3/MjUtNzc0MS5qcGVn.jpeg) | 2012-01-12 | Kellie Pickler | 100 Proof |
-| 89 |  | 2012-04-16 | Adam Lambert | Never Close Our Eyes |
-| 5 | ![Cover](https://i.discogs.com/bfbD78NH5MC0-cIkwVIbwDixcnV7KNdF599N4SQlfAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzU4/MDgtMTMzNTk1NDk3/My5qcGVn.jpeg) | 2012-05-01 | Carrie Underwood | The Blown Away Tour |
-| 8 |  |  | Karaoke Superstars | Backing Tracks For American Pop Idols |
-| 9 |  |  | Visible from Space | Fly |
-| 10 |  |  | Camryn | Set The Night On Fire - Single |
-| 12 |  |  | Nikko Smith | Revolution |
-| 18 |  |  | Will Makar | Will Makar |
-| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/74314a58fcee821e001ac4dacd0c783f.png) |  | Bon Jovi | Bounce |
-| 49 | ![Cover](https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg) | 1998 | Various Artists | American Idol Season 3: Greatest Soul Classics |
-| 11 |  | 2003 | Ruben Studdard | American Idol |
-| 41 | ![Cover](https://i.discogs.com/qOgN42HfcuYkGUQVrN1n4EheXxMSb832-GKnJy_lU1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTA2/Mi0xMzMxMzUzNDIz/LmpwZWc.jpeg) | 2003 | Kimberley Locke | 8th World Wonder |
-| 46 | ![Cover](https://i.discogs.com/cSmONusgsociduA9epi1KmxqwkjnPgjhnFquEe-cQig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM1/OTYtMTIxODU1NzEz/OC5qcGVn.jpeg) | 2004-03-23 | RJ Helton | Real Life |
-| 44 |  | 2004-05 | Tamyra Gray | The Dreamer |
-| 26 |  | 2004-11-23 | Carmen Rasmusen | Carmen |
-| 45 | ![Cover](https://i.discogs.com/oHXBuGVonunkKJI0VfpNJSiUqlgLiAIdEMxLNT0Gc-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ1/MDktMTE5Nzg0MTI1/OC5qcGVn.jpeg) | 2005 | La Toya London | Love &amp; Life |
-| 43 | ![Cover](https://i.discogs.com/MZBpJXjGsiQx2fAbAAvq8Gz7QDUg5JgdnbeI6irZP3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Nzk5/Ny0xMTM2NjU5MTYz/LmpwZWc.jpeg) | 2005-04-26 | Jim Verraros | Rollercoaster |
-| 33 |  | 2005-06-14 | Carrie Underwood | Inside Your Heaven |
-| 19 | ![Cover](https://i.discogs.com/qzzMPZddhPf99ndafLosmkzBj_fJCIu8OzUZ-FEooJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjcz/NjgtMTM2MTMwNzA5/MS01NjU0LmpwZWc.jpeg) | 2005-06-21 | Corey Clark | Corey Clark |
-| 15 | ![Cover](https://i.discogs.com/OSJ0aoY221f6dRklFbJHfr9bjA4SBA9MPHMMVxMCtMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzE4/MDg0LTE1MzI4MjEy/OTktODY0MC5qcGVn.jpeg) | 2005-07-19 | Kristy Lee | Devoted |
-| 32 | ![Cover](https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg) | 2006 | Various Artists | American Idol Season 2: All-Time Classic American Love Songs |
-| 35 |  | 2006 | Jordin Sparks | For Now |
-| 42 |  | 2006-10-17 | Ayla Brown | Forward |
-| 17 | ![Cover](https://i.discogs.com/9VkJgooAtSkoTGeIB6cMskjhtKhfGe0Qe2vfDd8rK7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTgz/NjEyLTE3MjA2MTg0/NzEtNjk1My5qcGVn.jpeg) | 2007 | Shaun Barrowes | Hammer Hands |
-| 27 | ![Cover](https://i.discogs.com/Ous2d5NqL5uKnQv8e33lK9__Jm6GVv8kpKNeO0zdDW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjA0/MTAyLTE2MjQxNDUz/OTAtMjY5OC5qcGVn.jpeg) | 2007-06-25 | Nikki Mckibbin | Unleashed |
-| 24 | ![Cover](https://i.discogs.com/vB5u3cSKJsNYzN8LCZ18GWKtzRaGRT6l0fVRi2XOv1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTI5/MTU1LTE2MDM5MTQ1/NDItNTE0Mi5qcGVn.jpeg) | 2009 | David Radford | Swing On By |
-| 13 | ![Cover](https://i.discogs.com/I6-WXTRf0Y9uWsVatq9BB--rhBuSVT8AwGad_W1gJ0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjMw/NjktMTU4MDY1MTg1/Ny01OTUyLmpwZWc.jpeg) | 2009-11-17 | Kris Allen | Kris Allen (Standart Edition) |
-| 16 | ![Cover](https://i.discogs.com/69IyT-uJiBvT7ozSTnxjjeROBxVQH5KDhMCQjtwVxIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTMx/NTgtMTYwMDkyNTkx/OC0xOTAzLmpwZWc.jpeg) | 2012-07-03 | Jessica Sanchez | You Are So Beautiful (American Idol Performance) - Single |
-| 22 | ![Cover](https://i.discogs.com/hcoew0qRNoXxTjidbRifVxstO8YMcy7nDapLPKuSa5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzQw/ODctMTQwNjcxMjc3/NS02MTQzLmpwZWc.jpeg) | 2012-08-07 | David Archuleta | Angels |
-| 23 |  |  | Jessica Sierra | Deepest Secret |
-| 28 | ![Cover](https://i.discogs.com/oH1eVdX_jQOALhVYcMGwkHg0mbvsW41hmvkA42InbDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDQ4/MDI5LTE2NzA4ODk3/NTMtMjU3Ny5qcGVn.jpeg) | 2006 | David Hernandez | Smooth Comfort &amp; Joy |
-| 29 | ![Cover](https://i.discogs.com/9VkJgooAtSkoTGeIB6cMskjhtKhfGe0Qe2vfDd8rK7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTgz/NjEyLTE3MjA2MTg0/NzEtNjk1My5qcGVn.jpeg) | 2007 | Shaun Barrowes | Emotion Constellation |
-| 30 | ![Cover](https://i.discogs.com/77wZ1xtyQWiajBF9yNI5JaVLz5fhO0-aaur9GAofESM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTEz/MzYtMTIyNTEwMjMw/OS5qcGVn.jpeg) | 2008-09-29 | Jennifer Hudson | Jennifer Hudson |
-| 31 |  |  | St. Martin’s Symphony Of Los Angeles | Crush (made Famous By David Archuleta) (Symphonic Version) |
-| 37 |  | 2007-10-23 | Carrie Underwood | Carnival Ride |
-| 50 |  | 2007-12-04 | Blake Lewis | Audio Day Dream |
-| 34 | ![Cover](https://i.discogs.com/UpbV-PtLMoF67f5XsrhRxj8oalEOetCP0rtc5X6Whug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM3/NjgtMTM5Mzg1MTU4/OS05Mzk0LmpwZWc.jpeg) | 2009-05-03 | Jason Allen Rich | A Beautiful Life |
-| 47 | ![Cover](https://i.discogs.com/I6-WXTRf0Y9uWsVatq9BB--rhBuSVT8AwGad_W1gJ0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjMw/NjktMTU4MDY1MTg1/Ny01OTUyLmpwZWc.jpeg) | 2009-11-17 | Kris Allen | Kris Allen (Deluxe Version) |
-| 48 |  | 2009-11-23 | Adam Lambert | For Your Entertainment |
-| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/893fb60f56b14cddb3516f6fc382c7d6.png) | 2010 | Adam Lambert | Season 8 Favorite Performances |
-| 36 | ![Cover](https://i.discogs.com/39g-2iiqot54qmzi2RkEx7xJoQPQfseBTKkQXpQcXrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDEy/MjAtMTQwNDE4MjQz/NS01MDQ5LmpwZWc.jpeg) | 2010-06-07 | Adam Lambert | If I Had You Remixed |
-| 65 | ![Cover](https://i.discogs.com/7LfdzFKZ6p85xzPKBLvQLIfpHpdaPXNYbzU5IjVKzNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzk0/NDkwLTE2NjIxNDcx/MjAtOTU1Mi5qcGVn.jpeg) | 2012-08-28 | Chris Richardson | Untitled Album |
-| 14 | ![Cover](https://i.discogs.com/QL_-ryIdHM1Hgyv2kXso8-PwYW1bA_LdGDTlVtzV0RU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODI0/NTI0LTE2MjE2MjM5/MjUtNDEzMi5qcGVn.jpeg) | 2013 | Chris Sligh | Empty Me |
-| 6 | ![Cover](https://i.discogs.com/q-KfCGaoKHdTMTK7LrvfnznLP1LNpvuDgJU3M7K4mXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgz/NjY2LTE1NTY5NTg0/NDEtNzMzNS5qcGVn.jpeg) | 2014 | Christina Christian | American Idol: The Great Holiday Classics |
-| 63 | ![Cover](https://i.discogs.com/n52dvxJBiHhMItuFCNzpsVYYGQ9zVtKphKRuwZ-IXH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzcw/MTE1LTE1NjA3MzIw/ODUtODM1Ny5qcGVn.jpeg) | 2014 | Didi Benami | American Idol |
-| 2 | ![Cover](https://i.discogs.com/MnxFV8OPpRgUWLChslbXG-H3cHo-YfSaRmnYzrzVXKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE0/MTU2LTE1OTgyODU5/MTEtMzI2OS5qcGVn.jpeg) | 2016 | Zealyn | Enjoy Your Holiday - Single |
-| 39 | ![Cover](https://i.discogs.com/_881-nJmm9U4VFpqApxqdC8hHJnNVQYYTLs8PrTa-_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAz/NzE4LTE0OTg3OTQ3/MTItODMzMC5qcGVn.jpeg) | 2017-06-16 | Crystal Bowersox | American Idol |
-| 71 | ![Cover](https://i.discogs.com/qgt7Ttxd8c_zbSoL9HtJnEct2fL88necql5tCK4TApg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzMw/NTE2LTE1MTQzNzM2/MzUtODM4NC5qcGVn.jpeg) | 2017-10-20 | David Archuleta | Postcards in the Sky |
-| 80 | ![Cover](https://i.discogs.com/szfLfxbQKdulcanan-mKir0wbGuGsAuYRg-wbFCC0Kw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY4/NDg0LTE1MjAzNDky/NjItNDIzNi5qcGVn.jpeg) | 2018-02-16 | Lee DeWyze | American Idol |
-| 21 | ![Cover](https://i.discogs.com/ZX0hJmrioGs3CXOGnW9-nV6ibhJ_8K7RFD17HwihVbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTMw/OTAxLTE2NTQ4ODEx/NTgtNjY5OC5qcGVn.jpeg) | 2019 | Kris Allen | AI8 Top 04 |
-| 20 | ![Cover](https://i.discogs.com/TkuZ_HIyRiAlWaQDH5cK8LFxgLlEGFpPvP-JAv3Tc-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjE1/NTU2LTE1NjYzODQw/MDUtMjY3NS5qcGVn.jpeg) | 2020-02-21 | Casey Abrams | American Idol Season 10 |
-| 3 | ![Cover](https://i.discogs.com/dDdIcywgS2Wej_yz3I_oFg688eq2UHv6e74sBOGqfQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODU0/NTM4LTE2Mjg5MTA0/MDgtNDIwNi5qcGVn.jpeg) | 2021-04-15 | David Archuleta | Meet the Mormons |
-| 61 | ![Cover](https://i.discogs.com/cu7Ps4M0-eKtSCNyfu6jcTDlReqj9MNVKHZHGi2kWhE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODU0/ODg5LTE2Mjg5MTQ4/NDYtMzUwMC5qcGVn.jpeg) | 2021-07-29 | David Archuleta | Zero Gravity |
-| 94 |  |  | American Idol Finalists | American Idol Season 5 Encores |
-| 38 | ![Cover](https://i.discogs.com/sIaZhhNN2zcjgjmbe6rA5cOYdcoXHD87KRfGh49LLYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjIw/MTQyLTE2NTU1OTAy/NjktMzkzOS5qcGVn.jpeg) | 2022 | Leah Marlene | Many Colors |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>1974</td>
+      <td>Various Artists</td>
+      <td>American Idol: Greatest Moments</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for American Idol Season 4: The Showstoppers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Various Artists</td>
+      <td>American Idol Season 4: The Showstoppers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for American Idol Season 3: Greatest Soul Classics" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Various Artists</td>
+      <td>American Idol Season 3: Greatest Soul Classics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>2002-09-17</td>
+      <td>Kelly Clarkson</td>
+      <td>American Idol</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Ruben Studdard</td>
+      <td>American Idol</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/qOgN42HfcuYkGUQVrN1n4EheXxMSb832-GKnJy_lU1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTA2/Mi0xMzMxMzUzNDIz/LmpwZWc.jpeg" alt="Cover for 8th World Wonder" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Kimberley Locke</td>
+      <td>8th World Wonder</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td>2003-04-15</td>
+      <td>Kelly Clarkson</td>
+      <td>Thankful</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>2003-06-10</td>
+      <td>Justin Guarini</td>
+      <td>Justin Guarini</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/ttZiapTMSTK53TJhLuP-ynicpOsUnYRI0uDtJC8QZL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQx/ODctMTUwOTA1MzUy/NC01NzI0LmpwZWc.jpeg" alt="Cover for Measure of a Man" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-10-14</td>
+      <td>Clay Aiken</td>
+      <td>Measure of a Man</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/cSmONusgsociduA9epi1KmxqwkjnPgjhnFquEe-cQig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM1/OTYtMTIxODU1NzEz/OC5qcGVn.jpeg" alt="Cover for Real Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-03-23</td>
+      <td>RJ Helton</td>
+      <td>Real Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2004-04-06</td>
+      <td>William Hung</td>
+      <td>Inspiration</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2004-05-04</td>
+      <td>Kimberley Locke</td>
+      <td>One Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+      </td>
+      <td>2004-05</td>
+      <td>Tamyra Gray</td>
+      <td>The Dreamer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+      </td>
+      <td>2004-11-23</td>
+      <td>Carmen Rasmusen</td>
+      <td>Carmen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>2004-11-23</td>
+      <td>Fantasia</td>
+      <td>Free Yourself</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/xWJoQgdIG9-FdmCrWf4cHO8rSfyWv5y1zYm9zmUbVUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMzc5/OS0xNjAwOTI0NjM4/LTI1MDUuanBlZw.jpeg" alt="Cover for Blue Skies" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-12-07</td>
+      <td>Diana DeGarmo</td>
+      <td>Blue Skies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/oHXBuGVonunkKJI0VfpNJSiUqlgLiAIdEMxLNT0Gc-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ1/MDktMTE5Nzg0MTI1/OC5qcGVn.jpeg" alt="Cover for Love &amp; Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>La Toya London</td>
+      <td>Love &amp; Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/MZBpJXjGsiQx2fAbAAvq8Gz7QDUg5JgdnbeI6irZP3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Nzk5/Ny0xMTM2NjU5MTYz/LmpwZWc.jpeg" alt="Cover for Rollercoaster" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-04-26</td>
+      <td>Jim Verraros</td>
+      <td>Rollercoaster</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td>2005-06-14</td>
+      <td>Carrie Underwood</td>
+      <td>Inside Your Heaven</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/qzzMPZddhPf99ndafLosmkzBj_fJCIu8OzUZ-FEooJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjcz/NjgtMTM2MTMwNzA5/MS01NjU0LmpwZWc.jpeg" alt="Cover for Corey Clark" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-06-21</td>
+      <td>Corey Clark</td>
+      <td>Corey Clark</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td>2005-07-12</td>
+      <td>Jasmine Trias</td>
+      <td>Jasmine Trias</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/OSJ0aoY221f6dRklFbJHfr9bjA4SBA9MPHMMVxMCtMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzE4/MDg0LTE1MzI4MjEy/OTktODY0MC5qcGVn.jpeg" alt="Cover for Devoted" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-07-19</td>
+      <td>Kristy Lee</td>
+      <td>Devoted</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7caaf35b42fe4b458dedc3dec6e58a3b.png" alt="Cover for Some Hearts" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-15</td>
+      <td>Carrie Underwood</td>
+      <td>Some Hearts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 22</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/oH1eVdX_jQOALhVYcMGwkHg0mbvsW41hmvkA42InbDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDQ4/MDI5LTE2NzA4ODk3/NTMtMjU3Ny5qcGVn.jpeg" alt="Cover for Smooth Comfort &amp; Joy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>David Hernandez</td>
+      <td>Smooth Comfort &amp; Joy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg" alt="Cover for American Idol Season 2: All-Time Classic American Love Songs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Various Artists</td>
+      <td>American Idol Season 2: All-Time Classic American Love Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Jordin Sparks</td>
+      <td>For Now</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td>2006-09-19</td>
+      <td>Clay Aiken</td>
+      <td>A Thousand Different Ways</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2006-10-17</td>
+      <td>Ayla Brown</td>
+      <td>Forward</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>2006-10-31</td>
+      <td>Kellie Pickler</td>
+      <td>Small Town Girl</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/9VkJgooAtSkoTGeIB6cMskjhtKhfGe0Qe2vfDd8rK7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTgz/NjEyLTE3MjA2MTg0/NzEtNjk1My5qcGVn.jpeg" alt="Cover for Hammer Hands" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Shaun Barrowes</td>
+      <td>Hammer Hands</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/9VkJgooAtSkoTGeIB6cMskjhtKhfGe0Qe2vfDd8rK7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTgz/NjEyLTE3MjA2MTg0/NzEtNjk1My5qcGVn.jpeg" alt="Cover for Emotion Constellation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Shaun Barrowes</td>
+      <td>Emotion Constellation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Katharine McPhee</td>
+      <td>&quot;My Destiny&quot; &#x2F; &quot;Think&quot;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/I05UJw_o5hXjtPgcPoQgD0cWJqjSygi2xmTKUV9OyxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTAw/MzctMTQ1NjA3MjQ4/NS01NzUzLmpwZWc.jpeg" alt="Cover for Brand New Shoes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Kris Allen</td>
+      <td>Brand New Shoes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Bucky Covington</td>
+      <td>Bucky Covington</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/_w39l_aYi45EjeeQ3uio1zD9dVlA8t0mbkFZ-noMqnQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDg5/Ny0xNDI1MTM1NjAx/LTY0OTQuanBlZw.jpeg" alt="Cover for Katharine McPhee" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-01-30</td>
+      <td>Katharine McPhee</td>
+      <td>Katharine McPhee</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2007-05-08</td>
+      <td>Paris Bennett</td>
+      <td>Princess P</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/Ous2d5NqL5uKnQv8e33lK9__Jm6GVv8kpKNeO0zdDW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjA0/MTAyLTE2MjQxNDUz/OTAtMjY5OC5qcGVn.jpeg" alt="Cover for Unleashed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-06-25</td>
+      <td>Nikki Mckibbin</td>
+      <td>Unleashed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15b566f8b88042768796bbce544bfaeb.png" alt="Cover for My December" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-06-25</td>
+      <td>Kelly Clarkson</td>
+      <td>My December</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/FO_YkupN5N3nIxDuPg91GXPgKBIADr-M8I_efLodBzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTIy/MzQtMTE5MzA1MjY1/Ny5qcGVn.jpeg" alt="Cover for True Beauty" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-07-31</td>
+      <td>Mandisa</td>
+      <td>True Beauty</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8034761756b405f885ccc8c2563909a.png" alt="Cover for Carnival Ride" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10-23</td>
+      <td>Carrie Underwood</td>
+      <td>Carnival Ride</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>2007-10-29</td>
+      <td>Jordin Sparks</td>
+      <td>Jordin Sparks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td>2007-12-04</td>
+      <td>Blake Lewis</td>
+      <td>Audio Day Dream</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td>2008-05-06</td>
+      <td>Chris Sligh</td>
+      <td>Running Back to You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td>2008-05-06</td>
+      <td>Clay Aiken</td>
+      <td>On My Way Here</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/77wZ1xtyQWiajBF9yNI5JaVLz5fhO0-aaur9GAofESM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTEz/MzYtMTIyNTEwMjMw/OS5qcGVn.jpeg" alt="Cover for Jennifer Hudson" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-09-29</td>
+      <td>Jennifer Hudson</td>
+      <td>Jennifer Hudson</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>2008-09-30</td>
+      <td>Kellie Pickler</td>
+      <td>Kellie Pickler</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>2008-11-11</td>
+      <td>David Archuleta</td>
+      <td>David Archuleta</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/sykykZIebPrjGiR-H4SqO0hMXI_8THRFfmtnEXTA1xI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODA1/NTg5LTE2MzU3NDE4/MDctNzk4Ny5qcGVn.jpeg" alt="Cover for David Archuleta Deluxe Version" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-11-11</td>
+      <td>David Archuleta</td>
+      <td>David Archuleta Deluxe Version</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/vB5u3cSKJsNYzN8LCZ18GWKtzRaGRT6l0fVRi2XOv1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTI5/MTU1LTE2MDM5MTQ1/NDItNTE0Mi5qcGVn.jpeg" alt="Cover for Swing On By" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>David Radford</td>
+      <td>Swing On By</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43be65152a9a4f00828cc74599e5614b.png" alt="Cover for No Boundaries" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Kris Allen</td>
+      <td>No Boundaries</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/VNbECVL4d1TUQ6HoS2-z_SZFvP9PRCVWJOjOre8agO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM4/OTY1LTE1MjcwNjE4/MDgtMjczMy5qcGVn.jpeg" alt="Cover for My Life Would Suck Without You - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Kelly Clarkson</td>
+      <td>My Life Would Suck Without You - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>2009-02-03</td>
+      <td>Melinda Doolittle</td>
+      <td>Coming Back To You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/UpbV-PtLMoF67f5XsrhRxj8oalEOetCP0rtc5X6Whug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM3/NjgtMTM5Mzg1MTU4/OS05Mzk0LmpwZWc.jpeg" alt="Cover for A Beautiful Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-05-03</td>
+      <td>Jason Allen Rich</td>
+      <td>A Beautiful Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/w3mC595c-g1yyhZzzXaaHsLoai8MyD6StoOnqliXZMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODA1/Njk3LTE1OTgxMjYy/NjQtMjI3NC5wbmc.jpeg" alt="Cover for American Idol 2008" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-06-04</td>
+      <td>David Archuleta</td>
+      <td>American Idol 2008</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/UYXfGmJ3NJiD72gf3Y7bfpEj2PnjWp7ERHlPMp0kxuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE3/MzUtMTYxNzM5MTA3/MS0yMTUyLmpwZWc.jpeg" alt="Cover for Battlefield (Deluxe Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-07-21</td>
+      <td>Jordin Sparks</td>
+      <td>Battlefield (Deluxe Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>2009-07-21</td>
+      <td>Brooke White</td>
+      <td>High Hopes &amp; Heartbreak</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/ychhCc2iWkIF4_iaXQtoTwMhuCLhO592H8gMhPCk3NY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzM2/NDY2LTE1ODA1ODUx/NjctMjU2NC5qcGVn.jpeg" alt="Cover for Make or Break" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-10-01</td>
+      <td>Tim Halperin</td>
+      <td>Make or Break</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2009-10-13</td>
+      <td>David Archuleta</td>
+      <td>Christmas From The Heart</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/I6-WXTRf0Y9uWsVatq9BB--rhBuSVT8AwGad_W1gJ0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjMw/NjktMTU4MDY1MTg1/Ny01OTUyLmpwZWc.jpeg" alt="Cover for Kris Allen [Japan]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-11-17</td>
+      <td>Kris Allen</td>
+      <td>Kris Allen [Japan]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/I6-WXTRf0Y9uWsVatq9BB--rhBuSVT8AwGad_W1gJ0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjMw/NjktMTU4MDY1MTg1/Ny01OTUyLmpwZWc.jpeg" alt="Cover for Kris Allen (Standart Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-11-17</td>
+      <td>Kris Allen</td>
+      <td>Kris Allen (Standart Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/I6-WXTRf0Y9uWsVatq9BB--rhBuSVT8AwGad_W1gJ0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjMw/NjktMTU4MDY1MTg1/Ny01OTUyLmpwZWc.jpeg" alt="Cover for Kris Allen (Deluxe Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-11-17</td>
+      <td>Kris Allen</td>
+      <td>Kris Allen (Deluxe Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td>2009-11-23</td>
+      <td>Adam Lambert</td>
+      <td>For Your Entertainment</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/893fb60f56b14cddb3516f6fc382c7d6.png" alt="Cover for Season 8 Favorite Performances" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Adam Lambert</td>
+      <td>Season 8 Favorite Performances</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2010-01-05</td>
+      <td>Katharine McPhee</td>
+      <td>Unbroken</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/39g-2iiqot54qmzi2RkEx7xJoQPQfseBTKkQXpQcXrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDEy/MjAtMTQwNDE4MjQz/NS01MDQ5LmpwZWc.jpeg" alt="Cover for If I Had You Remixed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-06-07</td>
+      <td>Adam Lambert</td>
+      <td>If I Had You Remixed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/QisMJw8aDDKGiAz3HIDWp2xC1Hy5A19HMXR14LfhuQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODE1/MjQ4LTE1NjE3MzY1/MjAtMjkxNy5qcGVn.jpeg" alt="Cover for American Idol EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-06-07</td>
+      <td>Adam Lambert</td>
+      <td>American Idol EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>2010-11-16</td>
+      <td>Lee DeWyze</td>
+      <td>Live It Up</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/tVuWi4QIQbuDipshMhh2jPVeFnK1erybFh8cO1wEvkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc0/MzQtMTI5MjM5MzY2/OC5qcGVn.jpeg" alt="Cover for Farmer&#39;s Daughter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-12</td>
+      <td>Crystal Bowersox</td>
+      <td>Farmer&#39;s Daughter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/shyBNke8g6CL7SMXcF76avs3xuOFa5vPDZQPxWVzD60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjY3/MDUtMTM3NzkzODYx/Mi02MTQ5LmpwZWc.jpeg" alt="Cover for Leave This Town (Bonus Track Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Daughtry</td>
+      <td>Leave This Town (Bonus Track Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>2011-03-22</td>
+      <td>Jersey Demic</td>
+      <td>Rat Race Vol 1: Anyen pa enposib</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/Qxszme5D5MJi_HvxqEFDHQqUiFvqVIcDld6GmpKAxbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzY1/NDYtMTM1MzEyMzg5/OC00NTY0LmpwZWc.jpeg" alt="Cover for Crawling Back To You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-10-04</td>
+      <td>Daughtry</td>
+      <td>Crawling Back To You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/YI0OXWB-CXaZPd0I1a2lRIPStsHI3e7V95Lt12mb5uQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjc2/MDc3LTE1ODgxOTM3/MjUtNzc0MS5qcGVn.jpeg" alt="Cover for 100 Proof" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-01-12</td>
+      <td>Kellie Pickler</td>
+      <td>100 Proof</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td>2012-04-16</td>
+      <td>Adam Lambert</td>
+      <td>Never Close Our Eyes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d99e9420c7945c58dfad45323b6564e.png" alt="Cover for The Blown Away Tour" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-05-01</td>
+      <td>Carrie Underwood</td>
+      <td>The Blown Away Tour</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/69IyT-uJiBvT7ozSTnxjjeROBxVQH5KDhMCQjtwVxIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTMx/NTgtMTYwMDkyNTkx/OC0xOTAzLmpwZWc.jpeg" alt="Cover for You Are So Beautiful (American Idol Performance) - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-07-03</td>
+      <td>Jessica Sanchez</td>
+      <td>You Are So Beautiful (American Idol Performance) - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/hcoew0qRNoXxTjidbRifVxstO8YMcy7nDapLPKuSa5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzQw/ODctMTQwNjcxMjc3/NS02MTQzLmpwZWc.jpeg" alt="Cover for Angels" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-08-07</td>
+      <td>David Archuleta</td>
+      <td>Angels</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/7LfdzFKZ6p85xzPKBLvQLIfpHpdaPXNYbzU5IjVKzNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzk0/NDkwLTE2NjIxNDcx/MjAtOTU1Mi5qcGVn.jpeg" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-08-28</td>
+      <td>Chris Richardson</td>
+      <td>Untitled Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/QL_-ryIdHM1Hgyv2kXso8-PwYW1bA_LdGDTlVtzV0RU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODI0/NTI0LTE2MjE2MjM5/MjUtNDEzMi5qcGVn.jpeg" alt="Cover for Empty Me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Chris Sligh</td>
+      <td>Empty Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/q-KfCGaoKHdTMTK7LrvfnznLP1LNpvuDgJU3M7K4mXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgz/NjY2LTE1NTY5NTg0/NDEtNzMzNS5qcGVn.jpeg" alt="Cover for American Idol: The Great Holiday Classics" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Christina Christian</td>
+      <td>American Idol: The Great Holiday Classics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/n52dvxJBiHhMItuFCNzpsVYYGQ9zVtKphKRuwZ-IXH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzcw/MTE1LTE1NjA3MzIw/ODUtODM1Ny5qcGVn.jpeg" alt="Cover for American Idol" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Didi Benami</td>
+      <td>American Idol</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/MnxFV8OPpRgUWLChslbXG-H3cHo-YfSaRmnYzrzVXKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE0/MTU2LTE1OTgyODU5/MTEtMzI2OS5qcGVn.jpeg" alt="Cover for Enjoy Your Holiday - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Zealyn</td>
+      <td>Enjoy Your Holiday - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/_881-nJmm9U4VFpqApxqdC8hHJnNVQYYTLs8PrTa-_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTAz/NzE4LTE0OTg3OTQ3/MTItODMzMC5qcGVn.jpeg" alt="Cover for American Idol" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-16</td>
+      <td>Crystal Bowersox</td>
+      <td>American Idol</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/qgt7Ttxd8c_zbSoL9HtJnEct2fL88necql5tCK4TApg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzMw/NTE2LTE1MTQzNzM2/MzUtODM4NC5qcGVn.jpeg" alt="Cover for Postcards in the Sky" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-20</td>
+      <td>David Archuleta</td>
+      <td>Postcards in the Sky</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/szfLfxbQKdulcanan-mKir0wbGuGsAuYRg-wbFCC0Kw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY4/NDg0LTE1MjAzNDky/NjItNDIzNi5qcGVn.jpeg" alt="Cover for American Idol" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-02-16</td>
+      <td>Lee DeWyze</td>
+      <td>American Idol</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/ZX0hJmrioGs3CXOGnW9-nV6ibhJ_8K7RFD17HwihVbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTMw/OTAxLTE2NTQ4ODEx/NTgtNjY5OC5qcGVn.jpeg" alt="Cover for AI8 Top 04" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>Kris Allen</td>
+      <td>AI8 Top 04</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/TkuZ_HIyRiAlWaQDH5cK8LFxgLlEGFpPvP-JAv3Tc-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjE1/NTU2LTE1NjYzODQw/MDUtMjY3NS5qcGVn.jpeg" alt="Cover for American Idol Season 10" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-02-21</td>
+      <td>Casey Abrams</td>
+      <td>American Idol Season 10</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/dDdIcywgS2Wej_yz3I_oFg688eq2UHv6e74sBOGqfQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODU0/NTM4LTE2Mjg5MTA0/MDgtNDIwNi5qcGVn.jpeg" alt="Cover for Meet the Mormons" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-15</td>
+      <td>David Archuleta</td>
+      <td>Meet the Mormons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/cu7Ps4M0-eKtSCNyfu6jcTDlReqj9MNVKHZHGi2kWhE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODU0/ODg5LTE2Mjg5MTQ4/NDYtMzUwMC5qcGVn.jpeg" alt="Cover for Zero Gravity" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-07-29</td>
+      <td>David Archuleta</td>
+      <td>Zero Gravity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/sIaZhhNN2zcjgjmbe6rA5cOYdcoXHD87KRfGh49LLYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjIw/MTQyLTE2NTU1OTAy/NjktMzkzOS5qcGVn.jpeg" alt="Cover for Many Colors" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Leah Marlene</td>
+      <td>Many Colors</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>American Idol Finalists</td>
+      <td>God Bless The U.S.A. (Proud To Be An American)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Karaoke Superstars</td>
+      <td>Backing Tracks For American Pop Idols</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Visible from Space</td>
+      <td>Fly</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Camryn</td>
+      <td>Set The Night On Fire - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Nikko Smith</td>
+      <td>Revolution</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Will Makar</td>
+      <td>Will Makar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jessica Sierra</td>
+      <td>Deepest Secret</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74314a58fcee821e001ac4dacd0c783f.png" alt="Cover for Bounce" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Bon Jovi</td>
+      <td>Bounce</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td></td>
+      <td>St. Martin’s Symphony Of Los Angeles</td>
+      <td>Crush (made Famous By David Archuleta) (Symphonic Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Fantasia Barrino</td>
+      <td>Free Yourself</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td></td>
+      <td>American Idol Finalists</td>
+      <td>American Idol Season 5 Encores</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
