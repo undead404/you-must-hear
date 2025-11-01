@@ -9,110 +9,2044 @@ title: gothic country
 
 Last updated: <time datetime="2025-10-25T13:54:01.628Z">Sat Oct 25 2025 16:54:01 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Gothic country blends traditional country, folk, and Americana with dark, brooding atmospheres drawn from gothic rock and alternative music. The genre explores themes of death, isolation, religion, and the American West through haunting vocals, minor-key melodies, and sparse instrumentation. It emerged in the 1990s as artists began merging country&#39;s storytelling traditions with punk, industrial, and darker sonic textures.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 6 |  |  | The Chadderandom Abyss | Busy for an Eternity |
-| 8 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e2d5cb186b3a51b84f14639d9b1c3381.png) | 1982 | The Gun Club | Miami |
-| 15 | ![Cover](https://i.discogs.com/7Go10HAMBGtAGkV-eboQARx8hPr1RHhpHR3DIlanL30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzI1/MS0xMzMwMDg5NTc1/LmpwZWc.jpeg) | 2000-04-13 | 16 Horsepower | Secret South |
-| 20 |  |  | Mark Sinnis | The Undertaker In My Rearview Mirror |
-| 24 |  |  | Mark Sinnis | Into an Unhidden Future |
-| 25 |  |  | Ninth House | Swim In The Silence |
-| 81 | ![Cover](https://i.discogs.com/vEzwQ983zsd1IEi5d7Gjt4p9sHexMtqZEL93uZJ1cH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTI1/MC0xMjUyMjkyNzEz/LmpwZWc.jpeg) | 1988-09-19 | Nick Cave &amp; The Bad Seeds | Tender Prey (2010 - Remaster) |
-| 88 |  | 1995 | 16 Horsepower | Sackcloth &#39;N&#39; Ashes |
-| 29 |  | 1995-11-07 | 16 Horsepower | 16 Horsepower |
-| 89 | ![Cover](https://i.discogs.com/_RoBhCni7a3Zd1SnjiftwkpZT0kKP4zP6-Gz1_m51sU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDQ5/MC0xNjU5MjE3OTgz/LTI2MDAuanBlZw.jpeg) | 1996-07-15 | 16 Horsepower | Sackcloth -N- Ashes |
-| 57 | ![Cover](https://i.discogs.com/A1TNG2kamaOhbG10iCqfsmagRgxXS91BXQKBVqmhM1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTk2/MzktMTM0MDg1MTYx/MC03NDA4LmpwZWc.jpeg) | 1997 | Jay Munly | De Dar He |
-| 87 |  | 1997 | 16 Horsepower | Low Estate |
-| 56 |  | 1997-02-14 | Jay Munly | Munly de Dar He |
-| 30 |  | 2000-04-01 | 16 Horsepower | Hoarse |
-| 76 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c924b516f000a0206afe1407efdac9f1.png) | 2001-03-01 | Madrugada | The Nightly Disease |
-| 86 | ![Cover](https://i.discogs.com/TcE-oIBW__Cfp2eDAzcrcdZRaDmoNroX0_x_vfRS4i0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDAw/NS0xMjQxMDU5NDQ4/LmpwZWc.jpeg) | 2001-03-20 | The Angels of Light | How I Loved You |
-| 38 |  | 2002-06-17 | 16 Horsepower | Folklore |
-| 4 |  | 2003 | Various Artists | The Death Roots Syndicate: Volume III |
-| 95 |  | 2003-02-03 | Woven Hand | Blush Music |
-| 66 |  | 2004 | Those Poor Bastards | Country Bullshit |
-| 68 | ![Cover](https://i.discogs.com/KQ9Bs_m9rCIl5P1ucP_f1Ed0nSEsU93VUBEi0m-UgRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzg1/NDgtMTM4MzQ1MTg1/OS01ODk3LmpwZWc.jpeg) | 2004 | Slim Cessna&#39;s Auto Club | The Bloudy Tenent Truth Peace |
-| 67 |  | 2004-02-03 | Tulsa Drone | No Wake |
-| 47 |  | 2004-09-20 | Woven Hand | Consider the Birds |
-| 85 |  | 2005 | Those Poor Bastards | Songs of Desperation |
-| 44 | ![Cover](https://i.discogs.com/yz0-iKDTgk_l0lq6X32zDD4L_HMXtF3Cc0EJYnzXVCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODIx/MTMyLTE1OTg0MTgz/NTEtMTM4NC5qcGVn.jpeg) | 2007 | Bone Orchard | A Romance of Ghosts |
-| 54 |  | 2007 | Those Poor Bastards | Hellfire Hymns |
-| 58 |  | 2007 | Christian Williams | Built With Bones |
-| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c5233efe1321a62bb48ce6058e111d23.png) | 2007-08-28 | Pygmy Lush | Bitter River |
-| 92 |  | 2008-10-31 | Those Poor Bastards | Satan Is Watching |
-| 14 | ![Cover](https://i.discogs.com/sJkzBPXD8hipSx2Mn8cXi-l0uLjdB22O-sUkUaHj1Qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDc3/NTItMTI3ODYxNjE4/Ni5qcGVn.jpeg) | 2009 | Trent Miller &amp; The Skeleton Jive | Cerberus |
-| 90 |  | 2009-03-24 | The White Buffalo | Hogtied Revisited |
-| 96 | ![Cover](https://i.discogs.com/7fKZgtmY0DbtmHpNMN2opaG9r6azMTxXEN9WwlNldQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzQz/NTctMTQ4NTAyMjM3/Ni0xNjMzLmpwZWc.jpeg) | 2009-04-18 | Hank III | Risin Outlaw |
-| 65 |  | 2009-06-06 | Lonesome Wyatt and Rachel Brooke | A Bitter Harvest |
-| 93 | ![Cover](https://i.discogs.com/a6cIql8lI4CpMkxxO4zM2NHFznVz9BJV5g20ZKxb-fA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTMw/NzktMTUxOTQ3NjY3/MS0xOTg5LmpwZWc.jpeg) | 2009-06-16 | The Builders and the Butchers | Salvation Is A Deep Dark Well |
-| 98 |  | 2009-11-10 | Brown Bird | The Devil Dancing |
-| 61 |  | 2010-07-06 | The Builders and the Butchers | Where The Roots All Grow |
-| 74 |  | 2010-10-05 | Munly &amp; the Lupercalians | Petr &amp; the Wulf |
-| 78 |  | 2010-10-25 | Giant Sand | Blurry Blue Mountain |
-| 52 |  | 2011-05-31 | The Goddamn Gallows | Seven Devils |
-| 59 | ![Cover](https://i.discogs.com/-Z0pOduDdhcVVRK7Eyo3kS-sUioq0ubLZZ21n9iNQDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk4/NDktMTQ3ODAyODMw/Mi0zNTUxLmpwZWc.jpeg) | 2011-09-03 | King Dude | King Dude |
-| 69 |  | 2011-11-08 | Lonesome Wyatt and the Holy Spooks | Heartsick |
-| 27 |  | 2012-06 | Scott Kelly &#x2F; Steve Von Till &#x2F; Wino | Songs Of Townes Van Zandt |
-| 7 |  | 2012-07-17 | Crowpush | Weak As Water |
-| 11 | ![Cover](https://i.discogs.com/SATEfi8FC-bz_j7KkpygcyEL58j8u9mYEaYufOkZ7UE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTkz/OTU1LTE2MTIxMDA5/ODgtNjIwNS5qcGVn.jpeg) | 2013 | Brillig | I Ain&#39;t Ever Gonna See the Sea |
-| 21 | ![Cover](https://i.discogs.com/TAMFvpMYnBywcRsiJ0cZrD8MzU-ekEtzD2r3nAt0hqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTc3/OTAtMTUyNTMwNjky/OS03MTg2LmpwZWc.jpeg) | 2013-01-29 | Jarboe, Sweet Meat Love And Holy Cult, The | &#39;Mystagogue&#39; |
-| 71 | ![Cover](https://i.discogs.com/cyITz6DRDnpp_qxC5_y5br3dxLYZbd8EPaw5uAir6SI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODIx/MzAtMTM4Njc1OTkx/MC04ODUyLmpwZWc.jpeg) | 2013-05-01 | Rykarda Parasol | Against The Sun |
-| 16 | ![Cover](https://i.discogs.com/7Lj6nccIlug3QNThbJsOR92wCiCWU_Qw2ZWie7RkcCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzI5/NDEtMTM3Mzc1MTYy/NS03MzAwLmpwZWc.jpeg) | 2013-06-15 | Bat Country | Love&#39;s the Only Engine of Survival |
-| 32 |  |  | Mark Sinnis | A Southern Tale |
-| 33 | ![Cover](https://i.discogs.com/GfD7L0X62M2Q9QTDyrj--KvlB87uWCJ43ikV4Rirufo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQ0/NjktMTI2MzExMDE1/Mi5qcGVn.jpeg) | 2009-06-05 | Brillig | The Red Coats |
-| 34 |  | 2013-05-11 | Lux Interna | There Is Light in the Body, There Is Blood in the Sun |
-| 35 |  |  | Ninth House | Realize And It&#39;s Gone |
-| 45 |  |  | DBUK | Songs One Through Eight |
-| 48 |  | 2008-12-09 | Uncle Sinner | Ballads and Mental Breakdowns |
-| 49 | ![Cover](https://i.discogs.com/rscyKCCcUYyVK3ENvxvx_Pu4uUtF5Dfj9vS2B2I-sTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDY2/MDItMTQxNzAxMDk2/Ni01MjA3LmpwZWc.jpeg) | 2010 | Kal Cahoone | Saints and Stars |
-| 94 | ![Cover](https://i.discogs.com/5nrHlDbpILk52Ef9opSE-AIRNR-zrklNAx2-1uyYcaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIx/Nzg5LTE0OTUyOTQy/NjQtNjk1Ny5qcGVn.jpeg) | 2013-06-29 | The Dead South | The Ocean Went Mad and We Were to Blame |
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/61558dd94b04e008d5db4f89cc7bf8c2.png) | 2014 | Swans | The Beggar |
-| 5 | ![Cover](https://i.discogs.com/VXVsNKTqQ1sv5dzn8MZjLa7sEPDmrWTvlHyFwJvql7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM2/MzU5LTE0OTk0NDA4/NjYtOTczNS5qcGVn.jpeg) | 2014 | Uncle Sinner | A Pocketful of Glass Eyes |
-| 9 | ![Cover](https://i.discogs.com/xJ95bjLzd9xClbQQDBnyby2TxJShRphNwelBTsQhSAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjU5/NTgtMTQxMDE4MTEz/NC02NTY4LmpwZWc.jpeg) | 2014-05-12 | Grännibueb | The Demonstration Recordings |
-| 72 |  | 2014-10-07 | Those Poor Bastards | Vicious Losers |
-| 3 | ![Cover](https://i.discogs.com/6ynQjL07y5KWXdmTNtzJoNMi-4nB8AtEgtc1BbQctFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTkz/ODAyLTE2MTIxMDA2/MjItMjk2Mi5qcGVn.jpeg) | 2015 | Brillig | Cautionary Tales |
-| 82 | ![Cover](https://i.discogs.com/22z9329b6dYY6fW_bsWzq-FZedSBLCN4Rl_NPq6GjE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzMw/MzQtMTQ3MTc1Mjgx/NS04OTAxLmpwZWc.jpeg) | 2015 | Lost Dog Street Band | Homeward Bound |
-| 100 | ![Cover](https://i.discogs.com/ITeW2F5Y874TwBC5fJhdF5Qz9Dr8wAfpFMwqdMMXkmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzY3/MDUtMTQ3NTQxMDY3/MC02MjQ0LmpwZWc.jpeg) | 2015 | Colter Wall | Imaginary Appalachia |
-| 46 | ![Cover](https://i.discogs.com/99lXspvJVRVfTU-ZYBrh3LCWpGOpqbxwEBsEqOvVkac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjg5/OTEtMTQzOTk4NDU1/OS0zODQzLmpwZWc.jpeg) | 2015-01-26 | Uncle Sinner | Let the Devil In |
-| 19 | ![Cover](https://i.discogs.com/WnyFS9gK6cRBzkF7dTU2enr4v2Qv5rz-IL-jZQh-afo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzU3/NDktMTQyODUxMzYx/MS05NTg1LmpwZWc.jpeg) | 2015-04-21 | Lonesome Wyatt &amp; Rachel Brooke | Bad Omen |
-| 39 | ![Cover](https://i.discogs.com/AHfbPboEWaXA9mrY_USKidp6-XXPXJlSU5xFcir9MWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjQy/OTAtMTQ3MDM1NTA4/MS02MDk4LmpwZWc.jpeg) | 2015-08-28 | Thayer Sarrano | Shaky |
-| 91 | ![Cover](https://i.discogs.com/_RoBhCni7a3Zd1SnjiftwkpZT0kKP4zP6-Gz1_m51sU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDQ5/MC0xNjU5MjE3OTgz/LTI2MDAuanBlZw.jpeg) | 2015-10-05 | 16 Horsepower | Sackcloth N Ashes |
-| 77 | ![Cover](https://i.discogs.com/cFOE08I131dyjFhV0J7dDrZbqBW6MM8R2qwUHfgRsw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDAy/OTktMTQ1MTI1MTY2/Ny00NDIzLmpwZWc.jpeg) | 2015-10-30 | VOWWS | THE GREAT SUN |
-| 60 | ![Cover](https://i.discogs.com/JInUTkY9pwbr5wXoNR4PqrQD58CG1K-qyXEp5kLTjbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzY5/MTMtMTQ1NTgzMTgz/My0yNDk0LmpwZWc.jpeg) | 2016-03-15 | Those Poor Bastards | Sing it Ugly |
-| 31 | ![Cover](https://i.discogs.com/bBdA0V2m0b6jvnF9Xpozi6-Y5obXkGwY5feyj4Z6WOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODc3/NzU4LTE1MDU4MDkw/NTMtMTcwMS5qcGVn.jpeg) | 2016-05-13 | Zwyntar | Госпел |
-| 62 | ![Cover](https://i.discogs.com/bBdA0V2m0b6jvnF9Xpozi6-Y5obXkGwY5feyj4Z6WOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODc3/NzU4LTE1MDU4MDkw/NTMtMTcwMS5qcGVn.jpeg) | 2016-05-13 | Zwyntar | Гріх |
-| 23 | ![Cover](https://i.discogs.com/ywTWcwvOx3gtOncbnGBYfkDjIio0l1PSXSR0KK1d5l4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQz/OTA0LTE1NDg4Mzcy/ODgtNDAzMy5qcGVn.jpeg) | 2017-01-31 | Dvanov | For Gathering Dust |
-| 75 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/43a436094a8d56b7094bbc97bf9a3be8.png) | 2017-03-24 | Me and That Man | Songs of Love and Death |
-| 63 | ![Cover](https://i.discogs.com/NL7508sMSUdWKk7fCo_Qq3gNBShCrhB6BNgrowbU0fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY4/NTU4LTE1MDkyNzM4/MzUtNDI0OS5qcGVn.jpeg) | 2017-10-13 | Get Your Gun | Doubt Is My Rope Back To You |
-| 51 | ![Cover](https://i.discogs.com/yIc2l6rC5487WU_4T3cR2enxzr8UGg_xxgozj94c4IA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzky/MTAzLTE1MjI0NTU5/MDktODUwMi5qcGVn.jpeg) | 2018 | Lindi Ortega | Liberty |
-| 83 | ![Cover](https://i.discogs.com/SYhlJnrhBmsf9ltHnUr4xhHvcDqu59Hckdvjp4r9JJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzU0/ODAyLTE1NDE0NTY3/MDMtMTY4MC5qcGVn.jpeg) | 2018-03-23 | Spiritual Front | Amour braque |
-| 84 | ![Cover](https://i.discogs.com/9PIciqyEC39i9OfxsWcgH8BjWglrsKn06Tjt8Kavgyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTc2/MjQzLTE1Mjk4MzI1/NzgtMjE5MS5qcGVn.jpeg) | 2018-06-12 | VOWWS | Under the World |
-| 80 | ![Cover](https://i.discogs.com/XxdvZNFqtuUqaaAqBQ4z7vWvU7iU_8pyZItlgbVA7Wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk5/NjM4LTE1MzAzMTg0/NDYtNDgyNi5qcGVn.jpeg) | 2018-06-29 | Jaye Jayle | No Trail and Other Unholy Paths |
-| 50 | ![Cover](https://i.discogs.com/tOFHFfOGJ-gw4CKOoPkjjDQs4YrUnBdQCaVwqwdUcEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTMyLTE1NDAzMDk0/ODMtODI2OC5qcGVn.jpeg) | 2018-11-16 | Those Poor Bastards | Inhuman Nature |
-| 64 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ee92a465ddfe6bc401aa3e5066305f12.png) | 2018-12-14 | Zwyntar | Мертві голоси |
-| 22 | ![Cover](https://i.discogs.com/yoo1FkI7i3V2vqrtbIJ0ry6ZFZevOaFqN-ZQQAVS1ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjE3/NjA0LTE1NTc2MDcz/NjYtMzQ2NS5qcGVn.jpeg) | 2019 | Thayer Sarrano | Wings Alleluia |
-| 99 | ![Cover](https://i.discogs.com/vkFXzyKO9RcxgrqowKgIb7z7-rQkCcT30O4Ysthqdu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgw/ODczLTE1NTgzODQ3/MDctNjg4My5qcGVn.jpeg) | 2019-03-22 | Orville Peck | Pony |
-| 41 | ![Cover](https://i.discogs.com/hZvFewntze4_b86m3h15NEip8owW_9ZXpQA_eZ3Dpbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MDA1LTE1Njk0MjQ0/MzQtNjY2NC5qcGVn.jpeg) | 2019-09-16 | Moriah Woods | Old Boy |
-| 2 | ![Cover](https://i.discogs.com/ugYRlfQHQ7hSLJ0-F-4mM2FSApzDB429MzMm4LmD3K4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ5/NTM1LTE1NzI3MzI4/NDctMzAxMC5qcGVn.jpeg) | 2019-09-19 | The Division Men | Niños del Sol |
-| 10 | ![Cover](https://i.discogs.com/G09mB4VQHjOK16T98-o4wLhzm-6F3T_-t3L_IpT-6qU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjkz/NjUzLTE1ODkzMDE2/OTctNzgxNy5qcGVn.jpeg) | 2020-03-16 | Uncle Sinner | Trouble of this World |
-| 17 | ![Cover](https://i.discogs.com/POu5Kypv-VE_7BcSceX5i-K27Q-kZspwh6cWkzW8dIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY3/NDc4LTE1ODc1NjY2/NjAtNzIwMy5qcGVn.jpeg) | 2020-04-17 | Mick Harvey | The Jeffrey Lee Pierce Sessions Project: The Journey Is Long |
-| 36 |  |  | DBUK | Songs Nine Through Sixteen |
-| 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1701ddaaa8f2b90603b474731edc5abc.png) | 2020-11-20 | King Hannah | Tell Me Your Mind And I&#39;ll Tell You Mine |
-| 13 | ![Cover](https://i.discogs.com/oDdB7poSJm-ZS-JADuaNn-yxICL5-DCCXCGtjwrC1mA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTQw/MjMtMTQ3NzQyNzQ0/NC0xMTgwLmpwZWc.jpeg) | 2021 | Salem | The Anatomy Of Pain |
-| 55 | ![Cover](https://i.discogs.com/2gcW4Ci2eWAyBirzrwNRS3QS2f_yxfa6jj8-0KCVy14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzYz/NjYxLTE2MTUzMDEz/MDUtNTI2OS5tcG8.jpeg) | 2021-03-12 | The Underground Youth | The Falling |
-| 97 | ![Cover](https://i.discogs.com/-bC-tKs76rI1moGfmul88A4lsbY_6Eg27pU9XzSZKNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzEx/MDM4LTE2MTg1MTAw/MjctMTcyMC5qcGVn.jpeg) | 2021-04-16 | Amigo The Devil | Born Against |
-| 37 | ![Cover](https://i.discogs.com/jBOgw6rVM3wJuP3jaX5t-E75ylFpKOoGzO4fw1a_Rcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzU3/NTc1LTE2MzI1MjUy/OTktNzA1Mi5qcGVn.jpeg) | 2021-11-04 | Lydia Lunch | A Fistful of Desert Blues |
-| 43 | ![Cover](https://i.discogs.com/mtFfJQoPXPQxNKxaWdSWPTtSR2ryKlSRvRdht3AzOeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTcy/NzQxLTE2MzgyMzUw/MTEtMjY4Ni5qcGVn.jpeg) | 2021-12-10 | Those Poor Bastards | Old Time Suffering |
-| 79 | ![Cover](https://i.discogs.com/hupvGE980g5YD-6Fu8uoSZN6ZEPYBPrPXZzvM4DuFgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzc2/MTE3LTE2MzU2Mjkz/OTEtNDczMS5qcGVn.jpeg) | 2022-02-04 | Marissa Nadler | The Wrath of the Clouds |
-| 18 | ![Cover](https://i.discogs.com/s7BrO3rUgUzFUzVggXAq0A9PMdTlJmncPI3q7njNTm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTE3/NDM3LTE3MDE4NDcz/OTgtMjMzNi5wbmc.jpeg) | 2023 | O.N.E The Duo | Guilty |
-| 53 | ![Cover](https://i.discogs.com/ycwQ3FjNuoyJLgGrUkmW7s3Lj8k0RbhEhrNXN6xRcmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzA0/ODk4LTE2ODk5MDYz/ODYtNjM0OC5qcGVn.jpeg) | 2023-07-14 | Jaye Jayle | Don&#39;t Let Your Love Life Get You Down |
-| 28 | ![Cover](https://i.discogs.com/cRApV8IucNZGWoU86P_1N3oUX1qo4CDNmLsFlHgDDsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjY1/NTg0LTE2OTQ3NDEx/MzItNTY4OS5qcGVn.jpeg) | 2023-09-22 | Lonesome Wyatt and the Holy Spooks | Longing For Oblivion |
-| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bbc1273f7034f34a127cb77aacf89d4d.png) | 2023-10-13 | Zwyntar | Тисяча Очей |
-| 73 | ![Cover](https://i.discogs.com/ZqbfleLnnTwPhhPGCn1FxJmlVk-MSbfZI1r1pNgmjFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzg1/NjMtMTMxMDA1MjM2/Ny5qcGVn.jpeg) | 2023-10-19 | Jay Munly | Munly &amp; The Lee Lewis Harlots |
-| 12 | ![Cover](https://i.discogs.com/x5cIunJcgSqWTnp1a6p4soXUM0h-z7dCTb27COBvm0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzkx/NzA2LTE3MTM0NzE5/MzgtODEwNC5wbmc.jpeg) | 2024-04-05 | Olin Janusz | Please Leave Quietly |
-| 40 | ![Cover](https://i.discogs.com/PNoR_qwDG2uppLKhXHYC0_9upRGGzHlFasE5zti7vg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODI0/NjI1LTE3MTcwODY4/NjMtNzMxNS5qcGVn.jpeg) | 2024-05-31 | Slim Cessna&#39;s Auto Club | Kinnery of Lupercalia: Buell Legion |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2d5cb186b3a51b84f14639d9b1c3381.png" alt="Cover for Miami" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>The Gun Club</td>
+      <td>Miami</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/vEzwQ983zsd1IEi5d7Gjt4p9sHexMtqZEL93uZJ1cH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTI1/MC0xMjUyMjkyNzEz/LmpwZWc.jpeg" alt="Cover for Tender Prey (2010 - Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988-09-19</td>
+      <td>Nick Cave &amp; The Bad Seeds</td>
+      <td>Tender Prey (2010 - Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>16 Horsepower</td>
+      <td>Sackcloth &#39;N&#39; Ashes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 18</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>1995-11-07</td>
+      <td>16 Horsepower</td>
+      <td>16 Horsepower</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/_RoBhCni7a3Zd1SnjiftwkpZT0kKP4zP6-Gz1_m51sU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDQ5/MC0xNjU5MjE3OTgz/LTI2MDAuanBlZw.jpeg" alt="Cover for Sackcloth -N- Ashes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-07-15</td>
+      <td>16 Horsepower</td>
+      <td>Sackcloth -N- Ashes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 19</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/A1TNG2kamaOhbG10iCqfsmagRgxXS91BXQKBVqmhM1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTk2/MzktMTM0MDg1MTYx/MC03NDA4LmpwZWc.jpeg" alt="Cover for De Dar He" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Jay Munly</td>
+      <td>De Dar He</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/939f3c8233dd4d38a7d7e355e71c5789.png" alt="Cover for Low Estate" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>16 Horsepower</td>
+      <td>Low Estate</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>1997-02-14</td>
+      <td>Jay Munly</td>
+      <td>Munly de Dar He</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td>2000-04-01</td>
+      <td>16 Horsepower</td>
+      <td>Hoarse</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/7Go10HAMBGtAGkV-eboQARx8hPr1RHhpHR3DIlanL30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzI1/MS0xMzMwMDg5NTc1/LmpwZWc.jpeg" alt="Cover for Secret South" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-04-13</td>
+      <td>16 Horsepower</td>
+      <td>Secret South</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c924b516f000a0206afe1407efdac9f1.png" alt="Cover for The Nightly Disease" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-03-01</td>
+      <td>Madrugada</td>
+      <td>The Nightly Disease</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/TcE-oIBW__Cfp2eDAzcrcdZRaDmoNroX0_x_vfRS4i0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDAw/NS0xMjQxMDU5NDQ4/LmpwZWc.jpeg" alt="Cover for How I Loved You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-03-20</td>
+      <td>The Angels of Light</td>
+      <td>How I Loved You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>2002-06-17</td>
+      <td>16 Horsepower</td>
+      <td>Folklore</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Various Artists</td>
+      <td>The Death Roots Syndicate: Volume III</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2003-02-03</td>
+      <td>Woven Hand</td>
+      <td>Blush Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>Those Poor Bastards</td>
+      <td>Country Bullshit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/KQ9Bs_m9rCIl5P1ucP_f1Ed0nSEsU93VUBEi0m-UgRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzg1/NDgtMTM4MzQ1MTg1/OS01ODk3LmpwZWc.jpeg" alt="Cover for The Bloudy Tenent Truth Peace" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Slim Cessna&#39;s Auto Club</td>
+      <td>The Bloudy Tenent Truth Peace</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>2004-02-03</td>
+      <td>Tulsa Drone</td>
+      <td>No Wake</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>2004-09-20</td>
+      <td>Woven Hand</td>
+      <td>Consider the Birds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Those Poor Bastards</td>
+      <td>Songs of Desperation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/yz0-iKDTgk_l0lq6X32zDD4L_HMXtF3Cc0EJYnzXVCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODIx/MTMyLTE1OTg0MTgz/NTEtMTM4NC5qcGVn.jpeg" alt="Cover for A Romance of Ghosts" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Bone Orchard</td>
+      <td>A Romance of Ghosts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Christian Williams</td>
+      <td>Built With Bones</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Those Poor Bastards</td>
+      <td>Hellfire Hymns</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5233efe1321a62bb48ce6058e111d23.png" alt="Cover for Bitter River" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-08-28</td>
+      <td>Pygmy Lush</td>
+      <td>Bitter River</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>2008-10-31</td>
+      <td>Those Poor Bastards</td>
+      <td>Satan Is Watching</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td>2008-12-09</td>
+      <td>Uncle Sinner</td>
+      <td>Ballads and Mental Breakdowns</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 31</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 33</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 60</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 64</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 78</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/sJkzBPXD8hipSx2Mn8cXi-l0uLjdB22O-sUkUaHj1Qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDc3/NTItMTI3ODYxNjE4/Ni5qcGVn.jpeg" alt="Cover for Cerberus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Trent Miller &amp; The Skeleton Jive</td>
+      <td>Cerberus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>2009-03-24</td>
+      <td>The White Buffalo</td>
+      <td>Hogtied Revisited</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/7fKZgtmY0DbtmHpNMN2opaG9r6azMTxXEN9WwlNldQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzQz/NTctMTQ4NTAyMjM3/Ni0xNjMzLmpwZWc.jpeg" alt="Cover for Risin Outlaw" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-04-18</td>
+      <td>Hank III</td>
+      <td>Risin Outlaw</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/GfD7L0X62M2Q9QTDyrj--KvlB87uWCJ43ikV4Rirufo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQ0/NjktMTI2MzExMDE1/Mi5qcGVn.jpeg" alt="Cover for The Red Coats" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-06-05</td>
+      <td>Brillig</td>
+      <td>The Red Coats</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td>2009-06-06</td>
+      <td>Lonesome Wyatt and Rachel Brooke</td>
+      <td>A Bitter Harvest</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/a6cIql8lI4CpMkxxO4zM2NHFznVz9BJV5g20ZKxb-fA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTMw/NzktMTUxOTQ3NjY3/MS0xOTg5LmpwZWc.jpeg" alt="Cover for Salvation Is A Deep Dark Well" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-06-16</td>
+      <td>The Builders and the Butchers</td>
+      <td>Salvation Is A Deep Dark Well</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/portland" | relative_url }}">portland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>2009-11-10</td>
+      <td>Brown Bird</td>
+      <td>The Devil Dancing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/rscyKCCcUYyVK3ENvxvx_Pu4uUtF5Dfj9vS2B2I-sTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDY2/MDItMTQxNzAxMDk2/Ni01MjA3LmpwZWc.jpeg" alt="Cover for Saints and Stars" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Kal Cahoone</td>
+      <td>Saints and Stars</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 11</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>2010-07-06</td>
+      <td>The Builders and the Butchers</td>
+      <td>Where The Roots All Grow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>2010-10-05</td>
+      <td>Munly &amp; the Lupercalians</td>
+      <td>Petr &amp; the Wulf</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2010-10-25</td>
+      <td>Giant Sand</td>
+      <td>Blurry Blue Mountain</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td>2011-05-31</td>
+      <td>The Goddamn Gallows</td>
+      <td>Seven Devils</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/-Z0pOduDdhcVVRK7Eyo3kS-sUioq0ubLZZ21n9iNQDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk4/NDktMTQ3ODAyODMw/Mi0zNTUxLmpwZWc.jpeg" alt="Cover for King Dude" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-09-03</td>
+      <td>King Dude</td>
+      <td>King Dude</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>2011-11-08</td>
+      <td>Lonesome Wyatt and the Holy Spooks</td>
+      <td>Heartsick</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td>2012-06</td>
+      <td>Scott Kelly &#x2F; Steve Von Till &#x2F; Wino</td>
+      <td>Songs Of Townes Van Zandt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>2012-07-17</td>
+      <td>Crowpush</td>
+      <td>Weak As Water</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/SATEfi8FC-bz_j7KkpygcyEL58j8u9mYEaYufOkZ7UE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTkz/OTU1LTE2MTIxMDA5/ODgtNjIwNS5qcGVn.jpeg" alt="Cover for I Ain&#39;t Ever Gonna See the Sea" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Brillig</td>
+      <td>I Ain&#39;t Ever Gonna See the Sea</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/TAMFvpMYnBywcRsiJ0cZrD8MzU-ekEtzD2r3nAt0hqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTc3/OTAtMTUyNTMwNjky/OS03MTg2LmpwZWc.jpeg" alt="Cover for &#39;Mystagogue&#39;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-01-29</td>
+      <td>Jarboe, Sweet Meat Love And Holy Cult, The</td>
+      <td>&#39;Mystagogue&#39;</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/cyITz6DRDnpp_qxC5_y5br3dxLYZbd8EPaw5uAir6SI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODIx/MzAtMTM4Njc1OTkx/MC04ODUyLmpwZWc.jpeg" alt="Cover for Against The Sun" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05-01</td>
+      <td>Rykarda Parasol</td>
+      <td>Against The Sun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td>2013-05-11</td>
+      <td>Lux Interna</td>
+      <td>There Is Light in the Body, There Is Blood in the Sun</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/7Lj6nccIlug3QNThbJsOR92wCiCWU_Qw2ZWie7RkcCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzI5/NDEtMTM3Mzc1MTYy/NS03MzAwLmpwZWc.jpeg" alt="Cover for Love&#39;s the Only Engine of Survival" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-06-15</td>
+      <td>Bat Country</td>
+      <td>Love&#39;s the Only Engine of Survival</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/5nrHlDbpILk52Ef9opSE-AIRNR-zrklNAx2-1uyYcaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzIx/Nzg5LTE0OTUyOTQy/NjQtNjk1Ny5qcGVn.jpeg" alt="Cover for The Ocean Went Mad and We Were to Blame" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-06-29</td>
+      <td>The Dead South</td>
+      <td>The Ocean Went Mad and We Were to Blame</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/VXVsNKTqQ1sv5dzn8MZjLa7sEPDmrWTvlHyFwJvql7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM2/MzU5LTE0OTk0NDA4/NjYtOTczNS5qcGVn.jpeg" alt="Cover for A Pocketful of Glass Eyes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Uncle Sinner</td>
+      <td>A Pocketful of Glass Eyes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61558dd94b04e008d5db4f89cc7bf8c2.png" alt="Cover for The Beggar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Swans</td>
+      <td>The Beggar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/xJ95bjLzd9xClbQQDBnyby2TxJShRphNwelBTsQhSAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjU5/NTgtMTQxMDE4MTEz/NC02NTY4LmpwZWc.jpeg" alt="Cover for The Demonstration Recordings" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-05-12</td>
+      <td>Grännibueb</td>
+      <td>The Demonstration Recordings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>2014-10-07</td>
+      <td>Those Poor Bastards</td>
+      <td>Vicious Losers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/ITeW2F5Y874TwBC5fJhdF5Qz9Dr8wAfpFMwqdMMXkmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzY3/MDUtMTQ3NTQxMDY3/MC02MjQ0LmpwZWc.jpeg" alt="Cover for Imaginary Appalachia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Colter Wall</td>
+      <td>Imaginary Appalachia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 61</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 93</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/6ynQjL07y5KWXdmTNtzJoNMi-4nB8AtEgtc1BbQctFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTkz/ODAyLTE2MTIxMDA2/MjItMjk2Mi5qcGVn.jpeg" alt="Cover for Cautionary Tales" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Brillig</td>
+      <td>Cautionary Tales</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/22z9329b6dYY6fW_bsWzq-FZedSBLCN4Rl_NPq6GjE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzMw/MzQtMTQ3MTc1Mjgx/NS04OTAxLmpwZWc.jpeg" alt="Cover for Homeward Bound" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Lost Dog Street Band</td>
+      <td>Homeward Bound</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/99lXspvJVRVfTU-ZYBrh3LCWpGOpqbxwEBsEqOvVkac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjg5/OTEtMTQzOTk4NDU1/OS0zODQzLmpwZWc.jpeg" alt="Cover for Let the Devil In" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-01-26</td>
+      <td>Uncle Sinner</td>
+      <td>Let the Devil In</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 27</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 28</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 58</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 63</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 75</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/WnyFS9gK6cRBzkF7dTU2enr4v2Qv5rz-IL-jZQh-afo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzU3/NDktMTQyODUxMzYx/MS05NTg1LmpwZWc.jpeg" alt="Cover for Bad Omen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-04-21</td>
+      <td>Lonesome Wyatt &amp; Rachel Brooke</td>
+      <td>Bad Omen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/AHfbPboEWaXA9mrY_USKidp6-XXPXJlSU5xFcir9MWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjQy/OTAtMTQ3MDM1NTA4/MS02MDk4LmpwZWc.jpeg" alt="Cover for Shaky" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-08-28</td>
+      <td>Thayer Sarrano</td>
+      <td>Shaky</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/_RoBhCni7a3Zd1SnjiftwkpZT0kKP4zP6-Gz1_m51sU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDQ5/MC0xNjU5MjE3OTgz/LTI2MDAuanBlZw.jpeg" alt="Cover for Sackcloth N Ashes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-05</td>
+      <td>16 Horsepower</td>
+      <td>Sackcloth N Ashes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 25</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/cFOE08I131dyjFhV0J7dDrZbqBW6MM8R2qwUHfgRsw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDAy/OTktMTQ1MTI1MTY2/Ny00NDIzLmpwZWc.jpeg" alt="Cover for THE GREAT SUN" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-30</td>
+      <td>VOWWS</td>
+      <td>THE GREAT SUN</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/JInUTkY9pwbr5wXoNR4PqrQD58CG1K-qyXEp5kLTjbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzY5/MTMtMTQ1NTgzMTgz/My0yNDk0LmpwZWc.jpeg" alt="Cover for Sing it Ugly" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-03-15</td>
+      <td>Those Poor Bastards</td>
+      <td>Sing it Ugly</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/bBdA0V2m0b6jvnF9Xpozi6-Y5obXkGwY5feyj4Z6WOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODc3/NzU4LTE1MDU4MDkw/NTMtMTcwMS5qcGVn.jpeg" alt="Cover for Госпел" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-05-13</td>
+      <td>Zwyntar</td>
+      <td>Госпел</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/bBdA0V2m0b6jvnF9Xpozi6-Y5obXkGwY5feyj4Z6WOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODc3/NzU4LTE1MDU4MDkw/NTMtMTcwMS5qcGVn.jpeg" alt="Cover for Гріх" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-05-13</td>
+      <td>Zwyntar</td>
+      <td>Гріх</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/ywTWcwvOx3gtOncbnGBYfkDjIio0l1PSXSR0KK1d5l4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQz/OTA0LTE1NDg4Mzcy/ODgtNDAzMy5qcGVn.jpeg" alt="Cover for For Gathering Dust" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-01-31</td>
+      <td>Dvanov</td>
+      <td>For Gathering Dust</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43a436094a8d56b7094bbc97bf9a3be8.png" alt="Cover for Songs of Love and Death" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-03-24</td>
+      <td>Me and That Man</td>
+      <td>Songs of Love and Death</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/NL7508sMSUdWKk7fCo_Qq3gNBShCrhB6BNgrowbU0fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY4/NTU4LTE1MDkyNzM4/MzUtNDI0OS5qcGVn.jpeg" alt="Cover for Doubt Is My Rope Back To You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-13</td>
+      <td>Get Your Gun</td>
+      <td>Doubt Is My Rope Back To You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/yIc2l6rC5487WU_4T3cR2enxzr8UGg_xxgozj94c4IA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzky/MTAzLTE1MjI0NTU5/MDktODUwMi5qcGVn.jpeg" alt="Cover for Liberty" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Lindi Ortega</td>
+      <td>Liberty</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/SYhlJnrhBmsf9ltHnUr4xhHvcDqu59Hckdvjp4r9JJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzU0/ODAyLTE1NDE0NTY3/MDMtMTY4MC5qcGVn.jpeg" alt="Cover for Amour braque" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-03-23</td>
+      <td>Spiritual Front</td>
+      <td>Amour braque</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/9PIciqyEC39i9OfxsWcgH8BjWglrsKn06Tjt8Kavgyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTc2/MjQzLTE1Mjk4MzI1/NzgtMjE5MS5qcGVn.jpeg" alt="Cover for Under the World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-06-12</td>
+      <td>VOWWS</td>
+      <td>Under the World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/XxdvZNFqtuUqaaAqBQ4z7vWvU7iU_8pyZItlgbVA7Wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk5/NjM4LTE1MzAzMTg0/NDYtNDgyNi5qcGVn.jpeg" alt="Cover for No Trail and Other Unholy Paths" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-06-29</td>
+      <td>Jaye Jayle</td>
+      <td>No Trail and Other Unholy Paths</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/tOFHFfOGJ-gw4CKOoPkjjDQs4YrUnBdQCaVwqwdUcEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAw/NTMyLTE1NDAzMDk0/ODMtODI2OC5qcGVn.jpeg" alt="Cover for Inhuman Nature" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-11-16</td>
+      <td>Those Poor Bastards</td>
+      <td>Inhuman Nature</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee92a465ddfe6bc401aa3e5066305f12.png" alt="Cover for Мертві голоси" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-12-14</td>
+      <td>Zwyntar</td>
+      <td>Мертві голоси</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/yoo1FkI7i3V2vqrtbIJ0ry6ZFZevOaFqN-ZQQAVS1ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjE3/NjA0LTE1NTc2MDcz/NjYtMzQ2NS5qcGVn.jpeg" alt="Cover for Wings Alleluia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>Thayer Sarrano</td>
+      <td>Wings Alleluia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/vkFXzyKO9RcxgrqowKgIb7z7-rQkCcT30O4Ysthqdu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgw/ODczLTE1NTgzODQ3/MDctNjg4My5qcGVn.jpeg" alt="Cover for Pony" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-03-22</td>
+      <td>Orville Peck</td>
+      <td>Pony</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 31</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 65</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 90</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/hZvFewntze4_b86m3h15NEip8owW_9ZXpQA_eZ3Dpbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTgy/MDA1LTE1Njk0MjQ0/MzQtNjY2NC5qcGVn.jpeg" alt="Cover for Old Boy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-16</td>
+      <td>Moriah Woods</td>
+      <td>Old Boy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/ugYRlfQHQ7hSLJ0-F-4mM2FSApzDB429MzMm4LmD3K4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ5/NTM1LTE1NzI3MzI4/NDctMzAxMC5qcGVn.jpeg" alt="Cover for Niños del Sol" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-19</td>
+      <td>The Division Men</td>
+      <td>Niños del Sol</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/G09mB4VQHjOK16T98-o4wLhzm-6F3T_-t3L_IpT-6qU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjkz/NjUzLTE1ODkzMDE2/OTctNzgxNy5qcGVn.jpeg" alt="Cover for Trouble of this World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-16</td>
+      <td>Uncle Sinner</td>
+      <td>Trouble of this World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/POu5Kypv-VE_7BcSceX5i-K27Q-kZspwh6cWkzW8dIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY3/NDc4LTE1ODc1NjY2/NjAtNzIwMy5qcGVn.jpeg" alt="Cover for The Jeffrey Lee Pierce Sessions Project: The Journey Is Long" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-04-17</td>
+      <td>Mick Harvey</td>
+      <td>The Jeffrey Lee Pierce Sessions Project: The Journey Is Long</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1701ddaaa8f2b90603b474731edc5abc.png" alt="Cover for Tell Me Your Mind And I&#39;ll Tell You Mine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-11-20</td>
+      <td>King Hannah</td>
+      <td>Tell Me Your Mind And I&#39;ll Tell You Mine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/oDdB7poSJm-ZS-JADuaNn-yxICL5-DCCXCGtjwrC1mA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTQw/MjMtMTQ3NzQyNzQ0/NC0xMTgwLmpwZWc.jpeg" alt="Cover for The Anatomy Of Pain" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Salem</td>
+      <td>The Anatomy Of Pain</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/2gcW4Ci2eWAyBirzrwNRS3QS2f_yxfa6jj8-0KCVy14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzYz/NjYxLTE2MTUzMDEz/MDUtNTI2OS5tcG8.jpeg" alt="Cover for The Falling" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-03-12</td>
+      <td>The Underground Youth</td>
+      <td>The Falling</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 31</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 47</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/-bC-tKs76rI1moGfmul88A4lsbY_6Eg27pU9XzSZKNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzEx/MDM4LTE2MTg1MTAw/MjctMTcyMC5qcGVn.jpeg" alt="Cover for Born Against" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-16</td>
+      <td>Amigo The Devil</td>
+      <td>Born Against</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/jBOgw6rVM3wJuP3jaX5t-E75ylFpKOoGzO4fw1a_Rcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzU3/NTc1LTE2MzI1MjUy/OTktNzA1Mi5qcGVn.jpeg" alt="Cover for A Fistful of Desert Blues" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-11-04</td>
+      <td>Lydia Lunch</td>
+      <td>A Fistful of Desert Blues</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/mtFfJQoPXPQxNKxaWdSWPTtSR2ryKlSRvRdht3AzOeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTcy/NzQxLTE2MzgyMzUw/MTEtMjY4Ni5qcGVn.jpeg" alt="Cover for Old Time Suffering" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-12-10</td>
+      <td>Those Poor Bastards</td>
+      <td>Old Time Suffering</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/hupvGE980g5YD-6Fu8uoSZN6ZEPYBPrPXZzvM4DuFgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzc2/MTE3LTE2MzU2Mjkz/OTEtNDczMS5qcGVn.jpeg" alt="Cover for The Wrath of the Clouds" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-02-04</td>
+      <td>Marissa Nadler</td>
+      <td>The Wrath of the Clouds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 67</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 79</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 82</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/s7BrO3rUgUzFUzVggXAq0A9PMdTlJmncPI3q7njNTm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTE3/NDM3LTE3MDE4NDcz/OTgtMjMzNi5wbmc.jpeg" alt="Cover for Guilty" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>O.N.E The Duo</td>
+      <td>Guilty</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/ycwQ3FjNuoyJLgGrUkmW7s3Lj8k0RbhEhrNXN6xRcmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzA0/ODk4LTE2ODk5MDYz/ODYtNjM0OC5qcGVn.jpeg" alt="Cover for Don&#39;t Let Your Love Life Get You Down" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-07-14</td>
+      <td>Jaye Jayle</td>
+      <td>Don&#39;t Let Your Love Life Get You Down</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/cRApV8IucNZGWoU86P_1N3oUX1qo4CDNmLsFlHgDDsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjY1/NTg0LTE2OTQ3NDEx/MzItNTY4OS5qcGVn.jpeg" alt="Cover for Longing For Oblivion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-09-22</td>
+      <td>Lonesome Wyatt and the Holy Spooks</td>
+      <td>Longing For Oblivion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbc1273f7034f34a127cb77aacf89d4d.png" alt="Cover for Тисяча Очей" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-10-13</td>
+      <td>Zwyntar</td>
+      <td>Тисяча Очей</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/ZqbfleLnnTwPhhPGCn1FxJmlVk-MSbfZI1r1pNgmjFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzg1/NjMtMTMxMDA1MjM2/Ny5qcGVn.jpeg" alt="Cover for Munly &amp; The Lee Lewis Harlots" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-10-19</td>
+      <td>Jay Munly</td>
+      <td>Munly &amp; The Lee Lewis Harlots</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/x5cIunJcgSqWTnp1a6p4soXUM0h-z7dCTb27COBvm0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzkx/NzA2LTE3MTM0NzE5/MzgtODEwNC5wbmc.jpeg" alt="Cover for Please Leave Quietly" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-04-05</td>
+      <td>Olin Janusz</td>
+      <td>Please Leave Quietly</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/PNoR_qwDG2uppLKhXHYC0_9upRGGzHlFasE5zti7vg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODI0/NjI1LTE3MTcwODY4/NjMtNzMxNS5qcGVn.jpeg" alt="Cover for Kinnery of Lupercalia: Buell Legion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-05-31</td>
+      <td>Slim Cessna&#39;s Auto Club</td>
+      <td>Kinnery of Lupercalia: Buell Legion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mark Sinnis</td>
+      <td>The Undertaker In My Rearview Mirror</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 10</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Chadderandom Abyss</td>
+      <td>Busy for an Eternity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mark Sinnis</td>
+      <td>Into an Unhidden Future</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ninth House</td>
+      <td>Swim In The Silence</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mark Sinnis</td>
+      <td>A Southern Tale</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ninth House</td>
+      <td>Realize And It&#39;s Gone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td></td>
+      <td>DBUK</td>
+      <td>Songs Nine Through Sixteen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td></td>
+      <td>DBUK</td>
+      <td>Songs One Through Eight</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
