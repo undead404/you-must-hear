@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T22:35:03.239Z
+date: 2025-11-01T02:42:51.385Z
 permalink: tags/alternative-folk
 title: alternative folk
 ---
 
 ## alternative folk
 
-Last updated: <time datetime="2025-10-28T22:35:03.239Z">Wed Oct 29 2025 00:35:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-01T02:42:51.385Z">Sat Nov 01 2025 04:42:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
   </thead>
   <tbody>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14abdb72202d4e19b5c02392ac075872.png" alt="Cover for A Western Harvest Field by Moonlight" style="max-width:120px; height:auto;" />
       </td>
@@ -50,7 +50,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bfdc3eb1deb443f8218ffd7f7cb7330.png" alt="Cover for One Foot In The Grave" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/WHbsZuI1n0ouQcgVopY5cW9wv2FPiy2ViysH_Cocgv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjA5/OTMtMTU5MDgzODAw/MC03MTk0LmpwZWc.jpeg" alt="Cover for Engine" style="max-width:120px; height:auto;" />
       </td>
@@ -93,7 +93,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>1997</td>
@@ -114,7 +114,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>1997</td>
@@ -157,7 +157,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/nJjbZb5Q4zKgkca_GggvZaMDnMOOlC10xvy1FC_6Q8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg2/MjEtMTI0NDY5MzAw/NC5qcGVn.jpeg" alt="Cover for nahe" style="max-width:120px; height:auto;" />
       </td>
@@ -180,7 +180,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/eCW7-26XPVIkiQLPegaQbMG0EvZsELQNlv4HBiHDx8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MjEy/ODUtMTQ0OTQ5NjU0/NS05MjE3LmpwZWc.jpeg" alt="Cover for Prince Pansori Priestess" style="max-width:120px; height:auto;" />
       </td>
@@ -199,7 +199,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/aDIqfD_CB9PIe9wsTU5-627GpcNXV694slllEPB_aeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ2/LTE2MDQyNzM5OTQt/MTk0OS5qcGVn.jpeg" alt="Cover for Thank You" style="max-width:120px; height:auto;" />
       </td>
@@ -217,7 +217,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>2001-08-13</td>
@@ -250,7 +250,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/KItehpguXGqwV-d1bNGsrKahG_Zo0TOLFES5HvaWMEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTg3/NTU4LTE2MDg2NTc1/NTYtOTE2My5qcGVn.jpeg" alt="Cover for Goodbye Different Oceans" style="max-width:120px; height:auto;" />
       </td>
@@ -292,7 +292,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/m4HfnXcr8knWpRe14vOHSX4TAEqgH1jVEsdN0RPQ2Qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDA1/MS0xMTMwMzQ5NjA1/LmpwZWc.jpeg" alt="Cover for Feedback From a Lazy Body" style="max-width:120px; height:auto;" />
       </td>
@@ -318,7 +318,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2003-08-24</td>
@@ -388,7 +388,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>2004-09-07</td>
@@ -478,7 +478,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/_g4jSEPVpZfmY4fYICpWdZda8h-mphKnyyTS4ifTOxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjUz/NjEtMTM1NzUzMDA1/Mi05MjI2LmpwZWc.jpeg" alt="Cover for Aubade" style="max-width:120px; height:auto;" />
       </td>
@@ -503,7 +503,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/TOIDAIDdioyKNE7gIMtMUzJxKdSotICBWHGl62SlwPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzcy/MDM0LTE1OTc1MDk1/MzAtMzczMS5qcGVn.jpeg" alt="Cover for Where You Been So Long" style="max-width:120px; height:auto;" />
       </td>
@@ -528,7 +528,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/cSJ08LI5O723IP-epZPW_o9E9zZ2jAMGFnKVxvNuxhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU2/ODAzLTE1ODc0MDg1/NTgtMTYzNC5qcGVn.jpeg" alt="Cover for Why are you still here?" style="max-width:120px; height:auto;" />
       </td>
@@ -559,7 +559,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/noEmI1q8GnOcrvbB_bZcz0QcMwZ-6YtAAd61XvL_K9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc2/MzItMTIwOTk2Nzk4/NS5qcGVn.jpeg" alt="Cover for Hapless" style="max-width:120px; height:auto;" />
       </td>
@@ -591,7 +591,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>2006-05-22</td>
@@ -610,7 +610,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/XVdiqUiqpl4IF-G3507EQOQhyFlj4d9fS2goQO-4RFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjgz/ODctMTQzNTI0NTE0/My05MTA5LmpwZWc.jpeg" alt="Cover for Crumble" style="max-width:120px; height:auto;" />
       </td>
@@ -702,7 +702,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/6P_VzTdnunEEbZP2pLtqXrOiA8PZZlaGRmvlT639ew0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTI0/Mi0xMTY3MzkyNTE1/LmpwZWc.jpeg" alt="Cover for The Unsung Colony" style="max-width:120px; height:auto;" />
       </td>
@@ -743,7 +743,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/2XYAGwTZlUjB1mCs5UlzaLKco4FfIdOBoY3s4QK9QyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDg2/MjQtMTQyMDg4NzU0/Ni05OTg5LmpwZWc.jpeg" alt="Cover for Pour Away the Ocean" style="max-width:120px; height:auto;" />
       </td>
@@ -774,7 +774,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>2007</td>
@@ -833,24 +833,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>87</td>
-      <td>
-          <img src="https://i.discogs.com/LOHXxF14N-K9YzNe52mMxW9yRY5URdlJDgq-leDL86w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjQ4/NzgtMTM3OTkzOTE2/Ny05MTk2LmpwZWc.jpeg" alt="Cover for A Man Alive" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Thao </td>
-      <td>A Man Alive</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/F7Lp6kzwrySfdiArzPiQCmsrKGHuZX_MCeRnPif_Yqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkw/NzM4LTE1MDk2OTA4/NjUtMjUwMC5qcGVn.jpeg" alt="Cover for Pink In The Sink" style="max-width:120px; height:auto;" />
       </td>
@@ -874,7 +857,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/cfDIbUQpZErwBSy13-tN62ndEbAQ5Os8CBKvK8Y3fj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjQ4/Ny0xMTc1NTE1MDgy/LmpwZWc.jpeg" alt="Cover for Chapel Hill" style="max-width:120px; height:auto;" />
       </td>
@@ -899,7 +882,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/cKddnO4HYm1-hyZtiBOnDe6h_2zGFWybSYQfjgQiaeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODgy/NS0xMTgyNDQ1MTIx/LmpwZWc.jpeg" alt="Cover for A Long And Ugly Road (European edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -934,7 +917,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/nysi9L0DHMqSNb5rwzNvRJPiVGmwZ4pnSrubgltYv9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODgz/Ni0xMTgyNDQ1NzQ3/LmpwZWc.jpeg" alt="Cover for How the way is long..." style="max-width:120px; height:auto;" />
       </td>
@@ -960,7 +943,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2007-07-05</td>
@@ -1023,7 +1006,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/iOBDV52zyQoeCTk_r-ZOi7dNntggksMjiD49SgHtUQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODky/OTAwLTE2NDMxNzgx/OTMtMTMyOS5qcGVn.jpeg" alt="Cover for From a Window to a Wall" style="max-width:120px; height:auto;" />
       </td>
@@ -1042,7 +1025,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/qW_9TUueGCKSAn7zrHHoje-7fyFd4Ojf0GWlogU4_LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM3/ODQ1LTE2ODA1MzI2/MDktOTI1Ny5qcGVn.jpeg" alt="Cover for The Winged Life (European edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,7 +1068,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/5IKMA9q2eXznSyJFWCzuyowL6JFga1o1bYLEcvWGxp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIx/MTMtMTI4ODEyNjc2/OS5qcGVn.jpeg" alt="Cover for Transfiguration of Vincent" style="max-width:120px; height:auto;" />
       </td>
@@ -1150,7 +1133,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/uUxblfD3-fKQNcAi1_fDf_pYfn9MwaG1xSKB23AN3ZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzc4/NzQtMTIyNjg4NTc4/OS5qcGVn.jpeg" alt="Cover for EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1170,7 +1153,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2008-04-13</td>
@@ -1190,7 +1173,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>2008-07-25</td>
@@ -1209,7 +1192,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Folks Pop In at the Waterhouse" style="max-width:120px; height:auto;" />
       </td>
@@ -1235,7 +1218,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/1PmpclwH3zaz2qjsKgzNWryr3gBhjRCLUzUE0SvkujY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODM4/NzctMTI1NjczMzkw/OC5qcGVn.jpeg" alt="Cover for 2004-11-09: Philadelphia, PA, USA" style="max-width:120px; height:auto;" />
       </td>
@@ -1252,7 +1235,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/EUZWckDRC_DHNYD7QfaI1gIq3boZBXl-r9S6JYqedmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTY0/NzMtMTQ3MzMyODIz/MC05NDQ0LmpwZWc.jpeg" alt="Cover for The Ugly Army" style="max-width:120px; height:auto;" />
       </td>
@@ -1307,7 +1290,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/5vErm23l-PbjkPSTMToTskJDm9_KNmP4H-OwGp1TB5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTM1/MTAtMTQ5Mjg3Nzk5/Ny03MzQzLmpwZWc.jpeg" alt="Cover for Black Heart, Blue Eyes EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1324,7 +1307,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/1uiCqq5bKjIhrQH33NjA9ZcHDNjWusAnENjTXXsQtzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTc3/MzEtMTM2MTA1Mjg5/OS03MzE3LmpwZWc.jpeg" alt="Cover for Split Tongue Crow" style="max-width:120px; height:auto;" />
       </td>
@@ -1346,7 +1329,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/3f7EyZ1fV8EJ9jNyzeBXDMgyrLOwcnl01YB9sDT1OwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDc4/Nzc4LTE1OTIyMDg0/NjEtMTU4Mi5qcGVn.jpeg" alt="Cover for Hexagonal &#x2F; Diamond Springs" style="max-width:120px; height:auto;" />
       </td>
@@ -1365,7 +1348,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2010-08-21</td>
@@ -1387,7 +1370,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd8e892e46df4f30cf9756ac0e3d2b08.png" alt="Cover for Let Me Come Home" style="max-width:120px; height:auto;" />
       </td>
@@ -1405,7 +1388,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2010-12-02</td>
@@ -1434,7 +1417,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/QEF2q4BlEV_HCvflpzHRU4QfjXt7UjC2QLzgJ0V5FUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTYw/MTctMTM1OTg4MjY1/Ni05NzEwLmpwZWc.jpeg" alt="Cover for Lullaby For The Evil" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,7 +1447,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>2011-12-31</td>
@@ -1494,7 +1477,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/9NtXmVsTfrORzWPm0t3tLbfKiwuZUpEKAlUkIOph_Ok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTQ4/NTg2LTE2NTA3OTI3/ODYtNDA2NC5qcGVn.jpeg" alt="Cover for American Life Demos" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,7 +1502,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/1hwppRLchTSeTlBRClMzkqSoKXfj627YRWGEi1ZzIRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NzA3/MjMtMTUwNjA4NDg5/OC01OTI2LmpwZWc.jpeg" alt="Cover for Tiny Boxes" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,7 +1521,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/1hwppRLchTSeTlBRClMzkqSoKXfj627YRWGEi1ZzIRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NzA3/MjMtMTUwNjA4NDg5/OC01OTI2LmpwZWc.jpeg" alt="Cover for Values in Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -1557,7 +1540,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/LO-qy0kJLG23ep0wNXCXDuWWxfUQ5y_UTOrWbg49crM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA0/MTg4LTE1MDk5MTIz/MDAtOTYxNS5qcGVn.jpeg" alt="Cover for So Human of You" style="max-width:120px; height:auto;" />
       </td>
@@ -1576,7 +1559,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>2014-01-01</td>
@@ -1594,7 +1577,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/naDLJcqlHSh624GfdbfZyzPUbWoP1hGfWv7azn6_9zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjEz/OC0xMDg1ODU0MDM4/LmpwZw.jpeg" alt="Cover for Sleep Has Its house" style="max-width:120px; height:auto;" />
       </td>
@@ -1625,7 +1608,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2014-02-04</td>
@@ -1646,7 +1629,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>2014-04-26</td>
@@ -1665,7 +1648,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/798dvDUHOrDgdGSouvwUYiH5L5HfAfieWeVWyEk0i9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTUy/NzUtMTU1MTgxNDIz/OC03NDc0LmpwZWc.jpeg" alt="Cover for Over And Even" style="max-width:120px; height:auto;" />
       </td>
@@ -1686,7 +1669,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/INTrNEsHzKbbmfl1VtWV0bf1VlXNAQPGCNuqTlrIunU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzI5/MTk3LTE2MzkzNTE3/NDEtOTQxOS5qcGVn.jpeg" alt="Cover for Play One We All Know, Vol. II" style="max-width:120px; height:auto;" />
       </td>
@@ -1703,7 +1686,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/yI5Y-EKiUZ1DyuvP5dJ4z6NJYTDsHmW3QeJfFuYGAO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTIy/MTMtMTQ2MzEwNTkx/OC00OTM3LmpwZWc.jpeg" alt="Cover for 209" style="max-width:120px; height:auto;" />
       </td>
@@ -1726,7 +1709,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/3Ht_7ndDJf4vb2l1pPykpZBu_qYbFKKtycsJWPVH_Lk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTM2/NjAtMTQ3MTM1NTc0/Ny0yMjQwLmpwZWc.jpeg" alt="Cover for The Baby Panda" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,7 +1747,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64f503ca87ba199fb49e2a2e29ca4bf6.png" alt="Cover for The Visitor" style="max-width:120px; height:auto;" />
       </td>
@@ -1781,7 +1764,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/8xM-YyFNY7xQo0lT8XhJDQM5Sg0r8-Wr4Es1TRzmivs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzY1/NjE1LTE1MjE5OTgz/NDktOTM2OS5qcGVn.jpeg" alt="Cover for Captain Nowhere" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,7 +1785,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/XzmNxisPM-PmDJUSZrYxU2l_XsMNzV1nR1BGNdwcqW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MzE4LTE1NzYwMjg5/MjUtNzgzNy5qcGVn.jpeg" alt="Cover for Hazard &amp; Fate" style="max-width:120px; height:auto;" />
       </td>
@@ -1843,7 +1826,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/p7iZnu9MVpbmXVjQFtfI_hyWL6zL-PpDOn0HIUOOEdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU5/ODI1LTE1MDkxMDk2/MDUtMTUzMS5qcGVn.jpeg" alt="Cover for II. Providence" style="max-width:120px; height:auto;" />
       </td>
@@ -1885,7 +1868,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/8dXii0yc3tkukF_MMTIJ5lnET0dnnvJ9GrM4yHQ3UZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc5/NDgzLTE1NDE4MDY3/NzItNTMzMS5qcGVn.jpeg" alt="Cover for Varsovie" style="max-width:120px; height:auto;" />
       </td>
@@ -1905,7 +1888,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/yIhqOie687KjqJHrht9cKNO2gSJt2ydj-d-MUibuc2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQ3/MzY0LTE1NTYzOTE5/NjctOTA0NS5qcGVn.jpeg" alt="Cover for Drift Code" style="max-width:120px; height:auto;" />
       </td>
@@ -1925,7 +1908,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/5Nllo1Y8oSmOVF7XokNqxlxv09jIo-rujmzMpJh2S9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDc2/MTk1LTE2MTM2NjYy/ODQtNzgxNi5qcGVn.jpeg" alt="Cover for everything is on hold" style="max-width:120px; height:auto;" />
       </td>
@@ -1947,7 +1930,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/kiTVa__DFa5zW4y6a_f9vnUGJiuE4Sa3n9SSj2W7cKA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU0/MTM0LTE1NjY5Mjc3/NjEtNzc2NS5qcGVn.jpeg" alt="Cover for In Utopia" style="max-width:120px; height:auto;" />
       </td>
@@ -1965,7 +1948,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/I7eLg508ZdqEbDHbdPos7oJOy3DpcURSGJmTaLZspPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njc4/MjQ5LTE2Mjc2NDc1/NjgtOTEwMi5wbmc.jpeg" alt="Cover for Waterways" style="max-width:120px; height:auto;" />
       </td>
@@ -1991,7 +1974,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2020-01-19</td>
@@ -2011,7 +1994,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2020-02-10</td>
@@ -2031,7 +2014,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/ZuDDpUglGYrirj114yah-trnwmAsdNTCOx0SuU-fKqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDUx/NzE4LTE2MzczOTc1/NjQtNTY1OS5qcGVn.jpeg" alt="Cover for Echo Echo" style="max-width:120px; height:auto;" />
       </td>
@@ -2065,7 +2048,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/o_rCVO-_hadiCpa9COHxwk4cswo4_gApldYVNwiwPrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzEx/NDQxLTE2Mjc4OTcz/OTUtODkzNS5wbmc.jpeg" alt="Cover for Unearth" style="max-width:120px; height:auto;" />
       </td>
@@ -2091,7 +2074,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/RN_kGw091k9IEN3qyLgB27GVGhzdTvCFN9wJI2vMmsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzEx/NTgyLTE2Mjc5MTEx/MDctNDI2Mi5wbmc.jpeg" alt="Cover for A Dam on the Eve of Breaking" style="max-width:120px; height:auto;" />
       </td>
@@ -2117,7 +2100,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/iL0Q6EAYdPeeV5fW2wJOpoKdBN5FE5tL3SYDgXeasas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTQ1/ODQwLTE2MzgwNDQ5/MTEtNTM0OC5qcGVn.jpeg" alt="Cover for Reclamation" style="max-width:120px; height:auto;" />
       </td>
@@ -2136,7 +2119,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/2gcW4Ci2eWAyBirzrwNRS3QS2f_yxfa6jj8-0KCVy14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzYz/NjYxLTE2MTUzMDEz/MDUtNTI2OS5tcG8.jpeg" alt="Cover for The Falling" style="max-width:120px; height:auto;" />
       </td>
@@ -2165,7 +2148,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/hupvGE980g5YD-6Fu8uoSZN6ZEPYBPrPXZzvM4DuFgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzc2/MTE3LTE2MzU2Mjkz/OTEtNDczMS5qcGVn.jpeg" alt="Cover for The Wrath of the Clouds" style="max-width:120px; height:auto;" />
       </td>
@@ -2222,7 +2205,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/Rmib6X0TpI0TPCS--Uzz_hz1TjfLoPMEQD6gzDHk4Bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTI3/MTkxLTE2NTE3OTc2/MzEtMTgzOS5qcGVn.jpeg" alt="Cover for Play One We All Know" style="max-width:120px; height:auto;" />
       </td>
@@ -2241,7 +2224,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/Rmib6X0TpI0TPCS--Uzz_hz1TjfLoPMEQD6gzDHk4Bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTI3/MTkxLTE2NTE3OTc2/MzEtMTgzOS5qcGVn.jpeg" alt="Cover for One + One" style="max-width:120px; height:auto;" />
       </td>
@@ -2289,7 +2272,33 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Cinthya Morado</td>
+      <td>Pozole de Nada</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -2307,7 +2316,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -2326,7 +2335,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -2343,7 +2352,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f137ca30fed320466ffe9ddb634f0a8f.png" alt="Cover for Imperfect Songs From Him To Her" style="max-width:120px; height:auto;" />
       </td>
@@ -2362,7 +2371,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td></td>
@@ -2383,7 +2392,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -2404,7 +2413,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td></td>
@@ -2427,7 +2436,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td></td>
@@ -2449,7 +2458,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td></td>
@@ -2469,7 +2478,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e87f8a2698daedf91cbd4c5d2e76c117.png" alt="Cover for 3rd Secret" style="max-width:120px; height:auto;" />
       </td>
@@ -2488,7 +2497,7 @@ Alternative folk blends traditional folk instrumentation with experimental, indi
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>

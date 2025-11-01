@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-26T17:18:19.074Z
+date: 2025-11-01T03:06:50.959Z
 permalink: tags/goth-rock
 title: goth rock
 ---
 
 ## goth rock
 
-Last updated: <time datetime="2025-10-26T17:18:19.074Z">Sun Oct 26 2025 19:18:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-01T03:06:50.959Z">Sat Nov 01 2025 05:06:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -143,7 +143,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/kZcj06k-fhpmCbYiF5jwz4s34CJHOrKXb7vk4LKQpIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk4/NzYtMTMzNzAxNjQ5/My0zMDExLmpwZWc.jpeg" alt="Cover for Song and Legend" style="max-width:120px; height:auto;" />
       </td>
@@ -273,7 +273,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>1985-03</td>
@@ -408,7 +408,27 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9dc22de0a38c22d935c6e8922a7947f.png" alt="Cover for The Light At The End Of The Tunnel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987-11-30</td>
+      <td>The Damned</td>
+      <td>The Light At The End Of The Tunnel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 12</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/pSAiGTBBmcKniXZoI6IuN03B6LmPP-4_GIwDApv5rpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTA4/Mi0xMzY3MDk5OTcw/LTQwNzQuanBlZw.jpeg" alt="Cover for Dancing to Restore an Eclipsed Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -445,7 +465,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>1988-10</td>
@@ -666,7 +686,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/Fkv1iFB87sAIXGtU02mU17b_Jfv5oQ8pv5N-DgfH_jU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTM2/OC0xMzk3MjY3OTk1/LTI3MTYuanBlZw.jpeg" alt="Cover for Blood Flowers" style="max-width:120px; height:auto;" />
       </td>
@@ -687,7 +707,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>1993</td>
@@ -725,7 +745,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>1994</td>
@@ -1014,7 +1034,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/isGg2BWxzawPLvG_tJDAHORqRTPEQS1pwtiGyb5CkPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjgz/MC0xNjIwODAwODUz/LTgxMjguanBlZw.jpeg" alt="Cover for 2000 - Bloodflowers" style="max-width:120px; height:auto;" />
       </td>
@@ -1035,7 +1055,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/yg6zAqVIQyAuLCQarcU0g2wjPwarbSGQ1GSi082FVJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUy/NzctMTE5NzQ5MzAz/Mi5qcGVn.jpeg" alt="Cover for Primitive Attentions" style="max-width:120px; height:auto;" />
       </td>
@@ -1072,25 +1092,6 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 10</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51f319b98baba293399d4f1e4d39f6e2.png" alt="Cover for Molten Lager" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999-12-13</td>
-      <td>The Damned</td>
-      <td>Molten Lager</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1227,7 +1228,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/9Fx5Nvio6JeRfig6_hWy02hYKnb1o_wjY2lc27EspiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTc1/NjQtMTQyNDQ0MTA5/Mi04MzE5LmpwZWc.jpeg" alt="Cover for Static Crash" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,7 +1620,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/fv1ZbgAnnTlPYnO6ovJ02VkfDaUZKkVPxISzHGHRMvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTkz/ODgtMTM5MTQzNzY3/Ni0yNzg5LmpwZWc.jpeg" alt="Cover for Scavenger" style="max-width:120px; height:auto;" />
       </td>
@@ -1694,7 +1695,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/LXKO2DeOzmpX9Pfqy-NY2kVjQ4SFYFDynoginJvkW3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEy/ODEtMTMwMjEyMzM1/NS5qcGVn.jpeg" alt="Cover for IIIrd Incarnation" style="max-width:120px; height:auto;" />
       </td>
@@ -1959,7 +1960,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/uo5UrQWS2gcTzit8Rw9dJBlJn8RtZyuZdTOROfEW0JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzky/NjgtMTI5NjUxMjc5/Mi5qcGVn.jpeg" alt="Cover for T.S.O.L.&#x2F;Weathered Statues" style="max-width:120px; height:auto;" />
       </td>
@@ -1981,7 +1982,7 @@ Goth rock emerged from post-punk in the late 1970s, blending dark, atmospheric g
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/U-liyrTVvZI-4Cw0RuV4mDmZ6HjWkk1IYyr0ovRrTh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTIy/MzctMTI4MjcxOTI5/Ni5qcGVn.jpeg" alt="Cover for Aynalar" style="max-width:120px; height:auto;" />
       </td>

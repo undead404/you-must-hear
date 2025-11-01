@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T21:48:39.577Z
+date: 2025-11-01T02:41:13.547Z
 permalink: tags/classical-violin
 title: classical violin
 ---
 
 ## classical violin
 
-Last updated: <time datetime="2025-10-29T21:48:39.577Z">Wed Oct 29 2025 23:48:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-01T02:41:13.547Z">Sat Nov 01 2025 04:41:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,6 +24,7 @@ Classical violin music refers to music composed for and played on the violin in 
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
@@ -42,9 +43,13 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harp" | relative_url }}">harp</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/T1Q7ZY2KhrwZ0FMxa-IAPSWL1mF-bT64lmt7H2xnKjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTkw/OTktMTU3ODI3NDUx/MC00ODU4LmpwZWc.jpeg" alt="Cover for a paganini" style="max-width:120px; height:auto;" />
       </td>
@@ -54,6 +59,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -71,6 +80,10 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>9</td>
@@ -80,6 +93,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>1967</td>
       <td>Giuseppe Torelli</td>
       <td>L&#39;Arte del Violino in Italia, c. 1650-1700</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -97,18 +114,8 @@ Classical violin music refers to music composed for and played on the violin in 
         <ul>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>70</td>
-      <td>
-          <img src="https://i.discogs.com/Cwgyg0jO-Wwdw5JwuM1fNRs0BgI9jjDqWuvKpD3qrPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/NjY5LTE1MTEwMTg2/OTktODkzNS5qcGVn.jpeg" alt="Cover for Bruch&#x2F;Vieuxtemps: Concertos" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1972</td>
-      <td>Jascha Heifetz;Sir Malcolm Sargent</td>
-      <td>Bruch&#x2F;Vieuxtemps: Concertos</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
     </tr>
@@ -127,6 +134,29 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/potpourri" | relative_url }}">potpourri</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/potpourri" | relative_url }}">potpourri</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/Cwgyg0jO-Wwdw5JwuM1fNRs0BgI9jjDqWuvKpD3qrPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/NjY5LTE1MTEwMTg2/OTktODkzNS5qcGVn.jpeg" alt="Cover for Bruch&#x2F;Vieuxtemps: Concertos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Jascha Heifetz;Sir Malcolm Sargent</td>
+      <td>Bruch&#x2F;Vieuxtemps: Concertos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>20</td>
@@ -135,6 +165,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>1972</td>
       <td>Wolfgang Amadeus Mozart</td>
       <td>Violin Concertos Nos. 1-3 &#x2F; Rondo KV 373 (Berlin Philharmonic Orchestra feat. conductor, violin: David Oistrakh)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -153,6 +187,10 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>12</td>
@@ -165,6 +203,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -180,15 +222,6 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/3gxz_teqaiaW-aevZKbSmkil34m2dHfaikyKTZJ-Plk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzU1/ODQtMTMzNTg5MDQ3/NS5qcGVn.jpeg" alt="Cover for Violin Recital of Smetana, Dvořák, Janáček, Martinů, Ševčík" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1982</td>
-      <td>Bohuslav Martinů</td>
-      <td>Violin Recital of Smetana, Dvořák, Janáček, Martinů, Ševčík</td>
       <td>
         <ul>
         </ul>
@@ -206,19 +239,8 @@ Classical violin music refers to music composed for and played on the violin in 
         <ul>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-          <img src="https://i.discogs.com/_wbWLDFLohAR1X03fl5jNOdR-AwsERq-qWisC9h_7Cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzUz/OTgtMTM1MTEwMTE4/MC0yNzE5LmpwZWc.jpeg" alt="Cover for Grażyna Bacewicz" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1988</td>
-      <td>Grażyna Bacewicz</td>
-      <td>Grażyna Bacewicz</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
         </ul>
       </td>
     </tr>
@@ -234,6 +256,30 @@ Classical violin music refers to music composed for and played on the violin in 
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/_wbWLDFLohAR1X03fl5jNOdR-AwsERq-qWisC9h_7Cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzUz/OTgtMTM1MTEwMTE4/MC0yNzE5LmpwZWc.jpeg" alt="Cover for Grażyna Bacewicz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Grażyna Bacewicz</td>
+      <td>Grażyna Bacewicz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>98</td>
@@ -243,6 +289,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>1989</td>
       <td>Philip Glass</td>
       <td>Spheres - Einaudi, Glass, Nyman, Pärt, Richter</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -263,6 +313,11 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 31</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>29</td>
@@ -271,6 +326,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>1991-05</td>
       <td>Wolfgang Amadeus Mozart</td>
       <td>Complete Mozart Edition, Volume 15: Violin Sonatas</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -291,6 +350,11 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 52</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>17</td>
@@ -309,6 +373,11 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 9</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>66</td>
@@ -321,6 +390,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -338,6 +411,10 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>80</td>
@@ -350,6 +427,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -365,18 +446,8 @@ Classical violin music refers to music composed for and played on the violin in 
         <ul>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>45</td>
-      <td>
-          <img src="https://i.discogs.com/GnGm84AOTycphHLPT6bl1zywVL27xR9sBHIOeyKCON8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzA1/NzkyLTE1MjA5NzE4/MzQtOTI4NS5qcGVn.jpeg" alt="Cover for My Violin Legends" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Pavel Šporcl</td>
-      <td>My Violin Legends</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
     </tr>
@@ -397,6 +468,31 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 8</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 42</li>
+            <li> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/GnGm84AOTycphHLPT6bl1zywVL27xR9sBHIOeyKCON8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzA1/NzkyLTE1MjA5NzE4/MzQtOTI4NS5qcGVn.jpeg" alt="Cover for My Violin Legends" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Pavel Šporcl</td>
+      <td>My Violin Legends</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>54</td>
@@ -413,6 +509,10 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>87</td>
@@ -422,6 +522,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>1999</td>
       <td>Elena Kats-Chernin</td>
       <td>Spheres - Einaudi, Glass, Nyman, Pärt, Richter</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -443,6 +547,29 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/U6OVrUYEuGr4yFwYQgjP4GM1KqV8w8J3w6zorU0mApM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTU5/NjMyLTE2MjY3ODM3/NTQtNTk2MC5qcGVn.jpeg" alt="Cover for Mendelssohn: Violin Concerto in D Minor - Tchaikovsky: Serenade in C Major" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Felix Mendelssohn</td>
+      <td>Mendelssohn: Violin Concerto in D Minor - Tchaikovsky: Serenade in C Major</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>13</td>
@@ -454,6 +581,29 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>Violin Concerto in Bm, Op 61</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/xEuRg7veSk0kWotSZBKt8xGw-sLf41m8I64g8GaO4Nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY3/MDY3LTE2NTQ3OTMz/NzctOTAzOC5qcGVn.jpeg" alt="Cover for L&#39;Arte del Violino in Italia, c. 1650-1700" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Giovanni Maria Bononcini</td>
+      <td>L&#39;Arte del Violino in Italia, c. 1650-1700</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 13</li>
+            <li> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -471,6 +621,10 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>16</td>
@@ -483,6 +637,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -499,15 +657,6 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>
-          <img src="https://i.discogs.com/xEuRg7veSk0kWotSZBKt8xGw-sLf41m8I64g8GaO4Nc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY3/MDY3LTE2NTQ3OTMz/NzctOTAzOC5qcGVn.jpeg" alt="Cover for L&#39;Arte del Violino in Italia, c. 1650-1700" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Giovanni Maria Bononcini</td>
-      <td>L&#39;Arte del Violino in Italia, c. 1650-1700</td>
       <td>
         <ul>
         </ul>
@@ -527,15 +676,23 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/UutEqPIb25ILR3JqmzbdR9O5VN2-7lxM_MmqmMZWCug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI5/ODkzLTE1NDg1OTY1/ODYtMTY5Ni5qcGVn.jpeg" alt="Cover for Raff: Violin and Piano Works, Vol. 4 - Violin Sonatas No. 4 and 5" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Joachim Raff</td>
       <td>Raff: Violin and Piano Works, Vol. 4 - Violin Sonatas No. 4 and 5</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -555,6 +712,10 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>37</td>
@@ -568,6 +729,10 @@ Classical violin music refers to music composed for and played on the violin in 
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>97</td>
@@ -577,6 +742,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>2006</td>
       <td>Lera Auerbach</td>
       <td>Spheres - Einaudi, Glass, Nyman, Pärt, Richter</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -596,6 +765,10 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>81</td>
@@ -608,6 +781,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -623,9 +800,13 @@ Classical violin music refers to music composed for and played on the violin in 
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/1F8nx1arrW-Why9SCUm6MyOLDM_LICObmYSc_tH_STc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM1/MjMzLTE2MDk3MDY5/OTMtMjM2OS5qcGVn.jpeg" alt="Cover for Sonate Violon Piano-Quintette" style="max-width:120px; height:auto;" />
       </td>
@@ -636,6 +817,10 @@ Classical violin music refers to music composed for and played on the violin in 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -651,6 +836,10 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>51</td>
@@ -664,19 +853,8 @@ Classical violin music refers to music composed for and played on the violin in 
         <ul>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-          <img src="https://i.discogs.com/NabYOm5x3bpIoNpXkG_mPC5Mh20LICFnho83AQSOTCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTg3/MzUtMTM1MTg2MDM1/OS0zNTAwLmpwZWc.jpeg" alt="Cover for Kiss on Wood" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Maria Bachmann</td>
-      <td>Kiss on Wood</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
     </tr>
@@ -694,6 +872,30 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/NabYOm5x3bpIoNpXkG_mPC5Mh20LICFnho83AQSOTCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTg3/MzUtMTM1MTg2MDM1/OS0zNTAwLmpwZWc.jpeg" alt="Cover for Kiss on Wood" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Maria Bachmann</td>
+      <td>Kiss on Wood</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>55</td>
@@ -707,6 +909,10 @@ Classical violin music refers to music composed for and played on the violin in 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -723,6 +929,10 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>86</td>
@@ -737,6 +947,10 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>42</td>
@@ -746,6 +960,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>2010</td>
       <td>Joachim Raff</td>
       <td>Raff, J.: Sonatillen &#x2F; 6 Morceaux (Neftel, Van)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -764,6 +982,10 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>3</td>
@@ -773,6 +995,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>2011</td>
       <td>Holland Baroque Society, Miloš Valent</td>
       <td>Telemann: Barbaric Beauty 18th Century Dance Transcriptions</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -791,6 +1017,10 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>63</td>
@@ -806,6 +1036,11 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 61</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>88</td>
@@ -819,6 +1054,10 @@ Classical violin music refers to music composed for and played on the violin in 
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>75</td>
@@ -828,6 +1067,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>2012-03-23</td>
       <td>Anne Akiko Meyers, English Chamber Orchestra &amp; Steven Mercurio</td>
       <td>Air - The Bach Album</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -847,6 +1090,10 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>95</td>
@@ -861,6 +1108,10 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>44</td>
@@ -870,6 +1121,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>2013</td>
       <td>Itzhak Perlman</td>
       <td>Elgar: Violin Concerto, Op.61 &#x2F; Chausson: Poème, Op.25</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -890,6 +1145,11 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 28</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>78</td>
@@ -903,6 +1163,10 @@ Classical violin music refers to music composed for and played on the violin in 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -921,6 +1185,11 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viola" | relative_url }}">viola</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 91</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>92</td>
@@ -930,6 +1199,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>2014-08-07</td>
       <td>Alex Baranowski</td>
       <td>Spheres - Einaudi, Glass, Nyman, Pärt, Richter</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -948,6 +1221,10 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>30</td>
@@ -964,6 +1241,10 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>26</td>
@@ -976,6 +1257,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -994,6 +1279,11 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 19</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>22</td>
@@ -1007,6 +1297,10 @@ Classical violin music refers to music composed for and played on the violin in 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
             <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1025,6 +1319,10 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>31</td>
@@ -1034,6 +1332,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>2022-04-22</td>
       <td>Josef Spacek</td>
       <td>Josef Špaček - violin, Miroslav Sekera - piano &#x2F; Janáček, Smetana, Prokofiev</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1053,86 +1355,8 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Pawet Szymanski</td>
-      <td>Polish Violin Duos</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Piotr Drozdzewski</td>
-      <td>Polish Violin Duos</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Leopold Wallner</td>
-      <td>Leopold Wallner: 1847-1913</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harp" | relative_url }}">harp</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Eije Oue</td>
-      <td>Paganini &#x2F; Spohr: Violin Concertos</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Various Artists [Artist]</td>
-      <td>50 Essential Violin</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Patricia Kopatchinskaja&#x2F;Anja Lechner</td>
-      <td>Quasi parlando</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
         </ul>
       </td>
     </tr>
@@ -1147,6 +1371,11 @@ Classical violin music refers to music composed for and played on the violin in 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1164,46 +1393,9 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>52</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Ernest Lush</td>
-      <td>Ruggiero Ricci Virtuoso Showpieces</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>57</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Michael Rabin</td>
-      <td>Violin Classics</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Traditional</td>
-      <td>The Image of Melancholy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1221,71 +1413,9 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>61</td>
-      <td>
-      </td>
-      <td></td>
-      <td>The Stradivarius Project</td>
-      <td>Highlights for Violin</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Eije Oue</td>
-      <td>Paganini &#x2F; Spohr: Violin Concertos incld. Listening Guide</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Swedish Radio Symphony Orchestra</td>
-      <td>Paganini &#x2F; Spohr: Violin Concertos incld. Listening Guide</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Swedish Radio Symphony Orchestra</td>
-      <td>Paganini &#x2F; Spohr: Violin Concertos</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Josef Suk</td>
-      <td>Dvořák &amp; Suk: Violin Works</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1300,6 +1430,12 @@ Classical violin music refers to music composed for and played on the violin in 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 66</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1320,6 +1456,12 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 80</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 88</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>84</td>
@@ -1331,7 +1473,15 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 35</li>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 40</li>
+            <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 90</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1345,9 +1495,15 @@ Classical violin music refers to music composed for and played on the violin in 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 28</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1366,6 +1522,259 @@ Classical violin music refers to music composed for and played on the violin in 
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 61</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Pawet Szymanski</td>
+      <td>Polish Violin Duos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Piotr Drozdzewski</td>
+      <td>Polish Violin Duos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Leopold Wallner</td>
+      <td>Leopold Wallner: 1847-1913</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harp" | relative_url }}">harp</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Eije Oue</td>
+      <td>Paganini &#x2F; Spohr: Violin Concertos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Various Artists [Artist]</td>
+      <td>50 Essential Violin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Patricia Kopatchinskaja&#x2F;Anja Lechner</td>
+      <td>Quasi parlando</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ernest Lush</td>
+      <td>Ruggiero Ricci Virtuoso Showpieces</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Michael Rabin</td>
+      <td>Violin Classics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Traditional</td>
+      <td>The Image of Melancholy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Stradivarius Project</td>
+      <td>Highlights for Violin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Eije Oue</td>
+      <td>Paganini &#x2F; Spohr: Violin Concertos incld. Listening Guide</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Swedish Radio Symphony Orchestra</td>
+      <td>Paganini &#x2F; Spohr: Violin Concertos incld. Listening Guide</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Swedish Radio Symphony Orchestra</td>
+      <td>Paganini &#x2F; Spohr: Violin Concertos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Josef Suk</td>
+      <td>Dvořák &amp; Suk: Violin Works</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>2</td>
@@ -1374,6 +1783,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td></td>
       <td>Luca Fanfoni, Monica Fini</td>
       <td>Nathan Milstein, Edvard Grieg, Maurice Ravel and Astor Piazzolla</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1390,6 +1803,10 @@ Classical violin music refers to music composed for and played on the violin in 
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>36</td>
@@ -1398,6 +1815,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td></td>
       <td>Renato Donà, Aldo Ciccolini</td>
       <td>César Franck, Claude Debussy, Maurice Ravel: Sonatas for Violin and Piano</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1414,6 +1835,10 @@ Classical violin music refers to music composed for and played on the violin in 
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>49</td>
@@ -1426,6 +1851,10 @@ Classical violin music refers to music composed for and played on the violin in 
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>50</td>
@@ -1434,6 +1863,10 @@ Classical violin music refers to music composed for and played on the violin in 
       <td></td>
       <td>David Oistrakh</td>
       <td>Oistrakh plays Mozart, Beethoven and Shostakovich</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>

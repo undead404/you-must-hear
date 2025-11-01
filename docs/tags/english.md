@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T22:24:00.726Z
+date: 2025-11-01T03:00:51.017Z
 permalink: tags/english
 title: english
 ---
 
 ## english
 
-Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-01T03:00:51.017Z">Sat Nov 01 2025 05:00:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,6 +24,7 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
@@ -41,20 +42,8 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/sqcDpohME6OvjEAkvx6EtQwkjUmF-C2CNi4wQ-xcp54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDQ4/MDctMTMxNTMwMDI0/Ny5qcGVn.jpeg" alt="Cover for Chelsea" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1970</td>
-      <td>Chelsea</td>
-      <td>Chelsea</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
         </ul>
       </td>
     </tr>
@@ -69,6 +58,11 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -86,6 +80,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>21</td>
@@ -101,6 +99,13 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 13</li>
+            <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 25</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 72</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>84</td>
@@ -114,6 +119,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -135,6 +144,13 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 48</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 60</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 94</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>98</td>
@@ -148,6 +164,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -164,6 +184,11 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -183,6 +208,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>29</td>
@@ -195,6 +224,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -218,6 +251,11 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 55</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>60</td>
@@ -235,6 +273,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>14</td>
@@ -247,6 +289,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -264,9 +310,13 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1484cbdafb649a5900bcdf5be4a89df.png" alt="Cover for a saucerful of secrets (2011 remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -279,6 +329,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -297,6 +351,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>70</td>
@@ -307,22 +365,30 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
       <td>Se Eu Não Te Amasse Tanto Assim</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 11</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 37</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 68</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -339,6 +405,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -359,6 +429,12 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 11</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 85</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>55</td>
@@ -372,6 +448,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -389,6 +469,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>28</td>
@@ -402,6 +486,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -418,6 +506,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -449,6 +541,11 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 78</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>61</td>
@@ -464,9 +561,14 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 78</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/elx6D5iW2h7gNez-3sKSXx65ULORlR-6Mb5x0ueB2w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjEz/My0xMTMxODEyMTE0/LmpwZWc.jpeg" alt="Cover for A Great Day For The Race" style="max-width:120px; height:auto;" />
       </td>
@@ -483,6 +585,13 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 23</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 39</li>
+            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 88</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>10</td>
@@ -497,6 +606,12 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 35</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -517,6 +632,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>35</td>
@@ -528,6 +647,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -552,6 +675,11 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 91</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>41</td>
@@ -565,6 +693,11 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -597,6 +730,12 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 3</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 84</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>25</td>
@@ -613,19 +752,8 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-          <img src="https://i.discogs.com/9svmgh7D1dF2KTRz2JCZ3Mo_1r9bYYr7N12Puom3Tlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDAy/MzQ5LTE1OTA5NDU2/MTgtNzc5NS5qcGVn.jpeg" alt="Cover for Damage (UK edition)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Kosheen</td>
-      <td>Damage (UK edition)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
         </ul>
       </td>
     </tr>
@@ -650,18 +778,9 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>
-          <img src="https://i.discogs.com/6XIe2yOeOw_xVcW7YJihN5Rpx27HMF9g0eh2XGdekVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ1/OTAtMTM0NzIyMjU4/Ny04OTQ2LmpwZWc.jpeg" alt="Cover for File Under WOLVES [ep]" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Bolt Action Five</td>
-      <td>File Under WOLVES [ep]</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -680,6 +799,48 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/9svmgh7D1dF2KTRz2JCZ3Mo_1r9bYYr7N12Puom3Tlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDAy/MzQ5LTE1OTA5NDU2/MTgtNzc5NS5qcGVn.jpeg" alt="Cover for Damage (UK edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Kosheen</td>
+      <td>Damage (UK edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/6XIe2yOeOw_xVcW7YJihN5Rpx27HMF9g0eh2XGdekVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ1/OTAtMTM0NzIyMjU4/Ny04OTQ2LmpwZWc.jpeg" alt="Cover for File Under WOLVES [ep]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Bolt Action Five</td>
+      <td>File Under WOLVES [ep]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>36</td>
@@ -692,6 +853,30 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/KRThvhBu2GWoCfpeaHgzoIr47uQY1uD-1HxfQtm3eQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTcy/NTAtMTIzODg4MjMx/OS5qcGVn.jpeg" alt="Cover for 8 Bit Heart" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-01-01</td>
+      <td>Leeni</td>
+      <td>8 Bit Heart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -712,6 +897,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>12</td>
@@ -727,6 +916,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>53</td>
@@ -739,9 +932,13 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/mFtz6EWrv1Z-cw8dJu9pVDz1hamR8mbQGKpExo__wQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NTctMTE4NTc1NTUw/Ny5qcGVn.jpeg" alt="Cover for Truth is Stranger" style="max-width:120px; height:auto;" />
       </td>
@@ -766,9 +963,21 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 35</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 74</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 76</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 76</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 82</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 87</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 88</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 96</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2007-10-01</td>
@@ -785,9 +994,14 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 40</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30148134a2d6a1d06f8e3a5ef5d39874.png" alt="Cover for Multishow Registro Ivete - Pode Entrar" style="max-width:120px; height:auto;" />
       </td>
@@ -798,6 +1012,11 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -836,6 +1055,21 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 7</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 10</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 40</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 47</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 53</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 68</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 83</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 96</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 98</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 98</li>
+            <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>51</td>
@@ -848,6 +1082,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -866,6 +1104,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>86</td>
@@ -877,15 +1119,33 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 38</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 50</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 88</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 88</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 92</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 94</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 94</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 97</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 98</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 99</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 99</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 99</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -906,6 +1166,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>26</td>
@@ -920,9 +1184,13 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/BAH2djGANFLNIRbzcx3hYfMJQoeWgsjX0yvSpu_mld4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzAw/NzItMTQyMTM0MzMz/OC0yMjk4LmpwZWc.jpeg" alt="Cover for Someone Loves You" style="max-width:120px; height:auto;" />
       </td>
@@ -933,6 +1201,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -950,6 +1222,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>40</td>
@@ -965,9 +1241,13 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/mAzBygXbFks06S31TiyARbAho5eVtKh7ycQCuS9K-Ic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzUz/NDUtMTMxNDU0NDA4/NC5qcGVn.jpeg" alt="Cover for Amalgamation" style="max-width:120px; height:auto;" />
       </td>
@@ -977,6 +1257,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -994,6 +1278,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>39</td>
@@ -1007,6 +1295,11 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1025,6 +1318,11 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american-idol" | relative_url }}">american idol</a> # 89</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>31</td>
@@ -1037,6 +1335,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1073,6 +1375,11 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 7</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>54</td>
@@ -1086,6 +1393,11 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1108,6 +1420,15 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 61</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 92</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 96</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 96</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 97</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>37</td>
@@ -1120,6 +1441,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1135,6 +1460,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1160,6 +1489,17 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 54</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 67</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 83</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 98</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 100</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 100</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>58</td>
@@ -1175,6 +1515,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1194,6 +1538,12 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 40</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 95</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>50</td>
@@ -1207,6 +1557,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1226,6 +1580,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>69</td>
@@ -1241,6 +1599,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1259,6 +1621,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>47</td>
@@ -1274,6 +1640,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>45</td>
@@ -1286,6 +1656,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1307,6 +1681,15 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 48</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 74</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 83</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 94</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>38</td>
@@ -1325,6 +1708,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>52</td>
@@ -1338,6 +1725,11 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1357,6 +1749,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>97</td>
@@ -1369,6 +1765,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1386,6 +1786,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>76</td>
@@ -1398,6 +1802,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1414,6 +1822,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>88</td>
@@ -1423,6 +1835,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
       <td>2022-05-02</td>
       <td>LE SSERAFIM</td>
       <td>Eve, Psyche &amp; the Bluebeard’s wife (feat. UPSAHL)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1440,6 +1856,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>95</td>
@@ -1449,6 +1869,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
       <td>2022-05-02</td>
       <td>LE SSERAFIM</td>
       <td>Eve, Psyche &amp; The Bluebeard’s wife (Rina Sawayama Remix)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1467,6 +1891,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>15</td>
@@ -1479,6 +1907,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1496,6 +1928,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>94</td>
@@ -1508,6 +1944,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1524,6 +1964,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>100</td>
@@ -1536,6 +1980,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1553,6 +2001,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>75</td>
@@ -1565,6 +2017,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1581,6 +2037,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>65</td>
@@ -1593,6 +2053,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1613,6 +2077,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>59</td>
@@ -1629,6 +2097,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>20</td>
@@ -1642,6 +2114,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1661,6 +2137,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>80</td>
@@ -1672,6 +2152,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1687,6 +2171,10 @@ Last updated: <time datetime="2025-10-29T22:24:00.726Z">Thu Oct 30 2025 00:24:00
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
