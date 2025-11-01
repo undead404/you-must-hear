@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T16:06:34.450Z
+date: 2025-10-31T20:56:50.977Z
 permalink: tags/acoustic-rock
 title: acoustic rock
 ---
 
 ## acoustic rock
 
-Last updated: <time datetime="2025-10-28T16:06:34.450Z">Tue Oct 28 2025 18:06:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-31T20:56:50.977Z">Fri Oct 31 2025 22:56:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -15,108 +15,2092 @@ Acoustic rock strips away electric instrumentation to emphasize organic sounds l
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 35 |  | 1989 | Blues Saraceno | Never Look Back |
-| 7 |  | 1993 | Toad The Wet Sprocket | Welcome Home: Live At The Arlington Theatre, Santa Barbara 1992 |
-| 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5334f836e8e84d72cd41a31b295c89e1.png) | 1993 | Scorpions | MTV Unplugged (The Studio Edits) |
-| 59 | ![Cover](https://i.discogs.com/ywq5-mPQoMBnsXU2m12NCG8pVXBikM8Etqxw3fqkJWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTEy/NjQtMTQzOTgyOTAx/NS00NzMyLmpwZWc.jpeg) | 1993-10-12 | BoDeans | Go Slow Down |
-| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b66bc5eeefde46398746969ffebb09d4.png) | 1994 | Deep Blue Something | Home |
-| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/75aa4f8d0bb7907bbf700c7693ef32b5.png) | 1994-08-15 | The Jesus and Mary Chain | Stoned &amp; Dethroned |
-| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8e4304de63b44d6ca8f9d3df2576ac8f.png) | 1994-10-31 | Nirvana | MTV Unplugged in New York |
-| 9 | ![Cover](https://i.discogs.com/oFexyZplvpefqo9zKVoRQz7lPZ_CLxRdcXML92OYqyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDMx/NTktMTMyNjYxNzky/MC5qcGVn.jpeg) | 1996 | Better Than Ezra | Better Than Ezra: Greatest Hits |
-| 89 | ![Cover](https://i.discogs.com/wKAVcYqVFwY1eoaF9mG8GSKL2w7R6LktPirfZt0ukn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc1/NjU2LTE0OTgyMTU5/NDEtMTQ3My5qcGVn.jpeg) | 1996 | Better Than Ezra | Rhino Hi-Five: Better Than Ezra |
-| 13 | ![Cover](https://i.discogs.com/htEbBHKUxsZIltZIUv73Y0ABCoBIstSxQndSvziMUCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTc0/NDctMTQ4MjcyNjk3/MS05NzAwLmpwZWc.jpeg) | 1997 | Seven Mary Three | Backbooth |
-| 66 |  | 1997-06-03 | Days of the New | Days Of The New |
-| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4df158f5dcfc4ef1ceab4dca59da0eff.png) | 1997-06-03 | Seven Mary Three | Rock Crown |
-| 19 | ![Cover](https://i.discogs.com/tEcdX8JB8wTQX-hhJTaW7ke-2i04KnMisMmoLkAUJtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDEw/MzItMTI5MDcxNDkz/Ny5qcGVn.jpeg) | 1999 | Toad The Wet Sprocket | Playlist: The Very Best Of Toad The Wet Sprocket |
-| 92 | ![Cover](https://i.discogs.com/jo0zgIzC13s4rTYFLKFY008HUPf0EDoeUs-D6eXXYJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjUy/NS0xMTE0NjE5OTQx/LmpwZw.jpeg) | 1999-11-22 | Jim O&#39;Rourke | Halfway to a Threeway |
-| 91 |  | 2000 | Lulu Santos | Lulu Acústico |
-| 27 | ![Cover](https://i.discogs.com/9xYrsNIYOqYhzJbNr2MzXwXTH_fg20uxeXcwppMj2Hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzY3/MTUtMTQwNDEzODMz/OC00MDc3LmpwZWc.jpeg) | 2001 | Dashboard Confessional | Here&#39;s To Moving On |
-| 44 | ![Cover](https://i.discogs.com/GwPXy8K97QrQ2y914gGNbSrOMek2gb1jxO_LUAdzdpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTAz/NS0xMjUyMDQ1OTM2/LmpwZWc.jpeg) | 2001 | Scott Kelly | Spirit Bound Flesh |
-| 82 | ![Cover](https://i.discogs.com/eyt1TXGe6XC64pNscxzIoNHC6kct8E91Jdd8fTO5zxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODky/MDU0LTE1MjQyMzg4/MjAtNjU0OC5qcGVn.jpeg) | 2001-05-22 | Matt Wertz | Somedays |
-| 43 | ![Cover](https://i.discogs.com/8TUpofctljKt-SY-8YUwHK1ZxmXZ_cqqjc7dl2zewOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTI1/MjQtMTY0MTM0NjQ4/Mi05NzkyLmpwZWc.jpeg) | 2002 | Dashboard Confessional | MTV Unplugged |
-| 95 | ![Cover](https://i.discogs.com/F76u2GpdIbzhhT7CO2bgEZ5z5L5RabPP2SnqgUpyhKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzAw/NDU4LTE2MDY4NDk0/NjAtMjc5My5qcGVn.jpeg) | 2002-07-22 | DØVES | acoustic ep |
-| 69 |  | 2003 | Leoni | Áudio-Retrato |
-| 55 |  | 2003-05-06 | Jack Johnson | On and On |
-| 98 |  | 2003-07-18 | Pete Murray | Feeler |
-| 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2c7a7af373964b8acbdbd09085ad0063.png) | 2003-08-11 | Dashboard Confessional | A Mark, A Mission, A Brand, A Scar |
-| 32 | ![Cover](https://i.discogs.com/Q3TYdLZuFaF2BwhwL4cwLdUlLEwEXeUyVXh7qPnWQ_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjQ0/MzAtMTM2MDEwODI4/MC02MTAzLmpwZWc.jpeg) | 2003-10-22 | Paul Gilbert | Acoustic Samurai |
-| 2 |  | 2004 | Ступени | Само собой |
-| 47 |  | 2004-03-01 | Miossec | 1964 |
-| 65 |  | 2004-05-11 | Donavon Frankenreiter | Donavon Frankenreiter |
-| 22 | ![Cover](https://i.discogs.com/VoMDAt4BVPTMNc5Sr8r1plyH4f0HR1Qabe_Cx2Elyng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTAz/NTYtMTQ3ODM3MTA0/MS0yOTQ2LmpwZWc.jpeg) | 2005 | Corey Crowder | Learning To Let Go (Special Edition) |
-| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/598215280ab099fa1b76c4de97d53cb9.png) | 2005-03-15 | Better Than Ezra | Greatest Hits |
-| 75 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2e29993156b8417497d87febd59ab206.png) | 2005-07-25 | Antimatter | Planetary Confinement |
-| 17 |  | 2005-10-05 | Eric Fish | Zwilling |
-| 3 |  | 2005-11-08 | Mi and L&#39;au | Mi and L&#39;au |
-| 49 |  | 2005-11-15 | Antoine Dufour | Naissance |
-| 4 | ![Cover](https://i.discogs.com/hUINMFyzeoi2iXo9gf7a0RXQnF52XrEBQ9_QwlLJv2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzE4/NDItMTQ1MTkwMjg0/NS03NjgyLmpwZWc.jpeg) | 2005-12-16 | DramaGods | Love |
-| 36 |  | 2006 | John Waite | Downtown - Journey Of A Heart |
-| 33 |  | 2006-01-24 | Green Carnation | The Acoustic Verses |
-| 81 | ![Cover](https://i.discogs.com/4-E7G0Lro8dPNn68Kk18cszky0BKfbnpMuoVvCnT_qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc5/ODItMTQ3MTIxNTgx/OC0yNDQzLmpwZWc.jpeg) | 2006-04-11 | Rookie of the Year | The Goodnight Moon |
-| 29 | ![Cover](https://i.discogs.com/8f8OkuxUKknFFjD0RerQTpFxwMz_Mgn7xR484cUCOI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODgz/ODYtMTIwNjY3NDU4/Ny5qcGVn.jpeg) | 2006-06-26 | Dashboard Confessional | Dusk And Summer |
-| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9c3d305fe2b74c7d80020ac641ff39ca.png) | 2006-09-26 | Tenacious D | The Pick of Destiny |
-| 30 |  | 2007 | Wingnut Dishwashers Union | Towards a World Without Dishwashers! |
-| 56 |  | 2007-01-01 | Jamestown Story | Broken Summer |
-| 11 |  | 2007-03-02 | Eric Fish | Gegen Den Strom |
-| 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e6f24c77e78751de1faaca670dcc40bc.png) | 2007-10-08 | Stereophonics | Kind (Deluxe) |
-| 28 | ![Cover](https://i.discogs.com/cRHPsSjfjpX4QwPHAeXiO8m7t3xpfvud8pHZh-FF6N0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTgz/OTAtMTU2NjA2Mzg0/OC0xNjA1LmpwZWc.jpeg) | 2008-01-21 | Amber Pacific | Acoustic Connect Sets |
-| 63 | ![Cover](https://i.discogs.com/AX3TFWkE8rl2swPOuHh9q1VEbuJvSbkTP6ejLy_4ons/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzk3/MzctMTYyMDEyNjc2/Mi04MTY2LmpwZWc.jpeg) | 2008-02-19 | Secondhand Serenade | A Twist in My Story (Deluxe Edition) |
-| 71 |  | 2008-02-21 | Triggerfinger | What Grabs Ya? |
-| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d5fb451283ec87987a480ed0a1cf1362.png) | 2008-04-14 | The Kooks | Konk (Deluxe) |
-| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7cbdb223393145b2b85724f8d0bd474c.png) | 2008-04-25 | Walls of Jericho | Redemption |
-| 57 | ![Cover](https://i.discogs.com/6VMWr9fr6LyWL2nVjDZ_u6bH8Zd-lnVfErCkG_Nkic0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTI5/MTQtMTM0Mjk3Mzk1/OS01NTM4LmpwZWc.jpeg) | 2008-06-11 | The Beach Boys | Beach Boys Party! (Remastered) |
-| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cffefe6abfa168a7e2385066b5a38476.png) | 2008-07-08 | Amity in Fame | Dinner for One |
-| 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2e4f271551764be09956785fcab8fc27.png) | 2008-07-15 | O.A.R. | All Sides |
-| 15 |  | 2008-10-25 | Ellington | More Like A Movie, Less Like Real Life |
-| 45 | ![Cover](https://i.discogs.com/SQGEKhL1mianGJ4tiRsi6nTpNoiLng8Wz1xGvBD8IFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODMy/NjkxLTE2MTU2OTY3/OTYtNzQxNC5qcGVn.jpeg) | 2008-11-11 | Jamestown Story | Love Vs. Life |
-| 99 |  | 2008-11-18 | Artist vs. Poet | Artist Vs Poet EP |
-| 12 | ![Cover](https://i.discogs.com/B6iUdS8ZkpVweQqU-_89QAXOFC6ztve48zy2avC8J80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ4/Njc5LTE1MTY1Mjc0/ODktMTQyOC5qcGVn.jpeg) | 2009 | Boyce Avenue | Acoustic Sessions Vol. 1 |
-| 68 | ![Cover](https://i.discogs.com/B6iUdS8ZkpVweQqU-_89QAXOFC6ztve48zy2avC8J80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ4/Njc5LTE1MTY1Mjc0/ODktMTQyOC5qcGVn.jpeg) | 2009 | Boyce Avenue | Acoustic Sessions: Vol. 3 |
-| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/00697401663d48afb138ea500ca02de0.png) | 2009 | Boyce Avenue | Acoustic Sessions Vol. 3 |
-| 100 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 2009 | Various Artists | Dear Evan Hansen (Original Broadway Cast Recording) |
-| 87 |  | 2009-01-27 | The One Up Downstairs | The One Up Downstairs Ep |
-| 85 | ![Cover](https://i.discogs.com/iV7U7OiZfLwS22tIpVSt7k_AC4X7wrvapqW3vMPx5oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTUw/MDctMTQ3NjY0NjUw/MS00MzEwLmpwZWc.jpeg) | 2009-04-21 | Meg &amp; Dia | Here, Here and Here |
-| 97 |  | 2009-07-21 | Portugal. The Man | The Majestic Majesty |
-| 83 |  | 2009-09-06 | Rodrigo y Gabriela | 11:11 |
-| 42 | ![Cover](https://i.discogs.com/0pwC0-3gw3osWM-0ffx7KFLPt1z5JcjB57F58YkrMxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDMy/MjMtMTI2MDQ1MDM0/MC5qcGVn.jpeg) | 2009-09-07 | Turin Brakes | Bottled At Source - The Best Of The Source Years |
-| 46 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b53c727fa67648c3a6dcc3403fae499f.png) | 2009-09-08 | Howie Day | Sound The Alarm |
-| 76 |  | 2010-02-28 | Turin Brakes | Outbursts |
-| 26 | ![Cover](https://i.discogs.com/VT7mMARpfqPGu1JRJKCx5nUH--rx6FYSwC710ASt1YI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTM5/MDg5LTE1MzcyNDMw/OTEtODM0Ny5qcGVn.jpeg) | 2011-01-11 | Jamestown Story | Find A Way |
-| 20 | ![Cover](https://i.discogs.com/ChjS0j_v9q_NKFtpmRMi6_adKqy01Lik6y0_F1ahhvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzEx/MTUtMTQ5NTUyODYz/Ny00MDcwLmpwZWc.jpeg) | 2011-05-24 | Parabelle | These Electric Pages Have Been Unplugged |
-| 64 | ![Cover](https://i.discogs.com/zNGzwYgiE2QP-C3tSQFUOWv0aoz5Ywk4_MfQSqV2WhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTkz/NDctMTMzNTI1ODE4/Ni5qcGVn.jpeg) | 2012-04-17 | The Jesus and Mary Chain | Stoned and Dethroned |
-| 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6b06eb03938c4092646afe1d386c58dc.png) | 2012-04-24 | Art of Dying | Let the Fire Burn |
-| 94 |  | 2012-05-18 | John Mayer | Born and Raised |
-| 24 | ![Cover](https://i.discogs.com/hYFJFnq_Ec_ast084KJ1Mqiw3td9xVK2vRGNNjhKcUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTM3/NzItMTM4NzcyNjYy/Mi05MjYwLmpwZWc.jpeg) | 2013 | Jack Johnson | Jack Johnson  |
-| 84 |  | 2013-06-04 | Barenaked Ladies | Grinning Streak |
-| 74 |  | 2013-06-07 | KT Tunstall | Invisible Empire &#x2F;&#x2F; Crescent Moon |
-| 88 | ![Cover](https://i.discogs.com/uwxpv0AuyBBE7LobAWvEkM2Bnr8pYjq2kL4gpfVhlPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTQ0/NDUtMTU1MTYzMzc1/My03MjA2LmpwZWc.jpeg) | 2013-08-14 | Yellowcard | Ocean Avenue Acoustic |
-| 61 |  | 2013-08-31 | SayWeCanFly | Heaven Is Hell |
-| 58 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f70431ab901f2035023434e27bb5d596.png) | 2013-10-01 | Punk Goes | Punk Goes Acoustic, Vol. 2 |
-| 6 | ![Cover](https://i.discogs.com/tpmnNjHWyjn-OdRnqVvUk9uwVcYDPt7L4CjyZPOJcLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTk5/NDktMTM4MjMwMTgy/Ni05MDk1LmpwZWc.jpeg) | 2013-10-08 | Mayday Parade | No Heroes Allowed (Acoustic) |
-| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2fc96569f7f36ad97c0ce9a3bca5c6cd.png) | 2013-12-11 | Punk Goes | Punk Goes Acoustic |
-| 38 |  | 2014-09-02 | Amber Pacific | The Turn |
-| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a3831014a3dfbcef8b1ed525902afd75.png) | 2015 | Nando Reis | Nando Reis - Voz e Violão - No Recreio, Vol. 1 (Ao Vivo) |
-| 8 | ![Cover](https://i.discogs.com/LTkvadN53-Mgapj4POKGusI2o41At3iDU1pFyNzkyIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDQz/NzgtMTQ0NDk3NDc1/OC0zNzA3LnBuZw.jpeg) | 2015-01-02 | A Skylit Drive | Rise: Ascension |
-| 10 | ![Cover](https://i.discogs.com/UQv3WXpaFRDJGVLnHxwC069UkcZkQsxIIqD5ohXj358/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Mzkw/NTQtMTQ0MTUzNzk1/NC05NzY3LmpwZWc.jpeg) | 2015-06-18 | SayWeCanFly | Between the Roses |
-| 1 |  | 2016-07 | Tonic | Lemon Parade Revisited |
-| 31 | ![Cover](https://i.discogs.com/3Ht_7ndDJf4vb2l1pPykpZBu_qYbFKKtycsJWPVH_Lk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTM2/NjAtMTQ3MTM1NTc0/Ny0yMjQwLmpwZWc.jpeg) | 2016-08-19 | ajj | The Baby Panda |
-| 34 | ![Cover](https://i.discogs.com/U3uZ8tCgbOqlYg0lAFjCjcvLtUcYl7iUjzduUAMcrcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjI4/MDUtMTQ3OTI3MzMy/Ni04NjAwLmpwZWc.jpeg) | 2016-11-04 | SayWeCanFly | Blessed Are Those |
-| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/38f135e85b75743d6a36834cf9b49b91.png) | 2016-11-25 | James Bay | Chaos and the Calm (Deluxe Edition) |
-| 77 | ![Cover](https://i.discogs.com/39tafxuVxTypzc92T1_MrVG7VVUowZciNGa8gwJfxYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg3/NjI4LTE0OTY0NzA5/NzctODc0OC5qcGVn.jpeg) | 2017-06-02 | Barns Courtney | Golden Dandelions (Acoustic) |
-| 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b4ec8a428a6ba57469f3d56368a3af49.png) | 2017-11-06 | Ira! | Acústico Ira! |
-| 72 | ![Cover](https://i.discogs.com/hb4WBVES1o9RXMMdFQhAFwrK0TqnC7IXsdqShPCdkGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTEw/Mjk5LTE1MjQ1NzU1/MTEtNTY5OS5qcGVn.jpeg) | 2018-01-12 | Jade Bird | My Motto |
-| 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2adc8f9810f3ec2bf9a134d1e9e55cb8.png) | 2018-07-27 | Oh, Weatherly | Lips Like Oxygen Reimagined |
-| 48 | ![Cover](https://i.discogs.com/FJhqWplm_AvDEvrhdw8mn9k32C1oEvp_0Tqkd7PKtWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjMw/MzU4LTE1Mzg5Mzgx/NDEtNDY1MC5qcGVn.jpeg) | 2018-10-12 | SayWeCanFly | Beautiful Mess |
-| 67 | ![Cover](https://i.discogs.com/lDbXcn83UOdXs6Q38PzTIljeB9_Z_nGtCrpNZBguUt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY5/NTYzLTE2MDkxNzEy/NDktMTgwMi5qcGVn.jpeg) | 2018-10-12 | Cory Wells | How to Tear Apart the Ones You Love |
-| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a5bb05681dbd8baf7ea6d6cf4b2bf5b5.png) | 2019-01-08 | Red Vox | Kerosene |
-| 18 | ![Cover](https://i.discogs.com/A6YCU0kptmjypoJwHt716NM32-MbqWPm5wBj3JJCb2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE2/NjQzLTE1NzQwOTM2/NDctNTEzMi5qcGVn.jpeg) | 2019-02-14 | D At Sea | Untitled |
-| 41 | ![Cover](https://i.discogs.com/a5xn01fiviXZVXJsWWf92oddm55J-blo6TzE5MJ5F5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI3/MDIyLTE1NzIyOTEy/MzItODk1OS5qcGVn.jpeg) | 2019-10-22 | Apes of the State | Pipe Dream |
-| 37 | ![Cover](https://i.discogs.com/ZuDDpUglGYrirj114yah-trnwmAsdNTCOx0SuU-fKqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDUx/NzE4LTE2MzczOTc1/NjQtNTY1OS5qcGVn.jpeg) | 2020-03-13 | IAMX | Echo Echo |
-| 60 | ![Cover](https://i.discogs.com/J-QXdufpcv3t_UsdzzLy4VzCSk7bLdwEabpT9kLn5ZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI1/MTcwLTE2MjgxMTkz/OTItODM0OS5qcGVn.jpeg) | 2020-04-24 | Origami Angel | Origami Angel Broke Minecraft |
-| 40 | ![Cover](https://i.discogs.com/fCHSTp9mYEBgf3nX24_3QD-HlVK41vcg9UoJ54xfGd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk0/NzYwLTE1NjEyODk1/OTUtNzc5NC5qcGVn.jpeg) | 2022-01-06 | Johnny Hobo and the Freight Trains | Fight Like Hell |
-| 96 | ![Cover](https://i.discogs.com/KevCP-EcuCMyvhqOMRp0NjtS__HrvI0mPH_yxKUkNHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTk1/NDIzLTE2ODYwODU0/OTUtMTE1Ny5qcGVn.jpeg) | 2022-09-30 | Origami Angel | re: turn |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td>1989</td>
+      <td>Blues Saraceno</td>
+      <td>Never Look Back</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5334f836e8e84d72cd41a31b295c89e1.png" alt="Cover for MTV Unplugged (The Studio Edits)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Scorpions</td>
+      <td>MTV Unplugged (The Studio Edits)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Toad The Wet Sprocket</td>
+      <td>Welcome Home: Live At The Arlington Theatre, Santa Barbara 1992</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/ywq5-mPQoMBnsXU2m12NCG8pVXBikM8Etqxw3fqkJWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTEy/NjQtMTQzOTgyOTAx/NS00NzMyLmpwZWc.jpeg" alt="Cover for Go Slow Down" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-10-12</td>
+      <td>BoDeans</td>
+      <td>Go Slow Down</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b66bc5eeefde46398746969ffebb09d4.png" alt="Cover for Home" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Deep Blue Something</td>
+      <td>Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75aa4f8d0bb7907bbf700c7693ef32b5.png" alt="Cover for Stoned &amp; Dethroned" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-08-15</td>
+      <td>The Jesus and Mary Chain</td>
+      <td>Stoned &amp; Dethroned</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e4304de63b44d6ca8f9d3df2576ac8f.png" alt="Cover for MTV Unplugged in New York" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-10-31</td>
+      <td>Nirvana</td>
+      <td>MTV Unplugged in New York</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 87</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 96</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/oFexyZplvpefqo9zKVoRQz7lPZ_CLxRdcXML92OYqyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDMx/NTktMTMyNjYxNzky/MC5qcGVn.jpeg" alt="Cover for Better Than Ezra: Greatest Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Better Than Ezra</td>
+      <td>Better Than Ezra: Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/wKAVcYqVFwY1eoaF9mG8GSKL2w7R6LktPirfZt0ukn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc1/NjU2LTE0OTgyMTU5/NDEtMTQ3My5qcGVn.jpeg" alt="Cover for Rhino Hi-Five: Better Than Ezra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Better Than Ezra</td>
+      <td>Rhino Hi-Five: Better Than Ezra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 1</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 86</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/htEbBHKUxsZIltZIUv73Y0ABCoBIstSxQndSvziMUCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTc0/NDctMTQ4MjcyNjk3/MS05NzAwLmpwZWc.jpeg" alt="Cover for Backbooth" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Seven Mary Three</td>
+      <td>Backbooth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>1997-06-03</td>
+      <td>Days of the New</td>
+      <td>Days Of The New</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4df158f5dcfc4ef1ceab4dca59da0eff.png" alt="Cover for Rock Crown" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-06-03</td>
+      <td>Seven Mary Three</td>
+      <td>Rock Crown</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/tEcdX8JB8wTQX-hhJTaW7ke-2i04KnMisMmoLkAUJtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDEw/MzItMTI5MDcxNDkz/Ny5qcGVn.jpeg" alt="Cover for Playlist: The Very Best Of Toad The Wet Sprocket" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Toad The Wet Sprocket</td>
+      <td>Playlist: The Very Best Of Toad The Wet Sprocket</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1999-09-24</td>
+      <td>John Mayer</td>
+      <td>Inside Wants Out</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/jo0zgIzC13s4rTYFLKFY008HUPf0EDoeUs-D6eXXYJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjUy/NS0xMTE0NjE5OTQx/LmpwZw.jpeg" alt="Cover for Halfway to a Threeway" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-11-22</td>
+      <td>Jim O&#39;Rourke</td>
+      <td>Halfway to a Threeway</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Lulu Santos</td>
+      <td>Lulu Acústico</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/9xYrsNIYOqYhzJbNr2MzXwXTH_fg20uxeXcwppMj2Hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzY3/MTUtMTQwNDEzODMz/OC00MDc3LmpwZWc.jpeg" alt="Cover for Here&#39;s To Moving On" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Dashboard Confessional</td>
+      <td>Here&#39;s To Moving On</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/GwPXy8K97QrQ2y914gGNbSrOMek2gb1jxO_LUAdzdpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTAz/NS0xMjUyMDQ1OTM2/LmpwZWc.jpeg" alt="Cover for Spirit Bound Flesh" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Scott Kelly</td>
+      <td>Spirit Bound Flesh</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/eyt1TXGe6XC64pNscxzIoNHC6kct8E91Jdd8fTO5zxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODky/MDU0LTE1MjQyMzg4/MjAtNjU0OC5qcGVn.jpeg" alt="Cover for Somedays" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-05-22</td>
+      <td>Matt Wertz</td>
+      <td>Somedays</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/8TUpofctljKt-SY-8YUwHK1ZxmXZ_cqqjc7dl2zewOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTI1/MjQtMTY0MTM0NjQ4/Mi05NzkyLmpwZWc.jpeg" alt="Cover for MTV Unplugged" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Dashboard Confessional</td>
+      <td>MTV Unplugged</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/F76u2GpdIbzhhT7CO2bgEZ5z5L5RabPP2SnqgUpyhKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzAw/NDU4LTE2MDY4NDk0/NjAtMjc5My5qcGVn.jpeg" alt="Cover for acoustic ep" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-07-22</td>
+      <td>DØVES</td>
+      <td>acoustic ep</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Leoni</td>
+      <td>Áudio-Retrato</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 34</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>2003-05-06</td>
+      <td>Jack Johnson</td>
+      <td>On and On</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>2003-07-18</td>
+      <td>Pete Murray</td>
+      <td>Feeler</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/australia" | relative_url }}">australia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c7a7af373964b8acbdbd09085ad0063.png" alt="Cover for A Mark, A Mission, A Brand, A Scar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-08-11</td>
+      <td>Dashboard Confessional</td>
+      <td>A Mark, A Mission, A Brand, A Scar</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/Q3TYdLZuFaF2BwhwL4cwLdUlLEwEXeUyVXh7qPnWQ_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjQ0/MzAtMTM2MDEwODI4/MC02MTAzLmpwZWc.jpeg" alt="Cover for Acoustic Samurai" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-10-22</td>
+      <td>Paul Gilbert</td>
+      <td>Acoustic Samurai</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>Ступени</td>
+      <td>Само собой</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td>2004-03-01</td>
+      <td>Miossec</td>
+      <td>1964</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 33</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 44</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 85</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>2004-05-11</td>
+      <td>Donavon Frankenreiter</td>
+      <td>Donavon Frankenreiter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/surf" | relative_url }}">surf</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 32</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 56</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/VoMDAt4BVPTMNc5Sr8r1plyH4f0HR1Qabe_Cx2Elyng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTAz/NTYtMTQ3ODM3MTA0/MS0yOTQ2LmpwZWc.jpeg" alt="Cover for Learning To Let Go (Special Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Corey Crowder</td>
+      <td>Learning To Let Go (Special Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/598215280ab099fa1b76c4de97d53cb9.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-03-15</td>
+      <td>Better Than Ezra</td>
+      <td>Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 63</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 73</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e29993156b8417497d87febd59ab206.png" alt="Cover for Planetary Confinement" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-07-25</td>
+      <td>Antimatter</td>
+      <td>Planetary Confinement</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 10</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>2005-10-05</td>
+      <td>Eric Fish</td>
+      <td>Zwilling</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>2005-11-08</td>
+      <td>Mi and L&#39;au</td>
+      <td>Mi and L&#39;au</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td>2005-11-15</td>
+      <td>Antoine Dufour</td>
+      <td>Naissance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/hUINMFyzeoi2iXo9gf7a0RXQnF52XrEBQ9_QwlLJv2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzE4/NDItMTQ1MTkwMjg0/NS03NjgyLmpwZWc.jpeg" alt="Cover for Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-12-16</td>
+      <td>DramaGods</td>
+      <td>Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 20</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>John Waite</td>
+      <td>Downtown - Journey Of A Heart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td>2006-01-24</td>
+      <td>Green Carnation</td>
+      <td>The Acoustic Verses</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/4-E7G0Lro8dPNn68Kk18cszky0BKfbnpMuoVvCnT_qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDc5/ODItMTQ3MTIxNTgx/OC0yNDQzLmpwZWc.jpeg" alt="Cover for The Goodnight Moon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-04-11</td>
+      <td>Rookie of the Year</td>
+      <td>The Goodnight Moon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/8f8OkuxUKknFFjD0RerQTpFxwMz_Mgn7xR484cUCOI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODgz/ODYtMTIwNjY3NDU4/Ny5qcGVn.jpeg" alt="Cover for Dusk And Summer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-06-26</td>
+      <td>Dashboard Confessional</td>
+      <td>Dusk And Summer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Wingnut Dishwashers Union</td>
+      <td>Towards a World Without Dishwashers!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>2007-01-01</td>
+      <td>Jamestown Story</td>
+      <td>Broken Summer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td>2007-03-02</td>
+      <td>Eric Fish</td>
+      <td>Gegen Den Strom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6f24c77e78751de1faaca670dcc40bc.png" alt="Cover for Kind (Deluxe)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10-08</td>
+      <td>Stereophonics</td>
+      <td>Kind (Deluxe)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2007-11-23</td>
+      <td>Lackthereof</td>
+      <td>My Haunted</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/cRHPsSjfjpX4QwPHAeXiO8m7t3xpfvud8pHZh-FF6N0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTgz/OTAtMTU2NjA2Mzg0/OC0xNjA1LmpwZWc.jpeg" alt="Cover for Acoustic Connect Sets" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-01-21</td>
+      <td>Amber Pacific</td>
+      <td>Acoustic Connect Sets</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/AX3TFWkE8rl2swPOuHh9q1VEbuJvSbkTP6ejLy_4ons/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzk3/MzctMTYyMDEyNjc2/Mi04MTY2LmpwZWc.jpeg" alt="Cover for A Twist in My Story (Deluxe Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-02-19</td>
+      <td>Secondhand Serenade</td>
+      <td>A Twist in My Story (Deluxe Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>2008-02-21</td>
+      <td>Triggerfinger</td>
+      <td>What Grabs Ya?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5fb451283ec87987a480ed0a1cf1362.png" alt="Cover for Konk (Deluxe)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-04-14</td>
+      <td>The Kooks</td>
+      <td>Konk (Deluxe)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cbdb223393145b2b85724f8d0bd474c.png" alt="Cover for Redemption" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-04-25</td>
+      <td>Walls of Jericho</td>
+      <td>Redemption</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/6VMWr9fr6LyWL2nVjDZ_u6bH8Zd-lnVfErCkG_Nkic0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTI5/MTQtMTM0Mjk3Mzk1/OS01NTM4LmpwZWc.jpeg" alt="Cover for Beach Boys Party! (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06-11</td>
+      <td>The Beach Boys</td>
+      <td>Beach Boys Party! (Remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 39</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cffefe6abfa168a7e2385066b5a38476.png" alt="Cover for Dinner for One" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-07-08</td>
+      <td>Amity in Fame</td>
+      <td>Dinner for One</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austria" | relative_url }}">austria</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e4f271551764be09956785fcab8fc27.png" alt="Cover for All Sides" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-07-15</td>
+      <td>O.A.R.</td>
+      <td>All Sides</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td>2008-10-25</td>
+      <td>Ellington</td>
+      <td>More Like A Movie, Less Like Real Life</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/SQGEKhL1mianGJ4tiRsi6nTpNoiLng8Wz1xGvBD8IFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODMy/NjkxLTE2MTU2OTY3/OTYtNzQxNC5qcGVn.jpeg" alt="Cover for Love Vs. Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-11-11</td>
+      <td>Jamestown Story</td>
+      <td>Love Vs. Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2008-11-18</td>
+      <td>Artist vs. Poet</td>
+      <td>Artist Vs Poet EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Dear Evan Hansen (Original Broadway Cast Recording)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>Dear Evan Hansen (Original Broadway Cast Recording)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical" | relative_url }}">musical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 90</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/B6iUdS8ZkpVweQqU-_89QAXOFC6ztve48zy2avC8J80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ4/Njc5LTE1MTY1Mjc0/ODktMTQyOC5qcGVn.jpeg" alt="Cover for Acoustic Sessions Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Boyce Avenue</td>
+      <td>Acoustic Sessions Vol. 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/B6iUdS8ZkpVweQqU-_89QAXOFC6ztve48zy2avC8J80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ4/Njc5LTE1MTY1Mjc0/ODktMTQyOC5qcGVn.jpeg" alt="Cover for Acoustic Sessions: Vol. 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Boyce Avenue</td>
+      <td>Acoustic Sessions: Vol. 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00697401663d48afb138ea500ca02de0.png" alt="Cover for Acoustic Sessions Vol. 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Boyce Avenue</td>
+      <td>Acoustic Sessions Vol. 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>2009-01-27</td>
+      <td>The One Up Downstairs</td>
+      <td>The One Up Downstairs Ep</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/iV7U7OiZfLwS22tIpVSt7k_AC4X7wrvapqW3vMPx5oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTUw/MDctMTQ3NjY0NjUw/MS00MzEwLmpwZWc.jpeg" alt="Cover for Here, Here and Here" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-04-21</td>
+      <td>Meg &amp; Dia</td>
+      <td>Here, Here and Here</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>2009-07-21</td>
+      <td>Portugal. The Man</td>
+      <td>The Majestic Majesty</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>2009-09-06</td>
+      <td>Rodrigo y Gabriela</td>
+      <td>11:11</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 32</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/0pwC0-3gw3osWM-0ffx7KFLPt1z5JcjB57F58YkrMxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDMy/MjMtMTI2MDQ1MDM0/MC5qcGVn.jpeg" alt="Cover for Bottled At Source - The Best Of The Source Years" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-09-07</td>
+      <td>Turin Brakes</td>
+      <td>Bottled At Source - The Best Of The Source Years</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b53c727fa67648c3a6dcc3403fae499f.png" alt="Cover for Sound The Alarm" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-09-08</td>
+      <td>Howie Day</td>
+      <td>Sound The Alarm</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2010-02-28</td>
+      <td>Turin Brakes</td>
+      <td>Outbursts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/VT7mMARpfqPGu1JRJKCx5nUH--rx6FYSwC710ASt1YI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTM5/MDg5LTE1MzcyNDMw/OTEtODM0Ny5qcGVn.jpeg" alt="Cover for Find A Way" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-01-11</td>
+      <td>Jamestown Story</td>
+      <td>Find A Way</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/ChjS0j_v9q_NKFtpmRMi6_adKqy01Lik6y0_F1ahhvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzEx/MTUtMTQ5NTUyODYz/Ny00MDcwLmpwZWc.jpeg" alt="Cover for These Electric Pages Have Been Unplugged" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-05-24</td>
+      <td>Parabelle</td>
+      <td>These Electric Pages Have Been Unplugged</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/zNGzwYgiE2QP-C3tSQFUOWv0aoz5Ywk4_MfQSqV2WhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTkz/NDctMTMzNTI1ODE4/Ni5qcGVn.jpeg" alt="Cover for Stoned and Dethroned" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-04-17</td>
+      <td>The Jesus and Mary Chain</td>
+      <td>Stoned and Dethroned</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b06eb03938c4092646afe1d386c58dc.png" alt="Cover for Let the Fire Burn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-04-24</td>
+      <td>Art of Dying</td>
+      <td>Let the Fire Burn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>2012-05-18</td>
+      <td>John Mayer</td>
+      <td>Born and Raised</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 57</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 83</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td>2013-06-04</td>
+      <td>Barenaked Ladies</td>
+      <td>Grinning Streak</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td>2013-06-07</td>
+      <td>KT Tunstall</td>
+      <td>Invisible Empire &#x2F;&#x2F; Crescent Moon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/uwxpv0AuyBBE7LobAWvEkM2Bnr8pYjq2kL4gpfVhlPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTQ0/NDUtMTU1MTYzMzc1/My03MjA2LmpwZWc.jpeg" alt="Cover for Ocean Avenue Acoustic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-08-14</td>
+      <td>Yellowcard</td>
+      <td>Ocean Avenue Acoustic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2013-08-31</td>
+      <td>SayWeCanFly</td>
+      <td>Heaven Is Hell</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f70431ab901f2035023434e27bb5d596.png" alt="Cover for Punk Goes Acoustic, Vol. 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-10-01</td>
+      <td>Punk Goes</td>
+      <td>Punk Goes Acoustic, Vol. 2</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/tpmnNjHWyjn-OdRnqVvUk9uwVcYDPt7L4CjyZPOJcLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTk5/NDktMTM4MjMwMTgy/Ni05MDk1LmpwZWc.jpeg" alt="Cover for No Heroes Allowed (Acoustic)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-10-08</td>
+      <td>Mayday Parade</td>
+      <td>No Heroes Allowed (Acoustic)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fc96569f7f36ad97c0ce9a3bca5c6cd.png" alt="Cover for Punk Goes Acoustic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-12-11</td>
+      <td>Punk Goes</td>
+      <td>Punk Goes Acoustic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>2014-09-02</td>
+      <td>Amber Pacific</td>
+      <td>The Turn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3831014a3dfbcef8b1ed525902afd75.png" alt="Cover for Nando Reis - Voz e Violão - No Recreio, Vol. 1 (Ao Vivo)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Nando Reis</td>
+      <td>Nando Reis - Voz e Violão - No Recreio, Vol. 1 (Ao Vivo)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/LTkvadN53-Mgapj4POKGusI2o41At3iDU1pFyNzkyIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDQz/NzgtMTQ0NDk3NDc1/OC0zNzA3LnBuZw.jpeg" alt="Cover for Rise: Ascension" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-01-02</td>
+      <td>A Skylit Drive</td>
+      <td>Rise: Ascension</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/UQv3WXpaFRDJGVLnHxwC069UkcZkQsxIIqD5ohXj358/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Mzkw/NTQtMTQ0MTUzNzk1/NC05NzY3LmpwZWc.jpeg" alt="Cover for Between the Roses" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-06-18</td>
+      <td>SayWeCanFly</td>
+      <td>Between the Roses</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>2016-07</td>
+      <td>Tonic</td>
+      <td>Lemon Parade Revisited</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/3Ht_7ndDJf4vb2l1pPykpZBu_qYbFKKtycsJWPVH_Lk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTM2/NjAtMTQ3MTM1NTc0/Ny0yMjQwLmpwZWc.jpeg" alt="Cover for The Baby Panda" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-08-19</td>
+      <td>ajj</td>
+      <td>The Baby Panda</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 57</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 63</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 74</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/U3uZ8tCgbOqlYg0lAFjCjcvLtUcYl7iUjzduUAMcrcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjI4/MDUtMTQ3OTI3MzMy/Ni04NjAwLmpwZWc.jpeg" alt="Cover for Blessed Are Those" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-11-04</td>
+      <td>SayWeCanFly</td>
+      <td>Blessed Are Those</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38f135e85b75743d6a36834cf9b49b91.png" alt="Cover for Chaos and the Calm (Deluxe Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-11-25</td>
+      <td>James Bay</td>
+      <td>Chaos and the Calm (Deluxe Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/39tafxuVxTypzc92T1_MrVG7VVUowZciNGa8gwJfxYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg3/NjI4LTE0OTY0NzA5/NzctODc0OC5qcGVn.jpeg" alt="Cover for Golden Dandelions (Acoustic)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-02</td>
+      <td>Barns Courtney</td>
+      <td>Golden Dandelions (Acoustic)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4ec8a428a6ba57469f3d56368a3af49.png" alt="Cover for Acústico Ira!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-11-06</td>
+      <td>Ira!</td>
+      <td>Acústico Ira!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/hb4WBVES1o9RXMMdFQhAFwrK0TqnC7IXsdqShPCdkGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTEw/Mjk5LTE1MjQ1NzU1/MTEtNTY5OS5qcGVn.jpeg" alt="Cover for My Motto" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-01-12</td>
+      <td>Jade Bird</td>
+      <td>My Motto</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2adc8f9810f3ec2bf9a134d1e9e55cb8.png" alt="Cover for Lips Like Oxygen Reimagined" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-07-27</td>
+      <td>Oh, Weatherly</td>
+      <td>Lips Like Oxygen Reimagined</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/FJhqWplm_AvDEvrhdw8mn9k32C1oEvp_0Tqkd7PKtWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjMw/MzU4LTE1Mzg5Mzgx/NDEtNDY1MC5qcGVn.jpeg" alt="Cover for Beautiful Mess" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-12</td>
+      <td>SayWeCanFly</td>
+      <td>Beautiful Mess</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/lDbXcn83UOdXs6Q38PzTIljeB9_Z_nGtCrpNZBguUt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjY5/NTYzLTE2MDkxNzEy/NDktMTgwMi5qcGVn.jpeg" alt="Cover for How to Tear Apart the Ones You Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-12</td>
+      <td>Cory Wells</td>
+      <td>How to Tear Apart the Ones You Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5bb05681dbd8baf7ea6d6cf4b2bf5b5.png" alt="Cover for Kerosene" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-01-08</td>
+      <td>Red Vox</td>
+      <td>Kerosene</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/A6YCU0kptmjypoJwHt716NM32-MbqWPm5wBj3JJCb2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE2/NjQzLTE1NzQwOTM2/NDctNTEzMi5qcGVn.jpeg" alt="Cover for Untitled" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-02-14</td>
+      <td>D At Sea</td>
+      <td>Untitled</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/a5xn01fiviXZVXJsWWf92oddm55J-blo6TzE5MJ5F5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI3/MDIyLTE1NzIyOTEy/MzItODk1OS5qcGVn.jpeg" alt="Cover for Pipe Dream" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-10-22</td>
+      <td>Apes of the State</td>
+      <td>Pipe Dream</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 16</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 22</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 24</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/ZuDDpUglGYrirj114yah-trnwmAsdNTCOx0SuU-fKqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDUx/NzE4LTE2MzczOTc1/NjQtNTY1OS5qcGVn.jpeg" alt="Cover for Echo Echo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-13</td>
+      <td>IAMX</td>
+      <td>Echo Echo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 11</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 45</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 49</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 78</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 80</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/J-QXdufpcv3t_UsdzzLy4VzCSk7bLdwEabpT9kLn5ZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjI1/MTcwLTE2MjgxMTkz/OTItODM0OS5qcGVn.jpeg" alt="Cover for Origami Angel Broke Minecraft" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-04-24</td>
+      <td>Origami Angel</td>
+      <td>Origami Angel Broke Minecraft</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/fCHSTp9mYEBgf3nX24_3QD-HlVK41vcg9UoJ54xfGd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk0/NzYwLTE1NjEyODk1/OTUtNzc5NC5qcGVn.jpeg" alt="Cover for Fight Like Hell" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-01-06</td>
+      <td>Johnny Hobo and the Freight Trains</td>
+      <td>Fight Like Hell</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/KevCP-EcuCMyvhqOMRp0NjtS__HrvI0mPH_yxKUkNHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTk1/NDIzLTE2ODYwODU0/OTUtMTE1Ny5qcGVn.jpeg" alt="Cover for re: turn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-30</td>
+      <td>Origami Angel</td>
+      <td>re: turn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T16:06:23.817Z
+date: 2025-10-31T20:55:51.053Z
 permalink: tags/latino
 title: latino
 ---
 
 ## latino
 
-Last updated: <time datetime="2025-10-28T16:06:23.817Z">Tue Oct 28 2025 18:06:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-31T20:55:51.053Z">Fri Oct 31 2025 22:55:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,6 +24,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
@@ -42,6 +43,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>35</td>
@@ -56,19 +61,8 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>
-          <img src="https://i.discogs.com/NfBvcbanEa4kswr2GWZMQgLP2L7ophpQUL2VZdNEOfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDI4/NTItMTI1NDAwNjc2/Mi5qcGVn.jpeg" alt="Cover for Descarga Espectacular" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>Fruko Y Sus Tesos</td>
-      <td>Descarga Espectacular</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
     </tr>
@@ -89,6 +83,30 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/NfBvcbanEa4kswr2GWZMQgLP2L7ophpQUL2VZdNEOfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDI4/NTItMTI1NDAwNjc2/Mi5qcGVn.jpeg" alt="Cover for Descarga Espectacular" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Fruko Y Sus Tesos</td>
+      <td>Descarga Espectacular</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>53</td>
@@ -103,6 +121,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>81</td>
@@ -115,6 +137,12 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 5</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -139,6 +167,14 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 13</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 50</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 63</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 85</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>31</td>
@@ -156,9 +192,13 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/Y41IFwdf9ijFEo0iGgXchDOX1JkZUMgGOS8cVR1bMkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzc0/OTYtMTQwOTUwNzQy/NC00MTI4LmpwZWc.jpeg" alt="Cover for Dentro Y Fuera" style="max-width:120px; height:auto;" />
       </td>
@@ -171,6 +211,12 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 22</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -188,6 +234,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>38</td>
@@ -202,6 +252,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -232,9 +286,16 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 6</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 42</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 62</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/5JeFy2UY8DmEXBUQcnCuXrnrp9NabKHDxMWgwJR_n_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTUw/OTQ3LTE1MDcwNjU0/MTgtNjYwOC5qcGVn.jpeg" alt="Cover for Frágil" style="max-width:120px; height:auto;" />
       </td>
@@ -253,9 +314,18 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 34</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 57</li>
+            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 65</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 69</li>
+            <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 80</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/geG0VVAX4cHkBYa3G7BjdAYS21g5x69ta_vgpHeSRt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU0/MDQ1LTE1MjAwOTYx/MTUtNTI5Ni5qcGVn.jpeg" alt="Cover for En Vivo" style="max-width:120px; height:auto;" />
       </td>
@@ -270,17 +340,9 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-      </td>
-      <td>1993</td>
-      <td>The Fortunes</td>
-      <td>Seasons In the Sun</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -305,6 +367,14 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 11</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 45</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 61</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -336,6 +406,34 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 38</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 65</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 85</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 88</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 88</li>
+            <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 89</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>The Fortunes</td>
+      <td>Seasons In the Sun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>25</td>
@@ -351,18 +449,8 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-          <img src="https://i.discogs.com/CkDy2eFpMXm74tJpfxsW8S3BFIhJI6Kvl_oEuqlqsKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTYx/NjY2LTE2NjAxOTIy/OTUtNjE3NC5qcGVn.jpeg" alt="Cover for Coleccion Romantica" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995</td>
-      <td>Juan Luis Guerra</td>
-      <td>Coleccion Romantica</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
     </tr>
@@ -385,6 +473,30 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 56</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/CkDy2eFpMXm74tJpfxsW8S3BFIhJI6Kvl_oEuqlqsKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTYx/NjY2LTE2NjAxOTIy/OTUtNjE3NC5qcGVn.jpeg" alt="Cover for Coleccion Romantica" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Juan Luis Guerra</td>
+      <td>Coleccion Romantica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>30</td>
@@ -400,6 +512,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>91</td>
@@ -411,6 +527,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -427,6 +547,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 16</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>73</td>
@@ -439,6 +564,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -459,6 +589,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 15</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>56</td>
@@ -475,6 +610,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 7</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>65</td>
@@ -489,6 +629,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -512,6 +656,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 68</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>47</td>
@@ -524,6 +673,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -540,6 +693,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -559,6 +716,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>27</td>
@@ -574,6 +735,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>51</td>
@@ -586,6 +751,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -604,6 +773,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -626,6 +800,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 59</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>70</td>
@@ -640,6 +819,12 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trio" | relative_url }}">trio</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 69</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -659,6 +844,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 66</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>63</td>
@@ -670,6 +860,28 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/FNCaJc3opFI3jAZTeinCrk06u7qfsyFHGG0TMjcnfqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk5/NzQ4LTE2NjU1Nzg1/NDctNTkzNi5qcGVn.jpeg" alt="Cover for A Corazon Abierto" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Alejandro Fernandez</td>
+      <td>A Corazon Abierto</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -686,15 +898,6 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-          <img src="https://i.discogs.com/FNCaJc3opFI3jAZTeinCrk06u7qfsyFHGG0TMjcnfqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk5/NzQ4LTE2NjU1Nzg1/NDctNTkzNi5qcGVn.jpeg" alt="Cover for A Corazon Abierto" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Alejandro Fernandez</td>
-      <td>A Corazon Abierto</td>
       <td>
         <ul>
         </ul>
@@ -713,26 +916,14 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-          <img src="https://i.discogs.com/quF86GenqzVNqTl0lpXQVHsPNrvHbZQT6eAR9Jjb_TE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTUx/NTQ5LTE2MDg0Mzg4/OTItNzYxNS5qcGVn.jpeg" alt="Cover for Soplando Fuerte &#x2F; Un Fenómeno Natural" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Rafaga</td>
-      <td>Soplando Fuerte &#x2F; Un Fenómeno Natural</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/vLCWvASWL-26uQ8sWxJH65DbuyMynQtE3Xi9Wp5895o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDg1/OTAtMTE5NjAyMjU1/MS5qcGVn.jpeg" alt="Cover for Revolucion" style="max-width:120px; height:auto;" />
       </td>
@@ -743,6 +934,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -768,6 +964,36 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 28</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 66</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 73</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 75</li>
+            <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/quF86GenqzVNqTl0lpXQVHsPNrvHbZQT6eAR9Jjb_TE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTUx/NTQ5LTE2MDg0Mzg4/OTItNzYxNS5qcGVn.jpeg" alt="Cover for Soplando Fuerte &#x2F; Un Fenómeno Natural" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Rafaga</td>
+      <td>Soplando Fuerte &#x2F; Un Fenómeno Natural</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>44</td>
@@ -783,6 +1009,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>69</td>
@@ -794,6 +1024,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -810,6 +1045,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>54</td>
@@ -821,6 +1060,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -835,6 +1079,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -854,6 +1102,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 48</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>57</td>
@@ -868,19 +1121,8 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>48</td>
-      <td>
-          <img src="https://i.discogs.com/IHU200hnCQgWNOi4hibVZzgN_cNXxeChhQe4M_3UPzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDk0/MDYtMTQ3OTA0ODMy/MC05NzM3LmpwZWc.jpeg" alt="Cover for Bom Astral" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Só Pra Contrariar</td>
-      <td>Bom Astral</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
     </tr>
@@ -898,6 +1140,30 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bosta" | relative_url }}">bosta</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/IHU200hnCQgWNOi4hibVZzgN_cNXxeChhQe4M_3UPzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDk0/MDYtMTQ3OTA0ODMy/MC05NzM3LmpwZWc.jpeg" alt="Cover for Bom Astral" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Só Pra Contrariar</td>
+      <td>Bom Astral</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>40</td>
@@ -909,6 +1175,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -929,6 +1200,12 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 65</li>
+            <li> <a href="{{ "/tags/haiti" | relative_url }}">haiti</a> # 98</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>67</td>
@@ -940,6 +1217,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -966,6 +1247,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 93</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>80</td>
@@ -980,6 +1266,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 30</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>76</td>
@@ -992,6 +1283,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1018,6 +1313,14 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 12</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 46</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 62</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 77</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>41</td>
@@ -1027,6 +1330,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <td>2009-06-30</td>
       <td>Bebe</td>
       <td>Y.</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1051,6 +1358,12 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 64</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 79</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>52</td>
@@ -1059,6 +1372,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <td>2010-09-21</td>
       <td>Alex, Jorge Y Lena</td>
       <td>Alex, Jorge y Lena</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1078,6 +1395,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bosta" | relative_url }}">bosta</a> # 80</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>95</td>
@@ -1091,6 +1413,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>83</td>
@@ -1102,6 +1428,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1121,6 +1451,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 51</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>22</td>
@@ -1135,6 +1470,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1155,6 +1495,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 29</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>19</td>
@@ -1169,6 +1514,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1187,18 +1536,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cba3eff9e738b0ca6701a9e9c4069ca.png" alt="Cover for Mentira la Verdad" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-05-27</td>
-      <td>Airbag</td>
-      <td>Mentira la Verdad</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 47</li>
+            <li> <a href="{{ "/tags/bosta" | relative_url }}">bosta</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1214,6 +1555,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>92</td>
@@ -1226,6 +1571,29 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/cFfH0e43rWmGd2wBckTulMYRrzH5WOhghEi0kMypCLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDg4/NjYtMTQyMTc2NDE3/OS05ODkzLmpwZWc.jpeg" alt="Cover for Once_Upon_A_Time_in_Mexico" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-12-31</td>
+      <td>OST</td>
+      <td>Once_Upon_A_Time_in_Mexico</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1245,21 +1613,9 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22d6a2fd8a334ad79ff2479b3db2852a.png" alt="Cover for Surcando" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013</td>
-      <td>cuatro pesos de propina</td>
-      <td>Surcando</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1276,6 +1632,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1299,6 +1660,33 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 72</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22d6a2fd8a334ad79ff2479b3db2852a.png" alt="Cover for Surcando" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>cuatro pesos de propina</td>
+      <td>Surcando</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>21</td>
@@ -1314,6 +1702,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>33</td>
@@ -1327,6 +1719,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1347,6 +1744,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 83</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>93</td>
@@ -1361,6 +1763,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1381,6 +1787,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1404,6 +1814,12 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 43</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 63</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>100</td>
@@ -1422,6 +1838,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 95</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>99</td>
@@ -1435,6 +1856,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1451,6 +1876,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1474,6 +1903,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>82</td>
@@ -1491,6 +1924,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 77</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>78</td>
@@ -1506,6 +1944,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>90</td>
@@ -1519,6 +1961,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1538,6 +1984,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 92</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>89</td>
@@ -1551,6 +2002,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1570,6 +2025,11 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 39</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>94</td>
@@ -1586,9 +2046,13 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -1608,32 +2072,12 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Green Valley</td>
-      <td>Mírame a los Ojos</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Yelsid</td>
-      <td>La Voz</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 1</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 29</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 35</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1651,6 +2095,47 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Green Valley</td>
+      <td>Mírame a los Ojos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Yelsid</td>
+      <td>La Voz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>71</td>
@@ -1665,6 +2150,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
