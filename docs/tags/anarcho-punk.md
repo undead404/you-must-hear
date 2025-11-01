@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:03:28.378Z
+date: 2025-11-01T12:17:51.196Z
 permalink: tags/anarcho-punk
 title: anarcho-punk
 ---
 
 ## anarcho-punk
 
-Last updated: <time datetime="2025-10-28T06:03:28.378Z">Tue Oct 28 2025 08:03:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-01T12:17:51.196Z">Sat Nov 01 2025 14:17:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -64,7 +64,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/s5fTRlshc_Yp1SUtbgI-Po-Aj4SeVoG1IrcVfI6EhmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTkw/MC0xNTYzNzc0MzMz/LTUzNTYuanBlZw.jpeg" alt="Cover for Demolition War" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/YwtO_Bqwp7OLuAl_XVnUR2EIASyGWjefOOHK_mxlp40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjAx/NzEtMTQ1NTI5OTcw/OC05ODYzLmpwZWc.jpeg" alt="Cover for 1970&#39;s EP" style="max-width:120px; height:auto;" />
       </td>
@@ -101,7 +101,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td>1981</td>
@@ -152,7 +152,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>1981-12</td>
@@ -168,7 +168,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/f9IUq3nCtdHxG8DJXux0z-Bcdxyiugp5ephiP1za28k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDE3/MzYtMTM4ODUwMzgw/NC0yNjY3LmpwZWc.jpeg" alt="Cover for Cross-Dressing in a Freudian Slip" style="max-width:120px; height:auto;" />
       </td>
@@ -188,7 +188,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
       </td>
       <td>1982</td>
@@ -206,7 +206,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
       </td>
       <td>1982</td>
@@ -223,7 +223,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
       </td>
       <td>1982</td>
@@ -240,7 +240,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e7081a479cf855a593867e2fd2fcdad.png" alt="Cover for Strive to Survive Causing Least Suffering Possible" style="max-width:120px; height:auto;" />
       </td>
@@ -260,7 +260,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/vEHTNQ6HAxHJyyiuJHkuWdvwlOVZtgEDQKs28jo2YgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTY3/ODctMTY3Njg0ODgz/Mi03NTkyLmpwZWc.jpeg" alt="Cover for Punk Is A Rotting Corpse" style="max-width:120px; height:auto;" />
       </td>
@@ -416,7 +416,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb969858924ce1893ede76d51197d957.png" alt="Cover for It&#39;s Time to See Who&#39;s Who" style="max-width:120px; height:auto;" />
       </td>
@@ -478,7 +478,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
       </td>
       <td>1984</td>
@@ -514,7 +514,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
       </td>
       <td>1985</td>
@@ -533,7 +533,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/3Si9Zrh0a2oYE1AyBk3DBE5UuCcgnL0JjpVIGXUrTeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzE5/Ni0xMzQ2NjQ5MTk0/LTg5MDQuanBlZw.jpeg" alt="Cover for Pictures Of Pain" style="max-width:120px; height:auto;" />
       </td>
@@ -587,7 +587,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3de5be45b7c645c8c55c13abdbac17d2.png" alt="Cover for Plastic Surgery Disasters &#x2F; In God We Trust, Inc." style="max-width:120px; height:auto;" />
       </td>
@@ -604,7 +604,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/3s56AMyEuZS86vnOHN4FT-RdA8vyVzr-Kc-RLjQhUiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTI5/MTItMTM3NzUyMzM0/Ny02ODg3LmpwZWc.jpeg" alt="Cover for Mortarhate - A Compilation Of Deleted Dialogue - The Singles" style="max-width:120px; height:auto;" />
       </td>
@@ -622,7 +622,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/eVLX-rKpKLyFpG5rSWQCSZaGEFSvGbnK2Eu763WMdNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ5/NjAtMTQyMzU3MTU1/OS0zMjAyLmpwZWc.jpeg" alt="Cover for Hatred Surge" style="max-width:120px; height:auto;" />
       </td>
@@ -632,6 +632,23 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>1986</td>
+      <td>Crass</td>
+      <td>Best Before... 1984</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a></li>
         </ul>
       </td>
       <td>
@@ -677,7 +694,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/aAN8yDwe52Pbx9vATv7VR2mr4oJY7mpcHP9e8xtp0vI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM1/NTgtMTQ0MDYxOTE1/OC01MTkxLmpwZWc.jpeg" alt="Cover for Turning Rebellion Into Money" style="max-width:120px; height:auto;" />
       </td>
@@ -696,7 +713,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/jbFB13L8D4qBcV2Lp0V61tXStp5_mLYm-gh6SuMj3po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDYz/MS0xMTA5MDcxNzYz/LmpwZw.jpeg" alt="Cover for The Final Conflict" style="max-width:120px; height:auto;" />
       </td>
@@ -714,7 +731,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/e7ZEktybtdq2CwCurxpsf5_QMFadtuNqTVTO_nhop_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTc3/OC0xMjUzMTQ5Mzk4/LmpwZWc.jpeg" alt="Cover for Strive to Survive &amp; Neu Smell" style="max-width:120px; height:auto;" />
       </td>
@@ -751,7 +768,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
       </td>
       <td>1990</td>
@@ -769,7 +786,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td>1991</td>
@@ -787,7 +804,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
       </td>
       <td>1992</td>
@@ -809,7 +826,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
       </td>
       <td>1992</td>
@@ -826,7 +843,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
       </td>
       <td>1992</td>
@@ -861,7 +878,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/91DomjXumOiRI0-UdkUePMTkA5ZXPN7qpT0ajorKwts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE3/NjI1LTE0OTkwNzg4/MDAtNDEzOC5qcGVn.jpeg" alt="Cover for SZPITAL PSYCHIATRYCZNY" style="max-width:120px; height:auto;" />
       </td>
@@ -882,7 +899,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/wvTwb8DFzMYCuJt0Sp7g9E38t8ryv3SEFbNAAoxuiYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDg1/NjItMTM0MzY5MzM5/OS0yMDYzLmpwZWc.jpeg" alt="Cover for Crimes of capital, crimes of the state" style="max-width:120px; height:auto;" />
       </td>
@@ -918,7 +935,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/_lNOXiTDJiPF_a0GiQUhR5J1G0X7LJmYIHlrKgSGoxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTEw/OC0xMjYxNjIzMTc2/LmpwZWc.jpeg" alt="Cover for The Brain And El Sueno De La Razon Produce Monstruos" style="max-width:120px; height:auto;" />
       </td>
@@ -938,7 +955,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/7ctLL9aRNbdRDMNgqhWBpwERqNlySjxTR9wQX-XJHk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODUy/NjAtMTMzMjI0ODIx/NC5qcGVn.jpeg" alt="Cover for Naziści wypierdalać" style="max-width:120px; height:auto;" />
       </td>
@@ -957,7 +974,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
       </td>
       <td>1995-09-05</td>
@@ -991,7 +1008,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>1996</td>
@@ -1010,7 +1027,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/_oxTMdDsHakuJ8MiNueYUA6LxFfts7f55XZ5d5PbqXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTI1/MjQwLTE1MTc4NzQ5/ODctNjk4Mi5qcGVn.jpeg" alt="Cover for Exhibit A" style="max-width:120px; height:auto;" />
       </td>
@@ -1031,7 +1048,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
       </td>
       <td>1997</td>
@@ -1049,7 +1066,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/plSoiEc_ZYs6J8BKZiQ40IGNteCBPLXNWElOSxkHRgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYw/MTktMTM0MDM4Njcy/OC0xMTIwLmpwZWc.jpeg" alt="Cover for Monuments" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,26 +1084,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/g5CgppAA0KfVwH_nAPGPcdPD4IC4MqaatzL9nIW7GIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTg0/MC0xMzc1ODM5Nzk0/LTY5OTcuanBlZw.jpeg" alt="Cover for Crime And Punishment" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Unhinged</td>
-      <td>Crime And Punishment</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/Sa_ZhFslnfSfzeBNlrZgyKJtBkg0CjjwihIaMoZ5JnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTIw/NjAtMTMzNjIzNTM5/OC5qcGVn.jpeg" alt="Cover for Ruido Anticapitalista &amp; Alerta" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,7 +1103,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
       </td>
       <td>1998</td>
@@ -1163,7 +1161,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
       </td>
       <td>2000</td>
@@ -1180,7 +1178,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/Ie4Snu33nYloWe9uG-_jZyK7pi92IFiN1-w35gR16c0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTY3/MzMtMTI3NDExNzE4/OS5qcGVn.jpeg" alt="Cover for Know Your Enemy" style="max-width:120px; height:auto;" />
       </td>
@@ -1203,7 +1201,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/C9rs6duppC9EkJ4gfm-lSaLOMREtcTzLvNmSUrMg0Ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzc5/NjItMTIyMjY2ODc2/NC5qcGVn.jpeg" alt="Cover for Enter The Dragon EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1223,7 +1221,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
       </td>
       <td>2001</td>
@@ -1240,7 +1238,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/nxHd-lP8-1PDSb1GyzaQjbTAZhN5P0LhpR0YiTdkMI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIw/NjQ0LTE1NzQxODA5/NjAtOTUzMS5qcGVn.jpeg" alt="Cover for Total Anarchoi" style="max-width:120px; height:auto;" />
       </td>
@@ -1275,7 +1273,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
       </td>
       <td>2001-08-28</td>
@@ -1291,7 +1289,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/k4nWwHOAs5vGf8txdk9VaTyMlUxejzMj77hUrcoaxPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzA3/MDItMTU5MTM0Mjcy/My05Mzg1LmpwZWc.jpeg" alt="Cover for 2003 - El Ritmo De Las Ideas" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,7 +1307,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/72Iv5iFpUxOHjVft8DqLTwW73Z1A7W1-15yStqM0iFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDk1/NDEtMTQ0NDk5OTkx/MC05ODY1LmpwZWc.jpeg" alt="Cover for Ни слова о политике!" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,7 +1345,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/f0TFk6F2qO3z1ffkV_TOKymDZbaUWBPbVRFwDFt89Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjQy/ODAtMTI5ODE3NjE0/Ni5qcGVn.jpeg" alt="Cover for The Global Cannibal" style="max-width:120px; height:auto;" />
       </td>
@@ -1454,7 +1452,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/0k0PYyDdVo-petR8PC87ajPmRcjTkoMH8n0FnrmAe1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODAz/NjMtMTM5OTg0Mzkx/MC03NTk5LmpwZWc.jpeg" alt="Cover for People Who Care Are Angry" style="max-width:120px; height:auto;" />
       </td>
@@ -1473,7 +1471,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/hc8YlefGL6kACaUseNCduY7KQefAjM9jxfM42EK7_i8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDIz/MDktMTU2Njk0MzQy/NC0yMzA3LmpwZWc.jpeg" alt="Cover for Archaic" style="max-width:120px; height:auto;" />
       </td>
@@ -1493,7 +1491,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/Tuy8lR_kRI13e3j6SRBlUfX6P1hPI48rrgG4NOFz1Bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjY4/MjYtMTU2MjQ3OTk2/Ni04NTkyLmpwZWc.jpeg" alt="Cover for Onna for pleasure" style="max-width:120px; height:auto;" />
       </td>
@@ -1511,7 +1509,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/hti9Y9ZQV49qC3FEr24Ge2jN_Q9bqbjWHADVhm-k8GA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTg4/NC0xMTM5ODUwMzI0/LmpwZWc.jpeg" alt="Cover for Fuck World Trade" style="max-width:120px; height:auto;" />
       </td>
@@ -1532,7 +1530,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/eN4jEFuCShB8jMEBDHnR6qPbfxT3nF-IalPbG80d60E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTU2/MjktMTM5MjMxMDAx/OS00MDg5LnBuZw.jpeg" alt="Cover for Live 9&#x2F;11 2005" style="max-width:120px; height:auto;" />
       </td>
@@ -1554,7 +1552,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/QwJfErgi33SiAojXG14BldjFQSbWe080i_iWYbipSTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTA2/MzYtMTQ0MjU2NTMw/NC04MDcxLmpwZWc.jpeg" alt="Cover for All Gone Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1598,7 +1596,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/D9B9q-tJziU7DRrpP8s99zK3IUlEyAWpNp4jXTWxY9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjUx/OTQtMTMxMjI3NDAw/Ny5qcGVn.jpeg" alt="Cover for Pictures Of Starving Children" style="max-width:120px; height:auto;" />
       </td>
@@ -1638,7 +1636,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/Av4kMn54Br757MPjIzUQX6YlbadDfAV4PEMsfTvXg7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjc0/NDAtMTMyMzEwNzcx/NC5qcGVn.jpeg" alt="Cover for Wbrew wszystkiemu" style="max-width:120px; height:auto;" />
       </td>
@@ -1677,7 +1675,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/QbzWurFjcRs7jdzD3g9-Pn1C6VkdpzPT-6yVHSlKYGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzk3/MzItMTUwMTIwNDE0/OS01MjkwLmpwZWc.jpeg" alt="Cover for Die The Nightmare" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,7 +1695,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/yrpBYaZfuudc8wplDzuG9VpJpvs6RmFDV_4gECMorPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTk5/NDctMTQ4NTUwNzg3/OC02ODU5LmpwZWc.jpeg" alt="Cover for Zawsze Nasze" style="max-width:120px; height:auto;" />
       </td>
@@ -1735,7 +1733,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/-M4VuWy-pNMXuVyyWL_frOan-cRr5_Kfn0VGc5u90y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc2/Njc0LTE1Nzc0NzAy/MDctMTQxOS5qcGVn.jpeg" alt="Cover for Resilience" style="max-width:120px; height:auto;" />
       </td>
@@ -1754,7 +1752,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/2X2CsC2i1d4BmKPVnWchbvFfXVb8CpddIENP9wN2sCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc3/MTUxLTE0OTYyNjEx/NDMtNjYwNy5qcGVn.jpeg" alt="Cover for Subordination" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,7 +1771,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/p9fUfZvGqlM0mk4W7ApUuoniwJemy7u-MzsDmtAr6ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE0/NjM4LTE1NDA1MDI4/MjktOTczOS5qcGVn.jpeg" alt="Cover for Torment &amp; Torture Demo" style="max-width:120px; height:auto;" />
       </td>
@@ -1793,7 +1791,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/B3f1554Z281lfisLYCu-70-6sj-oeszOa7e_KWc1gkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI0/MTE5LTE2MTk2ODQ5/ODctNTI5OC5qcGVn.jpeg" alt="Cover for The Left Is Right" style="max-width:120px; height:auto;" />
       </td>
@@ -1812,7 +1810,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/mC0h1VTVKkE9RVFb3YnHM3aG0AYfMubyQF_CUPIUkEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTY0/NTk1LTE2NTIwOTEz/NTktMTk5Ny5qcGVn.jpeg" alt="Cover for The Emperor Rx" style="max-width:120px; height:auto;" />
       </td>
@@ -1856,12 +1854,12 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
         <ul>
             <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 18</li>
             <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 30</li>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 59</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1878,7 +1876,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -1895,7 +1893,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -1914,7 +1912,7 @@ Anarcho-punk emerged in the late 1970s as a politically radical offshoot of punk
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
