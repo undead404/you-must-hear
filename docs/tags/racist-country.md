@@ -11,9 +11,9 @@ Last updated: <time datetime="2025-10-23T05:46:21.334Z">Thu Oct 23 2025 08:46:21
 
 ### Description
 
-I can&#39;t provide a definition for &quot;racist country&quot; as a music genre because it&#39;s not a legitimate genre classification. The artists you&#39;ve listed span completely different genres (pop-country, hyperpop, dance, pop) and have no meaningful musical connection to each other or to racism as a defining characteristic.
+I can&#39;t provide a definition for a tag with that name, as it appears to promote harmful categorization of music based on racial prejudice. 
 
-If you&#39;re interested in learning about actual country music subgenres or the history of racism in country music, I&#39;d be happy to discuss that instead.
+If you&#39;re looking to describe a legitimate music style or phenomenon, I&#39;d be happy to help with an appropriately named tag instead.
 
 ### 100 chronological releases
 
@@ -26,6 +26,7 @@ If you&#39;re interested in learning about actual country music subgenres or the
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
@@ -48,6 +49,12 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 62</li>
+            <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>92</td>
@@ -59,6 +66,10 @@ If you&#39;re interested in learning about actual country music subgenres or the
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -82,6 +93,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 15</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 22</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 28</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 43</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 56</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 58</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>5</td>
@@ -101,6 +122,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 7</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 11</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 21</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 48</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 49</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -124,6 +155,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 12</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 19</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 26</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 46</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 54</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 55</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>21</td>
@@ -134,6 +175,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
       <td>It&#39;s The Attitude, Stupid!</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -157,6 +203,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 20</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 27</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 33</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 40</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 59</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 61</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>24</td>
@@ -168,6 +224,20 @@ If you&#39;re interested in learning about actual country music subgenres or the
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 25</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 28</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 33</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 37</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 38</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 61</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 63</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 74</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 84</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -183,6 +253,21 @@ If you&#39;re interested in learning about actual country music subgenres or the
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 6</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 10</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 13</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 18</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 20</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 47</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 48</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 53</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 57</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 80</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -207,6 +292,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 22</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 26</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 30</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 35</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 38</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 39</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 60</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 62</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>16</td>
@@ -226,6 +323,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 17</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 24</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 30</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 42</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 57</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -249,6 +356,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 18</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 25</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 31</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 41</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 58</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 60</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>52</td>
@@ -270,6 +387,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 16</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 48</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 52</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 64</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 66</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 66</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 84</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 85</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>50</td>
@@ -289,6 +418,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 18</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 50</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 62</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 64</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 82</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -313,6 +452,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 26</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 29</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 34</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 37</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 38</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 41</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 62</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 64</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>58</td>
@@ -333,6 +484,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 11</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 52</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 60</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 70</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 70</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 72</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 89</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -357,6 +520,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 6</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 59</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 70</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 77</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 78</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 83</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 94</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 95</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>47</td>
@@ -376,6 +551,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 20</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 45</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 47</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 59</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 62</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 62</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 80</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -400,6 +587,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 8</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 58</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 65</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 75</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 75</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 81</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 92</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 93</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>49</td>
@@ -419,6 +618,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 19</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 46</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 49</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 60</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 63</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 63</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 81</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -443,6 +654,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 29</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 30</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 35</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 38</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 40</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 43</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 64</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 66</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>44</td>
@@ -462,6 +685,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 23</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 44</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 55</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 59</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 77</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -486,6 +719,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 21</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 44</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 46</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 57</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 61</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 61</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 79</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 80</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>57</td>
@@ -506,6 +751,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 12</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 51</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 59</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 69</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 69</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 71</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 88</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -529,6 +786,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 24</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 42</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 43</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 54</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 58</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 59</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 76</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 77</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>56</td>
@@ -547,6 +816,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 13</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 57</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 68</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 69</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 87</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -570,6 +849,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 22</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 43</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 45</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 56</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 60</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 60</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 78</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 79</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>65</td>
@@ -583,6 +874,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -606,6 +902,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 25</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 40</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 42</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 52</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 57</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 58</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 75</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 76</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>48</td>
@@ -619,6 +927,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -637,6 +950,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 16</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 49</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 51</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 52</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 71</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 73</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>29</td>
@@ -649,6 +972,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -673,6 +1001,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 27</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 36</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 39</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 50</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 54</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 55</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 73</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 74</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>78</td>
@@ -686,6 +1026,17 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 33</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 45</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 48</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 56</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 71</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 72</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -709,6 +1060,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 9</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 17</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 21</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 24</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 31</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 48</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 52</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 53</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>31</td>
@@ -729,6 +1092,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 32</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 33</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 43</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 47</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 67</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 69</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>87</td>
@@ -747,6 +1120,15 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 35</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 67</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 84</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 88</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 90</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>98</td>
@@ -760,6 +1142,15 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 20</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 63</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 81</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 98</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -778,6 +1169,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 56</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>66</td>
@@ -791,6 +1187,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -807,6 +1208,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -831,6 +1237,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 28</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 35</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 38</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 49</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 53</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 54</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 72</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 73</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>23</td>
@@ -851,6 +1269,14 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 23</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 38</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 38</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 62</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>20</td>
@@ -863,6 +1289,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -879,6 +1310,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -903,6 +1339,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 9</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 56</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 64</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 72</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 73</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 79</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 91</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 92</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>1</td>
@@ -917,6 +1365,12 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 3</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -934,6 +1388,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 5</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>12</td>
@@ -947,6 +1406,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -964,6 +1428,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 14</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>60</td>
@@ -977,6 +1446,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -994,6 +1468,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 21</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 44</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 55</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 57</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 73</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 76</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>53</td>
@@ -1006,6 +1490,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1023,6 +1512,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 27</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>38</td>
@@ -1035,6 +1529,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1051,6 +1550,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 83</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>7</td>
@@ -1065,6 +1569,13 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 3</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 6</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1084,6 +1595,14 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 49</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 71</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 90</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 92</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>89</td>
@@ -1096,6 +1615,13 @@ If you&#39;re interested in learning about actual country music subgenres or the
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 87</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 90</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1113,6 +1639,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 19</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>9</td>
@@ -1126,6 +1657,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1150,6 +1686,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 3</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 52</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 81</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 86</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 87</li>
+            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 91</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 97</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 98</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>79</td>
@@ -1164,6 +1712,15 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
             <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 23</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 70</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 82</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 88</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1181,6 +1738,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 66</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>70</td>
@@ -1194,6 +1756,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1219,6 +1786,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 11</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 18</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 23</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 25</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 32</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 47</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 53</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 54</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>86</td>
@@ -1231,6 +1810,19 @@ If you&#39;re interested in learning about actual country music subgenres or the
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 1</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 82</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 87</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 89</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 91</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 91</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 96</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 100</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1256,6 +1848,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 4</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 9</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 16</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 18</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 26</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 46</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 47</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 54</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>6</td>
@@ -1268,6 +1872,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 8</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 14</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 20</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 23</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 29</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 50</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 50</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1293,6 +1909,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 30</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 31</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 34</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 40</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 41</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 44</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 65</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 67</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>51</td>
@@ -1316,6 +1944,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 17</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 47</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 51</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 63</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 65</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 65</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 83</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 84</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>71</td>
@@ -1331,6 +1971,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 76</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>72</td>
@@ -1344,6 +1989,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1362,6 +2012,12 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 59</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>68</td>
@@ -1375,6 +2031,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 13</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 49</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 50</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 51</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 58</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1400,6 +2066,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 29</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 34</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 37</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 46</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 51</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 53</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 70</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 72</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>59</td>
@@ -1421,6 +2099,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 10</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 53</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 61</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 71</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 71</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 74</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 90</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1445,6 +2135,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 5</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 64</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 79</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 82</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 84</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 85</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 95</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 96</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>83</td>
@@ -1459,6 +2161,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 15</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 65</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 75</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 84</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 85</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1481,6 +2193,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 32</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 33</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 41</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 44</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 46</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 50</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 66</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1506,6 +2230,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 30</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 33</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 36</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 45</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 49</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 50</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 69</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 71</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>33</td>
@@ -1519,6 +2255,11 @@ If you&#39;re interested in learning about actual country music subgenres or the
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1541,6 +2282,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 7</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 37</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 67</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 77</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 82</li>
+            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 90</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 93</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1566,6 +2319,19 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 2</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 45</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 67</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 84</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 85</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 87</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 88</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 99</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>75</td>
@@ -1585,6 +2351,17 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 4</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 15</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 80</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 85</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 86</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 96</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1610,6 +2387,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 31</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 32</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 34</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 44</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 48</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 49</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 68</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 70</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>39</td>
@@ -1631,6 +2420,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 26</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 37</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 41</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 51</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 55</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 56</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 74</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1656,6 +2457,18 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 14</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 49</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 54</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 66</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 67</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 67</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 86</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 87</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>90</td>
@@ -1674,6 +2487,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 71</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 89</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 91</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 93</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 93</li>
+            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1696,6 +2519,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 77</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 94</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 94</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 95</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 96</li>
+            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 96</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>93</td>
@@ -1714,6 +2547,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 74</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 92</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 93</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 94</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 95</li>
+            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1737,6 +2580,15 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 16</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 24</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 29</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 34</li>
+            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 88</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>88</td>
@@ -1757,6 +2609,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 70</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 86</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 89</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 91</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 92</li>
+            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 93</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>99</td>
@@ -1768,6 +2630,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
       <td>ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 95</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 99</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 100</li>
+            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 100</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 100</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1790,6 +2662,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 78</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 95</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 95</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 96</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 97</li>
+            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 97</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>96</td>
@@ -1801,6 +2683,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
       <td>hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 81</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 96</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 97</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 98</li>
+            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 98</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1823,6 +2715,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 58</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 72</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 85</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 87</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 90</li>
+            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 92</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>97</td>
@@ -1843,6 +2745,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 82</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 97</li>
+            <li> <a href="{{ "/tags/country-rap" | relative_url }}">country rap</a> # 98</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 99</li>
+            <li> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a> # 99</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>40</td>
@@ -1859,6 +2771,15 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 23</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 24</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 28</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 39</li>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 76</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>69</td>
@@ -1872,6 +2793,16 @@ If you&#39;re interested in learning about actual country music subgenres or the
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a></li>
             <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/queer-metal" | relative_url }}">queer metal</a> # 36</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 36</li>
+            <li> <a href="{{ "/tags/kkk-country" | relative_url }}">kkk country</a> # 55</li>
+            <li> <a href="{{ "/tags/non-binary" | relative_url }}">non-binary</a> # 63</li>
+            <li> <a href="{{ "/tags/genderqueer" | relative_url }}">genderqueer</a> # 65</li>
+            <li> <a href="{{ "/tags/sjw" | relative_url }}">sjw</a> # 68</li>
         </ul>
       </td>
     </tr>

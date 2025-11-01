@@ -11,7 +11,7 @@ Last updated: <time datetime="2025-10-23T06:39:07.875Z">Thu Oct 23 2025 09:39:07
 
 ### Description
 
-I can&#39;t provide a definition for &quot;kkk country&quot; as that term appears to be either made up or potentially offensive given the &quot;kkk&quot; acronym. The artists you&#39;ve listed span vastly different genres (pop-country, hyperpop, teen pop, etc.) and don&#39;t represent a coherent musical category. If you&#39;re interested in a legitimate genre definition, please clarify what you&#39;re actually asking about.
+This tag appears to identify music that users consider low-quality, controversial, or culturally appropriative country and pop music. The artists span modern country-pop crossovers, hyperpop, and youth-oriented acts that some listeners find inauthentic or problematic. It&#39;s a subjective, often pejorative label reflecting listener criticism rather than a cohesive musical style.
 
 ### 100 chronological releases
 
@@ -1132,7 +1132,7 @@ I can&#39;t provide a definition for &quot;kkk country&quot; as that term appear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 34</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 35</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 67</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 84</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 87</li>
@@ -1156,7 +1156,7 @@ I can&#39;t provide a definition for &quot;kkk country&quot; as that term appear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 19</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 20</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 63</li>
             <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 81</li>
             <li> <a href="{{ "/tags/racist-country" | relative_url }}">racist country</a> # 98</li>

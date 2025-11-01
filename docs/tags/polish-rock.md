@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-25T04:31:23.339Z
+date: 2025-11-01T06:41:50.975Z
 permalink: tags/polish-rock
 title: polish rock
 ---
 
 ## polish rock
 
-Last updated: <time datetime="2025-10-25T04:31:23.339Z">Sat Oct 25 2025 07:31:23 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-01T06:41:50.975Z">Sat Nov 01 2025 08:41:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
   </thead>
   <tbody>
     <tr>
-      <td>19</td>
+      <td>23</td>
       <td>
       </td>
       <td>1968</td>
@@ -45,7 +45,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/2n775_hbUBV9w2c9PX8q7fsQBJyyEWVvM2y4AhKE-ac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTQ0/NTAtMTQ1NjYzNTc1/MC05MDc1LmpwZWc.jpeg" alt="Cover for Cała Jesteś W Skowronkach" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,26 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1970-01-19</td>
+      <td>Czesław Niemen</td>
+      <td>Niemen Enigmatic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
       </td>
       <td>1974</td>
@@ -90,7 +109,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>1980</td>
@@ -107,7 +126,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/zXVRmu-tO5KWBVhnk7jjomhWI4MFWW6Ro6rKSA-CtI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njcy/ODAtMTQ4OTM3MDI4/MC02ODgzLmpwZWc.jpeg" alt="Cover for Supernova" style="max-width:120px; height:auto;" />
       </td>
@@ -168,7 +187,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>19</td>
       <td>
       </td>
       <td>1987-03</td>
@@ -185,7 +204,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/554e3895ee3c984a3380de0dd2dd20e6.png" alt="Cover for Posłuchaj to do Ciebie" style="max-width:120px; height:auto;" />
       </td>
@@ -203,7 +222,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3560e48eb7fc8ab979a7906a50f65172.png" alt="Cover for Spokojnie" style="max-width:120px; height:auto;" />
       </td>
@@ -222,7 +241,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aca0382445f2db6893391460f4db1702.png" alt="Cover for Kaseta" style="max-width:120px; height:auto;" />
       </td>
@@ -242,7 +261,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
       </td>
       <td>1989</td>
@@ -260,7 +279,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c34a150adc19c4822c5cc85156eebcaa.png" alt="Cover for Wychowanie" style="max-width:120px; height:auto;" />
       </td>
@@ -280,7 +299,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1acd88235ae93a6ca832afe1d5da6ea7.png" alt="Cover for 45-89" style="max-width:120px; height:auto;" />
       </td>
@@ -299,7 +318,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>1991</td>
@@ -317,7 +336,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
       </td>
       <td>1991</td>
@@ -334,7 +353,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57ff4d7ef8844302bf1ddd88e7282631.png" alt="Cover for Cosmopolis" style="max-width:120px; height:auto;" />
       </td>
@@ -355,7 +374,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/IB_baB1LHyao4KQHxdxH4XLYc-oPFtEotJDTnIE4UxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjA2/NTEtMTM0NTcxOTQ0/NC05ODc1LmpwZWc.jpeg" alt="Cover for Dorosle Dzieci" style="max-width:120px; height:auto;" />
       </td>
@@ -375,7 +394,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f77f1e6efce07ac94b5d8d18d2559ce.png" alt="Cover for Underground" style="max-width:120px; height:auto;" />
       </td>
@@ -394,7 +413,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab3d7a2fb12094e5cd4515701333547f.png" alt="Cover for Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -409,12 +428,12 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 8</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e0403d6a6859600770a6bbfe7308b3c.png" alt="Cover for Tata Kazika" style="max-width:120px; height:auto;" />
       </td>
@@ -432,7 +451,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8330b03da5c309487b64ee551318a8b8.png" alt="Cover for Ho!" style="max-width:120px; height:auto;" />
       </td>
@@ -470,7 +489,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/BXrqZRc1fLPcc8tP-Zrp9KdF_Q5fGcduLYf61Esx2dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTU1/MDItMTI5MDI1Mjk2/Ny5qcGVn.jpeg" alt="Cover for Ballady" style="max-width:120px; height:auto;" />
       </td>
@@ -489,7 +508,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>21</td>
       <td>
       </td>
       <td>1995</td>
@@ -507,7 +526,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57b535fac204336df0859023d875d7d9.png" alt="Cover for Oddalenie" style="max-width:120px; height:auto;" />
       </td>
@@ -528,7 +547,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>33</td>
       <td>
       </td>
       <td>1997</td>
@@ -547,7 +566,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>1997</td>
@@ -580,12 +599,12 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 2</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eceb2c63f7d337bfe7ab01a54203de55.png" alt="Cover for Rockandrolle" style="max-width:120px; height:auto;" />
       </td>
@@ -606,7 +625,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/23b5d4b4d4e44202a2d32d2f9c1e616c.png" alt="Cover for Chlopaki Nie Placza" style="max-width:120px; height:auto;" />
       </td>
@@ -622,12 +641,12 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 8</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/aLA10wxZnWwvMJ42Ch2mO-9dFy-11IFSGGOyS7TIFiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDk5/NTktMTQ1NjQwMjcw/MS0zMTA0LmpwZWc.jpeg" alt="Cover for Supernova" style="max-width:120px; height:auto;" />
       </td>
@@ -645,7 +664,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5f0d5e1e829482d8e35e645c29351af.png" alt="Cover for BesT.Love" style="max-width:120px; height:auto;" />
       </td>
@@ -664,7 +683,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/d_B6Xah-YWaXiwPhYZsqC6MTY2NCvd9ksqfPdlAfsSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTgw/MDktMTQzNDExODM1/MC02OTM1LmpwZWc.jpeg" alt="Cover for Akustycznie" style="max-width:120px; height:auto;" />
       </td>
@@ -704,7 +723,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48dd0417fe97fc7a54536faf69c887db.png" alt="Cover for Masakra" style="max-width:120px; height:auto;" />
       </td>
@@ -720,7 +739,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 42</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -743,7 +762,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/tREgrWSGYP8CpkPRTOfCx0m2wurgZgnjLijo-IOIBJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzU4/MzktMTM5ODYwNDI0/Ni0yODMyLmpwZWc.jpeg" alt="Cover for Las Maquinas de la Muerte" style="max-width:120px; height:auto;" />
       </td>
@@ -762,7 +781,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
       </td>
       <td>1999-04-12</td>
@@ -779,7 +798,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/tREgrWSGYP8CpkPRTOfCx0m2wurgZgnjLijo-IOIBJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzU4/MzktMTM5ODYwNDI0/Ni0yODMyLmpwZWc.jpeg" alt="Cover for Las Maquinas de la Muerte" style="max-width:120px; height:auto;" />
       </td>
@@ -798,7 +817,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/tREgrWSGYP8CpkPRTOfCx0m2wurgZgnjLijo-IOIBJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzU4/MzktMTM5ODYwNDI0/Ni0yODMyLmpwZWc.jpeg" alt="Cover for Las Maquinas de la Muerte" style="max-width:120px; height:auto;" />
       </td>
@@ -817,7 +836,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/tREgrWSGYP8CpkPRTOfCx0m2wurgZgnjLijo-IOIBJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzU4/MzktMTM5ODYwNDI0/Ni0yODMyLmpwZWc.jpeg" alt="Cover for Las Maquinas de la Muerte" style="max-width:120px; height:auto;" />
       </td>
@@ -836,25 +855,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3535a238024374f763e9185d046a732.png" alt="Cover for Hey" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999-05-04</td>
-      <td>Hey</td>
-      <td>Hey</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c18580cdbb274c56b1f51ba779c6736c.png" alt="Cover for A Pudle?" style="max-width:120px; height:auto;" />
       </td>
@@ -880,7 +881,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/7APcCh0LqqufcDamXDyLYqHVjnM8Is8UBRbWDO4idxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NzQ5/ODEtMTQ3MTI1NjEz/OS01MTU0LmpwZWc.jpeg" alt="Cover for Kangaroz" style="max-width:120px; height:auto;" />
       </td>
@@ -898,7 +899,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/YssU7J2zQH2hGHCyzXPwzFUiv0gp8JSaTmzkvUiMTi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDk0/Mi0xNTc4MTI0MDc0/LTcyNTEuanBlZw.jpeg" alt="Cover for Aya RL" style="max-width:120px; height:auto;" />
       </td>
@@ -916,7 +917,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b8bf9061bcf457c9da7454328396b46.png" alt="Cover for Marchew W Butonierce" style="max-width:120px; height:auto;" />
       </td>
@@ -954,7 +955,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>22</td>
       <td>
       </td>
       <td>2002</td>
@@ -972,7 +973,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c28625d7fbb036ec0f1141488db724b8.png" alt="Cover for The Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -991,7 +992,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/FeDAM8nIfUfZfk4sK8QpB5TLYL9GpPzUxEa9V56zi3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDQ1/OS0xMzU2MzIxNjg1/LTM3OTkuanBlZw.jpeg" alt="Cover for Korova Milk Bar" style="max-width:120px; height:auto;" />
       </td>
@@ -1008,12 +1009,12 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       <td>
         <ul>
             <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 75</li>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 76</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a84d5cd3d8f48d9c868190ba223ae6e.png" alt="Cover for Revolta" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,7 +1033,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/m9Z_cmmwkCgAZLP_nhLUmt71gV1HGTZcqltfiXllV4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjY4/MTQtMTI3NzE0Mjg5/My5qcGVn.jpeg" alt="Cover for Bu³garskie Centrum" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1053,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/E-VdLiV2C6g1pp4SRNsvOlmUZPsZ0TTow1w144UwpA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTE3/NjUtMTMxNTMyNDQ4/MS5qcGVn.jpeg" alt="Cover for Pare lat" style="max-width:120px; height:auto;" />
       </td>
@@ -1072,7 +1073,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>38</td>
       <td>
       </td>
       <td>2004</td>
@@ -1089,7 +1090,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1af1b637f6547289173bb07d88633bc.png" alt="Cover for Pierwsze wyjście z mroku" style="max-width:120px; height:auto;" />
       </td>
@@ -1098,18 +1099,16 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       <td>Pierwsze wyjście z mroku</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 81</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/8KAyyBrc_rWeJRwPS24bEXSlfRNuxZ9c8b4jakSA_Z0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDY3/OTEtMTE5NTg5NzYx/MC5qcGVn.jpeg" alt="Cover for Pierwsze Wyjscie z Mroku" style="max-width:120px; height:auto;" />
       </td>
@@ -1125,7 +1124,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 53</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1143,12 +1142,12 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 69</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/lrpIJCGpXixeipnl99gGOTqAiGjiUnelBT_ROD7sMzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDUy/MS0xNTQzNTg2NDky/LTIyMzEuanBlZw.jpeg" alt="Cover for Wsystko Jedno" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,7 +1168,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/SPE9Y6uYu_uzdBLF2_3APvbq0KCh-kqUHSZD0Sm1PII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTI4/NzMtMTM4OTc5NDI4/Ni0xMDQ0LmpwZWc.jpeg" alt="Cover for 0001" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,7 +1205,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
       </td>
       <td>2005-04-18</td>
@@ -1223,7 +1222,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94c8788acf5b41419d577612f91bcb6b.png" alt="Cover for Podróże z i pod prąd" style="max-width:120px; height:auto;" />
       </td>
@@ -1243,7 +1242,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d628170e626b4139bf910ba289b9325a.png" alt="Cover for I Hate Rock&#39;N&#39;Roll" style="max-width:120px; height:auto;" />
       </td>
@@ -1261,7 +1260,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33dafe90f770389d49a93f5fa681d263.png" alt="Cover for Obrazki" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,9 +1269,6 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       <td>Obrazki</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
         </ul>
       </td>
       <td>
@@ -1281,7 +1277,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/tVpDg-4qrcADQHD88GF6OeoFL45qU7I9_C5jAhCxZBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjAx/MzYtMTE5NzExMDI0/MS5qcGVn.jpeg" alt="Cover for Galanteria" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,12 +1293,12 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 45</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/MZV5hqex8gICsYc_fA0buKBIPC-4sSFCrIDALeEu8UI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjAy/MzUtMTMxMjA0MTc2/MC5qcGVn.jpeg" alt="Cover for ZEN" style="max-width:120px; height:auto;" />
       </td>
@@ -1338,7 +1334,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b579d3c0a954b93a66960d59b56cb6f.png" alt="Cover for Autor" style="max-width:120px; height:auto;" />
       </td>
@@ -1359,7 +1355,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
       </td>
       <td>2007-10-26</td>
@@ -1377,7 +1373,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/y3PZV2_2DxtKMiCJwnXBvKAZu0_aB4Y8RUz1ZICAXBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjAw/NzAtMTMyNTYxNTY5/OC5qcGVn.jpeg" alt="Cover for Ocieramy się" style="max-width:120px; height:auto;" />
       </td>
@@ -1400,7 +1396,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/ADtRumV-7QDupi5sBLtvpM3eqOa3UJ4rbKxazdwWAe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTgz/NzQtMTQyNjg1OTA2/NC04MzkyLmpwZWc.jpeg" alt="Cover for Madame Castro" style="max-width:120px; height:auto;" />
       </td>
@@ -1419,7 +1415,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/hWmavNnKC90xJ_Fj1e-Gvwf-AT8CJ5sSTW9lbswKav8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM3/MDEtMTQxODQyNTE2/Ni0zMTQ5LmpwZWc.jpeg" alt="Cover for Milosc Jak Dynamit" style="max-width:120px; height:auto;" />
       </td>
@@ -1441,7 +1437,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/_WgO1VTCZkQuY-3lqDlQFYgfj6neESrjt2EpTCkLz0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTA1/NDEtMTI1OTkzODk1/OS5qcGVn.jpeg" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,7 +1455,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/kFZvxfNGPFUrst3f5bpHyLGdHvuOAQAOhKU96C2CPfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjUy/ODEtMTMxODcxNzI2/MS5qcGVn.jpeg" alt="Cover for Afterparty" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,12 +1471,12 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 31</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/YixOkZfsspdfV7IJmxZNAnOL9JjTrJF0Soy7psWX9NY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTk4/OTEtMTM2Mzk2MTU4/OS05MzczLmpwZWc.jpeg" alt="Cover for Markowski&#x2F;Sygitowicz" style="max-width:120px; height:auto;" />
       </td>
@@ -1499,7 +1495,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a53fda6f88080c39557bcc8c74c427c2.png" alt="Cover for Sen o 7 szklankach" style="max-width:120px; height:auto;" />
       </td>
@@ -1520,26 +1516,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>67</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1eae1d29562edcbf8c38a58bcee7184.png" alt="Cover for Winna" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-02-19</td>
-      <td>Agnieszka Chylińska</td>
-      <td>Winna</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
       </td>
       <td>2010-03-15</td>
@@ -1558,7 +1535,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2010-04-13</td>
@@ -1576,7 +1553,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>25</td>
       <td>
       </td>
       <td>2010-11-05</td>
@@ -1593,7 +1570,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/CwagrV-fHzL0Gi3zQN-QK9EhzKDuCHYFPpoqdlJWMI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTM5/Ny0xNDU3MTgxNDU2/LTg4NjIuanBlZw.jpeg" alt="Cover for Republika Marzen" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1589,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7614b7bad9074ee7a779509d8a4f5ae9.png" alt="Cover for Luxtorpeda" style="max-width:120px; height:auto;" />
       </td>
@@ -1630,7 +1607,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/n77me32rJ3U5LZnxTMr5NAopYOTA2pqj7OGJWYXkgy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk2/NjM3LTE1MjA4MTM5/NjAtOTc4OS5qcGVn.jpeg" alt="Cover for Chemiczna Bron" style="max-width:120px; height:auto;" />
       </td>
@@ -1651,7 +1628,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>24</td>
       <td>
       </td>
       <td>2013-04-16</td>
@@ -1670,7 +1647,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/EO8M011DWDuCHI6DbTKqj0LGzYhiLENnpRmxjI9fJQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTM5/MS0xMTY0MzI4NTc0/LmpwZWc.jpeg" alt="Cover for Bez Pradu" style="max-width:120px; height:auto;" />
       </td>
@@ -1688,7 +1665,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/XOacyOwVShQOSyd5AKf_NSdFs8tHdd15MIEBRJfQwtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjI2/NzktMTQ1NjMxNjgz/My00MTk3LmpwZWc.jpeg" alt="Cover for Mental house" style="max-width:120px; height:auto;" />
       </td>
@@ -1730,7 +1707,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c042c6ac96560b6e7f8c6263e7ead5b.png" alt="Cover for Błysk" style="max-width:120px; height:auto;" />
       </td>
@@ -1750,7 +1727,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/55e6286a05a80516e3bd5596e7f88ec6.png" alt="Cover for Wstyd" style="max-width:120px; height:auto;" />
       </td>
@@ -1769,7 +1746,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f3f4c209ba2442b605e6488d3607197.png" alt="Cover for Korpus Czechosłowacki" style="max-width:120px; height:auto;" />
       </td>
@@ -1788,7 +1765,29 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4dcd557b3ad298575e2270694fe3311.png" alt="Cover for 1994" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-02</td>
+      <td>Jamal</td>
+      <td>1994</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/ENGTRldgiU1knKSqYHj2ldmO69wW9phGION-DGWUJBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzY1/MTEtMTQ0NTY0MDY0/Ny02MjA5LmpwZWc.jpeg" alt="Cover for Znaki Szczegolne" style="max-width:120px; height:auto;" />
       </td>
@@ -1806,7 +1805,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ead96f4e238022c4a3ffbbd85da951c.png" alt="Cover for Metal Ballads vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1827,7 +1826,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/Z2sgoAGjZ__exZ7fY02LqUxoq0bURLjM0bFWvKMSS8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTM3/NzUtMTMxMTcyNjE5/Ni5qcGVn.jpeg" alt="Cover for LP 40" style="max-width:120px; height:auto;" />
       </td>
@@ -1866,13 +1865,13 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 75</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 76</li>
             <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d99f50e4a180dba5b5f7053eab521898.png" alt="Cover for King!" style="max-width:120px; height:auto;" />
       </td>
@@ -1892,7 +1891,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>34</td>
       <td>
       </td>
       <td></td>
@@ -1909,7 +1908,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>49</td>
       <td>
       </td>
       <td></td>
@@ -1927,7 +1926,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
       </td>
       <td></td>
@@ -1945,7 +1944,7 @@ Polish rock is a diverse genre that emerged in communist-era Poland, blending We
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
       </td>
       <td></td>

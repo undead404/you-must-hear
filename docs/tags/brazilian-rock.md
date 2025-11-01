@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T23:31:47.338Z
+date: 2025-11-01T06:43:51.047Z
 permalink: tags/brazilian-rock
 title: brazilian rock
 ---
 
 ## brazilian rock
 
-Last updated: <time datetime="2025-10-28T23:31:47.338Z">Wed Oct 29 2025 01:31:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-01T06:43:51.047Z">Sat Nov 01 2025 08:43:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -15,108 +15,2016 @@ Brazilian rock blends Western rock instrumentation with Portuguese lyrics and di
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 6 |  | 1973 | A Bolha | Um Passo A Frente |
-| 30 |  | 1981 | Zé Ramalho | A terceira lâmina |
-| 13 | ![Cover](https://i.discogs.com/PqxztuzrWUSXLZwu-m0RQN6Aig-nrEeTPWp8r9cnfIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDMz/MjMtMTUyNDU5ODE1/MC0yMTI4LmpwZWc.jpeg) | 1983 | Roupa Nova | Roupa Nova (1983) |
-| 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5251d8eb44c948ba8c6a1e98aa91cfff.png) | 1983 | Roupa Nova | Roupa Nova - 1985 |
-| 38 | ![Cover](https://i.discogs.com/rHbBtfCuel7YWpOio6kN9NjB31n4VysthKMzMPEks3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTA5/MzktMTM1NDQ3NzA0/MC04MTM4LmpwZWc.jpeg) | 1984 | Lulu Santos | Tudo Azul (Remasterizado) |
-| 22 | ![Cover](https://i.discogs.com/7un_aTTBOCfYDznCKXv_KZAX-lDZO9xh7GjSA-b_rj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjA3/MTMtMTY4MjQ4MjE1/My0xNTMxLmpwZWc.jpeg) | 1986 | Camisa de Vênus | Correndo Risco |
-| 8 |  | 1988 | Os Paralamas Do Sucesso | Bora Bora |
-| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/144fe1f381fbc6092f98c0789cd3be37.png) | 1989 | Marina Lima | Próxima Parada |
-| 19 | ![Cover](https://i.discogs.com/9Jv9wg4w2BP8pzGIjjPKy3NGmshiHHPQExNJQYYt--U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTMz/NzItMTI3MjQ5NTQw/OC5qcGVn.jpeg) | 1994 | Blitz | Meus Momentos |
-| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/704f68e3b71734c9aebabd116cea8f43.png) | 1994 | O Rappa | O Rappa |
-| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b3deed20be5a589e683bc72e3d8da71b.png) | 1995-09-13 | Engenheiros Do Hawaii | Simples de Coração |
-| 44 |  |  | Pouca Vogal | Pouca Vogal - Gessinger + Leindecker |
-| 55 |  |  | Tianastacia | Ta Na Boa |
-| 79 |  | 1974 | Raul Seixas | Gita |
-| 60 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4fdd8378c124ede7d9034f426a90cb30.png) | 1979 | Raul Seixas | Por Quem Os Sinos Dobram |
-| 67 | ![Cover](https://i.discogs.com/neGjL5P68Z_bdC_RvXnZtqxbfPHUlllbzrGOpiwxDSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODEy/MTg4LTE1NjE2NjI3/OTQtNjg3Ni5qcGVn.jpeg) | 1979 | Zé Ramalho | A Peleja do Diabo com o Dono do Céu (Versão com Faixas Bônus) |
-| 96 |  | 1980-09-25 | Rita Lee | Rita Lee |
-| 46 | ![Cover](https://i.discogs.com/4n8tqCJkXaDb7b5I0rjd9b1ggQSQ0Ft6Z9N9ZbrY8mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg4/OTUzLTE1NTkwNjQ1/MTYtOTU0Ny5qcGVn.jpeg) | 1982 | Lulu Santos | Tempos Modernos (Remasterizado) |
-| 68 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e6244b568c7751b749cbc9a5bc666ffe.png) | 1984 | Marina Lima | Fullgás |
-| 71 | ![Cover](https://i.discogs.com/echG6loV9NCfOI0NOthnzZk6XHnb1b1QYsCeQ2n3PVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjM1/NDEtMTQ5OTY4NjA1/Mi02NDA0LmpwZWc.jpeg) | 1985 | Os Mutantes | A Divina Comedia ou ando meio desligado |
-| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7b9e0df79a295df661205c506ff8cf01.png) | 1985-01-01 | Legião Urbana | Legião Urbana |
-| 81 |  | 1986 | Capital Inicial | Capital Inicial |
-| 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e7dbfc64cde5478484af18f0e30662e0.png) | 1986-07 | Legião Urbana | Dois |
-| 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4a1311c3d5394301911e6fd3224e1d35.png) | 1987-11 | Legião Urbana | Que País É Este |
-| 90 |  | 1987-11 | Legião Urbana | Que Pais É Este |
-| 51 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2c770985c68e3e2cebb3e5a4ca0c498b.png) | 1988 | Cazuza | Ideologia |
-| 85 |  | 1989 | Engenheiros Do Hawaii | Alívio imediato |
-| 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/be8b9ed7b52ad3ad2dbc342afdb46e8f.png) | 1989-10-26 | Legião Urbana | As Quatro Estações |
-| 84 |  | 1990-10 | Engenheiros Do Hawaii | O Papa É Pop |
-| 59 |  | 1993 | Raul Seixas | Os Grandes Sucessos De Raul Seixas |
-| 76 |  | 1993-01-01 | Legião Urbana | O Descobrimento Do Brasil |
-| 82 |  | 1994-01 | Raimundos | Raimundos |
-| 53 | ![Cover](https://i.discogs.com/COa0FHPh9VkynEYLN-czVw0G3MHxeAHsfHumkiDAZXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDQ3/OTItMTMyNDkxMTQx/OC5qcGVn.jpeg) | 1995 | Titãs | Domingo |
-| 89 | ![Cover](https://i.discogs.com/W552Y9TBmVFnbMUg5gCJD-lsAghrpSdDo7ECiOq6vWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzY2/Mi0xNTI5ODg5ODgx/LTgyMTEuanBlZw.jpeg) | 1995 | Legião Urbana | Que País é Este 1978&#x2F;1987 |
-| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cc61a91271bcac3857bff4a92949fab6.png) | 1996 | Zizi Possi | Asa Morena |
-| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b3e7bb4ff63346bb97ad30eb1959f075.png) | 1996 | Pato Fu | Tem Mas Acabou |
-| 37 |  | 1996 | Humberto Gessinger Trio | Humberto Gessinger Trio |
-| 75 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/441dd3d30119de6dace5fa8da9b7edaa.png) | 1996-07 | Skank | O Samba Poconé |
-| 97 |  | 1998-03 | Legião Urbana | Mais Do Mesmo |
-| 24 | ![Cover](https://i.discogs.com/yVUGF2klNi_uIGtvrkZsKcui2MPa_d4i_BOsNQ0EPLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTk1/NTktMTQyMzMzNjc0/OS0xNDU3LmpwZWc.jpeg) | 1999 | Os Paralamas Do Sucesso | Acustico Mtv |
-| 28 | ![Cover](https://i.discogs.com/oykodf6s_7amARPRRIwx12cUOlp1xxDDrgvYNm8DePw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTU2/NjMtMTM3MzE5NTM2/OS0yNTQ2LmpwZWc.jpeg) | 1999 | Charlie Brown JR. | 100% Charlie Brown Jr. |
-| 61 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/621c915b5ee885a3ef1ef195719e6b71.png) | 1999 | Mamonas Assassinas | Mamonas Assassinas - Ao Vivo |
-| 58 | ![Cover](https://i.discogs.com/m6xi_R67K9huJAimg6wITJJ6WhWhIPJ-2B3pSaELob8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg4/NDM4LTE1Njk1MjI1/NTAtMjY2MC5qcGVn.jpeg) | 1999-03-06 | Charlie Brown JR. | Preço Curto... Prazo Longo... |
-| 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/baa6614653f8d955dd112fc1250f07b0.png) | 1999-04-24 | Barão Vermelho | Balada MTV |
-| 34 |  | 2000 | Engenheiros Do Hawaii | 10.000 destinos |
-| 41 |  | 2000 | Rita Lee | 3001 |
-| 63 | ![Cover](https://i.discogs.com/CA8C2ts4wohUzHsb8RkdCppwmVmJThT17R3efphmvEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTAy/MDMtMTQ1OTg4MDg0/MC04NDAwLmpwZWc.jpeg) | 2000 | Capital Inicial | Acustico Mtv |
-| 73 | ![Cover](https://i.discogs.com/LWzu2Ruy8axszpoukt9sHN16yu9pTYW0lAqJkj3aC3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjkz/NTc1LTE3MTU1NzMx/OTMtODQwNy5qcGVn.jpeg) | 2000 | Cogumelo Plutão | Esperando Na Janela |
-| 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3d072e35c8b64abcca8bb7d88cc3f3b7.png) | 2000-03-21 | Capital Inicial | Acústico MTV |
-| 69 |  | 2000-04-07 | Jota Quest | Oxigênio |
-| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ae1275e2d7feadaf2e2d0cb67b25c2eb.png) | 2001 | Capital Inicial | Capital Inicial 4.0 |
-| 10 |  | 2001 | Capital Inicial | Capital Inicial 4.0 (Deluxe) |
-| 35 | ![Cover](https://i.discogs.com/1kHABBdxIjer5yZcFax3Z0zep36BrZ5QE-0qYUk3bro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTA3/NTItMTU2MzMwOTMy/My00MTE0LmpwZWc.jpeg) | 2001 | Autoramas | Vida real |
-| 43 |  | 2001 | Lobão | Uma Odisséia no Universo Paralelo |
-| 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2eb8ddcb281d7519847138ab0e596fe1.png) | 2001 | Titãs | A Melhor Banda de Todos os Tempos da Última Semana |
-| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/104a76436ef26e157943648d24c814ab.png) | 2001 | Capital Inicial | Acústico Capital Inicial |
-| 77 |  | 2001-01-08 | Legião Urbana | Como é que se diz eu te amo |
-| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/14dc32c223e94e1d80e874b188fd9a78.png) | 2002 | Bidê ou Balde | Outubro Ou Nada |
-| 25 | ![Cover](https://i.discogs.com/St-Shl_OGN7b0aPkXviCRRKbcu_QGBwYaeg1M8ho8wQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzA2/ODgtMTMwMjk3Nzg2/Ni5qcGVn.jpeg) | 2002 | Engenheiros Do Hawaii | Filmes de Guerra, Cancoes de Amor |
-| 39 | ![Cover](https://i.discogs.com/KAhLtVik6yUAyNXxfzLaFFim7l00wJMx20yyYmNMm28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTk4/NTgtMTM0NzUwMzI1/Ny01OTYzLmpwZWc.jpeg) | 2002 | Raul Seixas | &#39;Novo Aeon&#39; |
-| 74 | ![Cover](https://i.discogs.com/_CoofrVY2cT8YGQ0e-0m1qMEDZ_exhM-CGnTj-oa98g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDg5/MzktMTM1OTY3MTk3/MS01NTE3LmpwZWc.jpeg) | 2002 | Nação Zumbi | Nação Zumbi (2014) |
-| 50 |  | 2002-04-14 | Capital Inicial | Rosas E Vinho Tinto |
-| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2e51d9b517ea442ac4ab0c06a845f88a.png) | 2003 | Los Hermanos | Ventura |
-| 33 | ![Cover](https://i.discogs.com/hZjUbuGH1gaACSG3nx6pexb8G8vEIjO84hgIGHYJt9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTA3/MzMtMTQ3Mjg3ODk1/NC01MTM1LmpwZWc.jpeg) | 2003-08-05 | Autoramas | Nada pode parar os Autoramas |
-| 23 | ![Cover](https://i.discogs.com/yRfUvxHQw13V7PndoqJEh_raRRTbzHSkrPrqThsfBjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMw/MzUzLTE1Mjg5MDU5/MzctNzk0My5qcGVn.jpeg) | 2004 | Kid Abelha | Kid Abelha |
-| 40 | ![Cover](https://i.discogs.com/f0ejEbxj3TO_cHlSSxw1k-MUGPesx-G_lc-27RJtLt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDAx/MTYtMTQyOTA5MzMw/MC00ODIyLmpwZWc.jpeg) | 2004 | Brava | Brava |
-| 64 | ![Cover](https://i.discogs.com/tcs7Rlzkwx099JKIEsI4gLRLnEbXXScdbah-IgRPfvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTA2/MDgtMTU3NDQyNzU4/NS00NzQzLmpwZWc.jpeg) | 2004 | Bidê ou Balde | É Preciso Dar Vazão Aos Sentimentos |
-| 83 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/de043c5c9add45dac5c7db4eecd8ebb6.png) | 2005 | Los Hermanos | 4 |
-| 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/196703dcbe5b42ec8d0420eef0b41988.png) | 2005-05 | Cachorro Grande | Pista Livre |
-| 31 |  | 2005-10-24 | O Rappa | Acústico MTV |
-| 94 | ![Cover](https://i.discogs.com/28NtHvG4o_1iDrk2lodufsZA7pLEaSM44ZieNrjkid8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTk1/NDgtMTQ1MzU5NDIw/MS05NzU2LmpwZWc.jpeg) | 2006 | Kid Abelha | Acústico (Live) |
-| 66 | ![Cover](https://i.discogs.com/PeA70vemOx_a73SZBuW3GkZjdsJmTlKx5HgteFaCEok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYz/ODI1LTE2NjYxMDI3/NTgtODAzMC5qcGVn.jpeg) | 2006-03-03 | Detonautas | Psicodeliamorsexo&amp;Distorção |
-| 47 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7852b88090698fe1965e9bc36ab9bef3.png) | 2007 | Pitty | (Des) Concerto Ao Vivo |
-| 15 |  | 2008 | Seu Cuca | Seu Cuca Ao Vivo |
-| 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/27c7dc0a58b8161cea9494598d1dd803.png) | 2008-07-07 | NX Zero | Agora |
-| 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cc2d91adf0709860c308e97628a09bb2.png) | 2008-08-15 | O Rappa | 7 Vezes |
-| 9 |  | 2009 | Detonautas Roque Clube | 20 Anos - Acústico |
-| 2 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/70dddc464d1a42cc85bc99a05f9cc23e.png) | 2009-08-11 | Pitty | Chiaroscuro |
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ca880885e1754864ae220ceb29297d32.png) | 2010 | Ana Cañas | Hein? (Incluindo Faixa Bônus) |
-| 14 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/37eddd0da8f7dee12484c8f00cb14d41.png) | 2010 | Kid Abelha | Tudo É Permitido (Remasterizado) |
-| 29 |  | 2010 | Violins | Greve das Navalhas |
-| 49 |  | 2010 | Arnaldo Antunes | Ao vivo lá em casa |
-| 72 | ![Cover](https://i.discogs.com/2EUPHKBgATnbHxXgZjyYlAiICIgo3tClPExYXkjQbEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDM0/NDMtMTQ3Mzc4Mjc0/Ny0yODY1LmpwZWc.jpeg) | 2010 | Skank | Multishow Ao Vivo - Skank no Mineirão |
-| 98 | ![Cover](https://i.discogs.com/TGPDtK-Bi93Qc3ltYiPHslyzv9GP0ul34YJufckJCDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTc2/NzgtMTQ1Njk1NTk5/OC0xNjk3LmpwZWc.jpeg) | 2010 | Legiao Urbana | As Quatro Estacoes |
-| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cec6d359045599117f8f079a00e154c2.png) | 2011 | Os Paralamas Do Sucesso | Multishow Ao Vivo Paralamas Brasil Afora (Ao Vivo &#x2F; Deluxe) |
-| 45 | ![Cover](https://i.discogs.com/HuNFOBc_ZbiB7ixg96Qq-Y1z_knInnhdSfI6mNzSX9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTkx/MTEtMTQ1MzIwNzU2/My04NTc3LmpwZWc.jpeg) | 2011 | Engenheiros Do Hawaii | Acústico |
-| 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4d19b4f3cf9c4ddbb56e53126743b935.png) | 2011-05-13 | Pitty | A Trupe Delirante No Circo Voador (Ao Vivo) |
-| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b2e0da2eb3857a9ad9dd4137e787efad.png) | 2012 | Capital Inicial | Capital Inicial Multishow (Ao Vivo) [Deluxe] |
-| 91 | ![Cover](https://i.discogs.com/iu_YTtGa8J8uyJ2sF9CImAughtihatUnXQAnVrqoxU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE0/MDc1LTE1NDgyODgx/NjktOTkwMS5qcGVn.jpeg) | 2012 | Nando Reis | Dres |
-| 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/444a8733dcee4d72bc3d7d65ffaf3f53.png) | 2013 | Humberto Gessinger | Insular |
-| 17 |  | 2014 | Luziluzia | Come on feel the Riverbreeze |
-| 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/325bb1202ebc011fb9a4db145268ef9d.png) | 2014 | Legião Urbana | Que Pais E Este |
-| 48 | ![Cover](https://i.discogs.com/OEPV_-GAfqPAlmYLjoXrvOMCNruCx66xmWwjPiRb3bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTY2/MjIwLTE1NjkwODY3/MTItMjgzOC5qcGVn.jpeg) | 2015 | Céu | Remixed EP |
-| 80 | ![Cover](https://i.discogs.com/75yXh6DW-nZUxfDnYZRPsQP9R9EBJqBO8qdV9M1C4qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODE1/OTUtMTU5ODE2Njg1/OC04OTcyLmpwZWc.jpeg) | 2015-08-28 | Scalene | Éter |
-| 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/847d3927bd931f49c8079f90543ef405.png) | 2016 | Fresno | A Sinfonia de Tudo Que Há |
-| 7 |  | 2017 | Detonautas | Roque Club |
-| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/155f478fb51f6c877f2df3d91dfe37fc.png) | 2021-07-23 | Detonautas Roque Clube | Álbum Laranja |
-| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/787392502e0a88ed91c2c97de1f45fc7.png) | 2022 | Cazuza | O Tempo Não Para - O Show Completo (Ao Vivo) |
-| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1bd7cbdaf34ce51cb883d6aec4b15ef6.png) | 2023-03-10 | Selvagens à Procura de Lei | O Verão Passou, Mas O Sol Continua Aqui |
-| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eed423fba556f6bcdd55017df53d75a6.png) | 2024-06-07 | Supercombo | Todo Dia É Dia de Comemorar |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>1973</td>
+      <td>A Bolha</td>
+      <td>Um Passo A Frente</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>1974</td>
+      <td>Raul Seixas</td>
+      <td>Gita</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fdd8378c124ede7d9034f426a90cb30.png" alt="Cover for Por Quem Os Sinos Dobram" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Raul Seixas</td>
+      <td>Por Quem Os Sinos Dobram</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/neGjL5P68Z_bdC_RvXnZtqxbfPHUlllbzrGOpiwxDSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODEy/MTg4LTE1NjE2NjI3/OTQtNjg3Ni5qcGVn.jpeg" alt="Cover for A Peleja do Diabo com o Dono do Céu (Versão com Faixas Bônus)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Zé Ramalho</td>
+      <td>A Peleja do Diabo com o Dono do Céu (Versão com Faixas Bônus)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>1980-09-25</td>
+      <td>Rita Lee</td>
+      <td>Rita Lee</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td>1981</td>
+      <td>Zé Ramalho</td>
+      <td>A terceira lâmina</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/4n8tqCJkXaDb7b5I0rjd9b1ggQSQ0Ft6Z9N9ZbrY8mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjg4/OTUzLTE1NTkwNjQ1/MTYtOTU0Ny5qcGVn.jpeg" alt="Cover for Tempos Modernos (Remasterizado)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Lulu Santos</td>
+      <td>Tempos Modernos (Remasterizado)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/PqxztuzrWUSXLZwu-m0RQN6Aig-nrEeTPWp8r9cnfIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDMz/MjMtMTUyNDU5ODE1/MC0yMTI4LmpwZWc.jpeg" alt="Cover for Roupa Nova (1983)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Roupa Nova</td>
+      <td>Roupa Nova (1983)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5251d8eb44c948ba8c6a1e98aa91cfff.png" alt="Cover for Roupa Nova - 1985" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Roupa Nova</td>
+      <td>Roupa Nova - 1985</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/rHbBtfCuel7YWpOio6kN9NjB31n4VysthKMzMPEks3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTA5/MzktMTM1NDQ3NzA0/MC04MTM4LmpwZWc.jpeg" alt="Cover for Tudo Azul (Remasterizado)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Lulu Santos</td>
+      <td>Tudo Azul (Remasterizado)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6244b568c7751b749cbc9a5bc666ffe.png" alt="Cover for Fullgás" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Marina Lima</td>
+      <td>Fullgás</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 10</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/echG6loV9NCfOI0NOthnzZk6XHnb1b1QYsCeQ2n3PVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjM1/NDEtMTQ5OTY4NjA1/Mi02NDA0LmpwZWc.jpeg" alt="Cover for A Divina Comedia ou ando meio desligado" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Os Mutantes</td>
+      <td>A Divina Comedia ou ando meio desligado</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b9e0df79a295df661205c506ff8cf01.png" alt="Cover for Legião Urbana" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985-01-01</td>
+      <td>Legião Urbana</td>
+      <td>Legião Urbana</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/7un_aTTBOCfYDznCKXv_KZAX-lDZO9xh7GjSA-b_rj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjA3/MTMtMTY4MjQ4MjE1/My0xNTMxLmpwZWc.jpeg" alt="Cover for Correndo Risco" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Camisa de Vênus</td>
+      <td>Correndo Risco</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>1986</td>
+      <td>Capital Inicial</td>
+      <td>Capital Inicial</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7dbfc64cde5478484af18f0e30662e0.png" alt="Cover for Dois" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986-07</td>
+      <td>Legião Urbana</td>
+      <td>Dois</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a1311c3d5394301911e6fd3224e1d35.png" alt="Cover for Que País É Este" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987-11</td>
+      <td>Legião Urbana</td>
+      <td>Que País É Este</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>1987-11</td>
+      <td>Legião Urbana</td>
+      <td>Que Pais É Este</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td>1988</td>
+      <td>Os Paralamas Do Sucesso</td>
+      <td>Bora Bora</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c770985c68e3e2cebb3e5a4ca0c498b.png" alt="Cover for Ideologia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Cazuza</td>
+      <td>Ideologia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/144fe1f381fbc6092f98c0789cd3be37.png" alt="Cover for Próxima Parada" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Marina Lima</td>
+      <td>Próxima Parada</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>1989</td>
+      <td>Engenheiros Do Hawaii</td>
+      <td>Alívio imediato</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be8b9ed7b52ad3ad2dbc342afdb46e8f.png" alt="Cover for As Quatro Estações" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989-10-26</td>
+      <td>Legião Urbana</td>
+      <td>As Quatro Estações</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td>1990-10</td>
+      <td>Engenheiros Do Hawaii</td>
+      <td>O Papa É Pop</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Raul Seixas</td>
+      <td>Os Grandes Sucessos De Raul Seixas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 31</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 34</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 34</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 34</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 58</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>1993-01-01</td>
+      <td>Legião Urbana</td>
+      <td>O Descobrimento Do Brasil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/704f68e3b71734c9aebabd116cea8f43.png" alt="Cover for O Rappa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>O Rappa</td>
+      <td>O Rappa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/9Jv9wg4w2BP8pzGIjjPKy3NGmshiHHPQExNJQYYt--U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTMz/NzItMTI3MjQ5NTQw/OC5qcGVn.jpeg" alt="Cover for Meus Momentos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Blitz</td>
+      <td>Meus Momentos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>1994-01</td>
+      <td>Raimundos</td>
+      <td>Raimundos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/COa0FHPh9VkynEYLN-czVw0G3MHxeAHsfHumkiDAZXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDQ3/OTItMTMyNDkxMTQx/OC5qcGVn.jpeg" alt="Cover for Domingo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Titãs</td>
+      <td>Domingo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/W552Y9TBmVFnbMUg5gCJD-lsAghrpSdDo7ECiOq6vWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzY2/Mi0xNTI5ODg5ODgx/LTgyMTEuanBlZw.jpeg" alt="Cover for Que País é Este 1978&#x2F;1987" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Legião Urbana</td>
+      <td>Que País é Este 1978&#x2F;1987</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3deed20be5a589e683bc72e3d8da71b.png" alt="Cover for Simples de Coração" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-09-13</td>
+      <td>Engenheiros Do Hawaii</td>
+      <td>Simples de Coração</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc61a91271bcac3857bff4a92949fab6.png" alt="Cover for Asa Morena" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Zizi Possi</td>
+      <td>Asa Morena</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3e7bb4ff63346bb97ad30eb1959f075.png" alt="Cover for Tem Mas Acabou" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Pato Fu</td>
+      <td>Tem Mas Acabou</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Humberto Gessinger Trio</td>
+      <td>Humberto Gessinger Trio</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/441dd3d30119de6dace5fa8da9b7edaa.png" alt="Cover for O Samba Poconé" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-07</td>
+      <td>Skank</td>
+      <td>O Samba Poconé</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 34</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>1998-03</td>
+      <td>Legião Urbana</td>
+      <td>Mais Do Mesmo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/621c915b5ee885a3ef1ef195719e6b71.png" alt="Cover for Mamonas Assassinas - Ao Vivo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Mamonas Assassinas</td>
+      <td>Mamonas Assassinas - Ao Vivo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 40</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/yVUGF2klNi_uIGtvrkZsKcui2MPa_d4i_BOsNQ0EPLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTk1/NTktMTQyMzMzNjc0/OS0xNDU3LmpwZWc.jpeg" alt="Cover for Acustico Mtv" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Os Paralamas Do Sucesso</td>
+      <td>Acustico Mtv</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/oykodf6s_7amARPRRIwx12cUOlp1xxDDrgvYNm8DePw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTU2/NjMtMTM3MzE5NTM2/OS0yNTQ2LmpwZWc.jpeg" alt="Cover for 100% Charlie Brown Jr." style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Charlie Brown JR.</td>
+      <td>100% Charlie Brown Jr.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/m6xi_R67K9huJAimg6wITJJ6WhWhIPJ-2B3pSaELob8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg4/NDM4LTE1Njk1MjI1/NTAtMjY2MC5qcGVn.jpeg" alt="Cover for Preço Curto... Prazo Longo..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-03-06</td>
+      <td>Charlie Brown JR.</td>
+      <td>Preço Curto... Prazo Longo...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/baa6614653f8d955dd112fc1250f07b0.png" alt="Cover for Balada MTV" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-04-24</td>
+      <td>Barão Vermelho</td>
+      <td>Balada MTV</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Engenheiros Do Hawaii</td>
+      <td>10.000 destinos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Rita Lee</td>
+      <td>3001</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/CA8C2ts4wohUzHsb8RkdCppwmVmJThT17R3efphmvEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTAy/MDMtMTQ1OTg4MDg0/MC04NDAwLmpwZWc.jpeg" alt="Cover for Acustico Mtv" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Capital Inicial</td>
+      <td>Acustico Mtv</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/LWzu2Ruy8axszpoukt9sHN16yu9pTYW0lAqJkj3aC3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjkz/NTc1LTE3MTU1NzMx/OTMtODQwNy5qcGVn.jpeg" alt="Cover for Esperando Na Janela" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Cogumelo Plutão</td>
+      <td>Esperando Na Janela</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d072e35c8b64abcca8bb7d88cc3f3b7.png" alt="Cover for Acústico MTV" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-03-21</td>
+      <td>Capital Inicial</td>
+      <td>Acústico MTV</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>2000-04-07</td>
+      <td>Jota Quest</td>
+      <td>Oxigênio</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2000-08-01</td>
+      <td>Arnaldo Antunes</td>
+      <td>O Corpo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae1275e2d7feadaf2e2d0cb67b25c2eb.png" alt="Cover for Capital Inicial 4.0" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Capital Inicial</td>
+      <td>Capital Inicial 4.0</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/104a76436ef26e157943648d24c814ab.png" alt="Cover for Acústico Capital Inicial" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Capital Inicial</td>
+      <td>Acústico Capital Inicial</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Capital Inicial</td>
+      <td>Capital Inicial 4.0 (Deluxe)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/1kHABBdxIjer5yZcFax3Z0zep36BrZ5QE-0qYUk3bro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTA3/NTItMTU2MzMwOTMy/My00MTE0LmpwZWc.jpeg" alt="Cover for Vida real" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Autoramas</td>
+      <td>Vida real</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf" | relative_url }}">surf</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Lobão</td>
+      <td>Uma Odisséia no Universo Paralelo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2eb8ddcb281d7519847138ab0e596fe1.png" alt="Cover for A Melhor Banda de Todos os Tempos da Última Semana" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Titãs</td>
+      <td>A Melhor Banda de Todos os Tempos da Última Semana</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2001-01-08</td>
+      <td>Legião Urbana</td>
+      <td>Como é que se diz eu te amo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/KAhLtVik6yUAyNXxfzLaFFim7l00wJMx20yyYmNMm28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTk4/NTgtMTM0NzUwMzI1/Ny01OTYzLmpwZWc.jpeg" alt="Cover for &#39;Novo Aeon&#39;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Raul Seixas</td>
+      <td>&#39;Novo Aeon&#39;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14dc32c223e94e1d80e874b188fd9a78.png" alt="Cover for Outubro Ou Nada" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Bidê ou Balde</td>
+      <td>Outubro Ou Nada</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/_CoofrVY2cT8YGQ0e-0m1qMEDZ_exhM-CGnTj-oa98g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDg5/MzktMTM1OTY3MTk3/MS01NTE3LmpwZWc.jpeg" alt="Cover for Nação Zumbi (2014)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Nação Zumbi</td>
+      <td>Nação Zumbi (2014)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/St-Shl_OGN7b0aPkXviCRRKbcu_QGBwYaeg1M8ho8wQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzA2/ODgtMTMwMjk3Nzg2/Ni5qcGVn.jpeg" alt="Cover for Filmes de Guerra, Cancoes de Amor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Engenheiros Do Hawaii</td>
+      <td>Filmes de Guerra, Cancoes de Amor</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td>2002-04-14</td>
+      <td>Capital Inicial</td>
+      <td>Rosas E Vinho Tinto</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e51d9b517ea442ac4ab0c06a845f88a.png" alt="Cover for Ventura" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Los Hermanos</td>
+      <td>Ventura</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/hZjUbuGH1gaACSG3nx6pexb8G8vEIjO84hgIGHYJt9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTA3/MzMtMTQ3Mjg3ODk1/NC01MTM1LmpwZWc.jpeg" alt="Cover for Nada pode parar os Autoramas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-08-05</td>
+      <td>Autoramas</td>
+      <td>Nada pode parar os Autoramas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/f0ejEbxj3TO_cHlSSxw1k-MUGPesx-G_lc-27RJtLt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDAx/MTYtMTQyOTA5MzMw/MC00ODIyLmpwZWc.jpeg" alt="Cover for Brava" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Brava</td>
+      <td>Brava</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/yRfUvxHQw13V7PndoqJEh_raRRTbzHSkrPrqThsfBjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMw/MzUzLTE1Mjg5MDU5/MzctNzk0My5qcGVn.jpeg" alt="Cover for Kid Abelha" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Kid Abelha</td>
+      <td>Kid Abelha</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/tcs7Rlzkwx099JKIEsI4gLRLnEbXXScdbah-IgRPfvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTA2/MDgtMTU3NDQyNzU4/NS00NzQzLmpwZWc.jpeg" alt="Cover for É Preciso Dar Vazão Aos Sentimentos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Bidê ou Balde</td>
+      <td>É Preciso Dar Vazão Aos Sentimentos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de043c5c9add45dac5c7db4eecd8ebb6.png" alt="Cover for 4" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Los Hermanos</td>
+      <td>4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/196703dcbe5b42ec8d0420eef0b41988.png" alt="Cover for Pista Livre" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-05</td>
+      <td>Cachorro Grande</td>
+      <td>Pista Livre</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>2005-10-24</td>
+      <td>O Rappa</td>
+      <td>Acústico MTV</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/28NtHvG4o_1iDrk2lodufsZA7pLEaSM44ZieNrjkid8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTk1/NDgtMTQ1MzU5NDIw/MS05NzU2LmpwZWc.jpeg" alt="Cover for Acústico (Live)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Kid Abelha</td>
+      <td>Acústico (Live)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 48</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/PeA70vemOx_a73SZBuW3GkZjdsJmTlKx5HgteFaCEok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYz/ODI1LTE2NjYxMDI3/NTgtODAzMC5qcGVn.jpeg" alt="Cover for Psicodeliamorsexo&amp;Distorção" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-03-03</td>
+      <td>Detonautas</td>
+      <td>Psicodeliamorsexo&amp;Distorção</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Seu Cuca</td>
+      <td>Seu Cuca Ao Vivo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf" | relative_url }}">surf</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27c7dc0a58b8161cea9494598d1dd803.png" alt="Cover for Agora" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-07-07</td>
+      <td>NX Zero</td>
+      <td>Agora</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc2d91adf0709860c308e97628a09bb2.png" alt="Cover for 7 Vezes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-08-15</td>
+      <td>O Rappa</td>
+      <td>7 Vezes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Detonautas Roque Clube</td>
+      <td>20 Anos - Acústico</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70dddc464d1a42cc85bc99a05f9cc23e.png" alt="Cover for Chiaroscuro" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-08-11</td>
+      <td>Pitty</td>
+      <td>Chiaroscuro</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 57.99999999999999 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37eddd0da8f7dee12484c8f00cb14d41.png" alt="Cover for Tudo É Permitido (Remasterizado)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Kid Abelha</td>
+      <td>Tudo É Permitido (Remasterizado)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 18</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/TGPDtK-Bi93Qc3ltYiPHslyzv9GP0ul34YJufckJCDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTc2/NzgtMTQ1Njk1NTk5/OC0xNjk3LmpwZWc.jpeg" alt="Cover for As Quatro Estacoes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Legiao Urbana</td>
+      <td>As Quatro Estacoes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca880885e1754864ae220ceb29297d32.png" alt="Cover for Hein? (Incluindo Faixa Bônus)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Ana Cañas</td>
+      <td>Hein? (Incluindo Faixa Bônus)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td>2010</td>
+      <td>Violins</td>
+      <td>Greve das Navalhas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td>2010</td>
+      <td>Arnaldo Antunes</td>
+      <td>Ao vivo lá em casa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/2EUPHKBgATnbHxXgZjyYlAiICIgo3tClPExYXkjQbEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDM0/NDMtMTQ3Mzc4Mjc0/Ny0yODY1LmpwZWc.jpeg" alt="Cover for Multishow Ao Vivo - Skank no Mineirão" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Skank</td>
+      <td>Multishow Ao Vivo - Skank no Mineirão</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cec6d359045599117f8f079a00e154c2.png" alt="Cover for Multishow Ao Vivo Paralamas Brasil Afora (Ao Vivo &#x2F; Deluxe)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Os Paralamas Do Sucesso</td>
+      <td>Multishow Ao Vivo Paralamas Brasil Afora (Ao Vivo &#x2F; Deluxe)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/HuNFOBc_ZbiB7ixg96Qq-Y1z_knInnhdSfI6mNzSX9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTkx/MTEtMTQ1MzIwNzU2/My04NTc3LmpwZWc.jpeg" alt="Cover for Acústico" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Engenheiros Do Hawaii</td>
+      <td>Acústico</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 11</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 19</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 24</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d19b4f3cf9c4ddbb56e53126743b935.png" alt="Cover for A Trupe Delirante No Circo Voador (Ao Vivo)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-05-13</td>
+      <td>Pitty</td>
+      <td>A Trupe Delirante No Circo Voador (Ao Vivo)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/iu_YTtGa8J8uyJ2sF9CImAughtihatUnXQAnVrqoxU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE0/MDc1LTE1NDgyODgx/NjktOTkwMS5qcGVn.jpeg" alt="Cover for Dres" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Nando Reis</td>
+      <td>Dres</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 38</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 43</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2e0da2eb3857a9ad9dd4137e787efad.png" alt="Cover for Capital Inicial Multishow (Ao Vivo) [Deluxe]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Capital Inicial</td>
+      <td>Capital Inicial Multishow (Ao Vivo) [Deluxe]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/444a8733dcee4d72bc3d7d65ffaf3f53.png" alt="Cover for Insular" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Humberto Gessinger</td>
+      <td>Insular</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>2014</td>
+      <td>Luziluzia</td>
+      <td>Come on feel the Riverbreeze</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/325bb1202ebc011fb9a4db145268ef9d.png" alt="Cover for Que Pais E Este" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Legião Urbana</td>
+      <td>Que Pais E Este</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/OEPV_-GAfqPAlmYLjoXrvOMCNruCx66xmWwjPiRb3bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTY2/MjIwLTE1NjkwODY3/MTItMjgzOC5qcGVn.jpeg" alt="Cover for Remixed EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Céu</td>
+      <td>Remixed EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/75yXh6DW-nZUxfDnYZRPsQP9R9EBJqBO8qdV9M1C4qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODE1/OTUtMTU5ODE2Njg1/OC04OTcyLmpwZWc.jpeg" alt="Cover for Éter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-08-28</td>
+      <td>Scalene</td>
+      <td>Éter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/847d3927bd931f49c8079f90543ef405.png" alt="Cover for A Sinfonia de Tudo Que Há" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Fresno</td>
+      <td>A Sinfonia de Tudo Que Há</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td>2017</td>
+      <td>Detonautas</td>
+      <td>Roque Club</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/155f478fb51f6c877f2df3d91dfe37fc.png" alt="Cover for Álbum Laranja" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-07-23</td>
+      <td>Detonautas Roque Clube</td>
+      <td>Álbum Laranja</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/787392502e0a88ed91c2c97de1f45fc7.png" alt="Cover for O Tempo Não Para - O Show Completo (Ao Vivo)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Cazuza</td>
+      <td>O Tempo Não Para - O Show Completo (Ao Vivo)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bd7cbdaf34ce51cb883d6aec4b15ef6.png" alt="Cover for O Verão Passou, Mas O Sol Continua Aqui" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-03-10</td>
+      <td>Selvagens à Procura de Lei</td>
+      <td>O Verão Passou, Mas O Sol Continua Aqui</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eed423fba556f6bcdd55017df53d75a6.png" alt="Cover for Todo Dia É Dia de Comemorar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-06-07</td>
+      <td>Supercombo</td>
+      <td>Todo Dia É Dia de Comemorar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Pouca Vogal</td>
+      <td>Pouca Vogal - Gessinger + Leindecker</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Tianastacia</td>
+      <td>Ta Na Boa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
