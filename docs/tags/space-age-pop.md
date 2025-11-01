@@ -9,110 +9,2068 @@ title: space age pop
 
 Last updated: <time datetime="2025-10-29T00:57:39.957Z">Wed Oct 29 2025 02:57:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Space age pop emerged in the late 1950s and 1960s, blending exotic instruments, electronic effects, and futuristic themes to capture Cold War-era optimism about technology and space exploration. The genre features playful synthesizers, theremin, vibraphones, and lush orchestration that evoke both cocktail lounge sophistication and sci-fi fantasy. Its quirky, optimistic sound has influenced modern electronic and experimental pop artists seeking retro-futuristic atmospheres.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 1 |  |  | 王若琳 | Galaxy Crisis: The Strangest Midnight Broadcast |
-| 15 | ![Cover](https://i.discogs.com/RbB1Zepbbd2MEDWl0NtZMWjWowk-s4Juwo9AYaC33Ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzg3/NDItMTMzMDQwMTgx/OC5qcGVn.jpeg) | 1952 | Billy May &amp; His Orchestra | Ultra-Lounge Volume 3: Space Capades |
-| 90 |  | 1957 | Martin Denny | Exotica |
-| 72 |  | 1958 | Martin Denny | Primitiva |
-| 10 | ![Cover](https://i.discogs.com/MRfo0O0MLmCgnv2ekhI-34BvaUNjkuzd2Rq3aNhaRrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTYw/MzktMTQ1OTcxNzgw/OS02MDYxLmpwZWc.jpeg) | 1958-06 | Russ Garcia | Fantastica - Music From Outer Space |
-| 81 |  | 1959 | Martin Denny | Afro-Desia |
-| 93 | ![Cover](https://i.discogs.com/s4DHepKV--T1dhlaotIQ9RJwWeQnkaQgypVIMxO_vZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjQw/NzQtMTQ1ODMyMTA5/OS0zNDAyLmpwZWc.jpeg) | 1959 | Jean-Jacques Perrey | Amazing Electronic Pop Sound Of |
-| 47 | ![Cover](https://i.discogs.com/ELbRB4xx2NAjrirXt3gyb6BPu-VZXO99KH1rPomu2ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzMy/MDUtMTUyOTg3NjAw/Mi01ODE2LmpwZWc.jpeg) | 1962 | Tak Shindo | Ultra-Lounge Volume 3: Space Capades |
-| 16 | ![Cover](https://i.discogs.com/WA6BSDbKJ2_eMz793OFODlZ4Ud3uydq7tTG1ks3iBGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM0/NzYxLTE2NTgwNzY2/NzQtMTM1Ny5qcGVn.jpeg) | 1964 | Pete Drake | Forever |
-| 19 | ![Cover](https://i.discogs.com/dXpRZaETkaHnVPCkZ8obepB-zVLxD_csbzxa2xk-gXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjkz/OTUtMTM1NzgxMzQ5/NS04NDEyLmpwZWc.jpeg) | 1964 | Martin Denny | Latin Village |
-| 92 | ![Cover](https://i.discogs.com/t8z26ojzTMZrJ43jG-AXU2ggvca1xR8XGQZP6tqGjqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTYx/MjMwLTE2Mjk2ODI3/OTQtMzkwOC5qcGVn.jpeg) | 1966 | Martin Denny | Exotica 1 |
-| 6 | ![Cover](https://i.discogs.com/7dG5Xmu5B-6HBxZTweYNBZMZq3A9gdSo7wuQXP7LQPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEw/MTQzLTE0OTM0NTY1/OTktMjA2Ni5qcGVn.jpeg) | 1968 | Herb Alpert and the Tijuana Brass | The Very Best Of |
-| 7 | ![Cover](https://i.discogs.com/znxbWPafEWwkt7kgUxpXdMBZJUKt1tTUos2fzCQyO_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTE0/NzItMTUwMTUxNDU1/MC0yOTkwLmpwZWc.jpeg) | 1968 | Ferrante &amp; Teicher | All-Time Greatest Hits |
-| 66 |  | 1968 | Jean-Jacques Perrey | The Amazing New Electronic Pop Sound Of Jean Jacques Perrey |
-| 68 |  | 1968 | Dorothy Ashby | Afro-Harping |
-| 58 | ![Cover](https://i.discogs.com/I9B4E59aywAeTmCxY5NGLL6nzVVp-2he06VB0Kiy8Lc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzI1/MDMtMTQyNzMyNTU2/OC03MDQ2LmpwZWc.jpeg) | 1969 | Martin Denny | Exotic Moog |
-| 64 | ![Cover](https://i.discogs.com/LLlV_Ck7F-wS_jLM7Xspp4AEQW600UFCo20y1uJmPWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDAx/LTE1NTM2MzQxMTEt/NjE2Mi5qcGVn.jpeg) | 1969 | Dick Hyman | The Age of Electronicus |
-| 89 | ![Cover](https://i.discogs.com/ORApTFGQXhrEfHx34LF4lJR5nfli0okL2fxNKv7w8pE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQy/OTE4LTE1NDUwMDc4/NDQtNDYwNS5qcGVn.jpeg) | 1969 | Dick Hyman | Moog: The Electric Eclectics of Dick Hyman |
-| 37 |  | 1974 | Various Artists | Saturn: Chill Out Edition 1 |
-| 87 |  | 1974 | Various Artists | Wild, Cool &amp; Swingin&#39; |
-| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8b5a18833c21d173fa650efdd4018fe8.png) | 1975 | Perrey &amp; Kingsley | The Essential Perrey &amp; Kingsley |
-| 100 |  | 1976 | Mort Garson | Mother Earth&#39;s Plantasia |
-| 25 |  | 1977 | Various Artists | Underage&#39;s |
-| 54 |  | 1977 | Various Artists | To Be Someone |
-| 65 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1977 | Various Artists | Ultra-Lounge Sampler |
-| 73 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1977 | Various Artists | Risky Business |
-| 30 | ![Cover](https://i.discogs.com/ALNNUjQjgPRGRwhcrvx1oQoTZYvpZjjjC5IlhdbgZf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTcx/ODE3LTE2MDQ2NzY0/ODgtMjk3MS5wbmc.jpeg) | 1977-07-22 | Space | Suburban Rock &#39;n&#39; Roll |
-| 96 |  | 1978 | Bruce Haack | Haackula |
-| 20 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 1980 | Various Artists | Best Of Moog - Electronic Pop Hits From The 60&#39;s &amp; 70&#39;s |
-| 57 | ![Cover](https://i.discogs.com/eK6rLFQWQnoZN60bi00mWTIp4KpKuWqbfDshWwJA2W8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTMw/LTE0MTQ0NDcwODAt/Mjg1Ni5qcGVn.jpeg) | 1987 | David Sylvian | Secrets Of The Beehive |
-| 91 | ![Cover](https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg) | 1987 | Various Artists | Ultra-Lounge: Vegas Baby! |
-| 4 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1988 | Various Artists | Ultra Lounge: Tiki Sampler |
-| 12 |  | 1988 | Various Artists | Ultra-Lounge, Vol. 8: Cocktail Capers |
-| 21 |  | 1988 | Various Artists | Ultra-Lounge, Vol. 6: Rhapsodesia |
-| 42 | ![Cover](https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg) | 1988 | Various Artists | Have Yourself A Merry Little Christmas - 16 Christmas Classics |
-| 48 |  | 1988 | Various Artists | Ultra-Lounge, Vol. 7: Crime Scene |
-| 79 |  | 1988 | Various Artists | Blow Up Presents Exclusive Blend 1 |
-| 97 | ![Cover](https://i.discogs.com/UmdMPEXIJ-_9LpYSnkbz2HABLgPTEGJG8IeheR7Ic-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/MDgtMTQxMzE1NzI0/NS0zMjE0LmpwZWc.jpeg) | 1989 | Woo | It&#39;s Cosy Inside (Remastered) |
-| 17 |  | 1991 | Klaus Nomi | The Star Collection |
-| 44 | ![Cover](https://i.discogs.com/_VcfxVwLiDfQxaPdPTb8CEXrVvPOF57HZpgRd2rRv7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjU3/LTE1ODA3NDUxNjMt/Nzc1MC5qcGVn.jpeg) | 1992 | Humble Souls | Saint-Germain - Des Pres Cafe |
-| 29 | ![Cover](https://i.discogs.com/X049CWoDw8v1nzhuzTt8wZ5VCa9oonqMRS8_AeLf84A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDA3/MTg1LTE1MDgxMDMx/MjktMTE0Mi5qcGVn.jpeg) | 1993-07-14 | Yellow Magic Orchestra | Technodon Remixes II |
-| 43 |  | 1995 | giradioses | Dormitorio |
-| 56 | ![Cover](https://i.discogs.com/DZQInZTZ9uLRiCQzmb_f5rXpE9GP-4fUUMFFJ5gGzmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDg4/My0xNjgzMjAxMTM1/LTkzNDYucG5n.jpeg) | 1995-10-20 | Doopees | Doopee Time |
-| 9 | ![Cover](https://i.discogs.com/lhvK4K2Akwyyy6QKe0hT5yBCqKHdyDPiVncnRbsMVHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTgw/LTEyMjUxODU0NjAu/anBlZw.jpeg) | 1996 | Stock, Hausen &amp; Walkman | Organ Transplants Vol. 1 |
-| 31 | ![Cover](https://i.discogs.com/X5gEnGMnFeZ6l_UTz9odWYc1MVeIZCs_VFMD1HvzUzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjA0/OS0xNTk5NTA2ODIy/LTExNTIuanBlZw.jpeg) | 1996 | Cujo | Lo Recordings Volume 4 |
-| 55 | ![Cover](https://i.discogs.com/-_xAY6wRDGd1O2meMq9TAlaPbORPgFcGGX2qFfxpmYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU1/Ni0xMTczOTczOTgw/LmpwZWc.jpeg) | 1996 | Cujo | CHR021 |
-| 32 | ![Cover](https://i.discogs.com/teM8NR7onrgHw2m1V98puu2gyKXUcKw8_3MqpYds96I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE5/MzIyLTE1NzAxMDky/MTEtNDY5NS5qcGVn.jpeg) | 1996-06-21 | Takashi Kokubo | Music for a Cosmic Garden |
-| 75 |  | 1997 | Esquivel | Exploring New Sounds in Stereo |
-| 88 |  | 1997-06-09 | Broadcast | Work and Non Work |
-| 95 |  | 1997-09-22 | Stereolab | Dots and Loops |
-| 50 | ![Cover](https://i.discogs.com/OgOT9xQxnNTX-w_t4ejR0pFU4zdrs-FBJ7E2J1vxjmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDgx/LTE1MjkzNTE4MDUt/MjEzNC5qcGVn.jpeg) | 1997-11-18 | Salt Tank | Another World - Paul Oakenfold |
-| 41 |  | 1998-03-07 | Piero Piccioni | Camille 2000 |
-| 94 |  | 1999-06-15 | Flanger | Templates |
-| 39 | ![Cover](https://i.discogs.com/xtyqvP76jRekahNvnLG-oiZyPAV12VrYB2Hq2xD3jYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzY2/LTExNTkyMDMyMjgu/anBlZw.jpeg) | 2000 | Raymond Scott | Manhattan Research, Inc. |
-| 74 | ![Cover](https://i.discogs.com/vI6WLjKNloYEET1SWDDYGcKvMz4HEq2VCSv-ngaRvYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQt/MTE0NTMzOTY0MS5q/cGVn.jpeg) | 2000-03-20 | Broadcast | The Noise Made by People |
-| 70 | ![Cover](https://i.discogs.com/D-ZVYWzvmU7uv9HzZV_EaTCyZo0W7jscx5BHBZ8_Zg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTcz/Ni0xMTUwOTI2MTg5/LmpwZWc.jpeg) | 2000-05 | Soulstance | Mandarin: Chinese Chilling Thrills |
-| 24 |  | 2000-05-08 | Dzihan &amp; Kamien | Freaks &amp; Icons |
-| 52 |  | 2000-10-06 | Flanger | Midnight Sound |
-| 11 | ![Cover](https://i.discogs.com/9krjwPHmCGziqI2r33eHdtagF16ttYZs9BqXd9VL8ZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDgx/LTE1NzIxNjg4MzEt/NjEwNi5qcGVn.jpeg) | 2001 | Rae &amp; Christian | Rae &amp; Christian - Anotherlatenight |
-| 35 | ![Cover](https://i.discogs.com/eBtGg55BKHTRfqLJ_tlIsSX3J-1YW1OuHV5s4fuKkc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDU3/MC0xMTYyNTcwNzE0/LmpwZWc.jpeg) | 2001-01-23 | Death by Chocolate | Death by Chocolate |
-| 8 | ![Cover](https://i.discogs.com/WI-9oPGCDaZot7I-zay0sPDTr0V80s8RoW-PxUN49Gg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTI3/LTEyMTgzMTcxMDIu/anBlZw.jpeg) | 2002 | Koop | Playlist: Compiled By Jazzanova |
-| 85 | ![Cover](https://i.discogs.com/3rZweLS8Y7jdpr8i2L9JfLNBA9VIknxigI5ebu1KnlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzIx/LTAwMS5qcGc.jpeg) | 2002 | Aquanote | Nude Dimensions Vol 3 |
-| 27 |  | 2002-03 | Swayzak | Groovetechnology V1.3 |
-| 14 |  | 2003 | Various Artists | Ultra-Lounge, Vol. 18: Bottoms Up |
-| 2 |  | 2003-05-12 | Jazzanova | Remixed |
-| 3 | ![Cover](https://i.discogs.com/441sfLsP4EFy6Cd16zE3hMf8xMKpgFhm0ccv-5TV8-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA0/OC0xMjg4NDY4NTc2/LmpwZWc.jpeg) | 2003-11-24 | Pet Shop Boys | Behaviour &#x2F; Further Listening |
-| 13 | ![Cover](https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg) | 2004 | Various Artists | Ultra-Lounge, Vol. 15: Wild Cool &amp; Swingin&#39; Too |
-| 45 | ![Cover](https://i.discogs.com/yj7wXO2hUKsDEkD5Xc2PNk-DkJJpaZLBnMzemilPZRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDU2/My0xNTQxODQ2MTUw/LTczNjAuanBlZw.jpeg) | 2004 | Pepe Deluxé | Lying Peacefully |
-| 53 | ![Cover](https://i.discogs.com/5YAo2Kmkadt-BFpe6PmvPenplQP7pXLUDZ99ywHhvUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzcw/MjA0LTE3MDc2NzQ5/NjUtMTM4NC5qcGVn.jpeg) | 2004 | Various Artists | The Eclectic Sound of Vienna, Volume 3 |
-| 83 | ![Cover](https://i.discogs.com/SyDqDuL1iIOMOU7siznxQPZCiTvUhVHeg1u-_gXCapU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDY2/My0xMzc0MjMxNDA2/LTU5MDIuanBlZw.jpeg) | 2005 | Salomé de Bahia | Brasil |
-| 99 | ![Cover](https://i.discogs.com/jlS1Z7B1tbZI21qxbZLhRmAD2Oq7jPuUnyPaa3AmYzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDk5/OTM2LTE2NDcyMDMz/MDQtMjc0OC5qcGVn.jpeg) | 2005-09-19 | Broadcast | Maida Vale Sessions |
-| 46 | ![Cover](https://i.discogs.com/gGV0ZB_JW_hXAfncGbhdW2cWSfAcKNnPFRNaSVUkX5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDQx/NzEzLTE2MTM0ODEz/OTEtNDE0MC5qcGVn.jpeg) | 2005-11-04 | Afterlife | Buddha Bar VI: Rejoice |
-| 28 | ![Cover](https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg) | 2006 | Various Artists | Ultra-Lounge, Vol. 4: Bachelor Pad Royale |
-| 77 | ![Cover](https://i.discogs.com/x6Blx_OkKetPOuxXJqdRJX7k4Ukl6GD0Qgzgy202cO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQ0/Ny0xMzE3OTQ2OTk2/LmpwZWc.jpeg) | 2006 | Martin Denny | Forbidden Island |
-| 51 | ![Cover](https://i.discogs.com/oRXWG8oxzE9qQ8hWkXCVMkhgLqa4_6jZ_5TZWLhlta0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg0/My0xMDk0Njc2NDY1/LmpwZw.jpeg) | 2007-02-26 | Amp Fiddler | ep |
-| 23 |  | 2008-05 | Kim &amp; Buran | Flight B |
-| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/59dd9ad4d0674ad6867f7998ce7d0c29.png) | 2011-07-22 | Monster Rally | Crystal Ball |
-| 69 |  | 2012-01-30 | Pepe Deluxé | Queen Of The Wave |
-| 62 |  | 2017-07-14 | Various Artists | Ultra-Lounge, Vol. 16: Mondo Hollywood |
-| 5 | ![Cover](https://i.discogs.com/N18rgJYOB6kg1yExgEPulS3rFRVEjiGUdHLP4xz8ohs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjI2/MjQtMTQ3OTI3MDEw/MS03MTk4LmpwZWc.jpeg) | 2017-08-23 | Lux | Cafe Del Mar Vol. 7 |
-| 34 | ![Cover](https://i.discogs.com/RK5o4q_VQtMbdOo0mZr-3v8Pgr317kdRyFlDSjN2dAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODMy/NDc0LTE2MzkxMDgx/OTYtNzEwMi5wbmc.jpeg) | 2021-05-07 | Cosmic Neighbourhood | All for Fall |
-| 67 |  |  | 細野晴臣 | Pacific |
-| 76 | ![Cover](https://i.discogs.com/9v6hg9JZp6R-F6mRqVNQWTWEOL0fSx5L88n0Jp2pc_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDA3/NC0xMzIzMTU2NjEx/LmpwZWc.jpeg) | 2007-03-20 | Up, Bustle and Out | Master Session2 |
-| 82 | ![Cover](https://i.discogs.com/AgfZOgLeGNlBKPOsiJfyQ9CijF29QCfJLqu8WZW1q4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjAx/OTItMTUzMzIyNDgz/OS02MjQ0LmpwZWc.jpeg) | 2014-12 | Kruder &amp; Dorfmeister | Bar Lounge Classics 1 |
-| 61 | ![Cover](https://i.discogs.com/x8qWHdDcLaeOVtOrMe5fgWZuRaHDsj9OI2-l9WePdVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDk5/MS0xMzE0Mjk5NDkw/LmpwZWc.jpeg) | 2018 | Astrud Gilberto | Jazz Club Vocal |
-| 98 | ![Cover](https://i.discogs.com/1FoHPlm1b7cfb9ZiUpGKvwxS0ZQWccICRZcqvtz-iok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTU0/MDE2LTE2MDQzNDg1/MDQtNDk0My5qcGVn.jpeg) | 2020-11-06 | Mort Garson | Music from Patch Cord Productions |
-| 84 | ![Cover](https://i.discogs.com/BWXpcrAwqgOqBTEFwUwzzYDlxFgXlF4numyRjhrxmHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDk5/ODYxLTE2NDc2MjM2/MzctODIzMS5qcGVn.jpeg) | 2022-03-18 | Broadcast | Microtronics - Volumes 1 &amp; 2 |
-| 59 |  | 2022-04-14 | Various Artists | Redemption Songs Vol.1 |
-| 18 | ![Cover](https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg) | 2023 | Various Artists | Chill Off Djazz |
-| 22 | ![Cover](https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg) | 2023 | Various Artists | Ultra-Lounge, Vol. 14: Bossa Novaville |
-| 33 | ![Cover](https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg) | 2023 | Various Artists | Saint-Germain-des-Prés Café IV |
-| 36 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 2023 | Various Artists | When Brazil Meets The World |
-| 40 |  | 2023 | Various Artists | Ultra-Lounge, Vol. 17: Bongoland |
-| 60 |  | 2023 | Various Artists | Ultra-Lounge, Vol. 3: Space Capades |
-| 63 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 2023 | Various Artists | Ultra-Lounge, Vol. 9: Cha-Cha De Amor |
-| 71 |  | 2023 | Various Artists | Ultra-Lounge, Vol. 13: TV Town |
-| 78 |  | 2023 | Various Artists | Sonically Speaking vol. 15 februari 2004 |
-| 80 |  | 2023 | Various Artists | Science Fiction Jazz Vol. 5 |
-| 86 | ![Cover](https://i.discogs.com/sBV6InBA--wHpbR3ANfHDUNvVZrvi7eidU9g7ixngv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDI4/MzEzLTE2Nzg4ODQx/MzctMTUwOC5qcGVn.jpeg) | 2023 | Isolde Lasoen | Oh Dear |
-| 38 | ![Cover](https://i.discogs.com/_egeiamAEMlQdahyv2GNO3sf4zPt4XFTQooZbpXlg30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzY0/My0xMjI4Njc5Mzg1/LmpwZWc.jpeg) | 2023-09-29 | Klaus Nomi | Best of |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/RbB1Zepbbd2MEDWl0NtZMWjWowk-s4Juwo9AYaC33Ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzg3/NDItMTMzMDQwMTgx/OC5qcGVn.jpeg" alt="Cover for Ultra-Lounge Volume 3: Space Capades" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1952</td>
+      <td>Billy May &amp; His Orchestra</td>
+      <td>Ultra-Lounge Volume 3: Space Capades</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 7</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>1957</td>
+      <td>Martin Denny</td>
+      <td>Exotica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 39</li>
+            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 86</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>1958</td>
+      <td>Martin Denny</td>
+      <td>Primitiva</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/MRfo0O0MLmCgnv2ekhI-34BvaUNjkuzd2Rq3aNhaRrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTYw/MzktMTQ1OTcxNzgw/OS02MDYxLmpwZWc.jpeg" alt="Cover for Fantastica - Music From Outer Space" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1958-06</td>
+      <td>Russ Garcia</td>
+      <td>Fantastica - Music From Outer Space</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>1959</td>
+      <td>Martin Denny</td>
+      <td>Afro-Desia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/s4DHepKV--T1dhlaotIQ9RJwWeQnkaQgypVIMxO_vZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjQw/NzQtMTQ1ODMyMTA5/OS0zNDAyLmpwZWc.jpeg" alt="Cover for Amazing Electronic Pop Sound Of" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1959</td>
+      <td>Jean-Jacques Perrey</td>
+      <td>Amazing Electronic Pop Sound Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/ELbRB4xx2NAjrirXt3gyb6BPu-VZXO99KH1rPomu2ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzMy/MDUtMTUyOTg3NjAw/Mi01ODE2LmpwZWc.jpeg" alt="Cover for Ultra-Lounge Volume 3: Space Capades" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1962</td>
+      <td>Tak Shindo</td>
+      <td>Ultra-Lounge Volume 3: Space Capades</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/dXpRZaETkaHnVPCkZ8obepB-zVLxD_csbzxa2xk-gXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjkz/OTUtMTM1NzgxMzQ5/NS04NDEyLmpwZWc.jpeg" alt="Cover for Latin Village" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1964</td>
+      <td>Martin Denny</td>
+      <td>Latin Village</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/WA6BSDbKJ2_eMz793OFODlZ4Ud3uydq7tTG1ks3iBGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjM0/NzYxLTE2NTgwNzY2/NzQtMTM1Ny5qcGVn.jpeg" alt="Cover for Forever" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1964</td>
+      <td>Pete Drake</td>
+      <td>Forever</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/t8z26ojzTMZrJ43jG-AXU2ggvca1xR8XGQZP6tqGjqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTYx/MjMwLTE2Mjk2ODI3/OTQtMzkwOC5qcGVn.jpeg" alt="Cover for Exotica 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1966</td>
+      <td>Martin Denny</td>
+      <td>Exotica 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 42</li>
+            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 89</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td>1968</td>
+      <td>Dorothy Ashby</td>
+      <td>Afro-Harping</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 68</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 80</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/7dG5Xmu5B-6HBxZTweYNBZMZq3A9gdSo7wuQXP7LQPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjEw/MTQzLTE0OTM0NTY1/OTktMjA2Ni5qcGVn.jpeg" alt="Cover for The Very Best Of" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968</td>
+      <td>Herb Alpert and the Tijuana Brass</td>
+      <td>The Very Best Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/znxbWPafEWwkt7kgUxpXdMBZJUKt1tTUos2fzCQyO_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTE0/NzItMTUwMTUxNDU1/MC0yOTkwLmpwZWc.jpeg" alt="Cover for All-Time Greatest Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968</td>
+      <td>Ferrante &amp; Teicher</td>
+      <td>All-Time Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>1968</td>
+      <td>Jean-Jacques Perrey</td>
+      <td>The Amazing New Electronic Pop Sound Of Jean Jacques Perrey</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/I9B4E59aywAeTmCxY5NGLL6nzVVp-2he06VB0Kiy8Lc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzI1/MDMtMTQyNzMyNTU2/OC03MDQ2LmpwZWc.jpeg" alt="Cover for Exotic Moog" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969</td>
+      <td>Martin Denny</td>
+      <td>Exotic Moog</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/LLlV_Ck7F-wS_jLM7Xspp4AEQW600UFCo20y1uJmPWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDAx/LTE1NTM2MzQxMTEt/NjE2Mi5qcGVn.jpeg" alt="Cover for The Age of Electronicus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969</td>
+      <td>Dick Hyman</td>
+      <td>The Age of Electronicus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/ORApTFGQXhrEfHx34LF4lJR5nfli0okL2fxNKv7w8pE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQy/OTE4LTE1NDUwMDc4/NDQtNDYwNS5qcGVn.jpeg" alt="Cover for Moog: The Electric Eclectics of Dick Hyman" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969</td>
+      <td>Dick Hyman</td>
+      <td>Moog: The Electric Eclectics of Dick Hyman</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>1974</td>
+      <td>Various Artists</td>
+      <td>Saturn: Chill Out Edition 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>1974</td>
+      <td>Various Artists</td>
+      <td>Wild, Cool &amp; Swingin&#39;</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b5a18833c21d173fa650efdd4018fe8.png" alt="Cover for The Essential Perrey &amp; Kingsley" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975</td>
+      <td>Perrey &amp; Kingsley</td>
+      <td>The Essential Perrey &amp; Kingsley</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>1976</td>
+      <td>Mort Garson</td>
+      <td>Mother Earth&#39;s Plantasia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 60</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Underage&#39;s</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>To Be Someone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Ultra-Lounge Sampler" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Ultra-Lounge Sampler</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Risky Business" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Risky Business</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/ALNNUjQjgPRGRwhcrvx1oQoTZYvpZjjjC5IlhdbgZf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTcx/ODE3LTE2MDQ2NzY0/ODgtMjk3MS5wbmc.jpeg" alt="Cover for Suburban Rock &#39;n&#39; Roll" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977-07-22</td>
+      <td>Space</td>
+      <td>Suburban Rock &#39;n&#39; Roll</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>1978</td>
+      <td>Bruce Haack</td>
+      <td>Haackula</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Best Of Moog - Electronic Pop Hits From The 60&#39;s &amp; 70&#39;s" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Various Artists</td>
+      <td>Best Of Moog - Electronic Pop Hits From The 60&#39;s &amp; 70&#39;s</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/eK6rLFQWQnoZN60bi00mWTIp4KpKuWqbfDshWwJA2W8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTMw/LTE0MTQ0NDcwODAt/Mjg1Ni5qcGVn.jpeg" alt="Cover for Secrets Of The Beehive" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>David Sylvian</td>
+      <td>Secrets Of The Beehive</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Ultra-Lounge: Vegas Baby!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Various Artists</td>
+      <td>Ultra-Lounge: Vegas Baby!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Ultra Lounge: Tiki Sampler" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Various Artists</td>
+      <td>Ultra Lounge: Tiki Sampler</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for Have Yourself A Merry Little Christmas - 16 Christmas Classics" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Various Artists</td>
+      <td>Have Yourself A Merry Little Christmas - 16 Christmas Classics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>1988</td>
+      <td>Various Artists</td>
+      <td>Blow Up Presents Exclusive Blend 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td>1988</td>
+      <td>Various Artists</td>
+      <td>Ultra-Lounge, Vol. 8: Cocktail Capers</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td>1988</td>
+      <td>Various Artists</td>
+      <td>Ultra-Lounge, Vol. 6: Rhapsodesia</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td>1988</td>
+      <td>Various Artists</td>
+      <td>Ultra-Lounge, Vol. 7: Crime Scene</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/UmdMPEXIJ-_9LpYSnkbz2HABLgPTEGJG8IeheR7Ic-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTg5/MDgtMTQxMzE1NzI0/NS0zMjE0LmpwZWc.jpeg" alt="Cover for It&#39;s Cosy Inside (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Woo</td>
+      <td>It&#39;s Cosy Inside (Remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 8</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 34</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td>1991</td>
+      <td>Klaus Nomi</td>
+      <td>The Star Collection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/_VcfxVwLiDfQxaPdPTb8CEXrVvPOF57HZpgRd2rRv7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjU3/LTE1ODA3NDUxNjMt/Nzc1MC5qcGVn.jpeg" alt="Cover for Saint-Germain - Des Pres Cafe" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Humble Souls</td>
+      <td>Saint-Germain - Des Pres Cafe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/X049CWoDw8v1nzhuzTt8wZ5VCa9oonqMRS8_AeLf84A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDA3/MTg1LTE1MDgxMDMx/MjktMTE0Mi5qcGVn.jpeg" alt="Cover for Technodon Remixes II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-07-14</td>
+      <td>Yellow Magic Orchestra</td>
+      <td>Technodon Remixes II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>giradioses</td>
+      <td>Dormitorio</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/DZQInZTZ9uLRiCQzmb_f5rXpE9GP-4fUUMFFJ5gGzmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDg4/My0xNjgzMjAxMTM1/LTkzNDYucG5n.jpeg" alt="Cover for Doopee Time" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-10-20</td>
+      <td>Doopees</td>
+      <td>Doopee Time</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 15</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 34</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 38</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/X5gEnGMnFeZ6l_UTz9odWYc1MVeIZCs_VFMD1HvzUzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjA0/OS0xNTk5NTA2ODIy/LTExNTIuanBlZw.jpeg" alt="Cover for Lo Recordings Volume 4" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Cujo</td>
+      <td>Lo Recordings Volume 4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/-_xAY6wRDGd1O2meMq9TAlaPbORPgFcGGX2qFfxpmYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU1/Ni0xMTczOTczOTgw/LmpwZWc.jpeg" alt="Cover for CHR021" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Cujo</td>
+      <td>CHR021</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/lhvK4K2Akwyyy6QKe0hT5yBCqKHdyDPiVncnRbsMVHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTgw/LTEyMjUxODU0NjAu/anBlZw.jpeg" alt="Cover for Organ Transplants Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Stock, Hausen &amp; Walkman</td>
+      <td>Organ Transplants Vol. 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/teM8NR7onrgHw2m1V98puu2gyKXUcKw8_3MqpYds96I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjE5/MzIyLTE1NzAxMDky/MTEtNDY5NS5qcGVn.jpeg" alt="Cover for Music for a Cosmic Garden" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-06-21</td>
+      <td>Takashi Kokubo</td>
+      <td>Music for a Cosmic Garden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Esquivel</td>
+      <td>Exploring New Sounds in Stereo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 10</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>1997-06-09</td>
+      <td>Broadcast</td>
+      <td>Work and Non Work</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 45</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 58</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 62</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>1997-09-22</td>
+      <td>Stereolab</td>
+      <td>Dots and Loops</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 20</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 22</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 24</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 28</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 48</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 64</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 87</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/OgOT9xQxnNTX-w_t4ejR0pFU4zdrs-FBJ7E2J1vxjmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDgx/LTE1MjkzNTE4MDUt/MjEzNC5qcGVn.jpeg" alt="Cover for Another World - Paul Oakenfold" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-11-18</td>
+      <td>Salt Tank</td>
+      <td>Another World - Paul Oakenfold</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td>1998-03-07</td>
+      <td>Piero Piccioni</td>
+      <td>Camille 2000</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>1999-06-15</td>
+      <td>Flanger</td>
+      <td>Templates</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/xtyqvP76jRekahNvnLG-oiZyPAV12VrYB2Hq2xD3jYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzY2/LTExNTkyMDMyMjgu/anBlZw.jpeg" alt="Cover for Manhattan Research, Inc." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Raymond Scott</td>
+      <td>Manhattan Research, Inc.</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/vI6WLjKNloYEET1SWDDYGcKvMz4HEq2VCSv-ngaRvYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQt/MTE0NTMzOTY0MS5q/cGVn.jpeg" alt="Cover for The Noise Made by People" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-03-20</td>
+      <td>Broadcast</td>
+      <td>The Noise Made by People</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 53</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 56</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 72</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>2000-05-08</td>
+      <td>Dzihan &amp; Kamien</td>
+      <td>Freaks &amp; Icons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 9</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 83</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/D-ZVYWzvmU7uv9HzZV_EaTCyZo0W7jscx5BHBZ8_Zg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTcz/Ni0xMTUwOTI2MTg5/LmpwZWc.jpeg" alt="Cover for Mandarin: Chinese Chilling Thrills" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-05</td>
+      <td>Soulstance</td>
+      <td>Mandarin: Chinese Chilling Thrills</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td>2000-10-06</td>
+      <td>Flanger</td>
+      <td>Midnight Sound</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/9krjwPHmCGziqI2r33eHdtagF16ttYZs9BqXd9VL8ZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDgx/LTE1NzIxNjg4MzEt/NjEwNi5qcGVn.jpeg" alt="Cover for Rae &amp; Christian - Anotherlatenight" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Rae &amp; Christian</td>
+      <td>Rae &amp; Christian - Anotherlatenight</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/eBtGg55BKHTRfqLJ_tlIsSX3J-1YW1OuHV5s4fuKkc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDU3/MC0xMTYyNTcwNzE0/LmpwZWc.jpeg" alt="Cover for Death by Chocolate" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-01-23</td>
+      <td>Death by Chocolate</td>
+      <td>Death by Chocolate</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/WI-9oPGCDaZot7I-zay0sPDTr0V80s8RoW-PxUN49Gg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTI3/LTEyMTgzMTcxMDIu/anBlZw.jpeg" alt="Cover for Playlist: Compiled By Jazzanova" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Koop</td>
+      <td>Playlist: Compiled By Jazzanova</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/3rZweLS8Y7jdpr8i2L9JfLNBA9VIknxigI5ebu1KnlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NzIx/LTAwMS5qcGc.jpeg" alt="Cover for Nude Dimensions Vol 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Aquanote</td>
+      <td>Nude Dimensions Vol 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td>2002-03</td>
+      <td>Swayzak</td>
+      <td>Groovetechnology V1.3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Various Artists</td>
+      <td>Ultra-Lounge, Vol. 18: Bottoms Up</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2003-05-12</td>
+      <td>Jazzanova</td>
+      <td>Remixed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/441sfLsP4EFy6Cd16zE3hMf8xMKpgFhm0ccv-5TV8-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA0/OC0xMjg4NDY4NTc2/LmpwZWc.jpeg" alt="Cover for Behaviour &#x2F; Further Listening" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-11-24</td>
+      <td>Pet Shop Boys</td>
+      <td>Behaviour &#x2F; Further Listening</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/yj7wXO2hUKsDEkD5Xc2PNk-DkJJpaZLBnMzemilPZRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDU2/My0xNTQxODQ2MTUw/LTczNjAuanBlZw.jpeg" alt="Cover for Lying Peacefully" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Pepe Deluxé</td>
+      <td>Lying Peacefully</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg" alt="Cover for Ultra-Lounge, Vol. 15: Wild Cool &amp; Swingin&#39; Too" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Various Artists</td>
+      <td>Ultra-Lounge, Vol. 15: Wild Cool &amp; Swingin&#39; Too</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/5YAo2Kmkadt-BFpe6PmvPenplQP7pXLUDZ99ywHhvUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzcw/MjA0LTE3MDc2NzQ5/NjUtMTM4NC5qcGVn.jpeg" alt="Cover for The Eclectic Sound of Vienna, Volume 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Various Artists</td>
+      <td>The Eclectic Sound of Vienna, Volume 3</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/SyDqDuL1iIOMOU7siznxQPZCiTvUhVHeg1u-_gXCapU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDY2/My0xMzc0MjMxNDA2/LTU5MDIuanBlZw.jpeg" alt="Cover for Brasil" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Salomé de Bahia</td>
+      <td>Brasil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/jlS1Z7B1tbZI21qxbZLhRmAD2Oq7jPuUnyPaa3AmYzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDk5/OTM2LTE2NDcyMDMz/MDQtMjc0OC5qcGVn.jpeg" alt="Cover for Maida Vale Sessions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-09-19</td>
+      <td>Broadcast</td>
+      <td>Maida Vale Sessions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/gGV0ZB_JW_hXAfncGbhdW2cWSfAcKNnPFRNaSVUkX5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDQx/NzEzLTE2MTM0ODEz/OTEtNDE0MC5qcGVn.jpeg" alt="Cover for Buddha Bar VI: Rejoice" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-04</td>
+      <td>Afterlife</td>
+      <td>Buddha Bar VI: Rejoice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/x6Blx_OkKetPOuxXJqdRJX7k4Ukl6GD0Qgzgy202cO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQ0/Ny0xMzE3OTQ2OTk2/LmpwZWc.jpeg" alt="Cover for Forbidden Island" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Martin Denny</td>
+      <td>Forbidden Island</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 69</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for Ultra-Lounge, Vol. 4: Bachelor Pad Royale" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Various Artists</td>
+      <td>Ultra-Lounge, Vol. 4: Bachelor Pad Royale</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/oRXWG8oxzE9qQ8hWkXCVMkhgLqa4_6jZ_5TZWLhlta0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg0/My0xMDk0Njc2NDY1/LmpwZw.jpeg" alt="Cover for ep" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-02-26</td>
+      <td>Amp Fiddler</td>
+      <td>ep</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/9v6hg9JZp6R-F6mRqVNQWTWEOL0fSx5L88n0Jp2pc_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDA3/NC0xMzIzMTU2NjEx/LmpwZWc.jpeg" alt="Cover for Master Session2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-03-20</td>
+      <td>Up, Bustle and Out</td>
+      <td>Master Session2</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td>2008-05</td>
+      <td>Kim &amp; Buran</td>
+      <td>Flight B</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59dd9ad4d0674ad6867f7998ce7d0c29.png" alt="Cover for Crystal Ball" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-07-22</td>
+      <td>Monster Rally</td>
+      <td>Crystal Ball</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>2012-01-30</td>
+      <td>Pepe Deluxé</td>
+      <td>Queen Of The Wave</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/AgfZOgLeGNlBKPOsiJfyQ9CijF29QCfJLqu8WZW1q4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjAx/OTItMTUzMzIyNDgz/OS02MjQ0LmpwZWc.jpeg" alt="Cover for Bar Lounge Classics 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-12</td>
+      <td>Kruder &amp; Dorfmeister</td>
+      <td>Bar Lounge Classics 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2017-07-14</td>
+      <td>Various Artists</td>
+      <td>Ultra-Lounge, Vol. 16: Mondo Hollywood</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/N18rgJYOB6kg1yExgEPulS3rFRVEjiGUdHLP4xz8ohs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjI2/MjQtMTQ3OTI3MDEw/MS03MTk4LmpwZWc.jpeg" alt="Cover for Cafe Del Mar Vol. 7" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-08-23</td>
+      <td>Lux</td>
+      <td>Cafe Del Mar Vol. 7</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/x8qWHdDcLaeOVtOrMe5fgWZuRaHDsj9OI2-l9WePdVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDk5/MS0xMzE0Mjk5NDkw/LmpwZWc.jpeg" alt="Cover for Jazz Club Vocal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Astrud Gilberto</td>
+      <td>Jazz Club Vocal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/1FoHPlm1b7cfb9ZiUpGKvwxS0ZQWccICRZcqvtz-iok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTU0/MDE2LTE2MDQzNDg1/MDQtNDk0My5qcGVn.jpeg" alt="Cover for Music from Patch Cord Productions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-11-06</td>
+      <td>Mort Garson</td>
+      <td>Music from Patch Cord Productions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 17</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 97</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/RK5o4q_VQtMbdOo0mZr-3v8Pgr317kdRyFlDSjN2dAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODMy/NDc0LTE2MzkxMDgx/OTYtNzEwMi5wbmc.jpeg" alt="Cover for All for Fall" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-05-07</td>
+      <td>Cosmic Neighbourhood</td>
+      <td>All for Fall</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/BWXpcrAwqgOqBTEFwUwzzYDlxFgXlF4numyRjhrxmHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDk5/ODYxLTE2NDc2MjM2/MzctODIzMS5qcGVn.jpeg" alt="Cover for Microtronics - Volumes 1 &amp; 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-03-18</td>
+      <td>Broadcast</td>
+      <td>Microtronics - Volumes 1 &amp; 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2022-04-14</td>
+      <td>Various Artists</td>
+      <td>Redemption Songs Vol.1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/sBV6InBA--wHpbR3ANfHDUNvVZrvi7eidU9g7ixngv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDI4/MzEzLTE2Nzg4ODQx/MzctMTUwOC5qcGVn.jpeg" alt="Cover for Oh Dear" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Isolde Lasoen</td>
+      <td>Oh Dear</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Chill Off Djazz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Chill Off Djazz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg" alt="Cover for Saint-Germain-des-Prés Café IV" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Saint-Germain-des-Prés Café IV</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for When Brazil Meets The World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>When Brazil Meets The World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Sonically Speaking vol. 15 februari 2004</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Science Fiction Jazz Vol. 5</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for Ultra-Lounge, Vol. 14: Bossa Novaville" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Ultra-Lounge, Vol. 14: Bossa Novaville</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Ultra-Lounge, Vol. 17: Bongoland</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Ultra-Lounge, Vol. 3: Space Capades</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Ultra-Lounge, Vol. 9: Cha-Cha De Amor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Ultra-Lounge, Vol. 9: Cha-Cha De Amor</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Ultra-Lounge, Vol. 13: TV Town</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/_egeiamAEMlQdahyv2GNO3sf4zPt4XFTQooZbpXlg30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzY0/My0xMjI4Njc5Mzg1/LmpwZWc.jpeg" alt="Cover for Best of" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-09-29</td>
+      <td>Klaus Nomi</td>
+      <td>Best of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td></td>
+      <td>細野晴臣</td>
+      <td>Pacific</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 26</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>王若琳</td>
+      <td>Galaxy Crisis: The Strangest Midnight Broadcast</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+      </td>
+      <td></td>
+      <td>Various Artists</td>
+      <td>Wild</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

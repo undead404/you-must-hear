@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T15:40:39.828Z
+date: 2025-10-31T19:49:52.592Z
 permalink: tags/zen
 title: zen
 ---
 
 ## zen
 
-Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-31T19:49:52.592Z">Fri Oct 31 2025 21:49:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -20,6 +20,7 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
@@ -35,6 +36,11 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 83</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>65</td>
@@ -44,6 +50,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
       <td>1984</td>
       <td>Deuter</td>
       <td>Tibet: Nada Himalaya, Vol. 2</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -62,6 +72,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>64</td>
@@ -75,6 +89,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -93,6 +111,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>96</td>
@@ -104,6 +126,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -119,6 +145,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -137,6 +167,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>50</td>
@@ -149,6 +183,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -167,6 +205,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>63</td>
@@ -181,6 +223,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -200,6 +246,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>82</td>
@@ -214,6 +264,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -233,6 +287,11 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 2</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>92</td>
@@ -250,6 +309,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>14</td>
@@ -264,6 +327,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -284,6 +351,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>73</td>
@@ -296,6 +367,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -312,6 +387,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>77</td>
@@ -324,6 +403,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -341,6 +424,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>44</td>
@@ -356,6 +443,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -376,6 +467,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>51</td>
@@ -385,6 +480,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
       <td>2001</td>
       <td>Yashu</td>
       <td>Rejoice (Remix by Bansi, Riktam &amp; Harida)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -403,6 +502,11 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 48</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>81</td>
@@ -416,18 +520,8 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>
-          <img src="https://i.discogs.com/H0E9pm2EbNuwh_Vp8vL0AmkwE_Fx0zq5SX4jgnkj6hQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTcy/Mi0xMjIxNzU1MzA5/LmpwZWc.jpeg" alt="Cover for 02_Ulitka_Zen" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Dub Constructor</td>
-      <td>02_Ulitka_Zen</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
     </tr>
@@ -447,6 +541,11 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 71</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>79</td>
@@ -462,6 +561,29 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/H0E9pm2EbNuwh_Vp8vL0AmkwE_Fx0zq5SX4jgnkj6hQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTcy/Mi0xMjIxNzU1MzA5/LmpwZWc.jpeg" alt="Cover for 02_Ulitka_Zen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Dub Constructor</td>
+      <td>02_Ulitka_Zen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -480,6 +602,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>31</td>
@@ -493,6 +619,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -512,6 +642,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>97</td>
@@ -524,6 +658,33 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/akSlhWm4tkuw-tu6PGcDSuRe2fR0SDptb09eYSC6vJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ1/MTM3LTE2NDY4MzM1/MzctNzQ0Ny5qcGVn.jpeg" alt="Cover for Sage" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-02-01</td>
+      <td>PC Davidoff</td>
+      <td>Sage</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -544,22 +705,32 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>88</td>
-      <td>
-          <img src="https://i.discogs.com/akSlhWm4tkuw-tu6PGcDSuRe2fR0SDptb09eYSC6vJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ1/MTM3LTE2NDY4MzM1/MzctNzQ0Ny5qcGVn.jpeg" alt="Cover for Sage" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-02-01</td>
-      <td>PC Davidoff</td>
-      <td>Sage</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/op0nE9wCccMUFtdvBARuRntqKkygnRNBOh1i3t2Jkzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTcx/MDgtMTI0ODE4ODc4/NC5qcGVn.jpeg" alt="Cover for Pianochocolate - Morning Coffee (2008)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Pianochocolate</td>
+      <td>Pianochocolate - Morning Coffee (2008)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 82</li>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -582,6 +753,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>26</td>
@@ -598,22 +773,8 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>89</td>
-      <td>
-          <img src="https://i.discogs.com/op0nE9wCccMUFtdvBARuRntqKkygnRNBOh1i3t2Jkzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTcx/MDgtMTI0ODE4ODc4/NC5qcGVn.jpeg" alt="Cover for Pianochocolate - Morning Coffee (2008)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Pianochocolate</td>
-      <td>Pianochocolate - Morning Coffee (2008)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
     </tr>
@@ -628,6 +789,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -645,21 +810,8 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-          <img src="https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg" alt="Cover for Body &amp; Mood - Life Moods" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Various Artists</td>
-      <td>Body &amp; Mood - Life Moods</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
     </tr>
@@ -679,6 +831,32 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg" alt="Cover for Body &amp; Mood - Life Moods" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>Body &amp; Mood - Life Moods</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>95</td>
@@ -691,6 +869,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -707,6 +889,11 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -726,6 +913,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>34</td>
@@ -739,6 +930,11 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -765,6 +961,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>60</td>
@@ -781,19 +981,8 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td>2012-06-22</td>
-      <td>Jon Brooks</td>
-      <td>Seventh Heaven - Single</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
     </tr>
@@ -811,6 +1000,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -836,6 +1029,12 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 9</li>
+            <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 11</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>32</td>
@@ -856,6 +1055,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -884,9 +1087,23 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 12</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 31</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 40</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 44</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 60</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 62</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 75</li>
+            <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 77</li>
+            <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 77</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 81</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/m6eHunCZmShChFqYKgd76MYL8NDp2xvhXVhTGCA1ML4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzQ0/NTQxLTE2MjExMTQz/MjMtOTk0NS5qcGVn.jpeg" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
       </td>
@@ -898,6 +1115,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -914,9 +1135,13 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/Wh_m9tUfB76ZjqnbJzSgP5aEE0RLu5Jz2ce_z4eei0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzg1/NjQtMTQyNjQzOTA3/OC0zNjYyLmpwZWc.jpeg" alt="Cover for Music for Zen Meditation:Shakuhachi Japanese flute" style="max-width:120px; height:auto;" />
       </td>
@@ -932,9 +1157,13 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/urR6tSlN1ly9MwiygJ4IEdMFXjjdFEDT6fUFHvJsJqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODM2/MDE1LTE2MTU3MTg3/OTEtMTQ4OS5qcGVn.jpeg" alt="Cover for Zen Dub - The Journey EP" style="max-width:120px; height:auto;" />
       </td>
@@ -945,6 +1174,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -967,6 +1200,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>24</td>
@@ -984,6 +1221,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>11</td>
@@ -993,6 +1234,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
       <td>2016-09-16</td>
       <td>Taylor Nelson</td>
       <td>The Journey of One, Vol. 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1017,6 +1262,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>56</td>
@@ -1031,6 +1280,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1059,6 +1312,14 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 12</li>
+            <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 30</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 32</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 33</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>37</td>
@@ -1076,6 +1337,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1096,6 +1361,11 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 11</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>61</td>
@@ -1114,6 +1384,11 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 48</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>91</td>
@@ -1128,9 +1403,90 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>30</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Carlo Yemen</td>
+      <td>A Corner Can Fasten Itself</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td></td>
+      <td>*80)The Bunyanchips Sextet*80)</td>
+      <td>Is That You, David?</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Osho Musicians</td>
+      <td>Music For Osho Zen Tarot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Tu_tu</td>
+      <td>First</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>
       </td>
       <td></td>
@@ -1142,9 +1498,13 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
@@ -1160,6 +1520,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>7</td>
@@ -1171,6 +1535,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1186,6 +1554,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>9</td>
@@ -1197,6 +1569,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1216,6 +1592,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>15</td>
@@ -1227,6 +1607,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1244,6 +1628,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1266,6 +1654,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>19</td>
@@ -1282,6 +1674,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>20</td>
@@ -1294,6 +1690,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1312,6 +1712,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>27</td>
@@ -1326,6 +1730,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1343,17 +1751,8 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Carlo Yemen</td>
-      <td>A Corner Can Fasten Itself</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
         </ul>
       </td>
     </tr>
@@ -1378,6 +1777,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>36</td>
@@ -1398,6 +1801,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>41</td>
@@ -1411,6 +1818,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1434,6 +1845,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>47</td>
@@ -1446,6 +1861,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grime" | relative_url }}">grime</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1464,6 +1883,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>53</td>
@@ -1476,6 +1899,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1499,6 +1926,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>55</td>
@@ -1514,6 +1945,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1539,6 +1974,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>69</td>
@@ -1550,10 +1989,14 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1578,17 +2021,8 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zen" | relative_url }}">zen</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>85</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Osho Musicians</td>
-      <td>Music For Osho Zen Tarot</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
         </ul>
       </td>
     </tr>
@@ -1599,6 +2033,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
       <td></td>
       <td>Dr. Eric Pearl</td>
       <td>The Reconnection: Heal Others, Heal Yourself</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1615,6 +2053,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>42</td>
@@ -1627,14 +2069,6 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
         <ul>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>48</td>
-      <td>
-      </td>
-      <td></td>
-      <td>*80)The Bunyanchips Sextet*80)</td>
-      <td>Is That You, David?</td>
       <td>
         <ul>
         </ul>
@@ -1647,6 +2081,10 @@ Last updated: <time datetime="2025-10-29T15:40:39.828Z">Wed Oct 29 2025 17:40:39
       <td></td>
       <td>Meditação e Espiritualidade Musica Academia</td>
       <td>Meditação - Música Instrumental – Harmonia, Música de Flauta, Piano, Guitarra, Sons da Natureza, Musica Reiki, Zen, Yoga, Espiritu</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
