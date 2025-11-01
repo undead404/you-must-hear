@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T00:12:46.218Z
+date: 2025-11-01T10:30:51.033Z
 permalink: tags/blues-rock
 title: blues rock
 ---
 
 ## blues rock
 
-Last updated: <time datetime="2025-10-29T00:12:46.218Z">Wed Oct 29 2025 02:12:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-01T10:30:51.033Z">Sat Nov 01 2025 12:30:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -15,108 +15,1979 @@ Blues rock is a genre of rock music that emerged in the 1960s and is characteriz
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 2 |  | 1967-08-09 | Bee Gees | Bee Gees&#39; 1st |
-| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/23d1899dfc5306f7022346bef5333c93.png) |  | AC&#x2F;DC | If You Want Blood |
-| 24 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/625af5eb69744810a7f8c0cf41b8638a.png) | 1965 | The Yardbirds | For Your Love |
-| 17 |  | 1967-12-01 | The Jimi Hendrix Experience | Axis: Bold As Love |
-| 19 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/44c19abbd6d64f07b4e87a73fc73d54f.png) | 1968-01-29 | Steppenwolf | Steppenwolf |
-| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c1e9cc74e33401283a20207efd92e113.png) | 1968-07-29 | Jeff Beck | Truth |
-| 42 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/90c4037b8cc441b1c16966c5c9e2b79c.png) | 1969 | Cream | Goodbye |
-| 16 | ![Cover](https://i.discogs.com/jzrX24sMS2VLTM7-KtXHty2TZzYBdhOk5nY4w1HNeEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzIz/NDEtMTM0OTY3Njkz/NC03NzAwLmpwZWc.jpeg) | 1969-08-15 | Fleetwood Mac | The Pious Bird Of Good Omen |
-| 37 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4c38103f05b36d8c042b389a33ab0011.png) | 1969-11-29 | The Rolling Stones | Let It Bleed |
-| 39 | ![Cover](https://i.discogs.com/BQEctWIbLPIYWr41L8r3SmCxH7oeNVjLbuVOKLGK4So/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY5/OTctMTM3Mzk3MTQz/My04OTgyLmpwZWc.jpeg) | 1970-11 | Derek and the Dominos | Layla And Other Assorted Love Songs |
-| 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fb43eefd830282e06c6c2a9c51ec33dc.png) | 1972 | Foghat | Foghat |
-| 48 | ![Cover](https://i.discogs.com/6AJUKoCWZ3ekNQJBTvYFnIEBHpdRMtlQPC6jqz98pv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODA4/OTAtMTMwMzI0OTU1/NS5qcGVn.jpeg) | 1973 | Joe Walsh | The Smoker You Drink, The Player You Get |
-| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2cd827e7a802410ca5b339dc31ecb661.png) | 1973-07-26 | ZZ Top | Tres Hombres |
-| 33 | ![Cover](https://i.discogs.com/mBaBuALtJWA_OiBHx8ZdzD_JLR8NoMade2AcYseunYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDY0/MDYtMTM1NjIyMjE5/NC0zNjQzLmpwZWc.jpeg) | 1976 | J.J. Cale | Troubadour |
-| 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/559b8f349209404e84c8d8bdccc9d3ff.png) | 1977 | Eric Clapton | Slowhand |
-| 9 |  | 1979 | Peter Green | In The Skies |
-| 14 | ![Cover](https://i.discogs.com/K5aFEuNCKz8enICJj8Lkp1I-mWHtEHyb6yYiTkCdPcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQw/MzktMTMxNjIzNjkw/OC5qcGVn.jpeg) | 1981 | Derek and the Dominos | Layla &amp; Other Assorted Love Songs |
-| 20 |  | 1984 | Stevie Ray Vaughan and Double Trouble | Couldn&#39;t Stand The Weather |
-| 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5621513cd53d46e1c62a93861822cf4a.png) | 1984 | Gary Moore | Dirty Fingers |
-| 18 | ![Cover](https://i.discogs.com/-dx8xDVGXNkF5atgV3NYI8N09aOh3m1nLWhIGoe9DzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mzkw/MDctMTUyMjA5MDMw/My01NzI3LnBuZw.jpeg) | 1985 | Led Zeppelin | Led Zeppelin IV (1994 Remaster |
-| 36 |  | 1985 | The Rolling Stones | Hot Rocks (1964-1971) |
-| 28 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/10101ae74cc651cc26dc49c5da4f10d8.png) | 1985-10-28 | ZZ Top | Afterburner |
-| 35 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0c59f3ad6258485a9272f11bd7b384f8.png) | 1987-03-18 | Gary Moore | Wild Frontier |
-| 11 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e042c0644a6a4acbfbf90591c9cc02bd.png) | 1989-10-23 | Eric Clapton | Journeyman |
-| 43 | ![Cover](https://i.discogs.com/CKQqZA_jLaHN6r_tcdhn7irJB9fkp5r1z-sgwQW4hjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI3/NjQtMTUzNTYyNzAx/Mi05NDMxLmpwZWc.jpeg) | 1991-06-25 | Bonnie Raitt | Luck Of The Draw |
-| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/86ad2951bbf64be7917d5a45e8356eac.png) | 1994 | The Animals | The Singles Plus |
-| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c302746d57344ae0aeb211a8ff0377c8.png) | 1994-04-15 | Jimi Hendrix | Blues |
-| 34 |  | 1995-10-31 | Stevie Ray Vaughan and Double Trouble | Greatest Hits |
-| 12 | ![Cover](https://i.discogs.com/LAlM5ZCAcz-9vpfgCrIZ8CAvjTPBllfqG-vxFa0u_G8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjM4/ODYtMTQ0ODI4Njcz/MS01NzQ4LmpwZWc.jpeg) | 2000 | Bob Dylan | Love and Theft |
-| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1d1778ad5534495a9b269bb4edb98edc.png) | 2000-06-07 | B.B. King &amp; Eric Clapton | Riding with the King |
-| 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5793d892c5ef474892ce126b2c852522.png) | 2000-06-20 | The White Stripes | De Stijl |
-| 41 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bcd06c00951b50c303115da01c2ea801.png) |  | Greta Van Fleet | From The Fires |
-| 75 | ![Cover](https://i.discogs.com/69d_hfai3BzLlKAnke4fUnvmWtP-kir7iYMOQR9HMEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mzky/OC0xMjkyMTkxNjE4/LmpwZWc.jpeg) | 1966-12-09 | Cream | Fresh Cream |
-| 76 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d6caf080b7c92afd0bb395df624d0017.png) | 1967-09 | Captain Beefheart &amp; His Magic Band | Safe As Milk |
-| 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/52907e184f756b6f351f7b87acd7005a.png) | 1967-11-02 | Cream | Disraeli Gears |
-| 72 |  | 1968-06-14 | Cream | Wheels Of Fire |
-| 66 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e73d538be45fb3f7238a05858927e5dd.png) | 1968-07-05 | Creedence Clearwater Revival | Creedence Clearwater Revival |
-| 89 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/63ddbed9dcdc4b3b1b6aecf8e833d1ba.png) | 1969-08 | Blind Faith | Blind Faith |
-| 54 |  | 1969-10 | Janis Joplin | I Got Dem Ol&#39; Kozmic Blues Again Mama! |
-| 69 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a0f83bed092424df60ca2f827a208a0e.png) | 1970-02-20 | The Doors | Morrison Hotel |
-| 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b926eafe83ee7f644843c462698ef02d.png) | 1970-06-16 | Free | Fire And Water |
-| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a869fc6368444866a5f4328b7402c430.png) | 1971-01 | Janis Joplin | Pearl |
-| 70 |  | 1971-04 | The Doors | L.A. Woman |
-| 73 | ![Cover](https://i.discogs.com/vShVC0LSn5_7UVOA5VvxoqFdSYpQOnvhr86Jn6-ZIr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU5/MTctMTMwNDg3NzY0/NC5qcGVn.jpeg) | 1971-12 | J.J. Cale | Naturally |
-| 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7cea19bc24304cfd893b8f2977b3f8c1.png) | 1983-03-23 | ZZ Top | Eliminator |
-| 58 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2c4c365527f6386be825bd002f282bfe.png) | 1987 | Canned Heat | The Best of Canned Heat |
-| 60 | ![Cover](https://i.discogs.com/GzZHgihVsSTbjashZi5jhtSOfTIxTTe_Z5QhfrdTb50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTE5/OC0xNTI4OTE0OTYy/LTc1NTAuanBlZw.jpeg) | 1988-01-01 | Joe Cocker | With A Little Help From My Friends |
-| 63 |  | 1989-03-28 | Alannah Myles | Alannah Myles |
-| 77 |  | 1990 | Steve Miller Band | The Joker |
-| 74 |  | 1990-04-04 | Gary Moore | Still Got the Blues |
-| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/31104006a1dec923a516a1d58157ef62.png) | 1994-03-29 | Eric Clapton | The Cream of Clapton |
-| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/94a72e3d35244be594149a6339cd1eda.png) | 1999-06-15 | The White Stripes | The White Stripes |
-| 61 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cd0826ec2b087119bd774ca02f3ea3c9.png) | 1999-09-29 | Eric Clapton | Clapton Chronicles: The Best of Eric Clapton |
-| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5c27282f060a17dfcdcbf7e9d395a7c3.png) | 2001 | The Rolling Stones | 12 X 5 |
-| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/505a46f7dff793b5cda5c588f1dd7f50.png) | 2001 | The Rolling Stones | It&#39;s Only Rock &#39;n&#39; Roll |
-| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a5d89eba9d1979e1a61a1393ba318f75.png) | 2001 | Creedence Clearwater Revival | Bayou Country (Expanded Edition) |
-| 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/585d20ae888d3a05c74fe5ad50ba8f34.png) | 2002-05-14 | The Black Keys | The Big Come Up |
-| 10 |  | 2002-11-12 | Blues Traveler | Travelogue: Blues Traveler Classics |
-| 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a8a319c1765e46ec8d79aec6e3088727.png) | 2003-03-19 | The White Stripes | Elephant |
-| 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1ded9e0be7d84940c98c0bbc70a3a520.png) | 2003-04-08 | The Black Keys | Thickfreakness |
-| 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5286c951a5c5490a8e10f63608ed86f3.png) | 2008 | ZZ Top | Greatest Hits |
-| 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c54fb7746a903032c61ba9f9c278e4c6.png) | 2008-09-10 | Led Zeppelin | Houses Of The Holy (Remaster) |
-| 68 |  | 2009-02-09 | Dan Auerbach | Keep It Hid |
-| 53 |  | 2009-04-19 | Radio Moscow | Brain Cycles |
-| 82 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/50de5839a8fee6a12574b9d74ab51261.png) |  | Cream | Wheels of Fire |
-| 8 | ![Cover](https://i.discogs.com/gyWdslenmINJDHm08eEMOeFdvnvfXm7t_2GGa74QrvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDMz/MTctMTQwMTAzMTQz/My01MTMzLmpwZWc.jpeg) | 2003 | Mountain | Climbing |
-| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5659e7f9ffd76d6746786574cad1c7ed.png) | 2003 | The Rolling Stones | Beggars Banquet (50th Anniversary Edition) |
-| 85 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/82b68b8267234a289714c0e20c4e288d.png) | 2003-05-26 | Led Zeppelin | Led Zeppelin |
-| 45 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/533a973c7779411faca6a4243cf39d18.png) | 2004-06-15 | ZZ Top | Rancho Texicano: The Very Best of ZZ Top |
-| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/34fb70206e094acba2664e1d277bfcf7.png) | 2004-09-07 | The Black Keys | Rubber Factory |
-| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f4bd9ed207184af23b8199fb41c8eba2.png) | 2005-06-01 | The White Stripes | Get Behind Me Satan |
-| 46 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/85849f213e94161a305958adc2a927d5.png) | 2005-11-22 | John Mayer Trio | Try! |
-| 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4cef3efad7a5436c9869f9aa66f8fd98.png) | 2006-09-02 | The Black Keys | Magic Potion |
-| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f9139b8a4dd44b0aba99680a7a127175.png) | 2007-02-27 | Radio Moscow | Radio Moscow |
-| 7 | ![Cover](https://i.discogs.com/tipYIZKMZlWwPGN9eTm_ghujhrKSsyN-zr81F_CKYbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk1/ODgtMTQzOTY1NTQ4/Ni04ODg3LmpwZWc.jpeg) | 2008 | Eric Clapton | Riding With the King |
-| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c16983392305dcca321b579f3b0da298.png) | 2008-03-31 | The Black Keys | Attack &amp; Release |
-| 13 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/0744d6c04eede267ccf9b7f2d20dcc4b.png) | 2009 | The Animals | Most Of The Animals |
-| 86 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/850f09a116794ae4a63fe12b9f4075b3.png) | 2009-04-07 | Band of Skulls | Baby Darling Doll Face Honey |
-| 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fe84144e16808e200304351b5e9410de.png) | 2010-05-14 | The Black Keys | Brothers |
-| 52 | ![Cover](https://i.discogs.com/aRuAdaerb0n19PNXvyvl4K7NYB90Uo0hm1CGLTgEq_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjQ2/NjYtMTMzMzg2ODc1/Ny5qcGVn.jpeg) | 2011 | Gary Clark Jr. | The Bright Lights EP |
-| 64 | ![Cover](https://i.discogs.com/rsO7hiUXAdr3iNGdzAkN4n34U4DMy0zdsOSmcljbhlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc4/ODkzLTE1MTcwNjQ3/NTktODIyMC5qcGVn.jpeg) | 2011 | Derek &amp; The Dominos | Layla And Other Assorted Love Songs (Remastered 2010) |
-| 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/99052cb9c4304f33a104995426c52db8.png) | 2011-12-01 | The Black Keys | El Camino |
-| 97 | ![Cover](https://i.discogs.com/dsY1bwQcp_Nd7QGCjJ52gy9T6bkOd00EHDBvZ6XtEHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzQ0/NjEtMTQwMTk3MTQ0/NS0zODAxLmpwZWc.jpeg) | 2012-01-24 | The Black Keys | Gold on the Ceiling |
-| 83 |  | 2012-05-18 | John Mayer | Born and Raised |
-| 84 |  | 2012-09-03 | The Black Keys | Little Black Submarines |
-| 90 |  | 2014-05-09 | The Black Keys | Turn Blue |
-| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d631be95305a4e90ce8fb3f6ee33baac.png) | 2014-06-06 | Jack White | Lazaretto |
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d389bd97c978cb619a771f4e9db9a33c.png) | 2014-07-25 | Blues Pills | Blues Pills |
-| 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c1662611bbc45ac46c1e7755e88548f3.png) | 2015-09-04 | The Arcs | Yours, Dreamily, |
-| 40 | ![Cover](https://i.discogs.com/woTCh9pPLOgORG3I1dw9uWJuXTYSoFuNbBGkEIgMG28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/MTItMTQ3NjA2Mzk5/MS03ODQxLmpwZWc.jpeg) | 2015-11-05 | Barns Courtney | Glitter &amp; Gold |
-| 38 | ![Cover](https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg) | 2016 | taeyeon | Four Seasons |
-| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/73b6083496123a7736904f6b77a44895.png) | 2016-06-10 | Kaleo | A&#x2F;B |
-| 71 | ![Cover](https://i.discogs.com/xkdyDXSgOgaV5-jw1IjptjCalWexl_IkAy-uQXdlzR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzE0/ODgtMTY4MzkwMTI1/NS0xNTYxLmpwZWc.jpeg) | 2017 | The Doors | L.A.Woman |
-| 51 |  | 2017-05-19 | Dan Auerbach | Waiting on a Song |
-| 65 | ![Cover](https://i.discogs.com/E2gMz3OkWuX3IDdBfUThvWyePqyc8kuej2_rh8eHIR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI3/Nzk0LTE1MDY2NzY5/OTMtOTcxNC5qcGVn.jpeg) | 2017-09-29 | Barns Courtney | The Attractions of Youth |
-| 59 | ![Cover](https://i.discogs.com/FXr0FLYaFahhqarFixFrM0LZq6rOeHeER8Tuub_GTXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEz/OTE2LTE1MTY5MDQ4/MzMtODUyNS5qcGVn.jpeg) | 2017-11-17 | Greta Van Fleet | From the Fires |
-| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d45db7dab89e150f5dd1a1028fe49d61.png) | 2018-03-23 | Jack White | Boarding House Reach |
-| 47 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b6e430ff0d6aee5fcb45c2ec9d83250d.png) | 2019-03-01 | Reignwolf | Hear Me Out |
-| 67 | ![Cover](https://i.discogs.com/0MXYtRXBqOiU-00l3m7tV7JWfRUbMW3Tlbnu6N-0Ydk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA0/Nzk4LTE1NjE5NDQx/MjgtNTMyNy5qcGVn.jpeg) | 2019-06-28 | The Black Keys | &quot;Let&#39;s Rock&quot; |
-| 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/98233e0fc1d4d96fece149cad34f4742.png) | 2023-07-07 | The Rolling Stones | Sticky Fingers (Remastered) |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/625af5eb69744810a7f8c0cf41b8638a.png" alt="Cover for For Your Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1965</td>
+      <td>The Yardbirds</td>
+      <td>For Your Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/69d_hfai3BzLlKAnke4fUnvmWtP-kir7iYMOQR9HMEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mzky/OC0xMjkyMTkxNjE4/LmpwZWc.jpeg" alt="Cover for Fresh Cream" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1966-12-09</td>
+      <td>Cream</td>
+      <td>Fresh Cream</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td>1967-08-09</td>
+      <td>Bee Gees</td>
+      <td>Bee Gees&#39; 1st</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6caf080b7c92afd0bb395df624d0017.png" alt="Cover for Safe As Milk" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1967-09</td>
+      <td>Captain Beefheart &amp; His Magic Band</td>
+      <td>Safe As Milk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 95 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52907e184f756b6f351f7b87acd7005a.png" alt="Cover for Disraeli Gears" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1967-11-02</td>
+      <td>Cream</td>
+      <td>Disraeli Gears</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td>1967-12-01</td>
+      <td>The Jimi Hendrix Experience</td>
+      <td>Axis: Bold As Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 65</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>1968-06-14</td>
+      <td>Cream</td>
+      <td>Wheels Of Fire</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e73d538be45fb3f7238a05858927e5dd.png" alt="Cover for Creedence Clearwater Revival" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968-07-05</td>
+      <td>Creedence Clearwater Revival</td>
+      <td>Creedence Clearwater Revival</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 17</li>
+            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1e9cc74e33401283a20207efd92e113.png" alt="Cover for Truth" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968-07-29</td>
+      <td>Jeff Beck</td>
+      <td>Truth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 74 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/jzrX24sMS2VLTM7-KtXHty2TZzYBdhOk5nY4w1HNeEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzIz/NDEtMTM0OTY3Njkz/NC03NzAwLmpwZWc.jpeg" alt="Cover for The Pious Bird Of Good Omen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969-08-15</td>
+      <td>Fleetwood Mac</td>
+      <td>The Pious Bird Of Good Omen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 85</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63ddbed9dcdc4b3b1b6aecf8e833d1ba.png" alt="Cover for Blind Faith" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969-08</td>
+      <td>Blind Faith</td>
+      <td>Blind Faith</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>1969-10</td>
+      <td>Janis Joplin</td>
+      <td>I Got Dem Ol&#39; Kozmic Blues Again Mama!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c38103f05b36d8c042b389a33ab0011.png" alt="Cover for Let It Bleed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969-11-29</td>
+      <td>The Rolling Stones</td>
+      <td>Let It Bleed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 55.00000000000001 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0f83bed092424df60ca2f827a208a0e.png" alt="Cover for Morrison Hotel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970-02-20</td>
+      <td>The Doors</td>
+      <td>Morrison Hotel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 48</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 79</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b926eafe83ee7f644843c462698ef02d.png" alt="Cover for Fire And Water" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970-06-16</td>
+      <td>Free</td>
+      <td>Fire And Water</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/BQEctWIbLPIYWr41L8r3SmCxH7oeNVjLbuVOKLGK4So/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY5/OTctMTM3Mzk3MTQz/My04OTgyLmpwZWc.jpeg" alt="Cover for Layla And Other Assorted Love Songs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970-11</td>
+      <td>Derek and the Dominos</td>
+      <td>Layla And Other Assorted Love Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a869fc6368444866a5f4328b7402c430.png" alt="Cover for Pearl" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971-01</td>
+      <td>Janis Joplin</td>
+      <td>Pearl</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>1971-04</td>
+      <td>The Doors</td>
+      <td>L.A. Woman</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 42</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 83</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/vShVC0LSn5_7UVOA5VvxoqFdSYpQOnvhr86Jn6-ZIr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU5/MTctMTMwNDg3NzY0/NC5qcGVn.jpeg" alt="Cover for Naturally" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971-12</td>
+      <td>J.J. Cale</td>
+      <td>Naturally</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/Km2bjTrgCbrRlOGCF8PLs4ZuAmONDlQ87Tp0r60Z7nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTI3/MC0xNDY5Mjc2MDU5/LTY0NzUuanBlZw.jpeg" alt="Cover for Jump Back - The Best Of The Rolling Stones, &#39;71 - &#39;93" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>The Rolling Stones</td>
+      <td>Jump Back - The Best Of The Rolling Stones, &#39;71 - &#39;93</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/6AJUKoCWZ3ekNQJBTvYFnIEBHpdRMtlQPC6jqz98pv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODA4/OTAtMTMwMzI0OTU1/NS5qcGVn.jpeg" alt="Cover for The Smoker You Drink, The Player You Get" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973</td>
+      <td>Joe Walsh</td>
+      <td>The Smoker You Drink, The Player You Get</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6e0746a0359a72d86a2119e7afcf0f9.png" alt="Cover for 461 Ocean Boulevard" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>Eric Clapton</td>
+      <td>461 Ocean Boulevard</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/mBaBuALtJWA_OiBHx8ZdzD_JLR8NoMade2AcYseunYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDY0/MDYtMTM1NjIyMjE5/NC0zNjQzLmpwZWc.jpeg" alt="Cover for Troubadour" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>J.J. Cale</td>
+      <td>Troubadour</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/559b8f349209404e84c8d8bdccc9d3ff.png" alt="Cover for Slowhand" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Eric Clapton</td>
+      <td>Slowhand</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 71 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td>1979</td>
+      <td>Peter Green</td>
+      <td>In The Skies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/K5aFEuNCKz8enICJj8Lkp1I-mWHtEHyb6yYiTkCdPcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQw/MzktMTMxNjIzNjkw/OC5qcGVn.jpeg" alt="Cover for Layla &amp; Other Assorted Love Songs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981</td>
+      <td>Derek and the Dominos</td>
+      <td>Layla &amp; Other Assorted Love Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cea19bc24304cfd893b8f2977b3f8c1.png" alt="Cover for Eliminator" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983-03-23</td>
+      <td>ZZ Top</td>
+      <td>Eliminator</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>1984</td>
+      <td>Stevie Ray Vaughan and Double Trouble</td>
+      <td>Couldn&#39;t Stand The Weather</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5621513cd53d46e1c62a93861822cf4a.png" alt="Cover for Dirty Fingers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Gary Moore</td>
+      <td>Dirty Fingers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/-dx8xDVGXNkF5atgV3NYI8N09aOh3m1nLWhIGoe9DzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mzkw/MDctMTUyMjA5MDMw/My01NzI3LnBuZw.jpeg" alt="Cover for Led Zeppelin IV (1994 Remaster" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Led Zeppelin</td>
+      <td>Led Zeppelin IV (1994 Remaster</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td>1985</td>
+      <td>The Rolling Stones</td>
+      <td>Hot Rocks (1964-1971)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c4c365527f6386be825bd002f282bfe.png" alt="Cover for The Best of Canned Heat" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Canned Heat</td>
+      <td>The Best of Canned Heat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c59f3ad6258485a9272f11bd7b384f8.png" alt="Cover for Wild Frontier" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987-03-18</td>
+      <td>Gary Moore</td>
+      <td>Wild Frontier</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/GzZHgihVsSTbjashZi5jhtSOfTIxTTe_Z5QhfrdTb50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTE5/OC0xNTI4OTE0OTYy/LTc1NTAuanBlZw.jpeg" alt="Cover for With A Little Help From My Friends" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988-01-01</td>
+      <td>Joe Cocker</td>
+      <td>With A Little Help From My Friends</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td>1989-03-28</td>
+      <td>Alannah Myles</td>
+      <td>Alannah Myles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e042c0644a6a4acbfbf90591c9cc02bd.png" alt="Cover for Journeyman" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989-10-23</td>
+      <td>Eric Clapton</td>
+      <td>Journeyman</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Steve Miller Band</td>
+      <td>The Joker</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>1990-04-04</td>
+      <td>Gary Moore</td>
+      <td>Still Got the Blues</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/CKQqZA_jLaHN6r_tcdhn7irJB9fkp5r1z-sgwQW4hjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI3/NjQtMTUzNTYyNzAx/Mi05NDMxLmpwZWc.jpeg" alt="Cover for Luck Of The Draw" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-06-25</td>
+      <td>Bonnie Raitt</td>
+      <td>Luck Of The Draw</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86ad2951bbf64be7917d5a45e8356eac.png" alt="Cover for The Singles Plus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>The Animals</td>
+      <td>The Singles Plus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31104006a1dec923a516a1d58157ef62.png" alt="Cover for The Cream of Clapton" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-03-29</td>
+      <td>Eric Clapton</td>
+      <td>The Cream of Clapton</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c302746d57344ae0aeb211a8ff0377c8.png" alt="Cover for Blues" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-04-15</td>
+      <td>Jimi Hendrix</td>
+      <td>Blues</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4d0769b7a0e5e24e6e1a2e9dbb36081.png" alt="Cover for Are You Experienced" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Jimi Hendrix</td>
+      <td>Are You Experienced</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 62</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 72</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 77</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f90fb7113a5644b88f7fd56e0e295f98.png" alt="Cover for Stripped" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-10-12</td>
+      <td>The Rolling Stones</td>
+      <td>Stripped</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>1995-10-31</td>
+      <td>Stevie Ray Vaughan and Double Trouble</td>
+      <td>Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94a72e3d35244be594149a6339cd1eda.png" alt="Cover for The White Stripes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-06-15</td>
+      <td>The White Stripes</td>
+      <td>The White Stripes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+            <li style="font-size: calc(1rem * 63 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 37</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd0826ec2b087119bd774ca02f3ea3c9.png" alt="Cover for Clapton Chronicles: The Best of Eric Clapton" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-09-29</td>
+      <td>Eric Clapton</td>
+      <td>Clapton Chronicles: The Best of Eric Clapton</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/LAlM5ZCAcz-9vpfgCrIZ8CAvjTPBllfqG-vxFa0u_G8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjM4/ODYtMTQ0ODI4Njcz/MS01NzQ4LmpwZWc.jpeg" alt="Cover for Love and Theft" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Bob Dylan</td>
+      <td>Love and Theft</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 57</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 94</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d1778ad5534495a9b269bb4edb98edc.png" alt="Cover for Riding with the King" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-06-07</td>
+      <td>B.B. King &amp; Eric Clapton</td>
+      <td>Riding with the King</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 69 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5793d892c5ef474892ce126b2c852522.png" alt="Cover for De Stijl" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-06-20</td>
+      <td>The White Stripes</td>
+      <td>De Stijl</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 35</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5d89eba9d1979e1a61a1393ba318f75.png" alt="Cover for Bayou Country (Expanded Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Creedence Clearwater Revival</td>
+      <td>Bayou Country (Expanded Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c27282f060a17dfcdcbf7e9d395a7c3.png" alt="Cover for 12 X 5" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>The Rolling Stones</td>
+      <td>12 X 5</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/505a46f7dff793b5cda5c588f1dd7f50.png" alt="Cover for It&#39;s Only Rock &#39;n&#39; Roll" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>The Rolling Stones</td>
+      <td>It&#39;s Only Rock &#39;n&#39; Roll</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/392b63c9408c4d25cd53f0dbc987d29d.png" alt="Cover for White Blood Cells" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-07-03</td>
+      <td>The White Stripes</td>
+      <td>White Blood Cells</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 61 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 78</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 92</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/585d20ae888d3a05c74fe5ad50ba8f34.png" alt="Cover for The Big Come Up" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-05-14</td>
+      <td>The Black Keys</td>
+      <td>The Big Come Up</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td>2002-11-12</td>
+      <td>Blues Traveler</td>
+      <td>Travelogue: Blues Traveler Classics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam" | relative_url }}">jam</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 97</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/gyWdslenmINJDHm08eEMOeFdvnvfXm7t_2GGa74QrvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDMz/MTctMTQwMTAzMTQz/My01MTMzLmpwZWc.jpeg" alt="Cover for Climbing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Mountain</td>
+      <td>Climbing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 11</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8a319c1765e46ec8d79aec6e3088727.png" alt="Cover for Elephant" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-03-19</td>
+      <td>The White Stripes</td>
+      <td>Elephant</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 2</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 58</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ded9e0be7d84940c98c0bbc70a3a520.png" alt="Cover for Thickfreakness" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-04-08</td>
+      <td>The Black Keys</td>
+      <td>Thickfreakness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82b68b8267234a289714c0e20c4e288d.png" alt="Cover for Led Zeppelin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-05-26</td>
+      <td>Led Zeppelin</td>
+      <td>Led Zeppelin</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/533a973c7779411faca6a4243cf39d18.png" alt="Cover for Rancho Texicano: The Very Best of ZZ Top" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-06-15</td>
+      <td>ZZ Top</td>
+      <td>Rancho Texicano: The Very Best of ZZ Top</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34fb70206e094acba2664e1d277bfcf7.png" alt="Cover for Rubber Factory" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-09-07</td>
+      <td>The Black Keys</td>
+      <td>Rubber Factory</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4bd9ed207184af23b8199fb41c8eba2.png" alt="Cover for Get Behind Me Satan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-06-01</td>
+      <td>The White Stripes</td>
+      <td>Get Behind Me Satan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 8</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85849f213e94161a305958adc2a927d5.png" alt="Cover for Try!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-22</td>
+      <td>John Mayer Trio</td>
+      <td>Try!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cef3efad7a5436c9869f9aa66f8fd98.png" alt="Cover for Magic Potion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-09-02</td>
+      <td>The Black Keys</td>
+      <td>Magic Potion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9139b8a4dd44b0aba99680a7a127175.png" alt="Cover for Radio Moscow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-02-27</td>
+      <td>Radio Moscow</td>
+      <td>Radio Moscow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32f153b85b0f477fc7b672aa04db055d.png" alt="Cover for Icky Thump" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-06-15</td>
+      <td>The White Stripes</td>
+      <td>Icky Thump</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 44</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/tipYIZKMZlWwPGN9eTm_ghujhrKSsyN-zr81F_CKYbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk1/ODgtMTQzOTY1NTQ4/Ni04ODg3LmpwZWc.jpeg" alt="Cover for Riding With the King" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Eric Clapton</td>
+      <td>Riding With the King</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5286c951a5c5490a8e10f63608ed86f3.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>ZZ Top</td>
+      <td>Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c16983392305dcca321b579f3b0da298.png" alt="Cover for Attack &amp; Release" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-03-31</td>
+      <td>The Black Keys</td>
+      <td>Attack &amp; Release</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0744d6c04eede267ccf9b7f2d20dcc4b.png" alt="Cover for Most Of The Animals" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>The Animals</td>
+      <td>Most Of The Animals</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>2009-02-09</td>
+      <td>Dan Auerbach</td>
+      <td>Keep It Hid</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaa608709afe49958f07c977eeacc3e4.png" alt="Cover for The Ballad Of John Henry" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-02-20</td>
+      <td>Joe Bonamassa</td>
+      <td>The Ballad Of John Henry</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/850f09a116794ae4a63fe12b9f4075b3.png" alt="Cover for Baby Darling Doll Face Honey" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-04-07</td>
+      <td>Band of Skulls</td>
+      <td>Baby Darling Doll Face Honey</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td>2009-04-19</td>
+      <td>Radio Moscow</td>
+      <td>Brain Cycles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe84144e16808e200304351b5e9410de.png" alt="Cover for Brothers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-05-14</td>
+      <td>The Black Keys</td>
+      <td>Brothers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/aRuAdaerb0n19PNXvyvl4K7NYB90Uo0hm1CGLTgEq_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjQ2/NjYtMTMzMzg2ODc1/Ny5qcGVn.jpeg" alt="Cover for The Bright Lights EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Gary Clark Jr.</td>
+      <td>The Bright Lights EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/rsO7hiUXAdr3iNGdzAkN4n34U4DMy0zdsOSmcljbhlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc4/ODkzLTE1MTcwNjQ3/NTktODIyMC5qcGVn.jpeg" alt="Cover for Layla And Other Assorted Love Songs (Remastered 2010)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Derek &amp; The Dominos</td>
+      <td>Layla And Other Assorted Love Songs (Remastered 2010)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99052cb9c4304f33a104995426c52db8.png" alt="Cover for El Camino" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-12-01</td>
+      <td>The Black Keys</td>
+      <td>El Camino</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/dsY1bwQcp_Nd7QGCjJ52gy9T6bkOd00EHDBvZ6XtEHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzQ0/NjEtMTQwMTk3MTQ0/NS0zODAxLmpwZWc.jpeg" alt="Cover for Gold on the Ceiling" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-01-24</td>
+      <td>The Black Keys</td>
+      <td>Gold on the Ceiling</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>2012-05-18</td>
+      <td>John Mayer</td>
+      <td>Born and Raised</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 57</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 94</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td>2012-09-03</td>
+      <td>The Black Keys</td>
+      <td>Little Black Submarines</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>2014-05-09</td>
+      <td>The Black Keys</td>
+      <td>Turn Blue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 4</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d631be95305a4e90ce8fb3f6ee33baac.png" alt="Cover for Lazaretto" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-06-06</td>
+      <td>Jack White</td>
+      <td>Lazaretto</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d389bd97c978cb619a771f4e9db9a33c.png" alt="Cover for Blues Pills" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-07-25</td>
+      <td>Blues Pills</td>
+      <td>Blues Pills</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1662611bbc45ac46c1e7755e88548f3.png" alt="Cover for Yours, Dreamily," style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-09-04</td>
+      <td>The Arcs</td>
+      <td>Yours, Dreamily,</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/woTCh9pPLOgORG3I1dw9uWJuXTYSoFuNbBGkEIgMG28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/MTItMTQ3NjA2Mzk5/MS03ODQxLmpwZWc.jpeg" alt="Cover for Glitter &amp; Gold" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-11-05</td>
+      <td>Barns Courtney</td>
+      <td>Glitter &amp; Gold</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/tNkcxOeSXcz0RczSdjRz9BAVTSfKKtbROq1NZIUB0C8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDgy/ODE4LTE2MDMxMjU3/MjUtODgyOS5qcGVn.jpeg" alt="Cover for Four Seasons" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>taeyeon</td>
+      <td>Four Seasons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73b6083496123a7736904f6b77a44895.png" alt="Cover for A&#x2F;B" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-06-10</td>
+      <td>Kaleo</td>
+      <td>A&#x2F;B</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/xkdyDXSgOgaV5-jw1IjptjCalWexl_IkAy-uQXdlzR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzE0/ODgtMTY4MzkwMTI1/NS0xNTYxLmpwZWc.jpeg" alt="Cover for L.A.Woman" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>The Doors</td>
+      <td>L.A.Woman</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 43</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 84</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>2017-05-19</td>
+      <td>Dan Auerbach</td>
+      <td>Waiting on a Song</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/E2gMz3OkWuX3IDdBfUThvWyePqyc8kuej2_rh8eHIR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI3/Nzk0LTE1MDY2NzY5/OTMtOTcxNC5qcGVn.jpeg" alt="Cover for The Attractions of Youth" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-09-29</td>
+      <td>Barns Courtney</td>
+      <td>The Attractions of Youth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/FXr0FLYaFahhqarFixFrM0LZq6rOeHeER8Tuub_GTXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEz/OTE2LTE1MTY5MDQ4/MzMtODUyNS5qcGVn.jpeg" alt="Cover for From the Fires" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-11-17</td>
+      <td>Greta Van Fleet</td>
+      <td>From the Fires</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d45db7dab89e150f5dd1a1028fe49d61.png" alt="Cover for Boarding House Reach" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-03-23</td>
+      <td>Jack White</td>
+      <td>Boarding House Reach</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6e430ff0d6aee5fcb45c2ec9d83250d.png" alt="Cover for Hear Me Out" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-03-01</td>
+      <td>Reignwolf</td>
+      <td>Hear Me Out</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/0MXYtRXBqOiU-00l3m7tV7JWfRUbMW3Tlbnu6N-0Ydk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA0/Nzk4LTE1NjE5NDQx/MjgtNTMyNy5qcGVn.jpeg" alt="Cover for &quot;Let&#39;s Rock&quot;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-06-28</td>
+      <td>The Black Keys</td>
+      <td>&quot;Let&#39;s Rock&quot;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98233e0fc1d4d96fece149cad34f4742.png" alt="Cover for Sticky Fingers (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-07-07</td>
+      <td>The Rolling Stones</td>
+      <td>Sticky Fingers (Remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcd06c00951b50c303115da01c2ea801.png" alt="Cover for From The Fires" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Greta Van Fleet</td>
+      <td>From The Fires</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23d1899dfc5306f7022346bef5333c93.png" alt="Cover for If You Want Blood" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>AC&#x2F;DC</td>
+      <td>If You Want Blood</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50de5839a8fee6a12574b9d74ab51261.png" alt="Cover for Wheels of Fire" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Cream</td>
+      <td>Wheels of Fire</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+      </td>
+      <td></td>
+      <td>Joe Walsh</td>
+      <td>The Smoker You Drink</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

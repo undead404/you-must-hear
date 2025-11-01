@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T05:56:50.631Z
+date: 2025-11-01T10:42:51.612Z
 permalink: tags/street-punk
 title: street punk
 ---
 
 ## street punk
 
-Last updated: <time datetime="2025-10-28T05:56:50.631Z">Tue Oct 28 2025 07:56:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-01T10:42:51.612Z">Sat Nov 01 2025 12:42:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
   </thead>
   <tbody>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/xCD9TD3ZZu2NTeUNQTTRyjVpKZktcpC8og3uM8iuei4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzUw/MzItMTQ2NTU2MzIz/OC02NDI4LmpwZWc.jpeg" alt="Cover for Betterdays" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>1977</td>
@@ -65,7 +65,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/9YMSZPJanBRNsjtK2eaEdPnzyPcvfrI1gsOhGY7kx-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI2/NjMxLTE1MjMwNDQ0/NDgtMTI2Mi5qcGVn.jpeg" alt="Cover for Oi! The Split" style="max-width:120px; height:auto;" />
       </td>
@@ -83,31 +83,12 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>1978</td>
       <td>Sham 69</td>
       <td>That&#39;s Life</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
-      <td>
-          <img src="https://i.discogs.com/uhp9-Zi1KKo-58mvclOYWurJbvHznNfCVsDgfsaC5F4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzQw/MS0xNDc1NTc0Mzc4/LTc3NDQuanBlZw.jpeg" alt="Cover for Tell Us the Truth" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1978-02-18</td>
-      <td>Sham 69</td>
-      <td>Tell Us the Truth</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
@@ -134,7 +115,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 21</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -158,7 +139,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/zEPtrzJv_NDqgD8BT8a8D76Crkxev-UPegX2oAlB01A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDM1/MC0xNDQ1NjQ4MjUz/LTgwMjUuanBlZw.jpeg" alt="Cover for City Baby Attacked by Rats" style="max-width:120px; height:auto;" />
       </td>
@@ -177,7 +158,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>1982-05-15</td>
@@ -194,7 +175,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/vYR2kHAd5_FhXeS7MeYBwzPnl6mjQEADNqIe1P0dkiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzM1/NC0xMjk3NzU4MjQ2/LmpwZWc.jpeg" alt="Cover for More Beer" style="max-width:120px; height:auto;" />
       </td>
@@ -213,7 +194,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>1986-02</td>
@@ -231,7 +212,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Pure Punk Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -250,7 +231,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/7WSrY4_gOb46UsLdDJqu_9zyR4m5DEBgbCwIkBvzNHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDUy/MjItMTUyOTMzMzAz/NS00MjY3LmpwZWc.jpeg" alt="Cover for No Somos Nada" style="max-width:120px; height:auto;" />
       </td>
@@ -271,7 +252,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>1987-04-15</td>
@@ -292,7 +273,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/JxmWxuRgrK-_z7VWfMzKMLDjapaa4McFsaIvVqDyx5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTU5/MzEtMTMwNzEyMjI4/Ni5qcGVn.jpeg" alt="Cover for Don&#39;t Forget the Chaos" style="max-width:120px; height:auto;" />
       </td>
@@ -315,7 +296,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/5LPeXQ8RXlXA-2yqNcLkj3yFsv0Jr4w38nJkpNPRdxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODkx/NzU3LTE1NDM5NjAx/MzQtMzkxNi5qcGVn.jpeg" alt="Cover for Crusin&#39; for a Bruisin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -333,7 +314,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/RQUrN0QDKoyNyhuX3LDn9esP1t7HcDlvfuvgKrJeo6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTcx/MDQtMTI2OTYyMTU5/NS5qcGVn.jpeg" alt="Cover for Deadly Games (The History)" style="max-width:120px; height:auto;" />
       </td>
@@ -351,7 +332,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/HTan2-158WLcWP7OHbRnOmlh-TEQ2S9gpEWULP6B87k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk2/MTgtMTI5NTM3ODYy/NS5qcGVn.jpeg" alt="Cover for Ya No Quedan Mas Cojones" style="max-width:120px; height:auto;" />
       </td>
@@ -370,7 +351,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/rfQmNizgDqRaI6Htiq2ArPnjdIq9q4dMjnQ3goYVM6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzIw/MTAtMTUxMzI2MTc1/OS05MTU4LmpwZWc.jpeg" alt="Cover for More to It Than Meets the Eye" style="max-width:120px; height:auto;" />
       </td>
@@ -389,7 +370,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/A2cifDGplikUUuaIecaiz0RaHHGFgnQcp220KoRMOcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTIw/NTAtMTI0ODM5OTA4/My5qcGVn.jpeg" alt="Cover for When The Punks Go Marching In" style="max-width:120px; height:auto;" />
       </td>
@@ -409,7 +390,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/BMDtcwsl4yVkmH62Z_ffJ7f2G2MbZwyR47YM9HMGa7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDgz/Ni0xMjgyMzQyNTg2/LmpwZWc.jpeg" alt="Cover for Let&#39;s Go" style="max-width:120px; height:auto;" />
       </td>
@@ -427,7 +408,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/0WGA6A0dLGH-6gbCmDbQ2wgKjJuaPMRA2XilX5P8ncM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Nzc0/NjctMTMwMDU3NzAx/Ny5qcGVn.jpeg" alt="Cover for BYO Split Series Volume III" style="max-width:120px; height:auto;" />
       </td>
@@ -445,7 +426,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/u-sn2_8OKdzZ-bl9uXZZ1eumOVfw2TNj_YrEqGCVazA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjAz/NzM1LTE1OTQzODM5/NTgtNzA2OC5qcGVn.jpeg" alt="Cover for Society&#39;s Fools" style="max-width:120px; height:auto;" />
       </td>
@@ -463,7 +444,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1996</td>
@@ -480,7 +461,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/BDoDYWou7sw-00mBoj1C9KbIGpGrrOJ4mIz3NJ7m9Ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTI4/ODctMTMyNDU4ODU4/NC5qcGVn.jpeg" alt="Cover for No Future No Hope" style="max-width:120px; height:auto;" />
       </td>
@@ -498,7 +479,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>1996-06-04</td>
@@ -516,7 +497,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/ryFUYv4-FYclZ7PwCd11jagjj8zWEa6ENPASW4XoZMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDk2/NTItMTUwMzE2MjIx/Mi0xNTkzLmpwZWc.jpeg" alt="Cover for Violence in Our Minds" style="max-width:120px; height:auto;" />
       </td>
@@ -531,12 +512,12 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 69</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/i9WvqBtWUbq8ElSFPQbEuE_Fx_votpOypqSPzTVbX4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUw/MTktMTIzMjkyNjc0/My5qcGVn.jpeg" alt="Cover for Wschod Jest Pelen Slonca" style="max-width:120px; height:auto;" />
       </td>
@@ -555,7 +536,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/aoxf3_f1tpeUxWsR3Up0e67KhNk5nm85t2gM8cMNM9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzU1/NC0xMjMyNzkwMjk5/LmpwZWc.jpeg" alt="Cover for The Punk Singles Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -593,7 +574,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>1997</td>
@@ -609,7 +590,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
       </td>
       <td>1998</td>
@@ -627,7 +608,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
       </td>
       <td>1998</td>
@@ -645,7 +626,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/ydxYCWSYVmaBlrFXBUtwCFea4ftGMJKCZM870_PixU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzI1/Ni0xMjkxMDg4MTE0/LmpwZWc.jpeg" alt="Cover for The Early Years: 1990-1995" style="max-width:120px; height:auto;" />
       </td>
@@ -663,7 +644,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/Md8rns6qNj_ynDkoHea4wZPrJP458kPdk1Srspoc6_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDc0/NjMtMTM3MDk4MDM4/My00MzI1LmpwZWc.jpeg" alt="Cover for What the Fuck Will Change" style="max-width:120px; height:auto;" />
       </td>
@@ -681,7 +662,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/ydxYCWSYVmaBlrFXBUtwCFea4ftGMJKCZM870_PixU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzI1/Ni0xMjkxMDg4MTE0/LmpwZWc.jpeg" alt="Cover for The Early Years 1990-1995" style="max-width:120px; height:auto;" />
       </td>
@@ -699,7 +680,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/zi4IXgBcBhTzYoiMn-msMoletHiQkPRCVTT_6jbyKWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTUy/NTItMTUyMDk1MDE5/Ny04MjA5LmpwZWc.jpeg" alt="Cover for The Clockwork Singles Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -719,7 +700,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/x88qbPJ8nIWqQPRwt5sl1ad4ElS7C6oLCbi3lf3lfMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjcx/MDMtMTIzOTQ4ODgx/Ni5qcGVn.jpeg" alt="Cover for Still Fighting for a Future" style="max-width:120px; height:auto;" />
       </td>
@@ -737,7 +718,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/AitMZFsshmgGZpl3X8TF4E8QLw8s1KBPYjpZ4DcJxc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY5/Njg1LTE1MjM4MTM0/MjgtODY5Ni5qcGVn.jpeg" alt="Cover for Stay Out of Order" style="max-width:120px; height:auto;" />
       </td>
@@ -756,7 +737,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/285cb1367f294738bd9301cdd6ef8dfe.png" alt="Cover for Hlaskover Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -776,7 +757,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/M7cWqLsV377fc0AZS79yJnfRzqDRBsvkKTzOUGRF2W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDAy/NzUtMTU3OTUyNDcx/Mi04MTgxLmpwZWc.jpeg" alt="Cover for Until We Die" style="max-width:120px; height:auto;" />
       </td>
@@ -814,7 +795,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/zEPtrzJv_NDqgD8BT8a8D76Crkxev-UPegX2oAlB01A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDM1/MC0xNDQ1NjQ4MjUz/LTgwMjUuanBlZw.jpeg" alt="Cover for City Baby Attacked By Rats (Expanded Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -833,7 +814,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2001</td>
@@ -849,7 +830,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfae8258a82bbca2a79c487ab4935043.png" alt="Cover for Sing Loud, Sing Proud!" style="max-width:120px; height:auto;" />
       </td>
@@ -884,7 +865,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/xSz-sJQuQcgNJ6HXGQV36m0PfZgV8jRAiijMk89pUDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTY0/NTQtMTY4OTg1Njgz/OC0yNDQ2LmpwZWc.jpeg" alt="Cover for Complete Singles Collection 1994-2000" style="max-width:120px; height:auto;" />
       </td>
@@ -902,7 +883,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/ZQLLUmBl5Ngksbz8RgsRkO0bduyM8w0i_FnovLa7Da4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODkw/MDgtMTMyNDEzOTY1/My5qcGVn.jpeg" alt="Cover for Vicious Ones" style="max-width:120px; height:auto;" />
       </td>
@@ -921,7 +902,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/mA85acnGDNzc1NwPmG0y4anAWo3sbgyOD1TUNr1rYNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODAy/ODctMTMzMjA2NTk3/MC5naWY.jpeg" alt="Cover for Go Pogo" style="max-width:120px; height:auto;" />
       </td>
@@ -939,7 +920,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/YFdP8MaJ5rt8hDVx9EHDQZcRB5rBKgfVq6uv_bgkhcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDg3/OTMtMTMwMzk1OTUy/MC5qcGVn.jpeg" alt="Cover for Nowhere to Hide" style="max-width:120px; height:auto;" />
       </td>
@@ -957,7 +938,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2003</td>
@@ -993,7 +974,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2003-02-17</td>
@@ -1046,7 +1027,26 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/1AmbzcKYEjj2U9RgJhdlPqb6jMl-X6fbAE4nUxCK1b8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjEw/NjktMTM2MjgyNzY4/Mi04OTM2LnBuZw.jpeg" alt="Cover for A New Breed of Terror" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Chaotic Alliance</td>
+      <td>A New Breed of Terror</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/g69J0GOnAdwju1fizcuMzuZd4NLMiRBemBxeuuBvlXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzM4/NjEtMTMzNDIxNjg2/Ni5qcGVn.jpeg" alt="Cover for Strength Through Pain" style="max-width:120px; height:auto;" />
       </td>
@@ -1064,7 +1064,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/wacya22s9QPpbRMKC6ZF-7_u254wsyp6fTiZ71aFHOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjA2/NTAtMTMxODUyNDIw/My5qcGVn.jpeg" alt="Cover for Action" style="max-width:120px; height:auto;" />
       </td>
@@ -1084,7 +1084,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/Fu03wpfOydD9SblacBPyBC8KaaZ8YTPq1E95IepkRag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODYw/MzEtMTM0ODA3ODgw/MS0zODI0LmpwZWc.jpeg" alt="Cover for Finding Freedom in Hopelessness" style="max-width:120px; height:auto;" />
       </td>
@@ -1102,7 +1102,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/NaU3b3y3BFy_7MUX53ALQCis9mDEl-fre2ptBXwyADk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzQ0/MzctMTM5NzE3OTg4/MS00MDQwLmpwZWc.jpeg" alt="Cover for Greatest Hits Vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -1119,7 +1119,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/jVt1k1_s7vt3CCmx3glND98XEMCpu-U8jWZoyhdyoYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Njc3/Ni0xMjQ2NTQ5Njgy/LmpwZWc.jpeg" alt="Cover for On the Front Line" style="max-width:120px; height:auto;" />
       </td>
@@ -1138,7 +1138,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/NjuDhY8mw23U2K6y_byZS1JUdRTSsdAY3AoiXiaCClg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODkx/OTYtMTQzMzI4MzMy/OS05OTgzLmpwZWc.jpeg" alt="Cover for Resurrection" style="max-width:120px; height:auto;" />
       </td>
@@ -1153,12 +1153,12 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 68</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2005</td>
@@ -1175,7 +1175,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/wYvgSCchnPgldqtbsbRNdXyc7n9mXAOTWxKbR0jZINg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjk1/NzQtMTI3MTI3Nzk3/MC5qcGVn.jpeg" alt="Cover for Let It Ride" style="max-width:120px; height:auto;" />
       </td>
@@ -1193,7 +1193,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>2005</td>
@@ -1211,7 +1211,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
       </td>
       <td>2005-04-05</td>
@@ -1229,7 +1229,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/gf3J4ymk-iyfGt7D83TqqY9ea8hLId7LL4SL_p4-ExY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDc0/NTAtMTQ4NjY1MDAw/My01OTQyLmpwZWc.jpeg" alt="Cover for En la Linea del Frente" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,7 +1270,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/wx3c61dAdhzFLmvCl9PakabRupDhJBewDcpW9wejSa8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTk4/MDIxLTE2NDUxMzgy/NzgtMTg0Ny5qcGVn.jpeg" alt="Cover for VIVOS... por domesticar!" style="max-width:120px; height:auto;" />
       </td>
@@ -1289,7 +1289,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
       </td>
       <td>2006-02-07</td>
@@ -1326,7 +1326,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/UUvfbZcgNS4_3-zzJQCuExMIxt6qEcx0zYocN8MIYtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjA4/NTEtMTI2NTE0ODA3/Ny5qcGVn.jpeg" alt="Cover for DSKlation" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,7 +1345,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/UUvfbZcgNS4_3-zzJQCuExMIxt6qEcx0zYocN8MIYtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjA4/NTEtMTI2NTE0ODA3/Ny5qcGVn.jpeg" alt="Cover for DSKlation" style="max-width:120px; height:auto;" />
       </td>
@@ -1403,7 +1403,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/qmiK4zD6fFVtSqqfjfea4Dpeq9rMNa6XgxoyDnmqshk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTQ2/NjMtMTMyMjg1Mzk3/OC5qcGVn.jpeg" alt="Cover for The Battle&#39;s Almost Over..." style="max-width:120px; height:auto;" />
       </td>
@@ -1427,7 +1427,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/Hz1eaETvLsX2oH33Wbf7dk-hDNBkfhI0tTu-WTgHpJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjg5/MjY4LTE1ODkyMzM0/NTgtODMzNC5qcGVn.jpeg" alt="Cover for Welcome to Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -1445,7 +1445,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/Vx4n60WltrfZ0FKGhd43mNGDa-dsaIuVX_mqAVKxCNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIz/ODU2LTE1NzAzNTIx/NzctOTI0Ni5qcGVn.jpeg" alt="Cover for As The Tide Turns" style="max-width:120px; height:auto;" />
       </td>
@@ -1463,7 +1463,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2007-06-05</td>
@@ -1481,7 +1481,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2007-06-09</td>
@@ -1498,7 +1498,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/qmiK4zD6fFVtSqqfjfea4Dpeq9rMNa6XgxoyDnmqshk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTQ2/NjMtMTMyMjg1Mzk3/OC5qcGVn.jpeg" alt="Cover for The Battle&#39;s Almost Over" style="max-width:120px; height:auto;" />
       </td>
@@ -1522,7 +1522,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/RL3sQ-8uz-HiTUZqI_aSt3Xfm14FMoIZmO-0xxFIt3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjQ0/MzMtMTU2MDQzNzMy/NS04NDg0LmpwZWc.jpeg" alt="Cover for Наша Любовь, Наша Ненависть" style="max-width:120px; height:auto;" />
       </td>
@@ -1541,7 +1541,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/lD6QyjIzJA07PdUtP5BZ2EJczomCjGdgwdMwIDXBWX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDIw/MTctMTM5OTIzMDk1/OC03NjM3LmpwZWc.jpeg" alt="Cover for Avoid All Sides" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,7 +1559,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/5jtwV0QxIwdlNnL8RK1OB44cwg6J94rxzfe044zE_Ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDg1/NjgtMTYxODg1MTQ0/My0yMDQwLmpwZWc.jpeg" alt="Cover for Razor Bois" style="max-width:120px; height:auto;" />
       </td>
@@ -1578,7 +1578,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg" alt="Cover for Class Pride World Wide" style="max-width:120px; height:auto;" />
       </td>
@@ -1597,7 +1597,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/YGuQEdRZGxhWfzb1Opczy8BoOJ4-8IrqUiP3ue9N3Ho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjA3/MDUtMTI3MDU5MzU0/MC5qcGVn.jpeg" alt="Cover for You&#39;ll Never Take Us | Skinhead Anthems II" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,7 +1634,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/2gWuXvsCIGUMdpfIbxSGQobqCyEI9iV2PRTTWjsON6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjA4/ODItMTQyOTU0NDAw/OS04NTc0LmpwZWc.jpeg" alt="Cover for Поравнялись навсегда" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,7 +1655,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/kdxZZ--z_TSzIQhJYC1EJvH7KWjTd7Z9EQDF2NTq74c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzI0/MTYtMTMxNDM5ODQ1/NS5qcGVn.jpeg" alt="Cover for Street Punk Rulez!" style="max-width:120px; height:auto;" />
       </td>
@@ -1673,7 +1673,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/i-eI2HzG29xx6WfugYuvhKvwrpTKHTOowqYNit9MDug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTg5/NzMtMTUyNDMwMTM5/OS03NjU4LmpwZWc.jpeg" alt="Cover for Street Dogs" style="max-width:120px; height:auto;" />
       </td>
@@ -1692,7 +1692,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/QfWRgBuQaVNPaiM8zVvmLe20ZVbKTrnKgRhEmSzBWlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjEz/ODMtMTUwNTUwNjU4/OC02NDAyLnBuZw.jpeg" alt="Cover for Blut, Schweiss &amp; Keine Tränen" style="max-width:120px; height:auto;" />
       </td>
@@ -1710,7 +1710,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2014-11-11</td>
@@ -1728,7 +1728,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/csxab9R_NlAEwOWuY-t9DLOcR764ePte66sDmO1Dsa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDcw/MTEtMTQ0NTg3MDEx/MC05Njc2LmpwZWc.jpeg" alt="Cover for Resurgir" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,7 +1746,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/DK_uOqLMNC22husiY2mNZQ3rX3-K3hxQkiuh-Tf3x60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDE0/MjYtMTQ2MjU3MDc0/Ni04OTk3LmpwZWc.jpeg" alt="Cover for Chaos Sound" style="max-width:120px; height:auto;" />
       </td>
@@ -1764,7 +1764,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/KLU3_rTlYjQeVArHWOJWzVv_lVYBcGlQPfQmiLBPns4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzEx/MDU0LTE1MDgyNDgy/MjUtNDI5NC5qcGVn.jpeg" alt="Cover for Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1783,7 +1783,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/GiLWrkdLqKC1CbQKoo5c8hRVJQuKDde-fwANr_-5Gk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NTYy/MTktMTQ4MjY5MDE5/MC02MzQ5LmpwZWc.jpeg" alt="Cover for System Failure" style="max-width:120px; height:auto;" />
       </td>
@@ -1802,7 +1802,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/ejo5xmgG1glp94Ios-suexPi8W_boVwMF4Aux2CnQe0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDEw/MDcyLTE0OTY4NjQ5/OTMtNzIxMy5qcGVn.jpeg" alt="Cover for Trouble Maker" style="max-width:120px; height:auto;" />
       </td>
@@ -1820,7 +1820,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/xCD9TD3ZZu2NTeUNQTTRyjVpKZktcpC8og3uM8iuei4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzUw/MzItMTQ2NTU2MzIz/OC02NDI4LmpwZWc.jpeg" alt="Cover for Better Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1838,7 +1838,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/hXd6rEcT8FiU1T1uThA3G0QKluCHDB8j3IKVhYz1F_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQx/NTE2LTE1MjM0Njg5/MDgtMjQ5Mi5qcGVn.jpeg" alt="Cover for Zeitzünder" style="max-width:120px; height:auto;" />
       </td>
@@ -1856,13 +1856,13 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 40</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 41</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/V8ahwNkSES-GqtOpRfsd2pj7DiMuqCaRy7ANIlrOyhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMy/MzAyLTE1Mjg5Mzk1/MzUtMzE4Mi5qcGVn.jpeg" alt="Cover for Stand for Something or Die for Nothing" style="max-width:120px; height:auto;" />
       </td>
@@ -1881,7 +1881,7 @@ Street punk is a raw, aggressive form of punk rock that emerged from working-cla
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70fd3063fcf043f08160041863b95eb3.png" alt="Cover for We Are... The League" style="max-width:120px; height:auto;" />
       </td>

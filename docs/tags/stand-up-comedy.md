@@ -9,6 +9,10 @@ title: stand-up comedy
 
 Last updated: <time datetime="2025-10-30T09:49:39.449Z">Thu Oct 30 2025 11:49:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Stand-up comedy is a performance art where solo comedians deliver humorous monologues directly to a live audience, typically in comedy clubs or theaters. The format emphasizes observational humor, personal storytelling, and social commentary, often addressing everyday life, relationships, and cultural taboos. Recordings capture the intimate energy between performer and crowd, including laughter, applause, and the comedian&#39;s distinctive timing and delivery style.
+
 ### 100 chronological releases
 
 <table>
@@ -1525,7 +1529,7 @@ Last updated: <time datetime="2025-10-30T09:49:39.449Z">Thu Oct 30 2025 11:49:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 8</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1951,7 +1955,7 @@ Last updated: <time datetime="2025-10-30T09:49:39.449Z">Thu Oct 30 2025 11:49:39
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 16</li>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 18</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 30</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 31</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 30</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 38</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 40</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 45</li>
@@ -1974,8 +1978,8 @@ Last updated: <time datetime="2025-10-30T09:49:39.449Z">Thu Oct 30 2025 11:49:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 1</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 17</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 17</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 18</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 22</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 24</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 24</li>
@@ -2124,8 +2128,8 @@ Last updated: <time datetime="2025-10-30T09:49:39.449Z">Thu Oct 30 2025 11:49:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 3</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 18</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 18</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 19</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 26</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 26</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 26</li>
@@ -2288,7 +2292,7 @@ Last updated: <time datetime="2025-10-30T09:49:39.449Z">Thu Oct 30 2025 11:49:39
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 11</li>
             <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 15</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 26</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 29</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 28</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 35</li>
             <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 36</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 43</li>

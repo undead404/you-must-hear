@@ -9,6 +9,10 @@ title: mastersinger
 
 Last updated: <time datetime="2025-10-31T02:45:30.082Z">Fri Oct 31 2025 04:45:30 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Mastersinger represents the pinnacle of vocal artistry in popular and jazz music, characterized by impeccable technical control, sophisticated phrasing, and deep emotional interpretation. These singers possess crystalline diction, masterful breath control, and the ability to transform standard repertoire into deeply personal statements through nuance and timing. The tag celebrates vocalists who elevate singing to an art form through decades of refinement and interpretive wisdom.
+
 ### 100 chronological releases
 
 <table>
