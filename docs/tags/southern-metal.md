@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T03:40:21.461Z
+date: 2025-11-01T09:38:52.598Z
 permalink: tags/southern-metal
 title: southern metal
 ---
 
 ## southern metal
 
-Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-01T09:38:52.598Z">Sat Nov 01 2025 11:38:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -25,7 +25,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
   </thead>
   <tbody>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>1993-02-23</td>
@@ -42,7 +42,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5764b0c669fe4c6eb7597e515fe5144a.png" alt="Cover for The Voice of Our Ancestors" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +86,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/630a820b588aa7c84af26c8e53e987f9.png" alt="Cover for The Great Southern Trendkill" style="max-width:120px; height:auto;" />
       </td>
@@ -101,8 +101,8 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 57</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 92</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 59</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -184,7 +184,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
       </td>
       <td>1999</td>
@@ -202,7 +202,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/KWMjx6uZPHH4EC9MUfGittVan5mnAE3WzZkqboeSCT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODA4/NTktMTI4NjM5Mjgy/OC5qcGVn.jpeg" alt="Cover for Seed of Decades" style="max-width:120px; height:auto;" />
       </td>
@@ -238,7 +238,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d4a3c51ae6c49b4a8add89954cb4419.png" alt="Cover for America&#39;s Volume Dealer" style="max-width:120px; height:auto;" />
       </td>
@@ -247,8 +247,6 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       <td>America&#39;s Volume Dealer</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 69 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
         </ul>
       </td>
       <td>
@@ -272,7 +270,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 3</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -316,7 +314,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/msHZHxz4HgwikjDZeV7_EQiOnZ92FoMx4gVn76hqVoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTI5/MDctMTIxNTc5OTI2/MS5qcGVn.jpeg" alt="Cover for Second Season" style="max-width:120px; height:auto;" />
       </td>
@@ -369,7 +367,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 48</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -394,7 +392,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cffd73b3b004177c1aeaac49317c5de.png" alt="Cover for Hangover Music Vol. VI" style="max-width:120px; height:auto;" />
       </td>
@@ -429,7 +427,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48ed80bf2564d73e6648bdb9e6075512.png" alt="Cover for Seemless" style="max-width:120px; height:auto;" />
       </td>
@@ -449,7 +447,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a731b74470fa46a2b6f437845f66a61f.png" alt="Cover for Mafia" style="max-width:120px; height:auto;" />
       </td>
@@ -463,7 +461,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 56</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -482,7 +480,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 7</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 12</li>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 61</li>
         </ul>
       </td>
@@ -504,7 +502,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/PNQ3bLac4kCy_iMTqw1anLzCkeGQocI8fEMt-J7uJ18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTkz/MjAzLTE0OTMxNjMz/NjAtOTkxOC5qcGVn.jpeg" alt="Cover for Conquistador" style="max-width:120px; height:auto;" />
       </td>
@@ -525,7 +523,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8430b08073e4704a0b6ce7276753387.png" alt="Cover for In The Mouth Of The Young" style="max-width:120px; height:auto;" />
       </td>
@@ -580,7 +578,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/SSUaJZm9G1fxSQBy-4xnw9ijQ4AUBv01GKyMpAw2VAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDMz/Mi0xNTg1NzkzOTY5/LTQ4NTMuanBlZw.jpeg" alt="Cover for What Have We Become" style="max-width:120px; height:auto;" />
       </td>
@@ -600,7 +598,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b748b465e37743dfbdbe30d6c1930ddb.png" alt="Cover for Shot To Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -634,7 +632,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 14</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 27</li>
             <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 84</li>
         </ul>
       </td>
@@ -683,7 +681,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e1ad2593c724881b98e644b08cf068d.png" alt="Cover for HELLYEAH" style="max-width:120px; height:auto;" />
       </td>
@@ -692,18 +690,16 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       <td>HELLYEAH</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 74</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td>2007-09-04</td>
@@ -720,7 +716,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/zr_Uyrch5tJEKH4OcLDI-vfV05IjPPfXBHPBFW_RBiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDEx/NzctMTQxOTI4NjUx/Ny0yMzkwLmpwZWc.jpeg" alt="Cover for The Rise....The Fall" style="max-width:120px; height:auto;" />
       </td>
@@ -756,7 +752,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 49</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 50</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 88</li>
             <li> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a> # 99</li>
         </ul>
@@ -800,7 +796,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b51fcfa44bb645358a677305d490f486.png" alt="Cover for Back Breaker" style="max-width:120px; height:auto;" />
       </td>
@@ -820,7 +816,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/ntUTZ4IRd_xuJQvgzmOfGgM2kIZWy9RVffWwUA7m17Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg2/OTk0LTE1NjExMTYz/ODktMjE1NC5qcGVn.jpeg" alt="Cover for Act of Goat" style="max-width:120px; height:auto;" />
       </td>
@@ -861,7 +857,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
       </td>
       <td>2009-09-14</td>
@@ -878,7 +874,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/-h8QeRaF_TJ43BTr7r3_IOpz0jTm5gsuAOzXnORB2r8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTU1/NDQtMTMzMTA1MTkz/My5qcGVn.jpeg" alt="Cover for Of Mountains and Moonshine" style="max-width:120px; height:auto;" />
       </td>
@@ -1037,7 +1033,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
       </td>
       <td>2010-08-20</td>
@@ -1108,7 +1104,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f818d9c0549944c9a26bcbce467b2188.png" alt="Cover for Dead for a Lifetime" style="max-width:120px; height:auto;" />
       </td>
@@ -1145,7 +1141,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/tcAklaXycIsMxYS9swdmVL_OLoXkvBGJnwzJ8LwjWk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDMy/NTQtMTQwODU0NzAy/MC05Mzg5LmpwZWc.jpeg" alt="Cover for Bearotica" style="max-width:120px; height:auto;" />
       </td>
@@ -1187,7 +1183,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/zorHQnDP2u2B4r58WTzQAXlQIN-jXuwscnmIEQbEPCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzQz/MzA5LTE2MDk1ODE0/OTEtMzkyMC5qcGVn.jpeg" alt="Cover for Booze&#39;n&#39;roll" style="max-width:120px; height:auto;" />
       </td>
@@ -1237,7 +1233,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 47</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1261,7 +1257,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2011-11-13</td>
@@ -1320,7 +1316,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2012-02-21</td>
@@ -1520,7 +1516,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc4ae067cfba48cbc8e02f35ee227ffb.png" alt="Cover for Catacombs Of The Black Vatican" style="max-width:120px; height:auto;" />
       </td>
@@ -1595,7 +1591,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/gMRg5IkVgcq_UvUTw5OzhK1jvabhhsJi58w52yFzoJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTA4/ODkyLTE1MTc1OTg3/OTEtNjQxMi5qcGVn.jpeg" alt="Cover for Slow Burn" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,7 +1672,7 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 51</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 52</li>
             <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 99</li>
         </ul>
       </td>
@@ -1708,8 +1704,8 @@ Last updated: <time datetime="2025-10-30T03:40:21.461Z">Thu Oct 30 2025 05:40:21
       <td>
       </td>
       <td></td>
-      <td>Truman Highway</td>
-      <td>Demo</td>
+      <td>Rescue The Beards!</td>
+      <td>Ship And Whores</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
