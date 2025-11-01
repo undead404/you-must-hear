@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T20:31:47.394Z
+date: 2025-11-01T01:12:52.368Z
 permalink: tags/italian-opera
 title: italian opera
 ---
 
 ## italian opera
 
-Last updated: <time datetime="2025-10-29T20:31:47.394Z">Wed Oct 29 2025 22:31:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-01T01:12:52.368Z">Sat Nov 01 2025 03:12:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,6 +24,7 @@ Italian opera music refers to the tradition of opera music that originated in It
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
@@ -40,6 +41,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>64</td>
@@ -52,6 +57,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -70,6 +79,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>67</td>
@@ -82,6 +95,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -100,6 +117,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>35</td>
@@ -112,6 +133,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -129,6 +154,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>83</td>
@@ -138,6 +167,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>1961</td>
       <td>Giuseppe Verdi</td>
       <td>VERDI: Don Carlos (Christoff, Filippeschi, Gobbi) (1954)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -159,19 +192,8 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>53</td>
-      <td>
-          <img src="https://i.discogs.com/sQ1_Hr933R4noOl9cHjZv8Xt5C3fZvQjg_pd756pjjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjE1/NjQtMTQyODMwOTg0/MS03NTk0LmpwZWc.jpeg" alt="Cover for Callas : Verdi AIDA" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1963</td>
-      <td>Maria Callas</td>
-      <td>Callas : Verdi AIDA</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
     </tr>
@@ -188,6 +210,30 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/sQ1_Hr933R4noOl9cHjZv8Xt5C3fZvQjg_pd756pjjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjE1/NjQtMTQyODMwOTg0/MS03NTk0LmpwZWc.jpeg" alt="Cover for Callas : Verdi AIDA" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1963</td>
+      <td>Maria Callas</td>
+      <td>Callas : Verdi AIDA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>68</td>
@@ -201,6 +247,10 @@ Italian opera music refers to the tradition of opera music that originated in It
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>56</td>
@@ -210,6 +260,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>1965</td>
       <td>Vincenzo Bellini</td>
       <td>Bellini, V.: Adelson e Salvini</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -229,6 +283,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>24</td>
@@ -238,6 +296,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>1969</td>
       <td>Gaetano Donizetti</td>
       <td>Donizetti, G.: L&#39;assedio di Calais</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -255,6 +317,11 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 47</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>23</td>
@@ -268,6 +335,27 @@ Italian opera music refers to the tradition of opera music that originated in It
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>1971</td>
+      <td>Birgit Nilsson</td>
+      <td>Puccini:Turandot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>73</td>
@@ -277,6 +365,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>1975</td>
       <td>Giuseppe Verdi</td>
       <td>VERDI: Aida (Caniglia, Gigli) (1946)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -297,6 +389,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>95</td>
@@ -308,6 +404,29 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>VERDI: La Forza del Destino (Tagliabue, Caniglia) (1941)</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/Nv-gbUTvtm_XSwGRd3BixKhzoYQmiNBmapPm4uLsui8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc4/OTYwLTE1MjM5OTM0/NjQtMzA5Mi5qcGVn.jpeg" alt="Cover for L&#39;Italiana in Algeri" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981</td>
+      <td>Gioacchino Rossini</td>
+      <td>L&#39;Italiana in Algeri</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -326,6 +445,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>36</td>
@@ -342,6 +465,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>39</td>
@@ -354,6 +481,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -372,6 +503,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>69</td>
@@ -384,6 +519,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -402,6 +541,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>99</td>
@@ -417,18 +560,8 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>100</td>
-      <td>
-          <img src="https://i.discogs.com/Nv-gbUTvtm_XSwGRd3BixKhzoYQmiNBmapPm4uLsui8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc4/OTYwLTE1MjM5OTM0/NjQtMzA5Mi5qcGVn.jpeg" alt="Cover for L&#39;Italiana in Algeri" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1981</td>
-      <td>Gioacchino Rossini</td>
-      <td>L&#39;Italiana in Algeri</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
     </tr>
@@ -444,6 +577,10 @@ Italian opera music refers to the tradition of opera music that originated in It
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>82</td>
@@ -453,6 +590,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>1981</td>
       <td>Vincenzo Bellini</td>
       <td>BELLINI: Puritani I (Callas, Di Stefano) (1953)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -473,6 +614,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>44</td>
@@ -489,6 +634,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>45</td>
@@ -498,6 +647,27 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>1983</td>
       <td>Giuseppe di Stefano</td>
       <td>Verdi: Arias, Duets, Ensembles</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>1985</td>
+      <td>Renata Scotto</td>
+      <td>Bellini-Zaira</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -518,6 +688,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>32</td>
@@ -529,7 +703,11 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>Callas: Verdi&#39;s Nabucco</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -546,6 +724,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>92</td>
@@ -557,6 +739,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -572,6 +758,30 @@ Italian opera music refers to the tradition of opera music that originated in It
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/o1125UzS5BMjh5So8rbpEruhyDEakaoiFxKw_QLZx_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/MDg1LTE2MjA5MjE5/MzQtODg4My5qcGVn.jpeg" alt="Cover for My First Concert" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Mario del Monaco</td>
+      <td>My First Concert</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -590,6 +800,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>74</td>
@@ -605,46 +819,8 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>98</td>
-      <td>
-          <img src="https://i.discogs.com/o1125UzS5BMjh5So8rbpEruhyDEakaoiFxKw_QLZx_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/MDg1LTE2MjA5MjE5/MzQtODg4My5qcGVn.jpeg" alt="Cover for My First Concert" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1989</td>
-      <td>Mario del Monaco</td>
-      <td>My First Concert</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td>1990</td>
-      <td>Orchestra &amp; Coro del Teatro La Fenice di Venezia</td>
-      <td>Leoncavallo: La Boheme</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-          <img src="https://i.discogs.com/Lo74nCambUOMBRE4HrsNqTkJTkU0wQswADDsF0HU2eE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjE0/ODczLTE2Mzg1NTM1/MjMtNDM4Mi5qcGVn.jpeg" alt="Cover for Puccini: Le Villi" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1990</td>
-      <td>Orchestra Internazionale d&#39; Italia</td>
-      <td>Puccini: Le Villi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
         </ul>
       </td>
     </tr>
@@ -663,6 +839,11 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 41</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>79</td>
@@ -675,6 +856,46 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Arturo Toscanini</td>
+      <td>Verdi:Otello</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/Lo74nCambUOMBRE4HrsNqTkJTkU0wQswADDsF0HU2eE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjE0/ODczLTE2Mzg1NTM1/MjMtNDM4Mi5qcGVn.jpeg" alt="Cover for Puccini: Le Villi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Orchestra Internazionale d&#39; Italia</td>
+      <td>Puccini: Le Villi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -691,6 +912,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>11</td>
@@ -703,6 +928,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -722,6 +951,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>96</td>
@@ -734,6 +967,27 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Fausto Tenzi &#x2F; Roberto Negri</td>
+      <td>Leoncavallo: 19 Arie Inedite</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -749,9 +1003,13 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>2</td>
       <td>
       </td>
       <td>1995</td>
@@ -763,6 +1021,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -779,6 +1041,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>38</td>
@@ -791,6 +1057,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -807,14 +1077,6 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td>1996</td>
-      <td>Orchestra Internazionale d&#39;Italia, Coro da Camera di Bratislava, Giuliano Carella</td>
-      <td>Verdi: Ernani</td>
       <td>
         <ul>
         </ul>
@@ -835,6 +1097,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>81</td>
@@ -848,6 +1114,30 @@ Italian opera music refers to the tradition of opera music that originated in It
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/2xnI_DFea1Dm6lcEQJZnwamyJxn7YBQgrWv7-BuUJpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM4/OTE3LTE2MDU3OTky/MzMtMTA2NC5qcGVn.jpeg" alt="Cover for Italian Opera Arias" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Renata Scotto</td>
+      <td>Italian Opera Arias</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -864,19 +1154,8 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>63</td>
-      <td>
-          <img src="https://i.discogs.com/2xnI_DFea1Dm6lcEQJZnwamyJxn7YBQgrWv7-BuUJpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM4/OTE3LTE2MDU3OTky/MzMtMTA2NC5qcGVn.jpeg" alt="Cover for Italian Opera Arias" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Renata Scotto</td>
-      <td>Italian Opera Arias</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a></li>
         </ul>
       </td>
     </tr>
@@ -892,6 +1171,10 @@ Italian opera music refers to the tradition of opera music that originated in It
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -910,6 +1193,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>61</td>
@@ -923,6 +1210,10 @@ Italian opera music refers to the tradition of opera music that originated in It
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -941,6 +1232,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>75</td>
@@ -953,6 +1248,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -969,6 +1268,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>84</td>
@@ -981,6 +1284,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -999,6 +1306,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>93</td>
@@ -1012,6 +1323,10 @@ Italian opera music refers to the tradition of opera music that originated in It
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1030,6 +1345,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>60</td>
@@ -1045,6 +1364,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>27</td>
@@ -1054,6 +1377,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>2012</td>
       <td>Vincenzo Bellini</td>
       <td>Bellini, V.: Puritani (I) [Opera]</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1071,6 +1398,10 @@ Italian opera music refers to the tradition of opera music that originated in It
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>37</td>
@@ -1080,6 +1411,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>2013</td>
       <td>Vincenzo Bellini</td>
       <td>Bellini, V.: Bianca E Fernando [Opera]</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1100,6 +1435,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>25</td>
@@ -1114,6 +1453,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1132,6 +1475,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>43</td>
@@ -1148,15 +1495,6 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/qjIA6aYm6z08xtvOlkUQnuWeD8cdmHSCpt9qFIr2Vm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODM3/MjkwLTE1OTg3MDkz/NzUtMjg4Ny5qcGVn.jpeg" alt="Cover for Rossini, G.: Aureliano in Palmira" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018</td>
-      <td>Gioachino Rossini</td>
-      <td>Rossini, G.: Aureliano in Palmira</td>
       <td>
         <ul>
         </ul>
@@ -1174,6 +1512,67 @@ Italian opera music refers to the tradition of opera music that originated in It
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Luciano Pavarotti [Tenor]</td>
+      <td>Pavarotti &amp; Friends Together For The Children Of Bosnia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Luciano Pavarotti [Artist]</td>
+      <td>Pavarotti &amp; Friends for Cambodia and Tibet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Luciano Pavarotti [tenor]</td>
+      <td>Pavarotti &amp; Friends Together For The Children Of Bosnia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 83</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>3</td>
@@ -1187,30 +1586,25 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
-      <td>Orchestra e Coro dell&#39; E.A.R.  Teatro Bellini</td>
-      <td>Bellini: Adelson &amp; Salvini</td>
+      <td>Orchestra e Coro del Teatro Regio di Torino</td>
+      <td>Verdi: I Due Foscari</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Orchestra &amp; Coro della RTSI</td>
-      <td>Rossini: La Gazzetta</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
         </ul>
       </td>
     </tr>
@@ -1228,6 +1622,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>13</td>
@@ -1239,6 +1637,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1256,6 +1658,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>21</td>
@@ -1269,46 +1675,8 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>50</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Luciano Pavarotti [Tenor]</td>
-      <td>Pavarotti &amp; Friends Together For The Children Of Bosnia</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Luciano Pavarotti [Artist]</td>
-      <td>Pavarotti &amp; Friends for Cambodia and Tibet</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Luciano Pavarotti [tenor]</td>
-      <td>Pavarotti &amp; Friends Together For The Children Of Bosnia</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
         </ul>
       </td>
     </tr>
@@ -1326,6 +1694,10 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>87</td>
@@ -1337,6 +1709,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1352,14 +1728,22 @@ Italian opera music refers to the tradition of opera music that originated in It
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-opera" | relative_url }}">italian opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>5</td>
       <td>
       </td>
       <td></td>
-      <td>Young Ok Shin, Gregory Kunde, Aurio Tomicich, Haijing Fu, Armando Caforio, Sonia Nigoghossian, Walter Coppola, Emily Manhart, Orchestra del Teatro Massimo Bellini Di Catania, Coro del Teatro Massimo Bellini Di Catania, Marcello Seminara, Andrea Licata</td>
-      <td>Bellini: Bianca &amp; Fernando</td>
+      <td>Ferdinando Fontana</td>
+      <td>Puccini, G.: Villi (Le) [Opera]</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1376,6 +1760,10 @@ Italian opera music refers to the tradition of opera music that originated in It
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>16</td>
@@ -1384,6 +1772,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td></td>
       <td>Ruggero Leoncavallo</td>
       <td>Leoncavallo, R.: Boheme (La) [Opera]</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1400,6 +1792,10 @@ Italian opera music refers to the tradition of opera music that originated in It
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>26</td>
@@ -1408,6 +1804,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td></td>
       <td>Mario Del Monaco, Leonard Warren, Victoria De Los Angeles, Orchestra of the New York Metropolitan Theatre, Fausto Cleva, Choir of the New York Metropolitan Theatre</td>
       <td>Verdi: Otello</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1424,6 +1824,10 @@ Italian opera music refers to the tradition of opera music that originated in It
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>57</td>
@@ -1436,6 +1840,10 @@ Italian opera music refers to the tradition of opera music that originated in It
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>76</td>
@@ -1444,6 +1852,10 @@ Italian opera music refers to the tradition of opera music that originated in It
       <td></td>
       <td>Victoria de los Angeles&#x2F;Orchestra del Teatro dell&#39;Opera, Roma&#x2F;Tullio Serafin</td>
       <td>Verdi: La Traviata</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>

@@ -9,6 +9,10 @@ title: mali
 
 Last updated: <time datetime="2025-10-30T08:36:48.512Z">Thu Oct 30 2025 10:36:48 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Malian music blends traditional West African instruments like the kora, ngoni, and balafon with desert blues guitar styles and diverse vocal traditions from the country&#39;s many ethnic groups. The genre reflects Mali&#39;s rich musical heritage, incorporating griot storytelling traditions, Wassoulou rhythms, and Tuareg desert sounds. Its hypnotic melodies and intricate polyrhythms create a distinctive sound that bridges ancient and contemporary African musical expressions.
+
 ### 100 chronological releases
 
 <table>
@@ -210,7 +214,7 @@ Last updated: <time datetime="2025-10-30T08:36:48.512Z">Thu Oct 30 2025 10:36:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 43</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -231,7 +235,7 @@ Last updated: <time datetime="2025-10-30T08:36:48.512Z">Thu Oct 30 2025 10:36:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 69</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 70</li>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 93</li>
         </ul>
       </td>
@@ -490,7 +494,7 @@ Last updated: <time datetime="2025-10-30T08:36:48.512Z">Thu Oct 30 2025 10:36:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 32</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 33</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 81</li>
         </ul>
       </td>
@@ -626,6 +630,7 @@ Last updated: <time datetime="2025-10-30T08:36:48.512Z">Thu Oct 30 2025 10:36:48
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 1</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 28</li>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 97</li>
         </ul>
@@ -686,7 +691,7 @@ Last updated: <time datetime="2025-10-30T08:36:48.512Z">Thu Oct 30 2025 10:36:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 19</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 20</li>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 24</li>
         </ul>
       </td>
@@ -940,7 +945,7 @@ Last updated: <time datetime="2025-10-30T08:36:48.512Z">Thu Oct 30 2025 10:36:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 51</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 52</li>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 71</li>
         </ul>
       </td>
@@ -1073,7 +1078,7 @@ Last updated: <time datetime="2025-10-30T08:36:48.512Z">Thu Oct 30 2025 10:36:48
       <td>
         <ul>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 1</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 6</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 7</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 97</li>
         </ul>
       </td>
@@ -1130,7 +1135,7 @@ Last updated: <time datetime="2025-10-30T08:36:48.512Z">Thu Oct 30 2025 10:36:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 7</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 8</li>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 20</li>
         </ul>
       </td>
@@ -1150,7 +1155,7 @@ Last updated: <time datetime="2025-10-30T08:36:48.512Z">Thu Oct 30 2025 10:36:48
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 14</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 15</li>
             <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 22</li>
         </ul>
       </td>

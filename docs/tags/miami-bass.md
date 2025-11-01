@@ -9,6 +9,10 @@ title: miami bass
 
 Last updated: <time datetime="2025-10-30T05:36:39.602Z">Thu Oct 30 2025 07:36:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Miami bass is a high-energy electronic dance music style that emerged from Miami&#39;s club scene in the 1980s, characterized by booming 808 drum machines, explicit lyrics, and rapid-fire call-and-response vocals. The genre became synonymous with car audio culture and sexually provocative party music, influencing the development of Southern hip-hop. Its infectious, bass-heavy sound continues to impact contemporary pop, hip-hop, and club music worldwide.
+
 ### 100 chronological releases
 
 <table>
