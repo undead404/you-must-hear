@@ -1,118 +1,1997 @@
 ---
 category: genre
-date: 2025-10-22T16:17:06.217Z
+date: 2025-11-01T02:22:50.977Z
 permalink: tags/tropicalia
 title: tropicalia
 ---
 
 ## tropicalia
 
-Last updated: <time datetime="2025-10-22T16:17:06.217Z">Wed Oct 22 2025 19:17:06 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-01T02:22:50.977Z">Sat Nov 01 2025 04:22:50 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Tropicália was a revolutionary Brazilian music movement of the late 1960s that fused traditional samba and bossa nova with psychedelic rock, avant-garde experimentation, and international pop influences. The genre emerged as both artistic innovation and political resistance during Brazil&#39;s military dictatorship, challenging cultural nationalism while celebrating Brazilian identity. Its colorful, eclectic sound incorporated electric guitars, unconventional arrangements, and poetic lyrics that mixed high art with popular culture.
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 79 |  |  | Vários intérpretes | Tropicália Ou Panis Et Circensis |
-| 80 |  | 1968 | Gilberto Gil | Gilberto Gil |
-| 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/30479a390065327b84977d6a983213c7.png) | 1968-06 | Os Mutantes | Os Mutantes |
-| 66 |  | 1969 | Caetano Veloso | Caetano Veloso |
-| 67 | ![Cover](https://i.discogs.com/mmFr5W-1oKpQpvkkSueN8R_rJgAwSaXuqz7ZSEN-1Eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTk1/OTEtMTM1OTY3NjQ0/My05MTkxLmpwZWc.jpeg) | 1969 | Caetano Veloso | 1969 - Caetano Veloso |
-| 73 |  | 1969 | Ronnie Von | Ronnie Von |
-| 82 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6cf61468e114e544c27ae31f2527cec7.png) | 1969 | Gal Costa | Gal |
-| 97 |  | 1969 | Gal Costa | Gal Costa |
-| 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bf3f18ec70ece6986d1cf510a9934a91.png) | 1969-02 | Os Mutantes | Mutantes |
-| 87 | ![Cover](https://i.discogs.com/X4CIGghKytw_oqMmDhK6MXKJldUGxZ3wAHjTTOPEMtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjM1/MjctMTY3Mzk5NTA0/NC0zNjk0LmpwZWc.jpeg) | 1970-03 | Os Mutantes | A Divina Comédia ou Ando Meio Desligado |
-| 91 | ![Cover](https://i.discogs.com/_7WIvc4W7oUvSeBhu1Fptcn4frYTfYIVprfENqX0KB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjgx/OTctMTU5ODA3NTIy/Mi05OTgwLmpwZWc.jpeg) | 1971 | Os Mutantes | Jardim Elétrico |
-| 62 | ![Cover](https://i.discogs.com/Ug7IHPjoVCXZ_iZV3tKbk36nVwKqLM7ksvglXwtEYak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTg1/OTYtMTI4NzMyNTg0/MS5qcGVn.jpeg) | 1972 | Gilberto Gil | Expresso 2222 |
-| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/03738afc30f2dd2884cc1fa8fca87ae0.png) | 1972 | Gal Costa | Gal A Todo Vapor (Live) |
-| 99 | ![Cover](https://i.discogs.com/UjVgh0hDbfZuNH1z3XrL2UMX_btGR2Zrmx7eRcMOgwk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY3/MjAtMTQ1NzczNjQ1/NC0zMDExLmpwZWc.jpeg) | 1972 | Caetano Veloso | Transa |
-| 100 | ![Cover](https://i.discogs.com/bzVNfYgpHCUEGttJu8DuTk2XmC00zl6AxRsN8fwn4uE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTE4/NC0xMzUwOTU3OTgw/LTcyMDkuanBlZw.jpeg) | 1972 | Novos Baianos | Acabou Chorare |
-| 76 |  | 1973 | Novos Baianos | Novos Baianos F.C. |
-| 4 | ![Cover](https://i.discogs.com/RIWcFEpY1jJ3njFHe5VPz_fpd2wTkN2Ij-OON-9xU0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg1/MzQtMTQ2MDY1NjUy/MS00OTU2LmpwZWc.jpeg) | 1975 | Gilberto Gil &amp; Jorge Ben | Gil And Jorge |
-| 58 | ![Cover](https://i.discogs.com/QgPu02w_YN69DHJDTPi_5-PHRBfh2vcRkg3qhmDskvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjIy/MjUtMTY3MzE3ODUz/MS02OTcxLmpwZWc.jpeg) | 1975 | Caetano Veloso | A Arte de Caetano Veloso |
-| 81 |  | 1975 | Caetano Veloso | Jóia |
-| 53 | ![Cover](https://i.discogs.com/4O-0FMbcLotoEe0Izlto71QsySx6rBUUzc-DmgCTlr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzc4/ODgtMTYzMTI1MDgw/Ny03Mzg1LmpwZWc.jpeg) | 1976 | Os Mutantes | Ao Vivo |
-| 78 |  | 1977 | Caetano Veloso | Bicho |
-| 94 |  | 1982 | Gilberto Gil | Um Banda Um |
-| 56 | ![Cover](https://i.discogs.com/_x4PjYl-aEcKONMtQDEYSxon8w_yaCTAEUyg06z8Syc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA5/NzczLTE1NTc0NTc3/NTAtNzIwNC5qcGVn.jpeg) | 1983 | Os Mutantes | E seus cometas no pais do baurets |
-| 88 |  | 1984 | Gilberto Gil | Raça Humana |
-| 51 | ![Cover](https://i.discogs.com/a1JwFGS1B8U9aPPttgrp0U3mb33oPzebZMrThmFqtVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjEw/NDYtMTQxODc4MzY4/MC0yODU3LmpwZWc.jpeg) | 1986 | Rita Lee | Cherrystone&#x60;s Rocks |
-| 55 | ![Cover](https://i.discogs.com/zaCWQoxJzD5OKWRZfwChRZ56_S6nuHEGSiUxXtimKWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Nzc0/NzAtMTM5OTY2OTIx/NC00MTE2LmpwZWc.jpeg) | 1990 | Tom Zé | O Melhor De Tom Zé |
-| 65 | ![Cover](https://i.discogs.com/oYi4awFsOgNgSRUCvxKq8tR29XPmrlGXSnlCx-2xk6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODUz/ODgtMTI4NjYyNjQ2/OS5qcGVn.jpeg) | 1993 | Caetano Veloso &amp; Gilberto Gil | Tropicália 2 |
-| 75 | ![Cover](https://i.discogs.com/ehUg2fk-_hhmK1Nxfe34EqUKCr1I8Cc0rwSFhOiQFJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTU0/MzAtMTI5MjI3OTUy/My5qcGVn.jpeg) | 1994-06-07 | Gilberto Gil | Acoustic |
-| 61 |  | 1997 | Arto Lindsay | Noon Chill |
-| 74 | ![Cover](https://i.discogs.com/rCPUj2IyJjV6qBp58aM3BJc4NRzSYEG3r7PFZ9fU9P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTUy/NTMtMTM0MTIwNTQ4/My0xNjcyLmpwZWc.jpeg) | 1998 | Os Mutantes | Millennium |
-| 85 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bf570e3c9aa286e7d19ff1ab03eb8d55.png) | 1998 | Gilberto Gil | Gilberto Gil (1968) |
-| 68 | ![Cover](https://i.discogs.com/NJuPZz8SQmIeUWmpvcJpE_FWBG96Q5d1IRZ6SsSRc10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTAy/NjA0LTE2MTE2MDY4/ODUtNTMxNy5qcGVn.jpeg) | 1999 | Os Mutantes | Everything Is Possible! |
-| 69 | ![Cover](https://i.discogs.com/aaWYVhyK-0jVggY60Sg5HUbKa_W_GQMxGiTC8JGF4wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NTY5LTE0OTI4Njkw/MzEtOTI2NS5qcGVn.jpeg) | 1999 | Novos Baianos | Enciclopédia Musical Brasileira |
-| 89 |  | 1999 | Os Mutantes | Tecnicolor |
-| 90 | ![Cover](https://i.discogs.com/41q9rWXucvwwIJoa6A3MEZW_S66AbuJbvwrACwXKnsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODc0/OTctMTQ2NTIzMzQ1/MC0xMzc5LmpwZWc.jpeg) | 2000 | Os Mutantes | &quot;Jardim Eletrico&quot; |
-| 54 | ![Cover](https://i.discogs.com/GJOJQPncNmMtLbGjuVLwFc94ujvFwjnsrBe18ALmUao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDYz/NjctMTM1MjA3NTQ2/MC0yMTY1LmpwZWc.jpeg) | 2001 | Novos Baianos | Para Sempre |
-| 60 |  | 2001 | JARDS MACALÉ | Macalé Canta Moreira |
-| 71 | ![Cover](https://i.discogs.com/LftvQMk3Il_u-1frB-A3rpNFsd0dOw5biapocxYObPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDU2/NjgtMTQyMjk0OTU4/Ny0yODE0LmpwZWc.jpeg) | 2001 | Caetano Veloso | Zii &amp; Zie |
-| 59 | ![Cover](https://i.discogs.com/waPxJNgaYaG5mDartz9E5uUg5fEC9pdyblqYE0Id5cU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTE2/OTItMTM0ODI3MTIz/MC05MTA4LmpwZWc.jpeg) | 2002 | Rita Lee | Hoje O Primeiro Dia Do Resto Da Sua Vida |
-| 2 | ![Cover](https://i.discogs.com/EDPDxi6SmGqX0EWLCN5hr0Uyl9cDsgdAeTHMqoGz-Qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTM1/NzktMTMyNTMxMjk4/OS5qcGVn.jpeg) | 2002-04 | Spectrum | Geraçâo Bendita |
-| 5 |  |  | Bat Makumba | Boteco |
-| 7 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d2c242de1c6de5efd6fd359de8790c61.png) |  | Rita Lee | Refestança (Ao Vivo) |
-| 9 |  |  | Alarm Soft | With Mind - Expanding Visions |
-| 41 |  | 1968 | Nara Leão | Nara Leão |
-| 22 | ![Cover](https://i.discogs.com/c3gfhUoBbequQcncxoj8KA1dbk-JjxA7mHqD0Hw4dYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTM0/OTAtMTUyMzE2MjM5/Ny01MDAzLmpwZWc.jpeg) | 1972 | Caetano Veloso | Caetano Veloso [1968] |
-| 30 | ![Cover](https://i.discogs.com/c3gfhUoBbequQcncxoj8KA1dbk-JjxA7mHqD0Hw4dYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTM0/OTAtMTUyMzE2MjM5/Ny01MDAzLmpwZWc.jpeg) | 1972 | Caetano Veloso | Caetano Veloso [1969] |
-| 37 |  | 1972 | Caetano Veloso | Caetano Veloso - 1967 |
-| 38 |  | 1972 | Caetano Veloso | Caetano Veloso (1971) |
-| 42 | ![Cover](https://i.discogs.com/c3gfhUoBbequQcncxoj8KA1dbk-JjxA7mHqD0Hw4dYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTM0/OTAtMTUyMzE2MjM5/Ny01MDAzLmpwZWc.jpeg) | 1972 | Caetano Veloso | Caetano Veloso (1969) |
-| 29 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c49456496d3517f37148c534a45b828f.png) | 1972-09 | Rita Lee | Hoje é o Primeiro Dia do Resto da Sua Vida |
-| 47 |  |  | Tropicalia ou Panis Et Circensis | Tropicalia ou Panis Et Circensis |
-| 50 | ![Cover](https://i.discogs.com/jOqDh9gaiCzn4D04WDACgdF0lwN-aMgrYJyvKdhfjA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjU1/MzAtMTMzNzg3MTA3/Mi0yOTc4LmpwZWc.jpeg) | 1972 | Gal Costa | Gal A Todo Vapor |
-| 6 | ![Cover](https://i.discogs.com/PHZmw_HJ9W5rWEugMBMW--qQbpwan2I2yePZAn_dEQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTI3/MDktMTQyNTE0NDU3/MS05MjA2LmpwZWc.jpeg) | 1975 | Gilberto Gil, Caetano Veloso, Gal Costa, Os Mutantes | Tropicália ou Panis Et Circensis |
-| 45 |  | 1976 | Doces Bárbaros | Doces Bárbaros |
-| 46 | ![Cover](https://i.discogs.com/u9KiPQPLfdzlzxkKh5yZMo6wP5XU_IFZfNeHn-c4lZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTA1/NjMtMTU0OTc0NzQ3/NS05MTg4LmpwZWc.jpeg) | 1976 | Novos Baianos | (1976) Caia na Estrada e Perigas Ver |
-| 26 | ![Cover](https://i.discogs.com/h1cPtbdV0DfbCrw0dayxgvXGEEK06_q5nTyJ9lpy4fQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjgz/NDktMTI5Mzk5MDIx/MS5qcGVn.jpeg) | 1982 | Ney Matogrosso | Feitiço |
-| 44 | ![Cover](https://i.discogs.com/spHKnyUGrZROkQPlb9Iw9r7W5xBTu8K20oSqrXR7zdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzAy/ODgtMTQ3Njk4NDgy/Ni0yNDkyLnBuZw.jpeg) | 1982 | Caetano Veloso | Sem Lenço Sem Documento |
-| 8 | ![Cover](https://i.discogs.com/pN-lfbBnJYvBEVRvWHciayFFeVzrn7JYu7Up1SA2jhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODUy/MzEtMTIzNjgwNDA0/OS5qcGVn.jpeg) | 1983 | Sueno Sueno | Tapas |
-| 10 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c73c5d9a2cd053a470d8b344a9791c17.png) | 1985 | Os Mutantes | &quot;A Divina Comédia Ou Ando Meio Desligado&quot; |
-| 32 |  | 1987 | Various Artists | Tropicalia |
-| 31 | ![Cover](https://i.discogs.com/C70rokPNiOLT80m10-XRSqZyinQAHL4zUQCoLKWtNAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDcy/MDAtMTY3NDIyNzcw/OS0yMDY5LmpwZWc.jpeg) | 1990 | Tom Zé | Brazil Classics 4 - The Best of Tom Ze |
-| 25 | ![Cover](https://i.discogs.com/rkedGzpyG71KAvTPqkDYvRzRvoQzluy0QTSh8iXnVek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzE0/MzQ4LTE1ODAxNjE2/ODctMTQ5Ni5qcGVn.jpeg) | 1992 | Os Mutantes | A e o Z |
-| 36 | ![Cover](https://i.discogs.com/Almt6AP9XbH5UzgAwffD5OANM-TVWjUjk97endmMalU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODAw/ODkyLTE1NjE0MTU0/MjEtMTE2NC5qcGVn.jpeg) | 1993 | Gilberto Gil &amp; Caetano Veloso | Tropicália 2 |
-| 12 | ![Cover](https://i.discogs.com/N7R9O7QqJ-blGFL2CHp1kX5hbndU7hXgOT-0Sqw6ut4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM5/NjkxLTE2MDQwOTg0/NjItOTkzNy5qcGVn.jpeg) | 1997 | Kléber Albuquerque | Desvio |
-| 28 | ![Cover](https://i.discogs.com/Lt3uWAGqnBLzFlZoJgcbBg3lHKo3ZvMP3PpuZ1Uht-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODUw/OTk2LTE2NDI4OTg1/OTYtMTc0MC5qcGVn.jpeg) | 1999 | Caetano Veloso | Tropicalia ou Panis Et Circensis |
-| 39 |  | 2000 | Tom Zé | Estudando o Samba (1975) + Correio da Estação do Brás (1978) |
-| 43 | ![Cover](https://i.discogs.com/XK33xwyPmCRCcSqBrpEeozZPu2WyVExFpowqzBiEyWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTQ3/MjktMTQzODY4ODY1/MC0zMzA1LmpwZWc.jpeg) | 2000 | Mopho | Mopho |
-| 49 | ![Cover](https://i.discogs.com/41q9rWXucvwwIJoa6A3MEZW_S66AbuJbvwrACwXKnsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODc0/OTctMTQ2NTIzMzQ1/MC0xMzc5LmpwZWc.jpeg) | 2000 | Os Mutantes | Jardim Eletrico |
-| 24 | ![Cover](https://i.discogs.com/J10XFfq-U5qdClrRmucGVuh6reIadXz4X7gvk3r6Wxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTEy/ODgtMTMzNjUyMjk1/Ny0yOTYxLmpwZWc.jpeg) | 2001 | Totonho &amp; Os Cabra | Totonho &amp; Os Cabra |
-| 1 |  | 2003 | Bat Makumba | Bat Makumba |
-| 16 | ![Cover](https://i.discogs.com/gn8ayZY3JmzHM7_Vm_9_fb7UMEmWQ529k8u7VwR78uQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDIw/MTQ3LTE0OTAyNjEz/NjItNDQxMC5qcGVn.jpeg) | 2003 | Wagner Pa | El imparable transeunte |
-| 17 | ![Cover](https://i.discogs.com/VyeFGJKFZ30P7rIkyjbMgsXcSpSnqMecyrIpdWs1PpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTgw/MTYtMTMyNTY4MDUz/OC5qcGVn.jpeg) | 2003 | Gilberto Gil | Tropicalia ou Panis Et Circensis |
-| 21 | ![Cover](https://i.discogs.com/YkhlkPCFaOaj6zUc0AYQ_IdmsOiB6pyCKZcDSmv_saI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI2/NjUtMTI5NDgxNDgw/Ni5qcGVn.jpeg) | 2004 | João Gilberto | João Gilberto (Águas de Março) |
-| 18 | ![Cover](https://i.discogs.com/OnEfHeFmonZ-3BZzj5xQEgCPdpT2D75S85BiS7LmRGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTg2/OTQtMTI5NzA0MDMx/Ny5qcGVn.jpeg) | 2006 | Gal Costa | Gal Costa (1969) |
-| 40 | ![Cover](https://i.discogs.com/GJOJQPncNmMtLbGjuVLwFc94ujvFwjnsrBe18ALmUao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDYz/NjctMTM1MjA3NTQ2/MC0yMTY1LmpwZWc.jpeg) | 2006 | Novos Baianos | (1972) Acabou Chorare |
-| 57 | ![Cover](https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg) | 2006 | Various Artists | Brazil Classics 1: Beleza Tropical |
-| 72 | ![Cover](https://i.discogs.com/CzoMRZ-5gQMM_HWRdVIFDYOzwnKYiLDFxYlxi8uV-dI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTM4/MjktMTYxNjMzNjky/My02MTIyLmpwZWc.jpeg) | 2006 | Novos Baianos | É Ferro Na Boneca |
-| 83 | ![Cover](https://i.discogs.com/jXrUsdiXOse8VX3uptgMqKW41YsiZfWtCSOj8r8bH7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjc5/NDItMTM1NTIwMTA0/OS00MjM0LmpwZWc.jpeg) | 2006 | Caetano Veloso | Joia |
-| 19 |  | 2006-01 | Montag Mania | Piraya |
-| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/09d5ff925993b0cd2f0d515c08271dbe.png) | 2006-01-01 | Caetano Veloso | Cê |
-| 15 | ![Cover](https://i.discogs.com/6PNz7pEJXDSOLax0-3D1IR9dJVRyugzA2SiCe0aGO3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDQ5/NjQtMTU5ODYxODMw/Ni01NTg0LmpwZWc.jpeg) | 2006-11-07 | Orhan Gencebay | Yargisiz Infaz |
-| 14 | ![Cover](https://i.discogs.com/ZBKBR_oLrSq9pmyEhwCFspWhGMupLAFdXAKYjLZpGsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ5/NzYtMTM5NDMwNTcw/Mi0xMTQ4LmpwZWc.jpeg) | 2007 | Las Malas Amistades | Patio Bonito |
-| 48 | ![Cover](https://i.discogs.com/ZihxdYgBOnSr4XnO-999bEBDUxXTdiyP8Sr6oILLiCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc1/MDgtMTI5NzAwNjU2/OS5qcGVn.jpeg) | 2007 | El Guincho | Folías |
-| 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/07479fa828c8d8785b6b59625fab8976.png) | 2007 | Os Mutantes | &quot;Mutantes&quot; |
-| 95 | ![Cover](https://i.discogs.com/ZihxdYgBOnSr4XnO-999bEBDUxXTdiyP8Sr6oILLiCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc1/MDgtMTI5NzAwNjU2/OS5qcGVn.jpeg) | 2007 | El Guincho | Alegranza |
-| 64 |  | 2008 | Coconot | Cosa Astral |
-| 27 | ![Cover](https://i.discogs.com/9rYSiXCe4qE5SGTb1_bjCB-dj5RUuk_AcpdEsxU2Qc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTE5/NTAtMTMzNzM0MTg3/Ni04NDAwLmpwZWc.jpeg) | 2009 | Cold Mountain Child | Stillness Singing |
-| 35 |  | 2009 | Various Artists | Tropicalia ou Panis et Circensis |
-| 77 |  | 2009 | Various Artists | Tropicália Ou Panis Et Circensis |
-| 13 | ![Cover](https://i.discogs.com/GuTYmlvPRoYajgYSVFkCr9hQ3OrHZP8QQyKN92wQgEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDcz/NzYtMTM0NTE5NTcz/Ny05OTQ2LmpwZWc.jpeg) | 2010 | Gilberto Gil | Fe na Festa |
-| 20 | ![Cover](https://i.discogs.com/Y94LjPHQNse5nIY_oTq1e6JRBq_oB6fLxSCMnLXlOUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTQ4/NTMtMTQzODY5MTQ1/Mi0xNzU3LmpwZWc.jpeg) | 2011 | Mopho | Volume 3 |
-| 33 |  | 2011 | The Dreams | Morbido |
-| 34 |  | 2011-11-18 | Adron | Organismo |
-| 11 | ![Cover](https://i.discogs.com/CckK64fHR8mY-25LvsXEFIzJ94_mR7yPPQUU7ZNM9rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjQy/MjUtMTQwMDk1Mjg0/OS01ODEzLmpwZWc.jpeg) | 2012 | Caetano Veloso, Gilberto Gil &amp; Ivete Sangalo | Especial Ivete, Gil E Caetano (Deluxe Edition) [Ao Vivo] |
-| 84 |  | 2014-05-26 | Sébastien Tellier | L&#39;aventura |
-| 86 | ![Cover](https://i.discogs.com/IKuDWfc59oCfZTHyGHRjs1kDtaPmyiSB76n3q7ue0mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNzI1/NTEtMTQ1ODM5ODg2/Ny0xODM4LmpwZWc.jpeg) | 2015 | Boogarins | Manual |
-| 98 | ![Cover](https://i.discogs.com/iG_N93sIBOXp3nFlbyDQsrYjRGGsii5O_BoSgqIACE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDc1/MjczLTE2NDQzMjQx/MzUtNzYxNS5qcGVn.jpeg) | 2018-04-27 | DUDA BEAT | Sinto Muito |
-| 52 | ![Cover](https://i.discogs.com/SUtDoamE646r6DIh7TiRn5HN2H0LzklmtLiAHoWFhVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjEy/NjMxLTE1MDA5MzIz/OTQtNTY1MC5qcGVn.jpeg) | 2020 | Tom Zé | Danç-Êh-Sá |
-| 63 | ![Cover](https://i.discogs.com/AxYf0WHrHvVH9k_x17sjWKDyv1Oy6sFSIFS0Zvaq2kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODE4/ODYzLTE2NDk1MDQ1/MjUtMjUwNC5qcGVn.jpeg) | 2022-03-11 | Fennec | a couple of good days |
-| 3 | ![Cover](https://i.discogs.com/4gyVghH5dhdVGRIY_qea0Azj8BcgCo9fkYnLp8ZKwmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzY0/MDAtMTM5MzMxNDky/NS03NDMzLmpwZWc.jpeg) | 2023-09-10 | Attics | Time Is Falling |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>1968</td>
+      <td>Nara Leão</td>
+      <td>Nara Leão</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>1968</td>
+      <td>Gilberto Gil</td>
+      <td>Gilberto Gil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30479a390065327b84977d6a983213c7.png" alt="Cover for Os Mutantes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968-06</td>
+      <td>Os Mutantes</td>
+      <td>Os Mutantes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>1969</td>
+      <td>Caetano Veloso</td>
+      <td>Caetano Veloso</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/mmFr5W-1oKpQpvkkSueN8R_rJgAwSaXuqz7ZSEN-1Eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTk1/OTEtMTM1OTY3NjQ0/My05MTkxLmpwZWc.jpeg" alt="Cover for 1969 - Caetano Veloso" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969</td>
+      <td>Caetano Veloso</td>
+      <td>1969 - Caetano Veloso</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>1969</td>
+      <td>Gal Costa</td>
+      <td>Gal Costa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>1969</td>
+      <td>Ronnie Von</td>
+      <td>Ronnie Von</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cf61468e114e544c27ae31f2527cec7.png" alt="Cover for Gal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969</td>
+      <td>Gal Costa</td>
+      <td>Gal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf3f18ec70ece6986d1cf510a9934a91.png" alt="Cover for Mutantes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969-02</td>
+      <td>Os Mutantes</td>
+      <td>Mutantes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/X4CIGghKytw_oqMmDhK6MXKJldUGxZ3wAHjTTOPEMtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjM1/MjctMTY3Mzk5NTA0/NC0zNjk0LmpwZWc.jpeg" alt="Cover for A Divina Comédia ou Ando Meio Desligado" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970-03</td>
+      <td>Os Mutantes</td>
+      <td>A Divina Comédia ou Ando Meio Desligado</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/_7WIvc4W7oUvSeBhu1Fptcn4frYTfYIVprfENqX0KB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjgx/OTctMTU5ODA3NTIy/Mi05OTgwLmpwZWc.jpeg" alt="Cover for Jardim Elétrico" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Os Mutantes</td>
+      <td>Jardim Elétrico</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/Ug7IHPjoVCXZ_iZV3tKbk36nVwKqLM7ksvglXwtEYak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTg1/OTYtMTI4NzMyNTg0/MS5qcGVn.jpeg" alt="Cover for Expresso 2222" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Gilberto Gil</td>
+      <td>Expresso 2222</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 15</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/bzVNfYgpHCUEGttJu8DuTk2XmC00zl6AxRsN8fwn4uE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTE4/NC0xMzUwOTU3OTgw/LTcyMDkuanBlZw.jpeg" alt="Cover for Acabou Chorare" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Novos Baianos</td>
+      <td>Acabou Chorare</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 96</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/c3gfhUoBbequQcncxoj8KA1dbk-JjxA7mHqD0Hw4dYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTM0/OTAtMTUyMzE2MjM5/Ny01MDAzLmpwZWc.jpeg" alt="Cover for Caetano Veloso [1968]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Caetano Veloso</td>
+      <td>Caetano Veloso [1968]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/c3gfhUoBbequQcncxoj8KA1dbk-JjxA7mHqD0Hw4dYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTM0/OTAtMTUyMzE2MjM5/Ny01MDAzLmpwZWc.jpeg" alt="Cover for Caetano Veloso [1969]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Caetano Veloso</td>
+      <td>Caetano Veloso [1969]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>1972</td>
+      <td>Caetano Veloso</td>
+      <td>Caetano Veloso - 1967</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>1972</td>
+      <td>Caetano Veloso</td>
+      <td>Caetano Veloso (1971)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/c3gfhUoBbequQcncxoj8KA1dbk-JjxA7mHqD0Hw4dYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTM0/OTAtMTUyMzE2MjM5/Ny01MDAzLmpwZWc.jpeg" alt="Cover for Caetano Veloso (1969)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Caetano Veloso</td>
+      <td>Caetano Veloso (1969)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/jOqDh9gaiCzn4D04WDACgdF0lwN-aMgrYJyvKdhfjA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjU1/MzAtMTMzNzg3MTA3/Mi0yOTc4LmpwZWc.jpeg" alt="Cover for Gal A Todo Vapor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Gal Costa</td>
+      <td>Gal A Todo Vapor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03738afc30f2dd2884cc1fa8fca87ae0.png" alt="Cover for Gal A Todo Vapor (Live)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Gal Costa</td>
+      <td>Gal A Todo Vapor (Live)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/UjVgh0hDbfZuNH1z3XrL2UMX_btGR2Zrmx7eRcMOgwk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY3/MjAtMTQ1NzczNjQ1/NC0zMDExLmpwZWc.jpeg" alt="Cover for Transa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Caetano Veloso</td>
+      <td>Transa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c49456496d3517f37148c534a45b828f.png" alt="Cover for Hoje é o Primeiro Dia do Resto da Sua Vida" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972-09</td>
+      <td>Rita Lee</td>
+      <td>Hoje é o Primeiro Dia do Resto da Sua Vida</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>1973</td>
+      <td>Novos Baianos</td>
+      <td>Novos Baianos F.C.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/RIWcFEpY1jJ3njFHe5VPz_fpd2wTkN2Ij-OON-9xU0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg1/MzQtMTQ2MDY1NjUy/MS00OTU2LmpwZWc.jpeg" alt="Cover for Gil And Jorge" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975</td>
+      <td>Gilberto Gil &amp; Jorge Ben</td>
+      <td>Gil And Jorge</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/QgPu02w_YN69DHJDTPi_5-PHRBfh2vcRkg3qhmDskvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjIy/MjUtMTY3MzE3ODUz/MS02OTcxLmpwZWc.jpeg" alt="Cover for A Arte de Caetano Veloso" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975</td>
+      <td>Caetano Veloso</td>
+      <td>A Arte de Caetano Veloso</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>1975</td>
+      <td>Caetano Veloso</td>
+      <td>Jóia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/PHZmw_HJ9W5rWEugMBMW--qQbpwan2I2yePZAn_dEQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTI3/MDktMTQyNTE0NDU3/MS05MjA2LmpwZWc.jpeg" alt="Cover for Tropicália ou Panis Et Circensis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975</td>
+      <td>Gilberto Gil, Caetano Veloso, Gal Costa, Os Mutantes</td>
+      <td>Tropicália ou Panis Et Circensis</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td>1976</td>
+      <td>Doces Bárbaros</td>
+      <td>Doces Bárbaros</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/u9KiPQPLfdzlzxkKh5yZMo6wP5XU_IFZfNeHn-c4lZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTA1/NjMtMTU0OTc0NzQ3/NS05MTg4LmpwZWc.jpeg" alt="Cover for (1976) Caia na Estrada e Perigas Ver" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Novos Baianos</td>
+      <td>(1976) Caia na Estrada e Perigas Ver</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/4O-0FMbcLotoEe0Izlto71QsySx6rBUUzc-DmgCTlr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzc4/ODgtMTYzMTI1MDgw/Ny03Mzg1LmpwZWc.jpeg" alt="Cover for Ao Vivo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Os Mutantes</td>
+      <td>Ao Vivo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Caetano Veloso</td>
+      <td>Bicho</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/h1cPtbdV0DfbCrw0dayxgvXGEEK06_q5nTyJ9lpy4fQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjgz/NDktMTI5Mzk5MDIx/MS5qcGVn.jpeg" alt="Cover for Feitiço" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Ney Matogrosso</td>
+      <td>Feitiço</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/spHKnyUGrZROkQPlb9Iw9r7W5xBTu8K20oSqrXR7zdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzAy/ODgtMTQ3Njk4NDgy/Ni0yNDkyLnBuZw.jpeg" alt="Cover for Sem Lenço Sem Documento" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Caetano Veloso</td>
+      <td>Sem Lenço Sem Documento</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>1982</td>
+      <td>Gilberto Gil</td>
+      <td>Um Banda Um</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/pN-lfbBnJYvBEVRvWHciayFFeVzrn7JYu7Up1SA2jhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODUy/MzEtMTIzNjgwNDA0/OS5qcGVn.jpeg" alt="Cover for Tapas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Sueno Sueno</td>
+      <td>Tapas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/_x4PjYl-aEcKONMtQDEYSxon8w_yaCTAEUyg06z8Syc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA5/NzczLTE1NTc0NTc3/NTAtNzIwNC5qcGVn.jpeg" alt="Cover for E seus cometas no pais do baurets" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Os Mutantes</td>
+      <td>E seus cometas no pais do baurets</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td>1984</td>
+      <td>Gilberto Gil</td>
+      <td>Raça Humana</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 73</li>
+            <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 88</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 89</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 89</li>
+            <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c73c5d9a2cd053a470d8b344a9791c17.png" alt="Cover for &quot;A Divina Comédia Ou Ando Meio Desligado&quot;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Os Mutantes</td>
+      <td>&quot;A Divina Comédia Ou Ando Meio Desligado&quot;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 1</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/a1JwFGS1B8U9aPPttgrp0U3mb33oPzebZMrThmFqtVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjEw/NDYtMTQxODc4MzY4/MC0yODU3LmpwZWc.jpeg" alt="Cover for Cherrystone&#x60;s Rocks" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Rita Lee</td>
+      <td>Cherrystone&#x60;s Rocks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>1987</td>
+      <td>Various Artists</td>
+      <td>Tropicalia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/C70rokPNiOLT80m10-XRSqZyinQAHL4zUQCoLKWtNAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDcy/MDAtMTY3NDIyNzcw/OS0yMDY5LmpwZWc.jpeg" alt="Cover for Brazil Classics 4 - The Best of Tom Ze" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Tom Zé</td>
+      <td>Brazil Classics 4 - The Best of Tom Ze</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/zaCWQoxJzD5OKWRZfwChRZ56_S6nuHEGSiUxXtimKWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Nzc0/NzAtMTM5OTY2OTIx/NC00MTE2LmpwZWc.jpeg" alt="Cover for O Melhor De Tom Zé" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Tom Zé</td>
+      <td>O Melhor De Tom Zé</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/rkedGzpyG71KAvTPqkDYvRzRvoQzluy0QTSh8iXnVek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzE0/MzQ4LTE1ODAxNjE2/ODctMTQ5Ni5qcGVn.jpeg" alt="Cover for A e o Z" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Os Mutantes</td>
+      <td>A e o Z</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/Almt6AP9XbH5UzgAwffD5OANM-TVWjUjk97endmMalU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODAw/ODkyLTE1NjE0MTU0/MjEtMTE2NC5qcGVn.jpeg" alt="Cover for Tropicália 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Gilberto Gil &amp; Caetano Veloso</td>
+      <td>Tropicália 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/oYi4awFsOgNgSRUCvxKq8tR29XPmrlGXSnlCx-2xk6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODUz/ODgtMTI4NjYyNjQ2/OS5qcGVn.jpeg" alt="Cover for Tropicália 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Caetano Veloso &amp; Gilberto Gil</td>
+      <td>Tropicália 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/ehUg2fk-_hhmK1Nxfe34EqUKCr1I8Cc0rwSFhOiQFJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTU0/MzAtMTI5MjI3OTUy/My5qcGVn.jpeg" alt="Cover for Acoustic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-06-07</td>
+      <td>Gilberto Gil</td>
+      <td>Acoustic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/N7R9O7QqJ-blGFL2CHp1kX5hbndU7hXgOT-0Sqw6ut4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM5/NjkxLTE2MDQwOTg0/NjItOTkzNy5qcGVn.jpeg" alt="Cover for Desvio" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Kléber Albuquerque</td>
+      <td>Desvio</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Arto Lindsay</td>
+      <td>Noon Chill</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/rCPUj2IyJjV6qBp58aM3BJc4NRzSYEG3r7PFZ9fU9P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTUy/NTMtMTM0MTIwNTQ4/My0xNjcyLmpwZWc.jpeg" alt="Cover for Millennium" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Os Mutantes</td>
+      <td>Millennium</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf570e3c9aa286e7d19ff1ab03eb8d55.png" alt="Cover for Gilberto Gil (1968)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Gilberto Gil</td>
+      <td>Gilberto Gil (1968)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/aaWYVhyK-0jVggY60Sg5HUbKa_W_GQMxGiTC8JGF4wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTcz/NTY5LTE0OTI4Njkw/MzEtOTI2NS5qcGVn.jpeg" alt="Cover for Enciclopédia Musical Brasileira" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Novos Baianos</td>
+      <td>Enciclopédia Musical Brasileira</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 45</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/Lt3uWAGqnBLzFlZoJgcbBg3lHKo3ZvMP3PpuZ1Uht-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODUw/OTk2LTE2NDI4OTg1/OTYtMTc0MC5qcGVn.jpeg" alt="Cover for Tropicalia ou Panis Et Circensis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Caetano Veloso</td>
+      <td>Tropicalia ou Panis Et Circensis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/NJuPZz8SQmIeUWmpvcJpE_FWBG96Q5d1IRZ6SsSRc10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTAy/NjA0LTE2MTE2MDY4/ODUtNTMxNy5qcGVn.jpeg" alt="Cover for Everything Is Possible!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Os Mutantes</td>
+      <td>Everything Is Possible!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Os Mutantes</td>
+      <td>Tecnicolor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/41q9rWXucvwwIJoa6A3MEZW_S66AbuJbvwrACwXKnsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODc0/OTctMTQ2NTIzMzQ1/MC0xMzc5LmpwZWc.jpeg" alt="Cover for &quot;Jardim Eletrico&quot;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Os Mutantes</td>
+      <td>&quot;Jardim Eletrico&quot;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 12</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11f3631f54c04ae471bccbcfb7ea8291.png" alt="Cover for Jardim Eletrico" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Os Mutantes</td>
+      <td>Jardim Eletrico</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Tom Zé</td>
+      <td>Estudando o Samba (1975) + Correio da Estação do Brás (1978)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/XK33xwyPmCRCcSqBrpEeozZPu2WyVExFpowqzBiEyWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTQ3/MjktMTQzODY4ODY1/MC0zMzA1LmpwZWc.jpeg" alt="Cover for Mopho" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Mopho</td>
+      <td>Mopho</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/J10XFfq-U5qdClrRmucGVuh6reIadXz4X7gvk3r6Wxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTEy/ODgtMTMzNjUyMjk1/Ny0yOTYxLmpwZWc.jpeg" alt="Cover for Totonho &amp; Os Cabra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Totonho &amp; Os Cabra</td>
+      <td>Totonho &amp; Os Cabra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/GJOJQPncNmMtLbGjuVLwFc94ujvFwjnsrBe18ALmUao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDYz/NjctMTM1MjA3NTQ2/MC0yMTY1LmpwZWc.jpeg" alt="Cover for Para Sempre" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Novos Baianos</td>
+      <td>Para Sempre</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>JARDS MACALÉ</td>
+      <td>Macalé Canta Moreira</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/LftvQMk3Il_u-1frB-A3rpNFsd0dOw5biapocxYObPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDU2/NjgtMTQyMjk0OTU4/Ny0yODE0LmpwZWc.jpeg" alt="Cover for Zii &amp; Zie" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Caetano Veloso</td>
+      <td>Zii &amp; Zie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/waPxJNgaYaG5mDartz9E5uUg5fEC9pdyblqYE0Id5cU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTE2/OTItMTM0ODI3MTIz/MC05MTA4LmpwZWc.jpeg" alt="Cover for Hoje O Primeiro Dia Do Resto Da Sua Vida" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Rita Lee</td>
+      <td>Hoje O Primeiro Dia Do Resto Da Sua Vida</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/EDPDxi6SmGqX0EWLCN5hr0Uyl9cDsgdAeTHMqoGz-Qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTM1/NzktMTMyNTMxMjk4/OS5qcGVn.jpeg" alt="Cover for Geraçâo Bendita" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-04</td>
+      <td>Spectrum</td>
+      <td>Geraçâo Bendita</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/gn8ayZY3JmzHM7_Vm_9_fb7UMEmWQ529k8u7VwR78uQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDIw/MTQ3LTE0OTAyNjEz/NjItNDQxMC5qcGVn.jpeg" alt="Cover for El imparable transeunte" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Wagner Pa</td>
+      <td>El imparable transeunte</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/VyeFGJKFZ30P7rIkyjbMgsXcSpSnqMecyrIpdWs1PpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTgw/MTYtMTMyNTY4MDUz/OC5qcGVn.jpeg" alt="Cover for Tropicalia ou Panis Et Circensis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Gilberto Gil</td>
+      <td>Tropicalia ou Panis Et Circensis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/YkhlkPCFaOaj6zUc0AYQ_IdmsOiB6pyCKZcDSmv_saI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI2/NjUtMTI5NDgxNDgw/Ni5qcGVn.jpeg" alt="Cover for João Gilberto (Águas de Março)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>João Gilberto</td>
+      <td>João Gilberto (Águas de Março)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/OnEfHeFmonZ-3BZzj5xQEgCPdpT2D75S85BiS7LmRGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTg2/OTQtMTI5NzA0MDMx/Ny5qcGVn.jpeg" alt="Cover for Gal Costa (1969)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Gal Costa</td>
+      <td>Gal Costa (1969)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/GJOJQPncNmMtLbGjuVLwFc94ujvFwjnsrBe18ALmUao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDYz/NjctMTM1MjA3NTQ2/MC0yMTY1LmpwZWc.jpeg" alt="Cover for (1972) Acabou Chorare" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Novos Baianos</td>
+      <td>(1972) Acabou Chorare</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg" alt="Cover for Brazil Classics 1: Beleza Tropical" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Various Artists</td>
+      <td>Brazil Classics 1: Beleza Tropical</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/CzoMRZ-5gQMM_HWRdVIFDYOzwnKYiLDFxYlxi8uV-dI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTM4/MjktMTYxNjMzNjky/My02MTIyLmpwZWc.jpeg" alt="Cover for É Ferro Na Boneca" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Novos Baianos</td>
+      <td>É Ferro Na Boneca</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/jXrUsdiXOse8VX3uptgMqKW41YsiZfWtCSOj8r8bH7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjc5/NDItMTM1NTIwMTA0/OS00MjM0LmpwZWc.jpeg" alt="Cover for Joia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Caetano Veloso</td>
+      <td>Joia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09d5ff925993b0cd2f0d515c08271dbe.png" alt="Cover for Cê" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-01-01</td>
+      <td>Caetano Veloso</td>
+      <td>Cê</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>2006-01</td>
+      <td>Montag Mania</td>
+      <td>Piraya</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/6PNz7pEJXDSOLax0-3D1IR9dJVRyugzA2SiCe0aGO3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDQ5/NjQtMTU5ODYxODMw/Ni01NTg0LmpwZWc.jpeg" alt="Cover for Yargisiz Infaz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-11-07</td>
+      <td>Orhan Gencebay</td>
+      <td>Yargisiz Infaz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/ZBKBR_oLrSq9pmyEhwCFspWhGMupLAFdXAKYjLZpGsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ5/NzYtMTM5NDMwNTcw/Mi0xMTQ4LmpwZWc.jpeg" alt="Cover for Patio Bonito" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Las Malas Amistades</td>
+      <td>Patio Bonito</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/ZihxdYgBOnSr4XnO-999bEBDUxXTdiyP8Sr6oILLiCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc1/MDgtMTI5NzAwNjU2/OS5qcGVn.jpeg" alt="Cover for Folías" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>El Guincho</td>
+      <td>Folías</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07479fa828c8d8785b6b59625fab8976.png" alt="Cover for &quot;Mutantes&quot;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Os Mutantes</td>
+      <td>&quot;Mutantes&quot;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/ZihxdYgBOnSr4XnO-999bEBDUxXTdiyP8Sr6oILLiCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc1/MDgtMTI5NzAwNjU2/OS5qcGVn.jpeg" alt="Cover for Alegranza" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>El Guincho</td>
+      <td>Alegranza</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Coconot</td>
+      <td>Cosa Astral</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 22</li>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/9rYSiXCe4qE5SGTb1_bjCB-dj5RUuk_AcpdEsxU2Qc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTE5/NTAtMTMzNzM0MTg3/Ni04NDAwLmpwZWc.jpeg" alt="Cover for Stillness Singing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Cold Mountain Child</td>
+      <td>Stillness Singing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>Tropicalia ou Panis et Circensis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>Tropicália Ou Panis Et Circensis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/GuTYmlvPRoYajgYSVFkCr9hQ3OrHZP8QQyKN92wQgEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDcz/NzYtMTM0NTE5NTcz/Ny05OTQ2LmpwZWc.jpeg" alt="Cover for Fe na Festa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Gilberto Gil</td>
+      <td>Fe na Festa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/Y94LjPHQNse5nIY_oTq1e6JRBq_oB6fLxSCMnLXlOUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTQ4/NTMtMTQzODY5MTQ1/Mi0xNzU3LmpwZWc.jpeg" alt="Cover for Volume 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Mopho</td>
+      <td>Volume 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td>2011</td>
+      <td>The Dreams</td>
+      <td>Morbido</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78be67b6dded2f98a80cd1ee5f66168e.png" alt="Cover for Everything is Possible: The Best of Os Mutantes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-04-16</td>
+      <td>Os Mutantes</td>
+      <td>Everything is Possible: The Best of Os Mutantes</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>2011-11-18</td>
+      <td>Adron</td>
+      <td>Organismo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/CckK64fHR8mY-25LvsXEFIzJ94_mR7yPPQUU7ZNM9rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjQy/MjUtMTQwMDk1Mjg0/OS01ODEzLmpwZWc.jpeg" alt="Cover for Especial Ivete, Gil E Caetano (Deluxe Edition) [Ao Vivo]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Caetano Veloso, Gilberto Gil &amp; Ivete Sangalo</td>
+      <td>Especial Ivete, Gil E Caetano (Deluxe Edition) [Ao Vivo]</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>2014-05-26</td>
+      <td>Sébastien Tellier</td>
+      <td>L&#39;aventura</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 36</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 66</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 75</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/IKuDWfc59oCfZTHyGHRjs1kDtaPmyiSB76n3q7ue0mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNzI1/NTEtMTQ1ODM5ODg2/Ny0xODM4LmpwZWc.jpeg" alt="Cover for Manual" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Boogarins</td>
+      <td>Manual</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fdad7b004635fce6cee4a5cad6b41c1.png" alt="Cover for Sinto Muito" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-04-27</td>
+      <td>DUDA BEAT</td>
+      <td>Sinto Muito</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 10</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/SUtDoamE646r6DIh7TiRn5HN2H0LzklmtLiAHoWFhVM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjEy/NjMxLTE1MDA5MzIz/OTQtNTY1MC5qcGVn.jpeg" alt="Cover for Danç-Êh-Sá" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020</td>
+      <td>Tom Zé</td>
+      <td>Danç-Êh-Sá</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/AxYf0WHrHvVH9k_x17sjWKDyv1Oy6sFSIFS0Zvaq2kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODE4/ODYzLTE2NDk1MDQ1/MjUtMjUwNC5qcGVn.jpeg" alt="Cover for a couple of good days" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-03-11</td>
+      <td>Fennec</td>
+      <td>a couple of good days</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 54</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/4gyVghH5dhdVGRIY_qea0Azj8BcgCo9fkYnLp8ZKwmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzY0/MDAtMTM5MzMxNDky/NS03NDMzLmpwZWc.jpeg" alt="Cover for Time Is Falling" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-09-10</td>
+      <td>Attics</td>
+      <td>Time Is Falling</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Bat Makumba</td>
+      <td>Boteco</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2c242de1c6de5efd6fd359de8790c61.png" alt="Cover for Refestança (Ao Vivo)" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Rita Lee</td>
+      <td>Refestança (Ao Vivo)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alarm Soft</td>
+      <td>With Mind - Expanding Visions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Tropicalia ou Panis Et Circensis</td>
+      <td>Tropicalia ou Panis Et Circensis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Vários intérpretes</td>
+      <td>Tropicália Ou Panis Et Circensis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
@@ -125,4 +2004,4 @@ Last updated: <time datetime="2025-10-22T16:17:06.217Z">Wed Oct 22 2025 19:17:06
 - [progressive rock]({{ "/tags/progressive-rock" | relative_url }})
 - [brazil]({{ "/tags/brazil" | relative_url }})
 - [classic rock]({{ "/tags/classic-rock" | relative_url }})
-- [pop]({{ "/tags/pop" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})

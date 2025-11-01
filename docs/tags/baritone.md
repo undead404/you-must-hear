@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T20:46:39.423Z
+date: 2025-11-01T01:27:50.918Z
 permalink: tags/baritone
 title: baritone
 ---
 
 ## baritone
 
-Last updated: <time datetime="2025-10-29T20:46:39.423Z">Wed Oct 29 2025 22:46:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-01T01:27:50.918Z">Sat Nov 01 2025 03:27:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,6 +24,7 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
@@ -40,6 +41,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>41</td>
@@ -52,6 +57,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -68,6 +77,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>18</td>
@@ -80,6 +93,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -99,9 +116,14 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 71</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/We5SH4_--UG8dH6hMXl4FcTi2VE1lyq4N64U82JHjzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDkw/MzItMTQ4MDA2NDk2/MC04NjIzLmpwZWc.jpeg" alt="Cover for Ole Man River" style="max-width:120px; height:auto;" />
       </td>
@@ -111,6 +133,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -127,6 +153,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>29</td>
@@ -139,6 +169,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -155,6 +189,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>72</td>
@@ -167,9 +205,13 @@ Baritone music refers to a specific vocal range for male singers, characterized 
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>4</td>
       <td>
       </td>
       <td>1960</td>
@@ -178,6 +220,28 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/xko_CUkZvOw0DyToRDp92VlvF9VV4upyFg720X5mM4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTkx/NTAtMTQxNDAwNjM5/OS01MDYyLmpwZWc.jpeg" alt="Cover for Lonesome Road" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1960</td>
+      <td>Paul Robeson</td>
+      <td>Lonesome Road</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -193,6 +257,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>48</td>
@@ -204,6 +272,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -220,6 +292,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>99</td>
@@ -232,6 +308,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -248,6 +328,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>52</td>
@@ -260,6 +344,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -277,6 +365,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>61</td>
@@ -289,6 +381,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -305,6 +401,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>27</td>
@@ -317,6 +417,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -333,6 +437,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>43</td>
@@ -345,6 +453,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -361,6 +473,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>53</td>
@@ -373,6 +489,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -389,6 +509,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>37</td>
@@ -401,6 +525,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -417,6 +545,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>74</td>
@@ -430,9 +562,13 @@ Baritone music refers to a specific vocal range for male singers, characterized 
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/CmZWLsU2vOvx4hnwrhPxqRjnfobpjlhU4AtUs37ubI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTMx/MDUtMTQxMjE1NzM5/NS01OTE3LmpwZWc.jpeg" alt="Cover for The Great Paul Robson" style="max-width:120px; height:auto;" />
       </td>
@@ -442,6 +578,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -458,6 +598,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>82</td>
@@ -470,6 +614,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -485,18 +633,8 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>45</td>
-      <td>
-          <img src="https://i.discogs.com/06kKKOxizFknYXEIZHt5BKIS957b_KP6webyWgblNSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI0/MjQxLTE1MTc2ODQ3/NjItMjY4NS5qcGVn.jpeg" alt="Cover for Love at My Heart" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1972</td>
-      <td>Paul Robeson</td>
-      <td>Love at My Heart</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
     </tr>
@@ -518,6 +656,29 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/06kKKOxizFknYXEIZHt5BKIS957b_KP6webyWgblNSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI0/MjQxLTE1MTc2ODQ3/NjItMjY4NS5qcGVn.jpeg" alt="Cover for Love at My Heart" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Paul Robeson</td>
+      <td>Love at My Heart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>16</td>
@@ -530,6 +691,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -546,6 +711,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>73</td>
@@ -559,6 +728,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>30</td>
@@ -568,6 +741,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>1981</td>
       <td>Gerhard Hüsch</td>
       <td>Die Winterreise, Gerhard Hüsch Sings Schubert</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -588,6 +765,11 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 49</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>39</td>
@@ -600,6 +782,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -616,6 +802,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>55</td>
@@ -628,6 +818,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -643,9 +837,13 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/QNVTXmWselBcD8nCaEvzEoVgZzlrNzNAkr4qOO1tp0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDQ3/MTgtMTM2OTY5NDk5/Mi0zNTgxLmpwZWc.jpeg" alt="Cover for Paece Arch Concerts" style="max-width:120px; height:auto;" />
       </td>
@@ -655,6 +853,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -671,6 +873,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>12</td>
@@ -683,6 +889,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -699,6 +909,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>98</td>
@@ -710,6 +924,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -728,6 +946,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>58</td>
@@ -740,6 +962,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -756,6 +982,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>78</td>
@@ -768,6 +998,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -784,6 +1018,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>79</td>
@@ -795,6 +1033,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -813,6 +1055,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -834,6 +1080,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>57</td>
@@ -842,6 +1092,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>1993</td>
       <td>Paul Robeson</td>
       <td>Spirituals, Folksongs, and Hymns</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -860,6 +1114,29 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Paul Robeson</td>
+      <td>Songs of Free Men</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 32</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>1</td>
@@ -874,9 +1151,13 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/_PeqOyQH3KWVz5sJze_9gbuLTExHaCZWfYS3rumu0ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzE1/OTEtMTQzOTI4NjA3/OS02NjI0LmpwZWc.jpeg" alt="Cover for Great Voice of the Century Vol" style="max-width:120px; height:auto;" />
       </td>
@@ -886,6 +1167,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -902,6 +1187,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>14</td>
@@ -914,6 +1203,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -930,6 +1223,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>26</td>
@@ -944,18 +1241,8 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>85</td>
-      <td>
-      </td>
-      <td>1997</td>
-      <td>Paul Robeson</td>
-      <td>Songs of Free Men</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
         </ul>
       </td>
     </tr>
@@ -973,6 +1260,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>83</td>
@@ -986,6 +1277,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1002,6 +1297,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>8</td>
@@ -1014,6 +1313,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1029,6 +1332,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1058,6 +1365,14 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 30</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 52</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 90</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 95</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>46</td>
@@ -1070,6 +1385,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1087,6 +1406,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>36</td>
@@ -1101,6 +1424,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1121,6 +1448,11 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 63</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>62</td>
@@ -1135,6 +1467,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>91</td>
@@ -1147,6 +1483,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1166,6 +1506,11 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 31</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>23</td>
@@ -1175,6 +1520,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>2009</td>
       <td>Simon Keenlyside</td>
       <td>Songs by Schubert, Wolf, Faure and Ravel</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1193,6 +1542,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>100</td>
@@ -1204,6 +1557,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1226,6 +1583,12 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 14</li>
+            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 36</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>24</td>
@@ -1242,6 +1605,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>38</td>
@@ -1254,6 +1621,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1275,23 +1646,33 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
-          <img src="https://i.discogs.com/uIaV89tm1zbur7T17C_GeLe-UPfhNBjACf1jY7Q4hYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY3/NzEzLTE1OTU1NjYz/NzctMzU0My5qcGVn.jpeg" alt="Cover for Brooms and Mops - Single" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-05-08</td>
-      <td>Terry Blade</td>
-      <td>Brooms and Mops - Single</td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 66</li>
+            <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/uIaV89tm1zbur7T17C_GeLe-UPfhNBjACf1jY7Q4hYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY3/NzEzLTE1OTU1NjYz/NzctMzU0My5qcGVn.jpeg" alt="Cover for Strange Fruit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-06-19</td>
+      <td>Terry Blade</td>
+      <td>Strange Fruit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/protest" | relative_url }}">protest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1310,6 +1691,10 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/protest" | relative_url }}">protest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1331,161 +1716,8 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-          <img src="https://i.discogs.com/uIaV89tm1zbur7T17C_GeLe-UPfhNBjACf1jY7Q4hYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY3/NzEzLTE1OTU1NjYz/NzctMzU0My5qcGVn.jpeg" alt="Cover for Strange Fruit" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-06-19</td>
-      <td>Terry Blade</td>
-      <td>Strange Fruit</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/protest" | relative_url }}">protest</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Eric Wickens</td>
-      <td>Comfort</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Dietrich Fischer-Dieskau</td>
-      <td>Franz Schubert: Der Schwanengesang</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Quantum Blox</td>
-      <td>It&#39;s all Over</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>47</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Duo Skarka-Pohl</td>
-      <td>Live at JAMU 2005</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Duo Skarka-Pohl</td>
-      <td>The Spring Concert - Hommage a Josef Suk</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Duo Skarka-Pohl</td>
-      <td>Czech Music Tribute</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Orange Room</td>
-      <td>Orange Room</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Paul Robeson</td>
-      <td>The Originals - Spirituals</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Foreigns</td>
-      <td>Metropolitan</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
     </tr>
@@ -1511,6 +1743,186 @@ Baritone music refers to a specific vocal range for male singers, characterized 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Eric Wickens</td>
+      <td>Comfort</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Dietrich Fischer-Dieskau</td>
+      <td>Franz Schubert: Der Schwanengesang</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Quantum Blox</td>
+      <td>It&#39;s all Over</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Duo Skarka-Pohl</td>
+      <td>Live at JAMU 2005</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Duo Skarka-Pohl</td>
+      <td>The Spring Concert - Hommage a Josef Suk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Duo Skarka-Pohl</td>
+      <td>Czech Music Tribute</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Orange Room</td>
+      <td>Orange Room</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Paul Robeson</td>
+      <td>The Originals - Spirituals</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Foreigns</td>
+      <td>Metropolitan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
