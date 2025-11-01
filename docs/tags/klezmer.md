@@ -9,110 +9,1923 @@ title: klezmer
 
 Last updated: <time datetime="2025-10-19T02:20:07.170Z">Sun Oct 19 2025 05:20:07 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Klezmer is a traditional Eastern European Jewish music genre characterized by expressive clarinet melodies, violin flourishes, and rhythms drawn from wedding celebrations and folk dances. The sound blends joyful, danceable energy with deeply emotional passages that reflect both celebration and melancholy. Modern klezmer often incorporates influences from Balkan, Roma, and contemporary styles while maintaining its distinctive Jewish cultural roots.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 81 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1977 | Various Artists | A Jewish Odyssey |
-| 8 |  | 1989-08-01 | The Klezmatics | Shvaygn &#x3D; Toyt |
-| 75 |  | 1990 | Bratsch | Sans Domicile Fixe |
-| 61 |  | 1990-01-15 | Giora Feidman | The Magic Of The Klezmer |
-| 70 |  | 1991 | The Klezmatics | Rhythm + Jews |
-| 59 |  | 1993 | Giora Feidman | Yiddish Soul |
-| 71 | ![Cover](https://i.discogs.com/pBerV23AF3TG4E9b_5nnHNKvpXxEBsGbrkymZVPXryc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTE1/NjEtMTQxNDgwNDE4/Ny04MzgyLmpwZWc.jpeg) | 1994 | The Klezmatics | Jews With Horns |
-| 7 |  | 1996-06-24 | Yid Vicious | Klez, Kez, Goy Mit Fez |
-| 10 |  |  | La Minor | Hits |
-| 21 |  |  | Bente Kahan &amp; Di Goijm | Bente Kahan &amp; Di Gojim |
-| 31 | ![Cover](https://i.discogs.com/QkP6xwJj-xe4h49pF_RJJJzirvgTt5wTGZkg01ZRJ0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/ODctMTU0NDc4MTA2/OS0xOTYyLmpwZWc.jpeg) | 1989-05-02 | Giora Feidman | The Singing Clarinet |
-| 44 | ![Cover](https://i.discogs.com/3clZwTZayJcASWSJuwvrHxH2UYihdmunT-mF4SgFw8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA4/NzUxLTE2NDMwMjg5/OTUtODg1MC5qcGVn.jpeg) | 1991 | Brave Old World | Klezmer Music |
-| 33 | ![Cover](https://i.discogs.com/dRNukwCvhdRog2yoRNV6Zkoin52tfGLKXhKLZFA2kqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTIw/MjMtMTYxNTk4MDE5/MC05NTAwLmpwZWc.jpeg) | 1992 | Dave Tarras | Yiddish-American Klezmer Music - 1925-1956 |
-| 25 | ![Cover](https://i.discogs.com/XkUIUaGJh9dddGTRZGD7sqPUBGFZrAR9nE_hb670_dU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY3/NjMtMTE5MDMyMTMw/Mi5qcGVn.jpeg) | 1993 | The Flying Bulgar Klezmer Band | The Flying Bulgar Klezmer Band |
-| 50 | ![Cover](https://i.discogs.com/wm_dR25QTVi_hBUIsaCs-JreZ5SrgT01zCe3zHpv1d0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzIw/MzgtMTMyMzM0NDA0/OS5qcGVn.jpeg) | 1996-11-09 | Les Yeux Noirs | Suites |
-| 5 |  | 1997 | Andy Statman Quartet | Between Heaven &amp; Earth |
-| 13 |  | 1997 | Alicia Svigals | Fidl - Klezmer Violin |
-| 30 |  | 1997 | Giora Feidman | Klezmer Celebration |
-| 38 | ![Cover](https://i.discogs.com/r_Y4q-I_9WLaP2AFuTSW51sSouU3yQQkNcee6tUqlH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDk1/MDE4LTE1ODY2MTY4/NTItOTc4Ni5wbmc.jpeg) | 1997 | UZCA | Gypsy Dreams |
-| 29 |  | 1997-10-09 | Kroke | Eden |
-| 42 |  | 1997-11-19 | Les Yeux Noirs | A band of gypsies |
-| 2 |  | 1998 | Shirim | Klezmer Nutcracker |
-| 67 |  | 1998 | Shantel | Higher Than the Funk |
-| 60 |  | 1998-02-17 | Masada | Tet |
-| 65 | ![Cover](https://i.discogs.com/MKb8T1Yr-A7WbtqTit9qhDsZ8UUpWV98Gi4Z44o5rs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTc5/Ni0xNTY3MTUyODcx/LTQ0NDUuanBlZw.jpeg) | 1998-05-26 | DAAU | We Need New Animals |
-| 63 | ![Cover](https://i.discogs.com/dPALqW1dDh6yLEeGhpchskqjzmK5ra6g59k8d3qkcNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTk2/NTUtMTUwMDQ4MTAz/OC05MjE3LmpwZWc.jpeg) | 1998-10-20 | Kroke | Live at the Pit |
-| 23 |  | 1999 | Brave Old World | Blood Oranges |
-| 79 | ![Cover](https://i.discogs.com/L2mHnEASRJ5F8y6k64feNgVZM1Hc6jhx4q_3ohWqOPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzE1/MTctMTQyMjA1ODA0/NS03OTU4LmpwZWc.jpeg) | 1999 | Watcha Clan | DIASPORA HI FI |
-| 15 |  | 2000 | Budapest Klezmer Band | Yiddishe Blues |
-| 20 | ![Cover](https://i.discogs.com/l0mRj9d5c4BH0unfctzjgDpL_ApeZessHW9ANbjvf9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTM0/NzY2LTE1ODEyNzEz/ODUtMzc4OS5qcGVn.jpeg) | 2000 | Finjan | Dancing on Water |
-| 46 | ![Cover](https://i.discogs.com/yQUjOSD0CW8ASoyC_qbmTj92CA-A342QKqTESlZAITg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTAz/NTgtMTYyMzY2NTQx/NC02MTM5LmpwZWc.jpeg) | 2000 | KlezRoym | Sconfini |
-| 28 |  | 2000-07-25 | Masada | Live In Sevilla |
-| 24 |  | 2001-03-30 | DAAU | Life Transmission |
-| 19 | ![Cover](https://i.discogs.com/t3suAbhsP-VhTClQQyE8oIZU06_GFzgzMvomHoJTqvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjc1/MS0xMzk3MjQ3ODcy/LTI1MzQuanBlZw.jpeg) | 2002 | Masada | Hei (Five) |
-| 36 |  | 2002 | Den Flygande Bokrullen | Tarrschwein |
-| 49 |  | 2002-04-23 | Tim Sparks | At The Rebbe&#39;s Table |
-| 73 |  | 2002-05-20 | Frank London&#39;s Klezmer Brass Allstars | Brotherhood of Brass |
-| 37 | ![Cover](https://i.discogs.com/6vDB-WxSpQEJDdtr95cC4vtTEMmYSpiBbsCDWbBS5Xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTcw/NDU0LTE1MjU3MjQ3/NTUtOTU1Ny5qcGVn.jpeg) | 2002-09-24 | Les Yeux Noirs | Live |
-| 39 | ![Cover](https://i.discogs.com/ZpT5_EkwaI5HRCCCKIhPxqArhIgiPWJMQFI49VSUR-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjE5/MDgtMTQ1NDQwODU5/Ni04NzIzLmpwZWc.jpeg) | 2003 | The Kharkov Klezmer Band | Ticking Again |
-| 51 |  | 2003-03 | Alamaailman Vasarat | Käärmelautakunta |
-| 22 |  | 2003-07 | Kruzenshtern &amp; Parohod | The craft of primitive Klezmer |
-| 43 |  |  | The Jewish Starlight Orchestra | Jewish Songs (The Best of Yiddish Songs and Klezmer Music) |
-| 45 | ![Cover](https://i.discogs.com/tkMUxQSM22fTftSLA3XxceIDJwKHlCqZ_quhGE2p8l0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzc0/MTgtMTMxMjgwODY2/Mi5qcGVn.jpeg) | 2003 | Slonovski Bal | Local Stereo |
-| 57 |  | 2003-09-23 | The Cracow Klezmer Band | Bereshit |
-| 62 |  |  | Korvapuusti | Concert Live at the K-fêt (INSA-Lyon, avril 2006) |
-| 88 | ![Cover](https://i.discogs.com/E9m8-_tczg0zbduiUGm5Q4dvSXWKltjywL9iNYgs_Yo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgw/NTE0LTE1NzEzNDk0/NzMtMjIwNy5qcGVn.jpeg) | 2002 | Slonovski Bal | Balkanska Rumba 2002 |
-| 35 | ![Cover](https://i.discogs.com/X4g34rgiGPpaIfXNyTw33GHXbrfHthth13n9pWvQSfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjk5/NDMtMTQ3NTI4NjEy/MC02MjM0LmpwZWc.jpeg) | 2004 | Figli Di Madre Ignota | Tamboo Tamboo |
-| 52 | ![Cover](https://i.discogs.com/1sxDASeZSGUXCsZ_nuwTNHeGPjj2hn7FGBiIe2Kd_ZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTU2/MjYtMTQxMTQ0NzUz/OS0zNjE1LmpwZWc.jpeg) | 2004 | Murzik | Murzik |
-| 4 | ![Cover](https://i.discogs.com/pAijLSuZlGpLtgglP8rrtvRMifW_DD-hv-k2JnQSPb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/MjcxLTE1MzQ5Njkw/OTEtMzc0OC5qcGVn.jpeg) | 2005 | Klezmer Juice | The Klezmer Tribute To Matisyahu Featuring Klezmer Juice |
-| 17 | ![Cover](https://i.discogs.com/mQCovzX92-5gCH3fuF5N-0i1od2jyA8-CLIefLgD0Dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjU3/MDUtMTQyMjg1MDcx/Ni02MDQ1LmpwZWc.jpeg) | 2005 | Meshugga Beach Party | Twenty Songs Of The Chosen Surfer |
-| 26 |  | 2005 | Moishe&#39;s Bagel | Don&#39;t Spare the Horses |
-| 84 | ![Cover](https://i.discogs.com/Ffqv8qPTxWF-SOhDABIPa-r3XA5mAfwiXhkcfg9c22Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjM1/MTEtMTM0NTgyNzIw/My03NDY0LmpwZWc.jpeg) | 2005 | Municipale Balcanica | Foua |
-| 90 | ![Cover](https://i.discogs.com/XrtyU1v1TTNpXKwwK_RJHx_G9hdG-OXiq2B0eDBnwcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODA3/NDgyLTE1MDQ2MzM5/MjUtNDQxMS5qcGVn.jpeg) | 2005 | Klezmerson | Klezmerson |
-| 55 |  | 2005-02-28 | Watcha Clan | Le bastion |
-| 40 |  | 2005-03 | Tuomari Nurmio &amp; Alamaailman Vasarat | Kinaporin kalifaatti |
-| 18 | ![Cover](https://i.discogs.com/YWbRK9xWjX0qcRXOWUzR4McDRnb50BiYWSoeps4Ent8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ4/MzAtMTIwMjY0NzM0/MS5qcGVn.jpeg) | 2005-12-10 | Amsterdam Klezmer Band | Son |
-| 32 |  | 2005-12-13 | Les Yeux Noirs | Tchorba |
-| 3 | ![Cover](https://i.discogs.com/pcH1iFZkB1uXeyy4zghE6cA8icwwqYvdm3rgQqMyg0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDA1/NTQ0LTE1NDYyOTM1/MTgtNjczNy5qcGVn.jpeg) | 2006 | Vilde Katshke | A Klezmer Celebration |
-| 9 | ![Cover](https://i.discogs.com/sfOmJ-4dKdFZG4vTDieL9kZLYxPZPJpLSYRWFwSwl88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjE0/NzAtMTI5NTQ3MDUy/MC5qcGVn.jpeg) | 2006 | Di Grine Kuzine | Berlin Wedding |
-| 53 |  | 2006-04-17 | DAAU | Domestic Wildlife |
-| 34 | ![Cover](https://i.discogs.com/rJY5pasRIokdliDlJDNNuUMZB5Z74790k00vLKX-vZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjM3/NjktMTQ1MjQ0OTMy/Mi02NjcxLmpwZWc.jpeg) | 2006-07-25 | The Klezmatics | Wonder Wheel (Lyrics By Woody Guthrie) |
-| 1 |  | 2006-09-05 | The Klezmatics | Woody Guthrie&#39;s Happy Joyous Hanukkah |
-| 16 | ![Cover](https://i.discogs.com/-nRhZQBmB_NVvOTjRs0lQIftd8YQYXxkkmAMkQbk9t8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjY0/NTgtMTI1MjkyNTQ4/OC5qcGVn.jpeg) | 2007-10-23 | La Mar Enfortuna | Convivencia |
-| 47 |  | 2008-11-14 | Amsterdam Klezmer Band | Zaraza |
-| 14 | ![Cover](https://i.discogs.com/yE5gI7zRMlZduAWmqbPpKP1ZiZMhNd_dpkecDtZS14g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTMw/NjYyLTE1MzEyNjU4/ODktODgzOC5qcGVn.jpeg) | 2009-01-27 | Geoff Berner | Klezmer Mongrels |
-| 41 | ![Cover](https://i.discogs.com/Syy3wZLDWPAmLQgGPaPoBQjzsziAJLgTu9yhk2agg2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEy/NzItMTY0OTc2MjI3/My05MDAwLmpwZWc.jpeg) | 2011-03-08 | Geoff Berner | Victory Party |
-| 6 | ![Cover](https://i.discogs.com/Xdb8fL620-b9AqAZdaLVO500csqZD9asDEhe1sUSY-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzI0/MTctMTQwOTMxODgw/MS02MDYxLmpwZWc.jpeg) | 2011-09-13 | The Klezmatics | Unwired: Acoustic Music From Around The World |
-| 12 | ![Cover](https://i.discogs.com/_Dh2z92IRRpourWvwWkcrDJhy6hTV-KaQcA53W6HmHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzEy/MjQtMTM5OTUwNDA5/Ny02MDMwLmpwZWc.jpeg) | 2014-04-11 | Amsterdam Klezmer Band | Blitzmash |
-| 11 | ![Cover](https://i.discogs.com/4N83ueaTK-qMdzPb40DV4IJOl8DnCN_JqVdFUx4BLSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzA0/NTY4LTE2NzMzNzIw/ODYtNDEzNi5qcGVn.jpeg) | 2022-12-02 | Black Ox Orkestar | Everything Returns |
-| 27 |  |  | The Cracow Klezmer Band | Balan: Book of Angels, Vol. 5 |
-| 56 |  |  | Godspeed You! Black Emperor | Song Of The Silent Land |
-| 66 |  |  | The Klezmatics | Rhythm and Jews |
-| 68 | ![Cover](https://i.discogs.com/dRNukwCvhdRog2yoRNV6Zkoin52tfGLKXhKLZFA2kqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTIw/MjMtMTYxNTk4MDE5/MC05NTAwLmpwZWc.jpeg) | 1992 | Dave Tarras | Yiddish-american Klezmer Music |
-| 72 | ![Cover](https://i.discogs.com/hLnUETaxcrGEXLjS_8wZ5O7Pdm8MFjCrDRJzShnLzY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTk4/NTUtMTQwNzc4MzU3/Ny01NTQwLmpwZWc.jpeg) | 1993 | Giora Feidman | Magic of the Klezmer |
-| 96 |  | 1995 | Kroke | Trio |
-| 74 | ![Cover](https://i.discogs.com/wEFstP-hxLs5WtBw38fqPlLs7t87VAJ4eEV203LfmyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk0/NTgtMTI1ODkxNjM5/NC5qcGVn.jpeg) | 1997-04-08 | The Klezmatics | Possessed |
-| 64 |  | 2001 | Amsterdam Klezmer Band | Limonchiki |
-| 97 |  | 2002 | Oi Va Voi | Digital Folklore |
-| 76 | ![Cover](https://i.discogs.com/u9Lmgsx3NgRJw0-sglpy-7YlwPrjZcyIxBN0yaGpPpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzA5/NC0xMTQ4ODgyNDc3/LmpwZWc.jpeg) | 2003-04 | Koby Israelite | Dance of the Idiots |
-| 98 |  | 2004-01-26 | 17 Hippies | Ifni |
-| 95 | ![Cover](https://i.discogs.com/Joi0QZCLtPkZov1NdgZVuX2xDLRSxWWmefd_GzrNPJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTE1/Mi0xMzM0NzY4Nzkw/LmpwZWc.jpeg) | 2004-04-26 | Black Ox Orkestar | Ver Tanzt? |
-| 82 |  | 2004-05-10 | DAAU | Tub Gurnard Goodness |
-| 85 |  | 2006-03 | Sophie Solomon | Poison Sweet Madeira |
-| 83 |  | 2006-03-31 | Amsterdam Klezmer Band | Remixed |
-| 99 |  | 2006-04-03 | Black Ox Orkestar | Nisht Azoy |
-| 78 |  | 2006-08-22 | Golem | Fresh Off Boat |
-| 86 | ![Cover](https://i.discogs.com/nLTmF_6KQ9YQY9-B7-3otTnidE9Jvhr1oPI3_m4ntk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzYx/NDAtMTI0NTE1OTU0/Mi5qcGVn.jpeg) | 2007 | [dunkelbunt] | Morgenlandfahrt |
-| 87 |  | 2007 | Slonovski Bal | Džumbus |
-| 93 | ![Cover](https://i.discogs.com/O7F2txgL-cC_2WKEQs_fzyjX60bNCFDOJUctgrpp29Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY3/NTEtMTE5NzYyODg5/My5qcGVn.jpeg) | 2007-06-12 | Socalled | Ghettoblaster |
-| 94 |  | 2007-06-26 | Dunkelbunt | Morgenlandfahrt |
-| 54 |  | 2009 | Watcha Clan | Diaspora REMIXED |
-| 89 | ![Cover](https://i.discogs.com/Y4TOBYmzeTZIEmsBaSUBpKu062lJvbZHUBJ1tkhD6Dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzY2/MzUtMTM2NDgzNDg3/MC01NDI3LmpwZWc.jpeg) | 2009 | Slonovski Bal | Dzumbus |
-| 91 |  | 2009-01-30 | 17 Hippies | El Dorado |
-| 100 | ![Cover](https://i.discogs.com/o1hI5cvshHzXVRE3wbPNnbPdqEkHKR30tq3QdAxmQeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTU1/NzMtMTI1MDc4NTQ0/Ny5qcGVn.jpeg) | 2009-05-08 | Oi Va Voi | Travelling the Face of the Globe |
-| 80 |  | 2011-02 | Watcha Clan | Radio Babel |
-| 69 |  | 2011-02-25 | Amsterdam Klezmer Band | Katla |
-| 58 | ![Cover](https://i.discogs.com/zEFrvkxBlaQGFLxxXXVeazYJ35rY6z_bPqrc2toCDCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDUx/NzctMTMwODUwNjA1/NS5qcGVn.jpeg) | 2011-03-04 | Amsterdam Klezmer Band | Hits |
-| 92 | ![Cover](https://i.discogs.com/mHDT_6f6RaQ-MBPAOla-l0b0WI1iXCUJUaxKp-lPWr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODU0/OTQtMTMyMzk2OTQ5/MC5qcGVn.jpeg) | 2011-11-21 | Matisyahu | Miracle |
-| 77 |  | 2013 | Anakronic Electro Orkestra | Noise in Sepher |
-| 48 | ![Cover](https://i.discogs.com/Wz647USOfbdgUzMAv56KtS4L6HljPpbNCemrL5T9Edg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTUx/NzA2LTE2NDA1MzIz/NjctOTEzMC5qcGVn.jpeg) | 2021 | Black Country, New Road | For the first time |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for A Jewish Odyssey" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>A Jewish Odyssey</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/QkP6xwJj-xe4h49pF_RJJJzirvgTt5wTGZkg01ZRJ0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjAy/ODctMTU0NDc4MTA2/OS0xOTYyLmpwZWc.jpeg" alt="Cover for The Singing Clarinet" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989-05-02</td>
+      <td>Giora Feidman</td>
+      <td>The Singing Clarinet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td>1989-08-01</td>
+      <td>The Klezmatics</td>
+      <td>Shvaygn &#x3D; Toyt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Bratsch</td>
+      <td>Sans Domicile Fixe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>1990-01-15</td>
+      <td>Giora Feidman</td>
+      <td>The Magic Of The Klezmer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/3clZwTZayJcASWSJuwvrHxH2UYihdmunT-mF4SgFw8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA4/NzUxLTE2NDMwMjg5/OTUtODg1MC5qcGVn.jpeg" alt="Cover for Klezmer Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Brave Old World</td>
+      <td>Klezmer Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td>1991</td>
+      <td>The Klezmatics</td>
+      <td>Rhythm + Jews</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/dRNukwCvhdRog2yoRNV6Zkoin52tfGLKXhKLZFA2kqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTIw/MjMtMTYxNTk4MDE5/MC05NTAwLmpwZWc.jpeg" alt="Cover for Yiddish-American Klezmer Music - 1925-1956" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Dave Tarras</td>
+      <td>Yiddish-American Klezmer Music - 1925-1956</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/dRNukwCvhdRog2yoRNV6Zkoin52tfGLKXhKLZFA2kqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTIw/MjMtMTYxNTk4MDE5/MC05NTAwLmpwZWc.jpeg" alt="Cover for Yiddish-american Klezmer Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Dave Tarras</td>
+      <td>Yiddish-american Klezmer Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Giora Feidman</td>
+      <td>Yiddish Soul</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/hLnUETaxcrGEXLjS_8wZ5O7Pdm8MFjCrDRJzShnLzY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTk4/NTUtMTQwNzc4MzU3/Ny01NTQwLmpwZWc.jpeg" alt="Cover for Magic of the Klezmer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Giora Feidman</td>
+      <td>Magic of the Klezmer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/XkUIUaGJh9dddGTRZGD7sqPUBGFZrAR9nE_hb670_dU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY3/NjMtMTE5MDMyMTMw/Mi5qcGVn.jpeg" alt="Cover for The Flying Bulgar Klezmer Band" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>The Flying Bulgar Klezmer Band</td>
+      <td>The Flying Bulgar Klezmer Band</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/pBerV23AF3TG4E9b_5nnHNKvpXxEBsGbrkymZVPXryc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTE1/NjEtMTQxNDgwNDE4/Ny04MzgyLmpwZWc.jpeg" alt="Cover for Jews With Horns" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>The Klezmatics</td>
+      <td>Jews With Horns</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Kroke</td>
+      <td>Trio</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>1996-06-24</td>
+      <td>Yid Vicious</td>
+      <td>Klez, Kez, Goy Mit Fez</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/wm_dR25QTVi_hBUIsaCs-JreZ5SrgT01zCe3zHpv1d0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzIw/MzgtMTMyMzM0NDA0/OS5qcGVn.jpeg" alt="Cover for Suites" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-11-09</td>
+      <td>Les Yeux Noirs</td>
+      <td>Suites</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Alicia Svigals</td>
+      <td>Fidl - Klezmer Violin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Andy Statman Quartet</td>
+      <td>Between Heaven &amp; Earth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Giora Feidman</td>
+      <td>Klezmer Celebration</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/r_Y4q-I_9WLaP2AFuTSW51sSouU3yQQkNcee6tUqlH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDk1/MDE4LTE1ODY2MTY4/NTItOTc4Ni5wbmc.jpeg" alt="Cover for Gypsy Dreams" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>UZCA</td>
+      <td>Gypsy Dreams</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/wEFstP-hxLs5WtBw38fqPlLs7t87VAJ4eEV203LfmyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk0/NTgtMTI1ODkxNjM5/NC5qcGVn.jpeg" alt="Cover for Possessed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-04-08</td>
+      <td>The Klezmatics</td>
+      <td>Possessed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>1997-10-09</td>
+      <td>Kroke</td>
+      <td>Eden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>1997-11-19</td>
+      <td>Les Yeux Noirs</td>
+      <td>A band of gypsies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Shirim</td>
+      <td>Klezmer Nutcracker</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Shantel</td>
+      <td>Higher Than the Funk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>1998-02-17</td>
+      <td>Masada</td>
+      <td>Tet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/MKb8T1Yr-A7WbtqTit9qhDsZ8UUpWV98Gi4Z44o5rs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTc5/Ni0xNTY3MTUyODcx/LTQ0NDUuanBlZw.jpeg" alt="Cover for We Need New Animals" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-05-26</td>
+      <td>DAAU</td>
+      <td>We Need New Animals</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/dPALqW1dDh6yLEeGhpchskqjzmK5ra6g59k8d3qkcNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTk2/NTUtMTUwMDQ4MTAz/OC05MjE3LmpwZWc.jpeg" alt="Cover for Live at the Pit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-10-20</td>
+      <td>Kroke</td>
+      <td>Live at the Pit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Brave Old World</td>
+      <td>Blood Oranges</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/L2mHnEASRJ5F8y6k64feNgVZM1Hc6jhx4q_3ohWqOPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzE1/MTctMTQyMjA1ODA0/NS03OTU4LmpwZWc.jpeg" alt="Cover for DIASPORA HI FI" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Watcha Clan</td>
+      <td>DIASPORA HI FI</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/yQUjOSD0CW8ASoyC_qbmTj92CA-A342QKqTESlZAITg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTAz/NTgtMTYyMzY2NTQx/NC02MTM5LmpwZWc.jpeg" alt="Cover for Sconfini" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>KlezRoym</td>
+      <td>Sconfini</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Budapest Klezmer Band</td>
+      <td>Yiddishe Blues</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/l0mRj9d5c4BH0unfctzjgDpL_ApeZessHW9ANbjvf9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTM0/NzY2LTE1ODEyNzEz/ODUtMzc4OS5qcGVn.jpeg" alt="Cover for Dancing on Water" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Finjan</td>
+      <td>Dancing on Water</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td>2000-07-25</td>
+      <td>Masada</td>
+      <td>Live In Sevilla</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Amsterdam Klezmer Band</td>
+      <td>Limonchiki</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 85</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 92</li>
+            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>2001-03-30</td>
+      <td>DAAU</td>
+      <td>Life Transmission</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/E9m8-_tczg0zbduiUGm5Q4dvSXWKltjywL9iNYgs_Yo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgw/NTE0LTE1NzEzNDk0/NzMtMjIwNy5qcGVn.jpeg" alt="Cover for Balkanska Rumba 2002" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Slonovski Bal</td>
+      <td>Balkanska Rumba 2002</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 65</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 65</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/t3suAbhsP-VhTClQQyE8oIZU06_GFzgzMvomHoJTqvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjc1/MS0xMzk3MjQ3ODcy/LTI1MzQuanBlZw.jpeg" alt="Cover for Hei (Five)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Masada</td>
+      <td>Hei (Five)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Den Flygande Bokrullen</td>
+      <td>Tarrschwein</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Oi Va Voi</td>
+      <td>Digital Folklore</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td>2002-04-23</td>
+      <td>Tim Sparks</td>
+      <td>At The Rebbe&#39;s Table</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>2002-05-20</td>
+      <td>Frank London&#39;s Klezmer Brass Allstars</td>
+      <td>Brotherhood of Brass</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/6vDB-WxSpQEJDdtr95cC4vtTEMmYSpiBbsCDWbBS5Xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTcw/NDU0LTE1MjU3MjQ3/NTUtOTU1Ny5qcGVn.jpeg" alt="Cover for Live" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-09-24</td>
+      <td>Les Yeux Noirs</td>
+      <td>Live</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/tkMUxQSM22fTftSLA3XxceIDJwKHlCqZ_quhGE2p8l0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzc0/MTgtMTMxMjgwODY2/Mi5qcGVn.jpeg" alt="Cover for Local Stereo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Slonovski Bal</td>
+      <td>Local Stereo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 27</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 31</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/ZpT5_EkwaI5HRCCCKIhPxqArhIgiPWJMQFI49VSUR-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjE5/MDgtMTQ1NDQwODU5/Ni04NzIzLmpwZWc.jpeg" alt="Cover for Ticking Again" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>The Kharkov Klezmer Band</td>
+      <td>Ticking Again</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td>2003-03</td>
+      <td>Alamaailman Vasarat</td>
+      <td>Käärmelautakunta</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/u9Lmgsx3NgRJw0-sglpy-7YlwPrjZcyIxBN0yaGpPpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzA5/NC0xMTQ4ODgyNDc3/LmpwZWc.jpeg" alt="Cover for Dance of the Idiots" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-04</td>
+      <td>Koby Israelite</td>
+      <td>Dance of the Idiots</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td>2003-07</td>
+      <td>Kruzenshtern &amp; Parohod</td>
+      <td>The craft of primitive Klezmer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>2003-09-23</td>
+      <td>The Cracow Klezmer Band</td>
+      <td>Bereshit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/X4g34rgiGPpaIfXNyTw33GHXbrfHthth13n9pWvQSfs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjk5/NDMtMTQ3NTI4NjEy/MC02MjM0LmpwZWc.jpeg" alt="Cover for Tamboo Tamboo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Figli Di Madre Ignota</td>
+      <td>Tamboo Tamboo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/1sxDASeZSGUXCsZ_nuwTNHeGPjj2hn7FGBiIe2Kd_ZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTU2/MjYtMTQxMTQ0NzUz/OS0zNjE1LmpwZWc.jpeg" alt="Cover for Murzik" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Murzik</td>
+      <td>Murzik</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 30</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 90</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 95</li>
+            <li> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>2004-01-26</td>
+      <td>17 Hippies</td>
+      <td>Ifni</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/Joi0QZCLtPkZov1NdgZVuX2xDLRSxWWmefd_GzrNPJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTE1/Mi0xMzM0NzY4Nzkw/LmpwZWc.jpeg" alt="Cover for Ver Tanzt?" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-04-26</td>
+      <td>Black Ox Orkestar</td>
+      <td>Ver Tanzt?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2004-05-10</td>
+      <td>DAAU</td>
+      <td>Tub Gurnard Goodness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/pAijLSuZlGpLtgglP8rrtvRMifW_DD-hv-k2JnQSPb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/MjcxLTE1MzQ5Njkw/OTEtMzc0OC5qcGVn.jpeg" alt="Cover for The Klezmer Tribute To Matisyahu Featuring Klezmer Juice" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Klezmer Juice</td>
+      <td>The Klezmer Tribute To Matisyahu Featuring Klezmer Juice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/Ffqv8qPTxWF-SOhDABIPa-r3XA5mAfwiXhkcfg9c22Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjM1/MTEtMTM0NTgyNzIw/My03NDY0LmpwZWc.jpeg" alt="Cover for Foua" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Municipale Balcanica</td>
+      <td>Foua</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/mQCovzX92-5gCH3fuF5N-0i1od2jyA8-CLIefLgD0Dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjU3/MDUtMTQyMjg1MDcx/Ni02MDQ1LmpwZWc.jpeg" alt="Cover for Twenty Songs Of The Chosen Surfer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Meshugga Beach Party</td>
+      <td>Twenty Songs Of The Chosen Surfer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Moishe&#39;s Bagel</td>
+      <td>Don&#39;t Spare the Horses</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/XrtyU1v1TTNpXKwwK_RJHx_G9hdG-OXiq2B0eDBnwcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODA3/NDgyLTE1MDQ2MzM5/MjUtNDQxMS5qcGVn.jpeg" alt="Cover for Klezmerson" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Klezmerson</td>
+      <td>Klezmerson</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td>2005-02-28</td>
+      <td>Watcha Clan</td>
+      <td>Le bastion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td>2005-03</td>
+      <td>Tuomari Nurmio &amp; Alamaailman Vasarat</td>
+      <td>Kinaporin kalifaatti</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/YWbRK9xWjX0qcRXOWUzR4McDRnb50BiYWSoeps4Ent8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQ4/MzAtMTIwMjY0NzM0/MS5qcGVn.jpeg" alt="Cover for Son" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-12-10</td>
+      <td>Amsterdam Klezmer Band</td>
+      <td>Son</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>2005-12-13</td>
+      <td>Les Yeux Noirs</td>
+      <td>Tchorba</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/pcH1iFZkB1uXeyy4zghE6cA8icwwqYvdm3rgQqMyg0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDA1/NTQ0LTE1NDYyOTM1/MTgtNjczNy5qcGVn.jpeg" alt="Cover for A Klezmer Celebration" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Vilde Katshke</td>
+      <td>A Klezmer Celebration</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/sfOmJ-4dKdFZG4vTDieL9kZLYxPZPJpLSYRWFwSwl88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjE0/NzAtMTI5NTQ3MDUy/MC5qcGVn.jpeg" alt="Cover for Berlin Wedding" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Di Grine Kuzine</td>
+      <td>Berlin Wedding</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>2006-03-31</td>
+      <td>Amsterdam Klezmer Band</td>
+      <td>Remixed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 51</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 96</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 98</li>
+            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>2006-03</td>
+      <td>Sophie Solomon</td>
+      <td>Poison Sweet Madeira</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2006-04-03</td>
+      <td>Black Ox Orkestar</td>
+      <td>Nisht Azoy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+      </td>
+      <td>2006-04-17</td>
+      <td>DAAU</td>
+      <td>Domestic Wildlife</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 88</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/rJY5pasRIokdliDlJDNNuUMZB5Z74790k00vLKX-vZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjM3/NjktMTQ1MjQ0OTMy/Mi02NjcxLmpwZWc.jpeg" alt="Cover for Wonder Wheel (Lyrics By Woody Guthrie)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-07-25</td>
+      <td>The Klezmatics</td>
+      <td>Wonder Wheel (Lyrics By Woody Guthrie)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2006-08-22</td>
+      <td>Golem</td>
+      <td>Fresh Off Boat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2006-09-05</td>
+      <td>The Klezmatics</td>
+      <td>Woody Guthrie&#39;s Happy Joyous Hanukkah</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/nLTmF_6KQ9YQY9-B7-3otTnidE9Jvhr1oPI3_m4ntk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzYx/NDAtMTI0NTE1OTU0/Mi5qcGVn.jpeg" alt="Cover for Morgenlandfahrt" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>[dunkelbunt]</td>
+      <td>Morgenlandfahrt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Slonovski Bal</td>
+      <td>Džumbus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/O7F2txgL-cC_2WKEQs_fzyjX60bNCFDOJUctgrpp29Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY3/NTEtMTE5NzYyODg5/My5qcGVn.jpeg" alt="Cover for Ghettoblaster" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-06-12</td>
+      <td>Socalled</td>
+      <td>Ghettoblaster</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>2007-06-26</td>
+      <td>Dunkelbunt</td>
+      <td>Morgenlandfahrt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/-nRhZQBmB_NVvOTjRs0lQIftd8YQYXxkkmAMkQbk9t8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjY0/NTgtMTI1MjkyNTQ4/OC5qcGVn.jpeg" alt="Cover for Convivencia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10-23</td>
+      <td>La Mar Enfortuna</td>
+      <td>Convivencia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 63</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>2008-11-14</td>
+      <td>Amsterdam Klezmer Band</td>
+      <td>Zaraza</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Watcha Clan</td>
+      <td>Diaspora REMIXED</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/Y4TOBYmzeTZIEmsBaSUBpKu062lJvbZHUBJ1tkhD6Dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzY2/MzUtMTM2NDgzNDg3/MC01NDI3LmpwZWc.jpeg" alt="Cover for Dzumbus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Slonovski Bal</td>
+      <td>Dzumbus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/yE5gI7zRMlZduAWmqbPpKP1ZiZMhNd_dpkecDtZS14g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTMw/NjYyLTE1MzEyNjU4/ODktODgzOC5qcGVn.jpeg" alt="Cover for Klezmer Mongrels" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-01-27</td>
+      <td>Geoff Berner</td>
+      <td>Klezmer Mongrels</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>2009-01-30</td>
+      <td>17 Hippies</td>
+      <td>El Dorado</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/o1hI5cvshHzXVRE3wbPNnbPdqEkHKR30tq3QdAxmQeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTU1/NzMtMTI1MDc4NTQ0/Ny5qcGVn.jpeg" alt="Cover for Travelling the Face of the Globe" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-05-08</td>
+      <td>Oi Va Voi</td>
+      <td>Travelling the Face of the Globe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>2011-02-25</td>
+      <td>Amsterdam Klezmer Band</td>
+      <td>Katla</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2011-02</td>
+      <td>Watcha Clan</td>
+      <td>Radio Babel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/zEFrvkxBlaQGFLxxXXVeazYJ35rY6z_bPqrc2toCDCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDUx/NzctMTMwODUwNjA1/NS5qcGVn.jpeg" alt="Cover for Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-03-04</td>
+      <td>Amsterdam Klezmer Band</td>
+      <td>Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/Syy3wZLDWPAmLQgGPaPoBQjzsziAJLgTu9yhk2agg2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEy/NzItMTY0OTc2MjI3/My05MDAwLmpwZWc.jpeg" alt="Cover for Victory Party" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-03-08</td>
+      <td>Geoff Berner</td>
+      <td>Victory Party</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/Xdb8fL620-b9AqAZdaLVO500csqZD9asDEhe1sUSY-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzI0/MTctMTQwOTMxODgw/MS02MDYxLmpwZWc.jpeg" alt="Cover for Unwired: Acoustic Music From Around The World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-09-13</td>
+      <td>The Klezmatics</td>
+      <td>Unwired: Acoustic Music From Around The World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/mHDT_6f6RaQ-MBPAOla-l0b0WI1iXCUJUaxKp-lPWr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODU0/OTQtMTMyMzk2OTQ5/MC5qcGVn.jpeg" alt="Cover for Miracle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-11-21</td>
+      <td>Matisyahu</td>
+      <td>Miracle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2013</td>
+      <td>Anakronic Electro Orkestra</td>
+      <td>Noise in Sepher</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/_Dh2z92IRRpourWvwWkcrDJhy6hTV-KaQcA53W6HmHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzEy/MjQtMTM5OTUwNDA5/Ny02MDMwLmpwZWc.jpeg" alt="Cover for Blitzmash" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-04-11</td>
+      <td>Amsterdam Klezmer Band</td>
+      <td>Blitzmash</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/Wz647USOfbdgUzMAv56KtS4L6HljPpbNCemrL5T9Edg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTUx/NzA2LTE2NDA1MzIz/NjctOTEzMC5qcGVn.jpeg" alt="Cover for For the first time" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Black Country, New Road</td>
+      <td>For the first time</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 44</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 54</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 99</li>
+            <li> <a href="{{ "/tags/crank-wave" | relative_url }}">crank wave</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/4N83ueaTK-qMdzPb40DV4IJOl8DnCN_JqVdFUx4BLSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzA0/NTY4LTE2NzMzNzIw/ODYtNDEzNi5qcGVn.jpeg" alt="Cover for Everything Returns" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-12-02</td>
+      <td>Black Ox Orkestar</td>
+      <td>Everything Returns</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td></td>
+      <td>La Minor</td>
+      <td>Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Bente Kahan &amp; Di Goijm</td>
+      <td>Bente Kahan &amp; Di Gojim</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Jewish Starlight Orchestra</td>
+      <td>Jewish Songs (The Best of Yiddish Songs and Klezmer Music)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 78</li>
+            <li> <a href="{{ "/tags/yiddish" | relative_url }}">yiddish</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Korvapuusti</td>
+      <td>Concert Live at the K-fêt (INSA-Lyon, avril 2006)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Godspeed You! Black Emperor</td>
+      <td>Song Of The Silent Land</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Klezmatics</td>
+      <td>Rhythm and Jews</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Cracow Klezmer Band</td>
+      <td>Balan: Book of Angels, Vol. 5</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
