@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T18:49:39.134Z
+date: 2025-10-31T23:21:51.001Z
 permalink: tags/power-metal
 title: power metal
 ---
 
 ## power metal
 
-Last updated: <time datetime="2025-10-29T18:49:39.134Z">Wed Oct 29 2025 20:49:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-31T23:21:51.001Z">Sat Nov 01 2025 01:21:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,11 +24,12 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>25</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0162391940dbc9194f5c9abcc209e701.png" alt="Cover for Kings of Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -40,9 +41,15 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 51</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 94</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
       </td>
       <td>1990-09-21</td>
@@ -53,9 +60,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 61</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1930b202428139fb78abe4873ce5a655.png" alt="Cover for Night of the Stormrider" style="max-width:120px; height:auto;" />
       </td>
@@ -68,9 +80,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/us-power-metal" | relative_url }}">us power metal</a> # 8</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83d1a299ccdfa83c7b27e303ba611fb0.png" alt="Cover for Somewhere Far Beyond" style="max-width:120px; height:auto;" />
       </td>
@@ -82,9 +99,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 88</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84f0a16d520f435494d0ead313005e62.png" alt="Cover for Angels Cry" style="max-width:120px; height:auto;" />
       </td>
@@ -96,9 +118,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 54</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94dd95e630d264cf74f1bebd141ff5a0.png" alt="Cover for Imaginations From The Other Side" style="max-width:120px; height:auto;" />
       </td>
@@ -110,9 +137,15 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 18</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 64</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d3b394f4023af6738a7bf99e7d6b374.png" alt="Cover for Land of the Free" style="max-width:120px; height:auto;" />
       </td>
@@ -124,9 +157,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>48</td>
       <td>
       </td>
       <td>1996-02-29</td>
@@ -137,9 +174,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2796a8375d3449c0c9eb4207f83182b6.png" alt="Cover for The Forgotten Tales" style="max-width:120px; height:auto;" />
       </td>
@@ -151,9 +192,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 35</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71f89b29b378b4daf1545eda33d6ead5.png" alt="Cover for Episode" style="max-width:120px; height:auto;" />
       </td>
@@ -165,9 +211,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 19</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6554da5a7c7455d9e9a11df52965b6a.png" alt="Cover for The Dark Saga" style="max-width:120px; height:auto;" />
       </td>
@@ -179,9 +230,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4640011f936a0a429d7d9b430ff0893c.png" alt="Cover for Visions" style="max-width:120px; height:auto;" />
       </td>
@@ -193,9 +248,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>17</td>
       <td>
       </td>
       <td>1997-09-29</td>
@@ -208,9 +267,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 28</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/814f29210fd34854c861efe3db51eec6.png" alt="Cover for Glory to the Brave" style="max-width:120px; height:auto;" />
       </td>
@@ -220,12 +284,16 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 57 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>49</td>
       <td>
       </td>
       <td>1997-10-22</td>
@@ -237,9 +305,16 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 26</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 29</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 86</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64c5b356ffe28f677ee1ed81d6edde55.png" alt="Cover for Vain Glory Opera" style="max-width:120px; height:auto;" />
       </td>
@@ -252,9 +327,15 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 21</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 92</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03f37b759cb77426c78ec6af50c28413.png" alt="Cover for Better Than Raw" style="max-width:120px; height:auto;" />
       </td>
@@ -264,6 +345,10 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -279,9 +364,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b23f5328cd22bafef7a897b4731f42b5.png" alt="Cover for Something Wicked This Way Comes" style="max-width:120px; height:auto;" />
       </td>
@@ -294,9 +384,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 20</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e102ce917095f1c6d193efa8eeaa1770.png" alt="Cover for Legacy of Kings" style="max-width:120px; height:auto;" />
       </td>
@@ -308,9 +403,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6d531aa4b8d46d0c647dc666ff05cfd.png" alt="Cover for Destiny" style="max-width:120px; height:auto;" />
       </td>
@@ -322,9 +421,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>76</td>
       <td>
       </td>
       <td>1998-10-05</td>
@@ -334,6 +437,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
             <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 54</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 55</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -350,9 +460,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 13</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/icjxHs792UC3LzmM5tseHT3LN1HO76TxH9iJjjJyEkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTE1/My0xNTU0NzY3MTY1/LTE3NzguanBlZw.jpeg" alt="Cover for The Fourth Legacy" style="max-width:120px; height:auto;" />
       </td>
@@ -364,9 +479,15 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 48</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 85</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a8c2967cc8d45d7add00760ac83c3d7.png" alt="Cover for Demons &amp; Wizards" style="max-width:120px; height:auto;" />
       </td>
@@ -378,9 +499,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9502a0a338f3323a597f0c4b72ae0c4f.png" alt="Cover for Infinite" style="max-width:120px; height:auto;" />
       </td>
@@ -392,9 +517,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/ti6KHAmPLLJas6wBHD7nplynzWl7EJJiIWwQpOokn7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzA5/OC0xNDQ3MTQ1Mjgz/LTczNjIuanBlZw.jpeg" alt="Cover for Wishmaster" style="max-width:120px; height:auto;" />
       </td>
@@ -406,9 +535,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 92</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41eb8c53e6f9b208e8af64ff653ad04e.png" alt="Cover for Successor" style="max-width:120px; height:auto;" />
       </td>
@@ -420,9 +554,15 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 1</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 74</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70781b0c86e24b1acb655eea0870653e.png" alt="Cover for Renegade" style="max-width:120px; height:auto;" />
       </td>
@@ -435,9 +575,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 76 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/10dd9f99613e4916c987044226909d1c.png" alt="Cover for The Dark Ride" style="max-width:120px; height:auto;" />
       </td>
@@ -450,9 +594,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa97f553c4b4bf96baf2fc8a03e07b51.png" alt="Cover for Dawn of Victory" style="max-width:120px; height:auto;" />
       </td>
@@ -462,12 +610,19 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 26</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 26</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/AkmSo_J8rDW1ClVS9XyVKcvBehqvN_Tx4tOz-2FOarU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDU2/Ni0xNDI1MTU2MDkx/LTUwMjQuanBlZw.jpeg" alt="Cover for Master Of The Rings" style="max-width:120px; height:auto;" />
       </td>
@@ -479,9 +634,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 22</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fc2748eb6b54f36cfd7c3a03938c055.png" alt="Cover for No World Order!" style="max-width:120px; height:auto;" />
       </td>
@@ -491,12 +651,16 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7339d048eb979b4c8dbef2e5f8254c53.png" alt="Cover for The Metal Opera" style="max-width:120px; height:auto;" />
       </td>
@@ -507,6 +671,10 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
             <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -522,9 +690,16 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 7</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 56</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 81</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>23</td>
       <td>
       </td>
       <td>2001-05-25</td>
@@ -535,9 +710,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9701e817fddcc392e1c2ecf9ad6d930c.png" alt="Cover for Horror Show" style="max-width:120px; height:auto;" />
       </td>
@@ -549,9 +728,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 35</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
       </td>
       <td>2001-07-10</td>
@@ -562,9 +746,15 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 20</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 32</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bfe75cd6285bac4b7a2759fc576375b.png" alt="Cover for Mandrake" style="max-width:120px; height:auto;" />
       </td>
@@ -577,23 +767,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 63 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77a705dff2d34bfea67dbc52ccc2e126.png" alt="Cover for Rebirth" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001-10-24</td>
-      <td>Angra</td>
-      <td>Rebirth</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/NdDyuqYHNGU2ZC12l9PCb_IuuKbKl3x2g-cok8a860k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTUy/NC0xMjQ1NDQ2OTA3/LmpwZWc.jpeg" alt="Cover for Rain of a Thousand Flames" style="max-width:120px; height:auto;" />
       </td>
@@ -606,9 +787,16 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 39</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 79</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 97</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1a0d59047f6ebcc79e1a80f900aa5a7.png" alt="Cover for A Night at the Opera" style="max-width:120px; height:auto;" />
       </td>
@@ -620,9 +808,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 17</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c399b69dc3db3e2df585d656dfc5289.png" alt="Cover for Power of the Dragonflame" style="max-width:120px; height:auto;" />
       </td>
@@ -635,9 +828,17 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 29</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 55</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 72</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 81</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/60c1b46d4c634b8698553eef7696f619.png" alt="Cover for Dragonslayer" style="max-width:120px; height:auto;" />
       </td>
@@ -647,12 +848,16 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70045c55c18ac02e19574cdca3bf522f.png" alt="Cover for Warriors of the World" style="max-width:120px; height:auto;" />
       </td>
@@ -662,7 +867,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 58 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 57.99999999999999 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 25</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 65</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -680,9 +892,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 9</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>2003-01-13</td>
@@ -693,9 +910,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 93</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4b3b12f77bb4e67ab720872eba62109.png" alt="Cover for Masterplan" style="max-width:120px; height:auto;" />
       </td>
@@ -707,9 +929,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83b1f0641592bfbe15913a3e28b4f6b2.png" alt="Cover for Valley of the Damned" style="max-width:120px; height:auto;" />
       </td>
@@ -721,9 +947,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 37</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/W18GBFlOJ21fWRrqzMlObHKw2vV06J9cDosl8oEAtyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzEz/MC0xNTA2MTA2MTE1/LTE1MzEuanBlZw.jpeg" alt="Cover for Winterheart&#39;s Guild" style="max-width:120px; height:auto;" />
       </td>
@@ -735,9 +966,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
       </td>
       <td>2003-11-21</td>
@@ -748,9 +983,16 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 47</li>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 77</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 78</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64828f411854bf9e762312013bbd3b0b.png" alt="Cover for The Glorious Burden" style="max-width:120px; height:auto;" />
       </td>
@@ -763,9 +1005,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 71 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ddfd8c61804bba2770f90fff4a29689.png" alt="Cover for Hellfire Club" style="max-width:120px; height:auto;" />
       </td>
@@ -776,6 +1022,11 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
             <li style="font-size: calc(1rem * 90 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -792,9 +1043,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 59</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8e8544447ed4a7eb5168fde3a2e1c58.png" alt="Cover for The Book Of Heavy Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -804,12 +1060,16 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 58 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 57.99999999999999 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d300922698de3a262d06ab16a07cc670.png" alt="Cover for Temple of Shadows" style="max-width:120px; height:auto;" />
       </td>
@@ -819,6 +1079,11 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -835,6 +1100,11 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 5</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>91</td>
@@ -849,9 +1119,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 76</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c07f5ebb7e948908bc45d0b56f9311d.png" alt="Cover for Chapter V: Unbent, Unbowed, Unbroken" style="max-width:120px; height:auto;" />
       </td>
@@ -862,9 +1137,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/965e4d5f3a8da001edd53487cda39a8c.png" alt="Cover for Primo Victoria" style="max-width:120px; height:auto;" />
       </td>
@@ -876,9 +1155,15 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 18</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 32</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50c14f24022e42acbf3eb5e60996cd67.png" alt="Cover for Touched by the Crimson King" style="max-width:120px; height:auto;" />
       </td>
@@ -888,6 +1173,10 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -905,24 +1194,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b5cbc40373216cb9dc5dec98e369dc5.png" alt="Cover for Rocket Ride" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-01-20</td>
-      <td>Edguy</td>
-      <td>Rocket Ride</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 87 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/24ee6b66466e47faa444af8545632a7f.png" alt="Cover for Attero Dominatus" style="max-width:120px; height:auto;" />
       </td>
@@ -934,9 +1213,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 45</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ca1499a97a44031a4ecf9abaa68c9c9.png" alt="Cover for A Twist in the Myth" style="max-width:120px; height:auto;" />
       </td>
@@ -948,9 +1232,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 54</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76375a4fb31f41ffc138c4871e2b04c5.png" alt="Cover for Threshold" style="max-width:120px; height:auto;" />
       </td>
@@ -962,9 +1251,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2bac1ce9f8f45c0c53b97d4f1b9b0a7.png" alt="Cover for Metalizer" style="max-width:120px; height:auto;" />
       </td>
@@ -976,9 +1269,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e3a76422ecf5d78e566b79ed2f2c93e.png" alt="Cover for Unia" style="max-width:120px; height:auto;" />
       </td>
@@ -990,9 +1287,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 95</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8107c5fc80e61c55534e07d3ee1b089b.png" alt="Cover for Ghost Opera" style="max-width:120px; height:auto;" />
       </td>
@@ -1002,12 +1304,38 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 32</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2007-09-26</td>
+      <td>Nightwish</td>
+      <td>Dark Passion Play</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 73</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86680f69033cb15a7517228971e89a82.png" alt="Cover for Gambling with the Devil" style="max-width:120px; height:auto;" />
       </td>
@@ -1019,9 +1347,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4e3d4f0fc54e4d7a351f9cb3f328929.png" alt="Cover for The Scarecrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1034,9 +1366,15 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 76 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 45</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 47</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/OQ__Kvy0mxjusrwasQmE4uVHk8Y0Dyc-p7HmjJlVa8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjU3/MjgtMTQ4NjE2Nzcz/Ny0yODE3LmpwZWc.jpeg" alt="Cover for The Art Of War (Re-Armed)" style="max-width:120px; height:auto;" />
       </td>
@@ -1047,6 +1385,11 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1063,9 +1406,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 80</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb4f3483401b7afa45a709d9c5b910eb.png" alt="Cover for Ultra Beatdown" style="max-width:120px; height:auto;" />
       </td>
@@ -1077,9 +1425,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 66</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/496fc77acdef42bcc21532abee1b60ba.png" alt="Cover for No Sacrifice, No Victory" style="max-width:120px; height:auto;" />
       </td>
@@ -1088,6 +1441,11 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>No Sacrifice, No Victory</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1103,9 +1461,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/02158623783449c9ac32a91c1df790a3.png" alt="Cover for Bible Of The Beast" style="max-width:120px; height:auto;" />
       </td>
@@ -1117,9 +1479,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99c2b9cc311445bfc52b208a6c225adf.png" alt="Cover for Black Sails at Midnight" style="max-width:120px; height:auto;" />
       </td>
@@ -1132,9 +1498,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 92</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ef2daedc6d19e9e2b0f5fdd2b68cdbb.png" alt="Cover for The Wicked Symphony" style="max-width:120px; height:auto;" />
       </td>
@@ -1146,9 +1517,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 63</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54717e8722834e5e8acf23ec969a84a9.png" alt="Cover for Coat of Arms" style="max-width:120px; height:auto;" />
       </td>
@@ -1158,12 +1534,17 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 60</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/266b97ac6fdaf73f11ae5ebff7876e59.png" alt="Cover for At the Edge of Time" style="max-width:120px; height:auto;" />
       </td>
@@ -1175,9 +1556,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 66</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aab8867f9e80e315ee50f90a9d3e6ba5.png" alt="Cover for Primo Victoria (Re-Armed)" style="max-width:120px; height:auto;" />
       </td>
@@ -1190,9 +1576,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 20</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29c2d785db02f31867c21fc0edcbc6f7.png" alt="Cover for Amaranthe" style="max-width:120px; height:auto;" />
       </td>
@@ -1206,9 +1597,16 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 39</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 88</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 96</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fea50c41d3af2a158d31f086ef7c223d.png" alt="Cover for Blood of the Saints" style="max-width:120px; height:auto;" />
       </td>
@@ -1220,9 +1618,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cf596acdd64d958d5325cb67ac1281f.png" alt="Cover for Killer Elite" style="max-width:120px; height:auto;" />
       </td>
@@ -1234,9 +1636,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0fdcdd8df3d4cbab425402097791744.png" alt="Cover for Carolus Rex" style="max-width:120px; height:auto;" />
       </td>
@@ -1248,9 +1654,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 16</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td>2013-03-13</td>
@@ -1261,9 +1672,15 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 69</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 73</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>14</td>
       <td>
       </td>
       <td>2013-03-29</td>
@@ -1272,6 +1689,12 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 36</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1288,9 +1711,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 38</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/BWyJSRIWspzLcaAJhZrkPAGDxdhLUgfSrL5VT9t4_9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjU1/ODY5LTE1MzE1MzY4/OTktODU1NS5qcGVn.jpeg" alt="Cover for The Suspended Kid" style="max-width:120px; height:auto;" />
       </td>
@@ -1311,9 +1739,36 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 46</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 51</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 56</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 82</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 96</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0898c36cc3a948f7c89bacda32ce76eb.png" alt="Cover for Beyond the Red Mirror" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-01-28</td>
+      <td>Blind Guardian</td>
+      <td>Beyond the Red Mirror</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/8zaizS3OEXhpCcRC2M5BZHcZqlLkRk-Kgec1AntQ7mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQx/ODAxLTE1ODI2Mjgy/MzctNTczNC5qcGVn.jpeg" alt="Cover for Marilyn Monroe" style="max-width:120px; height:auto;" />
       </td>
@@ -1328,9 +1783,16 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 44</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 45</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 53</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ea1e6c8c5d28901271698fd07e95c21.png" alt="Cover for Blessed &amp; Possessed" style="max-width:120px; height:auto;" />
       </td>
@@ -1340,6 +1802,10 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1356,9 +1822,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 87</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ac607f260569fb3f467cf26ae7bc6f0.png" alt="Cover for Berserker" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,12 +1839,17 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/TCpOXDbOsiCmT1KntWtXywStER_AwyGwSZzipfNh11s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcx/NDQ5LTE1ODQ5MTQw/NDAtMzE4NC5qcGVn.jpeg" alt="Cover for The Sacrament Of Sin" style="max-width:120px; height:auto;" />
       </td>
@@ -1385,9 +1861,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0803812dc6afc031f788f160534a3b1.png" alt="Cover for From Hell With Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1399,9 +1879,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 13</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de93513160ce9a8abe1d5aa27f38871e.png" alt="Cover for The Great War" style="max-width:120px; height:auto;" />
       </td>
@@ -1413,9 +1898,13 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/isHF7xHyI7-l4S5Sn4aYYEp83uxnT8Fe3JWrsxwGwUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTg3/MDM1LTE2ODIyMTAy/OTQtMjk5Mi5qcGVn.jpeg" alt="Cover for Manifest" style="max-width:120px; height:auto;" />
       </td>
@@ -1428,9 +1917,14 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 93</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c986ffefbb761be23a468d5338db8ce2.png" alt="Cover for Dark Connection" style="max-width:120px; height:auto;" />
       </td>
@@ -1440,12 +1934,16 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7119e3b8a2f4e8cbc03b3ea5fa101d16.png" alt="Cover for The War to End All Wars" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,6 +1953,10 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>

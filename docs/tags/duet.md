@@ -9,110 +9,2133 @@ title: duet
 
 Last updated: <time datetime="2025-10-28T12:47:25.311Z">Tue Oct 28 2025 14:47:25 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+A duet features two vocalists or instrumentalists performing together, creating harmonic interplay and musical dialogue between the performers. This format spans virtually all musical styles, from classical opera and jazz standards to pop ballads and electronic music, emphasizing collaboration and contrast. The interweaving of two distinct voices or instruments creates a richer, more dynamic listening experience than solo performances.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 1 |  |  | G.NA &amp; 산체스 | Dokkun Project pt. 2 |
-| 7 |  |  | 絢香&amp;三浦大知 | ハートアップ |
-| 11 |  |  | Fernanda Brum e Eyshila | Amigas 2 |
-| 14 |  |  | Gaby Littré | Sei Lá - Single |
-| 19 |  |  | Terrible Matt &amp; Dan | The First Time |
-| 25 |  |  | Kopec | You&#39;re Gone (feat. The Blazed Joker) - Single |
-| 27 |  |  | гуша катушкин и мария чайковская | КРАСОТА13 |
-| 35 |  |  | Volodja Balžalorsky | Live in Maribor |
-| 36 |  |  | André Hazes &amp; André Hazes Junior | Bedankt Mijn Vriend |
-| 37 |  |  | 成龍 | 普通人 - 電影《英倫對決》推廣曲 |
-| 41 |  |  | Debbie Harry &amp; Franz Ferdinand | Covers E.P. |
-| 95 | ![Cover](https://i.discogs.com/UDpyeUsu9_n8LByFJ3vxQUK2tRf1IkqoECjiuFWa6L4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjAz/NTAtMTQxNzc3OTMx/Mi0zMTEyLmpwZWc.jpeg) | 1966 | Frank Sinatra | Duets (20th Anniversary Deluxe Edition) |
-| 49 | ![Cover](https://i.discogs.com/MB7utJQLwANrN98MQvzMs4iVsabI3yGSHEFkQaQKm0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTE5/NzQtMTM4NTkwODQ0/MS0yNjg0LmpwZWc.jpeg) | 1977-11-18 | Bing Crosby &amp; Grace Kelly | High Society |
-| 44 | ![Cover](https://i.discogs.com/gIuIWc5pZ4SS2uy-6IHEjyJuU3V-SJDo1E9vyLFw5U8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzM2/NDUtMTYxMzkxODUw/My0yNjYzLmpwZWc.jpeg) | 1980-05-20 | Linda Clifford &amp; Curtis Mayfield | The Right Combination |
-| 81 | ![Cover](https://i.discogs.com/oqoMhqvclU6Po0rLppHtU41tI2XGpDxalRSB8xMSdDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI2/NDI2LTE2MTQ1MjY3/ODItNTQ5Ny5qcGVn.jpeg) | 1981 | Dan Fogelberg | Twin Sons Of Different Mothers |
-| 83 |  | 1981-08-14 | Barry White | Barry &amp; Glodean |
-| 13 | ![Cover](https://i.discogs.com/M0QTHdZ9rvvKqEPStCtTerW7OQ3OsZkvf2GcDo2D0kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk0/MDM5LTE2MDE1NTM5/MTEtOTQyOS5qcGVn.jpeg) | 1982 | Conway Twitty &amp; Loretta Lynn | 20th Century Masters - The Millennium Collection: The Best of Conway Twitty &amp; Loretta L |
-| 46 | ![Cover](https://i.discogs.com/gJBaqevxuHtPD1jXVhLSg-95wexdUbWCuvsgWY-UTLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTA0/NDgtMTM4MDM2Mjc2/MC0zMzc2LmpwZWc.jpeg) | 1983 | Bryan Adams | When You&#39;re Gone (single) |
-| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/aa698fe8c75c532934bdd7a4ce13a5c5.png) | 1984 | Elton John | The Lockdown Sessions |
-| 85 |  | 1985 | Luis Miguel | Fiebre De Amor |
-| 32 | ![Cover](https://i.discogs.com/1z5g0rsOEznvYmlQhBLuhHM2amUG9buD2HfqlwHAi38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzg1/MDMtMTQzMjI4MjQ1/OS0xOTgxLmpwZWc.jpeg) | 1986 | Dean Evenson &amp; d&#39;Rachael | Peaceful Pond |
-| 6 | ![Cover](https://i.discogs.com/hS8nUdGr9Z1l1HMBKHeX4OclOxZCwCXt9iMTZpUy1nQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NjEw/MTQtMTQyMjAzNDM4/Ni04NDE4LmpwZWc.jpeg) | 1990 | Steve Lawrence &amp; Eydie Gorme | The Best of Steve &amp; Eydie |
-| 89 |  | 1992-10-28 | 中山美穂 &amp; WANDS | 世界中の誰よりきっと |
-| 3 | ![Cover](https://i.discogs.com/QDQO1NvHmDmLmfFfMJJUFA8ClQ2CFmYcQuQR7t9NdEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzE0/NzQ4LTE1ODk2MTQy/NjEtMzc1NS5wbmc.jpeg) | 1996-06-05 | Takada Band | Eternal Truth |
-| 20 |  |  | Viva i Przyjaciele | VIVA 10 lat |
-| 22 | ![Cover](https://i.discogs.com/T7ehIcl8GIf9Mon7RODPUCsThIEyDoWS8M25aiDy1CE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDY5/NTAtMTQ3MjA2ODkx/NC01NDMwLmpwZWc.jpeg) | 1991 | Celine Dion &amp; Peabo Bryson | My Heart Will Go On [Single] |
-| 26 |  | 1996-07-30 | Paul Anka | Amigos |
-| 39 |  |  | Yuki Dreams Again | Sponges |
-| 42 |  |  | 林原めぐみ・奥井雅美 | Get along |
-| 48 | ![Cover](https://i.discogs.com/dzOhIAnXNcVj-zJUtKtD08fqZdY4KU76aMtNwgEZOwY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njg1/NDY5LTE2NjQ2MjA5/MTctNTM0My5qcGVn.jpeg) | 1994-08-03 | SPANK HAPPY | 夏の天才 |
-| 50 |  |  | Choi Gogi | Dessert |
-| 28 | ![Cover](https://i.discogs.com/iH-WBGWHj9rDzzKR7Up52ryoZQKXTV5_9U1wEpe9Tco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk2/OTYtMTQyNjYxMDgx/MS05MzA4LmpwZWc.jpeg) | 1998 | Tina Arena, Marc Anthony | I Want To Spend My Lifetime Loving You |
-| 80 |  | 1998 | Linda Ronstadt | Blue Bayou |
-| 67 |  | 1998-11-02 | Mariah Carey &amp; Whitney Houston | When You Believe |
-| 15 | ![Cover](https://i.discogs.com/O3BqJgRhcHWpUbp5WfrqBDxiYINBAQIZ6Pds0F4vRic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjU5/MDUxLTE2NjQzODg5/NTEtMTEwNS5qcGVn.jpeg) | 1999 | Alla breve | Small Things |
-| 17 | ![Cover](https://i.discogs.com/maPEUuXS5ELfBbWtn-kQA8hgNkeAOzuQ_hUknwBaX3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzE0/MzctMTMwMzU0OTY1/Mi5qcGVn.jpeg) | 1999 | Corner Pocket | Easy Does It |
-| 52 | ![Cover](https://i.discogs.com/EMIKuyvRXuCjc7MWQ8nVDtSe8E8O63SW61TqULBDH1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM3/NTM2LTE2MzU5NTIy/NjQtMzk3NC5qcGVn.jpeg) | 1999 | George Jones &amp; Tammy Wynette | Together Again |
-| 30 | ![Cover](https://i.discogs.com/xcckQj50fXfK-fV7zCJeFzPoK37xUJL0S54qWBFmAPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTc1/MDM5LTE1NDkzNjQ5/MjctNzEyMS5qcGVn.jpeg) | 2000 | The Gordons | Covered Bridge |
-| 91 | ![Cover](https://i.discogs.com/YVWlkFeLSW40RahJh8G6MPvSGyXfwUAS3O5J7058kMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTkw/MS0xMjgzMTI0MTQy/LmpwZWc.jpeg) | 2001 | Goldfrapp | Ocean (Feat. Dave Gahan) |
-| 72 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4857526e6eb6169d6ee54090399db663.png) | 2002-02-21 | Jimmy Eat World | Call to Love |
-| 76 |  | 2002-11-18 | H &amp; Claire | Another You Another Me |
-| 23 | ![Cover](https://i.discogs.com/PnC4QJZsycWPRTifDXjn7v7oBebW4HD0ic0VJoQ_8bA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzIy/ODAtMTM0NjE2MDQ2/Ny0xMTQxLmpwZWc.jpeg) | 2003 | Mike Marshall &amp; Chris Thile | Live: Duets |
-| 31 | ![Cover](https://i.discogs.com/Kwgx048UDhIlgxX8sfe50n6EHgeC3gaqai_TX6Z0lkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDU0/OTYtMTM1MDE1Mjc4/MS00MzYxLmpwZWc.jpeg) | 2004 | Zorán | Egypár barát |
-| 47 | ![Cover](https://i.discogs.com/SWUKiVwNLZD3AtJpjiZTwNpKgkNHSvJjl43vqBZgRGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDEy/OTAtMTQzNjAyNDkz/Mi03MDA0LmpwZWc.jpeg) | 2004-01 | Камелия | Презареждане |
-| 87 |  | 2004-08-27 | Ray Charles | Genius Loves Company |
-| 45 |  | 2004-11 | Hélène Ségara | Best of |
-| 10 | ![Cover](https://i.discogs.com/rCi23NKTfKlFqbdZqcmMxrecspbgDtPKEZ2NO5tumqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODk0/MTgtMTQ0MjUyNjE4/OC00NjQyLmpwZWc.jpeg) | 2006 | Moby &amp; Mylène Farmer | Slipping Away (Crier La Vie) |
-| 40 | ![Cover](https://i.discogs.com/p262ft1sKvenhBhR9XeQxO6GV-CAm4m6KhG-m1YRg_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY3/ODMtMTY2NDcxODQ2/Ny0zNjQ4LnBuZw.jpeg) | 2006 | Daniel Mulhern | Pigeon Coup |
-| 9 | ![Cover](https://i.discogs.com/MkQLVVWzJf7HfZZkiyWCneqgMtyUyjORLn8BYATOluA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTc1/NzY2LTE1Mjk4MjE2/MDctNDcwMC5qcGVn.jpeg) | 2007 | Daniel O&#39;Donnell | Timeless |
-| 24 | ![Cover](https://i.discogs.com/cv2mrpiGYwq57HkSJd-uPth210N8gZK2E66XqjqF2NE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDM5/MTctMTQ1MTMyOTk0/My01Mjg0LmpwZWc.jpeg) | 2007 | Sagopa Kajmer &amp; Kolera | İkimizi Anlatan Bir Şey |
-| 61 | ![Cover](https://i.discogs.com/kTmX1_HrhLEAJ1WS7aALe2wRTWy0_miBjRvbVVGJC-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mjg3/NTQtMTM3MzYyNTky/MS0yMzM2LmpwZWc.jpeg) | 2008 | Biagio Antonacci | In Questa Nostra Casa Nuova |
-| 55 | ![Cover](https://i.discogs.com/OpAsJ0resNG1hiRF2dhA4Bw56Im9YieMmCeyFpQvtjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM3/MzQ4LTE2MDc2MjAw/MTktOTA5Ny5qcGVn.jpeg) | 2008-03-06 | Maria Bethânia &amp; Omara Portuondo | Maria Bethânia &amp; Omara Portuondo |
-| 56 | ![Cover](https://i.discogs.com/kxzZ9IOu3if-esAfxqp0LOjs1REaGEiC5QgEZcrcK3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODI5/MDEtMTIyNDMzMzUz/OS5qcGVn.jpeg) | 2008-10-01 | Kasper | 연애온도 |
-| 34 | ![Cover](https://i.discogs.com/CORT3aNbNOn9wCr5AVMvmoD9siSUp2JPmG9lAqniQFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTc2/OTI0LTE2NTUyNDk0/NzQtMzk0Mi5wbmc.jpeg) | 2008-12-24 | Kathleen Battle | Baroque Duet |
-| 5 |  | 2009 | Various Artists | Disney&#39;s Sing-A-Long Duets |
-| 16 | ![Cover](https://i.discogs.com/vLZ9gqZdTW9pLAd6_yhNpZ6cUbdMoeO-oi5WwDKJpuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDUy/MzAtMTQ0Mjg2MjU2/OC03MjAyLmpwZWc.jpeg) | 2009 | Loene Carmen | It Walks Like Love |
-| 53 | ![Cover](https://i.discogs.com/ai1ZbKGJmfP98vbmzT8VGCwqedEtuMLJOExazs3bAz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDk3/ODA3LTE1MjgyNDE1/MzQtNzcwOS5qcGVn.jpeg) | 2009-05-27 | Wise | I loved you feat. HIROKO |
-| 18 | ![Cover](https://i.discogs.com/CMQqu0vfxS4bG9lpN9s-hJCt9Q8Fyp_PdQfC2WzEW1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzU2/MDYtMTMxNDU1MTIy/OC5qcGVn.jpeg) | 2011-03-31 | Howlin&#39; Lord | Gold Fury |
-| 93 |  | 2011-04-26 | AM &amp; Shawn Lee | Celestial Electric |
-| 99 | ![Cover](https://i.discogs.com/FJuwQ46uGoEQSTukFPr40Bu8IjqwUoVdjKFcsc7QGf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI5/MTEwLTE2OTY3MjYw/ODgtNDUxMC5qcGVn.jpeg) | 2012-06-18 | Louie Zong | Ghost Duet |
-| 2 | ![Cover](https://i.discogs.com/zxtTIuhJfXn1RIA8Yi4LVP0e6huddWHh_5JLtMRRaHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzk0/MzktMTQ0MDIzNDEx/Mi0yODM2LmpwZWc.jpeg) | 2012-08-16 | Alexander Böhm | Jeden Tag |
-| 4 |  |  | Marvin Gaye e Tammi Terrell | Greatest Hits |
-| 8 |  |  | Wiener Mozart Orchester | The best of Mozart Volume 2 |
-| 38 |  | 2011-01-01 | alan×福井敬 | 愛は力 |
-| 97 |  | 2013-04-26 | T.M.Revolution×水樹奈々 | Preserved Roses |
-| 77 |  | 2013-10-23 | 水樹奈々×T.M.Revolution | 革命デュアリズム |
-| 69 | ![Cover](https://i.discogs.com/--8-UZobiTy5TnAgXS8FVAG2EwRvq97gdL9X_krRSYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODU3/NTctMTQzNTc0NDI0/Mi01NDc0LmpwZWc.jpeg) | 2013-10-25 | Jill Johnson | Duetterna |
-| 29 | ![Cover](https://i.discogs.com/9di3pBMXUz7U-arWGpqqKjM2JT5HxoGwSxB65wGM0NQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/Njc2LTE1ODU0MjYy/MzMtNjc4OS5qcGVn.jpeg) | 2014 | Blake Neely | The Flash – Music From the Special Episode: Duet |
-| 59 | ![Cover](https://i.discogs.com/6g7IOJupDlNOD9-t8Fyt9JwAuQxsh181A4eZQPI-000/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzIx/OTMtMTQzMDcxODIz/Ni01Nzk1LmpwZWc.jpeg) | 2015-02-17 | A-Live | best of acapella |
-| 12 | ![Cover](https://i.discogs.com/58gL7hOHkf_YF0gCwWAXkXxp-WNDf-dhFlwoLrpjYr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODMy/OTA3LTE1ODI0Njc5/MDctNzE5MC5qcGVn.jpeg) | 2017 | Ed Sheeran | Perfect Duet - Single |
-| 21 | ![Cover](https://i.discogs.com/B6WeOUWNgPGL7h0utiwcjwEAGrD3g5RXqwLhf2VYAcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDMx/NTM0LTE1NTQwNjgw/NzYtMTcxMC5qcGVn.jpeg) | 2018 | The Chainsmokers | Who Do You Love - Single |
-| 33 | ![Cover](https://i.discogs.com/yVP0Y1R4KM9edAGWlo5gCPDKTTwZhHBvkKvqvZ4nlAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTUx/Nzk0LTE2NzY3ODY0/NzAtOTUxOS5qcGVn.jpeg) | 2018-02-16 | Ashley Tisdale | Music Sessions, Vol.1 - EP |
-| 51 | ![Cover](https://i.discogs.com/jXqAGSadqABPSEcylkTl2OnXASgM0EQBzcw5hGpcwOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NjYz/OTMtMTUwODQ1NTY1/Ni02NTU5LmpwZWc.jpeg) | 2018-12-07 | Laura Pausini | Il Coraggio Di Andare (feat. Biagio Antonacci) |
-| 54 |  |  | Каста (Хамиль и Змей) | ХЗ |
-| 57 | ![Cover](https://i.discogs.com/lU8VDhZcPOO7db4ovmxE4YY7vbW7el-b2RyNzah43yk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjgw/MjAtMTQ1OTQ0NDYz/Ny0yMzY2LmpwZWc.jpeg) | 2015-11-18 | Shawn Mendes &amp; Camila Cabello | I Know What You Did Last Summer |
-| 58 |  |  | Tony Bennett &amp; Alejandro Sanz | Duets II |
-| 78 | ![Cover](https://i.discogs.com/KTAaJWY6Si2kGn-adiT5u-O-2vzHWPCdr6rIqwHX26w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjUz/ODEtMTM2MDE0NDM3/Ny0xNTMxLmpwZWc.jpeg) | 1968 | Joan Baez | Joan Baez 75th Birthday Celebration |
-| 92 | ![Cover](https://i.discogs.com/MabNPUCAEOKEoUv2iyi9tsi9VIYecw1m1DsFvmbMwJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDY1/NzEtMTU4MTAzMTk0/MS04NDEwLmpwZWc.jpeg) | 1993 | Lucero | Un Lu*Jo |
-| 74 | ![Cover](https://i.discogs.com/6q7hR90pKIDD4EOovVmPYDxRQ7LkKl-2_s50nYvId3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTYy/Ny0xNDk2OTU4MjUy/LTg4MjEuanBlZw.jpeg) | 2003-03-06 | Smash!! | Freeway |
-| 98 |  | 2005-11-21 | Ane Brun | Duets |
-| 70 |  | 2006-03-08 | 矢野顕子 | はじめてのやのあきこ |
-| 84 | ![Cover](https://i.discogs.com/jCbrKDUDB-W7dI1Hcv82tZQEC47B-tBeKhenFlbOMPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzU0/Mi0xNDUyODE4MDQ5/LTc3MDMuanBlZw.jpeg) | 2007-10-02 | Orange | Khi Em Lớn |
-| 94 | ![Cover](https://i.discogs.com/HpK1glCLtvpenZPh9n_XBkQnjhRSNLO5o7Q4UQl4INk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njk3/MjItMTM0Nzg5MzI4/Ni05OTg4LmpwZWc.jpeg) | 2008 | Heathers | Here, Not There. |
-| 100 | ![Cover](https://i.discogs.com/MAOdJcKFlyySdMv2VQmSMj_YADgXZQjfCB9ke8J5HB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODQz/NTEtMTY3NTA0NTQy/NC02MDg1LmpwZWc.jpeg) | 2009 | Lady Gaga | Die with a smile |
-| 82 | ![Cover](https://i.discogs.com/C4IjN7A5CmBEovIosbprT6SBEMXE50y3IvXny4vx2OI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY5/Nzk0LTE2MDQ2NDU4/MzMtNjk1OC5qcGVn.jpeg) | 2014-07-15 | Maite Perroni | Como Yo Te Quiero (feat. Alexis &amp; Fido) |
-| 71 | ![Cover](https://i.discogs.com/xhrz7N-EwsU1K-bYCicAfvSVttNSaG73HJ-HT8mrT7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTY5/MTQtMTQ3OTgzNjE4/Mi03ODQ0LmpwZWc.jpeg) | 2016-10-19 | angela×fripSide | 僕は僕であって |
-| 60 | ![Cover](https://i.discogs.com/GND_Czu_InAMkYc6JWeYKh57Ok2f2xSbbbhVy_i8Iok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDQz/ODctMTQ3NzI1NjIw/MS05OTk1LmpwZWc.jpeg) | 2016-10-21 | Paula Koivuniemi | Duetot |
-| 79 | ![Cover](https://i.discogs.com/rkotAsMItcxw9ppJYQIC5VAOT14MUTA0R1hmhGnjX9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI0/MDEyLTE1NDEwMjYx/MTMtMzAzMi5qcGVn.jpeg) | 2018-09-14 | Tony Bennett &amp; Diana Krall | Love Is Here To Stay |
-| 63 | ![Cover](https://i.discogs.com/hYg0ml9-Wjmc0mMZ3_biyYG3cGBuWhx03wvJ0_Q5Dfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDMz/NjA2LTE1NTQxMjQw/ODAtMjUyMC5qcGVn.jpeg) | 2019-04-05 | Yumi | Felt You |
-| 64 | ![Cover](https://i.discogs.com/zjqWUow9t8Q47hxt2qMy5vk82CXdaASeuLxASHK8R7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc3/ODI2LTE1ODc3MTYx/MjMtNDUxNC5qcGVn.jpeg) | 2019-08-01 | Butrint Imeri | Lonely |
-| 62 | ![Cover](https://i.discogs.com/ctDJWtTWkvSKnEwh3fkro4ZQXsO_cTvoaxYVkbOR4ag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/NTQ3LTE2Njc0MjY3/NTQtMTM5NC5wbmc.jpeg) | 2020-03-14 | Ellie Goulding &amp; blackbear | Brightest Blue |
-| 65 |  |  | Melissa Benoist | The Flash – Music From the Special Episode: Duet |
-| 66 | ![Cover](https://i.discogs.com/zZ5SwQfIX5qSuEhQbjH35Kmo6y4IATlF6z-bF6ts6oM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzgy/NzA5LTE2MDc0MDYz/NDgtNDk3NS5qcGVn.jpeg) | 2020-12-04 | Elena Kats-Chernin | Ragtime &amp; Blue |
-| 68 |  |  | U2 feat. Green Day | The Saints Are Coming |
-| 75 | ![Cover](https://i.discogs.com/_3UuY3qdkhnN5HBxK4L7e9ZHigtctfOX1RhVp5k_Z_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTM4/MTEtMTQ1MTI2MDk5/Mi02MzAyLmpwZWc.jpeg) | 2024-07 | Bobby Gillespie | Chase It Down |
-| 86 |  |  | Brooklyn Duo | Brooklyn Sessions V |
-| 88 |  |  | 青木カレン・ハセガワダイスケ | Great Days |
-| 90 |  |  | Tainá Costa | Paralisa e Treme |
-| 96 | ![Cover](https://i.discogs.com/m8VxLhtPSHbNRuDErr7FgN_vpYZMFS1WMM8G1VQpWVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY5/MzMwLTE2MDYzMTUy/MTYtOTQ1NC5qcGVn.jpeg) | 2019-08-02 | I_O | Warehouse Summer |
-| 43 | ![Cover](https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg) | 2023 | Various Artists | Let’s Kiss and Make Up (Slow &amp; Fast) |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/UDpyeUsu9_n8LByFJ3vxQUK2tRf1IkqoECjiuFWa6L4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjAz/NTAtMTQxNzc3OTMx/Mi0zMTEyLmpwZWc.jpeg" alt="Cover for Duets (20th Anniversary Deluxe Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1966</td>
+      <td>Frank Sinatra</td>
+      <td>Duets (20th Anniversary Deluxe Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/KTAaJWY6Si2kGn-adiT5u-O-2vzHWPCdr6rIqwHX26w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjUz/ODEtMTM2MDE0NDM3/Ny0xNTMxLmpwZWc.jpeg" alt="Cover for Joan Baez 75th Birthday Celebration" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968</td>
+      <td>Joan Baez</td>
+      <td>Joan Baez 75th Birthday Celebration</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/MB7utJQLwANrN98MQvzMs4iVsabI3yGSHEFkQaQKm0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTE5/NzQtMTM4NTkwODQ0/MS0yNjg0LmpwZWc.jpeg" alt="Cover for High Society" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977-11-18</td>
+      <td>Bing Crosby &amp; Grace Kelly</td>
+      <td>High Society</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/gIuIWc5pZ4SS2uy-6IHEjyJuU3V-SJDo1E9vyLFw5U8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzM2/NDUtMTYxMzkxODUw/My0yNjYzLmpwZWc.jpeg" alt="Cover for The Right Combination" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980-05-20</td>
+      <td>Linda Clifford &amp; Curtis Mayfield</td>
+      <td>The Right Combination</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/oqoMhqvclU6Po0rLppHtU41tI2XGpDxalRSB8xMSdDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI2/NDI2LTE2MTQ1MjY3/ODItNTQ5Ny5qcGVn.jpeg" alt="Cover for Twin Sons Of Different Mothers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981</td>
+      <td>Dan Fogelberg</td>
+      <td>Twin Sons Of Different Mothers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>1981-08-14</td>
+      <td>Barry White</td>
+      <td>Barry &amp; Glodean</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/M0QTHdZ9rvvKqEPStCtTerW7OQ3OsZkvf2GcDo2D0kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk0/MDM5LTE2MDE1NTM5/MTEtOTQyOS5qcGVn.jpeg" alt="Cover for 20th Century Masters - The Millennium Collection: The Best of Conway Twitty &amp; Loretta L" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Conway Twitty &amp; Loretta Lynn</td>
+      <td>20th Century Masters - The Millennium Collection: The Best of Conway Twitty &amp; Loretta L</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/gJBaqevxuHtPD1jXVhLSg-95wexdUbWCuvsgWY-UTLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTA0/NDgtMTM4MDM2Mjc2/MC0zMzc2LmpwZWc.jpeg" alt="Cover for When You&#39;re Gone (single)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Bryan Adams</td>
+      <td>When You&#39;re Gone (single)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa698fe8c75c532934bdd7a4ce13a5c5.png" alt="Cover for The Lockdown Sessions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Elton John</td>
+      <td>The Lockdown Sessions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>1985</td>
+      <td>Luis Miguel</td>
+      <td>Fiebre De Amor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 13</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 50</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 63</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/1z5g0rsOEznvYmlQhBLuhHM2amUG9buD2HfqlwHAi38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzg1/MDMtMTQzMjI4MjQ1/OS0xOTgxLmpwZWc.jpeg" alt="Cover for Peaceful Pond" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Dean Evenson &amp; d&#39;Rachael</td>
+      <td>Peaceful Pond</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/hS8nUdGr9Z1l1HMBKHeX4OclOxZCwCXt9iMTZpUy1nQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NjEw/MTQtMTQyMjAzNDM4/Ni04NDE4LmpwZWc.jpeg" alt="Cover for The Best of Steve &amp; Eydie" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Steve Lawrence &amp; Eydie Gorme</td>
+      <td>The Best of Steve &amp; Eydie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/T7ehIcl8GIf9Mon7RODPUCsThIEyDoWS8M25aiDy1CE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDY5/NTAtMTQ3MjA2ODkx/NC01NDMwLmpwZWc.jpeg" alt="Cover for My Heart Will Go On [Single]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Celine Dion &amp; Peabo Bryson</td>
+      <td>My Heart Will Go On [Single]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td>1992-10-28</td>
+      <td>中山美穂 &amp; WANDS</td>
+      <td>世界中の誰よりきっと</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/MabNPUCAEOKEoUv2iyi9tsi9VIYecw1m1DsFvmbMwJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDY1/NzEtMTU4MTAzMTk0/MS04NDEwLmpwZWc.jpeg" alt="Cover for Un Lu*Jo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Lucero</td>
+      <td>Un Lu*Jo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 38</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 65</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 74</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 85</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 88</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 88</li>
+            <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/dzOhIAnXNcVj-zJUtKtD08fqZdY4KU76aMtNwgEZOwY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njg1/NDY5LTE2NjQ2MjA5/MTctNTM0My5qcGVn.jpeg" alt="Cover for 夏の天才" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-08-03</td>
+      <td>SPANK HAPPY</td>
+      <td>夏の天才</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/QDQO1NvHmDmLmfFfMJJUFA8ClQ2CFmYcQuQR7t9NdEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzE0/NzQ4LTE1ODk2MTQy/NjEtMzc1NS5wbmc.jpeg" alt="Cover for Eternal Truth" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-06-05</td>
+      <td>Takada Band</td>
+      <td>Eternal Truth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+      </td>
+      <td>1996-07-30</td>
+      <td>Paul Anka</td>
+      <td>Amigos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Linda Ronstadt</td>
+      <td>Blue Bayou</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/romance" | relative_url }}">romance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 25</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/iH-WBGWHj9rDzzKR7Up52ryoZQKXTV5_9U1wEpe9Tco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk2/OTYtMTQyNjYxMDgx/MS05MzA4LmpwZWc.jpeg" alt="Cover for I Want To Spend My Lifetime Loving You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Tina Arena, Marc Anthony</td>
+      <td>I Want To Spend My Lifetime Loving You</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>1998-11-02</td>
+      <td>Mariah Carey &amp; Whitney Houston</td>
+      <td>When You Believe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/O3BqJgRhcHWpUbp5WfrqBDxiYINBAQIZ6Pds0F4vRic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjU5/MDUxLTE2NjQzODg5/NTEtMTEwNS5qcGVn.jpeg" alt="Cover for Small Things" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Alla breve</td>
+      <td>Small Things</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/maPEUuXS5ELfBbWtn-kQA8hgNkeAOzuQ_hUknwBaX3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzE0/MzctMTMwMzU0OTY1/Mi5qcGVn.jpeg" alt="Cover for Easy Does It" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Corner Pocket</td>
+      <td>Easy Does It</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/EMIKuyvRXuCjc7MWQ8nVDtSe8E8O63SW61TqULBDH1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODM3/NTM2LTE2MzU5NTIy/NjQtMzk3NC5qcGVn.jpeg" alt="Cover for Together Again" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>George Jones &amp; Tammy Wynette</td>
+      <td>Together Again</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/xcckQj50fXfK-fV7zCJeFzPoK37xUJL0S54qWBFmAPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTc1/MDM5LTE1NDkzNjQ5/MjctNzEyMS5qcGVn.jpeg" alt="Cover for Covered Bridge" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>The Gordons</td>
+      <td>Covered Bridge</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 29</li>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/YVWlkFeLSW40RahJh8G6MPvSGyXfwUAS3O5J7058kMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTkw/MS0xMjgzMTI0MTQy/LmpwZWc.jpeg" alt="Cover for Ocean (Feat. Dave Gahan)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Goldfrapp</td>
+      <td>Ocean (Feat. Dave Gahan)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4857526e6eb6169d6ee54090399db663.png" alt="Cover for Call to Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-02-21</td>
+      <td>Jimmy Eat World</td>
+      <td>Call to Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>2002-11-18</td>
+      <td>H &amp; Claire</td>
+      <td>Another You Another Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/PnC4QJZsycWPRTifDXjn7v7oBebW4HD0ic0VJoQ_8bA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzIy/ODAtMTM0NjE2MDQ2/Ny0xMTQxLmpwZWc.jpeg" alt="Cover for Live: Duets" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Mike Marshall &amp; Chris Thile</td>
+      <td>Live: Duets</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/6q7hR90pKIDD4EOovVmPYDxRQ7LkKl-2_s50nYvId3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTYy/Ny0xNDk2OTU4MjUy/LTg4MjEuanBlZw.jpeg" alt="Cover for Freeway" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-03-06</td>
+      <td>Smash!!</td>
+      <td>Freeway</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/Kwgx048UDhIlgxX8sfe50n6EHgeC3gaqai_TX6Z0lkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDU0/OTYtMTM1MDE1Mjc4/MS00MzYxLmpwZWc.jpeg" alt="Cover for Egypár barát" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Zorán</td>
+      <td>Egypár barát</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/SWUKiVwNLZD3AtJpjiZTwNpKgkNHSvJjl43vqBZgRGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDEy/OTAtMTQzNjAyNDkz/Mi03MDA0LmpwZWc.jpeg" alt="Cover for Презареждане" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-01</td>
+      <td>Камелия</td>
+      <td>Презареждане</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/greek" | relative_url }}">greek</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>2004-08-27</td>
+      <td>Ray Charles</td>
+      <td>Genius Loves Company</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 10</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td>2004-11</td>
+      <td>Hélène Ségara</td>
+      <td>Best of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>2005-11-21</td>
+      <td>Ane Brun</td>
+      <td>Duets</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/rCi23NKTfKlFqbdZqcmMxrecspbgDtPKEZ2NO5tumqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODk0/MTgtMTQ0MjUyNjE4/OC00NjQyLmpwZWc.jpeg" alt="Cover for Slipping Away (Crier La Vie)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Moby &amp; Mylène Farmer</td>
+      <td>Slipping Away (Crier La Vie)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/p262ft1sKvenhBhR9XeQxO6GV-CAm4m6KhG-m1YRg_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODY3/ODMtMTY2NDcxODQ2/Ny0zNjQ4LnBuZw.jpeg" alt="Cover for Pigeon Coup" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Daniel Mulhern</td>
+      <td>Pigeon Coup</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td>2006-03-08</td>
+      <td>矢野顕子</td>
+      <td>はじめてのやのあきこ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/MkQLVVWzJf7HfZZkiyWCneqgMtyUyjORLn8BYATOluA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTc1/NzY2LTE1Mjk4MjE2/MDctNDcwMC5qcGVn.jpeg" alt="Cover for Timeless" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Daniel O&#39;Donnell</td>
+      <td>Timeless</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/cv2mrpiGYwq57HkSJd-uPth210N8gZK2E66XqjqF2NE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDM5/MTctMTQ1MTMyOTk0/My01Mjg0LmpwZWc.jpeg" alt="Cover for İkimizi Anlatan Bir Şey" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Sagopa Kajmer &amp; Kolera</td>
+      <td>İkimizi Anlatan Bir Şey</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/jCbrKDUDB-W7dI1Hcv82tZQEC47B-tBeKhenFlbOMPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzU0/Mi0xNDUyODE4MDQ5/LTc3MDMuanBlZw.jpeg" alt="Cover for Khi Em Lớn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10-02</td>
+      <td>Orange</td>
+      <td>Khi Em Lớn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vietnamese" | relative_url }}">vietnamese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/vietnamese" | relative_url }}">vietnamese</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/kTmX1_HrhLEAJ1WS7aALe2wRTWy0_miBjRvbVVGJC-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mjg3/NTQtMTM3MzYyNTky/MS0yMzM2LmpwZWc.jpeg" alt="Cover for In Questa Nostra Casa Nuova" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Biagio Antonacci</td>
+      <td>In Questa Nostra Casa Nuova</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/HpK1glCLtvpenZPh9n_XBkQnjhRSNLO5o7Q4UQl4INk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njk3/MjItMTM0Nzg5MzI4/Ni05OTg4LmpwZWc.jpeg" alt="Cover for Here, Not There." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Heathers</td>
+      <td>Here, Not There.</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/OpAsJ0resNG1hiRF2dhA4Bw56Im9YieMmCeyFpQvtjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM3/MzQ4LTE2MDc2MjAw/MTktOTA5Ny5qcGVn.jpeg" alt="Cover for Maria Bethânia &amp; Omara Portuondo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-03-06</td>
+      <td>Maria Bethânia &amp; Omara Portuondo</td>
+      <td>Maria Bethânia &amp; Omara Portuondo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/kxzZ9IOu3if-esAfxqp0LOjs1REaGEiC5QgEZcrcK3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODI5/MDEtMTIyNDMzMzUz/OS5qcGVn.jpeg" alt="Cover for 연애온도" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-10-01</td>
+      <td>Kasper</td>
+      <td>연애온도</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/CORT3aNbNOn9wCr5AVMvmoD9siSUp2JPmG9lAqniQFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTc2/OTI0LTE2NTUyNDk0/NzQtMzk0Mi5wbmc.jpeg" alt="Cover for Baroque Duet" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-12-24</td>
+      <td>Kathleen Battle</td>
+      <td>Baroque Duet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/MAOdJcKFlyySdMv2VQmSMj_YADgXZQjfCB9ke8J5HB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODQz/NTEtMTY3NTA0NTQy/NC02MDg1LmpwZWc.jpeg" alt="Cover for Die with a smile" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Lady Gaga</td>
+      <td>Die with a smile</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 68</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 89</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 98</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 100</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 100</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>Disney&#39;s Sing-A-Long Duets</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical" | relative_url }}">musical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/vLZ9gqZdTW9pLAd6_yhNpZ6cUbdMoeO-oi5WwDKJpuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDUy/MzAtMTQ0Mjg2MjU2/OC03MjAyLmpwZWc.jpeg" alt="Cover for It Walks Like Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Loene Carmen</td>
+      <td>It Walks Like Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/ai1ZbKGJmfP98vbmzT8VGCwqedEtuMLJOExazs3bAz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDk3/ODA3LTE1MjgyNDE1/MzQtNzcwOS5qcGVn.jpeg" alt="Cover for I loved you feat. HIROKO" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-05-27</td>
+      <td>Wise</td>
+      <td>I loved you feat. HIROKO</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>2011-01-01</td>
+      <td>alan×福井敬</td>
+      <td>愛は力</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/CMQqu0vfxS4bG9lpN9s-hJCt9Q8Fyp_PdQfC2WzEW1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzU2/MDYtMTMxNDU1MTIy/OC5qcGVn.jpeg" alt="Cover for Gold Fury" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-03-31</td>
+      <td>Howlin&#39; Lord</td>
+      <td>Gold Fury</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 7</li>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td>2011-04-26</td>
+      <td>AM &amp; Shawn Lee</td>
+      <td>Celestial Electric</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 55</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/FJuwQ46uGoEQSTukFPr40Bu8IjqwUoVdjKFcsc7QGf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTI5/MTEwLTE2OTY3MjYw/ODgtNDUxMC5qcGVn.jpeg" alt="Cover for Ghost Duet" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-06-18</td>
+      <td>Louie Zong</td>
+      <td>Ghost Duet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/zxtTIuhJfXn1RIA8Yi4LVP0e6huddWHh_5JLtMRRaHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzk0/MzktMTQ0MDIzNDEx/Mi0yODM2LmpwZWc.jpeg" alt="Cover for Jeden Tag" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-08-16</td>
+      <td>Alexander Böhm</td>
+      <td>Jeden Tag</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>2013-04-26</td>
+      <td>T.M.Revolution×水樹奈々</td>
+      <td>Preserved Roses</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2013-10-23</td>
+      <td>水樹奈々×T.M.Revolution</td>
+      <td>革命デュアリズム</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/--8-UZobiTy5TnAgXS8FVAG2EwRvq97gdL9X_krRSYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODU3/NTctMTQzNTc0NDI0/Mi01NDc0LmpwZWc.jpeg" alt="Cover for Duetterna" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-10-25</td>
+      <td>Jill Johnson</td>
+      <td>Duetterna</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/9di3pBMXUz7U-arWGpqqKjM2JT5HxoGwSxB65wGM0NQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDA3/Njc2LTE1ODU0MjYy/MzMtNjc4OS5qcGVn.jpeg" alt="Cover for The Flash – Music From the Special Episode: Duet" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Blake Neely</td>
+      <td>The Flash – Music From the Special Episode: Duet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/C4IjN7A5CmBEovIosbprT6SBEMXE50y3IvXny4vx2OI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTY5/Nzk0LTE2MDQ2NDU4/MzMtNjk1OC5qcGVn.jpeg" alt="Cover for Como Yo Te Quiero (feat. Alexis &amp; Fido)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-07-15</td>
+      <td>Maite Perroni</td>
+      <td>Como Yo Te Quiero (feat. Alexis &amp; Fido)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/6g7IOJupDlNOD9-t8Fyt9JwAuQxsh181A4eZQPI-000/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzIx/OTMtMTQzMDcxODIz/Ni01Nzk1LmpwZWc.jpeg" alt="Cover for best of acapella" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-02-17</td>
+      <td>A-Live</td>
+      <td>best of acapella</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 14</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 38</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 42</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/lU8VDhZcPOO7db4ovmxE4YY7vbW7el-b2RyNzah43yk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjgw/MjAtMTQ1OTQ0NDYz/Ny0yMzY2LmpwZWc.jpeg" alt="Cover for I Know What You Did Last Summer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-11-18</td>
+      <td>Shawn Mendes &amp; Camila Cabello</td>
+      <td>I Know What You Did Last Summer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/xhrz7N-EwsU1K-bYCicAfvSVttNSaG73HJ-HT8mrT7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTY5/MTQtMTQ3OTgzNjE4/Mi03ODQ0LmpwZWc.jpeg" alt="Cover for 僕は僕であって" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-10-19</td>
+      <td>angela×fripSide</td>
+      <td>僕は僕であって</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/GND_Czu_InAMkYc6JWeYKh57Ok2f2xSbbbhVy_i8Iok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDQz/ODctMTQ3NzI1NjIw/MS05OTk1LmpwZWc.jpeg" alt="Cover for Duetot" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-10-21</td>
+      <td>Paula Koivuniemi</td>
+      <td>Duetot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/58gL7hOHkf_YF0gCwWAXkXxp-WNDf-dhFlwoLrpjYr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODMy/OTA3LTE1ODI0Njc5/MDctNzE5MC5qcGVn.jpeg" alt="Cover for Perfect Duet - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Ed Sheeran</td>
+      <td>Perfect Duet - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/B6WeOUWNgPGL7h0utiwcjwEAGrD3g5RXqwLhf2VYAcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDMx/NTM0LTE1NTQwNjgw/NzYtMTcxMC5qcGVn.jpeg" alt="Cover for Who Do You Love - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>The Chainsmokers</td>
+      <td>Who Do You Love - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/yVP0Y1R4KM9edAGWlo5gCPDKTTwZhHBvkKvqvZ4nlAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTUx/Nzk0LTE2NzY3ODY0/NzAtOTUxOS5qcGVn.jpeg" alt="Cover for Music Sessions, Vol.1 - EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-02-16</td>
+      <td>Ashley Tisdale</td>
+      <td>Music Sessions, Vol.1 - EP</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/rkotAsMItcxw9ppJYQIC5VAOT14MUTA0R1hmhGnjX9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI0/MDEyLTE1NDEwMjYx/MTMtMzAzMi5qcGVn.jpeg" alt="Cover for Love Is Here To Stay" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-09-14</td>
+      <td>Tony Bennett &amp; Diana Krall</td>
+      <td>Love Is Here To Stay</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/jXqAGSadqABPSEcylkTl2OnXASgM0EQBzcw5hGpcwOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NjYz/OTMtMTUwODQ1NTY1/Ni02NTU5LmpwZWc.jpeg" alt="Cover for Il Coraggio Di Andare (feat. Biagio Antonacci)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-12-07</td>
+      <td>Laura Pausini</td>
+      <td>Il Coraggio Di Andare (feat. Biagio Antonacci)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/hYg0ml9-Wjmc0mMZ3_biyYG3cGBuWhx03wvJ0_Q5Dfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDMz/NjA2LTE1NTQxMjQw/ODAtMjUyMC5qcGVn.jpeg" alt="Cover for Felt You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-04-05</td>
+      <td>Yumi</td>
+      <td>Felt You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/zjqWUow9t8Q47hxt2qMy5vk82CXdaASeuLxASHK8R7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTc3/ODI2LTE1ODc3MTYx/MjMtNDUxNC5qcGVn.jpeg" alt="Cover for Lonely" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-08-01</td>
+      <td>Butrint Imeri</td>
+      <td>Lonely</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/m8VxLhtPSHbNRuDErr7FgN_vpYZMFS1WMM8G1VQpWVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY5/MzMwLTE2MDYzMTUy/MTYtOTQ1NC5qcGVn.jpeg" alt="Cover for Warehouse Summer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-08-02</td>
+      <td>I_O</td>
+      <td>Warehouse Summer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/ctDJWtTWkvSKnEwh3fkro4ZQXsO_cTvoaxYVkbOR4ag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/NTQ3LTE2Njc0MjY3/NTQtMTM5NC5wbmc.jpeg" alt="Cover for Brightest Blue" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-14</td>
+      <td>Ellie Goulding &amp; blackbear</td>
+      <td>Brightest Blue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/zZ5SwQfIX5qSuEhQbjH35Kmo6y4IATlF6z-bF6ts6oM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzgy/NzA5LTE2MDc0MDYz/NDgtNDk3NS5qcGVn.jpeg" alt="Cover for Ragtime &amp; Blue" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-12-04</td>
+      <td>Elena Kats-Chernin</td>
+      <td>Ragtime &amp; Blue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for Let’s Kiss and Make Up (Slow &amp; Fast)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Let’s Kiss and Make Up (Slow &amp; Fast)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/_3UuY3qdkhnN5HBxK4L7e9ZHigtctfOX1RhVp5k_Z_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTM4/MTEtMTQ1MTI2MDk5/Mi02MzAyLmpwZWc.jpeg" alt="Cover for Chase It Down" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-07</td>
+      <td>Bobby Gillespie</td>
+      <td>Chase It Down</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Volodja Balžalorsky</td>
+      <td>Live in Maribor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 40</li>
+            <li> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a> # 84</li>
+            <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 90</li>
+            <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Каста (Хамиль и Змей)</td>
+      <td>ХЗ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a> # 11</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>G.NA &amp; 산체스</td>
+      <td>Dokkun Project pt. 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korea" | relative_url }}">korea</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Marvin Gaye e Tammi Terrell</td>
+      <td>Greatest Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td></td>
+      <td>絢香&amp;三浦大知</td>
+      <td>ハートアップ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Wiener Mozart Orchester</td>
+      <td>The best of Mozart Volume 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Fernanda Brum e Eyshila</td>
+      <td>Amigas 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-gospel" | relative_url }}">contemporary gospel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Gaby Littré</td>
+      <td>Sei Lá - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Terrible Matt &amp; Dan</td>
+      <td>The First Time</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Viva i Przyjaciele</td>
+      <td>VIVA 10 lat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Kopec</td>
+      <td>You&#39;re Gone (feat. The Blazed Joker) - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td></td>
+      <td>гуша катушкин и мария чайковская</td>
+      <td>КРАСОТА13</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td></td>
+      <td>André Hazes &amp; André Hazes Junior</td>
+      <td>Bedankt Mijn Vriend</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td></td>
+      <td>成龍</td>
+      <td>普通人 - 電影《英倫對決》推廣曲</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Yuki Dreams Again</td>
+      <td>Sponges</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Debbie Harry &amp; Franz Ferdinand</td>
+      <td>Covers E.P.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td></td>
+      <td>林原めぐみ・奥井雅美</td>
+      <td>Get along</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Tony Bennett &amp; Alejandro Sanz</td>
+      <td>Duets II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Melissa Benoist</td>
+      <td>The Flash – Music From the Special Episode: Duet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical" | relative_url }}">musical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td></td>
+      <td>U2 feat. Green Day</td>
+      <td>The Saints Are Coming</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Brooklyn Duo</td>
+      <td>Brooklyn Sessions V</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td></td>
+      <td>青木カレン・ハセガワダイスケ</td>
+      <td>Great Days</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Tainá Costa</td>
+      <td>Paralisa e Treme</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Choi Gogi</td>
+      <td>Dessert</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

@@ -9,6 +9,10 @@ title: jamaican
 
 Last updated: <time datetime="2025-10-30T06:07:39.629Z">Thu Oct 30 2025 08:07:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Jamaican music encompasses the diverse sounds originating from Jamaica, including reggae, ska, dancehall, and dub, characterized by syncopated rhythms, prominent bass lines, and offbeat guitar or keyboard accents. Rooted in the island&#39;s African heritage and cultural resistance, the genre often features socially conscious lyrics, spiritual themes, and infectious grooves that inspire movement. Its global influence has shaped modern pop, hip-hop, and electronic music worldwide.
+
 ### 100 chronological releases
 
 <table>
@@ -672,7 +676,7 @@ Last updated: <time datetime="2025-10-30T06:07:39.629Z">Thu Oct 30 2025 08:07:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 26</li>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 25</li>
         </ul>
       </td>
     </tr>
