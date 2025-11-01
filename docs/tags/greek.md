@@ -9,6 +9,10 @@ title: greek
 
 Last updated: <time datetime="2025-10-30T09:17:39.885Z">Thu Oct 30 2025 11:17:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Greek music encompasses a diverse range of styles rooted in Greece&#39;s rich musical heritage, blending traditional folk elements with modern pop, electronic, and rock influences. The genre often features distinctive Mediterranean melodies, bouzouki instrumentation, and lyrics in Greek that reflect cultural identity and emotional storytelling. Contemporary Greek music spans from ancient-inspired sounds to Eurovision-style pop, creating a bridge between historical tradition and current global trends.
+
 ### 100 chronological releases
 
 <table>

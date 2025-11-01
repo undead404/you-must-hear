@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-10-31T17:57:50.997Z
+date: 2025-10-31T19:14:51.014Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-10-31T17:57:50.997Z">Fri Oct 31 2025 19:57:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-10-31T19:14:51.014Z">Fri Oct 31 2025 21:14:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [rock n roll]({{ "tags/rock-n-roll" | relative_url }}) | <time datetime="2025-10-31T19:14:51.014Z">Fri Oct 31 2025 21:14:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [romance]({{ "tags/romance" | relative_url }}) | <time datetime="2025-10-31T17:57:50.997Z">Fri Oct 31 2025 19:57:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [electro]({{ "tags/electro" | relative_url }}) | <time datetime="2025-10-31T17:56:51.545Z">Fri Oct 31 2025 19:56:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [barcelona]({{ "tags/barcelona" | relative_url }}) | <time datetime="2025-10-31T17:50:50.969Z">Fri Oct 31 2025 19:50:50 GMT+0200 (Eastern European Standard Time)</time> |
@@ -308,7 +309,6 @@ Last updated: <time datetime="2025-10-31T17:57:50.997Z">Fri Oct 31 2025 19:57:50
 | [nederlands]({{ "tags/nederlands" | relative_url }}) | <time datetime="2025-10-28T16:01:29.801Z">Tue Oct 28 2025 18:01:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [japanese]({{ "tags/japanese" | relative_url }}) | <time datetime="2025-10-28T16:01:11.176Z">Tue Oct 28 2025 18:01:11 GMT+0200 (Eastern European Standard Time)</time> |
 | [sacred]({{ "tags/sacred" | relative_url }}) | <time datetime="2025-10-28T16:01:02.672Z">Tue Oct 28 2025 18:01:02 GMT+0200 (Eastern European Standard Time)</time> |
-| [rock n roll]({{ "tags/rock-n-roll" | relative_url }}) | <time datetime="2025-10-28T16:00:32.440Z">Tue Oct 28 2025 18:00:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [alternative electronic]({{ "tags/alternative-electronic" | relative_url }}) | <time datetime="2025-10-28T16:00:27.052Z">Tue Oct 28 2025 18:00:27 GMT+0200 (Eastern European Standard Time)</time> |
 | [indonesia]({{ "tags/indonesia" | relative_url }}) | <time datetime="2025-10-28T16:00:03.776Z">Tue Oct 28 2025 18:00:03 GMT+0200 (Eastern European Standard Time)</time> |
 | [sludge]({{ "tags/sludge" | relative_url }}) | <time datetime="2025-10-28T15:59:56.432Z">Tue Oct 28 2025 17:59:56 GMT+0200 (Eastern European Standard Time)</time> |
