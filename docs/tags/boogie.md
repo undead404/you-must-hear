@@ -9,6 +9,10 @@ title: boogie
 
 Last updated: <time datetime="2025-11-01T15:21:56.249Z">Sat Nov 01 2025 17:21:56 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Boogie is a groove-oriented dance music style that emerged in the late 1970s and early 1980s, blending disco&#39;s four-on-the-floor rhythms with funk&#39;s syncopated basslines and early electronic production. Characterized by its infectious, rolling bass, synth flourishes, and mid-tempo feel, boogie creates an effortlessly smooth yet energetic atmosphere perfect for both dance floors and laid-back listening. The sound bridges multiple cultures and eras, from its American funk roots to Brazilian and European interpretations, maintaining a timeless appeal through its emphasis on rhythm and groove.
+
 ### 100 chronological releases
 
 <table>
@@ -39,6 +43,24 @@ Last updated: <time datetime="2025-11-01T15:21:56.249Z">Sat Nov 01 2025 17:21:56
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44693089897755b500f00dd1d76b716a.png" alt="Cover for Marcos Valle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>Marcos Valle</td>
+      <td>Marcos Valle</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -93,23 +115,6 @@ Last updated: <time datetime="2025-11-01T15:21:56.249Z">Sat Nov 01 2025 17:21:56
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44693089897755b500f00dd1d76b716a.png" alt="Cover for Marcos Valle" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1974</td>
-      <td>Marcos Valle</td>
-      <td>Marcos Valle</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>
