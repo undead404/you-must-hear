@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T10:52:39.134Z
+date: 2025-11-01T20:16:51.107Z
 permalink: tags/dance
 title: dance
 ---
 
 ## dance
 
-Last updated: <time datetime="2025-10-30T10:52:39.134Z">Thu Oct 30 2025 12:52:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-01T20:16:51.107Z">Sat Nov 01 2025 22:16:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Dance is an electronic music genre designed to get people moving with its steady
   </thead>
   <tbody>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
       </td>
       <td>1974</td>
@@ -63,7 +63,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
       </td>
       <td>1982</td>
@@ -85,7 +85,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td>1989-11-07</td>
@@ -150,7 +150,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b54885952161aaea4ce2965b2db1638.png" alt="Cover for Believe" style="max-width:120px; height:auto;" />
       </td>
@@ -190,7 +190,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
       </td>
       <td>2000</td>
@@ -212,7 +212,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td>2001-08-27</td>
@@ -226,12 +226,12 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 16</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
       </td>
       <td>2001-10-01</td>
@@ -245,7 +245,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 7</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 8</li>
             <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 65</li>
         </ul>
       </td>
@@ -346,8 +346,8 @@ Dance is an electronic music genre designed to get people moving with its steady
         <ul>
             <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 32</li>
             <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 78</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 97</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 97</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -369,12 +369,29 @@ Dance is an electronic music genre designed to get people moving with its steady
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 2</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 30</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 30</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 51</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>40</td>
+      <td>
+      </td>
+      <td>2007-10-25</td>
+      <td>Britney Spears</td>
+      <td>Blackout</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/QWSV4ECnwQrm7cLOxFKttQfS3zDft-uWo-cp6_U9wW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI3/MjMtMTIyMTEwMjI1/MC5qcGVn.jpeg" alt="Cover for Time To Pretend" style="max-width:120px; height:auto;" />
       </td>
@@ -396,7 +413,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/v3_BdrFpeVX__CPnnLkgheWK35gMudhf-hdLx8Dh-BA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDMz/OTU5LTE2MDIyNTUy/ODUtNzk5MC5qcGVn.jpeg" alt="Cover for Circus (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -435,7 +452,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/_740UCvVzhGhGllAdCPP2ovxlPrtRSxCNpy-10Hc4ZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTYz/MzgtMTI2Mzc5MTQz/Mi5qcGVn.jpeg" alt="Cover for When I Grow Up" style="max-width:120px; height:auto;" />
       </td>
@@ -529,7 +546,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/6AzbwrwXZCmiG4nCWxxKmTZdwpJksxrnZb6uZXMc6F4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzI0/MzUtMTM3Mzc5NjMx/NS03MDIyLmpwZWc.jpeg" alt="Cover for The E.N.D." style="max-width:120px; height:auto;" />
       </td>
@@ -566,7 +583,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
       </td>
       <td>2009-10-12</td>
@@ -666,7 +683,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
       </td>
       <td>2010-04-06</td>
@@ -707,7 +724,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/LlgN2saKOK0LSpMRXlx3-kwTtHnqSY_MMNVhef8Ed4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDcz/Mjc2LTE2MzMzNzc2/NTUtNjY2OS5qcGVn.jpeg" alt="Cover for The Third Single Catallena" style="max-width:120px; height:auto;" />
       </td>
@@ -718,25 +735,6 @@ Dance is an electronic music genre designed to get people moving with its steady
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/sl_eVgIFvCh4PtX4u_octjRrRHH9naXftnqBVAoz3Lc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTYx/NzItMTM4MjIwNzIz/Mi03MTI2LmpwZWc.jpeg" alt="Cover for Stereo Love" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-08-03</td>
-      <td>Edward Maya</td>
-      <td>Stereo Love</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -784,7 +782,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td>2010-10-25</td>
@@ -804,7 +802,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/oDJG4udHEe7dni9eqWvCPIasmrKz0BfMrj5ysYd9-kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODgy/NTAtMTQ3ODE3MTQz/NS0yMTQ3LmpwZWc.jpeg" alt="Cover for Live My Life" style="max-width:120px; height:auto;" />
       </td>
@@ -827,7 +825,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/7XQQZHDkod5M6LHb2hwgJVdFZB495yFeXw1v-ad3Zls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Njkw/OTktMTQ4MjkxNzYy/NC03NDA3LmpwZWc.jpeg" alt="Cover for Loud (Japan Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -849,7 +847,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/WvmGRgl7-x8kchNhyfctskP3eGthlCoy0PBEC4gClbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTcx/ODAtMTMwNzE5NzQ3/My5qcGVn.jpeg" alt="Cover for Can&#39;t Remember to Forget You" style="max-width:120px; height:auto;" />
       </td>
@@ -909,7 +907,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/40f21ed7e2cf4579c586c5537d622164.png" alt="Cover for Do What U Want" style="max-width:120px; height:auto;" />
       </td>
@@ -932,7 +930,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/zai3InxkUs-Wh3oCmr9VB-LZEFEzWELyWBmKFLCvyMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjU5/MjYtMTM3MTgwNDA5/My01MTYwLmpwZWc.jpeg" alt="Cover for Love?" style="max-width:120px; height:auto;" />
       </td>
@@ -972,7 +970,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
       </td>
       <td>2011-11-18</td>
@@ -991,7 +989,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/aQqZUDvn9uC9jFoDCBgcZ-nJCfRH4l71u-xyxgecwbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzA1/MjQtMTQ4ODczNTk1/MS03MDI4LmpwZWc.jpeg" alt="Cover for witNESS (deLuxE)" style="max-width:120px; height:auto;" />
       </td>
@@ -1078,7 +1076,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/Y5Cl1kV7JAqc0rW0j21-_o3F2NcsQ-92-eUzZ7aLmJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTk5/MDctMTMwOTIxNzAz/MC5qcGVn.jpeg" alt="Cover for More Monsters and Sprites EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1127,7 +1125,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2013-09-06</td>
@@ -1162,7 +1160,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/hj4jewi5EHQ0BeyRh3V-MkouwPs4tK7Hy-3_FRBljL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzMy/ODQtMTM5MzI0NTI0/Ny04NTIxLmpwZWc.jpeg" alt="Cover for Mini World (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1343,7 +1341,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/fxa8GItwRwT6ms6uJluAQuNGVH6R5W6lagzV6ICVfFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTM4/MDMtMTQyODAzNDc1/MC04ODM3LmpwZWc.jpeg" alt="Cover for My House" style="max-width:120px; height:auto;" />
       </td>
@@ -1404,7 +1402,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/RRkqBiDUbxt32NJDer0kG7_3MQXN0l3DgF9ZC2nXZgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTUy/NDEtMTQ2MTE2MDY5/MC0yNTY4LmpwZWc.jpeg" alt="Cover for Cake By The Ocean" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,7 +1529,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/2XUXmqNwScMpXLtmUXl8Vv5TMqRSkZXB6jjn5u2Afvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg5/ODI5LTE1Njk1NDEw/MDEtNTk2My5qcGVn.jpeg" alt="Cover for We BOOM - The 3rd Mini Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1554,7 +1552,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/seXYooRKkp8vbiXLp2i7YbCtc5JHL3CyzLiKzE7twBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mzg3/NjMtMTQ4MjMzNjY1/OC04MzY2LmpwZWc.jpeg" alt="Cover for Alone" style="max-width:120px; height:auto;" />
       </td>
@@ -1581,7 +1579,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/icrvZlMBE84KK_oF3e6JscWx069rBgGL9DUwTMnWEh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg2/NjUwLTE1ODI4MjQ5/NzMtNDc2My5qcGVn.jpeg" alt="Cover for Havana" style="max-width:120px; height:auto;" />
       </td>
@@ -1807,7 +1805,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/Ile5yhdrs1o3WppNx3ACwVrD9wcCfqBdrJAuIJivOwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc5/MjIzLTE1NDE3ODUw/MzAtMzYzMy5qcGVn.jpeg" alt="Cover for Solo" style="max-width:120px; height:auto;" />
       </td>
@@ -1858,7 +1856,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/6iNIKyNCFlTikCNgacNhQ3A8xykA0_n3xG9FQyBd-aQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc2/MDgxLTE1Nzc0NjIz/NjUtODI0MC5qcGVn.jpeg" alt="Cover for SuperM - The 1st Mini Album" style="max-width:120px; height:auto;" />
       </td>
@@ -1897,7 +1895,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3037cd10162ccdc45eddec7271f87f46.png" alt="Cover for HEART*IZ" style="max-width:120px; height:auto;" />
       </td>
@@ -1917,7 +1915,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/hrfDh_Y9n472dkQlXLPHuMAM5JK8wgvPzLXG_ka9OIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk2/ODIyLTE1NjEzMjQ4/ODgtMzEwMC5qcGVn.jpeg" alt="Cover for FUN FACTORY" style="max-width:120px; height:auto;" />
       </td>
@@ -1960,7 +1958,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebd1b2caae1626c02d63201233e0529d.png" alt="Cover for 111 1" style="max-width:120px; height:auto;" />
       </td>
@@ -2046,7 +2044,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td>2021-10-29</td>
@@ -2107,7 +2105,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/304846c655d7beff4ea60de8e73bbcd2.png" alt="Cover for Ain&#39;t My Fault" style="max-width:120px; height:auto;" />
       </td>
@@ -2128,7 +2126,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -2149,7 +2147,7 @@ Dance is an electronic music genre designed to get people moving with its steady
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fed30e764da10b4375f065d6ca16fa99.png" alt="Cover for SuperM - The 1st Mini Album" style="max-width:120px; height:auto;" />
       </td>
