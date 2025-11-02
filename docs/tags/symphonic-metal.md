@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T18:45:00.815Z
+date: 2025-11-02T09:16:51.018Z
 permalink: tags/symphonic-metal
 title: symphonic metal
 ---
 
 ## symphonic metal
 
-Last updated: <time datetime="2025-10-29T18:45:00.815Z">Wed Oct 29 2025 20:45:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T09:16:51.018Z">Sun Nov 02 2025 11:16:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,11 +24,12 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>1993-08-25</td>
@@ -37,12 +38,17 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>1996</td>
@@ -52,12 +58,19 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
-            <li style="font-size: calc(1rem * 57 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 16</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 39</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/wms7UnZ5LkoTn4iRttgNzhdsKFzDl_C5fhRjpr1XG5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTIz/NS0xMTg2MjUwMTgy/LmpwZWc.jpeg" alt="Cover for Theli" style="max-width:120px; height:auto;" />
       </td>
@@ -67,6 +80,10 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -84,9 +101,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 23</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>1997-09-29</td>
@@ -97,6 +119,11 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -112,9 +139,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30d9d6d5cbf919fc477f69ac3834164a.png" alt="Cover for Vovin" style="max-width:120px; height:auto;" />
       </td>
@@ -126,9 +157,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/6V9d8PaHPwax3QVCESfxO3f1r6shHrQ3Sg_cNQj8mwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDEx/Ni0xMzU5MzA1MzY0/LTk4MjYuanBlZw.jpeg" alt="Cover for Inquisition Symphony" style="max-width:120px; height:auto;" />
       </td>
@@ -141,9 +176,15 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 68</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 84</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>1998-10-05</td>
@@ -153,6 +194,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
             <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 55</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 76</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -170,6 +218,11 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 91</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>20</td>
@@ -182,6 +235,10 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -198,9 +255,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 38</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1193adcef9642a49cfd7166e83df77a.png" alt="Cover for S&amp;M" style="max-width:120px; height:auto;" />
       </td>
@@ -213,9 +275,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 74 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 51</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/BY_rchLsBAgaNgDplbUMVmFNshvZHbWNSGYJO7vJkkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjQ5/MS0xMjg1Mjk1MjQy/LmpwZWc.jpeg" alt="Cover for Deggial" style="max-width:120px; height:auto;" />
       </td>
@@ -227,9 +294,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>2000-02-07</td>
@@ -240,9 +311,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ea0f870a57a4e669b43c774ef51964a.png" alt="Cover for Beethoven&#39;s Last Night" style="max-width:120px; height:auto;" />
       </td>
@@ -253,6 +328,11 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
             <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -269,9 +349,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 24</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
       </td>
       <td>2000-08-24</td>
@@ -280,6 +365,12 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 38</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -294,7 +385,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 26</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 52</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -311,6 +409,12 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 21</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 95</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>94</td>
@@ -325,9 +429,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 13</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/3qapZzLdKr3GalCjZ3OaSaAvTyJjFUDQkiy_btY1tHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTIy/Ny0xNTcyNzE3NzA1/LTYwMzIuanBlZw.jpeg" alt="Cover for Secret Of The Runes" style="max-width:120px; height:auto;" />
       </td>
@@ -339,9 +448,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/NdDyuqYHNGU2ZC12l9PCb_IuuKbKl3x2g-cok8a860k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTUy/NC0xMjQ1NDQ2OTA3/LmpwZWc.jpeg" alt="Cover for Rain of a Thousand Flames" style="max-width:120px; height:auto;" />
       </td>
@@ -354,9 +467,16 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 40</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 79</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 97</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c399b69dc3db3e2df585d656dfc5289.png" alt="Cover for Power of the Dragonflame" style="max-width:120px; height:auto;" />
       </td>
@@ -367,6 +487,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
             <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 55</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 55</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 72</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -382,9 +510,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2002-07-22</td>
@@ -396,23 +528,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>76</td>
-      <td>
-          <img src="https://i.discogs.com/UyyfekZkXf628AVXDgd3el0Vrev9Xoe2l6Mkt_IN_wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjIx/MC0xMTY0ODQzOTU4/LmpwZWc.jpeg" alt="Cover for Reflections Revised" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Apocalyptica</td>
-      <td>Reflections Revised</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2003</td>
@@ -425,9 +548,34 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 53</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 53</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 58</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/UyyfekZkXf628AVXDgd3el0Vrev9Xoe2l6Mkt_IN_wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjIx/MC0xMTY0ODQzOTU4/LmpwZWc.jpeg" alt="Cover for Reflections Revised" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Apocalyptica</td>
+      <td>Reflections Revised</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
       <td>
       </td>
       <td>2003-02-04</td>
@@ -438,9 +586,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2003-06-05</td>
@@ -451,9 +603,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>2004-04-21</td>
@@ -464,9 +620,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 78</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2004-04-26</td>
@@ -477,22 +638,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>
-      </td>
-      <td>2004-05-24</td>
-      <td>Therion</td>
-      <td>Sirius B</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/5OlhgqM9aZEyUpBKJhngVxvzqq8kWBKFj8XMoB09_mY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njky/OC0xMTQ0MTYyMjc3/LmpwZWc.jpeg" alt="Cover for Ravenheart" style="max-width:120px; height:auto;" />
       </td>
@@ -505,9 +657,32 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 51</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 54</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>28</td>
+      <td>
+      </td>
+      <td>2004-05-24</td>
+      <td>Therion</td>
+      <td>Sirius B</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a54c0cd4f336a7e3e7a57847d7bfcb21.png" alt="Cover for Lemuria" style="max-width:120px; height:auto;" />
       </td>
@@ -517,6 +692,10 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -533,9 +712,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 12</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
       </td>
       <td>2004-08-17</td>
@@ -547,23 +731,32 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 70</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 92</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>1</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e702bd7a883f4fe88fdfb4a231f2f61f.png" alt="Cover for Wish I Had An Angel" style="max-width:120px; height:auto;" />
       </td>
-      <td>2004-09-20</td>
-      <td>Nightwish</td>
-      <td>Wish I Had An Angel</td>
+      <td>2004-09</td>
+      <td>Epica</td>
+      <td>We Will Take You With Us</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2004-10-25</td>
@@ -572,6 +765,10 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -587,9 +784,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 67</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
       </td>
       <td>2004-11-29</td>
@@ -598,6 +800,10 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -613,9 +819,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/MbgLQtX8xjdocH0GIQewYP0KkjdYDb9eMzNCiLW-iCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDk4/OC0xNDU3NjE0OTQ4/LTk4MjguanBlZw.jpeg" alt="Cover for Memories" style="max-width:120px; height:auto;" />
       </td>
@@ -627,9 +837,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/1P3bpaymwjey-NL7VYYRrabuWi7PIGAMwlNLKYpzP-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDg0/Ni0xNTcwNTAxNjQy/LTgzMTkuanBlZw.jpeg" alt="Cover for Consign to Oblivion" style="max-width:120px; height:auto;" />
       </td>
@@ -641,9 +855,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 26</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/HdTBGJEIBmoR18t_nhjFIgztRCQ5ehwvoT-VZArjQhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjU2/OS0xMzc1NDk4OTM1/LTc2MTEuanBlZw.jpeg" alt="Cover for Vinland Saga" style="max-width:120px; height:auto;" />
       </td>
@@ -656,9 +875,15 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 1</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 51</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2005-08-22</td>
@@ -670,9 +895,15 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 62</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 81</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td>2005-09-09</td>
@@ -682,6 +913,11 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
             <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -699,9 +935,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 79</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2006-05-31</td>
@@ -712,9 +953,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>2006-07-26</td>
@@ -725,9 +970,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 28</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>2006-08-17</td>
@@ -740,9 +990,15 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 63</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>2006-09-04</td>
@@ -754,9 +1010,15 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 46</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 60</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="http://coverartarchive.org/release/1c236486-4e13-3f6e-91e0-4c04981564af/4310979390-250.jpg" alt="Cover for Triumph or Agony" style="max-width:120px; height:auto;" />
       </td>
@@ -770,9 +1032,16 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 31</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 85</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 99</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb273a141ea74ac3a44d3f48fcf0d28d.png" alt="Cover for Gothic Kabbalah" style="max-width:120px; height:auto;" />
       </td>
@@ -782,6 +1051,10 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -797,9 +1070,15 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 31</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 78</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>2007-04-20</td>
@@ -810,9 +1089,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>2007-05-30</td>
@@ -821,13 +1104,18 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8107c5fc80e61c55534e07d3ee1b089b.png" alt="Cover for Ghost Opera" style="max-width:120px; height:auto;" />
       </td>
@@ -837,7 +1125,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 32</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 54</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -853,9 +1148,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c95ade47212b4d30a2a58f905bbb3299.png" alt="Cover for In Control" style="max-width:120px; height:auto;" />
       </td>
@@ -867,9 +1166,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2007-06-22</td>
@@ -880,9 +1183,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>2007-08-07</td>
@@ -893,9 +1200,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2007-08-22</td>
@@ -904,6 +1215,10 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -920,6 +1235,11 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>98</td>
@@ -933,9 +1253,15 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 2</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 73</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td>2007-10-29</td>
@@ -947,9 +1273,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 74</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/GvmOg-xOpD0eOLzpV7xXHfblGKMNOAHii8EC646BpIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTM4/MjItMTQ2MDI0MTg2/OS02Nzg5LmpwZWc.jpeg" alt="Cover for My Winter Storm" style="max-width:120px; height:auto;" />
       </td>
@@ -961,9 +1292,15 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 68</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4e3d4f0fc54e4d7a351f9cb3f328929.png" alt="Cover for The Scarecrow" style="max-width:120px; height:auto;" />
       </td>
@@ -976,9 +1313,15 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 76 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 45</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 79</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2008-01-30</td>
@@ -989,9 +1332,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 70</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>2009-02-09</td>
@@ -1000,6 +1348,10 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1016,9 +1368,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 46</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b3bf31a42fe41219cf7cf3ef836cd14.png" alt="Cover for The Days of Grays" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,9 +1389,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>2009-10-16</td>
@@ -1045,9 +1406,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/2Pk5Ye2tvTGGhEC1RahTupLt6hq4ZEU9ZJofuAIfvB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjk5/NjMtMTM1MTc3ODE3/My04MjYxLmpwZWc.jpeg" alt="Cover for Utopia" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,9 +1424,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2009-11-13</td>
@@ -1070,20 +1439,38 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 38</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 86</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 88</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 88</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 92</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 94</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 94</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 97</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 98</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 99</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 99</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 99</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80f9023ad12b03de7e6234cd29a98991.png" alt="Cover for S&amp;M2" style="max-width:120px; height:auto;" />
       </td>
@@ -1092,8 +1479,11 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>S&amp;M2</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1111,9 +1501,16 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 11</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 30</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 61</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6163add16ca4e89a3149ab82f391949.png" alt="Cover for 7th Symphony" style="max-width:120px; height:auto;" />
       </td>
@@ -1122,12 +1519,17 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>7th Symphony</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2010-09-01</td>
@@ -1136,6 +1538,10 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1151,6 +1557,12 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a></li>
             <li style="font-size: calc(1rem * 52 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 22</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1171,9 +1583,17 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 6</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 76</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 96</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 98</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/-l7FnNTrtUFFtMyunEK-zGcBdW1WOkDZx19aipBtbk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTY3/NDMtMTU1NjQ1NDUw/Mi00NDE4LmpwZWc.jpeg" alt="Cover for Faster" style="max-width:120px; height:auto;" />
       </td>
@@ -1183,6 +1603,10 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1199,6 +1623,12 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 88</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 88</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>18</td>
@@ -1212,9 +1642,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9827e274d3c741cb8cd56f26c599f2a6.png" alt="Cover for Imaginaerum" style="max-width:120px; height:auto;" />
       </td>
@@ -1224,6 +1658,10 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1239,9 +1677,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
       </td>
       <td>2012-06-01</td>
@@ -1251,12 +1693,18 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 14</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>2012-10-19</td>
@@ -1266,6 +1714,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
             <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 22</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 60</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1286,14 +1741,25 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
             <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
             <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
             <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a></li>
             <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 38</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 45</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 75</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 79</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 87</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 93</li>
+            <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 98</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>2014-01-22</td>
@@ -1304,9 +1770,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 23</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e155b760df7945b7c5b1f0ddfa1fbb5a.png" alt="Cover for The Quantum Enigma" style="max-width:120px; height:auto;" />
       </td>
@@ -1318,9 +1789,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/BWyJSRIWspzLcaAJhZrkPAGDxdhLUgfSrL5VT9t4_9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjU1/ODY5LTE1MzE1MzY4/OTktODU1NS5qcGVn.jpeg" alt="Cover for The Suspended Kid" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,9 +1816,18 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 44</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 46</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 56</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 82</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 96</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c4f5647d50667e6d893f2ad96c4b988.png" alt="Cover for Endless Forms Most Beautiful" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,9 +1839,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/8zaizS3OEXhpCcRC2M5BZHcZqlLkRk-Kgec1AntQ7mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQx/ODAxLTE1ODI2Mjgy/MzctNTczNC5qcGVn.jpeg" alt="Cover for Marilyn Monroe" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,9 +1860,16 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 37</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 44</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 53</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/797952b38d240aaddfb64e064e7b5ef4.png" alt="Cover for The Holographic Principle" style="max-width:120px; height:auto;" />
       </td>
@@ -1386,9 +1881,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/xsT1E5DdE_uKRSwBFUc-5O_5f2OKLf5Xp8x2MiPeeXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM1/NjU0LTE2NDIxMDQw/NTYtMTA2MS5qcGVn.jpeg" alt="Cover for The Silver Scream" style="max-width:120px; height:auto;" />
       </td>
@@ -1400,8 +1899,16 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 3</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 28</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 39</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1424,6 +1931,13 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 91</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 94</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 97</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>95</td>
@@ -1439,23 +1953,14 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fedc20a510600b119874c79449f4b7e.png" alt="Cover for HUMAN. :II: NATURE." style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020-04-10</td>
-      <td>Nightwish</td>
-      <td>HUMAN. :II: NATURE.</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/T6Fz66ZXWVDv06oi6PWrJgnGJQTmb2kvVqJJLhwTdeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY4/NTgzLTE1NjE2NTUy/OTItNTYxNC5qcGVn.jpeg" alt="Cover for Blue (Da Ba Dee)" style="max-width:120px; height:auto;" />
       </td>
@@ -1468,6 +1973,91 @@ Symphonic metal is a subgenre of heavy metal music that incorporates symphonic a
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 27</li>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/fmork5iqrE8J5qOvfvojru6-lozl6PArgoU2gHAOPic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDc3/ODUxLTE2Mzc1NzYz/MDMtNDc0Ny5qcGVn.jpeg" alt="Cover for The Bridge Of Khazad-Dum (from &quot;The Lord Of The Rings&quot;)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-10-15</td>
+      <td>Eurielle</td>
+      <td>The Bridge Of Khazad-Dum (from &quot;The Lord Of The Rings&quot;)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asian" | relative_url }}">asian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/humour" | relative_url }}">humour</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parody" | relative_url }}">parody</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 3</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 24</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 37</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 42</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 43</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 60</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 64</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 64</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 70</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 75</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 84</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 98</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 100</li>
         </ul>
       </td>
     </tr>
