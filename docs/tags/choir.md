@@ -9,6 +9,10 @@ title: choir
 
 Last updated: <time datetime="2025-10-30T08:02:47.159Z">Thu Oct 30 2025 10:02:47 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+A choir tag encompasses vocal music performed by multiple singers in harmony, ranging from sacred classical works to dramatic cinematic compositions. The sound features layered voices creating rich, powerful textures that evoke emotions from spiritual reverence to epic grandeur. This tradition spans centuries and cultures, from ancient religious chants to modern orchestral arrangements that enhance film trailers and contemporary media.
+
 ### 100 chronological releases
 
 <table>

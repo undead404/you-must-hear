@@ -9,6 +9,10 @@ title: straight edge
 
 Last updated: <time datetime="2025-10-30T02:11:39.031Z">Thu Oct 30 2025 04:11:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Straight edge is a hardcore punk movement defined by a commitment to abstaining from alcohol, drugs, and casual sex, often expressed through aggressive, fast-paced music with shouted vocals and breakdowns. Born in the early 1980s as a rebellious counter-culture to rock&#39;s excesses, it emphasizes personal discipline, clarity, and often vegetarianism or veganism. The sound is raw and confrontational, channeling youthful intensity into anthems of self-control and positive living.
+
 ### 100 chronological releases
 
 <table>
@@ -340,7 +344,7 @@ Last updated: <time datetime="2025-10-30T02:11:39.031Z">Thu Oct 30 2025 04:11:39
         <ul>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 13</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 18</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 60</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -438,7 +442,7 @@ Last updated: <time datetime="2025-10-30T02:11:39.031Z">Thu Oct 30 2025 04:11:39
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 12</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 17</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 26</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 70</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -548,7 +552,7 @@ Last updated: <time datetime="2025-10-30T02:11:39.031Z">Thu Oct 30 2025 04:11:39
         <ul>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 1</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 3</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 49</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1126,7 +1130,7 @@ Last updated: <time datetime="2025-10-30T02:11:39.031Z">Thu Oct 30 2025 04:11:39
         <ul>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 11</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 15</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 57</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1748,7 +1752,7 @@ Last updated: <time datetime="2025-10-30T02:11:39.031Z">Thu Oct 30 2025 04:11:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 8</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1865,7 +1869,7 @@ Last updated: <time datetime="2025-10-30T02:11:39.031Z">Thu Oct 30 2025 04:11:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 2</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 42</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 41</li>
         </ul>
       </td>
     </tr>
