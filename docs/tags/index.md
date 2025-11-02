@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-02T00:01:51.480Z
+date: 2025-11-02T00:47:53.849Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-02T00:01:51.480Z">Sun Nov 02 2025 02:01:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T00:47:53.849Z">Sun Nov 02 2025 02:47:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [liverpool]({{ "tags/liverpool" | relative_url }}) | <time datetime="2025-11-02T00:47:53.849Z">Sun Nov 02 2025 02:47:53 GMT+0200 (Eastern European Standard Time)</time> |
 | [uplifting trance]({{ "tags/uplifting-trance" | relative_url }}) | <time datetime="2025-11-02T00:01:51.480Z">Sun Nov 02 2025 02:01:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [country rock]({{ "tags/country-rock" | relative_url }}) | <time datetime="2025-11-01T23:58:51.501Z">Sun Nov 02 2025 01:58:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [country pop]({{ "tags/country-pop" | relative_url }}) | <time datetime="2025-11-01T23:51:51.094Z">Sun Nov 02 2025 01:51:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -133,7 +134,6 @@ Last updated: <time datetime="2025-11-02T00:01:51.480Z">Sun Nov 02 2025 02:01:51
 | [australian]({{ "tags/australian" | relative_url }}) | <time datetime="2025-10-31T06:05:29.509Z">Fri Oct 31 2025 08:05:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [comedian]({{ "tags/comedian" | relative_url }}) | <time datetime="2025-10-31T05:57:20.492Z">Fri Oct 31 2025 07:57:20 GMT+0200 (Eastern European Standard Time)</time> |
 | [seattle]({{ "tags/seattle" | relative_url }}) | <time datetime="2025-10-31T04:45:29.101Z">Fri Oct 31 2025 06:45:29 GMT+0200 (Eastern European Standard Time)</time> |
-| [liverpool]({{ "tags/liverpool" | relative_url }}) | <time datetime="2025-10-31T04:25:28.816Z">Fri Oct 31 2025 06:25:28 GMT+0200 (Eastern European Standard Time)</time> |
 | [american]({{ "tags/american" | relative_url }}) | <time datetime="2025-10-31T04:18:19.064Z">Fri Oct 31 2025 06:18:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [rock opera]({{ "tags/rock-opera" | relative_url }}) | <time datetime="2025-10-31T04:10:29.736Z">Fri Oct 31 2025 06:10:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [mastersinger]({{ "tags/mastersinger" | relative_url }}) | <time datetime="2025-10-31T02:45:30.082Z">Fri Oct 31 2025 04:45:30 GMT+0200 (Eastern European Standard Time)</time> |
