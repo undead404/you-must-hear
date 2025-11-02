@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:05:35.210Z
+date: 2025-11-02T06:05:52.314Z
 permalink: tags/garage-rock-revival
 title: garage rock revival
 ---
 
 ## garage rock revival
 
-Last updated: <time datetime="2025-10-28T15:05:35.210Z">Tue Oct 28 2025 17:05:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T06:05:52.314Z">Sun Nov 02 2025 08:05:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,11 +24,12 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>60</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d49933939512462bff39255f1e33de08.png" alt="Cover for no name" style="max-width:120px; height:auto;" />
       </td>
@@ -37,8 +38,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>no name</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -53,6 +56,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -75,9 +82,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>50</td>
       <td>
       </td>
       <td>1983</td>
@@ -90,9 +101,14 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 58</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0952a31123144f48ae31ef1875aa460.png" alt="Cover for Q: Best of 2001" style="max-width:120px; height:auto;" />
       </td>
@@ -104,6 +120,11 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -123,9 +144,15 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 69</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 76</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/rQrjguF4NSH4q5m1utGtDiB0o-sC6jRUkv6OPxTJtGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTU4/MzQtMTMwNjc3Mjc1/NS5qcGVn.jpeg" alt="Cover for Headcleaner" style="max-width:120px; height:auto;" />
       </td>
@@ -136,6 +163,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -152,9 +183,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>1994</td>
@@ -165,9 +200,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/3v_gZ0UASz4vkeeR4br4GuJ8U96u4Pt4HYC2ggRUEZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTc3/NzQtMTI4NTE1Mzg4/My5qcGVn.jpeg" alt="Cover for Living Legends Series" style="max-width:120px; height:auto;" />
       </td>
@@ -178,6 +217,11 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -196,9 +240,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/486d0638f4c7426ac2214a631c398daf.png" alt="Cover for Veni Vidi Vicious" style="max-width:120px; height:auto;" />
       </td>
@@ -208,6 +256,12 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 96</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -226,6 +280,12 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 42</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 68</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>35</td>
@@ -239,12 +299,18 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-            <li style="font-size: calc(1rem * 57 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 34</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2001</td>
@@ -262,6 +328,12 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 65</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 71</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>98</td>
@@ -274,6 +346,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 18</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 68</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -289,6 +368,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 61 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 78</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -307,24 +393,14 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1aa391202f794e54b14b0046ed5b63b2.png" alt="Cover for Love Peace &amp; Fuck" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001-08-31</td>
-      <td>Brain Donor</td>
-      <td>Love Peace &amp; Fuck</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33c085cd4365644493a6dce827cff916.png" alt="Cover for Live In Iceland" style="max-width:120px; height:auto;" />
       </td>
@@ -335,6 +411,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -349,6 +429,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -367,9 +451,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd1adc53e889d1d8c89980757e7233c1.png" alt="Cover for Steady the Buffs" style="max-width:120px; height:auto;" />
       </td>
@@ -382,6 +470,11 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -401,6 +494,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>82</td>
@@ -414,9 +511,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdefce9be65b4ab7b9d0a3c7229b6e1e.png" alt="Cover for The Datsuns" style="max-width:120px; height:auto;" />
       </td>
@@ -425,13 +526,15 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>The Datsuns</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b613e1d61d3f4e22892383e72850816f.png" alt="Cover for Dual Mono" style="max-width:120px; height:auto;" />
       </td>
@@ -443,9 +546,14 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 29</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4dee442556a45dac504bbe5ae75b810.png" alt="Cover for Three Times Infinity" style="max-width:120px; height:auto;" />
       </td>
@@ -461,9 +569,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/4hUFGKDzmvPJ6HSEHQKQNAHKRpOXTET9T2oOA35p4oA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTUx/Ni0xMzA3MjU5NTM2/LmpwZWc.jpeg" alt="Cover for don&#39;t look back into the sun (EP)" style="max-width:120px; height:auto;" />
       </td>
@@ -476,9 +588,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/LI8JRoEkMBDNZLXuRwKrsfDyURyoQ6j0qYhm-WOrsGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzUw/NDgtMTM2OTYwMTcx/Ny05ODY1LmdpZg.jpeg" alt="Cover for Voodoo Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -489,6 +605,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finland" | relative_url }}">finland</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -505,6 +625,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 2</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 12</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 97</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>32</td>
@@ -518,6 +645,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -540,9 +671,15 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 73</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 77</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/205ec595cc9241f69ddd11643823ac96.png" alt="Cover for Take Them On, On Your Own" style="max-width:120px; height:auto;" />
       </td>
@@ -551,6 +688,11 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>Take Them On, On Your Own</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -565,6 +707,14 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 21</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 33</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 54</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -584,9 +734,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a1d7dd8df2d4933c94da68ad480bb12.png" alt="Cover for The Hardest Button to Button" style="max-width:120px; height:auto;" />
       </td>
@@ -599,9 +753,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06c122710234ca1cfbe9d45cc5200874.png" alt="Cover for Western Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -613,6 +771,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -627,12 +789,18 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 55 / 100)"> <a href="{{ "/tags/australian" | relative_url }}">australian</a></li>
+            <li style="font-size: calc(1rem * 55.00000000000001 / 100)"> <a href="{{ "/tags/australian" | relative_url }}">australian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 36</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2004-05-24</td>
@@ -644,9 +812,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11cfa923c62bc28ca4d9a0db8e619c71.png" alt="Cover for Outta Sight&#x2F;Outta Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -655,9 +827,11 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>Outta Sight&#x2F;Outta Mind</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -676,9 +850,14 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 72</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a55cd803b6846444eff119eb165ec7f9.png" alt="Cover for The Libertines" style="max-width:120px; height:auto;" />
       </td>
@@ -691,9 +870,16 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 4</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 45</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 61</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/821c75286820434a94f614eb068a8ce0.png" alt="Cover for Slowly But Surely" style="max-width:120px; height:auto;" />
       </td>
@@ -708,9 +894,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/39c3661deb1a495ab1a39861ca30bbea.png" alt="Cover for Aha Shake Heartbreak" style="max-width:120px; height:auto;" />
       </td>
@@ -720,12 +910,18 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 58 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 57.99999999999999 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 33</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbb44bc20199b1c53efb9e91d53199d6.png" alt="Cover for Where The Light Shines Through" style="max-width:120px; height:auto;" />
       </td>
@@ -737,6 +933,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -753,9 +953,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
       </td>
       <td>2005-05-10</td>
@@ -768,9 +972,14 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 74</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/LAS_WZD__SQ0DpmNCYIvslWICTkwzH5QDdkhCnPmNeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTMw/NC0xMzE0Mjg1MDEy/LmpwZWc.jpeg" alt="Cover for Va Chercher la Police" style="max-width:120px; height:auto;" />
       </td>
@@ -784,9 +993,14 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 73</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4bd9ed207184af23b8199fb41c8eba2.png" alt="Cover for Get Behind Me Satan" style="max-width:120px; height:auto;" />
       </td>
@@ -799,9 +1013,15 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 8</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 33</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/adbb6f03ef684245943af6094df11aa6.png" alt="Cover for Oh No" style="max-width:120px; height:auto;" />
       </td>
@@ -812,6 +1032,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 69 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -831,9 +1055,16 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 90</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 97</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 100</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f41698e47228486ac81690028794f18d.png" alt="Cover for First Impressions of Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -846,9 +1077,14 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 79</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96441d750a675cd7d69d9bff05cb5c4f.png" alt="Cover for Bonk Against Nothing" style="max-width:120px; height:auto;" />
       </td>
@@ -864,9 +1100,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20a18372933946d7982d35c3bfa17831.png" alt="Cover for Riot City Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -879,9 +1119,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
       </td>
       <td>2006-08-08</td>
@@ -894,9 +1138,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ea4dad3c3614770bca41a29c2e53b3d.png" alt="Cover for Costello Music" style="max-width:120px; height:auto;" />
       </td>
@@ -906,6 +1154,12 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 58</li>
+            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -919,8 +1173,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>Shine On</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -937,9 +1193,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/vFvTwFzhdscKgVaIGnmiRvk7XDjHajT-wX8ie0BmI30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODM4/MS0xMTk0MjA2OTU0/LmpwZWc.jpeg" alt="Cover for Men&#39;s Needs" style="max-width:120px; height:auto;" />
       </td>
@@ -951,9 +1211,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d37b29790c204d58b70fa41cb0a3ffca.png" alt="Cover for Dwell" style="max-width:120px; height:auto;" />
       </td>
@@ -963,6 +1227,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -979,9 +1247,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/7tlqQ2YfOS-kNHun8xAZ85pn-VdlVR2tQP4fsCgBnPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjEx/NzctMTYwMTY4NTMx/OS00NDY4LmpwZWc.jpeg" alt="Cover for Grass Geysers...Carbon Clouds" style="max-width:120px; height:auto;" />
       </td>
@@ -998,9 +1270,15 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 23</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 30</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0de7895b2364f62f78afc3d56f02cd63.png" alt="Cover for The White Stripes Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1014,9 +1292,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/Mj9yG1NLpNzYvEz44xlSyuSzhnkTWs_1P-ww9-XDucE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTkw/MjEtMTI5OTc1MjY4/MS5qcGVn.jpeg" alt="Cover for Sam&#39;s Town (Slidepac)" style="max-width:120px; height:auto;" />
       </td>
@@ -1031,9 +1313,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2009</td>
@@ -1044,9 +1330,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/70163676ea2e4c44959c3af0f71b30d8.png" alt="Cover for Humbug" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,9 +1349,18 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 35</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 59</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 62</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 94</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 98</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cd1473c01554f7b984bc4057880527b.png" alt="Cover for Live At Third Man Records West" style="max-width:120px; height:auto;" />
       </td>
@@ -1074,6 +1373,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1094,6 +1397,11 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 33</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>8</td>
@@ -1110,15 +1418,42 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
             <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 56 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 17</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac59a4128a3a4aa69ec210ff40cf2558.png" alt="Cover for Fuck the Tea Party" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Driben</td>
+      <td>Fuck the Tea Party</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/TFtsXba7EZv5Zp3e4EyeDcMKI9X6Ae3MeQ_vtUDdk9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjM5/NzQtMTI5OTk2NzA4/OS5qcGVn.jpeg" alt="Cover for Hidden Charms" style="max-width:120px; height:auto;" />
       </td>
@@ -1135,6 +1470,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>41</td>
@@ -1147,6 +1486,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1170,6 +1513,12 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 58</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 70</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>10</td>
@@ -1183,9 +1532,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2013</td>
@@ -1196,6 +1549,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1215,9 +1572,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/lhgSQ1_SHcB1gQydwdtxNlS2sBiZwEV3hvxwHQgDPTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDYx/NzUtMTQ2NTgzNTEx/MC03ODA5LmpwZWc.jpeg" alt="Cover for Stacked Deck" style="max-width:120px; height:auto;" />
       </td>
@@ -1237,9 +1598,14 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 56</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c246acfb5a57b034f0f02e9c510a89d6.png" alt="Cover for Nature Noir" style="max-width:120px; height:auto;" />
       </td>
@@ -1253,9 +1619,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/KfP_kU_RfKxTXqAt8i2Z8IToHaF0cXaq8IJ6aC_vOcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzU1/NjEtMTM5OTc0ODU5/Ni03MDUwLmpwZWc.jpeg" alt="Cover for SONIC DEATH" style="max-width:120px; height:auto;" />
       </td>
@@ -1270,9 +1640,14 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 9</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/t7dmieqbe77xw6_z3Pjc22x5Vh9faL-i_vHJn7-G_ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzcx/ODE3LTE2ODY2NjMx/NjQtMTQ4NC5wbmc.jpeg" alt="Cover for Witness" style="max-width:120px; height:auto;" />
       </td>
@@ -1283,6 +1658,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1302,6 +1681,11 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 38</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>40</td>
@@ -1316,6 +1700,11 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 41</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>87</td>
@@ -1328,6 +1717,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 6</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 74</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1347,9 +1743,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14a3ee17a9aff5af0167c10cdfb837c9.png" alt="Cover for Outrage! Is Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1358,13 +1758,15 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>Outrage! Is Now</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/06817167467f8026d9d669d56e151126.png" alt="Cover for How Did We Get So Dark?" style="max-width:120px; height:auto;" />
       </td>
@@ -1374,6 +1776,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1391,9 +1797,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f430012b280349a91f0de708454bb12d.png" alt="Cover for Combat Sports" style="max-width:120px; height:auto;" />
       </td>
@@ -1407,9 +1817,15 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 16</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 46</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/b5wqTMIp2e2BWxsJ7Jy494NFXDYfU-SI70vyMjeXjqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE0/Nzg2LTE2MjE1Njg3/NTAtOTEzMS5qcGVn.jpeg" alt="Cover for Treasured Memories" style="max-width:120px; height:auto;" />
       </td>
@@ -1421,6 +1837,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1439,9 +1859,14 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 78</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2019-02-08</td>
@@ -1453,6 +1878,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1471,9 +1900,14 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 77</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/43cb5d328b7a27a553d360a0c5461ce5.png" alt="Cover for Help Us Stranger" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,9 +1919,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/RPfZQKuDqyBfJXhzYqKf7V4njIneepmzRhpQKCnRlUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTcx/NDI1LTE2NTUyMDg3/NTUtNzQ4Mi5qcGVn.jpeg" alt="Cover for Teenage Tom Petties" style="max-width:120px; height:auto;" />
       </td>
@@ -1497,6 +1935,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1511,9 +1953,13 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/R6n6E549tqyswmx_Z-1cAbioGg-pPu1HSjs0QFYVl68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODI2/ODA2LTE2NzQyMjQ2/MTctNzUyOS5qcGVn.jpeg" alt="Cover for What&#39;s Rock and Roll?" style="max-width:120px; height:auto;" />
       </td>
@@ -1525,6 +1971,10 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1546,6 +1996,12 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 60</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 73</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>5</td>
@@ -1560,25 +2016,14 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-      </td>
-      <td></td>
-      <td>The Filthy Violets</td>
-      <td>Lackluster Blvd.</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
+            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td></td>
@@ -1593,6 +2038,31 @@ Garage rock revival emerged in the early 2000s as a raw, energetic return to str
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Filthy Violets</td>
+      <td>Lackluster Blvd.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage" | relative_url }}">garage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>

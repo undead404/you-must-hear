@@ -9,110 +9,1994 @@ title: goa trance
 
 Last updated: <time datetime="2025-10-20T07:34:39.477Z">Mon Oct 20 2025 10:34:39 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Goa trance is a hypnotic electronic music style that emerged from beach parties in Goa, India during the late 1980s and early 1990s. It features driving basslines, layered melodic synthesizers, and intricate psychedelic textures that create transcendent, ritual-like atmospheres. The sound emphasizes spiritual exploration and collective euphoria through repetitive, evolving patterns typically ranging from 130-150 BPM.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 9 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 1977 | Various Artists | A Voyage Into Trance |
-| 23 |  | 1988-05 | Front Line Assembly | Disorder |
-| 37 |  | 1992-11 | Cosmic Baby | Stellar Supreme |
-| 4 |  | 1995-08 | Paradise Connection | Paradise Connection |
-| 22 |  | 1996-06-24 | Total Eclipse | Violent Relaxation |
-| 34 | ![Cover](https://i.discogs.com/Hay_PT1hSRunUAMod4OkalWZKaFKfamEg8iCdqULMcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTA4/LTEzMjg0NzcxNDUu/anBlZw.jpeg) | 1996-09-02 | Astral Projection | Israels Psychedelic Trance |
-| 26 | ![Cover](https://i.discogs.com/JHb-bEqPp4WnwTBJs-UNRD31MiK1B0dFkLoOnBKumds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDA2/LTExMDYyNDg4MTMu/anBn.jpeg) | 1996-09-20 | MFG | The Prophecy |
-| 25 |  | 1996-11-18 | Transwave | Phototropic |
-| 24 |  | 1997 | MFG | New Kind of World |
-| 36 |  | 1997 | Mr. Credo | Fantasy |
-| 43 |  | 1997-07-28 | Zodiac Youth | Devils Circus |
-| 20 |  | 1998 | Asia 2001 | Ama Zone |
-| 35 | ![Cover](https://i.discogs.com/Y8_vC2lJiQLa0fIdCX4mdH1dpo01n_xfpTHhoZjYSkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTAy/LTExMDUzNDMxNTMu/anBn.jpeg) | 1998-01-19 | Oforia | Delirious |
-| 19 |  | 1998-04-27 | Genetic | We Are...Genetic |
-| 29 | ![Cover](https://i.discogs.com/EJppJJIrairIgKX6Rp9E_SBbOYucqL9vjtdwwEBZogA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODA5/LTE0NDQwNjA2ODkt/Nzk3MS5qcGVn.jpeg) | 1998-08-10 | MFG | Project Genesis |
-| 47 |  | 1998-10-20 | SFX | The Unreleased Tracks 89-94 |
-| 27 |  | 1999-01-15 | Power Source | Cosmic Waves |
-| 44 | ![Cover](https://i.discogs.com/Svjb06NoOFvQ2KCU8mWBtia17ZAA9u6pZuh-R_uaROE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQz/Ni0xMjAyNTYyODg2/LmpwZWc.jpeg) | 2000 | Dark Soho | Sun Spot |
-| 50 |  | 2000-05 | Astral Projection | UNmixed |
-| 10 | ![Cover](https://i.discogs.com/TTKGGqGc2jt5xfCcWe2qu8F9atJccTaOPcDpEpmta5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDUw/MS0xMTExMjgzNzc1/LmpwZw.jpeg) | 2001-04-17 | Le Duc | Celebration |
-| 1 | ![Cover](https://i.discogs.com/p9JGU4Ct8YR5jz9_VYpDQ6VUyYxyzH7Gr9J8Tqaemqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzM3/NC0xNjc3OTk1NzMy/LTc5ODMuanBlZw.jpeg) | 2002-11-19 | Juno Reactor | The Zwara |
-| 13 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2003 | Various Artists | Trust in Trance 1 |
-| 32 |  | 2003-09 | Etnoscope | Drums From The Dawn Of Time |
-| 5 |  | 2004-02-26 | Jupiter 8000 | Twisted Bliss |
-| 18 |  | 2005-04 | Goa Gil | Karmageddon |
-| 48 | ![Cover](https://i.discogs.com/rlI9ySiDbw939Sadi4f3K-kiNe96ZWZYsblKGYBmWGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDIy/Mi0xMTUyMTE4MjI2/LmpwZWc.jpeg) | 2006-06-26 | Indra | Killer Machine |
-| 30 | ![Cover](https://i.discogs.com/nQ5HPs_D_I0EJ4_AWlp8jxjx9ZH5WjbhuE1auGjBcOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDUw/NS0xNDQxODE5MTcz/LTI2NjAuanBlZw.jpeg) | 2006-10 | The Nommos | Primal Meltdown |
-| 8 |  | 2007 | Indra | Life of Faith |
-| 6 | ![Cover](https://i.discogs.com/iueoDWnL_bOpcM3G2ccsozAy7bikoWtWUD3n1My5HWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mzcy/MC0xMTc4ODc3NzEx/LmpwZWc.jpeg) | 2007-01-12 | Transwave | Backfire |
-| 7 |  | 2008-03-14 | Abomination | Planet X |
-| 40 | ![Cover](https://i.discogs.com/5IpOvYuQubk3dGMgEqBKxbWsWfUM19gyCt6xjCg8Kuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM1/MjktMTI3NzUzNTI1/NC5qcGVn.jpeg) | 2008-11 | Ovnimoon | Family of Light |
-| 15 | ![Cover](https://i.discogs.com/brbopdqIygu6mrnggEhCn7w9zpQLZmU7xGXm5juStrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzgy/MzQtMTMyNzI1NDU5/OC5qcGVn.jpeg) | 2009-03 | Merr0w | Born Underwater |
-| 41 | ![Cover](https://i.discogs.com/0WC0XyEq1t4GX98zGqCE8DT2EA-BDP2nN5X9-HmI6XY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODI4/MDQtMTI0NDY2MDMw/Ny5naWY.jpeg) | 2009-05-19 | Afgin | Astral Experience |
-| 16 | ![Cover](https://i.discogs.com/8B_l2vAd9TDGnc6_i6_lEUDOWEbjtSQcuWdUPvivQTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzU3/NzctMTI0OTQ2NjU4/Ny5qcGVn.jpeg) | 2009-08-07 | Blue Planet Corporation | A Blueprint For Survival |
-| 12 | ![Cover](https://i.discogs.com/m48ZS3CjsP9PKsD6KUY6BzEouypJK8Mo21Gr8Q3iGtw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTQw/MTktMTI1NjIyODM3/Ny5qcGVn.jpeg) | 2009-10-01 | Radical Distortion | Psychedelic Dreams |
-| 28 |  | 2010-04-28 | Artha | Influencing Dreams |
-| 3 |  | 2010-08-20 | Amithaba Buddha | Myself In The Mirror |
-| 2 | ![Cover](https://i.discogs.com/Tw6Uy6ZDuOBwy8dAJ-nJusKcwFq-7Rd2un18QszYq2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzA5/MjctMTMwMDMxMTUz/NS5qcGVn.jpeg) | 2011-02-18 | Invisible Reality | Parallel Fantasy |
-| 21 | ![Cover](https://i.discogs.com/Vpp0hjuxZ4YhKz_U_oAkNayRLfPyDLowH3VBx3O1CO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzky/MzctMTMxMjgyOTA4/NS5qcGVn.jpeg) | 2011-05 | Ovnimoon | Ovnimoon – Magnetic Portal |
-| 17 |  | 2011-09-16 | Tekniset | Teknical Problems |
-| 42 | ![Cover](https://i.discogs.com/o_lDXpg34diulT7edw05QGUF05Ufl-r8QLSZjKCRg_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTQ1/MTYtMTM1ODc0Mzkz/Ny02MTAwLmpwZWc.jpeg) | 2012-07-30 | James Ferraro | Live at Primavera Sound 2012 |
-| 14 | ![Cover](https://i.discogs.com/Kh1TuCWENa3zHu-m6JelBC_uVuEQ6oL64F-weoJ-EFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzMw/MDEtMTQ5NTk2NzE4/NC0yNzQxLmpwZWc.jpeg) | 2013-04 | Cortex | Remix It |
-| 38 |  | 2013-04-23 | Juno Reactor | The Golden Sun of the Great East |
-| 33 | ![Cover](https://i.discogs.com/-GwnM7marhA2vnpNwCQVA01JemVmdkaWbKPD1yVITLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzk2/NTktMTQzMzYyNDEy/NS01MzI0LmpwZWc.jpeg) | 2013-08-05 | Suntree | The Future |
-| 31 |  | 2013-09-28 | Filteria | Lost In The Wild |
-| 39 |  | 2014-03-31 | Talamasca | Level 9 |
-| 49 | ![Cover](https://i.discogs.com/l9UHKOqiiq_Vr-GA7SGevyc-0xWk98QgJB1PIPUWQ60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTM3/MzYtMTQzMzU4MTI3/NC05MjUzLmpwZWc.jpeg) | 2014-08-18 | Juno Reactor | The Golden Sun... Remixed |
-| 11 | ![Cover](https://i.discogs.com/mofGA275foill_LgAHpRtVEVCa_GAySpm_iubskooas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzEx/MjYtMTQ4NTQ3Nzc2/OS05NjA0LmpwZWc.jpeg) | 2016-09-26 | Vertical Mode | Life in Process |
-| 45 |  |  | 1200 Micrograms | A Trip Inside the Outside |
-| 51 | ![Cover](https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg) | 1977 | Various Artists | Golden Vibes |
-| 79 |  | 1993-09-27 | Juno Reactor | Laughing Gas |
-| 89 | ![Cover](https://i.discogs.com/9XeJdzg_MHBJL_ylkA0d87a6cSmh2jwBssG31dm_6_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjIt/MTU5MjIwNjYxNC05/MjI0LmpwZWc.jpeg) | 1993-10-18 | Juno Reactor | Transmission |
-| 98 |  | 1993-10-18 | Juno Reactor | Transmissions |
-| 93 |  | 1994-05-16 | Juno Reactor | High Energy Protons |
-| 54 | ![Cover](https://i.discogs.com/-wbmOr9bi3tXKTDSlVvdrQJoSAq631wCP4SsFQEryXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTEx/LTE1ODY3NzQ3MDQt/OTc1Mi5qcGVn.jpeg) | 1995 | Transwave | Hypnorhythm |
-| 86 |  | 1995 | Doof | Angelina &#x2F; Weird Karma |
-| 92 |  | 1995-10 | Juno Reactor | Guardian Angel |
-| 88 |  | 1995-12-11 | Man With No Name | Lunar Cycle |
-| 87 |  | 1996-02-01 | Man With No Name | Moment of Truth |
-| 82 | ![Cover](https://i.discogs.com/xKnFcK3MTUABddL_xx02SR8Rl8ZRUutLyRvjA0S4WT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDg4/LTEzMjY3MzkzNDku/anBlZw.jpeg) | 1996-04 | Etnica | Alien Protein |
-| 95 |  | 1996-06-03 | Cosmosis | Cosmology |
-| 80 | ![Cover](https://i.discogs.com/Hay_PT1hSRunUAMod4OkalWZKaFKfamEg8iCdqULMcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTA4/LTEzMjg0NzcxNDUu/anBlZw.jpeg) | 1996-09-02 | Astral Projection | Trust In Trance 2 |
-| 68 |  | 1996-09-10 | Juno Reactor | Samurai |
-| 65 | ![Cover](https://i.discogs.com/ktFV3RnrAcexCA0pUmrxFmOpA4Z-2GeHxG5B1viIxpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjE4/LTExNTk4NDg5MDYu/anBlZw.jpeg) | 1997 | Prana | Geomantik |
-| 71 |  | 1997-04-07 | Juno Reactor | Jungle High |
-| 91 |  | 1997-06 | Juno Reactor | God Is God |
-| 100 |  | 1997-06-18 | Juno Reactor | Bible of Dreams |
-| 94 |  | 1997-07-06 | Pleiadians | I.F.O. (Identified Flying Object) |
-| 81 |  | 1997-10-06 | Green Nuns Of The Revolution | Rock Bitch Mafia |
-| 55 | ![Cover](https://i.discogs.com/z3fWzjznUJ7PaeG4gFo0-dcKY4q8OK1OQiXov-KoKes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjQt/MTY0NDI1NjI4NS04/MDc4LmpwZWc.jpeg) | 1997-10-27 | The Green Nuns Of The Revolution | Rock Bitch Mafia |
-| 76 |  | 1999 | Blue Planet Corporation | Blue Planet |
-| 52 |  | 2000-04-11 | Negative Format | Distant Pulses |
-| 59 |  |  | Marco V vs. Jens | Loops &amp; Tings Relooped |
-| 60 | ![Cover](https://i.discogs.com/ekEcseo8SgnDPGyxOdRPVFwjd5SjTpwT-UYEg2H-jM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMi0x/MjEwNjY2NDEyLmpw/ZWc.jpeg) | 1995 | Koxbox | Forever After |
-| 62 |  | 1997-09-01 | Hallucinogen | The Lone Deranger |
-| 70 | ![Cover](https://i.discogs.com/4NZegwDcXURvmUX_ZSMb_KpvSFk6UdHKen6Lv4vpaJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjEw/OC0xMTY0NDIyODUy/LmpwZWc.jpeg) | 1999-02 | Space Cat | Beam Me Up |
-| 63 |  | 1999-03-01 | Infected Mushroom | The Gathering |
-| 99 | ![Cover](https://i.discogs.com/pO5xd6UjvE60IL-iiQ6YvTlqGKftMa2dDbGnoSZGPcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgx/LTEyMDg3NzU1MzUu/anBlZw.jpeg) | 1999-03-08 | Astral Projection | Another World |
-| 96 | ![Cover](https://i.discogs.com/PveToU-7sKoKecp94FLyzFboGB9AqYcw1Px3jdwDxko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mzk2/LTAwMS5qcGc.jpeg) | 1999-06-01 | Juno Reactor | Pistolero |
-| 67 |  | 1999-09-09 | Analog Pussy | Psycho Bitch From Hell |
-| 85 |  | 2000 | Asura | Code Eternity |
-| 83 |  | 2000-06-26 | Hallucinogen | Mi-loony-um! |
-| 75 |  | 2000-10-04 | Juno Reactor | Shango |
-| 77 |  | 2004-04-01 | Beat Bizarre | Pandoras Groove Box |
-| 90 |  | 2004-12-01 | 1200 Micrograms | The Time Machine |
-| 73 |  | 2005-10 | Khetzal | Corolle |
-| 74 |  | 2006-04-13 | MFG | Message From God |
-| 56 |  | 2007 | Lamat | Fearless |
-| 53 |  | 2007-11-12 | GOASIA | From Other Spaces |
-| 69 |  | 2009-04-17 | Filteria | Daze Of Our Lives |
-| 57 |  | 2011-05-13 | Artifact303 | Back To Space |
-| 84 |  | 2013-02-04 | Talamasca | Psychedelic Trance |
-| 61 |  | 2013-07-15 | Ovnimoon | Trancemutation of the Mind |
-| 72 | ![Cover](https://i.discogs.com/mvTUnbSR4NAFtpiGhtk_7C_MfBwGvRNkNtNmldF5Ba4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDQ5/NDgtMTQ1OTE1NTM2/MS03MjE5LmpwZWc.jpeg) | 2015-10 | Talamasca | The Time Machine |
-| 58 | ![Cover](https://i.discogs.com/UuHViTo6GU3hKCkum0uiCk2maDvs-1WqupoL2ZAOZw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDE0/NjQtMTQ4ODIxNjc0/NC04MTg5LmpwZWc.jpeg) | 2015-12-01 | Sumiruna | VLCHEMIC TRVNSMUTVTION |
-| 64 | ![Cover](https://i.discogs.com/FqXH0sO_DYiFCbW_VVW6ftkya9JM2QwYdmeSujqs7bA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE1/ODM0LTE0OTY5Nzcy/ODYtMTMyOS5qcGVn.jpeg) | 2017-06-05 | Talamasca | A Brief History Of Goa-Trance |
-| 97 | ![Cover](https://i.discogs.com/WqeTT27Z70hbZkAR7oYq6fLtdLC-1xa0twrslG8Zc6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU0/NTczLTE1NjAzNzA4/ODYtMTgxMy5qcGVn.jpeg) | 2017-07-10 | This Light | This Light |
-| 46 | ![Cover](https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg) | 2023 | Various Artists | The Mystery of the Thirteen Crystal Skulls |
-| 66 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2023 | Various Artists | Yellow Compilation |
-| 78 |  | 2023 | Various Artists | Raja Ram&#39;s Stash Bag |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for A Voyage Into Trance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>A Voyage Into Trance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Golden Vibes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Golden Vibes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td>1988-05</td>
+      <td>Front Line Assembly</td>
+      <td>Disorder</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>1992-11</td>
+      <td>Cosmic Baby</td>
+      <td>Stellar Supreme</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>1993-09-27</td>
+      <td>Juno Reactor</td>
+      <td>Laughing Gas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/9XeJdzg_MHBJL_ylkA0d87a6cSmh2jwBssG31dm_6_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjIt/MTU5MjIwNjYxNC05/MjI0LmpwZWc.jpeg" alt="Cover for Transmission" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-10-18</td>
+      <td>Juno Reactor</td>
+      <td>Transmission</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>1993-10-18</td>
+      <td>Juno Reactor</td>
+      <td>Transmissions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td>1994-05-16</td>
+      <td>Juno Reactor</td>
+      <td>High Energy Protons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/-wbmOr9bi3tXKTDSlVvdrQJoSAq631wCP4SsFQEryXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTEx/LTE1ODY3NzQ3MDQt/OTc1Mi5qcGVn.jpeg" alt="Cover for Hypnorhythm" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Transwave</td>
+      <td>Hypnorhythm</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/ekEcseo8SgnDPGyxOdRPVFwjd5SjTpwT-UYEg2H-jM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMi0x/MjEwNjY2NDEyLmpw/ZWc.jpeg" alt="Cover for Forever After" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Koxbox</td>
+      <td>Forever After</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Doof</td>
+      <td>Angelina &#x2F; Weird Karma</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>1995-08</td>
+      <td>Paradise Connection</td>
+      <td>Paradise Connection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>1995-10</td>
+      <td>Juno Reactor</td>
+      <td>Guardian Angel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>1995-12-11</td>
+      <td>Man With No Name</td>
+      <td>Lunar Cycle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>1996-02-01</td>
+      <td>Man With No Name</td>
+      <td>Moment of Truth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/xKnFcK3MTUABddL_xx02SR8Rl8ZRUutLyRvjA0S4WT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDg4/LTEzMjY3MzkzNDku/anBlZw.jpeg" alt="Cover for Alien Protein" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-04</td>
+      <td>Etnica</td>
+      <td>Alien Protein</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 58</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>1996-06-03</td>
+      <td>Cosmosis</td>
+      <td>Cosmology</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td>1996-06-24</td>
+      <td>Total Eclipse</td>
+      <td>Violent Relaxation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/Hay_PT1hSRunUAMod4OkalWZKaFKfamEg8iCdqULMcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTA4/LTEzMjg0NzcxNDUu/anBlZw.jpeg" alt="Cover for Israels Psychedelic Trance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-09-02</td>
+      <td>Astral Projection</td>
+      <td>Israels Psychedelic Trance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/Hay_PT1hSRunUAMod4OkalWZKaFKfamEg8iCdqULMcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTA4/LTEzMjg0NzcxNDUu/anBlZw.jpeg" alt="Cover for Trust In Trance 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-09-02</td>
+      <td>Astral Projection</td>
+      <td>Trust In Trance 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td>1996-09-10</td>
+      <td>Juno Reactor</td>
+      <td>Samurai</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 16</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/JHb-bEqPp4WnwTBJs-UNRD31MiK1B0dFkLoOnBKumds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDA2/LTExMDYyNDg4MTMu/anBn.jpeg" alt="Cover for The Prophecy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-09-20</td>
+      <td>MFG</td>
+      <td>The Prophecy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td>1996-11-18</td>
+      <td>Transwave</td>
+      <td>Phototropic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Mr. Credo</td>
+      <td>Fantasy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>MFG</td>
+      <td>New Kind of World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/ktFV3RnrAcexCA0pUmrxFmOpA4Z-2GeHxG5B1viIxpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjE4/LTExNTk4NDg5MDYu/anBlZw.jpeg" alt="Cover for Geomantik" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Prana</td>
+      <td>Geomantik</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td>1997-04-07</td>
+      <td>Juno Reactor</td>
+      <td>Jungle High</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>1997-06-18</td>
+      <td>Juno Reactor</td>
+      <td>Bible of Dreams</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 50</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 61</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 66</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>1997-06</td>
+      <td>Juno Reactor</td>
+      <td>God Is God</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>1997-07-06</td>
+      <td>Pleiadians</td>
+      <td>I.F.O. (Identified Flying Object)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 41</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>1997-07-28</td>
+      <td>Zodiac Youth</td>
+      <td>Devils Circus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>1997-09-01</td>
+      <td>Hallucinogen</td>
+      <td>The Lone Deranger</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 77</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>1997-10-06</td>
+      <td>Green Nuns Of The Revolution</td>
+      <td>Rock Bitch Mafia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/z3fWzjznUJ7PaeG4gFo0-dcKY4q8OK1OQiXov-KoKes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjQt/MTY0NDI1NjI4NS04/MDc4LmpwZWc.jpeg" alt="Cover for Rock Bitch Mafia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-10-27</td>
+      <td>The Green Nuns Of The Revolution</td>
+      <td>Rock Bitch Mafia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Asia 2001</td>
+      <td>Ama Zone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/Y8_vC2lJiQLa0fIdCX4mdH1dpo01n_xfpTHhoZjYSkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTAy/LTExMDUzNDMxNTMu/anBn.jpeg" alt="Cover for Delirious" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-01-19</td>
+      <td>Oforia</td>
+      <td>Delirious</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td>1998-04-27</td>
+      <td>Genetic</td>
+      <td>We Are...Genetic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/EJppJJIrairIgKX6Rp9E_SBbOYucqL9vjtdwwEBZogA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODA5/LTE0NDQwNjA2ODkt/Nzk3MS5qcGVn.jpeg" alt="Cover for Project Genesis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-08-10</td>
+      <td>MFG</td>
+      <td>Project Genesis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>1998-10-20</td>
+      <td>SFX</td>
+      <td>The Unreleased Tracks 89-94</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 81</li>
+            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Blue Planet Corporation</td>
+      <td>Blue Planet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 30</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td>1999-01-15</td>
+      <td>Power Source</td>
+      <td>Cosmic Waves</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/4NZegwDcXURvmUX_ZSMb_KpvSFk6UdHKen6Lv4vpaJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjEw/OC0xMTY0NDIyODUy/LmpwZWc.jpeg" alt="Cover for Beam Me Up" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-02</td>
+      <td>Space Cat</td>
+      <td>Beam Me Up</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td>1999-03-01</td>
+      <td>Infected Mushroom</td>
+      <td>The Gathering</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 89</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/pO5xd6UjvE60IL-iiQ6YvTlqGKftMa2dDbGnoSZGPcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgx/LTEyMDg3NzU1MzUu/anBlZw.jpeg" alt="Cover for Another World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-03-08</td>
+      <td>Astral Projection</td>
+      <td>Another World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 47</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/PveToU-7sKoKecp94FLyzFboGB9AqYcw1Px3jdwDxko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mzk2/LTAwMS5qcGc.jpeg" alt="Cover for Pistolero" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-06-01</td>
+      <td>Juno Reactor</td>
+      <td>Pistolero</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 45</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>1999-09-09</td>
+      <td>Analog Pussy</td>
+      <td>Psycho Bitch From Hell</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Asura</td>
+      <td>Code Eternity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/Svjb06NoOFvQ2KCU8mWBtia17ZAA9u6pZuh-R_uaROE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQz/Ni0xMjAyNTYyODg2/LmpwZWc.jpeg" alt="Cover for Sun Spot" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Dark Soho</td>
+      <td>Sun Spot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td>2000-04-11</td>
+      <td>Negative Format</td>
+      <td>Distant Pulses</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td>2000-05</td>
+      <td>Astral Projection</td>
+      <td>UNmixed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>2000-06-26</td>
+      <td>Hallucinogen</td>
+      <td>Mi-loony-um!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 54</li>
+            <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td>2000-10-04</td>
+      <td>Juno Reactor</td>
+      <td>Shango</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 8</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 13</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 57</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/TTKGGqGc2jt5xfCcWe2qu8F9atJccTaOPcDpEpmta5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDUw/MS0xMTExMjgzNzc1/LmpwZw.jpeg" alt="Cover for Celebration" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-04-17</td>
+      <td>Le Duc</td>
+      <td>Celebration</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/p9JGU4Ct8YR5jz9_VYpDQ6VUyYxyzH7Gr9J8Tqaemqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzM3/NC0xNjc3OTk1NzMy/LTc5ODMuanBlZw.jpeg" alt="Cover for The Zwara" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-11-19</td>
+      <td>Juno Reactor</td>
+      <td>The Zwara</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Trust in Trance 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Various Artists</td>
+      <td>Trust in Trance 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>2003-09</td>
+      <td>Etnoscope</td>
+      <td>Drums From The Dawn Of Time</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trio" | relative_url }}">trio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>2004-02-26</td>
+      <td>Jupiter 8000</td>
+      <td>Twisted Bliss</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2004-04-01</td>
+      <td>Beat Bizarre</td>
+      <td>Pandoras Groove Box</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 15</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>2004-12-01</td>
+      <td>1200 Micrograms</td>
+      <td>The Time Machine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 68</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>2005-04</td>
+      <td>Goa Gil</td>
+      <td>Karmageddon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>2005-10</td>
+      <td>Khetzal</td>
+      <td>Corolle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>2006-04-13</td>
+      <td>MFG</td>
+      <td>Message From God</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/rlI9ySiDbw939Sadi4f3K-kiNe96ZWZYsblKGYBmWGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDIy/Mi0xMTUyMTE4MjI2/LmpwZWc.jpeg" alt="Cover for Killer Machine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-06-26</td>
+      <td>Indra</td>
+      <td>Killer Machine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/nQ5HPs_D_I0EJ4_AWlp8jxjx9ZH5WjbhuE1auGjBcOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDUw/NS0xNDQxODE5MTcz/LTI2NjAuanBlZw.jpeg" alt="Cover for Primal Meltdown" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-10</td>
+      <td>The Nommos</td>
+      <td>Primal Meltdown</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Indra</td>
+      <td>Life of Faith</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Lamat</td>
+      <td>Fearless</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/iueoDWnL_bOpcM3G2ccsozAy7bikoWtWUD3n1My5HWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mzcy/MC0xMTc4ODc3NzEx/LmpwZWc.jpeg" alt="Cover for Backfire" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-01-12</td>
+      <td>Transwave</td>
+      <td>Backfire</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+      </td>
+      <td>2007-11-12</td>
+      <td>GOASIA</td>
+      <td>From Other Spaces</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>2008-03-14</td>
+      <td>Abomination</td>
+      <td>Planet X</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/5IpOvYuQubk3dGMgEqBKxbWsWfUM19gyCt6xjCg8Kuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM1/MjktMTI3NzUzNTI1/NC5qcGVn.jpeg" alt="Cover for Family of Light" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-11</td>
+      <td>Ovnimoon</td>
+      <td>Family of Light</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/brbopdqIygu6mrnggEhCn7w9zpQLZmU7xGXm5juStrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzgy/MzQtMTMyNzI1NDU5/OC5qcGVn.jpeg" alt="Cover for Born Underwater" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-03</td>
+      <td>Merr0w</td>
+      <td>Born Underwater</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>2009-04-17</td>
+      <td>Filteria</td>
+      <td>Daze Of Our Lives</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/0WC0XyEq1t4GX98zGqCE8DT2EA-BDP2nN5X9-HmI6XY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODI4/MDQtMTI0NDY2MDMw/Ny5naWY.jpeg" alt="Cover for Astral Experience" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-05-19</td>
+      <td>Afgin</td>
+      <td>Astral Experience</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/8B_l2vAd9TDGnc6_i6_lEUDOWEbjtSQcuWdUPvivQTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzU3/NzctMTI0OTQ2NjU4/Ny5qcGVn.jpeg" alt="Cover for A Blueprint For Survival" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-08-07</td>
+      <td>Blue Planet Corporation</td>
+      <td>A Blueprint For Survival</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/m48ZS3CjsP9PKsD6KUY6BzEouypJK8Mo21Gr8Q3iGtw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTQw/MTktMTI1NjIyODM3/Ny5qcGVn.jpeg" alt="Cover for Psychedelic Dreams" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-10-01</td>
+      <td>Radical Distortion</td>
+      <td>Psychedelic Dreams</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td>2010-04-28</td>
+      <td>Artha</td>
+      <td>Influencing Dreams</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>2010-08-20</td>
+      <td>Amithaba Buddha</td>
+      <td>Myself In The Mirror</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/Tw6Uy6ZDuOBwy8dAJ-nJusKcwFq-7Rd2un18QszYq2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzA5/MjctMTMwMDMxMTUz/NS5qcGVn.jpeg" alt="Cover for Parallel Fantasy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-02-18</td>
+      <td>Invisible Reality</td>
+      <td>Parallel Fantasy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>2011-05-13</td>
+      <td>Artifact303</td>
+      <td>Back To Space</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/Vpp0hjuxZ4YhKz_U_oAkNayRLfPyDLowH3VBx3O1CO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzky/MzctMTMxMjgyOTA4/NS5qcGVn.jpeg" alt="Cover for Ovnimoon – Magnetic Portal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-05</td>
+      <td>Ovnimoon</td>
+      <td>Ovnimoon – Magnetic Portal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td>2011-09-16</td>
+      <td>Tekniset</td>
+      <td>Teknical Problems</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/o_lDXpg34diulT7edw05QGUF05Ufl-r8QLSZjKCRg_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTQ1/MTYtMTM1ODc0Mzkz/Ny02MTAwLmpwZWc.jpeg" alt="Cover for Live at Primavera Sound 2012" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-07-30</td>
+      <td>James Ferraro</td>
+      <td>Live at Primavera Sound 2012</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td>2013-02-04</td>
+      <td>Talamasca</td>
+      <td>Psychedelic Trance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>2013-04-23</td>
+      <td>Juno Reactor</td>
+      <td>The Golden Sun of the Great East</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 46</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/Kh1TuCWENa3zHu-m6JelBC_uVuEQ6oL64F-weoJ-EFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzMw/MDEtMTQ5NTk2NzE4/NC0yNzQxLmpwZWc.jpeg" alt="Cover for Remix It" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-04</td>
+      <td>Cortex</td>
+      <td>Remix It</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>2013-07-15</td>
+      <td>Ovnimoon</td>
+      <td>Trancemutation of the Mind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 5</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/-GwnM7marhA2vnpNwCQVA01JemVmdkaWbKPD1yVITLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzk2/NTktMTQzMzYyNDEy/NS01MzI0LmpwZWc.jpeg" alt="Cover for The Future" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-08-05</td>
+      <td>Suntree</td>
+      <td>The Future</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td>2013-09-28</td>
+      <td>Filteria</td>
+      <td>Lost In The Wild</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>2014-03-31</td>
+      <td>Talamasca</td>
+      <td>Level 9</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/l9UHKOqiiq_Vr-GA7SGevyc-0xWk98QgJB1PIPUWQ60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTM3/MzYtMTQzMzU4MTI3/NC05MjUzLmpwZWc.jpeg" alt="Cover for The Golden Sun... Remixed" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-08-18</td>
+      <td>Juno Reactor</td>
+      <td>The Golden Sun... Remixed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/mvTUnbSR4NAFtpiGhtk_7C_MfBwGvRNkNtNmldF5Ba4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDQ5/NDgtMTQ1OTE1NTM2/MS03MjE5LmpwZWc.jpeg" alt="Cover for The Time Machine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10</td>
+      <td>Talamasca</td>
+      <td>The Time Machine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/UuHViTo6GU3hKCkum0uiCk2maDvs-1WqupoL2ZAOZw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDE0/NjQtMTQ4ODIxNjc0/NC04MTg5LmpwZWc.jpeg" alt="Cover for VLCHEMIC TRVNSMUTVTION" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-12-01</td>
+      <td>Sumiruna</td>
+      <td>VLCHEMIC TRVNSMUTVTION</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 1</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/mofGA275foill_LgAHpRtVEVCa_GAySpm_iubskooas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzEx/MjYtMTQ4NTQ3Nzc2/OS05NjA0LmpwZWc.jpeg" alt="Cover for Life in Process" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-09-26</td>
+      <td>Vertical Mode</td>
+      <td>Life in Process</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/FqXH0sO_DYiFCbW_VVW6ftkya9JM2QwYdmeSujqs7bA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE1/ODM0LTE0OTY5Nzcy/ODYtMTMyOS5qcGVn.jpeg" alt="Cover for A Brief History Of Goa-Trance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-05</td>
+      <td>Talamasca</td>
+      <td>A Brief History Of Goa-Trance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/WqeTT27Z70hbZkAR7oYq6fLtdLC-1xa0twrslG8Zc6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU0/NTczLTE1NjAzNzA4/ODYtMTgxMy5qcGVn.jpeg" alt="Cover for This Light" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-07-10</td>
+      <td>This Light</td>
+      <td>This Light</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 3</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Yellow Compilation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Yellow Compilation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 12</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Raja Ram&#39;s Stash Bag</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for The Mystery of the Thirteen Crystal Skulls" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>The Mystery of the Thirteen Crystal Skulls</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td></td>
+      <td>1200 Micrograms</td>
+      <td>A Trip Inside the Outside</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Marco V vs. Jens</td>
+      <td>Loops &amp; Tings Relooped</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
@@ -121,8 +2005,8 @@ Last updated: <time datetime="2025-10-20T07:34:39.477Z">Mon Oct 20 2025 10:34:39
 - [trance]({{ "/tags/trance" | relative_url }})
 - [progressive trance]({{ "/tags/progressive-trance" | relative_url }})
 - [progressive psytrance]({{ "/tags/progressive-psytrance" | relative_url }})
-- [madison beer]({{ "/tags/madison-beer" | relative_url }})
 - [hard trance]({{ "/tags/hard-trance" | relative_url }})
 - [techno]({{ "/tags/techno" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
 - [rave]({{ "/tags/rave" | relative_url }})
+- [ambient]({{ "/tags/ambient" | relative_url }})
