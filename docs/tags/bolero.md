@@ -9,110 +9,2003 @@ title: bolero
 
 Last updated: <time datetime="2025-10-23T03:23:18.910Z">Thu Oct 23 2025 06:23:18 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Bolero is a romantic Latin music style characterized by slow, sensual rhythms and deeply emotional lyrics about love and heartbreak. Originating in Cuba and flourishing throughout Latin America and Spain, it features smooth vocal delivery over gentle percussion and string arrangements. The genre emphasizes passionate storytelling and has been embraced across generations, from classic interpretations to contemporary Latin pop融合.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 6 |  |  | Narváez | Volver a verte (single) |
-| 8 |  |  | Petrol Presents | Greatest Songs Ever: Chile |
-| 9 |  |  | El Negro Ojeda | Antología - 50 Años |
-| 12 |  |  | Los Tiranos Del Norte | Para Mi Reina |
-| 18 |  |  | Orquesta La Terrifica | Hinca La Yegua |
-| 28 |  |  | Gildardo Álvarez | Te reto a que me olvides |
-| 30 |  |  | La Familia de Ukeleles | El Lobo |
-| 37 |  |  | Rodolfo Aicardi | Rodolfo - El Insuperable |
-| 47 |  |  | Oscar Agudelo | Los 30 Mejores |
-| 48 |  |  | Fernando Valadez | 20 Exitos de Oro |
-| 91 |  |  | Germán Valdés &quot;Tin Tan&quot; | Germán Valdés TIN-TAN Canciones de Sus Películas |
-| 1 | ![Cover](https://i.discogs.com/lAYP7Ky8X4DRtq-NZoBYp3VOTHZLGKTbp724Ob6-0Yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODg1/OTUtMTQ1MjY2NzQ5/My0zODQxLmpwZWc.jpeg) | 1949 | Trio Los Panchos | Leyendas Solamente Los Mejores |
-| 71 | ![Cover](https://i.discogs.com/NWs5NJlM6bkMlRfSEb3vJENHFDUJOwe-HAholW5pzq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODg3/MDItMTQ0NDAyNDA1/Mi03NTQ2LmpwZWc.jpeg) | 1953 | Daniel Santos | Serie Inmortales - Daniel Santos Y Sus Amigos |
-| 2 | ![Cover](https://i.discogs.com/eZREe4xYiZc9adqE3waQaa3QvsdDX47HIJjdLZ_e91Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjc1/MDgtMTYzMTU2OTIz/MC0zMjg0LmpwZWc.jpeg) | 1958 | Los Dandy&#39;s | Exitos Originales |
-| 52 | ![Cover](https://i.discogs.com/mc8Sc3KY7Noaq6eyU01SLGQ1uaKE4JssLIipGvjKh3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg1/NTcyLTE0OTg0MTY3/MTktNTEwNS5qcGVn.jpeg) | 1958 | Beny Moré | Canciones de Amor |
-| 7 | ![Cover](https://i.discogs.com/7Le33Wbf6zxZE9kA0LjcmB62DBxz_0s5mcF4v1-h0is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQy/NTQtMTYxNTIzNzA1/Ny03MTExLmpwZWc.jpeg) | 1959 | Eydie Gormé | Love Is A Season |
-| 94 |  | 1959 | Nat King Cole | A Mis Amigos |
-| 29 | ![Cover](https://i.discogs.com/cwgkLDUwCxQo2kSCFJb-mLf8afk_5ty1kDDvRaYCkII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzUw/ODMtMTQ2NDM1NTQ3/Ni03ODg4LmpwZWc.jpeg) | 1966 | Chucho Avellanet | Boleros De Amor |
-| 5 | ![Cover](https://i.discogs.com/6JnMKvW5J1AJXlacah4-veAfaZ2sSqlgKPmyGJEdnCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQw/NzA5LTE1ODU4ODU4/OTQtMTE1Ni5qcGVn.jpeg) | 1967 | Javier Solis | ORO 20 Grandes Canciones Vol. I + II |
-| 39 | ![Cover](https://i.discogs.com/eIBO6bO2y9I2FtTb9CuAxBEhrddw7wZzUp0vM0DGXP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTA1/MDItMTQzMjU3OTAw/Mi03MTQyLmpwZWc.jpeg) | 1968 | Agustín Lara | Grandes Éxitos de Agustín Lara |
-| 24 | ![Cover](https://i.discogs.com/BJvS1P-mhqaIOfzBx8mRmF0GI8WJhXE2C0GLYpdhFWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTgw/OTgtMTM3OTM4MDcw/OC05NDgxLmpwZWc.jpeg) | 1971 | Sociedade da Grã-Ordem Kavernista | Sociedade da Grã-Ordem Kavernista Apresenta Sessão das 10 |
-| 43 | ![Cover](https://i.discogs.com/gH1nWWh9Z8DC1mlqQ98anC7oJ8rmeQqY3k6P8b5Rh28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDM4/ODQtMTUxNTA5MjA0/Mi05MDc4LmpwZWc.jpeg) | 1972 | Pedro Vargas | En Bellas Artes 50 Aniversario |
-| 50 | ![Cover](https://i.discogs.com/zUzQc5chD_Pvxw7quO-8vIQPd6BlgG4O_E6L0xER4Bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjU3/OTktMTM5MDYwMjQ0/OC0yNzg3LmpwZWc.jpeg) | 1972 | Ismael Quintana | Dos Imagenes |
-| 66 | ![Cover](https://i.discogs.com/t3rHIu_hVtSWsVI1CcKPqgTDd0G7I4RO8m6eZPvTogk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzI1/NTgwLTE1MjEzMjE5/NjQtMTAyOS5qcGVn.jpeg) | 1975 | Tommy Olivencia y Su Orquesta | Planté Bandera |
-| 68 | ![Cover](https://i.discogs.com/RjAOcAuaE_ximp80PSQXDtWs47arH37ZSkNLFoz7mDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NzI0/NzQtMTQyMjI3MjEz/Mi04OTM5LmpwZWc.jpeg) | 1976 | Armando Manzanero | Duetos lo mejor de Armando Manzanero |
-| 79 |  | 1977 | Various Artists | Mexican Boleros |
-| 23 | ![Cover](https://i.discogs.com/C8ZigQHAfXDd6kpcoG1j72UKj-NlEmhoErl2CECNi0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg2/MzgtMTUwODU0ODA4/OS03ODY4LmpwZWc.jpeg) | 1979 | Chamaco Ramirez | Alive And Kicking |
-| 75 | ![Cover](https://i.discogs.com/5yxSWuUbOlWO_609gDACZWYE49pskGJK42pjk41IrZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzgx/MTUtMTQ1NTg2Mjg3/Ny02ODk5LmpwZWc.jpeg) | 1979 | José José | 20 Triunfadoras De Jose Jose |
-| 56 | ![Cover](https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg) | 1980 | Various Artists | Zamaan Ya Sukkar - Exotic Love Songs and Instrumentals from the Egyptian 60&#39;s |
-| 42 | ![Cover](https://i.discogs.com/ElPytkeD4otBXmhaY5CMqrXwY4Qj1qNysEjHAhz2w8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzU4/NDgwLTE2MTUyNjQ2/NjktNDExNC5qcGVn.jpeg) | 1981 | Los Tres Ases | Lo Mejor de lo Mejor |
-| 10 |  | 1982 | Eydie Gorme &amp; Trio Los Panchos | 18 Grandes Exitos |
-| 49 | ![Cover](https://i.discogs.com/OzqtJ84Gk6CiaNsAvdfYcayKgSjPKhG2qr62SskZcmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjk4/OS0xNDI2MDUzODA4/LTkzNTAuanBlZw.jpeg) | 1985 | Trafassi | Wasmasjien |
-| 13 | ![Cover](https://i.discogs.com/VxtEkRdISCA5g-Brho0dFM5VxKOm6t4czBn-ruqoWdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc4/ODMwLTE2MDY5NjE3/NTMtOTEzNy5qcGVn.jpeg) | 1986 | Toña la negra | Mexican Boleros |
-| 63 | ![Cover](https://i.discogs.com/rfIV2RK1VNGpbckLDB2aUElJumTbtGJ2n2iJwqTuyIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDYy/MTk2LTE1OTE5MTcw/ODgtMzEzMS5qcGVn.jpeg) | 1986 | Toña la negra | 15 Boleros |
-| 40 | ![Cover](https://i.discogs.com/ScyZ2dAT2F64G2BoGQ5arb3TM9So2YuztTgaMZPKrxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjY2/NzYtMTQ2MzM5Nzgx/My0xMDkwLmpwZWc.jpeg) | 1987 | Antonio Machin | Lo Mejor De Antonio Machin |
-| 34 | ![Cover](https://i.discogs.com/MKSLfNCg9LC5iR28WydWr3zITM11lagDLV6zsCH976s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDkw/NzIxLTE1Njc2NjY1/MzUtNzE0MC5qcGVn.jpeg) | 1988 | Javier Solis | Canta Javier |
-| 62 | ![Cover](https://i.discogs.com/AsJs3hO1myaFzKM2PB2gZ7sXgjQDYmvOs9DX-rQHfyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDkw/NzcwLTE1NjI5ODky/MjgtNzQwMy5qcGVn.jpeg) | 1988 | La Sonora Santanera | 15 EXITOS |
-| 57 | ![Cover](https://i.discogs.com/D9UGobIpumYL66RXR5YQyVlN8Ci8zrlvdXMRQbW4JTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTM1/MzgzLTE1ODcxMzk3/NDEtMzE4OS5qcGVn.jpeg) | 1989 | Trio Los Panchos | Grandes Exitos |
-| 69 | ![Cover](https://i.discogs.com/EkVjIUcsraXVDtnChbIn4fYRyTd_ljGYvvOw7_mckok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTc4/MDA2LTE1NDk0MDY1/MjYtMTI2MC5qcGVn.jpeg) | 1989 | Felipe Pirela | El Bolerista De América |
-| 44 | ![Cover](https://i.discogs.com/Erh4H5vjQ172jRtILVOPVFLi8MeV-8aQhDSUgBGnKEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODk1/MDgtMTQ1NDkzODM2/NS01MDM0LmpwZWc.jpeg) | 1990 | Los Panchos | Todo Panchos |
-| 26 | ![Cover](https://i.discogs.com/yi0bMZKeRK7eSKNB4zwf5GHa8wZRozwOcwYpef8Wh38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQy/NzQtMTM1MTcwNTY0/NS03NTE4LmpwZWc.jpeg) | 1991 | Lucero | Sólo Piens En Ti |
-| 84 | ![Cover](https://i.discogs.com/FN-PIDaYmV7NDx8_Of4_-MCnxNwNSYybZh7rjd-1ayM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU0/MTc1LTE2MDk2MjQ4/MjMtMzAxOC5qcGVn.jpeg) | 1991 | Armando Manzanero | 20 Exitos |
-| 31 | ![Cover](https://i.discogs.com/l_dTpsrAsfg8RqYLRlnnzQjvjkR--MJfoGkdfy_F6yk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzA1/MDc4LTE1Nzk5OTY3/MzYtMTk2Mi5qcGVn.jpeg) | 1992 | Javier Solis | Las Estrellas De La Hora Azul |
-| 38 | ![Cover](https://i.discogs.com/WtsnIYvYBUHm_3A392wygA0bkPGVRnCcnMUOscDqoXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE5/NDQxLTE2NDUzNTE4/NTgtNTYxNS5qcGVn.jpeg) | 1992 | Los Panchos | Eternamente...La Historia |
-| 81 | ![Cover](https://i.discogs.com/jq50a8d6g1pKDsB1VPfWvsqaLSYOa9un2OZjgyUqR1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTkw/Nzg1LTE2MDUwMDIz/NTQtNDY2My5qcGVn.jpeg) | 1992 | Los Panchos | Serie Inmortales - Grandes Éxitos |
-| 11 | ![Cover](https://i.discogs.com/xRGaFdI2yzSd6fL1ZUi3r_nuZaVF_u7ZXXRHGGk8dyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAz/NzE2LTE1NTczMzU5/MzgtNTA0OS5qcGVn.jpeg) | 1993 | Los Fronterizos | 20 Grandes Exitos |
-| 19 |  | 1993 | Linda Ronstadt | Boleros y Rancheras |
-| 76 | ![Cover](https://i.discogs.com/_msA90umjHhKJivN7Ak1iSGJmtPzPVjGjFX-SC13sXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjQ5/NS0xMTQ4NzE3NjE3/LmpwZWc.jpeg) | 1993 | Yanni | Yanni Voices |
-| 21 | ![Cover](https://i.discogs.com/YKyIhy7YTiAdqkd7SkILEcrZdVbufLiBp33Uev4hGEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTM1/MjUtMTUyNjMyOTQw/NC00Nzc5LmpwZWc.jpeg) | 1994 | Felipe Pirela | Felipe Pirela Interpreta A Rafael Hernández |
-| 53 | ![Cover](https://i.discogs.com/YKyIhy7YTiAdqkd7SkILEcrZdVbufLiBp33Uev4hGEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTM1/MjUtMTUyNjMyOTQw/NC00Nzc5LmpwZWc.jpeg) | 1994 | Felipe Pirela | Interpreta A Armando Manzanero |
-| 55 | ![Cover](https://i.discogs.com/Pv4xG2Rxw5ZGeEynFnL4I3bAL54SPbhoqXLwzq4ZmWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTY0/ODUtMTQ3Mzg1Nzc1/Ny0xNjk0LmpwZWc.jpeg) | 1994 | Alfredo Sadel | Sadel Canta a Los Panchos |
-| 65 | ![Cover](https://i.discogs.com/kQ2eSa2ECJq5MyXmUb5VnfKedzqB4MXfp7QYUbjQQBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDMx/OC0xMTU3MDc4MTQ2/LmpwZWc.jpeg) | 1994-02-15 | Stanley Jordan | Bolero |
-| 33 | ![Cover](https://i.discogs.com/pM6gYYQwZCMRmZ9QL3DsTYpXwk2UyYKeM8xv-QiJv6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjkx/MzQ5LTE1MzIyODA3/MDctODk5OS5qcGVn.jpeg) | 1995 | Lucero | Mi Secreto De Amor |
-| 35 | ![Cover](https://i.discogs.com/q8GNJG_f7s_SfZkLuOBbSaDwWLFIOCiGG1eNjwMmPiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk5/ODUwLTE0OTg3MTY2/MzItNTgwNy5qcGVn.jpeg) | 1995 | Jose Feliciano | Love Songs |
-| 60 |  | 1995-03-25 | Paulina Rubio | El Tiempo Es Oro |
-| 74 |  |  | Trmo Los Panchos | Todo Panchos |
-| 87 | ![Cover](https://i.discogs.com/HJn4Hq68R9LPuGC0uhfjtgxhv5dImJdylzJ4tFUkdjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Njkz/OTMtMTM5OTQ2MzA3/MC01Njc0LmpwZWc.jpeg) | 1971 | Javier Solis | Vida De Bohemio |
-| 88 | ![Cover](https://i.discogs.com/MabNPUCAEOKEoUv2iyi9tsi9VIYecw1m1DsFvmbMwJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDY1/NzEtMTU4MTAzMTk0/MS04NDEwLmpwZWc.jpeg) | 1993 | Lucero | Un Lu*Jo |
-| 17 | ![Cover](https://i.discogs.com/D1WI22zFUkjBbnjCDjj3fLAyNe_Q-rSfFNgJ9E6wzaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjE0/OTE0LTE2MjQyOTM1/MjUtNDY0NS5qcGVn.jpeg) | 1996 | Trio Los Panchos | Brillantes - Trio Los Panchos |
-| 41 | ![Cover](https://i.discogs.com/jzxDWoJfzNubv837NolxWoi-pVnkR5OW9auPV56VSVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODI5/NjUwLTE2Mjg3MjQ4/NzItMjMxOC5qcGVn.jpeg) | 1996 | Los Panchos | Canciones De Amor |
-| 67 | ![Cover](https://i.discogs.com/84ebH79i5MemNMj6aVMm4ebtg_85KZCtTDioY6eVqIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTA0/MjgtMTI4MTI3MjU5/My5qcGVn.jpeg) | 1996 | João Bosco | O Bebado E O Equilibrista |
-| 90 |  | 1996 | Chavela Vargas | Chavela Vargas |
-| 14 | ![Cover](https://i.discogs.com/2rP7Y9I_7u1Zcx3Sj9wfpn8gnqSBlo0oA4AhzYBajLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTY5/NTYtMTQzODcyNjQx/Ny01MTQyLmpwZWc.jpeg) | 1997 | Los Panchos | 30 Exitos |
-| 72 |  | 1997 | Agustín Lara | 20 Exitos |
-| 83 | ![Cover](https://i.discogs.com/0I3ob5WHR678IDVitHqilatMSXrOV7eel7kR0FGesIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODc0/ODMxLTE1NjMwNjYy/OTgtMzY2Ni5qcGVn.jpeg) | 1997 | Cristian Castro | Lo mejor de mi |
-| 78 |  | 1997-06-23 | Buena Vista Social Club | Buena Vista Social Club |
-| 64 | ![Cover](https://i.discogs.com/aQZgBsp6wCeTyh_FIfy73DmaVC9Sxt1zzyb5iRtFrnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDIz/NjEyLTE1OTEzMDQ5/MDctNjI4Mi5qcGVn.jpeg) | 1998 | Julio Jaramillo | Los Años De Oro - Lo Mejor |
-| 82 | ![Cover](https://i.discogs.com/0bioTJSeQpFjXh9kEYpVtzon54Wh0kcmOgbj8x3EzP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODU0/MzQtMTQ3Mjc3NTMy/Mi0xNjY3LmpwZWc.jpeg) | 1998 | Edith Márquez | Frente a ti |
-| 32 | ![Cover](https://i.discogs.com/iWSu1kVM3LET1vE7gMlZCwva23fSDlbVBnZzliofcyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY4/MzY0LTE1NzEwOTU1/MTktOTM2My5qcGVn.jpeg) | 1999 | Benny More | El Barbaro Del Ritmo |
-| 96 | ![Cover](https://i.discogs.com/tPfo_ss0oxZB31KjM3uOClpo5RlOiph8ErgSX238gdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE3/NDE3LTE2ODUxNjc3/NDYtNTY3NC5qcGVn.jpeg) | 2000 | Omara Portuondo | Omara Portuondo (Buena Vista Social Club Presents) |
-| 100 |  | 2000-05-23 | Paulina Rubio | Paulina |
-| 51 |  | 2001 | Tamara | Siempre |
-| 80 | ![Cover](https://i.discogs.com/fkf4p1IX1NGp1_YNBbGgllAe5WODe2wencELsNqnFa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzMx/MTA5LTE1NDE4MDA5/NjYtNTA4Ny5qcGVn.jpeg) | 2001 | Los Tres Ases | Epoca De Oro |
-| 46 | ![Cover](https://i.discogs.com/vcrFoZz76B0Is21JzRgqR1cnXPdnGeqaeVBXGqngMgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDY1/MDEtMTU3Njk3MTMz/Mi01MzU1LmpwZWc.jpeg) | 2002-10-08 | Luis Miguel | Mis Boleros Favoritos |
-| 4 | ![Cover](https://i.discogs.com/3VJcHwWe_WGBcWkUR7N_Jx6DDlW_8tfg7yhe9eZs3yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ4/MjEyLTE1ODcwNzk3/NTAtNTM4OS5qcGVn.jpeg) | 2003 | Rafael Cortijo | El Sueño del Maestro |
-| 54 | ![Cover](https://i.discogs.com/opGI96JLpZKlJkgDih8DZs29Q886aWke6Xt6-vPrxdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU2/ODQ3LTE1NjI2ODI4/NzgtMzI2Ny5wbmc.jpeg) | 2003 | Ilan Chester | Cancionero Del Amor Puerto Riqueño |
-| 70 | ![Cover](https://i.discogs.com/gC7JnLArLxBUG17Yq6n8DY3Bplnlp8ezjGaZPhpyhgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjMw/MTU1LTE2MTQ1MzQ0/OTMtOTcxNS5qcGVn.jpeg) | 2003 | Banda Calypso | Volume 4 |
-| 73 | ![Cover](https://i.discogs.com/SGQYvFx7OlUnTg5zHZh3vWlXEILB8gKYGcRl-eDIa84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzE1/OTkwLTE2NDg3NjYy/MDgtNjA5NS5qcGVn.jpeg) | 2003 | Jose Jose | El Principe con trio V2 |
-| 45 | ![Cover](https://i.discogs.com/FC7fKz_FqhBACqKiqdSeuKfWFe9Jtle6VRXdcT3PqrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTY0/NzItMTQzODcxODE1/OS0yNTE1LmpwZWc.jpeg) | 2005 | Los Tri-O | Parece Que Fue Ayer |
-| 15 |  | 2006 | Various Artists | Olimpo Cárdenas &amp; Julio Jaramillo - 30 Exitos Inmortales |
-| 95 |  | 2006 | Chico Trujillo | Cumbia Chilombiana |
-| 25 | ![Cover](https://i.discogs.com/x1SXroHi7FoKQrYL0573Y7r7jevfcxgXJTy-fDGCrjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg4/MzgtMTY3ODU0Mzgx/MC00NDY4LmpwZWc.jpeg) | 2006-12-04 | Andrea Bocelli | Amico mio |
-| 59 | ![Cover](https://i.discogs.com/EmeEWv47cUQUzyFfIIsrVhkXSPbvsh1gmZC4bMnhVGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTcz/NDA0LTE1MTg3Mzkw/ODctNTA4NC5qcGVn.jpeg) | 2007 | Lucho Gatica | The Originals - Lucho Gatica In Concert |
-| 99 | ![Cover](https://i.discogs.com/dQpQDiEjYLFAie9lFa8lm34y4mVG8lExlBlZslH-2p8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUy/NTYtMTIwOTgwNDMx/OC5qcGVn.jpeg) | 2007 | Héctor Lavoe | Vigilante |
-| 86 | ![Cover](https://i.discogs.com/mTV6FYZkI3DJML0u6KnTO2rcecnBaITcqAG1IbAXcQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTI0/MTYyLTE2NTgxNTg3/OTgtNDM3OS5wbmc.jpeg) | 2008 | Buena Vista Social Club | Buena Vista Social Club (25th Anniversary Edition) |
-| 16 | ![Cover](https://i.discogs.com/QEutnl5hcFx7uBHxI2IDMaT-PinfTXhixUinOSK16GU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDY2/OS0xNjAwMjk5Njk5/LTY0MjkuanBlZw.jpeg) | 2009 | Paulina Rubio | Ni Rosas, Ni Juguetes (feat. Jenni Rivera) [Versión Banda] - Single |
-| 20 |  | 2009 | Los Tres Caballeros | Escenciales |
-| 77 | ![Cover](https://i.discogs.com/4EU_-aDDNXN3Q7Pk893lZkMtEfZXD-PD8beg_ACCZyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjM5/MTEtMTI1MTg1MjU4/MC5qcGVn.jpeg) | 2009-03-24 | Yanni | Voices |
-| 3 | ![Cover](https://i.discogs.com/Z6ulbQlKRV_vPrb1CgJDwS_f2kVPj4vf5IqBmj_NzWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzA4/NDktMTM4MTY2MzM5/Ny05MTQ0LmpwZWc.jpeg) | 2009-06-23 | Paulina Rubio | Gran City Pop |
-| 36 | ![Cover](https://i.discogs.com/6eSC4meZCv8dtkN2Aa-K80TTAiF-betCQoOdobNvQCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjI0/NjItMTQxOTkxNTcw/MS0zMjIyLmpwZWc.jpeg) | 2010-04-27 | Paulina Rubio | Gran City Pop (International Regular Deluxe Version) |
-| 27 | ![Cover](https://i.discogs.com/t1pyIyoORB2JY3BtMZOmXS-sg-w-J74B4Ax7dHjJY4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTA5/NTEtMTMxNTI4MTU3/MS5naWY.jpeg) | 2011 | Los Macuanos | Ritmo de Amor | Remixes |
-| 89 | ![Cover](https://i.discogs.com/PNtk7JplhbP5MLNoRBEpW75wzFjH4-qC39l4ruqs3kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzUw/NjQtMTMyMzQ3NjY1/Ny5qcGVn.jpeg) | 2013-07-26 | Natalie Cole | Natalie Cole En Español |
-| 61 | ![Cover](https://i.discogs.com/-agETlwFXILBxuVO5UmEm8U51V2VKjyV9_dUGqlAB2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTE2/NzYxLTE3MzAwNDQw/MjctMjY4Mi5qcGVn.jpeg) | 2014 | Omar Chaparro | Como Caído del Cielo |
-| 85 | ![Cover](https://i.discogs.com/Ux7Myw2Yy_qcPxtOuLoVlTNyfdHJjLH2HmuXAUTPbQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTM4/NTg4LTE2MTYyOTI1/NjgtODk5NC5qcGVn.jpeg) | 2015-12-18 | Aymoréco | Aymoréco |
-| 93 | ![Cover](https://i.discogs.com/-n3StJY2L7m_ZIpuaW6UQUMJhzuRqWQOMaVxQ2OQjdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTYx/MTE3LTE1OTQ0OTU1/NTktODEwMi5qcGVn.jpeg) | 2018-10-12 | Natalia Lafourcade | Un Canto por México, Vol. II |
-| 97 | ![Cover](https://i.discogs.com/Bxsty0ZS1gKqCpzB5HQ_B5kE4lyC7MbE9Js39fjOn3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjE2/MTQxLTE2ODUyODc4/NDgtMzcwOS5qcGVn.jpeg) | 2019 | Daniel, Me Estás Matando | Suspiros |
-| 98 | ![Cover](https://i.discogs.com/VQIyFGFHGqmhqkXM6bOn9Q2y7DidvcC_4WjTAZNYFyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM1/ODQ5LTE2NTgzNjk5/NjctNjYyNy5qcGVn.jpeg) | 2020-11-18 | Kali Uchis | Sin Miedo (del Amor y Otros Demonios) ∞ |
-| 22 | ![Cover](https://i.discogs.com/iC4h9C3vrC7Kp662m2I5TuuukOGFNxbIBRztdXcUueY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTU0/ODUwLTE3MTA5NTk5/ODUtMTA1OS5wbmc.jpeg) | 2022 | Boleros | Boleros Inolvidables |
-| 92 | ![Cover](https://i.discogs.com/XLgBepPcYjpnWLeFRHfYEqx10MtPROyRrdfL8kl1_J8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjAy/NDAxLTE2ODUxNjI1/MDAtMzEzNC5qcGVn.jpeg) | 2022-10-28 | Natalia Lafourcade | De todas las flores |
-| 58 | ![Cover](https://i.discogs.com/vnCERyhVCAV08MgNIucqUjw28yIrcO9mt8Hz5OPWlRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzM4/NjUyLTE3MjYzNzYz/NTUtNTM0OS5qcGVn.jpeg) | 2023-08-01 | Enjambre | Torna Noches De Salón |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/lAYP7Ky8X4DRtq-NZoBYp3VOTHZLGKTbp724Ob6-0Yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODg1/OTUtMTQ1MjY2NzQ5/My0zODQxLmpwZWc.jpeg" alt="Cover for Leyendas Solamente Los Mejores" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1949</td>
+      <td>Trio Los Panchos</td>
+      <td>Leyendas Solamente Los Mejores</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/NWs5NJlM6bkMlRfSEb3vJENHFDUJOwe-HAholW5pzq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODg3/MDItMTQ0NDAyNDA1/Mi03NTQ2LmpwZWc.jpeg" alt="Cover for Serie Inmortales - Daniel Santos Y Sus Amigos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1953</td>
+      <td>Daniel Santos</td>
+      <td>Serie Inmortales - Daniel Santos Y Sus Amigos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/mc8Sc3KY7Noaq6eyU01SLGQ1uaKE4JssLIipGvjKh3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg1/NTcyLTE0OTg0MTY3/MTktNTEwNS5qcGVn.jpeg" alt="Cover for Canciones de Amor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1958</td>
+      <td>Beny Moré</td>
+      <td>Canciones de Amor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 66</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/eZREe4xYiZc9adqE3waQaa3QvsdDX47HIJjdLZ_e91Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNjc1/MDgtMTYzMTU2OTIz/MC0zMjg0LmpwZWc.jpeg" alt="Cover for Exitos Originales" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1958</td>
+      <td>Los Dandy&#39;s</td>
+      <td>Exitos Originales</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/7Le33Wbf6zxZE9kA0LjcmB62DBxz_0s5mcF4v1-h0is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQy/NTQtMTYxNTIzNzA1/Ny03MTExLmpwZWc.jpeg" alt="Cover for Love Is A Season" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1959</td>
+      <td>Eydie Gormé</td>
+      <td>Love Is A Season</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 14</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>1959</td>
+      <td>Nat King Cole</td>
+      <td>A Mis Amigos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/cwgkLDUwCxQo2kSCFJb-mLf8afk_5ty1kDDvRaYCkII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NzUw/ODMtMTQ2NDM1NTQ3/Ni03ODg4LmpwZWc.jpeg" alt="Cover for Boleros De Amor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1966</td>
+      <td>Chucho Avellanet</td>
+      <td>Boleros De Amor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/6JnMKvW5J1AJXlacah4-veAfaZ2sSqlgKPmyGJEdnCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQw/NzA5LTE1ODU4ODU4/OTQtMTE1Ni5qcGVn.jpeg" alt="Cover for ORO 20 Grandes Canciones Vol. I + II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1967</td>
+      <td>Javier Solis</td>
+      <td>ORO 20 Grandes Canciones Vol. I + II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/eIBO6bO2y9I2FtTb9CuAxBEhrddw7wZzUp0vM0DGXP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTA1/MDItMTQzMjU3OTAw/Mi03MTQyLmpwZWc.jpeg" alt="Cover for Grandes Éxitos de Agustín Lara" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968</td>
+      <td>Agustín Lara</td>
+      <td>Grandes Éxitos de Agustín Lara</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/BJvS1P-mhqaIOfzBx8mRmF0GI8WJhXE2C0GLYpdhFWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTgw/OTgtMTM3OTM4MDcw/OC05NDgxLmpwZWc.jpeg" alt="Cover for Sociedade da Grã-Ordem Kavernista Apresenta Sessão das 10" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Sociedade da Grã-Ordem Kavernista</td>
+      <td>Sociedade da Grã-Ordem Kavernista Apresenta Sessão das 10</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/HJn4Hq68R9LPuGC0uhfjtgxhv5dImJdylzJ4tFUkdjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Njkz/OTMtMTM5OTQ2MzA3/MC01Njc0LmpwZWc.jpeg" alt="Cover for Vida De Bohemio" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Javier Solis</td>
+      <td>Vida De Bohemio</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/gH1nWWh9Z8DC1mlqQ98anC7oJ8rmeQqY3k6P8b5Rh28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDM4/ODQtMTUxNTA5MjA0/Mi05MDc4LmpwZWc.jpeg" alt="Cover for En Bellas Artes 50 Aniversario" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Pedro Vargas</td>
+      <td>En Bellas Artes 50 Aniversario</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/zUzQc5chD_Pvxw7quO-8vIQPd6BlgG4O_E6L0xER4Bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjU3/OTktMTM5MDYwMjQ0/OC0yNzg3LmpwZWc.jpeg" alt="Cover for Dos Imagenes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Ismael Quintana</td>
+      <td>Dos Imagenes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/t3rHIu_hVtSWsVI1CcKPqgTDd0G7I4RO8m6eZPvTogk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzI1/NTgwLTE1MjEzMjE5/NjQtMTAyOS5qcGVn.jpeg" alt="Cover for Planté Bandera" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975</td>
+      <td>Tommy Olivencia y Su Orquesta</td>
+      <td>Planté Bandera</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/RjAOcAuaE_ximp80PSQXDtWs47arH37ZSkNLFoz7mDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NzI0/NzQtMTQyMjI3MjEz/Mi04OTM5LmpwZWc.jpeg" alt="Cover for Duetos lo mejor de Armando Manzanero" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Armando Manzanero</td>
+      <td>Duetos lo mejor de Armando Manzanero</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Mexican Boleros</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/C8ZigQHAfXDd6kpcoG1j72UKj-NlEmhoErl2CECNi0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg2/MzgtMTUwODU0ODA4/OS03ODY4LmpwZWc.jpeg" alt="Cover for Alive And Kicking" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Chamaco Ramirez</td>
+      <td>Alive And Kicking</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/5yxSWuUbOlWO_609gDACZWYE49pskGJK42pjk41IrZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzgx/MTUtMTQ1NTg2Mjg3/Ny02ODk5LmpwZWc.jpeg" alt="Cover for 20 Triunfadoras De Jose Jose" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>José José</td>
+      <td>20 Triunfadoras De Jose Jose</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 87.2340425531915 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Zamaan Ya Sukkar - Exotic Love Songs and Instrumentals from the Egyptian 60&#39;s" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Various Artists</td>
+      <td>Zamaan Ya Sukkar - Exotic Love Songs and Instrumentals from the Egyptian 60&#39;s</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/ElPytkeD4otBXmhaY5CMqrXwY4Qj1qNysEjHAhz2w8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzU4/NDgwLTE2MTUyNjQ2/NjktNDExNC5qcGVn.jpeg" alt="Cover for Lo Mejor de lo Mejor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981</td>
+      <td>Los Tres Ases</td>
+      <td>Lo Mejor de lo Mejor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td>1982</td>
+      <td>Eydie Gorme &amp; Trio Los Panchos</td>
+      <td>18 Grandes Exitos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/OzqtJ84Gk6CiaNsAvdfYcayKgSjPKhG2qr62SskZcmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjk4/OS0xNDI2MDUzODA4/LTkzNTAuanBlZw.jpeg" alt="Cover for Wasmasjien" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Trafassi</td>
+      <td>Wasmasjien</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/VxtEkRdISCA5g-Brho0dFM5VxKOm6t4czBn-ruqoWdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc4/ODMwLTE2MDY5NjE3/NTMtOTEzNy5qcGVn.jpeg" alt="Cover for Mexican Boleros" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Toña la negra</td>
+      <td>Mexican Boleros</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/rfIV2RK1VNGpbckLDB2aUElJumTbtGJ2n2iJwqTuyIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDYy/MTk2LTE1OTE5MTcw/ODgtMzEzMS5qcGVn.jpeg" alt="Cover for 15 Boleros" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Toña la negra</td>
+      <td>15 Boleros</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/ScyZ2dAT2F64G2BoGQ5arb3TM9So2YuztTgaMZPKrxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjY2/NzYtMTQ2MzM5Nzgx/My0xMDkwLmpwZWc.jpeg" alt="Cover for Lo Mejor De Antonio Machin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Antonio Machin</td>
+      <td>Lo Mejor De Antonio Machin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/MKSLfNCg9LC5iR28WydWr3zITM11lagDLV6zsCH976s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDkw/NzIxLTE1Njc2NjY1/MzUtNzE0MC5qcGVn.jpeg" alt="Cover for Canta Javier" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Javier Solis</td>
+      <td>Canta Javier</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/AsJs3hO1myaFzKM2PB2gZ7sXgjQDYmvOs9DX-rQHfyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDkw/NzcwLTE1NjI5ODky/MjgtNzQwMy5qcGVn.jpeg" alt="Cover for 15 EXITOS" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>La Sonora Santanera</td>
+      <td>15 EXITOS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/D9UGobIpumYL66RXR5YQyVlN8Ci8zrlvdXMRQbW4JTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTM1/MzgzLTE1ODcxMzk3/NDEtMzE4OS5qcGVn.jpeg" alt="Cover for Grandes Exitos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Trio Los Panchos</td>
+      <td>Grandes Exitos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/EkVjIUcsraXVDtnChbIn4fYRyTd_ljGYvvOw7_mckok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTc4/MDA2LTE1NDk0MDY1/MjYtMTI2MC5qcGVn.jpeg" alt="Cover for El Bolerista De América" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Felipe Pirela</td>
+      <td>El Bolerista De América</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/Erh4H5vjQ172jRtILVOPVFLi8MeV-8aQhDSUgBGnKEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODk1/MDgtMTQ1NDkzODM2/NS01MDM0LmpwZWc.jpeg" alt="Cover for Todo Panchos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Los Panchos</td>
+      <td>Todo Panchos</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/yi0bMZKeRK7eSKNB4zwf5GHa8wZRozwOcwYpef8Wh38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQy/NzQtMTM1MTcwNTY0/NS03NTE4LmpwZWc.jpeg" alt="Cover for Sólo Piens En Ti" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Lucero</td>
+      <td>Sólo Piens En Ti</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 19</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/FN-PIDaYmV7NDx8_Of4_-MCnxNwNSYybZh7rjd-1ayM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU0/MTc1LTE2MDk2MjQ4/MjMtMzAxOC5qcGVn.jpeg" alt="Cover for 20 Exitos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Armando Manzanero</td>
+      <td>20 Exitos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/l_dTpsrAsfg8RqYLRlnnzQjvjkR--MJfoGkdfy_F6yk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzA1/MDc4LTE1Nzk5OTY3/MzYtMTk2Mi5qcGVn.jpeg" alt="Cover for Las Estrellas De La Hora Azul" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Javier Solis</td>
+      <td>Las Estrellas De La Hora Azul</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 17</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/WtsnIYvYBUHm_3A392wygA0bkPGVRnCcnMUOscDqoXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE5/NDQxLTE2NDUzNTE4/NTgtNTYxNS5qcGVn.jpeg" alt="Cover for Eternamente...La Historia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Los Panchos</td>
+      <td>Eternamente...La Historia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/jq50a8d6g1pKDsB1VPfWvsqaLSYOa9un2OZjgyUqR1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTkw/Nzg1LTE2MDUwMDIz/NTQtNDY2My5qcGVn.jpeg" alt="Cover for Serie Inmortales - Grandes Éxitos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Los Panchos</td>
+      <td>Serie Inmortales - Grandes Éxitos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/_msA90umjHhKJivN7Ak1iSGJmtPzPVjGjFX-SC13sXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NjQ5/NS0xMTQ4NzE3NjE3/LmpwZWc.jpeg" alt="Cover for Yanni Voices" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Yanni</td>
+      <td>Yanni Voices</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 11</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 45</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 60</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/MabNPUCAEOKEoUv2iyi9tsi9VIYecw1m1DsFvmbMwJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDY1/NzEtMTU4MTAzMTk0/MS04NDEwLmpwZWc.jpeg" alt="Cover for Un Lu*Jo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Lucero</td>
+      <td>Un Lu*Jo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 38</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 65</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 74</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 85</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 88</li>
+            <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 89</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/xRGaFdI2yzSd6fL1ZUi3r_nuZaVF_u7ZXXRHGGk8dyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjAz/NzE2LTE1NTczMzU5/MzgtNTA0OS5qcGVn.jpeg" alt="Cover for 20 Grandes Exitos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Los Fronterizos</td>
+      <td>20 Grandes Exitos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Linda Ronstadt</td>
+      <td>Boleros y Rancheras</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/YKyIhy7YTiAdqkd7SkILEcrZdVbufLiBp33Uev4hGEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTM1/MjUtMTUyNjMyOTQw/NC00Nzc5LmpwZWc.jpeg" alt="Cover for Felipe Pirela Interpreta A Rafael Hernández" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Felipe Pirela</td>
+      <td>Felipe Pirela Interpreta A Rafael Hernández</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/YKyIhy7YTiAdqkd7SkILEcrZdVbufLiBp33Uev4hGEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTM1/MjUtMTUyNjMyOTQw/NC00Nzc5LmpwZWc.jpeg" alt="Cover for Interpreta A Armando Manzanero" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Felipe Pirela</td>
+      <td>Interpreta A Armando Manzanero</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/Pv4xG2Rxw5ZGeEynFnL4I3bAL54SPbhoqXLwzq4ZmWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTY0/ODUtMTQ3Mzg1Nzc1/Ny0xNjk0LmpwZWc.jpeg" alt="Cover for Sadel Canta a Los Panchos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Alfredo Sadel</td>
+      <td>Sadel Canta a Los Panchos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/kQ2eSa2ECJq5MyXmUb5VnfKedzqB4MXfp7QYUbjQQBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDMx/OC0xMTU3MDc4MTQ2/LmpwZWc.jpeg" alt="Cover for Bolero" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-02-15</td>
+      <td>Stanley Jordan</td>
+      <td>Bolero</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/pM6gYYQwZCMRmZ9QL3DsTYpXwk2UyYKeM8xv-QiJv6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjkx/MzQ5LTE1MzIyODA3/MDctODk5OS5qcGVn.jpeg" alt="Cover for Mi Secreto De Amor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Lucero</td>
+      <td>Mi Secreto De Amor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 41</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/q8GNJG_f7s_SfZkLuOBbSaDwWLFIOCiGG1eNjwMmPiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk5/ODUwLTE0OTg3MTY2/MzItNTgwNy5qcGVn.jpeg" alt="Cover for Love Songs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Jose Feliciano</td>
+      <td>Love Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>1995-03-25</td>
+      <td>Paulina Rubio</td>
+      <td>El Tiempo Es Oro</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europop" | relative_url }}">europop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 57</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/D1WI22zFUkjBbnjCDjj3fLAyNe_Q-rSfFNgJ9E6wzaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjE0/OTE0LTE2MjQyOTM1/MjUtNDY0NS5qcGVn.jpeg" alt="Cover for Brillantes - Trio Los Panchos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Trio Los Panchos</td>
+      <td>Brillantes - Trio Los Panchos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/jzxDWoJfzNubv837NolxWoi-pVnkR5OW9auPV56VSVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODI5/NjUwLTE2Mjg3MjQ4/NzItMjMxOC5qcGVn.jpeg" alt="Cover for Canciones De Amor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Los Panchos</td>
+      <td>Canciones De Amor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/84ebH79i5MemNMj6aVMm4ebtg_85KZCtTDioY6eVqIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTA0/MjgtMTI4MTI3MjU5/My5qcGVn.jpeg" alt="Cover for O Bebado E O Equilibrista" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>João Bosco</td>
+      <td>O Bebado E O Equilibrista</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Chavela Vargas</td>
+      <td>Chavela Vargas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/2rP7Y9I_7u1Zcx3Sj9wfpn8gnqSBlo0oA4AhzYBajLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTY5/NTYtMTQzODcyNjQx/Ny01MTQyLmpwZWc.jpeg" alt="Cover for 30 Exitos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Los Panchos</td>
+      <td>30 Exitos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Agustín Lara</td>
+      <td>20 Exitos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/0I3ob5WHR678IDVitHqilatMSXrOV7eel7kR0FGesIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODc0/ODMxLTE1NjMwNjYy/OTgtMzY2Ni5qcGVn.jpeg" alt="Cover for Lo mejor de mi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Cristian Castro</td>
+      <td>Lo mejor de mi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>1997-06-23</td>
+      <td>Buena Vista Social Club</td>
+      <td>Buena Vista Social Club</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 31</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 95</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 99</li>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/aQZgBsp6wCeTyh_FIfy73DmaVC9Sxt1zzyb5iRtFrnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDIz/NjEyLTE1OTEzMDQ5/MDctNjI4Mi5qcGVn.jpeg" alt="Cover for Los Años De Oro - Lo Mejor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Julio Jaramillo</td>
+      <td>Los Años De Oro - Lo Mejor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/0bioTJSeQpFjXh9kEYpVtzon54Wh0kcmOgbj8x3EzP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODU0/MzQtMTQ3Mjc3NTMy/Mi0xNjY3LmpwZWc.jpeg" alt="Cover for Frente a ti" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Edith Márquez</td>
+      <td>Frente a ti</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/iWSu1kVM3LET1vE7gMlZCwva23fSDlbVBnZzliofcyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjY4/MzY0LTE1NzEwOTU1/MTktOTM2My5qcGVn.jpeg" alt="Cover for El Barbaro Del Ritmo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Benny More</td>
+      <td>El Barbaro Del Ritmo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 60</li>
+            <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/tPfo_ss0oxZB31KjM3uOClpo5RlOiph8ErgSX238gdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODE3/NDE3LTE2ODUxNjc3/NDYtNTY3NC5qcGVn.jpeg" alt="Cover for Omara Portuondo (Buena Vista Social Club Presents)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Omara Portuondo</td>
+      <td>Omara Portuondo (Buena Vista Social Club Presents)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>2000-05-23</td>
+      <td>Paulina Rubio</td>
+      <td>Paulina</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 58</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Tamara</td>
+      <td>Siempre</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/fkf4p1IX1NGp1_YNBbGgllAe5WODe2wencELsNqnFa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzMx/MTA5LTE1NDE4MDA5/NjYtNTA4Ny5qcGVn.jpeg" alt="Cover for Epoca De Oro" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Los Tres Ases</td>
+      <td>Epoca De Oro</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/vcrFoZz76B0Is21JzRgqR1cnXPdnGeqaeVBXGqngMgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDY1/MDEtMTU3Njk3MTMz/Mi01MzU1LmpwZWc.jpeg" alt="Cover for Mis Boleros Favoritos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-10-08</td>
+      <td>Luis Miguel</td>
+      <td>Mis Boleros Favoritos</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/gC7JnLArLxBUG17Yq6n8DY3Bplnlp8ezjGaZPhpyhgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjMw/MTU1LTE2MTQ1MzQ0/OTMtOTcxNS5qcGVn.jpeg" alt="Cover for Volume 4" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Banda Calypso</td>
+      <td>Volume 4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/3VJcHwWe_WGBcWkUR7N_Jx6DDlW_8tfg7yhe9eZs3yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ4/MjEyLTE1ODcwNzk3/NTAtNTM4OS5qcGVn.jpeg" alt="Cover for El Sueño del Maestro" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Rafael Cortijo</td>
+      <td>El Sueño del Maestro</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/opGI96JLpZKlJkgDih8DZs29Q886aWke6Xt6-vPrxdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU2/ODQ3LTE1NjI2ODI4/NzgtMzI2Ny5wbmc.jpeg" alt="Cover for Cancionero Del Amor Puerto Riqueño" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Ilan Chester</td>
+      <td>Cancionero Del Amor Puerto Riqueño</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/SGQYvFx7OlUnTg5zHZh3vWlXEILB8gKYGcRl-eDIa84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzE1/OTkwLTE2NDg3NjYy/MDgtNjA5NS5qcGVn.jpeg" alt="Cover for El Principe con trio V2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Jose Jose</td>
+      <td>El Principe con trio V2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 87.2340425531915 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/FC7fKz_FqhBACqKiqdSeuKfWFe9Jtle6VRXdcT3PqrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTY0/NzItMTQzODcxODE1/OS0yNTE1LmpwZWc.jpeg" alt="Cover for Parece Que Fue Ayer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Los Tri-O</td>
+      <td>Parece Que Fue Ayer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Various Artists</td>
+      <td>Olimpo Cárdenas &amp; Julio Jaramillo - 30 Exitos Inmortales</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Chico Trujillo</td>
+      <td>Cumbia Chilombiana</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/x1SXroHi7FoKQrYL0573Y7r7jevfcxgXJTy-fDGCrjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg4/MzgtMTY3ODU0Mzgx/MC00NDY4LmpwZWc.jpeg" alt="Cover for Amico mio" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-12-04</td>
+      <td>Andrea Bocelli</td>
+      <td>Amico mio</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/dQpQDiEjYLFAie9lFa8lm34y4mVG8lExlBlZslH-2p8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUy/NTYtMTIwOTgwNDMx/OC5qcGVn.jpeg" alt="Cover for Vigilante" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Héctor Lavoe</td>
+      <td>Vigilante</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/EmeEWv47cUQUzyFfIIsrVhkXSPbvsh1gmZC4bMnhVGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTcz/NDA0LTE1MTg3Mzkw/ODctNTA4NC5qcGVn.jpeg" alt="Cover for The Originals - Lucho Gatica In Concert" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Lucho Gatica</td>
+      <td>The Originals - Lucho Gatica In Concert</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/mTV6FYZkI3DJML0u6KnTO2rcecnBaITcqAG1IbAXcQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTI0/MTYyLTE2NTgxNTg3/OTgtNDM3OS5wbmc.jpeg" alt="Cover for Buena Vista Social Club (25th Anniversary Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Buena Vista Social Club</td>
+      <td>Buena Vista Social Club (25th Anniversary Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/QEutnl5hcFx7uBHxI2IDMaT-PinfTXhixUinOSK16GU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDY2/OS0xNjAwMjk5Njk5/LTY0MjkuanBlZw.jpeg" alt="Cover for Ni Rosas, Ni Juguetes (feat. Jenni Rivera) [Versión Banda] - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Paulina Rubio</td>
+      <td>Ni Rosas, Ni Juguetes (feat. Jenni Rivera) [Versión Banda] - Single</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Los Tres Caballeros</td>
+      <td>Escenciales</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/4EU_-aDDNXN3Q7Pk893lZkMtEfZXD-PD8beg_ACCZyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjM5/MTEtMTI1MTg1MjU4/MC5qcGVn.jpeg" alt="Cover for Voices" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-03-24</td>
+      <td>Yanni</td>
+      <td>Voices</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 12</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 46</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 61</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/Z6ulbQlKRV_vPrb1CgJDwS_f2kVPj4vf5IqBmj_NzWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzA4/NDktMTM4MTY2MzM5/Ny05MTQ0LmpwZWc.jpeg" alt="Cover for Gran City Pop" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-06-23</td>
+      <td>Paulina Rubio</td>
+      <td>Gran City Pop</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 76</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/6eSC4meZCv8dtkN2Aa-K80TTAiF-betCQoOdobNvQCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjI0/NjItMTQxOTkxNTcw/MS0zMjIyLmpwZWc.jpeg" alt="Cover for Gran City Pop (International Regular Deluxe Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-04-27</td>
+      <td>Paulina Rubio</td>
+      <td>Gran City Pop (International Regular Deluxe Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/t1pyIyoORB2JY3BtMZOmXS-sg-w-J74B4Ax7dHjJY4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTA5/NTEtMTMxNTI4MTU3/MS5naWY.jpeg" alt="Cover for Ritmo de Amor | Remixes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Los Macuanos</td>
+      <td>Ritmo de Amor | Remixes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/PNtk7JplhbP5MLNoRBEpW75wzFjH4-qC39l4ruqs3kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzUw/NjQtMTMyMzQ3NjY1/Ny5qcGVn.jpeg" alt="Cover for Natalie Cole En Español" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-07-26</td>
+      <td>Natalie Cole</td>
+      <td>Natalie Cole En Español</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/-agETlwFXILBxuVO5UmEm8U51V2VKjyV9_dUGqlAB2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTE2/NzYxLTE3MzAwNDQw/MjctMjY4Mi5qcGVn.jpeg" alt="Cover for Como Caído del Cielo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Omar Chaparro</td>
+      <td>Como Caído del Cielo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/Ux7Myw2Yy_qcPxtOuLoVlTNyfdHJjLH2HmuXAUTPbQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTM4/NTg4LTE2MTYyOTI1/NjgtODk5NC5qcGVn.jpeg" alt="Cover for Aymoréco" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-12-18</td>
+      <td>Aymoréco</td>
+      <td>Aymoréco</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/-n3StJY2L7m_ZIpuaW6UQUMJhzuRqWQOMaVxQ2OQjdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTYx/MTE3LTE1OTQ0OTU1/NTktODEwMi5qcGVn.jpeg" alt="Cover for Un Canto por México, Vol. II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-12</td>
+      <td>Natalia Lafourcade</td>
+      <td>Un Canto por México, Vol. II</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/Bxsty0ZS1gKqCpzB5HQ_B5kE4lyC7MbE9Js39fjOn3Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjE2/MTQxLTE2ODUyODc4/NDgtMzcwOS5qcGVn.jpeg" alt="Cover for Suspiros" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>Daniel, Me Estás Matando</td>
+      <td>Suspiros</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/VQIyFGFHGqmhqkXM6bOn9Q2y7DidvcC_4WjTAZNYFyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjM1/ODQ5LTE2NTgzNjk5/NjctNjYyNy5qcGVn.jpeg" alt="Cover for Sin Miedo (del Amor y Otros Demonios) ∞" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-11-18</td>
+      <td>Kali Uchis</td>
+      <td>Sin Miedo (del Amor y Otros Demonios) ∞</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 80</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 98</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/iC4h9C3vrC7Kp662m2I5TuuukOGFNxbIBRztdXcUueY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTU0/ODUwLTE3MTA5NTk5/ODUtMTA1OS5wbmc.jpeg" alt="Cover for Boleros Inolvidables" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Boleros</td>
+      <td>Boleros Inolvidables</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/XLgBepPcYjpnWLeFRHfYEqx10MtPROyRrdfL8kl1_J8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjAy/NDAxLTE2ODUxNjI1/MDAtMzEzNC5qcGVn.jpeg" alt="Cover for De todas las flores" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-10-28</td>
+      <td>Natalia Lafourcade</td>
+      <td>De todas las flores</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 27</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/vnCERyhVCAV08MgNIucqUjw28yIrcO9mt8Hz5OPWlRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzM4/NjUyLTE3MjYzNzYz/NTUtNTM0OS5qcGVn.jpeg" alt="Cover for Torna Noches De Salón" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-08-01</td>
+      <td>Enjambre</td>
+      <td>Torna Noches De Salón</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Narváez</td>
+      <td>Volver a verte (single)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Petrol Presents</td>
+      <td>Greatest Songs Ever: Chile</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td></td>
+      <td>El Negro Ojeda</td>
+      <td>Antología - 50 Años</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Los Tiranos Del Norte</td>
+      <td>Para Mi Reina</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Orquesta La Terrifica</td>
+      <td>Hinca La Yegua</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Gildardo Álvarez</td>
+      <td>Te reto a que me olvides</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td></td>
+      <td>La Familia de Ukeleles</td>
+      <td>El Lobo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Rodolfo Aicardi</td>
+      <td>Rodolfo - El Insuperable</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Oscar Agudelo</td>
+      <td>Los 30 Mejores</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Fernando Valadez</td>
+      <td>20 Exitos de Oro</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Trmo Los Panchos</td>
+      <td>Todo Panchos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Germán Valdés &quot;Tin Tan&quot;</td>
+      <td>Germán Valdés TIN-TAN Canciones de Sus Películas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
