@@ -9,6 +9,10 @@ title: comedian
 
 Last updated: <time datetime="2025-10-31T05:57:20.492Z">Fri Oct 31 2025 07:57:20 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+The &quot;comedian&quot; tag identifies audio content centered on spoken-word comedy performances rather than traditional music, featuring stand-up routines, humorous storytelling, and observational humor delivered live or in studio recordings. These recordings capture the rhythms and timing of comedic performance, where laughter and audience reaction become integral to the listening experience. The tag spans diverse comedic styles from political satire to personal anecdotes, united by the primacy of verbal wit over musical elements.
+
 ### 100 chronological releases
 
 <table>
