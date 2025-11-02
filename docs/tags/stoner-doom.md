@@ -9,6 +9,10 @@ title: stoner doom
 
 Last updated: <time datetime="2025-11-01T04:52:50.987Z">Sat Nov 01 2025 06:52:50 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Stoner doom is a heavy, hypnotic fusion of doom metal&#39;s crushing slowness with psychedelic rock&#39;s mind-altering textures, often inspired by cannabis culture and occult themes. The sound features massively distorted, downtuned guitars, thunderous bass, and deliberate tempos that create an immersive, trance-like atmosphere. It emphasizes groove and repetition over technicality, drawing listeners into extended jams that feel both meditative and overwhelmingly heavy.
+
 ### 100 chronological releases
 
 <table>
