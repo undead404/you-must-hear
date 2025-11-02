@@ -9,110 +9,2155 @@ title: ghettotech
 
 Last updated: <time datetime="2025-10-23T00:10:42.857Z">Thu Oct 23 2025 03:10:42 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Ghettotech is a high-energy fusion of Detroit techno, Miami bass, and hip-hop characterized by explicit lyrics, booty bass rhythms, and raw, stripped-down production. Emerging from Detroit&#39;s underground dance scene in the 1990s, it prioritizes intense danceability with fast tempos, repetitive vocal samples, and aggressive synthesizers. The sound embodies a DIY aesthetic that&#39;s both confrontational and playfully hedonistic.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 30 | ![Cover](https://i.discogs.com/BX8m7NYNwD4NPSdHekySylPEJTFBDbCq_UKZNK-lt_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkx/My0xMjE5MzMwNDg1/LmpwZWc.jpeg) | 1997 | Debo | A Lil Somethin-Somethin |
-| 26 | ![Cover](https://i.discogs.com/MmOBiLW2sRvvYePFhZBWhMubjzQFs7UFmBXaFBOl2wA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjkz/NDM4LTE2MTMxODc1/NDAtNzEyNy5qcGVn.jpeg) | 2000 | Nora | Miss U Raving |
-| 36 |  | 2000 | disco d vs. paradime | Detroit Zoo |
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/94f2055b4a39ace9a1b18e18923f183c.png) | 2002 | Disco D | Booty Bar Anthem EP |
-| 19 | ![Cover](https://i.discogs.com/_zyH-9hv_B-BjOMncsd24TSU8AZYAAvHjAIXKxbfg0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzI1/ODIwLTE0OTUzNjQ2/MzEtNDIwMi5qcGVn.jpeg) | 2003 | Elan | umana44 |
-| 2 | ![Cover](https://i.discogs.com/4zxGfBiWipE1EAK8xS8COko93PYJxHuQNRL_BJ7Jtec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA0/MTg4LTE1OTYyMzI1/NDItODgxNy5qcGVn.jpeg) | 2020-04-27 | Booty-Buster | NO SERVICE vol.1 |
-| 3 | ![Cover](https://i.discogs.com/1non0EKjvnKKLEUq0-rf2hOf8usQcSyfZCHaBJROYx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODk1/OTk1LTE2ODI1NjUy/MDgtMTMzNS5qcGVn.jpeg) | 2021-06-16 | Selfhood | NO SERVICE vol.1 |
-| 4 |  |  | Ratibor Kukarekov | KIKIMIKA |
-| 8 | ![Cover](https://i.discogs.com/UIvUz_inb-zxm08gHD3tHxd1KD93lVz_z-Y7JfGJeMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY1/ODktMTIyNjE1Mzcx/NS5qcGVn.jpeg) | 2005-01-31 | DJ Assault | JA-501 |
-| 7 | ![Cover](https://i.discogs.com/DXeBBEUYFEvqoj8hilcR0IuHT8MGZJplLb3v0oX3NZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDk3/MzU4LTE2Nzk0MjEy/MzAtNTcxNy5wbmc.jpeg) | 2013-03-18 | Mr. De&#39; | EF-2002-1 |
-| 9 |  |  | Kittenbear | LI$033 |
-| 41 | ![Cover](https://i.discogs.com/UP7esaGreZkTDTTRWJEYetlQyfGTASsqJ2oVawE02zQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODIy/LTExNjQ3MDg0MjIu/anBlZw.jpeg) | 2001 | Mr. De&#39; | Time Space Scrilla |
-| 42 | ![Cover](https://i.discogs.com/daQau69-3DqkbEwGq59PQ3nQ-B8hw3ZoOYjEYrdIhGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTAw/ODQtMTYyMDg1MTk2/NC01NzcwLmpwZWc.jpeg) | 2007-12 | CLN3000 | Ghosts Traxx Volume 1 |
-| 50 | ![Cover](https://i.discogs.com/7QfN2U4U0OPMVptXXwYzj5aeupW-7ye5EQbZJ0HgGOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk2/ODgyLTE2MzQyOTQx/ODUtNzQ5OC5wbmc.jpeg) | 2011 | fauxmusica | AN INTRODUCTION TO DOOMG▲ZE |
-| 28 | ![Cover](https://i.discogs.com/CJrX2oVDaDv-ne-xWT-vIuMtVh--nQBBHo3J3RXGGIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzI2/MTEtMTQyMzQ5ODIy/My00NzkxLmpwZWc.jpeg) | 2014-12-26 | DJ Paypal | WHY EP |
-| 11 | ![Cover](https://i.discogs.com/d-E9Fly6FDO3RGc1q1CKe38KpsX5yMnZQY7vuJLhEF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc4/NDczLTE1NDc2NjQ0/NjItNjMyMC5qcGVn.jpeg) | 2016 | Vergil | INTERNET SURVIVORS |
-| 45 | ![Cover](https://i.discogs.com/DY2M66l9nxiiBD-WPyaU-8daiKQ8u6i-AqkYN7tIJa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjg4/MDY4LTE1MzIyMTYw/NjItMzk1NS5qcGVn.jpeg) | 2016-07-16 | Ghostwhip | Booty Wars |
-| 20 | ![Cover](https://i.discogs.com/sL5WqJ6qYVQRzwizfTeIUtTSFE-eOOqRalRD6hvJ4sE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/Mzc4LTE0OTc1NjEz/NDMtODIwMC5qcGVn.jpeg) | 2017 | Nasty King Kurl | LI$033 |
-| 24 | ![Cover](https://i.discogs.com/sqINo_yrFTIZN-gdsXxxChymNjZTv6iCFtO9fZfMwro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM2/ODk0LTE1NDI5MDM5/MzAtNjEzMS5qcGVn.jpeg) | 2017-01-11 | morelia | INTERNET SURVIVORS |
-| 40 | ![Cover](https://i.discogs.com/jVYI2j2EKNwaA_lZh0UmxDKJpfTh8V_5awvujvSFB1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI3/MzIyLTE1MTQzMDk1/MzMtNDQ1My5qcGVn.jpeg) | 2017-12-26 | Big Hell | The Demos |
-| 13 | ![Cover](https://i.discogs.com/PiGNwDnlo4i1N3_h8-drixDOfYvouHbgh2qgTZ35J4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk1/ODQ5LTE1NDc5ODcx/MDMtNDIwNy5qcGVn.jpeg) | 2018-02-14 | n95 | KIKIMIKA |
-| 46 | ![Cover](https://i.discogs.com/Pnj--S170QA4QL0PejE3R1LWTPn7qI2NOUwnhxkaSBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM3/MzE5LTE1NzA0NjM2/NTQtMjU1MC5qcGVn.jpeg) | 2019-09-30 | Falling Apart | Death of Faith |
-| 31 | ![Cover](https://i.discogs.com/vYzeW3YjTFGmmNqUrzjp0SNE0rzloK_hO8zHVxj-njE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDk4/MjcwLTE2NTQ2MjAw/ODktNzc0OS5wbmc.jpeg) | 2019-12-20 | ARYAXZ | ༺ dark ♰ world ༻ |
-| 16 | ![Cover](https://i.discogs.com/aLgNUuItQQau5iZmhx3bivV_q1Qt-NuD6pZTf-F58gA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY4/MzEwLTE1ODc1NzQ5/OTktOTcxNi5qcGVn.jpeg) | 2020-03-26 | Zpectrum | BOOTLEGZ Vol. 3 |
-| 29 | ![Cover](https://i.discogs.com/YhQqezUnAwoXjvwScbXIsWlj2QKhQGhG-zWa3pjdlls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY4/MjA0LTE1ODc1NzQx/MDYtOTcyNS5qcGVn.jpeg) | 2020-03-26 | Zpectrum | Bootlegz Vol. 1 |
-| 44 | ![Cover](https://i.discogs.com/aLgNUuItQQau5iZmhx3bivV_q1Qt-NuD6pZTf-F58gA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY4/MzEwLTE1ODc1NzQ5/OTktOTcxNi5qcGVn.jpeg) | 2020-03-26 | Zpectrum | Bootlegz, Vol. 1 |
-| 10 | ![Cover](https://i.discogs.com/QrnfyqEuZ9k7tF8RbVUoJDS9HOpc_J5vr0fvSJrqV0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg5/Mjg1LTE2MDY2NTIx/MjEtMzQxOS5wbmc.jpeg) | 2020-04-09 | Dobriydrug | dancemaniac |
-| 21 | ![Cover](https://i.discogs.com/zbreXDLK-Q9_bfkvSnYrgvrwTlbkgVymLfG2Fs_xTtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODAx/NDY3LTE2NjU1ODkw/MjAtNjUwOS5qcGVn.jpeg) | 2020-05-08 | DJ Bazootka | Feed My Addiction |
-| 23 | ![Cover](https://i.discogs.com/R-5RKbBJ1RKUD8qU7LVOo2du1ZjlW-nkt5KA252dE0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg5/NjgwLTE1OTQxMzgw/NTEtNjEyNi5qcGVn.jpeg) | 2020-06-19 | StacEmp | LI$025 |
-| 15 | ![Cover](https://i.discogs.com/UvUWCfsX59iCobOLWpuEIARSyt2luNsGHWR9Rl4WEPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM3/MTE0LTE1OTQ5ODc4/ODEtMTgyNS5qcGVn.jpeg) | 2020-07-17 | R1R1R1R1R1R1R1R1R | INTERNET SURVIVORS |
-| 38 | ![Cover](https://i.discogs.com/UvUWCfsX59iCobOLWpuEIARSyt2luNsGHWR9Rl4WEPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM3/MTE0LTE1OTQ5ODc4/ODEtMTgyNS5qcGVn.jpeg) | 2020-07-17 | R1R1R1R1R1R1R1R1R | umana44 |
-| 35 |  | 2020-12-04 | DJ MELL G x destroy | 💅💣ĐɆ₴₮ⱤØɎ ₥ɆⱠⱠ ₲🔫 |
-| 5 | ![Cover](https://i.discogs.com/tIazhdDqMYXMnGrY-haeQ7JA4infw2Ew4TzIsHzvFeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzcw/MzA4LTE2MjEyODE1/NTctNzk1NS5qcGVn.jpeg) | 2021 | Regal86 | Bootlegs &amp; Unreleaseds Vol. I |
-| 22 | ![Cover](https://i.discogs.com/Z4H2e1uGaDzt0vZC41sp-Iqe0BjuNJXISjkXuFVdgCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njky/MTI5LTE2NjQ2Njgz/OTctMjkwMy5qcGVn.jpeg) | 2021-01-01 | JUICY SELEKTA | KIKIMIKA |
-| 49 |  | 2021-04-02 | Young Lychee | ʄʀʊɨȶʏ ƈǟʟʟ |
-| 6 | ![Cover](https://i.discogs.com/3jWrPrlCI9_tAPnSZ94N69202PlWReMfbf9LfxodygA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc3/MjUyLTE2NjIwMTgx/MDgtMjM1MS5qcGVn.jpeg) | 2021-10-04 | Mister Sticktalk | LI$029 |
-| 12 |  |  | dj lisbon treaty | dancemaniac |
-| 47 | ![Cover](https://i.discogs.com/zBQ0HzwiuGJEroSrPsoqigYl17gB7ndvhW9My7O4rAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTAx/MzU3LTE2MjIxMDQ0/MTYtODIzNy5qcGVn.jpeg) | 2021-05-21 | Shawn Cartier | « Ć𝕣Ⓐ𝓩𝕐 в𝓞Ⓨ » |
-| 17 | ![Cover](https://i.discogs.com/WRB_Hwa7g791mEaBJX11bWE2n5lY8I9RO8UOnLZjfVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzk5/MzEyLTE2MjU1ODE5/MzctMTM2Ni5qcGVn.jpeg) | 2021-06-25 | Bjarki &amp; Kuldaboli | Clubs Are Closed Vol.1 |
-| 43 |  | 2021-11-01 | adrain asher | SNAKE EYES MIXXX |
-| 37 | ![Cover](https://i.discogs.com/S7E8fqz9dn8dW7ZKzzcY2zG8kw1FXC92d2iPZISDd8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTQz/MDg5LTE2NjM0MjAz/NTgtNzg2Ni5qcGVn.jpeg) | 2022 | soft grunge | .｡.:* ☆:. 𝐗𝐗𝐗 :.☆*.:｡. |
-| 48 | ![Cover](https://i.discogs.com/HIJnl30cQTp_X4vq3MA9HtK_72VlKLM-ra-G4q-KflU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDYw/MDA0LTE2MTcwMDc3/MTUtMjA1OS5qcGVn.jpeg) | 2022 | YTP | ¥𝔱𝕡 |
-| 32 | ![Cover](https://i.discogs.com/e2ndn2CqtuQSoUVoERY1vSexX03Rb96SqxmZ26OunMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDky/MzQ5LTE2NTE1MzM1/NzMtNTI5My5qcGVn.jpeg) | 2022-04-16 | DJ Bazootka | Dangerous |
-| 33 | ![Cover](https://i.discogs.com/e2ndn2CqtuQSoUVoERY1vSexX03Rb96SqxmZ26OunMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDky/MzQ5LTE2NTE1MzM1/NzMtNTI5My5qcGVn.jpeg) | 2022-04-16 | DJ Bazootka | Cuddling Kerosine |
-| 39 | ![Cover](https://i.discogs.com/t7aunNniSQx7O9Ob3CH3JZiLGy-VKEnqYS46DXNpn6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTE2/NjYyLTE2NjMyMDAy/MTQtMjcwMi5qcGVn.jpeg) | 2022-07-04 | Dj Jarac | PHASE IV |
-| 25 |  | 2022-08-26 | nezerat | 5Ive Quid - EP |
-| 14 | ![Cover](https://i.discogs.com/AL8jQ6MzXQHJOq_XaZZ7O1fHme3S4FhyBzlZAGxygLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTc5LTE3MTAzMjkz/MTMtOTYzMC5qcGVn.jpeg) | 2022-08-30 | Mezer | LI$025 |
-| 18 | ![Cover](https://i.discogs.com/xPdNWOzDf_v0eRzzEAonrZRButvuA0bQ7qsoELtgNTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM3/NTU2LTE2MzUxMTEy/OTItNjMyNi5qcGVn.jpeg) | 2023-09-11 | ＷＡＣＨＩＴＡ ＣＨＩＮＡ | S.E.X. |
-| 27 |  |  | GATORADE50K | CLUB DOPAMINA |
-| 34 |  |  | greenwald | LI$029 |
-| 63 | ![Cover](https://i.discogs.com/hRxsFjd9yc8rTYG5RxVa1AsIBji8UZBNnRjU4K1tnho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDUx/NTItMTQ4MzUzNjQx/My05MzIzLmpwZWc.jpeg) | 1971 | Kent Paul | The Disses |
-| 64 |  | 1977 | Various Artists | VIRTUAL VELOCITY |
-| 75 | ![Cover](https://i.discogs.com/bH5DoQdkVG92kkm3UCewOkt0aAEZqVu1VrohZvB2Ugs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjIt/MTE0MTY1MzIxMS5q/cGVn.jpeg) | 1977 | Various Artists | LI$025 |
-| 77 |  | 1977 | Various Artists | LI$029 |
-| 85 | ![Cover](https://i.discogs.com/jibfiFTyRgMUAbpQ_6Njbd8zsQz0V_k9hK0RLF97fvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDEt/MTE1MDIzMTU5Ni5q/cGVn.jpeg) | 1994 | Paul Johnson | a nite life thang |
-| 69 | ![Cover](https://i.discogs.com/noa0eqK35mZJoRLHBvEeeVseNxc8z49qPXbgxMeMIJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Njgw/OS0xNTkwNDAzMjc0/LTYxNTUuanBlZw.jpeg) | 1995 | DJ Funk | Pumpin The Trax |
-| 89 | ![Cover](https://i.discogs.com/_PEMj8KiKnYf9xfz-3ntd7rUJO93g8dgGfkxr8RFzzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTIt/MTI5Mjc4MzgxOS5q/cGVn.jpeg) | 1995 | Paul Johnson | Stop Trippin&#39; |
-| 68 | ![Cover](https://i.discogs.com/qpjbtwTyKdzoxPDDx749rzQVZp8w6YSSip6Ncwt5WQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODQw/Ny0xMTQyMTU3MTQ3/LmpwZWc.jpeg) | 2000 | DJ Godfather | Da Bomb Volume 3 |
-| 73 | ![Cover](https://i.discogs.com/qpjbtwTyKdzoxPDDx749rzQVZp8w6YSSip6Ncwt5WQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODQw/Ny0xMTQyMTU3MTQ3/LmpwZWc.jpeg) | 2000 | DJ Godfather | Da Bomb Vol 2 |
-| 90 |  | 2001-01-01 | DJ Assault | Jefferson Ave. |
-| 76 | ![Cover](https://i.discogs.com/AW3gz3RTecljLNZ9mURNxsJbWUUwjr4cgUQzJ32DNb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEt/MTMzNTQ3MzY5Mi5q/cGVn.jpeg) | 2001-03-21 | Andrea Parker | Freaky Bitches |
-| 95 |  | 2001-06-28 | Bitch Ass Darius | Follow The Sound |
-| 99 | ![Cover](https://i.discogs.com/O9ntIYJfmxyiX-IRDUsVUkzcqxLyp1XLhNtPYvx47t0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODE1/Mi0xMzA3NzQ0MjU5/LmpwZWc.jpeg) | 2007-05-14 | Architecture in Helsinki | Heart It Races |
-| 91 | ![Cover](https://i.discogs.com/seVoZBSsR5tsOjKRbMZd1ftYH2e01HW6TSNMzjMyFsw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzM2/ODItMTI2MjQ3Njkw/NC5qcGVn.jpeg) | 2010-01-01 | Shazalakazoo | speaking balkanian |
-| 60 | ![Cover](https://i.discogs.com/oTqo6Y7a5cxQP5xQCcEjzx86iUm3X7KTahdMBVb5yFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTMx/NzAtMTM1NTAwMTEw/Ny03MzIyLmpwZWc.jpeg) | 2012-12-05 | Graz &amp; Booty Giuliani | Asses Of Fury |
-| 58 | ![Cover](https://i.discogs.com/AoGbdIyTwq58NuMrJK2K15b6hyKolHVJsPerEuVIzdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDEw/NDItMTM5ODk5NzY1/NC0yNzA1LmpwZWc.jpeg) | 2013-02-17 | CRZKNY | ABSOLUTE SHITLIFE |
-| 70 | ![Cover](https://i.discogs.com/TQvZdHfmwGnudAKQbelu5KIbuQP4GVyCcR2uEQhL03E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODc0/ODkzLTE1NjMwNjQ2/MDgtOTc5Ny5qcGVn.jpeg) | 2015 | Sammy Stephens | It&#39;s Just Like a Mini-Mall! |
-| 83 | ![Cover](https://i.discogs.com/yDLUr5TrUZOguPY5C2BJRd2m2vSeiJWx8Q9nNLo8gKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDg2/MzctMTQyNTgyMjU3/Ny0xODMzLmpwZWc.jpeg) | 2015-03-09 | Jensen Interceptor | 014 Crack |
-| 65 | ![Cover](https://i.discogs.com/luvX9Q7byx7sa7KBF77q_aSHQ2aKTVuI2HpWvhJMlm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDk1/NTctMTQ0MzgwMjk1/NS00NDY2LmpwZWc.jpeg) | 2015-10-01 | Marshall Applewhite | Advance Beyond Human EP |
-| 53 | ![Cover](https://i.discogs.com/us_iXDJzz_jORuF_PcQPQqXeh4Pyry9cWWqZ7DIgWBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDY4/MDUtMTQ1NDExNTU1/My00MDc1LmpwZWc.jpeg) | 2016-01-10 | Chansey | Serene Grace |
-| 94 | ![Cover](https://i.discogs.com/A_QSSVl1ChXiVCb_pjOydcq6kMWByhWJBbFGHAKPXcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjA4/MDAtMTQ2MDEwNzM4/MS04MTIwLnBuZw.jpeg) | 2016-04-08 | DJ Rashad | Afterlife |
-| 100 | ![Cover](https://i.discogs.com/72aacJyBbNwe3cZXf2ff_4IfcB-y6-OSA4Bf9bWn0HQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjQzLTE1MDgwNDM1/MDMtNjkyNS5wbmc.jpeg) | 2016-04-20 | Ayesha Erotica | Big Juicy |
-| 71 | ![Cover](https://i.discogs.com/zAqsekykEHuz-CaNxPd9R1Q6EQNFiZtISC3bZnoOJ70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzg0/NzUyLTE1OTc3NDc0/MzUtNzMxOS5qcGVn.jpeg) | 2016-12-02 | Body Mechanic | WESEX 69.9FM |
-| 93 | ![Cover](https://i.discogs.com/ka5lgT2sVW9lCiEyimLw-ehpvkdcKqfxKvAad3uLfTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA4/OTA2LTE1MTM5MDA0/MTktOTgxMy5qcGVn.jpeg) | 2017 | Burqa Boyz | أسلحة ضخ جاف حدب |
-| 87 | ![Cover](https://i.discogs.com/6xp5P1LXAqMgyUgeZJRkMm1clqjVtZD2IKZsnnv2jIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY4/MTI3LTE1NDkyMjI2/MjktNjI0OS5qcGVn.jpeg) | 2018 | Criminal Practice | Booty Blaster |
-| 61 | ![Cover](https://i.discogs.com/6EYCWRP01QO3CO0BxZbzgAozsQQyyYt2743r4UNsHew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDAz/MjM0LTE1MTU3MDYy/MjYtMjc5MS5qcGVn.jpeg) | 2018-01-11 | WHY BE | YB MEMORY |
-| 56 | ![Cover](https://i.discogs.com/fKMltwLDJkdhG__Rir1BkL7WFWSMQ52H3eMZmtqKScY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk3/ODY5LTE1MzAyODUy/OTAtMTEwNS5wbmc.jpeg) | 2018-02-10 | Oposition | ISMVA002.1 |
-| 98 | ![Cover](https://i.discogs.com/dCaFPgNRiG5lglzkQd-0EQdQ0Gi7WG1gevGbKXupiaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODcz/MDQyLTE2ODQ2NTA3/OTgtMjMyMi5qcGVn.jpeg) | 2018-12-14 | Ayesha Erotica | Horny.4U |
-| 62 |  | 2019-03-25 | Bul!m!atron! | BL!NG BL!NG |
-| 51 | ![Cover](https://i.discogs.com/CP0GCQiroZnpPWvn3gE6XYEkrww8DYf6IHhwXax9p44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTk2/NDQ2LTE1NjU3MjM4/MzQtMTE1OS5qcGVn.jpeg) | 2019-08-14 | DJ Rolow | UNDERRATED |
-| 59 | ![Cover](https://i.discogs.com/R8uUfHg3rZvWv183QddmIoE78APhyjs_7PaVfKOzXqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDY2/NDU1LTE2NzkxODIx/OTctNjk5Ni5qcGVn.jpeg) | 2021-01-17 | maniken05 | PISTOL IN MY PANTS |
-| 79 | ![Cover](https://i.discogs.com/CCky6NKrKRmGO5DHvTJCLtfTfptc8VBDgFOXISVGCOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQ2/ODkxLTE2NDE2MDI1/NDQtNzMwNS5qcGVn.jpeg) | 2021-03-27 | LIMP PUMPO | Limp Pumpo Full Discography |
-| 88 | ![Cover](https://i.discogs.com/SNed2CFJuyHb-8gE4tIE_9IxJkg4E4GAV4YLVmwaBZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjU4/MzMwLTE2MjQ1Mzcx/NTEtMjI0Mi5qcGVn.jpeg) | 2021-06-25 | New Frames | Burn Rate |
-| 97 |  | 2021-11-01 | Partiboi69 | Mutual Pleasure 002 |
-| 52 | ![Cover](https://i.discogs.com/qWUb0SwHmeEU92F2dakDdZQkI0bmzQqcKh4Wyvk3r3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODI1/MTg0LTE2NTg4MjY4/NTUtNTk5Ni5qcGVn.jpeg) | 2021-11-19 | JUDAAH | Haqueleauboisdeleau |
-| 54 | ![Cover](https://i.discogs.com/f7uH5USvrxEgfgXRtQpMfzgbZkmVBp9u_tJ7p55cRGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzMx/MTAxLTE2NDIxNTcw/ODctNTUwOC5qcGVn.jpeg) | 2022 | DJ Arg | Acid Inferno |
-| 80 | ![Cover](https://i.discogs.com/6tpgkK_OAPHNjGMWHEXsMO9rhwlhcMZellcv5nUZW9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc2/NTYwLTE2NzAyNTMw/NjEtODgzNS5qcGVn.jpeg) | 2022 | YTP | DNA |
-| 84 | ![Cover](https://i.discogs.com/1r-1Afq6CKPl_gTHbVOGcmV2Sa30HVZt4IGD7yYoCNs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODY2/MjIyLTE3MDg0NTc2/NzYtNDUyMC5qcGVn.jpeg) | 2022-02-25 | exieve | encomia |
-| 57 | ![Cover](https://i.discogs.com/HhahYLKu97MC12r-9DW4c2PIpFGXHDbTBCXeuXABVh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzM2/NTA2LTE3MDM4NDE0/NjUtOTQwMS5qcGVn.jpeg) | 2022-04-28 | Eiyie | Plaizir Coupable, Vol. 1 |
-| 96 | ![Cover](https://i.discogs.com/VuuFUMUDHljv9Pv-eoYob4WfeypzuDj20fO4cnsrcTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzMz/MjI3LTE2NTY1MzE5/OTYtNTU2Ny5wbmc.jpeg) | 2022-05-20 | pink siifu | IT&#39;S TOO QUIET..&#39;!! |
-| 81 | ![Cover](https://i.discogs.com/jZw6ngG7hWFEIuSJ78ZolN33IU1JiFS6h3ZGkr7autU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDUz/NTk3LTE2NTQyNjYw/NTktODUwNC5qcGVn.jpeg) | 2022-05-25 | WTCHCRFT | Drugs Here |
-| 78 | ![Cover](https://i.discogs.com/Zp9mTR7TnW-Pfp0MVysUzuRrQ5ru7366ht-uCYCHN4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDcw/ODUzLTE2NTk3OTg0/OTgtMzM5NS5qcGVn.jpeg) | 2022-07 | MUTANT JOE | Wrong Way Out |
-| 86 |  | 2022-10-11 | Lamp DX | MK Super Star Ultra |
-| 66 |  | 2022-10-14 | DJ RUSSIAN AIDS | POST-INTERNET TRANCE MUSIC |
-| 55 | ![Cover](https://i.discogs.com/R8uUfHg3rZvWv183QddmIoE78APhyjs_7PaVfKOzXqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDY2/NDU1LTE2NzkxODIx/OTctNjk5Ni5qcGVn.jpeg) | 2022-12-31 | maniken05 | YUNG STUNNA EP |
-| 92 | ![Cover](https://i.discogs.com/R8uUfHg3rZvWv183QddmIoE78APhyjs_7PaVfKOzXqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDY2/NDU1LTE2NzkxODIx/OTctNjk5Ni5qcGVn.jpeg) | 2022-12-31 | maniken05 | 777 |
-| 74 | ![Cover](https://i.discogs.com/9Cu_g-ezsoadVXekWngtZe-AyfeMrPw0n54B2jrCWqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDUx/ODcyLTE2NzcxODI5/NzYtNjI1Mi5qcGVn.jpeg) | 2023-02-03 | Ghost in the Machine | Chase Scene Morality |
-| 82 |  | 2023-05-19 | STRIPCLAB | DIABLA |
-| 67 | ![Cover](https://i.discogs.com/2SRUWZg87eWV6Frn0T85RzeGfDE-_bDxhPXsrScAaWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTgy/NzYyLTE3Mjg3NTk5/NzUtMjY2MC5qcGVn.jpeg) | 2023-09-20 | WTCHCRFT | Sleepless in Brooklyn |
-| 72 | ![Cover](https://i.discogs.com/-sg8Ytg85sWBA4Jpd1ylknU-xeGzSQ8KA2NCOWZx-20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDY1/Mjg0LTE3MTAxNTcy/OTUtODI3My5qcGVn.jpeg) | 2024-03-01 | Hannah Holland | Satisfy EP |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/hRxsFjd9yc8rTYG5RxVa1AsIBji8UZBNnRjU4K1tnho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDUx/NTItMTQ4MzUzNjQx/My05MzIzLmpwZWc.jpeg" alt="Cover for The Disses" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Kent Paul</td>
+      <td>The Disses</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>VIRTUAL VELOCITY</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/bH5DoQdkVG92kkm3UCewOkt0aAEZqVu1VrohZvB2Ugs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjIt/MTE0MTY1MzIxMS5q/cGVn.jpeg" alt="Cover for LI$025" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>LI$025</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>LI$029</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/jibfiFTyRgMUAbpQ_6Njbd8zsQz0V_k9hK0RLF97fvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDEt/MTE1MDIzMTU5Ni5q/cGVn.jpeg" alt="Cover for a nite life thang" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Paul Johnson</td>
+      <td>a nite life thang</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/noa0eqK35mZJoRLHBvEeeVseNxc8z49qPXbgxMeMIJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Njgw/OS0xNTkwNDAzMjc0/LTYxNTUuanBlZw.jpeg" alt="Cover for Pumpin The Trax" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>DJ Funk</td>
+      <td>Pumpin The Trax</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/_PEMj8KiKnYf9xfz-3ntd7rUJO93g8dgGfkxr8RFzzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTIt/MTI5Mjc4MzgxOS5q/cGVn.jpeg" alt="Cover for Stop Trippin&#39;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Paul Johnson</td>
+      <td>Stop Trippin&#39;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/BX8m7NYNwD4NPSdHekySylPEJTFBDbCq_UKZNK-lt_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkx/My0xMjE5MzMwNDg1/LmpwZWc.jpeg" alt="Cover for A Lil Somethin-Somethin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Debo</td>
+      <td>A Lil Somethin-Somethin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/MmOBiLW2sRvvYePFhZBWhMubjzQFs7UFmBXaFBOl2wA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjkz/NDM4LTE2MTMxODc1/NDAtNzEyNy5qcGVn.jpeg" alt="Cover for Miss U Raving" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Nora</td>
+      <td>Miss U Raving</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>disco d vs. paradime</td>
+      <td>Detroit Zoo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/qpjbtwTyKdzoxPDDx749rzQVZp8w6YSSip6Ncwt5WQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODQw/Ny0xMTQyMTU3MTQ3/LmpwZWc.jpeg" alt="Cover for Da Bomb Volume 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>DJ Godfather</td>
+      <td>Da Bomb Volume 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/qpjbtwTyKdzoxPDDx749rzQVZp8w6YSSip6Ncwt5WQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODQw/Ny0xMTQyMTU3MTQ3/LmpwZWc.jpeg" alt="Cover for Da Bomb Vol 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>DJ Godfather</td>
+      <td>Da Bomb Vol 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/UP7esaGreZkTDTTRWJEYetlQyfGTASsqJ2oVawE02zQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODIy/LTExNjQ3MDg0MjIu/anBlZw.jpeg" alt="Cover for Time Space Scrilla" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Mr. De&#39;</td>
+      <td>Time Space Scrilla</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>2001-01-01</td>
+      <td>DJ Assault</td>
+      <td>Jefferson Ave.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/AW3gz3RTecljLNZ9mURNxsJbWUUwjr4cgUQzJ32DNb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDEt/MTMzNTQ3MzY5Mi5q/cGVn.jpeg" alt="Cover for Freaky Bitches" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-03-21</td>
+      <td>Andrea Parker</td>
+      <td>Freaky Bitches</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2001-06-28</td>
+      <td>Bitch Ass Darius</td>
+      <td>Follow The Sound</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 24</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 69</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94f2055b4a39ace9a1b18e18923f183c.png" alt="Cover for Booty Bar Anthem EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Disco D</td>
+      <td>Booty Bar Anthem EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/_zyH-9hv_B-BjOMncsd24TSU8AZYAAvHjAIXKxbfg0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzI1/ODIwLTE0OTUzNjQ2/MzEtNDIwMi5qcGVn.jpeg" alt="Cover for umana44" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Elan</td>
+      <td>umana44</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/UIvUz_inb-zxm08gHD3tHxd1KD93lVz_z-Y7JfGJeMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY1/ODktMTIyNjE1Mzcx/NS5qcGVn.jpeg" alt="Cover for JA-501" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-01-31</td>
+      <td>DJ Assault</td>
+      <td>JA-501</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/O9ntIYJfmxyiX-IRDUsVUkzcqxLyp1XLhNtPYvx47t0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODE1/Mi0xMzA3NzQ0MjU5/LmpwZWc.jpeg" alt="Cover for Heart It Races" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-05-14</td>
+      <td>Architecture in Helsinki</td>
+      <td>Heart It Races</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/daQau69-3DqkbEwGq59PQ3nQ-B8hw3ZoOYjEYrdIhGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTAw/ODQtMTYyMDg1MTk2/NC01NzcwLmpwZWc.jpeg" alt="Cover for Ghosts Traxx Volume 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-12</td>
+      <td>CLN3000</td>
+      <td>Ghosts Traxx Volume 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poland" | relative_url }}">poland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/seVoZBSsR5tsOjKRbMZd1ftYH2e01HW6TSNMzjMyFsw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzM2/ODItMTI2MjQ3Njkw/NC5qcGVn.jpeg" alt="Cover for speaking balkanian" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-01-01</td>
+      <td>Shazalakazoo</td>
+      <td>speaking balkanian</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/7QfN2U4U0OPMVptXXwYzj5aeupW-7ye5EQbZJ0HgGOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTk2/ODgyLTE2MzQyOTQx/ODUtNzQ5OC5wbmc.jpeg" alt="Cover for AN INTRODUCTION TO DOOMG▲ZE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>fauxmusica</td>
+      <td>AN INTRODUCTION TO DOOMG▲ZE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drag" | relative_url }}">drag</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/oTqo6Y7a5cxQP5xQCcEjzx86iUm3X7KTahdMBVb5yFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTMx/NzAtMTM1NTAwMTEw/Ny03MzIyLmpwZWc.jpeg" alt="Cover for Asses Of Fury" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-12-05</td>
+      <td>Graz &amp; Booty Giuliani</td>
+      <td>Asses Of Fury</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 6</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 26</li>
+            <li> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/AoGbdIyTwq58NuMrJK2K15b6hyKolHVJsPerEuVIzdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDEw/NDItMTM5ODk5NzY1/NC0yNzA1LmpwZWc.jpeg" alt="Cover for ABSOLUTE SHITLIFE" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-02-17</td>
+      <td>CRZKNY</td>
+      <td>ABSOLUTE SHITLIFE</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/DXeBBEUYFEvqoj8hilcR0IuHT8MGZJplLb3v0oX3NZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDk3/MzU4LTE2Nzk0MjEy/MzAtNTcxNy5wbmc.jpeg" alt="Cover for EF-2002-1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-03-18</td>
+      <td>Mr. De&#39;</td>
+      <td>EF-2002-1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/CJrX2oVDaDv-ne-xWT-vIuMtVh--nQBBHo3J3RXGGIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzI2/MTEtMTQyMzQ5ODIy/My00NzkxLmpwZWc.jpeg" alt="Cover for WHY EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-12-26</td>
+      <td>DJ Paypal</td>
+      <td>WHY EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/TQvZdHfmwGnudAKQbelu5KIbuQP4GVyCcR2uEQhL03E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODc0/ODkzLTE1NjMwNjQ2/MDgtOTc5Ny5qcGVn.jpeg" alt="Cover for It&#39;s Just Like a Mini-Mall!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Sammy Stephens</td>
+      <td>It&#39;s Just Like a Mini-Mall!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/yDLUr5TrUZOguPY5C2BJRd2m2vSeiJWx8Q9nNLo8gKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDg2/MzctMTQyNTgyMjU3/Ny0xODMzLmpwZWc.jpeg" alt="Cover for 014 Crack" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-03-09</td>
+      <td>Jensen Interceptor</td>
+      <td>014 Crack</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/luvX9Q7byx7sa7KBF77q_aSHQ2aKTVuI2HpWvhJMlm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDk1/NTctMTQ0MzgwMjk1/NS00NDY2LmpwZWc.jpeg" alt="Cover for Advance Beyond Human EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-10-01</td>
+      <td>Marshall Applewhite</td>
+      <td>Advance Beyond Human EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/d-E9Fly6FDO3RGc1q1CKe38KpsX5yMnZQY7vuJLhEF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc4/NDczLTE1NDc2NjQ0/NjItNjMyMC5qcGVn.jpeg" alt="Cover for INTERNET SURVIVORS" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Vergil</td>
+      <td>INTERNET SURVIVORS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/us_iXDJzz_jORuF_PcQPQqXeh4Pyry9cWWqZ7DIgWBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDY4/MDUtMTQ1NDExNTU1/My00MDc1LmpwZWc.jpeg" alt="Cover for Serene Grace" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-01-10</td>
+      <td>Chansey</td>
+      <td>Serene Grace</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/A_QSSVl1ChXiVCb_pjOydcq6kMWByhWJBbFGHAKPXcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjA4/MDAtMTQ2MDEwNzM4/MS04MTIwLnBuZw.jpeg" alt="Cover for Afterlife" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-04-08</td>
+      <td>DJ Rashad</td>
+      <td>Afterlife</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 55</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/72aacJyBbNwe3cZXf2ff_4IfcB-y6-OSA4Bf9bWn0HQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAz/NjQzLTE1MDgwNDM1/MDMtNjkyNS5wbmc.jpeg" alt="Cover for Big Juicy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-04-20</td>
+      <td>Ayesha Erotica</td>
+      <td>Big Juicy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 79</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/DY2M66l9nxiiBD-WPyaU-8daiKQ8u6i-AqkYN7tIJa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjg4/MDY4LTE1MzIyMTYw/NjItMzk1NS5qcGVn.jpeg" alt="Cover for Booty Wars" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-07-16</td>
+      <td>Ghostwhip</td>
+      <td>Booty Wars</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/zAqsekykEHuz-CaNxPd9R1Q6EQNFiZtISC3bZnoOJ70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzg0/NzUyLTE1OTc3NDc0/MzUtNzMxOS5qcGVn.jpeg" alt="Cover for WESEX 69.9FM" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-12-02</td>
+      <td>Body Mechanic</td>
+      <td>WESEX 69.9FM</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/ka5lgT2sVW9lCiEyimLw-ehpvkdcKqfxKvAad3uLfTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA4/OTA2LTE1MTM5MDA0/MTktOTgxMy5qcGVn.jpeg" alt="Cover for أسلحة ضخ جاف حدب" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Burqa Boyz</td>
+      <td>أسلحة ضخ جاف حدب</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 28</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 72</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/sL5WqJ6qYVQRzwizfTeIUtTSFE-eOOqRalRD6hvJ4sE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/Mzc4LTE0OTc1NjEz/NDMtODIwMC5qcGVn.jpeg" alt="Cover for LI$033" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Nasty King Kurl</td>
+      <td>LI$033</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/sqINo_yrFTIZN-gdsXxxChymNjZTv6iCFtO9fZfMwro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM2/ODk0LTE1NDI5MDM5/MzAtNjEzMS5qcGVn.jpeg" alt="Cover for INTERNET SURVIVORS" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-01-11</td>
+      <td>morelia</td>
+      <td>INTERNET SURVIVORS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/jVYI2j2EKNwaA_lZh0UmxDKJpfTh8V_5awvujvSFB1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI3/MzIyLTE1MTQzMDk1/MzMtNDQ1My5qcGVn.jpeg" alt="Cover for The Demos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-12-26</td>
+      <td>Big Hell</td>
+      <td>The Demos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 7</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/6xp5P1LXAqMgyUgeZJRkMm1clqjVtZD2IKZsnnv2jIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY4/MTI3LTE1NDkyMjI2/MjktNjI0OS5qcGVn.jpeg" alt="Cover for Booty Blaster" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Criminal Practice</td>
+      <td>Booty Blaster</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/6EYCWRP01QO3CO0BxZbzgAozsQQyyYt2743r4UNsHew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDAz/MjM0LTE1MTU3MDYy/MjYtMjc5MS5qcGVn.jpeg" alt="Cover for YB MEMORY" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-01-11</td>
+      <td>WHY BE</td>
+      <td>YB MEMORY</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grime" | relative_url }}">grime</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/fKMltwLDJkdhG__Rir1BkL7WFWSMQ52H3eMZmtqKScY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk3/ODY5LTE1MzAyODUy/OTAtMTEwNS5wbmc.jpeg" alt="Cover for ISMVA002.1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-02-10</td>
+      <td>Oposition</td>
+      <td>ISMVA002.1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/PiGNwDnlo4i1N3_h8-drixDOfYvouHbgh2qgTZ35J4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDk1/ODQ5LTE1NDc5ODcx/MDMtNDIwNy5qcGVn.jpeg" alt="Cover for KIKIMIKA" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-02-14</td>
+      <td>n95</td>
+      <td>KIKIMIKA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/dCaFPgNRiG5lglzkQd-0EQdQ0Gi7WG1gevGbKXupiaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODcz/MDQyLTE2ODQ2NTA3/OTgtMjMyMi5qcGVn.jpeg" alt="Cover for Horny.4U" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-12-14</td>
+      <td>Ayesha Erotica</td>
+      <td>Horny.4U</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 49</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2019-03-25</td>
+      <td>Bul!m!atron!</td>
+      <td>BL!NG BL!NG</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/CP0GCQiroZnpPWvn3gE6XYEkrww8DYf6IHhwXax9p44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTk2/NDQ2LTE1NjU3MjM4/MzQtMTE1OS5qcGVn.jpeg" alt="Cover for UNDERRATED" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-08-14</td>
+      <td>DJ Rolow</td>
+      <td>UNDERRATED</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/Pnj--S170QA4QL0PejE3R1LWTPn7qI2NOUwnhxkaSBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM3/MzE5LTE1NzA0NjM2/NTQtMjU1MC5qcGVn.jpeg" alt="Cover for Death of Faith" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-30</td>
+      <td>Falling Apart</td>
+      <td>Death of Faith</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/vYzeW3YjTFGmmNqUrzjp0SNE0rzloK_hO8zHVxj-njE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDk4/MjcwLTE2NTQ2MjAw/ODktNzc0OS5wbmc.jpeg" alt="Cover for ༺ dark ♰ world ༻" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-12-20</td>
+      <td>ARYAXZ</td>
+      <td>༺ dark ♰ world ༻</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/aLgNUuItQQau5iZmhx3bivV_q1Qt-NuD6pZTf-F58gA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY4/MzEwLTE1ODc1NzQ5/OTktOTcxNi5qcGVn.jpeg" alt="Cover for BOOTLEGZ Vol. 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-26</td>
+      <td>Zpectrum</td>
+      <td>BOOTLEGZ Vol. 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/YhQqezUnAwoXjvwScbXIsWlj2QKhQGhG-zWa3pjdlls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY4/MjA0LTE1ODc1NzQx/MDYtOTcyNS5qcGVn.jpeg" alt="Cover for Bootlegz Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-26</td>
+      <td>Zpectrum</td>
+      <td>Bootlegz Vol. 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/aLgNUuItQQau5iZmhx3bivV_q1Qt-NuD6pZTf-F58gA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTY4/MzEwLTE1ODc1NzQ5/OTktOTcxNi5qcGVn.jpeg" alt="Cover for Bootlegz, Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-26</td>
+      <td>Zpectrum</td>
+      <td>Bootlegz, Vol. 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/QrnfyqEuZ9k7tF8RbVUoJDS9HOpc_J5vr0fvSJrqV0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg5/Mjg1LTE2MDY2NTIx/MjEtMzQxOS5wbmc.jpeg" alt="Cover for dancemaniac" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-04-09</td>
+      <td>Dobriydrug</td>
+      <td>dancemaniac</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/4zxGfBiWipE1EAK8xS8COko93PYJxHuQNRL_BJ7Jtec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA0/MTg4LTE1OTYyMzI1/NDItODgxNy5qcGVn.jpeg" alt="Cover for NO SERVICE vol.1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-04-27</td>
+      <td>Booty-Buster</td>
+      <td>NO SERVICE vol.1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/zbreXDLK-Q9_bfkvSnYrgvrwTlbkgVymLfG2Fs_xTtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODAx/NDY3LTE2NjU1ODkw/MjAtNjUwOS5qcGVn.jpeg" alt="Cover for Feed My Addiction" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-05-08</td>
+      <td>DJ Bazootka</td>
+      <td>Feed My Addiction</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/R-5RKbBJ1RKUD8qU7LVOo2du1ZjlW-nkt5KA252dE0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg5/NjgwLTE1OTQxMzgw/NTEtNjEyNi5qcGVn.jpeg" alt="Cover for LI$025" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-06-19</td>
+      <td>StacEmp</td>
+      <td>LI$025</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/UvUWCfsX59iCobOLWpuEIARSyt2luNsGHWR9Rl4WEPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM3/MTE0LTE1OTQ5ODc4/ODEtMTgyNS5qcGVn.jpeg" alt="Cover for INTERNET SURVIVORS" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-07-17</td>
+      <td>R1R1R1R1R1R1R1R1R</td>
+      <td>INTERNET SURVIVORS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/UvUWCfsX59iCobOLWpuEIARSyt2luNsGHWR9Rl4WEPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM3/MTE0LTE1OTQ5ODc4/ODEtMTgyNS5qcGVn.jpeg" alt="Cover for umana44" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-07-17</td>
+      <td>R1R1R1R1R1R1R1R1R</td>
+      <td>umana44</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>2020-12-04</td>
+      <td>DJ MELL G x destroy</td>
+      <td>💅💣ĐɆ₴₮ⱤØɎ ₥ɆⱠⱠ ₲🔫</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/tIazhdDqMYXMnGrY-haeQ7JA4infw2Ew4TzIsHzvFeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzcw/MzA4LTE2MjEyODE1/NTctNzk1NS5qcGVn.jpeg" alt="Cover for Bootlegs &amp; Unreleaseds Vol. I" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021</td>
+      <td>Regal86</td>
+      <td>Bootlegs &amp; Unreleaseds Vol. I</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/Z4H2e1uGaDzt0vZC41sp-Iqe0BjuNJXISjkXuFVdgCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njky/MTI5LTE2NjQ2Njgz/OTctMjkwMy5qcGVn.jpeg" alt="Cover for KIKIMIKA" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-01-01</td>
+      <td>JUICY SELEKTA</td>
+      <td>KIKIMIKA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/R8uUfHg3rZvWv183QddmIoE78APhyjs_7PaVfKOzXqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDY2/NDU1LTE2NzkxODIx/OTctNjk5Ni5qcGVn.jpeg" alt="Cover for PISTOL IN MY PANTS" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-01-17</td>
+      <td>maniken05</td>
+      <td>PISTOL IN MY PANTS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/CCky6NKrKRmGO5DHvTJCLtfTfptc8VBDgFOXISVGCOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQ2/ODkxLTE2NDE2MDI1/NDQtNzMwNS5qcGVn.jpeg" alt="Cover for Limp Pumpo Full Discography" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-03-27</td>
+      <td>LIMP PUMPO</td>
+      <td>Limp Pumpo Full Discography</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td>2021-04-02</td>
+      <td>Young Lychee</td>
+      <td>ʄʀʊɨȶʏ ƈǟʟʟ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/zBQ0HzwiuGJEroSrPsoqigYl17gB7ndvhW9My7O4rAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTAx/MzU3LTE2MjIxMDQ0/MTYtODIzNy5qcGVn.jpeg" alt="Cover for « Ć𝕣Ⓐ𝓩𝕐 в𝓞Ⓨ »" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-05-21</td>
+      <td>Shawn Cartier</td>
+      <td>« Ć𝕣Ⓐ𝓩𝕐 в𝓞Ⓨ »</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/1non0EKjvnKKLEUq0-rf2hOf8usQcSyfZCHaBJROYx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODk1/OTk1LTE2ODI1NjUy/MDgtMTMzNS5qcGVn.jpeg" alt="Cover for NO SERVICE vol.1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-06-16</td>
+      <td>Selfhood</td>
+      <td>NO SERVICE vol.1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/SNed2CFJuyHb-8gE4tIE_9IxJkg4E4GAV4YLVmwaBZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjU4/MzMwLTE2MjQ1Mzcx/NTEtMjI0Mi5qcGVn.jpeg" alt="Cover for Burn Rate" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-06-25</td>
+      <td>New Frames</td>
+      <td>Burn Rate</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/WRB_Hwa7g791mEaBJX11bWE2n5lY8I9RO8UOnLZjfVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzk5/MzEyLTE2MjU1ODE5/MzctMTM2Ni5qcGVn.jpeg" alt="Cover for Clubs Are Closed Vol.1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-06-25</td>
+      <td>Bjarki &amp; Kuldaboli</td>
+      <td>Clubs Are Closed Vol.1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/3jWrPrlCI9_tAPnSZ94N69202PlWReMfbf9LfxodygA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc3/MjUyLTE2NjIwMTgx/MDgtMjM1MS5qcGVn.jpeg" alt="Cover for LI$029" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-10-04</td>
+      <td>Mister Sticktalk</td>
+      <td>LI$029</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>2021-11-01</td>
+      <td>adrain asher</td>
+      <td>SNAKE EYES MIXXX</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>2021-11-01</td>
+      <td>Partiboi69</td>
+      <td>Mutual Pleasure 002</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/qWUb0SwHmeEU92F2dakDdZQkI0bmzQqcKh4Wyvk3r3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODI1/MTg0LTE2NTg4MjY4/NTUtNTk5Ni5qcGVn.jpeg" alt="Cover for Haqueleauboisdeleau" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-11-19</td>
+      <td>JUDAAH</td>
+      <td>Haqueleauboisdeleau</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grime" | relative_url }}">grime</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/HIJnl30cQTp_X4vq3MA9HtK_72VlKLM-ra-G4q-KflU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDYw/MDA0LTE2MTcwMDc3/MTUtMjA1OS5qcGVn.jpeg" alt="Cover for ¥𝔱𝕡" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>YTP</td>
+      <td>¥𝔱𝕡</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/f7uH5USvrxEgfgXRtQpMfzgbZkmVBp9u_tJ7p55cRGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzMx/MTAxLTE2NDIxNTcw/ODctNTUwOC5qcGVn.jpeg" alt="Cover for Acid Inferno" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>DJ Arg</td>
+      <td>Acid Inferno</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/portugues" | relative_url }}">portugues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/portugues" | relative_url }}">portugues</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/S7E8fqz9dn8dW7ZKzzcY2zG8kw1FXC92d2iPZISDd8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTQz/MDg5LTE2NjM0MjAz/NTgtNzg2Ni5qcGVn.jpeg" alt="Cover for .｡.:* ☆:. 𝐗𝐗𝐗 :.☆*.:｡." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>soft grunge</td>
+      <td>.｡.:* ☆:. 𝐗𝐗𝐗 :.☆*.:｡.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/6tpgkK_OAPHNjGMWHEXsMO9rhwlhcMZellcv5nUZW9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzc2/NTYwLTE2NzAyNTMw/NjEtODgzNS5qcGVn.jpeg" alt="Cover for DNA" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>YTP</td>
+      <td>DNA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/1r-1Afq6CKPl_gTHbVOGcmV2Sa30HVZt4IGD7yYoCNs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODY2/MjIyLTE3MDg0NTc2/NzYtNDUyMC5qcGVn.jpeg" alt="Cover for encomia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-02-25</td>
+      <td>exieve</td>
+      <td>encomia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/e2ndn2CqtuQSoUVoERY1vSexX03Rb96SqxmZ26OunMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDky/MzQ5LTE2NTE1MzM1/NzMtNTI5My5qcGVn.jpeg" alt="Cover for Cuddling Kerosine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-04-16</td>
+      <td>DJ Bazootka</td>
+      <td>Cuddling Kerosine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/e2ndn2CqtuQSoUVoERY1vSexX03Rb96SqxmZ26OunMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDky/MzQ5LTE2NTE1MzM1/NzMtNTI5My5qcGVn.jpeg" alt="Cover for Dangerous" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-04-16</td>
+      <td>DJ Bazootka</td>
+      <td>Dangerous</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/HhahYLKu97MC12r-9DW4c2PIpFGXHDbTBCXeuXABVh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzM2/NTA2LTE3MDM4NDE0/NjUtOTQwMS5qcGVn.jpeg" alt="Cover for Plaizir Coupable, Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-04-28</td>
+      <td>Eiyie</td>
+      <td>Plaizir Coupable, Vol. 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/VuuFUMUDHljv9Pv-eoYob4WfeypzuDj20fO4cnsrcTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzMz/MjI3LTE2NTY1MzE5/OTYtNTU2Ny5wbmc.jpeg" alt="Cover for IT&#39;S TOO QUIET..&#39;!!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-05-20</td>
+      <td>pink siifu</td>
+      <td>IT&#39;S TOO QUIET..&#39;!!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/jZw6ngG7hWFEIuSJ78ZolN33IU1JiFS6h3ZGkr7autU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDUz/NTk3LTE2NTQyNjYw/NTktODUwNC5qcGVn.jpeg" alt="Cover for Drugs Here" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-05-25</td>
+      <td>WTCHCRFT</td>
+      <td>Drugs Here</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/t7aunNniSQx7O9Ob3CH3JZiLGy-VKEnqYS46DXNpn6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTE2/NjYyLTE2NjMyMDAy/MTQtMjcwMi5qcGVn.jpeg" alt="Cover for PHASE IV" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-07-04</td>
+      <td>Dj Jarac</td>
+      <td>PHASE IV</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/Zp9mTR7TnW-Pfp0MVysUzuRrQ5ru7366ht-uCYCHN4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDcw/ODUzLTE2NTk3OTg0/OTgtMzM5NS5qcGVn.jpeg" alt="Cover for Wrong Way Out" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-07</td>
+      <td>MUTANT JOE</td>
+      <td>Wrong Way Out</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td>2022-08-26</td>
+      <td>nezerat</td>
+      <td>5Ive Quid - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/AL8jQ6MzXQHJOq_XaZZ7O1fHme3S4FhyBzlZAGxygLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg0/NTc5LTE3MTAzMjkz/MTMtOTYzMC5qcGVn.jpeg" alt="Cover for LI$025" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-08-30</td>
+      <td>Mezer</td>
+      <td>LI$025</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>2022-10-11</td>
+      <td>Lamp DX</td>
+      <td>MK Super Star Ultra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>2022-10-14</td>
+      <td>DJ RUSSIAN AIDS</td>
+      <td>POST-INTERNET TRANCE MUSIC</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/R8uUfHg3rZvWv183QddmIoE78APhyjs_7PaVfKOzXqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDY2/NDU1LTE2NzkxODIx/OTctNjk5Ni5qcGVn.jpeg" alt="Cover for 777" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-12-31</td>
+      <td>maniken05</td>
+      <td>777</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 37</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 47</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/R8uUfHg3rZvWv183QddmIoE78APhyjs_7PaVfKOzXqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDY2/NDU1LTE2NzkxODIx/OTctNjk5Ni5qcGVn.jpeg" alt="Cover for YUNG STUNNA EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-12-31</td>
+      <td>maniken05</td>
+      <td>YUNG STUNNA EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/9Cu_g-ezsoadVXekWngtZe-AyfeMrPw0n54B2jrCWqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDUx/ODcyLTE2NzcxODI5/NzYtNjI1Mi5qcGVn.jpeg" alt="Cover for Chase Scene Morality" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-02-03</td>
+      <td>Ghost in the Machine</td>
+      <td>Chase Scene Morality</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2023-05-19</td>
+      <td>STRIPCLAB</td>
+      <td>DIABLA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/xPdNWOzDf_v0eRzzEAonrZRButvuA0bQ7qsoELtgNTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM3/NTU2LTE2MzUxMTEy/OTItNjMyNi5qcGVn.jpeg" alt="Cover for S.E.X." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-09-11</td>
+      <td>ＷＡＣＨＩＴＡ ＣＨＩＮＡ</td>
+      <td>S.E.X.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/2SRUWZg87eWV6Frn0T85RzeGfDE-_bDxhPXsrScAaWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTgy/NzYyLTE3Mjg3NTk5/NzUtMjY2MC5qcGVn.jpeg" alt="Cover for Sleepless in Brooklyn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-09-20</td>
+      <td>WTCHCRFT</td>
+      <td>Sleepless in Brooklyn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/-sg8Ytg85sWBA4Jpd1ylknU-xeGzSQ8KA2NCOWZx-20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDY1/Mjg0LTE3MTAxNTcy/OTUtODI3My5qcGVn.jpeg" alt="Cover for Satisfy EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-03-01</td>
+      <td>Hannah Holland</td>
+      <td>Satisfy EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ratibor Kukarekov</td>
+      <td>KIKIMIKA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Kittenbear</td>
+      <td>LI$033</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td></td>
+      <td>dj lisbon treaty</td>
+      <td>dancemaniac</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td></td>
+      <td>GATORADE50K</td>
+      <td>CLUB DOPAMINA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td></td>
+      <td>greenwald</td>
+      <td>LI$029</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

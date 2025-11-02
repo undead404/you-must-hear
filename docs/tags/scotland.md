@@ -9,6 +9,10 @@ title: scotland
 
 Last updated: <time datetime="2025-11-01T11:37:51.203Z">Sat Nov 01 2025 13:37:51 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Music tagged as &quot;scotland&quot; encompasses diverse sounds from Scottish artists, ranging from jangly indie pop and melancholic post-rock to energetic punk and traditional folk fusion. The tag reflects Scotland&#39;s vibrant musical heritage, blending Celtic influences with contemporary genres like new wave, electronic, and alternative rock. These artists often share a distinctively Scottish sensibility, whether through lyrical themes, accents, or innovative approaches to merging traditional and modern sounds.
+
 ### 100 chronological releases
 
 <table>

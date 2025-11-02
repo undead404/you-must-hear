@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T23:02:50.973Z
+date: 2025-11-02T11:07:51.219Z
 permalink: tags/groove-metal
 title: groove metal
 ---
 
 ## groove metal
 
-Last updated: <time datetime="2025-10-31T23:02:50.973Z">Sat Nov 01 2025 01:02:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T11:07:51.219Z">Sun Nov 02 2025 13:07:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -69,7 +69,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/ptatLsFFHlI8YYcKZ37XhXWc-QfAf0_UukXDXVshcPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzMy/NS0xMzQyMjE1Mzcz/LTEyNzMuanBlZw.jpeg" alt="Cover for La Sexorcisto: Devil Music Volume One" style="max-width:120px; height:auto;" />
       </td>
@@ -80,24 +80,6 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
             <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/268fdd71f41511756e39c9a4666122ed.png" alt="Cover for Sound of White Noise" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993-05-17</td>
-      <td>Anthrax</td>
-      <td>Sound of White Noise</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
         </ul>
       </td>
       <td>
@@ -166,7 +148,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>1995</td>
@@ -219,13 +201,13 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 52</li>
+            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 53</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9892c73e46ca4b65a609b1e74aae9664.png" alt="Cover for Official Live : 101 Proof" style="max-width:120px; height:auto;" />
       </td>
@@ -240,12 +222,13 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 28</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4a4d1a6f38be0f58b5f440704ace470.png" alt="Cover for The More Things Change..." style="max-width:120px; height:auto;" />
       </td>
@@ -263,7 +246,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/ipiOvuyOo24Ek8Kgm_nAVvy-aCa_TkSMXE1IdJ8hbeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDI1/NC0xMzE4MjQ2MzU5/LmpwZWc.jpeg" alt="Cover for If God Only Knew the Rest Were Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -283,7 +266,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/607bd3162929d87388e9bda3a47ca087.png" alt="Cover for Diabolus In Musica" style="max-width:120px; height:auto;" />
       </td>
@@ -303,7 +286,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e70fe4a9ac6def17bbbe66bb0340fd43.png" alt="Cover for Against" style="max-width:120px; height:auto;" />
       </td>
@@ -322,7 +305,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>1999-07-21</td>
@@ -339,7 +322,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/44920c69a34f4434ab07d34df40633c1.png" alt="Cover for Reinventing the Steel" style="max-width:120px; height:auto;" />
       </td>
@@ -348,8 +331,6 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       <td>Reinventing the Steel</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
-            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
         </ul>
       </td>
       <td>
@@ -359,7 +340,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/CJFgjQ1aqiFYz-VIvXU9fGA68U3JSe4CuOl5N-Ox4vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjc2/NjctMTE5Mzg4OTk1/Mi5qcGVn.jpeg" alt="Cover for New American Gospel" style="max-width:120px; height:auto;" />
       </td>
@@ -377,7 +358,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5a3705b1aa56cd313919fc6a87aec44.png" alt="Cover for Nation" style="max-width:120px; height:auto;" />
       </td>
@@ -395,7 +376,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92ccba192b614b9faeeffe6841ab5c6d.png" alt="Cover for Iowa" style="max-width:120px; height:auto;" />
       </td>
@@ -411,13 +392,13 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 66</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 93</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 93</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e2d07583c60fa5e5633c770cea6675e.png" alt="Cover for God Hates Us All" style="max-width:120px; height:auto;" />
       </td>
@@ -436,7 +417,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/yBWfMub0lpf77qKon7-YQv3nsm8JSW9_XL82qjMah6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzU5/Mi0xMTU4NDMzNDE5/LmpwZWc.jpeg" alt="Cover for 3" style="max-width:120px; height:auto;" />
       </td>
@@ -457,7 +438,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83ffeb297e0f4bfaa11a2f86d0d96dd6.png" alt="Cover for We&#39;ve Come For You All" style="max-width:120px; height:auto;" />
       </td>
@@ -476,7 +457,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8772d5f303f84b6c9d6b9fdcfa4e8ec4.png" alt="Cover for Hellalive" style="max-width:120px; height:auto;" />
       </td>
@@ -516,7 +497,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/uoa-uiawjP0IjCiGxXZrmzsRMvIr3QaFNvh1NVlMk3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTg1/MS0xMzA4MjgyMjI2/LmpwZWc.jpeg" alt="Cover for DevilDriver" style="max-width:120px; height:auto;" />
       </td>
@@ -538,7 +519,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5511b1eedec6406686a42f821a2bce8e.png" alt="Cover for Through the Ashes of Empires" style="max-width:120px; height:auto;" />
       </td>
@@ -558,7 +539,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/9qU3EiHR0YL-zz2wBSJJUU-5gryqhLV_jn5vOmACQXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/MTA2LTE1NTY5MDMw/ODctODk3NS5qcGVn.jpeg" alt="Cover for Ashes of the Wake (15th Anniversary)" style="max-width:120px; height:auto;" />
       </td>
@@ -577,7 +558,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/NEf4z4nUvB6eDGkcgglIoHU2fpcMCVYBSJSkl3IM-4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzE0/NC0xMTYwMzQ1Mjcy/LmpwZWc.jpeg" alt="Cover for Another Tomorrow" style="max-width:120px; height:auto;" />
       </td>
@@ -597,7 +578,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4506f6e413ee4d50ad7f46478f2d2049.png" alt="Cover for New Found Power" style="max-width:120px; height:auto;" />
       </td>
@@ -615,7 +596,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/df234fcb32564062c070d9b2b5d06f67.png" alt="Cover for Prophecy" style="max-width:120px; height:auto;" />
       </td>
@@ -653,7 +634,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2005-06-21</td>
@@ -671,7 +652,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/610427ec64a7197fc4715810127b0207.png" alt="Cover for The Fury of Our Maker&#39;s Hand" style="max-width:120px; height:auto;" />
       </td>
@@ -691,7 +672,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>2006-02-20</td>
@@ -728,7 +709,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/miyJhmcqys72dyKcVVetj8KkGYQyw1ZtQ4wFilVPBHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NTcw/OC0xNDUzOTMzOTU0/LTUzNjkucG5n.jpeg" alt="Cover for Outcast" style="max-width:120px; height:auto;" />
       </td>
@@ -747,7 +728,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/KajspxJLPT3YoL4z37v0iVkTwvgriGcF2KqU6xugq9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE0/NDQtMTI1NTI4ODQx/OS5qcGVn.jpeg" alt="Cover for Last Kind Words" style="max-width:120px; height:auto;" />
       </td>
@@ -765,7 +746,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b22576b3e77441b59e725dec3c8581be.png" alt="Cover for Resurrection" style="max-width:120px; height:auto;" />
       </td>
@@ -784,7 +765,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b3cbf95869a47c7844f02f9c49914d9.png" alt="Cover for The Blackening" style="max-width:120px; height:auto;" />
       </td>
@@ -804,7 +785,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e1ad2593c724881b98e644b08cf068d.png" alt="Cover for HELLYEAH" style="max-width:120px; height:auto;" />
       </td>
@@ -817,12 +798,12 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 90</li>
+            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/KajspxJLPT3YoL4z37v0iVkTwvgriGcF2KqU6xugq9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE0/NDQtMTI1NTI4ODQx/OS5qcGVn.jpeg" alt="Cover for The Last Kind Words" style="max-width:120px; height:auto;" />
       </td>
@@ -862,7 +843,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/zfpM4poq4VqBGOe6ISIrJ5TyfoxhdFIJaHj3XcvoyzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzI4/ODUtMTMwODY4MzIz/NC5qcGVn.jpeg" alt="Cover for Venom &amp; Tears" style="max-width:120px; height:auto;" />
       </td>
@@ -880,7 +861,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2008-04-18</td>
@@ -897,7 +878,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/680a897b8bad49a5c96ec88a6fa5eaaf.png" alt="Cover for Conquer" style="max-width:120px; height:auto;" />
       </td>
@@ -916,7 +897,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b05a013bb6ee4e0ca28b8866990e5fc7.png" alt="Cover for All Hope Is Gone" style="max-width:120px; height:auto;" />
       </td>
@@ -932,15 +913,15 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 58</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 72</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 75</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 89</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/aoLMWUMPizdt_60PllEj52lpTGMO0Y9FPxYqnTsq0EQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTM0/OTgtMTUyMTk4MDI2/My04NTg0LmpwZWc.jpeg" alt="Cover for A-lex" style="max-width:120px; height:auto;" />
       </td>
@@ -975,7 +956,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/uYeD1nabeN0-04sPTq8g3AqTMRDe2r7BNQ1d_Ns7e_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDI0/OTQtMTY3NDQwMzc3/NC0xNTg3LmpwZWc.jpeg" alt="Cover for The Infection" style="max-width:120px; height:auto;" />
       </td>
@@ -993,7 +974,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/eZhKAUAQ2Ft97DMhnNNJ6X8RjY-1JTxo33MjksVqcVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTQ3/ODktMTU0NjI5NDM0/Ni0zNzc4LmpwZWc.jpeg" alt="Cover for Pray For Villains" style="max-width:120px; height:auto;" />
       </td>
@@ -1011,7 +992,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f524b13fb712d202496fcfb948c4c619.png" alt="Cover for War Is the Answer" style="max-width:120px; height:auto;" />
       </td>
@@ -1028,7 +1009,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4753dc3fb30c4e348f7417da10ad51a1.png" alt="Cover for Omen" style="max-width:120px; height:auto;" />
       </td>
@@ -1047,7 +1028,26 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd645e0983444944b039ddb3d55e0733.png" alt="Cover for Stampede" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-06-25</td>
+      <td>Hellyeah</td>
+      <td>Stampede</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/0x12y1irLQR6AaA1yi0--3P1uLEgoWOX9jIQ6i-JsWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDkz/NjEyLTE1OTI0NjE5/NDEtMjAyMC5qcGVn.jpeg" alt="Cover for Civil Unrest" style="max-width:120px; height:auto;" />
       </td>
@@ -1067,7 +1067,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2011-01-23</td>
@@ -1084,7 +1084,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/YADSb-FPOp31jFGAP8aqKFiodSpkV9bZTmnMFhvg7Ac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mjk3/MTAtMTU2ODI3Mzc5/Mi03NDA0LmpwZWc.jpeg" alt="Cover for Beast" style="max-width:120px; height:auto;" />
       </td>
@@ -1102,7 +1102,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/92tKPhLsahnyw8s_KfJ0euqy6lBK8wd2g2SwSof8pck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDk0/NzktMTU3NTU0ODE0/MS04OTIxLmpwZWc.jpeg" alt="Cover for Blunt Force Trauma" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,7 +1121,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2011-08-16</td>
@@ -1138,7 +1138,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e34fc31e654248c29f6334b470c72dbf.png" alt="Cover for Unto the Locust" style="max-width:120px; height:auto;" />
       </td>
@@ -1158,7 +1158,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17153809adca4656ac5ad79e74cb6e2a.png" alt="Cover for American Capitalist" style="max-width:120px; height:auto;" />
       </td>
@@ -1176,7 +1176,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2012-03-07</td>
@@ -1194,7 +1194,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/42e9eac0dcff42dbb492c71fde5c74d4.png" alt="Cover for The Wrong Side of Heaven and the Righteous Side of Hell, Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1211,7 +1211,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>2013-08-23</td>
@@ -1229,7 +1229,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4e6175ce87e41a4c1f4f7781ba70aff.png" alt="Cover for The Wrong Side of Heaven and the Righteous Side of Hell, Volume 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1246,7 +1246,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cd5c5d362064927c9caf9b110dc3c82.png" alt="Cover for Blood For Blood" style="max-width:120px; height:auto;" />
       </td>
@@ -1264,7 +1264,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/NH1GXow3qcB3BBqupJ2gix3iMONfuo6GmuUvMKV1ppE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzEw/MDctMTM5OTQ5NjMy/MS0yMjkyLmpwZWc.jpeg" alt="Cover for Killer Be Killed" style="max-width:120px; height:auto;" />
       </td>
@@ -1282,7 +1282,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2014-07-22</td>
@@ -1367,57 +1367,57 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 36</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 48</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 57</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 64</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 66</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 72</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 72</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 75</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 80</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 83</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 83</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 83</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 85</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 85</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 86</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 87</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 90</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 90</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 90</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 91</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 91</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 92</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 92</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 92</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 93</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 92</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 93</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 93</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 93</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 93</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 94</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 94</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 94</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 95</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 95</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 95</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 95</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 95</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 96</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 96</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 96</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 97</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 97</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 97</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 97</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 97</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5aa6295d807414fc1ef8eede2ae34d3.png" alt="Cover for Bloodstone &amp; Diamonds" style="max-width:120px; height:auto;" />
       </td>
@@ -1435,7 +1435,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/NyHtHh1C06cZNv92ci0syuELHryhOh5U2VpJtjQM1rU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc2/MjYyLTE2MDU2MDY2/NjEtNDIwMS5qcGVn.jpeg" alt="Cover for Cloud Factory (Re-Issue)" style="max-width:120px; height:auto;" />
       </td>
@@ -1454,7 +1454,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4b45161fb12585322bf5a330e0a7187.png" alt="Cover for VII: Sturm Und Drang" style="max-width:120px; height:auto;" />
       </td>
@@ -1472,7 +1472,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/zksm0P5FAEnBZSHvEqFEcX0PfBC4XBCQLsHzv8PLBOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQz/ODE4LTE2MTQwMzQ0/MDctODQ5NS5qcGVn.jpeg" alt="Cover for Got Your Six (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,7 +1494,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef00e9e9a21dc16e8351c64d14ffd298.png" alt="Cover for Unden!able" style="max-width:120px; height:auto;" />
       </td>
@@ -1513,7 +1513,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/_CfqdOHyQoN-Uazi1THTgoG-dipCWqNW-W6-b6mVztU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Mjg2/NjQtMTQ2NTQ3MjI2/NC00NTIxLmpwZWc.jpeg" alt="Cover for Magma" style="max-width:120px; height:auto;" />
       </td>
@@ -1534,7 +1534,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/KIN_LTYVX4sAwX7lQRcJ2gF7P6am1VLrNIElwzWwMFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjEx/OTQtMTQ4MDY1MjUy/MC05NDE4LmpwZWc.jpeg" alt="Cover for The Duke" style="max-width:120px; height:auto;" />
       </td>
@@ -1552,7 +1552,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/mVKyIu6MNUryMQb5owcfsy1PV4BZXEQMIOglucVqgkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDc5/NjE4LTE1OTMwMTYw/NjItMzc0NS5qcGVn.jpeg" alt="Cover for Lamb of God" style="max-width:120px; height:auto;" />
       </td>
@@ -1570,7 +1570,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/sK9gKE-90if-STp37NbFyGwBJhGwyOpWjdk7Pn9l_iM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI4/NjM2LTE1ODQzNjg3/MTYtNjIzNy5qcGVn.jpeg" alt="Cover for Anticult" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,7 +1588,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/-YZ68cbiz98Ntt7rZsQ2xCBJDMc5uVtVB1FdrvF_0Sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk0/OTc5LTE1MjA3OTE0/NTktNjY2OS5qcGVn.jpeg" alt="Cover for A Decade Of Destruction" style="max-width:120px; height:auto;" />
       </td>
@@ -1607,7 +1607,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2eaac578e04af15efcec4c8ca92e99d3.png" alt="Cover for Ritual" style="max-width:120px; height:auto;" />
       </td>
@@ -1641,13 +1641,13 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 61</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 76</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/faa4f30adfff1eae21b69bf03b19093c.png" alt="Cover for Disobey" style="max-width:120px; height:auto;" />
       </td>
@@ -1666,7 +1666,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/-0Qoz6aPxsG68DIVrEzNZaI63r22D08W5qyson2UsXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzgz/MzE1LTE1OTc3MDkz/MTQtOTA3Mi5qcGVn.jpeg" alt="Cover for And Justice for None (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -1684,7 +1684,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/whqf3qE0-F2VR64k_qu6wQ7rj3vZJkI1wo3VLuhnATA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgw/NjkyLTE1Mzk5NDYy/NzEtNDY1Ni5qcGVn.jpeg" alt="Cover for Here Comes the Boom" style="max-width:120px; height:auto;" />
       </td>
@@ -1702,7 +1702,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2019-10-04</td>
@@ -1726,7 +1726,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/7qh3cVqK0seNhle8QOquXXBWyE3PqPsOr_u3Zeb7yEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQy/MjEyLTE1OTE1OTA2/ODQtMzI2NC5qcGVn.jpeg" alt="Cover for Kinfolks" style="max-width:120px; height:auto;" />
       </td>
@@ -1803,73 +1803,74 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 3</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 3</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 14</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 19</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 15</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 24</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 26</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 36</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 42</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 50</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 66</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 71</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 75</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 78</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 80</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 81</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 89</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 97</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de2e0231e32e2ae0d464c71fe7f535a1.png" alt="Cover for N.A.T.I.O.N." style="max-width:120px; height:auto;" />
       </td>
@@ -1890,7 +1891,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05c31affcb275d3093b731931ba8dd6b.png" alt="Cover for F8" style="max-width:120px; height:auto;" />
       </td>
@@ -1908,7 +1909,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/GdSecPJFpXbR2YSFOisM4gB2p7_V6j7-RP7M0d41jv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQ3/NjIyLTE1ODcyOTgz/MzYtNDE2OS5qcGVn.jpeg" alt="Cover for The Other Side" style="max-width:120px; height:auto;" />
       </td>
@@ -1931,7 +1932,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/kE2KuRQZ914wODBKyNWZKux25JfoRnq_YVXs2KWMHEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMz/NzI0LTE2Mjc0Nzk1/MDYtNTU5My5qcGVn.jpeg" alt="Cover for Nija" style="max-width:120px; height:auto;" />
       </td>
@@ -1950,7 +1951,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/eIhUPMqJMLkxSMMx004b8999qI6AwHU6lG7BDjOIaNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjI1/OTU1LTE2MDU3Mzg0/ODYtODcxMC5qcGVn.jpeg" alt="Cover for Reluctant Hero" style="max-width:120px; height:auto;" />
       </td>
@@ -1968,7 +1969,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4750c900c8b7b9e945e020e7400396f1.png" alt="Cover for Fortitude" style="max-width:120px; height:auto;" />
       </td>
@@ -1982,12 +1983,12 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 53</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/MmFIDLDM1wjb4aMyoeB6Xj5D1yk4dO8uvg1a-MDpDgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzUx/MTUyLTE2MzI3NzQx/NDAtMzY3MC5qcGVn.jpeg" alt="Cover for Shaman" style="max-width:120px; height:auto;" />
       </td>
@@ -2006,7 +2007,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/TmXyZc9WhaCU5mY6x8HDG8qQ51e_KDNjEnfiWOu986I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTIy/NjI5LTE2Mzc4Nzgx/ODItMTkxMS5qcGVn.jpeg" alt="Cover for Happier?" style="max-width:120px; height:auto;" />
       </td>
@@ -2021,12 +2022,12 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 44</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/K9-Tlehx9uOpfISSGcxy4VAwjVqCjWClRTy9_gL08iU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjYy/ODI4LTE2Mzk3Njky/MzMtOTc3NS5qcGVn.jpeg" alt="Cover for Servant Of The Mind (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -2053,7 +2054,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/PxKUXwHf6swBK0vgbZ1Fjk83s8yWclHILimHBRAB8zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQz/NTMyLTE2Nzg5OTU5/MzYtNjY5MS5qcGVn.jpeg" alt="Cover for Water Under The Bridge" style="max-width:120px; height:auto;" />
       </td>
@@ -2131,67 +2132,67 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       <td>
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 4</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 4</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 4</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 4</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 4</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 16</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 21</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 37</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 38</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 44</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 56</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 64</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 73</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 79</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 81</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 83</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 84</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 85</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 88</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 88</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 88</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 88</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 90</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 91</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 91</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 94</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 94</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 95</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 96</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 97</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 96</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 97</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/NwusoVM_uRw4j2qq4KdC-ZXyqeefJR1Pd1NwO6UC6Gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjY5/MzAwLTE2NjEzMjgz/NjktMTAzMS5qcGVn.jpeg" alt="Cover for Afterlife" style="max-width:120px; height:auto;" />
       </td>
@@ -2210,7 +2211,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/IEIYGGVLyw3HD4T_ALs1jV41VJjKu-3lGIjMX0szH8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDg3/MTktMTQ3MDgyODY1/My02MjE0LmpwZWc.jpeg" alt="Cover for Øf Kingdøm and Crøwn" style="max-width:120px; height:auto;" />
       </td>
@@ -2229,7 +2230,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/FbuwYkvI3vMOy3BSK9ChxY158zQe9DjLxi47FHZ0ZJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE0/ODEyLTE2NjUyNTk0/MTYtNDIwNS5qcGVn.jpeg" alt="Cover for Omens" style="max-width:120px; height:auto;" />
       </td>
@@ -2247,7 +2248,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/fosi4xmR9SMLhsPqPrbmO9k_Fs3FbA_RWQbHbTK8sz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzgx/Mjg1LTE2NzAyOTAy/OTctMjAwNC5wbmc.jpeg" alt="Cover for PARAÍSO" style="max-width:120px; height:auto;" />
       </td>
@@ -2267,7 +2268,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/Exp7y1-yUsNYnMQ8_0JAoXGKdshApCtoWEXl_4MlvRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTMy/MjMxLTE2NzY2Mzky/NTYtNzA2My5qcGVn.jpeg" alt="Cover for Dance Devil Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -2288,7 +2289,7 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/kh3JEgxmBR8AWj4YIMxxBlOK1Wq4d-VtvDckDc3aWQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE2/ODUzLTE2OTMzNTIx/NDktODkwMS5qcGVn.jpeg" alt="Cover for Outskirts" style="max-width:120px; height:auto;" />
       </td>
@@ -2372,10 +2373,10 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 16</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 19</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 39</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 40</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 40</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 43</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 45</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 53</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 59</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
@@ -2384,24 +2385,24 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 81</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 83</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 85</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 87</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 90</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 90</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 92</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 94</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 94</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
@@ -2410,25 +2411,25 @@ Groove metal is a subgenre of heavy metal that emerged in the late 1980s and ear
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
