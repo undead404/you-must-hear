@@ -9,6 +9,10 @@ title: british rock
 
 Last updated: <time datetime="2025-11-01T07:04:51.035Z">Sat Nov 01 2025 09:04:51 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+British rock encompasses the diverse guitar-driven sounds emerging from the United Kingdom, ranging from blues-influenced hard rock to post-punk revival and progressive experiments. It carries a distinctly British cultural sensibility in its lyrical wit, social commentary, and melodic approach that sets it apart from American rock traditions. The tag represents a broad spectrum of styles united by geography rather than a single sonic template, reflecting decades of UK musical innovation.
+
 ### 100 chronological releases
 
 <table>
@@ -39,7 +43,7 @@ Last updated: <time datetime="2025-11-01T07:04:51.035Z">Sat Nov 01 2025 09:04:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 24</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -133,8 +137,6 @@ Last updated: <time datetime="2025-11-01T07:04:51.035Z">Sat Nov 01 2025 09:04:51
       <td>Magic Bus: The Who on Tour</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
         </ul>
       </td>
       <td>
@@ -159,7 +161,7 @@ Last updated: <time datetime="2025-11-01T07:04:51.035Z">Sat Nov 01 2025 09:04:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 16</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 26</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 88</li>
         </ul>
       </td>
@@ -485,7 +487,7 @@ Last updated: <time datetime="2025-11-01T07:04:51.035Z">Sat Nov 01 2025 09:04:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 42</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1192,9 +1194,6 @@ Last updated: <time datetime="2025-11-01T07:04:51.035Z">Sat Nov 01 2025 09:04:51
       <td>Sharks</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
         </ul>
       </td>
       <td>
@@ -1237,7 +1236,7 @@ Last updated: <time datetime="2025-11-01T07:04:51.035Z">Sat Nov 01 2025 09:04:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 45</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1714,9 +1713,6 @@ Last updated: <time datetime="2025-11-01T07:04:51.035Z">Sat Nov 01 2025 09:04:51
       <td>The Night That Will Not Die</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
         </ul>
       </td>
       <td>
@@ -1879,7 +1875,7 @@ Last updated: <time datetime="2025-11-01T07:04:51.035Z">Sat Nov 01 2025 09:04:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 4</li>
+            <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1933,11 +1929,7 @@ Last updated: <time datetime="2025-11-01T07:04:51.035Z">Sat Nov 01 2025 09:04:51
       <td>Live at the Fillmore East 1970</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a></li>
         </ul>
       </td>
       <td>
@@ -2141,5 +2133,5 @@ Last updated: <time datetime="2025-11-01T07:04:51.035Z">Sat Nov 01 2025 09:04:51
 - [progressive rock]({{ "/tags/progressive-rock" | relative_url }})
 - [english]({{ "/tags/english" | relative_url }})
 - [blues rock]({{ "/tags/blues-rock" | relative_url }})
-- [heavy metal]({{ "/tags/heavy-metal" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})
+- [heavy metal]({{ "/tags/heavy-metal" | relative_url }})
