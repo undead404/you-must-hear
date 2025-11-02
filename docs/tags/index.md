@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-02T09:18:50.988Z
+date: 2025-11-02T09:24:51.032Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-02T09:18:50.988Z">Sun Nov 02 2025 11:18:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T09:24:51.032Z">Sun Nov 02 2025 11:24:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [melodic metal]({{ "tags/melodic-metal" | relative_url }}) | <time datetime="2025-11-02T09:24:51.032Z">Sun Nov 02 2025 11:24:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [rapcore]({{ "tags/rapcore" | relative_url }}) | <time datetime="2025-11-02T09:18:50.988Z">Sun Nov 02 2025 11:18:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [symphonic metal]({{ "tags/symphonic-metal" | relative_url }}) | <time datetime="2025-11-02T09:16:51.018Z">Sun Nov 02 2025 11:16:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [post-grunge]({{ "tags/post-grunge" | relative_url }}) | <time datetime="2025-11-02T09:02:51.021Z">Sun Nov 02 2025 11:02:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -126,7 +127,6 @@ Last updated: <time datetime="2025-11-02T09:18:50.988Z">Sun Nov 02 2025 11:18:50
 | [power metal]({{ "tags/power-metal" | relative_url }}) | <time datetime="2025-10-31T23:21:51.001Z">Sat Nov 01 2025 01:21:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [groove metal]({{ "tags/groove-metal" | relative_url }}) | <time datetime="2025-10-31T23:02:50.973Z">Sat Nov 01 2025 01:02:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [nu metal]({{ "tags/nu-metal" | relative_url }}) | <time datetime="2025-10-31T22:43:51.494Z">Sat Nov 01 2025 00:43:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [melodic metal]({{ "tags/melodic-metal" | relative_url }}) | <time datetime="2025-10-31T21:46:51.012Z">Fri Oct 31 2025 23:46:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [epic trance]({{ "tags/epic-trance" | relative_url }}) | <time datetime="2025-10-31T21:08:52.143Z">Fri Oct 31 2025 23:08:52 GMT+0200 (Eastern European Standard Time)</time> |
 | [acoustic rock]({{ "tags/acoustic-rock" | relative_url }}) | <time datetime="2025-10-31T20:56:50.977Z">Fri Oct 31 2025 22:56:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [latino]({{ "tags/latino" | relative_url }}) | <time datetime="2025-10-31T20:55:51.053Z">Fri Oct 31 2025 22:55:51 GMT+0200 (Eastern European Standard Time)</time> |
