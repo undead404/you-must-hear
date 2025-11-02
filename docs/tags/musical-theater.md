@@ -9,6 +9,10 @@ title: musical theater
 
 Last updated: <time datetime="2025-11-01T06:28:50.961Z">Sat Nov 01 2025 08:28:50 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Musical theater encompasses songs written for stage productions, combining narrative storytelling with theatrical performance styles ranging from golden-age Broadway classics to contemporary pop-influenced shows. The sound is characterized by expressive vocals, dramatic delivery, and lyrics that advance plot or reveal character, often featuring ensemble numbers and soaring ballads. This tag bridges entertainment and art, capturing both traditional show tunes and modern theatrical works across film adaptations and original stage recordings.
+
 ### 100 chronological releases
 
 <table>

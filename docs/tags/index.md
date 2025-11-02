@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-02T11:39:58.809Z
+date: 2025-11-02T13:50:50.930Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-02T11:39:58.809Z">Sun Nov 02 2025 13:39:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T13:50:50.930Z">Sun Nov 02 2025 15:50:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [visual kei]({{ "tags/visual-kei" | relative_url }}) | <time datetime="2025-11-02T13:50:50.930Z">Sun Nov 02 2025 15:50:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [late romantic]({{ "tags/late-romantic" | relative_url }}) | <time datetime="2025-11-02T11:39:58.809Z">Sun Nov 02 2025 13:39:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [stoner metal]({{ "tags/stoner-metal" | relative_url }}) | <time datetime="2025-11-02T11:27:51.041Z">Sun Nov 02 2025 13:27:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [power metal]({{ "tags/power-metal" | relative_url }}) | <time datetime="2025-11-02T11:26:51.147Z">Sun Nov 02 2025 13:26:51 GMT+0200 (Eastern European Standard Time)</time> |
@@ -965,7 +966,6 @@ Last updated: <time datetime="2025-11-02T11:39:58.809Z">Sun Nov 02 2025 13:39:58
 | [yiddish]({{ "tags/yiddish" | relative_url }}) | <time datetime="2025-10-22T10:24:23.289Z">Wed Oct 22 2025 13:24:23 GMT+0300 (Eastern European Summer Time)</time> |
 | [persian rock]({{ "tags/persian-rock" | relative_url }}) | <time datetime="2025-10-22T10:23:56.209Z">Wed Oct 22 2025 13:23:56 GMT+0300 (Eastern European Summer Time)</time> |
 | [haiti]({{ "tags/haiti" | relative_url }}) | <time datetime="2025-10-22T10:22:37.640Z">Wed Oct 22 2025 13:22:37 GMT+0300 (Eastern European Summer Time)</time> |
-| [visual kei]({{ "tags/visual-kei" | relative_url }}) | <time datetime="2025-10-22T10:22:00.615Z">Wed Oct 22 2025 13:22:00 GMT+0300 (Eastern European Summer Time)</time> |
 | [alt pop]({{ "tags/alt-pop" | relative_url }}) | <time datetime="2025-10-22T10:21:32.491Z">Wed Oct 22 2025 13:21:32 GMT+0300 (Eastern European Summer Time)</time> |
 | [oratorio]({{ "tags/oratorio" | relative_url }}) | <time datetime="2025-10-22T10:20:21.061Z">Wed Oct 22 2025 13:20:21 GMT+0300 (Eastern European Summer Time)</time> |
 | [late 90s country]({{ "tags/late-90s-country" | relative_url }}) | <time datetime="2025-10-22T10:18:40.970Z">Wed Oct 22 2025 13:18:40 GMT+0300 (Eastern European Summer Time)</time> |
