@@ -9,110 +9,2017 @@ title: dansk
 
 Last updated: <time datetime="2025-10-25T12:33:57.619Z">Sat Oct 25 2025 15:33:57 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Dansk refers to music sung in the Danish language or originating from Denmark&#39;s vibrant music scene. The tag encompasses diverse styles from pop and rock to hip-hop and indie, unified by Danish lyrics or cultural identity. Artists often blend international influences with distinctly Nordic sensibilities and melodic traditions.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 3 |  | 1969 | Povl Dissing | Jeg Er En Tosset Spillemand |
-| 53 | ![Cover](https://i.discogs.com/yr_b4fFFYyp5VSRAfj6tulWldXqNct5CrV8b0Da17hA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTMy/MTMtMTMwMTc1MTA4/OS5qcGVn.jpeg) | 1971-11-21 | Gasolin&#39; | Gasolin&#39; |
-| 22 | ![Cover](https://i.discogs.com/12RCy_DS__hAIyBhMZTDSdI_F_w073ycKU7DfvDd8l0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTYy/MjQtMTMwMTc1MTgz/Mi5qcGVn.jpeg) | 1972-11-15 | Gasolin&#39; | Gasolin&#39; 2 |
-| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d8fc7b6c965a4ec4850c78f07dacca18.png) |  | Benal | Benjamin og Albert |
-| 25 |  | 1977 | C.V. Jørgensen | Storbyens Små Oaser |
-| 88 |  | 1980 | C.V. Jørgensen | Tidens Tern |
-| 7 | ![Cover](https://i.discogs.com/cTyTMlnbNwvIBIOaDURg8mKYymxaD2W9jqgl9MEuf1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY3/MDgtMTQ0MzgyODc0/Mi04NjYzLmpwZWc.jpeg) | 1981 | Tøsedrengene | Tiden Står Stille |
-| 62 |  | 1984 | Tv-2 | Nutidens Unge |
-| 72 |  | 1984 | Tøsedrengene | Tiden Er Klog |
-| 56 | ![Cover](https://i.discogs.com/1f_R1oMXpni5P8ixTDCN4hoGkySjw9IGAdvF3Fkuje0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQw/NDYtMTU2ODcxNTgw/MS04NjI0LmpwZWc.jpeg) | 1985 | Tv-2 | Rigtige Mænd Gider Ikke Høre Mere Vrøvl |
-| 36 | ![Cover](https://i.discogs.com/ceqPrUtWSERuNDLfig-v4t9z2teTppN1TIgrVJRirMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjYz/NTUtMTQ0Nzc4NTAx/OS02NzI2LmpwZWc.jpeg) | 1987-03-05 | Tv-2 | En Dejlig Torsdag |
-| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/452435581e3c4de0bc63d6bc8d001792.png) |  | Lis Sørensen | Hjerternes sang |
-| 21 |  | 1988 | C.V. Jørgensen | Indian Summer |
-| 69 |  | 1988 | Johnny Madsen | Udenfor Sæsonen |
-| 78 |  | 1988 | Tv-2 | Nærmest Lykkelig |
-| 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dc797635b0e34ac4a01c7e4578d57c4e.png) | 1988 | Anne Linnet | Jeg Er Jo Lige Her |
-| 11 |  | 1989 | Lars H.U.G. | Kopy |
-| 32 |  | 1989 | Anne Linnet | Min Sang |
-| 67 |  | 1989 | Sanne Salomonsen | Sanne |
-| 66 | ![Cover](https://i.discogs.com/EwyKK19BeW6opA79nRQ0Zjp9GQsUWU173h3N65CfN8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzgw/MDAtMTQ0NDkxNDI2/NC0xODMzLmpwZWc.jpeg) | 1989-04-20 | Lis Sørensen | Hjerternes Sang |
-| 33 | ![Cover](https://i.discogs.com/cMvz9jYRkYUu6IeAfOoEcJwhkKpS-ADauB-LE8t8kEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MzI4/NDMtMTUyNTk4OTA3/OS0yMTg3LmpwZWc.jpeg) | 1990 | Gasolin&#39; | Rabalderstræde Forever |
-| 51 |  | 1990 | C.V. Jørgensen | I Det Muntre Hjørne |
-| 54 |  | 1990 | Love Shop | 1990 |
-| 4 | ![Cover](https://i.discogs.com/szRsK2VUGPQjC4z-4zDERK5UZzxkq9gkye8kUW1AoqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTk4/NC0xMzkwMDcwMDE3/LTI0NTEuanBlZw.jpeg) | 1992 | Lars H.U.G. | Blidt over dig |
-| 84 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2ec41321e60d2065e9852af727f90aa4.png) | 1992 | Søs Fenger | On Holiday |
-| 64 |  | 1994 | C.V. Jørgensen | Sjælland |
-| 12 |  | 1995 | Caroline Henderson | Cinemataztic |
-| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b64eca708027e7ac1b6bc7e95a32a054.png) | 1995 | The Savage Rose | Black Angel |
-| 35 | ![Cover](https://i.discogs.com/CHFqbn8p6I8czB3FcE3MfdRDUoswzxfbwEHRPIzEBHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMw/NjA2LTE1NTIyMTMz/MTktNDI0Ni5qcGVn.jpeg) | 1995 | Hanne Boel | Best Of |
-| 57 |  | 1995 | Poul Krebs | Små Sensationer |
-| 63 |  | 1995 | Østkyst Hustlers | Verdens Længste Rap |
-| 2 |  | 1996 | Niels-Henning Ørsted Pedersen | Those Who Were |
-| 44 |  | 1996-01-16 | Tv-2 | Kys bruden |
-| 76 |  | 1996-05-24 | Dizzy Mizz Lizzy | Rotator |
-| 13 |  | 1997 | Thomas Helmig | Årene går (De største af de første) |
-| 14 |  | 1997 | Ibens | Ibens |
-| 59 |  | 1997 | Søs Fenger | Gamle Flammer |
-| 20 |  | 1998 | Den Gale Pose | Sådan er reglerne |
-| 39 |  | 1998-02-22 | Tv-2 | Yndlingsbabe |
-| 24 |  | 1998-10-23 | Sanne Salomonsen | In a New York Minute |
-| 18 |  | 1999 | Gnags | Gnags Greatest |
-| 81 | ![Cover](https://i.discogs.com/8xjfASS2wVb85F53-LNPMEoAuK4AZirjTb4Vv2TcpJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM2/NzEzLTE2MzAyMzUx/MzUtNTM4Ny5qcGVn.jpeg) | 1999 | Suspekt | Søndagsbarn |
-| 10 |  | 2000-01-31 | Sanne Salomonsen | De bedste af de bedste |
-| 92 |  | 2003-03-03 | Kashmir | Zitilites |
-| 34 | ![Cover](https://i.discogs.com/idgVSfzJTHILdXfsn0nCbG-3HuwLgx8BTdfhXzkhbjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY3/MjUyLTE1NTI4NTg4/MDMtMjY4Mi5qcGVn.jpeg) | 2004 | Lars H.U.G. | Greatest H.U.G |
-| 31 | ![Cover](https://i.discogs.com/dmfk-ORM7PTqei_4ls3Gqwd_evvdAyyBGwmt0zmiYjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDg4/MjQtMTQxNjEzNjI3/NS01MTMzLmpwZWc.jpeg) | 2004-05-24 | Johnny Deluxe | De Største Af De Første |
-| 48 |  | 2004-10-04 | Juncker | Snork City |
-| 71 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ba45a9fb3bab433cae98f45754f63a0f.png) | 2004-11-14 | Rasmus Nøhr | Rasmus Nøhr |
-| 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5a611a4a873040068dce43a7714f7ab1.png) | 2005 | Carpark North | All Things to All People |
-| 41 |  | 2005-02-18 | Oh No Ono | Now You Know |
-| 75 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/64af448e47444a509ea26daccd0dd68a.png) | 2005-10-10 | Kashmir | No Balance Palace |
-| 89 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c58f3652e6934281a71252cdac74772b.png) | 2005-11-07 | Tv-2 | De Første Kærester På Månen |
-| 16 | ![Cover](https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg) | 2006 | Various Artists | 20 Danske Jule Hits |
-| 77 |  | 2006 | Thomas Helmig | Helmig Herfra |
-| 43 |  | 2006-03-05 | Rasmus Nøhr | Lykkelig Smutning |
-| 87 |  | 2006-09-25 | Nik &amp; Jay | 3: Fresh-Fri-Fly |
-| 97 |  | 2006-10-06 | Nephew | Interkom Kom Ind |
-| 60 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/76c430f5e69d42b5b8c4814808771636.png) | 2006-12-22 | Malene Mortensen | Malene |
-| 95 |  | 2007 | Natasja | I danmark er jeg født |
-| 94 | ![Cover](https://i.discogs.com/Ysn3BGKfb3dh6YOBBvAJX01rTwja9_5BP6T66aLQu04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI2/MzctMTM5MDE1MzMw/Ny0yMjM1LmpwZWc.jpeg) | 2007-09-17 | Natasja | I Danmark Er Jeg Foedt |
-| 27 |  | 2007-11-05 | Nephew | 07.07.07 |
-| 58 |  | 2007-11-19 | Tv-2 | For dig ku&#39; jeg gøre alting |
-| 93 | ![Cover](https://i.discogs.com/oswIlu84h9FiBzxPR19knR78wa47XRmUyzcKx2NzWSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzk0/MTQtMTYzNjg5NDU5/Ni0zMjAwLmpwZWc.jpeg) | 2008 | Natasja | Shooting Star |
-| 68 | ![Cover](https://i.discogs.com/iWj6R8YG-nh6l9myFLPMWSsrP8LlwSlC8QB2nOToGX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAz/NDktMTIyNjU3OTM3/MC5qcGVn.jpeg) | 2008-02-11 | The Storm | Where the Storm Meets the Ground |
-| 86 |  | 2008-09-08 | Sys Bjerre | Gør Det Selv |
-| 96 |  | 2008-09-08 | Carpark North | Grateful |
-| 8 |  | 2008-09-23 | Camille Jones | Barking Up The Wrong Tree |
-| 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/86be195209cc4f0ab16640b1d39b5f59.png) | 2008-11-17 | Nik &amp; Jay | De største |
-| 26 |  | 2009 | Karen Mukupa | Dreamer |
-| 40 |  | 2009-03-02 | Jokeren | Den Tørstige Digter |
-| 47 |  | 2009-03-09 | Sanne Salomonsen | Unico |
-| 61 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8e636c367393412b95f346f1245ae21e.png) | 2009-05-04 | Sukkerchok | Hvor som helst - når som helst |
-| 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9d44bd7bdbff43f9bb24a687c1a6f46d.png) | 2009-06-05 | Nephew | Danmark Denmark |
-| 23 |  | 2009-09-28 | Grand Avenue | Place To Fall |
-| 82 |  | 2009-09-28 | Magtens Korridorer | Milan Allé |
-| 52 |  | 2009-11-02 | Thomas Helmig | Tommy Boy |
-| 15 | ![Cover](https://i.discogs.com/r987rcVwlb2AIFZEm0f6uQX8JgKK3nIdZOJUmGdsEms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzEx/MDMtMTUxODE3ODA3/MC05ODA1LmpwZWc.jpeg) | 2009-11-16 | Søs Fenger | Stjernenat |
-| 42 |  | 2010-03-08 | Rasmus Nøhr | Fra Kæreste Til Grin |
-| 6 |  | 2010-05-03 | Kim Larsen | Mine damer og herrer |
-| 99 | ![Cover](https://i.discogs.com/2xCTYMRaPi-1_N7f6dWa1-1RUaP0oCbjJCvBMDAvHrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzE5/ODEtMTQ1Njg0NDQ3/OC0xMzczLmpwZWc.jpeg) | 2010-05-12 | Rasmus Seebach | Natteravn |
-| 79 |  | 2010-09-17 | Agnes Obel | Philharmonics |
-| 29 |  | 2010-09-20 | Sys Bjerre | All In |
-| 5 | ![Cover](https://i.discogs.com/YTF_-ZLWcM0DV16D3JuQiZqOSw4BkWe4whceQ7oParw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzE2/MzItMTM0OTAzMDk1/OS01MTAzLmpwZWc.jpeg) | 2010-11-01 | Love Shop | Frelsens Hær |
-| 80 | ![Cover](https://i.discogs.com/vmsV7pEvw2ylVixlJIImpcHsJuUOYJLh1hnh468zXIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njc1/NTctMTMwMDM3OTQ3/NC5qcGVn.jpeg) | 2011-03-19 | L.O.C. | Libertiner |
-| 90 |  | 2011-09-19 | Malk De Koijn | Toback To The Fromtime |
-| 50 |  | 2011-10-31 | Magtens Korridorer | Imperiet Falder |
-| 37 |  | 2011-11-14 | Sanne Salomonsen | Tiden Brænder |
-| 1 | ![Cover](https://i.discogs.com/rFm3tWaw0nKqUEM0UR2rPbL5h-fJV-o6rQ0vDk0ZE0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDQ4/MjgtMTM5ODk3NzA5/NC03OTI4LmpwZWc.jpeg) | 2012 | Love Shop | Skandinavisk Lyst |
-| 65 |  | 2012-04-30 | L.O.C. | Prestige, paranoia, persona vol. 1 |
-| 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d58c92757f574517ad429b21b641c13d.png) | 2012-09-17 | Barbara Moleko | Lykken er... |
-| 98 |  | 2012-10-29 | Marie Key | De her dage |
-| 83 |  | 2013-09-16 | Sivas | d.a.u.d.a |
-| 19 | ![Cover](https://i.discogs.com/Noxm1xpare09LDKpLtiUHG6F1jZjtcsfkjbSmeRi-58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjM2/NjYtMTM4MDc0MjU2/NC05MDMwLmpwZWc.jpeg) | 2013-09-23 | L.I.G.A | Den Første Gang |
-| 46 | ![Cover](https://i.discogs.com/Nfbay8h2X4Tv_tfys_I_04SUWO-NFgBV6FEHEqB_ytE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDk2/NDQtMTQyMzg1MTUx/MS0xNDMzLmpwZWc.jpeg) | 2014-12-04 | TopGunn | 6 liter |
-| 49 | ![Cover](https://i.discogs.com/ogQR-csmEMzpRExSq1scTBwpL1f2wJx5xUsQQWocUgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzc0/NDUtMTQzMzE3NTEz/Mi02OTg1LmpwZWc.jpeg) | 2015-06-01 | Camilo &amp; Grande | Eufori |
-| 28 | ![Cover](https://i.discogs.com/WO0tC2tZqMFD2lmbWtAteklf8fOlcd4zfxIwXblrV0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Nzcy/NDMtMTQ0MjI2NDE1/OC05OTg4LmpwZWc.jpeg) | 2015-09-11 | Rasmus Seebach | Sandstorm |
-| 85 | ![Cover](https://i.discogs.com/7nS0SI5Rv8alZLYuDewUiUmD5Xa38lNqbb3DLfO2S24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg3/NDgwLTE1NTE0MzI2/NzUtODQwNC5qcGVn.jpeg) | 2019-03-01 | Benal | Benjamin Og Albert |
-| 45 | ![Cover](https://i.discogs.com/aLv_TTUvokB9X9MQBE0t3IT20dIB76QKaHk1MhzYwH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTUz/NTA4LTE2MDQzNDA1/MjgtNjQ5OS5qcGVn.jpeg) | 2020-10-23 | Nicklas Sahl | Unsolvable |
-| 9 | ![Cover](https://i.discogs.com/b5bjUF-NY8oAlupWcSJa5N9veEhe-lBfDlVU1bthFeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTk1/ODg2LTE2NTk3OTQz/ODctMjk5Ny5qcGVn.jpeg) | 2021-04-05 | Schacke | Night Worlds |
-| 17 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2023 | Various Artists | Hemli&#39; Helikopter |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>1969</td>
+      <td>Povl Dissing</td>
+      <td>Jeg Er En Tosset Spillemand</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/yr_b4fFFYyp5VSRAfj6tulWldXqNct5CrV8b0Da17hA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTMy/MTMtMTMwMTc1MTA4/OS5qcGVn.jpeg" alt="Cover for Gasolin&#39;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971-11-21</td>
+      <td>Gasolin&#39;</td>
+      <td>Gasolin&#39;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/12RCy_DS__hAIyBhMZTDSdI_F_w073ycKU7DfvDd8l0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTYy/MjQtMTMwMTc1MTgz/Mi5qcGVn.jpeg" alt="Cover for Gasolin&#39; 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972-11-15</td>
+      <td>Gasolin&#39;</td>
+      <td>Gasolin&#39; 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>C.V. Jørgensen</td>
+      <td>Storbyens Små Oaser</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>1980</td>
+      <td>C.V. Jørgensen</td>
+      <td>Tidens Tern</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/cTyTMlnbNwvIBIOaDURg8mKYymxaD2W9jqgl9MEuf1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzY3/MDgtMTQ0MzgyODc0/Mi04NjYzLmpwZWc.jpeg" alt="Cover for Tiden Står Stille" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981</td>
+      <td>Tøsedrengene</td>
+      <td>Tiden Står Stille</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 62</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>1984</td>
+      <td>Tv-2</td>
+      <td>Nutidens Unge</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 88</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>1984</td>
+      <td>Tøsedrengene</td>
+      <td>Tiden Er Klog</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 91</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/1f_R1oMXpni5P8ixTDCN4hoGkySjw9IGAdvF3Fkuje0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQw/NDYtMTU2ODcxNTgw/MS04NjI0LmpwZWc.jpeg" alt="Cover for Rigtige Mænd Gider Ikke Høre Mere Vrøvl" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Tv-2</td>
+      <td>Rigtige Mænd Gider Ikke Høre Mere Vrøvl</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 83</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/ceqPrUtWSERuNDLfig-v4t9z2teTppN1TIgrVJRirMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjYz/NTUtMTQ0Nzc4NTAx/OS02NzI2LmpwZWc.jpeg" alt="Cover for En Dejlig Torsdag" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987-03-05</td>
+      <td>Tv-2</td>
+      <td>En Dejlig Torsdag</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 73</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td>1988</td>
+      <td>C.V. Jørgensen</td>
+      <td>Indian Summer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>1988</td>
+      <td>Tv-2</td>
+      <td>Nærmest Lykkelig</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 95</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc797635b0e34ac4a01c7e4578d57c4e.png" alt="Cover for Jeg Er Jo Lige Her" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Anne Linnet</td>
+      <td>Jeg Er Jo Lige Her</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 15</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>1988</td>
+      <td>Johnny Madsen</td>
+      <td>Udenfor Sæsonen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+      </td>
+      <td>1989</td>
+      <td>Lars H.U.G.</td>
+      <td>Kopy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>1989</td>
+      <td>Sanne Salomonsen</td>
+      <td>Sanne</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 89</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>1989</td>
+      <td>Anne Linnet</td>
+      <td>Min Sang</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/EwyKK19BeW6opA79nRQ0Zjp9GQsUWU173h3N65CfN8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzgw/MDAtMTQ0NDkxNDI2/NC0xODMzLmpwZWc.jpeg" alt="Cover for Hjerternes Sang" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989-04-20</td>
+      <td>Lis Sørensen</td>
+      <td>Hjerternes Sang</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>C.V. Jørgensen</td>
+      <td>I Det Muntre Hjørne</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Love Shop</td>
+      <td>1990</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 26</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/cMvz9jYRkYUu6IeAfOoEcJwhkKpS-ADauB-LE8t8kEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MzI4/NDMtMTUyNTk4OTA3/OS0yMTg3LmpwZWc.jpeg" alt="Cover for Rabalderstræde Forever" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Gasolin&#39;</td>
+      <td>Rabalderstræde Forever</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/szRsK2VUGPQjC4z-4zDERK5UZzxkq9gkye8kUW1AoqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTk4/NC0xMzkwMDcwMDE3/LTI0NTEuanBlZw.jpeg" alt="Cover for Blidt over dig" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Lars H.U.G.</td>
+      <td>Blidt over dig</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 59</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ec41321e60d2065e9852af727f90aa4.png" alt="Cover for On Holiday" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Søs Fenger</td>
+      <td>On Holiday</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>C.V. Jørgensen</td>
+      <td>Sjælland</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Poul Krebs</td>
+      <td>Små Sensationer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 35</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 85</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Caroline Henderson</td>
+      <td>Cinemataztic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b64eca708027e7ac1b6bc7e95a32a054.png" alt="Cover for Black Angel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>The Savage Rose</td>
+      <td>Black Angel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/CHFqbn8p6I8czB3FcE3MfdRDUoswzxfbwEHRPIzEBHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMw/NjA2LTE1NTIyMTMz/MTktNDI0Ni5qcGVn.jpeg" alt="Cover for Best Of" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Hanne Boel</td>
+      <td>Best Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Østkyst Hustlers</td>
+      <td>Verdens Længste Rap</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Niels-Henning Ørsted Pedersen</td>
+      <td>Those Who Were</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+      </td>
+      <td>1996-01-16</td>
+      <td>Tv-2</td>
+      <td>Kys bruden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 79</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>1996-05-24</td>
+      <td>Dizzy Mizz Lizzy</td>
+      <td>Rotator</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Søs Fenger</td>
+      <td>Gamle Flammer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 87</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Thomas Helmig</td>
+      <td>Årene går (De største af de første)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Ibens</td>
+      <td>Ibens</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Den Gale Pose</td>
+      <td>Sådan er reglerne</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>1998-02-22</td>
+      <td>Tv-2</td>
+      <td>Yndlingsbabe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 75</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>1998-10-23</td>
+      <td>Sanne Salomonsen</td>
+      <td>In a New York Minute</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Gnags</td>
+      <td>Gnags Greatest</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 3</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/8xjfASS2wVb85F53-LNPMEoAuK4AZirjTb4Vv2TcpJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM2/NzEzLTE2MzAyMzUx/MzUtNTM4Ny5qcGVn.jpeg" alt="Cover for Søndagsbarn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Suspekt</td>
+      <td>Søndagsbarn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 57</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td>2000-01-31</td>
+      <td>Sanne Salomonsen</td>
+      <td>De bedste af de bedste</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>2003-03-03</td>
+      <td>Kashmir</td>
+      <td>Zitilites</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/idgVSfzJTHILdXfsn0nCbG-3HuwLgx8BTdfhXzkhbjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY3/MjUyLTE1NTI4NTg4/MDMtMjY4Mi5qcGVn.jpeg" alt="Cover for Greatest H.U.G" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Lars H.U.G.</td>
+      <td>Greatest H.U.G</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 8</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 72</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/dmfk-ORM7PTqei_4ls3Gqwd_evvdAyyBGwmt0zmiYjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDg4/MjQtMTQxNjEzNjI3/NS01MTMzLmpwZWc.jpeg" alt="Cover for De Største Af De Første" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-05-24</td>
+      <td>Johnny Deluxe</td>
+      <td>De Største Af De Første</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 71</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td>2004-10-04</td>
+      <td>Juncker</td>
+      <td>Snork City</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba45a9fb3bab433cae98f45754f63a0f.png" alt="Cover for Rasmus Nøhr" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-11-14</td>
+      <td>Rasmus Nøhr</td>
+      <td>Rasmus Nøhr</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 38</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a611a4a873040068dce43a7714f7ab1.png" alt="Cover for All Things to All People" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Carpark North</td>
+      <td>All Things to All People</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td>2005-02-18</td>
+      <td>Oh No Ono</td>
+      <td>Now You Know</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64af448e47444a509ea26daccd0dd68a.png" alt="Cover for No Balance Palace" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-10-10</td>
+      <td>Kashmir</td>
+      <td>No Balance Palace</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c58f3652e6934281a71252cdac74772b.png" alt="Cover for De Første Kærester På Månen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-07</td>
+      <td>Tv-2</td>
+      <td>De Første Kærester På Månen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 75</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg" alt="Cover for 20 Danske Jule Hits" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Various Artists</td>
+      <td>20 Danske Jule Hits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 66</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Thomas Helmig</td>
+      <td>Helmig Herfra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 55</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 94</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>2006-03-05</td>
+      <td>Rasmus Nøhr</td>
+      <td>Lykkelig Smutning</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 21</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 78</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>2006-09-25</td>
+      <td>Nik &amp; Jay</td>
+      <td>3: Fresh-Fri-Fly</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>2006-10-06</td>
+      <td>Nephew</td>
+      <td>Interkom Kom Ind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76c430f5e69d42b5b8c4814808771636.png" alt="Cover for Malene" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-12-22</td>
+      <td>Malene Mortensen</td>
+      <td>Malene</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Natasja</td>
+      <td>I danmark er jeg født</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/Ysn3BGKfb3dh6YOBBvAJX01rTwja9_5BP6T66aLQu04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzI2/MzctMTM5MDE1MzMw/Ny0yMjM1LmpwZWc.jpeg" alt="Cover for I Danmark Er Jeg Foedt" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-09-17</td>
+      <td>Natasja</td>
+      <td>I Danmark Er Jeg Foedt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td>2007-11-05</td>
+      <td>Nephew</td>
+      <td>07.07.07</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td>2007-11-19</td>
+      <td>Tv-2</td>
+      <td>For dig ku&#39; jeg gøre alting</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 86</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/oswIlu84h9FiBzxPR19knR78wa47XRmUyzcKx2NzWSs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzk0/MTQtMTYzNjg5NDU5/Ni0zMjAwLmpwZWc.jpeg" alt="Cover for Shooting Star" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Natasja</td>
+      <td>Shooting Star</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/iWj6R8YG-nh6l9myFLPMWSsrP8LlwSlC8QB2nOToGX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzAz/NDktMTIyNjU3OTM3/MC5qcGVn.jpeg" alt="Cover for Where the Storm Meets the Ground" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-02-11</td>
+      <td>The Storm</td>
+      <td>Where the Storm Meets the Ground</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>2008-09-08</td>
+      <td>Sys Bjerre</td>
+      <td>Gør Det Selv</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 73</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>2008-09-08</td>
+      <td>Carpark North</td>
+      <td>Grateful</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 82</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td>2008-09-23</td>
+      <td>Camille Jones</td>
+      <td>Barking Up The Wrong Tree</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86be195209cc4f0ab16640b1d39b5f59.png" alt="Cover for De største" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-11-17</td>
+      <td>Nik &amp; Jay</td>
+      <td>De største</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Karen Mukupa</td>
+      <td>Dreamer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td>2009-03-02</td>
+      <td>Jokeren</td>
+      <td>Den Tørstige Digter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>2009-03-09</td>
+      <td>Sanne Salomonsen</td>
+      <td>Unico</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 80</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e636c367393412b95f346f1245ae21e.png" alt="Cover for Hvor som helst - når som helst" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-05-04</td>
+      <td>Sukkerchok</td>
+      <td>Hvor som helst - når som helst</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d44bd7bdbff43f9bb24a687c1a6f46d.png" alt="Cover for Danmark Denmark" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-06-05</td>
+      <td>Nephew</td>
+      <td>Danmark Denmark</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td>2009-09-28</td>
+      <td>Grand Avenue</td>
+      <td>Place To Fall</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2009-09-28</td>
+      <td>Magtens Korridorer</td>
+      <td>Milan Allé</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td>2009-11-02</td>
+      <td>Thomas Helmig</td>
+      <td>Tommy Boy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 28</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 81</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/r987rcVwlb2AIFZEm0f6uQX8JgKK3nIdZOJUmGdsEms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzEx/MDMtMTUxODE3ODA3/MC05ODA1LmpwZWc.jpeg" alt="Cover for Stjernenat" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-11-16</td>
+      <td>Søs Fenger</td>
+      <td>Stjernenat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 65</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2010-03-08</td>
+      <td>Rasmus Nøhr</td>
+      <td>Fra Kæreste Til Grin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 17</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>2010-05-03</td>
+      <td>Kim Larsen</td>
+      <td>Mine damer og herrer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/2xCTYMRaPi-1_N7f6dWa1-1RUaP0oCbjJCvBMDAvHrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzE5/ODEtMTQ1Njg0NDQ3/OC0xMzczLmpwZWc.jpeg" alt="Cover for Natteravn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-05-12</td>
+      <td>Rasmus Seebach</td>
+      <td>Natteravn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>2010-09-17</td>
+      <td>Agnes Obel</td>
+      <td>Philharmonics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 15</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 69</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 81</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>2010-09-20</td>
+      <td>Sys Bjerre</td>
+      <td>All In</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/YTF_-ZLWcM0DV16D3JuQiZqOSw4BkWe4whceQ7oParw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzE2/MzItMTM0OTAzMDk1/OS01MTAzLmpwZWc.jpeg" alt="Cover for Frelsens Hær" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-11-01</td>
+      <td>Love Shop</td>
+      <td>Frelsens Hær</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 60</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/vmsV7pEvw2ylVixlJIImpcHsJuUOYJLh1hnh468zXIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njc1/NTctMTMwMDM3OTQ3/NC5qcGVn.jpeg" alt="Cover for Libertiner" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-03-19</td>
+      <td>L.O.C.</td>
+      <td>Libertiner</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>2011-09-19</td>
+      <td>Malk De Koijn</td>
+      <td>Toback To The Fromtime</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td>2011-10-31</td>
+      <td>Magtens Korridorer</td>
+      <td>Imperiet Falder</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2011-11-14</td>
+      <td>Sanne Salomonsen</td>
+      <td>Tiden Brænder</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 74</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/rFm3tWaw0nKqUEM0UR2rPbL5h-fJV-o6rQ0vDk0ZE0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDQ4/MjgtMTM5ODk3NzA5/NC03OTI4LmpwZWc.jpeg" alt="Cover for Skandinavisk Lyst" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Love Shop</td>
+      <td>Skandinavisk Lyst</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td>2012-04-30</td>
+      <td>L.O.C.</td>
+      <td>Prestige, paranoia, persona vol. 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d58c92757f574517ad429b21b641c13d.png" alt="Cover for Lykken er..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-09-17</td>
+      <td>Barbara Moleko</td>
+      <td>Lykken er...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>2012-10-29</td>
+      <td>Marie Key</td>
+      <td>De her dage</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 99</li>
+            <li> <a href="{{ "/tags/dansk-pop-rock" | relative_url }}">dansk pop rock</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>2013-09-16</td>
+      <td>Sivas</td>
+      <td>d.a.u.d.a</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 61</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/Noxm1xpare09LDKpLtiUHG6F1jZjtcsfkjbSmeRi-58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjM2/NjYtMTM4MDc0MjU2/NC05MDMwLmpwZWc.jpeg" alt="Cover for Den Første Gang" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-09-23</td>
+      <td>L.I.G.A</td>
+      <td>Den Første Gang</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 8</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/Nfbay8h2X4Tv_tfys_I_04SUWO-NFgBV6FEHEqB_ytE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDk2/NDQtMTQyMzg1MTUx/MS0xNDMzLmpwZWc.jpeg" alt="Cover for 6 liter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-12-04</td>
+      <td>TopGunn</td>
+      <td>6 liter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 21</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/ogQR-csmEMzpRExSq1scTBwpL1f2wJx5xUsQQWocUgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzc0/NDUtMTQzMzE3NTEz/Mi02OTg1LmpwZWc.jpeg" alt="Cover for Eufori" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-06-01</td>
+      <td>Camilo &amp; Grande</td>
+      <td>Eufori</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 24</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/WO0tC2tZqMFD2lmbWtAteklf8fOlcd4zfxIwXblrV0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Nzcy/NDMtMTQ0MjI2NDE1/OC05OTg4LmpwZWc.jpeg" alt="Cover for Sandstorm" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-09-11</td>
+      <td>Rasmus Seebach</td>
+      <td>Sandstorm</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 10</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/7nS0SI5Rv8alZLYuDewUiUmD5Xa38lNqbb3DLfO2S24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg3/NDgwLTE1NTE0MzI2/NzUtODQwNC5qcGVn.jpeg" alt="Cover for Benjamin Og Albert" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-03-01</td>
+      <td>Benal</td>
+      <td>Benjamin Og Albert</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/aLv_TTUvokB9X9MQBE0t3IT20dIB76QKaHk1MhzYwH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTUz/NTA4LTE2MDQzNDA1/MjgtNjQ5OS5qcGVn.jpeg" alt="Cover for Unsolvable" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-10-23</td>
+      <td>Nicklas Sahl</td>
+      <td>Unsolvable</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 20</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/b5bjUF-NY8oAlupWcSJa5N9veEhe-lBfDlVU1bthFeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTk1/ODg2LTE2NTk3OTQz/ODctMjk5Ny5qcGVn.jpeg" alt="Cover for Night Worlds" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-05</td>
+      <td>Schacke</td>
+      <td>Night Worlds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Hemli&#39; Helikopter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Hemli&#39; Helikopter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8fc7b6c965a4ec4850c78f07dacca18.png" alt="Cover for Benjamin og Albert" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Benal</td>
+      <td>Benjamin og Albert</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/452435581e3c4de0bc63d6bc8d001792.png" alt="Cover for Hjerternes sang" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Lis Sørensen</td>
+      <td>Hjerternes sang</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
@@ -125,4 +2032,4 @@ Last updated: <time datetime="2025-10-25T12:33:57.619Z">Sat Oct 25 2025 15:33:57
 - [ambient]({{ "/tags/ambient" | relative_url }})
 - [pop rock]({{ "/tags/pop-rock" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
-- [drone]({{ "/tags/drone" | relative_url }})
+- [industrial]({{ "/tags/industrial" | relative_url }})
