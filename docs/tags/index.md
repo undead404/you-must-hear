@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-02T06:09:19.852Z
+date: 2025-11-02T06:10:22.551Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-02T06:09:19.852Z">Sun Nov 02 2025 08:09:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T06:10:22.551Z">Sun Nov 02 2025 08:10:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [melodic hard rock]({{ "tags/melodic-hard-rock" | relative_url }}) | <time datetime="2025-11-02T06:10:22.551Z">Sun Nov 02 2025 08:10:22 GMT+0200 (Eastern European Standard Time)</time> |
+| [sludge metal]({{ "tags/sludge-metal" | relative_url }}) | <time datetime="2025-11-02T06:10:10.313Z">Sun Nov 02 2025 08:10:10 GMT+0200 (Eastern European Standard Time)</time> |
 | [ska punk]({{ "tags/ska-punk" | relative_url }}) | <time datetime="2025-11-02T06:09:19.852Z">Sun Nov 02 2025 08:09:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [garage punk]({{ "tags/garage-punk" | relative_url }}) | <time datetime="2025-11-02T06:09:12.916Z">Sun Nov 02 2025 08:09:12 GMT+0200 (Eastern European Standard Time)</time> |
 | [christian metal]({{ "tags/christian-metal" | relative_url }}) | <time datetime="2025-11-02T06:07:44.978Z">Sun Nov 02 2025 08:07:44 GMT+0200 (Eastern European Standard Time)</time> |
@@ -133,8 +135,6 @@ Last updated: <time datetime="2025-11-02T06:09:19.852Z">Sun Nov 02 2025 08:09:19
 | [barcelona]({{ "tags/barcelona" | relative_url }}) | <time datetime="2025-10-31T17:50:50.969Z">Fri Oct 31 2025 19:50:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [folktronica]({{ "tags/folktronica" | relative_url }}) | <time datetime="2025-10-31T17:40:50.973Z">Fri Oct 31 2025 19:40:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [polish]({{ "tags/polish" | relative_url }}) | <time datetime="2025-10-31T17:22:50.975Z">Fri Oct 31 2025 19:22:50 GMT+0200 (Eastern European Standard Time)</time> |
-| [melodic hard rock]({{ "tags/melodic-hard-rock" | relative_url }}) | <time datetime="2025-10-31T09:16:19.088Z">Fri Oct 31 2025 11:16:19 GMT+0200 (Eastern European Standard Time)</time> |
-| [sludge metal]({{ "tags/sludge-metal" | relative_url }}) | <time datetime="2025-10-31T09:12:19.123Z">Fri Oct 31 2025 11:12:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [electro house]({{ "tags/electro-house" | relative_url }}) | <time datetime="2025-10-31T09:09:19.048Z">Fri Oct 31 2025 11:09:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [poland]({{ "tags/poland" | relative_url }}) | <time datetime="2025-10-31T08:46:18.976Z">Fri Oct 31 2025 10:46:18 GMT+0200 (Eastern European Standard Time)</time> |
 | [world]({{ "tags/world" | relative_url }}) | <time datetime="2025-10-31T07:16:19.055Z">Fri Oct 31 2025 09:16:19 GMT+0200 (Eastern European Standard Time)</time> |

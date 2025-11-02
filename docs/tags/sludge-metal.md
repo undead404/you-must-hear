@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T09:12:19.123Z
+date: 2025-11-02T06:10:10.313Z
 permalink: tags/sludge-metal
 title: sludge metal
 ---
 
 ## sludge metal
 
-Last updated: <time datetime="2025-10-31T09:12:19.123Z">Fri Oct 31 2025 11:12:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T06:10:10.313Z">Sun Nov 02 2025 08:10:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
   </thead>
   <tbody>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>1987</td>
@@ -109,7 +109,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c4b6583f6112eaa243f12ca00527068.png" alt="Cover for Dirt (2022 Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -228,7 +228,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac5d0fd43241644cbe78eabefc7e3c02.png" alt="Cover for Come To Grief" style="max-width:120px; height:auto;" />
       </td>
@@ -261,7 +261,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 30</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 34</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 84</li>
             <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 98</li>
         </ul>
@@ -289,27 +289,6 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71163a63e67a30c97209c394c66b559c.png" alt="Cover for Alice in Chains" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995-11-07</td>
-      <td>Alice in Chains</td>
-      <td>Alice in Chains</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 46</li>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>83</td>
       <td>
       </td>
@@ -326,6 +305,27 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
         <ul>
             <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 83</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/c8rFvh2BjCeH19YoPuwUQ-BYLOQXYKvl01EqKpKI1Gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDAx/MC0xNjE2MzQ0NTk3/LTUwMzguanBlZw.jpeg" alt="Cover for Courtesy And Good Will Toward Men" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Harvey Milk</td>
+      <td>Courtesy And Good Will Toward Men</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -371,7 +371,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>1997</td>
@@ -389,7 +389,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/eUr5t9-ZMGCvy2Jbzwi6Rc9MVmoZNOrAojvCOfqGLXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjcz/Mi0xMTUwNzcxMTA3/LmpwZWc.jpeg" alt="Cover for Our Problem" style="max-width:120px; height:auto;" />
       </td>
@@ -442,7 +442,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>1999-05-04</td>
@@ -456,14 +456,14 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 39</li>
+            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 40</li>
             <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 75</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>1999-05-17</td>
@@ -481,7 +481,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/qIFdi-5guUbglnEKwML8Qy_foGxitCVbKX5JMy2QTqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDE3/OS0xMTA2MjUxNDY5/LmpwZw.jpeg" alt="Cover for Southern Discomfort" style="max-width:120px; height:auto;" />
       </td>
@@ -536,7 +536,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 8</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -556,7 +556,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 45</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -580,7 +580,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2003-01-24</td>
@@ -598,7 +598,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2003-07-22</td>
@@ -638,7 +638,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>2004-08-23</td>
@@ -699,7 +699,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/73TlAHho6oc-2F4ro6KQA6yiMKRjMQKPZl6lNVSHjkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTk3/MzgtMTIzNzc5Njg2/OC5qcGVn.jpeg" alt="Cover for III" style="max-width:120px; height:auto;" />
       </td>
@@ -719,7 +719,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2005-02-18</td>
@@ -754,7 +754,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2005-12-06</td>
@@ -785,7 +785,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 81</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -869,7 +869,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2008-03-24</td>
@@ -888,7 +888,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 4</li>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 18</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 19</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 88</li>
         </ul>
       </td>
@@ -915,7 +915,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/J-cRgBmMJ1QO5JJLeTF_IsEnTsh7tLfI_tjNdP5AQMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU5/ODAtMTIxNjA2Njkw/Mi5qcGVn.jpeg" alt="Cover for And We Wept the Black Ocean Within" style="max-width:120px; height:auto;" />
       </td>
@@ -972,7 +972,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/dBuPvkR8F5ZNqXmJ1xIzsgBx25N3B3aMNmG11vJJOWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU0/MTMtMTUwMDEzMzk3/MS0zMDIyLmpwZWc.jpeg" alt="Cover for Spoils of Failure" style="max-width:120px; height:auto;" />
       </td>
@@ -990,7 +990,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2009-03-10</td>
@@ -1027,7 +1027,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/yxkMb0p5h2FONujign4wypv0uGyEb7xVNb0PYOgaeqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDM2/NjMtMTM4MDgzODE3/Ny04NDY4LmpwZWc.jpeg" alt="Cover for Unforgivable" style="max-width:120px; height:auto;" />
       </td>
@@ -1049,7 +1049,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/ZZowUhQrwWytAYNYyP6uWY1hnI2y3YQ1QMoOkAN_PFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk5/MTYtMTI2Mjg0NzEz/Mi5qcGVn.jpeg" alt="Cover for Chronomega" style="max-width:120px; height:auto;" />
       </td>
@@ -1087,7 +1087,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2010-07-13</td>
@@ -1104,7 +1104,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/Io1xKgeS-IDjoaGknE32LQSBpI_4tCfDiew_JGYBY8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQ4/NDQtMTU2Mjc3MDU0/Ny0xMzA3LmpwZWc.jpeg" alt="Cover for Satan Worshipping Doom" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,7 +1126,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a275075b47034144a27e8dcb5e06b443.png" alt="Cover for Songs for Singles" style="max-width:120px; height:auto;" />
       </td>
@@ -1144,7 +1144,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2010-09-28</td>
@@ -1183,7 +1183,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2011-01-01</td>
@@ -1219,7 +1219,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2011-09-20</td>
@@ -1250,7 +1250,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 51</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1269,7 +1269,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 14</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1306,7 +1306,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 64</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1343,7 +1343,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 31</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1365,7 +1365,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>2013-03-19</td>
@@ -1401,7 +1401,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2013-09-17</td>
@@ -1436,7 +1436,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2014-01-21</td>
@@ -1474,7 +1474,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2014-04-29</td>
@@ -1509,7 +1509,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2014-05-26</td>
@@ -1526,7 +1526,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/VGLsgTetbOxbeQC371AYd3G2WUdTu84X5Y6sKZu2-Sw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTEz/NzctMTU1MzYyNjE4/OC05MjEzLmpwZWc.jpeg" alt="Cover for The Deal" style="max-width:120px; height:auto;" />
       </td>
@@ -1582,7 +1582,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/eb5DEWJk6WnfRFAWV6jCq7qJNTqOA5_g8QpLWOF2c9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODEy/NDQtMTUzNTU0MDYz/My0xNzk1LmpwZWc.jpeg" alt="Cover for Ode to the Flame" style="max-width:120px; height:auto;" />
       </td>
@@ -1602,7 +1602,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/35c7b7bd6c3695822d72f8757fa6df44.png" alt="Cover for Basses Loaded" style="max-width:120px; height:auto;" />
       </td>
@@ -1648,7 +1648,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6df3bb97beaf1de34a7e22066e446f5.png" alt="Cover for Emperor of Sand" style="max-width:120px; height:auto;" />
       </td>
@@ -1662,12 +1662,12 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 42</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/v9j01V2RmO8kJiVDvC1OJ4ZC9eGa_b3bO3oFYX7tV04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTkw/ODY1LTE1MTE1NTkz/MDctNTAzMy5qcGVn.jpeg" alt="Cover for Blessed By The Burn" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,7 +1685,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/3KDiDsxSlSDprbwesbQXVoiHWfaQ97IqksH_twvvZp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDg5/ODQ3LTE1NjEyMzk3/MDMtNTE0Ni5qcGVn.jpeg" alt="Cover for The Dusk in Us" style="max-width:120px; height:auto;" />
       </td>
@@ -1707,7 +1707,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/yB2cRb-9VrzTAYMKJJTRGBdWpK2Si4xAge5OBzzCLdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTg3/MTQxLTE1MzA3MzQ0/NjItNDUzMC5qcGVn.jpeg" alt="Cover for Our Raw Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1744,7 +1744,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/DCoUpisfTQozAQkBO_NKt4blHQ_u48So2UOeUKwQY4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTky/MjExLTE1MzgyMjI2/NjEtNzc1OS5qcGVn.jpeg" alt="Cover for Unfold the God Man" style="max-width:120px; height:auto;" />
       </td>
@@ -1786,7 +1786,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/gtSxx9UKByG24Bzbf8ukOhw0wUoscUpyBtNlV27PAGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQ5/ODc4LTE2Mjc0MzE5/OTEtMTc1OC5qcGVn.jpeg" alt="Cover for Celestial Blues" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,7 +1805,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/IlySc5gTNgn2zSjaZrAS7PceNvktjnFXnEV8v6UijV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg0/NjU3LTE2ODA5MDQ1/NDUtMTgyNi5qcGVn.jpeg" alt="Cover for CHRISTFUCKER" style="max-width:120px; height:auto;" />
       </td>
@@ -1861,12 +1861,12 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 77</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/7kx5G2qhogyXKuaK5IuRZF8JPt-f9glh9OwmH4LkPrA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjM2/ODE2LTE2NjA4MjAy/ODAtNzE3MC5qcGVn.jpeg" alt="Cover for Evidence Of Immortality" style="max-width:120px; height:auto;" />
       </td>
@@ -1885,7 +1885,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/ZRE8bY2ZTy4ADAUaBitNKRreXm2FmGNQzNMgTXwAtg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDM5/OTM5LTE2OTY4MDU1/OTctNDc5NC5qcGVn.jpeg" alt="Cover for Failure Will Follow" style="max-width:120px; height:auto;" />
       </td>
@@ -1904,7 +1904,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/quqRQnrdHrhEKvNPvcY8M37Kg3eC7QtUGcDKQC4J8fE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjI5/MDk3LTE3MTM5ODY1/NjEtOTUzMi5qcGVn.jpeg" alt="Cover for Cometh The Storm" style="max-width:120px; height:auto;" />
       </td>
@@ -1922,7 +1922,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/MKCB2aVADb4-SZBvBPgiK-h6zr1u9z32GkiKIB73lA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzMz/NTktMTM3Mzc2OTM4/MS0zMTYzLmpwZWc.jpeg" alt="Cover for Umbilical" style="max-width:120px; height:auto;" />
       </td>
@@ -1940,7 +1940,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2024-10-11</td>
@@ -1953,7 +1953,7 @@ Sludge metal is a subgenre of heavy metal that originated in the late 1980s and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 35</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 36</li>
         </ul>
       </td>
     </tr>
