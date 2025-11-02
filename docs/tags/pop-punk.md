@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T00:36:14.695Z
+date: 2025-11-01T20:49:51.399Z
 permalink: tags/pop-punk
 title: pop punk
 ---
 
 ## pop punk
 
-Last updated: <time datetime="2025-10-31T00:36:14.695Z">Fri Oct 31 2025 02:36:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-01T20:49:51.399Z">Sat Nov 01 2025 22:49:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -248,7 +248,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3ca8315a65f43ad94a04b39cbd61610.png" alt="Cover for Stay What You Are" style="max-width:120px; height:auto;" />
       </td>
@@ -285,7 +285,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dba10562b2c14cdeb550e9354186880e.png" alt="Cover for I Am the Movie" style="max-width:120px; height:auto;" />
       </td>
@@ -299,6 +299,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -824,6 +825,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -854,6 +856,24 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       <td>2006-06-19</td>
       <td>Cute Is What We Aim For</td>
       <td>The Same Old Blood Rush With A New Touch</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bde50cfa22ad4ddaa0d8c61ed20c7d5b.png" alt="Cover for Put Up or Shut Up" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-07-25</td>
+      <td>All Time Low</td>
+      <td>Put Up or Shut Up</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
@@ -1032,7 +1052,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
         <ul>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 21</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 28</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 75</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 76</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 98</li>
         </ul>
       </td>
@@ -1106,7 +1126,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 31</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1319,8 +1339,8 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 50</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 54</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 55</li>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 97</li>
         </ul>
       </td>
@@ -1342,7 +1362,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 72</li>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 85</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 86</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 94</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 98</li>
         </ul>
@@ -1363,25 +1383,6 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td>2009-09-08</td>
-      <td>Boys Like Girls</td>
-      <td>Love Drunk</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1436,7 +1437,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 47</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1499,7 +1500,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
         <ul>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 71</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 74</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 79</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1522,7 +1523,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93e0586027db411280051c3032d047ba.png" alt="Cover for ¡Uno!" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,7 +1698,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 42</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1764,13 +1765,13 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 51</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 62</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/789ce11db1b20a7c70b0dd4ce6ed278c.png" alt="Cover for The Peace and the Panic" style="max-width:120px; height:auto;" />
       </td>
@@ -1806,7 +1807,7 @@ Pop punk is a high-energy fusion of punk rock&#39;s fast tempos and rebellious a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 15</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 14</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 73</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 87</li>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 97</li>

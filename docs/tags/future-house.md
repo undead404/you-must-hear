@@ -9,6 +9,10 @@ title: future house
 
 Last updated: <time datetime="2025-10-30T08:04:55.311Z">Thu Oct 30 2025 10:04:55 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Future house is a sleek electronic dance style that emerged in the mid-2010s, blending deep house grooves with bouncy basslines and metallic, synthesized melodies. The sound features a distinctive &quot;bouncy&quot; quality with choppy vocal samples, creating an energetic yet sophisticated club atmosphere. It bridges underground house music sensibilities with mainstream EDM accessibility, making it popular in both festival settings and radio play.
+
 ### 100 chronological releases
 
 <table>
@@ -1126,8 +1130,8 @@ Last updated: <time datetime="2025-10-30T08:04:55.311Z">Thu Oct 30 2025 10:04:55
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 13</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 23</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 14</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 24</li>
             <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 54</li>
         </ul>
       </td>
@@ -1189,6 +1193,7 @@ Last updated: <time datetime="2025-10-30T08:04:55.311Z">Thu Oct 30 2025 10:04:55
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 1</li>
             <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 39</li>
         </ul>
       </td>
@@ -1378,7 +1383,7 @@ Last updated: <time datetime="2025-10-30T08:04:55.311Z">Thu Oct 30 2025 10:04:55
       <td>
         <ul>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 13</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 18</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 19</li>
             <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 61</li>
         </ul>
       </td>

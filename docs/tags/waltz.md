@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T11:25:41.463Z
+date: 2025-11-01T20:46:51.810Z
 permalink: tags/waltz
 title: waltz
 ---
 
 ## waltz
 
-Last updated: <time datetime="2025-10-30T11:25:41.463Z">Thu Oct 30 2025 13:25:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-01T20:46:51.810Z">Sat Nov 01 2025 22:46:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -523,7 +523,7 @@ Last updated: <time datetime="2025-10-30T11:25:41.463Z">Thu Oct 30 2025 13:25:41
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/jNyXOtYuFKzxRuaXyVy-ssIUv1ahuhbpkajGoNUnvK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTAz/NjEtMTYyOTkzNjQ5/Ny04OTUzLmpwZWc.jpeg" alt="Cover for Klaus Hallen Studio Tanz Orchester 4" style="max-width:120px; height:auto;" />
       </td>
@@ -904,6 +904,26 @@ Last updated: <time datetime="2025-10-30T11:25:41.463Z">Thu Oct 30 2025 13:25:41
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2009-08-06</td>
+      <td>Tom Wolf</td>
+      <td>INCOMPLETE - Tom Wolf</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
         </ul>
       </td>
@@ -1465,40 +1485,15 @@ Last updated: <time datetime="2025-10-30T11:25:41.463Z">Thu Oct 30 2025 13:25:41
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Tez Locke</td>
-      <td>A New Dawn</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>2</td>
       <td>
       </td>
       <td></td>
-      <td>Florian Behnsen</td>
-      <td>At the end of the world</td>
+      <td>Kiyotsugu Arai</td>
+      <td>Chopin Piano Pieces</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choir" | relative_url }}">choir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
         </ul>
       </td>
@@ -1508,7 +1503,7 @@ Last updated: <time datetime="2025-10-30T11:25:41.463Z">Thu Oct 30 2025 13:25:41
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
