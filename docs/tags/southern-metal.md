@@ -9,6 +9,10 @@ title: southern metal
 
 Last updated: <time datetime="2025-11-01T09:38:52.598Z">Sat Nov 01 2025 11:38:52 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Southern metal blends heavy metal&#39;s aggression with the groove and swagger of Southern rock, incorporating blues-based riffs, gritty vocals, and rebellious attitude. The sound emphasizes thick, down-tuned guitars and mid-tempo rhythms that evoke dusty backroads and blue-collar defiance. It captures the raw spirit of the American South through unpolished, whiskey-soaked heaviness.
+
 ### 100 chronological releases
 
 <table>
@@ -270,7 +274,7 @@ Last updated: <time datetime="2025-11-01T09:38:52.598Z">Sat Nov 01 2025 11:38:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 4</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -436,9 +440,6 @@ Last updated: <time datetime="2025-11-01T09:38:52.598Z">Sat Nov 01 2025 11:38:52
       <td>Seemless</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a></li>
         </ul>
       </td>
       <td>
@@ -694,7 +695,7 @@ Last updated: <time datetime="2025-11-01T09:38:52.598Z">Sat Nov 01 2025 11:38:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 24</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -993,6 +994,7 @@ Last updated: <time datetime="2025-11-01T09:38:52.598Z">Sat Nov 01 2025 11:38:52
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1247,8 +1249,6 @@ Last updated: <time datetime="2025-11-01T09:38:52.598Z">Sat Nov 01 2025 11:38:52
       <td>Cross Roads</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
         </ul>
       </td>
       <td>
@@ -1672,7 +1672,7 @@ Last updated: <time datetime="2025-11-01T09:38:52.598Z">Sat Nov 01 2025 11:38:52
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 52</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 53</li>
             <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 99</li>
         </ul>
       </td>
