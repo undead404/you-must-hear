@@ -1,18 +1,20 @@
 ---
 category: list
-date: 2025-11-02T06:10:22.551Z
+date: 2025-11-02T07:01:51.247Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-02T06:10:22.551Z">Sun Nov 02 2025 08:10:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T07:01:51.247Z">Sun Nov 02 2025 09:01:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [melodic metalcore]({{ "tags/melodic-metalcore" | relative_url }}) | <time datetime="2025-11-02T07:01:51.247Z">Sun Nov 02 2025 09:01:51 GMT+0200 (Eastern European Standard Time)</time> |
+| [northern soul]({{ "tags/northern-soul" | relative_url }}) | <time datetime="2025-11-02T06:37:51.014Z">Sun Nov 02 2025 08:37:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [melodic hard rock]({{ "tags/melodic-hard-rock" | relative_url }}) | <time datetime="2025-11-02T06:10:22.551Z">Sun Nov 02 2025 08:10:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [sludge metal]({{ "tags/sludge-metal" | relative_url }}) | <time datetime="2025-11-02T06:10:10.313Z">Sun Nov 02 2025 08:10:10 GMT+0200 (Eastern European Standard Time)</time> |
 | [ska punk]({{ "tags/ska-punk" | relative_url }}) | <time datetime="2025-11-02T06:09:19.852Z">Sun Nov 02 2025 08:09:19 GMT+0200 (Eastern European Standard Time)</time> |
@@ -365,7 +367,6 @@ Last updated: <time datetime="2025-11-02T06:10:22.551Z">Sun Nov 02 2025 08:10:22
 | [noise punk]({{ "tags/noise-punk" | relative_url }}) | <time datetime="2025-10-28T15:59:43.224Z">Tue Oct 28 2025 17:59:43 GMT+0200 (Eastern European Standard Time)</time> |
 | [japanese metal]({{ "tags/japanese-metal" | relative_url }}) | <time datetime="2025-10-28T15:59:31.155Z">Tue Oct 28 2025 17:59:31 GMT+0200 (Eastern European Standard Time)</time> |
 | [skate punk]({{ "tags/skate-punk" | relative_url }}) | <time datetime="2025-10-28T15:59:27.114Z">Tue Oct 28 2025 17:59:27 GMT+0200 (Eastern European Standard Time)</time> |
-| [melodic metalcore]({{ "tags/melodic-metalcore" | relative_url }}) | <time datetime="2025-10-28T15:58:59.262Z">Tue Oct 28 2025 17:58:59 GMT+0200 (Eastern European Standard Time)</time> |
 | [asian]({{ "tags/asian" | relative_url }}) | <time datetime="2025-10-28T15:58:44.543Z">Tue Oct 28 2025 17:58:44 GMT+0200 (Eastern European Standard Time)</time> |
 | [fiddle]({{ "tags/fiddle" | relative_url }}) | <time datetime="2025-10-28T15:58:29.840Z">Tue Oct 28 2025 17:58:29 GMT+0200 (Eastern European Standard Time)</time> |
 | [rap metal]({{ "tags/rap-metal" | relative_url }}) | <time datetime="2025-10-28T15:58:25.765Z">Tue Oct 28 2025 17:58:25 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1094,7 +1095,6 @@ Last updated: <time datetime="2025-11-02T06:10:22.551Z">Sun Nov 02 2025 08:10:22
 | [unblack metal]({{ "tags/unblack-metal" | relative_url }}) | <time datetime="2025-10-22T03:57:26.342Z">Wed Oct 22 2025 06:57:26 GMT+0300 (Eastern European Summer Time)</time> |
 | [chicano rap]({{ "tags/chicano-rap" | relative_url }}) | <time datetime="2025-10-22T03:55:20.928Z">Wed Oct 22 2025 06:55:20 GMT+0300 (Eastern European Summer Time)</time> |
 | [new age instrumental]({{ "tags/new-age-instrumental" | relative_url }}) | <time datetime="2025-10-22T03:54:56.081Z">Wed Oct 22 2025 06:54:56 GMT+0300 (Eastern European Summer Time)</time> |
-| [northern soul]({{ "tags/northern-soul" | relative_url }}) | <time datetime="2025-10-22T03:54:02.574Z">Wed Oct 22 2025 06:54:02 GMT+0300 (Eastern European Summer Time)</time> |
 | [male and female]({{ "tags/male-and-female" | relative_url }}) | <time datetime="2025-10-22T03:53:35.176Z">Wed Oct 22 2025 06:53:35 GMT+0300 (Eastern European Summer Time)</time> |
 | [humour]({{ "tags/humour" | relative_url }}) | <time datetime="2025-10-22T03:53:21.035Z">Wed Oct 22 2025 06:53:21 GMT+0300 (Eastern European Summer Time)</time> |
 | [rhythmic noise]({{ "tags/rhythmic-noise" | relative_url }}) | <time datetime="2025-10-22T03:52:59.913Z">Wed Oct 22 2025 06:52:59 GMT+0300 (Eastern European Summer Time)</time> |
