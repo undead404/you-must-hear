@@ -9,6 +9,10 @@ title: funky house
 
 Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Funky house blends the groovy, syncopated basslines and rhythmic guitar licks of funk with house music&#39;s four-on-the-floor beats and electronic production. Born from the intersection of disco, soul, and early house scenes, it emphasizes danceable grooves that feel organic despite digital elements. The style ranges from stripped-back minimal productions to lush arrangements incorporating jazz, creating an uplifting and body-moving sound.
+
 ### 100 chronological releases
 
 <table>
@@ -84,7 +88,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 38</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 52</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -175,7 +179,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 40</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 42</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 77</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 84</li>
         </ul>
@@ -322,7 +326,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
         <ul>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 21</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 34</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 35</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 36</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 42</li>
         </ul>
       </td>
@@ -386,7 +390,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 59</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 60</li>
             <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 63</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 82</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 86</li>
@@ -608,7 +612,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
         <ul>
             <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 16</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 70</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 78</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 79</li>
             <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 87</li>
         </ul>
       </td>
@@ -822,7 +826,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 48</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -876,7 +880,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 33</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 35</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 80</li>
         </ul>
       </td>
@@ -944,8 +948,8 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 21</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 71</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 22</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 72</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 74</li>
         </ul>
       </td>
@@ -1003,7 +1007,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 39</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 53</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 54</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 55</li>
         </ul>
       </td>
@@ -1037,7 +1041,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 57</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 65</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1109,7 +1113,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 33</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 32</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 71</li>
         </ul>
       </td>
@@ -1143,9 +1147,9 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 35</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 37</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 81</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 82</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1320,7 +1324,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 62</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1360,7 +1364,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 1</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 2</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 31</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 49</li>
         </ul>
@@ -1404,11 +1408,11 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 42</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 72</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 44</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 73</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 78</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 86</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 88</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1552,8 +1556,8 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 3</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 31</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 4</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 32</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 49</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 52</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 66</li>
@@ -1598,13 +1602,13 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 53</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 82</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 83</li>
             <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 84</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 90</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 96</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 97</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 99</li>
         </ul>
       </td>
@@ -1640,7 +1644,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 12</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 13</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 56</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 69</li>
         </ul>
@@ -1712,10 +1716,10 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 3</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 4</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 27</li>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 33</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 42</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 43</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 47</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 50</li>
         </ul>
@@ -1754,10 +1758,10 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 37</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 39</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 69</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 83</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 85</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1963,7 +1967,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 43</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 56</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 57</li>
             <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 58</li>
         </ul>
       </td>
@@ -1995,7 +1999,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 37</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 83</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2085,7 +2089,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 37</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -2109,7 +2113,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 39</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -2307,7 +2311,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 13</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 77</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2338,7 +2342,7 @@ Last updated: <time datetime="2025-10-30T09:30:39.887Z">Thu Oct 30 2025 11:30:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 49</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 90</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 91</li>
         </ul>
       </td>
     </tr>
