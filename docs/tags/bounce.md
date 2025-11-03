@@ -9,6 +9,10 @@ title: bounce
 
 Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+&quot;Bounce&quot; refers to music with an infectious, springy rhythmic quality that makes listeners want to move, characterized by buoyant bass lines and syncopated beats. Originating from New Orleans hip-hop but applied broadly across genres, it emphasizes upbeat energy and physical groove over lyrical complexity. The term captures music&#39;s ability to create an irresistible, body-moving pulse through dynamic rhythm and playful production.
+
 ### 100 chronological releases
 
 <table>
@@ -417,7 +421,7 @@ Last updated: <time datetime="2025-10-31T02:40:13.992Z">Fri Oct 31 2025 04:40:13
       <td>
         <ul>
             <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 3</li>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 80</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 82</li>
         </ul>
       </td>
     </tr>
