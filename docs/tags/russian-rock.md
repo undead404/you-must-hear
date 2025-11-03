@@ -1,118 +1,1882 @@
 ---
 category: genre
-date: 2025-10-28T04:06:34.980Z
+date: 2025-11-02T20:51:27.752Z
 permalink: tags/russian-rock
 title: russian rock
 ---
 
 ## russian rock
 
-Last updated: <time datetime="2025-10-28T04:06:34.980Z">Tue Oct 28 2025 06:06:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T20:51:27.752Z">Sun Nov 02 2025 22:51:27 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Russian rock is a guitar-driven genre that emerged in the Soviet underground, blending Western rock influences with distinctly Slavic melodies and poetic, socially conscious lyrics. The music often features melancholic tones and introspective themes that reflect Russian cultural identity and post-Soviet experiences. It ranges from raw punk energy to atmospheric alternative rock, united by emotional depth and literary songwriting.
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 1 |  | 2007-05-24 | ундервуд | Опиум Для Народа |
-| 2 |  |  | Animal Jazz | Фаза быстрого сна |
-| 88 |  |  | Korol i Shut | Камнем по голове |
-| 64 |  | 1977 | Various Artists | The-Best-2 |
-| 77 | ![Cover](https://i.discogs.com/-lhXZK8SwN-mHZnrPPPZBtz8p2HiMoAOOUujRBYpPkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTY3/MTUtMTUwMzI2ODQ1/My01NDgyLmpwZWc.jpeg) | 1982 | Кино | 45 |
-| 63 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/234faf9779da1cbcec5e6b1fcc19b095.png) | 1983 | Кино | 46 |
-| 9 | ![Cover](https://i.discogs.com/Mwf7_nCsFH0o-1ufH_XBhJ4Ewzxt7wGdKUvsYw5TE1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Nzgw/MTYtMTQyMDUzNDkx/Ny0zMzYxLmpwZWc.jpeg) | 1984 | Аквариум | День Серебра |
-| 48 | ![Cover](https://i.discogs.com/75rtQyLxC05RlravecmpQ0mXnQQLp8jx_OXQ-nDHjUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODc5/NzgtMTY1MzA4NzU4/MS0yNDEyLmpwZWc.jpeg) | 1986 | Аквариум | Десять стрел |
-| 80 |  | 1986 | Кино | Ночь |
-| 82 |  | 1986 | Пикник | Иероглиф |
-| 3 |  | 1988 | Агата Кристи | Второй фронт |
-| 11 | ![Cover](https://i.discogs.com/yl9gNB_yvMLdo7JfxEf06VwhWS_M5RJAQ2-uVET93QQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTk4/MTItMTI5ODQ0OTIz/Ni5qcGVn.jpeg) | 1989 | Егор Летов | Вершки и корешки |
-| 12 |  | 1989 | ДДТ | Я Получил Эту Роль |
-| 57 |  | 1990 | Кино | Чёрный Альбом |
-| 27 | ![Cover](https://i.discogs.com/Am7kUEFpHSIhtKMRsTZcv6RZqUDMEqBqSXL-Qg9aCl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg3/NzEtMTU5MjUzOTE4/MS0zMTc2LmpwZWc.jpeg) | 1991 | Аукцыон | Бодун |
-| 59 | ![Cover](https://i.discogs.com/bIIRO67Fzx0Tt9JJTvOlOu5XcuxnUIg0svOmzxi-cI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzQ1/MjAtMTMxOTM3NTcx/MS5qcGVn.jpeg) | 1991 | Ноль | Песня о безответной любви к Родине |
-| 4 |  | 1991-04-25 | АлисА | Шабаш |
-| 5 |  | 1992 | Борис Гребенщиков | Русский альбом |
-| 45 | ![Cover](https://i.discogs.com/nl13g8uk0WHf_GaQlHDfUjdlZveiWBkHAgBdTFjDNEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE1/ODI3LTE1MTU5NDMy/MzAtNjc2OS5qcGVn.jpeg) | 1992 | Игорь Тальков | Моя любовь |
-| 89 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/138bbdb69b2b11b503495bb516ad3230.png) | 1992 | ДДТ | Актриса Весна |
-| 65 |  | 1993 | Аукцыон | Птица |
-| 10 | ![Cover](https://i.discogs.com/q5nEK6FqQeDJEZzGIDIatlRbDgOA_aI9_uRLcEQHujM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODQ5/NjEtMTMxOTU1Njc2/Ny5qcGVn.jpeg) | 1995 | Настя | Брат 1 |
-| 17 | ![Cover](https://i.discogs.com/JdzzKZNWZ41FMBq8veWTdHzWN0cqHucoIp7BE5ocBEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzA5/ODg5LTE3MTYwMjE3/ODAtMzkxMC5qcGVn.jpeg) | 1995 | Чиж &amp; Co | О Любви |
-| 72 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ad8ffcf24f41ebdbfb6d24fa03b1a4ea.png) | 1995 | Nautilus Pompilius | Крылья |
-| 22 |  | 1996 | ДДТ | Любовь |
-| 46 |  | 1996 | Чиж &amp; Co | Эрогенная зона |
-| 52 | ![Cover](https://i.discogs.com/XQAy71sRf_m_UJWKPzI0icFYXhzdDuT_g7oOCQyePC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDEz/MDEtMTIzMTQyNDYy/Mi5qcGVn.jpeg) | 1997 | Пикник | Стекло |
-| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a0f56c69c5b5468daf9548eb1085912f.png) | 1997-04-24 | Мумий Тролль | Морская |
-| 7 | ![Cover](https://i.discogs.com/U1L-3C8MxgfabSZ51wQLjxoMmd9LeGjd-JLpPxu4qZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjE1/MDEtMTI0NTYxNDQ2/My5qcGVn.jpeg) | 1998 | Егор Летов | Русское Поле Эксперимента (Акустика) |
-| 28 |  | 1998 | Tequilajazzz | Целлулоид |
-| 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/05f17b0acdeeb43bd01d24a2dce0fdea.png) | 1998 | Сплин | Гранатовый альбом |
-| 53 |  | 1999 | Кукрыниксы | Кукрыниксы |
-| 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/80c50cd15d604fb78815b42059743432.png) | 1999 | ДДТ | Просвистела |
-| 13 |  | 1999-05 | Ляпис Трубецкой | Красота |
-| 56 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/444c4d4aae5901622b78bc04ea611631.png) | 1999-10-01 | Сплин | Альтависта |
-| 15 |  | 2000 | Любэ | Полустаночки |
-| 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/354344430c33434cac163bf60d773f7d.png) | 2000 | Сплин | Зн@менатель |
-| 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b5c1cc94dd0b70695a7e101ab0f64a6c.png) | 2000-01 | Найк Борзов | Супермен |
-| 83 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/71d097d449a848c2c88b6b1da7269c9b.png) | 2000-03-28 | Zемфира | Прости Меня Моя Любовь |
-| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4c06e97eb4d36815365ff1715b08d586.png) | 2000-05-08 | Би-2 | Би-2 |
-| 66 |  | 2000-08-25 | Zемфира | До свидания... |
-| 75 | ![Cover](https://i.discogs.com/yRmhI6SaJ9XXlV5OCbABx_lKNv7GgPHHyfhMeWXTW4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzM4/MDEtMTMwNzk4NTY3/MC5qcGVn.jpeg) | 2000-11 | Смысловые галлюцинации | 3000 |
-| 16 |  | 2001 | Пилот | Сказка о Прыгуне и Скользящем |
-| 24 | ![Cover](https://i.discogs.com/MLkQypWsmyNQT1k4Iue1nyvkSGAw6MMZwA8dNjqqx24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDg3/ODAxLTE1MTcyMDI1/NjYtMzMyOC5qcGVn.jpeg) | 2001 | Последние Танки В Париже | Порядок вещей |
-| 31 |  | 2001 | АлисА | Танцевать |
-| 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ff6a232bfa9244718beac502285082ca.png) | 2001 | Пикник | Египтянин |
-| 54 |  | 2001-03-01 | Ночные Снайперы | Рубеж |
-| 20 | ![Cover](https://i.discogs.com/cHg2pFx7fxMlCeDZU6F1HIxqZJ_ugXmuDRJnGgIC92M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTE4/NTItMTI5MjEwMDIy/NS5qcGVn.jpeg) | 2001-05 | Ленинград | Ч.П.Х. |
-| 32 |  | 2001-09 | Ляпис Трубецкой | Юность |
-| 60 |  | 2002 | Аквариум | Сестра Хаос |
-| 87 |  | 2002-04-01 | Zемфира | Четырнадцать недель тишины |
-| 29 |  | 2002-07-12 | Сплин | Гандбол |
-| 85 |  | 2002-12-05 | Ночные Снайперы | Цунами |
-| 36 | ![Cover](https://i.discogs.com/pkG2-Lu2MwpsDMk4Osv5zz2thKh5BQ1pVQr8EqRbYMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjQ3/ODMtMTI4NTEzNzA1/OS5qcGVn.jpeg) | 2003 | АлисА | ...Танцевать |
-| 41 |  | 2003 | Смысловые галлюцинации | Обратная сторона Земли |
-| 68 |  | 2003 | Мара | Откровенность |
-| 26 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a7c9d7c6a3424063a3a0d0d6dcbe032b.png) | 2003-02-14 | Сплин | Новые люди |
-| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1d6f0a6d4a2b4591c574d34223b85604.png) | 2003-06-17 | Lumen | Без консервантов |
-| 84 | ![Cover](https://i.discogs.com/4IdN60dfgZZgbF2dYMW29cP7HYHuDsyXPyvioKLSzPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTE5/Ny0xNTg3ODk4NTQw/LTY5NTIuanBlZw.jpeg) | 2004-03-22 | Би-2 | Иnoмарки |
-| 71 |  | 2004-04-20 | Пилот | Рыба, Крот и Свинья |
-| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/aab3200489b34a03aa8e9e4a28d064bc.png) | 2004-08-17 | Lumen | Три пути |
-| 70 |  | 2004-10-21 | Ночные Снайперы | SMS |
-| 44 |  | 2005 | Мара | 220V |
-| 61 |  | 2005 | ундервуд | Бабло побеждает зло |
-| 79 |  | 2005 | Пикник | Королевство кривых |
-| 69 |  | 2005-04-19 | Мумий Тролль | Слияние и Поглощение |
-| 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/91da3dde04a747d28e7f27fc1531e0de.png) | 2005-04-22 | ДДТ | Пропавший без вести |
-| 23 |  | 2005-07-15 | Lumen | Одной крови |
-| 14 |  | 2005-12 | Смысловые галлюцинации | Большие планы |
-| 47 |  |  | Zемфира | До Свидания |
-| 8 | ![Cover](https://i.discogs.com/-7vxjX30kaD6mRAUZqKfm5I1JI9maK-N4fMZC_iCbZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjM2/NzgtMTI2NTEyNzIx/OS5qcGVn.jpeg) | 2006 | Пилот | Ч\Б |
-| 42 |  | 2006 | Ленинград | Бабье лето |
-| 67 | ![Cover](https://i.discogs.com/Y4TPYZZiXMW4Cd4DFM6B05CTOq0mUh1rSCYsm5A80gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzM2/MDQtMTU5NTYxMzUy/MC04Njc5LmpwZWc.jpeg) | 2006 | Би-2 | Moloko |
-| 39 | ![Cover](https://i.discogs.com/g9jzKucAMAiucoU_OOAOfLc5ktUsXNUIVTXodZzEsmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU4/NjMtMTQ5NDY4NTcw/NS04ODcyLmpwZWc.jpeg) | 2006-01-17 | Lumen | Дыши |
-| 34 | ![Cover](https://i.discogs.com/DfWxZ7NIH6EdJivypUAhbJiMxCjs1myistb_gaWNEqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQw/OTEzLTE1MDUxNjY4/NzUtNzE5My5qcGVn.jpeg) | 2007 | Кино | Черный альбом |
-| 35 | ![Cover](https://i.discogs.com/jEAOXbIM_ajOUfNSV2l6KG_ZOOOrYfCUgtuouh59xRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDIw/MzUtMTM5MzUyOTYx/OS0yNTU0LmpwZWc.jpeg) | 2007 | Торба-на-Круче | 57 параллель |
-| 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2626862d3f174f11ae1dcc7b6fad7e75.png) | 2007-02-07 | Сплин | Раздвоение личности |
-| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/30b826627fbd40d2852a2656e6eca522.png) | 2007-02-15 | Пикник | Мракобесие и джаз |
-| 19 |  | 2007-03-31 | АлисА | Стать Севера |
-| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b2ecaba51b394b28afa7fd40c956daff.png) | 2007-04-01 | Оргия Праведников | Уходящее Солнце |
-| 18 |  | 2007-11-30 | Lumen | Буря |
-| 76 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7273d5a203de48648a888060c56912d5.png) | 2009-05-18 | Би-2 | Лунапарк |
-| 86 |  | 2009-05-21 | Lumen | Мир |
-| 50 | ![Cover](https://i.discogs.com/Tkv3GpmhSPMd9-br4zxOOU0l6NhfGDR8Yxfp8JZLd70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDYy/MzQtMTI4MjU3NTE5/Ni5qcGVn.jpeg) | 2011 | ДДТ | Это все |
-| 30 |  | 2011-09 | Аквариум | Архангельск |
-| 21 |  | 2011-10-01 | ДДТ | Иначе |
-| 58 |  | 2011-12-01 | Би-2 | Spirit |
-| 51 | ![Cover](https://i.discogs.com/jjp8QH9HfMeq4XWsAfhDg-QPkgYgSmUZnzwqBJz_5dg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzQy/MjYtMTM1MzA0MjUx/OC0xMDg5LmpwZWc.jpeg) | 2012-10 | Ленинград | Рыба |
-| 62 |  |  | Zемфира | 14 Nedel Tishini |
-| 90 |  |  | Korol I Shut | Камнем по голове |
-| 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c44182082f909340055d4ca638ab12d0.png) | 2007-05-23 | Lumen | Правда? |
-| 92 |  | 2012-10-01 | Lumen | На части |
-| 25 | ![Cover](https://i.discogs.com/DxwZ2f7BSDaYZ3kfgNisZ5HlJh5py1Ep0o6cJamSnYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDYw/NjgtMTM4MzAzODY3/NC02MjQyLmpwZWc.jpeg) | 2013 | Lumen | Нет времени для любви |
-| 38 |  | 2014-03-07 | Сплин | Резонанс. Часть 1 |
-| 94 |  | 2014-10-01 | Борис Гребенщиков | СОЛЬ |
-| 33 | ![Cover](https://i.discogs.com/u9tCJnpUZUcqWt2w2pTK5m1sfc_bzIivT7XdBQXMqoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzA3/OTktMTQ4Mjk1Nzg0/NC01MjY4LmpwZWc.jpeg) | 2016 | Сергей Шнуров | Второй Магаданский |
-| 6 | ![Cover](https://i.discogs.com/FbWIbQxXF18Lz7Pzi9iacLNokDTtU-dwwJEclO1hL_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMw/ODcyLTE0OTA0Mjgy/MjAtNzIxNi5qcGVn.jpeg) | 2016-12 | Lumen | Хроника бешеных дней |
-| 37 | ![Cover](https://i.discogs.com/Yb7nH0SRq3FBRKD8NXvOpbCrPlZlVnjbdJdtaUP77TQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTI3/NTMxLTE1NDQ3MDMw/MDQtOTUwMS5qcGVn.jpeg) | 2018-03-02 | Lumen | XX лет. Избранное |
-| 40 |  | 2023 | Various Artists | Legend Russian Rock The Best 1 |
-| 95 | ![Cover](https://i.discogs.com/5jrE4MF0_FhU89wliVXvuh7FMU__1gI7QSAyC2F6sWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjUz/ODgwLTE2ODE2NzIx/NzgtMzU2NS5qcGVn.jpeg) | 2023-04-01 | ЗЕМФИРА | Четырнадцать недель тишины |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>The-Best-2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/-lhXZK8SwN-mHZnrPPPZBtz8p2HiMoAOOUujRBYpPkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTY3/MTUtMTUwMzI2ODQ1/My01NDgyLmpwZWc.jpeg" alt="Cover for 45" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Кино</td>
+      <td>45</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/234faf9779da1cbcec5e6b1fcc19b095.png" alt="Cover for 46" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Кино</td>
+      <td>46</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/Mwf7_nCsFH0o-1ufH_XBhJ4Ewzxt7wGdKUvsYw5TE1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Nzgw/MTYtMTQyMDUzNDkx/Ny0zMzYxLmpwZWc.jpeg" alt="Cover for День Серебра" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Аквариум</td>
+      <td>День Серебра</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/75rtQyLxC05RlravecmpQ0mXnQQLp8jx_OXQ-nDHjUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODc5/NzgtMTY1MzA4NzU4/MS0yNDEyLmpwZWc.jpeg" alt="Cover for Десять стрел" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Аквариум</td>
+      <td>Десять стрел</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>1986</td>
+      <td>Кино</td>
+      <td>Ночь</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>1986</td>
+      <td>Пикник</td>
+      <td>Иероглиф</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>1988</td>
+      <td>Агата Кристи</td>
+      <td>Второй фронт</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/yl9gNB_yvMLdo7JfxEf06VwhWS_M5RJAQ2-uVET93QQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTk4/MTItMTI5ODQ0OTIz/Ni5qcGVn.jpeg" alt="Cover for Вершки и корешки" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Егор Летов</td>
+      <td>Вершки и корешки</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td>1989</td>
+      <td>ДДТ</td>
+      <td>Я Получил Эту Роль</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Кино</td>
+      <td>Чёрный Альбом</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/Am7kUEFpHSIhtKMRsTZcv6RZqUDMEqBqSXL-Qg9aCl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg3/NzEtMTU5MjUzOTE4/MS0zMTc2LmpwZWc.jpeg" alt="Cover for Бодун" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Аукцыон</td>
+      <td>Бодун</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/bIIRO67Fzx0Tt9JJTvOlOu5XcuxnUIg0svOmzxi-cI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzQ1/MjAtMTMxOTM3NTcx/MS5qcGVn.jpeg" alt="Cover for Песня о безответной любви к Родине" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Ноль</td>
+      <td>Песня о безответной любви к Родине</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>1991-04-25</td>
+      <td>АлисА</td>
+      <td>Шабаш</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>1992</td>
+      <td>Борис Гребенщиков</td>
+      <td>Русский альбом</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/nl13g8uk0WHf_GaQlHDfUjdlZveiWBkHAgBdTFjDNEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE1/ODI3LTE1MTU5NDMy/MzAtNjc2OS5qcGVn.jpeg" alt="Cover for Моя любовь" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Игорь Тальков</td>
+      <td>Моя любовь</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/138bbdb69b2b11b503495bb516ad3230.png" alt="Cover for Актриса Весна" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>ДДТ</td>
+      <td>Актриса Весна</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Аукцыон</td>
+      <td>Птица</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad8ffcf24f41ebdbfb6d24fa03b1a4ea.png" alt="Cover for Крылья" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Nautilus Pompilius</td>
+      <td>Крылья</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/q5nEK6FqQeDJEZzGIDIatlRbDgOA_aI9_uRLcEQHujM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODQ5/NjEtMTMxOTU1Njc2/Ny5qcGVn.jpeg" alt="Cover for Брат 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Настя</td>
+      <td>Брат 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/JdzzKZNWZ41FMBq8veWTdHzWN0cqHucoIp7BE5ocBEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzA5/ODg5LTE3MTYwMjE3/ODAtMzkxMC5qcGVn.jpeg" alt="Cover for О Любви" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Чиж &amp; Co</td>
+      <td>О Любви</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>ДДТ</td>
+      <td>Любовь</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Чиж &amp; Co</td>
+      <td>Эрогенная зона</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Любэ</td>
+      <td>Песни о людях</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/XQAy71sRf_m_UJWKPzI0icFYXhzdDuT_g7oOCQyePC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDEz/MDEtMTIzMTQyNDYy/Mi5qcGVn.jpeg" alt="Cover for Стекло" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Пикник</td>
+      <td>Стекло</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0f56c69c5b5468daf9548eb1085912f.png" alt="Cover for Морская" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-04-24</td>
+      <td>Мумий Тролль</td>
+      <td>Морская</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/U1L-3C8MxgfabSZ51wQLjxoMmd9LeGjd-JLpPxu4qZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjE1/MDEtMTI0NTYxNDQ2/My5qcGVn.jpeg" alt="Cover for Русское Поле Эксперимента (Акустика)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Егор Летов</td>
+      <td>Русское Поле Эксперимента (Акустика)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Tequilajazzz</td>
+      <td>Целлулоид</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05f17b0acdeeb43bd01d24a2dce0fdea.png" alt="Cover for Гранатовый альбом" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Сплин</td>
+      <td>Гранатовый альбом</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Кукрыниксы</td>
+      <td>Кукрыниксы</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80c50cd15d604fb78815b42059743432.png" alt="Cover for Просвистела" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>ДДТ</td>
+      <td>Просвистела</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td>1999-05</td>
+      <td>Ляпис Трубецкой</td>
+      <td>Красота</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/444c4d4aae5901622b78bc04ea611631.png" alt="Cover for Альтависта" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-10-01</td>
+      <td>Сплин</td>
+      <td>Альтависта</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Любэ</td>
+      <td>Полустаночки</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/354344430c33434cac163bf60d773f7d.png" alt="Cover for Зн@менатель" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Сплин</td>
+      <td>Зн@менатель</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5c1cc94dd0b70695a7e101ab0f64a6c.png" alt="Cover for Супермен" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-01</td>
+      <td>Найк Борзов</td>
+      <td>Супермен</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71d097d449a848c2c88b6b1da7269c9b.png" alt="Cover for Прости Меня Моя Любовь" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-03-28</td>
+      <td>Zемфира</td>
+      <td>Прости Меня Моя Любовь</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c06e97eb4d36815365ff1715b08d586.png" alt="Cover for Би-2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-05-08</td>
+      <td>Би-2</td>
+      <td>Би-2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>2000-08-25</td>
+      <td>Zемфира</td>
+      <td>До свидания...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/yRmhI6SaJ9XXlV5OCbABx_lKNv7GgPHHyfhMeWXTW4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzM4/MDEtMTMwNzk4NTY3/MC5qcGVn.jpeg" alt="Cover for 3000" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-11</td>
+      <td>Смысловые галлюцинации</td>
+      <td>3000</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Пилот</td>
+      <td>Сказка о Прыгуне и Скользящем</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/MLkQypWsmyNQT1k4Iue1nyvkSGAw6MMZwA8dNjqqx24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDg3/ODAxLTE1MTcyMDI1/NjYtMzMyOC5qcGVn.jpeg" alt="Cover for Порядок вещей" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Последние Танки В Париже</td>
+      <td>Порядок вещей</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>АлисА</td>
+      <td>Танцевать</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff6a232bfa9244718beac502285082ca.png" alt="Cover for Египтянин" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Пикник</td>
+      <td>Египтянин</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td>2001-03-01</td>
+      <td>Ночные Снайперы</td>
+      <td>Рубеж</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/cHg2pFx7fxMlCeDZU6F1HIxqZJ_ugXmuDRJnGgIC92M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTE4/NTItMTI5MjEwMDIy/NS5qcGVn.jpeg" alt="Cover for Ч.П.Х." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-05</td>
+      <td>Ленинград</td>
+      <td>Ч.П.Х.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td>2001-09</td>
+      <td>Ляпис Трубецкой</td>
+      <td>Юность</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Аквариум</td>
+      <td>Сестра Хаос</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>2002-04-01</td>
+      <td>Zемфира</td>
+      <td>Четырнадцать недель тишины</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td>2002-07-12</td>
+      <td>Сплин</td>
+      <td>Гандбол</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>2002-12-05</td>
+      <td>Ночные Снайперы</td>
+      <td>Цунами</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/pkG2-Lu2MwpsDMk4Osv5zz2thKh5BQ1pVQr8EqRbYMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjQ3/ODMtMTI4NTEzNzA1/OS5qcGVn.jpeg" alt="Cover for ...Танцевать" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>АлисА</td>
+      <td>...Танцевать</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Смысловые галлюцинации</td>
+      <td>Обратная сторона Земли</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Мара</td>
+      <td>Откровенность</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7c9d7c6a3424063a3a0d0d6dcbe032b.png" alt="Cover for Новые люди" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-02-14</td>
+      <td>Сплин</td>
+      <td>Новые люди</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d6f0a6d4a2b4591c574d34223b85604.png" alt="Cover for Без консервантов" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-06-17</td>
+      <td>Lumen</td>
+      <td>Без консервантов</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/4IdN60dfgZZgbF2dYMW29cP7HYHuDsyXPyvioKLSzPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTE5/Ny0xNTg3ODk4NTQw/LTY5NTIuanBlZw.jpeg" alt="Cover for Иnoмарки" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-03-22</td>
+      <td>Би-2</td>
+      <td>Иnoмарки</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>2004-04-20</td>
+      <td>Пилот</td>
+      <td>Рыба, Крот и Свинья</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aab3200489b34a03aa8e9e4a28d064bc.png" alt="Cover for Три пути" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-08-17</td>
+      <td>Lumen</td>
+      <td>Три пути</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td>2004-10-21</td>
+      <td>Ночные Снайперы</td>
+      <td>SMS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Мара</td>
+      <td>220V</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>ундервуд</td>
+      <td>Бабло побеждает зло</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Пикник</td>
+      <td>Королевство кривых</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td>2005-04-19</td>
+      <td>Мумий Тролль</td>
+      <td>Слияние и Поглощение</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91da3dde04a747d28e7f27fc1531e0de.png" alt="Cover for Пропавший без вести" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-04-22</td>
+      <td>ДДТ</td>
+      <td>Пропавший без вести</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>2005-07-15</td>
+      <td>Lumen</td>
+      <td>Одной крови</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td>2005-12</td>
+      <td>Смысловые галлюцинации</td>
+      <td>Большие планы</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/-7vxjX30kaD6mRAUZqKfm5I1JI9maK-N4fMZC_iCbZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjM2/NzgtMTI2NTEyNzIx/OS5qcGVn.jpeg" alt="Cover for Ч\Б" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Пилот</td>
+      <td>Ч\Б</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Ленинград</td>
+      <td>Бабье лето</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/Y4TPYZZiXMW4Cd4DFM6B05CTOq0mUh1rSCYsm5A80gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzM2/MDQtMTU5NTYxMzUy/MC04Njc5LmpwZWc.jpeg" alt="Cover for Moloko" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Би-2</td>
+      <td>Moloko</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/g9jzKucAMAiucoU_OOAOfLc5ktUsXNUIVTXodZzEsmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU4/NjMtMTQ5NDY4NTcw/NS04ODcyLmpwZWc.jpeg" alt="Cover for Дыши" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-01-17</td>
+      <td>Lumen</td>
+      <td>Дыши</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/DfWxZ7NIH6EdJivypUAhbJiMxCjs1myistb_gaWNEqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQw/OTEzLTE1MDUxNjY4/NzUtNzE5My5qcGVn.jpeg" alt="Cover for Черный альбом" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Кино</td>
+      <td>Черный альбом</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/jEAOXbIM_ajOUfNSV2l6KG_ZOOOrYfCUgtuouh59xRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDIw/MzUtMTM5MzUyOTYx/OS0yNTU0LmpwZWc.jpeg" alt="Cover for 57 параллель" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Торба-на-Круче</td>
+      <td>57 параллель</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2626862d3f174f11ae1dcc7b6fad7e75.png" alt="Cover for Раздвоение личности" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-02-07</td>
+      <td>Сплин</td>
+      <td>Раздвоение личности</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30b826627fbd40d2852a2656e6eca522.png" alt="Cover for Мракобесие и джаз" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-02-15</td>
+      <td>Пикник</td>
+      <td>Мракобесие и джаз</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>2007-03-31</td>
+      <td>АлисА</td>
+      <td>Стать Севера</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c44182082f909340055d4ca638ab12d0.png" alt="Cover for Правда?" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-05-23</td>
+      <td>Lumen</td>
+      <td>Правда?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2007-05-24</td>
+      <td>ундервуд</td>
+      <td>Опиум Для Народа</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td>2007-11-30</td>
+      <td>Lumen</td>
+      <td>Буря</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7273d5a203de48648a888060c56912d5.png" alt="Cover for Лунапарк" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-05-18</td>
+      <td>Би-2</td>
+      <td>Лунапарк</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>2009-05-21</td>
+      <td>Lumen</td>
+      <td>Мир</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/Tkv3GpmhSPMd9-br4zxOOU0l6NhfGDR8Yxfp8JZLd70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDYy/MzQtMTI4MjU3NTE5/Ni5qcGVn.jpeg" alt="Cover for Это все" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>ДДТ</td>
+      <td>Это все</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td>2011-09</td>
+      <td>Аквариум</td>
+      <td>Архангельск</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td>2011-10-01</td>
+      <td>ДДТ</td>
+      <td>Иначе</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2011-12-01</td>
+      <td>Би-2</td>
+      <td>Spirit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>2012-10-01</td>
+      <td>Lumen</td>
+      <td>На части</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/jjp8QH9HfMeq4XWsAfhDg-QPkgYgSmUZnzwqBJz_5dg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzQy/MjYtMTM1MzA0MjUx/OC0xMDg5LmpwZWc.jpeg" alt="Cover for Рыба" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-10</td>
+      <td>Ленинград</td>
+      <td>Рыба</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/DxwZ2f7BSDaYZ3kfgNisZ5HlJh5py1Ep0o6cJamSnYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDYw/NjgtMTM4MzAzODY3/NC02MjQyLmpwZWc.jpeg" alt="Cover for Нет времени для любви" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Lumen</td>
+      <td>Нет времени для любви</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>2014-03-07</td>
+      <td>Сплин</td>
+      <td>Резонанс. Часть 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>2014-10-01</td>
+      <td>Борис Гребенщиков</td>
+      <td>СОЛЬ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/u9tCJnpUZUcqWt2w2pTK5m1sfc_bzIivT7XdBQXMqoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzA3/OTktMTQ4Mjk1Nzg0/NC01MjY4LmpwZWc.jpeg" alt="Cover for Второй Магаданский" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Сергей Шнуров</td>
+      <td>Второй Магаданский</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/FbWIbQxXF18Lz7Pzi9iacLNokDTtU-dwwJEclO1hL_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDMw/ODcyLTE0OTA0Mjgy/MjAtNzIxNi5qcGVn.jpeg" alt="Cover for Хроника бешеных дней" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-12</td>
+      <td>Lumen</td>
+      <td>Хроника бешеных дней</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/Yb7nH0SRq3FBRKD8NXvOpbCrPlZlVnjbdJdtaUP77TQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTI3/NTMxLTE1NDQ3MDMw/MDQtOTUwMS5qcGVn.jpeg" alt="Cover for XX лет. Избранное" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-03-02</td>
+      <td>Lumen</td>
+      <td>XX лет. Избранное</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Legend Russian Rock The Best 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/5jrE4MF0_FhU89wliVXvuh7FMU__1gI7QSAyC2F6sWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjUz/ODgwLTE2ODE2NzIx/NzgtMzU2NS5qcGVn.jpeg" alt="Cover for Четырнадцать недель тишины" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-04-01</td>
+      <td>ЗЕМФИРА</td>
+      <td>Четырнадцать недель тишины</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Animal Jazz</td>
+      <td>Фаза быстрого сна</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Zемфира</td>
+      <td>До Свидания</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Zемфира</td>
+      <td>14 Nedel Tishini</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Korol i Shut</td>
+      <td>Камнем по голове</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Korol I Shut</td>
+      <td>Камнем по голове</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian-rock" | relative_url }}">russian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
@@ -120,9 +1884,9 @@ Last updated: <time datetime="2025-10-28T04:06:34.980Z">Tue Oct 28 2025 06:06:34
 - [russian]({{ "/tags/russian" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})
 - [post-punk]({{ "/tags/post-punk" | relative_url }})
-- [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [acoustic]({{ "/tags/acoustic" | relative_url }})
 - [indie rock]({{ "/tags/indie-rock" | relative_url }})
 - [pop rock]({{ "/tags/pop-rock" | relative_url }})
-- [punk rock]({{ "/tags/punk-rock" | relative_url }})
+- [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [alternative rock]({{ "/tags/alternative-rock" | relative_url }})
+- [punk rock]({{ "/tags/punk-rock" | relative_url }})
