@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T07:40:48.615Z
+date: 2025-11-03T08:13:51.514Z
 permalink: tags/francophone
 title: francophone
 ---
 
 ## francophone
 
-Last updated: <time datetime="2025-10-29T07:40:48.615Z">Wed Oct 29 2025 09:40:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T08:13:51.514Z">Mon Nov 03 2025 10:13:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -486,7 +486,7 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>1996-03-12</td>
@@ -525,28 +525,6 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63276e31fc08e1b38f99d1c281c068ee.png" alt="Cover for Anti Best Of" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997-01-06</td>
-      <td>Trust</td>
-      <td>Anti Best Of</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 4</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>36</td>
       <td>
       </td>
@@ -569,7 +547,27 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/_DSbx7yDY0LOk8aJizZ6T0KxhVbXycEa74uwyRVxgbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDAx/MTg5LTE1MjYzMjU2/MDQtMTMxNi5qcGVn.jpeg" alt="Cover for Etats D&#39;Amour" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Isabelle Boulay</td>
+      <td>Etats D&#39;Amour</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
       </td>
       <td>1998</td>
@@ -590,7 +588,7 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/NLlLqPRLyVX9IaPHSlBCwiTGjImn1oJ_4Z7sme38Ec0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTMw/ODMtMTQwMDY4OTgx/Ni0yNDQ0LmpwZWc.jpeg" alt="Cover for Un Toque Latino" style="max-width:120px; height:auto;" />
       </td>
@@ -786,7 +784,7 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2001</td>
@@ -825,7 +823,7 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/NbCS3noXsLHDEaGNEAzVDA16Qsf7cGHGnBGfognWVHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzgy/OTUxLTE2MzU1ODUz/MzMtNDU4Ni5qcGVn.jpeg" alt="Cover for Écoutez d&#39;où ma peine vient" style="max-width:120px; height:auto;" />
       </td>
@@ -891,7 +889,7 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33b66a268ba8479f93c8208fd55ca97a.png" alt="Cover for Boucan D&#39;enfer" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1050,7 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/BdBb_EGuCoYXF9FQulQ4qAwpx3iayVasbvLpSt5SZTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzM2/MTItMTMyMzQxMDQ5/My5qcGVn.jpeg" alt="Cover for Ferme la radio" style="max-width:120px; height:auto;" />
       </td>
@@ -1540,7 +1538,7 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>2007-08-18</td>
@@ -1743,7 +1741,7 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/230f3aebdae649ba9065b191eb491ddc.png" alt="Cover for sur un air de déjà vu" style="max-width:120px; height:auto;" />
       </td>
@@ -1921,7 +1919,7 @@ Francophone refers to music performed in the French language, encompassing diver
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/IwKXmu7zB6vBJ-R4SHihkJQoobRgItJC6dmDRRPBwl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDY5/OTUtMTQ1OTgxNTcy/Ni00NjIwLmpwZWc.jpeg" alt="Cover for Willows" style="max-width:120px; height:auto;" />
       </td>

@@ -9,6 +9,10 @@ title: female rapper
 
 Last updated: <time datetime="2025-10-30T08:03:53.054Z">Thu Oct 30 2025 10:03:53 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+This tag encompasses hip-hop and rap music performed by female MCs, showcasing diverse flows, lyrical styles, and attitudes that challenge male-dominated rap spaces. The sound ranges from aggressive trap beats to melodic rap, often addressing themes of sexuality, empowerment, independence, and personal success. These artists bring unique perspectives to rap culture, blending mainstream appeal with unapologetic confidence and genre-pushing experimentation.
+
 ### 100 chronological releases
 
 <table>
