@@ -9,6 +9,10 @@ title: pub rock
 
 Last updated: <time datetime="2025-11-03T08:14:51.092Z">Mon Nov 03 2025 10:14:51 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Pub rock emerged in early 1970s Britain as a back-to-basics reaction against progressive rock&#39;s excesses, featuring straightforward guitar-driven rock and roll played in small venues. The sound draws from American rhythm and blues, rockabilly, and country influences, delivered with raw energy and working-class authenticity. It prioritized direct, unpretentious performance over studio polish, laying crucial groundwork for the punk movement that followed.
+
 ### 100 chronological releases
 
 <table>
@@ -1938,7 +1942,7 @@ Last updated: <time datetime="2025-11-03T08:14:51.092Z">Mon Nov 03 2025 10:14:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 5</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 6</li>
         </ul>
       </td>
     </tr>

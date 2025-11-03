@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-03T12:22:50.997Z
+date: 2025-11-03T12:26:50.994Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-03T12:22:50.997Z">Mon Nov 03 2025 14:22:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T12:26:50.994Z">Mon Nov 03 2025 14:26:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [melodic hard rock]({{ "tags/melodic-hard-rock" | relative_url }}) | <time datetime="2025-11-03T12:26:50.994Z">Mon Nov 03 2025 14:26:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [sludge metal]({{ "tags/sludge-metal" | relative_url }}) | <time datetime="2025-11-03T12:22:50.997Z">Mon Nov 03 2025 14:22:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [christian metal]({{ "tags/christian-metal" | relative_url }}) | <time datetime="2025-11-03T11:59:50.973Z">Mon Nov 03 2025 13:59:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [j-metal]({{ "tags/j-metal" | relative_url }}) | <time datetime="2025-11-03T11:54:50.985Z">Mon Nov 03 2025 13:54:50 GMT+0200 (Eastern European Standard Time)</time> |
@@ -176,7 +177,6 @@ Last updated: <time datetime="2025-11-03T12:22:50.997Z">Mon Nov 03 2025 14:22:50
 | [spanish guitar]({{ "tags/spanish-guitar" | relative_url }}) | <time datetime="2025-11-02T08:07:50.974Z">Sun Nov 02 2025 10:07:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [melodic metalcore]({{ "tags/melodic-metalcore" | relative_url }}) | <time datetime="2025-11-02T07:01:51.247Z">Sun Nov 02 2025 09:01:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [northern soul]({{ "tags/northern-soul" | relative_url }}) | <time datetime="2025-11-02T06:37:51.014Z">Sun Nov 02 2025 08:37:51 GMT+0200 (Eastern European Standard Time)</time> |
-| [melodic hard rock]({{ "tags/melodic-hard-rock" | relative_url }}) | <time datetime="2025-11-02T06:10:22.551Z">Sun Nov 02 2025 08:10:22 GMT+0200 (Eastern European Standard Time)</time> |
 | [ska punk]({{ "tags/ska-punk" | relative_url }}) | <time datetime="2025-11-02T06:09:19.852Z">Sun Nov 02 2025 08:09:19 GMT+0200 (Eastern European Standard Time)</time> |
 | [garage punk]({{ "tags/garage-punk" | relative_url }}) | <time datetime="2025-11-02T06:09:12.916Z">Sun Nov 02 2025 08:09:12 GMT+0200 (Eastern European Standard Time)</time> |
 | [old-school heavy metal]({{ "tags/old-school-heavy-metal" | relative_url }}) | <time datetime="2025-11-02T06:06:13.981Z">Sun Nov 02 2025 08:06:13 GMT+0200 (Eastern European Standard Time)</time> |
