@@ -9,6 +9,10 @@ title: sleaze rock
 
 Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Sleaze rock is a gritty, attitude-driven style of hard rock that emerged from the Sunset Strip scene of the 1980s, characterized by raw guitar riffs, raspy vocals, and lyrics celebrating excess and rebellion. The sound blends the swagger of glam rock with the stripped-down energy of punk, creating music that feels deliberately rough around the edges rather than polished. It embodies a streetwise, hedonistic aesthetic that prioritizes raw emotion and dangerous glamour over technical perfection.
+
 ### 100 chronological releases
 
 <table>
@@ -157,6 +161,7 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -175,7 +180,7 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 84</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -216,27 +221,6 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       </td>
     </tr>
     <tr>
-      <td>74</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46f12a46635ad73f6ff9247b3d789615.png" alt="Cover for Spread Eagle" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1990</td>
-      <td>Spread Eagle</td>
-      <td>Spread Eagle</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a></li>
-            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>84</td>
       <td>
       </td>
@@ -246,6 +230,23 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46f12a46635ad73f6ff9247b3d789615.png" alt="Cover for Spread Eagle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Spread Eagle</td>
+      <td>Spread Eagle</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -428,7 +429,7 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 33</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -451,7 +452,7 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 23</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 47</li>
             <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 89</li>
         </ul>
       </td>
@@ -492,7 +493,7 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 20</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -751,7 +752,7 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 13</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1026,7 +1027,7 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 26</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1107,7 +1108,7 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 30</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1160,8 +1161,6 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       <td>Jungle Outlawz</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a></li>
         </ul>
       </td>
       <td>
@@ -1258,7 +1257,7 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 35</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1297,6 +1296,7 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1434,7 +1434,7 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 53</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1471,7 +1471,7 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 76</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1603,7 +1603,6 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1719,8 +1718,6 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 20</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1835,15 +1832,10 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
       <td>Bad Blood Rising</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/finland" | relative_url }}">finland</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1994,8 +1986,8 @@ Last updated: <time datetime="2025-10-30T10:39:05.882Z">Thu Oct 30 2025 12:39:05
 
 - [glam metal]({{ "/tags/glam-metal" | relative_url }})
 - [glam punk]({{ "/tags/glam-punk" | relative_url }})
-- [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [heavy metal]({{ "/tags/heavy-metal" | relative_url }})
+- [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [california]({{ "/tags/california" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
 - [glam rock]({{ "/tags/glam-rock" | relative_url }})

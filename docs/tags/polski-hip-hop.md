@@ -9,6 +9,10 @@ title: polski hip hop
 
 Last updated: <time datetime="2025-10-30T08:17:39.347Z">Thu Oct 30 2025 10:17:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Polski hip hop is the Polish hip hop movement that emerged in the 1990s, blending American rap influences with distinctly Polish linguistic flow and urban narratives. The sound often features hard-hitting beats paired with intricate wordplay that showcases the Polish language&#39;s complex phonetics and cultural references. It reflects the social realities of post-communist Poland, addressing themes of street life, identity, and societal transformation.
+
 ### 100 chronological releases
 
 <table>
@@ -348,7 +352,7 @@ Last updated: <time datetime="2025-10-30T08:17:39.347Z">Thu Oct 30 2025 10:17:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 18</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 20</li>
             <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 30</li>
             <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 37</li>
             <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 37</li>

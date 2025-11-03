@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T11:01:51.123Z
+date: 2025-11-03T01:31:01.883Z
 permalink: tags/progressive-metal
 title: progressive metal
 ---
 
 ## progressive metal
 
-Last updated: <time datetime="2025-11-01T11:01:51.123Z">Sat Nov 01 2025 13:01:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T01:31:01.883Z">Mon Nov 03 2025 03:31:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
   </thead>
   <tbody>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/131a6c7981bee3849f785df75440df86.png" alt="Cover for Operation: Mindcrime" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>1989-03-06</td>
@@ -65,7 +65,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/veXENxhgBu1ZPPxW-saGspfACO6M3L8jwS474qWsAFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDc2/Mi0xNDM1NzI1OTYw/LTczMjMuanBlZw.jpeg" alt="Cover for Operation Mindcrime" style="max-width:120px; height:auto;" />
       </td>
@@ -117,7 +117,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 1</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -136,12 +136,12 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 28</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/0i9so85ZrpkFlu4FYyFxdQTOVPqjliIg2oilzW5Ckxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTU4/Ni0xMTQzOTg5MDk3/LmpwZWc.jpeg" alt="Cover for Focus" style="max-width:120px; height:auto;" />
       </td>
@@ -163,7 +163,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd67567d5fc4672dd6ce4deb702f0f92.png" alt="Cover for Awake" style="max-width:120px; height:auto;" />
       </td>
@@ -181,7 +181,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/a_r-hmzhkroo0QMVuQdW5sJL038c7aYWzOM73tvz0Jg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzQy/MzQtMTY2MjAzMTk4/NC01Mjg5LmpwZWc.jpeg" alt="Cover for Orchid" style="max-width:120px; height:auto;" />
       </td>
@@ -201,7 +201,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/itVwHAo55wEc1X1rWs5qQ9Ar07rJ8v2QDgqU_4PvKUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTMy/Ny0xMzk4NjExMDkx/LTYyMjQuanBlZw.jpeg" alt="Cover for Mandylion" style="max-width:120px; height:auto;" />
       </td>
@@ -225,7 +225,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>1995-09-10</td>
@@ -242,7 +242,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
       </td>
       <td>1996-04-30</td>
@@ -259,7 +259,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/i7nM5J80NcqMtqeghVLdDLWYW0ON5KA4qDZ6ogHDxJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTUy/NC0xNjMwNDM2MDcy/LTIxNTAucG5n.jpeg" alt="Cover for Morningrise" style="max-width:120px; height:auto;" />
       </td>
@@ -293,13 +293,13 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 12</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 13</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>1997-09-23</td>
@@ -316,7 +316,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/adPdxasefL4ct82gunfFUJ7e7xbrHYznFnq07GN889Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODMx/NC0xNDYwOTkzMTMz/LTE4NjMuanBlZw.jpeg" alt="Cover for My Arms, Your Hearse" style="max-width:120px; height:auto;" />
       </td>
@@ -334,7 +334,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="http://coverartarchive.org/release/772ad8a8-f3fe-3a06-8d82-d6d529b5a785/7846820494-250.jpg" alt="Cover for Chaosphere" style="max-width:120px; height:auto;" />
       </td>
@@ -357,7 +357,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>1999-06-15</td>
@@ -393,7 +393,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2000-12-12</td>
@@ -448,7 +448,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
       </td>
       <td>2002-01-21</td>
@@ -465,7 +465,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/636dc13084bd317bc2b5050d65942508.png" alt="Cover for Remedy Lane" style="max-width:120px; height:auto;" />
       </td>
@@ -483,7 +483,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/7rqL52Ih17PIYLXsovumKMvx9UOuXP1VEpSMxTQiET4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzAy/OS0xNDQyMDc0OTI2/LTY0MDAuanBlZw.jpeg" alt="Cover for The Sham Mirrors" style="max-width:120px; height:auto;" />
       </td>
@@ -503,7 +503,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84c8e6216d9042e693ffb150f164bbc1.png" alt="Cover for Remission" style="max-width:120px; height:auto;" />
       </td>
@@ -523,7 +523,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="http://coverartarchive.org/release/27c299ba-0ab1-3d2f-81ed-c0e5508fe475/33383214197-250.jpg" alt="Cover for Nothing" style="max-width:120px; height:auto;" />
       </td>
@@ -543,7 +543,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21d32a4aef33834d9014bfe706514a9f.png" alt="Cover for In Absentia" style="max-width:120px; height:auto;" />
       </td>
@@ -562,7 +562,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2002-11-04</td>
@@ -580,7 +580,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/BaXlJM2MdwrQGVEdwP4H3FgDu4g0en4plhK0_36Ppa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDEx/Mi0xNTY5NDIzNTQ4/LTgxNDQuanBlZw.jpeg" alt="Cover for Deliverance" style="max-width:120px; height:auto;" />
       </td>
@@ -600,7 +600,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b450afdbc89278764ec5d8c86d292862.png" alt="Cover for Train of Thought" style="max-width:120px; height:auto;" />
       </td>
@@ -618,7 +618,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2004-05-24</td>
@@ -636,7 +636,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
       </td>
       <td>2004-07-13</td>
@@ -676,7 +676,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c7e2369704d4f4d5def41a8dc6e5b23.png" alt="Cover for Deadwing" style="max-width:120px; height:auto;" />
       </td>
@@ -733,7 +733,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
       </td>
       <td>2005-09-06</td>
@@ -750,7 +750,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2005-09-27</td>
@@ -771,7 +771,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddac33f14e041c26cda550d20e131e63.png" alt="Cover for Eclipse" style="max-width:120px; height:auto;" />
       </td>
@@ -791,7 +791,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/dyf9Y_Up9nweQ4-bOc0FUlWKQ8YpNkX9eOJg69RoV2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODM0/Ni0xNjIxNjgxNDU1/LTEyMTQuanBlZw.jpeg" alt="Cover for The Great Cold Distance" style="max-width:120px; height:auto;" />
       </td>
@@ -824,12 +824,12 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 41</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/ObFvNin90UFekHYfzfOc-vZC2PU77UKIFEQm5UVZSCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNzkz/NS0xNjg0MzMxNjYy/LTEyMzQucG5n.jpeg" alt="Cover for The New Black" style="max-width:120px; height:auto;" />
       </td>
@@ -851,7 +851,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2006-08-08</td>
@@ -874,7 +874,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a2df69b76e05f314ed31524d23055e6.png" alt="Cover for A Matter of Life and Death" style="max-width:120px; height:auto;" />
       </td>
@@ -889,8 +889,8 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 25</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 67</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 33</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -914,7 +914,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f88029678a3b44b0b4f04c7fdabd70aa.png" alt="Cover for Systematic Chaos" style="max-width:120px; height:auto;" />
       </td>
@@ -932,7 +932,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/6CBsETDFpKCdpRlzptgDN45YHwFl0FIJbclVMAR4wiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI4/NjAtMTM3MzcyNjU3/Ni0zMzQ1LmpwZWc.jpeg" alt="Cover for Paradise Lost" style="max-width:120px; height:auto;" />
       </td>
@@ -951,7 +951,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf9cacf1907742d9854c66eacdf80e81.png" alt="Cover for Silent Waters" style="max-width:120px; height:auto;" />
       </td>
@@ -969,7 +969,29 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9d4a110a1eec4c9d86658ceca916801.png" alt="Cover for Red Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-09-04</td>
+      <td>Baroness</td>
+      <td>Red Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 77</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
       <td>
       </td>
       <td>2007-09-18</td>
@@ -986,7 +1008,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/SFZoz1qm4UI84fqFks7KdSnCR04FrCG_COOgyx1Q74E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjM3/NzgtMTI0NTc4MDY5/My5qcGVn.jpeg" alt="Cover for Watershed (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1005,7 +1027,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2008-01-29</td>
@@ -1068,7 +1090,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>2008-10-06</td>
@@ -1089,7 +1111,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2008-10-22</td>
@@ -1124,7 +1146,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>2009-04-28</td>
@@ -1143,7 +1165,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2009-05-05</td>
@@ -1165,7 +1187,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb97634d5dcb44bf80367cf4e2deb676.png" alt="Cover for Skyforger" style="max-width:120px; height:auto;" />
       </td>
@@ -1201,7 +1223,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2009-07-16</td>
@@ -1219,7 +1241,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c12ef13812c1595145434e6446ab112.png" alt="Cover for Blue Record" style="max-width:120px; height:auto;" />
       </td>
@@ -1239,7 +1261,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7443b453e3ea48d89ba587adac027229.png" alt="Cover for The Great Misdirect" style="max-width:120px; height:auto;" />
       </td>
@@ -1259,7 +1281,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
       </td>
       <td>2009-11-02</td>
@@ -1280,7 +1302,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/2JDB3ixmHCtbvwJSuQ_wvjmPo4qqOdzK5cEHcm7Boo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTE4/MTUtMTI3OTA0MzAy/NC5qcGVn.jpeg" alt="Cover for Periphery" style="max-width:120px; height:auto;" />
       </td>
@@ -1301,7 +1323,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/z0diRrJPhiNnCMirJxD51khSk_X_p-KR_N3D7OFYhdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODc0/MjQtMTU3ODQ0NDgw/Ni0zNzU5LmpwZWc.jpeg" alt="Cover for One" style="max-width:120px; height:auto;" />
       </td>
@@ -1323,7 +1345,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/H2g80p-HVZSn6d4N7HOhzlSd0BBpdaQpr3ndT-jW5LE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTU3/NzMtMTMxNTUxNTA4/MC5qcGVn.jpeg" alt="Cover for A Dramatic Turn of Events" style="max-width:120px; height:auto;" />
       </td>
@@ -1341,7 +1363,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/zIsVwbHfHlyOKfPGr0RcVT9ebUoJmepf7CD-4eFHXaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjEw/NDUtMTMxNjc2OTIz/NS5qcGVn.jpeg" alt="Cover for The Hunter" style="max-width:120px; height:auto;" />
       </td>
@@ -1360,7 +1382,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2011-11-04</td>
@@ -1380,7 +1402,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>2012-02-09</td>
@@ -1401,7 +1423,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/KPBj8_FPQyPs2LcrKWiLzBXeCBucKZl6YREW7SvA3Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTQ0/MTMtMTM4NDYxNDY1/NC02NzE0LmpwZWc.jpeg" alt="Cover for Cognitive" style="max-width:120px; height:auto;" />
       </td>
@@ -1419,7 +1441,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2012-05-07</td>
@@ -1438,7 +1460,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
       </td>
       <td>2012-06-20</td>
@@ -1457,7 +1479,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0270bb85ce549649d99dcfaa6375030.png" alt="Cover for Yellow &amp; Green" style="max-width:120px; height:auto;" />
       </td>
@@ -1498,7 +1520,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/CljyHtIda93DLvBNFcUA-Xj7_Uo6VfoeIBHLwesQHd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mjc5/NTgtMTQ4NTcwMDg5/MC0yNzM3LmpwZWc.jpeg" alt="Cover for Dream Theater" style="max-width:120px; height:auto;" />
       </td>
@@ -1516,7 +1538,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
       </td>
       <td>2014-03-24</td>
@@ -1536,7 +1558,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d181bab731a7f8b191a2f66e5dc2ade.png" alt="Cover for Once More &#39;Round the Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1554,7 +1576,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e4382394a13a0feb7266986224058bd.png" alt="Cover for The Congregation" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,12 +1610,12 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 64</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 78</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/thYBQ7JyU4ftkHCPNAqSRds3JIDmW409zYNomKPmPW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDQw/NjUtMTU3MDcxODU5/OC03OTU4LmpwZWc.jpeg" alt="Cover for King Of Everything" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,7 +1634,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/7ZmWrXvMuX5HC9IwPwp_Ie72dWFMgBI70QNfNSgApoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTM1/MzctMTQ3MjkyNTI0/OC0zNTUwLmpwZWc.jpeg" alt="Cover for Handmade Cities" style="max-width:120px; height:auto;" />
       </td>
@@ -1632,27 +1654,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>42</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a193a6bea6276fc02508640c7d99c093.png" alt="Cover for The Stage" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-12-02</td>
-      <td>Avenged Sevenfold</td>
-      <td>The Stage</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 46</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/h0rfy5Ud9B2TEhjDO4q2w_fVK0BN0YcJwB_d4YoodR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzEw/NzcxLTE2MTg1MDk3/NDAtOTQzOC5qcGVn.jpeg" alt="Cover for PetroDragonic Apocalypse; or, Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation" style="max-width:120px; height:auto;" />
       </td>
@@ -1673,7 +1675,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6df3bb97beaf1de34a7e22066e446f5.png" alt="Cover for Emperor of Sand" style="max-width:120px; height:auto;" />
       </td>
@@ -1687,12 +1689,12 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 37</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/1oVF2v1IHzM0JIN28s_nxEucIcEc65iQhsTfr8tcIDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU2/NDAzLTE0OTk4MzUx/OTgtNDU2MC5qcGVn.jpeg" alt="Cover for The Most Hated" style="max-width:120px; height:auto;" />
       </td>
@@ -1712,7 +1714,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/RkRYsscM-ooMY-sFgtPSIrC-GLDtk3nsIjVGzE5VPBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU2/NTk2LTE1Mzk0NTgy/OTYtNzUyMi5qcGVn.jpeg" alt="Cover for New Levels New Devils" style="max-width:120px; height:auto;" />
       </td>
@@ -1733,7 +1735,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/Km5J_FcA_RXg1uC6XjXDmdFdOaSxYZXSF4EczRtb7aY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjYy/Mjg4LTE1Mzk1NjQ5/MTQtNDE1MS5qcGVn.jpeg" alt="Cover for Ego Death (feat. Steve Vai)" style="max-width:120px; height:auto;" />
       </td>
@@ -1761,7 +1763,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/pPmiYYL77SHy2BG3jlBjl5VfV06jlog-SAjZ5i0B9Fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM5/ODQwLTE2MTg3OTQ1/MzctNDYzMC5wbmc.jpeg" alt="Cover for Periphery IV: HAIL STAN" style="max-width:120px; height:auto;" />
       </td>
@@ -1797,7 +1799,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/7qh3cVqK0seNhle8QOquXXBWyE3PqPsOr_u3Zeb7yEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQy/MjEyLTE1OTE1OTA2/ODQtMzI2NC5qcGVn.jpeg" alt="Cover for Kinfolks" style="max-width:120px; height:auto;" />
       </td>
@@ -1874,74 +1876,74 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 3</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 3</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 19</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 11</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 24</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 26</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 36</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 42</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 50</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 66</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 71</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 72</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 75</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 78</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 80</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 81</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 89</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 97</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 97</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4dc7009e8281b2c178fb59c343051b2.png" alt="Cover for Sundowning" style="max-width:120px; height:auto;" />
       </td>
@@ -1979,7 +1981,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4750c900c8b7b9e945e020e7400396f1.png" alt="Cover for Fortitude" style="max-width:120px; height:auto;" />
       </td>
@@ -1993,12 +1995,12 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 8</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/3dGGqN_-izRr_Z3uYMe5kdYeuRm2SncVMVVOnv2Hx6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzI0/OTQxLTE2MzIzMDc2/MjgtODk2My5qcGVn.jpeg" alt="Cover for This Place Will Become Your Tomb" style="max-width:120px; height:auto;" />
       </td>
@@ -2016,7 +2018,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/nBKa8bc32Cg_2ZF1JlTvrVE7G_xbITeWMZsEr3iLIBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjk3/OTA1LTE2NTYyNDY2/NDEtMzgxNy5qcGVn.jpeg" alt="Cover for Rotoscope" style="max-width:120px; height:auto;" />
       </td>
@@ -2038,7 +2040,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/nPfYGlfRoBvgP33ScVvDntGehZLVPNClFpCIOytHaWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDA5/Mjk3LTE2ODA3ODc1/NzAtMjQzMS5qcGVn.jpeg" alt="Cover for Remember That You Will Die" style="max-width:120px; height:auto;" />
       </td>
@@ -2057,7 +2059,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/kh3JEgxmBR8AWj4YIMxxBlOK1Wq4d-VtvDckDc3aWQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE2/ODUzLTE2OTMzNTIx/NDktODkwMS5qcGVn.jpeg" alt="Cover for Outskirts" style="max-width:120px; height:auto;" />
       </td>
@@ -2136,24 +2138,23 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
             <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 19</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 40</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 45</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 43</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 52</li>
             <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 53</li>
             <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 59</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 81</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 82</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 83</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 83</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 85</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
             <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
@@ -2161,47 +2162,48 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
             <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 92</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 94</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 94</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 98</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2222,7 +2224,7 @@ Progressive metal is a subgenre of heavy metal music that blends elements of pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 42</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 65</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 99</li>
         </ul>
