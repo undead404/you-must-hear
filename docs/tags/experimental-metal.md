@@ -9,6 +9,10 @@ title: experimental metal
 
 Last updated: <time datetime="2025-11-02T20:51:34.387Z">Sun Nov 02 2025 22:51:34 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Experimental metal pushes beyond traditional heavy music boundaries by incorporating unconventional song structures, electronic elements, extreme dissonance, or cross-genre fusion with styles like jazz, hip-hop, or avant-garde noise. It prioritizes innovation and artistic risk-taking over commercial appeal, often challenging listeners with abrasive textures and unpredictable compositions. This tag captures metal&#39;s most boundary-pushing and genre-defying expressions.
+
 ### 100 chronological releases
 
 <table>
@@ -450,7 +454,7 @@ Last updated: <time datetime="2025-11-02T20:51:34.387Z">Sun Nov 02 2025 22:51:34
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 29</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 30</li>
             <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 69</li>
         </ul>
       </td>
@@ -831,7 +835,7 @@ Last updated: <time datetime="2025-11-02T20:51:34.387Z">Sun Nov 02 2025 22:51:34
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 36</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 37</li>
             <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 75</li>
         </ul>
       </td>
@@ -1739,8 +1743,8 @@ Last updated: <time datetime="2025-11-02T20:51:34.387Z">Sun Nov 02 2025 22:51:34
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 17</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 31</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 20</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 33</li>
         </ul>
       </td>
     </tr>
