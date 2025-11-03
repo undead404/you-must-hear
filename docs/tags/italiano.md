@@ -9,110 +9,2223 @@ title: italiano
 
 Last updated: <time datetime="2025-10-24T15:42:35.934Z">Fri Oct 24 2025 18:42:35 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Italian pop music that encompasses the melodic traditions and lyrical sophistication of Italy&#39;s singer-songwriter culture, blending passionate vocals with Mediterranean sensibilities. The sound ranges from romantic ballads to upbeat pop-rock, unified by expressive Italian language delivery and emotional storytelling. It reflects Italy&#39;s rich musical heritage while embracing contemporary production styles.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 39 | ![Cover](https://i.discogs.com/209DyN4YBWZfQ5aUTw4Qi7H3-fiQDnuH5-9XFIZXyt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTUx/MDktMTQ0NTg5MTI4/My01NjM2LmpwZWc.jpeg) | 1972-03-10 | Fabrizio De André | Non al denaro, non all&#39;amore ne al cielo |
-| 45 |  | 1976 | Roberto Vecchioni | Elisir |
-| 25 | ![Cover](https://i.discogs.com/rRvONkypp8m76BQRkn5MeciaF8QDzoz0PNxkM3ovJdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI2/Mzg1LTE1MzcwMDIy/MzctMTA4NS5qcGVn.jpeg) | 1979 | Riccardo Fogli | Made in Italy |
-| 29 | ![Cover](https://i.discogs.com/hXWbLLhWdHh3up-1BM_n2LlQPkAJPxCOFPhkswxRwcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDU0/MjQtMTMyNDk5NzQx/NS5qcGVn.jpeg) | 1980 | Mino Reitano | Mino Reitano |
-| 18 | ![Cover](https://i.discogs.com/Fv-BnMwaPN0PWxV603l5DHSIfLn_Mxy6o30BfspLu-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MzM5/NTktMTU1MDMxNTI3/MS00NjUwLmpwZWc.jpeg) | 1984 | Pupo | Malattia d&#39;amore |
-| 8 | ![Cover](https://i.discogs.com/kKUxWnqcFvqq6ZIhAKTKk2NzQZAX7tiJFIfflN5jSB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTk5/Ni0xMjY3Mjc1NzEz/LmpwZWc.jpeg) | 1987 | S·Core | A Great Lump |
-| 19 | ![Cover](https://i.discogs.com/j5IXYFp8948UfKViTB9phXmvVSuroyVTGn_aQPl3lUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzM2/MS0xNjY1NTIwNjE0/LTY1NzIuanBlZw.jpeg) | 1989 | Eros Ramazzotti | Cuore Agitati |
-| 17 |  | 1990 | C&#39;hantal | The Realm |
-| 20 | ![Cover](https://i.discogs.com/Z3I94WdPq26Cdo-M03rB6G9FIos6QVi2J-AxkXz1T5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzY1/MDItMTM5MTg4NDQ5/Ni03MDYzLmpwZWc.jpeg) | 1990 | Gianni Togni | Le Più Belle Canzoni |
-| 28 | ![Cover](https://i.discogs.com/PqKTwQarOMjfjxQnowLZaM8cIipz7vnDzD1PQhkEDks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzQy/LTEzNTc5ODU2MDIt/NTk3OC5qcGVn.jpeg) | 1991 | Lassigue Bendthaus | Matter |
-| 44 | ![Cover](https://i.discogs.com/eoHpATnu4Ad-TsVoH5kry2DFQ2PwKtAOc6jcoepBO3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjQ1/LTE2MTMzODIxODct/Nzg2Ni5qcGVn.jpeg) | 1992 | Lassigue Bendthaus | Biohazard |
-| 41 | ![Cover](https://i.discogs.com/NhF0UA5QcYdTzPEx05_sCfEK-kCPDSIfygyYoLJfm94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDMz/MC0xMTUzNjc3MDU0/LmpwZWc.jpeg) | 1993 | Die Sonne Satan | Fac-Totum |
-| 13 |  | 1993-01 | Soofle | Nouveau EP |
-| 7 |  | 1995 | Riccardo Fogli | Fogli Su Fogli |
-| 15 | ![Cover](https://i.discogs.com/9jZsBhYFjm79ag-h9JFy3X1FCJ0COC0zyKrHKdPzhwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDMz/My0xMTYyMjQzNTU2/LmpwZWc.jpeg) | 1995 | Die Sonne Satan | Omega |
-| 3 | ![Cover](https://i.discogs.com/acyYeAuqCmGp1PBxa8fPW6XqiUgPhFbv9AI_ZD8My3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTc2/NTYwLTE2MTc3MTI2/MjItMzczNS5qcGVn.jpeg) | 1997 | I Camaleonti | I Più Grandi Successi |
-| 26 |  | 1997 | Il Giardino Dei Semplici | Miele |
-| 22 | ![Cover](https://i.discogs.com/Zych-HivGUcvyMVBmev8mofD_XLJXKvf4NwAKvlMtPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzQx/NDAtMTM2ODM5OTU2/OS04NjAzLmpwZWc.jpeg) | 1999 | Nino D&#39;Angelo | Forza, Campione |
-| 5 | ![Cover](https://i.discogs.com/6mka42Bl9pPGYRqJoDr2n_CtxZ0LVUECFB2rON35Zw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjEx/MjItMTQ0NTM0MDg0/OS0yNTAyLmpwZWc.jpeg) | 2000 | Gianluca Capozzi | Ogni giorno di più |
-| 34 | ![Cover](https://i.discogs.com/qHbjE6B8jNsDGj_rq6_reXhgocv5WKX3AZF61dglyLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTM5/NTktMTI1NDc1MDUz/MS5qcGVn.jpeg) | 2002 | Les Anarchistes | Figli di origine oscura |
-| 43 | ![Cover](https://i.discogs.com/rDf1_ysEjr-tKlY4k_4quOkACFSkZV1TtzKcg_T2ei0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTc3/MjAtMTQyOTQ2NjIy/NS02NjI3LmpwZWc.jpeg) | 2003 | Filippo Gatti | Tutto Sta Per Cambiare |
-| 10 | ![Cover](https://i.discogs.com/-CSfmzzw1OUmF8-Vt1sFjBHw9CE1mDVpi2OA5Ty1XKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQz/NS0xNjM0MjIyNDQz/LTc3NzUuanBlZw.jpeg) | 2004-05-17 | Dhope | dhope |
-| 37 | ![Cover](https://i.discogs.com/omSfuqpJRVv-mwtYvz_ufsklImyyp1PePmewNGm0_Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDI0/NzktMTQzMDI0ODI0/OS00MzAwLmpwZWc.jpeg) | 2006 | Statobrado | Statobrado |
-| 49 | ![Cover](https://i.discogs.com/XJUHDzrnZ3oZUbVJGDpfSycUYMHxjg2pRoqoeo3t370/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/MjUtMTQ5OTI2ODI5/OC0xMTUxLmpwZWc.jpeg) | 2006 | Laura Pausini | Live in Paris |
-| 50 |  | 2006-01-25 | 黒色すみれ | アンデルメルヘン歌曲集 |
-| 6 |  | 2006-11-24 | Vinicio Capossela | Nel niente sotto il sole |
-| 42 | ![Cover](https://i.discogs.com/8Tf2jcprKFOIe8hXjMiJh5N7sBFU9_2c8TTErbaL3Ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDA1/MjQtMTQzOTM2MTE4/MS0zMDA1LmpwZWc.jpeg) | 2008 | Rosario Miraggio | Prendere o lasciare |
-| 9 | ![Cover](https://i.discogs.com/7ZGtXfPM_CkLshPHO3vStC6rdUTLCSAIniQVKmrw_6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTc1/NTYtMTQwMjk1MTY5/Ni02MDg5LmpwZWc.jpeg) | 2009 | La Bottega Dell&#39;Arte | Made In Italy |
-| 32 | ![Cover](https://i.discogs.com/R86G531qdH4MfsdwxX-3D6eGFQUSPzuKppctK6P8u14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc2/OTMyLTE1NzA0Njc4/NDgtMzc0MS5qcGVn.jpeg) | 2009 | Tricarico | Il Bosco Delle Fragole |
-| 23 | ![Cover](https://i.discogs.com/_gyskSzHi_j-YqruzdjYTWW5pj2MkeT0hlWHeTZYl7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY4/NzYxLTE1Mzk2OTk1/NjEtMzYzMy5qcGVn.jpeg) | 2010 | Verderame | L&#39;ultima recita |
-| 36 | ![Cover](https://i.discogs.com/-QhQvkJauk6SghBxAhCRejoZV0GItYds8McGze_ELvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTUx/MjYtMTMxMTc5NDU0/OS5qcGVn.jpeg) | 2010 | Sigillum S | Simulacra |
-| 1 |  | 2010-05-19 | 黒色すみれ | ALICE IN THE UNDERGROUND |
-| 4 | ![Cover](https://i.discogs.com/hw_nui9zPhDHkDzlb3B8KEyjFd82tDrmWqirvLiOx54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjAy/ODktMTM1OTk5OTIx/NS04ODY1LmpwZWc.jpeg) | 2012-07-14 | Thomas Traspedini | Anteprime |
-| 14 |  | 2013-07-01 | Bianca Atzei | La paura che ho di perderti |
-| 30 | ![Cover](https://i.discogs.com/7QJ22NDVUrW-U8xiV3G-KLj6PAUf1kr7ZDq_Ng6CpsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEz/MTM1LTE1MzY4NzI1/NDUtOTE4MC5qcGVn.jpeg) | 2015 | Davide Esposito | Roma California |
-| 47 | ![Cover](https://i.discogs.com/6g7IOJupDlNOD9-t8Fyt9JwAuQxsh181A4eZQPI-000/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzIx/OTMtMTQzMDcxODIz/Ni01Nzk1LmpwZWc.jpeg) | 2015-02-17 | A-Live | best of acapella |
-| 38 | ![Cover](https://i.discogs.com/iMX7KqMgW3wRQmt9ZDF0FvcHtp421KhAbDReUp3deGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjE2/NTQtMTQ2MjEwMzYy/NC0xMTk5LmpwZWc.jpeg) | 2016-02-12 | Chiara Dello Iacovo | Appena sveglia |
-| 33 | ![Cover](https://i.discogs.com/NCwUR00d-5ux1rnuvJNa8iBdqcLzxd1hxo74pb8SHac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTY5/NTMtMTYwMDExNzI3/NS0xODgyLmpwZWc.jpeg) | 2016-05 | BOSTON 168 | LAQ 02 |
-| 27 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8133e4863eddb15b6b68e0412c8f082a.png) | 2016-05-06 | Gianluca Grignani | Una Strada In Mezzo Al Cielo |
-| 2 | ![Cover](https://i.discogs.com/pdrUO7PoifrMiDYeNwKjw4lduXlgvk8pJNDaJWctzZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzIz/MzkxLTE2ODYyMzU1/OTYtOTczNy5qcGVn.jpeg) | 2021-05-20 | Aneed | Eurobug |
-| 11 |  |  | Despacito y Buenaletra | yammin (2003) |
-| 24 | ![Cover](https://i.discogs.com/1QIqqvtjjcJPZuXxVcfDTDIXUHX1TotazgUlqPetBlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTQz/NDQtMTQyNzE4OTAy/My04Nzk4LmpwZWc.jpeg) | 2015-03-23 | Violet Poison | Absence Generator |
-| 46 | ![Cover](https://i.discogs.com/8euM6yqDWmVINmKH-mCP8dHCEcLH9TGQh6Jg2xH_gIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjAx/MzktMTQ4MDI1NjUx/NC02Njc0LmpwZWc.jpeg) | 2016-10-21 | Mai Mai Mai | Φ (Phi) |
-| 12 | ![Cover](https://i.discogs.com/5QZ-aDrJ76VzE75Rsg7TMi6wBRt5zCq-t8GbHUdwQ8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkz/NjI4LTE1NTMzNjQ0/NDctOTE5MC5qcGVn.jpeg) | 2017-11-10 | Dykore | Messing With Occult Science EP |
-| 16 | ![Cover](https://i.discogs.com/apZkYQqVOS3__TjaHSss0cMpHk6HNs5aRZcoCVUqFpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk1/NTQxLTE1NDgwNjI1/MDEtOTY5My5qcGVn.jpeg) | 2018-12-01 | Barricata rossa | E non si arrende! |
-| 21 |  |  | Bandiera rossa | Canti Anarchici |
-| 31 | ![Cover](https://i.discogs.com/aYdEhEYfLGtr-Gof4a32fMkUUw903tuMxtReyTupj_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTYz/MjU1LTE3MDA0MTkz/MzAtMTExNS5qcGVn.jpeg) | 2019-08-09 | Acid Division | Anomia |
-| 35 | ![Cover](https://i.discogs.com/PD9aUEXTpU0HOIj1MV_4hMutBZS4PKi2zonoEAIQWd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODMx/Mjk2LTE1ODI0NDMy/NTAtMzQ3MS5qcGVn.jpeg) | 2019-09-06 | Selton | Selton (Italian Version) |
-| 40 | ![Cover](https://i.discogs.com/BJPptLaFgmptRDHQMQobY5ogOespdJDgfKbZIscYQIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTIz/MzY3LTE2ODI3OTE1/NTktNDgzNy5qcGVn.jpeg) | 2023-04-07 | Frér | Crepuscular Glare Of Wisdom |
-| 48 |  |  | Despacito y Buenaletra | umilda (2007) |
-| 82 |  |  | Valentina Mari | Kim Possible Original Soundtrack (Italian Version) |
-| 77 | ![Cover](https://i.discogs.com/rtBwB477nYr2gwpYOoy4A1HwEfA6ay4rKi22lJ3GI7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODkx/NDMtMTMwMTM3OTk2/Ni5qcGVn.jpeg) | 1965 | Giorgio Gaber | Giorgio Gaber |
-| 71 | ![Cover](https://i.discogs.com/F1-EaLDQEGZ9rtG0HOUd5XyOVbVy0DEmYUxqw9sgtFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODky/MTctMTQ4MTk4Mzc3/NC04MzgwLmpwZWc.jpeg) | 1967 | Giorgio Gaber | Prima Del Signor G - Giorgio Gaber 1958 - 1970 |
-| 55 |  | 1978 | Roberto Vecchioni | Calabuig |
-| 92 |  | 1978-05-13 | Vasco Rossi | Ma Cosa Vuoi Che Sia Una Canzone |
-| 54 |  | 1981 | Angelo Branduardi | Angelo Branduardi |
-| 57 |  | 1985 | Antonello Venditti | Centocittà |
-| 73 | ![Cover](https://i.discogs.com/QEv_O03HVZCPG11-ucxtOQ4OiT7Uo7D8SrbGDlInvNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDQw/NDQtMTM2OTY4MDM3/OS01MTgxLmpwZWc.jpeg) | 1988 | Roberto Vecchioni | Sogna Ragazzo Sogna |
-| 96 |  | 1992 | Nek | Nek |
-| 78 |  | 1993 | Francesco De Gregori | Il Bandito E Il Campione |
-| 61 |  | 1994 | Biagio Antonacci | Biagio Antonacci |
-| 74 | ![Cover](https://i.discogs.com/y8aC5WZktVMh80ZjGKkMA9lEmGSw1FytV_VQsIkEYxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQw/OC0xNjMzNzU3ODI5/LTY1MzMuanBlZw.jpeg) | 1996 | DJ Isaac | We Like Marihuana |
-| 69 | ![Cover](https://i.discogs.com/VoOH1LZBLkGizNWh4hpRW_xDW6n8cU_Z-q01llK-Sd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzI5/MTAtMTQ2MzUwODI0/NS0xOTUzLmpwZWc.jpeg) | 1996-09-04 | Miguel Bosé | I Successi Di Miguel Bosè |
-| 53 | ![Cover](https://i.discogs.com/Ex8Fh5HIE3MJ7HeYVLEHEAlurGurgtd8LHP9IQOkl3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjk3/Ni0xMzkzNjE4Mjc0/LTM5OTguanBlZw.jpeg) | 1997 | Bald Terror | 2 Seconds To Live |
-| 59 | ![Cover](https://i.discogs.com/50gtWkAvvRDdIiRK-PwTTUkY1Ij9tB7tYwBsS7btCug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjUx/NTI3LTE3MDY2ODk1/NzgtODc0NC5qcGVn.jpeg) | 1997 | Fonola Band | Bandiera Rossa |
-| 79 | ![Cover](https://i.discogs.com/J-1Tmby5Pt9r2dCXOgg6V7rGsjw3QzFznvcZWxgvCg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQ2/MjAtMTI3NjY4NDE4/Mi5qcGVn.jpeg) | 1997 | Jovanotti | Lorenzo 1997: L&#39;albero |
-| 90 |  | 1997 | Donatella Rettore | I Grandi Successi |
-| 95 | ![Cover](https://i.discogs.com/tds1___ETlduMLEnL0EkNYswFw8pbKq4Kd_hc1AcYAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjUz/OTItMTU3MTE1NDM4/MS0xMDUwLmpwZWc.jpeg) | 1997 | Zucchero | Everybody&#39;s Got To Learn Sometime |
-| 52 | ![Cover](https://i.discogs.com/6Y5PKbhkMLEJdpQFRYUwK2S9Z4JppF0HBYwxx3xJSk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzkx/MDYtMTU0MDQ5ODUw/Ni01Njk3LmpwZWc.jpeg) | 1998 | Antonello Venditti | Sotto Il Segno Dei Pesci E Altri Successi |
-| 88 |  | 1998-07 | Bassi Maestro | Foto di Gruppo |
-| 80 |  | 1999 | Colle Der Fomento | Scienza doppia H |
-| 85 |  | 2001 | Pino Daniele | Medina |
-| 84 | ![Cover](https://i.discogs.com/1Fpvh1Cc5uo3i489FI0qJmn00VoPuMCl2Az5Kb7GGvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTg3/MS0xMTk0NDcwODI2/LmpwZWc.jpeg) | 2002-06-28 | Tiziano Ferro | Rosso relativo |
-| 93 |  | 2002-10-18 | Alex Baroni | Semplicemente |
-| 56 |  | 2003 | Lisa | Oceano |
-| 94 |  | 2003-01-24 | Giorgio Gaber | Io non mi sento italiano |
-| 98 |  | 2003-02 | Marta Sui Tubi | Muscoli e dei |
-| 60 |  | 2004 | Alio Die | Sol Niger |
-| 70 |  | 2004 | No Relax | gridalo |
-| 99 |  | 2004-05-28 | Max Pezzali | Il mondo insieme a te |
-| 75 | ![Cover](https://i.discogs.com/5wuFWrkCH1FaOwf4RRbcZ8B2ILe_4QjnCrkXXpY04eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjky/ODgtMTUyNTAxNDYy/OC00NDIwLnBuZw.jpeg) | 2005 | Raffaella carrà | Fiesta - I Grandi Successi |
-| 83 |  | 2005-01-13 | Mina | Bula Bula |
-| 100 |  | 2005-05 | Nek | Una parte di me |
-| 58 |  | 2006 | Renato Carosone | Collezione Italiana |
-| 62 |  | 2007-11-02 | Anna Tatangelo | Mai dire mai |
-| 86 |  | 2008 | Franco De Vita | Simplemente la Verdad |
-| 87 | ![Cover](https://i.discogs.com/iu58SrCqCR-sVvGtLRKqYn3L866YrUGXzPn9RLV7x7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE5/OTEzLTE2NDI3MDk1/MTEtMTUyNy5qcGVn.jpeg) | 2008-01-18 | Jovanotti | Safari |
-| 72 |  | 2009 | Various Artists | High School Musical Original Soundtrack (Italian Version) |
-| 91 |  | 2009-04-17 | Paul Potts | Passione |
-| 97 | ![Cover](https://i.discogs.com/8QFfHrVtwY_wnlOKlzezLK3cMamj3pM1CAz-QBSjNLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTY3/NjEtMTM5OTEyNDE2/Ny00OTU2LmpwZWc.jpeg) | 2009-10-02 | Noemi | Sulla Mia Pelle |
-| 51 | ![Cover](https://i.discogs.com/dXhImaWRkxexhStlLvn3FP3URkepCtG2lIKdaIPpHos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDY0/NTEtMTQzNjE0NTg0/NC05NTc5LmpwZWc.jpeg) | 2010 | Banda Bassotti | Check Point Kreuzberg Live At The SO36 - Berlin |
-| 67 | ![Cover](https://i.discogs.com/XjwHXt-DQbNnS9-5whRzW4wuvM6q164aSSrh8lHthE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Nzc4/ODYtMTQ0NjU1Njk2/Mi0yMzE3LmpwZWc.jpeg) | 2010-02-19 | Valerio Scanu | Per Tutte Le Volte Che... |
-| 66 | ![Cover](https://i.discogs.com/HuVfocKDjjm15JetqnBL8Sr3GaFwARG_HJIoY3Dy260/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTIz/NjktMTMwODg0NjYz/OC5qcGVn.jpeg) | 2011-06 | Alio Die | Honeysuckle |
-| 76 | ![Cover](https://i.discogs.com/wmTzVA0UY6qXiNmJQfPoyTs1usJZ4PX8xT72tZ84Av4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTMy/NjQtMTQxMjkzNjI3/MS03NzcyLmpwZWc.jpeg) | 2012 | Tiziano Ferro | L&#39;amore è una cosa semplice (Special Edition) |
-| 68 | ![Cover](https://i.discogs.com/lvp5GE0kt02dojxhFiLnU-gg803jAlv8zIV3HqNqYF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU5/OTEtMTYwMTAxNDM4/Ni0xODQyLmpwZWc.jpeg) | 2016-10-20 | Gëinst | Uchronie |
-| 65 | ![Cover](https://i.discogs.com/KYfTPvd2GWGXqJrZWgZcC4MDc-46dkK4o0PeRgIyPx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjIz/MjAxLTE1MDExNDgw/MTItNjA1MS5qcGVn.jpeg) | 2017-07 | BOSTON 168 | Khidi Raver |
-| 64 | ![Cover](https://i.discogs.com/vnVd0b2CbChR3aR-Cs8F1pYYOnGQtCsIRVukxvoUHV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYy/Njk4LTE1MTEwMjEz/NTgtNTc0Ny5qcGVn.jpeg) | 2017-10-27 | Giorgieness | Siamo tutti stanchi |
-| 81 | ![Cover](https://i.discogs.com/7RxJbsrFaE7dqgMKcdci_CyQanD3XaczKhXn70LfrI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzI0/MDI0LTE1MjEzMDE3/MzQtMjg3NC5qcGVn.jpeg) | 2017-12-18 | Panic Dispenser | Mental Violence EP |
-| 89 | ![Cover](https://i.discogs.com/Odo7Qba-csL3I29WfNQYd_z_3EIIMBNdAZtDTpAFYuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI1/MDg2LTE1OTEzMzgy/MDYtNjY3Ni5qcGVn.jpeg) | 2020-06-19 | Brecc | Hell 999 |
-| 63 | ![Cover](https://i.discogs.com/Q3e-qM4B1LQZVZVcS7raYiWl9oSqa06riKz4k-j97Vg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTYz/NjMwLTE3MDA0MjIx/MDAtODIwMy5qcGVn.jpeg) | 2022-11-22 | Acid Division | Genealogia |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/rtBwB477nYr2gwpYOoy4A1HwEfA6ay4rKi22lJ3GI7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODkx/NDMtMTMwMTM3OTk2/Ni5qcGVn.jpeg" alt="Cover for Giorgio Gaber" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1965</td>
+      <td>Giorgio Gaber</td>
+      <td>Giorgio Gaber</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/F1-EaLDQEGZ9rtG0HOUd5XyOVbVy0DEmYUxqw9sgtFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODky/MTctMTQ4MTk4Mzc3/NC04MzgwLmpwZWc.jpeg" alt="Cover for Prima Del Signor G - Giorgio Gaber 1958 - 1970" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1967</td>
+      <td>Giorgio Gaber</td>
+      <td>Prima Del Signor G - Giorgio Gaber 1958 - 1970</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/209DyN4YBWZfQ5aUTw4Qi7H3-fiQDnuH5-9XFIZXyt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTUx/MDktMTQ0NTg5MTI4/My01NjM2LmpwZWc.jpeg" alt="Cover for Non al denaro, non all&#39;amore ne al cielo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972-03-10</td>
+      <td>Fabrizio De André</td>
+      <td>Non al denaro, non all&#39;amore ne al cielo</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td>1976</td>
+      <td>Roberto Vecchioni</td>
+      <td>Elisir</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td>1978</td>
+      <td>Roberto Vecchioni</td>
+      <td>Calabuig</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 10</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>1978-05-13</td>
+      <td>Vasco Rossi</td>
+      <td>Ma Cosa Vuoi Che Sia Una Canzone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/rRvONkypp8m76BQRkn5MeciaF8QDzoz0PNxkM3ovJdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI2/Mzg1LTE1MzcwMDIy/MzctMTA4NS5qcGVn.jpeg" alt="Cover for Made in Italy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Riccardo Fogli</td>
+      <td>Made in Italy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/hXWbLLhWdHh3up-1BM_n2LlQPkAJPxCOFPhkswxRwcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDU0/MjQtMTMyNDk5NzQx/NS5qcGVn.jpeg" alt="Cover for Mino Reitano" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Mino Reitano</td>
+      <td>Mino Reitano</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>1981</td>
+      <td>Angelo Branduardi</td>
+      <td>Angelo Branduardi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/Fv-BnMwaPN0PWxV603l5DHSIfLn_Mxy6o30BfspLu-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MzM5/NTktMTU1MDMxNTI3/MS00NjUwLmpwZWc.jpeg" alt="Cover for Malattia d&#39;amore" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Pupo</td>
+      <td>Malattia d&#39;amore</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>1985</td>
+      <td>Antonello Venditti</td>
+      <td>Centocittà</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/kKUxWnqcFvqq6ZIhAKTKk2NzQZAX7tiJFIfflN5jSB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTk5/Ni0xMjY3Mjc1NzEz/LmpwZWc.jpeg" alt="Cover for A Great Lump" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>S·Core</td>
+      <td>A Great Lump</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/QEv_O03HVZCPG11-ucxtOQ4OiT7Uo7D8SrbGDlInvNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDQw/NDQtMTM2OTY4MDM3/OS01MTgxLmpwZWc.jpeg" alt="Cover for Sogna Ragazzo Sogna" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Roberto Vecchioni</td>
+      <td>Sogna Ragazzo Sogna</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/j5IXYFp8948UfKViTB9phXmvVSuroyVTGn_aQPl3lUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzM2/MS0xNjY1NTIwNjE0/LTY1NzIuanBlZw.jpeg" alt="Cover for Cuore Agitati" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Eros Ramazzotti</td>
+      <td>Cuore Agitati</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>C&#39;hantal</td>
+      <td>The Realm</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 20</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/Z3I94WdPq26Cdo-M03rB6G9FIos6QVi2J-AxkXz1T5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzY1/MDItMTM5MTg4NDQ5/Ni03MDYzLmpwZWc.jpeg" alt="Cover for Le Più Belle Canzoni" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Gianni Togni</td>
+      <td>Le Più Belle Canzoni</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/PqKTwQarOMjfjxQnowLZaM8cIipz7vnDzD1PQhkEDks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzQy/LTEzNTc5ODU2MDIt/NTk3OC5qcGVn.jpeg" alt="Cover for Matter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Lassigue Bendthaus</td>
+      <td>Matter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 38</li>
+            <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>1992</td>
+      <td>Nek</td>
+      <td>Nek</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/eoHpATnu4Ad-TsVoH5kry2DFQ2PwKtAOc6jcoepBO3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjQ1/LTE2MTMzODIxODct/Nzg2Ni5qcGVn.jpeg" alt="Cover for Biohazard" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Lassigue Bendthaus</td>
+      <td>Biohazard</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/NhF0UA5QcYdTzPEx05_sCfEK-kCPDSIfygyYoLJfm94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDMz/MC0xMTUzNjc3MDU0/LmpwZWc.jpeg" alt="Cover for Fac-Totum" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Die Sonne Satan</td>
+      <td>Fac-Totum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 24</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Francesco De Gregori</td>
+      <td>Il Bandito E Il Campione</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td>1993-01</td>
+      <td>Soofle</td>
+      <td>Nouveau EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Biagio Antonacci</td>
+      <td>Biagio Antonacci</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 26</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 49</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Riccardo Fogli</td>
+      <td>Fogli Su Fogli</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/9jZsBhYFjm79ag-h9JFy3X1FCJ0COC0zyKrHKdPzhwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDMz/My0xMTYyMjQzNTU2/LmpwZWc.jpeg" alt="Cover for Omega" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Die Sonne Satan</td>
+      <td>Omega</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/y8aC5WZktVMh80ZjGKkMA9lEmGSw1FytV_VQsIkEYxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQw/OC0xNjMzNzU3ODI5/LTY1MzMuanBlZw.jpeg" alt="Cover for We Like Marihuana" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>DJ Isaac</td>
+      <td>We Like Marihuana</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 50</li>
+            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 80</li>
+            <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/VoOH1LZBLkGizNWh4hpRW_xDW6n8cU_Z-q01llK-Sd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzI5/MTAtMTQ2MzUwODI0/NS0xOTUzLmpwZWc.jpeg" alt="Cover for I Successi Di Miguel Bosè" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-09-04</td>
+      <td>Miguel Bosé</td>
+      <td>I Successi Di Miguel Bosè</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Il Giardino Dei Semplici</td>
+      <td>Miele</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/Ex8Fh5HIE3MJ7HeYVLEHEAlurGurgtd8LHP9IQOkl3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjk3/Ni0xMzkzNjE4Mjc0/LTM5OTguanBlZw.jpeg" alt="Cover for 2 Seconds To Live" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Bald Terror</td>
+      <td>2 Seconds To Live</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 52</li>
+            <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Donatella Rettore</td>
+      <td>I Grandi Successi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/acyYeAuqCmGp1PBxa8fPW6XqiUgPhFbv9AI_ZD8My3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTc2/NTYwLTE2MTc3MTI2/MjItMzczNS5qcGVn.jpeg" alt="Cover for I Più Grandi Successi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>I Camaleonti</td>
+      <td>I Più Grandi Successi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/50gtWkAvvRDdIiRK-PwTTUkY1Ij9tB7tYwBsS7btCug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjUx/NTI3LTE3MDY2ODk1/NzgtODc0NC5qcGVn.jpeg" alt="Cover for Bandiera Rossa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Fonola Band</td>
+      <td>Bandiera Rossa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/J-1Tmby5Pt9r2dCXOgg6V7rGsjw3QzFznvcZWxgvCg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODQ2/MjAtMTI3NjY4NDE4/Mi5qcGVn.jpeg" alt="Cover for Lorenzo 1997: L&#39;albero" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Jovanotti</td>
+      <td>Lorenzo 1997: L&#39;albero</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/tds1___ETlduMLEnL0EkNYswFw8pbKq4Kd_hc1AcYAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjUz/OTItMTU3MTE1NDM4/MS0xMDUwLmpwZWc.jpeg" alt="Cover for Everybody&#39;s Got To Learn Sometime" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Zucchero</td>
+      <td>Everybody&#39;s Got To Learn Sometime</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/6Y5PKbhkMLEJdpQFRYUwK2S9Z4JppF0HBYwxx3xJSk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzkx/MDYtMTU0MDQ5ODUw/Ni01Njk3LmpwZWc.jpeg" alt="Cover for Sotto Il Segno Dei Pesci E Altri Successi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Antonello Venditti</td>
+      <td>Sotto Il Segno Dei Pesci E Altri Successi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>1998-07</td>
+      <td>Bassi Maestro</td>
+      <td>Foto di Gruppo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Colle Der Fomento</td>
+      <td>Scienza doppia H</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/Zych-HivGUcvyMVBmev8mofD_XLJXKvf4NwAKvlMtPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzQx/NDAtMTM2ODM5OTU2/OS04NjAzLmpwZWc.jpeg" alt="Cover for Forza, Campione" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Nino D&#39;Angelo</td>
+      <td>Forza, Campione</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/6mka42Bl9pPGYRqJoDr2n_CtxZ0LVUECFB2rON35Zw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MjEx/MjItMTQ0NTM0MDg0/OS0yNTAyLmpwZWc.jpeg" alt="Cover for Ogni giorno di più" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Gianluca Capozzi</td>
+      <td>Ogni giorno di più</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Pino Daniele</td>
+      <td>Medina</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/qHbjE6B8jNsDGj_rq6_reXhgocv5WKX3AZF61dglyLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTM5/NTktMTI1NDc1MDUz/MS5qcGVn.jpeg" alt="Cover for Figli di origine oscura" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Les Anarchistes</td>
+      <td>Figli di origine oscura</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/1Fpvh1Cc5uo3i489FI0qJmn00VoPuMCl2Az5Kb7GGvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTg3/MS0xMTk0NDcwODI2/LmpwZWc.jpeg" alt="Cover for Rosso relativo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-06-28</td>
+      <td>Tiziano Ferro</td>
+      <td>Rosso relativo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 29</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 50</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 64</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td>2002-10-18</td>
+      <td>Alex Baroni</td>
+      <td>Semplicemente</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/rDf1_ysEjr-tKlY4k_4quOkACFSkZV1TtzKcg_T2ei0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTc3/MjAtMTQyOTQ2NjIy/NS02NjI3LmpwZWc.jpeg" alt="Cover for Tutto Sta Per Cambiare" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Filippo Gatti</td>
+      <td>Tutto Sta Per Cambiare</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Lisa</td>
+      <td>Oceano</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>2003-01-24</td>
+      <td>Giorgio Gaber</td>
+      <td>Io non mi sento italiano</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>2003-02</td>
+      <td>Marta Sui Tubi</td>
+      <td>Muscoli e dei</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 21</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 77</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>Alio Die</td>
+      <td>Sol Niger</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>No Relax</td>
+      <td>gridalo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/-CSfmzzw1OUmF8-Vt1sFjBHw9CE1mDVpi2OA5Ty1XKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQz/NS0xNjM0MjIyNDQz/LTc3NzUuanBlZw.jpeg" alt="Cover for dhope" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-05-17</td>
+      <td>Dhope</td>
+      <td>dhope</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2004-05-28</td>
+      <td>Max Pezzali</td>
+      <td>Il mondo insieme a te</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/5wuFWrkCH1FaOwf4RRbcZ8B2ILe_4QjnCrkXXpY04eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjky/ODgtMTUyNTAxNDYy/OC00NDIwLnBuZw.jpeg" alt="Cover for Fiesta - I Grandi Successi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Raffaella carrà</td>
+      <td>Fiesta - I Grandi Successi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>2005-01-13</td>
+      <td>Mina</td>
+      <td>Bula Bula</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>2005-05</td>
+      <td>Nek</td>
+      <td>Una parte di me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/omSfuqpJRVv-mwtYvz_ufsklImyyp1PePmewNGm0_Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDI0/NzktMTQzMDI0ODI0/OS00MzAwLmpwZWc.jpeg" alt="Cover for Statobrado" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Statobrado</td>
+      <td>Statobrado</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 32</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/XJUHDzrnZ3oZUbVJGDpfSycUYMHxjg2pRoqoeo3t370/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/MjUtMTQ5OTI2ODI5/OC0xMTUxLmpwZWc.jpeg" alt="Cover for Live in Paris" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Laura Pausini</td>
+      <td>Live in Paris</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 70</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Renato Carosone</td>
+      <td>Collezione Italiana</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td>2006-01-25</td>
+      <td>黒色すみれ</td>
+      <td>アンデルメルヘン歌曲集</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choral" | relative_url }}">choral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 3</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 18</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 34</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 40</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 52</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 53</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 55</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 63</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 64</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 76</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 79</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>2006-11-24</td>
+      <td>Vinicio Capossela</td>
+      <td>Nel niente sotto il sole</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2007-11-02</td>
+      <td>Anna Tatangelo</td>
+      <td>Mai dire mai</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 10</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/8Tf2jcprKFOIe8hXjMiJh5N7sBFU9_2c8TTErbaL3Ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDA1/MjQtMTQzOTM2MTE4/MS0zMDA1LmpwZWc.jpeg" alt="Cover for Prendere o lasciare" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Rosario Miraggio</td>
+      <td>Prendere o lasciare</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/napoli" | relative_url }}">napoli</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Franco De Vita</td>
+      <td>Simplemente la Verdad</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/iu58SrCqCR-sVvGtLRKqYn3L866YrUGXzPn9RLV7x7s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODE5/OTEzLTE2NDI3MDk1/MTEtMTUyNy5qcGVn.jpeg" alt="Cover for Safari" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-01-18</td>
+      <td>Jovanotti</td>
+      <td>Safari</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/R86G531qdH4MfsdwxX-3D6eGFQUSPzuKppctK6P8u14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc2/OTMyLTE1NzA0Njc4/NDgtMzc0MS5qcGVn.jpeg" alt="Cover for Il Bosco Delle Fragole" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Tricarico</td>
+      <td>Il Bosco Delle Fragole</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/7ZGtXfPM_CkLshPHO3vStC6rdUTLCSAIniQVKmrw_6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTc1/NTYtMTQwMjk1MTY5/Ni02MDg5LmpwZWc.jpeg" alt="Cover for Made In Italy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>La Bottega Dell&#39;Arte</td>
+      <td>Made In Italy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>High School Musical Original Soundtrack (Italian Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musical" | relative_url }}">musical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>2009-04-17</td>
+      <td>Paul Potts</td>
+      <td>Passione</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/8QFfHrVtwY_wnlOKlzezLK3cMamj3pM1CAz-QBSjNLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTY3/NjEtMTM5OTEyNDE2/Ny00OTU2LmpwZWc.jpeg" alt="Cover for Sulla Mia Pelle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-10-02</td>
+      <td>Noemi</td>
+      <td>Sulla Mia Pelle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/_gyskSzHi_j-YqruzdjYTWW5pj2MkeT0hlWHeTZYl7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY4/NzYxLTE1Mzk2OTk1/NjEtMzYzMy5qcGVn.jpeg" alt="Cover for L&#39;ultima recita" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Verderame</td>
+      <td>L&#39;ultima recita</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 15</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/-QhQvkJauk6SghBxAhCRejoZV0GItYds8McGze_ELvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTUx/MjYtMTMxMTc5NDU0/OS5qcGVn.jpeg" alt="Cover for Simulacra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Sigillum S</td>
+      <td>Simulacra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/dXhImaWRkxexhStlLvn3FP3URkepCtG2lIKdaIPpHos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMDY0/NTEtMTQzNjE0NTg0/NC05NTc5LmpwZWc.jpeg" alt="Cover for Check Point Kreuzberg Live At The SO36 - Berlin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Banda Bassotti</td>
+      <td>Check Point Kreuzberg Live At The SO36 - Berlin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/XjwHXt-DQbNnS9-5whRzW4wuvM6q164aSSrh8lHthE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Nzc4/ODYtMTQ0NjU1Njk2/Mi0yMzE3LmpwZWc.jpeg" alt="Cover for Per Tutte Le Volte Che..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-02-19</td>
+      <td>Valerio Scanu</td>
+      <td>Per Tutte Le Volte Che...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2010-05-19</td>
+      <td>黒色すみれ</td>
+      <td>ALICE IN THE UNDERGROUND</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choral" | relative_url }}">choral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 4</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 13</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 28</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 41</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 50</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 52</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/HuVfocKDjjm15JetqnBL8Sr3GaFwARG_HJIoY3Dy260/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTIz/NjktMTMwODg0NjYz/OC5qcGVn.jpeg" alt="Cover for Honeysuckle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06</td>
+      <td>Alio Die</td>
+      <td>Honeysuckle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/wmTzVA0UY6qXiNmJQfPoyTs1usJZ4PX8xT72tZ84Av4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTMy/NjQtMTQxMjkzNjI3/MS03NzcyLmpwZWc.jpeg" alt="Cover for L&#39;amore è una cosa semplice (Special Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Tiziano Ferro</td>
+      <td>L&#39;amore è una cosa semplice (Special Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/hw_nui9zPhDHkDzlb3B8KEyjFd82tDrmWqirvLiOx54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjAy/ODktMTM1OTk5OTIx/NS04ODY1LmpwZWc.jpeg" alt="Cover for Anteprime" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-07-14</td>
+      <td>Thomas Traspedini</td>
+      <td>Anteprime</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harp" | relative_url }}">harp</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 11</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td>2013-07-01</td>
+      <td>Bianca Atzei</td>
+      <td>La paura che ho di perderti</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/7QJ22NDVUrW-U8xiV3G-KLj6PAUf1kr7ZDq_Ng6CpsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEz/MTM1LTE1MzY4NzI1/NDUtOTE4MC5qcGVn.jpeg" alt="Cover for Roma California" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Davide Esposito</td>
+      <td>Roma California</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/6g7IOJupDlNOD9-t8Fyt9JwAuQxsh181A4eZQPI-000/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzIx/OTMtMTQzMDcxODIz/Ni01Nzk1LmpwZWc.jpeg" alt="Cover for best of acapella" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-02-17</td>
+      <td>A-Live</td>
+      <td>best of acapella</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 14</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 38</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 42</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/1QIqqvtjjcJPZuXxVcfDTDIXUHX1TotazgUlqPetBlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTQz/NDQtMTQyNzE4OTAy/My04Nzk4LmpwZWc.jpeg" alt="Cover for Absence Generator" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-03-23</td>
+      <td>Violet Poison</td>
+      <td>Absence Generator</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/iMX7KqMgW3wRQmt9ZDF0FvcHtp421KhAbDReUp3deGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjE2/NTQtMTQ2MjEwMzYy/NC0xMTk5LmpwZWc.jpeg" alt="Cover for Appena sveglia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-02-12</td>
+      <td>Chiara Dello Iacovo</td>
+      <td>Appena sveglia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8133e4863eddb15b6b68e0412c8f082a.png" alt="Cover for Una Strada In Mezzo Al Cielo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-05-06</td>
+      <td>Gianluca Grignani</td>
+      <td>Una Strada In Mezzo Al Cielo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 20</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 26</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 46</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 62</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/NCwUR00d-5ux1rnuvJNa8iBdqcLzxd1hxo74pb8SHac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTY5/NTMtMTYwMDExNzI3/NS0xODgyLmpwZWc.jpeg" alt="Cover for LAQ 02" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-05</td>
+      <td>BOSTON 168</td>
+      <td>LAQ 02</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/lvp5GE0kt02dojxhFiLnU-gg803jAlv8zIV3HqNqYF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU5/OTEtMTYwMTAxNDM4/Ni0xODQyLmpwZWc.jpeg" alt="Cover for Uchronie" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-10-20</td>
+      <td>Gëinst</td>
+      <td>Uchronie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/8euM6yqDWmVINmKH-mCP8dHCEcLH9TGQh6Jg2xH_gIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjAx/MzktMTQ4MDI1NjUx/NC02Njc0LmpwZWc.jpeg" alt="Cover for Φ (Phi)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-10-21</td>
+      <td>Mai Mai Mai</td>
+      <td>Φ (Phi)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/KYfTPvd2GWGXqJrZWgZcC4MDc-46dkK4o0PeRgIyPx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjIz/MjAxLTE1MDExNDgw/MTItNjA1MS5qcGVn.jpeg" alt="Cover for Khidi Raver" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-07</td>
+      <td>BOSTON 168</td>
+      <td>Khidi Raver</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/vnVd0b2CbChR3aR-Cs8F1pYYOnGQtCsIRVukxvoUHV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYy/Njk4LTE1MTEwMjEz/NTgtNTc0Ny5qcGVn.jpeg" alt="Cover for Siamo tutti stanchi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-27</td>
+      <td>Giorgieness</td>
+      <td>Siamo tutti stanchi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/5QZ-aDrJ76VzE75Rsg7TMi6wBRt5zCq-t8GbHUdwQ8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkz/NjI4LTE1NTMzNjQ0/NDctOTE5MC5qcGVn.jpeg" alt="Cover for Messing With Occult Science EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-11-10</td>
+      <td>Dykore</td>
+      <td>Messing With Occult Science EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/7RxJbsrFaE7dqgMKcdci_CyQanD3XaczKhXn70LfrI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzI0/MDI0LTE1MjEzMDE3/MzQtMjg3NC5qcGVn.jpeg" alt="Cover for Mental Violence EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-12-18</td>
+      <td>Panic Dispenser</td>
+      <td>Mental Violence EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/apZkYQqVOS3__TjaHSss0cMpHk6HNs5aRZcoCVUqFpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk1/NTQxLTE1NDgwNjI1/MDEtOTY5My5qcGVn.jpeg" alt="Cover for E non si arrende!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-12-01</td>
+      <td>Barricata rossa</td>
+      <td>E non si arrende!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/aYdEhEYfLGtr-Gof4a32fMkUUw903tuMxtReyTupj_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTYz/MjU1LTE3MDA0MTkz/MzAtMTExNS5qcGVn.jpeg" alt="Cover for Anomia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-08-09</td>
+      <td>Acid Division</td>
+      <td>Anomia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/PD9aUEXTpU0HOIj1MV_4hMutBZS4PKi2zonoEAIQWd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODMx/Mjk2LTE1ODI0NDMy/NTAtMzQ3MS5qcGVn.jpeg" alt="Cover for Selton (Italian Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-09-06</td>
+      <td>Selton</td>
+      <td>Selton (Italian Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/Odo7Qba-csL3I29WfNQYd_z_3EIIMBNdAZtDTpAFYuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI1/MDg2LTE1OTEzMzgy/MDYtNjY3Ni5qcGVn.jpeg" alt="Cover for Hell 999" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-06-19</td>
+      <td>Brecc</td>
+      <td>Hell 999</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/pdrUO7PoifrMiDYeNwKjw4lduXlgvk8pJNDaJWctzZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzIz/MzkxLTE2ODYyMzU1/OTYtOTczNy5qcGVn.jpeg" alt="Cover for Eurobug" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-05-20</td>
+      <td>Aneed</td>
+      <td>Eurobug</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/Q3e-qM4B1LQZVZVcS7raYiWl9oSqa06riKz4k-j97Vg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTYz/NjMwLTE3MDA0MjIx/MDAtODIwMy5qcGVn.jpeg" alt="Cover for Genealogia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-11-22</td>
+      <td>Acid Division</td>
+      <td>Genealogia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/BJPptLaFgmptRDHQMQobY5ogOespdJDgfKbZIscYQIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTIz/MzY3LTE2ODI3OTE1/NTktNDgzNy5qcGVn.jpeg" alt="Cover for Crepuscular Glare Of Wisdom" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-04-07</td>
+      <td>Frér</td>
+      <td>Crepuscular Glare Of Wisdom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Despacito y Buenaletra</td>
+      <td>yammin (2003)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spain" | relative_url }}">spain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Bandiera rossa</td>
+      <td>Canti Anarchici</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/protest" | relative_url }}">protest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Despacito y Buenaletra</td>
+      <td>umilda (2007)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beat" | relative_url }}">beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italy" | relative_url }}">italy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spain" | relative_url }}">spain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 20</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 28</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 36</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 40</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 68</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Valentina Mari</td>
+      <td>Kim Possible Original Soundtrack (Italian Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

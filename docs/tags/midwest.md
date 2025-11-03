@@ -9,110 +9,2297 @@ title: midwest
 
 Last updated: <time datetime="2025-10-28T05:00:28.070Z">Tue Oct 28 2025 07:00:28 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+The &quot;midwest&quot; tag captures music rooted in America&#39;s heartland, characterized by gritty authenticity and blue-collar sensibility that spans hip-hop, rock, and indie scenes. Artists from this region often blend raw, introspective storytelling with stripped-down production that reflects industrial landscapes and working-class experiences. The sound emphasizes honest, unpretentious creativity over coastal polish, creating a distinctive artistic identity shaped by geographic and cultural isolation.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 68 | ![Cover](https://i.discogs.com/Y4ElN6Qs33g4FKZlEsFMzrwE6F1ndgSc6nlcyA58Hkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTY3/MzctMTI4MTQ4Mjkw/Ni5qcGVn.jpeg) | 1990-12-11 | Devo | Are We Not Men |
-| 61 |  | 1993 | Top Authority | Somethin&#39; to Blaze To |
-| 28 | ![Cover](https://i.discogs.com/bARElj4onslgNA-gF_5kFh204-vFhGo2E4rX4My1meI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMw/MTM0LTE1OTQ4NjA2/NDgtMzY3MC5qcGVn.jpeg) | 1994 | Bag Of Hammers | Bag of Hammers:eXtreme - Weed-n-Coffee |
-| 98 |  | 1994-06-21 | Bone Thugs-N-Harmony | Creepin on Ah Come Up |
-| 1 | ![Cover](https://i.discogs.com/0kzQTvo2VSTzdImAO8pM5zvP7CLVqWibLDRkgTOutrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc3/MzQtMTYwMDg1NDE1/Ni04NTQxLmpwZWc.jpeg) | 1994-10-17 | K-Stone | 313 |
-| 56 | ![Cover](https://i.discogs.com/vd1gI1fLoPWTNp3HzOJYaAufRRWxDKjsja27jsC56VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjUx/NC0xMzc1NjIxMzM0/LTUyMzcuanBlZw.jpeg) | 1994-11-22 | Esham | Closed Casket |
-| 50 | ![Cover](https://i.discogs.com/DkLU_Y8dgnZlC0_Rx-1S6KOnYCvB91rnz6Xz4ADQan0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mzk0/MS0xMzcwMDkzMjg5/LTgzMzEuanBlZw.jpeg) | 1995-01-17 | Mastamind | Lickkuiddrano |
-| 35 |  | 1995-02-24 | Project Born | Born Dead |
-| 91 |  | 1996-09-24 | The Dayton Family | F.B.I. |
-| 41 | ![Cover](https://i.discogs.com/-bTw_DcMLYdMhaqHL_wuFQZQ2YZOZRXR5-ls0akepzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTkx/ODg0LTE1NzkwNDEx/NzMtOTE5MC5qcGVn.jpeg) | 1997 | Triple Darkness | Cold Blooded |
-| 90 | ![Cover](https://i.discogs.com/S1q_5Aje0dKYtaSh-cyzQhZKNpwKJcg815M36xE3KOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTcz/MjAtMTU5MDcyMTUy/OS0zNTE0LmpwZWc.jpeg) | 1997 | Piebald | When Life Hands You Lemons |
-| 8 | ![Cover](https://i.discogs.com/Bk2NxiGgEydbHOFZEDo-PgjR4bhySkKvoPLZN6yutmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/MC0xMTE5NjI0NTky/LmpwZw.jpeg) | 1997-01-30 | Son | A Storm Of Soap And Other Things |
-| 13 | ![Cover](https://i.discogs.com/wKJ-MXn_zCaVCRovuSSAbDloxygVgaKrorprlyOvqI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTM5/MzUtMTY0NzU4MzA0/MC0xMDg5LmpwZWc.jpeg) | 1999-09-01 | Paradime | Paragraphs |
-| 52 | ![Cover](https://i.discogs.com/t2BZBOPO2xNinggVjJ7IvdlDmNu4IJ-zT9sy4LWbSRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTE0/OTItMTM2ODEyNjk2/NS01NzExLmpwZWc.jpeg) | 2000 | Project Born | Born Dead 2 |
-| 62 |  | 2000 | Athletic Mic League | The Thrill Is Gone |
-| 65 | ![Cover](https://i.discogs.com/7QgepmVkEeI0lSbDs2kE1wqESDR8kDQeQdZEWTgDpes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjM1/OC0xMzc0OTI2OTEy/LTY0NTQuanBlZw.jpeg) | 2000 | Esham | Boomin Words From Hell |
-| 79 |  | 2000-03-27 | Illogic | Unforeseen Shadows |
-| 16 | ![Cover](https://i.discogs.com/WZazvFvTNJqiRh0ymn1DffOWlAkeoeTJOXCSBjsFdgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzAw/MTEtMTQ0NjQwNTY2/My05MDcxLmpwZWc.jpeg) | 2001 | Paradime | Vices |
-| 51 | ![Cover](https://i.discogs.com/5VMOwl-2NMAwd6ZDMRhjmrV7hxoMUvEvLYR8H6q3Xwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/NTEtMTMzNzk4MDI4/Ni05NzA4LmpwZWc.jpeg) | 2001 | Qwazaar | Walk Thru Walls |
-| 96 |  | 2001-02-06 | Typical Cats | Typical Cats |
-| 55 |  | 2002 | One Be Lo | Project: F.E.T.U.S. |
-| 73 | ![Cover](https://i.discogs.com/lDXG6wLS4l7fgx8ADfCQIZOu_ztd40bFvEWkD9DtCbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDA4/Ni0xNDU5Mjc4MTg3/LTU1NzkuanBlZw.jpeg) | 2002 | Athletic Mic League | Sweats &amp; Kicks |
-| 66 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/313cdfd9f73e4655c671a34f3454eba9.png) | 2002-12-09 | The Black Keys | The Moan |
-| 23 |  | 2003 | Various Artists | The Motor City Rhythm &amp; Blues Pioneers |
-| 80 |  | 2003-09-22 | Atmosphere | Seven&#39;s Travels |
-| 92 |  | 2003-10-25 | Diverse | One A.M. |
-| 72 | ![Cover](https://i.discogs.com/iSGUfwTpdjQCUyFgQaKkBGKOiWZxNbf_5X3B3CyL9ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NDktMTE4NTc1Mzg1/My5qcGVn.jpeg) | 2004 | Keston and Westdal | Super Structure Baby |
-| 30 | ![Cover](https://i.discogs.com/WURZkPBlmt0GwmGchRzkg0KJuZatnl22KPbxC-n8b6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTEw/MjUtMTM1NTU5NjU5/Ni01NjUzLmpwZWc.jpeg) | 2004-08-03 | Paradime | 11 Steps Down |
-| 11 |  | 2004-08-24 | MC Breed | The New Prescription |
-| 37 |  |  | RawBeatzz | Anotha Day...Anotha Dolla... Anotha Beat...mixcd Vol.1 |
-| 46 |  |  | Adam Zivojnovich | LIVE! FROM MY PARENTS&#39; BASEMENT |
-| 85 | ![Cover](https://i.discogs.com/IFt2hEvsCsZQaBsnk73w1i1ggG3OG10Qxkmdl95IVCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mjk2/OC0xNTg3MTQ4MTc2/LTkwNDkuanBlZw.jpeg) | 2004-10-26 | Typical Cats | Civil Service |
-| 53 | ![Cover](https://i.discogs.com/7HV73XVKrkHe2UIs_jHUs_5ikHTGVVM-HexFnZWBr34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYw/MzAtMTUxODgwMzQ3/OS0xMzI2LmpwZWc.jpeg) | 2004-11 | Menacide | The Drugz LP |
-| 33 | ![Cover](https://i.discogs.com/nTCyJaCsn-c-bl09O4u8GPMx5adZIEk5TL1d0NJfmiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk0/OTgtMTIxNDUyMjgw/My5qcGVn.jpeg) | 2005 | Skrapz | The 12 Step Program |
-| 70 |  | 2005 | One Be Lo | S.T.I.L.L.B.O.R.N. |
-| 71 | ![Cover](https://i.discogs.com/TLxolLauaKH4ka9pReB3Kf7i6TE7LHvBnDxlGpinmzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTQ2/NS0xMTA5NTY4ODU2/LmpwZw.jpeg) | 2005 | YUKI | Pony Play |
-| 89 |  | 2005-10-04 | Atmosphere | You Can&#39;t Imagine How Much Fun We&#39;re Having |
-| 100 |  | 2006-08-15 | The Black Keys | Your Touch - The EP |
-| 3 | ![Cover](https://i.discogs.com/DP7L_byltLNrN25YiEtKzGjO8ackjViKk4Upsys7rS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQx/MzEtMTMxNjcyMzEy/Mi5qcGVn.jpeg) | 2007-02-19 | Qwel &amp; Jackson Jones | 20th Street Rich |
-| 5 |  |  | Block Burna Boyz | The Brains Tha Muscle &amp; Da Mouthpiece |
-| 9 |  |  | Mr. Frizo | House Keys (Single) |
-| 43 |  | 1997 | Kgp | Necrology |
-| 42 |  | 2004 | Bedlam | Bedlamitez Rize |
-| 77 | ![Cover](https://i.discogs.com/fISOc0KsrXtBgdIsB2N0ixWRCX29UWnM2R5u_EDR3tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTEy/NjEtMTM2MDMyNTg3/NC0yNjg5LmpwZWc.jpeg) | 2007-07-10 | Robust | El Foto Grande |
-| 95 |  | 2007-08 | The Black Keys | The Live EP |
-| 14 | ![Cover](https://i.discogs.com/JeCIcVEZ552zqaPIRYcd7og8Fpm0iH9tdPtn57BETMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTAy/OTEtMTI3MjMyNjIw/Mi5qcGVn.jpeg) | 2007-08-01 | Amdeide | Facade Promo |
-| 19 |  |  | Lunatic Da New Face N Rap | Hood Infested |
-| 21 |  |  | M.O.B.  ...featuring Shane Capone | Terror... |
-| 25 |  |  | МЫСБИВАЕМСПУТНИКИ! | деймос и фобос |
-| 31 |  |  | Descending New Angels | Descending New Angels 1 |
-| 48 | ![Cover](https://i.discogs.com/ayM6nCsoX3SkMiRwxvk0PXzOKrR0pkpx4H16Jt-lR98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mzk0/NzItMTY1Mzc3OTk3/Ny01NjQ0LmpwZWc.jpeg) | 2005-10-04 | Marz | Against All Odds |
-| 47 | ![Cover](https://i.discogs.com/aXz3xgL3xF8f_b9T8DIb63zpN5hw1pm-CrpDgVXVixI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjU4/NC0xMTUwMDY1NTQ5/LmpwZWc.jpeg) | 2006-06-16 | Elephant Beach | Escape |
-| 87 |  | 2007-10-10 | Mind Soup | Love Songs For Gifted Children |
-| 2 | ![Cover](https://i.discogs.com/3e_NGf2lW2MF9X7Q9do0w9mQVe4DEvdNZt4qFvzs7JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ2/NzU0LTE1MDUyNjYz/MTktNjcxOS5qcGVn.jpeg) | 2008 | Bake Up Boyz | Fresh Out Da Kitchen |
-| 76 | ![Cover](https://i.discogs.com/nH5YtRTRoszhMk3w5SyGyaecT-rbM8HZj2l-qAH97mU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODIy/NDUtMTQ1Mjg4NTQw/My0zNjI1LmpwZWc.jpeg) | 2008 | Keston and Westdal | One Day to Save All Life |
-| 58 | ![Cover](https://i.discogs.com/_csbLduzeviCbkImdSj9M8hBbVXEUYzabsBatamZF88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTQ5/MTYtMTI5MjI1OTQ4/NC5qcGVn.jpeg) | 2008-11-11 | The Layaways | The Space Between |
-| 57 |  | 2009 | Shane Capone | Certified WhiteBoy |
-| 54 | ![Cover](https://i.discogs.com/Sk7Lr1rU6OLNHVr1Z5g-kZYz7-oOxn83pgjh4RtPvXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDM3/MDYtMTI3NTU4NDMy/OC5qcGVn.jpeg) | 2012-08 | The Black Keys | Brothers (bonus disc: Akron Sessions) |
-| 4 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/71d08b8a06d7793d0e35febc469758dc.png) | 2019-06-13 | Bird Bone | Тени |
-| 6 |  |  | 1st Dagree | Ride Wit Us Or Get Ran Ova Vol 2.0 MixTape |
-| 7 | ![Cover](https://i.discogs.com/vO99u30Foo93a19iA4xHN8cAXHse9zqcD6RWYyuBJJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDIy/MTQtMTQ0MzYzMzM4/MS05MjQ4LmpwZWc.jpeg) | 2015-09-18 | Gaps | Beat Her Heart Out |
-| 10 |  |  | Teflon Trigga | Against All Odds |
-| 15 |  |  | МЫСБИВАЕМСПУТНИКИ! | Город в котором нет меня |
-| 17 |  |  | Beaver Shoot | Where is the P***y and Beer? |
-| 32 |  |  | Lyriscologist | R.O.L. |
-| 44 |  |  | Lyriscologist | New Bombs Explodin&#39; Tracks |
-| 60 |  |  | Nik Salah | Midwest&#39;s Best |
-| 38 | ![Cover](https://i.discogs.com/Lz58ejc_FlVZqiGD7PD6mvSL5TaxabZ5nirgZokKlEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDE3/NzQtMTQxOTMwNDcy/Ni00OTQ1LmpwZWc.jpeg) | 2000 | Halfbreed | Serial Killaz |
-| 36 | ![Cover](https://i.discogs.com/3tPjwZcdE-MrP-sNnb_kpmMxL06Taosoa1-tBhcGu8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTA1/OC0xMzgyODcyOTc3/LTkxMTguanBlZw.jpeg) | 2000-03-28 | Esham | &#39;Bootleg&#39; (From The Lost Vault)-Vol.1 |
-| 49 |  |  | Pour Choices | Not Enough |
-| 12 | ![Cover](https://i.discogs.com/4mpe6_Q8ijJ8jvgNiWsmBlTRj9CoPTza6FgI7dy5xFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY1/ODg4LTE1OTAzNTc3/MDUtNzI0MC5qcGVn.jpeg) | 2002 | Rich the Factor | Big Thyme |
-| 26 | ![Cover](https://i.discogs.com/0UdU4mfI8ID6_uoB5bQfnrw-lX6nkXiAnoenex1wbJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTM1/ODEtMTM4Mjg3ODM2/OS0xMDk5LmpwZWc.jpeg) | 2003 | Dice | Theneighborhoodshittalka |
-| 74 | ![Cover](https://i.discogs.com/3I_oJHpNjrtMhjudL_OUOHU4AkhROR-_9QcL-MN3zGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODc1/MjktMTMwNTc0Nzgy/MS5qcGVn.jpeg) | 2006-04-11 | Tom Brosseau | Tom Brosseau |
-| 24 | ![Cover](https://i.discogs.com/lvdH9j3WmliXrwetizdRo7cj5eV9BovskDHJX80LVz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzEy/NjgtMTQ0ODQzNjI1/Ny03NzE1LmpwZWc.jpeg) | 2006-07-11 | The Lovekill | These Moments Are Momentum |
-| 78 | ![Cover](https://i.discogs.com/_oKIpMYJIvwhcg-Sx5mCogjBjz1XtoN2O0abD2a-JBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzY3/MjctMTU3MjE2MDY3/Ni05NTg0LmpwZWc.jpeg) | 2007 | Project Born | Once Upon A Time In The Projects |
-| 82 | ![Cover](https://i.discogs.com/mFtz6EWrv1Z-cw8dJu9pVDz1hamR8mbQGKpExo__wQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NTctMTE4NTc1NTUw/Ny5qcGVn.jpeg) | 2007-03-13 | Keston and Westdal | Truth is Stranger |
-| 81 | ![Cover](https://i.discogs.com/SahHa6DLCuTbeRLD6P5ISfzUu6l2ZmKXgeLalUVOoEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDA3/NTUtMTI4NDQ3NDAw/MS5qcGVn.jpeg) | 2007-12-11 | One Be Lo | The R.E.B.I.R.T.H. |
-| 27 | ![Cover](https://i.discogs.com/nDaki_1usaoHcmcp9G9yw033islx9UIC1PEmlmwP7Jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDI4/MTYtMTQwMTQxNDkz/OS0yNDA0LmpwZWc.jpeg) | 2008 | Eisenhower Field Day | Tyrants and Spies |
-| 99 |  | 2008-03-24 | The Black Keys | Strange Times |
-| 75 | ![Cover](https://i.discogs.com/Fv_59Zbt3qV0Sk46yerH-ivvZzhhjGHdsxWbSXP6MF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTgy/NjktMTIzNzY4MTg0/OC5qcGVn.jpeg) | 2008-09-30 | Trick Trick | The Villain |
-| 64 | ![Cover](https://i.discogs.com/QzcykB_xlOTsGS1LbKfPs8dZCL_YQ8-I4--K7fN4Wik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjc4/NjYtMTUyNjE4MDM3/Mi05MjA3LmpwZWc.jpeg) | 2009-01-29 | Kgp | Hatred Vol 2 |
-| 20 | ![Cover](https://i.discogs.com/A3m_1TsHvCiWszyroaM37ctyFGe1XmlWFXHVUA9y-Wo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzkz/NzItMTI0MDI1NzUw/NC5qcGVn.jpeg) | 2009-04-17 | HipGnosis | Scientific Illuminism (Is For Sissies) |
-| 22 |  |  | M.O.B.  ...featuring Shane Capone | Welcome to Detroit Muthafuckaz |
-| 69 | ![Cover](https://i.discogs.com/sojUoUYHbMHZgAokQmBmJCrNBttMDtGPfbyhcmmXFNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjA3/MDAtMTI4NTMzMDky/Mi5qcGVn.jpeg) | 2009-12-18 | Mind Soup | Besides |
-| 39 | ![Cover](https://i.discogs.com/yWS00Dbm2-YQ3j8OXSJOUtJm1rrIOMPEoJCdbIL3bKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg2/MTM4LTE1MDA0MTMx/MjMtMTM1OS5qcGVn.jpeg) | 2010 | Bad Heart Bull | Devil Catch Up With Me |
-| 84 | ![Cover](https://i.discogs.com/DsfC7CrPniy5JZ9yn4IXnsGOVaZtUHUxu-XW2rVkDvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTMx/NjktMTI2MjUwNTMz/Mi5qcGVn.jpeg) | 2010 | The Black Keys | Same Old Thing |
-| 97 |  | 2010-10-19 | The Black Keys | iTunes Session |
-| 34 |  | 2010-11-10 | KatazTrophee | Opening The Box: The B-Sides |
-| 93 |  | 2011-01-04 | The Black Keys | Ohio |
-| 18 | ![Cover](https://i.discogs.com/JBsCGtQ6AmHxZngGNGNtz5iMMWTvh5guYAhLeXoIwOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDU5/ODU1LTE1NDczNzky/NTctOTc2NS5qcGVn.jpeg) | 2012 | Shane Capone | Heated Speech w&#x2F; bonus DVD |
-| 59 | ![Cover](https://i.discogs.com/3Sm-2IocvJdg4UwTrHxLD0Lyc0m78cK2-qydHaT_frM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTY1/NTE1LTE2NTUxNTY2/NTgtMzI0MC5qcGVn.jpeg) | 2013 | American Wolf | Tales Of Kamanakera |
-| 40 | ![Cover](https://i.discogs.com/UfW75siAgQDWDbp_2j-m4msJCdjAcroWahuhMY-AY78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYz/NDg0LTE2MTE5MzU0/NzEtMTIyMC5qcGVn.jpeg) | 2014-09-23 | Hey, Joni | DEMO |
-| 86 | ![Cover](https://i.discogs.com/lLsxk8Rl7jVgykxFRTqaO0bleuCEjO77cbgLWercTHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTgy/MDMtMTQzMjcyODA1/OC04MDE3LmpwZWc.jpeg) | 2015-06-29 | YUKI | Yuki EP |
-| 63 | ![Cover](https://i.discogs.com/-YuZT7fwAybJ35mOgsXKNOBlJ3t2vLDPE5HoQYRmH1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjE1/NzI4LTE2MDU0MTQz/MDktNzg2MC5qcGVn.jpeg) | 2016 | Good Luck at the Hog Slaughter | Ghost Stories |
-| 94 | ![Cover](https://i.discogs.com/osxz7i8xgOiIXrgBpsDC98nn-ZwFOEfQFH_BL6TGxoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTUw/MTYzLTE1Mjk4NTQx/MDMtMTc4NC5qcGVn.jpeg) | 2016-06-29 | Stars Hollow | I&#39;m Really Not That Upset About It |
-| 83 | ![Cover](https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg) | 2017-03-03 | Various Artists | The Land (Music from the Motion Picture) |
-| 88 | ![Cover](https://i.discogs.com/AJngPhVjsgisB3yFGJGS1CXrloxTUsn-Q1SL7TuVszE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/My0xMjI3Mjc3NjA0/LmpwZWc.jpeg) | 2018 | Origami | Синдром Кассандры |
-| 67 | ![Cover](https://i.discogs.com/PfLTqUASNbMgHqlm5pSV1Ze8sdSwnZ-lo0rm3LFPzJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUw/MzE5LTE1NTQ0NTEw/NjAtMTYwNy5qcGVn.jpeg) | 2018-12-07 | The Pier | Dead Reckoning |
-| 29 | ![Cover](https://i.discogs.com/1Uvu_ztFvtiy0hhwPfZq6ozn65fZzytgXEEMomLjyS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjEy/MDc2LTE2NzcyNTc3/ODEtMjgzMy5qcGVn.jpeg) | 2022-09-24 | Bovinophobic Bile Puddle | BBP |
-| 45 | ![Cover](https://i.discogs.com/9lxevwhcY6rshI7tAUtCa8HJK3-JJs2oT9VztvbNkhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTE2/MS0xMzk4NzQwODYw/LTY0NzUuanBlZw.jpeg) | 2023 | Various Artists | LOYALTY &amp; RESPECT MIXTAPE V.1 |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/Y4ElN6Qs33g4FKZlEsFMzrwE6F1ndgSc6nlcyA58Hkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTY3/MzctMTI4MTQ4Mjkw/Ni5qcGVn.jpeg" alt="Cover for Are We Not Men" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-12-11</td>
+      <td>Devo</td>
+      <td>Are We Not Men</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Top Authority</td>
+      <td>Somethin&#39; to Blaze To</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/bARElj4onslgNA-gF_5kFh204-vFhGo2E4rX4My1meI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMw/MTM0LTE1OTQ4NjA2/NDgtMzY3MC5qcGVn.jpeg" alt="Cover for Bag of Hammers:eXtreme - Weed-n-Coffee" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Bag Of Hammers</td>
+      <td>Bag of Hammers:eXtreme - Weed-n-Coffee</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>1994-06-21</td>
+      <td>Bone Thugs-N-Harmony</td>
+      <td>Creepin on Ah Come Up</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 43</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/0kzQTvo2VSTzdImAO8pM5zvP7CLVqWibLDRkgTOutrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc3/MzQtMTYwMDg1NDE1/Ni04NTQxLmpwZWc.jpeg" alt="Cover for 313" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-10-17</td>
+      <td>K-Stone</td>
+      <td>313</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 11</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/vd1gI1fLoPWTNp3HzOJYaAufRRWxDKjsja27jsC56VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjUx/NC0xMzc1NjIxMzM0/LTUyMzcuanBlZw.jpeg" alt="Cover for Closed Casket" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-11-22</td>
+      <td>Esham</td>
+      <td>Closed Casket</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/DkLU_Y8dgnZlC0_Rx-1S6KOnYCvB91rnz6Xz4ADQan0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mzk0/MS0xMzcwMDkzMjg5/LTgzMzEuanBlZw.jpeg" alt="Cover for Lickkuiddrano" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-01-17</td>
+      <td>Mastamind</td>
+      <td>Lickkuiddrano</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 32</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>1995-02-24</td>
+      <td>Project Born</td>
+      <td>Born Dead</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>1996-09-24</td>
+      <td>The Dayton Family</td>
+      <td>F.B.I.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Kgp</td>
+      <td>Necrology</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/-bTw_DcMLYdMhaqHL_wuFQZQ2YZOZRXR5-ls0akepzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTkx/ODg0LTE1NzkwNDEx/NzMtOTE5MC5qcGVn.jpeg" alt="Cover for Cold Blooded" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Triple Darkness</td>
+      <td>Cold Blooded</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/S1q_5Aje0dKYtaSh-cyzQhZKNpwKJcg815M36xE3KOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTcz/MjAtMTU5MDcyMTUy/OS0zNTE0LmpwZWc.jpeg" alt="Cover for When Life Hands You Lemons" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Piebald</td>
+      <td>When Life Hands You Lemons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/Bk2NxiGgEydbHOFZEDo-PgjR4bhySkKvoPLZN6yutmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjAz/MC0xMTE5NjI0NTky/LmpwZw.jpeg" alt="Cover for A Storm Of Soap And Other Things" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-01-30</td>
+      <td>Son</td>
+      <td>A Storm Of Soap And Other Things</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/wKJ-MXn_zCaVCRovuSSAbDloxygVgaKrorprlyOvqI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTM5/MzUtMTY0NzU4MzA0/MC0xMDg5LmpwZWc.jpeg" alt="Cover for Paragraphs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-09-01</td>
+      <td>Paradime</td>
+      <td>Paragraphs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/Lz58ejc_FlVZqiGD7PD6mvSL5TaxabZ5nirgZokKlEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDE3/NzQtMTQxOTMwNDcy/Ni00OTQ1LmpwZWc.jpeg" alt="Cover for Serial Killaz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Halfbreed</td>
+      <td>Serial Killaz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 11</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/t2BZBOPO2xNinggVjJ7IvdlDmNu4IJ-zT9sy4LWbSRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTE0/OTItMTM2ODEyNjk2/NS01NzExLmpwZWc.jpeg" alt="Cover for Born Dead 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Project Born</td>
+      <td>Born Dead 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Athletic Mic League</td>
+      <td>The Thrill Is Gone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/7QgepmVkEeI0lSbDs2kE1wqESDR8kDQeQdZEWTgDpes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjM1/OC0xMzc0OTI2OTEy/LTY0NTQuanBlZw.jpeg" alt="Cover for Boomin Words From Hell" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Esham</td>
+      <td>Boomin Words From Hell</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>2000-03-27</td>
+      <td>Illogic</td>
+      <td>Unforeseen Shadows</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/3tPjwZcdE-MrP-sNnb_kpmMxL06Taosoa1-tBhcGu8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTA1/OC0xMzgyODcyOTc3/LTkxMTguanBlZw.jpeg" alt="Cover for &#39;Bootleg&#39; (From The Lost Vault)-Vol.1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-03-28</td>
+      <td>Esham</td>
+      <td>&#39;Bootleg&#39; (From The Lost Vault)-Vol.1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/WZazvFvTNJqiRh0ymn1DffOWlAkeoeTJOXCSBjsFdgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzAw/MTEtMTQ0NjQwNTY2/My05MDcxLmpwZWc.jpeg" alt="Cover for Vices" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Paradime</td>
+      <td>Vices</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/5VMOwl-2NMAwd6ZDMRhjmrV7hxoMUvEvLYR8H6q3Xwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/NTEtMTMzNzk4MDI4/Ni05NzA4LmpwZWc.jpeg" alt="Cover for Walk Thru Walls" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Qwazaar</td>
+      <td>Walk Thru Walls</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>2001-02-06</td>
+      <td>Typical Cats</td>
+      <td>Typical Cats</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 12</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>One Be Lo</td>
+      <td>Project: F.E.T.U.S.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/4mpe6_Q8ijJ8jvgNiWsmBlTRj9CoPTza6FgI7dy5xFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzY1/ODg4LTE1OTAzNTc3/MDUtNzI0MC5qcGVn.jpeg" alt="Cover for Big Thyme" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Rich the Factor</td>
+      <td>Big Thyme</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/lDXG6wLS4l7fgx8ADfCQIZOu_ztd40bFvEWkD9DtCbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDA4/Ni0xNDU5Mjc4MTg3/LTU1NzkuanBlZw.jpeg" alt="Cover for Sweats &amp; Kicks" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Athletic Mic League</td>
+      <td>Sweats &amp; Kicks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/313cdfd9f73e4655c671a34f3454eba9.png" alt="Cover for The Moan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-12-09</td>
+      <td>The Black Keys</td>
+      <td>The Moan</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/0UdU4mfI8ID6_uoB5bQfnrw-lX6nkXiAnoenex1wbJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTM1/ODEtMTM4Mjg3ODM2/OS0xMDk5LmpwZWc.jpeg" alt="Cover for Theneighborhoodshittalka" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Dice</td>
+      <td>Theneighborhoodshittalka</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Various Artists</td>
+      <td>The Motor City Rhythm &amp; Blues Pioneers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2003-09-22</td>
+      <td>Atmosphere</td>
+      <td>Seven&#39;s Travels</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 85</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>2003-10-25</td>
+      <td>Diverse</td>
+      <td>One A.M.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 54</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>Bedlam</td>
+      <td>Bedlamitez Rize</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/iSGUfwTpdjQCUyFgQaKkBGKOiWZxNbf_5X3B3CyL9ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NDktMTE4NTc1Mzg1/My5qcGVn.jpeg" alt="Cover for Super Structure Baby" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Keston and Westdal</td>
+      <td>Super Structure Baby</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 38</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 49</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 55</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 69</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/WURZkPBlmt0GwmGchRzkg0KJuZatnl22KPbxC-n8b6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTEw/MjUtMTM1NTU5NjU5/Ni01NjUzLmpwZWc.jpeg" alt="Cover for 11 Steps Down" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-08-03</td>
+      <td>Paradime</td>
+      <td>11 Steps Down</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+      </td>
+      <td>2004-08-24</td>
+      <td>MC Breed</td>
+      <td>The New Prescription</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/IFt2hEvsCsZQaBsnk73w1i1ggG3OG10Qxkmdl95IVCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mjk2/OC0xNTg3MTQ4MTc2/LTkwNDkuanBlZw.jpeg" alt="Cover for Civil Service" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-10-26</td>
+      <td>Typical Cats</td>
+      <td>Civil Service</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 13</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/7HV73XVKrkHe2UIs_jHUs_5ikHTGVVM-HexFnZWBr34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYw/MzAtMTUxODgwMzQ3/OS0xMzI2LmpwZWc.jpeg" alt="Cover for The Drugz LP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-11</td>
+      <td>Menacide</td>
+      <td>The Drugz LP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 2</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/nTCyJaCsn-c-bl09O4u8GPMx5adZIEk5TL1d0NJfmiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzk0/OTgtMTIxNDUyMjgw/My5qcGVn.jpeg" alt="Cover for The 12 Step Program" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Skrapz</td>
+      <td>The 12 Step Program</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 3</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>One Be Lo</td>
+      <td>S.T.I.L.L.B.O.R.N.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/TLxolLauaKH4ka9pReB3Kf7i6TE7LHvBnDxlGpinmzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTQ2/NS0xMTA5NTY4ODU2/LmpwZw.jpeg" alt="Cover for Pony Play" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>YUKI</td>
+      <td>Pony Play</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/ayM6nCsoX3SkMiRwxvk0PXzOKrR0pkpx4H16Jt-lR98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mzk0/NzItMTY1Mzc3OTk3/Ny01NjQ0LmpwZWc.jpeg" alt="Cover for Against All Odds" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-10-04</td>
+      <td>Marz</td>
+      <td>Against All Odds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td>2005-10-04</td>
+      <td>Atmosphere</td>
+      <td>You Can&#39;t Imagine How Much Fun We&#39;re Having</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/3I_oJHpNjrtMhjudL_OUOHU4AkhROR-_9QcL-MN3zGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODc1/MjktMTMwNTc0Nzgy/MS5qcGVn.jpeg" alt="Cover for Tom Brosseau" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-04-11</td>
+      <td>Tom Brosseau</td>
+      <td>Tom Brosseau</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/aXz3xgL3xF8f_b9T8DIb63zpN5hw1pm-CrpDgVXVixI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjU4/NC0xMTUwMDY1NTQ5/LmpwZWc.jpeg" alt="Cover for Escape" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-06-16</td>
+      <td>Elephant Beach</td>
+      <td>Escape</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/lvdH9j3WmliXrwetizdRo7cj5eV9BovskDHJX80LVz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzEy/NjgtMTQ0ODQzNjI1/Ny03NzE1LmpwZWc.jpeg" alt="Cover for These Moments Are Momentum" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-07-11</td>
+      <td>The Lovekill</td>
+      <td>These Moments Are Momentum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>2006-08-15</td>
+      <td>The Black Keys</td>
+      <td>Your Touch - The EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/_oKIpMYJIvwhcg-Sx5mCogjBjz1XtoN2O0abD2a-JBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzY3/MjctMTU3MjE2MDY3/Ni05NTg0LmpwZWc.jpeg" alt="Cover for Once Upon A Time In The Projects" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Project Born</td>
+      <td>Once Upon A Time In The Projects</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 45</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/DP7L_byltLNrN25YiEtKzGjO8ackjViKk4Upsys7rS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQx/MzEtMTMxNjcyMzEy/Mi5qcGVn.jpeg" alt="Cover for 20th Street Rich" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-02-19</td>
+      <td>Qwel &amp; Jackson Jones</td>
+      <td>20th Street Rich</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/mFtz6EWrv1Z-cw8dJu9pVDz1hamR8mbQGKpExo__wQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NTctMTE4NTc1NTUw/Ny5qcGVn.jpeg" alt="Cover for Truth is Stranger" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-03-13</td>
+      <td>Keston and Westdal</td>
+      <td>Truth is Stranger</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 3</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 35</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 74</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 76</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 76</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 87</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 88</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/fISOc0KsrXtBgdIsB2N0ixWRCX29UWnM2R5u_EDR3tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTEy/NjEtMTM2MDMyNTg3/NC0yNjg5LmpwZWc.jpeg" alt="Cover for El Foto Grande" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-07-10</td>
+      <td>Robust</td>
+      <td>El Foto Grande</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/JeCIcVEZ552zqaPIRYcd7og8Fpm0iH9tdPtn57BETMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTAy/OTEtMTI3MjMyNjIw/Mi5qcGVn.jpeg" alt="Cover for Facade Promo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-08-01</td>
+      <td>Amdeide</td>
+      <td>Facade Promo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 41</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2007-08</td>
+      <td>The Black Keys</td>
+      <td>The Live EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>2007-10-10</td>
+      <td>Mind Soup</td>
+      <td>Love Songs For Gifted Children</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 69</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 82</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 85</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/SahHa6DLCuTbeRLD6P5ISfzUu6l2ZmKXgeLalUVOoEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDA3/NTUtMTI4NDQ3NDAw/MS5qcGVn.jpeg" alt="Cover for The R.E.B.I.R.T.H." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-12-11</td>
+      <td>One Be Lo</td>
+      <td>The R.E.B.I.R.T.H.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 1</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/3e_NGf2lW2MF9X7Q9do0w9mQVe4DEvdNZt4qFvzs7JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQ2/NzU0LTE1MDUyNjYz/MTktNjcxOS5qcGVn.jpeg" alt="Cover for Fresh Out Da Kitchen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Bake Up Boyz</td>
+      <td>Fresh Out Da Kitchen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 12</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/nDaki_1usaoHcmcp9G9yw033islx9UIC1PEmlmwP7Jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDI4/MTYtMTQwMTQxNDkz/OS0yNDA0LmpwZWc.jpeg" alt="Cover for Tyrants and Spies" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Eisenhower Field Day</td>
+      <td>Tyrants and Spies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/nH5YtRTRoszhMk3w5SyGyaecT-rbM8HZj2l-qAH97mU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODIy/NDUtMTQ1Mjg4NTQw/My0zNjI1LmpwZWc.jpeg" alt="Cover for One Day to Save All Life" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Keston and Westdal</td>
+      <td>One Day to Save All Life</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 7</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 50</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 60</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 60</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 74</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 81</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2008-03-24</td>
+      <td>The Black Keys</td>
+      <td>Strange Times</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/Fv_59Zbt3qV0Sk46yerH-ivvZzhhjGHdsxWbSXP6MF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTgy/NjktMTIzNzY4MTg0/OC5qcGVn.jpeg" alt="Cover for The Villain" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-09-30</td>
+      <td>Trick Trick</td>
+      <td>The Villain</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 30</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 61</li>
+            <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/_csbLduzeviCbkImdSj9M8hBbVXEUYzabsBatamZF88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTQ5/MTYtMTI5MjI1OTQ4/NC5qcGVn.jpeg" alt="Cover for The Space Between" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-11-11</td>
+      <td>The Layaways</td>
+      <td>The Space Between</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Shane Capone</td>
+      <td>Certified WhiteBoy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 7</li>
+            <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 37</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/QzcykB_xlOTsGS1LbKfPs8dZCL_YQ8-I4--K7fN4Wik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjc4/NjYtMTUyNjE4MDM3/Mi05MjA3LmpwZWc.jpeg" alt="Cover for Hatred Vol 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-01-29</td>
+      <td>Kgp</td>
+      <td>Hatred Vol 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 17</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/A3m_1TsHvCiWszyroaM37ctyFGe1XmlWFXHVUA9y-Wo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzkz/NzItMTI0MDI1NzUw/NC5qcGVn.jpeg" alt="Cover for Scientific Illuminism (Is For Sissies)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-04-17</td>
+      <td>HipGnosis</td>
+      <td>Scientific Illuminism (Is For Sissies)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/sojUoUYHbMHZgAokQmBmJCrNBttMDtGPfbyhcmmXFNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjA3/MDAtMTI4NTMzMDky/Mi5qcGVn.jpeg" alt="Cover for Besides" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-12-18</td>
+      <td>Mind Soup</td>
+      <td>Besides</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 28</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 30</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 51</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/yWS00Dbm2-YQ3j8OXSJOUtJm1rrIOMPEoJCdbIL3bKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg2/MTM4LTE1MDA0MTMx/MjMtMTM1OS5qcGVn.jpeg" alt="Cover for Devil Catch Up With Me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Bad Heart Bull</td>
+      <td>Devil Catch Up With Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/DsfC7CrPniy5JZ9yn4IXnsGOVaZtUHUxu-XW2rVkDvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTMx/NjktMTI2MjUwNTMz/Mi5qcGVn.jpeg" alt="Cover for Same Old Thing" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>The Black Keys</td>
+      <td>Same Old Thing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>2010-10-19</td>
+      <td>The Black Keys</td>
+      <td>iTunes Session</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td>2010-11-10</td>
+      <td>KatazTrophee</td>
+      <td>Opening The Box: The B-Sides</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td>2011-01-04</td>
+      <td>The Black Keys</td>
+      <td>Ohio</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/JBsCGtQ6AmHxZngGNGNtz5iMMWTvh5guYAhLeXoIwOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDU5/ODU1LTE1NDczNzky/NTctOTc2NS5qcGVn.jpeg" alt="Cover for Heated Speech w&#x2F; bonus DVD" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Shane Capone</td>
+      <td>Heated Speech w&#x2F; bonus DVD</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/Sk7Lr1rU6OLNHVr1Z5g-kZYz7-oOxn83pgjh4RtPvXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDM3/MDYtMTI3NTU4NDMy/OC5qcGVn.jpeg" alt="Cover for Brothers (bonus disc: Akron Sessions)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-08</td>
+      <td>The Black Keys</td>
+      <td>Brothers (bonus disc: Akron Sessions)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/3Sm-2IocvJdg4UwTrHxLD0Lyc0m78cK2-qydHaT_frM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTY1/NTE1LTE2NTUxNTY2/NTgtMzI0MC5qcGVn.jpeg" alt="Cover for Tales Of Kamanakera" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>American Wolf</td>
+      <td>Tales Of Kamanakera</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/UfW75siAgQDWDbp_2j-m4msJCdjAcroWahuhMY-AY78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTYz/NDg0LTE2MTE5MzU0/NzEtMTIyMC5qcGVn.jpeg" alt="Cover for DEMO" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-09-23</td>
+      <td>Hey, Joni</td>
+      <td>DEMO</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/lLsxk8Rl7jVgykxFRTqaO0bleuCEjO77cbgLWercTHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTgy/MDMtMTQzMjcyODA1/OC04MDE3LmpwZWc.jpeg" alt="Cover for Yuki EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-06-29</td>
+      <td>YUKI</td>
+      <td>Yuki EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/vO99u30Foo93a19iA4xHN8cAXHse9zqcD6RWYyuBJJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDIy/MTQtMTQ0MzYzMzM4/MS05MjQ4LmpwZWc.jpeg" alt="Cover for Beat Her Heart Out" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-09-18</td>
+      <td>Gaps</td>
+      <td>Beat Her Heart Out</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/-YuZT7fwAybJ35mOgsXKNOBlJ3t2vLDPE5HoQYRmH1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjE1/NzI4LTE2MDU0MTQz/MDktNzg2MC5qcGVn.jpeg" alt="Cover for Ghost Stories" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Good Luck at the Hog Slaughter</td>
+      <td>Ghost Stories</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/osxz7i8xgOiIXrgBpsDC98nn-ZwFOEfQFH_BL6TGxoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTUw/MTYzLTE1Mjk4NTQx/MDMtMTc4NC5qcGVn.jpeg" alt="Cover for I&#39;m Really Not That Upset About It" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-06-29</td>
+      <td>Stars Hollow</td>
+      <td>I&#39;m Really Not That Upset About It</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg" alt="Cover for The Land (Music from the Motion Picture)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-03-03</td>
+      <td>Various Artists</td>
+      <td>The Land (Music from the Motion Picture)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 25</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 61</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/AJngPhVjsgisB3yFGJGS1CXrloxTUsn-Q1SL7TuVszE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/My0xMjI3Mjc3NjA0/LmpwZWc.jpeg" alt="Cover for Синдром Кассандры" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Origami</td>
+      <td>Синдром Кассандры</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/PfLTqUASNbMgHqlm5pSV1Ze8sdSwnZ-lo0rm3LFPzJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUw/MzE5LTE1NTQ0NTEw/NjAtMTYwNy5qcGVn.jpeg" alt="Cover for Dead Reckoning" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-12-07</td>
+      <td>The Pier</td>
+      <td>Dead Reckoning</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71d08b8a06d7793d0e35febc469758dc.png" alt="Cover for Тени" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-06-13</td>
+      <td>Bird Bone</td>
+      <td>Тени</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/1Uvu_ztFvtiy0hhwPfZq6ozn65fZzytgXEEMomLjyS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjEy/MDc2LTE2NzcyNTc3/ODEtMjgzMy5qcGVn.jpeg" alt="Cover for BBP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-24</td>
+      <td>Bovinophobic Bile Puddle</td>
+      <td>BBP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/9lxevwhcY6rshI7tAUtCa8HJK3-JJs2oT9VztvbNkhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTE2/MS0xMzk4NzQwODYw/LTY0NzUuanBlZw.jpeg" alt="Cover for LOYALTY &amp; RESPECT MIXTAPE V.1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>LOYALTY &amp; RESPECT MIXTAPE V.1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td></td>
+      <td>1st Dagree</td>
+      <td>Ride Wit Us Or Get Ran Ova Vol 2.0 MixTape</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Teflon Trigga</td>
+      <td>Against All Odds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 15</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Beaver Shoot</td>
+      <td>Where is the P***y and Beer?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td></td>
+      <td>M.O.B.  ...featuring Shane Capone</td>
+      <td>Terror...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td></td>
+      <td>M.O.B.  ...featuring Shane Capone</td>
+      <td>Welcome to Detroit Muthafuckaz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Adam Zivojnovich</td>
+      <td>LIVE! FROM MY PARENTS&#39; BASEMENT</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-show" | relative_url }}">live show</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/live-show" | relative_url }}">live show</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Block Burna Boyz</td>
+      <td>The Brains Tha Muscle &amp; Da Mouthpiece</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mr. Frizo</td>
+      <td>House Keys (Single)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td></td>
+      <td>МЫСБИВАЕМСПУТНИКИ!</td>
+      <td>Город в котором нет меня</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Lunatic Da New Face N Rap</td>
+      <td>Hood Infested</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td></td>
+      <td>МЫСБИВАЕМСПУТНИКИ!</td>
+      <td>деймос и фобос</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Descending New Angels</td>
+      <td>Descending New Angels 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Lyriscologist</td>
+      <td>R.O.L.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td></td>
+      <td>RawBeatzz</td>
+      <td>Anotha Day...Anotha Dolla... Anotha Beat...mixcd Vol.1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Lyriscologist</td>
+      <td>New Bombs Explodin&#39; Tracks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Pour Choices</td>
+      <td>Not Enough</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Nik Salah</td>
+      <td>Midwest&#39;s Best</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

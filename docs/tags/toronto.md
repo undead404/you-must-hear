@@ -9,6 +9,10 @@ title: toronto
 
 Last updated: <time datetime="2025-11-02T23:57:51.014Z">Mon Nov 03 2025 01:57:51 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+The &quot;toronto&quot; tag captures the diverse musical output emerging from Canada&#39;s largest city, characterized by an experimental, indie-leaning sensibility that blends dream pop, ambient electronica, and introspective hip-hop. This sound reflects Toronto&#39;s multicultural identity and artistic community, favoring atmospheric production, emotional vulnerability, and genre-blurring innovation. The tag represents a cultural movement as much as a sonic aesthetic, united by creative independence rather than strict stylistic boundaries.
+
 ### 100 chronological releases
 
 <table>
@@ -526,7 +530,7 @@ Last updated: <time datetime="2025-11-02T23:57:51.014Z">Mon Nov 03 2025 01:57:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 11</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 14</li>
         </ul>
       </td>
     </tr>
