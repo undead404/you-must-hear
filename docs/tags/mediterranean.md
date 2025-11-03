@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T02:20:50.960Z
+date: 2025-11-02T17:52:13.968Z
 permalink: tags/mediterranean
 title: mediterranean
 ---
 
 ## mediterranean
 
-Last updated: <time datetime="2025-11-01T02:20:50.960Z">Sat Nov 01 2025 04:20:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T17:52:13.968Z">Sun Nov 02 2025 19:52:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,7 +66,7 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td>1976</td>
@@ -141,7 +141,7 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>1981</td>
@@ -275,14 +275,13 @@ Mediterranean music refers to the music styles that originate from the countries
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/F7SrB2G5sE92cmCUh2O7FMgupDcud5eSxuZseOScUVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjAy/MjM2LTE1Mzg0MDA5/MzMtMzgyMy5qcGVn.jpeg" alt="Cover for Chansons Corses (A tribbiera)" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/6m75UEGWtuwWtvmzi-Bm6IoSdro2VLSX5iHS_neywmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODk5/MTgtMTY0ODI3NzQ0/OC05MjUwLmpwZWc.jpeg" alt="Cover for Chansons Corses (Corsica)" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Petru Guelfucci</td>
-      <td>Chansons Corses (A tribbiera)</td>
+      <td>Chansons Corses (Corsica)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
@@ -297,13 +296,14 @@ Mediterranean music refers to the music styles that originate from the countries
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/6m75UEGWtuwWtvmzi-Bm6IoSdro2VLSX5iHS_neywmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODk5/MTgtMTY0ODI3NzQ0/OC05MjUwLmpwZWc.jpeg" alt="Cover for Chansons Corses (Corsica)" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/F7SrB2G5sE92cmCUh2O7FMgupDcud5eSxuZseOScUVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjAy/MjM2LTE1Mzg0MDA5/MzMtMzgyMy5qcGVn.jpeg" alt="Cover for Chansons Corses (A tribbiera)" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Petru Guelfucci</td>
-      <td>Chansons Corses (Corsica)</td>
+      <td>Chansons Corses (A tribbiera)</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
@@ -680,7 +680,7 @@ Mediterranean music refers to the music styles that originate from the countries
       <td>
         <ul>
             <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 2</li>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 12</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1421,6 +1421,24 @@ Mediterranean music refers to the music styles that originate from the countries
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Folk Songs Of The Greek Islands Vol. 4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/greek" | relative_url }}">greek</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>36</td>
       <td>
           <img src="https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg" alt="Cover for Music Of Spain" style="max-width:120px; height:auto;" />
@@ -1544,25 +1562,6 @@ Mediterranean music refers to the music styles that originate from the countries
         <ul>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 14</li>
             <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 19</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>RedJapanese</td>
-      <td>RedJapanese|יפניאדום| يابانية أحمر|日本赤</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/protest" | relative_url }}">protest</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>

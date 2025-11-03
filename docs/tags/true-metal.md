@@ -9,6 +9,10 @@ title: true metal
 
 Last updated: <time datetime="2025-11-01T12:03:51.879Z">Sat Nov 01 2025 14:03:51 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+&quot;True metal&quot; is an ironic tag applied to music that defies or parodies conventional metal aesthetics, often encompassing pop, hip-hop, and non-metal genres that fans jokingly claim embody metal&#39;s rebellious spirit. The tag celebrates outsider status and absurdist humor within metal communities, where authenticity debates are turned on their head. It reflects metal culture&#39;s self-aware playfulness rather than any actual sonic characteristics.
+
 ### 100 chronological releases
 
 <table>
@@ -168,7 +172,7 @@ Last updated: <time datetime="2025-11-01T12:03:51.879Z">Sat Nov 01 2025 14:03:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 28</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 30</li>
             <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 68</li>
         </ul>
       </td>
@@ -417,7 +421,7 @@ Last updated: <time datetime="2025-11-01T12:03:51.879Z">Sat Nov 01 2025 14:03:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 23</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 26</li>
             <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 81</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 89</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 90</li>
@@ -788,7 +792,7 @@ Last updated: <time datetime="2025-11-01T12:03:51.879Z">Sat Nov 01 2025 14:03:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 22</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 24</li>
             <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 52</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 84</li>
         </ul>
@@ -1868,10 +1872,6 @@ Last updated: <time datetime="2025-11-01T12:03:51.879Z">Sat Nov 01 2025 14:03:51
       <td>Fields Of Blood</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
       <td>
@@ -2361,7 +2361,6 @@ Last updated: <time datetime="2025-11-01T12:03:51.879Z">Sat Nov 01 2025 14:03:51
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
       <td>
@@ -2408,10 +2407,6 @@ Last updated: <time datetime="2025-11-01T12:03:51.879Z">Sat Nov 01 2025 14:03:51
       <td>Banners High</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
       <td>
@@ -2471,7 +2466,7 @@ Last updated: <time datetime="2025-11-01T12:03:51.879Z">Sat Nov 01 2025 14:03:51
       <td>
         <ul>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 6</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 9</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 10</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 15</li>
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 15</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 31</li>
@@ -2619,11 +2614,11 @@ Last updated: <time datetime="2025-11-01T12:03:51.879Z">Sat Nov 01 2025 14:03:51
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 30</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 42</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 43</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 58</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 64</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 74</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 84</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 85</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 95</li>
             <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 99</li>
             <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 100</li>
@@ -2658,8 +2653,6 @@ Last updated: <time datetime="2025-11-01T12:03:51.879Z">Sat Nov 01 2025 14:03:51
       <td>Healed By Metal</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
       <td>
@@ -2677,10 +2670,6 @@ Last updated: <time datetime="2025-11-01T12:03:51.879Z">Sat Nov 01 2025 14:03:51
       <td>Burning Witches</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
       <td>
@@ -2736,10 +2725,6 @@ Last updated: <time datetime="2025-11-01T12:03:51.879Z">Sat Nov 01 2025 14:03:51
       <td>Dance with the Devil</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
       <td>
@@ -2993,10 +2978,6 @@ Last updated: <time datetime="2025-11-01T12:03:51.879Z">Sat Nov 01 2025 14:03:51
       <td>Symbol Of Eternity</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
         </ul>
       </td>
       <td>
@@ -3098,7 +3079,7 @@ Last updated: <time datetime="2025-11-01T12:03:51.879Z">Sat Nov 01 2025 14:03:51
       <td>
         <ul>
             <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 20</li>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 26</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 27</li>
             <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 33</li>
             <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 45</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 48</li>
@@ -3190,8 +3171,8 @@ Last updated: <time datetime="2025-11-01T12:03:51.879Z">Sat Nov 01 2025 14:03:51
 - [power metal]({{ "/tags/power-metal" | relative_url }})
 - [true norwegian black metal]({{ "/tags/true-norwegian-black-metal" | relative_url }})
 - [true black metal]({{ "/tags/true-black-metal" | relative_url }})
-- [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [nsbm]({{ "/tags/nsbm" | relative_url }})
 - [brutal deathcore]({{ "/tags/brutal-deathcore" | relative_url }})
 - [goregrind]({{ "/tags/goregrind" | relative_url }})
-- [speed metal]({{ "/tags/speed-metal" | relative_url }})
+- [hard rock]({{ "/tags/hard-rock" | relative_url }})
+- [thrash metal]({{ "/tags/thrash-metal" | relative_url }})

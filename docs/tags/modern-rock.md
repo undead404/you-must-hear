@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T02:51:51.387Z
+date: 2025-11-02T18:22:51.013Z
 permalink: tags/modern-rock
 title: modern rock
 ---
 
 ## modern rock
 
-Last updated: <time datetime="2025-11-01T02:51:51.387Z">Sat Nov 01 2025 04:51:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T18:22:51.013Z">Sun Nov 02 2025 20:22:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
   </thead>
   <tbody>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>1991-07</td>
@@ -71,7 +71,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/FVdZyzvM9RoqbMRQOcndxsH4tlFBmTXNrGIntPEuGh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQy/MTcwLTE3MDM4ODI2/MTAtNzQ2Mi5qcGVn.jpeg" alt="Cover for Lovefeast" style="max-width:120px; height:auto;" />
       </td>
@@ -100,7 +100,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>54</td>
       <td>
       </td>
       <td>1992-11-24</td>
@@ -120,7 +120,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/6psKmHiCI1eqOwWJetpEQgBw585LwnpoMxZ5XWjBfDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTky/MTQtMTQ4NjA4MDUy/MS03NTIxLmpwZWc.jpeg" alt="Cover for Death and Progress" style="max-width:120px; height:auto;" />
       </td>
@@ -144,7 +144,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/8A5Qcw3vqsgRx_aznqZIZA17Fxt9bEl8J-CFTZr44sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc5/MjUtMTI0MzQzOTQ3/Ny5qcGVn.jpeg" alt="Cover for Twenty-Seven" style="max-width:120px; height:auto;" />
       </td>
@@ -165,7 +165,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/HYohHmJUCb5_cRcMRLTMK9-kx7QcJdchsg8NQ6x9LJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzU4/MjgtMTQ1ODQ4MzQ0/Ny0zMTEzLmpwZWc.jpeg" alt="Cover for Manual Barrueco plays Lennon &amp; McCartney" style="max-width:120px; height:auto;" />
       </td>
@@ -187,7 +187,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d05d5822cf334a7811981434c436d27d.png" alt="Cover for Signs of You" style="max-width:120px; height:auto;" />
       </td>
@@ -208,7 +208,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>28</td>
       <td>
       </td>
       <td>1995-07-17</td>
@@ -230,7 +230,27 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bc524fcd878444190197100f3b54022.png" alt="Cover for 1996 Demo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Stone Sour</td>
+      <td>1996 Demo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/rEd0pye6NNGi-y4_scxezhGbgssdnE6j1qlCfX_TOAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODMy/MS0xMTcxMjE3Mzkw/LmpwZWc.jpeg" alt="Cover for Silver Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -251,7 +271,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>30</td>
       <td>
       </td>
       <td>1998-02-18</td>
@@ -271,7 +291,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6feda66defdc67defc1567668f1652d.png" alt="Cover for Supernatural" style="max-width:120px; height:auto;" />
       </td>
@@ -291,7 +311,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f78a94098425dea9103888850de498e4.png" alt="Cover for Twenty Twenty Sound" style="max-width:120px; height:auto;" />
       </td>
@@ -310,12 +330,12 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 13</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/y-QZMXf5UK9CFpS8seqwaIs0HS6RNx9YVqNx8r09BvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk5/NjMtMTM0ODA4NjM2/Ni01NTEwLmpwZWc.jpeg" alt="Cover for Radium Round" style="max-width:120px; height:auto;" />
       </td>
@@ -337,7 +357,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
       </td>
       <td>1999-10-19</td>
@@ -358,7 +378,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/Ie4Snu33nYloWe9uG-_jZyK7pi92IFiN1-w35gR16c0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTY3/MzMtMTI3NDExNzE4/OS5qcGVn.jpeg" alt="Cover for Know Your Enemy" style="max-width:120px; height:auto;" />
       </td>
@@ -376,12 +396,12 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 56</li>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/K6HW5WgjxSQ7wynCH5LVgSkQU4ivI6lOcMYBAHlKVvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjA0/NjEtMTQ3NzU0MjE2/Mi00NzU3LmpwZWc.jpeg" alt="Cover for Let the Angels Whisper Your Name" style="max-width:120px; height:auto;" />
       </td>
@@ -407,7 +427,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>21</td>
       <td>
       </td>
       <td>2001-11-20</td>
@@ -424,7 +444,31 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/Bfpbc-KqzXg71VydtfZgwKZgDWLqu2Y4-1aOuA3z5mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjI4/MzUtMTM3NzgwNTQ0/MS0yMDM3LmpwZWc.jpeg" alt="Cover for The Gipsy Hill" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-09-23</td>
+      <td>Big D And The Kids Table</td>
+      <td>The Gipsy Hill</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/f0TFk6F2qO3z1ffkV_TOKymDZbaUWBPbVRFwDFt89Z4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjQy/ODAtMTI5ODE3NjE0/Ni5qcGVn.jpeg" alt="Cover for The Global Cannibal" style="max-width:120px; height:auto;" />
       </td>
@@ -442,12 +486,12 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 64</li>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/061d953f0cf04c2a8d3709130305915b.png" alt="Cover for CRUZ" style="max-width:120px; height:auto;" />
       </td>
@@ -468,7 +512,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7361512f9cf2459f8761a5e7d8cefa28.png" alt="Cover for The Fundamental Component" style="max-width:120px; height:auto;" />
       </td>
@@ -506,7 +550,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/020e23c673834679c6df37da38cacda1.png" alt="Cover for The Way I Am" style="max-width:120px; height:auto;" />
       </td>
@@ -525,7 +569,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/E8aFA5nlzohg8_2EfUPGA46NwQ9sG8YekzjggcaAtd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzE3/Ny0xMTU1NzI0MTQy/LmpwZWc.jpeg" alt="Cover for Everyone Says I&#39;m Paranoid" style="max-width:120px; height:auto;" />
       </td>
@@ -548,7 +592,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2005-06-22</td>
@@ -566,7 +610,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/Nnk3RReQg6HWgakMVWXfxiPbNG4d4IP3rNjuGAMJ8zc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODE3/Ni0xMzMyNTE3NDQ2/LmpwZWc.jpeg" alt="Cover for Patience Is Proving" style="max-width:120px; height:auto;" />
       </td>
@@ -621,7 +665,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
       </td>
       <td>2006</td>
@@ -638,12 +682,12 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 15</li>
+            <li> <a href="{{ "/tags/deathrock" | relative_url }}">deathrock</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/2MHTyv_U2ExJwKsJnP1sHSpmrtj9CRb3ROIfjJazdJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTIz/OTctMTY1NTk2OTE4/Mi02Mzk1LmpwZWc.jpeg" alt="Cover for 10000 Times" style="max-width:120px; height:auto;" />
       </td>
@@ -665,7 +709,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/qE7QK7WFvX5u6oEXQ5pwOjvNITLTA_2DRNDOGfhq4FQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTc0/MDY1LTE2NjAyNjAy/MzYtMTYyOC5qcGVn.jpeg" alt="Cover for Chasen" style="max-width:120px; height:auto;" />
       </td>
@@ -684,7 +728,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>20</td>
       <td>
       </td>
       <td>2006</td>
@@ -704,7 +748,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/jXrtdYGtCy0iMYPejPYrhq2MR3XreqWhA84dCPum0RA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODA2/NTU3LTE1OTgyMDcz/NzAtNjY2My5qcGVn.jpeg" alt="Cover for Story&#39;s End" style="max-width:120px; height:auto;" />
       </td>
@@ -724,7 +768,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>46</td>
       <td>
       </td>
       <td>2006-01-31</td>
@@ -782,7 +826,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/3hEHQVa7ko58uSfWZ1-vpWhUtxONQDeXEJlvC2UYc4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzODcw/MjEtMTQxNzk3ODI5/My0xOTI1LmpwZWc.jpeg" alt="Cover for The Heartache EP" style="max-width:120px; height:auto;" />
       </td>
@@ -826,7 +870,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>48</td>
       <td>
       </td>
       <td>2007-11-28</td>
@@ -884,7 +928,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/hrt2PY32lXENiz4jOUtmJnFeJbmjljcaHJyhD7Z40iY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE5/OTg0LTE1Mjg3MDIw/NzQtNjQzNC5qcGVn.jpeg" alt="Cover for Beautiful Hum" style="max-width:120px; height:auto;" />
       </td>
@@ -903,7 +947,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/yM2zL_fy9-ymFniAo1lm1_gajh6exDIl5bxSDGnTqJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjgx/NDEtMTI5ODk4NDg3/Ny5qcGVn.jpeg" alt="Cover for Temporary people" style="max-width:120px; height:auto;" />
       </td>
@@ -928,7 +972,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/66a9ce1deca741c5bdd504b6596b8eaa.png" alt="Cover for The Fire Within" style="max-width:120px; height:auto;" />
       </td>
@@ -949,7 +993,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
       </td>
       <td>2009-04-15</td>
@@ -987,7 +1031,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf61159f52fd4b7d885a606dbbb99ec6.png" alt="Cover for Eleven Shades Of Black" style="max-width:120px; height:auto;" />
       </td>
@@ -996,10 +1040,6 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       <td>Eleven Shades Of Black</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a></li>
         </ul>
       </td>
       <td>
@@ -1008,7 +1048,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/QYMJGsDPweWu-AN3CirLtN1keb-TqEJD1YMhLEpJmvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/NTc0LTE2Mjc3MDk5/NDUtNTE4NC5qcGVn.jpeg" alt="Cover for Commin&#39; Home" style="max-width:120px; height:auto;" />
       </td>
@@ -1049,7 +1089,25 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/1US_vfG8PLxBS4hGAU32Oirve7jw8kiNamI94fSYhgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjAw/MTctMTQ0NTEzMTYx/Ny01NjYwLmpwZWc.jpeg" alt="Cover for Small Town Dead" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-01-05</td>
+      <td>Bleeker Ridge</td>
+      <td>Small Town Dead</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54c1c0e9b4c60a8422a7bece34f3b45b.png" alt="Cover for Smoke &amp; Mirrors" style="max-width:120px; height:auto;" />
       </td>
@@ -1068,7 +1126,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c89633f55e616c75e5440dc666babb34.png" alt="Cover for My Darkest Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1086,7 +1144,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c44b663a5ec848bda1f22f375e8928db.png" alt="Cover for Race You To The Bottom" style="max-width:120px; height:auto;" />
       </td>
@@ -1105,7 +1163,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>2011-05-10</td>
@@ -1123,7 +1181,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
       </td>
       <td>2011-06-07</td>
@@ -1141,7 +1199,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b68067d268dc4a5b810fb322ae2e3722.png" alt="Cover for Seconds To Save Her" style="max-width:120px; height:auto;" />
       </td>
@@ -1181,28 +1239,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b62e90a7bbc4e68a6729c8f22ecaccb.png" alt="Cover for Cervello" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-10-31</td>
-      <td>Cervello</td>
-      <td>Cervello</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e695dabfb6f4b54bdb95c16481e8aa8.png" alt="Cover for The Scarlet Letters" style="max-width:120px; height:auto;" />
       </td>
@@ -1241,7 +1278,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/6bkkMKvZ10tnmb23VV1cUfERwg06qrrPV6NkxYj7bKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Mzk0/MDAtMTM5ODY3MDE5/OC0yOTU4LmdpZg.jpeg" alt="Cover for Sons Of Midnight" style="max-width:120px; height:auto;" />
       </td>
@@ -1318,7 +1355,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e24d192a4a9e40e798f266a8a152d04f.png" alt="Cover for Death is certain, Life is not" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,7 +1372,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2013-04-09</td>
@@ -1372,7 +1409,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>27</td>
       <td>
       </td>
       <td>2013-10-13</td>
@@ -1389,7 +1426,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9f9ecf41f3142d5c2199db956d2717f.png" alt="Cover for Life Support, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1406,7 +1443,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/InE0c-zKlkDhWETp3aA1s3Uw_wONTnMUHoDJx6XQfPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDQ4/MTctMTQwNDg5MjEy/OS01NjkyLmpwZWc.jpeg" alt="Cover for Shot By Lammi" style="max-width:120px; height:auto;" />
       </td>
@@ -1426,27 +1463,6 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       <td>
         <ul>
             <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8cd422597c44b7d3f632eb0dc29ea45.png" alt="Cover for One Love Revolution" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-08-21</td>
-      <td>Pillar</td>
-      <td>One Love Revolution</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1471,7 +1487,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/267e883a3b64653f4cc30d5adc35fa01.png" alt="Cover for Boom Boom Room (Side A)" style="max-width:120px; height:auto;" />
       </td>
@@ -1529,7 +1545,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d486efa21a61e1e14a78cbc676ba2f8.png" alt="Cover for Gran Paradiso" style="max-width:120px; height:auto;" />
       </td>
@@ -1548,7 +1564,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6e430ff0d6aee5fcb45c2ec9d83250d.png" alt="Cover for Hear Me Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1562,7 +1578,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 47</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1584,27 +1600,6 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       <td>
         <ul>
             <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f12f20998aaf0d63f7e8e02f9127ae84.png" alt="Cover for Edge Of The World" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2020</td>
-      <td>Silvera</td>
-      <td>Edge Of The World</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -1684,7 +1679,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/KzT56O-bJh16UER_g4jIqYVGUqWwM2DJvMtgUAASkVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDQy/OTcwLTE2MTY4OTgx/NTMtNDAzMi5qcGVn.jpeg" alt="Cover for Intercorrupted" style="max-width:120px; height:auto;" />
       </td>
@@ -1723,7 +1718,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b6ebc36faad6ccc643bacb37d02b9f0.png" alt="Cover for NULA" style="max-width:120px; height:auto;" />
       </td>
@@ -1766,7 +1761,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/LYufrdUnPiIG6vDfHSBN8SkrvtjZcPKoa5DsLyiBmi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTc4/ODA1LTE2ODAwNTE0/NjMtNDQxNi5qcGVn.jpeg" alt="Cover for Made in England" style="max-width:120px; height:auto;" />
       </td>
@@ -1787,7 +1782,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81228689ca95801dc7e97d8be52ac766.png" alt="Cover for Dinosaur" style="max-width:120px; height:auto;" />
       </td>
@@ -1845,7 +1840,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d812c59f8909c2bed0fe4aad31d048f9.png" alt="Cover for Dark Rainbow" style="max-width:120px; height:auto;" />
       </td>
@@ -1884,7 +1879,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f26e4343b16fc7a3e65bd14f1e8c4f4b.png" alt="Cover for Millennials (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1903,7 +1898,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/HuN8CFoPtTIqvv2k414lbd_z_sFoI0AVwtx9mCL2wVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/Mzg2LTE3MTQ3ODI0/MzAtMTk2Ni5qcGVn.jpeg" alt="Cover for Infinity Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1925,7 +1920,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1995,14 +1990,14 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 36</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 40</li>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 68</li>
             <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/312985593071402bbf67c2ae58983d61.png" alt="Cover for Mean What You Say" style="max-width:120px; height:auto;" />
       </td>
@@ -2021,7 +2016,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>31</td>
       <td>
       </td>
       <td></td>
@@ -2042,7 +2037,7 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98aaaa9f5114fd653e399ef6f4d23991.png" alt="Cover for Paradise State of Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -2092,4 +2087,4 @@ Modern rock emerged in the 1980s as an alternative to mainstream rock, blending 
 - [metal]({{ "/tags/metal" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})
 - [post-grunge]({{ "/tags/post-grunge" | relative_url }})
-- [progressive rock]({{ "/tags/progressive-rock" | relative_url }})
+- [pop rock]({{ "/tags/pop-rock" | relative_url }})
