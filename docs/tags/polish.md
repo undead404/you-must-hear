@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T17:22:50.975Z
+date: 2025-11-03T15:30:43.999Z
 permalink: tags/polish
 title: polish
 ---
 
 ## polish
 
-Last updated: <time datetime="2025-10-31T17:22:50.975Z">Fri Oct 31 2025 19:22:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T15:30:43.999Z">Mon Nov 03 2025 17:30:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
   </thead>
   <tbody>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
       </td>
       <td>1982</td>
@@ -46,7 +46,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>1984</td>
@@ -81,7 +81,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3560e48eb7fc8ab979a7906a50f65172.png" alt="Cover for Spokojnie" style="max-width:120px; height:auto;" />
       </td>
@@ -95,12 +95,12 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 54</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a94fdae4cbbafaf5e357b512c8766b2.png" alt="Cover for Ballady" style="max-width:120px; height:auto;" />
       </td>
@@ -139,7 +139,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bbce4c334ce45c8804151709996596e.png" alt="Cover for Muj wydafca" style="max-width:120px; height:auto;" />
       </td>
@@ -159,7 +159,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/rRgHSNiltveml64kBZUmn1abfQNbwyifgUNN38x37zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQx/MTE3LTE1ODk5OTg4/NzEtNDIxNy5qcGVn.jpeg" alt="Cover for Skalary Mieczyki Neonki" style="max-width:120px; height:auto;" />
       </td>
@@ -214,24 +214,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>40</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60b4fe17388be88498b8c8a41459f34b.png" alt="Cover for Nic nie boli, tak jak życie" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Budka Suflera</td>
-      <td>Nic nie boli, tak jak życie</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1997-02-10</td>
@@ -269,7 +252,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/23b5d4b4d4e44202a2d32d2f9c1e616c.png" alt="Cover for Chlopaki Nie Placza" style="max-width:120px; height:auto;" />
       </td>
@@ -285,12 +268,12 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 87</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3d99c8a6dfa9df733c4e87f04b67341.png" alt="Cover for Ostateczny krach systemu korporacji" style="max-width:120px; height:auto;" />
       </td>
@@ -327,12 +310,12 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 92</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ed4f5f963cd5868f1f8f96cb42471dc.png" alt="Cover for Miłość w czasach popkultury" style="max-width:120px; height:auto;" />
       </td>
@@ -350,7 +333,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2000-12-18</td>
@@ -367,7 +350,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fb451b8262f4e37ac17c39d9e639414.png" alt="Cover for Pomarańcza" style="max-width:120px; height:auto;" />
       </td>
@@ -382,6 +365,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -402,12 +386,12 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 82</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/5QW8nTfgZi4U3ndV9PhHk2sCDGai5jAcC3D0wfR8PFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjU4/MC0xNDYzNjg3NDQ4/LTEyNDIuanBlZw.jpeg" alt="Cover for Uwaga! Jedzie tramwaj" style="max-width:120px; height:auto;" />
       </td>
@@ -425,7 +409,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/obkRvEunmakkIAXewMGa7Fl-Z2scx3jp3eObcJKoGHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTQ1/MDUtMTE5NjU1MDYx/Ny5qcGVn.jpeg" alt="Cover for Komety" style="max-width:120px; height:auto;" />
       </td>
@@ -441,7 +425,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 45</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 47</li>
             <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 71</li>
         </ul>
       </td>
@@ -485,7 +469,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/R0WcR6kVkr8T2lt3JI3R5qTuV52mcEYpv5xdYcHkPZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Mzg2/Mi0xMTIxNDMwNzE1/LmpwZw.jpeg" alt="Cover for Cool Kids of Death" style="max-width:120px; height:auto;" />
       </td>
@@ -504,7 +488,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c28625d7fbb036ec0f1141488db724b8.png" alt="Cover for The Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -518,7 +502,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 93</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -578,13 +562,13 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 39</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 43</li>
             <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c306d66c6f8549829af3d51d9a0793a7.png" alt="Cover for Music Music" style="max-width:120px; height:auto;" />
       </td>
@@ -594,10 +578,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
         </ul>
       </td>
       <td>
@@ -606,7 +587,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1af1b637f6547289173bb07d88633bc.png" alt="Cover for Pierwsze wyjście z mroku" style="max-width:120px; height:auto;" />
       </td>
@@ -619,7 +600,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 29</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -640,12 +621,12 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 96</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2004-05-20</td>
@@ -714,12 +695,12 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       <td>
         <ul>
             <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 44</li>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 94</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a35af4a2536eaa6f0f5b5330e5283578.png" alt="Cover for Bułgarskie centrum" style="max-width:120px; height:auto;" />
       </td>
@@ -738,7 +719,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/6FP8v7q62SQCjLUnPPiDx4fy6NApK5vyEvDsCqSsxIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTc2/OS0xNTc4OTA1NDY1/LTE3MzguanBlZw.jpeg" alt="Cover for Jazzurekcja" style="max-width:120px; height:auto;" />
       </td>
@@ -820,7 +801,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/94c8788acf5b41419d577612f91bcb6b.png" alt="Cover for Podróże z i pod prąd" style="max-width:120px; height:auto;" />
       </td>
@@ -835,12 +816,12 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 63</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
       </td>
       <td>2005-10-14</td>
@@ -857,7 +838,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf3a8e019d46d2fa91d53e7fc0e115a5.png" alt="Cover for Piła Tango" style="max-width:120px; height:auto;" />
       </td>
@@ -875,7 +856,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a7e6d53b48b4c0c8925eebb76280094.png" alt="Cover for Poligono Industrial" style="max-width:120px; height:auto;" />
       </td>
@@ -894,7 +875,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/qtvBO9gAujpkpU5sI71v9gwOYZtGQk-AoPuYtNFqw_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTIy/NzYtMTY2MzMzNTE2/Ny05NjIzLmpwZWc.jpeg" alt="Cover for Korowod" style="max-width:120px; height:auto;" />
       </td>
@@ -926,6 +907,25 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       <td>Kilka historii na ten sam temat</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2006-11-16</td>
+      <td>Brodka</td>
+      <td>Moje piosenki</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
@@ -973,12 +973,12 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 24</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2007-03-23</td>
@@ -996,7 +996,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/RiF2_1uRqXwZvgJi1Nnjj9rYj1jeahuuro7ZNYdpgs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Mjg3/MC0xMTk1NTc3MjQx/LmpwZWc.jpeg" alt="Cover for Absurd I Nonsens!" style="max-width:120px; height:auto;" />
       </td>
@@ -1015,7 +1015,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/GdmILhRkZlTl1_ZPyW7uR0BU35Nayj7bsAgBYmhe9NE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTI4/MC0xMTgxNTU3MTA0/LmpwZWc.jpeg" alt="Cover for UniSexBlues" style="max-width:120px; height:auto;" />
       </td>
@@ -1033,7 +1033,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/e56vpXMAWMQQan-FNo448DJMtd9lG16RS-qvnhg7lXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDE0/OTAtMTM2NDIzMzEw/OS04NDU5LmpwZWc.jpeg" alt="Cover for Ostatnie Wspolne Zdjecie" style="max-width:120px; height:auto;" />
       </td>
@@ -1089,7 +1089,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/6SwZ-ideGKdFecgQwLMQTTdntkTvD09FmMmxfpMZJ-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzM2/OTMtMTQ3MDg1NTE2/OC04NjcxLmpwZWc.jpeg" alt="Cover for Plenty" style="max-width:120px; height:auto;" />
       </td>
@@ -1122,7 +1122,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 65</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1145,7 +1145,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2008-11-07</td>
@@ -1163,7 +1163,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/NPrW3GOyXPb9hXxXyQTTbiAj4En4w2NF-w62_je358E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTQx/MzYtMTIyNzk3ODA3/MC5qcGVn.jpeg" alt="Cover for Osiecka" style="max-width:120px; height:auto;" />
       </td>
@@ -1181,7 +1181,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/kFZvxfNGPFUrst3f5bpHyLGdHvuOAQAOhKU96C2CPfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjUy/ODEtMTMxODcxNzI2/MS5qcGVn.jpeg" alt="Cover for Afterparty" style="max-width:120px; height:auto;" />
       </td>
@@ -1197,12 +1197,12 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 90</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d68a59f3ccf4f48bd0f810dc479969a.png" alt="Cover for Cicho" style="max-width:120px; height:auto;" />
       </td>
@@ -1221,7 +1221,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bc19ad453354cff82e70f58b2602e4a.png" alt="Cover for Hellwood" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,7 +1277,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2010-03-08</td>
@@ -1314,7 +1314,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/jAhibOmAaT4UPZFiKHDvPWhcOhcxHl9CqaToKKOTY54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk4/MDItMTI5OTM1ODY4/NS5qcGVn.jpeg" alt="Cover for Granda" style="max-width:120px; height:auto;" />
       </td>
@@ -1386,7 +1386,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ea7f4d1f5ad4141ba54598b6cd4cb6a.png" alt="Cover for Do Rycerzy, do Szlachty, doo Mieszczan" style="max-width:120px; height:auto;" />
       </td>
@@ -1421,7 +1421,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/26fc8ac3df7c4724c7ed3dc046d28563.png" alt="Cover for Składam się z ciągłych powtórzeń" style="max-width:120px; height:auto;" />
       </td>
@@ -1440,7 +1440,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2014-04-29</td>
@@ -1476,7 +1476,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/82ac970706534040c06cd34bea8566c9.png" alt="Cover for Dzieciom" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,7 +1494,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/ZwTg-yZgVokZAt-tJq0wu96jZmgvj4ZOZWs45TWV9lY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTQz/MzItMTQzNzI1NzM1/OS02ODc1LmpwZWc.jpeg" alt="Cover for Umowa o dzieło" style="max-width:120px; height:auto;" />
       </td>
@@ -1550,7 +1550,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/ciSoXWx4kCqQmRJjIlxQQzjNwjfpJtX_sb60Hq1d0ys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODY1/MDQtMTM4NjkxNjg3/OS05MTA2LmpwZWc.jpeg" alt="Cover for Music.Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1571,7 +1571,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/MzHZD244ubmsROkIiBVxX7F8E5qvAYohUY-1gx5drvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODk2/MzctMTQ4ODAyNjgz/NC04NTE4LmpwZWc.jpeg" alt="Cover for Evil Twin" style="max-width:120px; height:auto;" />
       </td>
@@ -1591,7 +1591,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/TENeat-AVQ_PXqJNI-YOfg9297Xy6qkog1MaF9UXQyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjkw/NDU1LTE0OTQ3NTMx/NjctOTI3My5qcGVn.jpeg" alt="Cover for A Kysz!" style="max-width:120px; height:auto;" />
       </td>
@@ -1610,7 +1610,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/zpm-QMxImOtUnZucOaEKVEteRVZf67pHPjdcwlIF60U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njg0/NzEtMTQ4OTQwNDIy/OS0zNDEzLmpwZWc.jpeg" alt="Cover for Kawalerka" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,7 +1628,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/zgqCpGlhbGoR5L3FmZxWxLvF5wmq6LcWIazwcESr1wc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjgw/MjY3LTE1OTM3NzQ2/NDktNzkyMS5qcGVn.jpeg" alt="Cover for Atypowy" style="max-width:120px; height:auto;" />
       </td>
@@ -1727,7 +1727,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/-gXfIq9EbDm7nNG_JuJw4prrND5xn9EZOVfAfB9Fc4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQ1/MDUyLTE2MDA2ODE2/ODMtMzAyMi5qcGVn.jpeg" alt="Cover for 77747mixtape" style="max-width:120px; height:auto;" />
       </td>
@@ -1784,7 +1784,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/XMZ4KLpq6IM9Vpz8inTDaWTXZ8_Q5RVC3LRuZneTTU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg4/NTQ3LTE3MTEyOTQ0/MDktNjk0MS5qcGVn.jpeg" alt="Cover for Home" style="max-width:120px; height:auto;" />
       </td>
@@ -1829,9 +1829,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       <td>Ostateczny Krach Systemu Korp.</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
         </ul>
       </td>
@@ -1843,7 +1841,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/-Knu9HHIH9j863zvrNfaSJ3uF-71mK-juuAng0jFuqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTc0/ODI0LTE2MjI1Njg5/MTItMzk3OS5wbmc.jpeg" alt="Cover for sprzedałem dupe" style="max-width:120px; height:auto;" />
       </td>
@@ -1919,14 +1917,15 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 2</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 3</li>
             <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 24</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 37</li>
             <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 42</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 43</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 60</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 63</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 64</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 64</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 70</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 75</li>
@@ -1938,7 +1937,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/WNRVm0hEmPUj6ri86eDBACt-OvkdPQME3VknJpnY5MY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA5/NzA3LTE2NTMxMjY3/OTktMzk3MC5qcGVn.jpeg" alt="Cover for ROUGH N&#39; GENTLE" style="max-width:120px; height:auto;" />
       </td>
