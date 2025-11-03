@@ -9,110 +9,1865 @@ title: traditional doom metal
 
 Last updated: <time datetime="2025-10-28T23:53:54.196Z">Wed Oct 29 2025 01:53:54 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Traditional doom metal is a heavy, slow-tempo style rooted in 1970s hard rock that emphasizes thick, distorted guitar riffs and an atmosphere of despair or darkness. Born from Black Sabbath&#39;s blueprint, it features plodding rhythms, melancholic melodies, and lyrics exploring themes of death, the occult, and existential dread. The sound prioritizes crushing heaviness and emotional weight over speed, creating an oppressive yet cathartic listening experience.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 21 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7bcc080c9a7c7331a7f1fb44d7d71bc7.png) | 1972-09-25 | Black Sabbath | Vol 4 |
-| 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9b787963aaa4609f58e407910568a547.png) | 1982 | Witchfinder General | Death Penalty |
-| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b7fc68a97aef424eb3cdd6c5f20ecb2f.png) | 1984 | Pentagram | Relentless |
-| 90 |  | 1984 | Saint Vitus | Saint Vitus |
-| 96 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/21e53a2eba9840a1a8e368dd3c475ea6.png) | 1984-03-01 | Trouble | Psalm 9 |
-| 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/072a450ac2ec0d199451999ce90e2bac.png) | 1984-09 | Paul Chain Violet Theatre | Detaching From Satan |
-| 61 | ![Cover](https://i.discogs.com/xER7BYwpU7svnDH7nxfgqP6clpHAAMe5XMlYKFtEswc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODY2/OC0xNDA5NDkxODkz/LTI1NDIuanBlZw.jpeg) | 1985-08 | Saint Vitus | Hallow&#39;s Victim |
-| 8 |  | 1985-10 | Saint Vitus | The Walking Dead |
-| 75 |  | 1986 | Saint Vitus | Born Too Late |
-| 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/488ecf9c3b63053cb24f8f3f77281c87.png) | 1987-11-09 | Candlemass | Nightfall |
-| 58 |  | 1988 | Saint Vitus | Mournful Cries |
-| 7 |  | 1989 | Saint Vitus | V |
-| 32 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/746fef84c67066c4a4f3480c093a970b.png) | 1989 | Paul Chain | Life And Death |
-| 60 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ad2ae1426aa013f0aba9152c4ff121ff.png) | 1989-09-25 | Candlemass | Tales of Creation |
-| 35 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/019a9810b31bdb943f5322449c9a7eef.png) | 1991 | The Obsessed | Lunar Womb |
-| 27 |  | 1992 | Penance | The Road Less Travelled |
-| 55 | ![Cover](https://i.discogs.com/C14vUUUCnpYg49S51MMUQCdeqO3FOEMOVHcrqXQJA6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Njk2/OS0xMTYyMjkyOTkz/LmpwZWc.jpeg) | 1992 | Saint Vitus | C.O.D. |
-| 10 | ![Cover](https://i.discogs.com/4n-ra8_5J4ALt9ncmXZzEP6J8ynqJcej1szttw4zkpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg3/NTQtMTQ0NTA3MjA0/NS02ODUzLmpwZWc.jpeg) | 1994 | Valhall | Moonstoned |
-| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/72c40fa3a6c81768a04a0283e5c987b4.png) | 1994 | Pentagram | Be Forewarned |
-| 84 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/32a773e5645ce678fcf84c65ce255c9b.png) | 1995 | Paul Chain | Alkahest |
-| 49 |  | 1995-05-09 | Saint Vitus | Die Healing |
-| 41 |  | 1996 | Scald | Will of the Gods is Great Power |
-| 37 | ![Cover](https://i.discogs.com/ofK80eFeqbGr8QCWtQi4asN-q6O1OYWOSpGs9SpBD_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAy/NDcwLTE1MTM3Nzg4/MzktMTI0MC5qcGVn.jpeg) | 1997-03 | Warning | Blessed By The Sabbath |
-| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4fdea495f59940f7c0095557d948bc73.png) | 1998 | Candlemass | Epicus Doomicus Metallicus |
-| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a6cb9b433909403493b6fcfe84c2bfbc.png) | 1998-02 | Pagan Altar | Volume 1 |
-| 68 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/72b9d742b0d7dfb37d5a0a522d5f4abf.png) | 1998-02 | Pagan Altar | Judgement of the Dead |
-| 24 | ![Cover](https://i.discogs.com/24ay66wBRovUDZzCYXzmtoDAOhoMeqWhkeC8svMx7iM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzU3/MjktMTQ0NjE5MjM3/Ny00MzA1LmpwZWc.jpeg) | 1999 | The Obsessed | Incarnate |
-| 91 | ![Cover](https://i.discogs.com/RC91_0xa1hBfDAyWV6GRm6cDlljDZaZEQUCViZaYRgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTIw/MzMtMTQzOTY2NzIw/Ny0zNTQ4LmpwZWc.jpeg) | 1999 | Reverend Bizarre | Slice of Doom |
-| 1 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8d6cf573cfdbb250c3819a512b3a6b5e.png) | 1999-07-19 | Pentagram | Review Your Choices |
-| 33 | ![Cover](https://i.discogs.com/17gRQFpeA-LJ4WxxkAfQgiazKOG9gwhbqRWtxuxFde8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODI5/NDktMTY3NzcxMDk0/NC01OTc1LmpwZWc.jpeg) | 2001-01-22 | Mirror of Deception | Mirrorsoil |
-| 76 | ![Cover](https://i.discogs.com/R-kFyqWSTlOecj9j-Iya8N89EFXNCnKD5OAaHE2WplI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ5/ODEtMTM2NTA3NTE2/OS04ODI4LmpwZWc.jpeg) | 2002-03-28 | Reverend Bizarre | In the Rectory of the Bizarre Reverend |
-| 70 | ![Cover](https://i.discogs.com/2tl42YF-Av4kFHMGHkqsnMBlJdHeSw1DD5GKBBzQbzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTU3/NDgtMTQ1NDI3NTEz/NC05MTA3LmpwZWc.jpeg) | 2003 | Orodruin | Epicurean Mass |
-| 36 | ![Cover](https://i.discogs.com/Jv50gjhjvxYwPNQ7qF5Xc4MhfHZH0YMypoEAUlg1KeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEw/NDctMTY3NzcxMDE2/Ny0zNzk2LmpwZWc.jpeg) | 2003-02 | Mirror of Deception | Conversion |
-| 72 |  | 2003-03 | Reverend Bizarre | You Shall Suffer! |
-| 85 | ![Cover](https://i.discogs.com/aP_lTy4SQQEZOqAhhfevsZWmzpoGDlViScypuR56-U4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzU2/My0xNTg5OTI0OTQy/LTE5NjYuanBlZw.jpeg) | 2003-11-24 | Reverend Bizarre | Harbinger of Metal |
-| 66 | ![Cover](https://i.discogs.com/dJhJuVpFpuGyMTrrIlPsnh3zSVSKtCHy2HD4MX1AL1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTIw/MTAtMTY0NDc3NTE1/NS00OTAzLmpwZWc.jpeg) | 2004 | Blood Farmers | Permanent Brain Damage |
-| 65 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1f7a1a2909d04222c2d2714935de6f7c.png) | 2004-10 | Pagan Altar | Lords of Hypocrisy |
-| 67 |  | 2004-10-18 | Mirror of Deception | Foregone |
-| 39 | ![Cover](https://i.discogs.com/rBlPlTesPXew9jYt25YDIOxx0P57xPP47cn4ujlZz_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTU5/NzMtMTQyMjAzMjMy/MC04MDE0LmpwZWc.jpeg) | 2004-12-17 | Minotauri | Minotauri |
-| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9563c9109d7e63ceaeff4163fcad594d.png) | 2005-05-02 | Candlemass | Candlemass |
-| 89 |  | 2005-06-15 | Reverend Bizarre | II: Crush the Insects |
-| 18 | ![Cover](https://i.discogs.com/9O8reDHvj43huAtufthc6LJKAKc0UDSljt3FZBN-cWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQ1/MDEtMTI0NTMyMTA4/NS5qcGVn.jpeg) | 2006 | The River | Drawing Down The Sun |
-| 83 |  | 2006-04-25 | Reverend Bizarre | Thulsa Doom |
-| 69 |  | 2006-06-27 | The Gates of Slumber | Suffer No Guilt |
-| 51 | ![Cover](https://i.discogs.com/Hpc1l96g7V2_GDIZRbtervHYvgzrILOqBv4fu4y_0ys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODg2/OTItMTY3NzcwOTI5/NS0yOTUyLmpwZWc.jpeg) | 2006-10-06 | Mirror of Deception | Shards |
-| 56 |  | 2006-12 | Warning | Watching From A Distance |
-| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b9b072e8483644d2c439d430a731cfed.png) | 2006-12-18 | Pagan Altar | Mythical &amp; Magical |
-| 13 | ![Cover](https://i.discogs.com/vIWWR3dE8pTbZCNJ6CjWJX8ZXgL5N7h1H9u9IyCypKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzg4/MzctMTI5ODgyMTk4/My5qcGVn.jpeg) | 2007-03-09 | Voodooshock | Marie&#39;s Sister&#39;s Garden |
-| 73 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fcdf97c41d0b33f9a298b77dcef2d656.png) | 2007-06-22 | Candlemass | King of the Grey Islands |
-| 94 |  | 2007-08-08 | Reverend Bizarre | III: So Long Suckers |
-| 11 | ![Cover](https://i.discogs.com/2c6pNzMrtXF9HkIssl1Yj7GrFYOBnQ81VPHTJ9CWYIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzY5/OTItMTUxOTM4NjQw/MC01NzYyLmpwZWc.jpeg) | 2007-10-31 | Wall of Sleep | ...and hell followed with him |
-| 38 |  | 2007-10-31 | Witchfinder General | Buried Amongst The Ruins |
-| 17 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/91ee899c5171420c827cc7412c270fed.png) | 2007-12-04 | Hour of 13 | Hour of 13 |
-| 43 |  | 2007-12-07 | The Wandering Midget | I Am The Gate |
-| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f93e1c08dd92402f973850e9e20acc4a.png) | 2008 | The Lamp of Thoth | Portents, Omens, &amp; Dooms |
-| 45 | ![Cover](https://i.discogs.com/LG7fbFcZN0psL_GNyfvBy5Ct5uLg754RObJxsJ66g1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njkw/MDUtMTQ5NzEzMTY3/NS05OTYyLmpwZWc.jpeg) | 2008 | Dantesco | Pagano |
-| 95 |  | 2008 | Om | Live At Jerusalem |
-| 47 | ![Cover](https://i.discogs.com/RHDJz0LDLiUm61jAALNn0D2A43AjybJeQ2abyaE86Rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMx/NjUtMTQwMDg0NzUw/Ni01NDE1LmpwZWc.jpeg) | 2008-03-27 | Lord Vicar | The Demon Of Freedom |
-| 46 |  | 2008-05 | Revelation | Release |
-| 14 | ![Cover](https://i.discogs.com/IaIKt3dIKU7ba80a89Rsng0VvdAdUirzKGkyd0nWwFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzc1/MTUtMTIzNjI4NDg3/NC5qcGVn.jpeg) | 2008-06 | Reino Ermitaño | Rituales Interiores |
-| 6 |  | 2008-08-11 | Blood Ceremony | Blood Ceremony |
-| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/87e565aded4e4d00aed6b2ece9718f49.png) | 2008-08-30 | Witchfinder General | Resurrected |
-| 64 |  | 2008-10-10 | The Wandering Midget | The Serpent Coven |
-| 82 |  | 2008-12-17 | Lord Vicar | Fear no Pain |
-| 71 | ![Cover](https://i.discogs.com/zP_SiDT-xnod8pgDjGhU_kFuYKqMQmmbcrnFzjLzCDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTEx/NzAtMTI1NDMwNzE5/NC5qcGVn.jpeg) | 2009-03-13 | Doomraiser | Erasing the Remembrance |
-| 59 |  | 2009-04-25 | Iron Man | I Have Returned |
-| 92 | ![Cover](https://i.discogs.com/-5Zt6aQ375m-Ad7Q6wTGzotrRH8OPkhL0mwqsmrY5B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY2/MzUtMTI0MzI2MTgw/NC5qcGVn.jpeg) | 2009-05-18 | Fenriz&#39; Red Planet | Engangsgrill |
-| 2 |  | 2009-06-09 | Valhall | Red Planet |
-| 25 |  | 2009-10-01 | Old Season | Archaic Creation |
-| 52 | ![Cover](https://i.discogs.com/OvWF5TY8fDTbpagBHt3I_PiNGmVdL6LVUgdWoOjFQCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTUw/MjEtMTI3MzE3ODEz/MS5qcGVn.jpeg) | 2009-11 | Rituals of the Oak | Hour Of Judgement |
-| 5 |  | 2009-11-17 | Revelation | For The Sake Of No One |
-| 81 | ![Cover](https://i.discogs.com/-ioSLmPaBingXg9aRJ1wLpb0GsN0fx65B9aNUs9Xfhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTM2/OTAtMTI3NDk3MjM2/NS5qcGVn.jpeg) | 2010 | Witchsorrow | Witchsorrow |
-| 34 |  | 2010-02-26 | Wheel | Wheel |
-| 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dac47292dad940048039cc98c9fa387c.png) | 2010-02-26 | Hour of 13 | The Ritualist |
-| 4 |  | 2010-04-22 | Briton Rites | For Mircalla |
-| 80 |  | 2010-09 | Rose Kemp | Golden Shroud |
-| 77 | ![Cover](https://i.discogs.com/iQ11e6wXMjg4iVdADhCre1kHhcSqsxPURAP1bI2JAgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDgw/ODctMTM5NzA3MDI2/MC04NzE5LmpwZWc.jpeg) | 2010-12-08 | Procession | Destroyers of the Faith |
-| 30 | ![Cover](https://i.discogs.com/iRPTEXlPVDDm837LY9eDaEez3ToKHfPAStxrJmlEPk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzI0/NjktMTYzNzUzMzA4/MC01NzM5LmpwZWc.jpeg) | 2011 | Evangelist | In Partibus Infidelium |
-| 15 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9706b8c24513430892715c8697ad6ef3.png) | 2011-03-01 | Blood Ceremony | Living with the Ancients |
-| 19 |  | 2011-03-15 | Condenados | A Painful Journey Into Nihil |
-| 20 |  | 2011-04-04 | The Gates of Slumber | The Wretch |
-| 50 | ![Cover](https://i.discogs.com/c0a_6BzH4ZhFDw-nrRIEYXlPrj2T0lL-IbddqJFyb8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjQ5/MTQtMTQ2MjU0MTMx/OC0xODYyLmpwZWc.jpeg) | 2012 | Witchsorrow | God Curse Us |
-| 28 |  | 2012-02-01 | Anguish | Through the Archdemon&#39;s Head |
-| 97 |  | 2012-02-21 | Pallbearer | Sorrow and Extinction |
-| 29 | ![Cover](https://i.discogs.com/zPcNQ9SDbQpMhhdJ3jqu00RRsVFtz0KTgS7pGbrOCLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDIw/NDQtMTQyMzY4NTI1/OC01MDI3LmpwZWc.jpeg) | 2012-02-25 | Iron Mtn | Iron Mtn |
-| 42 | ![Cover](https://i.discogs.com/VP5Z6c0UxoVVRdITE_St5Uv9Kh8QRmCZreMghlQt8co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDk3/MTYtMTM4MDMzMzE1/NS0zNzQ1LmpwZWc.jpeg) | 2012-04-26 | Reino Ermitaño | Veneración Del Fuego |
-| 26 |  | 2012-04-27 | Saint Vitus | Lillie: F-65 |
-| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a99c8209787d415d84c36c5af289e8be.png) | 2012-06-12 | Witch Mountain | Cauldron of the Wild |
-| 53 | ![Cover](https://i.discogs.com/VVJTuTMLYrGEFdvlafPLua-yhaDB3LkfaxLNp86VPTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjM1/OTAtMTM4MzE2OTQ4/Mi04MDYwLmpwZWc.jpeg) | 2012-08-24 | Bedemon | Symphony of Shadows |
-| 63 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a9f7d84282f127458bd8cd53ab67c7ee.png) | 2012-10-16 | Witch Mountain | Witch Mountain |
-| 57 |  | 2012-11-30 | The Wandering Midget | From The Meadows Of Opium Dreams |
-| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bdb67f71dd874a3eca6953fba231cfce.png) | 2013-05-27 | Blood Ceremony | The Eldritch Dark |
-| 48 | ![Cover](https://i.discogs.com/41nxxpkISA9ptgUNK_TJAkPnaTjOe9HcJebBNeK7Ebs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDgw/OTAtMTM3MjkzMTgz/NS0yNzA4LmpwZWc.jpeg) | 2013-06-04 | Demon Lung | The Hundredth Name |
-| 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/91dd8d58f6025910f1b7552b9b4a703f.png) | 2015 | Black Sabbath | Master of Reality (2014 Remaster) |
-| 79 | ![Cover](https://i.discogs.com/qx4oy3Gbi6NFmog9RGeUVozlafsXQdhPbYKATdRf7uE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA5/MDk5LTE2NTU1MDIx/NDktNjY2My5qcGVn.jpeg) | 2015-02-24 | Bedemon | Child of Darkness |
-| 86 | ![Cover](https://i.discogs.com/QkmRTE73VIDYZnCmb-hQfomEhBa02102im-V22S_pC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTcy/OTctMTQ0ODk3NDY3/Ni0zOTA2LmpwZWc.jpeg) | 2015-11-20 | Magic Circle | Journey Blind |
-| 87 | ![Cover](https://i.discogs.com/9Ij7VmK3yHWPFwAq_9CQ1taMaebJsAmNPxrIfsqU7RM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDE2/MjMtMTQ2Nzc3MzEx/NS02OTEzLmpwZWc.jpeg) | 2016-06-16 | Lord Vicar | Gates Of Flesh |
-| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/bdd132891262c095417acee4987f8a08.png) | 2018-02-23 | Apostle Of Solitude | From Gold To Ash |
-| 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/f82f77be2bc64a26614eece4bb435b13.png) | 2024-03-29 | Coffin Storm | Arcana Rising |
-| 9 | ![Cover](https://i.discogs.com/y3hPEHSx3GFk3bRngu_ZFeLDDXizaR381-V5VMaRLvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzc0/NTc5LTE3MTI5MDc2/NzgtMTAwMC5qcGVn.jpeg) | 2024-04-12 | Friends of Hell | God Damned You To Hell |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bcc080c9a7c7331a7f1fb44d7d71bc7.png" alt="Cover for Vol 4" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972-09-25</td>
+      <td>Black Sabbath</td>
+      <td>Vol 4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b787963aaa4609f58e407910568a547.png" alt="Cover for Death Penalty" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Witchfinder General</td>
+      <td>Death Penalty</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7fc68a97aef424eb3cdd6c5f20ecb2f.png" alt="Cover for Relentless" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Pentagram</td>
+      <td>Relentless</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>1984</td>
+      <td>Saint Vitus</td>
+      <td>Saint Vitus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21e53a2eba9840a1a8e368dd3c475ea6.png" alt="Cover for Psalm 9" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984-03-01</td>
+      <td>Trouble</td>
+      <td>Psalm 9</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 52 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/072a450ac2ec0d199451999ce90e2bac.png" alt="Cover for Detaching From Satan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984-09</td>
+      <td>Paul Chain Violet Theatre</td>
+      <td>Detaching From Satan</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/xER7BYwpU7svnDH7nxfgqP6clpHAAMe5XMlYKFtEswc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODY2/OC0xNDA5NDkxODkz/LTI1NDIuanBlZw.jpeg" alt="Cover for Hallow&#39;s Victim" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985-08</td>
+      <td>Saint Vitus</td>
+      <td>Hallow&#39;s Victim</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td>1985-10</td>
+      <td>Saint Vitus</td>
+      <td>The Walking Dead</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td>1986</td>
+      <td>Saint Vitus</td>
+      <td>Born Too Late</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/488ecf9c3b63053cb24f8f3f77281c87.png" alt="Cover for Nightfall" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987-11-09</td>
+      <td>Candlemass</td>
+      <td>Nightfall</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td>1988</td>
+      <td>Saint Vitus</td>
+      <td>Mournful Cries</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>1989</td>
+      <td>Saint Vitus</td>
+      <td>V</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/746fef84c67066c4a4f3480c093a970b.png" alt="Cover for Life And Death" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Paul Chain</td>
+      <td>Life And Death</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad2ae1426aa013f0aba9152c4ff121ff.png" alt="Cover for Tales of Creation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989-09-25</td>
+      <td>Candlemass</td>
+      <td>Tales of Creation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/019a9810b31bdb943f5322449c9a7eef.png" alt="Cover for Lunar Womb" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>The Obsessed</td>
+      <td>Lunar Womb</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td>1992</td>
+      <td>Penance</td>
+      <td>The Road Less Travelled</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/C14vUUUCnpYg49S51MMUQCdeqO3FOEMOVHcrqXQJA6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Njk2/OS0xMTYyMjkyOTkz/LmpwZWc.jpeg" alt="Cover for C.O.D." style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Saint Vitus</td>
+      <td>C.O.D.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/4n-ra8_5J4ALt9ncmXZzEP6J8ynqJcej1szttw4zkpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg3/NTQtMTQ0NTA3MjA0/NS02ODUzLmpwZWc.jpeg" alt="Cover for Moonstoned" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Valhall</td>
+      <td>Moonstoned</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72c40fa3a6c81768a04a0283e5c987b4.png" alt="Cover for Be Forewarned" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Pentagram</td>
+      <td>Be Forewarned</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 83 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32a773e5645ce678fcf84c65ce255c9b.png" alt="Cover for Alkahest" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Paul Chain</td>
+      <td>Alkahest</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td>1995-05-09</td>
+      <td>Saint Vitus</td>
+      <td>Die Healing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Scald</td>
+      <td>Will of the Gods is Great Power</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/ofK80eFeqbGr8QCWtQi4asN-q6O1OYWOSpGs9SpBD_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAy/NDcwLTE1MTM3Nzg4/MzktMTI0MC5qcGVn.jpeg" alt="Cover for Blessed By The Sabbath" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-03</td>
+      <td>Warning</td>
+      <td>Blessed By The Sabbath</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fdea495f59940f7c0095557d948bc73.png" alt="Cover for Epicus Doomicus Metallicus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Candlemass</td>
+      <td>Epicus Doomicus Metallicus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72b9d742b0d7dfb37d5a0a522d5f4abf.png" alt="Cover for Judgement of the Dead" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-02</td>
+      <td>Pagan Altar</td>
+      <td>Judgement of the Dead</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6cb9b433909403493b6fcfe84c2bfbc.png" alt="Cover for Volume 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-02</td>
+      <td>Pagan Altar</td>
+      <td>Volume 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/24ay66wBRovUDZzCYXzmtoDAOhoMeqWhkeC8svMx7iM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzU3/MjktMTQ0NjE5MjM3/Ny00MzA1LmpwZWc.jpeg" alt="Cover for Incarnate" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>The Obsessed</td>
+      <td>Incarnate</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/RC91_0xa1hBfDAyWV6GRm6cDlljDZaZEQUCViZaYRgY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTIw/MzMtMTQzOTY2NzIw/Ny0zNTQ4LmpwZWc.jpeg" alt="Cover for Slice of Doom" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Reverend Bizarre</td>
+      <td>Slice of Doom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d6cf573cfdbb250c3819a512b3a6b5e.png" alt="Cover for Review Your Choices" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-07-19</td>
+      <td>Pentagram</td>
+      <td>Review Your Choices</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/17gRQFpeA-LJ4WxxkAfQgiazKOG9gwhbqRWtxuxFde8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODI5/NDktMTY3NzcxMDk0/NC01OTc1LmpwZWc.jpeg" alt="Cover for Mirrorsoil" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-01-22</td>
+      <td>Mirror of Deception</td>
+      <td>Mirrorsoil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/R-kFyqWSTlOecj9j-Iya8N89EFXNCnKD5OAaHE2WplI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ5/ODEtMTM2NTA3NTE2/OS04ODI4LmpwZWc.jpeg" alt="Cover for In the Rectory of the Bizarre Reverend" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-03-28</td>
+      <td>Reverend Bizarre</td>
+      <td>In the Rectory of the Bizarre Reverend</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/2tl42YF-Av4kFHMGHkqsnMBlJdHeSw1DD5GKBBzQbzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTU3/NDgtMTQ1NDI3NTEz/NC05MTA3LmpwZWc.jpeg" alt="Cover for Epicurean Mass" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Orodruin</td>
+      <td>Epicurean Mass</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/Jv50gjhjvxYwPNQ7qF5Xc4MhfHZH0YMypoEAUlg1KeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEw/NDctMTY3NzcxMDE2/Ny0zNzk2LmpwZWc.jpeg" alt="Cover for Conversion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-02</td>
+      <td>Mirror of Deception</td>
+      <td>Conversion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>2003-03</td>
+      <td>Reverend Bizarre</td>
+      <td>You Shall Suffer!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/aP_lTy4SQQEZOqAhhfevsZWmzpoGDlViScypuR56-U4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzU2/My0xNTg5OTI0OTQy/LTE5NjYuanBlZw.jpeg" alt="Cover for Harbinger of Metal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-11-24</td>
+      <td>Reverend Bizarre</td>
+      <td>Harbinger of Metal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/dJhJuVpFpuGyMTrrIlPsnh3zSVSKtCHy2HD4MX1AL1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTIw/MTAtMTY0NDc3NTE1/NS00OTAzLmpwZWc.jpeg" alt="Cover for Permanent Brain Damage" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Blood Farmers</td>
+      <td>Permanent Brain Damage</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>2004-10-18</td>
+      <td>Mirror of Deception</td>
+      <td>Foregone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f7a1a2909d04222c2d2714935de6f7c.png" alt="Cover for Lords of Hypocrisy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-10</td>
+      <td>Pagan Altar</td>
+      <td>Lords of Hypocrisy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 91 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/rBlPlTesPXew9jYt25YDIOxx0P57xPP47cn4ujlZz_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTU5/NzMtMTQyMjAzMjMy/MC04MDE0LmpwZWc.jpeg" alt="Cover for Minotauri" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-12-17</td>
+      <td>Minotauri</td>
+      <td>Minotauri</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9563c9109d7e63ceaeff4163fcad594d.png" alt="Cover for Candlemass" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-05-02</td>
+      <td>Candlemass</td>
+      <td>Candlemass</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td>2005-06-15</td>
+      <td>Reverend Bizarre</td>
+      <td>II: Crush the Insects</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/9O8reDHvj43huAtufthc6LJKAKc0UDSljt3FZBN-cWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQ1/MDEtMTI0NTMyMTA4/NS5qcGVn.jpeg" alt="Cover for Drawing Down The Sun" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>The River</td>
+      <td>Drawing Down The Sun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>2006-04-25</td>
+      <td>Reverend Bizarre</td>
+      <td>Thulsa Doom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>2006-06-27</td>
+      <td>The Gates of Slumber</td>
+      <td>Suffer No Guilt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/Hpc1l96g7V2_GDIZRbtervHYvgzrILOqBv4fu4y_0ys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODg2/OTItMTY3NzcwOTI5/NS0yOTUyLmpwZWc.jpeg" alt="Cover for Shards" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-10-06</td>
+      <td>Mirror of Deception</td>
+      <td>Shards</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9b072e8483644d2c439d430a731cfed.png" alt="Cover for Mythical &amp; Magical" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-12-18</td>
+      <td>Pagan Altar</td>
+      <td>Mythical &amp; Magical</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>2006-12</td>
+      <td>Warning</td>
+      <td>Watching From A Distance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/vIWWR3dE8pTbZCNJ6CjWJX8ZXgL5N7h1H9u9IyCypKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzg4/MzctMTI5ODgyMTk4/My5qcGVn.jpeg" alt="Cover for Marie&#39;s Sister&#39;s Garden" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-03-09</td>
+      <td>Voodooshock</td>
+      <td>Marie&#39;s Sister&#39;s Garden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcdf97c41d0b33f9a298b77dcef2d656.png" alt="Cover for King of the Grey Islands" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-06-22</td>
+      <td>Candlemass</td>
+      <td>King of the Grey Islands</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>2007-08-08</td>
+      <td>Reverend Bizarre</td>
+      <td>III: So Long Suckers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/2c6pNzMrtXF9HkIssl1Yj7GrFYOBnQ81VPHTJ9CWYIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzY5/OTItMTUxOTM4NjQw/MC01NzYyLmpwZWc.jpeg" alt="Cover for ...and hell followed with him" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10-31</td>
+      <td>Wall of Sleep</td>
+      <td>...and hell followed with him</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>2007-10-31</td>
+      <td>Witchfinder General</td>
+      <td>Buried Amongst The Ruins</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91ee899c5171420c827cc7412c270fed.png" alt="Cover for Hour of 13" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-12-04</td>
+      <td>Hour of 13</td>
+      <td>Hour of 13</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>2007-12-07</td>
+      <td>The Wandering Midget</td>
+      <td>I Am The Gate</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/LG7fbFcZN0psL_GNyfvBy5Ct5uLg754RObJxsJ66g1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njkw/MDUtMTQ5NzEzMTY3/NS05OTYyLmpwZWc.jpeg" alt="Cover for Pagano" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Dantesco</td>
+      <td>Pagano</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Om</td>
+      <td>Live At Jerusalem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f93e1c08dd92402f973850e9e20acc4a.png" alt="Cover for Portents, Omens, &amp; Dooms" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>The Lamp of Thoth</td>
+      <td>Portents, Omens, &amp; Dooms</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/RHDJz0LDLiUm61jAALNn0D2A43AjybJeQ2abyaE86Rg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMx/NjUtMTQwMDg0NzUw/Ni01NDE1LmpwZWc.jpeg" alt="Cover for The Demon Of Freedom" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-03-27</td>
+      <td>Lord Vicar</td>
+      <td>The Demon Of Freedom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td>2008-05</td>
+      <td>Revelation</td>
+      <td>Release</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/IaIKt3dIKU7ba80a89Rsng0VvdAdUirzKGkyd0nWwFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzc1/MTUtMTIzNjI4NDg3/NC5qcGVn.jpeg" alt="Cover for Rituales Interiores" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-06</td>
+      <td>Reino Ermitaño</td>
+      <td>Rituales Interiores</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>2008-08-11</td>
+      <td>Blood Ceremony</td>
+      <td>Blood Ceremony</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87e565aded4e4d00aed6b2ece9718f49.png" alt="Cover for Resurrected" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-08-30</td>
+      <td>Witchfinder General</td>
+      <td>Resurrected</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>2008-10-10</td>
+      <td>The Wandering Midget</td>
+      <td>The Serpent Coven</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2008-12-17</td>
+      <td>Lord Vicar</td>
+      <td>Fear no Pain</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/zP_SiDT-xnod8pgDjGhU_kFuYKqMQmmbcrnFzjLzCDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTEx/NzAtMTI1NDMwNzE5/NC5qcGVn.jpeg" alt="Cover for Erasing the Remembrance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-03-13</td>
+      <td>Doomraiser</td>
+      <td>Erasing the Remembrance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2009-04-25</td>
+      <td>Iron Man</td>
+      <td>I Have Returned</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/-5Zt6aQ375m-Ad7Q6wTGzotrRH8OPkhL0mwqsmrY5B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY2/MzUtMTI0MzI2MTgw/NC5qcGVn.jpeg" alt="Cover for Engangsgrill" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-05-18</td>
+      <td>Fenriz&#39; Red Planet</td>
+      <td>Engangsgrill</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2009-06-09</td>
+      <td>Valhall</td>
+      <td>Red Planet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td>2009-10-01</td>
+      <td>Old Season</td>
+      <td>Archaic Creation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>2009-11-17</td>
+      <td>Revelation</td>
+      <td>For The Sake Of No One</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/OvWF5TY8fDTbpagBHt3I_PiNGmVdL6LVUgdWoOjFQCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTUw/MjEtMTI3MzE3ODEz/MS5qcGVn.jpeg" alt="Cover for Hour Of Judgement" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-11</td>
+      <td>Rituals of the Oak</td>
+      <td>Hour Of Judgement</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/-ioSLmPaBingXg9aRJ1wLpb0GsN0fx65B9aNUs9Xfhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTM2/OTAtMTI3NDk3MjM2/NS5qcGVn.jpeg" alt="Cover for Witchsorrow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Witchsorrow</td>
+      <td>Witchsorrow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td>2010-02-26</td>
+      <td>Wheel</td>
+      <td>Wheel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dac47292dad940048039cc98c9fa387c.png" alt="Cover for The Ritualist" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-02-26</td>
+      <td>Hour of 13</td>
+      <td>The Ritualist</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>2010-04-22</td>
+      <td>Briton Rites</td>
+      <td>For Mircalla</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2010-09</td>
+      <td>Rose Kemp</td>
+      <td>Golden Shroud</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/iQ11e6wXMjg4iVdADhCre1kHhcSqsxPURAP1bI2JAgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDgw/ODctMTM5NzA3MDI2/MC04NzE5LmpwZWc.jpeg" alt="Cover for Destroyers of the Faith" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-12-08</td>
+      <td>Procession</td>
+      <td>Destroyers of the Faith</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/iRPTEXlPVDDm837LY9eDaEez3ToKHfPAStxrJmlEPk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzI0/NjktMTYzNzUzMzA4/MC01NzM5LmpwZWc.jpeg" alt="Cover for In Partibus Infidelium" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Evangelist</td>
+      <td>In Partibus Infidelium</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9706b8c24513430892715c8697ad6ef3.png" alt="Cover for Living with the Ancients" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-03-01</td>
+      <td>Blood Ceremony</td>
+      <td>Living with the Ancients</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td>2011-03-15</td>
+      <td>Condenados</td>
+      <td>A Painful Journey Into Nihil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>2011-04-04</td>
+      <td>The Gates of Slumber</td>
+      <td>The Wretch</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/c0a_6BzH4ZhFDw-nrRIEYXlPrj2T0lL-IbddqJFyb8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjQ5/MTQtMTQ2MjU0MTMx/OC0xODYyLmpwZWc.jpeg" alt="Cover for God Curse Us" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Witchsorrow</td>
+      <td>God Curse Us</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td>2012-02-01</td>
+      <td>Anguish</td>
+      <td>Through the Archdemon&#39;s Head</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>2012-02-21</td>
+      <td>Pallbearer</td>
+      <td>Sorrow and Extinction</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/zPcNQ9SDbQpMhhdJ3jqu00RRsVFtz0KTgS7pGbrOCLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDIw/NDQtMTQyMzY4NTI1/OC01MDI3LmpwZWc.jpeg" alt="Cover for Iron Mtn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-02-25</td>
+      <td>Iron Mtn</td>
+      <td>Iron Mtn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/VP5Z6c0UxoVVRdITE_St5Uv9Kh8QRmCZreMghlQt8co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDk3/MTYtMTM4MDMzMzE1/NS0zNzQ1LmpwZWc.jpeg" alt="Cover for Veneración Del Fuego" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-04-26</td>
+      <td>Reino Ermitaño</td>
+      <td>Veneración Del Fuego</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+      </td>
+      <td>2012-04-27</td>
+      <td>Saint Vitus</td>
+      <td>Lillie: F-65</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a99c8209787d415d84c36c5af289e8be.png" alt="Cover for Cauldron of the Wild" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-06-12</td>
+      <td>Witch Mountain</td>
+      <td>Cauldron of the Wild</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/VVJTuTMLYrGEFdvlafPLua-yhaDB3LkfaxLNp86VPTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjM1/OTAtMTM4MzE2OTQ4/Mi04MDYwLmpwZWc.jpeg" alt="Cover for Symphony of Shadows" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-08-24</td>
+      <td>Bedemon</td>
+      <td>Symphony of Shadows</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9f7d84282f127458bd8cd53ab67c7ee.png" alt="Cover for Witch Mountain" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-10-16</td>
+      <td>Witch Mountain</td>
+      <td>Witch Mountain</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>2012-11-30</td>
+      <td>The Wandering Midget</td>
+      <td>From The Meadows Of Opium Dreams</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdb67f71dd874a3eca6953fba231cfce.png" alt="Cover for The Eldritch Dark" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05-27</td>
+      <td>Blood Ceremony</td>
+      <td>The Eldritch Dark</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/41nxxpkISA9ptgUNK_TJAkPnaTjOe9HcJebBNeK7Ebs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDgw/OTAtMTM3MjkzMTgz/NS0yNzA4LmpwZWc.jpeg" alt="Cover for The Hundredth Name" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-06-04</td>
+      <td>Demon Lung</td>
+      <td>The Hundredth Name</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91dd8d58f6025910f1b7552b9b4a703f.png" alt="Cover for Master of Reality (2014 Remaster)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Black Sabbath</td>
+      <td>Master of Reality (2014 Remaster)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/qx4oy3Gbi6NFmog9RGeUVozlafsXQdhPbYKATdRf7uE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA5/MDk5LTE2NTU1MDIx/NDktNjY2My5qcGVn.jpeg" alt="Cover for Child of Darkness" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-02-24</td>
+      <td>Bedemon</td>
+      <td>Child of Darkness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/QkmRTE73VIDYZnCmb-hQfomEhBa02102im-V22S_pC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTcy/OTctMTQ0ODk3NDY3/Ni0zOTA2LmpwZWc.jpeg" alt="Cover for Journey Blind" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-11-20</td>
+      <td>Magic Circle</td>
+      <td>Journey Blind</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/9Ij7VmK3yHWPFwAq_9CQ1taMaebJsAmNPxrIfsqU7RM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDE2/MjMtMTQ2Nzc3MzEx/NS02OTEzLmpwZWc.jpeg" alt="Cover for Gates Of Flesh" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-06-16</td>
+      <td>Lord Vicar</td>
+      <td>Gates Of Flesh</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdd132891262c095417acee4987f8a08.png" alt="Cover for From Gold To Ash" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-02-23</td>
+      <td>Apostle Of Solitude</td>
+      <td>From Gold To Ash</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f82f77be2bc64a26614eece4bb435b13.png" alt="Cover for Arcana Rising" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-03-29</td>
+      <td>Coffin Storm</td>
+      <td>Arcana Rising</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/y3hPEHSx3GFk3bRngu_ZFeLDDXizaR381-V5VMaRLvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzc0/NTc5LTE3MTI5MDc2/NzgtMTAwMC5qcGVn.jpeg" alt="Cover for God Damned You To Hell" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-04-12</td>
+      <td>Friends of Hell</td>
+      <td>God Damned You To Hell</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-doom-metal" | relative_url }}">traditional doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
@@ -123,6 +1878,6 @@ Last updated: <time datetime="2025-10-28T23:53:54.196Z">Wed Oct 29 2025 01:53:54
 - [stoner rock]({{ "/tags/stoner-rock" | relative_url }})
 - [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [stoner doom]({{ "/tags/stoner-doom" | relative_url }})
-- [swedish]({{ "/tags/swedish" | relative_url }})
 - [sludge]({{ "/tags/sludge" | relative_url }})
+- [swedish]({{ "/tags/swedish" | relative_url }})
 - [sludge metal]({{ "/tags/sludge-metal" | relative_url }})

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T22:57:39.945Z
+date: 2025-11-02T20:53:05.688Z
 permalink: tags/instrumental-rock
 title: instrumental rock
 ---
 
 ## instrumental rock
 
-Last updated: <time datetime="2025-10-28T22:57:39.945Z">Wed Oct 29 2025 00:57:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T20:53:05.688Z">Sun Nov 02 2025 22:53:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -15,108 +15,2017 @@ Instrumental rock is a guitar-driven genre that emphasizes technical musicianshi
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 88 | ![Cover](https://i.discogs.com/jzrX24sMS2VLTM7-KtXHty2TZzYBdhOk5nY4w1HNeEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzIz/NDEtMTM0OTY3Njkz/NC03NzAwLmpwZWc.jpeg) | 1969-08-15 | Fleetwood Mac | The Pious Bird Of Good Omen |
-| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/84d5d8f2bf3110d46256f1d7cff85d89.png) | 1977 | Jeff Beck | Jeff Beck&#39;s Guitar Shop |
-| 42 |  | 1982-05 | Frank Zappa | Shut Up &#39;n Play Yer Guitar |
-| 48 |  | 1984 | Steve Vai | Flex-Able Leftovers |
-| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4f55dea8e8ea3fc54ac3b697f6f4ee39.png) | 1985 | Tony MacAlpine | Edge of Insanity |
-| 57 |  | 1986-03-12 | Eric Johnson | Tones |
-| 100 |  | 1987-10-15 | Joe Satriani | Surfing With The Alien |
-| 6 | ![Cover](https://i.discogs.com/7M98acktpXx-NT-4BAIk3meZlOA3XTRHtxyPzp1KnZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM1/NDYtMTMxOTcyMzM1/Mi5qcGVn.jpeg) | 1988 | Greg Howe | Greg Howe |
-| 16 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c7cb0543384fea84c9a1d5ee4fff944d.png) | 1988 | Jason Becker | Perpetual Burn |
-| 3 |  | 1989 | 24-7 Spyz | Harder Than You |
-| 10 | ![Cover](https://i.discogs.com/K4dQTCtke-MnwCMIg_kQ9MLXmGg6rPJQYD0u8Lz85LU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA1/NzQtMTM0NzY1MDE5/OS03Mzg5LmpwZWc.jpeg) | 1990-08-21 | Michael Lee Firkins | Michael Lee Firkins |
-| 21 |  | 1991 | Vinnie Moore | Meltdown |
-| 9 |  | 1993-10-26 | Joe Satriani | Time Machine |
-| 25 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3bbffdc77bb04a68caca8a48c2f52ed2.png) | 1994-02-07 | Buckethead | Giant Robot |
-| 24 | ![Cover](https://i.discogs.com/J9T1cJbUlrPpeQFU5GoZq3CM3OieWuJhlqk3AjIRmIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/ODE3LTE1MzYzNjQ2/NTItODQ1My5wbmc.jpeg) | 1996-09-19 | Steve Vai | Sex and Religion |
-| 27 |  |  | HEADLINK | Tairitsu |
-| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/930a11ec09244328c30d436efe3ce513.png) | 1988-04 | Frank Zappa | Guitar |
-| 2 |  | 1997 | Santana | The Best Instrumentals |
-| 32 | ![Cover](https://i.discogs.com/WLgbzHkVrpu2r-ZcxJgFtyGiou5oUmc2NDdEqTAXlyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mjc1/MDEtMTQwMTAzODEy/OS0zMDA3LmpwZWc.jpeg) | 1997 | Steve Vai | G3 - Live in concert |
-| 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8ececb8c1f7d226718ca98a79fe64fe6.png) | 1997 | The Fucking Champs | III |
-| 43 | ![Cover](https://i.discogs.com/Zdp-K7iX2rLpXG489k1PLSr4OShiSsrizg8KHUwga7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODQw/NjQtMTQ1MjM5NjM4/My03MjIxLmpwZWc.jpeg) | 1997-10-22 | Frank Zappa | Shut Up And Play Yer Guitar |
-| 30 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/223dfae7010503972e7da5036cadedb7.png) | 1999 | Andy Timmons | The Spoken and the Unspoken |
-| 41 |  | 1999-03-23 | Vinnie Moore | The Maze |
-| 31 | ![Cover](https://i.discogs.com/hjfNi7V-nTesc_KDFtv1rCMTvt8HeERj2n4UfR2RhAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDYz/MjEtMTU0MDE0Mjg0/Ni03MTA1LmpwZWc.jpeg) | 1999-08-21 | Steve Vai | G3: Live in Concert |
-| 62 | ![Cover](https://i.discogs.com/hjfNi7V-nTesc_KDFtv1rCMTvt8HeERj2n4UfR2RhAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDYz/MjEtMTU0MDE0Mjg0/Ni03MTA1LmpwZWc.jpeg) | 1999-08-21 | Steve Vai | The 7th Song |
-| 60 |  | 2000-03-14 | Joe Satriani | Additional Creations |
-| 5 |  | 2001 | Vinnie Moore | Defying Gravity |
-| 45 |  | 2001-04-17 | Derek Sherinian | Inertia |
-| 55 |  | 2001-06-19 | Steve Vai | Alive In An Ultra World |
-| 36 | ![Cover](https://i.discogs.com/ICcAlpr9dlNnUDwkP6B4ULlV1_RP3fRe1SbDbhjo67U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODYz/MTAtMTUzNDE2MDg1/Ny03MTc5LmpwZWc.jpeg) | 2002 | Brett Garsed | Big Sky |
-| 59 | ![Cover](https://i.discogs.com/M_uWxnWeLI2qmJPH2coaLtGs1REdSD6K-4WONkDJlv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzI2/OTctMTMzOTk3NDA0/My0yNzQ0LmpwZWc.jpeg) | 2002-03-21 | Steve Morse Band | Split Decision |
-| 63 |  |  | Bremer&#x2F;McCoy | Utopia |
-| 75 |  | 1959 | Santo &amp; Johnny | Santo &amp; Johnny |
-| 64 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3271be6770604053c0a479da21682a98.png) | 1984 | Steve Vai | Flex-able |
-| 86 |  | 1986 | Joe Satriani | Not of This Earth |
-| 79 |  | 1988-11-01 | Joe Satriani | Dreaming #11 |
-| 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8fe0c8fba5575890077d3b36f326582e.png) | 1989-10-30 | Joe Satriani | Flying In A Blue Dream |
-| 99 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6c342c5ac86546058fc02dd15fd23d6a.png) | 1990-03-20 | Eric Johnson | Ah Via Musicom |
-| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b220dec7fe405ee1e103dac893639301.png) | 1990-05 | Steve Vai | Passion &amp; Warfare |
-| 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3d5ba7d0423d4d08986f2e9a3ea8355f.png) | 1990-05-31 | Steve Vai | Passion and Warfare |
-| 95 | ![Cover](https://i.discogs.com/hlgyVBIMFwkExhc6XGB8krnxnKXipLETl-7wNHwsm7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDgz/MC0xNDMwNTE3MzA4/LTY0MTQuanBlZw.jpeg) | 1992 | Joe Satriani | Extremist |
-| 96 | ![Cover](https://i.discogs.com/hlgyVBIMFwkExhc6XGB8krnxnKXipLETl-7wNHwsm7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDgz/MC0xNDMwNTE3MzA4/LTY0MTQuanBlZw.jpeg) | 1992 | Joe Satriani | The Extremist |
-| 94 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8c658a84be734825b079c292af0e321e.png) | 1995-03-15 | Steve Vai | Alien Love Secrets |
-| 83 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8f8de90fd3e1be5f3a854757a47e34c8.png) | 1995-10-10 | Joe Satriani | Joe Satriani |
-| 65 |  | 1996 | The Marketts | Out of Limits! |
-| 78 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/461465a6e6bc4a11900b3b0c1ea12405.png) | 1996-09-17 | Steve Vai | Fire Garden |
-| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/837330e063b036d23d5608e0ec791c9a.png) | 1998-03-03 | Joe Satriani | Crystal Planet |
-| 81 |  | 2000-03-13 | Joe Satriani | Engines of Creation |
-| 89 |  | 2002-06-25 | Joe Satriani | Strange Beautiful Music |
-| 22 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9da4ee5291fe4ad8cad414b484ce801a.png) | 2003 | Yngwie Malmsteen | Marching Out |
-| 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6d517f2eebb427e28c5ec887adc27ee0.png) | 2004-04-13 | Joe Satriani | Is There Love in Space? |
-| 37 |  | 2004-08 | Clogs | Stick Music |
-| 34 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ad8cafc6e1664dcdadcb34f1c6c740e3.png) | 2005-02-22 | Steve Vai | Real Illusions: Reflections |
-| 7 | ![Cover](https://i.discogs.com/kH3P-t-XKxIttfZkjNUSHnrOpRH3NNgs4oqmxTHr5E0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODM2/NTgtMTQ4NjI3NTA1/Ni01NzQ5LmpwZWc.jpeg) | 2006 | Stemage | Varia Suite |
-| 11 | ![Cover](https://i.discogs.com/kH3P-t-XKxIttfZkjNUSHnrOpRH3NNgs4oqmxTHr5E0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODM2/NTgtMTQ4NjI3NTA1/Ni01NzQ5LmpwZWc.jpeg) | 2006 | Stemage | Expansion Pack |
-| 56 | ![Cover](https://i.discogs.com/faNwbfxok6pCdzv_gNu2wcrgA6dr0Ve1XFpASofobJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDc3/NzQwLTE1ODcwNzYw/NzQtMTIxMi5qcGVn.jpeg) | 2006 | Joe Satriani | Shapeshifting |
-| 92 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5de812059fb87dfd188eeec182b57d21.png) | 2006-03-14 | Joe Satriani | Super Colossal |
-| 39 | ![Cover](https://i.discogs.com/iaShIGfOKRgLCPmRp34dHzyavWvo7gLqjc8XLXEQrz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk2/NDctMTIwMTU4MzMx/My5qcGVn.jpeg) | 2006-07-26 | Paul Gilbert | Get Out Of My Yard |
-| 61 |  | 2007-04 | The Pirate Ship Quintet | The Pirate Ship Quintet |
-| 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/40a891405c92b34d2fda3712c1796dc0.png) | 2007-04-03 | John 5 | The Devil Knows My Name |
-| 26 |  | 2007-04-18 | Blackstratblues | Nights In Shining Karma |
-| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/242e29602408461d937ebdafb76c7cc1.png) | 2007-09-12 | Entertainment System | Entertainment System 64 |
-| 28 |  | 2007-10-30 | Buckethead | Cyborg Slunks |
-| 19 |  | 2008-01-23 | Paul Gilbert | Silence Followed By A Deafening Roar |
-| 85 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5cb28f932bcd4f31899c27b22c5f9dea.png) | 2008-03-28 | Joe Satriani | Professor Satchafunkilus and the Musterion of Rock |
-| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2f065cfe0608812ccf8d27fd46feb94f.png) | 2008-04-01 | Unwed Sailor | Little Wars |
-| 82 | ![Cover](https://i.discogs.com/rVNr5jS9VM7HGJiMFLhybV1_NyPNiY-mN-_DWjRO8YI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE3/NTctMTI5Njg1OTc4/Ny5qcGVn.jpeg) | 2008-04-04 | Joe Satriani | Professor Satchafunkilus &amp; the Musterion of Rock |
-| 84 | ![Cover](https://i.discogs.com/rVNr5jS9VM7HGJiMFLhybV1_NyPNiY-mN-_DWjRO8YI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE3/NTctMTI5Njg1OTc4/Ny5qcGVn.jpeg) | 2008-04-04 | Joe Satriani | Professor Satchafunkilus &amp; The Musterion Of Rock |
-| 4 | ![Cover](https://i.discogs.com/nV3_ywMk2ppT1pcDyDWmJaRvsbvlxTL2AuglnGSGd_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg5/MTYtMTUzMjc4MTk3/Ni0xMzkxLmpwZWc.jpeg) | 2008-05-06 | Russian Circles | Station |
-| 18 | ![Cover](https://i.discogs.com/pdO3uDMFkBSgT3GatHAuD8_2xdYMWF0vMrxJjYnJM-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTA3/NjgtMTYzNTc5Nzc4/OS05MDEyLmpwZWc.jpeg) | 2009 | Steve Morse Band | Out Standing In Their Field |
-| 51 | ![Cover](https://i.discogs.com/UVEIjimt1SBHFk_K2X1gPt-gzl3wNOswNGdAFGRncMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc5/ODIzLTE1MjM5OTUy/NzQtMjM5MS5qcGVn.jpeg) | 2009-07-01 | GACKT | Flower |
-| 66 | ![Cover](https://i.discogs.com/vx2jVT24ChFTLs_svq3liIQ66-mOodSkPv3jz2-d8LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODEz/OTMtMTI4NjQwNzk3/Ny5qcGVn.jpeg) | 2010 | Joe Satriani | Black Swans &amp; Wormhole Wizards |
-| 71 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/7032a3ca45274b0da39eed4699597ab2.png) | 2010-06-30 | Paul Gilbert | Fuzz Universe |
-| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9ad997675fc74c6e902fab6dd17f4d20.png) | 2010-10-05 | Joe Satriani | Black Swans and Wormhole Wizards |
-| 72 |  | 2010-10-21 | nobody.one | Head Movies |
-| 53 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6d5f89e269ac6412a96786fbc566f726.png) | 2010-10-25 | Joe Satriani | The Essential Joe Satriani |
-| 46 |  | 2011-03-08 | Grails | Deep Politics |
-| 52 |  | 2011-05-03 | Booker T. Jones | The Road From Memphis |
-| 14 | ![Cover](https://i.discogs.com/KzGzI4Dww5laho_jQzdNLBjnJx67uyNE_wEOXvKQiBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDI3/NTgtMTQwMzA4OTM4/Ny05ODc1LmpwZWc.jpeg) | 2011-06-20 | Riding Alone for Thousands of Miles | Brick City Ghosts |
-| 69 |  | 2011-06-28 | Evan brewer | Alone |
-| 12 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/18f7b37c2124296d530cd3f6a3b9f03d.png) | 2012 | Slime Girls | Vacation Wasteland |
-| 68 |  | 2012-05-08 | John 5 | God Told Me To |
-| 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ee374c5531c14526b76ea76c202f81ec.png) | 2013-05-07 | Joe Satriani | Unstoppable Momentum |
-| 47 |  | 2013-07-26 | Kirby&#39;s Dream Band | The Pink Album |
-| 58 |  | 2013-10-14 | Exxasens | Satellites |
-| 40 |  | 2013-10-15 | Pelican | Forever Becoming |
-| 15 |  | 2014-07-01 | Glen Porter | The Open Road and The Smell of Blood |
-| 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8442c105590b46ee3e30dec300bf64ca.png) | 2015 | Joe Satriani | Shockwave Supernova |
-| 17 | ![Cover](https://i.discogs.com/fxPzjIz0sLL1tu7oQDcjulK3uCZOZuthd-OOApbbWfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTY5/NjgtMTQ1NzMxNTM4/NC03MjExLmpwZWc.jpeg) | 2015-04 | Thanatopsis | Requiem |
-| 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/9e9a555a4372c946ca79dc3ae8a813ff.png) | 2015-06-23 | The Aristocrats | Tres Caballeros |
-| 13 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e56972d3c36627650a2aa3cf79c3c767.png) | 2016 | Steve Vai | Modern Primitive |
-| 87 | ![Cover](https://i.discogs.com/oamHfW0TI6RXivhErokZkyYtSDhb49FkcJJl3nyFTS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDc4/ODgtMTQ2MTAxMzk0/My02NzkwLnBuZw.jpeg) | 2016 | Legião Urbana | Legiao Urbana V |
-| 76 | ![Cover](https://i.discogs.com/rDj_pY_U6Ef4M0yPVwcbYw8DcUmcKQZlC57M8N5HTHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE3/ODYtMTQ3NzIzOTA0/OC0zNDA4LmpwZWc.jpeg) | 2016-10-21 | TotorRo | Come to Mexico |
-| 67 | ![Cover](https://i.discogs.com/SMMj6IUDhZqoayz8BY9egPHGK7-_rvpNVvKvnT5Wowo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/Nzg5LTE0OTc1NzAz/MDYtMzQ4OC5qcGVn.jpeg) | 2017-06-23 | Chuck Johnson | Balsams |
-| 29 | ![Cover](https://i.discogs.com/z1eNmd63Y23nPvpeix12AWGtWJr56skmpgQSQ1R1Jc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MzEyLTE1MjgzMTYy/ODAtNTI1OC5qcGVn.jpeg) | 2018-01-18 | Night Verses | Copper Wasp |
-| 73 | ![Cover](https://i.discogs.com/rwZpNbD58mETYMUB3JWeSxzO-XcO1tJTS91atM7wYyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA0/NjY5LTE1NjU5MDEz/NzgtODQzMC5qcGVn.jpeg) | 2019-12-08 | Cloudkicker | Unending |
-| 1 |  | 2020-03-20 | G3 | G3 Live: Rockin&#39; In The Free World |
-| 35 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6eeade131218457098d3ce01735ac4b3.png) | 2022 | Dire Straits | Communique |
-| 8 | ![Cover](https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg) | 2023 | Various Artists | G3: Live in Concert |
-| 50 | ![Cover](https://i.discogs.com/URIwNhKu4bDZnsrx58kYMPVxTMX9iUE27Tn8hm8PgAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/ODM1LTE1OTU4ODY2/OTQtMjU0OC5qcGVn.jpeg) | 2023-02-23 | Steve Vai | SEX &amp; RELIGION |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>1959</td>
+      <td>Santo &amp; Johnny</td>
+      <td>Santo &amp; Johnny</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/jzrX24sMS2VLTM7-KtXHty2TZzYBdhOk5nY4w1HNeEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzIz/NDEtMTM0OTY3Njkz/NC03NzAwLmpwZWc.jpeg" alt="Cover for The Pious Bird Of Good Omen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969-08-15</td>
+      <td>Fleetwood Mac</td>
+      <td>The Pious Bird Of Good Omen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 26</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84d5d8f2bf3110d46256f1d7cff85d89.png" alt="Cover for Jeff Beck&#39;s Guitar Shop" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Jeff Beck</td>
+      <td>Jeff Beck&#39;s Guitar Shop</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>1982-05</td>
+      <td>Frank Zappa</td>
+      <td>Shut Up &#39;n Play Yer Guitar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td>1984</td>
+      <td>Steve Vai</td>
+      <td>Flex-Able Leftovers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3271be6770604053c0a479da21682a98.png" alt="Cover for Flex-able" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Steve Vai</td>
+      <td>Flex-able</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f55dea8e8ea3fc54ac3b697f6f4ee39.png" alt="Cover for Edge of Insanity" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Tony MacAlpine</td>
+      <td>Edge of Insanity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>1986</td>
+      <td>Joe Satriani</td>
+      <td>Not of This Earth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>1986-03-12</td>
+      <td>Eric Johnson</td>
+      <td>Tones</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>1987-10-15</td>
+      <td>Joe Satriani</td>
+      <td>Surfing With The Alien</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 48</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7cb0543384fea84c9a1d5ee4fff944d.png" alt="Cover for Perpetual Burn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Jason Becker</td>
+      <td>Perpetual Burn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 94</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/7M98acktpXx-NT-4BAIk3meZlOA3XTRHtxyPzp1KnZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM1/NDYtMTMxOTcyMzM1/Mi5qcGVn.jpeg" alt="Cover for Greg Howe" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Greg Howe</td>
+      <td>Greg Howe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>1988-11-01</td>
+      <td>Joe Satriani</td>
+      <td>Dreaming #11</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>1989</td>
+      <td>24-7 Spyz</td>
+      <td>Harder Than You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 27</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fe0c8fba5575890077d3b36f326582e.png" alt="Cover for Flying In A Blue Dream" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989-10-30</td>
+      <td>Joe Satriani</td>
+      <td>Flying In A Blue Dream</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c342c5ac86546058fc02dd15fd23d6a.png" alt="Cover for Ah Via Musicom" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-03-20</td>
+      <td>Eric Johnson</td>
+      <td>Ah Via Musicom</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d5ba7d0423d4d08986f2e9a3ea8355f.png" alt="Cover for Passion and Warfare" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-05-31</td>
+      <td>Steve Vai</td>
+      <td>Passion and Warfare</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b220dec7fe405ee1e103dac893639301.png" alt="Cover for Passion &amp; Warfare" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-05</td>
+      <td>Steve Vai</td>
+      <td>Passion &amp; Warfare</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/K4dQTCtke-MnwCMIg_kQ9MLXmGg6rPJQYD0u8Lz85LU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA1/NzQtMTM0NzY1MDE5/OS03Mzg5LmpwZWc.jpeg" alt="Cover for Michael Lee Firkins" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-08-21</td>
+      <td>Michael Lee Firkins</td>
+      <td>Michael Lee Firkins</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shred" | relative_url }}">shred</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>1991</td>
+      <td>Vinnie Moore</td>
+      <td>Meltdown</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/hlgyVBIMFwkExhc6XGB8krnxnKXipLETl-7wNHwsm7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDgz/MC0xNDMwNTE3MzA4/LTY0MTQuanBlZw.jpeg" alt="Cover for Extremist" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Joe Satriani</td>
+      <td>Extremist</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 54</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/hlgyVBIMFwkExhc6XGB8krnxnKXipLETl-7wNHwsm7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDgz/MC0xNDMwNTE3MzA4/LTY0MTQuanBlZw.jpeg" alt="Cover for The Extremist" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Joe Satriani</td>
+      <td>The Extremist</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 56</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td>1993-10-26</td>
+      <td>Joe Satriani</td>
+      <td>Time Machine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Vinnie Moore</td>
+      <td>Out Of Nowhere</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bbffdc77bb04a68caca8a48c2f52ed2.png" alt="Cover for Giant Robot" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994-02-07</td>
+      <td>Buckethead</td>
+      <td>Giant Robot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Greg Howe</td>
+      <td>Parallax</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c658a84be734825b079c292af0e321e.png" alt="Cover for Alien Love Secrets" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-03-15</td>
+      <td>Steve Vai</td>
+      <td>Alien Love Secrets</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f8de90fd3e1be5f3a854757a47e34c8.png" alt="Cover for Joe Satriani" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-10-10</td>
+      <td>Joe Satriani</td>
+      <td>Joe Satriani</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>The Marketts</td>
+      <td>Out of Limits!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/461465a6e6bc4a11900b3b0c1ea12405.png" alt="Cover for Fire Garden" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-09-17</td>
+      <td>Steve Vai</td>
+      <td>Fire Garden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/J9T1cJbUlrPpeQFU5GoZq3CM3OieWuJhlqk3AjIRmIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/ODE3LTE1MzYzNjQ2/NTItODQ1My5wbmc.jpeg" alt="Cover for Sex and Religion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-09-19</td>
+      <td>Steve Vai</td>
+      <td>Sex and Religion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 69 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Santana</td>
+      <td>The Best Instrumentals</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 30</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/WLgbzHkVrpu2r-ZcxJgFtyGiou5oUmc2NDdEqTAXlyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mjc1/MDEtMTQwMTAzODEy/OS0zMDA3LmpwZWc.jpeg" alt="Cover for G3 - Live in concert" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Steve Vai</td>
+      <td>G3 - Live in concert</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shred" | relative_url }}">shred</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ececb8c1f7d226718ca98a79fe64fe6.png" alt="Cover for III" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>The Fucking Champs</td>
+      <td>III</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/Zdp-K7iX2rLpXG489k1PLSr4OShiSsrizg8KHUwga7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODQw/NjQtMTQ1MjM5NjM4/My03MjIxLmpwZWc.jpeg" alt="Cover for Shut Up And Play Yer Guitar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-10-22</td>
+      <td>Frank Zappa</td>
+      <td>Shut Up And Play Yer Guitar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/837330e063b036d23d5608e0ec791c9a.png" alt="Cover for Crystal Planet" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-03-03</td>
+      <td>Joe Satriani</td>
+      <td>Crystal Planet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 83 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td>1999-03-23</td>
+      <td>Vinnie Moore</td>
+      <td>The Maze</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/hjfNi7V-nTesc_KDFtv1rCMTvt8HeERj2n4UfR2RhAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDYz/MjEtMTU0MDE0Mjg0/Ni03MTA1LmpwZWc.jpeg" alt="Cover for G3: Live in Concert" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-08-21</td>
+      <td>Steve Vai</td>
+      <td>G3: Live in Concert</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shred" | relative_url }}">shred</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/hjfNi7V-nTesc_KDFtv1rCMTvt8HeERj2n4UfR2RhAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDYz/MjEtMTU0MDE0Mjg0/Ni03MTA1LmpwZWc.jpeg" alt="Cover for The 7th Song" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-08-21</td>
+      <td>Steve Vai</td>
+      <td>The 7th Song</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>2000-03-13</td>
+      <td>Joe Satriani</td>
+      <td>Engines of Creation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2000-03-14</td>
+      <td>Joe Satriani</td>
+      <td>Additional Creations</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Vinnie Moore</td>
+      <td>Defying Gravity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td>2001-04-17</td>
+      <td>Derek Sherinian</td>
+      <td>Inertia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>2001-06-19</td>
+      <td>Steve Vai</td>
+      <td>Alive In An Ultra World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/ICcAlpr9dlNnUDwkP6B4ULlV1_RP3fRe1SbDbhjo67U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODYz/MTAtMTUzNDE2MDg1/Ny03MTc5LmpwZWc.jpeg" alt="Cover for Big Sky" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Brett Garsed</td>
+      <td>Big Sky</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/M_uWxnWeLI2qmJPH2coaLtGs1REdSD6K-4WONkDJlv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzI2/OTctMTMzOTk3NDA0/My0yNzQ0LmpwZWc.jpeg" alt="Cover for Split Decision" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-03-21</td>
+      <td>Steve Morse Band</td>
+      <td>Split Decision</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td>2002-06-25</td>
+      <td>Joe Satriani</td>
+      <td>Strange Beautiful Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9da4ee5291fe4ad8cad414b484ce801a.png" alt="Cover for Marching Out" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Yngwie Malmsteen</td>
+      <td>Marching Out</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 32</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d517f2eebb427e28c5ec887adc27ee0.png" alt="Cover for Is There Love in Space?" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-04-13</td>
+      <td>Joe Satriani</td>
+      <td>Is There Love in Space?</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 67</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>2004-08</td>
+      <td>Clogs</td>
+      <td>Stick Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad8cafc6e1664dcdadcb34f1c6c740e3.png" alt="Cover for Real Illusions: Reflections" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-02-22</td>
+      <td>Steve Vai</td>
+      <td>Real Illusions: Reflections</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/kH3P-t-XKxIttfZkjNUSHnrOpRH3NNgs4oqmxTHr5E0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODM2/NTgtMTQ4NjI3NTA1/Ni01NzQ5LmpwZWc.jpeg" alt="Cover for Varia Suite" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Stemage</td>
+      <td>Varia Suite</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 55</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/kH3P-t-XKxIttfZkjNUSHnrOpRH3NNgs4oqmxTHr5E0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODM2/NTgtMTQ4NjI3NTA1/Ni01NzQ5LmpwZWc.jpeg" alt="Cover for Expansion Pack" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Stemage</td>
+      <td>Expansion Pack</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 58</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/faNwbfxok6pCdzv_gNu2wcrgA6dr0Ve1XFpASofobJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDc3/NzQwLTE1ODcwNzYw/NzQtMTIxMi5qcGVn.jpeg" alt="Cover for Shapeshifting" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Joe Satriani</td>
+      <td>Shapeshifting</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5de812059fb87dfd188eeec182b57d21.png" alt="Cover for Super Colossal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-03-14</td>
+      <td>Joe Satriani</td>
+      <td>Super Colossal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 71 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 72</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/iaShIGfOKRgLCPmRp34dHzyavWvo7gLqjc8XLXEQrz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk2/NDctMTIwMTU4MzMx/My5qcGVn.jpeg" alt="Cover for Get Out Of My Yard" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-07-26</td>
+      <td>Paul Gilbert</td>
+      <td>Get Out Of My Yard</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40a891405c92b34d2fda3712c1796dc0.png" alt="Cover for The Devil Knows My Name" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-04-03</td>
+      <td>John 5</td>
+      <td>The Devil Knows My Name</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td>2007-04-18</td>
+      <td>Blackstratblues</td>
+      <td>Nights In Shining Karma</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>2007-04</td>
+      <td>The Pirate Ship Quintet</td>
+      <td>The Pirate Ship Quintet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/242e29602408461d937ebdafb76c7cc1.png" alt="Cover for Entertainment System 64" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-09-12</td>
+      <td>Entertainment System</td>
+      <td>Entertainment System 64</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 71</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td>2007-10-30</td>
+      <td>Buckethead</td>
+      <td>Cyborg Slunks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td>2008-01-23</td>
+      <td>Paul Gilbert</td>
+      <td>Silence Followed By A Deafening Roar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cb28f932bcd4f31899c27b22c5f9dea.png" alt="Cover for Professor Satchafunkilus and the Musterion of Rock" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-03-28</td>
+      <td>Joe Satriani</td>
+      <td>Professor Satchafunkilus and the Musterion of Rock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 24</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 24</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f065cfe0608812ccf8d27fd46feb94f.png" alt="Cover for Little Wars" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-04-01</td>
+      <td>Unwed Sailor</td>
+      <td>Little Wars</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/rVNr5jS9VM7HGJiMFLhybV1_NyPNiY-mN-_DWjRO8YI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE3/NTctMTI5Njg1OTc4/Ny5qcGVn.jpeg" alt="Cover for Professor Satchafunkilus &amp; the Musterion of Rock" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-04-04</td>
+      <td>Joe Satriani</td>
+      <td>Professor Satchafunkilus &amp; the Musterion of Rock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/rVNr5jS9VM7HGJiMFLhybV1_NyPNiY-mN-_DWjRO8YI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE3/NTctMTI5Njg1OTc4/Ny5qcGVn.jpeg" alt="Cover for Professor Satchafunkilus &amp; The Musterion Of Rock" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-04-04</td>
+      <td>Joe Satriani</td>
+      <td>Professor Satchafunkilus &amp; The Musterion Of Rock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/nV3_ywMk2ppT1pcDyDWmJaRvsbvlxTL2AuglnGSGd_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg5/MTYtMTUzMjc4MTk3/Ni0xMzkxLmpwZWc.jpeg" alt="Cover for Station" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-05-06</td>
+      <td>Russian Circles</td>
+      <td>Station</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 59 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 45</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 64</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/pdO3uDMFkBSgT3GatHAuD8_2xdYMWF0vMrxJjYnJM-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTA3/NjgtMTYzNTc5Nzc4/OS05MDEyLmpwZWc.jpeg" alt="Cover for Out Standing In Their Field" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Steve Morse Band</td>
+      <td>Out Standing In Their Field</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/UVEIjimt1SBHFk_K2X1gPt-gzl3wNOswNGdAFGRncMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc5/ODIzLTE1MjM5OTUy/NzQtMjM5MS5qcGVn.jpeg" alt="Cover for Flower" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-07-01</td>
+      <td>GACKT</td>
+      <td>Flower</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/vx2jVT24ChFTLs_svq3liIQ66-mOodSkPv3jz2-d8LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODEz/OTMtMTI4NjQwNzk3/Ny5qcGVn.jpeg" alt="Cover for Black Swans &amp; Wormhole Wizards" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Joe Satriani</td>
+      <td>Black Swans &amp; Wormhole Wizards</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 51</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7032a3ca45274b0da39eed4699597ab2.png" alt="Cover for Fuzz Universe" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-06-30</td>
+      <td>Paul Gilbert</td>
+      <td>Fuzz Universe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ad997675fc74c6e902fab6dd17f4d20.png" alt="Cover for Black Swans and Wormhole Wizards" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-10-05</td>
+      <td>Joe Satriani</td>
+      <td>Black Swans and Wormhole Wizards</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>2010-10-21</td>
+      <td>nobody.one</td>
+      <td>Head Movies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td>2011-03-08</td>
+      <td>Grails</td>
+      <td>Deep Politics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td>2011-05-03</td>
+      <td>Booker T. Jones</td>
+      <td>The Road From Memphis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 82</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/KzGzI4Dww5laho_jQzdNLBjnJx67uyNE_wEOXvKQiBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDI3/NTgtMTQwMzA4OTM4/Ny05ODc1LmpwZWc.jpeg" alt="Cover for Brick City Ghosts" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-20</td>
+      <td>Riding Alone for Thousands of Miles</td>
+      <td>Brick City Ghosts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 83</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 84</li>
+            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 94</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td>2011-06-28</td>
+      <td>Evan brewer</td>
+      <td>Alone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 21</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2011-07-29</td>
+      <td>Brett Garsed</td>
+      <td>Dark Matter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18f7b37c2124296d530cd3f6a3b9f03d.png" alt="Cover for Vacation Wasteland" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Slime Girls</td>
+      <td>Vacation Wasteland</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf" | relative_url }}">surf</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 37</li>
+            <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>2012-05-08</td>
+      <td>John 5</td>
+      <td>God Told Me To</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee374c5531c14526b76ea76c202f81ec.png" alt="Cover for Unstoppable Momentum" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05-07</td>
+      <td>Joe Satriani</td>
+      <td>Unstoppable Momentum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>2013-07-26</td>
+      <td>Kirby&#39;s Dream Band</td>
+      <td>The Pink Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 28</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>2013-10-14</td>
+      <td>Exxasens</td>
+      <td>Satellites</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td>2013-10-15</td>
+      <td>Pelican</td>
+      <td>Forever Becoming</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>2014-07-01</td>
+      <td>Glen Porter</td>
+      <td>The Open Road and The Smell of Blood</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8442c105590b46ee3e30dec300bf64ca.png" alt="Cover for Shockwave Supernova" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Joe Satriani</td>
+      <td>Shockwave Supernova</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/fxPzjIz0sLL1tu7oQDcjulK3uCZOZuthd-OOApbbWfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTY5/NjgtMTQ1NzMxNTM4/NC03MjExLmpwZWc.jpeg" alt="Cover for Requiem" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-04</td>
+      <td>Thanatopsis</td>
+      <td>Requiem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 33</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e9a555a4372c946ca79dc3ae8a813ff.png" alt="Cover for Tres Caballeros" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-06-23</td>
+      <td>The Aristocrats</td>
+      <td>Tres Caballeros</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/oamHfW0TI6RXivhErokZkyYtSDhb49FkcJJl3nyFTS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDc4/ODgtMTQ2MTAxMzk0/My02NzkwLnBuZw.jpeg" alt="Cover for Legiao Urbana V" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Legião Urbana</td>
+      <td>Legiao Urbana V</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/rDj_pY_U6Ef4M0yPVwcbYw8DcUmcKQZlC57M8N5HTHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE3/ODYtMTQ3NzIzOTA0/OC0zNDA4LmpwZWc.jpeg" alt="Cover for Come to Mexico" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-10-21</td>
+      <td>TotorRo</td>
+      <td>Come to Mexico</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/SMMj6IUDhZqoayz8BY9egPHGK7-_rvpNVvKvnT5Wowo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/Nzg5LTE0OTc1NzAz/MDYtMzQ4OC5qcGVn.jpeg" alt="Cover for Balsams" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-23</td>
+      <td>Chuck Johnson</td>
+      <td>Balsams</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/z1eNmd63Y23nPvpeix12AWGtWJr56skmpgQSQ1R1Jc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTAx/MzEyLTE1MjgzMTYy/ODAtNTI1OC5qcGVn.jpeg" alt="Cover for Copper Wasp" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-01-18</td>
+      <td>Night Verses</td>
+      <td>Copper Wasp</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/rwZpNbD58mETYMUB3JWeSxzO-XcO1tJTS91atM7wYyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA0/NjY5LTE1NjU5MDEz/NzgtODQzMC5qcGVn.jpeg" alt="Cover for Unending" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-12-08</td>
+      <td>Cloudkicker</td>
+      <td>Unending</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>2020-03-20</td>
+      <td>G3</td>
+      <td>G3 Live: Rockin&#39; In The Free World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6eeade131218457098d3ce01735ac4b3.png" alt="Cover for Communique" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Dire Straits</td>
+      <td>Communique</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 14</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Jtc Guitar Hero Ballads</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/qSLBmc190aJfJTE9MKQGT-__ieStfaeEashj9-wafGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzI5/NzQtMTM1OTI0MjM4/OC04MjAxLmpwZWc.jpeg" alt="Cover for G3: Live in Concert" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>G3: Live in Concert</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/URIwNhKu4bDZnsrx58kYMPVxTMX9iUE27Tn8hm8PgAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg1/ODM1LTE1OTU4ODY2/OTQtMjU0OC5qcGVn.jpeg" alt="Cover for SEX &amp; RELIGION" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-02-23</td>
+      <td>Steve Vai</td>
+      <td>SEX &amp; RELIGION</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 79.01234567901234 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Bremer&#x2F;McCoy</td>
+      <td>Utopia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 83</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td></td>
+      <td>HEADLINK</td>
+      <td>Tairitsu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

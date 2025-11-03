@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T05:24:50.932Z
+date: 2025-11-02T20:53:38.732Z
 permalink: tags/tekno
 title: tekno
 ---
 
 ## tekno
 
-Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T20:53:38.732Z">Sun Nov 02 2025 22:53:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -134,7 +134,7 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/jYROpFzJPcWfOiRanJDHaHTJimFvURAXBA5H_HS5pXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM2/NDg3LTE2NDIyMTMy/MTUtOTQ2My5qcGVn.jpeg" alt="Cover for 127VA003" style="max-width:120px; height:auto;" />
       </td>
@@ -161,27 +161,6 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       <td>1988-10-05</td>
       <td>Win</td>
       <td>Analogica</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/l8MtbqUC0AlnycwEA2ByRmVKoBMi26ewSdMzYPdoFBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzU2/NTM1LTE2NTM1Mzc1/NTMtNTIyOC5qcGVn.jpeg" alt="Cover for HANGAR 11" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Ito</td>
-      <td>HANGAR 11</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a></li>
@@ -239,7 +218,7 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/poYi52bxZ6YMW2u3a9rhnaGSs4ojmKoMQqRMxP9H1GE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzcz/MC0xNDQ4NjQ3OTg3/LTM5NTIuanBlZw.jpeg" alt="Cover for SO006 Vinyl" style="max-width:120px; height:auto;" />
       </td>
@@ -621,7 +600,7 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/NHn_ZeWiud-HHGaPlrKqnSs4MlquPZr3D9YUz12shp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDUy/MjItMTQ4NzI2Mjk0/OC0yMTgzLmpwZWc.jpeg" alt="Cover for CC ATOM101" style="max-width:120px; height:auto;" />
       </td>
@@ -740,7 +719,7 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/pwzV0yw0CoYTklxqLYnd--vXuqvTfsdedeIPR56Mneo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTQw/NjAxLTE1ODE0OTY1/MzUtNjk3Ny5qcGVn.jpeg" alt="Cover for HANGAR 10" style="max-width:120px; height:auto;" />
       </td>
@@ -781,7 +760,7 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/fwNRffd1Ty42bqsYVWv9ofi3lnvf3OvRJyO8gwdiN5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEx/MjIzLTE1Njg4ODkx/MjMtNzI1My5qcGVn.jpeg" alt="Cover for HANGAR 10" style="max-width:120px; height:auto;" />
       </td>
@@ -803,7 +782,7 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/fwNRffd1Ty42bqsYVWv9ofi3lnvf3OvRJyO8gwdiN5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEx/MjIzLTE1Njg4ODkx/MjMtNzI1My5qcGVn.jpeg" alt="Cover for Cult 32" style="max-width:120px; height:auto;" />
       </td>
@@ -904,7 +883,7 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>11</td>
       <td>
       </td>
       <td>2020</td>
@@ -1049,7 +1028,7 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/TNy__L1XQc9Tkb3lYerr1o2uTG1GicbZvZK6KkEPl34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTAz/OTk5LTE3MDU0MDQ3/MjItNjY2Mi5qcGVn.jpeg" alt="Cover for 127VA003" style="max-width:120px; height:auto;" />
       </td>
@@ -1219,7 +1198,7 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/FsH49uOVQR_IFNYfGqj9jZYWawIzjwP3SH20Yq20gHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTA0/MDMxLTE2NTE2MjY2/NzktMTU0Ni5qcGVn.jpeg" alt="Cover for Cult 34" style="max-width:120px; height:auto;" />
       </td>
@@ -1406,7 +1385,7 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/crvCxLSLf8wfskNBeEGp1duUtCPgvwjrvKR9Io4X1P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTQ2/MzY5LTE3MTA4ODIw/MzctNjY1MC5qcGVn.jpeg" alt="Cover for anarchypnotica" style="max-width:120px; height:auto;" />
       </td>
@@ -1581,6 +1560,25 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Transki x Vergil</td>
+      <td>127VA003</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>5</td>
       <td>
       </td>
@@ -1627,27 +1625,6 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       <td>
       </td>
       <td></td>
-      <td>Indebraendt x Tadan</td>
-      <td>127VA002</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>
-      </td>
-      <td></td>
       <td>Tadan x V2</td>
       <td>127VA002</td>
       <td>
@@ -1669,6 +1646,27 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       <td>
       </td>
       <td></td>
+      <td>Indebraendt x Tadan</td>
+      <td>127VA002</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td></td>
       <td>Krunx x Tadan</td>
       <td>127VA002</td>
       <td>
@@ -1686,7 +1684,7 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -1711,14 +1709,10 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       <td>
       </td>
       <td></td>
-      <td>Candy Panda</td>
-      <td>Andro And Gigolo</td>
+      <td>Trifaze</td>
+      <td>trifaze</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a></li>
         </ul>
       </td>
@@ -1732,10 +1726,14 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       <td>
       </td>
       <td></td>
-      <td>Trifaze</td>
-      <td>trifaze</td>
+      <td>Candy Panda</td>
+      <td>Andro And Gigolo</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a></li>
         </ul>
       </td>
@@ -1766,7 +1764,7 @@ Last updated: <time datetime="2025-11-01T05:24:50.932Z">Sat Nov 01 2025 07:24:50
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>

@@ -9,6 +9,10 @@ title: northern soul
 
 Last updated: <time datetime="2025-11-02T06:37:51.014Z">Sun Nov 02 2025 08:37:51 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs, centered on obscure American soul and R&amp;B singles with driving, upbeat tempos. The scene prized undiscovered tracks over mainstream hits, creating a passionate collector culture around forgotten records. It combines athletic, acrobatic dancing with working-class British youth culture and devotion to authentic Black American soul music.
+
 ### 100 chronological releases
 
 <table>
