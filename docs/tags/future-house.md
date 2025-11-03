@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T08:04:55.311Z
+date: 2025-11-03T03:42:51.400Z
 permalink: tags/future-house
 title: future house
 ---
 
 ## future house
 
-Last updated: <time datetime="2025-10-30T08:04:55.311Z">Thu Oct 30 2025 10:04:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T03:42:51.400Z">Mon Nov 03 2025 05:42:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -1568,7 +1568,7 @@ Future house is a sleek electronic dance style that emerged in the mid-2010s, bl
       </td>
       <td></td>
       <td>Tyler Brooker</td>
-      <td>Elevation</td>
+      <td>Scrap God (Spicy Edition)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>

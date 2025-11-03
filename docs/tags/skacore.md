@@ -9,6 +9,10 @@ title: skacore
 
 Last updated: <time datetime="2025-11-01T18:32:50.997Z">Sat Nov 01 2025 20:32:50 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggressive speed and intensity of hardcore punk, creating a high-energy hybrid that emerged from underground scenes in the late 1980s and 1990s. The sound balances danceable ska grooves against raw punk aggression, often incorporating political lyrics and DIY ethics. This fusion appeals to fans seeking both the infectious energy of ska and the confrontational edge of hardcore.
+
 ### 100 chronological releases
 
 <table>
@@ -80,7 +84,7 @@ Last updated: <time datetime="2025-11-01T18:32:50.997Z">Sat Nov 01 2025 20:32:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 73</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 77</li>
             <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 90</li>
         </ul>
       </td>
@@ -136,7 +140,7 @@ Last updated: <time datetime="2025-11-01T18:32:50.997Z">Sat Nov 01 2025 20:32:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 55</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -174,7 +178,7 @@ Last updated: <time datetime="2025-11-01T18:32:50.997Z">Sat Nov 01 2025 20:32:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 28</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -193,7 +197,7 @@ Last updated: <time datetime="2025-11-01T18:32:50.997Z">Sat Nov 01 2025 20:32:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 36</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -211,7 +215,7 @@ Last updated: <time datetime="2025-11-01T18:32:50.997Z">Sat Nov 01 2025 20:32:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 78</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -231,8 +235,8 @@ Last updated: <time datetime="2025-11-01T18:32:50.997Z">Sat Nov 01 2025 20:32:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 87</li>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 95</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 86</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -304,8 +308,8 @@ Last updated: <time datetime="2025-11-01T18:32:50.997Z">Sat Nov 01 2025 20:32:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 84</li>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 94</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 70</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -512,7 +516,7 @@ Last updated: <time datetime="2025-11-01T18:32:50.997Z">Sat Nov 01 2025 20:32:50
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 75</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 82</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 88</li>
             <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 94</li>
         </ul>
       </td>
@@ -756,7 +760,7 @@ Last updated: <time datetime="2025-11-01T18:32:50.997Z">Sat Nov 01 2025 20:32:50
       <td>
         <ul>
             <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 37</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 69</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -901,7 +905,7 @@ Last updated: <time datetime="2025-11-01T18:32:50.997Z">Sat Nov 01 2025 20:32:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 43</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1065,7 +1069,7 @@ Last updated: <time datetime="2025-11-01T18:32:50.997Z">Sat Nov 01 2025 20:32:50
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 59</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 61</li>
         </ul>
       </td>
     </tr>

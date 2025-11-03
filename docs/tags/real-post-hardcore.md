@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T06:36:31.861Z
+date: 2025-11-03T03:40:50.984Z
 permalink: tags/real-post-hardcore
 title: real post-hardcore
 ---
 
 ## real post-hardcore
 
-Last updated: <time datetime="2025-10-28T06:36:31.861Z">Tue Oct 28 2025 08:36:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T03:40:50.984Z">Mon Nov 03 2025 05:40:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -70,7 +70,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/lAc48tjtbdjnRyBZfIN8d7Tt66F-v6Ux6JrtXnT3GJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg0/MDYtMTUyMTAzNzMz/OS05NDYxLmpwZWc.jpeg" alt="Cover for Lurch" style="max-width:120px; height:auto;" />
       </td>
@@ -91,7 +91,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ceb140828a7ac391087a719970d0c6a.png" alt="Cover for Strap It On" style="max-width:120px; height:auto;" />
       </td>
@@ -109,7 +109,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/QBesqCypio_yy6ba45eblGdLOO5nRB5dmwvcvVNX56w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzM2/OTEtMTI3Mzc1NzIw/Ni5qcGVn.jpeg" alt="Cover for La Vache Qui Rit" style="max-width:120px; height:auto;" />
       </td>
@@ -130,31 +130,13 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/146fc3f261ae4ba0951347156c0c14eb.png" alt="Cover for Repeater + 3 Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-01</td>
       <td>Fugazi</td>
       <td>Repeater + 3 Songs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0df2d18edd543db90a2f6c40dc8b02c.png" alt="Cover for Steady Diet of Nothing" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991-08-01</td>
-      <td>Fugazi</td>
-      <td>Steady Diet of Nothing</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
@@ -207,7 +189,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f94bc44cb67f5600e3f15c3229cb726.png" alt="Cover for Hephaestus" style="max-width:120px; height:auto;" />
       </td>
@@ -225,7 +207,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
       </td>
       <td>1993</td>
@@ -261,7 +243,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/261e5016c1c34b5daf71c7a2ad530f12.png" alt="Cover for In On the Kill Taker" style="max-width:120px; height:auto;" />
       </td>
@@ -279,7 +261,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
       </td>
       <td>1993-10-10</td>
@@ -296,7 +278,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/iFLy5fM78CQRDixDABIcWXZZ2R8CqEcPB02K3zTlJ_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDUw/My0xNTI2MTgxNzk5/LTM1MjIuanBlZw.jpeg" alt="Cover for Products And Accessories" style="max-width:120px; height:auto;" />
       </td>
@@ -373,7 +355,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>1994-01-18</td>
@@ -412,7 +394,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
       </td>
       <td>1994-04-26</td>
@@ -476,7 +458,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4eec737ddbc4294a6f62f85c54be645.png" alt="Cover for Cop and Speeder" style="max-width:120px; height:auto;" />
       </td>
@@ -497,7 +479,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2492d696efdf23f5403baa631d02df99.png" alt="Cover for Poetry of Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -552,7 +534,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>1995</td>
@@ -570,7 +552,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd32db5c949036c5ba530887754342c3.png" alt="Cover for Manic Compression" style="max-width:120px; height:auto;" />
       </td>
@@ -605,7 +587,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/ReiNespTaUsmNPYNgZjpURgOqHtCq4AHdakhJzvPDJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTM4/MzUtMTU0NjE2NjU4/NS0yNjcyLmpwZWc.jpeg" alt="Cover for Monuments to Excess" style="max-width:120px; height:auto;" />
       </td>
@@ -644,7 +626,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/ro7APiAZhRmnMgzgK75uPyURreEPECyP7E87OM7AzUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTgx/MC0xNTAyMTI3ODAz/LTE2NDMuanBlZw.jpeg" alt="Cover for Suplex" style="max-width:120px; height:auto;" />
       </td>
@@ -699,7 +681,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Ru-1Qw24u9wXQOf3s-8QCoWr9J8bLxFlgFBvfGX2Ugw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcx/MjgtMTQ5NTgzMjgx/Mi03MjQ1LnBuZw.jpeg" alt="Cover for The 3 Man Themes" style="max-width:120px; height:auto;" />
       </td>
@@ -737,7 +719,25 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>13</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03946f0aa34e33848b67b3bcda6dd42b.png" alt="Cover for All Destructive Urges... Seem So Perfect" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-05-07</td>
+      <td>Lowercase</td>
+      <td>All Destructive Urges... Seem So Perfect</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/V1RVrmFygelgDStdlhZK1K2eUPj5yEHhhT8gQYL2acg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTc1/NTQtMTM1NzcyNjEw/NC03OTQ4LnBuZw.jpeg" alt="Cover for Stealing From Our Favorite Thieves" style="max-width:120px; height:auto;" />
       </td>
@@ -826,7 +826,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be721635edcd4ad98e2052ba47b576ce.png" alt="Cover for Handsome" style="max-width:120px; height:auto;" />
       </td>
@@ -879,7 +879,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
       </td>
       <td>1997-07-01</td>
@@ -916,7 +916,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f855d663407d22c43141716bc2d709f.png" alt="Cover for Conglomerate International" style="max-width:120px; height:auto;" />
       </td>
@@ -934,7 +934,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28a151f2fdd5387896649f54e7f1d0ee.png" alt="Cover for Challenge for a Civilized Society" style="max-width:120px; height:auto;" />
       </td>
@@ -987,7 +987,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0da545aa4ceb4aeb888e2d684bee0a28.png" alt="Cover for Join Us" style="max-width:120px; height:auto;" />
       </td>
@@ -1025,7 +1025,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/DoXVmhU7jBUcii5MIP0VckTyECG8IdOTIpVGXC6zA-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjcz/NDctMTE5NzY3NDY5/OC5qcGVn.jpeg" alt="Cover for Fading Left To Completely On" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,7 +1043,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/qWgQ3N8qAABUsClJxg7nQD2m3Yer3rwFvuXSMNnMwq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIw/NDIzLTE1MDg0Mzg3/MzUtNDQxMC5qcGVn.jpeg" alt="Cover for Singles Breaking Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1062,7 +1062,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
       </td>
       <td>1999-01-12</td>
@@ -1113,7 +1113,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
       </td>
       <td>2000-06-19</td>
@@ -1169,7 +1169,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/97376bd037adf38c95b12a28b1fa5fa2.png" alt="Cover for Starless" style="max-width:120px; height:auto;" />
       </td>
@@ -1222,7 +1222,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/TIuiZm2LlXtGmiF0eJhcKp9n5M_TVd3D_1SQxW_wzRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTU4/NjMtMTMzOTkyNTk4/NC0zNTg2LmpwZWc.jpeg" alt="Cover for Kolya" style="max-width:120px; height:auto;" />
       </td>
@@ -1259,7 +1259,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
       </td>
       <td>2001-10-23</td>
@@ -1298,7 +1298,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f16006906ee0422c8353a1db911cba71.png" alt="Cover for Абориген (макси-сингл)" style="max-width:120px; height:auto;" />
       </td>
@@ -1317,7 +1317,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/pK1ef-gbBDJaEiGaveRfUTpyt02ijh-WYGMvwP0MSJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTMx/NDgtMTYwNDE2NDgx/OC00NzYxLmpwZWc.jpeg" alt="Cover for Our Success" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,7 +1354,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>2002-02-25</td>
@@ -1498,7 +1498,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/4pDJgqjj7fNeWzu55LGSq0cQUioWB-BN866MaRrngCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODk0/Mi0xNDg0MTE2MDI4/LTE5MzMuanBlZw.jpeg" alt="Cover for Gems of Masochism" style="max-width:120px; height:auto;" />
       </td>
@@ -1564,7 +1564,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/Jl50IwdAxha43vvUQM2kNXwlymyH8hIksVqPEMbkWOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzQ5/ODctMTMyNzg5OTUx/NC5naWY.jpeg" alt="Cover for The Plot Thickens" style="max-width:120px; height:auto;" />
       </td>
@@ -1666,7 +1666,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/C4Q9gK_27_FZ6innI1Pnb8lRBPOwav5LgvQ4e14d4Ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDM5/MTctMTYyMjU2NjEw/NS04OTI5LmpwZWc.jpeg" alt="Cover for More" style="max-width:120px; height:auto;" />
       </td>
@@ -1704,7 +1704,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/1_OM1B2umr71dtDFiDay0LquebYbbNQY9dje5NyHxi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjY1/NzQtMTMyNzU0OTg4/OS5qcGVn.jpeg" alt="Cover for Lost Generation" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,7 +1741,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
       </td>
       <td>2011-04-12</td>
@@ -1796,7 +1796,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/q5BrJBzlOUARjVF7QkYip6WtqEd4nMZnW2lYpS6rlxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODE4/MDYtMTM0NDE4MzA1/Ny02NzUxLmpwZWc.jpeg" alt="Cover for Under the Mistletoe" style="max-width:120px; height:auto;" />
       </td>
@@ -1834,7 +1834,7 @@ Real post-hardcore strips away melodic accessibility in favor of angular guitars
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
       </td>
       <td>2012-05-22</td>

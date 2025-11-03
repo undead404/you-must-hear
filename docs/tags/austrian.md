@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-25T13:55:55.030Z
+date: 2025-11-03T03:41:50.979Z
 permalink: tags/austrian
 title: austrian
 ---
 
 ## austrian
 
-Last updated: <time datetime="2025-10-25T13:55:55.030Z">Sat Oct 25 2025 16:55:55 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-03T03:41:50.979Z">Mon Nov 03 2025 05:41:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
   </thead>
   <tbody>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/o590-db0e_jxw26RBO0cA9MwCMkk7VggQpk9fzeP2KE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDIw/MC0xNDgzOTYzMDA4/LTkzNTguanBlZw.jpeg" alt="Cover for Arik Brauer" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,27 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/k0INihYQ6f8u_7N6R7h3C5FIQcTDLv-77eWFzV_qxvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTM5/ODgtMTQ3NzQwODU4/NC0zMzg2LmpwZWc.jpeg" alt="Cover for Jö schau - seine größten Erfolge" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975</td>
+      <td>Georg Danzer</td>
+      <td>Jö schau - seine größten Erfolge</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austropop" | relative_url }}">austropop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/austropop" | relative_url }}">austropop</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
       <td>
       </td>
       <td>1975</td>
@@ -67,7 +87,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/rw_W3MJBt1bhGMUfWweNpwNr_tDNtWmf6patWpOQiW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQy/NTYzLTE2NDk2OTY2/NTgtMjE5NS5qcGVn.jpeg" alt="Cover for Heurige Und Gestrige Lieder" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +105,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/5wupMJ-4Ihdfw0sjxC9lpDQl9CpP4HVgRE24uLglt5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDI0/ODUtMTM5ODE5MDAx/My05NTY0LmpwZWc.jpeg" alt="Cover for Reif für die Insel" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +126,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>1981</td>
@@ -125,7 +145,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/dWRSM4RVhY_guJTZsb8fPsS54yZ_hLGjpmEKkXxcgjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDk5/NTktMTQwOTQ2ODM2/Mi0yOTYxLmpwZWc.jpeg" alt="Cover for Zwischen Eins Und Vier" style="max-width:120px; height:auto;" />
       </td>
@@ -145,7 +165,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/nzPIdUiOlDH7XZyETlw3p5TgdItwGXDZh38wJNqRvm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Nzgy/MS0xMTcxMTY1MTA5/LmpwZWc.jpeg" alt="Cover for Einzelhaft 25th Anniversary Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -185,7 +205,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/1z4QmxBkOpBnfRa2gVUEnBnWMAqCe29tNV9grHwRnA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTE2/NDYtMTQ4MTQ5MzEx/OS05NjE1LmpwZWc.jpeg" alt="Cover for Aber bitte mit Sahne (CD 1)" style="max-width:120px; height:auto;" />
       </td>
@@ -204,7 +224,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>1984</td>
@@ -240,7 +260,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/yj4-XN8LPDFocDS_t4eHw0cAGiimh4zbGNYL_DoQk-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDA1/NDUtMTY0ODgyMzEy/NC02MDAxLmpwZWc.jpeg" alt="Cover for Wien Bei Nacht" style="max-width:120px; height:auto;" />
       </td>
@@ -322,7 +342,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/AL9d7p5x5TGrigVPLEDUNKLsw9ZlHjgQ1GagP_o6XYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzQ4/Ny0xNTAxMjYzODkx/LTU2NTEuanBlZw.jpeg" alt="Cover for Exquisite" style="max-width:120px; height:auto;" />
       </td>
@@ -384,7 +404,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>1987</td>
@@ -403,7 +423,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>1987</td>
@@ -422,7 +442,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Super Number Ones" style="max-width:120px; height:auto;" />
       </td>
@@ -440,7 +460,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Der Tanz des Tatzelwurms" style="max-width:120px; height:auto;" />
       </td>
@@ -479,7 +499,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/stQ8Md2HlUkaMvZ3-FEJLV5-GbsvL4HVye8yNAO37e4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTE0/OTQtMTYwMTU0NTky/NS05Njg3LmpwZWc.jpeg" alt="Cover for Das Konzert" style="max-width:120px; height:auto;" />
       </td>
@@ -499,7 +519,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>1989-08-15</td>
@@ -518,7 +538,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/X2LgkJrsaLU7aN_-BuE1x82RzF46ZVgc8yT2we50nPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTk1/NS0xMjgwMzk5MzEx/LmpwZWc.jpeg" alt="Cover for Von Zeit zu Zeit" style="max-width:120px; height:auto;" />
       </td>
@@ -539,7 +559,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/OkI-I4bI2OEPVrd77oiIcrLuvEIu3mUbm03yVXIloQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTI3/MC0xNDQyNjczNDIw/LTQ5NTMuanBlZw.jpeg" alt="Cover for Data de Groove" style="max-width:120px; height:auto;" />
       </td>
@@ -558,7 +578,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/MgOSFjfOzmmGNwTXlgJnaZYSLDnLB72Ozbo-Jzzqraw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA3/NDktMTI1NDY2MjY3/NS5qcGVn.jpeg" alt="Cover for Most" style="max-width:120px; height:auto;" />
       </td>
@@ -579,7 +599,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/CULpttPme2QILaBfvUQPUjezev8C012KXGiPPaVPNhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTQ2/NC0xNDIzNjY3MDY2/LTEyOTYuanBlZw.jpeg" alt="Cover for The Remix Hit Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -601,7 +621,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>1992-09-14</td>
@@ -637,7 +657,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
       </td>
       <td>1992-11-10</td>
@@ -656,7 +676,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/mYbuDlg1kQ1rXvu9vJuaVKeBo2dMJLH5IyXuWqe8yv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzM2/Ny0xNTg4MTYyNzky/LTU2MzYuanBlZw.jpeg" alt="Cover for Luft" style="max-width:120px; height:auto;" />
       </td>
@@ -680,7 +700,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/aYah5whKky6VdH31yyfoVDroBoVWBv3Uw1G3xOYPHvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTI1/NjEtMTQ2NjM0ODA3/Ny0zMzY0LmpwZWc.jpeg" alt="Cover for Brüder" style="max-width:120px; height:auto;" />
       </td>
@@ -721,7 +741,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/zYUxVBech2hYmEDDrl_H6VBdngIP1vLg7_B2PYR740s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDY3/ODItMTU5MTg3OTM3/My0zNzk2LmpwZWc.jpeg" alt="Cover for Amore XL" style="max-width:120px; height:auto;" />
       </td>
@@ -739,7 +759,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80fe27aa1f29483f85537f1f65621c70.png" alt="Cover for Die grössten Hits aus 15 Jahren" style="max-width:120px; height:auto;" />
       </td>
@@ -759,7 +779,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>1994</td>
@@ -775,7 +795,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/Px_Y0CExIqXVZ60ZVqKm51LG8Mw5JEWEOJ-W5eoh0mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODQx/NjUtMTU1ODg2Mzg0/NS04MjM1LmpwZWc.jpeg" alt="Cover for Die Größten Hits aus 25 Jahren" style="max-width:120px; height:auto;" />
       </td>
@@ -813,7 +833,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>1996-08-06</td>
@@ -834,7 +854,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>1997</td>
@@ -852,7 +872,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/O-sgWqdbk6RYbVVbUBDwFNfmgD1t2BOo3burWx0dJog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzA2/NS0xMTQ5NjA1Mjk0/LmpwZWc.jpeg" alt="Cover for Song" style="max-width:120px; height:auto;" />
       </td>
@@ -872,7 +892,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>1998</td>
@@ -891,7 +911,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/MuT3tB1I9MIQztL2HJEuT1zuddN4n912g6_3FdKf01A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk0/NTMtMTQyMzI0NTY3/NS03MDU2LmpwZWc.jpeg" alt="Cover for The Very Best - Tribute &#39;98" style="max-width:120px; height:auto;" />
       </td>
@@ -951,7 +971,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/R5vBV2ETzdG0ssEby1-_xuACtSzbt9Ojkls1UOAL3LA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTEy/MzYtMTU4Njc5NDkw/NS0zMzMyLmpwZWc.jpeg" alt="Cover for Aber bitte mit Sahne - Jubiläumsedition" style="max-width:120px; height:auto;" />
       </td>
@@ -971,7 +991,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/r4LFa9UJeiXo-3qxe9YQjkUZXE5kuS4RKlDSJAJgmkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTUy/OTAtMTIyODA2NDA5/OC5qcGVn.jpeg" alt="Cover for Out of the Dark (Into the Light) [2012 - Remaster]" style="max-width:120px; height:auto;" />
       </td>
@@ -1050,7 +1070,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>1998-06-29</td>
@@ -1069,7 +1089,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/c-AVDYpSPyQYTkTDcPEq6x45q22F5vqJof9Sna35t5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODUz/NjI0LTE1NjI2MDQ0/MjItODg0OS5qcGVn.jpeg" alt="Cover for ...und immer wieder geht die Sunn&#39; auf" style="max-width:120px; height:auto;" />
       </td>
@@ -1089,7 +1109,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td>2000</td>
@@ -1108,7 +1128,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>2000</td>
@@ -1125,7 +1145,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/MteCJPkcbcjh3t_C0fzDeqUW7_zWjGY1kvRxys2_8Ww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjU3/Ni0xMTM4NjYzMjYy/LmpwZWc.jpeg" alt="Cover for Tragic Years - A Collection Of Early Releases &amp; More" style="max-width:120px; height:auto;" />
       </td>
@@ -1148,7 +1168,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/B6t9buIjUddiulR6awvzeRsnCh6PzIuoqt-_moqQq_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDE4/ODYtMTQ3MTExMTE4/Ny01MTIyLmpwZWc.jpeg" alt="Cover for Alarmstufe Rot" style="max-width:120px; height:auto;" />
       </td>
@@ -1168,7 +1188,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2000-11-06</td>
@@ -1184,7 +1204,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/2W_g8FoZhIpGjvDzJb7-Ypu51kfoA6xcIF5leYhHrDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzIw/NjQtMTM1NzYzMTg3/MS05NjQ1LmpwZWc.jpeg" alt="Cover for Raritäten" style="max-width:120px; height:auto;" />
       </td>
@@ -1204,7 +1224,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2001-02-01</td>
@@ -1223,7 +1243,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2001-03-05</td>
@@ -1261,7 +1281,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/hLJmeX6B6CDtBb5cMtO-PMT42JpV5AMDVfS-EQMFpKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTEy/OTE5LTE1MDY0MjE3/OTktMzc1OS5qcGVn.jpeg" alt="Cover for Mach dir deine Welt, wie sie dir gefällt" style="max-width:120px; height:auto;" />
       </td>
@@ -1278,7 +1298,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2003-10-13</td>
@@ -1295,7 +1315,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>2004-02-09</td>
@@ -1312,7 +1332,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/ySVIatrJo7KVt7VvjwxfyD5VLAwmvirQELOi-OK07fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDk0/NS0xMzY3NTkxNDE0/LTExNDkuanBlZw.jpeg" alt="Cover for Falco 60" style="max-width:120px; height:auto;" />
       </td>
@@ -1333,7 +1353,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/OZRh0ma0yeiVrMEZe5g6h9YlNMzzzagmke1oJnsmamk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDY4/NDktMTM1MjEwMzEz/My03MDE1LmpwZWc.jpeg" alt="Cover for So weit so gut - die größten Hits aus 25 Jahren" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,7 +1392,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2005-10-14</td>
@@ -1419,7 +1439,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/eKA6f8GKPFajWgGhKVLiS8eVm4RatdL0R3qYNkFg3Zs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA5/ODQtMTE5NzQ3Njky/NC5qcGVn.jpeg" alt="Cover for paroli" style="max-width:120px; height:auto;" />
       </td>
@@ -1455,7 +1475,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/zYUxVBech2hYmEDDrl_H6VBdngIP1vLg7_B2PYR740s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDY3/ODItMTU5MTg3OTM3/My0zNzk2LmpwZWc.jpeg" alt="Cover for A La Carte" style="max-width:120px; height:auto;" />
       </td>
@@ -1474,7 +1494,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/zYUxVBech2hYmEDDrl_H6VBdngIP1vLg7_B2PYR740s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDY3/ODItMTU5MTg3OTM3/My0zNzk2LmpwZWc.jpeg" alt="Cover for Spitalo Fatalo" style="max-width:120px; height:auto;" />
       </td>
@@ -1513,7 +1533,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/xsLuhBammYrlw-8Y3PTxAWKgKkFNWkuCTeaXVJL9Wg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzM1/NzktMTI2MjQ3MDQz/MS5qcGVn.jpeg" alt="Cover for We Are Jealous. We Are Glass." style="max-width:120px; height:auto;" />
       </td>
@@ -1531,7 +1551,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/tpdFolbpbyx7DjbOj7R6VonzYxi8tHS5tn8y7IbgPA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTAx/MzQtMTI2NjYxODcx/My5qcGVn.jpeg" alt="Cover for Lovetune for Vacuum" style="max-width:120px; height:auto;" />
       </td>
@@ -1551,7 +1571,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
       </td>
       <td>2009-08-07</td>
@@ -1570,7 +1590,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/ld8DR8fvdkgeFBO_dwizF03UujBHV3e2nPlqGK3MBzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTky/MDUxLTE1NTYwMjUw/ODEtMTQ2Ni5qcGVn.jpeg" alt="Cover for Neue Helden braucht das Land" style="max-width:120px; height:auto;" />
       </td>
@@ -1591,7 +1611,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d05bd4459323463daff4f973fdbbef12.png" alt="Cover for Blindside" style="max-width:120px; height:auto;" />
       </td>
@@ -1629,7 +1649,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/3elBQpbZd11BxrXJ5GisLNFguhwTGOiz1ycEt2G_afs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDE1/MDMtMTQ3NTQ5NjQ5/NS04MTc4LmpwZWc.jpeg" alt="Cover for Grundlsee" style="max-width:120px; height:auto;" />
       </td>
@@ -1639,25 +1659,6 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
-      <td>
-      </td>
-      <td>2012-03-16</td>
-      <td>Parov Stelar</td>
-      <td>Jimmy&#39;s Gang EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -1683,13 +1684,13 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 24</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 26</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/ikHXCy1l8GcojCaHVgVN92xP1xV5i4gZXjYmcwEL1Vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzk2/NjgtMTQzOTI4MTQ0/OC03MjQ3LmpwZWc.jpeg" alt="Cover for Kirsch" style="max-width:120px; height:auto;" />
       </td>
@@ -1725,7 +1726,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/_b3DzADA-CPSCqS_CjE0_YmPNg2nMgDVfWNn0PWEXaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTg0/OTEtMTUzNDI1MzY0/Ni02MjM4LmpwZWc.jpeg" alt="Cover for Old Routes - New Waters" style="max-width:120px; height:auto;" />
       </td>
@@ -1748,7 +1749,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/eXdAWgLZxuHx21rjjh2bJxj68XJp3L6gFm8orNTjuQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjkz/NjY0LTE2NDU3NTE2/MjItMzcyOC5wbmc.jpeg" alt="Cover for Sun Sun Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1768,7 +1769,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/NgiwWBfeZIh3j3YkXggFRMob1IYjXwu2JV34ItxVuz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIy/NDAyLTE1NjQxNDI4/NjEtNzQ5NC5qcGVn.jpeg" alt="Cover for As Years Go By" style="max-width:120px; height:auto;" />
       </td>
@@ -1809,7 +1810,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/ld8DR8fvdkgeFBO_dwizF03UujBHV3e2nPlqGK3MBzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTky/MDUxLTE1NTYwMjUw/ODEtMTQ2Ni5qcGVn.jpeg" alt="Cover for Im Himmel ist die Hölle los" style="max-width:120px; height:auto;" />
       </td>
@@ -1832,7 +1833,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/I3FqxxNeWtezT9Q2Z1IHJoJHZGMFTq5ydp3ivC2FzU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU5/MTM2LTE2MTE2NTg3/NzctNzE1MS5qcGVn.jpeg" alt="Cover for Nie Wieder Kunst" style="max-width:120px; height:auto;" />
       </td>
@@ -1850,7 +1851,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/F4CR1f5NceUp9qadK5mN_KP1z3Rn2Rm4wP6-SeypQvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjQ3/MS0xMzYzNTU2MDIw/LTM3MzYuanBlZw.jpeg" alt="Cover for JNG RMR 2 (Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,7 +1896,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/nCqYrOlf717JXndXuREXS59giOAFQa8zCAAvxW6GGhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTY4/MzcwLTE2MTQxODU5/MzktNjk4Ny5qcGVn.jpeg" alt="Cover for Es ist die Zeit" style="max-width:120px; height:auto;" />
       </td>
@@ -1913,7 +1914,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/OIso2Rtnu6uhFqZTYwZBQetgA7G-75aZ6NtwtTTOY5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQz/Mjc2LTE1MTI1OTMy/MzYtNjQ1MS5wbmc.jpeg" alt="Cover for Glimpse" style="max-width:120px; height:auto;" />
       </td>
@@ -1972,7 +1973,7 @@ Austrian music blends Alpine folk traditions with contemporary pop, rock, and el
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>

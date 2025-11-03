@@ -9,110 +9,1984 @@ title: progressive ambient
 
 Last updated: <time datetime="2025-10-22T00:50:12.580Z">Wed Oct 22 2025 03:50:12 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Progressive ambient blends the patient, atmospheric qualities of ambient music with evolving structures that gradually shift in texture, melody, and mood over extended periods. Rather than remaining static, these soundscapes subtly transform through layered synthesizers, field recordings, and organic tones that reward deep listening. The style emerged from experimental electronic traditions, creating immersive sonic environments that balance meditative stillness with gentle forward motion.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 1 |  |  | Sleepaholics | Bits and Pieces (Remixed) |
-| 7 | ![Cover](https://i.discogs.com/rWkwR25a_TL9pP84b04AlwOcF1xa9IT6Bn8ekemgtoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/ODMtMTUzNzUzNzgz/Ni0xMjE1LmpwZWc.jpeg) | 1983 | Hiroshi Yoshimura | Quiet Forest |
-| 53 | ![Cover](https://i.discogs.com/rWkwR25a_TL9pP84b04AlwOcF1xa9IT6Bn8ekemgtoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/ODMtMTUzNzUzNzgz/Ni0xMjE1LmpwZWc.jpeg) | 1983 | Hiroshi Yoshimura | Pier &amp; Loft |
-| 100 |  | 1986 | Hiroshi Yoshimura | Green |
-| 18 | ![Cover](https://i.discogs.com/nhIM_HZkv1BdQq9Gc2008ybTHGh-ckwGm9G_VCi9Hto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTQ2/MS0xMTYwNjA0ODAx/LmpwZWc.jpeg) | 1991 | The Legendary Pink Dots | Five Days |
-| 57 |  | 1995 | Jon Anderson | Angels Embrace |
-| 89 | ![Cover](https://i.discogs.com/eX1gbHRr7pw7roofVxkzHN94M4HucZqAP82KOGfo9XM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzIw/OC0xMjcwODg2MDYz/LmpwZWc.jpeg) | 1996 | David Helpling | Between Green and Blue |
-| 45 | ![Cover](https://i.discogs.com/aG76eB2xIhOz-VFt4q-IitJf-qo2MnA4N2b2Ympjcmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTMx/MjEtMTM5MjY5OTE0/Ni04NzUwLmpwZWc.jpeg) | 1997-07-29 | Jonn Serrie | Upon a Midnight Clear |
-| 40 | ![Cover](https://i.discogs.com/Gc8BYPEY6z082tmgOuTJQbHYqJyf3EsgS_HQEtO5_MA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDE2/MC0xMzEwOTE0OTQ4/LmpwZWc.jpeg) | 1998 | Zen-Men | Alphawavez |
-| 70 |  | 1998 | Susumu Yokota | Image 1983 - 1998 |
-| 37 | ![Cover](https://i.discogs.com/JD0XXIZVycZ7gP7r0TDiV-WDuI3bdlCAEZkkxwJPO_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI4/MS0xNjI2MTU3NjA0/LTEyMzMuanBlZw.jpeg) | 2000-02 | Susumu Yokota | Classic and Unreleased Works 1995 |
-| 91 | ![Cover](https://i.discogs.com/89nGmRFDaWU8fwSis3AM77fYNH_0UzUooCpW4RozJV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODAz/MS0xMjg5MzUxMjY0/LmpwZWc.jpeg) | 2001 | Thom Brennan | Vibrant Water |
-| 80 | ![Cover](https://i.discogs.com/2iL9onIJF82VlunrjfRWXlEr5gnSe4CGJIIO9aFAmHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MzYx/LTE2NzE4MDUxNTEt/OTYxMC5qcGVn.jpeg) | 2001-06 | Susumu Yokota | Skintone Collection |
-| 86 | ![Cover](https://i.discogs.com/1N8iHUxH6plv6_MWAXYPqebTEEq3uyQr6l5we7oEsgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjkx/OTU3LTE1NzY4MDUy/NTQtODY0NS5qcGVn.jpeg) | 2003 | Susumu Yokota | Cloud Hidden |
-| 56 | ![Cover](https://i.discogs.com/fJFNo73EsPYHV5V3OP0LxPOiZewvpo0_4QR7JYKKB68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODU5/My0xMTIyODk3Mzgw/LmpwZw.jpeg) | 2003-08-07 | Crashed by Car | Fiction And Fires EP |
-| 31 |  | 2004 | ART OF INFINITY | Dimension Universe |
-| 46 |  | 2004-03 | Abakus | Indu |
-| 88 |  | 2004-12 | Darshan Ambient | Autumn&#39;s Apple |
-| 85 |  | 2005 | Jonn Serrie | Sunday Morning Peace |
-| 34 | ![Cover](https://i.discogs.com/VnRphhjL57Z95ZPizsnMleQXpGMx7eebKQPjCsD_Jlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzE0/NzUtMTI1MzI3ODA4/NS5qcGVn.jpeg) | 2005-05-27 | Alexander Blu | Moderato |
-| 74 |  | 2005-10-31 | Susumu Yokota &amp; Rothko | Distant Sounds of Summer |
-| 69 |  | 2006-02-13 | Elve | Infinite garden |
-| 79 |  | 2006-03-22 | Susumu Yokota | Wonder Waltz |
-| 20 |  | 2006-10-23 | Bass Communion vs. Muslimgauze | bcvsmgcd |
-| 77 | ![Cover](https://i.discogs.com/5uJeTvg35mnflmPJRjmuN_gMbMqgtNQ49ea-FqUS5ZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI1/NzAtMTI5Nzk2ODc5/Mi5qcGVn.jpeg) | 2007-01-25 | Brian Eno | Apollo: Atmospheres &amp; Soundtracks (with Daniel Lanois &amp; Roger Eno) |
-| 52 | ![Cover](https://i.discogs.com/EOS3r1o7dopix6k-7WeGAeduCAzNk8xxoj2H6OBeeek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY3/NDgtMTIyMDM3ODAx/MS5qcGVn.jpeg) | 2007-05-24 | Phillip Wilkerson | Amorphous Worlds |
-| 62 | ![Cover](https://i.discogs.com/i58brdyEM71TsU2sWPXX3aAUAjeEztfF7kQ3ktFVBPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ0/NTktMTE5Mzk5NTQ0/NC5qcGVn.jpeg) | 2007-10 | Crisopa | addSensor009_Medicamentosa |
-| 81 | ![Cover](https://i.discogs.com/Fd5RCh6MlGmAzFIZ7fpON8InCnSlIOsl0qLjUH9qRWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTk3/NTYtMTU0NzczMTgx/Ny03MzU0LmpwZWc.jpeg) | 2008-01 | Kiln | Thermals: Sonic-Carousels, Tonesheets, Loopstrata, And Slo-Wave Microsymphonies 1993-2000 |
-| 83 | ![Cover](https://i.discogs.com/-oj5qZhS9XJaLoCoLguxKt5XZLU1BMu4RCC_-mldGPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ4/ODUtMTIxOTE4MjY2/Ni5qcGVn.jpeg) | 2008-07-01 | ISHQ | Timelapse In Mercury |
-| 92 |  | 2008-11-07 | Abakus | We Share the Same Dreams |
-| 84 |  | 2009 | Jonn Serrie | Thousand Star |
-| 98 | ![Cover](https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg) | 2009 | Various Artists | Kankyō Ongaku: Japanese Ambient, Environmental &amp; New Age Music 1980-1990 |
-| 78 |  | 2009-02-16 | Susumu Yokota | Mother |
-| 23 | ![Cover](https://i.discogs.com/DWQRU8mFA1PdeSrq6fAlPFbjnQL8tjs8eLdKeI0pwc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDEz/ODc5LTE2MTExMzgz/ODYtNjkzNC5qcGVn.jpeg) | 2009-03-01 | Carl Sagan&#39;s Ghost | Behind Clouds |
-| 82 | ![Cover](https://i.discogs.com/w5-BrNniOpi-9uO1fswmvcTq3Uev8R6tHnsPv3BRXUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM1/NDkzLTE1NjAwMjQ2/MjctMjE1Ny5qcGVn.jpeg) | 2009-03-10 | Chris Zabriskie | I Am A Man Who Will Fight For Your Honor |
-| 64 |  | 2009-03-21 | Orange Crush | Autumn Reflections |
-| 48 | ![Cover](https://i.discogs.com/q4iyifjWL_oK6HbGfI2wJsZRmqp2Wk6GBAElEly2zbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA5/MDgtMTIzOTEyMTEw/My5qcGVn.jpeg) | 2009-04 | Abakus | The Jaguar EP |
-| 58 |  | 2009-06-03 | Project Divinity | Triosphere |
-| 16 | ![Cover](https://i.discogs.com/4-J1QkmrU3_rwjv5ViDVDP64gHBatbPmHBOnlPk_0sY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzgy/MTAtMTI0OTYzMzM0/NC5qcGVn.jpeg) | 2009-08 | Carl Sagan&#39;s Ghost | Darkness And The Light |
-| 39 |  | 2009-12-04 | Carl Sagan&#39;s Ghost | At The End Of It All |
-| 11 | ![Cover](https://i.discogs.com/c08IA8EBBCe7YFy5nJOFgqEnHvxxs9M94-aNRNqtcnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTA2/MDMtMTI2MzQ1MTQx/My5qcGVn.jpeg) | 2010-01-12 | Carl Sagan&#39;s Ghost | Colonial Spa EP |
-| 47 | ![Cover](https://i.discogs.com/oqCQ6zoA-e2tgJ80_93UXHRyD9EGVJQ3AEgu1NMhxhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjEx/ODMtMTI3Njc2ODc1/OC5qcGVn.jpeg) | 2010-04-28 | Crisopa | [escala 1:6] Last Membrane |
-| 72 | ![Cover](https://i.discogs.com/kSdR4moidfdP6zUmQcSa40lD-b11udhCIFn0-SXXkOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODY4/ODItMTI4Mzc5NDg1/NC5qcGVn.jpeg) | 2010-07-30 | Elve | Emerald |
-| 68 | ![Cover](https://i.discogs.com/9Jk48RBqHjlEj8GqqvBxV8j57CHUh5lE3V4twpPvhOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTEz/NTUtMTQ4MzA2OTQx/MS0yOTM4LmpwZWc.jpeg) | 2011-03-28 | Hatchback | Zeus &amp; Apollo |
-| 29 | ![Cover](https://i.discogs.com/HKAqU1dguqYbedTFqfVDM9ctNzNg9NqHBf2bypGqgoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODE4/NDMtMTMxMDMyNDMx/OC5qcGVn.jpeg) | 2011-07 | Freiband | Headwind &#x2F; Tailwind - Single |
-| 94 |  | 2012-01-27 | Chris Zabriskie | Undercover Vampire Policeman |
-| 66 | ![Cover](https://i.discogs.com/U_F_IF6y5GWoYUaDBZlMkpajt3ARN0AcOYgnjxUlf7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDk2/MDAtMTMzMDgyMDIz/Mi5qcGVn.jpeg) | 2012-03-03 | ISHQ | Deep Space Objects |
-| 60 |  | 2012-06-17 | Chris Zabriskie | Reappear |
-| 54 | ![Cover](https://i.discogs.com/eESRdd-vyvtkaZAkEgS-z0oqPyvpUB6-6Qw_ZYCq92E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzgyLTE1MzQ5Nzcw/MTEtODc0Ni5qcGVn.jpeg) | 2015-12-31 | Ryan Taubert | Anomaly (Original Motion Picture Soundtrack) |
-| 65 | ![Cover](https://i.discogs.com/2oxob74vkcAOKmbcxE8yYWrwVRunQrd6VaDwD5hSZGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjcw/NTgtMTQ1OTQzMDIy/NS02OTQ5LmpwZWc.jpeg) | 2016-03-31 | One Arc Degree | The Ocean Palace |
-| 55 | ![Cover](https://i.discogs.com/kMqqCv8qlFm7P7vtGy635BlcdHyj0h9pobjevkGQk6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzU4LTE1MzQ5NzY0/NzAtMzczNS5qcGVn.jpeg) | 2017-12-04 | Ryan Taubert | Fable |
-| 2 | ![Cover](https://i.discogs.com/lZ2BJZKcpAeCqpfFDsGpDMRUz0nghDc3OwyRpAVIqRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY4/MDQzLTE1ODg5NDU5/MDYtNDEzMS5qcGVn.jpeg) | 2022-05-01 | øjeRum | Fraværsminder |
-| 3 |  |  | Bob Ohrum | Subliminal Listening |
-| 36 | ![Cover](https://i.discogs.com/saNNq95RIJGZXJaf9Hr_4dux9tnvc2ddk-nDGxFoKDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTEy/ODUtMTI5MDEwNDA5/Mi5qcGVn.jpeg) | 2010-11-17 | Andrew Lahiff | Ambient Pieces Vol. 1 |
-| 44 |  |  | 坂本龍一 | Comica |
-| 61 |  |  | Twelve Titans Music | Reflection |
-| 19 | ![Cover](https://i.discogs.com/zQokh-J_0EIzUOLnOgD6wMn_ThHwZq1ST6l_ovvWwOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTk3/OTAtMTQxMDgzMDg2/NC0yNTQwLmpwZWc.jpeg) | 2011 | Tunguska Electronic Music Society | Tunguska Chillout Grooves Vol. 7 |
-| 21 | ![Cover](https://i.discogs.com/V_nsyOt92VH7bujmW1OEV9_t9zic5QYb1SjPebQuCPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODky/OTU2LTE2NTc4OTQ1/MzEtNjg1Mi5qcGVn.jpeg) | 2011 | 1605munro | AUSTRAL |
-| 22 | ![Cover](https://i.discogs.com/zQokh-J_0EIzUOLnOgD6wMn_ThHwZq1ST6l_ovvWwOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTk3/OTAtMTQxMDgzMDg2/NC0yNTQwLmpwZWc.jpeg) | 2011 | Tunguska Electronic Music Society | Tunguska Chillout Grooves vol. 4 |
-| 26 | ![Cover](https://i.discogs.com/rPyMHCc1Y2uJHJ2-Q7OGPFnht9OSkeU76wG1FRD9ACo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTkw/NTctMTMwOTE4NjYz/Ny5qcGVn.jpeg) | 2011-06-21 | Waterplea | Dream Catcher |
-| 42 | ![Cover](https://i.discogs.com/gMkDBH70JxMpDM3XoU1n5FzIP0FEJeE-KbWCdtef9ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTkz/NzEtMTMzMTIxMDkw/Ny5qcGVn.jpeg) | 2011-08-03 | Project Divinity | Not Alone In Kyoto |
-| 49 | ![Cover](https://i.discogs.com/MrqlXfLKim6SJb39jRww_Crqk0sTNaWc9Xsacq1MnjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDQ3/NTUtMTMzNDY3MzQx/Ni5qcGVn.jpeg) | 2011-11-08 | Justin Vanderberg | Synthetic Memories |
-| 33 | ![Cover](https://i.discogs.com/derSKV-Hb1w6YevnwQKB2zGgl8kV60f2uodu5pCFfC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTM0/MTcxLTE2NDM0MTkw/MTMtNDU0My5qcGVn.jpeg) | 2012 | Varios Artistas | Kankyō Ongaku: Japanese Ambient, Environmental &amp; New Age Music 1980-1990 |
-| 43 |  | 2013 | David Helpling &amp; Jon Jenkins | Found |
-| 12 | ![Cover](https://i.discogs.com/BMBJnLuqR3_I1r-9gd29wo8xGli-g0Et9mjiNaj8c9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjM3/OTc1LTE3MTUzMTI5/MjQtNjI3NS5qcGVn.jpeg) | 2013-06-23 | Paper Sailboat | In Blackout Cities |
-| 27 | ![Cover](https://i.discogs.com/MDMxf2cSioCyITkhE4OjLJQH6wTgwJO4WoiTWEuz5q8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjYw/Nzg1LTE1NzA5NTE0/MjEtNTg1OC5qcGVn.jpeg) | 2015-01-10 | ISHQ | Natural Born Chillers |
-| 6 | ![Cover](https://i.discogs.com/gWCbDYoGQlVXf4vRn5Cn81WNPN5WrCzdxLb1-WsY5Qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzUy/ODMtMTQ0MTQ2NDEz/MS05Mjg2LmpwZWc.jpeg) | 2015-09-05 | Miktek | Ambient Network III |
-| 35 | ![Cover](https://i.discogs.com/_MNfcMSVEfEOIDWus4jvTeSD-2pGbQvlQJTFsbCPhBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NjUxLTE1ODI3Nzg2/NDUtMTcyNy5qcGVn.jpeg) | 2016 | Hiroshi Yoshimura | Four Post Cards |
-| 41 | ![Cover](https://i.discogs.com/0FECp4iBrnabwC2OP2cAxw-acPUgQ-TVVF82xLuCowg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTY2/MS0xNTkxMDE1NzMx/LTk2OTkuanBlZw.jpeg) | 2016 | Hiroshi Yoshimura | A・I・R (Air In Resort) |
-| 30 | ![Cover](https://i.discogs.com/2ntbzcVw5O-VBIp3_VvTqyWwrD2SF5lcx_GTmtFqtGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDk5/MzgtMTQ1OTg3OTQ0/OS05ODc4LmpwZWc.jpeg) | 2016-03-30 | ISHQ | Sunflower |
-| 4 | ![Cover](https://i.discogs.com/UT3ZWFsXZr9BSFlJOvKjI4aBY4q6lRs2q98ipFWPTko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTY3/NjMzLTE1MTExMDc1/NTUtNTE4Ny5qcGVn.jpeg) | 2016-08-23 | Slow Dancing Society | The Wagers of Love and Their Songs from the Witching Hour |
-| 63 | ![Cover](https://i.discogs.com/pD2dZfzOiTET59OCY7ub0ewxC5pC3akexjhpwU_evVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzA5LTE1MzQ5NzU0/MTAtODg5Mi5qcGVn.jpeg) | 2017-04-21 | Ryan Taubert | Score: A Film Music Documentary (Original Soundtrack) |
-| 24 | ![Cover](https://i.discogs.com/kMqqCv8qlFm7P7vtGy635BlcdHyj0h9pobjevkGQk6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzU4LTE1MzQ5NzY0/NzAtMzczNS5qcGVn.jpeg) | 2017-12-04 | Ryan Taubert | Fool |
-| 32 | ![Cover](https://i.discogs.com/kMqqCv8qlFm7P7vtGy635BlcdHyj0h9pobjevkGQk6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzU4LTE1MzQ5NzY0/NzAtMzczNS5qcGVn.jpeg) | 2017-12-04 | Ryan Taubert | Legacy |
-| 15 | ![Cover](https://i.discogs.com/M3hmbLf7oGiw7yCwrd5PMGKPZ6def3FQ0XKFsumHcQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk3/MzI1LTE1MzgzMTM0/MTEtNjUwMC5qcGVn.jpeg) | 2018-09-28 | Hatchback | Year Of The Dragon |
-| 17 | ![Cover](https://i.discogs.com/DMydDznLF0UDY6rdiwPBAvCjF4M--5pSIy7x7f-kBqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mzg3/NTctMTYyOTAzMTQ5/MC0yMzgxLmpwZWc.jpeg) | 2019 | Hiroshi Yoshimura | Soft Wave for Automatic Music Box |
-| 14 | ![Cover](https://i.discogs.com/hRo1pfXSsUJyiV7XDVLzIvMym34MAXIumMJOcILscug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkw/MDE3LTE1NjMzOTY1/NTUtNzg1Ni5qcGVn.jpeg) | 2019-07-12 | øjeRum | Forgotten Works |
-| 28 | ![Cover](https://i.discogs.com/pMOs5lF6glMSUdjrOZSrxlkn9oJOdOZwRL6y-fSgUww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY2/Njk2LTE2MzAwNzU4/NjQtMjM0NC5qcGVn.jpeg) | 2019-07-12 | øjeRum | Selected Organ Works |
-| 50 |  |  | 坂本龍一 | 12 |
-| 67 |  |  | Twelve Titans Music | Ascend the Starless Sky |
-| 71 |  | 2012-10-04 | Slow Dancing Society | Laterna Magica |
-| 73 |  |  | Twelve Titans Music | Satellite |
-| 75 |  |  | Sleepaholics | Adrift |
-| 90 |  | 2010-10-04 | Susumu Yokota | Kaleidoscope |
-| 87 | ![Cover](https://i.discogs.com/kMqqCv8qlFm7P7vtGy635BlcdHyj0h9pobjevkGQk6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzU4LTE1MzQ5NzY0/NzAtMzczNS5qcGVn.jpeg) | 2017-12-04 | Ryan Taubert | LUX |
-| 93 |  |  | Sleepaholics | Bits and Pieces |
-| 96 |  |  | Emily A. Sprague | Mount Vision |
-| 97 | ![Cover](https://i.discogs.com/MaBjdo-_iColJ5hdSzEtFVtnty9flgDX_lRDpFzUhTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjI5/MjMtMTQ4MDI5NzU4/MS03Mjk0LmpwZWc.jpeg) | 2016-12-12 | Yagya | Stars and Dust |
-| 99 |  |  | Emily A. Sprague | Water Memory |
-| 51 | ![Cover](https://i.discogs.com/B3N5jzy2A-fn6uxP7CFDvwS8XmhYotR9BN48Ivdd2ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYy/NDcyLTE1MjU1NjI5/NDUtNzMwNS5qcGVn.jpeg) | 2018 | Cool Maritime | Climbing Up |
-| 76 | ![Cover](https://i.discogs.com/B3N5jzy2A-fn6uxP7CFDvwS8XmhYotR9BN48Ivdd2ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYy/NDcyLTE1MjU1NjI5/NDUtNzMwNS5qcGVn.jpeg) | 2018 | Cool Maritime | Sharing Waves |
-| 13 | ![Cover](https://i.discogs.com/j9eDoPzGyn9hepsyGhFGI-vVxATPKyj15Bp96QFZ0bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjIx/Mjg1LTE2MTIyNTg1/MjMtNjE2My5qcGVn.jpeg) | 2020 | Slow Dancing Society | IV. Ballads for the Boudoir |
-| 25 | ![Cover](https://i.discogs.com/sBaFpOeacwXyqHM94E8No0yC8GMhi-d8aWMwFtByXGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEy/Njg1LTE1ODIwOTE1/NDMtOTgyMS5qcGVn.jpeg) | 2020 | ISHQ | Albedo |
-| 9 | ![Cover](https://i.discogs.com/sC8RxQz_s2Kpyx-af-qdrAu1MSbeqiYGDUGc8wc76Sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/NjE5LTE0OTc1NjU0/ODUtMjYzNi5qcGVn.jpeg) | 2020-01-12 | øjeRum | he remembers there were gardens |
-| 8 | ![Cover](https://i.discogs.com/W2HZBGxG-QkQPrUAkjc4tbHTLY8Ywl3-onVBPzcblPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAy/NTA4LTE1ODUzNTg1/MDQtODA1OC5qcGVn.jpeg) | 2020-03-20 | Slow Dancing Society | Garland |
-| 10 | ![Cover](https://i.discogs.com/W2HZBGxG-QkQPrUAkjc4tbHTLY8Ywl3-onVBPzcblPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAy/NTA4LTE1ODUzNTg1/MDQtODA1OC5qcGVn.jpeg) | 2020-03-27 | Slow Dancing Society | Failing Light |
-| 5 | ![Cover](https://i.discogs.com/-RgTvNTaPBOsPTxMK6VGrQlrZfEfnMc5uGwrJIvaXDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzEw/NzY3LTE1OTYzNzQx/NzAtMjcwNy5qcGVn.jpeg) | 2020-07-03 | øjeRum | Selected Percussive Works 1998 - 2001 Vol. I |
-| 38 | ![Cover](https://i.discogs.com/15FFsBxuuP8JjD-vK2CWd39GvGTVU0zgS3YmloXDgm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzg4/MTc0LTE2Mzk3NzI5/NDktODUzMy5qcGVn.jpeg) | 2021-12-17 | Wojciech Golczewski | Inert |
-| 59 | ![Cover](https://i.discogs.com/gLsgknl1HBMf4M5oyEVwZmP9G-D18PgYwml-UTghGU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjE2/MDYzLTE2Nzg4MTIz/NTUtNzczNS5qcGVn.jpeg) | 2022 | Wojciech Golczewski | MonoLogs |
-| 95 | ![Cover](https://i.discogs.com/8nju0D145I4hIInNhph10IDzdASrVqb9GneNa7BvokI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjkz/MDcyLTE2NjEyODUy/MTktOTQyNy5qcGVn.jpeg) | 2022-08-21 | ISHQ | Sonic Incense, Volume 1 |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/rWkwR25a_TL9pP84b04AlwOcF1xa9IT6Bn8ekemgtoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/ODMtMTUzNzUzNzgz/Ni0xMjE1LmpwZWc.jpeg" alt="Cover for Quiet Forest" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Hiroshi Yoshimura</td>
+      <td>Quiet Forest</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/rWkwR25a_TL9pP84b04AlwOcF1xa9IT6Bn8ekemgtoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/ODMtMTUzNzUzNzgz/Ni0xMjE1LmpwZWc.jpeg" alt="Cover for Pier &amp; Loft" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Hiroshi Yoshimura</td>
+      <td>Pier &amp; Loft</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>1986</td>
+      <td>Hiroshi Yoshimura</td>
+      <td>Green</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/nhIM_HZkv1BdQq9Gc2008ybTHGh-ckwGm9G_VCi9Hto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTQ2/MS0xMTYwNjA0ODAx/LmpwZWc.jpeg" alt="Cover for Five Days" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>The Legendary Pink Dots</td>
+      <td>Five Days</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Jon Anderson</td>
+      <td>Angels Embrace</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/eX1gbHRr7pw7roofVxkzHN94M4HucZqAP82KOGfo9XM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzIw/OC0xMjcwODg2MDYz/LmpwZWc.jpeg" alt="Cover for Between Green and Blue" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>David Helpling</td>
+      <td>Between Green and Blue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/aG76eB2xIhOz-VFt4q-IitJf-qo2MnA4N2b2Ympjcmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTMx/MjEtMTM5MjY5OTE0/Ni04NzUwLmpwZWc.jpeg" alt="Cover for Upon a Midnight Clear" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-07-29</td>
+      <td>Jonn Serrie</td>
+      <td>Upon a Midnight Clear</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/Gc8BYPEY6z082tmgOuTJQbHYqJyf3EsgS_HQEtO5_MA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDE2/MC0xMzEwOTE0OTQ4/LmpwZWc.jpeg" alt="Cover for Alphawavez" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Zen-Men</td>
+      <td>Alphawavez</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Susumu Yokota</td>
+      <td>Image 1983 - 1998</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/JD0XXIZVycZ7gP7r0TDiV-WDuI3bdlCAEZkkxwJPO_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI4/MS0xNjI2MTU3NjA0/LTEyMzMuanBlZw.jpeg" alt="Cover for Classic and Unreleased Works 1995" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-02</td>
+      <td>Susumu Yokota</td>
+      <td>Classic and Unreleased Works 1995</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/89nGmRFDaWU8fwSis3AM77fYNH_0UzUooCpW4RozJV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODAz/MS0xMjg5MzUxMjY0/LmpwZWc.jpeg" alt="Cover for Vibrant Water" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Thom Brennan</td>
+      <td>Vibrant Water</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/2iL9onIJF82VlunrjfRWXlEr5gnSe4CGJIIO9aFAmHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MzYx/LTE2NzE4MDUxNTEt/OTYxMC5qcGVn.jpeg" alt="Cover for Skintone Collection" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-06</td>
+      <td>Susumu Yokota</td>
+      <td>Skintone Collection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/1N8iHUxH6plv6_MWAXYPqebTEEq3uyQr6l5we7oEsgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjkx/OTU3LTE1NzY4MDUy/NTQtODY0NS5qcGVn.jpeg" alt="Cover for Cloud Hidden" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Susumu Yokota</td>
+      <td>Cloud Hidden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/fJFNo73EsPYHV5V3OP0LxPOiZewvpo0_4QR7JYKKB68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODU5/My0xMTIyODk3Mzgw/LmpwZw.jpeg" alt="Cover for Fiction And Fires EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-08-07</td>
+      <td>Crashed by Car</td>
+      <td>Fiction And Fires EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>ART OF INFINITY</td>
+      <td>Dimension Universe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td>2004-03</td>
+      <td>Abakus</td>
+      <td>Indu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>2004-12</td>
+      <td>Darshan Ambient</td>
+      <td>Autumn&#39;s Apple</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Jonn Serrie</td>
+      <td>Sunday Morning Peace</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/VnRphhjL57Z95ZPizsnMleQXpGMx7eebKQPjCsD_Jlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzE0/NzUtMTI1MzI3ODA4/NS5qcGVn.jpeg" alt="Cover for Moderato" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-05-27</td>
+      <td>Alexander Blu</td>
+      <td>Moderato</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>2005-10-31</td>
+      <td>Susumu Yokota &amp; Rothko</td>
+      <td>Distant Sounds of Summer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>2006-02-13</td>
+      <td>Elve</td>
+      <td>Infinite garden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>2006-03-22</td>
+      <td>Susumu Yokota</td>
+      <td>Wonder Waltz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>2006-10-23</td>
+      <td>Bass Communion vs. Muslimgauze</td>
+      <td>bcvsmgcd</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/5uJeTvg35mnflmPJRjmuN_gMbMqgtNQ49ea-FqUS5ZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI1/NzAtMTI5Nzk2ODc5/Mi5qcGVn.jpeg" alt="Cover for Apollo: Atmospheres &amp; Soundtracks (with Daniel Lanois &amp; Roger Eno)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-01-25</td>
+      <td>Brian Eno</td>
+      <td>Apollo: Atmospheres &amp; Soundtracks (with Daniel Lanois &amp; Roger Eno)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/EOS3r1o7dopix6k-7WeGAeduCAzNk8xxoj2H6OBeeek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY3/NDgtMTIyMDM3ODAx/MS5qcGVn.jpeg" alt="Cover for Amorphous Worlds" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-05-24</td>
+      <td>Phillip Wilkerson</td>
+      <td>Amorphous Worlds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/i58brdyEM71TsU2sWPXX3aAUAjeEztfF7kQ3ktFVBPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ0/NTktMTE5Mzk5NTQ0/NC5qcGVn.jpeg" alt="Cover for addSensor009_Medicamentosa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-10</td>
+      <td>Crisopa</td>
+      <td>addSensor009_Medicamentosa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/Fd5RCh6MlGmAzFIZ7fpON8InCnSlIOsl0qLjUH9qRWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTk3/NTYtMTU0NzczMTgx/Ny03MzU0LmpwZWc.jpeg" alt="Cover for Thermals: Sonic-Carousels, Tonesheets, Loopstrata, And Slo-Wave Microsymphonies 1993-2000" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-01</td>
+      <td>Kiln</td>
+      <td>Thermals: Sonic-Carousels, Tonesheets, Loopstrata, And Slo-Wave Microsymphonies 1993-2000</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/-oj5qZhS9XJaLoCoLguxKt5XZLU1BMu4RCC_-mldGPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ4/ODUtMTIxOTE4MjY2/Ni5qcGVn.jpeg" alt="Cover for Timelapse In Mercury" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-07-01</td>
+      <td>ISHQ</td>
+      <td>Timelapse In Mercury</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 48</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>2008-11-07</td>
+      <td>Abakus</td>
+      <td>We Share the Same Dreams</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Jonn Serrie</td>
+      <td>Thousand Star</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Kankyō Ongaku: Japanese Ambient, Environmental &amp; New Age Music 1980-1990" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>Kankyō Ongaku: Japanese Ambient, Environmental &amp; New Age Music 1980-1990</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2009-02-16</td>
+      <td>Susumu Yokota</td>
+      <td>Mother</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/DWQRU8mFA1PdeSrq6fAlPFbjnQL8tjs8eLdKeI0pwc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDEz/ODc5LTE2MTExMzgz/ODYtNjkzNC5qcGVn.jpeg" alt="Cover for Behind Clouds" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-03-01</td>
+      <td>Carl Sagan&#39;s Ghost</td>
+      <td>Behind Clouds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/w5-BrNniOpi-9uO1fswmvcTq3Uev8R6tHnsPv3BRXUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM1/NDkzLTE1NjAwMjQ2/MjctMjE1Ny5qcGVn.jpeg" alt="Cover for I Am A Man Who Will Fight For Your Honor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-03-10</td>
+      <td>Chris Zabriskie</td>
+      <td>I Am A Man Who Will Fight For Your Honor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>2009-03-21</td>
+      <td>Orange Crush</td>
+      <td>Autumn Reflections</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/q4iyifjWL_oK6HbGfI2wJsZRmqp2Wk6GBAElEly2zbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA5/MDgtMTIzOTEyMTEw/My5qcGVn.jpeg" alt="Cover for The Jaguar EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-04</td>
+      <td>Abakus</td>
+      <td>The Jaguar EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td>2009-06-03</td>
+      <td>Project Divinity</td>
+      <td>Triosphere</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finland" | relative_url }}">finland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 38</li>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/4-J1QkmrU3_rwjv5ViDVDP64gHBatbPmHBOnlPk_0sY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzgy/MTAtMTI0OTYzMzM0/NC5qcGVn.jpeg" alt="Cover for Darkness And The Light" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-08</td>
+      <td>Carl Sagan&#39;s Ghost</td>
+      <td>Darkness And The Light</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>2009-12-04</td>
+      <td>Carl Sagan&#39;s Ghost</td>
+      <td>At The End Of It All</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/c08IA8EBBCe7YFy5nJOFgqEnHvxxs9M94-aNRNqtcnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTA2/MDMtMTI2MzQ1MTQx/My5qcGVn.jpeg" alt="Cover for Colonial Spa EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-01-12</td>
+      <td>Carl Sagan&#39;s Ghost</td>
+      <td>Colonial Spa EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/oqCQ6zoA-e2tgJ80_93UXHRyD9EGVJQ3AEgu1NMhxhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjEx/ODMtMTI3Njc2ODc1/OC5qcGVn.jpeg" alt="Cover for [escala 1:6] Last Membrane" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-04-28</td>
+      <td>Crisopa</td>
+      <td>[escala 1:6] Last Membrane</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/kSdR4moidfdP6zUmQcSa40lD-b11udhCIFn0-SXXkOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODY4/ODItMTI4Mzc5NDg1/NC5qcGVn.jpeg" alt="Cover for Emerald" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-07-30</td>
+      <td>Elve</td>
+      <td>Emerald</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>2010-10-04</td>
+      <td>Susumu Yokota</td>
+      <td>Kaleidoscope</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/saNNq95RIJGZXJaf9Hr_4dux9tnvc2ddk-nDGxFoKDQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTEy/ODUtMTI5MDEwNDA5/Mi5qcGVn.jpeg" alt="Cover for Ambient Pieces Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-11-17</td>
+      <td>Andrew Lahiff</td>
+      <td>Ambient Pieces Vol. 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/zQokh-J_0EIzUOLnOgD6wMn_ThHwZq1ST6l_ovvWwOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTk3/OTAtMTQxMDgzMDg2/NC0yNTQwLmpwZWc.jpeg" alt="Cover for Tunguska Chillout Grooves Vol. 7" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Tunguska Electronic Music Society</td>
+      <td>Tunguska Chillout Grooves Vol. 7</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/V_nsyOt92VH7bujmW1OEV9_t9zic5QYb1SjPebQuCPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODky/OTU2LTE2NTc4OTQ1/MzEtNjg1Mi5qcGVn.jpeg" alt="Cover for AUSTRAL" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>1605munro</td>
+      <td>AUSTRAL</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/zQokh-J_0EIzUOLnOgD6wMn_ThHwZq1ST6l_ovvWwOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTk3/OTAtMTQxMDgzMDg2/NC0yNTQwLmpwZWc.jpeg" alt="Cover for Tunguska Chillout Grooves vol. 4" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Tunguska Electronic Music Society</td>
+      <td>Tunguska Chillout Grooves vol. 4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/9Jk48RBqHjlEj8GqqvBxV8j57CHUh5lE3V4twpPvhOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTEz/NTUtMTQ4MzA2OTQx/MS0yOTM4LmpwZWc.jpeg" alt="Cover for Zeus &amp; Apollo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-03-28</td>
+      <td>Hatchback</td>
+      <td>Zeus &amp; Apollo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/rPyMHCc1Y2uJHJ2-Q7OGPFnht9OSkeU76wG1FRD9ACo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTkw/NTctMTMwOTE4NjYz/Ny5qcGVn.jpeg" alt="Cover for Dream Catcher" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-06-21</td>
+      <td>Waterplea</td>
+      <td>Dream Catcher</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/HKAqU1dguqYbedTFqfVDM9ctNzNg9NqHBf2bypGqgoY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODE4/NDMtMTMxMDMyNDMx/OC5qcGVn.jpeg" alt="Cover for Headwind &#x2F; Tailwind - Single" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-07</td>
+      <td>Freiband</td>
+      <td>Headwind &#x2F; Tailwind - Single</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/gMkDBH70JxMpDM3XoU1n5FzIP0FEJeE-KbWCdtef9ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTkz/NzEtMTMzMTIxMDkw/Ny5qcGVn.jpeg" alt="Cover for Not Alone In Kyoto" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-08-03</td>
+      <td>Project Divinity</td>
+      <td>Not Alone In Kyoto</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finland" | relative_url }}">finland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 13</li>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/MrqlXfLKim6SJb39jRww_Crqk0sTNaWc9Xsacq1MnjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDQ3/NTUtMTMzNDY3MzQx/Ni5qcGVn.jpeg" alt="Cover for Synthetic Memories" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-11-08</td>
+      <td>Justin Vanderberg</td>
+      <td>Synthetic Memories</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/derSKV-Hb1w6YevnwQKB2zGgl8kV60f2uodu5pCFfC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTM0/MTcxLTE2NDM0MTkw/MTMtNDU0My5qcGVn.jpeg" alt="Cover for Kankyō Ongaku: Japanese Ambient, Environmental &amp; New Age Music 1980-1990" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Varios Artistas</td>
+      <td>Kankyō Ongaku: Japanese Ambient, Environmental &amp; New Age Music 1980-1990</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>2012-01-27</td>
+      <td>Chris Zabriskie</td>
+      <td>Undercover Vampire Policeman</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/U_F_IF6y5GWoYUaDBZlMkpajt3ARN0AcOYgnjxUlf7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDk2/MDAtMTMzMDgyMDIz/Mi5qcGVn.jpeg" alt="Cover for Deep Space Objects" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-03-03</td>
+      <td>ISHQ</td>
+      <td>Deep Space Objects</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 15</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>2012-06-17</td>
+      <td>Chris Zabriskie</td>
+      <td>Reappear</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td>2012-10-04</td>
+      <td>Slow Dancing Society</td>
+      <td>Laterna Magica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>2013</td>
+      <td>David Helpling &amp; Jon Jenkins</td>
+      <td>Found</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/BMBJnLuqR3_I1r-9gd29wo8xGli-g0Et9mjiNaj8c9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjM3/OTc1LTE3MTUzMTI5/MjQtNjI3NS5qcGVn.jpeg" alt="Cover for In Blackout Cities" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-06-23</td>
+      <td>Paper Sailboat</td>
+      <td>In Blackout Cities</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/MDMxf2cSioCyITkhE4OjLJQH6wTgwJO4WoiTWEuz5q8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjYw/Nzg1LTE1NzA5NTE0/MjEtNTg1OC5qcGVn.jpeg" alt="Cover for Natural Born Chillers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-01-10</td>
+      <td>ISHQ</td>
+      <td>Natural Born Chillers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/gWCbDYoGQlVXf4vRn5Cn81WNPN5WrCzdxLb1-WsY5Qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzUy/ODMtMTQ0MTQ2NDEz/MS05Mjg2LmpwZWc.jpeg" alt="Cover for Ambient Network III" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-09-05</td>
+      <td>Miktek</td>
+      <td>Ambient Network III</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/eESRdd-vyvtkaZAkEgS-z0oqPyvpUB6-6Qw_ZYCq92E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzgyLTE1MzQ5Nzcw/MTEtODc0Ni5qcGVn.jpeg" alt="Cover for Anomaly (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-12-31</td>
+      <td>Ryan Taubert</td>
+      <td>Anomaly (Original Motion Picture Soundtrack)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/_MNfcMSVEfEOIDWus4jvTeSD-2pGbQvlQJTFsbCPhBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ5/NjUxLTE1ODI3Nzg2/NDUtMTcyNy5qcGVn.jpeg" alt="Cover for Four Post Cards" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Hiroshi Yoshimura</td>
+      <td>Four Post Cards</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/0FECp4iBrnabwC2OP2cAxw-acPUgQ-TVVF82xLuCowg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTY2/MS0xNTkxMDE1NzMx/LTk2OTkuanBlZw.jpeg" alt="Cover for A・I・R (Air In Resort)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016</td>
+      <td>Hiroshi Yoshimura</td>
+      <td>A・I・R (Air In Resort)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/2ntbzcVw5O-VBIp3_VvTqyWwrD2SF5lcx_GTmtFqtGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDk5/MzgtMTQ1OTg3OTQ0/OS05ODc4LmpwZWc.jpeg" alt="Cover for Sunflower" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-03-30</td>
+      <td>ISHQ</td>
+      <td>Sunflower</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/2oxob74vkcAOKmbcxE8yYWrwVRunQrd6VaDwD5hSZGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjcw/NTgtMTQ1OTQzMDIy/NS02OTQ5LmpwZWc.jpeg" alt="Cover for The Ocean Palace" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-03-31</td>
+      <td>One Arc Degree</td>
+      <td>The Ocean Palace</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/UT3ZWFsXZr9BSFlJOvKjI4aBY4q6lRs2q98ipFWPTko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTY3/NjMzLTE1MTExMDc1/NTUtNTE4Ny5qcGVn.jpeg" alt="Cover for The Wagers of Love and Their Songs from the Witching Hour" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-08-23</td>
+      <td>Slow Dancing Society</td>
+      <td>The Wagers of Love and Their Songs from the Witching Hour</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/MaBjdo-_iColJ5hdSzEtFVtnty9flgDX_lRDpFzUhTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjI5/MjMtMTQ4MDI5NzU4/MS03Mjk0LmpwZWc.jpeg" alt="Cover for Stars and Dust" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-12-12</td>
+      <td>Yagya</td>
+      <td>Stars and Dust</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/pD2dZfzOiTET59OCY7ub0ewxC5pC3akexjhpwU_evVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzA5LTE1MzQ5NzU0/MTAtODg5Mi5qcGVn.jpeg" alt="Cover for Score: A Film Music Documentary (Original Soundtrack)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-04-21</td>
+      <td>Ryan Taubert</td>
+      <td>Score: A Film Music Documentary (Original Soundtrack)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/kMqqCv8qlFm7P7vtGy635BlcdHyj0h9pobjevkGQk6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzU4LTE1MzQ5NzY0/NzAtMzczNS5qcGVn.jpeg" alt="Cover for Fool" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-12-04</td>
+      <td>Ryan Taubert</td>
+      <td>Fool</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/kMqqCv8qlFm7P7vtGy635BlcdHyj0h9pobjevkGQk6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzU4LTE1MzQ5NzY0/NzAtMzczNS5qcGVn.jpeg" alt="Cover for Legacy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-12-04</td>
+      <td>Ryan Taubert</td>
+      <td>Legacy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/kMqqCv8qlFm7P7vtGy635BlcdHyj0h9pobjevkGQk6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzU4LTE1MzQ5NzY0/NzAtMzczNS5qcGVn.jpeg" alt="Cover for Fable" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-12-04</td>
+      <td>Ryan Taubert</td>
+      <td>Fable</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/kMqqCv8qlFm7P7vtGy635BlcdHyj0h9pobjevkGQk6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIy/NzU4LTE1MzQ5NzY0/NzAtMzczNS5qcGVn.jpeg" alt="Cover for LUX" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-12-04</td>
+      <td>Ryan Taubert</td>
+      <td>LUX</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/B3N5jzy2A-fn6uxP7CFDvwS8XmhYotR9BN48Ivdd2ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYy/NDcyLTE1MjU1NjI5/NDUtNzMwNS5qcGVn.jpeg" alt="Cover for Climbing Up" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Cool Maritime</td>
+      <td>Climbing Up</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/B3N5jzy2A-fn6uxP7CFDvwS8XmhYotR9BN48Ivdd2ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYy/NDcyLTE1MjU1NjI5/NDUtNzMwNS5qcGVn.jpeg" alt="Cover for Sharing Waves" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Cool Maritime</td>
+      <td>Sharing Waves</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/M3hmbLf7oGiw7yCwrd5PMGKPZ6def3FQ0XKFsumHcQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk3/MzI1LTE1MzgzMTM0/MTEtNjUwMC5qcGVn.jpeg" alt="Cover for Year Of The Dragon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-09-28</td>
+      <td>Hatchback</td>
+      <td>Year Of The Dragon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/DMydDznLF0UDY6rdiwPBAvCjF4M--5pSIy7x7f-kBqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mzg3/NTctMTYyOTAzMTQ5/MC0yMzgxLmpwZWc.jpeg" alt="Cover for Soft Wave for Automatic Music Box" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>Hiroshi Yoshimura</td>
+      <td>Soft Wave for Automatic Music Box</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/hRo1pfXSsUJyiV7XDVLzIvMym34MAXIumMJOcILscug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkw/MDE3LTE1NjMzOTY1/NTUtNzg1Ni5qcGVn.jpeg" alt="Cover for Forgotten Works" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-07-12</td>
+      <td>øjeRum</td>
+      <td>Forgotten Works</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 10</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/pMOs5lF6glMSUdjrOZSrxlkn9oJOdOZwRL6y-fSgUww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY2/Njk2LTE2MzAwNzU4/NjQtMjM0NC5qcGVn.jpeg" alt="Cover for Selected Organ Works" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-07-12</td>
+      <td>øjeRum</td>
+      <td>Selected Organ Works</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 29</li>
+            <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 29</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/j9eDoPzGyn9hepsyGhFGI-vVxATPKyj15Bp96QFZ0bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjIx/Mjg1LTE2MTIyNTg1/MjMtNjE2My5qcGVn.jpeg" alt="Cover for IV. Ballads for the Boudoir" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020</td>
+      <td>Slow Dancing Society</td>
+      <td>IV. Ballads for the Boudoir</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/sBaFpOeacwXyqHM94E8No0yC8GMhi-d8aWMwFtByXGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEy/Njg1LTE1ODIwOTE1/NDMtOTgyMS5qcGVn.jpeg" alt="Cover for Albedo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020</td>
+      <td>ISHQ</td>
+      <td>Albedo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/sC8RxQz_s2Kpyx-af-qdrAu1MSbeqiYGDUGc8wc76Sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/NjE5LTE0OTc1NjU0/ODUtMjYzNi5qcGVn.jpeg" alt="Cover for he remembers there were gardens" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-01-12</td>
+      <td>øjeRum</td>
+      <td>he remembers there were gardens</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 4</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/W2HZBGxG-QkQPrUAkjc4tbHTLY8Ywl3-onVBPzcblPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAy/NTA4LTE1ODUzNTg1/MDQtODA1OC5qcGVn.jpeg" alt="Cover for Garland" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-20</td>
+      <td>Slow Dancing Society</td>
+      <td>Garland</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/W2HZBGxG-QkQPrUAkjc4tbHTLY8Ywl3-onVBPzcblPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAy/NTA4LTE1ODUzNTg1/MDQtODA1OC5qcGVn.jpeg" alt="Cover for Failing Light" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-27</td>
+      <td>Slow Dancing Society</td>
+      <td>Failing Light</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/-RgTvNTaPBOsPTxMK6VGrQlrZfEfnMc5uGwrJIvaXDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzEw/NzY3LTE1OTYzNzQx/NzAtMjcwNy5qcGVn.jpeg" alt="Cover for Selected Percussive Works 1998 - 2001 Vol. I" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-07-03</td>
+      <td>øjeRum</td>
+      <td>Selected Percussive Works 1998 - 2001 Vol. I</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/15FFsBxuuP8JjD-vK2CWd39GvGTVU0zgS3YmloXDgm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzg4/MTc0LTE2Mzk3NzI5/NDktODUzMy5qcGVn.jpeg" alt="Cover for Inert" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-12-17</td>
+      <td>Wojciech Golczewski</td>
+      <td>Inert</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/gLsgknl1HBMf4M5oyEVwZmP9G-D18PgYwml-UTghGU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjE2/MDYzLTE2Nzg4MTIz/NTUtNzczNS5qcGVn.jpeg" alt="Cover for MonoLogs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>Wojciech Golczewski</td>
+      <td>MonoLogs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/lZ2BJZKcpAeCqpfFDsGpDMRUz0nghDc3OwyRpAVIqRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY4/MDQzLTE1ODg5NDU5/MDYtNDEzMS5qcGVn.jpeg" alt="Cover for Fraværsminder" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-05-01</td>
+      <td>øjeRum</td>
+      <td>Fraværsminder</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/8nju0D145I4hIInNhph10IDzdASrVqb9GneNa7BvokI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjkz/MDcyLTE2NjEyODUy/MTktOTQyNy5qcGVn.jpeg" alt="Cover for Sonic Incense, Volume 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-08-21</td>
+      <td>ISHQ</td>
+      <td>Sonic Incense, Volume 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sleepaholics</td>
+      <td>Bits and Pieces (Remixed)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Bob Ohrum</td>
+      <td>Subliminal Listening</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+      </td>
+      <td></td>
+      <td>坂本龍一</td>
+      <td>Comica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td></td>
+      <td>坂本龍一</td>
+      <td>12</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Twelve Titans Music</td>
+      <td>Reflection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Twelve Titans Music</td>
+      <td>Ascend the Starless Sky</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Twelve Titans Music</td>
+      <td>Satellite</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sleepaholics</td>
+      <td>Adrift</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Sleepaholics</td>
+      <td>Bits and Pieces</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Emily A. Sprague</td>
+      <td>Mount Vision</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Emily A. Sprague</td>
+      <td>Water Memory</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
