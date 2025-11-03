@@ -9,110 +9,2052 @@ title: bristol
 
 Last updated: <time datetime="2025-10-28T09:49:00.425Z">Tue Oct 28 2025 11:49:00 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Bristol refers to the distinctive sound emerging from the UK port city, characterized by heavy bass, dub influences, and experimental approaches to electronic music that gave birth to trip-hop in the 1990s. The tag encompasses moody, atmospheric productions blending hip-hop beats, reggae rhythms, and cinematic textures with an underlying melancholy and urban grit. This creative scene continues to evolve beyond its trip-hop origins into avant-garde jazz, drum and bass, and indie experimentation.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 41 | ![Cover](https://i.discogs.com/svGMh4N0uCZ-MRf8XCputSKiVuREIr8OhZCW7bY8pOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ2/NDctMTQwNjYyOTY4/My0xMTIzLmpwZWc.jpeg) | 1986 | The Brilliant Corners | What&#39;s In A Word |
-| 22 |  | 1988 | The Wild Bunch | Friends And Countrymen |
-| 1 | ![Cover](https://i.discogs.com/knTZzU_hwsWi-ZwdMmVYMTAhhDCg5mnyzRrMqi5DZiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjE0/OTEtMTU0NzMwMzc1/Mi04MjU1LmpwZWc.jpeg) | 1991 | Praise Space Electric | Praise Space Electric |
-| 15 |  | 1992 | Moonflowers | Hash Smits |
-| 32 |  | 1996-10-28 | Tricky | Pre-Millennium Tension |
-| 33 | ![Cover](https://i.discogs.com/MYZ7frOaPAL2020EoRAg5LOzKYdA031S81S_Kcp23Lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjAy/LTEyNTE4MzQwNTEu/anBlZw.jpeg) | 1996-11-11 | Tricky | Pre-Millenium Tension |
-| 35 | ![Cover](https://i.discogs.com/4LEGhcRJRJlfAwVvkuYzn78eQ-rHDggpZCBeCCuCaJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDYx/MDMtMTQzMzg2NDMy/Ny0yMjAyLmpwZWc.jpeg) | 1997 | Crustation | Bloom |
-| 43 |  | 1998-01-20 | Receiver | Chicken Milk |
-| 5 |  | 2000-07-10 | Morcheeba | Fragments of Freedom |
-| 4 | ![Cover](https://i.discogs.com/9OkQaaxA6bIanHqgGi0PLbti_NgOq5kcmMITSyAyPgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTM4/My0xMzgyMzM3ODc5/LTk3NzEuanBlZw.jpeg) | 2001 | The Experimental Pop Band | Tarmac &amp; Flames |
-| 14 | ![Cover](https://i.discogs.com/6PgJdjCBHXEzWA6hFmGH977-RW7LzmDQrK-1KIh534o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDMy/NTMtMTU2OTUwNzAw/Ni03MjE1LmpwZWc.jpeg) | 2003 | Fuzz Against Junk | Fuzz Against Junk |
-| 49 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fd5d432a0c724cc39705ef2a0d5223bd.png) | 2003 | Paleface | One Big Party |
-| 50 | ![Cover](https://i.discogs.com/B1Oz8sUZjRj6jD3RWo964Gldj5X_WZEtN6eETl6rPoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDYy/MDctMTM1Mzg4MjQ0/Ni0zNTY4LmpwZWc.jpeg) | 2003 | Massive Attack | Attack of the Piazza Napoleone |
-| 27 | ![Cover](https://i.discogs.com/gnPlOcrK6l3Aib6BEaCZwHbqnVFcQ0zru4GbH1Jtilw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTU2/Ny0xMjQxOTY5MDEw/LmdpZg.jpeg) | 2003-08-04 | Knowledge of Bugs | The Woodwork EP |
-| 11 | ![Cover](https://i.discogs.com/Bf1AV23AHvq6-txt7dwLwyQMxsHgzsSN7KQ6AUBgdXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYw/NjgtMTIzNjg3MTc3/NC5qcGVn.jpeg) | 2004 | Roni Size | Breakbeat Era - Ultra Obscene |
-| 20 | ![Cover](https://i.discogs.com/Z2a9OGFgeBHeOAc4c7bmDKeFVy8O8deNMVQe4X07fkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDQ1/NTAtMTQ0Nzg4MjY1/Ni00MzEyLmpwZWc.jpeg) | 2004 | War Against Sleep | Messages |
-| 18 | ![Cover](https://i.discogs.com/eaxRknMyivqzYR3bPLyLG5RLdAeer1pFRS3ZOOExBeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTUx/MS0xMTU1NjA1MjU0/LmpwZWc.jpeg) | 2004-02-11 | Knowledge of Bugs | BugBrand Audio Travels 3&quot; |
-| 3 | ![Cover](https://i.discogs.com/_cvavbIQOFY0f5yFU3gul1z7eUM2mQOHM7sjd-x2t1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzEw/Ny0xMjQxOTY4OTM2/LmpwZWc.jpeg) | 2004-08 | Knowledge of Bugs | Tom Bugs - Defekt - Kning Disk |
-| 37 | ![Cover](https://i.discogs.com/jrSVGQC75H5GtXbuDXDYXvHWC7OcpguVtJ91Q4YNQWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDAw/Ni0xNjY3MzM5MDc5/LTM1MDAuanBlZw.jpeg) | 2004-10-25 | Daddy G | DJ-Kicks |
-| 25 | ![Cover](https://i.discogs.com/bgktVQtE9rp4wcFMn8Ok4c0bfMgJpM4YUOS2X1foAD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjY1/MzM1LTE1NzkyMDI5/MTktNTczOC5qcGVn.jpeg) | 2005 | Id Lab | The Monster Path |
-| 45 | ![Cover](https://i.discogs.com/B2nRcm1gVkQ7LKFOIAZycaLm_4b0humtpM5sgnqPk9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDg0/NzAtMTMzNDUyNzE3/MC5qcGVn.jpeg) | 2005 | Jeremy Smoking Jacket | Now we are dead and other stories |
-| 12 | ![Cover](https://i.discogs.com/QEBbivALLQ7rb4Kxaq5RjFrYKe5UekzR225I9DPkmaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQx/My0xNjM1Njk5MTcy/LTM2OTkuanBlZw.jpeg) | 2005-11-04 | Ylid | Decode Magazine Sampler |
-| 19 | ![Cover](https://i.discogs.com/lEW-mPCVCGxuoCabSu50W215ByXSA2m3Qu-bHVquPRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTky/OS0xMTMxMDIyMjMy/LmpwZWc.jpeg) | 2005-11-04 | Ylid | Van111 |
-| 28 | ![Cover](https://i.discogs.com/QEBbivALLQ7rb4Kxaq5RjFrYKe5UekzR225I9DPkmaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQx/My0xNjM1Njk5MTcy/LTM2OTkuanBlZw.jpeg) | 2005-11-04 | Ylid | Saccade Restitched (ylrx02) |
-| 17 | ![Cover](https://i.discogs.com/du_zTulZFDmKf9FhK_kMSXGeaCCD4clkvx_F6jqF0Co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MzQtMTIwNDg5NjMy/MS5qcGVn.jpeg) | 2006 | Rose Kemp | Violence 7inch |
-| 21 | ![Cover](https://i.discogs.com/WhF8Q6Cch2s1KwmHbhVCht1bW7HWExtD74-seiKoLAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDAz/MDU2LTE0OTY3NDgy/NzctNzE3NS5qcGVn.jpeg) | 2006 | Arctic Circle | arctic circle |
-| 24 | ![Cover](https://i.discogs.com/97ACzf8BA3iCEU02rJtaOa1-D9ovTNUezkiKEQZ6g8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDQ1/NTMtMTQ4MDE0NjAz/NS03MDc4LmpwZWc.jpeg) | 2007 | Stone From Delphi | You Were Sold A Lie |
-| 40 | ![Cover](https://i.discogs.com/ZmNtsZZdIVBAIfDhThuyMhK595SJwYhF39yOR8VQ_7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzgx/NC0xMTcxNjE4NTM2/LmpwZWc.jpeg) | 2007-01 | Ylid | Red, Green, Blue &amp; Other Summer Feelings (Sutemos010) |
-| 46 |  | 2007-02-27 | Scarlatti Tilt | Gathering of the Haunted |
-| 9 | ![Cover](https://i.discogs.com/FJqlOXgcAk2hGOwlgVQZ0im2yiJgBj85e72yBrj-jfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYw/MDUtMTI1ODcwNTAx/Mi5qcGVn.jpeg) | 2007-04-23 | SeriousMusic | The Heights |
-| 2 |  | 2007-10-06 | Botany Bay | Grounded |
-| 36 | ![Cover](https://i.discogs.com/VUBSA7DCCuILtQLDBa9tMu9fv2mpiTPPZYbmY450bRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDM5/NDctMTMyOTA2NTUx/Ni5qcGVn.jpeg) | 2008 | Jukes | We Might Disappear |
-| 47 | ![Cover](https://i.discogs.com/mAiTJs9kqp77V-SdkmsRiAQFYk7hZSg8UDmU5cYiIB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTQz/MjMtMTM2NTMyNTg0/Ni0yNDMxLmpwZWc.jpeg) | 2009 | The Parish Music Box | The Parish Music Box |
-| 48 |  | 2009-04-28 | Paleface | The Show Is On The Road |
-| 42 | ![Cover](https://i.discogs.com/giff_IhjBZYBAJM2Til84iJut8kHQzwKqM_RJFSZ5k8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDM0/NzYtMTM1MjYzMDcw/NC0zNTUxLmpwZWc.jpeg) | 2010-08-23 | Animal Magic | Standard Man |
-| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3b5e3cbd5f87484c9c034b809d1e802f.png) | 2011-02-16 | Paleface | A Different Story |
-| 16 |  | 2011-06 | Baobinga | Joint Venture |
-| 8 |  | 2011-10-03 | Split Prophets | Scribbled Thoughts |
-| 34 | ![Cover](https://i.discogs.com/7RLQZRzkD2bbLIL2sSy2_mdS4s2Pcv-JAfPCklXr2_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc4/OTktMTMzNTYxMTQz/NS5qcGVn.jpeg) | 2012-05-28 | The Sky Is Blue | The Sky Is Blue EP |
-| 10 | ![Cover](https://i.discogs.com/wM8GlFPRxI4F5w0Tg1e0H-Qg92XStUcZMD9TfT9AGQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDY2/NDctMTQwMzI2MDU4/OS0xNzQ1LmpwZWc.jpeg) | 2013-04 | Patrick Duff | Visions of the Underworld |
-| 26 | ![Cover](https://i.discogs.com/fFVo6hwLH1XPto6cxVjTNfdWD2tBhiMGjKplxlacHiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTk3/NzMtMTQzNTk5ODIx/NS0zODc3LmpwZWc.jpeg) | 2015-06-18 | Day One | Intellectual Property |
-| 39 | ![Cover](https://i.discogs.com/FKY6_ZvojJVNC5sCcq-kvVBh_v-yUIJL3Rp0yRFLUec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mjc0/MTAtMTQ0OTYxNjg0/OS05MDM3LmpwZWc.jpeg) | 2015-12-04 | North Sea Navigator | Live At The Cube, Bristol, 18th Feb 2006 |
-| 30 | ![Cover](https://i.discogs.com/-eT9tzyVuRIY50-aHNG0e8P8A7a8BlNbM3KXMsToIks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg5/Nzg3LTE1Nzk5MjU3/NjMtMTQ5MC5qcGVn.jpeg) | 2017-10-11 | Maximum Joy | I Can&#39;t Stand It Here On Quiet Nights: Singles 1981-82 |
-| 31 | ![Cover](https://i.discogs.com/GLzujdqyl1H34zRZKLJ38_cMmsYZcTaaow9I4-iBE2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjUw/OTQwLTE2MzE3ODI5/MTgtNDM2My5qcGVn.jpeg) | 2017-10-29 | Bucky | Songs From Our Website |
-| 29 | ![Cover](https://i.discogs.com/J60FN9r07Yz6kQucWw63IToT8mjY0bKrHIs8GQKlc-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ1/NTY4LTE1MjkyMjM3/ODAtNjAzNC5qcGVn.jpeg) | 2018-02-02 | HEAVY LUNGS | Abstract Thoughts - EP |
-| 7 | ![Cover](https://i.discogs.com/0G-3VaKv3jx9dzSRYIaB4pBbVhmMMqFul4opI7lru6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTgx/MjUyLTE2MzgzMDAz/NDItMzIyMC5qcGVn.jpeg) | 2021-11-26 | The Soul Santas | Christmas Crackers, Vol 1 |
-| 23 |  |  | Team Brick | Live @ The Cube, Bristol, 25th March 2006 |
-| 38 |  |  | Silev | Christmass Songs |
-| 52 |  |  | Snakes On A Plane | Live @ The Croft, Bristol, 29th Jan 2006 |
-| 75 |  |  | Mustard Allegro | The Swindon Oasis EP |
-| 92 | ![Cover](https://i.discogs.com/4UTcVsjKBmDU_vZZuvY6c9JsmcbEMV3SWiDrOgmpiUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Mjk3/Ni0xMzg0MTkyMDAx/LTQwMDguanBlZw.jpeg) | 1985 | Chaos UK | Short Sharp Shock |
-| 53 | ![Cover](https://i.discogs.com/SwuP2Srw2Oh0vU-WQu5oEU80_sQ0nXtQUpQ53SOzGu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzA0/MjUtMTQyNTQ0MDI5/NC05OTk5LmpwZWc.jpeg) | 1989 | Chaos UK | The Chipping Sodbury Bonfire Tapes |
-| 82 | ![Cover](https://i.discogs.com/XW0P0RnHiLKeqEShQMkfQ8uClNLJzEFUSNA8EcTgCMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/LTE1NTMyMjk0MDQt/OTA0OS5qcGVn.jpeg) | 1994 | Portishead | Dummy [UK] |
-| 100 | ![Cover](https://i.discogs.com/BAfD-Qd-hG2OYHhsa3FkS5q52365Mx4nUkMjSxJ6CLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzE5/OTEtMTM1NjIwNDIw/My0xMjMxLmpwZWc.jpeg) | 1995 | Tricky | Maxinquaye (Deluxe Edition) |
-| 70 | ![Cover](https://i.discogs.com/Qv0ESQgOfcjhjmWO2D2R0RjYyHIXd7DvR4EAK8W35Eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzg3/ODYtMTI1NjQ5MDgw/MC5qcGVn.jpeg) | 1995-04 | The Heads | Relaxing With… |
-| 85 |  | 1996 | Purple Penguin | De-tuned |
-| 89 | ![Cover](https://i.discogs.com/WNo_TiCXpCC8po6ds-Jg542yu9T7IKNPXzZyHus0kGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjAtMTIyMDQ2MjA3/Ny5qcGVn.jpeg) | 1996-03-26 | Up, Bustle &amp; Out | One Colour Just Reflects Another |
-| 86 |  | 1999 | Smith &amp; Mighty | Big World Small World |
-| 93 | ![Cover](https://i.discogs.com/G_fxy1XzE85_cyhToQPiOR1T3zFewfNRi9j0LFFHG6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTEx/LTExNTkwNDM0NzAu/anBlZw.jpeg) | 2000-10-09 | Roni Size &amp; Reprazent | In the Mode |
-| 91 |  | 2001-06-20 | Tricky | Blowback |
-| 98 |  | 2002-04 | Smith &amp; Mighty | Life Is... |
-| 67 | ![Cover](https://i.discogs.com/7wjvA7qa2SjHROTDb0w6kVqyO65vLddbQcX6LfLOw0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU2/MTAtMTYwOTcxMjE4/Mi02MDYzLmpwZWc.jpeg) | 2004 | Caroline Martin | I Had A Hundred More Reasons To Stay By The Fire |
-| 64 | ![Cover](https://i.discogs.com/hrHIZC2wDJAlAokSQJZu1QcoaYyDJGvk-1rmyMEF0q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDAw/My0xMDc4NDI1NDg1/LmpwZw.jpeg) | 2004-01-15 | Binray | Hyena Ventilator |
-| 58 | ![Cover](https://i.discogs.com/eaxRknMyivqzYR3bPLyLG5RLdAeer1pFRS3ZOOExBeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTUx/MS0xMTU1NjA1MjU0/LmpwZWc.jpeg) | 2004-02-11 | Knowledge of Bugs | My Way No Way |
-| 51 | ![Cover](https://i.discogs.com/67b-yWpA458bk3asW6bEsTD2aMQEP3Y4tKNDBzXrc8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzEw/MDQtMTI5ODQ2NzQz/NS5qcGVn.jpeg) | 2005 | 3hostwomexicansandatinofspanners | Pegasus Bridge |
-| 62 | ![Cover](https://i.discogs.com/iNbvpXULNmvikIJqayqxnK8SJz_BM14MELGRw4abG2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODAz/MDEtMTI5MTQ4ODI1/Mi5qcGVn.jpeg) | 2005 | Estron | Y Crack Cymraeg |
-| 95 | ![Cover](https://i.discogs.com/KP3vGGSI6M7H8vFJjB08LD7QawLWa4xSKtLh_xCXo8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjU0/OTQ4LTE2MTI0NTcw/MzktNzgxNi5wbmc.jpeg) | 2005 | Stone From Delphi | All Else Can Wait |
-| 88 | ![Cover](https://i.discogs.com/elx6D5iW2h7gNez-3sKSXx65ULORlR-6Mb5x0ueB2w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjEz/My0xMTMxODEyMTE0/LmpwZWc.jpeg) | 2005-03-21 | Cities of Foam | A Great Day For The Race |
-| 79 |  | 2005-05-02 | Bronnt Industries Kapital | Virtute et Industria |
-| 60 | ![Cover](https://i.discogs.com/ODahtSDcZt1yd5SWnuJklT00bXJ6JMihMTwf3GyCCeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTI4/MC0xMTc0NjU0MzUz/LmpwZWc.jpeg) | 2005-09 | Knowledge of Bugs | The Shifted Sands |
-| 54 | ![Cover](https://i.discogs.com/sldlgCCSnTLy0Nct1c0ljM_yfoRf4aArkkELWkwg_FU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzcy/My0xMTQ1NDQyNTU3/LmpwZWc.jpeg) | 2006 | Ylid | The Lark Descending |
-| 56 | ![Cover](https://i.discogs.com/IrFtWi6_jXjyiQWZK_tt_1rbfrtLoxGszMqgGGjs3lM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzc3/NDUtMTM0ODA4Njcy/Mi05ODY5LmpwZWc.jpeg) | 2006-07-03 | You &amp; The Atom Bomb | Shake Shake Hello?! |
-| 65 | ![Cover](https://i.discogs.com/zM5seGeOwq3RZmmLKZaielB5Eg1Xz3ufhHuTdcyHTVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjcy/MzMtMTQ4OTQyNDA4/NC05MTgzLmpwZWc.jpeg) | 2007 | Fuzz Against Junk | Netti Netti |
-| 97 |  | 2007 | Day One | Probably Art |
-| 61 | ![Cover](https://i.discogs.com/0JdkAfk2MDjYgksOnuCgmmoTan5Hf11l8NtNWQaJiMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU0/NTYtMTIyMzIyNTUw/OS5qcGVn.jpeg) | 2008 | Garnett James | Lughnassadh |
-| 74 | ![Cover](https://i.discogs.com/adFqQj6uqamS98CJ9zS0-DWGj6Vqtc9IyrUrLdf7H2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTI5/MzAtMTM1NDk5NDMw/Ny00NzE0LmpwZWc.jpeg) | 2008-08-25 | Phantom Limb | Phantom Limb |
-| 81 | ![Cover](https://i.discogs.com/V3ODAXFLFTPMZnhdcYHK2SnSnphSaX2NyOY3KArwwqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTYy/MjUtMTU3NTI0NDUz/OS03NzIzLmpwZWc.jpeg) | 2009-03-31 | Tricky | Puppy Toy |
-| 94 | ![Cover](https://i.discogs.com/ae8YG7woefGOV6ppXiHKPCqs7QNb9OVIH3RWGR0iQNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDk4/LTExODUyOTc4MDEu/anBlZw.jpeg) | 2009-10-04 | Massive Attack | Singles 90-98 (Disc 10) [Box Set] |
-| 90 |  | 2009-11 | Peverelist | Jarvik Mindstate |
-| 77 |  | 2011-03-08 | Technical Itch | Digitally Ascended Dubstep Vol 2 |
-| 83 | ![Cover](https://i.discogs.com/U0gRl_BXPCMeHbcIz1tgRE69Nd6V5CbziyktVF-1RDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODc5/NDUtMTMzNjQwMTkw/NC5wbmc.jpeg) | 2012-05-14 | Smith &amp; Mighty | The Three Stripe Collection 1985 - 1990 |
-| 55 | ![Cover](https://i.discogs.com/7RLQZRzkD2bbLIL2sSy2_mdS4s2Pcv-JAfPCklXr2_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc4/OTktMTMzNTYxMTQz/NS5qcGVn.jpeg) | 2012-05-28 | The Sky Is Blue | The Country EP |
-| 57 | ![Cover](https://i.discogs.com/D5i0kcHbvhM39CD52QLzUssRdcDo_tqqUcHvuLQQWGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODgz/OTMtMTM3MjI3NTgy/OC0xMjQzLmpwZWc.jpeg) | 2013-06-10 | Zoon van Snook | The Bridge Between Life and Death |
-| 80 | ![Cover](https://i.discogs.com/_4VpnLhMnJd4ASVN0Vfjvm9VMWrbFyiqJc5fOsf44Sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODYz/MDctMTQ0MDM3ODM5/MC0yMTEwLmpwZWc.jpeg) | 2014-03-31 | Moth Equals | Sick Puppy |
-| 72 | ![Cover](https://i.discogs.com/vDLdRQJtJ1EymH18di63lYpoUAfcYLfcD8cVts3dT-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjQ3/MDAtMTQyNjE1ODcz/NS02MjQ0LmpwZWc.jpeg) | 2015-04-27 | Sonance | BLACKFLOWER |
-| 76 | ![Cover](https://i.discogs.com/zOcMtrp-5sByQXWhjDQlAInV7SlZW3XUrSBpWdjRG58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTg3/NDMtMTQ2MDA1NTEy/OS0yODc3LnBuZw.jpeg) | 2016-04-07 | Globular | Holobiont |
-| 96 | ![Cover](https://i.discogs.com/QZikLMZUdG2m9a-nJysjQDvHP7iMDt_eX1n10R41bPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIy/MzY4LTE1ODAzMjE1/MTQtNjM0OC5qcGVn.jpeg) | 2019 | Tara Clerkin Trio | Tara Clerkin Trio |
-| 44 | ![Cover](https://i.discogs.com/uYzJ5Iu3AdITpQOEs8FttIZfIekssGK_Iub-RFTGNFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk1/MTY1LTE1NTMzODI5/MjUtMjY4NC5qcGVn.jpeg) | 2019-03-06 | by Forever | Zero Deaths (Original Score) |
-| 68 | ![Cover](https://i.discogs.com/q7xlbv2kjr7ex2Yde7WKXVmNYAibT3sGpMkU0xe8Hho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQ2/NDg5LTE1NjA5NzYz/OTItNTIxMi5qcGVn.jpeg) | 2019-05-03 | ishmael ensemble | Yellow House &#x2F; Yellow Dub |
-| 69 | ![Cover](https://i.discogs.com/9ofm5-bdIAcECY7oBqJx6NPOwdTbIzvQyRAjBg-oDMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODgx/NTY1LTE1ODQ4MDky/MTEtMjkyNi5qcGVn.jpeg) | 2019-10-14 | Old Pride | bloom |
-| 73 | ![Cover](https://i.discogs.com/IKo23rQJ8yXCnG9NB4YKti-ZvPpAMN-YcxmluPoD5lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIy/MjI3LTE2MjU2NDIy/NDUtNjY3NC5qcGVn.jpeg) | 2019-11-08 | Rachael Dadd | FLUX |
-| 63 | ![Cover](https://i.discogs.com/0RA4ji4jwrL6nugjDWZNXk91qBj8mBgFOGK02anb2o4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU1/MjU3LTE1ODc0NzYw/MzYtMzQyMC5qcGVn.jpeg) | 2020-02-26 | Figment | Set The Sky Alight |
-| 71 | ![Cover](https://i.discogs.com/lLl04kpWkxX77HwC5qS_BwFnZ6pTi4dQv_vls0mBTRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTAx/ODMwLTE1OTk4Njk3/ODItMjA3Ny5qcGVn.jpeg) | 2020-07-17 | Grove | Spice |
-| 87 | ![Cover](https://i.discogs.com/PwpVMJqHEY1ZuCgSmuFm4AlM8rG-CQs8cEraQd7FmN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjYw/NTcyLTE2Mzg4NzU2/MzctMTk1NS5wbmc.jpeg) | 2020-10-05 | Katy J Pearson | Something Real |
-| 84 | ![Cover](https://i.discogs.com/I-JOCdpBW69ILcpP2v-WlMg6mZYZDaL_1qHb02WVHZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTkx/MzUyLTE2Mzk4MDc0/NDMtMTEyMS5qcGVn.jpeg) | 2021-11-12 | Batu | I Own Your Energy |
-| 66 | ![Cover](https://i.discogs.com/Tj_JU-wQ5nmppyU6764-Y9QLZgSHt_6gsCiSVCHeIig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzYz/MTk5LTE2MzU0NDMx/NzctODExMy5qcGVn.jpeg) | 2021-12-03 | The Pop Group | Y in Dub |
-| 78 | ![Cover](https://i.discogs.com/IB9uVovjzSZ75MDDnvKQ9xd50XUYoXU4qn_z0XvibvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODI1/ODIyLTE2NTczMTMy/MjktNTkzNS5qcGVn.jpeg) | 2022-02-03 | Rose Kemp | The Free To Be Me E.P. |
-| 13 |  | 2023 | Various Artists | For Demonstration Purposes Only |
-| 99 | ![Cover](https://i.discogs.com/Q3IhUn3qIhTMDKlwDFMERpS-ZzdZBgiEHikv8LTUABs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzQ0/ODYxLTE2NzU2MzM5/NTktODczNy5qcGVn.jpeg) | 2023-01-13 | Rozi Plain | Prize |
-| 59 | ![Cover](https://i.discogs.com/jTjcC_aD0XUtfAjNOlGWlM3h_ujledaTRRys-M8ogCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDU4/MzMwLTE3Mjk2MzQ5/OTktMTE0OS5qcGVn.jpeg) | 2024-09-20 | LICE | Third Time at the Beach |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d8c14b081f648c083f9e5eac47983d9.png" alt="Cover for Short Sharp Shock" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Chaos UK</td>
+      <td>Short Sharp Shock</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/svGMh4N0uCZ-MRf8XCputSKiVuREIr8OhZCW7bY8pOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ2/NDctMTQwNjYyOTY4/My0xMTIzLmpwZWc.jpeg" alt="Cover for What&#39;s In A Word" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>The Brilliant Corners</td>
+      <td>What&#39;s In A Word</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td>1988</td>
+      <td>The Wild Bunch</td>
+      <td>Friends And Countrymen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/SwuP2Srw2Oh0vU-WQu5oEU80_sQ0nXtQUpQ53SOzGu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzA0/MjUtMTQyNTQ0MDI5/NC05OTk5LmpwZWc.jpeg" alt="Cover for The Chipping Sodbury Bonfire Tapes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Chaos UK</td>
+      <td>The Chipping Sodbury Bonfire Tapes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/knTZzU_hwsWi-ZwdMmVYMTAhhDCg5mnyzRrMqi5DZiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjE0/OTEtMTU0NzMwMzc1/Mi04MjU1LmpwZWc.jpeg" alt="Cover for Praise Space Electric" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Praise Space Electric</td>
+      <td>Praise Space Electric</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td>1992</td>
+      <td>Moonflowers</td>
+      <td>Hash Smits</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/XW0P0RnHiLKeqEShQMkfQ8uClNLJzEFUSNA8EcTgCMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/LTE1NTMyMjk0MDQt/OTA0OS5qcGVn.jpeg" alt="Cover for Dummy [UK]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Portishead</td>
+      <td>Dummy [UK]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/BAfD-Qd-hG2OYHhsa3FkS5q52365Mx4nUkMjSxJ6CLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzE5/OTEtMTM1NjIwNDIw/My0xMjMxLmpwZWc.jpeg" alt="Cover for Maxinquaye (Deluxe Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Tricky</td>
+      <td>Maxinquaye (Deluxe Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://i.discogs.com/Qv0ESQgOfcjhjmWO2D2R0RjYyHIXd7DvR4EAK8W35Eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzg3/ODYtMTI1NjQ5MDgw/MC5qcGVn.jpeg" alt="Cover for Relaxing With…" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-04</td>
+      <td>The Heads</td>
+      <td>Relaxing With…</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Purple Penguin</td>
+      <td>De-tuned</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/WNo_TiCXpCC8po6ds-Jg542yu9T7IKNPXzZyHus0kGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjAtMTIyMDQ2MjA3/Ny5qcGVn.jpeg" alt="Cover for One Colour Just Reflects Another" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-03-26</td>
+      <td>Up, Bustle &amp; Out</td>
+      <td>One Colour Just Reflects Another</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>1996-10-28</td>
+      <td>Tricky</td>
+      <td>Pre-Millennium Tension</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/MYZ7frOaPAL2020EoRAg5LOzKYdA031S81S_Kcp23Lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjAy/LTEyNTE4MzQwNTEu/anBlZw.jpeg" alt="Cover for Pre-Millenium Tension" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-11-11</td>
+      <td>Tricky</td>
+      <td>Pre-Millenium Tension</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 7</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/4LEGhcRJRJlfAwVvkuYzn78eQ-rHDggpZCBeCCuCaJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDYx/MDMtMTQzMzg2NDMy/Ny0yMjAyLmpwZWc.jpeg" alt="Cover for Bloom" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Crustation</td>
+      <td>Bloom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>1998-01-20</td>
+      <td>Receiver</td>
+      <td>Chicken Milk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Smith &amp; Mighty</td>
+      <td>Big World Small World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>2000-07-10</td>
+      <td>Morcheeba</td>
+      <td>Fragments of Freedom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 6</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/G_fxy1XzE85_cyhToQPiOR1T3zFewfNRi9j0LFFHG6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTEx/LTExNTkwNDM0NzAu/anBlZw.jpeg" alt="Cover for In the Mode" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-10-09</td>
+      <td>Roni Size &amp; Reprazent</td>
+      <td>In the Mode</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 12</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/9OkQaaxA6bIanHqgGi0PLbti_NgOq5kcmMITSyAyPgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTM4/My0xMzgyMzM3ODc5/LTk3NzEuanBlZw.jpeg" alt="Cover for Tarmac &amp; Flames" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>The Experimental Pop Band</td>
+      <td>Tarmac &amp; Flames</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>2001-06-20</td>
+      <td>Tricky</td>
+      <td>Blowback</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 10</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>2002-04</td>
+      <td>Smith &amp; Mighty</td>
+      <td>Life Is...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd5d432a0c724cc39705ef2a0d5223bd.png" alt="Cover for One Big Party" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Paleface</td>
+      <td>One Big Party</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 54</li>
+            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/6PgJdjCBHXEzWA6hFmGH977-RW7LzmDQrK-1KIh534o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDMy/NTMtMTU2OTUwNzAw/Ni03MjE1LmpwZWc.jpeg" alt="Cover for Fuzz Against Junk" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Fuzz Against Junk</td>
+      <td>Fuzz Against Junk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/B1Oz8sUZjRj6jD3RWo964Gldj5X_WZEtN6eETl6rPoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDYy/MDctMTM1Mzg4MjQ0/Ni0zNTY4LmpwZWc.jpeg" alt="Cover for Attack of the Piazza Napoleone" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Massive Attack</td>
+      <td>Attack of the Piazza Napoleone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/gnPlOcrK6l3Aib6BEaCZwHbqnVFcQ0zru4GbH1Jtilw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTU2/Ny0xMjQxOTY5MDEw/LmdpZg.jpeg" alt="Cover for The Woodwork EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-08-04</td>
+      <td>Knowledge of Bugs</td>
+      <td>The Woodwork EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/Bf1AV23AHvq6-txt7dwLwyQMxsHgzsSN7KQ6AUBgdXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODYw/NjgtMTIzNjg3MTc3/NC5qcGVn.jpeg" alt="Cover for Breakbeat Era - Ultra Obscene" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Roni Size</td>
+      <td>Breakbeat Era - Ultra Obscene</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/Z2a9OGFgeBHeOAc4c7bmDKeFVy8O8deNMVQe4X07fkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDQ1/NTAtMTQ0Nzg4MjY1/Ni00MzEyLmpwZWc.jpeg" alt="Cover for Messages" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>War Against Sleep</td>
+      <td>Messages</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/7wjvA7qa2SjHROTDb0w6kVqyO65vLddbQcX6LfLOw0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjU2/MTAtMTYwOTcxMjE4/Mi02MDYzLmpwZWc.jpeg" alt="Cover for I Had A Hundred More Reasons To Stay By The Fire" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Caroline Martin</td>
+      <td>I Had A Hundred More Reasons To Stay By The Fire</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/hrHIZC2wDJAlAokSQJZu1QcoaYyDJGvk-1rmyMEF0q4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDAw/My0xMDc4NDI1NDg1/LmpwZw.jpeg" alt="Cover for Hyena Ventilator" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-01-15</td>
+      <td>Binray</td>
+      <td>Hyena Ventilator</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/eaxRknMyivqzYR3bPLyLG5RLdAeer1pFRS3ZOOExBeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTUx/MS0xMTU1NjA1MjU0/LmpwZWc.jpeg" alt="Cover for BugBrand Audio Travels 3&quot;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-02-11</td>
+      <td>Knowledge of Bugs</td>
+      <td>BugBrand Audio Travels 3&quot;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/eaxRknMyivqzYR3bPLyLG5RLdAeer1pFRS3ZOOExBeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTUx/MS0xMTU1NjA1MjU0/LmpwZWc.jpeg" alt="Cover for My Way No Way" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-02-11</td>
+      <td>Knowledge of Bugs</td>
+      <td>My Way No Way</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/_cvavbIQOFY0f5yFU3gul1z7eUM2mQOHM7sjd-x2t1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzEw/Ny0xMjQxOTY4OTM2/LmpwZWc.jpeg" alt="Cover for Tom Bugs - Defekt - Kning Disk" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-08</td>
+      <td>Knowledge of Bugs</td>
+      <td>Tom Bugs - Defekt - Kning Disk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/jrSVGQC75H5GtXbuDXDYXvHWC7OcpguVtJ91Q4YNQWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDAw/Ni0xNjY3MzM5MDc5/LTM1MDAuanBlZw.jpeg" alt="Cover for DJ-Kicks" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-10-25</td>
+      <td>Daddy G</td>
+      <td>DJ-Kicks</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/B2nRcm1gVkQ7LKFOIAZycaLm_4b0humtpM5sgnqPk9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDg0/NzAtMTMzNDUyNzE3/MC5qcGVn.jpeg" alt="Cover for Now we are dead and other stories" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Jeremy Smoking Jacket</td>
+      <td>Now we are dead and other stories</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/iNbvpXULNmvikIJqayqxnK8SJz_BM14MELGRw4abG2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODAz/MDEtMTI5MTQ4ODI1/Mi5qcGVn.jpeg" alt="Cover for Y Crack Cymraeg" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Estron</td>
+      <td>Y Crack Cymraeg</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/wales" | relative_url }}">wales</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 55</li>
+            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/KP3vGGSI6M7H8vFJjB08LD7QawLWa4xSKtLh_xCXo8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjU0/OTQ4LTE2MTI0NTcw/MzktNzgxNi5wbmc.jpeg" alt="Cover for All Else Can Wait" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Stone From Delphi</td>
+      <td>All Else Can Wait</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/bgktVQtE9rp4wcFMn8Ok4c0bfMgJpM4YUOS2X1foAD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjY1/MzM1LTE1NzkyMDI5/MTktNTczOC5qcGVn.jpeg" alt="Cover for The Monster Path" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Id Lab</td>
+      <td>The Monster Path</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/67b-yWpA458bk3asW6bEsTD2aMQEP3Y4tKNDBzXrc8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzEw/MDQtMTI5ODQ2NzQz/NS5qcGVn.jpeg" alt="Cover for Pegasus Bridge" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>3hostwomexicansandatinofspanners</td>
+      <td>Pegasus Bridge</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/elx6D5iW2h7gNez-3sKSXx65ULORlR-6Mb5x0ueB2w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjEz/My0xMTMxODEyMTE0/LmpwZWc.jpeg" alt="Cover for A Great Day For The Race" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-03-21</td>
+      <td>Cities of Foam</td>
+      <td>A Great Day For The Race</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 7</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 24</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>2005-05-02</td>
+      <td>Bronnt Industries Kapital</td>
+      <td>Virtute et Industria</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/ODahtSDcZt1yd5SWnuJklT00bXJ6JMihMTwf3GyCCeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTI4/MC0xMTc0NjU0MzUz/LmpwZWc.jpeg" alt="Cover for The Shifted Sands" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-09</td>
+      <td>Knowledge of Bugs</td>
+      <td>The Shifted Sands</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/QEBbivALLQ7rb4Kxaq5RjFrYKe5UekzR225I9DPkmaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQx/My0xNjM1Njk5MTcy/LTM2OTkuanBlZw.jpeg" alt="Cover for Decode Magazine Sampler" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-04</td>
+      <td>Ylid</td>
+      <td>Decode Magazine Sampler</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/lEW-mPCVCGxuoCabSu50W215ByXSA2m3Qu-bHVquPRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTky/OS0xMTMxMDIyMjMy/LmpwZWc.jpeg" alt="Cover for Van111" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-04</td>
+      <td>Ylid</td>
+      <td>Van111</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/QEBbivALLQ7rb4Kxaq5RjFrYKe5UekzR225I9DPkmaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDQx/My0xNjM1Njk5MTcy/LTM2OTkuanBlZw.jpeg" alt="Cover for Saccade Restitched (ylrx02)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-04</td>
+      <td>Ylid</td>
+      <td>Saccade Restitched (ylrx02)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/du_zTulZFDmKf9FhK_kMSXGeaCCD4clkvx_F6jqF0Co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU3/MzQtMTIwNDg5NjMy/MS5qcGVn.jpeg" alt="Cover for Violence 7inch" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Rose Kemp</td>
+      <td>Violence 7inch</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/WhF8Q6Cch2s1KwmHbhVCht1bW7HWExtD74-seiKoLAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDAz/MDU2LTE0OTY3NDgy/NzctNzE3NS5qcGVn.jpeg" alt="Cover for arctic circle" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Arctic Circle</td>
+      <td>arctic circle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/sldlgCCSnTLy0Nct1c0ljM_yfoRf4aArkkELWkwg_FU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzcy/My0xMTQ1NDQyNTU3/LmpwZWc.jpeg" alt="Cover for The Lark Descending" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Ylid</td>
+      <td>The Lark Descending</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/IrFtWi6_jXjyiQWZK_tt_1rbfrtLoxGszMqgGGjs3lM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzc3/NDUtMTM0ODA4Njcy/Mi05ODY5LmpwZWc.jpeg" alt="Cover for Shake Shake Hello?!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-07-03</td>
+      <td>You &amp; The Atom Bomb</td>
+      <td>Shake Shake Hello?!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/97ACzf8BA3iCEU02rJtaOa1-D9ovTNUezkiKEQZ6g8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDQ1/NTMtMTQ4MDE0NjAz/NS03MDc4LmpwZWc.jpeg" alt="Cover for You Were Sold A Lie" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Stone From Delphi</td>
+      <td>You Were Sold A Lie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/zM5seGeOwq3RZmmLKZaielB5Eg1Xz3ufhHuTdcyHTVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjcy/MzMtMTQ4OTQyNDA4/NC05MTgzLmpwZWc.jpeg" alt="Cover for Netti Netti" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Fuzz Against Junk</td>
+      <td>Netti Netti</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Day One</td>
+      <td>Probably Art</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/ZmNtsZZdIVBAIfDhThuyMhK595SJwYhF39yOR8VQ_7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzgx/NC0xMTcxNjE4NTM2/LmpwZWc.jpeg" alt="Cover for Red, Green, Blue &amp; Other Summer Feelings (Sutemos010)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-01</td>
+      <td>Ylid</td>
+      <td>Red, Green, Blue &amp; Other Summer Feelings (Sutemos010)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td>2007-02-27</td>
+      <td>Scarlatti Tilt</td>
+      <td>Gathering of the Haunted</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/FJqlOXgcAk2hGOwlgVQZ0im2yiJgBj85e72yBrj-jfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTYw/MDUtMTI1ODcwNTAx/Mi5qcGVn.jpeg" alt="Cover for The Heights" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-04-23</td>
+      <td>SeriousMusic</td>
+      <td>The Heights</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2007-10-06</td>
+      <td>Botany Bay</td>
+      <td>Grounded</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/VUBSA7DCCuILtQLDBa9tMu9fv2mpiTPPZYbmY450bRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDM5/NDctMTMyOTA2NTUx/Ni5qcGVn.jpeg" alt="Cover for We Might Disappear" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Jukes</td>
+      <td>We Might Disappear</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/0JdkAfk2MDjYgksOnuCgmmoTan5Hf11l8NtNWQaJiMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU0/NTYtMTIyMzIyNTUw/OS5qcGVn.jpeg" alt="Cover for Lughnassadh" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Garnett James</td>
+      <td>Lughnassadh</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/adFqQj6uqamS98CJ9zS0-DWGj6Vqtc9IyrUrLdf7H2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTI5/MzAtMTM1NDk5NDMw/Ny00NzE0LmpwZWc.jpeg" alt="Cover for Phantom Limb" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-08-25</td>
+      <td>Phantom Limb</td>
+      <td>Phantom Limb</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/mAiTJs9kqp77V-SdkmsRiAQFYk7hZSg8UDmU5cYiIB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTQz/MjMtMTM2NTMyNTg0/Ni0yNDMxLmpwZWc.jpeg" alt="Cover for The Parish Music Box" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>The Parish Music Box</td>
+      <td>The Parish Music Box</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/V3ODAXFLFTPMZnhdcYHK2SnSnphSaX2NyOY3KArwwqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTYy/MjUtMTU3NTI0NDUz/OS03NzIzLmpwZWc.jpeg" alt="Cover for Puppy Toy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-03-31</td>
+      <td>Tricky</td>
+      <td>Puppy Toy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td>2009-04-28</td>
+      <td>Paleface</td>
+      <td>The Show Is On The Road</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 43</li>
+            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/ae8YG7woefGOV6ppXiHKPCqs7QNb9OVIH3RWGR0iQNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDk4/LTExODUyOTc4MDEu/anBlZw.jpeg" alt="Cover for Singles 90-98 (Disc 10) [Box Set]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-10-04</td>
+      <td>Massive Attack</td>
+      <td>Singles 90-98 (Disc 10) [Box Set]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>2009-11</td>
+      <td>Peverelist</td>
+      <td>Jarvik Mindstate</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-dubstep" | relative_url }}">deep dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 22</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 82</li>
+            <li> <a href="{{ "/tags/deep-dubstep" | relative_url }}">deep dubstep</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/giff_IhjBZYBAJM2Til84iJut8kHQzwKqM_RJFSZ5k8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDM0/NzYtMTM1MjYzMDcw/NC0zNTUxLmpwZWc.jpeg" alt="Cover for Standard Man" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-08-23</td>
+      <td>Animal Magic</td>
+      <td>Standard Man</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b5e3cbd5f87484c9c034b809d1e802f.png" alt="Cover for A Different Story" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-02-16</td>
+      <td>Paleface</td>
+      <td>A Different Story</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 28</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2011-03-08</td>
+      <td>Technical Itch</td>
+      <td>Digitally Ascended Dubstep Vol 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td>2011-06</td>
+      <td>Baobinga</td>
+      <td>Joint Venture</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td>2011-10-03</td>
+      <td>Split Prophets</td>
+      <td>Scribbled Thoughts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/U0gRl_BXPCMeHbcIz1tgRE69Nd6V5CbziyktVF-1RDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODc5/NDUtMTMzNjQwMTkw/NC5wbmc.jpeg" alt="Cover for The Three Stripe Collection 1985 - 1990" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-05-14</td>
+      <td>Smith &amp; Mighty</td>
+      <td>The Three Stripe Collection 1985 - 1990</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/7RLQZRzkD2bbLIL2sSy2_mdS4s2Pcv-JAfPCklXr2_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc4/OTktMTMzNTYxMTQz/NS5qcGVn.jpeg" alt="Cover for The Sky Is Blue EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-05-28</td>
+      <td>The Sky Is Blue</td>
+      <td>The Sky Is Blue EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/7RLQZRzkD2bbLIL2sSy2_mdS4s2Pcv-JAfPCklXr2_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc4/OTktMTMzNTYxMTQz/NS5qcGVn.jpeg" alt="Cover for The Country EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-05-28</td>
+      <td>The Sky Is Blue</td>
+      <td>The Country EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/wM8GlFPRxI4F5w0Tg1e0H-Qg92XStUcZMD9TfT9AGQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDY2/NDctMTQwMzI2MDU4/OS0xNzQ1LmpwZWc.jpeg" alt="Cover for Visions of the Underworld" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-04</td>
+      <td>Patrick Duff</td>
+      <td>Visions of the Underworld</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/D5i0kcHbvhM39CD52QLzUssRdcDo_tqqUcHvuLQQWGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODgz/OTMtMTM3MjI3NTgy/OC0xMjQzLmpwZWc.jpeg" alt="Cover for The Bridge Between Life and Death" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-06-10</td>
+      <td>Zoon van Snook</td>
+      <td>The Bridge Between Life and Death</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/_4VpnLhMnJd4ASVN0Vfjvm9VMWrbFyiqJc5fOsf44Sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODYz/MDctMTQ0MDM3ODM5/MC0yMTEwLmpwZWc.jpeg" alt="Cover for Sick Puppy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-03-31</td>
+      <td>Moth Equals</td>
+      <td>Sick Puppy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/vDLdRQJtJ1EymH18di63lYpoUAfcYLfcD8cVts3dT-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjQ3/MDAtMTQyNjE1ODcz/NS02MjQ0LmpwZWc.jpeg" alt="Cover for BLACKFLOWER" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-04-27</td>
+      <td>Sonance</td>
+      <td>BLACKFLOWER</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/fFVo6hwLH1XPto6cxVjTNfdWD2tBhiMGjKplxlacHiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTk3/NzMtMTQzNTk5ODIx/NS0zODc3LmpwZWc.jpeg" alt="Cover for Intellectual Property" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-06-18</td>
+      <td>Day One</td>
+      <td>Intellectual Property</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/FKY6_ZvojJVNC5sCcq-kvVBh_v-yUIJL3Rp0yRFLUec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mjc0/MTAtMTQ0OTYxNjg0/OS05MDM3LmpwZWc.jpeg" alt="Cover for Live At The Cube, Bristol, 18th Feb 2006" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-12-04</td>
+      <td>North Sea Navigator</td>
+      <td>Live At The Cube, Bristol, 18th Feb 2006</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/zOcMtrp-5sByQXWhjDQlAInV7SlZW3XUrSBpWdjRG58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTg3/NDMtMTQ2MDA1NTEy/OS0yODc3LnBuZw.jpeg" alt="Cover for Holobiont" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-04-07</td>
+      <td>Globular</td>
+      <td>Holobiont</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/-eT9tzyVuRIY50-aHNG0e8P8A7a8BlNbM3KXMsToIks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg5/Nzg3LTE1Nzk5MjU3/NjMtMTQ5MC5qcGVn.jpeg" alt="Cover for I Can&#39;t Stand It Here On Quiet Nights: Singles 1981-82" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-11</td>
+      <td>Maximum Joy</td>
+      <td>I Can&#39;t Stand It Here On Quiet Nights: Singles 1981-82</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/GLzujdqyl1H34zRZKLJ38_cMmsYZcTaaow9I4-iBE2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjUw/OTQwLTE2MzE3ODI5/MTgtNDM2My5qcGVn.jpeg" alt="Cover for Songs From Our Website" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-29</td>
+      <td>Bucky</td>
+      <td>Songs From Our Website</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duo" | relative_url }}">duo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/J60FN9r07Yz6kQucWw63IToT8mjY0bKrHIs8GQKlc-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ1/NTY4LTE1MjkyMjM3/ODAtNjAzNC5qcGVn.jpeg" alt="Cover for Abstract Thoughts - EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-02-02</td>
+      <td>HEAVY LUNGS</td>
+      <td>Abstract Thoughts - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/QZikLMZUdG2m9a-nJysjQDvHP7iMDt_eX1n10R41bPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIy/MzY4LTE1ODAzMjE1/MTQtNjM0OC5qcGVn.jpeg" alt="Cover for Tara Clerkin Trio" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>Tara Clerkin Trio</td>
+      <td>Tara Clerkin Trio</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/uYzJ5Iu3AdITpQOEs8FttIZfIekssGK_Iub-RFTGNFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk1/MTY1LTE1NTMzODI5/MjUtMjY4NC5qcGVn.jpeg" alt="Cover for Zero Deaths (Original Score)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-03-06</td>
+      <td>by Forever</td>
+      <td>Zero Deaths (Original Score)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/q7xlbv2kjr7ex2Yde7WKXVmNYAibT3sGpMkU0xe8Hho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQ2/NDg5LTE1NjA5NzYz/OTItNTIxMi5qcGVn.jpeg" alt="Cover for Yellow House &#x2F; Yellow Dub" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-05-03</td>
+      <td>ishmael ensemble</td>
+      <td>Yellow House &#x2F; Yellow Dub</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/9ofm5-bdIAcECY7oBqJx6NPOwdTbIzvQyRAjBg-oDMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODgx/NTY1LTE1ODQ4MDky/MTEtMjkyNi5qcGVn.jpeg" alt="Cover for bloom" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-10-14</td>
+      <td>Old Pride</td>
+      <td>bloom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/IKo23rQJ8yXCnG9NB4YKti-ZvPpAMN-YcxmluPoD5lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIy/MjI3LTE2MjU2NDIy/NDUtNjY3NC5qcGVn.jpeg" alt="Cover for FLUX" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-11-08</td>
+      <td>Rachael Dadd</td>
+      <td>FLUX</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/0RA4ji4jwrL6nugjDWZNXk91qBj8mBgFOGK02anb2o4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTU1/MjU3LTE1ODc0NzYw/MzYtMzQyMC5qcGVn.jpeg" alt="Cover for Set The Sky Alight" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-02-26</td>
+      <td>Figment</td>
+      <td>Set The Sky Alight</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/lLl04kpWkxX77HwC5qS_BwFnZ6pTi4dQv_vls0mBTRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTAx/ODMwLTE1OTk4Njk3/ODItMjA3Ny5qcGVn.jpeg" alt="Cover for Spice" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-07-17</td>
+      <td>Grove</td>
+      <td>Spice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/PwpVMJqHEY1ZuCgSmuFm4AlM8rG-CQs8cEraQd7FmN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjYw/NTcyLTE2Mzg4NzU2/MzctMTk1NS5wbmc.jpeg" alt="Cover for Something Real" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-10-05</td>
+      <td>Katy J Pearson</td>
+      <td>Something Real</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/I-JOCdpBW69ILcpP2v-WlMg6mZYZDaL_1qHb02WVHZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTkx/MzUyLTE2Mzk4MDc0/NDMtMTEyMS5qcGVn.jpeg" alt="Cover for I Own Your Energy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-11-12</td>
+      <td>Batu</td>
+      <td>I Own Your Energy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/0G-3VaKv3jx9dzSRYIaB4pBbVhmMMqFul4opI7lru6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTgx/MjUyLTE2MzgzMDAz/NDItMzIyMC5qcGVn.jpeg" alt="Cover for Christmas Crackers, Vol 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-11-26</td>
+      <td>The Soul Santas</td>
+      <td>Christmas Crackers, Vol 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/Tj_JU-wQ5nmppyU6764-Y9QLZgSHt_6gsCiSVCHeIig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzYz/MTk5LTE2MzU0NDMx/NzctODExMy5qcGVn.jpeg" alt="Cover for Y in Dub" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-12-03</td>
+      <td>The Pop Group</td>
+      <td>Y in Dub</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/IB9uVovjzSZ75MDDnvKQ9xd50XUYoXU4qn_z0XvibvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODI1/ODIyLTE2NTczMTMy/MjktNTkzNS5qcGVn.jpeg" alt="Cover for The Free To Be Me E.P." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-02-03</td>
+      <td>Rose Kemp</td>
+      <td>The Free To Be Me E.P.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>For Demonstration Purposes Only</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/wales" | relative_url }}">wales</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 22</li>
+            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/Q3IhUn3qIhTMDKlwDFMERpS-ZzdZBgiEHikv8LTUABs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzQ0/ODYxLTE2NzU2MzM5/NTktODczNy5qcGVn.jpeg" alt="Cover for Prize" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-01-13</td>
+      <td>Rozi Plain</td>
+      <td>Prize</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/jTjcC_aD0XUtfAjNOlGWlM3h_ujledaTRRys-M8ogCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDU4/MzMwLTE3Mjk2MzQ5/OTktMTE0OS5qcGVn.jpeg" alt="Cover for Third Time at the Beach" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-09-20</td>
+      <td>LICE</td>
+      <td>Third Time at the Beach</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Snakes On A Plane</td>
+      <td>Live @ The Croft, Bristol, 29th Jan 2006</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Silev</td>
+      <td>Christmass Songs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mustard Allegro</td>
+      <td>The Swindon Oasis EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Team Brick</td>
+      <td>Live @ The Cube, Bristol, 25th March 2006</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

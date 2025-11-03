@@ -9,6 +9,10 @@ title: finnish metal
 
 Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Finnish metal represents the distinctive heavy music scene from Finland, characterized by a melancholic yet melodic sensibility that blends Nordic darkness with theatrical romanticism. The sound ranges from gothic-tinged rock to aggressive industrial elements, often incorporating Finnish language lyrics that add raw emotional intensity. This tag captures Finland&#39;s unique contribution to metal: a marriage of accessible hooks with brooding atmosphere and cultural introspection.
+
 ### 100 chronological releases
 
 <table>
@@ -65,7 +69,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 49</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -92,7 +96,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 53</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -119,7 +123,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 45</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -286,7 +290,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 56</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 80</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 83</li>
             <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 98</li>
         </ul>
       </td>
@@ -369,7 +373,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 1</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -435,7 +439,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 18</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -471,8 +475,8 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 47</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 69</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 49</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 71</li>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 77</li>
         </ul>
       </td>
@@ -496,7 +500,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 69</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -518,7 +522,8 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 42</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 6</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -731,6 +736,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -748,7 +754,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 23</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -770,7 +776,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 4</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -789,7 +795,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 22</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -865,7 +871,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 11</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -910,7 +916,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 62</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 64</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 94</li>
         </ul>
       </td>
@@ -1023,7 +1029,8 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 1</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1099,7 +1106,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 30</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1151,10 +1158,6 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       <td>IV</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
         </ul>
       </td>
       <td>
@@ -1366,7 +1369,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 76</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 79</li>
             <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 89</li>
         </ul>
       </td>
@@ -1497,7 +1500,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 56</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 57</li>
             <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 60</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 82</li>
         </ul>
@@ -1773,7 +1776,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 67</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1854,7 +1857,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 45</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -2151,7 +2154,7 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 69</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2181,8 +2184,8 @@ Last updated: <time datetime="2025-10-30T08:16:39.484Z">Thu Oct 30 2025 10:16:39
 - [death metal]({{ "/tags/death-metal" | relative_url }})
 - [melodic death metal]({{ "/tags/melodic-death-metal" | relative_url }})
 - [finland]({{ "/tags/finland" | relative_url }})
-- [heavy metal]({{ "/tags/heavy-metal" | relative_url }})
 - [progressive metal]({{ "/tags/progressive-metal" | relative_url }})
+- [heavy metal]({{ "/tags/heavy-metal" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
 - [black metal]({{ "/tags/black-metal" | relative_url }})
 - [power metal]({{ "/tags/power-metal" | relative_url }})

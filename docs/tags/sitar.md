@@ -9,110 +9,2069 @@ title: sitar
 
 Last updated: <time datetime="2025-10-22T02:09:22.328Z">Wed Oct 22 2025 05:09:22 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+The sitar tag encompasses music featuring the distinctive long-necked Indian string instrument known for its resonant, shimmering drone and melodic complexity rooted in Hindustani classical traditions. Its sound ranges from traditional ragas performed by virtuoso masters to fusion experiments blending Eastern spirituality with Western psychedelic and electronic influences. The instrument&#39;s cascading notes and sympathetic strings create an unmistakable sonic texture that has captivated listeners across cultural boundaries since the 1960s.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 1 | ![Cover](https://i.discogs.com/T4_JM3xHx6re6Rr1jCk7xHrWStN9wAbNF_pAFJguY6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjAx/OTYxLTE1OTQzNDI0/NjUtMzc0Ny5qcGVn.jpeg) | 2016-02-19 | Shujaat Hussain Khan | Maestro&#39;s Choice - Shujaat Hussain Khan |
-| 2 |  |  | Ravi Shankar, Vilayat Khan, Shujaat Hussain Khan | Saaz Sitar - Volume 1 |
-| 58 |  |  | Aum Orchestra | Yoga Healing |
-| 97 |  | 1956 | Ravi Shankar | Three Ragas |
-| 99 |  | 1958 | Ravi Shankar | The Sounds of India |
-| 71 | ![Cover](https://i.discogs.com/u-xvLXSvXUF74ye4t-t3siUVLGePxyxKzVbiMZdu1bM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODU4/OTAtMTM1NDc0OTc0/NS02MzQ0LmpwZWc.jpeg) | 1962 | Ravi Shankar | The Essential |
-| 70 |  | 1966 | Gábor Szabó | Jazz Raga |
-| 47 | ![Cover](https://i.discogs.com/q7BzBcNJW5OUjZZw-l_ubdZTvv5xvOxyt4FwldexZlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTgx/NjQtMTI0MTQ0NDQ2/MC5qcGVn.jpeg) | 1967 | Ravi Shankar | Sur Saaz aur Taal - Volume 2 |
-| 65 | ![Cover](https://i.discogs.com/GO1L6S7nzOYwi706qiY1D3pK9EK4oUOj69dJnEqHzTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDEz/NzQtMTQwMDMzMzQz/OC02MjU1LmpwZWc.jpeg) | 1967 | Ali Akbar Khan | Signature Series Vol 1 |
-| 90 |  | 1967 | Ravi Shankar | Sound of the Sitar |
-| 41 |  | 1968 | The Ceyleib People | Tanyet |
-| 26 | ![Cover](https://i.discogs.com/_kPjaoXZZ1OQXm8XoJb_1_0C1IYORqa_1QM9Y0fG2Rw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDQw/Ni0xMzQ5MzkwODc5/LTUxNjUuanBlZw.jpeg) | 1968-11-01 | George Harrison | Wonderwall Music |
-| 38 |  |  | Xaviaro | Lonesome Honeybee |
-| 35 | ![Cover](https://i.discogs.com/pDlzGxQXWonqX-511CeF0GD2VjEIzjD9XMMT2iNjnSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY2/NzItMTM4NzMwMzY0/NS0xMTEyLmpwZWc.jpeg) | 1969 | The Vampires&#39; Sound Incorporation | Psychedelic Dance Party |
-| 72 |  | 1970 | Oriental Sunshine | Dedicated To The Bird We Love |
-| 86 |  | 1970 | Ravi Shankar | Ravi Shankar at The Woodstock Festival |
-| 96 |  | 1970 | Ananda Shankar | Ananda Shankar |
-| 56 | ![Cover](https://i.discogs.com/q7BzBcNJW5OUjZZw-l_ubdZTvv5xvOxyt4FwldexZlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTgx/NjQtMTI0MTQ0NDQ2/MC5qcGVn.jpeg) | 1973 | Ravi Shankar | Shankar: Symphony |
-| 61 | ![Cover](https://i.discogs.com/nhSOqQAGxyLKtgqeZpEEvwu6cKlSd4-hxOMqH56Qfag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg2/MDctMTI0NDY5MTE4/MS5qcGVn.jpeg) | 1973 | Ravi Shankar | Transmigration Macabre |
-| 31 | ![Cover](https://i.discogs.com/T6HhJpBMM4PK2KPuEijsNUlPrbcv_jmWsN2fwdCbgYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzU4/NTAtMTU0NTEyMzA4/MS0xMzE5LmpwZWc.jpeg) | 1975 | Imrat Khan | Indian Music for Sitar &amp; Surbahar For Meditation &amp; Love |
-| 55 | ![Cover](https://i.discogs.com/t5LN8bCWE4oMzLJ0x_p8_L0pKkkD4MgRID0iF-HJrWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDc1/NDYtMTYwODcxNjgy/My01NDkyLmpwZWc.jpeg) | 1977 | Oregon | Friends |
-| 62 | ![Cover](https://i.discogs.com/nouiceerVv_t2sIwJxwOeBNa5N6wlHw_uOz1SUU_JGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODAw/MzYtMTUxMjU3MzA1/NS03MTc4LmpwZWc.jpeg) | 1977 | Nikhil Banerjee | Raag Megh |
-| 77 | ![Cover](https://i.discogs.com/iEyetPmEDb1Jpt14zaGYnQHCL1gZnvcnd2bNwB9EPQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDkz/MzEtMTM0Njc5MDQ0/NS01OTAwLmpwZWc.jpeg) | 1983 | Ananda Shankar | Snow Flower |
-| 89 |  | 1989 | Ravi Shankar | Inside The Kremlin |
-| 51 | ![Cover](https://i.discogs.com/G8Jycy2pr3RzGrkdxpAP_QF4uQ9o74nxAfzyST9ede0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTc0/NDgtMTM1ODgxODgw/Ny0zODg4LmpwZWc.jpeg) | 1990 | Ravi Shankar | The Ravi Shankar Collection: Sound Of The Sitar |
-| 11 | ![Cover](https://i.discogs.com/UQVEmm5leA-hBK5P-BwqUQSjrKrotEwMEdm6bzKQwQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgw/OTAxLTE2MTk1MjEz/OTUtMjUzMi5qcGVn.jpeg) | 1991-07 | Kalyanji &amp; Anandji Shah | Bombay the Hard Way: Guns, Cars &amp; Sitars (feat. Dan the Automator &amp; DJ Shadow) |
-| 67 | ![Cover](https://i.discogs.com/06PoPz7yPUSsvhQt3Zk7Sg9fjEIPUaio7qSu27aMjHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Njcw/MjktMTU4NTY3Njg2/Ni01MDU2LmpwZWc.jpeg) | 1995 | Vilayat Khan | Maestro&#39;s Choice - Vilayet Khan |
-| 69 |  | 1995 | Makyo | Rasa Bhava |
-| 63 |  | 1996 | Ravi Shankar | In Celebration |
-| 74 | ![Cover](https://i.discogs.com/h_QmqDxcvqAVu8s5zM9jDbgiL6m9MmAL5GExw0UBGVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/MzE0LTE1ODI2NTE3/ODQtNTE5MS5wbmc.jpeg) | 1997-10-21 | Sur Sudha | Images of Nepal |
-| 3 | ![Cover](https://i.discogs.com/HpDMF2sVblB7UjObVHDj7tsYNPvYNG3G_7XoVoZgJKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NjUyLTE1MzA2MzQ3/NzItOTk0OS5qcGVn.jpeg) | 2015-12-18 | Stuart Balcomb | Gravity &amp; Grace |
-| 4 |  |  | Ravi Shankar, Vilayat Khan, Shujaat Hussain Khan | Saaz Sitar - Volume 2 |
-| 6 |  |  | lightsweetcrude | lightsweetcrude |
-| 80 |  |  | The Ananda Shankar Experience and State of Bengal | Walking On |
-| 37 | ![Cover](https://i.discogs.com/jUxmwq6-5uS0Nh8iqacf8EkfzF9CClNu-oFQ3OEe4nI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTA5/NDEtMTUwOTA4OTc3/MS04NDgzLmpwZWc.jpeg) | 1990 | Baluji Shrivastav | Baluji Shrivastav: Classical Indian Sitar and Surbahar Ragas |
-| 81 | ![Cover](https://i.discogs.com/tiY-PJom9UXkUpmL05BJCKjxThmU90fexISjYzrqp5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjE5/MzQtMTMwMTcyMjI5/OC5qcGVn.jpeg) | 1991 | Ravi Shankar | Maestro&#39;s Choice - Ravi Shankar |
-| 84 | ![Cover](https://i.discogs.com/RNI4Kkr2wFy15bDIHKlppxXwPMKiCailU2qnVLr0n7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjAx/NzktMTI0MDE2MjIz/OC5qcGVn.jpeg) | 1992-03-10 | Metallica | Wherever I May Roam |
-| 98 |  | 1997-05-06 | Ravi Shankar | Chants Of India |
-| 83 |  | 1998-10-20 | Anoushka Shankar | Anoushka |
-| 64 | ![Cover](https://i.discogs.com/SrmwoOt50bkiGM1Ed5lUWzKeuyAuSW1votNZ3huOqsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODA1/NC0xMjI2MzIyNjg0/LmpwZWc.jpeg) | 1999 | Makyo | Makyo&gt;Rasa Bhava |
-| 73 | ![Cover](https://i.discogs.com/H84m_rdP4y8nR95Wm2yCiWRPFtRaVBVuCoC_PrByrpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDM0/Ni0xNTAyMjMzMTQ3/LTIwNjQuanBlZw.jpeg) | 1999 | Lord Sitar | Lord Sitar |
-| 94 |  | 1999 | Ravi Shankar &amp; Yehudi Menuhin | West Meets East: The Historic Shankar&#x2F;Menuhin Sessions |
-| 92 |  | 2000-08-15 | Anoushka Shankar | Anourag |
-| 52 | ![Cover](https://i.discogs.com/KjM2eqemPskrUajwcqYXQPUjvhmb8kHSXzPVDVGkQhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTQz/ODctMTQ1ODAzODgy/MS00MzgzLmpwZWc.jpeg) | 2001 | Ravi Shankar | Call Of The Earth - 12 Meditations On The Sitar |
-| 66 |  | 2001 | Ravi Shankar | Bridges |
-| 87 |  | 2001-10-23 | Anoushka Shankar | Live At Carnegie Hall |
-| 54 | ![Cover](https://i.discogs.com/scVRRe_bbdeZgq8DnBE4XGvoHB-mLRBcvukHGBM0cyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg2/MjctMTY5NDQ5ODYy/Mi05NzEzLmpwZWc.jpeg) | 2002 | Big Jim Sullivan | Sitar Beat |
-| 76 | ![Cover](https://i.discogs.com/ox_EtJgTI_Lv-6lTj3LtIthEi2IQGojnms9Vkpm-92o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODMz/MDMtMTI0NzY5NDEx/My5qcGVn.jpeg) | 2002 | Cosmic Eye | Dream Sequence |
-| 59 | ![Cover](https://i.discogs.com/v8J-BP7LwL4ci8Vee8MY6KzsdQwX77zLdsb2KSvdOwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDYx/Ni0xMTczMDQzNjAw/LmpwZWc.jpeg) | 2003-03-25 | Nataraj XT | Ocean Birds |
-| 8 | ![Cover](https://i.discogs.com/zdxYntKkTfDwyC370Afbb5iRdAU_EXKFLq2vLUyRNlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTQ1/Mi0xNDY0Njg2ODQ4/LTU1OTEuanBlZw.jpeg) | 2003-09-16 | Kamel Nitrate | Lost In Spice |
-| 9 |  |  | Shivkumar Sharma &amp; Hariprasad Chaurasia | The Valley Recalls |
-| 10 |  |  | The Lawn Boys | The Lawn |
-| 25 |  |  | Guido Schiraldi | Dance of an angel |
-| 43 |  |  | Julean and the Rai | Alexandria, Falling (EP)(2007) |
-| 20 |  | 1967 | Vincent Bell | Pop Goes the Electric Sitar |
-| 15 | ![Cover](https://i.discogs.com/G9w1O1J-ooJsWshxU84QPB9L_yNrHHb0gR1ELbOYR5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjA3/OTQtMTI3NjcyNTM1/MS5qcGVn.jpeg) | 1969-05 | Indo British Ensemble | Curried Jazz |
-| 44 | ![Cover](https://i.discogs.com/O8KKrocvXa1cmhPg9--ZUVPKHPe9F1MuBdnUujWiRSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODA4/NDA2LTE1NDIzNjcx/NjQtODEzOC5qcGVn.jpeg) | 1970 | Ravi Shankar | At the Monterey International Pop Festival |
-| 27 | ![Cover](https://i.discogs.com/xQyFPM4FHopqAHevpZ6JV6unbX3oZqp8LG1diIAD9ME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Nzcy/NTItMTQ4ODM0MjI0/NS04MDE2LmpwZWc.jpeg) | 1979 | Amjad Ali Khan | Raag Jaunpuri |
-| 28 | ![Cover](https://i.discogs.com/f1p7ATn47Ptf_iRDhbiiSefW0ptcZ5-6ETLQI8PTrak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDk0/OTMtMTU4OTg3MzY4/Ni0xMzA1LmpwZWc.jpeg) | 1989 | Ustad Imrat Khan | Legendary Legacy |
-| 24 |  | 1991 | Ravi Shankar | The Unparalleled Pt. Ravi Shankar |
-| 49 |  | 1992 | Nikhil Banerjee | Afternoon Ragas |
-| 48 | ![Cover](https://i.discogs.com/-TisI25bzWCvYKD-l7xDmv8v9oPyOHOwS2XhtijDOBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDgx/NTktMTY3NTMwNTg4/NC00NzA5LmpwZWc.jpeg) | 1994 | Ashwin Batish | Sitar Power 1 - A Fusion of Rock and Indian Music |
-| 42 | ![Cover](https://i.discogs.com/G8Jycy2pr3RzGrkdxpAP_QF4uQ9o74nxAfzyST9ede0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTc0/NDgtMTM1ODgxODgw/Ny0zODg4LmpwZWc.jpeg) | 1995 | Ravi Shankar | Ravi Shankar Digital Collection 1 |
-| 19 |  | 1999 | Mark Deutsch | Fool... |
-| 29 | ![Cover](https://i.discogs.com/51YtDC8jPQCLMb5GhiyBowG-I0g3Pvt30syMM6Y782U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTA2/NzUtMTQ4OTA5NjI5/Mi0zMzUwLmpwZWc.jpeg) | 1999 | Ziskakan | 4 ti mo |
-| 50 | ![Cover](https://i.discogs.com/2ChgVTlXM8NtnHstvRVJQm9RQInwv-gINPbHKLeuyT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzA3/MDE2LTE2NzMyMDEz/MTQtMTc5NS5qcGVn.jpeg) | 1999-02 | Ravi Shankar | The Doyen of Hindustani Music |
-| 23 | ![Cover](https://i.discogs.com/F-SdcDJOwLkgG3oVcPcBxbpoUJuw5c5z3QfvSNWZ5Tk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzc2/NzUtMTQwOTQ2NTAy/Ny00Nzk1LmpwZWc.jpeg) | 2000 | Ravi Shankar - Ali Akbar Khan | Ragas |
-| 18 | ![Cover](https://i.discogs.com/SXFQXtUzHiOoVUdfdtK56MdoxHEzWxxp92KYK1Gm2oY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjkw/NDQ1LTE2MTMzMzEw/ODgtNTczMS5qcGVn.jpeg) | 2002 | Antion | One in the Goddess |
-| 39 | ![Cover](https://i.discogs.com/sEpPVUudoX_guTKLmC5BjhfC5X34LmkVPv6mdy8w010/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDg4/MDMtMTI1MTczNjQz/Mi5qcGVn.jpeg) | 2002-09-23 | Amalgama | Encuentro |
-| 30 |  | 2003 | Atash | Republic Of Love |
-| 40 | ![Cover](https://i.discogs.com/1MXefHvtIn4V6jwKAXF-Q9eXCovbCE9QsfKDzXv-g1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTE5/Mi0xNTE1OTc0Nzcx/LTc1MTEuanBlZw.jpeg) | 2003 | Quintessence | Oceans Of Bliss - An Introduction To |
-| 32 |  | 2004-09-18 | Madan Mohan | Veer-Zaara |
-| 22 | ![Cover](https://i.discogs.com/jlQEq5IILZRyMOXeDpJZ8py3p7Q2FSKs6nhIfbnPzgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzI0/NDY0LTE1OTAwMTYz/NDEtNzI5NS5qcGVn.jpeg) | 2005 | Thors | Ayurveda |
-| 60 |  | 2005 | Ravi Shankar | The Essential Ravi Shankar |
-| 100 |  | 2005-09-25 | Anoushka Shankar | Rise |
-| 14 |  | 2006 | Various Artists | Electric Psychedelic Sitar Headswirlers Vol 2 |
-| 16 | ![Cover](https://i.discogs.com/TKdu6o3eXwrZFqa89vmcg2uZljSF-hUjFXAqHKWqNUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Njcy/MzUtMTQyODMyNzIw/My02Mjk1LmpwZWc.jpeg) | 2006 | KarmaStone | Girls Cry |
-| 78 |  | 2006-09-24 | Brain Damage | Visages sur l&#39;écran |
-| 95 | ![Cover](https://i.discogs.com/cQ881dA1MaMLFfKUVUwfYXlZFSviVLxVH0C5lu5QzO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDIw/NDMtMTQ0Nzg0NTg0/MC05NzcwLmpwZWc.jpeg) | 2006-10-01 | Anoushka Shankar | Rise Remixes |
-| 5 | ![Cover](https://i.discogs.com/n6rGATrF_v3SsDza7Q41ZzBCA2Xu5JrYllSdxMxMEgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDQ5/NTQtMTM3NzE5ODUw/My00ODYzLmpwZWc.jpeg) | 2007 | Vilayat Khan-Ali Akbar Khan | Psychedelic Music Of India |
-| 45 | ![Cover](https://i.discogs.com/dgNbX0bwok-d5sSnWaV2jhTtJGgF8SqMkIrS701HfRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc3/NDctMTIwMzYxNDg1/NS5qcGVn.jpeg) | 2007 | Jerry Johansson | Next Door Conversation |
-| 75 | ![Cover](https://i.discogs.com/HV6q_ZD0oKWfzkanFSyQEmGfmWY8C7wP01Ul_qBDC1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY3/NTU3LTE1NDExNDI3/MjgtMzQ1Ny5qcGVn.jpeg) | 2008 | Ravi Shankar | The Best of Ravi Shankar |
-| 57 | ![Cover](https://i.discogs.com/Pev1hr_Lf9xw8u2ZuzGraTezgJdJcK_EZI6NirxBkQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcw/MDQtMTIwNTc3NDc2/My5qcGVn.jpeg) | 2008-03-21 | Alio Die | Sitar Meditations |
-| 79 |  | 2010-09 | Ravi Shankar | The Very Best of Ravi Shankar |
-| 91 | ![Cover](https://i.discogs.com/gPJX3UHQ06StHYxV_wEnP7Emx9rLmlq-g8ZPnldm6qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjU1/OTItMTMzMzg5NTI2/My5qcGVn.jpeg) | 2011 | Anoushka Shankar | Breathing Under Water |
-| 88 |  | 2011-10-14 | Anoushka Shankar | Traveller |
-| 53 | ![Cover](https://i.discogs.com/8JLcq_wgVXa0NVXbjzJtskFNoBtevBAr6pSaCQB5-Po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQz/NjQ5LTE1OTE3MTA1/NjctMzE0NS5qcGVn.jpeg) | 2012 | Cardamomo | CARDAMOMO |
-| 82 | ![Cover](https://i.discogs.com/G8Jycy2pr3RzGrkdxpAP_QF4uQ9o74nxAfzyST9ede0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTc0/NDgtMTM1ODgxODgw/Ny0zODg4LmpwZWc.jpeg) | 2012 | Ravi Shankar | The Ravi Shankar Collection: Portrait Of Genius |
-| 85 | ![Cover](https://i.discogs.com/gdn0W3z-2a52QgiYlVAN9usG6sI3oGCBOMr_4PHK0pQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDMz/MTctMTQ1MjEzMjU2/Mi04ODIzLmpwZWc.jpeg) | 2015 | Anoushka Shankar | Home |
-| 93 | ![Cover](https://i.discogs.com/v1kdQr92-wSvfZkBVgxX-TXPRz4L0zqJVmY6I-3UZLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDE1/OTItMTQ2Mjg4ODk1/OS0xNTk3LmpwZWc.jpeg) | 2016-04-29 | Anoushka Shankar | Land Of Gold |
-| 68 | ![Cover](https://i.discogs.com/C8f0mjjqVI_yvF4dr7pUgA2pLEfz3JY_-QbMLyB_i0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzE2/OTktMTY4MjkzNTcx/MS05MTIyLmpwZWc.jpeg) | 2017 | Ravi Shankar | Music of India - Ragas and Talas |
-| 7 | ![Cover](https://i.discogs.com/dXbLmV77pr_144qlXbta671z98GKl24EcLbgnYaLxqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzgy/MTM4LTE1NzMzOTky/NzktODA4OS5qcGVn.jpeg) | 2019-10-25 | Caleido | Caleido |
-| 12 |  |  | JVR Rams | Kuwait |
-| 21 |  | 2008-03-02 | Sitaar Tah! | Semimimimimin |
-| 17 | ![Cover](https://i.discogs.com/qz09Iz4c5agnhXZkxEAAI1XCG9Kkz4mCY7eOjMp2F70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzQ4/ODM4LTE3MzIxNTU0/OTItMjgwMi5qcGVn.jpeg) | 2009 | Various Artists | Electric Psychedelic Sitar Headswirlers Vol. 1 |
-| 34 |  | 2009-01 | Ravi Shankar | Festival from India |
-| 33 | ![Cover](https://i.discogs.com/2q3MxcR2c_eFI_9x06IlschJHag7K_yhLwbxcfSt0v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDAx/NDQtMTMxMTEwMTA4/Ny5qcGVn.jpeg) | 2011-05-12 | The Phantom Four &amp; The Arguido | The Obscure EP |
-| 46 | ![Cover](https://i.discogs.com/FvkgP82Bbhs20vyVtBqx_Xr7ai1-BCLLy7DBe6o20_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODMx/ODkwLTE2NjU4NDMx/OTQtODIwMi5qcGVn.jpeg) | 2012 | Jerry Johansson | And a String Quartet from Gothenburg Symphony Orchestra |
-| 13 | ![Cover](https://i.discogs.com/-fYYg6YZ9ZRe3yTciCcmkYkGq9CEszbdPMaEJVzYWjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTcx/MzEtMTM1OTkwNTcw/OS03MDI5LmpwZWc.jpeg) | 2012-11 | Astral Travel | The Sound of Light |
-| 36 | ![Cover](https://i.discogs.com/O5msfIrsW1NBngJg7VDE5fUz5O_8e1XFktOdihKlVfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTkw/NDU4LTE2NjEyNzQ4/MjctNjM1NC5qcGVn.jpeg) | 2022-05-06 | JASDEEP SINGH DEGUN | Anomaly |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>1956</td>
+      <td>Ravi Shankar</td>
+      <td>Three Ragas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>1958</td>
+      <td>Ravi Shankar</td>
+      <td>The Sounds of India</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 18</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 53</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/u-xvLXSvXUF74ye4t-t3siUVLGePxyxKzVbiMZdu1bM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODU4/OTAtMTM1NDc0OTc0/NS02MzQ0LmpwZWc.jpeg" alt="Cover for The Essential" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1962</td>
+      <td>Ravi Shankar</td>
+      <td>The Essential</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td>1966</td>
+      <td>Gábor Szabó</td>
+      <td>Jazz Raga</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/GO1L6S7nzOYwi706qiY1D3pK9EK4oUOj69dJnEqHzTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDEz/NzQtMTQwMDMzMzQz/OC02MjU1LmpwZWc.jpeg" alt="Cover for Signature Series Vol 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1967</td>
+      <td>Ali Akbar Khan</td>
+      <td>Signature Series Vol 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>1967</td>
+      <td>Ravi Shankar</td>
+      <td>Sound of the Sitar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>1967</td>
+      <td>Vincent Bell</td>
+      <td>Pop Goes the Electric Sitar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/q7BzBcNJW5OUjZZw-l_ubdZTvv5xvOxyt4FwldexZlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTgx/NjQtMTI0MTQ0NDQ2/MC5qcGVn.jpeg" alt="Cover for Sur Saaz aur Taal - Volume 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1967</td>
+      <td>Ravi Shankar</td>
+      <td>Sur Saaz aur Taal - Volume 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+      </td>
+      <td>1968</td>
+      <td>The Ceyleib People</td>
+      <td>Tanyet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/_kPjaoXZZ1OQXm8XoJb_1_0C1IYORqa_1QM9Y0fG2Rw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDQw/Ni0xMzQ5MzkwODc5/LTUxNjUuanBlZw.jpeg" alt="Cover for Wonderwall Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968-11-01</td>
+      <td>George Harrison</td>
+      <td>Wonderwall Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/pDlzGxQXWonqX-511CeF0GD2VjEIzjD9XMMT2iNjnSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY2/NzItMTM4NzMwMzY0/NS0xMTEyLmpwZWc.jpeg" alt="Cover for Psychedelic Dance Party" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969</td>
+      <td>The Vampires&#39; Sound Incorporation</td>
+      <td>Psychedelic Dance Party</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/G9w1O1J-ooJsWshxU84QPB9L_yNrHHb0gR1ELbOYR5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjA3/OTQtMTI3NjcyNTM1/MS5qcGVn.jpeg" alt="Cover for Curried Jazz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969-05</td>
+      <td>Indo British Ensemble</td>
+      <td>Curried Jazz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>1970</td>
+      <td>Oriental Sunshine</td>
+      <td>Dedicated To The Bird We Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>1970</td>
+      <td>Ananda Shankar</td>
+      <td>Ananda Shankar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 45</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/O8KKrocvXa1cmhPg9--ZUVPKHPe9F1MuBdnUujWiRSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODA4/NDA2LTE1NDIzNjcx/NjQtODEzOC5qcGVn.jpeg" alt="Cover for At the Monterey International Pop Festival" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970</td>
+      <td>Ravi Shankar</td>
+      <td>At the Monterey International Pop Festival</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>1970</td>
+      <td>Ravi Shankar</td>
+      <td>Ravi Shankar at The Woodstock Festival</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/q7BzBcNJW5OUjZZw-l_ubdZTvv5xvOxyt4FwldexZlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTgx/NjQtMTI0MTQ0NDQ2/MC5qcGVn.jpeg" alt="Cover for Shankar: Symphony" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973</td>
+      <td>Ravi Shankar</td>
+      <td>Shankar: Symphony</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/india" | relative_url }}">india</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 14</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 19</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 21</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/nhSOqQAGxyLKtgqeZpEEvwu6cKlSd4-hxOMqH56Qfag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg2/MDctMTI0NDY5MTE4/MS5qcGVn.jpeg" alt="Cover for Transmigration Macabre" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973</td>
+      <td>Ravi Shankar</td>
+      <td>Transmigration Macabre</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 25</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/T6HhJpBMM4PK2KPuEijsNUlPrbcv_jmWsN2fwdCbgYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzU4/NTAtMTU0NTEyMzA4/MS0xMzE5LmpwZWc.jpeg" alt="Cover for Indian Music for Sitar &amp; Surbahar For Meditation &amp; Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975</td>
+      <td>Imrat Khan</td>
+      <td>Indian Music for Sitar &amp; Surbahar For Meditation &amp; Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/t5LN8bCWE4oMzLJ0x_p8_L0pKkkD4MgRID0iF-HJrWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDc1/NDYtMTYwODcxNjgy/My01NDkyLmpwZWc.jpeg" alt="Cover for Friends" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Oregon</td>
+      <td>Friends</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/nouiceerVv_t2sIwJxwOeBNa5N6wlHw_uOz1SUU_JGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODAw/MzYtMTUxMjU3MzA1/NS03MTc4LmpwZWc.jpeg" alt="Cover for Raag Megh" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Nikhil Banerjee</td>
+      <td>Raag Megh</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/xQyFPM4FHopqAHevpZ6JV6unbX3oZqp8LG1diIAD9ME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Nzcy/NTItMTQ4ODM0MjI0/NS04MDE2LmpwZWc.jpeg" alt="Cover for Raag Jaunpuri" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Amjad Ali Khan</td>
+      <td>Raag Jaunpuri</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/iEyetPmEDb1Jpt14zaGYnQHCL1gZnvcnd2bNwB9EPQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDkz/MzEtMTM0Njc5MDQ0/NS01OTAwLmpwZWc.jpeg" alt="Cover for Snow Flower" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>Ananda Shankar</td>
+      <td>Snow Flower</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/f1p7ATn47Ptf_iRDhbiiSefW0ptcZ5-6ETLQI8PTrak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDk0/OTMtMTU4OTg3MzY4/Ni0xMzA1LmpwZWc.jpeg" alt="Cover for Legendary Legacy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Ustad Imrat Khan</td>
+      <td>Legendary Legacy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td>1989</td>
+      <td>Ravi Shankar</td>
+      <td>Inside The Kremlin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/jUxmwq6-5uS0Nh8iqacf8EkfzF9CClNu-oFQ3OEe4nI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTA5/NDEtMTUwOTA4OTc3/MS04NDgzLmpwZWc.jpeg" alt="Cover for Baluji Shrivastav: Classical Indian Sitar and Surbahar Ragas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Baluji Shrivastav</td>
+      <td>Baluji Shrivastav: Classical Indian Sitar and Surbahar Ragas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/G8Jycy2pr3RzGrkdxpAP_QF4uQ9o74nxAfzyST9ede0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTc0/NDgtMTM1ODgxODgw/Ny0zODg4LmpwZWc.jpeg" alt="Cover for The Ravi Shankar Collection: Sound Of The Sitar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Ravi Shankar</td>
+      <td>The Ravi Shankar Collection: Sound Of The Sitar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/tiY-PJom9UXkUpmL05BJCKjxThmU90fexISjYzrqp5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjE5/MzQtMTMwMTcyMjI5/OC5qcGVn.jpeg" alt="Cover for Maestro&#39;s Choice - Ravi Shankar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Ravi Shankar</td>
+      <td>Maestro&#39;s Choice - Ravi Shankar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 22</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>1991</td>
+      <td>Ravi Shankar</td>
+      <td>The Unparalleled Pt. Ravi Shankar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/UQVEmm5leA-hBK5P-BwqUQSjrKrotEwMEdm6bzKQwQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDgw/OTAxLTE2MTk1MjEz/OTUtMjUzMi5qcGVn.jpeg" alt="Cover for Bombay the Hard Way: Guns, Cars &amp; Sitars (feat. Dan the Automator &amp; DJ Shadow)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-07</td>
+      <td>Kalyanji &amp; Anandji Shah</td>
+      <td>Bombay the Hard Way: Guns, Cars &amp; Sitars (feat. Dan the Automator &amp; DJ Shadow)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td>1992</td>
+      <td>Nikhil Banerjee</td>
+      <td>Afternoon Ragas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/RNI4Kkr2wFy15bDIHKlppxXwPMKiCailU2qnVLr0n7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjAx/NzktMTI0MDE2MjIz/OC5qcGVn.jpeg" alt="Cover for Wherever I May Roam" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-03-10</td>
+      <td>Metallica</td>
+      <td>Wherever I May Roam</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/-TisI25bzWCvYKD-l7xDmv8v9oPyOHOwS2XhtijDOBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDgx/NTktMTY3NTMwNTg4/NC00NzA5LmpwZWc.jpeg" alt="Cover for Sitar Power 1 - A Fusion of Rock and Indian Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Ashwin Batish</td>
+      <td>Sitar Power 1 - A Fusion of Rock and Indian Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/india" | relative_url }}">india</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/06PoPz7yPUSsvhQt3Zk7Sg9fjEIPUaio7qSu27aMjHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Njcw/MjktMTU4NTY3Njg2/Ni01MDU2LmpwZWc.jpeg" alt="Cover for Maestro&#39;s Choice - Vilayet Khan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Vilayat Khan</td>
+      <td>Maestro&#39;s Choice - Vilayet Khan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 70</li>
+            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Makyo</td>
+      <td>Rasa Bhava</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 10</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 14</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 62</li>
+            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/G8Jycy2pr3RzGrkdxpAP_QF4uQ9o74nxAfzyST9ede0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTc0/NDgtMTM1ODgxODgw/Ny0zODg4LmpwZWc.jpeg" alt="Cover for Ravi Shankar Digital Collection 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Ravi Shankar</td>
+      <td>Ravi Shankar Digital Collection 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/india" | relative_url }}">india</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Ravi Shankar</td>
+      <td>In Celebration</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/india" | relative_url }}">india</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 34</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8120a5700982294bb7728e32c3d03af7.png" alt="Cover for Chants Of India" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-05-06</td>
+      <td>Ravi Shankar</td>
+      <td>Chants Of India</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 5</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 14</li>
+            <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 55</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/h_QmqDxcvqAVu8s5zM9jDbgiL6m9MmAL5GExw0UBGVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQz/MzE0LTE1ODI2NTE3/ODQtNTE5MS5wbmc.jpeg" alt="Cover for Images of Nepal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-10-21</td>
+      <td>Sur Sudha</td>
+      <td>Images of Nepal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 33</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 68</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>1998-10-20</td>
+      <td>Anoushka Shankar</td>
+      <td>Anoushka</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Mark Deutsch</td>
+      <td>Fool...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/international" | relative_url }}">international</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 33</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/51YtDC8jPQCLMb5GhiyBowG-I0g3Pvt30syMM6Y782U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTA2/NzUtMTQ4OTA5NjI5/Mi0zMzUwLmpwZWc.jpeg" alt="Cover for 4 ti mo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Ziskakan</td>
+      <td>4 ti mo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/SrmwoOt50bkiGM1Ed5lUWzKeuyAuSW1votNZ3huOqsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODA1/NC0xMjI2MzIyNjg0/LmpwZWc.jpeg" alt="Cover for Makyo&gt;Rasa Bhava" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Makyo</td>
+      <td>Makyo&gt;Rasa Bhava</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 54</li>
+            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Ravi Shankar &amp; Yehudi Menuhin</td>
+      <td>West Meets East: The Historic Shankar&#x2F;Menuhin Sessions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/india" | relative_url }}">india</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 90</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/H84m_rdP4y8nR95Wm2yCiWRPFtRaVBVuCoC_PrByrpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDM0/Ni0xNTAyMjMzMTQ3/LTIwNjQuanBlZw.jpeg" alt="Cover for Lord Sitar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Lord Sitar</td>
+      <td>Lord Sitar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/2ChgVTlXM8NtnHstvRVJQm9RQInwv-gINPbHKLeuyT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzA3/MDE2LTE2NzMyMDEz/MTQtMTc5NS5qcGVn.jpeg" alt="Cover for The Doyen of Hindustani Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-02</td>
+      <td>Ravi Shankar</td>
+      <td>The Doyen of Hindustani Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/F-SdcDJOwLkgG3oVcPcBxbpoUJuw5c5z3QfvSNWZ5Tk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzc2/NzUtMTQwOTQ2NTAy/Ny00Nzk1LmpwZWc.jpeg" alt="Cover for Ragas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Ravi Shankar - Ali Akbar Khan</td>
+      <td>Ragas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>2000-08-15</td>
+      <td>Anoushka Shankar</td>
+      <td>Anourag</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Ravi Shankar</td>
+      <td>Bridges</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/KjM2eqemPskrUajwcqYXQPUjvhmb8kHSXzPVDVGkQhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTQz/ODctMTQ1ODAzODgy/MS00MzgzLmpwZWc.jpeg" alt="Cover for Call Of The Earth - 12 Meditations On The Sitar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Ravi Shankar</td>
+      <td>Call Of The Earth - 12 Meditations On The Sitar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>2001-10-23</td>
+      <td>Anoushka Shankar</td>
+      <td>Live At Carnegie Hall</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/SXFQXtUzHiOoVUdfdtK56MdoxHEzWxxp92KYK1Gm2oY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjkw/NDQ1LTE2MTMzMzEw/ODgtNTczMS5qcGVn.jpeg" alt="Cover for One in the Goddess" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Antion</td>
+      <td>One in the Goddess</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/scVRRe_bbdeZgq8DnBE4XGvoHB-mLRBcvukHGBM0cyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg2/MjctMTY5NDQ5ODYy/Mi05NzEzLmpwZWc.jpeg" alt="Cover for Sitar Beat" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Big Jim Sullivan</td>
+      <td>Sitar Beat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/ox_EtJgTI_Lv-6lTj3LtIthEi2IQGojnms9Vkpm-92o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODMz/MDMtMTI0NzY5NDEx/My5qcGVn.jpeg" alt="Cover for Dream Sequence" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Cosmic Eye</td>
+      <td>Dream Sequence</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/sEpPVUudoX_guTKLmC5BjhfC5X34LmkVPv6mdy8w010/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDg4/MDMtMTI1MTczNjQz/Mi5qcGVn.jpeg" alt="Cover for Encuentro" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-09-23</td>
+      <td>Amalgama</td>
+      <td>Encuentro</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/india" | relative_url }}">india</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spain" | relative_url }}">spain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Atash</td>
+      <td>Republic Of Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 41</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/1MXefHvtIn4V6jwKAXF-Q9eXCovbCE9QsfKDzXv-g1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTE5/Mi0xNTE1OTc0Nzcx/LTc1MTEuanBlZw.jpeg" alt="Cover for Oceans Of Bliss - An Introduction To" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Quintessence</td>
+      <td>Oceans Of Bliss - An Introduction To</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/v8J-BP7LwL4ci8Vee8MY6KzsdQwX77zLdsb2KSvdOwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDYx/Ni0xMTczMDQzNjAw/LmpwZWc.jpeg" alt="Cover for Ocean Birds" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-03-25</td>
+      <td>Nataraj XT</td>
+      <td>Ocean Birds</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/india" | relative_url }}">india</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/zdxYntKkTfDwyC370Afbb5iRdAU_EXKFLq2vLUyRNlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MTQ1/Mi0xNDY0Njg2ODQ4/LTU1OTEuanBlZw.jpeg" alt="Cover for Lost In Spice" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-09-16</td>
+      <td>Kamel Nitrate</td>
+      <td>Lost In Spice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>2004-09-18</td>
+      <td>Madan Mohan</td>
+      <td>Veer-Zaara</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/india" | relative_url }}">india</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/jlQEq5IILZRyMOXeDpJZ8py3p7Q2FSKs6nhIfbnPzgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzI0/NDY0LTE1OTAwMTYz/NDEtNzI5NS5qcGVn.jpeg" alt="Cover for Ayurveda" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Thors</td>
+      <td>Ayurveda</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Ravi Shankar</td>
+      <td>The Essential Ravi Shankar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>2005-09-25</td>
+      <td>Anoushka Shankar</td>
+      <td>Rise</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Various Artists</td>
+      <td>Electric Psychedelic Sitar Headswirlers Vol 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/TKdu6o3eXwrZFqa89vmcg2uZljSF-hUjFXAqHKWqNUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Njcy/MzUtMTQyODMyNzIw/My02Mjk1LmpwZWc.jpeg" alt="Cover for Girls Cry" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>KarmaStone</td>
+      <td>Girls Cry</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2006-09-24</td>
+      <td>Brain Damage</td>
+      <td>Visages sur l&#39;écran</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 57</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/cQ881dA1MaMLFfKUVUwfYXlZFSviVLxVH0C5lu5QzO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDIw/NDMtMTQ0Nzg0NTg0/MC05NzcwLmpwZWc.jpeg" alt="Cover for Rise Remixes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-10-01</td>
+      <td>Anoushka Shankar</td>
+      <td>Rise Remixes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/n6rGATrF_v3SsDza7Q41ZzBCA2Xu5JrYllSdxMxMEgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDQ5/NTQtMTM3NzE5ODUw/My00ODYzLmpwZWc.jpeg" alt="Cover for Psychedelic Music Of India" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Vilayat Khan-Ali Akbar Khan</td>
+      <td>Psychedelic Music Of India</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/dgNbX0bwok-d5sSnWaV2jhTtJGgF8SqMkIrS701HfRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc3/NDctMTIwMzYxNDg1/NS5qcGVn.jpeg" alt="Cover for Next Door Conversation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Jerry Johansson</td>
+      <td>Next Door Conversation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/HV6q_ZD0oKWfzkanFSyQEmGfmWY8C7wP01Ul_qBDC1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY3/NTU3LTE1NDExNDI3/MjgtMzQ1Ny5qcGVn.jpeg" alt="Cover for The Best of Ravi Shankar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Ravi Shankar</td>
+      <td>The Best of Ravi Shankar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 11</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td>2008-03-02</td>
+      <td>Sitaar Tah!</td>
+      <td>Semimimimimin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/Pev1hr_Lf9xw8u2ZuzGraTezgJdJcK_EZI6NirxBkQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcw/MDQtMTIwNTc3NDc2/My5qcGVn.jpeg" alt="Cover for Sitar Meditations" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-03-21</td>
+      <td>Alio Die</td>
+      <td>Sitar Meditations</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/qz09Iz4c5agnhXZkxEAAI1XCG9Kkz4mCY7eOjMp2F70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzQ4/ODM4LTE3MzIxNTU0/OTItMjgwMi5qcGVn.jpeg" alt="Cover for Electric Psychedelic Sitar Headswirlers Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>Electric Psychedelic Sitar Headswirlers Vol. 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td>2009-01</td>
+      <td>Ravi Shankar</td>
+      <td>Festival from India</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>2010-09</td>
+      <td>Ravi Shankar</td>
+      <td>The Very Best of Ravi Shankar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/gPJX3UHQ06StHYxV_wEnP7Emx9rLmlq-g8ZPnldm6qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjU1/OTItMTMzMzg5NTI2/My5qcGVn.jpeg" alt="Cover for Breathing Under Water" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Anoushka Shankar</td>
+      <td>Breathing Under Water</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/2q3MxcR2c_eFI_9x06IlschJHag7K_yhLwbxcfSt0v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDAx/NDQtMTMxMTEwMTA4/Ny5qcGVn.jpeg" alt="Cover for The Obscure EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-05-12</td>
+      <td>The Phantom Four &amp; The Arguido</td>
+      <td>The Obscure EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>2011-10-14</td>
+      <td>Anoushka Shankar</td>
+      <td>Traveller</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/8JLcq_wgVXa0NVXbjzJtskFNoBtevBAr6pSaCQB5-Po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQz/NjQ5LTE1OTE3MTA1/NjctMzE0NS5qcGVn.jpeg" alt="Cover for CARDAMOMO" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Cardamomo</td>
+      <td>CARDAMOMO</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tango" | relative_url }}">tango</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/G8Jycy2pr3RzGrkdxpAP_QF4uQ9o74nxAfzyST9ede0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTc0/NDgtMTM1ODgxODgw/Ny0zODg4LmpwZWc.jpeg" alt="Cover for The Ravi Shankar Collection: Portrait Of Genius" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Ravi Shankar</td>
+      <td>The Ravi Shankar Collection: Portrait Of Genius</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/india" | relative_url }}">india</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/FvkgP82Bbhs20vyVtBqx_Xr7ai1-BCLLy7DBe6o20_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODMx/ODkwLTE2NjU4NDMx/OTQtODIwMi5qcGVn.jpeg" alt="Cover for And a String Quartet from Gothenburg Symphony Orchestra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Jerry Johansson</td>
+      <td>And a String Quartet from Gothenburg Symphony Orchestra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/-fYYg6YZ9ZRe3yTciCcmkYkGq9CEszbdPMaEJVzYWjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTcx/MzEtMTM1OTkwNTcw/OS03MDI5LmpwZWc.jpeg" alt="Cover for The Sound of Light" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-11</td>
+      <td>Astral Travel</td>
+      <td>The Sound of Light</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/gdn0W3z-2a52QgiYlVAN9usG6sI3oGCBOMr_4PHK0pQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDMz/MTctMTQ1MjEzMjU2/Mi04ODIzLmpwZWc.jpeg" alt="Cover for Home" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Anoushka Shankar</td>
+      <td>Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 53</li>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 82</li>
+            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/HpDMF2sVblB7UjObVHDj7tsYNPvYNG3G_7XoVoZgJKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/NjUyLTE1MzA2MzQ3/NzItOTk0OS5qcGVn.jpeg" alt="Cover for Gravity &amp; Grace" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-12-18</td>
+      <td>Stuart Balcomb</td>
+      <td>Gravity &amp; Grace</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/india" | relative_url }}">india</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/T4_JM3xHx6re6Rr1jCk7xHrWStN9wAbNF_pAFJguY6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjAx/OTYxLTE1OTQzNDI0/NjUtMzc0Ny5qcGVn.jpeg" alt="Cover for Maestro&#39;s Choice - Shujaat Hussain Khan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-02-19</td>
+      <td>Shujaat Hussain Khan</td>
+      <td>Maestro&#39;s Choice - Shujaat Hussain Khan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/v1kdQr92-wSvfZkBVgxX-TXPRz4L0zqJVmY6I-3UZLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDE1/OTItMTQ2Mjg4ODk1/OS0xNTk3LmpwZWc.jpeg" alt="Cover for Land Of Gold" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-04-29</td>
+      <td>Anoushka Shankar</td>
+      <td>Land Of Gold</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/C8f0mjjqVI_yvF4dr7pUgA2pLEfz3JY_-QbMLyB_i0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzE2/OTktMTY4MjkzNTcx/MS05MTIyLmpwZWc.jpeg" alt="Cover for Music of India - Ragas and Talas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Ravi Shankar</td>
+      <td>Music of India - Ragas and Talas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/dXbLmV77pr_144qlXbta671z98GKl24EcLbgnYaLxqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzgy/MTM4LTE1NzMzOTky/NzktODA4OS5qcGVn.jpeg" alt="Cover for Caleido" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-10-25</td>
+      <td>Caleido</td>
+      <td>Caleido</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/O5msfIrsW1NBngJg7VDE5fUz5O_8e1XFktOdihKlVfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTkw/NDU4LTE2NjEyNzQ4/MjctNjM1NC5qcGVn.jpeg" alt="Cover for Anomaly" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-05-06</td>
+      <td>JASDEEP SINGH DEGUN</td>
+      <td>Anomaly</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td></td>
+      <td>lightsweetcrude</td>
+      <td>lightsweetcrude</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam" | relative_url }}">jam</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Lawn Boys</td>
+      <td>The Lawn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Julean and the Rai</td>
+      <td>Alexandria, Falling (EP)(2007)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 49</li>
+            <li> <a href="{{ "/tags/rai" | relative_url }}">rai</a> # 63</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Shivkumar Sharma &amp; Hariprasad Chaurasia</td>
+      <td>The Valley Recalls</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td></td>
+      <td>JVR Rams</td>
+      <td>Kuwait</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/woman" | relative_url }}">woman</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Guido Schiraldi</td>
+      <td>Dance of an angel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Xaviaro</td>
+      <td>Lonesome Honeybee</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Aum Orchestra</td>
+      <td>Yoga Healing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Ananda Shankar Experience and State of Bengal</td>
+      <td>Walking On</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ravi Shankar, Vilayat Khan, Shujaat Hussain Khan</td>
+      <td>Saaz Sitar - Volume 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Ravi Shankar, Vilayat Khan, Shujaat Hussain Khan</td>
+      <td>Saaz Sitar - Volume 2</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

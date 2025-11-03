@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T14:14:55.959Z
+date: 2025-11-03T11:00:51.053Z
 permalink: tags/chilean
 title: chilean
 ---
 
 ## chilean
 
-Last updated: <time datetime="2025-10-28T14:14:55.959Z">Tue Oct 28 2025 16:14:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T11:00:51.053Z">Mon Nov 03 2025 13:00:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -197,7 +197,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/y31VIFHMzVvH-cPNqFndS-f6J0h6RUgxK-11Lr7ukcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODQw/NjQtMTYxOTAzNjk3/MS0xNDUzLmpwZWc.jpeg" alt="Cover for Obscure &amp; Profane" style="max-width:120px; height:auto;" />
       </td>
@@ -217,7 +217,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/A-sijVq1s_mYAbdk-U_TqOfIWQvwZSv_uUGVHVaZJuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDE2/MDMtMTQ2NjYyNzIy/OC0xMDQ4LmpwZWc.jpeg" alt="Cover for 1879 Tales of War" style="max-width:120px; height:auto;" />
       </td>
@@ -236,7 +236,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/KIs54TAad4sN24I4d37Iw8asRV8ISzl3s-ZqjMHoMsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDE4/NzQ5LTE2NTg5NjA0/ODgtNTkyNi5qcGVn.jpeg" alt="Cover for Malas Influencias" style="max-width:120px; height:auto;" />
       </td>
@@ -507,7 +507,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/3HZUlrZYS9ky-oozSrEX1QFuVKdrNVB6NPO3Qz--Xd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjA5/MzUtMTQxMTU3NzQx/MS0yMDY5LmpwZWc.jpeg" alt="Cover for Frutos de la madriguera" style="max-width:120px; height:auto;" />
       </td>
@@ -529,7 +529,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/VmmW1rPEcITztyFNQ_ah3rp-igDsY0rWYaZAA3lkLpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjg2/LTEyMDE1MDkyNzku/anBlZw.jpeg" alt="Cover for Lados-B" style="max-width:120px; height:auto;" />
       </td>
@@ -619,6 +619,28 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/Qlyj9tGI9O21J9TOpwYR8nnvPQlkKaQTy1fq4SsK5gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzgy/MzgtMTQ0ODU1NDY5/OC04Njc5LmpwZWc.jpeg" alt="Cover for Abraxas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Ancient</td>
+      <td>Abraxas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
         </ul>
       </td>
       <td>
@@ -842,7 +864,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/AWFO6piBbiuvPy19BH9XjpAmfogK8UbEP2TWNqUZD5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDcx/NzQtMTI3MjE3MDQy/My5qcGVn.jpeg" alt="Cover for Vivo (compilacion no oficial)" style="max-width:120px; height:auto;" />
       </td>
@@ -864,7 +886,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/AWFO6piBbiuvPy19BH9XjpAmfogK8UbEP2TWNqUZD5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDcx/NzQtMTI3MjE3MDQy/My5qcGVn.jpeg" alt="Cover for Remixes (compilado no oficial)" style="max-width:120px; height:auto;" />
       </td>
@@ -886,7 +908,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/fvURBDhE9zlC5gC5X5Nl_xzKZCVPt9Bo5STx3002HSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY5/NzEtMTQ0NzY5Mjcy/OC04MDY4LmpwZWc.jpeg" alt="Cover for Tribulated Bells - Darkside" style="max-width:120px; height:auto;" />
       </td>
@@ -905,7 +927,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2005</td>
@@ -991,7 +1013,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/Vx0dsRbDoQuI5chUeOVQUffTkvj4N7Eq5NqSy4tkgk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzIy/Ny0xMTM3ODYwMTMw/LmpwZWc.jpeg" alt="Cover for Antarctica" style="max-width:120px; height:auto;" />
       </td>
@@ -1082,23 +1104,6 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>31</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcdb5ac23989291fa3cc69d365424e53.png" alt="Cover for Nuevos Tiempos" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Fahrenheit</td>
-      <td>Nuevos Tiempos</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>86</td>
       <td>
       </td>
@@ -1120,7 +1125,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/pKs4_xrz75zFjx8Jv0n6eC9CpHxwfX9HwwW64wGBCm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjEz/MTItMTUzOTgwMjAw/NC02NDM2LmpwZWc.jpeg" alt="Cover for El Rey Lagarto" style="max-width:120px; height:auto;" />
       </td>
@@ -1296,7 +1301,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/lD82FmoXEqYESz6arOYfFKSoHLGWJO81mHW2Pq723AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjM1/NzEtMTMyNzQyOTg4/My5qcGVn.jpeg" alt="Cover for There Is No Such Thing As Death, Life Is Only A Dream And We Are The Imagination Of Ourselves" style="max-width:120px; height:auto;" />
       </td>
@@ -1361,7 +1366,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/cWbvcHNPKtLM7TtUz3rS0EpobLxMsHQ8HLuC-er4570/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzcz/NjQtMTQ0NjAwNTE0/My05MjU4LmpwZWc.jpeg" alt="Cover for Zerzura" style="max-width:120px; height:auto;" />
       </td>
@@ -1381,7 +1386,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/WXmpxwQw0KxRm0ysy-gfFmYU2S6EsvghYqVrVy2gqFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTY0/NTYtMTQyNDAzMzg3/OC05MzYwLmpwZWc.jpeg" alt="Cover for Ruins of Gomorrah (feat. L.G. Petrov, Matti Kärki, Tobias Sidegard, Erik Danielsson)" style="max-width:120px; height:auto;" />
       </td>
@@ -1425,7 +1430,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/f67JnhRvQSeM6w0ay8uvxnqziMDJW5Kl2b7E6WAgURg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTEy/MDA1LTE3MjQwMDQx/MjktODE3OC5qcGVn.jpeg" alt="Cover for Colaboraciones" style="max-width:120px; height:auto;" />
       </td>
@@ -1460,7 +1465,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 58</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1627,7 +1632,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/ANrEJsdPf6hQXX6On4Lr5Q2O4HXmCU64T-eiAD_lKOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA4/NDU1LTE0OTg5MDAz/NTktNTc3MS5qcGVn.jpeg" alt="Cover for NMC: Pop de Guitarras en Chile" style="max-width:120px; height:auto;" />
       </td>
@@ -1648,7 +1653,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/GT7nPrreSGA5MUrIAGlO9rZox0KZGpaZ0fxGtpGbYVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODYw/MjQtMTM4NDEwMjcy/Ni02MjU1LmpwZWc.jpeg" alt="Cover for 31 Minutos - Yo Nunca Vi Television" style="max-width:120px; height:auto;" />
       </td>
@@ -1667,7 +1672,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/F2J6z5awk6280ZQP3PgjlkNoGFeyvbDF0-4DDsp2_T8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcz/NTA0LTE1MDU3MzQ0/NzktNzk1Ny5qcGVn.jpeg" alt="Cover for Necropolis" style="max-width:120px; height:auto;" />
       </td>
@@ -1687,7 +1692,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/oJ9yfPhU5vuH9iR8YACzcHi0EEn_nOIzJp1y0InhJk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk5/MzcxLTE0OTY2Nzg1/MDItNjI0OS5qcGVn.jpeg" alt="Cover for Hooded Metal" style="max-width:120px; height:auto;" />
       </td>
@@ -1730,7 +1735,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/-x_f1zgYzvfMwFQFnT8UXT5ZiWw5SN7ZdT0iqx8ZlfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIy/Njc2LTE1MzA4MjA3/MTAtOTM4Ni5qcGVn.jpeg" alt="Cover for Eternal Cycle Of Death" style="max-width:120px; height:auto;" />
       </td>
@@ -1750,7 +1755,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/UuZ7JnJ9Ct_OS_Tnwq0LBvNa1t4p1Gqvw3rro7QEqGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjIx/NzU5LTE1MjE4MzI2/NzctOTEwMC5qcGVn.jpeg" alt="Cover for Endless Ray" style="max-width:120px; height:auto;" />
       </td>
@@ -1813,7 +1818,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/1EyCZQmma1wGooPb_6lSui2LnFZHixip2x6uxFikxC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgz/ODM0LTE1NDc3NTg1/MTktMzUyMi5qcGVn.jpeg" alt="Cover for MODERNO" style="max-width:120px; height:auto;" />
       </td>
@@ -1861,7 +1866,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/_AZvEhCiTl1GYsafBYoI-ql0a09a3TDMiNLRUEzj-qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzQ2/MDUyLTE2MTI5NDk3/MDYtNDAwNS5qcGVn.jpeg" alt="Cover for Deliverance" style="max-width:120px; height:auto;" />
       </td>
@@ -1928,7 +1933,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/-ILG-LxSKmmA0KB6QYQjuLUMq8MhvF0GWtgwtGFkIX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDAx/OTY0LTE2NDY1Mjcz/NjMtNzkyMi5qcGVn.jpeg" alt="Cover for Estrella Tropical" style="max-width:120px; height:auto;" />
       </td>
@@ -1950,7 +1955,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2022</td>
@@ -2033,7 +2038,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -2051,7 +2056,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -2135,7 +2140,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td></td>
@@ -2155,7 +2160,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -2176,7 +2181,7 @@ Chilean music blends Andean folk traditions with rock, pop, and nueva canción, 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td></td>
