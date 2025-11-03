@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T01:34:14.432Z
+date: 2025-11-03T06:50:51.395Z
 permalink: tags/electric-guitar
 title: electric guitar
 ---
 
 ## electric guitar
 
-Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T06:50:51.395Z">Mon Nov 03 2025 08:50:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -25,15 +25,16 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
   </thead>
   <tbody>
     <tr>
-      <td>89</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/KUKUAkLDIvGt6Rblh_TgGKFhUvsrgxKD8XpACM__EyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTA0/MDktMTQ1NDQ1Mzk1/Ny03NzE4LmpwZWc.jpeg" alt="Cover for Essential Guitar Masters" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/IuEMm-6pvUjOdqybcuDAThtOCwJWgsg7pV4JQRZ6uZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjk5/NDYtMTI4MzYxMDYw/OC5qcGVn.jpeg" alt="Cover for 20 golden guitar melodies" style="max-width:120px; height:auto;" />
       </td>
-      <td>1969</td>
-      <td>Harvey Mandel</td>
-      <td>Essential Guitar Masters</td>
+      <td>1959-11</td>
+      <td>Jerry Lordan</td>
+      <td>20 golden guitar melodies</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a></li>
         </ul>
       </td>
@@ -55,6 +56,25 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/KUKUAkLDIvGt6Rblh_TgGKFhUvsrgxKD8XpACM__EyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTA0/MDktMTQ1NDQ1Mzk1/Ny03NzE4LmpwZWc.jpeg" alt="Cover for Essential Guitar Masters" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969</td>
+      <td>Harvey Mandel</td>
+      <td>Essential Guitar Masters</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a></li>
         </ul>
       </td>
       <td>
@@ -118,7 +138,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/W0g1Nbijac1zncC9NZiy_r3sA3NQZqWJ74hjBOQYAfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzEw/Mi0xMzQ3MzU5NDMx/LTI3MDUuanBlZw.jpeg" alt="Cover for UK" style="max-width:120px; height:auto;" />
       </td>
@@ -299,8 +319,8 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 86</li>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 95</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 91</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -320,13 +340,13 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 91</li>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 96</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 95</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d787f9d6698db5408488e3f391bb899.png" alt="Cover for HARD TO NAME" style="max-width:120px; height:auto;" />
       </td>
@@ -657,7 +677,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/Glk9hWnrEnrECHhiV7LEdqMKpuN6qiPLc9bBhJWJ5j4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTcy/My0xNDY3OTgzODEz/LTMzODEuanBlZw.jpeg" alt="Cover for Resurrection" style="max-width:120px; height:auto;" />
       </td>
@@ -698,6 +718,26 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
         <ul>
             <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 28</li>
             <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/I9Xnytc9fvYXDVpvx25nC_GVhgLF7ToEO6oDjnzXZKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM1/NjgwLTE2MDQwNDI5/NjgtOTMzOS5qcGVn.jpeg" alt="Cover for Ragas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Stanley Jordan &amp; Jay Kishor</td>
+      <td>Ragas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1016,7 +1056,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/voiiwNeAe_htxkXcKWdKyoj-_UgyuLol4jBUTRNwxDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMx/NjM4LTE1Mjg5MjQy/MTgtMjIyOC5qcGVn.jpeg" alt="Cover for The Devil&#39;s Got My Soul -" style="max-width:120px; height:auto;" />
       </td>
@@ -1073,7 +1113,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/hMbuAzsCntJA3ADtlVrveCT-C9MzVVccbSKc6MSN2ak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDU2/MzYtMTI4MjIxODY3/Ni5qcGVn.jpeg" alt="Cover for Tesla at Coney Island" style="max-width:120px; height:auto;" />
       </td>
@@ -1094,7 +1134,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/sdaWdOIgPaq-f24JHwHU8ABXaa2jAv8KE463l6ich6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDQy/NTYtMTI4MjE4MDg4/OS5qcGVn.jpeg" alt="Cover for The Ominous Corner" style="max-width:120px; height:auto;" />
       </td>
@@ -1133,7 +1173,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Gm_X1Q_6KReC1F6NN11qTzmnxGfDoKS_yWPefsL4ADQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU3/NjUxLTE1Mzc1Njky/OTYtNDgzNS5qcGVn.jpeg" alt="Cover for On The Run" style="max-width:120px; height:auto;" />
       </td>
@@ -1159,7 +1199,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/Gm_X1Q_6KReC1F6NN11qTzmnxGfDoKS_yWPefsL4ADQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU3/NjUxLTE1Mzc1Njky/OTYtNDgzNS5qcGVn.jpeg" alt="Cover for Organic Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -1220,7 +1260,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/2lLX7z_y54QqAtxj8fRw4KApfQzLxteT5Vo8nDHTQ40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjQ5/NjQtMTMxMzYwMzU2/OC5qcGVn.jpeg" alt="Cover for Leave Logic" style="max-width:120px; height:auto;" />
       </td>
@@ -1283,7 +1323,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/-ZP3JM447OONHE53UGUNO47c855UuIN2eTeeUpTMXSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDM3/MjAtMTI4MjA4NTIw/Mi5qcGVn.jpeg" alt="Cover for Mechanical Uprising" style="max-width:120px; height:auto;" />
       </td>
@@ -1384,7 +1424,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/yzFgxrB7JwjaXUu18F0DmO5ck5jo-gDuBpgWFNLGv8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDU1/NTU5LTE1ODYwODY2/ODYtMjYzMy5qcGVn.jpeg" alt="Cover for 20 golden guitar melodies" style="max-width:120px; height:auto;" />
       </td>
@@ -1404,7 +1444,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/3fX8iWOIxKQT0n81GYtW4NkPeBobKHvqiM1rYJoQI2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDE2/MjktMTMzODUzMDg0/MC00ODYzLmpwZWc.jpeg" alt="Cover for Impermanence Volume 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,7 +1578,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
       </td>
       <td></td>
@@ -1555,7 +1595,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 1</li>
+            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1687,6 +1727,24 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       <td>
       </td>
       <td></td>
+      <td>Duplex-Ache</td>
+      <td>Homeostasis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td></td>
       <td>Allan O&#39;Reilly</td>
       <td>Deep Blue</td>
       <td>
@@ -1703,7 +1761,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
@@ -1720,7 +1778,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>
@@ -1744,26 +1802,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5f9e2b8411a4f42b319ff15643c6c57.png" alt="Cover for Sadistic Chicken Massacre" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Sadistic Chicken</td>
-      <td>Sadistic Chicken Massacre</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
@@ -1784,7 +1823,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -1808,7 +1847,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -1828,7 +1867,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1848,28 +1887,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/254f80a84dc24e5b9f12ba0b7b1e2dd3.png" alt="Cover for Vigilant Resolve (Single)" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Jonathan Van Selow</td>
-      <td>Vigilant Resolve (Single)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td></td>
@@ -1887,7 +1905,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td></td>
@@ -1912,7 +1930,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e23dd29080ad452a8ea2f6b9635d1774.png" alt="Cover for Your secret place" style="max-width:120px; height:auto;" />
       </td>
@@ -1923,9 +1941,6 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
         </ul>
       </td>
       <td>
@@ -1934,7 +1949,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
       </td>
       <td></td>
@@ -1949,26 +1964,6 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54caa0f716894884bd3a026d70d7adb1.png" alt="Cover for March of the Titans" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Jonathan Van Selow</td>
-      <td>March of the Titans</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a></li>
         </ul>
       </td>
       <td>
@@ -2148,7 +2143,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td></td>
@@ -2164,7 +2159,7 @@ Last updated: <time datetime="2025-10-31T01:34:14.432Z">Fri Oct 31 2025 03:34:14
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>

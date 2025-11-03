@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T02:07:14.563Z
+date: 2025-11-03T07:56:37.109Z
 permalink: tags/christian-rock
 title: christian rock
 ---
 
 ## christian rock
 
-Last updated: <time datetime="2025-10-31T02:07:14.563Z">Fri Oct 31 2025 04:07:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T07:56:37.109Z">Mon Nov 03 2025 09:56:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>10</td>
       <td>
       </td>
       <td>1983</td>
@@ -46,7 +46,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fbec4dd7a0ef6143a8988fb84d5cfa9.png" alt="Cover for Jars of Clay" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/idbW8ZMZrWCx6PUOUDOyo-1d7dv3sEtHrCvxac4xdG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzE5/OC0xMjgyNDQ4MjY3/LmpwZWc.jpeg" alt="Cover for Take Me To Your Leader" style="max-width:120px; height:auto;" />
       </td>
@@ -83,13 +83,13 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 20</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 36</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 37</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8581f53e551648ad88ce80d55d108ff7.png" alt="Cover for Skillet" style="max-width:120px; height:auto;" />
       </td>
@@ -108,7 +108,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebbc474ffc4c4656bd3dae0191649fa7.png" alt="Cover for The Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -129,12 +129,12 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 25</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c7cca2780cd4a328e806d56673bcae6.png" alt="Cover for Hey You, I Love Your Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -147,12 +147,12 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 20</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>77</td>
       <td>
       </td>
       <td>1999-03-23</td>
@@ -170,7 +170,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/856d2739462e8d3663357ea38f9ac4f8.png" alt="Cover for candycoatedwaterdrops" style="max-width:120px; height:auto;" />
       </td>
@@ -190,7 +190,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>13</td>
       <td>
       </td>
       <td>1999-09-14</td>
@@ -207,7 +207,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>55</td>
       <td>
       </td>
       <td>2000-02-01</td>
@@ -224,7 +224,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/988c2915bbd246769ff800190dc4f081.png" alt="Cover for Learning to Breathe" style="max-width:120px; height:auto;" />
       </td>
@@ -243,7 +243,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed35e1407367ba7b2ea3fa2be161f6b2.png" alt="Cover for Alien Youth" style="max-width:120px; height:auto;" />
       </td>
@@ -263,7 +263,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/l8CHfZiBGtYOnrs0ocXUxau2ANCY__ZhKfADPsj-c4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODU0/MTU1LTE1NjI2MTI1/NDYtMzIyNi5qcGVn.jpeg" alt="Cover for Starfield" style="max-width:120px; height:auto;" />
       </td>
@@ -281,7 +281,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>21</td>
       <td>
       </td>
       <td>2001-11-06</td>
@@ -299,7 +299,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>5</td>
       <td>
       </td>
       <td>2001-11-06</td>
@@ -316,7 +316,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/yLOzZyLLdFIciHYRpcUX1pGDVes3W_6zvhk6oNnXvJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTI4/MTgtMTM0NDYxOTM0/MS0zMDQzLmpwZWc.jpeg" alt="Cover for Fireproof" style="max-width:120px; height:auto;" />
       </td>
@@ -331,12 +331,12 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 13</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53ae920c2709ac919f75b338dee6a137.png" alt="Cover for Stay" style="max-width:120px; height:auto;" />
       </td>
@@ -355,7 +355,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>45</td>
       <td>
       </td>
       <td>2003-05-06</td>
@@ -371,13 +371,13 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 19</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 62</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 63</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c453f984a82e43b4c3885c8f0ed3e08d.png" alt="Cover for Casting Crowns" style="max-width:120px; height:auto;" />
       </td>
@@ -397,7 +397,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>39</td>
       <td>
       </td>
       <td>2004-01-29</td>
@@ -417,7 +417,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>60</td>
       <td>
       </td>
       <td>2004-02-12</td>
@@ -434,7 +434,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>70</td>
       <td>
       </td>
       <td>2004-02-24</td>
@@ -451,7 +451,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1bcb6a0fddfbc63607b7bdd45045f79.png" alt="Cover for The Best of Hootie &amp; The Blowfish (1993-2003)" style="max-width:120px; height:auto;" />
       </td>
@@ -468,12 +468,12 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 69</li>
+            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>25</td>
       <td>
       </td>
       <td>2004-04-20</td>
@@ -487,12 +487,12 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 44</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>12</td>
       <td>
       </td>
       <td>2004-06-15</td>
@@ -509,7 +509,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9bfd5cfe406ec6c7c4f97601aea88ba.png" alt="Cover for Where Do We Go From Here" style="max-width:120px; height:auto;" />
       </td>
@@ -527,7 +527,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>34</td>
       <td>
       </td>
       <td>2004-09-23</td>
@@ -545,30 +545,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>95</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e1c068bb8de41eaba667469ac732fc3.png" alt="Cover for Flyleaf" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004-10-26</td>
-      <td>Flyleaf</td>
-      <td>Flyleaf</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 91 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 33</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 46</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 52</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
       </td>
       <td>2004-10-26</td>
@@ -585,7 +562,24 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e1c068bb8de41eaba667469ac732fc3.png" alt="Cover for Flyleaf" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-10-26</td>
+      <td>Flyleaf</td>
+      <td>Flyleaf</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c447a19ed82447a9e83eb37853ee52d.png" alt="Cover for Mmhmm" style="max-width:120px; height:auto;" />
       </td>
@@ -606,7 +600,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>64</td>
       <td>
       </td>
       <td>2004-11-16</td>
@@ -620,12 +614,12 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 37</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51230b46435a41e78ddc41a2fdc90cf4.png" alt="Cover for Dawn Escapes" style="max-width:120px; height:auto;" />
       </td>
@@ -642,12 +636,12 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 27</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/AKWk7CGnLbrAwpCQlvKWu5cFWBOiESdYfuF5wO_9_VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI1/ODAyLTE1ODQyMDQ4/MzUtODQyNS5qcGVn.jpeg" alt="Cover for Beauty From Pain" style="max-width:120px; height:auto;" />
       </td>
@@ -662,12 +656,12 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 72</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/cJC1ReijbDIazObahQrYFw_p7VkdogCWqlRpotnzcbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzE5/MDEtMTQ1MTk5MzM4/Mi0zMDY4LmpwZWc.jpeg" alt="Cover for Jesus He Knows Me" style="max-width:120px; height:auto;" />
       </td>
@@ -687,7 +681,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>
       </td>
       <td>2005</td>
@@ -704,7 +698,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>38</td>
       <td>
       </td>
       <td>2005-02-01</td>
@@ -721,7 +715,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>75</td>
       <td>
       </td>
       <td>2005-02-22</td>
@@ -738,7 +732,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>50</td>
       <td>
       </td>
       <td>2005-03-01</td>
@@ -757,7 +751,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>40</td>
       <td>
       </td>
       <td>2005-04-05</td>
@@ -772,13 +766,13 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 53</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 54</li>
             <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>84</td>
       <td>
       </td>
       <td>2005-08-30</td>
@@ -793,13 +787,13 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 56</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 57</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/48b2d72ff550437fb18bb3ae53f04557.png" alt="Cover for Nothing Is Sound" style="max-width:120px; height:auto;" />
       </td>
@@ -818,7 +812,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/baBAUD1qvSByBM4-A0PuG4xG9v_58A6a_o28HnlcRHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTgw/NzQtMTYzNDIzNjE2/MS0xNzY3LmpwZWc.jpeg" alt="Cover for A Collision or (3+4&#x3D;7)" style="max-width:120px; height:auto;" />
       </td>
@@ -834,13 +828,13 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 23</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 24</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/NDJuR5jhXaokdrDWeqieXo65sswQVF9mTXcs1FvXh5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDg3/MzgtMTI4NDYzOTg5/Ni5qcGVn.jpeg" alt="Cover for Wherever You Are" style="max-width:120px; height:auto;" />
       </td>
@@ -859,7 +853,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>66</td>
       <td>
       </td>
       <td>2006-03-21</td>
@@ -876,7 +870,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>28</td>
       <td>
       </td>
       <td>2006-04-25</td>
@@ -893,7 +887,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>86</td>
       <td>
       </td>
       <td>2006-06-06</td>
@@ -910,7 +904,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc4253e2771d53b0a5c027df594f05d0.png" alt="Cover for End Of Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -927,7 +921,28 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cfc2ed8cbc84773a6c0e680bfdc129c.png" alt="Cover for Keep No Score" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-06-21</td>
+      <td>Sleeping at Last</td>
+      <td>Keep No Score</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8d24bec6f0349b19ad7ddaf85161971.png" alt="Cover for Good Monsters" style="max-width:120px; height:auto;" />
       </td>
@@ -948,7 +963,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57f3d37df2dfd96f6afce709fc5e7dbb.png" alt="Cover for Comatose" style="max-width:120px; height:auto;" />
       </td>
@@ -965,7 +980,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>36</td>
       <td>
       </td>
       <td>2006-10-31</td>
@@ -980,13 +995,13 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 50</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 51</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>82</td>
       <td>
       </td>
       <td>2006-11-06</td>
@@ -1003,7 +1018,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5f2dbdf1f2e4c8dbf9ad35de3733c5f.png" alt="Cover for Cities" style="max-width:120px; height:auto;" />
       </td>
@@ -1021,7 +1036,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>24</td>
       <td>
       </td>
       <td>2007-02-20</td>
@@ -1038,7 +1053,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>62</td>
       <td>
       </td>
       <td>2007-05-01</td>
@@ -1055,7 +1070,24 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>3</td>
+      <td>
+      </td>
+      <td>2007-05-15</td>
+      <td>BarlowGirl</td>
+      <td>How Can We Be Silent</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
       <td>
       </td>
       <td>2007-08-27</td>
@@ -1073,7 +1105,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/704c05fc8b4443d4a2d8702e0dcf34bf.png" alt="Cover for The Altar and The Door" style="max-width:120px; height:auto;" />
       </td>
@@ -1088,12 +1120,12 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 80</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c75f778dade4f36be8ffd88f3007f23.png" alt="Cover for The Flame In All Of Us" style="max-width:120px; height:auto;" />
       </td>
@@ -1110,7 +1142,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>65</td>
       <td>
       </td>
       <td>2007-10-02</td>
@@ -1125,13 +1157,13 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 78</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 79</li>
             <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/KhSinZA0rCK1VzOWUQt3aP_RZG3E86rRydySGRDVPPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjQw/MzktMTQwOTA4MzQ3/NC0yMTI0LmpwZWc.jpeg" alt="Cover for All That Is Within Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1148,14 +1180,14 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 29</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 30</li>
             <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 66</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b6655727e100eec8a32a701e619ff52.png" alt="Cover for Dance Or Die" style="max-width:120px; height:auto;" />
       </td>
@@ -1176,7 +1208,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/wAmKaYTZ9A76pFjobIckTiyqenoeA6zGISz5L02aRic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTY0/MjQtMTI0MTM0NzY1/Ny5qcGVn.jpeg" alt="Cover for Dick In A Box" style="max-width:120px; height:auto;" />
       </td>
@@ -1198,7 +1230,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/wAmKaYTZ9A76pFjobIckTiyqenoeA6zGISz5L02aRic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTY0/MjQtMTI0MTM0NzY1/Ny5qcGVn.jpeg" alt="Cover for Jizz In My Pants" style="max-width:120px; height:auto;" />
       </td>
@@ -1217,7 +1249,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 54</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 57</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 88</li>
             <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 94</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 95</li>
@@ -1225,7 +1257,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/QHw5sW17r_rDP7zN80ZYB41B89WzWTRTKmdJDAzay5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDQy/MDI2LTE2MzAyNjE4/MjItNDgwMC5wbmc.jpeg" alt="Cover for Crash - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1240,11 +1272,12 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e853cd6c7b67bd9973657e81289a8c9.png" alt="Cover for There Came A Lion" style="max-width:120px; height:auto;" />
       </td>
@@ -1262,7 +1295,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>49</td>
       <td>
       </td>
       <td>2008-02-12</td>
@@ -1279,7 +1312,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14205eb1cfc84700a35e69436e0fbde1.png" alt="Cover for Opposite Way" style="max-width:120px; height:auto;" />
       </td>
@@ -1297,7 +1330,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>52</td>
       <td>
       </td>
       <td>2008-02-26</td>
@@ -1314,7 +1347,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/54fc618dbc4f18dd4f4d3c2e1772eb18.png" alt="Cover for For The Love Of The Game" style="max-width:120px; height:auto;" />
       </td>
@@ -1333,7 +1366,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/1U0NMEt-V1oDcizmrgtt9fehYO4YfyaqYzIaZPkx_ig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDk3/Mjg1LTE1MTczODEy/ODgtNDQ3Ni5qcGVn.jpeg" alt="Cover for I Wouldn&#39;t Quit If Everyone Quit" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,7 +1388,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3162ddd5c97b4cdfb5c41d095036a6bc.png" alt="Cover for Unbreakable" style="max-width:120px; height:auto;" />
       </td>
@@ -1373,7 +1406,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dc3e449dba7c9cc27ad63e7035a0c8f.png" alt="Cover for When Angels &amp; Serpents Dance" style="max-width:120px; height:auto;" />
       </td>
@@ -1392,7 +1425,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>79</td>
       <td>
       </td>
       <td>2008-05-20</td>
@@ -1409,7 +1442,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>20</td>
       <td>
       </td>
       <td>2008-07-08</td>
@@ -1426,7 +1459,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>27</td>
       <td>
       </td>
       <td>2008-07-29</td>
@@ -1445,7 +1478,25 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2008-09-23</td>
+      <td>Lincoln Brewster</td>
+      <td>Today Is The Day</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cee27b9016ed3f7c1479e3d7df62e8d.png" alt="Cover for The Best Yet" style="max-width:120px; height:auto;" />
       </td>
@@ -1466,7 +1517,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/8qRGQwUkWYUnInxynS4mCTWEX0iydz66ZhXaG8xIUpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTQ4/NjUtMTQxNTgwMDU2/NC01MDc3LmpwZWc.jpeg" alt="Cover for Heaven and Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,7 +1536,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc2ef2dbfd8b496994aa2b59da230054.png" alt="Cover for Welcome To The Masquerade" style="max-width:120px; height:auto;" />
       </td>
@@ -1503,26 +1554,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>69</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/304f60d626ff489295ee3770e16cbdc4.png" alt="Cover for Crash" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009-05-05</td>
-      <td>Decyfer Down</td>
-      <td>Crash</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>100</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a579a69328afe77d8d064d583d03904d.png" alt="Cover for Awake" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,8 +1563,6 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       <td>Awake</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a></li>
-            <li style="font-size: calc(1rem * 91 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
         </ul>
       </td>
       <td>
@@ -1541,7 +1571,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cbf730af9d6d6ea05bcc9c90c1dac8d.png" alt="Cover for Confessions" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,7 +1589,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>73</td>
       <td>
       </td>
       <td>2009-11-17</td>
@@ -1574,13 +1604,13 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 19</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 20</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>31</td>
       <td>
       </td>
       <td>2010-02-09</td>
@@ -1601,7 +1631,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>42</td>
       <td>
       </td>
       <td>2010-05-11</td>
@@ -1618,29 +1648,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>83</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f32bb14ca70941e6a8a3e2d40fe73c32.png" alt="Cover for Horseshoes and Handgrenades" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-09-14</td>
-      <td>Disciple</td>
-      <td>Horseshoes and Handgrenades</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 2</li>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 91</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38d4fd81e8be48a6bd286c5db72ccd8a.png" alt="Cover for Until We Have Faces" style="max-width:120px; height:auto;" />
       </td>
@@ -1657,7 +1665,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/508b7c3b4e4844d4aa7f187e78fcec51.png" alt="Cover for What I&#39;ve Become" style="max-width:120px; height:auto;" />
       </td>
@@ -1666,20 +1674,16 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       <td>What I&#39;ve Become</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 85</li>
             <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7fa87a8a4cf42258b98614ea41c8e52.png" alt="Cover for III" style="max-width:120px; height:auto;" />
       </td>
@@ -1702,7 +1706,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b10d97ebd6ed43b494c3756ba3536f5e.png" alt="Cover for World We View" style="max-width:120px; height:auto;" />
       </td>
@@ -1720,7 +1724,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd57c37e55e9beba7304236674e1c565.png" alt="Cover for Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1738,7 +1742,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c3e3689e2a776c58407a616dabd89de.png" alt="Cover for The End Is Where We Begin" style="max-width:120px; height:auto;" />
       </td>
@@ -1747,8 +1751,6 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       <td>The End Is Where We Begin</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a></li>
         </ul>
       </td>
       <td>
@@ -1757,7 +1759,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/k5poPRoPbB18ksdChwrsus2WdOm9cyPWzwWOMJM3iX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk1/MzAzLTE1NDIxNDUz/NjUtODk1MS5qcGVn.jpeg" alt="Cover for Circles" style="max-width:120px; height:auto;" />
       </td>
@@ -1777,7 +1779,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf7b9d3e16cd4cce80a95ff927aec999.png" alt="Cover for Release The Panic" style="max-width:120px; height:auto;" />
       </td>
@@ -1795,26 +1797,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e461d365801a4859bd350fbb109d61a5.png" alt="Cover for Rise" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-06-25</td>
-      <td>Skillet</td>
-      <td>Rise</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/W7KGqgcUdfgdAtsJcH-X3IMHY27llwoFXRf-iN1ckFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODk2/MDEzLTE1OTk3NjY2/MjctNjYzNi5qcGVn.jpeg" alt="Cover for I&#39;m On A Boat" style="max-width:120px; height:auto;" />
       </td>
@@ -1834,7 +1817,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 61</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 62</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 90</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 92</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 96</li>
@@ -1843,7 +1826,7 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/CFuMNCFPrkYWM-QRrsXHjXRSYPFnStOyT8zNIBl7bto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM3/NjI5LTE1NjY1ODA5/NTctNTQ5NC5qcGVn.jpeg" alt="Cover for Carrion Flowers - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1920,25 +1903,25 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 38</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 41</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 45</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 46</li>
             <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 46</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 55</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 63</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 76</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 76</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 76</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 92</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb8c5e11fc5db4a3cc4e63143be7ae7e.png" alt="Cover for Rivers in the Wasteland" style="max-width:120px; height:auto;" />
       </td>
@@ -1955,12 +1938,12 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 46</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/102d7ceaf997969fc7552af5d65e474c.png" alt="Cover for Unleashed" style="max-width:120px; height:auto;" />
       </td>
@@ -1974,12 +1957,12 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 84</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/0DJM-4XJsZ4hYeguUZeyRkxoVkVdWlhCNJGyw0WiBwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ5/MjYzLTE1NTI1NTg2/NjItNDg5My5qcGVn.jpeg" alt="Cover for Savior" style="max-width:120px; height:auto;" />
       </td>
@@ -1999,15 +1982,15 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 25</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 70</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 74</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 26</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 72</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 75</li>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/3Ycf4J_kXutwEBMckYpidH4rBIF6YqdMN_l9Sk7A584/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjE3/MjQxLTE2NTU1NzA4/NjItNzYyNC5qcGVn.jpeg" alt="Cover for Diamonds" style="max-width:120px; height:auto;" />
       </td>
@@ -2027,15 +2010,15 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 51</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 81</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 83</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 52</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 82</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 84</li>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/3qa8tP_Ixcr-sY0J8NSzMS_bzErM12IicAMeP7ztRFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzE2/OTYzLTE3MTYwNzQ5/NTAtMTI1Ny5qcGVn.jpeg" alt="Cover for For Keeps" style="max-width:120px; height:auto;" />
       </td>
@@ -2060,10 +2043,10 @@ Christian rock music is a genre of rock music that features lyrics focused on Ch
 - [christian]({{ "/tags/christian" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
 - [contemporary christian]({{ "/tags/contemporary-christian" | relative_url }})
-- [alternative rock]({{ "/tags/alternative-rock" | relative_url }})
 - [worship]({{ "/tags/worship" | relative_url }})
+- [alternative rock]({{ "/tags/alternative-rock" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})
 - [gospel]({{ "/tags/gospel" | relative_url }})
-- [pop rock]({{ "/tags/pop-rock" | relative_url }})
 - [ccm]({{ "/tags/ccm" | relative_url }})
+- [pop rock]({{ "/tags/pop-rock" | relative_url }})

@@ -9,6 +9,10 @@ title: belarusian
 
 Last updated: <time datetime="2025-11-03T06:37:11.585Z">Mon Nov 03 2025 08:37:11 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Belarusian music encompasses songs performed in Belarusian or Russian by artists from Belarus, blending post-Soviet cultural influences with contemporary sounds. The tag spans rock, pop, hip-hop, and indie styles that reflect the country&#39;s complex identity between Eastern European traditions and modern urban expression. This music often carries undertones of social commentary and youthful rebellion shaped by Belarus&#39;s unique political and cultural landscape.
+
 ### 100 chronological releases
 
 <table>

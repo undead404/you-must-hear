@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T08:12:52.378Z
+date: 2025-11-03T06:42:28.626Z
 permalink: tags/italian-pop
 title: italian pop
 ---
 
 ## italian pop
 
-Last updated: <time datetime="2025-10-28T08:12:52.378Z">Tue Oct 28 2025 10:12:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T06:42:28.626Z">Mon Nov 03 2025 08:42:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -92,7 +92,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/hk9mwOALkJ_u_84az2hkUoxWPfNLxCL0FFa3yniCPjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDMz/MjgtMTQyMjkwMzk0/NS01NTE5LmpwZWc.jpeg" alt="Cover for I miei americani" style="max-width:120px; height:auto;" />
       </td>
@@ -140,7 +140,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9b3c2733c904a47bdc9af9748fc54d7.png" alt="Cover for Viaggi E Intemperie" style="max-width:120px; height:auto;" />
       </td>
@@ -156,7 +156,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 30</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -178,7 +178,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 58</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 60</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 93</li>
         </ul>
       </td>
@@ -203,7 +203,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/oGqCPUAezZJMBRkFYntS6A3A4d355imhUTXA0sPyC0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM5/MDYwLTE0OTA1NTI0/MTUtODQyMi5qcGVn.jpeg" alt="Cover for Savoir Faire" style="max-width:120px; height:auto;" />
       </td>
@@ -244,7 +244,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>1986</td>
@@ -262,7 +262,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/2n2Ffa0Pso13jmFr_1N3BIPXhLuDEpgw-mJjo464vNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDgw/NjEtMTI5NzQ2MzIy/My5qcGVn.jpeg" alt="Cover for Tazenda" style="max-width:120px; height:auto;" />
       </td>
@@ -285,7 +285,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>1988</td>
@@ -325,13 +325,13 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 9</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 11</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>1989</td>
@@ -350,7 +350,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>1990</td>
@@ -414,13 +414,13 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 18</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 20</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/6RKYKo1snH9NEbm-Kx9TTVZ4RBH7KjdNrO9NBTxxNag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzUz/OTktMTUzNDc3NTY3/My00MDQ5LmpwZWc.jpeg" alt="Cover for Peter Pan" style="max-width:120px; height:auto;" />
       </td>
@@ -461,7 +461,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 22</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 24</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 88</li>
         </ul>
       </td>
@@ -484,7 +484,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/VSv7YrdguE-2U0AtDkVkp0rjS7icvnv2857yoQ0-WLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzUy/MDUtMTU3MTY0NjI0/MS0xNjEyLmpwZWc.jpeg" alt="Cover for Fivelandia 11" style="max-width:120px; height:auto;" />
       </td>
@@ -526,7 +526,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 15</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 17</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 85</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 90</li>
         </ul>
@@ -569,7 +569,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>1993-06-10</td>
@@ -592,7 +592,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>1994</td>
@@ -638,13 +638,13 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 45</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 47</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>1994</td>
@@ -662,7 +662,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/N6-kq5ZD0yiL02Kriy4w1TqyrMbAGUhe89-sfRmyvmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTcz/OTYtMTI5OTc4Nzk4/Ni5qcGVn.jpeg" alt="Cover for Io Sono Qui" style="max-width:120px; height:auto;" />
       </td>
@@ -722,13 +722,13 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 8</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 10</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>1996</td>
@@ -746,28 +746,6 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 68</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c79efb7984962161a2a6516a56490ef3.png" alt="Cover for Eat the phikis" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>Elio e le Storie Tese</td>
-      <td>Eat the phikis</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -791,7 +769,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
       </td>
       <td>1996-02</td>
@@ -813,7 +791,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>1997</td>
@@ -835,7 +813,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83542776e67ae9e91cf203b8f779bf2d.png" alt="Cover for Del meglio del nostro meglio vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -851,12 +829,12 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 22</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/yfZpcnt47bZfyFcQ9H-STdqbIqKLloSciGdWd9DkLkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTkw/ODctMTU5MDQ5NjUz/MS02MTQ3LmpwZWc.jpeg" alt="Cover for Amore dopo amore" style="max-width:120px; height:auto;" />
       </td>
@@ -879,7 +857,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>1998</td>
@@ -901,7 +879,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/CI6aanTphlf6EY6ZMRFaMKFxT6QZwbtuJL8qeVqMSEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjIz/ODQyLTE1MTk1ODg0/MjgtMjAwMS5qcGVn.jpeg" alt="Cover for I grandi successi" style="max-width:120px; height:auto;" />
       </td>
@@ -960,7 +938,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 19</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 21</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 87</li>
         </ul>
       </td>
@@ -988,7 +966,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>1999-05</td>
@@ -1005,7 +983,30 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/hcwrJ-gcxgKT6tVgVrZbup2-W_qnMr_O3RRQurBHh48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjkx/NTAyLTE1NTk1OTQx/MDMtNjYyMi5qcGVn.jpeg" alt="Cover for Spostato di un secondo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Marco Masini</td>
+      <td>Spostato di un secondo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 45</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
       </td>
       <td>2000</td>
@@ -1026,7 +1027,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2000</td>
@@ -1088,7 +1089,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2001</td>
@@ -1108,7 +1109,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/rMXipq3lP1CxJYz94KGa1vZHsGM1YZIBmSgnpjewp1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjMx/NjQtMTI5MDYxNDM4/MS5qcGVn.jpeg" alt="Cover for L&#39;Anfiteatroelabambinaimpertinente" style="max-width:120px; height:auto;" />
       </td>
@@ -1151,7 +1152,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 29</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1172,7 +1173,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 27</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 29</li>
             <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 50</li>
             <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 64</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 84</li>
@@ -1198,12 +1199,12 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       <td>
         <ul>
             <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 8</li>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 72</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2003</td>
@@ -1242,7 +1243,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 65</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 67</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 96</li>
         </ul>
       </td>
@@ -1266,7 +1267,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2004</td>
@@ -1307,7 +1308,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2004-03</td>
@@ -1400,7 +1401,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>2006-11-10</td>
@@ -1476,7 +1477,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/kTmX1_HrhLEAJ1WS7aALe2wRTWy0_miBjRvbVVGJC-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3Mjg3/NTQtMTM3MzYyNTky/MS0yMzM2LmpwZWc.jpeg" alt="Cover for In Questa Nostra Casa Nuova" style="max-width:120px; height:auto;" />
       </td>
@@ -1498,7 +1499,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2008</td>
@@ -1520,7 +1521,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/Wnc0_0VPQufE7wFjnLKQ9RdBDo1BGnQS3D1tFluR_6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDY4/MjAtMTU5MDc5Mzcz/NS02ODA2LmpwZWc.jpeg" alt="Cover for Tutte le belle canzoni di Natale" style="max-width:120px; height:auto;" />
       </td>
@@ -1546,7 +1547,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/0hZZQzKY4y8tVeUdgLiekEbQY8qNdjDO81K2W5_0Rtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MzU1/MTUtMTQxOTE2OTM4/MC00Mjk1LmpwZWc.jpeg" alt="Cover for Il Movimento Del Dare" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,7 +1629,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/pqNSvRIBw1XCiV6OKaT2yQpASayXcmt4svYxZgtCMNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzM0/OTEtMTQyODQ1NDEx/OS00MDI1LmpwZWc.jpeg" alt="Cover for Attraversami Il Cuore" style="max-width:120px; height:auto;" />
       </td>
@@ -1674,7 +1675,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/oXERq4b98rEtdgoyGOs8-h_2zyMP6JlPJXF553OZ9QM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTM3/OTktMTQ4OTYxMjMw/Mi03NjcyLmpwZWc.jpeg" alt="Cover for Il Cuore Muove" style="max-width:120px; height:auto;" />
       </td>
@@ -1733,7 +1734,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 63</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 65</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 95</li>
         </ul>
       </td>
@@ -1761,7 +1762,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/CwerStt_d-KTDsIcGpjvdfcL8xvRpVTJdNuX0rkp-Fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzY2/NzgtMTUxNDUwMzI1/OS03NjI2LmpwZWc.jpeg" alt="Cover for Esco Dal Mio Corpo e Ho Molta Paura" style="max-width:120px; height:auto;" />
       </td>
@@ -1878,7 +1879,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 59</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 61</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 94</li>
         </ul>
       </td>
@@ -1943,13 +1944,13 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 11</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 13</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/5SfExEkvxj4dqc2esmv1qRMImBQL6ec6Ohh9FByJaZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDI2/NjEtMTU0OTEzODkw/NC00MzU5LmpwZWc.jpeg" alt="Cover for Greitist Iz" style="max-width:120px; height:auto;" />
       </td>
@@ -1972,7 +1973,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/n0m0RHs-W8NYrhP_0-nfgTHOkB04CikX7WhoXKZvZd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTQw/OTcyLTE1MTgxNzgy/NTAtODkzOS5qcGVn.jpeg" alt="Cover for V" style="max-width:120px; height:auto;" />
       </td>
@@ -2019,7 +2020,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/Zig2T2d2SVUJ_4iuad6PqRDVSXxKZXmEtnaIxry-WKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTkw/MzA5LTE1NTcwNzQ4/NzQtOTYyMi5qcGVn.jpeg" alt="Cover for Il mio gioco preferito (Parte prima)" style="max-width:120px; height:auto;" />
       </td>
@@ -2041,7 +2042,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/j0I9nakvUT2V05SPEpwntkyCub3zyZ24kr0rZY_v-tM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTg3/MzE1LTE2MDQ5Mzgx/OTgtMzIzNS5qcGVn.jpeg" alt="Cover for Accetto miracoli: l&#39;esperienza degli altri" style="max-width:120px; height:auto;" />
       </td>
@@ -2082,7 +2083,7 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 38</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 40</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 90</li>
         </ul>
       </td>
@@ -2107,13 +2108,13 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       <td>
         <ul>
             <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 12</li>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 100</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 100</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/wgpvo42l9XSZKv9lHlV4p5JvwcPXjs6wQD_JSqil0Fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzgz/NzEzLTE2MTU0MTE1/NzgtNzM0Mi5qcGVn.jpeg" alt="Cover for Max Gazzè: The Best Of Platinum" style="max-width:120px; height:auto;" />
       </td>
@@ -2149,12 +2150,12 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 64</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/454b4c6f447bc97d760e0f36caca952a.png" alt="Cover for BATTITO INFINITO" style="max-width:120px; height:auto;" />
       </td>
@@ -2171,12 +2172,12 @@ Italian pop blends Mediterranean melodic sensibility with contemporary productio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 25</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>

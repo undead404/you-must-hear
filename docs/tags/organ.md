@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T05:03:43.972Z
+date: 2025-11-03T06:41:59.628Z
 permalink: tags/organ
 title: organ
 ---
 
 ## organ
 
-Last updated: <time datetime="2025-10-29T05:03:43.972Z">Wed Oct 29 2025 07:03:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T06:41:59.628Z">Mon Nov 03 2025 08:41:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
   </thead>
   <tbody>
     <tr>
-      <td>68</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/KjdYuBNv9cOPPY0wAGRR9ijTMY4iSsAmS68EJoet6tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMw/MjcyLTE1OTQ4NjQ5/NzAtNTMyNy5qcGVn.jpeg" alt="Cover for Face to Face" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/8VK-0kyDwSJ6DkSuvwavsnGUXNb8d0Qm4fdtKKqUNM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzIz/MzM1LTE2MTUwNjAy/ODktOTM1Ny5wbmc.jpeg" alt="Cover for JS Bach - Organ Music" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>55</td>
       <td>
       </td>
       <td>1963</td>
@@ -87,7 +87,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/KU4Ibc1CYQqLuhBhCSja3t0amrJqa-kwLbOv2yiT-Tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODkz/NjItMTU4NTQ1NTMy/MC03NDMxLmpwZWc.jpeg" alt="Cover for Good Move" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +105,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/a4TOg_TmjykxVzh_IxcCuionvJZGBp7tIWDdHblafF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTg3/NTY4LTE2MzEzMTc4/OTUtNzIxMS5qcGVn.jpeg" alt="Cover for Organ Grooves And Soul Brothers - The Best Of Billy Larkin And The Delegates" style="max-width:120px; height:auto;" />
       </td>
@@ -124,7 +124,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>20</td>
       <td>
       </td>
       <td>1964-03-18</td>
@@ -141,7 +141,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d68a94944d2b4a32ca53fb1f687219c5.png" alt="Cover for The Cat" style="max-width:120px; height:auto;" />
       </td>
@@ -161,7 +161,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/RZ7yYHTarjE7BzbEbtyuFYAJhskBiq3VXokGCFOktOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTU5/MTAtMTMxNjUyMTg4/Ny5qcGVn.jpeg" alt="Cover for Blues for Mr. Jimmy" style="max-width:120px; height:auto;" />
       </td>
@@ -200,7 +200,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>50</td>
       <td>
       </td>
       <td>1966</td>
@@ -222,7 +222,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>56</td>
       <td>
       </td>
       <td>1966</td>
@@ -239,7 +239,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/C0O1nUV5fhHAsXLpO1RTtIlusMwx8F6L_G65tni5ZLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjM5/ODktMTM0NzMxOTE2/My0zMDc4LmpwZWc.jpeg" alt="Cover for A Single Man: Original Motion Picture Soundtrack" style="max-width:120px; height:auto;" />
       </td>
@@ -289,7 +289,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>47</td>
       <td>
       </td>
       <td>1967</td>
@@ -325,7 +325,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>58</td>
       <td>
       </td>
       <td>1968</td>
@@ -345,7 +345,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cd18107d74b45e3b7cadb94d35e2271.png" alt="Cover for The Beat Goes On" style="max-width:120px; height:auto;" />
       </td>
@@ -364,7 +364,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/xxFfu7wR8irXyitHwy2lIhAo_GCyZ_hgQwZfvxZZVLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTkx/MTQtMTM1NDcxNTg2/My0zOTE5LmpwZWc.jpeg" alt="Cover for The Doors [Remastered]" style="max-width:120px; height:auto;" />
       </td>
@@ -385,7 +385,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/x8EjL8ea86_-LpC9vd6GTADXmChz-Q7hMOT_QIK2bAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIx/MDE1LTE1ODY5NTI0/MzgtOTAwNC5qcGVn.jpeg" alt="Cover for A New Sound - A New Star" style="max-width:120px; height:auto;" />
       </td>
@@ -405,7 +405,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
       </td>
       <td>1970</td>
@@ -424,7 +424,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/oSrnNkkKZVw-gC5HOZRBmd0ZB81Q3TiFfReC4oPJRrA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzkw/Ny0xMTM4MDI4NjUx/LmpwZWc.jpeg" alt="Cover for Ma Belle Amie" style="max-width:120px; height:auto;" />
       </td>
@@ -447,7 +447,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/2yhhREOoiv2qMbO7b2K9ODgXc0grnMW5BQo6bSYLcGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjc4/OTctMTQ2NzkzNjgw/OS01NDQ5LmpwZWc.jpeg" alt="Cover for Something" style="max-width:120px; height:auto;" />
       </td>
@@ -467,7 +467,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>1971</td>
@@ -486,7 +486,24 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1972</td>
+      <td>Various Artists</td>
+      <td>French Organ Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
       <td>
       </td>
       <td>1973</td>
@@ -504,7 +521,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b847cac623a47609411afd6deca5aa5.png" alt="Cover for Live At The Rainbow" style="max-width:120px; height:auto;" />
       </td>
@@ -523,7 +540,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/AniTIPOtRjnR9Wz_-DxX7uFE8cJeCHufZLFbvmWHMNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTI2/MTg2LTE2MzY2MzU2/MjUtNTMxNi5qcGVn.jpeg" alt="Cover for Bach, J.S.: Organ Favourites" style="max-width:120px; height:auto;" />
       </td>
@@ -541,7 +558,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/t6F6xQCqy81DtUnT72elrhFc2Qe3-tDbXQsg78oNFpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzIz/MjUtMTY2NjMzNDE1/Ny00MzUzLmpwZWc.jpeg" alt="Cover for Main Squeeze" style="max-width:120px; height:auto;" />
       </td>
@@ -561,7 +578,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/fbn9LSJU5VUo9HOtsPX0Ep-gc_R6h27pbbpc4-g8Fak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDE2/NjAtMTM5OTkxMzA0/My05Nzg2LmpwZWc.jpeg" alt="Cover for Bringin&#39; It Home" style="max-width:120px; height:auto;" />
       </td>
@@ -600,7 +617,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Organ Meditation" style="max-width:120px; height:auto;" />
       </td>
@@ -618,7 +635,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/XW5yKpuF1yNbZ8EcVPnGvID1HzumSeF8EdNbOb0rFHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTI0/NC0xMzE4MDY2ODM5/LmpwZWc.jpeg" alt="Cover for Ekseption Plays Bach" style="max-width:120px; height:auto;" />
       </td>
@@ -645,7 +662,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/AusxCJGyBDOhTdlGi2db2XIcjelMFOn6y9WUHqLyhvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQw/NzA1LTE1MzMzNTkz/MjItNTM1OS5qcGVn.jpeg" alt="Cover for Bach: The Art of the Fugue" style="max-width:120px; height:auto;" />
       </td>
@@ -664,7 +681,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/C1TajKO_hZCmP3YfsCD2U9h9wZUY-ONnqyH4zAmIZm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODQx/MjItMTI5MTY3NDcz/NC5qcGVn.jpeg" alt="Cover for Am I Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -688,7 +705,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/bQtwoGhJOdOTjA_EpS8222XRj8hO_YPJ8XZoh9c3EV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTkz/NjItMTM5NzY0MzEw/NS03ODU0LmpwZWc.jpeg" alt="Cover for COUPERIN, F.: Organ Masses" style="max-width:120px; height:auto;" />
       </td>
@@ -705,7 +722,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/CbnPzbxe0bYmjWpfHRWsi7vAgq48FOyBUSfsrTn8xQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDY3/MDc3LTE2NDAzMzcx/NDEtNzk4OC5qcGVn.jpeg" alt="Cover for SAINT-SAENS: Organ Music" style="max-width:120px; height:auto;" />
       </td>
@@ -726,7 +743,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/8ivwbsKG-11eecgz0Wiuux755ItM3w4PA5Ibgbpcalk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzA2/NzEzLTE2ODEwNzUy/NTUtNzMwMS5qcGVn.jpeg" alt="Cover for Saint-Saens: Organ Symphony; Poulenc: Organ Concerto" style="max-width:120px; height:auto;" />
       </td>
@@ -749,7 +766,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for TUDOR ORGAN MUSIC" style="max-width:120px; height:auto;" />
       </td>
@@ -767,7 +784,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/5001wCRtkhLtOse_nFBkUujyoxIeUB7fD4oGgYo9-Z0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDc5/MzktMTQ0NzE1ODY0/NS0xMTM1LmdpZg.jpeg" alt="Cover for DURUFLE: Organ Music (Complete)" style="max-width:120px; height:auto;" />
       </td>
@@ -805,7 +822,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/_QJiszc_z7RK4y0pxwdzdDeH4EwuigTLScoViQc2JKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjc1/MjAtMTQxNDIyOTQx/OC04OTMyLmpwZWc.jpeg" alt="Cover for The Cat &amp; Other Great Themes" style="max-width:120px; height:auto;" />
       </td>
@@ -842,7 +859,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>45</td>
       <td>
       </td>
       <td>1991</td>
@@ -860,7 +877,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/XLNk42bHgKP5igFDaRSfe9za3WRI9jRp6p2DYG0j43c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTEy/OTMtMTQxNTcxOTU3/Ni0zMTk3LmpwZWc.jpeg" alt="Cover for BUXTEHUDE: Organ Music, Vol. 3" style="max-width:120px; height:auto;" />
       </td>
@@ -877,7 +894,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/KGinpHTMpE2RUuU7hIs6N4Grfk3CGkQrwuZ2B3APKis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzE1/NTctMTQyMTM3NDA3/MS0yMDg0LmpwZWc.jpeg" alt="Cover for Someone to Love" style="max-width:120px; height:auto;" />
       </td>
@@ -899,7 +916,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/CtNUmgNFXlx0YOvMTRBso_TOX0lNtyr2KOM7wfQgf3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDQ4/NzEtMTM5MzA0ODg4/OC00NzMzLmpwZWc.jpeg" alt="Cover for The Nice" style="max-width:120px; height:auto;" />
       </td>
@@ -922,7 +939,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/NwBS1oHlINkH3unNnihxeYItsoVWA5MqpFIHqolgTX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjI0/ODItMTM5MDUxNDQw/NS03NDg1LmpwZWc.jpeg" alt="Cover for Live at the 5 Spot" style="max-width:120px; height:auto;" />
       </td>
@@ -945,7 +962,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/na1vcObDOCRKtXQg7ILwjEJYQFd_tI64MrCXqKKTOZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjA3/OTMtMTQxODc3NTEy/Ni04MzgzLmpwZWc.jpeg" alt="Cover for Renegade Gentleman" style="max-width:120px; height:auto;" />
       </td>
@@ -973,7 +990,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/PFaxxVUDS81_y94obwcJVrK5eac-xR14mKmwSwQUhHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTQ0/MC0xMjkyOTgyNTA1/LmpwZWc.jpeg" alt="Cover for The Dynamic Duo" style="max-width:120px; height:auto;" />
       </td>
@@ -993,7 +1010,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/dQ7-jWCjB2tn5desUC7Ph5iNLAT33nJmerpwgEvlHy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjEw/ODItMTU5NjgxNjM5/My03NTI3LmpwZWc.jpeg" alt="Cover for The Great Lost Sun Ra Albums (disc 1: Cymbals)" style="max-width:120px; height:auto;" />
       </td>
@@ -1011,7 +1028,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/nErxatjp1mLQ1AcknS6bSNF39od04KMcBmWtFRWXA7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY3/NDUwLTE1ODQ4NjQw/NjYtMTk4MC5qcGVn.jpeg" alt="Cover for Organ Work 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1032,7 +1049,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>63</td>
       <td>
       </td>
       <td>1995-06-30</td>
@@ -1054,7 +1071,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>38</td>
       <td>
       </td>
       <td>1996</td>
@@ -1072,7 +1089,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/aCUlLIRrKBZtqG7qkxF7bx1zeVcugmsDd3BWEuipQM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTYy/NTcyLTE2MDA5Nzg2/NzAtMzQ2OC5qcGVn.jpeg" alt="Cover for Bach Organ Works" style="max-width:120px; height:auto;" />
       </td>
@@ -1090,35 +1107,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>70</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27f56d873c49c35df76989fcd2d436d8.png" alt="Cover for Knocking At Your Back Door" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997</td>
-      <td>Deep Purple</td>
-      <td>Knocking At Your Back Door</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/motown" | relative_url }}">motown</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/8F50DKonOIwwNf8RwejAmV908mYZhssJI0EG5XNnbeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTg2/ODMtMTYyODAyMzQ0/NC05Mjk0LmpwZWc.jpeg" alt="Cover for Earth Tones" style="max-width:120px; height:auto;" />
       </td>
@@ -1137,7 +1126,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>1999-09-14</td>
@@ -1155,7 +1144,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/oaVOhWkdWVKXQbcLdD-gLv_fqvL_Cv2qgbVr6TLVHAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDk5/NDUtMTMwODQyNzcz/Ni5qcGVn.jpeg" alt="Cover for Brotherly Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1173,7 +1162,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/y0LRLtHqmZZIYbtIyA-N4ZSQ6RUZFMqcgvk2LwnHL5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDI1/MzEtMTM5MzY0MDQz/OS0xNTIwLmpwZWc.jpeg" alt="Cover for McGriff Avenue" style="max-width:120px; height:auto;" />
       </td>
@@ -1195,7 +1184,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
       </td>
       <td>2002-01-01</td>
@@ -1213,7 +1202,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/HkTMvM2TrQ2eACTshC2d4wGCaIVqNbyGx8l61dmJAww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDc5/MjAtMTU1MzkxMjI3/Ny00MDUwLmpwZWc.jpeg" alt="Cover for Organ Registration" style="max-width:120px; height:auto;" />
       </td>
@@ -1233,7 +1222,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/3W0QjnJbfmC6mXmfmi7sIH5NqMmKJ_L2yTCXUd-qbjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDc5/NzA2LTE2NzYyNzg1/MTYtMjczMS5qcGVn.jpeg" alt="Cover for Messiaen: Organ Works" style="max-width:120px; height:auto;" />
       </td>
@@ -1253,7 +1242,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/hl7YN4piZa71Kc5B08rVqUvcdXMETpso9SqRZ9gYMsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQy/MDY3LTE1MTY0MDMz/NTEtNzQ2NC5qcGVn.jpeg" alt="Cover for Organ Favourites from King&#39;s College, Cambridge" style="max-width:120px; height:auto;" />
       </td>
@@ -1271,25 +1260,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91830ed79ecc4b52cba37a6b4dce56e0.png" alt="Cover for Hex" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Bigelf</td>
-      <td>Hex</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/JdRzqimJENuCq21ey_R88Uvh0GLVWMTLt0Rl1vrSFcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTY1/NjktMTQ2NTczOTk0/Ni0zNDg0LnBuZw.jpeg" alt="Cover for Are You Ready For An Organ Solo?" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,7 +1280,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c16a39f6805e4d9db2607cca9bab606f.png" alt="Cover for The Early Years" style="max-width:120px; height:auto;" />
       </td>
@@ -1326,7 +1297,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/Gin-idDnvzZg-YyiUC3T2Ut64sdm8_rH0p3TTN4et48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODMw/NzAtMTUxODAzOTM3/Ni05NTYyLmpwZWc.jpeg" alt="Cover for Deluxe Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1344,7 +1315,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/YXkLAmIIlGJ5q7W2iH8OZL1gTUXcItuCOJGaSBcNaSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjE4/NDktMTU1MTM2NTA5/Mi0yMDUxLmpwZWc.jpeg" alt="Cover for Turning Point" style="max-width:120px; height:auto;" />
       </td>
@@ -1383,7 +1354,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>42</td>
       <td>
       </td>
       <td>2006</td>
@@ -1417,7 +1388,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/oMjMajNy9df9yXcVyytSR_a4HVzSMXFE0zPUHsKVs7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzc1/ODMtMTM0MjM2MjIy/OC0xMjAxLmpwZWc.jpeg" alt="Cover for Kobai" style="max-width:120px; height:auto;" />
       </td>
@@ -1436,7 +1407,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/jT2Ty6Pakz8WxBh926ASsKS5VKg6qMeK-Ow-rWWg29I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njky/NDEtMTIyOTEyMTEy/MS5qcGVn.jpeg" alt="Cover for Bara no Seido" style="max-width:120px; height:auto;" />
       </td>
@@ -1456,7 +1427,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
       </td>
       <td>2007-03-16</td>
@@ -1478,7 +1449,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/61bO64A-xuyhaVSkZXbi1uLmf3B60qh0HgfOXPTTi_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTg4/NTctMTQxNTM0ODg0/My0xNzczLmpwZWc.jpeg" alt="Cover for All Or Nothing At All" style="max-width:120px; height:auto;" />
       </td>
@@ -1498,7 +1469,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/3A5cV1b5-piPIJ02ji4bv4_E_sE_cDwgg6ur-JR7AG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTc3/ODMtMTI5NTI5NDU5/NS5qcGVn.jpeg" alt="Cover for Labyrint světa a ráj srdce" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,7 +1490,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
       </td>
       <td>2008</td>
@@ -1541,7 +1512,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8a5594a7b684d3799f54ce8d00a2cb2.png" alt="Cover for No Ones Words" style="max-width:120px; height:auto;" />
       </td>
@@ -1559,7 +1530,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>57</td>
       <td>
       </td>
       <td>2008-09-30</td>
@@ -1579,7 +1550,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/_Yzm87v8kg0pdz90cJCJrxR2PhC_bJT4Jj-Pc7oQ5hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTE0/OTMtMTQyNjcwNjEw/Mi02OTQ5LmpwZWc.jpeg" alt="Cover for Prière" style="max-width:120px; height:auto;" />
       </td>
@@ -1604,7 +1575,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for SCHOENBERG &#x2F; FRESCOALDI &#x2F; LIGETI: Organ Music" style="max-width:120px; height:auto;" />
       </td>
@@ -1663,7 +1634,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
       </td>
       <td>2011-05-24</td>
@@ -1684,7 +1655,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>
       </td>
       <td>2011-10-11</td>
@@ -1702,7 +1673,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/BmbBiVjsUfJyuYbNnCiTfO83FQTC0mHDoaAeEQ1Eglo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA0/NTkzLTE1MDYyNzEz/NzEtNzU1MS5qcGVn.jpeg" alt="Cover for The True Discoveries of Witches and Demons" style="max-width:120px; height:auto;" />
       </td>
@@ -1761,7 +1732,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/z014KVXAbJyKPAR1IdKaPNm5sj1A0SZlCKRiMXuugAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk1/NTk2LTE1MDk3Nzk0/NDEtODU4Mi5qcGVn.jpeg" alt="Cover for Pachelbel: Organ Works" style="max-width:120px; height:auto;" />
       </td>
@@ -1781,7 +1752,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/KAyI5VVjBvmb8toQOT5mklGMULq-BKqJVlY6Nu77wWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODA4/OTQ3LTE2NzQwNzAz/NzctOTEzOS5qcGVn.jpeg" alt="Cover for MENDELSSOHN: Organ Sonatas Nos. 1- 6, Op. 65" style="max-width:120px; height:auto;" />
       </td>
@@ -1798,7 +1769,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>14</td>
       <td>
       </td>
       <td>2013-10-07</td>
@@ -1815,7 +1786,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/aI7wY15e3Mo_UVhgDBtfv7anKoMOfWU7JuSTWsecuIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjM3/NDEtMTQ2NzQwODQz/OC01NzI0LmpwZWc.jpeg" alt="Cover for Arches" style="max-width:120px; height:auto;" />
       </td>
@@ -1834,7 +1805,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/bNtxoblPtKfX-zgpM27aFXSeUMPYW4sv4NWflmstbcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTE0/MDEtMTYyNjI2OTAz/OS05NTg3LmpwZWc.jpeg" alt="Cover for Källan (Betatype)" style="max-width:120px; height:auto;" />
       </td>
@@ -1873,7 +1844,45 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/hRo1pfXSsUJyiV7XDVLzIvMym34MAXIumMJOcILscug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkw/MDE3LTE1NjMzOTY1/NTUtNzg1Ni5qcGVn.jpeg" alt="Cover for Forgotten Works" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-07-12</td>
+      <td>øjeRum</td>
+      <td>Forgotten Works</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 10</li>
+            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 14</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/pMOs5lF6glMSUdjrOZSrxlkn9oJOdOZwRL6y-fSgUww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDY2/Njk2LTE2MzAwNzU4/NjQtMjM0NC5qcGVn.jpeg" alt="Cover for Selected Organ Works" style="max-width:120px; height:auto;" />
       </td>
@@ -1911,7 +1920,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/kKE9Nxi8uUH4skx8NUKX-jfVnFccHX0pJUZbmYs2Mqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODUw/MDI3LTE2MDA4OTA2/ODEtOTI3NS5qcGVn.jpeg" alt="Cover for All Thoughts Fly" style="max-width:120px; height:auto;" />
       </td>
@@ -1931,7 +1940,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>15</td>
       <td>
       </td>
       <td></td>
@@ -1957,7 +1966,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>
@@ -1991,7 +2000,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -2009,7 +2018,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
@@ -2026,7 +2035,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td></td>

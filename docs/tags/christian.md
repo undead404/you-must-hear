@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T01:43:14.310Z
+date: 2025-11-03T06:58:51.543Z
 permalink: tags/christian
 title: christian
 ---
 
 ## christian
 
-Last updated: <time datetime="2025-10-31T01:43:14.310Z">Fri Oct 31 2025 03:43:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T06:58:51.543Z">Mon Nov 03 2025 08:58:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
       </td>
       <td>1983-09-27</td>
@@ -46,7 +46,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/DcZR_1ZfYf6IexeHs3jIhKuvrey0PPs_XqReDxoFwPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTQ2/MzU2LTE1MDY5ODA4/NzUtMjY0MS5qcGVn.jpeg" alt="Cover for Chapati" style="max-width:120px; height:auto;" />
       </td>
@@ -107,7 +107,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/idbW8ZMZrWCx6PUOUDOyo-1d7dv3sEtHrCvxac4xdG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzE5/OC0xMjgyNDQ4MjY3/LmpwZWc.jpeg" alt="Cover for Take Me To Your Leader" style="max-width:120px; height:auto;" />
       </td>
@@ -130,7 +130,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>1997-06-16</td>
@@ -149,7 +149,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/UN2FeXwC56T0CI9B3z6vmKyd4BaL6_PJkVo0cfKgwVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTc3/Ny0xMTM1NDM5ODgz/LmpwZWc.jpeg" alt="Cover for Much Afraid" style="max-width:120px; height:auto;" />
       </td>
@@ -167,7 +167,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>1997-11-22</td>
@@ -184,7 +184,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebbc474ffc4c4656bd3dae0191649fa7.png" alt="Cover for The Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -210,7 +210,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6feda66defdc67defc1567668f1652d.png" alt="Cover for Supernatural" style="max-width:120px; height:auto;" />
       </td>
@@ -225,12 +225,12 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 32</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/XJ_3Y0Noli1VB1iGOR41dxrmaz5s64bpbr-fcO3EhqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY1/MzctMTYxNjUyNjA3/NS05OTU1LmpwZWc.jpeg" alt="Cover for Rehearsals for Departure" style="max-width:120px; height:auto;" />
       </td>
@@ -249,7 +249,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/aaqVHALiFcUZvhDeh1-XJh2ZiEM1KIXhhO6LD5leM3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDc0/ODMtMTQ4NjYzNjk2/Ny05NDAxLmpwZWc.jpeg" alt="Cover for No More Doubt" style="max-width:120px; height:auto;" />
       </td>
@@ -268,7 +268,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/yLOzZyLLdFIciHYRpcUX1pGDVes3W_6zvhk6oNnXvJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTI4/MTgtMTM0NDYxOTM0/MS0zMDQzLmpwZWc.jpeg" alt="Cover for Fireproof" style="max-width:120px; height:auto;" />
       </td>
@@ -283,12 +283,12 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 62</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2002-10-01</td>
@@ -305,7 +305,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2003-03-04</td>
@@ -324,7 +324,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2003-03-25</td>
@@ -341,7 +341,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2003-03-27</td>
@@ -360,7 +360,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2003-05-06</td>
@@ -376,7 +376,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       <td>
         <ul>
             <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 19</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 39</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 40</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 92</li>
         </ul>
       </td>
@@ -397,12 +397,12 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 81</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/I6LGH7be1_BTA7KPOtjU36mab5Od6kYXCnUhyUyxbbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjEz/MTAtMTQ2NTMxNTEy/MC0zNjE3LmpwZWc.jpeg" alt="Cover for 8 Great Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -420,7 +420,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>2003-12-15</td>
@@ -437,7 +437,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>2004-04-20</td>
@@ -456,7 +456,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>2004-08-10</td>
@@ -475,7 +475,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2004-09-21</td>
@@ -512,7 +512,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2004-09-28</td>
@@ -528,7 +528,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/3pvnAUuftmVmVXxs-l_BDMLW01VIXTCkE4HbQK5wmFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDg4/ODktMTM5NTE5MzE5/OS0zMzUyLmpwZWc.jpeg" alt="Cover for Clean" style="max-width:120px; height:auto;" />
       </td>
@@ -564,12 +564,12 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 97</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2004-11-16</td>
@@ -583,12 +583,12 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 58</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/51230b46435a41e78ddc41a2fdc90cf4.png" alt="Cover for Dawn Escapes" style="max-width:120px; height:auto;" />
       </td>
@@ -610,7 +610,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>2005</td>
@@ -628,7 +628,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/9ta1v9NEDViWTJ8MqxPl5DvFl2oYj8GUPmPn_0CtedQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDcw/NDYtMTM2NTExOTQ2/Mi02NzU5LmpwZWc.jpeg" alt="Cover for Now Is The Time" style="max-width:120px; height:auto;" />
       </td>
@@ -648,7 +648,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/AKWk7CGnLbrAwpCQlvKWu5cFWBOiESdYfuF5wO_9_VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI1/ODAyLTE1ODQyMDQ4/MzUtODQyNS5qcGVn.jpeg" alt="Cover for Beauty From Pain" style="max-width:120px; height:auto;" />
       </td>
@@ -663,7 +663,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 50</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -683,7 +683,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 87</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -702,7 +702,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 44</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -727,7 +727,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>2005-04-05</td>
@@ -742,13 +742,13 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 35</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 36</li>
             <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/AV40_9lIL-BPrHDAfgwbRlWEy082HKbZ9PnwXy2obZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTEx/MS0xNTU5OTI2MjE5/LTIyMTMuanBlZw.jpeg" alt="Cover for Are You a Dreamer?" style="max-width:120px; height:auto;" />
       </td>
@@ -766,7 +766,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fee1ec221ee72350e59ce4213719f9a.png" alt="Cover for The Question" style="max-width:120px; height:auto;" />
       </td>
@@ -786,7 +786,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>2005-08-30</td>
@@ -801,13 +801,13 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 76</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 80</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d00d8ba9921c46d68f61ee32f87a7a67.png" alt="Cover for Last Chance To Breathe" style="max-width:120px; height:auto;" />
       </td>
@@ -826,7 +826,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/baBAUD1qvSByBM4-A0PuG4xG9v_58A6a_o28HnlcRHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTgw/NzQtMTYzNDIzNjE2/MS0xNzY3LmpwZWc.jpeg" alt="Cover for A Collision or (3+4&#x3D;7)" style="max-width:120px; height:auto;" />
       </td>
@@ -842,13 +842,13 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 8</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 9</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2005-11-07</td>
@@ -865,7 +865,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cfc2ed8cbc84773a6c0e680bfdc129c.png" alt="Cover for Keep No Score" style="max-width:120px; height:auto;" />
       </td>
@@ -885,7 +885,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>2006-09-26</td>
@@ -904,7 +904,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2006-10-31</td>
@@ -919,13 +919,13 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 31</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 32</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/wB7jMhXS5Yusx9cn-zcVtQcDAbeLXHH_LEbj6fl-tR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0ODg4/MDctMTUyOTc1MjUz/Ny02Mzg2LmpwZWc.jpeg" alt="Cover for Something To Say" style="max-width:120px; height:auto;" />
       </td>
@@ -944,7 +944,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>2007-03-20</td>
@@ -961,7 +961,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f4dc73a43a54aacb0accf60628d8362.png" alt="Cover for All Of The Above" style="max-width:120px; height:auto;" />
       </td>
@@ -981,7 +981,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/704c05fc8b4443d4a2d8702e0dcf34bf.png" alt="Cover for The Altar and The Door" style="max-width:120px; height:auto;" />
       </td>
@@ -996,12 +996,12 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 61</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2007-09</td>
@@ -1023,7 +1023,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2007-10-02</td>
@@ -1038,13 +1038,13 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 59</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 61</li>
             <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/KhSinZA0rCK1VzOWUQt3aP_RZG3E86rRydySGRDVPPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjQw/MzktMTQwOTA4MzQ3/NC0yMTI0LmpwZWc.jpeg" alt="Cover for All That Is Within Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,7 +1085,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>2008-02-05</td>
@@ -1104,7 +1104,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>2008-02-12</td>
@@ -1122,7 +1122,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2008-07-15</td>
@@ -1140,7 +1140,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
       </td>
       <td>2008-08-19</td>
@@ -1157,7 +1157,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>2008-09-02</td>
@@ -1176,7 +1176,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2008-10-07</td>
@@ -1193,7 +1193,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/347b98448fc844df930561e4083cd10f.png" alt="Cover for Speaking Louder Than Before" style="max-width:120px; height:auto;" />
       </td>
@@ -1214,7 +1214,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/zlUzC_OxUC1KMvnoDy7tiDlgKHYr91EAMk-lZNJLe2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzMx/ODctMTQ1Mzg0MzIy/NS0yMTQ3LmpwZWc.jpeg" alt="Cover for Wake the Earth" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,7 +1232,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>2009-06-09</td>
@@ -1250,7 +1250,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
       </td>
       <td>2009-08-21</td>
@@ -1268,7 +1268,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2009-08-31</td>
@@ -1287,7 +1287,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/NVbthmIGSxbe7BONy105tgQaUGG864Wzr3c52NBj14I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTIx/OTItMTQ1MjIxODY2/OC05NTEzLmpwZWc.jpeg" alt="Cover for Alive Again" style="max-width:120px; height:auto;" />
       </td>
@@ -1305,7 +1305,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61f4b81764ff4bccbeac921a2f67503e.png" alt="Cover for Breaking The Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -1324,7 +1324,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2009-10-20</td>
@@ -1341,7 +1341,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2009-11-09</td>
@@ -1359,7 +1359,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2009-11-17</td>
@@ -1374,13 +1374,13 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 66</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 68</li>
             <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
       </td>
       <td>2010-02-16</td>
@@ -1424,7 +1424,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de3a71f49f1e48dbb3131225d2252130.png" alt="Cover for Welcome to the Masquerade (Fan Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1443,7 +1443,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2011-02-15</td>
@@ -1462,7 +1462,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2011-03-22</td>
@@ -1479,7 +1479,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2011-04-12</td>
@@ -1496,7 +1496,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2011-06-15</td>
@@ -1514,29 +1514,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>85</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/508b7c3b4e4844d4aa7f187e78fcec51.png" alt="Cover for What I&#39;ve Become" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-08-23</td>
-      <td>Ashes Remain</td>
-      <td>What I&#39;ve Become</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 82</li>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
       </td>
       <td>2011-11-11</td>
@@ -1556,7 +1534,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a51f6b676230489fa8553f4bdfcd39bb.png" alt="Cover for Sing Like Never Before: The Essential Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -1575,7 +1553,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
       </td>
       <td>2012-04-10</td>
@@ -1590,12 +1568,12 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 60</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2013-01-04</td>
@@ -1632,7 +1610,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/CFuMNCFPrkYWM-QRrsXHjXRSYPFnStOyT8zNIBl7bto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM3/NjI5LTE1NjY1ODA5/NTctNTQ5NC5qcGVn.jpeg" alt="Cover for Carrion Flowers - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1714,20 +1692,46 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 55</li>
             <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 63</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 76</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 76</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 76</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 92</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
+      <td>
+      </td>
+      <td>2014-10-14</td>
+      <td>Fit for a King</td>
+      <td>Slave To Nothing</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>
       </td>
       <td>2015-05-26</td>
@@ -1745,7 +1749,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/PNGsQYCHcJRDMUYu98DGlKO4B2uujj8RZG8vECDnY7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjc2/NDQtMTQzOTk0NTYy/OS03NDMyLmpwZWc.jpeg" alt="Cover for This is Not a Test" style="max-width:120px; height:auto;" />
       </td>
@@ -1763,7 +1767,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/-BywrP6adTezDNB8njv13_xhPrCNQvzannBiX85dwyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTMw/MjMtMTQ4MDEzMDEx/Mi02MjU1LmpwZWc.jpeg" alt="Cover for Here as in Heaven" style="max-width:120px; height:auto;" />
       </td>
@@ -1783,7 +1787,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/L8a3AocuRHvcz27TxsKlXIZ95YQ8VxEdYtVaLTaAWQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjg4/OTgtMTUxNzE0MzM4/OS03NDEzLmpwZWc.jpeg" alt="Cover for Limitless" style="max-width:120px; height:auto;" />
       </td>
@@ -1803,7 +1807,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/102d7ceaf997969fc7552af5d65e474c.png" alt="Cover for Unleashed" style="max-width:120px; height:auto;" />
       </td>
@@ -1817,7 +1821,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 70</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1842,7 +1846,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/YWlLKdxVeGARxA7oGprNsuumEDrpMV9x7ESaReynGKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTM0/MDkwLTE2MDA0Njk1/MjItODI4Mi5qcGVn.jpeg" alt="Cover for Backbreaker" style="max-width:120px; height:auto;" />
       </td>
@@ -1870,7 +1874,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/dotdeNS14gBlG0F5rqQkIJkFERF_ayK8eN0MmGif6cI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQx/NDY4LTE2MTkwMjM0/MTQtNTMwNS5qcGVn.jpeg" alt="Cover for Burn The Ships" style="max-width:120px; height:auto;" />
       </td>
@@ -1889,7 +1893,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/0DJM-4XJsZ4hYeguUZeyRkxoVkVdWlhCNJGyw0WiBwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ5/MjYzLTE1NTI1NTg2/NjItNDg5My5qcGVn.jpeg" alt="Cover for Savior" style="max-width:120px; height:auto;" />
       </td>
@@ -1909,9 +1913,9 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 25</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 53</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 70</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 26</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 54</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 72</li>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 97</li>
         </ul>
       </td>
@@ -1940,7 +1944,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/4-iEsIsVNgyMi9WpQYafPX1S3N6v39_4Nxao001zbAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI4/Nzg0LTE1MzcwMzcz/MzctMTgzNS5qcGVn.jpeg" alt="Cover for Tower of Pain" style="max-width:120px; height:auto;" />
       </td>
@@ -1990,14 +1994,14 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 33</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 43</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 53</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 59</li>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/fbVW8Ub4PxShXHd3G1_iei4WrTgK42MEPFcyVKwpqsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDM4/NDA4LTE2MzAyNDMz/MjktMjQxNS5qcGVn.jpeg" alt="Cover for DONDA" style="max-width:120px; height:auto;" />
       </td>
@@ -2018,7 +2022,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/OJAxBTe6lWDi5N0yKr8rloS6saxCETh87nvt92EcYJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE3/OTM1LTE1MjY4MDQy/NTgtNTYzMi5wbmc.jpeg" alt="Cover for When Everything Means Nothing" style="max-width:120px; height:auto;" />
       </td>
@@ -2063,7 +2067,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/3Ycf4J_kXutwEBMckYpidH4rBIF6YqdMN_l9Sk7A584/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjE3/MjQxLTE2NTU1NzA4/NjItNzYyNC5qcGVn.jpeg" alt="Cover for Diamonds" style="max-width:120px; height:auto;" />
       </td>
@@ -2083,9 +2087,9 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 51</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 65</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 81</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 52</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 67</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 82</li>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 98</li>
         </ul>
       </td>

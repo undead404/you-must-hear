@@ -1,118 +1,1946 @@
 ---
 category: genre
-date: 2025-10-23T18:07:45.738Z
+date: 2025-11-03T06:43:51.138Z
 permalink: tags/dub
 title: dub
 ---
 
 ## dub
 
-Last updated: <time datetime="2025-10-23T18:07:45.738Z">Thu Oct 23 2025 21:07:45 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-03T06:43:51.138Z">Mon Nov 03 2025 08:43:51 GMT+0200 (Eastern European Standard Time)</time>
+
+### Description
+
+Dub is a subgenre of reggae that originated in Jamaica in the late 1960s. It is characterized by its emphasis on the instrumental and rhythmic elements of reggae music, often stripping away the vocals or using them sparingly, and adding various sound effects and studio techniques such as reverb, echo, and delay. Dub often features heavy basslines, drum and bass rhythms, and a focus on the rhythm section. It has since been influential in many other genres of music, including electronic dance music and hip hop.
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 3 |  |  | Drain Gang Archive | I Will Make You Bleed |
-| 31 | ![Cover](https://i.discogs.com/rrCdPXAnzVTDB13QNqs7n6IjANX3h8bhmliUqznsSPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODk1/NjUtMTI0MzQzOTE4/OC5qcGVn.jpeg) | 1976 | Augustus Pablo | King Tubbys Meets Rockers Uptown |
-| 35 |  | 1976 | King Tubby | King Tubbys Meets Rockers Uptown |
-| 43 |  | 1976 | The Upsetters | Super Ape |
-| 38 |  | 1979 | Augustus Pablo | Original Rockers |
-| 27 |  | 1984 | Ini Kamoze | Ini Kamoze |
-| 18 |  | 1986 | Izrael | Nabij Faje |
-| 36 | ![Cover](https://i.discogs.com/ld_-nf5tPhLF1fhj15K704RY6VjCWDB2dxHK4ay1ch0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTM3/MS0xNDIxODUxODYz/LTg2NjguanBlZw.jpeg) | 1990 | Hugh Mundell | Africa Must Be Free By 1983 |
-| 23 | ![Cover](https://i.discogs.com/0UoXSCNep-ivsRNgyKyqv9arL2eOnjQg1jKmmJ7hU8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODMy/NzYtMTE5MDc4MTEz/NC5qcGVn.jpeg) | 1994 | Fishmans | 空中キャンプ |
-| 33 |  | 1995-02-17 | Massive Attack vs. Mad Professor | No Protection |
-| 39 | ![Cover](https://i.discogs.com/EUjGOVw1rs_l-ByDbPK7YTp2aibaajEWFDLEsDM8aKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTMy/LTE2Mzg0ODM4NTUt/NjM3Ni5qcGVn.jpeg) | 1995-05-29 | Dreadzone | Second Light |
-| 26 | ![Cover](https://i.discogs.com/NVW63tVMgop9cJG-w0Ir8OjmWDalBcxeiMZNUM9TgTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzU1/Mi0xNTgwMDQ2MDAw/LTI5MzYuanBlZw.jpeg) | 1995-08-15 | Augustus Pablo | Orginal Rockers |
-| 25 | ![Cover](https://i.discogs.com/5-hhhDM3KGP55gHYysHWSq3VQLk061NCChLBmYIrFgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTk0/LTE1MDY5MzYyNDAt/NTM1OS5qcGVn.jpeg) | 1996 | Rockers Hi-Fi | Mish Mash |
-| 8 | ![Cover](https://i.discogs.com/VK7IPJ6mOJ-SAnMhOlaoJ2nFAmalSxNtVYswo9K0T0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODMy/ODctMTU0MTM0NDA1/My04MTczLmpwZWc.jpeg) | 1996-10-25 | Fishmans | Long Season |
-| 2 |  | 1998 | Zenzile | Dub Promozione |
-| 44 |  | 1998-10-05 | Dub Pistols | Point Blank |
-| 10 | ![Cover](https://i.discogs.com/2c6bgRz88kGS8T8DnbgaGRDM4wpYk6zLFtD77mJ5MIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDcy/LTE0MzUxMzA1NjIt/NTc1NS5qcGVn.jpeg) | 2000 | Asian Dub Foundation | Time Freeze The Best Of |
-| 37 |  | 2000 | Pole | 3 |
-| 4 |  | 2000-03-08 | Asian Dub Foundation | Community Music |
-| 14 |  | 2000-05 | High Tone | Opus Incertum |
-| 29 |  | 2001 | Dub Pistols | Six Million Ways to Live |
-| 50 |  | 2001-06 | Boozoo Bajou | Satta |
-| 24 |  | 2001-10-01 | Rhythm &amp; Sound | Rhythm &amp; Sound |
-| 28 |  | 2002-04-22 | High Tone | Acid Dub Nucleik |
-| 42 |  | 2002-10-29 | Hallucinogen | In Dub |
-| 19 |  | 2003-09-29 | Rhythm &amp; Sound | w&#x2F; the Artists |
-| 21 | ![Cover](https://i.discogs.com/l2iZTe4XZzBhJzqwj2MStOrOMMKwqdc6h7kNZevwkOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDMz/My0xMTQ0MDgyMjQ3/LmpwZWc.jpeg) | 2004-10-18 | KORA | Ep Volume |
-| 15 |  | 2005-01-17 | Rhythm &amp; Sound | See Mi Yah |
-| 30 |  | 2005-02-16 | Asian Dub Foundation | Tank |
-| 11 |  | 2005-06-06 | La Phaze | Fin de Cycle |
-| 49 | ![Cover](https://i.discogs.com/oPqpjcIV2mPqZjH35S3F8pVuKq8dld0Vc-S1lGVST3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDg1/MDEtMTQ0NTg5NDE3/Ni02MDEwLmpwZWc.jpeg) | 2006-05-04 | Rebelution | Rebelution |
-| 45 |  | 2006-07-13 | The Black Seeds | Into the Dojo |
-| 13 |  | 2006-08-22 | Easy Star All-Stars | Radiodread |
-| 32 |  | 2007 | Dub Pistols | Speakers and Tweeters |
-| 16 |  | 2007-03-16 | Pole | Steingarten |
-| 22 |  | 2007-09-21 | Chezidek | Inna Di Road |
-| 12 |  | 2008-03-26 | Asian Dub Foundation | Punkara |
-| 7 | ![Cover](https://i.discogs.com/vC0cp2YHzq8vHE7kTxV-p0KkU8tARj5dCHd6N8RNJBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQ2/NjMtMTIyNDU1NDA3/MS5wbmc.jpeg) | 2008-10-21 | Fort Knox Five | Radio Free DC |
-| 17 |  | 2008-12-23 | Thievery Corporation | Radio Retaliation |
-| 9 | ![Cover](https://i.discogs.com/X80w_C6nDOaPSHCA87AC3WRWXGv6NVZPIheJehvVKuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjYx/ODQtMTMwNjM0MzM2/NC5qcGVn.jpeg) | 2009 | Santigold | Santigold |
-| 48 |  | 2009 | Dub Fx | Everythinks a Ripple |
-| 47 | ![Cover](https://i.discogs.com/JLKQL6OFQSbfs8C_sHIAPM9Kbb2hbouhojXmDrk8wBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTk1/NDctMTI5MjUwODAy/Ny5qcGVn.jpeg) | 2010-07-00 | Forest Swords | Dagger Paths |
-| 5 |  | 2012-03-19 | Gentleman&#39;s Dub Club | Open Your Eyes |
-| 40 |  | 2013-04-08 | Karol Conka | Batuk Freak |
-| 34 |  | 2014-05-12 | Hollie Cook | Twice |
-| 46 |  | 2014-06-10 | Rebelution | Count Me In |
-| 20 | ![Cover](https://i.discogs.com/zfnjtaP5PLOdfe23liWwRnBxQsGt3Twcf2kfbCQN04A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTc2/MDItMTQ2NTIzNTM2/OS05OTkxLmpwZWc.jpeg) | 2016-06-03 | Rebelution | Falling Into Place |
-| 41 | ![Cover](https://i.discogs.com/7EBWMQ9Ofa3HOgL572QWLEU-9OOKTvUhZOYCb80BHYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODIy/MzItMTU4NTUxNjM2/NC0xMzMyLmpwZWc.jpeg) | 2016-10-21 | Jean du Voyage | Mantra |
-| 1 | ![Cover](https://i.discogs.com/L6f3iBofNcMWBVuq-YTVz70IAD8z0rMyeiNHyyZIs_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MDI1LTE2NjYzNTMx/NzctMjMzNS5qcGVn.jpeg) | 2022-10-21 | Planet Hemp | Jardineiros |
-| 6 |  |  | Lee &quot;Scratch&quot; Perry &amp; The Upsetters | Super Ape |
-| 56 |  |  | Space Monkeyz vs. Gorillaz | Laika Come Home |
-| 89 | ![Cover](https://i.discogs.com/BVuRGPv69x0f5U9ljR2mGw1j5PPg1jORDPoKQu6vd2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQz/MTItMTIwMTE4MTM0/Mi5qcGVn.jpeg) | 1979 | The Clash | London Calling (Remastered) |
-| 96 | ![Cover](https://i.discogs.com/6XYmF3Zlx1w1x5mW1CbKTfWfD6exEYaQEE_mTh6YtaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTUw/NzY1LTE1MDkyOTg0/ODAtNDcwNS5qcGVn.jpeg) | 1980 | The Clash | Sandinista! CD 2 |
-| 97 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e7bc9aa85c89152a54bffb564995f890.png) | 1980-12-12 | The Clash | Sandinista! |
-| 58 |  | 1981 | Augustus Pablo | East of the River Nile |
-| 63 | ![Cover](https://i.discogs.com/6c2XIaI63v423W56-SvuKY-qUDM-m_sIQ9tkN9wsj48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODI4/LTE2NDM5ODk4NDQt/Njk5NC5qcGVn.jpeg) | 1981 | Scientist | Scientist Rids the World of the Evil Curse of the Vampires |
-| 51 | ![Cover](https://i.discogs.com/87Fq1R1mjKtGE95Xu7wxUDk1mJE8zlRPfHf0lQuWWTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTk2/MjItMTIwNzYxMDE5/MS5qcGVn.jpeg) | 1990 | Scientist | Rids The World of The Evil Curse of The Vampires |
-| 69 | ![Cover](https://i.discogs.com/fwez2VnF-GBBw732GU4M7h1DO3rTkm2xHgGtCZo6OME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzI4/MC0xMTg3Mjk2Nzkw/LmpwZWc.jpeg) | 1992-02-07 | Dub Syndicate | Stoned Immaculate |
-| 62 | ![Cover](https://i.discogs.com/qMQXtwVWomk-6i-SV34VLJvmCvqvBm-osKQ9SdF9zeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDAz/LTAwMS5qcGc.jpeg) | 1994 | Augustus Pablo | King Tubby Meets Rockers Uptown |
-| 67 | ![Cover](https://i.discogs.com/qMQXtwVWomk-6i-SV34VLJvmCvqvBm-osKQ9SdF9zeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDAz/LTAwMS5qcGc.jpeg) | 1994 | Augustus Pablo | King Tubby Meets Rockers Uptow |
-| 71 |  | 1994-02-08 | Sublime | Robbin&#39; The Hood |
-| 86 |  | 1995-02-17 | Massive Attack | No Protection |
-| 72 | ![Cover](https://i.discogs.com/faPoVGzwS5PUajT0YSFX0NY4hrr1kwZ-mHv4KYn48wY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzA1/LTEzNzc4Njg5NTMt/NzU0MS5qcGVn.jpeg) | 1997-01-20 | Blue Boy | Remember Me |
-| 91 |  | 1997-09-05 | Tosca | Fuck Dub |
-| 54 | ![Cover](https://i.discogs.com/UXkGWbuTzUXWzMuQe0-ccXwgkNeRQ-x5mBlM6EXEU5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjA0/MS0xMTI4MzQ0NDQ4/LmpwZWc.jpeg) | 2000 | Le Peuple de l&#39;Herbe | Triplezéro |
-| 55 | ![Cover](https://i.discogs.com/UXkGWbuTzUXWzMuQe0-ccXwgkNeRQ-x5mBlM6EXEU5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjA0/MS0xMTI4MzQ0NDQ4/LmpwZWc.jpeg) | 2000 | Le Peuple de l&#39;Herbe | Triple Zero |
-| 94 |  | 2000 | 10 Ft. Ganja Plant | Presents |
-| 70 |  | 2001-10-15 | High Tone | Bass Temperature |
-| 73 |  | 2002-07-08 | Roots Manuva | Dub Come Save Me |
-| 57 |  | 2003-01 | EZ3kiel | Barb4ry |
-| 81 |  | 2003-02-03 | Asian Dub Foundation | Enemy Of The Enemy |
-| 93 |  | 2003-02-18 | Easy Star All-Stars | Dub Side Of The Moon |
-| 85 |  | 2003-05-13 | Ott | Blumenkraft |
-| 90 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cb2341e8ade34fe0a1b3b659b34ec5e8.png) | 2004-09-07 | Bedouin Soundclash | Sounding A Mosaic |
-| 66 |  | 2005-01 | Groundation | Dub Wars |
-| 98 |  | 2005-05 | Fat Freddy&#39;s Drop | Based on a True Story |
-| 80 |  | 2005-05-31 | The Dead 60s | The Dead 60s |
-| 61 |  | 2005-10-09 | 10 Ft. Ganja Plant | Bass Chalice |
-| 53 |  | 2006-08-07 | Boozoo Bajou | Juke Joint II |
-| 92 |  | 2008-01-25 | Ott | Skylon |
-| 76 | ![Cover](https://i.discogs.com/0KAXeHRlvBqLbghzWTJN_LBO-MrEO91teiMnU9e285E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjMx/NjItMTMwMjY3NDg4/NS5qcGVn.jpeg) | 2008-02-04 | Ikonika | Please &#x2F; Simulacrum |
-| 84 |  | 2008-07-21 | Sun Araw | Beach Head |
-| 60 |  | 2008-11-15 | Forfun | Polisenso |
-| 64 |  | 2009-05-26 | Fat Freddy&#39;s Drop | Dr. Boondigga &amp; The Big Bw |
-| 74 |  | 2010-03 | Sun Araw | On Patrol |
-| 95 |  | 2010-05-20 | Flux Pavilion | Got 2 Know &#x2F; Normalize |
-| 82 |  | 2011-02-08 | Peaking Lights | 936 |
-| 78 |  | 2011-03-15 | Ott | Mir |
-| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/82e1cde63b1e4ca0b33e1c1df2566f6c.png) | 2011-04-27 | Forfun | Alegria Compartilhada |
-| 68 |  | 2011-05-23 | Andy Stott | Passed Me By |
-| 75 |  | 2011-06-06 | Hollie Cook | Hollie Cook |
-| 59 |  | 2011-10-24 | Andy Stott | We Stay Together |
-| 100 |  | 2011-11-07 | King Krule | King Krule |
-| 99 |  | 2012-04-21 | Santigold | Master of My Make-Believe |
-| 52 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/df817caf86c8f8ad7218565efae2c9f1.png) | 2012-11-07 | Fishmans | 98.12.28 男達の別れ (Live) |
-| 65 |  | 2012-11-28 | OVERWERK | After Hours |
-| 77 |  | 2013-06-24 | Fat Freddy&#39;s Drop | Blackbird |
-| 83 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/8975d1b1a9b1a8043971c004b505ae4a.png) | 2014 | O Rappa | Nunca Tem Fim (Standard) |
-| 88 |  | 2014-11-03 | Dean Blunt | Black Metal |
-| 87 | ![Cover](https://i.discogs.com/Mp-UZMT11bawZBHxFwGUmsLgVPaVR4NrKmGMdHfGwB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk4/NTMtMTI5NTQ0ODkz/Mi5qcGVn.jpeg) | 2018-06-29 | Gorillaz | Laika Come Home |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>1976</td>
+      <td>The Upsetters</td>
+      <td>Super Ape</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/rrCdPXAnzVTDB13QNqs7n6IjANX3h8bhmliUqznsSPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODk1/NjUtMTI0MzQzOTE4/OC5qcGVn.jpeg" alt="Cover for King Tubbys Meets Rockers Uptown" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Augustus Pablo</td>
+      <td>King Tubbys Meets Rockers Uptown</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>1976</td>
+      <td>King Tubby</td>
+      <td>King Tubbys Meets Rockers Uptown</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>1979</td>
+      <td>Augustus Pablo</td>
+      <td>Original Rockers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/BVuRGPv69x0f5U9ljR2mGw1j5PPg1jORDPoKQu6vd2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQz/MTItMTIwMTE4MTM0/Mi5qcGVn.jpeg" alt="Cover for London Calling (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>The Clash</td>
+      <td>London Calling (Remastered)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 76</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/6XYmF3Zlx1w1x5mW1CbKTfWfD6exEYaQEE_mTh6YtaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTUw/NzY1LTE1MDkyOTg0/ODAtNDcwNS5qcGVn.jpeg" alt="Cover for Sandinista! CD 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>The Clash</td>
+      <td>Sandinista! CD 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7bc9aa85c89152a54bffb564995f890.png" alt="Cover for Sandinista!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980-12-12</td>
+      <td>The Clash</td>
+      <td>Sandinista!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td>1981</td>
+      <td>Augustus Pablo</td>
+      <td>East of the River Nile</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/6c2XIaI63v423W56-SvuKY-qUDM-m_sIQ9tkN9wsj48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODI4/LTE2NDM5ODk4NDQt/Njk5NC5qcGVn.jpeg" alt="Cover for Scientist Rids the World of the Evil Curse of the Vampires" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981</td>
+      <td>Scientist</td>
+      <td>Scientist Rids the World of the Evil Curse of the Vampires</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td>1984</td>
+      <td>Ini Kamoze</td>
+      <td>Ini Kamoze</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 13</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>1986</td>
+      <td>Izrael</td>
+      <td>Nabij Faje</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/ld_-nf5tPhLF1fhj15K704RY6VjCWDB2dxHK4ay1ch0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTM3/MS0xNDIxODUxODYz/LTg2NjguanBlZw.jpeg" alt="Cover for Africa Must Be Free By 1983" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Hugh Mundell</td>
+      <td>Africa Must Be Free By 1983</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/87Fq1R1mjKtGE95Xu7wxUDk1mJE8zlRPfHf0lQuWWTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTk2/MjItMTIwNzYxMDE5/MS5qcGVn.jpeg" alt="Cover for Rids The World of The Evil Curse of The Vampires" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Scientist</td>
+      <td>Rids The World of The Evil Curse of The Vampires</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/fwez2VnF-GBBw732GU4M7h1DO3rTkm2xHgGtCZo6OME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzI4/MC0xMTg3Mjk2Nzkw/LmpwZWc.jpeg" alt="Cover for Stoned Immaculate" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992-02-07</td>
+      <td>Dub Syndicate</td>
+      <td>Stoned Immaculate</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/0UoXSCNep-ivsRNgyKyqv9arL2eOnjQg1jKmmJ7hU8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODMy/NzYtMTE5MDc4MTEz/NC5qcGVn.jpeg" alt="Cover for 空中キャンプ" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Fishmans</td>
+      <td>空中キャンプ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/qMQXtwVWomk-6i-SV34VLJvmCvqvBm-osKQ9SdF9zeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDAz/LTAwMS5qcGc.jpeg" alt="Cover for King Tubby Meets Rockers Uptown" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Augustus Pablo</td>
+      <td>King Tubby Meets Rockers Uptown</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/qMQXtwVWomk-6i-SV34VLJvmCvqvBm-osKQ9SdF9zeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDAz/LTAwMS5qcGc.jpeg" alt="Cover for King Tubby Meets Rockers Uptow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Augustus Pablo</td>
+      <td>King Tubby Meets Rockers Uptow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+      </td>
+      <td>1994-02-08</td>
+      <td>Sublime</td>
+      <td>Robbin&#39; The Hood</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td>1995-02-17</td>
+      <td>Massive Attack vs. Mad Professor</td>
+      <td>No Protection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>1995-02-17</td>
+      <td>Massive Attack</td>
+      <td>No Protection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/EUjGOVw1rs_l-ByDbPK7YTp2aibaajEWFDLEsDM8aKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTMy/LTE2Mzg0ODM4NTUt/NjM3Ni5qcGVn.jpeg" alt="Cover for Second Light" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-05-29</td>
+      <td>Dreadzone</td>
+      <td>Second Light</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/NVW63tVMgop9cJG-w0Ir8OjmWDalBcxeiMZNUM9TgTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzU1/Mi0xNTgwMDQ2MDAw/LTI5MzYuanBlZw.jpeg" alt="Cover for Orginal Rockers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-08-15</td>
+      <td>Augustus Pablo</td>
+      <td>Orginal Rockers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/5-hhhDM3KGP55gHYysHWSq3VQLk061NCChLBmYIrFgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTk0/LTE1MDY5MzYyNDAt/NTM1OS5qcGVn.jpeg" alt="Cover for Mish Mash" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Rockers Hi-Fi</td>
+      <td>Mish Mash</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/VK7IPJ6mOJ-SAnMhOlaoJ2nFAmalSxNtVYswo9K0T0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODMy/ODctMTU0MTM0NDA1/My04MTczLmpwZWc.jpeg" alt="Cover for Long Season" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-10-25</td>
+      <td>Fishmans</td>
+      <td>Long Season</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 21</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 42</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/faPoVGzwS5PUajT0YSFX0NY4hrr1kwZ-mHv4KYn48wY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzA1/LTEzNzc4Njg5NTMt/NzU0MS5qcGVn.jpeg" alt="Cover for Remember Me" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997-01-20</td>
+      <td>Blue Boy</td>
+      <td>Remember Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>1997-09-05</td>
+      <td>Tosca</td>
+      <td>Fuck Dub</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Zenzile</td>
+      <td>Dub Promozione</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+      </td>
+      <td>1998-10-05</td>
+      <td>Dub Pistols</td>
+      <td>Point Blank</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/UXkGWbuTzUXWzMuQe0-ccXwgkNeRQ-x5mBlM6EXEU5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjA0/MS0xMTI4MzQ0NDQ4/LmpwZWc.jpeg" alt="Cover for Triplezéro" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Le Peuple de l&#39;Herbe</td>
+      <td>Triplezéro</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/UXkGWbuTzUXWzMuQe0-ccXwgkNeRQ-x5mBlM6EXEU5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjA0/MS0xMTI4MzQ0NDQ4/LmpwZWc.jpeg" alt="Cover for Triple Zero" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Le Peuple de l&#39;Herbe</td>
+      <td>Triple Zero</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>10 Ft. Ganja Plant</td>
+      <td>Presents</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 48</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 87</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/2c6bgRz88kGS8T8DnbgaGRDM4wpYk6zLFtD77mJ5MIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDcy/LTE0MzUxMzA1NjIt/NTc1NS5qcGVn.jpeg" alt="Cover for Time Freeze The Best Of" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Asian Dub Foundation</td>
+      <td>Time Freeze The Best Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Pole</td>
+      <td>3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>2000-03-08</td>
+      <td>Asian Dub Foundation</td>
+      <td>Community Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td>2000-05</td>
+      <td>High Tone</td>
+      <td>Opus Incertum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Dub Pistols</td>
+      <td>Six Million Ways to Live</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td>2001-06</td>
+      <td>Boozoo Bajou</td>
+      <td>Satta</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 9</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 61</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+      </td>
+      <td>2001-10-01</td>
+      <td>Rhythm &amp; Sound</td>
+      <td>Rhythm &amp; Sound</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td>2001-10-15</td>
+      <td>High Tone</td>
+      <td>Bass Temperature</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td>2002-04-22</td>
+      <td>High Tone</td>
+      <td>Acid Dub Nucleik</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+      </td>
+      <td>2002-07-08</td>
+      <td>Roots Manuva</td>
+      <td>Dub Come Save Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2002-10-29</td>
+      <td>Hallucinogen</td>
+      <td>In Dub</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2002-11-26</td>
+      <td>Bad Brains</td>
+      <td>I &amp; I survived (dub)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>2003-01</td>
+      <td>EZ3kiel</td>
+      <td>Barb4ry</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2003-02-03</td>
+      <td>Asian Dub Foundation</td>
+      <td>Enemy Of The Enemy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 19</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td>2003-02-18</td>
+      <td>Easy Star All-Stars</td>
+      <td>Dub Side Of The Moon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>2003-05-13</td>
+      <td>Ott</td>
+      <td>Blumenkraft</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td>2003-09-29</td>
+      <td>Rhythm &amp; Sound</td>
+      <td>w&#x2F; the Artists</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb2341e8ade34fe0a1b3b659b34ec5e8.png" alt="Cover for Sounding A Mosaic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-09-07</td>
+      <td>Bedouin Soundclash</td>
+      <td>Sounding A Mosaic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/l2iZTe4XZzBhJzqwj2MStOrOMMKwqdc6h7kNZevwkOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDMz/My0xMTQ0MDgyMjQ3/LmpwZWc.jpeg" alt="Cover for Ep Volume" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-10-18</td>
+      <td>KORA</td>
+      <td>Ep Volume</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td>2005-01-17</td>
+      <td>Rhythm &amp; Sound</td>
+      <td>See Mi Yah</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>2005-01</td>
+      <td>Groundation</td>
+      <td>Dub Wars</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td>2005-02-16</td>
+      <td>Asian Dub Foundation</td>
+      <td>Tank</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>2005-05-31</td>
+      <td>The Dead 60s</td>
+      <td>The Dead 60s</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 56</li>
+            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>2005-05</td>
+      <td>Fat Freddy&#39;s Drop</td>
+      <td>Based on a True Story</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 30</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+      </td>
+      <td>2005-06-06</td>
+      <td>La Phaze</td>
+      <td>Fin de Cycle</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>2005-10-09</td>
+      <td>10 Ft. Ganja Plant</td>
+      <td>Bass Chalice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 23</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/oPqpjcIV2mPqZjH35S3F8pVuKq8dld0Vc-S1lGVST3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDg1/MDEtMTQ0NTg5NDE3/Ni02MDEwLmpwZWc.jpeg" alt="Cover for Rebelution" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-05-04</td>
+      <td>Rebelution</td>
+      <td>Rebelution</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td>2006-07-13</td>
+      <td>The Black Seeds</td>
+      <td>Into the Dojo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+      </td>
+      <td>2006-08-07</td>
+      <td>Boozoo Bajou</td>
+      <td>Juke Joint II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td>2006-08-22</td>
+      <td>Easy Star All-Stars</td>
+      <td>Radiodread</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Dub Pistols</td>
+      <td>Speakers and Tweeters</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td>2007-03-16</td>
+      <td>Pole</td>
+      <td>Steingarten</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td>2007-09-21</td>
+      <td>Chezidek</td>
+      <td>Inna Di Road</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>2008-01-25</td>
+      <td>Ott</td>
+      <td>Skylon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 80</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/0KAXeHRlvBqLbghzWTJN_LBO-MrEO91teiMnU9e285E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjMx/NjItMTMwMjY3NDg4/NS5qcGVn.jpeg" alt="Cover for Please &#x2F; Simulacrum" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-02-04</td>
+      <td>Ikonika</td>
+      <td>Please &#x2F; Simulacrum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td>2008-03-26</td>
+      <td>Asian Dub Foundation</td>
+      <td>Punkara</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td>2008-07-21</td>
+      <td>Sun Araw</td>
+      <td>Beach Head</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 19</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/vC0cp2YHzq8vHE7kTxV-p0KkU8tARj5dCHd6N8RNJBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQ2/NjMtMTIyNDU1NDA3/MS5wbmc.jpeg" alt="Cover for Radio Free DC" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-10-21</td>
+      <td>Fort Knox Five</td>
+      <td>Radio Free DC</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 19</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 33</li>
+            <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 41</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 56</li>
+            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 58</li>
+            <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 62</li>
+            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 64</li>
+            <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>2008-11-15</td>
+      <td>Forfun</td>
+      <td>Polisenso</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td>2008-12-23</td>
+      <td>Thievery Corporation</td>
+      <td>Radio Retaliation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/X80w_C6nDOaPSHCA87AC3WRWXGv6NVZPIheJehvVKuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjYx/ODQtMTMwNjM0MzM2/NC5qcGVn.jpeg" alt="Cover for Santigold" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Santigold</td>
+      <td>Santigold</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Dub Fx</td>
+      <td>Everythinks a Ripple</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 69.86301369863014 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 69.86301369863014 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>2009-05-26</td>
+      <td>Fat Freddy&#39;s Drop</td>
+      <td>Dr. Boondigga &amp; The Big Bw</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots" | relative_url }}">roots</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>2010-03</td>
+      <td>Sun Araw</td>
+      <td>On Patrol</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2010-05-20</td>
+      <td>Flux Pavilion</td>
+      <td>Got 2 Know &#x2F; Normalize</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/JLKQL6OFQSbfs8C_sHIAPM9Kbb2hbouhojXmDrk8wBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTk1/NDctMTI5MjUwODAy/Ny5qcGVn.jpeg" alt="Cover for Dagger Paths" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-07-00</td>
+      <td>Forest Swords</td>
+      <td>Dagger Paths</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>2011-02-08</td>
+      <td>Peaking Lights</td>
+      <td>936</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+      </td>
+      <td>2011-03-15</td>
+      <td>Ott</td>
+      <td>Mir</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82e1cde63b1e4ca0b33e1c1df2566f6c.png" alt="Cover for Alegria Compartilhada" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-04-27</td>
+      <td>Forfun</td>
+      <td>Alegria Compartilhada</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td>2011-05-23</td>
+      <td>Andy Stott</td>
+      <td>Passed Me By</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 4</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td>2011-06-06</td>
+      <td>Hollie Cook</td>
+      <td>Hollie Cook</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2011-10-24</td>
+      <td>Andy Stott</td>
+      <td>We Stay Together</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>2011-11-07</td>
+      <td>King Krule</td>
+      <td>King Krule</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 91</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>2012-03-19</td>
+      <td>Gentleman&#39;s Dub Club</td>
+      <td>Open Your Eyes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 90</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2012-04-21</td>
+      <td>Santigold</td>
+      <td>Master of My Make-Believe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 9</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df817caf86c8f8ad7218565efae2c9f1.png" alt="Cover for 98.12.28 男達の別れ (Live)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-11-07</td>
+      <td>Fishmans</td>
+      <td>98.12.28 男達の別れ (Live)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td>2012-11-28</td>
+      <td>OVERWERK</td>
+      <td>After Hours</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td>2013-04-08</td>
+      <td>Karol Conka</td>
+      <td>Batuk Freak</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2013-06-24</td>
+      <td>Fat Freddy&#39;s Drop</td>
+      <td>Blackbird</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8975d1b1a9b1a8043971c004b505ae4a.png" alt="Cover for Nunca Tem Fim (Standard)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>O Rappa</td>
+      <td>Nunca Tem Fim (Standard)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 2</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+      </td>
+      <td>2014-05-12</td>
+      <td>Hollie Cook</td>
+      <td>Twice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td>2014-06-10</td>
+      <td>Rebelution</td>
+      <td>Count Me In</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>2014-11-03</td>
+      <td>Dean Blunt</td>
+      <td>Black Metal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 60</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 62</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/zfnjtaP5PLOdfe23liWwRnBxQsGt3Twcf2kfbCQN04A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTc2/MDItMTQ2NTIzNTM2/OS05OTkxLmpwZWc.jpeg" alt="Cover for Falling Into Place" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-06-03</td>
+      <td>Rebelution</td>
+      <td>Falling Into Place</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/7EBWMQ9Ofa3HOgL572QWLEU-9OOKTvUhZOYCb80BHYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODIy/MzItMTU4NTUxNjM2/NC0xMzMyLmpwZWc.jpeg" alt="Cover for Mantra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-10-21</td>
+      <td>Jean du Voyage</td>
+      <td>Mantra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 94</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/Mp-UZMT11bawZBHxFwGUmsLgVPaVR4NrKmGMdHfGwB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTk4/NTMtMTI5NTQ0ODkz/Mi5qcGVn.jpeg" alt="Cover for Laika Come Home" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-06-29</td>
+      <td>Gorillaz</td>
+      <td>Laika Come Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/L6f3iBofNcMWBVuq-YTVz70IAD8z0rMyeiNHyyZIs_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MDI1LTE2NjYzNTMx/NzctMjMzNS5qcGVn.jpeg" alt="Cover for Jardineiros" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-10-21</td>
+      <td>Planet Hemp</td>
+      <td>Jardineiros</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Lee &quot;Scratch&quot; Perry &amp; The Upsetters</td>
+      <td>Super Ape</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Space Monkeyz vs. Gorillaz</td>
+      <td>Laika Come Home</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
