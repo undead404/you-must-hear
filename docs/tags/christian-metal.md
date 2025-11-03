@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T06:07:44.978Z
+date: 2025-11-03T11:59:50.973Z
 permalink: tags/christian-metal
 title: christian metal
 ---
 
 ## christian metal
 
-Last updated: <time datetime="2025-11-02T06:07:44.978Z">Sun Nov 02 2025 08:07:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T11:59:50.973Z">Mon Nov 03 2025 13:59:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,12 +44,12 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 48</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e03bf787e1ad3d0eeba29e53734e5e32.png" alt="Cover for Rock For The King" style="max-width:120px; height:auto;" />
       </td>
@@ -82,7 +82,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 59</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -102,7 +102,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 18</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -144,7 +144,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>1990</td>
@@ -162,7 +162,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>1990</td>
@@ -179,7 +179,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/zYD6N_ERu6zlNUcOprteYSzE2TM3ay69tGgWsSNHRV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Njk5/MC0xNDczMzMyNjIw/LTIwNTEuanBlZw.jpeg" alt="Cover for Weapons Of Our Warfare" style="max-width:120px; height:auto;" />
       </td>
@@ -197,7 +197,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/b5PQsJRSfBOHFaE-8G0Ei623MYclwhLSmpmAoIyux6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjE5/MC0xMTcwMzYxNDE0/LmpwZWc.jpeg" alt="Cover for Mortification" style="max-width:120px; height:auto;" />
       </td>
@@ -216,7 +216,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>1991-07-16</td>
@@ -233,7 +233,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>1993</td>
@@ -289,7 +289,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/WNTg3BnljF_L33EdZHThFrHHcmHBxfCUr8sqArCoPto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODM5/MTQtMTYxOTY0MjQy/Mi02MTU5LmpwZWc.jpeg" alt="Cover for Street Corner Queen" style="max-width:120px; height:auto;" />
       </td>
@@ -345,7 +345,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2001</td>
@@ -385,7 +385,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/dUfGy6rVZGFNtbqP91p7FkIt3mtiVfydwEuVZZh-B3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODYw/NTAtMTYyMzU4ODc4/Mi02NjA5LmpwZWc.jpeg" alt="Cover for Purification" style="max-width:120px; height:auto;" />
       </td>
@@ -460,7 +460,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/dCNHrWRZ1smg4Q8MmuYWqd7FXTuBTF_YhD4DnfNxRfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTE0/NTMtMTMwMTI3Njc5/Mi5qcGVn.jpeg" alt="Cover for Songs for the Living" style="max-width:120px; height:auto;" />
       </td>
@@ -537,7 +537,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/MMJq4RU35sDyeZrk4b2Lk-vl2gfuuW16K-QNGJlUPPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIx/MTUtMTY1MDk3Mzkw/NS03NDk5LmpwZWc.jpeg" alt="Cover for Nodes Of Ranvier" style="max-width:120px; height:auto;" />
       </td>
@@ -612,7 +612,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/ZWAWhlh7jUCOFPUqoo1oXuJkxRTizKNgnb3uoVCEDtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTUy/NjQtMTU1ODQ4MTk0/Ny00Mzc3LmpwZWc.jpeg" alt="Cover for Burning Bridges" style="max-width:120px; height:auto;" />
       </td>
@@ -648,7 +648,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2004-05-18</td>
@@ -721,7 +721,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/06da_BKQED1uyyXSnfH226RSkNXHl4AS_u5aU-WVIeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODA3/MzItMTQxMzA2Nzk4/My0zNTU3LmpwZWc.jpeg" alt="Cover for In Our Weakness" style="max-width:120px; height:auto;" />
       </td>
@@ -756,13 +756,13 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 16</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 17</li>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/jL3WqIEp956p1EDb_BRVGhTJnuOVxHJtsuzj0d7C9xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjY3/Ny0xNTk2ODEyMzY5/LTYwNjQuanBlZw.jpeg" alt="Cover for Once Upon a Time in the North" style="max-width:120px; height:auto;" />
       </td>
@@ -784,7 +784,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2005-09-13</td>
@@ -838,7 +838,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/sdnMXtFaDL8Re38BCTbPbxDYtUtA0BB82jWGHm9j4P8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDQy/MjctMTQ0Mzc1Mjk2/MS04OTcyLmpwZWc.jpeg" alt="Cover for Angels and Shadows" style="max-width:120px; height:auto;" />
       </td>
@@ -1024,7 +1024,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/ildY75NTw6FKHtjMEKr3ISEseNMvHtssjTUVZ3CmxMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODYx/MzgtMTUyMDk3MjAw/My05NTE5LmpwZWc.jpeg" alt="Cover for Serpent Temptation (Reissue)" style="max-width:120px; height:auto;" />
       </td>
@@ -1098,7 +1098,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 79</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1162,7 +1162,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2008-11-21</td>
@@ -1276,7 +1276,25 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a579a69328afe77d8d064d583d03904d.png" alt="Cover for Awake" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-08-21</td>
+      <td>Skillet</td>
+      <td>Awake</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
       <td>
       </td>
       <td>2010</td>
@@ -1286,27 +1304,6 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0004af0a312e4ccdcc740646940a07cc.png" alt="Cover for Horizonte Vivo Distante" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>Rosa de Saron</td>
-      <td>Horizonte Vivo Distante</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
         </ul>
       </td>
       <td>
@@ -1335,7 +1332,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/fR5o8-djn3JZS8lfu5R-rhMkZThulPTlB3n2kq8krUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTUx/MDItMTM1NzEzNDY2/Ny0zNjIxLmpwZWc.jpeg" alt="Cover for Frozen Storm Apocalypse" style="max-width:120px; height:auto;" />
       </td>
@@ -1418,7 +1415,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2011-03-29</td>
@@ -1531,12 +1528,12 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 3</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/Qi-RIzTP57bC8Cpj-PD0S2rGlAaUvzxpDZQF_YWvBDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTk2/NzMtMTM3MzMxNzA2/OC03MTE4LmpwZWc.jpeg" alt="Cover for Warbound" style="max-width:120px; height:auto;" />
       </td>
@@ -1576,7 +1573,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2013-07-09</td>
@@ -1595,7 +1592,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/BaV1CXgugOmnMHIA4fKIHVcO2SR-pda7JTnfOctQcyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTUx/NzMzLTE1MjkzNDQx/NTctNDkxMS5qcGVn.jpeg" alt="Cover for Factions" style="max-width:120px; height:auto;" />
       </td>
@@ -1785,7 +1782,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/gi-O2D6NPUOZczz6DNGWyIVuXb5hA2eIKsBrq2WlJO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg2/MDgwLTE1MTM0NDYw/MDUtNTAyMy5qcGVn.jpeg" alt="Cover for Dead in the Shadow" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,7 +1802,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/csqjYUCPGbZq6tu5mQlP8Tp0BK-VhwNWLU9EGs1rqFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUw/Mjg0LTE1MDM2MzQ3/NjktNDkyMi5qcGVn.jpeg" alt="Cover for Eternal Harvest" style="max-width:120px; height:auto;" />
       </td>
@@ -1886,7 +1883,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/ZMFS18u08IMyLlgRbzUfnLBxB6lK6-hj5advQkLXiJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc5/Njg0LTE1MTcwNzM0/MjMtNDk3OS5qcGVn.jpeg" alt="Cover for I Am" style="max-width:120px; height:auto;" />
       </td>
@@ -1937,7 +1934,7 @@ Christian metal combines the aggressive instrumentation and intensity of heavy m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 77</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 79</li>
         </ul>
       </td>
     </tr>

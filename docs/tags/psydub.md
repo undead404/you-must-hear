@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T06:04:37.265Z
+date: 2025-11-03T11:27:51.000Z
 permalink: tags/psydub
 title: psydub
 ---
 
 ## psydub
 
-Last updated: <time datetime="2025-11-02T06:04:37.265Z">Sun Nov 02 2025 08:04:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T11:27:51.000Z">Mon Nov 03 2025 13:27:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -221,6 +221,24 @@ Last updated: <time datetime="2025-11-02T06:04:37.265Z">Sun Nov 02 2025 08:04:37
         <ul>
             <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 75</li>
             <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>1997-11</td>
+      <td>Various Artists</td>
+      <td>I In The Sky EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -2007,26 +2025,6 @@ Last updated: <time datetime="2025-11-02T06:04:37.265Z">Sun Nov 02 2025 08:04:37
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Idiosyncrasy.MC</td>
-      <td>Unfinished Progress Release</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a></li>
         </ul>
       </td>

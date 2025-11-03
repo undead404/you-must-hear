@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:06:57.406Z
+date: 2025-11-03T11:54:50.985Z
 permalink: tags/j-metal
 title: j-metal
 ---
 
 ## j-metal
 
-Last updated: <time datetime="2025-10-28T15:06:57.406Z">Tue Oct 28 2025 17:06:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T11:54:50.985Z">Mon Nov 03 2025 13:54:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
   </thead>
   <tbody>
     <tr>
-      <td>89</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0820669ea8630f173f29a39ef68daa4f.png" alt="Cover for THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES" style="max-width:120px; height:auto;" />
       </td>
@@ -66,26 +66,6 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19c7d07a2f2fbe14e9fd8cbb5a9d0b3d.png" alt="Cover for Warning from Stardust" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1982</td>
-      <td>Bow Wow</td>
-      <td>Warning from Stardust</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>46</td>
       <td>
       </td>
@@ -109,7 +89,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd237cbb4ef261b908ef6d94a9a03522.png" alt="Cover for EARTHSHAKER" style="max-width:120px; height:auto;" />
       </td>
@@ -127,7 +107,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/74d32412e0341f80675f00275a656918.png" alt="Cover for FREE WORLD" style="max-width:120px; height:auto;" />
       </td>
@@ -213,9 +193,6 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a></li>
         </ul>
       </td>
       <td>
@@ -297,7 +274,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/wN_fVlGgAMnyNiQbbftDce1tzqDtIfITIlsoKp8oa00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzA1/NzQtMTMxMjQ4Mzc2/MC5qcGVn.jpeg" alt="Cover for Black Rebel Storm" style="max-width:120px; height:auto;" />
       </td>
@@ -367,7 +344,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/8WP2522-kF1ot5paF6mh0bvxHFXeWjq91Lde94U13no/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Mzk0/MzgtMTM5MzM4ODMy/My0xNTkzLmpwZWc.jpeg" alt="Cover for Another Dimension" style="max-width:120px; height:auto;" />
       </td>
@@ -390,7 +367,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/7zE7lmfvLD_JNfAtGKy6aWGIyjFAs67oWr_iih_Qjo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI5/NTYxLTE2MTk3OTY2/ODQtMTE0NC5qcGVn.jpeg" alt="Cover for It all begins here" style="max-width:120px; height:auto;" />
       </td>
@@ -455,7 +432,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bd9a9e7bf124871a233637e1f526084.png" alt="Cover for Metal Fighter Squadron" style="max-width:120px; height:auto;" />
       </td>
@@ -477,7 +454,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>1998-04-04</td>
@@ -632,7 +609,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/tALuzLUQAzdMAWbv5I4_6S_WVQeetjs0iE7GlwY2zdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzk2/Mi0xNDc2MzgwNzky/LTYxMTUuanBlZw.jpeg" alt="Cover for FREYA" style="max-width:120px; height:auto;" />
       </td>
@@ -655,7 +632,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/fK1tqjuy2HvlzfDNlppOOZn88AjcKdHR-elXgVwnqq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQy/MTU3LTE0OTk1NDg4/NjctNTY3My5qcGVn.jpeg" alt="Cover for SPLASH!!!~遙かなる自主制作BEST~" style="max-width:120px; height:auto;" />
       </td>
@@ -821,7 +798,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/7U6POZEqxe-Wth-S5sLbgcnWC2hiUPrg2sAarR2dj4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzg1/NjEtMTM1MTIwNzE4/OC0zODQzLnBuZw.jpeg" alt="Cover for underneath the skin" style="max-width:120px; height:auto;" />
       </td>
@@ -839,7 +816,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83e9e21edc8125fb8567487bef73ad93.png" alt="Cover for Talon of King" style="max-width:120px; height:auto;" />
       </td>
@@ -919,7 +896,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/80XidOTvU4zn15Q8enTbOwvcG9nUSHkQBoRB8LlrHoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODE1/MDMtMTM0NzkyMDQ5/Ny03NjQ2LmpwZWc.jpeg" alt="Cover for Wild Racing" style="max-width:120px; height:auto;" />
       </td>
@@ -1011,7 +988,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>94</td>
       <td>
       </td>
       <td>2008-03-26</td>
@@ -1068,7 +1045,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/KXoBzQaPxIOiowZd05Q7UPTHO3jbV5sNrrjnkHfOcZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDI1/MDU4LTE1MTYxMDM0/MTUtOTc3MS5qcGVn.jpeg" alt="Cover for Orion once again" style="max-width:120px; height:auto;" />
       </td>
@@ -1103,7 +1080,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/sL2L49e-imI9yxnlceIQOnLpQspfdZ2ecpnQwmsZzuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA5/NTM5LTE1Mzg1MzAz/NDctNDg4My5qcGVn.jpeg" alt="Cover for Makai Yūgi ~for the movie~" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,7 +1098,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>95</td>
       <td>
       </td>
       <td>2008-09-10</td>
@@ -1146,7 +1123,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/X1Dvdy0Clfr3VzQISTdd_QPg_6EpIkF8mYt3WHlAobw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDI1/MDAxLTE1MTYxMDIy/NTktNTg4OS5qcGVn.jpeg" alt="Cover for Visvasrit" style="max-width:120px; height:auto;" />
       </td>
@@ -1203,7 +1180,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec6078a5cd184c6db4be5b1964afc5b8.png" alt="Cover for REDEEMER" style="max-width:120px; height:auto;" />
       </td>
@@ -1322,6 +1299,24 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2011</td>
+      <td>XodiacK</td>
+      <td>【DaN】</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>35</td>
       <td>
       </td>
@@ -1339,7 +1334,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2012-09-12</td>
@@ -1422,8 +1417,8 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
             <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 15</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 31</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 32</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 34</li>
             <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 38</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 40</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 46</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 52</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 64</li>
@@ -1529,7 +1524,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79d1dac603633cae0dd85e232f181ec7.png" alt="Cover for Resonance" style="max-width:120px; height:auto;" />
       </td>
@@ -1568,7 +1563,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2015-03-18</td>
@@ -1782,7 +1777,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/UaDNdfJTAC_--0RTRlZQ02snL4NgJ-OW68yB5H8_11U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDEw/MjcxLTE2NDM3MDg3/NjctNjE2Mi5qcGVn.jpeg" alt="Cover for Don&#39;t hide your face" style="max-width:120px; height:auto;" />
       </td>
@@ -1910,7 +1905,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/0IJKslCLOnqJ-U4lLnUJxYbR2FCMUI33Ea5wCvyvd4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI1/NTY5LTE2MDE2OTQy/NTUtODE5MC5qcGVn.jpeg" alt="Cover for SIX PACK TWINS" style="max-width:120px; height:auto;" />
       </td>
@@ -1937,7 +1932,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
       </td>
       <td>2018-10-24</td>
@@ -2029,7 +2024,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/txA59XSQo57DaK97gZfIyUln5IfTVHhgJW4vCGkzVg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTY4/MzQ4LTE2NzY5MTE4/MjItMzQ3NS5qcGVn.jpeg" alt="Cover for 宙吊り少女 (Chuuzuri Shoujo) [【つがい盤 (Tsugai Ban)】]" style="max-width:120px; height:auto;" />
       </td>
@@ -2111,7 +2106,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -2152,7 +2147,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td></td>
