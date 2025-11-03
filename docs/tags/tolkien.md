@@ -9,6 +9,10 @@ title: tolkien
 
 Last updated: <time datetime="2025-10-30T03:07:39.596Z">Thu Oct 30 2025 05:07:39 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Music inspired by J.R.R. Tolkien&#39;s Middle-earth legendarium, encompassing epic orchestral film scores, symphonic metal, and atmospheric folk that evoke fantasy realms. The sound ranges from sweeping cinematic arrangements to Celtic-influenced melodies and power metal anthems celebrating elves, dwarves, and heroic quests. This tag unites diverse styles through shared themes of mythology, adventure, and the rich linguistic and cultural tapestry of Tolkien&#39;s fictional world.
+
 ### 100 chronological releases
 
 <table>
@@ -221,7 +225,7 @@ Last updated: <time datetime="2025-10-30T03:07:39.596Z">Thu Oct 30 2025 05:07:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 51</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -677,7 +681,7 @@ Last updated: <time datetime="2025-10-30T03:07:39.596Z">Thu Oct 30 2025 05:07:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 21</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -936,7 +940,7 @@ Last updated: <time datetime="2025-10-30T03:07:39.596Z">Thu Oct 30 2025 05:07:39
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 2</li>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 22</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1108,7 +1112,7 @@ Last updated: <time datetime="2025-10-30T03:07:39.596Z">Thu Oct 30 2025 05:07:39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 43</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 44</li>
         </ul>
       </td>
     </tr>

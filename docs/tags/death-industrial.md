@@ -9,110 +9,2139 @@ title: death industrial
 
 Last updated: <time datetime="2025-10-22T02:17:53.574Z">Wed Oct 22 2025 05:17:53 GMT+0300 (Eastern European Summer Time)</time>
 
+### Description
+
+Death industrial is an extreme subgenre of industrial music characterized by harsh noise, oppressive atmospheres, and themes of mortality, violence, and psychological darkness. The sound typically features distorted vocals, abrasive textures, and unsettling soundscapes that evoke existential dread and physical discomfort. Emerging from power electronics and noise scenes, it pushes boundaries through its confrontational and nihilistic approach to sonic expression.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 16 | ![Cover](https://i.discogs.com/BEOHWIeTvF1LfJ68nP_4CeKXF8lMdxARRojW339ckRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODg5/NTktMTIyNjQ0MDYz/My5qcGVn.jpeg) | 1982 | Sutcliffe Jügend | We Spit on Their Graves (tape 1) |
-| 19 | ![Cover](https://i.discogs.com/w2tGim6jGmMThE3ezxwlWhrWX3t8YiR3b1yINK8mZ3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE3/Ni0xNTM3MzYwMjM5/LTUwOTcuanBlZw.jpeg) | 1986 | Chazev | Katatonia |
-| 45 |  | 1987 | Ramleh | Hole in the Heart |
-| 60 | ![Cover](https://i.discogs.com/reeutfS7mDO4Sq0CGb7FpCKVylYW2XzTIfkjX6hJGh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODc2/LTEzNjA4NzEwODkt/ODg4Ny5qcGVn.jpeg) | 1988 | Laibach | Sketches of the Red Districts |
-| 68 | ![Cover](https://i.discogs.com/qX9iPJPXtoyp1ssNRhwcKiG7exJ9-ctKagYx2h5ZyI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk1/Mi0xMTU4NzY4OTY3/LmpwZWc.jpeg) | 1988-08 | Brighter Death Now | Pain In Progress |
-| 51 | ![Cover](https://i.discogs.com/nPIKOlc2E7Glh24KT2o7TthpTIkqUFcqw6B1-QGXNvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjM2/OC0xMzA1MzIwMzk3/LmpwZWc.jpeg) | 1989-12 | Genocide Organ | Leichenlinie |
-| 49 |  | 1989-12-13 | MZ.412 | Malfeitor |
-| 70 |  |  | Tuzera | Você Não É Especial |
-| 10 | ![Cover](https://i.discogs.com/cg4pZ-RExyjVGNP-A-fv7ivNw9z3dhftd_26x8xsOr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDMy/Ni0xNjMyNzcwNDMy/LTUyODIuanBlZw.jpeg) | 1990 | Brighter Death Now | Great Death II |
-| 6 | ![Cover](https://i.discogs.com/cg4pZ-RExyjVGNP-A-fv7ivNw9z3dhftd_26x8xsOr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDMy/Ni0xNjMyNzcwNDMy/LTUyODIuanBlZw.jpeg) | 1990-11 | Brighter Death Now | Great death I |
-| 61 |  | 1991 | Archon Satani | Memento Mori |
-| 62 |  | 1993 | Brighter Death Now | The Slaughterhouse |
-| 87 |  | 1995 | Brighter Death Now | Necrose Evangelicum |
-| 36 |  | 1995-04 | Inade | The Axxiarm Plains |
-| 76 |  | 1995-11 | Anenzephalia | Ephemeral Dawn |
-| 39 |  | 1995-11-23 | Brighter Death Now | Great Death III |
-| 11 |  | 1996 | Melek-Tha | Astrum Argentinum |
-| 23 |  | 1996 | Atrax Morgue | Cut My Throat |
-| 31 |  | 1996 | Atrax Morgue | Sickness Report |
-| 35 |  | 1996 | MZ.412 | Burning the Temple of God |
-| 27 | ![Cover](https://i.discogs.com/55yvTzMbgkl1Iz0D0xG_7ONDFdlspqdTM2d5RyDe7vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjI3/LTE1MTg3MzgxNjAt/NDc1Ny5qcGVn.jpeg) | 1996-07-02 | Brighter Death Now | Innerwar |
-| 17 |  | 1997-10 | Atrax Morgue | Slush of a Maniac |
-| 52 | ![Cover](https://i.discogs.com/NZvtsIzoo-vj6-0496WtzyYInT1HQZDxYu1riIWWFNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzIy/NzYtMTE5ODA5NzY4/NS5qcGVn.jpeg) | 1998 | Haus Arafna | Children of God |
-| 72 |  | 1998 | Vond | Green Eyed Demon |
-| 89 | ![Cover](https://i.discogs.com/vebIeSU_ef7nKc7neVJtBP7JQqzPsxlDLTSHs_VHkcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUz/NzUtMTE5NzQ5NjUw/Mi5qcGVn.jpeg) | 1998 | Brighter Death Now | May All Be Dead |
-| 14 | ![Cover](https://i.discogs.com/Raqv8Cu4HBDdKd5My8uFNiS1mel28S8jwrgMi03LAv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjg2/OC0xNTgxMjY2Njky/LTkzODkuanBlZw.jpeg) | 1998-05-25 | Calva Y Nada | Schlaf |
-| 28 | ![Cover](https://i.discogs.com/BbBnWx5n1qWy3aMhauTXfJnn7BWjjU2U42h3M_uPOQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzIx/LTEwODI0MDU0NjYu/anBn.jpeg) | 1999 | Folkstorm | Information Blitzkrieg |
-| 69 |  | 1999 | Genocide Organ | The Truth Will Make You Free |
-| 3 | ![Cover](https://i.discogs.com/_Fgo8wMjOolbbDY5Uwba28HenZXpAcmuFTxTowTJOLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjkx/LTE0MjAyMTQ3Njct/MTMxMS5qcGVn.jpeg) | 2000 | Folkstorm | Hurtmusic |
-| 32 | ![Cover](https://i.discogs.com/AFczDhSttbDrUVFGuvXsq7UrtZvWJaMGE39CzNsHOuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzUw/LTExODk1MjM1MTgu/anBlZw.jpeg) | 2000 | MZ.412 | Legion Ultra |
-| 50 | ![Cover](https://i.discogs.com/7J3RQhHMb81sCqHpFdNMEvaOG3zFDOtBG_k2HNT8HAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTE3/Mi0xMjc0Mjg5NTc2/LmpwZWc.jpeg) | 2000 | Folkstorm | Victory Or Death |
-| 4 |  | 2001-03 | Megaptera | Beyond the Massive Darkness |
-| 40 | ![Cover](https://i.discogs.com/Lt5rAHQWT0gN-a3JqNrP6eG_sw_Uakoa9z7QP-wybaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc2/NS0xNDQ4MjA4OTU3/LTU1NjYuanBlZw.jpeg) | 2001-07-20 | Anenzephalia | Anenzephalia |
-| 26 | ![Cover](https://i.discogs.com/itmuTxE0CEhXMcsq1gNGZBdma0iBcIUFkIUdLJIrQuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzMy/LTExODM0OTkxMjYu/anBlZw.jpeg) | 2001-10-23 | MZ.412 | Domine Rex Inferum |
-| 75 | ![Cover](https://i.discogs.com/EWXPedXLa05gZRAu_y-Ekv1iiHuFpKA0XLb8XL7ps1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTI3/Ni0xMTM5NTYxNjQ3/LmpwZWc.jpeg) | 2002 | Weena Morloch | Kadaverkomplex |
-| 37 |  | 2003 | Nicole 12 | Lolita Love |
-| 53 | ![Cover](https://i.discogs.com/PSFyM0H61rth4c8Z8yU3rr3sLBKjWVOfVS8Ph8t6VG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzkx/NC0xNTI1NDM1MzE4/LTgwMjkuanBlZw.jpeg) | 2003 | Anenzephalia | Noehaem |
-| 64 | ![Cover](https://i.discogs.com/J-tmi1IM2E5hKp802a3GqWxfDA5vPZADWkWwWDufFNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODQ3/Ny0xMTkyNjU1NjEy/LmpwZWc.jpeg) | 2003-03-01 | Genocide Organ | Genocide Organ |
-| 91 |  | 2003-06 | Deathpile | G.R. |
-| 18 | ![Cover](https://i.discogs.com/6cE85E-jGUGXJ6JNY8AxZznfPco_y5vNIhSk0WmbIKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTM4/My0xMTY3ODU4MzAw/LmpwZWc.jpeg) | 2004 | Prurient | Frozen Niagara Falls |
-| 58 | ![Cover](https://i.discogs.com/RwQezThSzBoaLWj9ULU95PT17KSdT0qEXMDyntu4bcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODMy/OS0xMzE0MTMxMjk1/LmpwZWc.jpeg) | 2004 | Nicole 12 | Substitute |
-| 67 | ![Cover](https://i.discogs.com/hbd-NaLelNGJsv4KB2KmLaTrlfPKI4PJ-OGINnQUEAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjcz/NC0xMTkyNTYwNzQ5/LmpwZWc.jpeg) | 2004 | Funerary Call | Beckoning At The Black |
-| 33 |  | 2004-04 | Folkstorm | Sweden |
-| 59 | ![Cover](https://i.discogs.com/dD_poTuiXOY7IJ5b_Ae-h3aK0e8XNFWWLh7DYqPB3hM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDU0/NC0xMzMwNTA3ODQ4/LmpwZWc.jpeg) | 2005-06 | Institut | The Struggle Never Ended |
-| 22 | ![Cover](https://i.discogs.com/lVSrB-p8R7QVml4FXd7vkQquPj7KYLDRGHWodGQ6GYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzUx/Ni0xMzY0NjIxMzYy/LTcxNTkuanBlZw.jpeg) | 2005-09 | Folkstorm | Folkmusik |
-| 83 |  | 2005-09-28 | Brighter Death Now | Kamikaze Kabaret |
-| 42 |  | 2006-04-16 | Rasthof Dachau | Prison Poems |
-| 34 | ![Cover](https://i.discogs.com/CvfBcPvpbRTUQ3HzZGmCoKietcxSY6tLI12GXjKzmO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTcx/MC0xMTQ4MzAzMTU3/LmpwZWc.jpeg) | 2006-05-01 | Navicon Torture Technologies | Pure Skin |
-| 44 | ![Cover](https://i.discogs.com/7f6sBI4_bHDJK7_0Kz0Qo2fAZcWx5JR-2mOF_yffTR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTAy/My0xMjEwNDU2MDA1/LmpwZWc.jpeg) | 2006-06-06 | MZ.412 | Infernal Affairs |
-| 9 |  | 2007 | IRM | The Cult Of The Young Men |
-| 54 |  | 2007 | Brighter Death Now | 1890 |
-| 30 |  | 2007-03-07 | Sutcliffe Jügend | This Is The Truth |
-| 47 |  | 2008-06-13 | STROM.ec | Divine Legions Beyond Psyche |
-| 95 |  | 2009 | Various Artists | Cars Original Soundtrack (English Version) |
-| 90 | ![Cover](https://i.discogs.com/Ckt4U4eu4WIXArFHkDVa0thd03MzXXges_isWQZQMQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzM3/NDktMTM2Njk2ODUw/OC01NjE2LmpwZWc.jpeg) | 2009-08 | Cold Cave | Cremations |
-| 1 | ![Cover](https://i.discogs.com/FnAXdR4-30xl9gjGxOoZHTg03z6LgPCB0O_7qOWBqFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTYy/MzAtMTI5ODI0MzQ0/NS5qcGVn.jpeg) | 2010 | Kekal | 8 |
-| 13 |  | 2010-02 | Funerary Call | Dark Waters Stirred |
-| 29 | ![Cover](https://i.discogs.com/UFGiKdmz363PxNXUkJpsc7xhbzNLnPNUi4p7vcFf10w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTM0/ODUtMTI3MjUxODQ2/MC5qcGVn.jpeg) | 2010-04-01 | Alter Der Ruine | This Is Why We Can&#39;t Have Nice Things |
-| 8 |  | 2010-10-15 | Forthcoming Fire | Set the World On Fire |
-| 21 | ![Cover](https://i.discogs.com/5zKJ4csqZxpUbqMEK8UJMeoR6qhjKfQEvwOI9IyKsAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMz/MTMtMTI4ODg2Mjc3/MS5qcGVn.jpeg) | 2010-12-01 | Haus Arafna | Blut |
-| 56 |  | 2011-09-12 | Brighter Death Now | Very Little Fun |
-| 63 | ![Cover](https://i.discogs.com/MviEhQq7WTmLkuvCgtNOLm7e5eebAwQvebASO9DRXRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzAz/NzMtMTMyNzcxNTg3/NC5qcGVn.jpeg) | 2012-02 | Sutekh Hexen | Larvae |
-| 12 | ![Cover](https://i.discogs.com/WTgBsHKX6X7rKe1NGrUNVL82aQHoQJ-xkrihe91eDKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzgw/MTYtMTMzMTk4NjMy/My5qcGVn.jpeg) | 2012-03-09 | Weena Morloch | Terror Über Alles - Das Weena Morloch-Manifest |
-| 38 |  | 2013-02-21 | Trepaneringsritualen | Judas Goat |
-| 79 |  | 2013-05-13 | Pharmakon | Abandon |
-| 46 |  | 2014-07-08 | Alter Der Ruine | I Will Remember It All Differently |
-| 84 |  | 2014-10-14 | Pharmakon | Bestial Burden |
-| 86 | ![Cover](https://i.discogs.com/uj4NJsRiGILumD9tXg6M3ukmGpAqB11Ou6fXVjV_tZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDIw/OTItMTQxMzg0NjU0/Mi05NDkzLmpwZWc.jpeg) | 2014-11 | Brighter Death Now | With Promises of Death |
-| 7 |  | 2014-11-03 | Coph Nia | A Prelude To Lashtal Lace |
-| 65 | ![Cover](https://i.discogs.com/ELZD_IxPBZYRJW4E-ZeybgakHWaH9iucOF4-Og6Lezc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDg0/NzktMTQyOTI4NjM5/Mi04NDE4LmpwZWc.jpeg) | 2015-03-28 | Karjalan Sissit | ...Want You Dead |
-| 73 | ![Cover](https://i.discogs.com/6UfJnLElmr6KEtQe0fNRe3-_ExLETfkMZN-wuKEUyL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mzk2/NTYtMTQyNzcxOTcy/OS0zNjY1LmpwZWc.jpeg) | 2015-03-30 | Damien Dubrovnik | Vegas Fountain |
-| 74 | ![Cover](https://i.discogs.com/ZskKuu6psdXhb9H-lMKVrE4SvZWXZlIWf2w_F2LJzm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTY4/OTMtMTQyOTQ1NTIw/MC0xNzczLmpwZWc.jpeg) | 2015-04-17 | Loke Rahbek | The Female Form |
-| 92 | ![Cover](https://i.discogs.com/SJA6_ikRPWBUNQy1d5XqMGOjC6eDEEGBzanVOtSaKRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDYz/NDEtMTQ3NTk1MjIw/OS02ODczLmpwZWc.jpeg) | 2016-03-25 | Puce Mary | The Spiral |
-| 55 | ![Cover](https://i.discogs.com/DvT8KNIYOgmvQfY5_w5wxgQ3o_-7X787pyYCUBw1RWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDEw/NjgwLTE1MDgxNzkx/NTYtNDExNS5qcGVn.jpeg) | 2016-11-18 | Lana Del Rabies | In the End I Am a Beast |
-| 48 | ![Cover](https://i.discogs.com/zLJXup142kHHMgkTUpFl2doo_M78PKvJlhrR249fPC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzYz/MTQtMTUzODg1Njky/My05ODU1LmpwZWc.jpeg) | 2017-01-04 | Trepaneringsritualen | Deathward, To The Womb |
-| 88 | ![Cover](https://i.discogs.com/klZNqsOYgdyvmH8EQPB04lM-hYYYu7ZQpLyQf4pIZmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQx/NDUzLTE0OTk1Mzgw/NDMtMzAwOC5qcGVn.jpeg) | 2017-02-14 | LINGUA IGNOTA | LET THE EVIL OF HIS OWN LIPS COVER HIM |
-| 97 | ![Cover](https://i.discogs.com/UAX-Sdc5yS7cgP2iSJaA0OdiWwHjEqIDhN-enq-jfEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjgz/NTc1LTE2Nzc3OTU5/MzgtMzU2MS5qcGVn.jpeg) | 2017-02-17 | Xiu Xiu | Ignore Grief |
-| 99 | ![Cover](https://i.discogs.com/0alQhFHeEUtzVSycTUh3IyQJYBBUIUqOV7xt9TcLltE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ3/NDg2LTE1NjY3ODM4/NjEtODgzNi5wbmc.jpeg) | 2017-03-30 | Xiu Xiu | Girl with Basket of Fruit |
-| 85 | ![Cover](https://i.discogs.com/Rkl9-s8rNetPqgwnEq4UeyTuonTxEtfp54A6_i-3wuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg3/OTk1LTE0OTg0NzUz/NDMtNzI4MC5qcGVn.jpeg) | 2017-06-30 | Damien Dubrovnik | Great Many Arrows |
-| 82 | ![Cover](https://i.discogs.com/n04hWYyfvpUBuf-LAe6YXGhYjoVb41226nnTzcOMDU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTM5/NDI3LTE1MDY4NjMy/MjctODI3NC5qcGVn.jpeg) | 2017-09-30 | Trepaneringsritualen | Kainskult |
-| 5 | ![Cover](https://i.discogs.com/sb9skgDw71j3SU8hkrB_5hIqdKtYDn-JvTLAs2ERmA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTkw/OTcxLTE1MDg0MjY0/MjAtOTYyNy5qcGVn.jpeg) | 2017-10 | The Grey Wolves | Exit Strategy |
-| 15 | ![Cover](https://i.discogs.com/sb9skgDw71j3SU8hkrB_5hIqdKtYDn-JvTLAs2ERmA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTkw/OTcxLTE1MDg0MjY0/MjAtOTYyNy5qcGVn.jpeg) | 2017-10 | The Grey Wolves | EXIT STRATEGY |
-| 98 | ![Cover](https://i.discogs.com/MmPG_B_HUw8Eyu54doX6LN_vjWim5hJqLaaGYX2Jz20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDg2/NzE1LTE1MTcxNzc1/NTktNTI2OC5qcGVn.jpeg) | 2017-10-27 | Cory Asbury | Reckless Love |
-| 80 | ![Cover](https://i.discogs.com/vAWerp8oNUxyzrCtgGM8GJ_2dG8lb0U-yOi3QPWKgN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE2/NzA2LTE1ODQ0ODc3/ODgtMTA3MC5qcGVn.jpeg) | 2018 | sewerslvt | Starving Slvts Always Get Their Fix |
-| 81 | ![Cover](https://i.discogs.com/XKt8bv1UM2utS75K526XV-9r0NJkzQqSMc0PYn2dPRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY1/NzIwLTE1ODg5MDY3/NDYtNTMyOC5qcGVn.jpeg) | 2018-03-23 | Lana Del Rabies | Shadow World |
-| 78 | ![Cover](https://i.discogs.com/KrHxosJWUG-NBYQiuQn79DKn8kmwsqNc3fgbCO_dYa8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njc4/MDIxLTE1Nzk0NTY0/MjAtNTQ1Ny5qcGVn.jpeg) | 2018-05-02 | Aja | AJA |
-| 24 | ![Cover](https://i.discogs.com/eUiQzetwlNGnV_N0PlXSjD05kDQJjjpDRvC-yElp7ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE3/MzM4LTE1MzYwOTM1/NTQtNDg5Ni5qcGVn.jpeg) | 2018-05-11 | The Body | I Have Fought Against It, But I Can&#39;t Any Longer. |
-| 100 | ![Cover](https://i.discogs.com/b-kxc9vK0WMLMdK0AlaGvKGuwg8n2dlAZqaYtIxn42o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA3/MTg0LTE1NTk0NDM5/MzctMTg1MC5qcGVn.jpeg) | 2019-02-14 | Uboa | The Origin of My Depression |
-| 77 | ![Cover](https://i.discogs.com/W-qbC7R8mxdgxdzGjB9co5o2Df6hkyUtBfKTJXElV9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDIz/MDgzLTE2MDc2NDc5/NjYtMzIyNC5qcGVn.jpeg) | 2019-02-26 | comforting | I&#39;m a Failure |
-| 57 | ![Cover](https://i.discogs.com/zlcSNpFDhQeTXbHFDv4hSgKC2iWuBOQ74HJi_G25cV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgw/MDQ4LTE1OTM5NjY1/NzktODE5MC5qcGVn.jpeg) | 2019-03-26 | goreshit | tower block knife crime |
-| 94 | ![Cover](https://i.discogs.com/tNsSfVJni-e2r5WkG5sHFuYNlYdsbcsqBaKFw79562s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU0/NTcxLTE1NjY5MzY5/MDEtNzg4OC5qcGVn.jpeg) | 2019-08-30 | Pharmakon | Devour |
-| 66 | ![Cover](https://i.discogs.com/O956g-XHcLdn6P_TsP5T544UAYELD6NJopEX-mMtD0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODIy/NjAwLTE1ODIyODQ2/MDMtMTE5Ni5qcGVn.jpeg) | 2020-02-21 | Sightless Pit | Grave of a Dog |
-| 25 | ![Cover](https://i.discogs.com/vUQ9te3a0Py8qsxHTDS-lIeeWMJkftim1SDBQdeVgss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQx/NTY0LTE1ODU5MDM5/ODktMzYxNi5qcGVn.jpeg) | 2020-03-03 | Bolt Gun | Begotten |
-| 2 | ![Cover](https://i.discogs.com/P3xrJe7yZFTiJusZJW2xlf85ILqEMbgnK1JPoTZ6FcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzk1/MDExLTE1ODE3NTM0/MDEtNDg4MC5qcGVn.jpeg) | 2020-03-20 | Wind Atlas | Arche-Fossil |
-| 43 | ![Cover](https://i.discogs.com/gsHOh-4ozGE2RRkvXqeaTimFdFfvYqusmymSkJ7cvck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQ0/NzI2LTE1OTUxMjE1/NDItNDY5Ny5qcGVn.jpeg) | 2020-07-18 | Atrax Morgue | WOUNDFUCKER |
-| 20 | ![Cover](https://i.discogs.com/aKkeWRU7JP1XDq3aEsfZ2RgCoexvncMGjrlw94zeUqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTUz/MDM3LTE2Mjk2MzYw/MzEtOTQ1Mi5qcGVn.jpeg) | 2021-04-09 | Exploited Body | When My Darkness Came to Light |
-| 41 | ![Cover](https://i.discogs.com/JjJXEGGuKhIXz106fZbMkoHUlj8CwRDS2vUMQYcVagI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg4/MDE2LTE2NTA0NjM5/NzctNjI3OS5qcGVn.jpeg) | 2021-12-12 | Brighter Death Now | All Too Bad - Bad To All |
-| 96 | ![Cover](https://i.discogs.com/7iZA8gPOzVlUIvqxKs-xeCAoKrYnTervWhAtAeNlFOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDcx/MjYwLTE3MTAxOTQ1/ODktNDAzMS5qcGVn.jpeg) | 2024-01-18 | Benson Boone | Beautiful Things (Alternate Versions) |
-| 93 | ![Cover](https://i.discogs.com/qd0YLz8HmGepEii_OayJCNYqaE-gvlsE2I9yFKeSVW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDk3/NjE4LTE3MTk4NjA4/MzItNjQ1OC5qcGVn.jpeg) | 2024-06-28 | Uboa | Impossible Light |
-| 71 | ![Cover](https://i.discogs.com/QoIez2DQ-5qr4go7OoT2ak-EXQoetnmsBKrvmh8_AOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODg4/MTU5LTE3Mjc4NzEw/MzYtNzkyNS5qcGVn.jpeg) | 2024-10-04 | Pharmakon | Maggot Mass |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/BEOHWIeTvF1LfJ68nP_4CeKXF8lMdxARRojW339ckRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODg5/NTktMTIyNjQ0MDYz/My5qcGVn.jpeg" alt="Cover for We Spit on Their Graves (tape 1)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Sutcliffe Jügend</td>
+      <td>We Spit on Their Graves (tape 1)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/w2tGim6jGmMThE3ezxwlWhrWX3t8YiR3b1yINK8mZ3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE3/Ni0xNTM3MzYwMjM5/LTUwOTcuanBlZw.jpeg" alt="Cover for Katatonia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Chazev</td>
+      <td>Katatonia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td>1987</td>
+      <td>Ramleh</td>
+      <td>Hole in the Heart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/reeutfS7mDO4Sq0CGb7FpCKVylYW2XzTIfkjX6hJGh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODc2/LTEzNjA4NzEwODkt/ODg4Ny5qcGVn.jpeg" alt="Cover for Sketches of the Red Districts" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Laibach</td>
+      <td>Sketches of the Red Districts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/qX9iPJPXtoyp1ssNRhwcKiG7exJ9-ctKagYx2h5ZyI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk1/Mi0xMTU4NzY4OTY3/LmpwZWc.jpeg" alt="Cover for Pain In Progress" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988-08</td>
+      <td>Brighter Death Now</td>
+      <td>Pain In Progress</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+      </td>
+      <td>1989-12-13</td>
+      <td>MZ.412</td>
+      <td>Malfeitor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/nPIKOlc2E7Glh24KT2o7TthpTIkqUFcqw6B1-QGXNvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjM2/OC0xMzA1MzIwMzk3/LmpwZWc.jpeg" alt="Cover for Leichenlinie" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989-12</td>
+      <td>Genocide Organ</td>
+      <td>Leichenlinie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 28</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/cg4pZ-RExyjVGNP-A-fv7ivNw9z3dhftd_26x8xsOr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDMy/Ni0xNjMyNzcwNDMy/LTUyODIuanBlZw.jpeg" alt="Cover for Great Death II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Brighter Death Now</td>
+      <td>Great Death II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/cg4pZ-RExyjVGNP-A-fv7ivNw9z3dhftd_26x8xsOr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDMy/Ni0xNjMyNzcwNDMy/LTUyODIuanBlZw.jpeg" alt="Cover for Great death I" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990-11</td>
+      <td>Brighter Death Now</td>
+      <td>Great death I</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>1991</td>
+      <td>Archon Satani</td>
+      <td>Memento Mori</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Brighter Death Now</td>
+      <td>The Slaughterhouse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Brighter Death Now</td>
+      <td>Necrose Evangelicum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td>1995-04</td>
+      <td>Inade</td>
+      <td>The Axxiarm Plains</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+      </td>
+      <td>1995-11-23</td>
+      <td>Brighter Death Now</td>
+      <td>Great Death III</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>1995-11</td>
+      <td>Anenzephalia</td>
+      <td>Ephemeral Dawn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Atrax Morgue</td>
+      <td>Sickness Report</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Melek-Tha</td>
+      <td>Astrum Argentinum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Atrax Morgue</td>
+      <td>Cut My Throat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>MZ.412</td>
+      <td>Burning the Temple of God</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/55yvTzMbgkl1Iz0D0xG_7ONDFdlspqdTM2d5RyDe7vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjI3/LTE1MTg3MzgxNjAt/NDc1Ny5qcGVn.jpeg" alt="Cover for Innerwar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-07-02</td>
+      <td>Brighter Death Now</td>
+      <td>Innerwar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td>1997-10</td>
+      <td>Atrax Morgue</td>
+      <td>Slush of a Maniac</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/NZvtsIzoo-vj6-0496WtzyYInT1HQZDxYu1riIWWFNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzIy/NzYtMTE5ODA5NzY4/NS5qcGVn.jpeg" alt="Cover for Children of God" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Haus Arafna</td>
+      <td>Children of God</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 25</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/vebIeSU_ef7nKc7neVJtBP7JQqzPsxlDLTSHs_VHkcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUz/NzUtMTE5NzQ5NjUw/Mi5qcGVn.jpeg" alt="Cover for May All Be Dead" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Brighter Death Now</td>
+      <td>May All Be Dead</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 23</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Vond</td>
+      <td>Green Eyed Demon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/Raqv8Cu4HBDdKd5My8uFNiS1mel28S8jwrgMi03LAv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjg2/OC0xNTgxMjY2Njky/LTkzODkuanBlZw.jpeg" alt="Cover for Schlaf" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-05-25</td>
+      <td>Calva Y Nada</td>
+      <td>Schlaf</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/BbBnWx5n1qWy3aMhauTXfJnn7BWjjU2U42h3M_uPOQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzIx/LTEwODI0MDU0NjYu/anBn.jpeg" alt="Cover for Information Blitzkrieg" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Folkstorm</td>
+      <td>Information Blitzkrieg</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Genocide Organ</td>
+      <td>The Truth Will Make You Free</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/_Fgo8wMjOolbbDY5Uwba28HenZXpAcmuFTxTowTJOLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjkx/LTE0MjAyMTQ3Njct/MTMxMS5qcGVn.jpeg" alt="Cover for Hurtmusic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Folkstorm</td>
+      <td>Hurtmusic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/AFczDhSttbDrUVFGuvXsq7UrtZvWJaMGE39CzNsHOuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzUw/LTExODk1MjM1MTgu/anBlZw.jpeg" alt="Cover for Legion Ultra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>MZ.412</td>
+      <td>Legion Ultra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/7J3RQhHMb81sCqHpFdNMEvaOG3zFDOtBG_k2HNT8HAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTE3/Mi0xMjc0Mjg5NTc2/LmpwZWc.jpeg" alt="Cover for Victory Or Death" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Folkstorm</td>
+      <td>Victory Or Death</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>2001-03</td>
+      <td>Megaptera</td>
+      <td>Beyond the Massive Darkness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/Lt5rAHQWT0gN-a3JqNrP6eG_sw_Uakoa9z7QP-wybaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc2/NS0xNDQ4MjA4OTU3/LTU1NjYuanBlZw.jpeg" alt="Cover for Anenzephalia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-07-20</td>
+      <td>Anenzephalia</td>
+      <td>Anenzephalia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/itmuTxE0CEhXMcsq1gNGZBdma0iBcIUFkIUdLJIrQuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzMy/LTExODM0OTkxMjYu/anBlZw.jpeg" alt="Cover for Domine Rex Inferum" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-10-23</td>
+      <td>MZ.412</td>
+      <td>Domine Rex Inferum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/EWXPedXLa05gZRAu_y-Ekv1iiHuFpKA0XLb8XL7ps1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTI3/Ni0xMTM5NTYxNjQ3/LmpwZWc.jpeg" alt="Cover for Kadaverkomplex" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Weena Morloch</td>
+      <td>Kadaverkomplex</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/PSFyM0H61rth4c8Z8yU3rr3sLBKjWVOfVS8Ph8t6VG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzkx/NC0xNTI1NDM1MzE4/LTgwMjkuanBlZw.jpeg" alt="Cover for Noehaem" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Anenzephalia</td>
+      <td>Noehaem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Nicole 12</td>
+      <td>Lolita Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/J-tmi1IM2E5hKp802a3GqWxfDA5vPZADWkWwWDufFNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODQ3/Ny0xMTkyNjU1NjEy/LmpwZWc.jpeg" alt="Cover for Genocide Organ" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-03-01</td>
+      <td>Genocide Organ</td>
+      <td>Genocide Organ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>2003-06</td>
+      <td>Deathpile</td>
+      <td>G.R.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 11</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 80</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 99</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/6cE85E-jGUGXJ6JNY8AxZznfPco_y5vNIhSk0WmbIKw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTM4/My0xMTY3ODU4MzAw/LmpwZWc.jpeg" alt="Cover for Frozen Niagara Falls" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Prurient</td>
+      <td>Frozen Niagara Falls</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 15</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/hbd-NaLelNGJsv4KB2KmLaTrlfPKI4PJ-OGINnQUEAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjcz/NC0xMTkyNTYwNzQ5/LmpwZWc.jpeg" alt="Cover for Beckoning At The Black" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Funerary Call</td>
+      <td>Beckoning At The Black</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/RwQezThSzBoaLWj9ULU95PT17KSdT0qEXMDyntu4bcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODMy/OS0xMzE0MTMxMjk1/LmpwZWc.jpeg" alt="Cover for Substitute" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Nicole 12</td>
+      <td>Substitute</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td>2004-04</td>
+      <td>Folkstorm</td>
+      <td>Sweden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/dD_poTuiXOY7IJ5b_Ae-h3aK0e8XNFWWLh7DYqPB3hM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDU0/NC0xMzMwNTA3ODQ4/LmpwZWc.jpeg" alt="Cover for The Struggle Never Ended" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-06</td>
+      <td>Institut</td>
+      <td>The Struggle Never Ended</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 69</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>2005-09-28</td>
+      <td>Brighter Death Now</td>
+      <td>Kamikaze Kabaret</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/lVSrB-p8R7QVml4FXd7vkQquPj7KYLDRGHWodGQ6GYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzUx/Ni0xMzY0NjIxMzYy/LTcxNTkuanBlZw.jpeg" alt="Cover for Folkmusik" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-09</td>
+      <td>Folkstorm</td>
+      <td>Folkmusik</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2006-04-16</td>
+      <td>Rasthof Dachau</td>
+      <td>Prison Poems</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/CvfBcPvpbRTUQ3HzZGmCoKietcxSY6tLI12GXjKzmO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTcx/MC0xMTQ4MzAzMTU3/LmpwZWc.jpeg" alt="Cover for Pure Skin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-05-01</td>
+      <td>Navicon Torture Technologies</td>
+      <td>Pure Skin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/7f6sBI4_bHDJK7_0Kz0Qo2fAZcWx5JR-2mOF_yffTR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTAy/My0xMjEwNDU2MDA1/LmpwZWc.jpeg" alt="Cover for Infernal Affairs" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-06-06</td>
+      <td>MZ.412</td>
+      <td>Infernal Affairs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>IRM</td>
+      <td>The Cult Of The Young Men</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Brighter Death Now</td>
+      <td>1890</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td>2007-03-07</td>
+      <td>Sutcliffe Jügend</td>
+      <td>This Is The Truth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+      </td>
+      <td>2008-06-13</td>
+      <td>STROM.ec</td>
+      <td>Divine Legions Beyond Psyche</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>Cars Original Soundtrack (English Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/Ckt4U4eu4WIXArFHkDVa0thd03MzXXges_isWQZQMQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzM3/NDktMTM2Njk2ODUw/OC01NjE2LmpwZWc.jpeg" alt="Cover for Cremations" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-08</td>
+      <td>Cold Cave</td>
+      <td>Cremations</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/FnAXdR4-30xl9gjGxOoZHTg03z6LgPCB0O_7qOWBqFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTYy/MzAtMTI5ODI0MzQ0/NS5qcGVn.jpeg" alt="Cover for 8" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Kekal</td>
+      <td>8</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 18</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 33</li>
+            <li> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a> # 46</li>
+            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td>2010-02</td>
+      <td>Funerary Call</td>
+      <td>Dark Waters Stirred</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/UFGiKdmz363PxNXUkJpsc7xhbzNLnPNUi4p7vcFf10w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTM0/ODUtMTI3MjUxODQ2/MC5qcGVn.jpeg" alt="Cover for This Is Why We Can&#39;t Have Nice Things" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-04-01</td>
+      <td>Alter Der Ruine</td>
+      <td>This Is Why We Can&#39;t Have Nice Things</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 26</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+      </td>
+      <td>2010-10-15</td>
+      <td>Forthcoming Fire</td>
+      <td>Set the World On Fire</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/5zKJ4csqZxpUbqMEK8UJMeoR6qhjKfQEvwOI9IyKsAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMz/MTMtMTI4ODg2Mjc3/MS5qcGVn.jpeg" alt="Cover for Blut" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-12-01</td>
+      <td>Haus Arafna</td>
+      <td>Blut</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>2011-09-12</td>
+      <td>Brighter Death Now</td>
+      <td>Very Little Fun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/MviEhQq7WTmLkuvCgtNOLm7e5eebAwQvebASO9DRXRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzAz/NzMtMTMyNzcxNTg3/NC5qcGVn.jpeg" alt="Cover for Larvae" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-02</td>
+      <td>Sutekh Hexen</td>
+      <td>Larvae</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/WTgBsHKX6X7rKe1NGrUNVL82aQHoQJ-xkrihe91eDKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzgw/MTYtMTMzMTk4NjMy/My5qcGVn.jpeg" alt="Cover for Terror Über Alles - Das Weena Morloch-Manifest" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-03-09</td>
+      <td>Weena Morloch</td>
+      <td>Terror Über Alles - Das Weena Morloch-Manifest</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>2013-02-21</td>
+      <td>Trepaneringsritualen</td>
+      <td>Judas Goat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 10</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 43</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>2013-05-13</td>
+      <td>Pharmakon</td>
+      <td>Abandon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+      </td>
+      <td>2014-07-08</td>
+      <td>Alter Der Ruine</td>
+      <td>I Will Remember It All Differently</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 33</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 49</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 85</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td>2014-10-14</td>
+      <td>Pharmakon</td>
+      <td>Bestial Burden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 5</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 8</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>2014-11-03</td>
+      <td>Coph Nia</td>
+      <td>A Prelude To Lashtal Lace</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/uj4NJsRiGILumD9tXg6M3ukmGpAqB11Ou6fXVjV_tZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMDIw/OTItMTQxMzg0NjU0/Mi05NDkzLmpwZWc.jpeg" alt="Cover for With Promises of Death" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-11</td>
+      <td>Brighter Death Now</td>
+      <td>With Promises of Death</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/ELZD_IxPBZYRJW4E-ZeybgakHWaH9iucOF4-Og6Lezc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDg0/NzktMTQyOTI4NjM5/Mi04NDE4LmpwZWc.jpeg" alt="Cover for ...Want You Dead" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-03-28</td>
+      <td>Karjalan Sissit</td>
+      <td>...Want You Dead</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 51</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/6UfJnLElmr6KEtQe0fNRe3-_ExLETfkMZN-wuKEUyL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mzk2/NTYtMTQyNzcxOTcy/OS0zNjY1LmpwZWc.jpeg" alt="Cover for Vegas Fountain" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-03-30</td>
+      <td>Damien Dubrovnik</td>
+      <td>Vegas Fountain</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 42</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/ZskKuu6psdXhb9H-lMKVrE4SvZWXZlIWf2w_F2LJzm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTY4/OTMtMTQyOTQ1NTIw/MC0xNzczLmpwZWc.jpeg" alt="Cover for The Female Form" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-04-17</td>
+      <td>Loke Rahbek</td>
+      <td>The Female Form</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/SJA6_ikRPWBUNQy1d5XqMGOjC6eDEEGBzanVOtSaKRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDYz/NDEtMTQ3NTk1MjIw/OS02ODczLmpwZWc.jpeg" alt="Cover for The Spiral" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-03-25</td>
+      <td>Puce Mary</td>
+      <td>The Spiral</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/DvT8KNIYOgmvQfY5_w5wxgQ3o_-7X787pyYCUBw1RWg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDEw/NjgwLTE1MDgxNzkx/NTYtNDExNS5qcGVn.jpeg" alt="Cover for In the End I Am a Beast" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-11-18</td>
+      <td>Lana Del Rabies</td>
+      <td>In the End I Am a Beast</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 30</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/zLJXup142kHHMgkTUpFl2doo_M78PKvJlhrR249fPC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzYz/MTQtMTUzODg1Njky/My05ODU1LmpwZWc.jpeg" alt="Cover for Deathward, To The Womb" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-01-04</td>
+      <td>Trepaneringsritualen</td>
+      <td>Deathward, To The Womb</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 14</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 23</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/klZNqsOYgdyvmH8EQPB04lM-hYYYu7ZQpLyQf4pIZmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQx/NDUzLTE0OTk1Mzgw/NDMtMzAwOC5qcGVn.jpeg" alt="Cover for LET THE EVIL OF HIS OWN LIPS COVER HIM" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-02-14</td>
+      <td>LINGUA IGNOTA</td>
+      <td>LET THE EVIL OF HIS OWN LIPS COVER HIM</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 15</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/UAX-Sdc5yS7cgP2iSJaA0OdiWwHjEqIDhN-enq-jfEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjgz/NTc1LTE2Nzc3OTU5/MzgtMzU2MS5qcGVn.jpeg" alt="Cover for Ignore Grief" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-02-17</td>
+      <td>Xiu Xiu</td>
+      <td>Ignore Grief</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/0alQhFHeEUtzVSycTUh3IyQJYBBUIUqOV7xt9TcLltE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ3/NDg2LTE1NjY3ODM4/NjEtODgzNi5wbmc.jpeg" alt="Cover for Girl with Basket of Fruit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-03-30</td>
+      <td>Xiu Xiu</td>
+      <td>Girl with Basket of Fruit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 95</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 97</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/Rkl9-s8rNetPqgwnEq4UeyTuonTxEtfp54A6_i-3wuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDg3/OTk1LTE0OTg0NzUz/NDMtNzI4MC5qcGVn.jpeg" alt="Cover for Great Many Arrows" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-30</td>
+      <td>Damien Dubrovnik</td>
+      <td>Great Many Arrows</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://i.discogs.com/n04hWYyfvpUBuf-LAe6YXGhYjoVb41226nnTzcOMDU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTM5/NDI3LTE1MDY4NjMy/MjctODI3NC5qcGVn.jpeg" alt="Cover for Kainskult" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-09-30</td>
+      <td>Trepaneringsritualen</td>
+      <td>Kainskult</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 3</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 33</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 77</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 77</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 82</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 92</li>
+            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/MmPG_B_HUw8Eyu54doX6LN_vjWim5hJqLaaGYX2Jz20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDg2/NzE1LTE1MTcxNzc1/NTktNTI2OC5qcGVn.jpeg" alt="Cover for Reckless Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-27</td>
+      <td>Cory Asbury</td>
+      <td>Reckless Love</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 14</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 21</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 66</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 68</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 84</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/sb9skgDw71j3SU8hkrB_5hIqdKtYDn-JvTLAs2ERmA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTkw/OTcxLTE1MDg0MjY0/MjAtOTYyNy5qcGVn.jpeg" alt="Cover for Exit Strategy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10</td>
+      <td>The Grey Wolves</td>
+      <td>Exit Strategy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/sb9skgDw71j3SU8hkrB_5hIqdKtYDn-JvTLAs2ERmA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTkw/OTcxLTE1MDg0MjY0/MjAtOTYyNy5qcGVn.jpeg" alt="Cover for EXIT STRATEGY" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10</td>
+      <td>The Grey Wolves</td>
+      <td>EXIT STRATEGY</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/vAWerp8oNUxyzrCtgGM8GJ_2dG8lb0U-yOi3QPWKgN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE2/NzA2LTE1ODQ0ODc3/ODgtMTA3MC5qcGVn.jpeg" alt="Cover for Starving Slvts Always Get Their Fix" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>sewerslvt</td>
+      <td>Starving Slvts Always Get Their Fix</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 79</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/XKt8bv1UM2utS75K526XV-9r0NJkzQqSMc0PYn2dPRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjY1/NzIwLTE1ODg5MDY3/NDYtNTMyOC5qcGVn.jpeg" alt="Cover for Shadow World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-03-23</td>
+      <td>Lana Del Rabies</td>
+      <td>Shadow World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 34</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/KrHxosJWUG-NBYQiuQn79DKn8kmwsqNc3fgbCO_dYa8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njc4/MDIxLTE1Nzk0NTY0/MjAtNTQ1Ny5qcGVn.jpeg" alt="Cover for AJA" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-05-02</td>
+      <td>Aja</td>
+      <td>AJA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/eUiQzetwlNGnV_N0PlXSjD05kDQJjjpDRvC-yElp7ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODE3/MzM4LTE1MzYwOTM1/NTQtNDg5Ni5qcGVn.jpeg" alt="Cover for I Have Fought Against It, But I Can&#39;t Any Longer." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-05-11</td>
+      <td>The Body</td>
+      <td>I Have Fought Against It, But I Can&#39;t Any Longer.</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/b-kxc9vK0WMLMdK0AlaGvKGuwg8n2dlAZqaYtIxn42o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA3/MTg0LTE1NTk0NDM5/MzctMTg1MC5qcGVn.jpeg" alt="Cover for The Origin of My Depression" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-02-14</td>
+      <td>Uboa</td>
+      <td>The Origin of My Depression</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 48</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 80</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 93</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/W-qbC7R8mxdgxdzGjB9co5o2Df6hkyUtBfKTJXElV9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDIz/MDgzLTE2MDc2NDc5/NjYtMzIyNC5qcGVn.jpeg" alt="Cover for I&#39;m a Failure" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-02-26</td>
+      <td>comforting</td>
+      <td>I&#39;m a Failure</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 20</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 70</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/zlcSNpFDhQeTXbHFDv4hSgKC2iWuBOQ74HJi_G25cV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgw/MDQ4LTE1OTM5NjY1/NzktODE5MC5qcGVn.jpeg" alt="Cover for tower block knife crime" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-03-26</td>
+      <td>goreshit</td>
+      <td>tower block knife crime</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 36</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 43</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 55</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/tNsSfVJni-e2r5WkG5sHFuYNlYdsbcsqBaKFw79562s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU0/NTcxLTE1NjY5MzY5/MDEtNzg4OC5qcGVn.jpeg" alt="Cover for Devour" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-08-30</td>
+      <td>Pharmakon</td>
+      <td>Devour</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/O956g-XHcLdn6P_TsP5T544UAYELD6NJopEX-mMtD0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODIy/NjAwLTE1ODIyODQ2/MDMtMTE5Ni5qcGVn.jpeg" alt="Cover for Grave of a Dog" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-02-21</td>
+      <td>Sightless Pit</td>
+      <td>Grave of a Dog</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/vUQ9te3a0Py8qsxHTDS-lIeeWMJkftim1SDBQdeVgss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDQx/NTY0LTE1ODU5MDM5/ODktMzYxNi5qcGVn.jpeg" alt="Cover for Begotten" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-03</td>
+      <td>Bolt Gun</td>
+      <td>Begotten</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/P3xrJe7yZFTiJusZJW2xlf85ILqEMbgnK1JPoTZ6FcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzk1/MDExLTE1ODE3NTM0/MDEtNDg4MC5qcGVn.jpeg" alt="Cover for Arche-Fossil" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-20</td>
+      <td>Wind Atlas</td>
+      <td>Arche-Fossil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/gsHOh-4ozGE2RRkvXqeaTimFdFfvYqusmymSkJ7cvck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQ0/NzI2LTE1OTUxMjE1/NDItNDY5Ny5qcGVn.jpeg" alt="Cover for WOUNDFUCKER" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-07-18</td>
+      <td>Atrax Morgue</td>
+      <td>WOUNDFUCKER</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/aKkeWRU7JP1XDq3aEsfZ2RgCoexvncMGjrlw94zeUqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTUz/MDM3LTE2Mjk2MzYw/MzEtOTQ1Mi5qcGVn.jpeg" alt="Cover for When My Darkness Came to Light" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-04-09</td>
+      <td>Exploited Body</td>
+      <td>When My Darkness Came to Light</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/JjJXEGGuKhIXz106fZbMkoHUlj8CwRDS2vUMQYcVagI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg4/MDE2LTE2NTA0NjM5/NzctNjI3OS5qcGVn.jpeg" alt="Cover for All Too Bad - Bad To All" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-12-12</td>
+      <td>Brighter Death Now</td>
+      <td>All Too Bad - Bad To All</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/7iZA8gPOzVlUIvqxKs-xeCAoKrYnTervWhAtAeNlFOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDcx/MjYwLTE3MTAxOTQ1/ODktNDAzMS5qcGVn.jpeg" alt="Cover for Beautiful Things (Alternate Versions)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-01-18</td>
+      <td>Benson Boone</td>
+      <td>Beautiful Things (Alternate Versions)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 8</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 10</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 51</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 68</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 78</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 84</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 84</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 87</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 88</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 89</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 91</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 91</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/qd0YLz8HmGepEii_OayJCNYqaE-gvlsE2I9yFKeSVW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDk3/NjE4LTE3MTk4NjA4/MzItNjQ1OC5qcGVn.jpeg" alt="Cover for Impossible Light" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-06-28</td>
+      <td>Uboa</td>
+      <td>Impossible Light</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 2</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/QoIez2DQ-5qr4go7OoT2ak-EXQoetnmsBKrvmh8_AOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODg4/MTU5LTE3Mjc4NzEw/MzYtNzkyNS5qcGVn.jpeg" alt="Cover for Maggot Mass" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-10-04</td>
+      <td>Pharmakon</td>
+      <td>Maggot Mass</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Tuzera</td>
+      <td>Você Não É Especial</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
