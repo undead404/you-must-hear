@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T11:13:51.342Z
+date: 2025-11-03T01:32:33.895Z
 permalink: tags/germany
 title: germany
 ---
 
 ## germany
 
-Last updated: <time datetime="2025-11-01T11:13:51.342Z">Sat Nov 01 2025 13:13:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T01:32:33.895Z">Mon Nov 03 2025 03:32:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/sPeWxAOASxPWKrB11YgbEdLVDxgiUD7OkPXd-Xy3_Os/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDA5/MDIxLTE2MTUwNDEz/NzktMTI4NC5qcGVn.jpeg" alt="Cover for Horowitz plays Schumann" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/Dol5dP1gA0PmBUJzSfnAFBXDXSECjgVBvE_Jyz8JQU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM3/MjM5LTE1MjMyMTgw/MjAtNTMwOS5qcGVn.jpeg" alt="Cover for Beethoven: The Late String Quartets" style="max-width:120px; height:auto;" />
       </td>
@@ -112,7 +112,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b1b1f04f47ac3adf834fab82d0e3e37.png" alt="Cover for Triumph And Agony" style="max-width:120px; height:auto;" />
       </td>
@@ -130,7 +130,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/7uB3ORSio8Jcn2TMiwxGH7eWoMaqVEoGXr_OYCUgcF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjkz/MjY0LTE1MjA3NzI0/MzctNjM4Ni5qcGVn.jpeg" alt="Cover for Keepers Live" style="max-width:120px; height:auto;" />
       </td>
@@ -229,7 +229,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/k0Wpdmvee1BtNxAMxq2ZB7KHTF_5I8HbE0vwz_IGbAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjM1/MzM4LTE1ODg1MTQ5/ODMtMjA5NS5qcGVn.jpeg" alt="Cover for HINDEMITH: Mathis der Maler &#x2F; Symphonic Metamorphosis" style="max-width:120px; height:auto;" />
       </td>
@@ -307,7 +307,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d04b614a41910f4288a36ec61469898e.png" alt="Cover for Live in Dortmund" style="max-width:120px; height:auto;" />
       </td>
@@ -397,7 +397,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
       </td>
       <td>1998-11-05</td>
@@ -415,7 +415,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/kXkTk66-pUNwMTPL46x_VtxxDd90h5RSx5lj8jR7rUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDAw/NC0xMTk4ODIyMzkw/LmpwZWc.jpeg" alt="Cover for Neidlos" style="max-width:120px; height:auto;" />
       </td>
@@ -436,7 +436,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/8BVjVSI5Mijdt11ZLNK2_g4tyIKQZDXBeL9UBnDknWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDU4/NTQtMTQ5MjQ0MjAz/OC03NjkzLmpwZWc.jpeg" alt="Cover for Everything Louder Than Everyone Else" style="max-width:120px; height:auto;" />
       </td>
@@ -495,7 +495,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7a3e396f0fd42c6be1e48d99d8448db.png" alt="Cover for Subseven" style="max-width:120px; height:auto;" />
       </td>
@@ -533,7 +533,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
       </td>
       <td>2000-05-24</td>
@@ -588,7 +588,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
       </td>
       <td>2000-07-11</td>
@@ -608,7 +608,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de4b645e86e0455b87d34d928a3a5894.png" alt="Cover for Sub7even" style="max-width:120px; height:auto;" />
       </td>
@@ -627,7 +627,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/LFnN67JXHYeQWINonatGRWcGYEM_y6xaQ65aPKGM3Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDIz/NTQ5LTE1NTM5MzI4/MDEtNDg2Ny5qcGVn.jpeg" alt="Cover for Ravenous Minds" style="max-width:120px; height:auto;" />
       </td>
@@ -646,7 +646,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/y28-NplmZGuE1wipJ1ADZTg8kF5HC5jQJVySjaRobIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjA1/MC0xMjMyMDQ1NjAy/LmpwZWc.jpeg" alt="Cover for 20 Jahre - Live in Frankfurt" style="max-width:120px; height:auto;" />
       </td>
@@ -663,12 +663,12 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 40</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>2001-10-22</td>
@@ -688,7 +688,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/9_cozUeoZh0i8Gce8DYDl7phZmAr-q9A3Ake6p4rEGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjk1/MC0xMjg1MDYyMzk4/LmpwZWc.jpeg" alt="Cover for Project Pitchfork Live 2003 &#x2F; 2001" style="max-width:120px; height:auto;" />
       </td>
@@ -727,7 +727,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/J52mx1V-ql7Xuzco0uXuCrOEZAklUknCvkn8ARjyLTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTgz/OTEtMTQ0MjcxODk5/MS01MTg0LmpwZWc.jpeg" alt="Cover for Killing Absorption" style="max-width:120px; height:auto;" />
       </td>
@@ -744,7 +744,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 14</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -786,7 +786,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/zjDwSTdiLNFUQ4SUTTJPm0p8ogBBJh5FOaNvsZbsv2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQ4/OTMtMTQ2OTI5OTI2/MS0xNzgyLmpwZWc.jpeg" alt="Cover for Hyperborea" style="max-width:120px; height:auto;" />
       </td>
@@ -806,7 +806,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/pNET4Upp9YiwSZFfHLxdFaUVl5Ea-I-ajLWCWV01tZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDEz/ODktMTM4MDM4Mjc2/MS02Nzg5LmpwZWc.jpeg" alt="Cover for Kraft" style="max-width:120px; height:auto;" />
       </td>
@@ -826,7 +826,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2004</td>
@@ -892,7 +892,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>2005</td>
@@ -912,7 +912,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
       </td>
       <td>2005-03-28</td>
@@ -953,7 +953,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed8357c77295486ac82b712bad3270d5.png" alt="Cover for Live in Hamburg" style="max-width:120px; height:auto;" />
       </td>
@@ -962,8 +962,6 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       <td>Live in Hamburg</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
         </ul>
       </td>
       <td>
@@ -1108,7 +1106,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>2007</td>
@@ -1130,7 +1128,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/GEWXg9MJ8R8prtUxqooN8x7Rauh76Rc8pfL4qBEXW8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTM0/MjY2LTE2NzUwNzgw/OTEtMzk5My5qcGVn.jpeg" alt="Cover for Schumann, C.: Piano Concerto, Op. 7 &#x2F; Piano Trio, Op. 17 &#x2F; 3 Romanzen" style="max-width:120px; height:auto;" />
       </td>
@@ -1147,7 +1145,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2007-02-26</td>
@@ -1204,7 +1202,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/FM5D6W0bqeV5eXhhBvGoAoC24K8ZRXoRyz0qXuJRY2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgw/MTAtMTE5MjYwMTQx/MS5qcGVn.jpeg" alt="Cover for Frerk (aer009)" style="max-width:120px; height:auto;" />
       </td>
@@ -1232,7 +1230,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>2007-08-30</td>
@@ -1254,7 +1252,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/JQmgQ81cp-2rsiYN4u9U_YwptrA490Qzk6q2HnUkmdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjQ1/MS0xMTc2MDI1NTYx/LmpwZWc.jpeg" alt="Cover for Silent Reflections" style="max-width:120px; height:auto;" />
       </td>
@@ -1277,7 +1275,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/JKO6u2L8fcCqyf75krSULdqq4j_7Wyvhd6Q0cmkgWqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTc0/OTktMTMyNzE4NzA4/MS5qcGVn.jpeg" alt="Cover for Mirror Of An Unbroken Faith" style="max-width:120px; height:auto;" />
       </td>
@@ -1340,7 +1338,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2008-04-21</td>
@@ -1399,7 +1397,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
       </td>
       <td>2008-05-02</td>
@@ -1416,7 +1414,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
       </td>
       <td>2008-05-23</td>
@@ -1438,7 +1436,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>2008-09-23</td>
@@ -1480,7 +1478,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
       </td>
       <td>2009-04-17</td>
@@ -1525,7 +1523,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2010</td>
@@ -1592,7 +1590,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>2010-03-26</td>
@@ -1608,12 +1606,12 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 44</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2010-05-31</td>
@@ -1655,13 +1653,13 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 37</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 38</li>
             <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>2010-06-18</td>
@@ -1683,7 +1681,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>2010-07-02</td>
@@ -1704,7 +1702,35 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2010-08-13</td>
+      <td>Micha Maat</td>
+      <td>Nur mit Dir</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a></li>
+            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 19</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 25</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 81</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 85</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
       <td>
       </td>
       <td>2011</td>
@@ -1742,7 +1768,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 15</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 16</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 37</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 57</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 87</li>
@@ -1786,7 +1812,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/OC7A8b_5WmUxEUzY32hg7b0HUs6Ix1mgQxOAI2GyRS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTI1/MjYtMTMxMTY4MjQw/Ni5qcGVn.jpeg" alt="Cover for Weightless" style="max-width:120px; height:auto;" />
       </td>
@@ -1836,7 +1862,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 41</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 42</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 64</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 66</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 86</li>
@@ -1865,7 +1891,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/cXKJ44c9jDo2grKCPVToKp6CZrnw7ue9NOvJ1KxP26U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTk3/NTAtMTMzMzY3Nzkw/NS5qcGVn.jpeg" alt="Cover for On the Spur of the Moment" style="max-width:120px; height:auto;" />
       </td>
@@ -1928,27 +1954,6 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
         <ul>
             <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 46</li>
             <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 55</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0a9ca3b68c14c3c8ef77f8fd159550e.png" alt="Cover for A Bit of Devil" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-05</td>
-      <td>Zodiac</td>
-      <td>A Bit of Devil</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -2033,20 +2038,20 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       <td>
         <ul>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 2</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 34</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 35</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 71</li>
             <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 75</li>
             <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 75</li>
             <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 88</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 96</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 97</li>
             <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 97</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 97</li>
             <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2013-05-31</td>
@@ -2138,7 +2143,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/0oHU01JYcF39zgu0U1Z4BWCwJmt8MLfgiUZBiWb2AlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mjcz/NjEtMTQyNzgwNjY3/OS00MTU2LmpwZWc.jpeg" alt="Cover for The Empire of Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -2181,7 +2186,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/cIXXceAYf2jyWGOADPERoTsmXEd400dTvuEpbV9tB_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzk4/NzAtMTM4MzkzOTU5/NS0xOTMxLmpwZWc.jpeg" alt="Cover for Metall Maschinen Musik" style="max-width:120px; height:auto;" />
       </td>
@@ -2226,7 +2231,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/gVH_GSG_1DnSmx77ggeDuz7NWXQAdA-AgT1kkpHmv6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDEy/NTQtMTMwNjQwMjMx/My5qcGVn.jpeg" alt="Cover for Monday Brain" style="max-width:120px; height:auto;" />
       </td>
@@ -2244,7 +2249,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/cZSRdkwE3dbCS5oaXLd70COMttXeIU9EASOMlhcTLmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MTEw/MTEtMTQyNTQ3MjU5/OS0yNjMxLmpwZWc.jpeg" alt="Cover for Sliced Africa" style="max-width:120px; height:auto;" />
       </td>
@@ -2262,7 +2267,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/yxl9LzEaDOiarBjiqAnFv4fzjDU7lCQEhf2ZSj28YYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTkw/NjEtMTQ4ODU1MDgx/My03ODE5LmpwZWc.jpeg" alt="Cover for Endless Dream Of Sadness" style="max-width:120px; height:auto;" />
       </td>
@@ -2287,13 +2292,13 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 19</li>
+            <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 20</li>
             <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/PkuOgJjk7qY-pbTq5P2brYXrnUmtjvGkwgL1eYaikF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTAw/Mjg5LTE1MTc0Mjk3/MDQtMjEwMC5qcGVn.jpeg" alt="Cover for Purgatorium" style="max-width:120px; height:auto;" />
       </td>
@@ -2316,7 +2321,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/G7pP1ZcUAmbSOk5te6sCXGmAz5nDQF0-Pc3CJoLWxV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQx/MDEyLTE2NDExMTk0/MDgtOTA0MC5qcGVn.jpeg" alt="Cover for Weichen und Zunder" style="max-width:120px; height:auto;" />
       </td>
@@ -2379,7 +2384,7 @@ German indie and electronic music blends atmospheric synth-pop, alternative rock
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td></td>
