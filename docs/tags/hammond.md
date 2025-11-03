@@ -1,118 +1,2097 @@
 ---
 category: genre
-date: 2025-10-29T07:49:39.381Z
+date: 2025-11-03T08:40:51.806Z
 permalink: tags/hammond
 title: hammond
 ---
 
 ## hammond
 
-Last updated: <time datetime="2025-10-29T07:49:39.381Z">Wed Oct 29 2025 09:49:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T08:40:51.806Z">Mon Nov 03 2025 10:40:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 27 |  | 1959 | Jimmy Smith | Home Cookin&#39; |
-| 84 | ![Cover](https://i.discogs.com/wTl3FcdB27r1oaOM6UNaqGjxFCO23TkW6qyY-zD9A8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTcx/NDE0LTE2NTIxMzIz/ODktMTk1Mi5qcGVn.jpeg) | 1962 | Jimmy Smith | Bashin&#39; |
-| 34 | ![Cover](https://i.discogs.com/2ASJetZwHiNFZ82X1qgnTVKXeBU6HQyrrH1GCUxvWn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODIy/NDgtMTY1MzA0NzQx/MC03NzIyLmpwZWc.jpeg) | 1963-03 | Jimmy Smith | Hobo Flats |
-| 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d68a94944d2b4a32ca53fb1f687219c5.png) | 1964-09 | Jimmy Smith | The Cat |
-| 78 | ![Cover](https://i.discogs.com/EfzHl6MDnIUdikDqIvIS-whPm2HRzP8nMIbV3XIYjLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzk3/NC0xMTUwOTE3MjE1/LmpwZWc.jpeg) | 1968 | Wynder K. Frog | Out of the Frying Pan |
-| 1 | ![Cover](https://i.discogs.com/S-ZQTduFByPLZqLJL4E-PWaq-RgMNAU5jKK1VIQO3BI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjI3/NDAtMTMwNDc4MDQw/NC5qcGVn.jpeg) | 1970 | SRC | Traveler&#39;s Tale |
-| 5 | ![Cover](https://i.discogs.com/hWsD5A-pI7RyXBal38dlrYwROt7EWZ7RY2a_MmmEAVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTIx/MS0xMzU2ODk0MzA3/LTQ3MTIuanBlZw.jpeg) | 1970 | Krzysztof Sadowski | ... And His Hammond Organ |
-| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6746260954e177dd04131f680a59f404.png) | 1970 | Crabby Appleton | Crabby Appleton |
-| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/972689eda99cff4f8d40de2b5d0363fb.png) | 1970 | Rumplestiltskin | Rumplestiltskin |
-| 60 |  | 1970 | Freedom&#39;s Children | Astra |
-| 64 |  | 1970 | The Trip | The Trip |
-| 69 | ![Cover](https://i.discogs.com/G3xLBen19eShJoWj8kKcxow0lmih9Xe3ZZjiqTGNCMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTA5/MTQtMTQ0MzAxNTc5/NC0zMTYzLmpwZWc.jpeg) | 1970 | Julian&#39;s Treatment | A Time Before This |
-| 79 | ![Cover](https://i.discogs.com/0cqbrRRZQaQJe14nvVulCzmFjszZ7Nnx2-5VAgjNdZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDM3/MDEtMTYyNDY5MTE3/Ni03MzA2LmpwZWc.jpeg) | 1970 | Jody Grind | Far Canal |
-| 99 |  | 1970 | Jimmy McGriff | Electric Funk |
-| 80 |  | 1970-10 | Stone The Crows | Ode To John Law |
-| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/cb4fa78086144e91ceca8dd40b79558f.png) | 1971 | Alamo | Alamo |
-| 16 | ![Cover](https://i.discogs.com/b_gouTfFCEc9zsJhrClA4Io64sVVb5pQj0PjQfKaRHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTIz/NjEtMTU4MjczMDIw/OS0xNTg2LmpwZWc.jpeg) | 1971 | Emergency | Emergency |
-| 33 |  | 1971 | Bull Angus | Bull Angus |
-| 59 |  | 1971 | Polyphony | Without Introduction |
-| 63 |  | 1971 | Strawberry Path | When the Raven Has Come to the Earth |
-| 66 | ![Cover](https://i.discogs.com/gCaHx1l-6rruCnXX7M5tQeI7Sx9NOgQNukYkEy2dyQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDE1/MTAtMTU5MzY4NDA0/OC0yMzcwLmpwZWc.jpeg) | 1971 | Zakarrias | Zakarrias |
-| 72 |  | 1971 | Zarathustra | Zarathustra |
-| 90 | ![Cover](https://i.discogs.com/l_Ag2naUismKwGwgFL4gsiOmypQsx7OVMWoA9bsn_Dg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDE4/MjgtMTI5MjYxODk0/NS5qcGVn.jpeg) | 1971 | Reuben Wilson | Set Us Free |
-| 96 |  | 1971 | Johnny Hammond | Breakout |
-| 20 | ![Cover](https://i.discogs.com/NuOpXFn0veGsrckfoBQmlLJQpj5hsWo5Ud8K97YyvnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTMw/OTktMTQ3OTc1OTU0/Ny0xNzAxLmpwZWc.jpeg) | 1972 | Epsilon | Move on |
-| 28 |  | 1972 | Ekseption | 5 |
-| 29 | ![Cover](https://i.discogs.com/IGv8jxi9uv8HX5DvQTPRWQScwSka1eQ4stCEe_-0Mos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTAz/MzItMTQyMzk1NDU0/NS0xNjU4LmpwZWc.jpeg) | 1972 | Sunday | Sunday |
-| 67 | ![Cover](https://i.discogs.com/iqcD6U7bIF4P-6f2tlAgtGFuKhcJd8siOWVQGjrZVLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzk2/NDItMTQyMTAwNDkx/MC02MjgxLmpwZWc.jpeg) | 1972 | Bram Stoker | Heavy Rock Spectacular |
-| 83 | ![Cover](https://i.discogs.com/gV-sWw7ijtHJrjCN7Xgook3_HeSK0hao9OXMXdwF0O8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDgw/NDktMTM0MTE4NzEz/OS03ODg4LmpwZWc.jpeg) | 1972 | Jimmy Smith | Stay Loose...Jimmy Smith Sings Again |
-| 7 |  | 1973 | Curly Curve | Curly Curve |
-| 12 | ![Cover](https://i.discogs.com/AqISTA96UHZxzJndIlyQWCh5-_f9sn_kGkBKxE99oBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg4/MC0xNjY0NjY4Mjg2/LTEyOTIuanBlZw.jpeg) | 1973 | Emergency | Get Out To The Country |
-| 19 |  | 1973 | Karthago | Second Step |
-| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4d57c1b7044d4af497572d116675cb20.png) | 1973 | Jackal | Awake |
-| 41 | ![Cover](https://i.discogs.com/dHnCvb5IGq4S6rl_fmNy_7v6Pv2YTeOe-wte_5Pa_4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/ODktMTU5ODIwOTA4/NS04MzM0LmpwZWc.jpeg) | 1973 | Jimmy McGriff &amp; Groove Holmes | Giants Of The Organ In Concert |
-| 82 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3bf4c9589626cecd63bacc20e5bf6f12.png) | 1973 | Badger | One Live Badger |
-| 87 | ![Cover](https://i.discogs.com/6m7bw5ww5P7voCgAuJ1a1ZoTNmxcvu-mdW9kN6jv98I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjI1/ODAtMTQ5OTE5MjQw/My00MDc0LmpwZWc.jpeg) | 1973 | Fusion Orchestra | Skeleton In Armour |
-| 9 |  | 1974 | Titus Oates | Jungle Lady |
-| 17 | ![Cover](https://i.discogs.com/SiS594J0eBscNYBkyCUCEKoHball5TpsQVAtbr4VzN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTA4/OS0xMjg3MzQwMzQx/LmpwZWc.jpeg) | 1974 | Billy Preston | The Wildest Organ in Town - Club Meeting |
-| 32 |  | 1974 | Atlantis Philharmonic | Atlantis Philharmonic |
-| 35 | ![Cover](https://i.discogs.com/zL3DS_xzMejxj1LJb0-cg3GuNtZaSUzBDj3J566h2Zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTkx/NzMtMTI2NzE5ODkw/My5qcGVn.jpeg) | 1974 | Tea | TEA |
-| 40 |  | 1974 | Duncan Mackay | Chimera |
-| 58 |  | 1974 | Faithful Breath | Fading Beauty |
-| 74 |  | 1974 | Satin Whale | Desert Places |
-| 50 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/565e1727cf1447969bba7cfa5e86df3a.png) | 1974-11-11 | Bijelo Dugme | Kad bi&#39; bio bijelo dugme |
-| 47 | ![Cover](https://i.discogs.com/a2LnK83tOul6Ggr72GWediHtOdfHfW55d9KWyRENf8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI3/MzAtMTM3NjI0NDgz/Ny0zMzQ5LmpwZWc.jpeg) | 1975 | Fireballet | Night On Bald Mountain |
-| 85 | ![Cover](https://i.discogs.com/3Iins0tp6FyO3dvyXdkXge4ODqmXlM71eTVsy1Tg4iU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzAz/MC0xMzUyMTM4MDU5/LTc0NzkuanBlZw.jpeg) | 1975-12 | Sloche | J&#39;un Oeil |
-| 37 | ![Cover](https://i.discogs.com/XW5yKpuF1yNbZ8EcVPnGvID1HzumSeF8EdNbOb0rFHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTI0/NC0xMzE4MDY2ODM5/LmpwZWc.jpeg) | 1978 | Ekseption | Ekseption Plays Bach |
-| 15 | ![Cover](https://i.discogs.com/f6-hYnvgUoKUd_V6fmUH0UenuQlClxWb6R6ZwwKHtGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDc3/MC0xNDI2MTI4OTgz/LTI0NTUuanBlZw.jpeg) | 1979 | Lonnie Smith | Too Damn Hot |
-| 24 | ![Cover](https://i.discogs.com/O1LDgjxHr_-A8LKBQw-Eas0UAyQ0_1OYrUrNEFmVbBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTM5/My0xMzM5NzM3Nzgx/LTE0NzEuanBlZw.jpeg) | 1982 | Rick James | Disco Funk Fever |
-| 26 | ![Cover](https://i.discogs.com/LqazbuW1uyhYppcazwRAFxRa3Pe57lVE0d_sZsSk9qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDYw/NS0xMTg3Mjg1NTM1/LmpwZWc.jpeg) | 1985 | Dillinger | Dillinger |
-| 46 | ![Cover](https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg) | 1987 | Various Artists | Hammond Street |
-| 53 | ![Cover](https://i.discogs.com/dS97XKRVYn9qi0krAPbmkYX77jeA3oN2TD28c3b0VEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDQw/My0xMTc0ODA3MzMw/LmpwZWc.jpeg) | 1987 | Ohio Players | The Complete Ohio Players On Mercury Vol. 1 |
-| 36 | ![Cover](https://i.discogs.com/ZBC8rVJppXLrFHG_8ey3Bv3p9kJ3bQM52OzC0xZ5ONo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI5/Mzc0LTE0OTAzOTYw/NDgtNTEzNi5qcGVn.jpeg) | 1988 | Zodiac | Музыка во вселенной |
-| 49 | ![Cover](https://i.discogs.com/FjI7TP7s4yMxE13cAevxRnkY1AQLAwWYUgQtdLrTTL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzcy/OC0xMzAwMDY3MDYz/LmdpZg.jpeg) | 1989 | Thule | Natt |
-| 61 |  | 1989 | Albert Hammond | Best of Me |
-| 68 | ![Cover](https://i.discogs.com/_QJiszc_z7RK4y0pxwdzdDeH4EwuigTLScoViQc2JKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjc1/MjAtMTQxNDIyOTQx/OC04OTMyLmpwZWc.jpeg) | 1991 | Jimmy Smith | The Cat &amp; Other Great Themes |
-| 48 | ![Cover](https://i.discogs.com/NwBS1oHlINkH3unNnihxeYItsoVWA5MqpFIHqolgTX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjI0/ODItMTM5MDUxNDQw/NS03NDg1LmpwZWc.jpeg) | 1993 | Joey DeFrancesco | Live at the 5 Spot |
-| 62 |  | 1994 | Pär Lindh Project | Gothic Impressions |
-| 71 | ![Cover](https://i.discogs.com/Cpuhwya-0aepUplxPz4AIPi_p3SJPZ3M0HKEwvQdXHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzUz/MDAtMTI4MTEwMzQ3/Ni5qcGVn.jpeg) | 1994 | Writing On the Wall | Power of the Picts |
-| 43 |  | 1995 | Jimmy Smith | Damn! |
-| 70 |  | 1995-06-30 | Joey DeFrancesco | The Street Of Dreams |
-| 97 |  | 1996-07-30 | Jimmy Smith | Talkin&#39; Verve: Roots Of Acid Jazz |
-| 11 | ![Cover](https://i.discogs.com/A2GXhP2rHtAv-JmJ3j5XzBTjp3RcnsNfQ8GuTP9un_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzYy/NzEtMTYzNTAxMDc5/Ni03ODAwLmpwZWc.jpeg) | 1997 | Vanderhoof | Vanderhoof |
-| 86 |  | 1997 | Sinkadus | Aurum Nostrum |
-| 30 | ![Cover](https://i.discogs.com/rer__DzCAmmLdQue39daEdl-whpkMStqm6RhIK3C8_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjg0/NTEtMTIyNjI2MjM0/Ny5qcGVn.jpeg) | 1999 | Tyburn Tall | Tyburn Tall |
-| 8 | ![Cover](https://i.discogs.com/840xeIcflLtoZmxCcb_ykKXmPJlzOaEAoYI1UY5l0R0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjYw/NTUtMTY4OTUyNDI3/Ni0zODE5LmpwZWc.jpeg) | 2000 | London Underground | London Underground |
-| 91 | ![Cover](https://i.discogs.com/ikQa5YIcwRgtqtlxFTi2e-aGyLB7XXTy5oBwyHrxLgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTc1/NTgtMTM5NzA1NTc1/Ni03MzQ1LmpwZWc.jpeg) | 2000 | Bigelf | Money Machine |
-| 98 | ![Cover](https://i.discogs.com/iWkSapo3FUVIc9gBT9vFRx-PfAA2mLfufc3LyJnqvzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzQw/My0xMTgyMjg5MTg4/LmdpZg.jpeg) | 2001-03-13 | Big Boss Man | Humanize |
-| 73 | ![Cover](https://i.discogs.com/BQtuI6bLobE1KR8Hv_LI-988TAZ8W2lk7r2I8B3pXio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU3/MTMtMTMwMjc1NDA4/Ni5qcGVn.jpeg) | 2001-04-03 | The Richmond Sluts | The Richmond Sluts |
-| 2 | ![Cover](https://i.discogs.com/qlVGKeEGupey1OxS15KTk8Gmn9S0B7O2FWdq91ecfAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDI0/NDctMTI5MjY2OTc4/MS5qcGVn.jpeg) | 2002 | Whalefeathers | Whalefeathers |
-| 25 |  | 2002 | Mad Curry | Mad Curry |
-| 55 | ![Cover](https://i.discogs.com/tL3TDkO2tAifwDMefiZwJOhX-pjZsDqaNn0l60DKJcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzcw/MDktMTI3MTUzNjU0/NS5qcGVn.jpeg) | 2002 | McPhee | McPhee |
-| 81 | ![Cover](https://i.discogs.com/vlhyE9qeQAao7rL4VrNN1Pp0injxP_7-ywyQx6a1GYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDk5/MDAtMTQ5ODY2MjA5/NC04MTk5LmpwZWc.jpeg) | 2002 | Lonnie Smith | Afrodesia |
-| 89 | ![Cover](https://i.discogs.com/l-6rzQ-cOUBSIT8RrEGD1LHf3yePH_1YQCXIspPqbq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODY3/LTE2NDk3Nzc3ODIt/ODA2OS5qcGVn.jpeg) | 2002 | The John Scofield Band | Überjam |
-| 88 | ![Cover](https://i.discogs.com/HIRlaneSfesViHzd9gUFVVgBzBjGJ2dLPjv6CqzrSHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDA2/MS0xMzU0NjQxNDE4/LTYwMjguanBlZw.jpeg) | 2002-02-18 | The Bongolian | The Bongolian |
-| 57 | ![Cover](https://i.discogs.com/6ycefUARbO31RTSTt7UU9ZZCX9WQfcTZHVu1AyeciTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTcz/NDktMTYwNDY4NzE0/My0yNjQwLmpwZWc.jpeg) | 2003 | Colosseum | Tomorrow&#39;s Blues |
-| 93 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4a35e8e995db4142afbf81f0a52fa66e.png) | 2003 | Zior | Every Inch Man |
-| 3 |  | 2003-09-25 | Birth Control | Alsatian |
-| 10 | ![Cover](https://i.discogs.com/qZtcJzVNrXcx_uy_YYhVzO3vIcHzJfGmpLWnTDe8le8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTIx/NDQtMTM3MDcxODAx/Ni01MzAwLmpwZWc.jpeg) | 2004-11-01 | Quill | Sursum Corda |
-| 94 | ![Cover](https://i.discogs.com/AP9CQwHxznyJcKAsesHjfyfnnpOH8DMDlrJTHBsMuoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYx/OTgtMTIyNDA4Mzkx/NS5qcGVn.jpeg) | 2005-04-04 | Big Boss Man | Winner |
-| 21 |  | 2007 | Joey DeFrancesco | LIVE: The &quot;Authorized Bootleg&quot; |
-| 42 | ![Cover](https://i.discogs.com/ZE17ahmkApW5P9Va8Z_QWfrv5KKg5PzF86chx5wvk1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDE1/NDktMTQxNDM0MDUx/OS0yNjAwLmpwZWc.jpeg) | 2007 | Apple Pie | Crossroad |
-| 92 |  | 2007-07-10 | Papa Grows Funk | Mr Patterson&#39;s Hat |
-| 75 | ![Cover](https://i.discogs.com/61bO64A-xuyhaVSkZXbi1uLmf3B60qh0HgfOXPTTi_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTg4/NTctMTQxNTM0ODg0/My0xNzczLmpwZWc.jpeg) | 2007-08-07 | Joey DeFrancesco | All Or Nothing At All |
-| 52 | ![Cover](https://i.discogs.com/WofjI4VAar5xTWGUrFfM4O7lWyM5AvNHoaSxaniO2w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzg1/MTQtMTI0NjkwMTk0/NS5qcGVn.jpeg) | 2007-11-13 | Captain Hammond | The Origin Of Captain Hammond |
-| 31 | ![Cover](https://i.discogs.com/2baY7jvptSRoOHTrmJMYyRsGGeztONR9J_r83btVoe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzcw/NDQtMTQ3ODUyODkx/OC02ODAzLmpwZWc.jpeg) | 2008 | Anti-Depressive Delivery | Chain of Foods |
-| 39 | ![Cover](https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg) | 2009 | Various Artists | Hip Hammond And Soulful Grooves |
-| 51 | ![Cover](https://i.discogs.com/KTVT_YBceJO8GGShR_vnf7NX1eTHGmKFXKc0-yiH6qc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTAy/MDQtMTQxNTI3ODgw/Mi00NzEwLmpwZWc.jpeg) | 2010 | Sven Hammond | The Marmalade Sessions |
-| 77 |  | 2010-04-02 | Sven Hammond Soul | The Marmalade Sessions |
-| 76 |  | 2011 | Three Seasons | Life&#39;s Road |
-| 18 | ![Cover](https://i.discogs.com/2EEriP1N0-vn2D6055MUfu4mZYGqkCrk2FQuRSo-zFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODU2/NzctMTM3MzYyMzAy/MC0yNzY4LmpwZWc.jpeg) | 2012 | Ekseption | Ekseption 5 |
-| 56 | ![Cover](https://i.discogs.com/R_Hl1ybJN_8-yzQ4U4hvlD2lB-vzDOZYe1KMNNgc5zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzYz/NjYtMTMzODI5OTY5/OS0xNzg2LmpwZWc.jpeg) | 2012-05-30 | Gin Lady | Gin Lady |
-| 4 | ![Cover](https://i.discogs.com/rOU3KX7NyLUJYXUEE-lkchuSh-69BX03h8j1y3a8TAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTUw/MDc2LTE1Mjk0MzQw/NDUtODQ5MS5qcGVn.jpeg) | 2018-05-04 | Larry Goldings, Peter Bernstein, Bill Stewart | Toy Tunes |
-| 100 | ![Cover](https://i.discogs.com/qsRWv5u7L1BPm8bvwXpLBqEDBkXmy_SzT3mwdDsnNx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTc2/OS0xNjYzNDg5OTA5/LTM1ODkuanBlZw.jpeg) | 2022-05-27 | Jack McDuff | Moon Rappin&#39; |
-| 22 | ![Cover](https://i.discogs.com/cGKZ0eh0RUPjgQsKz8LLBEeygXIJwXDF4Dh1_wl4qWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDc1/MTYtMTM5Nzg5NDk3/MC0xMzEzLmpwZWc.jpeg) | 2024-04-05 | Reinier Baas | Deadeye |
-| 13 |  |  | Jecks | Juice Box |
-| 14 |  |  | Jack Langevelt&#39;s Survival | Crusader |
-| 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/1bcf168c511e4ec0adb5058aeadb6936.png) |  | Weed | WeeD |
-| 45 |  |  | Camera Sintetica | Venetia |
-| 65 |  |  | The Jivecrank | The JiveCrank |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td>1959</td>
+      <td>Jimmy Smith</td>
+      <td>Home Cookin&#39;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/wTl3FcdB27r1oaOM6UNaqGjxFCO23TkW6qyY-zD9A8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTcx/NDE0LTE2NTIxMzIz/ODktMTk1Mi5qcGVn.jpeg" alt="Cover for Bashin&#39;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1962</td>
+      <td>Jimmy Smith</td>
+      <td>Bashin&#39;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/2ASJetZwHiNFZ82X1qgnTVKXeBU6HQyrrH1GCUxvWn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODIy/NDgtMTY1MzA0NzQx/MC03NzIyLmpwZWc.jpeg" alt="Cover for Hobo Flats" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1963-03</td>
+      <td>Jimmy Smith</td>
+      <td>Hobo Flats</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d68a94944d2b4a32ca53fb1f687219c5.png" alt="Cover for The Cat" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1964-09</td>
+      <td>Jimmy Smith</td>
+      <td>The Cat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 4</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/EfzHl6MDnIUdikDqIvIS-whPm2HRzP8nMIbV3XIYjLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzk3/NC0xMTUwOTE3MjE1/LmpwZWc.jpeg" alt="Cover for Out of the Frying Pan" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1968</td>
+      <td>Wynder K. Frog</td>
+      <td>Out of the Frying Pan</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/hWsD5A-pI7RyXBal38dlrYwROt7EWZ7RY2a_MmmEAVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTIx/MS0xMzU2ODk0MzA3/LTQ3MTIuanBlZw.jpeg" alt="Cover for ... And His Hammond Organ" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970</td>
+      <td>Krzysztof Sadowski</td>
+      <td>... And His Hammond Organ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>1970</td>
+      <td>Jimmy McGriff</td>
+      <td>Electric Funk</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/S-ZQTduFByPLZqLJL4E-PWaq-RgMNAU5jKK1VIQO3BI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjI3/NDAtMTMwNDc4MDQw/NC5qcGVn.jpeg" alt="Cover for Traveler&#39;s Tale" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970</td>
+      <td>SRC</td>
+      <td>Traveler&#39;s Tale</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6746260954e177dd04131f680a59f404.png" alt="Cover for Crabby Appleton" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970</td>
+      <td>Crabby Appleton</td>
+      <td>Crabby Appleton</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/972689eda99cff4f8d40de2b5d0363fb.png" alt="Cover for Rumplestiltskin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970</td>
+      <td>Rumplestiltskin</td>
+      <td>Rumplestiltskin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>1970</td>
+      <td>Freedom&#39;s Children</td>
+      <td>Astra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>1970</td>
+      <td>The Trip</td>
+      <td>The Trip</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/G3xLBen19eShJoWj8kKcxow0lmih9Xe3ZZjiqTGNCMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTA5/MTQtMTQ0MzAxNTc5/NC0zMTYzLmpwZWc.jpeg" alt="Cover for A Time Before This" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970</td>
+      <td>Julian&#39;s Treatment</td>
+      <td>A Time Before This</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/0cqbrRRZQaQJe14nvVulCzmFjszZ7Nnx2-5VAgjNdZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDM3/MDEtMTYyNDY5MTE3/Ni03MzA2LmpwZWc.jpeg" alt="Cover for Far Canal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1970</td>
+      <td>Jody Grind</td>
+      <td>Far Canal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>1970-10</td>
+      <td>Stone The Crows</td>
+      <td>Ode To John Law</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/b_gouTfFCEc9zsJhrClA4Io64sVVb5pQj0PjQfKaRHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTIz/NjEtMTU4MjczMDIw/OS0xNTg2LmpwZWc.jpeg" alt="Cover for Emergency" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Emergency</td>
+      <td>Emergency</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td>1971</td>
+      <td>Bull Angus</td>
+      <td>Bull Angus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>1971</td>
+      <td>Polyphony</td>
+      <td>Without Introduction</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td>1971</td>
+      <td>Strawberry Path</td>
+      <td>When the Raven Has Come to the Earth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/gCaHx1l-6rruCnXX7M5tQeI7Sx9NOgQNukYkEy2dyQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDE1/MTAtMTU5MzY4NDA0/OC0yMzcwLmpwZWc.jpeg" alt="Cover for Zakarrias" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Zakarrias</td>
+      <td>Zakarrias</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>1971</td>
+      <td>Zarathustra</td>
+      <td>Zarathustra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/l_Ag2naUismKwGwgFL4gsiOmypQsx7OVMWoA9bsn_Dg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDE4/MjgtMTI5MjYxODk0/NS5qcGVn.jpeg" alt="Cover for Set Us Free" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Reuben Wilson</td>
+      <td>Set Us Free</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>1971</td>
+      <td>Johnny Hammond</td>
+      <td>Breakout</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/NuOpXFn0veGsrckfoBQmlLJQpj5hsWo5Ud8K97YyvnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTMw/OTktMTQ3OTc1OTU0/Ny0xNzAxLmpwZWc.jpeg" alt="Cover for Move on" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Epsilon</td>
+      <td>Move on</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td>1972</td>
+      <td>Ekseption</td>
+      <td>5</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/IGv8jxi9uv8HX5DvQTPRWQScwSka1eQ4stCEe_-0Mos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTAz/MzItMTQyMzk1NDU0/NS0xNjU4LmpwZWc.jpeg" alt="Cover for Sunday" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Sunday</td>
+      <td>Sunday</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/iqcD6U7bIF4P-6f2tlAgtGFuKhcJd8siOWVQGjrZVLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzk2/NDItMTQyMTAwNDkx/MC02MjgxLmpwZWc.jpeg" alt="Cover for Heavy Rock Spectacular" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Bram Stoker</td>
+      <td>Heavy Rock Spectacular</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/gV-sWw7ijtHJrjCN7Xgook3_HeSK0hao9OXMXdwF0O8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDgw/NDktMTM0MTE4NzEz/OS03ODg4LmpwZWc.jpeg" alt="Cover for Stay Loose...Jimmy Smith Sings Again" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Jimmy Smith</td>
+      <td>Stay Loose...Jimmy Smith Sings Again</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/dHnCvb5IGq4S6rl_fmNy_7v6Pv2YTeOe-wte_5Pa_4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjUx/ODktMTU5ODIwOTA4/NS04MzM0LmpwZWc.jpeg" alt="Cover for Giants Of The Organ In Concert" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973</td>
+      <td>Jimmy McGriff &amp; Groove Holmes</td>
+      <td>Giants Of The Organ In Concert</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-organ" | relative_url }}">jazz organ</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-organ" | relative_url }}">jazz organ</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://i.discogs.com/6m7bw5ww5P7voCgAuJ1a1ZoTNmxcvu-mdW9kN6jv98I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjI1/ODAtMTQ5OTE5MjQw/My00MDc0LmpwZWc.jpeg" alt="Cover for Skeleton In Armour" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973</td>
+      <td>Fusion Orchestra</td>
+      <td>Skeleton In Armour</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/english" | relative_url }}">english</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 23</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 49</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>1973</td>
+      <td>Curly Curve</td>
+      <td>Curly Curve</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/AqISTA96UHZxzJndIlyQWCh5-_f9sn_kGkBKxE99oBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDg4/MC0xNjY0NjY4Mjg2/LTEyOTIuanBlZw.jpeg" alt="Cover for Get Out To The Country" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973</td>
+      <td>Emergency</td>
+      <td>Get Out To The Country</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td>1973</td>
+      <td>Karthago</td>
+      <td>Second Step</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d57c1b7044d4af497572d116675cb20.png" alt="Cover for Awake" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973</td>
+      <td>Jackal</td>
+      <td>Awake</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bf4c9589626cecd63bacc20e5bf6f12.png" alt="Cover for One Live Badger" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973</td>
+      <td>Badger</td>
+      <td>One Live Badger</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/zL3DS_xzMejxj1LJb0-cg3GuNtZaSUzBDj3J566h2Zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTkx/NzMtMTI2NzE5ODkw/My5qcGVn.jpeg" alt="Cover for TEA" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>Tea</td>
+      <td>TEA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 50</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+      </td>
+      <td>1974</td>
+      <td>Titus Oates</td>
+      <td>Jungle Lady</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://i.discogs.com/SiS594J0eBscNYBkyCUCEKoHball5TpsQVAtbr4VzN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTA4/OS0xMjg3MzQwMzQx/LmpwZWc.jpeg" alt="Cover for The Wildest Organ in Town - Club Meeting" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>Billy Preston</td>
+      <td>The Wildest Organ in Town - Club Meeting</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+      </td>
+      <td>1974</td>
+      <td>Atlantis Philharmonic</td>
+      <td>Atlantis Philharmonic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td>1974</td>
+      <td>Duncan Mackay</td>
+      <td>Chimera</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td>1974</td>
+      <td>Faithful Breath</td>
+      <td>Fading Beauty</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>1974</td>
+      <td>Satin Whale</td>
+      <td>Desert Places</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/565e1727cf1447969bba7cfa5e86df3a.png" alt="Cover for Kad bi&#39; bio bijelo dugme" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974-11-11</td>
+      <td>Bijelo Dugme</td>
+      <td>Kad bi&#39; bio bijelo dugme</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/a2LnK83tOul6Ggr72GWediHtOdfHfW55d9KWyRENf8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI3/MzAtMTM3NjI0NDgz/Ny0zMzQ5LmpwZWc.jpeg" alt="Cover for Night On Bald Mountain" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975</td>
+      <td>Fireballet</td>
+      <td>Night On Bald Mountain</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/3Iins0tp6FyO3dvyXdkXge4ODqmXlM71eTVsy1Tg4iU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzAz/MC0xMzUyMTM4MDU5/LTc0NzkuanBlZw.jpeg" alt="Cover for J&#39;un Oeil" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1975-12</td>
+      <td>Sloche</td>
+      <td>J&#39;un Oeil</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 60</li>
+            <li> <a href="{{ "/tags/canterbury" | relative_url }}">canterbury</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/XW5yKpuF1yNbZ8EcVPnGvID1HzumSeF8EdNbOb0rFHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTI0/NC0xMzE4MDY2ODM5/LmpwZWc.jpeg" alt="Cover for Ekseption Plays Bach" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1978</td>
+      <td>Ekseption</td>
+      <td>Ekseption Plays Bach</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 12</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/f6-hYnvgUoKUd_V6fmUH0UenuQlClxWb6R6ZwwKHtGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDc3/MC0xNDI2MTI4OTgz/LTI0NTUuanBlZw.jpeg" alt="Cover for Too Damn Hot" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1979</td>
+      <td>Lonnie Smith</td>
+      <td>Too Damn Hot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/O1LDgjxHr_-A8LKBQw-Eas0UAyQ0_1OYrUrNEFmVbBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTM5/My0xMzM5NzM3Nzgx/LTE0NzEuanBlZw.jpeg" alt="Cover for Disco Funk Fever" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Rick James</td>
+      <td>Disco Funk Fever</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam" | relative_url }}">jam</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/motown" | relative_url }}">motown</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/LqazbuW1uyhYppcazwRAFxRa3Pe57lVE0d_sZsSk9qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDYw/NS0xMTg3Mjg1NTM1/LmpwZWc.jpeg" alt="Cover for Dillinger" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Dillinger</td>
+      <td>Dillinger</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for Hammond Street" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Various Artists</td>
+      <td>Hammond Street</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/dS97XKRVYn9qi0krAPbmkYX77jeA3oN2TD28c3b0VEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDQw/My0xMTc0ODA3MzMw/LmpwZWc.jpeg" alt="Cover for The Complete Ohio Players On Mercury Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Ohio Players</td>
+      <td>The Complete Ohio Players On Mercury Vol. 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/ZBC8rVJppXLrFHG_8ey3Bv3p9kJ3bQM52OzC0xZ5ONo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI5/Mzc0LTE0OTAzOTYw/NDgtNTEzNi5qcGVn.jpeg" alt="Cover for Музыка во вселенной" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Zodiac</td>
+      <td>Музыка во вселенной</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/FjI7TP7s4yMxE13cAevxRnkY1AQLAwWYUgQtdLrTTL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzcy/OC0xMzAwMDY3MDYz/LmdpZg.jpeg" alt="Cover for Natt" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Thule</td>
+      <td>Natt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norsk" | relative_url }}">norsk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/norsk" | relative_url }}">norsk</a> # 81</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td>1989</td>
+      <td>Albert Hammond</td>
+      <td>Best of Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/_QJiszc_z7RK4y0pxwdzdDeH4EwuigTLScoViQc2JKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjc1/MjAtMTQxNDIyOTQx/OC04OTMyLmpwZWc.jpeg" alt="Cover for The Cat &amp; Other Great Themes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Jimmy Smith</td>
+      <td>The Cat &amp; Other Great Themes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/NwBS1oHlINkH3unNnihxeYItsoVWA5MqpFIHqolgTX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjI0/ODItMTM5MDUxNDQw/NS03NDg1LmpwZWc.jpeg" alt="Cover for Live at the 5 Spot" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Joey DeFrancesco</td>
+      <td>Live at the 5 Spot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-organ" | relative_url }}">jazz organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 19</li>
+            <li> <a href="{{ "/tags/jazz-organ" | relative_url }}">jazz organ</a> # 32</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Pär Lindh Project</td>
+      <td>Gothic Impressions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/Cpuhwya-0aepUplxPz4AIPi_p3SJPZ3M0HKEwvQdXHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzUz/MDAtMTI4MTEwMzQ3/Ni5qcGVn.jpeg" alt="Cover for Power of the Picts" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Writing On the Wall</td>
+      <td>Power of the Picts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Jimmy Smith</td>
+      <td>Damn!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td>1995-06-30</td>
+      <td>Joey DeFrancesco</td>
+      <td>The Street Of Dreams</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-organ" | relative_url }}">jazz organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-organ" | relative_url }}">jazz organ</a> # 9</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>1996-07-30</td>
+      <td>Jimmy Smith</td>
+      <td>Talkin&#39; Verve: Roots Of Acid Jazz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/A2GXhP2rHtAv-JmJ3j5XzBTjp3RcnsNfQ8GuTP9un_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzYy/NzEtMTYzNTAxMDc5/Ni03ODAwLmpwZWc.jpeg" alt="Cover for Vanderhoof" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Vanderhoof</td>
+      <td>Vanderhoof</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Sinkadus</td>
+      <td>Aurum Nostrum</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/rer__DzCAmmLdQue39daEdl-whpkMStqm6RhIK3C8_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjg0/NTEtMTIyNjI2MjM0/Ny5qcGVn.jpeg" alt="Cover for Tyburn Tall" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Tyburn Tall</td>
+      <td>Tyburn Tall</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/ikQa5YIcwRgtqtlxFTi2e-aGyLB7XXTy5oBwyHrxLgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTc1/NTgtMTM5NzA1NTc1/Ni03MzQ1LmpwZWc.jpeg" alt="Cover for Money Machine" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Bigelf</td>
+      <td>Money Machine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/840xeIcflLtoZmxCcb_ykKXmPJlzOaEAoYI1UY5l0R0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjYw/NTUtMTY4OTUyNDI3/Ni0zODE5LmpwZWc.jpeg" alt="Cover for London Underground" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>London Underground</td>
+      <td>London Underground</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://i.discogs.com/iWkSapo3FUVIc9gBT9vFRx-PfAA2mLfufc3LyJnqvzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzQw/My0xMTgyMjg5MTg4/LmdpZg.jpeg" alt="Cover for Humanize" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-03-13</td>
+      <td>Big Boss Man</td>
+      <td>Humanize</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/BQtuI6bLobE1KR8Hv_LI-988TAZ8W2lk7r2I8B3pXio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU3/MTMtMTMwMjc1NDA4/Ni5qcGVn.jpeg" alt="Cover for The Richmond Sluts" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-04-03</td>
+      <td>The Richmond Sluts</td>
+      <td>The Richmond Sluts</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf" | relative_url }}">surf</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/vlhyE9qeQAao7rL4VrNN1Pp0injxP_7-ywyQx6a1GYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDk5/MDAtMTQ5ODY2MjA5/NC04MTk5LmpwZWc.jpeg" alt="Cover for Afrodesia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Lonnie Smith</td>
+      <td>Afrodesia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-organ" | relative_url }}">jazz organ</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-organ" | relative_url }}">jazz organ</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/qlVGKeEGupey1OxS15KTk8Gmn9S0B7O2FWdq91ecfAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDI0/NDctMTI5MjY2OTc4/MS5qcGVn.jpeg" alt="Cover for Whalefeathers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Whalefeathers</td>
+      <td>Whalefeathers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td>2002</td>
+      <td>Mad Curry</td>
+      <td>Mad Curry</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/tL3TDkO2tAifwDMefiZwJOhX-pjZsDqaNn0l60DKJcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzcw/MDktMTI3MTUzNjU0/NS5qcGVn.jpeg" alt="Cover for McPhee" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>McPhee</td>
+      <td>McPhee</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/australian" | relative_url }}">australian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/l-6rzQ-cOUBSIT8RrEGD1LHf3yePH_1YQCXIspPqbq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODY3/LTE2NDk3Nzc3ODIt/ODA2OS5qcGVn.jpeg" alt="Cover for Überjam" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>The John Scofield Band</td>
+      <td>Überjam</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/HIRlaneSfesViHzd9gUFVVgBzBjGJ2dLPjv6CqzrSHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDA2/MS0xMzU0NjQxNDE4/LTYwMjguanBlZw.jpeg" alt="Cover for The Bongolian" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-02-18</td>
+      <td>The Bongolian</td>
+      <td>The Bongolian</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/6ycefUARbO31RTSTt7UU9ZZCX9WQfcTZHVu1AyeciTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTcz/NDktMTYwNDY4NzE0/My0yNjQwLmpwZWc.jpeg" alt="Cover for Tomorrow&#39;s Blues" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Colosseum</td>
+      <td>Tomorrow&#39;s Blues</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a35e8e995db4142afbf81f0a52fa66e.png" alt="Cover for Every Inch Man" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Zior</td>
+      <td>Every Inch Man</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>2003-09-25</td>
+      <td>Birth Control</td>
+      <td>Alsatian</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/qZtcJzVNrXcx_uy_YYhVzO3vIcHzJfGmpLWnTDe8le8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTIx/NDQtMTM3MDcxODAx/Ni01MzAwLmpwZWc.jpeg" alt="Cover for Sursum Corda" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-11-01</td>
+      <td>Quill</td>
+      <td>Sursum Corda</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/AP9CQwHxznyJcKAsesHjfyfnnpOH8DMDlrJTHBsMuoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYx/OTgtMTIyNDA4Mzkx/NS5qcGVn.jpeg" alt="Cover for Winner" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-04-04</td>
+      <td>Big Boss Man</td>
+      <td>Winner</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Joey DeFrancesco</td>
+      <td>LIVE: The &quot;Authorized Bootleg&quot;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-organ" | relative_url }}">jazz organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-organ" | relative_url }}">jazz organ</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/ZE17ahmkApW5P9Va8Z_QWfrv5KKg5PzF86chx5wvk1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDE1/NDktMTQxNDM0MDUx/OS0yNjAwLmpwZWc.jpeg" alt="Cover for Crossroad" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Apple Pie</td>
+      <td>Crossroad</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>2007-07-10</td>
+      <td>Papa Grows Funk</td>
+      <td>Mr Patterson&#39;s Hat</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 52</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/61bO64A-xuyhaVSkZXbi1uLmf3B60qh0HgfOXPTTi_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTg4/NTctMTQxNTM0ODg0/My0xNzczLmpwZWc.jpeg" alt="Cover for All Or Nothing At All" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-08-07</td>
+      <td>Joey DeFrancesco</td>
+      <td>All Or Nothing At All</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/WofjI4VAar5xTWGUrFfM4O7lWyM5AvNHoaSxaniO2w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzg1/MTQtMTI0NjkwMTk0/NS5qcGVn.jpeg" alt="Cover for The Origin Of Captain Hammond" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-11-13</td>
+      <td>Captain Hammond</td>
+      <td>The Origin Of Captain Hammond</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/2baY7jvptSRoOHTrmJMYyRsGGeztONR9J_r83btVoe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzcw/NDQtMTQ3ODUyODkx/OC02ODAzLmpwZWc.jpeg" alt="Cover for Chain of Foods" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Anti-Depressive Delivery</td>
+      <td>Chain of Foods</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for Hip Hammond And Soulful Grooves" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Various Artists</td>
+      <td>Hip Hammond And Soulful Grooves</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-organ" | relative_url }}">jazz organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-organ" | relative_url }}">jazz organ</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/KTVT_YBceJO8GGShR_vnf7NX1eTHGmKFXKc0-yiH6qc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTAy/MDQtMTQxNTI3ODgw/Mi00NzEwLmpwZWc.jpeg" alt="Cover for The Marmalade Sessions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Sven Hammond</td>
+      <td>The Marmalade Sessions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+      </td>
+      <td>2010-04-02</td>
+      <td>Sven Hammond Soul</td>
+      <td>The Marmalade Sessions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+      </td>
+      <td>2011</td>
+      <td>Three Seasons</td>
+      <td>Life&#39;s Road</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://i.discogs.com/2EEriP1N0-vn2D6055MUfu4mZYGqkCrk2FQuRSo-zFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODU2/NzctMTM3MzYyMzAy/MC0yNzY4LmpwZWc.jpeg" alt="Cover for Ekseption 5" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Ekseption</td>
+      <td>Ekseption 5</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/R_Hl1ybJN_8-yzQ4U4hvlD2lB-vzDOZYe1KMNNgc5zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzYz/NjYtMTMzODI5OTY5/OS0xNzg2LmpwZWc.jpeg" alt="Cover for Gin Lady" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-05-30</td>
+      <td>Gin Lady</td>
+      <td>Gin Lady</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/rOU3KX7NyLUJYXUEE-lkchuSh-69BX03h8j1y3a8TAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTUw/MDc2LTE1Mjk0MzQw/NDUtODQ5MS5qcGVn.jpeg" alt="Cover for Toy Tunes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-05-04</td>
+      <td>Larry Goldings, Peter Bernstein, Bill Stewart</td>
+      <td>Toy Tunes</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/qsRWv5u7L1BPm8bvwXpLBqEDBkXmy_SzT3mwdDsnNx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTc2/OS0xNjYzNDg5OTA5/LTM1ODkuanBlZw.jpeg" alt="Cover for Moon Rappin&#39;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-05-27</td>
+      <td>Jack McDuff</td>
+      <td>Moon Rappin&#39;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/cGKZ0eh0RUPjgQsKz8LLBEeygXIJwXDF4Dh1_wl4qWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDc1/MTYtMTM5Nzg5NDk3/MC0xMzEzLmpwZWc.jpeg" alt="Cover for Deadeye" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024-04-05</td>
+      <td>Reinier Baas</td>
+      <td>Deadeye</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jecks</td>
+      <td>Juice Box</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam" | relative_url }}">jam</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 16</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Camera Sintetica</td>
+      <td>Venetia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choir" | relative_url }}">choir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 8</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 18</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 38</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jecks</td>
+      <td>The Acid Side of Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam" | relative_url }}">jam</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jack Langevelt&#39;s Survival</td>
+      <td>Crusader</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bcf168c511e4ec0adb5058aeadb6936.png" alt="Cover for WeeD" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Weed</td>
+      <td>WeeD</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Jivecrank</td>
+      <td>The JiveCrank</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
@@ -124,5 +2103,5 @@ Last updated: <time datetime="2025-10-29T07:49:39.381Z">Wed Oct 29 2025 09:49:39
 - [funk]({{ "/tags/funk" | relative_url }})
 - [classic rock]({{ "/tags/classic-rock" | relative_url }})
 - [blues]({{ "/tags/blues" | relative_url }})
-- [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [symphonic rock]({{ "/tags/symphonic-rock" | relative_url }})
+- [hard rock]({{ "/tags/hard-rock" | relative_url }})

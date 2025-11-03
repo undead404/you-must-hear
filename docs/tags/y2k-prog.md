@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T07:42:39.028Z
+date: 2025-11-03T08:33:51.658Z
 permalink: tags/y2k-prog
 title: y2k prog
 ---
 
 ## y2k prog
 
-Last updated: <time datetime="2025-10-29T07:42:39.028Z">Wed Oct 29 2025 09:42:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T08:33:51.658Z">Mon Nov 03 2025 10:33:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -254,6 +254,24 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       <td>2002-08</td>
       <td>Pez</td>
       <td>El sol detrás del sol</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Hypnos 69</td>
+      <td>Promise of a New Moon</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
@@ -722,7 +740,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td>2009-07-28</td>
@@ -756,7 +774,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/W0m_0XeY-zX5ng76K2TTMb-vubujX5E3tm9TZxFBR1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODY2/ODAtMTUxODQyMDA2/OS01NzM3LmpwZWc.jpeg" alt="Cover for Urskog" style="max-width:120px; height:auto;" />
       </td>
@@ -1165,7 +1183,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2014</td>
@@ -1401,7 +1419,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
       </td>
       <td>2017</td>
@@ -1593,26 +1611,6 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a36fb1a1fed2e37c456a935a7c76e90a.png" alt="Cover for Eye of the Stygian Witches" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018</td>
-      <td>Ashbury</td>
-      <td>Eye of the Stygian Witches</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>19</td>
       <td>
           <img src="https://i.discogs.com/5lSdi10XPL-Ex_bfxAfg9ZXfZnuhEdB0t5emUYfZvIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA2/MzQ2LTE1MTU3Nzg5/MTItMzE3OC5qcGVn.jpeg" alt="Cover for Seventeen" style="max-width:120px; height:auto;" />
@@ -1736,7 +1734,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
       </td>
       <td>2019</td>
@@ -1754,7 +1752,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2019-04-12</td>

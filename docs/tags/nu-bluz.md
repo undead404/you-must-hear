@@ -9,6 +9,10 @@ title: nu-bluz
 
 Last updated: <time datetime="2025-11-03T03:22:51.025Z">Mon Nov 03 2025 05:22:51 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Nu-bluz represents a modern reimagining of blues sensibilities through electronic, downtempo, and soulful production techniques that emerged in the 2000s. The tag encompasses atmospheric, mood-driven tracks that blend traditional blues emotion with contemporary dance music, trip-hop, and sophisticated electronic arrangements. It captures a nocturnal, introspective quality where vintage soul meets cutting-edge production.
+
 ### 100 chronological releases
 
 <table>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T04:45:29.101Z
+date: 2025-11-03T09:01:51.056Z
 permalink: tags/seattle
 title: seattle
 ---
 
 ## seattle
 
-Last updated: <time datetime="2025-10-31T04:45:29.101Z">Fri Oct 31 2025 06:45:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T09:01:51.056Z">Mon Nov 03 2025 11:01:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Seattle music generally refers to the music scene and subcultures that originate
   </thead>
   <tbody>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/hjdC4skDq44Y5Y3D7y78yE2-LdTqNyljA_C670yEeqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzQ0/MTgzLTE2MzI0MzMz/NDEtNDAyNy5qcGVn.jpeg" alt="Cover for The Way" style="max-width:120px; height:auto;" />
       </td>
@@ -53,7 +53,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c680ce1e0091898d99c792ae7799783e.png" alt="Cover for Ultramega OK" style="max-width:120px; height:auto;" />
       </td>
@@ -71,7 +71,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/WYfqElIIXr3TI83_Y3Ezn9I5Z_lDv8K7_x8CUQ8_IWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTM5/MjMtMTQwNTg3MTc0/MS0xNzcwLmpwZWc.jpeg" alt="Cover for Singles" style="max-width:120px; height:auto;" />
       </td>
@@ -90,7 +90,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/N4g5OcqSguysx8vFAqNzy9OvNHdp5bHnoecIIHykOFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjAy/NjMtMTQxMDU0MTky/Ni02Mjg5LmpwZWc.jpeg" alt="Cover for Prague Live 5.09.2005 (Glitterhouse Mailorder Only!)" style="max-width:120px; height:auto;" />
       </td>
@@ -147,7 +147,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4874aada7d1653194665bce225194b3c.png" alt="Cover for Dry As A Bone&#x2F;Rehab Doll" style="max-width:120px; height:auto;" />
       </td>
@@ -161,12 +161,12 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 22</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dfa0959e9534f8dcfd24d5dc5110589.png" alt="Cover for Ten" style="max-width:120px; height:auto;" />
       </td>
@@ -176,18 +176,17 @@ Seattle music generally refers to the music scene and subcultures that originate
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 18</li>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 99</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 36</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/YN3ybHLotXGGNU_jm_DbLmyeLzz29Eema5RP4Zj6mxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzc4/Ni0xNTc3NDU0MDI2/LTY4MDMuanBlZw.jpeg" alt="Cover for Lost Terrain" style="max-width:120px; height:auto;" />
       </td>
@@ -229,7 +228,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>1992-07</td>
@@ -247,7 +246,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
       </td>
       <td>1992-11-10</td>
@@ -260,28 +259,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 26</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a46c458f71ecfd9906afc1e04bc146dc.png" alt="Cover for So Far Under" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Alice in Chains</td>
-      <td>So Far Under</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -306,7 +284,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec8239af89114c4c822965903428c252.png" alt="Cover for Numb" style="max-width:120px; height:auto;" />
       </td>
@@ -327,7 +305,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a88ba9074ff142a1bd5238d00e504944.png" alt="Cover for Shame" style="max-width:120px; height:auto;" />
       </td>
@@ -345,7 +323,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/qAueyi5pkzoEg3Gjl3DUvt_XBLvYCorRxw2uMJdtwpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDU5/MjktMTM2NjgxNDM1/My01OTM0LmpwZWc.jpeg" alt="Cover for Away From The World (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -387,7 +365,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/peuWf1IqcoKeB_0B1_wCqG3ISHqQcN2G1IT_NwxDnjo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDkz/NTktMTQxNjE4NTQ5/NS01NDA2LmpwZWc.jpeg" alt="Cover for You Can Feel the Love in This Room" style="max-width:120px; height:auto;" />
       </td>
@@ -406,7 +384,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/12681022e13875b2da04140d125e8694.png" alt="Cover for EDC" style="max-width:120px; height:auto;" />
       </td>
@@ -426,7 +404,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/UY9Tx7a0ML-q1QAMG5IvzPJQXnrjoAXi0laUm3L1egU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzQ3/OTMtMTI1OTg3NTA1/MC5qcGVn.jpeg" alt="Cover for Vs. (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -447,7 +425,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/3-RJjLOR8PI4pLATOaBuZ_lJitWaU4MACwTQE1lgWic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjA0/NDEtMTMzMTgzMjk0/OC5qcGVn.jpeg" alt="Cover for Above (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -465,7 +443,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4526c6a7d73143b7812e3831aa38bda2.png" alt="Cover for Above" style="max-width:120px; height:auto;" />
       </td>
@@ -479,12 +457,12 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 76</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>1995-03-14</td>
@@ -501,7 +479,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/j_-ab2kiILbtvyAHz_PO5k75pITKvvnizogL6I8AsuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjIw/MzMtMTM5NTM2Nzkx/Mi01Mzg0LmpwZWc.jpeg" alt="Cover for Kings &amp; Queens" style="max-width:120px; height:auto;" />
       </td>
@@ -524,7 +502,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>1997-01-28</td>
@@ -543,7 +521,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
       </td>
       <td>1997-05-05</td>
@@ -582,7 +560,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/hjdC4skDq44Y5Y3D7y78yE2-LdTqNyljA_C670yEeqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzQ0/MTgzLTE2MzI0MzMz/NDEtNDAyNy5qcGVn.jpeg" alt="Cover for Livin Like That" style="max-width:120px; height:auto;" />
       </td>
@@ -606,7 +584,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
       </td>
       <td>1998-09-11</td>
@@ -646,7 +624,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/ZroDEfX7FHgGFl-PopGMo5el5G8HHDXHL4QlKX4kfUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTcy/ODAtMTQwMDUyMDE3/MC00OTM2LmpwZWc.jpeg" alt="Cover for March To Fuzz - Disk 1 Best Of" style="max-width:120px; height:auto;" />
       </td>
@@ -667,16 +645,17 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>1</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a17e9deca2dde73c6eda6c3490b7579b.png" alt="Cover for Winners Never Quit" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/BjZLxZIykJJ2hgty4f2ey2_5Z6FNa2AghdaWmDkLdqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA4/MDItMTMwMDgyMzQ0/Ni5qcGVn.jpeg" alt="Cover for The Rockfords" style="max-width:120px; height:auto;" />
       </td>
-      <td>2000-03-28</td>
-      <td>Pedro the Lion</td>
-      <td>Winners Never Quit</td>
+      <td>2000-01-25</td>
+      <td>The Rockfords</td>
+      <td>The Rockfords</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a></li>
         </ul>
       </td>
@@ -686,7 +665,26 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a17e9deca2dde73c6eda6c3490b7579b.png" alt="Cover for Winners Never Quit" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-03-28</td>
+      <td>Pedro the Lion</td>
+      <td>Winners Never Quit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
       </td>
       <td>2000-07-31</td>
@@ -704,7 +702,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2001-07-11</td>
@@ -744,7 +742,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/4_Kt_uqMs8daPZ_5wCyiVHrx0aoOJg8IMenW5U2f1jU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDA4/NTQtMTMxMzI5MDYw/NC5qcGVn.jpeg" alt="Cover for Monster Zero" style="max-width:120px; height:auto;" />
       </td>
@@ -802,7 +800,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>2002-08-20</td>
@@ -819,7 +817,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2002-11-25</td>
@@ -837,7 +835,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/RLJQMce4p8Y9ceUNRDm7I64Q5tEPXvlapIky6a26R7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzcy/ODA1LTE1MjcyNjQ3/NjctNTE0MS5qcGVn.jpeg" alt="Cover for Classic Masters" style="max-width:120px; height:auto;" />
       </td>
@@ -875,7 +873,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/s5I4Y3qKFOhAiS4fFW52SMLrp38uMPsAgI5QTCYTVyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzQ4/NS0xNDg5Nzk5NjI3/LTg2NDUuanBlZw.jpeg" alt="Cover for Blue Scholars" style="max-width:120px; height:auto;" />
       </td>
@@ -892,7 +890,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d54545d16cf4c2e871cfb216097a4a4.png" alt="Cover for Love Everybody" style="max-width:120px; height:auto;" />
       </td>
@@ -949,7 +947,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/XA3ZpWw_cio_0TDPZsQVIQsfbsohU0QQdn_UajmBoUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDU5/MC0xMTgxOTQyNzU2/LmpwZWc.jpeg" alt="Cover for Frost Giant" style="max-width:120px; height:auto;" />
       </td>
@@ -983,7 +981,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/AbB1h7To4aHiON5LSC0HbDlBLHPSoSv4uE-oDWq2g_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjA3/MjYtMTM4NDYzMzE0/Ny0yMTkzLmpwZWc.jpeg" alt="Cover for Reverberated For Your Pleasure" style="max-width:120px; height:auto;" />
       </td>
@@ -1010,7 +1008,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/gBnKBcRnouq15Vqe7Eiv0exr0RN6uP0ERREhBdJrzWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Njgy/NTQtMTUwNDIwMDI1/Ni02Mjk5LmpwZWc.jpeg" alt="Cover for The Purrs" style="max-width:120px; height:auto;" />
       </td>
@@ -1030,7 +1028,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2006</td>
@@ -1050,7 +1048,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/l-201kPbzzyCQZhr8IiTEKRe_MTfLqTsykWLweYvMn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzA5/NjYtMTI0Njg0OTc5/Ny5qcGVn.jpeg" alt="Cover for Random Portraits of the Home Movie" style="max-width:120px; height:auto;" />
       </td>
@@ -1092,7 +1090,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
       </td>
       <td>2007-02-06</td>
@@ -1127,7 +1125,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2007-06-12</td>
@@ -1143,7 +1141,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/cKddnO4HYm1-hyZtiBOnDe6h_2zGFWybSYQfjgQiaeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODgy/NS0xMTgyNDQ1MTIx/LmpwZWc.jpeg" alt="Cover for A Long And Ugly Road (European edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1168,7 +1166,7 @@ Seattle music generally refers to the music scene and subcultures that originate
         <ul>
             <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 2</li>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 18</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 26</li>
             <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 51</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 64</li>
             <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 74</li>
@@ -1178,7 +1176,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
       </td>
       <td>2007-09-25</td>
@@ -1195,7 +1193,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/ryeyWIsYs7z4YuhjbKWm2fi-X0aRRmHn-JsynIg_ja0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODE5/MjYtMTQ2MDUxMjE5/Ny05ODcyLmpwZWc.jpeg" alt="Cover for With Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1215,7 +1213,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
       </td>
       <td>2008-01-22</td>
@@ -1275,7 +1273,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/DK2NTAMP7QLKKmbWZ0abFW-6b5wnChvwTz3UE8WkLKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY4/MjItMTQyMzEyMTIw/OC0zNjU4LmpwZWc.jpeg" alt="Cover for 1104" style="max-width:120px; height:auto;" />
       </td>
@@ -1295,7 +1293,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13aba56d3c9141b29850bb395e9a0b91.png" alt="Cover for The Lucky Ones" style="max-width:120px; height:auto;" />
       </td>
@@ -1334,7 +1332,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29d6ccec723bc875e1037082bc3cbf05.png" alt="Cover for Long Gone" style="max-width:120px; height:auto;" />
       </td>
@@ -1392,7 +1390,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c2c7235d48443e1a84338030ca6e0d9.png" alt="Cover for Backspacer" style="max-width:120px; height:auto;" />
       </td>
@@ -1405,12 +1403,12 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 9</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2adb451766284650a55bb9dbab8f3d83.png" alt="Cover for Live At El Sol" style="max-width:120px; height:auto;" />
       </td>
@@ -1468,7 +1466,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/oQGn35MS5FlfI77arLDKvZFcBCTvHz0P0_SKv_tQEEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODU4/MTYtMTI2MzE1OTEy/MC5qcGVn.jpeg" alt="Cover for Break On Through EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1517,7 +1515,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/tbsa3Ebt2BuKSdlXyaBtwZv49ZIzhh0UpgDuky_YHno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNjM1/NTktMTQxMjY1MTMy/NS01ODM4LmpwZWc.jpeg" alt="Cover for My Goodness" style="max-width:120px; height:auto;" />
       </td>
@@ -1537,7 +1535,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/99wvv0ESNlNCyzG6cjFBA7uOJUNXo-teAbq26AtrDrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTkw/MjAtMTQxMzUzNDEw/Mi0yOTA0LmpwZWc.jpeg" alt="Cover for Warsaw" style="max-width:120px; height:auto;" />
       </td>
@@ -1557,7 +1555,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
       </td>
       <td>2011-03</td>
@@ -1578,7 +1576,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>2011-04-18</td>
@@ -1617,7 +1615,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/qzRYdDiLiHnugInscxEQHD_U7C0EH4iRwaVJE3UjN3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzE5/ODMtMTMxNzI0NTM2/NS5qcGVn.jpeg" alt="Cover for The Ornament" style="max-width:120px; height:auto;" />
       </td>
@@ -1637,7 +1635,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2011-12-06</td>
@@ -1655,7 +1653,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/5lv0YrMrSSH6qxxXNf6-0mR3ZhBAKag08IJRvVits6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzE3/NjktMTM1OTIyMTQw/OC03NzU1LmpwZWc.jpeg" alt="Cover for Paper Thin" style="max-width:120px; height:auto;" />
       </td>
@@ -1673,7 +1671,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5d2a5e90777410592618abccc04c113.png" alt="Cover for History Speaks" style="max-width:120px; height:auto;" />
       </td>
@@ -1691,7 +1689,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
       </td>
       <td>2012-04-17</td>
@@ -1728,7 +1726,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2012-10-16</td>
@@ -1747,7 +1745,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td>2012-10-30</td>
@@ -1766,7 +1764,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2012-11-19</td>
@@ -1897,7 +1895,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/yOL5DDXZOdRLADgOLI__a2xeJuwSkT6cbSkvUroW_F8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MDYx/ODUtMTQ4MTc1Mjcz/OC02ODI1LmpwZWc.jpeg" alt="Cover for Twelve" style="max-width:120px; height:auto;" />
       </td>
@@ -1921,7 +1919,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/fuGQbgpMWa3uFuT11y36Wn0bL6pKr2TzXVFf_A3oYXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI3/ODgzLTE2MDQ5MzE0/MzEtOTg0NC5qcGVn.jpeg" alt="Cover for vs. &amp; Vitalogy 3 CD Deluxe Edition (Featuring Live At The Orpheum, Boston MA)" style="max-width:120px; height:auto;" />
       </td>
@@ -1983,7 +1981,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td></td>
