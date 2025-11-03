@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T20:46:51.810Z
+date: 2025-11-03T06:38:30.853Z
 permalink: tags/waltz
 title: waltz
 ---
 
 ## waltz
 
-Last updated: <time datetime="2025-11-01T20:46:51.810Z">Sat Nov 01 2025 22:46:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T06:38:30.853Z">Mon Nov 03 2025 08:38:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -913,7 +913,7 @@ Last updated: <time datetime="2025-11-01T20:46:51.810Z">Sat Nov 01 2025 22:46:51
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2009-08-06</td>
@@ -1485,15 +1485,20 @@ Last updated: <time datetime="2025-11-01T20:46:51.810Z">Sat Nov 01 2025 22:46:51
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td></td>
-      <td>Kiyotsugu Arai</td>
-      <td>Chopin Piano Pieces</td>
+      <td>Florian Behnsen</td>
+      <td>At the end of the world</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choir" | relative_url }}">choir</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a></li>
         </ul>
       </td>

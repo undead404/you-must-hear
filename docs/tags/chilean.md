@@ -9,110 +9,2210 @@ title: chilean
 
 Last updated: <time datetime="2025-10-28T14:14:55.959Z">Tue Oct 28 2025 16:14:55 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Chilean music blends Andean folk traditions with rock, pop, and nueva canción, reflecting the country&#39;s complex political history and geographic isolation. The sound often features poetic Spanish lyrics addressing social themes, combined with both traditional instruments and contemporary production. From politically charged rock to introspective indie pop, Chilean music carries a distinctive melancholic yet resilient spirit shaped by the nation&#39;s cultural identity.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 17 |  |  | Los CosmoParlantez | Los Cosmoparlantez |
-| 21 |  |  | Los Amigos De María | Rock |
-| 42 |  |  | Fashionless | ¿Cuánto vale tu show? |
-| 55 |  | 1972 | Víctor Jara | La población |
-| 46 | ![Cover](https://i.discogs.com/cZbYRAdq4sFD7P_FSrlHhFIDjq4Tpb_Vmxb76yz1JD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Nzk2/MDQtMTM3ODMxODEy/MS0xNzU5LmpwZWc.jpeg) | 1973-09 | Víctor Jara | Canto por travesura |
-| 85 |  | 1984 | Los Jaivas | Obras de Violeta Parra |
-| 91 | ![Cover](https://i.discogs.com/XaJFpYkXxF5kxxsl6Jb5QZNbbw5sIIxXlnvS6nZdwy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjY3/NDktMTU0OTk3MzQ2/OS01MzA5LmpwZWc.jpeg) | 1988 | La Ley | La ley |
-| 3 | ![Cover](https://i.discogs.com/y31VIFHMzVvH-cPNqFndS-f6J0h6RUgxK-11Lr7ukcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODQw/NjQtMTYxOTAzNjk3/MS0xNDUzLmpwZWc.jpeg) | 1990 | Unsilent | Obscure &amp; Profane |
-| 27 | ![Cover](https://i.discogs.com/A-sijVq1s_mYAbdk-U_TqOfIWQvwZSv_uUGVHVaZJuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDE2/MDMtMTQ2NjYyNzIy/OC0xMDQ4LmpwZWc.jpeg) | 1990 | Betrayed | 1879 Tales of War |
-| 30 | ![Cover](https://i.discogs.com/KIs54TAad4sN24I4d37Iw8asRV8ISzl3s-ZqjMHoMsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDE4/NzQ5LTE2NTg5NjA0/ODgtNTkyNi5qcGVn.jpeg) | 1990 | Borderline | Malas Influencias |
-| 82 |  | 1990 | Los Prisioneros | Corazones |
-| 97 | ![Cover](https://i.discogs.com/u3UwEqri9NZVa5xoGxJLP4wI23HctwBC9EwCMq2m9-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDAz/OC0xNTQ5OTc0MjM1/LTM4OTYuanBlZw.jpeg) | 1990 | La Ley | Doble opuesto |
-| 99 | ![Cover](https://i.discogs.com/j4TMeEV8pSMtsnbEGPosru3Wun80AbMKl8OJo1eyUlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI1/NzEtMTU2NTI4MTg4/MS0zNTY3LmpwZWc.jpeg) | 1990 | Los Prisioneros | Coleccion Suprema |
-| 53 |  | 1993 | Jorge González | Jorge González |
-| 66 | ![Cover](https://i.discogs.com/vs7GhG5dPNuw_0Qj_MFCcrxV5HFYvVs_YVj7aTZZAPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDQ4/NTUtMTQ3MTk3Mjky/OC0yNDc1LmpwZWc.jpeg) | 1993 | Víctor Jara | Canto Libre |
-| 89 | ![Cover](https://i.discogs.com/4nq-VhFpsbJzatFbg83n2950mcYMHv6ZMQ3pkSQEk2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjUx/MTgtMTM4MjY3MjYz/MS04OTA0LmpwZWc.jpeg) | 1993 | Jorge Gonzalez | Jorge Gonzalez |
-| 76 | ![Cover](https://i.discogs.com/Xnd9WB1cKLGTbHsDuXBDsdoMtnA7t9gc8fFPz5iOgX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDMx/MjctMTQ3Mzc3OTUy/NC00MTY0LmpwZWc.jpeg) | 1994 | Víctor Jara | El derecho de vivir en paz |
-| 98 |  | 1994 | Los Jaivas | Los Jaivas |
-| 94 |  | 1995-06 | Joe Vasconcellos | Toque |
-| 47 | ![Cover](https://i.discogs.com/Lyz15dQYR9IRx5RETyS4e8N2B3f90Ns8HUhIX7H4jZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODE4/MDItMTQ2MjUyMTEx/MS03MzA3LmpwZWc.jpeg) | 1997 | Sien | UNO |
-| 69 |  | 1997 | Solar | Play |
-| 44 | ![Cover](https://i.discogs.com/WRLUcOAz-4b_ehutsIUXvrNBV_uKJUI5twtQZ83mUOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDQz/NDctMTQxMTE3NDA1/NC00MDkxLmpwZWc.jpeg) | 1998 | Nicole | APT. |
-| 77 | ![Cover](https://i.discogs.com/-8EV6duWj8mJADCVM2aAq9l7U1KeKB5a25sTcZCfMdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjEw/MTYtMTIzOTEyNjMx/OS5qcGVn.jpeg) | 1998 | La Ley | Vértigo |
-| 70 |  | 1998-02-17 | La Ley | Vertigo |
-| 5 | ![Cover](https://i.discogs.com/3HZUlrZYS9ky-oozSrEX1QFuVKdrNVB6NPO3Qz--Xd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjA5/MzUtMTQxMTU3NzQx/MS0yMDY5LmpwZWc.jpeg) | 1999 | Su | Frutos de la madriguera |
-| 7 | ![Cover](https://i.discogs.com/VmmW1rPEcITztyFNQ_ah3rp-igDsY0rWYaZAA3lkLpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjg2/LTEyMDE1MDkyNzku/anBlZw.jpeg) | 1999 | Fahrenheit | Lados-B |
-| 52 | ![Cover](https://i.discogs.com/AmUU0m4ecTc3zZnG9R0hrbww6NT_h0eVXP9WBqJNqjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTA2/MzAtMTQ0Mjk2NzY0/Ny01NTIzLmpwZWc.jpeg) | 1999 | Violeta Parra | Composiciones Para Guitarra |
-| 58 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4ad7d887efa74b90cb69f1ad0e3b44e9.png) | 2000-10 | Pentagram | Pentagram |
-| 72 | ![Cover](https://i.discogs.com/pKs4_xrz75zFjx8Jv0n6eC9CpHxwfX9HwwW64wGBCm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjEz/MTItMTUzOTgwMjAw/NC02NDM2LmpwZWc.jpeg) | 2001-05 | Borderline | Cortocircuito |
-| 73 | ![Cover](https://i.discogs.com/Co19cBX0cTfaxnGbZACGwSUbl-lvOva1WxDUgMDOV_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTc1/MjMtMTMwNjIzNDMx/NS5qcGVn.jpeg) | 2001-05 | Borderline | Ordenlibre |
-| 71 | ![Cover](https://i.discogs.com/lSTmhhTZ5n_jBRdDILy9VVo0DzqofWBMvTkyQQEa1Es/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTgw/MDktMTMyMDUwMDg5/NS5qcGVn.jpeg) | 2002-04-14 | Hetroertzen | Flying Across the Misty Gardens |
-| 49 | ![Cover](https://i.discogs.com/YBbkNVCW4flezsOZnE5TK5CmRX6PBvWNjN9t4NYcA0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTkw/Mzc4LTE1NjU2MjQx/NzctNjUwMi5qcGVn.jpeg) | 2003 | Upa! | Creo que voy a morir |
-| 59 | ![Cover](https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg) | 2003 | Various Artists | Neurotyka 2999 vol. 1 |
-| 57 |  | 2003-12-24 | Hetroertzen | A Crimson Terrible Vision |
-| 60 | ![Cover](https://i.discogs.com/3_zz2IiJu8DzwjjzId3vd0t_RxzgVOLMzhN7EQSDPfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDM0/MDQ4LTE1ODU3ODg3/NjItMjU4My5qcGVn.jpeg) | 2004 | AndXpress | La Miss Chile |
-| 78 | ![Cover](https://i.discogs.com/yxDz84XxZL_zz_6mJZdOuvJ2GKHPYJyThMSLnicxC4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTUw/MTEtMTM1Mzc0MzM5/Mi0zNzU3LmpwZWc.jpeg) | 2004-03-01 | Fahrenheit | Chain Reaction |
-| 96 |  | 2004-11-30 | La Ley | Historias E Histeria |
-| 8 | ![Cover](https://i.discogs.com/AWFO6piBbiuvPy19BH9XjpAmfogK8UbEP2TWNqUZD5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDcx/NzQtMTI3MjE3MDQy/My5qcGVn.jpeg) | 2005 | Golem | Vivo (compilacion no oficial) |
-| 10 | ![Cover](https://i.discogs.com/AWFO6piBbiuvPy19BH9XjpAmfogK8UbEP2TWNqUZD5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDcx/NzQtMTI3MjE3MDQy/My5qcGVn.jpeg) | 2005 | Golem | Remixes (compilado no oficial) |
-| 12 | ![Cover](https://i.discogs.com/fvURBDhE9zlC5gC5X5Nl_xzKZCVPt9Bo5STx3002HSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY5/NzEtMTQ0NzY5Mjcy/OC04MDY4LmpwZWc.jpeg) | 2005 | Sadism | Tribulated Bells - Darkside |
-| 20 |  | 2005 | Tri-polar | Tripolar |
-| 35 | ![Cover](https://i.discogs.com/gNCwD1xXeHauevDFd9spwyzL_ugnEOFKJjbnj1F2wvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDcx/ODEtMTI3MjE3MTA5/Ni5qcGVn.jpeg) | 2005 | Sonica | Yo Soy Yo |
-| 48 | ![Cover](https://i.discogs.com/gNCwD1xXeHauevDFd9spwyzL_ugnEOFKJjbnj1F2wvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDcx/ODEtMTI3MjE3MTA5/Ni5qcGVn.jpeg) | 2005 | Sonica | Otro Lugar |
-| 63 |  | 2005-03-29 | Pánico | Subliminal Kill |
-| 100 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/fee204d425050f049d89ed9271eee47b.png) | 2005-09-08 | Los Bunkers | Vida de Perros |
-| 93 |  | 2005-11-04 | Gepe | Gepinto |
-| 23 | ![Cover](https://i.discogs.com/Vx0dsRbDoQuI5chUeOVQUffTkvj4N7Eq5NqSy4tkgk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzIy/Ny0xMTM3ODYwMTMw/LmpwZWc.jpeg) | 2005-12 | Antarctica | Antarctica |
-| 31 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/dcdb5ac23989291fa3cc69d365424e53.png) | 2006 | Fahrenheit | Nuevos Tiempos |
-| 37 | ![Cover](https://i.discogs.com/mxFwP1hXD-AKs84IJ-H5zr5TDeC-8c2sYk2kzX5AGVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDU0/MDE5LTE2MTY5NTkz/NTItMjc3MC5qcGVn.jpeg) | 2006 | Desierto Florido | Goosfraba |
-| 50 | ![Cover](https://i.discogs.com/cGVQsqflagrSI4BqVPqV_a2HIAPKXD2j58weNChLJ7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM2/NTg4LTE0OTk0NDQy/ODMtMzY2NS5qcGVn.jpeg) | 2006 | Niñoboy | Niñoboy |
-| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3c9561893d3bd917987a2b82096dd328.png) | 2006 | Emociones Clandestinas | Abajo En La Costanera |
-| 86 |  | 2006-10-05 | Javiera Mena | Esquemas juveniles |
-| 26 | ![Cover](https://i.discogs.com/pKs4_xrz75zFjx8Jv0n6eC9CpHxwfX9HwwW64wGBCm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjEz/MTItMTUzOTgwMjAw/NC02NDM2LmpwZWc.jpeg) | 2007 | Borderline | El Rey Lagarto |
-| 40 | ![Cover](https://i.discogs.com/xAyeJoa-wcCIlEvEKoB-0NoHDJQZpEc9DqeFEid152g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDUy/ODI5LTE2NzExODYw/MzktOTYwMS5qcGVn.jpeg) | 2008 | Periferia | Aires Nuevos |
-| 90 |  | 2008 | Gepe | Hungría |
-| 34 | ![Cover](https://i.discogs.com/TErnlFGoVHsNv36wVPQgS8Dd-2go_4XW8-OiRXbD-W0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQy/OTUzLTE1Njg2MzI3/ODQtMzc4MC5qcGVn.jpeg) | 2008-03-15 | Jorge González | Vengo a enamorarte |
-| 65 | ![Cover](https://i.discogs.com/qE2juJflsIjXqC-j6bLaF8ro2_ostKTyK9td5wNGogE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDYx/NDEtMTI2OTc4NTk0/NS5qcGVn.jpeg) | 2009 | Fernando Milagros | Por su atención gracias |
-| 92 |  | 2009 | Camila Moreno | Almismotiempo |
-| 39 | ![Cover](https://i.discogs.com/0c9Vu2IryFD1ONX3kDqLfrYZauxRPzSjnw_NRo6V8rM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTEw/ODgtMTI3MDA2MTIw/Ni5qcGVn.jpeg) | 2009-04 | Jerome and Sylvie | Family Recordings for All Purposes |
-| 41 | ![Cover](https://i.discogs.com/0c9Vu2IryFD1ONX3kDqLfrYZauxRPzSjnw_NRo6V8rM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTEw/ODgtMTI3MDA2MTIw/Ni5qcGVn.jpeg) | 2009-04 | Jerome and Sylvie | Re |
-| 25 | ![Cover](https://i.discogs.com/lD82FmoXEqYESz6arOYfFKSoHLGWJO81mHW2Pq723AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjM1/NzEtMTMyNzQyOTg4/My5qcGVn.jpeg) | 2012 | Mythomaniacs Are Right | There Is No Such Thing As Death, Life Is Only A Dream And We Are The Imagination Of Ourselves |
-| 33 | ![Cover](https://i.discogs.com/dqILLcW-skDQnHr7gyi5XRnWpIUSAXZVGCCdlia_66c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjc1/NTMtMTM4NTg0MzIy/OC0xMzY0LmpwZWc.jpeg) | 2012 | Escombros | Escombros |
-| 54 | ![Cover](https://i.discogs.com/yX42cZMJL133K7r5AqoZJLIxKN5_tB5wgRUMRnZT-YM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzU0/MTY2LTE2Mzk1Mjcw/MDEtNjg3Mi5qcGVn.jpeg) | 2012-03-28 | Polter | POLTER |
-| 15 | ![Cover](https://i.discogs.com/cWbvcHNPKtLM7TtUz3rS0EpobLxMsHQ8HLuC-er4570/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzcz/NjQtMTQ0NjAwNTE0/My05MjU4LmpwZWc.jpeg) | 2012-05-07 | Asterion | Zerzura |
-| 16 | ![Cover](https://i.discogs.com/WXmpxwQw0KxRm0ysy-gfFmYU2S6EsvghYqVrVy2gqFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTY0/NTYtMTQyNDAzMzg3/OC05MzYwLmpwZWc.jpeg) | 2012-09-21 | Undercroft | Ruins of Gomorrah (feat. L.G. Petrov, Matti Kärki, Tobias Sidegard, Erik Danielsson) |
-| 4 | ![Cover](https://i.discogs.com/f67JnhRvQSeM6w0ay8uvxnqziMDJW5Kl2b7E6WAgURg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTEy/MDA1LTE3MjQwMDQx/MjktODE3OC5qcGVn.jpeg) | 2013 | Borderline | Colaboraciones |
-| 95 | ![Cover](https://i.discogs.com/hQSVJpHWQQ8YZqxk2NQ013P4X-loIhItWuijO07Yk54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkz/NjAxLTE1MTkwNzQy/ODAtODIzOC5qcGVn.jpeg) | 2013 | Tus Amigos Nuevos | NO SÍ SON |
-| 81 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/3b3de92a607f4fb3bbedf3551c188879.png) | 2013-01-22 | The Holydrug Couple | Noctuary |
-| 83 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/43b0e8cd8d8742db4695fbea5d10a8c2.png) | 2013-01-22 | Föllakzoid | II |
-| 74 | ![Cover](https://i.discogs.com/SuUbOUiLV8Px344UaHLnDN8k6WSvqOgRMQs1MkzfLWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYw/NjAxLTE2Mjg5NTky/ODQtNDc4Mi5qcGVn.jpeg) | 2013-08-12 | Hauyon | huida |
-| 38 |  | 2014-02-06 | LvxCælis | Slaughtering of the Lamb |
-| 56 | ![Cover](https://i.discogs.com/QmHUiQLgX5cI8E2k65zS0OEzoLlQO7aGdcyeK4QNYwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTY4/NDYtMTMyMDA2OTgz/NS5qcGVn.jpeg) | 2014-02-07 | Pentagram | The Malefice |
-| 79 | ![Cover](https://i.discogs.com/Jc_EmJDhF61vKs71XrjmzJCuJA782U4J421RN7goM6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzIy/NDQtMTQzNjczMDAy/MC05NTc5LmpwZWc.jpeg) | 2015 | Fernando Milagros | vacaciones en el patio de mi casa |
-| 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c6d0b921ceb8c2a0f1b62bd13d9aba4a.png) | 2015-06-04 | Camila Moreno | Mala Madre |
-| 75 | ![Cover](https://i.discogs.com/2CDCgSl1UlcUGhZ_Y2VwdlCChjF8DRJV0tyoUCf5DHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjYw/NDczLTE2MzQ3MDA5/OTUtODE1OS5qcGVn.jpeg) | 2016-01-27 | Alex Anwandter | Siempre Es Viernes en Mi Corazón |
-| 2 | ![Cover](https://i.discogs.com/GT7nPrreSGA5MUrIAGlO9rZox0KZGpaZ0fxGtpGbYVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODYw/MjQtMTM4NDEwMjcy/Ni02MjU1LmpwZWc.jpeg) | 2017 | Pedropiedra | 31 Minutos - Yo Nunca Vi Television |
-| 29 | ![Cover](https://i.discogs.com/F2J6z5awk6280ZQP3PgjlkNoGFeyvbDF0-4DDsp2_T8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcz/NTA0LTE1MDU3MzQ0/NzktNzk1Ny5qcGVn.jpeg) | 2017-03-01 | ROTTEN TOMB | Necropolis |
-| 13 | ![Cover](https://i.discogs.com/oJ9yfPhU5vuH9iR8YACzcHi0EEn_nOIzJp1y0InhJk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk5/MzcxLTE0OTY2Nzg1/MDItNjI0OS5qcGVn.jpeg) | 2017-03-05 | Speedhammer | Hooded Metal |
-| 84 | ![Cover](https://i.discogs.com/lKIskCp7u7ukwr0f9spGk9X0pxxoG-MLhOULxUJvA1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzU4/MjYtMTQ4OTUyMTky/MS0yNzI5LmpwZWc.jpeg) | 2017-03-24 | trementina | 810 |
-| 14 | ![Cover](https://i.discogs.com/-x_f1zgYzvfMwFQFnT8UXT5ZiWw5SN7ZdT0iqx8ZlfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIy/Njc2LTE1MzA4MjA3/MTAtOTM4Ni5qcGVn.jpeg) | 2017-11-06 | ROTTEN TOMB | Eternal Cycle Of Death |
-| 11 | ![Cover](https://i.discogs.com/UuZ7JnJ9Ct_OS_Tnwq0LBvNa1t4p1Gqvw3rro7QEqGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjIx/NzU5LTE1MjE4MzI2/NzctOTEwMC5qcGVn.jpeg) | 2017-11-10 | Defeater | Endless Ray |
-| 18 |  |  | Alejandro Varela | Colores Primarios |
-| 64 | ![Cover](https://i.discogs.com/NYbuow4ytraP1jUStdI9lOSp8ZVVOJ9wWLP_JE9dDbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDIw/NDg2LTE2MTQ3NjU2/NzAtODM1OC5qcGVn.jpeg) | 2018-05-18 | Hetroertzen | Flying Across the Misty Garden |
-| 19 | ![Cover](https://i.discogs.com/1EyCZQmma1wGooPb_6lSui2LnFZHixip2x6uxFikxC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgz/ODM0LTE1NDc3NTg1/MTktMzUyMi5qcGVn.jpeg) | 2019-01-13 | Polter | MODERNO |
-| 22 |  |  | Bálticos | Demo |
-| 45 | ![Cover](https://i.discogs.com/Y4WeuxJGRz7mYU2-KWmfOT6woFAOHgXKl1b6yk3NT1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjQ2/ODYtMTQzMTkzNTc3/NS0yMDE2LmpwZWc.jpeg) | 2015 | Matias Pizarro | Pelo De Rata |
-| 24 | ![Cover](https://i.discogs.com/ANrEJsdPf6hQXX6On4Lr5Q2O4HXmCU64T-eiAD_lKOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA4/NDU1LTE0OTg5MDAz/NTktNTc3MS5qcGVn.jpeg) | 2016-06-08 | Patio Solar | NMC: Pop de Guitarras en Chile |
-| 28 |  |  | jmprojectone | ESPACIOS FRACTALES |
-| 43 | ![Cover](https://i.discogs.com/uYLtEUImrKB3-qxRfcKGwtu9EmiidYcOx9eMnyM-g3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTUz/NDgtMTI3MjY0MDA5/NS5qcGVn.jpeg) | 2018-01-07 | Golem | Pausa |
-| 32 | ![Cover](https://i.discogs.com/1EyCZQmma1wGooPb_6lSui2LnFZHixip2x6uxFikxC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgz/ODM0LTE1NDc3NTg1/MTktMzUyMi5qcGVn.jpeg) | 2019-01-13 | Polter | Demo 2002 |
-| 9 | ![Cover](https://i.discogs.com/_AZvEhCiTl1GYsafBYoI-ql0a09a3TDMiNLRUEzj-qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzQ2/MDUyLTE2MTI5NDk3/MDYtNDAwNS5qcGVn.jpeg) | 2020 | Decessus | Deliverance |
-| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d4e0741faf2ceb5957000a5a67d8ee81.png) | 2021-03-30 | Iron Spell | Electric Conjuring |
-| 88 | ![Cover](https://i.discogs.com/JTZt7liDqjZulkea_ZaIe5C3Lx0FQGIAVKx4NDg6uSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjE2/ODQtMTQ3NjkxNDA1/Ny00MzUyLmpwZWc.jpeg) | 2021-08-27 | Fármacos | Manual de una Pérdida |
-| 1 | ![Cover](https://i.discogs.com/-ILG-LxSKmmA0KB6QYQjuLUMq8MhvF0GWtgwtGFkIX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDAx/OTY0LTE2NDY1Mjcz/NjMtNzkyMi5qcGVn.jpeg) | 2022 | CHICHARRON | Estrella Tropical |
-| 61 | ![Cover](https://i.discogs.com/F15GMu0YBe5Kp2R29C-7b9YAXsHb5u3aeedB8c8T68o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc1/NjY2LTE2NDYzNDA0/NTUtMjI0OC5qcGVn.jpeg) | 2022-03-01 | ROTTEN TOMB | Visions Of A Dismal Fate |
-| 51 | ![Cover](https://i.discogs.com/b-QjHWvn1_CBj8CZwptsnmVq21JhqH46lwnDKopIOu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjIz/NzYwLTE2OTc1NzA0/MDktMTExNi5qcGVn.jpeg) | 2023-09-15 | Vórtize | Desde Bajo Tierra |
-| 67 |  |  | Los Casablancas | Los Casablancas |
-| 68 |  |  | Los Mac&#39;s | Kaleidoscope Men |
-| 6 |  | 2022 | Various Artists | Chile: Hispano-Chilean Metisse Traditional Music |
-| 80 |  | 2024-07-26 | Mayhemic | TOBA |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td>1972</td>
+      <td>Víctor Jara</td>
+      <td>La población</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/cZbYRAdq4sFD7P_FSrlHhFIDjq4Tpb_Vmxb76yz1JD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Nzk2/MDQtMTM3ODMxODEy/MS0xNzU5LmpwZWc.jpeg" alt="Cover for Canto por travesura" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973-09</td>
+      <td>Víctor Jara</td>
+      <td>Canto por travesura</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>1984</td>
+      <td>Los Jaivas</td>
+      <td>Obras de Violeta Parra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 29</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 73</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/XaJFpYkXxF5kxxsl6Jb5QZNbbw5sIIxXlnvS6nZdwy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjY3/NDktMTU0OTk3MzQ2/OS01MzA5LmpwZWc.jpeg" alt="Cover for La ley" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>La Ley</td>
+      <td>La ley</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 48</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 63</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 73</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 87</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Los Prisioneros</td>
+      <td>Corazones</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 89</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 93</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/u3UwEqri9NZVa5xoGxJLP4wI23HctwBC9EwCMq2m9-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDAz/OC0xNTQ5OTc0MjM1/LTM4OTYuanBlZw.jpeg" alt="Cover for Doble opuesto" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>La Ley</td>
+      <td>Doble opuesto</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 67</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 80</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 85</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/j4TMeEV8pSMtsnbEGPosru3Wun80AbMKl8OJo1eyUlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI1/NzEtMTU2NTI4MTg4/MS0zNTY3LmpwZWc.jpeg" alt="Cover for Coleccion Suprema" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Los Prisioneros</td>
+      <td>Coleccion Suprema</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/y31VIFHMzVvH-cPNqFndS-f6J0h6RUgxK-11Lr7ukcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODQw/NjQtMTYxOTAzNjk3/MS0xNDUzLmpwZWc.jpeg" alt="Cover for Obscure &amp; Profane" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Unsilent</td>
+      <td>Obscure &amp; Profane</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/A-sijVq1s_mYAbdk-U_TqOfIWQvwZSv_uUGVHVaZJuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDE2/MDMtMTQ2NjYyNzIy/OC0xMDQ4LmpwZWc.jpeg" alt="Cover for 1879 Tales of War" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Betrayed</td>
+      <td>1879 Tales of War</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/KIs54TAad4sN24I4d37Iw8asRV8ISzl3s-ZqjMHoMsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDE4/NzQ5LTE2NTg5NjA0/ODgtNTkyNi5qcGVn.jpeg" alt="Cover for Malas Influencias" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Borderline</td>
+      <td>Malas Influencias</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Jorge González</td>
+      <td>Jorge González</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 21</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 53</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/vs7GhG5dPNuw_0Qj_MFCcrxV5HFYvVs_YVj7aTZZAPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDQ4/NTUtMTQ3MTk3Mjky/OC0yNDc1LmpwZWc.jpeg" alt="Cover for Canto Libre" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Víctor Jara</td>
+      <td>Canto Libre</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/4nq-VhFpsbJzatFbg83n2950mcYMHv6ZMQ3pkSQEk2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjUx/MTgtMTM4MjY3MjYz/MS04OTA0LmpwZWc.jpeg" alt="Cover for Jorge Gonzalez" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Jorge Gonzalez</td>
+      <td>Jorge Gonzalez</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 41</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 49</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 68</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/Xnd9WB1cKLGTbHsDuXBDsdoMtnA7t9gc8fFPz5iOgX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDMx/MjctMTQ3Mzc3OTUy/NC00MTY0LmpwZWc.jpeg" alt="Cover for El derecho de vivir en paz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Víctor Jara</td>
+      <td>El derecho de vivir en paz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Los Jaivas</td>
+      <td>Los Jaivas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>1995-06</td>
+      <td>Joe Vasconcellos</td>
+      <td>Toque</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 55</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 71</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 79</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 92</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Solar</td>
+      <td>Play</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/Lyz15dQYR9IRx5RETyS4e8N2B3f90Ns8HUhIX7H4jZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODE4/MDItMTQ2MjUyMTEx/MS03MzA3LmpwZWc.jpeg" alt="Cover for UNO" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Sien</td>
+      <td>UNO</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/-8EV6duWj8mJADCVM2aAq9l7U1KeKB5a25sTcZCfMdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjEw/MTYtMTIzOTEyNjMx/OS5qcGVn.jpeg" alt="Cover for Vértigo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>La Ley</td>
+      <td>Vértigo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 42</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 61</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://i.discogs.com/WRLUcOAz-4b_ehutsIUXvrNBV_uKJUI5twtQZ83mUOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDQz/NDctMTQxMTE3NDA1/NC00MDkxLmpwZWc.jpeg" alt="Cover for APT." style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Nicole</td>
+      <td>APT.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td>1998-02-17</td>
+      <td>La Ley</td>
+      <td>Vertigo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 36</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://i.discogs.com/3HZUlrZYS9ky-oozSrEX1QFuVKdrNVB6NPO3Qz--Xd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjA5/MzUtMTQxMTU3NzQx/MS0yMDY5LmpwZWc.jpeg" alt="Cover for Frutos de la madriguera" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Su</td>
+      <td>Frutos de la madriguera</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/VmmW1rPEcITztyFNQ_ah3rp-igDsY0rWYaZAA3lkLpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjg2/LTEyMDE1MDkyNzku/anBlZw.jpeg" alt="Cover for Lados-B" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Fahrenheit</td>
+      <td>Lados-B</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/AmUU0m4ecTc3zZnG9R0hrbww6NT_h0eVXP9WBqJNqjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTA2/MzAtMTQ0Mjk2NzY0/Ny01NTIzLmpwZWc.jpeg" alt="Cover for Composiciones Para Guitarra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Violeta Parra</td>
+      <td>Composiciones Para Guitarra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ad7d887efa74b90cb69f1ad0e3b44e9.png" alt="Cover for Pentagram" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000-10</td>
+      <td>Pentagram</td>
+      <td>Pentagram</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/pKs4_xrz75zFjx8Jv0n6eC9CpHxwfX9HwwW64wGBCm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjEz/MTItMTUzOTgwMjAw/NC02NDM2LmpwZWc.jpeg" alt="Cover for Cortocircuito" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-05</td>
+      <td>Borderline</td>
+      <td>Cortocircuito</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/Co19cBX0cTfaxnGbZACGwSUbl-lvOva1WxDUgMDOV_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTc1/MjMtMTMwNjIzNDMx/NS5qcGVn.jpeg" alt="Cover for Ordenlibre" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001-05</td>
+      <td>Borderline</td>
+      <td>Ordenlibre</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/lSTmhhTZ5n_jBRdDILy9VVo0DzqofWBMvTkyQQEa1Es/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTgw/MDktMTMyMDUwMDg5/NS5qcGVn.jpeg" alt="Cover for Flying Across the Misty Gardens" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-04-14</td>
+      <td>Hetroertzen</td>
+      <td>Flying Across the Misty Gardens</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/YBbkNVCW4flezsOZnE5TK5CmRX6PBvWNjN9t4NYcA0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTkw/Mzc4LTE1NjU2MjQx/NzctNjUwMi5qcGVn.jpeg" alt="Cover for Creo que voy a morir" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Upa!</td>
+      <td>Creo que voy a morir</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Neurotyka 2999 vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Various Artists</td>
+      <td>Neurotyka 2999 vol. 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 13</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 25</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>2003-12-24</td>
+      <td>Hetroertzen</td>
+      <td>A Crimson Terrible Vision</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/3_zz2IiJu8DzwjjzId3vd0t_RxzgVOLMzhN7EQSDPfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDM0/MDQ4LTE1ODU3ODg3/NjItMjU4My5qcGVn.jpeg" alt="Cover for La Miss Chile" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>AndXpress</td>
+      <td>La Miss Chile</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/yxDz84XxZL_zz_6mJZdOuvJ2GKHPYJyThMSLnicxC4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTUw/MTEtMTM1Mzc0MzM5/Mi0zNzU3LmpwZWc.jpeg" alt="Cover for Chain Reaction" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-03-01</td>
+      <td>Fahrenheit</td>
+      <td>Chain Reaction</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>2004-11-30</td>
+      <td>La Ley</td>
+      <td>Historias E Histeria</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 63</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 77</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/gNCwD1xXeHauevDFd9spwyzL_ugnEOFKJjbnj1F2wvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDcx/ODEtMTI3MjE3MTA5/Ni5qcGVn.jpeg" alt="Cover for Yo Soy Yo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Sonica</td>
+      <td>Yo Soy Yo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 7</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/gNCwD1xXeHauevDFd9spwyzL_ugnEOFKJjbnj1F2wvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDcx/ODEtMTI3MjE3MTA5/Ni5qcGVn.jpeg" alt="Cover for Otro Lugar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Sonica</td>
+      <td>Otro Lugar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 16</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/AWFO6piBbiuvPy19BH9XjpAmfogK8UbEP2TWNqUZD5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDcx/NzQtMTI3MjE3MDQy/My5qcGVn.jpeg" alt="Cover for Vivo (compilacion no oficial)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Golem</td>
+      <td>Vivo (compilacion no oficial)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/AWFO6piBbiuvPy19BH9XjpAmfogK8UbEP2TWNqUZD5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDcx/NzQtMTI3MjE3MDQy/My5qcGVn.jpeg" alt="Cover for Remixes (compilado no oficial)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Golem</td>
+      <td>Remixes (compilado no oficial)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/fvURBDhE9zlC5gC5X5Nl_xzKZCVPt9Bo5STx3002HSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY5/NzEtMTQ0NzY5Mjcy/OC04MDY4LmpwZWc.jpeg" alt="Cover for Tribulated Bells - Darkside" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Sadism</td>
+      <td>Tribulated Bells - Darkside</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Tri-polar</td>
+      <td>Tripolar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td>2005-03-29</td>
+      <td>Pánico</td>
+      <td>Subliminal Kill</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fee204d425050f049d89ed9271eee47b.png" alt="Cover for Vida de Perros" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-09-08</td>
+      <td>Los Bunkers</td>
+      <td>Vida de Perros</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 90</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 97</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td>2005-11-04</td>
+      <td>Gepe</td>
+      <td>Gepinto</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/Vx0dsRbDoQuI5chUeOVQUffTkvj4N7Eq5NqSy4tkgk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzIy/Ny0xMTM3ODYwMTMw/LmpwZWc.jpeg" alt="Cover for Antarctica" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-12</td>
+      <td>Antarctica</td>
+      <td>Antarctica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+          <img src="https://i.discogs.com/mxFwP1hXD-AKs84IJ-H5zr5TDeC-8c2sYk2kzX5AGVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDU0/MDE5LTE2MTY5NTkz/NTItMjc3MC5qcGVn.jpeg" alt="Cover for Goosfraba" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Desierto Florido</td>
+      <td>Goosfraba</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://i.discogs.com/cGVQsqflagrSI4BqVPqV_a2HIAPKXD2j58weNChLJ7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM2/NTg4LTE0OTk0NDQy/ODMtMzY2NS5qcGVn.jpeg" alt="Cover for Niñoboy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Niñoboy</td>
+      <td>Niñoboy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 18</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 36</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c9561893d3bd917987a2b82096dd328.png" alt="Cover for Abajo En La Costanera" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Emociones Clandestinas</td>
+      <td>Abajo En La Costanera</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcdb5ac23989291fa3cc69d365424e53.png" alt="Cover for Nuevos Tiempos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Fahrenheit</td>
+      <td>Nuevos Tiempos</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>2006-10-05</td>
+      <td>Javiera Mena</td>
+      <td>Esquemas juveniles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 15</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/pKs4_xrz75zFjx8Jv0n6eC9CpHxwfX9HwwW64wGBCm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjEz/MTItMTUzOTgwMjAw/NC02NDM2LmpwZWc.jpeg" alt="Cover for El Rey Lagarto" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Borderline</td>
+      <td>El Rey Lagarto</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Gepe</td>
+      <td>Hungría</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 61</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/xAyeJoa-wcCIlEvEKoB-0NoHDJQZpEc9DqeFEid152g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDUy/ODI5LTE2NzExODYw/MzktOTYwMS5qcGVn.jpeg" alt="Cover for Aires Nuevos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Periferia</td>
+      <td>Aires Nuevos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/TErnlFGoVHsNv36wVPQgS8Dd-2go_4XW8-OiRXbD-W0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQy/OTUzLTE1Njg2MzI3/ODQtMzc4MC5qcGVn.jpeg" alt="Cover for Vengo a enamorarte" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-03-15</td>
+      <td>Jorge González</td>
+      <td>Vengo a enamorarte</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 6</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>2009</td>
+      <td>Camila Moreno</td>
+      <td>Almismotiempo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trova" | relative_url }}">trova</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 65</li>
+            <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/qE2juJflsIjXqC-j6bLaF8ro2_ostKTyK9td5wNGogE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDYx/NDEtMTI2OTc4NTk0/NS5qcGVn.jpeg" alt="Cover for Por su atención gracias" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Fernando Milagros</td>
+      <td>Por su atención gracias</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/0c9Vu2IryFD1ONX3kDqLfrYZauxRPzSjnw_NRo6V8rM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTEw/ODgtMTI3MDA2MTIw/Ni5qcGVn.jpeg" alt="Cover for Family Recordings for All Purposes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-04</td>
+      <td>Jerome and Sylvie</td>
+      <td>Family Recordings for All Purposes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/0c9Vu2IryFD1ONX3kDqLfrYZauxRPzSjnw_NRo6V8rM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTEw/ODgtMTI3MDA2MTIw/Ni5qcGVn.jpeg" alt="Cover for Re" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-04</td>
+      <td>Jerome and Sylvie</td>
+      <td>Re</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/lD82FmoXEqYESz6arOYfFKSoHLGWJO81mHW2Pq723AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjM1/NzEtMTMyNzQyOTg4/My5qcGVn.jpeg" alt="Cover for There Is No Such Thing As Death, Life Is Only A Dream And We Are The Imagination Of Ourselves" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Mythomaniacs Are Right</td>
+      <td>There Is No Such Thing As Death, Life Is Only A Dream And We Are The Imagination Of Ourselves</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 16</li>
+            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/dqILLcW-skDQnHr7gyi5XRnWpIUSAXZVGCCdlia_66c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjc1/NTMtMTM4NTg0MzIy/OC0xMzY0LmpwZWc.jpeg" alt="Cover for Escombros" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Escombros</td>
+      <td>Escombros</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/yX42cZMJL133K7r5AqoZJLIxKN5_tB5wgRUMRnZT-YM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzU0/MTY2LTE2Mzk1Mjcw/MDEtNjg3Mi5qcGVn.jpeg" alt="Cover for POLTER" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-03-28</td>
+      <td>Polter</td>
+      <td>POLTER</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 22</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+          <img src="https://i.discogs.com/cWbvcHNPKtLM7TtUz3rS0EpobLxMsHQ8HLuC-er4570/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzcz/NjQtMTQ0NjAwNTE0/My05MjU4LmpwZWc.jpeg" alt="Cover for Zerzura" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-05-07</td>
+      <td>Asterion</td>
+      <td>Zerzura</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/WXmpxwQw0KxRm0ysy-gfFmYU2S6EsvghYqVrVy2gqFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTY0/NTYtMTQyNDAzMzg3/OC05MzYwLmpwZWc.jpeg" alt="Cover for Ruins of Gomorrah (feat. L.G. Petrov, Matti Kärki, Tobias Sidegard, Erik Danielsson)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-09-21</td>
+      <td>Undercroft</td>
+      <td>Ruins of Gomorrah (feat. L.G. Petrov, Matti Kärki, Tobias Sidegard, Erik Danielsson)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/hQSVJpHWQQ8YZqxk2NQ013P4X-loIhItWuijO07Yk54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTkz/NjAxLTE1MTkwNzQy/ODAtODIzOC5qcGVn.jpeg" alt="Cover for NO SÍ SON" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Tus Amigos Nuevos</td>
+      <td>NO SÍ SON</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 72</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/f67JnhRvQSeM6w0ay8uvxnqziMDJW5Kl2b7E6WAgURg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTEy/MDA1LTE3MjQwMDQx/MjktODE3OC5qcGVn.jpeg" alt="Cover for Colaboraciones" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Borderline</td>
+      <td>Colaboraciones</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43b0e8cd8d8742db4695fbea5d10a8c2.png" alt="Cover for II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-01-22</td>
+      <td>Föllakzoid</td>
+      <td>II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 58</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b3de92a607f4fb3bbedf3551c188879.png" alt="Cover for Noctuary" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-01-22</td>
+      <td>The Holydrug Couple</td>
+      <td>Noctuary</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/SuUbOUiLV8Px344UaHLnDN8k6WSvqOgRMQs1MkzfLWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODYw/NjAxLTE2Mjg5NTky/ODQtNDc4Mi5qcGVn.jpeg" alt="Cover for huida" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-08-12</td>
+      <td>Hauyon</td>
+      <td>huida</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td>2014-02-06</td>
+      <td>LvxCælis</td>
+      <td>Slaughtering of the Lamb</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/QmHUiQLgX5cI8E2k65zS0OEzoLlQO7aGdcyeK4QNYwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTY4/NDYtMTMyMDA2OTgz/NS5qcGVn.jpeg" alt="Cover for The Malefice" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-02-07</td>
+      <td>Pentagram</td>
+      <td>The Malefice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/Y4WeuxJGRz7mYU2-KWmfOT6woFAOHgXKl1b6yk3NT1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjQ2/ODYtMTQzMTkzNTc3/NS0yMDE2LmpwZWc.jpeg" alt="Cover for Pelo De Rata" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Matias Pizarro</td>
+      <td>Pelo De Rata</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/Jc_EmJDhF61vKs71XrjmzJCuJA782U4J421RN7goM6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzIy/NDQtMTQzNjczMDAy/MC05NTc5LmpwZWc.jpeg" alt="Cover for vacaciones en el patio de mi casa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Fernando Milagros</td>
+      <td>vacaciones en el patio de mi casa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6d0b921ceb8c2a0f1b62bd13d9aba4a.png" alt="Cover for Mala Madre" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-06-04</td>
+      <td>Camila Moreno</td>
+      <td>Mala Madre</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/2CDCgSl1UlcUGhZ_Y2VwdlCChjF8DRJV0tyoUCf5DHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjYw/NDczLTE2MzQ3MDA5/OTUtODE1OS5qcGVn.jpeg" alt="Cover for Siempre Es Viernes en Mi Corazón" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-01-27</td>
+      <td>Alex Anwandter</td>
+      <td>Siempre Es Viernes en Mi Corazón</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/ANrEJsdPf6hQXX6On4Lr5Q2O4HXmCU64T-eiAD_lKOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA4/NDU1LTE0OTg5MDAz/NTktNTc3MS5qcGVn.jpeg" alt="Cover for NMC: Pop de Guitarras en Chile" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-06-08</td>
+      <td>Patio Solar</td>
+      <td>NMC: Pop de Guitarras en Chile</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/GT7nPrreSGA5MUrIAGlO9rZox0KZGpaZ0fxGtpGbYVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODYw/MjQtMTM4NDEwMjcy/Ni02MjU1LmpwZWc.jpeg" alt="Cover for 31 Minutos - Yo Nunca Vi Television" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Pedropiedra</td>
+      <td>31 Minutos - Yo Nunca Vi Television</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/F2J6z5awk6280ZQP3PgjlkNoGFeyvbDF0-4DDsp2_T8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcz/NTA0LTE1MDU3MzQ0/NzktNzk1Ny5qcGVn.jpeg" alt="Cover for Necropolis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-03-01</td>
+      <td>ROTTEN TOMB</td>
+      <td>Necropolis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+          <img src="https://i.discogs.com/oJ9yfPhU5vuH9iR8YACzcHi0EEn_nOIzJp1y0InhJk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk5/MzcxLTE0OTY2Nzg1/MDItNjI0OS5qcGVn.jpeg" alt="Cover for Hooded Metal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-03-05</td>
+      <td>Speedhammer</td>
+      <td>Hooded Metal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/lKIskCp7u7ukwr0f9spGk9X0pxxoG-MLhOULxUJvA1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzU4/MjYtMTQ4OTUyMTky/MS0yNzI5LmpwZWc.jpeg" alt="Cover for 810" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-03-24</td>
+      <td>trementina</td>
+      <td>810</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/-x_f1zgYzvfMwFQFnT8UXT5ZiWw5SN7ZdT0iqx8ZlfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjIy/Njc2LTE1MzA4MjA3/MTAtOTM4Ni5qcGVn.jpeg" alt="Cover for Eternal Cycle Of Death" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-11-06</td>
+      <td>ROTTEN TOMB</td>
+      <td>Eternal Cycle Of Death</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/UuZ7JnJ9Ct_OS_Tnwq0LBvNa1t4p1Gqvw3rro7QEqGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjIx/NzU5LTE1MjE4MzI2/NzctOTEwMC5qcGVn.jpeg" alt="Cover for Endless Ray" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-11-10</td>
+      <td>Defeater</td>
+      <td>Endless Ray</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/uYLtEUImrKB3-qxRfcKGwtu9EmiidYcOx9eMnyM-g3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTUz/NDgtMTI3MjY0MDA5/NS5qcGVn.jpeg" alt="Cover for Pausa" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-01-07</td>
+      <td>Golem</td>
+      <td>Pausa</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 26</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 44</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/NYbuow4ytraP1jUStdI9lOSp8ZVVOJ9wWLP_JE9dDbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDIw/NDg2LTE2MTQ3NjU2/NzAtODM1OC5qcGVn.jpeg" alt="Cover for Flying Across the Misty Garden" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-05-18</td>
+      <td>Hetroertzen</td>
+      <td>Flying Across the Misty Garden</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/1EyCZQmma1wGooPb_6lSui2LnFZHixip2x6uxFikxC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgz/ODM0LTE1NDc3NTg1/MTktMzUyMi5qcGVn.jpeg" alt="Cover for MODERNO" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-01-13</td>
+      <td>Polter</td>
+      <td>MODERNO</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/1EyCZQmma1wGooPb_6lSui2LnFZHixip2x6uxFikxC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgz/ODM0LTE1NDc3NTg1/MTktMzUyMi5qcGVn.jpeg" alt="Cover for Demo 2002" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-01-13</td>
+      <td>Polter</td>
+      <td>Demo 2002</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/_AZvEhCiTl1GYsafBYoI-ql0a09a3TDMiNLRUEzj-qk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzQ2/MDUyLTE2MTI5NDk3/MDYtNDAwNS5qcGVn.jpeg" alt="Cover for Deliverance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020</td>
+      <td>Decessus</td>
+      <td>Deliverance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4e0741faf2ceb5957000a5a67d8ee81.png" alt="Cover for Electric Conjuring" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-03-30</td>
+      <td>Iron Spell</td>
+      <td>Electric Conjuring</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 36</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 78</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/JTZt7liDqjZulkea_ZaIe5C3Lx0FQGIAVKx4NDg6uSc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjE2/ODQtMTQ3NjkxNDA1/Ny00MzUyLmpwZWc.jpeg" alt="Cover for Manual de una Pérdida" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-08-27</td>
+      <td>Fármacos</td>
+      <td>Manual de una Pérdida</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/-ILG-LxSKmmA0KB6QYQjuLUMq8MhvF0GWtgwtGFkIX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDAx/OTY0LTE2NDY1Mjcz/NjMtNzkyMi5qcGVn.jpeg" alt="Cover for Estrella Tropical" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022</td>
+      <td>CHICHARRON</td>
+      <td>Estrella Tropical</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>2022</td>
+      <td>Various Artists</td>
+      <td>Chile: Hispano-Chilean Metisse Traditional Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/F15GMu0YBe5Kp2R29C-7b9YAXsHb5u3aeedB8c8T68o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc1/NjY2LTE2NDYzNDA0/NTUtMjI0OC5qcGVn.jpeg" alt="Cover for Visions Of A Dismal Fate" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-03-01</td>
+      <td>ROTTEN TOMB</td>
+      <td>Visions Of A Dismal Fate</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/b-QjHWvn1_CBj8CZwptsnmVq21JhqH46lwnDKopIOu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjIz/NzYwLTE2OTc1NzA0/MDktMTExNi5qcGVn.jpeg" alt="Cover for Desde Bajo Tierra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2023-09-15</td>
+      <td>Vórtize</td>
+      <td>Desde Bajo Tierra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2024-07-26</td>
+      <td>Mayhemic</td>
+      <td>TOBA</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Los CosmoParlantez</td>
+      <td>Los Cosmoparlantez</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 13</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Alejandro Varela</td>
+      <td>Colores Primarios</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Los Casablancas</td>
+      <td>Los Casablancas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/latino" | relative_url }}">latino</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 1</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 3</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 29</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Los Mac&#39;s</td>
+      <td>Kaleidoscope Men</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 31</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Los Amigos De María</td>
+      <td>Rock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Bálticos</td>
+      <td>Demo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+      </td>
+      <td></td>
+      <td>jmprojectone</td>
+      <td>ESPACIOS FRACTALES</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Fashionless</td>
+      <td>¿Cuánto vale tu show?</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 

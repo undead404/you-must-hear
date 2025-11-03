@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T20:26:51.968Z
+date: 2025-11-03T06:36:09.153Z
 permalink: tags/progressive-rock
 title: progressive rock
 ---
 
 ## progressive rock
 
-Last updated: <time datetime="2025-11-01T20:26:51.968Z">Sat Nov 01 2025 22:26:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T06:36:09.153Z">Mon Nov 03 2025 08:36:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,26 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
   </thead>
   <tbody>
     <tr>
-      <td>26</td>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1967-11-11</td>
+      <td>The Moody Blues</td>
+      <td>Days of Future Passed</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 82</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4bc3510b38b4b70cb32165c45276430.png" alt="Cover for Stand Up" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +66,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>1969-10-10</td>
@@ -64,7 +83,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/557397c58f19a5a89a003056ab196692.png" alt="Cover for Hot Rats" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +104,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>21</td>
       <td>
       </td>
       <td>1970-05-15</td>
@@ -119,7 +138,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/BsNXj6MYmsG22odg8AamNH0sfEBvp6vnj4lAppd3ER8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTY1/ODgtMTQwNTY5Nzc4/Mi01OTg0LmpwZWc.jpeg" alt="Cover for Emerson, Lake &amp; Palmer" style="max-width:120px; height:auto;" />
       </td>
@@ -137,7 +156,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/welMJyv8FJU583EIySiKCycMODN0YUZllmCrTBZFOlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTA5/Ny0xNDA0MzE0OTQy/LTUzODUuanBlZw.jpeg" alt="Cover for Lizard" style="max-width:120px; height:auto;" />
       </td>
@@ -174,7 +193,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/h3CWcX-vB2fwEx3BDz_Uh1KUJKAVjsiAem53wJYOVjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ4/ODktMTI3NjU2OTY3/NC5qcGVn.jpeg" alt="Cover for In The Land Of Grey And Pink" style="max-width:120px; height:auto;" />
       </td>
@@ -211,7 +230,26 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62e2fd69667b15d51a3a37b2c267d1a6.png" alt="Cover for Moving Waves" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971-10</td>
+      <td>Focus</td>
+      <td>Moving Waves</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/343f942004f2ddd87f1f5bcec25c8210.png" alt="Cover for Fragile" style="max-width:120px; height:auto;" />
       </td>
@@ -297,13 +335,13 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 3</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 6</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98626fae6e9949c2c9472dd3cf4a67e4.png" alt="Cover for Crime of the Century" style="max-width:120px; height:auto;" />
       </td>
@@ -357,12 +395,12 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 58</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>26</td>
       <td>
       </td>
       <td>1975-10-21</td>
@@ -395,7 +433,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 32</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 33</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 91</li>
             <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 100</li>
         </ul>
@@ -420,7 +458,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/34478d17732b9ed714555662f0abd4c5.png" alt="Cover for The Roaring Silence" style="max-width:120px; height:auto;" />
       </td>
@@ -438,7 +476,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
         <ul>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 20</li>
             <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 76</li>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 79</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -461,7 +499,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/X8xPbwuHh186jm7e5jRmj6DQUVbtmEYx5X-CPKB7p-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjAz/MjI3LTE2MTQ1MzIz/MDgtMjc5MS5qcGVn.jpeg" alt="Cover for Even In The Quietest Moments" style="max-width:120px; height:auto;" />
       </td>
@@ -472,25 +510,6 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c8df8b1d4664068884d06d308ad147b.png" alt="Cover for Point of Know Return" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977-10-11</td>
-      <td>Kansas</td>
-      <td>Point of Know Return</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
         </ul>
       </td>
       <td>
@@ -518,7 +537,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>
       </td>
       <td>1979</td>
@@ -536,7 +555,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d580c96206b0e2586ddc393b377c148a.png" alt="Cover for Sheik Yerbouti" style="max-width:120px; height:auto;" />
       </td>
@@ -555,7 +574,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>1979-03-16</td>
@@ -569,12 +588,12 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 41</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>1979-05-21</td>
@@ -588,8 +607,8 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 56</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 67</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 57</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -612,17 +631,16 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>3</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca04a2396d394055a6a2d62ddc67cc59.png" alt="Cover for Moving Pictures (2011 Remaster)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f01459696ae85e46c0d698820e8fe653.png" alt="Cover for Moving Pictures" style="max-width:120px; height:auto;" />
       </td>
-      <td>1981-04-21</td>
+      <td>1981-02-06</td>
       <td>Rush</td>
-      <td>Moving Pictures (2011 Remaster)</td>
+      <td>Moving Pictures</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
         </ul>
       </td>
       <td>
@@ -631,7 +649,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/Y4TphO1vU3haUmpttaI7HeMdV1hrwVtG-eoboWOEARE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTQx/My0xMzc0ODk3OTcx/LTYyNTUuanBlZw.jpeg" alt="Cover for Eye In The Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -645,25 +663,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 78</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f533c7935081f9f79da90f966e69438.png" alt="Cover for Signals" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1982-09-10</td>
-      <td>Rush</td>
-      <td>Signals</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -686,7 +686,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>22</td>
       <td>
       </td>
       <td>1983-05-27</td>
@@ -723,7 +723,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/76f6ea3dec97d4c7b489fa15efda8218.png" alt="Cover for 90125 (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -742,7 +742,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>18</td>
       <td>
       </td>
       <td>1985-07-30</td>
@@ -765,7 +765,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/vczyujV6S6-aHe0ApdK1KsX1sT1knvF_HDJex4lyMNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTc1/MTctMTQxMTE1ODc0/NC05NDkwLmpwZWc.jpeg" alt="Cover for Meddle (2011 Remastered Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -783,7 +783,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 61</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 62</li>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 73</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 81</li>
             <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 96</li>
@@ -811,7 +811,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6c5ccbfc87b7dc265100e06f196e83a.png" alt="Cover for So" style="max-width:120px; height:auto;" />
       </td>
@@ -830,7 +830,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf202251fb7131f6dbc08be64d0a43c5.png" alt="Cover for Invisible Touch" style="max-width:120px; height:auto;" />
       </td>
@@ -868,7 +868,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf47afa9760249238e3269e61b5facb4.png" alt="Cover for Images and Words" style="max-width:120px; height:auto;" />
       </td>
@@ -887,7 +887,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0faf2b7798314632b199e70d3e9f7e88.png" alt="Cover for Amused to Death" style="max-width:120px; height:auto;" />
       </td>
@@ -905,7 +905,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86ad2951bbf64be7917d5a45e8356eac.png" alt="Cover for The Singles Plus" style="max-width:120px; height:auto;" />
       </td>
@@ -976,12 +976,12 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 1</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61a415c9d77f0771717e82f10f62b099.png" alt="Cover for Ænima" style="max-width:120px; height:auto;" />
       </td>
@@ -995,13 +995,13 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 26</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 33</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3823c6f82c1104dcd5ebc894b2f73812.png" alt="Cover for Alternative 4" style="max-width:120px; height:auto;" />
       </td>
@@ -1023,7 +1023,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/32a00abf0addb3e2d0f8d289349d7904.png" alt="Cover for Judgement" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,7 +1043,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b847f04c21b17e07bf43052eb796b8d.png" alt="Cover for Lightbulb Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1079,7 +1079,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c9c10303fd617a5034d9f39a863e32f.png" alt="Cover for A Fine Day to Exit" style="max-width:120px; height:auto;" />
       </td>
@@ -1099,7 +1099,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/GYfQiiJi1OMB52_Q-yIadxsIGkPBsuLn4ExCbrltlpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTgz/OS0xMjQ5MzA4OTY5/LmpwZWc.jpeg" alt="Cover for The Second Stage Turbine Blade (Re-Issue)" style="max-width:120px; height:auto;" />
       </td>
@@ -1117,7 +1117,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c42cb0bd4e044c22943645a84486b388.png" alt="Cover for The Second Stage Turbine Blade" style="max-width:120px; height:auto;" />
       </td>
@@ -1150,12 +1150,12 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 28</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a3b788d2e0cd8b4f0c166926dd06cbf.png" alt="Cover for El Cielo" style="max-width:120px; height:auto;" />
       </td>
@@ -1224,12 +1224,12 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 68</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5af3f8554474d689cec875fd29cfabf.png" alt="Cover for A Natural Disaster" style="max-width:120px; height:auto;" />
       </td>
@@ -1248,7 +1248,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2003-12-22</td>
@@ -1265,7 +1265,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2c728a461ad41519dfaad6879ce8004.png" alt="Cover for Blackfield" style="max-width:120px; height:auto;" />
       </td>
@@ -1298,6 +1298,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1320,7 +1321,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/r13PBtVuDeFbnrlkePyaefkLDwZ_FKcrhzXo0qBlGVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTI2/MS0xNjMyMTQ0Njgw/LTY4NzQuanBlZw.jpeg" alt="Cover for The Widow" style="max-width:120px; height:auto;" />
       </td>
@@ -1353,7 +1354,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1377,7 +1378,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/03fb53b1b6164f2ca52f3c8d474369ba.png" alt="Cover for Good Apollo I&#39;m Burning Star IV Volume One: From Fear Through The Eyes Of Madness" style="max-width:120px; height:auto;" />
       </td>
@@ -1400,7 +1401,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/5ye5y1zgK6hIOFzCZa0D0K8MMcON9171wrWje6EhX0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzEy/MDUtMTI3NzQ0Nzgw/MC5qcGVn.jpeg" alt="Cover for Good Apollo, I&#39;m Burning Star IV, Volume One: From Fear Through The Eyes of Madness" style="max-width:120px; height:auto;" />
       </td>
@@ -1417,7 +1418,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0395bf734fe46a691fe9598801b43fa.png" alt="Cover for Second Life Syndrome" style="max-width:120px; height:auto;" />
       </td>
@@ -1436,7 +1437,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc316da0a77fa9e8466c6918124254ad.png" alt="Cover for Amputechture" style="max-width:120px; height:auto;" />
       </td>
@@ -1454,7 +1455,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/171d52c829b344998354553d336e1bed.png" alt="Cover for On an Island" style="max-width:120px; height:auto;" />
       </td>
@@ -1473,7 +1474,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/VQUG2VcHaTZzTNxsqDrvi8Qh2HtUJ2ZjbOnqDqirwu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTQ2/NjQtMTI5Njg5NjM2/My5qcGVn.jpeg" alt="Cover for Naïve" style="max-width:120px; height:auto;" />
       </td>
@@ -1491,7 +1492,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2006-04-28</td>
@@ -1526,7 +1527,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c3c098793ab40d7b076dd2f9903d814.png" alt="Cover for Fear of a Blank Planet" style="max-width:120px; height:auto;" />
       </td>
@@ -1544,7 +1545,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7963ff0efd99b90783edfae24b15b88a.png" alt="Cover for On Letting Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1564,7 +1565,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/113aab20d7fdb8c991468bca9c8e6d79.png" alt="Cover for The Bedlam in Goliath" style="max-width:120px; height:auto;" />
       </td>
@@ -1602,12 +1603,12 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
         <ul>
             <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 48</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 54</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 55</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dd1e2be57364e99b667bf3f123c7726.png" alt="Cover for Sound Awake" style="max-width:120px; height:auto;" />
       </td>
@@ -1625,7 +1626,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fd343871112bd1e24193af142a38f7e.png" alt="Cover for Octahedron" style="max-width:120px; height:auto;" />
       </td>
@@ -1643,7 +1644,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/XOzA7aX7yhK7dvdDh6v5eZb1s-XMxyvCGvQ9C91Qg0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDMw/MzktMTI2MDQ0Mjcx/NC5qcGVn.jpeg" alt="Cover for 11th Dimension" style="max-width:120px; height:auto;" />
       </td>
@@ -1660,7 +1661,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 65</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1680,13 +1681,13 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 85</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 86</li>
             <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/X6k4BcYEXvkka43tdJ3PRCtfwJd4Z8INmXPnYLHe26Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTA1/MzEtMTQzODExNjY2/Ny0zNDIwLmpwZWc.jpeg" alt="Cover for Emerson, Lake and Palmer" style="max-width:120px; height:auto;" />
       </td>
@@ -1704,7 +1705,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d48541a850fba5f85737df480450fadc.png" alt="Cover for Heritage" style="max-width:120px; height:auto;" />
       </td>
@@ -1722,7 +1723,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef2c071efff640b7a408c795c3959bde.png" alt="Cover for Weather Systems" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,7 +1742,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>34</td>
       <td>
       </td>
       <td>2013-03-11</td>
@@ -1760,7 +1761,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33a8234de2a442c6c294b985e8aebb2c.png" alt="Cover for Pale Communion" style="max-width:120px; height:auto;" />
       </td>
@@ -1778,7 +1779,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c96e92b6b494f95cf278ad5c6b36d7e.png" alt="Cover for The Endless River" style="max-width:120px; height:auto;" />
       </td>
@@ -1797,7 +1798,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/9HpNAe01Q6BW4P4MCiZNmADzK228L8OSWREQI2owSoc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQy/NDAyLTE0OTIzNjUz/OTgtNjc4My5qcGVn.jpeg" alt="Cover for Good Apollo, I&#39;m Burning Star IV. Volume One: From Fear Through The Eyes Of Madness" style="max-width:120px; height:auto;" />
       </td>
@@ -1814,7 +1815,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad7772faa3029d2992b7717119d30ac7.png" alt="Cover for этажи" style="max-width:120px; height:auto;" />
       </td>
@@ -1834,7 +1835,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/rHPQqZhJ0XMQSnrsc2ei5eEHf1iM5NMXDkq9r8iR9Tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTc2/NDE4LTE2MjAwNjY1/NjEtNzQyMy5qcGVn.jpeg" alt="Cover for Cavalcade" style="max-width:120px; height:auto;" />
       </td>
@@ -1883,7 +1884,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed7c2b94e1ab36865693fe88637c0fc9.png" alt="Cover for Eye in the Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -1898,14 +1899,14 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 1</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 3</li>
             <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 38</li>
             <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3515cb4917515a809e5047db720bb1f6.png" alt="Cover for Breakfast in America" style="max-width:120px; height:auto;" />
       </td>
@@ -1920,7 +1921,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 49</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1940,7 +1941,7 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 72</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1956,6 +1957,6 @@ Progressive rock emerged in the late 1960s as musicians pushed beyond traditiona
 - [psychedelic rock]({{ "/tags/psychedelic-rock" | relative_url }})
 - [alternative rock]({{ "/tags/alternative-rock" | relative_url }})
 - [art rock]({{ "/tags/art-rock" | relative_url }})
-- [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
 - [instrumental]({{ "/tags/instrumental" | relative_url }})
+- [hard rock]({{ "/tags/hard-rock" | relative_url }})
