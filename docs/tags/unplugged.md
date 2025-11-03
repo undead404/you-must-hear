@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-30T09:55:39.035Z
+date: 2025-11-03T06:29:59.231Z
 permalink: tags/unplugged
 title: unplugged
 ---
 
 ## unplugged
 
-Last updated: <time datetime="2025-10-30T09:55:39.035Z">Thu Oct 30 2025 11:55:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T06:29:59.231Z">Mon Nov 03 2025 08:29:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Unplugged music refers to live performances or recordings where artists play aco
   </thead>
   <tbody>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>1968</td>
@@ -49,7 +49,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/dl0BYCm0DzTl_knRw9fUn1wRpV5oJ_gHAk0ML_i6CIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjYy/ODItMTMwNzYzNzcy/NC5qcGVn.jpeg" alt="Cover for Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/H6xG-fUZ8goVutRMedGa_s7yd96GY-h1iYVSYKkzIYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDcx/NzItMTM5MzU5NTI5/My02MTgzLmpwZWc.jpeg" alt="Cover for Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -85,7 +85,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/xcBCtl34-1IEJI67QWDOr3iCw2AYoqPDWMMYFq5h0Y8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MDk0/MS0xNDg5MjM1MzQ2/LTI2MzguanBlZw.jpeg" alt="Cover for Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -140,7 +140,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/Smo6u2BOBREatLUhMfdl_49Ew0dKdThJ8KNroMD4Y2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQz/MDctMTIzMDIyNDI1/MS5qcGVn.jpeg" alt="Cover for Unplugged (The Official Bootleg)" style="max-width:120px; height:auto;" />
       </td>
@@ -158,7 +158,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/geG0VVAX4cHkBYa3G7BjdAYS21g5x69ta_vgpHeSRt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU0/MDQ1LTE1MjAwOTYx/MTUtNTI5Ni5qcGVn.jpeg" alt="Cover for En Vivo" style="max-width:120px; height:auto;" />
       </td>
@@ -175,7 +175,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 6</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -222,7 +222,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/m8Z55AilNH1DJXdMKcrXbfqhcLATq2hCuqGxoyC3aOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTMz/MzIzLTE1Njg0NTgz/NTktODE1NC5qcGVn.jpeg" alt="Cover for Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -243,7 +243,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/hUEMEPDePCzWTHRJaVcKF8DBUndbMQqkuhYG3ipEhIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTQ4/MDU2LTE2NzY3NTEy/MzYtNTc1Mi5qcGVn.jpeg" alt="Cover for Unplugged - The Official Bootleg" style="max-width:120px; height:auto;" />
       </td>
@@ -261,7 +261,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/IoYtIzmNhayfxUBssHcxsHptgWV5RZdpnFDr8nzvhsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzQ1/MTktMTQyNTU2Mjc2/Mi05MTY5LmpwZWc.jpeg" alt="Cover for Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -279,7 +279,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/uPhPxzRjIBPgFYMnEvma05o3iT5L0rWSyFjQZocI4_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDcy/MjMtMTM3MjA2MTM2/NC05MTA1LmpwZWc.jpeg" alt="Cover for MTV Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -339,7 +339,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/LqrRtFyBk7WLscNLxYb1E5GoC3dRcakg0xTpCZOiF74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTI5/ODMtMTM1NzA2MDM5/NS05MDM1LmpwZWc.jpeg" alt="Cover for MTV Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -370,7 +370,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 78</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -410,7 +410,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/537246b823a32a89aa91820c29e8f348.png" alt="Cover for Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -455,7 +455,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>1993-03-23</td>
@@ -517,7 +517,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>1994</td>
@@ -567,14 +567,14 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 23</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 24</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 87</li>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 96</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/xi7We-pG4yNFAmcmIcVpK7cCDyRtYVUC6dAigslpacQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjE4/MTc1LTE2NDk2MjM2/NDYtNjUyMi5qcGVn.jpeg" alt="Cover for MTV Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -595,7 +595,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td>1995</td>
@@ -614,7 +614,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>1995</td>
@@ -631,7 +631,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
       </td>
       <td>1995</td>
@@ -640,25 +640,6 @@ Unplugged music refers to live performances or recordings where artists play aco
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82ff0b1af1c04a3787336f9de285c11b.png" alt="Cover for MTV Unplugged" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996-03-02</td>
-      <td>Kiss</td>
-      <td>MTV Unplugged</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
@@ -682,7 +663,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 17</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 25</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 62</li>
         </ul>
       </td>
@@ -706,7 +687,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/jed50z8FdqM07kSJa_WwO9GvQGrjOP1wEv5jEXkK01M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODI5/NDYtMTM0MDAzNDY4/OC05MjY4LmpwZWc.jpeg" alt="Cover for MTV Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -743,7 +724,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05791d68644f4756c790d0e848b301dc.png" alt="Cover for Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -779,7 +760,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
       </td>
       <td>1999-11-12</td>
@@ -794,7 +775,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 44</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -835,7 +816,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
       </td>
       <td>2000-02-28</td>
@@ -860,7 +841,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/qmWMsznuH_uPOxBEpRDh5alroIkNdZ_X17xRuPNYYzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzIx/NjEtMTU0NzI5NTA0/NS01NTc4LmpwZWc.jpeg" alt="Cover for King of Pain" style="max-width:120px; height:auto;" />
       </td>
@@ -870,6 +851,23 @@ Unplugged music refers to live performances or recordings where artists play aco
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>R.E.M.</td>
+      <td>MTV Unplugged 2001</td>
+      <td>
+        <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a></li>
         </ul>
       </td>
@@ -933,7 +931,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/JlhKrP_C6WG9J7TlyeK2bbe0KTodiD31YFh-no94jvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzE4/OTYtMTQ1MzgyNjQ3/Ny02MDkzLmpwZWc.jpeg" alt="Cover for Shakira MTV Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -959,7 +957,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
       </td>
       <td>2002</td>
@@ -976,7 +974,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/VE3bdpzwZX56gNJmb6UTsA5iQKdWRNZ34Xt4qK7xE9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Njcz/My0xMTc2NzYyNzEx/LmpwZWc.jpeg" alt="Cover for Let Go (Unplugged)" style="max-width:120px; height:auto;" />
       </td>
@@ -994,7 +992,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Szyb_oW8Dx-MlFRj3b2PObVtf-aORVUoNqQqHuZPUJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzQy/Ni0xMzA5MDgwOTcw/LmpwZWc.jpeg" alt="Cover for Milk Inc. Dvd" style="max-width:120px; height:auto;" />
       </td>
@@ -1013,7 +1011,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/4lwmjtftk9tn8oo1WPbTIEBHob8c4RNeNvXuHEiXaHM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODk3/Mi0xMjk1OTczNDM4/LmpwZWc.jpeg" alt="Cover for Unplugged Rock&#39;n&#39;roll Realschule" style="max-width:120px; height:auto;" />
       </td>
@@ -1034,7 +1032,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/3AexR-SBzxKvQWCr3pvu3wtIbvLsbF8BJ5LOrAT5vck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTQ4/NS0xNjgyMjMxMDcy/LTY3NzAuanBlZw.jpeg" alt="Cover for Thirty Seconds to Mars Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -1071,7 +1069,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e609aa32e174b17cb5593a5ad19e10c.png" alt="Cover for Unplugged 1991&#x2F;2001: The Complete Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -1092,7 +1090,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b85b3e6cb75544a78a8d5778888f7f4c.png" alt="Cover for The Other Side" style="max-width:120px; height:auto;" />
       </td>
@@ -1106,7 +1104,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 15</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1131,7 +1129,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>2004-11-02</td>
@@ -1149,7 +1147,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/4GJ6Oi0548ZxnBTWqoG7BUsGgCM4aqE-xwCZ4iqOW38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjI0/My0xMjc4NDA2OTA5/LmpwZWc.jpeg" alt="Cover for Von Zaubererbrüdern" style="max-width:120px; height:auto;" />
       </td>
@@ -1185,7 +1183,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9090727d32b499f8d5d7d542f577c19.png" alt="Cover for Live Acoustic at 98.7FM Penthouse" style="max-width:120px; height:auto;" />
       </td>
@@ -1204,26 +1202,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0e30f0a12244ab0b2ba2efcb1173724.png" alt="Cover for One Acoustic Night" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-03-31</td>
-      <td>Bonfire</td>
-      <td>One Acoustic Night</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>2005-06-24</td>
@@ -1241,7 +1220,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
       </td>
       <td>2005-07-25</td>
@@ -1277,7 +1256,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/FM3qfHptZHdoiQKc4_zzN885AWi9INTveSimFagAaRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMDAx/MS0xMTc0MDUzODg5/LmpwZWc.jpeg" alt="Cover for Nur zu Besuch: Unplugged im Wiener Burgtheater" style="max-width:120px; height:auto;" />
       </td>
@@ -1296,7 +1275,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/56f5aded43ef492ab792504fad8850e4.png" alt="Cover for Unplugged in Sweden" style="max-width:120px; height:auto;" />
       </td>
@@ -1305,8 +1284,6 @@ Unplugged music refers to live performances or recordings where artists play aco
       <td>Unplugged in Sweden</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a></li>
         </ul>
       </td>
       <td>
@@ -1315,7 +1292,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
       </td>
       <td>2006-11-07</td>
@@ -1373,7 +1350,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/g30_cf9Vd42HGfzj59DECkmgaRp7G-lSeGGuvLth7go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDQ4/NjQtMTQwNzAwNjc3/Mi0xNjYzLmpwZWc.jpeg" alt="Cover for Maleza" style="max-width:120px; height:auto;" />
       </td>
@@ -1392,7 +1369,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/MlaE40NOzIi3JZps6qF5y2htdb6SVdjT4Bs0TezkTIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTMy/NDgwLTE1MDY3NTIz/MDQtOTczMS5qcGVn.jpeg" alt="Cover for MTV Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -1429,7 +1406,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/X6ZWAIAVrRD9Zlw2NhZcxE4kma4RuOcNA9me37Kx_eI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ4/ODAyLTE2MDMwODc3/MjgtNzMyNi5qcGVn.jpeg" alt="Cover for Plug And Play" style="max-width:120px; height:auto;" />
       </td>
@@ -1452,7 +1429,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/nDB8gkzJGFMbycHMK-5ay6zBY7u0g8MD2uWy5_pGTGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTgx/OTYtMTYxNjg0NTk2/MS04MTYwLmpwZWc.jpeg" alt="Cover for Lautlos" style="max-width:120px; height:auto;" />
       </td>
@@ -1473,7 +1450,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>2008-04-04</td>
@@ -1530,7 +1507,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/302acd53637ea736df53ca670f29c854.png" alt="Cover for MTV Unplugged In New York" style="max-width:120px; height:auto;" />
       </td>
@@ -1547,7 +1524,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/DJETLc946GnRbl1D1ZS0M-Tq_84rIrPKRJVRtvew1eY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTMx/MjktMTI1ODUzMzM2/My5wbmc.jpeg" alt="Cover for MTV Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -1582,7 +1559,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
       </td>
       <td>2010-11-22</td>
@@ -1634,13 +1611,13 @@ Unplugged music refers to live performances or recordings where artists play aco
         <ul>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 11</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 24</li>
-            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 45</li>
+            <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 46</li>
             <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/hL1dr9XMXE4OcsWeUb1DoKTPCrI_AegJG2FSUlXexzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjMz/MTMtMTQwNzUyODU5/OS04ODYwLmpwZWc.jpeg" alt="Cover for MTV Unplugged (Live Aus Dem Hotel Atlantic)" style="max-width:120px; height:auto;" />
       </td>
@@ -1705,7 +1682,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fec3449bab0a4dbacd068cc3459fa129.png" alt="Cover for MTV Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -1813,7 +1790,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/HXRBS0tGwWqKjC3AcPjQXEGH_OPsJh3oM0wSlBsnOT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzI2/NjItMTQ1NjUwNjc2/Mi05MzQ4LmdpZg.jpeg" alt="Cover for Live from Lexxi&#39;s Mom&#39;s Garage" style="max-width:120px; height:auto;" />
       </td>
@@ -1831,6 +1808,8 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 4</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1849,6 +1828,29 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/l5BKZhyLTLh7HWnYiQcgbF9Is29qQybrQ2Gx6C8rxqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjIy/MjQtMTU4NzcwMTAz/MC0zMjMyLmpwZWc.jpeg" alt="Cover for Juntos (Acoustic) - EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-17</td>
+      <td>Fifth Harmony</td>
+      <td>Juntos (Acoustic) - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1876,7 +1878,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc008c35dfda4787ac1b779f632f27eb.png" alt="Cover for Unplugged" style="max-width:120px; height:auto;" />
       </td>
@@ -1920,7 +1922,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -1937,7 +1939,7 @@ Unplugged music refers to live performances or recordings where artists play aco
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>

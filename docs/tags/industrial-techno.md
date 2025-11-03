@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T03:57:28.146Z
+date: 2025-11-03T06:28:22.215Z
 permalink: tags/industrial-techno
 title: industrial techno
 ---
 
 ## industrial techno
 
-Last updated: <time datetime="2025-10-20T03:57:28.146Z">Mon Oct 20 2025 06:57:28 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-11-03T06:28:22.215Z">Mon Nov 03 2025 08:28:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/zOA6v15P_soHg-Fz435_WgQFscUeWFTGNCl8m0PFfxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDMz/MTk2LTE2MTE1NDU3/MjUtNTI0Ni5qcGVn.jpeg" alt="Cover for Omala Kcohs" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
       </td>
       <td>1999</td>
@@ -69,7 +69,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
       </td>
       <td>2000-12-14</td>
@@ -86,7 +86,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/LhIP9jKDSVr2iKeNSSI5xrx2hhAK-tFBseFLwrlCPb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjEx/ODYtMTMxNDQ2MDY4/OC5qcGVn.jpeg" alt="Cover for Plasma ring EP" style="max-width:120px; height:auto;" />
       </td>
@@ -112,7 +112,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/xADJbDTI4BHBHyuX2MwLxoQBQK8aIcxy2CZtnEVuQic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODcw/ODktMTIzNDAyMDMx/OC5qcGVn.jpeg" alt="Cover for Le Serpent Blanc" style="max-width:120px; height:auto;" />
       </td>
@@ -131,7 +131,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/2k8lvYrRUDhfChddomIoSi13uxq8F5qL3jwGReetB0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzMw/OC0xMTEzMzI0Mzk1/LmpwZw.jpeg" alt="Cover for Matter + Form" style="max-width:120px; height:auto;" />
       </td>
@@ -151,7 +151,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
       </td>
       <td>2004-08-04</td>
@@ -189,7 +189,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/VYgw4N0urex3WIH_BvVKjEeXrwcAwUIS1hNXWSTRmhE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTE0/OC0xNTc5NTE2NTM2/LTU1ODcuanBlZw.jpeg" alt="Cover for Pattern Recognition" style="max-width:120px; height:auto;" />
       </td>
@@ -207,7 +207,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>2007-06</td>
@@ -227,7 +227,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/AiJtvSoTu9ZdDbayl0DGHI6rp3wodtGdmWuBlnxRIUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTAz/MDUtMTI1NjIwNzk3/MS5qcGVn.jpeg" alt="Cover for Second Method" style="max-width:120px; height:auto;" />
       </td>
@@ -246,7 +246,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/QHKp44GTa4DYRtB9RF6QWaD2SIrjOnUDV5_Vl3RQe68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQy/MTUtMTIzMjY1MjE0/Ny5qcGVn.jpeg" alt="Cover for Third Method" style="max-width:120px; height:auto;" />
       </td>
@@ -266,7 +266,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/XXFKcfTBMdh-YOH7BzdyNibaTmm2a7t-BVCQ23vVVyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDI2/NjUtMTI3ODMwNDE2/OS5qcGVn.jpeg" alt="Cover for Waveform Transmission Vol.1" style="max-width:120px; height:auto;" />
       </td>
@@ -286,7 +286,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/XXFKcfTBMdh-YOH7BzdyNibaTmm2a7t-BVCQ23vVVyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDI2/NjUtMTI3ODMwNDE2/OS5qcGVn.jpeg" alt="Cover for Waveform Transmission Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -329,7 +329,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2011-03-21</td>
@@ -349,7 +349,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/ENtJt72S81U6S9gV2JcFR2MPnJjJ568nM89rkUMNnYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODc4/NjEtMTMxNjY5MjM4/NS5qcGVn.jpeg" alt="Cover for Breaking the Frame" style="max-width:120px; height:auto;" />
       </td>
@@ -368,7 +368,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>2012</td>
@@ -405,7 +405,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/scQBKADRC7xi8Cz2IISWppyg7TvOp2AHqXuq_DASJbc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjM3/ODUtMTM5MDU2MjQw/NC02NDQ5LmpwZWc.jpeg" alt="Cover for At War for Youth" style="max-width:120px; height:auto;" />
       </td>
@@ -424,7 +424,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
       </td>
       <td>2012-05-14</td>
@@ -443,7 +443,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td>2012-08-23</td>
@@ -531,7 +531,28 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/vyLjeBfMdXJpyu-tpLPB5WHVodS-DR1lEBowNUdpqEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODc0/MDItMTM2OTE5ODAy/NC0xMzcxLmpwZWc.jpeg" alt="Cover for It Stands To Conceal (Special Edition)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05</td>
+      <td>Vatican Shadow</td>
+      <td>It Stands To Conceal (Special Edition)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
       <td>
       </td>
       <td>2013-07-15</td>
@@ -580,7 +601,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/o6Yr6EEXORkYTGO8gerhnjJaEZf_clwtmT2GqaNCAAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDM5/NjEtMTYyNzgzNjIy/OS00ODk3LmpwZWc.jpeg" alt="Cover for Under A Single Banner" style="max-width:120px; height:auto;" />
       </td>
@@ -601,7 +622,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
       </td>
       <td>2013-11-12</td>
@@ -626,7 +647,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/q3822aqKAnNAi4v40ELzCuidVLsimmiojgfoTG3w04s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjE1/MDEtMTQxMzg4MTA4/Ni02ODQ1LmpwZWc.jpeg" alt="Cover for Headless Horseman 004" style="max-width:120px; height:auto;" />
       </td>
@@ -646,7 +667,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/Af0c9W0ALPjY1EsVn9hGwCMnBxl0dKwFWOIsMknHpYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTky/MDU1LTE2MDUwMjE1/OTUtNTU4MC5qcGVn.jpeg" alt="Cover for Todo Avaricia" style="max-width:120px; height:auto;" />
       </td>
@@ -675,7 +696,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>82</td>
       <td>
       </td>
       <td>2014-10-27</td>
@@ -700,7 +721,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/NKuvlrfpWD6cnMDTL3AzelL-tC1L9stEwrGFm8bmKq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDA1/OTctMTYyODA3MzI3/MS0yNzU3LmpwZWc.jpeg" alt="Cover for Always Offended Never Ashamed" style="max-width:120px; height:auto;" />
       </td>
@@ -720,7 +741,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/Bluj6cICAD8oRl_dTV4XM4LYO54nRccpruktk7K4owI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODA0/ODQtMTQ1MjExOTAz/MC0xNDM4LmpwZWc.jpeg" alt="Cover for Manbait" style="max-width:120px; height:auto;" />
       </td>
@@ -741,7 +762,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/IDamVnQSd_pXkPP-_FivDhZHrWBqgBKRHocYL5UaKAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTIw/MzktMTQ4MzA5NDI3/OS0zNzc5LmpwZWc.jpeg" alt="Cover for Snipestreet" style="max-width:120px; height:auto;" />
       </td>
@@ -810,7 +831,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/I9Wd48klPIw98nSKIy-K6f5tNj1c5hJAT5NZOjbHVAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjY3/NTEtMTQ3NDE5MDk5/NS05MzQyLmpwZWc.jpeg" alt="Cover for INVOK" style="max-width:120px; height:auto;" />
       </td>
@@ -841,7 +862,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/7cF-6gedwqfMIRuE7uXY-EejsjePn0ocBY-PzRHzn-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjk0/Mjk2LTE1Mzc3MDEx/NjMtNjk0Ny5qcGVn.jpeg" alt="Cover for Body of Lila" style="max-width:120px; height:auto;" />
       </td>
@@ -864,7 +885,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/4ZaA5vrQhWfXvmtGH9WKA8zHfA-4DLLG2LaKabzFA0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTE4/MTgtMTY2Mjk5ODkw/OC04MDkxLmpwZWc.jpeg" alt="Cover for Sport" style="max-width:120px; height:auto;" />
       </td>
@@ -905,7 +926,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/OhOyuwPsJPjBVf1W8vGvBegBGF9-ingyrtT2mglIhhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NjMy/NzUtMTQ4NzU2ODky/MC05MTg5LmpwZWc.jpeg" alt="Cover for 東方不敗" style="max-width:120px; height:auto;" />
       </td>
@@ -925,7 +946,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/aCViZVxiM-sIPQts-cAZSRBW4kS2F3ha38Zrj4zZpHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Nzk5/MTItMTQ4OTU5NzIx/Mi02NzMyLmpwZWc.jpeg" alt="Cover for Detroit House Guests" style="max-width:120px; height:auto;" />
       </td>
@@ -950,7 +971,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/XuR_LvtU5KIc2G86jk-o1aCM0595jBJDs9LGc4Y8UXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTkz/NjUzLTE1Njk2MTY2/NjQtNjE2Ny5qcGVn.jpeg" alt="Cover for So It Seems" style="max-width:120px; height:auto;" />
       </td>
@@ -995,7 +1016,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/qFlmgVusFXLn5WuY03w7xy2LW5XNdEqDTFjFpgL_qX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzIw/MDMwLTE1MDMwNDgz/MTMtODA0OS5qcGVn.jpeg" alt="Cover for Den Umgekehrten Atem" style="max-width:120px; height:auto;" />
       </td>
@@ -1013,7 +1034,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/5-Z8IfhCbWyOWMiaJTT5eGmwbh36GDA7TPG9bbc2F_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk4/MTA5LTE1MDcwMjQ4/OTktOTkzMi5qcGVn.jpeg" alt="Cover for Unfall" style="max-width:120px; height:auto;" />
       </td>
@@ -1047,7 +1068,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/it7Yrg4dnzr1q9JnmI1W_qbhmd8xwziF-Cxx62hM02g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg0/MzA0LTE1NjEwNTAw/OTYtMzU3OC5qcGVn.jpeg" alt="Cover for Felt Cute Might Delete Later" style="max-width:120px; height:auto;" />
       </td>
@@ -1124,7 +1145,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/InFoFlDT6JqV0eTpqV2FXdzG4U-C4pOOM7iL3SeTPIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcz/MjM3LTE1MjM5OTU5/MzgtNzEyOC5qcGVn.jpeg" alt="Cover for Undone" style="max-width:120px; height:auto;" />
       </td>
@@ -1150,7 +1171,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/CQC3ET18tJimHKrR9C_6dnBPWePX5QjpzA5t_MIqh5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTg4/MzU4LTE1MjYwNzI3/MjktMjE3Mi5qcGVn.jpeg" alt="Cover for DNA Feelings" style="max-width:120px; height:auto;" />
       </td>
@@ -1174,7 +1195,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/kpeRo46uol4TGinafXi-D3u6M9JOhUbdsui7M-TD5Vo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjAw/NjU1LTE1MzA4ODM5/NTAtNTg5OS5qcGVn.jpeg" alt="Cover for Aus den Falten" style="max-width:120px; height:auto;" />
       </td>
@@ -1198,7 +1219,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/-UBuDXXVboXWFHs7NOrYhhPNxT761vTfxgi8Xsk8DpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTIy/MjUyLTE1NTU3OTE4/NTgtNDU1NC5qcGVn.jpeg" alt="Cover for Drift" style="max-width:120px; height:auto;" />
       </td>
@@ -1217,7 +1238,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/rGpkc2RS6OokffHpwjL1c1AQLZFQdBs8MRbPhe1nfi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkx/NjM4LTE1MzYzNDMw/NDAtNzI1OS5qcGVn.jpeg" alt="Cover for This Behavior" style="max-width:120px; height:auto;" />
       </td>
@@ -1243,7 +1264,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/_L8P7TPBBzzl06mbgMkReTfp7MMdE4plYYPUMZXOdaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTQ2/NDYyLTE1MzczNjg5/NTEtODE1Ny5qcGVn.jpeg" alt="Cover for The Jericho Records" style="max-width:120px; height:auto;" />
       </td>
@@ -1276,7 +1297,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/VVndWSJyDJmaJalAVhK9Q-3c0-mFCQPnY6ZMUqtaavw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ1/NTIyLTE1NDExNTg0/NzktMTU1NC5qcGVn.jpeg" alt="Cover for Criminal remixed" style="max-width:120px; height:auto;" />
       </td>
@@ -1301,7 +1322,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/IXl517aOEPQdhrJ-6cofQxrsizUcU7DFyDnbFPNiCQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzcy/LTE0NjM0MjEwMzQt/MzA0Mi5qcGVn.jpeg" alt="Cover for Eye On You" style="max-width:120px; height:auto;" />
       </td>
@@ -1321,7 +1342,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/ccTC7S9JsvG7S7GbehY8dcAYrqmjWmDREtnigmQkt4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQz/OTY5LTE1NDcwNDY1/NDctMzMwMS5qcGVn.jpeg" alt="Cover for Into the All" style="max-width:120px; height:auto;" />
       </td>
@@ -1406,7 +1427,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/hql_he-sblDXki20_qlB0u4625Y4NHTDMdxOI3dMeN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDYx/MDIyLTE1NDc0MjYz/NDktNTc2NS5qcGVn.jpeg" alt="Cover for Will to Destroy" style="max-width:120px; height:auto;" />
       </td>
@@ -1433,7 +1454,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4986ab99aa42a9e5ff3c97c2ff3919e2.png" alt="Cover for In A Moment A Thousand Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1451,7 +1472,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/Btpicil6b5NAP_14a64xj5rreCSvcWSdJyrd1imzFNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY2/MTEzLTE1NTQ3NDA2/MDktNDI0MS5qcGVn.jpeg" alt="Cover for Veer" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,7 +1509,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/9WhTz-G95iXPtfSDT7jt8DvwVW8mvECQnkR0KVvMhuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTE5/OTM1LTE2NTM1NTYz/ODctNzg2Ni5qcGVn.jpeg" alt="Cover for Christophe-Philippe" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,7 +1539,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/z_NB-rU7QNHDalTooGGGFJMoAUGP4XOq77QGu_Hgdxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAw/ODY3LTE1NzM3Njcx/NDktMjc0NC5qcGVn.jpeg" alt="Cover for Suicide Disco" style="max-width:120px; height:auto;" />
       </td>
@@ -1572,7 +1593,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/pFNCKGWKUXmOb0GhgoM6voYZSJUjIKf01q9OlWAruQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgy/MTcxLTE1NzU0MTI5/NzgtMTc1NC5qcGVn.jpeg" alt="Cover for American Flesh For Violence" style="max-width:120px; height:auto;" />
       </td>
@@ -1591,7 +1612,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/UWq3MwD6rMGmicHYUBnW1qr0CQYYeLY6SujMUYwXFTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjI4/NTI1LTE1Nzg1MTEy/MzYtNTMzMS5qcGVn.jpeg" alt="Cover for RIV1" style="max-width:120px; height:auto;" />
       </td>
@@ -1609,7 +1630,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/EbkCqMOKMJuW3r6vs-mNroI_F44x3gH2_YKQIyhpf0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDIy/MzkwLTE1ODU2Mjc1/NTQtMjEyMy5qcGVn.jpeg" alt="Cover for Deathless" style="max-width:120px; height:auto;" />
       </td>
@@ -1627,7 +1648,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/yib_LFJQzR6Pbf2yWcngM_E8VUDzD7W4qVPD0A4Fsiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ2/ODc1LTE1ODQ1NTAx/OTAtMzA3OS5qcGVn.jpeg" alt="Cover for Extinction" style="max-width:120px; height:auto;" />
       </td>
@@ -1647,7 +1668,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/HZA8aCUs1ga1AZ_q9nDjVvzBC-jkdR7UC2ErfdgkDLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEx/ODM2LTE1OTA4NDU1/ODctMzE4Mi5qcGVn.jpeg" alt="Cover for Nur EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1667,7 +1688,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/ROB0fHs-vBoiidOmhBH8WXrxLYCd7o3tX1IRLq7J4UA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE1/NDU1LTE1ODY4NzQz/NTQtMzM4OC5qcGVn.jpeg" alt="Cover for Perception is&#x2F;as&#x2F;of Deception" style="max-width:120px; height:auto;" />
       </td>
@@ -1697,7 +1718,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/BWcuO3I8hP1JTqRPgMAGAzNmxh7B0W11GGCwpAyq1oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDEy/NTUyLTE1OTEzNTU0/NjMtOTcxOS5qcGVn.jpeg" alt="Cover for Walk On Wire" style="max-width:120px; height:auto;" />
       </td>
@@ -1724,7 +1745,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/uO8IEfNwr8Y9jhsBPh0LW9L2ehIl2CbrN8sxfnBHIQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzE1/MDIyLTE1OTY0NTQ3/MzctMzYxMS5qcGVn.jpeg" alt="Cover for Riv2" style="max-width:120px; height:auto;" />
       </td>
@@ -1803,7 +1824,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/cOsoFbbbcmclZ7tgB15ZkvXcqS_AAhcL_JggjPGmzbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjk2/MjI1LTE2MTI2NzEz/NTMtNjgxMy5tcG8.jpeg" alt="Cover for Courses of Action" style="max-width:120px; height:auto;" />
       </td>
@@ -1908,7 +1929,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/w182GDxyI3JHUELaHOkQBLNchvJbsuxP9aBiTfVM4FA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzMz/Nzk4LTE2NDYwNTAw/MjgtNTI2OC5qcGVn.jpeg" alt="Cover for Sucht &amp; Drang" style="max-width:120px; height:auto;" />
       </td>
@@ -1930,7 +1951,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/-F5-Zssug-2hj98kYpKTqrAr0PD93ygzgc3HL16hCpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTI1/MTA2LTE2MzcyNDM3/MDAtNjA3MS5qcGVn.jpeg" alt="Cover for Mindset" style="max-width:120px; height:auto;" />
       </td>
@@ -1953,7 +1974,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/XKgh32XlZ_182Ze-IiYAkHZHjgoH03qNIyBFGM01M2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE5/NjgyLTE2NDA3MjM2/ODctNTQ0OC5qcGVn.jpeg" alt="Cover for Self Love Club" style="max-width:120px; height:auto;" />
       </td>
@@ -1998,7 +2019,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/h9WJs8wrrRkSQRxK-7qWH5iE8i5Dw2JvvDyg05SSOt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODEy/MzYyLTE2NDI3NzE3/NDctNzA3NC5qcGVn.jpeg" alt="Cover for Glitzer Vs Hass" style="max-width:120px; height:auto;" />
       </td>
@@ -2020,7 +2041,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/E47VX9HwYL1kQOqcYbCnEXXmJ60iiwsGtSJyH9bGtyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjg3/Mzk0LTE3MjU4MjI0/MTktNTEzMC5qcGVn.jpeg" alt="Cover for Bonne Soirée (Anthem 4 My Berlin Gabbers)" style="max-width:120px; height:auto;" />
       </td>
@@ -2062,7 +2083,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/BeCv9nB7iZlfEI9WlbarsiCGwucRVRBEDTJ3k-ppCGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQ5/MTM0LTE2Njc1NjY2/MTctNTE3OS5qcGVn.jpeg" alt="Cover for 24" style="max-width:120px; height:auto;" />
       </td>
@@ -2090,7 +2111,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/4w3ExUByhtn0FN76esMaHVRGLhC2uJeYZmydK0FeqD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQ1/NzQ4LTE2NjkyODEz/OTctMzMyOS5qcGVn.jpeg" alt="Cover for Fascination" style="max-width:120px; height:auto;" />
       </td>
@@ -2124,7 +2145,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/tyir75x7ulCzsIrNJL4V96_UKSls-8_QOEayoVpuPLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTMy/OTMyLTE2Nzk2OTIx/NTgtOTcwNi5qcGVn.jpeg" alt="Cover for End of an Era" style="max-width:120px; height:auto;" />
       </td>
@@ -2147,7 +2168,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/qsYJK-wp6B7pq2gO2p_jcr9K9BJ9rlTU0wqEoGkyWCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzky/NTcxLTE2Nzg2MjA4/NTMtNzgyNC5qcGVn.jpeg" alt="Cover for Kill Your Idols" style="max-width:120px; height:auto;" />
       </td>
@@ -2175,7 +2196,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b372bee481584fb35c1d42dd1c10f725.png" alt="Cover for 绿帽 Green Hat" style="max-width:120px; height:auto;" />
       </td>
@@ -2194,31 +2215,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>74</td>
-      <td>
-          <img src="https://i.discogs.com/R7BNS1qY56UjlDZPAzh_SvzKfYKQZXgJbeTHM3bBP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTEx/MTA1LTE2OTMzMTM5/NTgtNTUyNy5qcGVn.jpeg" alt="Cover for 4D" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2023-08-20</td>
-      <td>Blank Banshee</td>
-      <td>4D</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 51</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 54</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/mKyNN7ayMrwA0BvztrZAlIu3QZFoTZsrYvQP1UN77H4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTk1/MDk4LTE3MDI1MDAz/NjYtNDk2My5qcGVn.jpeg" alt="Cover for Vaciador" style="max-width:120px; height:auto;" />
       </td>
@@ -2292,7 +2289,7 @@ Industrial techno merges the mechanical aggression of industrial music with tech
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td></td>

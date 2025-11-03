@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T19:37:05.301Z
+date: 2025-11-03T06:33:00.504Z
 permalink: tags/neoliberal
 title: neoliberal
 ---
 
 ## neoliberal
 
-Last updated: <time datetime="2025-11-01T19:37:05.301Z">Sat Nov 01 2025 21:37:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T06:33:00.504Z">Mon Nov 03 2025 08:33:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
@@ -239,6 +239,24 @@ Last updated: <time datetime="2025-11-01T19:37:05.301Z">Sat Nov 01 2025 21:37:05
       </td>
     </tr>
     <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg" alt="Cover for Trump Offers No Moral Leadership" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-12-07</td>
+      <td>Joe Biden</td>
+      <td>Trump Offers No Moral Leadership</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>13</td>
       <td>
           <img src="https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg" alt="Cover for On the Economy with Andrew Yang" style="max-width:120px; height:auto;" />
@@ -311,7 +329,7 @@ Last updated: <time datetime="2025-11-01T19:37:05.301Z">Sat Nov 01 2025 21:37:05
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg" alt="Cover for We Are One Concert, Washington D.C., January 18, 2009" style="max-width:120px; height:auto;" />
       </td>
@@ -328,7 +346,7 @@ Last updated: <time datetime="2025-11-01T19:37:05.301Z">Sat Nov 01 2025 21:37:05
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/gzgbA2EoaHQbXoklinVetfE7HmYBDT4WSOM3iR5dw_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTY4LTE1MzUwODY5/MzAtNTUyOS5qcGVn.jpeg" alt="Cover for We Are Once Concert, Washington D.C., January 18, 2009" style="max-width:120px; height:auto;" />
       </td>
@@ -700,7 +718,7 @@ Last updated: <time datetime="2025-11-01T19:37:05.301Z">Sat Nov 01 2025 21:37:05
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg" alt="Cover for Lobotomized Trump Supporters" style="max-width:120px; height:auto;" />
       </td>
@@ -718,7 +736,7 @@ Last updated: <time datetime="2025-11-01T19:37:05.301Z">Sat Nov 01 2025 21:37:05
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg" alt="Cover for 2020-07-04" style="max-width:120px; height:auto;" />
       </td>
@@ -736,7 +754,7 @@ Last updated: <time datetime="2025-11-01T19:37:05.301Z">Sat Nov 01 2025 21:37:05
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/eAmor1wrVl6uUq70YEkmbXUQq4LWn3WedWdzxh9aWm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ3/MTY1LTE1MTI2NzQ2/MzgtMjA5OC5qcGVn.jpeg" alt="Cover for Biden&#39;s Briefing" style="max-width:120px; height:auto;" />
       </td>
@@ -916,7 +934,7 @@ Last updated: <time datetime="2025-11-01T19:37:05.301Z">Sat Nov 01 2025 21:37:05
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/QRnWxde52k8yolxpwQlZ_g8gEY1oJOE3NAKi_frITUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NTUyLTE1MzUwODY3/OTktMTU4My5qcGVn.jpeg" alt="Cover for The Good Ole Fashioned Hardcore Split" style="max-width:120px; height:auto;" />
       </td>
@@ -1790,7 +1808,7 @@ Last updated: <time datetime="2025-11-01T19:37:05.301Z">Sat Nov 01 2025 21:37:05
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg" alt="Cover for It&#39;s On the Track" style="max-width:120px; height:auto;" />
       </td>
@@ -1819,11 +1837,11 @@ Last updated: <time datetime="2025-11-01T19:37:05.301Z">Sat Nov 01 2025 21:37:05
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg" alt="Cover for The Way It Should Be (From &quot;Time Toys&quot;) [Rerecorded] - Single" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg" alt="Cover for Dalton Cyr (EP)" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-19</td>
       <td>Dalton Cyr</td>
-      <td>The Way It Should Be (From &quot;Time Toys&quot;) [Rerecorded] - Single</td>
+      <td>Dalton Cyr (EP)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a></li>
@@ -1844,7 +1862,7 @@ Last updated: <time datetime="2025-11-01T19:37:05.301Z">Sat Nov 01 2025 21:37:05
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg" alt="Cover for Upside Down (2014) - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -1871,7 +1889,7 @@ Last updated: <time datetime="2025-11-01T19:37:05.301Z">Sat Nov 01 2025 21:37:05
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg" alt="Cover for Fall into Place (Single)" style="max-width:120px; height:auto;" />
       </td>
@@ -1971,7 +1989,7 @@ Last updated: <time datetime="2025-11-01T19:37:05.301Z">Sat Nov 01 2025 21:37:05
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/-ncL5zuOXxGWWUtmOw7oFdeQNNLPkrrR_1wLgSt9KnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzI0/OTE1LTE2Njk3NzM5/NTQtMjI0NS5qcGVn.jpeg" alt="Cover for Echo [Dalton Cyr, Single]" style="max-width:120px; height:auto;" />
       </td>
@@ -2199,25 +2217,7 @@ Last updated: <time datetime="2025-11-01T19:37:05.301Z">Sat Nov 01 2025 21:37:05
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Elizabeth Warren</td>
-      <td>This Fight Is Our Fight: The Battle to Save America&#39;s Middle Class</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/native-american" | relative_url }}">native american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoliberal" | relative_url }}">neoliberal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
       </td>
       <td></td>
@@ -2235,7 +2235,7 @@ Last updated: <time datetime="2025-11-01T19:37:05.301Z">Sat Nov 01 2025 21:37:05
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -2253,7 +2253,7 @@ Last updated: <time datetime="2025-11-01T19:37:05.301Z">Sat Nov 01 2025 21:37:05
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
