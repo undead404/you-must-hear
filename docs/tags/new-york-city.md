@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T23:33:16.232Z
+date: 2025-11-02T21:39:51.583Z
 permalink: tags/new-york-city
 title: new york city
 ---
 
 ## new york city
 
-Last updated: <time datetime="2025-10-28T23:33:16.232Z">Wed Oct 29 2025 01:33:16 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T21:39:51.583Z">Sun Nov 02 2025 23:39:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
   </thead>
   <tbody>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
       </td>
       <td>1977</td>
@@ -48,7 +48,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/AUIxmZTt4AtrGTigwgB7xrxPkpUIIgwhd5xfakVKXcs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc5/MDQxLTE1NTQ0MDgz/MDYtODE0OC5qcGVn.jpeg" alt="Cover for Sake...Of It Vol 1" style="max-width:120px; height:auto;" />
       </td>
@@ -206,7 +206,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/XSbBoMJSiI-gmVZWg-of-CTL54TRMGw2YjauOwJOKj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzkz/MTYtMTcxNzM3Njkz/Ny05NjE0LmpwZWc.jpeg" alt="Cover for Live At CBGB&#39;s 1988" style="max-width:120px; height:auto;" />
       </td>
@@ -224,24 +224,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>20</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26097a5de76e2710aad7159e5149f452.png" alt="Cover for The Language of Thieves and Vagabonds" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>The Throbs</td>
-      <td>The Language of Thieves and Vagabonds</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2190fbbf3c0b4e2998b3e47c4ea5f99d.png" alt="Cover for Mondo Bizarro" style="max-width:120px; height:auto;" />
       </td>
@@ -259,7 +242,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/6ELfQkkUcjB1Ye9t2JvNQWYhj37pAyF3FJzRL72-KGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODcx/MDQtMTQ2MjU3MjQw/My00OTQ2LmpwZWc.jpeg" alt="Cover for Lovemaker" style="max-width:120px; height:auto;" />
       </td>
@@ -339,7 +322,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/keBxvP_RCjgkUkYu7DjEVyPm6C9vJlej48HcmJ2u2To/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTM0/LTE1MzA4OTcyMjUt/ODU1OS5qcGVn.jpeg" alt="Cover for Fantastic Damage" style="max-width:120px; height:auto;" />
       </td>
@@ -534,7 +517,32 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/gFkq2UjpvWXlSAhZC3XKbcxD7whVZ9m-2Emza8c1G_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzM1/MTI3LTE1ODA1Njk4/MjktOTIwMi5qcGVn.jpeg" alt="Cover for Awake" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Vinson Valega Group</td>
+      <td>Awake</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>
       </td>
       <td>2005</td>
@@ -1433,7 +1441,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/f9rIhLyJObIKpqsaV2Yh6Syfi5vHSPxfMtTcWqkaH90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTgw/MzEtMTQ4NTI5NTg1/Ny04NDcyLmpwZWc.jpeg" alt="Cover for the fancy pants project week 5" style="max-width:120px; height:auto;" />
       </td>
@@ -1635,7 +1643,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/bUpS7NLR7AWFIMDNOkWLyT5RWyZFkr_m6ZQtHSjN2fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY3/MTQ4LTE1MjAzMjY1/MzQtNzM4NS5qcGVn.jpeg" alt="Cover for Flight Brigade EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1684,7 +1692,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2013</td>
@@ -1744,7 +1752,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
       </td>
       <td>2013-08-02</td>
@@ -1767,7 +1775,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/x6-AmVL1LcjHElYVrKFMF9_8WP3_d3lVM77-voifGtc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODAw/MjUtMTU4MTQ0OTg1/NC05NDU5LmpwZWc.jpeg" alt="Cover for no grounds for pity" style="max-width:120px; height:auto;" />
       </td>
@@ -1805,7 +1813,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2015-03-17</td>
@@ -1841,7 +1849,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/gfROsdaF8rcxraWpW3NKryVdMq7UMmEy5SwhcMG_RPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODcw/MzQtMTQ2NjYxNDU3/Ni0yNDQ3LmpwZWc.jpeg" alt="Cover for Different Words &#x2F; Different Meanings" style="max-width:120px; height:auto;" />
       </td>
@@ -1904,7 +1912,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/8aTp5GHdbKHmrXfRYSw9GbDxue4Kp3Y3pk8UhbTFRi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMx/NTMzLTE1MTk3MzMy/MjYtODgwOC5qcGVn.jpeg" alt="Cover for Pretty Good" style="max-width:120px; height:auto;" />
       </td>
@@ -1993,7 +2001,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
       </td>
       <td></td>
@@ -2013,7 +2021,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c412f51202243758bbfa3e2d4f75b65.png" alt="Cover for Blurred &#x2F; Satellite - Single" style="max-width:120px; height:auto;" />
       </td>
@@ -2034,7 +2042,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
       </td>
       <td></td>
@@ -2052,7 +2060,7 @@ The &quot;new york city&quot; tag captures the restless, gritty energy of urban 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td></td>

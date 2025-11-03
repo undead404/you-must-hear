@@ -1,125 +1,1939 @@
 ---
 category: genre
-date: 2025-10-28T23:53:31.440Z
+date: 2025-11-02T22:09:51.007Z
 permalink: tags/spanish-metal
 title: spanish metal
 ---
 
 ## spanish metal
 
-Last updated: <time datetime="2025-10-28T23:53:31.440Z">Wed Oct 29 2025 01:53:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T22:09:51.007Z">Mon Nov 03 2025 00:09:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 88 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e3a01d161c3abc0af69ee57aa4dba32d.png) | 1981 | Barón Rojo | Larga Vida Al Rock and Roll |
-| 38 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/86b26a0c35e65c6f2f436602faeb1bc8.png) | 1981-01 | Leo | Leo Metal Covers, Vol. 14 |
-| 95 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/218fdbcbbba83846ab0c68bba657eaa2.png) | 1981-01 | Leo | Leo Metal Covers, Vol. 15 |
-| 5 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ad31b879b0f34adb853bec0061ef0372.png) | 1982 | Panzer | Al Pie Del Cañón |
-| 11 |  | 1983 | Evo | Animal De Ciudad |
-| 23 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/72fc98a4652a441983c321fd6e35a138.png) | 1983-05-16 | Barón Rojo | Metalmorfosis |
-| 70 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/ef88b629bc1f699bd9df3142107aa1c0.png) | 1984 | Angeles del Infierno | Pacto Con El Diablo |
-| 62 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6ed66cf8ebcdf35c73424b1bd93a9951.png) | 1986 | Angeles del Infierno | Diabolicca |
-| 73 | ![Cover](https://i.discogs.com/BPUHPSCDG6iEW5JHTnJWSNaCEEs0k2QdlVZ48S5hMQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTgz/ODctMTM0MzIwNjk4/Ni05NzIzLmpwZWc.jpeg) | 1986 | Obus | En Directo |
-| 10 |  | 1987 | Muro | Acero y Sangre |
-| 12 | ![Cover](https://i.discogs.com/JIEM7rRcIK1GeeLDw2jb8P_io2C4AzOS8ELb0mEHHOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjE1/MTYtMTQ5MzU1MDY0/NS0xMTg2LmpwZWc.jpeg) | 1987 | Ñu | El Mensaje del Mago |
-| 53 | ![Cover](https://i.discogs.com/g-KtvAURCTTLN0-Uk8LqNHpTGomZicguEQ61cLvklLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzA3/NDgtMTM2NjgwNzk2/OC0xNTk5LmpwZWc.jpeg) | 1987 | Barón Rojo | Tierra De Nadie |
-| 17 | ![Cover](https://i.discogs.com/A1SufuYOVA4igJjvasL8KaLnM2Og-G3Etu4nNabk2BM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDM4/OTgtMTMyNzgxNDQ2/NC5qcGVn.jpeg) | 1988 | Barón Rojo | ¡No Va Más! |
-| 29 | ![Cover](https://i.discogs.com/8boMVXZrxW4-SpDY3IZYF8cRfoYAt7m7FfAlJN9cHNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjY1/ODQtMTQyNTc0ODIy/OS01OTIyLmpwZWc.jpeg) | 1988 | Niagara | Now or Never |
-| 51 | ![Cover](https://i.discogs.com/oUQxefwm9OmGNhiMA8ZEwtTEEsnfBneL5mPZhyON6Wo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzY0/MzEtMTMyMzU0MjEx/OC5qcGVn.jpeg) | 1988 | Muro | Telón de Acero |
-| 25 | ![Cover](https://i.discogs.com/KGjCzl7YREKXt4EuepQCTAtADdnBm9NEjuAqALlpWrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQ3/ODMtMTQyNjA3MTQ5/NS01MDUzLmpwZWc.jpeg) | 1989 | Muro | Mutant Hunter |
-| 41 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b77465e9da934efa9d323df0f67dc2cb.png) | 1989 | Barón Rojo | Obstinato |
-| 84 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/387909d1e2774b01bc40d9f03bf5b383.png) | 1991 | Hamlet | Hamlet |
-| 33 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/095c88dd5c660e218de47c1f7ae89db3.png) | 1992 | Muro | Pacto de Sangre |
-| 76 |  | 1992 | Hamlet | Peligroso |
-| 56 |  | 1994 | Hamlet | Sanatorio de Muñecos |
-| 30 | ![Cover](https://i.discogs.com/4pdY4wx5Z4KHY2Rqjb8GHpCDFtIdM6RN6TZziD_HBMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTEz/NDItMTMxMzQyNjcz/MS5qcGVn.jpeg) | 1995 | Estirpe Imperial | Herederos de una Historia |
-| 71 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/23e9b627ebc746dcb3591fa5a16aab30.png) | 1995-10 | Saratoga | Saratoga |
-| 44 | ![Cover](https://i.discogs.com/cUZE_IsmWZzCsI1SC8vBGl3nB5ZhxNbB874S5bkMVv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTE2/ODAtMTQyODg4NDQ5/NS00NjkzLmpwZWc.jpeg) | 1996 | Ktulu | Orden Genetico |
-| 49 |  | 1996 | Hamlet | Revolución 12.111 |
-| 40 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6e77f7ad07b44a99a5538338aa8e1960.png) | 1997 | Barón Rojo | Arma Secreta |
-| 52 | ![Cover](https://i.discogs.com/-uqC57bmOLms3e6fEb7wCMy9oN98A8weRqvH-AobpuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTM4/ODAtMTQ1MjAxMzEx/Mi04NzU4LmpwZWc.jpeg) | 1997 | Ktulu | Confrontacion |
-| 82 |  | 1997 | Avalanch | La Llama Eterna |
-| 3 |  | 1998 | Leo | Scatman - Metal Cover |
-| 4 |  | 1998 | Leo | Baby´s On Fire (Metal Version) |
-| 16 | ![Cover](https://i.discogs.com/e2XUeDBc4nF4l9LDwW_DzUqW2I0IDwDdx92ppwAuRI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgy/MDUtMTM0OTEzMjMz/MS01MzAzLmpwZWc.jpeg) | 1998 | Ktulu | El Latido Del Miedo |
-| 43 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6d510888b7ad44df9a7a6506ac4ef27e.png) | 1998 | Leo | Títere con cabeza |
-| 54 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/705f3dac0deb4100f51e728f4312a4df.png) | 1998 | Leo | Leo Metal Covers Volume 5 |
-| 55 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/090aa54700a28d4e3461bd9ae6e96b0c.png) | 1998 | Leo | Leo Metal Volume 17 |
-| 57 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/e5670a6f146b3b4688f3aa1aa437a069.png) | 1998 | Leo | Leo Metal Covers Volume 9 |
-| 59 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/eb670dae78f0ecea4fff01d8ab623ed7.png) | 1998 | Leo | Metal, Vol. 16 |
-| 66 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/893915be2aa95ba44a8258820a00e301.png) | 1998 | Leo | Leo Metal Covers Volume 8 |
-| 67 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d444ee952b77bca2dcdff98814aa3673.png) | 1998 | Leo | Leo Metal Covers Volume 4 |
-| 68 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/24f856cb434d4812bd785abcb2f13ce3.png) | 1998 | Leo | Leo Metal Covers Volume 7 |
-| 72 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/6af0abcb2e05bc767a6974b3f4f31492.png) | 1998 | Leo | Leo Metal Covers Volume 2 |
-| 74 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b8f0b3dffc862c36d8795ec9a4aaad2d.png) | 1998 | Leo | Leo Metal Covers Volume 1 |
-| 77 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/089068188338c95720e44d9daef5edbc.png) | 1998 | Leo | Leo Metal Covers Volume 3 |
-| 85 |  | 1998 | Hamlet | Insomnio |
-| 87 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/216b3ae80bbb955b49b0c0ac2d2c64c8.png) | 1998 | Leo | Leo Metal, Vol. 18 |
-| 1 |  | 1998-10 | Azrael | Futuro |
-| 14 | ![Cover](https://i.discogs.com/FdNqGAG9zRrWkvdg7OIc7d27WxGr2mgbT_lr0IGYlkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODg0/NjQtMTIzNzAzNzIx/MC5qcGVn.jpeg) | 1999 | Muro | Peligro Inminente |
-| 46 |  | 1999 | Ktulu | Ktulu |
-| 75 |  | 1999 | Narco | Talego Pon Pon |
-| 97 |  | 1999 | Avalanch | Llanto de un héroe |
-| 78 |  | 2000 | Hamlet | El Inferno |
-| 94 |  | 2000 | Tierra Santa | Tierras de Leyenda |
-| 27 |  | 2000-02 | Azrael | Mafia |
-| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b130230127213cc198feb97288a1b7a8.png) | 2001 | Barón Rojo | 20+ |
-| 21 | ![Cover](https://i.discogs.com/O5cdRd_xqbpQDMVF78FKwzxEAmWpBekOPasl1Fg50fM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTMz/MTcxLTE2NzM3NzMy/NDAtNDg1Mi5qcGVn.jpeg) | 2001 | Muro | Corazón de Metal |
-| 35 | ![Cover](https://i.discogs.com/5H21KNnLosnGxgxtTi0z8b942uUFaoEwCWQhSDyJzg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjc0/ODAtMTM2NDU4MzU1/NS05NzAyLmpwZWc.jpeg) | 2001 | Avalanch | El Angel Caido |
-| 37 | ![Cover](https://i.discogs.com/juc6Uze2iRBRnRaANR_oBbF4yR26bvlLf492SsHtmIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTYw/MjAtMTQxODIzMDA4/Ny00NjkyLmpwZWc.jpeg) | 2001 | Dragonslayer | Noche de Tormenta |
-| 45 | ![Cover](https://i.discogs.com/KYlFTxbDLTji2dyFlX-o0f3CiHSAK8YJuxKwopZfXyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTk2/NjUtMTU0MDM5MjY1/MC04NDY5LmpwZWc.jpeg) | 2001 | Azrael | Dimension IV |
-| 91 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4241585efe494829aafb34a28ecc6f87.png) | 2001 | Tierra Santa | Sangre de Reyes |
-| 47 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d1323ba3e93e6f9f09c891b655ffca36.png) | 2002 | Angeles del Infierno | Joven Para Morir |
-| 90 | ![Cover](https://i.discogs.com/HQ4IWSlThOlsrc7yM_o4Q6APhxODtvWDwClbQ6bQCuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDc1/NDIxLTE3MDA2NjE3/MjYtNDI2Mi5qcGVn.jpeg) | 2002 | Saratoga | Agotaras |
-| 98 |  | 2002-11-19 | Warcry | El Sello De Los Tiempos |
-| 9 |  | 2003 | Cuatro Gatos | La Caja de Musica |
-| 34 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/35cf695e6d0b403e84d9622f7e5de35d.png) | 2003 | Tierra Santa | Indomable |
-| 39 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/2b2e149b1d0a44a4907a38e237fd0982.png) | 2003 | Angeles del Infierno | Todos Somos Angeles |
-| 58 | ![Cover](https://i.discogs.com/W74gBqV-e6QWMlIucFGP14C93-Lg4lv2D-CWxBUU9A0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTE5/MjUtMTMwOTA5MzI4/MC5qcGVn.jpeg) | 2003 | Ars Amandi | Autóctono |
-| 69 |  | 2003 | Sphinx | Mar de Dioses |
-| 32 |  | 2003-09-08 | Mägo de Oz | gaia |
-| 81 | ![Cover](https://i.discogs.com/tlGajDECg32KTc7j96jIROLXk6CoKFg3kgSSOfOs6Wo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODU3/MjEtMTM3MjE4Njcz/NC0xNjM5LmpwZWc.jpeg) | 2003-11 | Tierra Santa | Las Mil y Una Noches |
-| 6 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/11d4f504ddc355b32b25fdf9cd5573e4.png) | 2004-03-01 | Saratoga | El Clan de la Lucha |
-| 42 | ![Cover](https://i.discogs.com/f2vhEP-FAfLGUrjQuWmb14Xn0JOHPjfgWqCVEsOPQxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzI0/MjktMTQ0MTQwMTc2/OC01MjEyLmpwZWc.jpeg) | 2004-03-29 | Ars Amandi | En Tierra Firme |
-| 86 |  | 2004-10-25 | Tierra Santa | Apocalipsis |
-| 8 |  | 2005 | Criteria (ESP) | Criteria (EP) |
-| 31 | ![Cover](https://i.discogs.com/4GCiD5zkbCasXFOqu8ZFuRI8q3gl0sGYT3obgqqCf0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTUy/Njc3LTE2MDg0NjM5/ODgtODg0NC5qcGVn.jpeg) | 2005 | Tormento | Demo 2005 |
-| 93 |  | 2005 | Ars Amandi | Camino Al Destino |
-| 92 |  | 2005-02-15 | Avalanch | Mother Earth |
-| 7 |  | 2006 | Criteria (ESP) | La noche del cazador (Ep) |
-| 89 | ![Cover](https://i.discogs.com/RJboThYNsffTUI2BlWR5gjGwVmRt2cHhdb-HNfYsraM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzUw/MTMtMTY0MzM1NTEy/Ny01MzIzLmpwZWc.jpeg) | 2006-01 | Darksun | El lado oscuro |
-| 96 |  | 2006-05-29 | Tierra Santa | Mejor Morir En Pie |
-| 24 | ![Cover](https://i.discogs.com/hLpS5qAZvR8hbt1E41PaGZmYYG9gg41p0wVWjOJLrEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTk2/MjctMTI5MDQ0MDgw/MS5qcGVn.jpeg) | 2007-01-09 | Nightjar | Thru The Shadows |
-| 99 |  | 2007-02-19 | Skizoo | Incerteza |
-| 20 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/06787bd4638b411c854e941652ce3a54.png) | 2007-02-21 | Dark Moor | Tarot |
-| 19 |  | 2007-03 | Azrael | Libre |
-| 13 |  | 2008 | Criteria (ESP) | La herejia |
-| 26 | ![Cover](https://i.discogs.com/9OgUYWOdMC9Bob5rebQ0On56NvJkb_a_cA-CwTAId1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc2/Mzg1LTE1NDM2Njkw/MjMtNDQ4NC5qcGVn.jpeg) | 2008 | Kaleya | Kaleya |
-| 100 | ![Cover](https://i.discogs.com/mht3CZ4vojmCyZbyN4exZw7vttwZ27OP0elU-UiUAqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjY5/ODQtMTYxMzkxNDk4/Mi02NzQ0LmpwZWc.jpeg) | 2008 | Moderatto | Nuestro Amor |
-| 64 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d3a180b9abe241dc9f91497e824aa8c5.png) | 2009 | Zenobia | Alma de Fuego |
-| 28 | ![Cover](https://i.discogs.com/frt5OUIFJ_IOo1ufYdYMlpZ6jwm4NHXqGm35Y3K_9KA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNzgy/ODYtMTQ1ODQ5Nzcx/OC03MzM2LmpwZWc.jpeg) | 2009-03-11 | Wakala | Jardim in erva |
-| 60 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/863118e91ab76fc8b00978f1f126e06d.png) | 2009-06-05 | Cautiva | Human |
-| 15 | ![Cover](https://i.discogs.com/h56duFmGqFyJV-CbegNTBfuyEHs-nkDyQtVNL6ajVUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzQ3/NTMtMTQwNzgxMDE5/MC0yMTYzLmpwZWc.jpeg) | 2010 | Morti | Exmundus |
-| 61 | ![Cover](https://i.discogs.com/cBK8BCX6hf8N6U3aVjbtcJnEaQfvZ82I1ZQlXCfCXAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjU3/MzUtMTQ2OTcwNTQx/NS0zNjIxLmpwZWc.jpeg) | 2011-11-28 | Soziedad Alkoholika | Cadenas De Odio |
-| 83 |  | 2012-02-10 | Horn of the Rhino | Grengus |
-| 65 |  | 2012-10-30 | Mägo de Oz | Hechizos, Pócimas y Brujería |
-| 22 | ![Cover](https://i.discogs.com/v5vnB-oG_9Rw6JbY6XRbMEi_QzEb-rlvlxxe0JJxk30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTM1/NzQtMTQyNjA0MTY4/My0xNzAzLmpwZWc.jpeg) | 2013-03-15 | Muro | El Cuarto Jinete |
-| 50 | ![Cover](https://i.discogs.com/AWlXdL_GklsutmqpTSg4pbg9VLZHrA6QbuK2YOcF1R4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODkw/NzYtMTQ5NzYwOTc2/My05MzI2LmpwZWc.jpeg) | 2014 | Gigatron | Mar de Cuernos |
-| 2 |  | 2015-05-29 | Ered | Night of Eternal Doom |
-| 36 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/b23fd24c603ab8241d6782f88bdfe2e7.png) | 2015-12-15 | Leo | Leo Metal Covers Volume 6 |
-| 48 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5aa48d0ca4082dfcb981814cd02f4f12.png) | 2020-08-14 | Leo | Metal Covers, Vol. 11 |
-| 63 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4a2ff26a3c04731cc775b0f00962e737.png) | 2020-08-14 | Leo | Metal Covers, Vol. 13 |
-| 79 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/a53d6387bbfe78c0c4008f8ebe23df77.png) | 2020-08-14 | Leo | Metal Covers, Vol. 10 |
-| 80 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/c7d9476cebf3a1c2d99168ed66f186f1.png) | 2020-08-14 | Leo | Metal Covers, Vol. 12 |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3a01d161c3abc0af69ee57aa4dba32d.png" alt="Cover for Larga Vida Al Rock and Roll" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981</td>
+      <td>Barón Rojo</td>
+      <td>Larga Vida Al Rock and Roll</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/218fdbcbbba83846ab0c68bba657eaa2.png" alt="Cover for Leo Metal Covers, Vol. 15" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981-01</td>
+      <td>Leo</td>
+      <td>Leo Metal Covers, Vol. 15</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad31b879b0f34adb853bec0061ef0372.png" alt="Cover for Al Pie Del Cañón" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1982</td>
+      <td>Panzer</td>
+      <td>Al Pie Del Cañón</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td>1983</td>
+      <td>Evo</td>
+      <td>Animal De Ciudad</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72fc98a4652a441983c321fd6e35a138.png" alt="Cover for Metalmorfosis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983-05-16</td>
+      <td>Barón Rojo</td>
+      <td>Metalmorfosis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef88b629bc1f699bd9df3142107aa1c0.png" alt="Cover for Pacto Con El Diablo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Angeles del Infierno</td>
+      <td>Pacto Con El Diablo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ed66cf8ebcdf35c73424b1bd93a9951.png" alt="Cover for Diabolicca" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Angeles del Infierno</td>
+      <td>Diabolicca</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/BPUHPSCDG6iEW5JHTnJWSNaCEEs0k2QdlVZ48S5hMQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTgz/ODctMTM0MzIwNjk4/Ni05NzIzLmpwZWc.jpeg" alt="Cover for En Directo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Obus</td>
+      <td>En Directo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td>1987</td>
+      <td>Muro</td>
+      <td>Acero y Sangre</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://i.discogs.com/JIEM7rRcIK1GeeLDw2jb8P_io2C4AzOS8ELb0mEHHOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjE1/MTYtMTQ5MzU1MDY0/NS0xMTg2LmpwZWc.jpeg" alt="Cover for El Mensaje del Mago" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Ñu</td>
+      <td>El Mensaje del Mago</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/g-KtvAURCTTLN0-Uk8LqNHpTGomZicguEQ61cLvklLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzA3/NDgtMTM2NjgwNzk2/OC0xNTk5LmpwZWc.jpeg" alt="Cover for Tierra De Nadie" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Barón Rojo</td>
+      <td>Tierra De Nadie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/A1SufuYOVA4igJjvasL8KaLnM2Og-G3Etu4nNabk2BM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDM4/OTgtMTMyNzgxNDQ2/NC5qcGVn.jpeg" alt="Cover for ¡No Va Más!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Barón Rojo</td>
+      <td>¡No Va Más!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/8boMVXZrxW4-SpDY3IZYF8cRfoYAt7m7FfAlJN9cHNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjY1/ODQtMTQyNTc0ODIy/OS01OTIyLmpwZWc.jpeg" alt="Cover for Now or Never" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Niagara</td>
+      <td>Now or Never</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/oUQxefwm9OmGNhiMA8ZEwtTEEsnfBneL5mPZhyON6Wo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzY0/MzEtMTMyMzU0MjEx/OC5qcGVn.jpeg" alt="Cover for Telón de Acero" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Muro</td>
+      <td>Telón de Acero</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://i.discogs.com/KGjCzl7YREKXt4EuepQCTAtADdnBm9NEjuAqALlpWrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQ3/ODMtMTQyNjA3MTQ5/NS01MDUzLmpwZWc.jpeg" alt="Cover for Mutant Hunter" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Muro</td>
+      <td>Mutant Hunter</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b77465e9da934efa9d323df0f67dc2cb.png" alt="Cover for Obstinato" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Barón Rojo</td>
+      <td>Obstinato</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/387909d1e2774b01bc40d9f03bf5b383.png" alt="Cover for Hamlet" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Hamlet</td>
+      <td>Hamlet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/095c88dd5c660e218de47c1f7ae89db3.png" alt="Cover for Pacto de Sangre" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Muro</td>
+      <td>Pacto de Sangre</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>1992</td>
+      <td>Hamlet</td>
+      <td>Peligroso</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Hamlet</td>
+      <td>Sanatorio de Muñecos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/4pdY4wx5Z4KHY2Rqjb8GHpCDFtIdM6RN6TZziD_HBMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTEz/NDItMTMxMzQyNjcz/MS5qcGVn.jpeg" alt="Cover for Herederos de una Historia" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995</td>
+      <td>Estirpe Imperial</td>
+      <td>Herederos de una Historia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spain" | relative_url }}">spain</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23e9b627ebc746dcb3591fa5a16aab30.png" alt="Cover for Saratoga" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-10</td>
+      <td>Saratoga</td>
+      <td>Saratoga</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Azrael</td>
+      <td>Nada por nadie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+          <img src="https://i.discogs.com/cUZE_IsmWZzCsI1SC8vBGl3nB5ZhxNbB874S5bkMVv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTE2/ODAtMTQyODg4NDQ5/NS00NjkzLmpwZWc.jpeg" alt="Cover for Orden Genetico" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>Ktulu</td>
+      <td>Orden Genetico</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>1996</td>
+      <td>Hamlet</td>
+      <td>Revolución 12.111</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e77f7ad07b44a99a5538338aa8e1960.png" alt="Cover for Arma Secreta" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Barón Rojo</td>
+      <td>Arma Secreta</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/-uqC57bmOLms3e6fEb7wCMy9oN98A8weRqvH-AobpuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTM4/ODAtMTQ1MjAxMzEx/Mi04NzU4LmpwZWc.jpeg" alt="Cover for Confrontacion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Ktulu</td>
+      <td>Confrontacion</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>Avalanch</td>
+      <td>La Llama Eterna</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3b9065b97a342e9b2ca0294aa9049ce.png" alt="Cover for Turn Down for What (Metal Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Turn Down for What (Metal Version)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Scatman - Metal Cover</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/e2XUeDBc4nF4l9LDwW_DzUqW2I0IDwDdx92ppwAuRI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgy/MDUtMTM0OTEzMjMz/MS01MzAzLmpwZWc.jpeg" alt="Cover for El Latido Del Miedo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Ktulu</td>
+      <td>El Latido Del Miedo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d510888b7ad44df9a7a6506ac4ef27e.png" alt="Cover for Títere con cabeza" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Títere con cabeza</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/705f3dac0deb4100f51e728f4312a4df.png" alt="Cover for Leo Metal Covers Volume 5" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Leo Metal Covers Volume 5</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d444ee952b77bca2dcdff98814aa3673.png" alt="Cover for Leo Metal Covers Volume 4" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Leo Metal Covers Volume 4</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6af0abcb2e05bc767a6974b3f4f31492.png" alt="Cover for Leo Metal Covers Volume 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Leo Metal Covers Volume 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td>1998</td>
+      <td>Hamlet</td>
+      <td>Insomnio</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/090aa54700a28d4e3461bd9ae6e96b0c.png" alt="Cover for Leo Metal Volume 17" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Leo Metal Volume 17</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5670a6f146b3b4688f3aa1aa437a069.png" alt="Cover for Leo Metal Covers Volume 9" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Leo Metal Covers Volume 9</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb670dae78f0ecea4fff01d8ab623ed7.png" alt="Cover for Metal, Vol. 16" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Metal, Vol. 16</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/893915be2aa95ba44a8258820a00e301.png" alt="Cover for Leo Metal Covers Volume 8" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Leo Metal Covers Volume 8</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24f856cb434d4812bd785abcb2f13ce3.png" alt="Cover for Leo Metal Covers Volume 7" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Leo Metal Covers Volume 7</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8f0b3dffc862c36d8795ec9a4aaad2d.png" alt="Cover for Leo Metal Covers Volume 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Leo Metal Covers Volume 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/089068188338c95720e44d9daef5edbc.png" alt="Cover for Leo Metal Covers Volume 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Leo Metal Covers Volume 3</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/216b3ae80bbb955b49b0c0ac2d2c64c8.png" alt="Cover for Leo Metal, Vol. 18" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Leo Metal, Vol. 18</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>1998-10</td>
+      <td>Azrael</td>
+      <td>Futuro</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/FdNqGAG9zRrWkvdg7OIc7d27WxGr2mgbT_lr0IGYlkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODg0/NjQtMTIzNzAzNzIx/MC5qcGVn.jpeg" alt="Cover for Peligro Inminente" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Muro</td>
+      <td>Peligro Inminente</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Ktulu</td>
+      <td>Ktulu</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Narco</td>
+      <td>Talego Pon Pon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Avalanch</td>
+      <td>Llanto de un héroe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Hamlet</td>
+      <td>El Inferno</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td>2000</td>
+      <td>Tierra Santa</td>
+      <td>Tierras de Leyenda</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td>2000-02</td>
+      <td>Azrael</td>
+      <td>Mafia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b130230127213cc198feb97288a1b7a8.png" alt="Cover for 20+" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Barón Rojo</td>
+      <td>20+</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/O5cdRd_xqbpQDMVF78FKwzxEAmWpBekOPasl1Fg50fM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTMz/MTcxLTE2NzM3NzMy/NDAtNDg1Mi5qcGVn.jpeg" alt="Cover for Corazón de Metal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Muro</td>
+      <td>Corazón de Metal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/5H21KNnLosnGxgxtTi0z8b942uUFaoEwCWQhSDyJzg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjc0/ODAtMTM2NDU4MzU1/NS05NzAyLmpwZWc.jpeg" alt="Cover for El Angel Caido" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Avalanch</td>
+      <td>El Angel Caido</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/juc6Uze2iRBRnRaANR_oBbF4yR26bvlLf492SsHtmIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTYw/MjAtMTQxODIzMDA4/Ny00NjkyLmpwZWc.jpeg" alt="Cover for Noche de Tormenta" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Dragonslayer</td>
+      <td>Noche de Tormenta</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/KYlFTxbDLTji2dyFlX-o0f3CiHSAK8YJuxKwopZfXyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTk2/NjUtMTU0MDM5MjY1/MC04NDY5LmpwZWc.jpeg" alt="Cover for Dimension IV" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Azrael</td>
+      <td>Dimension IV</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4241585efe494829aafb34a28ecc6f87.png" alt="Cover for Sangre de Reyes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Tierra Santa</td>
+      <td>Sangre de Reyes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1323ba3e93e6f9f09c891b655ffca36.png" alt="Cover for Joven Para Morir" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Angeles del Infierno</td>
+      <td>Joven Para Morir</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/HQ4IWSlThOlsrc7yM_o4Q6APhxODtvWDwClbQ6bQCuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDc1/NDIxLTE3MDA2NjE3/MjYtNDI2Mi5qcGVn.jpeg" alt="Cover for Agotaras" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Saratoga</td>
+      <td>Agotaras</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td>2002-11-19</td>
+      <td>Warcry</td>
+      <td>El Sello De Los Tiempos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Cuatro Gatos</td>
+      <td>La Caja de Musica</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35cf695e6d0b403e84d9622f7e5de35d.png" alt="Cover for Indomable" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Tierra Santa</td>
+      <td>Indomable</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b2e149b1d0a44a4907a38e237fd0982.png" alt="Cover for Todos Somos Angeles" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Angeles del Infierno</td>
+      <td>Todos Somos Angeles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/W74gBqV-e6QWMlIucFGP14C93-Lg4lv2D-CWxBUU9A0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTE5/MjUtMTMwOTA5MzI4/MC5qcGVn.jpeg" alt="Cover for Autóctono" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Ars Amandi</td>
+      <td>Autóctono</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+      </td>
+      <td>2003</td>
+      <td>Sphinx</td>
+      <td>Mar de Dioses</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+      </td>
+      <td>2003-09-08</td>
+      <td>Mägo de Oz</td>
+      <td>gaia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/tlGajDECg32KTc7j96jIROLXk6CoKFg3kgSSOfOs6Wo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODU3/MjEtMTM3MjE4Njcz/NC0xNjM5LmpwZWc.jpeg" alt="Cover for Las Mil y Una Noches" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-11</td>
+      <td>Tierra Santa</td>
+      <td>Las Mil y Una Noches</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/f2vhEP-FAfLGUrjQuWmb14Xn0JOHPjfgWqCVEsOPQxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzI0/MjktMTQ0MTQwMTc2/OC01MjEyLmpwZWc.jpeg" alt="Cover for En Tierra Firme" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-03-29</td>
+      <td>Ars Amandi</td>
+      <td>En Tierra Firme</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td>2004-10-25</td>
+      <td>Tierra Santa</td>
+      <td>Apocalipsis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Criteria (ESP)</td>
+      <td>Criteria (EP)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 10</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/4GCiD5zkbCasXFOqu8ZFuRI8q3gl0sGYT3obgqqCf0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTUy/Njc3LTE2MDg0NjM5/ODgtODg0NC5qcGVn.jpeg" alt="Cover for Demo 2005" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Tormento</td>
+      <td>Demo 2005</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Ars Amandi</td>
+      <td>Camino Al Destino</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+      </td>
+      <td>2005-02-15</td>
+      <td>Avalanch</td>
+      <td>Mother Earth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td>2006</td>
+      <td>Criteria (ESP)</td>
+      <td>La noche del cazador (Ep)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/RJboThYNsffTUI2BlWR5gjGwVmRt2cHhdb-HNfYsraM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzUw/MTMtMTY0MzM1NTEy/Ny01MzIzLmpwZWc.jpeg" alt="Cover for El lado oscuro" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-01</td>
+      <td>Darksun</td>
+      <td>El lado oscuro</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>2006-05-29</td>
+      <td>Tierra Santa</td>
+      <td>Mejor Morir En Pie</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/hLpS5qAZvR8hbt1E41PaGZmYYG9gg41p0wVWjOJLrEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTk2/MjctMTI5MDQ0MDgw/MS5qcGVn.jpeg" alt="Cover for Thru The Shadows" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-01-09</td>
+      <td>Nightjar</td>
+      <td>Thru The Shadows</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2007-02-19</td>
+      <td>Skizoo</td>
+      <td>Incerteza</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06787bd4638b411c854e941652ce3a54.png" alt="Cover for Tarot" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-02-21</td>
+      <td>Dark Moor</td>
+      <td>Tarot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+      </td>
+      <td>2007-03</td>
+      <td>Azrael</td>
+      <td>Libre</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/9OgUYWOdMC9Bob5rebQ0On56NvJkb_a_cA-CwTAId1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc2/Mzg1LTE1NDM2Njkw/MjMtNDQ4NC5qcGVn.jpeg" alt="Cover for Kaleya" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Kaleya</td>
+      <td>Kaleya</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/galiza" | relative_url }}">galiza</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 19</li>
+            <li> <a href="{{ "/tags/galiza" | relative_url }}">galiza</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/mht3CZ4vojmCyZbyN4exZw7vttwZ27OP0elU-UiUAqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjY5/ODQtMTYxMzkxNDk4/Mi02NzQ0LmpwZWc.jpeg" alt="Cover for Nuestro Amor" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Moderatto</td>
+      <td>Nuestro Amor</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 94</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td>2008</td>
+      <td>Criteria (ESP)</td>
+      <td>La herejia</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3a180b9abe241dc9f91497e824aa8c5.png" alt="Cover for Alma de Fuego" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Zenobia</td>
+      <td>Alma de Fuego</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/frt5OUIFJ_IOo1ufYdYMlpZ6jwm4NHXqGm35Y3K_9KA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNzgy/ODYtMTQ1ODQ5Nzcx/OC03MzM2LmpwZWc.jpeg" alt="Cover for Jardim in erva" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-03-11</td>
+      <td>Wakala</td>
+      <td>Jardim in erva</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/863118e91ab76fc8b00978f1f126e06d.png" alt="Cover for Human" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-06-05</td>
+      <td>Cautiva</td>
+      <td>Human</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 68</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 71</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 72</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 72</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/h56duFmGqFyJV-CbegNTBfuyEHs-nkDyQtVNL6ajVUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzQ3/NTMtMTQwNzgxMDE5/MC0yMTYzLmpwZWc.jpeg" alt="Cover for Exmundus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Morti</td>
+      <td>Exmundus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/cBK8BCX6hf8N6U3aVjbtcJnEaQfvZ82I1ZQlXCfCXAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjU3/MzUtMTQ2OTcwNTQx/NS0zNjIxLmpwZWc.jpeg" alt="Cover for Cadenas De Odio" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-11-28</td>
+      <td>Soziedad Alkoholika</td>
+      <td>Cadenas De Odio</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td>2012-02-10</td>
+      <td>Horn of the Rhino</td>
+      <td>Grengus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+      </td>
+      <td>2012-10-30</td>
+      <td>Mägo de Oz</td>
+      <td>Hechizos, Pócimas y Brujería</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://i.discogs.com/JvyRmPbYm0aFuGo3U-Wwe6nXZ6WpQ6cpaJqfAWauTFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzU1/OTk1LTE1NDEwODY0/MjItMjg5MC5qcGVn.jpeg" alt="Cover for Héroes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Aphonnic</td>
+      <td>Héroes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/galiza" | relative_url }}">galiza</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/galiza" | relative_url }}">galiza</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/v5vnB-oG_9Rw6JbY6XRbMEi_QzEb-rlvlxxe0JJxk30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTM1/NzQtMTQyNjA0MTY4/My0xNzAzLmpwZWc.jpeg" alt="Cover for El Cuarto Jinete" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-03-15</td>
+      <td>Muro</td>
+      <td>El Cuarto Jinete</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/AWlXdL_GklsutmqpTSg4pbg9VLZHrA6QbuK2YOcF1R4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODkw/NzYtMTQ5NzYwOTc2/My05MzI2LmpwZWc.jpeg" alt="Cover for Mar de Cuernos" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014</td>
+      <td>Gigatron</td>
+      <td>Mar de Cuernos</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+      </td>
+      <td>2015-05-29</td>
+      <td>Ered</td>
+      <td>Night of Eternal Doom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b23fd24c603ab8241d6782f88bdfe2e7.png" alt="Cover for Leo Metal Covers Volume 6" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-12-15</td>
+      <td>Leo</td>
+      <td>Leo Metal Covers Volume 6</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a2ff26a3c04731cc775b0f00962e737.png" alt="Cover for Metal Covers, Vol. 13" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-08-14</td>
+      <td>Leo</td>
+      <td>Metal Covers, Vol. 13</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a53d6387bbfe78c0c4008f8ebe23df77.png" alt="Cover for Metal Covers, Vol. 10" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-08-14</td>
+      <td>Leo</td>
+      <td>Metal Covers, Vol. 10</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7d9476cebf3a1c2d99168ed66f186f1.png" alt="Cover for Metal Covers, Vol. 12" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-08-14</td>
+      <td>Leo</td>
+      <td>Metal Covers, Vol. 12</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2024</td>
+      <td>In Vain</td>
+      <td>Back to Nowhere</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
 - [heavy metal]({{ "/tags/heavy-metal" | relative_url }})
 - [metal]({{ "/tags/metal" | relative_url }})
-- [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [spanish]({{ "/tags/spanish" | relative_url }})
+- [hard rock]({{ "/tags/hard-rock" | relative_url }})
 - [power metal]({{ "/tags/power-metal" | relative_url }})
 - [spain]({{ "/tags/spain" | relative_url }})
 - [speed metal]({{ "/tags/speed-metal" | relative_url }})
