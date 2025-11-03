@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T08:59:50.994Z
+date: 2025-11-02T23:47:51.460Z
 permalink: tags/k-rock
 title: k-rock
 ---
 
 ## k-rock
 
-Last updated: <time datetime="2025-11-01T08:59:50.994Z">Sat Nov 01 2025 10:59:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T23:47:51.460Z">Mon Nov 03 2025 01:47:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -369,27 +369,6 @@ K-rock is a genre blending Korean pop sensibilities with rock instrumentation, r
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-rock" | relative_url }}">k-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/Jivd4EQWtg-lUivbgT1iUvC4sOlFaU8eu8J2FQq-uQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4ODI2/OTQtMTQwNTMzNTA0/My02MjcwLmpwZWc.jpeg" alt="Cover for Digital Human" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Ares</td>
-      <td>Digital Human</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-rock" | relative_url }}">k-rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
         </ul>
@@ -1173,7 +1152,6 @@ K-rock is a genre blending Korean pop sensibilities with rock instrumentation, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1958,6 +1936,22 @@ K-rock is a genre blending Korean pop sensibilities with rock instrumentation, r
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Lee Seung Yoon</td>
+      <td>Mine (Original Television Soundtrack), Pt. 1</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T04:57:34.530Z
+date: 2025-11-02T23:33:50.942Z
 permalink: tags/finland
 title: finland
 ---
 
 ## finland
 
-Last updated: <time datetime="2025-10-28T04:57:34.530Z">Tue Oct 28 2025 06:57:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-02T23:33:50.942Z">Mon Nov 03 2025 01:33:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -68,7 +68,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/TvDIQkL3laD1AeRJ_I8MAODuKzXvuc_KA_5HF6NyY38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDk3/NzYtMTQxNjE1MTk1/Mi01MDc2LmpwZWc.jpeg" alt="Cover for Be Water" style="max-width:120px; height:auto;" />
       </td>
@@ -93,7 +93,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/e0y9A0jWdQCGF0QFLp5m3uTtUkPmynm9997fYcoYrg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjc5/MTMyLTE0OTQ1Nzky/NDUtNjIyNS5qcGVn.jpeg" alt="Cover for Offenses" style="max-width:120px; height:auto;" />
       </td>
@@ -136,7 +136,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
       </td>
       <td>1976</td>
@@ -158,7 +158,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/8-Z8l-arJqDWuy5B9abDhMHsEhYuJYJ42CAU7ltlirQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDk3/NzM3LTE2MjMzOTQ0/OTUtOTg5MS5qcGVn.jpeg" alt="Cover for Pahojen poikien lauluja" style="max-width:120px; height:auto;" />
       </td>
@@ -179,7 +179,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/V_w_TQQWXsINqFiKw8ZCZkPsJZQKKFIvOpgv6EgDRzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/NjYtMTQwMzI2ODg5/NS04NzA3LmpwZWc.jpeg" alt="Cover for Sing About Me" style="max-width:120px; height:auto;" />
       </td>
@@ -201,7 +201,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f49621191904da7a2568c860a031125.png" alt="Cover for Tarjolla Tänään" style="max-width:120px; height:auto;" />
       </td>
@@ -222,7 +222,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/_T3QKr47TWiFeTMOIYApOgsjHNxhNaI8CIsNf3_xzO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDU3/NjctMTMyMjI2NzAx/MS5qcGVn.jpeg" alt="Cover for On You" style="max-width:120px; height:auto;" />
       </td>
@@ -268,7 +268,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/AGLNXic1tMZJg9qK-RYTB-ZRvBaS6Xkvdv8MiTGGuE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTMx/NjItMTI5NTEwMTA1/Ni5qcGVn.jpeg" alt="Cover for Bangkok Shocks Saigon Shakes" style="max-width:120px; height:auto;" />
       </td>
@@ -310,7 +310,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/ECXN-0upc1kJ-fNUsQM-iinwlQObm1IKRQjNLP8TLEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTYw/NzEtMTY3NjU3NDQ5/MS0yNTIwLmpwZWc.jpeg" alt="Cover for 20 toivottua" style="max-width:120px; height:auto;" />
       </td>
@@ -400,7 +400,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b88f1bbd8e8344c09da5332406a0baf8.png" alt="Cover for Akti" style="max-width:120px; height:auto;" />
       </td>
@@ -420,7 +420,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/elX1bEkMFg7H10QaMm5f5vLz6LVtxbTWrdDTrpp1nCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDAx/NjQtMTU2MDMyNjkz/NS0xNjMzLmpwZWc.jpeg" alt="Cover for Kiveä ja sämpylää" style="max-width:120px; height:auto;" />
       </td>
@@ -481,7 +481,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>1997</td>
@@ -521,13 +521,13 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 39</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 47</li>
             <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>1997</td>
@@ -546,7 +546,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/-j4CHAkyKWZzeoD8r52JgbfNpX6qjLr0_OrdQOMX2JA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTIz/LTEzMDczNzkwNzgu/anBlZw.jpeg" alt="Cover for Kolmio EP" style="max-width:120px; height:auto;" />
       </td>
@@ -631,7 +631,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>2002</td>
@@ -648,7 +648,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 58</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 59</li>
             <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 69</li>
         </ul>
       </td>
@@ -714,7 +714,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/WZfw1ktAA85pJb25KDnVFr7iGnVodTwscZM7ZtJGsEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTg1/LTExNTU4MzUxMTIu/anBlZw.jpeg" alt="Cover for Alea Rasa" style="max-width:120px; height:auto;" />
       </td>
@@ -758,7 +758,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/7DSZAB3WD0GQ3EnUMSpvjkOr2vanMX2A9rHleFgZeRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjkz/MS0xMjkyOTM1MjMw/LmpwZWc.jpeg" alt="Cover for High Standards" style="max-width:120px; height:auto;" />
       </td>
@@ -804,7 +804,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa4c485b2d7d60fe8e67822d10f003af.png" alt="Cover for Sadan Vuoden Päästäkin" style="max-width:120px; height:auto;" />
       </td>
@@ -886,7 +886,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>2006-03-29</td>
@@ -904,6 +904,23 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
         <ul>
             <li> <a href="{{ "/tags/suomipop" | relative_url }}">suomipop</a> # 39</li>
             <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2006-05-10</td>
+      <td>Mikko Leppilampi</td>
+      <td>Mikko Leppilampi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finland" | relative_url }}">finland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -929,7 +946,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/w55XLlHRWZy1o0XBBkinXbaarjsyIAqWO1u1gMPZZ3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzUz/NS0xMTYxNDQ0NDI4/LmpwZWc.jpeg" alt="Cover for Suppea Alaista Lifestyle Musiikkia vol 1" style="max-width:120px; height:auto;" />
       </td>
@@ -975,7 +992,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/FX_qASwFNVwkUQX1icc5H1RTDhb_cCtpvIlwfg_e4iI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MDU3/My0xMTY0OTA1MzI3/LmpwZWc.jpeg" alt="Cover for Airport Lounge" style="max-width:120px; height:auto;" />
       </td>
@@ -1000,7 +1017,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>2006-12-02</td>
@@ -1019,7 +1036,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>2007</td>
@@ -1041,7 +1058,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/LwjrY49pZRpAM1eXk8tyJGUdS1CB9ojAZI3p97ObDPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzI3/MDQtMTYxMTkxMzI0/NS03MzE2LmpwZWc.jpeg" alt="Cover for Nothing as Whole as a Broken Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1083,7 +1100,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>2008-02-19</td>
@@ -1101,13 +1118,13 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 66</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 67</li>
             <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/wxAzZGuARR0Iwqm-qtKqG7U6AyB74WzHiuT2ApR9uU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjEz/MDEtMTMzNzYwMzI2/MC01OTg0LmpwZWc.jpeg" alt="Cover for Babies of Revolution" style="max-width:120px; height:auto;" />
       </td>
@@ -1199,7 +1216,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
       </td>
       <td>2009</td>
@@ -1247,7 +1264,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2009-06-03</td>
@@ -1336,7 +1353,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2010-02-24</td>
@@ -1354,7 +1371,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/df1qyLq1rmIbakA-qfT4lfReiaSLO28O97qK-Sh880g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODU2/MjAtMTM3NjY3MzE3/Ny05MjkxLmpwZWc.jpeg" alt="Cover for Ricky-Tick Big Band" style="max-width:120px; height:auto;" />
       </td>
@@ -1457,7 +1474,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/wdwL33niIKRdPQqZBXHTcU2qAHUQy2F-t1HK6MAO0jQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODg2/OTMtMTUxNTA1ODYy/OS03MzE4LmpwZWc.jpeg" alt="Cover for Tahdon luottaa" style="max-width:120px; height:auto;" />
       </td>
@@ -1476,7 +1493,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/60pto9UEiqYJRWSuAFmQalT86lQLKl1_nWI0EollEdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTA3/MDQtMTMyODU1NjEx/Mi5qcGVn.jpeg" alt="Cover for Before I Go Go EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1503,7 +1520,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/gMkDBH70JxMpDM3XoU1n5FzIP0FEJeE-KbWCdtef9ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTkz/NzEtMTMzMTIxMDkw/Ny5qcGVn.jpeg" alt="Cover for Not Alone In Kyoto" style="max-width:120px; height:auto;" />
       </td>
@@ -1549,7 +1566,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c60d49c7b02601ba64248e859d201feb.png" alt="Cover for Born To Break Your Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -1615,7 +1632,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/UYIOmPMwr-LEVVZ4VGAYJEu9I29Jo3qnZ90dVjny9o0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDE1/MDMtMTQyODkxNDcz/Mi04ODI2LmpwZWc.jpeg" alt="Cover for Grindaa ja flowaa (feat. Tippa-T)" style="max-width:120px; height:auto;" />
       </td>
@@ -1756,28 +1773,6 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac1c324978dbb18d57cc1baf9b4d8eea.png" alt="Cover for Bad Blood Rising" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017</td>
-      <td>Santa Cruz</td>
-      <td>Bad Blood Rising</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/finland" | relative_url }}">finland</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 40</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>99</td>
       <td>
           <img src="https://i.discogs.com/dQwP1E-07766EyssFsVziQ5x0s2lyIHGU6CVsmt9hBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI3/MDM0LTE2OTM5Mjk0/MDgtMzk5Ny5qcGVn.jpeg" alt="Cover for hiraeth ep" style="max-width:120px; height:auto;" />
@@ -1798,7 +1793,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/RX6OUW1X_DouLhwDEIyZ1dQCAJNVNy2QTwXxI002M9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjMy/MzEtMTYyMDA4Njgw/Ny05MDQxLmpwZWc.jpeg" alt="Cover for Severed Monolith" style="max-width:120px; height:auto;" />
       </td>
@@ -1922,7 +1917,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/ZVFtdbG5LEzIdNLHI1pVycoieeMo0Q-CD8IHZNnAwEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDg2/MzgxLTE1MzYyNDQ5/MDYtMTk5MS5qcGVn.jpeg" alt="Cover for Spin" style="max-width:120px; height:auto;" />
       </td>
@@ -1941,7 +1936,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/OyPje3SwymnvEUW8lzLODIPkF5-CWLOot8kB4hhE59Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM1/MzA5LTE2MDI4NTg5/NjEtNTAxMy5qcGVn.jpeg" alt="Cover for Melkein Vieraissa - Tribuutti Leevi &amp; The Leavingsille" style="max-width:120px; height:auto;" />
       </td>
@@ -1963,7 +1958,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/JT3eg5ljJ9UjbsVGyz6c6Kf0SgTpAF8-QRJlFslq9dQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTc5/Mjc0LTE2NDUyNzIw/NDUtNzE5MC5qcGVn.jpeg" alt="Cover for Ainavihantaa" style="max-width:120px; height:auto;" />
       </td>
@@ -1982,7 +1977,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/d7vG6cEMp-s9feU49LBcds0aI4z4KWCYM9sDvUxZHXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI0/ODg3LTE2MTk3NzUx/ODctMzg0Ni5qcGVn.jpeg" alt="Cover for moshimoshi I" style="max-width:120px; height:auto;" />
       </td>
@@ -2004,7 +1999,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/d7vG6cEMp-s9feU49LBcds0aI4z4KWCYM9sDvUxZHXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI0/ODg3LTE2MTk3NzUx/ODctMzg0Ni5qcGVn.jpeg" alt="Cover for Igotlostinsidemyhead" style="max-width:120px; height:auto;" />
       </td>
@@ -2025,7 +2020,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/HzgccT3DwMECcQaHfZD0xkiU5_TUq0QGCkvezvQE9dw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTE1/MzE2LTE2MjI0OTc2/MjEtMTkwNi5qcGVn.jpeg" alt="Cover for Beginnings" style="max-width:120px; height:auto;" />
       </td>
@@ -2070,7 +2065,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/siRldRKngDhuqkT99-xk1bbwMV3A_oJ-b-a2M3eEVaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjAz/MjE3LTE2Njg3NzI5/NDctOTExNy5qcGVn.jpeg" alt="Cover for Arctic Darkness" style="max-width:120px; height:auto;" />
       </td>
@@ -2090,7 +2085,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/Ae-cJLyaywJPTWaAAfLDHgvn-0-tkZJFQ9OHn96DMHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAw/OTg5LTE2ODEwNDA4/NjctMjM3MS5qcGVn.jpeg" alt="Cover for Syvä hiljaisuus" style="max-width:120px; height:auto;" />
       </td>
@@ -2108,7 +2103,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/242e4d67cd6a4d4ea15beef186379548.png" alt="Cover for Black Roses" style="max-width:120px; height:auto;" />
       </td>
@@ -2197,7 +2192,7 @@ The Finland tag encompasses music created by Finnish artists across diverse genr
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td></td>

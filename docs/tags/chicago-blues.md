@@ -9,6 +9,10 @@ title: chicago blues
 
 Last updated: <time datetime="2025-10-31T06:52:19.070Z">Fri Oct 31 2025 08:52:19 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Chicago blues emerged when Southern Delta blues musicians migrated northward and electrified their sound in the 1940s-50s, creating an urban, amplified style with driving rhythms and prominent harmonica. The music features gritty vocals, distorted electric guitars, and a full band sound that transformed the acoustic Delta tradition into something rawer and more aggressive. This style became the foundation for rock and roll, emphasizing emotional intensity and instrumental virtuosity within a 12-bar blues structure.
+
 ### 100 chronological releases
 
 <table>
@@ -934,7 +938,7 @@ Last updated: <time datetime="2025-10-31T06:52:19.070Z">Fri Oct 31 2025 08:52:19
       <td>
         <ul>
             <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 11</li>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 23</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 22</li>
             <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 23</li>
             <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 26</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 48</li>
