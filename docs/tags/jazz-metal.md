@@ -9,110 +9,2156 @@ title: jazz metal
 
 Last updated: <time datetime="2025-10-27T16:06:53.213Z">Mon Oct 27 2025 18:06:53 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Jazz metal fuses the technical complexity and improvisational spirit of jazz with the aggressive intensity and heavy distortion of metal. This hybrid approach often features intricate polyrhythms, dissonant harmonies, and unpredictable song structures that challenge conventional genre boundaries. The style emerged from progressive and avant-garde metal scenes seeking to expand beyond traditional metal frameworks through jazz&#39;s sophisticated musical vocabulary.
+
 ### 100 chronological releases
 
-| Place | Cover | Date | Artist | Album |
-|---|---|---|---|---|
-| 1 | ![Cover](https://i.discogs.com/uQBnLpaEGjhFfLfqY7OxaqVOcTTAKC_OtVOY1VH6OEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjI2/NDcyLTE2MDU1OTMw/MjQtMTI2My5qcGVn.jpeg) | 2020-10-31 | Nahr Alhumam | Transmogrification |
-| 2 |  |  | ЙййЪ | НЕНАВИЖУ |
-| 6 | ![Cover](https://i.discogs.com/xeNzH15mR2C56AsNfuJeY3PuZC4VWaYbyAiSVp9-xLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjA3/MTQtMTI1MjUzNzcw/Mi5qcGVn.jpeg) | 1985-10-07 | Kalashnikov | BANG BANG |
-| 27 |  |  | Shining (Norwegian) | One One One |
-| 48 |  | 1991 | Painkiller | Guts Of A Virgin |
-| 28 | ![Cover](http://coverartarchive.org/release/e4521532-6392-45eb-92a8-784033de7509/2571993471-250.jpg) | 1991-08-30 | Atheist | Unquestionable Presence |
-| 3 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/5cae4a4e6c2cc1238b3d2d1c572a4f72.png) | 1994 | God | The Anatomy of Addiction |
-| 21 | ![Cover](https://i.discogs.com/DgIX4Xr2wc48bDapTqKzVtK9Dtima-qJ8VQucBl6lOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTYx/NzMtMTQ4MzM4NTUw/OS02NDU2LmpwZWc.jpeg) | 1997 | Echosilence | ...And Sorrow |
-| 45 | ![Cover](https://i.discogs.com/M06XeZjEF-iCjRxvbRy438c8IGY5ZL6JDd14_d8lRQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzY2/ODgtMTIwMjc2MDQ1/NS5qcGVn.jpeg) | 1999 | American Heritage | Why Everyone Gets Cancer |
-| 33 |  | 1999-06-07 | Ministry | Dark Side of the Spoon |
-| 18 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/4ad2b1b7cbdeee48c91ae8e6fd267f7d.png) | 1999-12-19 | Spiral Architect | A Sceptic&#39;s Universe |
-| 23 | ![Cover](https://i.discogs.com/k6zYvlTiuA2qdO8xIkkw0FBe_GVBQvKp4gMX8-YyGCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDI1/MzQtMTQ2MzMzMzk0/MS00NzA5LmpwZWc.jpeg) | 2000 | Red Tide | Type II |
-| 40 | ![Cover](https://i.discogs.com/dehYUmnZza7Jp1aaaHDeSRgYDmagv_ambzIWpjkHk-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTg1/NzItMTQyMTk2NjEw/Ny0yNDczLmpwZWc.jpeg) | 2008 | Citriniti | Hydra Odd World |
-| 41 | ![Cover](https://i.discogs.com/T_dc7bnc_u5KIPub2dPEAsMfDz_sk3nLWtKiKnXFt6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODY2/ODQtMTQxMDcxNTYx/Ni02MjkzLmpwZWc.jpeg) | 2008 | A Fashionable Disease | Untitled Album |
-| 47 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/d897419fb1f748baaf3413232a524330.png) | 2008 | Orange Tulip Conspiracy | Orange Tulip Conspiracy |
-| 7 | ![Cover](https://i.discogs.com/S1HugZCL5hvZnoPXspe3VkeO6hBUf60XbmpcNqoZuBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc2/OTQtMTUyOTE4MDQ4/OS03NzI2LmpwZWc.jpeg) | 2008-09-12 | Dog Fashion Disco | Beating A Dead Horse To Death... Again |
-| 8 | ![Cover](https://i.discogs.com/S1HugZCL5hvZnoPXspe3VkeO6hBUf60XbmpcNqoZuBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc2/OTQtMTUyOTE4MDQ4/OS03NzI2LmpwZWc.jpeg) | 2008-09-12 | Dog Fashion Disco | Beating a Dead Horse to Death... Again |
-| 16 | ![Cover](https://i.discogs.com/J9PM3DhHedidTTrccXsvJDqmWDgoI_K-AcK7Eox2vmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTUz/MjAwLTE2NjAwOTI2/OTAtNjI5Ni5qcGVn.jpeg) | 2010 | Horeja | La Mas Desechable De Todas Las Maquinas |
-| 43 | ![Cover](https://i.discogs.com/JXFi4tyUAZVNDlH5XGUHraoEHFbiM11E4BEjNge6_Ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzY0/MTMtMTMzMDMzMDYz/NC5qcGVn.jpeg) | 2011 | The Dr. Orphyus Project | Death Jazz |
-| 24 | ![Cover](https://i.discogs.com/YuF6ucK9gwG5674iB3jY3a7SlR95CKnu5KszGL44N4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDM5/MTktMTU5NTE3OTcy/NS0zMTE3LmpwZWc.jpeg) | 2011-12-20 | Akkolyte | Clues in the Chaospile |
-| 4 | ![Cover](https://i.discogs.com/bNdrTP4KdUpYzfpt5pRR1rAzLI557wl7npmWx-ITAXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTcx/MjQtMTMzNTE2ODQ0/MS5qcGVn.jpeg) | 2013-05 | Tectum | Jingle Bell Rock |
-| 14 | ![Cover](https://i.discogs.com/wqRQ-mKQvJrmblzE4Sl2fgWKlfWsDchZT2as66jtenk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkz/NjE5LTE1OTYwMzYw/NDUtNTQ3Mi5qcGVn.jpeg) | 2014-02-01 | Uzumaki | Knowledge of a Language One Has Never Learned |
-| 32 | ![Cover](https://i.discogs.com/KOzUJSNnHOHkiVH1FLecjoiJDKnNZ_m1rhN1Gtkn4NI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA1/MDE3LTE1MTM4MjU2/OTEtMTE4Ny5qcGVn.jpeg) | 2014-02-15 | Kids Eat Crayons | Dogs at Play Among the Ruins |
-| 35 |  |  | Shining (Norwegian) | Live Blackjazz |
-| 36 | ![Cover](https://i.discogs.com/_rDgALbA3DPJvmPDYDqXaJelHJmKcAjWeWA2l3AureA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDUw/NzAtMTM3MzQzNjQ0/OC0yNjIyLmpwZWc.jpeg) | 2012-08-01 | Jerseyband | Forever Hammer |
-| 44 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/86ee4da713b18b17497aa5c9d7146aae.png) | 2012-10-23 | Connor Engstrom | The Final Countdown (Swing Metal Cover) |
-| 5 |  | 2015 | Felix Martin | The Human Transcription |
-| 9 | ![Cover](https://i.discogs.com/3Y7ugpCMkt1FrQGzPzJt7Ge6MalWvNVRF66XYreAb1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkz/NjUyLTE1OTYwMzY0/NDUtODk4Ni5qcGVn.jpeg) | 2015-05-20 | Uzumaki | Glottology |
-| 10 | ![Cover](https://i.discogs.com/qMHSUw49ZvVlaiFnPxIgbZK1hJsX_2-GLBz-dG8Fg0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTA4/MTYtMTQ4NDgzMTU4/Mi04NTkxLmpwZWc.jpeg) | 2015-08-16 | The Blessed Beat | MiV |
-| 29 | ![Cover](https://i.discogs.com/tz7i-AoQb3seJ1dPSsNf-QILj4uTZitX2v9wc2OCTko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDg4/Nzk0LTE1MTcyMjg0/NDAtNzU3NC5qcGVn.jpeg) | 2016-10-10 | Li&#39;ed | The Mist Within |
-| 46 | ![Cover](https://i.discogs.com/xOJ-9B0ZYimJEIeiV3AZSFdJxRD0WE6vt8-XuQTKdVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU2/NTgxLTE1MDkwNDAx/OTUtNTcyOS5qcGVn.jpeg) | 2017-08-03 | Traun | The Lilac Moon |
-| 39 | ![Cover](https://i.discogs.com/kwYDmtNghqxJMqc43pEIKH3BDSSKZ3xcujM6GGvFCPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk4/ODg3LTE1MDk4MjU5/MzUtOTc5OC5qcGVn.jpeg) | 2017-11-03 | Traun | Escape From Spa 9 |
-| 49 | ![Cover](https://i.discogs.com/xNufx7Qt3PMLGpu1yE5lLcJYhHUHm36TIPLjlz_qMwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI4/MDc3LTE1NTc5MzMw/NTEtNzc0My5qcGVn.jpeg) | 2018 | STEORRAH | The Altstadt Abyss |
-| 42 | ![Cover](https://i.discogs.com/gbIBGNkE59nFLy1D9uBFKHqBCUGzi6XmDWAyJQWNJhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc0/ODA2LTE1NTExODM4/OTEtMjgxNS5qcGVn.jpeg) | 2018-11-09 | Thoren | Gwarth I |
-| 38 | ![Cover](https://i.discogs.com/Kb9V7jcIi9Sk_YfcBvA_Z6fyD8T1V5ab84Svmdb_e48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTAy/NzIyLTE1NTU0MjE2/NTctMzUzNS5qcGVn.jpeg) | 2019-03-23 | Tryptamyne | Tryptamyne |
-| 11 | ![Cover](https://i.discogs.com/YSGJmaQ4faeNfTDCFXRUnNkfPpz1lh7KklqEkVKHxAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDc5/MDA5LTE1OTYxNTA5/MTctNzYxMC5qcGVn.jpeg) | 2019-07-15 | Uzumaki | Spoken in Tongues |
-| 12 |  |  | ЙййЪ | Satan&#39;s Cunt |
-| 50 |  |  | Shining (Norwegian) | Blackjazz |
-| 31 | ![Cover](https://i.discogs.com/8WJAov1SXBlCoi4DNnl1xjxhXzPPO4xt_Adxt8xiUoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQx/MTgzLTE1ODY5ODE0/NTctODcwOS5qcGVn.jpeg) | 2020 | Phonon | Alloy |
-| 26 | ![Cover](https://i.discogs.com/5BmBImEzum-8W_7F2SSfgyuYE2BUHGF2Y8jPM3OGKWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI1/NDYwLTE2MDIwOTc0/NTMtNzgyNC5qcGVn.jpeg) | 2020-06-16 | Echidna | Escape from Civilization |
-| 34 | ![Cover](https://i.discogs.com/pw2oV84eCCQ3By5eZ5-mN1duPtuPr30dSx8P8fW9Ifc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjM0/NTY3LTE2NDUzNjcy/ODItNTcxNC5qcGVn.jpeg) | 2021-06-18 | SISSY XO | Keep Staring at Me Like that and Ill Fuck Your Dad. |
-| 22 | ![Cover](https://i.discogs.com/CPqba2glOSyJ8luVni5Asg28cPCLYRXpTs2L6WDKzX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjQy/MDI4LTE2NDgyMzAw/MDYtNDAxNi5qcGVn.jpeg) | 2022-04-08 | Abhorrent Expanse | Gateways To Resplendence |
-| 13 |  | 2024-07-19 | Conglaciation | Pyrocumulonimbus Precipitate |
-| 15 |  |  | Tear Light From Matter | In Statu Nascendi |
-| 17 |  |  | KARTOSOEWIRJO? | SAWANG SINAWANG |
-| 19 |  |  | The Moonchild Trio | The Crucible |
-| 20 |  |  | Intact Element | Intact Element - Vaguely Apologetic |
-| 25 | ![Cover](https://i.discogs.com/AX4OCvNrCKl92OsOOUQJ4vVEZHQQamMH3dEjQ1Xe23Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDM4/ODk5LTE2NjI1MzYw/NDAtNTk4Ni5qcGVn.jpeg) | 2022-06-03 | CKRAFT | Drowning Tree |
-| 30 |  |  | Shining (Norwegian) | In The Kingdom Of Kitsch You Will Be A Monster |
-| 37 |  |  | Shining (Norwegian) | Grindstone |
-| 67 |  | 1992-04-17 | God | Possession |
-| 70 |  |  | pumpkin jacket | The Difficult Second Album |
-| 83 |  | 1993-08-30 | Atheist | Elements |
-| 79 | ![Cover](https://i.discogs.com/0i9so85ZrpkFlu4FYyFxdQTOVPqjliIg2oilzW5Ckxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTU4/Ni0xMTQzOTg5MDk3/LmpwZWc.jpeg) | 1993-09-14 | Cynic | Focus |
-| 56 |  | 1994 | Jonas Hellborg Group | E |
-| 54 | ![Cover](https://i.discogs.com/Wv8slA_Ao7tnZpNH-xwZ_348Jy6rRGXeAvF1Qy0-N00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTg5/OC0xMzM5MTU2MjU1/LTQ4NjMuanBlZw.jpeg) | 1998 | Echosilence | Eclectic Collaborations |
-| 81 |  | 1999 | Fleurety | Last-minute Lies |
-| 85 |  | 1999 | On the Virg | Serious Young Insects |
-| 55 |  | 1999-03-05 | Gordian Knot | Gordian Knot |
-| 78 | ![Cover](https://i.discogs.com/5hXU1JZkuf6qeJ1N7-XDP82dg7TQHLUezA7Z98UeDYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDk3/MDYtMTM1NTU0NjM2/MS03MjM2LmpwZWc.jpeg) | 2000 | Anomaly | Anomaly |
-| 69 | ![Cover](https://i.discogs.com/WgJDUYJ7Io0-AAOPQvcUj-aFuD3F6kQlF-0iCs-Fhck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTUz/MjMtMTUwMjQ4MjAy/MS0xOTUyLmpwZWc.jpeg) | 2001 | Haji&#39;s Kitchen | Sucker Punch |
-| 90 | ![Cover](https://i.discogs.com/GIr_JLKCoxMOcBrrBnQ46k8nFFaQWpGqWbOnJ6tsYAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTcy/MjYtMTYwNzA0MjM4/OS00OTk4LmpwZWc.jpeg) | 2002 | Coprofago | Genesis |
-| 58 | ![Cover](https://i.discogs.com/4_d1iENMMWdWHFnjD0KrOZOW7MS171XUPDvxG_r_YnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDM4/NjAtMTM1MjAxMDg0/MC02ODA5LmpwZWc.jpeg) | 2002-03-20 | Joey Tafolla | Plastic |
-| 52 | ![Cover](https://i.discogs.com/EdY410gTx245ByVWY1qeAhZyRatQXo1_NsvALR1rZUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDkw/NjAtMTI3MDU4MTc0/Ny5qcGVn.jpeg) | 2009-05-11 | Exivious | Exivious |
-| 61 |  |  | Nick Elward | Regressive Rock |
-| 76 | ![Cover](https://i.discogs.com/J9G_oSftg9LLmpx1d03P3y4fLzfUCnHkWij9ENooa5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDQ2/NC0xMTY1MjU1NDA3/LmpwZWc.jpeg) | 2003 | Ephel Duath | Painter&#39;s Palette |
-| 95 | ![Cover](https://i.discogs.com/J9G_oSftg9LLmpx1d03P3y4fLzfUCnHkWij9ENooa5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDQ2/NC0xMTY1MjU1NDA3/LmpwZWc.jpeg) | 2003 | Ephel Duath | The Painter&#x60;s Palette |
-| 96 |  | 2003-05-19 | Ephel Duath | The Painter&#39;s Palette |
-| 87 |  | 2003-08-18 | Darth Vegas | Darth Vegas |
-| 80 | ![Cover](https://i.discogs.com/OEvZ_och5L7VHqGZBkiY455iAMrrY7NQ-wkPtShkcOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ0/NDEtMTM2MzE4Nzkw/Mi04MDYyLmpwZWc.jpeg) | 2004 | Le Scrawl | Eager to Please |
-| 91 |  | 2004-07-27 | Trevor Dunn&#39;s Trio-Convulsant | Sister Phantom Owl Fish |
-| 92 |  | 2005 | Panzerballett | Panzerballett |
-| 89 |  | 2005-02-13 | Continuo Renacer | Continuo Renacer |
-| 88 | ![Cover](https://i.discogs.com/ZnRJ2a4hgD2qNxHnZI9h5HuSUQDfiqXnV-mr45C9XBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDc5/MS0xNjIzMjI3NzIy/LTIwNzQuanBlZw.jpeg) | 2005-03-22 | Ultralyd | Chromosome Gun |
-| 99 |  | 2005-11-07 | Ephel Duath | Pain Necessary To Know |
-| 74 | ![Cover](https://i.discogs.com/b8Xh0_9F9ItvuSQDv6f7bEUSLPEg5KDZ3Hq_K6Dnb7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDUw/MTEtMTQwNDI5NDgy/MS03NDkwLmpwZWc.jpeg) | 2006 | miRthkon | The Illusion Of Joy |
-| 63 |  | 2006-08-17 | Diablo Swing Orchestra | The Butcher&#39;s Ballroom |
-| 66 | ![Cover](https://i.discogs.com/_2gwHYj20UgbVlnQ1PA1jiNeQHTJp63iDDiH4K4-V6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA4/NzI4LTE1MTM4OTY1/NzgtODAyNy5qcGVn.jpeg) | 2007 | Kids Eat Crayons | Kids Eat Crayons is for Lovers |
-| 94 |  | 2007 | 1980 | 1980 |
-| 71 | ![Cover](https://i.discogs.com/T_dc7bnc_u5KIPub2dPEAsMfDz_sk3nLWtKiKnXFt6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODY2/ODQtMTQxMDcxNTYx/Ni02MjkzLmpwZWc.jpeg) | 2008 | A Fashionable Disease | A Fashionable Disease |
-| 82 |  | 2009-02-17 | Zu | Carboniferous |
-| 59 |  | 2010 | Pessimist | Longaevus |
-| 100 |  | 2010-01-18 | Shining | Blackjazz |
-| 75 |  | 2010-03-18 | Kathaarsys | Intuition |
-| 73 | ![Cover](https://i.discogs.com/GIBopPwMQx2JrTNDsesnax0pz4PoSRvezlaROM-A9xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODM2/MzgtMTM2OTA3NzQw/My05NDU0LmpwZWc.jpeg) | 2010-11-10 | Acrania | Unbreakable Fury |
-| 77 | ![Cover](https://i.discogs.com/zvvxl5FsiU9O-Gq9BldxaXLjSR_hOQN5Q8CbOC9Grp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDM4/OTktMTYzODE4MzA2/NS05MTEyLmpwZWc.jpeg) | 2011-01-12 | Korekyojinn | Tundra |
-| 93 | ![Cover](https://i.discogs.com/-O4A-gAd4T89Wjhy1uYP0Rz3zr1y9d5sIRVbj6IPzfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjQ5/MjgtMTM0OTQzNDUw/MC0zNTc3LmpwZWc.jpeg) | 2012-09-27 | Panzerballett | Tank Goodness |
-| 57 |  | 2013 | Zevious | Passing Through the Wall |
-| 68 |  | 2013-04-06 | Shining | One One One |
-| 53 | ![Cover](https://i.discogs.com/E7SiWpJnnPpLGUpKaJEj6IjYM7SM_ZOIUsJOsj25XkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjUx/MzktMTYyNTkyOTY4/NC01MDkxLmpwZWc.jpeg) | 2013-10-01 | Hyrrokkin | Pristine Origin |
-| 84 | ![Cover](https://i.discogs.com/K8sex0exeHtJILV8c0X4VmLznHFn9GkqAz-diy4RTaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTgy/NjctMTU5NTgwMzYz/OC00MzY1LmpwZWc.jpeg) | 2015-03-24 | Zu | Cortar Todo |
-| 72 | ![Cover](https://i.discogs.com/nTzln1IzLY1lpDiUH24ITNW6SW31ryOSdTp7wHUN9y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTkz/OTYtMTQ2MDg1NDQ2/MC05NzgwLmpwZWc.jpeg) | 2015-09-25 | Sound Struggle | Rise |
-| 86 | ![Cover](https://i.discogs.com/QK5ZStD_stx6eClnoGzxO-hBqVsLptJYyc-r2b8hgvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTI2/MTEtMTQ3NDk4NzIx/MS05ODAwLmpwZWc.jpeg) | 2016-09-30 | Brain Tentacles | Brain Tentacles |
-| 98 | ![Cover](https://lastfm.freetls.fastly.net/i/u/34s/888bb81c882fca6d4437189c4039c652.png) | 2017-06-23 | EX EYE | Ex Eye |
-| 64 | ![Cover](https://i.discogs.com/4TUqb0IWPdLWL4EZzJDWCcjyuk1H9hTUdvOLVtmkrVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDUw/NTAtMTMzNDY4MTU0/NC5qcGVn.jpeg) | 2018 | Cynic | 1991 Demo (Roadrunner) |
-| 51 | ![Cover](https://i.discogs.com/SoDXUEJcBUbwr4dXsXd9YoWRemubublknDxUcp1wylg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcx/NTgzLTE1NDE2MjY1/NDEtNzYxNi5qcGVn.jpeg) | 2018-10-12 | DRH | Thin Ice |
-| 62 | ![Cover](https://i.discogs.com/cX7tz-zOpRb0vNFrWr4p_yJ0dlXY4za97tY_NaPW2e8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDE3/ODMxLTE2MDE5Njgy/ODAtNzM4MC5qcGVn.jpeg) | 2020 | Kilter | Axiom |
-| 60 | ![Cover](https://i.discogs.com/zjhCqGj2J_DcN6NAq0XhdQYl250F0JxkbcgbidtsCE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE2/NDc4LTE2Mjk4ODcw/MTktMjg3Ni5qcGVn.jpeg) | 2020-12-11 | Le Grand Sbam | Furvent |
-| 97 | ![Cover](https://i.discogs.com/lWzDW4679YaSeHA0tXjBJdWCvXHAET7aS5JDOe0R-vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTIw/NDk4LTE2NDc5Nzgx/ODctNjc3NS5qcGVn.jpeg) | 2021-11-05 | Diablo Swing Orchestra | Swagger &amp; Stroll Down the Rabbit Hole |
-| 65 | ![Cover](https://i.discogs.com/AX4OCvNrCKl92OsOOUQJ4vVEZHQQamMH3dEjQ1Xe23Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDM4/ODk5LTE2NjI1MzYw/NDAtNTk4Ni5qcGVn.jpeg) | 2022-06-03 | CKRAFT | Epic Discordant Vision |
+<table>
+  <thead>
+    <tr>
+      <th>Place</th>
+      <th>Cover</th>
+      <th>Date</th>
+      <th>Artist</th>
+      <th>Album</th>
+      <th>Tags</th>
+      <th>Other places</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://i.discogs.com/xeNzH15mR2C56AsNfuJeY3PuZC4VWaYbyAiSVp9-xLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjA3/MTQtMTI1MjUzNzcw/Mi5qcGVn.jpeg" alt="Cover for BANG BANG" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985-10-07</td>
+      <td>Kalashnikov</td>
+      <td>BANG BANG</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+      </td>
+      <td>1991</td>
+      <td>Painkiller</td>
+      <td>Guts Of A Virgin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="http://coverartarchive.org/release/e4521532-6392-45eb-92a8-784033de7509/2571993471-250.jpg" alt="Cover for Unquestionable Presence" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991-08-30</td>
+      <td>Atheist</td>
+      <td>Unquestionable Presence</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 14</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 54</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td>1992-04-17</td>
+      <td>God</td>
+      <td>Possession</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 61</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>
+      </td>
+      <td>1993-08-30</td>
+      <td>Atheist</td>
+      <td>Elements</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 33</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>
+          <img src="https://i.discogs.com/0i9so85ZrpkFlu4FYyFxdQTOVPqjliIg2oilzW5Ckxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTU4/Ni0xMTQzOTg5MDk3/LmpwZWc.jpeg" alt="Cover for Focus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-09-14</td>
+      <td>Cynic</td>
+      <td>Focus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 23</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cae4a4e6c2cc1238b3d2d1c572a4f72.png" alt="Cover for The Anatomy of Addiction" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>God</td>
+      <td>The Anatomy of Addiction</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Jonas Hellborg Group</td>
+      <td>E</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://i.discogs.com/DgIX4Xr2wc48bDapTqKzVtK9Dtima-qJ8VQucBl6lOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTYx/NzMtMTQ4MzM4NTUw/OS02NDU2LmpwZWc.jpeg" alt="Cover for ...And Sorrow" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Echosilence</td>
+      <td>...And Sorrow</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 15</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/Wv8slA_Ao7tnZpNH-xwZ_348Jy6rRGXeAvF1Qy0-N00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MTg5/OC0xMzM5MTU2MjU1/LTQ4NjMuanBlZw.jpeg" alt="Cover for Eclectic Collaborations" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Echosilence</td>
+      <td>Eclectic Collaborations</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/M06XeZjEF-iCjRxvbRy438c8IGY5ZL6JDd14_d8lRQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzY2/ODgtMTIwMjc2MDQ1/NS5qcGVn.jpeg" alt="Cover for Why Everyone Gets Cancer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>American Heritage</td>
+      <td>Why Everyone Gets Cancer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>Fleurety</td>
+      <td>Last-minute Lies</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+      </td>
+      <td>1999</td>
+      <td>On the Virg</td>
+      <td>Serious Young Insects</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>
+      </td>
+      <td>1999-03-05</td>
+      <td>Gordian Knot</td>
+      <td>Gordian Knot</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+      </td>
+      <td>1999-06-07</td>
+      <td>Ministry</td>
+      <td>Dark Side of the Spoon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ad2b1b7cbdeee48c91ae8e6fd267f7d.png" alt="Cover for A Sceptic&#39;s Universe" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999-12-19</td>
+      <td>Spiral Architect</td>
+      <td>A Sceptic&#39;s Universe</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/k6zYvlTiuA2qdO8xIkkw0FBe_GVBQvKp4gMX8-YyGCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDI1/MzQtMTQ2MzMzMzk0/MS00NzA5LmpwZWc.jpeg" alt="Cover for Type II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Red Tide</td>
+      <td>Type II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/5hXU1JZkuf6qeJ1N7-XDP82dg7TQHLUezA7Z98UeDYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDk3/MDYtMTM1NTU0NjM2/MS03MjM2LmpwZWc.jpeg" alt="Cover for Anomaly" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Anomaly</td>
+      <td>Anomaly</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://i.discogs.com/WgJDUYJ7Io0-AAOPQvcUj-aFuD3F6kQlF-0iCs-Fhck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTUz/MjMtMTUwMjQ4MjAy/MS0xOTUyLmpwZWc.jpeg" alt="Cover for Sucker Punch" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Haji&#39;s Kitchen</td>
+      <td>Sucker Punch</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/GIr_JLKCoxMOcBrrBnQ46k8nFFaQWpGqWbOnJ6tsYAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTcy/MjYtMTYwNzA0MjM4/OS00OTk4LmpwZWc.jpeg" alt="Cover for Genesis" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Coprofago</td>
+      <td>Genesis</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+          <img src="https://i.discogs.com/4_d1iENMMWdWHFnjD0KrOZOW7MS171XUPDvxG_r_YnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDM4/NjAtMTM1MjAxMDg0/MC02ODA5LmpwZWc.jpeg" alt="Cover for Plastic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-03-20</td>
+      <td>Joey Tafolla</td>
+      <td>Plastic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/samba" | relative_url }}">samba</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>
+          <img src="https://i.discogs.com/J9G_oSftg9LLmpx1d03P3y4fLzfUCnHkWij9ENooa5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDQ2/NC0xMTY1MjU1NDA3/LmpwZWc.jpeg" alt="Cover for Painter&#39;s Palette" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Ephel Duath</td>
+      <td>Painter&#39;s Palette</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+          <img src="https://i.discogs.com/J9G_oSftg9LLmpx1d03P3y4fLzfUCnHkWij9ENooa5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDQ2/NC0xMTY1MjU1NDA3/LmpwZWc.jpeg" alt="Cover for The Painter&#x60;s Palette" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Ephel Duath</td>
+      <td>The Painter&#x60;s Palette</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>2003-05-19</td>
+      <td>Ephel Duath</td>
+      <td>The Painter&#39;s Palette</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>
+      </td>
+      <td>2003-08-18</td>
+      <td>Darth Vegas</td>
+      <td>Darth Vegas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/surf" | relative_url }}">surf</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 22</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+          <img src="https://i.discogs.com/OEvZ_och5L7VHqGZBkiY455iAMrrY7NQ-wkPtShkcOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ0/NDEtMTM2MzE4Nzkw/Mi04MDYyLmpwZWc.jpeg" alt="Cover for Eager to Please" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Le Scrawl</td>
+      <td>Eager to Please</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td>2004-07-27</td>
+      <td>Trevor Dunn&#39;s Trio-Convulsant</td>
+      <td>Sister Phantom Owl Fish</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Panzerballett</td>
+      <td>Panzerballett</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td>2005-02-13</td>
+      <td>Continuo Renacer</td>
+      <td>Continuo Renacer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/ZnRJ2a4hgD2qNxHnZI9h5HuSUQDfiqXnV-mr45C9XBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDc5/MS0xNjIzMjI3NzIy/LTIwNzQuanBlZw.jpeg" alt="Cover for Chromosome Gun" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-03-22</td>
+      <td>Ultralyd</td>
+      <td>Chromosome Gun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td>2005-11-07</td>
+      <td>Ephel Duath</td>
+      <td>Pain Necessary To Know</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 16</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 45</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>
+          <img src="https://i.discogs.com/b8Xh0_9F9ItvuSQDv6f7bEUSLPEg5KDZ3Hq_K6Dnb7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDUw/MTEtMTQwNDI5NDgy/MS03NDkwLmpwZWc.jpeg" alt="Cover for The Illusion Of Joy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>miRthkon</td>
+      <td>The Illusion Of Joy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+      </td>
+      <td>2006-08-17</td>
+      <td>Diablo Swing Orchestra</td>
+      <td>The Butcher&#39;s Ballroom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 58</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 99</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/_2gwHYj20UgbVlnQ1PA1jiNeQHTJp63iDDiH4K4-V6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA4/NzI4LTE1MTM4OTY1/NzgtODAyNy5qcGVn.jpeg" alt="Cover for Kids Eat Crayons is for Lovers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Kids Eat Crayons</td>
+      <td>Kids Eat Crayons is for Lovers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 46</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>1980</td>
+      <td>1980</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/T_dc7bnc_u5KIPub2dPEAsMfDz_sk3nLWtKiKnXFt6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODY2/ODQtMTQxMDcxNTYx/Ni02MjkzLmpwZWc.jpeg" alt="Cover for Untitled Album" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>A Fashionable Disease</td>
+      <td>Untitled Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 12</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>
+          <img src="https://i.discogs.com/T_dc7bnc_u5KIPub2dPEAsMfDz_sk3nLWtKiKnXFt6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODY2/ODQtMTQxMDcxNTYx/Ni02MjkzLmpwZWc.jpeg" alt="Cover for A Fashionable Disease" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>A Fashionable Disease</td>
+      <td>A Fashionable Disease</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/dehYUmnZza7Jp1aaaHDeSRgYDmagv_ambzIWpjkHk-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTg1/NzItMTQyMTk2NjEw/Ny0yNDczLmpwZWc.jpeg" alt="Cover for Hydra Odd World" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Citriniti</td>
+      <td>Hydra Odd World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d897419fb1f748baaf3413232a524330.png" alt="Cover for Orange Tulip Conspiracy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Orange Tulip Conspiracy</td>
+      <td>Orange Tulip Conspiracy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/S1HugZCL5hvZnoPXspe3VkeO6hBUf60XbmpcNqoZuBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc2/OTQtMTUyOTE4MDQ4/OS03NzI2LmpwZWc.jpeg" alt="Cover for Beating A Dead Horse To Death... Again" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-09-12</td>
+      <td>Dog Fashion Disco</td>
+      <td>Beating A Dead Horse To Death... Again</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>
+          <img src="https://i.discogs.com/S1HugZCL5hvZnoPXspe3VkeO6hBUf60XbmpcNqoZuBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc2/OTQtMTUyOTE4MDQ4/OS03NzI2LmpwZWc.jpeg" alt="Cover for Beating a Dead Horse to Death... Again" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-09-12</td>
+      <td>Dog Fashion Disco</td>
+      <td>Beating a Dead Horse to Death... Again</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>
+      </td>
+      <td>2009-02-17</td>
+      <td>Zu</td>
+      <td>Carboniferous</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 29</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 29</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://i.discogs.com/EdY410gTx245ByVWY1qeAhZyRatQXo1_NsvALR1rZUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDkw/NjAtMTI3MDU4MTc0/Ny5qcGVn.jpeg" alt="Cover for Exivious" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-05-11</td>
+      <td>Exivious</td>
+      <td>Exivious</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+          <img src="https://i.discogs.com/J9PM3DhHedidTTrccXsvJDqmWDgoI_K-AcK7Eox2vmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTUz/MjAwLTE2NjAwOTI2/OTAtNjI5Ni5qcGVn.jpeg" alt="Cover for La Mas Desechable De Todas Las Maquinas" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>Horeja</td>
+      <td>La Mas Desechable De Todas Las Maquinas</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+      </td>
+      <td>2010</td>
+      <td>Pessimist</td>
+      <td>Longaevus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td>2010-01-18</td>
+      <td>Shining</td>
+      <td>Blackjazz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>
+      </td>
+      <td>2010-03-18</td>
+      <td>Kathaarsys</td>
+      <td>Intuition</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/GIBopPwMQx2JrTNDsesnax0pz4PoSRvezlaROM-A9xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODM2/MzgtMTM2OTA3NzQw/My05NDU0LmpwZWc.jpeg" alt="Cover for Unbreakable Fury" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-11-10</td>
+      <td>Acrania</td>
+      <td>Unbreakable Fury</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/JXFi4tyUAZVNDlH5XGUHraoEHFbiM11E4BEjNge6_Ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzY0/MTMtMTMzMDMzMDYz/NC5qcGVn.jpeg" alt="Cover for Death Jazz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>The Dr. Orphyus Project</td>
+      <td>Death Jazz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/zvvxl5FsiU9O-Gq9BldxaXLjSR_hOQN5Q8CbOC9Grp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDM4/OTktMTYzODE4MzA2/NS05MTEyLmpwZWc.jpeg" alt="Cover for Tundra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-01-12</td>
+      <td>Korekyojinn</td>
+      <td>Tundra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 57</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>
+          <img src="https://i.discogs.com/YuF6ucK9gwG5674iB3jY3a7SlR95CKnu5KszGL44N4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDM5/MTktMTU5NTE3OTcy/NS0zMTE3LmpwZWc.jpeg" alt="Cover for Clues in the Chaospile" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-12-20</td>
+      <td>Akkolyte</td>
+      <td>Clues in the Chaospile</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+          <img src="https://i.discogs.com/_rDgALbA3DPJvmPDYDqXaJelHJmKcAjWeWA2l3AureA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDUw/NzAtMTM3MzQzNjQ0/OC0yNjIyLmpwZWc.jpeg" alt="Cover for Forever Hammer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-08-01</td>
+      <td>Jerseyband</td>
+      <td>Forever Hammer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/-O4A-gAd4T89Wjhy1uYP0Rz3zr1y9d5sIRVbj6IPzfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjQ5/MjgtMTM0OTQzNDUw/MC0zNTc3LmpwZWc.jpeg" alt="Cover for Tank Goodness" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-09-27</td>
+      <td>Panzerballett</td>
+      <td>Tank Goodness</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86ee4da713b18b17497aa5c9d7146aae.png" alt="Cover for The Final Countdown (Swing Metal Cover)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-10-23</td>
+      <td>Connor Engstrom</td>
+      <td>The Final Countdown (Swing Metal Cover)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td>2013</td>
+      <td>Zevious</td>
+      <td>Passing Through the Wall</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td>2013-04-06</td>
+      <td>Shining</td>
+      <td>One One One</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://i.discogs.com/bNdrTP4KdUpYzfpt5pRR1rAzLI557wl7npmWx-ITAXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTcx/MjQtMTMzNTE2ODQ0/MS5qcGVn.jpeg" alt="Cover for Jingle Bell Rock" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-05</td>
+      <td>Tectum</td>
+      <td>Jingle Bell Rock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/E7SiWpJnnPpLGUpKaJEj6IjYM7SM_ZOIUsJOsj25XkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjUx/MzktMTYyNTkyOTY4/NC01MDkxLmpwZWc.jpeg" alt="Cover for Pristine Origin" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-10-01</td>
+      <td>Hyrrokkin</td>
+      <td>Pristine Origin</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://i.discogs.com/wqRQ-mKQvJrmblzE4Sl2fgWKlfWsDchZT2as66jtenk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkz/NjE5LTE1OTYwMzYw/NDUtNTQ3Mi5qcGVn.jpeg" alt="Cover for Knowledge of a Language One Has Never Learned" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-02-01</td>
+      <td>Uzumaki</td>
+      <td>Knowledge of a Language One Has Never Learned</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/KOzUJSNnHOHkiVH1FLecjoiJDKnNZ_m1rhN1Gtkn4NI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA1/MDE3LTE1MTM4MjU2/OTEtMTE4Ny5qcGVn.jpeg" alt="Cover for Dogs at Play Among the Ruins" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-02-15</td>
+      <td>Kids Eat Crayons</td>
+      <td>Dogs at Play Among the Ruins</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td>2015</td>
+      <td>Felix Martin</td>
+      <td>The Human Transcription</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/K8sex0exeHtJILV8c0X4VmLznHFn9GkqAz-diy4RTaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTgy/NjctMTU5NTgwMzYz/OC00MzY1LmpwZWc.jpeg" alt="Cover for Cortar Todo" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-03-24</td>
+      <td>Zu</td>
+      <td>Cortar Todo</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/3Y7ugpCMkt1FrQGzPzJt7Ge6MalWvNVRF66XYreAb1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkz/NjUyLTE1OTYwMzY0/NDUtODk4Ni5qcGVn.jpeg" alt="Cover for Glottology" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-05-20</td>
+      <td>Uzumaki</td>
+      <td>Glottology</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>
+          <img src="https://i.discogs.com/qMHSUw49ZvVlaiFnPxIgbZK1hJsX_2-GLBz-dG8Fg0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2OTA4/MTYtMTQ4NDgzMTU4/Mi04NTkxLmpwZWc.jpeg" alt="Cover for MiV" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-08-16</td>
+      <td>The Blessed Beat</td>
+      <td>MiV</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/nTzln1IzLY1lpDiUH24ITNW6SW31ryOSdTp7wHUN9y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTkz/OTYtMTQ2MDg1NDQ2/MC05NzgwLmpwZWc.jpeg" alt="Cover for Rise" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-09-25</td>
+      <td>Sound Struggle</td>
+      <td>Rise</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/QK5ZStD_stx6eClnoGzxO-hBqVsLptJYyc-r2b8hgvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTI2/MTEtMTQ3NDk4NzIx/MS05ODAwLmpwZWc.jpeg" alt="Cover for Brain Tentacles" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-09-30</td>
+      <td>Brain Tentacles</td>
+      <td>Brain Tentacles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/tz7i-AoQb3seJ1dPSsNf-QILj4uTZitX2v9wc2OCTko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDg4/Nzk0LTE1MTcyMjg0/NDAtNzU3NC5qcGVn.jpeg" alt="Cover for The Mist Within" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2016-10-10</td>
+      <td>Li&#39;ed</td>
+      <td>The Mist Within</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/888bb81c882fca6d4437189c4039c652.png" alt="Cover for Ex Eye" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-06-23</td>
+      <td>EX EYE</td>
+      <td>Ex Eye</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 8</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/xOJ-9B0ZYimJEIeiV3AZSFdJxRD0WE6vt8-XuQTKdVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU2/NTgxLTE1MDkwNDAx/OTUtNTcyOS5qcGVn.jpeg" alt="Cover for The Lilac Moon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-08-03</td>
+      <td>Traun</td>
+      <td>The Lilac Moon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://i.discogs.com/kwYDmtNghqxJMqc43pEIKH3BDSSKZ3xcujM6GGvFCPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk4/ODg3LTE1MDk4MjU5/MzUtOTc5OC5qcGVn.jpeg" alt="Cover for Escape From Spa 9" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-11-03</td>
+      <td>Traun</td>
+      <td>Escape From Spa 9</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/xNufx7Qt3PMLGpu1yE5lLcJYhHUHm36TIPLjlz_qMwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODI4/MDc3LTE1NTc5MzMw/NTEtNzc0My5qcGVn.jpeg" alt="Cover for The Altstadt Abyss" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>STEORRAH</td>
+      <td>The Altstadt Abyss</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://i.discogs.com/4TUqb0IWPdLWL4EZzJDWCcjyuk1H9hTUdvOLVtmkrVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDUw/NTAtMTMzNDY4MTU0/NC5qcGVn.jpeg" alt="Cover for 1991 Demo (Roadrunner)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018</td>
+      <td>Cynic</td>
+      <td>1991 Demo (Roadrunner)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/SoDXUEJcBUbwr4dXsXd9YoWRemubublknDxUcp1wylg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcx/NTgzLTE1NDE2MjY1/NDEtNzYxNi5qcGVn.jpeg" alt="Cover for Thin Ice" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-10-12</td>
+      <td>DRH</td>
+      <td>Thin Ice</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/gbIBGNkE59nFLy1D9uBFKHqBCUGzi6XmDWAyJQWNJhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc0/ODA2LTE1NTExODM4/OTEtMjgxNS5qcGVn.jpeg" alt="Cover for Gwarth I" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-11-09</td>
+      <td>Thoren</td>
+      <td>Gwarth I</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+          <img src="https://i.discogs.com/Kb9V7jcIi9Sk_YfcBvA_Z6fyD8T1V5ab84Svmdb_e48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTAy/NzIyLTE1NTU0MjE2/NTctMzUzNS5qcGVn.jpeg" alt="Cover for Tryptamyne" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-03-23</td>
+      <td>Tryptamyne</td>
+      <td>Tryptamyne</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 10</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>
+          <img src="https://i.discogs.com/YSGJmaQ4faeNfTDCFXRUnNkfPpz1lh7KklqEkVKHxAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDc5/MDA5LTE1OTYxNTA5/MTctNzYxMC5qcGVn.jpeg" alt="Cover for Spoken in Tongues" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-07-15</td>
+      <td>Uzumaki</td>
+      <td>Spoken in Tongues</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://i.discogs.com/8WJAov1SXBlCoi4DNnl1xjxhXzPPO4xt_Adxt8xiUoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQx/MTgzLTE1ODY5ODE0/NTctODcwOS5qcGVn.jpeg" alt="Cover for Alloy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020</td>
+      <td>Phonon</td>
+      <td>Alloy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/cX7tz-zOpRb0vNFrWr4p_yJ0dlXY4za97tY_NaPW2e8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDE3/ODMxLTE2MDE5Njgy/ODAtNzM4MC5qcGVn.jpeg" alt="Cover for Axiom" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020</td>
+      <td>Kilter</td>
+      <td>Axiom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+          <img src="https://i.discogs.com/5BmBImEzum-8W_7F2SSfgyuYE2BUHGF2Y8jPM3OGKWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI1/NDYwLTE2MDIwOTc0/NTMtNzgyNC5qcGVn.jpeg" alt="Cover for Escape from Civilization" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-06-16</td>
+      <td>Echidna</td>
+      <td>Escape from Civilization</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/greek" | relative_url }}">greek</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/uQBnLpaEGjhFfLfqY7OxaqVOcTTAKC_OtVOY1VH6OEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjI2/NDcyLTE2MDU1OTMw/MjQtMTI2My5qcGVn.jpeg" alt="Cover for Transmogrification" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-10-31</td>
+      <td>Nahr Alhumam</td>
+      <td>Transmogrification</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/zjhCqGj2J_DcN6NAq0XhdQYl250F0JxkbcgbidtsCE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTE2/NDc4LTE2Mjk4ODcw/MTktMjg3Ni5qcGVn.jpeg" alt="Cover for Furvent" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-12-11</td>
+      <td>Le Grand Sbam</td>
+      <td>Furvent</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 22</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>
+          <img src="https://i.discogs.com/pw2oV84eCCQ3By5eZ5-mN1duPtuPr30dSx8P8fW9Ifc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjM0/NTY3LTE2NDUzNjcy/ODItNTcxNC5qcGVn.jpeg" alt="Cover for Keep Staring at Me Like that and Ill Fuck Your Dad." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-06-18</td>
+      <td>SISSY XO</td>
+      <td>Keep Staring at Me Like that and Ill Fuck Your Dad.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00baaa2392284a8c78153d4a4af31d52.png" alt="Cover for Swagger &amp; Stroll Down the Rabbit Hole" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-11-05</td>
+      <td>Diablo Swing Orchestra</td>
+      <td>Swagger &amp; Stroll Down the Rabbit Hole</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://i.discogs.com/CPqba2glOSyJ8luVni5Asg28cPCLYRXpTs2L6WDKzX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjQy/MDI4LTE2NDgyMzAw/MDYtNDAxNi5qcGVn.jpeg" alt="Cover for Gateways To Resplendence" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-04-08</td>
+      <td>Abhorrent Expanse</td>
+      <td>Gateways To Resplendence</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/AX4OCvNrCKl92OsOOUQJ4vVEZHQQamMH3dEjQ1Xe23Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDM4/ODk5LTE2NjI1MzYw/NDAtNTk4Ni5qcGVn.jpeg" alt="Cover for Drowning Tree" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-06-03</td>
+      <td>CKRAFT</td>
+      <td>Drowning Tree</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/AX4OCvNrCKl92OsOOUQJ4vVEZHQQamMH3dEjQ1Xe23Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDM4/ODk5LTE2NjI1MzYw/NDAtNTk4Ni5qcGVn.jpeg" alt="Cover for Epic Discordant Vision" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-06-03</td>
+      <td>CKRAFT</td>
+      <td>Epic Discordant Vision</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>
+      </td>
+      <td>2024-07-19</td>
+      <td>Conglaciation</td>
+      <td>Pyrocumulonimbus Precipitate</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>
+      </td>
+      <td></td>
+      <td>pumpkin jacket</td>
+      <td>The Difficult Second Album</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/england" | relative_url }}">england</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/london" | relative_url }}">london</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/western" | relative_url }}">western</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 29</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
+      <td>ЙййЪ</td>
+      <td>НЕНАВИЖУ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>
+      </td>
+      <td></td>
+      <td>ЙййЪ</td>
+      <td>Satan&#39;s Cunt</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Tear Light From Matter</td>
+      <td>In Statu Nascendi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td></td>
+      <td>KARTOSOEWIRJO?</td>
+      <td>SAWANG SINAWANG</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Moonchild Trio</td>
+      <td>The Crucible</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Intact Element</td>
+      <td>Intact Element - Vaguely Apologetic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Shining (Norwegian)</td>
+      <td>One One One</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Shining (Norwegian)</td>
+      <td>In The Kingdom Of Kitsch You Will Be A Monster</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Shining (Norwegian)</td>
+      <td>Live Blackjazz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Shining (Norwegian)</td>
+      <td>Grindstone</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Shining (Norwegian)</td>
+      <td>Blackjazz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Nick Elward</td>
+      <td>Regressive Rock</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Related genres
 
