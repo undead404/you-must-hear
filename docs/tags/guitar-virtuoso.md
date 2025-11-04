@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T17:45:03.565Z
+date: 2025-11-03T23:58:26.901Z
 permalink: tags/guitar-virtuoso
 title: guitar virtuoso
 ---
 
 ## guitar virtuoso
 
-Last updated: <time datetime="2025-11-02T17:45:03.565Z">Sun Nov 02 2025 19:45:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T23:58:26.901Z">Tue Nov 04 2025 01:58:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
   </thead>
   <tbody>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>
       </td>
       <td>1977-09</td>
@@ -65,7 +65,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
       </td>
       <td>1978</td>
@@ -83,7 +83,25 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/sY0kws8DEuo7ntB5gvl4obsSrDQJVee5KSE-cgu1FiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzQw/MS0xMzYxNzQ5NDI2/LTM2MTUuanBlZw.jpeg" alt="Cover for The Honeydrippers, Vol. 1 [Expanded]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>The Honeydrippers</td>
+      <td>The Honeydrippers, Vol. 1 [Expanded]</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/BAlrSFiDxwhADlM2PefbbeAWtb8mXb5GVKSRav3LHhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTUy/Ni0xMTY3NjcwNzUy/LmpwZWc.jpeg" alt="Cover for Steeler" style="max-width:120px; height:auto;" />
       </td>
@@ -98,7 +116,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 36</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -122,7 +140,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>72</td>
       <td>
       </td>
       <td>1986</td>
@@ -136,12 +154,12 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 86</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/MrXwMMkP3LNKdmzR3-lRQ-nwsW6naDs5Tpr5qPKKSGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMy/OTItMTI1ODI5MTcz/OS5qcGVn.jpeg" alt="Cover for The Essential Stevie Ray Vaughan and Double Trouble" style="max-width:120px; height:auto;" />
       </td>
@@ -160,7 +178,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f2b69112c1eb02f1a8750df64f13162.png" alt="Cover for Trilogy" style="max-width:120px; height:auto;" />
       </td>
@@ -179,7 +197,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>66</td>
       <td>
       </td>
       <td>1987</td>
@@ -197,7 +215,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
       </td>
       <td>1987</td>
@@ -215,7 +233,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>
       </td>
       <td>1987</td>
@@ -266,7 +284,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 39</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 41</li>
             <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 98</li>
         </ul>
       </td>
@@ -287,13 +305,13 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 16</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 19</li>
             <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf5693602b1da6f22811dfdfb4634185.png" alt="Cover for Dragon&#39;s Kiss" style="max-width:120px; height:auto;" />
       </td>
@@ -312,7 +330,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6c4288302a24ee59b6771a6a2ce4d8e.png" alt="Cover for Odyssey" style="max-width:120px; height:auto;" />
       </td>
@@ -325,7 +343,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 12</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 14</li>
             <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 100</li>
         </ul>
       </td>
@@ -351,7 +369,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
       </td>
       <td>1989</td>
@@ -368,7 +386,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fe0c8fba5575890077d3b36f326582e.png" alt="Cover for Flying In A Blue Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -381,12 +399,12 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 91</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c342c5ac86546058fc02dd15fd23d6a.png" alt="Cover for Ah Via Musicom" style="max-width:120px; height:auto;" />
       </td>
@@ -399,12 +417,12 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 99</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d5ba7d0423d4d08986f2e9a3ea8355f.png" alt="Cover for Passion and Warfare" style="max-width:120px; height:auto;" />
       </td>
@@ -418,7 +436,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 97</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -439,12 +457,12 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 98</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/9gKGkbHj1mrY6iEUkxTuenUxqfnD7adgzif2tQnqoNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTg5/ODUtMTUwMTI0ODE5/NC03MjMwLmpwZWc.jpeg" alt="Cover for Jimi Hendrix Experience (CD 1" style="max-width:120px; height:auto;" />
       </td>
@@ -463,7 +481,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/mJXqCFCs274X3buT1MX4UqX3U7YcqnNVwQMp7SJXUKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDky/MTMtMTQ3NDc0Nzcz/OC03ODY1LmpwZWc.jpeg" alt="Cover for The Yngwie Malmsteen Collection" style="max-width:120px; height:auto;" />
       </td>
@@ -483,7 +501,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3a20808647a4444b1ae4f5615bdafcb.png" alt="Cover for The Best of Santana" style="max-width:120px; height:auto;" />
       </td>
@@ -492,8 +510,6 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       <td>The Best of Santana</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
@@ -502,7 +518,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/GipmEEdChATaPvhw2dHEdfgvk6v9T4Jar01zsI7sMfU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTIw/ODgtMTI2MTA0MzMw/Ny5qcGVn.jpeg" alt="Cover for Americas" style="max-width:120px; height:auto;" />
       </td>
@@ -521,9 +537,9 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 11</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 40</li>
             <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 65</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 90</li>
             <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 93</li>
             <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 100</li>
         </ul>
@@ -546,7 +562,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       <td>
         <ul>
             <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 54</li>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 95</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -567,12 +583,12 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       <td>
         <ul>
             <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 56</li>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 96</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
       </td>
       <td>1992</td>
@@ -590,7 +606,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/T8iLrPVEXQBPyvO621tJk5lt-iM9i9latHXxjVJEm_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzMw/MDgtMTE4NjI3NTU2/OS5qcGVn.jpeg" alt="Cover for Powers of Ten" style="max-width:120px; height:auto;" />
       </td>
@@ -608,7 +624,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4ad731b17144c31bc9e9b0a5f04648b.png" alt="Cover for Scenes" style="max-width:120px; height:auto;" />
       </td>
@@ -643,7 +659,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/UmEcDrthOwrpj6Uyf7Nq_9m_NSoodlx1oKeWTpUYoJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTIz/MTgxLTE2MDM4MTgy/NjQtNzA2OS5qcGVn.jpeg" alt="Cover for The Jimi Hendrix Experience" style="max-width:120px; height:auto;" />
       </td>
@@ -661,7 +677,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
       </td>
       <td>1993-10-26</td>
@@ -674,12 +690,12 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 9</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4773328c4524b929f9d162fb5735baf.png" alt="Cover for The Seventh Sign" style="max-width:120px; height:auto;" />
       </td>
@@ -698,7 +714,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>80</td>
       <td>
       </td>
       <td>1994</td>
@@ -733,7 +749,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>55</td>
       <td>
       </td>
       <td>1995-09-01</td>
@@ -750,7 +766,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f8de90fd3e1be5f3a854757a47e34c8.png" alt="Cover for Joe Satriani" style="max-width:120px; height:auto;" />
       </td>
@@ -765,7 +781,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 83</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -787,7 +803,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>64</td>
       <td>
       </td>
       <td>1996-05-21</td>
@@ -822,7 +838,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/J9T1cJbUlrPpeQFU5GoZq3CM3OieWuJhlqk3AjIRmIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDky/ODE3LTE1MzYzNjQ2/NTItODQ1My5wbmc.jpeg" alt="Cover for Sex and Religion" style="max-width:120px; height:auto;" />
       </td>
@@ -837,7 +853,25 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 24</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/S-ufd-q4h1u-zMfhX6AQs1MCZ3APNr4xE7nmwWHWV8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIw/NTc4LTE1MzU0NTc5/MjAtMTMxNy5qcGVn.jpeg" alt="Cover for THE GENESIS" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1997</td>
+      <td>Yngwie Malmsteen</td>
+      <td>THE GENESIS</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -878,7 +912,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 93</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -939,7 +973,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/keVElJ0RZXO730AQVE_v34L3AQo5mJqplQJUNVEoGqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQy/MzE5LTE1MzEyNDM3/MjYtMTY2NC5qcGVn.jpeg" alt="Cover for Concierto De Aranjuez" style="max-width:120px; height:auto;" />
       </td>
@@ -960,7 +994,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/hjfNi7V-nTesc_KDFtv1rCMTvt8HeERj2n4UfR2RhAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDYz/MjEtMTU0MDE0Mjg0/Ni03MTA1LmpwZWc.jpeg" alt="Cover for The 7th Song" style="max-width:120px; height:auto;" />
       </td>
@@ -975,12 +1009,12 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 62</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>58</td>
       <td>
       </td>
       <td>1999-09-08</td>
@@ -997,7 +1031,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d6bcb8f6eaa4a2db021df15c8654259.png" alt="Cover for Alligator Farm" style="max-width:120px; height:auto;" />
       </td>
@@ -1016,7 +1050,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
       </td>
       <td>2000-03-13</td>
@@ -1029,7 +1063,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 81</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1052,7 +1086,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/WWRmf58sIcj4I1rDLSRLQjm4GRPGelO4lx8xP0wtflM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE5/MTkzLTE1MDgzNTAw/OTgtMzQ3OS5qcGVn.jpeg" alt="Cover for Seleccion" style="max-width:120px; height:auto;" />
       </td>
@@ -1086,32 +1120,13 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 48</li>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 85</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 57</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e53abdc240ca7da680f57823566e0d2c.png" alt="Cover for Rusty Cooley" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Rusty Cooley</td>
-      <td>Rusty Cooley</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 13</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d21ea007907e4f70a9943f9073813d6c.png" alt="Cover for That Was Then, This Is Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1124,12 +1139,12 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 94</li>
+            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/M_uWxnWeLI2qmJPH2coaLtGs1REdSD6K-4WONkDJlv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzI2/OTctMTMzOTk3NDA0/My0yNzQ0LmpwZWc.jpeg" alt="Cover for Split Decision" style="max-width:120px; height:auto;" />
       </td>
@@ -1145,7 +1160,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 59</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1164,7 +1179,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 89</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1188,7 +1203,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9da4ee5291fe4ad8cad414b484ce801a.png" alt="Cover for Marching Out" style="max-width:120px; height:auto;" />
       </td>
@@ -1203,13 +1218,13 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 22</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 25</li>
             <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/2PXPc5cZ_Vvt_JMo0NdtCA2rGCEZNL2945Vrp2AmPKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njkz/My0xMzg1Nzc1MzQ4/LTk5MjcuanBlZw.jpeg" alt="Cover for MAGNUM OPUS" style="max-width:120px; height:auto;" />
       </td>
@@ -1223,12 +1238,12 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 62</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/Jht2AXT_49ejNaPB7Hpu5zT9iCAHw5kwHmIomn_JceU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIw/NDItMTI0OTAxMjcw/Mi5qcGVn.jpeg" alt="Cover for Jeff" style="max-width:120px; height:auto;" />
       </td>
@@ -1243,7 +1258,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 54</li>
+            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1267,7 +1282,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>56</td>
       <td>
       </td>
       <td>2004</td>
@@ -1281,7 +1296,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 85</li>
+            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1300,13 +1315,13 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 11</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 13</li>
             <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/322c55ac786f2941fe0396c8023a114a.png" alt="Cover for No Gravity" style="max-width:120px; height:auto;" />
       </td>
@@ -1326,7 +1341,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d517f2eebb427e28c5ec887adc27ee0.png" alt="Cover for Is There Love in Space?" style="max-width:120px; height:auto;" />
       </td>
@@ -1339,8 +1354,8 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 90</li>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 94</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 64</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1364,7 +1379,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91f187ddfb61a6466e51af650f7232a9.png" alt="Cover for Live In Tokyo" style="max-width:120px; height:auto;" />
       </td>
@@ -1382,7 +1397,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>81</td>
       <td>
       </td>
       <td>2005-02-22</td>
@@ -1408,7 +1423,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5084cab3a3c748579e93c6a984fb5dc2.png" alt="Cover for Suspended Animation" style="max-width:120px; height:auto;" />
       </td>
@@ -1448,7 +1463,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>2005-06-14</td>
@@ -1466,7 +1481,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/HzOrY3i6vx6UzKZ5-aHeNOZGO5tmdiYGVxhTdnOG5rI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODA5/MTMtMTQ0MjUxMTA2/Mi0zNDU5LmpwZWc.jpeg" alt="Cover for Prime Cuts" style="max-width:120px; height:auto;" />
       </td>
@@ -1485,7 +1500,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/brpj_CPWnup8-Mpp_buwtCwloaLrsX5mEWEZznJoOUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTE4/ODgtMTM0NzEzNTE1/MC0xNjQ5LmpwZWc.jpeg" alt="Cover for Enter The Chicken" style="max-width:120px; height:auto;" />
       </td>
@@ -1500,12 +1515,12 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 2</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd9799d3af5c6df99328a0d80b8b220d.png" alt="Cover for Hands Without Shadows" style="max-width:120px; height:auto;" />
       </td>
@@ -1519,25 +1534,6 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e6d94c5a09f71e5cc9197d7534b3ebc.png" alt="Cover for The Tri-Tone Fascination" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Shawn Lane</td>
-      <td>The Tri-Tone Fascination</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1557,12 +1553,12 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 4</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d53c5e0288c137970d7c42d265da7da.png" alt="Cover for When Gravity Fails" style="max-width:120px; height:auto;" />
       </td>
@@ -1599,7 +1595,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
       </td>
       <td>2006</td>
@@ -1632,12 +1628,12 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       <td>
         <ul>
             <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 72</li>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 92</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/iaShIGfOKRgLCPmRp34dHzyavWvo7gLqjc8XLXEQrz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTk2/NDctMTIwMTU4MzMx/My5qcGVn.jpeg" alt="Cover for Get Out Of My Yard" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,7 +1655,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
       </td>
       <td>2006-11-23</td>
@@ -1714,7 +1710,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       <td>
         <ul>
             <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 24</li>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 85</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1737,7 +1733,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2009-09-06</td>
@@ -1756,7 +1752,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/vx2jVT24ChFTLs_svq3liIQ66-mOodSkPv3jz2-d8LI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODEz/OTMtMTI4NjQwNzk3/Ny5qcGVn.jpeg" alt="Cover for Black Swans &amp; Wormhole Wizards" style="max-width:120px; height:auto;" />
       </td>
@@ -1773,13 +1769,13 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 66</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 67</li>
             <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9dc09f272ef4a34b407c1db563d626c.png" alt="Cover for Eclipse" style="max-width:120px; height:auto;" />
       </td>
@@ -1798,7 +1794,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
       </td>
       <td>2011</td>
@@ -1833,12 +1829,12 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 68</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/mJXqCFCs274X3buT1MX4UqX3U7YcqnNVwQMp7SJXUKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDky/MTMtMTQ3NDc0Nzcz/OC03ODY1LmpwZWc.jpeg" alt="Cover for Seventh Sign" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,7 +1871,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/dH18AOR0WQNXe7734I4fq_OecIzMn8mqAWNhKAeWiOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzY0/NjUtMTQ2MjY0NTI5/MS01NjMwLmpwZWc.jpeg" alt="Cover for Azel" style="max-width:120px; height:auto;" />
       </td>
@@ -1899,7 +1895,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/SMMj6IUDhZqoayz8BY9egPHGK7-_rvpNVvKvnT5Wowo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ0/Nzg5LTE0OTc1NzAz/MDYtMzQ4OC5qcGVn.jpeg" alt="Cover for Balsams" style="max-width:120px; height:auto;" />
       </td>
@@ -1914,7 +1910,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 67</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 68</li>
         </ul>
       </td>
     </tr>

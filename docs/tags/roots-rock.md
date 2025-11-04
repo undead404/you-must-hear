@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T17:45:41.742Z
+date: 2025-11-03T23:59:01.309Z
 permalink: tags/roots-rock
 title: roots rock
 ---
 
 ## roots rock
 
-Last updated: <time datetime="2025-11-02T17:45:41.742Z">Sun Nov 02 2025 19:45:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T23:59:01.309Z">Tue Nov 04 2025 01:59:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,7 +62,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 17</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 18</li>
             <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 71</li>
         </ul>
       </td>
@@ -84,7 +84,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       <td>
         <ul>
             <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 4</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 16</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -162,25 +162,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 62</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8d9d4ab343a19d9456c83cb99793ee5.png" alt="Cover for Chronicle: The 20 Greatest Hits" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1979</td>
-      <td>Creedence Clearwater Revival</td>
-      <td>Chronicle: The 20 Greatest Hits</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -336,7 +318,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 52</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -398,7 +380,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/Xh_OrQDoH32aXS1bEVBX4dPzU8ICamAeDRjrHOJ1SwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzU1/NDgtMTQyNDY5Mjgz/MC05MzM5LmpwZWc.jpeg" alt="Cover for Save My Love" style="max-width:120px; height:auto;" />
       </td>
@@ -449,7 +431,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       <td>
         <ul>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 20</li>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 62</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 64</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 83</li>
         </ul>
       </td>
@@ -510,7 +492,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 9</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 62</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -835,7 +817,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 21</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 23</li>
             <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 94</li>
             <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 95</li>
         </ul>
@@ -880,7 +862,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>2001-03-27</td>
@@ -985,7 +967,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 89</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1213,7 +1195,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/RvSbE_0O47hjiTNXR5SZgXosSzpE2RtiapavPEVNsso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzA2/MTctMTYxMTk2MzY0/MC03MjE0LmpwZWc.jpeg" alt="Cover for Beg Steal or Borrow" style="max-width:120px; height:auto;" />
       </td>
@@ -1291,7 +1273,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
       </td>
       <td>2010-11-26</td>
@@ -1359,7 +1341,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 76</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1490,6 +1472,24 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a396002093efdccf99838ed5d4773f47.png" alt="Cover for Higher Truth" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-09-18</td>
+      <td>Chris Cornell</td>
+      <td>Higher Truth</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
         </ul>
       </td>
       <td>
@@ -1836,8 +1836,8 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 20</li>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 35</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 28</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1895,7 +1895,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 23</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1935,7 +1935,7 @@ Roots rock is a back-to-basics style that emerged in the late 1960s as artists s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 29</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 33</li>
         </ul>
       </td>
     </tr>

@@ -9,6 +9,10 @@ title: spanish metal
 
 Last updated: <time datetime="2025-11-02T22:09:51.007Z">Mon Nov 03 2025 00:09:51 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Spanish metal encompasses heavy metal music performed in Spanish or originating from Spain&#39;s vibrant rock scene, blending traditional metal intensity with Mediterranean cultural influences. The sound ranges from classic heavy metal and power metal to progressive styles, often incorporating lyrical themes rooted in Spanish history, mythology, and social commentary. This tag represents a distinct regional identity within metal, characterized by passionate vocal delivery and a strong connection to Spain&#39;s hard rock heritage from the 1980s onward.
+
 ### 100 chronological releases
 
 <table>
@@ -551,27 +555,6 @@ Last updated: <time datetime="2025-11-02T22:09:51.007Z">Mon Nov 03 2025 00:09:51
       </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3b9065b97a342e9b2ca0294aa9049ce.png" alt="Cover for Turn Down for What (Metal Version)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Leo</td>
-      <td>Turn Down for What (Metal Version)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>7</td>
       <td>
       </td>
@@ -602,26 +585,6 @@ Last updated: <time datetime="2025-11-02T22:09:51.007Z">Mon Nov 03 2025 00:09:51
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d510888b7ad44df9a7a6506ac4ef27e.png" alt="Cover for Títere con cabeza" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Leo</td>
-      <td>Títere con cabeza</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
         </ul>
       </td>
       <td>
@@ -702,6 +665,23 @@ Last updated: <time datetime="2025-11-02T22:09:51.007Z">Mon Nov 03 2025 00:09:51
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3b9065b97a342e9b2ca0294aa9049ce.png" alt="Cover for Turn Down for What (Metal Version)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Turn Down for What (Metal Version)</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -836,6 +816,23 @@ Last updated: <time datetime="2025-11-02T22:09:51.007Z">Mon Nov 03 2025 00:09:51
       <td>1998</td>
       <td>Leo</td>
       <td>Leo Metal, Vol. 18</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d510888b7ad44df9a7a6506ac4ef27e.png" alt="Cover for Títere con cabeza" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Leo</td>
+      <td>Títere con cabeza</td>
       <td>
         <ul>
         </ul>
@@ -1268,7 +1265,7 @@ Last updated: <time datetime="2025-11-02T22:09:51.007Z">Mon Nov 03 2025 00:09:51
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 41</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 42</li>
         </ul>
       </td>
     </tr>
