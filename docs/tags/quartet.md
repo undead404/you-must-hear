@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T15:46:45.840Z
+date: 2025-11-03T23:55:00.303Z
 permalink: tags/quartet
 title: quartet
 ---
 
 ## quartet
 
-Last updated: <time datetime="2025-11-02T15:46:45.840Z">Sun Nov 02 2025 17:46:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T23:55:00.303Z">Tue Nov 04 2025 01:55:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -399,7 +399,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/mL5ftm6_1Bd_cvP3LtyAVQASmkZY_4Q_jQX1S0p1OqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzgy/ODk1LTE1NzM0MDg0/NjYtOTkxMy5qcGVn.jpeg" alt="Cover for Magnard, Faure: String Quartets" style="max-width:120px; height:auto;" />
       </td>
@@ -606,6 +606,24 @@ A quartet is a musical composition for four instruments or voices, also referrin
       <td>2001</td>
       <td>Come Shine</td>
       <td>Come Shine</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://i.discogs.com/qkAdOKaxHBIZiV_drPA3Jb64EXr4L8ElN3wDBz52_Cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTgz/OS0xMzk3NzY4NDA0/LTI3NTcuanBlZw.jpeg" alt="Cover for シューベルト:「死と乙女」「ロザムンデ」　85" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Alban Berg Quartet</td>
+      <td>シューベルト:「死と乙女」「ロザムンデ」　85</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
@@ -1042,7 +1060,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       <td>
         <ul>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 33</li>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 53</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1069,7 +1087,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 38</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1183,7 +1201,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 2</li>
-            <li> <a href="{{ "/tags/latvian" | relative_url }}">latvian</a> # 12</li>
+            <li> <a href="{{ "/tags/latvian" | relative_url }}">latvian</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1554,37 +1572,17 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Led Zeppelin</td>
-      <td>Led Zeppelin: Greatest Hits</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>2</td>
       <td>
       </td>
       <td></td>
-      <td>Tim Woodson and The Heirs of Harmony</td>
-      <td>Live In Newport News - &quot;Millionaire&quot;</td>
+      <td>Eujineus</td>
+      <td>Eujineus Quartets 2012</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
         </ul>
       </td>
       <td>
@@ -1629,7 +1627,7 @@ A quartet is a musical composition for four instruments or voices, also referrin
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
       </td>
       <td></td>

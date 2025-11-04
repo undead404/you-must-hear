@@ -9,6 +9,10 @@ title: shred
 
 Last updated: <time datetime="2025-11-03T17:23:36.376Z">Mon Nov 03 2025 19:23:36 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Shred refers to an intensely technical and virtuosic approach to guitar playing characterized by lightning-fast scales, sweep picking, and complex techniques that push instrumental boundaries. Originating in 1980s heavy metal and hard rock, it emphasizes showmanship and raw skill, often featuring elaborate solos that demonstrate a player&#39;s mastery. The style has evolved beyond metal into progressive and instrumental contexts while maintaining its focus on speed and precision.
+
 ### 100 chronological releases
 
 <table>
