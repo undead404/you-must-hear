@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T09:24:51.032Z
+date: 2025-11-03T18:07:50.981Z
 permalink: tags/melodic-metal
 title: melodic metal
 ---
 
 ## melodic metal
 
-Last updated: <time datetime="2025-11-02T09:24:51.032Z">Sun Nov 02 2025 11:24:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T18:07:50.981Z">Mon Nov 03 2025 20:07:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d20c48b7e50c11de505e6faecd17098.png" alt="Cover for Master of Disguise" style="max-width:120px; height:auto;" />
       </td>
@@ -86,7 +86,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/S5avlVjeIw2ww2wxn8_dSxcg33jrt9KoTNlvwhjvLEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzYw/MjYtMTQyNzQwMDQ2/OS00ODU3LmpwZWc.jpeg" alt="Cover for Land of Broken Hearts" style="max-width:120px; height:auto;" />
       </td>
@@ -108,7 +108,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/em9SWC22o4t2j9z4wbzHRpjrrb8B1Gl0d52YQD-56sA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODAz/MTItMTMzNDc2OTQ1/NC5qcGVn.jpeg" alt="Cover for Classical Variations and Themes" style="max-width:120px; height:auto;" />
       </td>
@@ -129,7 +129,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>
       </td>
       <td>1996-03-23</td>
@@ -164,7 +164,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>40</td>
       <td>
       </td>
       <td>1997-07-18</td>
@@ -222,7 +222,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 21</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 25</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -274,7 +274,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/41a88e185f1679d50ddc489983b48456.png" alt="Cover for Astronomica" style="max-width:120px; height:auto;" />
       </td>
@@ -295,7 +295,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/0CGdYMsMclEinyNjSqTTmCA_6ANsXDsSZzWMt23qUsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTQw/MTQtMTM2ODIwMTc2/MC04NTU0LmpwZWc.jpeg" alt="Cover for Secret Visions" style="max-width:120px; height:auto;" />
       </td>
@@ -357,7 +357,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>43</td>
       <td>
       </td>
       <td>2001-06-26</td>
@@ -374,7 +374,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>
       </td>
       <td>2001-09-24</td>
@@ -407,31 +407,12 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 35</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cce8cacece3fd63adf1e25217b15ca9.png" alt="Cover for Human Stain" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002-02-25</td>
-      <td>Cornerstone</td>
-      <td>Human Stain</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
+      <td>41</td>
       <td>
       </td>
       <td>2002-06-03</td>
@@ -486,7 +467,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37cc4f4bffb737c7703aa44b7ce1d1bf.png" alt="Cover for Shining Black: The Best of Tarot 1986-2003" style="max-width:120px; height:auto;" />
       </td>
@@ -531,7 +512,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>
       </td>
       <td>2003-01-27</td>
@@ -570,7 +551,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>
       </td>
       <td>2003-04</td>
@@ -611,7 +592,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bf7cb8b6dd5d30c4bb32204dd09b1d2.png" alt="Cover for Scenery of a Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -628,6 +609,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 6</li>
             <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 66</li>
         </ul>
       </td>
@@ -653,7 +635,25 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>2</td>
+      <td>
+          <img src="https://i.discogs.com/rqrfsRCL-U9m9pihR8borpcn4RWxm9UAVmsTif7kHCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDIy/NDAtMTI1Nzg2ODU2/OC5qcGVn.jpeg" alt="Cover for Wyrd" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-04-19</td>
+      <td>Elvenking</td>
+      <td>Wyrd</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/99920955dcff470391a7f37063a38d08.png" alt="Cover for Live Invasion" style="max-width:120px; height:auto;" />
       </td>
@@ -672,7 +672,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>34</td>
       <td>
       </td>
       <td>2004-07-12</td>
@@ -714,7 +714,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13b6b3179131951bb7e48d9d6f1dfa2c.png" alt="Cover for Reckoning Night" style="max-width:120px; height:auto;" />
       </td>
@@ -733,7 +733,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>28</td>
       <td>
       </td>
       <td>2005-03-28</td>
@@ -790,7 +790,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
       </td>
       <td>2005-11</td>
@@ -807,7 +807,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/89a50a7a99cd4eb59b5d356aa2bb3b09.png" alt="Cover for Nosferatu" style="max-width:120px; height:auto;" />
       </td>
@@ -919,7 +919,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fea11143f8749b581ca66f2c4eaa00a.png" alt="Cover for Lust Stained Despair" style="max-width:120px; height:auto;" />
       </td>
@@ -939,7 +939,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>33</td>
       <td>
       </td>
       <td>2006-09-22</td>
@@ -975,7 +975,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62327b44a0795cc44b7abf980403210b.png" alt="Cover for Aurora Consurgens" style="max-width:120px; height:auto;" />
       </td>
@@ -1015,7 +1015,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>44</td>
       <td>
       </td>
       <td>2007-01-10</td>
@@ -1055,7 +1055,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>37</td>
       <td>
       </td>
       <td>2007-04-27</td>
@@ -1110,7 +1110,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8107c5fc80e61c55534e07d3ee1b089b.png" alt="Cover for Ghost Opera" style="max-width:120px; height:auto;" />
       </td>
@@ -1125,14 +1125,14 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 5</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 6</li>
             <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 54</li>
             <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/d_67GMFpZ9nYU0Umu5uV9jbYBWCOBy_G08ig6gTrQyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIw/ODAtMTE4Mzk5MzU1/NC5qcGVn.jpeg" alt="Cover for Ghost Opera (Limited Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1154,7 +1154,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
       </td>
       <td>2007-10-29</td>
@@ -1168,7 +1168,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 4</li>
             <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 74</li>
         </ul>
       </td>
@@ -1192,7 +1192,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>
       </td>
       <td>2007-11-30</td>
@@ -1309,27 +1309,6 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4e3d4f0fc54e4d7a351f9cb3f328929.png" alt="Cover for The Scarecrow" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008-01-23</td>
-      <td>Avantasia</td>
-      <td>The Scarecrow</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 76 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 48</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>51</td>
       <td>
       </td>
@@ -1348,7 +1327,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/967c899982464afb9ad43bd93be5eb4c.png" alt="Cover for Master Of Illusion" style="max-width:120px; height:auto;" />
       </td>
@@ -1385,7 +1364,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ea09949edca483cbd9f516d2957d0f0.png" alt="Cover for Good 2B Alive" style="max-width:120px; height:auto;" />
       </td>
@@ -1458,12 +1437,12 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 27</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>
       </td>
       <td>2009-05-29</td>
@@ -1500,7 +1479,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/kAr7t2EPSTCVXLiLSY1FDCL5VyGWU7t2gWogaAgVr-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTcy/NjUtMTYxNzI4OTY0/Mi02NTc2LmpwZWc.jpeg" alt="Cover for Sanctuary" style="max-width:120px; height:auto;" />
       </td>
@@ -1516,12 +1495,12 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 48</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/f4CE7A8w49E9EvNWrz6_BdNvYKrcodM1pbWLo-Pvnk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTIz/NDgtMTU0NjE5NzU4/MS00NTAwLmpwZWc.jpeg" alt="Cover for The Crusher - Reissue" style="max-width:120px; height:auto;" />
       </td>
@@ -1564,7 +1543,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/VUyDam_uJ1SCfYYqNT6pzPCSxzd8c6NRDIxQkxb8UNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Mzk4/NTEtMTQ1MjA3Njky/NS0zNTI2LnBuZw.jpeg" alt="Cover for Мёртвые Сны" style="max-width:120px; height:auto;" />
       </td>
@@ -1601,12 +1580,12 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 33</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e121b2c611df7b054a7966e77be10a32.png" alt="Cover for Angel of Babylon" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,7 +1621,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>
       </td>
       <td>2011-02-12</td>
@@ -1686,7 +1665,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/3tALwn4ewHO_OS72HG5Q7_oJuY_9k8WhqdbNfXNnCKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTgw/ODItMTM3ODQ1NTE0/Ni02MjE3LmpwZWc.jpeg" alt="Cover for And She Says Gold" style="max-width:120px; height:auto;" />
       </td>
@@ -1743,7 +1722,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 10</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 11</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 14</li>
         </ul>
       </td>
@@ -1778,7 +1757,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>46</td>
       <td>
       </td>
       <td>2012-10-26</td>
@@ -1795,7 +1774,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/479d6b5601974888c882e0300db745c6.png" alt="Cover for Kill or Cure" style="max-width:120px; height:auto;" />
       </td>
@@ -1816,7 +1795,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/UjSU-RPYqHdEuEWolLTcErjtmiw3A_hDpas25zrfvXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTA1/NjUtMTQzMDMxMjg5/OS04NzE0LmpwZWc.jpeg" alt="Cover for Temperance" style="max-width:120px; height:auto;" />
       </td>
@@ -1853,7 +1832,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 7</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1881,7 +1860,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>8</td>
       <td>
       </td>
       <td>2015-05-08</td>
@@ -1923,7 +1902,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/3FM2BnI-lcKn3cEqGI9B_vfrDXXKhW_hNm6ex5kfeaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDQ2/MTYtMTQ3MTk2OTc3/NC0xNDE0LmpwZWc.jpeg" alt="Cover for Moonbathers" style="max-width:120px; height:auto;" />
       </td>
@@ -1967,7 +1946,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/FcPm0TfzO6TNMQ4kwUMBnW55ncJI5XLoodCNewI7gWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY1/OTg0LTE1MzM2MzUy/ODctNjEzMy5qcGVn.jpeg" alt="Cover for Darkness and Light" style="max-width:120px; height:auto;" />
       </td>
@@ -2009,7 +1988,26 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>1</td>
+      <td>
+      </td>
+      <td>2022-12-09</td>
+      <td>Savatage</td>
+      <td>Poets &amp; Madmen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/9JMOLO3uAW43V7v8l7GulnqCMm-eeU0GM4cVjAfqFoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTI4/MTE2LTE3MjAwNDQ1/NzEtNTA1OS5qcGVn.jpeg" alt="Cover for Pirates II - Armada" style="max-width:120px; height:auto;" />
       </td>
@@ -2039,7 +2037,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
 - [symphonic metal]({{ "/tags/symphonic-metal" | relative_url }})
 - [progressive metal]({{ "/tags/progressive-metal" | relative_url }})
 - [melodic death metal]({{ "/tags/melodic-death-metal" | relative_url }})
-- [rock]({{ "/tags/rock" | relative_url }})
-- [death metal]({{ "/tags/death-metal" | relative_url }})
 - [gothic metal]({{ "/tags/gothic-metal" | relative_url }})
+- [death metal]({{ "/tags/death-metal" | relative_url }})
+- [rock]({{ "/tags/rock" | relative_url }})
 - [hard rock]({{ "/tags/hard-rock" | relative_url }})

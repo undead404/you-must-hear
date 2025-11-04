@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T08:43:50.988Z
+date: 2025-11-03T17:29:50.305Z
 permalink: tags/symphonic-rock
 title: symphonic rock
 ---
 
 ## symphonic rock
 
-Last updated: <time datetime="2025-11-02T08:43:50.988Z">Sun Nov 02 2025 10:43:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-03T17:29:50.305Z">Mon Nov 03 2025 19:29:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,6 +43,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -84,13 +85,13 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>1</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd2624d580614dd89f4e88af0e5377ed.png" alt="Cover for Collage" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dbe4bc42b90f56b4d9bb0c627e2415f.png" alt="Cover for Asylum" style="max-width:120px; height:auto;" />
       </td>
-      <td>1971</td>
-      <td>Le Orme</td>
-      <td>Collage</td>
+      <td>1971-02</td>
+      <td>Cressida</td>
+      <td>Asylum</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
@@ -194,7 +195,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 8</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -216,7 +217,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       <td>
         <ul>
             <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 20</li>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 41</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 42</li>
             <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 76</li>
         </ul>
       </td>
@@ -236,7 +237,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 32</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -294,7 +295,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 87</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -352,8 +353,8 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 55</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 67</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 56</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -473,7 +474,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 16</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -498,7 +499,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/w2V6eaLoY5pbhnqk44X3X5HikUhxpYVSaS5N0dANBac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTIy/NzA4LTE1NjgyNjMw/NDktNDM0My5qcGVn.jpeg" alt="Cover for Best of the Alan Parsons Project, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1160,7 +1161,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       <td>
         <ul>
             <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 18</li>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1313,7 +1314,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 85</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 86</li>
             <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 95</li>
         </ul>
       </td>
@@ -1357,7 +1358,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 35</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 44</li>
             <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 45</li>
         </ul>
       </td>
@@ -1633,7 +1634,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 65</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1791,7 +1792,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 67</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 68</li>
             <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 70</li>
         </ul>
       </td>
@@ -1840,7 +1841,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/845c6ec136a482d444db350ede693bd5.png" alt="Cover for Depth" style="max-width:120px; height:auto;" />
       </td>
@@ -1898,7 +1899,7 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td>
       </td>
       <td>2022-12-09</td>
@@ -1947,7 +1948,6 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1967,9 +1967,9 @@ Symphonic rock blends rock instrumentation with orchestral elements like strings
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 1</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 3</li>
             <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 38</li>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 61</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 62</li>
         </ul>
       </td>
     </tr>
