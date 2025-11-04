@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T00:00:51.146Z
+date: 2025-11-04T05:48:51.985Z
 permalink: tags/live-recording
 title: live recording
 ---
 
 ## live recording
 
-Last updated: <time datetime="2025-11-03T00:00:51.146Z">Mon Nov 03 2025 02:00:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T05:48:51.985Z">Tue Nov 04 2025 07:48:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/smz2yQRmvY7GW2z_0TQVM0uSUu_4CwSa-pb4T51XgCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODg5/NzItMTYxMTA1Mjg1/NC04ODY3LmpwZWc.jpeg" alt="Cover for Dietrich in Rio" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>1972</td>
@@ -85,7 +85,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>5</td>
       <td>
       </td>
       <td>1974</td>
@@ -105,7 +105,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/ltJBQQ73UxDIZPGj1oIiu-8FO7U1Zi9bTyQucoOwc9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg0/NzUyLTE1Mjg2NTMy/MjgtMjQwMS5qcGVn.jpeg" alt="Cover for The Closing of Winterland" style="max-width:120px; height:auto;" />
       </td>
@@ -125,7 +125,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/YKsd6Z1ua5pYH7Zb5O9EGgVqYEOJjFx9q_h1ILXny4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTQx/ODAtMTU3Mjg3NTQ5/Ni0yOTU1LmpwZWc.jpeg" alt="Cover for Blue Camus" style="max-width:120px; height:auto;" />
       </td>
@@ -144,7 +144,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/NtT63Ry6tC9EF5Ri8sgS5crnyznRG87VBOqoFOFQKlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODgx/MjUtMTYwMTc3MTEz/Ni02NDA4LmpwZWc.jpeg" alt="Cover for Live Punk Club" style="max-width:120px; height:auto;" />
       </td>
@@ -169,7 +169,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecc744cc2eb293f6c5d0f6af8f952edd.png" alt="Cover for Orgasmatron (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -187,7 +187,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/U07i90hkQEbEavcYKX9nDmX_2URqM6jyf8Z9aN4n004/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDI4/MzMtMTM5MzQ5MTc1/Ni02MDkyLmpwZWc.jpeg" alt="Cover for Live From Metropolis Studios" style="max-width:120px; height:auto;" />
       </td>
@@ -207,7 +207,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/bU5ERopUnSCD96cR5mvIEHcZuZXJElWk-HTqSmthRmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzk5/MzAtMTY3NTkyMDQ3/MS03ODUxLmpwZWc.jpeg" alt="Cover for Passport Live" style="max-width:120px; height:auto;" />
       </td>
@@ -225,7 +225,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>14</td>
       <td>
           <img src="https://i.discogs.com/BEkbub2aIzuLm6_SirsAikUcjz7-xBnHD2O7IY2LSxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDU1/NTMtMTQ2MzUzMDEx/My0yMDQzLmpwZWc.jpeg" alt="Cover for Live At The A-Trane" style="max-width:120px; height:auto;" />
       </td>
@@ -244,7 +244,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/VblrTw1rSCRzEN5K5nNJgE9KsG_HYJunXV3NgcH8BYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDk5/My0xMjQ4NDc2Nzg0/LmpwZWc.jpeg" alt="Cover for Live in Overhausen" style="max-width:120px; height:auto;" />
       </td>
@@ -265,7 +265,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/odrTDNFZtMT2U-HVV4A-n4t2OHFAtpzc7tpRK45edz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjI0/ODEtMTQ4OTE0MjQx/Ny04OTE2LmpwZWc.jpeg" alt="Cover for Almost Acoustic" style="max-width:120px; height:auto;" />
       </td>
@@ -285,7 +285,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/yyRKZ_V_OtNMaqNg1qr6avroYQWdBPaj2jU51y37oik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTA2/NTgtMTQyNTQ2MTEx/My00NzgwLmpwZWc.jpeg" alt="Cover for Live And Loud!!" style="max-width:120px; height:auto;" />
       </td>
@@ -304,7 +304,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/cGojwBinK9chUJTcDyIaZEuaz1Fl76SiOcZ9MGviNQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTk1/MC0xMjkzMTM1Mzkz/LmpwZWc.jpeg" alt="Cover for Kings Among Scotland" style="max-width:120px; height:auto;" />
       </td>
@@ -326,7 +326,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>71</td>
       <td>
       </td>
       <td>1990</td>
@@ -370,7 +370,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>76</td>
       <td>
       </td>
       <td>1990-09</td>
@@ -387,7 +387,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1484ad8b303226151ab0f9cae181abf7.png" alt="Cover for Live + Cuddly" style="max-width:120px; height:auto;" />
       </td>
@@ -410,7 +410,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>44</td>
       <td>
       </td>
       <td>1991-11-01</td>
@@ -429,7 +429,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/gnayC4VUYkP-Cv-1CLuKjVpw6aXyoTN_HWuyb_bqGTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI0/MjAtMTM2MjM0MDQ3/OC03MjI3LmpwZWc.jpeg" alt="Cover for Roots Ragga" style="max-width:120px; height:auto;" />
       </td>
@@ -467,7 +467,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>22</td>
       <td>
       </td>
       <td>1992-08-25</td>
@@ -484,7 +484,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/Cm8e1pXJWsYCBJeLA4NlXmvWho-G1FyF7FDIqY8lL5A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjEy/NjY1LTE2NjM5ODA4/NjMtMzY4OS5qcGVn.jpeg" alt="Cover for Col. Bruce Hampton &amp; The Aquarium Rescue Unit" style="max-width:120px; height:auto;" />
       </td>
@@ -502,7 +502,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/wMpRlF3EWl7-t_KocjO-6SyoncpAduhUGbl3pG5ABtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTkw/NjEtMTM1MTg2OTg1/MS02NzU3LmpwZWc.jpeg" alt="Cover for The Berlin Concert" style="max-width:120px; height:auto;" />
       </td>
@@ -521,7 +521,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/Vj2L6YRvw6NQBhdW9kszDGeY56qbQ8G-oEawSlGLCLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzE3/MjMtMTQ4MTE2MDY0/My05MzU3LmpwZWc.jpeg" alt="Cover for Live In A Dive" style="max-width:120px; height:auto;" />
       </td>
@@ -541,7 +541,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/30e53TS6H_qGq4eVc_5M_a9MRdm11Vx6rDTgB7-1d48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTM1/MjktMTUzNDc2NjU5/NS0xNTI0LmpwZWc.jpeg" alt="Cover for 2nd Set" style="max-width:120px; height:auto;" />
       </td>
@@ -561,7 +561,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/_B0LxL8pPq7FcKe9whPzpF5HpAgW_o9CHSoZMbJ39oY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Njk2/NzctMTQ0MjEyMTcx/OS04ODAyLmpwZWc.jpeg" alt="Cover for Live Bait 03 - 2010 Worcester Sampler" style="max-width:120px; height:auto;" />
       </td>
@@ -579,7 +579,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>32</td>
       <td>
       </td>
       <td>1996-10-29</td>
@@ -596,7 +596,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>38</td>
       <td>
       </td>
       <td>1997-08-12</td>
@@ -633,7 +633,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/-_F0yVl2fnk34V3XML-R7y_Y0gREs-CAoYQQaQvWCqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzU5/Ny0xMTEwNjQ2Mzc3/LmpwZw.jpeg" alt="Cover for At the BBC" style="max-width:120px; height:auto;" />
       </td>
@@ -652,7 +652,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/p0xjglSUq_qzZg55-dm7_EvbV4FS4nWiZKipIM3pztI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODgz/NzUtMTQ5NjQ5NTc4/MC0xNDA2LmpwZWc.jpeg" alt="Cover for Live! One Night Only" style="max-width:120px; height:auto;" />
       </td>
@@ -673,7 +673,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/RJJ4johX4J23SZwUwnD1VvUfN_o5ZzHorRIpPK_g8n0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDMy/NTktMTMxODEwMDM0/MS5qcGVn.jpeg" alt="Cover for The Heavy Hitter" style="max-width:120px; height:auto;" />
       </td>
@@ -692,7 +692,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/w6TE59kjaL9GR_wpZedUbyMsvdOWVo69Rne_m5DnvcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODYy/NTEtMTQ4MTY4Nzgy/Mi01MDU4LmpwZWc.jpeg" alt="Cover for Light Fuse Get Away" style="max-width:120px; height:auto;" />
       </td>
@@ -729,7 +729,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/8BVjVSI5Mijdt11ZLNK2_g4tyIKQZDXBeL9UBnDknWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDU4/NTQtMTQ5MjQ0MjAz/OC03NjkzLmpwZWc.jpeg" alt="Cover for Everything Louder Than Everyone Else" style="max-width:120px; height:auto;" />
       </td>
@@ -746,13 +746,13 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 51</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 52</li>
             <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/YLodzgWJahyQjsaOG8VJVEBdaNrykYdZDTd1NqTbD_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjYy/ODI2LTE2ODE2NDkw/NzItMTU1OC5qcGVn.jpeg" alt="Cover for Ao Vivo em Fortaleza" style="max-width:120px; height:auto;" />
       </td>
@@ -774,7 +774,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>60</td>
       <td>
       </td>
       <td>2000-02-01</td>
@@ -809,7 +809,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/VSv_doOtbdXc3u_JJN_KK3fRqnx9_QyPdeqBnzvFdaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTM1/Ni0xNjc2MzE1NDIz/LTI5NjEuanBlZw.jpeg" alt="Cover for Live @ The Key Club" style="max-width:120px; height:auto;" />
       </td>
@@ -850,7 +850,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>39</td>
       <td>
       </td>
       <td>2001-09-25</td>
@@ -867,7 +867,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/OTAtpNn8-kBYpfcw42mVo9N1xCabZJ-8eGzuc6xABhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg0/ODYtMTM1MjY4MDg5/NC03MDIyLmpwZWc.jpeg" alt="Cover for Captured Live" style="max-width:120px; height:auto;" />
       </td>
@@ -889,7 +889,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>80</td>
       <td>
       </td>
       <td>2002</td>
@@ -926,7 +926,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/BHIBOYvjYVvucTK1b_a0U5S2nZwXRwgcF3BNoDcAhzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTY0/MDYtMTI4NzU0MzMy/MS5qcGVn.jpeg" alt="Cover for Back Home" style="max-width:120px; height:auto;" />
       </td>
@@ -946,7 +946,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/es2VqCx-0XCjMoBIboF5VdB5rGad52hcTIN2qGpH5io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzI3/OC0xMzQwMTcwNjI1/LTMwNzguanBlZw.jpeg" alt="Cover for Feels Like The First Time" style="max-width:120px; height:auto;" />
       </td>
@@ -964,7 +964,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/LnUwx322DXLT_CyLH29JyBSYp5dedN_zC0p6vHx_gA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTM2/ODctMTQ1NzI2OTQ4/Ny03NDE1LmpwZWc.jpeg" alt="Cover for Live At Myrtle Beach" style="max-width:120px; height:auto;" />
       </td>
@@ -982,7 +982,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>
       </td>
       <td>2005-07-12</td>
@@ -1000,7 +1000,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/uKh6h5OpIJHF7k74ajpbwhD-8YnApxo8rJEzseSxyQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDk1/MDItMTMwNjc4Nzk0/NC5wbmc.jpeg" alt="Cover for Melora a la Basilica" style="max-width:120px; height:auto;" />
       </td>
@@ -1041,7 +1041,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/H2WQqN51o4gWdoXuGSyIDzngEh3ak5Mu2GRkGg3OXu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI5/NTA1LTE0OTIxMzg4/MjgtNTU5MC5qcGVn.jpeg" alt="Cover for T-Square Live featuring F-1 Grand Prix Theme" style="max-width:120px; height:auto;" />
       </td>
@@ -1059,7 +1059,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c477e5fd0edf6a22a7ddd6d70f6f838b.png" alt="Cover for Companhia do Calypso, Vol. 03 (Ao Vivo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1097,7 +1097,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/X-3P75JS5XMVJN1YXOYZqRd7UNsuWmi0o7q0rqfeI1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTE2/OTktMTU4MzUxMzM2/Ny00OTA0LmpwZWc.jpeg" alt="Cover for Sopra E Sotto Il Palco Live &#39;04" style="max-width:120px; height:auto;" />
       </td>
@@ -1116,7 +1116,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/98c2958e77be8a104bac31e59fc8a97c.png" alt="Cover for 666 Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1133,7 +1133,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/5Gq19u-YH7dTh1NFIklyAKzcpPTyoFZnOcA6Ku3lwZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzU3/NzEtMTUzNDkyNTgz/Ny05MzY1LmpwZWc.jpeg" alt="Cover for Hahnenkampf Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1161,7 +1161,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/3tZCO52iG9kXEDNJ4RYtbLrsmwW6bIFoTolfMrBTkRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDUz/MjEtMTQ4NjU4NzU2/OC0zNjQwLmpwZWc.jpeg" alt="Cover for Live at Dynamo Open Air 1998" style="max-width:120px; height:auto;" />
       </td>
@@ -1183,7 +1183,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/U2FX0tC74WRq1tF_qry8RTb2dHsdCW6n0veD5ss0TPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM0/NzQtMTI3MTkzODMw/OS5qcGVn.jpeg" alt="Cover for Live in a Dive" style="max-width:120px; height:auto;" />
       </td>
@@ -1222,7 +1222,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/oClo23aBpJwVQXMJEj_PNdB8Tf3lhdyPcOSYYj8xfmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjY0/Njc4LTE2MjA2MzAy/ODEtMTE3Mi5qcGVn.jpeg" alt="Cover for Live at the Horseshoe" style="max-width:120px; height:auto;" />
       </td>
@@ -1282,7 +1282,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/pc15DWA2wI9YRhDhMrI9ovi6BnZCVY0G_gD4sd7Gyx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDQ3/MTEtMTQ2OTEyNDk5/Ny05Mjk2LmpwZWc.jpeg" alt="Cover for Live at Ludlow Garage: 1970" style="max-width:120px; height:auto;" />
       </td>
@@ -1301,7 +1301,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>3</td>
       <td>
       </td>
       <td>2010-07-01</td>
@@ -1322,7 +1322,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/euTm6YyymFEFxy7XBYfv4VoBFjVheSqhZLWjXXXi9PM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTA0/NzAtMTMzODg5NDUw/My00ODIzLmpwZWc.jpeg" alt="Cover for All my friends were dead" style="max-width:120px; height:auto;" />
       </td>
@@ -1351,7 +1351,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>77</td>
       <td>
       </td>
       <td>2011-05-31</td>
@@ -1374,7 +1374,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c17907934acf42cfa45a7b5ae3505425.png" alt="Cover for Multishow Ao Vivo NX Zero 10 Anos" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,7 +1416,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/QCGFafEwNaab-ce_renD6IGYUaMBU3tHOqTklTGZbBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTAz/MjAzLTE3MTQwNjYx/MzQtNDk5OC5qcGVn.jpeg" alt="Cover for Live In Chicago" style="max-width:120px; height:auto;" />
       </td>
@@ -1435,7 +1435,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>73</td>
       <td>
       </td>
       <td>2012-03-02</td>
@@ -1477,7 +1477,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>55</td>
       <td>
       </td>
       <td>2012-05-18</td>
@@ -1495,7 +1495,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/S8j6jA5S0n8ML12vvoFsc4-EK7aAX9WR7EyMaAEQzJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njc3/NzctMTMzOTU3ODkx/OS02NDA2LmpwZWc.jpeg" alt="Cover for Deimos" style="max-width:120px; height:auto;" />
       </td>
@@ -1531,7 +1531,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/BO9ddtzkKXfhqzU2CqbuAZk1E-b5W7VhB3465GOstx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzEx/MzMwLTE1Mzg2NjQ0/NTAtNDkyMi5qcGVn.jpeg" alt="Cover for THE MIGHTY LIVE" style="max-width:120px; height:auto;" />
       </td>
@@ -1551,7 +1551,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/YftGvxU-AJAy4j19Mhy--DdE9pvkzj88pfl3w7ro16A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDc2/NjUtMTQzNzA5NTc5/OC04MDE0LmpwZWc.jpeg" alt="Cover for American Stars in Bars" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,7 +1590,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/w4PJKRGEXwfio1cuQmW_vmo_dyGL03V3Qw3f4ryoS8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjM1/OTctMTQ2NDExMzYy/My04Mzc0LmpwZWc.jpeg" alt="Cover for Live In Woodstock Festival" style="max-width:120px; height:auto;" />
       </td>
@@ -1612,30 +1612,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/w-Q4xPMZbqTD0P1PMHzKOtH5BCNGFEX4c5d4hcfnIzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIx/OTA1LTE1MDg0OTkz/MDMtNDMwOC5qcGVn.jpeg" alt="Cover for Day of the Gusano: Live in Mexico" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017-10-06</td>
-      <td>Slipknot</td>
-      <td>Day of the Gusano: Live in Mexico</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/concert" | relative_url }}">concert</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 47</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/z0LU0kLfnBbYdet5e48tXRPGqsfufP8M7BbNWUjXF6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjUx/Mjg0LTE2MTgxNDk0/MjMtNTgxMS5qcGVn.jpeg" alt="Cover for Gebäck in the Days - Live in Hamburg" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,7 +1636,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/SEahCX_KNGWCOyeD3EEdoUYaBt0eEz65Ao5YCfN6_Hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTI1/ODMtMTM3NTY5MjUx/OS02ODgzLmpwZWc.jpeg" alt="Cover for Live At Madison Square Garden New Year&#39;s Eve 1995" style="max-width:120px; height:auto;" />
       </td>
@@ -1679,7 +1656,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/AyCN_HuIaYzpJtJSTugscSmru7Mt1lWus9FiNX6Bzug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcz/MTk2LTE1ODYzMzk0/OTgtNjAwMy5qcGVn.jpeg" alt="Cover for Meine Damen und Herren (Live)" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,7 +1695,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/20acf5b50d01c926c0b152c261f05198.png" alt="Cover for Rain City Sessions +1" style="max-width:120px; height:auto;" />
       </td>
@@ -1737,7 +1714,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/JqCjVw5_N_wm8Pmrt_fBvK_o9SP6MOdV1fToJJr_USc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM2/ODA1LTE1NDA5OTE5/MDktMTg3My5qcGVn.jpeg" alt="Cover for 10 Years &#x2F; 1000 Shows - Live at the Regent Theater" style="max-width:120px; height:auto;" />
       </td>
@@ -1756,7 +1733,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/64T2_UWnKy5SQAXCe4hv8HLxIqX0QDMZDXYnF_RTS8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjUx/MTI0LTE1ODg2OTM3/NTEtMzMwMy5qcGVn.jpeg" alt="Cover for Live at Dynamo Open Air 1997" style="max-width:120px; height:auto;" />
       </td>
@@ -1774,7 +1751,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/aP5CF3fNi7w2KG1gCGQTn6aZXbvmUw5CxFvNJEdFBNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDA0/OTA3LTE2NDY1NTgy/MDAtMzU0MS5qcGVn.jpeg" alt="Cover for Cargo Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1812,7 +1789,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/UW6_VmiU-XsQkMlVTS8qRWS0w3MFb4PxSWC0Il0HuRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MDk4/MDUtMTYwMDYxODMw/My05OTAwLmpwZWc.jpeg" alt="Cover for Live at Dynamo Open Air 1998" style="max-width:120px; height:auto;" />
       </td>
@@ -1832,7 +1809,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/4Mf7T7SBmMfTlMICnOCiZ6IQO-mOGF04OXzSJGT4wzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDQ5/ODYtMTUwMTUzMTcy/NC05ODUwLmpwZWc.jpeg" alt="Cover for George Benson In Concert--Carnegie Hall" style="max-width:120px; height:auto;" />
       </td>
@@ -1853,7 +1830,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/RzrYqb8ye-AflsfmHZN17IMWms45v3FO7NoWwHkHjek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc3/ODUwLTE2MDY1NTg5/NDEtMjYxMS5qcGVn.jpeg" alt="Cover for Lost Machine - Live" style="max-width:120px; height:auto;" />
       </td>
@@ -1871,7 +1848,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/00x-sUjPtLBJ6JnyZ3J1og7Aq_tLJfAbVKNkYCqdoTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTkz/NTMtMTYzNzYzNTg4/Ny03MTQ0LmpwZWc.jpeg" alt="Cover for Live At the Village Vanguard - the Master Takes" style="max-width:120px; height:auto;" />
       </td>
@@ -1891,7 +1868,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>62</td>
       <td>
       </td>
       <td>2023</td>
@@ -1910,7 +1887,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/uwXQZAjiB3bg30A0jHOtUhAjdQPCB8f9SzYGn9XQbIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzYy/OC0xNjk1NTA1OTM1/LTE5NTguanBlZw.jpeg" alt="Cover for Live At Festhalle Frankfurt" style="max-width:120px; height:auto;" />
       </td>
@@ -1928,7 +1905,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/PZsQHoSQvyQOdn3gAvrGMqKUBEdGrvDVaL9pM7a4ijU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg3/NzgyLTE2NTAwMTgz/OTctNzQ2Ny5qcGVn.jpeg" alt="Cover for The Avett Brothers Live, Vol. 3" style="max-width:120px; height:auto;" />
       </td>
@@ -1945,7 +1922,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>7</td>
       <td>
       </td>
       <td></td>
@@ -1966,7 +1943,27 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>81</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d31abee683414e1d929f73a6380aec57.png" alt="Cover for Live Frogs: Set 2" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Les Claypool&#39;s Frog Brigade</td>
+      <td>Live Frogs: Set 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 52</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td>
       </td>
       <td></td>
@@ -1983,7 +1980,7 @@ A live recording captures musical performances as they happen in front of an aud
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38ea7bd3b3af43ab9e896c4ef6ca2981.png" alt="Cover for Evil" style="max-width:120px; height:auto;" />
       </td>

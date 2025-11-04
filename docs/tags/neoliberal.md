@@ -9,6 +9,10 @@ title: neoliberal
 
 Last updated: <time datetime="2025-11-03T06:33:00.504Z">Mon Nov 03 2025 08:33:00 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+&quot;Neoliberal&quot; is an ironic tag for music that embodies corporate-friendly pop aesthetics, performative progressivism, or overly polished commercial sounds that prioritize market appeal over artistic risk. It often includes hyperpop&#39;s synthetic excess, mainstream country-pop, and political figures whose speeches get remixed. The tag critiques how capitalism commodifies rebellion and authenticity into marketable products.
+
 ### 100 chronological releases
 
 <table>

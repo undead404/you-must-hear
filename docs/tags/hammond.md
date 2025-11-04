@@ -9,6 +9,10 @@ title: hammond
 
 Last updated: <time datetime="2025-11-03T08:40:51.806Z">Mon Nov 03 2025 10:40:51 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+The Hammond tag refers to music prominently featuring the Hammond organ, an electric keyboard instrument known for its warm, growling tone and ability to blend jazz, blues, soul, and funk. Developed in the 1930s, it became essential to jazz-funk and soul-jazz through its rich harmonics and expressive use of Leslie speaker effects. The sound evokes smoky clubs and groove-driven performances where the organ serves as both melodic lead and rhythmic foundation.
+
 ### 100 chronological releases
 
 <table>
@@ -141,6 +145,27 @@ Last updated: <time datetime="2025-11-03T08:40:51.806Z">Mon Nov 03 2025 10:40:51
       </td>
     </tr>
     <tr>
+      <td>60</td>
+      <td>
+      </td>
+      <td>1970</td>
+      <td>Freedom&#39;s Children</td>
+      <td>Astra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>99</td>
       <td>
       </td>
@@ -211,26 +236,6 @@ Last updated: <time datetime="2025-11-03T08:40:51.806Z">Mon Nov 03 2025 10:40:51
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-      </td>
-      <td>1970</td>
-      <td>Freedom&#39;s Children</td>
-      <td>Astra</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
         </ul>
       </td>
       <td>
