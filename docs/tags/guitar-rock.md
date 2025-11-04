@@ -9,6 +9,10 @@ title: guitar rock
 
 Last updated: <time datetime="2025-11-03T10:42:43.292Z">Mon Nov 03 2025 12:42:43 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Guitar rock emphasizes the electric or acoustic guitar as the primary melodic and rhythmic driver, spanning everything from virtuosic instrumental showcases to raw, riff-heavy songcraft. The tag encompasses diverse styles unified by guitar-forward arrangements that prioritize technical skill, tonal expression, or sheer sonic power. It reflects rock music&#39;s enduring relationship with the guitar as its defining instrument across decades and subgenres.
+
 ### 100 chronological releases
 
 <table>
@@ -782,7 +786,7 @@ Last updated: <time datetime="2025-11-03T10:42:43.292Z">Mon Nov 03 2025 12:42:43
       <td>
         <ul>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 64</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 67</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 68</li>
         </ul>
       </td>
     </tr>

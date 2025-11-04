@@ -1,18 +1,19 @@
 ---
 category: list
-date: 2025-11-03T23:59:58.431Z
+date: 2025-11-04T00:01:05.352Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-11-03T23:59:58.431Z">Tue Nov 04 2025 01:59:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-11-04T00:01:05.352Z">Tue Nov 04 2025 02:01:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [baritone]({{ "tags/baritone" | relative_url }}) | <time datetime="2025-11-04T00:01:05.352Z">Tue Nov 04 2025 02:01:05 GMT+0200 (Eastern European Standard Time)</time> |
 | [bass]({{ "tags/bass" | relative_url }}) | <time datetime="2025-11-03T23:59:58.431Z">Tue Nov 04 2025 01:59:58 GMT+0200 (Eastern European Standard Time)</time> |
 | [pop metal]({{ "tags/pop-metal" | relative_url }}) | <time datetime="2025-11-03T23:59:50.600Z">Tue Nov 04 2025 01:59:50 GMT+0200 (Eastern European Standard Time)</time> |
 | [acid rock]({{ "tags/acid-rock" | relative_url }}) | <time datetime="2025-11-03T23:59:16.977Z">Tue Nov 04 2025 01:59:16 GMT+0200 (Eastern European Standard Time)</time> |
@@ -188,7 +189,6 @@ Last updated: <time datetime="2025-11-03T23:59:58.431Z">Tue Nov 04 2025 01:59:58
 | [album rock]({{ "tags/album-rock" | relative_url }}) | <time datetime="2025-11-02T18:10:51.057Z">Sun Nov 02 2025 20:10:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [new wave]({{ "tags/new-wave" | relative_url }}) | <time datetime="2025-11-02T17:59:51.745Z">Sun Nov 02 2025 19:59:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [mediterranean]({{ "tags/mediterranean" | relative_url }}) | <time datetime="2025-11-02T17:52:13.968Z">Sun Nov 02 2025 19:52:13 GMT+0200 (Eastern European Standard Time)</time> |
-| [baritone]({{ "tags/baritone" | relative_url }}) | <time datetime="2025-11-02T17:48:57.900Z">Sun Nov 02 2025 19:48:57 GMT+0200 (Eastern European Standard Time)</time> |
 | [italian rock]({{ "tags/italian-rock" | relative_url }}) | <time datetime="2025-11-02T17:27:56.923Z">Sun Nov 02 2025 19:27:56 GMT+0200 (Eastern European Standard Time)</time> |
 | [epic metal]({{ "tags/epic-metal" | relative_url }}) | <time datetime="2025-11-02T16:05:51.032Z">Sun Nov 02 2025 18:05:51 GMT+0200 (Eastern European Standard Time)</time> |
 | [acoustic]({{ "tags/acoustic" | relative_url }}) | <time datetime="2025-11-02T15:57:52.174Z">Sun Nov 02 2025 17:57:52 GMT+0200 (Eastern European Standard Time)</time> |
